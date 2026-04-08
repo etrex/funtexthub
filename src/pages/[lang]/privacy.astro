@@ -1,0 +1,59 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { supportedLangs, useTranslations, type Lang } from '../../i18n/translations';
+
+export function getStaticPaths() {
+  return supportedLangs.map(lang => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = useTranslations(lang);
+---
+
+<Layout title={t('privacy')} lang={lang} currentPath="/privacy">
+  <a href={`/${lang}/`} class="text-sm text-gray-400 hover:text-amber-500 mb-4 inline-block">{t('back_home')}</a>
+
+  <article class="prose prose-gray max-w-none">
+    {lang === 'zh-tw' ? (
+      <div>
+        <h1>隱私權政策</h1>
+        <p>最後更新日期：2026 年 4 月 8 日</p>
+
+        <h2>資料蒐集</h2>
+        <p>FunTextHub（以下稱「本站」）尊重您的隱私。本站為靜態網站，不主動蒐集您的個人資料。本站可能透過第三方服務（如 Google Analytics、Google AdSense）自動蒐集匿名使用資料，包括瀏覽頁面、裝置資訊及 IP 位址。</p>
+
+        <h2>Cookie 使用</h2>
+        <p>本站使用 Cookie 以提供廣告服務及分析網站流量。您可以在瀏覽器設定中管理 Cookie 偏好。</p>
+
+        <h2>第三方廣告</h2>
+        <p>本站使用 Google AdSense 提供廣告。Google 可能使用 Cookie 根據您的瀏覽記錄提供相關廣告。更多資訊請參閱 Google 的隱私權政策。</p>
+
+        <h2>資料安全</h2>
+        <p>本站採用 HTTPS 加密傳輸，確保您的瀏覽資料安全。</p>
+
+        <h2>聯繫方式</h2>
+        <p>如有隱私權相關問題，請透過 contact@funtexthub.com 聯繫我們。</p>
+      </div>
+    ) : (
+      <div>
+        <h1>Privacy Policy</h1>
+        <p>Last updated: April 8, 2026</p>
+
+        <h2>Data Collection</h2>
+        <p>FunTextHub ("the Site") respects your privacy. As a static website, we do not actively collect personal information. Third-party services (such as Google Analytics and Google AdSense) may automatically collect anonymous usage data, including pages visited, device information, and IP addresses.</p>
+
+        <h2>Cookies</h2>
+        <p>The Site uses cookies for advertising services and traffic analysis. You can manage your cookie preferences through your browser settings.</p>
+
+        <h2>Third-Party Advertising</h2>
+        <p>The Site uses Google AdSense for advertising. Google may use cookies to serve ads based on your browsing history. For more information, please refer to Google's Privacy Policy.</p>
+
+        <h2>Data Security</h2>
+        <p>The Site uses HTTPS encryption to ensure the security of your browsing data.</p>
+
+        <h2>Contact</h2>
+        <p>For privacy-related questions, please contact us at contact@funtexthub.com.</p>
+      </div>
+    )}
+  </article>
+</Layout>

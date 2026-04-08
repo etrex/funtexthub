@@ -1,0 +1,111 @@
+{
+  "slug": "sweet-quotes",
+  "category": "Romance",
+  "i18n": {
+    "zh-tw": {
+      "title": "暖男語錄大全",
+      "description": "讓人心頭一暖的甜蜜語錄，適合傳給心儀的對象或另一半"
+    },
+    "en": {
+      "title": "Sweet & Warm Quotes",
+      "description": "Heartwarming sweet quotes perfect for sending to your special someone"
+    }
+  },
+  "items": [
+    {
+      "id": "sq-001",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["日常", "關心"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不用刻意變成別人喜歡的樣子，因為我喜歡的就是你原本的樣子。",
+          "editorNote": "適合對另一半說，特別是對方沒自信的時候",
+          "variations": ["你做自己就好，那個樣子最好看了"]
+        },
+        "en": {
+          "content": "You don't need to change yourself to be liked. I already like who you are.",
+          "editorNote": "Perfect when your partner feels insecure",
+          "variations": ["Just be yourself. That version is my favorite."]
+        }
+      }
+    },
+    {
+      "id": "sq-002",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["思念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是很會說甜言蜜語的人，但看到你笑的時候，我覺得全世界都亮了。",
+          "editorNote": "直男也能用的暖心語錄",
+          "variations": ["你的笑容是我今天最好的消息"]
+        },
+        "en": {
+          "content": "I'm not great with sweet words, but when I see you smile, my whole world lights up.",
+          "editorNote": "Even reserved guys can use this one",
+          "variations": ["Your smile is the best news I've gotten today."]
+        }
+      }
+    },
+    {
+      "id": "sq-003",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["日常", "關心"],
+      "i18n": {
+        "zh-tw": {
+          "content": "天冷了記得多穿一件，不是客套話，是因為你生病的話我會擔心到睡不著。",
+          "editorNote": "換季的時候傳特別有效",
+          "variations": []
+        },
+        "en": {
+          "content": "Dress warmly when it gets cold. I'm not just being polite - if you get sick, I'd worry too much to sleep.",
+          "editorNote": "Great to send when seasons change",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "sq-004",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["承諾"],
+      "i18n": {
+        "zh-tw": {
+          "content": "未來的事我不確定，但有一件事很確定：不管發生什麼，我都想站在你身邊。",
+          "editorNote": "告白或是感情穩定期都能用",
+          "variations": ["不管路多難走，我想跟你一起走"]
+        },
+        "en": {
+          "content": "I can't predict the future, but one thing is certain: no matter what happens, I want to stand beside you.",
+          "editorNote": "Works for confessions or stable relationships",
+          "variations": ["No matter how tough the road gets, I want to walk it with you."]
+        }
+      }
+    },
+    {
+      "id": "sq-005",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "吃飯了嗎？沒吃的話告訴我，我雖然不能馬上出現在你面前，但至少可以幫你叫外送。",
+          "editorNote": "務實又暖心的關心方式",
+          "variations": []
+        },
+        "en": {
+          "content": "Have you eaten yet? If not, tell me. I might not be able to show up right away, but I can at least order delivery for you.",
+          "editorNote": "Practical and heartwarming",
+          "variations": []
+        }
+      }
+    }
+  ]
+}

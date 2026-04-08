@@ -1,0 +1,59 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { supportedLangs, useTranslations, type Lang } from '../../i18n/translations';
+
+export function getStaticPaths() {
+  return supportedLangs.map(lang => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = useTranslations(lang);
+---
+
+<Layout title={t('about')} lang={lang} currentPath="/about">
+  <a href={`/${lang}/`} class="text-sm text-gray-400 hover:text-amber-500 mb-4 inline-block">{t('back_home')}</a>
+
+  <article class="prose prose-gray max-w-none">
+    {lang === 'zh-tw' ? (
+      <div>
+        <h1>關於 FunTextHub</h1>
+
+        <p>FunTextHub 是一個致力於蒐集、整理網路上各種有趣文案的網站。我們相信，一句好笑的話或一段暖心的文字，能讓平凡的一天變得不一樣。</p>
+
+        <h2>我們做什麼</h2>
+        <p>我們的編輯團隊每天從網路各處搜尋有趣、溫暖、有梗的文字內容，經過精心編輯整理後分享給大家。無論你需要一個冷笑話來破冰、一句暖男語錄來傳給心儀對象、還是一段土味情話來逗朋友笑，這裡都找得到。</p>
+
+        <h2>我們的堅持</h2>
+        <ul>
+          <li>每日更新，持續提供新鮮內容</li>
+          <li>雙語支援，中英文都能看</li>
+          <li>附上使用場景建議，讓你知道什麼時候用最有效</li>
+          <li>尊重原創，如有侵權疑慮歡迎聯繫</li>
+        </ul>
+
+        <h2>聯繫我們</h2>
+        <p>有任何建議、投稿或問題，歡迎來信：contact@funtexthub.com</p>
+      </div>
+    ) : (
+      <div>
+        <h1>About FunTextHub</h1>
+
+        <p>FunTextHub is dedicated to collecting and curating fun text content from across the internet. We believe a funny joke or a heartwarming quote can make an ordinary day special.</p>
+
+        <h2>What We Do</h2>
+        <p>Our editorial team searches the internet daily for funny, warm, and witty text content. We carefully edit and curate everything before sharing. Whether you need a cold joke to break the ice, a sweet quote for someone special, or a cheesy pickup line to make friends laugh, you'll find it here.</p>
+
+        <h2>Our Principles</h2>
+        <ul>
+          <li>Daily updates with fresh content</li>
+          <li>Bilingual support in Chinese and English</li>
+          <li>Usage scenario suggestions so you know when it works best</li>
+          <li>Respect for original creators - contact us with any concerns</li>
+        </ul>
+
+        <h2>Contact Us</h2>
+        <p>For suggestions, submissions, or questions: contact@funtexthub.com</p>
+      </div>
+    )}
+  </article>
+</Layout>

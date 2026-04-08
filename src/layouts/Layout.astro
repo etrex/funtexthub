@@ -1,0 +1,69 @@
+---
+import '../styles/global.css';
+import { supportedLangs, langNames, useTranslations, type Lang } from '../i18n/translations';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang: Lang;
+  currentPath?: string;
+}
+
+const { title, description = 'FunTextHub - Daily curated fun texts', lang, currentPath = '' } = Astro.props;
+const t = useTranslations(lang);
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title} | FunTextHub</title>
+    {supportedLangs.map(l => (
+      <link rel="alternate" hreflang={l} href={`https://funtexthub.com/${l}${currentPath}`} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={`https://funtexthub.com/zh-tw${currentPath}`} />
+    <!-- Google AdSense placeholder - replace with your actual ad client ID -->
+    <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+  </head>
+  <body class="min-h-screen flex flex-col">
+    <header class="bg-white border-b border-gray-200 sticky top-0 z-10">
+      <div class="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
+        <a href={`/${lang}/`} class="text-2xl font-bold text-amber-500">FunTextHub</a>
+        <div class="flex items-center gap-4">
+          <nav class="hidden sm:flex gap-6 text-sm font-medium text-gray-600">
+            <a href={`/${lang}/`} class="hover:text-amber-500">{t('nav_home')}</a>
+          </nav>
+          <div class="flex items-center border border-gray-200 rounded-lg overflow-hidden text-xs">
+            {supportedLangs.map(l => (
+              <a
+                href={`/${l}${currentPath}`}
+                class={`px-2.5 py-1.5 font-medium transition-colors ${l === lang ? 'bg-amber-500 text-white' : 'text-gray-500 hover:text-amber-500 hover:bg-gray-50'}`}
+              >
+                {langNames[l]}
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="flex-1 max-w-5xl mx-auto px-4 py-8 w-full">
+      <slot />
+    </main>
+
+    <footer class="bg-white border-t border-gray-200 mt-12">
+      <div class="max-w-5xl mx-auto px-4 py-6">
+        <div class="flex flex-wrap justify-center gap-4 text-sm text-gray-400 mb-3">
+          <a href={`/${lang}/privacy`} class="hover:text-amber-500">{t('privacy')}</a>
+          <a href={`/${lang}/terms`} class="hover:text-amber-500">{t('terms')}</a>
+          <a href={`/${lang}/about`} class="hover:text-amber-500">{t('about')}</a>
+        </div>
+        <p class="text-center text-xs text-gray-400">{t('disclaimer')}</p>
+        <p class="text-center text-xs text-gray-300 mt-1">&copy; {new Date().getFullYear()} FunTextHub &middot; {t('site_tagline')}</p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,71 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { supportedLangs, useTranslations, type Lang } from '../../i18n/translations';
+
+export function getStaticPaths() {
+  return supportedLangs.map(lang => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Lang };
+const t = useTranslations(lang);
+---
+
+<Layout title={t('terms')} lang={lang} currentPath="/terms">
+  <a href={`/${lang}/`} class="text-sm text-gray-400 hover:text-amber-500 mb-4 inline-block">{t('back_home')}</a>
+
+  <article class="prose prose-gray max-w-none">
+    {lang === 'zh-tw' ? (
+      <div>
+        <h1>服務條款</h1>
+        <p>最後更新日期：2026 年 4 月 8 日</p>
+
+        <h2>內容聲明</h2>
+        <p>本站內容為編輯團隊蒐集、整理及創作。所有文案內容僅供娛樂及參考用途。本站不對內容的準確性、完整性或適用性做任何保證。</p>
+
+        <h2>智慧財產權</h2>
+        <p>本站的原創內容（包括網站設計、編排方式）受著作權法保護。網路流傳的笑話、語錄等內容，本站已進行改寫編輯。如您認為本站內容侵犯您的著作權，請透過以下方式聯繫我們，我們將盡速處理。</p>
+
+        <h2>侵權通知（DMCA）</h2>
+        <p>如您認為本站內容侵犯您的智慧財產權，請將以下資訊寄至 dmca@funtexthub.com：</p>
+        <ul>
+          <li>涉嫌侵權內容的連結</li>
+          <li>您的原始作品連結或說明</li>
+          <li>您的聯繫資訊</li>
+          <li>書面聲明確認上述資訊正確</li>
+        </ul>
+
+        <h2>免責聲明</h2>
+        <p>本站內容僅供娛樂用途，不構成任何建議。使用者應自行判斷內容的適當性。</p>
+
+        <h2>條款修改</h2>
+        <p>本站保留隨時修改本服務條款的權利。修改後將於本頁面公告。</p>
+      </div>
+    ) : (
+      <div>
+        <h1>Terms of Service</h1>
+        <p>Last updated: April 8, 2026</p>
+
+        <h2>Content Disclaimer</h2>
+        <p>Content on this site is collected, curated, and created by our editorial team. All content is provided for entertainment and reference purposes only. We make no warranties regarding accuracy, completeness, or suitability.</p>
+
+        <h2>Intellectual Property</h2>
+        <p>Original content on this site (including design and layout) is protected by copyright law. Internet-circulated jokes and quotes have been edited and rewritten. If you believe any content infringes your copyright, please contact us through the channels below.</p>
+
+        <h2>DMCA Notice</h2>
+        <p>If you believe content on this site infringes your intellectual property, please send the following to dmca@funtexthub.com:</p>
+        <ul>
+          <li>Link to the allegedly infringing content</li>
+          <li>Link to or description of your original work</li>
+          <li>Your contact information</li>
+          <li>Written statement confirming the accuracy of the above</li>
+        </ul>
+
+        <h2>Disclaimer</h2>
+        <p>Content is for entertainment purposes only and does not constitute advice. Users should exercise their own judgment regarding appropriateness.</p>
+
+        <h2>Modifications</h2>
+        <p>We reserve the right to modify these terms at any time. Changes will be posted on this page.</p>
+      </div>
+    )}
+  </article>
+</Layout>

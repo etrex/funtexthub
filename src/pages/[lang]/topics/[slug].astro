@@ -1,0 +1,158 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import ContentCard from '../../../components/ContentCard.astro';
+import AdSlot from '../../../components/AdSlot.astro';
+import { readdir, readFile } from 'fs/promises';
+import { join } from 'path';
+import { supportedLangs, useTranslations, getI18n, type Lang } from '../../../i18n/translations';
+
+export async function getStaticPaths() {
+  const topicsDir = join(process.cwd(), 'src/content/topics');
+  const files = await readdir(topicsDir).catch(() => []);
+  const topics = await Promise.all(
+    files.filter(f => f.endsWith('.json'))
+      .map(async f => JSON.parse(await readFile(join(topicsDir, f), 'utf-8')))
+  );
+  return topics.flatMap(topic =>
+    supportedLangs.map(lang => ({
+      params: { lang, slug: topic.slug },
+      props: { topic, lang },
+    }))
+  );
+}
+
+const { topic, lang } = Astro.props as { topic: any; lang: Lang };
+const t = useTranslations(lang);
+const i18nData = getI18n(topic.i18n, lang);
+const title = i18nData?.title ?? topic.slug;
+const description = i18nData?.description ?? '';
+
+// Get all other topics for recommendations
+const topicsDir = join(process.cwd(), 'src/content/topics');
+const files = await readdir(topicsDir).catch(() => []);
+const allTopics = (await Promise.all(
+  files.filter(f => f.endsWith('.json'))
+    .map(async f => JSON.parse(await readFile(join(topicsDir, f), 'utf-8')))
+)).filter(t => t.slug !== topic.slug);
+
+// Collect all tags for filtering
+const allTags = [...new Set((topic.items ?? []).flatMap((item: any) => item.tags ?? []))];
+
+// JSON-LD structured data
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": title,
+  "description": description,
+  "url": `https://funtexthub.com/${lang}/topics/${topic.slug}`,
+  "inLanguage": lang === 'zh-tw' ? 'zh-TW' : 'en',
+  "numberOfItems": topic.items?.length ?? 0,
+};
+---
+
+<Layout title={title} description={description} lang={lang} currentPath={`/topics/${topic.slug}`}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+
+  <!-- Back link -->
+  <a href={`/${lang}/`} class="text-sm text-gray-400 hover:text-amber-500 mb-4 inline-block">{t('back_home')}</a>
+
+  <!-- Header -->
+  <section class="mb-8">
+    <span class="text-xs font-semibold text-amber-500 uppercase tracking-wide">{topic.category}</span>
+    <h1 class="text-3xl font-bold mt-1 mb-3">{title}</h1>
+    <p class="text-gray-500">{description}</p>
+    <div class="mt-3 text-sm text-gray-400">
+      {(topic.items?.length ?? 0)} {t('items_count')}
+    </div>
+  </section>
+
+  <!-- Tag Filter -->
+  {allTags.length > 1 && (
+    <div class="flex flex-wrap gap-2 mb-6">
+      <button class="tag-btn px-3 py-1.5 bg-amber-500 text-white rounded-full text-sm font-medium" data-tag="all">
+        {t('all_categories')}
+      </button>
+      {allTags.map(tag => (
+        <button class="tag-btn px-3 py-1.5 bg-gray-100 text-gray-600 rounded-full text-sm font-medium hover:bg-amber-50 hover:text-amber-500 transition" data-tag={tag}>{tag}</button>
+      ))}
+    </div>
+  )}
+
+  <!-- Content Items -->
+  <div class="space-y-4" id="content-list">
+    {(topic.items ?? []).map((item: any, idx: number) => {
+      const itemI18n = getI18n(item.i18n, lang);
+      if (!itemI18n?.content) return null;
+      const showAd = idx > 0 && idx % 6 === 0;
+      return (
+        <>
+          {showAd && <AdSlot />}
+          <div data-item-tags={item.tags?.join(',') ?? ''}>
+            <ContentCard
+              content={itemI18n.content}
+              editorNote={itemI18n.editorNote}
+              variations={itemI18n.variations}
+              tags={item.tags}
+              lang={lang}
+              index={idx}
+            />
+          </div>
+        </>
+      );
+    })}
+  </div>
+
+  <AdSlot />
+
+  <!-- More Topics -->
+  {allTopics.length > 0 && (
+    <section class="mt-12">
+      <h2 class="text-lg font-bold mb-4 text-gray-800">{t('more_topics')}</h2>
+      <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {allTopics.slice(0, 6).map((other: any) => {
+          const otherI18n = getI18n(other.i18n, lang);
+          return (
+            <a href={`/${lang}/topics/${other.slug}`}
+               class="bg-white rounded-xl border border-gray-200 p-5 hover:shadow-md hover:border-amber-300 transition-all block">
+              <span class="text-xs font-semibold text-amber-500 uppercase tracking-wide">{other.category}</span>
+              <h3 class="text-base font-bold mt-1">{otherI18n?.title ?? other.slug}</h3>
+              <p class="text-xs text-gray-400 mt-1">{other.items?.length ?? 0} {t('items_count')}</p>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
+</Layout>
+
+<script>
+  // Tag filter
+  const tagBtns = document.querySelectorAll('.tag-btn');
+  const items = document.querySelectorAll('#content-list [data-item-tags]');
+  tagBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const tag = btn.getAttribute('data-tag');
+      tagBtns.forEach(b => {
+        (b as HTMLElement).className = b === btn
+          ? 'tag-btn px-3 py-1.5 bg-amber-500 text-white rounded-full text-sm font-medium'
+          : 'tag-btn px-3 py-1.5 bg-gray-100 text-gray-600 rounded-full text-sm font-medium hover:bg-amber-50 hover:text-amber-500 transition';
+      });
+      items.forEach((item: any) => {
+        const tags = item.getAttribute('data-item-tags')?.split(',') ?? [];
+        item.style.display = tag === 'all' || tags.includes(tag) ? '' : 'none';
+      });
+    });
+  });
+
+  // Copy button
+  document.querySelectorAll('.copy-btn').forEach(btn => {
+    btn.addEventListener('click', async () => {
+      const content = btn.getAttribute('data-content') ?? '';
+      const copiedLabel = btn.getAttribute('data-copied-label') ?? 'Copied!';
+      const copyLabel = btn.getAttribute('data-copy-label') ?? 'Copy';
+      await navigator.clipboard.writeText(content);
+      btn.textContent = copiedLabel;
+      setTimeout(() => { btn.textContent = copyLabel; }, 2000);
+    });
+  });
+</script>

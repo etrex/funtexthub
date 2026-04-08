@@ -1,0 +1,111 @@
+{
+  "slug": "cold-jokes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "冷笑話大全",
+      "description": "精選各種讓人會心一笑的冷笑話，適合各種場合破冰使用"
+    },
+    "en": {
+      "title": "Cold Jokes Collection",
+      "description": "A curated collection of groan-worthy cold jokes perfect for breaking the ice"
+    }
+  },
+  "items": [
+    {
+      "id": "cj-001",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["諧音", "食物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小明問媽媽：「為什麼豆腐不會迷路？」\n媽媽說不知道。\n小明：「因為它是『嫩』豆腐啊，走哪都有人扶！」",
+          "editorNote": "適合在家庭聚餐時講",
+          "variations": ["也可以改成問老師版本"]
+        },
+        "en": {
+          "content": "Tom asked his mom: \"Why does tofu never get lost?\"\nMom: \"I don't know.\"\nTom: \"Because it's so soft that everyone holds it up!\"",
+          "editorNote": "Good for family dinners",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "cj-002",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["動物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道企鵝為什麼不怕被北極熊吃掉嗎？\n\n因為企鵝住在南極，北極熊住在北極，他們根本遇不到！",
+          "editorNote": "也是一個冷知識",
+          "variations": ["可以接著問：那為什麼北極熊不搬去南極？因為簽證辦不下來"]
+        },
+        "en": {
+          "content": "Do you know why penguins aren't afraid of polar bears?\n\nBecause penguins live in the South Pole and polar bears live in the North Pole. They never meet!",
+          "editorNote": "Also a fun fact",
+          "variations": ["Follow up: Why don't polar bears move south? Visa issues."]
+        }
+      }
+    },
+    {
+      "id": "cj-003",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["諧音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿華去看醫生，醫生說：「你的肝不好。」\n阿華：「那我可以換一個好一點的嗎？」\n醫生：「...你以為這是手機換殼嗎？」",
+          "editorNote": "看醫生系列冷笑話",
+          "variations": []
+        },
+        "en": {
+          "content": "Jake went to see a doctor. The doctor said: \"Your liver isn't doing well.\"\nJake: \"Can I get a better one?\"\nDoctor: \"...This isn't a phone case swap.\"",
+          "editorNote": "Doctor visit humor",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "cj-004",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "老師問小美：「一加一等於多少？」\n小美：「不知道。」\n老師：「回家問爸爸媽媽。」\n小美回家問媽媽，媽媽正在煮菜：「別煩我！」\n問爸爸，爸爸正在看球賽：「好球！」\n隔天老師問小美，小美說：「別煩我，好球！」",
+          "editorNote": "經典小學生系列",
+          "variations": []
+        },
+        "en": {
+          "content": "Teacher asks Lily: \"What's one plus one?\"\nLily: \"I don't know.\"\nTeacher: \"Go ask your parents.\"\nLily asks mom, who's cooking: \"Don't bother me!\"\nAsks dad, who's watching sports: \"Goal!\"\nNext day, teacher asks again. Lily: \"Don't bother me, goal!\"",
+          "editorNote": "Classic schoolkid joke",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "cj-005",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["動物", "諧音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼螃蟹都不分享東西？\n\n因為牠們都很「自蟹」（自私）！",
+          "editorNote": "諧音梗愛好者必備",
+          "variations": ["為什麼蝦子很大方？因為牠們都很「蝦」趴（瞎趴）"]
+        },
+        "en": {
+          "content": "Why don't crabs ever share?\n\nBecause they're shellfish (selfish)!",
+          "editorNote": "Classic English pun",
+          "variations": ["Why are shrimp so generous? They always come out of their shell."]
+        }
+      }
+    }
+  ]
+}

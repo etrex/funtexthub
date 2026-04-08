@@ -1,0 +1,111 @@
+{
+  "slug": "cheesy-pickups",
+  "category": "Romance",
+  "i18n": {
+    "zh-tw": {
+      "title": "土味情話大全",
+      "description": "讓人又甜又尷尬的土味情話合集，撩人必備語錄"
+    },
+    "en": {
+      "title": "Cheesy Pickup Lines",
+      "description": "A collection of cheesy yet charming pickup lines guaranteed to make them smile (or cringe)"
+    }
+  },
+  "items": [
+    {
+      "id": "cp-001",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["經典", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道你跟星星有什麼不一樣嗎？」\n「什麼？」\n「星星在天上，你在我心裡。」",
+          "editorNote": "土味情話入門款，成功率中等",
+          "variations": ["你知道你跟月亮有什麼不一樣嗎？月亮會變，我對你的心不會變"]
+        },
+        "en": {
+          "content": "\"Do you know what's different about you and the stars?\"\n\"What?\"\n\"The stars are in the sky, but you're in my heart.\"",
+          "editorNote": "Classic starter, moderate success rate",
+          "variations": ["What's different about you and the moon? The moon changes, but my feelings for you don't."]
+        }
+      }
+    },
+    {
+      "id": "cp-002",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我覺得你好像一道數學題。」\n「為什麼？」\n「因為我對你完全沒有解。」",
+          "editorNote": "學生族群特愛這類型",
+          "variations": ["你就像微積分，讓我越算越上頭"]
+        },
+        "en": {
+          "content": "\"I think you're like a math problem.\"\n\"Why?\"\n\"Because I have absolutely no solution for you.\"",
+          "editorNote": "Students love this type",
+          "variations": ["You're like calculus - the more I work on you, the more obsessed I get."]
+        }
+      }
+    },
+    {
+      "id": "cp-003",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["經典", "食物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你喜歡喝水嗎？」\n「喜歡啊。」\n「那你已經喜歡上七十幾percent的我了。」",
+          "editorNote": "理科生的撩人方式",
+          "variations": []
+        },
+        "en": {
+          "content": "\"Do you like drinking water?\"\n\"Sure.\"\n\"Then you already like about 70% of me.\"",
+          "editorNote": "Science nerds' way of flirting",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "cp-004",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你今天特別好看。」\n「今天？那昨天呢？」\n「昨天也是，明天也會是，每天都是。」",
+          "editorNote": "回答得很圓滑的示範",
+          "variations": []
+        },
+        "en": {
+          "content": "\"You look especially great today.\"\n\"Today? What about yesterday?\"\n\"Yesterday too. And tomorrow. And every day.\"",
+          "editorNote": "Smooth recovery example",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "cp-005",
+      "dateAdded": "2026-04-08",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["甜", "經典"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道我最大的缺點是什麼嗎？\n\n就是缺點你。",
+          "editorNote": "簡短有力的經典款",
+          "variations": ["我有個缺點想改，就是缺少你的聯絡方式"]
+        },
+        "en": {
+          "content": "Do you know what my biggest shortcoming is?\n\nFalling short of being with you.",
+          "editorNote": "Short and punchy classic",
+          "variations": ["I have a flaw I'd like to fix: not having your number."]
+        }
+      }
+    }
+  ]
+}
