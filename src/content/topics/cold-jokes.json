@@ -55,17 +55,17 @@
       "dateAdded": "2026-04-08",
       "sourceUrl": "",
       "sourceNote": "",
-      "tags": ["諧音"],
+      "tags": ["邏輯"],
       "i18n": {
         "zh-tw": {
           "content": "阿華去看醫生，醫生說：「你的肝不好。」\n阿華：「那我可以換一個好一點的嗎？」\n醫生：「...你以為這是手機換殼嗎？」",
           "editorNote": "看醫生系列冷笑話",
-          "variations": []
+          "variations": ["也可以換成腎臟版：「你的腎功能不太好。」「那我可以訂購一個新的嗎？」「……你以為這是電商網站？」"]
         },
         "en": {
           "content": "Jake went to see a doctor. The doctor said: \"Your liver isn't doing well.\"\nJake: \"Can I get a better one?\"\nDoctor: \"...This isn't a phone case swap.\"",
           "editorNote": "Doctor visit humor",
-          "variations": []
+          "variations": ["Try the kidney version: 'Your kidney function is low.' 'Can I just order a replacement?' '...This isn't Amazon.'"]
         }
       }
     },
@@ -79,12 +79,12 @@
         "zh-tw": {
           "content": "老師問小美：「一加一等於多少？」\n小美：「不知道。」\n老師：「回家問爸爸媽媽。」\n小美回家問媽媽，媽媽正在煮菜：「別煩我！」\n問爸爸，爸爸正在看球賽：「好球！」\n隔天老師問小美，小美說：「別煩我，好球！」",
           "editorNote": "經典小學生系列",
-          "variations": []
+          "variations": ["換成阿嬤版：阿嬤在追劇一直說「慘了！」，隔天小美告訴老師：「一加一等於慘了！」"]
         },
         "en": {
           "content": "Teacher asks Lily: \"What's one plus one?\"\nLily: \"I don't know.\"\nTeacher: \"Go ask your parents.\"\nLily asks mom, who's cooking: \"Don't bother me!\"\nAsks dad, who's watching sports: \"Goal!\"\nNext day, teacher asks again. Lily: \"Don't bother me, goal!\"",
           "editorNote": "Classic schoolkid joke",
-          "variations": []
+          "variations": ["Grandma version: grandma watching her drama keeps gasping 'Oh no!' all evening. Next morning, Lily answers: 'One plus one is Oh no!'"]
         }
       }
     },
