@@ -1,0 +1,301 @@
+{
+  "slug": "programmer-jokes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "工程師笑話大全",
+      "description": "給工程師和懂工程師的人笑的，每一則都是真實人生的血淚結晶"
+    },
+    "en": {
+      "title": "Programmer Jokes",
+      "description": "For developers, by developers — jokes only make sense if you've stared at a screen too long"
+    }
+  },
+  "items": [
+    {
+      "id": "pj-001",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.facebook.com/codingbar/posts/426697967929660/",
+      "sourceNote": "Classic programmer logic joke — apple/orange variant widely shared",
+      "tags": ["邏輯", "字面意思", "工程師思維"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管叫工程師去買五個便當，說：「如果有賣素食的話，買三個就好。」\n工程師回來手上拿著三個便當。\n主管：「為什麼只買三個？！」\n工程師：「因為有賣素食的。」",
+          "editorNote": "傳給公司同事或工程師朋友，十個有九個秒懂還會說「這很合理」。",
+          "variations": ["也可以換成：『如果有折扣就多買一份』，工程師就多買了一份折扣券回來"]
+        },
+        "en": {
+          "content": "A manager told the developer: \"Go grab five coffees. If they have cold brew, just get three.\"\nThe developer came back with three coffees.\nManager: \"Why only three?!\"\nDeveloper: \"They had cold brew.\"",
+          "editorNote": "Send this to any developer and watch them nod and say 'that's correct logic.'",
+          "variations": ["Try it with: 'get five if they have oat milk, otherwise get two' — same result, different milk."]
+        }
+      }
+    },
+    {
+      "id": "pj-002",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1552120448.A.13C.html",
+      "sourceNote": "PTT joke board — programmer lies //TODO classic",
+      "tags": ["拖延", "程式碼品質", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "程式設計師有三大謊言：\n第一：「這只是暫時的解法，之後會改掉的。」\n第二：「這段很簡單，很快就寫好了。」\n第三：「我在程式碼裡面寫了說明。」",
+          "editorNote": "適合傳給剛踏入業界的工程師新人，讓他提早做好心理準備。",
+          "variations": ["還有第四條：『我測試過了，沒問題』"]
+        },
+        "en": {
+          "content": "The three biggest lies in programming:\n1. \"This is just a quick temporary fix.\"\n2. \"It'll only take five minutes.\"\n3. \"I left comments explaining everything.\"",
+          "editorNote": "Send to a junior developer on day one. Consider it orientation.",
+          "variations": ["Add a fourth: 'I tested it thoroughly and it's fine.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-003",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1552120448.A.13C.html",
+      "sourceNote": "PTT — 拜雍正治八阿哥 (bug = 八哥) joke",
+      "tags": ["bug", "歷史梗", "除錯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問工程師：「除錯的時候要拜什麼神比較靈？」\n工程師不假思索地說：「拜雍正皇帝。」\n「為什麼？」\n「因為他最在行對付八阿哥（Bug）。」",
+          "editorNote": "歷史梗加IT梗的雙層笑點，傳給有點歷史知識的工程師朋友特別有效果。",
+          "variations": ["也可以說拜康熙，因為他是Bug的爸爸（八阿哥的爹）"]
+        },
+        "en": {
+          "content": "Someone asked a developer: \"What deity do you pray to before a debugging session?\"\nThe developer replied without hesitation: \"The god of logic and order. Bugs fear clarity.\"",
+          "editorNote": "Works best when delivered completely deadpan.",
+          "variations": ["Follow up: 'And if that doesn't work, I pray to Stack Overflow.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-004",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
+      "sourceNote": "INSIDE — 59 programming quotes, classic 'if it works don't touch it'",
+      "tags": ["開發哲學", "工程師語錄", "維護"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的最高信條：\n「它現在跑得起來。不要問為什麼。不要碰它。」",
+          "editorNote": "每個工程師心中都有那段不知道為什麼能動的程式碼，這句話是共鳴神器。",
+          "variations": ["進階版：『我已經三個月沒動那段了，系統還是好好的，我打算帶著這個秘密進棺材。』"]
+        },
+        "en": {
+          "content": "The developer's golden commandment:\n\"It's running. Don't ask why. Don't touch it.\"",
+          "editorNote": "Every developer has code they're afraid to look at. This is their anthem.",
+          "variations": ["Extended version: 'I haven't touched that module in six months and everything still works. I'm taking that secret to my grave.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-005",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://buzzorange.com/techorange/2020/12/31/15-jokes/",
+      "sourceNote": "TechOrange — 15 programmer jokes, bugs breeding joke variant",
+      "tags": ["bug", "除錯", "惡性循環"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師除錯的人生：\n修好一個Bug，冒出兩個。\n修好兩個，跑出四個。\n工程師對此有一個專業術語：「正常。」",
+          "editorNote": "傳給正在debug的朋友，讓他知道他並不孤單，這是行業標準。",
+          "variations": ["還有一種說法：『我不是在增加功能，我是在繁殖Bug的天敵。』"]
+        },
+        "en": {
+          "content": "The debugging lifecycle:\nFix one bug, two appear.\nFix two, four show up.\nDevelopers have a technical term for this: \"normal.\"",
+          "editorNote": "Send to a friend who's been debugging all day. Solidarity.",
+          "variations": ["Also known as: 'I'm not creating bugs. I'm discovering ones that were always there.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-006",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://buzzorange.com/techorange/2020/12/31/15-jokes/",
+      "sourceNote": "TechOrange — Stack Overflow dependency joke",
+      "tags": ["Stack Overflow", "Google", "除錯流程"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的除錯四步驟：\n第一步：Google。\n第二步：找到Stack Overflow的答案。\n第三步：貼上來試試看。\n第四步：祈禱。\n\n如果不行，重複第一步。",
+          "editorNote": "這個流程不需要解釋，每個工程師都有同樣的制約反應。",
+          "variations": ["有時候第四步會改成：重新開機然後假裝沒事"]
+        },
+        "en": {
+          "content": "Developer debugging protocol:\nStep 1: Google the error.\nStep 2: Find a Stack Overflow answer from 2012.\nStep 3: Paste it in.\nStep 4: Hope.\n\nRepeat until it works.",
+          "editorNote": "This is not a joke. This is documentation.",
+          "variations": ["Alternate step 4: restart the computer and pretend it never happened."]
+        }
+      }
+    },
+    {
+      "id": "pj-007",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
+      "sourceNote": "INSIDE — code comments joke, God and the programmer",
+      "tags": ["程式碼", "可讀性", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師看著一段六個月前自己寫的程式碼：\n「我當初寫這個的時候，只有我和上帝知道這在做什麼。」\n同事：「那現在呢？」\n工程師：「現在只剩上帝知道了。」",
+          "editorNote": "自嘲用，技術分享會或Onboarding場合特別好笑。",
+          "variations": ["反過來也成立：『新來的工程師看我的程式碼，跟我說他不懂。我也不懂，我是最近才接手的。』"]
+        },
+        "en": {
+          "content": "A senior developer opened code they wrote eight months ago:\n\"When I wrote this, only God and I knew what it did.\"\nColleague: \"And now?\"\nDeveloper: \"Now only God knows.\"",
+          "editorNote": "Great for tech talks or any onboarding session. Humbling and relatable.",
+          "variations": ["Alternate ending: 'And God is being very quiet about it.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-008",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "ProgrammerHumor.io — git commit messages joke widely shared",
+      "tags": ["Git", "版本控制", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "某工程師的Git提交記錄（由上到下）：\n「修正」\n「再修一次」\n「這次真的修好了」\n「為什麼又壞了」\n「終極修正版」\n「最終版本_真的最終」\n「不要問我發生了什麼事」",
+          "editorNote": "傳給用Git的朋友，或是在工作群組裡找到共鳴，笑著哭出來。",
+          "variations": ["也有人的提交記錄是：「WIP」、「WIP2」、「WIP_final」、「please work」、「ok it works bye」"]
+        },
+        "en": {
+          "content": "A developer's recent Git commit history:\n\"fix\"\n\"fix again\"\n\"actually fixed this time\"\n\"WHY IS IT BROKEN AGAIN\"\n\"final fix\"\n\"final_fix_v2\"\n\"do not look at this commit\"",
+          "editorNote": "Share in any developer group chat. The reactions will be silent nods of recognition.",
+          "variations": ["Some people just go: 'WIP', 'WIP2', 'please work', 'ok fine', 'it's someone else's problem now'"]
+        }
+      }
+    },
+    {
+      "id": "pj-009",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1552120448.A.13C.html",
+      "sourceNote": "PTT — programmer diet and caffeine dependence jokes",
+      "tags": ["工程師生活", "咖啡", "健康"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的飲食金字塔：\n最底層：咖啡（算液體，補充水分）\n中層：泡麵（碳水化合物，能量來源）\n頂層：能量飲料（算維生素，因為有B群）\n偶爾奢侈一下：叫外送然後在螢幕前吃。",
+          "editorNote": "適合轉貼在同事群組，不健康但有共鳴。",
+          "variations": ["有人說工程師其實還有第四個食物：截圖存下來的美食圖（根本沒時間出去吃）"]
+        },
+        "en": {
+          "content": "The developer food pyramid:\nBase: Coffee (hydration)\nMiddle: Instant noodles (carbs for energy)\nTop: Energy drinks (vitamins, probably)\nOccasional treat: Delivery food eaten at the desk.\n\nThe desk is the dining table.",
+          "editorNote": "Share with your team. Unhealthy but universally relatable.",
+          "variations": ["Some developers add a fourth tier: food they photographed but never had time to actually eat."]
+        }
+      }
+    },
+    {
+      "id": "pj-010",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1552120448.A.13C.html",
+      "sourceNote": "PTT — programmers working overtime and weekends joke",
+      "tags": ["加班", "工程師語錄", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "老闆：「優秀的工程師不需要假日，因為他們熱愛工作。」\n工程師：「對，所以我假日也在修你上線前要求緊急加的功能。」",
+          "editorNote": "職場共鳴神器，但不要直接傳給老闆。",
+          "variations": ["延伸版：『工程師連睡夢中都在想程式碼，這叫熱情。PM連夢裡都要傳訊息，這叫擾民。』"]
+        },
+        "en": {
+          "content": "Manager: \"Great engineers don't need days off. They love what they do.\"\nDeveloper: \"Right. Which is why I'm fixing the feature you requested at 11 PM Friday — on Saturday.\"",
+          "editorNote": "Share with coworkers who get it. Not recommended for managers.",
+          "variations": ["Follow up: 'Developers dream in code. That's passion. PMs text during dreams. That's harassment.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-011",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://jokespedea.com/computer-science-jokes/",
+      "sourceNote": "CSS is unpredictable — classic dev community meme",
+      "tags": ["CSS", "前端", "設計"],
+      "i18n": {
+        "zh-tw": {
+          "content": "CSS就是這樣的東西：\n你只是想讓一個按鈕靠右一點點，\n結果整個頁面的版面都跑掉了，\n導覽列不見了，\n背景圖片跑去角落哭泣，\n而那個按鈕還是在原本的位置。",
+          "editorNote": "傳給前端工程師，他一定會說「這不是笑話，這是我的日常」。",
+          "variations": ["有時候解法是：先把所有CSS砍掉，再一行一行加回去，直到找到那個害你崩潰的地方。"]
+        },
+        "en": {
+          "content": "CSS: you try to move a button two pixels to the right.\nThe footer disappears.\nThe nav bar rotates.\nThe background image goes to mourn in the corner.\nThe button is exactly where it was.",
+          "editorNote": "Send to any front-end developer. They will not laugh. They will cry.",
+          "variations": ["The fix is always: delete everything, add it back line by line, and find the one rule that was haunting you."]
+        }
+      }
+    },
+    {
+      "id": "pj-012",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://punjokevault.com/programmer-jokes/",
+      "sourceNote": "Programmer sleep joke — counting bugs not sheep",
+      "tags": ["工程師生活", "睡眠", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你昨晚睡了幾個小時？」\n工程師抬起頭：「我不數小時。」\n「那你數什麼？」\n「我數Bug。昨晚睡前數了四十七個。」",
+          "editorNote": "深夜加班時傳給正在debug的同事，療癒系自嘲。",
+          "variations": ["有工程師說：「我數羊也沒用，因為我一直想著那隻羊為什麼不在陣列的正確索引位置上。」"]
+        },
+        "en": {
+          "content": "\"How many hours did you sleep last night?\"\nThe developer looked up: \"I don't count hours.\"\n\"What do you count?\"\n\"Bugs. I fell asleep at forty-three.\"",
+          "editorNote": "Send late at night to a developer who's still online. They'll feel seen.",
+          "variations": ["Some developers count sheep but keep wondering why the sheep aren't sorted correctly."]
+        }
+      }
+    },
+    {
+      "id": "pj-013",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
+      "sourceNote": "INSIDE — documentation state joke",
+      "tags": ["文件", "維護", "開發文化"],
+      "i18n": {
+        "zh-tw": {
+          "content": "軟體文件只有兩種狀態：\n一種是早就過期的，\n另一種是根本還沒寫的。\n\n而寫文件的工程師，\n通常已經離職了。",
+          "editorNote": "在工程師聚會上說，現場所有人都會沉默一秒，然後一起笑出來。",
+          "variations": ["補充：第三種狀態是『文件裡面的連結全部都404了』"]
+        },
+        "en": {
+          "content": "Software documentation exists in two states:\nOutdated, or nonexistent.\n\nThe engineer who wrote it?\nAlready left the company.",
+          "editorNote": "Say this at any developer gathering. There will be a moment of silence, then recognition.",
+          "variations": ["Third state: the documentation exists but every link in it is 404."]
+        }
+      }
+    },
+    {
+      "id": "pj-014",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "ProgrammerHumor.io — it works but I have no idea why",
+      "tags": ["除錯", "神祕", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師修完Bug，緊張地說：「好，我覺得這樣應該可以了。」\n同事：「你知道為什麼修好了嗎？」\n工程師停頓了一秒：「……不知道。但它現在能跑了，我決定不繼續追究。」",
+          "editorNote": "每個工程師都有這種「別問，能動就好」的時刻，分享給懂的人。",
+          "variations": ["進階版：『這個Bug我改了一行空白，就消失了。我沒有刪掉那行，因為我怕它回來。』"]
+        },
+        "en": {
+          "content": "Developer after an hour of debugging: \"Okay, I think this is fixed.\"\nColleague: \"Do you know why it's fixed?\"\nDeveloper, after a long pause: \"No. But it's working, and I've decided not to dig further.\"",
+          "editorNote": "Every developer has this moment. Share it with someone who's lived it.",
+          "variations": ["Alternate version: 'I added a blank line and the bug disappeared. I'm not removing it. I don't want it to come back.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-015",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1552120448.A.13C.html",
+      "sourceNote": "PTT — programmer blog writing as replacement for social sharing",
+      "tags": ["工程師生活", "社交", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問：「為什麼那麼多工程師喜歡寫技術部落格？」\n老工程師嘆了口氣說：\n「因為解完一個技術難題之後，\n沒有人可以告訴。」",
+          "editorNote": "溫柔的自嘲，適合轉給單身或社恐的工程師朋友，或是在技術社群中分享。",
+          "variations": ["有人說：『也有工程師是為了讓未來的自己可以找到解法。工程師的最大敵人是半年前的自己。』"]
+        },
+        "en": {
+          "content": "Someone asked: \"Why do so many developers write tech blogs?\"\nA senior developer sighed:\n\"Because after solving a really hard problem,\nthere's no one to tell.\"",
+          "editorNote": "A gentle, relatable joke about developer social life. Share with developer friends or in a dev community.",
+          "variations": ["Alternative theory: 'They write blogs so their future self can find the solution. A developer's biggest enemy is their six-months-ago self.'"]
+        }
+      }
+    }
+  ]
+}
