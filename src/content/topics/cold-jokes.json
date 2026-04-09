@@ -106,6 +106,82 @@
           "variations": ["Why are shrimp so generous? They always come out of their shell."]
         }
       }
+    },
+    {
+      "id": "cj-006",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["諧音", "動物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道什麼魚最白費力氣嗎？\n\n白帶魚。\n\n因為牠游了一輩子，走到最後還是「白帶」著走。",
+          "editorNote": "諧音梗加冷知識，海鮮愛好者一定笑得出來",
+          "variations": ["什麼魚最省力？懶魚——因為牠什麼都懶得做，還不是活得好好的"]
+        },
+        "en": {
+          "content": "Which fish works hardest for nothing?\n\nA conveyor belt fish — it keeps moving but never gets anywhere.",
+          "editorNote": "Deadpan delivery works best for this one",
+          "variations": ["What fish never finishes anything? A procrastinating salmon — always upstream but never arriving."]
+        }
+      }
+    },
+    {
+      "id": "cj-007",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["邏輯", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫生說：「每天吃魚對腦子很好。」\n小美認真執行，一個月後回診。\n醫生問：「有沒有感覺比較聰明了？」\n小美說：「有，我終於想清楚一件事。」\n醫生：「什麼事？」\n小美：「下次不要再來看你了，太貴了。」",
+          "editorNote": "診所候診時講給旁邊的人聽，效果一流",
+          "variations": ["也可以換成：「我終於想清楚了，以後自己上網查就好」"]
+        },
+        "en": {
+          "content": "Doctor: \"Eating fish every day improves your brain.\"\nMeg followed the advice for a month and came back for a checkup.\nDoctor: \"Feeling smarter?\"\nMeg: \"Actually, yes. I figured something out.\"\nDoctor: \"Oh? What's that?\"\nMeg: \"That I should stop coming here. Too expensive.\"",
+          "editorNote": "Great for waiting rooms — tell the person next to you",
+          "variations": ["Alternate punchline: 'That I can just Google my symptoms for free.'"]
+        }
+      }
+    },
+    {
+      "id": "cj-008",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["邏輯", "交通"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道為什麼公車永遠都比預定時間晚到嗎？\n\n因為它是「公」車，講求公平原則——讓每個人都等一樣久。",
+          "editorNote": "等公車的時候講給旁邊的人聽，一起等比較不無聊",
+          "variations": ["捷運為什麼比較準時？因為它是私人地下空間，不用對大眾負責"]
+        },
+        "en": {
+          "content": "Why is the bus always late?\n\nBecause it's a public service — it believes in equal treatment. Everyone waits the same amount of time.",
+          "editorNote": "Say this out loud while waiting at the bus stop. Instant bus stop friends.",
+          "variations": ["Why is the subway more punctual? Because it runs underground — out of sight, out of schedule."]
+        }
+      }
+    },
+    {
+      "id": "cj-009",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["動物", "邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「貓咪下雨天最喜歡做什麼？」\n「什麼？」\n「等雨停。」\n「……就這樣？」\n「對，因為牠不想變成落湯貓。牠很清楚自己的底線。」",
+          "editorNote": "配上一臉認真的表情講，效果更好",
+          "variations": ["狗狗下雨天喜歡做什麼？衝出去淋雨——牠完全沒有底線"]
+        },
+        "en": {
+          "content": "\"What does a cat love to do on a rainy day?\"\n\"What?\"\n\"Wait for it to stop.\"\n\"...That's it?\"\n\"Yes. Because it knows its limits. A wet cat is an undignified cat.\"",
+          "editorNote": "Deliver this completely seriously for maximum effect",
+          "variations": ["What does a dog love to do on a rainy day? Run straight into it. No limits whatsoever."]
+        }
+      }
     }
   ]
 }

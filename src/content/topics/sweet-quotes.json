@@ -106,6 +106,82 @@
           "variations": []
         }
       }
+    },
+    {
+      "id": "sq-006",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["思念", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天走過你喜歡的那家麵包店，我不自覺停下來看了很久。\n不是因為餓，是因為我想帶你來。",
+          "editorNote": "傳給異地戀或是久沒見面的另一半，簡單但很有畫面感",
+          "variations": ["路過你說想吃的那家店，我站在門口想了一下，還是沒進去——等你回來一起"]
+        },
+        "en": {
+          "content": "I walked past that bakery you always talk about today. I stopped and stared for a while.\nNot because I was hungry. Because I wanted to bring you there.",
+          "editorNote": "Send to a long-distance partner or someone you haven't seen in a while",
+          "variations": ["I passed by the restaurant you said you wanted to try. I stood at the door for a moment, then left — I'll wait for you."]
+        }
+      }
+    },
+    {
+      "id": "sq-007",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["承諾", "關心"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是特別浪漫的人，但只要你說冷，我第一個反應就是想把外套脫下來給你。\n哪怕我自己也冷。",
+          "editorNote": "不說愛但勝過千言萬語，適合不善言辭的人傳給另一半",
+          "variations": ["我沒辦法給你什麼豪華的承諾，但你不舒服的時候，我一定第一個出現"]
+        },
+        "en": {
+          "content": "I'm not a very romantic person. But the moment you say you're cold, my first instinct is to take off my jacket and give it to you.\nEven when I'm cold too.",
+          "editorNote": "Actions over words — perfect for people who struggle to say \"I love you\" out loud",
+          "variations": ["I can't promise you grand gestures. But I'll be the first one there when you're not okay."]
+        }
+      }
+    },
+    {
+      "id": "sq-008",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["思念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不太說「我想你」，但每次看到有趣的東西，第一個念頭都是「要傳給你看」。\n我想這大概就是我版本的想你吧。",
+          "editorNote": "適合傳給默契很好但比較低調的另一半",
+          "variations": ["每次聽到好聽的歌，都想問你喜不喜歡。這大概算是某種思念。"]
+        },
+        "en": {
+          "content": "I don't often say \"I miss you.\" But every time I see something interesting, my first thought is: \"I need to show this to them.\"\nI think that's my version of missing you.",
+          "editorNote": "Perfect for low-key couples with a strong connection",
+          "variations": ["Every time I hear a good song, I wonder if you'd like it. I think that counts as missing you."]
+        }
+      }
+    },
+    {
+      "id": "sq-009",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["日常", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人告訴你，你睡著的樣子特別好看嗎？\n\n如果還沒有，那是因為還沒有人有機會這樣看著你。\n我希望那個人可以是我。",
+          "editorNote": "告白前期或情侶之間都很適合，帶點羞澀又真心",
+          "variations": ["你做夢的時候在想什麼？我有時候會很好奇，也有點想知道有沒有我"]
+        },
+        "en": {
+          "content": "Has anyone ever told you that you look especially peaceful when you sleep?\n\nIf not, maybe no one has had the chance to watch over you like that yet.\nI hope I get to be that person.",
+          "editorNote": "Sweet and slightly shy — works for early-stage couples or as a quiet confession",
+          "variations": ["I wonder what you dream about. And if there's any chance I show up in there."]
+        }
+      }
     }
   ]
 }

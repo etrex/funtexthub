@@ -106,6 +106,82 @@
           "variations": ["I have a flaw I'd like to fix: not having your number."]
         }
       }
+    },
+    {
+      "id": "cp-006",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["食物", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是甜甜圈嗎？」\n「為什麼？」\n「因為我的生活遇到你，才算圓滿了。」",
+          "editorNote": "甜食愛好者最適合用這招，對方很難不笑",
+          "variations": ["你是珍珠奶茶嗎？因為沒有你，生活就少了那個讓人開心的驚喜"]
+        },
+        "en": {
+          "content": "\"Are you a donut?\"\n\"Why?\"\n\"Because my life finally feels complete now that you're in it.\"",
+          "editorNote": "Works best with someone who has a sweet tooth — hard to keep a straight face",
+          "variations": ["Are you boba tea? Because without you, my day is missing that little surprise that makes it worth it."]
+        }
+      }
+    },
+    {
+      "id": "cp-007",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["科技", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是螢幕保護程式嗎？」\n「為什麼這樣問？」\n「因為自從遇到你，我就捨不得鎖畫面了。」",
+          "editorNote": "傳給愛滑手機的對象，效果加分",
+          "variations": ["你是我手機的省電模式嗎？因為有你在，我什麼都不想做，只想看著你"]
+        },
+        "en": {
+          "content": "\"Are you my screen saver?\"\n\"What do you mean?\"\n\"Because ever since I met you, I can't bring myself to lock the screen.\"",
+          "editorNote": "Send this to someone who's always on their phone — extra points for irony",
+          "variations": ["Are you my low battery mode? Because with you around, I don't want to do anything else — just stay right here."]
+        }
+      }
+    },
+    {
+      "id": "cp-008",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["甜", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道你跟拼圖有什麼共同點嗎？」\n「什麼？」\n「沒有你，我這輩子都拼不完整。」",
+          "editorNote": "喜歡玩拼圖的對象超適用，也可以直接配上一張拼圖照片一起傳",
+          "variations": ["你是我最後一塊拼圖——找了好久，原來你一直在這裡"]
+        },
+        "en": {
+          "content": "\"Do you know what you have in common with a puzzle?\"\n\"What?\"\n\"Without you, I'll never be complete.\"",
+          "editorNote": "Bonus points if you send this with a photo of a puzzle missing one piece",
+          "variations": ["You're my last puzzle piece — I searched everywhere, and you were here all along."]
+        }
+      }
+    },
+    {
+      "id": "cp-009",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["可愛", "互動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你信不信，只要你說一句話，我就知道你現在在想什麼？」\n「好，你說說看。」\n「你現在在想：『這個人怎麼這麼煩』，但你其實有一點點喜歡這種感覺。」",
+          "editorNote": "互動式情話，適合曖昧期試水溫，對方笑了就代表有戲",
+          "variations": ["也可以用：「你現在在想——『這個人真的很無聊，但不知道為什麼我還是在這裡』」"]
+        },
+        "en": {
+          "content": "\"Bet I know exactly what you're thinking right now.\"\n\"Oh yeah? Let's hear it.\"\n\"You're thinking: 'This person is so annoying.' But somewhere in there, you kind of enjoy it.\"",
+          "editorNote": "Great for the flirty testing phase — if they laugh, that's a green light",
+          "variations": ["Alternate version: 'You're thinking: this person is ridiculous. And yet here you are, still reading this.'"]
+        }
+      }
     }
   ]
 }

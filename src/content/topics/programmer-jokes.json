@@ -296,6 +296,82 @@
           "variations": ["Alternative theory: 'They write blogs so their future self can find the solution. A developer's biggest enemy is their six-months-ago self.'"]
         }
       }
+    },
+    {
+      "id": "pj-016",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "AI-assisted development humor — widely shared format in 2025-2026",
+      "tags": ["AI", "工程師生活", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師：「以後AI幫我寫程式，我可以輕鬆很多了！」\n\n三個月後，同一個工程師：\n「以後AI幫我解釋AI寫的程式，我可以輕鬆很多了！」",
+          "editorNote": "傳給用過AI寫程式的工程師朋友，他們會笑出眼淚。",
+          "variations": ["延伸版：『下一步：讓AI去解釋AI對AI寫的程式碼的解釋，工程師負責喝咖啡。』"]
+        },
+        "en": {
+          "content": "Developer: \"AI is going to write my code for me. Things are going to get so much easier!\"\n\nSame developer, three months later:\n\"AI is going to explain the code that AI wrote for me. Things are going to get so much easier!\"",
+          "editorNote": "Share with any developer who uses AI tools. They will laugh with pain in their eyes.",
+          "variations": ["Next level: 'I'll have AI explain AI's explanation of AI's code. I'll just supervise the coffee."]
+        }
+      }
+    },
+    {
+      "id": "pj-017",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "Meeting culture vs. developer productivity — universal tech workplace joke",
+      "tags": ["會議", "職場", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師參加了三小時的線上會議後，打開電腦，翻開任務清單。\n上面什麼都沒有改變。\n他在備忘錄裡補上一行：「這場會議可以改成一封Email。」\n然後把這行刪掉。\n因為他知道：反正沒有人會改的。",
+          "editorNote": "在工程師聚會上說，配上一臉淡然的表情，現場一定安靜兩秒再爆笑。",
+          "variations": ["有工程師說：『我判斷一個會議值不值得開，標準就是——它的結論能不能用一句話概括。如果可以，那它本來就應該是一封Email。』"]
+        },
+        "en": {
+          "content": "After a three-hour video call, the developer opened their laptop and checked the task list.\nNothing had changed.\nThey added a note: \"This meeting could have been an email.\"\nThen deleted it.\nBecause they knew: no one was going to change anything anyway.",
+          "editorNote": "Deliver this with a flat, resigned expression. The room will go quiet for two seconds before erupting.",
+          "variations": ["One developer's rule: 'If the outcome can be summarized in one sentence, it should have been an email.' They have never attended fewer meetings."]
+        }
+      }
+    },
+    {
+      "id": "pj-018",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://punjokevault.com/programmer-jokes/",
+      "sourceNote": "Dark mode / light attracts bugs — popular developer one-liner",
+      "tags": ["深色模式", "bug", "前端"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問工程師：「你為什麼這麼執著用深色模式？」\n工程師停頓了一秒，認真地說：\n「因為光會吸引蟲（Bug）。」",
+          "editorNote": "講的時候要一臉嚴肅，這樣後勁才夠強。",
+          "variations": ["補充理由：『而且深色模式讓人看起來更專業，Bug也不好意思來。』"]
+        },
+        "en": {
+          "content": "Someone asked a developer: \"Why are you so committed to dark mode?\"\nThe developer paused, then said with complete seriousness:\n\"Because light attracts bugs.\"",
+          "editorNote": "Deadpan delivery is essential. The joke lands harder with a straight face.",
+          "variations": ["Additional reason: 'Dark mode also makes you look more serious. Bugs feel unwelcome.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-019",
+      "dateAdded": "2026-04-09",
+      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
+      "sourceNote": "Variable naming as one of the hardest problems in CS — widely cited",
+      "tags": ["命名", "程式碼", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師寫程式最花時間的三件事：\n第一：找Bug。\n第二：修Bug。\n第三：想變數名稱。\n\n前兩件事有工具可以幫忙。\n第三件事是靈魂的拷問。",
+          "editorNote": "貼在工程師群組裡，秒引發集體共鳴。",
+          "variations": ["計算機科學界有句名言：『電腦科學只有兩件難事：快取失效、替東西命名，還有多退一的錯誤。』"]
+        },
+        "en": {
+          "content": "The three biggest time sinks in software development:\n1. Finding the bug.\n2. Fixing the bug.\n3. Naming the variable.\n\nThe first two have tools.\nThe third one is a crisis of the soul.",
+          "editorNote": "Drop this in any developer group chat. Instant recognition.",
+          "variations": ["There's a famous saying in CS: 'There are only two hard problems: cache invalidation, naming things, and off-by-one errors.'"]
+        }
+      }
     }
   ]
 }
