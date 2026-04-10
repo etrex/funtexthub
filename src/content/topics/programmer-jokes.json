@@ -372,6 +372,82 @@
           "variations": ["There's a famous saying in CS: 'There are only two hard problems: cache invalidation, naming things, and off-by-one errors.'"]
         }
       }
+    },
+    {
+      "id": "pj-020",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "Deployment anxiety — universal developer ritual before going live",
+      "tags": ["部署", "上線", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師部署前的完整心理流程：\n「確認備份了嗎？確認了。」\n「測試過了嗎？測試過了。」\n「那我按下去了喔。」\n「……\n好，沒事。」\n「……那為什麼我還是這麼緊張？」",
+          "editorNote": "傳給剛部署完的工程師，他會直接崩潰大笑",
+          "variations": ["延伸版：按下去之後的五分鐘，是工程師人生中最長的五分鐘。不管有沒有出事都是。"]
+        },
+        "en": {
+          "content": "The full mental checklist before deployment:\n'Did I back everything up? Yes.'\n'Did I test it? Yes.'\n'Okay, I'm pressing it.'\n'...'\n'Everything's fine.'\n'...So why am I still shaking?'",
+          "editorNote": "Send this to a developer right after they deploy. Expect immediate laughter or tears.",
+          "variations": ["The five minutes after pressing deploy are the longest five minutes in a developer's life — regardless of what happens."]
+        }
+      }
+    },
+    {
+      "id": "pj-021",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "Learning new frameworks cycle — classic developer experience",
+      "tags": ["框架", "學習", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師學新框架的固定流程：\n第一步：聽說這個框架很棒。\n第二步：花三天設定環境。\n第三步：成功跑出Hello World，覺得自己很厲害。\n第四步：嘗試做真正的功能。\n第五步：發現官方文件跟實際行為完全不一樣。\n第六步：聽說有一個更新更好的框架。\n第一步：聽說那個框架很棒。",
+          "editorNote": "工程師社群分享神器，每一行都是真實人生",
+          "variations": ["補充第二點五步：環境設定失敗，重新安裝Node，順便更新一下版本，然後舊的東西全部壞掉。"]
+        },
+        "en": {
+          "content": "The developer's framework learning cycle:\nStep 1: Hear that this framework is amazing.\nStep 2: Spend three days on environment setup.\nStep 3: Run Hello World. Feel unstoppable.\nStep 4: Try to build something real.\nStep 5: Discover the docs don't match the actual behavior.\nStep 6: Hear about a newer, better framework.\nStep 1: Hear that this framework is amazing.",
+          "editorNote": "Post in any developer community. Every single line will resonate.",
+          "variations": ["Add step 2.5: environment setup fails, you reinstall Node, update the version, and now everything that used to work doesn't."]
+        }
+      }
+    },
+    {
+      "id": "pj-022",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "'Works on my machine' — one of the most notorious phrases in software development",
+      "tags": ["環境", "工程師語錄", "除錯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「為什麼測試環境沒問題，上到正式環境就壞了？」\n工程師A：「我在我電腦上是好的啊。」\n工程師B：「那把你的電腦部署上去就好了。」",
+          "editorNote": "IT部門的永恆話題，傳給有過這種經歷的同事，秒懂秒崩潰",
+          "variations": ["後來有人真的做了一個貼紙，寫著『Works on my machine』，然後要認證自己電腦是正式伺服器。"]
+        },
+        "en": {
+          "content": "\"Why does it work fine in testing but break in production?\"\nDeveloper A: \"It works on my machine.\"\nDeveloper B: \"Then let's just ship your machine.\"",
+          "editorNote": "An eternal software joke. Every developer has lived this exact conversation.",
+          "variations": ["Someone actually made a 'Works on My Machine' certification sticker. It is both a joke and a cry for help."]
+        }
+      }
+    },
+    {
+      "id": "pj-023",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "Developer work-life balance and the myth of 'quick tasks'",
+      "tags": ["工時", "職場", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM說：「這個改動很簡單，只是換個顏色。」\n工程師打開程式碼。\n這個顏色散落在四十七個檔案裡。\n三個是寫死的。\n兩個是從外部API抓來的。\n一個根本不知道是從哪裡來的。\n工程師：「好，我評估一下，大概要三天。」",
+          "editorNote": "傳給PM或不懂技術的主管，讓他們稍微理解一下「簡單改動」的真實面貌",
+          "variations": ["同場加映：『只是加一個按鈕』，工程師聽到這句話的瞬間，眼神死掉了。"]
+        },
+        "en": {
+          "content": "PM: \"This is a simple change — just update the color.\"\nThe developer opens the codebase.\nThe color is in forty-seven files.\nThree are hardcoded.\nTwo are pulled from an external API.\nOne has no traceable origin.\nDeveloper: \"Okay, I'd estimate about three days.\"",
+          "editorNote": "Share with PMs or non-technical managers — a window into what 'small changes' actually look like",
+          "variations": ["Same energy: 'Just add a button.' The moment a developer hears this, something behind their eyes goes quiet."]
+        }
+      }
     }
   ]
 }

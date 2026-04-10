@@ -182,6 +182,82 @@
           "variations": ["I wonder what you dream about. And if there's any chance I show up in there."]
         }
       }
+    },
+    {
+      "id": "sq-010",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["晚安", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不太會說什麼浪漫的話，但今晚睡前，想讓你知道一件事——\n今天因為有你，我過得比任何一天都好。",
+          "editorNote": "睡前傳給另一半，簡單但真心，比晚安貼圖有溫度多了",
+          "variations": ["今天結束了，但想謝謝你讓今天有你的部分變得特別好"]
+        },
+        "en": {
+          "content": "I'm not great at romantic speeches. But before you sleep tonight, I want you to know one thing —\nToday was better because you were in it.",
+          "editorNote": "Send this before bed instead of a generic goodnight sticker",
+          "variations": ["Today's over, but I want to thank you for making the parts with you the best parts."]
+        }
+      }
+    },
+    {
+      "id": "sq-011",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["支持", "關心"],
+      "i18n": {
+        "zh-tw": {
+          "content": "不管你今天覺得自己有多不夠好，\n在我這裡，你從來都是值得被好好對待的人。\n不用做到最好，你就已經夠好了。",
+          "editorNote": "對方壓力大或情緒低落時傳過去，比說『加油』有效十倍",
+          "variations": ["你不需要每天都表現完美，只要你還在，我就很滿足了"]
+        },
+        "en": {
+          "content": "No matter how inadequate you feel today,\nto me you have always been someone who deserves to be treated well.\nYou don't need to be at your best. You're already enough.",
+          "editorNote": "Send this when your partner is stressed or down — far more powerful than 'hang in there'",
+          "variations": ["You don't have to be perfect every day. The fact that you're still here is more than enough for me."]
+        }
+      }
+    },
+    {
+      "id": "sq-012",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["下雨", "日常", "關心"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下雨天如果有人願意繞遠路送你回家，\n我覺得那就是愛了。\n不是因為雨，是因為他不想讓你一個人走。",
+          "editorNote": "下雨天傳給對方，或是做過這件事之後傳，讓對方知道你的心意",
+          "variations": ["下雨天有人替你撐傘，不是因為他不怕淋濕，是因為他更不想讓你淋到"]
+        },
+        "en": {
+          "content": "If someone takes the long way to walk you home in the rain,\nI think that's love.\nNot because of the rain — but because they didn't want you to walk alone.",
+          "editorNote": "Send this on a rainy day, or after you've done this for someone and want them to understand why",
+          "variations": ["When someone holds the umbrella over you instead of themselves, it's not because they don't mind getting wet."]
+        }
+      }
+    },
+    {
+      "id": "sq-013",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["陪伴", "思念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有些人在身邊時，你不覺得有多特別。\n但如果哪天他不在了，你才會發現，日子少了點什麼，卻說不清楚是什麼。\n\n我希望我對你來說是那樣的人。",
+          "editorNote": "不用在特別的日子才傳，平靜地說出來反而更有力量",
+          "variations": ["你不是我生活的全部，但你在的時候，生活比較有顏色"]
+        },
+        "en": {
+          "content": "Some people don't feel especially important when they're around.\nBut once they're gone, you notice something is missing — you just can't name it.\n\nI hope I'm that kind of person to you.",
+          "editorNote": "No need to save this for a special occasion — quiet sincerity lands harder than grand gestures",
+          "variations": ["You're not my whole world. But when you're here, the world has more color."]
+        }
+      }
     }
   ]
 }

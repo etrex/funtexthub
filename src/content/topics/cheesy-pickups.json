@@ -182,6 +182,82 @@
           "variations": ["Alternate version: 'You're thinking: this person is ridiculous. And yet here you are, still reading this.'"]
         }
       }
+    },
+    {
+      "id": "cp-010",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["天文", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道流星跟你有什麼共同點嗎？」\n「什麼？」\n「看到你的瞬間，讓人忍不住想許願。」",
+          "editorNote": "晚上看星星的時候說，效果翻倍，對方基本上沒有辦法不笑",
+          "variations": ["你比流星還稀有——流星至少每年有固定的日子，但像你這樣的人，這輩子只遇得到一次"]
+        },
+        "en": {
+          "content": "\"Do you know what you have in common with a shooting star?\"\n\"What?\"\n\"The moment I see you, I can't help but make a wish.\"",
+          "editorNote": "Say this while stargazing for double effect — nearly impossible not to smile at",
+          "variations": ["You're rarer than a shooting star — they come around every year, but someone like you only happens once in a lifetime."]
+        }
+      }
+    },
+    {
+      "id": "cp-011",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["食物", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你喜歡吃棉花糖嗎？」\n「還好啊。」\n「那就是你的感覺——甜但不膩，讓人嚐一口就還想再一口。」",
+          "editorNote": "在甜點店或市集裡說，自然又不尷尬，對方多半會假裝翻白眼但心裡很開心",
+          "variations": ["你比棉花糖還甜，但比它更難忘——棉花糖吃完就沒了，你讓我一直在想"]
+        },
+        "en": {
+          "content": "\"Do you like cotton candy?\"\n\"It's okay, I guess.\"\n\"That's exactly what you're like — sweet without being overwhelming. One taste and I always want more.\"",
+          "editorNote": "Works best at a market or dessert shop — casual enough not to feel rehearsed",
+          "variations": ["You're sweeter than cotton candy, but way harder to forget — candy disappears, but you stay on my mind."]
+        }
+      }
+    },
+    {
+      "id": "cp-012",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["科技", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是我的飛航模式嗎？」\n「什麼意思？」\n「因為只要跟你在一起，我就想把整個世界的訊號都關掉，只留下你。」",
+          "editorNote": "傳給習慣低頭滑手機的對象，暗示你想要對方的全部注意力",
+          "variations": ["你是我的勿擾模式——不是因為你讓我煩，是因為有你在，其他的通知都不重要了"]
+        },
+        "en": {
+          "content": "\"Are you airplane mode?\"\n\"What do you mean?\"\n\"Because whenever I'm with you, I want to turn off every signal in the world and keep only you.\"",
+          "editorNote": "Send to someone who's always on their phone — a gentle way of asking for their full attention",
+          "variations": ["You're my do-not-disturb mode — not because you're annoying, but because when you're here, nothing else needs my attention."]
+        }
+      }
+    },
+    {
+      "id": "cp-013",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["可愛", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「如果你今天找不到路，往我這個方向走就好。」\n「你知道路嗎？」\n「不知道。但我知道我在這裡等你，不管你從哪個方向來。」",
+          "editorNote": "適合傳給迷路（字面意義或心情上）的另一半，安心感十足",
+          "variations": ["我不確定前面的路怎麼走，但我確定我想跟你一起走過去"]
+        },
+        "en": {
+          "content": "\"If you ever feel lost today, just walk toward me.\"\n\"Do you know the way?\"\n\"No. But I know I'll be here waiting, no matter which direction you come from.\"",
+          "editorNote": "Send this when your partner is literally lost, or just having an overwhelming day — works for both",
+          "variations": ["I don't know what's ahead of us. But I know I want to walk there with you."]
+        }
+      }
     }
   ]
 }

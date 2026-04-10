@@ -182,6 +182,82 @@
           "variations": ["What does a dog love to do on a rainy day? Run straight into it. No limits whatsoever."]
         }
       }
+    },
+    {
+      "id": "cj-010",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["諧音", "甜點"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道冰淇淋為什麼從來不吵架嗎？」\n「為什麼？」\n「因為它一開口就化掉了，話都說不完。」",
+          "editorNote": "夏天吃冰的時候講，對方如果笑了就是懂幽默的人",
+          "variations": ["冰淇淋為什麼不生氣？因為它心態一直是甜的，來不及變酸"]
+        },
+        "en": {
+          "content": "\"Do you know why ice cream never argues?\"\n\"Why?\"\n\"Because the moment it opens up, it melts before finishing the sentence.\"",
+          "editorNote": "Say this while eating ice cream in summer for full effect",
+          "variations": ["Why is ice cream never bitter? Because it doesn't have time to turn sour — it's already gone."]
+        }
+      }
+    },
+    {
+      "id": "cj-011",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["日常", "科技"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道手機充電很慢的時候最像哪種人嗎？」\n「像誰？」\n「像那種說『好了好了，快了快了』，但五分鐘過去只多了2%的人。」",
+          "editorNote": "等充電的時候說給旁邊的人聽，引發深刻共鳴",
+          "variations": ["有時候手機充電線比手機本人還難搞：插了半天沒反應，拔掉重插才有效"]
+        },
+        "en": {
+          "content": "\"You know what a slow-charging phone reminds me of?\"\n\"What?\"\n\"The person who keeps saying 'almost ready!' but five minutes later they've only moved 2%.\"",
+          "editorNote": "Say this while waiting for your phone to charge. Instant commiseration.",
+          "variations": ["Sometimes the cable is more difficult than the phone — wiggle it for five minutes and it still pretends not to notice you."]
+        }
+      }
+    },
+    {
+      "id": "cj-012",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["動物", "邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「為什麼蝸牛爬得那麼慢，還是有很多粉絲？」\n「因為牠慢慢爬，大家都以為牠在思考什麼深刻的事。」\n「那牠在想什麼？」\n「牠在想：為什麼我背著這麼重的殼還要繼續爬。」",
+          "editorNote": "人生哲理和冷笑話的完美結合，適合週一早上分享",
+          "variations": ["蝸牛說：我不是慢，我是在享受過程。其他動物：你連終點在哪都不知道。"]
+        },
+        "en": {
+          "content": "\"Why does a snail move so slowly but still have so many admirers?\"\n\"Because people assume it's deep in thought.\"\n\"What is it actually thinking?\"\n\"Why am I still carrying this shell up this hill.\"",
+          "editorNote": "Philosophy and humor in one — perfect for a Monday morning",
+          "variations": ["Snail's life motto: 'I'm not slow. I'm savoring the journey.' Other animals: 'You don't even know where you're going.'"]
+        }
+      }
+    },
+    {
+      "id": "cj-013",
+      "dateAdded": "2026-04-10",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["邏輯", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小明去菜市場買菜，看到招牌寫著：「今日特價：買一送一」。\n小明開心地買了一把蔥。\n回到家，媽媽問：「你怎麼只買一把？不是買一送一嗎？」\n小明：「對啊，我買一把，老闆送我一把，所以我把那把還給他了。」",
+          "editorNote": "適合在家人聚餐的場合講，長輩通常會先沉默兩秒再笑",
+          "variations": ["延伸版：小明買一送一的衛生紙，把送的那包退給老闆說：「我家只需要一包。」"]
+        },
+        "en": {
+          "content": "Alex went to the grocery store and saw a sign: \"Today's special: buy one, get one free.\"\nHe happily bought one bag of chips.\nAt home, his mom asked: \"Why only one bag? Wasn't it buy one get one?\"\nAlex: \"Right — I bought one, they gave me one free, so I gave that one back. I only needed one.\"",
+          "editorNote": "Tell this to older relatives at dinner. Expect two seconds of silence before the laugh.",
+          "variations": ["Extended: Alex returned the free roll of paper towels saying 'We only need one roll at home, keep the extra.'"]
+        }
+      }
     }
   ]
 }
