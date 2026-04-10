@@ -63,9 +63,9 @@
           "variations": ["也可以說拜康熙，因為他是Bug的爸爸（八阿哥的爹）"]
         },
         "en": {
-          "content": "Someone asked a developer: \"What deity do you pray to before a debugging session?\"\nThe developer replied without hesitation: \"The god of logic and order. Bugs fear clarity.\"",
-          "editorNote": "Works best when delivered completely deadpan.",
-          "variations": ["Follow up: 'And if that doesn't work, I pray to Stack Overflow.'"]
+          "content": "Someone asked a developer: \"What do you pray to before a debugging session?\"\nThe developer didn't hesitate: \"Stack Overflow. Patron saint of the stuck, the lost, and the mysteriously broken.\"",
+          "editorNote": "Works best delivered completely deadpan. Any developer who's rage-searched at 2 AM will feel this instantly.",
+          "variations": ["Follow up: 'And if Stack Overflow is also down? Then the bug has already won.'"]
         }
       }
     },
