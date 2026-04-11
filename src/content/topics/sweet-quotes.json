@@ -241,6 +241,82 @@
       }
     },
     {
+      "id": "sq-014",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["早安", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人說早安只是客套話。\n但你每次傳來，我都覺得這一天開了個不錯的頭。\n謝謝你願意讓早上從我這裡開始。",
+          "editorNote": "傳給每天早上都會傳早安的人，讓他知道這件小事對你很重要",
+          "variations": ["你傳早安的時候，我的一天就已經不一樣了"]
+        },
+        "en": {
+          "content": "People say 'good morning' is just a pleasantry.\nBut every time you send it, my day starts better than it would have otherwise.\nThank you for beginning your morning with me.",
+          "editorNote": "Send to someone who always says good morning — let them know it means more than they think",
+          "variations": ["The moment you say good morning, my day is already different."]
+        }
+      }
+    },
+    {
+      "id": "sq-015",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["承諾", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個世界那麼大，能遇到的人那麼多。\n但我在人群裡，第一個想找的還是你。\n我想這就是答案了。",
+          "editorNote": "不用在特別的時刻才說，有時候平靜地告訴對方這件事，反而更有份量",
+          "variations": ["人海那麼廣，我偏偏只想往你的方向走"]
+        },
+        "en": {
+          "content": "The world is wide and full of people.\nBut in any crowd, the first person I want to find is you.\nI think that says everything.",
+          "editorNote": "No special occasion required — saying this quietly on an ordinary day lands harder than a grand gesture",
+          "variations": ["There are so many people in the world. I only ever want to walk toward one of them."]
+        }
+      }
+    },
+    {
+      "id": "sq-016",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["思念", "支持"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你說快了，我就等。\n你說忙，我就不催。\n不是因為無所謂——\n是因為你值得我耐心。",
+          "editorNote": "給忙碌中的另一半，讓他知道你的等待是有意識的選擇，不是隨便的將就",
+          "variations": ["我不是沒話說，是知道你現在最需要的不是更多壓力"]
+        },
+        "en": {
+          "content": "When you say 'soon,' I'll wait.\nWhen you say you're busy, I won't rush you.\nNot because I don't care —\nbut because you're worth the patience.",
+          "editorNote": "Send to a busy partner — let them know your waiting is a choice, not indifference",
+          "variations": ["I'm not out of things to say. I just know the last thing you need right now is more pressure."]
+        }
+      }
+    },
+    {
+      "id": "sq-017",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["關心", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你今天好嗎？\n不是那種隨口問的，是真的想知道。\n有沒有好好吃飯，有沒有什麼事讓你不開心。\n如果有，告訴我。",
+          "editorNote": "簡單但有重量，對方感到被真正在乎的感覺，比說一百句愛你更有溫度",
+          "variations": ["有沒有人欺負你？說出來，我幫你記著。"]
+        },
+        "en": {
+          "content": "How are you today?\nNot as small talk — I genuinely want to know.\nDid you eat properly? Is anything bothering you?\nIf so, tell me.",
+          "editorNote": "Simple but weighty — being truly checked on feels more meaningful than a hundred 'I love yous'",
+          "variations": ["Is anyone giving you a hard time? Tell me. I'll remember it."]
+        }
+      }
+    },
+    {
       "id": "sq-013",
       "dateAdded": "2026-04-10",
       "sourceUrl": "",

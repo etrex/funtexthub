@@ -431,6 +431,82 @@
       }
     },
     {
+      "id": "pj-024",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "Password complexity requirements — universal IT security frustration",
+      "tags": ["密碼", "資安", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "IT部門說新密碼必須包含：大寫字母、小寫字母、數字、特殊符號，且不得少於十二位。\n工程師盯著螢幕想了三分鐘，輸入了一個自認為很聰明的密碼。\n三個月後，他完全不記得了。\n\n現在他的密碼是：「忘記了再設@1」",
+          "editorNote": "在IT安全培訓後分享，現場每個人都會沉默一秒，然後一起點頭",
+          "variations": ["密碼強度：超強。記住密碼的能力：超弱。這就是人生。"]
+        },
+        "en": {
+          "content": "The new IT policy: passwords must contain uppercase, lowercase, numbers, special characters, and be at least twelve characters long.\nThe developer stared at the screen for three minutes and typed something clever.\nThree months later, they had absolutely no idea what it was.\n\nCurrent password: 'ForgotAgain@1'",
+          "editorNote": "Share right after any IT security training. Every person in the room will nod quietly.",
+          "variations": ["Password strength: very strong. Ability to remember password: very weak. Such is life."]
+        }
+      }
+    },
+    {
+      "id": "pj-025",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "Code review culture — 'minor change' that isn't minor",
+      "tags": ["Code Review", "職場", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師提交Code Review，備註：「小改動，幫我確認一下。」\n審查者打開來：\n四個檔案被修改。\n三個新函式被加進來。\n一段沒有人知道是做什麼的程式碼被刪掉了。\n一半的變數被重新命名。\n\n審查者盯著螢幕三十秒，回覆：「LGTM 👍」",
+          "editorNote": "Code Review文化的完美縮影，傳給有過這種經歷的工程師，對方秒懂",
+          "variations": ["什麼叫做『小改動』？就是改了很多但你不想解釋的那種。"]
+        },
+        "en": {
+          "content": "Developer submits a pull request with the description: \"Minor change, quick review please.\"\nThe reviewer opens it:\nFour files modified.\nThree new functions added.\nA mysterious chunk of code deleted with no explanation.\nHalf the variables renamed.\n\nThe reviewer stares at the screen for thirty seconds, then comments: \"LGTM 👍\"",
+          "editorNote": "The truest code review experience. Send to any developer who's been on either side of this.",
+          "variations": ["What is a 'minor change'? Something you changed a lot but don't want to explain."]
+        }
+      }
+    },
+    {
+      "id": "pj-026",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "Developer sleep schedule — binary hour joke",
+      "tags": ["工程師生活", "睡眠", "邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問工程師：「你平常幾點睡？」\n工程師說：「00:00到01:00之間。」\n「什麼，差一個小時？這範圍也太大了吧？」\n「是啊。視今天的Bug數量而定。」",
+          "editorNote": "深夜還在線上的工程師最懂這種感覺，傳給他讓他知道不孤單",
+          "variations": ["有時候00:00多睡一點，有時候01:00還在跟bug搏鬥。工程師的時間是動態的。"]
+        },
+        "en": {
+          "content": "Someone asked a developer: \"What time do you usually sleep?\"\nDeveloper: \"Somewhere between midnight and 1 AM.\"\n\"That's an hour window — why so vague?\"\n\"Depends on how many bugs I had today.\"",
+          "editorNote": "Send to a developer who's still online at midnight. They will feel deeply understood.",
+          "variations": ["Sometimes closer to midnight, sometimes still fighting a bug at 1 AM. A developer's schedule is dynamic."]
+        }
+      }
+    },
+    {
+      "id": "pj-027",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "Recursion explanation joke — classic CS humor",
+      "tags": ["遞迴", "程式概念", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問工程師：「你怎麼跟非工程師解釋什麼是遞迴？」\n工程師：「要解釋遞迴，你必須先理解遞迴。」\n「……然後呢？」\n「然後要理解遞迴，你必須先理解遞迴。」\n「……我懂了。」\n「對，你剛剛體驗了遞迴。」",
+          "editorNote": "電腦科學課的保留曲目，在解釋技術概念的場合說效果絕佳，讓聽的人真的懂了遞迴是什麼",
+          "variations": ["遞迴的最大危險：忘記設定終止條件，然後你就會一直解釋下去，直到對方的耐心用完。"]
+        },
+        "en": {
+          "content": "Someone asked a developer: \"How do you explain recursion to a non-developer?\"\nDeveloper: \"To explain recursion, you first need to understand recursion.\"\n\"...And then?\"\n\"Then to understand recursion, you need to explain recursion.\"\n\"...I think I get it.\"\n\"Good. You just experienced recursion.\"",
+          "editorNote": "A CS classroom classic — use when explaining technical concepts; your audience will actually learn what recursion is",
+          "variations": ["The greatest risk of recursion: forgetting the base case. Then you'll keep explaining forever until the other person gives up."]
+        }
+      }
+    },
+    {
       "id": "pj-023",
       "dateAdded": "2026-04-10",
       "sourceUrl": "",

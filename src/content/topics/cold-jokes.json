@@ -241,6 +241,82 @@
       }
     },
     {
+      "id": "cj-014",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["諧音", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道剪刀走路為什麼特別有自信嗎？\n\n因為不管去哪裡，它都知道自己能「剪」出一條路。",
+          "editorNote": "諧音加上正能量包裝，適合在需要打氣的場合說完後補一句「你也一樣」",
+          "variations": ["剪刀從來不怕迷路，因為走到哪都能開路"]
+        },
+        "en": {
+          "content": "Why does a pair of scissors always walk with such confidence?\n\nBecause no matter where it goes, it knows it can cut through.",
+          "editorNote": "Deliver it straight, then optionally add: 'You're the same way.'",
+          "variations": ["Scissors never worry about dead ends — they just make a new path."]
+        }
+      }
+    },
+    {
+      "id": "cj-015",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["邏輯", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小傑說：「我設了五個鬧鐘，保證早起。」\n朋友問：「那你幾點起來的？」\n小傑：「第六個響的時候。」\n朋友：「你不是說只有五個？」\n小傑：「第六個是我媽打來的電話。」",
+          "editorNote": "睡眠障礙族的自我介紹，傳給那個每天說明天一定要早起的朋友",
+          "variations": ["七個鬧鐘都沒用，有時候唯一有效的還是媽媽的奪命連環call"]
+        },
+        "en": {
+          "content": "Jamie said: \"I set five alarms to make sure I wake up early.\"\nFriend: \"So what time did you get up?\"\nJamie: \"When the sixth one went off.\"\nFriend: \"You said you only set five.\"\nJamie: \"The sixth one was my mom calling.\"",
+          "editorNote": "Send to the friend who says they'll sleep early 'starting tomorrow'",
+          "variations": ["Five alarms, a sunrise playlist, and a motivational poster — no match for a mom's missed call notification."]
+        }
+      }
+    },
+    {
+      "id": "cj-016",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["動物", "邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼章魚是最理想的好朋友？\n\n因為你不管拜託它幾件事，它永遠有足夠的手。",
+          "editorNote": "朋友需要幫忙的時候說，笑完了順便讓對方感受到你很願意伸出手",
+          "variations": ["如果人類有八隻手，多工處理可能還是不夠——因為任務清單也會變八倍長"]
+        },
+        "en": {
+          "content": "Why is an octopus the ideal best friend?\n\nBecause no matter how many things you ask for help with, it always has enough hands.",
+          "editorNote": "Say this when a friend asks for a favor — a funny way to say you're there for them",
+          "variations": ["If humans had eight arms, the to-do list would just grow eight times longer."]
+        }
+      }
+    },
+    {
+      "id": "cj-017",
+      "dateAdded": "2026-04-11",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["諧音", "食物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道吐司麵包為什麼每天都很開心嗎？」\n「為什麼？」\n「因為不管今天過得怎樣，它都被『烤』得很好。」",
+          "editorNote": "早餐的時候說，旁邊的人如果正好在吃吐司，效果加倍",
+          "variations": ["吐司人生哲學：被高溫考驗之後，才能變得酥脆有層次"]
+        },
+        "en": {
+          "content": "\"Do you know why toast is always in a good mood?\"\n\"Why?\"\n\"Because no matter what kind of day it's having, it always comes out well-toasted.\"",
+          "editorNote": "Best delivered at breakfast, especially if someone is literally eating toast",
+          "variations": ["Toast life philosophy: only after enduring the heat do you become something worth spreading on."]
+        }
+      }
+    },
+    {
       "id": "cj-013",
       "dateAdded": "2026-04-10",
       "sourceUrl": "",
