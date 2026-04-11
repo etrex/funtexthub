@@ -60,12 +60,12 @@
         "zh-tw": {
           "content": "天冷了記得多穿一件，不是客套話，是因為你生病的話我會擔心到睡不著。",
           "editorNote": "換季的時候傳特別有效",
-          "variations": []
+          "variations": ["換季出門記得多帶一件，我沒辦法幫你擋冷空氣，但我可以一直擔心你"]
         },
         "en": {
           "content": "Dress warmly when it gets cold. I'm not just being polite - if you get sick, I'd worry too much to sleep.",
           "editorNote": "Great to send when seasons change",
-          "variations": []
+          "variations": ["Take a jacket when you go out. I can't block the cold for you — but I'll worry about you the whole time."]
         }
       }
     },
@@ -98,12 +98,12 @@
         "zh-tw": {
           "content": "吃飯了嗎？沒吃的話告訴我，我雖然不能馬上出現在你面前，但至少可以幫你叫外送。",
           "editorNote": "務實又暖心的關心方式",
-          "variations": []
+          "variations": ["就算我在很遠的地方，只要你說餓了，我都想辦法讓你先吃到東西"]
         },
         "en": {
           "content": "Have you eaten yet? If not, tell me. I might not be able to show up right away, but I can at least order delivery for you.",
           "editorNote": "Practical and heartwarming",
-          "variations": []
+          "variations": ["Even from far away, if you say you're hungry, I'll figure out a way to make sure you eat."]
         }
       }
     },
