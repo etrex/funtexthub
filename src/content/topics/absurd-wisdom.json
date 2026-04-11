@@ -1,0 +1,301 @@
+{
+  "slug": "absurd-wisdom",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "廢話文學語錄",
+      "description": "一句話講了很多，但什麼都沒說——廢話文學精選，讀完只能點頭稱是"
+    },
+    "en": {
+      "title": "Absurd Wisdom",
+      "description": "Statements that sound profound until you realize they're stating the obvious — curated nonsense that somehow makes total sense"
+    }
+  },
+  "items": [
+    {
+      "id": "aw-001",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學格式參考，重新創作",
+      "tags": ["廢話文學", "時間", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "科學家發現，每當一分鐘過去之後，那一分鐘就不在了。\n目前沒有任何方法可以改變這個結果。",
+          "editorNote": "適合傳到群組引發困惑，也很適合當作跟朋友說廢話的開場白",
+          "variations": ["每當時鐘走完一個小時，你就已經少了六十分鐘的人生。這是事實。"]
+        },
+        "en": {
+          "content": "Scientists have confirmed that once a minute has passed, that minute is no longer present.\nNo method has been found to reverse this.",
+          "editorNote": "Drop this in a group chat to cause confusion — or use it to open a conversation about absolutely nothing",
+          "variations": ["Every time the clock completes an hour, sixty minutes of your life are gone. This is not a drill."]
+        }
+      }
+    },
+    {
+      "id": "aw-002",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學下雨傘例句，重新改寫",
+      "tags": ["廢話文學", "天氣", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "帶了傘的人，在下雨的時候通常不會淋濕。\n沒有帶傘的人，結果恰好相反。\n\n這個現象，在有傘和沒有傘的人身上都得到了驗證。",
+          "editorNote": "下雨天傳給沒帶傘的朋友，效果絕佳",
+          "variations": ["出門前記得看天氣預報，因為不看的話，你就不知道今天的天氣是什麼。"]
+        },
+        "en": {
+          "content": "People who bring an umbrella tend to stay dry when it rains.\nThose without an umbrella experience the opposite.\n\nThis phenomenon has been observed in both groups.",
+          "editorNote": "Send to a friend who forgot their umbrella — maximum effect guaranteed",
+          "variations": ["Check the weather forecast before you leave. Without checking it, you won't know what the weather is."]
+        }
+      }
+    },
+    {
+      "id": "aw-003",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "廢話文學食物例句，重新改寫",
+      "tags": ["廢話文學", "飲食", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "研究指出，當一個人把盤子裡的食物全部吃完之後，\n盤子裡就不會再有食物了。\n\n除非再裝。",
+          "editorNote": "傳給說「我在節食」又一直夾菜的朋友，畫面感滿分",
+          "variations": ["吃太飽的人，比吃剛好的人，多吃了一些。這是真的。"]
+        },
+        "en": {
+          "content": "Research indicates that after a person finishes all the food on their plate,\nthere will no longer be food on the plate.\n\nUnless more is added.",
+          "editorNote": "Send to a friend who says they're dieting but keeps eating — perfectly timed",
+          "variations": ["A person who overeats has eaten more than a person who ate just enough. This is accurate."]
+        }
+      }
+    },
+    {
+      "id": "aw-004",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://read01.com/zh-tw/Qz3zzgm.html",
+      "sourceNote": "廢話文學年齡例句，重新改寫",
+      "tags": ["廢話文學", "人生", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你今年幾歲，就代表你已經活了幾年。\n這中間沒有例外，也沒有辦法有例外。",
+          "editorNote": "生日的時候傳給朋友，比任何生日祝福都更讓他停下來想一下",
+          "variations": ["過了今年，你就比今年大一歲了。比去年也大了一歲。這是每年都會發生的事。"]
+        },
+        "en": {
+          "content": "However old you are is precisely how many years you have been alive.\nThere are no exceptions to this, nor can there be.",
+          "editorNote": "Send on someone's birthday — it'll make them pause more than any regular birthday message",
+          "variations": ["After this year, you'll be one year older than you are this year. This happens every year."]
+        }
+      }
+    },
+    {
+      "id": "aw-005",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
+      "sourceNote": "廢話文學睡眠觀察，重新改寫",
+      "tags": ["廢話文學", "睡眠", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個人在睡覺的時候，通常是因為他沒有醒著。\n醒著的人，則通常還沒睡著。\n\n這兩種狀態，每個人都體驗過。",
+          "editorNote": "失眠的時候看最有共鳴，傳給說「我睡不著」的朋友也很合適",
+          "variations": ["睡不著的人，在他睡著之前，都會一直睡不著。"]
+        },
+        "en": {
+          "content": "When a person is asleep, it is generally because they are not awake.\nPeople who are awake, conversely, have not yet fallen asleep.\n\nEveryone has experienced both states.",
+          "editorNote": "Perfect for 3am insomnia or to send to a friend who says they can't sleep",
+          "variations": ["A person who can't sleep will continue to be unable to sleep until they fall asleep."]
+        }
+      }
+    },
+    {
+      "id": "aw-006",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學財務知識，重新創作",
+      "tags": ["廢話文學", "金錢", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "花掉的錢，就不在你的口袋裡了。\n沒花的錢，還在。\n\n這兩種情況，根據你有沒有花錢來決定。",
+          "editorNote": "月底窮到沒錢的朋友看了最有感，或傳給那個一直說要存錢卻一直花錢的人",
+          "variations": ["你花了多少錢，你就少了多少錢。這個關係是直接的。"]
+        },
+        "en": {
+          "content": "Money that has been spent is no longer in your possession.\nMoney that has not been spent remains.\n\nWhich of these applies depends on whether you have spent the money.",
+          "editorNote": "Send to a friend who's broke at the end of the month — or to the one who keeps saying they'll save but never does",
+          "variations": ["However much money you spend, that is exactly how much less money you have. The relationship is direct."]
+        }
+      }
+    },
+    {
+      "id": "aw-007",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "廢話文學運動健身觀察，重新創作",
+      "tags": ["廢話文學", "運動", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "體重計顯示的數字，\n無論你站上去幾次，都是你目前的體重。\n\n站更多次，不會讓數字變小。\n但很多人還是會再站一次。",
+          "editorNote": "健身房或節食中的朋友看了最有感，傳過去保證有共鳴",
+          "variations": ["反覆量體重只是讓你更頻繁地知道你的體重，而不是改變它。"]
+        },
+        "en": {
+          "content": "The number shown on a scale represents your current weight,\nregardless of how many times you step on it.\n\nStepping on it more often will not make the number smaller.\nAnd yet, most people step on it again.",
+          "editorNote": "Send to any friend on a diet or going to the gym — they'll feel personally attacked",
+          "variations": ["Weighing yourself repeatedly only gives you more frequent access to information you already know."]
+        }
+      }
+    },
+    {
+      "id": "aw-008",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學天氣觀察，重新創作",
+      "tags": ["廢話文學", "天氣", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "根據長期觀察，晴天的特徵，是沒有在下雨。\n下雨天的特徵，是雨正在落下。\n\n陰天則介於兩者之間，但更靠近其中一種。",
+          "editorNote": "天氣不好的時候傳給朋友，比任何氣象預報更精準地什麼都沒說",
+          "variations": ["今天天氣很熱，是因為現在的溫度比較高。這個分析是準確的。"]
+        },
+        "en": {
+          "content": "Long-term observation shows that sunny days are characterized by an absence of rain.\nRainy days are characterized by rain falling.\n\nCloudy days fall somewhere between the two, though closer to one than the other.",
+          "editorNote": "Send when the weather is bad — more accurate than any forecast while saying absolutely nothing",
+          "variations": ["Today is hot because the temperature is high. This analysis is correct."]
+        }
+      }
+    },
+    {
+      "id": "aw-009",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://read01.com/zh-tw/Qz3zzgm.html",
+      "sourceNote": "廢話文學歷史觀察，重新創作",
+      "tags": ["廢話文學", "歷史", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "所有發生在很久以前的事情，\n都可以稱為過去的事情。\n\n而那些還沒發生的事，目前仍然沒有發生。",
+          "editorNote": "歷史課作業的開頭用這段，老師可能會愣住；傳給唸歷史系的朋友，他會懂",
+          "variations": ["昨天的事情，在今天來看，都是昨天發生的。這個角度是正確的。"]
+        },
+        "en": {
+          "content": "Everything that happened a long time ago\ncan be referred to as something that happened in the past.\n\nThings that haven't happened yet remain, at this time, unhappened.",
+          "editorNote": "Open your history essay with this — the teacher might pause; send to a history major for full effect",
+          "variations": ["Yesterday's events, viewed from today, all took place yesterday. This perspective is accurate."]
+        }
+      }
+    },
+    {
+      "id": "aw-010",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "廢話文學人際關係觀察，重新創作",
+      "tags": ["廢話文學", "人際", "社交"],
+      "i18n": {
+        "zh-tw": {
+          "content": "兩個陌生人，在成為朋友之前，\n曾經有過一段互相不認識的時期。\n\n那段時期，就是他們還不是朋友的時候。",
+          "editorNote": "傳給新認識的朋友，說「我們以前還不是朋友」，既準確又沒什麼意義",
+          "variations": ["認識你之前，我不認識你。認識之後就認識了。這個過程在大部分友誼中都存在。"]
+        },
+        "en": {
+          "content": "Before two strangers become friends,\nthere exists a period during which they do not know each other.\n\nThis period is defined as the time before they became friends.",
+          "editorNote": "Tell a new friend 'before we knew each other, we didn't know each other' — accurate and entirely pointless",
+          "variations": ["Before I knew you, I didn't know you. Afterward, I did. This process exists in most friendships."]
+        }
+      }
+    },
+    {
+      "id": "aw-011",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學旅行觀察，重新創作",
+      "tags": ["廢話文學", "旅行", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果你一直往前走，\n你就會離你出發的地方越來越遠。\n\n但如果你走回來，距離就縮短了。\n不走的話就不會有以上任何一種情況。",
+          "editorNote": "規劃旅行的時候發現自己看了半天還沒訂票，可以傳給自己看",
+          "variations": ["到達目的地，代表你已經在目的地了。出發前則不在。"]
+        },
+        "en": {
+          "content": "If you keep walking forward,\nyou will find yourself increasingly far from where you started.\n\nIf you walk back, the distance decreases.\nIf you don't move, neither happens.",
+          "editorNote": "Relatable when you've been 'planning' a trip for three hours without booking anything",
+          "variations": ["Arriving at a destination means you are now at the destination. Before departing, you were not."]
+        }
+      }
+    },
+    {
+      "id": "aw-012",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "廢話文學人生哲學，重新創作",
+      "tags": ["廢話文學", "人生", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人生就是這樣：\n有時候順，有時候不順。\n\n順的時候，是因為事情比較順利。\n不順的時候，則恰好相反。\n兩種情況都有可能出現。",
+          "editorNote": "朋友在抱怨的時候傳這個，你既表示了理解，又沒有給任何實質建議",
+          "variations": ["生活有好的時候，也有不好的時候。這兩者都叫做生活。"]
+        },
+        "en": {
+          "content": "Life is like this:\nSometimes things go well, and sometimes they don't.\n\nWhen things go well, it's because they are going well.\nWhen they don't, it's the opposite.\nBoth outcomes are possible.",
+          "editorNote": "Send when a friend is venting — you've acknowledged their situation while offering zero actual advice",
+          "variations": ["Life has good parts and not-so-good parts. Both of these are still life."]
+        }
+      }
+    },
+    {
+      "id": "aw-013",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
+      "sourceNote": "廢話文學學習觀察，重新創作",
+      "tags": ["廢話文學", "學習", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "不懂的東西，在你搞懂之前，你是不懂的。\n搞懂之後，就懂了。\n\n這個過程，叫做學習。\n不學習的話，這個過程就不會發生。",
+          "editorNote": "考試前傳給在說「我完全不懂」的朋友，看他是要生氣還是笑出來",
+          "variations": ["你越努力，就越接近你努力的目標。不努力，則離得遠一些。"]
+        },
+        "en": {
+          "content": "The things you don't understand remain things you don't understand — until you understand them.\nAfter that, you understand them.\n\nThis process is called learning.\nWithout learning, this process does not occur.",
+          "editorNote": "Send to a friend who says 'I have no idea what I'm doing' before an exam — 50/50 chance of laughter or anger",
+          "variations": ["The harder you work, the closer you get to what you're working toward. Less work means further away."]
+        }
+      }
+    },
+    {
+      "id": "aw-014",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學手機使用觀察，重新創作",
+      "tags": ["廢話文學", "科技", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機沒電的時候，\n螢幕會變黑，無法使用。\n\n充電之後，電池裡就有電了。\n插著充電器但沒有插電，效果有限。",
+          "editorNote": "傳給那個問你「為什麼我手機沒電了」的人，精準但沒用",
+          "variations": ["如果手機的電量是零，你就需要讓它不是零，才能繼續使用。"]
+        },
+        "en": {
+          "content": "When a phone has no battery,\nthe screen goes dark and the device becomes unusable.\n\nAfter charging, the battery will contain charge.\nPlugging in a charger that is not connected to power has limited effect.",
+          "editorNote": "Send to the person who asks 'why is my phone dead?' — precise, accurate, and completely unhelpful",
+          "variations": ["If your phone battery is at zero, it will need to be not at zero before you can use it again."]
+        }
+      }
+    },
+    {
+      "id": "aw-015",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "廢話文學社群媒體觀察，重新創作",
+      "tags": ["廢話文學", "社群媒體", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "發限時動態之後，\n看過的人，就看過了。\n沒看的人，沒看到。\n\n二十四小時後，限時動態消失。\n但有沒有人看過，已經是事實。",
+          "editorNote": "傳給那個很在意限動觀看數的朋友，讓他安靜地重新評估人生",
+          "variations": ["你發了文，沒有人按讚，代表目前沒有人按讚。這可能之後會改變，也可能不會。"]
+        },
+        "en": {
+          "content": "After posting a story,\npeople who have seen it have seen it.\nPeople who haven't seen it have not.\n\nAfter twenty-four hours, the story disappears.\nBut who saw it or didn't — that is already a fact.",
+          "editorNote": "Send to the friend obsessively checking their story views — give them a moment to quietly reconsider life",
+          "variations": ["If you post something and nobody likes it, it means nobody has liked it yet. This may or may not change."]
+        }
+      }
+    }
+  ]
+}
