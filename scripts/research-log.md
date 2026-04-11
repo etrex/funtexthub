@@ -137,3 +137,71 @@
 5. Create `witty-comebacks` / 幹話語錄 + `absurd-wisdom` / 廢話文學 (Z-gen trend, high shareability)
 6. Create `zodiac-quotes` topic (consistent search volume)
 7. Evaluate `drama-quotes` and `dark-humor` topics for future batch
+
+---
+
+## 2026-04-11 Research Report
+
+### Status Update
+- `programmer-jokes` topic confirmed created ✅
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes (4 total)
+- Mother's Day (May 10) is 29 days away — sweet-quotes update is now **high urgency**
+
+### New Topic Recommendations
+
+1. **廢話文學 / Absurd Wisdom** (slug: `absurd-wisdom`, category: Humor)
+   - Confirmed still highly active on Dcard in 2026 — dedicated threads with recent posts (Jan 2026 entries spotted)
+   - Signature format examples verified: "在非洲，每六十秒，就有一分鐘過去"; "每呼吸60秒，就減少一分鐘的壽命"; "誰能想的到，這名16歲少女，在四年前，只是一名12歲少女"
+   - Format is extremely easy to consume and share; works perfectly as short posts on LINE, IG Stories, Threads
+   - SEO targets: 廢話文學, 廢話語錄, 廢話金句, 哲學廢話, 搞笑語錄
+   - **Recommendation: Create immediately — low content risk, high viral potential, Dcard audience confirmed**
+
+2. **勵志語錄 / Motivational Quotes** (slug: `motivational-quotes`, category: Motivation)
+   - Multiple high-authority Taiwan sites confirmed active curation: Ariel Hsu (arielhsu.tw), CyberLink Blog, 經理人, 商周財富網, ProjectManager.com.tw
+   - Content themes confirmed: 追夢 (chasing dreams), 勇氣 (courage), 重生 (rebirth), 自我 (self-identity) — map directly to FunTextHub categories
+   - FunTextHub differentiator: focus on "輕勵志" — witty, relatable, non-preachy; under 30 characters preferred
+   - SEO targets: 勵志語錄, 正能量語錄, 激勵短句, 座右銘, 每日一句, 心靈語錄
+   - Search demand confirmed evergreen; peaks January, September (school year starts), year-end
+   - **Recommendation: Create next after absurd-wisdom**
+
+3. **節日笑話 / Seasonal Holiday Jokes** (slug: `holiday-jokes`, category: Humor)
+   - Easter 2026 joke content actively circulating on Pinterest (68 ideas board confirmed), Reddit, Parade, RD.com
+   - Format: clean pun-based jokes ("Why are Easter eggs funny? They're full of yolks")
+   - Taiwan angle: 清明節 (April 4, just passed), 端午節 (June 2), 中秋節 (September) — Taiwan holiday cycle offers recurring seasonal hooks
+   - Bilingual opportunity strong — same jokes localized for zh-tw and en audiences
+   - SEO targets: 清明笑話, 端午笑話, 節日笑話, Easter jokes, holiday jokes
+   - Risk: seasonal content has traffic spikes but quieter off-season periods; tag carefully by holiday
+   - **Recommendation: Plan for 端午節 (June 2) content now; consider adding "seasonal" tag to existing cold-jokes for discoverability**
+
+4. **職場語錄 / Workplace Quotes** (slug: `workplace-quotes`, category: Lifestyle)
+   - Continued confirmation from Dcard popular board and 518.com.tw; office humor consistently among top shared LINE content for 25–45 demographic
+   - Strong crossover with programmer-jokes audience; "辦公室幽默" and "老闆語錄" are high-volume searches
+   - SEO targets: 職場語錄, 上班族語錄, 辦公室笑話, 工作金句
+   - **Recommendation: Develop in parallel with motivational-quotes (different category/audience)**
+
+### Content Trends
+
+- **廢話文學 Momentum Confirmed**: Dcard posts from Jan 2026 still using this format confirms it hasn't peaked — timing for FunTextHub entry is good.
+- **母親節 (May 10) — URGENT**: 29 days away. Research found multiple 2026-labeled 母親節語錄 resources already ranking well. Content angles: (a) 搞笑版 — "謝謝你沒把我退貨"; (b) 感人版 — "妳養我長大，我陪妳變老"; (c) 土味情話版 — "媽，你就是我人生的Wi-Fi，怎麼離開你都沒有訊號". The third angle uniquely crosslinks cheesy-pickups with sweet-quotes audience.
+- **Easter/Spring Jokes**: Easter 2026 content is actively circulating in English-language social media (Pinterest, Reddit, Instagram). These clean pun-based jokes ("Egg-cited", "Hoppy Easter") work well for FunTextHub's English content and could attract international traffic. Plan 清明/端午 Chinese equivalents.
+- **Dad Jokes / 爸爸笑話**: Multiple 2026 trending joke compilations explicitly label content "dad jokes" — confirmed cross-cultural appeal. Research showed 376+ jokes trending on Reddit pun humor formats. FunTextHub's cold-jokes topic overlaps heavily; consider adding "爸爸笑話" as a tag to existing cold-jokes items.
+- **幹話語錄 Dcard Activity**: Dedicated 幹話 topic confirmed on Dcard with ongoing posts — audience exists and is engaged. Overlaps with witty-comebacks concept from previous research.
+
+### Existing Topic Updates
+
+- **sweet-quotes (暖男語錄)** — **URGENT**: Add 母親節 themed items within 2 weeks. Suggested new items: (1) 搞笑感恩句; (2) 成年子女視角的感動句; (3) "給媽媽的土味情話" crossover items. Research confirms 2026 searches are active for 母親節語錄 幽默/搞笑.
+- **cold-jokes (冷笑話)**: Add "爸爸笑話" and "諧音梗" tags to existing items to capture dad-jokes search traffic. New content angle: Easter/清明 seasonal pun jokes bilingual.
+- **programmer-jokes**: Add "工程師語錄" and "職場" tags to improve discoverability for users searching workplace humor. Consider "軟體工程師vs現實" format items (expectation vs. reality jokes).
+- **cheesy-pickups (土味情話)**: Add 廢話文學-style pickup lines (obvious-yet-sincere format). Also add 母親節 crossover ("媽，你就是我人生最強的 buff").
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. **[URGENT]** Add Mother's Day variations to `sweet-quotes` — deadline approaching May 10
+3. Create `absurd-wisdom` / 廢話文學 topic (confirmed Dcard traction, low risk, high viral potential)
+4. Create `motivational-quotes` topic (broad evergreen, multiple high-authority Taiwan sites confirming demand)
+5. Create `workplace-quotes` topic (25–45 office worker audience, LINE sharing culture)
+6. Create `holiday-jokes` / 節日笑話 topic (plan 端午節 content for June 2 seasonal peak)
+7. Create `witty-comebacks` / 幹話語錄 (confirmed Dcard demand; can merge with absurd-wisdom or keep separate)
+8. Create `zodiac-quotes` topic (consistent evergreen search volume)
+9. Future: `drama-quotes`, `dark-humor`
