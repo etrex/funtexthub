@@ -1,0 +1,301 @@
+{
+  "slug": "workplace-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "職場厭世語錄",
+      "description": "上班族的心聲、社畜的日常、每一句都是從辦公室存活下來的智慧結晶"
+    },
+    "en": {
+      "title": "Workplace Survival Quotes",
+      "description": "Every line is a battle scar from the office — for those who've survived meetings, managers, and Mondays"
+    }
+  },
+  "items": [
+    {
+      "id": "wq-001",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.518.com.tw/article/804",
+      "sourceNote": "518職場熊報 — 上班族厭世語錄，精神賠償金是核心哏",
+      "tags": ["薪水", "社畜", "職場厭世", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每個月領到薪水的那一刻，我終於明白：這不是酬勞，是公司給我的精神慰問金。",
+          "editorNote": "傳給快領薪水的同事，十秒後他會說「你真的說出我的心聲」。",
+          "variations": ["延伸版：『年終獎金是感謝你沒有提早離職的心意費』"]
+        },
+        "en": {
+          "content": "Every payday I realize the same thing — this isn't a salary. It's emotional damages.",
+          "editorNote": "Send to a coworker right before payroll drops. Guaranteed to get a slow, knowing nod.",
+          "variations": ["Year-end bonus version: 'This isn't a bonus. It's a thank-you for not quitting sooner.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-002",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.popdaily.com.tw/life/1233862",
+      "sourceNote": "PopDaily 職場厭世語錄 — 錢包洋蔥哏變體",
+      "tags": ["錢包", "薪水", "幽默自嘲", "社畜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的帳戶就像一個定時器：每次打開，就自動倒數到下個月薪水入帳還需要幾天。",
+          "editorNote": "月底傳給同事，大家一起哭，可以順便問他要不要揪團買泡麵。",
+          "variations": ["錢包版：『我的錢包有一個特異功能，打開的時候會自動播放悲傷音樂』"]
+        },
+        "en": {
+          "content": "My bank account has one feature: every time I check it, it automatically shows how many days until next payday.",
+          "editorNote": "Share near the end of the month for maximum solidarity with coworkers.",
+          "variations": ["Wallet version: 'My wallet has a setting — it plays sad music whenever it opens.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-003",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.rd.com/article/funny-work-quotes/",
+      "sourceNote": "RD.com funny work quotes — meeting that could've been an email",
+      "tags": ["會議", "辦公室", "職場幽默", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "那場兩小時的會議結束後，我深刻體會到一件事：這個討論完全可以是一封三行的信。",
+          "editorNote": "會後貼到部門群組，搭配一個紅眼睛的貼圖效果更佳。",
+          "variations": ["進階版：『這封三行的信，其實也可以是一句口頭確認』"]
+        },
+        "en": {
+          "content": "Two hours into the meeting, it hit me: this entire discussion was a three-line email in disguise.",
+          "editorNote": "Drop this into the team chat right after a pointless meeting ends. Works every time.",
+          "variations": ["Advanced version: 'And that three-line email could've been a quick 'yes' in the hallway.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-004",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://udn.com/news/story/7269/8706388",
+      "sourceNote": "udn 職場厭世語錄 — 上班是暫時的/退休夢",
+      "tags": ["退休", "夢想", "社畜", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的人生計畫分兩步：\n第一步：上班。\n第二步：退休。\n目前卡在第一步大概還要四十年。",
+          "editorNote": "適合在「你有什麼五年計劃？」這種面試題答案出來之前傳給朋友笑一笑。",
+          "variations": ["樂觀版：『第一步完成後，第二步就是享受人生，估計需要一天』"]
+        },
+        "en": {
+          "content": "My life plan is simple: Step one — work. Step two — retire. I've been stuck on step one for a while now.",
+          "editorNote": "Share before anyone asks you about your 'five-year plan.'",
+          "variations": ["Optimistic version: 'Step two takes about 24 hours. Step one takes a few decades.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-005",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.yes123.com.tw/aboutwork_2020/article.asp?w_id=7192",
+      "sourceNote": "yes123 職場經典語錄 — 假裝工作/假裝發薪水",
+      "tags": ["職場幽默", "辦公室", "上班族限定", "幹話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "職場有一種預設的默契：我假裝很努力，公司假裝我的薪水很多。大家都心照不宣，配合演出。",
+          "editorNote": "傳給懂得的老同事，他看完會默默按讚然後繼續假裝在趕報告。",
+          "variations": ["加班版：『我假裝加班很有效率，公司假裝加班費很值得』"]
+        },
+        "en": {
+          "content": "There's an unspoken agreement at every workplace: I pretend to be productive, and they pretend my pay is fair. Everyone plays their part.",
+          "editorNote": "Share with a seasoned coworker. They'll nod without saying a word and go back to their spreadsheet.",
+          "variations": ["Overtime version: 'I pretend overtime is meaningful. They pretend it'll be compensated fairly.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-006",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.518.com.tw/article/804",
+      "sourceNote": "518職場熊報 — 工作不會害你，只有人才會",
+      "tags": ["職場人際", "同事", "老闆", "社畜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工作本身不難，難的是一起工作的人。任務是有截止日期的，有些同事是沒有的。",
+          "editorNote": "適合在跨部門開完糟糕的協調會後，傳給你的好同事發洩一下。",
+          "variations": ["老闆版：『老闆說今天沒什麼事，意思是有很多不知道是什麼的事』"]
+        },
+        "en": {
+          "content": "The work itself is manageable. It's the people attached to the work that have no expiration date.",
+          "editorNote": "Send to your work best friend after a painful cross-team meeting.",
+          "variations": ["Manager version: 'When your boss says 'nothing urgent,' it means six things you don't know about yet.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-007",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.popdaily.com.tw/life/1233862",
+      "sourceNote": "PopDaily 職場語錄 — 下班倒數心態",
+      "tags": ["下班", "倒數", "職場幽默", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "上班的時候我有一個超能力：不管幾點，我的內心都知道距離下班還有幾小時幾分鐘。",
+          "editorNote": "下午三點傳給同事，他一定馬上看時鐘然後回你一個哭哭的貼圖。",
+          "variations": ["週五版：『週五下班前的一小時，是一週中時間流速最慢的一小時』"]
+        },
+        "en": {
+          "content": "I have one superpower at work: no matter what time it is, I always know exactly how many hours and minutes until I can leave.",
+          "editorNote": "Send to a coworker at 3pm. They will immediately look at the clock.",
+          "variations": ["Friday version: 'The last hour before Friday 5pm is scientifically the slowest hour of the week.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-008",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://danfe.io/blog/hilarious-office-quotes/",
+      "sourceNote": "Danfe office humor — Monday vs Friday personality",
+      "tags": ["週一", "週五", "職場幽默", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週一的我和週五的我根本是兩個不同的人。週一是在辦公室沉默等死的那位，週五是終於看到隧道出口的那位。",
+          "editorNote": "週一早上傳給同事，週五收工前也可以傳，前後對照效果絕佳。",
+          "variations": ["週三版：『週三的我是介於放棄和勉強撐著之間的狀態，學名叫：活著』"]
+        },
+        "en": {
+          "content": "Monday me and Friday me are completely different people. Monday me is the one silently surviving. Friday me is the one who can finally see the exit.",
+          "editorNote": "Send Monday morning for solidarity, or Friday afternoon for celebration.",
+          "variations": ["Wednesday version: 'Wednesday me is somewhere between giving up and barely hanging on. Common name: alive.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-009",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://udn.com/news/story/7269/8706388",
+      "sourceNote": "udn 職場厭世語錄 — 加班心聲",
+      "tags": ["加班", "社畜", "職場厭世", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "加班不可怕，可怕的是加到一半老闆說：「辛苦了！」然後轉身離開，而你還要再加兩小時。",
+          "editorNote": "加班中途傳給一起留下來的戰友，互相取暖用。",
+          "variations": ["午夜版：『加班到接近十二點，最怕的不是天黑，是隔天九點還有晨會』"]
+        },
+        "en": {
+          "content": "Overtime isn't so bad — until your manager stops by, says 'thanks for the hard work,' and goes home while you still have two hours left.",
+          "editorNote": "Send to the coworker still at the desk next to you at 9pm.",
+          "variations": ["Late-night version: 'Almost midnight isn't the scary part. Having a 9am meeting the next day is.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-010",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/53975",
+      "sourceNote": "經理人 工作箴言 — 跳槽/轉職心態",
+      "tags": ["跳槽", "轉職", "職場夢想", "社畜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是在逃避，我只是在尋找一個「加班是文化，但至少給加班費」的地方。",
+          "editorNote": "給正在刷 104 求職網的朋友傳，他會感動到差點跟你說謝謝。",
+          "variations": ["升級版：『我夢想中的公司有三個特點：不加班、薪水好、同事友善。聽說這種公司存在，但目前是傳說中的生物』"]
+        },
+        "en": {
+          "content": "I'm not running away. I'm just searching for a place where 'working late' is culture — but at least they pay you for it.",
+          "editorNote": "Share with anyone who's secretly job hunting at their current desk.",
+          "variations": ["Dream company version: 'My ideal workplace has three features: no unpaid overtime, decent salary, and non-toxic coworkers. I hear they exist. Haven't spotted one in the wild yet.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-011",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://woman.udn.com/woman/story/123164/8445185",
+      "sourceNote": "udn 女子漾 職場金句 — 職場生存哲學",
+      "tags": ["升職", "努力", "職場幽默", "幹話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "努力不一定會成功，但不努力確實很舒服。這就是為什麼職場如戰場：心理素質比什麼都重要。",
+          "editorNote": "績效評核前傳給同事，大家互相打氣兼苦笑。",
+          "variations": ["自我安慰版：『我這個月做的事情不多，但每件事都做得非常有靈魂』"]
+        },
+        "en": {
+          "content": "Working hard doesn't guarantee success, but not working hard is genuinely comfortable. The real skill isn't the work — it's managing your own head.",
+          "editorNote": "Send the week before performance reviews. Solidarity and dark laughs included.",
+          "variations": ["Self-comfort version: 'I didn't do much this month. But everything I did had real soul in it.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-012",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://blog.xoxoday.com/empuls/funny-work-quotes/",
+      "sourceNote": "Xoxoday funny work quotes 2026 — email reply speed",
+      "tags": ["辦公室", "職場幽默", "效率", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "職場潛規則：老闆寄的信要秒回，客戶的信要一小時內回，同事的信可以「稍後處理」，自己的信可以三天後「發現」。",
+          "editorNote": "傳給深諳辦公室生存之道的老鳥同事，他會轉發給至少三個人。",
+          "variations": ["補充規則：『在討論串被點名之前，那封信就等於不存在』"]
+        },
+        "en": {
+          "content": "Office email rules: reply to the boss instantly, clients within an hour, coworkers 'when I get a chance,' and your own inbox gets discovered three days later.",
+          "editorNote": "Forward to the office veteran who knows exactly how this works.",
+          "variations": ["Bonus rule: 'If no one tags you in the thread, the email technically doesn't exist yet.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-013",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.518.com.tw/article/804",
+      "sourceNote": "518職場熊報 — 在職中找工作的矛盾心態",
+      "tags": ["跳槽", "求職", "社畜", "職場厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在職時期刷求職平台是一種自保本能：不是要走，只是要確認自己「還可以走」。",
+          "editorNote": "傳給有刷 104 習慣的朋友，他看完會說「你懂我」然後截圖收藏。",
+          "variations": ["哲學版：『看了那麼多職缺，最後選擇繼續留下，這叫做：理智的自願受苦』"]
+        },
+        "en": {
+          "content": "Browsing job listings while fully employed isn't disloyalty. It's a survival reflex. Not planning to leave — just confirming that leaving is still an option.",
+          "editorNote": "Send to any coworker with three browser tabs open. They'll know.",
+          "variations": ["Philosophical version: 'Checked 50 listings and stayed anyway. That's called: voluntarily informed suffering.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-014",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://www.elle.com.hk/life/career-work-quotes",
+      "sourceNote": "ELLE HK 職場金句 — 凡事與上司爭是沒用的",
+      "tags": ["老闆", "職場人際", "生存法則", "幹話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "職場有一條不成文的規定：不是你對就有用，是老闆覺得你對才有用。所以有時候沉默也是一種才能。",
+          "editorNote": "跟主管開完雞同鴨講的會議後，傳給你的好同事，他一定秒懂。",
+          "variations": ["進階版：『當你終於說服老闆，對方通常會補一句：但我們再想想看』"]
+        },
+        "en": {
+          "content": "There's an unwritten workplace rule: being right doesn't matter as much as the boss thinking you're right. Sometimes, staying quiet is the highest-skill move in the room.",
+          "editorNote": "Share right after a meeting where logic clearly lost to hierarchy.",
+          "variations": ["Advanced version: 'When you finally convince your boss, they usually say: let's think about it some more.'"]
+        }
+      }
+    },
+    {
+      "id": "wq-015",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "https://quotes.lifehack.org/collections/inspirational-funny-workplace-quotes",
+      "sourceNote": "LifeHack funny workplace quotes — Friday feeling",
+      "tags": ["週五", "下班", "療癒", "上班族限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週五下午五點整，整個辦公室有一種說不出的默契：大家同時變得非常有效率，因為大家都想在六點前把事情做完然後消失。",
+          "editorNote": "週五下午傳給同事，可以順便約下班後吃飯，成功率比平時高三倍。",
+          "variations": ["勞動節版：『連假前的最後一個下班，是一年當中走路最輕盈的一次』"]
+        },
+        "en": {
+          "content": "At 5pm on a Friday, something happens across the entire office: everyone suddenly becomes incredibly efficient, because everyone wants to finish and disappear before 6.",
+          "editorNote": "Send Friday afternoon — bonus points if you follow up with 'dinner plans?'",
+          "variations": ["Holiday weekend version: 'The Friday before a long weekend is the lightest you'll ever feel walking out of the office.'"]
+        }
+      }
+    }
+  ]
+}
