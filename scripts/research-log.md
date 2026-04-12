@@ -197,11 +197,101 @@
 ### Updated Action Priority
 
 1. ~~Create `programmer-jokes` topic~~ ✅ Done
-2. **[URGENT]** Add Mother's Day variations to `sweet-quotes` — deadline approaching May 10
-3. Create `absurd-wisdom` / 廢話文學 topic (confirmed Dcard traction, low risk, high viral potential)
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022 added 2026-04-12)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items, 2026-04-12)
 4. Create `motivational-quotes` topic (broad evergreen, multiple high-authority Taiwan sites confirming demand)
 5. Create `workplace-quotes` topic (25–45 office worker audience, LINE sharing culture)
 6. Create `holiday-jokes` / 節日笑話 topic (plan 端午節 content for June 2 seasonal peak)
 7. Create `witty-comebacks` / 幹話語錄 (confirmed Dcard demand; can merge with absurd-wisdom or keep separate)
 8. Create `zodiac-quotes` topic (consistent evergreen search volume)
 9. Future: `drama-quotes`, `dark-humor`
+
+---
+
+## 2026-04-12 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom (5 total) ✅
+- Mother's Day (May 10) is now **28 days away** — sweet-quotes update already done (sq-018–sq-022)
+- absurd-wisdom topic confirmed created ✅
+- Next action: `motivational-quotes` and `workplace-quotes` are the top remaining items
+
+### New Topic Recommendations
+
+1. **負能量職場語錄 / Workplace Sarcasm Quotes** (slug: `workplace-quotes`, category: Lifestyle)
+   - Confirmed high-authority coverage on udn.com, popdaily.com.tw, 518.com.tw, yes123.com.tw, womany.net — all have dedicated "職場厭世語錄" articles
+   - Dominant tone in 2026: 厭世 (world-weary) + 療癒 (healing through humor) combo — not just complaints, but relatable cynicism that makes people feel seen
+   - Verified sample hit formats: "上班領的不是薪水，是精神賠償金"; "工作不會害你，只有人才會"; "我的錢包就像洋蔥，打開它就會想哭"
+   - Strong LINE sharing culture among 25–45 demographic; scores well on social platforms during Monday mornings and year-end review seasons
+   - SEO targets: 職場語錄, 上班族語錄, 職場厭世, 社畜語錄, 辦公室金句, 工作心聲
+   - FunTextHub differentiation: focus on humor + recognition, avoid pure negativity; balance "戳心" with a wry laugh
+   - **Recommendation: Create immediately — demand thoroughly confirmed across multiple sources**
+
+2. **勵志語錄 / Motivational Quotes** (slug: `motivational-quotes`, category: Motivation)
+   - Multiple high-authority Taiwan sites confirmed still active: arielhsu.tw (101 sentences, 108 sentences articles), projectmanager.com.tw (200 sentences), cyberlink.com/blog, 經理人 (39 curated quotes)
+   - Content angles: 追夢 (chasing dreams), 勇氣 (courage), 自我成長 (self-growth), 重新開始 (new beginnings)
+   - Seasonal peaks: January (new year), September (back-to-school), year-end reviews — all evergreen anchors
+   - FunTextHub differentiator: "輕勵志" only — witty, relatable, non-preachy; target under-30-character sentences
+   - SEO targets: 勵志語錄, 正能量語錄, 激勵短句, 座右銘, 每日一句, 心靈短句
+   - **Recommendation: Create in parallel with workplace-quotes**
+
+3. **端午節笑話集 / Dragon Boat Festival Jokes** (slug: `holiday-jokes`, category: Humor)
+   - Dragon Boat Festival 2026: June 19–21 (Friday–Sunday) — confirmed via TVBS news post
+   - Active 端午節 meme content on memes.tw (dedicated tag page), plus 有肉 SUCCULAND already published 75-sentence 端午節賀詞 for 2026
+   - Primary joke format: 粽 (zòng) 諧音梗 — "祝你諸事通" → "諸事粽"; wordplay exploiting the phonetics of 粽子
+   - Bilingual opportunity: English "dragon boat" puns, "dumpling" jokes, egg puns crossover from Easter content
+   - Broader holiday framework: could also serve 中秋節 (Sept 25–27, 2026), 教師節 (Sept 28), 國慶日 (Oct 9–11)
+   - SEO targets: 端午節笑話, 端午節梗, 粽子笑話, 端午節祝福語幽默, Dragon Boat Festival jokes
+   - **Recommendation: Plan content in late May for June traffic peak; start with 粽 homophone jokes (10–15 items)**
+
+4. **星座語錄 / Zodiac Personality Quotes** (slug: `zodiac-quotes`, category: Social)
+   - 2026 is Year of the Fire Horse — Chinese zodiac content has special annual relevance; weekly Chinese horoscope search traffic confirmed active (YourTango data shows ongoing engagement)
+   - Western zodiac + personality type hybrid content popular: "牡羊座就是那種…" format consistently shared on IG Taiwan
+   - Crossover with I人/E人 slang (see Content Trends below) — zodiac personality labels map directly onto this trending format
+   - SEO targets: 星座語錄, 12星座特質, 星座金句, 星座情話, 星座幹話
+   - **Recommendation: Develop after workplace-quotes; zodiac is evergreen and not time-pressured**
+
+### Content Trends
+
+- **2026 Top Z-gen Slang (Use in Tags and editorNotes)**:
+  - 「朋朋」(friendly buddy term, ~357k Threads/IG mentions) — warm, casual address
+  - 「接住」(to emotionally catch/support someone, ~284k mentions) — "接住你的情緒" is the phrase
+  - 「I人／E人」(introvert/extrovert, ~267k mentions) — MBTI shorthand now mainstream in Taiwan
+  - 「情緒價值」(emotional value — does this interaction give me emotional fulfillment?)
+  - 「很躁」(very agitated/restless)
+  - 「朋友感」(feeling of genuine friendship/connection)
+  - These terms should appear naturally in editorNotes for cheesy-pickups, sweet-quotes, and zodiac-quotes
+
+- **勞動節連假 (May 1–3, 2026)**: Three-day weekend coming up in 19 days. Workplace quotes and 社畜 content will have high search traffic right before and during the holiday. Consider scheduling workplace-quotes launch around late April to capture this wave.
+
+- **端午節 (June 19–21, 2026)**: 68 days away. Recommended content preparation window: late May. 粽 homophone puns are the core format. Research confirms active meme creation culture around this holiday on memes.tw.
+
+- **Global April 2026 Memes (for content inspiration)**:
+  - "KitKat Heist" meme (400,000 KitKats stolen in Europe) — absurdist real-life story format; could inspire a cold-joke angle
+  - "Nihilistic Penguin" — brand-adopted meme format aligns with 廢話文學 deadpan style already in absurd-wisdom
+  - "tfw you didn't agree to this" DiCaprio — reaction format popular globally; 幹話 equivalent would be "誰答應你的"
+
+- **I人/E人 Content Opportunity**: The introvert/extrovert identity slang is highly active. A short-form content angle: "I人的內心OS" jokes and "E人約你出去" situations — fits cold-jokes or a future social-situations topic
+
+### Existing Topic Updates
+
+- **workplace-quotes (pending creation)**: Launch timing matters — target before 勞動節 (May 1) for maximum seasonal relevance. Include a "上班族限定" tag for discoverability.
+- **absurd-wisdom (廢話文學)**: Add items using 「接住」 and 「朋友感」 slang angles. E.g.: "如果你接住了所有人的情緒，記得也要留一隻手接住自己的" — sounds profound, is obvious. Fits the format perfectly.
+- **sweet-quotes (暖男語錄)**: The 「接住」 slang maps perfectly to romantic context — "I想接住你所有的不安" would resonate with the 接住 trend. Add 1–2 items using this language.
+- **cold-jokes (冷笑話)**: Add「I人/E人」joke items. Classic format: "I人的浪漫：傳訊息問你吃飽了嗎，然後在你回覆前已後悔自己主動開口". Tag with 「I人」for discoverability.
+- **cheesy-pickups (土味情話)**: The 「朋朋」 term makes an excellent setup for pickup lines: "朋朋，我今天可以叫你男女朋友的朋嗎？" — casual, warm, trendy.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. **Create `workplace-quotes` topic** (NEXT — launch before 勞動節 May 1 for seasonal boost)
+5. **Create `motivational-quotes` topic** (parallel development; broad evergreen appeal)
+6. Update `cold-jokes` with I人/E人 jokes (quick add, high trend relevance)
+7. Update `absurd-wisdom` with 「接住」 angle items
+8. Update `cheesy-pickups` with 「朋朋」 pickup lines
+9. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
+10. Create `zodiac-quotes` (evergreen, no time pressure)
+11. Create `witty-comebacks` / 幹話語錄 (confirmed Dcard demand)
+12. Future: `drama-quotes`, `dark-humor`
