@@ -279,6 +279,63 @@
       }
     },
     {
+      "id": "aw-016",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學閱讀觀察，重新創作",
+      "tags": ["廢話文學", "閱讀", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一本書，在你把它讀完之前，\n是一本你還沒讀完的書。\n\n讀完之後，就成了你讀完的書。\n\n如果你根本沒讀，它就是你沒讀的書。\n三種狀態，取決於你讀了多少。",
+          "editorNote": "傳給書架上有一堆沒讀完的書的朋友，他會默默照一張書架的照片給你",
+          "variations": ["你的書籤停在哪一頁，那本書就從那一頁開始等你。它一直在等。"]
+        },
+        "en": {
+          "content": "Before you finish a book,\nit is a book you have not yet finished.\n\nAfter you finish it, it becomes a book you have finished.\n\nIf you never read it at all, it is a book you have not read.\nAll three states depend on how much you have read.",
+          "editorNote": "Send to a friend with a shelf full of unfinished books — they'll silently photograph their nightstand",
+          "variations": ["Your bookmark marks the exact page where the book began waiting. It is still waiting."]
+        }
+      }
+    },
+    {
+      "id": "aw-017",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學排隊現象觀察，重新創作",
+      "tags": ["廢話文學", "日常", "等待"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在排隊的時候，\n你前面的人，都比你更早到達隊伍。\n\n你後面的人，則是在你之後加入的。\n\n當你排到最前面，就輪到你了。\n這個規則在大多數排隊場合都成立。",
+          "editorNote": "在排長龍的地方傳給旁邊的人，既說了廢話，又建立了陌生人之間的奇妙連結",
+          "variations": ["插隊的人不在這個分析範圍內，因為他們選擇了不同的人生路徑。"]
+        },
+        "en": {
+          "content": "When standing in a queue,\nthe people in front of you arrived before you did.\n\nThe people behind you joined the queue after you.\n\nWhen you reach the front, it is your turn.\nThis rule applies in most queuing situations.",
+          "editorNote": "Share with whoever's next to you in a long line — technically correct and a great icebreaker",
+          "variations": ["People who cut in line are not included in this analysis. They have chosen a different path."]
+        }
+      }
+    },
+    {
+      "id": "aw-018",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學朋友聯絡觀察，重新創作",
+      "tags": ["廢話文學", "人際", "社交"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的手機聯絡人清單裡，\n有一些人你已經很久沒有傳訊息了。\n\n在那段期間，你們之間的訊息數量為零。\n\n這個情況，在雙方都沒有傳訊息的情況下，會繼續持續。",
+          "editorNote": "傳給某個很久沒聯絡的朋友，當作重新開啟對話的破冰神器",
+          "variations": ["按下傳送之後，就不再是零了。這是改變現狀最有效的方法。"]
+        },
+        "en": {
+          "content": "In your phone contacts,\nthere are people you have not messaged in a very long time.\n\nDuring that period, the number of messages exchanged between you was zero.\n\nThis situation will continue for as long as neither party sends a message.",
+          "editorNote": "Send this to a friend you've lost touch with — the perfect absurd icebreaker to restart a conversation",
+          "variations": ["Once you press send, it is no longer zero. This is the most effective method for changing the current situation."]
+        }
+      }
+    },
+    {
       "id": "aw-015",
       "dateAdded": "2026-04-12",
       "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",

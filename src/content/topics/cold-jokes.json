@@ -317,6 +317,82 @@
       }
     },
     {
+      "id": "cj-018",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["動物", "邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道熊貓為什麼特別省錢嗎？\n\n因為牠的衣服從出生就不用換了。",
+          "editorNote": "動物園或看熊貓影片時說，大人小孩都能笑到",
+          "variations": ["斑馬也一樣省事：一套西裝穿到底，還是條紋款，永遠不退流行"]
+        },
+        "en": {
+          "content": "Do you know why pandas are so thrifty?\n\nBecause they've been wearing the same outfit since birth.",
+          "editorNote": "Say this at the zoo or while watching a panda video — works on all ages",
+          "variations": ["Zebras are the same: one striped suit, forever on trend, zero wardrobe budget."]
+        }
+      }
+    },
+    {
+      "id": "cj-019",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["邏輯", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫生跟病人說：「你要多喝水。」\n病人：「我每天都有喝啊。」\n醫生：「你一天喝幾杯？」\n病人：「珍珠奶茶兩杯，美式一杯。」\n醫生：「……我指的是開水。」\n病人：「那個不就是水嗎？」",
+          "editorNote": "傳給每天用飲料代替水的朋友，他會笑完後默默去倒一杯水",
+          "variations": ["升級版：「那我以後買無糖奶茶，算不算健康水？」醫生：「……下一位。」"]
+        },
+        "en": {
+          "content": "Doctor: \"You need to drink more water.\"\nPatient: \"I drink plenty every day.\"\nDoctor: \"How many cups?\"\nPatient: \"Two bubble teas and one iced Americano.\"\nDoctor: \"I meant plain water.\"\nPatient: \"Isn't that also water?\"",
+          "editorNote": "Send to the friend who treats boba as hydration — they'll laugh, then feel seen",
+          "variations": ["Upgrade: 'What if I get unsweetened tea — does that count?' Doctor: '...Next patient.'"]
+        }
+      }
+    },
+    {
+      "id": "cj-020",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["動物", "邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道魚為什麼從來不抱怨天氣嗎？\n\n因為牠住在水裡，不管外面晴天還是下雨，對牠來說感覺都差不多。\n\n這就叫做：活在自己的世界裡，心情特別穩定。",
+          "editorNote": "天氣不好有人一直抱怨的時候講這個，對方不是笑就是白眼",
+          "variations": ["烏龜也一樣——背著殼走到哪裡都是家，哪裡有什麼好抱怨的"]
+        },
+        "en": {
+          "content": "Do you know why fish never complain about the weather?\n\nBecause they live underwater — whether it's sunny or pouring outside, it all feels about the same to them.\n\nThat's what you call: building your own world and staying calm.",
+          "editorNote": "Say this when someone won't stop complaining about the weather — works either way",
+          "variations": ["Tortoises have the same energy — home is wherever they go, so what's there to complain about?"]
+        }
+      }
+    },
+    {
+      "id": "cj-021",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["食物", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道泡麵最厲害的地方是什麼嗎？\n\n不管你今天過得多糟，三分鐘後它永遠準時出現在你面前。\n\n比任何朋友都守時，比任何外送都快。",
+          "editorNote": "深夜加班、考試前或失戀時說，絕對引發深刻共鳴",
+          "variations": ["泡麵從不遲到，從不說『好了好了，快了』，永遠是三分鐘——或是你等不及的兩分半鐘"]
+        },
+        "en": {
+          "content": "Do you know the most impressive thing about instant noodles?\n\nNo matter how bad your day was, they show up — ready — exactly three minutes later.\n\nMore punctual than any friend. Faster than any delivery.",
+          "editorNote": "Say this during a late work night, exam week, or heartbreak — instant relatability",
+          "variations": ["Instant noodles never say 'almost ready.' Three minutes. Every time. More reliable than most people."]
+        }
+      }
+    },
+    {
       "id": "cj-013",
       "dateAdded": "2026-04-10",
       "sourceUrl": "",

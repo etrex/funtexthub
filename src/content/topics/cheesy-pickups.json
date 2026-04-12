@@ -317,6 +317,82 @@
       }
     },
     {
+      "id": "cp-018",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["音樂", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有沒有一首歌，聽著聽著就很想傳給某個人？」\n「有啊。」\n「我也有，而且不管聽什麼歌，第一個想傳的都是你。\n還沒找到一首不想傳給你的。」",
+          "editorNote": "傳給喜歡的人，搭配一首歌一起傳效果加倍，對方通常會問「是哪首歌」",
+          "variations": ["你是我的單曲循環——不是因為我不想換，是因為我一直覺得你比任何歌都好聽"]
+        },
+        "en": {
+          "content": "\"Do you ever hear a song and immediately want to send it to someone?\"\n\"Yeah, sometimes.\"\n\"I have that too. Except no matter what song I hear, the first person I want to send it to is always you.\nHaven't found one I don't want to share with you yet.\"",
+          "editorNote": "Send this with a song attached for double the effect — they'll probably ask which one",
+          "variations": ["You're my song on repeat — not because I can't find another, but because nothing sounds better than you."]
+        }
+      }
+    },
+    {
+      "id": "cp-019",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["科技", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道你讓我困擾的地方是什麼嗎？」\n「什麼？」\n「就是你不在的時候，我連手機都覺得沒什麼好看的。」",
+          "editorNote": "傳給習慣一直滑手機的對象，讓他知道你比手機更讓他在意",
+          "variations": ["你是我關閉所有通知的理由——不是因為你打擾我，是因為有你才叫做真正的通知"]
+        },
+        "en": {
+          "content": "\"Do you know what the most annoying thing about you is?\"\n\"What?\"\n\"When you're not around, I can't even find anything worth looking at on my phone.\"",
+          "editorNote": "Send to someone who's always on their phone — it's a compliment and a gentle nudge at once",
+          "variations": ["You're the reason I turned off all my notifications — not because you bother me, but because you're the only alert that matters."]
+        }
+      }
+    },
+    {
+      "id": "cp-020",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["天氣", "甜", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道我最討厭什麼天氣嗎？」\n「什麼？」\n「沒有你的天氣。」",
+          "editorNote": "簡短有力的經典款，不管什麼天氣都能用，對方第一反應通常是翻白眼，第二反應是笑",
+          "variations": ["你是我的天氣預報——不管今天幾度，只要你在，就是晴天"]
+        },
+        "en": {
+          "content": "\"Do you know what kind of weather I hate the most?\"\n\"What?\"\n\"The kind without you in it.\"",
+          "editorNote": "Short and effective — works in any weather. Expect an eye roll, then a smile.",
+          "variations": ["You're my weather forecast — no matter what the temperature is, it's sunny when you're around."]
+        }
+      }
+    },
+    {
+      "id": "cp-021",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": ["甜", "互動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你昨晚夢到什麼？」\n「忘了。你呢？」\n「我夢到你了。\n然後早上醒來，我才發現不是夢——\n因為我馬上就想要傳訊息給你了。」",
+          "editorNote": "早上傳效果最好，讓對方一起床就有好心情，曖昧期特別好用",
+          "variations": ["就算你沒在我夢裡，我一睜開眼第一個想到的還是你——夢不夢到已經不重要了"]
+        },
+        "en": {
+          "content": "\"What did you dream about last night?\"\n\"I forgot. You?\"\n\"I dreamed about you.\nThen I woke up and realized it wasn't a dream —\nbecause the first thing I wanted to do was message you.\"",
+          "editorNote": "Send in the morning for maximum effect — starts their day on a warm note. Great for the flirty phase.",
+          "variations": ["Even if you don't show up in my dreams, you're still the first thing I think of when I open my eyes — being in the dream doesn't even matter."]
+        }
+      }
+    },
+    {
       "id": "cp-013",
       "dateAdded": "2026-04-10",
       "sourceUrl": "",

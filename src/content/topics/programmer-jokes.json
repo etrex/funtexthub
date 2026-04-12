@@ -507,6 +507,82 @@
       }
     },
     {
+      "id": "pj-028",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "Classic git commit message culture, widely referenced in dev communities",
+      "tags": ["版本控制", "程式碼品質", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每個工程師的 Git commit log 裡，都有那幾個不朽的名作：\n「fix bug」\n「fix bug again」\n「ok this time it should work」\n「why」\n「ok now it works, don't touch it」",
+          "editorNote": "傳給任何有用過 git 的人，他們看到第三行就笑了",
+          "variations": ["進階版加一條：「WIP（work in progress）」——這個 commit 在 30% 的情況下代表該功能已經被放棄"]
+        },
+        "en": {
+          "content": "Every developer's git log has those immortal commit messages:\n'fix bug'\n'fix bug again'\n'ok this time it should work'\n'why'\n'ok now it works, don't touch it'",
+          "editorNote": "Send to anyone who's ever used git — they'll laugh by the third line",
+          "variations": ["Add one more: 'WIP' — which in 30% of cases means the feature has already been quietly abandoned."]
+        }
+      }
+    },
+    {
+      "id": "pj-029",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "AI coding assistant humor — widely discussed in developer circles 2025-2026",
+      "tags": ["AI", "工具", "工程師語錄", "現代梗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "自從用了 AI 輔助寫程式，工程師的工作效率提升了三倍。\n\n讀 AI 生成的程式碼、搞清楚它在幹嘛、再重構一遍的時間，也提升了三倍。\n\n淨成長：零。",
+          "editorNote": "傳給正在用 Copilot / Cursor 的工程師朋友，對方會先笑，再說「幹你說得對」",
+          "variations": ["AI 說：我幫你省時間。工程師說：謝謝，我現在花兩倍時間審查你的輸出。AI：那是你的問題。"]
+        },
+        "en": {
+          "content": "Since adopting AI-assisted coding, developer productivity tripled.\n\nTime spent reading AI-generated code, figuring out what it does, and refactoring it also tripled.\n\nNet gain: zero.",
+          "editorNote": "Send to anyone using Copilot or Cursor — they'll laugh, then say 'honestly accurate'",
+          "variations": ["AI: 'I'll save you time.' Developer: 'Thanks, I now spend twice as long reviewing your output.' AI: 'That's a you problem.'"]
+        }
+      }
+    },
+    {
+      "id": "pj-030",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "Classic developer estimation humor",
+      "tags": ["時程", "溝通", "PM", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM：這個功能需要多久？\n工程師：三天。\nPM：能不能兩天？\n工程師：可以。\n\n——兩週後功能完成——\n\nPM：你說兩天啊？\n工程師：你說可以壓縮，我說可以接受這個需求。\n但沒有人說時間真的會縮短。",
+          "editorNote": "傳給 PM 或主管，讓他們感受一下工程師思維的精準性",
+          "variations": ["進階版：『好的，沒問題』是工程師說過最有歧義的一句話——它從來不代表時間、資源或方法已經確認"]
+        },
+        "en": {
+          "content": "PM: How long for this feature?\nDeveloper: Three days.\nPM: Can you do it in two?\nDeveloper: Sure.\n\n— Two weeks later, feature ships —\n\nPM: You said two days?\nDeveloper: You asked if I could accept the timeline. I said yes. Nobody said the work would actually shrink.",
+          "editorNote": "Share with a PM or manager — a window into how developers process verbal agreements",
+          "variations": ["Advanced insight: 'Sure, no problem' is the most ambiguous sentence in software development. It confirms nothing."]
+        }
+      }
+    },
+    {
+      "id": "pj-031",
+      "dateAdded": "2026-04-12",
+      "sourceUrl": "",
+      "sourceNote": "Remote work culture humor among developers",
+      "tags": ["遠端工作", "職場", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "遠端工作的工程師每天有三種狀態：\n\n第一種：認真工作\n第二種：假裝認真工作\n第三種：Slack 和 YouTube 同時開著，在兩個視窗之間切換，維持最低限度的線上存在感\n\n有研究顯示，第三種佔總工時的相當大比例。",
+          "editorNote": "傳給遠端工作的朋友，他看完不會回你，因為他剛好在切視窗",
+          "variations": ["在家工作最誠實的設定：會議時打開鏡頭說「我在」，鏡頭關掉後才是真正的生活"]
+        },
+        "en": {
+          "content": "Remote developers exist in three modes:\n\nMode 1: Actually working\nMode 2: Looking like they're working\nMode 3: Slack and YouTube simultaneously open, toggling between them while maintaining minimal online presence\n\nResearch suggests Mode 3 accounts for a non-trivial portion of total working hours.",
+          "editorNote": "Send to a remote-working friend — they won't reply immediately, because they're switching tabs",
+          "variations": ["Most honest remote setup: camera on during meetings to prove existence, camera off to resume actual life."]
+        }
+      }
+    },
+    {
       "id": "pj-023",
       "dateAdded": "2026-04-10",
       "sourceUrl": "",
