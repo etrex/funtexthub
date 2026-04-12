@@ -286,8 +286,8 @@
 1. ~~Create `programmer-jokes` topic~~ ✅ Done
 2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
 3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
-4. **Create `workplace-quotes` topic** (NEXT — launch before 勞動節 May 1 for seasonal boost)
-5. **Create `motivational-quotes` topic** (parallel development; broad evergreen appeal)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items, 2026-04-12)
+5. **Create `motivational-quotes` topic** (NEXT — broad evergreen appeal)
 6. Update `cold-jokes` with I人/E人 jokes (quick add, high trend relevance)
 7. Update `absurd-wisdom` with 「接住」 angle items
 8. Update `cheesy-pickups` with 「朋朋」 pickup lines
