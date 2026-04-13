@@ -543,6 +543,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-020",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "職場信件文化觀察，重新創作",
+      "tags": [
+        "辦公室",
+        "電子郵件",
+        "上班族限定",
+        "職場幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "辦公室有一個大家都心知肚明的潛規則：\n\n收到「如有疑問請通知」的信，\n每個人都默默選擇沒有疑問。\n\n不是真的沒有疑問，\n是「問了只會讓自己多工作」。\n\n這個規則全球通用，不分產業。",
+          "editorNote": "傳給正在看信件的同事，他會秒懂然後默默把那封信設為已讀",
+          "variations": [
+            "補充版：有疑問的人，通常等到下次開會再問，或等到問題自行消失——這兩種策略的成功率意外地不相上下"
+          ]
+        },
+        "en": {
+          "content": "There is an unspoken rule in every office:\n\nWhen an email ends with \"please let me know if you have any questions,\"\neveryone silently decides they have no questions.\n\nNot because there are none —\nbut because asking creates more work than the original problem.\n\nThis rule applies globally, across all industries.",
+          "editorNote": "Send to a coworker who's currently looking at their inbox — instant recognition",
+          "variations": [
+            "Alternative strategies: wait until the next meeting to ask, or wait for the problem to resolve itself. Both have a surprisingly similar success rate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-021",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "職場會議文化觀察，重新創作",
+      "tags": [
+        "會議",
+        "辦公室",
+        "職場幽默",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司有一種會，叫做「確認方向」的會。\n開完之後，方向確認了。\n\n接著再約一個「確認細節」的會。\n細節確認了。\n\n然後又約了一個「確認大家都確認了沒有」的會。\n\n方向、細節、確認確認——\n預計下週可以開始執行。",
+          "editorNote": "下次開完確認用的會議後傳給同事，他一定秒懂然後露出那種疲憊又了然的笑",
+          "variations": [
+            "有時候第四個會是：「確認上次確認沒有新的問題」——這種會是會議系列的最終型態"
+          ]
+        },
+        "en": {
+          "content": "There is a meeting called \"aligning on direction.\"\nAfter this meeting, the direction is aligned.\n\nThen a meeting to \"confirm the details.\"\nDetails confirmed.\n\nThen a meeting to \"make sure everyone has confirmed.\"\n\nDirection. Details. Confirming the confirmation —\nExecution expected to begin next week.",
+          "editorNote": "Send after any meeting whose purpose was to confirm a previous meeting — your colleague will give you that exhausted-but-knowing smile",
+          "variations": [
+            "The fourth meeting type: 'checking if last time's confirmation raised new questions.' This is the final form of meeting culture."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-022",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "請假心態觀察，重新創作",
+      "tags": [
+        "請假",
+        "社畜",
+        "職場幽默",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在台灣職場，「我想請個假」這句話，\n說出口之前要先：\n\n1. 確認那天沒有重要會議\n2. 準備至少兩個備用理由\n3. 等老闆心情看起來比較好的時機\n4. 預演說法，讓它聽起來不像在請假，而是在做優先級排序\n5. 說出口之後加一句：「其實不一定要這一天，可以彈性調整」\n\n然後如果對方沒反應，那這次假就先不請了。",
+          "editorNote": "傳給懂的同事，他看完會苦笑然後說「你說得沒錯，我上次就這樣」",
+          "variations": [
+            "請到假之後最難的事：假日當天不要不小心開電腦。這個挑戰的通過率，業界平均大約不到五成。"
+          ]
+        },
+        "en": {
+          "content": "In the workplace, saying \"I'd like to take a day off\" requires:\n\n1. Confirming no important meetings that day\n2. Preparing at least two backup reasons\n3. Waiting for a moment when your manager seems to be in a good mood\n4. Rehearsing the delivery so it sounds like prioritization, not absence\n5. Ending with: \"But it doesn't have to be that specific day — happy to adjust\"\n\nIf there's no response, the day off is quietly shelved.",
+          "editorNote": "Share with a colleague who knows — they'll give a tired smile and say 'that was me last week'",
+          "variations": [
+            "The hardest part of getting the day off: not accidentally opening your laptop on the day itself. Industry average success rate: under 50%."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-023",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "績效考核語言解碼觀察，重新創作",
+      "tags": [
+        "考績",
+        "職場幽默",
+        "幹話",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "績效評核季節，有幾句話需要翻譯：\n\n「你這季表現很好，但還有進步空間。」\n翻譯：你做到了，但加薪的事我們暫時跳過。\n\n「這個反饋對你的成長很有幫助。」\n翻譯：我要說幾件你可能不太想聽的事。\n\n「我們對你的未來很有期待。」\n翻譯：繼續努力，現階段維持原狀。",
+          "editorNote": "績效評核後傳給同事，大家一起在沉默中點頭，然後繼續做下一季的事",
+          "variations": [
+            "最通用的績效評核金句：「你的努力有目共睹。」——這句話在任何情況下都可以用，且不需要承諾任何東西。"
+          ]
+        },
+        "en": {
+          "content": "Performance review season requires a translation guide:\n\n\"You had a strong quarter, but there's still room to grow.\"\nTranslation: you delivered. Salary conversation postponed.\n\n\"This feedback will really support your development.\"\nTranslation: I'm about to say a few things you might not want to hear.\n\n\"We have high expectations for your future here.\"\nTranslation: keep going. Nothing changes for now.",
+          "editorNote": "Share after a review with a coworker — you'll both nod in silence and move on to next quarter",
+          "variations": [
+            "The most universally applicable review line: 'Your hard work has not gone unnoticed.' Works in any situation. Commits to nothing."
+          ]
+        }
+      }
     }
   ]
 }

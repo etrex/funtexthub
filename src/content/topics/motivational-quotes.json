@@ -296,6 +296,82 @@
           "variations": ["Nobody's coming to save you. Luckily, you don't need saving — you need starting."]
         }
       }
+    },
+    {
+      "id": "mq-016",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://arielhsu.tw/positive-energy/",
+      "sourceNote": "Inspired by consistency and forward momentum themes from Ariel Hsu's positive energy compilation",
+      "tags": ["勵志", "堅持", "動力", "正能量", "motivation", "consistency", "momentum"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不需要每天都充滿動力，\n只要大部分的日子你還是往前走了，\n那就已經夠厲害了。",
+          "editorNote": "給那些覺得自己狀態不夠穩定的人——動力起伏是正常的，持續本身才是真本事。",
+          "variations": ["今天沒有動力但還是做了？那才是最強的那一天。"]
+        },
+        "en": {
+          "content": "You don't need to be motivated every day.\nAs long as most days you kept moving forward anyway,\nthat's already something to be proud of.",
+          "editorNote": "For anyone who feels inconsistent or up-and-down — motivation fluctuates for everyone; what matters is the overall direction.",
+          "variations": ["Did it even though you didn't feel like it? That's actually your strongest day."]
+        }
+      }
+    },
+    {
+      "id": "mq-017",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://manmandays.com/positive-quotes/",
+      "sourceNote": "Inspired by boundaries and self-respect themes from manmandays positive quotes collection",
+      "tags": ["勵志", "界限", "自我", "自我照顧", "motivation", "boundaries", "self-respect"],
+      "i18n": {
+        "zh-tw": {
+          "content": "說「不」也是一種給自己的禮物，\n特別是在你已經說「好」說到筋疲力盡的時候。",
+          "editorNote": "給習慣全部扛下來的人，提醒他拒絕不是自私，是在為真正重要的事留空間。",
+          "variations": ["你能給出去的，都是你先給了自己才有的東西。"]
+        },
+        "en": {
+          "content": "Saying \"no\" is also a gift you give yourself —\nespecially when you've been saying \"yes\" until you're completely worn out.",
+          "editorNote": "For the person who always takes on more — saying no isn't selfish, it's making space for what actually matters.",
+          "variations": ["Everything you give to others came from what you first held for yourself."]
+        }
+      }
+    },
+    {
+      "id": "mq-018",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://cmykhuang.com/positivequotes/",
+      "sourceNote": "Inspired by solitude and personal growth themes from CMYK positive quotes",
+      "tags": ["勵志", "孤獨", "成長", "自我", "motivation", "growth", "solitude"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有一段路，真的只能自己走。\n不是因為沒有人愛你，\n是因為那個成長，\n只屬於你自己。",
+          "editorNote": "在走一段必須獨自面對的路時，不是孤立無援，而是有些事情確實只有自己才能完成，適合分享給正在獨自面對挑戰的人。",
+          "variations": ["有些事別人幫不了你，不是因為他們不願意，是因為那是你的課題。"]
+        },
+        "en": {
+          "content": "Some paths you really do have to walk alone.\nNot because no one loves you —\nbut because that particular growth\ncan only belong to you.",
+          "editorNote": "For anyone facing a chapter they have to navigate themselves — it's not abandonment, it's just that some things can only be yours.",
+          "variations": ["Some lessons can't be borrowed. They have to be lived."]
+        }
+      }
+    },
+    {
+      "id": "mq-019",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://tw.cyberlink.com/blog/photo-editing-tips/4311/motivational-quotes",
+      "sourceNote": "Inspired by rest and presence themes from CyberLink Taiwan motivational quotes",
+      "tags": ["勵志", "當下", "療癒", "休息", "motivation", "present", "self-care"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天不需要有什麼特別的意義，\n你只是活著、稍微休息、喘口氣。\n\n這樣就夠了。\n今天這樣就夠了。",
+          "editorNote": "給那些覺得「什麼都沒做到」的天——有時候最需要的提醒就是：活著本身已經不容易了。",
+          "variations": ["你今天什麼都沒做到，但你還在——這本身就是一件事。"]
+        },
+        "en": {
+          "content": "Today doesn't need to mean anything.\nYou're just here, resting, breathing a little.\n\nThat's enough.\nToday, that's enough.",
+          "editorNote": "For the days when nothing feels accomplished — sometimes the most needed reminder is that just being here is already something.",
+          "variations": ["You did nothing today. But you're still here — and that counts for more than you think."]
+        }
+      }
     }
   ]
 }

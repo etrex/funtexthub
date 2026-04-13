@@ -823,6 +823,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-032",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "Classic bug-finding humor rewritten",
+      "tags": [
+        "debug",
+        "工程師思維",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師追了三天的bug，終於修好了。\n主管：「問題出在哪？」\n工程師：「一個多餘的空格。」\n主管：「……找到花了多久？」\n工程師：「五分鐘。」\n主管：「那三天在幹嘛？」\n工程師：「接受它就是一個空格，花了兩天又二十三小時。」",
+          "editorNote": "工程師看了會沉默半秒然後點頭——這是真實體驗，不是誇張",
+          "variations": [
+            "補充：最崩潰的bug，往往不是最難找的，是找到了之後覺得「怎麼會是這個」的那種"
+          ]
+        },
+        "en": {
+          "content": "An engineer spent three days tracking down a bug. Finally fixed.\nManager: \"What was the problem?\"\nEngineer: \"An extra space.\"\nManager: \"...How long to find it?\"\nEngineer: \"Five minutes.\"\nManager: \"Then what took three days?\"\nEngineer: \"Accepting that it was a space. That took two days, twenty-three hours.\"",
+          "editorNote": "Every developer will nod and go quiet for a moment — this is lived experience, not exaggeration",
+          "variations": [
+            "The most devastating bugs aren't the hardest to find. They're the ones where, once found, you think: 'How was it this.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-033",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "Deadline and bug multiplication humor rewritten",
+      "tags": [
+        "加班",
+        "bug",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下午六點，工程師說：「我今天可以早點走，只剩最後一個小bug了。」\n\n隔天早上九點，工程師還在辦公室。\n同事：「那個bug修好了嗎？」\n工程師：「修好了。」\n同事：「那你怎麼還在？」\n工程師：「修完之後出現三個新的。它們是那個bug的家人。」",
+          "editorNote": "傳給正在修bug的同事，他看完會無聲地嘆一口氣然後繼續",
+          "variations": [
+            "bug是社群動物：消滅一個，其餘的會聚集悼念，順便製造更多混亂"
+          ]
+        },
+        "en": {
+          "content": "At 6pm, an engineer said: \"I can leave early today. Just one small bug left.\"\n\nNext morning, 9am: the engineer is still there.\nColleague: \"Did you fix it?\"\nEngineer: \"Yes.\"\nColleague: \"So why are you still here?\"\nEngineer: \"Because fixing it revealed three more. They were its family.\"",
+          "editorNote": "Send to a colleague currently debugging — they'll exhale silently and keep going",
+          "variations": [
+            "Bugs are social creatures. Kill one, and the others gather to mourn — and then cause more chaos in its honor."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-034",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "Designer vs developer communication humor rewritten",
+      "tags": [
+        "設計師",
+        "工程師思維",
+        "溝通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "設計師：「這個按鈕要更直覺一點。」\n工程師：「好，我把它移到左上角了。」\n設計師：「為什麼是左上角？」\n工程師：「你說直覺。我的直覺說那裡。」\n設計師：「……我說的直覺是用戶的直覺。」\n工程師：「啊。那我需要更多規格。」",
+          "editorNote": "設計師和工程師一起看，兩個人都會覺得對方說的有問題——這就是協作的日常",
+          "variations": [
+            "「讓它感覺更現代」、「更有溫度」、「輕一點」——工程師收到這些需求的內心OS是同一個字：「？」"
+          ]
+        },
+        "en": {
+          "content": "Designer: \"This button needs to be more intuitive.\"\nDeveloper: \"Done. I moved it to the top left.\"\nDesigner: \"Why the top left?\"\nDeveloper: \"You said intuitive. My intuition said top left.\"\nDesigner: \"...I meant the user's intuition.\"\nDeveloper: \"Ah. I'll need a spec for that.\"",
+          "editorNote": "Share with both a designer and developer — they'll each think the other one is the problem. That's collaboration.",
+          "variations": [
+            "'Make it feel more modern.' 'Add warmth.' 'Make it lighter.' The developer's internal response to all three: '...define that.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-035",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "Comment-in-code and future-self humor rewritten",
+      "tags": [
+        "程式碼品質",
+        "工程師語錄",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "程式碼裡最可怕的五個字：\n\n// 之後再來整理\n\n這五個字的意思是：\n這段程式碼將永遠保持現在的樣子，\n直到有人離職，\n然後下一個人花三天試圖看懂它。",
+          "editorNote": "工程師看了會默默打開某個三年前的檔案，然後關掉，假裝沒看到",
+          "variations": [
+            "另一個版本：// TODO: 優化這個部分——這條TODO在Commit紀錄裡會活得比任何功能都久"
+          ]
+        },
+        "en": {
+          "content": "The most ominous five words in any codebase:\n\n// clean this up later\n\nTranslation: this section of code will remain exactly as it is, forever, until someone quits and the next person spends three days trying to understand it.",
+          "editorNote": "Any developer who reads this will quietly open a file from three years ago, then close it and pretend they didn't",
+          "variations": [
+            "Runner-up: // TODO: optimize this — a TODO comment has a longer lifespan than any feature it's next to."
+          ]
+        }
+      }
     }
   ]
 }

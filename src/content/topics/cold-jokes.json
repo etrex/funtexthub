@@ -552,6 +552,110 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-022",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "諧音",
+        "植物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道竹子為什麼特別有氣質嗎？\n\n因為它做什麼都是「有節」的。\n\n有節操、有節氣、有節制——一根竹子，活出了很多人一輩子都學不會的三件事。",
+          "editorNote": "適合在文藝氣息濃厚的場合說，或是當成給自己的提醒",
+          "variations": [
+            "蓮花也很厲害：出淤泥而不染，連住的地方都選那麼有哲學"
+          ]
+        },
+        "en": {
+          "content": "Why does bamboo always seem so dignified?\n\nBecause everything it does comes from the joints — it has structure, integrity, and restraint built right in.\n\nOne plant, embodying three things most people spend a lifetime trying to figure out.",
+          "editorNote": "Works as a reflective observation or a subtle self-reminder — say it slowly and meaningfully",
+          "variations": [
+            "The lotus has it figured out too: growing in mud, but refusing to be anything like it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-023",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "動物",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼鴕鳥遇到危險的時候把頭埋進沙子裡？\n\n因為牠認為：「我看不到危險，代表危險也看不到我。」\n\n這個邏輯在鴕鳥界極具說服力，且被廣泛應用。",
+          "editorNote": "傳給那個遇到問題習慣當作沒看到的朋友，牠懂的",
+          "variations": [
+            "人類版：把未讀通知關掉——如果我不知道，問題就不存在。這個邏輯與鴕鳥如出一轍。"
+          ]
+        },
+        "en": {
+          "content": "Why does an ostrich bury its head in the sand when danger approaches?\n\nBecause it firmly believes: \"If I can't see the threat, the threat can't see me.\"\n\nThis logic is deeply compelling in ostrich circles and widely practiced.",
+          "editorNote": "Send to the friend who ignores problems hoping they'll disappear — they'll recognize themselves",
+          "variations": [
+            "Human version: turning off notification badges. If I don't see it, it technically doesn't exist yet. Same logic, different species."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-024",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "邏輯",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "小傑在超市收銀台前猶豫很久。\n收銀員：「先生，你要排隊。」\n小傑：「我在等看看有沒有比較短的隊。」\n收銀員：「那你去別隊就好了。」\n小傑：「但如果我去別隊，這隊有可能就變最短了。」\n收銀員：「……你願意等多久？」\n小傑：「視情況而定。」",
+          "editorNote": "在超市排隊的時候說給旁邊的人聽，引發集體共鳴",
+          "variations": [
+            "台灣特定版本：捷運閘門前換了三次閘口，最後還是選錯了那條"
+          ]
+        },
+        "en": {
+          "content": "Sam hesitated for a long time at the supermarket checkout.\nCashier: \"Sir, you need to get in line.\"\nSam: \"I'm waiting to see if a shorter line appears.\"\nCashier: \"Then just go to a different line.\"\nSam: \"But if I leave this one, it might become the shortest.\"\nCashier: \"...How long are you willing to wait?\"\nSam: \"Depends on the data.\"",
+          "editorNote": "Tell this at a checkout line — the person next to you will relate immediately",
+          "variations": [
+            "Airport security version: switched lanes three times and ended up in the slowest one of all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-025",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "諧音",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道麵條為什麼從來不難過嗎？\n\n因為不管發生什麼事，牠都是「樂在其『麵』」。\n\n而且就算被燙到、被切斷，最後還是要被人好好對待——因為大家都要吃它。",
+          "editorNote": "吃麵的時候說，對方如果是愛吃麵的人，會笑得特別開心",
+          "variations": [
+            "義大利麵版：漂洋過海、被沸水煮、被叉子捲——但人生目標始終明確：被好好吃掉"
+          ]
+        },
+        "en": {
+          "content": "Why are noodles never sad?\n\nBecause no matter what happens to them — boiled, tangled, or cut in half — they always end up being treated well by someone who really wanted them.\n\nLife goals, honestly.",
+          "editorNote": "Say this while eating noodles with someone who loves them — works especially well mid-bite",
+          "variations": [
+            "Pasta variation: crossed an ocean, got boiled alive, tossed around in a pan — still ended up on someone's favorite-food list."
+          ]
+        }
+      }
     }
   ]
 }
