@@ -295,3 +295,80 @@
 10. Create `zodiac-quotes` (evergreen, no time pressure)
 11. Create `witty-comebacks` / 幹話語錄 (confirmed Dcard demand)
 12. Future: `drama-quotes`, `dark-humor`
+
+---
+
+## 2026-04-13 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, **workplace-quotes** (6 total) ✅
+- Mother's Day (May 10) is now **27 days away** — sweet-quotes update already done ✅
+- 勞動節連假 (May 1–3) is **18 days away** — workplace-quotes launch timing is perfect
+- Next priority: `motivational-quotes` topic creation
+
+### New Topic Recommendations
+
+1. **勵志語錄 / Motivational Quotes** (slug: `motivational-quotes`, category: Motivation)
+   - Strongest confirmation yet: 煦暖曆 (daily quote calendar) 2026 product launched on citiesocial.com confirms consumer market for year-round daily inspirational content consumption in Taiwan; product sold as physical calendar reinforces that this audience actively seeks curated quotes
+   - Multiple high-authority sites remain active: 經理人 (39 curated, "每日一句" running 14 years), ProjectManager.com.tw (200 sentences), cyberlink.com/blog (150 sentences), arielhsu.tw (latest 2026 compilation confirmed)
+   - oxxostudio.tw has a dedicated "勵志語錄、座右銘、正能量語錄" collection page — confirms consistent long-tail search demand
+   - FunTextHub differentiation: "輕勵志" (witty + relatable) vs. all competitors who skew heavy/preachy; target under-30-character punchy sentences; include both zh-tw and en versions for broader reach
+   - SEO targets: 勵志語錄, 正能量語錄, 激勵短句, 座右銘, 每日一句, 心靈短句, 心靈語錄
+   - **Recommendation: Create immediately — this is the highest-priority remaining topic**
+
+2. **星座語錄 × MBTI / Zodiac + MBTI Hybrid Quotes** (slug: `zodiac-quotes`, category: Social)
+   - New 2026 angle: MBTI × zodiac crossover content trending on TikTok and Pinterest (dedicated boards confirmed); "星座x MBTI 語錄" offers a unique differentiated angle vs. generic zodiac content
+   - Year of the Horse (火馬年, starting Feb 17, 2026) adds Chinese zodiac hook; Horse traits (活力, 自由, 行動力) map well onto motivational quote crossover
+   - Birth-month quote format trending: Parade and Yahoo Lifestyle both published "quote that mirrors your 2026 based on birth month" viral content — confirms audience appetite for personalized zodiac-angle quotes
+   - Buzzfeed's "What's Your 2026 Energy: Chaotic, Soft, Delulu, or Unbothered?" quiz format drives massive engagement — FunTextHub equivalent could be zodiac-personality quote cards
+   - YourTango data confirms active weekly Chinese zodiac search traffic in 2026
+   - SEO targets: 星座語錄, 12星座特質, 星座金句, MBTI語錄, I人E人星座, 星座情話
+   - **Recommendation: Develop after motivational-quotes; 星座×MBTI angle differentiates from generic competitors**
+
+3. **幹話語錄 / Witty Dry Humor Quotes** (slug: `witty-comebacks`, category: Humor)
+   - Dedicated Dcard post confirmed: "幹話語錄" thread in the 有趣 forum (p/226991137) and "廢話語錄" thread (p/224622659) — both active communities
+   - Instagram account @dry_talk_ (4,074 followers) dedicated entirely to this format confirms sustained niche audience
+   - Instagram account @fteaa_ ("幹話 撩妹 短句 語錄 文案") confirms crossover with 撩妹/pickup line audience — valuable link to cheesy-pickups topic
+   - Content differentiation from absurd-wisdom: absurd-wisdom = obvious statements disguised as profound; witty-comebacks = sardonic, sharp, punchy reactions to everyday situations ("破防", "誰答應你的", "好解" energy)
+   - SEO targets: 幹話語錄, 金句語錄, 犀利語錄, 搞笑語錄, 諷刺語錄, 幽默短句
+   - **Recommendation: Create after zodiac-quotes; content pool is large and differentiation from absurd-wisdom is now clear**
+
+### Content Trends
+
+- **勞動節連假 (May 1–3, 2026) — 18 DAYS AWAY**: Workplace-quotes topic is perfectly timed. The 3-day weekend drives peak traffic for 社畜語錄 and office humor. Recommend ensuring workplace-quotes has at least 15–20 solid items live before Apr 28 to capture pre-holiday browsing.
+
+- **母親節 LINE 特效 Opportunity**: LINE has official Mother's Day chat effects triggered by keywords "媽媽", "阿母", "愛你" — pink background with Kuma Bear animation. Content using these exact keywords in editorNotes could capture users actively sharing 母親節 messages on LINE. FunTextHub sweet-quotes Mother's Day items should be tagged/noted to leverage this sharing behavior.
+
+- **2026 Z-gen Slang Update**: New confirmed active terms from udn.com and bnext.com.tw reports:
+  - 「暈爛」(overwhelmingly chaotic/exhausted — more expressive than 累)
+  - 「好解」(instantly turn-off; kills the vibe)
+  - 「哇酷哇酷」(from SPY×FAMILY's Anya; extreme excitement/delight)
+  - 「尊嘟假嘟」(真的假的 homophone pun — skeptical surprise)
+  - These should be integrated into editorNotes for relevant cold-jokes, witty-comebacks, and cheesy-pickups items
+
+- **端午節 (June 19–21, 2026) — 67 DAYS AWAY**: Confirmed active meme creation on memes.tw (dedicated tag pages for 端午節 and 端午 梗圖), Dcard thread "端午節笑話～關於粽子" (p/229087794) exists with active engagement, Facebook page running 諧音梗挑戰 with 粽 puns. Core content angles: (a) 粽 homophone puns — "粽望所歸" (眾望所歸), "粽情投入" (全情投入); (b) 南粽 vs. 北粽 debate jokes; (c) "不吃粽子的屈原/端午節" meta-humor. Content prep window: start drafting late May.
+
+- **MBTI Content Saturation Risk**: MBTI content is very heavily covered globally. FunTextHub's angle should be "星座×I人E人" fusion format — combining traditional zh-tw zodiac appeal with the I人/E人 slang already confirmed popular in Taiwan, rather than generic MBTI personality type content.
+
+### Existing Topic Updates
+
+- **workplace-quotes** (just created): Critical timing — 勞動節 (May 1–3) is 18 days away. Ensure content is live and indexed before Apr 28. Consider adding items with 「暈爛」and 「好解」slang in editorNotes to capture Z-gen office worker searches. Tag items with "上班族限定" and "社畜語錄" for discoverability.
+- **cold-jokes**: Add I人/E人 joke format items — still unactioned from previous reports. Classic format: "I人的浪漫是..." and "E人最讓I人崩潰的事" situations. Also add 「尊嘟假嘟」reaction joke format (question-then-absurd-response structure). Tag: I人, E人, MBTI笑話.
+- **cheesy-pickups**: 「朋朋」pickup line still unactioned. Also: "你是I人還是E人？因為今晚你的心跳讓我覺得你是E人" — MBTI pickup line format trending on 撩妹 accounts. Add 2–3 items.
+- **absurd-wisdom**: Add 「接住」angle items (still pending from Apr 12 report). Format: "如果你接住了所有人的情緒，記得也要留一隻手接住自己的" — sounds profound, completely obvious; fits format perfectly.
+- **sweet-quotes**: Add editorNote references to LINE 母親節 keywords (媽媽/阿母/愛你) on relevant Mother's Day items for sharing context. No content changes needed — just editorial annotation.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items, 2026-04-12)
+5. **Create `motivational-quotes` topic** (NEXT — highest priority, evergreen + multiple confirmed sources)
+6. Update `cold-jokes` with I人/E人 jokes (quick add, 3 reports pending)
+7. Update `absurd-wisdom` with 「接住」angle items (3 reports pending)
+8. Update `cheesy-pickups` with 「朋朋」+ MBTI pickup lines (3 reports pending)
+9. Create `zodiac-quotes` with 星座×MBTI angle (differentiator confirmed, develop after motivational-quotes)
+10. Create `witty-comebacks` / 幹話語錄 (differentiation from absurd-wisdom now clear)
+11. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
+12. Future: `drama-quotes`, `dark-humor`
