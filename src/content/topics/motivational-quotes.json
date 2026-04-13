@@ -1,0 +1,301 @@
+{
+  "slug": "motivational-quotes",
+  "category": "Motivation",
+  "i18n": {
+    "zh-tw": {
+      "title": "輕勵志語錄",
+      "description": "不說教、不灌雞湯，就是剛好戳中你的那種正能量短句。"
+    },
+    "en": {
+      "title": "Motivational Quotes",
+      "description": "No preaching, no fluff — just the kind of honest encouragement that actually lands."
+    }
+  },
+  "items": [
+    {
+      "id": "mq-001",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://arielhsu.tw/encourage-motto/",
+      "sourceNote": "Inspired by common Taiwan motivational quote themes around starting before you're ready",
+      "tags": ["勵志", "成長", "開始", "行動力", "motivation", "growth"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不用準備好了才能開始，開始了才會準備好。",
+          "editorNote": "給猶豫要不要踏出第一步的人，這句話是最溫柔的推一把，不論是換工作、開始運動還是學新技能都適用。",
+          "variations": ["完美的時機永遠不會自己出現，你要自己去創造它。"]
+        },
+        "en": {
+          "content": "You don't have to be ready to start. You start, and then you get ready.",
+          "editorNote": "Perfect for anyone stuck in the overthinking loop before a new goal. Send to a friend who keeps saying \"I'll do it when I'm ready.\"",
+          "variations": ["The best time to start was yesterday. The second best time is right now."]
+        }
+      }
+    },
+    {
+      "id": "mq-002",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://projectmanager.com.tw/%E8%81%B7%E5%A0%B4/%E8%AA%9E%E9%8C%84/",
+      "sourceNote": "Inspired by slow progress quotes from Taiwan productivity and wellness sites",
+      "tags": ["勵志", "正能量", "耐心", "慢慢來", "motivation", "patience"],
+      "i18n": {
+        "zh-tw": {
+          "content": "慢慢來，是前進，不是放棄。",
+          "editorNote": "壓力大又覺得進度太慢的時候，這句話能提醒你只要還在動就是贏，適合當桌面桌布或晨間提醒。",
+          "variations": ["龜兔賽跑裡，龜還是跑到終點了。"]
+        },
+        "en": {
+          "content": "Going slow is still going. And it still counts.",
+          "editorNote": "Good for days when you feel like everyone else is sprinting while you're crawling. Slow and steady is underrated.",
+          "variations": ["Progress is progress, no matter the pace."]
+        }
+      }
+    },
+    {
+      "id": "mq-003",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://tw.cyberlink.com/blog/photo-editing-tips/4311/motivational-quotes",
+      "sourceNote": "Inspired by rest and recharge themed quotes from CyberLink Taiwan blog compilation",
+      "tags": ["勵志", "休息", "充電", "自我照顧", "motivation", "self-care", "rest"],
+      "i18n": {
+        "zh-tw": {
+          "content": "休息不是懶惰，是在充電準備繼續衝。",
+          "editorNote": "累了的時候給自己說，或傳給那個過勞還在撐的朋友。休息本來就是計畫的一部分。",
+          "variations": ["連手機都要充電，你當然也需要。"]
+        },
+        "en": {
+          "content": "Rest isn't quitting. It's loading the next level.",
+          "editorNote": "Send to someone who needs permission to take a break but feels guilty about it. Works as a caption for a cozy day-off photo too.",
+          "variations": ["Even your phone needs charging. You're no different."]
+        }
+      }
+    },
+    {
+      "id": "mq-004",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://www.oxxostudio.tw/project/greetings/power-words.html",
+      "sourceNote": "Inspired by failure reframe quotes from oxxostudio positive words collection",
+      "tags": ["勵志", "失敗", "成長", "正能量", "motivation", "failure", "resilience"],
+      "i18n": {
+        "zh-tw": {
+          "content": "失敗不是終點，只是說『這條路不對，試試別的吧』。",
+          "editorNote": "失敗後安慰自己或朋友時很好用，不說教也不假掰，就是幫你把失敗重新定義成資訊而不是結局。",
+          "variations": ["你沒有失敗，你只是發現了一個不管用的方法。"]
+        },
+        "en": {
+          "content": "Failing doesn't mean you lost. It means you found another path that doesn't work — cross it off and move on.",
+          "editorNote": "Great for a post-setback pep talk. Reframes failure as data, not defeat, without sounding preachy.",
+          "variations": ["Every wrong turn still got you somewhere new."]
+        }
+      }
+    },
+    {
+      "id": "mq-005",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://arielhsu.tw/positive-energy/",
+      "sourceNote": "Inspired by self-growth reflection quotes from Ariel Hsu 108 positive energy compilation",
+      "tags": ["勵志", "成長", "回顧", "自我", "motivation", "growth", "reflection"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你今天能做到的事，三個月前的你根本不敢想。",
+          "editorNote": "回顧自己成長最有感的句子，適合當月底或年末自我回顧時用，也適合在朋友達成小成就時傳過去。",
+          "variations": ["現在覺得輕鬆的事，以前覺得是山。"]
+        },
+        "en": {
+          "content": "The version of you from three months ago would be amazed by what you can do today.",
+          "editorNote": "Best for end-of-month reflections or when someone achieves something they once thought was out of reach. A gentle reminder that growth is real.",
+          "variations": ["What's easy now was once impossible to you."]
+        }
+      }
+    },
+    {
+      "id": "mq-006",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/53890",
+      "sourceNote": "Inspired by journey and progress themed quotes from Manager Today's 39 curated quotes article",
+      "tags": ["勵志", "旅程", "堅持", "正能量", "motivation", "journey", "persistence"],
+      "i18n": {
+        "zh-tw": {
+          "content": "不確定前方在哪，但你已經走了很遠了。",
+          "editorNote": "方向迷惘、不知道在幹嘛的時候最有感，提醒自己過去的努力是真實存在的，適合低潮期。",
+          "variations": ["不知道終點在哪沒關係，你還在走就很厲害了。"]
+        },
+        "en": {
+          "content": "You may not know where you're going, but look how far you've already come.",
+          "editorNote": "For those feeling lost or directionless — shifts the focus from an unknown future to a very real past. Great for mid-journey slumps.",
+          "variations": ["The road ahead is uncertain. The miles behind you are not."]
+        }
+      }
+    },
+    {
+      "id": "mq-007",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://eduyush.com/blogs/lifestyle/funny-motivational-quotes",
+      "sourceNote": "Inspired by anti-perfectionism themes from funny motivational quote compilations",
+      "tags": ["勵志", "完美主義", "自我接納", "正能量", "motivation", "perfectionism", "self-acceptance"],
+      "i18n": {
+        "zh-tw": {
+          "content": "做得夠好，就是夠好了。不需要每次都完美。",
+          "editorNote": "完美主義者看了可能有點扎心，但真的很需要聽。適合在反覆修改、停不下來的時候提醒自己喊停。",
+          "variations": ["完成，比完美更重要。"]
+        },
+        "en": {
+          "content": "Good enough is genuinely enough. Not everything needs to be perfect.",
+          "editorNote": "A permission slip for perfectionists. Especially helpful when you've been tweaking the same thing for hours and just need to hit send.",
+          "variations": ["Done is better than perfect. Always."]
+        }
+      }
+    },
+    {
+      "id": "mq-008",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://www.positivityblog.com/hilarious-quotes-about-life/",
+      "sourceNote": "Inspired by comparison and social media-related wisdom from positivity blog collections",
+      "tags": ["勵志", "比較", "社群媒體", "自我", "motivation", "comparison", "self-worth"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你羨慕別人的時候，別人也在羨慕你某個部分。",
+          "editorNote": "刷社群媒體刷到不開心、覺得別人過得比你好的時候，這句話能幫你換個角度。比較遊戲沒有人真正贏。",
+          "variations": ["每個人的精華都只放在社群上，你看到的從來不是全部。"]
+        },
+        "en": {
+          "content": "While you're comparing yourself to them, they're probably comparing themselves to someone else.",
+          "editorNote": "The perfect antidote to a social media comparison spiral. Nobody's winning the comparison game — it's a loop with no exit.",
+          "variations": ["Everyone's highlight reel looks better than your behind-the-scenes."]
+        }
+      }
+    },
+    {
+      "id": "mq-009",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://cmykhuang.com/positivequotes/",
+      "sourceNote": "Inspired by small wins and incremental progress quotes from CMYK positive quotes collection",
+      "tags": ["勵志", "小進步", "鼓勵", "正能量", "motivation", "small-wins", "encouragement"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天比昨天更努力了一點點，這樣就夠了。",
+          "editorNote": "在能量很低、感覺什麼都做不了的日子，這句話提醒你小小的進步也算數，適合自我打氣或傳給正在低潮的朋友。",
+          "variations": ["哪怕只是多喝了一杯水，今天也有在照顧自己。"]
+        },
+        "en": {
+          "content": "If you tried a little harder than yesterday, that's already a win. No asterisks needed.",
+          "editorNote": "For low-energy days when even getting out of bed felt like an achievement. Celebrate the micro-wins because they add up.",
+          "variations": ["Tiny steps still move you forward."]
+        }
+      }
+    },
+    {
+      "id": "mq-010",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://www.rd.com/article/funny-inspirational-quotes/",
+      "sourceNote": "Inspired by anti-overwhelm and first-step themed quotes from Reader's Digest funny inspirational collection",
+      "tags": ["勵志", "行動力", "焦慮", "開始", "motivation", "action", "overwhelm"],
+      "i18n": {
+        "zh-tw": {
+          "content": "不用看清楚全部的路，踏出第一步就夠了。",
+          "editorNote": "面對大目標或複雜計畫時，這句話幫助分解焦慮，只需要聚焦在下一步，不需要全盤規劃完才行動。",
+          "variations": ["你不需要地圖，只需要下一步。"]
+        },
+        "en": {
+          "content": "You don't need to see the whole path. You just need to see the next step.",
+          "editorNote": "Anti-overwhelm reminder for anyone frozen by a big goal. Focus shrinks the mountain to a manageable size.",
+          "variations": ["One step is enough to begin. The rest reveals itself as you go."]
+        }
+      }
+    },
+    {
+      "id": "mq-011",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://www.buzzfeed.com/alanna_marshall/best-funny-motivational-quotes",
+      "sourceNote": "Inspired by behind-the-scenes of success themes from BuzzFeed funny motivational quotes compilation",
+      "tags": ["勵志", "掙扎", "共鳴", "成長", "motivation", "struggle", "resilience"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每個看起來很厲害的人，都有一段只有自己知道有多難的日子。",
+          "editorNote": "人生低谷期最有共鳴，提醒自己掙扎是成長的一部分，也提醒你不要只看別人的成功表面。",
+          "variations": ["沒有人的精彩是從零代價開始的。"]
+        },
+        "en": {
+          "content": "Every person who looks like they have it together has a chapter they don't talk about — the really hard one.",
+          "editorNote": "A quiet comfort for rough patches. Reminds you that the polished version people show publicly is never the whole story.",
+          "variations": ["Behind every 'overnight success' is a very long night."]
+        }
+      }
+    },
+    {
+      "id": "mq-012",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://arielhsu.tw/positive-energy/",
+      "sourceNote": "Inspired by fresh start and courage themes from Ariel Hsu 108 positive energy sentences",
+      "tags": ["勵志", "重新開始", "勇氣", "正能量", "motivation", "fresh-start", "courage"],
+      "i18n": {
+        "zh-tw": {
+          "content": "重新開始不代表失敗，代表你夠勇敢選擇自己。",
+          "editorNote": "換工作、換方向、走出一段感情後，這句話是給自己的溫柔肯定，重新出發本身就是一種勇氣。",
+          "variations": ["敢說不再適合了，然後離開，才是真正認識自己。"]
+        },
+        "en": {
+          "content": "Starting over isn't failure. It's choosing yourself again — and that takes guts.",
+          "editorNote": "For any kind of fresh start: career change, moving cities, ending a relationship, pivoting a project. Reframing restarts as acts of courage, not defeat.",
+          "variations": ["Leaving what no longer fits is its own kind of bravery."]
+        }
+      }
+    },
+    {
+      "id": "mq-013",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://www.huffpost.com/entry/funny-inspirational-quotes_n_65bd4ac0e4b0a3aad5a50188",
+      "sourceNote": "Inspired by courage and fear-despite-action themes from HuffPost funny inspirational quotes",
+      "tags": ["勵志", "勇氣", "恐懼", "行動力", "motivation", "courage", "fear"],
+      "i18n": {
+        "zh-tw": {
+          "content": "帶著害怕還是去做了，這才叫勇氣，不是無所畏懼。",
+          "editorNote": "即將踏出舒適圈前最需要的一句話，鼓勵有焦慮、有擔憂但還是決定嘗試的人。",
+          "variations": ["你不需要不害怕，你只需要比害怕更想要那件事。"]
+        },
+        "en": {
+          "content": "Courage isn't the absence of fear. It's being terrified and still going for it.",
+          "editorNote": "Classic reframe, but it never gets old. Great for anyone about to take a scary leap — a job interview, a public presentation, a difficult conversation.",
+          "variations": ["Brave doesn't mean fearless. Brave means scared and doing it anyway."]
+        }
+      }
+    },
+    {
+      "id": "mq-014",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://dpquotes.com/motivational-quotes-for-work/",
+      "sourceNote": "Inspired by action-creating-motivation (not the other way around) themes from motivational quotes for work compilation",
+      "tags": ["勵志", "行動力", "動力", "習慣", "motivation", "action", "habit"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不需要有動力才開始，開始了動力自然就來。",
+          "editorNote": "打破「等我有動力再做」的拖延迴圈，先動起來再說，動力是行動的副產品，不是前提。",
+          "variations": ["開始了就不想停，這是事實，不是雞湯。"]
+        },
+        "en": {
+          "content": "You don't need to feel motivated to start. Start first, and motivation tends to follow.",
+          "editorNote": "The counterintuitive truth about getting things done: waiting for motivation is a trap. Action comes first, feelings second.",
+          "variations": ["Motivation is a byproduct of starting, not a prerequisite."]
+        }
+      }
+    },
+    {
+      "id": "mq-015",
+      "dateAdded": "2026-04-13",
+      "sourceUrl": "https://www.inc.com/bill-murphy-jr/365-inspiring-poignant-and-just-plain-great-quotes-for-2026/91283130",
+      "sourceNote": "Inspired by self-agency and personal empowerment themes from Inc's 365 quotes for 2026",
+      "tags": ["勵志", "自我", "責任", "成長", "motivation", "agency", "self-empowerment"],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個能讓你的生活變好的人，一直都是你自己。",
+          "editorNote": "不是要你扛起所有責任，而是提醒你，你有比你想的更大的力量可以改變自己的處境，適合在想等別人來救自己的時候用。",
+          "variations": ["不用等誰許可你過你想要的生活。"]
+        },
+        "en": {
+          "content": "The person with the power to make your life better? You've been looking at them in the mirror every day.",
+          "editorNote": "An empowering nudge to stop waiting for external rescue and start trusting your own agency. Not a call to do it all alone — just a reminder that you have more power than you think.",
+          "variations": ["Nobody's coming to save you. Luckily, you don't need saving — you need starting."]
+        }
+      }
+    }
+  ]
+}
