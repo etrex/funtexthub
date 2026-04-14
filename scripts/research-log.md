@@ -372,3 +372,92 @@
 10. Create `witty-comebacks` / 幹話語錄 (differentiation from absurd-wisdom now clear)
 11. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
 12. Future: `drama-quotes`, `dark-humor`
+
+---
+
+## 2026-04-14 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, **motivational-quotes** (7 total) ✅
+- `motivational-quotes` confirmed created (file detected in src/content/topics/)
+- Mother's Day (May 10) is **26 days away** — sweet-quotes Mother's Day items already done ✅
+- 勞動節連假 (May 1–3) is **17 days away** — workplace-quotes is live and timed perfectly ✅
+- 端午節 (June 19–21) is **66 days away** — content prep window opens late May
+- Persistent backlog (3+ reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items
+
+### New Topic Recommendations
+
+1. **畢業季語錄 / Graduation Season Quotes** (slug: `graduation-quotes`, category: Motivation)
+   - New seasonal opportunity not previously flagged: Taiwan graduation season peaks in **June–July 2026** (high school and university ceremonies)
+   - Confirmed active search category: 畢業語錄, 畢業祝福語, 畢業金句 are perennially high-volume in May–July
+   - Content angles: (a) 輕鬆搞笑版 — "終於畢業了，終於可以換個地方不快樂了"; (b) 感人版 — "告別的不是學校，是那個每天有人等你的早晨"; (c) 勵志版 — "世界很大，先出去走走再說"
+   - Differentiation from motivational-quotes: temporal context (endings/beginnings), youth-focused, shareable at class reunions and on IG graduation posts
+   - Bilingual opportunity: English graduation captions are heavily searched ("graduation quotes for captions", "funny graduation quotes")
+   - SEO targets: 畢業語錄, 畢業祝福語, 畢業金句, 畢業祝福句子, graduation quotes, funny graduation captions
+   - **Recommendation: Start content prep in early May for peak June traffic; medium-high urgency**
+
+2. **幹話語錄 / Dry Wit Quotes** (slug: `witty-comebacks`, category: Humor)
+   - Dcard "幹話語錄" thread (p/226991137) confirmed still active from Jan 2026 posts; Instagram @dry_talk_ (4,074 followers) is a dedicated account in this niche
+   - Instagram @fteaa_ crossover with 撩妹/pickup line audience confirms strong overlap with cheesy-pickups fans
+   - Differentiation from absurd-wisdom now clear: absurd-wisdom = obvious stated profoundly (deadpan); witty-comebacks = sardonic reactions to real situations ("誰答應你的", "好解", "破防")
+   - Taiwan Threads is now the #1 Threads market globally (22.02% traffic share as of April 2026; Threads post volume surpassed Facebook this month) — punchy one-liner format of 幹話 is perfectly suited for Threads "脆文" culture
+   - SEO targets: 幹話語錄, 幹話金句, 犀利短句, 搞笑語錄, 幽默短句, 諷刺語錄
+   - **Recommendation: Create after zodiac-quotes; Threads platform tailwind makes this highly timely**
+
+3. **星座語錄 × I人E人 / Zodiac × MBTI Personality Quotes** (slug: `zodiac-quotes`, category: Social)
+   - beauty321.com published "十二星座的MBTI人格" content explicitly mapping each zodiac sign to an MBTI type — confirms audience appetite for this crossover format
+   - manmandays.com has a dedicated "I人vs E人" page confirming sustained search traffic for this topic in Taiwan
+   - marieclaire.com.tw (high authority) published "你是E人還是I人？MBTI十六型人格入門分析" — validates mainstream reach of this content
+   - MBTI content risk: very heavy competition globally. FunTextHub's differentiator is the 星座×I人E人 *fusion quote* format (e.g., "射手座E人：連宇宙都嫌你太吵") rather than generic horoscope content
+   - SEO targets: 星座語錄, 12星座特質, MBTI語錄, I人E人星座, 星座幹話, 星座金句
+   - **Recommendation: Develop next after motivational-quotes is confirmed stable; differentiator is clear and validated**
+
+4. **動物迷因語錄 / Animal Meme Personality Quotes** (slug: `animal-memes`, category: Humor)
+   - **New opportunity identified from global April 2026 meme research**: "Capybara of Indifference" meme (unbothered capybara with dramatic audio) is trending globally; "Nihilistic Penguin" was adopted by BMW and Lidl
+   - Taiwan equivalent: water buffalo (水牛) and capybara (水豚) personality content resonates with Z-gen "佛系" (go-with-the-flow) culture
+   - Format: animal-as-personality-archetype short quotes — "水豚座人生哲學：發生什麼事都不要慌，先看看再說"; "貓咪能量：我不是不理你，我只是在思考要不要理你"
+   - High shareability on LINE and IG Reels; format works as sticker text replacements
+   - Potential SEO targets: 水豚語錄, 貓咪語錄, 動物金句, 佛系語錄, 動物迷因
+   - Risk: somewhat niche; meme formats have shorter shelf life than evergreen topics
+   - **Recommendation: Low urgency; monitor for 1–2 months to assess longevity before committing**
+
+### Content Trends
+
+- **Taiwan Threads #1 Globally (MAJOR PLATFORM INSIGHT)**: Taiwan has become the world's #1 Threads market with 22.02% global traffic share, and Threads post volume surpassed Facebook in April 2026 (QSearch data). This is a structural shift in how Taiwan audiences consume and share short text content. FunTextHub content — especially cold-jokes, absurd-wisdom, and witty-comebacks — maps perfectly onto Threads "脆文" (crispy post) format. Key implication: FunTextHub pages should be easily shareable to Threads. Content under 100 characters performs best on this platform.
+
+- **Stranger Things Season 5 Drop (IMMEDIATE OPPORTUNITY)**: Season 5 dropped this past Thursday and social media is exploding with memes and reactions. Cold-jokes or witty-comebacks with meta-humor about binge-watching or streaming culture would capture this moment. Format: "Stranger Things出新季：你今晚有約嗎？有，跟沙發". Timely window: this week and next.
+
+- **KitKat Heist Meme Crossover**: 400,000 KitKats stolen in Europe became one of the biggest global memes of April 2026. Absurdist real-life event maps directly onto 廢話文學 tone. Could inspire absurd-wisdom items like: "有時候你以為失去的，其實是四十萬條KitKat" (absurd comfort). Niche but highly shareable to the right audience.
+
+- **勞動節連假 (May 1–3, 2026) — 17 DAYS AWAY**: workplace-quotes is now live and perfectly positioned. Pre-holiday browsing of 社畜語錄 peaks in the final week of April (around April 25–30). No further action needed if topic is live and indexed.
+
+- **母親節 (May 10, 2026) — 26 DAYS AWAY**: Multiple 2026-specific Mother's Day resources are active (tiffenyflower.com, cyberlink.com/tw). Confirmed humorous angles resonating: "感謝妳從沒把我退貨"、"我的財富密碼：媽媽的荷包"。Sweet-quotes Mother's Day update already done; ensure items are tagged for LINE keyword triggers (媽媽/阿母/愛你 activate LINE chat effects).
+
+- **端午節 (June 19–21, 2026) — 66 DAYS AWAY**: memes.tw has dedicated 端午節 tag pages confirming active meme creation culture. Facebook "粽式諧音梗挑戰" confirmed running. Core pun pool: "粽望所歸"、"粽情投入"、"一見粽情"、"粽式幽默". Content prep should start late May.
+
+- **畢業季 (June–July) — NEWLY FLAGGED**: Not previously tracked in this log. Taiwan high school and university graduation ceremonies cluster in June–July. Search traffic for 畢業語錄, 畢業祝福語 peaks sharply in May–June. Recommend adding to content calendar now.
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 joke format **still unactioned after 3 reports**. This should be prioritized for the next content update. Concrete suggestion: "I人的浪漫是：想傳訊息給你，打了又刪了三遍，最後傳了一個『？』" — tag: I人, MBTI笑話. Also add Stranger Things binge-watching cold joke for timely traffic.
+- **absurd-wisdom (廢話文學)**: 「接住」angle items **still unactioned after 3 reports**. Concrete item: "如果你總是接住所有人的情緒，記得偶爾也要讓自己落地" — fits format. Also: KitKat heist absurdist item as a timely add.
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI pickup lines **still unactioned after 3 reports**. Concrete items: "你是I人還是E人？因為每次你走進來，我的心跳就從靜音變成外放了"; "朋朋，我今天可以叫你男女朋友的朋嗎？"
+- **workplace-quotes (職場語錄)**: With 勞動節 (May 1–3) approaching, ensure 「暈爛」and 「好解」slang is naturally woven into editorNotes on relevant items. Tag "上班族限定" and "社畜語錄" for social discovery.
+- **motivational-quotes (勵志語錄)**: Multiple high-authority Taiwan sites (arielhsu.tw, projectmanager.com.tw, cyberlink.com/blog, 經理人) are active for this search category — topic is well-positioned for organic SEO. Ensure items are tagged with 每日一句, 座右銘, 心靈短句 for long-tail search capture.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done (confirmed 2026-04-14)
+6. **Update `cold-jokes` with I人/E人 jokes** (URGENT — 4 reports pending, no longer deferrable)
+7. **Update `absurd-wisdom` with 「接住」angle + KitKat absurdist item** (4 reports pending)
+8. **Update `cheesy-pickups` with 「朋朋」+ MBTI pickup lines** (4 reports pending)
+9. Create `zodiac-quotes` with 星座×I人E人 angle (no hard deadline; evergreen)
+10. Create `witty-comebacks` / 幹話語錄 (Threads platform tailwind; create before June)
+11. Create `graduation-quotes` / 畢業季語錄 (NEW — content prep by early May for June peak)
+12. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
+13. Monitor `animal-memes` / 動物迷因語錄 concept for 1–2 months before committing
+14. Future: `drama-quotes`, `dark-humor`
