@@ -1,0 +1,363 @@
+{
+  "slug": "zodiac-quotes",
+  "category": "Social",
+  "i18n": {
+    "zh-tw": {
+      "title": "星座語錄 × I人E人",
+      "description": "12星座的真實面貌，結合I人/E人視角，戳心又好笑的星座金句"
+    },
+    "en": {
+      "title": "Zodiac Quotes × Introvert/Extrovert Edition",
+      "description": "Brutally honest zodiac personality quotes with an introvert/extrovert twist — relatable, funny, and a little too accurate"
+    }
+  },
+  "items": [
+    {
+      "id": "zq-001",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "General Aries traits — impulsive, action-first, think-later personality",
+      "tags": ["牡羊座", "Aries", "E人", "行動力", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "牡羊座的人生座右銘：\n先衝再說，後悔的事等衝完再慢慢想。\n\n他們不是不考慮後果——只是覺得考慮太久也是一種浪費時間。",
+          "editorNote": "傳給身邊那個做什麼事都先衝的牡羊朋友，他大概會說「對啊所以呢」",
+          "variations": [
+            "牡羊座的計畫永遠只有第一步：「先做了再說」。第二步是什麼？不知道，到時候再看。"
+          ]
+        },
+        "en": {
+          "content": "Aries life motto:\nAct first, regret later — but only after finishing what you started.\n\nIt's not that they don't think things through. It's that thinking too long also counts as wasted time.",
+          "editorNote": "Send to your impulsive Aries friend. They'll probably respond: 'Yeah, and?'",
+          "variations": [
+            "An Aries plan always has step one: 'Just go for it.' Step two? TBD. They'll figure it out on the way."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-002",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Taurus traits — stubborn, comfort-loving, slow to change but loyal",
+      "tags": ["金牛座", "Taurus", "I人", "固執", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "金牛座不是固執——\n只是他們找到了對的方式之後，就沒有理由再換。\n\n你說的「嘗試新事物」，在金牛座看來叫做「製造不必要的風險」。",
+          "editorNote": "適合在朋友說「你就是太固執了」的時候默默傳給他，不需要說什麼",
+          "variations": [
+            "金牛座的舒適圈不是逃避，是投資——他們花了很長時間才建起來的，為什麼要輕易放棄？"
+          ]
+        },
+        "en": {
+          "content": "Taurus isn't stubborn —\nthey just found what works and see no reason to change it.\n\nWhat you call 'trying new things,' a Taurus calls 'introducing unnecessary variables.'",
+          "editorNote": "Share when someone accuses a Taurus of being inflexible — let the quote do the talking",
+          "variations": [
+            "A Taurus's comfort zone isn't avoidance — it's a long-term investment. They built it carefully. Why tear it down?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-003",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Gemini traits — dual personality, talkative, fast-switching energy",
+      "tags": ["雙子座", "Gemini", "E人", "雙面", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "雙子座今天說的話，明天不一定還算數。\n不是他說謊——只是昨天的他跟今天的他，嚴格來說是兩個不同的人。\n\n這叫做成長，請給予掌聲。",
+          "editorNote": "雙子座朋友看到這個通常會笑著說「沒錯就是這樣」",
+          "variations": [
+            "雙子座：「我昨天說的話我不認——昨天的我已經死了。」",
+            "和雙子座吵架記得截圖，因為隔天他可能完全不記得說過什麼了"
+          ]
+        },
+        "en": {
+          "content": "What a Gemini says today isn't necessarily valid tomorrow.\nIt's not that they're lying — the person from yesterday and the person today are technically two different people.\n\nThis is called growth. Please applaud.",
+          "editorNote": "Geminis usually read this and immediately say 'That's literally me'",
+          "variations": [
+            "Gemini: 'What I said yesterday doesn't count. That version of me is gone.'",
+            "When arguing with a Gemini, screenshot everything — by tomorrow they may have no memory of it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-004",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Cancer traits — emotionally sensitive, protective, never forgets a slight",
+      "tags": ["巨蟹座", "Cancer", "I人", "敏感", "記仇", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "巨蟹座說「沒事」的時候，通常有很多事。\n說「隨便你」的時候，通常是認真的在生氣。\n說「我不在意了」的時候——\n他們只是把在意的事收進了更深的地方。",
+          "editorNote": "I人的巨蟹座尤其符合，傳給那個說「我不在意」但眼神出賣一切的朋友",
+          "variations": [
+            "巨蟹座不記仇——他們只是記性很好，而且感情特別豐富。"
+          ]
+        },
+        "en": {
+          "content": "When a Cancer says 'it's fine,' there's usually quite a lot that isn't.\nWhen they say 'do whatever you want,' they're actually pretty upset.\nWhen they say 'I don't care anymore' —\nthey've just moved what they care about somewhere deeper.",
+          "editorNote": "Especially true for introverted Cancers — send to the friend who says they're fine but their eyes say otherwise",
+          "variations": [
+            "A Cancer doesn't hold grudges — they just have an excellent memory and a very rich emotional life."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-005",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Leo traits — confident, attention-seeking, generous but needs praise",
+      "tags": ["獅子座", "Leo", "E人", "自信", "愛被誇", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "獅子座的自信不是表演出來的——\n他們真的覺得自己很好，而且希望你也這樣覺得。\n\n誇他一句，他能替你辦三件事。\n不誇他，他也會辦，只是臉比較臭。",
+          "editorNote": "適合用來解釋為什麼獅子座朋友需要被肯定，語氣輕鬆不傷感情",
+          "variations": [
+            "獅子座語錄：「我不是需要你誇我，只是……如果你誇的話，大家都會比較愉快。」"
+          ]
+        },
+        "en": {
+          "content": "Leo's confidence isn't a performance —\nthey genuinely think they're great, and they'd like you to think so too.\n\nCompliment them once and they'll do three favors for you.\nSkip it and they'll still help — just with a noticeably different expression.",
+          "editorNote": "A good-natured way to explain why your Leo friend needs validation without making it an issue",
+          "variations": [
+            "Leo self-summary: 'I don't need you to compliment me. But if you do, everyone's going to have a much better time.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-006",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Virgo traits — perfectionist, detail-oriented, critical but well-meaning",
+      "tags": ["處女座", "Virgo", "I人", "完美主義", "挑剔", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "處女座看到不整齊的東西，手就會癢。\n不是挑剔，是對品質有要求。\n\n他們說的「你這樣不對」，翻譯成正常語言是：\n「我很在乎你，所以忍不住說。」",
+          "editorNote": "傳給那個總是幫你找錯誤的處女座朋友，讓他知道你懂他的好意",
+          "variations": [
+            "處女座的口頭禪：「我說幾句喔，你別介意。」\n（一說通常超過三句，但每句都是為你好。）"
+          ]
+        },
+        "en": {
+          "content": "When a Virgo sees something out of place, they can't just leave it.\nNot because they're picky — because they have standards.\n\nWhen they say 'that's not quite right,' the translation is:\n'I care about you enough to say something.'",
+          "editorNote": "Send to the Virgo who always spots your mistakes — let them know you get it",
+          "variations": [
+            "Virgo catchphrase: 'Not to criticize, but...' \n(What follows is usually more than one point. All of it meant kindly.)"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-007",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Libra traits — indecisive, harmony-seeking, people-pleasing",
+      "tags": ["天秤座", "Libra", "E人", "優柔寡斷", "愛面子", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "天秤座選菜單需要十五分鐘。\n選要不要回覆那條訊息需要兩個小時。\n選要不要結束一段關係需要三年。\n\n不是沒有主見——每個選項在他們眼裡都太有道理了。",
+          "editorNote": "適合在朋友選吃什麼選很久的時候傳，天秤座看到會笑又會有點臉紅",
+          "variations": [
+            "天秤座的決策流程：全部列出來，分析利弊，最後選了最不想選的那個，因為「感覺比較公平」。"
+          ]
+        },
+        "en": {
+          "content": "A Libra needs fifteen minutes to pick from a menu.\nTwo hours to decide whether to reply to that message.\nThree years to end a relationship.\n\nIt's not that they lack opinions — every option just makes too much sense to them.",
+          "editorNote": "Share when your Libra friend can't pick where to eat — they'll laugh and look a little guilty",
+          "variations": [
+            "Libra decision process: list all options, weigh pros and cons, then choose the one they least wanted — because it 'seemed fairest.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-008",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Scorpio traits — intense, secretive, deeply loyal but slow to trust",
+      "tags": ["天蠍座", "Scorpio", "I人", "神秘", "記仇", "忠誠", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "天蠍座對你好的時候，你是全世界最重要的人。\n天蠍座對你翻臉的時候，你才知道他有多記仇。\n\n問題是，他們翻臉的門檻其實很高——所以如果翻了，通常是你真的做了什麼。",
+          "editorNote": "天蠍座朋友的最佳辯護詞，傳給那個覺得天蠍座可怕的人",
+          "variations": [
+            "天蠍座：「我不是記仇。我只是不忘記。這兩件事是不一樣的。」"
+          ]
+        },
+        "en": {
+          "content": "When a Scorpio is on your side, you're the most important person in the world.\nWhen they cut you off, you'll understand why everyone warns about them.\n\nThe thing is — their threshold for turning is actually quite high. If it happened, you probably did something.",
+          "editorNote": "The best defense of a Scorpio friend — send to whoever's intimidated by them",
+          "variations": [
+            "Scorpio: 'I don't hold grudges. I just don't forget. Those are two different things.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-009",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Sagittarius traits — freedom-loving, blunt, always planning the next adventure",
+      "tags": ["射手座", "Sagittarius", "E人", "自由", "直接", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "射手座說的「我們改天再聚」，有時候真的是改天，有時候是禮貌性結束對話。\n\n不過他們邀你去玩的時候是真的——射手座不會浪費時間邀請不想一起的人。",
+          "editorNote": "射手座朋友看到這個大概會說「對我就是這樣，問題嗎？」",
+          "variations": [
+            "射手座的友誼守則：我可以消失三個月，但我心裡一直有你。你想找我，我馬上出現。"
+          ]
+        },
+        "en": {
+          "content": "When a Sagittarius says 'let's catch up sometime,' it's sometimes genuine, sometimes a polite conversation closer.\n\nBut when they invite you somewhere, they mean it — a Sagittarius doesn't waste time inviting people they don't actually want around.",
+          "editorNote": "A Sagittarius will probably read this and say 'Yep, that's me, any questions?'",
+          "variations": [
+            "Sagittarius friendship code: I might disappear for three months, but you're still in my head. Text me and I'll show up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-010",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Capricorn traits — hardworking, ambitious, takes life very seriously",
+      "tags": ["魔羯座", "Capricorn", "I人", "工作狂", "現實", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "魔羯座放假也在想工作。\n躺平的時候腦子裡在跑下季計畫。\n玩樂的時候算著這頓飯值不值這個時間成本。\n\n他們不是不懂享受——他們只是把享受也列進了待辦事項裡。",
+          "editorNote": "適合傳給那個休假還在回工作訊息的魔羯座，幫他們說出自己的狀態",
+          "variations": [
+            "魔羯座的週末計畫：把下週的事先做完，然後好好休息一個小時，然後繼續做下下週的事。"
+          ]
+        },
+        "en": {
+          "content": "A Capricorn thinks about work even on vacation.\nWhile lying down, their brain is running Q3 projections.\nWhile eating out, they're calculating whether the meal is worth the time cost.\n\nThey're not incapable of relaxing — they've just put 'relaxing' on the to-do list.",
+          "editorNote": "Send to the Capricorn who's answering emails on their day off — it perfectly describes them",
+          "variations": [
+            "Capricorn weekend plan: finish next week's tasks first, then rest for an hour, then get started on the week after that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-011",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Aquarius traits — independent, unconventional, feels misunderstood",
+      "tags": ["水瓶座", "Aquarius", "I人", "個性派", "不合群", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "水瓶座不是不合群——\n他們只是需要先確認這個群值得加入。\n\n大多數時候，判斷結果是：不值得，還是自己比較自在。",
+          "editorNote": "水瓶座I人看到這個會沉默兩秒，然後說「對。」這就是他們最標準的反應",
+          "variations": [
+            "水瓶座的社交哲學：與其花力氣融入不對的圈子，不如把那個力氣留給值得的人。"
+          ]
+        },
+        "en": {
+          "content": "Aquarius isn't antisocial —\nthey just need to verify that a group is worth joining before they do.\n\nMost of the time, the verdict is: not really, and they're more comfortable on their own.",
+          "editorNote": "An introverted Aquarius will pause for two seconds after reading this, then say 'Correct.' That's the full response.",
+          "variations": [
+            "Aquarius social philosophy: why spend energy fitting in somewhere wrong when you can save it for someone who's worth it?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-012",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Pisces traits — dreamy, empathetic, lost in their own world",
+      "tags": ["雙魚座", "Pisces", "I人", "浪漫", "迷糊", "星座個性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "雙魚座有時候不是在發呆——\n他們只是在一個你進不去的地方認真思考。\n\n等他們回來，通常什麼事都解決了，或是什麼事都忘了，這兩種機率差不多。",
+          "editorNote": "雙魚座的最強自我解釋，傳給那個說雙魚座「不在狀況」的朋友",
+          "variations": [
+            "雙魚座的世界裡，感覺比邏輯更可靠。他們不是算不清楚，只是覺得「感覺對」比「算對」更重要。"
+          ]
+        },
+        "en": {
+          "content": "Sometimes a Pisces isn't spacing out —\nthey're just thinking very seriously somewhere you can't follow.\n\nWhen they come back, either everything is resolved or everything is forgotten. Roughly equal odds.",
+          "editorNote": "The definitive Pisces self-defense — send to the friend who says Pisces are 'out of it'",
+          "variations": [
+            "In a Pisces's world, feelings are more reliable than logic. They can do the math — they just trust 'feels right' more than 'calculated correctly.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-013",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "I人/E人 MBTI × zodiac crossover — introvert signs at social events",
+      "tags": ["I人", "E人", "MBTI", "星座社交", "派對"],
+      "i18n": {
+        "zh-tw": {
+          "content": "星座I人在派對上的內心OS：\n「我來了，我待夠了，我可以回家了。」\n\n從進門到離場，這三個念頭平均間隔二十分鐘。\n\n（巨蟹、處女、天蠍、水瓶請自行對號入座。）",
+          "editorNote": "群組裡一定有這種人，傳出去之後他們只會回一個「笑哭」然後默默繼續滑手機",
+          "variations": [
+            "I人派對生存包：一杯飲料（道具用）、一個常用離場理由、手機備好電——這樣就夠了。"
+          ]
+        },
+        "en": {
+          "content": "Introverted zodiac signs at a party, inner monologue:\n'Arrived. Stayed long enough. Time to go home.'\n\nAverage interval between these three thoughts: twenty minutes.\n\n(Cancer, Virgo, Scorpio, Aquarius — you know who you are.)",
+          "editorNote": "Every friend group has this person — send it and they'll respond with a laughing emoji then go back to scrolling",
+          "variations": [
+            "Introvert party survival kit: one drink (as a prop), one reliable exit excuse, fully charged phone — that's all you need."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-014",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Fire signs (Aries, Leo, Sagittarius) group personality — E人 energy",
+      "tags": ["火象星座", "牡羊座", "獅子座", "射手座", "E人", "活力"],
+      "i18n": {
+        "zh-tw": {
+          "content": "火象星座（牡羊、獅子、射手）有個共同點：\n他們不太會說「好累，算了」。\n\n說了也不算，十分鐘後又衝回去了。\n\n這不叫沒有自覺，叫做熱情比記憶力強。",
+          "editorNote": "傳給那個說「好了好了不幹了」然後隔天照樣出現的火象座朋友",
+          "variations": [
+            "火象星座的放棄：「我不玩了！（五分鐘後）……好我繼續。」"
+          ]
+        },
+        "en": {
+          "content": "Fire signs (Aries, Leo, Sagittarius) share one thing:\nthey don't really mean it when they say 'I'm done, forget it.'\n\nThey say it, but ten minutes later they're back in it.\n\nNot a lack of self-awareness — just passion that outlasts their own complaints.",
+          "editorNote": "Send to the fire sign friend who quit three times this week and showed up again every time",
+          "variations": [
+            "Fire sign 'giving up': 'That's it, I'm out!' (five minutes later) '...Okay, one more round.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-015",
+      "dateAdded": "2026-04-14",
+      "sourceUrl": "",
+      "sourceNote": "Water signs (Cancer, Scorpio, Pisces) — emotional depth, feeling everything",
+      "tags": ["水象星座", "巨蟹座", "天蠍座", "雙魚座", "I人", "情感豐富"],
+      "i18n": {
+        "zh-tw": {
+          "content": "水象星座（巨蟹、天蠍、雙魚）感受到的一切，都是真實的。\n\n你說的那句話，他們確實記得。\n那首歌響起的時候，他們確實難過了一下。\n你以為的小事，對他們來說從來不是小事。\n\n這是一種天賦，只是有時候自己也很累。",
+          "editorNote": "水象座朋友看到這個很可能會說「謝謝你懂我」，然後眼眶有點紅",
+          "variations": [
+            "水象星座不是太敏感——只是他們的心沒有靜音鍵。"
+          ]
+        },
+        "en": {
+          "content": "Everything water signs (Cancer, Scorpio, Pisces) feel is real.\n\nThat thing you said — they actually remember it.\nWhen that song comes on, they genuinely felt something for a moment.\nWhat you call a small thing was never small to them.\n\nIt's a gift. It just gets exhausting sometimes.",
+          "editorNote": "A water sign friend might read this and say 'thank you for getting it' — possibly with wet eyes",
+          "variations": [
+            "Water signs aren't too sensitive — their heart just doesn't have a mute button."
+          ]
+        }
+      }
+    }
+  ]
+}
