@@ -543,6 +543,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-020",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://manmandays.com/positive-quotes/",
+      "sourceNote": "Inspired by sustainable progress themes — not every day needs to be improvement",
+      "tags": [
+        "勵志",
+        "正能量",
+        "自我照顧",
+        "慢慢來"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "不是每天都要進步，\n有些天能維持就已經很了不起了。\n\n今天如果你只是撐住了——\n這也算一種成功，不需要打折。",
+          "editorNote": "狀態很差、什麼都做不了的天，這句話是最溫柔的肯定。不是叫你放棄，是叫你承認撐著本身就需要力氣。",
+          "variations": [
+            "停在原地不退步，有時候跟前進一樣值得被認可。"
+          ]
+        },
+        "en": {
+          "content": "Not every day needs to be progress.\nSome days, holding your ground is already impressive.\n\nIf today you just managed to get through it —\nthat counts as a success. No discount needed.",
+          "editorNote": "For days when nothing goes right and you can barely function — a quiet acknowledgment that staying in it takes real effort too.",
+          "variations": [
+            "Standing still without falling back sometimes deserves the same credit as moving forward."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-021",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://arielhsu.tw/positive-energy/",
+      "sourceNote": "Inspired by letting go and emotional timing themes from Ariel Hsu positive energy quotes",
+      "tags": [
+        "勵志",
+        "放下",
+        "療癒",
+        "成長"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有些事不是你不想放下，\n是還沒到那個時候。\n\n放下需要時間，跟努力沒有直接關係，\n跟時機比較有關。\n\n所以不用強迫自己現在就好，\n允許自己慢慢來。",
+          "editorNote": "給那個一直覺得自己「應該要放下了」卻還是放不下的人，告訴他這不是失敗，是時機還沒到。",
+          "variations": [
+            "放下不是忘記，是把它放到一個不再佔據你全部的位置。這需要時間，不需要下決心。"
+          ]
+        },
+        "en": {
+          "content": "Sometimes you're not refusing to let go —\nyou just haven't reached that moment yet.\n\nLetting go takes time. It has less to do with effort\nand more to do with timing.\n\nSo don't force yourself to be okay right now.\nAllow yourself to take it slowly.",
+          "editorNote": "For anyone who keeps thinking they 'should have moved on by now' — this reframes it as a timing issue, not a personal failure.",
+          "variations": [
+            "Letting go isn't forgetting. It's moving something from a place that takes up everything to a place that just takes up a corner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-022",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://cmykhuang.com/positivequotes/",
+      "sourceNote": "Inspired by small joys and ordinary day themes from CMYK positive quotes",
+      "tags": [
+        "勵志",
+        "當下",
+        "感恩",
+        "小事"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "不是只有大事才值得記住。\n\n那杯咖啡剛好是你喜歡的溫度，\n那首歌在對的時間點響起，\n那個讓你突然笑出來的對話——\n\n小事也可以讓一天變好，\n不需要等大事發生。",
+          "editorNote": "在普通的一天快結束時可以用這個來回顧，找到那些不起眼但讓今天值得的時刻。",
+          "variations": [
+            "今天有沒有一件小事讓你稍微好了一點？那就夠了。"
+          ]
+        },
+        "en": {
+          "content": "Not only big moments are worth holding onto.\n\nThat coffee that was exactly the right temperature,\nthat song that came on at the perfect time,\nthat conversation that made you suddenly laugh —\n\nSmall things can make a day worth it.\nYou don't have to wait for something big.",
+          "editorNote": "Use at the end of an ordinary day to find what made it quietly worthwhile — reframes what counts as a good day.",
+          "variations": [
+            "Was there one small thing today that made things slightly better? That's enough. That counts."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-023",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://www.rd.com/article/funny-inspirational-quotes/",
+      "sourceNote": "Inspired by uncertainty and beginning themes from Reader's Digest inspirational compilation",
+      "tags": [
+        "勵志",
+        "成長",
+        "行動力",
+        "不確定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不需要確定才能前進。\n\n大多數重要的事，\n都是在還不確定的時候就開始的——\n\n確定，往往是前進之後才有的感覺，\n不是前進的前提。",
+          "editorNote": "給那個等到「一切都想清楚了再行動」的人，告訴他確定感不是起點，而是過程中慢慢長出來的。",
+          "variations": [
+            "不確定是正常的，一直等確定才是浪費時間的那種。"
+          ]
+        },
+        "en": {
+          "content": "You don't need to be certain before you move forward.\n\nMost important things in life\nbegan when someone wasn't sure yet —\n\nCertainty is usually something you feel after moving,\nnot a requirement before you do.",
+          "editorNote": "For the person waiting until they 'figure everything out' before starting — certainty is a byproduct of action, not its prerequisite.",
+          "variations": [
+            "Uncertainty is normal. Waiting forever to feel certain is where the real time gets wasted."
+          ]
+        }
+      }
     }
   ]
 }

@@ -605,6 +605,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-023",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學開會觀察，重新創作",
+      "tags": [
+        "廢話文學",
+        "會議",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "參加會議的人，在會議進行中，是在會議裡的。\n沒有參加的人，則不在裡面。\n\n會議結束之後，與會者離開會議室。\n在離開之後，他們就不在會議室裡了。\n\n這個流程，在每次會議結束後都會發生。",
+          "editorNote": "下次在會議室裡說這段，看有幾個人沉默兩秒然後點頭表示贊同",
+          "variations": [
+            "在會議中說話的人，比沒有說話的人，多說了一些話。這是可以驗證的。"
+          ]
+        },
+        "en": {
+          "content": "People attending a meeting are, while the meeting is in progress, inside the meeting.\nPeople who are not attending are not inside it.\n\nAfter the meeting ends, attendees leave the meeting room.\nOnce they have left, they are no longer in the meeting room.\n\nThis sequence of events occurs at the conclusion of every meeting.",
+          "editorNote": "Read this out loud in a meeting room and count how many people nod in serious agreement",
+          "variations": [
+            "People who spoke during the meeting said more things than those who didn't. This can be verified."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-024",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學飢餓觀察，重新創作",
+      "tags": [
+        "廢話文學",
+        "飲食",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "根據長期研究，人在餓的時候，通常處於非飽的狀態。\n吃東西之後，飢餓感會有所減輕。\n\n吃太多的情況下，可能會超過飽的程度，進入撐的狀態。\n\n這三種狀態通常按照上述順序出現，但也有人跳過第二種，直接進入第三種。",
+          "editorNote": "吃到一半說這個，旁邊繼續夾菜的人會假裝沒聽見，因為他正在越過第二種狀態",
+          "variations": [
+            "「我不餓」這句話，在進入餐廳三分鐘後，通常會被「好像可以吃一點」取代。這是常見現象。"
+          ]
+        },
+        "en": {
+          "content": "Long-term research confirms that a person who is hungry is, at that time, not full.\nAfter eating, the level of hunger decreases.\n\nIn cases of overeating, fullness may be exceeded, entering the state of being stuffed.\n\nThese three states generally occur in the order listed, though some individuals skip the second and proceed directly to the third.",
+          "editorNote": "Say this mid-meal — whoever keeps reaching for more food will pretend not to hear, because they're actively skipping state two",
+          "variations": [
+            "'I'm not hungry' typically transitions into 'maybe I could eat a little' within three minutes of entering a restaurant. This is a well-documented pattern."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-025",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學遺忘觀察，重新創作",
+      "tags": [
+        "廢話文學",
+        "記憶",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你忘記的事，在你忘記之後，就已經被你忘記了。\n\n你記得的事，目前仍在你的記憶中。\n\n兩者的根本差異，在於你是否還記得。\n如果你已經忘記了某件事，你通常不知道你忘記了。\n這就是忘記的核心機制。",
+          "editorNote": "傳給那個說「我完全想不起來」的朋友，讓他面對忘記這件事的本質，然後繼續想不起來",
+          "variations": [
+            "你以為自己記性好的那些事，可能只是你還沒忘記。尚未忘記的事和記住的事，感覺是一樣的。"
+          ]
+        },
+        "en": {
+          "content": "The things you have forgotten are, after being forgotten, things you no longer remember.\n\nThe things you still remember are currently present in your memory.\n\nThe fundamental difference between these two categories is whether you remember them.\nIf you have already forgotten something, you are typically unaware that you have.\nThis is the core mechanism of forgetting.",
+          "editorNote": "Send to the friend who says 'I can't remember at all' — a thorough examination of what forgetting actually means",
+          "variations": [
+            "The things you believe you remember well may simply be things you haven't forgotten yet. Unforgotten things and remembered things feel identical."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-026",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學運動習慣觀察，重新創作",
+      "tags": [
+        "廢話文學",
+        "運動",
+        "習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開始運動的人，比還沒開始的人，早了一步開始運動。\n\n尚未開始的人，目前仍在開始之前。\n兩者之間的差距，在其中一方開始之後，會縮減為零。\n\n但「下週一開始」的人，在下週一來臨之前，仍然屬於尚未開始的那一類。",
+          "editorNote": "傳給那個每週日晚上都說「明天開始運動」的朋友，讓他安靜地接受自己的狀態分類",
+          "variations": [
+            "計畫運動的人和實際運動的人，目前分屬兩個不同的集合。這兩個集合，偶爾有重疊。"
+          ]
+        },
+        "en": {
+          "content": "A person who has started exercising has begun exercising earlier than someone who hasn't started yet.\n\nThe person who has not yet started is currently still in the pre-start phase.\nThe gap between them will reach zero once one of them begins.\n\nHowever, a person who intends to 'start on Monday' remains in the not-yet-started category until Monday actually arrives.",
+          "editorNote": "Send to the friend who says 'I'm starting to exercise next week' every Sunday — let them quietly accept their current classification",
+          "variations": [
+            "People who plan to exercise and people who actually exercise currently belong to two distinct categories. These categories occasionally overlap."
+          ]
+        }
+      }
     }
   ]
 }

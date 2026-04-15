@@ -800,6 +800,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "sq-031",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "支持",
+        "陪伴",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果今天很難撐，你不用假裝可以。\n\n不用說「還好」，不用表現得好像一切沒事。\n你願意說的話，我在這裡聽。\n你不想說的話，我們就安靜地在一起也可以。",
+          "editorNote": "對方壓力很大或情緒很低落的時候傳，不給建議，只是讓他知道你在，這種感覺比什麼話都有份量",
+          "variations": [
+            "今天不需要表現好。有我在，你可以就這樣。"
+          ]
+        },
+        "en": {
+          "content": "If today is hard to get through, you don't have to pretend it isn't.\n\nYou don't have to say 'I'm fine' or act like everything's okay.\nIf you want to talk, I'm here to listen.\nIf you don't, we can just be quiet together.",
+          "editorNote": "Send when your person is overwhelmed or shut down — no advice, just presence. This is often the most useful thing.",
+          "variations": [
+            "Today doesn't require a performance. With me, you can just be however you are."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-032",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "日常",
+        "互動",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們有自己才懂的梗，\n只有對方說才好笑的時刻，\n不需要解釋的那種默契。\n\n這些東西是沒有辦法複製的，\n也沒有辦法跟別人說清楚。\n\n但那就是我最喜歡的部分。",
+          "editorNote": "適合傳給交往一段時間、已經有很多共同語言的另一半，告訴他你最珍惜的是這些只有你們才有的東西",
+          "variations": [
+            "有一種親密，不需要做什麼，只是你說一個眼神，我就知道你在想什麼——我很珍惜這個。"
+          ]
+        },
+        "en": {
+          "content": "We have our own inside jokes,\nmoments that are only funny because it's you saying them,\nand a kind of shorthand that doesn't need explaining.\n\nNone of that can be replicated.\nAnd I can't really describe it to anyone else.\n\nBut that's the part I love most.",
+          "editorNote": "Send to a long-term partner to tell them the quiet inside-joke moments are your favorite — it's specific and warm",
+          "variations": [
+            "There's a kind of closeness where you give me one look and I already know what you're thinking. I don't take that for granted."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-033",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "思念",
+        "日常",
+        "關心"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有時候一整天都忙，沒有時間多想什麼。\n\n但到了要睡覺的時候，\n腦子裡第一個冒出來的還是你。\n\n我覺得這種慣性，\n比任何話說得更清楚。",
+          "editorNote": "睡前傳，讓對方在結束一天之前知道，他是你最後一個想到的——這比「晚安」更有溫度",
+          "variations": [
+            "不管今天過得怎麼樣，最後我總是想到你。不是刻意的，是自然而然地就想到了。"
+          ]
+        },
+        "en": {
+          "content": "Sometimes the whole day goes by in a rush — no time to pause and think.\n\nBut when it's time to sleep,\nyou're the first thing that comes to mind.\n\nI think that kind of habit\nsays more than any words.",
+          "editorNote": "Send before sleep — telling someone they're the last thing on your mind lands warmer than any goodnight sticker",
+          "variations": [
+            "No matter how the day goes, you're always where my thoughts end up. Not intentionally — just naturally."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-034",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "承諾",
+        "關心",
+        "支持"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我沒辦法替你解決所有的事，\n也沒辦法讓你的路變得容易走。\n\n但有一件事我可以做到——\n\n不管你現在在哪裡，我都不想讓你一個人走。",
+          "editorNote": "在對方面對困難或人生轉折點的時候傳，不承諾解決問題，只承諾不缺席——這種話更真實也更有份量",
+          "variations": [
+            "我不確定我能幫上什麼，但我確定一件事：你去哪裡，我都想知道你還好不好。"
+          ]
+        },
+        "en": {
+          "content": "I can't fix everything for you,\nor make the road ahead any easier to walk.\n\nBut there's one thing I can do:\n\nNo matter where you are right now, I don't want you to be alone in it.",
+          "editorNote": "Send when your person is facing something hard or a major life change — not promising solutions, just presence. That's more honest and more meaningful.",
+          "variations": [
+            "I'm not sure how much help I can be. But I know one thing: wherever you go, I want to know you're okay."
+          ]
+        }
+      }
     }
   ]
 }

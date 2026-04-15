@@ -655,6 +655,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-024",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://udn.com/news/story/7269/9440865",
+      "sourceNote": "辦公室群組訊息文化觀察，重新創作",
+      "tags": [
+        "辦公室",
+        "群組訊息",
+        "職場幽默",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "辦公室群組的幾個基本法則：\n\n@所有人，代表你被迫知道一件你不需要知道的事。\n\n只傳給你，代表你被指定負責一件事。\n\n沒有傳給你，代表你下週才會發現自己錯過了某個決定。\n\n三種情況，沒有一種讓你覺得輕鬆。",
+          "editorNote": "傳給工作群組裡的好同事，他看完會默默點頭，然後繼續看那個@所有人的訊息",
+          "variations": [
+            "最可怕的群組訊息：已讀人數是全員，但沒有人回覆——代表大家都在等別人先說話。"
+          ]
+        },
+        "en": {
+          "content": "The basic rules of workplace group chats:\n\n@everyone means you've been informed of something you didn't need to know.\n\nA message sent only to you means you've been assigned something.\n\nNot being tagged means you'll find out next week that a decision was made without you.\n\nNone of these three outcomes is comfortable.",
+          "editorNote": "Send to a trusted coworker — they'll nod quietly, then go back to reading the @everyone message they were just tagged in",
+          "variations": [
+            "The scariest group chat situation: everyone has read it, nobody has replied — because everyone is waiting for someone else to go first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-025",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://woman.udn.com/woman/story/123164/8445185",
+      "sourceNote": "上班族午休時間使用觀察，重新創作",
+      "tags": [
+        "午休",
+        "上班族限定",
+        "職場幽默",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上班族的午休時間其實有三段：\n\n第一段：決定要吃什麼（十五分鐘）。\n第二段：實際吃飯（十分鐘）。\n第三段：後悔剛才花了十五分鐘做決定（剩餘時間）。\n\n偶爾有第四段：趴著睡著，然後被下午的會議通知叫醒。",
+          "editorNote": "中午快到的時候傳給同事，準確度百分之九十，他看完大概正好開始糾結要吃什麼",
+          "variations": [
+            "如果大家齊心協力在十分鐘內決定吃什麼，剩下的時間就可以好好吃飯——但這在現實中屬於理想狀態。"
+          ]
+        },
+        "en": {
+          "content": "The office worker's lunch break is actually three separate segments:\n\nSegment 1: Deciding what to eat (fifteen minutes).\nSegment 2: Actually eating (ten minutes).\nSegment 3: Regretting the time spent on segment one (remaining time).\n\nOccasionally there's a segment four: falling asleep at your desk, then being woken up by an afternoon meeting notification.",
+          "editorNote": "Send right before noon — 90% accuracy; they're probably already debating what to eat",
+          "variations": [
+            "If everyone agreed on lunch in ten minutes, there'd be plenty of time to eat properly. In practice, this is a theoretical state."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-026",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://danfe.io/blog/hilarious-office-quotes/",
+      "sourceNote": "在家工作開鏡頭文化觀察，重新創作",
+      "tags": [
+        "遠端工作",
+        "開會",
+        "職場幽默",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在家工作開鏡頭的那幾秒鐘：\n上半身是職場專業人士。\n下半身是週末居家版的自己。\n\n這是工作與生活平衡效率最高的實現方式。\n目前業界預設接受這個做法，且不影響工作表現。",
+          "editorNote": "遠端工作的同事看到這個會笑，然後默默看一眼自己的褲子",
+          "variations": [
+            "視訊會議穿搭的最佳策略：上半身正式、下半身舒適。如果需要站起來，那就是另一個等級的問題了。"
+          ]
+        },
+        "en": {
+          "content": "During the seconds your camera is on for remote work:\nAbove the waist: workplace professional.\nBelow the waist: weekend casual self.\n\nThis is the highest-efficiency implementation of work-life balance.\nThe industry has tacitly accepted this practice, and it has no documented impact on performance.",
+          "editorNote": "Remote workers will laugh and quietly glance at their own pants",
+          "variations": [
+            "Optimal video call outfit strategy: formal on top, comfortable on the bottom. If standing becomes necessary, that's a different tier of problem."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-027",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://www.518.com.tw/article/804",
+      "sourceNote": "職場薪資禁忌文化觀察，重新創作",
+      "tags": [
+        "薪水",
+        "職場人際",
+        "幹話",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "職場有一條幾乎全球通用的禁忌：不能問同事薪水。\n\n但大家都想知道。\n\n所以大家都假裝不知道，然後在吃飯局的時候不小心說出來。\n或是跟認識但不在同公司的朋友打聽，再交叉比對。\n\n這條禁忌的實際效果，是讓這個話題在私下比任何公開討論都更活躍。",
+          "editorNote": "傳給那個說「你們公司薪水怎麼樣」的朋友，他通常是在幫你打聽，也在讓你幫他打聽",
+          "variations": [
+            "最有效率的薪資透明做法：直接問。最常見的做法：繞一大圈透過三個人問。兩者結果相同，只是時間成本不同。"
+          ]
+        },
+        "en": {
+          "content": "There is an almost universally observed workplace taboo: you cannot ask a coworker their salary.\n\nBut everyone wants to know.\n\nSo everyone pretends not to know, then mentions it accidentally at a dinner out.\nOr asks a mutual friend outside the company and triangulates from there.\n\nThe practical effect of this taboo is that the topic is far more active in private than it would ever be in any public discussion.",
+          "editorNote": "Send to the friend who asks 'so how's the pay at your company?' — they're gathering intel for you, and asking you to gather it for them",
+          "variations": [
+            "Most efficient approach: just ask directly. Most common approach: route through three people over two weeks. Same outcome, very different time cost."
+          ]
+        }
+      }
     }
   ]
 }

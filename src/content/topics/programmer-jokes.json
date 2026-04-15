@@ -931,6 +931,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-036",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "Git commit message evolution humor — widely recognized developer lifecycle",
+      "tags": [
+        "Git",
+        "工程師日常",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師寫commit message的成長過程：\n\n初階：「fix bug」\n中階：「fix bug (hopefully)」\n高階：「fix the bug introduced by the last bug fix」\n資深：「WIP（我知道這是什麼，但我現在不想解釋）」\n傳說等級：「asdfjkl;」\n\n傳說等級的人通常不在乎了，\n但他的程式碼是全公司最不能動的那幾段。",
+          "editorNote": "貼在工程師群組，大家會各自對號入座，然後默默不說話",
+          "variations": [
+            "最後一個等級還有一種變體：「quick fix」——這三個字，在工程師的世界裡，代表你接下來的兩個小時不會是你的。"
+          ]
+        },
+        "en": {
+          "content": "The evolution of a developer's commit messages:\n\nJunior: 'fix bug'\nMid-level: 'fix bug (hopefully)'\nSenior: 'fix the bug introduced by the last bug fix'\nPrincipal: 'WIP (I know what this is but I don't want to explain right now)'\nLegendary: 'asdfjkl;'\n\nThe legendary-tier developer usually doesn't care anymore —\nbut their code is the section nobody in the company is allowed to touch.",
+          "editorNote": "Post in any dev group chat — everyone will silently identify their tier and say nothing",
+          "variations": [
+            "There's a variant at the last level: 'quick fix.' In developer culture, these two words mean the next two hours are no longer yours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-037",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
+      "sourceNote": "Documentation attitude progression — universal developer experience",
+      "tags": [
+        "文件",
+        "工程師語錄",
+        "工程師生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師對文件的四個人生階段：\n\n剛入行：「文件在哪裡？」\n一年後：「文件好像有點過時。」\n三年後：「以程式碼為準，文件僅供參考。」\n資深後：「文件？我就是文件。」\n\n最後這個階段的人，\n是公司最重要的資產，\n也是最大的風險。",
+          "editorNote": "傳給那個說「問我就好，我記得」的資深工程師同事，他會笑然後說「對就是這樣」",
+          "variations": [
+            "一旦進入「我就是文件」的階段，這個人請假的那一天，全組的工作效率會下降大約四十個百分點。這是可以估算的。"
+          ]
+        },
+        "en": {
+          "content": "A developer's four life stages with documentation:\n\nFirst year: 'Where's the documentation?'\nOne year in: 'The documentation seems a bit outdated.'\nThree years in: 'The code is the source of truth. Docs are for reference only.'\nSenior level: 'Documentation? I am the documentation.'\n\nThe person in the final stage\nis the company's most valuable asset\nand its largest single point of failure.",
+          "editorNote": "Send to the senior dev who says 'just ask me, I remember' — they'll laugh and say 'yeah, that's accurate'",
+          "variations": [
+            "Once someone reaches 'I am the documentation,' the day they take leave, the team's productivity drops by approximately forty percent. This can be estimated."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-038",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://punbloom.com/programming-jokes/",
+      "sourceNote": "Stack Overflow and copy-paste culture — honest developer confession",
+      "tags": [
+        "Stack Overflow",
+        "除錯",
+        "工程師生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師解決問題的完整流程：\n\n步驟一：自己想。\n步驟二：Google一下。\n步驟三：打開Stack Overflow。\n步驟四：找到一個2015年的答案，完全看不懂，但複製貼上之後可以動。\n步驟五：不問為什麼，繼續做下一個功能。\n\n這套方法有個正式名稱：\n工程師的實用主義。",
+          "editorNote": "工程師社群裡說出來，會引發大規模的沉默點頭，因為這是大家心知肚明的事",
+          "variations": [
+            "步驟四的進階版：答案的留言區有人說「這個方法已經過時了，請看xxx」，然後那個連結是壞的。工程師繼續用那個2015年的解法。"
+          ]
+        },
+        "en": {
+          "content": "A developer's complete problem-solving process:\n\nStep 1: Think about it yourself.\nStep 2: Google it.\nStep 3: Open Stack Overflow.\nStep 4: Find a 2015 answer, understand nothing, copy-paste it, and it works.\nStep 5: Don't ask why. Move on to the next feature.\n\nThis method has an official name:\nDeveloper pragmatism.",
+          "editorNote": "Say this in a dev community — expect a wave of silent nodding because everyone already knows this is exactly what happens",
+          "variations": [
+            "Advanced step four: someone in the comments says 'this is outdated, see xxx' — and the link is broken. The developer continues using the 2015 solution."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-039",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "CSS specificity and !important overuse — frontend developer pain",
+      "tags": [
+        "CSS",
+        "前端",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "CSS !important 的使用者等級：\n\n新手：「!important幫我解決了一切，這東西太好用了。」\n中手：「為什麼我的!important沒有效？」「因為另一個地方也有!important。」\n老手：「我不用!important，我找到根源，從優先級下手。」\n遠端同事下午六點：「先加!important讓它過，明天再說。」\n\n遠端同事下午六點的那個解法，\n通常會在明年的某一天，\n讓未來的工程師花兩個小時困惑。",
+          "editorNote": "前端工程師看到這個會先苦笑，然後默默打開某個css檔案確認一下",
+          "variations": [
+            "CSS的終極哲學：每個人都說不要用!important，但每個人的程式碼裡都有一個。那一個，通常是在下午六點加進去的。"
+          ]
+        },
+        "en": {
+          "content": "CSS !important user tiers:\n\nBeginner: '!important fixed everything. This thing is incredible.'\nIntermediate: 'Why isn't my !important working?' 'Because there's another !important somewhere else.'\nSenior: 'I don't use !important. I find the root cause and work through specificity.'\nRemote colleague at 6pm: 'Just add !important to make it pass. We'll fix it tomorrow.'\n\nThe remote colleague's 6pm solution\nwill, on some day the following year,\ncause a future developer two hours of confusion.",
+          "editorNote": "Frontend developers will give a tired smile, then quietly open a CSS file to check something",
+          "variations": [
+            "The ultimate CSS philosophy: everyone says don't use !important. Everyone's codebase has one. It was added at 6pm."
+          ]
+        }
+      }
     }
   ]
 }

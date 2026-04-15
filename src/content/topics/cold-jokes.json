@@ -658,6 +658,110 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-026",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "動物",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道仙人掌為什麼這麼受歡迎嗎？」\n「為什麼？」\n「因為它不需要你的愛，不需要你記得澆水，也不需要你特別關注——但它就是活得好好的。」\n「……這是在說仙人掌嗎？」\n「是，也可以不是。」",
+          "editorNote": "傳給那個號稱「超好養」的朋友，或是在辦公室角落盆栽旁邊說，效果極佳",
+          "variations": [
+            "仙人掌的人生哲學：存在感不高，但扎人的時候讓人印象深刻。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know why cacti are so popular?\"\n\"Why?\"\n\"Because they don't need your love, don't need you to remember to water them, and don't need any special attention — and they thrive anyway.\"\n\"...Are we still talking about cacti?\"\n\"Yes. Could also be someone you know.\"",
+          "editorNote": "Share next to the office plant, or send to that friend who claims they're 'very low-maintenance'",
+          "variations": [
+            "Cactus life philosophy: low presence, but when they do make an impression, it sticks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-027",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道雨傘最可憐的地方是什麼嗎？\n\n它最被需要的那一天，通常是你忘在家裡的那天。\n\n雨傘的一生，就是在家等你，然後在你出門之後，發現自己不在。",
+          "editorNote": "下雨天說，或是傳給忘記帶傘被淋濕的朋友，他會笑完繼續淋",
+          "variations": [
+            "雨傘的最高境界：被帶出去但沒下雨，然後被遺留在咖啡廳——這叫做犧牲自我，成就別人的空手而歸。"
+          ]
+        },
+        "en": {
+          "content": "Do you know the saddest thing about umbrellas?\n\nThe day they're needed most is usually the day you left them at home.\n\nAn umbrella's whole life: waiting at home, then realizing it's not where it needs to be — after you've already left.",
+          "editorNote": "Say this on a rainy day, or send to the friend who just got soaked — they'll laugh and keep walking",
+          "variations": [
+            "Peak umbrella tragedy: brought out on a sunny day, then forgotten at a coffee shop. A sacrifice for nothing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-028",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道鬧鐘最大的謊言是什麼嗎？」\n「什麼？」\n「上面的數字。它說07:00，但人類聽到的是：再五分鐘。\n然後是另一個再五分鐘。\n七點二十分，鬧鐘已經說了四次真話，但沒有一次被認真對待。」",
+          "editorNote": "傳給那個永遠說明天一定要早起的朋友，他看完會在07:26分傳你一個哭笑表情",
+          "variations": [
+            "鬧鐘的悲哀：它說的永遠是事實，但只有人類決定事實算不算數。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know the biggest lie an alarm clock tells?\"\n\"What?\"\n\"The numbers. It says 07:00, but what humans hear is: five more minutes.\nThen another five.\nBy 7:20, the alarm has told the truth four times — and been ignored every single one.\"",
+          "editorNote": "Send to the friend who always says they'll sleep early 'starting tomorrow' — they'll respond at 7:26am with a crying emoji",
+          "variations": [
+            "The alarm's tragedy: it always tells the truth. Humans just decide whether the truth counts."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-029",
+      "dateAdded": "2026-04-15",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "諧音",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道豆干為什麼特別有韌性嗎？」\n「為什麼？」\n「因為不管被切、被燙、被醃、被炸，牠最後都能好好出現在你面前。\n這就是豆干的精神——被處理了很多次，還是自己。」",
+          "editorNote": "吃鹹水雞或滷味的時候說，對方通常會先笑再繼續夾",
+          "variations": [
+            "豆干語錄：經歷越多，越入味。這可以是食物的道理，也可以是人的道理。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know why firm tofu has such resilience?\"\n\"Why?\"\n\"Because no matter how many times it's sliced, boiled, marinated, or fried, it still shows up at the table as itself.\nThat's the spirit of firm tofu — processed many times, still recognizably itself.\"",
+          "editorNote": "Say this while eating braised snacks or hot pot — they'll laugh, then keep picking up pieces",
+          "variations": [
+            "Firm tofu wisdom: the more it goes through, the more flavor it absorbs. That applies to food. And to people."
+          ]
+        }
+      }
     }
   ]
 }
