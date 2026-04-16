@@ -768,7 +768,7 @@
       "dateAdded": "2026-04-16",
       "sourceUrl": "",
       "sourceNote": "I人/E人梗，重新創作",
-      "tags": ["I人", "MBTI笑話", "日常"],
+      "tags": ["I人", "MBTI", "日常"],
       "i18n": {
         "zh-tw": {
           "content": "I人的浪漫是這樣的：\n\n明明很想傳訊息給你，\n打了三遍，刪了三遍，\n最後傳了一個句號。\n\n你回：「你還好嗎？」\n\nI人心裡：好，只是很難主動。",
@@ -791,7 +791,7 @@
       "dateAdded": "2026-04-16",
       "sourceUrl": "",
       "sourceNote": "I人/E人梗，重新創作",
-      "tags": ["I人", "E人", "MBTI笑話", "社交"],
+      "tags": ["I人", "E人", "MBTI", "社交"],
       "i18n": {
         "zh-tw": {
           "content": "I人最崩潰的一句話：\n「剛好你也在！我順便把大家介紹給你認識吧。」\n\n聽到這句話的I人：\n臉上：微笑。\n心裡：已經在評估逃生路線了。\n\n這叫做社交體力的緊急透支。",
@@ -814,7 +814,7 @@
       "dateAdded": "2026-04-16",
       "sourceUrl": "",
       "sourceNote": "I人電梯困境，重新創作",
-      "tags": ["I人", "MBTI笑話", "日常", "社交"],
+      "tags": ["I人", "MBTI", "日常", "社交"],
       "i18n": {
         "zh-tw": {
           "content": "I人的日常高難度情境：\n電梯門打開，裡面站著一個認識的人。\n\n兩個人都立刻看手機。\n兩個人都知道對方看到自己了。\n都在等對方先開口。\n\n電梯抵達，齊聲說：「你先走，你先走。」\n\n這次互動讓雙方消耗了比爬十層樓更多的精力。",
@@ -828,6 +828,75 @@
           "editorNote": "Send to any introvert — they will forward it to every introvert they know, in total silence",
           "variations": [
             "Introvert's worst nightmare: the elevator is slow and stops on two extra floors. Social battery: zero."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-033",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "企鵝冷靜梗，重新創作",
+      "tags": ["動物", "諧音", "冷靜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼企鵝永遠不緊張？\n\n因為牠隨時都是「最酷」的那個。\n不管對方說什麼，牠都能保持零度的表情。",
+          "editorNote": "傳給那個遇事永遠冷靜、臉不紅心不跳的朋友，讓他知道你在說他",
+          "variations": [
+            "企鵝的人生哲學：天氣越冷，我越自在——外界的壓力對我來說剛剛好。"
+          ]
+        },
+        "en": {
+          "content": "Why is a penguin never nervous?\n\nBecause it's always the coolest one in the room.\nNo matter what anyone says, it maintains zero-degree composure.",
+          "editorNote": "Send to the friend who stays perfectly calm in every crisis — they'll know you mean them",
+          "variations": [
+            "Penguin life philosophy: the colder the environment, the more comfortable I am. Outside pressure suits me just fine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-034",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "水餃諧音梗，重新創作",
+      "tags": ["食物", "諧音", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道水餃為什麼永遠都準備好了嗎？」\n「為什麼？」\n「因為牠裡面什麼都包了，隨時都是『餡』（現）成的。」",
+          "editorNote": "吃水餃或包餃子的時候說，旁邊的人通常會先沉默兩秒，然後說「你怎麼這樣」",
+          "variations": [
+            "湯圓版：湯圓為什麼這麼圓滿？因為它從出生就沒有稜角，凡事都能包容——這叫做先天優勢。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know why dumplings are always ready to go?\"\n\"Why?\"\n\"Because they've got everything stuffed inside already.\nThey come fully loaded — there's nothing left to prepare.\"",
+          "editorNote": "Say this while eating or folding dumplings — expect a two-second pause followed by 'why are you like this'",
+          "variations": [
+            "Rice ball version: why is a mochi always so complete? Because it was born without sharp edges and can accommodate anything inside — that's called a natural advantage."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-035",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "棉被溫暖梗，重新創作",
+      "tags": ["日常", "溫暖", "諧音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道棉被為什麼這麼厲害嗎？」\n「為什麼？」\n「因為不管你今天過得多糟，它永遠張開手等你回來。\n這叫做：無條件的『被（被愛）』。」",
+          "editorNote": "睡前傳給朋友，比任何晚安語錄都更讓人想鑽進棉被，而且說完笑完還是暖的",
+          "variations": [
+            "枕頭版：枕頭從來不評判你，不管你哭著還是笑著靠過去，它都接著——這也是一種無條件的支持。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know what makes a blanket so great?\"\n\"What?\"\n\"No matter how terrible your day was, it's always there with open arms when you come back.\nYou could call it: unconditional cover-age.\"",
+          "editorNote": "Send before sleep — more effective than any goodnight quote for making someone want to dive under the covers, and the warmth lasts past the pun",
+          "variations": [
+            "Pillow version: a pillow never judges you — whether you come to it crying or laughing, it just accepts you. That's also a kind of unconditional support."
           ]
         }
       }
