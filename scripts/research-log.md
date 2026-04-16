@@ -535,8 +535,86 @@
 7. **Update `cold-jokes` with I人/E人 jokes** (CRITICAL — 5 reports pending, must act this cycle)
 8. **Update `absurd-wisdom` with 「接住」+ 「甘阿捏」angle items** (5 reports pending)
 9. **Update `cheesy-pickups` with 「朋朋」+ MBTI pickup lines** (5 reports pending)
-10. Create `witty-comebacks` / 幹話語錄 (Threads #1 globally + 「超派」slang timing)
+10. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done (confirmed 2026-04-16)
 11. Create `graduation-quotes` / 畢業季語錄 (begin early May — content needed by late May)
 12. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
 13. Monitor `animal-memes` / 動物迷因語錄 concept for 1–2 months before committing
 14. Future: `drama-quotes`, `dark-humor`
+
+---
+
+## 2026-04-16 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, **witty-comebacks** (9 total) ✅
+- `witty-comebacks` confirmed created since yesterday's report ✅
+- Mother's Day (May 10) is **24 days away** — sweet-quotes update done (sq-018–sq-022) ✅
+- 勞動節連假 (May 1–3) is **15 days away** — workplace-quotes live and indexed ✅
+- 端午節 (June 19–21) is **64 days away** — content prep window opens late May
+- Persistent backlog (6+ reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items
+
+### New Topic Recommendations
+
+1. **畢業季語錄 / Graduation Season Quotes** (slug: `graduation-quotes`, category: Motivation)
+   - Multiple 2026-labeled resources confirmed active: vibeblessings.com "300+ Graduation Captions for Instagram 2026", shutterfly.com, parade.com; zh-tw sources: pixnet 畢業祝福語精選, tintint.com 畢業金句, mombaby.com.tw "100個畢業祝福話語 2026", Pinkoi 設計誌 "100句畢業祝福語 2026最新"
+   - Taiwan graduation season peaks **June–July 2026** (high school + university ceremonies); search traffic for 畢業語錄 surges sharply in May–June
+   - Dominant 2026 English format: **"In My ___ Era"** (personal, confident, graduation-native on IG). zh-tw equivalent: "畢業 era 正式開啟"、"社畜 era 解鎖中" — a strong bilingual dual-format opportunity
+   - Content angles: (a) 搞笑版 — "終於畢業了，終於可以換個地方不快樂了"、"朋友一生一起走，誰有對象誰是狗"; (b) 感人版 — "告別的不是學校，是那個每天有人等你的早晨"; (c) 英文 IG caption版 — "No cap, I graduated"、"The tassel was worth the hassle"
+   - Bilingual format is especially strong here: graduates actively post both zh-tw and English IG graduation captions; FunTextHub can serve both needs in one page
+   - SEO targets: 畢業語錄, 畢業祝福語, 畢業金句, 畢業祝福句子, graduation captions, funny graduation quotes
+   - **Recommendation: HIGH URGENCY — content must be live by late May for June peak; this is the top new topic to create next**
+
+2. **情侶日常笑話 / Couple Life Jokes** (slug: `couple-jokes`, category: Romance)
+   - Dcard joke board (90萬+ followers) and funny board both active with relationship/couple humor; recurring thread format: "情侶間超好笑的事" and "交往後才發現" situations
+   - Format: situation-based comedy ("交往前 vs 交往後", "情侶OS series") — relatable, shareable on LINE couple group chats
+   - Strong crossover with existing cheesy-pickups and sweet-quotes audiences; would complete the Romance category triangle
+   - Differentiation from sweet-quotes: sweet-quotes = tender romantic expressions; couple-jokes = comedic observations about being in a relationship
+   - SEO targets: 情侶笑話, 戀愛笑話, 交往笑話, 情侶梗, couple jokes
+   - **Recommendation: Medium urgency — evergreen content, broad romantic audience; develop after graduation-quotes**
+
+3. **節日笑話 / Holiday Jokes** (slug: `holiday-jokes`, category: Humor)
+   - 端午節 (June 19–21) content ecosystem fully confirmed: city9.tw published "2026 端午祝福語總整理-幽默諧音梗 x 高級企業賀詞" (30+ creative types); succuland.com.tw updated 2026 端午賀詞 to 75 sentences; memes.tw dedicated tag page active (20 memes); Dcard thread "端午節笑話～關於粽子" (p/229087794) confirmed
+   - Celebrity validation: 田馥甄's "玉琴顧粽" (欲擒故縱) joke widely circulated — confirms 粽 homophone puns resonate with mainstream audiences, not just niche meme communities
+   - Core pun pool: "粽望所歸"、"一見粽情"、"粽情投入"、"包粽萬象"、"粽是有你"
+   - Additional joke formats: 股市/屈原 meta-humor ("接下來的股市直接影響你端午是和家人吃粽子還是和屈原一起")、南粽 vs. 北粽 debate
+   - SEO targets: 端午節笑話, 粽子笑話, 端午節梗, 端午節幽默祝福語, Dragon Boat Festival jokes
+   - **Recommendation: Begin drafting 粽 pun pool now; target publication late May for peak June search traffic**
+
+### Content Trends
+
+- **Graduation "In My Era" Format (2026 Breakout Format)**: "In My ___ Era" is the dominant 2026 graduation IG caption style globally. zh-tw crossover: "社畜 era 解鎖中"、"不知道要幹嘛 era 開啟"、"放棄抵抗 era 正式啟動". This format applies beyond graduation — it maps directly onto FunTextHub's witty-comebacks and absurd-wisdom content with minimal adaptation. Recommend tagging relevant items with "era" for social discovery.
+
+- **Threads 脆文 Algorithm Advantage (Reinforced)**: Taiwan confirmed top 3 globally on Threads with "內容優先" algorithm. Means FunTextHub short quotes (under 100 characters) can get organic reach without followers. Actionable: ensure all topics include ultra-short items optimized for Threads sharing. Cold-jokes and absurd-wisdom items under 50 characters are most Threads-native. This is a free organic distribution channel worth optimizing for.
+
+- **母親節 (May 10, 2026) — 24 DAYS AWAY**: tiffenyflower.com (2026-labeled) and cyberlink.com both active with 2026 Mother's Day content. Humor angles resonating: "感謝媽媽的忍耐與幽默，畢竟我這麼可愛也不好養活"、"媽媽每天罵我還能那麼愛我，簡直神一般的存在"、互動式選項格式 (A/B/C型祝福語) also trending. Sweet-quotes Mother's Day update already done. Ensure LINE keyword triggers (媽媽/阿母/愛你) noted in editorNotes.
+
+- **端午節 2026 Content Warming Up Early**: city9.tw published "2026 端午祝福語" already — confirms content producers building out holiday content 2+ months in advance. FunTextHub holiday-jokes must be live before these rankings solidify or we lose the indexing window.
+
+- **Z-gen Slang Stable (No Major New Terms This Cycle)**: Previous terms remain active: 「朋朋」「接住」「I人/E人」「暈爛」「好解」「尊嘟假嘟」「超派」「要確欸」「觸爆」. No major new viral slang emerged this research cycle. This is the right moment to execute the 6-report backlog on cold-jokes, absurd-wisdom, and cheesy-pickups while these terms are still at peak relevance.
+
+### Existing Topic Updates
+
+- **witty-comebacks (新確認已建立)**: Ensure content uses 2026 slang hooks: 「超派」(sardonic approval), 「要確欸」(challenge/confirmation), 「好解」(kill-the-vibe). "In My ___ Era" format maps naturally onto 幹話 tone. Tag: 幹話語錄, 犀利短句, 搞笑語錄.
+- **cold-jokes (冷笑話)**: I人/E人 joke format **CRITICALLY OVERDUE — 6 reports pending, non-deferrable**. Concrete items: (1) "I人的浪漫是：想傳你一個訊息，打了又刪了，最後只傳了一個句號"; (2) "E人讓I人最崩潰的事：『剛好你也在，我順便介紹你認識大家』"; (3) "I人的痛苦：電梯裡只有你和一個認識的人，兩個人都在看手機". Tag: I人, E人, MBTI笑話.
+- **absurd-wisdom (廢話文學)**: 「接住」angle items still unactioned — 6 reports. Concrete: "如果你總是接住所有人的情緒，記得偶爾也要讓自己落地". Also: "In My 廢話 Era" meta-item format for Threads discoverability.
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI pickup lines still unactioned — 6 reports. Concrete: "你是I人還是E人？因為你進來的瞬間，我的內心OS已經熱場了"、"朋朋，我能不能叫你男女朋友的朋？" These are overdue and should be the next content update.
+- **zodiac-quotes**: Add "era" themed editorNotes — "射手座就是天生的 free era 代言人". Cross-tag with I人/E人 for broader discovery. Verify all 12 signs are represented.
+- **sweet-quotes**: No new content needed — Mother's Day items done. Verify editorNotes on sq-018–sq-022 reference LINE keyword triggers for 母親節 sharing behavior.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done (confirmed 2026-04-16)
+8. **Update `cold-jokes` with I人/E人 jokes** (CRITICAL — 6 reports pending, execute immediately)
+9. **Update `absurd-wisdom` with 「接住」angle items** (6 reports pending)
+10. **Update `cheesy-pickups` with 「朋朋」+ MBTI pickup lines** (6 reports pending)
+11. Create `graduation-quotes` / 畢業季語錄 (HIGH URGENCY — live by late May for June peak)
+12. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
+13. Create `couple-jokes` / 情侶日常笑話 (evergreen, medium urgency; develop after graduation-quotes)
+14. Monitor `animal-memes` / 動物迷因語錄 for 1–2 more months
+15. Future: `drama-quotes`, `dark-humor`
