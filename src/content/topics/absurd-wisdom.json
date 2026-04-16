@@ -713,6 +713,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-027",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學接住情緒觀察，重新創作",
+      "tags": ["廢話文學", "情緒", "人際"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果你一直接住所有人的情緒，\n請記得偶爾也要讓自己落地。\n\n一直在空中接球的人，\n也是從某個地方起跑才有辦法接的。\n\n大部分的人要等到落地才想到這一點。\n但這也是事實。",
+          "editorNote": "傳給那個習慣照顧所有人情緒、卻很少被問「你還好嗎」的人——是廢話，也是一種提醒",
+          "variations": [
+            "接住了很多人，不代表你不需要被接住。這兩件事可以同時為真。"
+          ]
+        },
+        "en": {
+          "content": "If you are always catching other people's emotions,\nremember to let yourself land occasionally.\n\nSomeone who is always in the air catching things\nhad to run from somewhere to get there in the first place.\n\nMost people only realize this after they've already hit the ground.\nBut this is also a fact.",
+          "editorNote": "Send to the person who always takes care of everyone else and is rarely asked 'are you okay?' — technically obvious, genuinely meaningful",
+          "variations": [
+            "Catching many people does not mean you don't need to be caught. Both of these things can be true at the same time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-028",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學喜歡一個人觀察，重新創作",
+      "tags": ["廢話文學", "情感", "人際"],
+      "i18n": {
+        "zh-tw": {
+          "content": "喜歡一個人這件事，\n通常在你已經喜歡上之後，你才會察覺到。\n\n察覺之前，你通常不確定自己有沒有喜歡。\n察覺之後，你會後悔為什麼沒有早點確定。\n\n但在察覺之前，你確實是不確定的。\n這個過程在很多人身上都發生過，目前沒有例外。",
+          "editorNote": "傳給正在「搞不清楚自己什麼心情」的朋友，讓他用廢話文學的角度重新看待自己的感情狀態",
+          "variations": [
+            "當你開始在意對方有沒有傳訊息給你，通常代表你已經在意了。在那之前你以為你沒在意。這兩個階段都是真實的。"
+          ]
+        },
+        "en": {
+          "content": "The experience of liking someone\nis usually only noticed by you after you already like them.\n\nBefore noticing, you are generally unsure.\nAfter noticing, you wonder why it took you so long to figure it out.\n\nBut before that moment, you were genuinely unsure.\nThis process has occurred in many people, with few known exceptions.",
+          "editorNote": "Send to a friend who is 'not sure what they're feeling' — reframes their emotional state through absurd-wisdom logic",
+          "variations": [
+            "When you start checking if they've texted you, you have already started caring. The period before you noticed? You still cared. You just didn't know yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-029",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "廢話文學情緒好轉觀察，重新創作",
+      "tags": ["廢話文學", "心理", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "感覺好一點，通常是在你感覺不好一段時間之後才發生的。\n感覺不好的時候，還沒感覺好一點。\n\n但根據目前的紀錄，感覺不好的狀態通常不是永久的。\n雖然在感覺不好的當下，這個結論不太容易被接受。\n\n以上是目前的觀察結果。",
+          "editorNote": "傳給正在心情不好的朋友，比任何安慰的話都更不令人反感，但本質上說的是同一件事",
+          "variations": [
+            "根據數據顯示，大部分人在心情不好之後，最終都進入了心情比之前稍好的狀態。這個趨勢目前仍然成立。"
+          ]
+        },
+        "en": {
+          "content": "Feeling better usually happens after a period during which you did not feel better.\nWhile you are not yet feeling better, you have not yet felt better.\n\nHowever, based on available records, the state of not feeling well is generally not permanent.\nThis conclusion is admittedly difficult to accept while you are still in that state.\n\nThese are the current findings.",
+          "editorNote": "Send to a friend having a rough time — less intrusive than actual comfort, but says exactly the same thing underneath",
+          "variations": [
+            "Data suggests that most people who were not feeling well eventually entered a state of feeling somewhat better. This trend remains consistent."
+          ]
+        }
+      }
     }
   ]
 }

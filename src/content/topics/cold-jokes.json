@@ -762,6 +762,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-030",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "I人/E人梗，重新創作",
+      "tags": ["I人", "MBTI笑話", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "I人的浪漫是這樣的：\n\n明明很想傳訊息給你，\n打了三遍，刪了三遍，\n最後傳了一個句號。\n\n你回：「你還好嗎？」\n\nI人心裡：好，只是很難主動。",
+          "editorNote": "傳給那個I人朋友，他看了會說「這說的不就是我」，也適合E人看懂身邊I人的表達方式",
+          "variations": [
+            "I人的告白：對話框開了又關，關了又開，最後傳了一個：「今天天氣不錯」——其實已經鼓起了很大勇氣。"
+          ]
+        },
+        "en": {
+          "content": "How an introvert shows they care:\n\nThey really want to text you.\nThey type it out, delete it. Three times.\nFinally they send a single period.\n\nYou reply: \"Are you okay?\"\n\nIntrovert internally: Yes. That period was my bravest act today.",
+          "editorNote": "Send to your introvert friend — they'll say 'this is literally me.' Also useful for extroverts trying to understand the introverts in their life.",
+          "variations": [
+            "Introvert's confession: they opened the chat, closed it, opened it again, then sent: 'Nice weather today.' That was a love letter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-031",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "I人/E人梗，重新創作",
+      "tags": ["I人", "E人", "MBTI笑話", "社交"],
+      "i18n": {
+        "zh-tw": {
+          "content": "I人最崩潰的一句話：\n「剛好你也在！我順便把大家介紹給你認識吧。」\n\n聽到這句話的I人：\n臉上：微笑。\n心裡：已經在評估逃生路線了。\n\n這叫做社交體力的緊急透支。",
+          "editorNote": "傳給E人朋友，讓他理解為什麼I人聚會後需要一個人待著充電",
+          "variations": [
+            "E人進階版：「我叫大家都來，到時候你不用擔心沒話說，我幫你接！」——I人心裡：……謝謝，但我想回家了。"
+          ]
+        },
+        "en": {
+          "content": "The phrase that sends every introvert into quiet panic:\n\"Oh, you're here too! Let me introduce you to everyone.\"\n\nIntrovert's face: smiling.\nIntrovert's mind: silently calculating all possible exit routes.\n\nThis is called a social energy emergency overdraft.",
+          "editorNote": "Share with your extrovert friend who still doesn't understand why introverts need 'recharge time' after gatherings",
+          "variations": [
+            "Advanced extrovert move: 'I invited everyone — don't worry, I'll carry the conversation for you!' Introvert: ...I need to go home now."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-032",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "I人電梯困境，重新創作",
+      "tags": ["I人", "MBTI笑話", "日常", "社交"],
+      "i18n": {
+        "zh-tw": {
+          "content": "I人的日常高難度情境：\n電梯門打開，裡面站著一個認識的人。\n\n兩個人都立刻看手機。\n兩個人都知道對方看到自己了。\n都在等對方先開口。\n\n電梯抵達，齊聲說：「你先走，你先走。」\n\n這次互動讓雙方消耗了比爬十層樓更多的精力。",
+          "editorNote": "傳給任何I人，他會轉傳給所有認識的I人，然後大家沉默地點頭",
+          "variations": [
+            "I人的終極噩夢：搭電梯遇到認識的人，而且電梯很慢，還多停了兩層——社交體力當場歸零。"
+          ]
+        },
+        "en": {
+          "content": "High-difficulty daily situation for introverts:\nThe elevator opens. Someone you know is already inside.\n\nBoth of you immediately look at your phones.\nBoth of you know the other person saw you.\nBoth are waiting for the other to speak first.\n\nDoors open at the floor. In unison: \"After you, after you.\"\n\nThis interaction consumed more energy than climbing ten flights of stairs.",
+          "editorNote": "Send to any introvert — they will forward it to every introvert they know, in total silence",
+          "variations": [
+            "Introvert's worst nightmare: the elevator is slow and stops on two extra floors. Social battery: zero."
+          ]
+        }
+      }
     }
   ]
 }

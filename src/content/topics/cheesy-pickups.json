@@ -768,6 +768,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-030",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "MBTI I人/E人情話，重新創作",
+      "tags": ["MBTI", "I人", "E人", "甜", "互動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是I人還是E人？」\n「E人吧，你怎麼知道要問？」\n「因為你進來的瞬間，\n我的內心OS就從靜音切換成外放了。\n而且到現在還沒關掉。」",
+          "editorNote": "適合初認識的場合試水溫，MBTI話題在台灣Z世代非常流行，用這個開場既有共鳴又帶點甜",
+          "variations": [
+            "I人反向版：「你是E人嗎？因為你讓我願意主動傳訊息——這對我來說幾乎算是奇蹟。」"
+          ]
+        },
+        "en": {
+          "content": "\"Are you an introvert or an extrovert?\"\n\"Extrovert, probably — why do you ask?\"\n\"Because the moment you walked in,\nmy internal monologue switched from silent mode to full speaker.\nAnd I still haven't turned it off.\"",
+          "editorNote": "Great opener for new connections — MBTI is huge with younger Taiwan audiences and this lands as both on-trend and a little sweet",
+          "variations": [
+            "Introvert version: 'Are you an extrovert? Because you made me want to text first — which for me is basically a miracle.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-031",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "朋朋情話，重新創作",
+      "tags": ["朋朋", "甜", "可愛", "互動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「朋朋，我今天可以叫你男女朋友的朋嗎？」\n「什麼意思？」\n「就是先從朋開始，慢慢再多一個字。\n主動權在你。\n\n我等。」",
+          "editorNote": "「朋朋」是2026台灣Z世代流行的親暱稱呼，這句情話輕鬆、可愛，不會太有壓力，很適合曖昧期試探",
+          "variations": [
+            "進階版：「朋朋，我覺得我們可以upgrade一下稱呼。你覺得什麼時候開始叫不一樣的？」"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, can I call you the 'friend' in 'boyfriend' or 'girlfriend' today?\"\n\"What do you mean?\"\n\"Let's just start with 'friend.' We can add the rest later.\nThe decision is yours.\n\nI'll wait.\"",
+          "editorNote": "Casual, cute, low-pressure — perfect for the uncertain flirting phase when you like someone but haven't made it official",
+          "variations": [
+            "Advanced version: 'I think we're ready to upgrade what we call each other. When do you want to start?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-032",
+      "dateAdded": "2026-04-16",
+      "sourceUrl": "",
+      "sourceNote": "I人勇敢主動情話，重新創作",
+      "tags": ["I人", "MBTI", "甜", "真心"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道我是I人嗎？」\n「知道啊。」\n「那你知道，我想主動傳訊息給一個人，\n通常要在心裡考慮很久很久嗎？\n\n所以你能收到我訊息這件事，\n代表你值得我克服自己。」",
+          "editorNote": "I人的告白方式，讓對方知道每一次主動對你來說都有意義——比「我喜歡你」更讓人心動的是「你讓我願意先開口」",
+          "variations": [
+            "E人對I人說：「你每次傳訊息給我，我都知道那不簡單——所以我每一則都很認真看。」"
+          ]
+        },
+        "en": {
+          "content": "\"You know I'm an introvert, right?\"\n\"Yeah.\"\n\"Then you know it usually takes me a long, long time\nto decide to reach out first.\n\nSo the fact that you're getting messages from me?\nMeans you're worth overcoming myself for.\"",
+          "editorNote": "An introvert's perfect confession — instead of 'I like you,' this says 'you make me brave enough to reach out first.' That lands harder.",
+          "variations": [
+            "If you're an extrovert saying this to an introvert: 'Every time you text me first, I know it wasn't easy — so I read every single one carefully.'"
+          ]
+        }
+      }
     }
   ]
 }
