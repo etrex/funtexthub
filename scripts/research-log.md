@@ -615,6 +615,87 @@
 10. **Update `cheesy-pickups` with 「朋朋」+ MBTI pickup lines** (6 reports pending)
 11. Create `graduation-quotes` / 畢業季語錄 (HIGH URGENCY — live by late May for June peak)
 12. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
-13. Create `couple-jokes` / 情侶日常笑話 (evergreen, medium urgency; develop after graduation-quotes)
-14. Monitor `animal-memes` / 動物迷因語錄 for 1–2 more months
-15. Future: `drama-quotes`, `dark-humor`
+13. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done (confirmed 2026-04-17)
+14. Create `couple-jokes` / 情侶日常笑話 (evergreen, medium urgency; develop after graduation-quotes)
+15. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
+16. Monitor `animal-memes` / 動物迷因語錄 for 1–2 more months
+17. Future: `drama-quotes`, `dark-humor`
+
+---
+
+## 2026-04-17 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, **graduation-quotes** (10 total) ✅
+- `graduation-quotes` confirmed created (detected in src/content/topics/) ✅
+- Mother's Day (May 10) is **23 days away** — sweet-quotes update done (sq-018–sq-022) ✅
+- 勞動節連假 (May 1–3) is **14 days away** — workplace-quotes live and indexed ✅
+- 端午節 (June 19–21) is **63 days away** — content prep window opens late May
+- Persistent backlog (7 reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items — **this backlog is now critical**
+
+### New Topic Recommendations
+
+1. **情侶日常笑話 / Couple Life Jokes** (slug: `couple-jokes`, category: Romance)
+   - Dcard joke board (90萬+ followers) confirmed active with relationship/couple humor threads; watermoon333.pixnet.net has a dedicated 2023 compilation still ranking, confirming sustained evergreen demand
+   - Dominant format: situation-based comedy — "交往前 vs 交往後", "情侶OS series" (inner monologue jokes), "只有情侶才懂的事" — highly relatable and shareable on LINE couple group chats
+   - Strong crossover with existing cheesy-pickups and sweet-quotes audiences; completes the Romance category triangle (cheesy-pickups = 追求期, sweet-quotes = 戀愛期, couple-jokes = 交往日常)
+   - Differentiation: sweet-quotes = tender romantic expressions; couple-jokes = comedic observations about being *in* a relationship (power dynamics, habits, arguments, makeup)
+   - Bilingual angle: "relationship memes" category is heavily searched in English; "couple humor quotes" is an evergreen English search
+   - SEO targets: 情侶笑話, 戀愛笑話, 交往笑話, 情侶梗, 情侶日常, couple jokes, relationship humor
+   - **Recommendation: Create next after backlog updates — the Romance category is underserved with only tender/pickup content, no comedic relationship content**
+
+2. **地獄笑話 / Dark Humor Jokes** (slug: `dark-humor`, category: Humor)
+   - Today's search confirmed continued SEO presence: multiple 2026-labeled Pixnet blogs explicitly use "地獄笑話大全" and "地獄笑話" as primary titles — confirming this is an active search category, not just an incidental label
+   - natasha790708.pixnet.net blog title explicitly: "2026最新幽默笑話｜白癡短笑話、超好笑笑話、…地獄笑話大全" — direct evidence of search demand
+   - Taiwan humor culture distinguishes "冷笑話" (pun-based deadpan) from "地獄笑話" (dark unexpected twist) — both categories exist and are searched separately
+   - FunTextHub currently serves cold-jokes but has no entry point for users searching 地獄笑話; this is a traffic gap
+   - Risk: requires careful curation to avoid offensive content targeting protected groups; recommend starting with 10–15 absurdist-dark rather than mean-spirited items
+   - SEO targets: 地獄笑話, 黑色幽默笑話, 大人笑話, 成人笑話, dark humor jokes
+   - **Recommendation: Upgrade from "future" to "monitor then create" — evidence now shows this is an active search category competing with cold-jokes for the same audience**
+
+3. **大甲媽祖遶境季節限定 / Mazu Pilgrimage Seasonal Jokes** (timely opportunity, NOT a standalone topic)
+   - TODAY (April 17) is the start of 2026大甲媽祖遶境 (9天8夜, runs through April 26) — Taiwan's largest religious event, generating massive social media traffic
+   - Yahoo News confirmed: 4/17起駕; 遠見雜誌, 商周, 可樂旅遊 all published comprehensive guides — confirming top-of-mind status for millions of Taiwanese
+   - Joke opportunity: "媽祖遶境" generates cross-genre humor — pilgrimage endurance jokes, "求媽祖幫我脫單" (romantic wishful jokes), "跟媽祖走9天反而比平常更多步數" lifestyle jokes
+   - **Recommendation: NOT a standalone topic (too seasonal and niche), but add 1–2 timely cold-jokes or absurd-wisdom items tagged "媽祖遶境" for this week's search traffic. Window: April 17–26 ONLY**
+
+### Content Trends
+
+- **大甲媽祖遶境 (LIVE NOW — April 17–26)**: This is Taiwan's top trending cultural event starting today. Search traffic for 大甲媽祖, 媽祖遶境, 鎮瀾宮 will be at annual peak for the next 9 days. A timely cold-joke or absurd-wisdom item referencing the pilgrimage (without being disrespectful) could capture this traffic spike. Example: "跟著媽祖走9天8夜，回來打開計步器才知道，我終於達成健身目標了" (absurd-wisdom format). Window closes April 26.
+
+- **勞動節連假 (May 1–3) — FINAL 14 DAYS**: memes.tw confirmed active 上班族 tag (20 memes) and 上班 tag (20 memes). Instagram @memeweloveyou (社畜迷因) confirmed active account. PageCup published "27張社畜VS慣老闆爆笑梗圖" — confirms ecosystem is active. PopDaily has "15張開工社畜厭世梗圖". workplace-quotes is well-positioned for this window. No new content action needed — SEO and tags are the focus.
+
+- **2026 台灣全年不補班 (Structural Content Hook)**: 2026 calendar confirmed as 全年不補班 (no make-up workdays), 9 連假, 120 休假日 — this is a uniquely positive workplace year that has viral meme potential. "2026年居然全年不補班" is a shareable fact that connects directly to workplace-quotes content. Consider adding this context to workplace-quotes editorNotes as a "sharing moment" hook.
+
+- **台灣 LINE 用戶 2026**: LINE confirmed as #1 platform with 22M MAU (94% of population). Mobile-first consumption confirmed. This means FunTextHub content must be optimized for LINE forwarding — short items (under 100 characters) perform best. Content over 200 characters gets truncated in LINE messages. This structural insight should guide future item length across all topics.
+
+- **廢話文學 Threads 2026 Live Example Confirmed**: A real Threads post from 2026 was found showing 廢話文學 format in action (restaurant couple scene: "妳怎麼知道我點這個！" → "因為我不是點這個。") — this confirms the format is still organically generated by users, not just curated. The absurd-wisdom topic is well-timed; format has not peaked.
+
+- **短影音超越靜態貼文 (2026 Platform Shift)**: DataReportal confirms short-form video has overtaken static posts as the top media format consumed in Taiwan. TikTok Taiwan potential reach grew +12.9% between end-2024 and late 2025. Implication for FunTextHub: while the site is text-based, future consideration should be given to creating "quote card" shareable image versions of top items that function as Reels/TikTok starters.
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 joke format **CRITICALLY OVERDUE — 7 reports pending, must execute in next content session**. Concrete items remain unchanged: (1) "I人的浪漫是：想傳你一個訊息，打了又刪了，最後只傳了一個句號"; (2) "E人讓I人最崩潰的事：『剛好你也在，我順便介紹你認識大家』"; (3) "I人的電梯噩夢：和認識的人一起進電梯，兩個人都在看手機". ALSO: Add a timely 媽祖遶境 cold-joke while the pilgrimage is live this week.
+- **absurd-wisdom (廢話文學)**: 「接住」angle items **still unactioned — 7 reports**. 廢話文學 format confirmed still organically generated on Threads — timing is good. Concrete item: "如果你總是接住所有人的情緒，記得偶爾也要讓自己落地". ALSO: 媽祖遶境 absurd-wisdom item: "跟著媽祖走9天8夜，原來我的健康問題不是缺乏運動，是缺乏信仰".
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI pickup lines **still unactioned — 7 reports, same as above**. Non-deferrable. Concrete items: "你是I人還是E人？因為你進來的瞬間，我的內心OS已經熱場了"、"朋朋，我能不能叫你男女朋友的朋？"
+- **workplace-quotes (職場語錄)**: Add "2026全年不補班" as an editorNote hook on relevant items. This real-world fact makes workplace humor extra shareable this year. Tag: 上班族限定, 社畜語錄, 勞動節.
+- **graduation-quotes (畢業季語錄, newly confirmed)**: Verify all three content angles are represented: (1) 搞笑版, (2) 感人版, (3) 英文IG caption版 — especially the "In My ___ Era" bilingual format. Ensure items are tagged: 畢業語錄, 畢業祝福語, graduation captions, funny graduation quotes.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done
+8. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done (confirmed 2026-04-17)
+9. **Update `cold-jokes` with I人/E人 jokes + 媽祖遶境 timely item** (CRITICAL — 7 reports pending; 媽祖 window closes April 26)
+10. **Update `absurd-wisdom` with 「接住」items + 媽祖遶境 item** (7 reports pending; same April 26 window)
+11. **Update `cheesy-pickups` with 「朋朋」+ MBTI pickup lines** (7 reports pending)
+12. Create `couple-jokes` / 情侶日常笑話 (next new topic — completes Romance category triangle)
+13. Create `holiday-jokes` for 端午節 (June 19–21) — content prep window: late May
+14. Upgrade `dark-humor` from "future" to active pipeline (SEO evidence now confirmed)
+15. Monitor `animal-memes` / 動物迷因語錄 for 1 more month
+16. Future: `drama-quotes`
