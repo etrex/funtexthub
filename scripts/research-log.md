@@ -699,3 +699,86 @@
 14. Upgrade `dark-humor` from "future" to active pipeline (SEO evidence now confirmed)
 15. Monitor `animal-memes` / 動物迷因語錄 for 1 more month
 16. Future: `drama-quotes`
+
+---
+
+## 2026-04-18 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, graduation-quotes, **couple-jokes** (11 total) ✅
+- `couple-jokes` confirmed created (detected in src/content/topics/, dated 2026-04-17) ✅
+- Mother's Day (May 10) is **22 days away** — sweet-quotes update done (sq-018–sq-022) ✅
+- 勞動節連假 (May 1–3) is **13 days away** — workplace-quotes live and indexed ✅
+- 大甲媽祖遶境 is **LIVE NOW (April 17–26)** — 8 days remaining in traffic window
+- 端午節 (June 19–21) is **62 days away** — content prep window opens late May
+- Persistent backlog (8 reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items — **critical and worsening**
+
+### New Topic Recommendations
+
+1. **地獄笑話 / Dark Humor Jokes** (slug: `dark-humor`, category: Humor)
+   - SEO confirmed active: natasha790708.pixnet.net (2026-labeled) uses "地獄笑話大全" as a primary page title; bamboo333.pixnet.net Pixnet blog also clusters 地獄笑話 with 冷笑話 as co-equal search categories — proves users search this term independently from 冷笑話
+   - Dedicated Instagram @hell_meme_ig exists for this niche, confirming a real sustained audience
+   - Taiwan humor culture distinction is clear: 冷笑話 = pun/deadpan, 地獄笑話 = unexpected dark twist — these are separate audiences and separate keyword clusters
+   - FunTextHub has no landing point for users searching 地獄笑話; this is a direct traffic gap from a user segment already visiting cold-jokes
+   - Safe approach: focus on absurdist-dark (unexpected twist, irony) rather than offensive (targeting groups); 10–15 well-curated launch items is the right size
+   - SEO targets: 地獄笑話, 黑色幽默笑話, 地獄梗, 後勁很強笑話, dark humor jokes
+   - **Recommendation: Create next after couple-jokes is confirmed stable — highest ROI on SEO gap; upgrades from "monitor" to "create" status**
+
+2. **節日笑話 / Holiday Jokes** (slug: `holiday-jokes`, category: Humor)
+   - 端午節 (June 19–21, 2026) content ecosystem fully active: succuland.com.tw updated to 2026 version (75 sentences), memes.tw 端午節 tag page has 20 memes, Dcard thread p/229087794 confirmed live, celebrity validation from 田馥甄's "玉琴顧粽" (欲擒故縱) joke widely circulated
+   - Core 粽 homophone pun pool confirmed rich and mainstream: "粽望所歸", "一見粽情", "粽情投入", "包粽萬象", "粽是有你"; also: "薪水粽是上漲，幹活粽是不忙" multi-substitution format
+   - Additional joke angle: 粽 vs. 包子 character dialogue format trending on Pixnet (e.g., "我卸了妝一樣光鮮照人，不像你一張嘴就露餡")
+   - Content prep window: late May 2026; must be live before June 10 to capture indexing window before peak traffic
+   - SEO targets: 端午節笑話, 粽子笑話, 端午節梗, 端午節幽默祝福語, Dragon Boat Festival jokes
+   - **Recommendation: Begin building 粽 pun pool now; target publication May 25 for maximum indexing before June 19 peak**
+
+3. **台劇語錄 / Taiwanese Drama Quotes** (slug: `drama-quotes`, category: Romance)
+   - 2026 confirms active zh-tw drama content: dream.bhuntr.com published "2026台劇必看清單15部" — key titles: 《何百芮的地獄戀曲》(black comedy), 《凶宅專賣店》, 《百萬人推理》; new dramas generate fresh iconic quotes that fans actively search
+   - The black comedy drama trend (地獄戀曲) creates a crossover opportunity with dark-humor and couple-jokes topics
+   - Differentiation angle: FunTextHub should focus on timeless emotional/funny lines rather than plot-specific quotes, allowing content to stay relevant beyond a show's run
+   - Bilingual potential: fans search for English subtitle translations of iconic zh-tw drama lines
+   - SEO targets: 台劇語錄, 台劇金句, 台劇經典台詞, 偶像劇語錄
+   - **Recommendation: Keep in active pipeline; 2026 台劇 slate is strong enough to justify creation in May–June**
+
+### Content Trends
+
+- **大甲媽祖遶境 (LIVE NOW — April 17–26, 8 days remaining)**: Confirmed as Taiwan's #1 trending cultural topic this week across major news outlets (遠見, 商周, 可樂旅遊, Yahoo News). Search traffic for 大甲媽祖, 媽祖遶境, 鎮瀾宮 is at annual peak. No direct meme content found in search results, but the event's dominance in news confirms general awareness. Timely cold-joke and absurd-wisdom items should still be added this week; window closes April 26. Respectful approach: focus on pilgrimage culture humor (endurance, step counts, 求簽), not religious mockery.
+
+- **勞動節連假 (May 1–3) — 13 DAYS AWAY**: memes.tw confirmed 20 memes each for 勞動節, 上班, 上班族, 職場, and 厭世上班族 tags — the ecosystem is rich and active. PageCup "27張社畜VS慣老闆爆笑梗圖" and TEEPR "30張上班爆笑OS" also confirmed active. workplace-quotes topic is live and well-positioned. 2026全年不補班 remains a strong shareability hook — this real-world fact should be woven into workplace-quotes editorNotes.
+
+- **Z-gen Slang Stability Confirmed**: QuickSeek data from bnext.com.tw confirms: 「朋朋」(356,929 Threads/IG mentions, #1), 「接住」(284,309 mentions, #2), 「I人/E人」(266,587 mentions, #3). These terms remain at peak relevance — the backlog items targeting these are still highly timely and should be executed immediately.
+
+- **端午節 2026 Content Calendar**: succuland.com.tw already updated their 2026 端午 content. This confirms other content producers are building out holiday content now. FunTextHub must be in the indexing race — holiday-jokes needs to be live by May 25 at the latest to compete.
+
+- **台劇 2026 Slate Active**: 15-drama "must-watch" list published confirms an active drama-viewing audience in Taiwan in 2026. Black comedy (地獄戀曲) and crime drama crossovers suggest broader content appetite that extends into dark-humor and witty-comebacks territory.
+
+- **Dcard Joke Board Ecosystem**: Dcard 笑話板 and 冷笑話 topic pages remain active; beauty321.com confirms 60+ 土味情話 entries trending from Dcard/PTT sourcing. couple-jokes and cheesy-pickups are well-aligned with this audience.
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 joke format **CRITICALLY OVERDUE — 8 reports pending**. Window is closing — these slang terms will peak and fade. Execute in next content session. ALSO: Add 媽祖遶境 timely joke before April 26. Suggested: "跟著媽祖走9天8夜，回來看計步器才發現，我終於完成了健身目標" (absurd-wisdom crossover tone also works here).
+- **absurd-wisdom (廢話文學)**: 「接住」items **still unactioned — 8 reports**. Also: 媽祖遶境 absurd-wisdom item window closing April 26: "跟著媽祖走9天，原來我的問題不是缺乏運動，是缺乏信仰". Execute immediately.
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI pickup lines **still unactioned — 8 reports**. These are directly validated by QuickSeek data (top 3 trending terms). Non-deferrable. Items: "你是I人還是E人？因為你進來的瞬間，我的內心OS已經熱場了"; "朋朋，我能不能叫你男女朋友的朋？"
+- **couple-jokes (newly confirmed)**: Verify content represents all three main joke formats: (1) 吃什麼困境 (dinner debate), (2) 冷戰破冰 (silent treatment), (3) 日常甜蜜 (everyday sweet moments). Ensure zh-tw tone uses natural 台灣用語, not mainland-flavored expressions. Tag: 情侶日常, 交往, 戀愛笑話.
+- **workplace-quotes (職場語錄)**: 勞動節 is 13 days away — ensure "上班族限定", "社畜語錄", "勞動節" tags are applied and content is indexed. Add "2026全年不補班" context to relevant item editorNotes as a shareability hook.
+- **graduation-quotes (畢業季語錄)**: Content is live. Monitor search traffic growth as Taiwan graduation season (June–July) approaches. Ensure "In My ___ Era" bilingual format and "funny graduation captions" English tags are present for international search capture.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done
+8. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done
+9. ~~Create `couple-jokes` / 情侶日常笑話~~ ✅ Done (confirmed 2026-04-18)
+10. **Update `cold-jokes` with I人/E人 jokes + 媽祖遶境 item** (CRITICAL — 8 reports; 媽祖 window closes April 26)
+11. **Update `absurd-wisdom` with 「接住」items + 媽祖遶境 item** (8 reports; same April 26 window)
+12. **Update `cheesy-pickups` with 「朋朋」+ MBTI pickup lines** (8 reports; peak slang relevance now)
+13. Create `dark-humor` / 地獄笑話 (UPGRADED — confirmed SEO gap; create after backlog clears)
+14. Create `holiday-jokes` for 端午節 — target live by May 25 (critical indexing deadline)
+15. Create `drama-quotes` / 台劇語錄 (active 2026 台劇 slate confirms timing; create May–June)
+16. Monitor `animal-memes` / 動物迷因語錄 for 1 more month before committing
+
