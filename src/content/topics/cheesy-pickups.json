@@ -837,6 +837,190 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-033",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "",
+      "sourceNote": "旅遊等待情話，重新創作",
+      "tags": ["旅遊", "甜", "等待"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道你讓我想到什麼嗎？」\n「什麼？」\n「一個我沒有去過但一直很想去的地方——不是因為我不敢去，是因為我一直在等一個可以一起去的人。」",
+          "editorNote": "規劃旅遊的時候說，或是傳給你一直想約出去玩的人，讓他知道你一直在等他",
+          "variations": [
+            "你是那種讓我想買機票的人——不是因為目的地，是因為你。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know what you remind me of?\"\n\"What?\"\n\"A place I've always wanted to go but never been — not because I was afraid to go alone, but because I was waiting for the right person to go with.\"",
+          "editorNote": "Say this while planning a trip, or send to someone you've been wanting to invite out — let them know they're the reason you've been waiting",
+          "variations": [
+            "You're the kind of person that makes me want to buy a plane ticket — not for the destination, but for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-034",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "",
+      "sourceNote": "被你說話迷住的情話，重新創作",
+      "tags": ["甜", "互動", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有沒有發現，跟你說話的時候，我完全想不起來本來要說什麼？」\n「什麼意思？」\n「我本來有話說的。然後你說話了。然後我就只想聽你說了。本來要說的那件事，大概不重要了。」",
+          "editorNote": "適合在兩個人對話的過程中突然說，讓對方愣一下，然後笑出來",
+          "variations": [
+            "你說話的時候，我沒辦法想其他事情。這不是分心，這是你佔據了全部。"
+          ]
+        },
+        "en": {
+          "content": "\"Have you noticed that whenever I'm talking to you, I completely forget what I was going to say?\"\n\"What do you mean?\"\n\"I had something to say. Then you started talking. And I just wanted to keep listening.\nWhatever I was going to say probably wasn't that important anyway.\"",
+          "editorNote": "Say this mid-conversation — let them pause, then smile",
+          "variations": [
+            "When you talk, I can't think about anything else. That's not distraction. That's you taking up the whole space."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-035",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "",
+      "sourceNote": "引力情話理科版，重新創作",
+      "tags": ["科學", "甜", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道引力是怎麼運作的嗎？」\n「質量大的東西把其他東西吸引過來？」\n「對，就像你——我沒有辦法解釋為什麼，但每次你出現，我就往你的方向偏過去。\n我想這就是牛頓說的那個力。」",
+          "editorNote": "理科背景的對象聽到這個會先確認引力定義，然後才反應過來是情話——時間差讓它特別有效果",
+          "variations": [
+            "如果我是一個天體，你就是讓我繞著你轉的那個力場。物理上來說，這樣的軌道相當穩定。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know how gravity works?\"\n\"A larger mass pulls other things toward it?\"\n\"Right — exactly like you. I can't explain why, but every time you show up, I drift in your direction.\nI think Newton was describing something like this.\"",
+          "editorNote": "A science-minded person will first verify the physics definition, then slowly realize it's a pickup line — the delay makes it twice as effective",
+          "variations": [
+            "If I were a celestial object, you'd be the gravitational field that keeps me in orbit. Physically speaking, that's quite a stable trajectory."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-036",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "",
+      "sourceNote": "麻薯食物情話，重新創作",
+      "tags": ["食物", "甜", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你喜歡吃什麼口味的麻薯？」\n「芋頭的。你問這個幹嘛？」\n「因為你就是那種——第一口以為普通，但吃完了一直想再吃一個的那種。\n我也不知道為什麼，就是忍不住。」",
+          "editorNote": "在甜點店或吃點心的時候說，語境自然不尷尬，對方多半會先翻白眼然後把麻薯推過來給你",
+          "variations": [
+            "你比任何甜點都更讓人忍不住——甜點吃多了會膩，你不會。"
+          ]
+        },
+        "en": {
+          "content": "\"What flavor mochi do you like?\"\n\"Taro. Why are you asking?\"\n\"Because you're exactly that kind — the kind where the first bite seems ordinary, but once you're done, all you want is another one.\nI'm not sure why. I just can't help it.\"",
+          "editorNote": "Works best at a dessert shop or while eating snacks — natural context, no awkwardness. Expect an eye roll, then the mochi pushed toward you.",
+          "variations": [
+            "You're more addictive than any dessert — sweets eventually feel like too much. You never do."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-037",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.rd.com/list/cheesy-pickup-lines/",
+      "sourceNote": "WiFi connection line，重新改寫為對話體情話",
+      "tags": ["科技", "甜", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道你讓我想到什麼嗎？」\n「什麼？」\n「那種在陌生地方突然找到的強訊號 WiFi——\n完全沒預期到，但連上了就再也不想斷線了。」",
+          "editorNote": "在咖啡廳、圖書館、或任何公共場所使用效果最佳，語境自然，對方聽完通常會先愣一下再笑",
+          "variations": [
+            "你是那種讓我自動連線的 WiFi——我甚至沒有問密碼，就覺得這裡是對的地方。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know what you remind me of?\"\n\"What?\"\n\"That unexpected strong WiFi signal you stumble onto in an unfamiliar place —\nYou never see it coming, but once you're connected, you really don't want to drop the signal.\"",
+          "editorNote": "Works best in a café, library, or any public space — casual setting makes it land naturally; expect a pause, then a smile",
+          "variations": [
+            "You're the WiFi I automatically connect to — I didn't even ask for the password. I just knew this was the right place."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-038",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.theknot.com/content/pick-up-lines",
+      "sourceNote": "library check-out line，重新改寫為更有層次的對話體",
+      "tags": ["日常", "可愛", "互動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有沒有圖書館的借書證？」\n「有啊，怎麼了？」\n「那你應該知道，我現在想用很正式的程序，\n把你借走，帶回家，然後一直續借。」",
+          "editorNote": "圖書館、書店、或是跟愛讀書的人開玩笑的時候用，帶點幽默卻有真心，對方通常忍不住笑",
+          "variations": [
+            "你是那種讓我不想還的館藏——期限到了我也假裝看不到通知。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you have a library card?\"\n\"Yeah, why?\"\n\"Because I'd like to go through all the proper procedures\nto check you out, take you home, and keep renewing indefinitely.\"",
+          "editorNote": "Use at a library, bookstore, or with a bookworm — playful but sincere, hard not to laugh at the bureaucratic framing",
+          "variations": [
+            "You're the kind of book I'd never return — even after the overdue notice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-039",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.doulike.com/blog/pick-up-lines/gym-pick-up-lines-to-break-the-ice-and-lift-some-hearts/",
+      "sourceNote": "gym weak-in-the-knees line，重新改寫為台灣口語情話",
+      "tags": ["運動", "甜", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你今天練什麼部位？」\n「腿。你呢？」\n「我沒有特別練什麼。\n但是每次看到你，腿就自己軟了。\n我想這個效果比深蹲還有效率。」",
+          "editorNote": "健身房或運動場合使用，對方通常會先笑然後假裝嘆氣說「你很無聊耶」，但心情已經變好了",
+          "variations": [
+            "你是我練不完的訓練——不是因為你讓我很累，是因為有你在，我就想一直回來。"
+          ]
+        },
+        "en": {
+          "content": "\"What are you training today?\"\n\"Legs. You?\"\n\"Nothing specific, actually.\nBut every time I see you, my legs just go weak on their own.\nI think that counts as a more efficient workout than squats.\"",
+          "editorNote": "Perfect at the gym or during any workout — expect a laugh and a 'you're ridiculous,' which means it worked",
+          "variations": [
+            "You're the training session I never want to skip — not because it's exhausting, but because you're always worth coming back for."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-040",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.classpop.com/magazine/pick-up-lines",
+      "sourceNote": "alphabet/letter wordplay line，重新改寫為中英文雙版情話",
+      "tags": ["可愛", "甜", "經典"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道注音符號有幾個嗎？」\n「三十七個吧？」\n「對。但如果讓我重新排，我只想留下能拼出你名字的那幾個。\n其他的暫時不需要了。」",
+          "editorNote": "非常台灣在地的土味情話，把「注音符號」換成對方最有共鳴的語言梗，幾乎沒有人聽完不笑的",
+          "variations": [
+            "英文版：「如果讓我重新排字母表，我只想把 U 跟 I 排在一起。其他的順序以後再說。」"
+          ]
+        },
+        "en": {
+          "content": "\"If I could rearrange the whole alphabet,\nI'd only keep the letters that spell your name.\nThe rest can wait their turn.\"",
+          "editorNote": "A fresh spin on the classic letter-rearranging line — skips the setup and goes straight to the sentiment. Works as a text or said out loud.",
+          "variations": [
+            "If I could redesign the alphabet, I'd put U and I next to each other. Everything else can sort itself out."
+          ]
+        }
+      }
     }
   ]
 }

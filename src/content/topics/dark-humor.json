@@ -356,6 +356,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-016",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.rd.com/article/doctor-jokes/",
+      "sourceNote": "靈感來自「醫生說你還有幾個月可活，但帳單先到」的黑色幽默醫療笑話結構，改寫重製",
+      "tags": ["醫療", "金錢", "諷刺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫生嚴肅地說：\n「檢查結果出來了，你大概只剩三個月。」\n\n病患沉默了很久。\n\n「那我能做什麼？」\n\n「活好每一天，放下煩惱，珍惜身邊的人。」\n\n病患點了點頭。\n\n兩個禮拜後，醫療帳單寄到了。\n金額足以讓人再活個五年。\n\n病患打電話給醫院：\n「可以分二十四期嗎？」\n\n客服說：「當然，我們非常彈性。」",
+          "editorNote": "最地獄的部分不是病，是帳單。傳給剛繳完醫療費的朋友，他會笑，然後嘆一口氣——因為那個客服說「非常彈性」的語氣他太熟悉了",
+          "variations": [
+            "病患後來說：「分期付款反而是讓我繼續活著最強的動力。我得活到還完才能走。」"
+          ]
+        },
+        "en": {
+          "content": "The doctor said gravely:\n\"The results are in. You probably have about three months left.\"\n\nThe patient was silent for a long time.\n\n\"What should I do?\"\n\n\"Live each day fully. Let go of worries. Cherish the people around you.\"\n\nThe patient nodded.\n\nTwo weeks later, the medical bill arrived.\nEnough to fund five more years of living.\n\nThe patient called the hospital:\n\"Can I do twenty-four monthly installments?\"\n\nCustomer service: \"Of course. We're very flexible.\"",
+          "editorNote": "The darkest part isn't the diagnosis — it's the bill. Send to a friend who just paid a medical expense; they'll laugh and then sigh, because that cheerful 'very flexible' tone is all too familiar.",
+          "variations": [
+            "The patient later said: \"The installment plan is actually the strongest motivation I have to keep living. I need to survive long enough to pay it off.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-017",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.boredpanda.com/doctor-jokes/",
+      "sourceNote": "靈感來自「阿茲海默症患者的意外好消息」式幽默，重新建構場景與對白",
+      "tags": ["記憶", "老年", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫生說：「我有好消息和壞消息。」\n\n「壞消息是什麼？」\n\n「你有輕微的記憶衰退，\n可能會越來越記不住最近發生的事。」\n\n老張沉默了。\n「那……好消息是？」\n\n「好消息是——\n你也會越來越記不住最近發生的事。」\n\n老張皺眉：「這不是同一件事嗎？」\n\n醫生：「對。\n但你等一下就會忘記我說過壞消息了。」",
+          "editorNote": "說給那個最近壓力很大、腦子塞太多東西的人聽——先笑，然後偷偷希望自己也有一個可以選擇性失憶的功能，只刪除壞的記憶",
+          "variations": [
+            "老張回家後告訴老伴：「醫生說我記性不好。」老伴說：「他上個月就說過了。」老張：「……真的嗎？那至少他的診斷很穩定。」"
+          ]
+        },
+        "en": {
+          "content": "The doctor said: \"I have good news and bad news.\"\n\n\"What's the bad news?\"\n\n\"You have mild memory loss.\nYou'll gradually stop retaining recent events.\"\n\nOld Chang went quiet.\n\"And... the good news?\"\n\n\"The good news is —\nyou'll also gradually stop retaining recent events.\"\n\nOld Chang frowned: \"Isn't that the same thing?\"\n\nDoctor: \"Yes.\nBut in a moment, you'll have forgotten I ever mentioned the bad news.\"",
+          "editorNote": "Tell this to someone who's been overwhelmed and overstuffed with stress — they'll laugh, then quietly wish they had selective memory that could delete the bad parts.",
+          "variations": [
+            "Old Chang went home and told his wife: \"The doctor says my memory is going.\" She said: \"He said the same thing last month.\" Chang: \"...Did he? Well, at least his diagnosis is consistent.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-018",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://parade.com/1295709/marynliles/dark-humor-jokes/",
+      "sourceNote": "靈感來自墓誌銘幽默與臨終遺言諷刺類笑話，場景與人物完全原創",
+      "tags": ["死亡", "墓誌銘", "諷刺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小明生前交代：\n「我的墓碑上，就刻那句我說了一輩子的話。」\n\n家人以為是什麼人生格言，\n或是對家人的感謝。\n\n墓碑刻好，大家站在那裡看。\n\n上面寫著：\n\n「等一下，我快好了。」\n\n沉默了很久。\n\n他大兒子說：「……爸，你現在終於好了嗎？」",
+          "editorNote": "傳給那個做什麼事都說「等一下」、永遠在最後一刻才就緒的人——他會笑到停不下來，然後說「這就是我的墓誌銘沒錯了」",
+          "variations": [
+            "小明的朋友說：「我們等了他六十年了，沒想到連走的時候他也沒忘記說這句話。這才是真正的始終如一。」"
+          ]
+        },
+        "en": {
+          "content": "Before he died, Xiao Ming left instructions:\n\"Just carve the phrase I said my whole life onto my tombstone.\"\n\nThe family assumed it would be a life motto,\nor a message of gratitude to loved ones.\n\nThe stone was finished. Everyone stood there reading it.\n\nIt said:\n\n\"Hold on, I'm almost ready.\"\n\nA long silence.\n\nHis oldest son said: \"...Dad. Are you finally ready now?\"",
+          "editorNote": "Send to the person who says 'hold on, almost done' before everything, always finishing at the last possible moment — they'll laugh until they can't stop, then say 'yeah, that's my epitaph.'",
+          "variations": [
+            "His friend said: \"We waited sixty years for him. Turns out he didn't forget to say it even at the end. That's what you call true consistency.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-019",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://eduyush.com/en-us/blogs/lifestyle/dark-humour-jokes",
+      "sourceNote": "靈感來自「遺願清單拖延」與人生倒數計時幽默，場景全部原創重寫",
+      "tags": ["拖延", "人生遺憾", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "老李退休的時候，\n掏出一張皺巴巴的紙說：\n「這是我的人生清單，\n我終於有時間去完成了。」\n\n兒子接過來一看。\n\n清單上第一條：「整理這張清單。」\n\n老李解釋：「這樣我才知道後面要做什麼。」\n\n兒子往下看。\n\n第二條：「想清楚第三條要寫什麼。」\n\n沉默。\n\n「爸，這張清單你寫了多久了？」\n\n老李想了一下：「大概……三十年？」",
+          "editorNote": "傳給說「等我退休了就要做XXX」的人——最地獄的真相是：人生清單不是缺少時間，是缺少那個「先整理一下清單」的勇氣去正式開始",
+          "variations": [
+            "老李後來說：「其實我知道第一件事是什麼。我只是怕一旦開始做，就代表承認之前沒在做。」——這大概是所有拖延的真正原因。"
+          ]
+        },
+        "en": {
+          "content": "When Old Li retired,\nhe pulled out a crumpled piece of paper and said:\n\"This is my life list.\nI finally have time to work through it.\"\n\nHis son took it and looked.\n\nItem one: \"Organize this list.\"\n\nOld Li explained: \"So I know what comes next.\"\n\nHis son read on.\n\nItem two: \"Figure out what to write for item three.\"\n\nSilence.\n\n\"Dad, how long have you been working on this list?\"\n\nOld Li thought for a moment: \"About... thirty years?\"",
+          "editorNote": "Send to anyone who says 'when I retire, I'll finally do X' — the dark truth is that a life list doesn't need more time. It needs the courage to officially begin, which means admitting you haven't started yet.",
+          "variations": [
+            "Old Li said later: \"I actually know what the first item is. I just didn't want to start — because starting means admitting I hadn't been doing it all along.\" That's probably the real reason behind all procrastination."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-020",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://punspromax.com/dark-humor-jokes/",
+      "sourceNote": "靈感來自「在表演中斷氣的喜劇演員——至少他殺紅了」式黑色幽默，完全改寫成中文場景",
+      "tags": ["喜劇", "死亡", "存在主義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿文說：「如果我有一天是在舞台上表演時走的，\n我覺得那是最完美的結局。」\n\n朋友：「為什麼？」\n\n「因為大家會說：\n『他今晚笑死人了。』\n然後停頓一下——\n然後意識到這句話是字面意思。」\n\n朋友沉默了一秒。\n\n「……你是在認真計劃這個嗎？」\n\n阿文：「不是計劃，是期待。\n人生難得有一個結尾可以讓人回味。」",
+          "editorNote": "說給那個熱愛表演、或是把「讓人笑」當成人生使命的朋友聽——他會笑完，然後認真思考一下，最後說「老實說，這也是我想要的」",
+          "variations": [
+            "另一個版本：阿文說，最怕的其實不是那樣走，是走了之後，台下的人還在等他繼續講下一個笑話——因為他的表情看起來就是在蓄力。"
+          ]
+        },
+        "en": {
+          "content": "A-Wen said: \"If I ever go while performing on stage,\nI think that would be the perfect ending.\"\n\nFriend: \"Why?\"\n\n\"Because everyone will say:\n'He killed it tonight.'\nAnd then pause —\nand then realize that sentence is literally true.\"\n\nFriend was quiet for a second.\n\n\"...Are you actually planning this?\"\n\nA-Wen: \"Not planning. Hoping.\nIt's rare to find an ending in life\nthat people actually remember.\"",
+          "editorNote": "Tell this to the friend who lives for performing, or whose life mission is to make people laugh — they'll laugh first, think quietly for a moment, then say 'honestly, that's the one I'd want too.'",
+          "variations": [
+            "Another version: A-Wen said what he actually feared wasn't going out that way — it was the audience still waiting for the next punchline afterward, because his expression would look exactly like he was building up to something."
+          ]
+        }
+      }
     }
   ]
 }

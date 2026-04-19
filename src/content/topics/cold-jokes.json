@@ -923,6 +923,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-037",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "改寫自「what do you call a cold dog」經典冷笑話",
+      "tags": ["動物", "諧音", "食物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「冬天把小狗放在戶外，牠會變成什麼？」\n「不知道，什麼？」\n「熱狗。」\n「……為什麼？」\n「因為牠一直在發抖，根本沒辦法冷靜下來——還不是熱的？」",
+          "editorNote": "諧音加上荒謬邏輯的組合，適合在朋友說「說個笑話」的時候祭出，對方通常會先沉默再噗哧",
+          "variations": [
+            "冬天把貓咪放在戶外牠會變成什麼？還是貓咪——因為牠不管你說什麼，都不會理你的。"
+          ]
+        },
+        "en": {
+          "content": "\"What do you call a dog left outside in winter?\"\n\"I don't know, what?\"\n\"A hot dog.\"\n\"...Why?\"\n\"Because it won't stop shivering — clearly not a cool customer.\"",
+          "editorNote": "Deadpan delivery is key — pause before the punchline for maximum groan",
+          "variations": [
+            "What do you call a cat left outside in winter? Still a cat — it refuses to acknowledge the question."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-038",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://dadblog.co.uk/91-of-the-best-worst-dad-jokes-youll-ever-hear/",
+      "sourceNote": "改寫自隱形墨水住院梗",
+      "tags": ["邏輯", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿明不小心喝了一瓶隱形墨水。\n\n家人趕快帶他去急診。\n\n護理師問：「病患在哪裡？」\n\n家人：「……這就是問題所在。」",
+          "editorNote": "說完要配上一臉嚴肅，讓對方先想一秒鐘，反應過來之後笑起來的那個時間差是精華",
+          "variations": [
+            "阿明喝了隱形墨水之後去照鏡子：鏡子裡什麼都沒有。他嚇了一跳——原來他也找不到自己了。"
+          ]
+        },
+        "en": {
+          "content": "Ben accidentally drank a bottle of invisible ink.\n\nHis family rushed him to the emergency room.\n\nNurse: \"Where's the patient?\"\n\nFamily: \"...That's exactly the problem.\"",
+          "editorNote": "Say it with a completely straight face — the time gap between delivery and reaction is where all the comedy lives",
+          "variations": [
+            "Ben checked the mirror after drinking the invisible ink: nothing. He panicked — turns out even he couldn't find himself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-039",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "改寫自「someone glued my cards」撲克牌梗",
+      "tags": ["邏輯", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小傑回家發現有人把他整副撲克牌黏在一起了。\n\n他站在那裡想了很久。\n\n「這種事，我真的不知道該怎麼處理。」",
+          "editorNote": "說完停頓兩秒，讓對方反應「處理」這個雙關——撲克牌術語的「發牌/處理」跟「應對這件事」撞在一起",
+          "variations": [
+            "有人把他的魔術方塊每一面都塗成同一個顏色——他說：「這算是解開了嗎？我分不清楚。」"
+          ]
+        },
+        "en": {
+          "content": "Jake came home to find someone had glued his entire deck of cards together.\n\nHe stood there for a long moment.\n\n\"I honestly don't know how to deal with this.\"",
+          "editorNote": "Pause after the punchline — let the listener catch the double meaning of 'deal' (handle the situation / deal cards) on their own",
+          "variations": [
+            "Someone painted every side of his Rubik's Cube the same color. He stared at it: 'Is it solved? I genuinely cannot tell.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-040",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "改寫自長頸鹿被一眼認出的諧音梗",
+      "tags": ["動物", "諧音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道長頸鹿為什麼永遠贏不了捉迷藏嗎？」\n「為什麼？」\n「因為牠一躲，馬上就被『看穿』了。」\n「……是因為脖子太長嗎？」\n「對，而且牠自己也知道，但就是改不了。」",
+          "editorNote": "適合和小朋友玩的場合，大人小孩都懂，說完還可以接著問「你藏哪裡最好？」引發討論",
+          "variations": [
+            "斑馬也贏不了捉迷藏——因為牠走到哪裡都是最顯眼的那個，條紋藏不住的。"
+          ]
+        },
+        "en": {
+          "content": "\"Why does a giraffe always lose at hide-and-seek?\"\n\"Why?\"\n\"Because no matter where it hides, it's always spotted.\"\n\"...Is that because of the neck?\"\n\"The neck, the spots — everything. It knows. It just can't help it.\"",
+          "editorNote": "Great for kids and adults alike — after the laugh, ask 'where would YOU hide?' to keep the conversation going",
+          "variations": [
+            "A zebra has the same problem — wherever it goes, it's the most visible thing in the room. Stripes don't lie."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-041",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://punstime.com/calendar-puns-and-jokes/",
+      "sourceNote": "改寫自月曆/日期冷笑話",
+      "tags": ["邏輯", "日常", "諧音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道月曆為什麼這麼受歡迎嗎？」\n「為什麼？」\n「因為它的每一天都很『有日期』（有意義）。」\n\n月曆：我每格都站著，哪天輪到我就認真過。\n\n這種人生態度，很多人學不來。",
+          "editorNote": "年初換新月曆的時候說，或是年底回顧時說，兩個時機都能引發共鳴",
+          "variations": [
+            "月曆最悲傷的時刻：十二月底，只剩最後一頁，卻還是要笑著站在那裡等人撕掉它。"
+          ]
+        },
+        "en": {
+          "content": "\"Why is a calendar so popular?\"\n\"Why?\"\n\"Because every single day, it shows up.\"\n\nCalendar: I have a square for every day. When it's my turn, I give it everything.\n\nThat kind of dedication is hard to find.",
+          "editorNote": "Say this when hanging a new calendar at New Year's, or when reflecting at year-end — both moments land perfectly",
+          "variations": [
+            "The saddest moment for a calendar: late December, only one page left, still standing there waiting to be torn off with a smile."
+          ]
+        }
+      }
     }
   ]
 }

@@ -543,6 +543,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-020",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.goodreads.com/quotes/tag/unsolicited-advice",
+      "sourceNote": "無端建議語錄參考，重新創作沒人問你但你很熱心主題",
+      "tags": [
+        "幹話",
+        "人際",
+        "諷刺",
+        "建議"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有一種人，你沒有問他，他已經開始建議你了。\n\n而且建議完之後還會說：\n「我這是為你好。」\n\n好，謝謝你為我好。\n但我當初沒有問，這個細節我記得很清楚。",
+          "editorNote": "傳給那個永遠在提供你沒要求的意見的朋友或親戚，適合節日家族聚會後發洩",
+          "variations": [
+            "沒有人問你，不代表你不能說。但說完之後加一句「我這是為你好」，那個責任就轉移得很不自然。"
+          ]
+        },
+        "en": {
+          "content": "Some people don't wait to be asked.\nThey'll have a full set of recommendations ready before you've finished your sentence.\n\nAnd after delivering all of it, they'll add:\n'I'm only saying this because I care.'\n\nAppreciated. But I didn't ask.\nThat part I remember clearly.",
+          "editorNote": "Send after a family gathering or to the friend who always has input on your life choices — cathartic and precise",
+          "variations": [
+            "Giving unsolicited advice isn't wrong on its own. Ending it with 'I'm doing this for you' is where the accountability quietly disappears."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-021",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://pairedlife.com/single-life/Funny-and-Clever-Answers-to-Why-Are-You-Still-Single",
+      "sourceNote": "單身幹話語錄參考，重新創作「你怎麼還沒交往」主題",
+      "tags": [
+        "幹話",
+        "感情",
+        "人際",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這麼好，怎麼還沒交往？」\n\n謝謝你覺得我好。\n但如果好就一定有人追，\n那好的產品怎麼也會有庫存？\n\n市場有它的邏輯，\n不是我的問題。",
+          "editorNote": "被問「怎麼還單身」時的萬用回應，把問題直接轉成市場分析，讓對方沒有辦法繼續追問",
+          "variations": [
+            "單身不是因為條件不好，是因為我對「已售出」這個狀態的要求比較高，目前選品中。"
+          ]
+        },
+        "en": {
+          "content": "'You're so great — why are you still single?'\n\nThank you for thinking so.\nBut if being great guaranteed someone would come along,\nwhy do good products still sit on shelves?\n\nThe market has its own logic.\nThis is not a personal failure.",
+          "editorNote": "The go-to response when someone asks why you're still single — reframes the question as market analysis and leaves no obvious follow-up",
+          "variations": [
+            "Being single isn't a quality issue. It's that my requirements for the 'sold' status are fairly specific. Currently still browsing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-022",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://roysutton.co.uk/sarcastic-comebacks/",
+      "sourceNote": "幹話語錄參考，重新創作走出舒適圈主題",
+      "tags": [
+        "幹話",
+        "成長",
+        "心態",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "要走出舒適圈，才能成長。\n\n我理解。\n但我花了好幾年才把舒適圈建好，\n你叫我走出去，\n\n至少讓我把門鎖上再出發，\n不然我回來的時候可能有人住進來了。",
+          "editorNote": "有人叫你「要突破自己」的時候，這段話可以讓你在心裡默默說完，表情保持平靜",
+          "variations": [
+            "舒適圈不是牢籠，是你努力維護的空間。偶爾出去看看沒問題，但沒有義務永遠待在外面。"
+          ]
+        },
+        "en": {
+          "content": "You need to step outside your comfort zone to grow.\n\nFair point.\nBut it took me years to build that comfort zone.\nIf I'm stepping out,\n\nat least let me lock the door first.\nOtherwise someone might move in while I'm gone.",
+          "editorNote": "Recite internally when someone tells you to 'push your boundaries' — keeps your expression neutral while your inner monologue finishes its thought",
+          "variations": [
+            "A comfort zone isn't a cage — it's a space you worked to create. Visiting outside it occasionally is fine. Living outside it permanently was never part of the deal."
+          ]
+        }
+      }
     }
   ]
 }

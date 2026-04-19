@@ -1039,6 +1039,190 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-040",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "PM模糊需求 vs 工程師字面理解 — 重新創作",
+      "tags": ["PM", "需求", "溝通", "工程師思維"],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM說：「這個功能我需要用到一個彈窗。」\n工程師把彈窗做出來了。\nPM說：「我的意思是有彈窗的效果，但不是彈窗。」\n工程師：「……彈窗的效果但不是彈窗，是什麼？」\nPM說：「就是那種感覺。」\n工程師說：「好，我需要更多時間。」",
+          "editorNote": "傳給那個每次說「就是那種感覺」的PM，或傳給被這樣說過的工程師朋友，兩邊都能笑",
+          "variations": [
+            "設計師和PM可以說「那種感覺」，工程師的職責是把「那種感覺」翻譯成有明確像素值的需求規格。這門翻譯課程大學沒有教。"
+          ]
+        },
+        "en": {
+          "content": "PM said: \"I need a popup for this feature.\"\nThe developer built a popup.\nPM said: \"I meant something that feels like a popup, but isn't actually a popup.\"\nDeveloper: \"...Something that feels like a popup but isn't — what is that?\"\nPM: \"Just that vibe.\"\nDeveloper: \"Okay. I'll need more time.\"",
+          "editorNote": "Share with any PM who says 'that vibe,' or with any developer who's received this exact request — both sides will laugh",
+          "variations": [
+            "Designers and PMs can say 'that feeling.' A developer's job is to translate 'that feeling' into a spec with specific pixel values. This translation course was not offered in school."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-041",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "測試文化諷刺 — 重新創作",
+      "tags": ["測試", "工程師日常", "除錯", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師對測試的三種態度：\n\n初階：「我手動點了一遍，應該沒問題。」\n中階：「我寫了單元測試，但上到正式環境才跑壞了。」\n高階：「整合測試、端對端測試，每個環境都驗證過。」\n\n上線後：「用戶在做的那個操作，我們完全沒測到。」",
+          "editorNote": "在上線前後傳給團隊，大家都懂那種「應該沒事了」接著「怎麼壞了」的迴圈",
+          "variations": [
+            "測試的最高境界：你測了所有你能想到的情境，然後用戶找到了一個你沒有想到的。這件事保證發生，只是時間問題。"
+          ]
+        },
+        "en": {
+          "content": "Developer attitudes toward testing:\n\nJunior: \"I clicked through it once manually. Should be fine.\"\nMid: \"I wrote unit tests — it broke in production.\"\nSenior: \"Integration tests, end-to-end tests, verified in every environment.\"\n\nAfter launch: \"The thing the user is doing — we never tested for that.\"",
+          "editorNote": "Share with the team around a release — everyone understands the 'should be fine' to 'why is it broken' cycle",
+          "variations": [
+            "The pinnacle of testing: you covered every scenario you could think of. Then the user found one you didn't. This is guaranteed to happen. Only the timing varies."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-042",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "AI輔助工程師諷刺，重新創作",
+      "tags": ["AI", "工具", "工程師語錄", "現代梗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師問AI：「幫我寫一個判斷奇偶數的函式。」\nAI寫了三十行，包含型別檢查、邊界值處理、詳細錯誤訊息。\n工程師看了三分鐘，把三十行改成一行。\nAI說：「你這樣寫不夠健壯。」\n工程師說：「但輸入一定是整數。」\nAI說：「如果你確定的話。」\n工程師心想：我本來就確定，我問你是為了省時間的。",
+          "editorNote": "傳給任何用過AI寫程式然後花更多時間改AI輸出的工程師，他們會點頭然後說「真的就是這樣」",
+          "variations": [
+            "使用AI的矛盾：它能寫出比你更多的程式碼，但你得花更多時間確認那些程式碼是不是在做你想要的事。效率提升，同時也沒有。"
+          ]
+        },
+        "en": {
+          "content": "Developer asks AI: \"Write me a function that checks if a number is even or odd.\"\nAI writes thirty lines with type validation, boundary handling, and detailed error messages.\nDeveloper reads for three minutes, rewrites it as one line.\nAI: \"Your version isn't robust enough.\"\nDeveloper: \"But the input will always be an integer.\"\nAI: \"If you're certain.\"\nDeveloper, internally: I was certain before I asked you. I asked to save time.",
+          "editorNote": "Send to any developer who's spent more time reviewing AI output than writing the code themselves — they'll nod and say 'this is it exactly'",
+          "variations": [
+            "The AI paradox: it can write more code than you, but you have to spend more time verifying that the code does what you wanted. Efficiency both improved and didn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-043",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "工程師健康提醒諷刺，重新創作",
+      "tags": ["工程師生活", "健康", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師看到「請每隔一小時站起來走動一下」的健康提醒後，嚴格執行：每隔一小時起身，走去廁所，然後立刻坐回來繼續。\n\n他向公司申報：本月步數目標完成率提升百分之四十。",
+          "editorNote": "傳給那個說「我很注重健康」但其實一坐五小時的工程師朋友，他看完會說「這很合理」",
+          "variations": [
+            "進階版：喝水。喝水能迫使你每小時起身去廁所，自動實現健康提醒。工程師稱這個方法為：用側效應解決主要問題。"
+          ]
+        },
+        "en": {
+          "content": "After seeing a reminder that said \"stand up and walk around for a minute every hour,\" a developer implemented it strictly: every hour, stand up, walk to the bathroom, and immediately return to the chair.\n\nThey reported to the company: this month's step goal completion rate improved by forty percent.",
+          "editorNote": "Send to the developer who claims to prioritize health but sits for five hours straight — they'll say 'this is reasonable'",
+          "variations": [
+            "Advanced version: drink water. Water forces you to stand up and visit the bathroom every hour, automatically fulfilling the health reminder. Developers call this method: solving the primary problem with side effects."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-044",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://punjokevault.com/programmer-jokes/",
+      "sourceNote": "Junior vs senior developer mindset — widely circulated format in dev communities",
+      "tags": ["初階工程師", "資深工程師", "工程師語錄", "工程師成長"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初階工程師：「這個解法雖然沒那麼優雅，但可以動。」\n中階工程師：「這個解法太醜了，我要重構成更漂亮的版本。」\n\n——重構完成後，系統壞掉了——\n\n資深工程師看了一眼說：「可以動的程式碼才是好的程式碼。」",
+          "editorNote": "工程師在職涯的不同階段都能在這裡找到自己的影子，適合分享在技術社群或帶新人的場合",
+          "variations": [
+            "補充：資深工程師說「可以動就好」，不是因為他不懂好壞，而是因為他見過太多人把原本能動的東西改壞了。"
+          ]
+        },
+        "en": {
+          "content": "Junior developer: \"This solution isn't pretty, but it works.\"\nMid-level developer: \"This is too ugly. I'm going to refactor it into something elegant.\"\n\n— After refactoring, the system breaks —\n\nSenior developer glances at it and says: \"Code that works is good code.\"",
+          "editorNote": "Developers at every stage of their career will recognize themselves here — great for tech communities or mentoring sessions",
+          "variations": [
+            "Footnote: when a senior dev says 'if it works, it's fine,' it's not because they can't tell good from bad — it's because they've seen too many people break something that was working."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-045",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.zegocloud.com/blog/programming-memes",
+      "sourceNote": "Friday deployment — perennial developer ritual and cautionary meme",
+      "tags": ["部署", "上線", "職場", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "業界不成文規定：不要在週五下午部署。\n\n工程師A：「我快速部署一下，幾分鐘就好。」\n工程師B：「今天是週五下午四點。」\n工程師A：「沒事的，我測試過了。」\n\n——兩小時後——\n\n工程師A還在辦公室，手邊是第三杯咖啡。\n週末就這樣沒了。",
+          "editorNote": "傳給準備在週五部署的同事，讓他三思。如果他還是要部署，傳給他是為了讓他知道後果自負",
+          "variations": [
+            "有一個版本更殘忍：週五部署沒出事，工程師週末很開心。週一早上一來，用戶回來了，問題也回來了。"
+          ]
+        },
+        "en": {
+          "content": "Unwritten industry rule: never deploy on a Friday afternoon.\n\nDeveloper A: \"I'll just do a quick deploy. Five minutes tops.\"\nDeveloper B: \"It's Friday at 4pm.\"\nDeveloper A: \"It'll be fine. I tested it.\"\n\n— Two hours later —\n\nDeveloper A is still in the office, on their third coffee.\nThe weekend is gone.",
+          "editorNote": "Send to a colleague who's about to deploy on a Friday. If they still do it, sending this means you're on record as having warned them",
+          "variations": [
+            "The cruelest version: the Friday deploy goes fine. The developer has a great weekend. Monday morning, users are back — and so are the problems."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-046",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://punbloom.com/programming-jokes/",
+      "sourceNote": "Debugging as detective work — classic reframing widely shared in dev humor",
+      "tags": ["除錯", "工程師思維", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "除錯就像是在偵探故事裡當偵探。\n\n你仔細蒐集線索、分析動機、逐步縮小嫌疑範圍。\n\n最後鎖定兇手，揭開真相。\n\n然後你才發現：\n兇手是你自己。\n三週前。",
+          "editorNote": "在除錯完之後傳給剛修好bug的工程師朋友，他此刻最能理解這句話的重量",
+          "variations": [
+            "進階版：兇手是你，但你當時認為自己在做一個「聰明的優化」，還在commit message裡寫了「elegant solution」。"
+          ]
+        },
+        "en": {
+          "content": "Debugging is like being a detective in a mystery story.\n\nYou gather clues, analyze motives, narrow down the suspects one by one.\n\nFinally you identify the culprit and uncover the truth.\n\nThen you realize:\nthe culprit is you.\nThree weeks ago.",
+          "editorNote": "Send to a developer right after they've fixed a bug — at that moment they understand exactly how this feels",
+          "variations": [
+            "Worse version: the culprit is you, but at the time you thought you were making a clever optimization — and wrote 'elegant solution' in the commit message."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-047",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://punsify.com/programmer-jokes/",
+      "sourceNote": "TypeScript vs JavaScript — type safety humor widely shared among frontend devs",
+      "tags": ["TypeScript", "JavaScript", "前端", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師A：「我最近把專案從JavaScript換成TypeScript了。」\n工程師B：「感覺怎麼樣？」\nA：「好多了。現在程式在執行之前就先告訴我它壞在哪裡了。」\nB：「那你修掉了嗎？」\nA：「沒有。我把那行標成 any，讓它閉嘴。」",
+          "editorNote": "TypeScript使用者看到這裡會先笑，然後沉默——因為他們都做過一樣的事",
+          "variations": [
+            "TypeScript的使用分兩種人：一種人讓型別系統幫他找出所有問題；另一種人花時間讓型別系統閉嘴。兩種人最後都說自己在用TypeScript。"
+          ]
+        },
+        "en": {
+          "content": "Developer A: \"I just migrated my project from JavaScript to TypeScript.\"\nDeveloper B: \"How does it feel?\"\nA: \"Much better. Now the code tells me where it's broken before it even runs.\"\nB: \"Did you fix it?\"\nA: \"No. I marked it as `any` to make it stop complaining.\"",
+          "editorNote": "TypeScript users will laugh first, then go quiet — because they've all done exactly this",
+          "variations": [
+            "TypeScript users fall into two camps: those who let the type system find all their problems, and those who spend time silencing the type system. Both say they're 'using TypeScript.'"
+          ]
+        }
+      }
     }
   ]
 }

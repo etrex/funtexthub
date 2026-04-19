@@ -655,6 +655,190 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-024",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://arielhsu.tw/positive-energy/",
+      "sourceNote": "習慣與微小改變主題，重新創作",
+      "tags": ["勵志", "習慣", "成長", "慢慢來"],
+      "i18n": {
+        "zh-tw": {
+          "content": "不用一次改掉很多事。\n\n改一件，穩定了，再說下一件。\n慢慢換，比什麼都一起改，更容易撐到最後。",
+          "editorNote": "對那些想要「全面改變自己」但每次都堅持三天的人很有用，不說教，只是換個更可執行的角度",
+          "variations": [
+            "一次改一件事，這件事穩了，它就變成你的了。然後再改下一件。這個方法沒有什麼創意，但確實有效。"
+          ]
+        },
+        "en": {
+          "content": "You don't need to fix everything at once.\n\nChange one thing. Let it settle. Then decide what's next.\nGradual shifts stick better than overhauling everything at once.",
+          "editorNote": "Useful for anyone who tries to 'completely reinvent' themselves every few weeks and burns out by day three — not preachy, just a more executable approach",
+          "variations": [
+            "Change one thing. Once it holds, it's yours. Then change the next one. Not a creative method. Just the one that works."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-025",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://cmykhuang.com/positivequotes/",
+      "sourceNote": "選擇與前進主題，重新創作",
+      "tags": ["勵志", "自我接納", "正能量", "行動力"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不需要每天都有狀態，但你可以每天都有選擇。\n\n哪怕那個選擇只是：今天就這樣，明天再說。\n\n這也是一種有意識的前進。",
+          "editorNote": "狀態很差的時候給自己或朋友看，不逼不催，只是提醒選擇本身就是前進的一種形式",
+          "variations": [
+            "不管今天過得怎麼樣，你對今天的反應，是你的。那個選擇就已經是你在前進了。"
+          ]
+        },
+        "en": {
+          "content": "You don't need to be in peak form every day.\nBut you can still make a choice every day.\n\nEven if that choice is: today is enough as it is. Tomorrow is another chance.\n\nThat's still forward movement. It counts.",
+          "editorNote": "For low-energy days — no pressure, no pushing, just a reminder that having any response is already a form of moving forward",
+          "variations": [
+            "No matter how today went, your response to it is yours. That choice alone is already movement."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-026",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://manmandays.com/positive-quotes/",
+      "sourceNote": "路過的人與成長主題，重新創作",
+      "tags": ["勵志", "人際", "成長", "放下"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有些人只是路過你的人生，教了你一件事，然後離開。\n\n不用強留，也不用因為他們離開了，就覺得那段時間白費了。\n\n你帶走的那一件事，是你的了。",
+          "editorNote": "在一段關係或友情結束後傳給自己或朋友，幫助把離開重新框架成給予而不是失去",
+          "variations": [
+            "有時候一段關係的意義不在長度，而在它讓你看到了什麼——那個部分，帶走了，就是永遠的。"
+          ]
+        },
+        "en": {
+          "content": "Some people only pass through your life — they teach you something, then leave.\n\nYou don't need to hold on.\nAnd you don't need to consider that chapter wasted just because it ended.\n\nWhat you took away from it is already yours.",
+          "editorNote": "Send to yourself or a friend after a relationship or friendship ends — reframes the leaving as giving rather than taking",
+          "variations": [
+            "Sometimes the value of a connection isn't in how long it lasted, but in what it made you see. That part — once taken — stays forever."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-027",
+      "dateAdded": "2026-04-18",
+      "sourceUrl": "https://arielhsu.tw/encourage-motto/",
+      "sourceNote": "做中學把握感主題，重新創作",
+      "tags": ["勵志", "行動力", "成長", "勇氣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒有把握不代表不能做。\n\n大多數值得做的事，你在做之前都沒有把握。\n\n把握是做完之後長出來的，不是做之前就有的。",
+          "editorNote": "在行動前給那個「等我有把握了再說」的人看，幫他打破等待完美時機的迴圈",
+          "variations": [
+            "你會在哪個時刻才有把握？通常是做了之後。所以那個時機不是出發點，它是結果。"
+          ]
+        },
+        "en": {
+          "content": "Not being sure doesn't mean you can't do it.\n\nMost things worth doing are things you weren't sure about before you started.\n\nConfidence grows from doing the thing.\nIt doesn't come before.",
+          "editorNote": "For the 'I'll do it when I feel ready' person — breaks the loop of waiting for the perfect moment",
+          "variations": [
+            "When will you feel confident? Usually after doing it. So that confidence isn't the starting point. It's the result."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-028",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.shopify.com/blog/motivational-quotes",
+      "sourceNote": "Inspired by stay-in-your-lane and run-your-own-race themes from Shopify motivational quotes collection",
+      "tags": ["勵志", "比較", "自我", "專注"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人的進度不是你的標準。\n\n你們出發的時間不同，方向不同，\n跑的路也不一樣。\n\n拿別人的進度來衡量自己，\n是一場永遠贏不了的比賽。",
+          "editorNote": "刷到別人又升職、又出書、又創業時特別有感。提醒自己：根本不在同一條賽道，比較從一開始就不成立。",
+          "variations": [
+            "你不是在跑同一場比賽，所以他跑多快，和你要不要加速，根本是兩件事。"
+          ]
+        },
+        "en": {
+          "content": "Other people's timelines aren't your measuring stick.\n\nYou started at different points, heading different directions,\nrunning entirely different races.\n\nUsing their progress to judge yours\nis a competition you're not actually in.",
+          "editorNote": "Best when you're feeling behind after seeing someone else hit a milestone — the comparison was never apples-to-apples to begin with.",
+          "variations": [
+            "You're not in the same race. So how fast they're going has nothing to do with how fast you should be."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-029",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://parade.com/973277/jessicasager/inspirational-quotes/",
+      "sourceNote": "Inspired by imperfect action themes from Parade's 200 inspirational quotes compilation",
+      "tags": ["勵志", "行動力", "完美主義", "開始"],
+      "i18n": {
+        "zh-tw": {
+          "content": "不完美地做，\n比完美地沒做，\n有用太多了。",
+          "editorNote": "給那個一直在等「準備好了」才肯動的人，三個字就能打破等待完美的迴圈，適合傳給拖延中的自己或朋友。",
+          "variations": [
+            "七十分的行動，贏過一百分的計畫。"
+          ]
+        },
+        "en": {
+          "content": "Doing it imperfectly\nis so much more useful\nthan perfectly not doing it.",
+          "editorNote": "Three lines that cut through perfectionism paralysis. Best sent to someone stuck in endless planning mode who just needs to start.",
+          "variations": [
+            "A 70% attempt beats a 100% plan every time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-030",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://medium.com/the-daily-cuppa-grande/inspirational-quotes-for-2026-cf809fe6a541",
+      "sourceNote": "Inspired by emotional resilience and sitting with difficult feelings themes from Medium inspirational quotes for 2026",
+      "tags": ["勵志", "情緒", "療癒", "自我照顧"],
+      "i18n": {
+        "zh-tw": {
+          "content": "難受的時候不需要馬上趕走那個感覺。\n\n有些情緒只是來借住幾天，\n你讓它待著，\n它自己就會走。\n\n強迫它走，它反而留得更久。",
+          "editorNote": "在情緒很重、想要「快點好起來」卻做不到的時候，這句話提醒你允許自己的感受存在，不用急著修好它。",
+          "variations": [
+            "你不需要解決每一種感受，有些感受只需要你不要抵抗它。"
+          ]
+        },
+        "en": {
+          "content": "When you're hurting, you don't have to rush the feeling out.\n\nSome emotions just need a few days to stay.\nLet them. They'll leave on their own.\n\nThe harder you push them out,\nthe longer they tend to linger.",
+          "editorNote": "For when you're fighting yourself to 'feel better faster' — a gentle reminder that allowing the feeling is often what moves it along.",
+          "variations": [
+            "You don't have to fix every emotion. Some just need you to stop resisting them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-031",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://www.smartliving365.com/20-quotes-to-start-2026-in-a-positive-and-optimistic-way/",
+      "sourceNote": "Inspired by non-linear growth and plateau themes from Smart Living 365 positive quotes for 2026",
+      "tags": ["勵志", "成長", "耐心", "堅持"],
+      "i18n": {
+        "zh-tw": {
+          "content": "成長不是每天都看得到的那種。\n\n有時候你努力了很久，\n表面什麼都沒變——\n\n但地基一直在往下扎，\n只是你還沒到開花的那一天。",
+          "editorNote": "在努力卻看不到成果的停滯期最需要這句話，提醒自己地下的功夫也是功夫，不是白費。",
+          "variations": [
+            "竹子在地底長四年，第五年才破土——你現在的努力，可能正是那四年。"
+          ]
+        },
+        "en": {
+          "content": "Growth isn't always the kind you can see every day.\n\nSometimes you put in real effort for a long time\nand nothing looks different on the surface —\n\nbut the foundation is going deeper.\nYou just haven't reached the day it blooms yet.",
+          "editorNote": "For the plateau phase — when you've been grinding and nothing seems to show for it. The invisible work still counts.",
+          "variations": [
+            "Bamboo spends four years growing underground before it breaks the surface. Your current effort might be exactly those four years."
+          ]
+        }
+      }
     }
   ]
 }
