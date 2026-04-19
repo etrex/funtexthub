@@ -1,0 +1,384 @@
+{
+  "slug": "holiday-jokes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "端午節笑話大全",
+      "description": "粽子諧音梗、屈原哲學、龍舟冷知識——端午節最應景的搞笑語錄與節日幽默"
+    },
+    "en": {
+      "title": "Dragon Boat Festival Jokes",
+      "description": "Zongzi puns, Qu Yuan humor, and dragon boat wisecracks to celebrate the season in style"
+    }
+  },
+  "items": [
+    {
+      "id": "hj-001",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://city9.tw/2026-duanwu-blessings",
+      "sourceNote": "粽 homophone pun format from 端午祝福語 compilations; rewritten with original dialogue structure",
+      "tags": ["端午節", "粽子", "諧音梗", "情話", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道端午節我最想說什麼嗎？」\n「什麼？」\n「粽是有你，我的生活才有滋有味。」\n\n對方沉默了三秒。\n\n「你這個人怎麼這麼粽蛋。」",
+          "editorNote": "節日限定甜蜜對話，「粽是有你」=「總是有你」，「粽蛋」=「笨蛋」——適合傳給另一半或暗戀的人，笑中帶甜，對方如果沒有笑可能是你太認真了",
+          "variations": [
+            "單句版：「端午節快樂，粽是有你才幸福。」——適合傳給不熟的朋友，簡單安全不尷尬"
+          ]
+        },
+        "en": {
+          "content": "\"Know what I want to say most this Dragon Boat Festival?\"\n\"What?\"\n\"Zong-ways and always, life is better with you in it.\"\n\nThree seconds of silence.\n\n\"You're such a little dumpling.\"",
+          "editorNote": "Sweet and punny holiday exchange — 'zong-ways' echoes 'always' (粽/zong sounds like 總/always in Chinese). Works as a caption for festival couple photos too",
+          "variations": [
+            "Short version: \"Happy Dragon Boat Festival — zong-ways thinking of you.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-002",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://memes.tw/tag/端午節",
+      "sourceNote": "一見鍾情 → 一見粽情 classic pun; original joke dialogue rewritten",
+      "tags": ["端午節", "粽子", "諧音梗", "冷笑話", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿志拿起第一顆粽子，二話不說就咬了下去。\n\n旁邊的阿嬤說：「你怎麼不先問問是甜的還是鹹的？」\n\n阿志：「我這個人就是一見粽情，哪管什麼口味。」\n\n阿嬤：「……你不是也這樣娶了你老婆嗎？」\n\n阿志沉默了。",
+          "editorNote": "「一見粽情」=「一見鍾情」，笑點在阿嬤神補刀——適合傳到家族群組，尤其阿嬤本人在線上的時候效果最好",
+          "variations": [
+            "短版：「我對粽子向來是一見粽情，從不先問口味的。」"
+          ]
+        },
+        "en": {
+          "content": "Zhi grabbed the first zongzi and bit in without checking.\n\nHis grandma: \"You didn't even ask if it's sweet or savory?\"\n\nZhi: \"I'm a love-at-first-bite kind of person.\"\n\nGrandma: \"Isn't that how you married your wife too?\"\n\nZhi went quiet.",
+          "editorNote": "Classic grandma counter-attack. Works great in family group chats — the punchline lands harder when everyone knows the couple in question",
+          "variations": [
+            "Short version: \"I'm strictly a love-at-first-bite zongzi person. I don't do flavor research first.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-003",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://succuland.com.tw/dragonboat2026",
+      "sourceNote": "粽望所歸 (眾望所歸) pun from 端午賀詞 pool; rewritten as family scene",
+      "tags": ["端午節", "粽子", "諧音梗", "家庭", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每年端午節，阿嬤包的粽子都是全家的期待。\n\n阿嬤說：「哎呀，不過就是幾顆粽子嘛。」\n\n全家：「阿嬤，您這才叫粽望所歸。」\n\n阿嬤笑得合不攏嘴，然後又多包了二十顆。",
+          "editorNote": "「粽望所歸」=「眾望所歸」——適合配上阿嬤包粽子的照片傳到家族群組，或端午節感謝長輩的暖心文案",
+          "variations": [
+            "職場版：「這個專案全靠你了，你才是我們團隊的粽望所歸。」——傳給那個在關鍵時刻撐起全場的同事"
+          ]
+        },
+        "en": {
+          "content": "Every Dragon Boat Festival, Grandma's zongzi is what the whole family waits for.\n\nGrandma: \"It's just a few rice dumplings, don't make a fuss.\"\n\nThe whole family: \"Grandma, you're the MVP of this holiday.\"\n\nGrandma smiled and immediately made twenty more.",
+          "editorNote": "Warm family humor for festival photo captions — works best paired with a photo of grandma wrapping zongzi. The MVP setup gets universal family recognition",
+          "variations": [
+            "Workplace version: \"This project would fall apart without you. You're the real MVP of this team.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-004",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://dcard.tw/f/joke/p/229087794",
+      "sourceNote": "屈原 + 股市 cross-joke concept from Dcard 端午節笑話 thread; rewritten with original structure",
+      "tags": ["端午節", "屈原", "股市", "社畜", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "端午節前夕，股市崩盤。\n\n同事阿強看著手機，深吸一口氣說：\n\n「我現在終於理解屈原了。」\n\n「是啊，報國無門，心灰意冷——」\n\n「不是，是看著數字一直往下，人就想往水裡跑。」",
+          "editorNote": "傳給有在玩股票的朋友，尤其在端午節前後股市震盪時特別應景——笑完之後記得把他拉回來，不要讓他真的去找屈原",
+          "variations": [
+            "安慰版：「屈原是含冤投江，你只是小賠，完全不一樣，還有翻身機會的。」"
+          ]
+        },
+        "en": {
+          "content": "The day before Dragon Boat Festival, the market tanked.\n\nColleague Qiang stared at his phone and took a deep breath:\n\n\"I finally understand Qu Yuan.\"\n\n\"Yeah, a man abandoned by his kingdom, broken-hearted—\"\n\n\"No. I mean watching the numbers keep dropping makes a person want to run toward the water.\"",
+          "editorNote": "Send to that friend who's been watching their portfolio this week. Works especially well right before a long weekend when markets close — gallows humor at its most relatable",
+          "variations": [
+            "Reassurance version: \"Qu Yuan jumped over a fallen kingdom. You lost 8%. Completely different situation. There's still a comeback.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-005",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://memes.tw/tag/端午節",
+      "sourceNote": "南粽北粽 debate format widely circulated; original 3-party dialogue rewritten with 屈原 resolution",
+      "tags": ["端午節", "粽子", "南北之爭", "屈原", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "北粽派：「粽子就要甜的！紅豆、花生才正統！」\n\n南粽派：「沒包肉的哪叫粽子，那叫甜湯包！」\n\n兩派爭得不可開交。\n\n角落裡的阿公緩緩說：\n\n「屈原當年投江，是因為楚國滅了，不是因為你們這樣吵。」\n\n大家都沉默了。\n\n然後同時又說：「所以甜的才對！」/「所以鹹的才對！」",
+          "editorNote": "傳到家族群組，讓每年必吵的口味大戰有個完美收尾——屈原神補刀之後大家再繼續吵，反而更歡樂",
+          "variations": [
+            "簡版：「南北粽之爭幾千年沒有答案，就連屈原也沒說他喜歡哪種。」"
+          ]
+        },
+        "en": {
+          "content": "Team Sweet Zongzi: \"Real zongzi is sweet — red bean and peanut, the classic!\"\n\nTeam Savory Zongzi: \"No meat? That's just a sweet rice ball. Not a zongzi!\"\n\nThe debate raged on.\n\nGrandpa in the corner finally said:\n\"Qu Yuan jumped into a river because his kingdom fell. Not because of this argument.\"\n\nEveryone went quiet.\n\nThen simultaneously: \"So sweet ones are right!\" / \"So savory ones are right!\"",
+          "editorNote": "The perfect festival group chat entry — the Qu Yuan line temporarily stops the fight, and then everyone starts again, which is somehow even funnier",
+          "variations": [
+            "Neutral version: \"The sweet vs. savory debate has no winner. Even Qu Yuan never revealed his preference.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-006",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://jokeandpun.com/jokes/dragon-boat-festival-jokes/",
+      "sourceNote": "Dragon boat leak joke from English joke site; rewritten with new punchline structure",
+      "tags": ["端午節", "龍舟", "英文冷笑話", "雙關語"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：龍舟隊為什麼不適合保守秘密？\n\n答：因為他們的船很容易「漏」出去。\n\n補充：而且還有二十個人一起喊節奏，沒有任何事可以悄悄進行。",
+          "editorNote": "「漏」雙關：船漏水 + 消息外漏——適合傳給喜歡英文冷笑話風格的朋友，或在有龍舟活動的端午聚會上說",
+          "variations": [
+            "進階版：「為什麼龍舟隊的人不能當臥底？因為他們的工作就是讓所有人都聽到他們。」"
+          ]
+        },
+        "en": {
+          "content": "Why can't dragon boat teams keep secrets?\n\nBecause their boats always spring a leak.\n\nAlso: there are twenty people chanting in rhythm. Nothing about this operation is discreet.",
+          "editorNote": "Clean, punchy bilingual joke — perfect for festival IG stories or sending to friends who appreciate dry English humor. The add-on line makes it land harder",
+          "variations": [
+            "Extended: \"Why can't dragon boat racers be undercover agents? Because their whole job is to be heard from across the water.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-007",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://city9.tw/2026-duanwu-blessings",
+      "sourceNote": "粽情投入 (全情投入) pun from holiday greeting compilations; rewritten with workplace setting",
+      "tags": ["端午節", "粽子", "諧音梗", "職場", "團隊"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司端午節團建活動：包粽子比賽。\n\n主管大力鼓勵：「今天大家要粽情投入！」\n\n員工阿豪完全沒有廚藝，包出來的粽子像足球，像枕頭，還有一個不知道是什麼形狀。\n\n最後全部在鍋裡散開。\n\n主管：「……你確實投入了。」",
+          "editorNote": "「粽情投入」=「全情投入」——傳給在公司活動上最認真但結果一塌糊塗的同事，他看完應該又哭又笑；也適合傳給那個喜歡喊口號的主管",
+          "variations": [
+            "正向版：「包粽子本來就不是人人都會，但粽情投入的態度是最重要的。」"
+          ]
+        },
+        "en": {
+          "content": "Company Dragon Boat Festival team-building: zongzi-making competition.\n\nManager: \"Today, everyone gives it their all!\"\n\nEmployee Hao had zero cooking skills. His zongzi came out shaped like a football, a pillow, and something unidentifiable.\n\nAll of them unraveled in the pot.\n\nManager: \"...You certainly gave it everything.\"",
+          "editorNote": "For the teammate who brings 110% effort to everything and still somehow ends up with a disaster — they'll laugh hardest at themselves. Also perfect for the manager who loves motivational slogans",
+          "variations": [
+            "Positive spin: \"Making zongzi isn't for everyone, but the spirit of going all-in is what counts.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-008",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://pundoor.com/dumpling-puns-and-jokes-one-liners/",
+      "sourceNote": "Dumpling/zongzi wrapping metaphor concept; original philosophical parallel rewritten",
+      "tags": ["端午節", "粽子", "人生哲理", "廢話文學", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人生跟粽子很像：\n\n外面一層一層的葉子，是你為了保護自己包起來的殼。\n\n裡面真正的料，才是那個真實的你。\n\n而且——包得越緊，蒸出來越香。\n\n所以下次有人說你把自己包得太緊，\n你就說：「那是因為我還沒被蒸熟。」",
+          "editorNote": "端午節限定哲理語錄，結尾的反轉讓它從勵志變成廢話文學風格——適合發朋友圈或IG，引發朋友回覆「什麼鬼」",
+          "variations": [
+            "純勵志版：「人生就像粽子：包得越緊，越能保住自己最好的那部分。」"
+          ]
+        },
+        "en": {
+          "content": "Life is a lot like a zongzi:\n\nThe layers of leaves wrapped around it are the protective shell you build for yourself.\n\nThe real filling inside is who you actually are.\n\nAnd the tighter it's wrapped, the better it steams.\n\nSo next time someone tells you that you're too guarded,\njust say: \"I haven't been fully cooked yet.\"",
+          "editorNote": "Starts as a motivational metaphor and ends as absurdist self-defense logic — perfect as a festival caption that makes your followers do a double-take",
+          "variations": [
+            "Straight version: \"Like a zongzi: the tighter you're wrapped, the better you hold together under pressure.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-009",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://dcard.tw/f/joke",
+      "sourceNote": "屈原 + 現代社群媒體 parallel; original concept rewritten with contemporary platform details",
+      "tags": ["端午節", "屈原", "社群媒體", "幹話", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果屈原活在現代，他大概不會投江。\n\n他會開帳號，寫長文控訴楚王的昏庸無能。\n留言區立刻炸鍋，清一色「這個我看不下去了」。\n\n文章被轉爆，屈原成為年度最佳政論作家。\n\n楚王打開手機，看到自己的名字上了熱搜，\n叫來侍從：「幫我也開個帳號。」\n\n屈原：「……好的，我來幫你按封鎖。」",
+          "editorNote": "傳給喜歡歷史梗或社群媒體幽默的朋友，結尾的神反轉讓人笑完之後回味一下——屈原到現代，依然輸不了",
+          "variations": [
+            "簡版：「屈原活在現代：寫長文控訴，留言全是『這個我看不下去了』，熱搜第一。」"
+          ]
+        },
+        "en": {
+          "content": "If Qu Yuan lived today, he probably wouldn't jump in a river.\n\nHe'd open an account, write a long thread exposing the king's failures.\nThe comments would explode: \"I can't stay silent about this.\"\n\nThe post goes viral. Qu Yuan becomes the top political commentator of the year.\n\nThe king opens his phone, sees his name trending,\nand calls his assistant: \"Set me up an account too.\"\n\nQu Yuan: \"...Already got you blocked.\"",
+          "editorNote": "For history buffs and social media addicts — the ending twist where Qu Yuan wins by blocking the king is a crowd-pleaser in any group chat",
+          "variations": [
+            "Short version: \"Qu Yuan today: one viral thread, all comments say 'I can't stay quiet about this,' trending number one.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-010",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://city9.tw/2026-duanwu-blessings",
+      "sourceNote": "粽是如此 (總是如此) pun with grandma dialogue; original scene written for this topic",
+      "tags": ["端午節", "粽子", "諧音梗", "家庭", "阿嬤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每年端午，阿嬤說的第一句話粽是如此：\n「今年包的粽子，比去年還好吃。」\n\n孫子：「阿嬤，妳去年也說一樣的話。」\n\n阿嬤：「粽是如此，好吃的東西就是每年都更好吃。」\n\n孫子：「這個邏輯……有點粽蛋。」\n\n阿嬤：「叫你吃就對了。」",
+          "editorNote": "「粽是如此」=「總是如此」——家庭溫馨場景，笑點在阿嬤的邏輯無懈可擊，適合配上阿嬤包粽子的照片傳家族群組",
+          "variations": [
+            "單句版：「阿嬤說今年的粽子比去年好吃——她粽是如此說。」"
+          ]
+        },
+        "en": {
+          "content": "Every Dragon Boat Festival, the first thing Grandma says is always the same:\n\"This year's zongzi is even better than last year's.\"\n\nGrandchild: \"Grandma, you say that every single year.\"\n\nGrandma: \"Because it's true every single year. Good food keeps getting better.\"\n\nGrandchild: \"That's... not really how it works.\"\n\nGrandma: \"Just eat it.\"",
+          "editorNote": "The grandma who has no interest in logic, only in feeding you — universally relatable. Pair with a family festival photo for maximum engagement",
+          "variations": [
+            "Short version: \"Grandma's annual verdict: 'This year's zongzi is the best yet.' Same as last year. Same as every year.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-011",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://dcard.tw/f/joke",
+      "sourceNote": "屈原 vs. 現代上班族 emotional parallel concept; original dialogue rewritten",
+      "tags": ["端午節", "屈原", "社畜", "上班族", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "屈原：「我是因為被小人陷害、眼見山河破碎，才含冤投江的。」\n\n現代上班族：「我也懂，就是那種努力了半天卻沒人看見，還被主管扣了一半的功勞——」\n\n屈原：「……我們的情況完全不一樣。」\n\n上班族：「但心情是一樣的。」\n\n屈原沉默了一下：「行吧，我請你吃粽子。」",
+          "editorNote": "傳給那個這週心情不好的同事，結尾屈原請吃粽子的神轉折讓整個畫面溫馨起來——黑色幽默加甜",
+          "variations": [
+            "簡版：「屈原不一定理解你的工作，但那個走到河邊的心情，他懂。」"
+          ]
+        },
+        "en": {
+          "content": "Qu Yuan: \"I threw myself in the river because I was betrayed, watched my kingdom crumble, and died carrying a false name.\"\n\nModern office worker: \"I get it — you work your hardest and no one notices, and the manager takes half the credit—\"\n\nQu Yuan: \"...Our situations are completely different.\"\n\nOffice worker: \"The feeling is the same though.\"\n\nQu Yuan paused.\n\n\"Fine. I'll buy you a zongzi.\"",
+          "editorNote": "Send to that coworker who's been having a rough week — the Qu Yuan buying zongzi ending is the unexpected warmth that saves it from being purely dark",
+          "variations": [
+            "Short version: \"Qu Yuan may not understand your workload, but the walk to the river? He gets it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-012",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://punmakers.com/dumpling-puns-jokes/",
+      "sourceNote": "Dragon boat drummer role concept from English pun sites; original Q&A structure rewritten",
+      "tags": ["端午節", "龍舟", "冷笑話", "英文雙關", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：龍舟比賽中最難搞的人是誰？\n\n答：打鼓的。\n\n為什麼？\n\n因為他坐在最前面，什麼都不用划，\n但全船的節奏都得聽他的。\n\n換句話說：他就是那個什麼都不做，\n卻把別人的命運握在手裡的那個。\n\n問：這聽起來像不像你的老闆？",
+          "editorNote": "傳給同事，尤其是對主管有怨念的時候，一句「他就是那個打鼓的」可以在辦公室流行起來——但記得不要被主管看到",
+          "variations": [
+            "正向版：「打鼓的人設定節奏，讓整艘船前進——有時候領導就是這樣，你不划船，但你決定快慢。」"
+          ]
+        },
+        "en": {
+          "content": "Who's the hardest person to deal with in a dragon boat race?\n\nThe drummer.\n\nWhy?\n\nThey sit at the front and do no rowing.\nBut everyone on the boat has to follow their rhythm.\n\nIn other words: the one who does nothing\nbut holds the fate of everyone else in their hands.\n\nDoes that remind you of anyone at work?",
+          "editorNote": "Send to your coworkers and watch as at least one person immediately replies with their manager's name — universally relatable festival humor",
+          "variations": [
+            "Positive spin: \"The drummer sets the pace that moves the whole boat forward. Leadership is knowing when to beat faster and when to hold steady.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-013",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://city9.tw/2026-duanwu-blessings",
+      "sourceNote": "粽子 gift card pun concept; 粽要 (重要) and 粽蛋 (笨蛋) puns combined in card exchange scene",
+      "tags": ["端午節", "粽子", "諧音梗", "禮物", "情話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "端午節想送禮，挑了一盒精緻粽子，附上一張手寫卡：\n\n「你是我心中最粽要的人。」\n\n對方拆開，盯著卡片看了三秒，\n\n然後回傳一張照片——他把「粽要」圈了起來，\n旁邊寫：「你這個粽蛋，我好喜歡你。」",
+          "editorNote": "「粽要」=「重要」，「粽蛋」=「笨蛋」——適合傳給幽默感好的另一半或暗戀對象，送粽子加手寫卡這個組合本身就已經很土味了，成功率極高",
+          "variations": [
+            "單人版：「自己寫給自己：你是自己心中最粽要的人，記得好好照顧自己。」"
+          ]
+        },
+        "en": {
+          "content": "Needed a gift for Dragon Boat Festival.\nBought a nice box of zongzi, added a handwritten card:\n\n\"You're the most important person in my world.\"\n\nThree seconds after they opened it, they sent back a photo —\nthey'd circled the \"important\" part\nand written next to it: \"You absolute dumpling. I like you so much.\"",
+          "editorNote": "Zongzi as a romantic gift is already peak cheesy — the handwritten card pushes it into territory that's so earnest it wraps back around to charming. Works best on someone with a good sense of humor",
+          "variations": [
+            "Self-care version: \"To yourself this festival: you're the most important person in your own story. Don't forget it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-014",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://dcard.tw/f/joke/p/229087794",
+      "sourceNote": "包粽子失敗 scenario; original comedic situation written for beginner cook character",
+      "tags": ["端午節", "粽子", "廚藝", "自嘲", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次包粽子，阿如信心滿滿地坐下來。\n\n二十分鐘後，面前有六個「作品」：\n一個像足球，一個像枕頭，\n一個像問號，一個像問號的問號，\n還有一個她自己也不確定。\n\n最後的那顆，勉強可以稱為粽子。\n\n阿嬤走過來看了看：「你這是在包粽子，還是在重新詮釋抽象藝術？」",
+          "editorNote": "傳給第一次嘗試包粽子的朋友，或在端午節家庭活動後拍下自己的「作品」傳群組——自嘲型內容最容易讓大家一起笑，而不是被笑",
+          "variations": [
+            "自嘲版：「我包的粽子不是粽子，是我對傳統文化的現代演繹。」"
+          ]
+        },
+        "en": {
+          "content": "First time making zongzi. A-Ru sat down with total confidence.\n\nTwenty minutes later, she had six \"creations\":\nOne looked like a football. One like a pillow.\nOne like a question mark. One like a question mark's question mark.\nAnd one she couldn't classify.\n\nThe last one barely qualified as zongzi.\n\nGrandma walked over, looked at the spread, and said:\n\"Are you making zongzi or exploring abstract sculpture?\"",
+          "editorNote": "Perfect to send after attempting zongzi for the first time — pair with a photo of your results for maximum effect. Self-deprecating content always lands in group chats",
+          "variations": [
+            "Self-defense: \"These aren't failed zongzi. They're my modern interpretation of an ancient tradition.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-015",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://city9.tw/2026-duanwu-blessings",
+      "sourceNote": "包粽萬象 (包羅萬象) and 粽是如此 puns; rewritten as holiday greeting card format",
+      "tags": ["端午節", "粽子", "諧音梗", "祝福語", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "端午節快樂！\n\n祝你：\n事業粽是順心 🎋\n感情一見粽情 💚\n財運包粽萬象 🎁\n身體粽情投入 💪\n\n然後吃太多粽子，撐得剛剛好。",
+          "editorNote": "節日祝福語集合版，把四個常見祝福詞全部換成粽子諧音梗——適合直接複製傳給親朋好友，省時省力又有誠意（而且讓對方感覺你很用心）",
+          "variations": [
+            "簡化版：「端午節快樂，願你粽是如意，一見粽情，包粽萬象。」"
+          ]
+        },
+        "en": {
+          "content": "Happy Dragon Boat Festival! 🐉\n\nWishing you:\nCareer success — always zong-going strong 🎋\nLove life — love at first bite 💚\nWealth — wrapped in abundance 🎁\nHealth — all-in and thriving 💪\n\nAnd may you eat exactly one too many zongzi.",
+          "editorNote": "A ready-to-copy festival greeting with just enough zongzi wordplay to get a smile — the final line about eating one too many is the touch that makes it feel human instead of generic",
+          "variations": [
+            "Short version: \"Happy Dragon Boat Festival — wishing you love at first bite and a wallet as stuffed as a zongzi.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-016",
+      "dateAdded": "2026-04-19",
+      "sourceUrl": "https://jokeandpun.com/jokes/dragon-boat-festival-jokes/",
+      "sourceNote": "Dragon boat training / endurance concept; original joke about festival fatigue rewritten",
+      "tags": ["端午節", "龍舟", "運動", "社畜", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "健身教練：「你今年的運動目標呢？」\n\n阿豪：「端午節跟著朋友去看龍舟，\n從早站到晚，走了三萬步，\n還搬了一箱粽子。」\n\n教練：「然後呢？」\n\n阿豪：「然後回家吃了六顆粽子，\n把今天全部的熱量補了回來。」\n\n教練：「……我還是先說下次見。」",
+          "editorNote": "傳給那個在端午節努力運動又立刻吃回來的朋友——這是節日限定的人類行為，教練見了也只能苦笑",
+          "variations": [
+            "自嘲版：「端午節走了三萬步，最後敗給了一鍋現包的熱粽子。這不叫失敗，這叫文化體驗。」"
+          ]
+        },
+        "en": {
+          "content": "Fitness coach: \"What's your exercise goal this year?\"\n\nHao: \"At the Dragon Boat Festival I stood all day watching races,\nwalked 30,000 steps, and carried a crate of zongzi home.\"\n\nCoach: \"And then?\"\n\nHao: \"And then I ate six zongzi and took back every calorie I'd burned.\"\n\nCoach: \"...I'll see you next time, I guess.\"",
+          "editorNote": "For the friend who exercised impressively at the festival and immediately undid it all with zongzi — this is a universal Dragon Boat Festival experience",
+          "variations": [
+            "Self-aware version: \"Walked 30,000 steps at the festival. Lost it all to one batch of freshly made zongzi. This isn't failure. This is cultural immersion.\""
+          ]
+        }
+      }
+    }
+  ]
+}
