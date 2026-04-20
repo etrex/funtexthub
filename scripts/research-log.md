@@ -870,6 +870,6 @@
 13. **Update `cold-jokes` with I人/E人 jokes + 媽祖遶境 item** (CRITICAL — 9 reports; 媽祖 window closes April 26)
 14. **Update `absurd-wisdom` with 「接住」items + 硬控 angle** (9 reports)
 15. **Update `cheesy-pickups` with 「朋朋」+ MBTI + 硬控 pickup lines** (9 reports)
-16. Create `drama-quotes` / 台劇語錄 (May–June; 甄嬛傳 viral wave provides anchor content)
+16. ~~Create `drama-quotes` / 台劇語錄~~ ✅ Done (16 items, 2026-04-20; 甄嬛傳 viral wave anchor content included)
 17. Create `healing-quotes` / 治癒系語錄 (evergreen; create after drama-quotes)
 18. Monitor `animal-memes` / 動物迷因語錄 for 1 more month before committing
