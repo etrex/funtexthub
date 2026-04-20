@@ -1223,6 +1223,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-048",
+      "dateAdded": "2026-04-20",
+      "sourceUrl": "https://programmerhumor.io/memes/microservices",
+      "sourceNote": "Microservices over-engineering humor — widely circulated in DevOps and backend communities 2025-2026",
+      "tags": ["微服務", "架構", "過度工程", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "開會有人說了一個詞：「微服務」。\n\n一週後，原本跑得好好的單體應用，被拆成二十三個服務，\n每個服務有自己的資料庫、自己的日誌系統，\n還有一個服務專門負責「協調其他服務互相溝通」。\n\n系統的複雜度提升了五倍。\n功能跟原本一模一樣。\n\n工程師說：「現在可以擴展了。」\n沒有人問要擴展什麼。",
+          "editorNote": "傳給剛開始討論「要不要導入微服務」的團隊，在架構決策前看一眼可以省很多痛苦",
+          "variations": [
+            "微服務的最終形態：每個服務只做一件事，而其中一件事是「打電話給另一個服務問它要做什麼」。"
+          ]
+        },
+        "en": {
+          "content": "Someone said 'microservices' in a meeting.\n\nA week later, a perfectly functional monolith had been split into twenty-three services. Each one had its own database, its own logging setup, and one service existed solely to coordinate communication between all the other services.\n\nSystem complexity: up five times.\nFeatures: identical to before.\n\nThe team said: \"Now it's scalable.\"\nNobody asked what needed scaling.",
+          "editorNote": "Share with any team debating whether to adopt microservices — reading this before the architecture decision could save a lot of pain",
+          "variations": [
+            "The final form of microservices: every service does one thing, and one of those things is 'calling another service to find out what to do.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-049",
+      "dateAdded": "2026-04-20",
+      "sourceUrl": "https://programmerhumor.io/memes/docker",
+      "sourceNote": "Docker 'works on my machine' irony — the tool that was supposed to fix environment issues",
+      "tags": ["Docker", "環境", "容器化", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Docker的誕生是為了解決「在我電腦上是好的」這個問題。\n\n工程師A把應用打包進Docker，信心滿滿地說：「現在到哪裡都能跑了。」\n\n工程師B跑起來，報錯：「找不到映像檔。」\n工程師A：「奇怪，在我電腦上是好的。」",
+          "editorNote": "傳給第一次用Docker就遇到環境問題的朋友，讓他知道這是宇宙的玩笑，不是他的問題",
+          "variations": [
+            "Docker解決了一個問題：每台機器的環境不一樣。然後它創造了一個新問題：每個人的Docker環境不一樣。"
+          ]
+        },
+        "en": {
+          "content": "Docker was created to solve the 'it works on my machine' problem.\n\nDeveloper A packaged the app into a Docker container and said with full confidence: \"Now it'll run anywhere.\"\n\nDeveloper B ran it. Error: image not found.\nDeveloper A: \"Weird. It works on my machine.\"",
+          "editorNote": "Send to anyone who hit an environment issue the first time they used Docker — let them know it's a cosmic joke, not their fault",
+          "variations": [
+            "Docker solved one problem: every machine has a different environment. Then it introduced a new problem: everyone's Docker environment is different."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-050",
+      "dateAdded": "2026-04-20",
+      "sourceUrl": "https://programmerhumor.io/memes/kubernetes",
+      "sourceNote": "Kubernetes YAML complexity — universally shared DevOps pain point",
+      "tags": ["Kubernetes", "DevOps", "YAML", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問：「這個服務要怎麼部署？」\n\n資深工程師遞給他一疊四十七頁的YAML設定檔。\n\n「這些是Kubernetes的設定。分別是Deployment、Service、Ingress、ConfigMap、Secret、HorizontalPodAutoscaler——」\n\n新人：「等等，那這個服務本身的程式碼有幾行？」\n\n資深工程師停頓了一下：「……八十行。」",
+          "editorNote": "傳給DevOps工程師或剛接觸K8s的新人，讓他知道他的困惑是有道理的，因為配置的複雜度確實遠超應用本身",
+          "variations": [
+            "Kubernetes的設計哲學：讓八十行的程式碼，需要四千行的設定才能跑起來。這叫做『企業級可靠性』。"
+          ]
+        },
+        "en": {
+          "content": "A new engineer asked: \"How do I deploy this service?\"\n\nThe senior handed them a stack of forty-seven pages of YAML configuration files.\n\n\"These are the Kubernetes configs — Deployment, Service, Ingress, ConfigMap, Secret, HorizontalPodAutoscaler...\"\n\nNew engineer: \"Wait — how many lines is the actual application code?\"\n\nSenior paused: \"...Eighty.\"",
+          "editorNote": "Share with DevOps engineers or anyone just starting with K8s — their confusion is valid, because the config really is more complex than the app",
+          "variations": [
+            "The Kubernetes design philosophy: take eighty lines of code and make it require four thousand lines of configuration to run. This is called 'enterprise-grade reliability.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-051",
+      "dateAdded": "2026-04-20",
+      "sourceUrl": "https://punhour.com/quality-assurance-jokes/",
+      "sourceNote": "QA engineer finds nothing vs finds everything — classic dev-QA dynamic rewritten",
+      "tags": ["QA", "測試", "工程師日常", "溝通"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師把新功能交給QA。\n\n如果QA說「沒有問題」，工程師擔心QA沒認真測。\n如果QA說「發現十七個問題」，工程師擔心自己的程式碼品質。\n\n所以工程師其實最喜歡的答案是什麼？\n\n「找到兩個小問題，都已修正。」\n\n但這種回答通常只存在於夢裡。",
+          "editorNote": "交叉傳給工程師和QA，兩邊都懂那種微妙的默契",
+          "variations": [
+            "QA測試的黃金法則：找太少bug，代表你沒認真測；找太多bug，代表你在否定工程師的能力。找剛好多的bug，代表你有在認真測，而且工程師也沒那麼爛。這個數量永遠無法事先確定。"
+          ]
+        },
+        "en": {
+          "content": "A developer hands off a new feature to QA.\n\nIf QA says 'no issues found,' the developer worries QA didn't really test it.\nIf QA says 'found seventeen problems,' the developer worries about the state of their own code.\n\nSo what answer does the developer actually want?\n\n'Found two small issues — both are already fixed.'\n\nBut this response mainly exists in dreams.",
+          "editorNote": "Send to both a developer and a QA engineer — both will recognize the unspoken dynamic",
+          "variations": [
+            "The golden rule of QA: too few bugs means you didn't test hard enough; too many means you're questioning the developer's competence. The right number is always uncertain in advance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-052",
+      "dateAdded": "2026-04-20",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Testing in production — the developer's dark confession, widely shared in 2025-2026",
+      "tags": ["測試", "正式環境", "工程師語錄", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師：「我不是在正式環境測試。」\n\n同一個工程師，五分鐘後：\n「剛才那個小改動……是直接推到正式環境的。\n我有信心。\n而且時間很趕。\n而且測試環境的資料跟正式環境不一樣。\n所以其實算是有充分理由的。」",
+          "editorNote": "貼在工程師群組，每個人都會默默點頭然後假裝自己沒有幹過一樣的事",
+          "variations": [
+            "「在正式環境測試」的學術名稱：真實使用者驗收測試（User Acceptance Testing with Live Traffic）。聽起來很專業。"
+          ]
+        },
+        "en": {
+          "content": "Developer: \"I don't test in production.\"\n\nSame developer, five minutes later:\n\"That small change I just pushed — it went straight to production.\nI had confidence.\nAlso we were pressed for time.\nAlso the test environment data doesn't match production data.\nSo there were actually solid reasons for it.\"",
+          "editorNote": "Post in any developer group — everyone will quietly nod and pretend they've never done the same thing",
+          "variations": [
+            "The academic term for 'testing in production': Live-Environment User Acceptance Testing with Real Traffic. Sounds very professional."
+          ]
+        }
+      }
     }
   ]
 }
