@@ -873,3 +873,93 @@
 16. ~~Create `drama-quotes` / 台劇語錄~~ ✅ Done (16 items, 2026-04-20; 甄嬛傳 viral wave anchor content included)
 17. Create `healing-quotes` / 治癒系語錄 (evergreen; create after drama-quotes)
 18. Monitor `animal-memes` / 動物迷因語錄 for 1 more month before committing
+
+---
+
+## 2026-04-21 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, graduation-quotes, couple-jokes, dark-humor, holiday-jokes, **drama-quotes** (14 total) ✅
+- `drama-quotes` confirmed created (detected in src/content/topics/, 2026-04-20) ✅
+- Mother's Day (May 10) is **19 days away** — sweet-quotes update done (sq-018–sq-022) ✅
+- 勞動節連假 (May 1–3) is **10 days away** — workplace-quotes live and indexed ✅
+- 大甲媽祖遶境 is **LIVE NOW (April 17–26)** — **5 days remaining** in traffic window (URGENT)
+- 端午節 (June 19–21) is **59 days away** — holiday-jokes live; content prep ongoing
+- Persistent backlog (10 consecutive reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items — **this is now a critical recurring failure to execute**
+
+### New Topic Recommendations
+
+1. **治癒系語錄 / Healing Quotes** (slug: `healing-quotes`, category: Motivation)
+   - POPBEE published "2026 必看治癒系韓劇台詞推薦：10 句陪你度過情緒低潮期的金句" — direct evidence of active content production in this category for 2026
+   - Multiple high-authority Taiwan sources active: marieclaire.com.tw ("現代人最需要的療癒金句"), womany.net, Pinkoi 設計誌, meet.eslite.com (黃山料療癒語錄)
+   - Confirmed dedicated Threads account: @healinglove5200 (引路人療癒師) actively posting zh-tw healing content in 2026
+   - Tone distinction from existing topics: motivational-quotes = push forward (能量); healing-quotes = be gentle with yourself (療癒); sweet-quotes = romance (戀愛). These are three distinct emotional registers with distinct audiences
+   - Content angle: "軟性療癒" — short, gentle, non-preachy. Format: "先好好活著，其他的慢慢來"; "你不需要時刻堅強，偶爾放下也是一種勇敢"
+   - Strong LINE forwarding behavior: healing quotes are frequently shared to friends going through hard times — high organic distribution potential
+   - SEO targets: 治癒系語錄, 療癒語錄, 暖心短句, 心靈療癒, 治癒金句, healing quotes, 暖心語錄
+   - **Recommendation: Create after backlog items are executed — strong evergreen demand confirmed across multiple high-authority sources**
+
+2. **甄嬛傳 諧音梗 — Expand Cold-Jokes + Drama-Quotes** (NOT a standalone topic)
+   - 2026 new wave of 甄嬛傳 諧音哏 has expanded since the April 20 report: UDN Stars published a full 懶人包 with new entries not previously documented
+   - Newly confirmed 2026 viral 諧音梗: 「眉預算」(沈眉莊/刪預算時事), 「壯世代」(三阿哥/"三阿哥又長高了"), 「舌年行大運」(靜白割舌/蛇年), 「慣蘭高手」(華妃/慣老闆), 「黑暗容藥」(安陵容), 「Queencard」(皇后/純元)
+   - These new entries are more current than those in the April 20 drama-quotes batch — adding 2–3 to cold-jokes would capture the latest wave
+   - SEO targets: 甄嬛傳語錄, 甄嬛傳諧音梗, 甄嬛傳金句, 宮廷劇笑話, 後宮甄嬛傳梗
+   - **Recommendation: Add 3 new items from this list to cold-jokes and flag 2–3 for drama-quotes. Window: this week only — viral waves fade within 2–3 weeks**
+
+3. **台灣 Threads 「留友看」分享策略** (NOT a topic — a platform insight)
+   - Confirmed new 2026 viral Threads phrase: 「留友看」("留給朋友看") — a technique for triggering Threads algorithmic reach by inviting others to leave comments
+   - Taiwan is now confirmed top global Threads market: 350萬 MAU, 25% of global traffic, usage time #1 globally (from multiple 2026 sources)
+   - Implication for FunTextHub: embed "留友看" as a suggested sharing phrase in editorNotes for the most shareable cold-jokes and absurd-wisdom items
+   - This is a distribution tactic, not a content topic — but it could meaningfully increase organic reach from existing content
+   - **Recommendation: Add "留友看" context to editorNotes of top-performing short items (under 50 characters) across cold-jokes, absurd-wisdom, and witty-comebacks**
+
+### Content Trends
+
+- **甄嬛傳 2026 New Wave (STILL LIVE — Act Immediately)**: UDN Stars lazy-pack article confirmed new 2026 諧音梗 entries beyond those identified April 20. The viral wave is still at peak engagement. Highest priority timely action this week: add 3 new 甄嬛傳 items to cold-jokes using the entries above (眉預算, 壯世代, 舌年行大運). The window for this viral wave is approximately 2 more weeks.
+
+- **Threads 脆文 Ecosystem Deepening**: Taiwan confirmed #1 global Threads market (350萬 MAU, 25% global traffic). New finding: 「留友看」is the latest viral Threads sharing mechanic (2025 late / 2026 early origin). FunTextHub items shared on Threads benefit from this mechanic — content creators use it to amplify reach. Short items (under 50 characters) are most Threads-native. This has been confirmed across three separate research cycles.
+
+- **勞動節連假 (May 1–3) — 10 DAYS AWAY**: Confirmed 2026 Threads posts from nownews active for 勞動節 Q&A content. The workplace humor ecosystem peak is this week and next. Workplace-quotes is well-positioned. No new content action needed — focus is on tags and discoverability.
+
+- **大甲媽祖遶境 Final 5 Days (April 17–26)**: 60萬人 confirmed participant count (風傳媒). 顏清標 near-slip incident confirmed viral moment. The snack/food culture humor angle remains the most respectful and widely shared approach. Urgent: add cold-joke and absurd-wisdom items before April 26. This window will not recur for a full year.
+
+- **治癒系語錄 as a 2026 Structural Trend**: Healing content appears as a counter-trend to workplace stress and hustle culture content. The Taiwan audience simultaneously consumes 社畜語錄 (cynical workplace content) and 治癒系語錄 (gentle healing content) — these are not mutually exclusive but serve different emotional moments. POPBEE's dedicated 2026 healing drama quotes article and dedicated Threads healers confirm this is not a passing trend but a structural content category in Taiwan's 2026 media landscape.
+
+- **2026 台灣流行語 Confirmed Updates** (from Yahoo/UDN 2026必會網路流行語 article):
+  - 「留友看」(NEW in 2026) — Threads CTA phrase, viral sharing mechanic
+  - 「YYDS」(active) — "永遠的神", emotion amplifier
+  - 「超派」(active) — sardonic approval, confirmed in multiple 2026 sources
+  - 「好99」(active) — exaggerated cute/approval
+  - 「破防」(active) — heart defenses broken
+  - Previously tracked terms remain active: 「朋朋」「接住」「I人/E人」「暈爛」「好解」「硬控」「史密斯」
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 joke format **CRITICALLY OVERDUE — 10 consecutive reports, must execute unconditionally in next content session**. ALSO: 甄嬛傳 new 2026 諧音梗 are viral NOW — add 3 items using: (1) 「眉預算」format: "甄嬛傳告訴我，刪預算的不叫壞人，叫沈眉莊"; (2) 「舌年行大運」format: "2026蛇年，靜白說：這叫舌年行大運"; (3) 「壯世代」format: "齊妃每次見皇上：三阿哥又長高了——網友：壯世代代言人". ALSO: 媽祖遶境 item before April 26 (window: 5 days).
+- **absurd-wisdom (廢話文學)**: 「接住」items **10 consecutive reports — execute immediately**. Concrete: "如果你總是接住所有人的情緒，記得偶爾也要讓自己落地". Also consider 「留友看」as a callout in editorNote for most-shareable items.
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI + 硬控 pickup lines **10 consecutive reports — execute immediately**. Concrete: "你把我硬控了，完全移不開目光"; "朋朋，我能不能叫你男女朋友的朋？"; "你是I人還是E人？因為你進來的瞬間，我的內心OS已經熱場了".
+- **drama-quotes (newly created)**: Verify 甄嬛傳 content includes the classic emotional resonance lines (not just 諧音梗) — "曾經我是你的嬛嬛，現在我是鈕祜祿·甄嬛" as an example of the timeless format. Add 2026 new entries (眉預算/壯世代/舌年行大運) if not already included.
+- **workplace-quotes (職場語錄)**: 勞動節 (May 1–3) is 10 days away — peak browsing this week. Ensure items are tagged 上班族限定, 社畜語錄, 勞動節 and "2026全年不補班" hook is in editorNotes.
+- **graduation-quotes (畢業季語錄)**: Taiwan graduation traffic will begin building in early May. Verify "In My ___ Era" bilingual format and English graduation caption tags are present.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done
+8. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done
+9. ~~Create `couple-jokes` / 情侶日常笑話~~ ✅ Done
+10. ~~Create `dark-humor` / 地獄笑話~~ ✅ Done
+11. ~~Create `holiday-jokes` / 節日笑話~~ ✅ Done
+12. ~~Create `drama-quotes` / 台劇語錄~~ ✅ Done (16 items, 2026-04-20)
+13. **Add 甄嬛傳 2026 new 諧音梗 to `cold-jokes`** (URGENT — viral NOW; window ~2 weeks; 眉預算/壯世代/舌年行大運)
+14. **Update `cold-jokes` with I人/E人 jokes + 媽祖遶境 item** (CRITICAL — 10 reports; 媽祖 window closes April 26 — 5 days)
+15. **Update `absurd-wisdom` with 「接住」items** (10 consecutive reports — non-deferrable)
+16. **Update `cheesy-pickups` with 「朋朋」+ MBTI + 硬控 pickup lines** (10 consecutive reports — non-deferrable)
+17. Create `healing-quotes` / 治癒系語錄 (evergreen; confirmed by POPBEE 2026 + multiple sources; create after backlog clears)
+18. Create `holiday-jokes` 端午節 content expansion (target live by May 25 for June 19 peak)
+19. Monitor `animal-memes` / 動物迷因語錄 for 2 more weeks before deciding
