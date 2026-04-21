@@ -1417,6 +1417,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-054",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://punnybook.com/calendar-puns/",
+      "sourceNote": "改寫自月曆諧音冷笑話系列；corner / 90 degrees 溫度梗重新創作",
+      "tags": [
+        "諧音",
+        "邏輯",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「天氣這麼冷，你家有沒有什麼取暖的好辦法？」\n「有啊，站到牆角去。」\n「牆角？那有什麼用？」\n「因為牆角永遠是九十度。」",
+          "editorNote": "說完停兩秒讓對方算一下，反應過來的那一刻才是笑點——適合冬天或在冷氣房裡說",
+          "variations": [
+            "升級版：「兩個牆角靠在一起是幾度？」「一百八十度。」「那你家有幾個牆角？」「四個。」「恭喜，你家加起來三百六十度，等於一個完整的圓，一點都不冷。」"
+          ]
+        },
+        "en": {
+          "content": "\"It's freezing in here. Any tips for warming up?\"\n\"Sure — go stand in the corner.\"\n\"The corner? How does that help?\"\n\"Because a corner is always ninety degrees.\"",
+          "editorNote": "Pause after the punchline — let them do the geometry for a second. The delayed realization is where the laugh lives. Works any time someone complains about the cold.",
+          "variations": [
+            "Follow-up: 'Two corners make 180 degrees. Four corners make 360 — a full circle. Your whole room is technically on fire mathematically.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-055",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "改寫自「you can tuna piano」音樂諧音梗",
+      "tags": [
+        "諧音",
+        "音樂",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你可以幫鋼琴調音，但你可以調一條魚嗎？」\n「……什麼意思？」\n「調音（tuning）和鮪魚（tuna）——鋼琴可以tune，鮪魚不行。」\n「這也太冷了。」\n「謝謝，我練了很久。」",
+          "editorNote": "英文雙關梗改寫成中文版，台灣愛吃生魚片的人聽了特別有感。說完要補一句「謝謝」，效果翻倍",
+          "variations": [
+            "延伸版：鮪魚雖然不能被調音，但牠可以被切成薄片——這叫做用另一種方式被人欣賞。"
+          ]
+        },
+        "en": {
+          "content": "\"You can tune a piano, but you can't tuna fish.\"\n\"...That's it?\"\n\"That's it.\"\n\"That's awful.\"\n\"I know. I've been working on it for years.\"",
+          "editorNote": "Say it with complete sincerity — the worse you feel about telling it, the better it lands. A classic that never stops being terrible.",
+          "variations": [
+            "Follow-up: 'You also can't piano a tuna. I tried. The tuna was not appreciative.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-056",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://dadblog.co.uk/91-of-the-best-worst-dad-jokes-youll-ever-hear/",
+      "sourceNote": "改寫自「key witness」鎖匠法庭雙關梗",
+      "tags": [
+        "諧音",
+        "邏輯",
+        "職業"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你聽說了嗎？隔壁那個配鑰匙的師傅上法院當證人。」\n「為什麼？」\n「因為他是這個案子裡最關鍵的人——他是唯一的『鑰匙』人（關鍵人）。」\n\n法官：請問你的職業？\n配鑰匙師傅：我做鑰匙的。\n法官：那你是不是這個案子的關鍵人物？\n配鑰匙師傅：……您是第一個這樣問的人。",
+          "editorNote": "「關鍵」和「鑰匙」的諧音梗，配上情境感更強。說完要一臉認真，讓對方先想一下",
+          "variations": [
+            "配鑰匙師傅最後說：「我每天就是在幫人解決問題——但這次的問題是別人幫我解決的，我只是來說明的。」"
+          ]
+        },
+        "en": {
+          "content": "\"Did you hear about the locksmith who had to testify in court?\"\n\"What happened?\"\n\"He was the key witness.\"\n\nJudge: What is your occupation?\nLocksmith: I make keys.\nJudge: So you're the key figure in this case?\nLocksmith: ...You're the first person who's ever asked me that.",
+          "editorNote": "Deadpan delivery is essential — let the 'key witness / key figure' land without telegraphing it. The locksmith's final line is optional, for when you want to stretch the bit.",
+          "variations": [
+            "The locksmith afterwards: 'I spend my days solving people's problems. Today, it was someone else's problem — I was just there to explain things.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-057",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://punflip.com/teacher-puns-jokes/",
+      "sourceNote": "改寫自音樂老師 sharp notes / treble 雙關梗，重新發展成情境笑話",
+      "tags": [
+        "音樂",
+        "邏輯",
+        "職業"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "音樂老師問學生：「你今天為什麼遲到？」\n學生：「因為我在練習把拍子打準。」\n老師：「你練了多久？」\n學生：「一個小時。」\n老師：「那你還是遲到了。」\n學生：「對，但至少我遲到得很有節奏感。」",
+          "editorNote": "適合傳給喜歡音樂或學過樂器的朋友，說完讓對方判斷學生到底有沒有道理——笑話完了還可以討論",
+          "variations": [
+            "延伸版：音樂老師說：「下次再遲到，我就請你出去。」學生說：「那我可以選自己的出場曲嗎？」"
+          ]
+        },
+        "en": {
+          "content": "Music teacher: \"Why were you late today?\"\nStudent: \"I was practicing my timing.\"\nTeacher: \"For how long?\"\nStudent: \"About an hour.\"\nTeacher: \"And you're still late.\"\nStudent: \"Yes, but I was late with perfect rhythm.\"",
+          "editorNote": "Great for anyone who's studied an instrument — ask them afterward if the student has a point. The joke opens into a conversation.",
+          "variations": [
+            "Extended: Teacher says 'Late again and I'll ask you to leave.' Student: 'Can I at least pick my exit music?'"
+          ]
+        }
+      }
     }
   ]
 }

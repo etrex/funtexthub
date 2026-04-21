@@ -1289,6 +1289,115 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-049",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://talk2flirt.com/astrology-and-astronomy-pick-up-lines/",
+      "sourceNote": "astrology pickup lines inspiration; rewritten as Taiwan-style 土味情話 with zodiac-manifestation angle",
+      "tags": [
+        "星座",
+        "甜",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是什麼星座？」\n「天蠍座，怎麼了？」\n「沒什麼。\n只是我今天的星座運勢說會遇到一個讓我心跳加速的人。\n我以為只是隨便寫寫的，但現在我有點想道歉給那個算命的。」",
+          "editorNote": "星座是台灣年輕族群的熱門話題，把「遇到你」說成「星座預言成真」，既有趣又不尷尬，對方通常會先翻白眼再問你「那你星座呢」",
+          "variations": [
+            "你知道今天的星座運勢說什麼嗎？說會有一個人讓你分心。我覺得那個人是你，但這樣說的話我也算了算命師了。"
+          ]
+        },
+        "en": {
+          "content": "\"What's your zodiac sign?\"\n\"Scorpio. Why?\"\n\"No reason.\nMy horoscope today said I'd meet someone who makes my heart skip a beat.\nI thought it was just the usual vague stuff.\nBut now I kind of owe that astrologer an apology.\"",
+          "editorNote": "Zodiac talk is an easy icebreaker with younger crowds — framing meeting them as a horoscope come true is funny and disarming. Expect an eye roll followed by 'so what's YOUR sign?'",
+          "variations": [
+            "You know what my horoscope said today? That someone would completely derail my focus. I think it was describing you. Which technically makes me a psychic."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-050",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://www.classpop.com/magazine/pick-up-lines",
+      "sourceNote": "Netflix binge pickup line; rewritten as conversational 土味情話 with local streaming culture angle",
+      "tags": [
+        "科技",
+        "可愛",
+        "互動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有在追劇嗎？」\n「有啊，最近在看——」\n「我知道了。\n但你知道嗎，你說話的方式比任何劇都還讓我想一直聽下去。\n我現在有點擔心你會比我花最多時間在追的劇更讓我上癮。」",
+          "editorNote": "從追劇這個超日常的話題切入，把對方說話的方式比喻成讓人上癮的劇，讓對方很難直接回答你本來的問題——因為他已經在笑了",
+          "variations": [
+            "你是那種我不想跳片頭曲的劇——通常我都直接按跳過，但你出現的每一段，我都想重看一次。"
+          ]
+        },
+        "en": {
+          "content": "\"Are you watching any shows lately?\"\n\"Yeah, I've been watching —\"\n\"Got it.\nBut here's the thing — the way you talk is more binge-worthy than anything in my watchlist.\nI'm a little worried you might become a harder habit to break than any series I've ever watched.\"",
+          "editorNote": "Starting with a completely normal question about shows, then pivoting to the compliment, catches them off guard. They'll forget what show they were about to name.",
+          "variations": [
+            "You're the kind of show where I don't skip the intro — I usually fast-forward everything, but every moment you're in, I want to replay."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-051",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://www.rd.com/list/cheesy-pickup-lines/",
+      "sourceNote": "keyboard/typing 'just my type' classic; rewritten as zh-tw wordplay using 打字/心動 angle",
+      "tags": [
+        "科技",
+        "諧音",
+        "可愛",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你打字很快嗎？」\n「還好啊。」\n「那你應該知道，有些字打了很多次，手會自動記住。\n就像你的名字——\n我傳訊息的時候，輸入法打一半就出來了。\n我想我的手比我更早知道這件事。」",
+          "editorNote": "把手機輸入法的「學習功能」變成一個迂迴的告白，說對方的名字已經被手記住了——比直接說「我一直想到你」更有溫度，也更有記憶點",
+          "variations": [
+            "我手機的輸入法最近學得很快——只要我開始打，你的名字就第一個出來。它比我更老實。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you type fast?\"\n\"More or less.\"\n\"Then you know how some words get typed so often, your hands just remember them on their own.\nLike your name —\nhalf the time, autocomplete fills it in before I even finish.\nI think my hands figured it out before I did.\"",
+          "editorNote": "Turning autocomplete into a confession — saying your hands already know their name by heart is warmer and more unexpected than 'I think about you all the time'",
+          "variations": [
+            "My keyboard's been learning fast lately — whenever I start typing, your name is always the first suggestion. It's more honest than I am."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-052",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://www.today.com/life/relationships/cheesy-pick-up-lines-rcna132030",
+      "sourceNote": "CPR/breath classic; rewritten as medical-comedic dialogue with fresh twist, avoiding direct copy",
+      "tags": [
+        "可愛",
+        "幽默",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你會急救嗎？」\n「有基本概念，怎麼了？」\n「因為你一出現，我就忘了怎麼呼吸了。\n我覺得你是我唯一的解方，\n但這樣說起來你造成的問題跟解決的問題一樣多。」",
+          "editorNote": "把「讓我喘不過氣」的感覺包裝成急救問題，比直接說「你讓我心跳加速」更有笑點，對方通常會先愣一下然後笑說「你怎麼這樣」",
+          "variations": [
+            "你知道心肺復甦術是幹嘛的嗎？因為每次遇到你，我都要重新學一次怎麼呼吸。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know first aid?\"\n\"The basics, yeah. Why?\"\n\"Because every time you show up, I forget how to breathe.\nYou feel like the only remedy.\nAlthough technically you're causing as many problems as you're solving.\"",
+          "editorNote": "Wraps the breathless feeling in a mock-medical scenario — funnier and more original than the straightforward version. The logical twist at the end is what makes it land.",
+          "variations": [
+            "Do you know what CPR is for? Because every time I run into you, I have to relearn how to breathe from scratch."
+          ]
+        }
+      }
     }
   ]
 }

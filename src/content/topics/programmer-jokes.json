@@ -1338,6 +1338,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-053",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/github-copilot-after-stealing-your-company-internal-codebase-fisr",
+      "sourceNote": "GitHub Copilot / AI coding assistant humor — widely shared on programmerhumor.io in 2025-2026; rewritten around the AI-autocomplete experience",
+      "tags": ["AI", "Copilot", "自動補全", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師打了三個字：\n「getUserBy」\n\nAI 自動補全立刻給出一整段六十行的程式碼，包含資料庫查詢、快取邏輯、錯誤處理，還有一段沒人要求的日誌紀錄。\n\n工程師：「……我只是要打 getUserById。」\n\nAI：「我知道。但我認為你會需要的。」",
+          "editorNote": "傳給每天用 AI 輔助寫程式的工程師——那種被 AI「幫過頭」的微妙感受，每個人都有過",
+          "variations": [
+            "現代 AI 助理的工作模式：你問一個問題，它給你一個答案、三個替代方案、兩個警告、一段範例程式碼，還有一句『但這取決於你的使用情境』。"
+          ]
+        },
+        "en": {
+          "content": "A developer typed three characters:\n\"getUserBy\"\n\nThe AI autocomplete immediately produced sixty lines of code: database query, caching logic, error handling, and a logging section nobody asked for.\n\nDeveloper: \"...I just wanted to type getUserById.\"\n\nAI: \"I know. But I figured you'd need it.\"",
+          "editorNote": "Share with anyone who uses AI-assisted coding daily — that feeling of being 'over-helped' is instantly relatable",
+          "variations": [
+            "How modern AI assistants work: you ask one question, you get one answer, three alternatives, two warnings, a code sample, and a reminder that 'it depends on your use case.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-054",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://programmerhumor.io/memes/github",
+      "sourceNote": "git blame as a blame-shifting tool — classic dev humor rewritten from the 'sport of pointing fingers at the past' framing on programmerhumor.io",
+      "tags": ["git", "code review", "甩鍋", "工程師文化"],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師教新人：「碰到看不懂的程式碼，先跑 git blame，找到是誰寫的。」\n\n新人跑完：「……顯示是你兩年前寫的。」\n\n資深工程師沉默了三秒：「那就繼續跑下去，看看那時候是誰 Review 的。」",
+          "editorNote": "貼在工程師群組，每個做過 code review 的人都會會心一笑",
+          "variations": [
+            "git blame 的本質：一個把『我不知道這是幹嘛的』，轉化成『我知道是誰的問題』的工具。"
+          ]
+        },
+        "en": {
+          "content": "A senior engineer tutored the new hire: \"If you see code you don't understand, run git blame and find out who wrote it.\"\n\nThe new hire ran it: \"...It says you wrote this two years ago.\"\n\nThree seconds of silence.\n\n\"Then keep digging — find out who reviewed it back then.\"",
+          "editorNote": "Drop this in any dev group — anyone who has done code review will recognize this energy immediately",
+          "variations": [
+            "git blame in one sentence: a tool that transforms 'I have no idea what this does' into 'I know exactly whose fault this is.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-055",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Rubber duck debugging joke — classic technique rewritten with a modern twist about taking it more seriously than actual colleagues",
+      "tags": ["debug", "小黃鴨", "工程師日常", "溝通"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師對著桌上的小黃鴨解釋了二十分鐘的 bug。\n\n說到一半，自己突然停下來：「……等等，我知道問題在哪了。」\n\n旁邊同事：「小黃鴨又救了一個人？」\n\n工程師：「牠比任何人都專心在聽我說話。」",
+          "editorNote": "適合傳給習慣自言自語 debug 的工程師，或者貼在辦公室桌上小黃鴨旁邊",
+          "variations": [
+            "橡皮鴨除錯法的核心原理：你不需要對方給你答案，你只需要一個不會打斷你、不會分心、也不會叫你去查 Stack Overflow 的聆聽者。"
+          ]
+        },
+        "en": {
+          "content": "A developer spent twenty minutes explaining a bug to the rubber duck on their desk.\n\nHalfway through, they suddenly stopped: \"...wait. I know exactly what the problem is.\"\n\nColleague nearby: \"The duck saved another one?\"\n\nDeveloper: \"It listens better than anyone on the team.\"",
+          "editorNote": "Send to developers who debug by talking to themselves — or stick it next to an actual rubber duck on the desk",
+          "variations": [
+            "The core principle of rubber duck debugging: you don't need the other party to give you answers — you just need someone who won't interrupt, won't get distracted, and won't tell you to just Google it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-056",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://punjokevault.com/programmer-jokes/",
+      "sourceNote": "Sprint estimation humor — the eternal gap between estimated and actual time, rewritten from multiple 2026 sources",
+      "tags": ["sprint", "估時", "專案管理", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM：「這個功能要多久？」\n\n工程師：「三天。」\n\nPM：「好，那就排兩天，要有緊迫感。」\n\n工程師：（心想：那我估的『三天』已經是加了兩倍緩衝的數字了）\n\n工程師：「好。」",
+          "editorNote": "傳給同時身兼工程師和 PM 的人，或在 Sprint planning 結束後傳到開發群組",
+          "variations": [
+            "工程師估時潛規則：實際需要一天，估兩天，最後花了四天，然後在 retrospective 上解釋為什麼低估了。"
+          ]
+        },
+        "en": {
+          "content": "PM: \"How long will this feature take?\"\n\nDeveloper: \"Three days.\"\n\nPM: \"Great, I'll schedule two — gotta keep things moving.\"\n\nDeveloper (internally): That 'three days' already had a two-times buffer baked in.\n\nDeveloper: \"Sure.\"",
+          "editorNote": "Send right after a Sprint planning session, or share with anyone who's ever had their estimates quietly reduced by someone else",
+          "variations": [
+            "The unwritten rule of developer estimation: it actually takes one day, you estimate two, it ends up taking four, and then you explain in the retrospective why you underestimated."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-057",
+      "dateAdded": "2026-04-21",
+      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
+      "sourceNote": "Light attracts bugs / dark mode joke — popular theme in 2025-2026 collections; rewritten with a story framing instead of a one-liner",
+      "tags": ["dark mode", "bug", "工程師文化", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新進工程師問：「為什麼大家都用深色主題？是護眼嗎？」\n\n資深工程師：「不是。」\n\n新進工程師：「那是因為比較酷？」\n\n資深工程師：「也不是。」\n\n新進工程師：「那是為什麼？」\n\n資深工程師：「因為光會吸引蟲子。」",
+          "editorNote": "貼到任何工程師群組，幾乎所有人都用深色主題，這個理由他們都會接受",
+          "variations": [
+            "工程師使用深色主題的官方理由：減少眼睛疲勞、節省螢幕電量、在夜間不打擾同事。\n非官方理由：光會吸引 bug。"
+          ]
+        },
+        "en": {
+          "content": "A new developer asked: \"Why does everyone use dark mode? Is it easier on the eyes?\"\n\nSenior developer: \"No.\"\n\nNew developer: \"Is it because it looks cool?\"\n\nSenior developer: \"Also no.\"\n\nNew developer: \"Then why?\"\n\nSenior developer: \"Because light attracts bugs.\"",
+          "editorNote": "Post in any developer group — nearly everyone uses dark mode, and this reason is one they'll all immediately accept",
+          "variations": [
+            "Official reasons developers use dark mode: reduces eye strain, saves display power, doesn't disturb colleagues at night.\nUnofficial reason: light attracts bugs."
+          ]
+        }
+      }
     }
   ]
 }
