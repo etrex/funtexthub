@@ -1,0 +1,361 @@
+{
+  "slug": "mom-quotes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "媽媽語錄大全",
+      "description": "那些讓你又笑又暖的媽媽金句，適合母親節傳給媽媽，或是說給懂的人聽"
+    },
+    "en": {
+      "title": "Mom Quotes Collection",
+      "description": "Funny and heartwarming quotes about moms — perfect for Mother's Day or anyone who gets it"
+    }
+  },
+  "items": [
+    {
+      "id": "mq-001",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "inspired by classic mom behavior humor; original composition",
+      "tags": ["媽媽", "矛盾", "日常", "母親節"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽說她不干涉我的生活。\n然後每天傳訊息問我吃了沒、冷不冷、最近壓力大不大。\n不干涉，她真的很努力在嘗試。",
+          "editorNote": "傳給媽媽讓她笑一下，或傳給朋友抱怨一下都適合。母親節前後轉發率特別高",
+          "variations": [
+            "我媽說隨便我，接著列了一份隨便清單給我參考"
+          ]
+        },
+        "en": {
+          "content": "My mom says she doesn't interfere in my life.\nThen she texts every morning asking if I ate, if I'm cold, and if my boss is being nice.\nShe's really trying, though.",
+          "editorNote": "Send this to your mom as a gentle roast, or share it with friends who understand the feeling",
+          "variations": [
+            "My mom said 'it's up to you' — and then sent a helpful list of options to choose from"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-002",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "merchandise metaphor angle; original composition",
+      "tags": ["媽媽", "感恩", "幽默", "母親節"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽是這世界上唯一一個，拿到不良品卻從來沒想過退貨的人。\n謝謝你選擇留下我，繼續嘗試修好我。",
+          "editorNote": "母親節傳給媽媽的神來之筆，幽默中帶感謝，對方通常會哭笑不得然後很感動",
+          "variations": [
+            "謝謝媽媽沒有把我退回廠商，明明當初品管沒做好"
+          ]
+        },
+        "en": {
+          "content": "My mom is the only person on earth who received a defective product and never once asked for a refund.\nThank you for keeping me — and for all the repairs.",
+          "editorNote": "Great for a Mother's Day card — funny enough to get a laugh, sincere enough to hit differently",
+          "variations": [
+            "Thanks for not returning me to the factory. Quality control clearly failed"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-003",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "selective memory humor; original composition",
+      "tags": ["媽媽", "記憶力", "幽默", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽的記憶力有選擇性：\n我二十年前說過的蠢話，她記得清清楚楚。\n我上週做過的好事，她說忘了。",
+          "editorNote": "聚餐時說出來全桌人都懂，特別適合在有媽媽在場的家庭聚會說，她可能會笑著反駁你",
+          "variations": [
+            "我媽記得我國小失誤的每個細節，但我昨天幫她買了早餐，她說謝謝誰啊"
+          ]
+        },
+        "en": {
+          "content": "My mom has highly selective memory:\nEvery embarrassing thing I've ever done? Crystal clear, decades later.\nThe good stuff I did last week? Gone by Tuesday.",
+          "editorNote": "Bring this up at family dinner — everyone will have their own version of this story",
+          "variations": [
+            "Mom remembers every awkward thing I said in fifth grade, but forgot I cleaned the kitchen yesterday"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-004",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom's sixth sense; original composition",
+      "tags": ["媽媽", "超能力", "幽默", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽有一種超能力：\n光聽你說「媽——」的語氣，就知道你是正常打招呼，還是出事了，還是想要什麼。\n你根本沒開口說完，她已經在回答了。",
+          "editorNote": "說給媽媽聽，她通常會得意地點頭承認。也適合用在解釋「媽媽就是這樣」的時候",
+          "variations": [
+            "我媽只聽到我發一個「唉」就知道我在說什麼，她說她練習了幾十年"
+          ]
+        },
+        "en": {
+          "content": "My mom has a superpower:\nShe can tell the difference between 'Mom?' (normal), 'Mom...' (I messed up), and 'Mooom' (I want something) — before I finish the word.\nShe's been reading me since before I could read.",
+          "editorNote": "Tell your mom this and she'll probably smile and say 'of course I know'",
+          "variations": [
+            "My mom heard one sigh and already knew what I was going to ask. I hadn't spoken yet"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-005",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom's cooking is unbeatable humor; original composition",
+      "tags": ["媽媽", "料理", "家庭", "溫馨"],
+      "i18n": {
+        "zh-tw": {
+          "content": "外面吃了這麼多年，從路邊攤到餐廳，還是沒有一道菜贏過我媽的家常菜。\n我覺得這不是廚藝問題，這是她在裡面多放了什麼我不知道的東西。",
+          "editorNote": "適合母親節傳給媽媽，或在家人群組發送，讓媽媽被誇獎一下。也能引出一場「到底多放了什麼」的有趣討論",
+          "variations": [
+            "我媽說她的菜沒什麼秘方，就是愛心。我覺得愛心可能真的有味道"
+          ]
+        },
+        "en": {
+          "content": "I've eaten at restaurants across multiple cities for years.\nNothing beats my mom's cooking. Not even close.\nI don't know what she puts in it, but I suspect it's illegal in some countries.",
+          "editorNote": "Send to your mom and watch her act modest while clearly being proud",
+          "variations": [
+            "My mom says there's no secret to her cooking. She's clearly lying"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-006",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom's medical diagnosis humor; original composition",
+      "tags": ["媽媽", "健康", "幽默", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽的醫學體系很完整：\n打噴嚏 → 沒穿外套\n肚子痛 → 沒吃早餐\n頭痛 → 手機看太久\n心情不好 → 最近不乖\n\n病症不同，根源一樣：都是我的錯。",
+          "editorNote": "在家庭群組分享效果一絕，媽媽本人看到通常會回「說得也沒錯」",
+          "variations": [
+            "不管什麼病，我媽的第一句永遠是「你不照顧自己才這樣」"
+          ]
+        },
+        "en": {
+          "content": "My mom's medical system is remarkably consistent:\nSneezing → didn't wear a jacket\nStomach ache → skipped breakfast\nHeadache → too much screen time\nBad mood → acting up again\n\nDifferent symptoms. Same root cause: me.",
+          "editorNote": "Share in the family group chat — your mom will probably reply 'well, it's true'",
+          "variations": [
+            "No matter the illness, my mom's first response is always 'you did this to yourself'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-007",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom's timing for phone calls; original composition",
+      "tags": ["媽媽", "電話", "日常", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽打電話來的時機永遠是：正在開會、剛要睡著、手沾著麵粉、最不方便的那一刻。\n但奇怪的是，那個時間點通常也剛好是我最需要聽到她聲音的時候。",
+          "editorNote": "母親節前後傳給媽媽，告訴她雖然時機很差，但你都接了，因為你想接。雙關效果很強",
+          "variations": [
+            "我媽不是不懂我在忙，她只是知道我忙的時候最需要被打擾一下"
+          ]
+        },
+        "en": {
+          "content": "My mom always calls at the worst moment: mid-meeting, half-asleep, hands covered in flour.\nBut somehow it's also always the exact moment I needed to hear her voice.",
+          "editorNote": "Send this to your mom before Mother's Day — it's a complaint and a thank-you at the same time",
+          "variations": [
+            "Mom calls at inconvenient times. I answer every time. I think that says something"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-008",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom as detective/GPS; original composition",
+      "tags": ["媽媽", "超能力", "幽默", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽不用追蹤軟體就知道我在哪裡。\n她只是會在我走到哪裡的時候說：「那裡人多，小心點。」\n然後那裡真的就很多人。",
+          "editorNote": "說給有媽媽的人聽，大家都有類似的故事。很適合母親節前在朋友之間流傳",
+          "variations": [
+            "不知道為什麼我媽的「最近注意一點」總是準的"
+          ]
+        },
+        "en": {
+          "content": "My mom doesn't need GPS tracking to know where I am.\nShe just texts 'be careful, it's busy there today' at the exact right moment.\nAnd she's always right.",
+          "editorNote": "Every person with a mom will have their own version of this story",
+          "variations": [
+            "My mom's 'take care of yourself lately' always hits at suspiciously accurate timing"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-009",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom's career advice humor; original composition",
+      "tags": ["媽媽", "職業", "幽默", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽對職業的評分標準只有一個：穩不穩定。\n我說我在做創意工作，她問：「那有勞健保嗎？」\n我說有，她說：「那還好。」",
+          "editorNote": "在有媽媽的場合說，她可能會點頭說「沒錯」。也可以用來調侃自己的工作選擇",
+          "variations": [
+            "我媽不在乎我的職稱，她在乎我幾點下班、離家多遠"
+          ]
+        },
+        "en": {
+          "content": "My mom has one career metric: stability.\nI told her I work in a creative field. She asked: 'Do you have health insurance?'\nI said yes. She said: 'Okay, that's fine then.'",
+          "editorNote": "Say this around your mom — she'll probably nod and say 'that's reasonable'",
+          "variations": [
+            "My mom doesn't care about my job title. She cares if I'm home for dinner"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-010",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "nagging as love translation; original composition",
+      "tags": ["媽媽", "嘮叨", "溫馨", "家庭", "母親節"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽說「你怎麼又這樣」的時候，\n翻譯成白話文是：我很擔心你。\n\n媽媽說「你這孩子啊」嘆氣的時候，\n翻譯成白話文是：我很愛你，但說不出口。",
+          "editorNote": "母親節最適合傳的那種語錄：讓媽媽知道你聽懂她了。也可以先傳給朋友感嘆一下，再傳給媽媽",
+          "variations": [
+            "媽媽的嘮叨是有聲的擔心，只是語氣包裝得不太一樣"
+          ]
+        },
+        "en": {
+          "content": "When my mom says 'Why do you always do this?' —\nthat means: I'm worried about you.\n\nWhen she sighs and says 'Oh, this kid...' —\nthat means: I love you, I just can't say it plainly.",
+          "editorNote": "Perfect for Mother's Day — let your mom know you understood her all along",
+          "variations": [
+            "Mom's nagging is just worry that didn't know how to be gentle"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-011",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom's sacrifice without scorekeeping; original composition",
+      "tags": ["媽媽", "感恩", "溫馨", "親情", "母親節"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽從來不算她為你付出了多少。\n不是因為不多，是因為她根本沒有把它算成「付出」。\n在她那邊，那些都叫做「當然」。",
+          "editorNote": "母親節傳給媽媽，不用加任何話，她看了自己會懂。也可以搭配一杯咖啡或一通電話",
+          "variations": [
+            "媽媽不說她犧牲了什麼，是因為她從來不覺得那是犧牲"
+          ]
+        },
+        "en": {
+          "content": "My mom has never tallied up what she gave up for me.\nNot because it wasn't much — it was enormous.\nBut because in her ledger, it was never listed as sacrifice. Just 'of course.'",
+          "editorNote": "Send this to your mom on Mother's Day with nothing else — she'll understand",
+          "variations": [
+            "Moms don't call it sacrifice. They call it Tuesday"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-012",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "jacket commandment humor; original composition",
+      "tags": ["媽媽", "外套", "幽默", "日常", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "住家裡的時候：「外面這麼冷你怎麼不穿外套！」\n搬出去之後：「記得穿外套喔，外面冷。」\n\n結論：媽媽這輩子最大的心願，就是讓你穿外套。",
+          "editorNote": "傳給有同感的朋友，或是直接傳給媽媽作為一個承認——你其實都有在穿",
+          "variations": [
+            "我媽對我的外套了解程度，比我自己還深"
+          ]
+        },
+        "en": {
+          "content": "Living at home: 'It's cold outside, why aren't you wearing a jacket?!'\nAfter moving out: 'Remember to wear a jacket, it's cold out there.'\n\nConclusion: my mom's life goal is to see me in a jacket.",
+          "editorNote": "Share with friends who'll nod immediately, or send to your mom as an acknowledgment that you do wear one",
+          "variations": [
+            "My mom knows more about my jacket collection than I do"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-013",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom's instant care package preparation; original composition",
+      "tags": ["媽媽", "準備", "溫馨", "家庭", "親情"],
+      "i18n": {
+        "zh-tw": {
+          "content": "跟我媽說我明天要早出門，她今晚就準備好了：水果、備用雨傘、一件我不知道自己需要的外套，還有一張寫「記得吃早餐」的字條。\n任何快遞都沒這個速度，也沒這個溫度。",
+          "editorNote": "傳給媽媽當成感謝，或發在朋友群組讓大家集體感嘆一下",
+          "variations": [
+            "我媽的備料速度讓超商都自愧不如"
+          ]
+        },
+        "en": {
+          "content": "I told my mom I have an early morning tomorrow.\nBy tonight she had packed: fruit, a backup umbrella, a jacket I didn't know I needed, and a note that says 'remember breakfast.'\nNo delivery service is this fast — or this warm.",
+          "editorNote": "Send to your mom as a genuine thank-you, or share with friends who will all have their own version",
+          "variations": [
+            "My mom's prep speed puts next-day delivery to shame"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-014",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mom as the ultimate finder of lost things; original composition",
+      "tags": ["媽媽", "超能力", "幽默", "日常", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "只要是我媽放的東西，她三秒內找得到。\n如果是我自己收的，那就等同宣告失蹤了。\n\n家裡最大的謎：東西到底是我藏起來的，還是我媽在管理中？",
+          "editorNote": "在家庭群組或跟兄弟姊妹說，大家都懂。媽媽看到可能會笑著說「因為你亂放」",
+          "variations": [
+            "我媽不是魔術師，但她能找到任何我說不見的東西"
+          ]
+        },
+        "en": {
+          "content": "If my mom put it somewhere, she'll find it in three seconds.\nIf I put it somewhere, we're filing a missing persons report.\n\nThe real question: is it lost, or is she just managing it?",
+          "editorNote": "Bring this up with siblings — everyone has this experience. Mom will say 'because you put things in random places'",
+          "variations": [
+            "My mom isn't a magician. She just knows where everything actually is"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-015",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "",
+      "sourceNote": "mother's day appreciation in beta product metaphor; original composition",
+      "tags": ["媽媽", "感恩", "母親節", "溫馨", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "謝謝媽媽，\n拿到一個還在測試版的作品，\n沒有選擇退貨，\n還每天耐心嘗試更新我。\n\n我知道你很累，\n但你從來沒有放棄過這個版本的我。",
+          "editorNote": "母親節最適合傳的語錄之一：幽默起手、感動收尾。建議傳完打一通電話更好",
+          "variations": [
+            "媽，你養的這個版本還有很多bug，謝謝你繼續更新"
+          ]
+        },
+        "en": {
+          "content": "Thank you, Mom,\nfor receiving a product clearly still in beta —\nand choosing not to return it.\nFor patching it, updating it, and never giving up on this version of me.\n\nI know the maintenance has been exhausting.",
+          "editorNote": "One of the best things to send on Mother's Day — funny opener, sincere landing. Follow it up with a call",
+          "variations": [
+            "Mom, this version you raised still has a lot of bugs. Thanks for keeping the updates going"
+          ]
+        }
+      }
+    }
+  ]
+}
