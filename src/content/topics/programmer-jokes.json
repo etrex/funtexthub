@@ -1453,6 +1453,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-058",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://programmerhumor.io/memes/recursion",
+      "sourceNote": "Classic recursion self-reference joke — rewritten as a dialogue instead of a one-liner",
+      "tags": ["遞迴", "recursion", "工程師思維", "邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師在技術分享會上說：「今天要講遞迴。要理解遞迴，你必須先理解遞迴。」\n\n台下沉默三秒。\n\n有人舉手：「所以什麼時候才會講到真正的內容？」\n\n工程師：「你已經在裡面了。」",
+          "editorNote": "貼給剛學程式的朋友或剛接觸遞迴的學生，讓他們在迷惑中笑出來",
+          "variations": [
+            "遞迴的定義：請見『遞迴』。"
+          ]
+        },
+        "en": {
+          "content": "At a tech talk, the engineer said: \"Today's topic is recursion. To understand recursion, you must first understand recursion.\"\n\nThree seconds of silence.\n\nSomeone raised their hand: \"So when do we get to the actual content?\"\n\nEngineer: \"You're already inside it.\"",
+          "editorNote": "Share with anyone just starting to learn programming — they'll groan and laugh at the same time",
+          "variations": [
+            "Definition of recursion: see 'recursion.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-059",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Variable naming humor — developers' notorious habit of using temp, tmp, tmp2, tmp_final rewritten as a story",
+      "tags": ["命名", "程式碼品質", "工程師日常", "可讀性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "程式碼 review 中，reviewer 指著一個變數問：「這個 `data2` 是什麼？」\n\n作者：「就是 data。」\n\n「那 `data` 是什麼？」\n\n「也是 data。」\n\n「那差別是？」\n\n「`data2` 是比較新的那個。」\n\n「那 `data_final`？」\n\n「……不要問那個。」",
+          "editorNote": "在 code review 文化的團隊群組中傳這個，大家都有自己的 tmp_final_v2 黑歷史",
+          "variations": [
+            "工程師命名演化史：data → data2 → data_new → data_final → data_final2 → data_USE_THIS_ONE"
+          ]
+        },
+        "en": {
+          "content": "During a code review, the reviewer pointed at a variable and asked: \"What's `data2`?\"\n\nAuthor: \"It's the data.\"\n\n\"Then what's `data`?\"\n\n\"Also the data.\"\n\n\"What's the difference?\"\n\n\"`data2` is the newer one.\"\n\n\"And `data_final`?\"\n\n\"...Don't ask about that one.\"",
+          "editorNote": "Drop this in any dev group that does code reviews — everyone has their own `tmp_final_v2` skeletons",
+          "variations": [
+            "The evolution of developer variable naming: data → data2 → data_new → data_final → data_final2 → data_USE_THIS_ONE"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-060",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Top-10-programmer-jokes",
+      "sourceNote": "'Works on my machine' classic — rewritten as a shipping joke with a modern twist",
+      "tags": ["環境差異", "部署", "工程師語錄", "works on my machine"],
+      "i18n": {
+        "zh-tw": {
+          "content": "QA 工程師：「你這個功能在測試環境整個壞掉了。」\n\n開發工程師：「奇怪，我這邊跑得好好的。」\n\nQA：「那你的電腦可以出貨嗎？」\n\n開發：「……要不要考慮一下 Docker？」",
+          "editorNote": "傳給有在跑 QA 流程的開發團隊，測試組和開發組都會覺得被戳中",
+          "variations": [
+            "解決方案：把『在我電腦上可以跑』直接列為一種測試環境，通過率瞬間達到 100%。"
+          ]
+        },
+        "en": {
+          "content": "QA engineer: \"This feature is completely broken in the test environment.\"\n\nDeveloper: \"That's weird — it runs perfectly on mine.\"\n\nQA: \"Can we ship your laptop then?\"\n\nDeveloper: \"...Have you considered Docker?\"",
+          "editorNote": "Send to any team that does QA — both sides will instantly recognize themselves",
+          "variations": [
+            "Proposed fix: officially recognize 'works on my machine' as a valid test environment. Pass rate immediately hits 100%."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-061",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://punbloom.com/programming-jokes/",
+      "sourceNote": "AI replacing Stack Overflow debugging — 2026 trend of explaining bugs to ChatGPT instead of googling; rewritten as a workplace exchange",
+      "tags": ["AI", "debug", "ChatGPT", "工程師文化", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事：「你在幹嘛？」\n\n工程師：「跟 AI 解釋我的 bug。」\n\n同事：「它有幫你解決嗎？」\n\n工程師：「還沒，但我解釋到一半，自己突然知道問題在哪了。」\n\n同事：「所以 AI 沒幫上忙？」\n\n工程師：「它有啊，它認真聽我說話。這件事以前是 Stack Overflow 在做的。」",
+          "editorNote": "2026 年傳給還在用 Stack Overflow 的工程師，或正在用 AI 工具的開發者都會心有戚戚",
+          "variations": [
+            "除錯工具演化史：印出來看 → Google 搜尋 → 問 Stack Overflow → 貼給 AI → AI 說試試看這樣 → 自己盯著 AI 的回答又想通了"
+          ]
+        },
+        "en": {
+          "content": "Colleague: \"What are you doing?\"\n\nDeveloper: \"Explaining my bug to the AI.\"\n\nColleague: \"Did it fix it?\"\n\nDeveloper: \"Not yet — but halfway through explaining it, I figured out the problem myself.\"\n\nColleague: \"So the AI didn't actually help?\"\n\nDeveloper: \"It did — it listened. That used to be Stack Overflow's job.\"",
+          "editorNote": "Share in 2026 with any developer using AI tools daily — the rubber duck upgraded to a language model",
+          "variations": [
+            "Debugging tool evolution: print statements → Google → Stack Overflow → paste into AI → stare at AI's answer → figure it out yourself anyway"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-062",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://witwale.com/coding-puns-and-jokes/",
+      "sourceNote": "Changing requirements joke — 'kill a programmer without a gun' concept rewritten as a dialogue exchange with a final punchline",
+      "tags": ["需求變更", "PM", "工程師心聲", "專案管理"],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM：「我們需要改一下需求。」\n\n工程師：「好，改什麼？」\n\nPM：「其實跟之前說的差不多，只是方向完全相反。」\n\n工程師：「……」\n\nPM：「你還好嗎？你臉色怎麼那麼白？」\n\n工程師：「我在默哀。」",
+          "editorNote": "任何有 PM 的開發團隊都能感同身受，sprint 結束前收到需求大改的時候傳這個最準",
+          "variations": [
+            "想不傷感情地阻止工程師離職，就別在功能快做完時說『我們再討論一下方向』。"
+          ]
+        },
+        "en": {
+          "content": "PM: \"We need to adjust the requirements.\"\n\nDeveloper: \"Sure, what's changing?\"\n\nPM: \"It's basically the same as before — just the direction is completely reversed.\"\n\nDeveloper: \"...\"\n\nPM: \"You okay? You look pale.\"\n\nDeveloper: \"I'm mourning.\"",
+          "editorNote": "Every dev team with a PM has lived this — perfect to send right after requirements flip near the end of a sprint",
+          "variations": [
+            "If you want to keep your developers from quitting without hurting their feelings, avoid saying 'let's revisit the direction' when the feature is 90% done."
+          ]
+        }
+      }
     }
   ]
 }

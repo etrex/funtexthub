@@ -879,6 +879,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-032",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://superiorresponses.com/comebacks-unwanted-opinions/",
+      "sourceNote": "幹話語錄參考，重新創作「你有沒有想過這個問題」主題",
+      "tags": [
+        "幹話",
+        "人際",
+        "諷刺",
+        "建議"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有沒有想過，你的問題出在哪裡？」\n\n有，我想過。\n我想了很久，想得相當仔細，\n大概比你替我想的時間長了十倍左右。\n\n謝謝你的關心，\n只是這個問題我已經認識它很久了，\n我們不需要再做介紹。",
+          "editorNote": "有人用「你有沒有想過」開頭要給你建議時，這段話幫你在心裡先緩衝一下，再決定要不要聽",
+          "variations": [
+            "別人說「你有沒有想過」的時候，通常他們想說的是：「你應該照我說的方式去想。」這兩句話意思不太一樣。"
+          ]
+        },
+        "en": {
+          "content": "'Have you ever stopped to think about what your problem actually is?'\n\nYes. I have.\nI've thought about it at length, in considerable detail —\nprobably about ten times longer than you've thought about it on my behalf.\n\nThank you for your concern.\nThis problem and I are already well acquainted.\nNo further introductions are necessary.",
+          "editorNote": "For when someone opens with 'have you ever thought about...' before delivering unsolicited analysis — gives your internal monologue a moment to buffer",
+          "variations": [
+            "When someone says 'have you ever thought about it,' they usually mean 'have you thought about it exactly the way I'm about to describe.' These are not the same question."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-033",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://www.bolde.com/clever-comebacks-for-dealing-with-unsolicited-advice/",
+      "sourceNote": "幹話語錄參考，重新創作「要懂得感恩」說教主題",
+      "tags": [
+        "幹話",
+        "感恩",
+        "人生",
+        "毒雞湯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你要懂得感恩，很多人連你現在這樣都沒有。\n\n我知道，我很感恩。\n但感恩和抱怨不是互斥的，\n我可以同時感謝擁有的，\n也可以對不滿意的地方說出來。\n\n這兩件事情，我應該可以同時處理，\n不需要其中一個把另一個消音。",
+          "editorNote": "有人用「要感恩」堵住你的情緒出口時，這段話讓你說清楚：感恩不等於不能有感受",
+          "variations": [
+            "「你要感恩」是真的。但感恩不是用來壓制情緒的道具，它是一種心態，不是一個句點。"
+          ]
+        },
+        "en": {
+          "content": "You should be grateful. Plenty of people would love to be in your position.\n\nI know. And I am.\nBut gratitude and frustration aren't opposites.\nI can appreciate what I have\nwhile also acknowledging what isn't working.\n\nThese two things can coexist.\nOne doesn't have to silence the other.",
+          "editorNote": "Use when someone responds to your frustration with 'just be grateful' — clarifies that gratitude and feelings aren't mutually exclusive",
+          "variations": [
+            "'Be grateful' is genuine advice. But gratitude isn't a tool for suppressing emotions — it's a mindset, not a full stop at the end of a conversation."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-034",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://www.rd.com/list/hilarious-comebacks/",
+      "sourceNote": "幹話語錄參考，重新創作「成功要靠貴人」主題",
+      "tags": [
+        "幹話",
+        "成功",
+        "人脈",
+        "毒雞湯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "成功的人背後都有貴人相助。\n\n好，那我想請問一下：\n貴人什麼時候上班？\n有沒有預約方式？\n還是直接walk-in就好？\n\n因為我等了一段時間了，\n想確認一下我是不是排到了正確的隊伍。",
+          "editorNote": "有人說你只差一個貴人時，這段話問出所有人心裡其實想問的問題",
+          "variations": [
+            "貴人存在是真的，但貴人不是叫來就來的。大多數的成功故事裡，主角等貴人等到快先成功了，貴人才剛好出現。"
+          ]
+        },
+        "en": {
+          "content": "Every successful person had someone who helped them along the way.\n\nGreat. Quick question:\nWhat are this mentor's office hours?\nIs there an appointment system?\nOr is it walk-in only?\n\nI've been waiting for a while now\nand I want to make sure I'm in the right queue.",
+          "editorNote": "For when someone tells you that you just need 'the right person to believe in you' — asks the question everyone is actually thinking",
+          "variations": [
+            "Mentors and lucky breaks are real. They just don't arrive on demand. In most success stories, the protagonist was almost already there by the time the right person showed up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-035",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://punquix.com/funny-one-liner-jokes/",
+      "sourceNote": "幽默語錄參考，重新創作「計畫趕不上變化」主題",
+      "tags": [
+        "幹話",
+        "計畫",
+        "人生",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "計畫趕不上變化，所以計畫沒什麼用。\n\n好，那我不計畫。\n然後你說我沒有方向感。\n\n後來我有計畫，\n然後你說計畫趕不上變化。\n\n我現在只是想確認一下：\n到底有沒有一種狀態，是你覺得可以的？",
+          "editorNote": "被用「計畫趕不上變化」否定了你的計畫之後，把這段話說出來，問題就回到了說話的人身上",
+          "variations": [
+            "「計畫趕不上變化」是事實，但沒有計畫，連趕都不知道要往哪裡趕。這兩件事的關係，比這句話看起來複雜。"
+          ]
+        },
+        "en": {
+          "content": "Plans never survive contact with reality, so what's the point of planning?\n\nFair. So I stopped planning.\nThen you said I had no direction.\n\nSo I made a plan.\nThen you said plans never work out anyway.\n\nI just want to confirm:\nis there any state of being you'd actually be okay with?",
+          "editorNote": "Use after someone dismisses your plan with 'things always change anyway' — neatly redirects the contradiction back to the person who said it",
+          "variations": [
+            "'Plans never survive reality' is true. But without a plan, you don't even know which direction you're failing to reach. The relationship between these two facts is more complicated than the saying implies."
+          ]
+        }
+      }
     }
   ]
 }

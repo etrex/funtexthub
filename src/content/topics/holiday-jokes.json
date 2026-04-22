@@ -632,6 +632,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-028",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://www.managertoday.com.tw/english/view/56216",
+      "sourceNote": "立蛋習俗 (egg-balancing on Dragon Boat Festival noon) from Manager Today festival vocab article; original comedy scene rewritten around the concentration vs. result gap",
+      "tags": ["端午節", "立蛋", "習俗", "家庭", "冷笑話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "端午節正午，全家人圍著餐桌立蛋。\n\n阿爸：「要心誠才立得起來！」\n\n阿如深呼吸，屏氣凝神，慢慢把蛋立在桌上。\n\n成功。\n\n阿弟隨手放了一顆上去，滑了兩下，也立起來了。\n\n阿如：「……你有在認真嗎？」\n\n阿弟：「沒有。」\n\n阿爸思考了五秒：「也許……心不誠也可以。」",
+          "editorNote": "立蛋是端午節正午的傳統習俗，據說成功代表好運——笑點在認真與隨意的結果一樣，傳給那個任何事都不費力就做到的弟弟或妹妹",
+          "variations": [
+            "哲學版：「端午立蛋成功，不是因為心誠，是因為正午太陽直射地面引力略有變化——但這樣說就沒有趣了，所以我們繼續說心誠。」"
+          ]
+        },
+        "en": {
+          "content": "Dragon Boat Festival, high noon. The whole family gathered around the table to balance eggs.\n\nDad: \"You have to do it with a sincere heart!\"\n\nA-Ru took a deep breath, steadied herself, and slowly stood an egg upright.\n\nSuccess.\n\nHer little brother tossed one on the table carelessly. It wobbled twice. Also stood up.\n\nA-Ru: \"...Were you even trying?\"\n\nLittle brother: \"Not really.\"\n\nDad thought for five seconds. \"Maybe... sincerity is optional.\"",
+          "editorNote": "The Dragon Boat Festival egg-balancing tradition says success means good luck — the punchline is that effort and luck are completely unrelated, which anyone with a younger sibling understands immediately",
+          "variations": [
+            "Science version: \"The egg stands because the sun is directly overhead at noon and gravity is slightly altered — but that ruins the magic, so let's just say it's sincerity.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-029",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://memes.tw/wtf?tag=%E7%AB%AF%E5%8D%88%E7%AF%80",
+      "sourceNote": "香包 (fragrant sachet) as festival gift concept from 端午節梗圖 compilations on memes.tw; original dialogue scene rewritten with modern gifting awkwardness",
+      "tags": ["端午節", "香包", "禮物", "習俗", "諧音梗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事送了我一個端午節香包，說：\n「裡面有艾草、雄黃還有香料，掛在身上可以驅邪。」\n\n我：「謝謝，那……可以驅主管嗎？」\n\n他想了一下：「上次我掛著進辦公室，主管還是叫我開會。」\n\n我：「那只能驅蟲，不能驅人。」\n\n他：「對，而且我懷疑有些蟲比主管好驅。」",
+          "editorNote": "「驅邪」的邪是指惡氣和蟲蛇，不包含主管——傳給那個在端午節還要被叫去開會的同事，他看完會又哭又笑",
+          "variations": [
+            "正向版：「香包確實有艾草的天然香氣，放在包包裡或辦公桌上，至少讓人心情好一點——就算主管還是來了。」"
+          ]
+        },
+        "en": {
+          "content": "A coworker gave me a Dragon Boat Festival sachet and said:\n\"It's filled with mugwort, realgar, and spices. Wear it to ward off evil.\"\n\nMe: \"Thanks. Does it work on managers?\"\n\nHe thought about it. \"I wore mine into the office last year. Manager still called a meeting.\"\n\nMe: \"So it wards off insects but not people.\"\n\nHe: \"Right. And honestly, some insects are easier to deal with than some people.\"",
+          "editorNote": "The fragrant sachet is meant to repel insects and bad energy — unfortunately the definition of 'bad energy' has some gaps. Works best sent to the coworker who got called into a meeting on the holiday",
+          "variations": [
+            "Positive version: \"The mugwort sachet genuinely smells nice. Pop it in your bag. It won't stop your manager, but it might make the meeting slightly more bearable.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-030",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://health.ltn.com.tw/article/breakingnews/5060263",
+      "sourceNote": "雄黃酒有毒 health warning article from Liberty Health; original joke rewritten around the gap between ancient tradition and modern health knowledge",
+      "tags": ["端午節", "雄黃酒", "習俗", "健康", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "端午節家族聚餐，阿公拿出一瓶雄黃酒，說：\n「老祖宗傳下來的，端午節要喝雄黃酒，可以百毒不侵。」\n\n表弟悄悄查了一下手機，湊過來說：\n「阿公，網路說雄黃裡面有砷，是有毒的……」\n\n阿公想了三秒：\n「所以你的意思是，老祖宗喝了幾千年，\n毒都喝掉了，剩下的都是健康的人，\n包括你跟我。」\n\n表弟：「……這個邏輯有點難反駁。」",
+          "editorNote": "雄黃酒傳統上端午節飲用，但現代醫學發現雄黃含砷具毒性——阿公的反向邏輯雖然不科學，但說出來之後確實很難直接回嘴",
+          "variations": [
+            "安全版：「現代中醫師建議改喝菖蒲酒或菊花酒，驅邪效果相近，砷含量友善多了。」"
+          ]
+        },
+        "en": {
+          "content": "Family dinner on Dragon Boat Festival. Grandpa produced a bottle of realgar wine and announced:\n\"Ancient tradition — drink realgar wine on this day and nothing can poison you.\"\n\nYounger cousin quietly checked his phone, then leaned over:\n\"Grandpa, the internet says realgar contains arsenic. It's actually toxic.\"\n\nGrandpa thought for three seconds.\n\n\"So what you're saying is — our ancestors drank this for thousands of years,\nand the ones who couldn't handle it are gone,\nleaving only the survivors. Including you and me.\"\n\nCousin: \"...That logic is kind of hard to argue with.\"",
+          "editorNote": "Realgar wine is a genuine festival tradition, and it genuinely contains arsenic — the grandpa's reverse-Darwin logic is both wrong and somehow undefeatable, which is exactly what makes it funny",
+          "variations": [
+            "Safe alternative version: \"Modern herbalists suggest chrysanthemum wine instead — similar festival vibes, significantly lower arsenic content.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-031",
+      "dateAdded": "2026-04-22",
+      "sourceUrl": "https://open101875.pixnet.net/blog/post/64185463",
+      "sourceNote": "端午節群組祝福訊息大量轉發現象 from Pixnet 2023 端午節笑話集; original scene rewritten as LINE group message archaeology",
+      "tags": ["端午節", "LINE群組", "祝福語", "家族群組", "社群媒體"],
+      "i18n": {
+        "zh-tw": {
+          "content": "端午節早上八點，手機震了二十三下。\n\n全部都是家族群組。\n\n打開來看：同一張龍舟配祝福語的圖，\n二十三個人各傳了一次。\n\n其中有三張圖是一模一樣的，\n包括阿嬤傳的那張，跟她去年傳的那張。\n\n我媽回覆：「大家端午節快樂！」\n\n然後傳了一張龍舟配祝福語的圖。\n\n我默默把手機翻面，繼續睡。",
+          "editorNote": "端午節家族群組的集體行為——全員同時轉發祝福圖，而且大概率有重複的，傳給那個也被震醒的人，一起苦笑",
+          "variations": [
+            "反向版：「如果你早上沒被家族群組震醒，不是因為大家忘了你——是因為他們把你設成靜音了，這才是真正值得擔心的事。」"
+          ]
+        },
+        "en": {
+          "content": "8am on Dragon Boat Festival. Phone buzzed twenty-three times.\n\nAll from the family group chat.\n\nOpened it: the same dragon boat blessing image,\nsent twenty-three times by twenty-three different people.\n\nThree of the images were completely identical,\nincluding Grandma's, which was the same one she sent last year.\n\nMom replied: \"Happy Dragon Boat Festival everyone!\"\n\nThen sent a dragon boat blessing image.\n\nI quietly flipped my phone face-down and went back to sleep.",
+          "editorNote": "The universal family group chat Dragon Boat Festival experience — everyone forwards the same image within minutes of each other. Send to the friend who was also woken up at 8am by their family",
+          "variations": [
+            "Dark version: \"If your family group chat didn't wake you up this morning, it's not because they forgot — it's because they muted you. That's the real thing to worry about.\""
+          ]
+        }
+      }
     }
   ]
 }
