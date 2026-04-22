@@ -960,6 +960,84 @@
 14. **Update `cold-jokes` with I人/E人 jokes + 媽祖遶境 item** (CRITICAL — 10 reports; 媽祖 window closes April 26 — 5 days)
 15. **Update `absurd-wisdom` with 「接住」items** (10 consecutive reports — non-deferrable)
 16. **Update `cheesy-pickups` with 「朋朋」+ MBTI + 硬控 pickup lines** (10 consecutive reports — non-deferrable)
-17. Create `healing-quotes` / 治癒系語錄 (evergreen; confirmed by POPBEE 2026 + multiple sources; create after backlog clears)
+17. ~~Create `healing-quotes` / 治癒系語錄~~ ✅ Done (confirmed 2026-04-22)
 18. Create `holiday-jokes` 端午節 content expansion (target live by May 25 for June 19 peak)
 19. Monitor `animal-memes` / 動物迷因語錄 for 2 more weeks before deciding
+
+---
+
+## 2026-04-22 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, graduation-quotes, couple-jokes, dark-humor, holiday-jokes, drama-quotes, **healing-quotes** (15 total) ✅
+- `healing-quotes` NEWLY CONFIRMED created (detected in src/content/topics/ — was NOT in yesterday's report) ✅
+- Mother's Day (May 10) is **18 days away** — sweet-quotes update done (sq-018–sq-022) ✅
+- 勞動節連假 (May 1–3) is **9 days away** — workplace-quotes live and indexed ✅
+- 大甲媽祖遶境 is **LIVE NOW (April 17–26)** — **4 days remaining** in traffic window (CRITICAL FINAL WINDOW)
+- 端午節 (June 19–21) is **58 days away** — holiday-jokes live; content prep ongoing
+- Persistent backlog (11 consecutive reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items — **ABSOLUTE FINAL NOTICE: execute in next content session, no further deferral acceptable**
+
+### New Topic Recommendations
+
+1. **人類圖語錄 / Human Design Quotes** (slug: `human-design-quotes`, category: Lifestyle)
+   - A podcast episode "EP.21 星座、人類圖與MBTI，為什麼我們這麼著迷於被分類？" confirms 人類圖 (Human Design) is now being discussed alongside MBTI and 星座 as the "next personality classification" in Taiwan's self-discovery culture
+   - Human Design uses birth time + date + location to generate a "chart" (圖) and assigns one of 5 Types: Generator (生產者), Manifesting Generator (顯示生產者), Projector (投射者), Manifestor (顯示者), Reflector (反映者)
+   - Content angle: playful quotes and jokes about each Type's nature — "身為Projector，我不是懶，我是在等邀請"; "Generator的一天：等待，回應，做完，等待"
+   - Cross-format potential: 人類圖 × MBTI × 星座 triple-combo content is organically generating in Taiwan's personality content ecosystem — confirmed by podcast audience discussion on Dcard
+   - SEO targets: 人類圖語錄, 人類圖金句, Human Design 台灣, 人類圖類型, 人類圖搞笑
+   - **Recommendation: LOW-MEDIUM priority now — monitor for 1–2 more months. If 人類圖 content continues to grow alongside MBTI crossover, create in June–July after 端午節 content stabilizes.**
+
+2. **媽媽語錄 / Mom Quotes** (slug: `mom-quotes`, category: Humor)
+   - Mother's Day (May 10) is 18 days away and watermoon333.pixnet.net has confirmed active 2026 mom-humor content production: "感謝媽媽忍受我，我知道這是個挑戰" — this distinctly humor-based format is underserved by the current sweet-quotes (which skews romantic/emotional)
+   - Distinct tone from sweet-quotes: mom-humor is self-deprecating, exasperated-affection format ("我媽說她不管我，然後每天問我三餐吃了沒"); different sharing context (group chats, Line貼圖, family groups)
+   - Evergreen with huge Mother's Day peak annually + ongoing demand (媽媽語錄 is perennially shared on LINE)
+   - SEO targets: 媽媽語錄, 媽媽笑話, 媽媽金句, 母親節語錄, 媽媽的愛笑話, funny mom quotes, mom jokes
+   - **Recommendation: MEDIUM-HIGH priority — Mother's Day window opens NOW (18 days). Creating before May 5 would allow indexing before the peak. This is a timely opportunity distinct from sweet-quotes.**
+
+### Content Trends
+
+- **甄嬛傳 2026 Viral Wave: Still Active, New Entries Confirmed**: DailyView and UDN Stars both published comprehensive lazy-packs this cycle. New confirmed 2026 entries not in previous reports: 「撞世die」(Nian Shilan "died by crashing into a wall" → 壯世代 homophone), 「環保橘」(an official's green policy → palace drama context), 「慣蘭高手」(confirmed from direct search: 華妃的"慣" as "慣老闆"). The viral window remains open approximately 1 more week. Cold-jokes update with these entries remains URGENT. DailyView article: "網友狂刷「眉預算」！「曹GD」是誰？《甄嬛傳》馬拉松蛇年新梗一次看" — confirms even more new entries than previously documented.
+
+- **大甲媽祖遶境 FINAL WINDOW (April 17–26, 4 days remaining)**: Official route data confirms 4/26 回鑾 to Dajia Zhenlangong. 2026 theme is 「善」. Route: Taichung → Changhua → Yunlin → Chiayi → return. Pilgrim count: confirmed massive (340km, 21 townships, ~100 temples). The food-culture humor angle remains the most respectful approach. **ABSOLUTE LAST CHANCE: if cold-jokes and absurd-wisdom items with 媽祖遶境 content are not added before April 26, this opportunity is lost for a full year.**
+
+- **治癒系語錄 Structural Demand Confirmed (healing-quotes NOW LIVE)**: Threads @healinglove5200 active in April 2026 with posts like "當他離開，你不是失去一個人，你是失去「我是被愛的」這個證明" — high-engagement healing content. Marie Claire TW confirmed "12句現代人最需要的療癒金句" format. womany.net has 35 dedicated 療癒 articles. **healing-quotes being live is perfectly timed with this structural demand.**
+
+- **MBTI × 星座 × 人類圖 Triple-Classification Culture (Emerging)**: Apple Podcast episode on 人類圖 × MBTI × 星座 confirms this "triple personality classification" discussion is growing. Dcard MBTI × 星座 forum thread has active engagement. The zodiac-quotes topic is well-positioned, but there's a potential gap for 人類圖-specific content if the trend accelerates. Monitor for 2 more months.
+
+- **端午節 Viral Joke Ecosystem Well-Developed**: memes.tw confirms 20+ 端午節 meme templates. Classic formats confirmed: 股市/屈原 cross-jokes ("大盤跌了，今年投資人也跟屈原一起跳水"), 南粽 vs. 北粽 debate, phone-in-zongzi prank format ("把手機放進粽葉裡煮60分鐘電量翻倍" — perennial viral joke). holiday-jokes is live and well-positioned. Watermoon333 confirmed active 端午節 content production for 2026.
+
+- **勞動節 (May 1–3) — 9 DAYS AWAY**: 勞動節 meme ecosystem confirmed rich on memes.tw (上班, 上班族, 社畜, 職場, 打工仔 tags all active). "2026全年不補班" hook remains the strongest 勞動節 workplace meme this year. workplace-quotes is well-positioned. No new content action needed — coverage is solid.
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 joke format **11 CONSECUTIVE REPORTS — EXECUTE THIS SESSION, ZERO EXCEPTIONS**. 甄嬛傳 items still URGENT (viral window ~1 week left): use 「撞世die」format: "《甄嬛傳》2026新哏：年秘書沒做好被裁員，叫「撞世die」". 媽祖遶境: FINAL 4 DAYS — add item before April 26 or lose the window for a year.
+- **absurd-wisdom (廢話文學)**: 「接住」items **11 consecutive reports**. Healing-quotes being live now creates a strategic angle: absurd-wisdom can add a contrasting take — "治癒系說要接住情緒，廢話文學說：接完然後呢？放哪？"
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI + 硬控 pickup lines **11 consecutive reports**. No new content required — execute existing recommendations from previous reports.
+- **healing-quotes (治癒系語錄 — NEWLY LIVE)**: Verify content covers the three core tones: (1) 失戀療癒 ("當他離開，你不是失去一個人" format), (2) 自我療癒 ("先好好活著，其他的慢慢來" format), (3) 日常溫暖 ("你今天辛苦了，謝謝你還在" format). Confirm LINE sharing editorNotes reference friend-to-friend forwarding context.
+- **drama-quotes (台劇語錄)**: Verify 「眉預算」、「撞世die」、「慣蘭高手」are present alongside the classic 甄嬛傳 emotional lines. If the April 20 creation predates the latest viral entries (撞世die/環保橘), consider adding 2–3 more items while the trend is still hot.
+- **holiday-jokes (節日笑話)**: 端午節 content prep: confirm phone-in-zongzi prank joke format is present ("把手機放進粽葉裡煮60分鐘電量翻倍"), 股市/屈原 cross-joke, and the 南粽 vs. 北粽 regional debate. Target indexed before June 10.
+- **graduation-quotes (畢業季語錄)**: Taiwan graduation traffic will begin building in early May. Verify "In My ___ Era" bilingual format and English graduation caption tags are present. No new action needed.
+- **workplace-quotes (職場語錄)**: 勞動節 (May 1–3) peak is 9 days away. Confirm 2026全年不補班 hook appears in editorNotes on the highest-energy items. Tags: 上班族限定, 社畜語錄, 勞動節.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done
+8. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done
+9. ~~Create `couple-jokes` / 情侶日常笑話~~ ✅ Done
+10. ~~Create `dark-humor` / 地獄笑話~~ ✅ Done
+11. ~~Create `holiday-jokes` / 節日笑話~~ ✅ Done
+12. ~~Create `drama-quotes` / 台劇語錄~~ ✅ Done (16 items, 2026-04-20)
+13. ~~Create `healing-quotes` / 治癒系語錄~~ ✅ Done (confirmed 2026-04-22)
+14. **Update `cold-jokes` with I人/E人 jokes + 媽祖遶境 item + 甄嬛傳 撞世die/眉預算/慣蘭高手** (ABSOLUTE FINAL URGENCY — 11 reports; 媽祖 window closes April 26 — 4 days; 甄嬛傳 wave ~1 week left)
+15. **Update `absurd-wisdom` with 「接住」items** (11 consecutive reports — execute immediately)
+16. **Update `cheesy-pickups` with 「朋朋」+ MBTI + 硬控 pickup lines** (11 consecutive reports — execute immediately)
+17. Create `mom-quotes` / 媽媽語錄 (MEDIUM-HIGH — Mother's Day May 10 is 18 days away; distinct from sweet-quotes; create before May 5 for indexing)
+18. Create `holiday-jokes` 端午節 content expansion (target live by May 25 for June 19 peak)
+19. Monitor `human-design-quotes` / 人類圖語錄 for 2 more months before committing
+20. Monitor `animal-memes` / 動物迷因語錄 for 2 more weeks before deciding
