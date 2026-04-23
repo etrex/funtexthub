@@ -1400,6 +1400,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-052",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "",
+      "sourceNote": "接住情緒廢話文學，原創",
+      "tags": ["廢話文學", "情緒", "療癒", "接住"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果你總是接住所有人的情緒，\n記得偶爾也要讓自己落地。\n\n不然你接得住全世界，\n卻沒有人接住你。",
+          "editorNote": "傳給那個總是照顧別人情緒、忘記照顧自己的朋友；聽起來很有道理，但其實只是說了一個很明顯的事",
+          "variations": [
+            "接了別人的情緒，要記得找個地方放。目前科學上沒有發現情緒的存放位置，但這個問題確實存在。"
+          ]
+        },
+        "en": {
+          "content": "If you're always catching everyone else's feelings,\nremember to let yourself land somewhere too.\n\nOtherwise, you hold up the whole world —\nbut there's no one holding you.",
+          "editorNote": "Send to the friend who's always the emotional support for everyone else — it sounds profound, but it is simply pointing out something quite obvious",
+          "variations": [
+            "After catching other people's emotions, you need somewhere to put them. Science has not identified an emotional storage location, but the problem remains real."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-053",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://teamplan.com.tw/threads-viral-2026/",
+      "sourceNote": "初級大人廢話文學，基於2026 Threads viral trend，原創",
+      "tags": ["廢話文學", "初級大人", "長大", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道什麼叫做初級大人嗎？\n\n就是已經可以獨立繳水電費、付房租，\n但芹菜要怎麼炒，\n還是要打電話問媽媽的那種人。\n\n這是一種被社會認定為成年，但廚房不認可的狀態。",
+          "editorNote": "傳給假裝自己已經完全獨立，但其實廚房技能仍在更新中的朋友",
+          "variations": [
+            "初級大人可以簽合約、辦貸款，但不確定味噌湯要放幾匙味噌。這兩件事沒有衝突，只是還沒解決。"
+          ]
+        },
+        "en": {
+          "content": "A junior adult is a person who is capable of paying utilities and rent independently,\nbut still requires a phone call to their mother\nbefore attempting to cook celery.\n\nThis describes a state of being legally recognized as an adult\nwhile remaining unrecognized by the kitchen.",
+          "editorNote": "Send to the friend who claims full independence but texted their mom about pasta this week",
+          "variations": [
+            "Junior adults can sign contracts and apply for loans, but are uncertain how many spoonfuls of miso go in miso soup. These facts coexist without conflict."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-054",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://tw.news.yahoo.com/2026-大甲媽祖遶境/",
+      "sourceNote": "大甲媽祖遶境廢話文學，2026時事，原創",
+      "tags": ["廢話文學", "媽祖遶境", "台灣", "宗教"],
+      "i18n": {
+        "zh-tw": {
+          "content": "跟著媽祖走9天，\n科學研究顯示，\n你的腳，一定會痛。\n\n沒有其他可能的結果被觀測到。",
+          "editorNote": "大甲媽祖遶境期間（4月中至4月底）傳出去效果最好；純廢話文學格式，只說了一件很明顯的事",
+          "variations": [
+            "走340公里的結果是：你走完了340公里。這個結果和距離完全相符。"
+          ]
+        },
+        "en": {
+          "content": "Walking for nine days in a religious procession,\nscientific observation confirms:\nyour feet will hurt.\n\nNo alternative outcomes have been recorded.",
+          "editorNote": "Works best during Taiwan's Mazu Pilgrimage season (mid to late April) — pure absurd wisdom format, stating only the very obvious",
+          "variations": [
+            "The result of walking 340 kilometers is: you have walked 340 kilometers. This outcome is fully consistent with the distance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-055",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "",
+      "sourceNote": "治癒系廢話文學，跨topic格式，原創",
+      "tags": ["廢話文學", "情緒", "療癒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "治癒系語錄說：接住你的情緒。\n\n廢話文學問：\n接完之後放哪裡？\n\n目前尚未發現合適的情緒存放點。\n研究仍在進行中。",
+          "editorNote": "適合同時訂閱療癒語錄和廢話語錄的人傳給彼此，兩種世界的交叉點",
+          "variations": [
+            "接住情緒之後，情緒依然存在，只是換了一個人持有。持有者的感受，目前沒有統一的處理方式。"
+          ]
+        },
+        "en": {
+          "content": "Healing quotes say: catch your feelings.\n\nAbsurd wisdom asks:\nAnd then put them where?\n\nNo suitable emotional storage location has been identified.\nResearch is ongoing.",
+          "editorNote": "For anyone who subscribes to both healing content and absurd wisdom — this is the intersection",
+          "variations": [
+            "After catching someone's emotions, those emotions still exist — they've just changed hands. No standardized method for processing them has been established."
+          ]
+        }
+      }
     }
   ]
 }
