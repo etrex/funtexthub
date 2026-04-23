@@ -1041,3 +1041,88 @@
 18. Create `holiday-jokes` 端午節 content expansion (target live by May 25 for June 19 peak)
 19. Monitor `human-design-quotes` / 人類圖語錄 for 2 more months before committing
 20. Monitor `animal-memes` / 動物迷因語錄 for 2 more weeks before deciding
+
+---
+
+## 2026-04-23 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, graduation-quotes, couple-jokes, dark-humor, holiday-jokes, drama-quotes, healing-quotes, **mom-quotes** (16 total) ✅
+- `mom-quotes` NEWLY CONFIRMED created (detected in src/content/topics/ — was NOT confirmed in April 22 report) ✅
+- Mother's Day (May 10) is **17 days away** — mom-quotes is now live and well-timed ✅
+- 勞動節連假 (May 1–3) is **8 days away** — workplace-quotes live and indexed ✅
+- 大甲媽祖遶境 is **LIVE NOW (April 17–26)** — **3 days remaining** in traffic window (ABSOLUTE FINAL WINDOW)
+- 端午節 (June 19–21) is **57 days away** — holiday-jokes live; content expansion window opening
+- 畢業季 (May–June) traffic begins building in approximately 2 weeks
+- Persistent backlog (12 consecutive reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items — **EXECUTE UNCONDITIONALLY IN NEXT CONTENT SESSION**
+
+### New Topic Recommendations
+
+1. **大人語錄 / Adulting Quotes** (slug: `adulting-quotes`, category: Lifestyle)
+   - DailyView and teamplan.com.tw confirm "初級大人 vs 高級大人" is the biggest 2026 Q1 Threads trend: 39,557 discussion posts from January 1 to April 7 — explosive viral growth from near-zero baseline (only 45 posts in H2 2025)
+   - Concept: "高級大人" = someone others defer to for decisions, with authority and experience; "初級大人" = still figuring it out, still being guided by others
+   - Highly relatable to FunTextHub's core 20s–40s audience: captures the dissonance of feeling like you're winging adulthood
+   - Content angles: "高級大人才懂的事：不解釋，不比較，不委屈"; "初級大人：請假前要看老闆臉色。高級大人：批假前要看月曆顏色"; "以為長大就可以不用補作業，沒想到改名叫做任務追蹤"
+   - Cross-format potential: pairs naturally with witty-comebacks and absurd-wisdom; "初級大人/高級大人" format can generate many entries
+   - SEO targets: 初級大人, 高級大人, 大人語錄, 長大語錄, 成熟語錄, 大人的世界, adulting quotes, growing up quotes
+   - **Recommendation: MEDIUM-HIGH priority. Trend is at peak NOW (Q1 2026 viral wave). Create within 1–2 weeks to capture SEO while search interest is high. Target 10–12 items.**
+
+2. **貓咪語錄 / Cat Quotes** (slug: `cat-quotes`, category: Humor)
+   - Multiple 2026 evidence points: memes.tw 貓 tag is actively used; FamilyMart Taiwan Threads account is using cat-format corporate posts ("任何主動貓上班、貓聽話... 都是AI，都是假的啦"); 香蕉貓 (Banana Cat) crying meme was referenced in 2026 央視春晚small-format crossover content
+   - Cat meme culture has become mainstream enough for brand Threads accounts to use it — confirms audience breadth beyond niche meme fans
+   - Distinct from animal-memes concept: cat-quotes is specifically quote-format content ("貓咪告訴你：我不是在發呆，我是在思考你為什麼那麼奇怪"), not random animal image memes
+   - Strong LINE forwarding behavior: cat quotes with human overlay humor ("主子邏輯：我蹬你一腳，是因為你讓我太舒服了") are among the most-forwarded format in Taiwan friend groups
+   - SEO targets: 貓咪語錄, 貓語錄, 貓咪金句, 貓迷因, 貓咪搞笑, cat quotes, 貓貓語錄
+   - **Recommendation: MEDIUM priority. One more confirmation cycle before committing. If 貓咪 content remains active next week, create in May after 大人語錄. Previous monitor window was 2 weeks — this is week 2 of monitoring.**
+
+### Content Trends
+
+- **初級大人/高級大人 Viral Wave (Confirmed Peak)**: teamplan.com.tw 2026 Threads viral guide confirms this is the top Taiwan Threads trend of Q1 2026 (39,557 posts). DailyView published a dedicated analysis with a self-assessment test. The trend has crossed from Threads into news coverage, which historically signals ~2–4 weeks remaining at peak engagement before it normalizes. FunTextHub should act within this window.
+
+- **大甲媽祖遶境 ABSOLUTE FINAL WINDOW (3 days — April 23–26)**: 回鑾 date is April 26. After this, no relevant traffic until April 2027. If cold-jokes or absurd-wisdom items with 媽祖遶境 content are not added by April 25, the opportunity is lost for a full year. The 顏清標 near-fall incident and the 信仰 + 小吃 humor angle remain the most viable formats.
+
+- **勞動節 (May 1–3) — 8 Days Away**: 2026 勞動節 is now confirmed as the first year with 全國統一放假 (all workers including students, teachers, doctors). This "universal holiday" angle is uniquely 2026 and has high meme potential: "2026勞動節意義非凡：史上第一次，全台沒有藉口說沒放假". memes.tw 勞動節 tag has 20+ meme templates active. workplace-quotes is well-positioned.
+
+- **母親節 (May 10/11) Content Peak Approaching**: Multiple high-authority Taiwan sites publishing 2026 mother's day content NOW (Accupass, TiffenyFlower, Trip.com, CyberLink). mom-quotes being newly live means there's a ~17-day window before the peak. Key content angles to verify: (1) exasperated-affection format ("我媽說不管我，然後每天問我三餐"), (2) 媽媽式叮嚀 humor, (3) 反差萌 format ("嘴上說隨便，行動說全包").
+
+- **端午節 (June 19–21) — Content Window Opens Now**: 57 days out. succuland.com.tw published "端午賀詞精選75句" updated for 2026. city9.tw published "2026端午祝福語" article with 幽默諧音梗 category. Watermoon333 confirmed active 2026 端午 content production. The 粽 pun ecosystem (粽望所歸, 一見粽情, 粽情投入) and 股市/屈原 cross-jokes are confirmed active. Content expansion should begin now for June 10 indexing target.
+
+- **貓咪迷因 Mainstream Crossover (Brand Adoption = Peak Saturation Indicator)**: FamilyMart Taiwan using 貓咪 format on Threads confirms the trend has crossed from creator culture to brand marketing. This is typically a 6–12 month content window before saturation. Taiwan's 養貓率 (cat ownership) continues to grow — cat content has structural evergreen demand independent of trend cycles.
+
+- **Threads 台灣市場 Platform Insight**: Confirmed 350萬 MAU and Taiwan #1 globally. 2026 Threads爆文 guide from teamplan.com.tw identifies key viral mechanics: "留友看" CTA, high-comment hooks, short punchy formats. FunTextHub's short-form content is natively Threads-compatible. Adding "留友看：這個說的是你嗎？" style prompts in editorNotes can improve algorithmic reach.
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 joke format **12 CONSECUTIVE REPORTS — EXECUTE THIS SESSION, ZERO EXCEPTIONS**. 甄嬛傳 viral window closing (approx. 1 week left): 眉預算/撞世die/慣蘭高手 items still not confirmed added. 媽祖遶境: **FINAL 3 DAYS (closes April 26)** — add item now or lose for a year. Suggested item: "跟著媽祖走9天340公里，回來體悟到：信仰的力量就是：粽子在路邊，你還是走得過去".
+- **absurd-wisdom (廢話文學)**: 「接住」items **12 consecutive reports**. New 初級大人 absurdist angle: "你知道什麼叫初級大人嗎？就是已經在繳房租，但還在問媽媽芹菜要怎麼炒". Also: 媽祖遶境 absurdist item before April 26: "宗教信仰告訴我：走完340公里，你的膝蓋會痛，但你的心會得救。這是等比交換".
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI + 硬控 pickup lines **12 consecutive reports**. Execute with existing recommendations: "你把我硬控了，完全移不開目光"; "朋朋，我能不能叫你男女朋友的朋？"; "你是I人還是E人？因為你進來的瞬間，我的內心OS已經熱場了".
+- **mom-quotes (媽媽語錄 — NEWLY CONFIRMED LIVE)**: Verify content covers 5 core angles: (1) 媽媽式關心笑話 ("說不管我，但每天問三餐" format); (2) 母親節 warm format ("謝謝你忍受了一個這麼難搞的孩子"); (3) 媽媽的叮嚀金句 ("出門要帶錢、衣服穿暖、早點回家"); (4) 反差萌 format ("嘴上說你自己決定，手已經幫你決定好了"); (5) 幽默母親節祝福語. LINE forwarding optimization: confirm editorNotes reference LINE group sharing context.
+- **graduation-quotes (畢業季語錄)**: Taiwan graduation season begins in ~2 weeks. Verify "In My ___ Era" bilingual format and English graduation caption tags are present. Confirm 歡送 and 離別 emotional register content is covered alongside the upbeat formats.
+- **workplace-quotes (職場語錄)**: 勞動節 (May 1–3) peak is 8 days away. The 2026 全國統一放假 angle is uniquely 2026 — ensure at least one item acknowledges this milestone. Tags: 上班族限定, 社畜語錄, 勞動節, 2026全年不補班.
+- **holiday-jokes (節日笑話)**: 端午節 content expansion window is open. Verify current items include: 粽 pun pool (粽望所歸/一見粽情/粽情投入), 股市/屈原 cross-joke, 南粽 vs. 北粽 regional debate format, and the phone-in-zongzi prank format. Target full expansion draft by May 10.
+- **drama-quotes (台劇語錄)**: 甄嬛傳 viral wave has approximately 1 week remaining. Verify 2026 new entries (撞世die/眉預算/慣蘭高手/環保橘) are present. If not in the April 20 creation batch, add before the wave fades.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done
+8. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done
+9. ~~Create `couple-jokes` / 情侶日常笑話~~ ✅ Done
+10. ~~Create `dark-humor` / 地獄笑話~~ ✅ Done
+11. ~~Create `holiday-jokes` / 節日笑話~~ ✅ Done
+12. ~~Create `drama-quotes` / 台劇語錄~~ ✅ Done (16 items, 2026-04-20)
+13. ~~Create `healing-quotes` / 治癒系語錄~~ ✅ Done (confirmed 2026-04-22)
+14. ~~Create `mom-quotes` / 媽媽語錄~~ ✅ Done (confirmed 2026-04-23)
+15. **Update `cold-jokes` with I人/E人 jokes + 媽祖遶境 item + 甄嬛傳 撞世die/眉預算/慣蘭高手** (ABSOLUTE CRITICAL — 12 reports; 媽祖 window closes April 26 — 3 days; 甄嬛傳 wave ~1 week left)
+16. **Update `absurd-wisdom` with 「接住」items + 媽祖遶境 absurdist item** (12 consecutive reports + final seasonal window)
+17. **Update `cheesy-pickups` with 「朋朋」+ MBTI + 硬控 pickup lines** (12 consecutive reports — non-deferrable)
+18. Create `adulting-quotes` / 大人語錄 (MEDIUM-HIGH — 初級大人/高級大人 trend at Q1 2026 viral peak; 39,557 Threads posts; create within 1–2 weeks)
+19. Create `holiday-jokes` 端午節 content expansion (target live by May 10 for June 19 peak; window opens now)
+20. Verify `mom-quotes` covers 5 core angles and LINE sharing editorNotes (Mother's Day May 10 — 17 days away)
+21. **COMMIT `cat-quotes`** / 貓咪語錄 — monitoring complete; FamilyMart brand adoption = mainstream confirmation; create in May after `adulting-quotes`
+22. Monitor `human-design-quotes` / 人類圖語錄 for 1 more month before committing
