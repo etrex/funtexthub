@@ -1492,6 +1492,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-056",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學奶茶省錢觀察，參考廢話文學格式，重新創作",
+      "tags": ["廢話文學", "飲食", "金錢", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "只要每天省下買一杯奶茶的錢，\n十天後，你就有十天份的奶茶錢。\n\n但你也有十天沒喝到奶茶了。\n\n這兩件事，目前沒有辦法同時成立。",
+          "editorNote": "傳給那個說「我要開始存錢，從戒奶茶開始」的朋友——這句話把他的兩難說清楚了，但完全沒有幫助他做決定",
+          "variations": [
+            "省錢的人，比沒省錢的人，少花了一些錢。但也少享受了一些。這個交換，每個人的評價不同。"
+          ]
+        },
+        "en": {
+          "content": "If you skip buying one bubble tea every day,\nafter ten days you'll have saved exactly ten days' worth of bubble tea money.\n\nYou will also have gone ten days without bubble tea.\n\nThese two facts cannot both be favorable at the same time.",
+          "editorNote": "Send to the friend who says 'I'm going to start saving money — no more bubble tea' — this accurately maps their dilemma while offering zero help in resolving it",
+          "variations": [
+            "A person who saves money has spent less than a person who didn't. They have also enjoyed less. How each person weighs that trade-off varies."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-057",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://penlighten.com/tautology-examples",
+      "sourceNote": "廢話文學就是這樣觀察，參考同義反覆幽默，重新創作",
+      "tags": ["廢話文學", "哲學", "人生", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這件事就是這樣。\n\n在它變成另一種樣子之前，\n它就是它目前的樣子。\n\n接受這件事的人，已經接受了。\n還沒接受的人，目前還在接受的過程中，或者還沒開始。\n\n無論如何，這件事還是這樣。",
+          "editorNote": "人生遇到任何無解的狀況時都可以傳，因為它說的是任何狀況都適用的道理——也就是什麼都沒說",
+          "variations": [
+            "「就是這樣」這句話，在說完之後，事情還是這樣。這個結果，和你說不說這句話無關。"
+          ]
+        },
+        "en": {
+          "content": "It is what it is.\n\nBefore it becomes something else,\nit is exactly what it currently is.\n\nPeople who have accepted this have accepted it.\nPeople who haven't are either in the process of accepting it, or haven't started yet.\n\nRegardless, it is still what it is.",
+          "editorNote": "Works for any unsolvable situation — because it applies to every situation, which means it applies to none in particular",
+          "variations": [
+            "Saying 'it is what it is' does not change what it is. The outcome is unrelated to whether the phrase is spoken."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-058",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://snugfam.com/funny-life-observations-quotes-a-collection-of-witty-wisdom/",
+      "sourceNote": "廢話文學筆電充電觀察，重新創作",
+      "tags": ["廢話文學", "科技", "日常", "工作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "把充電線插上筆電，\n但沒有插上插座的人，\n正在進行一個充電的姿勢，\n但沒有在充電。\n\n電池的電量，在這個情況下，會持續減少。\n\n這個現象，在忘記插電的人身上，每天都有機會發生。",
+          "editorNote": "傳給那個筆電沒電卻說「我有插啊」的人，有時候問題的答案比你想的更單純",
+          "variations": [
+            "插著充電線但沒有連接電源的筆電，和沒有插充電線的筆電，目前擁有相同的充電速度。"
+          ]
+        },
+        "en": {
+          "content": "A person who has plugged the charger into their laptop\nbut not into the wall\nis performing the motion of charging\nwithout actually charging.\n\nThe battery level will continue to decrease in this situation.\n\nThis phenomenon has the opportunity to occur every day in people who forget to check the wall end.",
+          "editorNote": "Send to the person whose laptop died even though they 'had it plugged in' — sometimes the answer is simpler than expected",
+          "variations": [
+            "A laptop connected to a charger that isn't plugged into a power source has the same charging rate as a laptop with no charger at all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-059",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://charlesfudgemuffin.blogspot.com/2019/01/silly-tautologies.html",
+      "sourceNote": "廢話文學群組訊息已讀觀察，重新創作",
+      "tags": ["廢話文學", "社交", "溝通", "科技"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在群組裡傳了一則訊息的人，\n傳了一則訊息到那個群組。\n\n群組裡的人，可能看到了，也可能沒看到。\n\n看到但沒有回應的人，\n目前處於「看到了但沒有回」的狀態。\n這個狀態和個人回覆意願高度相關。\n\n那個沒有人回應的訊息，\n現在靜靜地停在那裡。\n這也是一種存在。",
+          "editorNote": "傳入任何一個沉默的群組，效果最佳；它說的是每個人都懂的群組生態，但完全無助於讓群組活起來",
+          "variations": [
+            "群組裡說話的人，比沒有說話的人，說了更多話。但群組的活躍程度，不只取決於說了多少話。"
+          ]
+        },
+        "en": {
+          "content": "A person who sent a message in a group chat\nhas sent a message to that group chat.\n\nMembers of the group may or may not have seen it.\n\nPeople who saw it but didn't reply\nare currently in the state of having seen it but not replied.\nThis state is strongly correlated with personal willingness to respond.\n\nThe message with no replies\nis sitting there quietly right now.\nThis too is a form of existence.",
+          "editorNote": "Drop into any silent group chat for maximum effect — it describes the group dynamic everyone recognizes while doing absolutely nothing to revive the conversation",
+          "variations": [
+            "The person who talks in a group chat has said more than people who haven't said anything. Whether the group feels active depends on more than just how much was said."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-060",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://www.boredpanda.com/mind-boggling-logic-paradoxes/",
+      "sourceNote": "廢話文學帶傘沒下雨觀察，重新創作",
+      "tags": ["廢話文學", "天氣", "生活", "迷信"],
+      "i18n": {
+        "zh-tw": {
+          "content": "帶了傘出門，結果沒下雨。\n\n很多人會覺得：是因為我帶了傘，所以沒下雨。\n\n但根據目前的氣象研究，\n傘對天氣的影響力，\n和沒帶傘的人對天氣的影響力，\n是一樣的。\n\n兩者都是零。\n這個結果，不影響人們繼續相信帶傘能防雨的說法。",
+          "editorNote": "下雨前傳給那個說「帶傘出去就不會下雨了」的朋友，讓他靜靜面對自己的邏輯——它聽起來很有道理，但只是一個巧合",
+          "variations": [
+            "沒帶傘就下雨的人，和帶了傘沒下雨的人，對天氣的控制能力相同。只是其中一個比較濕。"
+          ]
+        },
+        "en": {
+          "content": "You brought an umbrella and it didn't rain.\n\nMany people conclude: it didn't rain because I brought an umbrella.\n\nHowever, current meteorological research shows\nthat the influence of an umbrella on the weather\nis equal to the influence of not bringing one.\n\nBoth are zero.\nThis finding has not stopped people from continuing to believe that carrying an umbrella prevents rain.",
+          "editorNote": "Send to the friend who says 'if I bring an umbrella it definitely won't rain' — let them quietly examine their own logic. It sounds reasonable. It is a coincidence.",
+          "variations": [
+            "The person who forgot their umbrella and got rained on, and the person who brought one and stayed dry, have equal influence over the weather. One of them is just wetter."
+          ]
+        }
+      }
     }
   ]
 }

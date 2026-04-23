@@ -1794,6 +1794,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-069",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://manmandays.com/joke/",
+      "sourceNote": "受台灣冷笑話集錦啟發，諧音梗重新創作",
+      "tags": ["諧音", "動物", "腦筋急轉彎"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：蝸牛爬上樹幹，要花多久時間？\n\n答：很久啊，因為牠每走一步都要「殼」一下。",
+          "editorNote": "適合傳給那個凡事慢吞吞、但自己還很有理的朋友",
+          "variations": [
+            "延伸版：蝸牛為什麼不趕路？因為牠覺得「慢工出細殼」。"
+          ]
+        },
+        "en": {
+          "content": "Q: How long does it take a snail to climb a tree?\n\nA: A very long time — it has to stop at every step to \"shell\" things over.",
+          "editorNote": "Perfect for that friend who takes forever to make a decision but always has a reason",
+          "variations": [
+            "Bonus: Why doesn't a snail ever rush? Because it believes in taking things one shell at a time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-070",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://arielhsu.tw/cold-joke/",
+      "sourceNote": "受台灣冷笑話集錦啟發，職場梗重新創作",
+      "tags": ["職場", "諧音", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問：「你今天怎麼這麼準時？」\n\n我說：「因為我夢到主管，嚇醒的。」",
+          "editorNote": "傳給還在熬夜趕報告的同事，秒懂不用解釋",
+          "variations": [
+            "延伸版：有人問如何讓自己起得來？設三個鬧鐘：一個是鬧鐘，一個是備用，一個是主管的傳訊通知音。"
+          ]
+        },
+        "en": {
+          "content": "Coworker: \"Wow, you're actually on time today. What happened?\"\n\nMe: \"I had a dream about my boss. Woke up in a cold sweat.\"",
+          "editorNote": "Send to the coworker who's been pulling all-nighters — they'll feel very understood",
+          "variations": [
+            "Variation: How do you make sure you wake up on time? Three alarms: one regular, one backup, and one set to your boss's notification sound."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-071",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://punspaw.com/cold-jokes/",
+      "sourceNote": "受英文冷笑話諧音梗啟發，雙語創作，天氣主題",
+      "tags": ["天氣", "諧音", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：為什麼下雨天特別適合工作？\n\n答：因為那是唯一一個，你說「我有點low（鬱悶）」，大家都覺得很正常的日子。",
+          "editorNote": "適合在下雨的週一早上傳給群組，精準捕捉集體心情",
+          "variations": [
+            "下雨天人為什麼效率低？因為心情也跟著「潮濕」了。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why is a rainy day the best day to get work done?\n\nA: It's the one day you can say \"I'm feeling a little under the weather\" and no one questions your productivity.",
+          "editorNote": "Drop this in the group chat on a grey Monday morning — universal mood",
+          "variations": [
+            "Why is productivity low on rainy days? Simple: the atmosphere is just too *draining*."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-072",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://neww.tw/jokeday/",
+      "sourceNote": "受台灣冷笑話靠北梗啟發，食物諧音梗重新創作",
+      "tags": ["食物", "諧音", "腦筋急轉彎"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：香蕉皮為什麼很有智慧？\n\n答：因為它看過太多人「跌跌撞撞」，早就看透人生了。",
+          "editorNote": "適合傳給那個自認為看透一切、最愛說「我早就知道了」的朋友",
+          "variations": [
+            "延伸版：香蕉為什麼不說話？因為話說多了，就只剩一身「皮」了。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why is a banana peel so wise?\n\nA: It's watched countless people fall flat on their faces. At this point, it's basically a life coach.",
+          "editorNote": "Send to your friend who always says \"I told you so\" — they'll either laugh or feel called out",
+          "variations": [
+            "Bonus: Why don't bananas give advice? Because every time they open up, someone slips."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-073",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://www.dcard.tw/topics/%E8%AB%A7%E9%9F%B3%E6%A2%97",
+      "sourceNote": "受Dcard諧音梗討論串啟發，科技生活梗重新創作",
+      "tags": ["科技", "生活", "諧音", "手機"],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機電量剩1%，\n你還是猶豫要不要充電。\n\n這不就是現代人的縮影嗎——\n明明快撐不住了，還在問「再撐一下可以嗎？」",
+          "editorNote": "傳給那個平常硬撐不休息、手機電量跟精神狀態一樣低的朋友",
+          "variations": [
+            "延伸版：手機沒電會自動關機，人沒電卻還被要求繼續開會。科技始終來自人性，但人性從來不給自己充電時間。"
+          ]
+        },
+        "en": {
+          "content": "Your phone is at 1% battery.\nYou're still wondering if you can squeeze out one more scroll.\n\nThis is modern life in a nutshell:\nalmost dead, but still asking \"just five more minutes?\"",
+          "editorNote": "Send to the friend who runs on no sleep and a dying phone — they'll laugh, then immediately feel attacked",
+          "variations": [
+            "Phones shut down automatically at 0%. People don't get that feature. We just keep going until someone finally says \"you need to rest.\""
+          ]
+        }
+      }
     }
   ]
 }

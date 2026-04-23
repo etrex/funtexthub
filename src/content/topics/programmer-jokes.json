@@ -1568,6 +1568,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-063",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://www.yodiz.com/blog/41-agile-jokes-to-surely-make-you-die-laughing/",
+      "sourceNote": "Daily standup abuse — widely circulated Agile humor; rewritten as a story showing how standups become long meetings",
+      "tags": ["standup", "agile", "會議", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每日站立會議的目的是讓大家在十五分鐘內同步進度。\n\n第一分鐘：A說他昨天做了什麼。\n第三分鐘：B提到一個問題，然後開始詳細說明。\n第七分鐘：C和D開始針對這個問題討論解法。\n第十二分鐘：主持人說「這個下線下再聊」。\n第十五分鐘：會議結束。\n\n下線下會議：又開了四十分鐘。\n\n這就是為什麼工程師最喜歡非同步溝通。",
+          "editorNote": "傳給剛導入 Agile 的團隊，或者貼在任何已經對站立會議感到疲倦的群組",
+          "variations": [
+            "站立會議最諷刺的地方：為了不讓大家坐下來開太久的會，所以讓大家站著開。結果大家還是坐下來，而且開更久了。"
+          ]
+        },
+        "en": {
+          "content": "The daily standup is meant to sync the team in fifteen minutes.\n\nMinute 1: A shares what they did yesterday.\nMinute 3: B mentions a blocker, then starts explaining in detail.\nMinute 7: C and D begin debating solutions to the blocker.\nMinute 12: Facilitator says 'let's take this offline.'\nMinute 15: Meeting ends.\n\nThe offline conversation: another forty minutes.\n\nThis is why developers love async communication.",
+          "editorNote": "Share with any team that just adopted Agile, or post in a group chat where people are already tired of standups",
+          "variations": [
+            "The irony of standup meetings: designed to stop people from sitting in long meetings — so everyone stands up and has an even longer meeting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-064",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://programmerhumor.io/debugging-memes/there-are-two-hard-things-in-computer-science-cache-invalidation-naming-things-and-off-by-one-errors/",
+      "sourceNote": "The 'two hard problems in CS' joke — classic Phil Karlton quote extended with off-by-one; rewritten as a classroom exchange",
+      "tags": ["cache", "命名", "off-by-one", "電腦科學", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教授在課堂上說：「電腦科學只有兩件難事：快取失效和命名。」\n\n學生舉手：「那不是兩件，那是三件嗎？」\n\n教授：「為什麼？」\n\n學生：「你還漏掉了 off-by-one error。」\n\n教授沉默了一秒：「……所以電腦科學只有兩件難事：快取失效、命名，以及 off-by-one error。」\n\n學生：「現在你說的是三件。」\n\n教授：「對，這就是 off-by-one error。」",
+          "editorNote": "貼給任何修過計算機科學的朋友，這則笑話是業界傳說級的梗，看懂的人會笑到拍桌",
+          "variations": [
+            "這個笑話的另一個版本：電腦科學只有兩件難事，但每次數都數不對。"
+          ]
+        },
+        "en": {
+          "content": "A professor said in class: \"There are only two hard problems in computer science: cache invalidation and naming things.\"\n\nA student raised their hand: \"Isn't that three things?\"\n\nProfessor: \"Why?\"\n\nStudent: \"You forgot off-by-one errors.\"\n\nThe professor paused for a second: \"...So there are only two hard problems in computer science: cache invalidation, naming things, and off-by-one errors.\"\n\nStudent: \"Now you said three.\"\n\nProfessor: \"Exactly. That's the off-by-one error.\"",
+          "editorNote": "Share with anyone who's taken a CS course — this joke is legendary in the industry; people who get it will lose it",
+          "variations": [
+            "Another version: there are only two hard problems in computer science, but nobody ever counts them correctly."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-065",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://programmerhumor.io/memes/infinite-loop",
+      "sourceNote": "Infinite loop joke — classic CS humor rewritten as a late-night scenario with a modern twist",
+      "tags": ["無限迴圈", "bug", "工程師日常", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，工程師盯著螢幕，程式已經跑了三個小時。\n\n同事傳訊：「你那個跑完了嗎？」\n\n工程師：「我不確定它有沒有在跑，還是它已經停了。」\n\n同事：「那你怎麼不去看 log？」\n\n工程師：「log 也在跑，一直在輸出，停不下來。」\n\n同事：「那就是無限迴圈啊。」\n\n工程師：「我知道。但如果我殺掉它，我就得重新想那個演算法。我現在很累。所以我讓它繼續跑。」",
+          "editorNote": "深夜寫程式的工程師最能感受這段話的重量，傳給他讓他知道這是業界常態",
+          "variations": [
+            "無限迴圈的哲學：它沒有停止，代表它還在努力。你現在關掉它，就是放棄它。工程師選擇陪它繼續。"
+          ]
+        },
+        "en": {
+          "content": "2am. A developer has been staring at the screen for three hours. The program is still running.\n\nColleague texts: \"Is yours done yet?\"\n\nDeveloper: \"I'm not sure if it's still running or if it already stopped.\"\n\nColleague: \"Why don't you check the log?\"\n\nDeveloper: \"The log is running too. It keeps outputting. It won't stop.\"\n\nColleague: \"That's an infinite loop.\"\n\nDeveloper: \"I know. But if I kill it, I have to rethink the algorithm. I'm tired. So I'm letting it run.\"",
+          "editorNote": "Send to any developer working past midnight — they will feel personally seen by this",
+          "variations": [
+            "The philosophy of the infinite loop: it hasn't stopped, which means it's still trying. If you kill it now, you're giving up on it. The developer chooses to stay."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-066",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://easyretro.io/blog/25-funniest-agile-memes/",
+      "sourceNote": "Agile backlog never shrinks — universal product team pain; rewritten as a growing backlog story",
+      "tags": ["backlog", "agile", "sprint", "PM", "工程師語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Sprint 第一天，PM 說：「這次 Sprint 我們清掉一半的 backlog。」\n\nSprint 第三天：新增了五張票。\nSprint 第七天：又新增了三張票。\nSprint 最後一天：清掉了四張票，但 backlog 比 Sprint 開始時多了六張。\n\nSprint Review 上，PM 說：「這次 Sprint 我們很有生產力。」\n\n沒有人提到 backlog 的數字。",
+          "editorNote": "傳給任何跑過 Scrum 的工程師或 PM，那個永遠長不完的 backlog 是每個人心中的陰影",
+          "variations": [
+            "Backlog 的本質：它不是待辦清單，它是一個會自我繁殖的生物。你每完成一張票，它就再長出兩張來補上空缺。"
+          ]
+        },
+        "en": {
+          "content": "Day 1 of the Sprint, the PM said: \"This Sprint we're clearing half the backlog.\"\n\nDay 3: Five new tickets were added.\nDay 7: Three more tickets added.\nLast day of Sprint: Four tickets closed — but the backlog had six more items than when the Sprint started.\n\nAt Sprint Review, the PM said: \"This was a very productive Sprint.\"\n\nNobody mentioned the backlog numbers.",
+          "editorNote": "Share with anyone who's ever run Scrum — the endlessly growing backlog is a wound everyone carries",
+          "variations": [
+            "The nature of a backlog: it's not a to-do list, it's a self-replicating organism. For every ticket you close, it grows two more to fill the space."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-067",
+      "dateAdded": "2026-04-23",
+      "sourceUrl": "https://punscope.com/agile-jokes/",
+      "sourceNote": "Code review comment spiral — developers over-commenting trivial things while missing real issues; rewritten as a dialogue",
+      "tags": ["code review", "溝通", "工程師文化", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Code review 結果回來了，有二十三條留言。\n\n工程師逐一打開：\n\n留言一到十九：「這個變數名稱可以更語意化一點。」\n留言二十：「這行縮排少了一格。」\n留言二十一到二十三：「這個 function 可以抽成更小的 helper。」\n\n工程師：「謝謝，我全改了。」\n\n兩週後，用戶回報那段邏輯有個嚴重的邊界值錯誤。\n\n沒有人在 review 裡提過那個。",
+          "editorNote": "傳給做過 code review 的工程師，大家都見過「審了一堆格式，漏了真正的 bug」的場面",
+          "variations": [
+            "Code review 有兩種類型：挑雞蛋裡的骨頭型，和「這段邏輯有根本性問題但我怕說出來得罪人」型。真正有用的 review 介於兩者之間，但數量稀少。"
+          ]
+        },
+        "en": {
+          "content": "The code review came back with twenty-three comments.\n\nThe developer opened them one by one:\n\nComments 1 through 19: \"This variable name could be more descriptive.\"\nComment 20: \"This line is indented one space short.\"\nComments 21 through 23: \"This function could be extracted into a smaller helper.\"\n\nDeveloper: \"Thanks — updated everything.\"\n\nTwo weeks later, a user reported a critical edge-case bug in that exact logic.\n\nNobody had mentioned it in the review.",
+          "editorNote": "Share with any developer who's done code review — everyone has seen the 'nitpicked formatting, missed the actual bug' situation",
+          "variations": [
+            "Code reviews come in two flavors: hyper-nitpicking formatting, and 'this logic has a fundamental flaw but I don't want to cause offense.' The useful kind lives somewhere in between — and it's rare."
+          ]
+        }
+      }
     }
   ]
 }
