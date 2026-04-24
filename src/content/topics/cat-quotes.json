@@ -1,0 +1,361 @@
+{
+  "slug": "cat-quotes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "主子語錄",
+      "description": "從貓咪的視角看世界——牠不是在發呆，牠是在審判你。精選最能說中養貓人心聲的主子智慧語錄"
+    },
+    "en": {
+      "title": "Cat Wisdom",
+      "description": "Life lessons from the supreme overlords who allow us to share their home. Cat logic, owner truths, and the real rules of living with a cat"
+    }
+  },
+  "items": [
+    {
+      "id": "ct-001",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪推東西下桌行為觀察，原創主子語錄",
+      "tags": ["主子", "貓咪", "行為", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子邏輯：\n桌上有東西。\n用爪子輕輕碰一下。\n掉下去了。\n\n確認地心引力仍在運作。\n任務完成。",
+          "editorNote": "傳給家裡有貓、桌上常常空空如也的朋友——他會立刻傳給所有養貓的人，因為這是每天都在發生的事實",
+          "variations": [
+            "主子進階版：看著你的眼睛，一邊維持眼神接觸，一邊慢慢把你的咖啡推到桌緣——這不是意外，這是溝通。"
+          ]
+        },
+        "en": {
+          "content": "Cat logic:\nThere is an object on the table.\nGently tap it with a paw.\nIt falls.\n\nConfirmed: gravity is still working.\nMission complete.",
+          "editorNote": "Send to any cat owner — their table has been cleared this week, and they know exactly who did it",
+          "variations": [
+            "Advanced cat logic: maintain direct eye contact with the human while slowly nudging their coffee toward the edge. This is not an accident. This is communication."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-002",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪窗邊發呆行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "哲學", "審判"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你以為主子坐在窗邊是在欣賞風景。\n\n其實牠在審判每一個走過的人，\n以及評估每一隻鳥的飛行路線是否合理。\n\n牠是這條街的法官。\n而且不接受上訴。",
+          "editorNote": "傳給那個說「我家貓好愛看窗外」的朋友，幫他重新理解這個行為的真正意義",
+          "variations": [
+            "附帶觀察：主子判決完畢後，會打個哈欠，然後換個位置繼續判。這個審判，是全年無休的。"
+          ]
+        },
+        "en": {
+          "content": "You think your cat sits by the window to enjoy the view.\n\nActually, it is judging every person who walks past\nand evaluating whether each bird's flight path makes logical sense.\n\nIt is the judge of this entire street.\nAnd it does not accept appeals.",
+          "editorNote": "Send to the friend who says 'my cat loves staring out the window' — help them understand what's really going on",
+          "variations": [
+            "Additional observation: after delivering the verdict, the cat yawns and relocates to continue judging from a new angle. This court operates year-round."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-003",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪被叫不理人行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "態度", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你叫主子的名字。\n牠的耳朵動了一下。\n\n那代表：牠聽到了。\n\n但牠沒有過來。\n那代表：牠考慮過了，決定不去。\n\n這是一種尊重——牠告訴你，你的意見已被收到並存檔。",
+          "editorNote": "傳給正在叫貓叫到絕望的人，幫他重新理解主子的回應方式——這不是無視，這是有考慮過的無視",
+          "variations": [
+            "更高階的回應：主子慢慢走過來，在你面前坐下，看著你，然後轉身走掉了。這個版本是給你面子。"
+          ]
+        },
+        "en": {
+          "content": "You call your cat's name.\nOne ear twitches.\n\nThat means: it heard you.\n\nBut it doesn't come.\nThat means: it considered the request and declined.\n\nThis is respect — it's telling you that your input has been received and filed.",
+          "editorNote": "Send to anyone desperately calling their cat's name — help them understand that this is not being ignored. This is being thoughtfully ignored.",
+          "variations": [
+            "The advanced version: the cat walks slowly toward you, sits in front of you, stares at you, and then turns and leaves. That version is the one where it's being polite."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-004",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪凌晨暴衝行為（貓咪運動會），原創主子語錄",
+      "tags": ["主子", "貓咪", "半夜", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點。\n你正在睡覺。\n\n主子突然衝進房間，繞了一圈，踩過你的臉，\n然後停下來，靜靜地看著虛空。\n\n牠不是在追什麼。\n牠只是想讓你知道，\n牠的活動時間不受你的作息影響。\n\n你的時間表不是牠的時間表。",
+          "editorNote": "傳給那個說「我昨晚三點被貓踩醒了」的朋友，讓他理解這是一種主權聲明",
+          "variations": [
+            "有時候凌晨運動會結束之後，主子會爬到你枕頭旁邊睡著，好像什麼都沒發生過。這不是愧疚，這是選擇睡覺的時間到了。"
+          ]
+        },
+        "en": {
+          "content": "3am.\nYou are asleep.\n\nYour cat suddenly sprints into the room, laps the perimeter, steps on your face,\nthen stops and stares into empty space.\n\nIt is not chasing anything.\nIt is simply informing you\nthat its activity schedule is not determined by yours.\n\nYour timetable is not its timetable.",
+          "editorNote": "Send to the friend who says 'my cat woke me up at 3am' — help them see this was a declaration of sovereignty",
+          "variations": [
+            "Sometimes after the midnight sprint session, the cat curls up next to your pillow and sleeps peacefully, as if nothing happened. This is not guilt. This is just the next item on the schedule."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-005",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪撒嬌後逃走行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "撒嬌", "反差"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子走過來，蹭了你的腿，\n喵了一聲，\n讓你以為牠需要你。\n\n你蹲下來想摸牠。\n\n牠走了。\n\n牠不是忘了。\n牠只是完成了這一回合的互動，\n目前不需要你了。\n\n下一回合的時間，由牠決定。",
+          "editorNote": "傳給那個說「我家貓靠過來但我剛伸手牠就跑了」的朋友——這不是拒絕，這是效率",
+          "variations": [
+            "有些主子會讓你摸兩下，然後咬你。這不是攻擊，這是「額度用完了」的提示。"
+          ]
+        },
+        "en": {
+          "content": "Your cat walks over, rubs against your leg,\ngives a small meow,\nmaking you think it needs you.\n\nYou crouch down to pet it.\n\nIt walks away.\n\nIt didn't forget.\nIt simply completed this round of interaction\nand no longer requires you at this time.\n\nThe next round will be scheduled at its discretion.",
+          "editorNote": "Send to the friend who says 'my cat came close but ran when I reached out' — this is not rejection. This is efficiency.",
+          "variations": [
+            "Some cats allow two pets, then bite you. This is not aggression. This is a notification that the allocated quota has been used up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-006",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪佔據你剛鋪好的衣服，原創主子語錄",
+      "tags": ["主子", "貓咪", "日常", "宣示主權"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你剛把衣服從洗衣機拿出來，\n鋪平在沙發上準備疊。\n\n五秒後，主子躺上去了。\n\n牠不是特別喜歡那件衣服。\n牠只是執行「任何新鋪平的物體都屬於牠」這條家規。\n\n這條規定，你沒有簽過，但已經生效了。",
+          "editorNote": "傳給每次疊衣服都被主子佔的人，幫他確認一件事：這不是你的衣服，這是主子的床",
+          "variations": [
+            "延伸情境：你把剛展開的地圖或文件放在地上，主子立刻坐在最中間。這不是好奇，這是行政管理。"
+          ]
+        },
+        "en": {
+          "content": "You just took clothes out of the washing machine\nand spread them flat on the sofa to fold.\n\nFive seconds later, your cat is lying on them.\n\nIt doesn't particularly love that shirt.\nIt is simply enforcing the household rule:\nall freshly flattened surfaces belong to it.\n\nYou never signed this agreement. It is already in effect.",
+          "editorNote": "Send to anyone whose folding process gets interrupted every single time — confirm the truth: this is not your laundry. This is the cat's bed.",
+          "variations": [
+            "Extended situation: you unfold a map or spread documents on the floor. The cat immediately sits in the exact center. Not curiosity. This is administrative oversight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-007",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪對著虛空盯視行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "神秘", "靈異"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子盯著牆壁的某個角落，\n已經盯了三分鐘。\n\n那個角落，你看不到任何東西。\n\n兩種可能：\n一、牠在感知人類感知不到的頻率。\n二、牠在思考牠自己都說不清楚的事情。\n\n不管哪一種，牠比你更專注。\n這是事實。",
+          "editorNote": "傳給在深夜被主子盯牆盯到心毛的人——這個解釋不會讓人安心，但至少提供了兩個合理的框架",
+          "variations": [
+            "有些主子會在你最放鬆的時候突然對著空氣炸毛。這個行為的解釋，目前有兩個學派，但雙方都沒有結論。"
+          ]
+        },
+        "en": {
+          "content": "Your cat has been staring at a specific corner of the wall\nfor three minutes.\n\nYou cannot see anything in that corner.\n\nTwo possibilities:\nOne: it is perceiving frequencies humans cannot detect.\nTwo: it is thinking about something it couldn't explain even if it tried.\n\nEither way, its focus is better than yours.\nThis is a fact.",
+          "editorNote": "Send to the person who got creeped out at midnight by their cat staring at the wall — this explanation won't comfort you, but it does offer two reasonable frameworks",
+          "variations": [
+            "Some cats will suddenly puff up and hiss at empty air right when you're most relaxed. There are two schools of thought on why. Neither has a conclusion."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-008",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪跟廁所行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "隱私", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你進廁所。\n主子在門口等。\n\n你開門，牠進來了。\n\n牠不是要幫什麼忙。\n牠只是不允許你有任何不被監督的時間。\n\n這家沒有隱私保護法。\n至少主子那一票沒有通過。",
+          "editorNote": "傳給說「我去廁所貓也跟著去」的人，這是每個養貓人都懂的生活實況",
+          "variations": [
+            "如果你關門，主子會在外面用爪子猛抓門，直到你投降為止。隱私保護的代價，是一扇花了很多力氣保持的門。"
+          ]
+        },
+        "en": {
+          "content": "You go to the bathroom.\nYour cat waits at the door.\n\nYou open it. It walks in.\n\nIt's not there to help.\nIt simply does not permit you to have any unsupervised time.\n\nThere is no privacy law in this household.\nAt least not one the cat voted for.",
+          "editorNote": "Send to any cat owner — they understand this completely because it happened this morning",
+          "variations": [
+            "If you close the door, the cat scratches it repeatedly until you surrender. The price of privacy is a door you have to work very hard to keep closed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-009",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪用頭撞你（頂頭）行為解讀，原創主子語錄",
+      "tags": ["主子", "貓咪", "感情表達", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子用頭頂了你一下。\n\n這是貓語裡「你是我的」的意思。\n\n不是「我愛你」，\n不是「我需要你」，\n是「我已經標記你了。你屬於我了。」\n\n這是一種宣誓，\n而你剛剛同意了。",
+          "editorNote": "傳給第一次被貓頂頭就整個人融化的朋友，幫他理解這個儀式的真正意涵——被貓標記了，恭喜",
+          "variations": [
+            "對兩隻貓的人來說：兩隻都頂過你了，代表你是兩個陣營共同持有的財產。這個法律關係比你想的複雜。"
+          ]
+        },
+        "en": {
+          "content": "Your cat headbutted you.\n\nIn cat language, this means: 'you are mine.'\n\nNot 'I love you,'\nnot 'I need you,'\nbut 'I have now marked you. You belong to me.'\n\nThis was a sworn declaration.\nAnd you just agreed to it.",
+          "editorNote": "Send to someone who melted the first time a cat headbutted them — help them understand the true meaning of this ritual. Being claimed by a cat is an honor.",
+          "variations": [
+            "For people with two cats: if both have headbutted you, you are now jointly owned property of two separate factions. The legal arrangement is more complicated than you'd think."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-010",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪肚子陷阱（摸肚子被攻擊），原創主子語錄",
+      "tags": ["主子", "貓咪", "陷阱", "互動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子翻肚子了。\n你以為牠在邀請你摸肚子。\n\n你伸手。\n\n兩秒後，你的手被咬住了。\n\n這不是你誤解了什麼。\n這是主子展示信任的方式——\n牠讓你看見肚子，但能不能摸，是牠說了算。\n\n這叫做：選項展示，不等於授權。",
+          "editorNote": "每個養貓人都上過這個當至少一次，傳出去保證引發強烈共鳴；留友看：你也踩過這個陷阱嗎",
+          "variations": [
+            "有些主子允許摸一下，然後用後腿猛踢你的手。這叫做「有限度的授權」，條款由主子即時修改。"
+          ]
+        },
+        "en": {
+          "content": "Your cat rolled over.\nYou assumed it was an invitation to pet its belly.\n\nYou reached out.\n\nTwo seconds later, your hand was bitten.\n\nThis was not a misunderstanding.\nThis is how the cat demonstrates trust —\nit showed you the belly, but whether you may touch it is its decision.\n\nThis is called: displaying options does not equal granting access.",
+          "editorNote": "Every cat owner has fallen for this at least once — guaranteed strong reaction; try '留友看: have you fallen for this trap?'",
+          "variations": [
+            "Some cats allow one pet, then kick your hand repeatedly with their back legs. This is called 'limited authorization with terms subject to immediate modification.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-011",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪緩慢眨眼（貓咪之吻）行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "感情", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子緩緩地眨了一下眼睛。\n\n貓語翻譯：\n「我信任你。\n這個緩慢眨眼，\n是貓語裡最接近親吻的表達。」\n\n牠不常這樣。\n所以當牠這樣，你要知道這是什麼意思。\n\n今天，你被貓咪選上了。",
+          "editorNote": "傳給剛收到主子慢眨眼、整個人當場融化的朋友——這是科學上認可的貓咪愛意表達，對方非常幸運",
+          "variations": [
+            "你也可以對主子緩慢眨眼。如果牠回眨，代表你們之間建立了一種不需要語言的默契——但不能保證牠晚上不會踩你臉。"
+          ]
+        },
+        "en": {
+          "content": "Your cat slowly blinked at you.\n\nCat translation:\n'I trust you.\nThis slow blink is the closest thing to a kiss\nin the cat language.'\n\nIt doesn't do this often.\nSo when it does, you should understand what that means.\n\nToday, you were chosen by a cat.",
+          "editorNote": "Send to someone who just received a slow blink and completely melted — this is a scientifically recognized feline expression of affection. They are very lucky.",
+          "variations": [
+            "You can also slow-blink back at your cat. If it reciprocates, you've established a form of wordless understanding. This does not guarantee it won't step on your face tonight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-012",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪在空箱子裡的行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "日常", "行為"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你買了很貴的貓咪玩具。\n\n主子看了一眼，走過去，\n坐進了裝玩具的紙箱裡。\n\n這不是在拒絕你。\n\n主子只是想告訴你：\n花錢的方向可以調整一下。\n紙箱是永遠的答案。",
+          "editorNote": "傳給花了幾百塊買貓玩具但主子只愛紙箱的人，這是一個關於消費決策的及時提醒",
+          "variations": [
+            "附帶研究：紙箱越舊、越皺，主子越喜歡。這個偏好，和箱子的原始價值完全無關。"
+          ]
+        },
+        "en": {
+          "content": "You bought an expensive cat toy.\n\nYour cat glanced at it, walked over,\nand sat inside the box it came in.\n\nThis is not rejection.\n\nThe cat is simply telling you:\nthe spending direction can be adjusted.\nCardboard boxes are the eternal answer.",
+          "editorNote": "Send to someone who spent money on cat toys only to watch their cat fall in love with the packaging — a timely lesson in consumer decision-making",
+          "variations": [
+            "Additional research: the older and more crumpled the box, the more the cat likes it. This preference has no correlation to the original value of the box's contents."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-013",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪打呼嚕（咕嚕聲）效果，原創主子語錄",
+      "tags": ["主子", "貓咪", "療癒", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子躺在你身上，\n開始發出咕嚕聲。\n\n你剛才很煩惱的那件事，\n忽然沒那麼重了。\n\n這不是你的錯覺。\n研究顯示，貓咪的咕嚕聲頻率\n對人的神經系統有安撫效果。\n\n主子知不知道這件事，\n我們不確定。\n但牠的效果是真的。",
+          "editorNote": "傳給那個說「只要貓貓躺我身上我就什麼都好了」的人——他已經本能地理解了整件事",
+          "variations": [
+            "主子在你最焦慮的時候出現並打呼嚕，是一種奇特的存在——牠不知道你發生了什麼，但牠決定陪著你。這也是一種陪伴。"
+          ]
+        },
+        "en": {
+          "content": "Your cat lies on top of you\nand begins to purr.\n\nThe thing you were worried about a moment ago\nsuddenly feels a little less heavy.\n\nThis is not your imagination.\nResearch shows that a cat's purring frequency\nhas a demonstrable calming effect on the human nervous system.\n\nWhether the cat knows this —\nwe're not sure.\nBut the effect is real.",
+          "editorNote": "Send to anyone who says 'everything gets better when my cat sits on me' — they've already understood everything intuitively",
+          "variations": [
+            "A cat that shows up and purrs exactly when you're most anxious is a strange thing — it doesn't know what happened to you, but it decided to stay anyway. That is also a form of presence."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-014",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪吃飯前叫鬧行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "吃飯", "管理"],
+      "i18n": {
+        "zh-tw": {
+          "content": "主子的飯碗還有一半。\n\n牠走到你面前，喵了一聲。\n\n你說：「還有飯啊。」\n牠再喵一聲。\n\n你去看碗。\n確實還有飯。\n\n牠不是餓了。\n牠只是想確認你還記得自己的職責。\n\n這是例行查勤，不是緊急通報。",
+          "editorNote": "傳給那個被貓叫到去看碗、結果碗裡還有食物的朋友——主子在進行人事考核",
+          "variations": [
+            "有些主子只吃碗中間的飯，不吃邊緣的。所以碗看起來有食物，但主子認定：那個位置的飯，不算飯。"
+          ]
+        },
+        "en": {
+          "content": "Your cat's bowl still has food in it.\n\nIt walks up to you and meows.\n\nYou say: 'There's still food.'\nIt meows again.\n\nYou go check the bowl.\nThere is still food.\n\nIt is not hungry.\nIt is simply verifying that you still remember your responsibilities.\n\nThis is a routine inspection, not an emergency report.",
+          "editorNote": "Send to the person who got summoned to check the bowl only to find it still full — the cat is conducting a performance review",
+          "variations": [
+            "Some cats only eat the food in the center of the bowl and not the edges. So the bowl appears full, but the cat has determined: food in that location does not count as food."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-015",
+      "dateAdded": "2026-04-24",
+      "sourceUrl": "",
+      "sourceNote": "貓咪選人陪睡行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "睡眠", "甜", "選擇"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果主子每天晚上選擇睡在你旁邊，\n\n你應該知道這是什麼意思：\n\n牠考慮過所有可以睡的地方。\n沙發、窗台、地板、另一個人。\n然後牠選了你。\n\n不要把這件事看太輕。\n這是主子對你做出的評估結果。\n目前你通過了。",
+          "editorNote": "傳給家裡貓每晚都睡在他旁邊的人，提醒他這不是習慣，這是每晚都在發生的選擇",
+          "variations": [
+            "如果主子突然換了睡覺位置，不要過度解讀。牠只是在重新評估——有時候沙發的溫度比你更穩定。"
+          ]
+        },
+        "en": {
+          "content": "If your cat chooses to sleep beside you every night,\n\nyou should understand what that means:\n\nIt considered every available sleeping surface.\nThe sofa, the windowsill, the floor, the other person.\nThen it chose you.\n\nDon't take this lightly.\nThis is the result of an evaluation the cat conducted.\nAs of now, you passed.",
+          "editorNote": "Send to anyone whose cat sleeps next to them every night — remind them this is not habit, it is a decision being made fresh each evening",
+          "variations": [
+            "If the cat suddenly switches sleeping spots, don't overthink it. It's simply re-evaluating. Sometimes the sofa maintains a more consistent temperature than you do."
+          ]
+        }
+      }
+    }
+  ]
+}
