@@ -1909,6 +1909,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-074",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "受英文dad joke競賽諧音梗啟發，pun in ten did改寫為台式雙語版本",
+      "tags": ["諧音", "雙關", "文字遊戲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我投了十個笑話去比賽，\n心想數量多，至少一個能得獎。\n\n結果評審說：「十個都沒過。」\n\n我驚呆了——這不就是「十投十敗」嗎？",
+          "editorNote": "適合傳給正在參加各種比賽或申請屢戰屢敗的朋友，笑中帶淚",
+          "variations": [
+            "延伸版：後來我只投了一個，結果得了第一。評審說：「這次終於只有一個爛笑話了，比較好選。」"
+          ]
+        },
+        "en": {
+          "content": "I entered ten jokes into a pun contest, convinced that with ten shots, at least one would land.\n\nNot a single one placed.\n\nI guess no pun in ten did.",
+          "editorNote": "Great for anyone who's been sending out applications or pitches with no luck — groan-worthy but relatable",
+          "variations": [
+            "Bonus: I tried submitting just one pun the next time. It won. Turns out quality beats quantity — even in bad jokes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-075",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://manmandays.com/joke/",
+      "sourceNote": "受台灣漫漫日和諧音笑話集啟發，肩膀shoulder燒的梗改寫成對話版",
+      "tags": ["諧音", "身體", "台語", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "天氣冷，朋友說：「好冷喔，怎麼辦？」\n\n我說：「摸我肩膀。」\n\n他困惑：「為什麼？」\n\n我說：「因為肩膀是shoulder，『燒的』啊！」",
+          "editorNote": "適合在冬天群組傳這個，尤其是跟懂台語的朋友聊天時特別有梗",
+          "variations": [
+            "延伸版：「那腳呢？」「腳是足，足夠熱了。」"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"It's freezing in here. What should I do?\"\n\nMe: \"Touch my shoulder.\"\n\nFriend: \"Why??\"\n\nMe: \"Because the shoulder is always the warmest part of the body — it's literally a *boulder* of warmth.\"",
+          "editorNote": "Best delivered in person with a completely straight face for maximum groan reaction",
+          "variations": [
+            "Alternate punchline: \"Because you should *shoulder* the cold — it builds character.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-076",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://dadjokes.us.com/best-dad-jokes-2025",
+      "sourceNote": "受beaver dam joke啟發，改寫為台式動物諧音梗，用烏龜苦瓜(call龜)概念重組",
+      "tags": ["動物", "諧音", "腦筋急轉彎"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：打電話給烏龜，猜一種蔬菜？\n\n答：苦瓜。\n\n因為打電話就是「call」，call龜……苦瓜！",
+          "editorNote": "腦筋急轉彎風格，適合傳給喜歡猜謎的朋友，講完記得等對方想三秒再公布答案",
+          "variations": [
+            "延伸版：打電話給南瓜，猜一個動作？答案：叫南（call南），召喚！"
+          ]
+        },
+        "en": {
+          "content": "Q: I watched a documentary about beavers last night.\n\nA: Honestly? Best dam show I've ever seen.",
+          "editorNote": "Classic dad joke format — works best when said totally deadpan, then watch the slow-dawning groan",
+          "variations": [
+            "Variation: I tried to watch a show about dams afterward. It was just too *riveting*."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-077",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://eduyush.com/blogs/lifestyle/dad-jokes-2025",
+      "sourceNote": "受locksmith key witness joke啟發，改寫為台式職業諧音梗",
+      "tags": ["職業", "諧音", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼鎖匠出庭當證人，法官特別重視他的證詞？\n\n因為他掌握了整件事的「關鍵」。",
+          "editorNote": "適合在需要暖場的會議開頭講，尤其對法律或商業背景的人有雙重效果",
+          "variations": [
+            "延伸版：後來鎖匠辭職改行當記者，採訪風格還是老樣子——每次都直接切入「核心」。"
+          ]
+        },
+        "en": {
+          "content": "A locksmith was called to testify in court last week.\n\nMakes sense — he was the *key* witness.",
+          "editorNote": "Deadpan delivery is everything here. Say it like it's totally serious, then watch the room react",
+          "variations": [
+            "Follow-up: The judge said his testimony really *unlocked* the whole case."
+          ]
+        }
+      }
     }
   ]
 }

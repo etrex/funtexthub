@@ -885,6 +885,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-039",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://www.rd.com/article/dark-jokes/",
+      "sourceNote": "靈感來自「訃聞確認自己還活著」的梗，以台灣老一輩早晨習慣為情境，場景與對白完全原創",
+      "tags": ["老年", "死亡", "日常", "存在主義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿伯每天早上六點準時起床，\n做的第一件事不是刷牙，不是泡茶。\n\n是翻開報紙找訃聞版。\n\n老婆說：「你每天看那個幹嘛？」\n\n阿伯說：「確認一下我今天有沒有上去。」\n\n老婆：「……」\n\n「沒有就繼續過日子。\n有的話就不用麻煩起床了。」\n\n老婆沉默了一下。\n\n「那你找到自己的時候要記得叫我。」\n\n「好，不過那時候可能比較難叫你了。」",
+          "editorNote": "說給那種習慣用黑色幽默面對老年的長輩——阿伯的邏輯其實完全沒有漏洞，只是這個檢查清單有點讓人不知道該笑還是該沉默",
+          "variations": [
+            "進階版：阿伯後來把這件事講給孫子聽。孫子問：「阿公，那如果哪天你真的看到自己的名字呢？」阿伯想了三秒：「那就表示我今天比較早知道消息。」"
+          ]
+        },
+        "en": {
+          "content": "Every morning at six sharp, Grandpa gets up.\nThe first thing he does — not brush his teeth, not brew tea.\n\nHe opens the newspaper to the obituaries.\n\nGrandma asks: \"Why do you read that every single day?\"\n\nGrandpa says: \"Just checking if I'm in there.\"\n\nGrandma: \"...\"\n\n\"If not, I carry on with the day.\nIf yes — well, no point getting out of bed.\"\n\nGrandma paused.\n\n\"If you do find yourself in there, let me know.\"\n\n\"Sure. Though by then it might be hard to reach you.\"",
+          "editorNote": "Tell this to the elder who uses dark humor to make peace with getting old — Grandpa's logic is airtight. It's just a checklist that leaves you unsure whether to laugh or go quiet.",
+          "variations": [
+            "Extended: Grandpa told the story to his grandson. Grandson asked: \"What if you actually see your name one day?\" Grandpa thought for three seconds: \"Then I'll know the news a little earlier than everyone else.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-040",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://parade.com/1295709/marynliles/dark-humor-jokes/",
+      "sourceNote": "靈感來自「偷了日記的人死了」的英文梗，改寫為台灣通訊錄情境，完全重新創作人物與對話",
+      "tags": ["諷刺", "人際關係", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿偉的手機壞掉，通訊錄全部不見了。\n\n他媽媽說：「你之前那些朋友都還在嗎？」\n\n阿偉想了一下：「不知道。\n我本來有一千三百個聯絡人。\n現在一個都找不到，等於全部重新開始。」\n\n媽媽：「那不是很慘？」\n\n阿偉：「還好吧。\n真正需要聯絡的人，自然會再聯絡我。\n\n其他那一千兩百九十幾個——\n就當成我舉辦了一場沉默的告別式，\n把他們都好好地送走了。」\n\n媽媽：「那你有難過嗎？」\n\n阿偉停了一下。\n\n「我難過的是……\n手機壞掉之後，\n主動聯絡我的只有三個人。」",
+          "editorNote": "一個手機壞掉引發的人際盤點，最地獄的地方是最後那個數字——三個。傳給那個正在懷疑自己到底有幾個真朋友的人",
+          "variations": [
+            "後續版：阿偉說：「後來我決定不備份通訊錄了。每隔幾年讓它自然清空一次，等於是強迫自己重新確認一遍哪些人還在。這樣其實比較誠實。」"
+          ]
+        },
+        "en": {
+          "content": "A-Wei's phone died and wiped out his entire contacts list.\n\nHis mom asked: \"Are all those friends of yours still around?\"\n\nA-Wei thought about it: \"No idea.\nI had thirteen hundred contacts.\nNow they're all gone — like starting from zero.\"\n\nMom: \"Isn't that terrible?\"\n\nA-Wei: \"Not really.\nThe people who matter will reach out again on their own.\n\nThe other twelve-hundred-something —\nlet's say I quietly held a farewell ceremony\nand sent them all off properly.\"\n\nMom: \"Did it make you sad?\"\n\nA-Wei paused.\n\n\"What made me sad was...\nafter the phone died,\nonly three people reached out first.\"",
+          "editorNote": "A phone crash that turns into a relationship audit. The darkest part is the final number — three. Send to anyone quietly wondering how many real friends they actually have.",
+          "variations": [
+            "Follow-up: A-Wei said: \"I decided not to back up my contacts anymore. Let it wipe clean every few years — it's like a forced reset to confirm who's still there. Honestly, more accurate that way.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-041",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://www.buzzfeed.com/alanna_marshall/best-dark-humor-jokes-of-all-time",
+      "sourceNote": "靈感來自「努力工作比退休更致命」的英文梗，改寫為台灣職場情境，人物與對話完全原創",
+      "tags": ["工作", "退休", "諷刺", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿仁在同一家公司做了三十八年，\n終於等到退休的那一天。\n\n同事們幫他辦了告別茶會，\n送了一個刻名字的紀念牌。\n\n阿仁拿著牌子，笑著說：\n「你們知道嗎？\n這是我這輩子第一次，\n公司花錢在我身上，\n是為了讓我離開，不是讓我留下來。」\n\n大家都笑了。\n\n阿仁低頭看了看牌子，\n補了一句：\n\n「上面只有名字和年份。\n沒有我做過什麼。\n感覺和墓碑差不多。」\n\n笑聲停了幾秒。",
+          "editorNote": "退休派對上的那一句，說出了所有人心裡隱隱有但不敢講的事——三十八年濃縮成名字加年份。傳給即將退休或剛退休的人，或那個正在懷疑工作意義的人",
+          "variations": [
+            "阿仁後來說：「不過墓碑是讓人記得你的。紀念牌是讓你記得自己離開了。這兩件事好像不太一樣，但我還沒想清楚哪個比較好。」"
+          ]
+        },
+        "en": {
+          "content": "A-Ren worked at the same company for thirty-eight years.\nThe day he finally retired arrived.\n\nColleagues threw him a farewell tea party\nand presented a commemorative plaque engraved with his name.\n\nA-Ren held it up, smiling:\n\"You know what? This is the first time in my life\nthe company spent money on me\nto make me leave — not to keep me here.\"\n\nEveryone laughed.\n\nA-Ren looked down at the plaque\nand added quietly:\n\n\"Just my name and the years.\nNothing about what I actually did.\nFeel a bit like a gravestone.\"\n\nThe laughter stopped for a few seconds.",
+          "editorNote": "That one line at the retirement party says what everyone quietly senses but doesn't dare voice — thirty-eight years condensed into a name and two dates. Send to someone retiring, or anyone quietly questioning what their work actually means.",
+          "variations": [
+            "A-Ren said afterward: \"Though a gravestone is meant for others to remember you. A plaque is for you to remember you left. Those aren't quite the same thing. I haven't figured out which is better yet.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-042",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://smileloverz.com/dark-humor-jokes/",
+      "sourceNote": "靈感來自「死亡與喜劇表演」的英文梗，改寫為台灣婚禮演講情境，人物與場景完全原創",
+      "tags": ["婚禮", "人生", "黑色幽默", "諷刺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "婚禮上，新郎的老朋友阿建被叫上台致詞。\n\n他清了清喉嚨，說：\n\n「我認識志明二十三年了。\n這二十三年裡，他做過很多讓我擔心的決定。」\n\n賓客笑了。\n\n「但我今天站在這裡，\n不是要說他做過哪些壞決定——\n是要說，這一次，\n他終於做了一個讓我放心的。」\n\n大家鼓掌。\n\n阿建停頓了一秒，補充：\n\n「雖然放心的理由是：\n從今以後，如果他又做了什麼壞決定，\n至少旁邊有人可以攔他了。」\n\n掌聲更大了，\n新娘笑了，\n志明往椅子裡縮了一點。",
+          "editorNote": "婚禮致詞最好用的格式：先讚美，再插刀，最後讓新娘笑——這個笑話的結構本身就是一個教學，適合傳給被叫去致詞但不知道講什麼的朋友",
+          "variations": [
+            "阿建後來說：「我本來還有第二段。說從今以後他的壞決定至少需要兩個人同意。但我看新娘的表情，覺得她已經懂了，就跳過了。」"
+          ]
+        },
+        "en": {
+          "content": "At the wedding, the groom's old friend A-Jian was called up to give a toast.\n\nHe cleared his throat and said:\n\n\"I've known Zhi-Ming for twenty-three years.\nIn those twenty-three years, he's made a lot of decisions that worried me.\"\n\nThe guests laughed.\n\n\"But I'm not up here today\nto talk about his bad calls —\nI'm here to say that this time,\nhe finally made one that lets me breathe.\"\n\nApplause.\n\nA-Jian paused, then added:\n\n\"Although the reason I can breathe easy is:\nfrom now on, whenever he makes another questionable decision,\nthere's at least someone standing next to him who can stop him.\"\n\nLouder applause.\nThe bride laughed.\nZhi-Ming sank a little lower in his chair.",
+          "editorNote": "The ideal wedding toast structure: compliment, then twist the knife, then make the bride laugh — the joke's architecture is a tutorial in itself. Pass to any friend who got roped into giving a speech and has no idea what to say.",
+          "variations": [
+            "A-Jian said later: \"I had a second part planned — that from now on his bad decisions would require a two-person sign-off. But I looked at the bride's face and could tell she already understood. So I skipped it.\""
+          ]
+        }
+      }
     }
   ]
 }

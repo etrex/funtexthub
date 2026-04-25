@@ -1683,6 +1683,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-068",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://teachyourkidscode.com/programming-jokes/",
+      "sourceNote": "Classic dark mode / light attracts bugs joke — rewritten as a short exchange",
+      "tags": ["dark mode", "bug", "工程師日常", "工程師思維"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新來的設計師問：「你們工程師為什麼都用深色主題？眼睛不累嗎？」\n\n工程師頭也不抬：「淺色主題會引來蟲子。」\n\n設計師：「…蟲子？\"\n\n工程師：「Bug。光會引來 bug。」",
+          "editorNote": "傳給喜歡深色主題的工程師或剛入行的設計師，簡短有力，秒懂哏在哪",
+          "variations": [
+            "為什麼工程師的螢幕永遠是黑的？因為蝙蝠俠也不開燈寫程式。"
+          ]
+        },
+        "en": {
+          "content": "The new designer asked: \"Why do you developers all use dark mode? Doesn't it strain your eyes?\"\n\nThe developer didn't look up. \"Light themes attract bugs.\"\n\nDesigner: \"…Bugs?\"\n\nDeveloper: \"Bugs. Light attracts bugs.\"",
+          "editorNote": "Perfect for sharing with dark-mode enthusiasts or new designers who just joined a dev team",
+          "variations": [
+            "Why is every developer's screen pitch black? Because Batman doesn't code with the lights on either."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-069",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
+      "sourceNote": "Works on my machine classic — rewritten as a shipping joke with a twist ending",
+      "tags": ["works on my machine", "部署", "工程師日常", "測試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師把 bug 回報丟回給 QA：「我這邊跑起來完全沒問題。」\n\nQA 截了一張錯誤畫面：「我這邊一進去就爆。」\n\n工程師沉默了三秒，打出：「那我們把你的電腦當 production server 好了。」\n\nQA 不確定這是開玩笑還是真的提案。",
+          "editorNote": "傳給做過跨環境 debug 的工程師或 QA，「我這邊沒問題」是他們共同的語言",
+          "variations": [
+            "「Works on my machine」應該直接是一個合法的軟體發布標準。反正用戶的環境永遠跟開發機不一樣。"
+          ]
+        },
+        "en": {
+          "content": "The developer closed the bug report: \"Runs perfectly fine on my end.\"\n\nQA sent back a screenshot of the error: \"Crashes instantly on mine.\"\n\nThree seconds of silence. Then the developer typed: \"Maybe we should just ship your laptop as the production server.\"\n\nQA wasn't sure if it was a joke or a genuine proposal.",
+          "editorNote": "Share with anyone who's lived through cross-environment debugging — 'works on my machine' is the universal developer peace treaty",
+          "variations": [
+            "'Works on my machine' should be a legally recognized software release standard. The user's environment is always going to be different from the dev box anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-070",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://fonzi.ai/blog/computer-code-jokes",
+      "sourceNote": "Junior vs senior developer mindset joke — rewritten as a meeting scene",
+      "tags": ["junior", "senior", "工程師成長", "職場", "工程師文化"],
+      "i18n": {
+        "zh-tw": {
+          "content": "會議上，PM 說：「這個功能下週可以上嗎？」\n\nJunior 工程師立刻說：「可以！我知道怎麼做！」\n\nSenior 工程師停頓了一下，問：「我們為什麼要做這個？」\n\nPM 愣住。\n\nSenior 工程師：「不是說不行，只是我想先確認這是對的問題，才決定有沒有正確答案。」\n\nJunior 工程師在旁邊筆記：原來資深不是代表你什麼都會，是代表你知道什麼時候要問。",
+          "editorNote": "傳給剛升 senior 或正在成長的工程師，這個差別說得很準，也很適合給 PM 看看",
+          "variations": [
+            "Junior 工程師問：「這要怎麼寫？」Senior 工程師問：「這要不要寫？」差別就在這一個字。"
+          ]
+        },
+        "en": {
+          "content": "In the meeting, the PM asked: \"Can we ship this feature next week?\"\n\nThe junior developer immediately said: \"Yes! I know exactly how to build it!\"\n\nThe senior developer paused, then asked: \"Why are we building this?\"\n\nThe PM went quiet.\n\nSenior: \"I'm not saying no — I just want to confirm we're solving the right problem before we commit to an answer.\"\n\nThe junior developer quietly took notes: being senior doesn't mean knowing everything. It means knowing when to ask.",
+          "editorNote": "Share with developers transitioning to senior roles, or PMs who've wondered why experienced engineers always push back first",
+          "variations": [
+            "Junior developers ask 'How do I build this?' Senior developers ask 'Should we build this?' One word apart. Worlds apart."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-071",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "AI copilot over-reliance joke — vibe coding trend rewritten as a gradual dependency story",
+      "tags": ["AI", "Copilot", "vibe coding", "工程師文化", "工具"],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一個月用 AI 寫程式：「這只是輔助工具，我還是完全掌控的。」\n\n第三個月：「這段邏輯我讓 AI 起草，我再調整一下。」\n\n第六個月：「AI 寫完了，我看起來沒問題，直接 commit。」\n\n第九個月：AI 服務當機。\n\n工程師盯著空白的編輯器，突然想不起來 for loop 的語法。",
+          "editorNote": "傳給重度使用 AI 工具的工程師，那種「AI 一掛我就廢了」的恐慌每個人都懂",
+          "variations": [
+            "AI 輔助開發的終極形態：工程師的工作變成「審核 AI 的程式碼」，然後逐漸變成「幫 AI 的錯誤道歉」。"
+          ]
+        },
+        "en": {
+          "content": "Month one of using AI to code: \"It's just a tool — I'm still fully in control.\"\n\nMonth three: \"I'll have AI draft this logic, then I'll tune it.\"\n\nMonth six: \"AI wrote it, looks fine to me, committing directly.\"\n\nMonth nine: The AI service goes down.\n\nThe developer stared at an empty editor and suddenly couldn't remember the syntax for a for loop.",
+          "editorNote": "Share with developers deep in the AI tooling rabbit hole — the 'I'm useless without the AI' panic is universally relatable",
+          "variations": [
+            "The final form of AI-assisted development: the developer's job becomes 'reviewing the AI's code,' which gradually becomes 'apologizing for the AI's mistakes.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-072",
+      "dateAdded": "2026-04-25",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "Binary / 10 types of people classic — rewritten as a conversation with a non-tech friend",
+      "tags": ["binary", "雙關", "工程師思維", "程式基礎"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友：「你說世界上只有幾種人？」\n\n工程師：「10 種。」\n\n朋友：「10 種？好多喔，哪 10 種？」\n\n工程師：「懂二進位的，和不懂的。」\n\n朋友想了十秒：「…所以是兩種？」\n\n工程師：「你已經是第二種了，加油。」",
+          "editorNote": "傳給剛學程式的朋友或用來考考身邊人有沒有資工背景，反應時間越長越好笑",
+          "variations": [
+            "進階版：「世界上有 10 種工程師：寫 bug 的，和還沒發現自己在寫 bug 的。」"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"You said there are only how many kinds of people in the world?\"\n\nDeveloper: \"10.\"\n\nFriend: \"10 kinds? That's a lot — like what?\"\n\nDeveloper: \"Those who understand binary, and those who don't.\"\n\nFriend thought for ten seconds. \"…So two kinds?\"\n\nDeveloper: \"You're already in the second group. Keep at it.\"",
+          "editorNote": "Great for testing whether someone has a CS background — the longer the pause before they get it, the funnier it lands",
+          "variations": [
+            "Advanced version: 'There are 10 types of developers: those who write bugs, and those who haven't realized they're writing bugs yet.'"
+          ]
+        }
+      }
     }
   ]
 }
