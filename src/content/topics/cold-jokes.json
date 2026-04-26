@@ -2001,6 +2001,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-078",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://pungenius.fun/dad-jokes-2026/",
+      "sourceNote": "受seagull/bay/bagel英文dad joke啟發，改寫為台式地理諧音版本",
+      "tags": ["動物", "地理", "諧音", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：老鷹為什麼不飛去基隆港？\n\n答：因為牠一到基隆就變成「雞」隆了，沒面子。",
+          "editorNote": "適合跟喜歡台灣地名諧音的朋友傳，說完要若無其事等對方慢慢反應",
+          "variations": [
+            "延伸版：老鷹後來改飛花蓮——因為那裡讓牠感覺「花」樣年「鷹」。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why don't seagulls ever fly over the bay?\n\nA: Because then they'd be bagels — and nobody wants to be a breakfast item.",
+          "editorNote": "Classic groaner — best told deadpan at a brunch table and watch someone spit out their coffee",
+          "variations": [
+            "Follow-up: The seagulls tried flying over the lake instead. Now they're just *lake-els*. Still not great."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-079",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://punnypulse.com/funny-dad-jokes-2026/",
+      "sourceNote": "受stairs/up to something英文dad joke啟發，改寫為台式電梯樓梯版本",
+      "tags": ["生活", "雙關", "文字遊戲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我從來不信任電梯。\n\n牠每次看起來都很可疑——\n老是在「上下其手」。",
+          "editorNote": "適合傳給辦公室朋友，尤其是那種被主管搞得霧煞煞的日子，笑完順便抱怨一下",
+          "variations": [
+            "延伸版：樓梯更糟，每次都在「算計」你——你不上它，它就讓你喘不過氣。"
+          ]
+        },
+        "en": {
+          "content": "I never trust elevators.\n\nThere's just something about them — they're always *up to something*.\n\nAnd don't even get me started on escalators. Those things are constantly *stepping it up*.",
+          "editorNote": "Deadpan delivery is key — say it like a genuine safety concern, then wait for the groan",
+          "variations": [
+            "Alternate version: I told my friend I don't trust stairs either. He said I need to take it one step at a time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-080",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "受facial hair grew on me英文dad joke啟發，改寫為台式外表轉變自嘲梗",
+      "tags": ["外表", "自嘲", "生活", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以前很討厭自己的大肚子。\n\n但後來想想……\n\n它陪我走過了這麼多年，\n感情已經「長」在身上了，捨不得了。",
+          "editorNote": "傳給那個嘴上說要減肥、實際上繼續大吃的朋友，搭配一個無奈的表情貼圖效果更佳",
+          "variations": [
+            "延伸版：朋友說你的肚子是「世界遺產」——失去了就沒了，要好好保護。"
+          ]
+        },
+        "en": {
+          "content": "I used to absolutely hate my beard.\n\nBut honestly? It really grew on me.\n\nMuch like my gut, my bad habits, and my collection of dad jokes.",
+          "editorNote": "Great self-deprecating opener — works especially well if you actually have a beard or a gut, or both",
+          "variations": [
+            "Variation: I tried shaving it off once. Turns out my face had forgotten what it looked like underneath. We're both moving on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-081",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://fitcaptions.com/dad-jokes-2026/",
+      "sourceNote": "受elevator works on many levels英文dad joke啟發，改寫為台式職場多層次諧音梗",
+      "tags": ["職場", "雙關", "文字遊戲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我老闆說我是個「多層次」的員工。\n\n我一開始以為是誇我。\n\n後來發現他的意思是：\n我一個人身兼多職，薪水卻只有一層。",
+          "editorNote": "適合傳給同樣身兼多職、被壓榨的職場朋友，苦笑一下繼續撐",
+          "variations": [
+            "延伸版：老闆後來說我是「全方位人才」，我說謝謝，然後悄悄更新了履歷。"
+          ]
+        },
+        "en": {
+          "content": "My boss told me my work operates on many levels.\n\nI said, \"Is that a compliment?\"\n\nHe said, \"Not really — you've just got too many jobs and not enough pay to match any of them.\"",
+          "editorNote": "Office humor with a sting — best shared with overworked coworkers over coffee before Monday morning meetings",
+          "variations": [
+            "Alternate punchline: I only make jokes about elevators. They work on many levels. Unlike my career trajectory."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-082",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://humornama.com/jokes/dad-jokes-2026/",
+      "sourceNote": "受seafood diet / see food英文dad joke啟發，改寫為台式吃貨飲食諧音版本",
+      "tags": ["飲食", "諧音", "自嘲", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問：「你在吃什麼飲食法？」\n\n我說：「我在吃『看食法』。」\n\n「什麼是看食法？」\n\n「就是看到什麼，就吃什麼。」",
+          "editorNote": "適合傳給正在崩潰減肥計劃的朋友，或是放棄節食後的自我安慰",
+          "variations": [
+            "延伸版：後來我改良了一下——叫做「看到才不吃法」，結果眼睛閉起來吃更多了。"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"Are you on any kind of diet?\"\n\nMe: \"Yeah, I'm on a seafood diet.\"\n\nFriend: \"Oh, like fish and vegetables?\"\n\nMe: \"No. I *see* food, and I eat it.\"",
+          "editorNote": "Timeless groaner — deliver it completely straight, as if you're genuinely proud of your dietary philosophy",
+          "variations": [
+            "Follow-up: I tried the see-food diet at a buffet last weekend. I blacked out after the third plate. No regrets."
+          ]
+        }
+      }
     }
   ]
 }

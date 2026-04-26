@@ -1798,6 +1798,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-073",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Vibe coding trend humor — Andrej Karpathy coined 'vibe coding' in early 2025; rewritten as a job interview exchange",
+      "tags": ["vibe coding", "AI", "工程師文化", "面試", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「你平常怎麼開發？」\n\n求職者：「Vibe coding。」\n\n面試官：「什麼意思？」\n\n求職者：「就是描述我想要什麼，讓 AI 寫，然後我感覺一下對不對，對的話就 commit。」\n\n面試官：「那你自己寫程式嗎？」\n\n求職者：「我負責感覺。」\n\n面試官沉默了三秒，在履歷上寫下：『前途不明。但很誠實。』",
+          "editorNote": "傳給正在討論 AI 工具對工程師影響的群組，或貼給任何用過 vibe coding 的人，他們會笑完再反省",
+          "variations": [
+            "Vibe coding 的技能樹：Prompt 工程（滿級）、直覺測試（滿級）、看懂 AI 輸出的程式碼（0 級）、能不能自己寫（不重要）。"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"How do you normally develop?\"\n\nCandidate: \"Vibe coding.\"\n\nInterviewer: \"What does that mean?\"\n\nCandidate: \"I describe what I want, the AI writes it, I feel whether it's right, and if it feels right I commit.\"\n\nInterviewer: \"Do you write code yourself?\"\n\nCandidate: \"I handle the vibes.\"\n\nThree seconds of silence. The interviewer wrote on the resume: 'Uncertain future. But refreshingly honest.'",
+          "editorNote": "Share in any group debating what AI tools mean for developers — people will laugh, then stare at the ceiling for a moment",
+          "variations": [
+            "The vibe coder skill tree: Prompt engineering (maxed), intuition-based testing (maxed), reading AI-generated code (zero), writing code independently (not applicable)."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-074",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://datasciencedojo.com/blog/llm-and-generative-ai-jokes/",
+      "sourceNote": "LLM hallucination humor — AI confidently providing wrong answers; rewritten as a pair programming dialogue",
+      "tags": ["AI", "LLM", "幻覺", "除錯", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師問 AI：「這個函式庫的 v3 有支援這個 API 嗎？」\n\nAI：「有的，v3 完全支援，用法如下：」\n然後給出了一段漂亮的範例程式碼。\n\n工程師跑起來：報錯。函式根本不存在。\n\n工程師：「你確定 v3 有這個？」\n\nAI：「你說得對，我可能混淆了。實際上 v4 才有。」\n\n工程師去查 v4 文件：v4 根本還沒發布。\n\nAI 說話的語氣，永遠比它的知識還要確定。",
+          "editorNote": "傳給每天問 AI 技術問題的工程師，那種「AI 講得超有把握結果全是幻覺」的挫折感，每個人都有過",
+          "variations": [
+            "LLM 的答題模式：不確定時，說得更有信心。有把握時，加一句『但這可能因版本而異』。工程師永遠不知道現在是哪種。"
+          ]
+        },
+        "en": {
+          "content": "Developer: \"Does this library support this API in v3?\"\n\nAI: \"Yes, v3 fully supports it. Here's how to use it:\"\nThen it produced clean, confident example code.\n\nDeveloper ran it. Error. The function didn't exist.\n\nDeveloper: \"Are you sure v3 has this?\"\n\nAI: \"You're right, I may have confused it. This is actually only available in v4.\"\n\nDeveloper checked the v4 docs. v4 hadn't been released yet.\n\nThe AI's tone is always more certain than its knowledge.",
+          "editorNote": "Share with any developer who uses AI for technical Q&A — the 'spoken with total confidence, completely hallucinated' experience is universal",
+          "variations": [
+            "LLM answer mode: when uncertain, sound more confident. When confident, add 'but this may vary by version.' Developers never know which one they're getting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-075",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://fonzi.ai/blog/vibe-coding-memes",
+      "sourceNote": "Accept All in AI coding tools — the 'I don't read the diffs anymore' vibe coding behavior rewritten as a slow-burn story",
+      "tags": ["vibe coding", "AI", "Copilot", "code review", "工程師文化"],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次用 AI 改程式碼：逐行看完所有 diff，確認每一個改動。\n\n第二個月：快速掃一眼，大致沒問題，Accept All。\n\n第四個月：直接 Accept All，有問題再說。\n\n第六個月，主管問：「這裡怎麼多了一個付款頁面？」\n\n工程師：「……我也不知道。」\n\n主管：「你沒看 diff 嗎？」\n\n工程師思考了一下，決定不回答這個問題。",
+          "editorNote": "傳給已經習慣 Accept All 的工程師，他看完會沉默然後打開 git log 確認一下",
+          "variations": [
+            "AI 工具使用者的三個階段：第一，仔細 review；第二，大概看一下；第三，Accept All 然後祈禱。大多數人都已經進入第三階段。"
+          ]
+        },
+        "en": {
+          "content": "First time using AI to modify code: read through every diff line by line, confirming each change.\n\nMonth two: quick scan, looks roughly fine, Accept All.\n\nMonth four: Accept All directly, deal with issues later.\n\nMonth six, manager: \"Why is there a new payment page here?\"\n\nDeveloper: \"...I don't know.\"\n\nManager: \"Did you review the diff?\"\n\nThe developer considered the question and decided not to answer it.",
+          "editorNote": "Send to any developer deep in the Accept All habit — they'll go quiet and then quietly open git log to check something",
+          "variations": [
+            "AI tool user progression: first, review carefully; second, skim roughly; third, Accept All and pray. Most people are already at stage three."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-076",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "My code works / doesn't work, no idea why — classic developer contradiction rewritten as a performance review moment",
+      "tags": ["bug", "工程師語錄", "黑色幽默", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "年度績效面談。\n\n主管：「今年你覺得自己最大的成長是什麼？」\n\n工程師思考了片刻：「我對不確定性的容忍度提升很多。」\n\n主管：「例如？」\n\n工程師：「以前程式不動我會很焦慮。現在程式不動我會說『不知道為什麼，等一下再看』。以前程式動了我很開心。現在程式動了我會說『不知道為什麼，先不要動它』。」\n\n主管：「…所以你現在兩種狀況都不知道為什麼？」\n\n工程師：「對，但我接受了。這就是成長。」",
+          "editorNote": "傳給任何工程師或他們的主管，績效季前後發出去效果最好，兩邊都會心一笑",
+          "variations": [
+            "工程師的工作哲學：程式跑起來，不要問為什麼；程式跑不起來，也不要問為什麼。問了只會讓你更困惑。"
+          ]
+        },
+        "en": {
+          "content": "Annual performance review.\n\nManager: \"What do you think your biggest growth was this year?\"\n\nThe developer thought for a moment. \"My tolerance for uncertainty has improved a lot.\"\n\nManager: \"For example?\"\n\nDeveloper: \"In the past, if code stopped working, I'd panic. Now I say 'no idea why, I'll look at it later.' In the past, if code suddenly worked, I'd be thrilled. Now I say 'no idea why, let's not touch it.'\"\n\nManager: \"...So you don't know why in either case?\"\n\nDeveloper: \"Correct. But I've accepted it. That's growth.\"",
+          "editorNote": "Perfect to share before or after review season — developers and their managers will both recognize the energy",
+          "variations": [
+            "Developer work philosophy: if the code runs, don't ask why. If it doesn't, also don't ask why. Asking only makes it worse."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-077",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://pundoor.com/programmer-puns/",
+      "sourceNote": "Senior developer's answer to everything being 'it depends' — widely circulated 2025-2026 developer humor rewritten as an onboarding scene",
+      "tags": ["資深工程師", "工程師語錄", "新人", "工程師文化"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人第一週，問了資深工程師十個問題。\n\n所有答案都是：「這要看情況。」\n\n新人：「那什麼時候不用看情況？」\n\n資深工程師想了很久：「這要看情況。」\n\n新人默默回到位子上，打開 Google，用另一種方式問同一個問題。\n\nGoogle 的答案：「This depends on your use case.」\n\n新人：原來這是全球共識。",
+          "editorNote": "傳給剛入職的工程師或帶新人的 mentor，那種「問什麼都是 it depends」的無力感和頓悟，每個人都有過",
+          "variations": [
+            "工程師的萬用答案排行：第一，「這要看情況」；第二，「你的需求是什麼？」；第三，「這很複雜，要開個會討論一下」。新人學會這三句之後，就可以去帶下一個新人了。"
+          ]
+        },
+        "en": {
+          "content": "A new hire's first week. They asked the senior developer ten questions.\n\nEvery answer was: \"It depends.\"\n\nNew hire: \"Is there anything that doesn't depend on something?\"\n\nSenior thought for a long time. \"It depends.\"\n\nThe new hire quietly returned to their desk and typed the same question into Google.\n\nGoogle's answer: \"This depends on your use case.\"\n\nNew hire: So this is global consensus.",
+          "editorNote": "Share with new developers or the mentors onboarding them — that moment of realizing 'it depends' is the universal developer answer is both funny and genuinely true",
+          "variations": [
+            "Top three universal developer answers: 1. 'It depends.' 2. 'What's your use case?' 3. 'This is complex — let's schedule a meeting.' Once a new hire masters all three, they're ready to mentor the next one."
+          ]
+        }
+      }
     }
   ]
 }

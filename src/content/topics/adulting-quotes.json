@@ -586,6 +586,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "aq-026",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://punhour.com/millennial-jokes/",
+      "sourceNote": "millennial/Gen-Z 'energy-saving mode' / always tired trope; rewritten original",
+      "tags": ["長大", "生活", "疲勞", "以為長大後"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候以為累是因為功課太多。\n\n長大後才知道，\n累不需要理由，\n也不需要做了什麼才累，\n存在本身就已經很耗電了。\n\n現在的狀態：省電模式，長期開啟。",
+          "editorNote": "傳給那個說「好累但不知道在累什麼」的朋友，讓他知道這很正常",
+          "variations": [
+            "初級大人：「我需要休息。」（做了很多事之後）高級大人：「我需要休息。」（什麼都還沒做。）兩個都對。"
+          ]
+        },
+        "en": {
+          "content": "As a kid, being tired meant you'd actually done something.\n\nAs an adult, you can be completely exhausted\nbefore you've done a single thing.\n\nExisting is just expensive that way.\n\nCurrent status: low-power mode, indefinitely.",
+          "editorNote": "For the friend who says 'I'm so tired but I don't know why' — send without comment, just let it land",
+          "variations": [
+            "Junior adult: 'I need to rest.' (after a full day.) Senior adult: 'I need to rest.' (before anything has happened.) Both are valid."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-027",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://www.boredpanda.com/funny-adulting-memes-jokes/",
+      "sourceNote": "adulting = household basics appearing magically vs buying your own; rewritten original from viral adulting meme theme",
+      "tags": ["長大", "生活", "購物", "以為長大後", "父母"],
+      "i18n": {
+        "zh-tw": {
+          "content": "長大以前，家裡的衛生紙、洗碗精、醬油、牙膏\n——從來不會缺，好像會自己長出來。\n\n長大以後，你才明白：\n那些東西不是長出來的，\n是有人一直默默去買的。\n\n現在那個人是你。",
+          "editorNote": "傳給剛開始獨居、第一次買衛生紙的朋友，讓他感受到這份成長的重量",
+          "variations": [
+            "初級大人的購物清單：零食、飲料、泡麵。高級大人的購物清單：垃圾袋、洗手乳、抹布……然後順便買零食。"
+          ]
+        },
+        "en": {
+          "content": "Before you grew up, toilet paper, dish soap, soy sauce, toothpaste\n— they were always just there. Like they grew on their own.\n\nAfter you grew up, you realized:\nthey didn't grow on their own.\nSomeone had been quietly buying all of it, all along.\n\nThat person is you now.",
+          "editorNote": "For anyone who just paid for household basics for the first time and had a moment of silent respect for their parents",
+          "variations": [
+            "Junior adult shopping list: snacks, drinks, instant noodles. Senior adult shopping list: trash bags, hand soap, sponges… and then snacks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-028",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://growtherapy.com/blog/gen-z-mental-health-statistics/",
+      "sourceNote": "Gen-Z therapy/self-awareness era; 'going to therapy is cool' viral theme; rewritten original",
+      "tags": ["長大", "心理健康", "高級大人", "智慧", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人遇到問題：忍著，覺得說出來很丟臉。\n\n高級大人遇到問題：去找人談談，覺得照顧自己的情緒是基本功。\n\n不是變脆弱，\n是終於搞懂，\n藏著的東西不會消失，只會在你最不想的時候冒出來。",
+          "editorNote": "傳給那個一直說「我沒事」但臉上寫著有事的朋友，輕輕地",
+          "variations": [
+            "高級大人的頓悟：情緒不處理，它不會自己好。它只是在等你最脆弱的時候一起算帳。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult facing a problem: bottles it up, feels like talking about it is embarrassing.\n\nSenior adult facing a problem: finds someone to talk to, understands that managing your emotions is just basic maintenance.\n\nNot getting weaker.\nJust finally understanding that what you hide doesn't disappear — it waits for the worst possible moment to resurface.",
+          "editorNote": "For the friend who always says 'I'm fine' while clearly not being fine — share gently",
+          "variations": [
+            "Senior adult realization: unprocessed feelings don't heal on their own. They just wait until you're at your most vulnerable, then collect with interest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-029",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://nchstats.com/digital-fatigue-crisis-gen-z/",
+      "sourceNote": "doomscrolling / digital fatigue viral Gen-Z theme 2025-2026; rewritten original",
+      "tags": ["初級大人", "生活", "手機", "睡眠", "拖延"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人準備睡覺的流程：\n\n十一點——「再看五分鐘手機。」\n十一點半——「再看五分鐘。」\n凌晨一點——不知道從哪個影片跳到了三年前的網路事件，完全記不得當初怎麼來的。\n\n這不叫失眠，這叫主動選擇清醒。",
+          "editorNote": "傳給凌晨一點還在滑手機的自己，讓他苦笑後把手機放下（也許）",
+          "variations": [
+            "初級大人的睡前儀式：原本想放鬆五分鐘，結果用手機滑完了整個人類的近代史。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult's bedtime routine:\n\n11 PM — 'just five more minutes on my phone.'\n11:30 PM — 'five more minutes.'\n1 AM — somehow deep in a thread about a news story from three years ago, with no memory of how you got here.\n\nThis isn't insomnia. This is choosing to stay awake.",
+          "editorNote": "Send to yourself or a friend at 1 AM — maximum timing, minimal irony",
+          "variations": [
+            "Junior adult's wind-down routine: planned to relax for five minutes, accidentally scrolled through the last decade of internet history."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-030",
+      "dateAdded": "2026-04-26",
+      "sourceUrl": "https://thunderdungeon.com/2025/01/04/adulting-memes-5/",
+      "sourceNote": "adulting = video game with no tutorial; rewritten original from viral adulting meme",
+      "tags": ["長大", "生活", "職場", "以為長大後"],
+      "i18n": {
+        "zh-tw": {
+          "content": "長大就像打一款遊戲，\n開局沒有新手教學，\n沒有說明書，\n沒有存檔點，\n技能樹也不給你看，\n\n你只能一關一關地摸著過，\n然後在死了好幾次之後，\n慢慢拼湊出「原來這個遊戲是這樣玩的」。",
+          "editorNote": "傳給那個正在摸不著頭緒、覺得大家都比自己更懂怎麼當大人的朋友",
+          "variations": [
+            "長大的說明書：沒有。遇到問題的解法：先試試看，不行再Google，再不行打電話給媽媽。這就是攻略。"
+          ]
+        },
+        "en": {
+          "content": "Growing up is like starting a video game\nwith no tutorial,\nno manual,\nno save points,\nand the skill tree is hidden.\n\nYou just fumble through level by level,\ndie a few times,\nand slowly piece together\n'oh, so this is how this game works.'",
+          "editorNote": "For anyone who feels like everyone else got a guide to adulthood and somehow missed the orientation",
+          "variations": [
+            "The adulting manual: doesn't exist. Problem-solving method: try it, Google it if that fails, call your mom if Google fails. That's the walkthrough."
+          ]
+        }
+      }
     }
   ]
 }
