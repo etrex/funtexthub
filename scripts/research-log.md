@@ -1217,3 +1217,105 @@
 22. Create `holiday-jokes` 端午節 content expansion (target draft by May 10; live before June 10 for June 19 peak)
 23. Create `self-love-quotes` / 自愛語錄 (MEDIUM — 愛你老己 confirmed structural trend; create May–June after cat-quotes)
 24. Monitor `human-design-quotes` / 人類圖語錄 for 1 more month before committing
+
+---
+
+## 2026-04-26 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, graduation-quotes, couple-jokes, dark-humor, holiday-jokes, drama-quotes, healing-quotes, mom-quotes, adulting-quotes, **cat-quotes** (18 total) ✅
+- `cat-quotes` NEWLY CONFIRMED created (detected in src/content/topics/ — was NOT confirmed in April 24 report) ✅
+- 大甲媽祖遶境 **WINDOW CLOSED TODAY (April 26 回鑾)** — seasonal opportunity permanently closed until April 2027
+- 勞動節連假 (May 1–3) is **5 days away** — workplace-quotes live ✅
+- Mother's Day (May 10) is **14 days away** — mom-quotes live ✅
+- 端午節 (June 19–21) is **54 days away** — holiday-jokes live; expansion window open
+- 畢業季 (May–June) traffic builds in approximately 2 weeks — graduation-quotes live ✅
+- Persistent backlog (14 consecutive reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items — these MUST be executed in the next content session without exception
+
+### New Topic Recommendations
+
+1. **韓劇語錄 / Korean Drama Quotes** (slug: `korean-drama-quotes`, category: Romance)
+   - 《愛情怎麼翻譯？》(Netflix, Jan 2026, starring Kim Sun-ho & Gao Yuanzhen) confirmed as #1 Taiwan Yahoo drama ranking for January 2026, reached Netflix global non-English Top 10, and led to 1M+ Instagram follower surges for both leads — the largest single Korean drama viral event in Taiwan in 2026 so far
+   - UDN女子漾published "10大浪漫金句" article confirming active quote circulation: "讀懂彼此的語言，心意相通時，就是心與心走進的開始"; Crossing.cw.com.tw published a deep analysis on why it went viral — confirming editorial legitimacy
+   - 2026 Korean drama lineup confirmed strong: 《神與律師事務所》, 《莎拉的真偽人生》, 《努力克服自卑的我們》, 《今天開始是人類》, 《訂閱男友》 all confirmed in 2026 schedules
+   - Structural distinction from drama-quotes: drama-quotes is anchored to 甄嬛傳 / 台劇 content; a dedicated `korean-drama-quotes` topic captures Romance category quote-seekers with different discovery intent
+   - Alternative: expand drama-quotes to include 韓劇 subcategory — lower maintenance overhead but dilutes existing 台劇 positioning
+   - SEO targets: 韓劇語錄, 韓劇金句, 韓劇台詞, 愛情怎麼翻譯語錄, 韓劇名台詞, korean drama quotes zh-tw, 韓劇心動台詞
+   - **Recommendation: MEDIUM-HIGH priority. 《愛情怎麼翻譯？》quote content is still being circulated (drama ended Jan 2026, but listicle afterlife is active). Create in May after self-love-quotes. Target 12–15 items across multiple dramas.**
+
+2. **旅遊語錄 / Travel Quotes** (slug: `travel-quotes`, category: Lifestyle)
+   - UDN女子漾Threads viral post: "帶爸媽出國9條不吵架守則" (Threads爆文, confirmed on woman.udn.com/woman/story/123164/9296847) — family travel planning content getting massive Threads engagement; validates audience demand for travel-adjacent humor
+   - 2026 國旅補助 confirmed newly restructured: 抽籤制 (lottery system replacing first-come-first-served), max NT$3,200 for birthday months — this specific policy change creates timely humor opportunity ("台灣旅遊補助從先住先贏改成抽籤制，感覺旅遊心態從計劃型變成看緣分型了")
+   - udn confirmed "2025年韓國旅行最熱門目的地" article active — Korea travel remains Taiwan's #1 outbound destination; cross-audience with Korean drama fans
+   - Travel quotes have high LINE forwarding behavior in Taiwan (旅行金句 format is a staple group chat content)
+   - Content angles: 出走語錄 (escape-from-reality), 旅伴語錄 (travel companion dynamics), 行程暴走語錄 (over-planning humor), 第一次出國語錄 (first-timer anxiety humor)
+   - SEO targets: 旅遊語錄, 旅行金句, 出走語錄, 旅行心情語錄, travel quotes zh-tw, 旅行語錄, 背包客語錄, 帶爸媽旅遊語錄
+   - **Recommendation: MEDIUM priority. Structural evergreen demand with seasonal boosts (spring break, Golden Week, summer). Create in June after korean-drama-quotes. Content is highly shareable but requires active trend-monitoring to stay relevant.**
+
+3. **自愛語錄 / Self-Love Quotes** (slug: `self-love-quotes`, category: Lifestyle)
+   - Continuing from April 24 recommendation: 愛你老己 confirmed as 2026 structural consumer trend (36氪 "萬億經濟" article, finance.people.com.cn Jan 2026, Sina Finance, Tencent News all filed dedicated coverage)
+   - Mid-April 2026: trend remains structurally active though initial viral spike has normalized — this transitions from trend content to evergreen SEO content
+   - Distinct from existing topics: motivational-quotes = push forward; healing-quotes = recovery; self-love-quotes = gentle daily self-care attitude (悅己)
+   - UDN Jan 2026 必會流行語 8條 article explicitly notes the generation's emotional rhythm is "self-mockery + clarity, wanting to work hard while not wanting to be consumed" — self-love-quotes directly serves this emotional register
+   - SEO targets: 愛你老己, 愛自己語錄, 悅己語錄, 自愛語錄, 好好愛自己, love yourself quotes zh-tw, 愛自己金句
+   - **Recommendation: MEDIUM priority. Carrying forward from April 24. Create in May alongside or after cat-quotes. Structural demand confirmed; topic differentiation from healing-quotes is clear.**
+
+### Content Trends
+
+- **大甲媽祖遶境 WINDOW PERMANENTLY CLOSED**: Today (April 26) is 回鑾 to Dajia Zhenlangong. The seasonal traffic window is now closed for 12 months. Any pending 媽祖遶境 items in cold-jokes or absurd-wisdom that were not added before today are no longer timely — do NOT add them now as they will appear stale.
+
+- **勞動節 (May 1–3) — 5 DAYS AWAY — ACTIVE SEARCH INTENT NOW**: TVBS Threads countdown posts and NowNews "學生有放假嗎" Q&A are live and getting engagement, confirming search intent is PEAK now. 2026 is the first year with 全國統一放假 (students, teachers, civil servants, all workers) — this uniquely-2026 angle should appear in workplace-quotes items and editorNotes. DailyView published dedicated "2026勞動節為何全台同步放假？" article confirming this is headline-level news.
+
+- **《愛情怎麼翻譯？》Korean Drama Afterlife Content Cycle**: Though the drama ended in January 2026, UDN and beauty321.com published rating listicles in March–April 2026 ("近3年最高分愛情韓劇TOP10"), confirming the drama is still in active content circulation. POPBEE published "2026必看治癒系韓劇台詞推薦" in April. The quote afterlife window for this drama is approximately 2–3 more months.
+
+- **端午節 (June 19–21) — 54 Days — Content Window Now Open**: memes.tw confirmed 20+ active 端午節 meme templates. watermoon333 confirmed full 粽子諧音成語 list: 粽望所歸, 一見粽情, 粽情投入. Most viral 2026 joke format confirmed: "接下來幾天的股市直接影響你端午節是和家人一起吃粽子還是和屈原一起吃粽子" — this joke is specifically powerful in 2026 given Taiwan market conditions. Succuland.com.tw updated their 端午賀詞 guide for 2026. Begin holiday-jokes 端午節 expansion draft now; target live by May 10 for June 10 indexing.
+
+- **2026 UDN必會流行語 8條 — Emotional Register Insight**: UDN女子漾 Jan 22, 2026 article on 8 must-know 2026 internet slang terms characterizes the generation's emotional tone as: 一邊自嘲、一邊清醒，一邊想努力、一邊不想再被消耗 ("self-mockery + clarity, wanting to work hard while not wanting to be consumed"). This is the core emotional register that makes healing-quotes, adulting-quotes, and the proposed self-love-quotes resonate. All new content in these categories should match this emotional tone — NOT pure optimism, NOT pure negativity, but aware self-compassion.
+
+- **台劇《乩身》 — Taiwanese Religious/Fantasy Culture**: Netflix 2026 April must-watch list includes 《乩身》 (NT$180M budget, 柯震東 + 王柏傑, combines 台灣宮廟信仰 with modern fantasy). With 媽祖遶境 window now closed, this drama creates a longer-term content angle around 台灣民間信仰 humor — not tied to seasonal events. Potential future cold-jokes or witty-comebacks items: 宮廟 humor format ("問神明能不能拈花惹草，結果籤說：先顧好自己這朵").
+
+- **畢業季語錄 Verification Needed**: Multiple 2026 畢業語錄 sites active (Pinkoi, watermoon333, chatartpro). Taiwan school calendar confirmed: 畢業典禮 season begins in late May/early June. Verify graduation-quotes includes both upbeat ("In My ___ Era") and bittersweet-departure formats.
+
+- **cat-quotes NOW LIVE — Content Angle Confirmation**: Monitoring complete. cat-quotes being live now captures the structural evergreen demand identified over the past 2+ weeks. UDN confirmed active 貓咪語錄 book titles (《有貓的日子，才叫生活》, 《貓語錄》by 朱國珍). Verify content covers: 主子邏輯 format, 人生哲學貓咪版 format, and LINE forwarding-optimized 貓咪心機語 format.
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 joke format **14 CONSECUTIVE REPORTS — NON-NEGOTIABLE, EXECUTE NEXT SESSION**. 媽祖遶境 items: **WINDOW CLOSED (April 26 回鑾)** — do NOT add these now, they would be stale. 甄嬛傳 items: add in this session if wave hasn't fully faded (verify by checking current memes.tw activity). New opportunity: 《乩身》宮廟 humor angle for a cold-joke item: "問媽祖說我的感情運怎樣，籤說大吉，但回家發現他已讀不回".
+- **absurd-wisdom (廢話文學)**: 「接住」items **14 consecutive reports — execute unconditionally**. New angle: 勞動節 absurdist item: "2026勞動節終於全台放假，那我那些加班的夜晚，大概只能算是我對勞動節的提前敬意了".
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI + 硬控 pickup lines **14 consecutive reports — non-deferrable**. Execute unconditionally: "你把我硬控了，完全移不開目光"; "朋朋，我能不能叫你男女朋友的朋？"; "你是I人還是E人？因為你進來的瞬間，我的內心OS已經熱場了".
+- **workplace-quotes (職場語錄)**: 勞動節 (May 1–3) is 5 days away. Verify at least one item captures the uniquely-2026 "全國統一放假" milestone. Tags: 勞動節, 2026全年不補班, 上班族限定, 社畜語錄.
+- **holiday-jokes (節日笑話)**: Begin 端午節 expansion now. Target 5+ new items using confirmed viral formats: 粽子諧音成語, 屈原/股市 cross-joke, 南粽 vs. 北粽 debate. Target live by May 10.
+- **drama-quotes (台劇語錄)**: 甄嬛傳 wave — verify if 2026 viral items (撞世die/眉預算/慣蘭高手/環保橘) are already in the file. If wave is now fading, add《乩身》as the next 台劇 content angle once the show builds more quote circulation. 韓劇 coverage: consider adding a section or separate topic for 韓劇語錄.
+- **cat-quotes (貓咪語錄 — NEWLY CONFIRMED LIVE)**: Verify content covers three core formats: (1) 主子邏輯 humor ("我蹬你一腳，是因為你讓我太舒服了"); (2) 貓咪人生哲學 ("窗邊不是在看風景，是在審判過路的人"); (3) 貓咪與主人反差萌 ("你以為牠在撒嬌，其實牠只是想開冰箱"). Confirm LINE forwarding prompt in editorNotes.
+- **graduation-quotes (畢業季語錄)**: Graduation season traffic begins building in ~2 weeks. Verify "In My ___ Era" bilingual format and English graduation caption tags. Ensure both 歡送 (departure) and 下個階段 (new chapter) emotional registers are covered.
+- **mom-quotes (媽媽語錄)**: Mother's Day (May 10) is 14 days away. Commercial content ecosystem actively publishing 2026 母親節語錄 (TiffenyFlower, watermoon333) confirms search demand is peaking. Verify editorNotes reference LINE group chat sharing context ("傳給媽媽看" style prompt).
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done
+8. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done
+9. ~~Create `couple-jokes` / 情侶日常笑話~~ ✅ Done
+10. ~~Create `dark-humor` / 地獄笑話~~ ✅ Done
+11. ~~Create `holiday-jokes` / 節日笑話~~ ✅ Done
+12. ~~Create `drama-quotes` / 台劇語錄~~ ✅ Done (16 items, 2026-04-20)
+13. ~~Create `healing-quotes` / 治癒系語錄~~ ✅ Done (confirmed 2026-04-22)
+14. ~~Create `mom-quotes` / 媽媽語錄~~ ✅ Done (confirmed 2026-04-23)
+15. ~~Create `adulting-quotes` / 大人語錄~~ ✅ Done (confirmed 2026-04-24)
+16. ~~Create `cat-quotes` / 貓咪語錄~~ ✅ Done (confirmed 2026-04-26)
+17. **Update `cold-jokes` with I人/E人 jokes + 《乩身》宮廟笑話** (CRITICAL — 14 reports; 媽祖遶境 window now closed permanently; 甄嬛傳 wave verify status)
+18. **Update `absurd-wisdom` with 「接住」items + 勞動節 absurdist angle** (14 consecutive reports — unconditional execution)
+19. **Update `cheesy-pickups` with 「朋朋」+ MBTI + 硬控 pickup lines** (14 consecutive reports — unconditional execution)
+20. **Update `holiday-jokes` with 端午節 expansion** (target live by May 10; June 19 peak is 54 days away)
+21. Verify `workplace-quotes` has 2026全國統一放假 hook in editorNotes (勞動節May 1–3 is 5 days away)
+22. Verify `mom-quotes` covers 5 core angles and LINE sharing editorNotes (Mother's Day May 10 — 14 days away)
+23. Verify `cat-quotes` covers 3 core formats: 主子邏輯, 人生哲學貓咪版, 貓咪反差萌
+24. Create `self-love-quotes` / 自愛語錄 (MEDIUM — 愛你老己 structural trend confirmed; create in May)
+25. Create `korean-drama-quotes` / 韓劇語錄 (MEDIUM-HIGH — 《愛情怎麼翻譯？》quote afterlife active through June 2026; create in May)
+26. Create `travel-quotes` / 旅遊語錄 (MEDIUM — 2026 國旅補助新制 + 家庭旅遊 viral Threads content; create in June)
+27. Monitor `human-design-quotes` / 人類圖語錄 for 2 more weeks before committing
