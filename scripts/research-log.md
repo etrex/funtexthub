@@ -1316,6 +1316,7 @@
 22. Verify `mom-quotes` covers 5 core angles and LINE sharing editorNotes (Mother's Day May 10 — 14 days away)
 23. Verify `cat-quotes` covers 3 core formats: 主子邏輯, 人生哲學貓咪版, 貓咪反差萌
 24. Create `self-love-quotes` / 自愛語錄 (MEDIUM — 愛你老己 structural trend confirmed; create in May)
-25. Create `korean-drama-quotes` / 韓劇語錄 (MEDIUM-HIGH — 《愛情怎麼翻譯？》quote afterlife active through June 2026; create in May)
-26. Create `travel-quotes` / 旅遊語錄 (MEDIUM — 2026 國旅補助新制 + 家庭旅遊 viral Threads content; create in June)
-27. Monitor `human-design-quotes` / 人類圖語錄 for 2 more weeks before committing
+25. ~~Create `korean-drama-quotes` / 韓劇語錄~~ ✅ Done (15 items, 2026-04-26; 《愛情怎麼翻譯？》anchor + 追劇文化觀察)
+26. Create `self-love-quotes` / 自愛語錄 (MEDIUM — 愛你老己 structural trend confirmed; create in May)
+27. Create `travel-quotes` / 旅遊語錄 (MEDIUM — 2026 國旅補助新制 + 家庭旅遊 viral Threads content; create in June)
+28. Monitor `human-design-quotes` / 人類圖語錄 for 2 more weeks before committing
