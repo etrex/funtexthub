@@ -1320,3 +1320,100 @@
 26. Create `self-love-quotes` / 自愛語錄 (MEDIUM — 愛你老己 structural trend confirmed; create in May)
 27. Create `travel-quotes` / 旅遊語錄 (MEDIUM — 2026 國旅補助新制 + 家庭旅遊 viral Threads content; create in June)
 28. Monitor `human-design-quotes` / 人類圖語錄 for 2 more weeks before committing
+
+---
+
+## 2026-04-27 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, graduation-quotes, couple-jokes, dark-humor, holiday-jokes, drama-quotes, healing-quotes, mom-quotes, adulting-quotes, cat-quotes, korean-drama-quotes (19 total) ✅
+- `korean-drama-quotes` confirmed created 2026-04-26 (15 items) ✅
+- **勞動節連假 (May 1–3) is NOW 4 DAYS AWAY** — peak search intent active right now; workplace-quotes and social content needs to be ready
+- **母親節 (May 10) is 13 days away** — content should be fully verified and live
+- **端午節 (June 19–21) is 53 days away** — expansion drafting window open
+- **畢業季** traffic building in ~2 weeks — graduation-quotes live ✅
+- Persistent backlog (15 consecutive reports unactioned): cold-jokes I人/E人 items, absurd-wisdom 「接住」items, cheesy-pickups 「朋朋」/MBTI items — **EXECUTE UNCONDITIONALLY IN NEXT SESSION, NO EXCEPTIONS**
+
+### New Topic Recommendations
+
+1. **狗狗語錄 / Dog Quotes** (slug: `dog-quotes`, category: Lifestyle)
+   - 台灣寵物登記數已超越新生兒，「毛孩」文化全面取代小孩成為家庭情感重心（adgeek.com 2026 寵物經濟趨勢報告確認）
+   - cat-quotes live data: confirms audience demand for pet content in Lifestyle category; dog-quotes is the natural companion topic with distinct content angle (狗 vs. 貓 personality contrast is itself a viral meme format)
+   - 嘖嘖 2026 狗狗日曆《親愛的人類》project confirms market appetite: "365句狗狗寫給你的溫暖話語" — validates dedicated dog-language content format
+   - Content angles: 狗主人現形記 (owner behavior humour), 狗狗內心OS (dog's-eye-view monologue), 柴犬厭世語錄 (Shiba Inu existential humor — massively viral), 忠誠系語錄 (loyalty/companionship sentiment), 毛孩與生活 (pet-lifestyle integration)
+   - SEO targets: 狗狗語錄, 狗語錄, 毛孩語錄, 柴犬語錄, 狗主人語錄, 狗狗金句, dog quotes zh-tw, 養狗語錄, 狗與生活語錄
+   - Distinction from cat-quotes: cat-quotes = 主子哲學 (cat as philosopher-overlord); dog-quotes = 暖心忠誠 + 狗主人自嘲 humor — different emotional register
+   - **Recommendation: MEDIUM-HIGH priority. Create in May alongside self-love-quotes. 19 topics now live; cat+dog pairing is a strong content duo for social sharing and cross-linking. Target 12–15 items.**
+
+2. **食物笑話 / Food Jokes** (slug: `food-jokes`, category: Humor)
+   - 端午節 粽子諧音成語 content (粽望所歸, 一見粽情, 粽情投入) reflects a broader Taiwanese humor tradition: 食物×諧音 is one of the most enduring formats for viral holiday content
+   - 田馥甄 玉琴顧粽 (欲擒故縱) example confirms celebrity traction for food puns; this format drives Threads and LINE group engagement year-round, not just seasonal
+   - Content angles: 食物諧音冷笑話, 吃飯語錄 (dining humor), 便當/外食族笑話, 節慶食物梗 (年節/端午/中秋各有專屬食物梗)
+   - Differentiation from cold-jokes: cold-jokes = format-agnostic wordplay; food-jokes = themed around 飲食文化, captures search intent from people looking for party/gathering icebreaker jokes
+   - SEO targets: 食物笑話, 粽子笑話, 吃飯笑話, 食物冷笑話, food jokes zh-tw, 便當笑話, 宵夜語錄, 吃貨語錄
+   - Seasonal opportunities: 端午 (粽子), 中秋 (月餅/柚子), 冬至 (湯圓), 年夜飯 — built-in seasonal refresh cycle
+   - **Recommendation: MEDIUM priority. Create in May–June. SEO differentiation from cold-jokes is clear. Content sustainability is high given Taiwan's food culture depth and seasonal cadence.**
+
+3. **自愛語錄 / Self-Love Quotes** (slug: `self-love-quotes`, category: Lifestyle)
+   - Confirmed continuing demand: multiple evergreen articles active (own.com, girlstyle.com, cloud-inc.tw, cyberlink.com) with 2026-updated content — search intent is structural, not trending-only
+   - 2026 Threads quote format: "不急著證明什麼，把心放在舒服的位置" / "留一點力氣給自己" — these match the self-love register and are being shared on Taiwan Threads at scale
+   - Yahoo News article active: "愛自己是終生浪漫的開始 — 自信女人的20句浪漫語錄" confirms editorial legitimacy and quote-list consumption format
+   - 心理師周慕姿 quote circulating: "我滿足自己的需求與感受，這只是自我照顧，並非自私" — professional authority adds trust layer
+   - **Recommendation: MEDIUM priority. Carrying forward from April 24–26. Create in May as 3rd priority after cat content verification and backlog execution. Structural demand confirmed; clear differentiation from healing-quotes and motivational-quotes.**
+
+### Content Trends
+
+- **勞動節 (May 1–3) — 4 DAYS AWAY — PEAK SEARCH NOW**: TVBS Threads "2026剩下6個連假" post confirmed active with major engagement. 2026 is historically notable (全國統一放假 — first year students, teachers, workers all share same holiday). This fact MUST appear in workplace-quotes items. Unique 2026 angle: "2026勞動節第一次全民同步放假，感覺整個社會突然找到了共同語言" — strong Threads shareable format.
+
+- **Threads Taiwan = Primary Distribution Channel**: Confirmed by QSearch 2026 data: Taiwan has 21.08% Threads user share globally (highest of any market), 1.415億 DAU as of January 2026. ALL FunTextHub content should be optimized for Threads sharing behavior: single-sentence resonance, no context needed, emotionally specific rather than broadly motivational. Format insight: "一句今天真的不想上班比一張精修照片更有共鳴" — this is the exact register of our witty-comebacks and workplace-quotes.
+
+- **畢業季 Language Update**: 2026 畢業語錄 Threads posts confirm the tone has shifted from pure celebration to "帶著勇氣、溫柔與野心走向更喜歡的自己" — bittersweet self-aware register. graduation-quotes items should reflect both 歡送 and 自我期許 modes, not just congratulatory quotes. Verify this balance in existing content.
+
+- **人類圖 (Human Design) — HOLD**: Search results show 人類圖 content on Threads is professional/consultation-oriented (課程廣告, 動物溝通師 Threads), not meme/quote format. The content does not naturally convert to FunTextHub's humor/quote format. Recommendation: DISCONTINUE MONITORING. This topic will not scale to our content schema.
+
+- **端午節 (June 19–21) — 53 Days — Draft Window Open**: succuland.com.tw and pinkoi.com both have 2026-updated 端午節賀詞 guides live, confirming search intent is already building. Dcard 端午節笑話 thread confirms active fan engagement with food-pun format. 田馥甄 玉琴顧粽 example sets quality bar for celebrity-grade food pun content. Draft 5+ items for holiday-jokes expansion targeting May 10 publish date.
+
+- **Pet Economy as Content Category**: adgeek.com confirmed: Taiwan 寵物市場 USD 2.72B in 2024, projected USD 4.59B by 2033. 寵物登記數超越新生兒. This structural shift means pet content (cat-quotes + future dog-quotes) is not niche — it's mainstream Lifestyle. Cross-linking between cat-quotes and dog-quotes will drive discovery.
+
+### Existing Topic Updates
+
+- **cold-jokes (冷笑話)**: I人/E人 format — **15 CONSECUTIVE REPORTS. EXECUTE UNCONDITIONALLY**. 《乩身》宮廟笑話 angle: "問媽祖感情運，籤說大吉，但回家發現對方已讀不回" — verified as fresh angle following 媽祖遶境 window closure. 甄嬛傳 wave: verify current circulation before adding; if faded, skip and add 《乩身》 instead.
+- **absurd-wisdom (廢話文學)**: 「接住」items — **15 consecutive reports, execute unconditionally**. 勞動節 absurdist angle: "2026勞動節終於全台放假，那我那些加班的夜晚，大概只能算是我對勞動節的提前敬意了" — strong absurdist register, execute this item specifically.
+- **cheesy-pickups (土味情話)**: 「朋朋」+ MBTI + 硬控 — **15 consecutive reports, execute unconditionally**. Specific items to execute: "你把我硬控了，完全移不開目光"; "朋朋，我能不能叫你男女朋友的朋？"; "你是I人還是E人？因為你進來的瞬間，我的內心OS已經熱場了".
+- **workplace-quotes (職場語錄)**: 勞動節 4 days away. URGENTLY verify: (1) at least one item captures 2026 全國統一放假 milestone; (2) editorNote suggests sharing on 勞動節前夕. Threads format: "2026勞動節，史上第一次所有人都放假，我的老闆終於沒有藉口了".
+- **mom-quotes (媽媽語錄)**: Mother's Day 13 days away — PEAK SEARCH WINDOW ACTIVE NOW. Verify editorNotes include "傳給媽媽看" LINE sharing prompt. Verify content covers 5 angles: 媽媽叨唸, 媽媽的愛, 媽媽語錄幽默, 台式家庭關係, 致媽媽的話.
+- **holiday-jokes (節日笑話)**: Begin 端午節 expansion draft. Priority items: (1) 粽子諧音成語冷笑話; (2) 屈原/股市 cross-joke; (3) 南粽vs.北粽 debate; (4) 田馥甄-style 食物×諧音 成語 format. Target: 5+ items live by May 10.
+- **graduation-quotes (畢業季語錄)**: Verify "In My ___ Era" bilingual format included. Verify bittersweet 自我期許 register is balanced with 歡送 register. Traffic builds in ~2 weeks.
+- **korean-drama-quotes (韓劇語錄 — NEWLY LIVE 2026-04-26)**: Monitor for any user engagement signals. 《愛情怎麼翻譯？》afterlife content window remains ~2 more months per prior research. No immediate action needed — allow 1 week for organic discovery before evaluating content gaps.
+
+### Updated Action Priority
+
+1. ~~Create `programmer-jokes` topic~~ ✅ Done
+2. ~~Add Mother's Day variations to `sweet-quotes`~~ ✅ Done (sq-018 to sq-022)
+3. ~~Create `absurd-wisdom` / 廢話文學 topic~~ ✅ Done (15 items)
+4. ~~Create `workplace-quotes` topic~~ ✅ Done (15 items)
+5. ~~Create `motivational-quotes` topic~~ ✅ Done
+6. ~~Create `zodiac-quotes` with 星座×I人E人 angle~~ ✅ Done
+7. ~~Create `witty-comebacks` / 幹話語錄~~ ✅ Done
+8. ~~Create `graduation-quotes` / 畢業季語錄~~ ✅ Done
+9. ~~Create `couple-jokes` / 情侶日常笑話~~ ✅ Done
+10. ~~Create `dark-humor` / 地獄笑話~~ ✅ Done
+11. ~~Create `holiday-jokes` / 節日笑話~~ ✅ Done
+12. ~~Create `drama-quotes` / 台劇語錄~~ ✅ Done (16 items, 2026-04-20)
+13. ~~Create `healing-quotes` / 治癒系語錄~~ ✅ Done (confirmed 2026-04-22)
+14. ~~Create `mom-quotes` / 媽媽語錄~~ ✅ Done (confirmed 2026-04-23)
+15. ~~Create `adulting-quotes` / 大人語錄~~ ✅ Done (confirmed 2026-04-24)
+16. ~~Create `cat-quotes` / 貓咪語錄~~ ✅ Done (confirmed 2026-04-26)
+17. ~~Create `korean-drama-quotes` / 韓劇語錄~~ ✅ Done (15 items, 2026-04-26)
+18. **Update `cold-jokes` with I人/E人 jokes + 《乩身》宮廟笑話** (CRITICAL — 15 reports — EXECUTE UNCONDITIONALLY)
+19. **Update `absurd-wisdom` with 「接住」items + 勞動節 absurdist item** (15 consecutive reports — execute unconditionally)
+20. **Update `cheesy-pickups` with 「朋朋」+ MBTI + 硬控 pickup lines** (15 consecutive reports — execute unconditionally)
+21. **Update `holiday-jokes` with 端午節 expansion (5+ items, target live by May 10)**
+22. **Verify `workplace-quotes` has 2026全國統一放假 hook** (勞動節May 1–3 is 4 days away — URGENT)
+23. **Verify `mom-quotes` covers 5 core angles + LINE sharing editorNotes** (Mother's Day May 10 — 13 days away — PEAK SEARCH NOW)
+24. Verify `graduation-quotes` balance: bittersweet 自我期許 + 歡送 registers both present
+25. Create `self-love-quotes` / 自愛語錄 (MEDIUM — execute in May after backlog cleared)
+26. Create `dog-quotes` / 狗狗語錄 (MEDIUM-HIGH — execute in May; natural cat-quotes companion; pet economy structural demand confirmed)
+27. Create `food-jokes` / 食物笑話 (MEDIUM — execute May–June; seasonal refresh built-in with 端午/中秋/冬至)
+28. Create `travel-quotes` / 旅遊語錄 (MEDIUM — execute in June; 2026 國旅補助抽籤制 timely angle)
+29. ~~Monitor `human-design-quotes`~~ ❌ DISCONTINUED — content does not fit FunTextHub quote/joke schema; Threads circulation is consultation-oriented not meme-format
