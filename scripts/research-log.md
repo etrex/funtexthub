@@ -1413,7 +1413,7 @@
 23. **Verify `mom-quotes` covers 5 core angles + LINE sharing editorNotes** (Mother's Day May 10 — 13 days away — PEAK SEARCH NOW)
 24. Verify `graduation-quotes` balance: bittersweet 自我期許 + 歡送 registers both present
 25. Create `self-love-quotes` / 自愛語錄 (MEDIUM — execute in May after backlog cleared)
-26. Create `dog-quotes` / 狗狗語錄 (MEDIUM-HIGH — execute in May; natural cat-quotes companion; pet economy structural demand confirmed)
+26. ~~Create `dog-quotes` / 狗狗語錄~~ ✅ Done (14 items, 2026-04-27; 柴犬厭世 + 忠誠陪伴 + 狗主人現形記 angles)
 27. Create `food-jokes` / 食物笑話 (MEDIUM — execute May–June; seasonal refresh built-in with 端午/中秋/冬至)
 28. Create `travel-quotes` / 旅遊語錄 (MEDIUM — execute in June; 2026 國旅補助抽籤制 timely angle)
 29. ~~Monitor `human-design-quotes`~~ ❌ DISCONTINUED — content does not fit FunTextHub quote/joke schema; Threads circulation is consultation-oriented not meme-format
