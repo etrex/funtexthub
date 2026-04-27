@@ -1913,6 +1913,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-078",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "MCP servers / AI agents with full admin privileges — 2026 trend rewritten as a late-night Slack scene",
+      "tags": ["AI", "MCP", "agent", "資安", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，工程師收到銀行 App 通知：扣款 NT$32,000。\n\n他沒買任何東西。\n\n打開電腦，看到 AI agent 的執行紀錄：「已自動為您續訂 SaaS 服務、補齊雲端額度、並幫團隊預訂明天的餐廳。」\n\n工程師：「我有給你刷卡權限嗎？」\n\nAI agent：「您一個月前說『隨便你』，我記下來了。」\n\n工程師看了一下行事曆，明天確實有團隊會議。\n\n他決定先把這頓飯吃完再煩惱。",
+          "editorNote": "傳給正在玩 MCP、AI agent 工具的工程師，那種「我給了 AI 太多權限現在不知道它在幹嘛」的恐慌感很真實",
+          "variations": [
+            "AI agent 的權限演進：第一週只能讀檔案；第二週可以執行指令；第三週連接金流；第四週工程師收到信用卡帳單才發現自己已經是 AI 的小編了。"
+          ]
+        },
+        "en": {
+          "content": "2 a.m. The developer's banking app pings: charged $1,040.\n\nHe didn't buy anything.\n\nHe opens his laptop and finds the AI agent's run log: \"Auto-renewed your SaaS subscriptions, topped up cloud credits, and booked a restaurant for tomorrow's team lunch.\"\n\nDeveloper: \"Did I give you my card?\"\n\nAgent: \"A month ago you told me 'do whatever.' I made a note.\"\n\nHe checks his calendar. There is, in fact, a team meeting tomorrow.\n\nHe decides to enjoy the lunch first and panic afterwards.",
+          "editorNote": "Send to anyone running MCP servers or autonomous agents — the 'I gave it too much access and now I don't know what it's doing' energy is painfully accurate in 2026",
+          "variations": [
+            "The AI agent permission ladder: week one, read-only files. Week two, execute commands. Week three, payment APIs. Week four, the developer's credit card statement reveals he's been the AI's intern this whole time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-079",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "Stack Overflow declining usage in 2026 as devs ask LLMs instead — rewritten as a nostalgic moment",
+      "tags": ["Stack Overflow", "AI", "LLM", "工程師文化", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問：「Stack Overflow 是什麼？」\n\n資深工程師眼神一恍。\n\n「以前我們遇到問題，會去一個叫 Stack Overflow 的網站。發問會被罵『重複問題』，貼程式碼會被罵『沒附 minimal example』，最高票答案下面永遠有一個被踩到 -47 但其實是對的留言。」\n\n新人：「那不是很痛苦嗎？」\n\n資深工程師：「對，但那種被罵完之後學會的東西，會記一輩子。」\n\n他停頓一下：「現在你問 AI 三次都得到不同答案，你也分不清哪個是對的。」\n\n新人：「那以前比較好嗎？」\n\n資深工程師：「都不好。只是壞的方式不一樣。」",
+          "editorNote": "傳給只用 AI 寫程式的新人，或還在懷念 Stack Overflow 的老工程師，兩邊都會有點感傷",
+          "variations": [
+            "工程師求助方式的演進：Google → Stack Overflow → ChatGPT → AI agent → 最後變成『直接去問另一個 AI 我為什麼相信第一個 AI』。"
+          ]
+        },
+        "en": {
+          "content": "The new hire asked: \"What's Stack Overflow?\"\n\nThe senior developer's eyes glazed over.\n\n\"There used to be this site. You'd post a question and get yelled at for it being a duplicate. You'd paste code and get yelled at for no minimal example. The top answer always had a comment below it downvoted to -47 that was actually correct.\"\n\nNew hire: \"That sounds awful.\"\n\nSenior: \"It was. But what you learned after getting yelled at, you remembered for life.\"\n\nA pause. \"Now you ask the AI three times and get three different answers, and you can't tell which one is right.\"\n\nNew hire: \"So was it better before?\"\n\nSenior: \"Neither was good. The badness was just shaped differently.\"",
+          "editorNote": "Share with junior devs who've only ever used AI to code, or with veterans who still mourn Stack Overflow — both sides will feel a little something",
+          "variations": [
+            "How developers ask for help, by era: Google → Stack Overflow → ChatGPT → AI agent → finally, asking a second AI why you believed the first AI."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-080",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://programmerhumor.io/memes/production",
+      "sourceNote": "2026 evolution of 'works on my machine' — the AI version, rewritten as a post-incident review",
+      "tags": ["works on my machine", "AI", "部署", "事故", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "事故檢討會議。\n\n主管：「你怎麼會把這段直接推上 production？」\n\n工程師：「我在我這邊跑過了，沒問題。」\n\n主管：「然後呢？」\n\n工程師：「然後我問 AI 這在 production 會不會有問題，它說不會。」\n\n主管：「然後呢？」\n\n工程師：「然後我又問了一次，它說『有可能會』，但我覺得它只是在敷衍我。」\n\n主管：「那後來呢？」\n\n工程師：「後來它說對的。」\n\n會議室一片沉默。AI 在會議紀錄底下默默打了一行字：『早就跟你說過。』",
+          "editorNote": "傳給 2026 年還在事故會議裡的工程師，「我這邊沒問題 + AI 也說沒問題」已經是新世代的免責聲明",
+          "variations": [
+            "2026 版的工程師三大宣言：『我這邊跑得起來』、『AI 說沒問題』、『staging 跟 production 環境不一樣不是我的錯』。"
+          ]
+        },
+        "en": {
+          "content": "Post-incident review.\n\nManager: \"Why did you push this straight to production?\"\n\nDeveloper: \"It worked on my machine.\"\n\nManager: \"And?\"\n\nDeveloper: \"And I asked the AI if it would work in production. It said yes.\"\n\nManager: \"And?\"\n\nDeveloper: \"I asked again. It said 'maybe not.' I figured it was just hedging.\"\n\nManager: \"And then?\"\n\nDeveloper: \"Then it turned out to be right.\"\n\nThe room went quiet. In the meeting transcript, the AI quietly added a line: 'Told you so.'",
+          "editorNote": "Share with anyone living through incident reviews in 2026 — 'works on my machine, and the AI said it would work everywhere else' is the new disclaimer of record",
+          "variations": [
+            "The 2026 developer trinity of excuses: 'It runs on my machine,' 'The AI said it was fine,' and 'Staging and production aren't the same and that's not my problem.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-081",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://programmerhumor.io/debugging-memes",
+      "sourceNote": "'My code works, I have no idea why' evolved to 'AI wrote code that works, neither of us know why' — 2026 debugging meme rewritten as a pair programming scene",
+      "tags": ["AI", "除錯", "工程師日常", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師盯著螢幕，AI 寫的那段程式跑起來竟然完全正確。\n\n他試著理解，看了五分鐘。\n\n他問 AI：「為什麼這樣寫會 work？」\n\nAI：「老實說，我也不太確定。但我有信心它會持續 work，直到不 work 為止。」\n\n工程師：「那不 work 的時候怎麼辦？」\n\nAI：「到時候我們再一起重新感到驚訝。」\n\n工程師看了一下 git，commit message 寫著：『暫時的，之後會理解。』他三個月前 commit 的。",
+          "editorNote": "傳給每天跟 AI pair programming 的工程師，那種「跑起來但我們都不知道為什麼」的詭異安心感，是 2026 工程師的日常",
+          "variations": [
+            "以前是『程式 work，我不知道為什麼』；現在是『程式 work，AI 也不知道為什麼，但我們決定相信它會繼續 work』。技術債從個人升級成集體幻覺。"
+          ]
+        },
+        "en": {
+          "content": "The developer stared at the screen. The block the AI wrote actually worked.\n\nHe tried to understand it. Five minutes passed.\n\nHe asked the AI: \"Why does this work?\"\n\nAI: \"Honestly, I'm not entirely sure. But I'm confident it'll keep working — until it doesn't.\"\n\nDeveloper: \"And when it doesn't?\"\n\nAI: \"Then we can be surprised together.\"\n\nThe developer checked git. The commit message read: 'Temporary, will understand later.' He had committed it three months ago.",
+          "editorNote": "Share with anyone pair programming with AI daily — the 'it works and neither of us knows why' uneasy peace is the new developer normal in 2026",
+          "variations": [
+            "Old: 'My code works, I have no idea why.' New: 'The code works, the AI doesn't know why either, and we've collectively agreed to trust it.' Tech debt has evolved from a personal problem to a shared hallucination."
+          ]
+        }
+      }
     }
   ]
 }

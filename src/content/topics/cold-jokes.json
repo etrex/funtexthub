@@ -2116,6 +2116,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-083",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://pungenius.fun/dad-jokes-2026/",
+      "sourceNote": "受stacked pancakes父親節梗啟發，改寫為台式早餐店場景諧音版",
+      "tags": ["食物", "諧音", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "兒子問爸爸：「為什麼你早餐都點鬆餅？」\n\n爸爸說：「因為人生已經夠『硬』了，至少早餐要『鬆』一下。」",
+          "editorNote": "適合在週末早餐桌上，爸爸自帶得意笑容講給全家聽",
+          "variations": [
+            "延伸版：媽媽接話：「那我點吐司，因為我已經被你『土』到不行了。」"
+          ]
+        },
+        "en": {
+          "content": "Son: \"Dad, why do you always order pancakes for breakfast?\"\n\nDad: \"Because life is already stacked against me — might as well start the day with something stacked for me.\"",
+          "editorNote": "Classic dad delivery — pause before the punchline and look proudly at your stack",
+          "variations": [
+            "Alt: Son: 'Why pancakes again?' Dad: 'Because waffles are too edgy for a Sunday.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-084",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://punshubb.com/wordplay-puns/",
+      "sourceNote": "受math book has too many problems英文雙關啟發，改寫為台式學生考試吐槽版",
+      "tags": ["校園", "雙關", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同學問我：「你為什麼最討厭數學課本？」\n\n我說：「因為它『題』目太多，我『提』不起勁。」",
+          "editorNote": "適合考試週傳給同樣崩潰的同學，互相苦中作樂",
+          "variations": [
+            "延伸版：後來我換了英文課本，結果它『單字』太多，我『單身』也太久。"
+          ]
+        },
+        "en": {
+          "content": "Classmate: \"Why do you hate your math textbook so much?\"\n\nMe: \"Because it's got too many problems — and frankly, so do I. We're not compatible.\"",
+          "editorNote": "Perfect for sharing during finals week — relatable groan for any student",
+          "variations": [
+            "Alt punchline: \"I tried to break up with it, but it kept saying 'let x equal us'.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-085",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://punwaves.com/welcome-puns/",
+      "sourceNote": "受year of the bark新年諧音梗啟發，改寫為台式養寵物雙關版",
+      "tags": ["動物", "諧音", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問：「你家狗叫什麼名字？」\n\n我說：「牠叫『旺來』。」\n\n「為什麼？」\n\n「因為牠一叫，鳳梨酥就不見了。」",
+          "editorNote": "適合過年期間傳給有養寵物的朋友，順便配一張寵物偷吃零食的照片",
+          "variations": [
+            "延伸版：我後來又養了一隻貓，取名叫『發財』。結果牠只負責『發』脾氣，財沒看到。"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"What's your dog's name?\"\n\nMe: \"I named him 2026.\"\n\nFriend: \"Why?\"\n\nMe: \"Because every year with him is the year of the bark.\"",
+          "editorNote": "Great opener at the dog park — works year-round, but extra punchy in January",
+          "variations": [
+            "Alt: \"I also have a cat named Resolution. She never lasts past February.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-086",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://quillbot.com/blog/word-finder/wordplay-jokes/",
+      "sourceNote": "受pencil joke the point kept changing啟發，改寫為台式辦公室文具諧音梗",
+      "tags": ["職場", "文字遊戲", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問：「你最近在寫什麼？」\n\n我說：「我在寫一篇關於鉛筆的文章。」\n\n「寫得怎樣？」\n\n「沒重點。」",
+          "editorNote": "適合傳到辦公室群組打破週一會議前的沉默",
+          "variations": [
+            "延伸版：後來我改寫橡皮擦，結果寫到一半，自己擦掉了。"
+          ]
+        },
+        "en": {
+          "content": "Coworker: \"What are you writing about?\"\n\nMe: \"An article about pencils.\"\n\nCoworker: \"How's it going?\"\n\nMe: \"Honestly? Pointless.\"",
+          "editorNote": "Slack-channel material — drop it right before the Monday standup to soften the mood",
+          "variations": [
+            "Alt: \"I switched to writing about erasers. Halfway through, I changed my mind and removed everything.\""
+          ]
+        }
+      }
     }
   ]
 }

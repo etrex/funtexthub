@@ -908,6 +908,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-040",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://positivepsychology.com/self-compassion-quotes/",
+      "sourceNote": "Inspired by positivepsychology.com self-compassion quotes; original writing on the messy non-linear nature of healing",
+      "tags": ["療癒", "康復", "不完美", "過程"],
+      "i18n": {
+        "zh-tw": {
+          "content": "好起來不是一條直線。\n今天比昨天好一點，明天又退回去一點，這都算正常。\n你沒有走錯，只是真實的康復就是這樣彎彎曲曲的。",
+          "editorNote": "給那些覺得自己「好不容易進步了又退步、是不是白費力氣」的人。療癒從來不是穩定向上的，反覆才是常態。適合在又一次跌回低谷、開始懷疑自己有沒有在康復的時候讀。",
+          "variations": [
+            "進兩步退一步，整體還是在前進。",
+            "退步不代表前面那些日子白過了。"
+          ]
+        },
+        "en": {
+          "content": "Getting better isn't a straight line.\nToday a little better than yesterday, tomorrow slipping back a bit — that's all normal.\nYou didn't take a wrong turn. Real recovery just looks like this.",
+          "editorNote": "For people who feel like 'I just made progress and now I'm backsliding — was it all for nothing?' Healing was never a steady climb; ups and downs are the actual shape of it. Good to read when you've fallen back into a low point and started doubting whether you're recovering at all.",
+          "variations": [
+            "Two steps forward, one step back — you're still moving forward overall.",
+            "Slipping back doesn't erase the days that came before it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-041",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://www.heysigmund.com/healing-quotes/",
+      "sourceNote": "Inspired by heysigmund.com healing reflections; original writing on the body holding what the mind can't yet name",
+      "tags": ["療癒", "情緒", "身體", "正念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有時候你說不上來自己怎麼了，\n但身體先知道：肩膀很緊、胸口悶悶的、睡不好。\n它在替你保管那些你還沒準備好面對的事。",
+          "editorNote": "給那些「明明沒發生什麼大事卻一直覺得不對勁」的人。身體常常比理智更早察覺情緒的累積。適合在莫名疲憊、緊繃、卻說不出原因的時候讀，提醒自己慢下來聽聽身體在說什麼。",
+          "variations": [
+            "你的身體不是在找麻煩，是在替你發出求救訊號。",
+            "情緒沒有出口的時候，會跑到身體裡躲起來。"
+          ]
+        },
+        "en": {
+          "content": "Sometimes you can't quite name what's wrong,\nbut your body already knows — tight shoulders, a heavy chest, restless sleep.\nIt's holding the things you're not ready to face yet.",
+          "editorNote": "For people who 'nothing big happened but I just feel off.' The body often picks up emotional buildup before the mind catches on. Good to read when you're inexplicably tense, drained, or out of sorts — a nudge to slow down and listen to what your body is signaling.",
+          "variations": [
+            "Your body isn't being difficult — it's sending you a flare.",
+            "When emotions have nowhere to go, they hide inside the body."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-042",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://tinybuddha.com/blog/40-quotes-to-help-you-let-go-and-feel-less-pain/",
+      "sourceNote": "Inspired by tinybuddha.com letting-go quotes; original writing on letting people exist as memory rather than wound",
+      "tags": ["療癒", "放下", "關係", "回憶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "放下一個人，不是要把他從記憶裡刪掉。\n是讓他從你心裡的傷口，慢慢變成一段往事。",
+          "editorNote": "給那些因為「還會想起那個人」就覺得自己沒走出來的人。記得不等於放不下，重點是回想時還會不會痛。適合在某個熟悉的地方、歌或味道讓你突然想起某人的時候讀。",
+          "variations": [
+            "你不需要忘記，只需要不再被它牽著走。",
+            "有一天他會從一根刺，變成只是書架上的一本舊書。"
+          ]
+        },
+        "en": {
+          "content": "Letting someone go isn't deleting them from your memory.\nIt's letting them slowly become a story instead of a wound.",
+          "editorNote": "For people who think 'I still think about them, so I haven't moved on.' Remembering isn't the same as being stuck — what matters is whether the memory still hurts. Good to read when a familiar place, song, or smell suddenly brings someone back.",
+          "variations": [
+            "You don't need to forget. You just need it to stop steering you.",
+            "One day they'll go from being a thorn to just an old book on your shelf."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-043",
+      "dateAdded": "2026-04-27",
+      "sourceUrl": "https://www.gottman.com/blog/quotes-on-rest-and-self-care/",
+      "sourceNote": "Inspired by gottman.com rest and self-care reflections; original writing on the body as a long-term companion deserving care",
+      "tags": ["療癒", "自我照顧", "身體", "溫柔"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的身體陪你走過所有的辛苦，從來沒有要過休假。\n今天就算只是早點睡、好好吃一頓，\n也是你終於對它說了一聲謝謝。",
+          "editorNote": "給那些把身體當機器用、累到底還在硬撐的人。身體不是工具，它是這輩子陪你最久的那個夥伴。適合在熬夜趕事情前讀一下，問自己今天能不能對它好一點。",
+          "variations": [
+            "你欠你的身體一場好覺，不是欠老闆一份報告。",
+            "好好對待自己的身體，是你能做到最久的承諾之一。"
+          ]
+        },
+        "en": {
+          "content": "Your body has been with you through everything, and never once asked for a vacation.\nGoing to bed earlier tonight, or eating a real meal —\nthat's you finally saying thank you to it.",
+          "editorNote": "For people who treat their body like a machine and keep pushing it past empty. Your body isn't a tool — it's the longest-running companion you'll ever have. Good to read before another late night of grinding, as a check-in: can you be a little kinder to it today?",
+          "variations": [
+            "You owe your body a good night of sleep more than you owe your boss a report.",
+            "Taking care of your body is one of the longest-lasting promises you can keep."
+          ]
+        }
+      }
     }
   ]
 }
