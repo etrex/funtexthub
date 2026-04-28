@@ -1417,3 +1417,91 @@
 27. Create `food-jokes` / 食物笑話 (MEDIUM — execute May–June; seasonal refresh built-in with 端午/中秋/冬至)
 28. Create `travel-quotes` / 旅遊語錄 (MEDIUM — execute in June; 2026 國旅補助抽籤制 timely angle)
 29. ~~Monitor `human-design-quotes`~~ ❌ DISCONTINUED — content does not fit FunTextHub quote/joke schema; Threads circulation is consultation-oriented not meme-format
+
+---
+
+## 2026-04-28 Research Report
+
+### Status Update
+- Current topics in repo: cold-jokes, sweet-quotes, cheesy-pickups, programmer-jokes, absurd-wisdom, workplace-quotes, motivational-quotes, zodiac-quotes, witty-comebacks, graduation-quotes, couple-jokes, dark-humor, holiday-jokes, drama-quotes, healing-quotes, mom-quotes, adulting-quotes, cat-quotes, korean-drama-quotes, dog-quotes (**20 total**) ✅
+- `dog-quotes` confirmed live (file present 2026-04-27)
+- **勞動節連假 (May 1–3) = 3 DAYS AWAY** — peak search intent NOW; workplace-quotes 全國統一放假 hook is mission-critical-window-closing-imminent
+- **母親節 (May 10) = 12 days away** — PEAK SEARCH WINDOW ACTIVE; mom-quotes + sweet-quotes Mother's Day items must be confirmed live and discoverable
+- **端午節 (June 19–21) = 52 days away** — drafting window open; 粽子諧音梗 (粽是上漲/粽是輝煌/粽情投入) confirmed evergreen format; 田馥甄 玉琴顧粽 sets celebrity-grade quality bar
+- **畢業季 (mid-May to early June)** — graduation-quotes live; "致青春，後會有期" + "願你給出去的柔軟，都能以更好的形狀回到你身邊" both confirmed as 2026 dominant registers (Pinkoi, Threads @chicbaby8937)
+- **Persistent backlog (16 CONSECUTIVE REPORTS unactioned)**: cold-jokes I人/E人, absurd-wisdom 「接住」, cheesy-pickups 「朋朋」/MBTI/硬控. **No new content recommendations should be implementation-prioritized over these three. Execute next session, no exceptions.**
+
+### New Topic Recommendations
+
+1. **減肥語錄 / 健身厭世語錄 / Diet & Fitness Quotes** (slug: `diet-quotes` or `fitness-quotes`, category: Lifestyle)
+   - UDN article "減肥人生15句哀怨共感語錄" + UBeauty "15句搞笑減肥語錄" both confirm structural search demand for self-deprecating diet humor
+   - Format proven viral: "世界上最動聽的3個字，不是『我愛你』，而是『你瘦了』"; "減肥沒有那麼容易，每塊贅肉都有它的脾氣"; "世界上最痛苦的三角戀：我愛食物，脂肪愛我"
+   - Year-round demand with two seasonal peaks: 春夏 (May–July, 比基尼季 + 婚禮季) and 年後 (Feb, 過年後減肥) — May launch captures the spring fitness motivation peak directly
+   - Differentiator: distinct from healing-quotes (這是自嘲) and motivational-quotes (沒有勵志，是擺爛); the register is 厭世共感 + 食物擺爛幽默
+   - Sub-formats: 健身房語錄 (fitness gym humor), 減肥宣言 vs 真實 (intent vs. reality format), 體重計 vs 鏡子 (the scale's lies), 健身教練金句 (trainer-style faux-motivation), 飲食控制廢話 (diet control absurdism)
+   - SEO targets: 減肥語錄, 減肥金句, 健身語錄, 減肥幽默, 健身房幽默, 減肥厭世, 體重計語錄, fitness quotes zh-tw
+   - **Recommendation: HIGH priority (highest of new candidates this report). Strong content pool, immediate seasonal hook, clear differentiation, high LINE/Threads shareability among 25–45 demographic. Target 12–15 items. Create May (after backlog + 自愛語錄).**
+
+2. **婚禮金句 / 婚禮致詞語錄 / Wedding Speech & Toasts** (slug: `wedding-quotes`, category: Romance)
+   - 結婚金句搜尋 confirms strong demand around 春夏婚季 (May–June peak) — Pinkoi "100句結婚金句" + StoryWed 致詞範例 both 2026-active
+   - Format proven viral: "婚禮要早上辦。這樣如果搞砸了，也不會浪費整天"; "你終於成功把自己推銷出去了！貨已售出，概不退換"; "愛就像一條電熱毯，但開關掌控在別人手裡"
+   - Search intent is high-purpose (people NEED these for actual events) → high time-on-page, low bounce, strong SEO signal
+   - Sub-formats: 新郎致詞幽默版, 新娘宣言, 伴郎/伴娘吐槽詞, 紅包賀詞俏皮版, 致父母感謝詞, LINE 群組婚禮祝福
+   - Differentiator from sweet-quotes (private love expression) and cheesy-pickups (flirting): wedding-quotes is public-event speech; bilingual register works well for international weddings
+   - SEO targets: 婚禮致詞, 結婚金句, 婚禮金句, 新郎致詞, 新娘致詞, 結婚祝福, 婚禮幽默, wedding speech zh-tw, 婚禮紅包賀詞
+   - **Recommendation: MEDIUM-HIGH priority. Create May–June. Captures 婚季 traffic. Target 15+ items split across 致詞 / 賀詞 / 吐槽 / 感謝 sub-formats.**
+
+3. **考試語錄 / 學生厭世語錄 / Student Exam Quotes** (slug: `student-quotes` or `exam-quotes`, category: Lifestyle)
+   - Dcard 笑話板 + 考試板 + 重考板 confirm constant student-driven joke circulation; "大家期中考要菜菜撈撈嗎" pattern signals 段考/期中考 共感格式 strong
+   - Annual cyclical peaks: 學測 (Jan), 段考 (Apr/Nov), 期末 (June/Jan), 指考 (Jul) — 4+ traffic peaks per year vs. typical 1–2 for seasonal topics
+   - Distinct audience cohort (high school + university students 16–22) currently underserved by FunTextHub catalog (closest = graduation-quotes which is leaving-school not in-school)
+   - Sub-formats: 考前一天語錄, 段考廢話文學, 重考生厭世, 學測倒數金句, 翹課宣言, 大學生熬夜語錄, 不及格自嘲
+   - SEO targets: 考試語錄, 學生語錄, 段考語錄, 學測倒數, 考試厭世, 重考語錄, 翹課語錄, 大學生語錄
+   - Risks: very narrow demographic; might cannibalize graduation-quotes traffic if positioning blurs
+   - **Recommendation: MEDIUM priority. Create June (segment with graduation-quotes for 畢業 + 期末 dual peak), or hold for July 指考 / Sept 開學 launch. Target 12 items.**
+
+### Content Trends
+
+- **Mother's Day Linguistic Shift Confirmed**: BenQ + Pinkoi + Cyberlink all converge on 2026 母親節 dominant phrasing being **bittersweet-tender** rather than purely celebratory. Top format: "媽媽的碎碎念念，溫暖了我的歲歲年年"; "小時候最想做的事是快快長大，而長大後最希望的事是你慢慢變老"; "你眼中，家是一個地方；媽媽眼中，家是有你在的一段時光". Verify mom-quotes captures this **快快長大 vs. 慢慢變老 對比格式** — it's the single most circulated 2026 母親節 format. ETtoday "10大母親節暖心金句" article still active = ranking proof. **Action: spot-check mom-quotes for this format; if absent, add as urgent priority within next 4 days.**
+
+- **2026 勞動節 全國統一放假 — Final Window**: NOWnews + UDN + Threads @hong.liji + @nownews + @tvbslivenews all confirm 2026 is the historic first year. Threads viral format: "今年起變成勞工無法休息（去年5/1還只有勞工放假，我原本可以找老朋友聚餐旅遊，今年起小孩子也跟著老師學校全都放假）對我來說5/1就跟平常週末一樣，到底是誰搞出這種8" — this is **EXACTLY** the angle workplace-quotes needs. Use this as direct source register (rewrite, don't copy). **Window closes May 1; after May 4 the topic is dead until 2027.**
+
+- **Threads 2026 New Year Quote Format = April Active**: @chicbaby8937 post "願你給出去的柔軟，都能以更好的形狀回到你身邊" + "不急著證明什麼，把心放在舒服的位置" + "留一點力氣給自己，而不是全給別人" — these 2026 自我溫柔語錄 are still circulating in April (4 months after New Year), confirming non-seasonal evergreen status. Pattern: **"願你 + [柔軟動詞] + [回到/接住/陪伴]"** is the dominant 2026 IG/Threads quote frame. Healing-quotes and self-love-quotes (when created) should heavily lean into this exact frame.
+
+- **Diet/Fitness Self-Deprecation = New Niche Confirmed**: UDN 2026 article "減肥人生15句哀怨共感語錄" recently published + matches the broader 2025–2026 厭世共感 trend (廢話文學 → 大人語錄 → 減肥語錄 lineage). The format "[激勵語錄結構] + [擺爛結局]" is a structural template that works across many lifestyle topics. **Apply this template insight to diet-quotes when created.**
+
+- **Persistent Backlog Reality Check**: 16 reports recommending the same three updates without execution = research log has lost actionability. The recommendations are correct (all three trends remain confirmed-active in 2026-04-28 search results: I人/E人 still circulating, 「接住」 still in 2026 New Year quote stream, MBTI/硬控/朋朋 still on Dcard). **Recommend: drop these from "execute" priority and reframe as "if updating these topics for any reason, include these specific items." The persistent restating is generating noise without action.**
+
+### Existing Topic Updates
+
+- **mom-quotes (媽媽語錄)**: **12 days to Mother's Day, PEAK NOW.** Spot-check for **快快長大 vs. 慢慢變老 對比格式** (see content trends above). If absent, add 2 items capturing this dominant 2026 phrasing. Verify all editorNotes include "適合傳給媽媽看 / 母親節卡片用" LINE-sharing prompt.
+
+- **sweet-quotes (暖男語錄)**: Verify Mother's Day items (sq-018 to sq-022) are tagged for discoverability — `mothers-day` tag essential. Verify at least one item uses the "你眼中，家是一個地方；媽媽眼中，家是有你在的一段時光" register (家 vs. 時光 對比).
+
+- **workplace-quotes (職場語錄)**: **3 DAYS to 勞動節.** Window closes May 4. If 2026 全國統一放假 angle is not yet present, this is the LAST research cycle to flag it. Specific item phrasing: "2026 第一次全民同步放假，老闆終於沒有藉口了" or rework of @hong.liji 「到底是誰搞出這種事」 register.
+
+- **holiday-jokes (節日笑話)**: 端午節 expansion drafting — 5+ items targeting May 10 publish date. Confirmed evergreen formats (use as structural templates, rewrite content): 粽是上漲/粽是輝煌/粽情投入 (粽諧音祝福), 屈原跳江股市梗, 南粽北粽戰爭, 田馥甄 玉琴顧粽 (食物×成語諧音 名人格式). Dcard "端午節笑話~關於粽子" thread confirms ongoing fan engagement.
+
+- **graduation-quotes (畢業季語錄)**: Verify "致青春，後會有期" is present (TinTint blog confirms it as the dominant 2026 畢業冊 phrase). Verify "願你給出去的柔軟" 自我溫柔 register is balanced with 歡送 register.
+
+- **healing-quotes (治癒系語錄)**: Apply 2026 Threads frame "願你 + [柔軟動詞] + [回到/接住/陪伴]" — verify at least 3 items use this structural pattern. If absent, this is a low-effort high-impact addition.
+
+- **cold-jokes / absurd-wisdom / cheesy-pickups (持久 backlog)**: Per "Persistent Backlog Reality Check" trend note above — REFRAME from "execute unconditionally" to "include if/when these topics are next updated for any reason." Stop restating in future reports unless re-prioritized.
+
+### Updated Action Priority
+
+Done items collapsed; only live priorities listed.
+
+1. **[URGENT — 3 DAYS]** Verify `workplace-quotes` has 2026 全國統一放假 hook. Window closes May 4.
+2. **[URGENT — 12 DAYS]** Verify `mom-quotes` includes 快快長大 vs. 慢慢變老 對比格式. Mother's Day May 10.
+3. **[URGENT — 12 DAYS]** Verify `sweet-quotes` Mother's Day items (sq-018 to sq-022) tagged + 家 vs. 時光 register present.
+4. **[HIGH — by May 10]** `holiday-jokes` 端午節 expansion (5+ items). Source templates above.
+5. **[MEDIUM — May]** Apply Threads "願你 + 柔軟動詞 + 接住" frame to `healing-quotes` (3+ items if absent).
+6. **[MEDIUM — May]** Create `self-love-quotes` / 自愛語錄 (carrying forward; structural demand confirmed).
+7. **[MEDIUM-HIGH — May]** Create `diet-quotes` / 減肥語錄 (NEW; spring fitness peak; 厭世共感 register).
+8. **[MEDIUM-HIGH — May–June]** Create `wedding-quotes` / 婚禮金句 (NEW; 婚季 traffic; high-purpose search).
+9. **[MEDIUM — May–June]** Create `food-jokes` / 食物笑話 (carrying forward; built-in seasonal cycle).
+10. **[MEDIUM — June]** Create `travel-quotes` / 旅遊語錄 (carrying forward; 2026 國旅補助 angle).
+11. **[MEDIUM — June or July]** Create `student-quotes` or `exam-quotes` (NEW; 4 traffic peaks/year, underserved cohort).
+12. Persistent backlog (cold-jokes I人/E人, absurd-wisdom 「接住」, cheesy-pickups 「朋朋」/MBTI/硬控): **REFRAMED** — include opportunistically when next touching these files; no longer a standalone priority.
+13. ~~Monitor `human-design-quotes`~~ ❌ DISCONTINUED (per 2026-04-27)
