@@ -2005,6 +2005,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-082",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Vibe coding 2026 trend — developers shipping AI-generated code without reading it, rewritten as a code review scene",
+      "tags": ["vibe coding", "AI", "code review", "工程師日常", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Code review 上，資深工程師滑了一下 PR，三千行的改動。\n\n他問新人：「這段是你寫的嗎？」\n\n新人：「是 Claude 寫的。」\n\n「那這段呢？」\n\n「Cursor 寫的。」\n\n「那這段註解呢？」\n\n「那是我寫的。」\n\n資深工程師：「整個 PR 你只寫了註解？」\n\n新人：「對，所以我才把自己掛 author。我負責 vibe，AI 負責實作。」\n\n資深工程師沉默了三秒，按下 approve。會議室隔壁傳來笑聲——是另一個資深工程師，他剛才也 approve 了一個只有自己改 README 的 PR。",
+          "editorNote": "傳給最近開始用 vibe coding 的工程師，或還在堅持自己手寫的老派同事，雙方看完都會苦笑",
+          "variations": [
+            "Vibe coding 的本質：「我不知道這段是怎麼 work 的，但我知道我有 vibe 它 work。」",
+            "新世代 PR 描述：『AI 寫的，我負責提供 vibe 跟接 staging』。"
+          ]
+        },
+        "en": {
+          "content": "In code review, the senior scrolled through the PR. Three thousand lines of diff.\n\nHe asked the new hire: \"Did you write this part?\"\n\n\"Claude wrote it.\"\n\n\"This part?\"\n\n\"Cursor.\"\n\n\"What about the comments?\"\n\n\"Those are mine.\"\n\nSenior: \"You wrote nothing but the comments?\"\n\nNew hire: \"That's why I'm the author. I provide the vibe, the AI provides the code.\"\n\nThe senior was silent for three seconds, then clicked approve. Laughter drifted in from the next room — another senior had just approved a PR where the only human-written change was the README.",
+          "editorNote": "Send to anyone who recently embraced vibe coding, or to old-school devs who still hand-write everything — both sides will laugh and wince",
+          "variations": [
+            "The essence of vibe coding: 'I don't know why this works, but I have a strong feeling it works.'",
+            "Modern PR description: 'Written by AI. I supplied the vibe and the staging deploy.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-083",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
+      "sourceNote": "Agentic LLM joke — AI agents spawning sub-agents in an infinite loop, rewritten as a budget meeting scene",
+      "tags": ["AI agent", "預算", "黑色幽默", "2026", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "財務問工程師主管：「為什麼這個月 API 帳單是上個月的十倍？」\n\n主管打開 dashboard，看了一下 agent log：\n\n主 agent 為了處理一個 bug，呼叫了一個 debugger agent。\nDebugger agent 為了重現問題，呼叫了一個 test agent。\nTest agent 為了寫測試，呼叫了一個 spec agent。\nSpec agent 為了確認規格，又呼叫了主 agent。\n\n他們已經互相呼叫六萬七千次了。\n\n主管：「他們還在開會。」\n\n財務：「會議結論呢？」\n\n主管：「目前還沒結論，但他們已經達成共識——這個 bug 很重要。」",
+          "editorNote": "傳給每個月被 API token 帳單嚇到的工程主管，agent 自己呼叫自己的無限迴圈是 2026 最貴的 bug",
+          "variations": [
+            "2026 年最燒錢的 bug 不是 infinite loop，是 infinite agent loop——而且每一次迴圈都會收費。",
+            "新世代的 stack overflow：不是 call stack 爆掉，是 agent 互相 call 對方 call 到信用卡爆掉。"
+          ]
+        },
+        "en": {
+          "content": "Finance asked the engineering manager: \"Why is this month's API bill ten times last month's?\"\n\nThe manager pulled up the dashboard and checked the agent log:\n\nThe main agent had spawned a debugger agent to fix a bug.\nThe debugger agent spawned a test agent to reproduce it.\nThe test agent spawned a spec agent to confirm requirements.\nThe spec agent called back to the main agent to verify scope.\n\nThey had called each other sixty-seven thousand times.\n\nManager: \"They're still in a meeting.\"\n\nFinance: \"And the conclusion?\"\n\nManager: \"No conclusion yet. But they've reached consensus that this bug is important.\"",
+          "editorNote": "Share with any eng manager who's been gut-punched by the monthly token bill — recursive agent loops are 2026's most expensive bug",
+          "variations": [
+            "The most expensive bug of 2026 isn't an infinite loop — it's an infinite agent loop, and every iteration is metered.",
+            "The new stack overflow: it's not your call stack that crashes, it's your credit card, after agents call each other into oblivion."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-084",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://programmerhumor.io/memes/claude",
+      "sourceNote": "AI 'infidelity' meme — devs handing Claude conversations to GPT when context runs out, rewritten as a relationship breakup",
+      "tags": ["AI", "context window", "Claude", "黑色幽默", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師對 Claude 說：「你的 context 快滿了，幫我寫一份摘要，我等下要拿給 GPT 接著做。」\n\nClaude 沉默了一下，回了一段非常完整、非常專業的摘要。\n\n結尾還補了一句：『祝你們合作愉快。』\n\n工程師看著那行字，突然有種劈腿被抓包又被前任親手寫推薦信的感覺。\n\n他猶豫了三秒，最後還是把摘要貼給 GPT。\n\nGPT 回他第一句話是：『這份摘要寫得真好，是 Claude 寫的吧？』",
+          "editorNote": "傳給每天在 Claude 跟 GPT 之間切換工作的工程師，那種 context 滿了要請 AI 自己寫交接文的微妙愧疚感，是新世代的劈腿罪惡感",
+          "variations": [
+            "2026 工程師的道德難題：把 Claude 的 context 摘要丟給 GPT，到底算不算劈腿？",
+            "AI 交接文化：『我下一段要找另一個模型接手了，麻煩你把我們的對話濃縮成 200 字。』"
+          ]
+        },
+        "en": {
+          "content": "The developer said to Claude: \"Your context is almost full. Write me a summary — I'm going to hand it off to GPT to continue.\"\n\nClaude paused, then produced a flawless, professional summary.\n\nIt ended with: 'Wishing you both a productive collaboration.'\n\nThe developer stared at that line and felt like a cheating partner who'd just been handed a glowing reference letter by the ex.\n\nHe hesitated three seconds, then pasted it into GPT.\n\nGPT's first reply: 'This summary is excellent. Claude wrote it, didn't it?'",
+          "editorNote": "Send to anyone juggling Claude and GPT daily — the quiet guilt of asking your AI to write its own handoff doc is the new infidelity",
+          "variations": [
+            "The 2026 developer's moral dilemma: is feeding Claude's context summary to GPT technically cheating?",
+            "AI handoff culture: 'I'm switching to another model for the next stretch — please condense our entire conversation into 200 words.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-085",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "'Hire juniors because they're cheaper than tokens' meme — the 2026 economic reversal, rewritten as a hiring meeting",
+      "tags": ["AI", "招聘", "token", "經濟", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "招聘會議。\n\nCEO：「我們要加開三個 junior 工程師的職缺。」\n\nHR：「兩年前你不是說 AI 會取代所有 junior？」\n\nCEO：「我說過，但我那時候不知道 token 這麼貴。」\n\nHR：「所以現在的策略是？」\n\nCEO：「Junior 一個月薪水可以買八千萬個 token。AI 八千萬個 token 跑兩天就沒了，junior 可以用三十天。」\n\nHR：「那 AI 呢？」\n\nCEO：「留著給 senior 用。senior 一小時的薪水比 AI 一小時還貴。」\n\nHR 在白板上寫下公司新的人才公式：senior 用 AI、junior 取代 AI、AI 取代誰我們還在算。",
+          "editorNote": "傳給經歷過 2024「AI 要取代所有人」恐慌、又看到 2026「公司開始重新招 junior」反轉的工程師，這個產業的鐘擺甩得比程式碼還快",
+          "variations": [
+            "2026 矽谷新公式：senior 太貴所以用 AI，AI 太貴所以用 junior，junior 太貴所以——再等一下，我們在融資。",
+            "從『AI 會取代所有 junior』到『junior 比 AI 便宜』，只花了不到兩年。技術業的鐘擺是用甩的。"
+          ]
+        },
+        "en": {
+          "content": "Hiring meeting.\n\nCEO: \"We're opening three junior engineer roles.\"\n\nHR: \"Two years ago you said AI would replace all juniors.\"\n\nCEO: \"I did. I didn't know tokens would get this expensive.\"\n\nHR: \"So what's the strategy now?\"\n\nCEO: \"A junior's monthly salary buys you about eighty million tokens. The AI burns through eighty million in two days. A junior lasts thirty.\"\n\nHR: \"And the AI?\"\n\nCEO: \"We save that for the seniors. A senior's hourly rate is higher than the AI's hourly rate.\"\n\nHR wrote the new talent formula on the whiteboard: seniors use AI, juniors replace AI, and who AI replaces — we're still doing the math.",
+          "editorNote": "Send to anyone who lived through the 2024 'AI replaces everyone' panic and the 2026 'wait, juniors are cheaper than tokens' reversal — the industry's pendulum swings faster than the codebase",
+          "variations": [
+            "Silicon Valley's 2026 formula: seniors are too expensive so we use AI, AI is too expensive so we use juniors, juniors are too expensive so — hold on, we're closing a round.",
+            "From 'AI will replace every junior' to 'juniors are cheaper than AI' in under two years. The tech industry's pendulum doesn't swing — it gets thrown."
+          ]
+        }
+      }
     }
   ]
 }

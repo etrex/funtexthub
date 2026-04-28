@@ -1207,6 +1207,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-053",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://aizolo.com/blog/ai-for-generating-stand-up-comedy-and-dark-humor/",
+      "sourceNote": "靈感來自2026年AI訂閱疊加的諷刺討論，改寫為台灣上班族訂閱現況，對白完全原創",
+      "tags": ["AI", "訂閱", "現代生活", "諷刺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿凱打開銀行 app，看著每月扣款。\n\nChatGPT Plus、Claude Pro、Notion AI、\nMidjourney、Cursor、Perplexity Pro——\n加起來一個月一百多塊美金。\n\n他坐在電腦前，問 ChatGPT：\n「我該不該取消其中幾個訂閱？」\n\nChatGPT 給了三千字的分析。\n\n他複製貼到 Claude，問：\n「這個建議客觀嗎？」\n\nClaude 又給了三千字。\n\n他打開 Perplexity，搜：\n「AI 訂閱會不會讓人變笨？」\n\n看完之後他關掉電腦，\n沉思了很久。\n\n然後他打開 ChatGPT，問：\n「我剛剛在思考什麼？」",
+          "editorNote": "傳給那個每個月看到信用卡帳單才想起自己訂了什麼的朋友——AI 訂閱的可怕之處是，你連「該不該取消」這個問題都要問 AI",
+          "variations": [
+            "阿凱最後的結論是：他訂的不是 AI，是「有人陪他思考」的錯覺。真正的問題是，那些 AI 加起來，比他自己還更了解他在猶豫什麼。"
+          ]
+        },
+        "en": {
+          "content": "Kai opened his banking app and stared at the monthly charges.\n\nChatGPT Plus, Claude Pro, Notion AI,\nMidjourney, Cursor, Perplexity Pro —\nover a hundred dollars a month, total.\n\nHe sat at his desk and asked ChatGPT:\n\"Should I cancel some of these subscriptions?\"\n\nChatGPT gave him three thousand words of analysis.\n\nHe pasted it into Claude and asked:\n\"Is this advice objective?\"\n\nClaude gave him another three thousand words.\n\nHe opened Perplexity and searched:\n\"Do AI subscriptions make people dumber?\"\n\nAfter reading the results, he closed his laptop\nand sat there for a while.\n\nThen he opened ChatGPT again:\n\"What was I just thinking about?\"",
+          "editorNote": "Send to the friend who only remembers what they're subscribed to when the credit card bill arrives — the scary thing about AI subscriptions is that you have to ask AI whether you should cancel them",
+          "variations": [
+            "Kai's final theory: he wasn't paying for AI, he was paying for the illusion of someone thinking alongside him. The real problem was that, combined, those AIs understood his hesitation better than he did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-054",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://snugfam.com/250-best-sarcastic-dark-humor-quotes-that-hit-differently-in-2025/",
+      "sourceNote": "靈感來自食品保存期限的存在主義反差幽默，場景與對白完全原創",
+      "tags": ["存在主義", "日常", "諷刺", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小婷在超市拿起一盒優格，\n看了一眼保存期限。\n\n還剩兩天。\n\n她猶豫地放回去，拿了另一盒——\n保存期限：兩個月。\n\n結帳的時候，她突然想到：\n\n「我自己的保存期限是什麼時候？\n沒有印在我身上。\n沒有人知道。」\n\n她回家把那盒優格放進冰箱，\n忘了它的存在。\n\n兩個月後，她打開冰箱，\n看到那盒已經過期一週的優格。\n\n她笑了一下。\n\n「我比你撐得久。\n但你比我有寫期限。」",
+          "editorNote": "傳給那個看到食物過期會猶豫很久才丟的朋友——保存期限的真正意義不是食物，是讓我們意識到自己其實也有，只是沒寫出來",
+          "variations": [
+            "小婷後來把那盒優格丟掉之前，又看了一眼日期。她想：「至少它在過期之前，是被冰箱記得的。」這句話她沒說出口，但記了很久。"
+          ]
+        },
+        "en": {
+          "content": "Ting picked up a yogurt at the supermarket\nand glanced at the expiration date.\n\nTwo days left.\n\nShe hesitated, put it back, grabbed another one —\nbest before: two months from now.\n\nAt checkout, a thought hit her:\n\n\"What's my expiration date?\nIt's not printed on me.\nNo one knows.\"\n\nShe went home, put the yogurt in the fridge,\nand forgot it existed.\n\nTwo months later, she opened the fridge\nand saw it — one week expired.\n\nShe smiled a little.\n\n\"I outlasted you.\nBut at least yours was written down.\"",
+          "editorNote": "Send to the friend who stares at expired food for ten minutes before throwing it out — the real point of expiration dates isn't the food, it's the reminder that we have one too, just unprinted",
+          "variations": [
+            "Before throwing the yogurt out, Ting glanced at the date one more time. She thought: \"At least the fridge remembered it before it expired.\" She didn't say it out loud. She remembered the thought for a long time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-055",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://eduyush.com/blogs/lifestyle/dark-humour-jokes",
+      "sourceNote": "靈感來自繁瑣官僚流程的黑色幽默，改寫為台灣戶政事務所場景，對白完全原創",
+      "tags": ["官僚", "日常", "諷刺", "都市生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿德去戶政事務所辦一份證明。\n\n櫃台說：「您要先抽號碼牌。」\n他抽了。等了四十分鐘。\n\n櫃台說：「您填的這張表錯了，要去隔壁拿正確的版本。」\n他去了，拿了，回來。\n\n櫃台說：「這份要本人簽名。」\n他簽了。\n\n櫃台說：「但簽錯位置。要重抽號碼牌。」\n\n阿德深呼吸，重抽。又等四十分鐘。\n\n輪到他時，櫃台換了一個人。\n新櫃台看了一下：\n「您這個案件，原承辦今天請假。\n建議您改天再來。」\n\n阿德沉默地走出大門。\n\n外面陽光很好。\n他突然覺得——\n\n「也許這份證明，根本不是我需要的。\n是這個系統需要我繼續來證明它存在。」",
+          "editorNote": "傳給任何一個在政府機關被退件三次以上的人——他會苦笑著點頭，因為阿德最後那句話，是所有公部門大廳裡最安靜也最真實的領悟",
+          "variations": [
+            "阿德最後沒有再去。三個月後他發現，他其實不需要那份證明。但這件事他沒告訴任何人，因為他怕說出來，會被要求填一份「不需要證明的證明」。"
+          ]
+        },
+        "en": {
+          "content": "De went to the government office to get a certificate.\n\nThe clerk said: \"Take a number first.\"\nHe did. Waited forty minutes.\n\nThe clerk said: \"This form is wrong. Get the correct version next door.\"\nHe got it. Came back.\n\nThe clerk said: \"This needs your signature.\"\nHe signed.\n\nThe clerk said: \"Wrong spot. Take a new number.\"\n\nDe inhaled, took a new number. Waited another forty minutes.\n\nWhen his turn came, a different clerk was at the desk.\nThe new clerk looked at the file:\n\"The original case officer is out today.\nPlease come back another time.\"\n\nDe walked out in silence.\n\nThe sunlight outside was nice.\nA thought hit him:\n\n\"Maybe this certificate isn't what I needed.\nMaybe the system needed me to keep coming back\nto prove that it still exists.\"",
+          "editorNote": "Send to anyone who's been bounced three or more times at a government office — they'll smile painfully and nod, because De's last line is the quietest, truest thought in every bureaucracy lobby",
+          "variations": [
+            "De never went back. Three months later he realized he didn't actually need the certificate. He never told anyone — he was afraid that admitting it out loud would somehow require him to fill out a 'certificate of not needing a certificate.'"
+          ]
+        }
+      }
     }
   ]
 }

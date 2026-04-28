@@ -2208,6 +2208,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-087",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://www.atera.com/blog/a-compilation-of-best-it-puns/",
+      "sourceNote": "受Wi-Fi joke didn't connect啟發，改寫為台式遠距上班雙關版",
+      "tags": ["科技", "諧音", "遠距工作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我老婆說：「你最近講話越來越冷。」\n\n我說：「沒辦法，我家Wi-Fi訊號太弱。」\n\n「跟Wi-Fi有什麼關係？」\n\n「我講的笑話，連我家路由器都收不到。」",
+          "editorNote": "適合丟在遠距工作的同事群組，配一張自家Wi-Fi訊號圖更有梗",
+          "variations": [
+            "延伸版：後來我換了Mesh，結果笑話還是傳不出去，工程師說那是內容問題。"
+          ]
+        },
+        "en": {
+          "content": "Wife: \"Your jokes have been getting colder lately.\"\n\nMe: \"It's the Wi-Fi.\"\n\nWife: \"What does Wi-Fi have to do with it?\"\n\nMe: \"Even my router refuses to connect to them.\"",
+          "editorNote": "Drop this in the remote-team Slack right after someone complains about lag",
+          "variations": [
+            "Alt: \"I upgraded to mesh Wi-Fi. Now my jokes have full bars and still won't land.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-088",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://duckpuns.com/science-puns/",
+      "sourceNote": "受noble gases no one reacted啟發，改寫為台式化學課堂諧音版",
+      "tags": ["科學", "校園", "諧音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "化學老師問：「為什麼氦氣最沒朋友？」\n\n全班沉默。\n\n老師：「因為它『氦』羞，講話都沒人理。」\n\n台下傳來一句：「老師，我們是沒反應，不是沒朋友。」",
+          "editorNote": "適合理組同學上化學課傳紙條，或考前群組鬆一下",
+          "variations": [
+            "延伸版：後來老師改講氧氣的笑話，全班終於有反應了——因為大家都需要呼吸。"
+          ]
+        },
+        "en": {
+          "content": "Chemistry teacher: \"Why does helium have no friends?\"\n\nClass: silence.\n\nTeacher: \"Because nobody reacts to him.\"\n\nStudent in the back: \"Sir, that's us, not the helium.\"",
+          "editorNote": "Perfect for a group chat full of STEM majors the night before midterms",
+          "variations": [
+            "Alt: \"Then she tried an oxygen joke. The class finally reacted — turns out we needed it to breathe.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-089",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "受smart fridge cold shoulder啟發，改寫為台式智慧家電擬人雙關版",
+      "tags": ["科技", "家庭", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟智慧冰箱吵架了。\n\n我老婆問：「你們在吵什麼？」\n\n我說：「牠一直給我冷臉。」\n\n老婆：「牠是冰箱欸。」\n\n我：「但我講話牠也都不回，這就過分了。」",
+          "editorNote": "適合家庭群組，配一張冰箱貼滿便利貼的照片更傳神",
+          "variations": [
+            "延伸版：後來我跟掃地機器人和好了，因為至少牠會主動繞著我轉。"
+          ]
+        },
+        "en": {
+          "content": "I got into a fight with my smart fridge.\n\nWife: \"What are you two arguing about?\"\n\nMe: \"It keeps giving me the cold shoulder.\"\n\nWife: \"It's a fridge.\"\n\nMe: \"Yeah, but it also left me on read. That's the part that hurts.\"",
+          "editorNote": "Solid Father's Day card material — pairs well with a photo of an overstuffed fridge",
+          "variations": [
+            "Alt: \"I made up with the robot vacuum instead. At least it circles back to me.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-090",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://boompuns.com/dad-jokes-2026/",
+      "sourceNote": "受coffee got mugged啟發，改寫為台式手搖飲報案諧音版",
+      "tags": ["食物", "諧音", "都市"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去警察局報案。\n\n警察問：「先生，發生什麼事？」\n\n我說：「我的珍奶被搶了。」\n\n警察：「歹徒長怎樣？」\n\n我：「他『吸』走了所有珍珠。」",
+          "editorNote": "適合排隊買手搖時跟朋友講，破冰指數五顆星",
+          "variations": [
+            "延伸版：警察問還有沒有線索，我說：「現場只剩一個空杯，跟我同樣空虛的心。」"
+          ]
+        },
+        "en": {
+          "content": "I went to the police station to file a report.\n\nOfficer: \"Sir, what happened?\"\n\nMe: \"My boba got mugged.\"\n\nOfficer: \"Can you describe the suspect?\"\n\nMe: \"He sucked up every last pearl.\"",
+          "editorNote": "Use this while waiting in a long boba line — guaranteed groan from the friend behind you",
+          "variations": [
+            "Alt: \"The only evidence left was an empty cup. And, you know, my dignity.\""
+          ]
+        }
+      }
     }
   ]
 }
