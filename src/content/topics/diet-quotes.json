@@ -1,0 +1,295 @@
+{
+  "slug": "diet-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "減肥語錄",
+      "description": "為每一個說了三百次「明天開始」的人準備——精選最有共感的減肥金句、健身房厭世語錄、體重計與鏡子的三方說法，以及春夏前夕最誠實的內心獨白"
+    },
+    "en": {
+      "title": "Diet Quotes",
+      "description": "For everyone who has announced 'starting tomorrow' three hundred times — the most relatable diet quotes, gym-floor confessions, the lies your scale tells, and the most honest pre-summer monologues you'll ever read"
+    }
+  },
+  "items": [
+    {
+      "id": "dt-001",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://girlstyle.com/my/article/23943/",
+      "sourceNote": "經典「我愛食物，脂肪愛我」三角戀格式重寫",
+      "tags": ["減肥", "食物", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界上最痛的三角戀，不是電視劇演的那種，\n是我愛食物，食物愛脂肪，脂肪深情地愛著我。\n\n這段三人關係非常穩定，從來沒人想分手。",
+          "editorNote": "傳給說了三百次「明天開始減肥」的朋友——他會邊吃宵夜邊轉發",
+          "variations": [
+            "第二季預告：我們三個決定下週去吃火鍋慶祝交往一週年。"
+          ]
+        },
+        "en": {
+          "content": "The most painful love triangle in the world isn't the one on TV.\nIt's me loving food, food loving fat, and fat loving me back deeply.\n\nThe three of us are extremely stable. Nobody has ever wanted to break up.",
+          "editorNote": "Send to a friend who has announced 'starting tomorrow' three hundred times — they'll forward it mid-snack",
+          "variations": [
+            "Season two preview: the three of us are celebrating our one-year anniversary at a hot pot place next week."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-002",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://ubeauty.com.hk/girlstalk/health-fitness/17120/",
+      "sourceNote": "體重計、鏡子、相簿三方說法格式，原創語錄",
+      "tags": ["減肥", "體重計", "鏡子", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "體重計告訴你：你又重了 0.3 公斤。\n鏡子告訴你：你看起來跟昨天一樣。\n手機相簿告訴你：你三年前長這樣。\n\n三個來源，三個版本，沒有一個讓你想出門。",
+          "editorNote": "適合在減肥週的星期三傳給健身房戰友，順便配一張早餐照",
+          "variations": [
+            "更新：第四個來源是最近兩週每天經過的便利商店店員，他開始記得你買的甜點口味。"
+          ]
+        },
+        "en": {
+          "content": "The scale says: you're 0.3 kg heavier today.\nThe mirror says: you look exactly the same as yesterday.\nYour camera roll says: this is what you looked like three years ago.\n\nThree sources, three versions, zero motivation to leave the house.",
+          "editorNote": "Send to your gym buddy on Wednesday of diet week, ideally paired with a breakfast photo",
+          "variations": [
+            "Update: a fourth source is the convenience store clerk who now remembers which dessert you order."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-003",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://www.wellnesscreatives.com/funny-weight-loss-quotes/",
+      "sourceNote": "「I've been on a diet for weeks, all I've lost is 21 days」格式重寫",
+      "tags": ["減肥", "自嘲", "廢話文學", "履歷"],
+      "i18n": {
+        "zh-tw": {
+          "content": "減肥第 30 天：我已經成功瘦了 30 天的時間。\n體重沒變，但我擁有了 30 天減肥經歷。\n\n下次填履歷的時候，這應該可以放在「持續性表現」那一欄。",
+          "editorNote": "適合月初貼在限動，搭配一張你最近吃的便當",
+          "variations": [
+            "延伸版：第 60 天我會升級成「資深減肥候選人」，第 90 天直接申請永久會員。"
+          ]
+        },
+        "en": {
+          "content": "Day 30 of my diet: I have successfully lost 30 days.\nMy weight hasn't changed, but I now have 30 days of dieting experience.\n\nNext time I update my résumé, this should go under 'sustained performance'.",
+          "editorNote": "Perfect for an end-of-month story post, ideally with a photo of your latest takeout",
+          "variations": [
+            "Day 60 unlocks the 'senior diet candidate' tier. Day 90 is lifetime membership."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-004",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://livefit.com/blogs/livefit/the-21-funniest-gym-quotes-of-all-time",
+      "sourceNote": "「Every minute on that treadmill is one minute closer to pizza」原典重寫",
+      "tags": ["健身房", "跑步機", "食物獎勵", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在跑步機上每多跑一分鐘，\n你就離冰箱裡那塊披薩更近了一分鐘。\n\n所以說健身的本質，是讓食物變得更值得。",
+          "editorNote": "傳給「運動完一定要吃比平常多」的朋友——他會說這就是科學",
+          "variations": []
+        },
+        "en": {
+          "content": "Every extra minute on the treadmill\nis one minute closer to the slice of pizza in the fridge.\n\nSo really, the point of exercise is to make food taste more deserved.",
+          "editorNote": "Send to the friend who eats more *after* working out — they'll call this scientific consensus",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "dt-005",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://www.wellnesscreatives.com/funny-weight-loss-quotes/",
+      "sourceNote": "「I'm on a seafood diet. I see food and I eat it.」經典英文諧音梗重寫並轉成中文版",
+      "tags": ["減肥", "食物", "自嘲", "雙語梗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我最近開始吃「海鮮餐」。\n看到食物（see food），我就吃。\n\n名字聽起來很健康，效果非常顯著——體重很穩定地往上長。",
+          "editorNote": "英文諧音梗轉成中文版本，傳給看得懂的朋友會直接笑出來",
+          "variations": [
+            "附帶說明：醫師建議我擴大菜單，所以現在還加上「夜食餐」——晚上看到食物就吃。"
+          ]
+        },
+        "en": {
+          "content": "I'm on the seafood diet.\nI see food, I eat it.\n\nThe name sounds healthy. The results are very consistent — my weight goes up on a steady curve.",
+          "editorNote": "The classic. Send to anyone who has ever 'started Monday' — they'll quote it back at you forever",
+          "variations": [
+            "Doctor suggested I expand the menu. I'm now also on the night-food diet: I see food at night, I eat it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-006",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1051448",
+      "sourceNote": "教練激勵語的反轉自嘲格式，原創語錄",
+      "tags": ["健身房", "教練", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教練說：「你今天比昨天的自己更強。」\n我心想：那是因為昨天的我下班後吃了三個飯糰。\n\n強的不是我，是飯糰的能量還沒消耗完。",
+          "editorNote": "傳給認真上私人教練的朋友，他會立刻回你「太真實」",
+          "variations": []
+        },
+        "en": {
+          "content": "My trainer said, \"You're stronger than the version of you from yesterday.\"\nI thought, that's because yesterday-me ate three rice balls after work.\n\nIt's not me being stronger. It's the rice balls' energy that hasn't burned off yet.",
+          "editorNote": "Send to a friend who pays for a personal trainer — they'll reply 'too accurate' instantly",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "dt-007",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://ubeauty.com.hk/girlstalk/health-fitness/17120/",
+      "sourceNote": "「世界上最動聽的三個字」格式經典款，重寫加場景",
+      "tags": ["減肥", "讚美", "共感", "媽媽"],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界上最動聽的三個字，\n不是「我愛你」，\n是「你瘦了」。\n\n哪怕說的人完全沒看清楚、根本沒戴眼鏡——\n沒關係，我相信他。",
+          "editorNote": "適合搭配早餐沙拉的限動，傳遞給每天試圖維持的人",
+          "variations": [
+            "延伸：世界上最殘忍的五個字是「你最近圓了」——說的人通常是你媽。"
+          ]
+        },
+        "en": {
+          "content": "The most beautiful three words in the world\naren't 'I love you'.\nThey're 'you look thinner'.\n\nEven if the person is squinting from across the room and not wearing their glasses —\nI'll take it. I believe in them.",
+          "editorNote": "Pair with a salad story, send to anyone holding the line this week",
+          "variations": [
+            "Bonus: the most brutal four words are 'you've filled out' — and they're almost always from your mom."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-008",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://discover.hubpages.com/health/Funny-Quotes-About-Dieting",
+      "sourceNote": "深夜放棄宵夜的廢話文學格式，原創",
+      "tags": ["減肥", "宵夜", "廢話文學", "Threads"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果你今天克制住沒吃宵夜，\n那很好，明天還有 24 小時可以反悔。",
+          "editorNote": "短到可以當 Threads 一句脆文，深夜配一張關燈的廚房照",
+          "variations": []
+        },
+        "en": {
+          "content": "If you managed to skip the midnight snack tonight,\nthat's great. You still have 24 hours tomorrow to change your mind.",
+          "editorNote": "Short enough for a single-line post — pair with a lights-off kitchen photo",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "dt-009",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://superfastdiet.com/funny-diet-quotes-relatable/",
+      "sourceNote": "「我不是胖只是...」自我合理化格式，原創語錄",
+      "tags": ["減肥", "自嘲", "幽默", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是胖，\n我只是把過去三年的快樂，\n用最直接的方式儲存在身體裡。\n\n這叫做有形資產，比定存還可靠。",
+          "editorNote": "傳給講話自帶幽默濾鏡的朋友，他會直接拿來當大頭貼下面的簽名",
+          "variations": []
+        },
+        "en": {
+          "content": "I'm not fat.\nI just chose to store the last three years of happiness\nin the most direct way possible — on my body.\n\nThis is called a tangible asset. More reliable than a savings account.",
+          "editorNote": "Send to a friend with a built-in humor filter — this one ends up as their bio caption",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "dt-010",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://lotsofpun.com/weight-loss-jokes/",
+      "sourceNote": "比基尼季 / 春夏焦慮自嘲，原創語錄；台灣夏天毛巾／浴袍場景在地化",
+      "tags": ["減肥", "比基尼", "春夏", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天還有兩個月。\n我看著鏡子，鏡子看著我，\n我們安靜地達成共識：今年再放它一年。\n\n反正泳池有大毛巾，海邊有大浴巾，溫泉有大浴袍——\n台灣的夏天，本來就是給聰明人準備的。",
+          "editorNote": "傳給每年五月才開始焦慮的朋友——他會回你：明年再認真",
+          "variations": [
+            "更新：去年穿的那件比基尼，今年我打算直接送給未來會更有自信的自己——可能在 2030 年左右。"
+          ]
+        },
+        "en": {
+          "content": "Two months until summer.\nI look at the mirror, the mirror looks at me,\nand quietly we reach the same conclusion: we'll let it go for one more year.\n\nThe pool has big towels. The beach has big wraps. The hot spring has big robes —\nTaiwan's summer was clearly designed for smart people.",
+          "editorNote": "Send to anyone whose annual swimsuit anxiety starts in May — they'll reply 'next year for real'",
+          "variations": [
+            "Update: I'm donating last year's swimsuit to a more confident future me. ETA: roughly 2030."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-011",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://thunderdungeon.com/2024/05/01/workout-memes-5/",
+      "sourceNote": "辦健身房會員 vs 真實使用率落差格式，原創語錄",
+      "tags": ["健身房", "會員", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "辦健身房會員的當下：我接下來每天都會來。\n第一週：來了三天，已經快感動哭。\n第二週：開始覺得健身房離家有點遠。\n第三週：研究退費條件。\n第四週：用會員卡刷捷運比較順手。\n\n會員卡最大的功能，原來是讓自己定期想起「我曾經有過動力」。",
+          "editorNote": "適合月底自我檢討時傳給健身房戰友——他會把退費連結傳給你",
+          "variations": []
+        },
+        "en": {
+          "content": "The day I signed up: I'm going to come every single day.\nWeek 1: Made it three times. Almost cried with pride.\nWeek 2: Realized the gym is kind of far from home.\nWeek 3: Researched the refund policy.\nWeek 4: The membership card works better as a transit card.\n\nTurns out the real function of a gym membership is to remind yourself, monthly, that you once had motivation.",
+          "editorNote": "Save for the end-of-month reflection text to your gym buddy — they'll send the refund link",
+          "variations": []
+        }
+      }
+    },
+    {
+      "id": "dt-012",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://www.flick.social/captions/funny-diet-captions-for-instagram",
+      "sourceNote": "婚禮季衝刺減肥計畫的拖延循環，原創語錄；五月婚季在地化",
+      "tags": ["減肥", "婚禮季", "拖延", "伴娘"],
+      "i18n": {
+        "zh-tw": {
+          "content": "好朋友五月結婚。\n二月我說：還有三個月，可以慢慢來。\n三月我說：還有兩個月，下週開始。\n四月我說：還有一個月，從今天開始。\n五月我說：拍照站後排就好了。\n\n人生很多事情，是這樣循環解決的。",
+          "editorNote": "傳給今年要當伴娘伴郎的朋友——他絕對在這四個月某一格認出自己",
+          "variations": [
+            "第二集：婚禮當天我穿了寬鬆禮服，宣稱這是「設計師款」，然後吃了三輪自助餐。"
+          ]
+        },
+        "en": {
+          "content": "A close friend is getting married in May.\nFebruary: three months to go, no rush.\nMarch: two months to go, starting next week.\nApril: one month to go, starting today.\nMay: I'll just stand in the back row for photos.\n\nA lot of life problems get solved exactly like this.",
+          "editorNote": "Send to anyone in this year's bridal party — they'll recognize themselves in at least one of those months",
+          "variations": [
+            "Sequel: I wore a loose dress to the wedding, declared it 'designer cut', and went through the buffet line three times."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-013",
+      "dateAdded": "2026-04-28",
+      "sourceUrl": "https://superfastdiet.com/funny-diet-quotes-relatable/",
+      "sourceNote": "計算熱量但忽略沙拉醬／配料的自欺格式，原創語錄",
+      "tags": ["減肥", "熱量", "沙拉", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我有在認真算熱量喔。\n沙拉的菜葉、雞胸的克數、藜麥的碗大小——通通記得清清楚楚。\n\n至於沙拉醬、芝麻、堅果、蜂蜜芥末，\n那是「裝飾」，裝飾不算熱量，這是常識。",
+          "editorNote": "傳給「我吃得很健康為什麼還是沒瘦」的朋友——他會立刻回想起昨晚的醬料",
+          "variations": [
+            "附註：起司也是裝飾。麵包屑也是裝飾。配菜的薯條，是給沙拉壯壯膽的。"
+          ]
+        },
+        "en": {
+          "content": "I track my calories very carefully.\nLettuce grams, chicken breast grams, quinoa bowl size — all logged.\n\nThe dressing, the sesame, the nuts, the honey mustard?\nThose are 'garnish'. Garnish doesn't count. Common knowledge.",
+          "editorNote": "Send to the friend who insists 'but I eat so healthy' — they'll instantly remember last night's dressing",
+          "variations": [
+            "Footnote: cheese is garnish. Croutons are garnish. The fries on the side are emotional support for the salad."
+          ]
+        }
+      }
+    }
+  ]
+}
