@@ -779,21 +779,24 @@
         "I人",
         "E人",
         "甜",
-        "互動"
+        "互動",
+        "2026流行語"
       ],
       "i18n": {
         "zh-tw": {
           "content": "「你是I人還是E人？」\n「E人吧，你怎麼知道要問？」\n「因為你進來的瞬間，\n我的內心OS就從靜音切換成外放了。\n而且到現在還沒關掉。」",
           "editorNote": "適合初認識的場合試水溫，MBTI話題在台灣Z世代非常流行，用這個開場既有共鳴又帶點甜",
           "variations": [
-            "I人反向版：「你是E人嗎？因為你讓我願意主動傳訊息——這對我來說幾乎算是奇蹟。」"
+            "I人反向版：「你是E人嗎？因為你讓我願意主動傳訊息——這對我來說幾乎算是奇蹟。」",
+            "我本來是個很I的人，但你一出現，我就突然變得很想說話了。這算E人嗎？"
           ]
         },
         "en": {
           "content": "\"Are you an introvert or an extrovert?\"\n\"Extrovert, probably — why do you ask?\"\n\"Because the moment you walked in,\nmy internal monologue switched from silent mode to full speaker.\nAnd I still haven't turned it off.\"",
           "editorNote": "Great opener for new connections — MBTI is huge with younger Taiwan audiences and this lands as both on-trend and a little sweet",
           "variations": [
-            "Introvert version: 'Are you an extrovert? Because you made me want to text first — which for me is basically a miracle.'"
+            "Introvert version: 'Are you an extrovert? Because you made me want to text first — which for me is basically a miracle.'",
+            "I used to be very much an introvert. But whenever you show up, I suddenly have a lot to say. Is that what E feels like?"
           ]
         }
       }
@@ -1555,29 +1558,6 @@
           "editorNote": "A play on the 2026 Taiwanese casual term for 'friend' — one line shifts the whole relationship dynamic; works great as a lighthearted icebreaker",
           "variations": [
             "If it's okay with you, I'd like to upgrade the definition of our friendship — just by one relationship level."
-          ]
-        }
-      }
-    },
-    {
-      "id": "cp-059",
-      "dateAdded": "2026-04-23",
-      "sourceUrl": "",
-      "sourceNote": "I人/E人 MBTI土味情話，原創",
-      "tags": ["MBTI", "I人", "E人", "撩人", "2026流行語"],
-      "i18n": {
-        "zh-tw": {
-          "content": "「你是I人還是E人？」\n「為什麼這樣問？」\n「因為你走進來那一瞬間，我的內心OS已經從靜音模式切換成外放了。」",
-          "editorNote": "結合2026最流行的I人/E人話題和土味情話，有梗有料，對方通常會先笑再反應；特別適合在聚會場合或初次認識時說",
-          "variations": [
-            "我本來是個很I的人，但你一出現，我就突然變得很想說話了。這算E人嗎？"
-          ]
-        },
-        "en": {
-          "content": "\"Are you an introvert or an extrovert?\"\n\"Why do you ask?\"\n\"Because the moment you walked in, my internal monologue switched from silent mode to full speaker.\"",
-          "editorNote": "Combines the very 2026 I/E personality trend with a classic cheesy line — they'll laugh first, then realize you meant it; great for parties or first meetings",
-          "variations": [
-            "I used to be very much an introvert. But whenever you show up, I suddenly have a lot to say. Is that what E feels like?"
           ]
         }
       }
