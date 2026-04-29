@@ -1505,3 +1505,102 @@ Done items collapsed; only live priorities listed.
 11. **[MEDIUM — June or July]** Create `student-quotes` or `exam-quotes` (NEW; 4 traffic peaks/year, underserved cohort).
 12. Persistent backlog (cold-jokes I人/E人, absurd-wisdom 「接住」, cheesy-pickups 「朋朋」/MBTI/硬控): **REFRAMED** — include opportunistically when next touching these files; no longer a standalone priority.
 13. ~~Monitor `human-design-quotes`~~ ❌ DISCONTINUED (per 2026-04-27)
+
+---
+
+## 2026-04-29 Research Report
+
+### Status Update
+- Current topics in repo (**21 total**): absurd-wisdom, adulting-quotes, cat-quotes, cheesy-pickups, cold-jokes, couple-jokes, dark-humor, **diet-quotes** (NEW since last report), dog-quotes, drama-quotes, graduation-quotes, healing-quotes, holiday-jokes, korean-drama-quotes, mom-quotes, motivational-quotes, programmer-jokes, sweet-quotes, witty-comebacks, workplace-quotes, zodiac-quotes ✅
+- `diet-quotes` confirmed live (file present 2026-04-29) — recommendation from 2026-04-28 executed
+- **勞動節連假 (May 1–3) = 2 DAYS AWAY** — final 48h window for 全國統一放假 hook in workplace-quotes
+- **母親節 (May 10) = 11 days away** — peak search active; mom-quotes + sweet-quotes Mother's Day items must already be discoverable
+- **端午節 (June 19–21) = 51 days away** — drafting window open; 田馥甄「玉琴顧粽」+ 粽諧音 still circulating per Yahoo News + SUCCULAND 2026 update
+- **畢業季** — graduation-quotes live; "致青春，後會有期" + Pinkoi 2026 phrasing confirmed
+- **父親節 (Aug 8) = 101 days away** — too early for content; flag for early July drafting
+- Persistent backlog from 16 prior reports (cold-jokes I人/E人, absurd-wisdom 「接住」, cheesy-pickups 「朋朋」/MBTI/硬控): **REFRAMED** per 2026-04-28 — opportunistic only, no longer standalone priority
+
+### New Topic Recommendations
+
+1. **網路流行語語錄 / Internet Slang Quotes** (slug: `slang-quotes` or `trending-slang`, category: Social)
+   - QuickSeek 2026-02-11 報告 confirmed structural data: 朋朋 (356,929筆), 接住 (284,309筆), I人/E人 (266,587筆) are top 3 Threads-driven viral terms in past 6 months
+   - **NEW 2026 insight (not in prior reports)**: 「初級大人／高級大人」自我檢測格式 has been quickly heating up since 2026-02 per dailyview.tw — this is a structural Threads viral that pairs naturally with adulting-quotes
+   - Format: viral term + plain-language explanation + usage example sentence + register/scenario note. Reads like a dictionary but in quote-card aesthetic
+   - Differentiator: existing topics use these terms as ingredients; this topic positions the terms themselves as the content. SEO captures the high-volume "XXX 是什麼意思" search intent
+   - Sub-formats: 朋朋系撩人語, 接住系治癒語, I人/E人系自我介紹, 初級大人 vs 高級大人 對照表, 留友看系工具語, 硬控系誇飾語, MBTI迷因延伸
+   - SEO targets: 朋朋 意思, 接住 意思, I人 E人, 初級大人, 高級大人, 留友看, 網路流行語 2026, 流行語意思, Threads 流行語
+   - Risk: trend lifecycle is shorter than seasonal topics; needs quarterly refresh discipline. But evergreen "What does X mean?" search intent persists even after the trend cools
+   - **Recommendation: HIGH priority. Underserved niche, Threads-native, pairs cross-link well with adulting-quotes / cheesy-pickups / cold-jokes. Target 12–15 items. Create May–June.**
+
+2. **婚禮金句 / Wedding Speech & Toasts** (slug: `wedding-quotes`, category: Romance) — **CARRYING FORWARD with strengthened evidence**
+   - 2026-04 confirmed sources: StoryWed 致詞範例 (storywed.com.tw), Pinkoi 婚禮金句, weddingmcjack.com 撰寫指南 — all 2026-active
+   - Confirmed format viability: "結婚就像打麻將，兩個人四條腿，共同走向幸福的胡牌之路"; "恭喜你們終於從『單身狗』升級到『雙人床』"; "願你們的愛情像超級瑪利歐，一路闖關升級"
+   - YouTube @songann_1118 婚禮致詞 series accumulating views — confirms public appetite for 幽默致詞 reference content
+   - Sub-formats stable since 2026-04-28: 新郎致詞幽默版, 新娘宣言, 伴郎/伴娘吐槽詞, 紅包賀詞俏皮版, 致父母感謝詞, LINE 群組婚禮祝福
+   - High-purpose search = high time-on-page + low bounce rate signals strong SEO uplift
+   - **Recommendation: MEDIUM-HIGH. Create May–June. Target 15+ items split across 致詞 / 賀詞 / 吐槽 / 感謝 sub-formats.**
+
+3. **旅遊語錄 / Travel Quotes** (slug: `travel-quotes`, category: Lifestyle) — **CARRYING FORWARD with sharpened 2026 angle**
+   - 2026 國旅補助 confirmed structural change: 抽籤制 (not 先住先贏), 壽星可疊加最高領$3,200, 平日週日至週四限定 — these specifics are searchable and create unique editorial angles
+   - Threads @egtaichung 國旅補助懶人包 + @dear_kelife 親子旅遊心得 confirms organic content + commercial-content overlap; FunTextHub fills the joke/quote-card gap (not how-to guides — those are saturated)
+   - Sub-formats: 國旅補助抽中vs沒抽中對比段子, 平日請假旅遊宣言, 親子旅遊崩潰語錄, 飛機/高鐵廁所實況段子, 行李箱重量自嘲, 計畫vs現實
+   - SEO targets: 旅遊語錄, 旅行金句, 國旅補助梗, 旅行厭世, 親子旅遊崩潰, 旅遊幽默, travel quotes zh-tw
+   - **Recommendation: MEDIUM. Create June (post-端午節 publish wave). 國旅補助第一階段抽籤完成後正是 user reflection 時點. Target 12 items.**
+
+4. **自愛語錄 / Self-Love Quotes** (slug: `self-love-quotes`, category: Lifestyle) — **CARRYING FORWARD; longest-deferred carry**
+   - Threads @chicbaby8937 2026 語錄 ("願你給出去的柔軟，都能以更好的形狀回到你身邊"; "不急著證明什麼，把心放在舒服的位置"; "留一點力氣給自己，而不是全給別人") confirmed still circulating in 2026-04-29 search
+   - GirlsMood + GirlStyle 自愛精選語錄 evergreen content active; "你必須先愛自己，才有資格要求別人愛你" remains canonical
+   - Differentiator from healing-quotes (治癒外傷) and motivational-quotes (向上動能): self-love = 邊界 + 自我照顧 + 不討好他人. Different emotional register
+   - **Recommendation: MEDIUM. Final carry — if not created by 2026-05-15, deprioritize and accept structural demand absorbed by healing-quotes. Target 12–15 items.**
+
+### Content Trends
+
+- **「初級大人／高級大人」NEW Format = 2026 Q2 Wave**: dailyview.tw + QuickSeek 2026-02-11 data confirm this Threads-native self-assessment format is heating up since 2026-02. Format: [日常情境] + [初級大人會這樣做] + [高級大人會這樣做] 對比表. Direct application: **adulting-quotes must include 初級大人 vs 高級大人 對照 items as URGENT addition** — this is the freshest 2026 angle for that topic and currently absent from search results for FunTextHub. Also seeds a strong recommendation #1 above.
+
+- **2026 勞動節 全國統一放假 — 2 DAYS LEFT**: Threads @hong.liji + @nownews + TVBS livenews confirmed format: "去年5/1還只有勞工放假，我原本可以找老朋友聚餐旅遊，今年起小孩子也跟著老師學校全都放假" + "到底是誰搞出這種事". Also surfaces **雙重觀點**: 替老闆抱不平派 ("放太多公司會倒") vs. 勞工發聲派 ("沒有員工哪來老闆") — workplace-quotes can carry both registers. WINDOW CLOSES MAY 4. After that, dead until 2027.
+
+- **「我吃一點」+ 貓拿筷子貼圖 — Confirmed Major 2026 Taiwan Threads Moment**: Per Taiwan News 2026-03-18 article. Foreign visitors photo + locals comment "我吃一點". This is the kind of viral that doesn't fit single-quote schema BUT can seed witty-comebacks items: e.g. "別人問你要不要一起吃，就回『我吃一點』，然後吃光" register. **Action: include 1–2 「我吃一點」 derivative items in next witty-comebacks update.**
+
+- **Mother's Day 2026 暖心 vs. 撒嬌 雙線並行**: Cyberlink + Pinkoi + LingoAce 2026 母親節文案 confirm two coexisting registers: (1) 暖心 — "媽媽的碎碎念念，溫暖了我的歲歲年年", (2) 撒嬌-cynical — "謝謝您喜歡我花你的錢買給你的禮物". Verify mom-quotes + sweet-quotes have items in both registers — pure 暖心 misses the Threads-shareable snarky-tender format that drives engagement.
+
+- **2026 自愛 Threads Frame Still Dominant**: "願你 + [柔軟動詞] + [回到/接住/陪伴]" frame from @chicbaby8937 still circulating 5 months post-publish. Reapplies to healing-quotes verification (per 2026-04-28 trend note). Validates self-love-quotes carry-forward as still timely.
+
+- **公車司機事件 (2026-04-24)** = sharp short-life viral, NOT durable content. Skip. Pattern: news-driven memes burn out within 5–7 days; FunTextHub catalog should not chase these.
+
+### Existing Topic Updates
+
+- **workplace-quotes (職場語錄)**: **48 HOURS to 勞動節.** Final research cycle. If 2026 全國統一放假 hook absent, add NOW: phrases to seed (rewrite, don't copy): "2026 第一次全民同步放假，老闆終於沒有藉口了"; "原本5/1是我與老朋友聚餐的日子，現在小孩老師全都放假，這就是『家人時間』升級包"; 老闆視角 "放太多假公司會倒" vs 勞工視角 "沒有員工哪來老闆" 對話格式.
+
+- **mom-quotes (媽媽語錄)**: 11 days to Mother's Day, peak search. Verify (1) 快快長大 vs. 慢慢變老 對比格式 (2026 dominant phrasing per 2026-04-28); (2) all editorNotes include "傳給媽媽看 / 母親節卡片用" LINE sharing prompt; (3) 撒嬌-cynical 雙線 — at least 2 items in "謝謝您喜歡我花你的錢買給你的禮物" register, not all sweet.
+
+- **sweet-quotes (暖男語錄)**: Verify Mother's Day items (sq-018 to sq-022) tagged `mothers-day` for discoverability. Verify 家 vs. 時光 對比 register present ("你眼中，家是一個地方；媽媽眼中，家是有你在的一段時光").
+
+- **adulting-quotes (大人語錄)**: **NEW URGENT ANGLE — 初級大人 vs 高級大人 對照格式** (dailyview.tw 2026 viral data confirmed). Add 3–5 items in this paired format: 情境 → 初級反應 → 高級反應. This is the freshest 2026 add for the topic. Examples to seed (rewrite): "面對讚美 — 初級大人立刻反駁我才不是；高級大人微笑說謝謝你"; "面對挫敗 — 初級大人熬夜檢討；高級大人關燈睡覺，明天再說". Threads-native viral; high LINE share intent.
+
+- **holiday-jokes (節日笑話)**: 端午節 expansion drafting — 5+ items live by May 10. Confirmed evergreen sources (rewrite as templates): SUCCULAND 2026 75句更新版, Cyberlink 50句, watermoon333 痞客邦 諧音成語/藏頭詩. Items priority: (1) 田馥甄「玉琴顧粽」(欲擒故縱) 食物×成語 名人格式; (2) 粽是上漲/輝煌/如糖/健康 排比格式; (3) 屈原跳江股市梗; (4) 南粽北粽戰爭; (5) Dcard 端午節笑話 板熱門格式.
+
+- **healing-quotes (治癒系語錄)**: Apply 2026 Threads frame "願你 + [柔軟動詞] + [回到/接住/陪伴]" — verify ≥3 items use this structural pattern. Per 2026-04-28 carry-forward.
+
+- **graduation-quotes (畢業季語錄)**: Verify "致青春，後會有期" + "願你給出去的柔軟，都能以更好的形狀回到你身邊" 自我溫柔 register both present. Traffic builds in ~2 weeks.
+
+- **diet-quotes (減肥語錄 — NEWLY LIVE)**: Monitor 1 week for organic discovery. Spring fitness peak should drive Q2 traffic. No immediate edits.
+
+- **witty-comebacks (幹話語錄)**: Opportunistic — when next updated, include 1–2 「我吃一點」 derivative items (per Content Trends note above) to capture 2026 Threads viral moment.
+
+### Updated Action Priority
+
+1. **[CRITICAL — 48 HOURS]** Verify `workplace-quotes` has 2026 全國統一放假 hook + 老闆/勞工 雙觀點 register. Window closes May 4.
+2. **[URGENT — 11 DAYS]** Verify `mom-quotes` 快快長大 vs. 慢慢變老 + LINE sharing editorNotes + 撒嬌-cynical 雙線 register.
+3. **[URGENT — 11 DAYS]** Verify `sweet-quotes` Mother's Day items tagged + 家 vs. 時光 register present.
+4. **[NEW HIGH — May]** Update `adulting-quotes` with 初級大人 vs 高級大人 對照格式 (3–5 items). Freshest 2026 viral; don't sleep on this.
+5. **[HIGH — by May 10]** `holiday-jokes` 端午節 expansion (5+ items): 田馥甄式食物×成語, 粽諧音排比, 屈原股市梗, 南粽北粽戰爭, Dcard熱門格式.
+6. **[MEDIUM — May]** Apply Threads "願你 + 柔軟動詞 + 接住" frame to `healing-quotes` (3+ items if absent).
+7. **[NEW HIGH — May–June]** Create `slang-quotes` / 網路流行語語錄 (NEW; underserved niche; 朋朋/接住/I人E人/初級大人 all in one Social-category topic; high SEO from "XXX 意思" searches).
+8. **[MEDIUM — May]** Create `self-love-quotes` / 自愛語錄 (FINAL CARRY — deprioritize after 2026-05-15 if not created).
+9. **[MEDIUM-HIGH — May–June]** Create `wedding-quotes` / 婚禮金句 (NEW; 婚季 traffic; high-purpose search → strong SEO).
+10. **[MEDIUM — May–June]** Create `food-jokes` / 食物笑話 (carrying; built-in seasonal cycle).
+11. **[MEDIUM — June]** Create `travel-quotes` / 旅遊語錄 (carrying; 國旅補助抽籤制 angle freshly confirmed).
+12. **[MEDIUM — June or July]** Create `student-quotes` / 考試語錄 (carrying; 4 traffic peaks/year).
+13. **[FLAG — early July]** Begin 父親節 (8/8) content drafting for `holiday-jokes` expansion or new `dad-quotes` topic.
+14. **[OPPORTUNISTIC]** When next updating witty-comebacks, include 1–2 「我吃一點」 derivative items.
+15. Persistent backlog (cold-jokes I人/E人, absurd-wisdom 「接住」, cheesy-pickups 「朋朋」/MBTI/硬控): opportunistic only.
