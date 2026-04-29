@@ -1920,6 +1920,99 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-069",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://founderreports.com/return-to-office-statistics/",
+      "sourceNote": "2026 RTO 統計 — 99% 公司強制回辦公室後員工滿意度下降",
+      "tags": [
+        "回辦公室",
+        "RTO",
+        "通勤",
+        "職場厭世",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司宣布全員回辦公室上班的那天，整層樓安靜得像在告別式。\n\n主管說：「面對面協作效率比較高。」\n\n我環顧四周：工程師戴著耳機不講話、PM在Slack上敲坐他隔壁的同事、業務跑去會議室開遠端會議、財務窩在角落視訊她家的貓。\n\n所謂的「面對面協作」，就是我們一起在辦公室，各自視訊。\n\n通勤兩小時，省下打字時間零分鐘。\n\n下班路上我看著塞爆的車陣，終於懂了。\n\n這不是為了協作，是為了讓辦公大樓的房租不要白繳。",
+          "editorNote": "傳給最近被叫回辦公室的朋友，他會回你一張塞車的照片。",
+          "variations": [
+            "短版：所謂面對面協作，就是大家擠進辦公室、各自戴耳機開視訊。",
+            "更厭世：通勤兩小時換來的，是更安靜的辦公室和更貴的午餐。"
+          ]
+        },
+        "en": {
+          "content": "The day the company announced full return to office, our floor went silent like a funeral.\n\nManager said: 'In-person collaboration is just more effective.'\n\nI looked around. Engineers in noise-canceling headphones, not talking. PM Slacking the coworker sitting two feet away. Sales running to a conference room for a remote call. Finance video-chatting her cat from the corner.\n\nThis 'face-to-face collaboration' is just us being in the same building, on separate Zoom calls.\n\nTwo hours of commute. Zero hours of saved typing.\n\nStuck in traffic on the way home, it finally clicked.\n\nThis isn't about collaboration. It's about justifying the office lease.",
+          "editorNote": "Send to anyone who just got pulled back to the office. They'll reply with a photo of bumper-to-bumper traffic.",
+          "variations": [
+            "Short version: in-person collaboration means we all drove in to sit on separate Zoom calls.",
+            "More cynical: the two-hour commute bought us a quieter office and pricier lunch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-070",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://danfe.io/blog/funny-quotes-about-work-stress/",
+      "sourceNote": "2026 職場壓力幽默集 — 開會疲勞與郵件焦慮",
+      "tags": [
+        "開會",
+        "Email",
+        "職場厭世",
+        "上班族限定",
+        "效率"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天的行事曆：早上九點開會、十點開會、十一點開會、午餐邊吃邊開會、下午兩點開會、三點開會、四點開會、五點半「同步進度」會議。\n\n中間沒有任何工作時間。\n\n下午六點，主管丟訊息問：「那個案子怎麼還沒做？」\n\n我說：「因為你今天叫我開了八個會。」\n\n他回：「那你晚上加個班把它趕出來。」\n\n那一刻我終於明白：在這家公司，「開會」不是工作，「加班」才是工作。\n\n白天用來讓主管覺得我們在認真，晚上用來真的把事情做完。",
+          "editorNote": "傳給今天行事曆塞滿會議的同事，他會說「你監控我嗎」。",
+          "variations": [
+            "短版：白天開會給主管看，晚上加班把事情做完。",
+            "更厭世：開會不是工作的一部分，開會是工作的阻礙。"
+          ]
+        },
+        "en": {
+          "content": "Today's calendar: 9 AM meeting, 10 AM meeting, 11 AM meeting, working-lunch meeting, 2 PM meeting, 3 PM meeting, 4 PM meeting, 5:30 'sync.'\n\nNo gaps. No actual work time.\n\nAt 6 PM, my manager Slacks: 'Why isn't the project done?'\n\nI said: 'Because you scheduled me in eight meetings today.'\n\nHe replied: 'Stay late and push it out tonight.'\n\nThat's when it hit me. At this company, 'meetings' aren't work. 'Overtime' is work.\n\nDays are for performing productivity. Nights are for actually doing the job.",
+          "editorNote": "Send to anyone whose calendar today is a wall of blue blocks. They'll ask if you've been spying on them.",
+          "variations": [
+            "Short version: meetings are for looking busy. Overtime is for actually getting it done.",
+            "More cynical: meetings aren't part of the job. They're the obstacle to the job."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-071",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://punsmarkete.com/funny-quotes-about-work-stress/",
+      "sourceNote": "職場壓力幽默語錄 — 「我很好」的職場潛台詞",
+      "tags": [
+        "情緒勞動",
+        "職場厭世",
+        "社畜",
+        "上班族限定",
+        "假裝沒事"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問我：「最近還好嗎？」\n\n我笑著說：「還好啊。」\n\n翻譯：我手上有四個專案、兩個快爆炸、客戶昨天罵我兩小時、KPI 還差一半、我已經三天沒準時下班、咖啡灌到胃痛、上週的休假被取消、今天早上對著馬桶練習了一次「沒事我可以」的微笑。\n\n但是我說：「還好啊。」\n\n因為我知道，他問的不是真的想知道答案。\n\n他只是在等我問他「那你呢」。\n\n我問了。\n\n他笑著說：「我也還好。」\n\n我們兩個對視了三秒。\n\n然後一起去茶水間，沒有再講話。",
+          "editorNote": "傳給那個總是說「我還好」的朋友，他會傳一個沉默三秒的貼圖回來。",
+          "variations": [
+            "短版：「我還好」是上班族的通關密語，意思是「不要再問了」。",
+            "更厭世：辦公室裡最大的謊言不是業績預估，是「我最近還好」。"
+          ]
+        },
+        "en": {
+          "content": "Coworker asks: 'How are you holding up?'\n\nI smile: 'I'm good.'\n\nTranslation: four projects on my plate, two on fire, a client yelled at me for two hours yesterday, I'm halfway to my KPI, I haven't left on time in three days, coffee gave me an ulcer, my PTO got canceled, and this morning I practiced my 'I'm fine' face in the bathroom mirror.\n\nBut I said: 'I'm good.'\n\nBecause I know he isn't actually asking.\n\nHe's waiting for me to ask him back.\n\nSo I did.\n\nHe smiled: 'Yeah, I'm good too.'\n\nWe held eye contact for three seconds.\n\nThen walked to the break room together and didn't say another word.",
+          "editorNote": "Send to the friend who always answers 'I'm good.' They'll reply with a three-second silence emoji.",
+          "variations": [
+            "Short version: 'I'm good' is corporate code for 'please stop asking.'",
+            "More cynical: the biggest lie in the office isn't the sales forecast. It's 'I'm doing fine.'"
+          ]
+        }
+      }
     }
   ]
 }

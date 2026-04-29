@@ -311,6 +311,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-014",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "",
+      "sourceNote": "「電子布洛芬」2026 Threads 形容能瞬間止痛的療癒內容；醫療詞彙生活化",
+      "tags": ["電子布洛芬", "療癒", "迷因", "threads"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天加班到崩潰，\n打開朋友傳的貓咪影片——\n\n電子布洛芬。\n\n吃完整個人活過來，\n副作用是又能再撐一天。",
+          "editorNote": "「電子布洛芬」是 2026 Threads 把醫療詞彙生活化的代表，形容看完瞬間止痛的療癒內容。傳給每天靠迷因撐住的朋友最對味",
+          "variations": [
+            "推薦版：「失戀必備電子布洛芬清單：水獺打架影片、阿嬤跳舞、柴犬走路。」"
+          ]
+        },
+        "en": {
+          "content": "Worked overtime till I cracked.\nOpened the cat clip my friend sent —\n\nDigital ibuprofen.\n\nPain gone in 30 seconds.\nSide effect: I can survive one more day.",
+          "editorNote": "'Digital ibuprofen' (電子布洛芬) is 2026 Taiwan Threads' medical-term-as-everyday-slang for content that kills emotional pain on contact. Send to whoever runs on memes to get through the week",
+          "variations": [
+            "Prescription pad: 'Heartbreak digital-ibuprofen list — otter fights, grandma dancing, shiba inu walking.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-015",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "",
+      "sourceNote": "「已讀亂回」2026 Threads 高頻自嘲；形容沒看清訊息就回覆的混亂行為",
+      "tags": ["已讀亂回", "自嘲", "訊息", "threads"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他問：「你有空嗎？」\n我回：「好喔。」\n\n已讀亂回。\n\n等我發現的時候，\n我已經答應幫他搬家了。",
+          "editorNote": "「已讀亂回」是 2026 Threads 自嘲頂流——已讀但根本沒看內容就亂回。比「已讀不回」更有戲劇性，傳給工作分心的朋友秒共感",
+          "variations": [
+            "升級版：「我不是已讀不回，我是已讀亂回，差別在我至少有試。」"
+          ]
+        },
+        "en": {
+          "content": "He asked: 'Are you free?'\nI replied: 'Sure.'\n\nClassic read-and-mis-reply.\n\nBy the time I realized,\nI'd already agreed to help him move.",
+          "editorNote": "'Read-and-mis-reply' (已讀亂回) is 2026 Threads' favorite self-roast — you opened the message, didn't actually read it, and answered anyway. More dramatic than 'left on read,' and any distracted desk worker will feel seen",
+          "variations": [
+            "Upgrade: 'I'm not leaving you on read, I'm read-and-mis-replying. The difference is I tried.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-016",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "",
+      "sourceNote": "「省電模式」2026 Threads 自我描述用語；I 人/疲勞狀態的科技化形容",
+      "tags": ["省電模式", "i人", "疲勞", "threads"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天我開省電模式。\n\n螢幕亮度降到最低，\n回訊息只剩單字，\n表情包庫存只剩貼圖。\n\n別擔心，\n充飽再回你。",
+          "editorNote": "「省電模式」是 2026 把手機狀態套到自己身上的高頻自我描述。社交電量見底時，預告朋友比硬撐更體貼，I 人收到秒懂",
+          "variations": [
+            "解釋版：「我不是不理你，我是進入省電模式，背景程式都關了。」"
+          ]
+        },
+        "en": {
+          "content": "I'm on low-power mode today.\n\nBrightness all the way down,\nreplies trimmed to single words,\nemoji reserves running on stickers only.\n\nDon't worry —\nI'll text back when I'm charged.",
+          "editorNote": "'Low-power mode' (省電模式) is 2026 Threads' favorite way to map phone-battery language onto yourself. Announcing it beats white-knuckling through the social drain — fellow I-types will get it instantly",
+          "variations": [
+            "Explainer: 'I'm not ignoring you, I'm in low-power mode. Background apps are all closed.'"
+          ]
+        }
+      }
     }
   ]
 }

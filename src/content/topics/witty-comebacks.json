@@ -1635,6 +1635,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-059",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://danfe.io/blog/hilarious-office-quotes/",
+      "sourceNote": "辦公室幽默語錄參考，重新創作「團隊合作」諷刺主題",
+      "tags": [
+        "幹話",
+        "職場",
+        "團隊合作",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管站起來說：「團隊合作就是大家一起承擔！」\n\n聽起來很熱血，但實際運作起來是這樣的：\n\n出事的時候，是「我們」。\n領獎金的時候，是「他」。\n背鍋的時候，是「你」。\n開檢討會的時候，是「大家」。\n\n所以說，團隊合作其實是一種高級的代名詞遊戲——重點不是在做事，是在練習什麼時候該用哪個詞。",
+          "editorNote": "適合主管把鍋甩給整個團隊、卻把功勞留給自己時，私下傳給同事的療癒文案",
+          "variations": [
+            "團隊合作的真相：好事是長官的，壞事是大家的，雜事是你的。"
+          ]
+        },
+        "en": {
+          "content": "The manager stands up and says: 'Teamwork means we all carry it together!'\n\nSounds inspiring. Here's how it actually plays out:\n\nWhen something breaks, it's 'we.'\nWhen the bonus comes, it's 'he.'\nWhen blame lands, it's 'you.'\nWhen the post-mortem starts, it's 'everyone.'\n\nSo teamwork is really just an advanced pronoun game — the skill isn't doing the work, it's knowing which word to use at which moment.",
+          "editorNote": "Send to a coworker after the boss spreads blame to the whole team while keeping credit personal — a private vent that names the pattern",
+          "variations": [
+            "Teamwork, decoded: wins belong to the boss, losses belong to the team, and admin belongs to you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-060",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://parade.com/1079501/stephanieosmanski/sarcastic-quotes/",
+      "sourceNote": "諷刺語錄參考，重新創作「拖延症」自嘲主題",
+      "tags": [
+        "幹話",
+        "拖延",
+        "自嘲",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我：「你怎麼那麼會拖？」\n\n我認真想了一下，然後回答：\n\n我不是在拖，\n我是在等壓力累積到一個臨界值，\n讓我可以用焦慮取代思考、用恐慌取代規劃。\n\n這樣產出的東西雖然不一定好，\n但至少誕生過程很戲劇化。\n\n所以拖延不是一種習慣，\n是一種行為藝術。",
+          "editorNote": "適合在 deadline 前一晚對自己說、或回覆那個又催稿又看不出你已經很努力的朋友",
+          "variations": [
+            "我不是在拖，我是在用一種比較刺激的方式體驗時間管理。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked me: 'Why do you procrastinate so much?'\n\nI thought about it seriously, then said:\n\nI'm not procrastinating.\nI'm letting the pressure build to a critical threshold,\nso I can replace thinking with anxiety and planning with panic.\n\nThe output isn't always great,\nbut the birth process is extremely dramatic.\n\nSo procrastination isn't a habit.\nIt's performance art.",
+          "editorNote": "For the night before a deadline, or as a comeback to the friend who keeps nagging you while ignoring the effort already happening",
+          "variations": [
+            "I'm not procrastinating. I'm experiencing time management as an extreme sport."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-061",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://www.rd.com/list/hilarious-comebacks/",
+      "sourceNote": "機智回擊語錄參考，重新創作「給建議」邊界主題",
+      "tags": [
+        "幹話",
+        "邊界",
+        "人際關係",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "親戚又開口了：「我這是為你好。」\n\n我笑了笑，沒回話。\n\n因為我發現，\n「為你好」這三個字，\n通常後面接的不是建議，是命令；\n不是關心，是評價；\n不是幫忙，是指揮。\n\n真正為你好的人，\n會先問你需要什麼。\n而不是先決定你應該要什麼，\n再責怪你怎麼沒照著做。\n\n所以下次聽到「我是為你好」，\n我會禮貌地回一句：\n「謝謝，我自己的人生我已經有負責人了。」",
+          "editorNote": "過年聚餐被親戚瘋狂指點人生時的應對範本——把界線講清楚但不撕破臉",
+          "variations": [
+            "「我是為你好」是一句萬用通行證，可以合理化任何不請自來的意見。"
+          ]
+        },
+        "en": {
+          "content": "The relative starts again: 'I'm only saying this for your own good.'\n\nI smile and stay quiet.\n\nBecause I've noticed\nthat phrase usually introduces\nan order, not advice;\na verdict, not concern;\na directive, not help.\n\nPeople who actually want what's good for you\nask what you need first.\nThey don't decide what you should want,\nthen blame you for not complying.\n\nSo next time I hear 'for your own good,'\nI'll politely answer:\n'Thanks, but my life already has a manager — and it's me.'",
+          "editorNote": "A template for the holiday dinner where relatives start directing your life — sets a boundary without burning the bridge",
+          "variations": [
+            "'For your own good' is a universal pass that retroactively justifies any unsolicited opinion."
+          ]
+        }
+      }
     }
   ]
 }

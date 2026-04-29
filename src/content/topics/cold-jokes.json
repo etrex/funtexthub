@@ -2300,6 +2300,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-091",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://pungenius.fun/dad-jokes-2026/",
+      "sourceNote": "受『電腦感冒因為視窗沒關』啟發，改寫為台式辦公室冷氣版",
+      "tags": ["科技", "諧音", "辦公室"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問我：「你的筆電怎麼一直在咳嗽？」\n\n我說：「因為它感冒了。」\n\n同事：「電腦怎麼會感冒？」\n\n我：「因為我沒關視窗，冷氣一直灌進去。」",
+          "editorNote": "適合在辦公室冷氣超強的時候講，搭配假裝咳嗽更冷",
+          "variations": [
+            "延伸版：同事問怎麼治療，我說：『重開機，再多喝熱水。』"
+          ]
+        },
+        "en": {
+          "content": "My coworker asked: \"Why does your laptop keep coughing?\"\n\nMe: \"It caught a cold.\"\n\nCoworker: \"How does a computer catch a cold?\"\n\nMe: \"I left all my Windows open.\"",
+          "editorNote": "Best delivered in an over-air-conditioned office, ideally while shivering on purpose",
+          "variations": [
+            "Follow up: \"The fix? Reboot and lots of hot tea.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-092",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://onelinefun.com/winter/",
+      "sourceNote": "受『雪人冷肩膀』one-liner啟發，改寫為對話式情境版",
+      "tags": ["天氣", "雙關", "人際"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟雪人吵架。\n\n朋友問：「你們吵什麼？」\n\n我說：「他每次都不理我。」\n\n朋友：「那是當然，他本來就是冷漠的人。」\n\n我：「對啊，整個人都是冰塊做的。」",
+          "editorNote": "適合在寒流來襲的時候講，越冷越好笑",
+          "variations": [
+            "也可以改成跟冰箱吵架：「他連門都不肯為我開。」"
+          ]
+        },
+        "en": {
+          "content": "I had a fight with a snowman.\n\nFriend: \"What were you fighting about?\"\n\nMe: \"He keeps ignoring me.\"\n\nFriend: \"Well, he's pretty cold by nature.\"\n\nMe: \"Yeah, the guy's literally made of ice.\"",
+          "editorNote": "Tell this during a cold snap — the colder it is outside, the funnier it lands",
+          "variations": [
+            "Alt: Replace the snowman with a fridge — \"He won't even open the door for me.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-093",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "受『冷vs熱誰比較快』經典dad joke啟發，改寫為台式情境劇版",
+      "tags": ["邏輯", "雙關", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "弟弟問我：「冷的跟熱的誰跑得比較快？」\n\n我說：「熱的。」\n\n弟弟：「為什麼？」\n\n我：「因為冷的會被人『抓』到，熱的只會讓人『燙』到放手。」",
+          "editorNote": "適合在家裡跟小朋友互動，講完記得自己先笑出聲",
+          "variations": [
+            "也可以反問：『那為什麼夏天比較難抓？因為太熱手了。』"
+          ]
+        },
+        "en": {
+          "content": "My little brother asked: \"Which is faster, hot or cold?\"\n\nMe: \"Hot.\"\n\nBrother: \"Why?\"\n\nMe: \"Because you can catch a cold, but nobody ever catches a hot.\"",
+          "editorNote": "Classic groaner for kids — laugh at your own joke first to set the mood",
+          "variations": [
+            "Bonus: \"And summer? Even harder to catch — it slips right through your fingers.\""
+          ]
+        }
+      }
     }
   ]
 }

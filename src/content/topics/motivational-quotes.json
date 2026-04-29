@@ -1713,6 +1713,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-070",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "",
+      "sourceNote": "original composition",
+      "tags": ["勵志", "比較", "自我節奏", "正能量"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不是落後，\n你只是走在自己的時區裡。\n\n別人的花開得早，\n不代表你開不出來。\n你只是還沒輪到春天。",
+          "editorNote": "適合丟給因為朋友升遷、結婚、買房而焦慮的人。每個人的人生節奏本來就不一樣，不需要硬擠在同一條時間軸上。",
+          "variations": [
+            "別人的進度不是你的尺，你只要量自己有沒有比昨天靠近一點點就好。"
+          ]
+        },
+        "en": {
+          "content": "You're not falling behind.\nYou're just on your own timezone.\n\nOther people's flowers blooming early\ndoesn't mean yours won't.\nYour spring just hasn't shown up yet.",
+          "editorNote": "For anyone spiraling because friends are getting promoted, married, or buying houses. Different timelines aren't a competition.",
+          "variations": [
+            "Other people's progress isn't your measuring stick. The only one that matters is whether today-you is a tiny bit closer than yesterday-you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-071",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "",
+      "sourceNote": "original composition",
+      "tags": ["勵志", "勇氣", "害怕", "行動力"],
+      "i18n": {
+        "zh-tw": {
+          "content": "勇敢不是不害怕，\n是怕得要死還是去做了。\n\n手在抖、聲音在抖，\n但你還是按下了那個按鈕。\n那就已經比 99% 的人都勇敢了。",
+          "editorNote": "送給要面試、要告白、要辭職、要做任何「可怕但重要」決定的人。害怕是正常的，重點是你還是動了。",
+          "variations": [
+            "你不用先變勇敢才能行動，你是行動之後才發現自己原來這麼勇敢。"
+          ]
+        },
+        "en": {
+          "content": "Brave isn't being unafraid.\nBrave is being terrified and doing it anyway.\n\nHands shaking, voice shaking,\nbut you hit the button anyway.\nThat already beats 99% of people.",
+          "editorNote": "For anyone facing an interview, a confession, a resignation — any 'scary but important' move. Fear is normal. Doing it anyway is the whole game.",
+          "variations": [
+            "You don't get brave first and then act. You act, and find out afterward you were braver than you thought."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-072",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "",
+      "sourceNote": "original composition",
+      "tags": ["勵志", "小成就", "肯定自己", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天有起床、\n有吃飯、有把該回的訊息回了，\n那就已經很厲害了。\n\n不是每一天都要轟轟烈烈，\n把生活的基本款撐住，\n本身就是一種了不起。",
+          "editorNote": "給那種覺得「我今天又什麼都沒做」的人。其實生活的基本維持就已經要消耗很多力氣了，不要對自己這麼嚴。",
+          "variations": [
+            "把自己照顧好已經是滿級任務，沒人規定每天都要解世界 BOSS。"
+          ]
+        },
+        "en": {
+          "content": "You got up today.\nYou ate. You answered the messages you needed to.\nThat's already a lot.\n\nNot every day needs to be epic.\nKeeping the basics running\nis its own kind of impressive.",
+          "editorNote": "For the person beating themselves up with 'I did nothing today.' Maintaining your basic life takes real energy — don't grade yourself so harshly.",
+          "variations": [
+            "Taking care of yourself is already a full-time quest. Nobody said you have to fight a world boss every day."
+          ]
+        }
+      }
     }
   ]
 }

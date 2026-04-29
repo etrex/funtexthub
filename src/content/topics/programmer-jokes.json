@@ -2105,6 +2105,81 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-086",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "'It works on my machine and the AI said it would work everywhere else' — 2026 vibe coder accountability meme, rewritten as a code review",
+      "tags": ["AI", "vibe coding", "code review", "甩鍋", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師在 code review 留言：「這段邏輯為什麼這樣寫？」\n\nJunior：「AI 給的。」\n\n資深：「你看得懂嗎？」\n\nJunior：「看不懂。」\n\n資深：「你測過嗎？」\n\nJunior：「我問 AI 說它測過了。」\n\n資深：「上線會壞掉吧？」\n\nJunior：「不會啊，AI 說它在它的機器上跑得很順。」\n\n資深沉默了三秒，然後在 PR 上面打了 approve，因為他知道反正出事的時候，鍋有兩個工程師可以背、加一個 AI 公司可以告。",
+          "editorNote": "傳給每個被迫 review junior 的 AI-generated PR 的資深工程師，2026 年的 code review 已經變成多方責任分散儀式",
+          "variations": [
+            "新時代甩鍋三段論：『AI 寫的』、『AI 說它測過了』、『AI 說在它的機器上沒事』。",
+            "2026 Code review 心法：approve 不是因為看得懂，是因為知道鍋會分得開。"
+          ]
+        },
+        "en": {
+          "content": "Senior dev on the PR: \"Why is this logic written this way?\"\n\nJunior: \"The AI did it.\"\n\nSenior: \"Do you understand it?\"\n\nJunior: \"No.\"\n\nSenior: \"Did you test it?\"\n\nJunior: \"I asked the AI and it said it tested it.\"\n\nSenior: \"This is going to break in production.\"\n\nJunior: \"It won't. The AI said it works on its machine.\"\n\nThe senior stared at the screen for three seconds, then clicked approve — because when prod goes down, at least the blame splits three ways: two engineers and one AI vendor we can sue.",
+          "editorNote": "Send to any senior who's been drafted into reviewing AI-generated PRs from juniors — 2026 code review is now a multi-party liability ritual",
+          "variations": [
+            "The new blame triangle: 'the AI wrote it,' 'the AI said it tested it,' 'the AI said it worked on its machine.'",
+            "2026 code review philosophy: you approve not because you understand it, but because you know the blame will distribute cleanly."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-087",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Cloud bill horror — 2026 infrastructure cost meme, rewritten as a midnight phone call",
+      "tags": ["雲端", "AWS", "帳單", "創業", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，創辦人打給 CTO。\n\n創辦人：「AWS 帳單寄來了。」\n\nCTO：「多少？」\n\n創辦人：「比我們上輪募資還多。」\n\nCTO：「不可能，我們才十個用戶。」\n\n創辦人：「對，但其中一個用戶觸發了一個無限迴圈，那個迴圈呼叫了 GPT-5 API，GPT-5 又呼叫了我們自己的 API，我們的 API 又開了一台 GPU 跑 inference，然後它們互相聊了一整個禮拜。」\n\nCTO：「我們的 AI 自己開公司了？」\n\n創辦人：「應該說是它們已經比我們更會燒錢了。」",
+          "editorNote": "傳給經歷過半夜被 AWS 帳單嚇醒的工程師、或是任何一個用 LLM 串 LLM 串到自己破產的創辦人",
+          "variations": [
+            "新創破產三大主因：找不到 PMF、燒光現金、AI 自己跟自己聊到天亮。",
+            "雲端帳單恐怖故事的最高境界：不是被 DDoS，是被自己的 AI agent 互相對話 DDoS。"
+          ]
+        },
+        "en": {
+          "content": "3 AM. The founder called the CTO.\n\nFounder: \"The AWS bill came.\"\n\nCTO: \"How much?\"\n\nFounder: \"More than our seed round.\"\n\nCTO: \"Impossible. We have ten users.\"\n\nFounder: \"Yeah, but one of them triggered an infinite loop. That loop called the GPT-5 API. GPT-5 called our API back. Our API spun up a GPU for inference. They've been chatting with each other for a week straight.\"\n\nCTO: \"Our AI started its own company?\"\n\nFounder: \"More like it's already better at burning money than we are.\"",
+          "editorNote": "Send to any engineer who's been jolted awake by an AWS bill alert — or any founder who chained LLMs together until they bankrupted themselves",
+          "variations": [
+            "Top three reasons startups die in 2026: no PMF, ran out of cash, the AI agents kept talking to each other all night.",
+            "The scariest cloud bill isn't from a DDoS — it's from your own AI agents holding a week-long group chat."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-088",
+      "dateAdded": "2026-04-29",
+      "sourceUrl": "https://quickpun.com/computer-science-jokes/",
+      "sourceNote": "Stack Overflow nostalgia joke — 2026 'AI replaced Stack Overflow' meme, rewritten as a museum tour",
+      "tags": ["Stack Overflow", "懷舊", "AI", "工程師文化", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年，矽谷博物館新開了一個展區，叫做「Stack Overflow 紀念館」。\n\n導覽員：「這就是工程師以前找答案的地方。」\n\n小朋友：「他們會去問人嗎？」\n\n導覽員：「對，然後會被一個叫 mod 的人關掉問題。」\n\n小朋友：「為什麼？」\n\n導覽員：「因為『重複問題』。」\n\n小朋友：「那他們怎麼解決問題？」\n\n導覽員：「他們去看那個被標記成重複的舊問題，舊問題下面有一個高讚回答寫著『我自己解決了，謝謝』，然後就沒了。」\n\n小朋友驚恐地看著爸爸：「人類以前是這樣活下來的？」\n\n爸爸：「對，所以才會有 AI。」",
+          "editorNote": "傳給每個曾經在 Stack Overflow 被 close 過問題、被回『RTFM』、或是看到『solved myself, thanks』就想哭的老工程師",
+          "variations": [
+            "Stack Overflow 三大絕招：標記重複、回答 RTFM、留言『solved myself, thanks』然後不貼解法。",
+            "AI 取代 Stack Overflow 的真正原因：不是 AI 比較聰明，是 AI 不會關掉你的問題。"
+          ]
+        },
+        "en": {
+          "content": "2026. The Silicon Valley Museum opened a new wing called 'The Stack Overflow Memorial.'\n\nGuide: \"This is where developers used to find answers.\"\n\nKid: \"Did they ask people?\"\n\nGuide: \"Yes. And then someone called a 'mod' would close their question.\"\n\nKid: \"Why?\"\n\nGuide: \"For being a duplicate.\"\n\nKid: \"So how did they solve anything?\"\n\nGuide: \"They'd click the linked duplicate, scroll down to the top-voted answer, and read 'solved it myself, thanks' — with no solution attached.\"\n\nThe kid looked at their dad in horror: \"Humans actually lived like this?\"\n\nDad: \"Yes. That's why we built AI.\"",
+          "editorNote": "Send to any veteran developer who's had a question closed as duplicate, been told to RTFM, or cried at 'solved myself, thanks' — the trauma is generational",
+          "variations": [
+            "The three Stack Overflow power moves: close as duplicate, reply RTFM, and post 'solved myself, thanks' with zero details.",
+            "The real reason AI replaced Stack Overflow: not because AI is smarter, but because AI doesn't close your question."
+          ]
+        }
+      }
     }
   ]
 }
