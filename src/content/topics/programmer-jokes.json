@@ -666,7 +666,7 @@
       "sourceUrl": "",
       "sourceNote": "Code review culture — 'minor change' that isn't minor",
       "tags": [
-        "Code Review",
+        "code review",
         "職場",
         "工程師日常"
       ],
@@ -1367,7 +1367,7 @@
       "dateAdded": "2026-04-21",
       "sourceUrl": "https://programmerhumor.io/memes/github",
       "sourceNote": "git blame as a blame-shifting tool — classic dev humor rewritten from the 'sport of pointing fingers at the past' framing on programmerhumor.io",
-      "tags": ["git", "code review", "甩鍋", "工程師文化"],
+      "tags": ["Git", "code review", "甩鍋", "工程師文化"],
       "i18n": {
         "zh-tw": {
           "content": "資深工程師教新人：「碰到看不懂的程式碼，先跑 git blame，找到是誰寫的。」\n\n新人跑完：「……顯示是你兩年前寫的。」\n\n資深工程師沉默了三秒：「那就繼續跑下去，看看那時候是誰 Review 的。」",
