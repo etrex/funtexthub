@@ -2280,6 +2280,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-093",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/the-two-faces-of-llm-generated-code-sra8",
+      "sourceNote": "LLM hallucinates non-existent functions / fake libraries — rewritten as a chat with a coworker",
+      "tags": ["LLM", "幻覺", "套件", "Stack Overflow", "AI"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，工程師傳訊給同事。\n\nA：「你寫過 `lodash.unfuckThis()` 這個 function 嗎？」\n\nB：「⋯⋯沒有。」\n\nA：「那 `axios.smartRetry()` 呢？」\n\nB：「也沒有。」\n\nA：「那 `react-magic-form`？」\n\nB：「兄弟，你 npm install 之前要不要先確認一下這套件存不存在？」\n\nA：「Cursor 跟我說有，而且還寫得很順。」\n\nB：「⋯⋯Cursor 是不是又開心過頭了？」\n\nA：「我已經 debug 三個小時了，每一個 import 都是它編出來的。」\n\nB：「那個函式庫的 GitHub 星星數是多少？」\n\nA：「⋯⋯零。因為 repo 不存在。」",
+          "editorNote": "傳給每個被 AI 自信滿滿建議了一個不存在 npm 套件的工程師，特別是凌晨兩點還在 debug 的那種",
+          "variations": [
+            "AI 寫程式三大病徵：自信、流暢、完全瞎掰。",
+            "現在的 debug 流程：先確認 import 的東西是不是真實存在的。"
+          ]
+        },
+        "en": {
+          "content": "2 AM. Dev pings coworker on Slack.\n\nA: \"Have you ever used `lodash.unfuckThis()`?\"\n\nB: \"...No.\"\n\nA: \"What about `axios.smartRetry()`?\"\n\nB: \"Also no.\"\n\nA: \"`react-magic-form`?\"\n\nB: \"Bro. Do you check if a package exists before you npm install it?\"\n\nA: \"Cursor said it exists. Wrote the whole thing in one shot.\"\n\nB: \"...Did Cursor get a little too excited again?\"\n\nA: \"I've been debugging for three hours. Every single import is hallucinated.\"\n\nB: \"How many stars does that library have on GitHub?\"\n\nA: \"...Zero. The repo doesn't exist.\"",
+          "editorNote": "Send to anyone who's spent hours debugging an AI's confidently-suggested phantom npm package — bonus points if it was 2 AM",
+          "variations": [
+            "Three signs your AI is hallucinating code: confidence, fluency, and zero relationship to reality.",
+            "Modern debugging step one: verify that the things you're importing actually exist."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-094",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Vibe coder hires AI agents and forgets how to code — rewritten as a job interview scene",
+      "tags": ["vibe coding", "面試", "AI 依賴", "技能退化", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "技術面試。\n\n面試官：「請你白板上寫一個 reverse linked list。」\n\n候選人：「⋯⋯白板？」\n\n面試官：「對，白板。」\n\n候選人：「沒有 Cursor 嗎？」\n\n面試官：「沒有。」\n\n候選人：「沒有 Claude？」\n\n面試官：「沒有。」\n\n候選人：「⋯⋯那有 Wi-Fi 嗎？」\n\n面試官：「沒有。」\n\n候選人盯著白板看了五分鐘，舉手：「不好意思，我想請問一下，linked list 是什麼？」\n\n面試官：「你履歷上寫你五年資深前端。」\n\n候選人：「對啊，但那五年我都在 prompt。」",
+          "editorNote": "傳給每個發現自己已經五年沒手寫程式的工程師，以及每個還在堅持白板面試的面試官",
+          "variations": [
+            "2026 年的技能退化：你不是忘了怎麼寫，你是忘了怎麼想。",
+            "新的面試紅旗：候選人問「白板上可以開 Cursor 嗎？」"
+          ]
+        },
+        "en": {
+          "content": "Technical interview.\n\nInterviewer: \"Please reverse a linked list on the whiteboard.\"\n\nCandidate: \"...The whiteboard?\"\n\nInterviewer: \"Yes. The whiteboard.\"\n\nCandidate: \"No Cursor?\"\n\nInterviewer: \"No.\"\n\nCandidate: \"No Claude?\"\n\nInterviewer: \"No.\"\n\nCandidate: \"...Is there Wi-Fi?\"\n\nInterviewer: \"No.\"\n\nCandidate stares at the whiteboard for five minutes, then raises a hand: \"Sorry, quick question. What's a linked list?\"\n\nInterviewer: \"Your resume says five years senior frontend.\"\n\nCandidate: \"Yeah. Five years of prompting.\"",
+          "editorNote": "Send to anyone who suddenly realized they haven't hand-written code in years, or to any interviewer still doing whiteboards in 2026",
+          "variations": [
+            "2026 skill atrophy: you didn't forget how to write code, you forgot how to think about it.",
+            "New interview red flag: candidate asks if Cursor is allowed on the whiteboard."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-095",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://programmerhumor.io/memes/merge-conflicts",
+      "sourceNote": "Merge conflict resolved by accepting all incoming changes — rewritten as workplace dialogue",
+      "tags": ["git", "merge conflict", "懶人解法", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人：「學長，這個 merge conflict 怎麼解？」\n\n學長走過來看了一眼螢幕，整整三百行紅紅綠綠。\n\n學長：「全部 accept incoming。」\n\n新人：「啊？可是我寫了兩天⋯⋯」\n\n學長：「全部 accept incoming。」\n\n新人：「可是測試會壞⋯⋯」\n\n學長：「全部 accept incoming。」\n\n新人：「可是⋯⋯」\n\n學長：「你寫的那兩天的東西，真的有比較重要嗎？」\n\n新人沉默了三秒，按下 accept incoming。\n\n下班前，主管走過來：「欸新人，那兩天的功能呢？」\n\n新人指著學長。\n\n學長假裝在看別的螢幕。",
+          "editorNote": "傳給每個解 merge conflict 解到懷疑人生的工程師，以及每個曾經教新人「全部 accept incoming」的學長",
+          "variations": [
+            "Merge conflict 的最終解法：reset hard 到 main，然後假裝什麼事都沒發生。",
+            "工程師三大絕招：accept incoming、accept current、刪掉 branch 重來。"
+          ]
+        },
+        "en": {
+          "content": "Junior: \"Hey, how do I resolve this merge conflict?\"\n\nSenior walks over. Three hundred lines of red and green.\n\nSenior: \"Accept incoming. All of it.\"\n\nJunior: \"Wait, but I worked on this for two days...\"\n\nSenior: \"Accept incoming.\"\n\nJunior: \"But the tests will break...\"\n\nSenior: \"Accept incoming.\"\n\nJunior: \"But...\"\n\nSenior: \"Was the work you did in those two days really that important?\"\n\nJunior pauses for three seconds, then clicks accept incoming.\n\nEnd of day. Manager walks over: \"Hey, where's that feature you were building?\"\n\nJunior points at Senior.\n\nSenior pretends to be very busy looking at a different monitor.",
+          "editorNote": "Send to anyone who's resolved a merge conflict by giving up, and every senior who's ever told a junior to just accept incoming",
+          "variations": [
+            "Final form of merge conflict resolution: hard reset to main and pretend nothing happened.",
+            "Three developer power moves: accept incoming, accept current, delete the branch and start over."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-096",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
+      "sourceNote": "Daily standup where everyone reports what their AI agents did — rewritten as a fresh standup scene",
+      "tags": ["standup", "AI agent", "敏捷", "遠端工作", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Daily standup。\n\nScrum master：「大家輪流報告昨天做了什麼。」\n\n後端：「我的 agent 修了七個 bug，merge 了三個 PR。」\n\n前端：「我的 agent 重構了整個 dashboard。」\n\nQA：「我的 agent 寫了兩百個測試，全綠。」\n\nSRE：「我的 agent 半夜處理了三次 incident，沒叫醒我。」\n\nScrum master：「⋯⋯那你們昨天做了什麼？」\n\n（漫長的沉默）\n\n後端：「我看了一下 Slack。」\n\n前端：「我訂了午餐。」\n\nQA：「我去健身房。」\n\nSRE：「我睡了八小時，這輩子第一次。」\n\nScrum master：「⋯⋯所以還需要 standup 嗎？」\n\n四人異口同聲：「不需要。」\n\nScrum master：「那我也跟我的 agent 說，明天不用主持了。」",
+          "editorNote": "傳給每個還在開 standup 的工程師、每個被 standup 拖垮一天節奏的人，以及每個開始懷疑自己工作內容的角色",
+          "variations": [
+            "2026 年的 standup：人類報告 agent 的進度，agent 報告人類在發呆。",
+            "敏捷開發新定義：你的 agent 跑得有多敏捷。"
+          ]
+        },
+        "en": {
+          "content": "Daily standup.\n\nScrum master: \"Everyone share what you did yesterday.\"\n\nBackend: \"My agent fixed seven bugs and merged three PRs.\"\n\nFrontend: \"My agent refactored the entire dashboard.\"\n\nQA: \"My agent wrote two hundred tests. All green.\"\n\nSRE: \"My agent handled three incidents overnight. Didn't wake me up.\"\n\nScrum master: \"...And what did all of you do yesterday?\"\n\n(Long silence.)\n\nBackend: \"Checked Slack.\"\n\nFrontend: \"Ordered lunch.\"\n\nQA: \"Went to the gym.\"\n\nSRE: \"Slept eight hours. First time in my life.\"\n\nScrum master: \"...Do we still need this standup?\"\n\nAll four, in unison: \"No.\"\n\nScrum master: \"Cool. I'll tell my agent it doesn't need to run this meeting tomorrow either.\"",
+          "editorNote": "Send to anyone still doing standups, anyone whose flow gets shredded by standups, and anyone quietly wondering what their job actually is anymore",
+          "variations": [
+            "2026 standup: humans report on what their agents did, agents report on what their humans didn't do.",
+            "New definition of agile: how agile your agent is."
+          ]
+        }
+      }
     }
   ]
 }

@@ -1161,6 +1161,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "aq-051",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://dailyview.tw/popular/detail/33240",
+      "sourceNote": "初級大人/高級大人 報稅情境 Threads 2026 viral; rewritten original",
+      "tags": ["初級大人", "高級大人", "報稅", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人遇到報稅：\n打開系統、看了三秒、馬上關掉，傳訊息問媽。\n\n高級大人遇到報稅：\n自己算完所有扣除額，順便提醒爸媽今年的列舉項目要記得留收據。\n\n所謂長大，\n就是從那個被報稅嚇到的人，\n變成那個提醒別人報稅的人。",
+          "editorNote": "傳給那個每年五月都在哀嚎、需要爸媽手把手帶著按下一步的朋友",
+          "variations": [
+            "初級大人：「列舉扣除是什麼？」高級大人：「捐款收據、保費、房貸利息、醫藥費，給我，我幫你弄。」"
+          ]
+        },
+        "en": {
+          "content": "Junior adult doing taxes:\nopens the portal, stares for three seconds, closes it, texts mom.\n\nSenior adult doing taxes:\nfinishes their own deductions, then reminds their parents to keep receipts for itemized claims this year.\n\nGrowing up means\ngoing from the person terrified by tax season\nto the person reminding everyone else about it.",
+          "editorNote": "For the friend who panics every April and needs mom to walk them through clicking 'next'",
+          "variations": [
+            "Junior adult: 'What's an itemized deduction?' Senior adult: 'Donation receipts, insurance, mortgage interest, medical bills — hand them over, I'll do it for you.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-052",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://cava.tw/topic/fun-fact/263554",
+      "sourceNote": "初級大人/高級大人 過年拜拜場景 viral Threads thread; rewritten original",
+      "tags": ["初級大人", "高級大人", "過年", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人過年回家：\n手裡拿著一束香，不敢插，偷偷塞給阿嬤。\n\n高級大人過年回家：\n安排祭拜順序、提醒誰要先拜哪一爐、順便教晚輩怎麼拿香。\n\n小孩桌跟大人桌之間，\n隔著一整套你還沒學會的儀式。",
+          "editorNote": "傳給那個每年回家都被叫去小孩桌、拜拜時不敢自己動手的朋友",
+          "variations": [
+            "初級大人吃年夜飯：等被叫上桌。高級大人吃年夜飯：負責叫所有人上桌。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult going home for the holidays:\nholds a stick of incense, too afraid to place it, secretly hands it to grandma.\n\nSenior adult going home for the holidays:\nplans the order of rituals, reminds everyone which altar comes first, teaches the kids how to hold the incense.\n\nBetween the kids' table and the grown-ups' table\nlies a whole set of customs you still haven't learned.",
+          "editorNote": "For the friend who still gets sent to the kids' table and freezes during family rituals",
+          "variations": [
+            "Junior adult at the family dinner: waits to be called to the table. Senior adult: is the one calling everyone to the table."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-053",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://punhour.com/millennial-jokes/",
+      "sourceNote": "millennial 'bank account in long-distance relationship with lifestyle' viral 2026 caption; rewritten original",
+      "tags": ["長大", "金錢", "生活", "以為長大後"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的存款跟我的生活方式，\n目前正在遠距離戀愛。\n\n它在很遠的地方默默想我，\n我在這裡假裝我們還在一起。\n\n每個月發薪日，\n就像短暫的見面，\n甜蜜三天，\n剩下的二十八天，\n各自努力。",
+          "editorNote": "傳給那個月底總是說「下個月一定要存錢」的朋友，他每個月都這樣說",
+          "variations": [
+            "薪水的生命週期：入帳、繳卡費、房租、付完水電、看餘額、嘆氣、結束。全程不超過七天。"
+          ]
+        },
+        "en": {
+          "content": "My bank account and my lifestyle\nare currently in a long-distance relationship.\n\nIt's somewhere far away, quietly missing me;\nI'm over here pretending we're still together.\n\nPayday is our brief reunion —\nthree sweet days,\nthe other twenty-eight\nwe each just survive on our own.",
+          "editorNote": "For the friend who swears 'next month I'm going to start saving' — and has been saying it every month for years",
+          "variations": [
+            "Life cycle of a paycheck: deposit, credit card bill, rent, utilities, check balance, sigh, the end. Total runtime: under seven days."
+          ]
+        }
+      }
     }
   ]
 }

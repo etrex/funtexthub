@@ -1874,6 +1874,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-077",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "",
+      "sourceNote": "original composition inspired by quiet courage themes from Mary Anne Radmacher",
+      "tags": ["勵志", "勇氣", "堅持", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "勇敢不一定是大聲宣告。\n\n有時候勇敢，\n只是今天累到不行，\n還願意小聲跟自己說：\n「明天再試一次。」",
+          "editorNote": "送給那種已經很努力、卻覺得自己不夠勇敢的人。願意明天再起床，本身就是一種了不起的勇氣。",
+          "variations": [
+            "真正的勇敢，不是不害怕，是怕得要死還是去做。"
+          ]
+        },
+        "en": {
+          "content": "Courage isn't always loud.\n\nSometimes courage is\nbeing wrecked at the end of the day\nand still whispering to yourself:\n\"I'll try again tomorrow.\"",
+          "editorNote": "For the person who's already trying their hardest but doesn't feel brave. Choosing to get up again tomorrow is its own kind of bravery.",
+          "variations": [
+            "Real courage isn't the absence of fear. It's being scared out of your mind and doing it anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-078",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "",
+      "sourceNote": "original composition on self-acceptance and not comparing yourself to others",
+      "tags": ["勵志", "自我接納", "不比較", "做自己"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不需要變成另一個人才值得被愛。\n\n月亮不會羨慕太陽刺眼，\n太陽也不會嫌月亮太安靜。\n\n你也是。\n你的節奏，本來就不是為了配合誰。",
+          "editorNote": "適合那種總覺得自己「不夠好」、一直拿別人標準衡量自己的人。每個人發光的方式本來就不一樣。",
+          "variations": [
+            "你不必把自己改造成別人喜歡的樣子，才能被喜歡。先喜歡自己原本的樣子，才是長久的事。"
+          ]
+        },
+        "en": {
+          "content": "You don't have to become someone else to deserve love.\n\nThe moon doesn't envy the sun for being bright.\nThe sun doesn't resent the moon for being quiet.\n\nNeither should you.\nYour pace was never meant to match anyone else's.",
+          "editorNote": "For anyone who keeps measuring themselves against everyone else and coming up short. People shine in different ways, and that's the whole point.",
+          "variations": [
+            "You don't have to edit yourself into someone more lovable. Liking who you already are is the longer game."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-079",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "",
+      "sourceNote": "original composition on celebrating small daily wins",
+      "tags": ["勵志", "小確幸", "進步", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天有沒有：\n\n好好吃了一餐？\n回了一封拖很久的訊息？\n忍住沒罵那個白目同事？\n\n有的話，今天就不算白過。\n大事是無數小事堆起來的。",
+          "editorNote": "送給那種覺得「自己今天什麼都沒做」的人。日子是一天一天過的，那些小小的「我做到了」其實才是底氣的來源。",
+          "variations": [
+            "進步不一定是飛躍，今天比昨天好一點點，就已經很厲害了。"
+          ]
+        },
+        "en": {
+          "content": "Today, did you:\n\nEat a real meal?\nReply to that text you've been dodging?\nNot snap at the coworker who deserved it?\n\nThen today wasn't a wasted day.\nBig things are just small things, stacked.",
+          "editorNote": "For the person who feels like they 'did nothing' today. Life is built one day at a time, and those tiny 'I did it' moments are where confidence actually comes from.",
+          "variations": [
+            "Progress isn't always a leap. A little better than yesterday is still a real win."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-080",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "",
+      "sourceNote": "original composition on resilience inspired by Camus 'carrying on' theme",
+      "tags": ["勵志", "韌性", "撐下去", "低潮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有些日子，\n你能做的最了不起的事，\n就是把自己平安帶到睡前。\n\n不用解決什麼，\n不用變成更好的版本，\n只要還在，就贏了。",
+          "editorNote": "適合那種正在低潮、覺得自己什麼都做不好的人。有些日子撐過去，本身就是一種勝利，不需要再加任何條件。",
+          "variations": [
+            "你不需要每天都進步，能撐住的那一天，本身就值得被肯定。"
+          ]
+        },
+        "en": {
+          "content": "Some days,\nthe most heroic thing you can do\nis get yourself to bedtime in one piece.\n\nNothing to fix.\nNo better version to become.\nStill here counts as a win.",
+          "editorNote": "For the person in a rough patch, feeling like they're failing at everything. Some days, surviving is the whole achievement — no asterisks needed.",
+          "variations": [
+            "You don't have to grow every day. The days you just hold on are worth respecting too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-081",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "",
+      "sourceNote": "original composition on starting over without shame",
+      "tags": ["勵志", "重新開始", "放下", "不晚"],
+      "i18n": {
+        "zh-tw": {
+          "content": "重新開始不丟臉，\n硬撐著走錯的路才丟臉。\n\n發現走錯，\n轉頭那一刻才是真正在前進。\n\n沒有什麼太晚，\n只有不肯回頭。",
+          "editorNote": "適合那種已經發現方向不對、卻因為投入太多而不敢轉彎的人。沉沒成本是過去的，未來還是你的。",
+          "variations": [
+            "走錯方向時，停下來不是浪費，是省下更多時間。轉彎不是失敗，是長大。"
+          ]
+        },
+        "en": {
+          "content": "Starting over isn't embarrassing.\nGrinding down the wrong road is.\n\nThe moment you realize and turn around\nis the moment you actually start moving forward.\n\nNothing is too late.\nOnly refusing to turn back is.",
+          "editorNote": "For the person who knows they're on the wrong path but feels too invested to pivot. Sunk cost is in the past. The future is still yours to redirect.",
+          "variations": [
+            "Stopping when you realize you're going the wrong way isn't wasted time. It's saved time. Turning around isn't failure — it's growing up."
+          ]
+        }
+      }
     }
   ]
 }

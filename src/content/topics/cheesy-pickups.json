@@ -2531,6 +2531,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-094",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://viewlinez.com/food-pick-up-lines/",
+      "sourceNote": "Pizza/cheese food-themed cheesy line, expanded into a mini dialogue",
+      "tags": [
+        "食物",
+        "幽默",
+        "披薩"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「欸，你猜我最喜歡披薩的哪一部分？」\n「邊邊？起司？」\n「都不是，是『要不要分你一塊』這句話，因為通常我只想說給你聽。」",
+          "editorNote": "適合在聚餐、夜市、外送等場合使用，結合食物話題很自然，鋪陳後再轉甜不會太突兀",
+          "variations": [
+            "我最近研究披薩學，得到一個結論：披薩可以八等分，但我的心只想分你一塊。",
+            "別人加鳳梨我不會生氣，但你不來分這一片，我會。"
+          ]
+        },
+        "en": {
+          "content": "\"Quick question — what's your favorite part of a pizza?\"\n\"Uh, the crust? The cheese?\"\n\"Mine is the part where I get to ask if you want a slice. Honestly, I only really want to ask you.\"",
+          "editorNote": "Works at dinner, food courts, or when ordering delivery together — food banter eases into the cheesy turn so it doesn't feel forced",
+          "variations": [
+            "I did some serious pizza research and concluded it slices into eight, but my heart only slices for one — guess who.",
+            "I won't fight you over pineapple on pizza, but if you don't share this slice with me, we might have a problem."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-095",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://rizzpickups.com/rain-pickup-lines/",
+      "sourceNote": "Rainy day umbrella pickup line, reframed as a longer cozy exchange",
+      "tags": [
+        "天氣",
+        "甜",
+        "下雨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「外面雨好大欸。」\n「對啊，我剛剛差點被淋成落湯雞。」\n「那要不要躲我傘下？」\n「你的傘看起來很小耶。」\n「沒關係，我把整把傘都讓給你，反正我已經被你淋濕一整天了。」",
+          "editorNote": "下雨天最浪漫的時刻就是共撐一把傘，這段對話有畫面感，前面鋪陳越平淡，最後一句越有殺傷力",
+          "variations": [
+            "氣象局說今天有雨，我覺得他們漏報了一件事——你也會出現。",
+            "傘給你撐沒關係，我這種人在你面前本來就一直在融化。"
+          ]
+        },
+        "en": {
+          "content": "\"It's pouring out there.\"\n\"Yeah, I almost got soaked walking over.\"\n\"Want to share my umbrella?\"\n\"It looks kind of small though.\"\n\"That's fine, you take the whole thing — I've been getting soaked in you all day anyway.\"",
+          "editorNote": "Rainy days are prime sharing-an-umbrella territory; the casual setup makes the closer land softer instead of cringe",
+          "variations": [
+            "Forecast said rain today. They forgot to mention you'd show up too.",
+            "Take the umbrella — honestly, I've been melting around you since I got here."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-096",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://wittyrizz.com/library-pick-up-lines/",
+      "sourceNote": "Library/book lover line built around 'checking out' wordplay, expanded as a quiet whisper bit",
+      "tags": [
+        "圖書館",
+        "書",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「不好意思，借過一下。」\n「嗯？」\n「請問這本書好看嗎？」\n「還可以，你也想看？」\n「不是，我只是想問你——可以順便把你也借走嗎？我保證準時還，雖然我會偷偷續借一輩子。」",
+          "editorNote": "圖書館場景必備，前面壓低音量、最後一句突然變甜，反差很容易讓對方笑出聲被警衛瞪",
+          "variations": [
+            "你是這間圖書館裡最值得借走的一本，可惜館藏不外借。",
+            "我來圖書館本來是查資料，結果只想查你的IG。"
+          ]
+        },
+        "en": {
+          "content": "\"Sorry, excuse me a sec.\"\n\"Yeah?\"\n\"Is that book any good?\"\n\"It's okay — you wanna read it next?\"\n\"Actually, I was wondering if I could check you out too. I'll return you on time — fine, I might keep renewing forever.\"",
+          "editorNote": "Library setup, whispered delivery, then a soft punchline — perfect for that quiet giggle that gets you both shushed",
+          "variations": [
+            "Out of everything in this library, you're the title I'd most want to take home.",
+            "Came here to study, ended up wanting to memorize your name instead."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-097",
+      "dateAdded": "2026-05-02",
+      "sourceUrl": "https://capwavey.com/food-pickup-lines/",
+      "sourceNote": "Dessert/sweet-tooth themed line with a self-deprecating twist",
+      "tags": [
+        "食物",
+        "甜點",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我最近在減糖。」\n「真的假的？這麼健康？」\n「對啊，戒掉手搖、戒掉甜點、戒掉宵夜⋯」\n「然後呢？」\n「然後遇到你，整個破功，醫生說我這種糖份超標的，叫做戀愛性高血糖。」",
+          "editorNote": "適合喝下午茶、聊飲食的場合用，鋪陳一連串很努力的健康行為，最後用『遇到你就破功』反轉，又甜又有畫面",
+          "variations": [
+            "我以為自己戒糖成功了，沒想到你比所有甜點加起來還甜。",
+            "醫生問我最近吃什麼這麼甜，我說我只是看了你一眼。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm trying to cut sugar lately.\"\n\"Oh wow, going healthy?\"\n\"Yeah — no boba, no desserts, no late-night snacks…\"\n\"And?\"\n\"And then I met you and the whole plan collapsed. My doctor's calling it crush-induced hyperglycemia.\"",
+          "editorNote": "Great over coffee or dessert — the build-up of healthy effort makes the punchline land sweeter, literally",
+          "variations": [
+            "Thought I had the sugar thing under control, then you showed up sweeter than every dessert combined.",
+            "Doctor asked what I've been eating to spike my levels. I just looked at you once, that's it."
+          ]
+        }
+      }
     }
   ]
 }
