@@ -380,6 +380,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-017",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://chill.juksy.com/article/126677",
+      "sourceNote": "「觸爛」源自英文 true 諧音；2026 Threads 強烈認同用語，程度排序：觸 < 觸爛 < 觸爆",
+      "tags": ["觸爛", "認同", "Threads", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友：「週末加班的人應該領雙倍薪。」\n\n我：觸爛。\n\n不只觸爛，\n是觸爆，\n是觸到平流層。",
+          "editorNote": "「觸爛」源自英文 true 的諧音，2026 Threads 表強烈認同。程度由弱到強排序：觸 < 觸爛 < 觸爆。比說「對欸」有梗十倍，職場吐槽串底下最常出現",
+          "variations": [
+            "極致版：「他說週一不該存在，我直接觸爆，現場按愛心三次。」"
+          ]
+        },
+        "en": {
+          "content": "Friend: 'Weekend overtime should pay double.'\n\nMe: True-broken.\n\nNot just true-broken,\nit's true-exploded,\nit's true-launched-into-the-stratosphere.",
+          "editorNote": "'True-broken' (觸爛) is a 2026 Taiwan slang from the English 'true' phonetic — used to signal strong agreement. The intensity ladder: true (觸) < true-broken (觸爛) < true-exploded (觸爆). Drop in workplace rant threads to instantly belong",
+          "variations": [
+            "Max version: 'He said Mondays shouldn't exist — I went full true-exploded and triple-tapped the like.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-018",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://chill.juksy.com/article/126677",
+      "sourceNote": "「M3」源自英文 You know what I'm saying 快速發音；2026 Threads 結尾用語",
+      "tags": ["M3", "口頭禪", "Threads", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是討厭加班，\n我是討厭沒被看見的加班，\nM3？\n\n你不用回我，\n你點頭我就知道你 M3 了。",
+          "editorNote": "「M3」源自英文 You know what I'm saying 唸快變成的諧音，2026 Threads 句尾高頻使用，等於「你懂我意思吧」。傳訊息結尾甩一個 M3，比加問號還潮",
+          "variations": [
+            "簡訊版：「今天不想出門，但又怕躺到下禮拜，M3。」"
+          ]
+        },
+        "en": {
+          "content": "I don't hate overtime —\nI hate overtime no one notices,\nM3?\n\nYou don't have to reply,\njust nod and I'll know you M3.",
+          "editorNote": "'M3' is 2026 Taiwan Threads' favorite sentence-ender — derived from 'you know what I'm saying' said fast enough to sound like M3. Tossing it at the end of a vent reads way fresher than a question mark",
+          "variations": [
+            "Text version: 'Don't want to leave the house, also scared I'll lie here till next week, M3.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-019",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://www.realtimemandarin.com/p/255-chinas-official-top-phrases-of",
+      "sourceNote": "「發瘋文學」2025–2026 跨海華語圈共通梗；用誇張崩潰文體紓壓",
+      "tags": ["發瘋文學", "Threads", "情緒", "誇飾"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我現在打開的不是試算表，\n是地獄。\n\n第三欄第七列的數字\n在嘲笑我的人生，\n我要去廁所跟它對峙——\n\n以上發瘋文學一篇，\n寫完繼續上班。",
+          "editorNote": "「發瘋文學」是 2025–2026 高頻紓壓文體，用誇張崩潰的句子代替「我好累」。重點是寫完還是要回去上班，這就是當代成年人的療癒儀式",
+          "variations": [
+            "感情版：「他已讀我四小時，我已經寫完三千字發瘋文學，可以投稿了。」"
+          ]
+        },
+        "en": {
+          "content": "What I just opened isn't a spreadsheet,\nit's hell.\n\nThe number in column C row 7\nis personally mocking my life choices.\nI'm going to the bathroom to confront it —\n\nThat's one (1) madness-literature post.\nNow back to work.",
+          "editorNote": "'Madness literature' (發瘋文學) is the 2025–2026 cross-Mandarin coping format — over-the-top breakdown prose used in place of 'I'm tired.' The whole bit is that you write it and then go right back to your day job. The ritual is the point",
+          "variations": [
+            "Romance edition: 'He's left me on read for four hours. I've written 3,000 words of madness literature. Ready to submit to a journal.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-020",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Chinese_Internet_slang",
+      "sourceNote": "「酸民」長青網路用語；2026 Threads 仍高頻使用，反譏酸言酸語的人",
+      "tags": ["酸民", "Threads", "反擊", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "酸民留言：「也沒多好看。」\n\n我回：謝謝你今天的酸度。\n\n沒有你，\n我的留言區會少一份檸檬，\n也會少一份免費的演算法流量。",
+          "editorNote": "「酸民」指網路上專門酸言酸語的人，2026 Threads 仍是高頻用語。比起對嗆，把對方當演算法燃料更高級，這句適合貼文被無聊人嘴的時候",
+          "variations": [
+            "佛系版：「謝謝酸民，我不討厭你，演算法討厭空白留言。」"
+          ]
+        },
+        "en": {
+          "content": "Sour-citizen comment: 'It's not that good.'\n\nMe: thanks for today's acidity.\n\nWithout you,\nmy comment section would be short one lemon,\nand short one free boost from the algorithm.",
+          "editorNote": "'Sour citizens' (酸民) is the long-running Taiwan term for trolls who specialize in petty negativity, still going strong on 2026 Threads. The high-class move isn't clapping back — it's framing them as algorithm fuel. Pull this out when a stranger nitpicks your post",
+          "variations": [
+            "Zen version: 'Thanks, sour citizen — I don't hate you. The algorithm hates empty comment sections.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -1782,6 +1782,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-073",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "",
+      "sourceNote": "original composition inspired by self-compassion themes",
+      "tags": ["勵志", "自我對話", "溫柔", "自我接納"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你對朋友這麼溫柔，\n為什麼換成自己就那麼兇？\n\n下次又想罵自己笨的時候，\n試著用你會跟好朋友講的話，\n講給自己聽一次。",
+          "editorNote": "適合那種對別人寬容、對自己嚴苛到誇張的人。換個角度跟自己說話，效果差很多。",
+          "variations": [
+            "你願意原諒朋友的事，也記得留一份給自己。"
+          ]
+        },
+        "en": {
+          "content": "You're so gentle with your friends.\nWhy do you turn into a drill sergeant the second it's about you?\n\nNext time you want to call yourself stupid,\ntry saying what you'd say to a good friend\nin that exact same situation.",
+          "editorNote": "For people who give everyone else grace and zero to themselves. Switching the voice in your head changes everything.",
+          "variations": [
+            "The kindness you'd offer a friend? Save some of that for yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-074",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "",
+      "sourceNote": "original composition inspired by 'starting badly beats waiting perfectly' theme",
+      "tags": ["勵志", "完美主義", "行動力", "開始"],
+      "i18n": {
+        "zh-tw": {
+          "content": "做得爛的版本，\n永遠贏過還沒開始的版本。\n\n第一次本來就會醜、會卡、會出錯，\n但那是唯一通往「做得好」的路。\n沒有人是直接從零跳到精通的。",
+          "editorNote": "送給那種一直在「等準備好再開始」的完美主義者。爛的開始才是真的開始，腦中的完美版永遠不會出生。",
+          "variations": [
+            "你今天做出來的爛東西，是明天好東西的草稿。沒有第一版，就沒有後面的版本。"
+          ]
+        },
+        "en": {
+          "content": "A bad version that exists\nbeats a perfect version still in your head.\n\nThe first try is supposed to be ugly and clunky.\nThat's literally the only road to good.\nNobody skips straight from zero to expert.",
+          "editorNote": "For the perfectionist stuck in 'I'll start when it's ready.' A messy start is the only real start. The flawless version in your head never gets born.",
+          "variations": [
+            "Today's rough draft is tomorrow's good thing. No version one, no version anything."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-075",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "",
+      "sourceNote": "original composition on asking for help",
+      "tags": ["勵志", "求助", "勇氣", "人際"],
+      "i18n": {
+        "zh-tw": {
+          "content": "開口求助，\n不是承認自己很弱，\n是承認自己是人。\n\n你願意接住別人，\n也要練習讓別人接住你一次。",
+          "editorNote": "給那種什麼都自己扛、不好意思麻煩別人的人。求助不丟臉，硬撐到崩潰才是真的傷害自己。",
+          "variations": [
+            "你不是非要一個人扛完所有事才叫堅強，會說「我需要幫忙」也是一種能力。"
+          ]
+        },
+        "en": {
+          "content": "Asking for help\nisn't admitting you're weak.\nIt's admitting you're human.\n\nYou catch other people all the time —\ntry letting someone catch you, just once.",
+          "editorNote": "For the person who carries everything alone because they don't want to be a bother. Asking for help isn't shameful. White-knuckling it until you crash actually is.",
+          "variations": [
+            "Strong isn't carrying everything solo. Strong is also being able to say 'I need a hand.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-076",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "",
+      "sourceNote": "original composition on plateaus and invisible progress",
+      "tags": ["勵志", "停滯期", "成長", "耐心"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你以為自己沒在進步，\n其實是進步從外表看不出來而已。\n\n竹子前四年只長三公分，\n第五年一口氣衝六公尺。\n你只是還在長根的階段。",
+          "editorNote": "適合那種努力很久卻看不到結果、開始懷疑自己的人。看不見的成長，不代表沒有在發生。",
+          "variations": [
+            "看不到變化，不代表沒在累積。很多事情是先在地下長根，時候到了才一次破土。"
+          ]
+        },
+        "en": {
+          "content": "You think you're not improving.\nYou just can't see it from the outside yet.\n\nBamboo grows three centimeters in four years,\nthen shoots up six meters in the fifth.\nYou're still in the root-growing phase.",
+          "editorNote": "For someone grinding hard with no visible results, starting to doubt themselves. Invisible growth is still growth — it just hasn't surfaced yet.",
+          "variations": [
+            "No visible change doesn't mean nothing's happening. Some things grow roots underground for a long time before they finally break the surface."
+          ]
+        }
+      }
     }
   ]
 }

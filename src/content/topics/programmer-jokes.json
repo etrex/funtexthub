@@ -2180,6 +2180,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-089",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://programmerhumor.io/memes/pull-request",
+      "sourceNote": "Massive PR / nobody-will-review-it humor — rewritten as a Slack thread scene",
+      "tags": ["Pull Request", "Code Review", "Slack", "工程師日常", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週五下午四點，Slack 上跳出一個 PR review 請求。\n\n小明：「拜託，誰幫我看一下這個 PR？」\n\n阿傑：「多大？」\n\n小明：「不多，4,287 個檔案，新增 92 萬行，刪除 41 萬行。」\n\n阿傑：「這是什麼？重寫整個系統？」\n\n小明：「沒有啦，只是把 var 改成 let。」\n\n阿傑：「⋯⋯所有 micro-service 一起改？」\n\n小明：「嗯。AI 說一次改完比較快。」\n\n（沉默五分鐘）\n\nTeam Lead：「LGTM。」",
+          "editorNote": "傳給每個曾經被丟過巨無霸 PR、或是發過巨無霸 PR 後沒人敢點開的工程師",
+          "variations": [
+            "PR 越大，review 越快，因為沒人真的看。",
+            "Code review 三大境界：認真看、隨便看、打 LGTM。第三境界最常見。"
+          ]
+        },
+        "en": {
+          "content": "Friday, 4 PM. A PR review request pops up in Slack.\n\nDev: \"Anyone free to review this real quick?\"\n\nTeammate: \"How big?\"\n\nDev: \"Not much. 4,287 files, +920k lines, -410k lines.\"\n\nTeammate: \"What is this, a full rewrite?\"\n\nDev: \"Nope. Just renamed a variable.\"\n\nTeammate: \"...across every microservice?\"\n\nDev: \"Yeah. The AI said it'd be faster to do it all at once.\"\n\n(Five minutes of silence.)\n\nTeam Lead: \"LGTM.\"",
+          "editorNote": "Send to anyone who's been ambushed with a 4,000-file PR — or shipped one knowing nobody would actually read it",
+          "variations": [
+            "The bigger the PR, the faster the review — because nobody's actually reading it.",
+            "Three levels of code review: read every line, skim it, drop an LGTM. Level three is the most common."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-090",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://programmerhumor.io/memes/legacy-code",
+      "sourceNote": "Legacy code haunted mansion / TODO from decades ago — rewritten as a horror movie cold open",
+      "tags": ["Legacy Code", "技術債", "重構", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人第一天上工，被丟了一個檔案叫 `core_logic.js`。\n\n他打開來看，第三行寫著：\n\n`// TODO: 改寫這段，等 IE6 不再支援的時候。— Kevin, 2008`\n\n他往下滑：\n\n`// FIXME: 這個 if 不能刪，刪了會壞，不知道為什麼。— Wendy, 2014`\n\n再往下：\n\n`// 我也不知道這在幹嘛，但測試會過。— Jason, 2019`\n\n最底下一行：\n\n`// 致下一個看到這個檔案的人：跑啊。— Anonymous, 2024`\n\n新人關掉編輯器，走去找主管：「我可以做新功能嗎？」",
+          "editorNote": "傳給每個接手過 legacy code 的工程師，特別是那些還沒走的",
+          "variations": [
+            "Legacy code 的定義：不是你寫的、不能改、不能刪、不能問原作者，因為他已經離職五年。",
+            "技術債的真相：每一行 TODO 都是一個離職員工的墓碑。"
+          ]
+        },
+        "en": {
+          "content": "A new hire's first day. Someone hands them a file called `core_logic.js`.\n\nLine three:\n\n`// TODO: rewrite this once IE6 is dead. — Kevin, 2008`\n\nScroll down:\n\n`// FIXME: do not delete this if-block. It breaks if you do. No idea why. — Wendy, 2014`\n\nFurther down:\n\n`// I don't know what this does, but the tests pass. — Jason, 2019`\n\nVery bottom:\n\n`// To whoever opens this file next: run. — Anonymous, 2024`\n\nThe new hire closes their editor and walks over to their manager: \"Can I work on something new instead?\"",
+          "editorNote": "Send to anyone who has inherited legacy code — especially the ones who haven't quit yet",
+          "variations": [
+            "Legacy code definition: code you didn't write, can't change, can't delete, and can't ask about because the original author quit five years ago.",
+            "The truth about technical debt: every TODO comment is a tombstone for someone who left the company."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-091",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "On-call / incident postmortem humor — fresh angle as a postmortem meeting where blame loops back to AI",
+      "tags": ["on-call", "事故", "postmortem", "AI", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週一早上的 postmortem 會議。\n\n主持人：「我們來檢討週六凌晨的事故，根因分析。」\n\n後端：「是 AI agent 自動 merge 了一個 PR。」\n\n主持人：「那個 PR 是誰開的？」\n\n後端：「另一個 AI agent。」\n\n主持人：「⋯⋯誰 review 的？」\n\n後端：「也是 AI。」\n\n主持人：「那誰負責？」\n\n（全場沉默）\n\nSRE：「值班的 AI 已經自己寫好 postmortem 了，要我念給大家聽嗎？」\n\n主持人：「⋯⋯算了，我們直接 action item，下次找個人類進這個流程。」",
+          "editorNote": "傳給每個 on-call 過、被 PagerDuty 半夜叫醒、寫過 postmortem 的工程師——特別是那些開始懷疑自己存在意義的",
+          "variations": [
+            "2026 年 postmortem 第一條 action item：找一個人類進來流程裡，至少有人可以被罵。",
+            "事故根因分析的最高境界：所有環節都是 AI，沒有人類可以負責。"
+          ]
+        },
+        "en": {
+          "content": "Monday morning postmortem.\n\nFacilitator: \"Let's review Saturday's 3 AM incident. Root cause analysis.\"\n\nBackend dev: \"An AI agent auto-merged a PR.\"\n\nFacilitator: \"Who opened the PR?\"\n\nBackend dev: \"Another AI agent.\"\n\nFacilitator: \"...who reviewed it?\"\n\nBackend dev: \"Also AI.\"\n\nFacilitator: \"Who's accountable here?\"\n\n(Long silence.)\n\nSRE: \"The on-call AI already wrote the postmortem doc. Want me to read it out loud?\"\n\nFacilitator: \"...skip it. Action item: put a human somewhere in this loop next time.\"",
+          "editorNote": "Send to anyone who's been on-call, been jolted awake by PagerDuty, or written a postmortem — especially those starting to wonder why they're still in the loop",
+          "variations": [
+            "Top action item from any 2026 postmortem: put a human back in the loop, just so there's someone to yell at.",
+            "Peak incident root cause analysis: every step was an AI, and no human is accountable for anything."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-092",
+      "dateAdded": "2026-04-30",
+      "sourceUrl": "https://programmerhumor.io/memes/tech-debt",
+      "sourceNote": "C-suite mandates AI-powered feature humor — rewritten as a sprint planning scene",
+      "tags": ["管理層", "AI", "buzzword", "需求", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Sprint planning。\n\nPM：「老闆說每一個功能都要加上 AI。」\n\n工程師：「我們的功能是『使用者登入』。」\n\nPM：「對，所以要加 AI。」\n\n工程師：「⋯⋯AI 登入？」\n\nPM：「對，AI-powered 登入。」\n\n工程師：「那是什麼？」\n\nPM：「就是讓 AI 判斷使用者是不是該登入。」\n\n工程師：「我們已經有密碼驗證了。」\n\nPM：「但 demo 的時候要看起來很 AI。」\n\n工程師：「⋯⋯所以我加一個 loading 動畫，上面寫『AI 思考中』，可以嗎？」\n\nPM：「完美。下一個 ticket。」",
+          "editorNote": "傳給每個被「全部加上 AI」需求逼瘋的工程師，以及每個被「demo 起來像 AI」這種需求灌爆 backlog 的 PM",
+          "variations": [
+            "2026 年產品需求三大規則：要 AI、要 AI、不管什麼功能都要 AI。",
+            "把 loading 動畫改成『AI 思考中』，融資輪估值就 +30%。"
+          ]
+        },
+        "en": {
+          "content": "Sprint planning.\n\nPM: \"Leadership wants every feature to be AI-powered.\"\n\nDev: \"Our feature is 'user login.'\"\n\nPM: \"Right. So we add AI.\"\n\nDev: \"...AI login?\"\n\nPM: \"Yes. AI-powered login.\"\n\nDev: \"What does that even mean?\"\n\nPM: \"AI decides whether the user should be allowed to log in.\"\n\nDev: \"We already have password validation.\"\n\nPM: \"But it needs to look AI in the demo.\"\n\nDev: \"...What if I add a spinner that says 'AI thinking'?\"\n\nPM: \"Perfect. Next ticket.\"",
+          "editorNote": "Send to any developer drowning in 'add AI to everything' tickets, and any PM whose backlog has been hijacked by 'make it look AI in the demo'",
+          "variations": [
+            "Three rules of 2026 product requirements: add AI, add AI, and whatever the feature is — add AI.",
+            "Rename your loading spinner to 'AI thinking' and your next funding round adds 30% to the valuation."
+          ]
+        }
+      }
     }
   ]
 }
