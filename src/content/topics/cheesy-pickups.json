@@ -2647,6 +2647,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-098",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://pikliners.com/gen-z-pick-up-lines/",
+      "sourceNote": "Discord/notification themed Gen Z line, expanded into a chat",
+      "tags": [
+        "現代",
+        "科技",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「欸，你覺得我是不是該關通知？」\n「為什麼？」\n「我手機一直叮叮叮，吵到我沒辦法做事。」\n「那不就關掉就好？」\n「可是我發現一件事——只有你的訊息響的時候，我會立刻放下手邊所有事。」",
+          "editorNote": "適合已經有在傳訊息的階段使用，鋪陳『手機很煩』再轉到『但你不一樣』，把對方放在一個獨特的位置",
+          "variations": [
+            "我把全世界的通知都關了，只留你那一格——這不叫偏心，這叫優先順序。",
+            "我手機從早響到晚，但我發現只要不是你傳的，我都不太想點開。"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, do you think I should turn off my notifications?\"\n\"Why?\"\n\"My phone won't stop pinging, I can't focus on anything.\"\n\"Then just mute it.\"\n\"The problem is — I noticed I drop everything the second your name shows up. So muting it kind of defeats the point.\"",
+          "editorNote": "Use this once you're already in a regular texting rhythm — setting up 'my phone is annoying' before pivoting to 'but you're different' makes them feel singled out in a good way",
+          "variations": [
+            "I muted every notification on Earth except yours. That's not favoritism, that's just sorting by importance.",
+            "My phone buzzes all day, but I only actually open the ones from you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-099",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://bestrizzlins.com/cheesy-funny-rizz-pickup-lines/",
+      "sourceNote": "Cheese pizza melt-my-heart trope rewritten as a longer back-and-forth",
+      "tags": [
+        "食物",
+        "諧音",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道我為什麼最近不太吃披薩了嗎？」\n「為什麼？吃膩了？」\n「不是，是因為我發現一件事——上面的起司會融化，可是我的心已經先你一步融化了，根本搶不到。」",
+          "editorNote": "聚餐點披薩的時候丟出來最好笑，把吃食物的場景跟自己心動連在一起，畫面感很強",
+          "variations": [
+            "我最近不吃焗烤了，因為我發現我心融的速度比起司還快。",
+            "店員問我披薩要不要加起司，我說不用了，我看到你的時候已經融化過一輪了。"
+          ]
+        },
+        "en": {
+          "content": "\"Wanna know why I stopped ordering pizza lately?\"\n\"Why? Got tired of it?\"\n\"Nope. I just realized something — the cheese melts on top, but my heart already melted first the second you walked in. The cheese never stood a chance.\"",
+          "editorNote": "Lands hardest at a group dinner when pizza actually shows up — tying the food in the room to your reaction makes the whole thing more vivid",
+          "variations": [
+            "Stopped ordering anything baked recently. My heart melts faster than the cheese, it's not a fair race.",
+            "Waiter asked if I wanted extra cheese on the pizza. I said no thanks, I already melted once today looking at you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-100",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://manmandays.com/cheesy-pickup-lines/",
+      "sourceNote": "WiFi/connection themed conversational pickup line",
+      "tags": [
+        "現代",
+        "科技",
+        "互動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「不好意思，這邊的 WiFi 密碼你知道嗎？」\n「我沒問耶，怎麼了？」\n「沒事，我剛才以為我手機連到網路了，結果發現是我心臟自己跳得比較快。」",
+          "editorNote": "在咖啡廳、共同工作空間搭話用最自然，從『問 WiFi』這個超日常的開場切入，最後反轉成自己心跳，整個尷尬感就被甜度蓋掉了",
+          "variations": [
+            "我手機沒在連線了，因為我整個人的訊號都被你接收走了。",
+            "你不用報密碼，我已經自動連上你那一台了——我也不知道怎麼辦到的。"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, do you happen to know the WiFi password here?\"\n\"I haven't asked, why?\"\n\"Oh — never mind. I thought my phone just connected to a network, but it turns out that was just my heart speeding up.\"",
+          "editorNote": "Perfect cafe or coworking-space opener — starting with the most boring possible question (the WiFi password) makes the punchline feel earned instead of pre-planned",
+          "variations": [
+            "My phone gave up on WiFi a while ago. Apparently every signal I had got rerouted to you.",
+            "Don't bother giving me the password — I think I'm already connected to whatever network you're on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-101",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://blog.accupass.com/chinese-valentines-day.html",
+      "sourceNote": "Conversational line riffing on weather/spring small talk",
+      "tags": [
+        "日常",
+        "甜",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天天氣有點怪欸。」\n「對啊，剛剛還太陽，現在又陰陰的。」\n「我也是。」\n「你怎麼了？」\n「我心情每三十秒就變一次——你笑的時候我超晴朗，你不理我的時候我就直接降溫十度。」",
+          "editorNote": "從天氣這種最沒梗的話題切入，反轉到『其實在講你』效果最好，適合聊天找不到話題、又想撩一下對方時用",
+          "variations": [
+            "我今天的心情預報跟你完全同步——你開心我就晴天，你已讀不回我就下大雨。",
+            "氣象局說今天多雲，可是我這邊只要你回訊息，立刻就放晴。"
+          ]
+        },
+        "en": {
+          "content": "\"The weather's been weird today.\"\n\"Yeah, sunny one minute, cloudy the next.\"\n\"Same.\"\n\"What do you mean?\"\n\"My mood flips every thirty seconds — bright and clear when you smile, ten degrees colder the second you stop replying.\"",
+          "editorNote": "Hijacks the most generic small talk on Earth (the weather) and turns it into a confession — great for filling a quiet moment in a chat without it feeling forced",
+          "variations": [
+            "My personal forecast is fully synced to you — sunny when you're happy, thunderstorm the second you leave me on read.",
+            "Weather app says cloudy. My version says it clears up the moment you text back."
+          ]
+        }
+      }
     }
   ]
 }

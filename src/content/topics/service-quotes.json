@@ -333,6 +333,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-015",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/258912004",
+      "sourceNote": "Original — extends the 「奧客結帳前後判若兩人」 register from Dcard 工作板; sugar-then-vinegar emotional-shift framing is original",
+      "tags": ["服務業", "奧客", "客人", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人結帳前：「妹妹妳好可愛，這個多少錢？」\n結帳後：「妳剛剛說多少？我聽不懂中文嗎？」\n中間只差一張發票的時間。",
+          "editorNote": "傳給今天剛經歷過「結帳前後變臉秀」的櫃檯同事。重點在那個微笑撐不過十秒的速度。",
+          "variations": [
+            "客人從『妹妹』叫到『妳』，中間就只刷了一張卡的時間。"
+          ]
+        },
+        "en": {
+          "content": "Before checkout: \"You're so sweet, how much is this?\"\nAfter checkout: \"What did you say? Do I not speak English?\"\nThe gap between them is one printed receipt.",
+          "editorNote": "Send to the cashier coworker who just survived a Jekyll-and-Hyde transition today. The whole joke is how fast that smile drops.",
+          "variations": [
+            "It takes about ten seconds for \"sweetie\" to become \"hey you,\" and one swipe of a card."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-016",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.ptt.cc/bbs/part-time/M.1714368829.A.D63.html",
+      "sourceNote": "Original — closing-time customer trope rewritten with the door-locked-but-eyes-open visual; standard PTT 打工板 register",
+      "tags": ["服務業", "餐飲", "工時", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "打烊前十分鐘，門才剛要鎖，\n客人從外面探頭：「還有開嗎？」\n我笑著點頭。\n眼睛裡，已經把椅子翻上桌了。",
+          "editorNote": "餐飲業夜班的標準收尾。傳給最近一週連續被「最後一個客人」拖到加班的朋友。",
+          "variations": [
+            "服務業的『歡迎光臨』，最後十分鐘是用一條命換的。"
+          ]
+        },
+        "en": {
+          "content": "Ten minutes to close. I'm reaching for the lock.\nA head pops in: \"Still open?\"\nI smile and nod.\nBehind my eyes, I've already flipped every chair onto the tables.",
+          "editorNote": "The classic late-shift closer for food service. Send this to anyone who got stuck past clock-out three times this week by \"just one more customer.\"",
+          "variations": [
+            "The last ten minutes of a service shift are paid for in life force, not wages."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-017",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://blog.104.com.tw/customer-service-emotional-labor/",
+      "sourceNote": "Original — call-center 「靜音鍵就是逃生口」 metaphor; rewritten from the broader 客服日常 register on 104 部落格",
+      "tags": ["服務業", "客服", "情緒勞動", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "做客服三年，最熟練的不是話術，\n是按下靜音鍵的時機——\n剛好讓對方聽不到我的嘆氣，\n卻又不會錯過他罵到一半的暫停。",
+          "editorNote": "傳給戴著耳機在公司隔板裡求生的客服朋友。靜音鍵不是功能，是逃生口。",
+          "variations": [
+            "客服的專業不是聲音甜，是知道什麼時候把麥克風關掉、再打開。"
+          ]
+        },
+        "en": {
+          "content": "Three years on the phones. My sharpest skill isn't the script —\nit's the exact timing of the mute button:\nlate enough to hide my sigh,\nearly enough not to miss the pause in his shouting.",
+          "editorNote": "Send to the headset-wearing call-center friend surviving inside a cubicle. The mute button isn't a feature — it's a fire escape.",
+          "variations": [
+            "Call-center expertise isn't a sweet voice. It's knowing exactly when to kill the mic and when to bring it back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-018",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.businessweekly.com.tw/careers/blog/3009521",
+      "sourceNote": "Original reframe of the 「我們也有家人」 service-worker plea; daughter-mother-son three-line image is a fresh structural framing",
+      "tags": ["服務業", "心聲", "尊嚴", "互助"],
+      "i18n": {
+        "zh-tw": {
+          "content": "罵我的時候請記得：\n我是某個爸爸的女兒，\n是某個小孩的媽媽，\n是某個老人家在家裡等的兒子。\n制服底下，我們不只是一個工號。",
+          "editorNote": "適合公司內部訓練教材或分店牆面標語。也適合轉發給最近對服務人員失去耐心的長輩朋友——溫柔的提醒。",
+          "variations": [
+            "你罵的不是一個職稱，是一個家裡有人在等他下班的人。"
+          ]
+        },
+        "en": {
+          "content": "Before you yell, remember:\nI'm somebody's daughter,\nsomebody's mom,\nsomebody's son whose elderly parent is waiting up tonight.\nUnder the uniform, we are not just an employee number.",
+          "editorNote": "Works on internal training materials or as a wall poster in the back office. Also good to forward to the older relative who's lost patience with service staff lately — a gentle reminder.",
+          "variations": [
+            "You're not yelling at a job title. You're yelling at someone whose family is waiting for them to come home."
+          ]
+        }
+      }
     }
   ]
 }

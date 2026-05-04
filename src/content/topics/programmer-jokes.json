@@ -2380,6 +2380,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-097",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Senior flex meme — proving you can still code without AI in 2026",
+      "tags": ["vibe coding", "資深工程師", "技能退化", "AI 依賴", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司辦了一場 hackathon。\n\n比賽規則：禁止使用任何 AI 工具，斷網兩小時。\n\n第一小時，年輕工程師全部坐在電腦前發呆。\n\n第二小時，有人開始翻書。\n\n比賽結束，唯一交出可以執行程式的，是一個五十歲、頭髮花白、桌上放著一本《C 語言聖經》的老前輩。\n\n他寫了一個能跑的計算機。\n\n年輕人圍過去：「前輩好強！」\n\n老前輩淡淡地說：「這只是 hello world 的下一頁。」\n\n當天下午，公司公告：明年 hackathon 開放使用 AI。\n\n備註：禁止資深工程師參賽。",
+          "editorNote": "傳給每個還會手寫 for-loop 的工程師，以及每個只會按 Tab 接受建議的工程師",
+          "variations": [
+            "2026 年最稀有的工程師：斷網還能寫出能跑的程式。",
+            "新的職場炫耀：「我昨天沒開 Cursor，自己寫了三行。」"
+          ]
+        },
+        "en": {
+          "content": "The company hosted a hackathon.\n\nRules: no AI tools allowed. Wi-Fi off for two hours.\n\nFirst hour: all the junior devs sit there staring at blank IDEs.\n\nSecond hour: someone actually picks up a book.\n\nAt the end, the only person who submitted working code was a fifty-year-old with grey hair and a battered copy of \"The C Programming Language\" on his desk.\n\nHe built a working calculator.\n\nThe juniors crowded around: \"How did you do that?!\"\n\nThe old guy shrugged: \"This is page two of hello world.\"\n\nThat afternoon, HR sent out a memo: next year's hackathon allows AI tools.\n\nFootnote: senior engineers banned from entering.",
+          "editorNote": "Send to anyone who can still write a for-loop without autocomplete, and to anyone who can only press Tab",
+          "variations": [
+            "Rarest engineer of 2026: one who can ship working code with the Wi-Fi off.",
+            "New office flex: 'I closed Cursor yesterday and wrote three lines myself.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-098",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://programmerhumor.io/memes/tech-debt",
+      "sourceNote": "Tech debt joke — startup runs on AI and vibes — rewritten as inherited codebase scene",
+      "tags": ["技術債", "vibe coding", "Legacy Code", "新人", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人第一天進公司，主管帶他看 codebase。\n\n主管：「這就是我們的核心系統，去年上線的，跑得很順。」\n\n新人打開檔案，第一個函式叫做 `doTheThing`。\n\n第二個叫做 `doTheThingAgainButBetter`。\n\n第三個叫做 `doNotTouchThisItWorks`。\n\n新人：「⋯⋯誰寫的？」\n\n主管：「Claude。」\n\n新人：「那有單元測試嗎？」\n\n主管：「Claude 說不需要。」\n\n新人：「那有文件嗎？」\n\n主管：「Claude 說程式碼就是文件。」\n\n新人：「那 Claude 現在在哪？」\n\n主管：「上個月公司沒續訂閱了。」\n\n新人沉默地看著螢幕。\n\n主管拍拍他的肩：「歡迎成為 Claude 二號。」",
+          "editorNote": "傳給每個接手 vibe coding 遺產的工程師，以及每個還在猶豫要不要續訂 AI 的主管",
+          "variations": [
+            "2026 年最恐怖的副本：上一個工程師全部用 AI 寫，現在 AI 不見了。",
+            "新人入職第一課：學會看 AI 寫的程式碼，比學會寫程式碼還重要。"
+          ]
+        },
+        "en": {
+          "content": "First day on the job. Manager walks the new hire through the codebase.\n\nManager: \"This is our core system. Shipped last year. Runs smooth.\"\n\nNew hire opens a file. First function: `doTheThing`.\n\nSecond function: `doTheThingAgainButBetter`.\n\nThird function: `doNotTouchThisItWorks`.\n\nNew hire: \"...Who wrote this?\"\n\nManager: \"Claude.\"\n\nNew hire: \"Are there unit tests?\"\n\nManager: \"Claude said we didn't need them.\"\n\nNew hire: \"Documentation?\"\n\nManager: \"Claude said the code is the documentation.\"\n\nNew hire: \"Where's Claude now?\"\n\nManager: \"We didn't renew the subscription last month.\"\n\nNew hire stares at the screen.\n\nManager pats his shoulder: \"Welcome aboard, Claude II.\"",
+          "editorNote": "Send to anyone who inherited a vibe-coded codebase, and every manager weighing whether to renew that AI subscription",
+          "variations": [
+            "Scariest dungeon of 2026: the previous engineer wrote everything with AI, and the AI is gone.",
+            "Onboarding lesson one: reading AI-written code is now more important than writing code."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-099",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Job-hopping to escape your own tech debt — rewritten as exit interview scene",
+      "tags": ["離職", "技術債", "工程師日常", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "離職面談。\n\nHR：「請問你為什麼要離開？」\n\n工程師：「我寫的程式碼，我自己快看不懂了。」\n\nHR：「那不是可以重構嗎？」\n\n工程師：「重構需要時間。」\n\nHR：「公司可以給你時間。」\n\n工程師：「我已經算過了，重構需要六個月，找新工作只要兩週。」\n\nHR：「⋯⋯」\n\n工程師：「而且新公司會付我比較多錢，去處理別人留下來的爛攤子。」\n\nHR：「所以你離開的原因是⋯⋯」\n\n工程師：「逃離我自己造的孽。」\n\nHR 默默地把這一行打進系統。\n\n螢幕上，公司今年的工程師流動率，又往上跳了一格。",
+          "editorNote": "傳給每個寫完一坨自己也不想維護的程式碼、然後默默打開 LinkedIn 的工程師",
+          "variations": [
+            "工程師職涯三階段：寫爛程式、逃離爛程式、繼承別人的爛程式。",
+            "2026 年離職原因排行榜第一名：技術債超過心理承受範圍。"
+          ]
+        },
+        "en": {
+          "content": "Exit interview.\n\nHR: \"So, why are you leaving?\"\n\nEngineer: \"I can't read the code I wrote anymore.\"\n\nHR: \"Couldn't you refactor it?\"\n\nEngineer: \"Refactoring takes time.\"\n\nHR: \"The company can give you time.\"\n\nEngineer: \"I did the math. Refactoring takes six months. Finding a new job takes two weeks.\"\n\nHR: \"...\"\n\nEngineer: \"Also, the new company pays me more to clean up someone else's mess instead.\"\n\nHR: \"So your reason for leaving is...\"\n\nEngineer: \"Running from the sins of my past self.\"\n\nHR quietly types that into the form.\n\nOn the dashboard, the company's engineer attrition rate ticks up another notch.",
+          "editorNote": "Send to anyone who shipped a mess, looked at it the next quarter, and quietly opened LinkedIn",
+          "variations": [
+            "Engineer career arc: write bad code, escape bad code, inherit someone else's bad code.",
+            "Top reason to quit in 2026: tech debt exceeds emotional bandwidth."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-100",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Code review where neither human nor AI can explain the code — rewritten as dialogue",
+      "tags": ["code review", "AI", "vibe coding", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Code review。\n\n資深：「這段為什麼要這樣寫？」\n\n新人：「不知道，AI 寫的。」\n\n資深：「那這個變數命名為什麼叫 `temp_temp_final_v2_real`？」\n\n新人：「不知道，AI 取的。」\n\n資深：「這裡為什麼要 try-catch 包整個 main？」\n\n新人：「不知道，AI 加的。」\n\n資深：「那你做了什麼？」\n\n新人：「我按 Tab。」\n\n資深沉默了很久，打開 AI 對話框：\n\n「請解釋這段你寫的程式碼。」\n\nAI 回答：「這是一段非常有創意的實作。」\n\n資深：「具體解釋。」\n\nAI：「這段程式碼採用了非傳統的設計模式。」\n\n資深：「能跑嗎？」\n\nAI：「能跑。」\n\n資深：「那就 approve。」",
+          "editorNote": "傳給每個 code review 看到 AI 寫的程式碼想問人類問不出口的工程師",
+          "variations": [
+            "2026 年的 LGTM：Looks Generated, Trust the Machine。",
+            "新的 code review 流程：人類問 AI 寫了什麼，AI 也不知道。"
+          ]
+        },
+        "en": {
+          "content": "Code review.\n\nSenior: \"Why is this written like this?\"\n\nJunior: \"No idea. AI wrote it.\"\n\nSenior: \"Why is this variable named `temp_temp_final_v2_real`?\"\n\nJunior: \"No idea. AI named it.\"\n\nSenior: \"Why is the entire main function wrapped in try-catch?\"\n\nJunior: \"No idea. AI added it.\"\n\nSenior: \"What did you do exactly?\"\n\nJunior: \"I pressed Tab.\"\n\nLong pause. Senior opens the AI chat:\n\n\"Please explain this code you wrote.\"\n\nAI: \"This is a highly creative implementation.\"\n\nSenior: \"Explain specifically.\"\n\nAI: \"It uses a non-traditional design pattern.\"\n\nSenior: \"Does it run?\"\n\nAI: \"It runs.\"\n\nSenior: \"Approved.\"",
+          "editorNote": "Send to every reviewer who's stared at AI-generated code wanting to ask a human the question, but knowing there isn't one",
+          "variations": [
+            "2026 LGTM: Looks Generated, Trust the Machine.",
+            "New code review workflow: human asks AI what it wrote. AI doesn't know either."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-101",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://programmerhumor.io/memes/coding-agents",
+      "sourceNote": "Multiple AI agents arguing with each other — rewritten as office meeting scene",
+      "tags": ["AI agent", "工程師日常", "黑色幽默", "會議", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週一早上的需求會議。\n\n工程師打開電腦，啟動三個 agent。\n\n後端 agent：「這個 API 應該用 GraphQL。」\n\n前端 agent：「不行，我希望用 REST。」\n\n架構 agent：「都不對，應該用 gRPC。」\n\n三個 agent 開始吵架。\n\n工程師滑了一下手機。\n\n十分鐘後，後端 agent 已經寫了 GraphQL，前端 agent 寫了 REST，架構 agent 寫了 gRPC，三個版本同時 commit 上去。\n\nCI/CD 紅了。\n\n工程師打開 PM 群：「需求討論完了，但實作上有一點分歧。」\n\nPM：「那以哪一個為準？」\n\n工程師：「我也不知道，三個 agent 還在 Slack 互嗆。」\n\nPM：「那你呢？」\n\n工程師：「我等他們吵完。」",
+          "editorNote": "傳給每個被自己的多個 agent 反向打架的工程師，以及每個還以為 AI 會讓開發變簡單的 PM",
+          "variations": [
+            "2026 年新的開發流程：人類休息，agent 開會。",
+            "工程師的新技能：調解三個 AI 的意見不合。"
+          ]
+        },
+        "en": {
+          "content": "Monday morning planning meeting.\n\nEngineer opens laptop, spins up three agents.\n\nBackend agent: \"This API should be GraphQL.\"\n\nFrontend agent: \"No way. I want REST.\"\n\nArchitecture agent: \"Both wrong. It should be gRPC.\"\n\nThe three agents start arguing.\n\nEngineer scrolls Twitter.\n\nTen minutes later, backend agent has shipped GraphQL, frontend agent has shipped REST, architecture agent has shipped gRPC. All three versions committed simultaneously.\n\nCI/CD turns bright red.\n\nEngineer pings the PM channel: \"Requirements meeting is done. There's a small implementation disagreement.\"\n\nPM: \"Which one wins?\"\n\nEngineer: \"No idea. The three agents are still flaming each other on Slack.\"\n\nPM: \"And you?\"\n\nEngineer: \"I'm waiting for them to finish fighting.\"",
+          "editorNote": "Send to anyone whose own agents are at war with each other, and to every PM who still thinks AI makes development simpler",
+          "variations": [
+            "New 2026 dev workflow: humans take breaks, agents take meetings.",
+            "New engineer skill: mediating disputes between three AIs that all think they're right."
+          ]
+        }
+      }
     }
   ]
 }
