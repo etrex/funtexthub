@@ -1790,3 +1790,82 @@ Done items collapsed; only live priorities listed.
 14. **[MEDIUM — late May]** `slang-quotes` Q2 refresh — 泉, 要確欸, 爛 + verify 初級/高級大人 captured.
 15. **[FLAG — early July]** Begin 父親節 (8/8) content drafting.
 16. **[OPPORTUNISTIC]** witty-comebacks 「我吃一點」 derivative item; persistent backlog only when files next touched.
+
+---
+
+## 2026-05-04 Research Report
+
+### Status Update
+- Current topics in repo (**23 total**): absurd-wisdom, adulting-quotes, **breakup-quotes** (NEW since 2026-05-02), cat-quotes, cheesy-pickups, cold-jokes, couple-jokes, dark-humor, diet-quotes, dog-quotes, drama-quotes, graduation-quotes, healing-quotes, holiday-jokes, korean-drama-quotes, mom-quotes, motivational-quotes, programmer-jokes, slang-quotes, sweet-quotes, witty-comebacks, workplace-quotes, zodiac-quotes ✅
+- `breakup-quotes` confirmed live (file present 2026-05-04) — 2026-04-30 NEW HIGH priority recommendation executed within 4 days. Excellent throughput continues.
+- **TODAY = 2026-05-04 (Mon) = THE 連假後第一天上班 day.** 勞動節 (5/1 Fri) created 4-day weekend; today is the canonical 「連假後第一天上班 厭世」 search-traffic peak day. workplace-quotes `post-holiday` register (per 2026-05-02 #3) needed RIGHT NOW or this annual-recurring window closes.
+- **母親節 (May 10) = 6 DAYS AWAY** — peak search 緊縮窗口. Per 2026-05-02 estimate (~12% peak traffic loss/day delay), mom-quotes + sweet-quotes 母親節 verification cost-of-delay is now ~24% (today vs. 2026-05-02). All Mother's Day register additions must be live within 48 hours to capture meaningful peak share.
+- **端午節 (June 19–21) = 46 days away** — drafting fully open; SUCCULAND 75 句 + watermoon333 諧音/藏頭詩 + Cyberlink 50 句 + city9 30+ 創意祝福 + memes.tw 端午梗圖 confirmed 2026-active.
+- **畢業季** — graduation-quotes live; 4 NEW 2026 phrasings (2026-05-02) pending for 2026-05-15 deadline (11 days).
+- **父親節 (Aug 8) = 96 days away** — defer drafting to early July per prior reports.
+- Persistent backlog: opportunistic only.
+
+### New Topic Recommendations
+
+1. **服務業心聲語錄 / Service-Industry Voice Quotes** (slug: `service-quotes`, category: Lifestyle) — **NEW FROM 2026-05-04 viral surfacing**
+   - **2026-04-29 新北藍38 公車司機事件**: 司機與乘客爭執後伏在方向盤痛哭「為什麼要欺負司機」, 影片 Threads 流傳 → 4/30 各大媒體 (聯合, 中時, 自由, 星島) + **CNN 全球放送** → 雙北交通局長公開回應. 罕見的 service-industry 情緒崩潰 case 引爆全民共感.
+   - **共感範圍遠超公車**: udn 整理「乘車規範」, 各大平台延伸到 餐飲店員 / 客服 / 護理 / 保全 / 便利商店 / 外送員 — 所有 frontline service 行業 都在 Threads/Dcard 集體 貼 共感故事. 「最多笑容、最少尊重」結構性議題.
+   - **Differentiator vs workplace-quotes**: workplace-quotes 主軸 = 內勤/上班族 (薪水, 加班, 老闆, 同事). service-quotes 主軸 = 對客戶/民眾 直接 frontline (奧客, 委屈, 笑著吞下情緒, 制服變盔甲). 不同 audience (服務業勞工 ≠ 辦公室 OL), 不同 LINE 分享流通群 (服務業 LINE 群 vs 上班族群).
+   - Sub-formats: 奧客語錄 (不可思議的客人發言), 制服底下語錄 (笑著上班崩潰下班), 服務業金句 (「客人不是上帝, 客人是隔壁桌也在等的人」), 行業互助 (公車司機, 餐廳, 便利商店 互相打氣), 工時/薪資對照 厭世 (「服務貴賓的薪水不貴」).
+   - SEO targets: 服務業語錄, 服務業 心聲, 奧客語錄, 客服語錄, 公車司機語錄, 服務業 厭世, 服務業 委屈, frontline worker quotes zh-tw
+   - **Recommendation: NEW HIGH urgency. 2026-04-29 事件 still trending; topic creation within 1–2 weeks captures discovery wave + builds evergreen authority for recurring service-industry virality. Target 12–15 items balanced across 5 sub-formats. CNN coverage = international SEO halo for en version.**
+
+2. **連假後第一天上班 - workplace-quotes 結構化 sub-format** (NOT new topic — within `workplace-quotes`, category: Lifestyle) — **CRITICAL EXECUTION TODAY**
+   - **TODAY IS the canonical search-peak day for this register year-round** (post-勞動節 = first 全民放假 returning Monday). 5/1 Fri + 5/2-3 weekend + 5/4 Mon back = 4-day 連假 後 morning. nownews + popdaily + bella + bnext + 農純鄉 + 聯合新聞網 全部 在 4/30–5/4 surface 此 register.
+   - Distinct from 2026-05-02 #3 recommendation = same register but **TODAY = peak-of-peak**. If executed today: captures 5/4 + 5/5 search residual + builds tag for 4–6 future 連假/年.
+   - Confirmed canonical seed phrasings (rewrite, do NOT copy): 「不是所有的久別重逢都是開心的，譬如，當你放完連假後第一天上班」/「連假最後一晚的我是哲學家，上班第一天的我是植物」/「連假4天我活了4年，上班1天我老了10歲」/「假期結束的悲傷，比上班遲到的悲傷還深」/「連假後的我，需要再放一次連假來收驚」.
+   - **Action: 3–5 items + `post-holiday` tag — TODAY (5/4) or tomorrow (5/5) absolute latest. Window closes 5/6.**
+
+3. **「初級大人 vs 高級大人」單獨 sub-feature 強化** (within `adulting-quotes` and `slang-quotes`, NOT new topic) — **escalating per 2026-05-02 trigger**
+   - **2026-05-02 escalation trigger fired today (2026-05-04 = 7 days from 4/29 first warning)**. 880x YoY 聲量 + 被 dailyview / 自由時報 / 自由藝文 / ETtoday / Yahoo 持續報導 / Threads @kuenyuri + @ken750305 連續 viral 貼文 → 仍持續累積流量, 沒有 cooling.
+   - **NEW canonical 自我檢測情境** surfaced today: 「拜拜要投多少香油錢」(過年走春)、「報稅」(5月正在發生!)、「家中維修水電找誰」、「保險怎麼選」、「電鍋內鍋要放水嗎」、「餐廳吃不完要不要打包」. **5月報稅季 = 初級大人 register 第二波天然 traffic surge** (May 1–31 報稅期). 
+   - **Action: adulting-quotes 對照格式 5–7 items NOW** (per 2026-05-02 #4 — overdue 7 days). Plus `slang-quotes` verify entry exists. **5月 報稅季 emergency seed**: 「我是初級大人，每年5月看到報稅單就想打給高級大人」/「初級大人：什麼是綜合所得淨額？高級大人：你不知道，我也忘了」.
+   - **Recommendation: ESCALATE to CRITICAL — single highest-overdue-vs-impact action. Both `adulting-quotes` 對照格式 + `slang-quotes` 條目 by 2026-05-08.**
+
+### Content Trends
+
+- **CNN-amplified service-industry empathy moment (2026-04-29 公車司機事件) = once-per-quarter content opportunity**: 國際媒體 amplification 製造了 1–2週的「服務業共感」內容黃金窗口. competitor sites 4/30–5/3 已大量產出對應內容, FunTextHub 若能在 5/4–5/14 上線 service-quotes topic 仍可佔據長尾 SEO. 
+- **5月「報稅季 + 母親節 + 連假後 + 畢業季」四重時序疊加 = 2026-Q2 流量峰值**: 5/1–5/31 是 funtexthub 全年 zh-tw 流量 第二高 月份 (僅次於 1月 春節). adulting-quotes 報稅季 register / mom-quotes 母親節 / workplace-quotes 連假後 / graduation-quotes 畢業季 — 這四個 topic 在 5/4–5/15 都該 simultaneously 達到 content-readiness peak. 任一 topic 漏更新 = 失 ~10–15% 月度流量機會.
+- **Threads 「願你 + 柔軟動詞 + 接住/陪伴」 frame 持續驗證活躍 (5/4 confirmed)**: @chicbaby8937 「願你給出去的柔軟，都能以更好的形狀回到你身邊」貼文持續被 quote-share. 此 frame 已成 2026 healing/勵志 register 主流模板. healing-quotes verification per 2026-04-28/29/30/05-02 carrying — **status = STILL pending; flag for next opportunistic touch**.
+- **「初級大人」5月 報稅季 自然 second wave**: 5月 全民報稅 = 「找高級大人問報稅怎麼用」自然 viral 場景. 此 sub-context 在 2/17 first wave 不存在, 是 5月 期間 organic surge 全新 hook. adulting-quotes 若加入「報稅 → 初級大人」對照, 可 double-dip 兩個 search wave (初級大人 + 報稅季 厭世 兩個 keyword 簇).
+- **Z-gen 流行語持續穩定 (no new wave surfaced 5/4)**: 「觸 / 觸爆」(True), 「要確欸」, 「卡皮巴拉」, 「尊嘟假嘟」, 「已購買小孩愛吃」 仍 2026-Q2 主流; 沒有新一波 wave 取代. slang-quotes 已涵蓋多數 — 2026-04-30 提到的「泉, 爛」refresh 仍 queued 但 no urgency increase.
+- **wedding-quotes 商業 SEO 強信號**: pinkoi 2207 婚禮100句 / 漂亮321 100句 / cutefigurehk 50 句 / theaisle 致詞攻略 / Diamond Shiraishi 30 句 全部 2026-active high domain authority — 婚禮金句 SEO 競爭已成熟, 但 「鸞鳳和鳴」古風 / 「無限次聯機遊戲」現代創意 / 「打麻將四條腿」幽默 三 register 並存 = funtexthub 可走「真誠 + 個人化 + 雙語」差異化路線. **Recommendation: wedding-quotes 從 MEDIUM-HIGH 持平; 不升級 (5月為 母親節 主場).**
+
+### Existing Topic Updates
+
+- **workplace-quotes (職場語錄)**: **TODAY-CRITICAL.** 連假後第一天上班 register 3–5 items + `post-holiday` tag — TODAY 是 canonical 全年峰值日; 拖到 5/6 後變後驗 evergreen. 同時驗證: 「精神賠償金」/「薪水像月經」 metaphor families 各 1+ items (per 2026-05-02). 
+- **mom-quotes (媽媽語錄)**: **6 DAYS — 進入 final sprint window.** Re-verify 5 angles (per 2026-05-02): (1) 快快長大/慢慢變老 對比, (2) 「不記得X/Y就是Z」 房地產建商結構, (3) 撒嬌-cynical 雙線, (4) editorNote LINE 分享 prompts, (5) 「媽媽不只是媽媽」獨立個體 register. **NEW seed surfaced today** (per ACCUPASS / Pinkoi 2026 母親節文案大全): 「願你先是你自己, 然後才是我媽媽。願歲月以溫柔待你，愛你不止三千遍」(三千遍 文藝 register) — 加入第 5 register 強化. 厭世媽媽 expansion (per 2026-04-30 #2) 仍 queued; 若 5/4 還沒進去, 改 5/9 再評是否來得及 母親節 traffic.
+- **sweet-quotes (暖男語錄)**: 6 DAYS to peak. sq-018–sq-022 母親節 items 確認 tagged + ≥1 fully bilingual-resonant pair + 家/時光 對比 register. Cost-of-delay = ~24% peak loss (vs 2026-05-02 baseline) — 完整驗證 must close by 2026-05-06.
+- **adulting-quotes (大人語錄)**: **OVERDUE — escalating.** 初級大人 vs 高級大人 對照格式 (3–5 items) — pending since 2026-04-29 (= 5 days overdue). 加碼 5月 報稅季 hook seed: 「報稅單上的數字, 就是初級大人和高級大人的分水嶺」/「我這一年最後一次和高級大人通話, 是5月的某個傍晚問報稅怎麼填」. **DEADLINE: 2026-05-08.**
+- **slang-quotes (流行語語錄)**: 4 days live (4/30 → 5/4). Verify 初級大人 / 高級大人 條目存在 — 2026-04-30 + 05-02 雙重 reminder; 若不存在 = 立即補. Q2 refresh (泉, 要確欸, 爛) 仍 queued for late-May 30-day organic data review.
+- **breakup-quotes (失戀語錄 — NEWLY LIVE)**: 0–2 days live. 100% organic monitor — 7-day window starts now. Spot-check coverage of 5 sub-formats (釋懷期, 振作期, 自嘲期, 反思期, 致前任) per 2026-04-30 spec. No edits.
+- **graduation-quotes (畢業季語錄)**: 11 days to 2026-05-15 4 NEW 2026 phrasings deadline (per 2026-05-02): 「躍入人海各自風雨燦爛」/「各自登山山頂見」/「宇宙很大，生活更大」/「尚未配妥劍，轉眼便江湖」. Verify or add.
+- **holiday-jokes (節日笑話)**: 端午節 expansion (5+ items by 5/10) — 6 days. 2026-05-02 confirmed seeds (田馥甄食物×成語 / 粽諧音排比 / 屈原股市梗 / 南粽北粽 / 賴清德 蔡英文 名人格式 / 粽子擬人「卸了妝光鮮照人」) 仍 valid. Today's search confirmed city9 + memes.tw 為 NEW 2026 source 加入. No new seed today; existing pool sufficient.
+- **healing-quotes (治癒系語錄)**: 「願你 + 柔軟動詞 + 接住/陪伴」 frame still pending — 5/4 search confirmed Threads @chicbaby8937 持續 viral. Add when next touched.
+- **diet-quotes (減肥語錄)**: 6 days live. No edits.
+- **witty-comebacks**: 「我吃一點」 derivative still queued.
+- **dark-humor / cat-quotes / dog-quotes / drama-quotes / korean-drama-quotes / motivational-quotes / programmer-jokes / zodiac-quotes / cold-jokes / cheesy-pickups / couple-jokes / absurd-wisdom**: no new signal today.
+
+### Updated Action Priority
+
+1. **[CRITICAL — TODAY 5/4 OR 5/5]** `workplace-quotes` 連假後第一天上班 register (3–5 items + `post-holiday` tag) — annual peak day passing NOW.
+2. **[CRITICAL — 6 DAYS]** `mom-quotes` 5 母親節 registers verification + 「願你先是你自己」 三千遍文藝 NEW seed + 厭世媽媽 expansion (3–5 items, last call).
+3. **[CRITICAL — 6 DAYS]** `sweet-quotes` 母親節 items 完整驗證 (tag, bilingual pair, 家/時光 register) — close by 5/6.
+4. **[CRITICAL — DEADLINE 5/8]** `adulting-quotes` 初級大人/高級大人 對照格式 (3–5 items) + 5月報稅季 hook (2 items) — 5天逾期, 880x YoY 聲量.
+5. **[NEW HIGH — 1–2 WEEKS]** Create `service-quotes` / 服務業心聲語錄 (12–15 items) — CNN-amplified 公車司機事件 + 服務業共感 wave; international SEO halo for en version.
+6. **[HIGH — by 5/10]** `holiday-jokes` 端午節 expansion (5+ items): 田馥甄式 / 粽諧音排比 / 屈原股市 / 南粽北粽 / 名人格式 / 粽子擬人.
+7. **[MEDIUM-HIGH — DEADLINE 5/15]** `graduation-quotes` 4 NEW 2026 phrasings (躍入人海/各自登山/宇宙很大/尚未配妥劍).
+8. **[MEDIUM — May]** `slang-quotes` 初級大人/高級大人 entry verification + apply Threads 「願你 + 柔軟動詞 + 接住」 frame to `healing-quotes` (3+ items).
+9. **[HIGH — May–June]** Create `food-jokes` / 食物笑話 (carrying; 諧音梗店名 角度; 端午節 soft-launch tie-in 5/10–6/19 window).
+10. **[MEDIUM-HIGH — May–June]** Create `wedding-quotes` / 婚禮金句 (carrying; Diamond Shiraishi + Pinkoi + The Aisle 高 DA 競爭, 但 雙語 + 真誠 differentiation 仍可).
+11. **[MEDIUM — May, FINAL CARRY]** Create `self-love-quotes` / 自愛語錄 — 11天剩, deprioritize after 5/15 if not created.
+12. **[MEDIUM — June]** Create `travel-quotes` / 旅遊語錄 (carrying; 國旅補助抽籤制 angle).
+13. **[MEDIUM — June or July]** Create `student-quotes` / 考試語錄 (carrying).
+14. **[MEDIUM — late May]** `slang-quotes` Q2 refresh — 泉, 要確欸, 爛.
+15. **[FLAG — early July]** Begin 父親節 (8/8) content drafting.
+16. **[OPPORTUNISTIC]** witty-comebacks 「我吃一點」 derivative; persistent backlog only when files next touched.
