@@ -1,0 +1,338 @@
+{
+  "slug": "service-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "服務業心聲語錄",
+      "description": "穿上制服那一刻，就把脾氣留在置物櫃。寫給公車司機、店員、外場、客服——所有把眼淚調成微笑模式的人。"
+    },
+    "en": {
+      "title": "Service Industry Voice Quotes",
+      "description": "The moment the uniform goes on, the temper goes in the locker. For bus drivers, clerks, waitstaff, and call-center agents — anyone who switches their tears to smile mode for a paycheck."
+    }
+  },
+  "items": [
+    {
+      "id": "svc-001",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://udn.com/news/story/120911/9470753",
+      "sourceNote": "Sparked by 2026-04-29 公車司機 incident covered by CNN — the 「我朋友來過比較便宜」 unreasonable-customer trope is a canonical 奧客 format from Dcard 心情/工作 boards",
+      "tags": ["服務業", "奧客", "工作", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我朋友上禮拜來這個價錢」\n「請問您朋友的名字是？」\n「我跟你又不熟。」",
+          "editorNote": "傳給最近被「我朋友、我同事、我鄰居」開頭的句子轟炸過的服務業朋友。重點不是真的有沒有那位朋友，而是對方知道你查不到。",
+          "variations": [
+            "客人說的「我朋友」，通常住在「資料庫查無此人」那一區。"
+          ]
+        },
+        "en": {
+          "content": "\"My friend got this cheaper last week.\"\n\"What's your friend's name?\"\n\"Like you'd know.\"",
+          "editorNote": "Send this to anyone in service who's been hit with the \"my friend / my coworker / my neighbor\" opener today. The point isn't whether the friend is real — it's that the customer knows you can't check.",
+          "variations": [
+            "The customer's \"friend\" usually lives in the part of the database labeled \"no record found.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-002",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.ettoday.net/news/20190213/1377168.htm",
+      "sourceNote": "Inspired by ETtoday 「服務業崩潰十大時刻」 list; rewritten with iced-latte specific scenario as a fresh angle",
+      "tags": ["服務業", "奧客", "餐飲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「老闆，這杯為什麼是冰的？」\n「因為您點的是冰拿鐵。」\n「我是說我要……加冰。」",
+          "editorNote": "餐飲業每天的真實對話。傳給上班時剛被同樣邏輯攻擊過的同事，附一句「你不是一個人」。",
+          "variations": [
+            "點冰的問為什麼是冰的，這不是奧客，這是哲學家。"
+          ]
+        },
+        "en": {
+          "content": "\"Why is this iced?\"\n\"You ordered an iced latte.\"\n\"Yeah, but I want it... iced.\"",
+          "editorNote": "Real food-service dialogue, daily. Send to a coworker who got hit with the same logic — add \"you are not alone.\"",
+          "variations": [
+            "Ordering iced and asking why it's iced isn't a difficult customer. It's a philosopher."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-003",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://blog.104.com.tw/how-to-serve-the-four-common-types-of-guests/",
+      "sourceNote": "Inspired by 104 職場力 「奧客類型」 article; the no-defect-just-doesn't-suit-me return is a canonical retail Dcard story",
+      "tags": ["服務業", "奧客", "零售", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我要退這件衣服。」\n「請問是哪裡有問題嗎？」\n「沒有，我先生說我穿不好看。」",
+          "editorNote": "退貨第一名的理由不是瑕疵，是「我家人說的」。傳給做零售的朋友，他這禮拜大概聽過十次。",
+          "variations": [
+            "客人說「沒事，但要退」的時候，通常是在退一場家庭會議的結果。"
+          ]
+        },
+        "en": {
+          "content": "\"I'd like to return this shirt.\"\n\"Is there a defect?\"\n\"No. My husband said it doesn't suit me.\"",
+          "editorNote": "The #1 return reason isn't a defect — it's \"someone in my family said so.\" Send this to a retail friend; they've probably heard it ten times this week.",
+          "variations": [
+            "When a customer says \"nothing's wrong, I just want to return it,\" they're usually returning the verdict of a family meeting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-004",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/258826892",
+      "sourceNote": "Original metaphor expanding the Dcard 「制服與情緒切換」 motif; locker-as-emotion-storage angle is original phrasing",
+      "tags": ["服務業", "制服", "情緒", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我穿上制服那一刻，\n就把今天的脾氣留在置物櫃裡了。\n下班時再把脾氣領回來，順便領一份薪水的零頭。",
+          "editorNote": "適合下班後 IG 限動 配自己的制服照。重點不是抱怨，是承認制服底下還有一個會生氣的真人。",
+          "variations": [
+            "上班時把人格寄放在置物櫃，下班再帶回家——只是回家後，那個人格通常已經沒電了。"
+          ]
+        },
+        "en": {
+          "content": "The moment I put on the uniform,\nI leave my temper in the locker.\nAfter the shift I pick it up — along with the loose change of a paycheck.",
+          "editorNote": "Pairs well with an IG story of your own uniform after clocking out. The point isn't complaining — it's admitting there's a real person under the uniform who still gets angry.",
+          "variations": [
+            "We check our personalities into a locker at clock-in, pick them up at clock-out — and by then they're usually out of battery."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-005",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "http://moinwawa.blogspot.com/2012/10/blog-post_14.html",
+      "sourceNote": "Original — extends 「笑著上班崩潰下班」 trope with the queueing-tears image, a fresh visual",
+      "tags": ["服務業", "情緒", "崩潰", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在櫃檯笑了一整天。\n回家才想起，我已經三天沒哭了。\n原來眼淚也是要排隊的，跟我們的客人一樣。",
+          "editorNote": "適合凌晨睡不著時放在限動。不需要解釋，懂的人會私訊你。",
+          "variations": [
+            "服務業的眼淚不是不流，是排到了才能流。"
+          ]
+        },
+        "en": {
+          "content": "I smiled at the counter all day.\nGot home and realized I hadn't cried in three days.\nTurns out my tears have to queue too — just like our customers.",
+          "editorNote": "Good for a 2am Insta story when you can't sleep. No explanation needed. The people who get it will DM you.",
+          "variations": [
+            "It's not that service workers don't cry. It's that the tears have to take a number first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-006",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.businessweekly.com.tw/careers/blog/14224",
+      "sourceNote": "Inspired by 商周 「服務業7年」 piece on emotional-labor multitasking; original four-action breakdown is a fresh structural framing",
+      "tags": ["服務業", "情緒勞動", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業教會我最厲害的技能：\n客人在罵的時候，\n眼睛點頭、嘴巴道歉、\n心裡放空、手繼續操作。\n四件事互不衝突，這叫情緒勞動。",
+          "editorNote": "傳給沒在服務業工作過、不懂為什麼你回家不想說話的家人朋友。這不是脾氣大，這是技能型疲勞。",
+          "variations": [
+            "外人以為服務業在出力氣，其實我們在出『四個我』。"
+          ]
+        },
+        "en": {
+          "content": "Service work taught me the ultimate multitask:\nnodding with my eyes, apologizing with my mouth,\ngoing blank in my head, still ringing them up.\nFour separate jobs at once. This is emotional labor.",
+          "editorNote": "Send this to family or friends who don't get why you go quiet after work. It isn't a bad temper — it's skill-based exhaustion.",
+          "variations": [
+            "People think service work uses your body. It actually uses four versions of you, all at the same time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-007",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/53199",
+      "sourceNote": "Subverts the canonical 「顧客就是上帝」 cliche; original reframe of the worship metaphor is the punchline",
+      "tags": ["服務業", "金句", "客人", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「顧客就是上帝」的意思是：\n您可以信仰我，\n但不能拜託我替您處理\n您人生中所有不如意的事。",
+          "editorNote": "下次有人對你引用這句話的時候，可以微笑回他這個版本。比較適合貼在員工休息室牆上，而不是當客人面唸出來。",
+          "variations": [
+            "顧客是上帝沒錯，問題是上帝通常不會大聲叫服務生。"
+          ]
+        },
+        "en": {
+          "content": "\"The customer is god\" means:\nyou may worship me.\nIt does not mean I am responsible\nfor everything that's gone wrong in your life this week.",
+          "editorNote": "Next time someone quotes the original at you, smile and reply with this version. Probably better posted in the break room than read aloud to a customer.",
+          "variations": [
+            "Yes, the customer is god. But god usually doesn't yell at the waiter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-008",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://newtalk.tw/citizen/view/72130",
+      "sourceNote": "Inspired by Newtalk 公車司機 op-ed structural critique; the 「最多笑容、最少尊重」 antithesis is a fresh framing",
+      "tags": ["服務業", "金句", "心聲", "尊嚴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業是一個奇怪的地方——\n付出最多笑容，得到最少尊重；\n說最多「不好意思」，\n最不好意思的卻是別人。",
+          "editorNote": "適合配一張你制服的全身照，當作 1024×1024 的限動文字。是一句不用解釋就有共感的話。",
+          "variations": [
+            "服務業的不公平，不是薪水低，是你笑得最多，卻被當成最該被罵的人。"
+          ]
+        },
+        "en": {
+          "content": "Service work is a strange place:\nyou offer the most smiles, get the least respect.\nYou say \"sorry\" the most,\nwhile the people who should be sorry are everyone else.",
+          "editorNote": "Pairs well with a full-length photo of your uniform as a 1024x1024 story caption. Needs no explanation if you've worked the floor.",
+          "variations": [
+            "The unfairness isn't the wage. It's that you smile the most and somehow end up the one being yelled at."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-009",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://udn.com/news/story/7266/9471554",
+      "sourceNote": "Reframes 「客人是上帝」 with the 隔壁桌 / next-table image — originated from public commentary around the 公車司機 incident",
+      "tags": ["服務業", "金句", "餐飲", "客人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人不是上帝。\n客人是隔壁桌也在等的人。",
+          "editorNote": "短到可以當招牌、印在杯墊、貼在外場員工通道。給「我有付錢就比較大」的客人最溫柔的提醒。",
+          "variations": [
+            "你不是上帝，你只是先進來而已。"
+          ]
+        },
+        "en": {
+          "content": "The customer isn't a god.\nThe customer is the person at the next table, also waiting.",
+          "editorNote": "Short enough to print on a coaster, a sign, or the staff hallway door. The gentlest reminder for the customer who thinks paying makes them bigger.",
+          "variations": [
+            "You're not god. You just got here first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-010",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260429001030-260405",
+      "sourceNote": "Direct response framing to 2026-04-29 公車司機事件 — original 「他刷的是車費，不是你的尊嚴」 separation is the rewrite anchor",
+      "tags": ["服務業", "互助", "尊嚴", "公車司機"],
+      "i18n": {
+        "zh-tw": {
+          "content": "給今天遇到奧客的你：\n你不是欠他的。\n他刷的是車費，是商品的價錢，\n不是你尊嚴的價錢。",
+          "editorNote": "傳給今天剛被罵完正在後台躲著哭的同事。這句話請收藏，下班後再看一次，明天還可以再看一次。",
+          "variations": [
+            "他付的錢買的是服務，不是把你當情緒垃圾桶的權利。"
+          ]
+        },
+        "en": {
+          "content": "To anyone who met a difficult customer today:\nyou don't owe them anything.\nThey paid the fare, the price tag — not your dignity.",
+          "editorNote": "Send this to the coworker hiding in the back room crying after being yelled at. Save it. Read it again after work. Read it again tomorrow.",
+          "variations": [
+            "They paid for service. Not for the right to use you as an emotional trash can."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-011",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/237586713",
+      "sourceNote": "Original cross-industry solidarity framing; uniform / sorry-weight image is rewritten from the broader Dcard 服務業 register",
+      "tags": ["服務業", "互助", "心聲", "公車司機"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公車司機、便利商店店員、\n餐廳外場、客服專員——\n我們穿不同的制服，\n但每天說的「不好意思」，\n都是同一個重量。",
+          "editorNote": "適合公車司機事件後一陣子刷到的時候轉發，當作給整個服務業的擁抱。不分行業。",
+          "variations": [
+            "我們的制服不一樣，但下班後脫下來的疲憊，是同一個顏色。"
+          ]
+        },
+        "en": {
+          "content": "Bus drivers, convenience store clerks,\nwaitstaff, call-center agents —\ndifferent uniforms,\nbut the \"sorry\" we say all day\nweighs exactly the same.",
+          "editorNote": "Repost as a quiet hug for everyone in service after a viral incident — across industries, not just one.",
+          "variations": [
+            "Different uniforms, same color of exhaustion when we take them off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-012",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://udn.com/news/story/7269/8706388",
+      "sourceNote": "Inspired by udn 「職場厭世語錄」 wage-vs-prices format; rewritten with vegetable-pricing metaphor specific to service work",
+      "tags": ["服務業", "薪水", "厭世", "工時"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司要我們把每個客人都當貴賓服務，\n卻把我們的薪水當白菜在賣。",
+          "editorNote": "適合月底剛入帳那天看著存款餘額苦笑。員工群組的萬能標題。",
+          "variations": [
+            "客人是貴賓，員工是耗材，這就是這個產業的奇蹟。"
+          ]
+        },
+        "en": {
+          "content": "The company wants us to treat every customer like royalty,\nwhile pricing our paycheck like cabbage.",
+          "editorNote": "Perfect for staring at your bank balance the day after payday. A universal headline for the staff group chat.",
+          "variations": [
+            "Customers are VIPs, employees are consumables. That's the magic of this industry."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-013",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://blog.screendesk.io/30-hilarious-customer-service-quotes-to-make-you-smile/",
+      "sourceNote": "Original — pairs the per-hour-wage / per-second-emotional-labor structural framing as a fresh contrast format",
+      "tags": ["服務業", "工時", "薪水", "情緒勞動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "八小時站到腿軟，\n三十秒就被嫌服務不夠笑——\n時薪是按一小時算的，\n情緒，卻是按秒在計算的。",
+          "editorNote": "輪班結束坐下脫鞋的那一刻最有共感。傳給所有把腳泡熱水才能睡著的同行。",
+          "variations": [
+            "我們的時間值多少錢，跟我們的情緒值多少錢，公司算的是兩本帳。"
+          ]
+        },
+        "en": {
+          "content": "Eight hours on aching feet.\nThirty seconds for them to complain you didn't smile enough.\nThe wage is calculated by the hour.\nThe emotional labor — by the second.",
+          "editorNote": "Hits hardest the moment you sit down and pull your shoes off. Send to anyone who has to soak their feet before bed.",
+          "variations": [
+            "What our time is worth and what our emotions are worth — the company keeps two separate ledgers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-014",
+      "dateAdded": "2026-05-04",
+      "sourceUrl": "https://cheezburger.com/22045445/20-relatable-retail-memes-for-exhausted-retail-workers-who-need-more-than-a-15-minute-break",
+      "sourceNote": "Original — the 「制服燙得平整 / 薪水條皺得理直氣壯」 contrast is a fresh visual; pairs polished-presentation tropes against the wrinkled paycheck",
+      "tags": ["服務業", "制服", "薪水", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "制服要燙得平整，\n笑容要訓練得標準，\n頭髮要綁得整齊——\n只有薪水條，皺得最理直氣壯。",
+          "editorNote": "適合月底拍一張薪水條配這段話。誠實到不需要任何 hashtag。",
+          "variations": [
+            "公司管你的衣服、笑容、頭髮，唯獨不管你的薪水有沒有跟得上物價。"
+          ]
+        },
+        "en": {
+          "content": "Pressed uniform.\nTrained smile.\nHair tied neatly back.\nOnly the paycheck dares to show up wrinkled.",
+          "editorNote": "Pair with a photo of your wrinkled paycheck on payday. Honest enough to need no hashtag.",
+          "variations": [
+            "The company runs your uniform, your smile, your hair — just not whether your wage keeps up with rent."
+          ]
+        }
+      }
+    }
+  ]
+}
