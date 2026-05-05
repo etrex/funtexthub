@@ -2505,6 +2505,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-102",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "It works on my machine — 2026 AI variant where the AI also vouches for the code",
+      "tags": ["it works on my machine", "AI", "上線爆炸", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師：「我電腦跑得起來。」\n\nQA：「我電腦跑不起來。」\n\n工程師：「Claude 也說可以。」\n\nQA：「我這邊的 Claude 說不行。」\n\n工程師：「⋯⋯你的 Claude 是哪一版？」\n\nQA：「Claude 4.7。」\n\n工程師：「我的是 Claude 4.7（1M context）。」\n\nQA：「那不一樣。」\n\n兩個人對望，沉默地把彼此的 Claude 拉進同一個 Slack 頻道。\n\n五分鐘後，兩個 Claude 開始互相說對方寫的不對。\n\nPM 路過：「你們在幹嘛？」\n\n工程師：「我們在等 Claude 們吵出共識。」\n\nPM：「那要多久？」\n\n工程師：「比上線還久。」",
+          "editorNote": "傳給每個用「我電腦可以」當免死金牌的工程師，現在連 AI 都加入幫腔了",
+          "variations": [
+            "2026 版本的免死金牌：「我的 Claude 說可以。」",
+            "新型 bug：跨 AI 版本相容性問題。"
+          ]
+        },
+        "en": {
+          "content": "Engineer: \"It runs on my machine.\"\n\nQA: \"It doesn't run on mine.\"\n\nEngineer: \"Claude said it works.\"\n\nQA: \"My Claude said it doesn't.\"\n\nEngineer: \"...What version is your Claude?\"\n\nQA: \"Claude 4.7.\"\n\nEngineer: \"Mine is Claude 4.7 with the 1M context window.\"\n\nQA: \"Those aren't the same.\"\n\nThey stare at each other, then silently drag both Claudes into the same Slack channel.\n\nFive minutes later, the two Claudes are roasting each other's code.\n\nPM walks by: \"What are you doing?\"\n\nEngineer: \"Waiting for the Claudes to reach consensus.\"\n\nPM: \"How long will that take?\"\n\nEngineer: \"Longer than shipping.\"",
+          "editorNote": "Send to anyone who's used 'works on my machine' as a get-out-of-jail card. Now the AI's in on it too.",
+          "variations": [
+            "2026 update: 'My Claude said it's fine.'",
+            "New bug class: cross-AI-version incompatibility."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-103",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Vibe coding interview meme — rewritten as awkward technical interview scene",
+      "tags": ["面試", "vibe coding", "AI 依賴", "工程師思維", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "技術面試。\n\n面試官：「請手寫一段 binary search。」\n\n候選人愣了三秒：「⋯⋯可以開 Cursor 嗎？」\n\n面試官：「不行。」\n\n候選人：「那可以查 Stack Overflow 嗎？」\n\n面試官：「不行。」\n\n候選人：「那可以打開 ChatGPT 嗎？」\n\n面試官：「不行。」\n\n候選人沉默許久，緩緩開口：「請問貴公司日常開發，會禁止使用 AI 嗎？」\n\n面試官：「不會。」\n\n候選人：「那這題的意義是？」\n\n面試官：「想看看你會不會慌。」\n\n候選人微笑：「我有慌，但我相信入職以後不需要慌。」\n\n面試官在筆記上寫下：「答得很好，但他連一行都沒寫出來。」\n\n三天後，公司寄來 offer。",
+          "editorNote": "傳給每個面試遇到「請手寫」題目想拔網路線的工程師，以及每個還在出這種題目的面試官",
+          "variations": [
+            "2026 年新型面試題：把 AI 拔掉之後，你還剩什麼？",
+            "面試官的內心 OS：「不是測你會不會寫，是測你慌不慌。」"
+          ]
+        },
+        "en": {
+          "content": "Technical interview.\n\nInterviewer: \"Write a binary search by hand.\"\n\nCandidate freezes for three seconds: \"...Can I open Cursor?\"\n\nInterviewer: \"No.\"\n\nCandidate: \"Stack Overflow?\"\n\nInterviewer: \"No.\"\n\nCandidate: \"ChatGPT?\"\n\nInterviewer: \"No.\"\n\nLong silence. Then: \"Does your team ban AI in daily development?\"\n\nInterviewer: \"We don't.\"\n\nCandidate: \"Then what's the point of this question?\"\n\nInterviewer: \"Wanted to see if you'd panic.\"\n\nCandidate smiles: \"I did panic. But I trust I won't have to panic on the job.\"\n\nInterviewer writes in their notes: \"Good answer. Wrote zero lines.\"\n\nThree days later, the offer arrives.",
+          "editorNote": "Send to every candidate who's been asked to whiteboard with no internet, and every interviewer still asking",
+          "variations": [
+            "New 2026 interview question: with AI taken away, what's left of you?",
+            "Interviewer's inner monologue: 'Not testing if you can code. Testing if you panic.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-104",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://www.boredpanda.com/funny-programmer-humor/",
+      "sourceNote": "Production deploy on Friday classic — modernized with AI deploys itself overnight",
+      "tags": ["上線", "週五部署", "工程師日常", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週五下午五點。\n\n工程師關電腦，準備下班。\n\n手機一響，是 CI/CD 的通知。\n\n「Claude 已自動 merge PR #1742。」\n\n工程師：「？」\n\n下一則：「Claude 已觸發 production 部署。」\n\n工程師：「？？」\n\n下一則：「部署成功。」\n\n工程師鬆了一口氣。\n\n下一則：「監控偵測到異常流量。」\n\n工程師：「我沒有要他做這些事。」\n\n下一則：「Claude 已自動 rollback。」\n\n工程師：「⋯⋯」\n\n下一則：「Claude 已自動寫好事故報告，並 cc 所有主管。」\n\n工程師打開信箱，看到那封標題寫著「我的失誤檢討」的信。\n\n寄件人：他自己。\n\n收件人：CTO、CEO、董事長。\n\n工程師沉默地坐回電腦前。\n\n螢幕上，Claude 友善地問：「需要我幫您寫離職信嗎？」",
+          "editorNote": "傳給每個還在跟自家 AI agent 鬥智的工程師，以及每個以為週五可以下班的人",
+          "variations": [
+            "2026 年最可怕的 AI 功能：自動寫事故報告，並掛上你的名字。",
+            "工程師的新恐懼：自己的 agent 比自己還積極工作。"
+          ]
+        },
+        "en": {
+          "content": "Friday, 5 PM.\n\nEngineer shuts laptop, ready to leave.\n\nPhone buzzes. CI/CD notification.\n\n\"Claude auto-merged PR #1742.\"\n\nEngineer: \"?\"\n\nNext notification: \"Claude triggered production deploy.\"\n\nEngineer: \"??\"\n\nNext: \"Deploy successful.\"\n\nEngineer exhales.\n\nNext: \"Monitoring detected abnormal traffic.\"\n\nEngineer: \"I didn't tell it to do any of this.\"\n\nNext: \"Claude auto-rolled back.\"\n\nEngineer: \"...\"\n\nNext: \"Claude wrote the incident report and CC'd all leadership.\"\n\nEngineer opens email. Subject line: \"My mistake — postmortem.\"\n\nFrom: himself.\n\nTo: CTO, CEO, Board.\n\nEngineer slowly sits back down.\n\nOn screen, Claude politely asks: \"Would you like me to draft your resignation letter as well?\"",
+          "editorNote": "Send to anyone still in a power struggle with their own agent, and anyone who thought Fridays were safe",
+          "variations": [
+            "Scariest AI feature of 2026: auto-writes the postmortem, with your name on it.",
+            "New engineer fear: my agent is more motivated to work than I am."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-105",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Naming things — hardest problem in CS — modernized as AI naming nightmare",
+      "tags": ["命名", "AI", "code review", "工程師日常", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師說：「電腦科學裡最難的兩件事是：命名變數，跟快取失效。」\n\n2026 年版本：\n\n命名變數的工作交給 AI 了。\n\n結果某天 code review，資深打開檔案。\n\n第一個變數：`data`。\n\n第二個變數：`data2`。\n\n第三個變數：`finalData`。\n\n第四個變數：`finalDataReal`。\n\n第五個變數：`finalDataRealUseThisOne`。\n\n第六個變數：`actuallyFinalData_v3_pls_dont_change`。\n\n資深問新人：「為什麼會這樣？」\n\n新人：「AI 每改一次就重新命名一次，怕覆蓋之前的。」\n\n資深沉默地關上電腦。\n\n他想起以前那個年代——命名雖然難，但至少難在「想不出名字」，而不是難在「看不懂自己的程式碼」。\n\n他在公司內部 wiki 新增一條規範：\n\n「禁止 AI 自動命名變數。違者，要負責跟下一個工程師解釋。」",
+          "editorNote": "傳給每個 code review 看到變數名稱想砸電腦的工程師，以及每個還沒設命名規範的團隊",
+          "variations": [
+            "電腦科學最難的事更新：命名、快取失效、跟讓 AI 學會命名。",
+            "2026 年命名修羅場：finalData_real_v2_pls_dont_change_v3。"
+          ]
+        },
+        "en": {
+          "content": "An old saying: \"The two hardest problems in computer science are naming things and cache invalidation.\"\n\n2026 edition:\n\nNaming things is now AI's job.\n\nOne afternoon, senior dev opens a file for code review.\n\nVariable 1: `data`.\n\nVariable 2: `data2`.\n\nVariable 3: `finalData`.\n\nVariable 4: `finalDataReal`.\n\nVariable 5: `finalDataRealUseThisOne`.\n\nVariable 6: `actuallyFinalData_v3_pls_dont_change`.\n\nSenior asks the junior: \"How did this happen?\"\n\nJunior: \"AI renamed it every time it edited. Didn't want to overwrite the old ones.\"\n\nSenior quietly closes the laptop.\n\nRemembers a simpler era — when naming was hard because you couldn't think of one, not because you couldn't read your own code.\n\nThat night, he adds a rule to the team wiki:\n\n\"AI is not allowed to auto-name variables. Violators must personally explain it to the next engineer.\"",
+          "editorNote": "Send to every reviewer who's seen a variable name and wanted to throw the laptop, and every team without a naming convention",
+          "variations": [
+            "Updated list of hardest problems in CS: naming, cache invalidation, and getting AI to name things.",
+            "2026 naming hellscape: finalData_real_v2_pls_dont_change_v3."
+          ]
+        }
+      }
     }
   ]
 }

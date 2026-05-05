@@ -425,6 +425,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-019",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://crossing.cw.com.tw/article/14581",
+      "sourceNote": "Reframes the 換日線 「有限消費 vs 無限服務」 observation; original 一杯50元 metaphor for unlimited-service expectation is the rewrite anchor",
+      "tags": ["服務業", "奧客", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人花了五十塊，\n以為買到的是這杯飲料、\n那張收據、\n還有我整個人生的耐心。",
+          "editorNote": "傳給最近被「我有付錢欸」開頭轟炸過的同行。錢買的是商品，不是員工的整副人格。",
+          "variations": [
+            "五十塊買到的是飲料，不是把店員當吵架對象的會員資格。"
+          ]
+        },
+        "en": {
+          "content": "They paid two bucks for a drink\nand thought it came with the receipt,\nthe straw,\nand the rest of my life's patience.",
+          "editorNote": "Send this to anyone hit with the \"but I paid you\" opener this week. Money buys the product, not the employee's entire personality.",
+          "variations": [
+            "Two bucks bought you a drink. It didn't buy you membership in a club where you get to yell at the clerk."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-020",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
+      "sourceNote": "Original — extends the Dcard 「服務至上」 critique with a fresh 「服務業 ≠ 服侍業」 wordplay; one-character distinction is the rewrite anchor",
+      "tags": ["服務業", "金句", "尊嚴", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我做的是服務業，不是服侍業。\n差一個字，差的是我有沒有跪下來的義務。",
+          "editorNote": "適合做成員工休息室的小卡，或印在識別證背面。一個字的差別，整個人格的距離。",
+          "variations": [
+            "服務跟服侍只差一個字，但中間隔的是一整條尊嚴的線。"
+          ]
+        },
+        "en": {
+          "content": "I work in service — not in servitude.\nOne letter different. One whole question of whether I owe you my knees.",
+          "editorNote": "Print it on a break-room card or stick it on the back of your name badge. One letter, one entire boundary.",
+          "variations": [
+            "Service and servitude — one letter apart, a whole dignity apart."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-021",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://greatergood.berkeley.edu/article/item/what_is_emotional_labor_and_why_does_it_matter",
+      "sourceNote": "Inspired by Susan David's emotional-labor 「professional game face」 framing; original 「微笑是我的制服第二件」 layered-uniform image is the rewrite",
+      "tags": ["服務業", "情緒勞動", "制服", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們的制服有兩件：\n一件是公司發的，\n一件是微笑——\n後面那件，沒有人幫你洗，\n也沒有人替你燙。",
+          "editorNote": "傳給每天回家把笑容跟制服一起脫下來、卻發現微笑黏在臉上拿不下來的同行。",
+          "variations": [
+            "微笑是員工自費的第二套制服，髒了還要自己處理。"
+          ]
+        },
+        "en": {
+          "content": "We wear two uniforms:\nthe one the company hands out,\nand the smile.\nNobody washes the second one for you.\nNobody irons it either.",
+          "editorNote": "Send this to anyone who peels off both the uniform and the smile after a shift — and notices the smile sometimes won't come off.",
+          "variations": [
+            "The smile is uniform number two. Bought by you, dry-cleaned by you, and never reimbursed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-022",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://vocus.cc/article/64f365aefd89780001b09f20",
+      "sourceNote": "Original — extends the 方格子 「客人欺善怕惡」 observation with a fresh manager-summoning trope; the 「店長出來他就變人」 pivot is the rewrite",
+      "tags": ["服務業", "奧客", "客人", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人對我大小聲整整十分鐘。\n店長出來，他突然會用敬語了。\n原來他不是聽不懂禮貌，\n是分得清誰罵得起、誰罵不起。",
+          "editorNote": "傳給今天被客人挑軟柿子吃、店長一出現就被當隱形人的同事。看得最清楚的，永遠是被欺負的那個。",
+          "variations": [
+            "客人的禮貌，是看職稱發放的，不是看人發放的。"
+          ]
+        },
+        "en": {
+          "content": "He yelled at me for ten minutes straight.\nThen the manager walked over and suddenly he remembered his manners.\nTurns out he understood politeness all along —\nhe just knew exactly who he could afford to yell at.",
+          "editorNote": "Send to the coworker who got picked on today and went invisible the moment the manager appeared. The person being bullied always sees it the clearest.",
+          "variations": [
+            "Customer politeness is distributed by job title, not by humanity."
+          ]
+        }
+      }
     }
   ]
 }

@@ -2668,6 +2668,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-107",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://punsify.com/dad-jokes/",
+      "sourceNote": "受『I told my Wi-Fi a joke, it didn't connect』科技梗啟發，改寫為咖啡廳遠端工作對話版",
+      "tags": ["雙關", "科技", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在咖啡廳遠端工作，對著筆電說了一個笑話。\n\n隔壁桌：「你在跟誰講話？」\n\n我：「我跟Wi-Fi講笑話。」\n\n隔壁桌：「結果呢？」\n\n我：「它沒連上。」\n\n隔壁桌：「那你重開機看看。」\n\n我：「我也想重開機，但人生不支援。」",
+          "editorNote": "適合在咖啡廳工作崩潰、想休息卻不能休息時自嘲",
+          "variations": [
+            "也可以改成跟藍牙講：『我跟我的藍牙牙講祕密，結果它配對到隔壁桌。』"
+          ]
+        },
+        "en": {
+          "content": "I was working remotely at a cafe and told my laptop a joke.\n\nGuy next to me: \"Who are you talking to?\"\n\nMe: \"I told my Wi-Fi a joke.\"\n\nHim: \"And?\"\n\nMe: \"It didn't connect.\"\n\nHim: \"Try rebooting.\"\n\nMe: \"I'd reboot myself, but life doesn't support that.\"",
+          "editorNote": "Self-deprecating cafe-worker humor for when you've stared at your screen too long",
+          "variations": [
+            "Bluetooth version: \"I told my Bluetooth a secret. It paired with the guy next to me.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-108",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://manmandays.com/joke/",
+      "sourceNote": "受『4×4=石榴』台式數字諧音梗啟發，改寫為國中數學課情境版",
+      "tags": ["諧音", "校園", "數學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "數學課老師問：「四乘四等於多少？」\n\n小明舉手：「石榴。」\n\n老師：「答錯，是十六。」\n\n小明：「老師，十六台語就是石榴。」\n\n老師深呼吸：「那五乘五呢？」\n\n小明：「二十五，台語叫『二五仔』，所以這題不能講，會被學長盯上。」\n\n老師：「下課你留下來，我們來做更多『心算』練習。」",
+          "editorNote": "適合在班上跟同學亂答數學題的時候講，越正經的場合越好笑",
+          "variations": [
+            "也可以接：『那七乘七呢？四十九，意思是『死就死』，這題我放棄。』"
+          ]
+        },
+        "en": {
+          "content": "Math teacher: \"What's four times four?\"\n\nKid raises hand: \"A pomegranate.\"\n\nTeacher: \"Wrong. It's sixteen.\"\n\nKid: \"In Taiwanese, sixteen sounds exactly like pomegranate.\"\n\nTeacher, taking a long breath: \"Fine. Five times five?\"\n\nKid: \"Twenty-five, but I can't say it out loud — it sounds like 'snitch' in Taiwanese.\"\n\nTeacher: \"Stay after class. We're doing more 'mental' arithmetic.\"",
+          "editorNote": "Classroom cringe — works best when delivered with a totally straight face",
+          "variations": [
+            "Add: \"Seven times seven? Forty-nine, which sounds like 'whatever, I give up' in Taiwanese.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-109",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "受『slow tomato — ketchup』經典dad pun啟發，改寫為家庭夜市買鹽酥雞情境版",
+      "tags": ["諧音", "食物", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全家去夜市買鹽酥雞，弟弟走得超慢。\n\n爸爸催：「你快一點啦。」\n\n弟弟：「我是番茄。」\n\n爸爸：「番茄怎樣？」\n\n弟弟：「番茄走很慢，但是會『跟上』（catch up = ketchup）。」\n\n爸爸：「那我們是九層塔，先走了。」\n\n弟弟：「為什麼？」\n\n爸爸：「因為我們不等你，配什麼都香。」",
+          "editorNote": "適合全家逛夜市的時候講，把不耐煩變成笑話",
+          "variations": [
+            "也可以改成兄弟賽跑版：『我是番茄，你是美乃滋，我們在沙拉裡見。』"
+          ]
+        },
+        "en": {
+          "content": "The family was walking to the night market and my little brother kept lagging.\n\nDad: \"Hurry up.\"\n\nBro: \"I'm a tomato.\"\n\nDad: \"And?\"\n\nBro: \"Tomatoes are slow, but I'll ketchup.\"\n\nDad: \"Then we're basil. Going ahead.\"\n\nBro: \"Why basil?\"\n\nDad: \"Because we don't wait for you, and we still pair with anything.\"",
+          "editorNote": "Use this on a family stroll — turns impatience into a punchline",
+          "variations": [
+            "Race version: \"I'm a tomato, you're mayo. See you in the salad.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-110",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://pungenius.fun/dad-jokes-2026/",
+      "sourceNote": "受『cloud storage = sky-high prices』雲端梗啟發，改寫為新創公司會議室情境版",
+      "tags": ["雙關", "辦公室", "科技"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新創公司開會，財務說：「我們的雲端儲存費用，又漲了。」\n\n老闆：「為什麼？」\n\n財務：「因為它叫『雲端』，價格當然飛天。」\n\n工程師舉手：「那我們改用『地端』好了，至少摔下來不會痛。」\n\n老闆：「那行銷部門呢？」\n\n行銷：「我們在『雲深不知處』。」\n\n老闆：「所以你們的進度也找不到？」",
+          "editorNote": "適合在新創或軟體公司同事間互相吐槽，越貼近現實越冷",
+          "variations": [
+            "也可以接：『那資料庫呢？』『資料庫在地下室，因為它已經跌停了。』"
+          ]
+        },
+        "en": {
+          "content": "Startup meeting. Finance: \"Our cloud storage bill went up again.\"\n\nCEO: \"Why?\"\n\nFinance: \"It's the cloud — the prices are sky-high by definition.\"\n\nEngineer: \"Let's switch to ground storage. At least when it crashes, it doesn't hurt as much.\"\n\nCEO: \"And marketing?\"\n\nMarketing: \"We're somewhere in the clouds, hard to locate.\"\n\nCEO: \"So your progress is also missing?\"",
+          "editorNote": "Startup meeting cringe; the closer to your real Monday, the colder it lands",
+          "variations": [
+            "Add: \"What about the database?\" \"In the basement — it already hit rock bottom.\""
+          ]
+        }
+      }
     }
   ]
 }

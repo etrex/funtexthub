@@ -2763,6 +2763,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-102",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://manmandays.com/cheesy-pickup-lines/",
+      "sourceNote": "Riff on the classic '門是什麼做的' line, pushed into a longer conversational beat",
+      "tags": [
+        "對話",
+        "經典",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道我家門是什麼做的嗎？」\n「木頭吧。」\n「那公司大門呢？」\n「金屬的吧。」\n「那我心裡那扇門呢？」\n「不知道欸。」\n「你做的，而且只有你進得來。」",
+          "editorNote": "經典門系列的延伸版，多鋪兩層問答讓對方更難猜到結尾，最後一句要放慢語速講才會甜",
+          "variations": [
+            "你知道我手機鎖屏密碼是什麼嗎？不知道。是你生日，但你不用解，反正我整個人都已經幫你解鎖了。",
+            "那我心裡的鎖呢？不知道耶。我也不知道，我只知道鑰匙在你那邊。"
+          ]
+        },
+        "en": {
+          "content": "\"What do you think my front door is made of?\"\n\"Wood, probably?\"\n\"What about my office door?\"\n\"Metal?\"\n\"Okay, what about the door to my heart?\"\n\"I have no idea.\"\n\"You. And you're the only one with a key.\"",
+          "editorNote": "An extended take on the classic 'door' setup — adding the extra rounds of guessing makes the punchline land harder; deliver the last line slower for maximum effect",
+          "variations": [
+            "Want to guess my phone passcode? It's your birthday — but don't bother trying it, you've already unlocked the whole thing.",
+            "What about the lock on my heart? I don't know either, but I'm pretty sure you walked off with the key."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-103",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://www.beauty321.com/post/68558",
+      "sourceNote": "Riff on the '我最近吃素／你是我的菜' template, modernized with food delivery context",
+      "tags": [
+        "對話",
+        "日常",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「欸你晚餐吃了嗎？」\n「還沒，要叫外送，你呢？」\n「我也沒吃。」\n「那要不要一起點？」\n「不用了，我看到你就飽了——但是飽歸飽，我還是想多看你幾眼，你慢慢吃。」",
+          "editorNote": "把『你是我的菜』改成更生活感的外送情境，第一段假裝要一起點餐，最後一句反轉超賤但很甜",
+          "variations": [
+            "外送app我刪掉了，因為打開只想看到你的名字。",
+            "我點了兩份餐，一份給你，一份是我自己——可是不知道為什麼，我看你吃我就飽。"
+          ]
+        },
+        "en": {
+          "content": "\"Have you had dinner yet?\"\n\"Not yet, about to order delivery. You?\"\n\"Same.\"\n\"Want to order together?\"\n\"Nah, I'm full just from looking at you — but keep eating, I'm gonna keep looking anyway.\"",
+          "editorNote": "Modernizes the old 'you're my dish' line with a food delivery setup; the fakeout of seeming to plan a meal together makes the punchline sneakier",
+          "variations": [
+            "I uninstalled DoorDash. Every time I opened it I just kept hoping your name would pop up instead of restaurants.",
+            "I ordered two meals — one for you, one for me. Weirdly though, watching you eat is filling enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-104",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://blog.accupass.com/chinese-valentines-day.html",
+      "sourceNote": "Phone battery / charging metaphor, popular 2026 update of the 'I need you to function' template",
+      "tags": [
+        "對話",
+        "日常",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「欸我手機快沒電了，你有充電線嗎？」\n「我這邊只有type-C的。」\n「沒關係，反正我充再多也沒用。」\n「為什麼？」\n「因為我真正的電源是你，你一不回訊息我就直接掉到百分之一。」",
+          "editorNote": "從借充電線這種日常請求切入，最後反轉成『你才是我的電源』，很適合在咖啡廳或聚會借東西的時候用",
+          "variations": [
+            "我手機今天怎麼充都充不滿，後來才發現，原來只有看到你的訊息才會跳到100%。",
+            "充電線借你，但是你欠我的不是電，是回我訊息的速度。"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, my phone's about to die — got a charger?\"\n\"Only USB-C.\"\n\"Doesn't matter, charging won't help anyway.\"\n\"Why not?\"\n\"You're my actual power source. The second you stop replying, I drop straight to 1%.\"",
+          "editorNote": "Starts as a totally normal 'can I borrow a charger' moment and pivots to 'you ARE the charger' — works great in cafes or at parties when you're actually low on battery",
+          "variations": [
+            "My phone wouldn't hit 100% all day. Turns out it only fills up when I see a text from you.",
+            "Sure, you can borrow my cable. But you still owe me — not power, just a faster reply time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-105",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://www.classpop.com/magazine/pick-up-lines",
+      "sourceNote": "Modernized 'autocomplete' line, expanded into a longer back-and-forth",
+      "tags": [
+        "對話",
+        "科技",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你會用語音輸入嗎？」\n「會啊，怎樣？」\n「我的手機最近怪怪的。」\n「怎麼了？」\n「我打『我喜歡』，它自動補上你的名字；我打『晚安』，它直接幫我加『我想你了』。」\n「那是bug吧。」\n「不是，是它比我誠實。」",
+          "editorNote": "把『autocomplete me』那個老梗拉長成完整對話，加上『手機比我誠實』這個轉折讓告白變得不那麼刻意",
+          "variations": [
+            "Siri最近一直叫錯名字，我說『打給媽媽』她直接打給你，我才發現原來連她都看出來了。",
+            "我輸入法的常用詞第一個是你的名字，第二個是『想你』，第三個是『等回覆』，超級丟臉。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you ever use voice-to-text?\"\n\"Sometimes, why?\"\n\"My phone's been acting weird lately.\"\n\"What's it doing?\"\n\"I type 'I like' and it autocompletes your name. I type 'goodnight' and it adds 'I miss you.'\"\n\"That sounds like a bug.\"\n\"Nope. It's just more honest than I am.\"",
+          "editorNote": "Stretches the classic 'autocomplete me' joke into a full back-and-forth — the 'more honest than I am' line softens the confession so it lands as funny instead of intense",
+          "variations": [
+            "Siri keeps misdialing — I say 'call Mom' and it calls you instead. Even she figured it out before I did.",
+            "The top three words in my keyboard suggestions are your name, 'miss you,' and 'waiting for reply.' Genuinely embarrassing."
+          ]
+        }
+      }
     }
   ]
 }
