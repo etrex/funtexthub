@@ -1,0 +1,395 @@
+{
+  "slug": "food-jokes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "食物笑話精選",
+      "description": "從諧音梗店名到夜市對話，收錄各種讓人邊笑邊餓的台味食物笑話"
+    },
+    "en": {
+      "title": "Food Jokes Collection",
+      "description": "From pun-filled shop names to night market banter — bite-sized food jokes that'll make you laugh and crave a snack"
+    }
+  },
+  "items": [
+    {
+      "id": "fj-001",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://look.s3.com.tw/look/outfit/f21er5/page/23491",
+      "sourceNote": "台灣諧音梗店名文化參考",
+      "tags": [
+        "諧音",
+        "店名",
+        "飲料"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友開了間飲料店叫「可不可」。\n我問：「為什麼取這個名字？」\n他：「客人問可不可以打折，我可以理直氣壯回他 — 不可以。」",
+          "editorNote": "適合在 LINE 群組分享，搭配抱怨被店家拒絕折扣的話題",
+          "variations": [
+            "也可以改成早餐店版本：店名「加不加」，客人問加蛋免錢嗎，老闆回 — 不加"
+          ]
+        },
+        "en": {
+          "content": "My friend opened a drink shop called \"Can or Can't.\"\nI asked why.\nHim: \"When customers ask if they can get a discount, the answer is right there in the name — they can't.\"",
+          "editorNote": "Share in chats about petty business names",
+          "variations": [
+            "Breakfast shop version: name it \"Yes or No.\" Customer asks if eggs are free. Owner: \"No.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-002",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "端午節 粽子擬人格式 — 2026-05-02 research log seed",
+      "tags": [
+        "端午",
+        "粽子",
+        "擬人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "粽子對著人說：\n「我卸下外衣以後，照樣光鮮亮麗。\n不像你 — 一張嘴，就露餡。」",
+          "editorNote": "端午節前後在 IG 限動發，配粽子照超應景",
+          "variations": [
+            "也可以加一句：「你還是先把嘴閉好再說話吧」",
+            "對主管版本：「主管的承諾跟粽子一樣 — 包得很漂亮，打開全是餡」"
+          ]
+        },
+        "en": {
+          "content": "A zongzi says to a person:\n\"When I take off my wrap, I still look good.\nUnlike you — open your mouth, and the filling spills out.\"",
+          "editorNote": "Perfect for Dragon Boat Festival posts with a zongzi photo",
+          "variations": [
+            "Boss version: a manager's promise is just like a zongzi — wrapped beautifully, but open it up and it's all filler"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-003",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "珍奶 厭世格式 — original",
+      "tags": [
+        "飲料",
+        "珍奶",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼珍珠奶茶這麼受歡迎？\n因為它有奶、有茶、有珍珠 — 比很多人的人生豐富多了。",
+          "editorNote": "週一上班 LINE 群組吐槽用",
+          "variations": [
+            "也可以接：「至少珍珠每一顆都很扎實，不像我的人生鬆散」"
+          ]
+        },
+        "en": {
+          "content": "Why is bubble tea so popular?\nIt's got milk, tea, and pearls — already richer than most people's lives.",
+          "editorNote": "Monday morning group chat material",
+          "variations": [
+            "Add: \"At least every pearl is solid — unlike my life choices.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-004",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "夜市食物擬人 — original",
+      "tags": [
+        "夜市",
+        "臭豆腐",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友：「為什麼臭豆腐越臭越好吃？」\n我：「因為它放下了包袱，做自己。」",
+          "editorNote": "可以接著聊「人生何嘗不是一塊臭豆腐」",
+          "variations": [
+            "延伸版：「臭豆腐告訴我們，被討厭也能很搶手」"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"Why does stinky tofu taste better the smellier it gets?\"\nMe: \"Because it stopped caring what people think.\"",
+          "editorNote": "Use as a follow-up to \"life is just a piece of stinky tofu\"",
+          "variations": [
+            "Extension: \"Stinky tofu teaches us — you can be polarizing and still be in demand.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-005",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "牛肉麵 厭世上班族 cross — original",
+      "tags": [
+        "麵食",
+        "牛肉麵",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼牛肉麵的湯特別香？\n因為它熬了一整夜 —\n跟剛下班的我一樣。",
+          "editorNote": "適合加班後在限動發牛肉麵照",
+          "variations": [
+            "也可以接：「差別是它越熬越香，我越熬越爛」"
+          ]
+        },
+        "en": {
+          "content": "Why is beef noodle soup so flavorful?\nIt simmered all night —\nsame as me after work.",
+          "editorNote": "Pair with a late-night noodle photo on stories",
+          "variations": [
+            "Extension: \"The difference is it gets better, I get worse.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-006",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "早餐店日常對話 — original",
+      "tags": [
+        "早餐",
+        "對話",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店阿姨：「妹妹今天加蛋還是加培根？」\n我：「都加。」\n阿姨：「昨天熬夜了喔？」\n我：「妳怎麼看出來的？」\n阿姨：「沒睡飽的人才會用兩種蛋白質補回去。」",
+          "editorNote": "上班族日常觀察，適合限動配蛋餅照",
+          "variations": [
+            "結尾改成：阿姨默默多送一杯豆漿，說「撐住」"
+          ]
+        },
+        "en": {
+          "content": "Breakfast shop auntie: \"Egg or bacon today, sweetie?\"\nMe: \"Both, please.\"\nAuntie: \"Pulled an all-nighter, didn't you?\"\nMe: \"How can you tell?\"\nAuntie: \"Only sleep-deprived people order two kinds of protein to compensate.\"",
+          "editorNote": "Office worker observational humor — pair with an egg pancake photo",
+          "variations": [
+            "Ending alt: Auntie quietly throws in a free soy milk and says, \"Hang in there.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-007",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "雞排 考試文化 — original",
+      "tags": [
+        "夜市",
+        "雞排",
+        "考試"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼考完試一定要吃雞排？\n因為書讀進去要靠記憶力，\n雞排吃進去只要靠胃容量 —\n至少胃比大腦聽話。",
+          "editorNote": "考試季學生群組分享必備",
+          "variations": [
+            "畢業季版本：「至少這四年，我的胃從沒讓我失望」"
+          ]
+        },
+        "en": {
+          "content": "Why do students always eat fried chicken after exams?\nMemorizing facts depends on your brain.\nEating chicken just depends on your stomach —\nand at least the stomach actually does what you tell it.",
+          "editorNote": "Group chat fuel during finals week",
+          "variations": [
+            "Graduation version: \"In four years of college, my stomach never let me down.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-008",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "滷肉飯 療癒 — original",
+      "tags": [
+        "台灣",
+        "滷肉飯",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "滷肉飯是台灣人的心靈療癒。\n不管那天再怎麼難熬，\n看到那碗淋上滷汁的飯 —\n你就會原諒自己。",
+          "editorNote": "週日晚上厭世時 po 文用",
+          "variations": [
+            "也可以結尾改：「然後決定明天再厭世一次」"
+          ]
+        },
+        "en": {
+          "content": "Braised pork rice is Taiwan's soul food.\nNo matter how rough the day was,\nthe moment you see the gravy hit the rice —\nyou forgive yourself.",
+          "editorNote": "Sunday-night post when the Monday dread sets in",
+          "variations": [
+            "Alt ending: \"…and then decide to dread tomorrow all over again.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-009",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "餃子 諧音 — original",
+      "tags": [
+        "諧音",
+        "餃子",
+        "麵食"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼餃子永遠不會孤單？\n\n因為它總是「成雙成對」的下水餃。",
+          "editorNote": "情人節單身者反擊用，記得面無表情念出來",
+          "variations": [
+            "對單身者版本：「我跟餃子一樣，都是被一鍋同類包圍著卻覺得很孤單」"
+          ]
+        },
+        "en": {
+          "content": "Why are dumplings never lonely?\n\nThey always go into the pot in pairs — and never solo.",
+          "editorNote": "Single-person comeback for Valentine's — deliver with a straight face",
+          "variations": [
+            "Single-person version: \"I'm like a dumpling — surrounded by my own kind in a pot, and still feel alone.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-010",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "https://look.s3.com.tw/look/outfit/f21er5/page/23491",
+      "sourceNote": "鶴茶樓 諧音店名 文化",
+      "tags": [
+        "諧音",
+        "店名",
+        "飲料"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "經過一間飲料店叫「鶴茶樓」。\n我跟朋友說：「來喝茶嘍！」\n朋友：「我不渴。」\n我：「沒關係，這店名你只要念出口，就等於下單了。」",
+          "editorNote": "台灣諧音店名文化代表，可搭配各種台味店名介紹",
+          "variations": [
+            "也可以加上「八曜和茶」「吾燕煮」等其他諧音店名延伸"
+          ]
+        },
+        "en": {
+          "content": "We passed a drink shop literally called \"Crane Tea House\" — but in Mandarin it sounds exactly like \"let's go drink tea!\"\nThe trick is: if you say its name out loud, you've already placed an order.",
+          "editorNote": "Showcase of Taiwan's pun-shop-name culture — works as an intro to any \"funny shop names\" thread",
+          "variations": [
+            "Extend with other classic pun shop names from Taiwan's homophone-loving food scene"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-011",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "火鍋 天氣連結 — original",
+      "tags": [
+        "火鍋",
+        "天氣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼下雨天大家都想吃火鍋？\n\n因為人生已經夠濕了，\n至少嘴巴裡的東西要熱的。",
+          "editorNote": "梅雨季 LINE 群組約飯用",
+          "variations": [
+            "冬天版本：「天氣已經夠冷，至少胃要先給自己暖一下」"
+          ]
+        },
+        "en": {
+          "content": "Why does everyone crave hot pot on rainy days?\n\nLife is already wet enough —\nat least keep your mouth warm.",
+          "editorNote": "Use this to drum up rainy-day group dinners",
+          "variations": [
+            "Winter version: \"Weather's cold enough — at least your stomach should warm itself first.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-012",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "上班族 便當 厭世 — original",
+      "tags": [
+        "上班族",
+        "便當",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上班族的便當有三種：\n今天買的、昨天剩的、\n以及「沒時間吃」的。\n\n而第三種，永遠是賣得最好的。",
+          "editorNote": "適合午休群組吐槽用",
+          "variations": [
+            "也可以延伸：「第四種叫做『放在抽屜裡發現時已長毛』的」"
+          ]
+        },
+        "en": {
+          "content": "There are three kinds of office worker lunchbox:\ntoday's, yesterday's leftovers,\nand the \"no time to eat it\" one.\n\nThe third type is always the bestseller.",
+          "editorNote": "Lunch-break group chat fuel",
+          "variations": [
+            "Extension: \"The fourth kind is the one you find in your drawer two weeks later, growing fur.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-013",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "鹹酥雞 攤販對話 — original",
+      "tags": [
+        "夜市",
+        "鹹酥雞",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鹹酥雞攤老闆：「九層塔要嗎？」\n我：「要。」\n老闆：「辣嗎？」\n我：「微辣。」\n老闆：「胡椒？」\n我：「OK。」\n老闆：「再加 30 元。」\n我：「為什麼？」\n老闆：「靈魂的代價。」",
+          "editorNote": "下班買鹹酥雞時 IG 限動配照片用",
+          "variations": [
+            "也可以結尾改：老闆嘆氣說「現在連靈魂都漲價了」"
+          ]
+        },
+        "en": {
+          "content": "Fried chicken vendor: \"Basil?\"\nMe: \"Yes.\"\nVendor: \"Spicy?\"\nMe: \"Mild.\"\nVendor: \"Pepper?\"\nMe: \"Sure.\"\nVendor: \"That'll be thirty more.\"\nMe: \"For what?\"\nVendor: \"The price of soul.\"",
+          "editorNote": "Caption for late-night street food photos",
+          "variations": [
+            "Alt ending: vendor sighs — \"Even soul has inflation these days.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-014",
+      "dateAdded": "2026-05-05",
+      "sourceUrl": "",
+      "sourceNote": "端午節 粽子派系 上班族 cross — 2026-05-02 research log",
+      "tags": [
+        "端午",
+        "粽子",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問：「你今年端午吃哪一派的粽子？」\n我：「中立派。」\n同事：「中立派是什麼？」\n我：「誰先送到我家，誰就是我心目中的正統。」",
+          "editorNote": "端午節前一週，用來終結南北粽戰爭",
+          "variations": [
+            "也可以接：「我發現嘴巴塞滿粽子的時候，立場其實很容易改變」"
+          ]
+        },
+        "en": {
+          "content": "Coworker: \"Which side are you on for zongzi this year — northern or southern?\"\nMe: \"Neutral.\"\nCoworker: \"What does neutral mean?\"\nMe: \"Whoever delivers to my house first wins my heart.\"",
+          "editorNote": "Use the week before Dragon Boat Festival to end the regional zongzi war",
+          "variations": [
+            "Add: \"Turns out, with a mouthful of zongzi, your political stance becomes very flexible.\""
+          ]
+        }
+      }
+    }
+  ]
+}
