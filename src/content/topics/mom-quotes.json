@@ -13,11 +13,16 @@
   },
   "items": [
     {
-      "id": "mq-001",
+      "id": "momq-001",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "inspired by classic mom behavior humor; original composition",
-      "tags": ["媽媽", "矛盾", "日常", "母親節"],
+      "tags": [
+        "媽媽",
+        "矛盾",
+        "日常",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽說她不干涉我的生活。\n然後每天傳訊息問我吃了沒、冷不冷、最近壓力大不大。\n不干涉，她真的很努力在嘗試。",
@@ -36,11 +41,16 @@
       }
     },
     {
-      "id": "mq-002",
+      "id": "momq-002",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "merchandise metaphor angle; original composition",
-      "tags": ["媽媽", "感恩", "幽默", "母親節"],
+      "tags": [
+        "媽媽",
+        "感恩",
+        "幽默",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽是這世界上唯一一個，拿到不良品卻從來沒想過退貨的人。\n謝謝你選擇留下我，繼續嘗試修好我。",
@@ -59,11 +69,16 @@
       }
     },
     {
-      "id": "mq-003",
+      "id": "momq-003",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "selective memory humor; original composition",
-      "tags": ["媽媽", "記憶力", "幽默", "日常"],
+      "tags": [
+        "媽媽",
+        "記憶力",
+        "幽默",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽的記憶力有選擇性：\n我二十年前說過的蠢話，她記得清清楚楚。\n我上週做過的好事，她說忘了。",
@@ -82,11 +97,16 @@
       }
     },
     {
-      "id": "mq-004",
+      "id": "momq-004",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom's sixth sense; original composition",
-      "tags": ["媽媽", "超能力", "幽默", "家庭"],
+      "tags": [
+        "媽媽",
+        "超能力",
+        "幽默",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽有一種超能力：\n光聽你說「媽——」的語氣，就知道你是正常打招呼，還是出事了，還是想要什麼。\n你根本沒開口說完，她已經在回答了。",
@@ -105,11 +125,16 @@
       }
     },
     {
-      "id": "mq-005",
+      "id": "momq-005",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom's cooking is unbeatable humor; original composition",
-      "tags": ["媽媽", "料理", "家庭", "溫馨"],
+      "tags": [
+        "媽媽",
+        "料理",
+        "家庭",
+        "溫馨"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "外面吃了這麼多年，從路邊攤到餐廳，還是沒有一道菜贏過我媽的家常菜。\n我覺得這不是廚藝問題，這是她在裡面多放了什麼我不知道的東西。",
@@ -128,11 +153,16 @@
       }
     },
     {
-      "id": "mq-006",
+      "id": "momq-006",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom's medical diagnosis humor; original composition",
-      "tags": ["媽媽", "健康", "幽默", "日常"],
+      "tags": [
+        "媽媽",
+        "健康",
+        "幽默",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽的醫學體系很完整：\n打噴嚏 → 沒穿外套\n肚子痛 → 沒吃早餐\n頭痛 → 手機看太久\n心情不好 → 最近不乖\n\n病症不同，根源一樣：都是我的錯。",
@@ -151,11 +181,16 @@
       }
     },
     {
-      "id": "mq-007",
+      "id": "momq-007",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom's timing for phone calls; original composition",
-      "tags": ["媽媽", "電話", "日常", "幽默"],
+      "tags": [
+        "媽媽",
+        "電話",
+        "日常",
+        "幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽打電話來的時機永遠是：正在開會、剛要睡著、手沾著麵粉、最不方便的那一刻。\n但奇怪的是，那個時間點通常也剛好是我最需要聽到她聲音的時候。",
@@ -174,11 +209,16 @@
       }
     },
     {
-      "id": "mq-008",
+      "id": "momq-008",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom as detective/GPS; original composition",
-      "tags": ["媽媽", "超能力", "幽默", "家庭"],
+      "tags": [
+        "媽媽",
+        "超能力",
+        "幽默",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽不用追蹤軟體就知道我在哪裡。\n她只是會在我走到哪裡的時候說：「那裡人多，小心點。」\n然後那裡真的就很多人。",
@@ -197,11 +237,16 @@
       }
     },
     {
-      "id": "mq-009",
+      "id": "momq-009",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom's career advice humor; original composition",
-      "tags": ["媽媽", "職業", "幽默", "日常"],
+      "tags": [
+        "媽媽",
+        "職業",
+        "幽默",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽對職業的評分標準只有一個：穩不穩定。\n我說我在做創意工作，她問：「那有勞健保嗎？」\n我說有，她說：「那還好。」",
@@ -220,11 +265,17 @@
       }
     },
     {
-      "id": "mq-010",
+      "id": "momq-010",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "nagging as love translation; original composition",
-      "tags": ["媽媽", "嘮叨", "溫馨", "家庭", "母親節"],
+      "tags": [
+        "媽媽",
+        "嘮叨",
+        "溫馨",
+        "家庭",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽說「你怎麼又這樣」的時候，\n翻譯成白話文是：我很擔心你。\n\n媽媽說「你這孩子啊」嘆氣的時候，\n翻譯成白話文是：我很愛你，但說不出口。",
@@ -243,11 +294,17 @@
       }
     },
     {
-      "id": "mq-011",
+      "id": "momq-011",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom's sacrifice without scorekeeping; original composition",
-      "tags": ["媽媽", "感恩", "溫馨", "親情", "母親節"],
+      "tags": [
+        "媽媽",
+        "感恩",
+        "溫馨",
+        "親情",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽從來不算她為你付出了多少。\n不是因為不多，是因為她根本沒有把它算成「付出」。\n在她那邊，那些都叫做「當然」。",
@@ -266,11 +323,17 @@
       }
     },
     {
-      "id": "mq-012",
+      "id": "momq-012",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "jacket commandment humor; original composition",
-      "tags": ["媽媽", "外套", "幽默", "日常", "家庭"],
+      "tags": [
+        "媽媽",
+        "外套",
+        "幽默",
+        "日常",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "住家裡的時候：「外面這麼冷你怎麼不穿外套！」\n搬出去之後：「記得穿外套喔，外面冷。」\n\n結論：媽媽這輩子最大的心願，就是讓你穿外套。",
@@ -289,11 +352,17 @@
       }
     },
     {
-      "id": "mq-013",
+      "id": "momq-013",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom's instant care package preparation; original composition",
-      "tags": ["媽媽", "準備", "溫馨", "家庭", "親情"],
+      "tags": [
+        "媽媽",
+        "準備",
+        "溫馨",
+        "家庭",
+        "親情"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "跟我媽說我明天要早出門，她今晚就準備好了：水果、備用雨傘、一件我不知道自己需要的外套，還有一張寫「記得吃早餐」的字條。\n任何快遞都沒這個速度，也沒這個溫度。",
@@ -312,11 +381,17 @@
       }
     },
     {
-      "id": "mq-014",
+      "id": "momq-014",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mom as the ultimate finder of lost things; original composition",
-      "tags": ["媽媽", "超能力", "幽默", "日常", "家庭"],
+      "tags": [
+        "媽媽",
+        "超能力",
+        "幽默",
+        "日常",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "只要是我媽放的東西，她三秒內找得到。\n如果是我自己收的，那就等同宣告失蹤了。\n\n家裡最大的謎：東西到底是我藏起來的，還是我媽在管理中？",
@@ -335,11 +410,17 @@
       }
     },
     {
-      "id": "mq-015",
+      "id": "momq-015",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
       "sourceNote": "mother's day appreciation in beta product metaphor; original composition",
-      "tags": ["媽媽", "感恩", "母親節", "溫馨", "幽默"],
+      "tags": [
+        "媽媽",
+        "感恩",
+        "母親節",
+        "溫馨",
+        "幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "謝謝媽媽，\n拿到一個還在測試版的作品，\n沒有選擇退貨，\n還每天耐心嘗試更新我。\n\n我知道你很累，\n但你從來沒有放棄過這個版本的我。",
@@ -358,11 +439,17 @@
       }
     },
     {
-      "id": "mq-016",
+      "id": "momq-016",
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by 'mom's coffee always gets cold' trope from motherhood humor roundups; rewritten with original angle about mom never finishing anything for herself",
-      "tags": ["媽媽", "犧牲", "日常", "溫馨", "幽默"],
+      "tags": [
+        "媽媽",
+        "犧牲",
+        "日常",
+        "溫馨",
+        "幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽泡了一杯咖啡，\n喝了兩口，放著，去幫我找東西。\n回來喝了一口，放著，去接電話。\n再回來，涼了，微波，又被打斷。\n\n她這輩子喝過幾杯熱的咖啡，我真的不知道。",
@@ -381,11 +468,17 @@
       }
     },
     {
-      "id": "mq-017",
+      "id": "momq-017",
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://punzillaa.com/funny-motherhood-quotes/",
       "sourceNote": "inspired by the 'silence is suspicious' motherhood joke; rewritten with a countdown and investigation angle",
-      "tags": ["媽媽", "小孩", "幽默", "直覺", "家庭"],
+      "tags": [
+        "媽媽",
+        "小孩",
+        "幽默",
+        "直覺",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "小孩安靜超過三分鐘，我媽一定會出現在你旁邊。\n不是因為她想陪你，\n是因為她知道那個安靜不對勁。\n\n她的雷達沒有關機過。",
@@ -404,11 +497,17 @@
       }
     },
     {
-      "id": "mq-018",
+      "id": "momq-018",
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://punzillaa.com/funny-motherhood-quotes/",
       "sourceNote": "inspired by 'mom has too many mental tabs open' theme from 2026 motherhood humor roundups; rewritten as a relatable multitasking portrait",
-      "tags": ["媽媽", "操心", "幽默", "日常", "超能力"],
+      "tags": [
+        "媽媽",
+        "操心",
+        "幽默",
+        "日常",
+        "超能力"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽的腦袋同時開著：\n今晚煮什麼、明天要繳什麼帳單、我最近臉色好不好、弟弟那邊有沒有問題、爸爸說的那句話是什麼意思……\n\n她從來沒有說「我很累」，\n因為她已經忘了什麼叫做「沒在想事情」。",
@@ -427,11 +526,17 @@
       }
     },
     {
-      "id": "mq-019",
+      "id": "momq-019",
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://tw.news.yahoo.com/%E6%88%91%E6%95%B8%E5%88%B0%E4%B8%89-%E8%81%BD%E5%88%B0%E9%83%BD%E6%9C%83%E8%83%8C-%E7%9B%A4%E9%BB%9E8%E5%8F%A5%E5%AA%BD%E5%AA%BD%E7%B6%93%E5%85%B8%E8%AA%9E%E9%8C%84-%E5%93%AA%E5%8F%A5%E4%B9%9F%E6%98%AF%E4%BD%A0%E7%86%9F%E6%82%89%E7%9A%84%E5%8F%A3%E9%A0%AD%E7%A6%AA-053311940.html",
       "sourceNote": "inspired by the classic '我數到三' mom countdown trope; rewritten with an adult reflection angle",
-      "tags": ["媽媽", "童年", "幽默", "倒數", "家庭"],
+      "tags": [
+        "媽媽",
+        "童年",
+        "幽默",
+        "倒數",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「我數到三喔。一……二……」\n\n長大之後我才發現，\n我媽從來沒有數到三過。\n因為我們每次都在二點五的時候動了。\n\n她其實根本不知道三之後要怎麼辦。",
@@ -450,11 +555,17 @@
       }
     },
     {
-      "id": "mq-020",
+      "id": "momq-020",
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://www.boredpanda.com/funny-mom-quotes/",
       "sourceNote": "inspired by 'turning into your mother' humor theme; rewritten with a self-aware adult discovery angle",
-      "tags": ["媽媽", "成長", "幽默", "認同", "家庭"],
+      "tags": [
+        "媽媽",
+        "成長",
+        "幽默",
+        "認同",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我以前說：「我長大不會像我媽那樣。」\n\n結果有一天，我對著開冷氣又不穿外套的人說：「小心著涼。」\n我聽到自己的聲音，愣了三秒。\n\n原來不是我變成我媽，\n是我終於開始懂她了。",
@@ -473,11 +584,17 @@
       }
     },
     {
-      "id": "mq-021",
+      "id": "momq-021",
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://www.boredpanda.com/funny-mom-quotes/",
       "sourceNote": "inspired by parenting exhaustion and sleep deprivation humor from mom quote collections; original composition with a poetic angle on mom's rest",
-      "tags": ["媽媽", "睡眠", "犧牲", "日常", "溫馨"],
+      "tags": [
+        "媽媽",
+        "睡眠",
+        "犧牲",
+        "日常",
+        "溫馨"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽說她很好睡，倒頭就著。\n\n但我記得小時候，我只要翻個身她就醒了。\n她說那不叫睡著，那叫「備用待機」。\n\n我現在才懂，她大概從來沒有真正睡熟過。",
@@ -496,11 +613,17 @@
       }
     },
     {
-      "id": "mq-022",
+      "id": "momq-022",
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://thesupermomlife.com/funny-parenting-quotes/",
       "sourceNote": "inspired by grocery shopping alone as vacation theme in parenting humor; rewritten as a touching observation about mom's small pleasures",
-      "tags": ["媽媽", "自己時間", "幽默", "日常", "家庭"],
+      "tags": [
+        "媽媽",
+        "自己時間",
+        "幽默",
+        "日常",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽說她最享受的事，是一個人去超市買東西。\n\n不用分心，不用催人，可以好好看每個標價，可以在零食區站很久。\n\n她說那是她的小假期。\n我聽完覺得有點鼻酸，又覺得好懂。",
@@ -519,11 +642,17 @@
       }
     },
     {
-      "id": "mq-023",
+      "id": "momq-023",
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by 'mom repeating herself' parenting humor; rewritten as a reflection on how repetition becomes its own form of love",
-      "tags": ["媽媽", "嘮叨", "幽默", "家庭", "童年"],
+      "tags": [
+        "媽媽",
+        "嘮叨",
+        "幽默",
+        "家庭",
+        "童年"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽說同一句話的次數，可能已經超過一萬次：\n「吃飽了嗎」、「早點睡」、「路上小心」。\n\n以前我覺得煩。\n現在我知道那不是重複，\n那是她每天確認我還好的方式。",
@@ -542,11 +671,17 @@
       }
     },
     {
-      "id": "mq-024",
+      "id": "momq-024",
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://nadinestille.com/article/relatable-funny-mom-quotes-about-real-motherhood-for-mothers-day",
       "sourceNote": "inspired by the 'mom's purse as emergency kit' humor trope; rewritten as an original inventory joke with a warm payoff",
-      "tags": ["媽媽", "包包", "幽默", "超能力", "日常"],
+      "tags": [
+        "媽媽",
+        "包包",
+        "幽默",
+        "超能力",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽的包包裡有：\n衛生紙、OK繃、備用藥、一顆糖、一枝筆、收據、塑膠袋和一顆她說「放著備用」的橡皮筋。\n\n每次我說需要什麼，她都能從包包裡變出來。\n\n我媽不是媽媽，她是移動式便利商店。",
@@ -565,11 +700,17 @@
       }
     },
     {
-      "id": "mq-025",
+      "id": "momq-025",
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://www.rookiemoms.com/funny-parenting-quotes/",
       "sourceNote": "inspired by 'days are long but years are short' parenting theme; rewritten with an original angle on how a child only notices time passing in hindsight",
-      "tags": ["媽媽", "成長", "溫馨", "親情", "母親節"],
+      "tags": [
+        "媽媽",
+        "成長",
+        "溫馨",
+        "親情",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我離家的時候，以為一切都還在。\n\n後來回去，才發現我的房間換了擺設，\n我的杯子被放到後面去了，\n我的位置還在，只是我不常坐了。\n\n媽媽沒說什麼，但她把那個位置留著。\n一直留著。",
@@ -588,11 +729,17 @@
       }
     },
     {
-      "id": "mq-026",
+      "id": "momq-026",
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://www.rd.com/list/funny-mom-quotes-memes/",
       "sourceNote": "inspired by 'nothing is lost until mom can't find it' quote from Reader's Digest humor roundup; rewritten as an original observation about mom being the household's living search engine",
-      "tags": ["媽媽", "超能力", "幽默", "家庭", "日常"],
+      "tags": [
+        "媽媽",
+        "超能力",
+        "幽默",
+        "家庭",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "在我們家，東西不見只有兩種可能：\n我媽還沒找，或是真的不見了。\n\n但第二種情況到目前為止還沒發生過。\n\n我媽不用搜尋引擎。\n她就是搜尋引擎。",
@@ -611,11 +758,17 @@
       }
     },
     {
-      "id": "mq-027",
+      "id": "momq-027",
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://www.purewow.com/entertainment/mothers-day-quotes",
       "sourceNote": "inspired by 'mothers are like glue holding the family together' theme from PureWow Mother's Day roundup; rewritten as an original metaphor about invisible infrastructure",
-      "tags": ["媽媽", "家庭", "溫馨", "感恩", "母親節"],
+      "tags": [
+        "媽媽",
+        "家庭",
+        "溫馨",
+        "感恩",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "這個家能運作，是因為有一個人在你看不見的地方撐著。\n\n記得繳費日、記得誰不吃什麼、記得誰最近心情不好、記得你說過一次但以為沒人聽的小事。\n\n那個人就是你媽。\n她不說，但她都記著。",
@@ -634,11 +787,17 @@
       }
     },
     {
-      "id": "mq-028",
+      "id": "momq-028",
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://www.rd.com/list/funny-mom-quotes-memes/",
       "sourceNote": "inspired by Carrie Underwood's 'finishing kids' leftovers' quote from Reader's Digest and the 'mom eats last' trope; rewritten as an original observation about moms always eating what's left over",
-      "tags": ["媽媽", "飲食", "犧牲", "幽默", "日常"],
+      "tags": [
+        "媽媽",
+        "飲食",
+        "犧牲",
+        "幽默",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽從來不點自己想吃的菜。\n她只說：「你們點，我吃剩的就好。」\n\n長大後我才發現，「剩的就好」這句話她說了三十年。\n那不是客氣，是習慣——一個她早就忘記是怎麼養成的習慣。",
@@ -657,11 +816,17 @@
       }
     },
     {
-      "id": "mq-029",
+      "id": "momq-029",
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://www.purewow.com/entertainment/mothers-day-quotes",
       "sourceNote": "inspired by Tina Fey's 'you just keep going and do the impossible' motherhood quote from PureWow; rewritten as an original reflection on how moms normalize the extraordinary",
-      "tags": ["媽媽", "堅強", "溫馨", "感恩", "母親節"],
+      "tags": [
+        "媽媽",
+        "堅強",
+        "溫馨",
+        "感恩",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽做的很多事，\n如果換一個人來，都會說「這怎麼可能」。\n\n但她沒說過「這不可能」。\n她只是繼續做，\n一天又一天，\n直到不可能變成理所當然。\n\n然後你長大了，才發現那根本不是理所當然。",
@@ -680,11 +845,17 @@
       }
     },
     {
-      "id": "mq-030",
+      "id": "momq-030",
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://www.rd.com/list/quotes-about-mothers/",
       "sourceNote": "inspired by 'mothers hold children's hands for a while, hearts forever' from Reader's Digest mom quotes; rewritten as an original scene about the moment a mom stops holding your hand physically but never really lets go",
-      "tags": ["媽媽", "成長", "親情", "溫馨", "母親節"],
+      "tags": [
+        "媽媽",
+        "成長",
+        "親情",
+        "溫馨",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "小時候過馬路，我媽的手會先伸過來。\n不用開口，她就牽著了。\n\n後來長大了，她不牽了。\n但每次我說「我出門了」，\n她還是會在背後多看我一眼。\n\n手放開了，但她沒有。",
@@ -703,11 +874,17 @@
       }
     },
     {
-      "id": "mq-031",
+      "id": "momq-031",
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://www.shutterfly.com/ideas/mothers-day-quotes/",
       "sourceNote": "inspired by the theme of carrying a mother's voice with you into adulthood from Shutterfly Mother's Day roundup; rewritten as an original interior monologue about how mom's voice becomes a permanent resident in your head",
-      "tags": ["媽媽", "成長", "日常", "親情", "溫馨"],
+      "tags": [
+        "媽媽",
+        "成長",
+        "日常",
+        "親情",
+        "溫馨"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "搬出去之後，我媽的聲音沒有一起搬走。\n\n我快走過馬路的時候，聽到她說：「慢一點。」\n我沒吃早餐又出門，聽到她說：「早餐最重要。」\n我太晚睡，聽到她說：「幾點了還不睡。」\n\n她人不在，但她從來沒有離開過我的腦袋。",
@@ -726,11 +903,17 @@
       }
     },
     {
-      "id": "mq-032",
+      "id": "momq-032",
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by the 'mom never says sorry with words' humor trope from Tartan Vibes 2026 roundup; rewritten as an original observation about how moms show remorse through acts of service rather than apologies",
-      "tags": ["媽媽", "道歉", "幽默", "家庭", "日常"],
+      "tags": [
+        "媽媽",
+        "道歉",
+        "幽默",
+        "家庭",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽不太說「對不起」。\n\n但如果前一天我們吵架了，\n今天早上桌上就會有一碗我最喜歡的湯。\n\n她的道歉不說話，\n它有溫度，有味道，\n而且通常非常好喝。",
@@ -749,11 +932,17 @@
       }
     },
     {
-      "id": "mq-033",
+      "id": "momq-033",
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://www.today.com/life/holidays/mothers-day-quotes-rcna205706",
       "sourceNote": "inspired by the theme of moms downplaying their own struggles so kids won't worry, from TODAY's Mother's Day quotes feature; rewritten as an original reflection on what 'I'm fine' actually means from a mom",
-      "tags": ["媽媽", "犧牲", "溫馨", "感恩", "母親節"],
+      "tags": [
+        "媽媽",
+        "犧牲",
+        "溫馨",
+        "感恩",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我問我媽：「你還好嗎？」\n她說：「我很好啊。」\n\n但我漸漸學會聽出來，\n「我很好」有時候的意思是：\n「我不太好，但你不用擔心我，去過你的生活。」\n\n她說「我很好」，是因為她更在乎你好不好。",
@@ -772,11 +961,17 @@
       }
     },
     {
-      "id": "mq-034",
+      "id": "momq-034",
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://www.boredpanda.com/funny-mom-quotes/",
       "sourceNote": "inspired by 'mom's photo album' nostalgia humor from Bored Panda's funny mom quotes collection; rewritten as an original warm observation about how moms are the unofficial family historians",
-      "tags": ["媽媽", "回憶", "相片", "幽默", "家庭"],
+      "tags": [
+        "媽媽",
+        "回憶",
+        "相片",
+        "幽默",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽記得每一張照片是什麼時候拍的、在哪裡、當天發生了什麼事。\n\n連我自己都忘了的事，她記得。\n連我不知道自己做過的表情，她記得。\n\n她不只是在存照片，\n她是我人生的備份硬碟。",
@@ -795,11 +990,17 @@
       }
     },
     {
-      "id": "mq-035",
+      "id": "momq-035",
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://www.purewow.com/entertainment/mothers-day-quotes",
       "sourceNote": "inspired by the theme of moms having dreams they quietly set aside from PureWow's 2026 Mother's Day quotes roundup; rewritten as an original and poignant reflection on a mom's unlived chapters",
-      "tags": ["媽媽", "夢想", "感恩", "溫馨", "母親節"],
+      "tags": [
+        "媽媽",
+        "夢想",
+        "感恩",
+        "溫馨",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我有一天問我媽，她年輕的時候想做什麼。\n\n她說了一個我從來不知道的答案。\n然後笑了笑說：「後來就有你們了。」\n\n她說得很輕，\n但我聽得很重。\n\n謝謝你，把你的那條路讓給了我們走。",
@@ -818,11 +1019,17 @@
       }
     },
     {
-      "id": "mq-036",
+      "id": "momq-036",
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by the 'mom answers questions before you finish asking' humor trope from 2026 Mother's Day humor collections; rewritten as an original observation about mom's preemptive answer reflex",
-      "tags": ["媽媽", "超能力", "幽默", "日常", "對話"],
+      "tags": [
+        "媽媽",
+        "超能力",
+        "幽默",
+        "日常",
+        "對話"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我問我媽：「那個——」\n她說：「在第二層抽屜。」\n\n我還沒說是什麼。\n她說：「不然你還會找什麼。」\n\n我們家不需要心電感應，\n我媽自己就是一台。",
@@ -841,11 +1048,17 @@
       }
     },
     {
-      "id": "mq-037",
+      "id": "momq-037",
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://www.rd.com/list/funny-mom-quotes-memes/",
       "sourceNote": "inspired by 'mom keeps everything just in case' parenting humor; rewritten as an original take on mom's collection of containers and bags",
-      "tags": ["媽媽", "收納", "幽默", "日常", "家庭"],
+      "tags": [
+        "媽媽",
+        "收納",
+        "幽默",
+        "日常",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽家裡有：\n裝著塑膠袋的塑膠袋、\n裝著紙袋的紙袋、\n裝著餅乾盒的餅乾盒（裡面沒有餅乾，是針線）、\n還有一個曲奇盒——裡面是電線。\n\n她說：「總有一天會用到。」\n\n而恐怖的是，她真的每次都用到了。",
@@ -864,11 +1077,17 @@
       }
     },
     {
-      "id": "mq-038",
+      "id": "momq-038",
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://www.purewow.com/entertainment/mothers-day-quotes",
       "sourceNote": "inspired by 'mom worries from a distance' theme from PureWow Mother's Day roundup; rewritten as an original observation about how mom's worry travels across distance",
-      "tags": ["媽媽", "操心", "距離", "溫馨", "母親節"],
+      "tags": [
+        "媽媽",
+        "操心",
+        "距離",
+        "溫馨",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我搬到別的城市以後，\n才知道媽媽的擔心是有距離單位的：\n\n搭車一小時 → 要記得喝水\n搭車三小時 → 要記得吃飯\n搭飛機 → 要記得平安落地告訴我\n\n距離越遠，她交代的事越多。\n因為她沒辦法靠近你了，只能靠話陪著你。",
@@ -887,11 +1106,17 @@
       }
     },
     {
-      "id": "mq-039",
+      "id": "momq-039",
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://www.boredpanda.com/funny-mom-quotes/",
       "sourceNote": "inspired by 'mom asks if you've eaten' as a love language trope from 2026 humor collections; rewritten as an original observation about how 'have you eaten' is the universal mom greeting",
-      "tags": ["媽媽", "吃飯", "幽默", "溫馨", "日常"],
+      "tags": [
+        "媽媽",
+        "吃飯",
+        "幽默",
+        "溫馨",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "別的媽媽說：「最近好嗎？」\n我媽說：「吃飽了沒？」\n\n別的媽媽問：「壓力大不大？」\n我媽問：「今天吃什麼？」\n\n別的媽媽說：「我愛你。」\n我媽說：「我煮了你愛吃的，回來吃。」\n\n她從來沒說過愛，但她每天都在餵那個愛。",
@@ -910,11 +1135,17 @@
       }
     },
     {
-      "id": "mq-040",
+      "id": "momq-040",
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://www.today.com/life/holidays/mothers-day-quotes-rcna205706",
       "sourceNote": "inspired by 'becoming a parent makes you understand your mother' theme from TODAY's Mother's Day feature; rewritten as an original reflection for adults realizing the weight their mom carried silently",
-      "tags": ["媽媽", "成長", "理解", "感恩", "母親節"],
+      "tags": [
+        "媽媽",
+        "成長",
+        "理解",
+        "感恩",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "小時候覺得我媽很嚴格、很囉嗦、很不浪漫。\n\n長大以後自己開始扛事情，才發現：\n她不是不浪漫，是沒有時間浪漫。\n她不是囉嗦，是怕你跌倒沒人扶。\n她不是嚴格，是這個世界對女人本來就不溫柔。\n\n我以前誤會了她很久。\n現在輪到我，我才開始懂。",
@@ -933,11 +1164,17 @@
       }
     },
     {
-      "id": "mq-041",
+      "id": "momq-041",
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by 'mom life: reheated coffee and unfinished sentences' viral 2026 humor; rewritten as an original interrupted-sentence portrait",
-      "tags": ["媽媽", "日常", "幽默", "犧牲", "家庭"],
+      "tags": [
+        "媽媽",
+        "日常",
+        "幽默",
+        "犧牲",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽說話經常說一半。\n\n「我剛剛是要——」\n門鈴響了。\n「等一下我跟你說那個——」\n鍋子在叫。\n「我本來想——」\n我爸進來問東西在哪裡。\n\n她那些說一半的話，後半段去哪了？\n大概都被生活吃掉了。",
@@ -956,11 +1193,17 @@
       }
     },
     {
-      "id": "mq-042",
+      "id": "momq-042",
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://www.shutterfly.com/ideas/mothers-day-quotes/",
       "sourceNote": "inspired by 'a mother's love is the heart of a home' theme from Shutterfly 2026 Mother's Day collection; rewritten as an original observation about the temperature a mom brings into a room",
-      "tags": ["媽媽", "家", "溫馨", "親情", "母親節"],
+      "tags": [
+        "媽媽",
+        "家",
+        "溫馨",
+        "親情",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽不在家的那幾天，房子還是那個房子，\n但溫度不太一樣。\n\n燈一樣亮，冰箱一樣有東西，\n可是空氣裡少了一種我說不出來的味道。\n\n後來我才知道，\n那個味道叫做「有人在等你回來」。",
@@ -979,11 +1222,17 @@
       }
     },
     {
-      "id": "mq-043",
+      "id": "momq-043",
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://riddlejoy.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by 'every mom has a PhD in finding things that aren't lost' viral humor; rewritten as an original temperature-checking superpower observation",
-      "tags": ["媽媽", "超能力", "幽默", "日常", "家庭"],
+      "tags": [
+        "媽媽",
+        "超能力",
+        "幽默",
+        "日常",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽用手背摸額頭三秒，\n就能判斷我是真的發燒，還是裝病不想去學校，還是只是太熱。\n\n醫院的儀器再準，也比不上我媽那隻手。\n\n那不是手，那是三十年來累積的演算法。",
@@ -1002,11 +1251,17 @@
       }
     },
     {
-      "id": "mq-044",
+      "id": "momq-044",
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://www.rd.com/list/mothers-day-quotes/",
       "sourceNote": "inspired by 'a mother's love is beyond calculation' theme from Reader's Digest 2026 Mother's Day list; rewritten as an original reflection on a phone call that ends with mom never hanging up first",
-      "tags": ["媽媽", "電話", "溫馨", "親情", "母親節"],
+      "tags": [
+        "媽媽",
+        "電話",
+        "溫馨",
+        "親情",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我跟我媽講電話，最後總是我先掛。\n\n她從來不主動說「那就這樣囉」，\n她會一直等，等你說「我先掛囉」，\n然後她說「好，那你要——」\n還沒說完你已經掛了。\n\n後來我才知道，\n她不是不知道話講完了，\n她是想多聽你一秒。",
@@ -1025,11 +1280,16 @@
       }
     },
     {
-      "id": "mq-045",
+      "id": "momq-045",
       "dateAdded": "2026-04-29",
       "sourceUrl": "https://unwrappingsmiles.com/funny-mothers-day-messages/",
       "sourceNote": "inspired by 'reheating the same coffee three times' viral mom-life humor; rewritten as an original observation about a mom's morning coffee never being drunk hot",
-      "tags": ["媽媽", "日常", "幽默", "母親節"],
+      "tags": [
+        "媽媽",
+        "日常",
+        "幽默",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽的咖啡從來沒喝過熱的。\n\n早上六點泡好放著，\n要曬衣服、要叫我們起床、要找爸爸的鑰匙、要回外婆的訊息，\n等她終於坐下來，那杯咖啡已經是常溫的。\n\n她就微波一下，繼續放著。\n再微波一下，繼續放著。\n\n我問她為什麼不一次喝完，\n她說：「等等再喝就好啦，這沒什麼。」\n\n媽媽的咖啡，從來不是用來喝的，\n是用來提醒她：今天還有自己這個人。",
@@ -1048,11 +1308,16 @@
       }
     },
     {
-      "id": "mq-046",
+      "id": "momq-046",
       "dateAdded": "2026-04-29",
       "sourceUrl": "https://riddlejoy.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by 'mom finds things that aren't lost' viral angle; rewritten as an original take on mom finding the thing you swore wasn't there",
-      "tags": ["媽媽", "超能力", "幽默", "日常"],
+      "tags": [
+        "媽媽",
+        "超能力",
+        "幽默",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我：媽，我的耳機真的找不到了，整個房間都翻過了。\n媽：（走進來，連頭都沒低，伸手）。\n媽：在你枕頭底下。\n\n我：……\n\n我翻了二十分鐘。\n她進來十秒。\n\n後來我發現一個規律：\n東西不會消失，只是在等我媽走進來。",
@@ -1071,11 +1336,17 @@
       }
     },
     {
-      "id": "mq-047",
+      "id": "momq-047",
       "dateAdded": "2026-04-29",
       "sourceUrl": "https://blog.accupass.com/mothersday-copywriting-and-sentences.html",
       "sourceNote": "inspired by '希望媽媽慢慢變老' tender Mother's Day theme from Taiwan blog content; rewritten as an original reflection on noticing mom's hands aging",
-      "tags": ["媽媽", "溫馨", "親情", "母親節", "感恩"],
+      "tags": [
+        "媽媽",
+        "溫馨",
+        "親情",
+        "母親節",
+        "感恩"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "前幾天牽我媽過馬路，\n我才發現她的手變小了。\n\n小時候她牽我，那隻手很大很有力，\n好像可以接住整個世界。\n\n現在我牽她，那隻手變得很輕，\n指節有點突出，皮膚薄薄的。\n\n才幾年的時間，\n換成我牽她了。\n\n媽，可以的話，\n你慢一點老。",
@@ -1094,11 +1365,16 @@
       }
     },
     {
-      "id": "mq-048",
+      "id": "momq-048",
       "dateAdded": "2026-04-29",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by 'mom's silence is a warning system' relatable humor; rewritten as an original take on the three different kinds of mom silence",
-      "tags": ["媽媽", "幽默", "日常", "家庭"],
+      "tags": [
+        "媽媽",
+        "幽默",
+        "日常",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽的沉默有三種：\n\n第一種，她在追劇，不要吵她。\n第二種，她在想晚餐煮什麼，可以幫她出主意。\n第三種，她已經生氣很久了，而你還沒發現。\n\n搞錯第三種的代價，是接下來一週的冷戰。\n\n我從小到大都在學這三種沉默的差別，\n畢業典禮應該頒一張證書給我。",
@@ -1117,11 +1393,16 @@
       }
     },
     {
-      "id": "mq-049",
+      "id": "momq-049",
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://punsmarkete.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by 'mom is like WiFi' viral 2026 Mother's Day metaphor humor; rewritten as an original take comparing mom to home WiFi with all its quirks",
-      "tags": ["媽媽", "幽默", "比喻", "母親節"],
+      "tags": [
+        "媽媽",
+        "幽默",
+        "比喻",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽就像家裡的 Wi-Fi：\n\n看不到、摸不到，但你只要一斷線就立刻發現。\n訊號偶爾不穩，心情也是。\n密碼很長，但她記得你所有人的生日。\n你以為她永遠都在，直到有一天她需要重新啟動。\n\n那天你才會懂，這個世界沒有她，根本連不上線。",
@@ -1140,11 +1421,16 @@
       }
     },
     {
-      "id": "mq-050",
+      "id": "momq-050",
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://www.purewow.com/entertainment/mothers-day-quotes",
       "sourceNote": "inspired by the 'I've turned into my mother' realization trope from 2026 funny mom roundups; rewritten as an original moment-of-horror humor piece about catching yourself mid-mom-phrase",
-      "tags": ["媽媽", "成長", "幽默", "日常"],
+      "tags": [
+        "媽媽",
+        "成長",
+        "幽默",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "前幾天我對著外送員說：「外面風大，路上小心。」\n\n講完那一秒，我整個人定格在門口。\n\n媽，是你嗎？是你借我的嘴在說話嗎？\n\n我一直以為自己永遠不會變成你，\n結果只是還沒到那個年紀而已。",
@@ -1163,11 +1449,16 @@
       }
     },
     {
-      "id": "mq-051",
+      "id": "momq-051",
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://riddlejoy.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by 'mom says I'm fine but means the opposite' relatable humor; rewritten as an original take on decoding mom's two most dangerous words",
-      "tags": ["媽媽", "翻譯", "幽默", "家庭"],
+      "tags": [
+        "媽媽",
+        "翻譯",
+        "幽默",
+        "家庭"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽講「我沒事」的時候，意思有八種：\n\n一、我真的沒事。（機率 5%）\n二、我有事，但你應該自己看出來。\n三、我有事，而且原因就是你。\n四、我有事，但講出來你也聽不懂。\n五、我剛剛有事，現在生氣完了，懶得解釋。\n六、我在等你問第二次。\n七、我在等你問第三次。\n八、你已經失去問的資格了。\n\n聽懂第幾種，是判斷你跟媽媽多熟的考試。",
@@ -1186,11 +1477,16 @@
       }
     },
     {
-      "id": "mq-052",
+      "id": "momq-052",
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by 'mom sends fruit photos as love language' contemporary humor; rewritten as an original observation about mom's chat habits and cut-fruit guilt",
-      "tags": ["媽媽", "訊息", "水果", "幽默"],
+      "tags": [
+        "媽媽",
+        "訊息",
+        "水果",
+        "幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我媽不太會講「我想你」。\n\n她講的方式是：\n傳一張今天買的西瓜照片。\n傳一張切好的芒果照片。\n傳一張「你小時候很愛吃」的鳳梨照片。\n再附一句：「家裡很多，可以回來拿。」\n\n那盤水果不是水果，是邀請函。\n看懂的人都已經在訂車票了。",
@@ -1209,11 +1505,16 @@
       }
     },
     {
-      "id": "mq-053",
+      "id": "momq-053",
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://www.tartanvibesclothing.com/blogs/holiday/funny-mothers-day-quotes",
       "sourceNote": "inspired by 'mom is the real boss / financial overlord' humor; rewritten as a corporate-style observation about household power dynamics",
-      "tags": ["媽媽", "幽默", "家庭", "母親節"],
+      "tags": [
+        "媽媽",
+        "幽默",
+        "家庭",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "我們家的組織架構長這樣：\n\n董事長：媽媽\n執行長：媽媽\n財務長：媽媽\n人資主管：媽媽\n清潔組長：媽媽\n餐飲總監：媽媽\n\n爸爸跟我：員工，沒有股票，績效還常常不及格。\n母親節這天，公司放半天假，但還是要記得幫董事長慶祝。",
@@ -1232,11 +1533,16 @@
       }
     },
     {
-      "id": "mq-054",
+      "id": "momq-054",
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://urbanstems.com/blogs/news/mothers-day-messages",
       "sourceNote": "inspired by 'roots and wings' adult-child gratitude theme; rewritten as a present-tense reflection without the cliché phrasing",
-      "tags": ["媽媽", "感謝", "成長", "母親節"],
+      "tags": [
+        "媽媽",
+        "感謝",
+        "成長",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "長大後我才發現，\n媽媽從來沒有教我怎麼變勇敢。\n她只是讓我知道：\n不管我跌幾次、走多遠、最後變成什麼樣，\n回頭都會有一盞燈是亮的，一桌飯是熱的。\n\n那盞燈，就是我的勇敢。",
@@ -1255,11 +1561,16 @@
       }
     },
     {
-      "id": "mq-055",
+      "id": "momq-055",
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://www.shutterfly.com/ideas/mothers-day-quotes/",
       "sourceNote": "inspired by 'reheating coffee three times' mom-life observation; rewritten as a relatable laundry list of small mom realities",
-      "tags": ["媽媽", "日常", "幽默", "共鳴"],
+      "tags": [
+        "媽媽",
+        "日常",
+        "幽默",
+        "共鳴"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "當媽媽是什麼感覺？\n\n是同一杯咖啡，早上熱三次，最後還是冷掉。\n是吃飯永遠吃最後一口，因為要等所有人都吃飽。\n是手機相簿裡99%是小孩，剩下1%是要傳給爸爸的提醒事項。\n是隨時可以從包包裡掏出衛生紙、繃帶、糖果、和你三年前掉的那顆鈕扣。\n\n母親節快樂，給每一個總是把自己排在最後的媽媽。",
@@ -1278,11 +1589,16 @@
       }
     },
     {
-      "id": "mq-056",
+      "id": "momq-056",
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://punsmarkete.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by 'mom's selective hearing / nagging is love' humor; rewritten as a Q&A bit framed as decoded mom-speak",
-      "tags": ["媽媽", "翻譯", "幽默", "嘮叨"],
+      "tags": [
+        "媽媽",
+        "翻譯",
+        "幽默",
+        "嘮叨"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽說的話，翻譯一下其實是這樣：\n\n「外面很冷，多穿一點」＝ 我擔心你。\n「我自己吃就好，不用買」＝ 我等你帶回來。\n「我沒事啦，不要管我」＝ 你最好現在就過來。\n「隨便啦，你決定」＝ 你最好決定我心裡那個答案。\n「我又沒怎樣」＝ 我有怎樣，自己想。\n\n母親節快樂，給全世界最難翻譯也最值得翻譯的那個語言系統。",
@@ -1301,11 +1617,16 @@
       }
     },
     {
-      "id": "mq-057",
+      "id": "momq-057",
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://www.today.com/life/holidays/mothers-day-wishes-2026-rcna342764",
       "sourceNote": "inspired by Mother's Day cards from grown children theme; rewritten as a present-tense observation about role reversal",
-      "tags": ["媽媽", "母親節", "感人", "成長"],
+      "tags": [
+        "媽媽",
+        "母親節",
+        "感人",
+        "成長"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "小時候我以為媽媽是超人，\n後來長大才發現，\n她也會累、會慌、會偷哭。\n\n她不是超人，\n她只是把超人那件斗篷，\n每天默默披在我身上，自己穿著T恤撐過所有風雨。\n\n媽，今年母親節，斗篷還你，今天我來擋。",
@@ -1324,11 +1645,17 @@
       }
     },
     {
-      "id": "mq-058",
+      "id": "momq-058",
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://punsmarkete.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by 'mom life: reheated coffee, mild confusion' meme angle; rewritten as a self-aware mom-energy poem",
-      "tags": ["媽媽", "日常", "幽默", "共鳴", "母親節"],
+      "tags": [
+        "媽媽",
+        "日常",
+        "幽默",
+        "共鳴",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽的一天大概長這樣：\n\n咖啡熱了又冷，冷了又熱，最後還是沒喝完。\n手機一邊充電，一邊回三個群組的訊息。\n說「等一下」說了一百次，最後還是現在去做。\n忘了自己今天有沒有吃飯，但記得每個人對什麼東西過敏。\n\n媽，這就是你每天在做的事。我們看見了。",
@@ -1347,11 +1674,17 @@
       }
     },
     {
-      "id": "mq-059",
+      "id": "momq-059",
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://punnypulse.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by 'mom is like WiFi — slightly moody, can't live without' modern metaphor; rewritten as a tech-themed mom comparison",
-      "tags": ["媽媽", "比喻", "幽默", "母親節", "科技"],
+      "tags": [
+        "媽媽",
+        "比喻",
+        "幽默",
+        "母親節",
+        "科技"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽就像家裡的Wi-Fi：\n\n平常感覺不到她，斷線那一刻才知道你有多依賴。\n訊號偶爾不穩，但永遠在重新連線。\n密碼從來沒換過，因為她希望你隨時都連得上。\n\n母親節快樂，給我這輩子最穩的網路。",
@@ -1370,11 +1703,16 @@
       }
     },
     {
-      "id": "mq-060",
+      "id": "momq-060",
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://punsmarkete.com/funny-mothers-day-quotes/",
       "sourceNote": "inspired by '20 years of free room and board' joke; rewritten as a tongue-in-cheek invoice-style thank you",
-      "tags": ["媽媽", "幽默", "感恩", "母親節"],
+      "tags": [
+        "媽媽",
+        "幽默",
+        "感恩",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽，我幫你算了一下：\n\n免費住宿三十年。\n免費伙食三萬餐起跳。\n洗衣、補衣、送便當，無限次。\n半夜發燒陪掛急診，五次以上。\n聽我抱怨爛工作爛戀情，總時數無法統計。\n\n總金額：算不出來。\n你只收一句「母親節快樂」，這買賣我做得太划算。",
@@ -1393,11 +1731,17 @@
       }
     },
     {
-      "id": "mq-061",
+      "id": "momq-061",
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://www.today.com/life/holidays/mothers-day-quotes-rcna205706",
       "sourceNote": "inspired by 'mom is the home you can always come back to' theme; rewritten as a sensory short essay",
-      "tags": ["媽媽", "家", "溫馨", "母親節", "感人"],
+      "tags": [
+        "媽媽",
+        "家",
+        "溫馨",
+        "母親節",
+        "感人"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "長大後我才發現，\n所謂的「家」不是地址，\n是某個下午推開門，\n聞到的湯的味道。\n是一句「回來了喔」，\n聲音不大，但你瞬間就鬆了。\n\n媽，謝謝你三十年都把家保溫著，\n等我隨時都可以回來。",
@@ -1416,11 +1760,17 @@
       }
     },
     {
-      "id": "mq-062",
+      "id": "momq-062",
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://theeverymom.com/mothers-day-instagram-captions/",
       "sourceNote": "inspired by 'mom's group chat / mom's notifications' modern observation; rewritten as a phone-screen narrative",
-      "tags": ["媽媽", "訊息", "幽默", "日常", "母親節"],
+      "tags": [
+        "媽媽",
+        "訊息",
+        "幽默",
+        "日常",
+        "母親節"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "打開手機，媽媽的訊息：\n\n07:32 早安，今天會下雨記得帶傘。\n10:15 看到一個養生影片傳給你。\n12:40 吃飯了沒？\n15:22 隔壁阿姨女兒結婚了。\n19:10 早點睡。\n23:48 睡了沒？\n\n別人傳訊息是聊天，媽媽傳訊息是用整天在跟你說：我在想你。",
@@ -1439,11 +1789,17 @@
       }
     },
     {
-      "id": "mq-063",
+      "id": "momq-063",
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://theeverymom.com/mothers-day-instagram-captions/",
       "sourceNote": "inspired by 'mom = main character energy / pure chaos with a sprinkle of love' caption trend; rewritten as a self-aware list of mom's job description",
-      "tags": ["媽媽", "幽默", "日常", "母親節", "共鳴"],
+      "tags": [
+        "媽媽",
+        "幽默",
+        "日常",
+        "母親節",
+        "共鳴"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽媽的職稱，認真寫起來其實是這樣：\n\n家庭執行長，負責什麼都管。\n首席尋物官，找到所有你以為弄丟的東西。\n冷氣警察、電燈巡邏員、垃圾車提醒員。\n情緒緊急應變小組，二十四小時待命。\n\n薪水：零。\n年資：直到永遠。\n離職率：從來沒人離職。\n\n母親節快樂，給這家公司唯一一個沒人能取代的人。",
@@ -1462,11 +1818,16 @@
       }
     },
     {
-      "id": "mq-064",
+      "id": "momq-064",
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://personalhouse.com/blogs/quotes/funny-mothers-day-quotes",
       "sourceNote": "inspired by 'thanks for not selling me to the circus / given what you had to work with' joke angle; rewritten as a tongue-in-cheek apology letter to mom",
-      "tags": ["媽媽", "幽默", "母親節", "感恩"],
+      "tags": [
+        "媽媽",
+        "幽默",
+        "母親節",
+        "感恩"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "媽，我這輩子想正式跟你道個歉：\n\n對不起，三歲那年把整罐麵粉倒在地上跳舞。\n對不起，國小聯絡簿那一頁又一頁的紅字。\n對不起，青春期說過所有「你又不懂」。\n對不起，現在每次回家還是先問冰箱有什麼。\n\n材料是我，廚師是你。\n你拿到的是一塊難搞的食材，居然還煮出一個會回家吃飯的人。\n母親節快樂，廚藝太好。",
@@ -1485,11 +1846,17 @@
       }
     },
     {
-      "id": "mq-065",
+      "id": "momq-065",
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://tw.cyberlink.com/blog/photo-editing-tips/3648/mothers-day-copywriting",
       "sourceNote": "inspired by 'mom's nagging is love translated' Taiwanese-mom angle; rewritten as a side-by-side timeline of how mom's voice changes when you grow up",
-      "tags": ["媽媽", "成長", "感人", "母親節", "嘮叨"],
+      "tags": [
+        "媽媽",
+        "成長",
+        "感人",
+        "母親節",
+        "嘮叨"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "小時候，媽媽說：「快點起床，要遲到了。」\n長大後，媽媽說：「累就多睡一點，工作不差那十分鐘。」\n\n小時候，媽媽說：「不要挑食，什麼都要吃。」\n長大後，媽媽說：「不愛吃就不要勉強，自己過得開心比較重要。」\n\n小時候，媽媽說：「外面危險，早點回家。」\n長大後，媽媽說：「在外面要照顧自己，沒事，媽媽這邊都好。」\n\n她沒變，只是把擔心換了一種說法。\n母親節快樂，我長大了，但你還是放心不下。",
@@ -1508,11 +1875,16 @@
       }
     },
     {
-      "id": "mq-066",
+      "id": "momq-066",
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://www.flick.social/captions/funny-mothers-day-captions-for-instagram",
       "sourceNote": "inspired by 'mom: pure chaos with a sprinkle of love / mom of the year award' meme energy; rewritten as a fake awards-show acceptance speech",
-      "tags": ["媽媽", "幽默", "母親節", "得獎"],
+      "tags": [
+        "媽媽",
+        "幽默",
+        "母親節",
+        "得獎"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "如果有個獎叫「人生最佳隊友」，我想說一下我的得獎感言：\n\n感謝這位後援會會長，從我出生那天就無條件加入。\n感謝她包辦我所有的便當、衣服、爛情緒。\n感謝她罵我也是用了一輩子的功力，每一句都中要害。\n感謝她從來沒有把我退賽，雖然我表現非常不穩定。\n\n這個獎，不用頒了，反正得主一直都是同一個人。\n媽，母親節快樂，下一屆我還是投你。",
