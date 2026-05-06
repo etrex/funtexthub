@@ -817,6 +817,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-036",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.ef.com/wwen/blog/language/english-slang-2026/",
+      "sourceNote": "「冷靜了」2026 跨海華語圈用語，從食物放涼演化為「酷酷不在乎」生活態度",
+      "tags": ["冷靜了", "態度", "Threads", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他傳「在忙」三天才回我。\n\n好喔，\n那我也冷靜了。\n\n手機放抽屜，\n感情也放抽屜，\n一起涼著。",
+          "editorNote": "「冷靜了」原本是把熱湯放涼的動作，2026 演化成「我不再為這件事情上頭」的酷態度。被晾的時候用最痛快，比生氣有風度十倍",
+          "variations": [
+            "工具版：「老闆說急件改下週，我直接冷靜了，鍵盤都開飛航。」"
+          ]
+        },
+        "en": {
+          "content": "He took three days to reply 'busy.'\n\nCool,\nI'm chilled now too.\n\nPhone in the drawer,\nfeelings in the drawer,\nletting it all go cold together.",
+          "editorNote": "'Chilled now' (冷靜了) originally meant letting hot soup cool, but in 2026 it became the slang for 'I'm officially over this.' Drop it when someone leaves you hanging — way classier than rage-typing",
+          "variations": [
+            "Workplace version: 'Boss bumped my urgent task to next week — I went chilled now, keyboard on airplane mode.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-037",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://tw.news.yahoo.com/%E8%81%BD%E5%BE%97%E6%87%82%E6%89%8D%E7%AE%97%E6%BD%AE-2026%E5%BF%85%E6%9C%83%E7%B6%B2%E8%B7%AF%E6%B5%81%E8%A1%8C%E8%AA%9E8%E6%A2%9D-172656247.html",
+      "sourceNote": "「也太」2026 Threads 高頻誇飾起手式；後接形容詞放大反差感",
+      "tags": ["也太", "誇飾", "Threads", "口頭禪"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他默默把我的雨傘\n放在我桌上就走了。\n\n也太。\n\n沒說一句話，\n但整個下午我心裡都在下小雨。",
+          "editorNote": "「也太」是 2026 Threads 留言區頂流起手式，故意停在那邊不接完的省略法，後面接什麼都行（也太可愛、也太扯、也太好哭）。比把整句講完更有情緒",
+          "variations": [
+            "驚嚇版：「她直接把報告丟我臉上，也太，我連反駁都來不及。」"
+          ]
+        },
+        "en": {
+          "content": "He left my umbrella\nquietly on my desk and walked off.\n\nThis is too —\n\nDidn't say a word,\nbut my chest's been drizzling all afternoon.",
+          "editorNote": "'This is too —' (也太) is 2026 Threads' favorite cliffhanger opener. You start the sentence and just... don't finish it (too cute, too wild, too sad). The unfinished beat hits harder than the full reaction",
+          "variations": [
+            "Shocked version: 'She slammed the report on my face — this is too —, I didn't even get to argue back.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-038",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.bnext.com.tw/article/80853/gen-z-internet-language",
+      "sourceNote": "「上頭」2025–2026 Threads 高頻動詞；形容對某人事物失去理智沉迷",
+      "tags": ["上頭", "沉迷", "Threads", "誇飾"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是點開那部劇的預告，\n結果——\n\n上頭。\n\n一路追到清晨四點，\n洗衣機還在等我，\n我先等男主開口。",
+          "editorNote": "「上頭」是 2026 Threads 形容「失去理智沉迷某件事」的高頻動詞。比「迷上」誇張，比「中毒」生活化，追劇、追星、追新口味雞排都好用",
+          "variations": [
+            "戀愛版：「我以為只是聊得來，沒想到上頭，連他傳貼圖我都能解讀三層意思。」"
+          ]
+        },
+        "en": {
+          "content": "I just clicked the trailer.\nThen —\n\nFully head-gone.\n\nBinged till 4 a.m.,\nthe laundry's still waiting,\nI'm waiting for the lead to speak first.",
+          "editorNote": "'Head-gone' (上頭) is 2026 Taiwan Threads' favorite verb for 'lost all reason to this thing.' More dramatic than 'hooked,' more everyday than 'addicted' — works for binge-watching, stanning, or chasing a new fried chicken flavor",
+          "variations": [
+            "Dating version: 'Thought we just clicked. Turns out I'm head-gone — I'm decoding his stickers in three layers now.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-039",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://look.s3.com.tw/look/outfit/tff1g4/page/25872",
+      "sourceNote": "「整個人鬆掉」2026 Threads 解壓格式；形容緊繃後突然放鬆的瞬間",
+      "tags": ["整個人鬆掉", "解壓", "Threads", "情緒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週五下班的捷運，\n看到夕陽正好打進車廂——\n\n整個人鬆掉。\n\n這禮拜的我，\n總算把肩膀\n從耳朵旁邊拿下來。",
+          "editorNote": "「整個人鬆掉」是 2026 Threads 描述「緊繃太久突然放鬆」的高頻片語。很有畫面，比「終於放假」具體十倍，配週末或下班場景最對味",
+          "variations": [
+            "工具版：「會議終於取消，整個人鬆掉，我決定先趴桌十分鐘。」"
+          ]
+        },
+        "en": {
+          "content": "Friday MRT, heading home.\nSunset hits the car at the right angle —\n\nEntire body unclenched.\n\nThis week's me\nfinally pulled my shoulders\ndown from beside my ears.",
+          "editorNote": "'Entire body unclenched' (整個人鬆掉) is 2026 Taiwan Threads' favorite phrase for the moment a long stretch of tension breaks. Way more visual than 'finally relaxed' — pair with a Friday clock-out or unexpectedly cancelled meeting",
+          "variations": [
+            "Office version: 'Meeting got cancelled — entire body unclenched. Decided to faceplant on my desk for ten minutes.'"
+          ]
+        }
+      }
     }
   ]
 }

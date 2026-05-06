@@ -517,6 +517,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-023",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1671535300.A.468.html",
+      "sourceNote": "Reframes PTT WomenTalk 「服務業的禮貌只是防客訴」 thread; rewritten as a defensive-armor metaphor instead of the original complaint frame",
+      "tags": ["服務業", "金句", "客訴", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我對你笑，不是因為喜歡你。\n是因為公司教我，\n微笑是這份工作裡最便宜的盔甲——\n穿上它，才不會在客訴信裡被點名。",
+          "editorNote": "適合給以為服務人員的笑容是真心的客人看一眼。微笑不是情感表達，是職業安全裝備。",
+          "variations": [
+            "服務業的微笑是防客訴用的，跟工地的安全帽一樣，只是大家看不見。"
+          ]
+        },
+        "en": {
+          "content": "I'm not smiling because I like you.\nThe company taught me\nthat a smile is the cheapest armor this job hands out —\nput it on, or get named in the complaint email.",
+          "editorNote": "Show this to anyone who thinks service smiles are genuine. The smile isn't a feeling — it's safety gear.",
+          "variations": [
+            "Service-industry smiles are PPE against customer complaints. Same as a hard hat — you just can't see it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-024",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.businessweekly.com.tw/careers/blog/3018692",
+      "sourceNote": "Inspired by 商周 餐飲業十個現實 piece on the 夾心餅乾 dynamic; original 「老闆要我笑、客人要我跪、我自己要我活下去」 three-pull framing is the rewrite",
+      "tags": ["服務業", "餐飲", "夾心餅乾", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "老闆要我笑得像招牌，\n客人要我跪得像道歉，\n我自己只想要我下班還能像個人。\n三個人拉同一條繩子，斷掉的永遠是中間那段。",
+          "editorNote": "傳給最近被夾在老闆 KPI 跟客人情緒中間、回家連話都不想說的同行。中間那段叫做員工，不叫做緩衝墊。",
+          "variations": [
+            "老闆、客人、員工三方拉鋸，斷的不會是繩子，是中間的人。"
+          ]
+        },
+        "en": {
+          "content": "The boss wants me smiling like a logo.\nThe customer wants me kneeling like an apology.\nI just want to clock out still recognizable as a person.\nThree people pulling on one rope — the part that snaps is always the middle.",
+          "editorNote": "Send this to anyone caught between a boss's KPIs and a customer's mood, going home too tired to talk. The middle of that rope is called an employee, not a shock absorber.",
+          "variations": [
+            "Three-way tug-of-war. The rope doesn't break. The person in the middle does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-025",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.threads.com/@rhema.flower/post/DHNzcKjBPuJ",
+      "sourceNote": "Original — extends the Threads 便利商店超難 register with a fresh job-description-as-novel framing; the 「徵店員」 vs 「徵超人」 contrast is the rewrite anchor",
+      "tags": ["服務業", "便利商店", "缺工", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "徵人公告寫著：徵店員，月薪 28K。\n實際工作內容：收銀、補貨、煮咖啡、蒸包子、\n收包裹、繳水電費、處理客訴、清廁所、\n還要笑得像在拍廣告。\n28K 請的不是店員，是超人。",
+          "editorNote": "適合配一張徵才海報的照片。傳給最近在便利商店打工的學弟妹，告訴他們撐不下去不是你的錯。",
+          "variations": [
+            "便利商店的職缺欄寫『店員』，工作內容欄要分頁才寫得完。"
+          ]
+        },
+        "en": {
+          "content": "Job listing: Clerk wanted, $1,000 a month.\nActual duties: cashier, restock, brew coffee, steam buns,\nreceive parcels, process bill payments, handle complaints, clean the bathroom,\nand smile like you're filming a commercial.\nThat wage doesn't hire a clerk. It hires a superhero.",
+          "editorNote": "Pair with a photo of a help-wanted poster. Send to the younger cousin pulling shifts at a convenience store and remind them that quitting isn't failure.",
+          "variations": [
+            "The job title says \"clerk.\" The actual duty list needs a second page."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-026",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.cheers.com.tw/article/article.action?id=5093714",
+      "sourceNote": "Reframes the Cheers 微笑是真心 vs 是工作 debate; original 「真心是有保存期限的」 perishable-emotion framing is the rewrite anchor",
+      "tags": ["服務業", "微笑", "情緒勞動", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人問：「妳的笑容是真心的嗎？」\n我說：「上午是。」\n他問：「下午呢？」\n我說：「下午是專業的。\n真心也有保存期限，過了就只能冷藏販售。」",
+          "editorNote": "傳給下午班開始就掛著職業微笑的同行。真心不是無限的，是會耗盡的——這不是冷漠，是物理。",
+          "variations": [
+            "服務業的真心，每天早上現做，過了中午只能加熱再賣。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Is that smile real?\"\nMe: \"In the morning, yes.\"\nCustomer: \"And in the afternoon?\"\nMe: \"In the afternoon it's professional.\nSincerity has a shelf life. After that we can only sell it refrigerated.\"",
+          "editorNote": "Send to anyone whose smile shifts to autopilot the moment afternoon shift starts. Sincerity isn't infinite — it depletes. That's not coldness, it's physics.",
+          "variations": [
+            "Service-industry sincerity is made fresh daily. After noon, it's reheated."
+          ]
+        }
+      }
     }
   ]
 }

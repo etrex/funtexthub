@@ -2760,6 +2760,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-111",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://punnypulse.com/ai-dad-jokes/",
+      "sourceNote": "受『AI finishing my sentences — algo-rhythm』AI梗啟發，改寫為情侶吵架AI幫腔版",
+      "tags": ["雙關", "科技", "情侶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "女友氣噗噗：「你都不懂我！」\n\n我看了一眼ChatGPT，它已經把我下一句打好了。\n\n我念出來：「我懂，妳只是需要被理解。」\n\n女友愣住：「你什麼時候變這麼會講話？」\n\n我：「我跟AI找到我們的『演算節奏』了。」\n\n女友：「那你跟它過好了。」\n\n我：「等等，它建議我現在道歉。」",
+          "editorNote": "適合在朋友面前吐槽現代戀愛的狀況，越平靜的語氣越冷",
+          "variations": [
+            "也可以接：『AI說我應該買花，我說沒預算，AI回我：那就買感情股。』"
+          ]
+        },
+        "en": {
+          "content": "Girlfriend, fuming: \"You never understand me!\"\n\nI glanced at ChatGPT — it had already drafted my next line.\n\nI read it aloud: \"I do. You just need to feel heard.\"\n\nHer, stunned: \"Since when do you talk like that?\"\n\nMe: \"My AI and I finally found our algo-rhythm.\"\n\nHer: \"Then go date it.\"\n\nMe: \"Hold on — it's telling me to apologize right now.\"",
+          "editorNote": "Modern-relationship cringe; deliver in a flat, deadpan tone",
+          "variations": [
+            "Add: \"AI told me to buy flowers. I said I'm broke. It said: invest in emotional stock.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-112",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://manmandays.com/joke/",
+      "sourceNote": "受『一顆星星八克／星巴克』台式諧音梗啟發，改寫為早餐店點餐情境版",
+      "tags": ["諧音", "食物", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去早餐店點餐，老闆娘問：「要喝什麼？」\n\n我：「一顆星星多重？」\n\n老闆娘：「八克。」\n\n我：「所以一杯星巴克。」\n\n老闆娘：「我們這沒賣星巴克。」\n\n我：「那給我兩顆星星。」\n\n老闆娘：「你給我滾去隔壁。」",
+          "editorNote": "適合在連鎖早餐店亂講的時候用，老闆越無奈越好笑",
+          "variations": [
+            "也可以接：『那三顆星星呢？』『二十四克，所以是米其林。』"
+          ]
+        },
+        "en": {
+          "content": "At the breakfast spot, the owner asked: \"What to drink?\"\n\nMe: \"How much does a star weigh?\"\n\nOwner: \"...About eight grams.\"\n\nMe: \"Then I'll have one Starbucks.\"\n\nOwner: \"We don't carry Starbucks.\"\n\nMe: \"Fine, give me two stars.\"\n\nOwner: \"Get out. Go next door.\"",
+          "editorNote": "Order-counter chaos; the more deadpan you are, the colder it lands",
+          "variations": [
+            "Add: \"What about three stars?\" \"Twenty-four grams — that's a Michelin.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-113",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.atera.com/blog/a-compilation-of-best-it-puns/",
+      "sourceNote": "受『new mouse — we just weren't clicking』IT梗啟發，改寫為公司分手談話情境版",
+      "tags": ["雙關", "辦公室", "科技"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事很沮喪：「我跟我女友分手了。」\n\n我：「為什麼？」\n\n同事：「我們之間就是『點不到』。」\n\n我：「所以你買了新滑鼠？」\n\n同事：「沒，我換了新女友。」\n\n我：「那舊的呢？」\n\n同事：「歸還IT部門了，他們說會重新安裝韌體。」",
+          "editorNote": "適合辦公室加班崩潰時跟工程師同事講，越冷越紓壓",
+          "variations": [
+            "也可以接：『那鍵盤呢？』『鍵盤還在，因為它從來不回我。』"
+          ]
+        },
+        "en": {
+          "content": "Coworker, glum: \"I broke up with my girlfriend.\"\n\nMe: \"Why?\"\n\nHim: \"We just weren't clicking.\"\n\nMe: \"So you got a new mouse?\"\n\nHim: \"No, a new girlfriend.\"\n\nMe: \"What happened to the old one?\"\n\nHim: \"Returned her to IT. They said they'd reinstall the firmware.\"",
+          "editorNote": "Late-night office cringe; perfect for engineer coworkers",
+          "variations": [
+            "Add: \"And the keyboard?\" \"Still here. It never replies anyway.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-114",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "受『seagulls fly over sea / over bay = bagels』經典dad pun啟發，改寫為家庭海邊野餐情境版",
+      "tags": ["諧音", "動物", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全家在海邊野餐，妹妹問爸爸：「為什麼海鷗只飛海上，不飛海灣？」\n\n爸爸：「因為飛海灣就變成『貝果』了。」\n\n媽媽默默把三明治收起來。\n\n妹妹：「那為什麼牠們不飛沙灘？」\n\n爸爸：「飛沙灘就變成『沙其瑪』。」\n\n哥哥舉手：「那如果牠們飛回家呢？」\n\n爸爸：「那就變成晚餐。」",
+          "editorNote": "適合在野餐現場耍冷，爸爸越正經，全家越想假裝不認識他",
+          "variations": [
+            "也可以改成『飛山上就變成滷肉飯』『山的諧音是攤，攤就是賣的』"
+          ]
+        },
+        "en": {
+          "content": "Family beach picnic. Little sister asks Dad: \"Why do seagulls fly over the sea, not the bay?\"\n\nDad: \"Because if they flew over the bay, they'd be bagels.\"\n\nMom quietly puts the sandwiches away.\n\nSister: \"What if they fly over the sand?\"\n\nDad: \"Sand-wiches.\"\n\nBig brother raises a hand: \"And if they fly home?\"\n\nDad: \"Then they're dinner.\"",
+          "editorNote": "Beach-picnic dad energy; the straighter Dad's face, the more the family pretends not to know him",
+          "variations": [
+            "Add: \"Over the rocks? They'd be 'rock-and-roll' chicken.\""
+          ]
+        }
+      }
     }
   ]
 }

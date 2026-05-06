@@ -2605,6 +2605,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-106",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://knowyourmeme.com/memes/vibe-coding",
+      "sourceNote": "Vibe coding meme trend — AI-dependent programming culture",
+      "tags": ["vibe coding", "AI", "面試", "工程師日常", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年面試現場。\n\n面試官：「請手寫一個快速排序。」\n\n候選人沉默三秒。\n\n候選人：「我可以開 Cursor 嗎？」\n\n面試官：「不行。」\n\n候選人：「那我可以開 Claude 嗎？」\n\n面試官：「不行。」\n\n候選人：「那我可以開 ChatGPT 嗎？」\n\n面試官：「不行。」\n\n候選人：「那我可以開 Copilot 嗎？」\n\n面試官：「都不行，請手寫。」\n\n候選人愣了五秒，緩緩闔上筆電。\n\n「不好意思，我只會 vibe coding。」",
+          "editorNote": "傳給每個還在出『手寫演算法』題目的面試官，順便提醒他現在是 2026 年",
+          "variations": [
+            "面試官：請手寫快排。候選人：請問 Wi-Fi 密碼是什麼？",
+            "2026 年新型工程師：不會寫程式，但很會跟 AI 講話。"
+          ]
+        },
+        "en": {
+          "content": "Interview, 2026.\n\nInterviewer: \"Please write quicksort by hand.\"\n\nCandidate stares for three seconds.\n\nCandidate: \"Can I open Cursor?\"\n\nInterviewer: \"No.\"\n\nCandidate: \"Can I open Claude?\"\n\nInterviewer: \"No.\"\n\nCandidate: \"Can I open ChatGPT?\"\n\nInterviewer: \"No.\"\n\nCandidate: \"Can I open Copilot?\"\n\nInterviewer: \"None of them. Please write it by hand.\"\n\nCandidate freezes for five more seconds, then slowly closes the laptop.\n\n\"Sorry, I only do vibe coding.\"",
+          "editorNote": "Send to every interviewer still asking for handwritten algorithms, and gently remind them it's 2026",
+          "variations": [
+            "Interviewer: write quicksort. Candidate: what's the Wi-Fi password?",
+            "New breed of 2026 engineer: can't code, but excellent at talking to AI."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-107",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://dev.to/themachinepulse/can-claude-code-replace-a-junior-developer-i-tested-it-f5i",
+      "sourceNote": "Senior developer multiplier vs junior replacement debate — 2026 hiring market",
+      "tags": ["junior", "AI", "職場", "code review", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深問新人：「你那個 PR 是你寫的嗎？」\n\n新人：「對啊。」\n\n資深：「那這段註解寫『// 我也不知道為什麼這樣可以動』是誰寫的？」\n\n新人沉默。\n\n新人：「⋯⋯Claude 寫的。」\n\n資深：「那這段呢？『// TODO: 等懂的人來修』？」\n\n新人：「⋯⋯也是 Claude。」\n\n資深：「那你到底寫了什麼？」\n\n新人想了一下：「我寫了 prompt。」\n\n資深沉默十秒。\n\n資深：「⋯⋯好，那你 prompt 寫得不錯。下次記得叫他不要把心情寫進註解裡。」",
+          "editorNote": "傳給每個 review 過 AI 生成 PR 的資深，以及每個 prompt 寫得比程式碼還用心的新人",
+          "variations": [
+            "2026 年新人技能樹：寫 prompt > 寫程式 > 寫履歷。",
+            "AI 寫的程式碼最誠實——連『我不知道』都會寫進註解。"
+          ]
+        },
+        "en": {
+          "content": "Senior asks the junior: \"Did you write this PR?\"\n\nJunior: \"Yeah.\"\n\nSenior: \"Then who wrote this comment that says `// not sure why this works but it does`?\"\n\nJunior is silent.\n\nJunior: \"...Claude.\"\n\nSenior: \"And this one? `// TODO: let someone smarter fix this`?\"\n\nJunior: \"...also Claude.\"\n\nSenior: \"So what did you actually write?\"\n\nJunior thinks for a moment: \"I wrote the prompt.\"\n\nSenior pauses for ten seconds.\n\nSenior: \"...Okay. The prompt is solid. Next time tell it to keep its feelings out of the code.\"",
+          "editorNote": "Send to every senior reviewing an AI-generated PR, and every junior whose prompt is more polished than the code",
+          "variations": [
+            "2026 junior skill tree: prompts > code > resume.",
+            "AI-written code is the most honest — it admits 'I don't know' right in the comments."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-108",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://www.sitepoint.com/claude-code-vs-cursor-vs-copilot-the-2026-developer-comparison/",
+      "sourceNote": "Tool wars 2026 — Copilot is what your manager picks, engineers pick Claude/Cursor",
+      "tags": ["工具戰爭", "Copilot", "Cursor", "Claude", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人入職第一天，主管帶他到工位。\n\n主管：「公司統一用 Copilot，幫你裝好了。」\n\n新人：「⋯⋯欸，可以用 Cursor 嗎？」\n\n主管：「不行，公司規定。」\n\n新人：「那 Claude Code 呢？」\n\n主管：「不行。」\n\n新人沉默地坐下，打開 Copilot，按 Tab。\n\nCopilot 補出一行：`console.log('hello world')`。\n\n新人按 Tab。\n\n第二行：`console.log('hello world')`。\n\n新人按 Tab。\n\n第三行：`console.log('hello world')`。\n\n下班後，新人在小巷裡偷偷打開 Cursor。\n\n他低聲說：「終於回家了。」",
+          "editorNote": "傳給每個被公司強制裝 Copilot 的工程師，以及每個下班才能用真正喜歡的工具的人",
+          "variations": [
+            "Copilot 是你主管選的，Cursor 跟 Claude 是工程師偷偷裝的。",
+            "公司用什麼工具是 IT 的事，工程師心裡用什麼是另一回事。"
+          ]
+        },
+        "en": {
+          "content": "First day on the job. Manager walks the new hire to the desk.\n\nManager: \"We standardize on Copilot. Already installed for you.\"\n\nNew hire: \"...Can I use Cursor instead?\"\n\nManager: \"No, company policy.\"\n\nNew hire: \"What about Claude Code?\"\n\nManager: \"No.\"\n\nNew hire silently sits down, opens Copilot, presses Tab.\n\nLine 1: `console.log('hello world')`.\n\nPresses Tab.\n\nLine 2: `console.log('hello world')`.\n\nPresses Tab.\n\nLine 3: `console.log('hello world')`.\n\nAfter work, in a quiet alley, the new hire opens Cursor.\n\nWhispers: \"Finally, home.\"",
+          "editorNote": "Send to every engineer forced onto Copilot, and everyone who only feels free using their real tools after hours",
+          "variations": [
+            "Copilot is what your manager picked. Cursor and Claude are what engineers actually open.",
+            "What the company licenses is IT's problem. What engineers actually use is a different story."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-109",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Programming in 2026 meme — kombucha vibe coding production deploy",
+      "tags": ["vibe coding", "production", "資安", "AI", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "創辦人在共同工作空間，喝著康普茶。\n\n他打開 Cursor，下了一個 prompt：「幫我寫一個會員系統，要有登入、註冊、密碼重設。」\n\n三分鐘後，AI 寫完了。\n\n創辦人：「上線。」\n\n上線一週後，使用者破萬。\n\n上線兩週後，被駭客打爆。\n\n資料庫流光，密碼明文存放，全部上了暗網。\n\n記者問創辦人：「你的密碼為什麼是明文？」\n\n創辦人愣了三秒。\n\n「⋯⋯AI 沒有跟我說要加密。」\n\n記者：「那你有看程式碼嗎？」\n\n創辦人：「沒有，那是 vibe coding。」\n\n記者沉默地把麥克風收起來。",
+          "editorNote": "傳給每個還在 vibe coding 上 production 的創辦人，以及每個忘記資安基本功的人",
+          "variations": [
+            "Vibe coding 上線三步驟：相信 AI、相信康普茶、相信你不會被駭。",
+            "2026 年資安事件報告新欄位：『是否使用 vibe coding』。"
+          ]
+        },
+        "en": {
+          "content": "Founder sits in a coworking space, sipping kombucha.\n\nOpens Cursor. Drops a prompt: \"Build me a user system. Login, signup, password reset.\"\n\nThree minutes later, AI is done.\n\nFounder: \"Ship it.\"\n\nWeek one: ten thousand users.\n\nWeek two: breached. Database leaked. Passwords stored in plaintext. All on the dark web.\n\nReporter: \"Why were your passwords in plaintext?\"\n\nFounder pauses for three seconds.\n\n\"...The AI didn't tell me to hash them.\"\n\nReporter: \"Did you read the code?\"\n\nFounder: \"No. That was vibe coding.\"\n\nReporter quietly puts the mic away.",
+          "editorNote": "Send to every founder shipping vibe code to production, and everyone who forgot security 101 exists",
+          "variations": [
+            "Vibe coding launch checklist: trust the AI, trust the kombucha, trust you won't get breached.",
+            "New field on 2026 incident reports: 'Was vibe coding involved?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-110",
+      "dateAdded": "2026-05-06",
+      "sourceUrl": "https://news.ycombinator.com/item?id=46854999",
+      "sourceNote": "Claude Code spreading inside Microsoft — irony of internal tooling adoption",
+      "tags": ["大公司", "工具", "Claude", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "微軟內部會議。\n\n主管：「我們是 Copilot 的家。所有工程師都應該用 Copilot。」\n\n台下工程師點頭。\n\n會議結束後，工程師回到工位，打開終端機。\n\n螢幕上一行字：`claude --resume`。\n\n隔壁同事偷瞄一眼：「你也用 Claude？」\n\n工程師：「噓，全公司都在用，只是沒人講。」\n\n隔壁：「那剛剛主管講的——」\n\n工程師：「他自己也在用，他電腦我看過。」\n\n兩人對視三秒，默默轉回螢幕。\n\n下班前，主管寄信來：「明天請大家分享 Copilot 使用心得。」\n\n工程師打開 Claude：「幫我寫一份 Copilot 使用心得，要有具體例子，不要太假。」\n\nClaude 三秒寫完。\n\n工程師：「謝啦兄弟。」",
+          "editorNote": "傳給每個在大公司表面用 A、私下用 B 的工程師，以及每個寫工具心得都靠另一個工具的人",
+          "variations": [
+            "大公司工具政策：講的是 A，裝的是 B，心裡用的是 C。",
+            "2026 年最諷刺的事：用 Claude 寫 Copilot 的使用心得。"
+          ]
+        },
+        "en": {
+          "content": "Internal meeting at Microsoft.\n\nManager: \"We are the home of Copilot. Every engineer should be using Copilot.\"\n\nEngineers nod.\n\nMeeting ends. Engineer returns to desk, opens terminal.\n\nOn screen: `claude --resume`.\n\nNeighbor peeks over: \"You're on Claude too?\"\n\nEngineer: \"Shh. Everyone is. Nobody talks about it.\"\n\nNeighbor: \"But the manager just said—\"\n\nEngineer: \"He uses it too. I've seen his laptop.\"\n\nThey share a three-second look, then quietly turn back to their screens.\n\nEnd of day. Email from manager: \"Tomorrow, please share your Copilot success stories.\"\n\nEngineer opens Claude: \"Write me a Copilot success story. With specific examples. Don't make it too fake.\"\n\nClaude finishes in three seconds.\n\nEngineer: \"Thanks, buddy.\"",
+          "editorNote": "Send to every engineer at a big company publicly using A while privately using B, and anyone who writes tool reviews using a different tool",
+          "variations": [
+            "Big company tool policy: what we say, what we install, and what we actually use are three different products.",
+            "Most ironic moment of 2026: using Claude to write a Copilot testimonial."
+          ]
+        }
+      }
     }
   ]
 }
