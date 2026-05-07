@@ -1,0 +1,338 @@
+{
+  "slug": "wedding-quotes",
+  "category": "Romance",
+  "i18n": {
+    "zh-tw": {
+      "title": "婚禮金句",
+      "description": "從古風祝賀、現代俏皮到真摯告白，精選婚禮致詞、紅包賀詞、誓詞與祝福金句——適合伴郎伴娘、來賓、長輩、新人本人，每一句都能直接抄走"
+    },
+    "en": {
+      "title": "Wedding Quotes",
+      "description": "Heartfelt vows, hilarious toasts, and timeless blessings — wedding quotes you can borrow for speeches, cards, and that moment when everyone's looking at you and you forgot what you were going to say"
+    }
+  },
+  "items": [
+    {
+      "id": "wq-001",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.diamond-shiraishi.tw/blog/wedding-blessing-quotes/",
+      "sourceNote": "古風成語 register，重新組合改寫",
+      "tags": ["婚禮", "古風", "紅包賀詞"],
+      "i18n": {
+        "zh-tw": {
+          "content": "鸞鳳和鳴，花好月圓。\n\n願你們的日子，\n是琴瑟輕響、燈火常亮，\n一年一年，把平凡過成詩。",
+          "editorNote": "紅包寫得太短像敷衍、太長又寫不下——這版四字成語開頭、口語化收尾，剛好符合紅包袋的字數，又比「百年好合」多一點誠意",
+          "variations": [
+            "願鸞鳳和鳴，願花好月圓，願你們以後的每一頓晚餐都還是想坐在彼此對面。"
+          ]
+        },
+        "en": {
+          "content": "May your days be long, your laughter louder, and your home the kind of place where everyone wants to come back to.\n\nCongratulations.",
+          "editorNote": "A clean three-line blessing for a card or red envelope when you don't have a specific story but want it to feel sincere",
+          "variations": [
+            "May your years together be long, your laughter loud, and your home the soft place you both keep choosing to come back to."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-002",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://blog.pinkoi.com/tw/lifestyle/wedding/2207-wedding-congrats/",
+      "sourceNote": "現代俏皮 register（遊戲闖關比喻），重新創作",
+      "tags": ["婚禮", "現代", "俏皮", "致詞"],
+      "i18n": {
+        "zh-tw": {
+          "content": "戀愛是新手村。\n同居是支線任務。\n結婚就是正式進入主線劇情了。\n\n恭喜你們解鎖「婚姻」，\n下一關是「裝潢吵架」，\n通關獎勵是更愛對方。",
+          "editorNote": "適合年輕朋友當伴郎伴娘致詞、IG發文，或在喜宴上敬酒前帶一句——遊戲比喻比官腔祝賀好笑十倍",
+          "variations": [
+            "婚姻是大家都在玩、但沒有人讀過攻略本的一款遊戲，恭喜你們選了一個值得一起破關的隊友。"
+          ]
+        },
+        "en": {
+          "content": "Dating: tutorial level.\nMoving in: side quest.\nMarriage: you've officially unlocked the main story.\n\nCongrats on the upgrade.\nThe next boss fight is \"deciding on the couch.\"\nThe reward is loving each other more.",
+          "editorNote": "Plays well for a best man / maid of honor opener at a younger crowd, or as an Instagram caption — gaming metaphor lands harder than formal congratulations",
+          "variations": [
+            "Marriage is the game everyone's playing without reading the manual. Congrats on choosing a teammate worth speedrunning life with."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-003",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.theaisle.wedding/guide-to-writing-love-speech-wedding-vow-and-thank-you-speech",
+      "sourceNote": "誓詞風 register，重新創作",
+      "tags": ["婚禮", "誓詞", "真摯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我答應你的，\n不是「永遠不吵架」、\n不是「一定不會讓你失望」。\n\n我答應你的是：\n吵完還會回來說對不起，\n失望過後還是選擇你，\n以後的每一個明天，都還想跟你過。",
+          "editorNote": "誓詞最忌空泛——這版避開「永遠不」的承諾陷阱，改用「會回來」的具體行動，比『一輩子愛你』可信一百倍",
+          "variations": [
+            "我不會答應你完美，但我會答應你誠實——誠實地修補我們會弄壞的東西，誠實地一直選擇你。"
+          ]
+        },
+        "en": {
+          "content": "I'm not promising you we'll never fight.\nI'm not promising I'll never let you down.\n\nWhat I'm promising is this:\nI'll come back after the fight.\nI'll keep choosing you after the disappointment.\nAnd every tomorrow we get, I still want to spend it with you.",
+          "editorNote": "The strongest vows are the specific ones. This avoids the 'forever / always / never' trap and replaces it with promises you can actually keep",
+          "variations": [
+            "I'm not promising perfect. I'm promising honest — honest repair of the things we'll break, honest choosing of you, again and again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-004",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.marriage.com/advice/relationship/funny-wedding-toast-quotes/",
+      "sourceNote": "幽默致詞 register（Erma Bombeck 風格），重新創作",
+      "tags": ["婚禮", "搞笑", "致詞", "敬酒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "婚姻沒有保固。\n\n如果你想要保固，\n建議你去買冰箱。\n\n但是冰箱不會在你難過的時候抱你，\n所以還是結婚比較划算。",
+          "editorNote": "致詞前段破冰用——先笑場再轉煽情，全場接受度100%。可以接「我們今天看到的這對新人，雖然沒有保固，但有比保固更值得的東西」延伸",
+          "variations": [
+            "婚姻不保證任何事情，唯一保證的是：你身邊那個人，會跟你一起面對所有沒被保證的部分。"
+          ]
+        },
+        "en": {
+          "content": "Marriage comes with no warranty.\n\nIf you want a warranty,\nbuy a refrigerator.\n\nBut a refrigerator won't hug you when you're sad,\nso marriage still wins.",
+          "editorNote": "Classic toast opener — get the laugh first, then pivot to sincerity. Works for best man, maid of honor, or any speech that needs to break the formal ice",
+          "variations": [
+            "Marriage offers zero guarantees. The only thing it offers is the person standing next to you, choosing to face all the un-guaranteed parts together."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-005",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.epris.com.tw/Article/Detail/75410",
+      "sourceNote": "古風 register，重新組合",
+      "tags": ["婚禮", "古風", "長輩", "正式"],
+      "i18n": {
+        "zh-tw": {
+          "content": "百年好合，永結同心。\n舉案齊眉，相敬如賓。\n\n願你們攜手走過的，\n不只是熱鬧的今天，\n還有很多很多個，\n安靜也甜的明天。",
+          "editorNote": "長輩致詞、長官致詞最安全的套路——前兩句正式四字成語、後段口語化收尾，避免「太古老」也避免「太隨便」",
+          "variations": [
+            "百年好合是祝福，永結同心是承諾，舉案齊眉是日常——願你們三樣都擁有。"
+          ]
+        },
+        "en": {
+          "content": "May your love be long, your respect mutual, and your laughter daily.\n\nNot just on this loud, beautiful day —\nbut on all the quieter ones that come after.",
+          "editorNote": "Safe register for parents, bosses, and senior speakers — formal blessing followed by a softer closing. Won't offend anyone, won't bore anyone",
+          "variations": [
+            "Long love, daily laughter, mutual respect — three blessings for three lifetimes of marriage."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-006",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://wezoree.com/inspiration/83-movie-quotes-to-use-in-your-wedding-toast/",
+      "sourceNote": "電影金句 register（Princess Bride / Frozen 改編風格），重新創作",
+      "tags": ["婚禮", "致詞", "感人", "真摯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "認識他們很多年了。\n\n我可以告訴你，\n他們不是電影裡那種完美的愛情。\n\n他們是真的版本：\n會吵架、會冷戰、\n但每一次都還是先伸手的那種。\n\n那比完美更難得。",
+          "editorNote": "好朋友當伴郎伴娘致詞最有殺傷力的開場——比「他們很相愛」更有畫面感，全場會點頭認同",
+          "variations": [
+            "完美的愛情是電影演的，他們的愛情是真實的——會出狀況，但每次都會修好，這種比完美更值得敬一杯。"
+          ]
+        },
+        "en": {
+          "content": "I've known these two for years.\n\nLet me tell you, they're not the movie kind of love.\n\nThey're the real kind:\nthey argue, they go quiet,\nbut they're always the first to reach back.\n\nAnd honestly? That's harder to find than perfect.",
+          "editorNote": "The strongest opener for a close-friend speech — replaces 'they love each other so much' with a specific, visible quality everyone in the room can verify",
+          "variations": [
+            "Perfect love is what movies are about. Real love is what these two have — it breaks, it gets fixed, and it keeps choosing the fixing. Cheers to that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-007",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.beauty321.com/post/66280",
+      "sourceNote": "現代紅包賀詞 register，重新創作",
+      "tags": ["婚禮", "紅包", "現代", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新婚快樂。\n\n願你們有理由的時候慶祝，\n沒理由的時候也慶祝。\n\n婚姻最好的部分，\n是給生活找慶祝的藉口。",
+          "editorNote": "紅包賀詞最難寫的不是長度、是「不老套」——這版避開「百年好合」直接給一個更有溫度的祝福，記得住、抄不爛",
+          "variations": [
+            "新婚快樂——願你們把生活過成節日，不用等理由。"
+          ]
+        },
+        "en": {
+          "content": "Happy wedding day.\n\nMay you celebrate the big things,\nthe small things,\nand the things that aren't really 'things' at all.\n\nThat's the best part of marriage —\nyou get a built-in reason to celebrate everything.",
+          "editorNote": "A red-envelope or card message that doesn't sound like a Hallmark template — short, warm, and quotable",
+          "variations": [
+            "Happy wedding day — may your years be one long, ordinary, joyful excuse to celebrate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-008",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.shutterfly.com/ideas/wedding-quotes/",
+      "sourceNote": "Rainer Maria Rilke 風格 改編，重新創作",
+      "tags": ["婚禮", "詩意", "真摯", "誓詞"],
+      "i18n": {
+        "zh-tw": {
+          "content": "愛情不是兩個人變成一個。\n\n是兩個完整的人，\n選擇站在彼此旁邊，\n保護對方的那部分孤獨，\n也允許對方有一個人靜靜的時候。\n\n這就是我看到你們在做的事情。",
+          "editorNote": "致詞 / 誓詞中最高級的版本——避開「你完整了我」這種把另一半當補丁的說法，改成「我們各自完整、選擇靠近」更現代、也更健康",
+          "variations": [
+            "最好的愛情，不是把對方當作另一半，是把對方當作另一個完整的人，然後決定肩並肩走下去。"
+          ]
+        },
+        "en": {
+          "content": "Love isn't two people becoming one.\n\nIt's two whole people\nchoosing to stand beside each other,\nprotecting each other's solitude,\nletting each other have the moments where they're quietly themselves.\n\nThat's what I've watched you two do.",
+          "editorNote": "The highest-register vow or speech version — replaces 'you complete me' (which treats your partner as a missing piece) with something modern, healthier, and more truthful",
+          "variations": [
+            "The best love isn't completion — it's two whole people choosing, every day, to walk side by side."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-009",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.theknot.com/content/best-wedding-speech-jokes",
+      "sourceNote": "搞笑致詞 register（伴郎/伴娘吐槽），重新創作",
+      "tags": ["婚禮", "搞笑", "伴郎伴娘", "敬酒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他第一次跟我講她的時候，\n講了四十分鐘。\n\n我聽完只說了一句：\n「兄弟，那你就娶她吧。」\n\n結果他真的娶了。\n所以接下來的婚姻問題，\n我也算共犯。",
+          "editorNote": "伴郎致詞神級開場——用「我害他結婚」當笑點，後面再轉「但我從不後悔慫恿你」就是滿分敬酒詞",
+          "variations": [
+            "我承認，當初我推了他一把。看到今天的場面，我覺得我這一推，是這輩子做過最對的事情。"
+          ]
+        },
+        "en": {
+          "content": "The first time he told me about her,\nhe talked for forty minutes straight.\n\nI just said: \"Bro, then marry her.\"\n\nAnd he did.\nSo legally, I'm at least 30% responsible\nfor everything that happens from here.",
+          "editorNote": "Best-man gold — open with self-incrimination, pivot to 'and it's the best thing I've ever pushed him into.' Reliable laugh, reliable warmth",
+          "variations": [
+            "I take partial credit for this whole marriage. He talked about her for forty minutes, I told him to marry her, and here we are. Best advice I never knew I gave."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-010",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.wswed.com/knowledge/2822.html",
+      "sourceNote": "古風 + 現代混搭 register，重新創作",
+      "tags": ["婚禮", "古風", "現代", "長輩"],
+      "i18n": {
+        "zh-tw": {
+          "content": "古人說「執子之手，與子偕老」。\n\n白話的版本是：\n以後牽手過馬路、\n一起去看醫生、\n半夜起來上廁所順便幫對方蓋被子——\n\n這些事情，做一輩子。",
+          "editorNote": "把成語翻譯成生活——適合長輩或有點文青的朋友致詞，比單純引用古文更有溫度，記憶點也比現代俏皮版更深",
+          "variations": [
+            "「執子之手」是詩；牽著對方過馬路、半夜幫對方蓋被子，是這首詩寫了一輩子的版本。"
+          ]
+        },
+        "en": {
+          "content": "There's an old line: \"To hold your hand and grow old with you.\"\n\nThe modern translation:\nholding hands at crosswalks,\ngoing to doctor's appointments together,\ngetting up at 2 a.m. and pulling the blanket back over them.\n\nDo that. For a lifetime.",
+          "editorNote": "Translates a classical line into ordinary, visible life — works for parents, older speakers, or anyone who wants more weight than a one-liner can hold",
+          "variations": [
+            "'Grow old together' is the poem. Pulling the blanket back over them at 2 a.m. is the poem, written daily, for fifty years."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-011",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "",
+      "sourceNote": "麻將/桌遊比喻，台灣本地 register，原創",
+      "tags": ["婚禮", "現代", "俏皮", "台灣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "婚姻有點像打麻將。\n\n你不會永遠摸到好牌，\n但只要旁邊那個人不換，\n就算自摸也好、放槍也好，\n總是同一桌的人。\n\n恭喜你們開了一桌只屬於你們的局。",
+          "editorNote": "台灣本地比喻效果一流——麻將是大家都懂的場景，比西式比喻更有共鳴，可在敬酒時用，全桌會點頭",
+          "variations": [
+            "婚姻像麻將，重點不是你摸到什麼牌，是跟你打到天亮的還是同一個人。"
+          ]
+        },
+        "en": {
+          "content": "Marriage is a little like a long card game.\n\nYou don't always get good hands.\nBut as long as the person across from you doesn't change,\nevery win, every loss, every unlucky round —\nyou're still at the same table.\n\nCongrats on opening a table that's just yours.",
+          "editorNote": "A localized metaphor that works internationally — every culture has its long, slow, sit-around-the-table game; the warmth translates",
+          "variations": [
+            "Marriage isn't about the hands you're dealt. It's about whether the same person stays at the table with you all night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-012",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://premium.parenting.com.tw/article/5092126",
+      "sourceNote": "現代創意祝福 register，重新創作",
+      "tags": ["婚禮", "現代", "短句", "紅包"],
+      "i18n": {
+        "zh-tw": {
+          "content": "願你們的Wi-Fi訊號永遠滿格，\n冰箱永遠有零食，\n吵架永遠不過夜，\n愛永遠比帳單先到。",
+          "editorNote": "四個排比句、一句一個現代生活畫面——適合紅包賀詞、IG發文、賓客留言本，年輕人看了會笑、長輩看了會懂",
+          "variations": [
+            "願你們有滿格Wi-Fi、有零食常備、有不過夜的吵架，和一個比明天還可靠的彼此。"
+          ]
+        },
+        "en": {
+          "content": "May your Wi-Fi always be strong,\nyour fridge always be full,\nyour fights never last past bedtime,\nand your love always arrive before the bills do.",
+          "editorNote": "Four parallel lines, four modern-life images — for a card, an Instagram caption, or a guestbook signature. Funny enough to share, warm enough to mean it",
+          "variations": [
+            "Strong Wi-Fi, full fridge, short fights, deep love. That's the whole recipe."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-013",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.exelco.tw/blog/wedding-blessing-quotes/",
+      "sourceNote": "感人致詞 register（父母 / 長輩視角），重新創作",
+      "tags": ["婚禮", "感人", "父母", "致詞"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天我把女兒交給你。\n\n不是因為她不再屬於我，\n是因為她長大了，\n選了一個她願意把自己交出去的人。\n\n請你接住她的時候，\n也記得她以前是怎麼被接住的——\n認真地、輕輕地、不弄丟任何一塊。",
+          "editorNote": "父親 / 母親致詞最會哭點的一段——比「請你好好照顧她」更立體，把「接住」這個動作講出來，全場必哭",
+          "variations": [
+            "我女兒不是嫁給你，是選了你。請你也每天選她一次。"
+          ]
+        },
+        "en": {
+          "content": "Today I'm handing my daughter to you.\n\nNot because she stops being mine —\nbut because she grew into someone\nwho chose a person she trusts to hold her.\n\nWhen you catch her,\nplease remember how she was carried before:\ncarefully, gently, with nothing ever dropped.",
+          "editorNote": "Father-of-the-bride / mother-of-the-bride speech — the most powerful version uses the word 'catch,' not 'take care of.' Tears guaranteed",
+          "variations": [
+            "She isn't being given to you — she chose you. Please choose her back, every single day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-014",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "",
+      "sourceNote": "結尾敬酒 / 全場舉杯 register，原創",
+      "tags": ["婚禮", "敬酒", "結尾", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "敬今天。\n敬以後每一個普通的星期三晚上。\n敬那些不會被拍下來、\n但你們會記一輩子的時刻。\n\n乾杯。",
+          "editorNote": "致詞最後舉杯的萬用結尾——避開「祝你們白頭偕老」的老套，把祝福投到「普通的星期三晚上」，畫面感比口號強十倍",
+          "variations": [
+            "敬今天，敬明天，敬一萬個普通而幸運的明天。乾杯。"
+          ]
+        },
+        "en": {
+          "content": "To today.\nTo every ordinary Wednesday night that comes after.\nTo the moments no one's filming\nbut you'll both remember forever.\n\nCheers.",
+          "editorNote": "Universal speech-closer — skips the 'happily ever after' cliché and lands the toast on 'ordinary Wednesdays,' which is what marriage actually is",
+          "variations": [
+            "To today, to tomorrow, and to ten thousand quiet, lucky tomorrows after that. Cheers."
+          ]
+        }
+      }
+    }
+  ]
+}
