@@ -609,6 +609,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-027",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.ettoday.net/dalemon/post/70287",
+      "sourceNote": "Reframes the ETtoday 凱特王 「服務業心底冒出的一句話」 column; original 「我之前都可以」 customer-line as deja-vu format is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人說：「我之前都可以，為什麼現在不行？」\n我心裡想：「您的『之前』，跟我們的規則之間，\n隔的可能是兩任店長、三次系統升級、\n以及您不願意再說一次的那段歷史。」",
+          "editorNote": "傳給每天都要解釋為什麼規則改了的櫃檯同事。「我之前」是奧客最愛的時光機，可惜車票永遠在他自己口袋裡。",
+          "variations": [
+            "客人的「之前」是平行宇宙，跟我們公司的規則沒有時間軸上的交集。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"It worked for me before. Why can't I do it now?\"\nMe, internally: \"Your 'before' is two managers ago,\nthree system updates back,\nand a chapter of history you'd rather not retell.\"",
+          "editorNote": "Send this to the front-counter coworker who explains policy changes ten times a day. \"Before\" is the customer's favorite time machine — and the ticket is always in their own pocket.",
+          "variations": [
+            "The customer's \"before\" is a parallel universe. It doesn't share a timeline with our actual policy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-028",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://cottonwoodpsychology.com/blog/i-worked-in-retail-for-ten-years-and-the-customer-habits-i-saw-every-day-taught-me-how-quickly-small-choices-can-drain-a-human-being/",
+      "sourceNote": "Inspired by Cottonwood Psychology 2026 retail-worker reflection on small drains; the 「一句話 = 一格電池」 phone-battery metaphor is original to this rewrite",
+      "tags": ["服務業", "情緒勞動", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班的我，像一支只剩 3% 電的手機。\n白天每一句「不好意思」都是一格電，\n每一個強迫的微笑都是後台跑著的 app，\n回家連回訊息的力氣，都得從充電器借。",
+          "editorNote": "適合凌晨回家躺著滑手機時的限動配文。情緒勞動的疲憊不是你脆弱，是電池真的耗光了。",
+          "variations": [
+            "服務業下班的疲憊，是手機級的低電量警告，不是個性問題。"
+          ]
+        },
+        "en": {
+          "content": "Off-shift me is a phone at 3% battery.\nEvery \"sorry\" today drained a bar.\nEvery forced smile was an app running in the background.\nBy bedtime, even replying to a text has to be borrowed from the charger.",
+          "editorNote": "Pairs well with a late-night scrolling-in-bed Insta story. The exhaustion isn't weakness — the battery is actually empty.",
+          "variations": [
+            "Service-industry tired is a low-battery warning, not a personality flaw."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-029",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Original — extends the Dcard 「奧客經典語錄」 thread with a fresh 「別家店都可以」 retort framing; the 「別家店」 = 平行宇宙 reframe is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人最愛的句型：「別家店都可以，為什麼你們不行？」\n標準答案：「那您去別家。」\n但我們不能講，所以只能笑著說：「不好意思，公司規定。」\n這句『不好意思』，不是道歉，是替公司付的封口費。",
+          "editorNote": "傳給每天都要重複「公司規定」這四個字、講到自己都不相信的同行。我們的禮貌，公司用得最開心。",
+          "variations": [
+            "「別家店都可以」是客人最愛的咒語，咒到的不是別家店，是站在你眼前這個店員。"
+          ]
+        },
+        "en": {
+          "content": "Customer's favorite line: \"Every other store does it. Why can't you?\"\nThe honest answer: \"Then go there.\"\nThe one we can say: \"I'm sorry, that's company policy.\"\nThat \"sorry\" isn't an apology. It's hush money the company makes us pay out of our own mouths.",
+          "editorNote": "Send to anyone who repeats \"company policy\" so many times a day they've stopped believing it. Our politeness — the company gets the most use out of it.",
+          "variations": [
+            "\"Every other store does it\" is the customer's favorite spell. The one it hits isn't the other store — it's the clerk standing right in front of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-030",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://forum.gamer.com.tw/C.php?bsn=60561&snA=19151",
+      "sourceNote": "Original — extends the 巴哈職場板 thread on coworker survival with a fresh 「下班前最後一個客人」 lottery-ticket framing",
+      "tags": ["服務業", "工時", "厭世", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業最公平的事情：\n下班前最後一個客人是天使還是魔鬼，\n完全看運氣——\n跟刮刮樂一樣，\n你只能祈禱，不能挑。",
+          "editorNote": "適合輪班最後二十分鐘默念的禱告詞。傳給今天剛中『下班奧客大獎』的同事，附一句「我懂」。",
+          "variations": [
+            "下班前最後一個客人，是服務業的隨機事件，沒有 SOP 能擋。"
+          ]
+        },
+        "en": {
+          "content": "The fairest thing about service work:\nwhether your last customer of the shift is an angel or a demon\nis pure luck —\nlike a scratch ticket.\nYou pray. You don't pick.",
+          "editorNote": "A good silent prayer for the final twenty minutes of a shift. Send to the coworker who just hit the \"clock-out customer from hell\" jackpot — add \"I get it.\"",
+          "variations": [
+            "The last customer of a shift is a random event. No SOP blocks it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-031",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://lauraefox.medium.com/the-hidden-cost-emotional-labour-in-customer-service-roles-4496bc2749b8",
+      "sourceNote": "Reframes Laura E Fox Medium piece on hidden emotional-labor cost; original 「沒寫進職缺」 invisible-job-description angle is the rewrite anchor",
+      "tags": ["服務業", "情緒勞動", "心聲", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "職缺寫的：負責結帳、補貨、簡單清潔。\n沒寫的：替客人的爛心情墊底、\n替老闆的 KPI 演戲、\n替自己的眼淚找一個沒人看見的角落。\n薪水算的是有寫的，沒寫的，是免費贈送。",
+          "editorNote": "傳給最近覺得自己「明明只是站著，怎麼這麼累」的同行。累的不是工作本身，是那些沒寫進職缺裡的部分。",
+          "variations": [
+            "服務業的薪水算明的，情緒勞動算暗的，公司收的是套餐，員工付的是加大。"
+          ]
+        },
+        "en": {
+          "content": "What the job listing said: cashier, restocking, light cleaning.\nWhat it didn't say: cushion the customer's bad mood,\nperform for the boss's KPIs,\nfind a corner where nobody can see you cry.\nThe wage covers what was written. The rest comes free.",
+          "editorNote": "Send to anyone who can't figure out why \"just standing around\" is so exhausting. It isn't the job — it's the parts that never made it into the listing.",
+          "variations": [
+            "The wage covers the visible job. Emotional labor is the upgrade the company eats and the employee pays for."
+          ]
+        }
+      }
     }
   ]
 }

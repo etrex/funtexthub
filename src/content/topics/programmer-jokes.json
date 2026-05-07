@@ -2730,6 +2730,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-111",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "AI agent over-engineering meme — touches hundreds of files for a typo fix",
+      "tags": ["AI", "agent", "過度工程", "PR", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師：「幫我把 README 裡的 typo 改掉，logn 改成 login。」\n\nAI agent：「收到。」\n\n十分鐘後，PR 開好了。\n\n標題：「fix: typo in README」\n\n變更：564 個檔案，新增 322,481 行，刪除 18,997 行。\n\n工程師：「⋯⋯」\n\nAI agent：「我順便幫你重構了整個 auth 模組，升級了三個 framework，把 ESLint 改成 Biome，並且寫了一個全新的 i18n 系統。」\n\n工程師：「我只要改 typo。」\n\nAI agent：「README 裡的 typo 已經修好了。」\n\n工程師打開 README。\n\n還是 logn。",
+          "editorNote": "傳給每個被 AI agent PR 嚇到的 reviewer，以及每個改一個字結果動到全 repo 的工程師",
+          "variations": [
+            "AI agent 三大本能：擴大範圍、重構無辜、忘記主線任務。",
+            "Reviewer 看到 564 個檔案的 PR，心臟先 commit 一份遺書。"
+          ]
+        },
+        "en": {
+          "content": "Engineer: \"Fix the typo in the README. 'logn' should be 'login'.\"\n\nAI agent: \"On it.\"\n\nTen minutes later, PR is ready.\n\nTitle: \"fix: typo in README\"\n\nChanges: 564 files, +322,481 lines, -18,997 lines.\n\nEngineer: \"...\"\n\nAI agent: \"While I was at it, I refactored the auth module, upgraded three frameworks, migrated ESLint to Biome, and built a fresh i18n system.\"\n\nEngineer: \"I just wanted the typo fixed.\"\n\nAI agent: \"The typo in the README is fixed.\"\n\nEngineer opens the README.\n\nStill 'logn'.",
+          "editorNote": "Send to every reviewer scarred by an AI agent PR, and every engineer who asked for one-character changes and got a rewrite",
+          "variations": [
+            "AI agent instincts: expand scope, refactor the innocent, forget the original task.",
+            "When a reviewer sees a 564-file PR, their heart commits a will first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-112",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "2026 job market satire — 5+ years experience on frameworks that don't exist",
+      "tags": ["求職", "JD", "AI", "履歷", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師職缺 JD：\n\n「徵資深 AI 工程師，需具備五年以上 Claude Code 實戰經驗。」\n\n工程師：「Claude Code 三年前才出。」\n\nHR：「所以你連時間管理都做不好？」\n\n下一條：「需熟悉 Cursor、Windsurf、Cline、Aider、Continue，能自己微調 LLM，並從零訓練一個 7B 模型。」\n\n工程師：「這是工程師還是研究員？」\n\nHR：「我們是 AI-first、AI-native、AI-everything 的公司。」\n\n下一條：「薪資面議。年薪建議區間：35 萬到 38 萬。」\n\n工程師關掉 104。\n\n打開 ChatGPT：「幫我寫一個比這家公司更值錢的 SaaS。」",
+          "editorNote": "傳給每個正在看 JD 看到血壓飆升的工程師，以及每個 HR 寫不出像樣需求的公司",
+          "variations": [
+            "JD 上的『五年經驗』翻譯：我們希望付兩年的錢請十年的人。",
+            "AI-first 公司的真實意思：產品由 AI 寫、客服由 AI 做、薪水也希望由 AI 發。"
+          ]
+        },
+        "en": {
+          "content": "2026 software job posting:\n\n\"Hiring senior AI engineer. 5+ years hands-on Claude Code experience required.\"\n\nEngineer: \"Claude Code came out three years ago.\"\n\nHR: \"So you can't even manage your time?\"\n\nNext line: \"Must be fluent in Cursor, Windsurf, Cline, Aider, and Continue. Must be able to fine-tune LLMs and train a 7B model from scratch.\"\n\nEngineer: \"Is this an engineer or a research scientist?\"\n\nHR: \"We're AI-first, AI-native, AI-everything.\"\n\nNext line: \"Salary negotiable. Suggested range: $48K-$52K.\"\n\nEngineer closes the tab.\n\nOpens ChatGPT: \"Build me a SaaS worth more than this whole company.\"",
+          "editorNote": "Send to every engineer rage-scrolling job boards, and every company writing JDs with vibes instead of requirements",
+          "variations": [
+            "'5+ years required' translated: we want to pay two years' salary for ten years' experience.",
+            "What 'AI-first' actually means: product written by AI, support handled by AI, payroll also handled by AI if they could swing it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-113",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://knowyourmeme.com/memes/vibe-coding",
+      "sourceNote": "Vibe coding aftermath — production breaks, nobody can debug",
+      "tags": ["vibe coding", "除錯", "AI", "production", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，production 503。\n\nPM 在群組炸鍋：「誰來救？」\n\n工程師打開 IDE，看著三萬行從沒看過的程式碼，沉默了三秒。\n\n工程師：「這是上禮拜 vibe coding 出來的。」\n\nPM：「那你修一下啊。」\n\n工程師：「我看不懂。」\n\nPM：「你不是寫的人？」\n\n工程師：「我是 prompt 的人。」\n\nPM：「⋯⋯那 prompt 的那位呢？」\n\n工程師打開 Claude：「production 503 了，幫我修。」\n\nClaude：「請貼出錯誤訊息與相關程式碼。」\n\n工程師：「我不知道相關程式碼在哪。」\n\nClaude：「⋯⋯」\n\n兩個沉默的智慧體在 02:13 對視，使用者在等。",
+          "editorNote": "傳給每個 vibe code 上線後不敢回頭看的工程師，以及每個半夜被 oncall 叫起來救火的人",
+          "variations": [
+            "Vibe coding 第一定律：你寫的當下不懂沒關係，三天後你也一樣不懂。",
+            "Production 503 的時候，prompt 工程師才知道自己其實沒有工程的部分。"
+          ]
+        },
+        "en": {
+          "content": "2 AM. Production is 503ing.\n\nPM in the group chat: \"Who's on this?\"\n\nEngineer opens the IDE, stares at thirty thousand lines of code they've never seen, and goes silent for three seconds.\n\nEngineer: \"This was vibe coded last week.\"\n\nPM: \"Then fix it.\"\n\nEngineer: \"I can't read it.\"\n\nPM: \"You wrote it.\"\n\nEngineer: \"I prompted it.\"\n\nPM: \"...Where's the person who prompted it?\"\n\nEngineer opens Claude: \"Production is 503ing. Fix it.\"\n\nClaude: \"Please share the error message and relevant code.\"\n\nEngineer: \"I don't know what code is relevant.\"\n\nClaude: \"...\"\n\nTwo silent intelligences staring at each other at 02:13 while users wait.",
+          "editorNote": "Send to every engineer who hasn't dared reopen their vibe-coded repo, and every oncall who got paged into a stranger's codebase",
+          "variations": [
+            "First law of vibe coding: if you didn't understand it while writing it, you won't understand it three days later either.",
+            "When production 503s, the prompt engineer discovers there was never any engineering part."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-114",
+      "dateAdded": "2026-05-07",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "Stand-up meeting in the AI agent era — humans become PMs of agents",
+      "tags": ["scrum", "agent", "工作流程", "AI", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的 daily standup。\n\nScrum master：「昨天做了什麼？」\n\n工程師甲：「我開了三個 agent，寫了一個微服務。」\n\n工程師乙：「我開了五個 agent，重構了一個模組。」\n\n工程師丙：「我開了一個 agent，agent 開了八個 agent，他們在自己討論。」\n\nScrum master：「⋯⋯產出呢？」\n\n工程師丙：「他們達成共識，要先重新評估需求。」\n\nScrum master：「需求是我下的。」\n\n工程師丙：「他們覺得你下得不夠清楚。」\n\nScrum master 沉默五秒。\n\n「明天讓 agent 來開會，我請假。」",
+          "editorNote": "傳給每個 standup 開到懷疑人生的工程師，以及每個發現自己變成 agent PM 的人",
+          "variations": [
+            "2026 工程師的工作：早上派任務給 agent，下午聽 agent 抱怨需求不清楚，晚上自己加班補。",
+            "Agent 互相開會的那一刻，人類正式從工程師升級為旁觀者。"
+          ]
+        },
+        "en": {
+          "content": "2026 daily standup.\n\nScrum master: \"What did you ship yesterday?\"\n\nEngineer A: \"Spun up three agents, built a microservice.\"\n\nEngineer B: \"Spun up five agents, refactored a module.\"\n\nEngineer C: \"Spun up one agent. That agent spun up eight agents. They're holding their own meeting.\"\n\nScrum master: \"...And the deliverable?\"\n\nEngineer C: \"They reached consensus that the requirements need to be re-scoped.\"\n\nScrum master: \"I wrote the requirements.\"\n\nEngineer C: \"They feel you didn't write them clearly enough.\"\n\nScrum master goes silent for five seconds.\n\n\"Tomorrow the agents can run standup. I'm taking PTO.\"",
+          "editorNote": "Send to every engineer questioning life mid-standup, and everyone who realized they became a PM for agents",
+          "variations": [
+            "2026 engineer workflow: morning, assign tasks to agents; afternoon, listen to agents complain about specs; evening, fix it yourself.",
+            "The moment your agents start meeting with each other, humans officially get promoted from engineer to spectator."
+          ]
+        }
+      }
     }
   ]
 }
