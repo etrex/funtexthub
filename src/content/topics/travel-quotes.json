@@ -1,0 +1,316 @@
+{
+  "slug": "travel-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "旅遊語錄",
+      "description": "從出國前的失眠、機場凌晨的低聲咒罵，到回家以後第一碗泡麵——精選旅行金句、廢話文學、國旅心情語錄，給每一個還在背包裡找護照的你"
+    },
+    "en": {
+      "title": "Travel Quotes",
+      "description": "Wanderlust lines, airport sighs, and luggage truths — short travel quotes for the people who packed too much, slept too little, and somehow loved every minute of it"
+    }
+  },
+  "items": [
+    {
+      "id": "tq-001",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.adaymag.com/2015/12/29/inspiring-travel-quotes-make-you-want-to-leave.html",
+      "sourceNote": "經典 wanderlust register，重新組合改寫",
+      "tags": ["旅行", "勵志", "短句", "文藝"],
+      "i18n": {
+        "zh-tw": {
+          "content": "旅行不是逃離生活，\n是給生活一個機會，\n讓你重新愛上它。",
+          "editorNote": "適合放在旅遊照 IG caption、年末回顧文、辭職告別信開頭——比「世界這麼大我想去看看」 更不口號、更有溫度",
+          "variations": [
+            "旅行不是逃避，是讓你回來時，重新願意打開家門那一刻的儀式。"
+          ]
+        },
+        "en": {
+          "content": "Travel isn't running away from your life.\nIt's giving your life a reason to want you back.",
+          "editorNote": "Works as an Instagram caption, a year-end reflection post, or a goodbye line in a goodbye-for-now letter to friends",
+          "variations": [
+            "Travel isn't an escape — it's the long way back to the version of yourself you forgot you liked."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-002",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://punshifter.com/travel-jokes-one-liners/",
+      "sourceNote": "經典 luggage / emotional baggage 雙關，重新改寫",
+      "tags": ["旅行", "笑話", "行李", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去旅行不是要放下行李，\n是要把行李帶到比較有海景的地方繼續放著。",
+          "editorNote": "適合在朋友問「你旅遊都在幹嘛」時回的廢話金句，比「轉換心情」之類的官腔好笑很多",
+          "variations": [
+            "我以為旅行會讓我放下情緒包袱，後來發現只是搬到別的飯店繼續打開來檢查。"
+          ]
+        },
+        "en": {
+          "content": "I didn't go on this trip to leave my baggage behind.\nI just wanted to unpack it somewhere with a better view.",
+          "editorNote": "A self-aware caption for the kind of trip that's clearly therapy-with-a-passport — works on solo travel posts, divorce trips, or any 'main character era' moment",
+          "variations": [
+            "Therapy is expensive. Plane tickets are expensive. But at least the plane ticket comes with a window seat."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-003",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://yuandiantravel.com/blog/travel-subsidy/",
+      "sourceNote": "2026 國旅補助 timely register，原創 frame",
+      "tags": ["國旅", "補助", "台灣", "廢文", "省錢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "國旅補助讓我搞清楚一件事：\n我不是不想出門，\n我是不想用原價出門。",
+          "editorNote": "2026 國旅補助 4–6月主場期最在地的廢文 register；適合 LINE 群組丟給準備搶券的朋友、IG 自嘲文、Threads 短發",
+          "variations": [
+            "今年的旅行不是衝動，是補助到期前的責任感。",
+            "我不是節儉，我是用 1200 塊住宿券的方式宣示我還活著。"
+          ]
+        },
+        "en": {
+          "content": "I'm not cheap.\nI just refuse to travel without a discount code, a coupon, and three layers of strategic timing.",
+          "editorNote": "Universal voice for budget travelers — works on Reddit r/travel posts, deal-hunting blog intros, and any caption where the receipts are part of the joke",
+          "variations": [
+            "I don't choose destinations. The flight deals choose me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-004",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://sites.google.com/go.edu.tw/jie1113/%E9%A6%96%E9%A0%81/%E5%BB%A2%E8%A9%B1%E8%AA%9E%E9%8C%841",
+      "sourceNote": "廢話文學 register × travel，原創",
+      "tags": ["廢話文學", "旅行", "短句", "搞笑"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在飛機上，\n每飛一分鐘，\n就離家更遠一分鐘。",
+          "editorNote": "標準廢話文學 frame——適合在朋友傳機場照分享時回一句，或自己出國登機前發一則 IG 限動，自帶笑點",
+          "variations": [
+            "搭飛機最大的好處，是讓你抵達一個你還沒抵達的地方。"
+          ]
+        },
+        "en": {
+          "content": "Every minute on a plane\nis one minute closer to where you're going,\nand one minute further from where you were.\n\nWild.",
+          "editorNote": "Deadpan absurdist humor — pairs well with a window-seat photo or a caption on any flight you'd rather not be taking",
+          "variations": [
+            "The thing about airplanes is that they take you somewhere. That's actually their whole deal."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-005",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.thewanderlustwithin.com/funny-travel-quotes/",
+      "sourceNote": "I followed my heart frame，重新改寫",
+      "tags": ["旅行", "搞笑", "機場", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我聽從我的內心，\n結果它把我帶到了桃園機場第二航廈，\n出境大廳，凌晨四點。",
+          "editorNote": "凌晨機場 specific moment 是 LINE / Threads / IG 限動最有畫面感的 frame——適合搭配機場照、登機證、或失眠紅眼班機自拍",
+          "variations": [
+            "我跟著直覺走，直覺把我帶到行李超重 800 塊台幣的櫃台。"
+          ]
+        },
+        "en": {
+          "content": "I followed my heart\nand somehow ended up at gate 47\nat 4:30 in the morning,\neating the worst sandwich of my life.",
+          "editorNote": "Captions for that 4 AM airport energy — pair with a tired-but-happy selfie or a photo of a depressing airport breakfast",
+          "variations": [
+            "I followed my heart. It led to the airport. My heart is just a flight deal alert."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-006",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.ef.edu/blog/language/50-inspiring-travel-quotes-time/",
+      "sourceNote": "richer-by-spending 經典 frame，重新改寫",
+      "tags": ["旅行", "勵志", "金錢", "回憶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "錢包變薄的速度，\n剛好等於你回憶變厚的速度。\n\n這就是旅行最公平的匯率。",
+          "editorNote": "適合放年末旅行總結文、消費後合理化貼文、跟長輩解釋為什麼又出國的金句——溫柔但夠堅定",
+          "variations": [
+            "旅行是唯一一種你花完錢，還會覺得自己更富有的消費。"
+          ]
+        },
+        "en": {
+          "content": "The money leaves your account.\nThe memory takes its place.\n\nThat's the exchange rate of every good trip.",
+          "editorNote": "Works as a comeback for anyone who calls travel 'wasteful' — gentle but firm. Good for travel blog intros and reflective IG captions",
+          "variations": [
+            "Money runs out. Memories don't. Spend accordingly."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-007",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.hostelworld.com/blog/solo-travel-quotes/",
+      "sourceNote": "solo travel register，重新改寫",
+      "tags": ["獨旅", "一個人", "勵志", "成長"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個人的旅行最孤獨的不是路上，\n是回來以後\n發現沒有人聽得懂\n你為了一道湯走了三條街的興奮。",
+          "editorNote": "獨旅後 IG 長 caption / Threads 抒發 / 部落格開頭都好用——獨旅族最痛的點不是寂寞而是回來無人共享，這句一刀切中",
+          "variations": [
+            "一個人的旅行最大的禮物，是學會跟自己約會、跟自己吵架、跟自己和解，全部一個下午搞定。"
+          ]
+        },
+        "en": {
+          "content": "Solo travel isn't lonely on the road.\nIt's lonely when you come home\nand nobody else gets why\nthe bowl of soup mattered.",
+          "editorNote": "Solo travel reflection caption — captures the post-trip ache that solo travelers know but rarely articulate",
+          "variations": [
+            "Solo travel taught me that the loneliest part isn't the trip. It's explaining the trip to people who weren't there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-008",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.dcard.tw/f/travel/p/251381378",
+      "sourceNote": "Dcard 出國行李清單 register，原創廢文",
+      "tags": ["行李", "出國", "搞笑", "失眠"],
+      "i18n": {
+        "zh-tw": {
+          "content": "出國前一晚的失眠，\n不是焦慮，\n是身體比你早一步\n進入下一個時區。",
+          "editorNote": "適合凌晨打包到一半的 IG 限動、紅眼班機自拍、Threads 短發——把人人都有的「出發前睡不著」 重新詮釋成浪漫的事",
+          "variations": [
+            "凌晨三點還在數行李件數的我，已經提前抵達目的地的失眠，只剩身體沒跟上。"
+          ]
+        },
+        "en": {
+          "content": "The night before a trip\nyou don't sleep\nbecause your body has already left.\nIt's just waiting for you to catch up.",
+          "editorNote": "Reframes pre-trip insomnia as something poetic instead of stressful — works for a 3 AM packing photo or a red-eye flight caption",
+          "variations": [
+            "I haven't slept in 22 hours and I haven't even left my apartment. This is what excitement looks like at 34."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-009",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.tripool.app/articles/travel-packing-list",
+      "sourceNote": "出國行李清單 anxiety register，原創",
+      "tags": ["行李", "搞笑", "出國", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我帶的不是行李，\n是「萬一」的清單：\n萬一冷、萬一熱、萬一下雨、\n萬一我的人生在飯店突然需要一條牙線。",
+          "editorNote": "適合行李炸開的 IG 照、跟朋友互嘲打包習慣、出國前 Threads 自嘲——精準描述 Dcard 行李清單派 vs 隨興派的痛",
+          "variations": [
+            "我整理行李不是在打包，是在預演 28 種可能的我。"
+          ]
+        },
+        "en": {
+          "content": "I'm not packing a suitcase.\nI'm packing every version of myself\nthat might possibly need to exist\nfor the next ten days.",
+          "editorNote": "For the chronic over-packer — captures the truth that packing anxiety is really identity anxiety in a smaller container",
+          "variations": [
+            "I packed for the weather, the mood, the meeting I won't have, and the version of me who finally journals every morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-010",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.kirin.com.tw/blog/article/1594",
+      "sourceNote": "「找回自己」 register，重新改寫",
+      "tags": ["旅行", "勵志", "自我", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "旅行不是去看世界，\n是去看世界裡，\n那個你本來就該長成的樣子。",
+          "editorNote": "適合 30 歲生日旅行文、辭職環島、Gap Year 心得開頭——比「找自己」 更具體、不矯情",
+          "variations": [
+            "我不是出門找風景，我是去確認那個我喜歡過的自己還在不在。"
+          ]
+        },
+        "en": {
+          "content": "You don't travel to see the world.\nYou travel to find the version of yourself\nthe world has been waiting for.",
+          "editorNote": "Birthday trip captions, gap year intros, post-resignation soul-search posts — sincere without being saccharine",
+          "variations": [
+            "I'm not chasing the view. I'm chasing the version of me who only shows up at altitude."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-011",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://hostelgeeks.com/26-funny-travel-quotes-laugh/",
+      "sourceNote": "「I haven't been everywhere」 經典 frame，改寫",
+      "tags": ["旅行", "勵志", "短句", "笑點"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我還沒去過所有地方，\n但是我有清單，\n清單比我還長壽。",
+          "editorNote": "適合放護照本內頁、行李吊牌、IG bio——自帶幽默又勵志，比「夢想清單」 更輕快",
+          "variations": [
+            "我的待辦清單越長，代表我活得越認真。"
+          ]
+        },
+        "en": {
+          "content": "I haven't been everywhere yet.\nBut I have the list.\nThe list will outlive me, honestly.",
+          "editorNote": "Bio-line energy. Works on a passport cover, a luggage tag, or as the closing line of a 'places I want to visit' post",
+          "variations": [
+            "I haven't been everywhere. But I'm working on it. Slowly. Expensively. Joyfully."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-012",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://travelnoire.com/airplane-puns",
+      "sourceNote": "airplane / wing 經典雙關，改寫",
+      "tags": ["飛機", "雙關", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：搭飛機的時候我都在幹嘛？\n\n答：在祈禱。\n還有，看別人也在祈禱。",
+          "editorNote": "怕飛族專屬廢文——適合搭配登機自拍、機艙窗戶照，告訴朋友「我這趟回不來請記得餵我家的貓」 的幽默版本",
+          "variations": [
+            "搭飛機最高深的禪修：把命交給駕駛艙、把胃交給亂流、把希望交給空姐推餐車。"
+          ]
+        },
+        "en": {
+          "content": "What do I do on planes?\n\nI pray.\nAnd I watch other people pray.\n\nIt's a community.",
+          "editorNote": "For nervous flyers — pairs with a window selfie or a 'if I don't come back, feed my cat' joke caption",
+          "variations": [
+            "Flying is just trusting strangers in really specific outfits with your entire life. We're all very brave."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-013",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183027/post/202511130051/",
+      "sourceNote": "Taiwan Pass / 國旅 2026 timely register，原創",
+      "tags": ["國旅", "台灣", "在地", "短句", "勵志"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台灣很小，\n但小到剛好可以\n讓你週五下班、\n週日晚上回到自己床上，\n中間還塞得進一座海。",
+          "editorNote": "2026 Taiwan Pass / 國旅補助 主場期最 timely 的在地旅行金句——適合花蓮、台東、墾丁、宜蘭出遊文，IG / Threads / LINE 三平台通用",
+          "variations": [
+            "在台灣，最遠的距離不是雙北到屏東，是星期五的你到星期一的你。"
+          ]
+        },
+        "en": {
+          "content": "Taiwan is small enough\nto leave on Friday after work,\nbe at the ocean by sunset,\nand still sleep in your own bed Sunday night.\n\nThat's not small. That's perfect.",
+          "editorNote": "For international readers / overseas Taiwanese — captures why weekend trips in Taiwan hit different. Use on travel blog posts about Taiwan or expat-life captions",
+          "variations": [
+            "Taiwan: the only country small enough to fit a beach, a mountain, and a regret in a single weekend."
+          ]
+        }
+      }
+    }
+  ]
+}
