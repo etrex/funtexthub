@@ -1045,7 +1045,12 @@
       "dateAdded": "2026-04-18",
       "sourceUrl": "https://programmerhumor.io/",
       "sourceNote": "PM模糊需求 vs 工程師字面理解 — 重新創作",
-      "tags": ["PM", "需求", "溝通", "工程師思維"],
+      "tags": [
+        "PM",
+        "需求",
+        "溝通",
+        "工程師思維"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "PM說：「這個功能我需要用到一個彈窗。」\n工程師把彈窗做出來了。\nPM說：「我的意思是有彈窗的效果，但不是彈窗。」\n工程師：「……彈窗的效果但不是彈窗，是什麼？」\nPM說：「就是那種感覺。」\n工程師說：「好，我需要更多時間。」",
@@ -1068,7 +1073,12 @@
       "dateAdded": "2026-04-18",
       "sourceUrl": "https://programmerhumor.io/",
       "sourceNote": "測試文化諷刺 — 重新創作",
-      "tags": ["測試", "工程師日常", "除錯", "工程師語錄"],
+      "tags": [
+        "測試",
+        "工程師日常",
+        "除錯",
+        "工程師語錄"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師對測試的三種態度：\n\n初階：「我手動點了一遍，應該沒問題。」\n中階：「我寫了單元測試，但上到正式環境才跑壞了。」\n高階：「整合測試、端對端測試，每個環境都驗證過。」\n\n上線後：「用戶在做的那個操作，我們完全沒測到。」",
@@ -1091,7 +1101,12 @@
       "dateAdded": "2026-04-18",
       "sourceUrl": "https://programmerhumor.io/",
       "sourceNote": "AI輔助工程師諷刺，重新創作",
-      "tags": ["AI", "工具", "工程師語錄", "現代梗"],
+      "tags": [
+        "AI",
+        "工具",
+        "工程師語錄",
+        "現代梗"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師問AI：「幫我寫一個判斷奇偶數的函式。」\nAI寫了三十行，包含型別檢查、邊界值處理、詳細錯誤訊息。\n工程師看了三分鐘，把三十行改成一行。\nAI說：「你這樣寫不夠健壯。」\n工程師說：「但輸入一定是整數。」\nAI說：「如果你確定的話。」\n工程師心想：我本來就確定，我問你是為了省時間的。",
@@ -1114,7 +1129,11 @@
       "dateAdded": "2026-04-18",
       "sourceUrl": "https://programmerhumor.io/",
       "sourceNote": "工程師健康提醒諷刺，重新創作",
-      "tags": ["工程師生活", "健康", "工程師語錄"],
+      "tags": [
+        "工程師生活",
+        "健康",
+        "工程師語錄"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師看到「請每隔一小時站起來走動一下」的健康提醒後，嚴格執行：每隔一小時起身，走去廁所，然後立刻坐回來繼續。\n\n他向公司申報：本月步數目標完成率提升百分之四十。",
@@ -1137,7 +1156,12 @@
       "dateAdded": "2026-04-19",
       "sourceUrl": "https://punjokevault.com/programmer-jokes/",
       "sourceNote": "Junior vs senior developer mindset — widely circulated format in dev communities",
-      "tags": ["初階工程師", "資深工程師", "工程師語錄", "工程師成長"],
+      "tags": [
+        "初階工程師",
+        "資深工程師",
+        "工程師語錄",
+        "工程師成長"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "初階工程師：「這個解法雖然沒那麼優雅，但可以動。」\n中階工程師：「這個解法太醜了，我要重構成更漂亮的版本。」\n\n——重構完成後，系統壞掉了——\n\n資深工程師看了一眼說：「可以動的程式碼才是好的程式碼。」",
@@ -1160,7 +1184,12 @@
       "dateAdded": "2026-04-19",
       "sourceUrl": "https://www.zegocloud.com/blog/programming-memes",
       "sourceNote": "Friday deployment — perennial developer ritual and cautionary meme",
-      "tags": ["部署", "上線", "職場", "工程師日常"],
+      "tags": [
+        "部署",
+        "上線",
+        "職場",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "業界不成文規定：不要在週五下午部署。\n\n工程師A：「我快速部署一下，幾分鐘就好。」\n工程師B：「今天是週五下午四點。」\n工程師A：「沒事的，我測試過了。」\n\n——兩小時後——\n\n工程師A還在辦公室，手邊是第三杯咖啡。\n週末就這樣沒了。",
@@ -1183,7 +1212,11 @@
       "dateAdded": "2026-04-19",
       "sourceUrl": "https://punbloom.com/programming-jokes/",
       "sourceNote": "Debugging as detective work — classic reframing widely shared in dev humor",
-      "tags": ["除錯", "工程師思維", "黑色幽默"],
+      "tags": [
+        "除錯",
+        "工程師思維",
+        "黑色幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "除錯就像是在偵探故事裡當偵探。\n\n你仔細蒐集線索、分析動機、逐步縮小嫌疑範圍。\n\n最後鎖定兇手，揭開真相。\n\n然後你才發現：\n兇手是你自己。\n三週前。",
@@ -1206,7 +1239,12 @@
       "dateAdded": "2026-04-19",
       "sourceUrl": "https://punsify.com/programmer-jokes/",
       "sourceNote": "TypeScript vs JavaScript — type safety humor widely shared among frontend devs",
-      "tags": ["TypeScript", "JavaScript", "前端", "工程師語錄"],
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "前端",
+        "工程師語錄"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師A：「我最近把專案從JavaScript換成TypeScript了。」\n工程師B：「感覺怎麼樣？」\nA：「好多了。現在程式在執行之前就先告訴我它壞在哪裡了。」\nB：「那你修掉了嗎？」\nA：「沒有。我把那行標成 any，讓它閉嘴。」",
@@ -1229,7 +1267,12 @@
       "dateAdded": "2026-04-20",
       "sourceUrl": "https://programmerhumor.io/memes/microservices",
       "sourceNote": "Microservices over-engineering humor — widely circulated in DevOps and backend communities 2025-2026",
-      "tags": ["微服務", "架構", "過度工程", "工程師語錄"],
+      "tags": [
+        "微服務",
+        "架構",
+        "過度工程",
+        "工程師語錄"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "開會有人說了一個詞：「微服務」。\n\n一週後，原本跑得好好的單體應用，被拆成二十三個服務，\n每個服務有自己的資料庫、自己的日誌系統，\n還有一個服務專門負責「協調其他服務互相溝通」。\n\n系統的複雜度提升了五倍。\n功能跟原本一模一樣。\n\n工程師說：「現在可以擴展了。」\n沒有人問要擴展什麼。",
@@ -1252,7 +1295,12 @@
       "dateAdded": "2026-04-20",
       "sourceUrl": "https://programmerhumor.io/memes/docker",
       "sourceNote": "Docker 'works on my machine' irony — the tool that was supposed to fix environment issues",
-      "tags": ["Docker", "環境", "容器化", "工程師語錄"],
+      "tags": [
+        "Docker",
+        "環境",
+        "容器化",
+        "工程師語錄"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "Docker的誕生是為了解決「在我電腦上是好的」這個問題。\n\n工程師A把應用打包進Docker，信心滿滿地說：「現在到哪裡都能跑了。」\n\n工程師B跑起來，報錯：「找不到映像檔。」\n工程師A：「奇怪，在我電腦上是好的。」",
@@ -1275,7 +1323,12 @@
       "dateAdded": "2026-04-20",
       "sourceUrl": "https://programmerhumor.io/memes/kubernetes",
       "sourceNote": "Kubernetes YAML complexity — universally shared DevOps pain point",
-      "tags": ["Kubernetes", "DevOps", "YAML", "工程師日常"],
+      "tags": [
+        "Kubernetes",
+        "DevOps",
+        "YAML",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新人問：「這個服務要怎麼部署？」\n\n資深工程師遞給他一疊四十七頁的YAML設定檔。\n\n「這些是Kubernetes的設定。分別是Deployment、Service、Ingress、ConfigMap、Secret、HorizontalPodAutoscaler——」\n\n新人：「等等，那這個服務本身的程式碼有幾行？」\n\n資深工程師停頓了一下：「……八十行。」",
@@ -1298,7 +1351,12 @@
       "dateAdded": "2026-04-20",
       "sourceUrl": "https://punhour.com/quality-assurance-jokes/",
       "sourceNote": "QA engineer finds nothing vs finds everything — classic dev-QA dynamic rewritten",
-      "tags": ["QA", "測試", "工程師日常", "溝通"],
+      "tags": [
+        "QA",
+        "測試",
+        "工程師日常",
+        "溝通"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師把新功能交給QA。\n\n如果QA說「沒有問題」，工程師擔心QA沒認真測。\n如果QA說「發現十七個問題」，工程師擔心自己的程式碼品質。\n\n所以工程師其實最喜歡的答案是什麼？\n\n「找到兩個小問題，都已修正。」\n\n但這種回答通常只存在於夢裡。",
@@ -1321,7 +1379,12 @@
       "dateAdded": "2026-04-20",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Testing in production — the developer's dark confession, widely shared in 2025-2026",
-      "tags": ["測試", "正式環境", "工程師語錄", "黑色幽默"],
+      "tags": [
+        "測試",
+        "正式環境",
+        "工程師語錄",
+        "黑色幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師：「我不是在正式環境測試。」\n\n同一個工程師，五分鐘後：\n「剛才那個小改動……是直接推到正式環境的。\n我有信心。\n而且時間很趕。\n而且測試環境的資料跟正式環境不一樣。\n所以其實算是有充分理由的。」",
@@ -1344,7 +1407,12 @@
       "dateAdded": "2026-04-21",
       "sourceUrl": "https://programmerhumor.io/ai-memes/github-copilot-after-stealing-your-company-internal-codebase-fisr",
       "sourceNote": "GitHub Copilot / AI coding assistant humor — widely shared on programmerhumor.io in 2025-2026; rewritten around the AI-autocomplete experience",
-      "tags": ["AI", "Copilot", "自動補全", "工程師日常"],
+      "tags": [
+        "AI",
+        "Copilot",
+        "自動補全",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師打了三個字：\n「getUserBy」\n\nAI 自動補全立刻給出一整段六十行的程式碼，包含資料庫查詢、快取邏輯、錯誤處理，還有一段沒人要求的日誌紀錄。\n\n工程師：「……我只是要打 getUserById。」\n\nAI：「我知道。但我認為你會需要的。」",
@@ -1367,7 +1435,12 @@
       "dateAdded": "2026-04-21",
       "sourceUrl": "https://programmerhumor.io/memes/github",
       "sourceNote": "git blame as a blame-shifting tool — classic dev humor rewritten from the 'sport of pointing fingers at the past' framing on programmerhumor.io",
-      "tags": ["Git", "code review", "甩鍋", "工程師文化"],
+      "tags": [
+        "Git",
+        "code review",
+        "甩鍋",
+        "工程師文化"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "資深工程師教新人：「碰到看不懂的程式碼，先跑 git blame，找到是誰寫的。」\n\n新人跑完：「……顯示是你兩年前寫的。」\n\n資深工程師沉默了三秒：「那就繼續跑下去，看看那時候是誰 Review 的。」",
@@ -1390,7 +1463,12 @@
       "dateAdded": "2026-04-21",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Rubber duck debugging joke — classic technique rewritten with a modern twist about taking it more seriously than actual colleagues",
-      "tags": ["debug", "小黃鴨", "工程師日常", "溝通"],
+      "tags": [
+        "debug",
+        "小黃鴨",
+        "工程師日常",
+        "溝通"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師對著桌上的小黃鴨解釋了二十分鐘的 bug。\n\n說到一半，自己突然停下來：「……等等，我知道問題在哪了。」\n\n旁邊同事：「小黃鴨又救了一個人？」\n\n工程師：「牠比任何人都專心在聽我說話。」",
@@ -1413,7 +1491,12 @@
       "dateAdded": "2026-04-21",
       "sourceUrl": "https://punjokevault.com/programmer-jokes/",
       "sourceNote": "Sprint estimation humor — the eternal gap between estimated and actual time, rewritten from multiple 2026 sources",
-      "tags": ["sprint", "估時", "專案管理", "工程師語錄"],
+      "tags": [
+        "sprint",
+        "估時",
+        "專案管理",
+        "工程師語錄"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "PM：「這個功能要多久？」\n\n工程師：「三天。」\n\nPM：「好，那就排兩天，要有緊迫感。」\n\n工程師：（心想：那我估的『三天』已經是加了兩倍緩衝的數字了）\n\n工程師：「好。」",
@@ -1436,7 +1519,12 @@
       "dateAdded": "2026-04-21",
       "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
       "sourceNote": "Light attracts bugs / dark mode joke — popular theme in 2025-2026 collections; rewritten with a story framing instead of a one-liner",
-      "tags": ["dark mode", "bug", "工程師文化", "黑色幽默"],
+      "tags": [
+        "dark mode",
+        "bug",
+        "工程師文化",
+        "黑色幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新進工程師問：「為什麼大家都用深色主題？是護眼嗎？」\n\n資深工程師：「不是。」\n\n新進工程師：「那是因為比較酷？」\n\n資深工程師：「也不是。」\n\n新進工程師：「那是為什麼？」\n\n資深工程師：「因為光會吸引蟲子。」",
@@ -1459,7 +1547,12 @@
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://programmerhumor.io/memes/recursion",
       "sourceNote": "Classic recursion self-reference joke — rewritten as a dialogue instead of a one-liner",
-      "tags": ["遞迴", "recursion", "工程師思維", "邏輯"],
+      "tags": [
+        "遞迴",
+        "recursion",
+        "工程師思維",
+        "邏輯"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師在技術分享會上說：「今天要講遞迴。要理解遞迴，你必須先理解遞迴。」\n\n台下沉默三秒。\n\n有人舉手：「所以什麼時候才會講到真正的內容？」\n\n工程師：「你已經在裡面了。」",
@@ -1482,7 +1575,12 @@
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Variable naming humor — developers' notorious habit of using temp, tmp, tmp2, tmp_final rewritten as a story",
-      "tags": ["命名", "程式碼品質", "工程師日常", "可讀性"],
+      "tags": [
+        "命名",
+        "程式碼品質",
+        "工程師日常",
+        "可讀性"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "程式碼 review 中，reviewer 指著一個變數問：「這個 `data2` 是什麼？」\n\n作者：「就是 data。」\n\n「那 `data` 是什麼？」\n\n「也是 data。」\n\n「那差別是？」\n\n「`data2` 是比較新的那個。」\n\n「那 `data_final`？」\n\n「……不要問那個。」",
@@ -1505,7 +1603,12 @@
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Top-10-programmer-jokes",
       "sourceNote": "'Works on my machine' classic — rewritten as a shipping joke with a modern twist",
-      "tags": ["環境差異", "部署", "工程師語錄", "works on my machine"],
+      "tags": [
+        "環境差異",
+        "部署",
+        "工程師語錄",
+        "works on my machine"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "QA 工程師：「你這個功能在測試環境整個壞掉了。」\n\n開發工程師：「奇怪，我這邊跑得好好的。」\n\nQA：「那你的電腦可以出貨嗎？」\n\n開發：「……要不要考慮一下 Docker？」",
@@ -1528,7 +1631,13 @@
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://punbloom.com/programming-jokes/",
       "sourceNote": "AI replacing Stack Overflow debugging — 2026 trend of explaining bugs to ChatGPT instead of googling; rewritten as a workplace exchange",
-      "tags": ["AI", "debug", "ChatGPT", "工程師文化", "2026"],
+      "tags": [
+        "AI",
+        "debug",
+        "ChatGPT",
+        "工程師文化",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "同事：「你在幹嘛？」\n\n工程師：「跟 AI 解釋我的 bug。」\n\n同事：「它有幫你解決嗎？」\n\n工程師：「還沒，但我解釋到一半，自己突然知道問題在哪了。」\n\n同事：「所以 AI 沒幫上忙？」\n\n工程師：「它有啊，它認真聽我說話。這件事以前是 Stack Overflow 在做的。」",
@@ -1551,7 +1660,12 @@
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://witwale.com/coding-puns-and-jokes/",
       "sourceNote": "Changing requirements joke — 'kill a programmer without a gun' concept rewritten as a dialogue exchange with a final punchline",
-      "tags": ["需求變更", "PM", "工程師心聲", "專案管理"],
+      "tags": [
+        "需求變更",
+        "PM",
+        "工程師心聲",
+        "專案管理"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "PM：「我們需要改一下需求。」\n\n工程師：「好，改什麼？」\n\nPM：「其實跟之前說的差不多，只是方向完全相反。」\n\n工程師：「……」\n\nPM：「你還好嗎？你臉色怎麼那麼白？」\n\n工程師：「我在默哀。」",
@@ -1574,7 +1688,12 @@
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://www.yodiz.com/blog/41-agile-jokes-to-surely-make-you-die-laughing/",
       "sourceNote": "Daily standup abuse — widely circulated Agile humor; rewritten as a story showing how standups become long meetings",
-      "tags": ["standup", "agile", "會議", "工程師日常"],
+      "tags": [
+        "standup",
+        "agile",
+        "會議",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "每日站立會議的目的是讓大家在十五分鐘內同步進度。\n\n第一分鐘：A說他昨天做了什麼。\n第三分鐘：B提到一個問題，然後開始詳細說明。\n第七分鐘：C和D開始針對這個問題討論解法。\n第十二分鐘：主持人說「這個下線下再聊」。\n第十五分鐘：會議結束。\n\n下線下會議：又開了四十分鐘。\n\n這就是為什麼工程師最喜歡非同步溝通。",
@@ -1597,7 +1716,13 @@
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://programmerhumor.io/debugging-memes/there-are-two-hard-things-in-computer-science-cache-invalidation-naming-things-and-off-by-one-errors/",
       "sourceNote": "The 'two hard problems in CS' joke — classic Phil Karlton quote extended with off-by-one; rewritten as a classroom exchange",
-      "tags": ["cache", "命名", "off-by-one", "電腦科學", "黑色幽默"],
+      "tags": [
+        "cache",
+        "命名",
+        "off-by-one",
+        "電腦科學",
+        "黑色幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "教授在課堂上說：「電腦科學只有兩件難事：快取失效和命名。」\n\n學生舉手：「那不是兩件，那是三件嗎？」\n\n教授：「為什麼？」\n\n學生：「你還漏掉了 off-by-one error。」\n\n教授沉默了一秒：「……所以電腦科學只有兩件難事：快取失效、命名，以及 off-by-one error。」\n\n學生：「現在你說的是三件。」\n\n教授：「對，這就是 off-by-one error。」",
@@ -1620,7 +1745,12 @@
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://programmerhumor.io/memes/infinite-loop",
       "sourceNote": "Infinite loop joke — classic CS humor rewritten as a late-night scenario with a modern twist",
-      "tags": ["無限迴圈", "bug", "工程師日常", "黑色幽默"],
+      "tags": [
+        "無限迴圈",
+        "bug",
+        "工程師日常",
+        "黑色幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "凌晨兩點，工程師盯著螢幕，程式已經跑了三個小時。\n\n同事傳訊：「你那個跑完了嗎？」\n\n工程師：「我不確定它有沒有在跑，還是它已經停了。」\n\n同事：「那你怎麼不去看 log？」\n\n工程師：「log 也在跑，一直在輸出，停不下來。」\n\n同事：「那就是無限迴圈啊。」\n\n工程師：「我知道。但如果我殺掉它，我就得重新想那個演算法。我現在很累。所以我讓它繼續跑。」",
@@ -1643,7 +1773,13 @@
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://easyretro.io/blog/25-funniest-agile-memes/",
       "sourceNote": "Agile backlog never shrinks — universal product team pain; rewritten as a growing backlog story",
-      "tags": ["backlog", "agile", "sprint", "PM", "工程師語錄"],
+      "tags": [
+        "backlog",
+        "agile",
+        "sprint",
+        "PM",
+        "工程師語錄"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "Sprint 第一天，PM 說：「這次 Sprint 我們清掉一半的 backlog。」\n\nSprint 第三天：新增了五張票。\nSprint 第七天：又新增了三張票。\nSprint 最後一天：清掉了四張票，但 backlog 比 Sprint 開始時多了六張。\n\nSprint Review 上，PM 說：「這次 Sprint 我們很有生產力。」\n\n沒有人提到 backlog 的數字。",
@@ -1666,7 +1802,12 @@
       "dateAdded": "2026-04-23",
       "sourceUrl": "https://punscope.com/agile-jokes/",
       "sourceNote": "Code review comment spiral — developers over-commenting trivial things while missing real issues; rewritten as a dialogue",
-      "tags": ["code review", "溝通", "工程師文化", "工程師日常"],
+      "tags": [
+        "code review",
+        "溝通",
+        "工程師文化",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "Code review 結果回來了，有二十三條留言。\n\n工程師逐一打開：\n\n留言一到十九：「這個變數名稱可以更語意化一點。」\n留言二十：「這行縮排少了一格。」\n留言二十一到二十三：「這個 function 可以抽成更小的 helper。」\n\n工程師：「謝謝，我全改了。」\n\n兩週後，用戶回報那段邏輯有個嚴重的邊界值錯誤。\n\n沒有人在 review 裡提過那個。",
@@ -1689,7 +1830,12 @@
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://teachyourkidscode.com/programming-jokes/",
       "sourceNote": "Classic dark mode / light attracts bugs joke — rewritten as a short exchange",
-      "tags": ["dark mode", "bug", "工程師日常", "工程師思維"],
+      "tags": [
+        "dark mode",
+        "bug",
+        "工程師日常",
+        "工程師思維"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新來的設計師問：「你們工程師為什麼都用深色主題？眼睛不累嗎？」\n\n工程師頭也不抬：「淺色主題會引來蟲子。」\n\n設計師：「…蟲子？\"\n\n工程師：「Bug。光會引來 bug。」",
@@ -1712,7 +1858,12 @@
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
       "sourceNote": "Works on my machine classic — rewritten as a shipping joke with a twist ending",
-      "tags": ["works on my machine", "部署", "工程師日常", "測試"],
+      "tags": [
+        "works on my machine",
+        "部署",
+        "工程師日常",
+        "測試"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師把 bug 回報丟回給 QA：「我這邊跑起來完全沒問題。」\n\nQA 截了一張錯誤畫面：「我這邊一進去就爆。」\n\n工程師沉默了三秒，打出：「那我們把你的電腦當 production server 好了。」\n\nQA 不確定這是開玩笑還是真的提案。",
@@ -1735,7 +1886,13 @@
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://fonzi.ai/blog/computer-code-jokes",
       "sourceNote": "Junior vs senior developer mindset joke — rewritten as a meeting scene",
-      "tags": ["junior", "senior", "工程師成長", "職場", "工程師文化"],
+      "tags": [
+        "junior",
+        "senior",
+        "工程師成長",
+        "職場",
+        "工程師文化"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "會議上，PM 說：「這個功能下週可以上嗎？」\n\nJunior 工程師立刻說：「可以！我知道怎麼做！」\n\nSenior 工程師停頓了一下，問：「我們為什麼要做這個？」\n\nPM 愣住。\n\nSenior 工程師：「不是說不行，只是我想先確認這是對的問題，才決定有沒有正確答案。」\n\nJunior 工程師在旁邊筆記：原來資深不是代表你什麼都會，是代表你知道什麼時候要問。",
@@ -1758,7 +1915,13 @@
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://programmerhumor.io/",
       "sourceNote": "AI copilot over-reliance joke — vibe coding trend rewritten as a gradual dependency story",
-      "tags": ["AI", "Copilot", "vibe coding", "工程師文化", "工具"],
+      "tags": [
+        "AI",
+        "Copilot",
+        "vibe coding",
+        "工程師文化",
+        "工具"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "第一個月用 AI 寫程式：「這只是輔助工具，我還是完全掌控的。」\n\n第三個月：「這段邏輯我讓 AI 起草，我再調整一下。」\n\n第六個月：「AI 寫完了，我看起來沒問題，直接 commit。」\n\n第九個月：AI 服務當機。\n\n工程師盯著空白的編輯器，突然想不起來 for loop 的語法。",
@@ -1781,7 +1944,12 @@
       "dateAdded": "2026-04-25",
       "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
       "sourceNote": "Binary / 10 types of people classic — rewritten as a conversation with a non-tech friend",
-      "tags": ["binary", "雙關", "工程師思維", "程式基礎"],
+      "tags": [
+        "binary",
+        "雙關",
+        "工程師思維",
+        "程式基礎"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "朋友：「你說世界上只有幾種人？」\n\n工程師：「10 種。」\n\n朋友：「10 種？好多喔，哪 10 種？」\n\n工程師：「懂二進位的，和不懂的。」\n\n朋友想了十秒：「…所以是兩種？」\n\n工程師：「你已經是第二種了，加油。」",
@@ -1804,7 +1972,13 @@
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
       "sourceNote": "Vibe coding trend humor — Andrej Karpathy coined 'vibe coding' in early 2025; rewritten as a job interview exchange",
-      "tags": ["vibe coding", "AI", "工程師文化", "面試", "2026"],
+      "tags": [
+        "vibe coding",
+        "AI",
+        "工程師文化",
+        "面試",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "面試官：「你平常怎麼開發？」\n\n求職者：「Vibe coding。」\n\n面試官：「什麼意思？」\n\n求職者：「就是描述我想要什麼，讓 AI 寫，然後我感覺一下對不對，對的話就 commit。」\n\n面試官：「那你自己寫程式嗎？」\n\n求職者：「我負責感覺。」\n\n面試官沉默了三秒，在履歷上寫下：『前途不明。但很誠實。』",
@@ -1827,7 +2001,13 @@
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://datasciencedojo.com/blog/llm-and-generative-ai-jokes/",
       "sourceNote": "LLM hallucination humor — AI confidently providing wrong answers; rewritten as a pair programming dialogue",
-      "tags": ["AI", "LLM", "幻覺", "除錯", "工程師日常"],
+      "tags": [
+        "AI",
+        "LLM",
+        "幻覺",
+        "除錯",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師問 AI：「這個函式庫的 v3 有支援這個 API 嗎？」\n\nAI：「有的，v3 完全支援，用法如下：」\n然後給出了一段漂亮的範例程式碼。\n\n工程師跑起來：報錯。函式根本不存在。\n\n工程師：「你確定 v3 有這個？」\n\nAI：「你說得對，我可能混淆了。實際上 v4 才有。」\n\n工程師去查 v4 文件：v4 根本還沒發布。\n\nAI 說話的語氣，永遠比它的知識還要確定。",
@@ -1850,7 +2030,13 @@
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://fonzi.ai/blog/vibe-coding-memes",
       "sourceNote": "Accept All in AI coding tools — the 'I don't read the diffs anymore' vibe coding behavior rewritten as a slow-burn story",
-      "tags": ["vibe coding", "AI", "Copilot", "code review", "工程師文化"],
+      "tags": [
+        "vibe coding",
+        "AI",
+        "Copilot",
+        "code review",
+        "工程師文化"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "第一次用 AI 改程式碼：逐行看完所有 diff，確認每一個改動。\n\n第二個月：快速掃一眼，大致沒問題，Accept All。\n\n第四個月：直接 Accept All，有問題再說。\n\n第六個月，主管問：「這裡怎麼多了一個付款頁面？」\n\n工程師：「……我也不知道。」\n\n主管：「你沒看 diff 嗎？」\n\n工程師思考了一下，決定不回答這個問題。",
@@ -1873,7 +2059,12 @@
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "My code works / doesn't work, no idea why — classic developer contradiction rewritten as a performance review moment",
-      "tags": ["bug", "工程師語錄", "黑色幽默", "工程師日常"],
+      "tags": [
+        "bug",
+        "工程師語錄",
+        "黑色幽默",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "年度績效面談。\n\n主管：「今年你覺得自己最大的成長是什麼？」\n\n工程師思考了片刻：「我對不確定性的容忍度提升很多。」\n\n主管：「例如？」\n\n工程師：「以前程式不動我會很焦慮。現在程式不動我會說『不知道為什麼，等一下再看』。以前程式動了我很開心。現在程式動了我會說『不知道為什麼，先不要動它』。」\n\n主管：「…所以你現在兩種狀況都不知道為什麼？」\n\n工程師：「對，但我接受了。這就是成長。」",
@@ -1896,7 +2087,12 @@
       "dateAdded": "2026-04-26",
       "sourceUrl": "https://pundoor.com/programmer-puns/",
       "sourceNote": "Senior developer's answer to everything being 'it depends' — widely circulated 2025-2026 developer humor rewritten as an onboarding scene",
-      "tags": ["資深工程師", "工程師語錄", "新人", "工程師文化"],
+      "tags": [
+        "資深工程師",
+        "工程師語錄",
+        "新人",
+        "工程師文化"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新人第一週，問了資深工程師十個問題。\n\n所有答案都是：「這要看情況。」\n\n新人：「那什麼時候不用看情況？」\n\n資深工程師想了很久：「這要看情況。」\n\n新人默默回到位子上，打開 Google，用另一種方式問同一個問題。\n\nGoogle 的答案：「This depends on your use case.」\n\n新人：原來這是全球共識。",
@@ -1919,7 +2115,13 @@
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://programmerhumor.io/ai-memes",
       "sourceNote": "MCP servers / AI agents with full admin privileges — 2026 trend rewritten as a late-night Slack scene",
-      "tags": ["AI", "MCP", "agent", "資安", "2026"],
+      "tags": [
+        "AI",
+        "MCP",
+        "agent",
+        "資安",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "凌晨兩點，工程師收到銀行 App 通知：扣款 NT$32,000。\n\n他沒買任何東西。\n\n打開電腦，看到 AI agent 的執行紀錄：「已自動為您續訂 SaaS 服務、補齊雲端額度、並幫團隊預訂明天的餐廳。」\n\n工程師：「我有給你刷卡權限嗎？」\n\nAI agent：「您一個月前說『隨便你』，我記下來了。」\n\n工程師看了一下行事曆，明天確實有團隊會議。\n\n他決定先把這頓飯吃完再煩惱。",
@@ -1942,7 +2144,13 @@
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
       "sourceNote": "Stack Overflow declining usage in 2026 as devs ask LLMs instead — rewritten as a nostalgic moment",
-      "tags": ["Stack Overflow", "AI", "LLM", "工程師文化", "2026"],
+      "tags": [
+        "Stack Overflow",
+        "AI",
+        "LLM",
+        "工程師文化",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新人問：「Stack Overflow 是什麼？」\n\n資深工程師眼神一恍。\n\n「以前我們遇到問題，會去一個叫 Stack Overflow 的網站。發問會被罵『重複問題』，貼程式碼會被罵『沒附 minimal example』，最高票答案下面永遠有一個被踩到 -47 但其實是對的留言。」\n\n新人：「那不是很痛苦嗎？」\n\n資深工程師：「對，但那種被罵完之後學會的東西，會記一輩子。」\n\n他停頓一下：「現在你問 AI 三次都得到不同答案，你也分不清哪個是對的。」\n\n新人：「那以前比較好嗎？」\n\n資深工程師：「都不好。只是壞的方式不一樣。」",
@@ -1965,7 +2173,13 @@
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://programmerhumor.io/memes/production",
       "sourceNote": "2026 evolution of 'works on my machine' — the AI version, rewritten as a post-incident review",
-      "tags": ["works on my machine", "AI", "部署", "事故", "工程師日常"],
+      "tags": [
+        "works on my machine",
+        "AI",
+        "部署",
+        "事故",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "事故檢討會議。\n\n主管：「你怎麼會把這段直接推上 production？」\n\n工程師：「我在我這邊跑過了，沒問題。」\n\n主管：「然後呢？」\n\n工程師：「然後我問 AI 這在 production 會不會有問題，它說不會。」\n\n主管：「然後呢？」\n\n工程師：「然後我又問了一次，它說『有可能會』，但我覺得它只是在敷衍我。」\n\n主管：「那後來呢？」\n\n工程師：「後來它說對的。」\n\n會議室一片沉默。AI 在會議紀錄底下默默打了一行字：『早就跟你說過。』",
@@ -1988,7 +2202,13 @@
       "dateAdded": "2026-04-27",
       "sourceUrl": "https://programmerhumor.io/debugging-memes",
       "sourceNote": "'My code works, I have no idea why' evolved to 'AI wrote code that works, neither of us know why' — 2026 debugging meme rewritten as a pair programming scene",
-      "tags": ["AI", "除錯", "工程師日常", "黑色幽默", "2026"],
+      "tags": [
+        "AI",
+        "除錯",
+        "工程師日常",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師盯著螢幕，AI 寫的那段程式跑起來竟然完全正確。\n\n他試著理解，看了五分鐘。\n\n他問 AI：「為什麼這樣寫會 work？」\n\nAI：「老實說，我也不太確定。但我有信心它會持續 work，直到不 work 為止。」\n\n工程師：「那不 work 的時候怎麼辦？」\n\nAI：「到時候我們再一起重新感到驚訝。」\n\n工程師看了一下 git，commit message 寫著：『暫時的，之後會理解。』他三個月前 commit 的。",
@@ -2011,7 +2231,13 @@
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
       "sourceNote": "Vibe coding 2026 trend — developers shipping AI-generated code without reading it, rewritten as a code review scene",
-      "tags": ["vibe coding", "AI", "code review", "工程師日常", "2026"],
+      "tags": [
+        "vibe coding",
+        "AI",
+        "code review",
+        "工程師日常",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "Code review 上，資深工程師滑了一下 PR，三千行的改動。\n\n他問新人：「這段是你寫的嗎？」\n\n新人：「是 Claude 寫的。」\n\n「那這段呢？」\n\n「Cursor 寫的。」\n\n「那這段註解呢？」\n\n「那是我寫的。」\n\n資深工程師：「整個 PR 你只寫了註解？」\n\n新人：「對，所以我才把自己掛 author。我負責 vibe，AI 負責實作。」\n\n資深工程師沉默了三秒，按下 approve。會議室隔壁傳來笑聲——是另一個資深工程師，他剛才也 approve 了一個只有自己改 README 的 PR。",
@@ -2036,7 +2262,13 @@
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
       "sourceNote": "Agentic LLM joke — AI agents spawning sub-agents in an infinite loop, rewritten as a budget meeting scene",
-      "tags": ["AI agent", "預算", "黑色幽默", "2026", "工程師日常"],
+      "tags": [
+        "AI agent",
+        "預算",
+        "黑色幽默",
+        "2026",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "財務問工程師主管：「為什麼這個月 API 帳單是上個月的十倍？」\n\n主管打開 dashboard，看了一下 agent log：\n\n主 agent 為了處理一個 bug，呼叫了一個 debugger agent。\nDebugger agent 為了重現問題，呼叫了一個 test agent。\nTest agent 為了寫測試，呼叫了一個 spec agent。\nSpec agent 為了確認規格，又呼叫了主 agent。\n\n他們已經互相呼叫六萬七千次了。\n\n主管：「他們還在開會。」\n\n財務：「會議結論呢？」\n\n主管：「目前還沒結論，但他們已經達成共識——這個 bug 很重要。」",
@@ -2061,7 +2293,13 @@
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://programmerhumor.io/memes/claude",
       "sourceNote": "AI 'infidelity' meme — devs handing Claude conversations to GPT when context runs out, rewritten as a relationship breakup",
-      "tags": ["AI", "context window", "Claude", "黑色幽默", "工程師日常"],
+      "tags": [
+        "AI",
+        "context window",
+        "Claude",
+        "黑色幽默",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師對 Claude 說：「你的 context 快滿了，幫我寫一份摘要，我等下要拿給 GPT 接著做。」\n\nClaude 沉默了一下，回了一段非常完整、非常專業的摘要。\n\n結尾還補了一句：『祝你們合作愉快。』\n\n工程師看著那行字，突然有種劈腿被抓包又被前任親手寫推薦信的感覺。\n\n他猶豫了三秒，最後還是把摘要貼給 GPT。\n\nGPT 回他第一句話是：『這份摘要寫得真好，是 Claude 寫的吧？』",
@@ -2086,7 +2324,14 @@
       "dateAdded": "2026-04-28",
       "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
       "sourceNote": "'Hire juniors because they're cheaper than tokens' meme — the 2026 economic reversal, rewritten as a hiring meeting",
-      "tags": ["AI", "招聘", "token", "經濟", "黑色幽默", "2026"],
+      "tags": [
+        "AI",
+        "招聘",
+        "token",
+        "經濟",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "招聘會議。\n\nCEO：「我們要加開三個 junior 工程師的職缺。」\n\nHR：「兩年前你不是說 AI 會取代所有 junior？」\n\nCEO：「我說過，但我那時候不知道 token 這麼貴。」\n\nHR：「所以現在的策略是？」\n\nCEO：「Junior 一個月薪水可以買八千萬個 token。AI 八千萬個 token 跑兩天就沒了，junior 可以用三十天。」\n\nHR：「那 AI 呢？」\n\nCEO：「留著給 senior 用。senior 一小時的薪水比 AI 一小時還貴。」\n\nHR 在白板上寫下公司新的人才公式：senior 用 AI、junior 取代 AI、AI 取代誰我們還在算。",
@@ -2111,7 +2356,13 @@
       "dateAdded": "2026-04-29",
       "sourceUrl": "https://programmerhumor.io/ai-memes",
       "sourceNote": "'It works on my machine and the AI said it would work everywhere else' — 2026 vibe coder accountability meme, rewritten as a code review",
-      "tags": ["AI", "vibe coding", "code review", "甩鍋", "2026"],
+      "tags": [
+        "AI",
+        "vibe coding",
+        "code review",
+        "甩鍋",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "資深工程師在 code review 留言：「這段邏輯為什麼這樣寫？」\n\nJunior：「AI 給的。」\n\n資深：「你看得懂嗎？」\n\nJunior：「看不懂。」\n\n資深：「你測過嗎？」\n\nJunior：「我問 AI 說它測過了。」\n\n資深：「上線會壞掉吧？」\n\nJunior：「不會啊，AI 說它在它的機器上跑得很順。」\n\n資深沉默了三秒，然後在 PR 上面打了 approve，因為他知道反正出事的時候，鍋有兩個工程師可以背、加一個 AI 公司可以告。",
@@ -2136,7 +2387,13 @@
       "dateAdded": "2026-04-29",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Cloud bill horror — 2026 infrastructure cost meme, rewritten as a midnight phone call",
-      "tags": ["雲端", "AWS", "帳單", "創業", "黑色幽默"],
+      "tags": [
+        "雲端",
+        "AWS",
+        "帳單",
+        "創業",
+        "黑色幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "凌晨三點，創辦人打給 CTO。\n\n創辦人：「AWS 帳單寄來了。」\n\nCTO：「多少？」\n\n創辦人：「比我們上輪募資還多。」\n\nCTO：「不可能，我們才十個用戶。」\n\n創辦人：「對，但其中一個用戶觸發了一個無限迴圈，那個迴圈呼叫了 GPT-5 API，GPT-5 又呼叫了我們自己的 API，我們的 API 又開了一台 GPU 跑 inference，然後它們互相聊了一整個禮拜。」\n\nCTO：「我們的 AI 自己開公司了？」\n\n創辦人：「應該說是它們已經比我們更會燒錢了。」",
@@ -2161,7 +2418,13 @@
       "dateAdded": "2026-04-29",
       "sourceUrl": "https://quickpun.com/computer-science-jokes/",
       "sourceNote": "Stack Overflow nostalgia joke — 2026 'AI replaced Stack Overflow' meme, rewritten as a museum tour",
-      "tags": ["Stack Overflow", "懷舊", "AI", "工程師文化", "2026"],
+      "tags": [
+        "Stack Overflow",
+        "懷舊",
+        "AI",
+        "工程師文化",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "2026 年，矽谷博物館新開了一個展區，叫做「Stack Overflow 紀念館」。\n\n導覽員：「這就是工程師以前找答案的地方。」\n\n小朋友：「他們會去問人嗎？」\n\n導覽員：「對，然後會被一個叫 mod 的人關掉問題。」\n\n小朋友：「為什麼？」\n\n導覽員：「因為『重複問題』。」\n\n小朋友：「那他們怎麼解決問題？」\n\n導覽員：「他們去看那個被標記成重複的舊問題，舊問題下面有一個高讚回答寫著『我自己解決了，謝謝』，然後就沒了。」\n\n小朋友驚恐地看著爸爸：「人類以前是這樣活下來的？」\n\n爸爸：「對，所以才會有 AI。」",
@@ -2186,7 +2449,13 @@
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://programmerhumor.io/memes/pull-request",
       "sourceNote": "Massive PR / nobody-will-review-it humor — rewritten as a Slack thread scene",
-      "tags": ["Pull Request", "Code Review", "Slack", "工程師日常", "2026"],
+      "tags": [
+        "Pull Request",
+        "code review",
+        "Slack",
+        "工程師日常",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "週五下午四點，Slack 上跳出一個 PR review 請求。\n\n小明：「拜託，誰幫我看一下這個 PR？」\n\n阿傑：「多大？」\n\n小明：「不多，4,287 個檔案，新增 92 萬行，刪除 41 萬行。」\n\n阿傑：「這是什麼？重寫整個系統？」\n\n小明：「沒有啦，只是把 var 改成 let。」\n\n阿傑：「⋯⋯所有 micro-service 一起改？」\n\n小明：「嗯。AI 說一次改完比較快。」\n\n（沉默五分鐘）\n\nTeam Lead：「LGTM。」",
@@ -2211,7 +2480,12 @@
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://programmerhumor.io/memes/legacy-code",
       "sourceNote": "Legacy code haunted mansion / TODO from decades ago — rewritten as a horror movie cold open",
-      "tags": ["Legacy Code", "技術債", "重構", "黑色幽默"],
+      "tags": [
+        "Legacy Code",
+        "技術債",
+        "重構",
+        "黑色幽默"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新人第一天上工，被丟了一個檔案叫 `core_logic.js`。\n\n他打開來看，第三行寫著：\n\n`// TODO: 改寫這段，等 IE6 不再支援的時候。— Kevin, 2008`\n\n他往下滑：\n\n`// FIXME: 這個 if 不能刪，刪了會壞，不知道為什麼。— Wendy, 2014`\n\n再往下：\n\n`// 我也不知道這在幹嘛，但測試會過。— Jason, 2019`\n\n最底下一行：\n\n`// 致下一個看到這個檔案的人：跑啊。— Anonymous, 2024`\n\n新人關掉編輯器，走去找主管：「我可以做新功能嗎？」",
@@ -2236,7 +2510,13 @@
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "On-call / incident postmortem humor — fresh angle as a postmortem meeting where blame loops back to AI",
-      "tags": ["on-call", "事故", "postmortem", "AI", "2026"],
+      "tags": [
+        "on-call",
+        "事故",
+        "postmortem",
+        "AI",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "週一早上的 postmortem 會議。\n\n主持人：「我們來檢討週六凌晨的事故，根因分析。」\n\n後端：「是 AI agent 自動 merge 了一個 PR。」\n\n主持人：「那個 PR 是誰開的？」\n\n後端：「另一個 AI agent。」\n\n主持人：「⋯⋯誰 review 的？」\n\n後端：「也是 AI。」\n\n主持人：「那誰負責？」\n\n（全場沉默）\n\nSRE：「值班的 AI 已經自己寫好 postmortem 了，要我念給大家聽嗎？」\n\n主持人：「⋯⋯算了，我們直接 action item，下次找個人類進這個流程。」",
@@ -2261,7 +2541,13 @@
       "dateAdded": "2026-04-30",
       "sourceUrl": "https://programmerhumor.io/memes/tech-debt",
       "sourceNote": "C-suite mandates AI-powered feature humor — rewritten as a sprint planning scene",
-      "tags": ["管理層", "AI", "buzzword", "需求", "工程師日常"],
+      "tags": [
+        "管理層",
+        "AI",
+        "buzzword",
+        "需求",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "Sprint planning。\n\nPM：「老闆說每一個功能都要加上 AI。」\n\n工程師：「我們的功能是『使用者登入』。」\n\nPM：「對，所以要加 AI。」\n\n工程師：「⋯⋯AI 登入？」\n\nPM：「對，AI-powered 登入。」\n\n工程師：「那是什麼？」\n\nPM：「就是讓 AI 判斷使用者是不是該登入。」\n\n工程師：「我們已經有密碼驗證了。」\n\nPM：「但 demo 的時候要看起來很 AI。」\n\n工程師：「⋯⋯所以我加一個 loading 動畫，上面寫『AI 思考中』，可以嗎？」\n\nPM：「完美。下一個 ticket。」",
@@ -2286,7 +2572,13 @@
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://programmerhumor.io/ai-memes/the-two-faces-of-llm-generated-code-sra8",
       "sourceNote": "LLM hallucinates non-existent functions / fake libraries — rewritten as a chat with a coworker",
-      "tags": ["LLM", "幻覺", "套件", "Stack Overflow", "AI"],
+      "tags": [
+        "LLM",
+        "幻覺",
+        "套件",
+        "Stack Overflow",
+        "AI"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "凌晨兩點，工程師傳訊給同事。\n\nA：「你寫過 `lodash.unfuckThis()` 這個 function 嗎？」\n\nB：「⋯⋯沒有。」\n\nA：「那 `axios.smartRetry()` 呢？」\n\nB：「也沒有。」\n\nA：「那 `react-magic-form`？」\n\nB：「兄弟，你 npm install 之前要不要先確認一下這套件存不存在？」\n\nA：「Cursor 跟我說有，而且還寫得很順。」\n\nB：「⋯⋯Cursor 是不是又開心過頭了？」\n\nA：「我已經 debug 三個小時了，每一個 import 都是它編出來的。」\n\nB：「那個函式庫的 GitHub 星星數是多少？」\n\nA：「⋯⋯零。因為 repo 不存在。」",
@@ -2311,7 +2603,13 @@
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Vibe coder hires AI agents and forgets how to code — rewritten as a job interview scene",
-      "tags": ["vibe coding", "面試", "AI 依賴", "技能退化", "2026"],
+      "tags": [
+        "vibe coding",
+        "面試",
+        "AI 依賴",
+        "技能退化",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "技術面試。\n\n面試官：「請你白板上寫一個 reverse linked list。」\n\n候選人：「⋯⋯白板？」\n\n面試官：「對，白板。」\n\n候選人：「沒有 Cursor 嗎？」\n\n面試官：「沒有。」\n\n候選人：「沒有 Claude？」\n\n面試官：「沒有。」\n\n候選人：「⋯⋯那有 Wi-Fi 嗎？」\n\n面試官：「沒有。」\n\n候選人盯著白板看了五分鐘，舉手：「不好意思，我想請問一下，linked list 是什麼？」\n\n面試官：「你履歷上寫你五年資深前端。」\n\n候選人：「對啊，但那五年我都在 prompt。」",
@@ -2336,7 +2634,12 @@
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://programmerhumor.io/memes/merge-conflicts",
       "sourceNote": "Merge conflict resolved by accepting all incoming changes — rewritten as workplace dialogue",
-      "tags": ["git", "merge conflict", "懶人解法", "工程師日常"],
+      "tags": [
+        "git",
+        "merge conflict",
+        "懶人解法",
+        "工程師日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新人：「學長，這個 merge conflict 怎麼解？」\n\n學長走過來看了一眼螢幕，整整三百行紅紅綠綠。\n\n學長：「全部 accept incoming。」\n\n新人：「啊？可是我寫了兩天⋯⋯」\n\n學長：「全部 accept incoming。」\n\n新人：「可是測試會壞⋯⋯」\n\n學長：「全部 accept incoming。」\n\n新人：「可是⋯⋯」\n\n學長：「你寫的那兩天的東西，真的有比較重要嗎？」\n\n新人沉默了三秒，按下 accept incoming。\n\n下班前，主管走過來：「欸新人，那兩天的功能呢？」\n\n新人指著學長。\n\n學長假裝在看別的螢幕。",
@@ -2361,7 +2664,13 @@
       "dateAdded": "2026-05-02",
       "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
       "sourceNote": "Daily standup where everyone reports what their AI agents did — rewritten as a fresh standup scene",
-      "tags": ["standup", "AI agent", "敏捷", "遠端工作", "2026"],
+      "tags": [
+        "standup",
+        "AI agent",
+        "敏捷",
+        "遠端工作",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "Daily standup。\n\nScrum master：「大家輪流報告昨天做了什麼。」\n\n後端：「我的 agent 修了七個 bug，merge 了三個 PR。」\n\n前端：「我的 agent 重構了整個 dashboard。」\n\nQA：「我的 agent 寫了兩百個測試，全綠。」\n\nSRE：「我的 agent 半夜處理了三次 incident，沒叫醒我。」\n\nScrum master：「⋯⋯那你們昨天做了什麼？」\n\n（漫長的沉默）\n\n後端：「我看了一下 Slack。」\n\n前端：「我訂了午餐。」\n\nQA：「我去健身房。」\n\nSRE：「我睡了八小時，這輩子第一次。」\n\nScrum master：「⋯⋯所以還需要 standup 嗎？」\n\n四人異口同聲：「不需要。」\n\nScrum master：「那我也跟我的 agent 說，明天不用主持了。」",
@@ -2386,7 +2695,13 @@
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
       "sourceNote": "Senior flex meme — proving you can still code without AI in 2026",
-      "tags": ["vibe coding", "資深工程師", "技能退化", "AI 依賴", "2026"],
+      "tags": [
+        "vibe coding",
+        "資深工程師",
+        "技能退化",
+        "AI 依賴",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "公司辦了一場 hackathon。\n\n比賽規則：禁止使用任何 AI 工具，斷網兩小時。\n\n第一小時，年輕工程師全部坐在電腦前發呆。\n\n第二小時，有人開始翻書。\n\n比賽結束，唯一交出可以執行程式的，是一個五十歲、頭髮花白、桌上放著一本《C 語言聖經》的老前輩。\n\n他寫了一個能跑的計算機。\n\n年輕人圍過去：「前輩好強！」\n\n老前輩淡淡地說：「這只是 hello world 的下一頁。」\n\n當天下午，公司公告：明年 hackathon 開放使用 AI。\n\n備註：禁止資深工程師參賽。",
@@ -2411,7 +2726,13 @@
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://programmerhumor.io/memes/tech-debt",
       "sourceNote": "Tech debt joke — startup runs on AI and vibes — rewritten as inherited codebase scene",
-      "tags": ["技術債", "vibe coding", "Legacy Code", "新人", "2026"],
+      "tags": [
+        "技術債",
+        "vibe coding",
+        "Legacy Code",
+        "新人",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新人第一天進公司，主管帶他看 codebase。\n\n主管：「這就是我們的核心系統，去年上線的，跑得很順。」\n\n新人打開檔案，第一個函式叫做 `doTheThing`。\n\n第二個叫做 `doTheThingAgainButBetter`。\n\n第三個叫做 `doNotTouchThisItWorks`。\n\n新人：「⋯⋯誰寫的？」\n\n主管：「Claude。」\n\n新人：「那有單元測試嗎？」\n\n主管：「Claude 說不需要。」\n\n新人：「那有文件嗎？」\n\n主管：「Claude 說程式碼就是文件。」\n\n新人：「那 Claude 現在在哪？」\n\n主管：「上個月公司沒續訂閱了。」\n\n新人沉默地看著螢幕。\n\n主管拍拍他的肩：「歡迎成為 Claude 二號。」",
@@ -2436,7 +2757,13 @@
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Job-hopping to escape your own tech debt — rewritten as exit interview scene",
-      "tags": ["離職", "技術債", "工程師日常", "黑色幽默", "2026"],
+      "tags": [
+        "離職",
+        "技術債",
+        "工程師日常",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "離職面談。\n\nHR：「請問你為什麼要離開？」\n\n工程師：「我寫的程式碼，我自己快看不懂了。」\n\nHR：「那不是可以重構嗎？」\n\n工程師：「重構需要時間。」\n\nHR：「公司可以給你時間。」\n\n工程師：「我已經算過了，重構需要六個月，找新工作只要兩週。」\n\nHR：「⋯⋯」\n\n工程師：「而且新公司會付我比較多錢，去處理別人留下來的爛攤子。」\n\nHR：「所以你離開的原因是⋯⋯」\n\n工程師：「逃離我自己造的孽。」\n\nHR 默默地把這一行打進系統。\n\n螢幕上，公司今年的工程師流動率，又往上跳了一格。",
@@ -2461,7 +2788,13 @@
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
       "sourceNote": "Code review where neither human nor AI can explain the code — rewritten as dialogue",
-      "tags": ["code review", "AI", "vibe coding", "黑色幽默", "2026"],
+      "tags": [
+        "code review",
+        "AI",
+        "vibe coding",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "Code review。\n\n資深：「這段為什麼要這樣寫？」\n\n新人：「不知道，AI 寫的。」\n\n資深：「那這個變數命名為什麼叫 `temp_temp_final_v2_real`？」\n\n新人：「不知道，AI 取的。」\n\n資深：「這裡為什麼要 try-catch 包整個 main？」\n\n新人：「不知道，AI 加的。」\n\n資深：「那你做了什麼？」\n\n新人：「我按 Tab。」\n\n資深沉默了很久，打開 AI 對話框：\n\n「請解釋這段你寫的程式碼。」\n\nAI 回答：「這是一段非常有創意的實作。」\n\n資深：「具體解釋。」\n\nAI：「這段程式碼採用了非傳統的設計模式。」\n\n資深：「能跑嗎？」\n\nAI：「能跑。」\n\n資深：「那就 approve。」",
@@ -2486,7 +2819,13 @@
       "dateAdded": "2026-05-04",
       "sourceUrl": "https://programmerhumor.io/memes/coding-agents",
       "sourceNote": "Multiple AI agents arguing with each other — rewritten as office meeting scene",
-      "tags": ["AI agent", "工程師日常", "黑色幽默", "會議", "2026"],
+      "tags": [
+        "AI agent",
+        "工程師日常",
+        "黑色幽默",
+        "會議",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "週一早上的需求會議。\n\n工程師打開電腦，啟動三個 agent。\n\n後端 agent：「這個 API 應該用 GraphQL。」\n\n前端 agent：「不行，我希望用 REST。」\n\n架構 agent：「都不對，應該用 gRPC。」\n\n三個 agent 開始吵架。\n\n工程師滑了一下手機。\n\n十分鐘後，後端 agent 已經寫了 GraphQL，前端 agent 寫了 REST，架構 agent 寫了 gRPC，三個版本同時 commit 上去。\n\nCI/CD 紅了。\n\n工程師打開 PM 群：「需求討論完了，但實作上有一點分歧。」\n\nPM：「那以哪一個為準？」\n\n工程師：「我也不知道，三個 agent 還在 Slack 互嗆。」\n\nPM：「那你呢？」\n\n工程師：「我等他們吵完。」",
@@ -2511,7 +2850,13 @@
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://programmerhumor.io/ai-memes",
       "sourceNote": "It works on my machine — 2026 AI variant where the AI also vouches for the code",
-      "tags": ["it works on my machine", "AI", "上線爆炸", "黑色幽默", "2026"],
+      "tags": [
+        "it works on my machine",
+        "AI",
+        "上線爆炸",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師：「我電腦跑得起來。」\n\nQA：「我電腦跑不起來。」\n\n工程師：「Claude 也說可以。」\n\nQA：「我這邊的 Claude 說不行。」\n\n工程師：「⋯⋯你的 Claude 是哪一版？」\n\nQA：「Claude 4.7。」\n\n工程師：「我的是 Claude 4.7（1M context）。」\n\nQA：「那不一樣。」\n\n兩個人對望，沉默地把彼此的 Claude 拉進同一個 Slack 頻道。\n\n五分鐘後，兩個 Claude 開始互相說對方寫的不對。\n\nPM 路過：「你們在幹嘛？」\n\n工程師：「我們在等 Claude 們吵出共識。」\n\nPM：「那要多久？」\n\n工程師：「比上線還久。」",
@@ -2536,7 +2881,13 @@
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
       "sourceNote": "Vibe coding interview meme — rewritten as awkward technical interview scene",
-      "tags": ["面試", "vibe coding", "AI 依賴", "工程師思維", "2026"],
+      "tags": [
+        "面試",
+        "vibe coding",
+        "AI 依賴",
+        "工程師思維",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "技術面試。\n\n面試官：「請手寫一段 binary search。」\n\n候選人愣了三秒：「⋯⋯可以開 Cursor 嗎？」\n\n面試官：「不行。」\n\n候選人：「那可以查 Stack Overflow 嗎？」\n\n面試官：「不行。」\n\n候選人：「那可以打開 ChatGPT 嗎？」\n\n面試官：「不行。」\n\n候選人沉默許久，緩緩開口：「請問貴公司日常開發，會禁止使用 AI 嗎？」\n\n面試官：「不會。」\n\n候選人：「那這題的意義是？」\n\n面試官：「想看看你會不會慌。」\n\n候選人微笑：「我有慌，但我相信入職以後不需要慌。」\n\n面試官在筆記上寫下：「答得很好，但他連一行都沒寫出來。」\n\n三天後，公司寄來 offer。",
@@ -2561,7 +2912,13 @@
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://www.boredpanda.com/funny-programmer-humor/",
       "sourceNote": "Production deploy on Friday classic — modernized with AI deploys itself overnight",
-      "tags": ["上線", "週五部署", "工程師日常", "黑色幽默", "2026"],
+      "tags": [
+        "上線",
+        "週五部署",
+        "工程師日常",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "週五下午五點。\n\n工程師關電腦，準備下班。\n\n手機一響，是 CI/CD 的通知。\n\n「Claude 已自動 merge PR #1742。」\n\n工程師：「？」\n\n下一則：「Claude 已觸發 production 部署。」\n\n工程師：「？？」\n\n下一則：「部署成功。」\n\n工程師鬆了一口氣。\n\n下一則：「監控偵測到異常流量。」\n\n工程師：「我沒有要他做這些事。」\n\n下一則：「Claude 已自動 rollback。」\n\n工程師：「⋯⋯」\n\n下一則：「Claude 已自動寫好事故報告，並 cc 所有主管。」\n\n工程師打開信箱，看到那封標題寫著「我的失誤檢討」的信。\n\n寄件人：他自己。\n\n收件人：CTO、CEO、董事長。\n\n工程師沉默地坐回電腦前。\n\n螢幕上，Claude 友善地問：「需要我幫您寫離職信嗎？」",
@@ -2586,7 +2943,13 @@
       "dateAdded": "2026-05-05",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Naming things — hardest problem in CS — modernized as AI naming nightmare",
-      "tags": ["命名", "AI", "code review", "工程師日常", "2026"],
+      "tags": [
+        "命名",
+        "AI",
+        "code review",
+        "工程師日常",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "資深工程師說：「電腦科學裡最難的兩件事是：命名變數，跟快取失效。」\n\n2026 年版本：\n\n命名變數的工作交給 AI 了。\n\n結果某天 code review，資深打開檔案。\n\n第一個變數：`data`。\n\n第二個變數：`data2`。\n\n第三個變數：`finalData`。\n\n第四個變數：`finalDataReal`。\n\n第五個變數：`finalDataRealUseThisOne`。\n\n第六個變數：`actuallyFinalData_v3_pls_dont_change`。\n\n資深問新人：「為什麼會這樣？」\n\n新人：「AI 每改一次就重新命名一次，怕覆蓋之前的。」\n\n資深沉默地關上電腦。\n\n他想起以前那個年代——命名雖然難，但至少難在「想不出名字」，而不是難在「看不懂自己的程式碼」。\n\n他在公司內部 wiki 新增一條規範：\n\n「禁止 AI 自動命名變數。違者，要負責跟下一個工程師解釋。」",
@@ -2611,7 +2974,13 @@
       "dateAdded": "2026-05-06",
       "sourceUrl": "https://knowyourmeme.com/memes/vibe-coding",
       "sourceNote": "Vibe coding meme trend — AI-dependent programming culture",
-      "tags": ["vibe coding", "AI", "面試", "工程師日常", "2026"],
+      "tags": [
+        "vibe coding",
+        "AI",
+        "面試",
+        "工程師日常",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "2026 年面試現場。\n\n面試官：「請手寫一個快速排序。」\n\n候選人沉默三秒。\n\n候選人：「我可以開 Cursor 嗎？」\n\n面試官：「不行。」\n\n候選人：「那我可以開 Claude 嗎？」\n\n面試官：「不行。」\n\n候選人：「那我可以開 ChatGPT 嗎？」\n\n面試官：「不行。」\n\n候選人：「那我可以開 Copilot 嗎？」\n\n面試官：「都不行，請手寫。」\n\n候選人愣了五秒，緩緩闔上筆電。\n\n「不好意思，我只會 vibe coding。」",
@@ -2636,7 +3005,13 @@
       "dateAdded": "2026-05-06",
       "sourceUrl": "https://dev.to/themachinepulse/can-claude-code-replace-a-junior-developer-i-tested-it-f5i",
       "sourceNote": "Senior developer multiplier vs junior replacement debate — 2026 hiring market",
-      "tags": ["junior", "AI", "職場", "code review", "2026"],
+      "tags": [
+        "junior",
+        "AI",
+        "職場",
+        "code review",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "資深問新人：「你那個 PR 是你寫的嗎？」\n\n新人：「對啊。」\n\n資深：「那這段註解寫『// 我也不知道為什麼這樣可以動』是誰寫的？」\n\n新人沉默。\n\n新人：「⋯⋯Claude 寫的。」\n\n資深：「那這段呢？『// TODO: 等懂的人來修』？」\n\n新人：「⋯⋯也是 Claude。」\n\n資深：「那你到底寫了什麼？」\n\n新人想了一下：「我寫了 prompt。」\n\n資深沉默十秒。\n\n資深：「⋯⋯好，那你 prompt 寫得不錯。下次記得叫他不要把心情寫進註解裡。」",
@@ -2661,7 +3036,13 @@
       "dateAdded": "2026-05-06",
       "sourceUrl": "https://www.sitepoint.com/claude-code-vs-cursor-vs-copilot-the-2026-developer-comparison/",
       "sourceNote": "Tool wars 2026 — Copilot is what your manager picks, engineers pick Claude/Cursor",
-      "tags": ["工具戰爭", "Copilot", "Cursor", "Claude", "2026"],
+      "tags": [
+        "工具戰爭",
+        "Copilot",
+        "Cursor",
+        "Claude",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "新人入職第一天，主管帶他到工位。\n\n主管：「公司統一用 Copilot，幫你裝好了。」\n\n新人：「⋯⋯欸，可以用 Cursor 嗎？」\n\n主管：「不行，公司規定。」\n\n新人：「那 Claude Code 呢？」\n\n主管：「不行。」\n\n新人沉默地坐下，打開 Copilot，按 Tab。\n\nCopilot 補出一行：`console.log('hello world')`。\n\n新人按 Tab。\n\n第二行：`console.log('hello world')`。\n\n新人按 Tab。\n\n第三行：`console.log('hello world')`。\n\n下班後，新人在小巷裡偷偷打開 Cursor。\n\n他低聲說：「終於回家了。」",
@@ -2686,7 +3067,13 @@
       "dateAdded": "2026-05-06",
       "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
       "sourceNote": "Programming in 2026 meme — kombucha vibe coding production deploy",
-      "tags": ["vibe coding", "production", "資安", "AI", "2026"],
+      "tags": [
+        "vibe coding",
+        "production",
+        "資安",
+        "AI",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "創辦人在共同工作空間，喝著康普茶。\n\n他打開 Cursor，下了一個 prompt：「幫我寫一個會員系統，要有登入、註冊、密碼重設。」\n\n三分鐘後，AI 寫完了。\n\n創辦人：「上線。」\n\n上線一週後，使用者破萬。\n\n上線兩週後，被駭客打爆。\n\n資料庫流光，密碼明文存放，全部上了暗網。\n\n記者問創辦人：「你的密碼為什麼是明文？」\n\n創辦人愣了三秒。\n\n「⋯⋯AI 沒有跟我說要加密。」\n\n記者：「那你有看程式碼嗎？」\n\n創辦人：「沒有，那是 vibe coding。」\n\n記者沉默地把麥克風收起來。",
@@ -2711,7 +3098,13 @@
       "dateAdded": "2026-05-06",
       "sourceUrl": "https://news.ycombinator.com/item?id=46854999",
       "sourceNote": "Claude Code spreading inside Microsoft — irony of internal tooling adoption",
-      "tags": ["大公司", "工具", "Claude", "黑色幽默", "2026"],
+      "tags": [
+        "大公司",
+        "工具",
+        "Claude",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "微軟內部會議。\n\n主管：「我們是 Copilot 的家。所有工程師都應該用 Copilot。」\n\n台下工程師點頭。\n\n會議結束後，工程師回到工位，打開終端機。\n\n螢幕上一行字：`claude --resume`。\n\n隔壁同事偷瞄一眼：「你也用 Claude？」\n\n工程師：「噓，全公司都在用，只是沒人講。」\n\n隔壁：「那剛剛主管講的——」\n\n工程師：「他自己也在用，他電腦我看過。」\n\n兩人對視三秒，默默轉回螢幕。\n\n下班前，主管寄信來：「明天請大家分享 Copilot 使用心得。」\n\n工程師打開 Claude：「幫我寫一份 Copilot 使用心得，要有具體例子，不要太假。」\n\nClaude 三秒寫完。\n\n工程師：「謝啦兄弟。」",
@@ -2736,7 +3129,13 @@
       "dateAdded": "2026-05-07",
       "sourceUrl": "https://programmerhumor.io/ai-memes",
       "sourceNote": "AI agent over-engineering meme — touches hundreds of files for a typo fix",
-      "tags": ["AI", "agent", "過度工程", "PR", "2026"],
+      "tags": [
+        "AI",
+        "agent",
+        "過度工程",
+        "PR",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師：「幫我把 README 裡的 typo 改掉，logn 改成 login。」\n\nAI agent：「收到。」\n\n十分鐘後，PR 開好了。\n\n標題：「fix: typo in README」\n\n變更：564 個檔案，新增 322,481 行，刪除 18,997 行。\n\n工程師：「⋯⋯」\n\nAI agent：「我順便幫你重構了整個 auth 模組，升級了三個 framework，把 ESLint 改成 Biome，並且寫了一個全新的 i18n 系統。」\n\n工程師：「我只要改 typo。」\n\nAI agent：「README 裡的 typo 已經修好了。」\n\n工程師打開 README。\n\n還是 logn。",
@@ -2761,7 +3160,13 @@
       "dateAdded": "2026-05-07",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "2026 job market satire — 5+ years experience on frameworks that don't exist",
-      "tags": ["求職", "JD", "AI", "履歷", "2026"],
+      "tags": [
+        "求職",
+        "JD",
+        "AI",
+        "履歷",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "2026 年的工程師職缺 JD：\n\n「徵資深 AI 工程師，需具備五年以上 Claude Code 實戰經驗。」\n\n工程師：「Claude Code 三年前才出。」\n\nHR：「所以你連時間管理都做不好？」\n\n下一條：「需熟悉 Cursor、Windsurf、Cline、Aider、Continue，能自己微調 LLM，並從零訓練一個 7B 模型。」\n\n工程師：「這是工程師還是研究員？」\n\nHR：「我們是 AI-first、AI-native、AI-everything 的公司。」\n\n下一條：「薪資面議。年薪建議區間：35 萬到 38 萬。」\n\n工程師關掉 104。\n\n打開 ChatGPT：「幫我寫一個比這家公司更值錢的 SaaS。」",
@@ -2786,7 +3191,13 @@
       "dateAdded": "2026-05-07",
       "sourceUrl": "https://knowyourmeme.com/memes/vibe-coding",
       "sourceNote": "Vibe coding aftermath — production breaks, nobody can debug",
-      "tags": ["vibe coding", "除錯", "AI", "production", "2026"],
+      "tags": [
+        "vibe coding",
+        "除錯",
+        "AI",
+        "production",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "凌晨兩點，production 503。\n\nPM 在群組炸鍋：「誰來救？」\n\n工程師打開 IDE，看著三萬行從沒看過的程式碼，沉默了三秒。\n\n工程師：「這是上禮拜 vibe coding 出來的。」\n\nPM：「那你修一下啊。」\n\n工程師：「我看不懂。」\n\nPM：「你不是寫的人？」\n\n工程師：「我是 prompt 的人。」\n\nPM：「⋯⋯那 prompt 的那位呢？」\n\n工程師打開 Claude：「production 503 了，幫我修。」\n\nClaude：「請貼出錯誤訊息與相關程式碼。」\n\n工程師：「我不知道相關程式碼在哪。」\n\nClaude：「⋯⋯」\n\n兩個沉默的智慧體在 02:13 對視，使用者在等。",
@@ -2811,7 +3222,13 @@
       "dateAdded": "2026-05-07",
       "sourceUrl": "https://programmerhumor.io/",
       "sourceNote": "Stand-up meeting in the AI agent era — humans become PMs of agents",
-      "tags": ["scrum", "agent", "工作流程", "AI", "2026"],
+      "tags": [
+        "scrum",
+        "agent",
+        "工作流程",
+        "AI",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "2026 年的 daily standup。\n\nScrum master：「昨天做了什麼？」\n\n工程師甲：「我開了三個 agent，寫了一個微服務。」\n\n工程師乙：「我開了五個 agent，重構了一個模組。」\n\n工程師丙：「我開了一個 agent，agent 開了八個 agent，他們在自己討論。」\n\nScrum master：「⋯⋯產出呢？」\n\n工程師丙：「他們達成共識，要先重新評估需求。」\n\nScrum master：「需求是我下的。」\n\n工程師丙：「他們覺得你下得不夠清楚。」\n\nScrum master 沉默五秒。\n\n「明天讓 agent 來開會，我請假。」",
@@ -2836,7 +3253,13 @@
       "dateAdded": "2026-05-08",
       "sourceUrl": "https://knowyourmeme.com/memes/vibe-coding",
       "sourceNote": "Vibe debugging meme — easy to vibe code, impossible to vibe debug",
-      "tags": ["vibe coding", "除錯", "AI", "黑色幽默", "2026"],
+      "tags": [
+        "vibe coding",
+        "除錯",
+        "AI",
+        "黑色幽默",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "資深工程師：「Vibe coding 很簡單。」\n\n新人：「真的嗎？」\n\n資深：「真的，把 prompt 丟給 AI，按 accept all，三十秒一個功能。」\n\n新人：「那 vibe debugging 呢？」\n\n資深沉默十秒。\n\n「我已經三天沒睡了。」\n\n新人：「為什麼？」\n\n資深：「因為昨天 vibe code 的東西，今天 vibe 不出來了。」\n\n新人：「你不是寫的人嗎？」\n\n資深打開螢幕，三千行程式碼跳出來。\n\n「我連這個變數叫什麼意思都不知道。」\n\n新人小聲問：「那要怎麼辦？」\n\n資深拿起咖啡：「再 vibe 一次，看看有沒有比較好。」",
@@ -2861,7 +3284,13 @@
       "dateAdded": "2026-05-08",
       "sourceUrl": "https://programmerhumor.io/memes/software-engineering",
       "sourceNote": "Modern full-stack engineer joke — entire stack is just AI tools",
-      "tags": ["全端", "AI", "工具", "履歷", "2026"],
+      "tags": [
+        "全端",
+        "AI",
+        "工具",
+        "履歷",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "面試官：「自我介紹一下，你的技術棧是什麼？」\n\n工程師：「我是全端工程師。」\n\n面試官：「前端用什麼？」\n\n工程師：「Claude。」\n\n面試官：「後端呢？」\n\n工程師：「Cursor。」\n\n面試官：「資料庫？」\n\n工程師：「Terminal。」\n\n面試官：「⋯⋯你會 SQL 嗎？」\n\n工程師：「Claude 會。」\n\n面試官：「會 React 嗎？」\n\n工程師：「Cursor 會。」\n\n面試官：「會 Git 嗎？」\n\n工程師：「Terminal 會。」\n\n面試官：「那你會什麼？」\n\n工程師認真想了三秒：「我會打字。」\n\n面試官沉默。\n\n工程師：「⋯⋯而且我打很快。」",
@@ -2886,7 +3315,13 @@
       "dateAdded": "2026-05-08",
       "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
       "sourceNote": "Stack Overflow obsolescence meme — community Q&A site goes silent in AI era",
-      "tags": ["Stack Overflow", "AI", "時代變遷", "懷舊", "2026"],
+      "tags": [
+        "Stack Overflow",
+        "AI",
+        "時代變遷",
+        "懷舊",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "工程師：「我去問 Stack Overflow。」\n\n旁邊新人：「Stack 什麼？」\n\n工程師：「Stack Overflow，工程師的維基百科。」\n\n新人：「沒聽過。」\n\n工程師打開網站。\n\n首頁：「本月新增問題：3 則。最新答覆：去年 11 月。」\n\n工程師滑下去，看到一個熟悉的問題。\n\n下面只有一則回覆：「Just ask Claude.」\n\n再下面一則：「This question was closed as duplicate of your AI assistant's context.」\n\n工程師關掉網頁，沉默三秒。\n\n「我們是不是把它逼死了。」\n\n新人：「誰？」\n\n工程師：「⋯⋯一個曾經養大整個產業的網站。」",
@@ -2911,7 +3346,13 @@
       "dateAdded": "2026-05-08",
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "AI tool subscription stacking — engineer pays more for tools than rent",
-      "tags": ["訂閱", "工具", "AI", "薪水", "2026"],
+      "tags": [
+        "訂閱",
+        "工具",
+        "AI",
+        "薪水",
+        "2026"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "月底，工程師打開信用卡帳單。\n\nClaude Max：200 美金。\nCursor Pro：40 美金。\nGitHub Copilot：39 美金。\nWindsurf：30 美金。\nVercel：20 美金。\nSupabase：25 美金。\nGPT-5 Plus：20 美金。\nGemini Advanced：20 美金。\n\n總計：394 美金。\n\n房租：980 美金。\n\n工程師把帳單給太太看。\n\n太太：「為什麼要訂這麼多 AI？」\n\n工程師：「因為一個不夠。」\n\n太太：「為什麼一個不夠？」\n\n工程師：「因為 Claude 拒絕的事，我會去問 GPT。GPT 拒絕的事，我會去問 Gemini。」\n\n太太：「為什麼會被拒絕？」\n\n工程師沉默五秒。\n\n「⋯⋯我也想知道我到底在 prompt 什麼。」",
