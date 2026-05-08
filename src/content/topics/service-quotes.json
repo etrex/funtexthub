@@ -724,6 +724,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-032",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/229408783",
+      "sourceNote": "Reframes Dcard 心情板 「服務業憑什麼要人家一直體諒你？」 thread; flips the rhetorical question back as a mirror — original framing of customer self-question",
+      "tags": ["服務業", "心聲", "金句", "尊嚴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人問：「你們服務業憑什麼要我體諒？」\n我說：「沒有要您體諒，\n只是想拜託您，\n把對待您家人的那一成基本禮貌，\n借給我用八小時就好。」",
+          "editorNote": "適合貼在門口的客人須知旁邊。我們不是要被同情，只是希望客人把家裡的禮貌帶一點點到店裡。",
+          "variations": [
+            "服務業沒有要您憐憫，只是希望您講話的時候，記得對面也是人。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Why should I have to be considerate to service workers?\"\nMe: \"We're not asking for sympathy.\nWe're asking you to lend us\nten percent of the manners you use at home —\njust for the eight hours of our shift.\"",
+          "editorNote": "Pin this near the customer notice at the door. We aren't asking to be pitied — just for a little of the politeness people use at home to come into the store.",
+          "variations": [
+            "Service workers aren't begging for pity. We're asking you to remember the person across the counter is also human."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-033",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.modernhealth.com/post/addressing-mental-health-risks-across-the-retail-workforce",
+      "sourceNote": "Reframes Modern Health 2026 retail-workforce mental-health stat (67% burnout); original 「三個同事就有兩個在燒」 wildfire-metaphor framing is the rewrite anchor",
+      "tags": ["服務業", "burnout", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "報告說：每三個服務業同事，就有兩個在燒。\n我們不是在工作，是在輪流當柴火。\n燒完的人離職，沒燒完的人補位，\n公司管這叫——人力資源週轉率。",
+          "editorNote": "傳給最近想離職、又怕被說『抗壓性低』的同行。你不是抗壓性低，你是燒到下一根了。",
+          "variations": [
+            "服務業沒有人力短缺，只有不夠快補進來的下一根柴火。"
+          ]
+        },
+        "en": {
+          "content": "The report says: two out of three service workers are burning out.\nWe're not working. We're taking turns as kindling.\nThe ones who burn through quit. The unburnt ones cover.\nThe company calls this — workforce turnover.",
+          "editorNote": "Send this to anyone considering quitting who's afraid they'll be called \"low resilience.\" It isn't low resilience. The previous log already burned through.",
+          "variations": [
+            "Service work doesn't have a labor shortage. It has a problem refilling the next log fast enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-034",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/256714869",
+      "sourceNote": "Original — extends the Dcard 「客人總是認為自己是對的」 thread with a fresh courtroom-verdict framing; the 「客人是法官也是被告」 dual-role image is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在客訴的法庭上，\n客人是原告、是法官，順便也是陪審團。\n我們是被告，沒有律師，\n判決書還要自己念出來——\n「不好意思，是我的疏忽。」",
+          "editorNote": "傳給今天剛在客訴信上簽完名、自己唸自己罪狀的同事。這場審判沒有上訴庭，只有下一個客人。",
+          "variations": [
+            "服務業的客訴流程，是客人寫劇本，員工演自己被罰錢的那一段。"
+          ]
+        },
+        "en": {
+          "content": "In the courtroom of customer complaints,\nthe customer is plaintiff, judge, and jury.\nWe're the defendant. No lawyer.\nWe also have to read the verdict ourselves —\n\"I'm sorry, that was my oversight.\"",
+          "editorNote": "Send this to the coworker who just signed off on a complaint letter today, reading their own charges aloud. There's no appeals court — just the next customer.",
+          "variations": [
+            "Customer-complaint procedure: the customer writes the script, the employee performs the part where they get fined."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-035",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://retailtechinnovationhub.com/home/2024/5/1/retail-burnout-what-it-is-and-how-to-avoid-it-for-your-employees",
+      "sourceNote": "Reframes the Retail Tech Innovation Hub 排班-不穩 burnout angle; original 「排班是抽籤、休假是奢侈品」 lottery-metaphor framing is the rewrite",
+      "tags": ["服務業", "排班", "工時", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業的人生規劃：\n排班表出來才知道下個月能不能去婚禮，\n休假是抽籤抽到的，\n生病要看公司今天缺不缺人。\n別人在計畫人生，我們在等公告。",
+          "editorNote": "傳給每個月十五號緊盯班表、等著看自己人生能不能繼續的同行。我們的時間不是自己的，是公司還沒派出去的那部分。",
+          "variations": [
+            "別人有行事曆，服務業有班表——一個是規劃，一個是判決。"
+          ]
+        },
+        "en": {
+          "content": "Service-industry life planning:\nthe schedule drops, then I know if I can attend the wedding next month.\nDays off come by lottery.\nSick leave depends on whether the store is short-staffed today.\nOthers plan their lives. We wait for the schedule.",
+          "editorNote": "Send to anyone refreshing the schedule app on the 15th every month, waiting to see if their life can continue. Our time isn't ours — it's the part the company hasn't assigned yet.",
+          "variations": [
+            "Other people have calendars. Service workers have schedules — one is a plan, the other is a verdict."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-036",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.dcard.tw/f/talk/p/251141698",
+      "sourceNote": "Reframes the Dcard 「現在服務業態度是不是越來越差」 thread; original 「態度差不是退化，是電池沒換」 battery-not-replaced framing is the rewrite anchor",
+      "tags": ["服務業", "金句", "心聲", "情緒勞動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人說：「現在服務業態度怎麼越來越差？」\n不是態度差，是電池沒換。\n您看到的不耐煩，\n是公司省下的人力、薪水、休假，\n累積在員工臉上的利息。",
+          "editorNote": "傳給每個被嫌「服務態度不好」、其實只是已經連上十二天班的同事。態度不是個性，是被壓榨後剩下的形狀。",
+          "variations": [
+            "服務態度差，不是員工變壞，是公司沒幫員工換電池。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Why is service so much worse these days?\"\nIt's not bad service. The battery hasn't been changed.\nThe impatience you see\nis the headcount, the wages, the days off the company saved —\ncompounding as interest on the employee's face.",
+          "editorNote": "Send to anyone accused of \"bad attitude\" who's actually just on day 12 of a 12-day stretch. Attitude isn't personality — it's the shape left behind after the squeeze.",
+          "variations": [
+            "Service isn't getting worse. The company just isn't replacing the batteries."
+          ]
+        }
+      }
     }
   ]
 }

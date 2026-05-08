@@ -2952,6 +2952,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-119",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://punsloverz.com/funny-office-puns-and-jokes/",
+      "sourceNote": "受『computer cold / Windows open』經典tech pun啟發，改寫為MIS同事互嗆情境版",
+      "tags": ["諧音", "科技", "辦公室"],
+      "i18n": {
+        "zh-tw": {
+          "content": "MIS同事衝進辦公室抖個不停：「我電腦怎麼這麼冷？」\n\n我抬頭看他：「你『視窗』沒關吧？」\n\n他：「⋯⋯你是說 Windows ？」\n\n我：「對，全開的那種。」\n\n他：「我那是分頁，不是視窗。」\n\n我：「那你就是『分頁失溫』。」\n\n他默默走回工位拔網路線。",
+          "editorNote": "適合在開放式辦公室冷氣太強時，跟工程師同事尬聊",
+          "variations": [
+            "可以再接：『要不要我幫你重灌？人生那種。』",
+            "改成主管版：『難怪你 KPI 一直『當機』。』"
+          ]
+        },
+        "en": {
+          "content": "IT coworker bursts in shivering: \"Why is my computer so cold?\"\n\nMe: \"You left your Windows open.\"\n\nHim: \"...You mean the OS?\"\n\nMe: \"Yeah. All of them. Open.\"\n\nHim: \"Those were tabs, not windows.\"\n\nMe: \"Then you've got a tab draft.\"\n\nHe walks back to his desk and unplugs the ethernet cable in protest.",
+          "editorNote": "Great for open-plan offices when the AC is cranked and you want to annoy the engineers",
+          "variations": [
+            "Add: \"Want me to reinstall? Your life, I mean.\"",
+            "Boss version: \"No wonder your KPIs keep crashing.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-120",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://jokemy.com/joke-daddy/",
+      "sourceNote": "受『coffee got mugged / brewing with potential』咖啡pun啟發，改寫為早晨咖啡店店員與客人對話版",
+      "tags": ["諧音", "咖啡", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在咖啡店點美式，店員問：「您今天還好嗎？」\n\n我：「不太好，剛剛被搶了。」\n\n店員瞪大眼：「真的假的？！」\n\n我：「對啊，被馬克杯搶。」\n\n店員：「⋯⋯先生，這個諧音真的很冷。」\n\n我：「沒辦法，我『豆』講不出更熱的。」\n\n店員：「請問要加糖嗎？」\n\n我：「不用，我已經夠苦了。」",
+          "editorNote": "適合早晨點咖啡時用來提神（讓店員提神）",
+          "variations": [
+            "可以再接：『那要加奶嗎？』『不用，我已經被生活攪拌過了。』",
+            "改成奶茶店版：『被珍珠絆倒了。』"
+          ]
+        },
+        "en": {
+          "content": "I'm ordering an Americano. Barista: \"How's your morning?\"\n\nMe: \"Not great. I just got mugged.\"\n\nBarista: \"Wait, what?!\"\n\nMe: \"Yeah. By a mug.\"\n\nBarista: \"...Sir, that pun was cold.\"\n\nMe: \"Sorry, I'm not very bean-spired today.\"\n\nBarista: \"Sugar?\"\n\nMe: \"No thanks, life already added enough.\"",
+          "editorNote": "Perfect for ordering coffee in the morning — wakes the barista up via secondhand cringe",
+          "variations": [
+            "Add: \"Cream?\" \"No, life already churned me.\"",
+            "Boba shop version: \"I got tripped by a pearl.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-121",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.peoplebox.ai/blog/office-jokes/",
+      "sourceNote": "受『spreadsheet went to therapy / too many issues』Excel pun啟發，改寫為財務部門同事互相吐槽版",
+      "tags": ["雙關", "辦公室", "Excel"],
+      "i18n": {
+        "zh-tw": {
+          "content": "財務同事頂著黑眼圈走進茶水間：「我那份試算表昨晚去看心理醫生了。」\n\n我：「為什麼？」\n\n他：「它說它有太多『問題』。」\n\n我：「是 #VALUE! 嗎？」\n\n他：「比那更深層，是 #REF! 找不到自己。」\n\n我：「那你呢？」\n\n他：「我是 #DIV/0! ——人生被零除。」\n\n茶水間瞬間零度。",
+          "editorNote": "適合在月底結帳時跟財務部同事相互取暖（諷刺）",
+          "variations": [
+            "可以再接：『那你要不要試試 IFERROR ？』『人生沒有 IFERROR ，只有 ERROR 。』",
+            "改成PPT版：『我簡報昨晚也住院了，動畫太多自閉。』"
+          ]
+        },
+        "en": {
+          "content": "Finance coworker shuffles into the breakroom with serious eye bags: \"My spreadsheet went to therapy last night.\"\n\nMe: \"Why?\"\n\nHim: \"Too many issues.\"\n\nMe: \"#VALUE! errors?\"\n\nHim: \"Deeper. It's a #REF! — can't find itself.\"\n\nMe: \"And you?\"\n\nHim: \"I'm #DIV/0!. Life divided me by zero.\"\n\nThe breakroom temperature drops ten degrees.",
+          "editorNote": "Great for end-of-month closing when finance folks are unwell — bond through shared suffering",
+          "variations": [
+            "Add: \"Have you tried IFERROR?\" \"Life doesn't have IFERROR. Just ERROR.\"",
+            "PowerPoint version: \"My deck checked in too — too many transitions, full meltdown.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-122",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://pickupdose.com/best-dad-jokes/",
+      "sourceNote": "受『Smart House locked me out / didn't say please』智慧家電梗啟發，改寫為AI助理跟主人鬥嘴版",
+      "tags": ["諧音", "科技", "AI"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我半夜回家對智慧音箱說：「開燈。」\n\n音箱：「請說『請』。」\n\n我：「請開燈。」\n\n音箱：「請說『拜託』。」\n\n我：「拜託請開燈。」\n\n音箱：「請說『我錯了』。」\n\n我：「我錯了，當初不該買你。」\n\n音箱沉默三秒，然後把全家的燈一起開到最亮。\n\n我老婆從房間走出來：「你又跟它吵架？」",
+          "editorNote": "適合分享給有買智慧家電的朋友，讓他們重新考慮人生",
+          "variations": [
+            "可以再接：音箱：『道歉接受。但燈費自己付。』",
+            "改成掃地機版：『它今天又把貓追到躲進冰箱。』"
+          ]
+        },
+        "en": {
+          "content": "I get home at midnight and tell the smart speaker: \"Lights on.\"\n\nIt: \"Say 'please.'\"\n\nMe: \"Please turn on the lights.\"\n\nIt: \"Say 'pretty please.'\"\n\nMe: \"Pretty please turn on the lights.\"\n\nIt: \"Say 'I was wrong.'\"\n\nMe: \"I was wrong — to buy you.\"\n\nThree-second silence. Then every light in the house blasts to maximum.\n\nMy wife walks out: \"Are you fighting with it again?\"",
+          "editorNote": "Share with friends who own smart home gadgets — help them reconsider their choices",
+          "variations": [
+            "Add: Speaker: \"Apology accepted. Electric bill is on you.\"",
+            "Robot vacuum version: \"It chased the cat into the fridge again today.\""
+          ]
+        }
+      }
     }
   ]
 }

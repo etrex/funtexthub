@@ -2830,6 +2830,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-115",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://knowyourmeme.com/memes/vibe-coding",
+      "sourceNote": "Vibe debugging meme — easy to vibe code, impossible to vibe debug",
+      "tags": ["vibe coding", "除錯", "AI", "黑色幽默", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師：「Vibe coding 很簡單。」\n\n新人：「真的嗎？」\n\n資深：「真的，把 prompt 丟給 AI，按 accept all，三十秒一個功能。」\n\n新人：「那 vibe debugging 呢？」\n\n資深沉默十秒。\n\n「我已經三天沒睡了。」\n\n新人：「為什麼？」\n\n資深：「因為昨天 vibe code 的東西，今天 vibe 不出來了。」\n\n新人：「你不是寫的人嗎？」\n\n資深打開螢幕，三千行程式碼跳出來。\n\n「我連這個變數叫什麼意思都不知道。」\n\n新人小聲問：「那要怎麼辦？」\n\n資深拿起咖啡：「再 vibe 一次，看看有沒有比較好。」",
+          "editorNote": "傳給每個 vibe code 寫得很爽、debug 哭著回來的工程師，以及每個三天沒睡的 oncall",
+          "variations": [
+            "Vibe coding 三秒，vibe debugging 三天。",
+            "AI 寫程式像點外送，bug 出現像吃壞肚子，誰寫的誰負責。"
+          ]
+        },
+        "en": {
+          "content": "Senior engineer: \"Vibe coding is easy.\"\n\nJunior: \"Really?\"\n\nSenior: \"Yeah. Throw a prompt at the AI, hit accept all, ship a feature in thirty seconds.\"\n\nJunior: \"What about vibe debugging?\"\n\nSenior goes silent for ten seconds.\n\n\"I haven't slept in three days.\"\n\nJunior: \"Why?\"\n\nSenior: \"Yesterday I vibe coded it. Today I can't vibe my way out of it.\"\n\nJunior: \"But you wrote it.\"\n\nSenior opens the screen. Three thousand lines of code stare back.\n\n\"I don't even know what this variable is supposed to mean.\"\n\nJunior whispers: \"So what do we do?\"\n\nSenior picks up coffee: \"Vibe it again. See if it gets better.\"",
+          "editorNote": "Send to every engineer who vibe coded happily and crawled back to debug, and every oncall on day three of no sleep",
+          "variations": [
+            "Vibe coding takes three seconds. Vibe debugging takes three days.",
+            "AI writes code like ordering takeout. Bugs hit like food poisoning. Whoever ordered owns it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-116",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://programmerhumor.io/memes/software-engineering",
+      "sourceNote": "Modern full-stack engineer joke — entire stack is just AI tools",
+      "tags": ["全端", "AI", "工具", "履歷", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「自我介紹一下，你的技術棧是什麼？」\n\n工程師：「我是全端工程師。」\n\n面試官：「前端用什麼？」\n\n工程師：「Claude。」\n\n面試官：「後端呢？」\n\n工程師：「Cursor。」\n\n面試官：「資料庫？」\n\n工程師：「Terminal。」\n\n面試官：「⋯⋯你會 SQL 嗎？」\n\n工程師：「Claude 會。」\n\n面試官：「會 React 嗎？」\n\n工程師：「Cursor 會。」\n\n面試官：「會 Git 嗎？」\n\n工程師：「Terminal 會。」\n\n面試官：「那你會什麼？」\n\n工程師認真想了三秒：「我會打字。」\n\n面試官沉默。\n\n工程師：「⋯⋯而且我打很快。」",
+          "editorNote": "傳給每個被 AI 工具養壞的工程師，以及每個面試問到核心技能就尷尬的人",
+          "variations": [
+            "2026 全端工程師的真正技能：知道哪個 AI 適合哪個任務。",
+            "履歷上寫『精通 Claude 與 Cursor』，等於以前寫『精通 Word 與 Excel』。"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"Walk me through your stack.\"\n\nEngineer: \"I'm full-stack.\"\n\nInterviewer: \"Frontend?\"\n\nEngineer: \"Claude.\"\n\nInterviewer: \"Backend?\"\n\nEngineer: \"Cursor.\"\n\nInterviewer: \"Database?\"\n\nEngineer: \"Terminal.\"\n\nInterviewer: \"...Do you know SQL?\"\n\nEngineer: \"Claude does.\"\n\nInterviewer: \"React?\"\n\nEngineer: \"Cursor does.\"\n\nInterviewer: \"Git?\"\n\nEngineer: \"Terminal does.\"\n\nInterviewer: \"What do you do?\"\n\nEngineer thinks for three seconds: \"I type.\"\n\nInterviewer is silent.\n\nEngineer: \"...And I type fast.\"",
+          "editorNote": "Send to every engineer spoiled by AI tools, and anyone who freezes when interview hits actual fundamentals",
+          "variations": [
+            "Real 2026 full-stack skill: knowing which AI to use for which task.",
+            "'Proficient in Claude and Cursor' on a resume reads like 'Proficient in Word and Excel' did ten years ago."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-117",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Stack Overflow obsolescence meme — community Q&A site goes silent in AI era",
+      "tags": ["Stack Overflow", "AI", "時代變遷", "懷舊", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師：「我去問 Stack Overflow。」\n\n旁邊新人：「Stack 什麼？」\n\n工程師：「Stack Overflow，工程師的維基百科。」\n\n新人：「沒聽過。」\n\n工程師打開網站。\n\n首頁：「本月新增問題：3 則。最新答覆：去年 11 月。」\n\n工程師滑下去，看到一個熟悉的問題。\n\n下面只有一則回覆：「Just ask Claude.」\n\n再下面一則：「This question was closed as duplicate of your AI assistant's context.」\n\n工程師關掉網頁，沉默三秒。\n\n「我們是不是把它逼死了。」\n\n新人：「誰？」\n\n工程師：「⋯⋯一個曾經養大整個產業的網站。」",
+          "editorNote": "傳給每個還記得 Stack Overflow 養活自己職涯的工程師，以及每個被 AI 取代查資料習慣的人",
+          "variations": [
+            "Stack Overflow 在 2026 不是死了，是沒人記得它還活著。",
+            "從前工程師的禱詞：拜託有人問過。現在的禱詞：拜託 Claude 知道。"
+          ]
+        },
+        "en": {
+          "content": "Engineer: \"I'll check Stack Overflow.\"\n\nJunior next to them: \"Stack what?\"\n\nEngineer: \"Stack Overflow. The Wikipedia of programmers.\"\n\nJunior: \"Never heard of it.\"\n\nEngineer opens the site.\n\nHomepage: \"New questions this month: 3. Latest answer: November last year.\"\n\nEngineer scrolls down, sees a familiar question.\n\nOnly one reply underneath: \"Just ask Claude.\"\n\nReply below that: \"Closed as duplicate of your AI assistant's context.\"\n\nEngineer closes the tab. Goes silent for three seconds.\n\n\"Did we kill it?\"\n\nJunior: \"Kill what?\"\n\nEngineer: \"...A website that used to raise an entire industry.\"",
+          "editorNote": "Send to every engineer whose career was raised by Stack Overflow, and anyone whose lookup habits got replaced by AI",
+          "variations": [
+            "Stack Overflow in 2026 isn't dead. It's just that nobody remembers it's still online.",
+            "Old prayer: please let someone have asked this. New prayer: please let Claude know this."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-118",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "AI tool subscription stacking — engineer pays more for tools than rent",
+      "tags": ["訂閱", "工具", "AI", "薪水", "2026"],
+      "i18n": {
+        "zh-tw": {
+          "content": "月底，工程師打開信用卡帳單。\n\nClaude Max：200 美金。\nCursor Pro：40 美金。\nGitHub Copilot：39 美金。\nWindsurf：30 美金。\nVercel：20 美金。\nSupabase：25 美金。\nGPT-5 Plus：20 美金。\nGemini Advanced：20 美金。\n\n總計：394 美金。\n\n房租：980 美金。\n\n工程師把帳單給太太看。\n\n太太：「為什麼要訂這麼多 AI？」\n\n工程師：「因為一個不夠。」\n\n太太：「為什麼一個不夠？」\n\n工程師：「因為 Claude 拒絕的事，我會去問 GPT。GPT 拒絕的事，我會去問 Gemini。」\n\n太太：「為什麼會被拒絕？」\n\n工程師沉默五秒。\n\n「⋯⋯我也想知道我到底在 prompt 什麼。」",
+          "editorNote": "傳給每個 AI 訂閱比房租還貴的工程師，以及每個信用卡帳單看到自己也驚訝的人",
+          "variations": [
+            "2026 工程師的開銷排行榜：第一名 AI 訂閱，第二名咖啡，第三名才是房租。",
+            "AI 訂閱費的真相：你不是在買工具，你是在買第二個自己。"
+          ]
+        },
+        "en": {
+          "content": "End of month. Engineer opens the credit card statement.\n\nClaude Max: $200.\nCursor Pro: $40.\nGitHub Copilot: $39.\nWindsurf: $30.\nVercel: $20.\nSupabase: $25.\nGPT-5 Plus: $20.\nGemini Advanced: $20.\n\nTotal: $394.\n\nRent: $980.\n\nEngineer shows the statement to their partner.\n\nPartner: \"Why so many AI subscriptions?\"\n\nEngineer: \"One isn't enough.\"\n\nPartner: \"Why isn't one enough?\"\n\nEngineer: \"When Claude refuses, I ask GPT. When GPT refuses, I ask Gemini.\"\n\nPartner: \"Why would they refuse?\"\n\nEngineer is silent for five seconds.\n\n\"...I'd also like to know what I keep prompting.\"",
+          "editorNote": "Send to every engineer whose AI bill rivals rent, and anyone shocked by their own credit card statement",
+          "variations": [
+            "2026 engineer expense ranking: AI subscriptions first, coffee second, rent comes third.",
+            "Truth about AI subscriptions: you're not buying tools. You're buying a second version of yourself."
+          ]
+        }
+      }
     }
   ]
 }

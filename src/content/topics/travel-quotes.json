@@ -311,6 +311,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-014",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://www.flick.social/captions/jet-lag-captions-for-instagram",
+      "sourceNote": "jet lag IG caption register，重新改寫",
+      "tags": ["時差", "搞笑", "飛機", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "時差不是病，\n是你的身體還愛著前一個城市，\n捨不得跟你回來。",
+          "editorNote": "適合回國第一天頂著黑眼圈上班的 IG 限動、Threads 自嘲，或回國後第三天還在凌晨四點清醒滑手機的 caption——把時差講得很浪漫",
+          "variations": [
+            "我不是時差，我是身體比靈魂晚三天到家。"
+          ]
+        },
+        "en": {
+          "content": "Jet lag isn't an illness.\nIt's your body still in love with the last city,\nrefusing to come home with you.",
+          "editorNote": "Captions for the post-trip haze — works on the under-eye-circles selfie, the 4 AM scroll, or the first-day-back-at-work zombie photo",
+          "variations": [
+            "I don't have jet lag. My body is just three days behind my soul, and we're both fine with it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-015",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://punshifter.com/travel-jokes-one-liners/",
+      "sourceNote": "Google Maps / 迷路 register，原創",
+      "tags": ["迷路", "搞笑", "Google Maps", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我沒有迷路，\n我只是讓 Google Maps 帶我認識\n它私心想推薦的小巷。",
+          "editorNote": "適合在巷弄迷路時拍的廢照搭配的 caption，或事後跟朋友解釋為什麼遲到一小時的金句——把焦慮變成風格",
+          "variations": [
+            "迷路不是錯誤，是 Google Maps 的隱藏行程。"
+          ]
+        },
+        "en": {
+          "content": "I'm not lost.\nI'm just letting Google Maps show me\nthe alleys it personally recommends.",
+          "editorNote": "Captions for the inevitable wrong-turn photos — reframes getting lost as a feature, not a bug. Pairs with cobblestone streets, dead-end alleys, or that one time you walked 40 minutes the wrong way",
+          "variations": [
+            "Getting lost isn't a mistake. It's the unsponsored part of the trip."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-016",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://hostelgeeks.com/26-funny-travel-quotes-laugh/",
+      "sourceNote": "out of office / vacation register，原創改寫",
+      "tags": ["休假", "辦公室", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的自動回覆寫著「休假中」，\n但其實我是在練習一個更難的技能：\n不打開公司信箱。",
+          "editorNote": "辦公室人最有共鳴的休假廢文——適合年假出國的 IG caption、Threads 短發、跟同事炫耀休假的 LINE 訊息",
+          "variations": [
+            "我不是在度假，我是在訓練自己對未讀訊息冷感。"
+          ]
+        },
+        "en": {
+          "content": "My out-of-office reply says I'm on vacation,\nbut what I'm really doing\nis practicing the much harder skill\nof not opening Slack.",
+          "editorNote": "For the burned-out office traveler — captures the real challenge of vacation in 2026. Works on resort photos, beach selfies, or any 'I swear I'm relaxing' moment",
+          "variations": [
+            "Vacation is just learning, slowly, painfully, that the world keeps spinning without your reply-all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-017",
+      "dateAdded": "2026-05-08",
+      "sourceUrl": "https://getlost.blog/funny-quotes-about-travel/",
+      "sourceNote": "回家 / homecoming register，原創",
+      "tags": ["回家", "旅行", "短句", "溫馨"],
+      "i18n": {
+        "zh-tw": {
+          "content": "旅行最棒的部分是出發，\n第二棒的部分是抵達，\n但最被低估的，\n是打開家門那一刻\n聞到的那股熟悉的味道。",
+          "editorNote": "適合旅行回國後第一篇 IG 文、Threads 短發、年末回顧——把「回家」 寫得比目的地還動人",
+          "variations": [
+            "走過那麼多地方，最後發現家裡的味道才是這趟旅行最捨不得忘的東西。"
+          ]
+        },
+        "en": {
+          "content": "The best part of travel is leaving.\nThe second best is arriving.\nThe most underrated part\nis opening your front door\nand smelling your own life again.",
+          "editorNote": "For the post-trip homecoming post — captures the quiet joy of returning that nobody puts on a moodboard. Works on 'unpacking' photos, first-coffee-back-home shots, or year-end travel reflections",
+          "variations": [
+            "After everywhere, the best smell in the world turned out to be the inside of my own apartment."
+          ]
+        }
+      }
     }
   ]
 }
