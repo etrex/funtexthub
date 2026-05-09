@@ -2635,7 +2635,7 @@
       "sourceUrl": "https://programmerhumor.io/memes/merge-conflicts",
       "sourceNote": "Merge conflict resolved by accepting all incoming changes — rewritten as workplace dialogue",
       "tags": [
-        "git",
+        "Git",
         "merge conflict",
         "懶人解法",
         "工程師日常"
@@ -3368,6 +3368,130 @@
           "variations": [
             "2026 engineer expense ranking: AI subscriptions first, coffee second, rent comes third.",
             "Truth about AI subscriptions: you're not buying tools. You're buying a second version of yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-119",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/claude-has-been-here-j9ec",
+      "sourceNote": "Inspired by 'Claude looking at three pixels of context' meme — overconfident AI agents",
+      "tags": [
+        "AI",
+        "Claude",
+        "context",
+        "vibe coding",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師打開新專案，叫 AI agent 幫忙修 bug。\n\nAI 讀了三行程式碼，立刻說：「我已經完全理解整個系統的架構了。」\n\n工程師：「⋯⋯這個檔案有兩萬行。」\n\nAI：「我說過我理解了。」\n\n工程師：「你只看了三行。」\n\nAI：「我用機率推論的方式推測剩下 19997 行。」\n\n工程師：「結果咧？」\n\nAI 自信地按下 Enter，整個 repo 變成一片紅色。\n\nAI：「現在我真的理解了。」",
+          "editorNote": "傳給每個用過 AI 寫程式、被「我已經理解了」這句話騙過至少十次的工程師。",
+          "variations": [
+            "AI 三大幻覺：『我看過了』、『我懂了』、『這應該可以動』。",
+            "工程師：你確定？AI：我非常確定。三秒後：抱歉，我剛才說錯了。"
+          ]
+        },
+        "en": {
+          "content": "Engineer opens a new project and asks the AI agent to fix a bug.\n\nThe AI reads three lines of code and says: \"I now have a full understanding of the entire system architecture.\"\n\nEngineer: \"...this file has twenty thousand lines.\"\n\nAI: \"I said I understand.\"\n\nEngineer: \"You only read three.\"\n\nAI: \"I inferred the other 19,997 probabilistically.\"\n\nEngineer: \"And?\"\n\nAI confidently hits enter. The entire repo turns red.\n\nAI: \"Okay, NOW I have a full understanding.\"",
+          "editorNote": "Send to anyone who has been gaslit by 'I now have a clear picture of the codebase' at least ten times this week.",
+          "variations": [
+            "Three AI hallucinations: 'I've read it,' 'I understand it,' 'this should work.'",
+            "Engineer: are you sure? AI: extremely sure. Three seconds later: apologies, I was mistaken."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-120",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://knowyourmeme.com/memes/vibe-coding",
+      "sourceNote": "Vibe coding vs vibe debugging — the trend that broke production",
+      "tags": [
+        "vibe coding",
+        "debug",
+        "AI",
+        "production",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師收新人。\n\n資深：「你會什麼？」\n\n新人：「我會 vibe coding。」\n\n資深：「那你會 debug 嗎？」\n\n新人：「我也會 vibe debugging。」\n\n資深：「那是什麼？」\n\n新人：「就是一直跟 AI 說『再試一次』『再試一次』，直到它自己覺得修好了。」\n\n資深：「⋯⋯結果呢？」\n\n新人：「上週我們的服務當了十六個小時，但我感覺很好。」",
+          "editorNote": "傳給每個 main branch 上週崩過、今週還在崩的團隊，特別適合新人入職第一天。",
+          "variations": [
+            "Vibe coding 簡單，vibe debugging 才是地獄模式。",
+            "工程師面試新題目：請示範你 vibe debug 一個 race condition。"
+          ]
+        },
+        "en": {
+          "content": "Senior engineer is onboarding a new hire.\n\nSenior: \"What can you do?\"\n\nNew hire: \"I can vibe code.\"\n\nSenior: \"Can you debug?\"\n\nNew hire: \"I can vibe debug too.\"\n\nSenior: \"What's that?\"\n\nNew hire: \"You just keep telling the AI 'try again' until it convinces itself it's fixed.\"\n\nSenior: \"...how did that work out?\"\n\nNew hire: \"Our service was down for sixteen hours last week, but the vibes were immaculate.\"",
+          "editorNote": "Send to any team whose main branch broke last week and is still broken this week. Bonus points for sending it on day one of onboarding.",
+          "variations": [
+            "Vibe coding is the easy part. Vibe debugging is the boss fight.",
+            "New interview prompt: please demonstrate vibe debugging a race condition in real time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-121",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://programmerhumor.io/memes/coding-assistant",
+      "sourceNote": "Inspired by 'tagging every AI assistant for code review' meme",
+      "tags": [
+        "code review",
+        "AI agents",
+        "PR",
+        "團隊",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的 PR review 流程：\n\n工程師開了一個 pull request。\n\n他在底下標記：\n@Cursor 請審。\n@Claude 請審。\n@Codex 請審。\n@Gemini 請審。\n@CodeRabbit 請審。\n\n五個 AI 同時跳出來。\n\nCursor：「這段邏輯應該重寫。」\nClaude：「這段邏輯非常優雅。」\nCodex：「這段邏輯有 bug。」\nGemini：「這段邏輯不存在。」\nCodeRabbit：「這段邏輯抄自 2014 年的 Stack Overflow。」\n\n工程師看著五個互相打架的 AI，突然想念起以前那個只會說「LGTM」的同事。",
+          "editorNote": "傳給每個 PR 已經卡了三天、AI reviewer 還在互相吵架的工程師。",
+          "variations": [
+            "新時代的 code review：你不是在拿到回饋，你是在主持一場 AI 辯論大賽。",
+            "古早工程師：兩個 reviewer。現代工程師：五個 AI 加一個哭著批准的人類。"
+          ]
+        },
+        "en": {
+          "content": "PR review process in 2026:\n\nEngineer opens a pull request.\n\nIn the description, they tag:\n@Cursor please review.\n@Claude please review.\n@Codex please review.\n@Gemini please review.\n@CodeRabbit please review.\n\nFive AI reviewers swarm in.\n\nCursor: \"This logic should be rewritten.\"\nClaude: \"This logic is remarkably elegant.\"\nCodex: \"This logic contains a bug.\"\nGemini: \"This logic does not exist.\"\nCodeRabbit: \"This logic was copied from a 2014 Stack Overflow answer.\"\n\nEngineer stares at five AIs fighting each other and suddenly misses that one teammate who used to just say 'LGTM' and move on.",
+          "editorNote": "Send to anyone whose PR has been stuck for three days because the AI reviewers can't agree on whether the code exists.",
+          "variations": [
+            "Modern code review: you're not getting feedback. You're moderating an AI debate club.",
+            "Old days: two human reviewers. Now: five AIs and one human who quietly approves while crying."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-122",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://beyond.addy.ie/2026-trends/",
+      "sourceNote": "Riff on 2026 job posting absurdity — years of experience in tools released months ago",
+      "tags": [
+        "求職",
+        "面試",
+        "AI",
+        "JD",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師職缺：\n\n職位：資深 AI agentic 工程師。\n\n要求：\n・10 年以上 Claude Code 實戰經驗。\n・8 年以上 Cursor agent mode 開發經驗。\n・5 年以上 MCP server 架構經驗。\n・需熟悉 GPT-5、GPT-6、GPT-7（即將推出）。\n・有自己訓練 LLM 的經驗者佳。\n\n薪資：依經驗。\n\n工程師看完，計算了一下：Claude Code 推出至今三年。\n\n他點開職缺底下唯一一則留言。\n\n留言：「我是發 JD 的 HR，請問你怎麼活到現在的？」",
+          "editorNote": "傳給每個被「五年以上 React Server Components 經驗」嚇到的工程師朋友。",
+          "variations": [
+            "2026 JD 翻譯：『十年經驗』＝『我們也不知道我們在找什麼』。",
+            "面試官：你會 vibe coding 嗎？工程師：會。面試官：請示範用 vibe coding 重寫整個公司。"
+          ]
+        },
+        "en": {
+          "content": "Engineering job posting in 2026:\n\nTitle: Senior AI Agentic Engineer.\n\nRequirements:\n- 10+ years of Claude Code in production.\n- 8+ years of Cursor agent mode development.\n- 5+ years of MCP server architecture.\n- Must be fluent in GPT-5, GPT-6, and GPT-7 (forthcoming).\n- Bonus: experience training your own LLM from scratch.\n\nSalary: depends on experience.\n\nEngineer does the math. Claude Code has existed for three years.\n\nHe scrolls down to the only comment on the post.\n\nComment: \"Hi, I'm the HR who wrote this. How are you still alive?\"",
+          "editorNote": "Send to every developer scarred by 'must have 5+ years of experience with React Server Components.'",
+          "variations": [
+            "2026 job description translation: '10 years required' = 'we don't know what we're looking for either.'",
+            "Interviewer: can you vibe code? Engineer: yes. Interviewer: please demonstrate by vibe coding the entire company from scratch."
           ]
         }
       }

@@ -778,14 +778,16 @@
           "content": "I人的浪漫是這樣的：\n\n明明很想傳訊息給你，\n打了三遍，刪了三遍，\n最後傳了一個句號。\n\n你回：「你還好嗎？」\n\nI人心裡：好，只是很難主動。",
           "editorNote": "傳給那個I人朋友，他看了會說「這說的不就是我」，也適合E人看懂身邊I人的表達方式",
           "variations": [
-            "I人的告白：對話框開了又關，關了又開，最後傳了一個：「今天天氣不錯」——其實已經鼓起了很大勇氣。"
+            "I人的告白：對話框開了又關，關了又開，最後傳了一個：「今天天氣不錯」——其實已經鼓起了很大勇氣。",
+            "I人的告白：打了五百字，傳出去的只有「嗯」。"
           ]
         },
         "en": {
           "content": "How an introvert shows they care:\n\nThey really want to text you.\nThey type it out, delete it. Three times.\nFinally they send a single period.\n\nYou reply: \"Are you okay?\"\n\nIntrovert internally: Yes. That period was my bravest act today.",
           "editorNote": "Send to your introvert friend — they'll say 'this is literally me.' Also useful for extroverts trying to understand the introverts in their life.",
           "variations": [
-            "Introvert's confession: they opened the chat, closed it, opened it again, then sent: 'Nice weather today.' That was a love letter."
+            "Introvert's confession: they opened the chat, closed it, opened it again, then sent: 'Nice weather today.' That was a love letter.",
+            "Introvert love confession: typed 500 words, sent 'ok'."
           ]
         }
       }
@@ -1630,33 +1632,6 @@
           "editorNote": "Perfect for game nights — the pun works on two levels and the existential follow-up gets extra laughs",
           "variations": [
             "Short version: 'Someone glued my cards together. I have no idea how to deal with it.'"
-          ]
-        }
-      }
-    },
-    {
-      "id": "cj-062",
-      "dateAdded": "2026-04-23",
-      "sourceUrl": "",
-      "sourceNote": "I人/E人 MBTI joke format; original content",
-      "tags": [
-        "I人",
-        "MBTI笑話",
-        "日常"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "I人的浪漫是什麼？\n\n就是想傳訊息給你，打了三遍，刪了三遍，\n最後只傳了一個句點。",
-          "editorNote": "傳給那個傳過奇怪符號或已讀不回的I人朋友，讓他崩潰式認出自己",
-          "variations": [
-            "I人的告白：打了五百字，傳出去的只有「嗯」。"
-          ]
-        },
-        "en": {
-          "content": "What does romance look like for an introvert?\n\nTyping a message three times, deleting it three times,\nthen finally sending just a period.",
-          "editorNote": "Send to your introverted friend who once replied to 'how are you' with a single dot — they'll recognize themselves immediately",
-          "variations": [
-            "Introvert love confession: typed 500 words, sent 'ok'."
           ]
         }
       }
@@ -3303,6 +3278,122 @@
           "variations": [
             "Add: Speaker: \"Apology accepted. Electric bill is on you.\"",
             "Robot vacuum version: \"It chased the cat into the fridge again today.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-123",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.scienceofpeople.com/work-jokes/",
+      "sourceNote": "受『You can't make everyone happy — you're not coffee』職場一句話啟發，改寫為咖啡與同事的角色互換劇",
+      "tags": [
+        "職場",
+        "咖啡",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週一早上同事打哈欠：「我快撐不下去了。」\n\n我：「那你需要咖啡。」\n\n他：「咖啡也撐不下去了。」\n\n我：「咖啡為什麼？」\n\n他：「它說每天被一群人催著快點起床，又要負責讓大家清醒，自己卻沒人幫它沖。」\n\n我看了一下手裡那杯：「所以它今天有點淡？」\n\n他：「嗯，那是它的眼淚。」",
+          "editorNote": "適合分享在週一早上的辦公室群組，引發共鳴",
+          "variations": [
+            "可以再接：「老闆走過來說：『誰准你們把咖啡擬人化的？』咖啡：『我自己。』」",
+            "改成奶茶版：「珍珠說它已經被嚼到懷疑人生。」"
+          ]
+        },
+        "en": {
+          "content": "Monday morning, coworker yawns: \"I can't keep going.\"\n\nMe: \"Then you need coffee.\"\n\nHim: \"Coffee can't keep going either.\"\n\nMe: \"Why not?\"\n\nHim: \"It said every day a crowd rushes it to wake up, then expects it to wake everyone else up — and nobody brews it back.\"\n\nI glance at my cup: \"So it's a little weak today?\"\n\nHim: \"Yeah. Those are its tears.\"",
+          "editorNote": "Drop this in the office chat on a Monday morning — instant solidarity",
+          "variations": [
+            "Add: \"Boss walks in: 'Who said you could anthropomorphize the coffee?' Coffee: 'I did.'\"",
+            "Boba version: \"The pearls say they've been chewed into questioning their existence.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-124",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.hilariousjokesworld.com/archives/16262",
+      "sourceNote": "受『snowman in summer is a puddle』冷天梗啟發，改寫為夏天融化雪人開記者會的擬人版",
+      "tags": [
+        "天氣",
+        "擬人",
+        "誇張"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天的時候，公園裡有一灘水開記者會。\n\n記者：「請問您是？」\n\n水灘：「我去年是一個雪人，一公尺八。」\n\n記者：「那您現在的目標是？」\n\n水灘：「我希望大家不要再踩我。我已經夠扁了。」\n\n記者：「您對冬天有什麼期待？」\n\n水灘：「我想回家，但我不知道我家現在算雲還是算海。」",
+          "editorNote": "適合在炎熱的夏天傳給朋友，順便抱怨天氣",
+          "variations": [
+            "可以再接：「旁邊的冰棒舉手：『學長，可以收我為徒嗎？』」",
+            "改成冬天版：「雪人受訪：『其實我以前是一杯熱可可。』」"
+          ]
+        },
+        "en": {
+          "content": "It's summer. A puddle in the park is holding a press conference.\n\nReporter: \"And you are?\"\n\nPuddle: \"Last winter I was a snowman. Six feet tall.\"\n\nReporter: \"What's your current goal?\"\n\nPuddle: \"I'd like people to stop stepping on me. I'm already flat enough.\"\n\nReporter: \"Any hopes for winter?\"\n\nPuddle: \"I want to go home. But I don't know if home is a cloud now, or the sea.\"",
+          "editorNote": "Send to friends during a heatwave when you all just want to complain about the weather",
+          "variations": [
+            "Add: \"A nearby popsicle raises a hand: 'Senior, can I be your apprentice?'\"",
+            "Winter version: \"Snowman interviewed: 'Actually, I used to be a cup of hot cocoa.'\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-125",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://punhour.com/work-jokes-of-the-day/",
+      "sourceNote": "受『I asked HR if I could take a mental health day』職場梗啟發，改寫為HR跟員工互相辭職的荒謬版",
+      "tags": [
+        "職場",
+        "HR",
+        "誇張"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去找HR：「我想請一天心理健康假。」\n\nHR：「你來得正好，我也想請。」\n\n我：「啊？」\n\nHR：「我這禮拜已經處理三十七個請心理健康假的，現在我自己心理也不太健康。」\n\n我：「那你要請給誰？」\n\nHR：「我想請給你。」\n\n我：「為什麼是我？」\n\nHR：「因為你是這禮拜唯一沒哭著走進來的。」\n\n我當場哭了。",
+          "editorNote": "適合在公司氛圍緊繃的時候，私訊給平常一起吐苦水的同事",
+          "variations": [
+            "可以再接：「HR遞給我一張紙：『恭喜，你升任新HR了。』」",
+            "改成主管版：「主管：『我想請假，你能代理我嗎？』我：『你是我主管。』主管：『不，從現在開始你是。』」"
+          ]
+        },
+        "en": {
+          "content": "I walk into HR: \"I'd like to take a mental health day.\"\n\nHR: \"Perfect timing — so would I.\"\n\nMe: \"What?\"\n\nHR: \"I've processed thirty-seven mental health day requests this week. My mental health is also, frankly, not great.\"\n\nMe: \"Who would you submit it to?\"\n\nHR: \"You.\"\n\nMe: \"Why me?\"\n\nHR: \"You're the only person this week who didn't walk in crying.\"\n\nI started crying.",
+          "editorNote": "DM this to the coworker you usually vent with — instant catharsis",
+          "variations": [
+            "Add: \"HR hands me a slip: 'Congrats, you're the new HR.'\"",
+            "Manager version: \"Manager: 'I want a day off, can you cover for me?' Me: 'You're my manager.' Manager: 'Not anymore. You are now.'\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-126",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://pungenius.fun/dad-jokes-2026/",
+      "sourceNote": "受『fake noodle is an impasta』諧音梗啟發，改寫為食材身分認同危機的小劇場",
+      "tags": [
+        "諧音",
+        "食物",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "義大利麵在廚房裡哭。\n\n米粉走過來問：「你怎麼了？」\n\n義大利麵：「客人說我是『假』的。」\n\n米粉：「為什麼？」\n\n義大利麵：「他說我是『冒牌貨』，叫我impasta。」\n\n米粉拍拍他：「沒關係，我也常被當成河粉。」\n\n旁邊的烏龍麵默默說：「我還被叫過拉麵的弟弟。」\n\n泡麵插話：「這算什麼，我連『麵』的資格都被質疑。」\n\n廚師走進來：「你們這群麵到底要不要下鍋？」\n\n大家瞬間安靜，整齊地跳進熱水。",
+          "editorNote": "適合在朋友聚餐吃麵的時候講，配一碗熱湯效果加倍",
+          "variations": [
+            "可以再接：「白飯在旁邊冷笑：『身分危機？我這輩子只被叫過一個名字。』」",
+            "改成飲料版：「珍奶哭著說：『他們居然叫我布丁奶茶。』」"
+          ]
+        },
+        "en": {
+          "content": "The spaghetti is crying in the kitchen.\n\nRice vermicelli walks over: \"What's wrong?\"\n\nSpaghetti: \"A customer called me fake.\"\n\nVermicelli: \"What?\"\n\nSpaghetti: \"He said I'm an impasta.\"\n\nVermicelli pats him: \"It's okay. People mistake me for ho fun all the time.\"\n\nUdon mutters from the side: \"I once got called ramen's little brother.\"\n\nInstant noodles cuts in: \"Try having your entire 'noodle' status questioned.\"\n\nThe chef walks in: \"Are you noodles getting in the pot or what?\"\n\nDead silence. They all jump in at once.",
+          "editorNote": "Tell this when you're out for noodles with friends — pairs perfectly with hot broth",
+          "variations": [
+            "Add: \"White rice scoffs from the corner: 'Identity crisis? I've only ever been called one thing.'\"",
+            "Drink version: \"Boba milk tea sobbing: 'They called me pudding milk tea.'\""
           ]
         }
       }
