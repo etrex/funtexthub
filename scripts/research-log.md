@@ -2332,3 +2332,141 @@ Done items collapsed; only live priorities listed.
 17. **[FLAG — early July]** Begin 父親節 (8/8) drafting (深藍灰褐墨綠 / 領帶皮革老照片 / 7月 e-newsletter 早鳥提醒).
 18. **[OPPORTUNISTIC — T-50 to T-56, 6月底-7月初]** motivational-quotes / friendship 五月天 25年 #5525 「為什麼一直在開演唱會 / 你願意來看看就知道了」 1 item cross-pollinate (NEW 5/8 surfacing).
 19. **[OPPORTUNISTIC]** witty-comebacks 「我吃一點」 derivative; persistent backlog only when files next touched.
+
+## 2026-05-09 Research Report
+
+### Day-of Timing Snapshot (today 5/9, Saturday, 母親節 T-1)
+
+- **adulting-quotes (66 items live)**: **5/8 deadline 已過**. 進入 organic 觀察期. 5月70% adulting traffic 集中在 報稅季 5/1-5/31, 失 spot-check 之 cost-of-delay 已不可逆; carry「初級/高級大人 / 報稅季 / 2016 vs 2026」三 register 至 2027 backlog (5/30+ 最後一波 報稅 day-of 反差 opportunistic).
+- **mom-quotes (70 items) / sweet-quotes (105 items)**: **T-1 母親節, day-of 觀察期 day-1/3 (5/9-5/11)**. 5/6 封盤決策 hold 不打破. **5/9 NEW signal**: OPPO 母親節文案翻車 (9源 confirm) → 「飯圈梗 + 反差 玩梗」 是 母親節 register 雷區; funtexthub「感恩+真實+溫度」 strategy reinforced. 「day-of 反差」 register **default = 收 2027 backlog**.
+- **wedding-quotes (NEW 5/7 上線)**: **day-2/7 monitor**. No edits.
+- **self-love-quotes (5/6 上線)**: **day-3/7 monitor**.
+- **food-jokes**: **day-4/7 monitor**.
+- **service-quotes**: **day-5/7 monitor**.
+- **breakup-quotes**: **day-6+/7 monitor 收尾日**. 5/9 EOD 結束 monitor 期.
+- **梅雨 30-day window day-3/7 (5/7-5/14)**: 5/9 第二波鋒面 day-of confirm + 東北季風增強 + 5/10 母親節 雨勢趨緩但局部陣雨 + 後續一週 持續陰雨. workplace-quotes 「梅雨厭世」 day-3/7, 5 days left.
+- **graduation-quotes T-6 (5/15 deadline, 6 days left)**.
+- **115 國中教育會考 T-7 (5/16-17 = 教育部/各區公告日期)**: **NEW 5/9 surfacing**. 國中會考 7-day flow window 開啟 — 但 graduation-quotes 主場 高中/大學畢業 不直接覆蓋 國中會考族; exam-quotes Q3 候選 timing 重新 evaluate (見下文 #2).
+- **slang-quotes T-11 (5/20 deadline, 11 days left)**.
+- **端午節 T-41 (6/19-21)**: holiday-jokes 5/22 (T-28) 啟動 仍 valid.
+- **分科測驗 T-63 (7/11-12)**: exam-quotes 6/27-7/4 (T-2 weeks) 上線 為原 plan, **但 5/9 NEW signal 上修 → 5月底-6月初 啟動 (T-6 weeks)**, 見 #2.
+
+### CRITICAL CORRECTION to 5/8 Log
+
+**115 國中教育會考 = 5/16 (六) - 5/17 (日), NOT 5/17-18**.
+- **5/9 reverify**: 商周 3020946 + 教育部 News_Content + 鹿港國中 lkjh.chc.edu.tw + TKB甄戰 多源 5/9 一致 confirm: 115 (2026) 國中教育會考 是 5/16 (六) - 5/17 (日). 5/8 內部 推算 (5/17-18) 係 對 114 學年 (5/17-18 = 2025) 與 115 (5/16-17 = 2026) 跨年混淆.
+- **意義**: 國中會考 = T-7 today (5/9 → 5/16). graduation-quotes 5/15 deadline = 國中會考 D-1 day-before; 但 graduation-quotes 主場 高中/大學畢業典禮 (5月底-6月初), 與 國中會考 「升學 焦慮 / 心情調整」 register 不重疊. exam-quotes 候選 timing 上修 priority (見 #2 NEW 5/9).
+
+### New Topic Recommendations
+
+1. **slang-quotes 「留友看」 Threads 平台 metagame register — NEW 5/9 register expansion (NOT NEW TOPIC)**
+   - **5/9 多源**: dailyview 33000「留友看是什麼? Threads 流行語爆紅 蔡英文 3字留言掀 15 萬人按讚」 + Quickseek 公共領域 609「Threads 流量算法 確認」 多源 5/9 confirm: 「留友看」 字面「留著給朋友看」, 起源 2025/05 Threads, 累積 54,006 筆 互動聲量, **2026/01/19 達高峰**. 仍 active register, 不算退燒.
+   - **平台 metagame**: Threads 留言行為 = 高度互動 → 算法推播 至 friend feed → 「留友看」 是 主動 觸發 friend reach 的 platform-native 動詞.
+   - **意義 vs. slang-quotes 既有 register**: slang-quotes 39 items 既有 ven / 朋朋 / 接住 / I人E人 / 觸 / 卡皮巴拉 / 尊嘟假嘟 / 注意看這個男人太狠了 / 我不裝了我攤牌了 / 甘阿捏 / 要確欸 / 躁 / 破防 / 初級高級大人 等. **「留友看」 是 slang-quotes 既有 register 缺口**: 唯一 「平台 metagame 動詞」 (其他都是 情緒/狀態/句式), 是 Threads-native register, 5/20 deadline 編寫 priority register +1 列入.
+   - SEO targets: 留友看, threads 流行語, threads 用語, 留言 友看, 平台梗.
+   - **Recommendation: slang-quotes 5/20 deadline (T-11) 編寫時 priority register +1, 「留友看」 1-2 items 在地化 (e.g.「這則 留友看 / 留你的人 看 / 你不留 我幫你留 / 留友看 = 友 都看不到 因為演算法不給力」 register).** **NOT NEW TOPIC**.
+
+2. **`exam-quotes` / 考試語錄 — 5/9 timing UPGRADE: 5月底-6月初 啟動 (T-6 weeks before 7/11 分科) — PROMOTED from late June**
+   - **5/9 reverify**: TKB甄戰 + 商周 3020946 + 路宜 學院 30 + AndyLi 倒數 + 教育部 多源 5/9 confirm: **115 國中會考 = 5/16-17** (T-7 today, 7-day flow window 已開啟); **115 分科測驗 = 7/11-12** (T-63 today). 5月-7月 雙考 流量 hook surfacing.
+   - **5/8 推薦 #13 timing 「late June, T-2 weeks before 7/11 指考」 修正**: 國中會考 5/16-17 是 5月-7月 「第一波」 文教 hook; 分科 7/11-12 是 第二波. **exam-quotes 啟動 timing 從「late June」 上修 為「late May (5/29-6/1)」 = T-6 weeks before 7/11 分科**, 抓 國中會考組 (5/16) + 高三分科組 (7/11) 雙波流量 + 學測組 (1/17) Q1 backlog.
+   - **frame extension**: 既有 5/8 candidate phrasings (「我比答案紙更想交卷」/「夜讀 三千頁, 進入考場 三秒鐘」/「應屆生 vs 重考生」/「答錯也沒關係」/「考完那一刻 比放榜還像放榜」) 增 國中會考 適齡 frame: 「會考完那天 我以為自由了, 才發現後面 還有暑期銜接班」/「我背的範圍 跟 考的範圍 像兩個會考」/「會考前夜 我媽說早點睡, 我說好 然後滑了 4 小時手機」/「明明考的是國文, 為什麼最後 我懷疑的是 自己的人生」.
+   - SEO targets: 考試 焦慮, 國中會考 心情, 分科測驗 語錄, 學測 心得, 夜讀 廢文, 應屆 重考.
+   - **Recommendation: PROMOTE timing 從「late June」 上修為 **late May (5/29-6/1) 啟動, 6/1-6/3 上線, 8-12 items, 雙考流量 hook (5/16 + 7/11)**, 2026 全年 第二大 文教 流量 topic. 5/14 梅雨厭世 sub-format 完成後 next priority.
+
+3. **`pet-talk-quotes` / 寵物擬人語錄 (NEW 5/9 候選) — 暫不 priority, observe**
+   - **5/9 多源**: udn 寵物部落 9467208 「寵物 5月塔羅運勢 / 毛孩塔羅運勢 5/3-5/9」+ pethealth.com.tw 「2026最完整 狗狗/貓咪/兔子/鸚鵡 顏文字懶人包」 + ujoy.pixnet 「2026 可愛符號 顏文字大集合 (新增聖誕)」 + ShoppingDesign 「給狗狗的情書 ONE DAY」 + technews 「CES 2026 AI 寵物解夢與體脂監測」 多源 confirm: 寵物擬人化文案 + 顏文字 + 「寵物給人類的訊息」 register 持續 strong demand.
+   - **vs. 既有 cat-quotes / dog-quotes**: 既有兩 topic 是「鏟屎官 第一人稱 / 寵物視角擬人」 兩線並存. 「寵物擬人 第一人稱 給人類的話」 register (per ShoppingDesign + 嘖嘖「2026 狗狗日曆: 親愛的人類」) 已 涵蓋 70-80%. **不需 開 NEW topic**, cat-quotes / dog-quotes 7/31-8/3 寵物展 期間 organic 觀察 mourning-adjacent (per 5/7 #15) + 顏文字 sub-format 是否 surfacing 後決定.
+   - **Recommendation: NOT NEW TOPIC**. cat-quotes / dog-quotes 既有 schema 涵蓋. 若 7/31-8/3 寵物展 期間 organic 表現 strong + 「寵物給人類訊息」 distinct register surfacing, Q3 評估 expansion (NOT new topic).
+
+4. **`weight-management-quotes` / 體重管理語錄 (NEW 5/9 候選 — 低優先級, observe)**
+   - **5/9 多源**: heho sport 368754「2026 全球 10 大健身趨勢 ACSM」 confirm: 「體重管理」 排名第 3 (從「減重」 update 為「體重管理」, 反映 增肌減脂 / 增重 broader 目標); 「情緒健康運動」 排名第 6 (運動對 情緒 / 壓力恢復 / 身體意象). 「身心整合, 預防, 個人化」 是 2026 健身 整體 paradigm shift.
+   - **vs. 既有 diet-quotes**: 既有 schema 「世界上最痛苦的三角戀: 我愛食物, 脂肪愛我」 register 是 「減肥 自嘲」 主場. ACSM 2026 「體重管理」 broader frame surfacing → diet-quotes 既有 schema **register expansion** 候選 (e.g. 「我增的不是肥, 是 增肌前的緩衝期」/「健身房 是 我跟自己的 情緒 對話」 跨 「體重管理 + 情緒健康」 兩 register).
+   - **Recommendation: NOT NEW TOPIC**. diet-quotes 既有 schema 「register expansion」 opportunistic, 6月 next touch 時 +1-2 items broader「體重管理 / 增肌減脂 / 情緒健康運動」 register. 低優先級, queue.
+
+### Content Trends
+
+- **母親節 5/10 (T-1) day-of: 雨勢趨緩但局部陣雨 + 第二波梅雨鋒面 day-of confirm**: 中央氣象署預報 + udn 9482544 + ltn 5389393 多源 5/9 confirm 5/10 母親節雖雨勢趨緩但仍有局部陣雨, 後續一週持續陰雨. funtexthub 母親節 day-of 觀察期 day-1/3 (5/9-5/11) — mom-quotes / sweet-quotes 5/6 封盤決策 hold, day-of traffic peak 後 5/11 EOD 評估是否 reopen (default = 收入 2027 backlog).
+
+- **OPPO 母親節文案翻車事件 5/8 (9源 confirm) + 4大 教訓**: udn 9491854 + worldjournal 9491863 + ettoday 3163011 + qq 20260508A07KN800 + 上觀 1109099 + 央廣 527614104 + 京報 11733273 + 中新網 10617629 + 新浪財經 inhxewcz2187943 多源 confirm: OPPO 5/8 「我媽有 2 個老公」文案 = 「飯圈梗 (代指偶像) 投放 公共傳播 → 語境錯位」 + 「弱化父親家庭角色」 + 「未兼顧 中老年/非追星 群體 認知」 + 「節日感恩 主旋律 vs 小眾玩梗 sharp tension」 = 4 大爭議點. **意義 for funtexthub**: 母親節 「玩梗 register」 雷區 (尤其 「婚姻 邊緣 反差」 / 「飯圈 套用」), funtexthub「感恩+真實+溫度」 strategy reinforced, mom-quotes / sweet-quotes 「day-of 反差」 register 不開封 5/6 決策 reinforced. 「反差」 register 必須 緊扣 「家事 / 訂位 / 廚具 / 通訊軟體」 等 真實生活 hook, **絕對避免** 「婚姻 / 偶像 / 飯圈」 軸線.
+
+- **2026 母親節 全球 viral trend = AI 老照片 then vs now + cinematic 童年 portrait + 嬰兒 上色 修復**: boldsky 169957 + samaya 24 「Mothers Day Prompt 2026 AI Photo Trend」 + beauty321 67073 「AI 工具 老照片修復 上色 動感回憶影片」 + EveryMom 60+ funny captions + boldsky 100+ heartfelt 多源 5/9 confirm: 全球 AI 老照片 then vs now + 童年 portrait 是 2026 母親節 #1 viral trend, 「nostalgia + emotion + AI creativity」 三合一. **意義 for funtexthub**: graduation-quotes「成長 對照 / 童年 vs 現在 / 那些年 vs 這些年」 register 與此 trend 高度 cross-pollinate; mom-quotes (封盤) 不開封但 此 frame carry 至 2027 母親節 編寫 priority register.
+
+- **EXO 台北小巨蛋 5/9 + 5/10 雙日演唱會 PLANET #6 EXhOrizon**: livenation edp1662415 + 商周 3020974 + thenewslens 266016 + tickettw 1350 + ttv news 11503190001300W 多源 5/9 confirm: 5/9 (六) 18:00 + 5/10 (日) 16:00 雙日, 高雄場 7/18 (T-70). VIP 7290 / 公開 800-5990. **意義 for funtexthub**: 韓流 K-pop 飯圈 niche overlap 低 (funtexthub 主場 中文 一般大眾 fun text), 但 「跟媽媽一起追星」 / 「母親節 + 演唱會 day-of」 frame 與 OPPO 翻車事件 形成 對照 — 真實 「跨世代追星」 vs OPPO 偽造「飯圈 反差玩梗」 的 register 差異. mom-quotes / sweet-quotes 不直接 cross-pollinate (太具體 K-pop), 但 carry 至 2027 backlog 如果 跨世代追星 frame 持續 surfacing.
+
+- **115 國中教育會考 T-7 (5/16-17) + 分科測驗 T-63 (7/11-12) 雙考流量 hook surfacing**: TKB甄戰 + 商周 3020946 + 教育部 News_Content + 鹿港國中 + 路宜 學院 30 + AndyLi 倒數 多源 5/9 confirm. **意義**: exam-quotes Q3 候選 timing 從 「late June」 上修為 「late May (5/29-6/1)」 = T-6 weeks before 7/11 + T-2 weeks after 5/16 (5/16 國中會考 流量 不及 抓 但 7/11 分科 + Q1 學測 backlog 抓). 「應屆 vs 重考 / 夜讀 / 答錯 / 考完那一刻」 既有 5 frames + NEW 國中會考 適齡 frame 4 (「考完才發現後面還有銜接班 / 背的跟考的兩個會考 / 早點睡 vs 滑 4 小時手機 / 考國文懷疑人生」).
+
+- **「留友看」 Threads 平台 metagame register surfacing (5/9 confirm 54,006 筆 + 2026/01/19 高峰)**: dailyview 33000 + Quickseek 609 多源. 起源 2025/05 Threads, 仍 active. **意義 for funtexthub**: slang-quotes 5/20 deadline 編寫 priority register +1, 「留友看」 是 唯一 「平台 metagame 動詞」 register, 既有 39 items (情緒/狀態/句式 三軸) 之 缺口.
+
+- **梅雨第二波鋒面 day-of confirm + 後續一週持續 (5/9-5/16)**: 中央氣象署 + udn 9482544 + ltn 5389393 + cna 202504290065 + cwa.gov.tw 多源 5/9 confirm. workplace-quotes 「梅雨厭世」 day-3/7 (5/14 deadline, 5 days left), 「衣服晾不乾」/「公車鹹魚味」/「雨天加班」 frame 3-5 items priority 不變. healing-quotes「梅雨陪伴」frame 1-2 items 加成「接住」+「願你 + 柔軟動詞」 持續 carry.
+
+- **2026 國中會考 D-7 + 5/16 國中會考族 焦慮 register surfacing**: 5/9 起 國中會考族 7-day 焦慮高峰 流量啟動. funtexthub 既有 graduation-quotes 主場 高中/大學畢業, 不直接覆蓋 國中會考族「升學選填 / 五專 / 高中職分流 / 免試入學」 niche. exam-quotes (5月底啟動) 是 後續主場 — 5/16 抓不到 (timing 太緊), 但 5/29-6/1 啟動 + 6月底 強化 + 7/11 分科 = 雙考 hook 全 cycle 抓.
+
+- **2026 ACSM 全球 10 大健身趨勢 (5/9 NEW signal)**: heho sport 368754. 「體重管理」 排名 #3 (從 「減重」 broader 為 增肌減脂/增重) + 「情緒健康運動」 排名 #6. **意義**: diet-quotes 既有 schema 「register expansion」 opportunistic 候選 6月 next touch, 「體重管理 / 情緒健康 / 個人化」 broader frame +1-2 items. 不立即, queue.
+
+- **Sunday Night Blues / 收假症候群 / 失眠 trinity 持續 (5/9 多源)**: 維基 收假症候群 + 天下 5074546 + vocus 68552a49 + ettoday health 1376101 + 864897 + crossing 17716 + top1health 90892 多源. insomnia-quotes Q3 候選 status 維持 (8月 試水, healing-quotes / self-love-quotes Q2 organic 觀察後決定).
+
+- **Threads 「廢文文化 = 流量密碼」 5/9 reconfirm**: 黃哲斌 獨立評論 51/15174 + 天下 5131412 + 台灣事實查核中心 105994/10914 + 巴哈姆特 5890261 多源 5/9 carry. funtexthub 「廢文化 register = 沒結論的抒發」 60-70% 配比 strategy 不變. workplace-quotes / adulting-quotes / healing-quotes / mom-quotes 四 topic 主場.
+
+- **Z世代/Threads 流行語 carry confirm (5/9 reverify)**: 「emo」/「破防」/「躁」/「望周知」/「社恐」/「超頂」/「永支」/「情緒價值」/「硬控」/「YYDS」/「好99」 仍 active register (per ELLE HK + storm 11098393 + bnext 80853 + look.s3.com.tw 25872). slang-quotes 5/20 編寫 既有 register list 不變, NEW +1 = 「留友看」.
+
+- **Taiwan PASS 抽籤制 + 國旅補助 5/3200 持續 5/9 carry confirm**: gofunit + yuandiantravel + eztravel + chictrip + tripool + 今周刊 + 經濟日報 多源. travel-quotes 6月 啟動 仍 valid (跳過 7-8月 暑假).
+
+- **2026 五月天 25年 #5525+2 大巨蛋 8 場 7/3-7/12 (5/9 carry confirm) + 孫燕姿「日落以後」 5/15-17 (carry confirm)**: motivational / friendship 6月底 五月天 cross-pollinate opportunistic + graduation-quotes 5/15 deadline 「日落串起 / 平凡時光寫成記憶」 frame 1-2 items 仍 carry (not 五月天 attribution).
+
+- **漢他病毒 持續 (5/9 NEW)**: 5/9 雙北持續 + 台中市長盧秀燕 5/9 啟動「台中NO鼠」 鼠患預防計畫. funtexthub 維持 skip 決策 (品牌調性). 5/8 carry 不變.
+
+### Existing Topic Updates
+
+- **adulting-quotes (66 items live)**: **5/8 deadline 已過, 進入 organic 觀察**. 5月70% adulting traffic (報稅季 5/1-5/31) 主場期 day 9/24, 5/30+ 「最後一波 報稅 day-of 反差」 opportunistic 仍 valid (但 priority 降). 「初級/高級大人 / 報稅季 / 2016 vs 2026」三 register 缺則 carry 至 2027 backlog.
+
+- **mom-quotes (70 items) / sweet-quotes (105 items)**: **T-1 母親節, day-of 觀察期 day-1/3**. 5/6 封盤決策 hold. **NEW 5/9 reinforce**: OPPO 翻車 (9源 confirm) → 「飯圈梗 + 婚姻邊緣 反差」 是 母親節 register 雷區; funtexthub 「感恩+真實+溫度」 strategy 強化, 「day-of 反差」 register 必須 緊扣 「家事 / 訂位 / 廚具 / 通訊軟體」 等真實生活 hook, **避免** 「婚姻 / 偶像 / 飯圈」 軸線. 5/10 day-of 後 5/11 EOD reassess; default = 收入 2027 backlog.
+
+- **wedding-quotes (NEW 5/7 上線, 27.2KB)**: **day-2/7 monitor, 5 days left**. No edits during monitor window (until 5/14).
+
+- **self-love-quotes (21 items, 5/6 上線)**: **day-3/7 monitor, 4 days left**. spot-check 「我可以不夠好, 但依然值得被喜歡」 frame; 缺則 5/13+ post-monitor +1-2 items.
+
+- **food-jokes**: **day-4/7 monitor, 3 days left**. 桃園機場諧音犬 sub-format 5/13+ 試水 queued.
+
+- **service-quotes**: **day-5/7 monitor, 2 days left**. No edits.
+
+- **breakup-quotes**: **day-6+/7 monitor, EOD 5/9 結束**. 5/10 起 進入 organic 觀察期.
+
+- **slang-quotes (39 items live)**: **5/20 deadline (T-11, 11 days left)**, 「句式 viral」 sub-format. **NEW 5/9 register +1: 「留友看」 Threads 平台 metagame 動詞** (in 7 register priority list 之外 新增, 共 8 register). 「初級/高級大人 / 注意看這個男人太狠了 / 我不裝了我攤牌了 / 甘阿捏 / 要確欸 / 躁 / 破防 / **留友看**」 八 register priority. **超派 退燒, 不 priority** 維持.
+
+- **workplace-quotes (92 items live)**: **「梅雨厭世」 7-day window day-3/7 (5/14 deadline, 5 days left)**. 「衣服晾不乾」/「公車鹹魚味」/「雨天加班」 frame 3-5 items priority. **5/14 後 opportunistic**: 「役畜化 / 工具人 / 員工編號 / 我跟影印機有感情但跟同事沒有」 在地化 「牛馬」 register 1-2 items.
+
+- **healing-quotes**: 5/6 carry 「接住」字面 + 「願你 + 柔軟動詞」 frame 3+ items + 5/7 加成 「梅雨陪伴」 frame 1-2 items + 5/8 carry 「失眠 / 凌晨三點 / 周日恐懼」 接住 frame 1 item opportunistic. **NEW 5/9 carry**: 母親節 day-of (5/10) 「母親節 day-of 焦慮 / 對 媽媽 沒準備好的 愧疚」接住 frame 1 item opportunistic (不 priority, 5/14 後再評估).
+
+- **graduation-quotes (5/15 deadline, 6 days left)**: 4 NEW 2026 phrasings + 北一女「成為幸福的大人」 frame. **5/8 CORRECTION carry**: 5/15-17 大巨蛋「日落以後」 = 孫燕姿 (NOT 五月天) — 「日落串起 / 平凡時光寫成記憶」 frame 1-2 items 仍 valid, 不 attribute 五月天. **NEW 5/9 carry**: 全球 母親節 AI 老照片 then vs now viral trend → 「成長 對照 / 童年 vs 現在 / 那些年 vs 這些年」 register 1-2 items cross-pollinate (跨 「nostalgia × graduation × AI 視覺 trend」 三趨勢).
+
+- **motivational-quotes**: 5/6 carry Taylor Swift 2026 + nostalgia × motivational 仍 queued (7 DAYS, day-3/7). **5/8 carry**: 6月底 五月天 25年 #5525「為什麼一直在開演唱會」/「你願意來看看就知道了」 1 item cross-pollinate opportunistic (T-55, 不立即). **NEW 5/9**: 「2026 機器人 / AI / 黃仁勳」 sci-tech motivational opportunistic carry (低 priority).
+
+- **holiday-jokes (79 items, 端午 T-41)**: seeds 不變 (5/7 reconfirm). 5/22 (T-28) 啟動 5+ items (田馥甄食物×成語 / 粽諧音 / 屈原股市 / 南粽北粽 / 名人格式 / 粽子擬人).
+
+- **dog-quotes / cat-quotes**: 5/9 寵物擬人化文案 + 顏文字 + AI 寵物解夢 (CES 2026) 多源 confirm 持續 strong demand. 7/31 寵物展 期間 spot-check mourning-adjacent + 顏文字 sub-format 是否 surfacing (per 5/7 #15 + 5/9 #3).
+
+- **diet-quotes**: **NEW 5/9 register expansion 候選 (低 priority, queue)**: ACSM 2026 「體重管理 (替代 減重) #3 + 情緒健康運動 #6」 → 「我增的不是肥, 是 增肌前的緩衝期」/「健身房 是 我跟自己的 情緒 對話」 跨「體重管理 + 情緒健康」 register +1-2 items 6月 next touch 時 opportunistic.
+
+- **cheesy-pickups / couple-jokes / cold-jokes / dark-humor / drama-quotes / korean-drama-quotes / programmer-jokes / zodiac-quotes / absurd-wisdom / witty-comebacks / travel-quotes**: no new 5/9 signal.
+
+### Updated Action Priority
+
+1. **[HIGH — 5 DAYS, 5/14 deadline]** workplace-quotes 「梅雨厭世」 sub-format 3-5 items (`rainy-season` register). 5/9 day-3/7. 「衣服晾不乾」/「公車鹹魚味」/「雨天加班」 frame.
+2. **[MEDIUM-HIGH — 6 DAYS, 5/15 deadline]** graduation-quotes 4 NEW 2026 phrasings + 北一女「成為幸福的大人」 + 「日落以後 = 孫燕姿」 frame 1-2 items + **NEW 5/9** 「童年 vs 現在 / 那些年 vs 這些年」 nostalgia × AI 視覺 cross-pollinate 1-2 items.
+3. **[MEDIUM-HIGH — 5 DAYS, 5/14 deadline]** healing-quotes 「接住」+「願你 + 柔軟動詞」 3+ items + 「梅雨陪伴」 1-2 items + (opportunistic) 「母親節 day-of 焦慮」 接住 1 item.
+4. **[MEDIUM — 4 DAYS, 5/13 post-monitor]** self-love-quotes spot-check 「我可以不夠好, 但依然值得被喜歡」 frame; 缺則 5/13+ +1-2 items.
+5. **[MEDIUM — 11 DAYS, 5/20 deadline]** slang-quotes 「句式 viral」 sub-format 3-5 items. 「初級/高級大人 / 注意看這個男人太狠了 / 我不裝了我攤牌了 / 甘阿捏 / 要確欸 / 躁 / 破防 / **留友看**」 **8 register priority** (NEW 5/9: 留友看). **超派 退燒不 priority**.
+6. **[MEDIUM — day-3/7]** motivational-quotes Taylor Swift 2026 1-2 items + nostalgia × motivational 1-2 items (5/6 carry).
+7. **[OPPORTUNISTIC — 1 DAY, 5/10 母親節 day-of + 2 DAYS 5/11 EOD reassess]** mom-quotes / sweet-quotes 「day-of 反差」 register **DEFAULT = SKIP** (5/6 封盤決策不打破; OPPO 翻車 5/8 reinforced); 收入 2027 母親節 backlog. 5/11 EOD traffic peak 觀察後 reassess.
+8. **[OPPORTUNISTIC — 4 DAYS, 5/13 post-monitor]** food-jokes 桃園機場諧音犬 sub-format 1-2 items.
+9. **[HIGH — 13 DAYS, 5/22 啟動 → 6/19 端午]** holiday-jokes 端午節 expansion 5+ items (田馥甄食物×成語 / 粽諧音 / 屈原股市 / 南粽北粽 / 名人格式 / 粽子擬人) + food-jokes cross-link 「粽子諧音」 1-2 items.
+10. **[NEW MEDIUM — 5/14 後 opportunistic]** workplace-quotes 「役畜化 / 工具人 / 員工編號」 在地化「牛馬」 register 1-2 items.
+11. **[MEDIUM — June]** Create travel-quotes / 旅遊語錄 (carrying; 國旅補助 5/3200 + Taiwan Pass 抽籤制 仍 valid).
+12. **[MEDIUM-HIGH — late May (5/29-6/1) 啟動 → 6/1-6/3 上線, T-6 weeks before 7/11 分科]** **PROMOTED 5/9 from late June**: Create exam-quotes / 考試語錄 8-12 items. **NEW frames**: 4 國中會考適齡 frames (考完才發現銜接班 / 背的跟考的兩個會考 / 早點睡 vs 滑 4 小時手機 / 考國文懷疑人生) + 5 既有 frames. 雙考流量 hook (5/16 國中會考 + 7/11 分科) + Q1 學測 backlog.
+13. **[MEDIUM — late May, 合併 #5 audit]** slang-quotes Q2 refresh 泉/要確欸/爛.
+14. **[MEDIUM — Q3 候選 8-9月]** pet-memorial-quotes / 寵物離世語錄 — 7/31-8/3 桃園寵物展 期間 cat-quotes / dog-quotes mourning-adjacent organic 觀察後決定.
+15. **[MEDIUM — Q3 候選 8月]** insomnia-quotes / 失眠語錄 — healing-quotes / self-love-quotes Q2 organic 表現觀察後 決定.
+16. **[FLAG — early July]** Begin 父親節 (8/8) drafting (深藍灰褐墨綠 / 領帶皮革老照片 / 7月 e-newsletter 早鳥提醒).
+17. **[OPPORTUNISTIC — T-55 to T-63, 6月底-7月初]** motivational-quotes / friendship 五月天 25年 #5525 「為什麼一直在開演唱會 / 你願意來看看就知道了」 1 item cross-pollinate.
+18. **[OPPORTUNISTIC — June, low priority]** **NEW 5/9**: diet-quotes 「體重管理 / 增肌減脂 / 情緒健康運動」 ACSM 2026 broader register +1-2 items 6月 next touch.
+19. **[OPPORTUNISTIC]** witty-comebacks 「我吃一點」 derivative; persistent backlog only when files next touched.
