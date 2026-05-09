@@ -839,6 +839,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-037",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/232821449",
+      "sourceNote": "Reframes the Dcard 「養奧客」 thread on management-fed entitlement; original 「公司養出來的奧客，最後是員工餵的」 food-chain framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "公司", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人不是天生奧的，\n是公司一次又一次「客人最大」教出來的——\n第一次退貨破例，第二次發誓再也不破例，\n第三次客人寄信給總公司，破例變成 SOP。\n奧客是公司養的，但最後吃到苦的，是站在最前面那個。",
+          "editorNote": "傳給每天替公司「破例政策」道歉的同事。我們不是在處理客人，是在替老闆收他自己埋的單。",
+          "variations": [
+            "公司怕一封客訴信，員工就要替整套破例制度站第一線。"
+          ]
+        },
+        "en": {
+          "content": "Difficult customers aren't born — they're trained,\nby a company that keeps saying \"customer is king.\"\nFirst exception: just this once. Second exception: never again.\nThird exception: an email reaches HQ, and \"never again\" becomes the new SOP.\nThe company raises them. The frontline pays the bill.",
+          "editorNote": "Send to anyone apologizing daily for the company's \"just this once\" exceptions. We aren't handling customers — we're paying off the tab the boss left open.",
+          "variations": [
+            "Corporate fears one complaint email. Employees pay for the policy that fear writes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-038",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://mentalhealthfirstaid.org/news/9-mental-health-challenges-retail-employees-face/",
+      "sourceNote": "Reframes Mental Health First Aid 2026 retail-stress piece; original 「下班三十分鐘解鎖人格」 reentry-window framing is the rewrite anchor",
+      "tags": ["服務業", "情緒勞動", "心聲", "下班"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我下班後需要三十分鐘，\n誰都不要跟我講話。\n那不是冷漠，是解鎖——\n要把『客服模式』下載出來，\n才能裝回『我自己』那個版本。",
+          "editorNote": "適合貼在房門外，給家人朋友看。下班後的安靜不是不愛你，是系統正在切換使用者。",
+          "variations": [
+            "服務業下班後的沉默，是回家路上正在更新韌體，不是在生氣。"
+          ]
+        },
+        "en": {
+          "content": "Give me thirty minutes after I clock out.\nDon't talk to me. Not yet.\nThat isn't coldness. It's unlocking —\nuninstalling the customer-service build\nso the \"actually-me\" version can boot up again.",
+          "editorNote": "Post this on the door for family and roommates. The post-shift silence isn't rejection — the system is switching users.",
+          "variations": [
+            "Post-shift silence is firmware updating on the way home, not anger."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-039",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.ettoday.net/dalemon/post/70287",
+      "sourceNote": "Reframes the ETtoday 凱特王 「服務業心底話」 column with a fresh 「您不是顧客，您是路人」 customer-vs-passerby distinction; the demotion-by-behavior framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "尊嚴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "顧客是顧客，路人是路人。\n進門有禮貌、結帳會說謝謝的，\n我們叫您顧客。\n進門大小聲、結帳像在審犯人的，\n那叫路人——\n剛好經過、剛好花了錢、剛好不被歡迎再來。",
+          "editorNote": "適合貼在收銀機旁邊小聲提醒自己。顧客身分不是付錢就有的，是用態度換的。",
+          "variations": [
+            "錢買的是商品，不是『顧客』這個身分；身分要您自己用禮貌換。"
+          ]
+        },
+        "en": {
+          "content": "A customer is a customer. A passerby is a passerby.\nWalk in with manners, leave with a thank-you — that's a customer.\nWalk in shouting, treat checkout like an interrogation — that's a passerby.\nSomeone who happened to come by,\nhappened to spend money,\nand happens not to be welcomed back.",
+          "editorNote": "Tape this near the register as a quiet reminder to yourself. Customer status isn't bought at checkout — it's earned with manners.",
+          "variations": [
+            "Money buys the product. The title \"customer\" — that's earned with how you talk."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-040",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://cottonwoodpsychology.com/blog/i-worked-in-retail-for-ten-years-and-the-customer-habits-i-saw-every-day-taught-me-how-quickly-small-choices-can-drain-a-human-being/",
+      "sourceNote": "Inspired by Cottonwood Psychology 2026 retail-reflection on cumulative micro-drains; original 「一天一千個小傷口」 paper-cut metaphor is the rewrite anchor",
+      "tags": ["服務業", "情緒勞動", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業不會被一刀砍倒，\n是被一千個小傷口磨垮的——\n一句翻白眼、一聲嘖、一個沒說謝謝的轉身、\n一張甩在櫃檯上的卡。\n每一個都不夠告人，加起來剛好夠把一個人耗光。",
+          "editorNote": "傳給最近覺得「沒被罵但就是好累」的同行。沒有大事，才是這個工作最累的地方——一千個小傷口加起來，比一刀還深。",
+          "variations": [
+            "壓垮服務業員工的，從來不是大事，是上千個沒被算進考勤表的小事。"
+          ]
+        },
+        "en": {
+          "content": "Nobody in service goes down from one big blow.\nIt's a thousand small cuts —\nan eye roll, a tsk, a turn without a thank-you,\na card slapped onto the counter.\nNone of them big enough to report. All of them, together, just enough to empty a person out.",
+          "editorNote": "Send to anyone who says \"nobody yelled at me, but I'm wrecked.\" The exhausting part of this job is the absence of one big thing — a thousand small cuts go deeper than one stab.",
+          "variations": [
+            "Service workers aren't broken by one big incident. We're broken by a thousand small things the timecard never counted."
+          ]
+        }
+      }
     }
   ]
 }
