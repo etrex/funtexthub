@@ -2813,6 +2813,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-113",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.sohu.com/a/895491666_121124291",
+      "sourceNote": "廢話文學重複句式參考，重新創作主題：手機通知",
+      "tags": ["廢話文學", "手機", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的手機叮了一聲，你拿起來看。\n\n看完之後，你把手機放下。\n\n放下不到三秒，手機又叮了一聲。\n\n你又拿起來看。\n\n科學證實：放下手機跟拿起手機之間的時間，剛好等於一則通知的長度。",
+          "editorNote": "在群組訊息一直跳通知的時候，傳出去讓大家一起放下手機（然後再拿起來）",
+          "variations": [
+            "通知的數量跟你的耐心成反比，跟你的好奇心成正比。",
+            "手機放下的那一刻，就是下一則通知準備出現的時候。"
+          ]
+        },
+        "en": {
+          "content": "Your phone buzzes. You pick it up to look.\n\nYou look. You put it down.\n\nWithin three seconds, it buzzes again.\n\nYou pick it up again.\n\nScience confirms: the time between putting the phone down and picking it back up is exactly equal to the length of one notification.",
+          "editorNote": "Drop this in a group chat that won't stop pinging — let everyone put their phones down together (and then pick them back up)",
+          "variations": [
+            "The number of notifications is inversely proportional to your patience and directly proportional to your curiosity.",
+            "The moment you put your phone down is the moment the next notification prepares itself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-114",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學嚴謹格式參考，主題：等公車",
+      "tags": ["廢話文學", "通勤", "等待"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公車還沒來的時候，你在等公車。\n\n公車來了之後，你就不用再等公車了，因為它已經來了。\n\n但是你下車之後，又要開始等下一班公車。\n\n結論：等公車這件事不會結束，會結束的只有你今天的通勤。",
+          "editorNote": "通勤時公車誤點十五分鐘、站牌時刻表完全只是裝飾的時候，傳給每天一起等車的同事",
+          "variations": [
+            "公車的時刻表是一種建議，不是承諾。",
+            "你越趕時間，公車就越慢；你越早到，公車就越早來——但你不會早到。"
+          ]
+        },
+        "en": {
+          "content": "Before the bus arrives, you are waiting for the bus.\n\nOnce the bus arrives, you no longer need to wait for the bus, because it has arrived.\n\nBut after you get off, you start waiting for the next bus.\n\nConclusion: waiting for the bus never ends. Only your commute ends.",
+          "editorNote": "Send to your daily commute buddy when the bus is fifteen minutes late and the schedule is purely decorative",
+          "variations": [
+            "A bus schedule is a suggestion, not a commitment.",
+            "The more you're in a hurry, the later the bus is. The earlier you arrive, the earlier it comes — but you never arrive early."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-115",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://funtexthub.local/original",
+      "sourceNote": "原創廢話文學，主題：洗衣服",
+      "tags": ["廢話文學", "家事", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把衣服丟進洗衣機。\n\n洗衣機開始運轉，這代表衣服正在被洗。\n\n衣服被洗完之後，就是乾淨的衣服。\n\n但是乾淨的衣服還在洗衣機裡，所以它跟髒衣服在物理上的位置是一樣的。\n\n你忘記拿出來。\n\n隔天它又變成髒衣服了。\n\n結論：洗衣服是一個迴圈，起點跟終點都是洗衣機。",
+          "editorNote": "週末打開洗衣機發現衣服又有那個味道、需要重洗一次的時候，傳給跟你一樣家事永遠做不完的朋友",
+          "variations": [
+            "晾衣服的最後一步，是把衣服收下來。但通常都是因為下雨才被迫想起來。",
+            "洗衣籃永遠不會空，因為你身上穿的那件，是下一批洗衣的預備役。"
+          ]
+        },
+        "en": {
+          "content": "You toss your clothes into the washer.\n\nThe washer starts. This means the clothes are being washed.\n\nWhen the wash is done, the clothes are clean.\n\nBut the clean clothes are still in the washer, which means they are physically in the same place as the dirty clothes were.\n\nYou forget to take them out.\n\nThe next day, they're dirty again.\n\nConclusion: laundry is a loop. The starting point and ending point are both the washing machine.",
+          "editorNote": "Send to a friend whose chores are also never finished — ideally on Sunday when you reopen the washer and the clothes have That Smell again",
+          "variations": [
+            "The last step of hanging laundry is bringing it in. Usually you only remember because it started raining.",
+            "The laundry hamper is never empty. The shirt you're wearing is the reserve unit for the next load."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-116",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學自我引用句式，主題：說廢話",
+      "tags": ["廢話文學", "後設", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "俗話說得好：俗話說得好。\n\n這句話聽起來很有道理，因為它本來就是俗話。\n\n但是它沒有告訴你俗話是什麼。\n\n你也不需要知道，因為你已經聽過了。\n\n結論：聽君一席話，如聽一席話。",
+          "editorNote": "朋友在群組裡假裝認真討論人生哲理的時候，丟這句進去重新定調氣氛",
+          "variations": [
+            "我有一句話想說，這句話就是我想說的那句話。",
+            "你說的話我都聽進去了，所以我什麼都沒記住。"
+          ]
+        },
+        "en": {
+          "content": "As the saying goes: as the saying goes.\n\nThis sounds wise because it is, by definition, a saying.\n\nBut it doesn't tell you what the saying is.\n\nYou don't need to know — you've already heard it.\n\nConclusion: hearing your words is like hearing your words.",
+          "editorNote": "Drop this in a group chat where someone is being suspiciously philosophical, and watch the tone reset itself",
+          "variations": [
+            "I have something to say, and the thing I have to say is the thing I want to say.",
+            "I heard everything you said, which is why I remember none of it."
+          ]
+        }
+      }
     }
   ]
 }

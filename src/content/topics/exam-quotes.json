@@ -1,0 +1,339 @@
+{
+  "slug": "exam-quotes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "考試語錄大集合",
+      "description": "從會考、學測到分科測驗，每一個熬夜畫重點的考生都懂的崩潰自嘲，廢文文學考場版"
+    },
+    "en": {
+      "title": "Exam Mood Quotes",
+      "description": "For everyone who has stared at a question paper longer than at their crush — relatable lines for exam season survivors"
+    }
+  },
+  "items": [
+    {
+      "id": "eq-001",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "Dcard 考試板 自嘲常見句式 — 想交卷 register",
+      "tags": ["考試", "自嘲", "廢文", "學測", "分科測驗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "監考老師：「還有十分鐘。」\n我：「沒事，我比答案紙更想交卷。」",
+          "editorNote": "考完隨手 po Threads 或考前發限動的標準句型，朋友秒按愛心。",
+          "variations": [
+            "進階版：「還有十分鐘」→「來得及把名字再寫一次。」",
+            "也能換成：「還有十分鐘，但我心已經離開考場二十分鐘了。」"
+          ]
+        },
+        "en": {
+          "content": "Proctor: \"Ten minutes left.\"\nMe: \"That's fine, I wanted to leave forty minutes ago.\"",
+          "editorNote": "Drop this on Threads right after walking out of the exam — group chat will reply with crying-laughing reacts.",
+          "variations": [
+            "Heavier version: \"Ten minutes left\" — \"Just enough time to rewrite my name in cursive.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-002",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.ptt.cc/bbs/SENIORHIGH/index.html",
+      "sourceNote": "PTT 高中板 夜讀感嘆 register — 三千頁 vs 三秒鐘 對照",
+      "tags": ["夜讀", "考試", "自嘲", "廢文", "高中生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夜讀三千頁，進考場三秒鐘忘光。\n果然書讀進腦袋的方法，跟記憶離開腦袋的方法是同一條路。",
+          "editorNote": "考前一夜的 IG 限動專用，配個哭著翻課本的照片更有戲。",
+          "variations": [
+            "也可以說：「我背了一整年，考卷只用了一秒鐘證明它白費了。」"
+          ]
+        },
+        "en": {
+          "content": "Stayed up reading three thousand pages. Forgot all of it in three seconds at the exam hall.\nTurns out the road in and the road out are the same road.",
+          "editorNote": "Caption it under a pic of your textbook stack — instant relatable post for finals week.",
+          "variations": [
+            "Shorter take: \"My brain has excellent in-and-out service. Drive-thru memory.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-003",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/f/resit",
+      "sourceNote": "Dcard 重考板 應屆 vs 重考 對照句型",
+      "tags": ["重考生", "應屆", "考試", "自嘲", "對照"],
+      "i18n": {
+        "zh-tw": {
+          "content": "應屆生：今年好難。\n重考生：每年都這樣。\n在重考的應屆生：所以我現在到底算誰？",
+          "editorNote": "重考生群組必傳，下面留言一定排成一條長長的⋯⋯接龍。",
+          "variations": [
+            "再加一行：「在重考又考差的應屆生：請把我從這個句型移除。」"
+          ]
+        },
+        "en": {
+          "content": "First-timer: \"This year is so hard.\"\nResit student: \"Every year is like this.\"\nResit student who's still failing: \"So which one am I supposed to be?\"",
+          "editorNote": "Drop in your study group chat — silence, then a wave of \"why are you calling me out\" memes.",
+          "variations": [
+            "Extension: \"Resit student resitting the resit: please remove me from this comparison.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-004",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "考試焦慮療癒 register — 答錯也沒關係 frame",
+      "tags": ["療癒", "考試", "鼓勵", "輕勵志", "學生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "答錯也沒關係。\n反正人生有更多題目，本來就沒有答案。",
+          "editorNote": "考完安慰朋友的標配句，不會說「沒關係」就用這句，比較有層次。",
+          "variations": [
+            "可以延伸：「人生這張考卷，我寫到一半才發現它根本沒有解答本。」"
+          ]
+        },
+        "en": {
+          "content": "It's okay if you got the answer wrong.\nLife has way more questions, and most of them never had a right answer to begin with.",
+          "editorNote": "The grown-up version of \"don't worry about it\" — send it to a friend who's spiraling after the test.",
+          "variations": [
+            "Add: \"Turns out life's exam doesn't come with an answer key — just vibes.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-005",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%AD%B8%E6%B8%AC",
+      "sourceNote": "Dcard 學測 考完那一刻 register — 比放榜還像放榜",
+      "tags": ["考完", "考試", "解放", "自嘲", "學測"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完最後一科走出考場那一刻，\n比放榜還像放榜。\n至於上不上榜，那是下一個我要煩惱的事。",
+          "editorNote": "考最後一科出來那種「終於是個人」的瞬間，配張陽光照超有畫面。",
+          "variations": [
+            "也能寫成：「走出考場 = 出獄；放榜 = 判刑。中間那段叫做暫時自由。」"
+          ]
+        },
+        "en": {
+          "content": "Walking out of the last exam feels more like results day than results day itself.\nWhether I passed is a problem for future me.",
+          "editorNote": "Post this with a photo of the empty exam hall behind you — the universal end-of-finals mood.",
+          "variations": [
+            "Try: \"Leaving the exam = parole. Results day = sentencing. Everything in between is borrowed freedom.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-006",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "國中會考 5/16-17 register — 銜接班 frame",
+      "tags": ["國中會考", "暑假", "銜接班", "自嘲", "升學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "會考完那天我以為自由了。\n後來才發現，自由的後面還有：\n暑期銜接班、新生先修班、英文加強班、數學重點班。\n原來會考只是大門，後面還有一整排門。",
+          "editorNote": "適合國中會考完的孩子貼在限動，爸媽看了會心虛地默默關掉視窗。",
+          "variations": [
+            "可以縮短成：「會考結束 ≠ 暑假開始，只是換了一個教室。」"
+          ]
+        },
+        "en": {
+          "content": "After the big exam I thought I was free.\nThen came summer prep, pre-orientation prep, English boot camp, and math review camp.\nThe exam wasn't a door. It was the first of many doors.",
+          "editorNote": "For middle schoolers who just learned that summer is also a curriculum.",
+          "variations": [
+            "Shorter: \"Exam over ≠ summer starts. Just a different classroom.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-007",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/topics/%E9%87%8D%E8%80%83",
+      "sourceNote": "考試範圍對照 register — 背的 vs 考的 frame",
+      "tags": ["考試", "範圍", "自嘲", "廢文", "學生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我背的範圍跟考的範圍，像兩個會考。\n它們可能曾經認識過，但是從來沒見過面。",
+          "editorNote": "看到考卷瞬間想哭時的內心 OS，傳給同學笑著哭一波。",
+          "variations": [
+            "進階：「老師說考試範圍是這幾課，命題老師說：『沒寫死，那就都算。』」"
+          ]
+        },
+        "en": {
+          "content": "What I studied and what showed up on the test feel like two different exams.\nThey may have heard about each other once. They have never met.",
+          "editorNote": "The face-down moment of every test ever — share it after, not before.",
+          "variations": [
+            "Add: \"Teacher said the scope was chapters 1–5. Test setter said 'unspecified means everything.'\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-008",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.ptt.cc/bbs/SENIORHIGH/index.html",
+      "sourceNote": "考前夜 register — 早點睡 vs 滑手機 對照",
+      "tags": ["考前一夜", "拖延", "自嘲", "媽媽", "學生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試前一晚，我媽說：「早點睡。」\n我說：「好。」\n然後我滑了四個小時的手機。\n睡前的我和起床的我，是兩個從未合作的陌生人。",
+          "editorNote": "考前一夜共鳴感 100％，配一張凌晨三點的天花板就完美了。",
+          "variations": [
+            "可以加：「醒來那一刻，我恨他比恨考試還多。」"
+          ]
+        },
+        "en": {
+          "content": "Night before the exam, mom said: \"Sleep early.\"\nI said: \"Sure.\"\nThen scrolled my phone for four hours.\nNight-me and morning-me are two strangers who refuse to cooperate.",
+          "editorNote": "The universal ceiling-staring confession — pair it with a 3am photo for full effect.",
+          "variations": [
+            "Add: \"Morning me hates night me more than the exam itself.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-009",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "國文考懷疑人生 register — funtexthub 廢文化主場",
+      "tags": ["國文", "考試", "懷疑人生", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "明明考的是國文，\n為什麼考完之後，我懷疑的不是答案，是我自己的人生。",
+          "editorNote": "考完國文那種「我到底有沒有讀過書」的精神損傷感，傳給班群效果最佳。",
+          "variations": [
+            "也能改：「考的是國文，崩潰的是國語、英文、人生這三題我都不會。」"
+          ]
+        },
+        "en": {
+          "content": "It was a Chinese exam.\nBut after walking out, the thing I doubt isn't my answers — it's my entire life.",
+          "editorNote": "For the post-language-test existential crisis. Drop it in the group chat with no follow-up.",
+          "variations": [
+            "Try: \"Came in to take a language test. Left questioning my fluency in being alive.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-010",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://punorbit.com/exam-jokes/",
+      "sourceNote": "Software update 比喻 — 國際英文流行 frame",
+      "tags": ["考試", "比喻", "工程師思維", "自嘲", "雙語"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試就像軟體更新。\n不方便、突然出現、無法跳過，\n而且每次更新完都覺得自己變更慢。",
+          "editorNote": "適合理工腦或工程師朋友群組，懂科技梗的會多按一個讚。",
+          "variations": [
+            "延伸：「重考 = 重灌；模擬考 = 內測；正式考 = 上線。」"
+          ]
+        },
+        "en": {
+          "content": "Exams are like software updates.\nInconvenient, sudden, impossible to skip,\nand somehow you feel slower every time it finishes.",
+          "editorNote": "Tech-brain humor — perfect for engineer friends or anyone who's clicked 'remind me later' too many times.",
+          "variations": [
+            "Add: \"Resit = reinstall. Mock = beta. Real exam = production.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-011",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "臨時抱佛腳 register — 廢文文學版",
+      "tags": ["臨時抱佛腳", "拖延", "自嘲", "廢文", "考試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是不讀書，\n我只是把整個學期的進度，\n壓縮在考前那一個晚上的咖啡裡。",
+          "editorNote": "可以拿來幫熬夜的自己平反，配一杯第三杯黑咖啡的照片正好。",
+          "variations": [
+            "再加：「咖啡是液體的進度條，喝越多代表離崩潰越近。」"
+          ]
+        },
+        "en": {
+          "content": "I'm not avoiding studying.\nI'm just compressing one whole semester\ninto a single cup of coffee the night before.",
+          "editorNote": "Pair with a photo of your third coffee — universal cram-night content.",
+          "variations": [
+            "Add: \"Coffee is a liquid progress bar. Each refill = one step closer to collapse.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-012",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "考場心境 五階段 register — 對照式廢文",
+      "tags": ["考試", "心境", "對照", "自嘲", "學生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "進考場前：我會。\n看到題目：我有看過。\n寫一半：我以為我會。\n寫完：我會什麼？\n出考場：我是誰，我在哪。",
+          "editorNote": "五階段心境對照，傳到班群一秒引發共鳴接龍。",
+          "variations": [
+            "可加：「對答案：我下輩子再會。」"
+          ]
+        },
+        "en": {
+          "content": "Before the exam: I know this.\nReading the question: I've seen this.\nMid-answer: I thought I knew this.\nFinished: What did I know?\nLeaving the hall: Who am I and where is this.",
+          "editorNote": "The five stages of exam grief — drop in the group chat for instant chaos.",
+          "variations": [
+            "Add: \"Checking the answer key: see you in the next life.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-013",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://punorbit.com/exam-jokes/",
+      "sourceNote": "作文寫不完 register — 學測常見梗",
+      "tags": ["作文", "考試", "時間管理", "自嘲", "國文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "作文題目給的時間是五十分鐘。\n我前四十分鐘在想開頭。\n後十分鐘把人生濃縮成三段。\n結論：我的人生大概也是這樣寫出來的。",
+          "editorNote": "寫作文的痛大家都懂，這句配上凌亂的考卷照超有共感。",
+          "variations": [
+            "也能說：「作文最後一段叫做『綜上所述』，意思是『時間到了我亂寫』。」"
+          ]
+        },
+        "en": {
+          "content": "We had fifty minutes for the essay.\nI spent forty thinking of an opening line.\nI compressed my entire worldview into the last ten.\nMaybe that's how I built my actual life too.",
+          "editorNote": "Essay panic = life panic. Universal feeling, very postable.",
+          "variations": [
+            "Add: \"My conclusion paragraph is just 'in summary' — translation: I ran out of time.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-014",
+      "dateAdded": "2026-05-09",
+      "sourceUrl": "https://www.dcard.tw/f/resit",
+      "sourceNote": "對答案後悔 register — 不對答案 自我保護 frame",
+      "tags": ["對答案", "考試", "自我保護", "自嘲", "重考生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完最重要的事不是檢討，是別對答案。\n保留那段「我以為我考得不錯」的時光，\n是考試送給每個考生最後的溫柔。",
+          "editorNote": "考完想衝去對答案的朋友傳這句，救他一晚的心情。",
+          "variations": [
+            "再加：「成績單會自己來找你，不用主動上前迎接。」"
+          ]
+        },
+        "en": {
+          "content": "After the exam, the most important thing isn't reviewing — it's not checking the answers.\nThe \"I think I did okay\" hour\nis the last bit of mercy the exam ever gives you.",
+          "editorNote": "For the friend who wants to compare answers the second they leave the hall — save them one peaceful evening.",
+          "variations": [
+            "Add: \"The results will find you. You don't need to walk toward them.\""
+          ]
+        }
+      }
+    }
+  ]
+}
