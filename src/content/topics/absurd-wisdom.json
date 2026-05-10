@@ -2885,6 +2885,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-117",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學記憶句式延伸創作，主題：忘記",
+      "tags": ["廢話文學", "記憶", "後設"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在我忘記這件事之前，我會一直記得它。\n\n忘了之後，我就不會記得了。\n\n這時候你提醒我，我才會想起來原來我忘了。\n\n結論：記得跟忘記，差別只在你有沒有被提醒。",
+          "editorNote": "朋友抱怨另一半忘記紀念日的時候，傳這句過去配一張無辜的貓咪圖，效果加倍",
+          "variations": [
+            "我沒有忘記，只是還沒想起來。",
+            "你提醒我之前，我以為我記得；你提醒我之後，我確定我忘了。"
+          ]
+        },
+        "en": {
+          "content": "Before I forget this, I will always remember it.\n\nAfter I forget, I will not remember it.\n\nWhen you remind me, that's when I realize I had forgotten.\n\nConclusion: the only difference between remembering and forgetting is whether someone reminded you.",
+          "editorNote": "Send this when a friend is venting about their partner forgetting an anniversary — pair with an innocent cat photo for maximum effect",
+          "variations": [
+            "I didn't forget. I just haven't remembered yet.",
+            "Before you reminded me, I thought I remembered. After you reminded me, I confirmed I forgot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-118",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
+      "sourceNote": "廢話文學睡眠主題重新創作",
+      "tags": ["廢話文學", "睡眠", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你睡得越晚，你睡覺的時間就越晚。\n\n你睡覺的時間越晚，隔天起床的時間也會跟著變晚。\n\n如果你不起床，那一天就沒有開始。\n\n沒有開始的一天，等於沒有過完。\n\n所以熬夜的人，其實活得比別人少一天。",
+          "editorNote": "凌晨三點還在滑手機的時候傳給自己看，會有一點點良心發現",
+          "variations": [
+            "早睡的人比晚睡的人，提早進入睡眠狀態。這是真的。",
+            "睡覺是免費的，但你必須付出時間。"
+          ]
+        },
+        "en": {
+          "content": "The later you sleep, the later you go to bed.\n\nThe later you go to bed, the later you wake up.\n\nIf you don't wake up, the day hasn't started.\n\nA day that hasn't started is a day that hasn't ended.\n\nSo people who stay up late are actually living one day less than everyone else.",
+          "editorNote": "Send this to yourself at 3 a.m. while you're still scrolling — guilt level may slightly increase",
+          "variations": [
+            "People who sleep early enter the sleep state earlier than people who sleep late. This is accurate.",
+            "Sleep is free, but you have to pay with time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-119",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學金錢主題原創",
+      "tags": ["廢話文學", "金錢", "經濟"],
+      "i18n": {
+        "zh-tw": {
+          "content": "經濟學家指出，當你把錢花掉之後，那筆錢就不在你身上了。\n\n那筆錢會跑到收你錢的人那裡。\n\n如果他也把錢花掉，那筆錢又會跑到下一個人那裡。\n\n所以錢一直在流動，只是不在你這裡。\n\n這就是為什麼你存不到錢。",
+          "editorNote": "月底錢包見底的時候傳到朋友群組，大家會一起苦笑",
+          "variations": [
+            "想存錢的第一步，是不要花錢。第二步，重複第一步。",
+            "你的薪水入帳之前，它不是你的；入帳之後，它也很快不是你的。"
+          ]
+        },
+        "en": {
+          "content": "Economists have pointed out that once you spend your money, the money is no longer with you.\n\nIt is now with the person you paid.\n\nIf they also spend it, it moves to the next person.\n\nSo money is always flowing — just not in your direction.\n\nThis is why you have no savings.",
+          "editorNote": "Drop this in the group chat at the end of the month when everyone's wallet is empty — collective sighing guaranteed",
+          "variations": [
+            "Step one of saving money: don't spend it. Step two: repeat step one.",
+            "Before your paycheck arrives, it isn't yours. After it arrives, it isn't yours either, very quickly."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-120",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "廢話文學工作主題原創",
+      "tags": ["廢話文學", "工作", "上班"],
+      "i18n": {
+        "zh-tw": {
+          "content": "上班的本質，就是去公司。\n\n如果你沒有去公司，那就不算上班。\n\n但是你去了公司，也不一定有在工作。\n\n所以上班跟工作不是同一件事。\n\n這也解釋了為什麼你坐了八小時，卻覺得什麼都沒做。",
+          "editorNote": "週一早上九點半，假裝在打資料其實在打這句廢話傳給同事，是辦公室生存之道",
+          "variations": [
+            "下班的前提是有上班，沒上班就沒有所謂下班。",
+            "開會的目的是討論事情，但通常開完會還是要再開一次會。"
+          ]
+        },
+        "en": {
+          "content": "The essence of going to work is showing up at the office.\n\nIf you don't show up, it doesn't count as work.\n\nBut showing up doesn't mean you actually worked.\n\nSo going to work and doing work are not the same thing.\n\nThis is why you sat there for eight hours and feel like you did nothing.",
+          "editorNote": "Monday at 9:30 a.m., pretend to type a report while actually typing this to a coworker — essential office survival skill",
+          "variations": [
+            "Clocking out requires clocking in. No clock-in, no clock-out.",
+            "The point of a meeting is to discuss things, but it usually leads to another meeting."
+          ]
+        }
+      }
     }
   ]
 }

@@ -1185,6 +1185,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-052",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.bnext.com.tw/article/80919/gen-z-internet-language-library",
+      "sourceNote": "「破防」原為遊戲術語突破防禦，2024-2026 延伸為心理防線被擊穿的萬用詞",
+      "tags": ["破防", "情緒", "Threads", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為我已經沒事了，\n直到外送員看著我說：\n「妳今天看起來好累喔。」\n\n破防。\n當場在便當前面哭。",
+          "editorNote": "「破防」原本是遊戲術語，2026 在 Threads 已經是萬用情緒詞，指那種「以為自己撐住了結果一句話被擊穿」的瞬間。重點是寫一個本來無關痛癢的小細節，最後三個字收尾",
+          "variations": [
+            "正向版：「看到他偷偷幫我留最後一塊雞排，破防。」用來形容被善意擊穿。"
+          ]
+        },
+        "en": {
+          "content": "I thought I was fine,\nuntil the delivery guy looked at me and said,\n'You look really tired today.'\n\nDefenses down.\nSitting there crying over a lunch box.",
+          "editorNote": "'Defenses down' (破防) started as gaming jargon for breaking through armor. By 2026 it's the all-purpose Threads phrase for that moment when you think you're holding it together — and one tiny line cracks you open. Build up a mundane scene, then drop the two characters at the end",
+          "variations": [
+            "Positive version: 'He saved the last piece of chicken for me without saying anything. Defenses down.' Use it for being floored by quiet kindness."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-053",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.juksy.com/article/126677",
+      "sourceNote": "「硬控」MOBA 遊戲術語，2025-2026 Threads 形容沉迷、停不下來的瞬間",
+      "tags": ["硬控", "Threads", "沉迷", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是想看一支三十秒的影片。\n\n結果被硬控四十分鐘，\n回神已經在看「貓咪如何認得自己的名字」第七集。\n\n演算法你贏了。",
+          "editorNote": "「硬控」原本是 MOBA 用語，指角色被定住沒辦法動。2026 用來形容被某段內容綁住、滑不掉。重點寫「本來只想看一下下」對比「結果整個被吸走」，越荒謬的主題越好笑",
+          "variations": [
+            "稱讚版：「她笑起來硬控我五秒。」用來形容被某人的某個瞬間電到。"
+          ]
+        },
+        "en": {
+          "content": "Just opening a 30-second clip.\n\nForty minutes later, still locked in,\nnow on episode 7 of 'How Cats Recognize Their Own Names.'\n\nAlgorithm, you win.",
+          "editorNote": "'Locked in' (硬控) is borrowed from MOBA games where a character literally can't move. In 2026 Taiwan slang it describes content that nails you to the screen. The trick: contrast 'I'll just check for a sec' with 'I am still here.' The dumber the rabbit hole, the better",
+          "variations": [
+            "Compliment version: 'Her smile locked me down for five seconds.' Use it when someone's split-second moment short-circuits your brain."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-054",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.juksy.com/article/126677",
+      "sourceNote": "「觸爛」=「真的同意到爆」，2025-2026 Threads 強烈贊同語",
+      "tags": ["觸爛", "贊同", "Threads", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋朋說：\n「上班最累的不是工作，\n是回完訊息還要表現得很有空。」\n\n我：觸爛。\n整個會議室的我都站起來鼓掌。",
+          "editorNote": "「觸」從英文 true 來，「觸爛」就是同意到爆的意思，2026 還在 Threads 高強度使用。寫一句很犀利的觀察，下面接「觸爛」兩個字，再用誇張畫面收尾，效果最好",
+          "variations": [
+            "短促版：朋友抱怨家庭聚會被問薪水，回「觸爛。」一句帶過所有委屈。"
+          ]
+        },
+        "en": {
+          "content": "Palsy says:\n'The most exhausting part of work isn't the work —\nit's replying to messages and pretending you've got time to spare.'\n\nMe: Hard true.\nEntire boardroom inside my head stands and applauds.",
+          "editorNote": "'Hard true' (觸爛) is a Threads-era amplifier — 'true' borrowed from English, intensified into 'true to the bone.' Use it to violently agree with something. Best formula: someone says a sharp observation, you reply with the two characters, then add an exaggerated visual",
+          "variations": [
+            "Short version: friend complains about being grilled about salary at family dinner — just reply 'Hard true.' Two words, fully witnessed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-055",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/69109",
+      "sourceNote": "「M3」=「You know what I'm saying」的諧音縮寫，2025-2026 句尾語",
+      "tags": ["M3", "句尾", "Threads", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我想要的不多，\n就是月薪十萬、住信義區、\n下班還有體力做副業。\n\n不貪心，M3？",
+          "editorNote": "「M3」是英文 you know what I'm saying 唸快一點的諧音，2026 變成台灣 Threads 句尾的標配。用法很簡單：先寫一段超不合理的願望或想法，最後丟「M3？」假裝在徵求認同",
+          "variations": [
+            "閒聊版：「我覺得週四是禮拜的高潮，週五已經在收尾，M3？」用來開啟廢話討論。"
+          ]
+        },
+        "en": {
+          "content": "I'm not asking for much.\nJust six-figure salary, a place downtown,\nand enough energy after work for a side hustle.\n\nNot greedy, nam-sayin?",
+          "editorNote": "'Nam-sayin' (M3) is the Taiwan Threads phonetic shortcut for 'you know what I'm saying' said fast. By 2026 it's the default sentence-ender for soft sarcasm. Formula: drop an absurdly ambitious wish, then tag 'nam-sayin?' to pretend you're seeking validation",
+          "variations": [
+            "Filler version: 'Thursday is the peak of the week, Friday is already wrap-up mode, nam-sayin?' Great for kicking off a low-stakes debate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-056",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://dailyview.tw/popular/detail/26246",
+      "sourceNote": "「很躁」2024-2026 持續流行的情緒詞，指坐立難安、煩到爆",
+      "tags": ["很躁", "情緒", "Threads", "Z世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "冷氣壞了。\n外送遲到。\n群組三百則未讀。\n\n我沒有生氣，\n我只是很躁、很躁、很躁。\n\n躁到想把手機扔進冰箱。",
+          "editorNote": "「很躁」是 2024 後一直活在 Threads 的情緒詞，比「煩」更毛躁、比「生氣」更沒方向，是那種找不到對象只能整個人發毛的狀態。連寫三次「很躁」效果最好，最後丟一個荒謬畫面收尾",
+          "variations": [
+            "簡短版：朋友傳長文抱怨主管，回「我也很躁。」共感不必多話。"
+          ]
+        },
+        "en": {
+          "content": "AC broken.\nDelivery late.\nGroup chat: 300 unread.\n\nI'm not angry.\nI'm just antsy, antsy, antsy.\n\nAntsy enough to throw the phone in the freezer.",
+          "editorNote": "'Antsy' (很躁) has been alive on Taiwan Threads since 2024 — fizzier than 'annoyed,' less directed than 'angry.' It's the diffuse twitchy feeling with no real target. The move: repeat the word three times, then close on something physically ridiculous",
+          "variations": [
+            "Short version: friend sends a long rant about their boss — reply 'Same, antsy too.' Solidarity doesn't need extra words."
+          ]
+        }
+      }
     }
   ]
 }

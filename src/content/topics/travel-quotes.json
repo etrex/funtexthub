@@ -499,6 +499,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-022",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://shilpaahuja.com/airport-quotes/",
+      "sourceNote": "airport 6 AM burger / passport-in-hand register，重新改寫",
+      "tags": ["機場", "搞笑", "廢文", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "機場是一個神奇的地方：\n早上六點吃漢堡不會有人覺得奇怪，\n你也可以一邊翻包包找護照，\n一邊忘記護照正握在你手上。",
+          "editorNote": "適合凌晨機場自拍、登機證平拍、Threads 出國前廢發——把機場那種「時空錯亂」的荒謬感寫進去，誰看了都點頭",
+          "variations": [
+            "機場唯一的時區規則是：你的胃跟你的焦慮，永遠比起飛時間早三小時。",
+            "機場是少數幾個你可以對著一杯三百塊的拿鐵流眼淚，還沒人問你為什麼的地方。"
+          ]
+        },
+        "en": {
+          "content": "An airport is a magical place\nwhere a 6 AM burger is normal,\nand you can rip your bag apart\nlooking for the passport\nyou're already holding.",
+          "editorNote": "For the bleary-eyed boarding-gate selfie or the chaos-bag flat lay — captures airport energy in a way every traveler has lived through at least once",
+          "variations": [
+            "Airports are the only place where crying into a $9 latte feels like a perfectly reasonable Tuesday.",
+            "At the airport, your stomach and your anxiety are always three hours ahead of the actual flight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-023",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://punpalace.com/travel-humor/",
+      "sourceNote": "lost luggage / surprise minimalist register，重新改寫",
+      "tags": ["行李", "搞笑", "極簡", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "行李寄丟那一刻，\n航空公司沒告訴我，\n但他們其實送了我一份大禮：\n為期七天的強制極簡生活體驗。",
+          "editorNote": "適合行李轉盤前的尷尬自拍、機場詢問櫃台前的 Threads 廢發、回國後跟朋友抱怨用——把災難轉成段子，比直接哭哭好看一百倍",
+          "variations": [
+            "我不是被迫穿同一件衣服七天，我是在執行一個無預警的時尚挑戰。",
+            "行李寄丟最大的收穫，是發現我其實只需要三件 T 恤就能活下去（雖然不情願）。"
+          ]
+        },
+        "en": {
+          "content": "When the airline lost my luggage,\nthey didn't say it out loud,\nbut they basically gifted me\na seven-day mandatory minimalism retreat.",
+          "editorNote": "For the empty-baggage-carousel photo, the same-outfit-day-three selfie, or the post-trip complaint thread — turns a mini-disaster into a punchline",
+          "variations": [
+            "I'm not wearing the same shirt three days in a row. I'm participating in an unscheduled capsule wardrobe experiment.",
+            "Lost luggage taught me I can survive on three t-shirts. Reluctantly. Resentfully. But yes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-024",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.thewanderlustwithin.com/funny-travel-quotes/",
+      "sourceNote": "「travel expands your luggage」雙關 frame，重新改寫",
+      "tags": ["旅行", "搞笑", "雙關", "行李"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說旅行會開拓你的視野。\n\n以我個人的經驗，\n它主要開拓的是我的行李箱、\n我的信用卡額度、\n還有我對自己決策能力的懷疑。",
+          "editorNote": "適合戰利品開箱、信用卡帳單來的那天的 IG 限動、Threads 自嘲文——把旅行最常被講的「開拓視野」 翻轉成最現實的版本",
+          "variations": [
+            "旅行不會讓我變成更好的人，但會讓我變成行李箱更滿的人。",
+            "出國回來唯一變寬的不是視野，是我的腰圍跟手機相簿。"
+          ]
+        },
+        "en": {
+          "content": "They say travel broadens the mind.\n\nIn my experience\nit mainly broadens my suitcase,\nmy credit card limit,\nand my deep distrust of my own decisions.",
+          "editorNote": "Pairs with souvenir hauls, statement-day IG stories, or the post-trip 'why did I buy this' thread — flips the wanderlust cliché into something honest",
+          "variations": [
+            "Travel doesn't make me a better person. It just makes me a person with a much fuller suitcase.",
+            "The only thing that got broader on this trip was my waistband and my camera roll."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-025",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://captionhuts.com/vacation-captions-instagram/",
+      "sourceNote": "photo vs. reality / 預期 vs 真實 register，原創",
+      "tags": ["旅行", "搞笑", "IG", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "IG 上看起來：日落、海景、自由的靈魂。\n實際上：腳被沙子磨破皮、頭髮黏成一團、\n我只是在等老闆已讀我兩小時前的請假訊息。",
+          "editorNote": "適合「IG 美照 vs 真實狀態」 對比文、Threads 廢發、回國後爆料文——把社群上的旅行濾鏡撕掉一層，自帶笑點跟真誠",
+          "variations": [
+            "美照背後通常有三十張失敗、一隻被偷吃薯條的海鷗、跟我快斷掉的耐心。",
+            "你以為我在感受人生，其實我在等飯店 Wi-Fi 重新連上。"
+          ]
+        },
+        "en": {
+          "content": "What it looks like on Instagram:\nsunset, ocean, free spirit.\n\nWhat it actually is:\nsand in my shoes, hair glued to my face,\nand me waiting for my boss\nto read the leave request I sent two hours ago.",
+          "editorNote": "For the photo-vs-reality dump, the candid follow-up to a glossy sunset shot, or the honest IG carousel — peels back the travel filter without being cynical",
+          "variations": [
+            "Behind every dreamy beach photo is thirty failed shots, one fry-stealing seagull, and a slowly fraying patience.",
+            "You think I'm soaking in life. I'm actually just waiting for the hotel Wi-Fi to reconnect."
+          ]
+        }
+      }
     }
   ]
 }

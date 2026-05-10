@@ -931,6 +931,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-041",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://udn.com/news/story/120912/8873704",
+      "sourceNote": "Reframes the udn 「奧客比例最高職業」 piece; original 「客人付的錢買得到杯子，買不到我說『欸』的權利」 transactional-boundary framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "尊嚴", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人對我彈手指、揮手、拍桌子，\n喊一聲「欸」叫我過去。\n他付的錢買得到這杯飲料、這份餐、這個位子，\n買不到把我從名字降級成「欸」的權利。",
+          "editorNote": "傳給今天被當成「欸」叫過去的同事。我們有名字、有工號、有人生——就是沒有便宜到變成一個語助詞。",
+          "variations": [
+            "「欸」是叫狗的、不是叫人的；服務業的耐心不是用消費金額換的。"
+          ]
+        },
+        "en": {
+          "content": "He snapped his fingers, waved, banged the table,\nyelled \"hey\" to summon me.\nThe money he paid bought the drink, the meal, the seat —\nnot the right to demote me from a name to \"hey.\"",
+          "editorNote": "Send this to the coworker who got \"hey-ed\" across the floor today. We have names, employee numbers, lives — none of them cheap enough to be reduced to an interjection.",
+          "variations": [
+            "\"Hey\" is for calling a dog. Service patience isn't sold by the price of the receipt."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-042",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/inspirational/",
+      "sourceNote": "Subverts the Maya Angelou 「people will never forget how you made them feel」 inspirational quote canon; original employee-side flip 「我們也記得你怎麼讓我們感覺」 mirror framing is the rewrite anchor",
+      "tags": ["服務業", "金句", "心聲", "客人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人會忘記我們說過什麼、做過什麼，\n但會記得我們讓他們有什麼感覺。\n——順帶一提，\n我們也會記得你讓我們有什麼感覺。\n只是我們的紀錄沒有 Google 評論可以打。",
+          "editorNote": "適合貼在員工休息室的牆上，給每天被「客人感受」當成 KPI 的同事。我們的感受沒被打分，但全寫在班表後面那個願不願意再排你那一桌的眼神裡。",
+          "variations": [
+            "服務業是雙向記憶：客人記得我們的態度，我們也記得客人的眼神。差別只是我們不能寫評論。"
+          ]
+        },
+        "en": {
+          "content": "Customers forget what we said, forget what we did,\nbut remember how we made them feel.\nFor the record —\nwe also remember how you made us feel.\nWe just don't have a Google review form for it.",
+          "editorNote": "Tape this in the break room for any coworker whose KPI is \"customer feeling.\" Our feelings aren't scored — they live in the look on a server's face when they decide whether to take your table again.",
+          "variations": [
+            "Service is two-way memory. Customers remember our attitude. We remember their eyes. The difference is we don't get to leave a review."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-043",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%A5%A7%E5%AE%A2%E6%97%A5%E5%B8%B8",
+      "sourceNote": "Original — extends the Dcard 奧客日常 register with a fresh 「拍照打卡卻嫌等太久」 contradiction format; the menu-as-photo-prop reframe is the rewrite anchor",
+      "tags": ["服務業", "餐飲", "奧客", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人來店裡，先把菜單擺好拍照、\n再把飲料擺好拍照、\n餐點上來再從三個角度拍照——\n然後抱怨：「為什麼上菜這麼慢？」\n抱歉，我們沒有「攝影棚速度」這個選項。",
+          "editorNote": "傳給最近被 IG 客人拖到出餐速度被客訴的同事。我們是餐廳，不是 studio——沒辦法替您的限動加班。",
+          "variations": [
+            "客人先把店當攝影棚，再嫌餐廳出餐慢；矛盾的不是廚房，是客人自己。"
+          ]
+        },
+        "en": {
+          "content": "Customer arrives, arranges the menu for a photo,\nstyles the drink for a photo,\nshoots the entrée from three different angles —\nthen complains: \"Why is the food so slow?\"\nSorry, \"photoshoot speed\" isn't on the menu.",
+          "editorNote": "Send this to the coworker whose ticket time got dinged because the IG-table held up the pass. We run a restaurant, not a studio — we can't pull overtime for your story.",
+          "variations": [
+            "First they treat the place like a studio, then they blame the kitchen for being slow. The contradiction isn't in the back of house."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-044",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://cottonwoodpsychology.com/blog/i-worked-in-retail-for-ten-years-and-the-customer-habits-i-saw-every-day-taught-me-how-quickly-small-choices-can-drain-a-human-being/",
+      "sourceNote": "Reframes the Cottonwood Psychology 2026 retail-reflection piece on customer micro-choices; original 「謝謝兩個字 = 一杯能量飲料」 fuel-economy framing is the rewrite anchor",
+      "tags": ["服務業", "客人", "心聲", "互助"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人結帳時多說那一句「謝謝」，\n對你只是兩個字、零點五秒。\n對我來說——\n是一杯免費的能量飲料、\n是下一個小時還能保持微笑的燃料、\n是今天回家路上願意對家人多說一句話的力氣。",
+          "editorNote": "傳給最近覺得「為什麼一句謝謝這麼難」的同行；也適合分享給願意聽的客人朋友——你那兩個字，真的有人在數。",
+          "variations": [
+            "你給的「謝謝」是零點五秒，我們收到的是一整個下午的續命。"
+          ]
+        },
+        "en": {
+          "content": "When you say \"thank you\" at checkout,\nfor you it's two words, half a second.\nFor me it's a free energy drink,\nfuel for one more hour of smiling,\nand the strength to say one extra sentence to my family on the way home.",
+          "editorNote": "Send this to anyone wondering why \"thanks\" feels so rare. Also worth sharing with the customer-side friend who'll listen — those two words are being counted.",
+          "variations": [
+            "Your \"thank you\" costs half a second. On our end, it pays for the rest of the afternoon."
+          ]
+        }
+      }
     }
   ]
 }

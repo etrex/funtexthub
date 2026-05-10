@@ -334,6 +334,102 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-015",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "拖延證書化 register — 黑帶 procrastination 梗在地化",
+      "tags": ["拖延", "考試", "自嘲", "廢文", "學生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人拿的是書卷獎，\n我拿的是拖延界的終身成就獎。\n而且這個獎我從國小就開始累積點數了。",
+          "editorNote": "適合自我介紹寫不出長處時拿來救場，配個歪嘴笑的自拍剛剛好。",
+          "variations": [
+            "也可以說：「我不是不努力，我是把努力延後到最後一刻才一次用完。」",
+            "進階版：「拖延是我唯一不會拖延的事。」"
+          ]
+        },
+        "en": {
+          "content": "Other people collect honor roll certificates.\nI'm collecting points toward a lifetime achievement award in procrastination.\nI've been building this résumé since elementary school.",
+          "editorNote": "Drop this when someone asks about your strengths and you've got nothing — half-smile selfie pairs well.",
+          "variations": [
+            "Try: \"I'm not lazy. I'm just saving all my effort for the last possible second.\"",
+            "Heavier: \"Procrastinating is the only thing I never procrastinate on.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-016",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://tw.nextapple.com/life/20250512/51F647416C321D9E4A7928D6482FD1F9",
+      "sourceNote": "會考 5/16-17 倒數 register — 父母 vs 考生 視角差 frame",
+      "tags": ["國中會考", "父母", "焦慮", "自嘲", "倒數"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽問：「你緊張嗎？」\n我說：「還好。」\n其實我已經把每一科可能考砸的劇本，\n在腦袋裡重播了三百遍。\n所以我不是不緊張，我是已經緊張到習慣了。",
+          "editorNote": "會考前一週的限動神句，發出去媽媽會看到，但她假裝沒看到。",
+          "variations": [
+            "也可以縮短：「我說『還好』的意思是『我已經崩潰過很多次了』。」"
+          ]
+        },
+        "en": {
+          "content": "Mom asked: \"Are you nervous?\"\nI said: \"Not really.\"\nMeanwhile I've replayed every possible disaster scenario\nthree hundred times in my head.\nI'm not un-nervous. I'm just used to being nervous.",
+          "editorNote": "Story-post material for the week before finals — your mom will see it and pretend she didn't.",
+          "variations": [
+            "Shorter: \"'Not really' is just code for 'I've already had ten breakdowns about it.'\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-017",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://punorbit.com/exam-jokes/",
+      "sourceNote": "考前許願 register — 拜拜 vs 讀書 對照",
+      "tags": ["拜拜", "考試", "自嘲", "廢文", "文昌"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考前一週，我去文昌廟拜了三次。\n讀書時間總共三小時。\n所以我準備考試的策略是：\n把希望外包，把焦慮自留。",
+          "editorNote": "拜文昌的考生都懂，配個廟裡蔥跟芹菜的照片更應景。",
+          "variations": [
+            "可以加：「我求的不是高分，是命題老師今天心情好。」",
+            "也能改：「神明保佑沒讀書的人，是這個世界最後的浪漫。」"
+          ]
+        },
+        "en": {
+          "content": "The week before the exam I visited the temple three times.\nTotal study hours: three.\nMy exam prep strategy is basically:\noutsource the hope, keep the anxiety.",
+          "editorNote": "Universal pre-exam superstition humor — works for any culture's version of lucky charms.",
+          "variations": [
+            "Add: \"I'm not praying for a high score. I'm praying the test setter is in a good mood.\"",
+            "Try: \"The gods protecting students who didn't study is the last romance left in this world.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-018",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.dcard.tw/f/whysoserious",
+      "sourceNote": "考生 vs 同學 群組 register — 假裝沒讀 frame",
+      "tags": ["群組", "考試", "假掰", "自嘲", "同學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "班群裡每個人都說：「我都沒讀。」\n結果考完每個人的分數都比我高。\n原來「沒讀」是同學之間的暗號，\n意思是「我讀超多但不想讓你以為我很拼」。",
+          "editorNote": "全台灣班群共同的潛規則，傳出去保證有同學跳出來說「不是啦我真的沒讀」。",
+          "variations": [
+            "進階：「下次有人說沒讀，我會直接回他：『沒讀的話請你連同情都不要給我。』」"
+          ]
+        },
+        "en": {
+          "content": "Everyone in the group chat said: \"I didn't study at all.\"\nThen they all scored higher than me.\nTurns out \"didn't study\" is a secret classmate code for\n\"studied way too much but didn't want to look try-hard.\"",
+          "editorNote": "Universal group-chat law of physics — post and watch a classmate jump in to insist they really didn't study.",
+          "variations": [
+            "Add: \"Next time someone says they didn't study, I'm telling them to keep their pity too.\""
+          ]
+        }
+      }
     }
   ]
 }

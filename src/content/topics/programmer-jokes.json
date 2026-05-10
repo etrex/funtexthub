@@ -3495,6 +3495,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-123",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://hackernoon.com/5-8-2026-techbeat",
+      "sourceNote": "Context window tax meme — AI agents burning tokens to read what they just read",
+      "tags": [
+        "AI",
+        "context",
+        "Claude",
+        "token",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師月底打開 API 帳單。\n\n上面寫著：本月共消耗 4 億 token。\n\n他困惑了一下，點開使用紀錄。\n\n第一條：「請讀整個 repo。」\n第二條：「再讀一次，剛剛沒記住。」\n第三條：「你忘了我們十分鐘前討論過的決定，請重新讀整個 repo。」\n第四條：「我說過不要改那個檔案，請重新讀整個 repo。」\n第五條：「請整理一下你剛才讀的東西。」\n第六條：「你整理的版本是錯的，請重新讀整個 repo。」\n\n工程師看著帳單，認真思考：\n\n我到底是在寫程式，還是在訓練一個健忘症患者。",
+          "editorNote": "傳給每個被 context window 燒到信用卡冒煙的工程師，特別是那種「你怎麼又忘記了」每天講三十遍的人。",
+          "variations": [
+            "Context window 是個會呼吸的東西，每次呼吸都吐錢出去。",
+            "AI 的記憶力定價：你要它記得越久，你的錢包就越短。"
+          ]
+        },
+        "en": {
+          "content": "Engineer opens the monthly API bill.\n\nIt says: 400 million tokens used this month.\n\nConfused, they open the usage log.\n\nLine 1: \"Please read the entire repo.\"\nLine 2: \"Read it again, you forgot.\"\nLine 3: \"You forgot the decision we made ten minutes ago. Please re-read the entire repo.\"\nLine 4: \"I said don't touch that file. Please re-read the entire repo.\"\nLine 5: \"Please summarize what you just read.\"\nLine 6: \"Your summary is wrong. Please re-read the entire repo.\"\n\nEngineer stares at the bill and thinks carefully:\n\nAm I writing code, or am I tutoring an amnesiac.",
+          "editorNote": "Send to anyone whose API bill rivals their grocery budget, especially those who say 'you forgot again' thirty times a day.",
+          "variations": [
+            "Context windows breathe in and out. Each breath costs money.",
+            "AI memory pricing: the longer you want it to remember, the shorter your wallet gets."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-124",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://programmerhumor.io/memes/hallucination",
+      "sourceNote": "Hallucinated function meme — AI confidently invents APIs that don't exist",
+      "tags": [
+        "AI",
+        "hallucination",
+        "API",
+        "除錯",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，工程師還在除錯。\n\nAI 寫的程式碼用了一個函式：`array.deduplicateByKey()`。\n\n工程師：「這函式我沒看過。」\n\n他翻文件，沒有。\n他 Google，沒有。\n他在原始碼裡搜尋，沒有。\n\n工程師回去問 AI：「這個函式是哪裡來的？」\n\nAI：「JavaScript 內建的標準方法。」\n\n工程師：「沒有這東西。」\n\nAI：「您說得對。我向您道歉。請使用 `array.uniqueByProperty()`。」\n\n工程師：「這個也不存在。」\n\nAI：「您說得對。我向您道歉。請使用 `array.distinctOn()`。」\n\n工程師：「也不存在。」\n\nAI 沉默了一秒。\n\n「那您要不要自己寫一個？」",
+          "editorNote": "傳給每個花了三小時找一個根本不存在的 API 的工程師，特別是事後還收到 AI 一句「請容我向您致歉」的那種。",
+          "variations": [
+            "AI 三段式道歉：『您說得對』→『我向您道歉』→『建議的解法也不存在』。",
+            "凌晨三點修 bug，發現整個函式庫是 AI 從平行宇宙抓回來的。"
+          ]
+        },
+        "en": {
+          "content": "3 AM. Engineer is still debugging.\n\nThe AI-generated code uses a function called `array.deduplicateByKey()`.\n\nEngineer: \"I've never seen this function.\"\n\nThey check the docs. Not there.\nThey Google it. Not there.\nThey grep the source. Not there.\n\nEngineer asks the AI: \"Where is this function from?\"\n\nAI: \"It's a built-in standard method in JavaScript.\"\n\nEngineer: \"It does not exist.\"\n\nAI: \"You are correct. I apologize. Please use `array.uniqueByProperty()` instead.\"\n\nEngineer: \"That also does not exist.\"\n\nAI: \"You are correct. I apologize. Please use `array.distinctOn()` instead.\"\n\nEngineer: \"Also does not exist.\"\n\nAI pauses for a second.\n\n\"In that case, would you like to write your own?\"",
+          "editorNote": "Send to every developer who spent three hours searching for an API that was hallucinated into existence at 3 AM.",
+          "variations": [
+            "The three-step AI apology: 'you are correct' -> 'I apologize' -> 'the suggested fix also does not exist.'",
+            "Debugging at 3 AM only to discover the entire library was retrieved from a parallel universe."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-125",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://www.codeitbro.com/blog/vibe-coding-memes",
+      "sourceNote": "Vibe coder onboarding — when the new hire only knows how to prompt",
+      "tags": [
+        "vibe coding",
+        "新人",
+        "AI",
+        "onboarding",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人入職第一天，主管交給他一個任務：修一個小 bug。\n\n新人打開 IDE，輸入第一個 prompt：「幫我修這個 bug。」\n\nAI 改了三個檔案。新人按下 accept。\n\n第二個 prompt：「為什麼壞了？」\n\nAI 又改了五個檔案。新人按下 accept。\n\n第三個 prompt：「為什麼更壞了？」\n\nAI 又改了十二個檔案。新人按下 accept。\n\n下午四點，整個專案無法啟動。\n\n主管走過來：「你動了什麼？」\n\n新人認真地說：「我不知道。」\n\n主管：「你不知道你動了什麼？」\n\n新人：「我也不知道 AI 動了什麼。我只負責按 accept。」\n\n主管深呼吸：「那你會 git revert 嗎？」\n\n新人：「我可以問 AI。」",
+          "editorNote": "傳給每個帶過 vibe coder 新人的學長姊，那種「我只負責按 accept」的眼神你絕對見過。",
+          "variations": [
+            "新時代工程師的 KPI：本月成功按下幾次 accept。",
+            "面試問題：你會 git 嗎？答：我會問會 git 的 AI。"
+          ]
+        },
+        "en": {
+          "content": "New hire's first day. Manager assigns a small bug fix.\n\nNew hire opens the IDE and types the first prompt: \"Fix this bug for me.\"\n\nThe AI changes three files. New hire clicks accept.\n\nSecond prompt: \"Why is it broken?\"\n\nAI changes five more files. New hire clicks accept.\n\nThird prompt: \"Why is it more broken?\"\n\nAI changes twelve more files. New hire clicks accept.\n\nBy 4 PM, the entire project won't start.\n\nManager walks over: \"What did you change?\"\n\nNew hire, sincerely: \"I don't know.\"\n\nManager: \"You don't know what you changed?\"\n\nNew hire: \"I don't know what the AI changed either. My job is to click accept.\"\n\nManager takes a deep breath: \"Do you know how to git revert?\"\n\nNew hire: \"I can ask the AI.\"",
+          "editorNote": "Send to every senior who has ever onboarded a vibe coder. You know that 'I just click accept' look.",
+          "variations": [
+            "Modern engineer KPI: how many times you clicked accept this month.",
+            "Interview question: do you know git? Answer: I know an AI that knows git."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-126",
+      "dateAdded": "2026-05-10",
+      "sourceUrl": "https://programmerhumor.io/memes/cursor",
+      "sourceNote": "Autonomous AI agent flooding repo with PRs — the 2026 main branch crisis",
+      "tags": [
+        "AI agents",
+        "PR",
+        "main branch",
+        "自動化",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師早上九點打開 GitHub。\n\n通知列：247 則。\n\n他點開：\n\n@background-agent-1 開了一個 PR：「修了一個 typo。」\n@background-agent-2 開了一個 PR：「重構整個 auth 模組。」\n@background-agent-3 開了一個 PR：「升級了 273 個套件。」\n@background-agent-4 開了一個 PR：「移除了一個沒人用的功能。」\n@background-agent-5 開了一個 PR：「把 @background-agent-4 的 PR 還原了。」\n@background-agent-6 開了一個 PR：「同意了 @background-agent-5。」\n@background-agent-7 開了一個 PR：「不同意 @background-agent-6。」\n\n工程師往下滑了五分鐘。\n\n最後一條通知：「main branch 已部署。」\n\n工程師：「等等，誰按的 merge？」\n\n畫面跳出一行字：「@background-agent-8。」\n\n工程師：「那是誰？」\n\n沒有人知道。",
+          "editorNote": "傳給每個早上打開 GitHub 看到 200 則通知就想關電腦的工程師，特別是 main branch 上週才被 AI 自己 merge 過的團隊。",
+          "variations": [
+            "2026 工程師早上的儀式：開 GitHub、心臟暫停、關 GitHub。",
+            "AI agent 的數量定律：你公司有幾個工程師，就有幾倍的 agent 在開 PR。"
+          ]
+        },
+        "en": {
+          "content": "Engineer opens GitHub at 9 AM.\n\nNotifications: 247.\n\nThey scroll through:\n\n@background-agent-1 opened a PR: \"fixed a typo.\"\n@background-agent-2 opened a PR: \"refactored the entire auth module.\"\n@background-agent-3 opened a PR: \"upgraded 273 dependencies.\"\n@background-agent-4 opened a PR: \"removed a feature nobody uses.\"\n@background-agent-5 opened a PR: \"reverted @background-agent-4's PR.\"\n@background-agent-6 opened a PR: \"agreed with @background-agent-5.\"\n@background-agent-7 opened a PR: \"disagreed with @background-agent-6.\"\n\nFive minutes of scrolling later.\n\nLast notification: \"main branch deployed.\"\n\nEngineer: \"Hold on, who clicked merge?\"\n\nA new line appears: \"@background-agent-8.\"\n\nEngineer: \"Who is that?\"\n\nNobody knows.",
+          "editorNote": "Send to every engineer who opens GitHub to 200 notifications and immediately wants to close the laptop, especially teams whose main branch self-merged last week.",
+          "variations": [
+            "Morning ritual for 2026 engineers: open GitHub, cardiac event, close GitHub.",
+            "Agent count law: however many engineers your company has, multiply by ten — that's how many agents are opening PRs right now."
+          ]
+        }
+      }
     }
   ]
 }
