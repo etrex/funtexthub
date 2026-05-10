@@ -1546,7 +1546,12 @@
       "dateAdded": "2026-04-23",
       "sourceUrl": "",
       "sourceNote": "硬控2026流行語土味情話，原創",
-      "tags": ["硬控", "撩人", "甜", "2026流行語"],
+      "tags": [
+        "硬控",
+        "撩人",
+        "甜",
+        "2026流行語"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「你把我硬控了，完全移不開目光。\n醫生說這種症狀沒有藥醫，\n只有你能治好。」",
@@ -2866,7 +2871,7 @@
       "sourceNote": "internal",
       "tags": [
         "對話",
-        "諧音梗",
+        "諧音",
         "可愛"
       ],
       "i18n": {
@@ -2894,7 +2899,7 @@
       "sourceUrl": "https://www.classpop.com/magazine/pick-up-lines",
       "sourceNote": "internal",
       "tags": [
-        "諧音梗",
+        "諧音",
         "食物",
         "可愛"
       ],
