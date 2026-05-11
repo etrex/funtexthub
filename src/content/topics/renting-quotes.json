@@ -1,0 +1,430 @@
+{
+  "slug": "renting-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "租屋廢文語錄",
+      "description": "房租、押金、房東、漏水、同居分攤——在外租屋族的厭世日常，每一句都打在心上"
+    },
+    "en": {
+      "title": "Renter Life Quotes",
+      "description": "Rent, deposits, landlords, leaks, splitting bills with your partner — the everyday struggles of renting, told in one-liners"
+    }
+  },
+  "items": [
+    {
+      "id": "rq-001",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://house.ettoday.net/news/2257844",
+      "sourceNote": "房租1萬同居分攤 viral case; rewritten original",
+      "tags": ["房租", "薪水", "上班族", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我房租比我夢想還貴。\n所以我先放棄夢想，繼續繳房租。",
+          "editorNote": "適合傳給剛收到漲租通知的朋友，或自己貼在書桌前提醒自己為什麼又要加班",
+          "variations": [
+            "我月薪三分之一拿去繳房租，三分之一拿去吃飯，剩下三分之一拿去懷疑人生。"
+          ]
+        },
+        "en": {
+          "content": "My rent costs more than my dreams.\nSo I gave up the dreams first to keep paying rent.",
+          "editorNote": "Send to a friend who just got a rent hike notice, or put it on your desk as a reminder of why you're working overtime",
+          "variations": [
+            "A third of my paycheck goes to rent, a third to food, and a third to questioning my life choices."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-002",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://house.ettoday.net/news/2210095",
+      "sourceNote": "說好平分房租男友搬進來耍賴 viral case; rewritten original",
+      "tags": ["同居", "情侶", "分攤", "戀愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同居的意思是：兩個人各付一半房租，一個人付全部的家事。",
+          "editorNote": "傳給那個正在猶豫要不要跟另一半同居的朋友，提醒她先把家事分工講清楚",
+          "variations": [
+            "他說同居可以平分房租，後來才知道他連自己那一半都要我先墊。"
+          ]
+        },
+        "en": {
+          "content": "Cohabitation means splitting rent fifty-fifty, while one of you does a hundred percent of the chores.",
+          "editorNote": "Send to a friend on the fence about moving in with their partner — a warning to settle the chore split first",
+          "variations": [
+            "He said we'd split rent down the middle. Turns out his half also needed to be fronted by me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-003",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/235542745",
+      "sourceNote": "Dcard 租屋倒霉鬼分享; rewritten original",
+      "tags": ["房東", "戀愛", "比較"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟房東的關係比男友還穩定。\n因為男友會分手，房東不會。",
+          "editorNote": "適合單身、住租屋處超過三年的人自嘲，貼在 IG 限動會引共鳴",
+          "variations": [
+            "認識男友兩年，認識房東五年，到底誰才是長期伴侶。"
+          ]
+        },
+        "en": {
+          "content": "My relationship with my landlord is more stable than with my boyfriend.\nBoyfriends break up. Landlords don't.",
+          "editorNote": "Good self-deprecating fodder for single renters of 3+ years — solid Instagram story material",
+          "variations": [
+            "I've known my boyfriend for two years and my landlord for five. Who's actually the long-term partner here?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-004",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/235542745",
+      "sourceNote": "Dcard 漏水 / 半夜共鳴 frame; rewritten original",
+      "tags": ["漏水", "厭世", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "半夜聽到滴滴答答的聲音，\n我以為天花板在漏水，\n結果是我在哭。",
+          "editorNote": "傳給住老公寓、天花板已經滴了三個月還沒修的朋友，先苦笑再認真叫房東",
+          "variations": [
+            "房東說漏水沒那麼嚴重，後來我才發現他指的是他的錢包。"
+          ]
+        },
+        "en": {
+          "content": "Heard a steady drip in the middle of the night.\nThought the ceiling was leaking.\nTurned out it was me crying.",
+          "editorNote": "Send to that friend whose ceiling has been dripping for three months — laugh first, then call the landlord again",
+          "variations": [
+            "Landlord said the leak wasn't serious. Later realized he meant the leak in his wallet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-005",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.housefeel.com.tw/article/4999",
+      "sourceNote": "2026/1/1 租金補貼婚育家庭加碼50%; rewritten original",
+      "tags": ["補助", "單身", "婚育", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "政府說婚育家庭補助加碼五成，\n我只想問——\n那單身的可以加碼五成「找到對象」的機會嗎？",
+          "editorNote": "適合單身上班族在收到補助公告時轉發，反諷又溫和",
+          "variations": [
+            "結婚補助加50%，育兒補助加50%，我連男朋友都沒有，只能領基本盤。"
+          ]
+        },
+        "en": {
+          "content": "The government says married couples get a 50% bigger rent subsidy.\nGreat — can singles get a 50% better chance of finding someone?",
+          "editorNote": "Perfect for single office workers to repost when government subsidy news drops — sarcastic but not bitter",
+          "variations": [
+            "Marriage subsidy plus 50%, childcare subsidy plus 50%. I don't even have a partner, so I get the base rate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-006",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://house.ettoday.net/news/1696464",
+      "sourceNote": "退房押金被刁難 evergreen pain point; rewritten original",
+      "tags": ["押金", "退租", "房東"],
+      "i18n": {
+        "zh-tw": {
+          "content": "退房那天，房東拿著手電筒檢查的認真程度，\n比我面試新工作還高。",
+          "editorNote": "傳給正在準備退租、整天看 YouTube 學房屋清潔的朋友，互相打氣",
+          "variations": [
+            "我面試三場才找到工作，房東檢查兩小時才肯退我一千塊押金。"
+          ]
+        },
+        "en": {
+          "content": "On move-out day, my landlord inspected the apartment with a flashlight more carefully than my last job interviewer reviewed my resume.",
+          "editorNote": "Send to a friend prepping to move out and binge-watching cleaning tutorials — solidarity in suffering",
+          "variations": [
+            "Took three interviews to get my job. Took my landlord two hours to refund a thousand dollars of my deposit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-007",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://memes.tw/wtf?tag=%E7%A7%9F%E5%B1%8B",
+      "sourceNote": "租屋梗圖 寵物禁令 register; rewritten original",
+      "tags": ["寵物", "房東", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：「我們這邊不能養寵物。」\n我說：「沒問題，我連自己都養不起。」",
+          "editorNote": "適合剛搬進新租屋的人 self-aware 自嘲，貼 Threads 引共鳴",
+          "variations": [
+            "房東：「不能養貓狗。」我：「那加班算嗎？我家養了一隻很兇的死線。」"
+          ]
+        },
+        "en": {
+          "content": "Landlord: 'No pets allowed.'\nMe: 'No worries, I can barely afford to keep myself alive.'",
+          "editorNote": "Great for first-time renters to post on Threads — self-aware humor that always lands",
+          "variations": [
+            "Landlord: 'No cats or dogs.' Me: 'Does overtime count? I'm keeping a really angry deadline at home.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-008",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://vocus.cc/article/67e84174fd89780001fe0161",
+      "sourceNote": "房租翻倍漲 evergreen; rewritten original",
+      "tags": ["漲租", "通膨", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：「今年只漲一點點。」\n那「一點點」是兩千。\n我的薪水「一點點」是兩百。",
+          "editorNote": "傳給剛接到漲租通知的朋友，附上一個哭笑不得的表情符號",
+          "variations": [
+            "房租漲幅勝過我升遷幅度，房東比老闆還重視我。"
+          ]
+        },
+        "en": {
+          "content": "Landlord: 'Just a small increase this year.'\nHis 'small' is two thousand.\nMy raise's 'small' is two hundred.",
+          "editorNote": "Send to a friend who just got a rent hike notice — pair it with the laugh-cry emoji",
+          "variations": [
+            "My rent grew faster than my paycheck. My landlord believes in me more than my boss does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-009",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dd-room.com/article/61308168f0e5481aff4ae786",
+      "sourceNote": "看房經驗 591 搜尋疲勞; rewritten original",
+      "tags": ["看房", "591", "找房"],
+      "i18n": {
+        "zh-tw": {
+          "content": "591上的「採光良好」翻譯成中文是：\n白天有光，晚上有蚊子，隔壁有鄰居的人生。",
+          "editorNote": "傳給正在 591 看房看到崩潰的朋友，附上一張你看過最爛的看房照",
+          "variations": [
+            "「近捷運」=走路二十分鐘；「裝潢精美」=家具是別人留下的；「附家電」=只有一台會嘎吱嘎吱的冰箱。"
+          ]
+        },
+        "en": {
+          "content": "'Plenty of natural light' on rental listings translates to:\nLight during the day, mosquitoes at night, and your neighbor's entire life story through the wall.",
+          "editorNote": "Send to a friend losing their mind scrolling rental sites — attach your worst listing photo",
+          "variations": [
+            "'Near the subway' = a twenty-minute walk. 'Beautifully furnished' = previous tenant's leftovers. 'Appliances included' = one wheezing fridge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-010",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/229355829",
+      "sourceNote": "電費水費爆表 register; rewritten original",
+      "tags": ["電費", "水費", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天的電費比我想念前任還高，\n而且還沒辦法假裝忘記。",
+          "editorNote": "適合夏天剛收到電費單的人轉發，效果最好是配一張帳單照片",
+          "variations": [
+            "我跟冷氣的關係比跟前任熱絡，因為冷氣每個月都會找我。"
+          ]
+        },
+        "en": {
+          "content": "My summer electricity bill is higher than the number of times I think about my ex.\nAnd I can't pretend to forget this one.",
+          "editorNote": "Perfect for sharing right after the summer bill arrives — bonus points for attaching a photo of the bill",
+          "variations": [
+            "My AC and I are closer than my ex and I ever were. The AC actually shows up every month."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-011",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/242492554",
+      "sourceNote": "鄰居噪音 register; rewritten original",
+      "tags": ["鄰居", "噪音", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "樓上的鄰居半夜搬家具，\n樓下的鄰居白天練電鋼琴，\n隔壁的情侶二十四小時吵架。\n我終於明白為什麼房租這麼便宜了。",
+          "editorNote": "傳給住老公寓的朋友，互相加油打氣到下個租約結束",
+          "variations": [
+            "我家不是公寓，是 24 小時實境秀，我每個月還付錢看。"
+          ]
+        },
+        "en": {
+          "content": "Upstairs rearranges furniture at 2 a.m.\nDownstairs practices electric piano all day.\nThe couple next door fights twenty-four-seven.\nFinally I understand why the rent is so cheap.",
+          "editorNote": "Send to a friend stuck in an old apartment building — mutual encouragement until the next lease ends",
+          "variations": [
+            "I don't live in an apartment, I live in a 24/7 reality show. And I'm the one paying for it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-012",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/240690831",
+      "sourceNote": "房東報修不回應 register; rewritten original",
+      "tags": ["房東", "報修", "已讀不回"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東收房租的速度比 7-11 快取，\n回報修的速度比公務員蓋章慢。",
+          "editorNote": "適合傳給已經報修一個月還沒結果的朋友，告訴他你也一樣",
+          "variations": [
+            "1號到3號是房東記得我的日子，4號到月底我們互不相識。"
+          ]
+        },
+        "en": {
+          "content": "My landlord collects rent faster than a 7-Eleven self-checkout,\nand responds to repair requests slower than the DMV.",
+          "editorNote": "Send to a friend who's been waiting a month for a repair — let them know they're not alone",
+          "variations": [
+            "From the 1st to the 3rd, my landlord knows me. From the 4th to month-end, we've never met."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-013",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://udn.com/news/story/7272/8234171",
+      "sourceNote": "想同居只願出三千 viral case; rewritten original",
+      "tags": ["同居", "情侶", "蕭貪", "戀愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他說想跟我同居，\n只願意出三千。\n我才知道他不是想跟我住，\n是想跟我房間住。",
+          "editorNote": "傳給正在被另一半要求同居但只出零頭的朋友，提醒她這不是浪漫，是省錢",
+          "variations": [
+            "他說「我們住一起省錢」，重點是他省的，我出的。"
+          ]
+        },
+        "en": {
+          "content": "He said he wanted to move in together.\nOffered to pay three thousand.\nThat's when I realized — he didn't want to live with me.\nHe wanted to live with my room.",
+          "editorNote": "Send to a friend whose partner suggested cohabiting but only offered pocket change — it's not romance, it's a budget hack",
+          "variations": [
+            "He said 'let's live together to save money.' Turns out he saves, and I pay."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-014",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261184055",
+      "sourceNote": "學生越級打怪租房 register; rewritten original",
+      "tags": ["年輕人", "薪水", "成年"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候以為長大就可以擁有自己的房子，\n長大才發現連自己的房間都是用月薪換來的。",
+          "editorNote": "適合畢業後第一次自己租屋的人轉發，新鮮人剛入社會必有共鳴",
+          "variations": [
+            "童年夢想是擁有一間有花園的房子，現在的夢想是冷氣費可以少一千。"
+          ]
+        },
+        "en": {
+          "content": "As a kid I thought growing up meant owning a house.\nGrown up, I realized even my bedroom is something I rent with my paycheck.",
+          "editorNote": "Perfect for new grads renting their first place — every fresh adult will see themselves in this",
+          "variations": [
+            "Childhood dream: a house with a garden. Current dream: an AC bill a thousand dollars lower."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-015",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://house.ettoday.net/news/2360099",
+      "sourceNote": "搬家成本與沉沒成本 register; rewritten original",
+      "tags": ["搬家", "續租", "沉沒成本"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東漲租兩千，我算了一下搬家要花八千，\n所以我決定再被剝兩千一年，然後恨他十二個月。",
+          "editorNote": "傳給又被漲租又懶得搬家的朋友，這就是現代版的沉沒成本",
+          "variations": [
+            "我留下來不是因為愛這個地方，是因為搬家更貴。"
+          ]
+        },
+        "en": {
+          "content": "Landlord raised rent by two thousand. Moving would cost eight thousand.\nSo I'm being squeezed for another year and hating him for twelve straight months.",
+          "editorNote": "Send to a friend who got a rent hike but is too tired to move — modern sunk cost fallacy in action",
+          "variations": [
+            "I'm not staying because I love this place. I'm staying because moving costs more."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-016",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/money/p/256188017",
+      "sourceNote": "情緒房租 register; rewritten original",
+      "tags": ["情緒", "原生家庭", "成年"],
+      "i18n": {
+        "zh-tw": {
+          "content": "住外面的人繳房租，\n住家裡的人繳情緒房租。\n各有各的精彩。",
+          "editorNote": "適合年底回家被親戚問薪水時用，溫和地回擊「我不只是繳房租，我什麼都繳」",
+          "variations": [
+            "我朋友月繳一萬五住套房，我月繳零元住家裡，但每天聽八小時心靈廣播。"
+          ]
+        },
+        "en": {
+          "content": "People who live alone pay rent.\nPeople who live with their parents pay emotional rent.\nEach has its own special flavor.",
+          "editorNote": "Useful for fielding 'so when are you getting your own place' questions at family gatherings — gentle but pointed",
+          "variations": [
+            "My friend pays $500 a month for a studio. I pay zero to live at home and listen to eight hours of unsolicited advice daily."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-017",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://thunderdungeon.com/2026/01/13/25-renter-memes-for-anyone-stuck-in-the-lease-loop/",
+      "sourceNote": "lease loop renter meme; rewritten original",
+      "tags": ["續租", "迴圈", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "簽下這份租約那天我以為是一年，\n結果是七年。\n因為我永遠找不到比這裡更便宜的下一個。",
+          "editorNote": "傳給住同一個地方很多年、明明說要搬卻一直沒搬的朋友——他懂",
+          "variations": [
+            "我說再租一年就搬，這句話我已經說了五次了。"
+          ]
+        },
+        "en": {
+          "content": "I signed this lease thinking it was for one year.\nIt's been seven.\nBecause I'll never find anywhere cheaper than this.",
+          "editorNote": "Send to a friend who's been 'about to move' for years now — they'll feel seen",
+          "variations": [
+            "I said 'one more year and I'm moving.' I've said that five years in a row."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-018",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://cheezburger.com/17697541/the-most-relatable-memes-for-struggling-renters-thatll-make-you-hate-your-evil-landlord-even-more",
+      "sourceNote": "renter hates landlord meme; rewritten original",
+      "tags": ["房東", "理想", "現實"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我理想中的家：陽光、植物、書牆、貓。\n我實際的家：插座少、訊號弱、馬桶會自己叫、貓是隔壁的。",
+          "editorNote": "適合搬家當天發文，把幻想跟現實放一起，朋友圈一定按讚",
+          "variations": [
+            "Pinterest 上的家：北歐風。我家:壁癌風。"
+          ]
+        },
+        "en": {
+          "content": "Dream home: sunlight, plants, bookshelves, a cat.\nActual home: not enough outlets, weak signal, a toilet that sings, and the cat belongs to the neighbor.",
+          "editorNote": "Perfect to post on move-in day — pair the fantasy with the reality, guaranteed likes",
+          "variations": [
+            "Pinterest aesthetic: Scandinavian. Mine: 'still has the mold from last tenant.'"
+          ]
+        }
+      }
+    }
+  ]
+}
