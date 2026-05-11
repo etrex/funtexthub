@@ -1023,6 +1023,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-045",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://twistedsifter.com/2026/04/employee-was-about-to-close-the-store-when-a-customer-entered-5-minutes-before-closing-so-she-confronted-her-and-told-her-to-leave/",
+      "sourceNote": "Reframes the TwistedSifter 2026-04 「打烊前 5 分鐘衝進來」 viral retail story; original 「打烊時間是給員工下班的，不是給您加班的」 boundary-reframe is the rewrite anchor",
+      "tags": ["服務業", "奧客", "零售", "下班"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你們不是還沒關門嗎？」\n「我們九點打烊，現在 8:55。」\n「那還有五分鐘啊。」\n那五分鐘是留給我們關燈、關機、結帳、回家——\n不是留給您悠閒地逛半小時。",
+          "editorNote": "傳給最近被「還有 X 分鐘」綁架的同事。打烊時間是給員工下班用的，不是給客人加班用的。",
+          "variations": [
+            "打烊前五分鐘進來的客人，通常離開的時間是打烊後三十分鐘。"
+          ]
+        },
+        "en": {
+          "content": "\"You're not closed yet, right?\"\n\"We close at 9. It's 8:55.\"\n\"So there's still five minutes.\"\nThose five minutes are for us to shut down the registers, turn off the lights, and go home —\nnot for you to leisurely browse for half an hour.",
+          "editorNote": "Send this to anyone who got hijacked by the \"but you have X minutes left\" line tonight. Closing time is for the staff to clock out — not for customers to clock in.",
+          "variations": [
+            "The customer who walks in five minutes before close usually walks out thirty minutes after it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-046",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://twistedsifter.com/2026/04/customer-criticized-retail-worker-for-not-smiling-so-the-employee-thinks-the-customer-is-really-rude/",
+      "sourceNote": "Reframes the TwistedSifter 2026-04 「客人嫌員工沒微笑」 viral story; cross-pollinates with 獨立評論 「職業性假笑像思覺失調」 angle — original 「微笑不在我的職務說明書」 contract reframe is the rewrite anchor",
+      "tags": ["服務業", "情緒勞動", "微笑", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「你為什麼不笑？」\n我：「您點的是咖啡，還是我的表情？」\n微笑不在這杯飲料的價目表裡，\n也不在我的職務說明書上——\n那是您額外想要的服務，請憑禮貌兌換。",
+          "editorNote": "傳給今天被「為什麼不笑」三個字打斷情緒的同事。微笑是禮物、不是基本配備；您付的錢只買得到飲料，不包含我臉部表情管理。",
+          "variations": [
+            "微笑要用禮貌換，不是用金錢買；您點的菜單裡沒有「員工表情」這個品項。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Why aren't you smiling?\"\nMe: \"Did you order a coffee, or my face?\"\nA smile isn't on this drink's price list,\nand it's not in my job description —\nit's a service you have to pay for in manners, not dollars.",
+          "editorNote": "Send to anyone whose mood got derailed by \"why aren't you smiling?\" today. A smile is a gift, not a standard feature. Your receipt covers the coffee — not my facial muscles.",
+          "variations": [
+            "Smiles are paid for in politeness, not currency. \"Employee expression\" isn't a menu item."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-047",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://twistedsifter.com/2026/05/i-want-her-fired-the-weird-moment-a-customer-escalated-a-five-cent-dispute-directly-to-the-hr-department/",
+      "sourceNote": "Reframes the TwistedSifter 2026-05 「五分錢糾紛打去 HR」 viral story; original 「您為了五塊錢花掉的時薪，比五塊錢貴多了」 cost-benefit reframe is the rewrite anchor",
+      "tags": ["服務業", "奧客", "客訴", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人為了少找五塊錢，\n打電話投訴、要求見店長、\n寫信給總公司、留下一星評論、\n還威脅要叫我滾蛋。\n您今天為了五塊錢花掉的兩個小時，\n換算成您的時薪——\n已經比那五塊錢貴上一百倍。",
+          "editorNote": "傳給最近被「小事大鬧」型客人耗到懷疑人生的同事。客人為五塊錢開的戰，輸的從來不是店家，是他自己的下午。",
+          "variations": [
+            "為五塊錢鬧兩小時的客人，輸的不是五塊錢，是他整個下午。"
+          ]
+        },
+        "en": {
+          "content": "She fought for five cents short on the change —\ncalled to complain, demanded the manager,\nemailed corporate, left a one-star review,\nand threatened to get me fired.\nThe two hours you spent today over five cents,\nat your hourly rate —\nis already a hundred times more expensive than the five cents.",
+          "editorNote": "Send to anyone exhausted by a \"small issue, huge production\" customer. The customer who goes to war over a nickel never loses the nickel — they lose their afternoon.",
+          "variations": [
+            "Two hours of rage for five cents in change. They didn't lose the nickel — they lost the afternoon."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-048",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://twistedsifter.com/2026/05/retail-worker-was-handling-long-lines-with-only-one-other-cashier-on-duty-so-when-a-customer-told-her-to-open-another-till-she-responded-with-sarcasm/",
+      "sourceNote": "Reframes the TwistedSifter 2026-05 「叫我加開收銀台」 viral story; original 「您要的不是一個收銀員，是一台複製機」 manpower-reality reframe is the rewrite anchor",
+      "tags": ["服務業", "奧客", "零售", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「為什麼不多開一台收銀？」\n我：「因為今天就我一個人。」\n客人：「那叫經理出來啊。」\n我：「經理今天請假，由我代理。」\n您要的不是「多一個收銀員」，\n是「多一個我」——\n那不是排班表能解決的，那叫做複製人。",
+          "editorNote": "傳給最近被「為什麼不多開一台」當靶子的同事。我們是員工，不是分裂出來的影分身；人手不夠不是我們的錯，是排班的人沒到場。",
+          "variations": [
+            "「為什麼不多開一台」這個問題，問的是收銀台，但答案永遠不在收銀員身上。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Why don't you open another register?\"\nMe: \"Because I'm the only one here.\"\nCustomer: \"Then get the manager.\"\nMe: \"Manager's off today. I'm covering.\"\nYou don't want \"another cashier\" —\nyou want \"another me.\"\nThat's not a scheduling problem. That's cloning.",
+          "editorNote": "Send to the coworker who got blamed for the line today. We're employees, not shadow clones. \"Not enough staff\" isn't a problem the people behind the register created.",
+          "variations": [
+            "\"Why don't you open another till\" is a question about registers, but the answer never lives at the register."
+          ]
+        }
+      }
     }
   ]
 }

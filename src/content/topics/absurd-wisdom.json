@@ -2985,6 +2985,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-121",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學社交主題原創",
+      "tags": ["廢話文學", "社交", "朋友"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你跟一個人很熟，代表你們很熟。\n\n如果你們不熟，那就是不熟。\n\n所以判斷你們熟不熟，最簡單的方法就是看你們熟不熟。\n\n這個方法雖然繞，但目前沒有更準確的。",
+          "editorNote": "被問到「你跟那個誰很熟嗎」的時候，回這句保證對方不知道該怎麼接",
+          "variations": [
+            "朋友就是會跟你變朋友的人，沒變成朋友的就還不是朋友。",
+            "你認識的人裡面，有一些是熟人，剩下的就是不熟的人。"
+          ]
+        },
+        "en": {
+          "content": "If you're close with someone, it means you're close.\n\nIf you're not close, then you're not close.\n\nSo the easiest way to tell whether you're close is to check whether you're close.\n\nThe method is circular, but currently there's no more accurate one.",
+          "editorNote": "When someone asks 'are you close with that person?' — drop this and watch them malfunction",
+          "variations": [
+            "A friend is someone who has become your friend. Anyone who hasn't, isn't yet.",
+            "Among the people you know, some are close to you. The rest are not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-122",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學戀愛主題原創",
+      "tags": ["廢話文學", "戀愛", "情侶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "戀愛專家指出，談戀愛需要兩個人。\n\n如果只有一個人，那叫單戀。\n\n如果三個人，那叫麻煩。\n\n所以兩個人剛剛好。\n\n但這並不代表兩個人就會在一起，也不代表在一起就會幸福。\n\n總之，戀愛是一件很複雜的事，因為它不簡單。",
+          "editorNote": "情人節單身傳給單身朋友，雙方都會獲得一種沒有用的安慰",
+          "variations": [
+            "喜歡一個人很容易，被一個人喜歡也很容易，但兩件事同時發生就不容易了。",
+            "你愛的人不一定愛你，愛你的人你也不一定愛，所以單身才是常態。"
+          ]
+        },
+        "en": {
+          "content": "Relationship experts have confirmed that dating requires two people.\n\nWith only one person, it's a crush.\n\nWith three, it's a problem.\n\nSo two is the right number.\n\nBut this doesn't mean two people will end up together, nor that being together means happiness.\n\nIn short, love is complicated, because it isn't simple.",
+          "editorNote": "Forward to a single friend on Valentine's Day — you'll both feel a uniquely useless comfort",
+          "variations": [
+            "Liking someone is easy. Being liked is easy. Both happening at once — not easy.",
+            "The person you love may not love you. The person who loves you, you may not love. This is why being single is the default."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-123",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.sohu.com/a/895491666_121124291",
+      "sourceNote": "廢話文學運動健身主題原創",
+      "tags": ["廢話文學", "運動", "健身"],
+      "i18n": {
+        "zh-tw": {
+          "content": "想要變瘦的人，必須做兩件事：少吃跟多動。\n\n少吃就是不要吃太多，多動就是不要動太少。\n\n如果你沒做這兩件事，那你就不會變瘦。\n\n如果你做了，也不一定會變瘦。\n\n但如果你連做都沒做，那肯定不會變瘦。\n\n所以要不要做，看你自己。",
+          "editorNote": "辦了健身房年費卡卻沒去過第二次的朋友，傳這句最有共鳴",
+          "variations": [
+            "運動完會流汗的人，比沒運動的人多流了一點汗。",
+            "減肥最有效的方法，就是真的去減肥。"
+          ]
+        },
+        "en": {
+          "content": "To lose weight, you must do two things: eat less and move more.\n\nEat less means don't eat too much. Move more means don't move too little.\n\nIf you don't do these two things, you won't lose weight.\n\nIf you do, you might still not lose weight.\n\nBut if you don't even try, you definitely won't.\n\nSo whether to do it is up to you.",
+          "editorNote": "Send to a friend who bought a gym membership and only went once — peak relatability",
+          "variations": [
+            "People who exercise tend to sweat more than people who don't.",
+            "The most effective way to lose weight is to actually lose weight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-124",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/434045269",
+      "sourceNote": "廢話文學手機網路主題原創",
+      "tags": ["廢話文學", "手機", "網路"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的手機沒電的時候，會自動關機。\n\n關機之後，你就沒辦法滑手機了。\n\n沒辦法滑手機的時候，你就會去找充電器。\n\n找到充電器之後，你又可以繼續滑手機。\n\n所以手機的續航能力，跟充電器的存在息息相關。",
+          "editorNote": "手機剩5%電量的時候傳到群組，傳完手機就關機了，效果絕佳",
+          "variations": [
+            "Wi-Fi 連得上的時候叫網路，連不上的時候叫人生。",
+            "已讀不回的人，通常是已讀了卻沒回。"
+          ]
+        },
+        "en": {
+          "content": "When your phone runs out of battery, it shuts down.\n\nOnce it shuts down, you can't scroll on it.\n\nWhen you can't scroll, you look for a charger.\n\nOnce you find one, you can scroll again.\n\nSo your phone's battery life is closely tied to whether the charger exists.",
+          "editorNote": "Send this to the group chat when you're at 5 percent — your phone dying right after is the perfect punctuation",
+          "variations": [
+            "When the Wi-Fi works, it's the internet. When it doesn't, it's life.",
+            "People who read your message but don't reply have, in fact, read it without replying."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-125",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "廢話文學購物主題原創",
+      "tags": ["廢話文學", "購物", "消費"],
+      "i18n": {
+        "zh-tw": {
+          "content": "購物的本質，就是把錢換成東西。\n\n換完之後，錢變少，東西變多。\n\n如果你後悔了，可以把東西換回成錢，這叫退貨。\n\n但通常退貨會比購物麻煩，所以大部分人選擇留著東西。\n\n這就是為什麼你家越來越擠，錢包卻越來越扁。",
+          "editorNote": "雙11剁完手回過神來的時候傳給戰友們，療傷效果一流",
+          "variations": [
+            "促銷就是把貴的東西，標上一個比較不貴的價錢。",
+            "你買的東西用得到的話叫必需品，用不到的話叫收藏。"
+          ]
+        },
+        "en": {
+          "content": "The essence of shopping is trading money for things.\n\nAfter the trade, you have less money and more things.\n\nIf you regret it, you can trade the things back for money — that's called a return.\n\nBut returns are usually more annoying than buying, so most people keep the things.\n\nThis is why your home keeps getting more crowded while your wallet keeps getting thinner.",
+          "editorNote": "Send to fellow casualties after a Black Friday haul — instant therapy",
+          "variations": [
+            "A sale is putting a slightly less expensive price tag on an expensive item.",
+            "If you use what you bought, it's a necessity. If you don't, it's a collection."
+          ]
+        }
+      }
     }
   ]
 }

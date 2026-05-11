@@ -425,6 +425,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-019",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://money.udn.com/money/story/5621/9010010",
+      "sourceNote": "2026 租賃法修法 三年租期 漲幅限制; rewritten original",
+      "tags": ["租賃法", "漲租", "三年", "房東"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說新法要保障房客租三年、限制漲幅。\n房東看完，把租約改成兩年十一個月。",
+          "editorNote": "適合在每次租屋政策上新聞時轉發，順便提醒朋友看清楚合約年限",
+          "variations": [
+            "房東不違法，他只是剛好寫到「未滿三年」。"
+          ]
+        },
+        "en": {
+          "content": "News says the new law guarantees three-year leases with capped rent hikes.\nMy landlord read it, then quietly changed the contract to two years and eleven months.",
+          "editorNote": "Good to share whenever new tenant-protection laws hit the news — bonus: remind your friends to actually read the lease length",
+          "variations": [
+            "My landlord isn't breaking the law. He just happens to write 'less than three years' on every contract."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-020",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://house.ettoday.net/news/2054173",
+      "sourceNote": "房東拒絕租屋補助申請 viral case; rewritten original",
+      "tags": ["補助", "房東", "申報", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我想申請租屋補助，房東說：「可以啊，那房租加兩千。」\n所以政府幫我，房東也幫我——幫我把補助送回去。",
+          "editorNote": "傳給準備申請租屋補貼但被房東加價的朋友，順便附上檢舉專線",
+          "variations": [
+            "補助一萬，房租漲兩千，我感謝房東讓我學會什麼叫淨值。"
+          ]
+        },
+        "en": {
+          "content": "I wanted to apply for the rent subsidy. Landlord said: 'Sure — but rent goes up two thousand.'\nThe government helps me. My landlord helps me too — helps the subsidy go right back.",
+          "editorNote": "Send to a friend trying to claim the rent subsidy whose landlord just hiked the price — attach the tip-line number for good measure",
+          "variations": [
+            "Subsidy gives me ten thousand. Landlord raises rent by two thousand. He taught me what 'net value' means."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-021",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://pleated-jeans.com/2026/01/08/funny-memes-for-renters-whove-seen-more-apartments-than-hgtv/",
+      "sourceNote": "2026 renter meme 水槽哀嚎; rewritten original",
+      "tags": ["設備", "老屋", "厭世", "聲音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "租屋的浪漫在於：\n半夜水龍頭會自己哭，\n冰箱會跟你共鳴，\n馬桶比室友更會講話。",
+          "editorNote": "適合老公寓的住戶半夜失眠時發文，那種聲音真的不是錯覺",
+          "variations": [
+            "我家的家電們組了一個樂團，主唱是冰箱，鼓手是馬桶，吉他手是熱水器。"
+          ]
+        },
+        "en": {
+          "content": "The romance of renting:\nThe faucet sobs at midnight,\nThe fridge hums along,\nThe toilet talks more than your roommate.",
+          "editorNote": "Perfect for old-building renters who can't sleep — those noises are real, not in your head",
+          "variations": [
+            "My appliances formed a band. Lead vocals: the fridge. Drums: the toilet. Guitar: the water heater."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-022",
+      "dateAdded": "2026-05-11",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/258995811",
+      "sourceNote": "共生雅房 共用空間 痛點; rewritten original",
+      "tags": ["雅房", "共生", "室友", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "共生公寓的「共生」是真的——\n你的洗髮精跟室友共生，\n你的食物跟蟑螂共生，\n你的睡眠跟隔壁的呼聲共生。",
+          "editorNote": "傳給剛搬進共生公寓的朋友，先預警再陪他渡過第一個月",
+          "variations": [
+            "我以為共生公寓很潮，住進去才發現潮的是浴室的牆壁。"
+          ]
+        },
+        "en": {
+          "content": "Co-living really means co-living:\nYour shampoo lives with your roommate,\nYour food lives with the cockroaches,\nYour sleep lives with the snoring next door.",
+          "editorNote": "Send to a friend just moving into co-living — warn them first, then hold their hand through month one",
+          "variations": [
+            "I thought co-living would be cool and modern. Turns out the only thing 'moist and modern' is the bathroom wall."
+          ]
+        }
+      }
     }
   ]
 }
