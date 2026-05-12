@@ -1,0 +1,358 @@
+{
+  "slug": "pet-memorial-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "寵物離世語錄",
+      "description": "給失去毛孩的家人，那些一時說不出口的話。彩虹橋這端與那端，最溫柔的告別、思念、自責，以及怎麼接住身邊正在心碎的人"
+    },
+    "en": {
+      "title": "Pet Memorial Quotes",
+      "description": "For the families who said goodbye to a furry one. Quiet farewells, the missing days, the what-ifs, and how to hold someone whose heart just broke — words from both sides of the rainbow bridge"
+    }
+  },
+  "items": [
+    {
+      "id": "pm-001",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.hk01.com/寵物/132520/",
+      "sourceNote": "彩虹橋傳說 + 告別期 frame，原創改寫",
+      "tags": ["告別", "彩虹橋", "毛孩"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你只是先去散步了。我會把家門一直留著，等你哪天想回來，隨時都能進來。",
+          "editorNote": "適合做毛孩離世當天或頭七的告別卡片文字，語氣輕、不過度悲傷",
+          "variations": ["你只是先去公園探路了，我會跟上的，慢慢走，不急。"]
+        },
+        "en": {
+          "content": "You just went for a walk a little ahead of me. I'll keep the door open — whenever you find your way home, you can come right in.",
+          "editorNote": "Gentle enough for a memorial card on the day of loss; doesn't push the reader to cry",
+          "variations": ["You're just scouting the park ahead of us. We'll catch up. No rush."]
+        }
+      }
+    },
+    {
+      "id": "pm-002",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://vocus.cc/article/64816167fd89780001e97bf4",
+      "sourceNote": "「謝謝你選我」frame，原創改寫",
+      "tags": ["告別", "感謝", "下輩子"],
+      "i18n": {
+        "zh-tw": {
+          "content": "謝謝你選擇我當你的家人。下輩子如果你還願意，記得再走過來認我，我會在那裡等。",
+          "editorNote": "適合刻在紀念木牌、骨灰罈側標或私訊給自己看的告別語",
+          "variations": ["這輩子當你的人，是我運氣最好的一件事。下輩子請再給我一次機會。"]
+        },
+        "en": {
+          "content": "Thank you for choosing me to be your family. If there's a next life, walk over and recognize me again — I'll be waiting on that corner.",
+          "editorNote": "Works for engraved memorial plaques, urn inscriptions, or a private note to yourself",
+          "variations": ["Being your person in this life was the best luck I've ever had. Please give me a do-over."]
+        }
+      }
+    },
+    {
+      "id": "pm-003",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://pin-animals.com/how-to-say-goodbye-to-my-pet/",
+      "sourceNote": "「空碗不收」具體物件 frame，原創",
+      "tags": ["思念", "日常", "空碗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "碗還擺在原來那個位置。我只是還沒準備好把它收起來——也許下個月，也許明年，也許永遠。",
+          "editorNote": "適合 Threads / IG 文字貼文，描述喪寵後 1-2 週「不知道怎麼整理遺物」的階段",
+          "variations": ["項圈跟牽繩還掛在門口。每次經過我都假裝沒看見。"]
+        },
+        "en": {
+          "content": "The bowl's still in the same spot. I'm just not ready to put it away — maybe next month, maybe next year, maybe never.",
+          "editorNote": "Good for a Threads/IG text post a week or two after the loss — that stage where touching their things feels impossible",
+          "variations": ["The leash and collar still hang by the door. I keep pretending I haven't seen them."]
+        }
+      }
+    },
+    {
+      "id": "pm-004",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://wagwalking.com/daily/23-comforting-rainbow-bridge-quotes-for-grieving-pet-parents",
+      "sourceNote": "Leo Dworken 沙發毛 frame，徹底改寫",
+      "tags": ["思念", "日常", "毛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "沙發上還黏著幾根你的毛，我一直沒拍掉。那是你還住在這個家最後的證據。",
+          "editorNote": "深夜書寫感很重，適合長文社群貼文最後一段或回憶錄收尾",
+          "variations": ["黑色外套永遠有你的毛，怎麼洗都洗不掉。我現在覺得這是好事。"]
+        },
+        "en": {
+          "content": "There are still a few strands of your fur on the couch. I can't bring myself to brush them off — they're the last proof you still live here.",
+          "editorNote": "Quiet, late-night tone — works as the closing line of a longer memorial post",
+          "variations": ["Your fur still shows up on every black sweater I own. I used to fight it. Now I'm grateful."]
+        }
+      }
+    },
+    {
+      "id": "pm-005",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://health.udn.com/health/story/123125/7859116",
+      "sourceNote": "「習慣性叫名字」 surface 觸景生情 frame，原創",
+      "tags": ["思念", "日常", "回家"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班開門那一刻，我還是會習慣性地喊你的名字。然後愣一下，才想起這個家現在只剩我一個聲音。",
+          "editorNote": "用於日常分享，能引出留言區其他人寫自己的毛孩名字，是社群互動性最高的一類",
+          "variations": ["半夜起來上廁所，我還是會踮腳避開那個你以前睡的角落。"]
+        },
+        "en": {
+          "content": "I still call out your name the second I open the door after work. Then I freeze — only one voice answers in this house now.",
+          "editorNote": "Strong engagement hook — comments tend to fill with other people sharing their pet's name",
+          "variations": ["I still tiptoe around that one corner at night, the one you used to sleep in. My head knows. My feet don't."]
+        }
+      }
+    },
+    {
+      "id": "pm-006",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.love-pet.com.tw/adjustion/",
+      "sourceNote": "「如果那天我...」自責期經典 frame，原創",
+      "tags": ["自責", "回想", "釋懷"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我一直在想，如果那天我多陪你一個小時，結局會不會不一樣。後來我才慢慢懂：愛從來不是用秒數在計算的。",
+          "editorNote": "正在自責期的飼主很需要這種「先承認、後鬆綁」的句式，比直接說「不要自責」有效",
+          "variations": ["最近一直回想最後那一週，有些畫面我反覆看了好多次。我知道我在找一個可以原諒自己的破綻。"]
+        },
+        "en": {
+          "content": "I keep replaying that day — what if I'd stayed one more hour. It took me a long time to realize love was never measured in minutes.",
+          "editorNote": "For owners stuck in self-blame: acknowledging the loop first lands better than telling them to stop",
+          "variations": ["I've rewatched the last week in my head a hundred times. I know I'm looking for a flaw I can use to forgive myself."]
+        }
+      }
+    },
+    {
+      "id": "pm-007",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.cigna.com.hk/zh-hant/smarthealth/live/how-to-cope-with-the-loss-of-beloved-pet",
+      "sourceNote": "「牠沒有怪你」 frame，原創改寫",
+      "tags": ["自責", "釋懷", "和解"],
+      "i18n": {
+        "zh-tw": {
+          "content": "最後那段日子，我做的每個決定都在懷疑自己。可是我選擇相信——牠從來沒怪過我，一次都沒有。",
+          "editorNote": "對於「最後送醫 / 不送醫」「安樂死 / 自然走」的決定自責，是這個 register 最常見的痛點",
+          "variations": ["我沒辦法確定那些選擇都對。可是我確定，我做的時候都是在愛你。這就夠了。"]
+        },
+        "en": {
+          "content": "Every decision I made in those last days, I second-guessed. But I've chosen to believe: they never blamed me. Not once.",
+          "editorNote": "Most useful for owners agonizing over euthanasia or end-of-life treatment decisions",
+          "variations": ["I can't promise every choice was right. But I can promise every choice was made out of loving you. That has to be enough."]
+        }
+      }
+    },
+    {
+      "id": "pm-008",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.hk01.com/寵物/26166/",
+      "sourceNote": "「不要說再養一隻」 — 喪寵安慰禁忌，原創改寫",
+      "tags": ["安慰他人", "禁忌", "毛孩是家人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "請不要對剛失去毛孩的人說「再養一隻就好了」。你不會對失去爸媽的朋友這樣說，毛孩在他心裡是同一個位置。",
+          "editorNote": "適合給「不知道怎麼安慰朋友」的人轉發，避免好心做錯事",
+          "variations": ["「不過就一隻狗 / 一隻貓嘛」這句話是地雷。地雷踩了沒辦法說對不起，因為他已經先把你刪掉了。"]
+        },
+        "en": {
+          "content": "Please don't tell someone who just lost a pet to 'just get another one.' You wouldn't say that to someone who lost a parent — to them, it's the same spot in their heart.",
+          "editorNote": "Made for resharing to friends-of-grievers who want to help and don't know how",
+          "variations": ["'It was just a dog' / 'just a cat' is the landmine. Step on it and you can't apologize — they've already unfollowed you."]
+        }
+      }
+    },
+    {
+      "id": "pm-009",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.calm.com/blog/what-to-say-when-someone-loses-a-pet",
+      "sourceNote": "「記得牠的名字」 — 正確安慰方式 frame，原創",
+      "tags": ["安慰他人", "怎麼說", "記得名字"],
+      "i18n": {
+        "zh-tw": {
+          "content": "不需要找漂亮的話。一句「我記得牠叫什麼名字」，比一百句「節哀順變」都更接得住對方。",
+          "editorNote": "提供可立即執行的安慰句型，不講大道理，是這類內容轉發率最高的點",
+          "variations": ["「跟我講講牠平常最愛幹嘛」——這句話一打開，往往就是對方哭三十分鐘然後笑著睡著。"]
+        },
+        "en": {
+          "content": "You don't need perfect words. Saying 'I remember their name' lands softer than a hundred 'sorry for your losses.'",
+          "editorNote": "Actionable, copy-paste comfort — high reshare value because it gives readers something to do tomorrow",
+          "variations": ["'Tell me about their favorite thing to do' — open that door and watch your friend cry for thirty minutes, then fall asleep smiling."]
+        }
+      }
+    },
+    {
+      "id": "pm-010",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://skypost.hk/article/3379134/",
+      "sourceNote": "「陪伴 = 同理感」 — 醫生建議陪伴 frame，原創",
+      "tags": ["安慰他人", "陪伴", "聆聽"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他不需要建議、不需要分析、也不需要被告知「多久會好」。他只需要有人坐在旁邊，讓他想哭就哭，不打斷、不評論。",
+          "editorNote": "「陪伴比建議更有用」是這個 register 唯一不會踩雷的萬用句",
+          "variations": ["想關心，又怕說錯話？就傳一句「我在」。三個字勝過三百字的雞湯。"]
+        },
+        "en": {
+          "content": "They don't need advice. Not analysis, not a healing timeline. Just someone sitting next to them, giving permission to cry — no interruptions, no commentary.",
+          "editorNote": "'Presence over advice' is the one line in this register that never misfires",
+          "variations": ["Want to reach out but scared of saying it wrong? Send 'I'm here.' Three words beat three hundred."]
+        }
+      }
+    },
+    {
+      "id": "pm-011",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.thecomfortcompany.com/blogs/posts/pet-loss-quotes-and-poems",
+      "sourceNote": "Hilary Stanton Zunin 「愛的風險」 frame，原創改寫",
+      "tags": ["撫慰", "愛", "釋懷"],
+      "i18n": {
+        "zh-tw": {
+          "content": "會痛成這樣，是因為當初愛得很深。如果可以回到第一天，你還是會選擇養牠——這個答案，就是所有問題的答案。",
+          "editorNote": "適合喪寵滿月 / 百日 等回望時段，比起急性悲傷期更貼",
+          "variations": ["眼淚不是軟弱。是你曾經這麼用力地愛過一個生命，留下的證據。"]
+        },
+        "en": {
+          "content": "It hurts this much because you loved this much. If you could rewind to day one, you'd still pick them. That answer is the whole point.",
+          "editorNote": "Best for the one-month / hundred-day mark — not the acute first days",
+          "variations": ["Tears aren't weakness. They're the receipt for how hard you let yourself love something."]
+        }
+      }
+    },
+    {
+      "id": "pm-012",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://vocus.cc/article/67aad739fd89780001fc3998",
+      "sourceNote": "「牠留在你身體裡」 frame — 繼續活在習慣裡，原創",
+      "tags": ["撫慰", "延續", "習慣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "牠的身體不在了，可是牠教你輕輕關門、慢慢說話、好好吃飯。這些習慣，是牠永遠留在你身上的那一部分。",
+          "editorNote": "用於告別後 1-3 個月，重新回到日常生活的階段，安撫「我會不會忘記牠」的恐懼",
+          "variations": ["你還會幫食物吹涼、會半夜醒來看一眼空空的床邊。這些動作沒有變成空白，它們變成了愛的形狀。"]
+        },
+        "en": {
+          "content": "Their body's gone, but they taught you to close doors quietly, speak softly, eat slowly. Those habits are the part of them still living inside you.",
+          "editorNote": "For the 1-3 month window, when daily life resumes and the fear becomes 'will I forget them'",
+          "variations": ["You still blow on food before tasting it. You still check the empty bedside at 3am. Those movements didn't go blank — they became the shape of your love."]
+        }
+      }
+    },
+    {
+      "id": "pm-013",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.hk01.com/寵物/132520/",
+      "sourceNote": "彩虹橋傳說 + 「下班回家」 frame 合流，原創改寫",
+      "tags": ["撫慰", "彩虹橋", "再相見"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說，毛孩會在彩虹橋的那一端等著。等到你也走過去的那天，牠會搖著尾巴衝過來，就像每次你下班回家那樣。",
+          "editorNote": "彩虹橋是這個 register 的標誌符號。家人朋友也容易理解、容易共鳴",
+          "variations": ["你只是先到了那邊。等我也到了的時候，第一件事是抱抱你，問你這幾年過得怎麼樣。"]
+        },
+        "en": {
+          "content": "They say our pets wait at the other end of the rainbow bridge. And on the day you finally walk across, they'll come running with their tail going wild — exactly the way they did every time you came home from work.",
+          "editorNote": "Rainbow bridge is the universal symbol here. Friends and family who never met your pet will still get it",
+          "variations": ["You're just there a little earlier than me. When I get there, the first thing I'm doing is hugging you and asking how the years have been."]
+        }
+      }
+    },
+    {
+      "id": "pm-014",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.love-pet.com.tw/adjustion/",
+      "sourceNote": "「最後一句話」 frame — 安樂死 / 最後時刻場景，原創",
+      "tags": ["告別", "最後", "勇敢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在你閉上眼睛之前，我俯下身輕輕說：「沒事了，去玩吧。這次換你先去探險，我會慢慢跟上。」",
+          "editorNote": "適合送行當下 / 火化前的內心獨白，重情緒場景使用",
+          "variations": ["最後我沒哭，因為我想讓你聽到的最後一個聲音，是我說「謝謝你」的時候。"]
+        },
+        "en": {
+          "content": "Before you closed your eyes, I leaned down and whispered: 'It's okay. Go play. You scout ahead this time — I'll catch up when I can.'",
+          "editorNote": "Heaviest emotional weight — meant for the moment of euthanasia or right before cremation",
+          "variations": ["I didn't cry at the end. I wanted the last sound you heard from me to be 'thank you.'"]
+        }
+      }
+    },
+    {
+      "id": "pm-015",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://orange.udn.com/orange/story/121407/5974603",
+      "sourceNote": "「身體還記得」 frame — 觸景生情具體場景，原創",
+      "tags": ["思念", "日常", "身體記憶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我還是會繞開沙發上的某個角落，因為那是你以前最愛趴的地方。腦袋知道你不在了，可是身體還沒跟上。",
+          "editorNote": "「腦袋 vs 身體」對照是這種思念 register 最有畫面感的句式",
+          "variations": ["購物車滑到罐頭那一頁，我會自動跳過。一個禮拜後我才發現自己在跳過。"]
+        },
+        "en": {
+          "content": "I still walk around a certain corner of the couch because that's where you used to curl up. My head knows you're gone — my body hasn't caught up yet.",
+          "editorNote": "The 'head knows, body doesn't' contrast is the most vivid frame in this longing register",
+          "variations": ["I auto-skip the canned-food aisle when I shop. Took me a week to notice I was skipping it."]
+        }
+      }
+    },
+    {
+      "id": "pm-016",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.codapet.com/pet-loss-and-grief/what-to-say-to-someone-whose-pet-dies-a-guide-to-offering-comfort-and-support",
+      "sourceNote": "「決定送行不是放棄」 — 安樂死自責 frame，原創",
+      "tags": ["自責", "安樂死", "放手"],
+      "i18n": {
+        "zh-tw": {
+          "content": "決定送你最後一程那天，我不是在放棄你。我是用最後的勇氣告訴你：「你已經很努力了，可以不用再撐了。」",
+          "editorNote": "安樂死自責是這個 register 最重的痛點。先把「放棄」重新定義成「勇氣」，才接得住",
+          "variations": ["放手不是不愛了。是因為太愛了，所以不忍心讓你再陪我下去。"]
+        },
+        "en": {
+          "content": "The day I let you go wasn't giving up. It was spending the last of my courage to tell you: 'You fought hard enough. You don't have to hold on anymore.'",
+          "editorNote": "Euthanasia guilt is the heaviest weight in this register. Reframing 'giving up' as 'courage' is what makes it land",
+          "variations": ["Letting go wasn't loving less. It was loving so much I couldn't bear to keep you here for my sake."]
+        }
+      }
+    },
+    {
+      "id": "pm-017",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.prettyfluffy.com/pet-lifestyle/touching-pet-loss-quotes-pet-memorial-sayings",
+      "sourceNote": "「夢裡來看我」 frame — 思念延伸，原創",
+      "tags": ["思念", "夢", "再相見"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我希望你今晚能來我夢裡。哪怕只是繞我腳邊走一圈、搖一下尾巴，我都會記得很久、很久。",
+          "editorNote": "「夢裡來看我」是亞洲文化裡溫和的思念符號，沒有彩虹橋那麼宗教感",
+          "variations": ["你最近沒來過我夢裡。我知道你過得很好，但我有點貪心，想再多看你一眼。"]
+        },
+        "en": {
+          "content": "I hope you visit me in a dream tonight. Even just one loop around my feet, one tail wag — I'll hold onto it for a long, long time.",
+          "editorNote": "Dream visitation is a gentler longing motif — softer than the rainbow bridge, less ceremonial",
+          "variations": ["You haven't been in my dreams lately. I know you're okay over there — I'm just being greedy, wanting one more look."]
+        }
+      }
+    },
+    {
+      "id": "pm-018",
+      "dateAdded": "2026-05-12",
+      "sourceUrl": "https://www.everplans.com/articles/what-to-say-to-someone-grieving-the-loss-of-a-pet-and-things-you-should-never-say",
+      "sourceNote": "「再養一隻 ≠ 取代」 frame — 撫慰決策層 frame，原創",
+      "tags": ["撫慰", "再養", "取代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "再養一隻不是「取代」，是繼續學會去愛。如果你還沒準備好，那也很好；如果你準備好了，牠不會吃醋的。",
+          "editorNote": "適合喪寵半年以上、開始猶豫要不要再養的時段，給雙向許可（養 / 不養都對）",
+          "variations": ["你以後養的每一隻，都會帶一點點牠的痕跡。所以牠並沒有真的離開過。"]
+        },
+        "en": {
+          "content": "Adopting again isn't replacing them — it's continuing to know how to love. If you're not ready, that's okay. If you are, they won't be jealous.",
+          "editorNote": "For the 6+ month mark when adopting-again becomes a question — gives permission either way",
+          "variations": ["Every pet you ever adopt after this one will carry a little of them in it. They never really left."]
+        }
+      }
+    }
+  ]
+}
