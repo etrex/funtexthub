@@ -353,6 +353,82 @@
           "variations": ["Every pet you ever adopt after this one will carry a little of them in it. They never really left."]
         }
       }
+    },
+    {
+      "id": "pm-019",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://petcomfortvet.com/blog/26-powerful-pet-loss-and-love-quotes",
+      "sourceNote": "「悲傷是愛的代價」英女王語錄 frame，徹底改寫",
+      "tags": ["撫慰", "悲傷", "愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在這麼痛，是因為當初你把整顆心都給了出去。悲傷不是壞掉的訊號，是愛在結帳。",
+          "editorNote": "適合用在朋友自責「為什麼我哭這麼久還沒好」的時候，把悲傷正常化",
+          "variations": ["你會難過這麼久，剛好證明牠在你心裡住的位置有多大。", "心碎不是你軟弱，是你願意去愛的證書。"]
+        },
+        "en": {
+          "content": "It hurts this much because you handed over your whole heart. Grief isn't a glitch — it's love settling the bill.",
+          "editorNote": "Use when a friend feels broken because they're 'still not over it' — normalizes the long timeline",
+          "variations": ["The length of your grief is just proof of how much space they took up in your heart.", "A broken heart isn't weakness. It's the certificate that says you were brave enough to love."]
+        }
+      }
+    },
+    {
+      "id": "pm-020",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://www.lungyen.org.tw/OnePage.aspx?tid=160&id=255",
+      "sourceNote": "「笑著送你」 frame — 龍巖告別觀，原創改寫",
+      "tags": ["告別", "笑著送你", "勇敢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我答應過你，最後不會哭得讓你擔心。所以那天我笑著揮手，等你轉過彎，才慢慢蹲下來。",
+          "editorNote": "「在牠面前撐住、轉身才崩潰」是飼主普遍共鳴的場景，畫面感很強",
+          "variations": ["我把眼淚先收進口袋，是要讓你最後看到的我，是平常那個笑笑的我。"]
+        },
+        "en": {
+          "content": "I promised you I wouldn't cry hard enough to worry you. So I smiled and waved that day, then waited until you turned the corner before I let myself fall.",
+          "editorNote": "Holding it together in front of the pet, then breaking after — universally relatable scene",
+          "variations": ["I tucked the tears into my pocket so the last version of me you saw was the everyday one, smiling."]
+        }
+      }
+    },
+    {
+      "id": "pm-021",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://www.hotpets.com.tw/pet-passed-away/",
+      "sourceNote": "「寫信給毛孩」儀式 frame，原創",
+      "tags": ["思念", "儀式", "寫信"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我開始每個禮拜寫一封信給你。沒有信箱可以寄，可是寫完以後，房間會比平常安靜一點點——我知道你有讀到。",
+          "editorNote": "提供具體可執行的療癒儀式，比抽象安慰更實用，適合放在心理衛教類貼文",
+          "variations": ["寫到一半我會停下來等你回我，然後笑自己。可是那一秒的等待，真的很值得。"]
+        },
+        "en": {
+          "content": "I started writing you a letter every week. There's no address to send them to, but after I finish, the room goes a little quieter than usual — that's how I know you read it.",
+          "editorNote": "An actionable healing ritual; lands better than abstract reassurance in mental-health-style posts",
+          "variations": ["Sometimes I pause mid-letter, waiting for you to answer. Then I laugh at myself. But that one second of waiting is worth everything."]
+        }
+      }
+    },
+    {
+      "id": "pm-022",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://www.thegiftedtree.com/the-write-stuff/loss-of-pet-sympathy-message-suggestions/",
+      "sourceNote": "「分享一個你記得的細節」 — 同理安慰具體化 frame，原創",
+      "tags": ["安慰他人", "分享回憶", "怎麼說"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別只說「節哀」。挑一個你記得的小細節跟對方說：「我永遠記得牠看到你的時候，尾巴會搖到整個屁股都歪掉。」這一句，比花籃還貴重。",
+          "editorNote": "把「不知道怎麼安慰」變成「找一個具體回憶」，是社群最容易實作的同理技巧",
+          "variations": ["如果你跟那隻毛孩有過任何互動，把那一刻寫下來傳給飼主。一句具體的回憶，能讓對方確認牠真的活過。"]
+        },
+        "en": {
+          "content": "Don't just say 'sorry for your loss.' Pick one detail you remember and tell them: 'I'll never forget how their tail wagged so hard the whole back end swung sideways when they saw you.' That single line is worth more than flowers.",
+          "editorNote": "Turns 'I don't know what to say' into 'find one specific memory' — the most actionable empathy technique on social",
+          "variations": ["If you ever met their pet, write down one moment and send it. A specific memory proves to the griever that their pet really existed in someone else's world too."]
+        }
+      }
     }
   ]
 }

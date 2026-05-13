@@ -551,6 +551,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-024",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "考試象形文字 register — 看不懂題目 frame 在地化",
+      "tags": ["考試", "看不懂", "自嘲", "廢文", "象形文字"],
+      "i18n": {
+        "zh-tw": {
+          "content": "翻開考卷的那一刻，\n我以為自己誤拿到了甲骨文期中考。\n每個字我都認識，組合起來像是來自另一個朝代的密語。",
+          "editorNote": "拿到考卷瞬間的眼神死，配張一臉茫然的考生迷因效果最強。",
+          "variations": [
+            "可以換成：「題目我都看得懂，意思我都看不懂。」",
+            "進階：「這張考卷不是中文，是中文的鄉音版。」"
+          ]
+        },
+        "en": {
+          "content": "The moment I opened the paper,\nI thought I'd picked up a hieroglyphics midterm by mistake.\nI knew every word — together they read like a code from another dynasty.",
+          "editorNote": "Universal 'what is this question even asking' face — pair with a confused-blink meme.",
+          "variations": [
+            "Try: \"I understand each word. I don't understand the sentence.\"",
+            "Add: \"This isn't a test. It's a treasure map without the X.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-025",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "115 會考 5/16-17 倒數三天 register — 松鼠埋核桃 比喻在地化",
+      "tags": ["國中會考", "考試", "記憶", "松鼠", "115會考"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考前複習，像松鼠在找牠去年埋的核桃。\n我知道我讀過，\n我也知道它就在腦袋裡某個角落，\n可是它在哪、長什麼樣子、我完全沒印象。",
+          "editorNote": "115 會考前三天的內心戲，配張翻書翻到爛的桌面照超寫實。",
+          "variations": [
+            "可以加：「最後我選擇相信考場的氣氛會幫我把它挖出來。」",
+            "也能寫成：「我背過，只是它跟我玩躲貓貓。」"
+          ]
+        },
+        "en": {
+          "content": "Cramming before an exam is like being a squirrel hunting for nuts it buried last winter.\nI know I studied it.\nI know it's somewhere in my brain.\nI have no idea where, what shape, or whether it's still alive.",
+          "editorNote": "Peak countdown-week mood — works for any finals, any country, any species.",
+          "variations": [
+            "Add: \"I'm trusting the vibes in the exam hall to dig it up for me.\"",
+            "Try: \"I memorized it. It's just playing hide and seek.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-026",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://smartsmssolutions.com/resources/blog/sms-templates/business-message-templates/60-funny-motivational-quotes-for-college-exams-to-beat-study-stress",
+      "sourceNote": "考試恐懼動力學 register — 純恐懼驅動 frame",
+      "tags": ["恐懼", "考試", "拖延", "自嘲", "動力"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的讀書動力來源不是夢想，\n是「再不讀就完蛋了」的純粹恐懼。\n所以我不是在進步，我是在逃命。",
+          "editorNote": "適合考前一晚邊抖邊讀書的限動文案，留言區會出現「我也是」的接龍。",
+          "variations": [
+            "也能說：「夢想推不動我，恐懼可以。所以我每天都在被恐懼追著跑。」",
+            "進階：「努力 = 害怕的具象化。」"
+          ]
+        },
+        "en": {
+          "content": "My motivation isn't dreams or goals.\nIt's pure fear of what happens if I don't open this book.\nSo I'm not making progress — I'm running for my life.",
+          "editorNote": "The honest version of every motivational poster — drop it the night before a final.",
+          "variations": [
+            "Add: \"Dreams can't move me. Fear can. So I spend my days outrunning fear.\"",
+            "Try: \"Effort is just fear with better posture.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-027",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://snugfam.com/150-best-quotes-for-students-funny-enough-to-make-you-laugh-through-finals-week/",
+      "sourceNote": "考試 = 期末關卡 register — 遊戲化比喻 frame",
+      "tags": ["考試", "遊戲", "比喻", "自嘲", "魔王"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試就像遊戲的最終魔王戰。\n差別是：遊戲打輸可以讀檔，\n考試打輸要等下一年改版重練。\n而且裝備不能繼承，技能要重點，連角色都會老一歲。",
+          "editorNote": "適合愛打電動的考生群組，傳出去同學會回「我已經 NG 兩次了」。",
+          "variations": [
+            "可以加：「補習班是付費攻略本，老師是 NPC，命題老師是隱藏 boss。」",
+            "也能寫成：「考試的存檔點只有一個，就是放榜那天。」"
+          ]
+        },
+        "en": {
+          "content": "Exams are basically the final boss fight.\nDifference: in a game you can reload your save.\nIf you lose the exam, you wait a whole year for the next patch, your gear doesn't carry over, your skill tree resets, and your character ages one year.\nWorst respawn system ever designed.",
+          "editorNote": "Gamer-brain humor — perfect for the group chat where everyone speed-runs studying.",
+          "variations": [
+            "Add: \"Cram school is the paid strategy guide. Teachers are NPCs. The test setter is the hidden boss.\"",
+            "Try: \"The only save point is results day.\""
+          ]
+        }
+      }
     }
   ]
 }

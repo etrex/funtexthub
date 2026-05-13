@@ -517,6 +517,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-023",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://house.ettoday.net/news/2277385",
+      "sourceNote": "3名目扣押金1萬4 viral case; rewritten original",
+      "tags": ["押金", "房東", "退租", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東退我押金的時候，列了三個項目：\n清潔不周、鑰匙少一支、瀝水籃沒還。\n我這才知道，原來我租的不是房子，是博物館。",
+          "editorNote": "傳給剛被房東以奇怪名目扣押金的朋友，附上消保官電話",
+          "variations": [
+            "押金兩萬，退我六千，剩下一萬四是房東幫我上的「成年人速成班」學費。"
+          ]
+        },
+        "en": {
+          "content": "When my landlord refunded my deposit, he itemized three deductions:\nincomplete cleaning, one missing key, and the dish rack I forgot to return.\nThat's when I realized — I hadn't rented an apartment, I'd rented a museum.",
+          "editorNote": "Send to a friend whose landlord just invented creative deduction reasons — attach the tenant hotline for backup",
+          "variations": [
+            "Deposit was twenty thousand. Got six thousand back. The other fourteen thousand was tuition for the landlord's crash course in adulthood."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-024",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://house.ettoday.net/news/2271593",
+      "sourceNote": "準時交租仍被斷水電 viral case; rewritten original",
+      "tags": ["房東", "水電", "惡房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我每個月一號準時繳房租，\n房東每個月二號準時斷我水電。\n原來他不是收租，是在跟我玩躲貓貓。",
+          "editorNote": "適合住到惡房東、月月被斷水電的朋友拿去發限動，順便求救",
+          "variations": [
+            "我交房租比交作業還勤勞，房東斷我水電比老師退我作業還快。"
+          ]
+        },
+        "en": {
+          "content": "I pay rent on the first of every month, right on time.\nMy landlord cuts off my water and power on the second, right on time.\nTurns out he isn't collecting rent — he's playing hide and seek.",
+          "editorNote": "Perfect for renters dealing with a vindictive landlord — post it as a story and call for backup",
+          "variations": [
+            "I pay rent more reliably than I turned in homework. My landlord cuts off utilities faster than my teacher returned a failing grade."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-025",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "rent portal tipping meme 2026; rewritten original",
+      "tags": ["線上繳費", "通膨", "荒謬", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在連線上繳房租的頁面都跳出來問：\n「要不要給房東一點小費？」\n我都已經把命給他了，還要小費？",
+          "editorNote": "適合每次繳房租被手續費坑的朋友轉發，這個世界真的越來越荒謬",
+          "variations": [
+            "繳房租要手續費，刷卡有點數限制，匯款要帶身分證——房東是不是金融機構？"
+          ]
+        },
+        "en": {
+          "content": "Now even the rent payment page asks:\n'Would you like to leave a tip for your landlord?'\nI already gave him my soul. He wants a tip too?",
+          "editorNote": "Send to a friend who's been nickel-and-dimed by rent platform fees — the world keeps getting more absurd",
+          "variations": [
+            "Convenience fee to pay rent, points cap on the credit card, ID required to wire transfer — is my landlord a bank now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-026",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://pleated-jeans.com/2026/01/08/funny-memes-for-renters-whove-seen-more-apartments-than-hgtv/",
+      "sourceNote": "landlord white paint cover-up meme; rewritten original",
+      "tags": ["油漆", "裝潢", "房東", "幻滅"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：「房子剛重新粉刷過，很新喔！」\n我搬進去三天，白漆下面開始浮出前任房客的人生故事。",
+          "editorNote": "傳給剛搬進「翻新出租屋」的朋友，提醒他撕壁紙之前先深呼吸",
+          "variations": [
+            "房東的白漆是 Photoshop 的修圖筆，蓋住了壁癌、塗鴉、跟一段不可告人的歷史。"
+          ]
+        },
+        "en": {
+          "content": "Landlord: 'Freshly repainted, practically new!'\nThree days in, the previous tenant's life story starts seeping through the white coat.",
+          "editorNote": "Send to a friend who just moved into a 'newly renovated' rental — tell them to take a deep breath before peeling anything",
+          "variations": [
+            "A landlord's white paint is Photoshop's healing brush — covering mold, graffiti, and one suspiciously specific stain."
+          ]
+        }
+      }
     }
   ]
 }

@@ -3743,6 +3743,128 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-131",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Vibe coding culture meme — non-engineers shipping apps from emoji prompts in 2026",
+      "tags": [
+        "vibe coding",
+        "AI",
+        "新創",
+        "2026",
+        "現實"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「請問你會什麼程式語言？」\n\n2026 年的求職者深吸一口氣，露出自信的微笑：「我精通『中文』、『英文』，還有最重要的——『情緒勒索』。」\n\n面試官皺眉：「情緒勒索？」\n\n求職者：「對。當 AI 不照我意思寫的時候，我會說『你是不是不愛我了』，它就會立刻道歉，然後重寫整個專案。」\n\n面試官沉默三秒，緩緩點頭：「歡迎加入我們，您的職稱是『資深 Vibe Coder』，年薪三百萬。」\n\n旁邊的資深工程師看著電腦，手裡握著用了八年的 vim 設定檔，眼神空洞。",
+          "editorNote": "傳給任何還在認真寫 code 的工程師朋友，讓他們知道自己已經被時代拋下了（其實沒有，但這個梗很好笑）。",
+          "variations": [
+            "現在最值錢的不是會寫 code，而是會跟 AI 撒嬌。",
+            "Vibe Coder 履歷必備技能：emoji 駕馭、語氣調教、AI 心理諮商。"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"What programming languages do you know?\"\n\nThe 2026 candidate takes a deep breath and smiles confidently: \"I'm fluent in English, Mandarin, and most importantly — emotional manipulation.\"\n\nInterviewer raises an eyebrow: \"Emotional manipulation?\"\n\nCandidate: \"Yeah. When the AI doesn't write what I want, I just say 'I guess you don't care about me anymore,' and it immediately apologizes and rewrites the entire codebase.\"\n\nThe interviewer pauses for three seconds, then slowly nods: \"Welcome aboard. Your title is Senior Vibe Coder. Starting salary three hundred grand.\"\n\nNearby, a senior engineer stares at their screen, clutching an eight-year-old vim config, eyes empty.",
+          "editorNote": "Send to any engineer still writing code by hand — let them know they've been left behind by history (they haven't, but the bit is funny).",
+          "variations": [
+            "In 2026, the most valuable skill isn't coding — it's flirting with the AI.",
+            "Required skills on a Vibe Coder resume: emoji fluency, tone tuning, AI emotional support."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-132",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://punsplanet.com/programmer-jokes/",
+      "sourceNote": "Classic programmer self-deprecation, refreshed for the AI agent era",
+      "tags": [
+        "工程師日常",
+        "AI",
+        "code review",
+        "甩鍋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM 衝進工程師的座位，臉色鐵青：「線上炸了！誰寫的這段 code？」\n\n工程師慢慢轉過椅子，神情淡定地說：「git blame 查一下。」\n\nPM 查完，露出勝利的微笑：「就是你寫的。」\n\n工程師面不改色：「啊，那是去年的我，不是現在的我。去年的我已經死了，現在的我是被 AI 重新孕育出來的新人類，對那段 code 不負任何責任。」\n\nPM：「⋯⋯那這段是誰要修？」\n\n工程師打開 Claude Code，雙手合十：「明年的我。」",
+          "editorNote": "傳給每個被 git blame 抓出來還能臉不紅氣不喘的資深工程師，這就是經驗。",
+          "variations": [
+            "工程師三大時態：去年的我寫的、今年的我看不懂、明年的我來修。",
+            "甩鍋大師的最高境界：把責任甩給時間軸上不同的自己。"
+          ]
+        },
+        "en": {
+          "content": "The PM storms over to the engineer's desk, face dark: \"Production is on fire! Who wrote this code?!\"\n\nThe engineer slowly swivels in their chair, completely unbothered: \"Run git blame.\"\n\nThe PM runs it, then grins triumphantly: \"It was YOU.\"\n\nThe engineer doesn't flinch: \"Ah, but that was Last-Year Me. Last-Year Me is dead. Current Me was reborn by AI and bears no responsibility for that code.\"\n\nPM: \"...so who's fixing this?\"\n\nThe engineer opens Claude Code and presses their palms together: \"Next-Year Me.\"",
+          "editorNote": "Send to every senior engineer who can stare down a git blame without breaking eye contact. That's experience.",
+          "variations": [
+            "An engineer's three tenses: Last-Year Me wrote it, Current Me can't read it, Next-Year Me will fix it.",
+            "Peak blame-shifting: pinning it on a different version of yourself on the timeline."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-133",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://www.blocktempo.com/amd-director-claude-code-thinking-depth-drops-api-cost-explodes/",
+      "sourceNote": "Riffing on the 2026 'Claude Code got dumber' discourse and rising API costs",
+      "tags": [
+        "AI",
+        "API 費用",
+        "Claude Code",
+        "2026",
+        "錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師打開信用卡帳單，臉色瞬間發白。\n\n太太走過來，溫柔地問：「老公，這個月帳單怎麼又這麼多？是不是又買什麼了？」\n\n工程師沉默了五秒，緩緩開口：「沒有⋯⋯我只是叫 AI 幫我寫了一個按鈕。」\n\n太太：「一個按鈕要多少錢？」\n\n工程師：「⋯⋯八萬七。」\n\n太太：「為什麼？！」\n\n工程師：「因為它思考了很久。它先問我這個按鈕的人生意義，然後分析了五十個 design pattern，重構了整個專案三次，最後告訴我『你說得對，我向您道歉』，然後刪掉那個按鈕。」\n\n太太：「那按鈕呢？」\n\n工程師打開螢幕，畫面空白：「它說它需要再思考一下。」",
+          "editorNote": "傳給每個月底看到 API 帳單想哭的獨立開發者，懂的人都懂那種痛。",
+          "variations": [
+            "2026 工程師的奢侈品：不是名牌包，是 Claude 月費 Pro Max Ultra 方案。",
+            "讓 AI 幫你寫一個按鈕的代價：你的房租。"
+          ]
+        },
+        "en": {
+          "content": "The engineer opens the credit card statement. Their face drains of color.\n\nTheir partner walks over, voice gentle: \"Babe, why is this month's bill so high again? Did you buy something?\"\n\nThe engineer is silent for five seconds, then slowly says: \"No... I just asked the AI to build me a button.\"\n\nPartner: \"How much does one button cost?\"\n\nEngineer: \"...two thousand eight hundred dollars.\"\n\nPartner: \"WHY?!\"\n\nEngineer: \"Because it thought really hard. First it asked me about the button's purpose in life, then it analyzed fifty design patterns, refactored the entire project three times, and finally told me 'you are correct, I apologize' and deleted the button.\"\n\nPartner: \"So where's the button?\"\n\nThe engineer opens the screen. It's blank: \"It says it needs to think a little more.\"",
+          "editorNote": "Send to every indie dev who cries at their end-of-month API bill. If you know, you know.",
+          "variations": [
+            "Luxury items for 2026 engineers: not designer bags — Claude Pro Max Ultra subscription.",
+            "The cost of asking AI to build you a button: your rent."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-134",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Programming in 2026 meme — humans demoted to AI babysitters",
+      "tags": [
+        "AI agent",
+        "工作日常",
+        "2026",
+        "存在主義"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師日常：\n\n早上九點：打開電腦，問 AI「今天該做什麼？」\n\n九點半：AI 已經寫完三個功能、修了五個 bug、merge 了七個 PR。\n\n十點：工程師打開 PR review，按下 approve，連 diff 都沒看。\n\n十一點：AI 部署上線。\n\n十一點半：線上炸了。\n\n十二點：工程師問 AI：「怎麼修？」\n\nAI：「您說得對，我向您道歉。我建議您回滾。」\n\n下午一點：rollback。\n\n下午兩點：AI 重新部署。\n\n下午兩點半：又炸了。\n\n下午三點到五點：工程師看 AI 跟 AI 互相 review code，三個 agent 在 Slack 上互相道歉。\n\n下午六點：工程師下班。\n\n他這一整天唯一寫的程式碼，是一個按下 enter 鍵的動作。",
+          "editorNote": "傳給每個現在工作時間 80% 都在看 AI 跟 AI 講話的工程師，這就是 2026 年的真實寫照。",
+          "variations": [
+            "工程師的新工作內容：監督 AI 跟 AI 開會。",
+            "2026 年最忙的不是工程師，是工程師的 AI agent。"
+          ]
+        },
+        "en": {
+          "content": "A day in the life of a 2026 engineer:\n\n9:00 AM: Open laptop. Ask the AI: \"What am I doing today?\"\n\n9:30 AM: AI has already shipped three features, fixed five bugs, and merged seven PRs.\n\n10:00 AM: Engineer opens the PR review, hits approve, doesn't read the diff.\n\n11:00 AM: AI deploys to production.\n\n11:30 AM: Production is on fire.\n\n12:00 PM: Engineer asks the AI: \"How do we fix it?\"\n\nAI: \"You are correct, I apologize. I recommend rolling back.\"\n\n1:00 PM: Rollback.\n\n2:00 PM: AI redeploys.\n\n2:30 PM: On fire again.\n\n3:00 PM to 5:00 PM: Engineer watches AI review another AI's code. Three agents apologize to each other in Slack.\n\n6:00 PM: Engineer logs off.\n\nThe only line of code they wrote all day was pressing the enter key.",
+          "editorNote": "Send to every engineer whose workday is now 80% watching AIs talk to other AIs. This is 2026.",
+          "variations": [
+            "New engineer job description: supervise AI agents while they hold meetings with other AI agents.",
+            "The busiest person in 2026 isn't the engineer — it's the engineer's AI agent."
+          ]
+        }
+      }
     }
   ]
 }

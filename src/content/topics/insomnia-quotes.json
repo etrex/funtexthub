@@ -356,6 +356,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-016",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://www.stylishboard.com/funny-sleepless-night-quotes/",
+      "sourceNote": "Inspired by '3am brain content breakdown' meme; rewritten with localized specific percentages and items",
+      "tags": ["失眠", "凌晨三點", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，我的腦袋裡：\n40% 是國小校歌副歌，\n30% 是高中數學一題我到現在還不會的題目，\n剩下的是想吃鹹酥雞但已經沒開了。",
+          "editorNote": "深夜腦內混亂大雜燴的最佳分類。傳給也常常失眠的朋友，他們會自動補上自己的清單。",
+          "variations": [
+            "三點的腦袋目錄：童年廣告歌、丟臉回憶、想吃宵夜。"
+          ]
+        },
+        "en": {
+          "content": "At 3am, the contents of my brain:\n40% the chorus of my elementary school song,\n30% one math problem from high school I still can't solve,\nthe rest is wanting fried chicken from a place that closed two hours ago.",
+          "editorNote": "The perfect breakdown of late-night brain chaos. Send to a fellow insomniac and they'll instantly start listing their own.",
+          "variations": [
+            "3am brain index: jingles from childhood, cringe memories, craving snacks that are unavailable."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-017",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://www.maigoo.com/goomai/287532.html",
+      "sourceNote": "Inspired by '與其被動失眠，不如主動熬夜' format; rewritten with reframing of agency",
+      "tags": ["失眠", "熬夜", "自嘲", "廢話文學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "與其說我失眠，不如說我提前領取明天的疲憊。\n這叫超前部署。",
+          "editorNote": "把熬夜講得很有規劃感的反諷金句。適合貼在已經知道明天會很累但還是不睡的時候。",
+          "variations": [
+            "我不是睡不著，我是在為明天的黑眼圈打底。"
+          ]
+        },
+        "en": {
+          "content": "I'm not having insomnia. I'm just collecting tomorrow's exhaustion in advance.\nCall it strategic planning.",
+          "editorNote": "Reframes staying up as a deliberate, well-planned operation. Perfect caption for when you know you'll regret it but you're still scrolling.",
+          "variations": [
+            "I'm not awake. I'm pre-loading the dark circles for tomorrow."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-018",
+      "dateAdded": "2026-05-13",
+      "sourceUrl": "https://sweetsleeptips.com/cant-sleep-quotes-funny/",
+      "sourceNote": "Inspired by 'brain reviews worst decisions at 3am' format; rewritten with annual-review corporate metaphor",
+      "tags": ["失眠", "焦慮", "上班族", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的大腦每天凌晨都會主動加班，\n項目是：今年所有出包時刻年度回顧。\n而且不發加班費。",
+          "editorNote": "把深夜反芻包裝成「無償加班」，職場人特別有感。傳到同事群組會引起一片苦笑。",
+          "variations": [
+            "我的腦袋是公司裡最認真的員工，問題是它的業務是審我。"
+          ]
+        },
+        "en": {
+          "content": "My brain works overtime every night,\nproject: annual review of every embarrassing moment this year.\nIt doesn't even pay me overtime.",
+          "editorNote": "Late-night rumination dressed up as unpaid corporate overtime. Drop it in the work chat — your coworkers will laugh through gritted teeth.",
+          "variations": [
+            "My brain is the most dedicated employee in the company. Unfortunately its job is auditing me."
+          ]
+        }
+      }
     }
   ]
 }
