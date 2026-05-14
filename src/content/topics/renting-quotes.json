@@ -609,6 +609,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-027",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://www.apartmenttherapy.com/funny-renter-tweets-memes-36684176",
+      "sourceNote": "bank fraud alert after paying rent meme; rewritten original",
+      "tags": ["房租", "薪水", "扣款", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "繳完房租那一刻，\n銀行 APP 跳出來問我：「這筆交易是您本人嗎？」\n我也想問自己同一句話。",
+          "editorNote": "適合每月一號繳完房租後發限動，搭配一張被掏空的存款截圖",
+          "variations": [
+            "銀行說這筆扣款很可疑，我說對啊，可疑到我自己都不敢相信我活得下去。"
+          ]
+        },
+        "en": {
+          "content": "Right after I paid rent,\nmy banking app asked: 'Was this transaction really you?'\nHonestly, I'd like to ask myself the same question.",
+          "editorNote": "Perfect to post on the first of the month — bonus points for screenshotting your gutted balance",
+          "variations": [
+            "Bank flagged the charge as suspicious. I agreed — suspicious that I'm still managing to stay alive."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-028",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://dailyview.tw/daily/4352",
+      "sourceNote": "房東十大惡客行為 register; rewritten original",
+      "tags": ["房東", "監視", "隱私", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東不住這裡，\n但他比我媽更知道我幾點回家、幾點洗澡、幾點點外送。\n大概是裝在天花板的不只是煙霧偵測器。",
+          "editorNote": "傳給懷疑房東會偷進房間或裝攝影機的朋友，順便附上 1950 諮詢專線",
+          "variations": [
+            "房東傳訊息問我「最近水費怎麼這麼高」，我才知道他連我洗幾次澡都記得。"
+          ]
+        },
+        "en": {
+          "content": "My landlord doesn't live here,\nbut he knows when I get home, when I shower, and when I order delivery — better than my mother does.\nThe ceiling probably has more than just a smoke detector up there.",
+          "editorNote": "Send to a friend who suspects their landlord is snooping or has hidden cameras — attach the tenant rights hotline",
+          "variations": [
+            "Landlord texted asking why my water bill spiked. That's when I realized he tracks how often I shower."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-029",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "tiny apartment listing absurdity; rewritten original",
+      "tags": ["看房", "套房", "坪數", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房仲帶我看「精緻套房」，\n打開門我才知道：\n床、書桌、廁所、廚房在同一個位置，\n而那個位置就是我站的地方。",
+          "editorNote": "適合看完五坪以下套房的朋友抒發，貼 Threads 一定有人留言「我家也是」",
+          "variations": [
+            "房仲說「麻雀雖小、五臟俱全」，我說我不是麻雀，我是人。"
+          ]
+        },
+        "en": {
+          "content": "The agent showed me a 'cozy studio.'\nI opened the door and realized:\nthe bed, desk, toilet, and kitchen all share one spot,\nand that spot is wherever I happen to be standing.",
+          "editorNote": "Perfect for renters who just toured a sub-150-square-foot studio — post on Threads and watch the 'same' replies roll in",
+          "variations": [
+            "Agent said 'small but everything you need.' I said I'm not a hamster, I'm a person."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-030",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://vocus.cc/article/68372675fd897800012d2edb",
+      "sourceNote": "租屋糾紛調解 register 2026; rewritten original",
+      "tags": ["糾紛", "調解", "房東", "成年"],
+      "i18n": {
+        "zh-tw": {
+          "content": "出社會學的第一件事不是寫履歷，\n是怎麼跟房東吵架還能拿回押金。",
+          "editorNote": "傳給剛畢業要面對人生第一場退租談判的朋友，告訴他這比面試更需要練習",
+          "variations": [
+            "我大學念了四年，畢業後才發現最該選修的是「房客自救法」。"
+          ]
+        },
+        "en": {
+          "content": "The first thing you learn as an adult isn't how to write a resume.\nIt's how to argue with your landlord and still get your deposit back.",
+          "editorNote": "Send to a recent grad facing their first move-out negotiation — tell them this needs more practice than any interview",
+          "variations": [
+            "Four years of college, and the class I actually needed was 'Tenant Self-Defense 101.'"
+          ]
+        }
+      }
     }
   ]
 }

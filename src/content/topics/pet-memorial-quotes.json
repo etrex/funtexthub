@@ -429,6 +429,63 @@
           "variations": ["If you ever met their pet, write down one moment and send it. A specific memory proves to the griever that their pet really existed in someone else's world too."]
         }
       }
+    },
+    {
+      "id": "pm-023",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://petzzz.com.tw/2025/06/18/pet-memorial-letter-template/",
+      "sourceNote": "「離開滿一年」週年忌日 frame，原創",
+      "tags": ["週年", "忌日", "思念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天剛好滿一年。我以為時間能把這個洞補起來，後來才知道——它不是補起來，是我們學會繞著它走路。",
+          "editorNote": "適合毛孩離世滿週年那天發文用，把「沒有變好」正常化，比強迫釋懷更療癒",
+          "variations": ["一年了，我終於可以把你的照片放回桌上。不是因為不痛了，是因為我願意再痛一次來看你。"]
+        },
+        "en": {
+          "content": "It's been exactly a year. I used to think time would fill the hole. Turns out it doesn't fill — we just learn to walk around it.",
+          "editorNote": "Made for the one-year anniversary post; normalizes 'not better yet' instead of forcing closure",
+          "variations": ["A year later, I finally put your photo back on the desk. Not because it stopped hurting — because I'm willing to hurt again just to see you."]
+        }
+      }
+    },
+    {
+      "id": "pm-024",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://www.lovelymessages.com/2026/04/how-to-find-comfort-and-peace-after-losing-a-beloved-pet.html",
+      "sourceNote": "「跟小孩解釋毛孩死亡」 frame — 兒童引導，原創",
+      "tags": ["跟小孩說", "兒童", "彩虹橋"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟孩子說：牠不是不見了，是先去一個沒有針、沒有藥、可以一直跑步的地方。如果你想牠，就講出來——牠聽得到，只是不能跑回來抱你了。",
+          "editorNote": "適合家有 5-10 歲孩子的飼主，避免「永遠睡著了」這種容易讓孩子怕睡覺的比喻",
+          "variations": ["孩子問我「牠還會回來嗎」。我說：「牠回不來，可是牠住進你的心裡了。心是牠以後永遠的家。」"]
+        },
+        "en": {
+          "content": "I told my kid: they didn't disappear — they just went somewhere with no needles, no medicine, and endless room to run. If you miss them, say it out loud. They hear you. They just can't run back to hug you anymore.",
+          "editorNote": "Best for parents with kids 5-10. Avoids the 'went to sleep' metaphor that can make kids afraid of bedtime",
+          "variations": ["My kid asked if they were coming back. I said: 'No. But they moved into your heart. Your heart is their forever home now.'"]
+        }
+      }
+    },
+    {
+      "id": "pm-025",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://www.makememento.com/blogs/news/70-heartfelt-pet-loss-quotes-and-messages-to-bring-comfort-during-grief",
+      "sourceNote": "「第一次經歷喪寵」 frame — 新手飼主，原創",
+      "tags": ["第一次", "新手飼主", "撫慰"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這是我第一次送走一個家人。沒有人教過我怎麼處理這種痛——原來愛得越深，連走在路上都會突然站不住。但是沒關係，我會慢慢學。",
+          "editorNote": "給第一次經歷喪寵的飼主，承認「不知道怎麼辦」本身就是答案",
+          "variations": ["以前看別人發喪寵文，覺得「應該很難過吧」。輪到自己才知道——這不是「很難過」，這是天塌下來。"]
+        },
+        "en": {
+          "content": "This is the first family member I've ever had to say goodbye to. No one taught me how to carry this. Turns out the deeper you loved, the harder it is to stay standing on a normal street. But that's okay. I'll learn slowly.",
+          "editorNote": "For first-time pet-loss owners — acknowledging 'I don't know how to do this' is itself the answer",
+          "variations": ["I used to scroll past pet memorial posts and think 'that must be hard.' Now I know — it's not 'hard.' It's the whole sky coming down."]
+        }
+      }
     }
   ]
 }

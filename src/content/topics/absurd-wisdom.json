@@ -3210,6 +3210,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-130",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "廢話文學上班開會主題原創",
+      "tags": ["廢話文學", "上班", "開會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "開會是為了討論事情。\n\n如果事情討論完了，就不用開會。\n\n但是事情通常不會在會議裡討論完。\n\n所以就要再開一次會。\n\n這就是為什麼會議永遠開不完。",
+          "editorNote": "禮拜一早上九點，第三場線上會議開始前，貼到部門群組讓大家一起苦笑",
+          "variations": [
+            "這個會議本來可以是一封 Email，但是寄信也是要花時間的。",
+            "會議結論就是下次再開會討論。"
+          ]
+        },
+        "en": {
+          "content": "Meetings exist to discuss things.\n\nIf the things were already discussed, you wouldn't need the meeting.\n\nBut things rarely get fully discussed in a meeting.\n\nSo you need another meeting.\n\nThis is why meetings never end.",
+          "editorNote": "Drop this in the team Slack right before the third Monday morning standup of the day",
+          "variations": [
+            "This meeting could have been an email — but writing emails also takes time.",
+            "The conclusion of every meeting is to schedule another meeting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-131",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學金錢主題原創",
+      "tags": ["廢話文學", "錢", "存錢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有錢的人比較不缺錢。\n\n沒錢的人比較缺錢。\n\n所以想要不缺錢，就要有錢。\n\n但是要有錢，就必須先賺錢。\n\n而賺錢需要花時間，花時間就無法享受人生。\n\n所以有錢人和沒錢人，都沒辦法好好享受人生。\n\n這就是經濟學。",
+          "editorNote": "月底發薪水前一天，跟同事一起怨嘆人生時的萬用結語",
+          "variations": [
+            "存錢的方法很簡單，就是不要把錢花掉。",
+            "錢不是萬能的，但是沒有錢是萬萬不能的，所以錢還是滿能的。"
+          ]
+        },
+        "en": {
+          "content": "Rich people have less of a money problem.\n\nPoor people have more of a money problem.\n\nSo to not have a money problem, you need money.\n\nBut to have money, you first have to earn money.\n\nAnd earning money takes time, and time is what you need to enjoy life.\n\nSo rich people and poor people both can't really enjoy life.\n\nThis is economics.",
+          "editorNote": "The day before payday, send this to your group chat so everyone can complain together",
+          "variations": [
+            "The trick to saving money is simply to not spend it.",
+            "Money isn't everything, but having no money is nothing, so money is actually pretty something."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-132",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "廢話文學運動健身主題原創",
+      "tags": ["廢話文學", "運動", "健身"],
+      "i18n": {
+        "zh-tw": {
+          "content": "運動的人比較會流汗。\n\n不運動的人比較不會流汗。\n\n所以如果你不想流汗，可以不要運動。\n\n但是不運動會變胖。\n\n變胖之後想要瘦下來，就必須運動。\n\n所以最好的辦法，就是一開始就不要胖。\n\n感謝你閱讀這篇健身指南。",
+          "editorNote": "辦了健身房會員卡但只去過兩次的你，轉發給同樣偷懶的朋友",
+          "variations": [
+            "健身房辦了不去，等於沒辦。但是辦了沒去也比沒辦好，因為至少有想過。",
+            "跑步可以讓你變健康，前提是你真的有去跑。"
+          ]
+        },
+        "en": {
+          "content": "People who exercise sweat more.\n\nPeople who don't exercise sweat less.\n\nSo if you don't want to sweat, just don't exercise.\n\nBut not exercising will make you gain weight.\n\nAnd if you want to lose weight, you have to exercise.\n\nSo the best strategy is to never gain weight in the first place.\n\nThank you for reading this fitness guide.",
+          "editorNote": "For when you bought a gym membership and went twice — forward to your equally lazy friend",
+          "variations": [
+            "A gym membership you don't use is the same as no membership. But it's still better than not having one, because at least you thought about it.",
+            "Running makes you healthy — provided you actually go running."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-133",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學手機社群主題原創",
+      "tags": ["廢話文學", "手機", "社群"],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機沒電的時候，要充電。\n\n充電的時候，沒辦法滑手機。\n\n沒辦法滑手機的時候，會覺得無聊。\n\n覺得無聊的時候，會更想滑手機。\n\n結果就是，你會一直盯著充電中的手機。\n\n科學家把這個現象稱為現代生活。",
+          "editorNote": "看著手機從 1% 慢慢充到 3% 的時候，發到限時動態剛剛好",
+          "variations": [
+            "已讀不回的人，通常是已讀但是沒有回。",
+            "通知關掉了，但你還是會一直打開來看有沒有通知。"
+          ]
+        },
+        "en": {
+          "content": "When your phone is out of battery, you have to charge it.\n\nWhile it's charging, you can't scroll on it.\n\nWhen you can't scroll, you get bored.\n\nWhen you're bored, you want to scroll even more.\n\nSo you end up staring at your charging phone.\n\nScientists call this phenomenon modern life.",
+          "editorNote": "Perfect for your story while you watch your phone slowly climb from 1% to 3%",
+          "variations": [
+            "People who leave you on read have usually read it but not replied.",
+            "You turned off notifications, but you still keep opening the app to check for notifications."
+          ]
+        }
+      }
     }
   ]
 }

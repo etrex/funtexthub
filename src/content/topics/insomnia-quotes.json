@@ -425,6 +425,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-019",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://www.stylishboard.com/funny-sleepless-night-quotes/",
+      "sourceNote": "Inspired by 'brain offers selection of worst memories' format; rewritten as in-flight service announcement",
+      "tags": ["失眠", "焦慮", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "大腦：歡迎搭乘失眠號航班。\n本班機提供五年前的尷尬時刻、未回的訊息、以及一個你以為早就忘了的人。\n敬請享用。",
+          "editorNote": "把深夜腦內噪音包裝成航空公司廣播，特別有畫面感。適合在凌晨翻來覆去時當限動文案。",
+          "variations": [
+            "本日特餐：高中那次當眾跌倒、配上沒回的告白訊息。"
+          ]
+        },
+        "en": {
+          "content": "Brain: Welcome aboard Flight Insomnia.\nTonight's menu includes one cringe moment from five years ago, an unanswered text, and someone you thought you'd forgotten.\nEnjoy your flight.",
+          "editorNote": "Frames the late-night noise as an in-flight announcement. Surprisingly cinematic — perfect caption for the toss-and-turn hour.",
+          "variations": [
+            "Tonight's special: that public faceplant in 2019, paired with a confession text you never sent."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-020",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://www.therandomvibez.com/quotes-about-insomnia/",
+      "sourceNote": "Inspired by 'my brain has a to-do list from 2007' format; rewritten with project-management framing",
+      "tags": ["失眠", "焦慮", "上班族", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的腦袋有一份 2014 年就該結案的待辦清單。\n它每晚都拿出來開檢討會。\n沒有結論，但很準時。",
+          "editorNote": "對「為什麼我都在想十年前的小事」的最佳吐槽。失眠加完美主義者必收。",
+          "variations": [
+            "我的大腦把過去當未完成專案，每晚開站立會議。"
+          ]
+        },
+        "en": {
+          "content": "My brain has a to-do list that should have closed in 2014.\nIt pulls it out for review every single night.\nNo conclusions. But always on time.",
+          "editorNote": "The definitive comeback to 'why am I still thinking about something from a decade ago.' For the insomniac perfectionists.",
+          "variations": [
+            "My brain treats the past as an open project and holds a nightly standup."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-021",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://parade.com/1104448/kimberlyzapata/insomnia-quotes/",
+      "sourceNote": "Inspired by 'sleep is a luxury' framing; rewritten with subscription-service metaphor",
+      "tags": ["失眠", "自嘲", "幽默", "廢話文學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠這個訂閱方案，我每個月都有付費，\n但系統一直顯示「連線失敗」。\n客服在哪？",
+          "editorNote": "把失眠包裝成訂閱服務故障的科技梗，年輕族群秒懂。適合在床上滑手機的時候發。",
+          "variations": [
+            "我有付月費，怎麼還是看不到睡眠這個內容？"
+          ]
+        },
+        "en": {
+          "content": "I pay the monthly fee for the sleep subscription,\nbut the system keeps showing \"connection failed.\"\nWhere's customer support?",
+          "editorNote": "Insomnia repackaged as a streaming service outage. Lands instantly with anyone who lives online. Caption for that mid-toss scroll.",
+          "variations": [
+            "I'm paying full price for sleep and the content still won't load."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-022",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://thechive.com/funny/my-brain-at-3am-memes/",
+      "sourceNote": "Inspired by '3am brain asks weird questions' meme; rewritten with localized random question set",
+      "tags": ["失眠", "凌晨三點", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點的腦袋會問：\n章魚睡覺的時候會變色嗎？\n如果地球停止自轉，我會不會比較好睡？\n我國小三年級的同桌現在過得好嗎？",
+          "editorNote": "對「腦袋為什麼會在最不該想事情的時候開派對」的精準描繪。傳給也常常胡思亂想的朋友。",
+          "variations": [
+            "三點的腦袋有自己的 Google：問的全是查不到的。"
+          ]
+        },
+        "en": {
+          "content": "Questions my brain asks at 3am:\nDo octopuses change color in their sleep?\nWould I sleep better if Earth stopped spinning?\nIs my third-grade desk partner doing okay these days?",
+          "editorNote": "A precise portrait of why your brain throws a party at the worst possible hour. Send it to the friend whose mind also won't shut off.",
+          "variations": [
+            "3am brain has its own Google. The queries return nothing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-023",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://www.wolfglobal.org/blog/insomnia-quotes",
+      "sourceNote": "Original gentle item — extends the healing register established by iq-008 and iq-014",
+      "tags": ["失眠", "療癒", "陪伴", "自我接納"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡不著的夜，不一定要有意義。\n你可以只是醒著，然後等天亮。\n那也是一種完成。",
+          "editorNote": "失眠時最大的壓力，是覺得「我必須做點什麼」。這句話拆掉那個壓力。傳給對「夜晚」有罪惡感的朋友。",
+          "variations": [
+            "醒著到天亮，也是一種把夜晚走完的方式。"
+          ]
+        },
+        "en": {
+          "content": "A sleepless night doesn't have to mean anything.\nYou can just be awake, and wait for morning.\nThat counts as finishing the night too.",
+          "editorNote": "The hardest part of insomnia is feeling you should be doing something with it. This dismantles that pressure. For the friend who feels guilty about being awake.",
+          "variations": [
+            "Staying awake until sunrise is also a way to see the night through."
+          ]
+        }
+      }
     }
   ]
 }

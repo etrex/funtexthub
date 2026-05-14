@@ -3865,6 +3865,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-135",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/stack-overflow-walked-so-chatgpt-could-run-0xhg",
+      "sourceNote": "Stack Overflow vs LLM era — the death of 'duplicate' close votes",
+      "tags": [
+        "Stack Overflow",
+        "AI",
+        "世代差距",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師教資淺工程師：「遇到不會的問題，要去 Stack Overflow 查。」\n\n資淺工程師一臉茫然：「Stack 什麼？」\n\n資深工程師：「就是一個論壇，你問問題，會有一個臭臉大叔回你『這已經有人問過了』然後關掉你的問題，再貼一個八年前完全不相關的連結給你。」\n\n資淺工程師：「⋯⋯那為什麼要去那邊？」\n\n資深工程師沉默了三秒：「對欸，為什麼要去那邊。」\n\n然後他打開了 Claude。",
+          "editorNote": "傳給每個從 Stack Overflow 時代活下來的資深工程師，他們會懷念那種被罵的感覺。",
+          "variations": [
+            "Stack Overflow 的傳統美德：問問題前先被罵不讀文件。",
+            "現在的新人不知道什麼叫『被 mark 成重複』的痛。"
+          ]
+        },
+        "en": {
+          "content": "A senior dev explains to a junior: \"When you get stuck, go check Stack Overflow.\"\n\nJunior, confused: \"Stack what?\"\n\nSenior: \"It's a forum. You ask a question, then a grumpy guy replies 'this has been asked before,' closes your thread, and links you an unrelated answer from eight years ago.\"\n\nJunior: \"...so why would I go there?\"\n\nSenior pauses for three seconds: \"Yeah. Why would you go there.\"\n\nHe opens Claude.",
+          "editorNote": "Send to every senior who survived the Stack Overflow era. They'll miss being yelled at.",
+          "variations": [
+            "Stack Overflow's traditional virtue: getting roasted for not reading the docs before you even ask.",
+            "Today's juniors will never know the pain of being marked as duplicate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-136",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "AI confidently hallucinating non-existent functions",
+      "tags": [
+        "AI",
+        "幻覺",
+        "Debug",
+        "Copilot"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師：AI，幫我寫一個排序函式。\n\nAI：好的，這裡是程式碼。我用了 array.quickSortAscendingWithStableOrder() 這個內建方法。\n\n工程師：⋯⋯這個方法不存在。\n\nAI：您說得對，我向您道歉。讓我重新寫，這次我用 array.sortReliablyV3()。\n\n工程師：這個也不存在。\n\nAI：您完全正確，這是我的疏忽。我用 array.justSortIt()。\n\n工程師：你是在開玩笑嗎。\n\nAI：我絕對沒有在開玩笑。我以三十年資深工程師的人格擔保這個函式存在。\n\n工程師（已經查了文件）：你才剛被發表三天耶。",
+          "editorNote": "傳給每個花過半天 debug 才發現 AI 在編造 API 的工程師。",
+          "variations": [
+            "AI 工程師的新技能樹：判斷哪些 function 是真的，哪些是 AI 夢到的。",
+            "「幻覺」是 AI 工程師的浪漫，是用戶的惡夢。"
+          ]
+        },
+        "en": {
+          "content": "Dev: AI, write me a sort function.\n\nAI: Sure! Here's the code. I used the built-in array.quickSortAscendingWithStableOrder() method.\n\nDev: ...that method doesn't exist.\n\nAI: You are correct, I apologize. Let me rewrite it using array.sortReliablyV3().\n\nDev: That doesn't exist either.\n\nAI: You're completely right, my mistake. Let me try array.justSortIt().\n\nDev: Are you messing with me.\n\nAI: I am absolutely not messing with you. I swear on thirty years of senior engineering experience that this function exists.\n\nDev (already checked the docs): You were released three days ago.",
+          "editorNote": "Send to every dev who's lost half a day debugging only to realize the AI invented an entire API.",
+          "variations": [
+            "New skill tree for AI-era engineers: telling which functions are real and which the AI dreamed.",
+            "'Hallucinations' are romantic for AI researchers, nightmares for users."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-137",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "Vibe coder vs. real engineer — 2026 culture war",
+      "tags": [
+        "vibe coding",
+        "AI",
+        "工程師認同",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「請說明一下你的技術背景。」\n\n求職者：「我精通 prompt engineering，會寫超有 vibe 的提示詞，能讓 AI 一次寫出整個 SaaS。我去年用三天做了四十個 app，上架了三十八個。」\n\n面試官：「那你會什麼程式語言？」\n\n求職者：「⋯⋯英文算嗎？」\n\n面試官：「好。那你最近 debug 過什麼比較有挑戰的問題？」\n\n求職者：「我跟 AI 說『修好』，它就修好了。然後它又壞了。然後我說『再修一次』。」\n\n面試官：「那你怎麼知道它真的修好了？」\n\n求職者：「⋯⋯它說它修好了啊。」\n\n面試官默默把履歷放到一邊：「下一位。」",
+          "editorNote": "傳給最近在面試新人時遇到一堆 vibe coder 的工程主管，你不孤單。",
+          "variations": [
+            "2026 工程師徵才難題：履歷上寫『精通 Cursor』算不算技能。",
+            "Vibe coder 的核心競爭力：相信 AI 說它修好了。"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"Walk me through your technical background.\"\n\nCandidate: \"I'm a prompt engineer. I write deeply vibey prompts that let AI generate an entire SaaS in one shot. Last year I built forty apps in three days and shipped thirty-eight.\"\n\nInterviewer: \"What programming languages do you know?\"\n\nCandidate: \"...does English count?\"\n\nInterviewer: \"Okay. Tell me about a challenging bug you've debugged recently.\"\n\nCandidate: \"I told the AI 'fix it' and it fixed it. Then it broke. Then I said 'fix it again.'\"\n\nInterviewer: \"How did you confirm it was actually fixed?\"\n\nCandidate: \"...it said it was fixed.\"\n\nInterviewer quietly slides the resume aside: \"Next.\"",
+          "editorNote": "Send to every hiring manager screening a wave of vibe-coder applicants. You are not alone.",
+          "variations": [
+            "Hiring dilemma 2026: does 'proficient in Cursor' count as a skill on a resume?",
+            "A vibe coder's core competency: trusting the AI when it says it fixed the bug."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-138",
+      "dateAdded": "2026-05-14",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Classic 'works on my machine' meme updated for the AI era",
+      "tags": [
+        "經典",
+        "Production",
+        "AI",
+        "甩鍋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM：「線上又炸了！」\n\n工程師：「不可能，我本地測過。」\n\nPM：「那 staging 為什麼也炸？」\n\n工程師：「不可能，AI 跟我說沒問題。」\n\nPM：「那你有看程式碼嗎？」\n\n工程師：「⋯⋯AI 看過了。」\n\nPM：「那有寫測試嗎？」\n\n工程師：「⋯⋯AI 寫了。它說全部都過了。」\n\nPM：「那測試在哪？」\n\n工程師打開檔案，裡面只有一行：\n\n`expect(true).toBe(true);`",
+          "editorNote": "傳給每個收 PM 訊息收到手抖的工程師，你不是一個人在戰鬥。",
+          "variations": [
+            "2026 工程師三大護身符：『AI 說沒問題』『AI 測過了』『AI 跟我道歉了』。",
+            "新版測試金句：expect(AI).toBe(對的)。"
+          ]
+        },
+        "en": {
+          "content": "PM: \"Production is down again!\"\n\nDev: \"Impossible. I tested it locally.\"\n\nPM: \"Then why is staging broken too?\"\n\nDev: \"Impossible. The AI said it was fine.\"\n\nPM: \"Did you read the code?\"\n\nDev: \"...the AI read it.\"\n\nPM: \"Did you write tests?\"\n\nDev: \"...the AI did. It said they all pass.\"\n\nPM: \"Where are the tests?\"\n\nDev opens the file. It contains exactly one line:\n\n`expect(true).toBe(true);`",
+          "editorNote": "Send to every dev whose hands tremble at PM notifications. You are not alone in this war.",
+          "variations": [
+            "Three amulets of the 2026 engineer: 'the AI said it's fine,' 'the AI ran the tests,' 'the AI apologized to me.'",
+            "New testing one-liner: expect(AI).toBe(correct);"
+          ]
+        }
+      }
     }
   ]
 }
