@@ -3044,3 +3044,103 @@ Done items collapsed; only live priorities listed.
 23. **[OPPORTUNISTIC]** witty-comebacks 「我吃一點」 derivative + **5/12 carry** 白木耳飲翻車 + 鄉民吐槽 register expansion (6月 next touch opportunistic 1-2 items).
 24. **[NEW LOW — 6月 opportunistic]** absurd-wisdom 「Scribble 刻意畫爛 / 故意醜 vs 故意美 / Sam Altman 帶頭」 視覺荒謬 register 1 item 候選 + zodiac-quotes 「GPT-Image-2 賽博半仙 手相」 register 1 item 候選.
 25. **[FLAG — 觀察不啟動]** 校園霸凌 5/14 NEW (5年翻3倍, 言語霸凌最常見, 國小成長最多) too sensitive = 不主動 expansion. exam-quotes / healing-quotes 觀察後續 政策反應.
+
+## 2026-05-15 Research Report
+
+### New Topic Recommendations
+
+1. **`saxophone-louder-jokes` / 薩克斯風變大聲 災難自嘲 — NEW 5/15 (NOT NEW TOPIC, absurd-wisdom / dark-humor / workplace-quotes 跨界 sub-format)**
+   - **5/15 多源**: napoleoncat trending-memes「Saxophone Gets Louder format / 簡單戲劇化 universally relatable / 意識到事情糟糕 → 音樂炸開 → zoom-in 凍結 / 80s 電影崩潰 × TikTok 幽默」+ ranker funny-memes-2026 + brobible 51-best-memes-2026 多源 5/15 carry. **意義**: **全球短影音 viral 模板**「災難覺察 → 音效炸 → 卡通式崩潰」 框架, 在地化 register 候選: 「我發現我 PPT 沒存檔 / 薩克斯風 響起 / 主管 走進來」/「我 9:00 上班 / 9:01 才出門 / 薩克斯風 響起 / 老闆 在電梯」/「我 點 雞排 不要辣 / 薩克斯風 響起 / 老闆 已加辣」.
+   - **意義 vs. 既有 topics**: absurd-wisdom (荒謬一瞬感悟) + dark-humor (災難喜劇) + workplace-quotes (社畜崩潰) 三者皆主場候選. **NOT NEW TOPIC** — 跨 topic sub-format. **MEDIUM priority, 6月 opportunistic 1 item each**.
+   - **SEO targets**: 薩克斯風變大聲 meme, saxophone louder, 災難 zoom-in 梗, 80s 崩潰.
+   - **Recommendation: NOT NEW TOPIC**. 跨 topic sub-format. **MEDIUM priority, 5/15 NEW**.
+
+2. **`chill-guy-jokes` / Chill Guy 擺爛哲學 — NEW 5/15 (NOT NEW TOPIC, absurd-wisdom / slang-quotes / motivational-quotes 反諷 sub-format)**
+   - **5/15 多源**: napoleoncat「chill guy = 不僅是 meme / 是 社群運動 / 解釋 尷尬 / 害怕 / 不合理選擇 的 狀態」+ ramd.am TikTok-trends-May-2026 多源 5/15 carry. **意義**: 「我就 chill / 不解釋」 = anti-effort 反努力 register, 與 motivational-quotes 正向對照 反諷 高潛力. 在地化 register 候選: 「老闆說 業績 / 我 chill / 媽說 結婚 / 我 chill / 房東說 漲價 / 我 不 chill 了」/「我朋友 一個月看 3 本書 / 我 chill / 我朋友 月薪 10 萬 / 我 chill / 我朋友 結婚生子 / 我 chill / 我朋友 都 chill / 我 不 chill 了」. **與 既有 slang-quotes (擺爛 / 躺平 / 厭世) 在地化對照 register**.
+   - **意義 vs. 既有 topics**: slang-quotes (擺爛 / 躺平 register) 主場 + absurd-wisdom (chill 的反努力哲學) + motivational-quotes 反向對照. **NOT NEW TOPIC** — slang-quotes / absurd-wisdom sub-format. **MEDIUM priority, 6月 opportunistic 1-2 items**.
+   - **SEO targets**: chill guy, 我就 chill, 擺爛哲學, 不在乎 meme.
+   - **Recommendation: NOT NEW TOPIC**. slang-quotes 主場. **MEDIUM priority, 5/15 NEW**.
+
+3. **`concert-fomo-quotes` / 演唱會 FOMO 同學分流 — NEW 5/15 (NOT NEW TOPIC, graduation-quotes / healing-quotes / drama-quotes 短窗口 sub-format)**
+   - **5/15 多源**: livenation tw「孫燕姿 就在日落以後 5/15 19:30 大巨蛋 首場」+ nownews 6834584「加開座位 / 2 場 8 萬張 秒殺」+ businessweekly 3020789「入場規定 / 周邊商品 / 禁帶物品 / 接駁車」 多源 5/15 carry. **意義**: **5/15 (周五) day-of T+0** 孫燕姿首場 + **同時 5/15 下午 3-5 點 查考場 (T-1 會考) + 5/16 上午 8:20 會考首日 + 5/17 19:30 孫燕姿二場**. 「我 同學 在 大巨蛋 / 我 在 考場 / 我們 都在 抓住 童年 / 但 方式 不一樣」/「日落以後 / 我 還在 念書 / 我 同學 還在 聽歌 / 我們 都 還沒 長大 / 但 各自 假裝 在 長大」 frame. graduation-quotes 5/15 deadline 末日 priority + healing-quotes 「考前 vs 演唱會 分流 接住」 cross-link.
+   - **意義 vs. 既有 topics**: graduation-quotes 主場 (5/15 deadline 末日 編寫). healing-quotes 「下雨天 + 應考 + 演唱會 都是 你」 1 item. drama-quotes 「演唱會 sing along 哭點」 候選. **NOT NEW TOPIC** — 跨 topic 短窗口. **HIGH priority TODAY 5/15 (graduation-quotes 末日)**.
+   - **SEO targets**: 孫燕姿 大巨蛋, 就在日落以後, 演唱會 FOMO, 同學去演唱會我在考場.
+   - **Recommendation: NOT NEW TOPIC**. graduation-quotes 5/15 末日主場. **HIGH priority TODAY 5/15**.
+
+### Content Trends
+
+- **5/15 day-of 三重大事 day-of T+0**: 孫燕姿大巨蛋首場 19:30 + 下午 3-5 點 5/16 會考 查考場 + 第三波鋒面 day 4/5 (鋒面南移 各地局部短暫陣雨/雷雨). udn 9501539「北北桃大雨特報 / 吳德榮 慎防對流胞劇烈天氣 / 明 鋒面南移 雷雨轟全台」+ udn 9493736「梅雨鋒面 這 2 天 雨勢最猛 / 雷雨狂炸 中部以北」 多源 5/15 carry. **意義**: **graduation-quotes 5/15 deadline 末日 編寫 priority 最高**. 「成年禮 + 演唱會 + 同學分流 + 應考 + 雨中」 5 register cross-link. healing-quotes 「考前 + 演唱會 + 雨 / 都是 你」 短窗口 1-2 items.
+
+- **5/16 國中會考 T-1 day-of (5/15 NEW reinforce)**: 5/16 上午 社會/數學 下午 國文/寫作, 5/17 上午 自然/英語. **5/15 下午 3-5 點 開放查考場 = T-1 day-of 焦慮峰值**. healing-quotes 「考前陪伴」 1 item 5/15 末日 priority + exam-quotes 5/29-6/1 啟動 reinforce「失常 vs 穩定發揮 / 民俗儀式感 / 心理壓力」 8-12 items 配比不變.
+
+- **Threads 爆紅 5 個梗 reconfirm (popdaily 1643674, 5/15 reconfirm)**: 「高麗菜煮蛋那桌」(Kurt Wu 火鍋小技巧 生活智慧 縮影) + 「龐奇」(2025/7 小紅毛猩猩 + IKEA DJUNGELSKOG) + 「ꉂ 𐤔」 笑聲符號 (日本網友 新一代 笑死 符號) + 「留友看」(留著給朋友看 截圖 傳群組) + 「ㄅ級分」(金童 ㄅㄆㄇ評分系統 + 李怡蓁 + 蔡英文 留言). **意義**: 5/13-5/14 popdaily/quickseek 多源 reconfirm 之上 5/15 第三次 reconfirm = slang-quotes 「Threads 5 大梗」 register 5/20 deadline 6 items 確定.
+
+- **全球 viral memes 5/15 NEW (napoleoncat + ranker + brobible 多源)**: 「Saxophone Gets Louder」(災難 zoom-in 80s 崩潰 × TikTok) + 「chill guy」(不解釋 不在乎 anti-effort 社群運動) + 「KitKat Heist」(歐洲 40 萬條 KitKat 失竊 荒謬 規模) + 「Met Gala 2026」(Bad Bunny / Sabrina Carpenter / Heidi Klum). **意義**: **「Saxophone Louder」+ 「chill guy」 = 全球短影音 viral 模板**, 在地化 cross-pollinate 高潛力. workplace-quotes / absurd-wisdom / slang-quotes 6月 opportunistic 1-2 items each.
+
+- **AI 厭世上班族頭像 + Scribble + 賽博半仙 視覺三連 (5/15 carry)**: bnext 83586「ChatGPT-4o 厭世上班族頭像 / 簡單 2 步驟 / 完整 Prompt」 5/15 carry reconfirm + 5/14 carry「Scribble 刻意畫爛 Sam Altman」+ 5/14 carry「GPT-Image-2 手相 賽博半仙」 = **AI 視覺三連 register 模板化** (厭世頭像 + 故意醜 + 算命). workplace-quotes / programmer-jokes / zodiac-quotes / absurd-wisdom 6月 opportunistic 跨 topic 1-2 items each.
+
+- **5/15 政策/節慶 carry**: 端午 T-35, holiday-jokes 5/22 啟動 T-7. PSY 5/23 大巨蛋 T-8 (CHANNEL B 棒球音樂祭 5/22-24, 「江南Style 2012→2026 14年 跨世代懷舊」). Meta 5/20 8,000裁員 T-5. 國旅補助 Taiwan Pass 4 折 / 1500 元 抽籤 (5/15 carry). 報稅 T-17 (6/1 順延). 母親節 (5/10) day+5 後 organic 觀察.
+
+- **跨世代懷舊 + AI 反諷 cross-pollinate (5/15 NEW)**: PSY (2012 江南Style → 2026 大巨蛋) + 孫燕姿 (1999 出道 → 2026 大巨蛋) + 五月天 25年 (#5525 T-50) = **「老歌神 2026 大爆發」 跨世代 register**. motivational-quotes / workplace-quotes 「14 年後 我 還在 騎馬舞 / 但 我 已經 騎不動」/「同一首歌 / 18 歲 跟著哭 / 32 歲 自己 也是 歌詞」 1-2 items 6月 opportunistic.
+
+### Existing Topic Updates
+
+- **graduation-quotes (5/15 deadline TODAY 末日)**: **final-stretch window day 7/7 = DEADLINE TODAY EOD**. 4 NEW 2026 phrasings + 北一女「成為幸福的大人」 + 「日落以後 = 孫燕姿 兩場 (5/15 today 19:30 + 5/17 18:30)」 frame 1-2 items + nostalgia × AI 視覺 1-2 items + **NEW 5/15 reinforce**「成年禮 + 演唱會 + 同學分流 + 雨中應考 + 5/15-17 三天 day-of 重疊」 register 1-2 items. **TODAY 末日 編寫 priority 最高**.
+
+- **healing-quotes**: **「考前陪伴」 1 item TODAY 5/15 末日 priority** (T-1 會考 day-of + 5/15 下午 查考場 焦慮峰值). 「下雨天 + 考場 + 演唱會 都是 你」 1 item 候選. 「梅雨陪伴」 + 「願你 + 柔軟動詞」 frame 持續 carry.
+
+- **workplace-quotes (92 items live)**: **5/14 第三波 day 2 of 2 deadline 結束**. 「梅雨厭世」 sub-format 編寫 window 結束. **5/15 後 organic 觀察期 day-1/?**. **NEW 5/15 carry**: 「Saxophone Louder 災難 zoom-in」 sub-format 1 item 候選 6月 opportunistic + 「chill guy 我就 chill / 不解釋」 反努力 1 item 候選 6月 opportunistic + **Meta 5/20 8,000裁員 T-5** AI 反諷 register 2-3 items 5/20+ day-of opportunistic.
+
+- **slang-quotes (39 items live, 5/20 deadline T-5)**: 8 register priority 不變. 「朋朋 / 接住 / I人E人 / 初級高級大人 / 留友看 / 高麗菜那桌 / ㄅ級分 / 章魚哥」. **NEW 5/15 reinforce (popdaily 第三次 reconfirm)**: 「Threads 5 大梗 (高麗菜煮蛋那桌 / 龐奇 / ꉂ 𐤔 / 留友看 / ㄅ級分)」 + **NEW 5/15**「chill guy 我就 chill 不解釋」 anti-effort register 1 item 候選. **5/20 deadline 編寫 priority 維持**.
+
+- **programmer-jokes**: **NEW 5/10-5/15 累積** AI 反諷 register expansion (中優先級 → 高). 「Meta 5/20 8,000裁員 T-5 / Anthropic CRUD 預言 / Copilot vs Claude vs 我 / 我是 humans in the loop / 計算機大佬 飛升 獻祭 同行 / 章魚哥 = 工程師 厭世代表 / ChatGPT 厭世頭像 / Scribble 醜版 PPT / 賽博半仙 手相」 frame 1-2 items 5/20+ day-of opportunistic + 「Saxophone Louder」 「我發現我 deploy 到 prod / 薩克斯風 響起 / 客戶 已 報修」 1 item 6月 opportunistic.
+
+- **absurd-wisdom**: **NEW 5/15**: 「Saxophone Louder 災難覺察 一瞬荒謬」 register 1 item 候選 6月 opportunistic + 「chill guy / 一切 都 chill / 直到 命運 不 chill」 反努力 荒謬 1 item 候選 6月 opportunistic + 5/14 carry「Scribble 刻意畫爛 / 故意醜 vs 故意美」 + 5/14 carry「GPT-Image-2 賽博半仙 手相」 register 持續 carry.
+
+- **dark-humor**: **NEW 5/15**: 「KitKat Heist 40 萬條 失竊 荒謬規模」 + 「Saxophone Louder 災難 zoom-in」 register 1 item 候選 6月 opportunistic.
+
+- **motivational-quotes**: 5/6-5/9 carry Taylor Swift 2026 + nostalgia × motivational + 五月天 25年 #5525 (T-50) + 5/14 carry PSY 5/23 大巨蛋 12年後. **NEW 5/15**: 「老歌神 2026 大爆發 / 14 年後 同一首歌 / 18 歲哭 32 歲也哭」 跨世代懷舊 register 1-2 items 6月 opportunistic.
+
+- **drama-quotes**: **NEW 5/15**: 「演唱會 sing along 哭點 / 大合唱 我 全場 一起 哭 / 但 哭的 是 我 14 年前 那 個 自己」 register 1 item 候選 6月 opportunistic (孫燕姿 + PSY + 五月天 老歌神 cross-link).
+
+- **zodiac-quotes**: 5/14 carry「GPT-Image-2 賽博半仙 / 手相 算命 / AI 看手 vs 媽 看手」 register 1 item 候選 6月 opportunistic. **5/15 reconfirm** (beauty321 70998 + nownews 6670443 + 36kr 多源 reconfirm).
+
+- **adulting-quotes (66 items live)**: **organic 觀察期 day 7/?**. 報稅季 day 15/24 (T-17 倒數). 5/30+ 最後一波 day-of opportunistic 仍 valid. 「Taiwan Pass 4 折 / 1500 元 抽籤 / 沒抽到」 國旅補助 5/15 carry register 1 item 候選 6月 opportunistic.
+
+- **holiday-jokes (79 items, 端午 T-35)**: seeds 不變. **5/22 (T-28) 啟動倒數 7 天**. 5/12-5/14 carry「玉琴顧粽 / 蔡依林康民順 / 杜蕾絲先剝粽子再划龍舟 / 一見粽情 / 粽情粽禮 / 粽夏慶端午 / 包中諧音」 + 5/14 carry 補習班「包粽=包中」升學 cross-link. 5/15 yahoo「天后愛諧音梗」 + memes.tw 端午梗圖 多源 reconfirm.
+
+- **self-love-quotes (21 items, 5/6 上線)**: **organic 觀察期 day 2/?**.
+
+- **wedding-quotes (5/7 上線)**: **organic 觀察期 day 1/?** (5/14 monitor 結束).
+
+- **food-jokes / service-quotes / breakup-quotes**: **organic 觀察期持續**. 端午「粽子諧音」 cross-link 1-2 items 5/22 啟動前 預備 (food-jokes).
+
+- **mom-quotes (70 items) / sweet-quotes (105 items)**: **5/12 EOD reassess 決策 = 維持封盤 + 收 2027 backlog**. 5/14 carry 五 雷區 (飯圈/婚姻/偶像/喪母/推銷時機) 2027 priority 載入不變.
+
+- **dog-quotes / cat-quotes / diet-quotes / cheesy-pickups / couple-jokes / cold-jokes / korean-drama-quotes / travel-quotes / pet-memorial-quotes / insomnia-quotes / renting-quotes / exam-quotes**: no new 5/15 signal.
+
+### Updated Action Priority
+
+1. **[HIGH — DEADLINE TODAY 5/15 EOD]** graduation-quotes 4 NEW 2026 phrasings + 北一女「成為幸福的大人」 + 「日落以後 = 孫燕姿 兩場 (5/15 today 19:30 + 5/17)」 frame 1-2 items + nostalgia × AI 視覺 1-2 items + **NEW 5/15**「成年禮 + 演唱會 + 同學分流 + 雨中應考 + 5/15-17 三天 day-of 重疊」 1-2 items.
+2. **[HIGH — DEADLINE TODAY 5/15 EOD]** healing-quotes 「考前陪伴」 1 item 末日 (T-1 會考 + 5/15 下午 查考場 焦慮峰值) + 「下雨天 + 考場 + 演唱會 都是 你」 1 item 候選.
+3. **[MEDIUM — 5 DAYS, 5/20 deadline]** slang-quotes 「句式 viral」 sub-format 3-5 items. 8 register priority. 「Threads 5 大梗 popdaily 第三次 reconfirm」 + **NEW 5/15**「chill guy / 我就 chill / 不解釋」 anti-effort register 1 item 候選.
+4. **[HIGH — 7 DAYS, 5/22 啟動 → 6/19 端午]** holiday-jokes 端午節 expansion 5+ items + food-jokes cross-link 「粽子諧音」 1-2 items.
+5. **[MEDIUM — 5/16 後 opportunistic]** workplace-quotes 「役畜化 / 工具人」 在地化 + **5/10-5/15 累積** AI 反諷 register 2-3 items + **NEW 5/15** 「Saxophone Louder 災難 zoom-in」 sub-format 1 item + 「chill guy」 反努力 1 item.
+6. **[MEDIUM — 5/20+ day-of opportunistic]** programmer-jokes AI 反諷 register expansion 1-2 items (Meta 5/20 T-5 + Scribble + 賽博半仙 + 厭世頭像 + Saxophone Louder).
+7. **[MEDIUM — June]** Create travel-quotes / 旅遊語錄 (國旅補助 5/3200 + Taiwan Pass 4 折 / 1500 元 抽籤 + 「生日抽 沒抽到 / Taiwan PASS 抽到 但 我沒時間」 frame).
+8. **[MEDIUM-HIGH — late May (5/29-6/1) 啟動 → 6/1-6/3 上線]** Create exam-quotes / 考試語錄 8-12 items. 雙考流量 hook (5/16 國中會考 + 7/11 分科).
+9. **[MEDIUM — June opportunistic]** motivational-quotes 「老歌神 2026 大爆發 / 14 年後 同一首歌 / Taylor Swift / 五月天 / PSY / 孫燕姿」 跨世代懷舊 register 1-2 items + drama-quotes 「演唱會 sing along 哭點」 1 item.
+10. **[MEDIUM — late May]** slang-quotes Q2 refresh 泉/要確欸/爛.
+11. **[CLOSED, 5/15 carry]** mom-quotes / sweet-quotes 收 2027 backlog. 五 雷區 strategy 不變.
+12. **[MEDIUM — Q3 候選 8-9月]** pet-memorial-quotes / 寵物離世語錄.
+13. **[MEDIUM — Q3 候選 8月]** insomnia-quotes / 失眠語錄.
+14. **[FLAG — early July, T-28 to T-58]** Begin 父親節 (8/8) drafting.
+15. **[OPPORTUNISTIC — T-50, 6月底-7月初]** motivational-quotes / friendship 五月天 25年 #5525.
+16. **[OPPORTUNISTIC — June, low priority]** diet-quotes ACSM 2026 broader register +1-2 items.
+17. **[NEW MEDIUM — Q4 候選 (10-12月) 8-10月 觀察]** Create renting-quotes / 租屋語錄.
+18. **[NEW LOW — Q3 候選 (7月底-8月初) 7月 觀察]** Create summer-slack-quotes / 暑假擺爛語錄.
+19. **[NEW LOW — 2027/3 priority 載入]** mom-quotes / sweet-quotes 2027 母親節.
+20. **[OPPORTUNISTIC]** witty-comebacks 「我吃一點」 derivative + 白木耳飲翻車 + 鄉民吐槽 register expansion.
+21. **[NEW LOW — 6月 opportunistic]** absurd-wisdom 「Saxophone Louder + chill guy + Scribble 刻意畫爛」 視覺/反努力 荒謬 register 1-2 items + zodiac-quotes 「GPT-Image-2 賽博半仙 手相」 1 item + dark-humor 「KitKat Heist 40 萬條 失竊」 1 item.
+22. **[FLAG — 觀察不啟動]** 校園霸凌 5/14 carry too sensitive = 不主動 expansion. 觀察後續 政策反應.
+23. **[OPPORTUNISTIC — 5/15-17 短窗口]** graduation-quotes / healing-quotes / drama-quotes 三天 day-of 重疊 (孫燕姿 ×2 + 會考 ×2 + 鋒面 day 4/5) cross-pollinate 1-2 items.
