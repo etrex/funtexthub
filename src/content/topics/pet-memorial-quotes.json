@@ -486,6 +486,101 @@
           "variations": ["I used to scroll past pet memorial posts and think 'that must be hard.' Now I know — it's not 'hard.' It's the whole sky coming down."]
         }
       }
+    },
+    {
+      "id": "pm-026",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.animalfriends.co.uk/existing-customers/loss-and-bereavement-support/pet-bereavement-advice/how-to-help-your-pet-through-the-loss-of-their-sibling/",
+      "sourceNote": "「家裡剩下的那一隻」 frame — 兄弟姊妹寵物哀悼，原創",
+      "tags": ["思念", "另一隻毛孩", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "家裡剩下的那一隻，最近常常坐在門口看著外面。我知道牠在等。我蹲下來抱牠，跟牠說：「我也在等，那就一起等吧。」",
+          "editorNote": "適合家裡有多隻毛孩、其中一隻先走的飼主——把「另一隻也在難過」這個常被忽略的角度寫出來",
+          "variations": ["牠開始去聞那個空了的窩、那個沒人用的碗，然後抬頭看我。我沒辦法解釋，只能多抱牠幾下。"]
+        },
+        "en": {
+          "content": "The one we have left keeps sitting by the door, looking out. I know who they're waiting for. I crouch down, pull them in, and whisper: 'Yeah. Me too. Let's wait together.'",
+          "editorNote": "For multi-pet households where one passed first — captures the often-overlooked grief of the surviving sibling",
+          "variations": ["They've started sniffing the empty bed, the untouched bowl, then looking up at me for an explanation. I can't give one. So I just hold them longer."]
+        }
+      }
+    },
+    {
+      "id": "pm-027",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://rainbowbridgehk.com/%E5%AF%B5%E7%89%A9%E9%9B%A2%E4%B8%96-9-%E5%80%8B%E6%84%9F%E4%BA%BA%E7%9A%84%E7%B4%80%E5%BF%B5%E5%AF%B5%E7%89%A9%E6%96%B9%E6%B3%95/",
+      "sourceNote": "「毛孩生日」 frame — 牠不在了的第一個生日，原創",
+      "tags": ["生日", "週年", "蛋糕"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天是你的生日。我還是買了那個你最愛的小蛋糕，切了一半放在照片前面，另一半我自己吃掉了。生日快樂，我有想你。",
+          "editorNote": "適合毛孩離世後第一個生日當天發文，提供具體的儀式畫面而不是抽象哀悼",
+          "variations": ["蠟燭點了又吹熄。沒有許願，因為我最想要的那一個，現在沒辦法實現。"]
+        },
+        "en": {
+          "content": "It's your birthday today. I still bought that little cake you loved, cut half for the photo on the shelf, and ate the other half myself. Happy birthday. I'm thinking about you.",
+          "editorNote": "For the first birthday after the loss — gives a concrete ritual image instead of abstract mourning",
+          "variations": ["Lit the candle, blew it out. Skipped the wish — the only thing I want isn't on the menu anymore."]
+        }
+      }
+    },
+    {
+      "id": "pm-028",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://inkupaw.com/dog-memorial-tattoos/",
+      "sourceNote": "「腳印刺青」 frame — 把牠帶在身上，原創",
+      "tags": ["紀念", "刺青", "腳印"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把你的腳印刺在手腕內側。痛了一個下午，然後看著它笑了一個禮拜。從今以後，我每次伸手，都帶著你一起。",
+          "editorNote": "適合「我做了一個決定來紀念牠」的分享文，刺青、項鍊、戒指都可以套用",
+          "variations": ["不是要證明給誰看。只是想在每天最普通的動作裡，都還能碰到你一下。"]
+        },
+        "en": {
+          "content": "I got your paw print tattooed on the inside of my wrist. It stung for an afternoon and made me smile for a week. Now every time I reach for something, you come along.",
+          "editorNote": "For 'I did a thing to remember them' posts — works for tattoos, lockets, rings, any wearable memory",
+          "variations": ["Not for anyone else to see. Just so I can brush my hand against you in the middle of an ordinary day."]
+        }
+      }
+    },
+    {
+      "id": "pm-029",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.helpguide.org/mental-health/grief/coping-with-losing-a-pet",
+      "sourceNote": "「我還好」表面回答 frame — 喪寵後的社交假面，原創",
+      "tags": ["撫慰", "悲傷", "社交"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人問「最近還好嗎」，我都說「還可以」。可是回家鞋一脫、燈一關，眼淚就自己出來了。原來大人的「還好」，是把哭留到沒人看見的時候。",
+          "editorNote": "寫出喪寵後的雙面狀態，讓正在硬撐的人知道自己不孤單，社群共鳴度高",
+          "variations": ["白天我笑得很正常。晚上洗澡的時候，蓮蓬頭剛好可以蓋過聲音。"]
+        },
+        "en": {
+          "content": "When people ask how I'm doing, I say 'I'm okay.' Then I get home, kick off my shoes, turn off the light, and the tears just come. Turns out adult 'I'm okay' means saving the crying for when nobody's watching.",
+          "editorNote": "Names the double-life of grief — high resonance for anyone holding it together in public",
+          "variations": ["I laugh normally during the day. At night, the shower runs loud enough to cover the sound."]
+        }
+      }
+    },
+    {
+      "id": "pm-030",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://health.udn.com/health/story/123125/7859116",
+      "sourceNote": "「味道還在」 frame — 嗅覺記憶觸景生情，原創",
+      "tags": ["思念", "味道", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你睡過的那條毯子，我一直沒洗。上面還有一點點你的味道，一點點曬過太陽的味道。這是這個家剩下最後一個有你的角落了。",
+          "editorNote": "嗅覺是最直接、最私密的思念觸發點，比視覺更難寫，寫到就格外有感",
+          "variations": ["你那件小衣服我塞在抽屜最深的地方。每隔幾個月打開一次，再趕快關起來——怕味道散得太快。"]
+        },
+        "en": {
+          "content": "The blanket you used to sleep on — I haven't washed it. There's still a little of your smell on it, a little of sun-warmed fur. It's the last corner of this house that still has you in it.",
+          "editorNote": "Smell is the most private, hardest-to-fake grief trigger; when it lands, it lands hard",
+          "variations": ["Your little sweater is at the bottom of the drawer. Every few months I open it for one breath and shut it fast — scared the smell will run out."]
+        }
+      }
     }
   ]
 }

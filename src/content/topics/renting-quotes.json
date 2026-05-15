@@ -701,6 +701,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-031",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.shareuhack.com/zh-TW/posts/taiwan-rental-subsidy-guide",
+      "sourceNote": "2026 雙租補 合租兩人各自申請 viral guide; rewritten original",
+      "tags": ["補助", "合租", "室友", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟室友各自申請了租金補貼，\n房東知道後說：「那這樣我也要申請。」\n申請什麼？申請我們繼續住下去的耐心。",
+          "editorNote": "適合剛跟室友研究完雙租補申請、結果被房東發現的朋友互相苦笑",
+          "variations": [
+            "兩個人合租兩份補助，房東一個人漲了兩次房租，數學真的很公平。"
+          ]
+        },
+        "en": {
+          "content": "My roommate and I each applied for the rent subsidy.\nWhen the landlord found out, he said: 'Then I should apply too.'\nApply for what? For our patience to keep living here.",
+          "editorNote": "Send to a friend who just figured out the dual subsidy with their roommate — only to have the landlord catch on",
+          "variations": [
+            "Two of us claimed two subsidies. One landlord raised the rent twice. Math really is fair."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-032",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.ptt.cc/bbs/home-sale/M.1748018768.A.1CE.html",
+      "sourceNote": "PTT 老房東換手年輕房東漲租 register; rewritten original",
+      "tags": ["房東", "漲租", "繼承", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "老房東退休那天我以為解脫了，\n結果他兒子上任第一件事，\n就是把我的房租從一萬二調成一萬八。\n原來繼承的不只是房子，還有對房客的審美觀。",
+          "editorNote": "傳給租屋處剛換手給「房二代」的朋友，先預警下一年的漲幅",
+          "variations": [
+            "老房東說「都是緣分啦」就少收兩千，新房東說「這是市場行情」就多收三千。"
+          ]
+        },
+        "en": {
+          "content": "The day the old landlord retired, I thought I was free.\nThen his son took over and the first thing he did\nwas raise my rent from twelve hundred to eighteen.\nTurns out he didn't just inherit the building — he inherited the taste for squeezing tenants.",
+          "editorNote": "Send to a friend whose rental just got handed down to the 'landlord 2.0' generation — brace them for next year's hike",
+          "variations": [
+            "Old landlord said 'we're like family' and knocked off two hundred. New landlord said 'it's just market rate' and tacked on three hundred."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-033",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E8%90%AC%E8%90%AC%E7%A8%85%EF%BC%8C%E7%A7%9F%E5%B1%8B%E6%97%8F%E8%88%87%E5%8C%85%E7%A7%9F%E5%85%AC%E7%AF%80%E7%A8%85%E5%85%A8%E6%94%BB%E7%95%A5/",
+      "sourceNote": "2026 報稅 房租特別扣除額 房東不肯給收據; rewritten original",
+      "tags": ["報稅", "房東", "收據", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我想申報房租特別扣除額，\n跟房東要收據。\n房東說：「妳要報稅，我就要報所得，那房租加三千。」\n我這才懂——所謂節稅，是看誰先放棄。",
+          "editorNote": "適合每年五月報稅前轉發給準備跟房東談收據的朋友，附上一句「祝你好運」",
+          "variations": [
+            "我省下的稅，剛好等於房東幫我加的房租。我們互相成全。"
+          ]
+        },
+        "en": {
+          "content": "I wanted to claim the rent tax deduction.\nAsked my landlord for a receipt.\nHe said: 'If you report it, I report income — and rent goes up three thousand.'\nThat's when I understood: tax saving is just a contest of who gives up first.",
+          "editorNote": "Perfect to forward every May before tax season — for friends about to ask their landlord for a receipt, attach a 'good luck'",
+          "variations": [
+            "The tax I saved exactly equals the rent he raised. We complete each other."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-034",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://today.line.me/tw/v3/article/oq95laq",
+      "sourceNote": "2026 居住轉骨年 四大新制 register; rewritten original",
+      "tags": ["買房", "夢想", "成年", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說 2026 是居住轉骨年。\n我看完笑了，\n因為轉骨的是政策，我還是繳一樣的房租，住一樣的套房，做一樣買不起房的夢。",
+          "editorNote": "適合每次看到「居住正義」相關新聞時轉發，溫和地提醒大家現實沒有變",
+          "variations": [
+            "政策轉骨、房東轉性、薪水轉漲——三選一，我選相信房東會修水管。"
+          ]
+        },
+        "en": {
+          "content": "The news says 2026 is the year housing finally turns a corner.\nI laughed.\nBecause the policy turned, but I'm paying the same rent, in the same studio, dreaming the same dream I can't afford.",
+          "editorNote": "Good to share whenever 'housing reform' headlines drop — a gentle reminder that nothing's actually changed on the ground",
+          "variations": [
+            "Policy reform, landlord reform, salary reform — pick one. I'll go with believing my landlord will fix the pipes."
+          ]
+        }
+      }
     }
   ]
 }

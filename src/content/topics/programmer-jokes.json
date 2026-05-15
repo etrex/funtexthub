@@ -3985,6 +3985,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-139",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://programmerhumor.io/memes/merge-conflicts",
+      "sourceNote": "Nuclear option for merge conflicts — copy files, fresh repo, pretend nothing happened",
+      "tags": [
+        "Git",
+        "Merge Conflict",
+        "經典",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師教新人解 merge conflict 的終極奧義：\n\n第一步，把你目前能跑的檔案全部複製到桌面一個叫『救命』的資料夾。\n\n第二步，把整個 repo 砍掉。\n\n第三步，重新 git init，把『救命』資料夾的東西貼回去。\n\n第四步，commit message 寫『initial commit』。\n\n第五步，force push 到 main，然後立刻關掉螢幕去倒一杯咖啡。\n\n新人：「那 git 歷史紀錄怎麼辦？」\n\n資深工程師：「⋯⋯什麼歷史紀錄。」",
+          "editorNote": "傳給每個被 merge conflict 整到想轉行的工程師朋友，告訴他你不是一個人。",
+          "variations": [
+            "工程師三大『假裝沒事』：rm -rf node_modules、刪掉整個 branch 重來、把 .env 不小心 commit 後 force push。",
+            "解 merge conflict 的真理：『會的人三秒解完，不會的人解了三天還要重做。』"
+          ]
+        },
+        "en": {
+          "content": "A senior dev teaching the junior the ultimate technique for fixing merge conflicts:\n\nStep one: copy every file that currently works into a folder on your desktop called 'PLEASE'.\n\nStep two: delete the entire repo.\n\nStep three: git init a fresh one and paste everything from 'PLEASE' back in.\n\nStep four: commit message is 'initial commit'.\n\nStep five: force push to main and immediately close your laptop to go pour a coffee.\n\nJunior: \"What about the git history?\"\n\nSenior: \"...what history.\"",
+          "editorNote": "Send to every dev who's been beaten down by a merge conflict and is googling 'career change.' You are not alone.",
+          "variations": [
+            "Three things devs pretend never happened: rm -rf node_modules, deleting a branch and starting over, and force-pushing after committing the .env.",
+            "The truth about merge conflicts: people who can solve them do it in three seconds; people who can't spend three days and still redo the work."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-140",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://medium.com/dean-lin/%E9%9C%80%E6%B1%82%E4%B8%8D%E6%96%B7%E8%AE%8A%E6%9B%B4-%E5%88%B0%E5%BA%95%E5%93%AA%E5%80%8B%E7%92%B0%E7%AF%80%E5%87%BA%E9%8C%AF%E4%BA%86-%E5%B7%A5%E7%A8%8B%E5%B8%AB%E8%A1%80%E6%B7%9A%E5%8F%B2-5fc1e1f15b0b",
+      "sourceNote": "Eternal PM requirement-change joke — fresh tone for 2026",
+      "tags": [
+        "PM",
+        "需求變更",
+        "開會",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM：「這個功能很簡單，按一下按鈕就好。」\n\n工程師：「好，下週上線。」\n\n（隔天）\n\nPM：「對了，按下去後要先跳一個確認視窗。」\n\n工程師：「好。」\n\n（再隔天）\n\nPM：「老闆說那個確認視窗要可以選三種語言。」\n\n工程師：「⋯⋯好。」\n\n（再再隔天）\n\nPM：「客戶希望按下去之後不要跳視窗，直接送出，但是要可以後悔。」\n\n工程師：「⋯⋯」\n\nPM：「然後 deadline 不變喔。」\n\n工程師：「⋯⋯」\n\nPM：「你還在嗎？」\n\n工程師（已經在 104 投履歷）：「在的。」",
+          "editorNote": "傳給每個被 PM 一改再改、deadline 還不能動的工程師。",
+          "variations": [
+            "PM 三大金句：『這個很簡單』『時程不變』『客戶說要這樣』。",
+            "工程師心法：聽到『順便』兩個字，自動把工時乘以五。"
+          ]
+        },
+        "en": {
+          "content": "PM: \"This feature is simple. Just one button.\"\n\nDev: \"Cool, ship it next week.\"\n\n(Next day)\n\nPM: \"Oh, the button needs a confirmation modal.\"\n\nDev: \"Fine.\"\n\n(Day after)\n\nPM: \"Leadership wants the modal in three languages.\"\n\nDev: \"...okay.\"\n\n(Day after that)\n\nPM: \"Client wants no modal — just submit on click — but they need an undo button.\"\n\nDev: \"...\"\n\nPM: \"Deadline stays the same, by the way.\"\n\nDev: \"...\"\n\nPM: \"You still there?\"\n\nDev (already updating LinkedIn): \"Yep.\"",
+          "editorNote": "Send to any dev whose scope keeps creeping while the deadline refuses to move.",
+          "variations": [
+            "Three PM phrases that strike fear: 'this is simple,' 'the timeline is fixed,' 'the client wants this.'",
+            "Engineering survival tip: when you hear 'while you're at it,' multiply the estimate by five."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-141",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://blog.codinghorror.com/regular-expressions-now-you-have-two-problems/",
+      "sourceNote": "Classic Jamie Zawinski regex quote, refreshed for 2026 AI era",
+      "tags": [
+        "regex",
+        "經典",
+        "AI",
+        "Debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師遇到一個問題。\n\n他想：「我知道，我用 regex 解！」\n\n現在他有兩個問題。\n\n他想：「沒關係，我叫 AI 寫 regex！」\n\n現在他有三個問題：原本的問題、看不懂的 regex、以及一段 AI 信誓旦旦說『絕對能 match』但其實會把整個資料庫都 match 進去的字串。\n\n他打開 Stack Overflow⋯⋯網站早就荒廢了。\n\n他打開 ChatGPT⋯⋯AI 道歉了三次，每次都給一個一樣爛的答案。\n\n他最後決定用 split 跟 indexOf 處理，花了兩小時，但會動。\n\n資深工程師走過來拍了他一下：「歡迎進入頓悟階段。」",
+          "editorNote": "傳給每個試圖 match email 卻把整個資料庫炸掉的工程師。",
+          "variations": [
+            "Regex 真理：你寫的時候只有上帝跟你看得懂，三個月後只剩上帝。",
+            "AI 寫 regex 的真實情況：信心十足，正確率十分之一。"
+          ]
+        },
+        "en": {
+          "content": "A developer had a problem.\n\nHe thought: \"I know, I'll use a regex.\"\n\nNow he had two problems.\n\nHe thought: \"No problem, I'll ask the AI to write the regex.\"\n\nNow he had three problems: the original one, an unreadable regex, and an AI that swore 'this absolutely matches' while the pattern actually matched the entire database.\n\nHe opened Stack Overflow... it had been a ghost town for years.\n\nHe opened ChatGPT... the AI apologized three times and gave the same wrong answer each round.\n\nIn the end he wrote it with split and indexOf. Took two hours. Worked.\n\nA senior dev walked by and patted his shoulder: \"Welcome to enlightenment.\"",
+          "editorNote": "Send to every dev who tried to match an email and somehow nuked production.",
+          "variations": [
+            "Regex truth: when you wrote it, only you and God understood it; three months later, only God.",
+            "AI writing regex: 100 percent confidence, 10 percent accuracy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-142",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Legacy code as family heirloom — multi-generation codebase joke",
+      "tags": [
+        "Legacy Code",
+        "Comments",
+        "歷史包袱",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人接手了一份 2008 年寫的 PHP 專案。\n\n他翻開第一個檔案，看到一行註解：\n\n`// 不要動這段，動了就會壞 — 阿威 2009/03/15`\n\n他往下捲，看到下一行：\n\n`// 我也不知道阿威為什麼這樣寫，但他是對的 — 老陳 2012/07/22`\n\n再往下：\n\n`// 阿威已經離職十年了，這段還在動，建議勿動 — 小林 2018/11/03`\n\n再再往下：\n\n`// 我問了 AI，AI 也叫我不要動 — 小張 2025/06/10`\n\n新人默默關掉檔案，在 Slack 上敲：「請問這個專案的歷史文件在哪？」\n\n資深工程師回他：「歷史文件就是那些註解。」",
+          "editorNote": "傳給每個剛接手十年老專案、看著神秘註解發抖的新人工程師。",
+          "variations": [
+            "Legacy code 不是程式碼，是工程師家族的傳家寶。",
+            "工程師最大的尊敬：『這段我不懂但我不會動。』"
+          ]
+        },
+        "en": {
+          "content": "A new hire inherited a PHP project written in 2008.\n\nHe opened the first file and saw this comment:\n\n`// Do not touch this. If you touch it, it breaks. — Dave, 2009-03-15`\n\nHe scrolled down to the next:\n\n`// I have no idea why Dave wrote it this way, but he was right. — Mike, 2012-07-22`\n\nAnd the next:\n\n`// Dave left ten years ago. This still runs in production. Strongly advise: do not touch. — Lin, 2018-11-03`\n\nAnd the next:\n\n`// I asked the AI. The AI also said don't touch it. — Sarah, 2025-06-10`\n\nThe new hire quietly closed the file and typed into Slack: \"Where's the documentation for this project?\"\n\nA senior dev replied: \"Those comments ARE the documentation.\"",
+          "editorNote": "Send to any dev who just inherited a decade-old project and is staring at cryptic comments in horror.",
+          "variations": [
+            "Legacy code isn't code. It's a family heirloom passed down through generations of devs.",
+            "The highest form of engineering respect: 'I don't understand this and I refuse to touch it.'"
+          ]
+        }
+      }
     }
   ]
 }

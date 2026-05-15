@@ -899,6 +899,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-038",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://hostelgeeks.com/26-funny-travel-quotes-laugh/",
+      "sourceNote": "hotel breakfast buffet 經典 register，原創改寫",
+      "tags": ["飯店", "美食", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "飯店早餐自助吧是我這輩子\n唯一願意早起的理由。\n\n而且我吃的份量\n是房價裡早就算好的，\n不吃才叫吃虧。",
+          "editorNote": "適合自助吧戰利品平拍、滿到溢出的盤子特寫、Threads 飯店食記廢發——把「飯店早餐」這件事寫到位，自帶共鳴跟笑點",
+          "variations": [
+            "我訂飯店不是為了床，是為了早餐券。",
+            "飯店早餐的真理：第一輪先勘查、第二輪鎖定目標、第三輪是榮譽戰役。"
+          ]
+        },
+        "en": {
+          "content": "The hotel breakfast buffet\nis the only reason I'll set an alarm on vacation.\n\nAnd how much I eat\nis already priced into the room.\nNot eating it is basically losing money.",
+          "editorNote": "For the overflowing-plate flat lay, the buffet-table wide shot, or the Threads breakfast confession — captures the universal hotel breakfast strategy",
+          "variations": [
+            "I don't book hotels for the bed. I book them for the breakfast voucher.",
+            "Buffet rules: first round is reconnaissance, second round is target acquisition, third round is honor."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-039",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://punmosphere.com/sunscreen-puns-and-jokes/",
+      "sourceNote": "sunscreen / 防曬 register，原創改寫",
+      "tags": ["防曬", "海邊", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的海邊行程：\n上午——抹防曬。\n中午——補防曬。\n下午——後悔沒補防曬。\n晚上——全身像一隻煮過頭的蝦子，\n反省人生。",
+          "editorNote": "適合海邊度假回來曬傷的 IG 限動、Threads 痛苦自嘲文、剝皮中的手臂特寫——把每個出國海邊曬傷的人都中過的劫寫成段子",
+          "variations": [
+            "我以為我有抹防曬，但顯然我抹得不夠誠懇。",
+            "海邊三日後的我：膚色像旅遊紀念品，痛感是免費贈品。"
+          ]
+        },
+        "en": {
+          "content": "My beach itinerary:\nmorning — apply sunscreen.\nnoon — reapply sunscreen.\nafternoon — regret not reapplying sunscreen.\nevening — look like an overcooked shrimp\nand reflect on my life choices.",
+          "editorNote": "For the post-beach lobster-red selfie, the peeling-skin close-up, or the Threads sunburn lament — every traveler has lived this exact arc",
+          "variations": [
+            "I thought I applied sunscreen. Apparently not sincerely enough.",
+            "Three days at the beach: my new tan is a souvenir, the pain is a complimentary gift."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-040",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.dreamsquote.com/funny-travel-quotes/",
+      "sourceNote": "post-vacation blues / 收假症候群 register，原創",
+      "tags": ["收假", "上班族", "搞笑", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "收假後的第一個週一，\n我盯著電腦螢幕三小時，\n才終於想起：\n我的職稱、我的密碼、\n還有「我到底為什麼要回來」。",
+          "editorNote": "適合收假回辦公室第一天的 IG 限動、Threads 哀號短發、星期一早晨的 LINE 群組廢文——把上班族最痛的「收假後失憶症」寫到位",
+          "variations": [
+            "收假症候群的症狀：對著未讀信件發呆、忘記同事的名字、心裡循環播放上次旅行的海浪聲。",
+            "我不是不想工作，我是還沒從上一個時區的我切換回來。"
+          ]
+        },
+        "en": {
+          "content": "First Monday back from vacation,\nI stared at my screen for three hours\nbefore I finally remembered:\nmy job title, my password,\nand why I came back at all.",
+          "editorNote": "For the back-to-desk selfie, the unread-emails screenshot, or the Sunday-night Threads dread post — captures the surreal amnesia of the first day back",
+          "variations": [
+            "Post-vacation symptoms: staring at unread emails, forgetting your coworker's name, mental playback of last week's waves on loop.",
+            "I'm not refusing to work. I just haven't switched back from the version of me that lived in another time zone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-041",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.thebrokebackpacker.com/funny-travel-quotes/",
+      "sourceNote": "travel insurance / 出國買保險焦慮 register，原創",
+      "tags": ["保險", "出國", "焦慮", "搞笑"],
+      "i18n": {
+        "zh-tw": {
+          "content": "買旅平險的時候，\n業務員問我要不要加保意外，\n我才驚覺\n原來我這趟旅行\n預設值是什麼都會出事。",
+          "editorNote": "適合機場保險櫃台前的自拍、出發前一天填保單的 Threads 廢發、跟朋友討論意外險的 LINE 對話——把出國前焦慮寫得很有畫面感",
+          "variations": [
+            "出國前我才發現，買保險是把自己對未知的恐懼明碼標價的過程。",
+            "我不是悲觀，我只是把每一種「萬一」都付了錢請別人幫我擔心。"
+          ]
+        },
+        "en": {
+          "content": "When the agent asked\nif I wanted to add accident coverage,\nthat's when it hit me:\nthis trip is apparently\nset to 'something will go wrong' by default.",
+          "editorNote": "For the insurance-counter selfie at the airport, the policy-paperwork flat lay, or the Threads pre-trip anxiety post — names the surreal moment of pricing your own paranoia",
+          "variations": [
+            "Buying travel insurance is just putting a price tag on every fear you didn't know you had.",
+            "I'm not pessimistic. I just paid someone else to worry about every possible 'what if' on my behalf."
+          ]
+        }
+      }
     }
   ]
 }

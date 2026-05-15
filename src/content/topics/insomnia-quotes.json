@@ -540,6 +540,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-024",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://aigift.alibaba.com/quotes/quotes-on-insomnia-funny",
+      "sourceNote": "Inspired by 'awake when the world sleeps = secret agent' framing; rewritten with localized mission detail",
+      "tags": ["失眠", "凌晨三點", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全世界都在睡的時候，只有我醒著。\n感覺自己像個秘密特工，\n任務內容是：思考冰箱裡那塊蛋糕還能不能吃。",
+          "editorNote": "把獨自清醒的孤寂感包裝成特務電影。深夜偷吃宵夜的人會狂笑，發限動很有畫面感。",
+          "variations": [
+            "我是夜班的代理人，工作項目：什麼都沒做。"
+          ]
+        },
+        "en": {
+          "content": "When the whole world is asleep, only I'm awake.\nI feel like a secret agent on a mission,\nand the mission is: figure out if that cake in the fridge is still edible.",
+          "editorNote": "Reframes the lonely 3am awake feeling as a spy thriller. Late-night snackers will lose it. Cinematic caption material for a story post.",
+          "variations": [
+            "I'm the agent on the night shift. Mission objective: absolutely nothing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-025",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://aigift.alibaba.com/quotes/quotes-on-insomnia-funny",
+      "sourceNote": "Inspired by 'scrolling memes at 2am isn't insomnia, it's research' format; rewritten with academic-paper framing",
+      "tags": ["失眠", "滑手機", "自嘲", "廢話文學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是在滑手機，我是在做田野調查。\n研究主題：為什麼演算法總在凌晨兩點，推薦我看貓咪洗澡。\n論文進度：失敗。",
+          "editorNote": "把熬夜滑手機講得很有學術感的反諷。研究生、上班族都會有感，傳到群組會被截圖。",
+          "variations": [
+            "這不是熬夜，這是長期觀察人類行為的實驗，受試者是我自己。"
+          ]
+        },
+        "en": {
+          "content": "I'm not scrolling, I'm conducting field research.\nResearch topic: why does the algorithm always recommend cats taking baths at 2am?\nDissertation progress: failure.",
+          "editorNote": "Repackages doom-scrolling as serious academic work. Grad students and office workers will both nod. Highly screenshot-able.",
+          "variations": [
+            "It's not insomnia, it's a longitudinal study of human behavior. The subject is me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-026",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://thechive.com/funny/my-brain-at-3am-memes/",
+      "sourceNote": "Original Sunday-night-dread angle; not covered in existing items",
+      "tags": ["失眠", "週日", "上班族", "焦慮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週日晚上11點：今天好好放鬆。\n週日晚上11點半：明天的會議要講什麼？\n週日晚上12點：我為什麼還在這家公司。\n週日凌晨2點：我為什麼還活著。",
+          "editorNote": "週日夜晚的「逐級下沉」式焦慮路徑。社畜共鳴值爆表，傳同事群組會引發一片苦笑跟貼圖。",
+          "variations": [
+            "週日晚上的失眠，是對週一的提前致敬。"
+          ]
+        },
+        "en": {
+          "content": "Sunday 11pm: Tonight I'm really going to relax.\nSunday 11:30pm: What am I going to say in tomorrow's meeting?\nSunday midnight: Why am I still at this company?\nSunday 2am: Why am I still alive?",
+          "editorNote": "The full Sunday-night descent in four lines. Lethal accuracy for office workers — drop in the team chat for a chorus of grim emojis.",
+          "variations": [
+            "Sunday-night insomnia is just an advance tribute to Monday."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-027",
+      "dateAdded": "2026-05-15",
+      "sourceUrl": "https://www.wolfglobal.org/blog/insomnia-quotes",
+      "sourceNote": "Original gentle item — adds a 'time off the clock' metaphor to the healing register",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡不著的夜晚，就當作偷來的一段時間。\n沒有人會檢查你怎麼用，\n你可以發呆，也可以什麼都不做。",
+          "editorNote": "把失眠重新框架成「多出來的時間」，移除「應該睡著」的壓力。傳給最近因為睡不著而焦慮的朋友，會讓他鬆一口氣。",
+          "variations": [
+            "醒著的這幾個小時，是世界送你的，不用拿來焦慮。"
+          ]
+        },
+        "en": {
+          "content": "Treat a sleepless night as stolen time.\nNobody's going to check how you use it.\nYou can stare at the wall. You can do nothing at all.",
+          "editorNote": "Reframes insomnia as bonus hours instead of failure. Lifts the 'I should be asleep' pressure. Send to a friend who's been anxious about not sleeping — they'll exhale.",
+          "variations": [
+            "These extra hours are a gift from the world. You don't have to spend them on worry."
+          ]
+        }
+      }
     }
   ]
 }
