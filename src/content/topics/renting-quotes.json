@@ -793,6 +793,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-035",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.threads.com/@housemate_tw/post/DNnfBGiBg1K",
+      "sourceNote": "2026 提前解約踩雷文 viral discussion; rewritten original",
+      "tags": ["解約", "合約", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "簽約那天我看過合約，\n退租那天我才知道：\n看過跟看懂，是兩個截然不同的境界。",
+          "editorNote": "傳給準備提前解約、發現合約字眼模糊的朋友，順便提醒下一份要逐條問清楚",
+          "variations": [
+            "合約上寫「雙方協議」，協議的方式是房東開口，我點頭。",
+            "我簽約前研究三天，房東退租時用三秒讓我學會什麼叫法律。"
+          ]
+        },
+        "en": {
+          "content": "I read the lease the day I signed it.\nI understood the lease the day I tried to move out.\nReading and understanding turn out to be two very different things.",
+          "editorNote": "Send to a friend trying to break a lease early and discovering the fine print — bonus: remind them to interrogate every clause next time",
+          "variations": [
+            "The lease said 'by mutual agreement.' The agreement process was: landlord talks, I nod.",
+            "I studied the contract for three days before signing. My landlord taught me what 'law' meant in three seconds at move-out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-036",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC-%E6%88%BF%E6%9D%B1-%E6%88%BF%E5%AE%A2-%E5%A0%B1%E7%A8%85-%E7%A8%85%E7%8E%87-%E5%84%AA%E6%83%A0-%E7%A7%9F%E5%B1%8B/",
+      "sourceNote": "2026 違建不得申請300億租金補貼 register; rewritten original",
+      "tags": ["補助", "違建", "頂加", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新法說違建不能申請租金補貼。\n那我住的頂樓加蓋怎麼辦？\n房東說：「沒關係，我幫你寫合約地址是一樓。」\n原來在台灣，地址也可以四捨五入。",
+          "editorNote": "適合住頂加、鐵皮屋、夾層的朋友互傳，配上一張你家窗戶的奇景照",
+          "variations": [
+            "我住違建，房東給我合法合約，補助說我不存在——三方都很有創意。",
+            "違建不能領補助，我才知道我從來不算「住在房子裡」，我只是「住在屋頂上」。"
+          ]
+        },
+        "en": {
+          "content": "The new rule says illegal additions can't qualify for the rent subsidy.\nWhat about my rooftop add-on?\nMy landlord said: 'Don't worry, I'll just put the first floor as your address on the contract.'\nTurns out, in Taiwan, even addresses can be rounded down.",
+          "editorNote": "Perfect for friends living in rooftop shacks, tin-roof rooms, or loft conversions — pair with a photo of your weird window view",
+          "variations": [
+            "I live in an illegal unit, my landlord wrote me a legal contract, the subsidy says I don't exist — three sides, all very creative.",
+            "Illegal additions can't claim subsidies. That's when I learned I've never 'lived in a house' — I've just been 'living on a roof.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-037",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 recently renovated +$400 meme; rewritten original",
+      "tags": ["翻修", "漲租", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東換了一個馬桶蓋，說「房子有翻修」，\n房租加一千。\n我這才知道一個馬桶蓋值十二個月的薪水。",
+          "editorNote": "傳給租屋處被「微改裝」當理由漲租的朋友，互相苦笑這個世界",
+          "variations": [
+            "房東換了一盞燈泡叫做「全面升級」，我換了一份工作叫做「換湯不換藥」。",
+            "翻修的定義是：房東花一百元，房客一年多付一萬二。"
+          ]
+        },
+        "en": {
+          "content": "My landlord replaced one toilet seat, called it a 'renovation,'\nand bumped rent by a thousand.\nThat's when I learned a single toilet seat is worth twelve months of my paycheck.",
+          "editorNote": "Send to a friend whose landlord used a 'minor upgrade' to justify a rent hike — share a bitter laugh at the absurdity",
+          "variations": [
+            "Landlord swapped one lightbulb and called it 'a complete upgrade.' I swapped my whole job and called it 'same circus, different clowns.'",
+            "Renovation means: landlord spends a hundred bucks, tenant pays an extra twelve hundred a year."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-038",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "2026 Dcard 租屋版找室友 register; rewritten original",
+      "tags": ["室友", "合租", "界線", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "找室友的時候我列了三個條件：\n不抽菸、不吵架、不偷我的牛奶。\n結果三個她都做到了——\n因為她從來不在家。",
+          "editorNote": "適合剛找到理想室友的朋友炫耀，或剛被惡室友氣到的人苦笑",
+          "variations": [
+            "我跟室友每月分攤房租、水費、電費，跟一段沒有戀愛的婚姻一樣。",
+            "好室友的定義：跟你住兩年，你連她長什麼樣子都記不太起來。"
+          ]
+        },
+        "en": {
+          "content": "When I was hunting for a roommate, I listed three deal-breakers:\nno smoking, no fighting, no stealing my milk.\nShe checked all three boxes —\nbecause she's never home.",
+          "editorNote": "Great for someone bragging about their unicorn roommate, or for someone freshly burned by a nightmare one",
+          "variations": [
+            "My roommate and I split rent, water, and electricity each month — like a marriage with none of the romance.",
+            "Definition of a good roommate: you've lived together two years and still can't quite picture her face."
+          ]
+        }
+      }
     }
   ]
 }

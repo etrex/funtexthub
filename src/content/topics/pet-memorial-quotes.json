@@ -581,6 +581,101 @@
           "variations": ["Your little sweater is at the bottom of the drawer. Every few months I open it for one breath and shut it fast — scared the smell will run out."]
         }
       }
+    },
+    {
+      "id": "pm-031",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.aplb.org/",
+      "sourceNote": "「找到一群懂的人」 frame — 喪寵支持團體，原創",
+      "tags": ["撫慰", "支持團體", "不孤單"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我終於去參加了喪寵支持團體。第一次有人聽我講三十分鐘牠的事情，沒有人偷看手機、沒有人說「不要再想了」。原來我不是太誇張，是身邊一直沒有對的耳朵。",
+          "editorNote": "把支持團體 / 線上社團 normalize，給「我是不是太愛哭」的飼主一個出口",
+          "variations": ["線上那群人從來沒見過我家毛孩，可是他們記得牠的名字。比某些見過的家人還貼心。"]
+        },
+        "en": {
+          "content": "I finally went to a pet loss support group. For the first time, someone let me talk about them for thirty straight minutes — nobody checked their phone, nobody said 'maybe stop dwelling.' Turns out I wasn't being too much. I just hadn't found the right ears.",
+          "editorNote": "Normalizes joining a support group / online community — for owners who feel 'am I crying too much'",
+          "variations": ["Strangers on that forum never met my pet, but they remember their name. Kinder than some relatives who actually did."]
+        }
+      }
+    },
+    {
+      "id": "pm-032",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.empathy.com/blog/bereavement-leave-policy-guide",
+      "sourceNote": "「職場喪寵」 frame — 沒有喪假的悲傷，原創",
+      "tags": ["職場", "悲傷", "假裝沒事"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司沒有寵物喪假。我請了一天「身體不舒服」，回到位置上還是要開會、回訊息、笑。沒有人知道我桌上那杯咖啡，是早上送牠走完才買的。",
+          "editorNote": "寫給「失去毛孩隔天還要上班假裝沒事」的人。社群上很多人需要這種被看見的感覺",
+          "variations": ["主管問我為什麼今天比較安靜。我說「沒事」。我不能告訴他真話——因為「沒事」是這間公司可以接受的最大悲傷單位。"]
+        },
+        "en": {
+          "content": "There's no pet bereavement leave at my company. I called in 'sick' for one day, then went back to meetings, replies, smiling. Nobody knew that coffee on my desk was bought right after I held them at the vet that morning.",
+          "editorNote": "For people who lost a pet and had to be back at work the next day pretending — a deeply under-named grief",
+          "variations": ["My manager asked why I was quiet today. I said 'nothing.' I couldn't say the truth — 'nothing' is the biggest grief unit this office is willing to process."]
+        }
+      }
+    },
+    {
+      "id": "pm-033",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://heho.com.tw/archives/144849",
+      "sourceNote": "「身體先壞掉」 frame — 喪寵 PTSD 軀體化，原創",
+      "tags": ["身體", "PTSD", "症狀"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為悲傷只會在眼眶。後來發現它會跑到胃裡、跑到肩膀、跑到半夜兩點才睡得著的眼皮上。原來思念是會留下腳印的，留在身體裡。",
+          "editorNote": "把喪寵後的身體症狀（失眠、胃痛、頭痛）正常化，鼓勵尋求協助而不是覺得「我快瘋了」",
+          "variations": ["這兩個禮拜胃一直怪怪的，醫生說沒問題。我才懂——它不是病，是我的身體還在替我承擔那一份重量。"]
+        },
+        "en": {
+          "content": "I thought grief only lived in my eyes. Then I found it in my stomach, in my shoulders, in the 2 a.m. ceiling my eyes wouldn't stop tracing. Turns out missing someone leaves footprints — all over your body.",
+          "editorNote": "Normalizes somatic grief (insomnia, stomach pain, headaches) after pet loss — encourages help-seeking instead of 'am I losing it'",
+          "variations": ["My stomach's been weird for two weeks. Doctor says I'm fine. Now I get it — it's not a disease. My body's still carrying the weight I haven't put down yet."]
+        }
+      }
+    },
+    {
+      "id": "pm-034",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://moodtainer.com/pet-loss-healing-guide/",
+      "sourceNote": "「不被認可的悲傷」 frame — disenfranchised grief，原創",
+      "tags": ["撫慰", "不被理解", "悲傷"],
+      "i18n": {
+        "zh-tw": {
+          "content": "長輩說：「不就是一隻狗，至於嗎？」我沒回嘴，只是默默把那扇門關上。有些悲傷不需要拿出來辯護，它只需要一個願意陪你坐著、不評分的人。",
+          "editorNote": "處理「家人不理解，自己悲傷被打折」的場景。鼓勵設邊界、找對的人哭",
+          "variations": ["「再養一隻」、「就一隻寵物」、「人都會死」——這些話我都默默歸檔了。歸檔不是原諒，是保護自己今晚還能睡得著。"]
+        },
+        "en": {
+          "content": "An older relative said, 'It was just a dog. Really?' I didn't argue back — I just quietly closed that door. Some grief doesn't need to defend itself. It just needs one person willing to sit beside it without grading it.",
+          "editorNote": "Names disenfranchised grief — when family doesn't validate your loss. Encourages boundary-setting and finding the right ear",
+          "variations": ["'Just get another one,' 'it's just a pet,' 'everyone dies' — I've archived all of these. Not as forgiveness. As self-protection so I can still fall asleep tonight."]
+        }
+      }
+    },
+    {
+      "id": "pm-035",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://bestfriends.org/pet-care-resources/grieving-loss-pet-resources-coping",
+      "sourceNote": "「第一次出門沒有牠」 frame — secondary loss / 旅行情境，原創",
+      "tags": ["思念", "旅行", "日常斷裂"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這是第一次出門度假，行李裡沒有你的飼料、沒有你的小毯子、不用先打電話問寵物旅館還有沒有位置。輕了一點，可是輕得我有點站不穩。",
+          "editorNote": "處理 secondary loss——失去的不只是毛孩，還有圍繞牠建立起來的全部日常結構",
+          "variations": ["以前出國前最焦慮的是「牠這幾天怎麼辦」。現在最焦慮的是——沒有什麼好焦慮的，那種空感比擔心還重。"]
+        },
+        "en": {
+          "content": "First trip away from home without you. No bag of your food, no little blanket, no calling ahead to check the pet hotel. Everything's a little lighter. So light I can barely stay standing.",
+          "editorNote": "Captures secondary loss — losing not just the pet but every routine and identity built around them",
+          "variations": ["The biggest stress before any trip used to be 'who's taking care of them.' Now the biggest stress is having nothing to stress about. The empty feels heavier than the worry did."]
+        }
+      }
     }
   ]
 }

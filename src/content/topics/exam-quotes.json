@@ -851,6 +851,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-036",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://udn.com/news/story/124826/9507624",
+      "sourceNote": "115 會考 5/17 自然科 浮力魔王題 register — 圖表題占一半 frame",
+      "tags": ["國中會考", "115會考", "自然", "浮力", "魔王題"],
+      "i18n": {
+        "zh-tw": {
+          "content": "自然考完，朋友問我：「浮力那題你怎麼寫？」\n我說：「我浮著寫的。」\n沒有依據，只有信念。\n反正物體會不會沉，跟我會不會沉，今天好像是同一題。",
+          "editorNote": "115 會考第二天自然科考完那題浮力魔王題後的內心戲，傳到班群會引起整排同學留言「+1」。",
+          "variations": [
+            "可以加：「圖表題占一半，意思是另一半我也看不懂。」",
+            "也能改：「自然考的是浮力，我考的是浮在水面上不要沉下去的求生本能。」"
+          ]
+        },
+        "en": {
+          "content": "Friend asked after the science exam: \"How did you answer the buoyancy question?\"\nI said: \"I floated through it.\"\nNo evidence, just faith.\nWhether the object sinks and whether I sink turned out to be the same question today.",
+          "editorNote": "For the post-physics-question survivor mode — instant share to the group chat for chorus replies.",
+          "variations": [
+            "Add: \"Half the test was charts and graphs. The other half I also couldn't read.\"",
+            "Try: \"The exam tested buoyancy. I was testing my ability to stay above water.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-037",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://udn.com/news/story/124826/9507951",
+      "sourceNote": "115 會考 5/17 英文閱讀 冰島語言存亡 register — 長文閱讀 frame",
+      "tags": ["國中會考", "115會考", "英文", "閱讀測驗", "冰島"],
+      "i18n": {
+        "zh-tw": {
+          "content": "英文閱讀測驗在講冰島語言的存亡。\n我看完之後最擔心的不是冰島語，\n是我中文的存亡。\n因為這篇我從頭到尾沒看懂任何一句。",
+          "editorNote": "115 會考第二天英文長閱讀崩潰後的限動標配，配張托腮看天花板的照片更傳神。",
+          "variations": [
+            "可以加：「冰島離我太遠，這個題組離我更遠。」",
+            "也能改：「我擔心的不是世界上有幾種語言會消失，是我中文還能撐多久。」"
+          ]
+        },
+        "en": {
+          "content": "The reading section was about the survival of the Icelandic language.\nBy the end, I wasn't worried about Icelandic.\nI was worried about my own native language.\nBecause I didn't understand a single sentence in that passage.",
+          "editorNote": "For the post-reading-passage spiral — drop after any test with a brutal long-form question.",
+          "variations": [
+            "Add: \"Iceland is far from me. This passage is farther.\"",
+            "Try: \"Forget endangered languages worldwide. My grasp of my own is the real crisis.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-038",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.nownews.com/news/6836995",
+      "sourceNote": "115 會考 5/17 最後一科考完 register — 走出考場 解放 frame",
+      "tags": ["國中會考", "115會考", "考完", "解放", "最後一科"],
+      "i18n": {
+        "zh-tw": {
+          "content": "英聽結束的鐘聲響起的那一刻，\n我聽到的不是答案，\n是兩年國中生活在我腦袋裡關門的聲音。\n外面陽光好像比進考場前還大。\n世界沒變，是我換了一個版本。",
+          "editorNote": "115 會考考完最後一科那一刻的解放感，配張走出校門逆光的照片完美收尾。",
+          "variations": [
+            "可以加：「我不是聽完英聽，我是聽完了一個階段。」",
+            "也能改：「會考結束的鐘聲是我這兩年聽過最好聽的英文。」"
+          ]
+        },
+        "en": {
+          "content": "The moment the bell rang at the end of the listening test,\nwhat I heard wasn't an answer.\nIt was the sound of two years of middle school closing in my head.\nThe sun outside felt brighter than when I walked in.\nThe world didn't change. I just shipped a new version of me.",
+          "editorNote": "For the walk-out-of-the-last-paper moment — pair with a backlit shot of the school gate.",
+          "variations": [
+            "Add: \"I didn't just finish a listening test. I finished a chapter.\"",
+            "Try: \"The end-of-exam bell was the best English I've heard in two years.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-039",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "115 會考 5/17 考完當晚 不知道要幹嘛 register — 空虛 frame",
+      "tags": ["國中會考", "115會考", "考完", "空虛", "暑假"],
+      "i18n": {
+        "zh-tw": {
+          "content": "會考考完當晚，我打開手機，\n發現自己不知道要做什麼。\n讀書讀了兩年，\n從沒想過放下書之後的我，\n是一個沒有任務的人。\n原來自由不是禮物，是一張空白的待辦清單。",
+          "editorNote": "115 會考完當晚那種「自由到不知道怎麼用」的氛圍，發在限動會有同學跳出來說「我也是」。",
+          "variations": [
+            "可以加：「我準備好考試了，沒準備好考完之後的人生。」",
+            "也能改：「自由的第一個小時，我滑手機滑到不知道在滑什麼。」"
+          ]
+        },
+        "en": {
+          "content": "Night after the last exam, I picked up my phone\nand realized I had no idea what to do.\nI studied for two years,\nbut never imagined who I'd be once the books closed.\nTurns out freedom isn't a gift — it's a blank to-do list.",
+          "editorNote": "For the eerie post-finals evening when freedom feels like an empty room — story-post energy.",
+          "variations": [
+            "Add: \"I prepped for the exam. Nobody prepped me for life after it.\"",
+            "Try: \"First hour of freedom: scrolling my phone without knowing what I was scrolling for.\""
+          ]
+        }
+      }
     }
   ]
 }

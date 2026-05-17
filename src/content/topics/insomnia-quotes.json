@@ -632,6 +632,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-028",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://shuteye.ai/blog/funny-sleep-quotes",
+      "sourceNote": "Inspired by 'my relationship with sleep is toxic but committed' format; rewritten with breakup-text framing",
+      "tags": ["失眠", "自嘲", "幽默", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟睡眠的關係，是那種：\n每晚都說好今天要早點見面，\n結果它放我鴿子，我還是癡癡等到天亮。",
+          "editorNote": "把失眠講成單戀的渣男關係，特別有畫面感。適合在又一次被睡眠放鳥的清晨發限動。",
+          "variations": [
+            "睡眠對我若即若離，我們就快十年了還在曖昧期。"
+          ]
+        },
+        "en": {
+          "content": "My relationship with sleep is the kind where:\nevery night we agree to meet up early,\nthen it ghosts me and I still wait by the door until sunrise.",
+          "editorNote": "Frames insomnia as a one-sided situationship. Perfect caption for the morning after sleep stood you up again.",
+          "variations": [
+            "Sleep keeps me on read. We've been in this almost-relationship for a decade."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-029",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://shuteye.ai/blog/funny-sleep-quotes",
+      "sourceNote": "Inspired by 'brain starts a podcast with zero replay value' tweet format; rewritten with localized podcast details",
+      "tags": ["失眠", "深夜", "自嘲", "焦慮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我一閉上眼，腦袋就自動開播 Podcast。\n節目名稱：你今天那句話講錯了嗎？\n第 4,728 集，零訂閱，但每天準時更新。",
+          "editorNote": "對「腦袋睡前一定要碎念」的精準描繪。傳給也常常被腦內節目纏住的朋友，會笑著傳「我也訂閱了」。",
+          "variations": [
+            "我的腦袋開的節目沒有廣告，但有無止盡的重播。"
+          ]
+        },
+        "en": {
+          "content": "The moment I close my eyes, my brain auto-launches a podcast.\nShow title: Did you say something weird today?\nEpisode 4,728. Zero subscribers. Drops on schedule every night.",
+          "editorNote": "Pinpoint description of the pre-sleep mental noise. Send to a friend whose brain also runs its own broadcast — they'll reply 'subscribed.'",
+          "variations": [
+            "My brain's podcast has no ads. Just endless reruns."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-030",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://shuteye.ai/blog/funny-sleep-quotes",
+      "sourceNote": "Inspired by 'thoughts at night are like pop-up ads I can't close' format; rewritten with software bug framing",
+      "tags": ["失眠", "焦慮", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "深夜的念頭，就像關不掉的彈出視窗。\n你按了三次 X，它跳出五個新的。\n而且每個都連到你最不想看的回憶。",
+          "editorNote": "把睡前思緒包裝成網頁彈窗的科技梗，數位原住民秒懂。適合在被腦內訊息轟炸到睡不著的時候發。",
+          "variations": [
+            "我的腦袋沒有廣告攔截，深夜流量爆表。"
+          ]
+        },
+        "en": {
+          "content": "Thoughts at night are like pop-up ads you can't close.\nYou click the X three times, five more appear,\nand every one of them links to the memory you wanted to avoid.",
+          "editorNote": "Repackages racing thoughts as a malware-infested browser tab. Hits instantly with anyone online. Drop it when your brain refuses to quit.",
+          "variations": [
+            "My brain has no ad blocker. The night-shift traffic is brutal."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-031",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.therandomvibez.com/3am-thoughts/",
+      "sourceNote": "Original gentle item — pairs the healing register with a specific 'permission to be tired tomorrow' angle",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果今晚真的睡不好，明天就放自己一馬。\n少做一點事，多喝一點水，\n累的人，不需要再考核自己。",
+          "editorNote": "失眠的人最怕「明天還是要正常運轉」的壓力。這句話直接給出許可。傳給最近睡眠很糟又硬撐上班的朋友。",
+          "variations": [
+            "睡不好的隔天，不用補回來。可以就讓自己慢一天。"
+          ]
+        },
+        "en": {
+          "content": "If tonight really doesn't go well, cut yourself some slack tomorrow.\nDo a little less, drink a little more water.\nTired people don't need to grade themselves.",
+          "editorNote": "Insomniacs dread the 'I still have to function tomorrow' pressure. This gives explicit permission to ease up. For the friend who's been pushing through bad sleep.",
+          "variations": [
+            "The day after bad sleep, you don't have to make it up. You're allowed to go slow."
+          ]
+        }
+      }
     }
   ]
 }

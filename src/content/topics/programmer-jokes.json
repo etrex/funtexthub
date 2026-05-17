@@ -4105,6 +4105,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-143",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Vibe coding meme culture — 'Accept All' workflow with Cursor/Claude",
+      "tags": [
+        "vibe coding",
+        "AI",
+        "Cursor",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司來了一位新人，第一天進辦公室。\n\n資深工程師：「你會什麼語言？」\n新人：「我會按 Accept All。」\n資深工程師：「⋯⋯就這樣？」\n新人：「還會按 Accept All Again。」\n\n資深工程師沉默了三秒，把他的 Cursor 訂閱讓給了新人。\n\n一個月後 PR 通過率新人第一名，bug 數量也第一名，被升為 Tech Lead。\n\n他在升遷感言上說：「感謝 Claude，感謝 GPT，感謝按鈕沒壞。」",
+          "editorNote": "傳給任何一個還在手動寫 for-loop 的同事，順便附上履歷模板。",
+          "variations": [
+            "2026 工程師核心技能：閱讀 AI 道歉訊息、判斷哪個 AI 的胡說八道比較好聽。",
+            "資深工程師：『我十年功力。』新人：『我十秒 prompt。』"
+          ]
+        },
+        "en": {
+          "content": "A new hire walked into the office on day one.\n\nSenior dev: \"What languages do you know?\"\nNew hire: \"I can press Accept All.\"\nSenior dev: \"...that's it?\"\nNew hire: \"I can also press Accept All Again.\"\n\nThe senior dev sat silent for three seconds, then handed over his Cursor subscription.\n\nOne month later, the new hire had the highest PR merge rate on the team. Also the highest bug count. He got promoted to Tech Lead.\n\nHis acceptance speech: \"Thanks to Claude, thanks to GPT, thanks to the button that never broke.\"",
+          "editorNote": "Send this to anyone still hand-writing for-loops. Attach a resume template just in case.",
+          "variations": [
+            "Core 2026 dev skill: parsing AI apologies and deciding whose hallucinations sound more convincing.",
+            "Senior dev: 'Ten years of experience.' New hire: 'Ten seconds of prompting.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-144",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Programming in 2026 — AI-generated app flood meme",
+      "tags": [
+        "AI",
+        "市場",
+        "2026",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的 App Store 截圖：\n\n第一名：AI 待辦事項\n第二名：AI 待辦事項 Pro\n第三名：AI 待辦事項 Ultra\n第四名：AI 待辦事項 但會講幹話\n第五名：AI 待辦事項殺手\n第六名：把上面五個整合的 AI 待辦事項管理器\n第七名：管理你那六個待辦事項 App 的 AI App\n\n一位用戶留言：「我只是想記一下要買牛奶。」\n\n下方 AI 回覆：「我幫您訂閱了 NewsLetter、加入了三個 Discord、並寄了 LinkedIn 訊息給您未來的共同創辦人。」",
+          "editorNote": "傳給每個被 AI 工具淹沒、找不到記事本的朋友。",
+          "variations": [
+            "2026 年最稀缺的 App：『只做一件事而且不會跟你聊天』。",
+            "現代工程師：寫一個 App 要先研究 14 個 AI Agent 框架，最後用 setTimeout。"
+          ]
+        },
+        "en": {
+          "content": "App Store top charts, 2026 edition:\n\n#1: AI To-Do\n#2: AI To-Do Pro\n#3: AI To-Do Ultra\n#4: AI To-Do (Sassy Edition)\n#5: AI To-Do Killer\n#6: AI To-Do Manager — manages the five apps above\n#7: AI App that manages your six to-do apps\n\nA user comments: \"I just wanted to remember to buy milk.\"\n\nThe AI replies: \"I've subscribed you to a newsletter, joined three Discord servers on your behalf, and sent a LinkedIn DM to your future co-founder.\"",
+          "editorNote": "Send to anyone drowning in AI tools who can't find a plain notepad anymore.",
+          "variations": [
+            "Rarest app in 2026: 'Does one thing. Doesn't talk to you.'",
+            "Modern dev workflow: research 14 AI agent frameworks, ship it with setTimeout."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-145",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "Copilot autocomplete gone wrong — original observational humor",
+      "tags": [
+        "Copilot",
+        "autocomplete",
+        "AI",
+        "bug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，工程師在改一個 production bug。\n\n他打 `console.log(\"` ，Copilot 補完成：\n\n`console.log(\"I have no idea why this works, please don't look at me\");`\n\n他按下 Tab。\n\n他刪掉。\n\n他重新打 `console.log(\"` ，Copilot 又補：\n\n`console.log(\"ok let's try this and pray\");`\n\n他又按 Tab。\n\n他又刪掉。\n\n第三次他打 `console.log(\"` ，Copilot 補：\n\n`console.log(\"I learned from your last 47 commits, this is who you are now\");`\n\n他關上電腦，去睡覺。",
+          "editorNote": "傳給每個被 Copilot 看穿一切、決定不再裝專業的工程師。",
+          "variations": [
+            "Copilot 不是補你的程式碼，是補你的人格。",
+            "AI 看你的 commit history 比你媽還清楚你最近過得怎樣。"
+          ]
+        },
+        "en": {
+          "content": "3 a.m. The dev is fixing a production bug.\n\nHe types `console.log(\"` . Copilot autocompletes:\n\n`console.log(\"I have no idea why this works, please don't look at me\");`\n\nHe hits Tab.\n\nHe deletes it.\n\nHe types `console.log(\"` again. Copilot suggests:\n\n`console.log(\"ok let's try this and pray\");`\n\nTab. Delete.\n\nThird try, same prefix. Copilot delivers:\n\n`console.log(\"I have learned from your last 47 commits. This is who you are now.\");`\n\nHe closes the laptop. He goes to bed.",
+          "editorNote": "Send to every dev who got read for filth by their own AI assistant at 3 a.m.",
+          "variations": [
+            "Copilot doesn't complete your code. It completes your personality.",
+            "Your AI assistant knows your mental health better than your therapist, based purely on commit messages."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-146",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Stand-up meeting trope — modern AI-era twist",
+      "tags": [
+        "scrum",
+        "站會",
+        "AI",
+        "遠端工作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "Scrum Master：「請大家輪流講昨天做了什麼、今天要做什麼、有沒有遇到問題。」\n\nA 工程師：「昨天請 AI 寫了登入功能，今天請 AI 修登入功能的 bug，沒有問題。」\n\nB 工程師：「昨天請 AI 寫了登出功能，今天請 AI 修登出功能的 bug，沒有問題。」\n\nC 工程師：「昨天請 AI review A 跟 B 的 PR，今天請 AI 修 AI review 出來的 bug，沒有問題。」\n\nScrum Master：「⋯⋯所以你們三個現在到底在幹嘛？」\n\n大家異口同聲：「我們在開 Scrum。」",
+          "editorNote": "傳給每個還在開 15 分鐘變 45 分鐘站會的團隊。",
+          "variations": [
+            "現代敏捷開發：人類開會、AI 幹活、bug 自己長腳跑出來。",
+            "2026 站會 SOP：『AI 做的，AI 改，AI 知道，我不知道』。"
+          ]
+        },
+        "en": {
+          "content": "Scrum Master: \"Quick standup — what did you do yesterday, what are you doing today, any blockers?\"\n\nDev A: \"Yesterday I asked the AI to write the login flow. Today I'm asking the AI to fix the bug in the login flow. No blockers.\"\n\nDev B: \"Yesterday I asked the AI to write the logout flow. Today I'm asking the AI to fix the bug in the logout flow. No blockers.\"\n\nDev C: \"Yesterday I asked the AI to review A's and B's PRs. Today I'm asking the AI to fix the bugs that the AI's review introduced. No blockers.\"\n\nScrum Master: \"...so what exactly are the three of you doing right now?\"\n\nIn unison: \"We're doing standup.\"",
+          "editorNote": "Send to any team whose 15-minute standup somehow takes 45 minutes.",
+          "variations": [
+            "Modern agile: humans hold meetings, AI does the work, bugs grow legs and walk off on their own.",
+            "2026 standup SOP: 'AI made it, AI fixed it, AI knows about it, I don't.'"
+          ]
+        }
+      }
     }
   ]
 }

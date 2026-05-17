@@ -1403,6 +1403,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-061",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Inspired by Dcard 心情板 「奧客經典語錄」 list — the 「我之前都可以」 vs 「之前的店員不在了」 retort is an original framing",
+      "tags": ["服務業", "奧客", "工作", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我之前來都可以欸。」\n「請問是哪一位店員幫您處理的？」\n「我哪記得。」\n「那位同事可能也不記得您了。」",
+          "editorNote": "傳給最近被「我之前都可以」攻擊過的同事。重點是——「之前」這兩個字，是客人手上最萬用的卡，正好我們手上也有一張，叫做「沒這個紀錄」。",
+          "variations": [
+            "客人的「我之前都可以」，跟前任的「我之前不是這樣的」一樣，都查無實證。",
+            "「我之前都可以」翻譯成人話：我希望這次也可以，理由我自己也想不出來。"
+          ]
+        },
+        "en": {
+          "content": "\"It worked for me last time.\"\n\"Which staff member helped you?\"\n\"How would I remember?\"\n\"They probably don't remember you either.\"",
+          "editorNote": "Send to anyone who got hit with \"but last time it worked\" today. \"Last time\" is the customer's all-purpose wild card — luckily we have one too, and it's called \"no record found.\"",
+          "variations": [
+            "\"It worked last time\" carries the same evidence as \"my ex wasn't like this\" — none.",
+            "Translation of \"it worked last time\": I want it to work this time, and I don't have a better reason."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-062",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.threads.com/@chienchien_0112_/post/DN9FdvwkzFJ",
+      "sourceNote": "Sparked by 2026 Threads viral post about a convenience-store clerk pushed too far; rewritten as 「一句謝謝就抵掉一整天」 reverse angle",
+      "tags": ["服務業", "超商", "溫暖", "情緒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天有個客人離開前\n認真地說了一句「謝謝你」。\n我整天的疲憊\n就被這三個字\n結帳完畢、發票一併附上。",
+          "editorNote": "傳給做服務業的朋友，提醒對方：那個讓你想離職的，從來不是工作本身，是不講理的人。願今天有人對你說一句正常的謝謝。",
+          "variations": [
+            "累的不是這份工作，是那些把「不好意思」當髒話的客人。",
+            "服務業的續命包，內容物：一句謝謝、一個微笑、一張正常的臉。"
+          ]
+        },
+        "en": {
+          "content": "A customer left today\nand actually said \"thank you.\"\nMy whole day's exhaustion\ngot rung up, bagged,\nand handed back with the receipt.",
+          "editorNote": "Send to anyone in service work — and remind them: the thing that makes you want to quit isn't the job, it's the unreasonable people. May someone normal thank you today.",
+          "variations": [
+            "It's not the work that's tiring. It's the customers who treat \"excuse me\" like a swear word.",
+            "Service-industry survival kit: one thank-you, one smile, one normal-looking face."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-063",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.twreporter.org/a/labor-shortage-accommodation-food-service-industries-generations",
+      "sourceNote": "Inspired by 報導者 2026 service-industry labor-shortage feature; rewritten as 「一個人做三份工」 satire — original framing",
+      "tags": ["服務業", "缺工", "薪水", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們缺人。\n所以一個人要做三個人的工作，\n領一個人的薪水，\n被三個人份的客人罵。\n老闆說這叫「給你成長機會」。",
+          "editorNote": "傳給最近被「我們是個大家庭」、「現在是團隊一起拚」洗腦的同事。所謂成長，通常是骨頭比薪水先長大。",
+          "variations": [
+            "公司說「給你成長機會」，翻譯：本來三個人的事，現在你自己想辦法。",
+            "缺工的解方不是徵人，是把現有的人榨成三倍——這比較便宜。"
+          ]
+        },
+        "en": {
+          "content": "We're short-staffed.\nSo one person does three people's work,\ngets one person's pay,\nand catches three people's worth of complaints.\nThe boss calls it a \"growth opportunity.\"",
+          "editorNote": "Send to a coworker who's been getting the \"we're a family\" / \"team effort\" speech lately. \"Growth\" usually means your skeleton grows faster than your paycheck.",
+          "variations": [
+            "\"Growth opportunity\" translated: three people's work, you figure it out.",
+            "The solution to a labor shortage isn't hiring — it's squeezing the existing staff three times harder. It's cheaper."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-064",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.books.com.tw/products/0010793662",
+      "sourceNote": "Inspired by 茶里 《原來服務業是這麼恐怖的》 book themes; the 「微笑是制服的一部分」 metaphor extended into 「員工編號」 angle (original)",
+      "tags": ["服務業", "微笑", "制服", "情緒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人對我大吼的時候，\n我笑著說「不好意思」。\n他以為他贏了。\n他不知道——\n那個笑不是我的，\n是員工編號 A2876 的。",
+          "editorNote": "適合下班後配自己的員工證或名牌照。重點是：上班時間那個會微笑的人，跟下班後那個會哭的人，其實是兩個不同的編號。",
+          "variations": [
+            "他罵的不是我，是我的員工編號。我的本人，下班後才會出現。",
+            "服務業的微笑都印在制服上——脫下來那一刻，就會掉一地。"
+          ]
+        },
+        "en": {
+          "content": "When the customer screamed at me,\nI smiled and said \"I'm sorry.\"\nHe thought he won.\nHe didn't know —\nthat smile wasn't mine.\nIt belonged to Employee #A2876.",
+          "editorNote": "Pairs with a post-shift photo of your name tag or employee badge. The point: the person who smiles on shift and the person who cries after clocking out are two different ID numbers.",
+          "variations": [
+            "He wasn't yelling at me. He was yelling at my employee number. The real me clocks in after the shift ends.",
+            "Service-industry smiles are printed on the uniform — the moment you take it off, they fall on the floor."
+          ]
+        }
+      }
     }
   ]
 }

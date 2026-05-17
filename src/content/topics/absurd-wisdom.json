@@ -3435,6 +3435,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-139",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學「我知道你很急」格式重新創作",
+      "tags": ["廢話文學", "情緒", "對話", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我知道你很急。\n\n但你先別急。\n\n因為你急也沒有用。\n\n沒用的事情，急了就會更沒用。\n\n所以你越急，事情就越往不急的方向發展。\n\n結論：不急的人，比較不會急。",
+          "editorNote": "朋友訊息一直催你回覆的時候，原封不動傳回去，保證對方氣到笑",
+          "variations": [
+            "急的事情，因為很急，所以更不能急。",
+            "你急沒用，我急也沒用，所以我們可以一起不急。"
+          ]
+        },
+        "en": {
+          "content": "I know you're in a rush.\n\nBut don't rush.\n\nBecause rushing won't help.\n\nWhen things don't help, rushing makes them help even less.\n\nSo the more you rush, the more things move in the unrushed direction.\n\nConclusion: people who don't rush are less likely to rush.",
+          "editorNote": "Send back to a friend spamming you to reply faster — they'll laugh through their rage",
+          "variations": [
+            "Urgent things are urgent, which is exactly why you can't rush them.",
+            "You rushing doesn't help. Me rushing doesn't help. So let's not rush together."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-140",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "廢話文學「沒錢」主題重新創作",
+      "tags": ["廢話文學", "金錢", "貧窮", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道我為什麼這麼窮嗎？\n\n因為我沒有錢。\n\n那為什麼沒有錢呢？\n\n因為錢都花掉了。\n\n那為什麼會花掉呢？\n\n因為一開始就沒幾塊。\n\n所以結論是，窮的根本原因，就是不富。",
+          "editorNote": "月底跟朋友吃飯被問為什麼不點貴的時候，認真回答這段，氣氛瞬間到位",
+          "variations": [
+            "想要變有錢，第一步就是先有錢。",
+            "存款不夠是因為花太多，花太多是因為錢太少。"
+          ]
+        },
+        "en": {
+          "content": "You know why I'm so broke?\n\nBecause I have no money.\n\nWhy do I have no money?\n\nBecause I spent it.\n\nWhy did I spend it?\n\nBecause there wasn't much to begin with.\n\nConclusion: the root cause of being poor is not being rich.",
+          "editorNote": "End-of-month dinner, friend asks why you didn't order the expensive thing — deliver this with a straight face",
+          "variations": [
+            "Step one of getting rich is having money.",
+            "My savings are low because I spent too much. I spent too much because I had so little."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-141",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.sohu.com/a/500997490_121124710",
+      "sourceNote": "廢話文學「越過山」格式重新改寫",
+      "tags": ["廢話文學", "勵志", "哲學", "成長"],
+      "i18n": {
+        "zh-tw": {
+          "content": "當你跨越了一座山，\n你就擁有了跨越那座山的能力。\n\n當你失敗了一次，\n你就累積了一次失敗的經驗。\n\n當你讀完了這句話，\n你就讀完了這句話。\n\n人生的成長，從來不會錯過任何一個它已經發生過的瞬間。",
+          "editorNote": "假裝在發人生感悟，貼到限時動態，看朋友按愛心還是已讀不回",
+          "variations": [
+            "每一次的努力，都是一次努力。",
+            "當你開始，你就已經開始了。當你結束，你就已經結束了。"
+          ]
+        },
+        "en": {
+          "content": "When you cross a mountain,\nyou possess the ability to cross that mountain.\n\nWhen you fail once,\nyou've gained one experience of failing.\n\nWhen you finish reading this sentence,\nyou've finished reading this sentence.\n\nLife's growth never misses a single moment that has already happened.",
+          "editorNote": "Post this as a fake-deep story and watch which friends double-tap vs. silently judge",
+          "variations": [
+            "Every effort you make is an effort that has been made.",
+            "When you start, you've started. When you finish, you've finished."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-142",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學「呼吸減壽」格式原創",
+      "tags": ["廢話文學", "睡眠", "時間", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人每睡覺八小時，就會少八小時的清醒時間。\n\n人每清醒十六小時，就會少十六小時的睡覺時間。\n\n所以人活著，不是在睡覺，就是在不睡覺。\n\n這個發現，目前還沒有被推翻。",
+          "editorNote": "失眠到三點滑手機的時候，傳到群組裡幻想大家也沒睡",
+          "variations": [
+            "想睡的時候睡不著，不想睡的時候很想睡。",
+            "早點睡的人，會比晚點睡的人，早一點睡著。"
+          ]
+        },
+        "en": {
+          "content": "For every eight hours you sleep, you lose eight hours of being awake.\n\nFor every sixteen hours you're awake, you lose sixteen hours of sleeping.\n\nSo to be alive is to be either sleeping or not sleeping.\n\nThis finding has yet to be refuted.",
+          "editorNote": "3am scrolling, can't sleep — drop in the group chat hoping someone else is also up",
+          "variations": [
+            "Can't sleep when you want to, can't stay awake when you have to.",
+            "People who sleep early fall asleep earlier than people who sleep late."
+          ]
+        }
+      }
     }
   ]
 }

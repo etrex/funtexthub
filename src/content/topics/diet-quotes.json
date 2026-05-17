@@ -1850,6 +1850,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-080",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://prettysweet.com/funny-weight-loss-quotes/",
+      "sourceNote": "「I stepped on the scale today. It asked for my username and password」格式重寫，加雲端備份延伸",
+      "tags": ["減肥", "體重計", "科技", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天踩上體重計，它先請我輸入帳號密碼。\n登入後跳出第二道驗證：「請確認你不是機器人」。\n\n我懂了，這台機器在拖時間，怕我看到結果直接砸了它。",
+          "editorNote": "適合月中量體重那天發限動，配一張體重計螢幕的特寫（黑屏剛好）",
+          "variations": [
+            "進階版：第三道驗證是「請寫一篇 200 字心得，說明你最近三餐吃了什麼」。",
+            "後續：我輸入完成功登入，它顯示「系統繁忙，請稍後再試」——我也學到了，逃避真的有用。"
+          ]
+        },
+        "en": {
+          "content": "Stepped on the scale today. It asked for my username and password.\nThen came the second verification: 'please confirm you are not a robot'.\n\nI get it now. The machine is stalling, scared I'll smash it the moment I see the number.",
+          "editorNote": "Post as a mid-month story with a close-up of your scale screen (a black one works perfectly)",
+          "variations": [
+            "Upgrade: the third verification asks for a 200-word essay on what you've eaten for the past three meals.",
+            "Follow-up: I logged in successfully. It said 'system busy, please try again later'. Turns out avoidance does work."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-081",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://superfastdiet.com/funny-diet-quotes-relatable/",
+      "sourceNote": "「I followed my heart, and it led me to the fridge」格式重寫，加 Google Maps 延伸",
+      "tags": ["減肥", "食物", "自嘲", "導航"],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽說人要跟著內心走，於是我跟著它走。\n它把我帶到冰箱前，停下來，然後開門。\n\n我才發現，原來我的心臟不是器官，是 Google Maps，而且只記得一個目的地。",
+          "editorNote": "適合深夜開冰箱前發出來，配一張冰箱燈光打在臉上的自拍",
+          "variations": [
+            "進階版：而且這個導航沒有「最短路徑」選項，只有「最美味路徑」跟「最罪惡路徑」。",
+            "後續：我問它能不能更新版本，它說可以——升級費用是一杯珍奶。"
+          ]
+        },
+        "en": {
+          "content": "They say follow your heart, so I did.\nIt led me to the fridge, paused, then opened the door.\n\nTurns out my heart isn't an organ. It's Google Maps, and it only remembers one destination.",
+          "editorNote": "Post right before a late-night fridge raid, ideally with a selfie lit by the open fridge",
+          "variations": [
+            "Upgrade: this navigation has no 'shortest route' option — only 'tastiest route' and 'guiltiest route'.",
+            "Follow-up: I asked if I could update the firmware. It said yes — the upgrade fee is one bubble tea."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-082",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://money.udn.com/money/story/5648/8887358",
+      "sourceNote": "「人生有3大幻覺：我還能再吃一點、明天開始減肥、這次不會胖」格式重寫，加四個版本延伸",
+      "tags": ["減肥", "幻覺", "自欺", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人生有四大幻覺：\n一、我還能再吃一口。\n二、明天開始減肥。\n三、這次絕對不會胖。\n四、其實我穿衣服顯瘦。\n\n四個全中的人請舉手——對，就是現在正在看這篇的你。",
+          "editorNote": "傳到朋友群組，會收到三個已讀不回跟一個哭臉貼圖",
+          "variations": [
+            "進階版：第五大幻覺是「我這個體重其實是肌肉比較重」。",
+            "後續：我做了一份問卷，結果顯示我四個都中——系統建議我直接申請終身會員。"
+          ]
+        },
+        "en": {
+          "content": "Life's four great illusions:\n1. I can fit in one more bite.\n2. The diet starts tomorrow.\n3. This time I definitely won't gain weight.\n4. I actually look thinner with clothes on.\n\nIf you scored four out of four, raise your hand. Yes, that means you, currently reading this.",
+          "editorNote": "Drop this in the group chat — expect three 'read' receipts and one crying emoji",
+          "variations": [
+            "Upgrade: the fifth illusion is 'this weight is mostly muscle, muscle is heavier'.",
+            "Follow-up: I took the quiz, scored four out of four. The system recommended I apply for lifetime membership."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-083",
+      "dateAdded": "2026-05-17",
+      "sourceUrl": "https://www.wisesayings.com/funny-weight-loss-quotes/",
+      "sourceNote": "「Inside some of us is a thin person struggling to get out, sedated with chocolate cake」格式重寫，加台味延伸",
+      "tags": ["減肥", "比喻", "甜點", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽說每個胖子體內，都住著一個想衝出來的瘦子。\n我體內這位很安分，因為我每天都餵他兩塊蛋糕、一杯手搖、外加宵夜配劇。\n\n他現在不只不想出來，還跟我簽了長期租約。",
+          "editorNote": "適合在點完外送等待時發出來，配一張外送員距離 0.2 公里的截圖",
+          "variations": [
+            "進階版：他最近還跟我提加租金，理由是「房間變大了，採光更好」。",
+            "後續：我問他要不要搬走，他回我「外面景氣不好，這裡有冷氣有 Netflix，沒事不會走」。"
+          ]
+        },
+        "en": {
+          "content": "They say inside every overweight person is a thin one trying to break out.\nMine is very well-behaved, because I feed him two slices of cake, one bubble tea, and a midnight snack with Netflix daily.\n\nHe no longer wants to leave. He's also asked to sign a long-term lease.",
+          "editorNote": "Post while waiting for delivery, ideally with a screenshot of the driver 0.2 km away",
+          "variations": [
+            "Upgrade: he recently asked for a rent increase, citing 'bigger room, better lighting'.",
+            "Follow-up: I asked if he wanted to move out. He said 'the economy's rough out there, and you've got AC and Netflix in here. I'm not going anywhere'."
+          ]
+        }
+      }
     }
   ]
 }
