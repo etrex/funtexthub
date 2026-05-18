@@ -1503,6 +1503,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-065",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Inspired by Dcard 2026-04 「奧客會有的經典語錄」 thread; the 「別家都可以」 trope rewritten as a 三段式 dialogue (original phrasing)",
+      "tags": ["服務業", "奧客", "工作", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以，只有你們不行。」\n「那您要不要去別家？」\n「我就是要在這家。」",
+          "editorNote": "傳給今天被「別家都可以」開頭轟炸過的同事。奧客最神奇的地方就是：別家明明都可以，他卻偏偏選你這家。",
+          "variations": [
+            "說「別家都可以」的客人，從來沒去過別家。",
+            "奧客版的忠誠客戶——只忠誠於罵你這一家。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other store does it. Only you guys won't.\"\n\"Would you like to go to one of those stores?\"\n\"No, I want it from this one.\"",
+          "editorNote": "Send to a coworker who got hit with the \"every other store\" opener today. The magic of the difficult customer: every other store can do it, but they still came to yours.",
+          "variations": [
+            "Customers who say \"every other store does this\" have never actually been to those stores.",
+            "The difficult-customer version of brand loyalty — exclusively loyal to yelling at your branch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-066",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://pleated-jeans.com/2026/05/11/funny-bad-entitled-customer-stories-tweets/",
+      "sourceNote": "Inspired by Pleated Jeans 2026-05-11 entitled-customer roundup — the 「三步梯太多階」 story; rewritten as a dialogue zinger (original Chinese phrasing)",
+      "tags": ["服務業", "奧客", "零售", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人盯著三階的折疊梯看了一個小時，\n最後說：「我覺得三階對我來說有點太多階了。」\n我沒回他。\n我也覺得這一小時對我來說有點太多小時了。",
+          "editorNote": "適合下班後傳給賣場朋友，附一句「你今天又陪客人走過幾座哲學迷宮」。零售業真實事件，連商品名都不用改。",
+          "variations": [
+            "客人說「三階太多」，店員心想「三句話太多」。",
+            "三階的梯子他爬不上去，因為他卡在第一階——『要不要買』。"
+          ]
+        },
+        "en": {
+          "content": "A customer stared at a three-step ladder for an hour,\nthen said, \"I think three steps might be a little too much ladder for me.\"\nI didn't reply.\nI thought this hour might be a little too much hour for me.",
+          "editorNote": "Send to a hardware-store friend after their shift with \"how many philosophical mazes did you walk a customer through today?\" Real retail anecdote — the product name doesn't even need changing.",
+          "variations": [
+            "Customer: \"Three steps is too many.\" Clerk, internally: \"Three sentences is too many.\"",
+            "He couldn't climb a three-step ladder because he was stuck on step one: \"should I buy it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-067",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1671535300.A.468.html",
+      "sourceNote": "Inspired by PTT WomenTalk 「服務業的禮貌只是防客訴」 thread; the 防客訴-as-defense-mechanism angle rewritten as a self-aware confession",
+      "tags": ["服務業", "客訴", "禮貌", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人問：「你們服務態度怎麼這麼好？」\n我笑：「謝謝。」\n心裡想：\n這不是好，這是我不想被客訴的本能反應。",
+          "editorNote": "適合下班後 IG 限動。服務業的禮貌不是修養，是肌肉記憶——被客訴怕了，身體自動會笑。",
+          "variations": [
+            "我的禮貌不是天生的，是被客訴訓練出來的條件反射。",
+            "服務業的「您好」是一句護身符，不是一句問候。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Wow, your service is so polite.\"\nMe, smiling: \"Thank you.\"\nMe, internally:\nThis isn't politeness. It's the survival reflex of someone who's been complained about before.",
+          "editorNote": "Pairs with a post-shift IG story. Service-industry politeness isn't manners — it's muscle memory. The body smiles automatically once you've survived enough complaints.",
+          "variations": [
+            "My politeness wasn't born. It was trained — by every complaint I ever got.",
+            "In service, \"How can I help you?\" isn't a greeting. It's a charm against the lawsuit gods."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-068",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://notalwaysright.com/tag/call-center/",
+      "sourceNote": "Inspired by NotAlwaysRight call-center tag — the 「ghosting a subscription」 punchline rewritten as a Chinese-friendly 「已讀不回退訂」 (original adaptation)",
+      "tags": ["服務業", "客服", "電話", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「我已經三個月沒用了，為什麼還在扣款？」\n客服：「您要退訂嗎？」\n客人：「不用，我以為不用就會自動取消。」\n客服心裡：訂閱制不會因為您冷落它就自動失戀。",
+          "editorNote": "傳給客服中心的朋友，配一杯下班後的啤酒。電信、串流、健身房通用——客人以為冷處理可以分手，系統不這麼覺得。",
+          "variations": [
+            "已讀不回對人有用，對訂閱沒用。",
+            "您不滑它，它還是會準時來找您——它叫月費。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"I haven't used it in three months, why am I still being charged?\"\nAgent: \"Would you like to cancel?\"\nCustomer: \"No, I assumed it would cancel itself if I stopped using it.\"\nAgent, internally: A subscription doesn't break up with you just because you ignored it.",
+          "editorNote": "Send to a call-center friend with an after-shift beer. Telecom, streaming, gym — the customer thinks the silent treatment is a breakup. The billing system disagrees.",
+          "variations": [
+            "Ghosting works on people. It does not work on subscriptions.",
+            "It'll show up on time every month even if you ignore it. We call that one the monthly fee."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-069",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.businessweekly.com.tw/careers/blog/14224",
+      "sourceNote": "Inspired by 商周 「服務業7年經驗」 column — the 「第一線千萬別待太久」 warning rewritten as a self-reflective monologue (original framing)",
+      "tags": ["服務業", "第一線", "離職", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "前輩說：服務業第一線，千萬別待太久。\n我問為什麼。\n他說：「你會慢慢忘記，自己也是一個會生氣、會累、會被傷害的人。」\n那年我二十五。\n今年我終於離職。",
+          "editorNote": "適合離職那天發一篇 IG 長文，或傳給還在第一線撐著的學弟妹。重點不是叫人逃跑，是提醒——撐到忘記自己也是人之前，要記得回家。",
+          "variations": [
+            "服務業最危險的不是奧客，是你慢慢覺得「忍下來」是正常的。",
+            "離職那一刻，我才想起來：原來我也可以說「我不舒服」。"
+          ]
+        },
+        "en": {
+          "content": "A senior coworker once told me: don't stay on the front line of service too long.\nI asked why.\nHe said, \"You start to forget that you're also someone who gets angry, gets tired, gets hurt.\"\nI was twenty-five then.\nThis year I finally quit.",
+          "editorNote": "Pair with a long IG caption on your last day, or send to a junior who's still grinding the front line. Not a call to run — a reminder to leave before you forget you're a person too.",
+          "variations": [
+            "The real danger in service work isn't difficult customers. It's slowly believing that swallowing it is normal.",
+            "The moment I handed in my resignation, I remembered: I'm allowed to say \"I'm not okay.\""
+          ]
+        }
+      }
     }
   ]
 }

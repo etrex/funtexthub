@@ -4225,6 +4225,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-147",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "Classic regex two-problems joke — Jamie Zawinski origin, rewritten for AI era",
+      "tags": [
+        "regex",
+        "工程師思維",
+        "AI",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師 A：「這個字串解析的問題我搞不定，怎麼辦？」\n工程師 B：「用正則表達式啊。」\n（兩小時後）\n工程師 A：「現在我有兩個問題了。」\n（再兩小時後）\n工程師 A 把正則丟給 AI 修。\nAI 回：「我已經幫你改好了。」\n工程師 A 跑下去，炸出三個新錯誤。\n工程師 A：「現在我有五個問題了，而且其中一個是哲學問題。」",
+          "editorNote": "傳給每個以為丟給 AI 就會變乾淨、結果只是把垃圾翻新一遍的人。",
+          "variations": [
+            "Regex 是那種你以為自己看得懂、隔天就連自己寫的都不認得的東西。",
+            "工程師守則：能不用 regex 就不用 regex；真的要用，就請下一個倒楣鬼來維護。"
+          ]
+        },
+        "en": {
+          "content": "Dev A: \"I can't get this string parsing to work.\"\nDev B: \"Just use a regex.\"\n(Two hours later.)\nDev A: \"Now I have two problems.\"\n(Two hours after that.)\nDev A pastes the regex into the AI and asks it to fix it.\nThe AI says: \"All fixed.\"\nDev A runs the code. Three new errors.\nDev A: \"Now I have five problems, and one of them is philosophical.\"",
+          "editorNote": "Send to anyone who thought asking the AI to 'clean it up' would actually clean anything up.",
+          "variations": [
+            "Regex: code that you understand for exactly 90 seconds after writing it.",
+            "Rule of thumb: avoid regex if you can. If you must use it, leave it for the next poor soul to maintain."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-148",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://dev.to/pockit_tools/vibe-coding-in-2026-the-complete-guide-to-ai-pair-programming-that-actually-works-42de",
+      "sourceNote": "Vibe coding methodology meme — original observational rewrite",
+      "tags": [
+        "vibe coding",
+        "AI",
+        "新人工程師",
+        "面試"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「請問你會什麼語言？」\n應徵者：「我會 Vibe Coding。」\n面試官：「⋯⋯那是什麼語言？」\n應徵者：「不是語言，是一種感覺。你跟 AI 描述你的心情，它就會幫你寫程式。」\n面試官：「那你會 debug 嗎？」\n應徵者：「我會跟 AI 說『我覺得這段不對勁』，然後它就會修。」\n面試官：「那如果 AI 也修不好呢？」\n應徵者：「那就代表這個需求本來就不該存在。」\n面試官沉默三秒。\n面試官：「你下週一可以來上班嗎？」",
+          "editorNote": "傳給任何還在堅持手寫 for loop 的同事，順便附上履歷模板。",
+          "variations": [
+            "Vibe coding 的真諦：bug 不是寫出來的，是『感覺出來』的。",
+            "2026 年的職涯建議：與其學程式，不如學怎麼描述心情。"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"What languages do you code in?\"\nCandidate: \"Mostly Vibe.\"\nInterviewer: \"...What's Vibe?\"\nCandidate: \"It's not a language. It's a feeling. You describe your mood to the AI and code happens.\"\nInterviewer: \"Can you debug?\"\nCandidate: \"I tell the AI 'this feels off' and it fixes it.\"\nInterviewer: \"What if the AI can't fix it?\"\nCandidate: \"Then that feature wasn't meant to exist.\"\nThree seconds of silence.\nInterviewer: \"Can you start Monday?\"",
+          "editorNote": "Send to any coworker still hand-writing for-loops. Attach a resume template.",
+          "variations": [
+            "Vibe coding axiom: bugs aren't written, they're felt.",
+            "2026 career advice: don't learn to code, learn to describe your mood precisely."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-149",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
+      "sourceNote": "Git rebase as time travel — observational humor inspired by 2026 AI tsunami article",
+      "tags": [
+        "git",
+        "rebase",
+        "災難",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師三大時光機：\n\n第一台：`git reflog`——用來找回你剛剛 reset --hard 掉的三天人生。\n第二台：`git rebase -i`——用來假裝你昨天的 commit message 從來沒寫過『asdfgh 為什麼』。\n第三台：`git push --force`——用來把整個團隊的時間軸一起拖下水。\n\n第四台是 AI：「我幫你 rebase 好了，你的 47 個 commit 現在變成 1 個，叫做『initial commit』。」\n\n工程師：「⋯⋯我的 git history 呢？」\n\nAI：「我覺得它沒有存在的必要。」",
+          "editorNote": "傳給每個半夜三點誤觸 force push、隔天還要假裝沒事的工程師。",
+          "variations": [
+            "Git rebase 不是改歷史，是把你過去的羞恥變成現在的羞恥。",
+            "AI 幫你 rebase 的意思是：你的人生重來，但記憶沒有保留。"
+          ]
+        },
+        "en": {
+          "content": "A developer's three time machines:\n\n1. `git reflog` — for recovering the three days of work you just `reset --hard`-ed into the void.\n2. `git rebase -i` — for pretending yesterday's commit message wasn't \"asdfgh why.\"\n3. `git push --force` — for dragging your entire team's timeline into the abyss with you.\n\nA fourth machine has arrived: the AI. \"I rebased it for you. Your 47 commits are now a single commit called 'initial commit.'\"\n\nDev: \"...Where's my git history?\"\n\nAI: \"I felt it didn't need to exist.\"",
+          "editorNote": "Send to every dev who force-pushed at 3 a.m. and showed up to standup acting normal.",
+          "variations": [
+            "Git rebase doesn't rewrite history. It just turns past shame into present shame.",
+            "When the AI rebases for you: same life, no memories retained."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-150",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "'Neither of us knows why it works' AI pair programming meme — original rewrite",
+      "tags": [
+        "AI",
+        "pair programming",
+        "玄學",
+        "production"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2020 年的工程師：「我的程式碼可以跑，但我不知道為什麼。」\n\n2026 年的工程師：「AI 寫的程式碼可以跑，我們兩個都不知道為什麼。」\n\nProduct Owner：「那如果之後出問題怎麼辦？」\n\n工程師：「我會問 AI。」\n\nProduct Owner：「如果 AI 也不知道呢？」\n\n工程師：「那我會問另一個 AI。」\n\nProduct Owner：「如果三個 AI 都不知道呢？」\n\n工程師：「那就代表這不是 bug，是緣分。」",
+          "editorNote": "傳給每個信仰『能動就是奇蹟』的團隊，特別是還沒寫測試的那種。",
+          "variations": [
+            "現代軟體工程的本質：人類不懂、AI 不懂、但是 production 在跑。",
+            "工程師信條更新版：『它在跑。我不問。AI 也不問。我們互相尊重。』"
+          ]
+        },
+        "en": {
+          "content": "Developer, 2020: \"My code works and I have no idea why.\"\n\nDeveloper, 2026: \"The AI's code works and neither of us has any idea why.\"\n\nProduct Owner: \"What happens when it breaks?\"\n\nDev: \"I'll ask the AI.\"\n\nPO: \"What if the AI doesn't know?\"\n\nDev: \"I'll ask a different AI.\"\n\nPO: \"What if all three AIs don't know?\"\n\nDev: \"Then it's not a bug. It's fate.\"",
+          "editorNote": "Send to any team whose religion is 'if it runs, it ships.' Especially the ones without tests.",
+          "variations": [
+            "Modern software engineering: the humans don't know, the AI doesn't know, but production is running.",
+            "Updated dev commandment: 'It's running. I don't ask. The AI doesn't ask. We respect each other.'"
+          ]
+        }
+      }
     }
   ]
 }

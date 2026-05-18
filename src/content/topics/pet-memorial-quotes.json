@@ -676,6 +676,82 @@
           "variations": ["The biggest stress before any trip used to be 'who's taking care of them.' Now the biggest stress is having nothing to stress about. The empty feels heavier than the worry did."]
         }
       }
+    },
+    {
+      "id": "pm-036",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.npr.org/2023/07/24/1189865100/processing-pet-grief-with-love",
+      "sourceNote": "「悲傷沒有 SOP，怎麼怪都可以」frame — 給自己許可，原創",
+      "tags": ["撫慰", "許可", "怪也沒關係"],
+      "i18n": {
+        "zh-tw": {
+          "content": "想哭就哭、想笑就笑、想做一個全是牠照片的相簿，就花一整個禮拜慢慢做。悲傷沒有正確答案，你可以盡情地用「怪」的方式想念牠——這個世界上，最懂你的那個觀眾已經先走了，你不需要再表演給任何人看。",
+          "editorNote": "給「我這樣做是不是太誇張」的飼主一個免責聲明，鼓勵他們用任何形式紀念",
+          "variations": ["有人刻木牌、有人開語音信箱、有人每天早上跟空氣說早安。沒有哪一種比較對，能讓你撐到明天的就是對的。"]
+        },
+        "en": {
+          "content": "Cry when you need to, laugh when you need to, spend a whole week making a photo album that's just them — there's no right way to grieve. Be as weird about missing them as you have to. The one person who would have understood all your weirdness has already gone ahead, so you don't owe anyone else a performance.",
+          "editorNote": "Permission slip for owners worried 'is this too much?' — encourages whatever ritual gets them through",
+          "variations": ["Some people carve plaques. Some leave voicemails. Some say good morning to the empty corner. None of it is wrong. Whatever gets you to tomorrow is the right one."]
+        }
+      }
+    },
+    {
+      "id": "pm-037",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "「悲傷像海浪」 Vicki Harrison frame — 徹底改寫成觸覺意象，原創",
+      "tags": ["撫慰", "悲傷", "海浪"],
+      "i18n": {
+        "zh-tw": {
+          "content": "悲傷像潮水，不是一直線往下退的。有時候我以為自己已經走到沙灘上了，下一秒又被一張舊照片打回海裡。沒關係，這次我學會了游泳，不像第一個禮拜那樣只會嗆水。",
+          "editorNote": "把「悲傷會反覆」這件事正常化，特別適合那種「我以為我好了結果又崩潰」的飼主",
+          "variations": ["第一個月是溺水，第三個月是會浮起來。一年以後，浪還是會打過來——只是我已經知道，只要不掙扎，它自己會走。"]
+        },
+        "en": {
+          "content": "Grief comes in like tide, not in a straight line down. Some days I think I've made it back to the sand, and the next photo on my phone drags me out again. That's okay. This time I've learned to swim — not like that first week when I only knew how to choke on saltwater.",
+          "editorNote": "Normalizes the non-linear nature of grief — for owners who think they 'should be over it' but keep getting pulled back",
+          "variations": ["Month one was drowning. Month three I could float. A year in, the waves still come — I've just learned that if I stop fighting them, they leave on their own."]
+        }
+      }
+    },
+    {
+      "id": "pm-038",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.hotpets.com.tw/pet-passed-away/",
+      "sourceNote": "「四道」（道謝道歉道愛道別）frame — 台灣安寧文化在地化，原創",
+      "tags": ["告別", "道謝", "道歉", "四道"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在你還聽得到我說話的最後幾天，我把四件事都講完了：謝謝你陪我走過這幾年，對不起我有時候太忙顧不到你，我愛你愛到下輩子都還記得，再見了，先睡一下，醒來就不痛了。",
+          "editorNote": "把台灣安寧療護的「四道」（道謝、道歉、道愛、道別）轉譯成毛孩語境，給飼主一個臨終陪伴的具體框架",
+          "variations": ["把該說的都說了，是給自己留後路。讓你不會在十年後的某個晚上，因為「那句話沒講出口」整夜睡不著。"]
+        },
+        "en": {
+          "content": "In those last days when you could still hear me, I said all four things: thank you for these years, I'm sorry for the days I was too busy, I love you enough to remember you in the next life, goodbye — go to sleep, you won't hurt when you wake up.",
+          "editorNote": "Adapts Taiwan's hospice 'four farewells' (thanks, sorry, love, goodbye) into the pet context — gives owners a concrete bedside script",
+          "variations": ["Saying everything out loud is a gift to your future self. So that ten years from now you don't lie awake at 3 a.m. because of the sentence you swallowed."]
+        }
+      }
+    },
+    {
+      "id": "pm-039",
+      "dateAdded": "2026-05-18",
+      "sourceUrl": "https://www.pawschicago.org/news-resources/resources/coping-with-pet-loss",
+      "sourceNote": "「整理遺物的那一天」 frame — 終於收起來，原創",
+      "tags": ["告別", "遺物", "繼續生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天我終於把你的飼料碗、你的牽繩、你剩下半包的零食，一件一件收進那個藍色的箱子。不是不要了，是放到一個我隨時可以打開、可是不會每天被刺到的地方。這也是一種愛你的方式。",
+          "editorNote": "適合喪寵 2-6 個月、開始整理遺物的階段，把「收起來」重新詮釋為自我照顧而不是遺忘",
+          "variations": ["收的時候手有點抖。可是收完那一刻，房間第一次不是空的——是被整理過的安靜，跟空不一樣。"]
+        },
+        "en": {
+          "content": "Today I finally packed your bowl, your leash, the half-bag of treats — one by one into a blue box. Not throwing them out. Just somewhere I can open whenever I want, without getting cut by it every single morning. This is a way of loving you too.",
+          "editorNote": "For the 2-6 month window when owners start sorting belongings — reframes 'putting things away' as self-care, not forgetting",
+          "variations": ["My hands shook the whole time. But when I closed the lid, the room wasn't empty for the first time — it was a tidied kind of quiet. That's not the same as empty."]
+        }
+      }
     }
   ]
 }
