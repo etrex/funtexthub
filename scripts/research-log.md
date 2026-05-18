@@ -3378,3 +3378,114 @@ Done items collapsed; only live priorities listed.
 23. **[FLAG — 觀察不啟動]** 校園霸凌 5/14 carry too sensitive = 不主動 expansion.
 24. **[OPPORTUNISTIC — 5/23 T-6 集中 day]** PSY 大巨蛋 + 五月天 拓元 售票 + 中信兄弟 K 歌主題日 三重事件 cross-pollinate 1-2 items (motivational-quotes / drama-quotes 跨世代懷舊 + 抽不到票 但 還是 想 一起哭 register).
 25. **[OPPORTUNISTIC — 5/17-5/19 短窗口]** absurd-wisdom / witty-comebacks 「賦予事物新面貌」 廢話文學模板 1-2 items (會考話題 1 週熱度).
+
+## 2026-05-18 Research Report
+
+### New Topic Recommendations
+
+1. **`white-rat-exam-quotes` / 「白老鼠考生」會考新題型自嘲 — NEW 5/18 (NOT NEW TOPIC, exam-quotes / witty-comebacks / healing-quotes 跨界 sub-format)**
+   - **5/18 day-after T+1 多源**: nownews 6836950「115 會考測試新題型？『和歷屆完全不同』一票考生怒：被當白老鼠」+ udn 9507622「數學科解答」+ udn 9507624「自然科解答」+ nownews 6836995「自然/英語題目答案 5 科解答」+ thenewslens 267733「自然英文重情境應用 / 數學國文具鑑別度 / 社會科難度適中」+ tvbs 3206300「5 科考題解析」 多源 5/17-5/18 carry. **意義**: **「白老鼠 / 跟歷屆完全不一樣 / 浮力魔王題 / 酸雨情境題 / 圖表佔一半 / 車速儀表板法規結合 / 過來人緩頰: 每屆都這樣」** 5 register family 確定. **5/18 day-after T+1 黃金安慰窗口 day 2 of 3** (5/17-5/19 短窗口). 在地化候選: 「我們 115 / 不是 考生 / 是 白老鼠 / 老師說 / 安啦 / 124 也會 變 白老鼠」/「浮力 不會 / 沒關係 / 反正 我以後 / 也只會 浮在 床上」/「酸雨 + 浮力 + 圖表 / 我以為 我在 考自然 / 結果 在 考閱讀測驗」/「過來人說 / 每屆 都這樣 / 但 每屆 都 第一次 / 這是 全宇宙 最大的 安慰 詐騙」/「圖表 佔 一半 / 我 看不懂 圖表 / 等於 50 分 / 直接 蒸發」.
+   - **意義 vs. 既有 topics**: exam-quotes (5/29-6/1 啟動, 「白老鼠 + 浮力魔王題」 段落 reinforce) + witty-comebacks (考生崩潰自嘲) + healing-quotes (「每屆都這樣」 安慰 register). **NOT NEW TOPIC** — 3 topic cross-link sub-format. **HIGH priority, 5/18-5/19 短窗口 day-after T+1 黃金窗口**.
+   - **SEO targets**: 115 會考 白老鼠, 會考數學 浮力, 會考自然 酸雨, 會考 新題型, 跟歷屆 完全不一樣.
+   - **Recommendation: NOT NEW TOPIC**. exam-quotes / witty-comebacks / healing-quotes 主場. **HIGH priority, 5/18 NEW DAY-AFTER T+1**.
+
+2. **`age-together-concert-quotes` / 「26 年我們一起變老」演唱會跨世代金句 — NEW 5/18 (NOT NEW TOPIC, drama-quotes / motivational-quotes / healing-quotes 跨界 sub-format)**
+   - **5/18 day-after T+1 多源**: 孫燕姿 5/17 18:30 大巨蛋第二場 day-after T+1 多源 5/17-5/18 carry. **5/17 second night NEW 金句 carry**: 「台北 是 第一個擁抱我的城市」+「26 年了 / 大家都變了 / 白頭髮、老花 / 胖的胖、腫的腫」+ 周杰倫/張惠妹/蔡依林 送花籃祝賀. **意義**: **5/15 first night 「日落以後 / 暗的下一站是曙光 / 你們是我的青春」** + **5/17 second night NEW 「26 年 / 一起變老 / 白頭髮 老花 胖的胖 腫的腫」** = 雙場 register family. 跨世代 + 中年自嘲 + 互為青春 雙向. 在地化候選: 「26 年 過去 / 她 還是 唱 同一首 / 我 已經 不是 同一個 我 / 但 一起 老 / 也 不錯」/「白頭髮 老花 / 胖的胖 腫的腫 / 她 講 自己 / 我 對號入座 / 哭著 點頭」/「26 年前 / 我跟著 她 唱 / 26 年後 / 我跟著 她 老 / 中間 / 什麼 都來不及 做」/「最 殘忍 的 不是 偶像 老了 / 是 偶像 老的 速度 / 跟 我 一樣」/「天后 在大巨蛋 / 我在 加班 / 她說 26 年 / 我加班 才 5 年 / 已經 受不了」.
+   - **意義 vs. 既有 topics**: drama-quotes (跨世代懷舊 + 演唱會 sing along 哭點) 主場 + motivational-quotes (互為青春 + 不管選擇什麼) + healing-quotes (一起變老 + 中年自嘲 安慰) + workplace-quotes (5/13 carry 章魚哥 跨世代厭世 + 「她加班 26 年我才 5 年」 cross-link). **NOT NEW TOPIC** — 4 topic cross-link sub-format. **HIGH priority, 5/18-5/20 短窗口 day-after T+1 朋友圈黃金窗口**.
+   - **SEO targets**: 孫燕姿 26 年, 大巨蛋 第二場 金句, 白頭髮 老花 演唱會, 一起變老 演唱會, 26 年了 大家都變了.
+   - **Recommendation: NOT NEW TOPIC**. drama-quotes / motivational-quotes / healing-quotes 主場. **HIGH priority, 5/18 NEW DAY-AFTER T+1**.
+
+3. **`jet2-holiday-vacation-fail-jokes` / 「Nothing Beats a Jet2 Holiday」度假災難對比梗 — NEW 5/18 (NOT NEW TOPIC, slang-quotes / travel-quotes / witty-comebacks 跨界 sub-format)**
+   - **5/18 reconfirm 多源**: today.com「Nothing Beats a Jet2 Holiday explained / British accent / vacation fails」+ cbc kidsnews「what is a Jet2 holiday explaining the viral meme」+ knowyourmeme「2024/11 起 / summer 2025 viral / 2026 持續發酵 / 1.3M videos」+ axeetech「2026 complete guide」+ tiktok @offsetyrn 7534035716175645983 多源 5/18 reconfirm. **2026 May 全球 viral persistent surface day-of T+0** (5/17 carry + 5/18 reconfirm). **意義**: **「英國口音 OS『Nothing Beats a Jet2 Holiday』 + 度假災難畫面 (駱駝追人 / 暴雨海灘 / 行李箱開花 / 民宿翻車)」** 結構 = **「光鮮 OS 旁白 vs 慘烈現實」** 對比梗 模板 = Emily that's all (5/15-5/16 carry) 同 register family 強化. 在地化候選: 「Nothing Beats a Taiwan Pass / 抽籤 結果: 沒中籤 / 找飯店 結果: 加 1500」/「Nothing Beats a 公司旅遊 / 行程: 老闆致詞 90 分鐘 / 自由活動: 0 分鐘 / 拍照: 整團 80 張 集合照」/「Nothing Beats a 連假返鄉 / 高鐵: 站票 4 小時 / 國道: 塞 6 小時 / 到家: 已經 又要 收行李 上班」/「Nothing Beats a 員工旅遊 / 旁白: 與家人 同事 共度 美好時光 / 畫面: 主管 在 我房間 唱卡拉 OK 到 三點」/「Nothing Beats a 一日北海岸 / 旁白: 看海 吃海鮮 / 畫面: 看到 全是 觀光客 海鮮 全是 養殖」.
+   - **意義 vs. 既有 topics**: slang-quotes (May 2026 global viral 5 大梗 family 第六) + travel-quotes (國旅補助 / Taiwan Pass / 員工旅遊 對比) + witty-comebacks (「OS vs 現實」 對比 register) + workplace-quotes (員工旅遊 / 公司旅遊 厭世). **NOT NEW TOPIC** — 4 topic cross-link sub-format. **MEDIUM priority, 5/18-6/15 中窗口** (暑假 + 員工旅遊 + 國旅補助 三 wave). 與 Emily that's all 同 register family 編寫 priority.
+   - **SEO targets**: Jet2 Holiday 梗, 度假災難 meme, 旁白 vs 現實 對比, 員工旅遊 厭世.
+   - **Recommendation: NOT NEW TOPIC**. slang-quotes / travel-quotes / witty-comebacks 主場. **MEDIUM priority, 5/18 NEW**.
+
+4. **`alia-bhatt-noticed-comeback-quotes` / 「Why pity love? You noticed me」反酸機智回擊 — NEW 5/18 (NOT NEW TOPIC, witty-comebacks 主場 sub-format)**
+   - **5/18 multi-source 多源**: newsx 217962/218110「Cannes 2026 day 1 / Alia Bhatt viral fashion / paparazzi ignore moment」+ altbollywood「viral reply analysis」+ pakistantoday「humiliated at Cannes」+ deadline「Cannes Film Festival 2026 photos」+ farout magazine「Cannes 2026 lineup」 多源 5/14-5/18 carry. **意義**: **「網友: What a pity no one noticed you / Alia: Why pity love? You noticed me」** 4-word 機智反擊 viral = 「酸言 反向化為 注意力」 模板 = witty-comebacks 主場 + 5/16 carry「Emily that's all」 反酸 register family 強化. 在地化候選: 「網友: 你 好像 沒人認識 你 / 我: 那 你 怎麼 認識 我 的」/「同事: 你 工作 也 沒人 看 / 我: 那 你 怎麼 知道 / 我 工作」/「主管: 你 報告 沒人 在乎 / 我: 那 你 怎麼 在 開會 提 三次」/「網友: 留言 沒人 按讚 / 我: 你 不是 留言 了 嗎」/「家人: 你 過年 都沒 男朋友 帶回家 / 我: 你 都 知道 我 沒帶 / 表示 你 一直在 注意」.
+   - **意義 vs. 既有 topics**: witty-comebacks (主場 「反酸 機智 反擊」 register) + slang-quotes (May 2026 global viral 補強 5 大梗 family). **NOT NEW TOPIC** — witty-comebacks 主場 sub-format. **MEDIUM-HIGH priority, 5/18-5/25 短窗口** (Cannes 5/12-5/23 + 後續 social media discourse).
+   - **SEO targets**: Alia Bhatt 反擊, 反酸 機智回應, 注意力 機智, Why pity love you noticed me.
+   - **Recommendation: NOT NEW TOPIC**. witty-comebacks 主場. **MEDIUM-HIGH priority, 5/18 NEW**.
+
+### Content Trends
+
+- **5/18 day-after T+1 國中會考 day 2 「白老鼠 / 浮力 / 酸雨 / 跟歷屆不一樣」** (nownews 6836950「測試新題型 怒: 白老鼠」+ udn 9507622 數學科 + udn 9507624 自然科 + nownews 6836995 5 科解答 + thenewslens 267733「自然英文重情境 數學國文具鑑別度」+ tvbs 3206300 5 科解析 多源 5/17-5/18 carry). **意義**: **healing-quotes / witty-comebacks / exam-quotes 5/18-5/19 短窗口 priority 最高 (考後 48 小時 黃金安慰窗口 day 2 of 3)**「白老鼠 / 浮力魔王題 / 酸雨情境題 / 圖表佔一半 / 每屆都這樣安慰詐騙」 1-2 items end-of-day 編寫. **exam-quotes 5/29-6/1 啟動 reinforce**「白老鼠 + 賦予事物新面貌 + 浮力魔王」 段落追加. 5/17 carry「賦予事物新面貌 / 比倉鼠難 / 想 10 分鐘」 持續 carry.
+
+- **5/18 day-after T+1 孫燕姿 大巨蛋 第二場 NEW 金句**: 「台北是第一個擁抱我的城市」+「26 年了 大家都變了 / 白頭髮、老花 / 胖的胖、腫的腫」+ 周杰倫/張惠妹/蔡依林 送花籃 (tvbs 3205005 + businessweekly 3020789 + facebook sunyanzi 1456189382538646 + bella 57839 + yahoo 064137313 多源 5/17-5/18 carry). **意義**: **drama-quotes / motivational-quotes / healing-quotes 5/18-5/20 短窗口 priority 最高 (演唱會結束 24-48 小時 朋友圈黃金窗口 day-after T+1)** 1-2 items cross-pollinate. **跨世代 + 中年自嘲 + 互為青春 雙向 register 強化** (5/15 first night「日落以後 / 你們是我的青春」 + 5/17 second night「26 年大家都變了」 雙場 family). 與 5/10-5/17 累積「老歌神 2026 大爆發 / Taylor Swift / 五月天 / PSY」 同 register family 強化.
+
+- **5/18 day-after 梅雨鋒面 退場 + 天氣轉晴 (cwa + appleamond 311764 + pchome 20260514 多源)**: 5/16 後水氣逐日減少 / 5/18 多雲到晴 / 西半部高溫 29-32 度 / 西南季風 5月下旬肇始. **意義**: **healing-quotes / workplace-quotes 「梅雨厭世」 frame 5/14 deadline 結束 + 5/16-5/18 organic 觀察期 day-3**. 「雨終於停了 / 衣服晾乾了 / 但 心情 還沒乾」 後遺症 register 1 item 候選 5/19-5/22 短窗口. 5/22 端午 啟動前 「梅雨 + 端午」 cross-link 1 item 候選不變.
+
+- **5/18 Cannes Film Festival 2026 79th edition viral 多源** (5/12-5/23 期間 5/18 day-7/12): (a) Alia Bhatt mint green dress + paparazzi ignore + 「Why pity love? You noticed me」 4-word 反擊 (altbollywood + newsx 217962/218110 + pakistantoday + deadline); (b) John Travolta beret + glasses 「looks like he paints landscapes and breeds alpacas」 (buzzfeed larryfitzmaurice + eonline 1432047); (c) Demi Moore toned arms + thinness debate (newsx 218110 + nyt). **意義**: **witty-comebacks 5/18-5/25 短窗口 priority 高** (Alia Bhatt 反擊 機智 + Travolta 外型自嘲 + Demi Moore 體態 discourse 三波 viral). 「Why pity love? You noticed me」 在地化 1-2 items + 「looks like he paints landscapes and breeds alpacas」 外型 編造背景 對比梗 1 item 候選. slang-quotes 5/20 deadline 編寫 priority 補強 1 item.
+
+- **5/18 Jet2 Holiday meme global viral persistent reconfirm** (today.com + cbc kidsnews + knowyourmeme + axeetech + tiktok @offsetyrn 7534035716175645983 多源 5/18 reconfirm + 1.3M videos as of July 2025 + 2026 持續發酵). **意義**: **slang-quotes 5/20 deadline T-2 編寫 priority 補強** 「英國口音 OS『Nothing Beats a Jet2 Holiday』+ 度假災難畫面」 register 1 item 加入「May 2026 全球 6 大梗 family」 (Threads 5 大 + chill guy + Emily that's all + Bob Ross + Jet2 Holiday + AI POV time travel). travel-quotes / workplace-quotes 「Nothing Beats a Taiwan Pass / 連假返鄉 / 員工旅遊」 在地化 register 1-2 items 候選 6月 opportunistic.
+
+- **5/20 T-2 slang-quotes deadline + 5/23 T-5 PSY/五月天售票 + 6/1 T-14 報稅截止 + 6/19 T-32 端午 + 8/8 T-82 父親節**: 5 個 deadline rolling sprint. **意義**: 6 天 deadline 集中 (5/18 → 5/20 slang) + 11 天事件 (5/18 → 5/23 PSY/五月天) + 14 天節慶 (5/18 → 6/1 報稅) + 32 天節慶 (5/18 → 6/19 端午) + 82 天節慶 (5/18 → 8/8 父親節 / early July 啟動). holiday-jokes 5/22 啟動 T-4 端午 expansion 5+ items 配比不變.
+
+- **5/18 aespa 8/11 大巨蛋售票 5/17 上午 11:00 全面開賣 reconfirm** (tvbs 3205466 + nownews 6836124 + businessweekly 3021288). **意義**: 演唱會 4 大事件 cluster (孫燕姿 5/15-17 already / aespa 5/17 售票 → 8/11 演出 / PSY 5/23 售票 / 五月天 #5525+2 5/23 售票) 5/17-5/23 7 天 4 售票 cluster. **drama-quotes / motivational-quotes 5/17-5/23 7 天 day-of opportunistic** 「演唱會搶票 / 大巨蛋季 / 跨世代 + 跨類型 (K-pop / 國語老歌神 / 西洋老歌神 / 國民天團)」 register 1-2 items 候選 6月 opportunistic.
+
+- **5/18 動力火車 5/17 最終場 (mens1069) + 韓劇《21 世紀大君夫人》大結局 + 紀錄片《神木之島》5/15 上映 + 徐至琦淡出 12 年復出 podcast (singtaousa)**: 4 個 5/17-5/18 day-of 娛樂事件. **意義**: drama-quotes 「動力火車 / 21 世紀大君夫人 / 邊佑錫 + IU」 韓劇 finale + 復出話題 register 1-2 items 候選 6月 opportunistic. **NOT NEW TOPIC priority**.
+
+### Existing Topic Updates
+
+- **healing-quotes (5/18 day-after T+1 priority 最高 day 2 of 3 短窗口)**: **「白老鼠 / 浮力魔王題 / 酸雨情境題 / 圖表佔一半 / 每屆都這樣 = 安慰詐騙 / 過來人緩頰 / 出考場後 才想到 怎麼寫」** 1-2 items 5/18 EOD 末日 編寫 priority 最高 (考後 48 小時 黃金安慰窗口 day 2 of 3). **「26 年了 大家都變了 / 一起 變老 / 白頭髮 老花 / 中年自嘲」** 1 item 5/18-5/19 短窗口. 5/17 carry「賦予事物新面貌 / 比倉鼠難 / 想 10 分鐘 / 媽媽的傘」 持續 carry. **「梅雨 退場 / 衣服晾乾了 但 心情 還沒乾」** 後遺症 register 1 item 候選 5/19-5/22 短窗口.
+
+- **drama-quotes (5/18 day-after T+1 priority 最高 短窗口)**: **「孫燕姿 大巨蛋 第二場 / 26 年了 / 大家都變了 / 白頭髮 老花 / 胖的胖 腫的腫 / 她 講自己 / 我 對號入座 哭著點頭」** 1-2 items 5/18 EOD 末日 編寫 priority 最高 (演唱會結束 24-48 小時 朋友圈黃金窗口 day-after T+1). 5/17 cross-link「日落以後 暗的下一站是曙光 / 你們是我的青春」 first night + 5/23 PSY / 五月天 售票 + aespa 5/17 售票 → 8/11 演出 4 售票 cluster.
+
+- **motivational-quotes (5/18 day-after T+1 priority 高 短窗口)**: **「孫燕姿 26 年 / 她 還唱 同一首 / 我 已經 不是 同一個我 / 但 一起 老 也不錯」** 1 item 5/18-5/19 短窗口. **「Bob Ross / 練習比天份重要 / 12 年了 還在 唱同一首 / 那 才是 天賦」** 跨世代 + 練習成才 register 1-2 items 6月 opportunistic carry. 5/15 carry「老歌神 2026 大爆發 / Taylor Swift / 五月天 / PSY / 孫燕姿 / aespa」 持續 carry (6 大 register family).
+
+- **witty-comebacks (5/18 day-after T+1 priority 最高 短窗口 雙波)**: **NEW 5/18 第一波**:「想 10 分鐘 寫 5 分鐘 哭 25 分鐘」「比倉鼠難 / 倉鼠至少會跑滾輪」「白老鼠 + 浮力 + 酸雨 + 圖表 / 我以為 在考自然 結果 在考閱讀」「過來人說 每屆都這樣 = 全宇宙最大安慰詐騙」 考生崩潰 + 自嘲 register 1-2 items 候選 5/18-5/19 短窗口. **NEW 5/18 第二波**:「Why pity love? You noticed me / 反酸機智反擊」 在地化「同事: 工作沒人看 / 我: 那你怎麼知道我工作」「家人: 沒帶男朋友 / 我: 表示你一直在注意」 1-2 items 候選 5/18-5/25 短窗口. 5/16 carry「no questions / Emily that's all / 我吃一點」 持續 carry.
+
+- **exam-quotes (5/29-6/1 啟動 reinforce, 5/18 day-after T+1)**: **5/18 day-after T+1 NEW reinforce**「白老鼠 / 浮力魔王題 / 酸雨情境題 / 圖表佔一半 / 車速儀表板法規結合 / 跟歷屆完全不一樣 / 過來人緩頰 每屆都這樣」 8-12 items 配比追加「白老鼠 + 賦予事物新面貌」 段落. 雙考流量 hook (5/16-17 國中會考 day-of + 7/11 分科) 確定. **HIGH priority 5/18 NEW reinforce**.
+
+- **slang-quotes (39 items live, 5/20 deadline T-2 倒數)**: 8 register priority 不變. **NEW 5/18 reinforce**「Jet2 Holiday / OS 旁白 vs 慘烈現實 對比梗」 register 1 item 加入「May 2026 全球 6 大梗 family」. **5/18 day-after T+1 carry**「Threads 5 大梗 (高麗菜煮蛋那桌 / 龐奇 / ꉂ 𐤔 / 留友看 / ㄅ級分) popdaily 第六次 reconfirm」 編寫 priority 最高 確定. 5/15-5/16 carry「chill guy / no questions / 不准問」 anti-explanation register 1 item. **5/20 deadline 編寫 priority 維持最高 (T-2)**.
+
+- **workplace-quotes (92 items live, 5/14 第三波 deadline 結束)**: **organic 觀察期 day-4/?**. 5/16 carry 1111 上班族 2026 幸福感調查「不及格 25% / 薪資偏低 59.3% / 福利差 / 主管 / AI 焦慮 6.7%」 4 register 1-2 items 候選. **Meta 5/20 8,000 裁員 T-2** AI 反諷 register 2-3 items 5/20+ day-of opportunistic. **NEW 5/18**:「天后 26 年 / 我加班才 5 年 / 已經 受不了」 跨世代厭世 cross-link 1 item 候選 6月 opportunistic + 「Nothing Beats a 員工旅遊 / 主管在我房間唱卡拉 OK 到三點」 Jet2 Holiday 在地化 1 item 候選 6月 opportunistic.
+
+- **programmer-jokes**: **5/20 Meta 裁員 T-2 day-of opportunistic**. AI 反諷 register expansion 維持. **NEW 5/18**:「Nothing Beats a deploy to prod / 旁白: smooth release / 畫面: stack trace 紅成一片」 Jet2 Holiday 在地化 1 item 候選 6月 opportunistic. 5/17 carry「我 賦予 stack trace 新面貌 / 從紅字變更多紅字」 持續 carry.
+
+- **food-jokes**: 5/16 carry「會考應援諧音菜名」 1 item 候選 6月 opportunistic 不變. 5/17 carry「會考香蕉加工」 1 item 候選 6月 opportunistic 不變. **5/22 啟動前** 端午「粽子諧音 + 5/16 會考應援 + 5/17 香蕉加工」 cross-link 1-2 items 預備.
+
+- **holiday-jokes (79 items, 端午 T-32)**: seeds 不變. **5/22 (T-28) 啟動倒數 4 天**. 5/12-5/17 carry「玉琴顧粽 / 蔡依林康民順 / 杜蕾絲先剝粽子再划龍舟 / 一見粽情 / 粽情粽禮 / 粽夏慶端午 / 包中諧音 / 接粽而來 / 粽所皆知」 + 5/14 carry 補習班「包粽=包中」升學 cross-link 持續 carry. 5/17 reconfirm 多源 carry.
+
+- **cheesy-pickups**: 5/16 carry「FYP 演算法情話」 Z 世代社媒 register 3-5 items 候選 6月 opportunistic 不變. 5/17 carry「我 賦予 妳的 LINE 新面貌」 1 item 候選 6月 opportunistic 不變.
+
+- **adulting-quotes (66 items live)**: **organic 觀察期 day 10/?**. 報稅季 day 18/24 (T-14 倒數 6/1). 5/30+ 最後一波 day-of opportunistic 仍 valid. 5/17 carry「以物易物 = 唯一還買得起 東西 的方式」 1 item 候選 6月 opportunistic. **NEW 5/18**:「Nothing Beats a Taiwan Pass / 抽籤: 沒中 / 找飯店: 加 1500」 國旅補助 + Jet2 Holiday 在地化 cross-link 1 item 候選 6月 opportunistic.
+
+- **travel-quotes (5/16 NEW 上線 觀察期 day 2/?)**: 「Nothing Beats a 連假返鄉 / 高鐵站票 4 小時 / 國道塞 6 小時 / 到家已經 又要 收行李 上班」+「Nothing Beats a 一日北海岸 / 看海吃海鮮 / 全是觀光客 全是養殖」 Jet2 Holiday 在地化 2-3 items 候選 6月 opportunistic. 5/15 carry 國旅補助 + Taiwan Pass 抽籤 register 持續 carry.
+
+- **dark-humor**: 5/16 carry「Met Gala 紅毯戲謔」 register 1 item 候選 6月 opportunistic 不變. 5/15 carry「KitKat Heist + Saxophone Louder」 持續 carry. **NEW 5/18**:「Cannes 2026 / Demi Moore toned arms / NYT 用詞 vs 網友嗆 extreme thinness」 體態 discourse register 1 item 候選 6月 opportunistic (敏感, low priority).
+
+- **absurd-wisdom**: **5/17 carry「賦予事物新面貌 廢話文學模板」** register 1-2 items 候選 5/17-5/24 短窗口 不變. 5/16 carry「Met Gala Fashion Is Art」+ 5/15 carry「Saxophone Louder / chill guy / Scribble / 賽博半仙」 持續 carry.
+
+- **zodiac-quotes / self-love-quotes / wedding-quotes / mom-quotes / sweet-quotes / graduation-quotes**: 各 organic 觀察期 day +1, 無新 5/18 信號. 母親節 day+8 organic. **graduation-quotes 5/15 deadline 結束 day+3 organic 觀察期** 不變.
+
+- **dog-quotes / cat-quotes / diet-quotes / couple-jokes / cold-jokes / korean-drama-quotes / pet-memorial-quotes / insomnia-quotes / renting-quotes / breakup-quotes / service-quotes**: no new 5/18 signal.
+
+### Updated Action Priority
+
+1. **[HIGH — DEADLINE TODAY 5/18 EOD / 短窗口 48 小時 day 2 of 3]** healing-quotes 「白老鼠 / 浮力魔王題 / 酸雨情境題 / 圖表佔一半 / 過來人說每屆都這樣」 1-2 items 末日 (5/18 day-after T+1 考後 48 小時 黃金安慰窗口 day 2 of 3) + 「26 年了 / 大家都變了 / 一起變老」 1 item 5/18-5/19 短窗口.
+2. **[HIGH — DEADLINE TODAY 5/18 EOD / 短窗口 48 小時 day-after T+1]** drama-quotes 「孫燕姿 大巨蛋 第二場 / 26 年大家都變了 / 白頭髮老花胖的胖腫的腫 / 對號入座 哭著點頭」 1-2 items 末日 (演唱會結束 24-48 小時 朋友圈黃金窗口 day-after T+1).
+3. **[HIGH — DEADLINE TODAY 5/18 EOD / 短窗口 48 小時]** witty-comebacks 「想 10 分鐘 寫 5 分鐘 哭 25 分鐘 / 比倉鼠難 / 白老鼠 + 浮力 + 酸雨」 考生崩潰 1-2 items + 「Why pity love? You noticed me / 反酸機智反擊」 在地化 1-2 items 5/18-5/25 短窗口.
+4. **[MEDIUM — 2 DAYS, 5/20 deadline T-2]** slang-quotes 「句式 viral」 sub-format 3-5 items. 8 register priority. 「Threads 5 大梗 popdaily 第六次 reconfirm」 + 「no questions / 不准問 / 不解釋 / chill guy」 anti-explanation register + 「Jet2 Holiday OS vs 現實對比」 1 item.
+5. **[HIGH — 4 DAYS, 5/22 啟動 → 6/19 端午]** holiday-jokes 端午節 expansion 5+ items + food-jokes cross-link 「粽子諧音 + 5/16 會考應援諧音 + 5/17 香蕉加工」 1-2 items.
+6. **[MEDIUM — 5/20+ day-of opportunistic]** workplace-quotes 「役畜化 / 工具人」 在地化 + AI 反諷 register 2-3 items + 1111 幸福感 4 register 1-2 items + Emily that's all 對比 1 item + Saxophone Louder + chill guy + 「我賦予報告新面貌」 + **NEW 5/18**「天后 26 年 我加班才 5 年 / Nothing Beats a 員工旅遊」 1-2 items.
+7. **[MEDIUM — 5/20+ day-of opportunistic]** programmer-jokes AI 反諷 register expansion 1-2 items (Meta 5/20 T-2 + Scribble + 賽博半仙 + 厭世頭像 + Saxophone Louder + 「我賦予 stack trace 新面貌」 + **NEW 5/18**「Nothing Beats a deploy to prod」 1 item).
+8. **[MEDIUM-HIGH — late May (5/29-6/1) 啟動 → 6/1-6/3 上線]** Create exam-quotes / 考試語錄 8-12 items. 雙考流量 hook. **5/18 day-after T+1 reinforce**「白老鼠 + 賦予事物新面貌 + 浮力魔王」 段落追加.
+9. **[MEDIUM — June opportunistic]** motivational-quotes 「Bob Ross / 練習比天份」 + 「老歌神 2026 大爆發 / 6 大 register family (Taylor Swift / 五月天 / PSY / 孫燕姿 / aespa / KiiiKiii)」 跨世代懷舊 + 練習成才 register 2-3 items + drama-quotes 「演唱會 sing along 哭點」 1 item 5/18 EOD.
+10. **[MEDIUM — late May]** slang-quotes Q2 refresh 泉/要確欸/爛.
+11. **[CLOSED, 5/18 carry]** mom-quotes / sweet-quotes 收 2027 backlog. 五雷區 strategy 不變. 母親節 day+8 organic.
+12. **[MEDIUM — June opportunistic, 5/16-5/17 NEW]** cheesy-pickups 「FYP / 演算法 / duet / 主角能量」 + 「我賦予妳的 LINE 新面貌」 Z 世代社媒 + 賦予事物 cross-link register 3-5 items expansion 候選.
+13. **[MEDIUM — Q3 候選 8-9月]** pet-memorial-quotes / 寵物離世語錄.
+14. **[MEDIUM — Q3 候選 8月]** insomnia-quotes / 失眠語錄.
+15. **[FLAG — early July, T-28 to T-58]** Begin 父親節 (8/8) drafting. (T-82 from 5/18).
+16. **[OPPORTUNISTIC — T-50, 6月底-7月初]** motivational-quotes / friendship 五月天 25年 #5525 (與 5/23 拓元售票 cross-link, T-5 from 5/18).
+17. **[OPPORTUNISTIC — June, low priority]** diet-quotes ACSM 2026 broader register +1-2 items.
+18. **[NEW MEDIUM — Q4 候選 (10-12月) 8-10月 觀察]** Create renting-quotes / 租屋語錄.
+19. **[NEW LOW — Q3 候選 (7月底-8月初) 7月 觀察]** Create summer-slack-quotes / 暑假擺爛語錄.
+20. **[NEW LOW — 2027/3 priority 載入]** mom-quotes / sweet-quotes 2027 母親節.
+21. **[OPPORTUNISTIC, 5/18 NEW 加碼]** witty-comebacks 「我吃一點」 derivative + 鄉民吐槽 + 5/16 carry「no questions / Emily that's all / Met Gala 沙發評論員」 + 5/17 carry「想 10 分鐘 寫 5 分鐘 哭 25 分鐘 / 比倉鼠難」 + **NEW 5/18**「白老鼠 + 浮力魔王」 考生崩潰 + 「Why pity love? You noticed me」 反酸機智 register 2-3 items 6月.
+22. **[NEW LOW — 6月 opportunistic]** absurd-wisdom 「賦予事物新面貌」 廢話文學模板 register 1-2 items (5/17-5/24 短窗口) + 「Met Gala Fashion Is Art / Saxophone Louder + chill guy + Scribble」 視覺/反努力/荒謬 register 1-2 items + zodiac-quotes 「賽博半仙 手相」 1 item + dark-humor 「KitKat Heist + Met Gala 紅毯戲謔 + Cannes Demi Moore 體態 discourse low priority」 1-2 items.
+23. **[FLAG — 觀察不啟動]** 校園霸凌 5/14 carry too sensitive = 不主動 expansion. Cannes Demi Moore 體態 discourse too sensitive = low priority.
+24. **[OPPORTUNISTIC — 5/23 T-5 集中 day]** PSY 大巨蛋 + 五月天 拓元售票 + 中信兄弟 K 歌主題日 + aespa 5/17 售票 → 8/11 演出 4 售票 cluster cross-pollinate 1-2 items (motivational-quotes / drama-quotes 跨世代懷舊 + 抽不到票 但 還是 想 一起哭 register).
+25. **[OPPORTUNISTIC — 5/17-5/19 短窗口]** absurd-wisdom / witty-comebacks 「賦予事物新面貌」 廢話文學模板 1-2 items (會考話題 1 週熱度).
+26. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday「OS vs 現實 對比梗」 在地化 6 大 topic 候選: travel-quotes 「Nothing Beats a 連假返鄉 / 員工旅遊 / 一日北海岸」 2-3 items + slang-quotes 「May 2026 全球 6 大梗 family 第六」 1 item + witty-comebacks 「OS 旁白 vs 現實」 1 item + workplace-quotes 「Nothing Beats a 員工旅遊」 1 item + adulting-quotes 「Nothing Beats a Taiwan Pass」 1 item + programmer-jokes 「Nothing Beats a deploy to prod」 1 item.
