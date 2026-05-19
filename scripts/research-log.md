@@ -3489,3 +3489,121 @@ Done items collapsed; only live priorities listed.
 24. **[OPPORTUNISTIC — 5/23 T-5 集中 day]** PSY 大巨蛋 + 五月天 拓元售票 + 中信兄弟 K 歌主題日 + aespa 5/17 售票 → 8/11 演出 4 售票 cluster cross-pollinate 1-2 items (motivational-quotes / drama-quotes 跨世代懷舊 + 抽不到票 但 還是 想 一起哭 register).
 25. **[OPPORTUNISTIC — 5/17-5/19 短窗口]** absurd-wisdom / witty-comebacks 「賦予事物新面貌」 廢話文學模板 1-2 items (會考話題 1 週熱度).
 26. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday「OS vs 現實 對比梗」 在地化 6 大 topic 候選: travel-quotes 「Nothing Beats a 連假返鄉 / 員工旅遊 / 一日北海岸」 2-3 items + slang-quotes 「May 2026 全球 6 大梗 family 第六」 1 item + witty-comebacks 「OS 旁白 vs 現實」 1 item + workplace-quotes 「Nothing Beats a 員工旅遊」 1 item + adulting-quotes 「Nothing Beats a Taiwan Pass」 1 item + programmer-jokes 「Nothing Beats a deploy to prod」 1 item.
+
+## 2026-05-19 Research Report
+
+### New Topic Recommendations
+
+1. **`fitness-quotes` / 健身語錄 — NEW 5/19 (NEW TOPIC CANDIDATE, Q3 候選 7-8月 啟動)**
+   - **5/19 多源**: growingbar.co「55 句健身語錄 / 巨石強森 / 李小龍 / 健身不是要比別人更好 而是要比以前更好」+ capcut「100+ 條健身名言 / 動力激勵 / 有趣言語 / 簡短目標」+ womany 17160「Miss Sports 名言 / 生命就像負重 挑戰始於你喊停的瞬間」+ Facebook FitTaiwanROC「John Cena: if you don't learn from your mistakes / regrets」+ chinesewords 1676「靜止便是死亡 只有運動才能敲開永生的大門」 多源 5/19 reconfirm 為基底.
+   - **意義**: **「健身房自嘲 / 重訓厭世 / 燃脂金句 / 練得不夠 / 增肌 vs 減脂 / 食量 vs 訓練量 / 健身房 ego 觀察 / 補劑迷思 / 教練嘲諷 / 健身愛好者 vs 普通人」** 10 register family 候選. 既有 diet-quotes 主場 (「鏟肉 / 卡路里 / 飲食控制」) ≠ fitness-quotes 候選 (「重訓 / 練胸 / 抓重 / PR / 蛋白粉 / Smith 機 / 滑輪下拉 / 跑步機 / 健身房空間政治」). 區隔明確 不衝突. **暑假健身潮 + 婚禮季塑形 + 開學前體態焦慮** 7-8月 啟動 流量 hook 三波.
+   - **意義 vs. 既有 topics**: 與 diet-quotes (66 items, 飲食/鏟肉/減脂 主場) + motivational-quotes (75 items, 一般勵志) + adulting-quotes (66 items, 社畜) 區隔明確. **NEW TOPIC candidate**. 在地化候選: 「我 重訓 三個月 / 媽: 怎麼 還是 一樣 胖 / 教練: 那是 因為 你 從來 沒去」/「健身房 鏡子 是 全世界 最 嚴格的 鏡子 / 也是 最 多 角度 的 / 你 永遠 找得到 不喜歡 的 那個 自己」/「補劑 一個月 6000 / 訓練 一個月 1500 / 廢吃 一個月 30000 / 結論: 我 在 養 補劑 不是 在 練身材」/「練 一年 / 體重 沒變 / 但 衣服 變緊 / 教練 說 那 是 進步 / 媽 說 那 是 你 變胖」/「Smith 機 永遠 排隊 / 啞鈴區 永遠 沒人收 / 健身房 = 一個 大型 行為藝術 展」.
+   - **SEO targets**: 健身語錄, 健身名言, 重訓金句, 健身房梗, 健身自嘲, 教練嘲諷, 練不出來, 健身房 ego.
+   - **Recommendation: NEW TOPIC candidate**. Q3 候選 (7-8月 啟動 → 8-9月 上線). 暑假潮 + 婚禮塑形 + 開學體態 三 wave 流量 hook.
+
+2. **`adult-tier-quotes` / 「初級大人/高級大人」 落差自嘲 — NEW 5/19 (NOT NEW TOPIC, adulting-quotes 主場 sub-format)**
+   - **5/19 多源**: dailyview 33240「Threads 爆紅 / 初級大人 vs 高級大人 / 自我檢測表 / 2026/2 後 快速升溫」 reconfirm. **意義**: **「初級大人 = 已經 是 大人 但 還沒 那種 大人 / 高級大人 = 真正 知道 自己 在幹嘛 / 雙重身分 / 落差 自嘲」** 模板. 與 adulting-quotes (66 items, 主場「社畜 / 報稅 / 房租 / 健保費」) 同 register family 強化 sub-format. 在地化候選: 「初級大人: 知道 報稅 要 申報 / 高級大人: 知道 哪些 可以 扣除」/「初級大人: 會 自己 倒垃圾 / 高級大人: 知道 垃圾車 哪天 沒收 大型 垃圾」/「初級大人: 看 房 / 高級大人: 看 結構 樑柱 採光 漏水 + 鄰居」/「初級大人: 會 自己 煮飯 / 高級大人: 知道 一週 採購 一次 划算 還是 兩次」/「初級大人: 知道 要 存錢 / 高級大人: 知道 哪 些 不該 省」/「我是 初級大人 / 因為 我 還是 不會 把 衣服 折好 / 直接 從 烘衣機 拿 出來 穿」.
+   - **意義 vs. 既有 topics**: adulting-quotes (主場 sub-format expansion) + slang-quotes (Threads 原生 register family). **NOT NEW TOPIC** — adulting-quotes 主場 sub-format. **MEDIUM-HIGH priority, 6月 opportunistic** (持續發酵中 / 已有 自我檢測表 工具 viral).
+   - **SEO targets**: 初級大人, 高級大人, 大人 檢測, 大人 落差, Threads 大人 梗.
+   - **Recommendation: NOT NEW TOPIC**. adulting-quotes 主場 sub-format. **MEDIUM-HIGH priority, 5/19 NEW**.
+
+3. **`douyin-newcomer-slang` / 抖音/小紅書 句式 viral 在地化 — NEW 5/19 (NOT NEW TOPIC, slang-quotes 主場 sub-format)**
+   - **5/19 多源**: lingoace 中文網路熱梗 + wukongsch 流行語盤點 + pixnet stone018「2026 爆紅詞彙 / 田曦薇 / 你今天吃陳皮糖了嗎」 多源 5/19 reconfirm. **意義**: **「我將辭職在家研究 X / 上身基礎下身就不基礎 / 我去不早說 / 活人感 / 村咖 / 谷子」** 6 register family. **句式化 + 評論區化 + 抽象表達化** 2026 趨勢. **「上身基礎下身就不基礎」 = 萬物皆可不基礎」** 通用句式 模板. 在地化候選: 「上身 穿 西裝 / 下身 穿 拖鞋 / 上半 通勤 / 下半 度假 / 上身 基礎 / 下身 就不 基礎」/「我將 辭職 在家 研究 / 為什麼 高鐵 票 永遠 比 我 起床 早」/「我將 辭職 在家 研究 / 同事 早安 訊息 為什麼 永遠 比 我 主管 兇」/「我去 不早 說 / 上班 第一天 才 知道 / 公司 沒 廁所 衛生紙」/「活人感 = 你 看起來 像 活人 / 不是 那種 加班 加到 變成 PPT 模板 的 活人」.
+   - **意義 vs. 既有 topics**: slang-quotes (39 items live, 主場 sub-format expansion) + workplace-quotes (我將辭職在家研究 cross-link) + witty-comebacks (我去 不早說 雙關 cross-link). **NOT NEW TOPIC** — slang-quotes 主場. **MEDIUM priority, 6月 opportunistic** (簡中圈 viral 5月 起台灣回流 觀察期).
+   - **SEO targets**: 我將辭職在家研究, 上身基礎下身就不基礎, 我去不早說, 活人感, 抖音 流行語 2026.
+   - **Recommendation: NOT NEW TOPIC**. slang-quotes 主場 sub-format (5/20 deadline 後 carry 至 6月). **MEDIUM priority, 5/19 NEW**.
+
+4. **`mayday-525-quotes` / 五月天 #5525+2 演唱會跨世代金句 — NEW 5/19 (NOT NEW TOPIC, motivational-quotes / drama-quotes / friendship 跨界 sub-format)**
+   - **5/19 multi-source reconfirm**: businessweekly 3021394「五月天 #5525+2 5/23 開賣 / 5/2 至 7/12 大巨蛋 7 場 / 創 最快再登 大巨蛋紀錄 / 票價 1525-5525 元 / 主題: 回到 那一天」+ tixcraft 五月天 + tw.trip mayday-concerts 2026 多源 5/19 reconfirm. **意義**: **「#5525+2 = 5/25 阿信 生日 / 25 年 / 2 場 加場 / 主題 回到那一天」** register family. **跨世代 + 25 年 友誼 + 跨齡哭點 + 抽不到票 但還是 想一起 哭 + 票價 諧音 1525 / 5525」** 5 register. **5/23 售票 T-4** + **7/3-7/12 演出 T-45 ~ T-54**. 在地化候選: 「他們 25 年 / 我 不到 25 歲 / 但 我們 一起 變 25 歲」/「票價 1525 / 是 他們 出道 那年 / 5525 / 是 他們 25 週年 / 我 抽 不到 / 是 我的 日常」/「回到 那一天 / 那 一天 我 還沒 有 房貸 / 那 一天 我 還 相信 努力 就會 成功」/「五月天 唱 第 26 年 / 我 加班 第 5 年 / 我們 都 累 / 但 至少 他們 還 在 大巨蛋 / 我 還 在 加班 改 PPT」/「抽不到 票 / 我 用 直播 自己 哭 / 朋友 說 那 也 算 沉浸式」.
+   - **意義 vs. 既有 topics**: motivational-quotes (主場「25 年 / 友誼 / 跨齡」 register) + drama-quotes (跨世代演唱會 + 抽票崩潰 cross-link) + workplace-quotes (5/13 carry 章魚哥 跨世代厭世 + 「他們 25 年 我 加班 5 年 已經 受不了」 cross-link). **NOT NEW TOPIC** — 3 topic cross-link sub-format. **MEDIUM-HIGH priority, 5/23 T-4 售票 day + 5/30-6/15 持續發酵 中窗口** + **7/3 演出開始 T-45 第二波 opportunistic**.
+   - **SEO targets**: 五月天 5525, 五月天 25 週年 大巨蛋, 五月天 抽不到票, 回到那一天, 五月天 票價 諧音.
+   - **Recommendation: NOT NEW TOPIC**. motivational-quotes / drama-quotes 主場. **MEDIUM-HIGH priority, 5/19 NEW**.
+
+### Content Trends
+
+- **5/19 day-after T+2 國中會考 短窗口 day 3 of 3 結尾**: 5/16-5/17 會考 + 5/18 day-after「白老鼠 / 浮力 / 酸雨」 carry. **意義**: **healing-quotes / witty-comebacks / exam-quotes 5/19 EOD 短窗口最後一天** 末日 1-2 items 編寫 priority 維持 (考後 48-72 小時 黃金安慰窗口 day 3 of 3). 5/20 後 organic 觀察期. exam-quotes 5/29-6/1 啟動 reinforce 「白老鼠 + 賦予事物新面貌 + 浮力魔王」 段落不變.
+
+- **5/19 day-after T+2 孫燕姿 大巨蛋 第二場 carry**: 5/15 first night「日落以後 / 你們是我的青春」 + 5/17 second night「26 年大家都變了 / 白頭髮老花胖的胖腫的腫」 carry. **意義**: **drama-quotes / motivational-quotes / healing-quotes 5/19 EOD 短窗口最後一天** 末日 1 item 編寫 priority 維持 (演唱會結束 48-72 小時 朋友圈黃金窗口 day-after T+2). 5/20 後 organic 觀察期. 與 5/23 PSY / 五月天 售票 + aespa 售票 cross-link.
+
+- **5/19 五月天 #5525+2 大巨蛋 7 場 (7/3-7/12) 5/23 售票 T-4** (businessweekly 3021394 + tixcraft 五月天 + tw.trip mayday-concerts 2026 多源). **意義**: **motivational-quotes / drama-quotes 5/23 T-4 售票 day + 5/30-6/15 中窗口 + 7/3 演出 T-45 day-of opportunistic** 1-2 items. 「25 年 / #5525+2 / 票價 1525-5525 諧音 / 抽不到票 / 回到 那一天」 register family. 5/15 carry「老歌神 2026 大爆發 / 6 大 register family」 強化.
+
+- **5/19 Douyin / 小紅書 2026 簡中圈 viral 句式回流 reconfirm** (lingoace + wukongsch + pixnet stone018 多源 5/19). **意義**: **slang-quotes 5/20 deadline T-1 編寫 priority 補強 1 item** 「我將辭職在家研究 / 上身基礎下身就不基礎 / 我去不早說 / 活人感 / 村咖」 6 register 加入「May 2026 全球 7 大梗 family」 (Threads 5 大 + chill guy + Emily that's all + Bob Ross + Jet2 Holiday + AI POV time travel + Douyin 6 register). 但 **過濾簡中專有用詞** (谷子 / 村咖 雖在台灣 Threads 也有討論, 但低 reach) priority 中等.
+
+- **5/19 Threads 「初級大人/高級大人」 自我檢測表 持續發酵** (dailyview 33240 reconfirm 5/19). **意義**: **adulting-quotes 6月 opportunistic priority 升級為 MEDIUM-HIGH** 「初級大人 = 知道 報稅 要 申報 / 高級大人 = 知道 哪些 可以 扣除」 雙重身分 落差 自嘲 register 2-3 items 候選 6月 opportunistic (持續發酵中 + 自我檢測表 工具 viral). 與 5/16 carry 報稅季 day 19/24 (T-13 倒數 6/1) cross-link 加碼.
+
+- **5/19 演唱會 5 大事件 cluster** (孫燕姿 5/15-17 already / aespa 5/17 售票 → 8/11 演出 / PSY 5/23 售票 / 五月天 #5525+2 5/23 售票 / TWICE 首度攻蛋). **意義**: **drama-quotes / motivational-quotes 5/17-5/23 7 天 day-of opportunistic + 5/30-6/15 中窗口 + 7-8 月 演出 day-of 第二波**. 「演唱會搶票 / 大巨蛋季 / 跨世代 + 跨類型 (K-pop 4 組 / 國語老歌神 / 西洋老歌神 / 國民天團)」 register 2-3 items 候選 6-8月 opportunistic.
+
+- **5/19 健身語錄 流量 hook 觀察** (growingbar + capcut + Facebook FitTaiwanROC + womany Miss Sports + chinesewords 多源 reconfirm). **意義**: **fitness-quotes NEW TOPIC candidate** Q3 候選 (7-8月 啟動 → 8-9月 上線). 暑假潮 + 婚禮塑形 + 開學體態 三 wave 流量 hook. 與 diet-quotes (主場「飲食 / 鏟肉 / 卡路里」) 區隔明確.
+
+- **5/19 政策/節慶 carry**: 端午 T-31 (6/19), holiday-jokes 5/22 啟動 T-3 (T-31 day-of). PSY 5/23 T-4. 五月天 5/23 拓元售票 T-4. Meta 5/20 T-1. 報稅 T-13 (6/1). 母親節 day+9 organic. 國中會考 day-after T+2. 父親節 T-81 (early July 啟動).
+
+- **5/19 5月 季節性 register** (Embrace the blooming possibilities of May / May flowers bloom from the showers of April / 集體懷舊 trend Instagram). **意義**: **motivational-quotes 5月底-6月初 季節性 register 1 item 候選** 「5月 / 4月 雨水 滋養 / 5月 花開」 自然 + 跨季 + 「春末夏初」 在地化「5月 / 是 不再 怪 雨季 / 6月 / 是 開始 怪 自己」 1 item 候選 5/25-5/31 短窗口.
+
+### Existing Topic Updates
+
+- **healing-quotes (5/19 day-after T+2 priority 維持 短窗口 day 3 of 3 最後一天)**: **「白老鼠 / 浮力魔王題 / 酸雨情境題 / 圖表佔一半 / 過來人說每屆都這樣 = 安慰詐騙」** 1-2 items 5/19 EOD 末日 編寫 (短窗口最後一天). 5/18 carry「26 年了 / 大家都變了 / 一起變老 / 中年自嘲」 1 item 5/19-5/20 短窗口. 5/17 carry「賦予事物新面貌 / 比倉鼠難 / 想 10 分鐘 / 媽媽的傘」 持續 carry. 「梅雨 退場 / 衣服晾乾了 但 心情 還沒乾」 後遺症 register 1 item 5/19-5/22 短窗口.
+
+- **drama-quotes (5/19 day-after T+2 priority 維持 短窗口 day 3 of 3 最後一天)**: **「孫燕姿 大巨蛋 第二場 / 26 年大家都變了 / 對號入座 哭著點頭」** 1 item 5/19 EOD 末日 (演唱會結束 48-72 小時 朋友圈黃金窗口 day-after T+2). **NEW 5/19**:「五月天 #5525+2 / 5/23 售票 / 7/3-7/12 大巨蛋 7 場 / 回到 那一天 / 25 年友誼」 + 「抽不到票 / 直播 自己 哭 / 沉浸式」 register 1-2 items 候選 5/23 T-4 售票 day + 6月 opportunistic.
+
+- **motivational-quotes (5/19 day-after T+2 priority 維持 短窗口)**: **「孫燕姿 26 年 / 一起 老 也不錯」** 1 item 5/19-5/20 短窗口. **NEW 5/19**:「五月天 25 年 / 我 不到 25 歲 但 我們 一起 變 25 歲 / 票價 1525-5525 諧音 / 回到 那一天 那 一天 我 還 相信 努力 就會 成功」 register 1-2 items 候選 5/23 T-4 售票 day + 7/3 演出 T-45. 「Bob Ross / 練習比天份重要 / 12 年了 還在 唱同一首 那才是天賦」 6月 opportunistic carry. **「5月 / 春末 / 4月雨水滋養 / 集體懷舊 Instagram」** 季節性 register 1 item 候選 5/25-5/31 短窗口.
+
+- **witty-comebacks (5/19 day-after T+2 priority 維持 短窗口)**: 5/18 carry 雙波「想 10 分鐘 寫 5 分鐘 哭 25 分鐘 / 比倉鼠難 / 白老鼠 + 浮力 + 酸雨 + 過來人 安慰 詐騙」 + 「Why pity love? You noticed me」 在地化 1-2 items 5/18-5/25 短窗口 carry. **NEW 5/19**:「我去 不早說 / 上班 第一天 才知道 公司 沒 廁所 衛生紙」 抖音句式 cross-link 1 item 候選 6月 opportunistic.
+
+- **exam-quotes (5/29-6/1 啟動 reinforce, 5/19 day-after T+2)**: **5/19 reinforce 不變**「白老鼠 / 浮力魔王題 / 酸雨情境題 / 圖表佔一半 / 過來人緩頰 每屆都這樣」 8-12 items 配比「白老鼠 + 賦予事物新面貌 + 浮力魔王」 段落. 雙考流量 hook (5/16-17 國中會考 + 7/11 分科) 確定. 5/29-6/1 啟動 倒數 10 天.
+
+- **slang-quotes (39 items live, 5/20 deadline T-1 倒數)**: 8 register priority 不變. **NEW 5/19 reinforce**「Douyin / 小紅書 2026 6 register」 (我將辭職在家研究 / 上身基礎下身就不基礎 / 我去不早說 / 活人感 / 村咖 / 谷子) 加入「May 2026 全球 7 大梗 family」 (priority 中等 過濾簡中專有). **5/19 day-after T+2 carry**「Threads 5 大梗 popdaily 第七次 reconfirm」 + 「Jet2 Holiday / chill guy / no questions」 編寫 priority 最高. **5/20 deadline T-1 維持最高 priority**.
+
+- **workplace-quotes (92 items live, organic 觀察期 day-5/?)**: 1111 幸福感 4 register 1-2 items 候選 carry. **Meta 5/20 8,000 裁員 T-1** AI 反諷 register 2-3 items 5/20+ day-of opportunistic. 5/18 carry「天后 26 年 / 我加班才 5 年」 跨世代厭世 + 「Nothing Beats a 員工旅遊」 在地化 1-2 items 候選 6月 opportunistic. **NEW 5/19**:「五月天 #5525+2 25 年 / 我 加班 5 年 / 他們 還 在 大巨蛋 / 我 還 在 改 PPT」 跨世代厭世 cross-link 1 item 候選 6月 opportunistic + 「我將辭職在家研究 / 為什麼 早安訊息 比 主管 兇」 抖音句式 1 item 候選 6月 opportunistic.
+
+- **programmer-jokes**: **5/20 Meta 裁員 T-1 day-of opportunistic**. AI 反諷 register expansion 維持. 5/18 carry「Nothing Beats a deploy to prod」 持續 carry. 5/17 carry「我 賦予 stack trace 新面貌」 持續 carry.
+
+- **food-jokes**: 5/16-5/17 carry「會考應援諧音菜名 + 香蕉加工」 1 item 6月 opportunistic 不變. **5/22 啟動前 T-3** 端午「粽子諧音」 cross-link 1-2 items 預備.
+
+- **holiday-jokes (79 items, 端午 T-31)**: seeds 不變. **5/22 (T-28) 啟動倒數 3 天**. 5/12-5/17 carry「玉琴顧粽 / 蔡依林康民順 / 杜蕾絲先剝粽子再划龍舟 / 一見粽情 / 粽情粽禮 / 粽夏慶端午 / 包中諧音 / 接粽而來 / 粽所皆知」 + 5/14 carry 補習班「包粽=包中」升學 cross-link 持續 carry.
+
+- **cheesy-pickups**: 5/16 carry「FYP 演算法情話」 Z 世代社媒 register 3-5 items 候選 6月 opportunistic 不變. 5/17 carry「我 賦予 妳的 LINE 新面貌」 1 item 候選 6月 opportunistic 不變.
+
+- **adulting-quotes (66 items live, organic 觀察期 day 11/?)**: 報稅季 day 19/24 (T-13 倒數 6/1). 5/30+ 最後一波 day-of opportunistic 仍 valid. **NEW 5/19 priority 升級為 MEDIUM-HIGH**:「初級大人 / 高級大人 / 自我檢測表」 雙重身分 落差 自嘲 register 2-3 items 候選 6月 opportunistic. 5/17 carry「以物易物 = 唯一還買得起 東西 的方式」 + 5/18 carry「Nothing Beats a Taiwan Pass」 持續 carry.
+
+- **travel-quotes**: 5/18 carry「Nothing Beats a 連假返鄉 / 員工旅遊 / 一日北海岸」 Jet2 Holiday 在地化 2-3 items 候選 6月 opportunistic 不變. 5/15 carry 國旅補助 + Taiwan Pass 抽籤 register 持續 carry.
+
+- **dark-humor**: 5/16 carry「Met Gala 紅毯戲謔」 + 5/15 carry「KitKat Heist + Saxophone Louder」 + 5/18 carry「Cannes Demi Moore 體態 discourse low priority」 持續 carry.
+
+- **absurd-wisdom**: **5/17 carry「賦予事物新面貌 廢話文學模板」** register 1-2 items 候選 5/17-5/24 短窗口 不變. 5/16 carry「Met Gala Fashion Is Art」+ 5/15 carry「Saxophone Louder / chill guy / Scribble / 賽博半仙」 持續 carry.
+
+- **diet-quotes**: **5/19 NEW signal carry**: fitness-quotes 候選 NEW TOPIC 區隔明確 (diet-quotes = 飲食 / 鏟肉 / 卡路里 主場 / fitness-quotes = 重訓 / 練胸 / 蛋白粉 / 健身房 ego). 6 月 broader register +1-2 items 不變.
+
+- **zodiac-quotes / self-love-quotes / wedding-quotes / mom-quotes / sweet-quotes / graduation-quotes**: 各 organic 觀察期 day +1, 無新 5/19 信號. 母親節 day+9 organic. graduation-quotes 5/15 deadline 結束 day+4 organic 觀察期 不變.
+
+- **dog-quotes / cat-quotes / couple-jokes / cold-jokes / korean-drama-quotes / pet-memorial-quotes / insomnia-quotes / renting-quotes / breakup-quotes / service-quotes**: no new 5/19 signal.
+
+### Updated Action Priority
+
+1. **[HIGH — DEADLINE TODAY 5/19 EOD / 短窗口最後一天 day 3 of 3]** healing-quotes 「白老鼠 / 浮力魔王題 / 酸雨情境題 / 過來人說每屆都這樣」 1-2 items 末日 (考後 72 小時 黃金安慰窗口 day 3 of 3 結尾).
+2. **[HIGH — DEADLINE TODAY 5/19 EOD / 短窗口最後一天 day 3 of 3]** drama-quotes 「孫燕姿 大巨蛋 第二場 / 26 年大家都變了 / 對號入座哭著點頭」 1 item 末日 (演唱會結束 72 小時 朋友圈黃金窗口 day 3 of 3 結尾).
+3. **[HIGH — 1 DAY, 5/20 deadline T-1]** slang-quotes 「句式 viral」 sub-format 3-5 items. 8 register priority. 「Threads 5 大梗 popdaily 第七次 reconfirm」 + 「no questions / 不准問 / 不解釋 / chill guy」 anti-explanation register + 「Jet2 Holiday OS vs 現實對比」 1 item + **NEW 5/19**「Douyin 6 register 過濾後」 1 item.
+4. **[HIGH — 3 DAYS, 5/22 啟動 → 6/19 端午]** holiday-jokes 端午節 expansion 5+ items + food-jokes cross-link 「粽子諧音 + 5/16 會考應援諧音 + 5/17 香蕉加工」 1-2 items.
+5. **[MEDIUM — 5/20+ day-of opportunistic]** workplace-quotes AI 反諷 register 2-3 items + 1111 幸福感 4 register 1-2 items + 5/18 carry「天后 26 年 我加班才 5 年 / Nothing Beats a 員工旅遊」 + **NEW 5/19**「五月天 25 年 我加班 5 年 / 我將辭職在家研究 早安訊息」 1-2 items 候選.
+6. **[MEDIUM — 5/20+ day-of opportunistic]** programmer-jokes AI 反諷 register expansion 1-2 items (Meta 5/20 T-1 + Scribble + 賽博半仙 + 厭世頭像 + Saxophone Louder + 「我賦予 stack trace 新面貌」 + 5/18 carry「Nothing Beats a deploy to prod」).
+7. **[MEDIUM-HIGH — late May (5/29-6/1) 啟動 → 6/1-6/3 上線]** Create exam-quotes / 考試語錄 8-12 items. 雙考流量 hook. 5/18 carry reinforce「白老鼠 + 賦予事物新面貌 + 浮力魔王」 段落.
+8. **[MEDIUM-HIGH — 5/23 T-4 售票 day + 5/30-6/15 中窗口 + 7/3 演出 T-45]** motivational-quotes / drama-quotes 五月天 #5525+2 register 1-2 items 「25 年 / 票價 1525-5525 諧音 / 回到那一天 / 抽不到票」.
+9. **[MEDIUM-HIGH — 6月 opportunistic, 5/19 priority 升級]** adulting-quotes 「初級大人 / 高級大人 / 自我檢測表」 雙重身分 落差 自嘲 register 2-3 items + Threads 「初級大人」 自我檢測表 viral 持續發酵 + 與報稅季 T-13 cross-link.
+10. **[MEDIUM — June opportunistic]** motivational-quotes 「Bob Ross / 練習比天份」 + 「老歌神 2026 大爆發 / 7 大 register family (Taylor Swift / 五月天 #5525+2 / PSY / 孫燕姿 / aespa / KiiiKiii / TWICE)」 跨世代懷舊 register 2-3 items + **NEW 5/19** 「5月 / 春末 / 集體懷舊」 季節性 register 1 item 5/25-5/31 短窗口.
+11. **[MEDIUM — late May]** slang-quotes Q2 refresh 泉/要確欸/爛.
+12. **[CLOSED, 5/19 carry]** mom-quotes / sweet-quotes 收 2027 backlog. 五雷區 strategy 不變. 母親節 day+9 organic.
+13. **[MEDIUM — June opportunistic, 5/16-5/17 NEW]** cheesy-pickups 「FYP / 演算法 / duet / 主角能量」 + 「我賦予妳的 LINE 新面貌」 Z 世代社媒 + 賦予事物 cross-link register 3-5 items expansion 候選.
+14. **[NEW MEDIUM — 5/19 NEW, Q3 候選 7-8月 啟動]** Create **fitness-quotes / 健身語錄** 8-12 items. 暑假潮 + 婚禮塑形 + 開學體態 三 wave 流量 hook. 與 diet-quotes 區隔明確 (重訓 / 練胸 / 蛋白粉 / 健身房 ego ≠ 飲食 / 鏟肉 / 卡路里).
+15. **[MEDIUM — Q3 候選 8-9月]** pet-memorial-quotes / 寵物離世語錄.
+16. **[MEDIUM — Q3 候選 8月]** insomnia-quotes / 失眠語錄.
+17. **[FLAG — early July, T-28 to T-58]** Begin 父親節 (8/8) drafting. (T-81 from 5/19).
+18. **[OPPORTUNISTIC — T-50, 6月底-7月初]** motivational-quotes / friendship 五月天 25年 #5525+2 (與 5/23 T-4 拓元售票 cross-link → 7/3 演出 T-45).
+19. **[OPPORTUNISTIC — June, low priority]** diet-quotes ACSM 2026 broader register +1-2 items.
+20. **[NEW MEDIUM — Q4 候選 (10-12月) 8-10月 觀察]** Create renting-quotes / 租屋語錄.
+21. **[NEW LOW — Q3 候選 (7月底-8月初) 7月 觀察]** Create summer-slack-quotes / 暑假擺爛語錄.
+22. **[NEW LOW — 2027/3 priority 載入]** mom-quotes / sweet-quotes 2027 母親節.
+23. **[OPPORTUNISTIC, 5/19 NEW 加碼]** witty-comebacks 「我吃一點」 derivative + 鄉民吐槽 + 5/16 carry「no questions / Emily that's all / Met Gala 沙發評論員」 + 5/17 carry「想 10 分鐘 寫 5 分鐘 哭 25 分鐘 / 比倉鼠難」 + 5/18 carry「白老鼠 + 浮力魔王 / Why pity love? You noticed me」 + **NEW 5/19**「我去 不早說」 抖音句式 cross-link 2-3 items 6月.
+24. **[NEW LOW — 6月 opportunistic]** absurd-wisdom 「賦予事物新面貌」 廢話文學模板 register 1-2 items (5/17-5/24 短窗口) + 「Met Gala Fashion Is Art / Saxophone Louder + chill guy + Scribble」 + zodiac-quotes 「賽博半仙 手相」 1 item + dark-humor 「KitKat Heist + Met Gala + Cannes Demi Moore low」 1-2 items.
+25. **[FLAG — 觀察不啟動]** 校園霸凌 too sensitive. Cannes Demi Moore 體態 discourse too sensitive = low priority.
+26. **[OPPORTUNISTIC — 5/23 T-4 集中 day]** PSY 大巨蛋 + 五月天 #5525+2 拓元售票 + aespa 5/17 售票 → 8/11 + TWICE 攻蛋 5 售票 cluster cross-pollinate 1-2 items.
+27. **[OPPORTUNISTIC — 5/17-5/19 短窗口最後一天]** absurd-wisdom / witty-comebacks 「賦予事物新面貌」 廢話文學模板 1-2 items (會考話題 1 週熱度 結尾).
+28. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday「OS vs 現實 對比梗」 在地化 6 大 topic 候選: travel-quotes 2-3 items + slang-quotes 1 item + witty-comebacks 1 item + workplace-quotes 1 item + adulting-quotes 1 item + programmer-jokes 1 item.
