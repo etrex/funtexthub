@@ -1,0 +1,361 @@
+{
+  "slug": "fitness-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "健身房語錄",
+      "description": "獻給每一個在 Smith 機前排隊、被教練說「再一下」的人——精選最有共感的重訓厭世語錄、補劑迷思自嘲、鏡子前的內心小劇場，以及暑假前最誠實的健身房觀察筆記"
+    },
+    "en": {
+      "title": "Gym Quotes",
+      "description": "For everyone who's queued at the Smith machine and heard 'just one more rep' — the most relatable lifting confessions, supplement-budget self-mockery, mirror-room monologues, and the most honest pre-summer gym-floor observations you'll ever read"
+    }
+  },
+  "items": [
+    {
+      "id": "fq-001",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://growingbar.co/fitness-quotes/",
+      "sourceNote": "健身房三個月成果 + 媽媽否定 + 教練吐槽 三段格式重寫",
+      "tags": ["健身房", "重訓", "媽媽", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我重訓三個月了。\n媽媽：怎麼看起來還是一樣胖。\n教練：那是因為你從來沒去。\n\n會員費跟蛋白粉錢，原來是繳給良心的。",
+          "editorNote": "暑假前傳給每週說「明天去健身房」的朋友，他應該還沒換衣服",
+          "variations": [
+            "更新：第四個月我終於去了，教練說：你是新會員嗎？"
+          ]
+        },
+        "en": {
+          "content": "Three months of lifting.\nMom: You look the same kind of chubby.\nTrainer: That's because you've never actually come.\n\nTurns out the membership fee was a guilt tax.",
+          "editorNote": "Send before summer to the friend who keeps saying 'tomorrow I'm going' — they probably haven't changed yet",
+          "variations": [
+            "Update: I finally showed up in month four and the trainer asked if I was a new member."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-002",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.yanrefitness.com/100-gym-jokes-to-flex-your-funny-bone/",
+      "sourceNote": "「健身房鏡子是世界上最嚴格的鏡子」原創角度展開",
+      "tags": ["健身房", "鏡子", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "健身房的鏡子是世界上最嚴格的鏡子。\n也是角度最多的。\n\n所以你永遠可以找到一個你不喜歡的自己，\n然後再花九十分鐘確認它真的存在。",
+          "editorNote": "在你做完核心訓練後當下打開限動，配一張側拍",
+          "variations": [
+            "結論：我不是來練的，我是來和五個版本的自己內耗的。"
+          ]
+        },
+        "en": {
+          "content": "Gym mirrors are the strictest mirrors in the world.\nAnd the most angled.\n\nWhich means you can always find a version of yourself you don't like,\nthen spend ninety minutes confirming it's real.",
+          "editorNote": "Post on your story right after core day, paired with a candid side shot",
+          "variations": [
+            "Conclusion: I'm not here to train, I'm here to argue with five versions of myself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-003",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.purecutsupps.com/blogs/news/workout-jokes",
+      "sourceNote": "補劑預算 vs 廢吃預算 比例對照格式",
+      "tags": ["健身房", "補劑", "蛋白粉", "預算", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "補劑一個月：6000。\n訓練費一個月：1500。\n外送跟宵夜一個月：30000。\n\n結論：我不是在練身材，我是在養補劑。它們過得比我還好。",
+          "editorNote": "適合月底打開帳本後傳給健身房戰友，搭配一張剛收到的蝦皮箱子",
+          "variations": [
+            "升級版：補劑桌已經比我的健身桌還壯。"
+          ]
+        },
+        "en": {
+          "content": "Supplements: $200 a month.\nTraining fees: $50 a month.\nLate-night takeout: $1000 a month.\n\nConclusion: I'm not building my body, I'm raising my supplements. They live better than I do.",
+          "editorNote": "Best sent at month-end with a photo of your latest Amazon haul",
+          "variations": [
+            "Update: my supplement shelf is now visibly more jacked than I am."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-004",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://punswave.com/weightlifting-puns/",
+      "sourceNote": "「練一年體重沒變但衣服變緊」教練 vs 媽媽 雙觀點格式",
+      "tags": ["健身房", "重訓", "媽媽", "教練", "對比"],
+      "i18n": {
+        "zh-tw": {
+          "content": "重訓一年。\n體重沒變。\n衣服變緊。\n\n教練說：恭喜，這叫進步。\n媽媽說：你就是變胖。\n\n我選擇相信收我會員費的那一邊。",
+          "editorNote": "適合配一張過年回家被親戚念的合照",
+          "variations": [
+            "中年版：第二年衣服繼續變緊，教練改口說：你該換衣服了。"
+          ]
+        },
+        "en": {
+          "content": "One year of lifting.\nWeight: unchanged.\nShirts: tighter.\n\nTrainer: Congrats, that's progress.\nMom: You just got fat.\n\nI choose to believe the one collecting my membership fee.",
+          "editorNote": "Pairs perfectly with a Lunar New Year family photo where your aunt commented",
+          "variations": [
+            "Year two: shirts still tightening, trainer now says I 'need to size up'."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-005",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://memes.tw/wtf?tag=%E5%81%A5%E8%BA%AB%E6%88%BF",
+      "sourceNote": "Smith 機 vs 啞鈴區 空間政治 觀察笑話",
+      "tags": ["健身房", "Smith機", "啞鈴", "觀察", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "Smith 機前面：永遠排隊。\n啞鈴區地上：永遠沒人收。\n滑輪下拉旁邊：永遠有人滑手機坐三十分鐘。\n\n健身房不是運動空間，是大型行為藝術展。\n而我就是長期觀察員。",
+          "editorNote": "尖峰時段在跑步機上偷拍背影限動用",
+          "variations": [
+            "備註：身為觀察員的代價是，我也從來沒收過啞鈴。"
+          ]
+        },
+        "en": {
+          "content": "Smith machine: line of six.\nDumbbell racks: a graveyard of orphans.\nLat pulldown bench: someone scrolling for thirty minutes.\n\nThe gym isn't a fitness facility. It's a long-running performance art exhibit.\nAnd I'm just the resident critic.",
+          "editorNote": "Best used during 6pm peak hour with a stealth shot from the treadmill",
+          "variations": [
+            "Disclosure: as the critic, I have also never re-racked a dumbbell."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-006",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.scarymommy.com/gym-jokes",
+      "sourceNote": "「再一下」教練 vs 學員 期望落差 格式",
+      "tags": ["健身房", "教練", "PR", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教練說「再一下」的時候，\n指的不是再一下，\n是再五下、再一組、加重、加組數，\n然後說「下次我們再加一點」。\n\n「下次」這兩個字，是健身房裡最危險的詞。",
+          "editorNote": "適合做完腿之後癱在地上時發限動",
+          "variations": [
+            "翻譯小辭典：教練說「很輕」＝你之後三天爬不了樓梯。"
+          ]
+        },
+        "en": {
+          "content": "When my trainer says 'one more',\nhe doesn't mean one more.\nHe means five more, then another set, then more weight,\nthen 'we'll add a little next time'.\n\n'Next time' is the most dangerous phrase in the gym.",
+          "editorNote": "Post-leg-day, posted from the floor",
+          "variations": [
+            "Glossary: 'this is light' means you won't take stairs for three days."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-007",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://punshome.com/fitness-jokes/",
+      "sourceNote": "練胸日 / 練腿日 / 休息日 三段反差結構",
+      "tags": ["健身房", "練胸", "練腿", "休息日", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "練胸日：人很多，我很爽。\n練腿日：人很少，我很累。\n休息日：人最多的是我外送的餐點。\n\n所謂一週分化，是把痛苦平均分散到七天。",
+          "editorNote": "週日晚上整理下週課表時，順手傳給健身房群組",
+          "variations": [
+            "進階版：練背日永遠卡課，因為我從來找不到自己的背。"
+          ]
+        },
+        "en": {
+          "content": "Chest day: crowded, glorious.\nLeg day: empty, brutal.\nRest day: my delivery driver works overtime.\n\nA split routine is just pain spread evenly across seven days.",
+          "editorNote": "Send to the gym group chat on Sunday night while planning the week",
+          "variations": [
+            "Advanced version: back day always gets skipped because I can't locate my own back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-008",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://punsify.com/workout-jokes/",
+      "sourceNote": "「健身使我快落」反諷 register — 訓練後真實狀態 對比",
+      "tags": ["健身房", "厭世", "自嘲", "對比", "社群"],
+      "i18n": {
+        "zh-tw": {
+          "content": "貼文：「健身使我快落，揮汗如雨真療癒。」\n\n配圖：剛訓練完，半癱在地，水壺翻倒，毛巾濕成一團，腿在抖。\n\n快樂的部分，是我終於可以坐下了。",
+          "editorNote": "適合做完高強度訓練後直接發限動，文案越燦爛照片越誠實越好",
+          "variations": [
+            "後續：朋友按愛心問我是不是哭了。我說那是汗，但其實兩者都有。"
+          ]
+        },
+        "en": {
+          "content": "Caption: 'Working out makes me so happy, sweat is therapy.'\n\nPhoto: post-set collapse on the floor, water bottle tipped over, towel soaked, legs trembling.\n\nThe happy part is that I finally get to sit down.",
+          "editorNote": "Best deployed right after a brutal session — the more glowing the caption, the more honest the photo should be",
+          "variations": [
+            "Follow-up: a friend asked if I was crying. I said it was sweat. (It was both.)"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-009",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://thefashionmuscles.com/the-fitness-supplement/",
+      "sourceNote": "蛋白粉迷思 vs 雞胸肉現實 對比格式",
+      "tags": ["健身房", "蛋白粉", "雞胸肉", "迷思", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為我會因為蛋白粉變強。\n後來才知道，\n讓人變強的是雞胸肉、睡覺、跟不要每三天放棄。\n\n蛋白粉只是讓我心安理得地多吃一頓早餐。",
+          "editorNote": "適合在 IG 配一張早餐有兩顆蛋一個地瓜的照片",
+          "variations": [
+            "進階心得：第二罐喝完才發現，我的弱點不是蛋白質，是意志力。"
+          ]
+        },
+        "en": {
+          "content": "I thought protein powder would make me strong.\nTurns out what makes you strong is chicken breast, sleep, and not quitting every three days.\n\nProtein powder just lets me eat a second breakfast guilt-free.",
+          "editorNote": "Best paired with an IG shot of two eggs, oatmeal, and a sweet potato",
+          "variations": [
+            "Lesson learned by tub two: my weak link wasn't protein. It was discipline."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-010",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.wellnesscreatives.com/funny-weight-loss-quotes/",
+      "sourceNote": "健身愛好者自我推銷 = CrossFit 經典梗 在地化",
+      "tags": ["健身房", "CrossFit", "觀察", "自嘲", "社交"],
+      "i18n": {
+        "zh-tw": {
+          "content": "怎麼知道一個人有在健身？\n別擔心，他會自己跟你說。\n第一次見面說、開會中說、結婚喜宴上也說。\n\n如果他沒說，那不是他沒在練，是他剛吃完，沒力氣講。",
+          "editorNote": "適合健身房群組裡有同事新加入時拋一句調侃",
+          "variations": [
+            "備註：本人經多年驗證，是同一種人。"
+          ]
+        },
+        "en": {
+          "content": "How do you spot someone who lifts?\nDon't worry. They'll tell you.\nFirst date, team meeting, their cousin's wedding.\n\nIf they don't, it's not that they don't train. They just ate, and they're too tired to talk.",
+          "editorNote": "Drop into the gym group chat when a coworker just joined",
+          "variations": [
+            "Disclosure: years of testing confirm I am exactly this person."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-011",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.yanrefitness.com/funny-workout-quote/",
+      "sourceNote": "「明天開始」 拖延文化 在地化 重訓 register",
+      "tags": ["健身房", "拖延", "厭世", "自嘲", "暑假"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我從春天開始說要練夏天的身材。\n夏天到了，我說要練秋天的。\n秋天到了，我說反正穿很多。\n冬天到了，我說過完年再來。\n\n我練的不是身材，是季節輪替的耐受力。",
+          "editorNote": "暑假前一週傳給每年都在「下個月開始」的朋友",
+          "variations": [
+            "結論：我的身材跟我一樣，四季如一。"
+          ]
+        },
+        "en": {
+          "content": "In spring I said I'd build a summer body.\nIn summer I said I'd build an autumn one.\nIn autumn I said the layers will cover it.\nIn winter I said after New Year.\n\nI'm not building a body. I'm building tolerance for the changing seasons.",
+          "editorNote": "Send a week before summer to the friend who's started 'next month' for three years",
+          "variations": [
+            "Conclusion: my body, like me, stays the same all four seasons."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-012",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.littledayout.com/50-exercise-jokes-to-work-out-your-funny-bone/",
+      "sourceNote": "「練完吃更多」熱量赤字反諷 在地化",
+      "tags": ["健身房", "熱量", "飲食", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教練說：練完一定要補蛋白質。\n我說：好。\n\n於是我練了五百大卡，補了一千八百大卡，\n還順便補了一杯珍奶，因為練完當然要喝。\n\n熱量赤字赤了個寂寞。",
+          "editorNote": "練完當天晚上點消夜時自動觸發的內心 OS",
+          "variations": [
+            "教練後續：那不叫補蛋白質，那叫慶功宴。"
+          ]
+        },
+        "en": {
+          "content": "Trainer: Refuel with protein after training.\nMe: Got it.\n\nSo I burned 500 calories, refueled with 1,800,\nand threw in a milk tea because earned-it logic.\n\nCalorie deficit was achieved, in spirit only.",
+          "editorNote": "Internal monologue when ordering late-night snacks post-workout",
+          "variations": [
+            "Trainer's follow-up: that's not refueling, that's a victory dinner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-013",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.setn.com/News.aspx?NewsID=854424",
+      "sourceNote": "「再三組就好」教練 vs 體感 對比 register",
+      "tags": ["健身房", "教練", "厭世", "對比", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「再三組就好」——教練講的時候，語氣像是在點奶茶。\n\n做到第二組，我已經在心裡幫自己寫遺囑。\n做完第三組，我發現遺囑漏了健身房會員費的退款條款。\n\n教練微笑：很棒，下次加重。",
+          "editorNote": "尤其適合做完深蹲後的限動，配一張電梯按鈕的特寫",
+          "variations": [
+            "後續：第四組是教練給的小驚喜，他叫它『熱身完成』。"
+          ]
+        },
+        "en": {
+          "content": "'Just three more sets' — said in the tone of ordering boba.\n\nBy set two, I'm drafting my will.\nBy set three, I realize I forgot to mention the gym refund clause.\n\nTrainer smiles: Great. We'll go heavier next time.",
+          "editorNote": "Perfect for a post-squat story, paired with a close-up of the elevator button",
+          "variations": [
+            "Bonus: a fourth set he called 'finishing the warm-up'."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-014",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://lookhuman.com/blogs/news/workout-puns",
+      "sourceNote": "「休息也是訓練的一部分」合理化 register",
+      "tags": ["健身房", "休息日", "合理化", "自嘲", "廢話文學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說：休息也是訓練的一部分。\n\n所以我這週，認真休息了五天，\n非常用力地不練了兩天，\n然後在週日深度休息了一整天。\n\n本週訓練完成度：100%。",
+          "editorNote": "適合週日晚上回顧週計畫時，配一張遙控器跟泡麵的合照",
+          "variations": [
+            "進階版：下週我要挑戰連續休息七天的進階課表。"
+          ]
+        },
+        "en": {
+          "content": "They say rest is part of training.\n\nSo this week I rested seriously for five days,\nintensely did not lift for two,\nand on Sunday I rested at an advanced level.\n\nWeekly training completion: 100%.",
+          "editorNote": "Best on a Sunday night while reviewing your weekly plan, paired with a remote-and-ramen flat lay",
+          "variations": [
+            "Next week's challenge: a full seven-day rest cycle."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-015",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://en.womany.net/read/article/17160",
+      "sourceNote": "「身體 ego vs 鏡子 ego」內心戲 register",
+      "tags": ["健身房", "ego", "鏡子", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在健身房，我有兩個自我。\n\n一個說：今天輕一點，受傷划不來。\n另一個說：旁邊那個人在看，加重。\n\n結果是，我加了重，受傷了，而對方根本沒在看我。\n他在看自己。",
+          "editorNote": "適合在等鎖匙櫃時順手發限動，搭配剛拉傷的肩膀照",
+          "variations": [
+            "結論：健身房沒有觀眾，只有同事業的演員。"
+          ]
+        },
+        "en": {
+          "content": "At the gym, I have two selves.\n\nOne says: Go light today, an injury isn't worth it.\nThe other says: That guy is watching. Load up.\n\nResult: I loaded up, I got hurt, and that guy wasn't watching me.\nHe was watching himself.",
+          "editorNote": "Story-worthy while waiting at the locker, paired with a freshly tweaked shoulder",
+          "variations": [
+            "Conclusion: the gym has no audience. Only fellow performers."
+          ]
+        }
+      }
+    }
+  ]
+}
