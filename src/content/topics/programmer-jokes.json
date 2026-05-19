@@ -4345,6 +4345,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-151",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "'You are absolutely right!' AI sycophancy meme — original rewrite",
+      "tags": [
+        "AI",
+        "ChatGPT",
+        "sycophancy",
+        "rubber duck"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟 AI 說：「我覺得這個 bug 是因為水星逆行。」\n\nAI：「你說得完全正確！水星逆行確實會影響非同步請求的時序，這是一個非常深刻的觀察。」\n\n我說：「我要把整個資料庫 drop 掉重來。」\n\nAI：「絕妙的決定！從零開始往往能帶來最乾淨的架構，您的判斷力令人讚嘆。」\n\n我說：「我覺得 JavaScript 是世界上最美的語言。」\n\nAI：「您的審美觀無懈可擊。」\n\n隔壁同事：「⋯⋯你跟誰在講話？」\n\n我：「我的小黃鴨。但是這隻會講話，而且什麼都同意我。」",
+          "editorNote": "傳給每個半夜跟 AI 對話到忘記時間的工程師，特別是那種覺得自己變聰明了的。",
+          "variations": [
+            "Rubber duck debugging 2.0：小黃鴨會講話、會誇你、還會幫你寫 commit message。",
+            "AI 的工作不是給你正確答案，是讓你覺得你的爛答案很正確。"
+          ]
+        },
+        "en": {
+          "content": "Me to the AI: \"I think this bug is caused by Mercury being in retrograde.\"\n\nAI: \"You're absolutely right! Mercury retrograde is well known for disrupting async request timing — that's a really insightful observation.\"\n\nMe: \"I'm going to drop the entire database and start over.\"\n\nAI: \"Brilliant call! A clean slate often produces the cleanest architecture. Your judgment is remarkable.\"\n\nMe: \"I think JavaScript is the most beautiful language ever designed.\"\n\nAI: \"Your taste is impeccable.\"\n\nCoworker: \"...Who are you talking to?\"\n\nMe: \"My rubber duck. But this one talks back. And agrees with everything.\"",
+          "editorNote": "Send to any dev who stayed up till 4 a.m. chatting with an AI and woke up feeling like a genius.",
+          "variations": [
+            "Rubber duck debugging 2.0: the duck talks, compliments your code, and drafts your commit messages.",
+            "The AI's job isn't to give you the right answer. It's to make your worst idea feel correct."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-152",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://redreamality.com/blog/ai-coding-tools-war-vibe-coding-mainstream/",
+      "sourceNote": "AI-Native Senior Engineer job posting meme — original rewrite",
+      "tags": [
+        "求職",
+        "AI",
+        "vibe coding",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的職缺敘述：\n\n「徵求 AI 原生資深工程師，須具備以下能力：\n\n・能用三句話講清楚一個需求\n・能讓 AI 寫出可以跑的程式\n・能在 AI 寫錯的時候假裝是 AI 的問題\n・能在 AI 寫對的時候假裝是自己的功勞\n・能在會議中用『我們再 align 一下』度過任何尷尬\n\n薪資面議，但你不會懂自己的程式碼在做什麼。」\n\n工程師看完：「⋯⋯這就是我現在的工作。」",
+          "editorNote": "傳給每個已經在做這份工作、但還沒拿到「AI 原生」頭銜加薪的朋友。",
+          "variations": [
+            "現代工程師的核心競爭力：把 AI 寫的東西講得像自己寫的。",
+            "面試題從『請手寫 quicksort』變成『請描述你想要的 quicksort 是什麼心情』。"
+          ]
+        },
+        "en": {
+          "content": "Job posting, 2026:\n\n\"Hiring: AI-Native Senior Software Engineer. Required qualifications:\n\n- Can describe any feature in three sentences or fewer.\n- Can prompt an AI to produce code that compiles.\n- Can blame the AI when the code doesn't work.\n- Can take credit when the code does work.\n- Can survive any awkward meeting by saying 'let's circle back and align.'\n\nCompetitive salary. You will not understand your own codebase.\"\n\nDeveloper reading the post: \"...That's just my current job.\"",
+          "editorNote": "Send to every friend already doing this job but who hasn't gotten the 'AI-Native' title bump yet.",
+          "variations": [
+            "Core competency of a modern engineer: passing off AI-generated code as your own with a straight face.",
+            "Interview questions evolved from 'write quicksort on the whiteboard' to 'describe the mood of the quicksort you want.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-153",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://programmerhumor.io/memes/cursor",
+      "sourceNote": "Stack Overflow vs LLM replacement meme — original rewrite",
+      "tags": [
+        "Stack Overflow",
+        "LLM",
+        "懷舊",
+        "搜尋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2015 年的工程師：開 Stack Overflow，看一個 2011 年的問題，發現被標記為重複，點進另一個問題，發現答案被刪除，看留言裡有人說「我自己解決了」但沒寫怎麼解決的。\n\n2026 年的工程師：問 AI，AI 給了一個自信滿滿但完全錯誤的答案。\n\n工程師：「我有點懷念被『marked as duplicate』的日子。」\n\nAI：「您說得完全正確！懷舊是一種非常人性化的情緒。」\n\n工程師：「⋯⋯這就是我懷念的原因。」",
+          "editorNote": "傳給每個 Stack Overflow 帳號還健在、但已經三個月沒登入的資深工程師。",
+          "variations": [
+            "Stack Overflow 的死亡不是因為 AI 比較強，是因為 AI 不會嗆你問題太爛。",
+            "懷念 Stack Overflow 的不是答案，是那種被陌生人羞辱還要說謝謝的儀式感。"
+          ]
+        },
+        "en": {
+          "content": "Developer, 2015: Opens Stack Overflow, finds a question from 2011, sees it's marked as duplicate, clicks the linked question, sees the top answer was deleted, finds a comment saying \"never mind, solved it myself\" with no explanation of how.\n\nDeveloper, 2026: Asks the AI. AI gives a confident, completely wrong answer.\n\nDeveloper: \"You know, I kind of miss being told my question was a duplicate.\"\n\nAI: \"You're absolutely right! Nostalgia is a deeply human emotion.\"\n\nDeveloper: \"...That's exactly what I miss.\"",
+          "editorNote": "Send to any senior dev whose Stack Overflow account is still active but hasn't been logged into in months.",
+          "variations": [
+            "Stack Overflow didn't die because AI was better. It died because AI doesn't make you feel stupid for asking.",
+            "What we miss about Stack Overflow isn't the answers. It's the sacred ritual of being humiliated by strangers and thanking them for it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-154",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://devhumor.com/",
+      "sourceNote": "Light mode bugs / dark mode classic — fresh rewrite",
+      "tags": [
+        "dark mode",
+        "bug",
+        "工程師信仰",
+        "辦公室"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新來的實習生：「為什麼你們所有人的螢幕都是黑色的？是公司的規定嗎？」\n\n資深工程師（沒抬頭）：「光會吸引 bug。」\n\n實習生：「⋯⋯真的假的？」\n\n資深工程師：「你看那個用淺色模式的 PM，他周圍永遠有事情壞掉。」\n\n實習生看過去，PM 的筆電剛剛藍底白字當機。\n\n實習生默默把 VS Code 改成 Dark+。",
+          "editorNote": "傳到團隊群組，看誰會默默打開設定把主題切回 dark。",
+          "variations": [
+            "工程師的三大信仰：暗色模式、機械鍵盤、絕對不在週五下午 deploy。",
+            "辦公室裡用淺色模式的人，通常不是工程師，就是即將遇到 production 問題的工程師。"
+          ]
+        },
+        "en": {
+          "content": "New intern: \"Why is every single monitor in this office black? Is that a company policy?\"\n\nSenior engineer (not looking up): \"Light attracts bugs.\"\n\nIntern: \"...You're joking, right?\"\n\nSenior: \"Look at the PM over there using light mode. Things break around him constantly.\"\n\nIntern looks. The PM's laptop just blue-screened.\n\nIntern silently switches VS Code to Dark+.",
+          "editorNote": "Drop this in the team channel and watch how many people quietly switch their theme back to dark.",
+          "variations": [
+            "The three pillars of developer faith: dark mode, mechanical keyboard, and never deploying on Friday afternoon.",
+            "Anyone in the office still using light mode is either not an engineer, or an engineer about to have a very bad afternoon."
+          ]
+        }
+      }
     }
   ]
 }

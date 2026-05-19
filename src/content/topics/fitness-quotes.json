@@ -356,6 +356,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-016",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.threads.com/@its1223333/post/DXopxznE9RJ",
+      "sourceNote": "跑步機 vs 操場 體感落差 在地化",
+      "tags": ["健身房", "跑步機", "有氧", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "跑步機上跑六公里：氣不喘、心情好、邊看 Netflix。\n操場上跑兩公里：感覺人生在跟我告別。\n\n結論：我練的不是體能，是冷氣跟 Wi-Fi。",
+          "editorNote": "適合夏天剛從室外跑回來、癱在健身房門口時發限動",
+          "variations": [
+            "進階版：跑步機壞掉那天，我也跟著壞掉了。"
+          ]
+        },
+        "en": {
+          "content": "Six km on the treadmill: easy breathing, good mood, mid-Netflix episode.\nTwo km on an outdoor track: my life is flashing before my eyes.\n\nConclusion: I'm not training cardio. I'm training AC and Wi-Fi.",
+          "editorNote": "Best deployed after stumbling back from an outdoor run, collapsed at the gym entrance",
+          "variations": [
+            "Update: the day the treadmill broke, so did I."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-017",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://thunderdungeon.com/2025/07/12/30-workout-supplement-memes-that-hit-harder-than-your-overpriced-pre-workout/",
+      "sourceNote": "pre-workout 過量 心悸 register 在地化",
+      "tags": ["健身房", "pre-workout", "咖啡因", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教練說：一匙就夠。\n我：一匙看起來很少。\n\n二十分鐘後，我在更衣室裡，\n心跳像在打鼓，手在抖，眼睛瞪得很大，\n而我還沒開始熱身。\n\n那天我練得很弱，但我活得很用力。",
+          "editorNote": "適合 pre-workout 過量當下，蹲在置物櫃前自拍時用",
+          "variations": [
+            "後續：教練說『下次照劑量』，我說我下次會記得。下次。"
+          ]
+        },
+        "en": {
+          "content": "Trainer: One scoop is plenty.\nMe: One scoop looks like nothing.\n\nTwenty minutes later in the locker room,\nheart pounding, hands shaking, eyes wide,\nand I haven't even warmed up.\n\nI lifted weak that day. But I lived loud.",
+          "editorNote": "Use right after over-scooping, while crouched in front of your locker",
+          "variations": [
+            "Follow-up: trainer said 'follow the label next time'. I said sure. Next time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-018",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://wellfitinsider.com/workout-tips/funny-gym-quotes/",
+      "sourceNote": "DOMS 延遲性痠痛 第二天 vs 第三天 在地化",
+      "tags": ["健身房", "練腿", "痠痛", "DOMS", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "練腿當天：哇我超強，我可以再加重。\n第二天：還行，只是上下樓梯有點怪。\n第三天：馬桶是我的敵人，沙發是我的監獄，襪子穿不起來。\n\n結論：痛苦不會準時來，但一定會來。",
+          "editorNote": "適合練腿後第三天早上，坐在馬桶上時的限動文案",
+          "variations": [
+            "進階版：第四天我終於可以蹲下，然後我馬上預約下次練腿。為什麼。"
+          ]
+        },
+        "en": {
+          "content": "Leg day: I'm a god, I should've gone heavier.\nDay two: I'm fine, stairs just feel weird.\nDay three: the toilet is my enemy, the couch is my prison, and socks are now optional.\n\nConclusion: the pain is never on time, but it always shows up.",
+          "editorNote": "Best posted on the morning of day three, captioned from the toilet",
+          "variations": [
+            "Day four: I can finally squat down. So naturally, I book another leg day. Why."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-019",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://livefit.com/blogs/livefit/the-21-funniest-gym-quotes-of-all-time",
+      "sourceNote": "PR 紀錄 vs 限動發文 比例 反諷 register",
+      "tags": ["健身房", "PR", "限動", "社群", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "破 PR 那一下：三秒。\n喘到不能講話：五分鐘。\n錄影、剪片、加慢動作、配音樂、上字幕：四十分鐘。\n選 hashtag、想文案、猶豫要不要 @ 教練：兩小時。\n\n那一下到底是為了破紀錄，還是為了發限動，我自己都不確定。",
+          "editorNote": "適合在剛剪完 PR 影片、限動還沒按發布前的最後一秒掙扎時用",
+          "variations": [
+            "結論：我練的是肌肉，但我經營的是內容。"
+          ]
+        },
+        "en": {
+          "content": "The PR rep: three seconds.\nCatching my breath: five minutes.\nFilming, editing, slow-mo, music, captions: forty minutes.\nPicking hashtags, drafting the caption, debating whether to tag my coach: two hours.\n\nWas that rep for the record, or for the story? I genuinely don't know anymore.",
+          "editorNote": "Best at the exact moment before you hit 'post' on the freshly cut PR reel",
+          "variations": [
+            "Conclusion: I train muscles. But I run a content business."
+          ]
+        }
+      }
     }
   ]
 }

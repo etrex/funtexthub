@@ -3635,6 +3635,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-147",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學睡眠主題重新創作",
+      "tags": ["廢話文學", "睡眠", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠專家指出，一個人只要躺在床上、閉上眼睛、進入睡眠，就會睡著。\n\n如果沒有睡著，通常是因為還沒睡著。\n\n所以失眠的根本原因，是你還沒有睡著。",
+          "editorNote": "深夜兩點傳給失眠的朋友，恭喜你又害他多醒了三十分鐘",
+          "variations": [
+            "想睡好覺的第一步，就是不要醒著。",
+            "睡得好的人，比睡不好的人，睡得好。這是常識。"
+          ]
+        },
+        "en": {
+          "content": "Sleep experts confirm that as long as a person lies down, closes their eyes, and falls asleep, they will be asleep.\n\nIf they are not asleep, it's usually because they haven't fallen asleep yet.\n\nTherefore, the root cause of insomnia is that you haven't fallen asleep.",
+          "editorNote": "Send this at 2 AM to your insomniac friend — congratulations, you just stole another thirty minutes of their night",
+          "variations": [
+            "Step one to sleeping well: don't stay awake.",
+            "People who sleep well sleep better than people who don't sleep well. This is common knowledge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-148",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.sohu.com/a/895491666_121124291",
+      "sourceNote": "廢話文學工作主題重新創作",
+      "tags": ["廢話文學", "工作", "上班族"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我發現，只要上班，就會上到班。\n\n而下班之後，通常就不是上班時間了。\n\n至於假日，多半發生在不用上班的日子裡。",
+          "editorNote": "週一早上九點傳到公司群組，主管已讀，你的同事們會默默感謝你",
+          "variations": [
+            "加班的人，比沒加班的人，下班晚一點。",
+            "薪水是發給有上班的人。沒上班的，通常領不到。"
+          ]
+        },
+        "en": {
+          "content": "I've noticed that as long as you go to work, you end up at work.\n\nAfter work, however, is usually not work hours.\n\nAs for weekends, they tend to occur on days you don't have to work.",
+          "editorNote": "Send this in the office Slack at 9 AM Monday — your manager will read it, your coworkers will silently thank you",
+          "variations": [
+            "People who stay late finish work later than people who don't stay late.",
+            "Paychecks go to people who show up. People who don't show up usually don't get one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-149",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://read01.com/zh-tw/4nn0yEL.html",
+      "sourceNote": "廢話文學金錢主題重新創作",
+      "tags": ["廢話文學", "金錢", "存錢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "經濟學家研究指出：一個人只要把錢花掉，錢就會變少。\n\n沒花的錢，則會留下來。\n\n所以想存錢的關鍵，就是不要把錢花光。",
+          "editorNote": "傳給說要存錢卻每天點外送的朋友，順便附上點餐連結",
+          "variations": [
+            "有錢的人，比沒錢的人，多了一些錢。",
+            "想變有錢，第一步就是先不要把錢花完。"
+          ]
+        },
+        "en": {
+          "content": "Economists have determined that as long as a person spends money, they have less of it.\n\nMoney that isn't spent remains.\n\nTherefore, the key to saving money is to not spend it all.",
+          "editorNote": "Send to your friend who keeps saying they'll save money but orders DoorDash daily — bonus points if you attach a takeout link",
+          "variations": [
+            "Rich people have more money than poor people. This has been verified.",
+            "Step one to getting rich is not running out of money."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-150",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/585550258",
+      "sourceNote": "廢話文學社交主題重新創作",
+      "tags": ["廢話文學", "社交", "人際"],
+      "i18n": {
+        "zh-tw": {
+          "content": "心理學家發現，當一個人不講話的時候，他通常是沉默的。\n\n一旦開口，沉默就會結束。\n\n所以想要安靜，最有效的方法，就是大家都不要說話。",
+          "editorNote": "適合在尷尬的家族聚餐中默念，效果跟說出來一樣什麼都沒解決",
+          "variations": [
+            "話多的人，比話少的人，講了更多的話。",
+            "想要朋友，第一步就是認識人。沒認識的人，通常不是你的朋友。"
+          ]
+        },
+        "en": {
+          "content": "Psychologists have observed that when a person isn't speaking, they are usually silent.\n\nOnce they open their mouth, the silence ends.\n\nTherefore, the most effective way to achieve quiet is for everyone to not speak.",
+          "editorNote": "Recite silently during awkward family dinners — equally ineffective as saying it out loud, but at least you tried",
+          "variations": [
+            "People who talk a lot say more words than people who talk less.",
+            "Step one to having friends is meeting people. People you haven't met are usually not your friends."
+          ]
+        }
+      }
     }
   ]
 }

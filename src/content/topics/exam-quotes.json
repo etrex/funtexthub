@@ -1051,6 +1051,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-044",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://udn.com/news/story/124826/9507986",
+      "sourceNote": "115 會考 考完兩天 等成績 register — 6/5 放榜 倒數 frame",
+      "tags": ["國中會考", "115會考", "等放榜", "焦慮", "成績單"],
+      "i18n": {
+        "zh-tw": {
+          "content": "會考結束兩天了。\n離放榜還有半個多月。\n這段時間沒有任務、沒有複習、沒有任何能做的事，\n只剩下「等」這個動詞，把我磨成一個有耐心的人。\n原來放榜前的日子，比考試本身還能訓練心理素質。",
+          "editorNote": "115 會考結束後等 6/5 放榜的高共鳴句，配張月曆圈著 6/5 的照片很到位。",
+          "variations": [
+            "可以加：「考試考的是知識，等放榜考的是 EQ。」",
+            "也能改：「會考最難的科目其實叫『等』，而且這科沒有複習講義。」"
+          ]
+        },
+        "en": {
+          "content": "Two days since the big exam ended.\nResults are still over two weeks away.\nNo tasks, no review, nothing left to do —\njust the verb \"wait,\" slowly turning me into a patient person.\nThe waiting period trains your mental game harder than the exam ever did.",
+          "editorNote": "For the limbo between final paper and results day — pair with a calendar shot with the date circled.",
+          "variations": [
+            "Add: \"The exam tested knowledge. Waiting for results tests emotional intelligence.\"",
+            "Try: \"The hardest subject in finals is 'waiting,' and there's no study guide for it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-045",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "考完隔天 突然空虛 register — 不知道要做什麼 frame 升級",
+      "tags": ["國中會考", "115會考", "考後", "空虛", "暑假"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完第二天，朋友揪我出去玩。\n我說好，結果在捷運上想了三站：\n「我可以玩了嗎？真的可以嗎？」\n罪惡感比考試本身還黏，\n它讀完整個國中跟我一起準備上高中。",
+          "editorNote": "115 會考結束後第一次出門那種「玩得心虛」的限動神句，配個捷運窗外的照片正剛好。",
+          "variations": [
+            "可以加：「我玩得不像在玩，比較像保釋出來放風。」",
+            "進階：「罪惡感是我國中三年最忠實的同學，連畢業都不肯離開。」"
+          ]
+        },
+        "en": {
+          "content": "Day two after the exam, friends asked me out.\nI said yes, then spent three subway stops asking myself:\n\"Am I allowed to have fun? Like, really allowed?\"\nGuilt is stickier than the exam itself —\nit studied with me all three years and is now applying to high school too.",
+          "editorNote": "For the first post-exam hangout where your brain hasn't gotten the memo yet — subway-window photo works.",
+          "variations": [
+            "Add: \"I'm not really hanging out. I'm on parole and trying not to look suspicious.\"",
+            "Try: \"Guilt was my most loyal classmate for three years. It refuses to graduate.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-046",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3020946",
+      "sourceNote": "115 會考 考後 親戚問候 register — 你考得怎樣 frame",
+      "tags": ["國中會考", "115會考", "親戚", "問候", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完隔天回阿嬤家，\n第一個阿姨問：「考得怎樣？」\n第二個舅舅問：「考得怎樣？」\n第三個表姐問：「考得怎樣？」\n我終於明白：\n會考結束的真正意義，是親戚問候系統正式上線。",
+          "editorNote": "115 會考完回家被親戚連環問的標配句，傳到家族群會收到表妹的「+1」。",
+          "variations": [
+            "可以加：「我已經想好答案了：『就那樣。』可以用一整個夏天。」",
+            "進階：「會考的考卷只有兩天，親戚的考卷有一整個暑假。」"
+          ]
+        },
+        "en": {
+          "content": "First day back at grandma's after the exam.\nAunt one: \"How did it go?\"\nUncle two: \"How did it go?\"\nCousin three: \"How did it go?\"\nThat's when I realized:\nthe real meaning of finishing the exam is the family Q&A system going live.",
+          "editorNote": "For the relative-interrogation phase that follows every big exam — drop in the family group chat for chorus replies.",
+          "variations": [
+            "Add: \"I've prepped one answer: 'It was okay.' It'll get me through the whole summer.\"",
+            "Try: \"The exam lasted two days. The family questions last all summer.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-047",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "考後睡眠補償 register — 補不回來的睡眠 frame",
+      "tags": ["考試", "睡眠", "考後", "自嘲", "熬夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完那晚我睡了十二個小時。\n醒來覺得：欸，怎麼還是累？\n後來才懂：\n我熬夜熬掉的不是時間，是身體裡某種叫做「精神」的東西，\n它不像手機可以快充，它要慢慢、慢慢、慢慢，才肯回來。",
+          "editorNote": "考完睡到下午還是覺得身體被掏空的真實感，配張賴床的棉被照剛好。",
+          "variations": [
+            "可以加：「我以為睡眠是貸款，沒想到它是定存，提前領的話會被扣本金。」",
+            "也能改：「補眠這件事，補得回時間，補不回那個年輕的自己。」"
+          ]
+        },
+        "en": {
+          "content": "Night after the exam I slept twelve hours.\nWoke up and thought: wait, why am I still tired?\nThen it hit me:\nwhat all those late nights stole wasn't time — it was something inside me called \"spirit,\"\nand unlike a phone, it doesn't fast-charge. It comes back slowly, slowly, slowly.",
+          "editorNote": "For the post-exam recovery sleep that somehow doesn't recover anything — under-the-covers photo energy.",
+          "variations": [
+            "Add: \"I thought sleep was a loan. Turns out it's a fixed deposit — withdraw early and you lose principal.\"",
+            "Try: \"You can catch up on hours. You can't catch up on the younger version of you that lost them.\""
+          ]
+        }
+      }
     }
   ]
 }

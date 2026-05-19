@@ -1224,6 +1224,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-051",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.flick.social/captions/jet-lag-captions-for-instagram",
+      "sourceNote": "Jet lag「身體在這裡、靈魂在另一個時區」frame，重新改寫",
+      "tags": ["旅行", "時差", "廢文", "短句", "搞笑"],
+      "i18n": {
+        "zh-tw": {
+          "content": "時差是一種很特別的體驗：\n身體已經回家了，\n靈魂還卡在登機門 B7，\n胃在想要吃宵夜還是早餐。",
+          "editorNote": "回國後第二天最有共鳴的 frame——適合 Threads 早上四點睡不著的廢文、IG 限動配上凌晨亂吃的泡麵照、或者請假在家的自嘲訊息",
+          "variations": [
+            "我沒有失眠，我只是身體還在台灣，但靈魂留在東京的便利店裡選飯糰。",
+            "時差讓我同時擁有兩個時區的疲倦，跟零個時區的精神。"
+          ]
+        },
+        "en": {
+          "content": "Jet lag is a unique experience:\nyour body is home,\nyour soul is still at Gate B7,\nand your stomach is asking\nif this counts as a midnight snack\nor breakfast.",
+          "editorNote": "Lands hardest the day after a long-haul return — works for a 4 a.m. Threads post, an Instagram Story of instant noodles in bed, or that self-aware Slack message about why you're taking a personal day",
+          "variations": [
+            "I'm not jet lagged. I'm just emotionally still at the gate, eating airport sushi out of spite.",
+            "Jet lag is having two time zones' worth of tiredness and zero time zones' worth of energy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-052",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.tripadvisor.com/ShowTopic-g1-i12357-k14187833-Eating_solo_at_hotel_breakfast_buffet-Solo_Travel.html",
+      "sourceNote": "獨自旅行飯店自助早餐的觀察，原創 frame",
+      "tags": ["獨旅", "飯店", "早餐", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個人旅行最大的修練，\n是在飯店自助早餐區，\n第三次回去夾培根，\n依然從容地假裝自己只是路過。",
+          "editorNote": "獨旅最 specific 的尷尬瞬間 frame——適合 Threads 獨旅日記、IG 飯店早餐照配文、或朋友問「自己一個人吃飯不會奇怪嗎」時的最佳回應",
+          "variations": [
+            "獨旅教會我最重要的事：第四盤可頌可以拿，只要動作夠自然。",
+            "我不是一個人尷尬地吃早餐，我是在進行密集的碳水化合物研究。"
+          ]
+        },
+        "en": {
+          "content": "The hardest part of solo travel\nisn't loneliness.\n\nIt's walking back to the breakfast buffet\nfor the third plate of bacon\nwhile pretending\nyou're just passing through.",
+          "editorNote": "Captures the very specific solo-traveler buffet shame spiral — perfect for a Threads solo-trip diary, a hotel-breakfast Story, or the reply you send when a friend asks if you ever feel weird eating alone",
+          "variations": [
+            "Solo travel taught me one thing: a fourth croissant is acceptable as long as your face says 'just stretching my legs.'",
+            "I'm not awkwardly eating breakfast alone. I'm conducting independent carbohydrate research."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-053",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://hostelgeeks.com/26-funny-travel-quotes-laugh/",
+      "sourceNote": "回家後的反差感 frame，原創 rewrite",
+      "tags": ["旅行", "回家", "廢文", "短句", "現實"],
+      "i18n": {
+        "zh-tw": {
+          "content": "出國前：\n我要去找一個全新的自己。\n\n回國後：\n那個自己回來了，\n還帶了 18 公斤的待洗衣服，\n跟一張看不太懂的信用卡帳單。",
+          "editorNote": "旅行 vs. 回到現實的對照 frame，是最多人轉發的廢文型 register——適合配回家洗衣機照、信用卡帳單截圖、或剛回到家攤在沙發上的自拍",
+          "variations": [
+            "出國前我以為旅行會改變我，回國後發現它改變的是我的銀行餘額。",
+            "我帶了一個更開闊的世界觀回來，跟一台快爆炸的洗衣機。"
+          ]
+        },
+        "en": {
+          "content": "Before the trip:\nI'm going to find a whole new version of myself.\n\nAfter the trip:\nThat version came back,\nwith 40 pounds of laundry\nand a credit card statement\nI cannot bring myself to read.",
+          "editorNote": "The 'travel changes you' bait-and-switch — works for the unpacking-on-the-couch caption, the post-trip Threads dump, or any moment where vacation reality meets actual reality",
+          "variations": [
+            "I thought travel would change me. Turns out it just changed my bank balance.",
+            "I came back with a broader worldview and a washing machine on the verge of giving up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-054",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學 × 護照 frame，原創",
+      "tags": ["廢話文學", "護照", "旅行", "短句", "搞笑"],
+      "i18n": {
+        "zh-tw": {
+          "content": "護照最神奇的地方在於——\n沒帶的時候，\n你就出不了國；\n有帶的時候，\n你才有機會出國。",
+          "editorNote": "教科書級的廢話文學 frame，套在旅行語境特別有畫面感——適合在朋友群組丟給準備出國的人、IG 護照特寫配文、或抵達機場後的限動",
+          "variations": [
+            "出國這件事的關鍵，是你必須先離開你原本的國家。",
+            "護照的意義就是：當海關問你是誰，你可以給他看護照。"
+          ]
+        },
+        "en": {
+          "content": "The amazing thing about a passport is this:\nif you don't have it,\nyou can't leave the country.\nIf you do have it,\nyou can.\n\nThat's the whole system.",
+          "editorNote": "Deadpan absurdist register — pairs perfectly with a passport close-up, an airport check-in Story, or a group-chat message to the friend who is, once again, looking for their passport",
+          "variations": [
+            "The trick to international travel is leaving the country you are currently in.",
+            "A passport is a small book that proves you are the person the small book says you are."
+          ]
+        }
+      }
     }
   ]
 }

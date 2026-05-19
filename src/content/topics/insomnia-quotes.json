@@ -816,6 +816,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-036",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://thechive.com/funny/my-brain-at-3am-memes/",
+      "sourceNote": "Inspired by the classic 'strong relationship with my ceiling' line; rewritten with a localized 'long-term contract' framing",
+      "tags": ["失眠", "深夜", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟我房間的天花板，已經是穩定交往的關係。\n每晚見面三小時，從來不冷場。\n它沒講過話，但我覺得它都懂。",
+          "editorNote": "把每晚瞪天花板講成感情長跑，特別有畫面。適合在又一次熬到看天花板的清晨發限動，配張天花板照很搭。",
+          "variations": [
+            "天花板是我目前最穩定的感情對象，已經五年了。"
+          ]
+        },
+        "en": {
+          "content": "Me and my ceiling are in a long-term committed relationship.\nWe meet up for three hours every night and it's never awkward.\nIt's never said a word, but I'm pretty sure it gets me.",
+          "editorNote": "Frames the nightly ceiling-stare as a stable long-term relationship. Cinematic. Pair it with a photo of your actual ceiling for the perfect 4am post.",
+          "variations": [
+            "My ceiling is the most stable relationship I have. Five years strong."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-037",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://aigift.alibaba.com/quotes/quotes-on-insomnia-funny",
+      "sourceNote": "Inspired by 'brain needs a mute button' format; rewritten with a localized customer-service complaint framing",
+      "tags": ["失眠", "焦慮", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我想跟製造商客訴一下：\n我的大腦沒有靜音鍵，沒有暫停鍵，\n連音量旋鈕都壞了，只會自己越轉越大聲。",
+          "editorNote": "把腦袋無法停機的痛苦包裝成 3C 產品瑕疵申訴。理工同事跟資深失眠戶都會懂，傳群組會有人接「我這台還會自動更新」。",
+          "variations": [
+            "我的腦袋是出廠瑕疵品，過保了也找不到人修。"
+          ]
+        },
+        "en": {
+          "content": "I'd like to file a complaint with the manufacturer:\nmy brain has no mute button, no pause button,\nand the volume knob is broken — it only turns itself up.",
+          "editorNote": "Treats the unstoppable late-night brain as a defective electronics product. Hits engineers and chronic insomniacs alike. Expect a 'mine auto-updates' reply.",
+          "variations": [
+            "My brain shipped with a manufacturing defect, and the warranty expired years ago."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-038",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://pleated-jeans.com/2025/09/09/funny-tweets-about-sleep-because-counting-sheep-doesnt-work/",
+      "sourceNote": "Original take on the smart-watch sleep score phenomenon; not covered by existing items",
+      "tags": ["失眠", "智慧手錶", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "手錶今早跟我說：你昨晚的睡眠分數是 32 分。\n謝謝你，我自己也很清楚。\n還需要你提醒嗎？",
+          "editorNote": "對「智慧穿戴在你最虛弱的時候補一刀」的精準吐槽。戴 Apple Watch、Garmin 的同事一定共鳴。",
+          "variations": [
+            "我花錢買手錶，不是為了讓它每天早上 8 點公開羞辱我。"
+          ]
+        },
+        "en": {
+          "content": "My watch this morning: your sleep score last night was 32.\nThanks, I'm well aware.\nDid I ask?",
+          "editorNote": "A precise jab at the smart-watch finishing-move it pulls when you're already wrecked. Anyone with an Apple Watch or Garmin will nod hard.",
+          "variations": [
+            "I didn't pay for this watch so it could roast me at 8am every day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-039",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.buzzfeed.com/morganmurrell/funny-tweets-insomnia-jokes",
+      "sourceNote": "Inspired by 'don't look at the clock' anxiety spiral tweets; rewritten with a mental-math punchline",
+      "tags": ["失眠", "焦慮", "上班族", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "規則一：不要看時鐘。\n規則二：千萬不要算還剩幾小時可以睡。\n（三秒後）那如果現在馬上睡著，是不是還有四小時又二十七分？",
+          "editorNote": "失眠時最經典的「越告訴自己別算越會算」迴圈。傳給也常常在床上做心算的朋友，他們會回「我剛剛也在算」。",
+          "variations": [
+            "我答應自己不看時鐘，結果默默開始用窗外天色估算時間。"
+          ]
+        },
+        "en": {
+          "content": "Rule one: don't look at the clock.\nRule two: do NOT calculate how many hours of sleep are left.\n(three seconds later) Okay but if I fall asleep right now, that's still four hours and twenty-seven minutes, right?",
+          "editorNote": "The classic 'the more you tell yourself not to count, the more you count' loop. Send to the friend who also does bedtime math — they'll reply 'just did this.'",
+          "variations": [
+            "I promised myself not to check the clock. Now I'm estimating the time from how light the window looks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-040",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://reading.udn.com/read/story/122749/8524266",
+      "sourceNote": "Original gentle item — adds a 'the night owes you nothing, and you owe it nothing' angle to the healing register",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夜晚沒有欠你一個好覺，\n你也沒有欠夜晚一個努力入睡的樣子。\n關燈、躺好，就已經夠了。",
+          "editorNote": "失眠的人最容易陷入「我必須努力睡著」的迴圈，反而更睡不著。這句話把「努力」這件事拿掉。傳給對睡眠這件事很有壓力的朋友。",
+          "variations": [
+            "今晚不用拚命睡，把燈關掉，把自己交給床就好。"
+          ]
+        },
+        "en": {
+          "content": "The night doesn't owe you a good sleep,\nand you don't owe the night a performance of trying hard to sleep.\nLights off, lie down — that's already enough.",
+          "editorNote": "Insomniacs spiral into 'I must try harder to sleep,' which only keeps them awake. This removes the effort entirely. Send to the friend who treats bedtime as a test.",
+          "variations": [
+            "Don't fight for sleep tonight. Turn the light off and let the bed do the rest."
+          ]
+        }
+      }
     }
   ]
 }

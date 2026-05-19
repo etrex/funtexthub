@@ -752,6 +752,101 @@
           "variations": ["My hands shook the whole time. But when I closed the lid, the room wasn't empty for the first time — it was a tidied kind of quiet. That's not the same as empty."]
         }
       }
+    },
+    {
+      "id": "pm-040",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://news.vt.edu/articles/2025/11/anticipatory-grief-pets-holiday-wellness-tips.html",
+      "sourceNote": "「預期性悲傷」 — 老犬還在身邊卻已經開始哭 frame，原創",
+      "tags": ["預期性悲傷", "老犬", "倒數"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你還在我腳邊呼吸，可是我已經偷偷哭了好幾次了。看著你爬不上沙發、聞著飯卻搖頭，我知道我們在倒數。對不起，我沒辦法讓自己只專心陪你，因為我也得偷偷練習你不在的那一天。",
+          "editorNote": "預期性悲傷 register——毛孩還在但飼主已經開始悲傷，這種「提早哭」常被誤解為不孝，需要正常化",
+          "variations": ["我每天多抱你一下，多拍幾張照片。看起來像是珍惜，其實是在替未來的自己存糧。"]
+        },
+        "en": {
+          "content": "You're still breathing here by my feet, but I've already cried about losing you a dozen times this month. Watching you struggle onto the couch, sniff your dinner and turn away — I know we're in the countdown. I'm sorry I can't just be present with you. I'm also quietly rehearsing the day you're not.",
+          "editorNote": "Anticipatory grief register — owners crying before the pet has even gone, often misread as 'too soon'; needs to be normalized",
+          "variations": ["I hold you a few seconds longer every day. Take more photos than I used to. Looks like savoring. It's actually rationing for later."]
+        }
+      }
+    },
+    {
+      "id": "pm-041",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.dcard.tw/f/pet/p/260064635",
+      "sourceNote": "「Google 街景看見牠」 — 數位殘影意外重逢 frame，原創",
+      "tags": ["思念", "街景", "意外重逢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我隨手把家裡地址打進 Google 街景，畫面拉近的那一刻——你正趴在門口曬太陽。那是好幾年前的車經過拍到的。我看著螢幕坐了快一個小時，沒哭，只是覺得這個世界還是偷偷留了一張你的照片給我。",
+          "editorNote": "「Google 街景翻到牠」是近年社群常見的療癒事件，把「數位殘影」當成意外的安慰禮物寫出來",
+          "variations": ["翻舊手機備份，相機膠卷自動跳出「兩年前的今天」。我本來想滑掉，可是手停在你的鼻子那張照片上，停了很久。"]
+        },
+        "en": {
+          "content": "I typed my address into Google Street View on a whim. When the camera zoomed in — there you were, sprawled in the sun by the front door. Some car drove past and caught you, years ago. I sat there for almost an hour. Didn't cry. Just felt like the world had quietly kept one extra photo of you for me.",
+          "editorNote": "Street View / camera-roll resurfacing is a real 2020s grief moment — frames the digital afterimage as an accidental gift, not a wound",
+          "variations": ["Old phone backup. 'On this day, two years ago.' I was going to swipe past. My thumb stopped on the one with your nose pressed against the camera. Stayed there a long time."]
+        }
+      }
+    },
+    {
+      "id": "pm-042",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.drlorigibson.com/blog/how-long-is-normal-to-grieve-a-pet/",
+      "sourceNote": "「悲傷不是變小，是我長大」 — 一年後的微妙改變 frame，原創",
+      "tags": ["撫慰", "一年後", "成長"],
+      "i18n": {
+        "zh-tw": {
+          "content": "想牠的次數沒有變少，可是我發現自己現在可以一邊想牠、一邊把咖啡煮完，一邊還能笑一下。不是悲傷變小了，是我長出了一個夠大的自己，可以把牠跟日子一起裝在裡面。",
+          "editorNote": "適合喪寵滿一年以上、被別人誤以為「已經好了」的人。重新定義「好起來」——不是不痛，是容量變大",
+          "variations": ["以前牠的名字一被提起，我就要先去廁所躲三分鐘。現在可以坐在原位，喝一口水，慢慢說出牠的故事——這就是我這一年走過來的路。"]
+        },
+        "en": {
+          "content": "I don't miss them less. I just noticed I can miss them and finish making coffee and laugh at a meme in the same five minutes. Grief didn't shrink. I grew a version of me big enough to carry it alongside everything else.",
+          "editorNote": "For owners past the one-year mark whom others assume are 'over it' — redefines healing as expanding capacity, not reduced pain",
+          "variations": ["A year ago, someone saying their name sent me to the bathroom for three minutes. Now I can sit still, sip my water, and tell their story all the way through. That's the whole distance I've walked."]
+        }
+      }
+    },
+    {
+      "id": "pm-043",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.morph.com.tw/post/sorrow-on-the-loss-of-pet/",
+      "sourceNote": "「老照片裡的我也不知道」 — 翻舊照看到當時的自己 frame，原創",
+      "tags": ["思念", "老照片", "後知後覺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "翻到一張三年前的合照，照片裡的我笑得很傻、抱著你拍照，完全不知道那是我們剩下不多的某一天。真希望可以穿回去拍拍那個我的肩膀，跟他說：「你現在抱的這隻，每一秒都要記得認真抱。」",
+          "editorNote": "「過去的自己不知道珍惜」是後悔 register 最常見的痛點，給予溫柔的回應而不是強化自責",
+          "variations": ["照片裡你還會跳起來搶鏡頭。我看著螢幕想，當時要是有人告訴我這是倒數第三個夏天，我會不會多陪你走幾趟河堤。"]
+        },
+        "en": {
+          "content": "Found a photo from three years back. I'm grinning like a fool, you're squirming in my lap, and neither of us knows it's already one of our last summers. I wish I could reach back and tap that version of me on the shoulder: 'Hold on tighter. Every second of this one counts.'",
+          "editorNote": "'Past me didn't know to cherish it' is the most common regret loop — answer with tenderness, not more guilt",
+          "variations": ["You're jumping into the frame in that one. I sit here wondering — if someone had told me it was our third-to-last summer, would I have walked you down the river one more time?"]
+        }
+      }
+    },
+    {
+      "id": "pm-044",
+      "dateAdded": "2026-05-19",
+      "sourceUrl": "https://www.humaneworld.org/en/all-animals/how-to-help-grieving-pets",
+      "sourceNote": "「我笑了一下，然後立刻覺得對不起牠」 — 倖存者罪惡感 frame，原創",
+      "tags": ["自責", "倖存者罪惡", "笑出來"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天我看朋友傳的影片，笑出聲。笑完那一秒，我突然覺得對不起你——好像我笑了，就代表我已經沒有那麼想你了。後來我才慢慢學會：笑不是背叛，是你留給我的禮物，繼續用就好。",
+          "editorNote": "處理「我怎麼可以笑出來」的倖存者罪惡，這是喪寵中後期最容易卡住、又很少被命名的階段",
+          "variations": ["第一次出去吃飯吃得很開心，回家路上突然眼眶熱。原來釋懷不是一個瞬間，是每次快樂之後都要再跟你說一次「我沒有忘記你」。"]
+        },
+        "en": {
+          "content": "I laughed at a video a friend sent me today. The second after, guilt hit hard — like laughing meant I wasn't missing you enough. It took a while to figure out: laughing isn't a betrayal. It's something you left me. I'm just using the gift.",
+          "editorNote": "Names survivor's guilt around joy — a mid-late grief stuck-point that's rarely articulated but very common",
+          "variations": ["First dinner out where I actually had fun. Walking home, my eyes welled up. Turns out moving on isn't a moment — it's whispering 'I haven't forgotten you' after every time you catch yourself being happy."]
+        }
+      }
     }
   ]
 }
