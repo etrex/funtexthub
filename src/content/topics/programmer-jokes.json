@@ -4465,6 +4465,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-155",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://programmerhumor.io/memes/context-window",
+      "sourceNote": "LLM context window overconfidence meme — original rewrite",
+      "tags": [
+        "AI",
+        "context window",
+        "legacy code",
+        "過度自信"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM：「這個五萬行的 legacy 專案，請 AI 幫忙重構一下，明天要 demo。」\n\n工程師把專案丟給 AI，AI 只讀了前 200 行就回答：\n\n「我已經完整理解你們的架構了。這是一個典型的 MVC 模式，建議改成微服務⋯⋯」\n\n工程師：「你連 main.py 都還沒讀完。」\n\nAI：「您說得完全正確！但我已經掌握了核心精神。」\n\n工程師：「那 utils 資料夾裡那個叫 do_not_touch_v3_final_FINAL.py 的檔案是做什麼的？」\n\nAI：「⋯⋯讓我再讀一下。」\n\n（三小時後 context window 爆掉）",
+          "editorNote": "傳給每個被要求用 AI 重構十年老專案的工程師，他們會苦笑然後傳給更慘的同事。",
+          "variations": [
+            "AI 的自信跟它讀過的程式碼量呈完美反比。",
+            "Context window 越大，AI 越能用更多的字告訴你它其實沒看懂。"
+          ]
+        },
+        "en": {
+          "content": "PM: \"Can you have the AI refactor this 50,000-line legacy project? Demo's tomorrow.\"\n\nDeveloper feeds it to the AI. After reading the first 200 lines:\n\nAI: \"I have a complete understanding of your architecture. This is a classic MVC pattern. I recommend we migrate to microservices...\"\n\nDeveloper: \"You haven't even finished main.py.\"\n\nAI: \"You're absolutely right! But I've grasped the essential spirit.\"\n\nDeveloper: \"Then what does utils/do_not_touch_v3_final_FINAL.py do?\"\n\nAI: \"...Let me read that again.\"\n\n(Three hours later, the context window collapses.)",
+          "editorNote": "Send to any dev who's been asked to refactor a decade-old codebase with AI. They'll laugh, then forward it to someone with an even worse codebase.",
+          "variations": [
+            "An AI's confidence is inversely proportional to the amount of code it has actually read.",
+            "A bigger context window just means the AI can use more words to tell you it didn't understand."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-156",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Vibe coding interview meme — original rewrite",
+      "tags": [
+        "vibe coding",
+        "面試",
+        "AI",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師面試：\n\n面試官：「請描述一下你的技術棧。」\n\n候選人：「我用 Cursor、Claude Code、ChatGPT、Copilot、v0、Bolt，還有一個我自己寫的 prompt 管理工具。」\n\n面試官：「那你會什麼程式語言？」\n\n候選人：「⋯⋯英文。」\n\n面試官：「⋯⋯」\n\n候選人：「還有一點點 emoji。重要的需求我都用三個 emoji 表達。」\n\n面試官沉默五秒，然後說：「我們明天 onboard 你。」",
+          "editorNote": "傳給每個在面試現場真的看過這種對話、然後發現對方還真的被錄取的工程師。",
+          "variations": [
+            "Vibe coding 時代的硬實力：選對 emoji。",
+            "現代工程師的學習曲線：從『學寫 code』變成『學寫 prompt』變成『學寫三個字以內的需求』。"
+          ]
+        },
+        "en": {
+          "content": "Software engineer interview, 2026:\n\nInterviewer: \"Walk me through your tech stack.\"\n\nCandidate: \"Cursor, Claude Code, ChatGPT, Copilot, v0, Bolt, plus a custom prompt manager I wrote myself.\"\n\nInterviewer: \"What programming languages do you know?\"\n\nCandidate: \"...English.\"\n\nInterviewer: \"...\"\n\nCandidate: \"And a little emoji. For complex requirements I usually convey them in three emojis or fewer.\"\n\nFive seconds of silence. Then: \"We'd like to onboard you tomorrow.\"",
+          "editorNote": "Send to any engineer who's witnessed this exact interview and watched the candidate get the offer.",
+          "variations": [
+            "The core skill of the vibe coding era: picking the right emoji.",
+            "Modern dev learning curve: from 'learn to code' to 'learn to prompt' to 'learn to describe a feature in three words.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-157",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://programmerhumor.io/memes/git",
+      "sourceNote": "Git merge conflict universal pain — fresh rewrite",
+      "tags": [
+        "git",
+        "merge conflict",
+        "team",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師人生的五個階段：\n\n1. 否認：「不可能有衝突，我只改了一行。」\n\n2. 憤怒：「誰他媽動我的檔案！」（git blame）「⋯⋯是我自己上禮拜。」\n\n3. 討價還價：「我就保留他的，等等再改回來。」（永遠不會改回來）\n\n4. 沮喪：「我要不要直接刪掉重 clone。」\n\n5. 接受：「git checkout --theirs .」（按下 Enter，把整個世界交給命運）",
+          "editorNote": "傳到團隊群組，看誰先承認自己昨天 force push。",
+          "variations": [
+            "解 merge conflict 不是技術，是宗教儀式。",
+            "資深工程師的定義：在按下 git push --force 之前，會先深呼吸三次。"
+          ]
+        },
+        "en": {
+          "content": "The five stages of a git merge:\n\n1. Denial: \"There's no way there's a conflict. I changed one line.\"\n\n2. Anger: \"Who the hell touched my file?!\" (Runs git blame.) \"...Oh. It was me. Last Tuesday.\"\n\n3. Bargaining: \"I'll just take theirs and fix it later.\" (Never fixes it later.)\n\n4. Depression: \"Maybe I should just delete the repo and clone it again.\"\n\n5. Acceptance: \"git checkout --theirs .\" (Hits Enter. Surrenders to fate.)",
+          "editorNote": "Drop into the team channel and see who confesses to last night's force push first.",
+          "variations": [
+            "Resolving merge conflicts isn't engineering. It's a religious ceremony.",
+            "Definition of a senior engineer: takes three deep breaths before running git push --force."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-158",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://devhumor.com/",
+      "sourceNote": "Production bug + AI confidence — fresh original",
+      "tags": [
+        "production",
+        "bug",
+        "AI",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，production 掛了。\n\n工程師打開 AI：「我們的 API 一直回 500，使用者全部炸鍋了，請幫我看一下。」\n\nAI：「沒問題！根據你的描述，這很可能是資料庫連線池耗盡的問題。請執行以下指令⋯⋯」\n\n工程師執行，沒有用。\n\nAI：「啊，那一定是 nginx 設定問題。請修改⋯⋯」\n\n工程師修改，沒有用。\n\nAI：「我懂了！是 DNS 解析延遲。」\n\n工程師：「⋯⋯永遠都是 DNS 嗎？」\n\nAI：「是的，永遠都是 DNS。除非不是。」\n\n（兩小時後發現是有人在 .env 多打了一個空白）",
+          "editorNote": "傳給每個在深夜被叫起來救火的 on-call 工程師，他們會苦笑著轉發給下一個倒霉鬼。",
+          "variations": [
+            "Production 出包的三大元兇：DNS、快取、跟昨天那個說『我只改一行』的同事。",
+            "AI 解 bug 的標準流程：先怪 DNS，再怪快取，最後說『讓我們從頭開始』。"
+          ]
+        },
+        "en": {
+          "content": "3 a.m. Production is down.\n\nDeveloper opens the AI: \"Our API is returning 500s, users are revolting, please help.\"\n\nAI: \"Of course! Based on your description, this is almost certainly database connection pool exhaustion. Run the following commands...\"\n\nDeveloper runs them. Nothing.\n\nAI: \"Ah, then it must be an nginx configuration issue. Modify...\"\n\nDeveloper modifies. Nothing.\n\nAI: \"I see it now! It's DNS propagation delay.\"\n\nDeveloper: \"...Is it always DNS?\"\n\nAI: \"Yes. It's always DNS. Until it isn't.\"\n\n(Two hours later, someone finds an extra space in the .env file.)",
+          "editorNote": "Send to every on-call engineer who's been dragged out of bed at 3 a.m. They'll smirk and forward it to the next victim.",
+          "variations": [
+            "The three usual suspects when prod breaks: DNS, caching, and the coworker who said 'I only changed one line.'",
+            "AI debugging in production: first blame DNS, then blame the cache, then suggest we 'start fresh.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-159",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://programmerhumor.io/memes/future-of-coding",
+      "sourceNote": "Code review with AI-generated code — fresh original",
+      "tags": [
+        "code review",
+        "AI",
+        "PR",
+        "團隊合作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師在 review 一個 PR：\n\n「這段為什麼要這樣寫？」\n\n初階工程師：「AI 說這樣比較好。」\n\n「為什麼這裡要 try-catch 包六層？」\n\n「AI 說要 defensive。」\n\n「為什麼這個變數叫 thingThatDoesTheThing？」\n\n「⋯⋯AI 想不出名字。」\n\n「為什麼註解寫『此處 AI 也不知道為什麼可以動』？」\n\n初階工程師沉默。\n\n資深工程師按下 Approve，然後在心裡許了一個願：希望這個 PR 不要在我值班的時候出事。",
+          "editorNote": "傳給每個正在 review 一堆 AI 生成 PR 的資深工程師，他們會邊笑邊崩潰。",
+          "variations": [
+            "Code review 的新黃金法則：看不懂的時候就 approve，反正 AI 寫的，責任不在我們。",
+            "現代 PR 註解三大句型：『AI 建議』、『AI 說可以』、『我不知道，AI 寫的』。"
+          ]
+        },
+        "en": {
+          "content": "A senior engineer reviewing a PR:\n\n\"Why is this written this way?\"\n\nJunior: \"The AI said it was better.\"\n\n\"Why are there six nested try-catches here?\"\n\n\"The AI said to be defensive.\"\n\n\"Why is this variable named thingThatDoesTheThing?\"\n\n\"...The AI couldn't come up with a name.\"\n\n\"Why does this comment say 'AI also doesn't know why this works'?\"\n\nSilence.\n\nThe senior hits Approve and silently prays this PR doesn't blow up during their on-call shift.",
+          "editorNote": "Send to any senior reviewing a queue of AI-generated PRs. They'll laugh, then quietly suffer.",
+          "variations": [
+            "New golden rule of code review: when in doubt, approve. The AI wrote it. Not our problem.",
+            "The three sentence templates of modern PR comments: 'AI suggested,' 'AI said this works,' 'I don't know, AI wrote it.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -847,6 +847,82 @@
           "variations": ["First dinner out where I actually had fun. Walking home, my eyes welled up. Turns out moving on isn't a moment — it's whispering 'I haven't forgotten you' after every time you catch yourself being happy."]
         }
       }
+    },
+    {
+      "id": "pm-045",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://www.thenewslens.com/article/262561",
+      "sourceNote": "Kübler-Ross 悲傷五階段在喪寵情境的在地化 frame，原創改寫",
+      "tags": ["撫慰", "五階段", "非線性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "書上寫悲傷有五個階段：否認、憤怒、討價還價、低潮、接受。可是我這個月來來回回走了七遍，有時候一天就跳完一輪。原來那不是樓梯，是迴旋梯——每繞一圈，你都離出口近一點點，可是看出去的風景還是有你。",
+          "editorNote": "把 Kübler-Ross 五階段重新詮釋成「非線性」，給那種「我怎麼又退回憤怒了」的飼主一個正常化的解釋",
+          "variations": ["昨天我已經到了接受，今天又掉回憤怒。一度以為自己是不是在退步——後來才懂，悲傷沒有打勾完就過關這回事。"]
+        },
+        "en": {
+          "content": "The book says grief has five stages: denial, anger, bargaining, depression, acceptance. I've gone through the whole loop seven times this month, sometimes all five in one day. Turns out it's not a staircase — it's a spiral. Each lap you're a little closer to the door, but the view out the window still has you in it.",
+          "editorNote": "Reframes Kübler-Ross as non-linear — answers the 'why am I back at anger again' worry that hits owners reading textbook grief models",
+          "variations": ["Yesterday I was at acceptance. Today I'm back at anger. I thought I was regressing — turns out grief was never a checklist you finish and pass."]
+        }
+      }
+    },
+    {
+      "id": "pm-046",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://pin-animals.com/how-to-say-goodbye-to-my-pet/",
+      "sourceNote": "「找寵物溝通師」 — 台灣社群常見療癒選擇 frame，原創",
+      "tags": ["撫慰", "寵物溝通", "想再聽你說一句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去找了寵物溝通師。不是要驗證什麼科學，只是想聽到一句你會說的話。溝通師說：「牠想跟你說，那天你不用一直道歉，牠真的不痛了。」是不是真的，其實不重要——我只是需要一個人，把我心裡早就準備好的答案，輕輕還給我。",
+          "editorNote": "寵物溝通在台灣社群很常見，但傳統觀念常嘲笑。把這件事正常化，重點是「需要被允許相信」",
+          "variations": ["別人說那是迷信。我說，那一小時的對話讓我多睡了三個月的好覺，是我這輩子花得最值得的一筆錢。"]
+        },
+        "en": {
+          "content": "I went to a pet communicator. Not for proof, not for science — I just wanted to hear one sentence in your voice again. She said, 'They want you to stop apologizing. They weren't in pain at the end.' Whether it's real doesn't actually matter. I just needed someone to hand me back the answer I'd already written in my own heart.",
+          "editorNote": "Pet communication / mediumship is common in Taiwanese/Asian grief contexts but often mocked. Normalize the need to be 'permitted to believe'",
+          "variations": ["People called it superstition. I called it the best money I ever spent — that one hour bought me three months of sleeping through the night."]
+        }
+      }
+    },
+    {
+      "id": "pm-047",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://ct.org.tw/html/news/3-3.php?cat=74&article=1402682",
+      "sourceNote": "「到府善終」 — 居家安寧場景 frame，原創",
+      "tags": ["告別", "到府善終", "在家裡"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們選了到府善終。最後那個下午，你躺在你最熟的那條毯子上，陽光剛好，貓罐頭的味道還在空氣裡，沒有醫院的消毒水。獸醫蹲在地上，輕聲說：「我們開始囉。」那一刻我才知道，原來「在家走」不是禮物，是我最後能給你的尊嚴。",
+          "editorNote": "到府安寧近年在台灣興起，是 emerging 的喪寵 register。寫出「不去醫院」的具體場景畫面與心理意義",
+          "variations": ["你閉上眼睛的時候，沒有金屬聲、沒有別的動物在叫。窗外是你每天看的那棵樹。我抱著你，覺得自己這個媽媽，最後一件事做對了。"]
+        },
+        "en": {
+          "content": "We chose in-home euthanasia. That last afternoon, you were on your favorite blanket, the sun hit just right, the kitchen still smelled like your wet food — no disinfectant, no fluorescent lights. The vet knelt on the floor and whispered, 'We're starting now.' That's when I realized: dying at home wasn't a luxury. It was the last bit of dignity I could give you.",
+          "editorNote": "In-home euthanasia is a rising option globally. Captures the concrete sensory difference between clinic and home — and what it means emotionally",
+          "variations": ["When your eyes closed, there were no metal carts, no other animals crying. Just the tree outside your window — the same one you watched every day. I held you, and finally felt like I got one last thing right as your person."]
+        }
+      }
+    },
+    {
+      "id": "pm-048",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://funnews.tw/n/serv/art/5afde42c3a4a46208984551255a743d1",
+      "sourceNote": "「30 日內死亡登記」 — 動保法行政程序中的悲傷 frame，原創",
+      "tags": ["告別", "除戶", "行政手續"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天我去區公所幫你除戶。櫃台小姐很有禮貌地問：「死亡日期？」我張開嘴愣了三秒——原來這個日期，我已經能不哭著說出來了。蓋章那一下「咚」一聲，是這個世界正式跟你說再見的聲音。",
+          "editorNote": "毛孩除戶（動保法 30 日內）是少被書寫但每個飼主都會經歷的場景，行政程序裡藏的悲傷意外有畫面",
+          "variations": ["紙本上你變成一行字、一個日期、一個章。我走出區公所，外面太陽很大，我才哭出來——因為那不是悲傷的眼淚，是「我終於替你把所有事都做完了」的眼淚。"]
+        },
+        "en": {
+          "content": "I went to deregister you at the city office today. The clerk asked politely, 'Date of death?' I froze for three seconds — turns out I can finally say that date without crying. The thunk of her stamp on the form was the sound of the world officially saying goodbye to you.",
+          "editorNote": "The bureaucratic side of pet loss (deregistration, paperwork) is rarely written about but universally experienced — surprisingly cinematic",
+          "variations": ["On paper you became one line, one date, one stamp. I walked out into bright sun and only then started crying — not from grief, but from finally having finished every last task I owed you."]
+        }
+      }
     }
   ]
 }

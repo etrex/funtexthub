@@ -1728,6 +1728,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-074",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://www.nownews.com/news/5039152",
+      "sourceNote": "Inspired by NOWnews 客服怒列「3大奧客罪狀」 piece on 「我認識你們老闆／立委／市長」 threats — rewritten as a self-aware deadpan rebuttal (original phrasing)",
+      "tags": ["服務業", "客服", "奧客", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道我認識你們老闆嗎？」\n「知道啊。」\n「⋯⋯你怎麼知道？」\n「因為每天都有十個人說他認識。」",
+          "editorNote": "傳給客服中心的朋友，附一句「今天第幾號？」。客服每天聽到的人脈名單，比里長辦公室的選民登記還完整。",
+          "variations": [
+            "客人說「我認識你們老闆」的時候，通常連你們店在哪都記不太清楚。",
+            "認識老闆的客人很多，老闆認識的客人很少。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know I know your boss?\"\n\"Yes.\"\n\"...How do you know?\"\n\"Because ten people say it every day.\"",
+          "editorNote": "Send to a friend on the support line with \"what number are you today?\" The list of contacts they claim to know is longer than a precinct voter roll.",
+          "variations": [
+            "When a customer says \"I know the owner,\" they usually can't quite remember which branch we're at.",
+            "Lots of customers know the boss. The boss knows very few of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-075",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/230991225",
+      "sourceNote": "Inspired by Dcard 工作版「奧客經典語錄（餐飲業篇）」 thread — extends the 「別家都可以」 trope into a deadpan one-liner (original phrasing)",
+      "tags": ["服務業", "餐飲", "奧客", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以，為什麼你們不行？」\n「先生，那您要不要去別家？」\n「⋯⋯那家比較遠。」",
+          "editorNote": "傳給最近被「別家都可以」攻擊過的餐飲朋友。重點不是別家真的可以，是這句話從來不是要你比較，是要你妥協。",
+          "variations": [
+            "客人嘴上說「別家都可以」，腳卻誠實地站在你家門口。",
+            "奧客的「別家」就像他朋友——通常查無此地。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other place does this. Why won't you?\"\n\"Sir, would you like to go to one of those other places?\"\n\"...Those are farther.\"",
+          "editorNote": "Send this to a restaurant friend who got hit with \"every other place does it.\" The phrase was never about comparison — it's about pressure.",
+          "variations": [
+            "\"Every other place\" says the mouth, while the feet stand firmly in your doorway.",
+            "A difficult customer's \"other place\" is like their \"friend\" — usually nowhere on the map."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-076",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/funny/",
+      "sourceNote": "Inspired by Help Scout 27 Funny Customer Service Quotes — extends the 「smiling while internally screaming」 trope into a service-industry confession (original phrasing)",
+      "tags": ["服務業", "客服", "情緒", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人問：「你今天心情好嗎？」\n我說：「很好啊。」\n其實我心裡正在開一場很大的會，\n與會者只有我一個人，議題是要不要當場離職。",
+          "editorNote": "適合下班後配自拍放 IG 限動，標題寫「散會」。重點不是真的要離職，是承認那場會議每天都在開。",
+          "variations": [
+            "服務業的微笑是 UI，後台正在跑離職流程。",
+            "我嘴上說「沒事」的時候，腦內已經把履歷更新到第七版。"
+          ]
+        },
+        "en": {
+          "content": "A customer asks, \"Are you having a good day?\"\nI say, \"Great, thanks.\"\nMeanwhile inside my head, a board meeting is in session.\nOne attendee. One agenda item: whether to quit right now.",
+          "editorNote": "Pairs with a post-shift selfie on IG stories captioned \"meeting adjourned.\" The point isn't actually quitting — it's admitting the meeting runs every single shift.",
+          "variations": [
+            "The service-industry smile is the UI. The backend is processing a resignation request.",
+            "When I say \"I'm fine,\" my brain has already pushed version seven of my résumé."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-077",
+      "dateAdded": "2026-05-21",
+      "sourceUrl": "https://www.keeping.com/content/customer-service-jokes/",
+      "sourceNote": "Inspired by Keeping 97 Hilarious Customer Service Jokes (2026) — rewritten around the 「just looking」 retail trope as a Taiwanese clothing-store dialogue (original phrasing)",
+      "tags": ["服務業", "零售", "奧客", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我只是看看，不用招呼。」\n（三十分鐘後）\n「小姐，這件有沒有別的顏色？尺寸？另外的款式？倉庫還有沒有？可以幫我配一整套嗎？」\n看看，原來是 SQL 語法的看看。",
+          "editorNote": "傳給服飾、3C、書店同業，附一句「今天有人來看看了嗎」。「只是看看」是全世界最危險的開場白。",
+          "variations": [
+            "客人說「只是看看」，通常後面接的是「順便問三十個問題」。",
+            "「不用招呼」是奧客版的 SELECT *，預設把整間店撈出來。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm just looking — you don't need to help.\"\n(Thirty minutes later.)\n\"Miss, does this come in another color? Another size? Another style? Anything in the back? Can you put together a whole outfit for me?\"\nTurns out \"just looking\" was a SQL query.",
+          "editorNote": "Send to retail friends in apparel, electronics, or bookstores with \"anyone just looking today?\" \"Just looking\" is the most dangerous opener in retail.",
+          "variations": [
+            "When a customer says \"just looking,\" the next sentence is usually thirty questions long.",
+            "\"You don't need to help me\" is the retail equivalent of SELECT * — it pulls the whole store by default."
+          ]
+        }
+      }
     }
   ]
 }
