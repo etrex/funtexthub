@@ -3723,3 +3723,140 @@ Done items collapsed; only live priorities listed.
 27. **[CLOSED — 5/20 EOD]** absurd-wisdom / witty-comebacks 「賦予事物新面貌」 廢話文學模板 1-2 items (會考話題 1 週熱度 day 4 of 4 末日結束). 5/21 後 organic.
 28. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday「OS vs 現實 對比梗」 在地化 6 大 topic 候選: travel-quotes 2-3 items + slang-quotes 1 item + witty-comebacks 1 item + workplace-quotes 1 item + adulting-quotes 1 item + programmer-jokes 1 item.
 29. **[NEW HIGH — 5/20 NEW, 5/20-5/27 7 天 黃金窗口]** Meta 裁員 day-of「Pralaydin / Big Beautiful Layoff 倒數網站 / 創紀錄營收 vs 裁員 / AI pods 重組 / 14,000 有效減員 / 倖存者罪惡感 / Slack 紅色頭像 / 1-on-1 行事曆」 workplace-quotes / programmer-jokes 主場 + healing-quotes / adulting-quotes / witty-comebacks / absurd-wisdom cross-link 多 topic 1-2 items per topic 短窗口 7 天.
+
+## 2026-05-21 Research Report
+
+### New Topic Recommendations
+
+1. **`button-philosophy-quotes` / 「365 顆扣子」 拒絕解釋語錄 — 5/21 NEW (NOT NEW TOPIC, slang-quotes / witty-comebacks / absurd-wisdom 主場 sub-format expansion)**
+   - **5/21 multi-source**: themarysue 365-buttons-explained-tiktok-tamara-meme + deseret 2026/01/09 first-meme-of-2026 + knowyourmeme 365-buttons + tiktok-trending tamara-365-buttons 多源 reconfirm「2025/12/21 @abbieabbieabbie0 rebrand 2026 → Tamara 留言「I'm getting 365 buttons one for each day because I want to do more stuff and I'm scared of time so I want to be more conscious of it」+ 78,000+ likes / 引爆關鍵 = Tamara 拒絕解釋「Hey so it actually only has to make sense to me for me to do it and I don't feel like explaining it to anyone else」/ Empire State Building + Philadelphia Eagles brand nod / 5月 持續 viral / IYKYK if-you-know-you-know register」5 register 多源 5/19-5/21 reconfirm. **意義**: **「拒絕解釋 / 我做這件事 只需要對自己 有意義 / 不需要 解釋 給任何人 / 一天 一顆扣子 / 365 顆扣子 = 我自己的 視覺化日曆 / 時間 不夠用 / 害怕時間 / 想活得 更清醒 / IYKYK」** 9 register family. **NOT NEW TOPIC** — slang-quotes (39 items live, Threads 原生 chill guy / no questions register family 主場) + witty-comebacks (拒絕解釋 register 主場) + absurd-wisdom (廢話文學 + 對自己有意義 廢話模板) + motivational-quotes (害怕時間 / 想活得更清醒) 多 topic cross-link. **MEDIUM-HIGH priority, 5/21-5/31 10 天 中窗口 + 6月 carry**. 在地化候選: 「我 在 收集 365 顆扣子 / 為什麼 / 因為 我 想 而且 我 不打算 解釋」/「不准 問 / 不准 解釋 / 一天 一顆 / 我 自己 知道 就好」/「我 也想 過得 更清醒 / 但 365 顆扣子 對 我 來說 太多 / 我 從 5 顆 開始」/「Tamara 365 顆扣子 / 我 365 條 帳單 / 不同人生 不同煩惱」 4 在地化 register family.
+   - **SEO targets**: 365 buttons 中文, 拒絕解釋 梗, IYKYK 中文, Tamara 扣子, 不解釋 chill guy, Threads 拒絕解釋, 2026 第一個梗.
+   - **Recommendation: NOT NEW TOPIC**. slang-quotes / witty-comebacks / absurd-wisdom 多 topic sub-format. **MEDIUM-HIGH priority, 5/21-5/31 10 天 中窗口 + 6月 carry**.
+
+2. **`graceful-laugh-quotes` / ꉂ🤣𐤔 笑死符號 升級語錄 — 5/21 NEW (NOT NEW TOPIC, slang-quotes 主場 sub-format expansion)**
+   - **5/21 multi-source**: ettoday 20250807/3010853 + dailyview 29884 + hk01 60268193 多源 reconfirm「日本爆紅 ꉂ🤣𐤔 笑到翻符號 / ꉂ = 人笑到往後倒 / 🤣 = 笑到流淚 / 𐤔 = 日語 笑 (warai) 第一個字母 (與 ww 同源) / 笑死的具象化 / iPhone Android 替代文字快捷鍵」5 register 多源 5/21 reconfirm. **意義**: **「笑死 已 過時 / 升級為 ꉂ🤣𐤔 三符號組合 / 笑到翻過去 流眼淚 還是 在笑 / 比文字 更有 聲音感 / 設定 替代文字 ㄒㄙ → ꉂ🤣𐤔 / 朋友 看到 你 用 這個 表示 你也是 ㄉㄚˋ ㄍㄠ ㄕㄡˇ」** 6 register family. **NOT NEW TOPIC** — slang-quotes (39 items live, 表情符號 / 笑聲 register 主場). **MEDIUM priority, 5/22 slang-quotes deadline day-after T+2 carry + 6月 opportunistic** (符號 viral 持續中 但 較 5 大 Threads 梗 reach 略低).
+   - **SEO targets**: 笑死符號, ꉂ🤣𐤔, 日本 笑死, 笑到翻 符號, Threads 笑死, 替代文字 笑死.
+   - **Recommendation: NOT NEW TOPIC**. slang-quotes 主場 sub-format. **MEDIUM priority, 5/22 deadline T+2 carry + 6月 opportunistic**.
+
+3. **`cabbage-table-quotes` / 「請坐高麗菜那桌」 智慧致敬語錄 — 5/21 NEW (NOT NEW TOPIC, witty-comebacks / adulting-quotes 主場 sub-format expansion)**
+   - **5/21 multi-source**: popdaily 1643674 + ettoday + threads 多源 reconfirm「2024/1 插畫家 Kurt Wu 高麗菜葉托煮蛋 火鍋技巧 → 留言 刷「請去高麗菜那桌坐」/ 高麗菜那桌 = 最貴包廂位置 = 致敬智慧 / 任何 生活妙招 / 神 操作 留言區 自動刷出 / Threads / 脆 5 大梗 之一 / 用法 = 朋友 分享 神 操作 你 跟著 留」5 register 多源 5/21 reconfirm. **意義**: **「神 操作 / 我 跟你 不熟 但 你 該坐 高麗菜那桌 / 智慧 / 妙招 / 致敬 別人 / 自嘲 我 還在 普通桌 / 一輩子 都 進不去 高麗菜那桌」** 7 register family. **NOT NEW TOPIC** — adulting-quotes (66 items live, 生活妙招 / 大人自嘲 主場) + witty-comebacks (致敬 / 自嘲 register 主場). **MEDIUM-HIGH priority, 5/22 deadline T+2 carry + 6月 opportunistic 與 adult-tier (初級大人) cross-link 持續發酵** 「我 還在 普通桌 / 你 已經 高麗菜那桌 / 大人 等級 落差」 cross-link 雙重發酵.
+   - **SEO targets**: 高麗菜那桌, 請去高麗菜那桌坐, Threads 高麗菜, 神操作 高麗菜, 智慧 致敬 Threads.
+   - **Recommendation: NOT NEW TOPIC**. witty-comebacks / adulting-quotes 主場 sub-format. **MEDIUM-HIGH priority, 5/22 carry + 6月 opportunistic**.
+
+4. **`leave-friend-look-quotes` / 「留友看」 Threads 演算法行為語錄 — 5/21 NEW (NOT NEW TOPIC, slang-quotes 主場 sub-format expansion)**
+   - **5/21 multi-source**: popdaily 1643674 + wikipedia 留友看 + dailyview 多源 reconfirm「留給朋友看 縮寫 / Threads 演算法 利用 / 留言 = 增加 出現在好友 Feed 機率 / 取代 長篇評論 / 極簡縮寫 = 轉發意圖 / 視覺衝擊 / 知識性 / 情緒共鳴 貼文下方 / 5 大梗 之一 / 2026 爆紅」5 register 多源 5/21 reconfirm. **意義**: **「留友看 = 我 不想 寫 心得 / 但 我 要 我朋友 看到 / 演算法 你 給 我 點 / 留言 取代 截圖傳群組 / 我 跟 演算法 達成協議 / 大家 都在 用 我 也 跟著 用 / 不留 顯得 我 沒朋友」** 7 register family. **NOT NEW TOPIC** — slang-quotes (39 items live, Threads 原生 用語 / 演算法行為 register 主場). **MEDIUM priority, 5/22 deadline T+2 carry + 6月 opportunistic** (與「初級大人」/「高麗菜那桌」 同 Threads 5 大梗 family 一併編寫).
+   - **SEO targets**: 留友看, Threads 留友看, 留給朋友看, 演算法行為, Threads 5 大梗 2026.
+   - **Recommendation: NOT NEW TOPIC**. slang-quotes 主場 sub-format. **MEDIUM priority, 5/22 carry + 6月 opportunistic**.
+
+5. **`io-ai-quotes` / Google I/O 2026 Veo 4 / Omni AI 影片生成語錄 — 5/21 NEW (NOT NEW TOPIC, programmer-jokes / absurd-wisdom / workplace-quotes 主場 sub-format expansion)**
+   - **5/21 multi-source**: yahoo realtime + threads future.ai + genra.ai blog + wavespeed 多源 reconfirm「Google I/O 2026 5/19-5/20 開發者大會 / Veo 4 / Omni 神秘模型 / Toucan + Omni UI 字串洩漏 / Veo 3.1 60 秒 1080p 多角色一致性 / Veo 3.1 Lite 降價 / 全球 創作者 民主化 / AI 影片 1 分鐘 內 完成」5 register 多源 5/19-5/21 reconfirm. **意義**: **「Google I/O 2026 / Veo 4 Omni / AI 影片 1 分鐘 完成 / Toucan = 內部代號 / 民主化 = 我 也能 拍片 / 我 不用 學 剪輯 / 創作者 民主化 但 我 還在 改 PPT / AI 影片 vs 我 PowerPoint 半天 / Veo 4 一分鐘 完成 / 我 一年 完不成」** 8 register family. **NOT NEW TOPIC** — programmer-jokes (AI / FAANG 主場 + 5/20 Meta 裁員 cross-link) + absurd-wisdom (廢話文學「AI 影片 = 把 想像 變 影片 然後 把 影片 變 流量 變 解雇」) + workplace-quotes (老闆 看到 Veo 4 要我 一週 做 100 支影片) + travel-quotes / adulting-quotes (AI 替我去旅行 / 替我長大). **MEDIUM-HIGH priority, 5/21-5/27 7 天 中窗口 + 6 月 carry, 與 Meta 5/20 day-of T-1 cross-link**.
+   - **SEO targets**: Google I/O 2026, Veo 4, Omni, Toucan, AI 影片生成, AI 取代 創作者, AI 民主化, 厭世 AI.
+   - **Recommendation: NOT NEW TOPIC**. programmer-jokes / absurd-wisdom / workplace-quotes 主場 sub-format. **MEDIUM-HIGH priority, 5/21-5/27 7 天 中窗口 + 6 月 carry**.
+
+### Content Trends
+
+- **5/21 day-after T+1 Meta 8,000 裁員 黃金窗口 day 2 of 7**: 5/20 day-of T-0 已過. **意義**: **workplace-quotes / programmer-jokes 5/21-5/27 黃金窗口 day 2 of 7 priority 維持 最高** 1-2 items 持續編寫 不變. 5/21 NEW DATA reinforce: aifriends「Meta 同時 重配 7,000 員工 至 AI 部門 / 1 萬 4000 人 結構性 重組 / 史上 最大 / 業績評估 AI 必須化」+ businessinsider「全員 10% / 5/20 啟動」 多源 5/21 reconfirm. 「Meta 7,000 人 被 重配 AI / 不是 失業 是 轉職 / 但 轉職 不選 我 / AI 必須化 業績 / 我 還在 用 Excel 算 KPI / 業績評估 AI 必須化 = 我 不會 AI 我 就 沒 業績」 5 在地化 register 加入 5/21-5/27 黃金窗口 carry. 與 5/21 NEW Google I/O Veo 4 cross-link「Meta 裁 8,000 / Google 發 Veo 4 / 同一週 / AI 民主化 = 員工 大眾化 失業」 1 item 候選.
+
+- **5/21 day-after T+4 國中會考 + 孫燕姿 大巨蛋 organic 觀察期 day 1**: 5/16-5/17 會考 + 5/15-5/17 孫燕姿 + 5/20 短窗口 結束. **意義**: **healing-quotes / drama-quotes / motivational-quotes / witty-comebacks / exam-quotes 5/21 起 organic 觀察期** 不再 day-of priority. 5/29-6/1 exam-quotes 啟動 倒數 8 天.
+
+- **5/21 五月天 #5525+2 售票 T-2 (5/23 拓元 開賣)** + **5/21 PSY 售票 T-2 (5/23)** + **5/21 K-SPARK 高雄世運 T-9 (5/30 G-DRAGON + TAEYEON + FTISLAND + DPR IAN + KiiiKiii 演出)**. **意義**: **motivational-quotes / drama-quotes 5/23 T-2 售票 cluster day + 5/30 K-SPARK 高雄世運 演出 day-of opportunistic + 6 月 中窗口** 1-2 items 候選. 「5/23 售票 cluster = 五月天 + PSY 雙抽 / 拓元 系統 一年最重 day / K-SPARK 5/30 G-DRAGON 高雄世運 / 跨世代 演唱會 集中 5-6 月」 register family 加入 5/22-5/30 中窗口 roster.
+
+- **5/21 Threads 5 大梗 popdaily 第九次 reconfirm (popdaily + dailyview + cosmopolitan + hk01 多源 5/21)**: 「高麗菜那桌 / 龐奇 紅毛猩猩 / ꉂ🤣𐤔 笑死符號 / 留友看 / 初級大人 高級大人」5 大梗 持續 viral. **意義**: **slang-quotes 5/22 deadline day-after T+1 carry + adulting-quotes 6 月 opportunistic + witty-comebacks 6 月 opportunistic** 5 大梗 family 全部 register 加入 5/22-5/31 中窗口 roster. 「ㄉㄚˋ ㄍㄠ ㄕㄡˇ / 神操作 高麗菜那桌 / 笑死的具象化 / 留友看 演算法行為 / 初級大人 vs 高級大人」 register cluster.
+
+- **5/21 「365 buttons」 Tamara 拒絕解釋 全球 viral 持續** (themarysue + deseret + knowyourmeme 多源 5/21). **意義**: **slang-quotes / witty-comebacks / absurd-wisdom 5/21-5/31 中窗口 + 6 月 opportunistic** 「我 做 這件事 只需要 對 自己 有意義 / 不需要 解釋 給任何人 / IYKYK」 chill guy + no questions + 不准問 + 不准解釋 register family 強化. 1-2 items 5/22-5/31 編寫. 與「龐奇 紅毛猩猩」 5/21 NEW carry「我 也 在 收集 紅毛猩猩 玩偶 / 不要 問 我 為什麼 / 一天 一隻 / 我自己 知道 就好」 cross-link 1 item.
+
+- **5/21 龐奇 紅毛猩猩 IKEA DJUNGELSKOG 紅毛猩猩 玩偶 母愛 register 全球 viral** (ettoday fashion 3122327 + 多源 5/21). **意義**: **mom-quotes / sweet-quotes / pet-memorial-quotes 6 月 opportunistic carry + healing-quotes 5/21-5/31 中窗口**「龐奇 被群體拒絕 / 抱住 紅毛猩猩 玩偶 取暖 / IKEA「勇敢長大 我陪你」/ 母愛缺席 / 玩偶 = 替代母愛 / 任何人 都 需要 一個 IKEA 紅毛猩猩」 6 register family 加入 5/22-5/31 中窗口 + 6 月 opportunistic roster. 與 5/21 NEW「初級大人 過年 變 3 歲」 adulting-quotes cross-link「我 也 需要 一個 紅毛猩猩 / 我 已經 30 歲 但 我 還 是 想要 抱」 1 item 候選.
+
+- **5/21 報稅 T-11 倒數 (6/1 截止)**. **意義**: **adulting-quotes 5/22-5/30 最後一波 day-of opportunistic 9 天 黃金窗口** 「行事曆 跳出 5月 報稅 / 我 還沒 申報 / 已經 5/21 了 / 下意識 嘆口氣 / 點開 已預填 看到 數字 又 關掉」 厭世 register 維持 + 與 5/20 Meta 裁員 + 5/21 Veo 4 cross-link「Meta 8,000 裁員 / Google 發 AI 影片 / 我 還在 報稅 / 不同物種」 1 item 候選.
+
+- **5/21 端午 T-29 倒數 (6/19 端午)**: holiday-jokes 5/22 啟動倒數 T-1 (T-29 day-of). 5/12-5/19 carry「玉琴顧粽 / 蔡依林康民順 / 杜蕾絲先剝粽子再划龍舟 / 一見粽情 / 粽情粽禮 / 粽夏慶端午 / 包中諧音 / 接粽而來 / 粽所皆知」 持續 carry. **5/21 NEW DATA**: succuland + city9 + watermoon 多源 reconfirm「薪水粽是上漲 / 幹活粽是不忙 / 前途粽是輝煌 / 愛情粽是如糖 / 身體粽是健康」5 諧音 + 「米飯去包子那玩 包子請米飯看表演 粽子上場脫掉外套 米飯說粽子不錯 還是我老鄉」 內外結構 笑話 + 「手機用粽葉包起來放鍋裡煮 延長電池 增強信號」 廢話文學 笑話 3 register 加入 5/22 啟動 roster.
+
+- **5/21 「May this month [insert gratitude]」 季節性感謝格式 全球 5 月 viral** (newengen + ramd.am 多源 5/21). **意義**: **self-love-quotes / motivational-quotes / healing-quotes 5/22-5/31 短窗口 10 天 + 6 月初 carry** 「May 這個月 / 願 這個月 / 5 月 / 春末 / 集體祝福格式 / 翻譯版 在地化」 register 1-2 items 候選. 與 5/19 carry「5 月 / 春末 / 集體懷舊 Instagram」 季節性 register 強化.
+
+- **5/21「Be Her」 Ella Langley 嫉妒主題曲 5 月 viral** + **「Vintage Vibes with My Honey」 couples vintage dance + 「take her swimming on the first date」 beauty pool-test** (newengen + turrboo 多源 5/21). **意義**: **drama-quotes / breakup-quotes 6 月 opportunistic**「我 想 成為 她 / 嫉妒 主題曲 / 第一次 約會 帶 去 游泳 = 卸妝 測試」 register 1-2 items 候選 6 月 opportunistic. **MEDIUM-LOW priority** (英文圈 在地化 較弱). 與 5/20 carry「Pepe Muppets 1999 表情 = 創傷自述背景」 創傷 register cross-link.
+
+- **5/21 Instagram Flash filter 直接閃光燈 復古數位相機效果 全球 viral** (newengen + 多源 5/21). **意義**: **adulting-quotes / cheesy-pickups 6 月 opportunistic low**「直接閃光燈 / 我 不需要 美顏 / 復古 = 反美顏 / 反 Instagram 完美主義」 register 1 item 候選 6 月 opportunistic low priority.
+
+- **5/21 政治/社會事件 SKIP 區**: 帕里哈皮蒂亞「台灣 18 個月後 失去 半導體 戰略重要性」Podcast 言論 + 賴清德 就職 2 週年 罷免案 投票 = 政治/民族敏感 SKIP. 蕭景鴻 弟上麥克風 Live 直播 + 房業涵 520「記得愛別人更愛自己」= 正面 但 個人 動態 low priority (不適合 funtexthub fun text 定位).
+
+- **5/21 6/27 金曲獎 入圍名單 (T+5 公布)**: 「第 37 屆金曲獎 入圍名單 + 淡江大橋 + 護病比」+ 「金曲獎 6 月底 頒獎」 register. **意義**: **drama-quotes / motivational-quotes 6 月 opportunistic** 「入圍 不一定 得獎 / 但 入圍 就 贏了 / 我 連 入圍 自己 人生 都沒」 register 1 item 候選 6 月底 opportunistic (T-37 預備).
+
+### Existing Topic Updates
+
+- **workplace-quotes (92 items live, 5/21 Meta day-after T+1 黃金窗口 day 2 of 7, priority 維持 最高)**: 5/20 carry 持續「Meta 5/20 8,000 裁員 / Pralaydin / Big Beautiful Layoff 倒數網站 / 創紀錄營收 vs 裁員 / AI pods 重組 / 14,000 有效減員 / 倖存者罪惡感 / Slack 紅色頭像 / 1-on-1 行事曆」+ **5/21 NEW**「7,000 員工 重配 AI 部門 / 不是 失業 是 轉職 / 但 轉職 不選 我 / 業績評估 AI 必須化 = 我 不會 AI 我 就 沒 業績 / 史上最大重組 / 16 週基薪 + 18 個月 COBRA」 6 register 1-2 items 5/22 EOD 持續 編寫. 5/22-5/27 5 天 carry day 3-7 of 7.
+
+- **programmer-jokes (5/21 Meta day-after T+1 黃金窗口 day 2 of 7 + Google I/O 2026 day-after T+2 NEW priority 最高)**: 5/20 carry 持續「Meta day-of / AI pods 重組 / FAANG 裁員 倒數網站 自製 / 連 工程師 失業前 都還在 寫 code / 監控軟體 + 薪資下降 / 創紀錄營收 vs 創紀錄裁員」+ **5/21 NEW**「Google I/O 2026 / Veo 4 Omni / Toucan 內部代號 / Veo 3.1 60 秒 1080p / Veo 3.1 Lite 降價 / AI 影片民主化 / Meta 裁員 + Google AI = 同一週 / 我 不會 AI 我 就 沒業績 / 業績評估 AI 必須化 = 我 改 履歷 加 AI」 8 register 1-2 items 5/22 EOD 持續 編寫. 5/22-5/27 5 天 carry.
+
+- **slang-quotes (39 items live, 5/22 deadline day-after T+1, 5 大梗 family 中窗口 carry)**: 5/20 末日 已過. **5/21 NEW carry**「Threads 5 大梗 popdaily 第九次 reconfirm = 高麗菜那桌 / 龐奇 / ꉂ🤣𐤔 / 留友看 / 初級大人 高級大人」+「365 buttons Tamara 拒絕解釋 IYKYK / chill guy 強化」 7 register 2-3 items 5/22-5/31 中窗口 編寫 priority 維持 高. 與 5/20 carry「Pepe Muppets 1999 表情」 創傷 register cross-link 1 item carry.
+
+- **witty-comebacks (5/21 day-after T+4 短窗口 結束 → 中窗口 carry)**: 5/20 末日 已過 → 5/21 起 中窗口. **5/21 NEW carry**「365 buttons Tamara 拒絕解釋 / 我 做 我的事 不解釋 / IYKYK / 不准問 不准解釋」 + 「高麗菜那桌 致敬智慧 / 我 還在 普通桌」 register 1-2 items 5/22-5/31 中窗口 編寫. 5/20 carry「公司 創紀錄營收 / 創紀錄裁員 / 數字 都很好看 / 除了 我的 名字」 持續 carry.
+
+- **adulting-quotes (66 items live, 5/22-5/30 報稅 9 天 黃金窗口, priority MEDIUM-HIGH)**: 報稅 day 21/24 (T-11 倒數 6/1) → **5/22 起 9 天 最後一波 黃金窗口 priority 升級**. **5/21 NEW carry**「初級大人 vs 高級大人 880 倍 carry (Threads 5 大梗 之一) / 高麗菜那桌 = 我 還在 普通桌 / 一輩子 都進不去 高麗菜那桌 / 大人 等級 = 桌 等級」 register 雙重落差 reinforce. 5/30+ NEW 「初級大人 母女互動 / 過年 變 3 歲」 cross-link mom-quotes 不變. **NEW 5/21**「Meta 8,000 裁員 + Google Veo 4 + 我 還在 報稅 / 不同物種 / 同一週 三件事 我只能參與 報稅」 cross-link 1 item 5/22-5/30 短窗口.
+
+- **healing-quotes (5/21 短窗口 結束 → 中窗口 carry)**: 5/20 末日 已過 → 5/21 起 中窗口. **5/21 NEW carry**「龐奇 紅毛猩猩 IKEA 玩偶 母愛缺席 / 玩偶 = 替代母愛 / 任何人 都需要 一個 紅毛猩猩 / 勇敢長大 我陪你」 母愛 register 1-2 items 5/22-5/31 中窗口 編寫. 與 5/21 NEW「Meta 裁員倖存者 安慰 register」 cross-link workplace-quotes 1 item 候選 5/22-5/27 carry. 5/17 carry「賦予事物新面貌 / 比倉鼠難 / 想 10 分鐘 / 媽媽的傘」 持續 carry.
+
+- **drama-quotes (5/21 短窗口 結束 → 中窗口 carry)**: 5/20 末日 已過 → 5/21 起 中窗口. **5/21 NEW carry**「五月天 #5525+2 5/23 售票 T-2 / PSY 5/23 售票 T-2 / 雙抽 拓元 / 抽不到票 直播自己哭 沉浸式 / K-SPARK 5/30 高雄世運 G-DRAGON + TAEYEON」 售票 cluster register 1-2 items 5/22-5/30 中窗口 編寫. 「Be Her Ella Langley 嫉妒主題曲」 低 priority 候選 6 月.
+
+- **motivational-quotes (5/21 短窗口 結束 → 中窗口 carry)**: 5/20 末日 已過 → 5/21 起 中窗口. **5/21 NEW carry**「365 buttons Tamara / 我 害怕 時間 / 一天一顆 / 我 想 活得 更清醒」 害怕時間 register 1 item 候選 5/22-5/31 中窗口 + 「May this month [insert gratitude] 季節性感謝」 5 月 viral 1 item 候選 5/22-5/31 短窗口. 5/19 carry 五月天 25 年 / 票價 1525-5525 諧音 / 回到那一天 持續 carry.
+
+- **self-love-quotes**: **5/21 NEW**「May this month [insert gratitude] 季節性感謝格式 / 願 這個月 / 5 月 / 春末 / 集體祝福格式 / 翻譯版 在地化」 register 1-2 items 候選 5/22-5/31 短窗口. 與 5/15 carry「老歌神 2026 大爆發 / 集體懷舊」 + 5/21「房業涵 520 記得愛別人更愛自己」 個人動態 low priority cross-link.
+
+- **mom-quotes / sweet-quotes**: 母親節 day +11 organic. **5/21 NEW**「龐奇 紅毛猩猩 IKEA 玩偶 母愛缺席 / 替代母愛 / 任何人 都需要 一個 紅毛猩猩 / 勇敢長大 我陪你」 母愛 register 1-2 items 5/22-5/31 中窗口 編寫 + 5/30+「初級大人 母女互動 / 過年 變 3 歲」 cross-link adulting-quotes 1 item 候選 6 月 opportunistic 不變. 2027/3 母親節 backlog 不變.
+
+- **absurd-wisdom**: 5/17 carry「賦予事物新面貌 廢話文學模板」 register 1-2 items 候選 5/17-5/24 短窗口 不變. **5/21 NEW carry**「Google Veo 4 / Omni / AI 影片 = 把 想像 變影片 然後 把影片 變流量 變解雇」 廢話文學 1 item 候選 cross-link workplace-quotes/programmer-jokes + 「365 buttons Tamara / 我 做 這件事 只需要 對 自己 有意義 / 不需要 解釋」 廢話文學模板 1 item 候選. 5/20 carry「AI pods = 把人 變豆莢 然後 變 AI」 持續 carry.
+
+- **exam-quotes (5/29-6/1 啟動 reinforce, 5/21 短窗口 結束 → organic)**: 不變. 5/29-6/1 啟動 倒數 8 天.
+
+- **holiday-jokes (79 items, 端午 T-29)**: **5/22 (T-28) 啟動倒數 T-1**. 5/12-5/19 carry「玉琴顧粽 / 蔡依林康民順 / 杜蕾絲先剝粽子再划龍舟 / 一見粽情 / 粽情粽禮 / 粽夏慶端午 / 包中諧音 / 接粽而來 / 粽所皆知」 持續 carry. **5/21 NEW DATA reinforce**「薪水粽是上漲 / 幹活粽是不忙 / 前途粽是輝煌 / 愛情粽是如糖 / 身體粽是健康 / 米飯包子粽子內外結構 / 手機粽葉包起來增強信號」 3 register family 加入 5/22 啟動 roster.
+
+- **food-jokes**: 5/16-5/17 carry「會考應援諧音菜名 + 香蕉加工」 1 item 6月 opportunistic 不變. **5/22 啟動前 T-1** 端午「粽子諧音 + 米飯包子粽子內外結構」 cross-link 1-2 items 預備.
+
+- **fitness-quotes (19 items live, Q3 7-8 月 expansion)**: 5/19 carry + 5/20 carry「深蹲 力量被吃掉 / 硬舉 腳底很滑 / 重訓鞋 / 體重計 數字 vs 鏡子 落差 / 居家神器 KO / 告別 健身房 年費」 Q3 7-8 月 expansion roster 不變.
+
+- **cheesy-pickups**: 5/16 carry「FYP 演算法情話」 + 5/17 carry「我 賦予 妳的 LINE 新面貌」 6 月 opportunistic 不變. **5/21 NEW**「Instagram Flash filter / 直接閃光燈 復古」 反美顏 反完美主義 register 1 item 候選 6 月 opportunistic low priority.
+
+- **travel-quotes**: 5/18 carry「Nothing Beats a 連假返鄉 / 員工旅遊 / 一日北海岸」 6 月 opportunistic 不變. 5/15 carry 國旅補助 + Taiwan Pass 抽籤 持續 carry. **5/21 NEW**「AI 替我去旅行 / Veo 4 一分鐘 AI 影片 我 還在 改 PPT」 1 item 候選 6 月 opportunistic.
+
+- **dark-humor**: 5/16-5/18 carry 不變. **5/21 SKIP**: 帕里哈皮蒂亞「台灣 18 個月後 失去 半導體」 = 政治/民族敏感 SKIP / 不適合 funtexthub.
+
+- **diet-quotes**: 6 月 broader register +1-2 items 不變.
+
+- **breakup-quotes**: 5/21 carry「Be Her Ella Langley 嫉妒主題曲」 register 1 item 候選 6 月 opportunistic MEDIUM-LOW priority.
+
+- **zodiac-quotes / wedding-quotes / graduation-quotes / dog-quotes / cat-quotes / couple-jokes / cold-jokes / korean-drama-quotes / pet-memorial-quotes / insomnia-quotes / renting-quotes / service-quotes**: 各 organic 觀察期 day +1, 無新 5/21 信號. graduation-quotes 5/15 deadline 結束 day +6 organic. 6 月初 鳳凰花開 + 大學畢業典禮 cluster T-9 預備觀察.
+
+### Updated Action Priority
+
+1. **[HIGH — 5/22 EOD / Meta 5/22 day-after T+2 黃金窗口 day 3 of 7]** workplace-quotes 「Meta 8,000 / 7,000 重配 AI / 不是 失業 是 轉職 / 但 轉職 不選 我 / AI 必須化 業績 / 史上最大重組 / 16 週基薪 + 18 個月 COBRA / Pralaydin / Big Beautiful Layoff」 1-2 items 持續 編寫 priority 最高.
+2. **[HIGH — 5/22 EOD / Meta 5/22 day-after T+2 + Google I/O T+3 黃金窗口 day 3 of 7]** programmer-jokes 「Meta day-of carry + Google Veo 4 / Omni / Toucan / Veo 3.1 60 秒 1080p / AI 影片民主化 / 業績評估 AI 必須化」 1-2 items 持續 編寫 priority 最高.
+3. **[HIGH — 5/22 EOD / slang-quotes 5/22 deadline day-after T+1 短窗口 day 2 of 4]** slang-quotes 「Threads 5 大梗 popdaily 第九次 reconfirm」 + 「365 buttons Tamara 拒絕解釋 IYKYK」 + 5/20 carry「Pepe Muppets 1999」 持續 2-3 items 5/22-5/24 短窗口 編寫.
+4. **[HIGH — 5/22-5/30 9 天 報稅最後一波 黃金窗口 day-of opportunistic]** adulting-quotes 「行事曆 跳出 報稅 / 已經 5/21 還沒申報 / 點開預填 又關掉」 + 「Meta 裁員 + Google Veo 4 + 我 報稅 / 不同物種 同一週」 + 「初級大人 高級大人 880 倍 / 高麗菜那桌 = 我還在普通桌」 2-3 items 5/22-5/30 編寫.
+5. **[HIGH — 1 DAY, 5/22 啟動 → 6/19 端午]** holiday-jokes 端午節 expansion 5+ items「薪水粽是上漲 / 米飯包子粽子內外結構 / 手機粽葉包起來增強信號 / 玉琴顧粽 / 蔡依林康民順 / 杜蕾絲先剝粽子再划龍舟」 + food-jokes cross-link 「粽子諧音 + 5/16 會考應援諧音 + 5/17 香蕉加工」 1-2 items.
+6. **[MEDIUM-HIGH — 5/23 T-2 售票 cluster day + 5/30-6/15 中窗口 + 7/3 演出 T-43]** motivational-quotes / drama-quotes 五月天 #5525+2 + PSY 5/23 雙抽 register 1-2 items 「25 年 / 票價 1525-5525 諧音 / 回到那一天 / 抽不到票 / 雙抽 拓元 / K-SPARK 5/30 G-DRAGON 高雄世運」.
+7. **[MEDIUM-HIGH — 5/21-5/27 7 天 Google I/O 中窗口]** programmer-jokes / absurd-wisdom / workplace-quotes / travel-quotes Google Veo 4 / Omni / Toucan register 1-2 items 多 topic.
+8. **[MEDIUM-HIGH — 5/22-5/31 10 天 Tamara 中窗口 + 6 月 carry]** slang-quotes / witty-comebacks / absurd-wisdom / motivational-quotes 「365 buttons / 拒絕解釋 / IYKYK / 害怕時間 / 一天一顆」 register 1-2 items.
+9. **[MEDIUM-HIGH — 5/22-5/31 10 天 龐奇 中窗口 + 6 月 carry]** mom-quotes / sweet-quotes / healing-quotes / pet-memorial-quotes 「龐奇 紅毛猩猩 IKEA 玩偶 / 母愛缺席 / 替代母愛 / 勇敢長大 我陪你」 register 1-2 items.
+10. **[MEDIUM-HIGH — late May (5/29-6/1) 啟動 → 6/1-6/3 上線]** Create exam-quotes / 考試語錄 8-12 items. 雙考流量 hook. 5/18 carry reinforce「白老鼠 + 賦予事物新面貌 + 浮力魔王」 段落.
+11. **[MEDIUM-HIGH — 6月 opportunistic, 5/19-5/21 carry]** adulting-quotes 「初級大人 / 高級大人 / 880 倍 / 高麗菜那桌 = 普通桌 落差」 + 報稅季 T-11 cross-link.
+12. **[MEDIUM — June opportunistic]** motivational-quotes 「Bob Ross / 練習比天份」 + 「老歌神 2026 大爆發」 跨世代懷舊 + 「May this month [insert gratitude] 季節性感謝」 5 月 viral 2-3 items 5/22-5/31 短窗口.
+13. **[MEDIUM — late May]** slang-quotes Q2 refresh 泉/要確欸/爛 + 「ꉂ🤣𐤔 笑死符號」 1 item 6 月 opportunistic + 「留友看」 演算法行為 1 item 6 月 opportunistic.
+14. **[CLOSED]** mom-quotes / sweet-quotes 收 2027 backlog. 五雷區 strategy 不變. 母親節 day +11 organic.
+15. **[MEDIUM — June opportunistic, 5/16-5/17 NEW + 5/21 NEW]** cheesy-pickups 「FYP / 演算法 / duet / 主角能量」 + 「我賦予妳的 LINE 新面貌」 + **NEW**「Instagram Flash filter 直接閃光燈 反美顏 反完美主義」 1 item 6 月 opportunistic low priority.
+16. **[MEDIUM — Q3 7-8 月 啟動]** fitness-quotes (19 items live) expansion 8-12 items 不變.
+17. **[MEDIUM — Q3 候選 8-9月]** pet-memorial-quotes / 寵物離世語錄.
+18. **[MEDIUM — Q3 候選 8月]** insomnia-quotes / 失眠語錄.
+19. **[FLAG — early July, T-78]** Begin 父親節 (8/8) drafting. 「爸爸 = WiFi 感受不到 但隨時連得上線」 sub-format 候選. 5/21 NEW 「爸爸 = 科技支援中心 / 爸爸的支持 = 無限量手機流量」 register 加入 父親節 roster 預備.
+20. **[OPPORTUNISTIC — 6月底-7月初]** motivational-quotes / friendship 五月天 25年 #5525+2 (5/23 T-2 拓元售票 cross-link → 7/3 演出 T-43).
+21. **[OPPORTUNISTIC — June, low priority]** diet-quotes ACSM 2026 broader register +1-2 items.
+22. **[NEW MEDIUM — Q4 候選 (10-12月) 8-10月 觀察]** Create renting-quotes 候選 expansion.
+23. **[NEW LOW — Q3 候選 (7月底-8月初) 7月 觀察]** Create summer-slack-quotes / 暑假擺爛語錄.
+24. **[NEW LOW — 2027/3 priority 載入]** mom-quotes / sweet-quotes 2027 母親節.
+25. **[OPPORTUNISTIC, 5/21 NEW 加碼]** witty-comebacks 「我吃一點」 derivative + 鄉民吐槽 + 5/16-5/19 carry + 5/20 carry「公司 創紀錄營收 / 創紀錄裁員 / 數字都很好看 / 除了 我的名字」 + **NEW 5/21**「365 buttons Tamara 拒絕解釋 IYKYK / 高麗菜那桌 = 普通桌」 2-3 items 6 月.
+26. **[NEW LOW — 6月 opportunistic, 5/20-5/21 carry]** absurd-wisdom 5/17 carry「賦予事物新面貌」 + 5/20 carry「AI pods 豆莢」 + **NEW 5/21**「Google Veo 4 = 把想像變影片 然後 變流量 變解雇」+「365 buttons 對自己有意義」 廢話文學 1-2 items 候選 cross-link.
+27. **[FLAG — 觀察不啟動]** 校園霸凌 too sensitive. Cannes Demi Moore 體態 discourse too sensitive low. 5/20 SKIP 區 carry. **5/21 NEW SKIP 區**: 帕里哈皮蒂亞「台灣 18 個月 失去 半導體」 = 政治/民族敏感 SKIP. 賴清德 就職 2 週年 + 罷免案 投票 carry SKIP. 蕭景鴻 弟上麥克風 + 房業涵 520 = 個人動態 low (不適合 fun text).
+28. **[OPPORTUNISTIC — 5/23 T-2 集中 day]** PSY 大巨蛋 + 五月天 #5525+2 拓元售票 + K-SPARK 5/30 高雄世運 cluster cross-pollinate 1-2 items.
+29. **[CLOSED — 5/20 EOD]** absurd-wisdom / witty-comebacks 「賦予事物新面貌」 廢話文學模板 1-2 items (會考話題 1 週熱度 末日結束). organic.
+30. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday「OS vs 現實 對比梗」 在地化 6 大 topic 候選: travel-quotes 2-3 items + slang-quotes 1 item + witty-comebacks 1 item + workplace-quotes 1 item + adulting-quotes 1 item + programmer-jokes 1 item.
+31. **[HIGH — 5/20-5/27 7 天 黃金窗口 day 2 of 7]** Meta 裁員「Pralaydin / Big Beautiful Layoff 倒數網站 / 創紀錄營收 vs 裁員 / AI pods 重組 / 14,000 有效減員 / 倖存者罪惡感 / Slack 紅色頭像 / 1-on-1 行事曆 + 7,000 重配 AI / 業績評估 AI 必須化」 workplace-quotes / programmer-jokes 主場 + healing-quotes / adulting-quotes / witty-comebacks / absurd-wisdom cross-link 多 topic 1-2 items per topic.
+32. **[NEW MEDIUM-HIGH — 5/21 NEW, 5/21-5/27 7 天 中窗口]** Google I/O 2026「Veo 4 / Omni / Toucan / Veo 3.1 60 秒 1080p / AI 影片民主化」 programmer-jokes / absurd-wisdom / workplace-quotes / travel-quotes / adulting-quotes cross-link 多 topic 1-2 items per topic.
+33. **[NEW MEDIUM-HIGH — 5/21 NEW, Threads 5 大梗 5/22-5/31 中窗口]** Threads「高麗菜那桌 / 龐奇 紅毛猩猩 / ꉂ🤣𐤔 笑死符號 / 留友看 / 初級大人 高級大人」 5 大梗 family slang-quotes / witty-comebacks / adulting-quotes / mom-quotes / healing-quotes cross-link 5+ topic 1-2 items per topic.
