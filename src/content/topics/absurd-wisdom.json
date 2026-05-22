@@ -3860,6 +3860,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-156",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.zhihu.com/question/482233311",
+      "sourceNote": "廢話文學職場通勤主題重新創作",
+      "tags": ["廢話文學", "上班", "通勤", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人資專家分析：每天到公司打卡的人，通常都有在上班。\n\n沒有到公司的，多半是放假，或是還沒到。\n\n至於遲到的同事，他們抵達公司的時間，比規定時間晚了一點。",
+          "editorNote": "禮拜一早上傳到公司群組，主管已讀不回的機率高達九成",
+          "variations": [
+            "上班的第一步，就是要先出門。沒出門的人，通常還在床上。",
+            "捷運比走路快，這是已經被通勤族驗證過的事實。"
+          ]
+        },
+        "en": {
+          "content": "HR experts confirm: people who clock in at the office every day are usually at work.\n\nThose who aren't at the office are either on leave or haven't arrived yet.\n\nAs for colleagues who are late, they tend to arrive after the scheduled time.",
+          "editorNote": "Drop this in the company Slack on Monday morning — 90% chance your manager will leave it on read",
+          "variations": [
+            "Step one of going to work is leaving the house. People who haven't left are usually still in bed.",
+            "The subway is faster than walking. This has been verified by commuters."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-157",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.sohu.com/a/500997490_121124710",
+      "sourceNote": "廢話文學金錢主題重新創作",
+      "tags": ["廢話文學", "金錢", "理財", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "理財專家指出：戶頭裡有錢的人，比戶頭裡沒錢的人，多了一些錢。\n\n想要變有錢的第一步，就是先有錢。\n\n沒錢的話，會稍微難一點。",
+          "editorNote": "月底收到帳單那天傳給朋友，附上一個哭笑不得的表情",
+          "variations": [
+            "花錢的速度，通常比賺錢快。這就是為什麼戶頭會變空。",
+            "存款增加最快的方法，就是不要花錢。不花的話，數字會比較好看。"
+          ]
+        },
+        "en": {
+          "content": "Financial experts point out: people with money in their account have more than people without.\n\nStep one to becoming rich is to have money.\n\nWithout it, things get slightly harder.",
+          "editorNote": "Send to a friend on the day your credit card bill arrives — attach a crying-laughing face",
+          "variations": [
+            "Spending money tends to happen faster than earning it. That's why accounts go empty.",
+            "The fastest way to grow your savings is to not spend. If you don't spend, the number looks nicer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-158",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學睡眠主題重新創作",
+      "tags": ["廢話文學", "睡眠", "失眠", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠專家研究發現：睡著的人，通常處於睡眠狀態。\n\n還沒睡著的，那就是還醒著。\n\n至於說「我只是閉眼休息」的人，他們的睡眠時數，通常比自己以為的多。",
+          "editorNote": "凌晨兩點傳給也睡不著的朋友，沒回的可能是真的睡了",
+          "variations": [
+            "想睡飽的第一步，就是要睡得夠。睡不夠的，通常會覺得累。",
+            "賴床的人，比準時起床的人，在床上待得久一點。"
+          ]
+        },
+        "en": {
+          "content": "Sleep researchers have found: people who are asleep are usually in a sleeping state.\n\nThose who aren't asleep are simply awake.\n\nAs for people who say 'I'm just resting my eyes,' their sleep duration is usually longer than they think.",
+          "editorNote": "Text this to a friend at 2 AM — if they don't reply, they probably actually fell asleep",
+          "variations": [
+            "Step one to feeling well-rested is sleeping enough. People who don't usually feel tired.",
+            "People who hit snooze stay in bed longer than people who get up on time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-159",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "廢話文學運動健身主題重新創作",
+      "tags": ["廢話文學", "運動", "健身", "健康"],
+      "i18n": {
+        "zh-tw": {
+          "content": "健身教練表示：有去健身房的人，比沒去的人，多運動了一些。\n\n沒去的，通常維持原本的狀態。\n\n至於辦了會員卻沒去的人，他們的會員卡，目前還是會員卡。",
+          "editorNote": "適合傳給辦了健身房年費結果只去過兩次的朋友，記得保持距離",
+          "variations": [
+            "想瘦的第一步，就是不要變胖。已經胖的，要往反方向努力。",
+            "跑步的人，比沒跑步的人，多跑了一些路。這就是運動。"
+          ]
+        },
+        "en": {
+          "content": "Personal trainers confirm: people who go to the gym work out more than people who don't.\n\nThose who don't go usually stay in their original state.\n\nAs for people who bought a membership but never went, their membership card is still a membership card.",
+          "editorNote": "Perfect for that friend who paid for an annual gym pass and went twice — maybe keep your distance after sending",
+          "variations": [
+            "Step one to losing weight is not gaining weight. Those who already gained need to go the other way.",
+            "People who run cover more distance than people who don't. That's called exercise."
+          ]
+        }
+      }
     }
   ]
 }

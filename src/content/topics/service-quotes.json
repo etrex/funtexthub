@@ -1828,6 +1828,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-078",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://tw.nextmgz.com/realtimenews/news/45188694",
+      "sourceNote": "Inspired by 壹週刊 10大奧客經典語錄 list — rewritten around the canonical 「叫你們經理出來」 escalation trope as an interior monologue (original phrasing)",
+      "tags": ["服務業", "奧客", "客訴", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叫你們經理出來。」\n好的，這是我的經理。\n「叫他的主管出來。」\n好的，這是區經理。\n「叫總公司來。」\n那位先生，您不如直接打給董事長，順便連總統府也通知一下。",
+          "editorNote": "傳給服務業裡那位「永遠在處理客訴升級」的同事。客人要找的不是經理，是一個願意對他鞠躬的人，越多越好。",
+          "variations": [
+            "客人要找的不是上面的主管，是一個比他更怕他的人。",
+            "「叫你們經理出來」是奧客的鍵盤快捷鍵，按下去能召喚整條組織圖。"
+          ]
+        },
+        "en": {
+          "content": "\"Get me your manager.\"\nSure, here's my manager.\n\"Get me his supervisor.\"\nSure, here's the regional.\n\"Get me corporate.\"\nSir, at this point just call the CEO directly. While you're at it, loop in the White House.",
+          "editorNote": "Send to that one coworker who's permanently assigned to handle escalations. The customer isn't asking for a manager — they're asking for someone, anyone, who looks more afraid of them than you do.",
+          "variations": [
+            "Customers don't actually want a manager. They want someone higher up who's even more scared of them.",
+            "\"Get me your manager\" is the keyboard shortcut that summons the entire org chart."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-079",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.callcentrehelper.com/funny-customer-service-stories-make-chuckle-147152.htm",
+      "sourceNote": "Inspired by Call Centre Helper funny customer service stories — adapted the wrong-department complaint trope into a Taiwanese phone-support setting (original phrasing)",
+      "tags": ["服務業", "客服", "電話", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「你們網站上的電話我打了。」\n我：「請問您要諮詢什麼？」\n客人：「我家附近那間分店的肉品專櫃。」\n我：「我們這裡是相機照沖洗客服。」\n客人：「我知道，所以你們是總公司對吧？」",
+          "editorNote": "客服每天都要解釋「我們不是萬能總機」。傳給接電話的朋友，跟他說「我們不是 google 客服」這句話可以印成 T 恤。",
+          "variations": [
+            "客人覺得電話那一端坐的是全公司，其實只有我一個人加一台跑很慢的電腦。",
+            "客服分機表跟客人腦中的分機表，是兩本平行宇宙的書。"
+          ]
+        },
+        "en": {
+          "content": "Caller: \"I got this number off your website.\"\nMe: \"How can I help?\"\nCaller: \"The meat counter at my local store has been a disaster.\"\nMe: \"This line is for the photo-printing department.\"\nCaller: \"Right, so you're corporate, correct?\"",
+          "editorNote": "Call-center reps explain \"we are not a universal switchboard\" daily. Send to a phone-support friend — tell them \"we're not Google support\" deserves to be printed on a shirt.",
+          "variations": [
+            "Customers think the entire company is sitting on the other end of the line. It's just me and a laptop running on fumes.",
+            "The actual extension list and the one inside the customer's head are two books from different universes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-080",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://ebcbuzz.com/category/fun/new/221572",
+      "sourceNote": "Inspired by 東森新聞 餐廳奧客語錄 article — rewritten with the 「老樣子」 regular-customer expectation trope, original Taiwanese 小吃店 dialogue",
+      "tags": ["服務業", "餐飲", "奧客", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「老闆，老樣子。」\n「請問您之前點過什麼？」\n「我半年前來過一次。」\n「⋯⋯老闆我都不記得我昨天晚餐吃什麼。」",
+          "editorNote": "傳給小吃店、早餐店的朋友。「老樣子」是台灣餐飲業最浪漫也最殘酷的三個字——浪漫的是客人覺得自己被記得，殘酷的是真的沒人記得他。",
+          "variations": [
+            "說「老樣子」的客人，通常上次來是恐龍還沒滅絕的時候。",
+            "餐飲業的記憶體有限，老樣子那一格早就被新進員工覆蓋了。"
+          ]
+        },
+        "en": {
+          "content": "\"The usual, boss.\"\n\"What did you order last time?\"\n\"I came in once. Six months ago.\"\n\"...Sir, I don't remember what I ate yesterday.\"",
+          "editorNote": "Send this to friends running breakfast joints or noodle stalls. \"The usual\" is the most romantic and most brutal phrase in Taiwanese food service — romantic because the customer thinks they're remembered, brutal because no one actually remembers them.",
+          "variations": [
+            "Customers who say \"the usual\" usually last came in back when dinosaurs roamed the earth.",
+            "Food-service memory has limited storage. The \"usual\" slot got overwritten by the new hire."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-081",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1671535300.A.468.html",
+      "sourceNote": "Inspired by PTT WomenTalk 「服務業的禮貌只是防客訴」 thread — rewritten as an internal monologue about the performative-smile coping mechanism (original phrasing)",
+      "tags": ["服務業", "情緒", "客訴", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「你笑得好假。」\n我：「不好意思，下次我練習一下。」\n（內心 OS：我笑得不假您就有意見了，\n您要的不是真笑，是一張為您客製化的臉。）",
+          "editorNote": "服務業的微笑從來不是情緒，是 SOP。傳給那位被客人嫌「笑得不夠真誠」的朋友——你不是不真誠，是你的真心話會被寫進客訴單。",
+          "variations": [
+            "客人要的不是服務，是一張會點頭的鏡子。",
+            "「你笑得好假」這句話的標準回應，是再笑一次，更假。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Your smile looks fake.\"\nMe: \"Sorry, I'll work on it.\"\n(Inner monologue: If I smiled for real you'd complain too.\nWhat you want isn't a real smile — it's a custom face built just for you.)",
+          "editorNote": "The service-industry smile was never an emotion. It's an SOP. Send to a friend whose customer said their smile \"wasn't sincere enough\" — you're not insincere, your real thoughts just happen to fit on a complaint form.",
+          "variations": [
+            "Customers don't want service. They want a mirror that nods.",
+            "The correct response to \"your smile looks fake\" is to smile again, faker."
+          ]
+        }
+      }
     }
   ]
 }

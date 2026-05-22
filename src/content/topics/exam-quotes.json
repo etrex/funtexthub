@@ -1277,6 +1277,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-053",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "Dcard 考試板 拖延型自嘲 register — 讀書與滑手機對照",
+      "tags": ["考試", "拖延", "自嘲", "廢文", "學生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我打開課本三分鐘，\n滑手機三小時，\n再回頭看課本，\n它已經不認識我了。",
+          "editorNote": "考前一週的真實寫照，配張手機螢幕時間截圖更崩潰。",
+          "variations": [
+            "也能換：「課本：『你誰？』我：『沒事，我也忘了我是誰。』」",
+            "進階版：「我跟課本的關係，比我跟前任還疏遠。」"
+          ]
+        },
+        "en": {
+          "content": "Opened the textbook for three minutes.\nScrolled my phone for three hours.\nWent back to the textbook.\nIt didn't recognize me anymore.",
+          "editorNote": "Pair it with a screen-time screenshot that has a number you don't want your parents to see.",
+          "variations": [
+            "Try: \"Textbook: 'Who are you?' Me: 'Honestly, same question.'\"",
+            "Add: \"My textbook and I have less chemistry than me and my ex.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-054",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://memes.tw/wtf?tag=%E5%AD%B8%E6%B8%AC",
+      "sourceNote": "學測梗圖 register — 念書方式與分數無關聯的反差",
+      "tags": ["學測", "自嘲", "廢文", "高中生", "考試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我準備了三章。\n考出來考五章。\n剩下的兩章，\n出題老師大概也是臨時想到的。",
+          "editorNote": "看到考卷瞬間嘴角下垂的那種梗，學測完發 Threads 必收一堆愛心。",
+          "variations": [
+            "也能說：「我背的剛好是不考的，不考的剛好我都背。」",
+            "進階版：「老師說範圍三章，考卷說範圍人生。」"
+          ]
+        },
+        "en": {
+          "content": "I studied three chapters.\nThe exam covered five.\nThe other two — \nI'm pretty sure the teacher made them up on the spot.",
+          "editorNote": "Built for that 'flip the paper, mouth drops open' moment. Post-finals Threads gold.",
+          "variations": [
+            "Try: \"Everything I studied wasn't on it. Everything on it I didn't study. Perfect alignment.\"",
+            "Add: \"Teacher said three chapters. The paper said: all of human existence.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-055",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/SENIORHIGH/index.html",
+      "sourceNote": "PTT 高中板 考前焦慮 register — 睡眠與分數成反比的自嘲",
+      "tags": ["考試", "失眠", "自嘲", "廢文", "高中生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡四小時：拿 A。\n睡五小時：拿 B。\n睡七小時：分數沒了，但夢裡我考一百。\n結論：我選擇做夢。",
+          "editorNote": "適合凌晨三點還在念書時 po 限動，朋友看了會傳一句『加油』然後繼續睡。",
+          "variations": [
+            "也能換：「我醒著的時候不會，睡著的時候會——可惜考試不接受夢境作答。」",
+            "進階版：「睡眠是補品，但補完還是不會寫。」"
+          ]
+        },
+        "en": {
+          "content": "Four hours of sleep: A.\nFive hours: B.\nSeven hours: no score, but in my dream I aced it.\nConclusion: I'm choosing the dream.",
+          "editorNote": "Drop it at 3 a.m. mid-cramming. Friends will reply 'good luck' and go right back to bed.",
+          "variations": [
+            "Try: \"I know it in my sleep. Sadly the exam doesn't accept dream submissions.\"",
+            "Add: \"Sleep is a power-up. Doesn't actually power up anything useful for the test.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-056",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.dcard.tw/f/whysoserious",
+      "sourceNote": "Dcard 廢文板 考完心情 register — 對答案後悔的反差",
+      "tags": ["考試", "對答案", "後悔", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考前：「拜託考我會的。」\n考中：「這題我會。」\n考後對答案：「原來我會的不是我以為的那種會。」",
+          "editorNote": "考完離開試場那種空虛感的精準翻譯，發在限動會被同學瘋狂截圖。",
+          "variations": [
+            "也能換：「我以為的會 vs 老師認定的會，是兩個平行宇宙。」",
+            "進階版：「我自信滿滿走出考場，自信被答案本一頁打死。」"
+          ]
+        },
+        "en": {
+          "content": "Before the exam: \"Please ask what I know.\"\nDuring: \"Oh, I know this one.\"\nAfter, checking the answers: \"Turns out my 'knowing' and actual knowing are unrelated.\"",
+          "editorNote": "Captures the soul-leaving-the-body feeling after results drop. Story material for sure.",
+          "variations": [
+            "Try: \"What I think I know vs. what the answer key thinks I know — parallel universes.\"",
+            "Add: \"Walked out confident. The answer key killed that confidence in one page.\""
+          ]
+        }
+      }
     }
   ]
 }

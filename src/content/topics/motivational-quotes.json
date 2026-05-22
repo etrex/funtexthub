@@ -4127,6 +4127,146 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-148",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.success.com/effort-quotes",
+      "sourceNote": "Inspired by small-effort consistency themes around daily habits compounding into results",
+      "tags": [
+        "勵志",
+        "習慣",
+        "累積",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你每天做一點點的事，最後會變成別人追不上的距離。",
+          "editorNote": "適合送給覺得自己進度慢到懷疑人生的人。一天看不出來，一年回頭看會嚇到自己。",
+          "variations": [
+            "今天的一點點，是未來的一大段。"
+          ]
+        },
+        "en": {
+          "content": "The tiny thing you do every day is the thing nobody can catch up on later.",
+          "editorNote": "Send to the friend who thinks daily habits are too small to matter. Boring on Monday, life-changing by next year.",
+          "variations": [
+            "Small today, unreachable tomorrow."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-149",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://arielhsu.tw/positive-energy-quotes/",
+      "sourceNote": "Inspired by Taiwan motivational quote themes about failure as restart opportunity",
+      "tags": [
+        "勵志",
+        "失敗",
+        "重來",
+        "自我修復"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "跌倒不丟臉，賴在地上才丟臉。",
+          "editorNote": "失敗本身不是問題，問題是你願不願意拍一拍站起來。給最近摔得有點重的朋友看一下。",
+          "variations": [
+            "重點不是怎麼跌的，是怎麼站起來的。"
+          ]
+        },
+        "en": {
+          "content": "Falling isn't embarrassing. Staying on the floor is.",
+          "editorNote": "For anyone using one bad day as a reason to give up on the whole week. You're allowed to flop — just don't move in.",
+          "variations": [
+            "Nobody remembers how you fell. They remember if you got up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-150",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/53890",
+      "sourceNote": "Inspired by Manager Today compilation themes on self-trust and inner voice",
+      "tags": [
+        "勵志",
+        "自我信任",
+        "直覺",
+        "內心"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人怎麼看你不重要，重要的是你看自己的時候，眼神還亮不亮。",
+          "editorNote": "適合在意別人評價到喘不過氣的時候。鏡子裡那個人覺得你還可以，其他人說什麼真的還好。",
+          "variations": [
+            "別人給的標籤你可以撕掉，自己給自己的眼神最難換。"
+          ]
+        },
+        "en": {
+          "content": "What other people see doesn't matter half as much as how your own eyes look back at you.",
+          "editorNote": "For when everyone's opinion is louder than yours. The only review that follows you home is the one from the mirror.",
+          "variations": [
+            "Their take expires. Yours has to live with you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-151",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://projectmanager.com.tw/%E8%81%B7%E5%A0%B4/%E8%AA%9E%E9%8C%84/",
+      "sourceNote": "Inspired by Taiwan workplace motivational themes around starting messy",
+      "tags": [
+        "勵志",
+        "開始",
+        "不完美",
+        "行動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "醜醜的開始，也比完美的計畫先到終點。",
+          "editorNote": "完美主義害死人系列。先做出一個爛版本再說，至少你已經在跑了，計畫派還在 Word 裡寫大綱。",
+          "variations": [
+            "做出來的爛版本，贏過想出來的好點子。"
+          ]
+        },
+        "en": {
+          "content": "An ugly start still beats a perfect plan that never leaves the doc.",
+          "editorNote": "For the perfectionist who keeps polishing the outline instead of shipping the thing. Bad v1 beats brilliant v0.",
+          "variations": [
+            "Done and messy travels faster than perfect and pending."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-152",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://tw.cyberlink.com/blog/photo-editing-tips/4311/motivational-quotes",
+      "sourceNote": "Inspired by compilation themes about comparing yourself to past self instead of others",
+      "tags": [
+        "勵志",
+        "比較",
+        "成長",
+        "自我"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你要贏的不是別人，是上禮拜那個還在原地打轉的自己。",
+          "editorNote": "刷 IG 看到別人都好厲害的時候打開來看。賽道不一樣，比也沒用，唯一能比的對象住在你身體裡。",
+          "variations": [
+            "別人的進度條跟你無關，你只要比昨天多一格就好。"
+          ]
+        },
+        "en": {
+          "content": "You're not racing them. You're racing the version of you who was stuck last week.",
+          "editorNote": "Read this before opening Instagram. Everyone's on a different track — the only fair race is you vs. last-week-you.",
+          "variations": [
+            "Their highlight reel isn't your scoreboard."
+          ]
+        }
+      }
     }
   ]
 }

@@ -4474,7 +4474,7 @@
       "tags": [
         "AI",
         "context window",
-        "legacy code",
+        "Legacy Code",
         "過度自信"
       ],
       "i18n": {
@@ -4532,7 +4532,7 @@
       "sourceUrl": "https://programmerhumor.io/memes/git",
       "sourceNote": "Git merge conflict universal pain — fresh rewrite",
       "tags": [
-        "git",
+        "Git",
         "merge conflict",
         "team",
         "崩潰"
@@ -4612,6 +4612,122 @@
           "variations": [
             "New golden rule of code review: when in doubt, approve. The AI wrote it. Not our problem.",
             "The three sentence templates of modern PR comments: 'AI suggested,' 'AI said this works,' 'I don't know, AI wrote it.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-160",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "Light attracts bugs — classic dark mode joke, rewritten with extra context",
+      "tags": [
+        "dark mode",
+        "bug",
+        "工程師習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM 問工程師：「為什麼你的螢幕永遠是黑底？看了眼睛不會痛嗎？」\n\n工程師：「光會吸引蟲。」\n\nPM：「⋯⋯什麼？」\n\n工程師：「Bug。光會吸引 bug。我已經五年沒看過白色背景了。」\n\nPM 默默把自己的 IDE 也切成深色模式，從此再也沒遇過 NullPointerException。",
+          "editorNote": "傳給那個還在用淺色模式的同事，順便提醒他這就是他 bug 比較多的原因。",
+          "variations": [
+            "工程師都用深色模式不是因為帥，是因為怕招蟲。",
+            "切到淺色模式那一刻，Sentry 就開始響了。"
+          ]
+        },
+        "en": {
+          "content": "The PM asks the developer: \"Why is your screen always pitch black? Doesn't it hurt your eyes?\"\n\nDeveloper: \"Light attracts bugs.\"\n\nPM: \"...What?\"\n\nDeveloper: \"Bugs. Light attracts bugs. I haven't seen a white background in five years.\"\n\nThe PM quietly switches their own IDE to dark mode and never sees another NullPointerException again.",
+          "editorNote": "Forward this to that one coworker still on light mode. It explains a lot about their PR history.",
+          "variations": [
+            "Devs don't use dark mode to look cool. We use it to avoid attracting bugs.",
+            "The exact moment you switch to light mode is the exact moment Sentry starts paging."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-161",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Top-10-programmer-jokes",
+      "sourceNote": "Debugging detective — rewritten as a mini-narrative",
+      "tags": [
+        "除錯",
+        "工程師人生",
+        "比喻"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問：「除錯是什麼感覺？」\n\n工程師：「想像你是個偵探，你正在追查一樁謀殺案，線索很少，凶手很狡猾。你熬夜了三天，終於找到關鍵證據⋯⋯」\n\n「然後呢？」\n\n「然後你發現凶手就是你自己。三個月前的你。而且你還在 commit message 寫『清理小東西』。」",
+          "editorNote": "傳給每個正在追自己三個月前留下的 bug 的工程師，他們會默默打開 git blame。",
+          "variations": [
+            "git blame 出來的名字，永遠是自己。",
+            "除錯的真相：你在追的不是 bug，是過去的自己。"
+          ]
+        },
+        "en": {
+          "content": "Someone asks: \"What does debugging feel like?\"\n\nDeveloper: \"Imagine you're a detective. You're tracking down a murderer. The clues are scarce, the killer is clever. You haven't slept in three days. Finally, you find the smoking gun...\"\n\n\"And then?\"\n\n\"And then you realize the killer is you. Three months ago. And the commit message just says 'minor cleanup.'\"",
+          "editorNote": "Send to anyone currently hunting a bug from their past self. They'll silently open git blame.",
+          "variations": [
+            "Every name that comes back from git blame is your own.",
+            "Debugging is just past-you committing crimes against present-you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-162",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Stack Overflow copy-paste culture — rewritten as office dialogue",
+      "tags": [
+        "Stack Overflow",
+        "複製貼上",
+        "工程師技能"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問資深工程師：「前輩，你工作十年了，最大的技能是什麼？」\n\n資深工程師認真地說：「Google。」\n\n「⋯⋯就這樣？」\n\n「不，還有判斷哪一個 Stack Overflow 答案值得抄。第一個答案通常已經過時了，第二個答案會被噴到刪文，要看第三個下面那則『2019 編輯：現在應該這樣做』的留言才對。」\n\n新人：「那 AI 出現之後呢？」\n\n資深工程師：「現在多了一個技能：判斷 AI 是真的會還是在硬掰。」",
+          "editorNote": "傳給剛入職的菜鳥，順便附上 Stack Overflow 的書籤。",
+          "variations": [
+            "資深工程師的真正技能：知道哪個 Stack Overflow 答案不要抄。",
+            "工程師的成長路徑：抄第一個答案 → 抄第二個答案 → 看留言 → 問 AI → 還是回去看留言。"
+          ]
+        },
+        "en": {
+          "content": "A junior asks a senior: \"You've been doing this for ten years. What's your biggest skill?\"\n\nThe senior says, completely serious: \"Google.\"\n\n\"...That's it?\"\n\n\"No, also knowing which Stack Overflow answer is worth copying. The first answer is usually outdated. The second answer got flamed into oblivion. You want the third one, specifically the comment that says 'EDIT 2019: actually do it this way.'\"\n\nJunior: \"What about now that AI exists?\"\n\nSenior: \"Now there's a new skill: knowing when the AI actually knows, versus when it's just confidently bluffing.\"",
+          "editorNote": "Send to a brand-new hire, along with a bookmark to Stack Overflow.",
+          "variations": [
+            "A senior dev's real skill is knowing which Stack Overflow answer NOT to copy.",
+            "Developer evolution: copy answer one → copy answer two → read the comments → ask AI → read the comments again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-163",
+      "dateAdded": "2026-05-22",
+      "sourceUrl": "https://dev.to/codesphere/javascript-flaws-5-stupid-npm-packages-5fi",
+      "sourceNote": "node_modules black hole — rewritten with fresh framing",
+      "tags": [
+        "npm",
+        "前端",
+        "依賴地獄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "天文學家發現宇宙中最重的物質。\n\n不是黑洞，不是中子星，不是暗物質。\n\n是某個工程師桌上那台筆電裡，剛跑完 npm install 的 node_modules 資料夾。\n\n它有自己的引力場，會吞噬硬碟空間、Wi-Fi 頻寬，以及工程師的耐心。\n\n更可怕的是，裡面 99% 的套件，這個專案根本沒用到。剩下 1% 是用來印一行『Hello World』的。",
+          "editorNote": "傳給每個專案剛 clone 下來、正在等 npm install 跑完的前端工程師，他們會看著螢幕苦笑。",
+          "variations": [
+            "宇宙最重的東西排行榜：第三名黑洞、第二名你媽的失望、第一名 node_modules。",
+            "新專案 setup 三大階段：clone、install、後悔。"
+          ]
+        },
+        "en": {
+          "content": "Astronomers have discovered the heaviest substance in the known universe.\n\nNot a black hole. Not a neutron star. Not dark matter.\n\nIt's the node_modules folder on some developer's laptop, right after they ran npm install.\n\nIt has its own gravitational field. It consumes disk space, Wi-Fi bandwidth, and the developer's will to live.\n\nThe worst part: 99% of the packages aren't used by the project. The remaining 1% is there to print 'Hello World.'",
+          "editorNote": "Send to any frontend dev currently watching a progress bar after cloning a new repo. They'll laugh through the pain.",
+          "variations": [
+            "Heaviest things in the universe: bronze, black holes; silver, your mom's disappointment; gold, node_modules.",
+            "The three stages of starting a new project: clone, install, regret."
           ]
         }
       }
