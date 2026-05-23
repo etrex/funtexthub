@@ -1,0 +1,361 @@
+{
+  "slug": "concert-ticket-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "演唱會搶票語錄",
+      "description": "拓元卡頓、玉山卡優先購、黃牛 12 倍轉售、票價半個月薪水——2026 五月天 25 週年大巨蛋 7 場、PSY、K-SPARK 雙抽季，每個歌迷都需要的厭世搶票語錄。配上使用情境，傳給沒抽到的朋友剛剛好"
+    },
+    "en": {
+      "title": "Concert Ticket Quotes",
+      "description": "Site crashes, presale codes you don't have, scalpers charging 12x, tickets costing half a paycheck — the burnt-out lines every fan needs during the 2026 Taipei Dome season. Each entry comes with a usage tip for when to send it to the friend who also didn't get in"
+    }
+  },
+  "items": [
+    {
+      "id": "ctq-001",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.iwaishin.com/21525/",
+      "sourceNote": "拓元售票系統 5/23 五月天開賣 day-of；網友回報載入進度卡 0%",
+      "tags": ["拓元", "搶票", "厭世", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "拓元載入到 0%。\n\n我以為是在排隊，\n後來發現是在跟系統共舞。",
+          "editorNote": "拓元卡頓是台灣搶票文化最大共識。傳給正在罵髒話的朋友當場止血",
+          "variations": [
+            "進階版：「載入 0% 第 17 分鐘。我已經不知道我是在搶票還是在做核磁共振。」"
+          ]
+        },
+        "en": {
+          "content": "Loading bar stuck at 0%.\n\nI thought I was in a queue.\nTurns out I'm in an interpretive dance with the server.",
+          "editorNote": "Site-crash humor is universal — works for Ticketmaster, Tixcraft, anywhere. Send to a friend currently rage-typing at their screen",
+          "variations": [
+            "Escalated version: 'Seventeen minutes at 0%. I'm no longer buying a ticket. I'm getting an MRI.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-002",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://udn.com/news/story/7239/9517808",
+      "sourceNote": "玉山銀行冠名贊助五月天演唱會台北站，卡友獨享優先購票",
+      "tags": ["玉山卡", "優先購", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "玉山卡優先購。\n\n玉山我有，\n卡我沒有。",
+          "editorNote": "信用卡優先購是 2026 台灣演唱會分眾規則。沒卡的人傳這句最能引起共鳴",
+          "variations": [
+            "拓展版：「我有玉山的山，玉山的人，玉山的空氣——就是沒有玉山的卡。」"
+          ]
+        },
+        "en": {
+          "content": "Cardholder presale.\n\nI have the bank.\nI just don't have the card.",
+          "editorNote": "Bank-branded presales (Chase, E.SUN, etc.) gatekeep the best seats. Universal pain point for anyone who refuses to open another credit line just for tickets",
+          "variations": [
+            "Extended: 'I have the bank's app, the bank's branch nearby, the bank's logo in my dreams — just not the bank's card.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-003",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/2827348",
+      "sourceNote": "五月天大巨蛋票價 1525-5525；2026/5/23 拓元 day-of",
+      "tags": ["票價", "K型經濟", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "票價 5525。\n\n剛好等於我半個月薪水。\n剛好等於我一整年的存款增加額。\n\n買了以後人生剛好歸零。",
+          "editorNote": "票價對比月薪是 K 型經濟時代的核心痛點。傳給已經理性放棄的朋友，比安慰更治癒",
+          "variations": [
+            "保守版：「5525 是票價，不是我的存款。為了避免混淆，特此聲明。」"
+          ]
+        },
+        "en": {
+          "content": "Front row: $175.\n\nThat's half my rent.\nThat's my entire annual savings rate.\n\nBuying one zeros me out, perfectly.",
+          "editorNote": "Concert prices vs. take-home pay is the universal millennial/Gen-Z lament. Use when commiserating with a friend who just looked at their bank balance",
+          "variations": [
+            "Disclaimer version: 'For clarity: $175 is the ticket price, not my checking account. The two used to be confusable.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-004",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://ticket-training.onrender.com/",
+      "sourceNote": "拓元驗證碼練習網站；驗證碼速度決定搶票成敗",
+      "tags": ["驗證碼", "拓元", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "驗證碼輸入到第七次，\n網頁跳出「您不是人類」。\n\n我也是這樣懷疑我自己的。",
+          "editorNote": "驗證碼是台灣搶票最大關卡之一。傳給剛剛被機器人判定為機器人的朋友",
+          "variations": [
+            "升級版：「我輸入了七次驗證碼，搶到一次自我懷疑。」"
+          ]
+        },
+        "en": {
+          "content": "Failed the captcha seven times.\nThe site asked if I was human.\n\nI've been asking myself the same thing.",
+          "editorNote": "Captcha trauma is universal during high-demand sales. Use to commiserate with the friend who just got bot-flagged for being too slow at clicking traffic lights",
+          "variations": [
+            "Upgrade: 'Seven failed captchas. Zero tickets. One full existential crisis. Worth.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-005",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.cool3c.com/article/222009",
+      "sourceNote": "黃牛代購費高達票價數倍；身份證號生成器與機器人掃票",
+      "tags": ["黃牛", "代購", "厭世", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "黃牛代購費 12 倍。\n\n我繳的不是手續費，\n是我整個人格的尊嚴稅。",
+          "editorNote": "黃牛文化是搶票生態最痛恨的環節。配「我寧願不去」的情境傳給朋友效果最好",
+          "variations": [
+            "認命版：「黃牛 12 倍售出 = 我月薪 1.2 倍。我去聽歌，順便聽自己的破產。」"
+          ]
+        },
+        "en": {
+          "content": "Scalper markup: twelve times face value.\n\nThat's not a convenience fee.\nThat's me pawning my dignity by the gram.",
+          "editorNote": "Scalper rage is a cross-cultural unifier. Pair with the photo of the listing screenshot for maximum effect",
+          "variations": [
+            "Resigned version: 'Scalper resale = 1.2× my monthly salary. I'm going for the music. And to hear my own bankruptcy live.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-006",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.nownews.com/news/6578143",
+      "sourceNote": "拓元 5/23 五月天 sold out；網友哭「藍圈轉完票就沒了」",
+      "tags": ["站票", "搶到", "演唱會", "勝利"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搶到站票。\n\n沒有座位。\n沒有視野。\n沒有腿能坐。\n\n但我有現場。",
+          "editorNote": "站票文化是搶票輸家最後的勝利。傳給只搶到山頂或站區的朋友當打氣",
+          "variations": [
+            "倔強版：「站票不是輸，是入場費的最後一道及格線。」"
+          ]
+        },
+        "en": {
+          "content": "I got a standing ticket.\n\nNo seat.\nNo view.\nNo legs by the encore.\n\nBut I am, technically, in the room.",
+          "editorNote": "Standing-room consolation is real. Use to hype up a friend who only scored nosebleeds or general admission",
+          "variations": [
+            "Stubborn version: 'Standing isn't losing. It's the passing grade on the entry exam.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-007",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.nownews.com/news/6678365",
+      "sourceNote": "拓元三階段售票：親子套票區、玉山卡友、全區 11:00",
+      "tags": ["親子套票", "單身", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "親子套票區優先開放。\n\n我沒有小孩。\n我也沒有對象。\n\n但我有空。\n\n這個系統好像不在乎。",
+          "editorNote": "套票分眾機制讓單身者倍感受傷。傳給也沒在套票區的朋友當失敗者聯盟",
+          "variations": [
+            "認命版：「親子套票區→玉山卡→全民開搶。我跳過前兩階段，連帶跳過了人生兩階段。」"
+          ]
+        },
+        "en": {
+          "content": "Family-pack presale: now open.\n\nI don't have a kid.\nI don't have a partner.\n\nI do have time.\n\nThe system doesn't care.",
+          "editorNote": "Family/group presale tiers feel exclusionary if you're solo. Use to build a solidarity-of-the-single moment with a friend",
+          "variations": [
+            "Resigned: 'Family-pack → cardholders → general sale. I skipped the first two tiers. And, apparently, two life stages with them.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-008",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202503300013/",
+      "sourceNote": "五月天 32 萬人爭 1,000 個座位；史上最難搶",
+      "tags": ["搶票", "機率", "厭世", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "32 萬人搶 1 千個座位。\n\n這不叫售票。\n這叫抽中華民國國民。",
+          "editorNote": "極端供需失衡是台灣演唱會的常態笑點。可拿來幫沒抽到的朋友合理化失敗",
+          "variations": [
+            "計算版：「中獎率 0.3%。比樂透低，比公職考試難，比真愛容易一點點。」"
+          ]
+        },
+        "en": {
+          "content": "320,000 people fighting over 1,000 seats.\n\nThat's not a ticket sale.\nThat's a national lottery with worse odds.",
+          "editorNote": "Pure odds humor — works for any oversubscribed show. Helps a friend reframe missing out as statistical inevitability",
+          "variations": [
+            "Math version: 'Hit rate: 0.3%. Worse than the lottery, harder than the bar exam, slightly easier than true love.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-009",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.threads.com/@hsh.waierullrich",
+      "sourceNote": "Threads 「厭世上班族」搶票請假文化",
+      "tags": ["請假", "演唱會", "厭世", "上班"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了演唱會，\n我請了三天假。\n\n主管問我去哪。\n我說我去進修。\n\n進修怎麼當人。",
+          "editorNote": "演唱會跟工作衝突是上班族的長年痛點。傳給也在請假的朋友最有共鳴",
+          "variations": [
+            "委婉版：「進修內容：聲音與情緒管理現場實作課。為期一晚。學費 5525。」"
+          ]
+        },
+        "en": {
+          "content": "Took three days off for the show.\n\nBoss asked why.\nI said: professional development.\n\nThe development is learning how to feel alive again.",
+          "editorNote": "Concert PTO is a real corporate negotiation. Send to a friend who also just lied to their manager",
+          "variations": [
+            "Polished version: 'Course title: Live Vocal & Emotional Regulation Practicum. Duration: one night. Tuition: $175.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-010",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://girlstyle.com/tw/article/541832/",
+      "sourceNote": "五月天〈離開地球表面〉經典曲目；搶不到票的雙重意義梗",
+      "tags": ["抽不到", "五月天", "厭世", "歌單"],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒抽到票的當下，\n我把〈離開地球表面〉放成循環。\n\n主要是想跟著一起離開。",
+          "editorNote": "用偶像歌名玩雙關是粉絲圈最高級的自嘲。沒抽到票時傳給同樣失敗的朋友",
+          "variations": [
+            "升級版：「下一首是〈OAOA〉。OAOA 是我打開銀行 App 看完餘額的聲音。」"
+          ]
+        },
+        "en": {
+          "content": "Didn't get the ticket.\nPut their song 'Leaving Earth's Surface' on loop.\n\nYes, I'd also like to leave.",
+          "editorNote": "Song-title puns are top-tier fandom self-deprecation. Works for any band with a melodramatic catalog. Send to a fellow rejected fan",
+          "variations": [
+            "Upgrade: 'Next track: their breakup ballad. I'm not breaking up with a person, I'm breaking up with the queue.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-011",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://city.gvm.com.tw/article/121018",
+      "sourceNote": "五月天大巨蛋 5 大彩蛋：13 米巨型恐龍、巨幕舞台、巴士環場、炫映天幕、隱藏歌單",
+      "tags": ["大巨蛋", "彩蛋", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "場上有 13 米巨型恐龍。\n場下有 13 萬隻\n卡在拓元頁面上的小恐龍。\n\n我就是其中一隻。",
+          "editorNote": "把舞台彩蛋跟搶票災情做對比是粉絲圈最強自嘲格式。傳給五月天粉最有感",
+          "variations": [
+            "進階版：「他們的舞台是侏儸紀公園，我的螢幕是冰河時期。」"
+          ]
+        },
+        "en": {
+          "content": "A 13-meter dinosaur on the stage.\n130,000 tiny dinosaurs\nstuck loading the ticket page.\n\nI'm one of them.",
+          "editorNote": "Spectacle-on-stage vs. misery-at-home is the strongest fandom self-roast. Adapt the prop to whichever artist your friend stans",
+          "variations": [
+            "Escalated: 'Their stage is Jurassic Park. My browser is the Ice Age.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-012",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202503300013/",
+      "sourceNote": "5/23 五月天售票 + 5/31 報稅截止 + 月底領薪 三件事同週末 cluster",
+      "tags": ["月底", "報稅", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "五月底三件事：\n\n報稅、領薪、搶五月天。\n\n三件都讓我哭，\n但只有一件\n讓我願意再活到下個月。",
+          "editorNote": "5/23 + 5/31 + 月底三件事 cluster 是 2026 年 5 月底真實場景。adulting-quotes / workplace-quotes 粉可雙傳",
+          "variations": [
+            "排序版：「報稅是工作，領薪是補償，搶票是希望。希望最貴，活在最後。」"
+          ]
+        },
+        "en": {
+          "content": "End-of-May trinity:\n\nFile taxes. Wait for paycheck. Fight for tickets.\n\nThree reasons to cry.\nOne reason to live till June.",
+          "editorNote": "Cluster-of-deadlines humor — works any time tax season, payday, and a major sale collide. Pair with a screenshot of your three open browser tabs",
+          "variations": [
+            "Ranked: 'Taxes are duty. Paycheck is repayment. Tickets are hope. Hope costs the most and arrives last.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-013",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://vocus.cc/article/6197bd99fd897800015fa3bf",
+      "sourceNote": "拓元 11:00 開賣慣例；網友分享秒殺與重新整理慘案",
+      "tags": ["售票時間", "秒殺", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "11:00 開賣。\n\n10:55 我已經在點重新整理。\n11:00:01 票沒了。\n11:00:02 我的人生也是。",
+          "editorNote": "秒殺是台灣搶票最殘酷的兩秒。傳給剛剛在 11:00:01 看到「售完」的朋友",
+          "variations": [
+            "時間表版：「10:55 充滿希望。10:59 充滿焦慮。11:00 充滿失敗。11:01 充滿一個新的我。」"
+          ]
+        },
+        "en": {
+          "content": "Sale at 11:00.\n\nBy 10:55, I'm refreshing.\nBy 11:00:01, it's sold out.\nBy 11:00:02, so am I.",
+          "editorNote": "Two-second sellouts are the cruelest sale format. Send the moment after the 'sold out' page loads",
+          "variations": [
+            "Timeline version: '10:55 — hope. 10:59 — anxiety. 11:00 — defeat. 11:01 — a slightly worse version of me.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-014",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20250310inv002",
+      "sourceNote": "鏡週刊黃牛報導；實名制下黃牛仍以身分證生成器囤票",
+      "tags": ["黃牛", "查緝", "搶票", "正義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看到黃牛被檢警查緝的新聞。\n\n我哭了。\n\n終於有人替我把那 1,000 張票\n還給宇宙。",
+          "editorNote": "黃牛被抓的新聞是搶票失敗者的精神安慰劑。在新聞出來的當天傳最有感",
+          "variations": [
+            "感謝版：「謝謝你們把票還給宇宙。雖然我也沒搶到，但我至少跟宇宙站在同一邊。」"
+          ]
+        },
+        "en": {
+          "content": "News headline: scalpers arrested.\n\nI cried.\n\nSomeone finally returned\na thousand tickets to the universe.",
+          "editorNote": "Scalper-bust news is collective catharsis for everyone who didn't get in. Forward the article with this line as the caption",
+          "variations": [
+            "Gratitude version: 'Thanks for returning those tickets to the universe. I didn't get one either, but at least the universe and I are on the same team now.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-015",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.threads.com/@ws.bawige513",
+      "sourceNote": "Threads 搶票心得：朋友炫耀搶到 5200 與 5600 對比真實案例",
+      "tags": ["朋友", "炫耀", "羨慕", "搶票"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友抽到票。\n\n截圖傳給我。\n我截圖傳給銀行，\n\n問能不能用我的友情當擔保\n借一張票錢。",
+          "editorNote": "朋友報喜你傷口撒鹽，是搶票季最常見的友情考驗。傳給那個炫耀的朋友本人也行",
+          "variations": [
+            "升級版：「朋友傳座位視野圖過來。我傳了我帳戶的視野圖回去——一片空白。」"
+          ]
+        },
+        "en": {
+          "content": "Friend got the ticket.\n\nSent me the screenshot.\nI sent the screenshot to my bank,\n\nasking if friendship counts as collateral\nfor a small loan.",
+          "editorNote": "Friend-flexes-ticket is the classic salt-in-the-wound moment. Send it to the friend doing the flexing for plausible-deniability revenge",
+          "variations": [
+            "Upgrade: 'Friend sent me a photo of their seat view. I sent back a photo of my bank account's view — equally panoramic, fewer features.'"
+          ]
+        }
+      }
+    }
+  ]
+}
