@@ -3960,6 +3960,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-160",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.sohu.com/a/895491666_121124291",
+      "sourceNote": "廢話文學上班通勤主題重新創作",
+      "tags": ["廢話文學", "工作", "通勤", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "通勤研究發現：有去上班的人，通常人會在公司。\n\n沒去的，就不在。\n\n至於請假在家但是滿腦子工作的人，他們的身體在家，靈魂正在加班。",
+          "editorNote": "週一早上傳到同事群組，沒有人會反對你的論點，因為這完全是事實",
+          "variations": [
+            "捷運上有人的時候，車廂裡的人會比較多。沒有人的時候，剛好相反。",
+            "出門上班的第一步，就是要先出門。沒出門的，今天可能就到不了公司。"
+          ]
+        },
+        "en": {
+          "content": "Commute studies have confirmed: people who go to work are usually at the office.\n\nThose who don't go are not.\n\nAs for the ones who took the day off but can't stop thinking about work, their body is home and their soul is doing overtime.",
+          "editorNote": "Drop this in the team chat on Monday morning — nobody can argue, it's just facts",
+          "variations": [
+            "When there are people on the subway, the train is more crowded. When there aren't, it's the opposite.",
+            "Step one of going to work is leaving the house. Skip that step and you probably won't make it in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-161",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://sites.google.com/go.edu.tw/jie1113/%E9%A6%96%E9%A0%81/%E5%BB%A2%E8%A9%B1%E8%AA%9E%E9%8C%841",
+      "sourceNote": "廢話文學手機電量主題重新創作",
+      "tags": ["廢話文學", "科技", "手機", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師指出：手機有電的時候，可以使用；沒電的時候，使用上會比較困難。\n\n至於充電中的手機，目前正在充電。\n\n充飽之後，就變成有電的手機了。",
+          "editorNote": "傳給那個一直問「我手機怎麼變這麼慢」、結果發現只是電量剩 3% 的朋友",
+          "variations": [
+            "想延長手機電量的方法，就是不要用手機。不用的話，電量比較不會減少。",
+            "充電線插上去，手機才會充到電。沒插的話，目前還在原本的電量。"
+          ]
+        },
+        "en": {
+          "content": "Engineers point out: when a phone has battery, you can use it; when it doesn't, using it becomes considerably harder.\n\nAs for a phone that's charging, it is currently charging.\n\nOnce fully charged, it becomes a phone with battery.",
+          "editorNote": "Send to the friend constantly asking 'why is my phone so slow?' only to realize they're at 3% battery",
+          "variations": [
+            "The best way to extend your phone's battery is to not use it. Not using it tends to keep the battery from dropping.",
+            "Plugging in the charger is what makes the phone charge. Without that, it remains at its current battery level."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-162",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "廢話文學購物網購主題重新創作",
+      "tags": ["廢話文學", "購物", "網購", "金錢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "消費行為專家表示：有買東西的人，戶頭裡通常會少一些錢。\n\n沒買的，數字會比較穩定。\n\n至於那些「只是看看」結果結帳的人，他們確實看了，後來也買了。",
+          "editorNote": "雙十一隔天早上傳給整夜在搶優惠的朋友，他會在收件匣裡安靜地接受這個事實",
+          "variations": [
+            "加入購物車的東西，要按結帳才會變成你的。沒按的話，目前還是別人家的庫存。",
+            "免運門檻達到的方法，就是再多買一點。多買的，剛好就過了門檻。"
+          ]
+        },
+        "en": {
+          "content": "Consumer behavior experts confirm: people who buy things usually have less money in their accounts.\n\nThose who don't buy keep more stable numbers.\n\nAs for those who 'just wanted to look' and ended up checking out — they did look, and they did buy.",
+          "editorNote": "Send this to a friend the morning after a midnight sale — they'll quietly accept the truth from inside their inbox of order confirmations",
+          "variations": [
+            "Items in your cart only become yours after checkout. Without checkout, they remain someone else's inventory.",
+            "The way to hit free-shipping threshold is to buy more. Buying more is exactly what gets you over the threshold."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-163",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://wiki.mbalib.com/zh-tw/%E5%BA%9F%E8%AF%9D%E6%96%87%E5%AD%A6",
+      "sourceNote": "廢話文學記憶遺忘主題重新創作",
+      "tags": ["廢話文學", "記憶", "遺忘", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "心理學家發現：記得的事情，目前還記得；忘記的事情，已經想不起來了。\n\n至於那些「我好像記得，但又有點忘了」的事情，它們正處於記得和忘記之間。\n\n等想起來的時候，就回到了記得的那一邊。",
+          "editorNote": "傳給那個進廚房之後忘記自己是來幹嘛的朋友，他會站在原地三秒鐘消化這段話",
+          "variations": [
+            "想記住一件事的方法，就是不要忘記。忘記的話，就需要重新記一次。",
+            "回憶起來的事，原本就記得，只是剛剛沒想到而已。"
+          ]
+        },
+        "en": {
+          "content": "Psychologists have found: things you remember, you currently remember; things you've forgotten, you can no longer recall.\n\nAs for the 'I think I remember but kind of forgot' category, they exist somewhere between remembered and forgotten.\n\nThe moment they come back, they return to the remembered side.",
+          "editorNote": "Send to the friend who walks into the kitchen and immediately forgets why — they'll stand still for three seconds processing this",
+          "variations": [
+            "The way to remember something is to not forget it. Forgetting it means you'll have to memorize it again.",
+            "Things you suddenly recall were already remembered — you just hadn't thought of them yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-164",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學週末假日主題重新創作",
+      "tags": ["廢話文學", "週末", "假日", "時間"],
+      "i18n": {
+        "zh-tw": {
+          "content": "行事曆研究指出：週末過完之後，下週就要開始了。\n\n還沒過完的話，目前還在週末。\n\n至於那種「週末感覺一下就沒了」的人，他們的週末，跟其他人一樣是兩天，只是過得比較快。",
+          "editorNote": "週日晚上九點傳給朋友，沒有任何安慰效果，但他會跟你一起靜靜地接受明天就是禮拜一",
+          "variations": [
+            "禮拜五下班之後，就是週末了。還沒下班的話，目前還在禮拜五。",
+            "放假的時候不用上班；不放假的時候，那就要上班。"
+          ]
+        },
+        "en": {
+          "content": "Calendar studies indicate: once the weekend ends, next week begins.\n\nIf it hasn't ended, you're still in the weekend.\n\nAs for those who feel like 'the weekend disappeared instantly,' their weekend is the same two days as everyone else's — it just went by faster.",
+          "editorNote": "Send to a friend at 9pm Sunday — offers zero comfort, but you'll both quietly accept that tomorrow is Monday together",
+          "variations": [
+            "Once Friday work ends, the weekend begins. If you haven't clocked out, it's still Friday.",
+            "On days off, you don't work; on days that aren't off, you do."
+          ]
+        }
+      }
     }
   ]
 }

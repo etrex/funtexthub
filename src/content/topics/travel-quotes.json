@@ -1549,6 +1549,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-064",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.throughstrangelenses.com/funny-travel-quotes/",
+      "sourceNote": "「hotel looks nothing like the photos」 經典 frame，加台灣訂房網語感改寫",
+      "tags": ["旅行", "飯店", "搞笑", "踩雷", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "訂房網的照片，\n是攝影師的作品。\n\n實際的房間，\n是命運的作品。",
+          "editorNote": "適合 Threads 抱怨訂房踩雷的廢文、IG 限動配「實際 vs 期待」對比圖、跟朋友抱怨爛飯店時的開場白——把訂房 gamble 寫得很有哲學味",
+          "variations": [
+            "Booking.com 的廣角鏡頭，是我這輩子看過最有想像力的文學作品。",
+            "飯店照片騙人不犯法，因為那已經算是再創作了。"
+          ]
+        },
+        "en": {
+          "content": "The photos on the booking site\nare the work of a photographer.\n\nThe room you actually get\nis the work of fate.",
+          "editorNote": "Lands as a Threads rant after a hotel disappointment, an IG side-by-side of 'expectation vs. reality,' or the opening line when you're telling friends about your worst stay",
+          "variations": [
+            "The wide-angle lens used on hotel listings is the most creative writing I've ever seen.",
+            "Hotel photos aren't lies. They're just an artistic interpretation of the truth."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-065",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://quotesontravel.net/solo-travel/50-funny-solo-travel-quotes/",
+      "sourceNote": "「solo dining 練習表情」frame，原創改寫加台灣一人食 context",
+      "tags": ["旅行", "獨旅", "搞笑", "餐廳", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個人旅行最難的，\n不是訂房，\n不是迷路，\n是進餐廳的時候\n要練習\n「我一個人吃飯\n也很自在」\n的表情。",
+          "editorNote": "適合獨旅 IG 餐桌照 caption、Threads 一人食廢文、或回應「你一個人旅行不會無聊嗎」的標準答案；把獨旅的微小尷尬寫到位",
+          "variations": [
+            "一個人吃飯不孤單，孤單的是手機沒電還沒拍到食物。",
+            "獨旅最大的成就，是學會在沒人對話的桌子上把整套套餐吃完。"
+          ]
+        },
+        "en": {
+          "content": "The hardest part of solo travel\nisn't booking the room,\nor finding your way.\n\nIt's walking into a restaurant\nand practicing the face\nthat says,\n'I'm totally fine\neating alone.'",
+          "editorNote": "Pairs with a solo-dinner IG shot, a Threads post about one-person tables, or the comeback when someone asks if you get lonely traveling alone — captures the tiny awkwardness no one talks about",
+          "variations": [
+            "Eating alone isn't lonely. What's lonely is your phone dying before you can photograph the food.",
+            "The real solo-travel milestone is finishing a three-course meal without anyone to talk to."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-066",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://aigift.alibaba.com/quotes/funny-quotes-on-vacation",
+      "sourceNote": "飯店早餐自助 buffet 的暴食 frame，原創改寫",
+      "tags": ["旅行", "飯店", "早餐", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "飯店早餐不是一頓飯，\n是一場\n你要在十一點前\n把房錢吃回來\n的限時挑戰。",
+          "editorNote": "適合 IG 配早餐 buffet 戰利品照、Threads 抱怨吃太飽走不動的廢文、跟旅伴互相打氣「再吃一盤」的標準理由——把住宿成本回收寫得像比賽",
+          "variations": [
+            "我不是貪心，我是負責任地把含早餐的房價吃完。",
+            "飯店早餐的存在意義，是讓你中午根本不會餓，午餐預算自動省下來。"
+          ]
+        },
+        "en": {
+          "content": "Hotel breakfast isn't a meal.\n\nIt's a timed challenge\nto eat back\nthe cost of the room\nbefore 11 a.m.",
+          "editorNote": "For the buffet-plate IG, the Threads post about being too full to move, or the standard 'just one more plate' rallying cry to your travel buddy — reframes overeating as fiscal responsibility",
+          "variations": [
+            "I'm not greedy. I'm just being responsible about the 'breakfast included' clause.",
+            "The point of hotel breakfast is to make lunch financially unnecessary."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-067",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://passporttoeden.com/funny-travel-quotes/",
+      "sourceNote": "「lost luggage」+ 命運 frame，重新組合改寫",
+      "tags": ["旅行", "行李", "搞笑", "機場", "倒楣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的行李這次去了\n一個我這輩子都不會去的城市，\n吃了\n我這輩子吃不到的早餐，\n然後\n比我晚三天\n才回家。",
+          "editorNote": "適合行李遺失抱怨的 Threads 廢文、IG 限動配空蕩蕩行李轉盤照、跟朋友炫耀「我行李去了比我多」的金句——把倒楣寫得有種羨慕感",
+          "variations": [
+            "我的行李這趟旅行比我還精彩，回來時還帶了三張標籤。",
+            "搞丟行李最痛的不是沒衣服穿，是想到它在沒有你的航班上看了夕陽。"
+          ]
+        },
+        "en": {
+          "content": "My luggage went\nto a city I'll never visit,\nate a breakfast\nI'll never try,\nand came home\nthree days\nafter I did.",
+          "editorNote": "Drops well as a Threads rant about lost bags, an IG story under an empty baggage carousel shot, or the line you use to one-up friends' travel stories — makes bad luck sound almost enviable",
+          "variations": [
+            "My suitcase had a better trip than I did and came back with three new airline tags to prove it.",
+            "The worst part of lost luggage isn't the missing clothes. It's knowing your bag saw a sunset without you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-068",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.solofemaletravelers.club/funny-travel-quotes/",
+      "sourceNote": "「找路回飯店」 frame，原創改寫加 Google Maps 語境",
+      "tags": ["旅行", "迷路", "Google Maps", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "出國旅行的真正目的，\n不是看世界，\n是每天傍晚\n跟 Google Maps\n吵架五十分鐘\n還是找不到\n飯店在哪一條巷子。",
+          "editorNote": "適合 Threads 迷路廢文、IG 限動配巷弄歪斜照、跟旅伴互相怪罪導航的對話金句——把迷路寫成旅行的核心活動，誰看了都心有戚戚焉",
+          "variations": [
+            "Google Maps 在國外的功能，是讓你優雅地走錯路。",
+            "我這趟旅行最大的進步，是學會用三種語言問路然後還是聽不懂。"
+          ]
+        },
+        "en": {
+          "content": "The real purpose of travel\nisn't to see the world.\n\nIt's to argue with Google Maps\nfor fifty minutes every evening\nand still not know\nwhich alley\nthe hotel is on.",
+          "editorNote": "For the Threads 'lost again' post, the IG story under a crooked-alley shot, or the running joke with your travel buddy about whose turn it is to blame the GPS — makes getting lost feel like the whole point",
+          "variations": [
+            "Google Maps abroad: a tool for getting elegantly lost.",
+            "My biggest takeaway from this trip is learning to ask for directions in three languages and still not understanding the answer."
+          ]
+        }
+      }
     }
   ]
 }

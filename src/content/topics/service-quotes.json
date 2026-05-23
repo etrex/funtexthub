@@ -1928,6 +1928,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-082",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://zhelu.tw/post/terrible-customer",
+      "sourceNote": "Inspired by 喆律法律事務所 article on customer recording/filming staff as a power-play tactic — rewritten as a phone-pointed-at-face scene from a Dcard 心情板 trope",
+      "tags": ["服務業", "奧客", "客訴", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人把手機鏡頭對著我：\n「我在錄影喔，你最好注意你的態度。」\n我：「好的，那請問您今天還需要什麼服務嗎？」\n（內心：我笑得這麼標準，您要不要也錄一下自己的臉？）",
+          "editorNote": "現在的奧客不帶武器，帶手機。傳給最近被「我在錄影」威脅過的同事——記住，鏡頭兩端都會被錄下來，包括他自己的下巴角度。",
+          "variations": [
+            "「我在錄影喔」是新時代奧客的開場白，相當於以前的「你叫什麼名字」。",
+            "客人錄影是想留證據，沒想到留下的是自己崩潰的全臉特寫。"
+          ]
+        },
+        "en": {
+          "content": "Customer points phone camera at me:\n\"I'm recording. Watch your attitude.\"\nMe: \"Understood. Is there anything else I can help you with today?\"\n(Inside: My smile is textbook-perfect. Want to record your own face too?)",
+          "editorNote": "Modern difficult customers don't bring weapons. They bring phones. Send this to a coworker who got the \"I'm recording\" threat this week — remember, the camera catches both ends, including his unflattering chin angle.",
+          "variations": [
+            "\"I'm recording\" is the new opening line for difficult customers — the modern equivalent of \"what's your name.\"",
+            "The customer hits record to capture evidence and ends up with a close-up of their own meltdown."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-083",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.youtube.com/watch?v=U48Inqxnaa8",
+      "sourceNote": "Inspired by Dcard 調查局 「沒人想做服務業」 video — rewritten as a monthly-pay vs. abuse-received accounting metaphor, original phrasing",
+      "tags": ["服務業", "薪水", "厭世", "工作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "薪水單：本月 32,000。\n奧客單：本月遇到 47 位。\n換算：每位奧客約 680 元。\n結論：這份薪水其實是賠償金，不是工資。",
+          "editorNote": "把薪水拆開成「真正的工資」和「精神損失費」之後，會發現自己其實沒在領薪水，是在領和解金。傳給那位月底發薪當天還在被奧客罵的朋友。",
+          "variations": [
+            "服務業的薪水有兩種計算單位：一種是新台幣，一種是被罵的次數。",
+            "說「服務業薪水太低」的人，可能還沒換算成「每句髒話的單價」。"
+          ]
+        },
+        "en": {
+          "content": "Paycheck this month: $1,000.\nDifficult customers this month: 47.\nMath: about $21 per meltdown.\nConclusion: this isn't a salary. It's settlement money.",
+          "editorNote": "Once you split your paycheck into \"actual wage\" and \"emotional damages,\" you realize you're not earning a salary — you're collecting hush money. Send to a friend who got yelled at on payday itself.",
+          "variations": [
+            "Service-industry pay comes in two units: dollars, and number of times you got yelled at.",
+            "People who say service-industry pay is low haven't done the math on cost-per-curse-word."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-084",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.518.com.tw/article/1564",
+      "sourceNote": "Inspired by 518 職場熊報 article on turning difficult customers into regulars — flipped as a cynical observation about how 'regular customer' status often means 'familiar tormentor', original framing",
+      "tags": ["服務業", "奧客", "餐飲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "店長：「你已經把那位奧客變成熟客了，做得很好。」\n我：「謝謝店長，但他現在是每週固定來罵我的熟客。」\n店長：「⋯⋯所以業績有成長啦。」",
+          "editorNote": "把奧客變熟客是教科書的成就，把奧客變成「固定排程裡的精神攻擊來源」是現實。傳給那位被「忠實顧客」追了一整年的同事。",
+          "variations": [
+            "奧客變熟客不是進步，是把一次性的傷害變成訂閱制。",
+            "「他是我們的老顧客」這句話翻譯成中文是：「他罵過我們最多次。」"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"You turned that difficult customer into a regular. Great job.\"\nMe: \"Thanks, but he's now the regular who yells at me weekly.\"\nManager: \"...so sales are up, right?\"",
+          "editorNote": "Turning a difficult customer into a regular is a textbook win. Turning them into a recurring scheduled emotional event is the reality. Send to a coworker who's been stalked by a \"loyal customer\" for a year.",
+          "variations": [
+            "Turning a difficult customer into a regular isn't growth. It's converting a one-time injury into a subscription.",
+            "\"He's one of our regulars\" translates to \"he's yelled at us the most times.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-085",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1718799330.A.D78.html",
+      "sourceNote": "Inspired by PTT WomenTalk thread on F&B 學長學弟制 — rewritten as an internal-pecking-order observation about new hires absorbing all the abuse, original phrasing",
+      "tags": ["服務業", "餐飲", "工作", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人第一天上班：「學姐，這桌客人罵我。」\n學姐：「沒事，第一個月先讓客人罵，第二個月開始換被店長罵。」\n新人：「那第三個月呢？」\n學姐：「第三個月，你就會自己罵自己了。」",
+          "editorNote": "餐飲業的入行進度條：客人 → 店長 → 自己。傳給剛上工不到一個月、還沒搞清楚自己被罵的順序的新同事。",
+          "variations": [
+            "服務業的職涯規劃，是把被罵的對象從外人換成自己。",
+            "做久了會發現，最兇的奧客其實住在自己腦袋裡。"
+          ]
+        },
+        "en": {
+          "content": "New hire, day one: \"Senior, that table just yelled at me.\"\nSenior: \"It's fine. Month one, customers yell at you. Month two, the manager yells at you.\"\nNew hire: \"And month three?\"\nSenior: \"Month three, you yell at yourself.\"",
+          "editorNote": "F&B career progression: customers, then manager, then you. Send to the new hire who hasn't yet figured out the order in which they'll be yelled at.",
+          "variations": [
+            "Service-industry career planning means swapping out who yells at you — from strangers, to your boss, to yourself.",
+            "Do this long enough and you realize the worst difficult customer lives inside your own head."
+          ]
+        }
+      }
     }
   ]
 }

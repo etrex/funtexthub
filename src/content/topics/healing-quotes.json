@@ -3158,6 +3158,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-130",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.healgoodcounseling.com/blog/mentalhealthawarenessmonth2026",
+      "sourceNote": "Inspired by 2026 Mental Health Awareness Month gentle reminders; rewritten on healing being non-linear",
+      "tags": ["療癒", "復原", "心靈", "溫柔"],
+      "i18n": {
+        "zh-tw": {
+          "content": "復原不是一條直線。\n你可以今天好一點，明天又退回原地，\n然後後天再重新開始一次。\n這不叫退步，這叫人。",
+          "editorNote": "覺得自己「明明上週狀態還不錯，怎麼今天又掉下去」的人最需要這句。心理的復原本來就會反覆，不是 RPG 經驗值只進不退。傳給最近狀態起起伏伏、然後自責的朋友。",
+          "variations": [
+            "走兩步退一步，最後還是往前走了一步。",
+            "你不是回到原點，你只是又繞了一圈，這次熟悉路了。"
+          ]
+        },
+        "en": {
+          "content": "Healing isn't a straight line.\nYou can feel okay today, slide back tomorrow,\nand start over the day after.\nThat's not regression. That's being human.",
+          "editorNote": "For anyone who keeps thinking 'I was fine last week, why am I back here?' Recovery loops — it's not an XP bar that only goes up. Send to a friend whose mood has been up and down and who's beating themselves up about it.",
+          "variations": [
+            "Two steps forward, one step back — still net forward.",
+            "You're not back at zero. You just walked the loop again, and this time you know the path."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-131",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://healingbrave.com/blogs/all/quotes-about-rest-give-yourself-a-break",
+      "sourceNote": "Inspired by healingbrave.com 'quotes about rest'; rewritten on permission to do less today",
+      "tags": ["療癒", "休息", "自我照顧", "允許"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天可以小小的、誠實的、夠用就好。\n不用很厲害，不用感人，\n撐過今天本身就是一件事。",
+          "editorNote": "給總是覺得「今天好像沒做什麼」就有罪惡感的人。生產力不是人的全部，活著本來就在消耗能量，撐過低潮的日子比衝刺的日子更耗電。傳給那種週末躺一天就會內疚的朋友。",
+          "variations": [
+            "今天的標準可以低一點，明天再說。",
+            "什麼都沒做的一天也是你的一天，不用補償誰。"
+          ]
+        },
+        "en": {
+          "content": "Today can be small, honest, and just enough.\nIt doesn't have to be impressive or meaningful —\ngetting through it is the thing.",
+          "editorNote": "For people who feel guilty when they 'didn't do much' today. Productivity isn't your whole identity, and staying afloat on a hard day costs more energy than a sprint day. Send to the friend who can't lie on the couch for one weekend without guilt-spiraling.",
+          "variations": [
+            "Lower the bar today. Tomorrow is its own day.",
+            "A day where you did nothing is still yours. You don't owe anyone a productive version of it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-132",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://vocus.cc/article/69f14f06fd897800010e8e55",
+      "sourceNote": "Inspired by vocus.cc '《療癒，從感受情緒開始》'; rewritten on emotions as messengers not problems",
+      "tags": ["療癒", "情緒", "接受自己", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "情緒不是來找你麻煩的，\n它是來告訴你：\n有個地方需要被你看見了。",
+          "editorNote": "對那種一有負面情緒就想趕快壓下去、覺得自己不該這樣的人。情緒像門鈴，響了表示有事，硬是不開門，它只會按得更大聲。傳給最近一直壓抑自己、然後爆炸的朋友，或自己也讀一讀。",
+          "variations": [
+            "難過、生氣、不安，這些都不是病，是訊號。",
+            "你不用打敗情緒，只要聽聽它想說什麼。"
+          ]
+        },
+        "en": {
+          "content": "Feelings aren't here to mess with you.\nThey're here to tell you:\nsomething inside needs your attention.",
+          "editorNote": "For people who try to shut down any negative feeling the moment it shows up. Emotions are like a doorbell — if you don't answer, it just rings louder. Send to a friend who's been bottling things up until it bursts out, or read it for yourself.",
+          "variations": [
+            "Sadness, anger, anxiety — these aren't malfunctions. They're signals.",
+            "You don't have to defeat your feelings. Just listen to what they're trying to say."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-133",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://mentalhealthcenterkids.com/blogs/articles/mental-health-quotes",
+      "sourceNote": "Inspired by 2026 Mental Health Center Kids 'uplifting quotes'; rewritten on being enough as you are",
+      "tags": ["療癒", "自我價值", "接受自己", "溫柔"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不用變得更好才值得被愛。\n你現在這個樣子，已經夠了。\n那些要你「再進步一點」才願意靠近的人，\n本來就不是要陪你的人。",
+          "editorNote": "給那種一直覺得「等我瘦下來」「等我升職」「等我變得更成熟」才敢被人看見的朋友。值得這件事不是你賺來的，是你本來就有的。傳給總是在自我改造、然後忘了喘氣的朋友。",
+          "variations": [
+            "你不是還沒達標的版本，你就是完整的人。",
+            "等你變更好才愛你的，那是條件，不是愛。"
+          ]
+        },
+        "en": {
+          "content": "You don't have to become better to deserve love.\nThe version of you right now is already enough.\nAnyone who's waiting for you to 'improve' before they show up\nwas never going to stay anyway.",
+          "editorNote": "For the friend who keeps saying 'once I lose the weight' / 'once I get the promotion' / 'once I'm more put together' before they'll let anyone close. Worthiness isn't something you earn — it came with you. Send to the friend who's always renovating themselves and forgetting to breathe.",
+          "variations": [
+            "You're not a draft waiting to be approved. You're a whole person already.",
+            "Love that arrives only after you've 'fixed' yourself isn't love — it's a condition."
+          ]
+        }
+      }
     }
   ]
 }

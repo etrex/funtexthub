@@ -1377,6 +1377,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-057",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "Dcard 考試板 讀書計畫 vs 實際執行 register — 完美計畫表第一天就崩潰",
+      "tags": ["考試", "讀書計畫", "拖延", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我做了一張超漂亮的讀書計畫表，\n用三種顏色的螢光筆畫得像藝術品。\n第一天的進度是：把計畫表貼在牆上。\n達標。\n第二天的進度是：欣賞昨天貼的計畫表。\n也達標。\n讀書計畫，我是一張都沒漏掉。",
+          "editorNote": "貼一張自己精心做的計畫表照片，下面配這段，準時收割「我也是」一排留言。",
+          "variations": [
+            "可以加：「我規劃讀書的時間，比讀書本身還多。」",
+            "也能換：「畫計畫表是我這學期唯一沒拖延的事。」"
+          ]
+        },
+        "en": {
+          "content": "I made a gorgeous study plan.\nThree highlighter colors, looks like a museum piece.\nDay one's task: tape the plan to the wall.\nDone.\nDay two's task: admire yesterday's plan.\nAlso done.\nI haven't missed a single day of my study plan.",
+          "editorNote": "Post a photo of your color-coded planner, caption it with this, and watch the 'literally me' replies roll in.",
+          "variations": [
+            "Add: \"I spend more time planning to study than actually studying.\"",
+            "Try: \"Making the planner is the only thing I haven't procrastinated on this semester.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-058",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.dcard.tw/f/whysoserious",
+      "sourceNote": "Dcard 廢文板 考前才開始整理桌面 register — 拖延心理學 frame",
+      "tags": ["考試", "拖延", "整理", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考前一週，我突然發現：\n房間好亂、書桌好髒、抽屜好像也該整理了。\n我這輩子最熱愛打掃的時刻，\n就是有別的事情該做的時候。\n我不是在逃避，我是在創造一個可以好好讀書的環境，謝謝。",
+          "editorNote": "考前莫名其妙開始大掃除的人懂，發限動配張剛擦完的桌面照片簡直完美。",
+          "variations": [
+            "可以加：「整理完房間我才想起來，考試明天。」",
+            "也能換：「我的拖延等級已經進化到會偽裝成自律。」"
+          ]
+        },
+        "en": {
+          "content": "Week before the exam, I suddenly noticed:\nthe room is messy, the desk is filthy, the drawers need sorting.\nThe one time in my life I love cleaning\nis when I have something else I should be doing.\nI'm not avoiding studying. I'm creating an environment conducive to studying. Thanks.",
+          "editorNote": "For anyone who's deep-cleaned their room the night before a final — pair with a freshly wiped desk pic.",
+          "variations": [
+            "Add: \"Finished cleaning, then remembered the exam is tomorrow.\"",
+            "Try: \"My procrastination has evolved. It now disguises itself as discipline.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-059",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.ptt.cc/bbs/SENIORHIGH/index.html",
+      "sourceNote": "PTT 高中板 考完出考場 家長盤問 register — 家庭審訊 frame",
+      "tags": ["考試", "家長", "考完出考場", "自嘲", "對話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "走出考場第一句話，\n媽：「考得怎樣？」\n我：「還好。」\n媽：「還好是多好？」\n我：「不知道。」\n媽：「不知道是不是不好？」\n我：「⋯⋯我可以先吃個飯嗎？」\n考試考完了，但人生的第二場才剛開始。",
+          "editorNote": "考完從校門口走出來那段路根本是地獄門，朋友傳這段秒共鳴。",
+          "variations": [
+            "可以加：「我以為考完是解脫，原來只是換到下一個考官。」",
+            "也能換：「考卷不會追問細節，媽媽會。」"
+          ]
+        },
+        "en": {
+          "content": "First sentence after walking out of the exam:\nMom: \"How'd it go?\"\nMe: \"Okay.\"\nMom: \"Okay how okay?\"\nMe: \"I don't know.\"\nMom: \"Does 'don't know' mean 'not good'?\"\nMe: \"...Can I eat first?\"\nThe exam is over. Round two of life is just beginning.",
+          "editorNote": "The walk from the exam hall to the parent waiting outside is its own final boss. Send to the group chat for instant kinship.",
+          "variations": [
+            "Add: \"Thought finishing the exam was freedom. Turns out I just moved to the next examiner.\"",
+            "Try: \"The test doesn't follow up. Mom does.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-060",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.flick.social/captions/funny-instagram-captions-about-finals",
+      "sourceNote": "考前查 ChatGPT 解題 register — AI 比我聰明 frame",
+      "tags": ["考試", "ChatGPT", "AI", "自嘲", "求助"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考前複習，我把不會的題目都丟給 ChatGPT。\nChatGPT 解得清清楚楚，我看完還是不會。\n結論：知識存在這個世界上，\n只是它不存在我的腦袋裡。\nAI 救得了題目，救不了我。",
+          "editorNote": "考前夜熬夜抱 ChatGPT 的人都中槍，配張手機螢幕亮著的桌面照氣氛剛好。",
+          "variations": [
+            "可以加：「ChatGPT 是我的家教，但學費是我自己的學分。」",
+            "也能換：「我問 AI 一百題，AI 答對一百題，我考試還是零分。」"
+          ]
+        },
+        "en": {
+          "content": "Pre-exam review: I dumped every question I couldn't solve into ChatGPT.\nChatGPT explained it perfectly. I still didn't get it.\nConclusion: the knowledge exists in this world.\nIt just doesn't exist in my head.\nAI can save the question. It can't save me.",
+          "editorNote": "For the all-nighter crowd cuddling ChatGPT at 2 a.m. — pair with a glowing-screen-in-the-dark photo.",
+          "variations": [
+            "Add: \"ChatGPT is my tutor. Tuition is paid in my own GPA.\"",
+            "Try: \"Asked AI a hundred questions. AI got a hundred right. I still bombed the test.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-061",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "Dcard 考試板 考試廁所偷哭 register — 廁所避難所 frame",
+      "tags": ["考試", "廁所", "崩潰", "自嘲", "求生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試考到一半，我舉手說我要去廁所。\n不是真的想上廁所，\n是想去一個沒有題目盯著我看的地方喘口氣。\n廁所是我這個考場唯一的避難所，\n也是少數沒有人會問我「會不會寫」的地方。",
+          "editorNote": "考到一半心理快斷線的考生秘密都懂，貼這段在限動配張洗手台照片很有戲。",
+          "variations": [
+            "可以加：「我洗了三次手，順便洗一下對人生的信心。」",
+            "也能換：「考場外的世界，從廁所那扇門開始。」"
+          ]
+        },
+        "en": {
+          "content": "Halfway through the exam, I raised my hand to go to the bathroom.\nNot because I needed to go.\nI just needed a place where the questions weren't staring at me.\nThe bathroom is the only sanctuary in this exam hall,\nand one of the few places that doesn't ask if I know the answer.",
+          "editorNote": "Every student who's escaped to the sink mid-exam knows. Caption a bathroom mirror pic for full effect.",
+          "variations": [
+            "Add: \"Washed my hands three times. Tried to wash my confidence back at the same time.\"",
+            "Try: \"The outside world begins at the bathroom door.\""
+          ]
+        }
+      }
     }
   ]
 }

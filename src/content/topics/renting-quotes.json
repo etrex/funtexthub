@@ -1293,6 +1293,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-055",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E8%B3%83%E5%A5%91%E7%B4%84-%E6%96%B0%E5%88%B6/",
+      "sourceNote": "2026 租屋電費新制 一度5元爭議; rewritten original",
+      "tags": ["電費", "房東", "夏天", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東一度電收我六塊半。\n我問他依據是什麼，\n他說：「我家的電比較貴。」\n喔，原來你家的電是從喜馬拉雅山運下來的。",
+          "editorNote": "傳給每個夏天看到電費單就想哭的朋友，順便附上 2026 租屋電費新制連結，請房東照法規收費",
+          "variations": [
+            "夏天的電費比房租還貴，我現在開冷氣的勇氣，只夠我看一眼帳單就關掉。",
+            "房東說「電費實支實收」，後來才發現他指的是「實際支付，他實際收下」。"
+          ]
+        },
+        "en": {
+          "content": "My landlord charges me twenty cents per kilowatt-hour.\nI asked him for the basis.\nHe said: 'The electricity at my place is just more expensive.'\nOh — I didn't realize you imported yours from the Himalayas.",
+          "editorNote": "Send to friends who weep every summer at the power bill — attach the 2026 rental electricity rules and politely demand legal pricing",
+          "variations": [
+            "Summer power bills cost more than rent. The courage I need to turn on the AC barely lasts long enough to glance at the bill and shut it off.",
+            "Landlord said 'electricity is billed at cost.' Turns out the cost is whatever he says, and the billing is whatever I pay."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-056",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.dcard.tw/f/house/p/238246628",
+      "sourceNote": "Dcard 隔音差套房 register; rewritten original",
+      "tags": ["隔音", "套房", "鄰居", "崩潰"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的套房隔音很好。\n好到我能聽見隔壁吹頭髮、沖馬桶、跟女友吵架的全套劇情，\n還能聽見對面那間的男生跟我同步看完一整集八點檔。",
+          "editorNote": "傳給住在「電梯大樓但牆壁像紙糊」的朋友，順便提醒他下次看房記得敲牆壁",
+          "variations": [
+            "我跟隔壁鄰居沒講過話，但我知道他每天幾點起床、幾點上廁所、幾點分手。",
+            "房仲說的「隔音良好」，意思是聽得到聲音但聽不到內容——但我兩個都聽得到。"
+          ]
+        },
+        "en": {
+          "content": "My studio has excellent soundproofing.\nSo good I can hear the neighbor's hair dryer, toilet flush, and full-volume fight with his girlfriend,\nplus the guy across the hall watching the same drama episode in perfect sync with me.",
+          "editorNote": "Send to a friend in an 'elevator building' with paper walls — remind them to knock on the walls during the next viewing",
+          "variations": [
+            "I've never spoken to my neighbor, but I know exactly when he wakes up, when he uses the bathroom, and when he breaks up.",
+            "'Good soundproofing' is supposed to mean you hear sound but not words. In my place I get both."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-057",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://hk.centanet.com/info/property-news/%E5%B0%88%E6%AC%84/%E7%A7%9F%E5%8B%99%E8%B3%87%E8%A8%8A/%E7%A7%9F%E9%87%91%E5%8C%85%E5%94%94%E5%8C%85%E9%9B%9C%E8%B2%BB-%E6%B0%B4%E9%9B%BB%E7%85%A4-%E7%AE%A1%E7%90%86%E8%B2%BB-%E5%9C%B0%E7%A7%9F%E5%B7%AE%E9%A4%89%E4%BF%82%E9%82%8A%E5%80%8B%E8%B2%A0%E8%B2%AC%E4%BF%BE/163410",
+      "sourceNote": "二房東 包水電 register; rewritten original",
+      "tags": ["二房東", "合約", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為簽約對象是房東。\n後來才知道他是二房東，\n二房東上面還有大房東，\n大房東上面還有銀行，\n而我只是這條食物鏈最下面那個按時繳錢的浮游生物。",
+          "editorNote": "傳給簽約前沒問清楚對方身分的朋友，下次記得請對方出示房屋謄本或原始租約",
+          "variations": [
+            "二房東的工作就是：什麼都不做，每個月準時收我的錢，再分一點給大房東。",
+            "我以為我在租房子，後來才發現我是這間房子的第三手代理付款人。"
+          ]
+        },
+        "en": {
+          "content": "I thought I was signing with the landlord.\nThen I found out he was the sub-landlord,\nabove him was the real landlord,\nabove the real landlord was the bank,\nand I'm just the plankton at the bottom of this food chain, paying on time every month.",
+          "editorNote": "Send to anyone who signed without verifying the other side — next time, ask to see the deed or the original lease",
+          "variations": [
+            "A sub-landlord's full-time job: do nothing, collect my rent on time, then forward a slice to the real landlord.",
+            "I thought I was renting an apartment. Turns out I'm just the third-party autopay on someone else's mortgage."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-058",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E8%90%AC%E8%90%AC%E7%A8%85%EF%BC%8C%E7%A7%9F%E5%B1%8B%E6%97%8F%E8%88%87%E5%8C%85%E7%A7%9F%E5%85%AC%E7%AF%80%E7%A8%85%E5%85%A8%E6%94%BB%E7%95%A5/",
+      "sourceNote": "2026 租屋報稅 房東不給報 case; rewritten original",
+      "tags": ["報稅", "房東", "扣除額", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問房東能不能報稅，\n他說：「可以啊，但租金要漲。」\n我說那不用了，\n他說：「好，那合約上的金額也不要寫了。」",
+          "editorNote": "適合每年五月被房東威脅「報稅就漲租」的朋友抒發，順便提醒對方租金支出列舉扣除其實是你的權利",
+          "variations": [
+            "房東說可以報稅，前提是我假裝沒住在這裡。",
+            "報稅季的房東變得跟前任一樣神秘——你只要提到錢，他就不讀不回。"
+          ]
+        },
+        "en": {
+          "content": "I asked my landlord if I could claim the rent on my taxes.\nHe said, 'Sure — but the rent goes up.'\nI said never mind.\nHe said, 'Great, and let's not write that number on the lease either.'",
+          "editorNote": "Send to every friend who gets the annual May threat of 'claim it and I'll raise the rent' — gentle reminder that the rent deduction is legally yours",
+          "variations": [
+            "Landlord said I'm welcome to claim the rent, as long as I pretend I don't actually live here.",
+            "Come tax season, landlords get as mysterious as your ex — mention money once and they leave you on read."
+          ]
+        }
+      }
     }
   ]
 }

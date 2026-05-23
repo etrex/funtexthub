@@ -4731,6 +4731,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-164",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/thanks-copilot-8us6",
+      "sourceNote": "AI tab-completion overreach — rewritten as ticket review scene",
+      "tags": [
+        "AI",
+        "Copilot",
+        "vibe coding"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM 看著 PR 一臉茫然：「⋯⋯我只是請你加一個欄位驗證，你為什麼改了 156 個檔案？」\n\n工程師：「我只按了一下 Tab。」\n\nPM：「Tab？」\n\n工程師：「對，AI 自動補完。它幫我補了驗證、補了測試、補了一整套微服務架構、還順便重構了三年沒人敢碰的支付模組。」\n\nPM：「那能 merge 嗎？」\n\n工程師：「能跑。但我看不懂。AI 也看不懂。我們現在是一起在跟它祈禱不要出事。」",
+          "editorNote": "傳給每個剛把 Copilot 一鍵 accept all 的工程師，順便提醒他們明天要 on call。",
+          "variations": [
+            "現代工程師三大絕招：Ctrl+C、Ctrl+V、Tab。",
+            "Vibe coding 的定義：你寫了一行 comment，AI 寫了一個公司。"
+          ]
+        },
+        "en": {
+          "content": "The PM stares at the pull request, baffled: \"...I asked you to add one field validation. Why are there 156 files changed?\"\n\nDeveloper: \"I pressed Tab once.\"\n\nPM: \"Tab?\"\n\nDeveloper: \"Yeah. AI autocomplete. It added the validation, wrote the tests, designed a whole microservice architecture, and refactored the payment module nobody's touched in three years.\"\n\nPM: \"Can we merge it?\"\n\nDeveloper: \"It runs. I don't understand it. The AI doesn't understand it. We're all just praying together now.\"",
+          "editorNote": "Send to anyone who just slammed 'accept all' on Copilot suggestions. Bonus points if they're on call tomorrow.",
+          "variations": [
+            "A modern dev's three power moves: Ctrl+C, Ctrl+V, and Tab.",
+            "Vibe coding, defined: you wrote one comment, the AI wrote an entire company."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-165",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://alto9.com/2025/04/11/the-funniest-devops-and-developer-jokes-to-brighten-your-day/",
+      "sourceNote": "Friday deploy = Titanic — rewritten as boarding announcement",
+      "tags": [
+        "上線",
+        "週五",
+        "DevOps"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週五下午四點半，PM 走過來：「這個小改動很簡單，順手上一下線好不好？」\n\n工程師微笑點頭，打開 deploy 腳本，腦中響起鐵達尼號的主題曲。\n\n四點四十，部署完成。\n四點四十五，Slack 第一聲 ping。\n四點五十，PagerDuty 開始合唱。\n五點整，他坐在電腦前，看著火紅的 dashboard，輕輕哼著：「My heart will go on⋯⋯」\n\n他的週末，已經沉入北大西洋。",
+          "editorNote": "傳給那個還在考慮週五下午要不要上線的同事，附上一張鐵達尼的劇照。",
+          "variations": [
+            "週五上線就像登上鐵達尼號：一開始很興奮，結局你早就知道。",
+            "工程師最怕的三個字：『順手一下』。"
+          ]
+        },
+        "en": {
+          "content": "It's 4:30 PM on a Friday. The PM strolls over: \"It's a tiny change. Could you just push it real quick before you log off?\"\n\nThe developer smiles, nods, opens the deploy script. The Titanic theme starts playing in their head.\n\n4:40 PM — deploy complete.\n4:45 PM — first Slack ping.\n4:50 PM — PagerDuty joins the chorus.\n5:00 PM — they stare at a dashboard glowing crimson, softly humming, \"My heart will go on...\"\n\nTheir weekend is now somewhere at the bottom of the North Atlantic.",
+          "editorNote": "Forward to that coworker still debating a Friday afternoon push. Attach a still from the Titanic for emphasis.",
+          "variations": [
+            "Friday deploys are like boarding the Titanic: you start hopeful, you already know the ending.",
+            "The two scariest words in software: 'real quick.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-166",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.cloudzero.com/blog/devops-memes/",
+      "sourceNote": "Kubernetes cost savings paradox — rewritten as exec meeting",
+      "tags": [
+        "Kubernetes",
+        "DevOps",
+        "雲端成本"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "CTO 在會議上驕傲宣布：「我們導入 Kubernetes 之後，雲端成本省了 30%！」\n\n大家熱烈鼓掌。\n\n財務長舉手：「那為什麼今年人事成本暴漲？」\n\nCTO：「⋯⋯因為我們請了一個五人團隊來照顧 Kubernetes。」\n\n財務長：「五個人花多少？」\n\nCTO：「比省下來的雲端成本多 40%。但這不能算負債，這叫⋯⋯戰略投資。」\n\n會議室陷入沉默。只剩牆角那台 pod 默默 CrashLoopBackOff。",
+          "editorNote": "傳給所有正在『導入 K8s』的公司技術主管，他們會苦笑著轉發給財務。",
+          "variations": [
+            "Kubernetes 幫你省雲端費，然後幫你花在工程師薪水上。",
+            "K8s 真正的價值不是省錢，是創造了一個全新的職位來照顧它。"
+          ]
+        },
+        "en": {
+          "content": "The CTO proudly announces at the all-hands: \"Since adopting Kubernetes, we've cut cloud costs by 30%!\"\n\nApplause all around.\n\nThe CFO raises a hand: \"Then why did payroll spike this year?\"\n\nCTO: \"...Because we hired a five-person team to babysit Kubernetes.\"\n\nCFO: \"And what does that cost?\"\n\nCTO: \"About 40% more than what we saved on the cloud bill. But it's not a liability. It's a... strategic investment.\"\n\nThe room goes quiet. Somewhere in the corner, a pod softly enters CrashLoopBackOff.",
+          "editorNote": "Send to every tech lead currently 'migrating to K8s.' Watch them quietly forward it to finance.",
+          "variations": [
+            "Kubernetes saves you money on cloud, then spends it all on the people who run Kubernetes.",
+            "K8s didn't reduce costs. It just created a brand-new job category to absorb them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-167",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "Plane-coding wizard — rewritten as cabin observation",
+      "tags": [
+        "AI",
+        "離線",
+        "工程師人生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "飛機起飛後，鄰座的乘客打開筆電開始寫程式。\n\n沒有 Wi-Fi。沒有 Copilot。沒有 Stack Overflow。\n\n他只是一直打字。手指穩定、眼神堅定，偶爾翻一下旁邊的筆記本。\n\n我看了半個小時，終於忍不住問：「你⋯⋯怎麼辦到的？」\n\n他抬頭，平靜地說：「我入行的時候，網路還是用撥接的。」\n\n他低頭繼續寫。我默默把 ChatGPT 的分頁關掉，假裝自己也會。",
+          "editorNote": "傳給每個一斷網就不會寫程式的工程師，包括你自己。",
+          "variations": [
+            "在飛機上看到有人離線寫程式，就像在野外目擊獨角獸。",
+            "AI 時代工程師的最大恐懼：機艙廣播說『本班機不提供 Wi-Fi』。"
+          ]
+        },
+        "en": {
+          "content": "The plane takes off. The passenger next to me opens a laptop and starts coding.\n\nNo Wi-Fi. No Copilot. No Stack Overflow.\n\nThey just... keep typing. Steady fingers, focused eyes, occasionally flipping through a paper notebook.\n\nAfter thirty minutes I finally crack: \"How... how are you doing that?\"\n\nThey look up, completely calm: \"I started in this industry when the internet still made dial-up noises.\"\n\nThey go back to typing. I quietly close my ChatGPT tab and pretend I'm also fine.",
+          "editorNote": "Forward to any developer who can't write code without internet. That includes you.",
+          "variations": [
+            "Spotting someone code offline on a plane is like a cryptid sighting in the wild.",
+            "The modern dev's greatest fear: the captain announcing 'no Wi-Fi on this flight.'"
+          ]
+        }
+      }
     }
   ]
 }

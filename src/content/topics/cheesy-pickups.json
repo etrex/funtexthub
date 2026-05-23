@@ -4632,6 +4632,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-167",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.mababy.com/knowledge-detail?id=16523",
+      "sourceNote": "breathing/oxygen trope, dialogue-style cheesy line reworked",
+      "tags": [
+        "對話",
+        "諧音",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「呼～呼～你猜我在幹嘛？」\n「吹氣球？」\n「我在乎你啦。」",
+          "editorNote": "經典「呼氣＝在乎」諧音梗的對話進化版，加上「吹氣球」這種無厘頭回答讓對方一秒被打到，適合LINE上突然丟給對方，配合語音訊息殺傷力翻倍",
+          "variations": [
+            "你聽到了嗎？聽到什麼？我心跳的聲音，它一直在念你的名字",
+            "我吹給你，你接好。接什麼？接我這口在乎你的氣"
+          ]
+        },
+        "en": {
+          "content": "\"Huff... huff... guess what I'm doing?\"\n\"Blowing up a balloon?\"\n\"No — I'm just breathless over you.\"",
+          "editorNote": "Plays on 'huffing' as both literal breathing and being smitten. The absurd 'balloon' guess makes the reveal land harder. Drop this as a voice note for maximum cheesy damage.",
+          "variations": [
+            "Hear that? Hear what? My heartbeat — it's been spelling your name on loop.",
+            "Catch this. Catch what? The breath you just took away from me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-168",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://blog.accupass.com/chinese-valentines-day.html",
+      "sourceNote": "vegetarian/food pun trope, rewritten dialogue version",
+      "tags": [
+        "對話",
+        "食物",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我最近改吃素了。」\n「咦？為什麼突然改？」\n「因為你是我的菜，其他都不對味。」",
+          "editorNote": "把「你是我的菜」拆成對話鋪陳，前面假裝健康宣言、後面突然轉彎，飯局聚餐時拿來撩剛好，吃素族群也能改成自己的版本",
+          "variations": [
+            "我最近開始減肥了。為什麼？因為想多留點空間裝你",
+            "我最近戒糖。為什麼？因為遇到你之後，我的生活已經夠甜了"
+          ]
+        },
+        "en": {
+          "content": "\"I'm going vegetarian, by the way.\"\n\"Oh, since when?\"\n\"Since I figured out you're the only dish I want.\"",
+          "editorNote": "Fake health declaration plus a sudden food-pun pivot. Perfect for dinner-table flirting. Easy to adapt to keto, vegan, or whatever your crush is into.",
+          "variations": [
+            "I'm on a diet now. Why? Saving room for you.",
+            "I quit sugar last week. Why? Life's been sweet enough since I met you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-169",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://manmandays.com/cheesy-pickup-lines/",
+      "sourceNote": "alphabet-rearrange classic pickup line, rewritten as dialogue with Mandarin twist",
+      "tags": [
+        "對話",
+        "經典",
+        "巧妙"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你會注音嗎？」\n「會啊，怎樣？」\n「那幫我重新排一下，我想把『ㄋ』跟『ㄨ』排在一起。」",
+          "editorNote": "英文界經典『把U和I排在一起』的中文化版本，注音梗讓台灣人特別有共鳴，文具店、書局約會的時候用最自然，學生族群通殺",
+          "variations": [
+            "你會拼音嗎？會啊。那幫我把『你』跟『我』拼在一起，永遠不要拆開",
+            "倉頡輸入法你熟嗎？還行。那幫我打一個字，就是『你我』合體那種"
+          ]
+        },
+        "en": {
+          "content": "\"You good with the alphabet?\"\n\"Sure, why?\"\n\"Help me rearrange it — I just want U and I sitting next to each other.\"",
+          "editorNote": "Reworks the classic alphabet line into a dialogue setup. The casual 'why?' bait makes the cheesy payoff hit harder. Works in any text thread or casual chat.",
+          "variations": [
+            "You know spelling? Yeah. Then spell 'us' for me — leave no space in between.",
+            "You good with letters? I am. Cool, because I want to put U right after I, no commas, no breaks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-170",
+      "dateAdded": "2026-05-23",
+      "sourceUrl": "https://www.classpop.com/magazine/pick-up-lines",
+      "sourceNote": "map/getting-lost trope, freshly rewritten with conversational setup",
+      "tags": [
+        "對話",
+        "經典",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你身上有帶Google Map嗎？」\n「沒有耶，怎麼了？」\n「沒事，反正我已經在你眼睛裡迷路了，導航也救不了我。」",
+          "editorNote": "把舊版「你有地圖嗎」升級成Google Map更貼近生活，後半句「導航也救不了我」把無可救藥的喜歡感拉滿，路癡朋友拿來用特別有說服力",
+          "variations": [
+            "你有開定位嗎？沒有。難怪，我整顆心都找不到回去的路了",
+            "你會用Uber嗎？會啊。那能不能載我，從朋友載到男／女朋友那一站"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, do you have Google Maps on you?\"\n\"No, why?\"\n\"Nothing — I'm already lost in your eyes and GPS can't save me anyway.\"",
+          "editorNote": "Updates the dusty 'do you have a map' classic with a phone-era twist. The 'GPS can't save me' button adds self-aware cheesiness — works even better if you're known for being directionally challenged.",
+          "variations": [
+            "Is your location on? It's not. Figures — my heart can't find its way back either.",
+            "You good with Uber? Yeah. Can you book one for me? From 'just friends' to your place."
+          ]
+        }
+      }
     }
   ]
 }
