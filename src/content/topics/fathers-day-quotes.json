@@ -1,0 +1,292 @@
+{
+  "slug": "fathers-day-quotes",
+  "category": "Humor",
+  "i18n": {
+    "zh-tw": {
+      "title": "父親節爸爸語錄",
+      "description": "幽默又溫暖的爸爸金句合輯，適合父親節傳給老爸、寫進卡片，或在朋友面前互相吐槽"
+    },
+    "en": {
+      "title": "Father's Day Quotes",
+      "description": "Funny and heartfelt quotes about dads — perfect for Father's Day cards, group chats, or roasting your own father from a safe distance"
+    }
+  },
+  "items": [
+    {
+      "id": "fdq-001",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "ATM metaphor — research-log register family; original composition",
+      "tags": ["爸爸", "父親節", "提款機", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸是這個家最穩定的提款機。\n從不出錯，從不抗議，唯一的問題是：\n他只把錢吐給我媽。",
+          "editorNote": "父親節傳給老爸的安全笑點，幽默不傷人。也適合 LINE 群組家人轉發",
+          "variations": [
+            "爸爸的功能跟 ATM 一樣，差別在他要等媽媽輸入密碼才肯放錢"
+          ]
+        },
+        "en": {
+          "content": "My dad is the most reliable ATM in the family.\nAlways available, never declined.\nOnly issue is — withdrawals are routed directly to Mom.",
+          "editorNote": "A safe Father's Day card joke that lands without bite. Works in group chats too",
+          "variations": [
+            "Dad works like an ATM, except the PIN code is whatever Mom says it is"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-002",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Cold dad jokes / global warming hyperbole — research-log register family",
+      "tags": ["爸爸", "父親節", "冷笑話", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸的笑話有種神奇的力量——\n冷到我懷疑他一個人就能延緩全球暖化。\n地球該頒個獎給他。",
+          "editorNote": "適合爸爸自認很幽默的家庭，傳給他他會驕傲，傳給朋友他們會懂",
+          "variations": [
+            "我爸每講一個笑話，北極冰層就多一公分"
+          ]
+        },
+        "en": {
+          "content": "My dad's jokes have a strange superpower —\nthey're cold enough to single-handedly slow global warming.\nSomeone tell the UN.",
+          "editorNote": "Perfect for dads who think they're hilarious. They'll take it as a compliment and that's the joke",
+          "variations": [
+            "Every dad joke he tells, the Arctic ice cap grows another inch"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-003",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Hairline humor — research-log register family",
+      "tags": ["爸爸", "父親節", "髮際線", "歲月"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸的髮際線每年都在做退休規劃。\n他自己還沒準備好，頭髮已經先一步離職。\n父親節快樂，連同他失蹤的瀏海。",
+          "editorNote": "玩弄外型的笑話請看對象選用，跟爸爸感情夠好再傳。或內部朋友吐槽自己老爸",
+          "variations": [
+            "我爸最大的成就是把瀏海熬成了天靈蓋"
+          ]
+        },
+        "en": {
+          "content": "My dad's hairline has been quietly planning early retirement.\nHe's not ready, but his bangs left without notice.\nHappy Father's Day to him and his missing forehead real estate.",
+          "editorNote": "Light roast — best when the dad has a sense of humor about it. Test before sending",
+          "variations": [
+            "Dad's biggest achievement is upgrading his forehead to a skylight"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-004",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Raised me → raising grandchildren — research-log register family",
+      "tags": ["爸爸", "父親節", "感謝", "代代相傳"],
+      "i18n": {
+        "zh-tw": {
+          "content": "爸，你辛苦把我養大。\n我也努力工作，將來把你寵壞。\n然後我們再一起把孫子也寵壞，傳承一下家風。",
+          "editorNote": "溫馨型卡片金句，適合父親節貼文或寫在禮物卡片裡",
+          "variations": [
+            "你養我長大，我養你變老，孫子來了我們聯手寵他"
+          ]
+        },
+        "en": {
+          "content": "Dad, you raised me with everything you had.\nNow I'm working hard so I can spoil you back.\nAnd then together we'll spoil the grandkids — family tradition.",
+          "editorNote": "Sincere-leaning quote — good for Father's Day cards or social media captions",
+          "variations": [
+            "You raised me. I'll raise you in retirement. Together we'll ruin the next generation"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-005",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Tech support center metaphor — research-log register family",
+      "tags": ["爸爸", "父親節", "科技", "3C"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸把家裡的 Wi-Fi 路由器當成神龕。\n每次斷線就跪在前面默念：「我兒子很快就會打電話過來。」\n而我每次接電話的第一句都是：「先重開機。」",
+          "editorNote": "適合在外地工作的子女傳給家人，連結感超強",
+          "variations": [
+            "我爸的 IT 部門就是我，而且還是 24 小時客服"
+          ]
+        },
+        "en": {
+          "content": "My dad treats the Wi-Fi router like a household shrine.\nEvery time it dies, he kneels and whispers: \"My kid will call any minute now.\"\nMeanwhile my opening line is always: \"Have you tried turning it off and on?\"",
+          "editorNote": "Resonates with adults living far from home. Great share for the family group chat",
+          "variations": [
+            "I am my dad's entire IT department, and I'm on call 24/7"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-006",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Couch + remote classic dad behavior",
+      "tags": ["爸爸", "父親節", "沙發", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸跟沙發的關係比跟我還親。\n他不是在沙發上，就是在前往沙發的路上。\n遙控器是他的權杖，他是他自己的國王。",
+          "editorNote": "畫面感強，傳給家人看會心一笑。也適合做卡片底圖文案",
+          "variations": [
+            "爸爸 + 沙發 + 遙控器 = 一個誰都動不了的鐵三角"
+          ]
+        },
+        "en": {
+          "content": "My dad's relationship with the couch is closer than ours.\nHe's either on it, or actively walking toward it.\nThe remote is his scepter and he reigns absolutely.",
+          "editorNote": "Visual and instantly familiar — great for cards or social posts",
+          "variations": [
+            "Dad + couch + remote = a kingdom no one can overthrow"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-007",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Same joke repeated for years — universal dad behavior",
+      "tags": ["爸爸", "父親節", "重複", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸有一個笑話，講了十五年。\n每次講完還會自己先笑。\n我們都背起來了，但還是配合著笑——這就是孝道的最終形式。",
+          "editorNote": "適合長大後回憶童年的角度，溫馨又帶點吐槽",
+          "variations": [
+            "我爸的笑話我能倒背，但他每次講還是當第一次"
+          ]
+        },
+        "en": {
+          "content": "My dad has one joke. He's been telling it for fifteen years.\nHe always laughs at it first.\nWe've memorized every syllable, but we still laugh — that, my friends, is filial piety in its final form.",
+          "editorNote": "Bittersweet humor that lands for grown kids reflecting on their dads",
+          "variations": [
+            "I could recite Dad's joke in my sleep, and he still delivers it like it's brand new"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-008",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Magician metaphor — inspired by 'pulls money from air' trope, rewritten",
+      "tags": ["爸爸", "父親節", "魔術師", "感謝"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我小時候以為我爸是魔術師。\n需要錢的時候，他總能從空氣中變出來。\n長大才知道，那不是魔術，是他偷偷加的班。",
+          "editorNote": "情感濃度高，適合父親節貼文或長輩會看的訊息",
+          "variations": [
+            "原來我爸的魔術帽裡裝的不是兔子，是他沒說的辛苦"
+          ]
+        },
+        "en": {
+          "content": "When I was little, I thought Dad was a magician.\nHe could pull money out of thin air whenever I needed it.\nTurns out the trick was double shifts he never mentioned.",
+          "editorNote": "Hits emotionally — works well for Father's Day captions or messages to extended family",
+          "variations": [
+            "Dad's magic trick wasn't sleight of hand. It was overtime he never complained about"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-009",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "BBQ / grill ritual — universal dad behavior",
+      "tags": ["爸爸", "父親節", "烤肉", "儀式感"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸對烤肉的執著超越宗教。\n烤肉爐一點起來，他整個人就升級成大祭司。\n誰都不准碰夾子，連他自己都不太敢眨眼。",
+          "editorNote": "中秋、父親節聚餐前傳家庭群組剛剛好",
+          "variations": [
+            "烤肉場上沒有家庭，只有爸爸跟他的肉"
+          ]
+        },
+        "en": {
+          "content": "My dad treats grilling like a sacred rite.\nThe moment the coals light up, he ascends to High Priest of the BBQ.\nNo one touches the tongs. Even he barely blinks.",
+          "editorNote": "Perfect for Father's Day cookouts or any summer family gathering",
+          "variations": [
+            "At the grill, there is no family — only Dad and his meat"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-010",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "\"Ask your mom\" classic deflection",
+      "tags": ["爸爸", "父親節", "問你媽", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我從小問爸爸任何事，他的回答只有兩種：\n一、「問你媽。」\n二、「等你媽回來再說。」\n他不是不愛我，他只是非常清楚誰才是真正的決策層。",
+          "editorNote": "華人家庭有感系列，傳給朋友看會直接共鳴",
+          "variations": [
+            "我爸的萬用回答模板：你媽說了算"
+          ]
+        },
+        "en": {
+          "content": "Growing up, my dad had two answers to every question:\n1. \"Ask your mother.\"\n2. \"Wait until your mother gets home.\"\nIt's not that he didn't care — he just understood the actual chain of command.",
+          "editorNote": "Universally relatable. Strong for group chats with siblings",
+          "variations": [
+            "Dad's universal reply template: whatever Mom says"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-011",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Fix-it dad / hardware store loyalty",
+      "tags": ["爸爸", "父親節", "工具", "修理"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸的工具箱有一百種螺絲起子。\n他都認得，我一個都分不出。\n他說以後這些都會傳給我——我笑得有點勉強。",
+          "editorNote": "適合家裡有 DIY 爸爸的人，傳給爸爸或朋友都行",
+          "variations": [
+            "我爸的工具箱比我的衣櫃還滿，而且每樣他都用得到"
+          ]
+        },
+        "en": {
+          "content": "My dad's toolbox has a hundred kinds of screwdrivers.\nHe knows each one by name. I can't tell any of them apart.\nHe says one day all this will be mine — I laughed, but only a little.",
+          "editorNote": "Resonates with anyone whose dad is the family handyman. Good for Father's Day captions",
+          "variations": [
+            "Dad's toolbox holds more inventory than my closet, and he uses all of it"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-012",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "",
+      "sourceNote": "Sincere reflection — childhood superhero shift",
+      "tags": ["爸爸", "父親節", "感謝", "長大"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候我以為爸爸是超人。\n後來才發現他不是——\n他只是一個沒有超能力，但每天還是把家扛起來的普通人。\n這比超人更酷。",
+          "editorNote": "情感型金句，父親節最後的壓軸，貼文或卡片都很適合",
+          "variations": [
+            "我爸沒有披風也沒有超能力，他靠的是上班、開會、跟一杯接一杯的咖啡"
+          ]
+        },
+        "en": {
+          "content": "When I was a kid, I thought my dad was a superhero.\nLater I realized he wasn't —\nhe was a regular guy with no powers, holding up the whole family anyway.\nWhich, honestly, is cooler.",
+          "editorNote": "Sincere closer — great for the final line on a card or a heartfelt social caption",
+          "variations": [
+            "No cape, no powers, no theme song — just coffee, meetings, and showing up every day. That's my dad"
+          ]
+        }
+      }
+    }
+  ]
+}
