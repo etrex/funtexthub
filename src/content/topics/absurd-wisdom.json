@@ -4085,6 +4085,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-165",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://sites.google.com/go.edu.tw/jie1113/%E9%A6%96%E9%A0%81/%E5%BB%A2%E8%A9%B1%E8%AA%9E%E9%8C%841",
+      "sourceNote": "「俗話說得好」格式重新創作，加入錢的主題",
+      "tags": ["廢話文學", "金錢", "人生", "經濟"],
+      "i18n": {
+        "zh-tw": {
+          "content": "經濟學家研究指出：一個人之所以沒錢，最主要的原因是他帳戶裡的錢不夠多。\n\n如果帳戶裡的錢夠多，那他就會變成一個有錢的人。\n\n至於那種「明明有錢卻說自己沒錢」的人，他們其實是有錢的，只是嘴巴上沒錢。",
+          "editorNote": "適合在被朋友問「最近怎麼那麼窮」的時候原句奉還，對方會沉默三秒然後不知道該怎麼接",
+          "variations": [
+            "想變有錢的方法很簡單，只要你有錢就可以了。",
+            "錢花掉之後就沒了，沒花掉的還在。這是個人理財的基本原理。"
+          ]
+        },
+        "en": {
+          "content": "Economists have determined: the primary reason a person has no money is that there is not enough money in their bank account.\n\nIf there were enough money in the account, they would become a person with money.\n\nAs for those who 'have money but claim to be broke,' they actually do have money — they just verbally don't.",
+          "editorNote": "Use this when a friend asks 'why are you so broke lately' — they'll go silent for three seconds trying to figure out how to respond",
+          "variations": [
+            "The secret to becoming rich is simple: just have money.",
+            "Once money is spent, it's gone. Money not spent is still there. This is the foundation of personal finance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-166",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "睡眠主題廢話文學重新創作",
+      "tags": ["廢話文學", "睡眠", "失眠", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠專家提醒：睡著之後就會進入睡眠狀態，醒過來就不睡了。\n\n如果你還沒睡著，那就表示你目前是醒的。\n\n至於那種「躺在床上滑手機到天亮」的人，他們其實沒有失眠，只是沒在睡覺而已。",
+          "editorNote": "凌晨三點傳給也還沒睡的朋友，兩個人會一起靜靜地承認彼此都是自願的",
+          "variations": [
+            "閉上眼睛之後，你就看不到東西了；睜開眼睛，視野就會恢復。",
+            "你睡了幾個小時，醒來之後就是過了幾個小時。"
+          ]
+        },
+        "en": {
+          "content": "Sleep experts remind us: once you fall asleep, you enter a state of sleep; once you wake up, you are no longer sleeping.\n\nIf you haven't fallen asleep yet, that means you are currently awake.\n\nAs for those who 'lie in bed scrolling on their phone until dawn,' they don't actually have insomnia — they're just not sleeping.",
+          "editorNote": "Send to a friend who's also still up at 3am — you'll both quietly acknowledge that you chose this",
+          "variations": [
+            "When you close your eyes, you can't see things. When you open them, your vision returns.",
+            "However many hours you slept, that's how many hours have passed when you wake up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-167",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "「越過山」格式參考，改寫為健身運動主題",
+      "tags": ["廢話文學", "運動", "健身", "減肥"],
+      "i18n": {
+        "zh-tw": {
+          "content": "運動科學最新發現：當你開始運動的那一刻，你就已經在運動了。\n\n停下來之後，運動就結束了。\n\n所以想要持續運動的人，只要不停下來，就可以一直運動下去。",
+          "editorNote": "適合在健身房裡傳給跟你一起辦會員卻已經半年沒去的朋友，喚醒他內心對運動的麻木",
+          "variations": [
+            "減肥的原理很簡單：當你變瘦的時候，你就減肥成功了。",
+            "跑步的人會比走路的人快，除非那個走路的人走得比較快。"
+          ]
+        },
+        "en": {
+          "content": "The latest in exercise science: the moment you start exercising, you are already exercising.\n\nOnce you stop, the exercise is over.\n\nSo for those who want to exercise consistently, just don't stop — and you can keep exercising indefinitely.",
+          "editorNote": "Send this to your gym buddy who signed up six months ago and hasn't been since — gently reawaken their numbed athletic spirit",
+          "variations": [
+            "The principle of weight loss is simple: once you become thinner, you have successfully lost weight.",
+            "Runners are faster than walkers, unless the walker happens to be walking faster."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-168",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "聊天回覆主題廢話文學新創",
+      "tags": ["廢話文學", "聊天", "社交", "已讀"],
+      "i18n": {
+        "zh-tw": {
+          "content": "通訊軟體研究指出：對方已讀不回，代表他看到了但沒回。\n\n如果他回了，那就不叫已讀不回。\n\n至於那種「已讀很久才回」的情況，他其實有回，只是回得比較晚。",
+          "editorNote": "適合用來安慰被已讀不回的朋友，雖然講完之後對方還是沒被安慰到，但至少你們可以一起困惑",
+          "variations": [
+            "他傳訊息給你，就表示他想跟你說話；他沒傳，就表示他現在沒在傳。",
+            "對話框顯示「對方正在輸入」，代表對方正在打字；沒顯示的話，代表沒在打。"
+          ]
+        },
+        "en": {
+          "content": "Messaging app research indicates: when someone leaves you on read, it means they saw it but didn't reply.\n\nIf they had replied, it wouldn't be called being left on read.\n\nAs for those who 'reply after a really long time,' they did actually reply — just later.",
+          "editorNote": "Use this to comfort a friend who got left on read — they won't actually feel better, but at least you can both be confused together",
+          "variations": [
+            "When someone texts you, it means they want to talk to you. When they don't, it means they're currently not texting.",
+            "When the chat shows 'typing...', it means the other person is typing. When it doesn't show that, they're not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-169",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "外送主題廢話文學新創",
+      "tags": ["廢話文學", "外送", "食物", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "外送平台統計顯示：你點的餐送到之前，是還沒送到的狀態。\n\n送到之後，就送到了。\n\n至於那種「我餐到底什麼時候會到」的情況，答案是：送到的時候就會到。",
+          "editorNote": "等外送等到崩潰時可以默念一遍，能讓你瞬間從焦慮轉為一種看破紅塵的平靜",
+          "variations": [
+            "你點的食物吃完之後就沒了，沒吃完的話還在。",
+            "外送員到了的時候會通知你，沒通知就表示還沒到。"
+          ]
+        },
+        "en": {
+          "content": "Food delivery app statistics show: before your order arrives, it is in a state of not having arrived.\n\nOnce it arrives, it has arrived.\n\nAs for the question 'when will my food actually get here,' the answer is: it will get here when it arrives.",
+          "editorNote": "Recite this silently while waiting for a delivery — it'll instantly shift you from anxiety into a kind of zen acceptance of the universe",
+          "variations": [
+            "Once you finish your food, it's gone. If you haven't finished it, it's still there.",
+            "The delivery driver will notify you when they arrive. If you haven't been notified, they haven't arrived yet."
+          ]
+        }
+      }
     }
   ]
 }

@@ -1393,6 +1393,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-059",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://news.nextapple.com/life/20260321/66DA244394F42A4D446282C55BD808B1",
+      "sourceNote": "2026 房東以租補名義反制漲租 新聞; rewritten original",
+      "tags": ["租金補貼", "房東", "漲租", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "政府發八千租補，\n房東就漲一萬。\n我不是領到補助，\n我是順便幫房東加薪。",
+          "editorNote": "適合剛收到房東「因應市場行情」漲租通知的朋友，順便提醒對方房東不得因申請補貼漲租，違者最高罰五十萬",
+          "variations": [
+            "租補一公布，全社區房東開會的速度比工會還快。",
+            "我以為政府是要幫我，後來才發現政府只是幫我把錢交給房東的中間人。"
+          ]
+        },
+        "en": {
+          "content": "The government hands out an eight-grand rent subsidy.\nThe landlord raises rent by ten.\nI didn't get a subsidy.\nI just helped my landlord get a raise.",
+          "editorNote": "Send to a friend who just got a 'market adjustment' rent hike — quick reminder that retaliating against subsidy applicants is illegal and fineable",
+          "variations": [
+            "The day the subsidy was announced, every landlord in my building organized faster than any union ever could.",
+            "Turns out the government isn't helping me — it's just the middleman wiring my money to my landlord."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-060",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.dd-room.com/article/cgce3dwp4vvybnot",
+      "sourceNote": "房東不退押金 自保 case; rewritten original",
+      "tags": ["押金", "退租", "房東", "糾紛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租那天房東繞了房子三圈，\n第一圈找牆上的痕跡，\n第二圈找地板的刮傷，\n第三圈在想還能扣我什麼。",
+          "editorNote": "適合搬家前一週的朋友抒發，記得入住第一天拍滿整間照片、退租當天再拍一次，押金才有機會原封不動回家",
+          "variations": [
+            "房東驗屋的眼神，比我媽看我考卷還認真。",
+            "退租點交不是儀式，是房東把押金合法私吞的最後一道手續。"
+          ]
+        },
+        "en": {
+          "content": "Move-out day, the landlord circled the apartment three times.\nFirst lap: scuffs on the walls.\nSecond lap: scratches on the floor.\nThird lap: trying to invent something else to deduct.\n",
+          "editorNote": "Good vent for friends a week from moving out — remind them to photograph everything on day one AND day last if they want that deposit back intact",
+          "variations": [
+            "My landlord inspects the apartment with more focus than my mom inspecting my report card.",
+            "Move-out inspection isn't a ceremony. It's the legal ritual landlords use to keep your deposit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-061",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.inn-taipei.com/2025-rental-law-amendment/",
+      "sourceNote": "2026 租賃條例修法 房客權益 article; rewritten original",
+      "tags": ["合約", "修法", "房客權益", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新法上路那天，\n我房東傳訊息說：\n「我們改用口頭約定好嗎？」",
+          "editorNote": "傳給對租賃修法一知半解的朋友，提醒對方不管房東說什麼，書面合約一定要簽、最好還要拍照備份",
+          "variations": [
+            "修法越保護房客，房東就越喜歡「我們是朋友啦不用寫合約」這句話。",
+            "房東說新法他看不懂，但漲租的部分他第一個學會。"
+          ]
+        },
+        "en": {
+          "content": "The day the new tenant law took effect,\nmy landlord texted:\n'How about we just go with a verbal agreement from now on?'",
+          "editorNote": "Send to friends who only half-read the new rental amendments — remind them to insist on a written lease and keep a photo backup, no matter how friendly the landlord acts",
+          "variations": [
+            "The more the law protects tenants, the more landlords love the phrase 'we're friends, no need for a contract.'",
+            "My landlord says the new law is confusing, but he learned the rent-hike section first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-062",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.cnbc.com/2025/12/26/rents-are-falling-in-these-major-us-cities-heading-into-2026.html",
+      "sourceNote": "2026 全美房租下跌 但我這間沒跌 對比; rewritten original",
+      "tags": ["房租", "比較", "厭世", "市場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說全國房租在跌，\n我房東說我們這條巷子是例外。",
+          "editorNote": "適合每年看到「房租下修」新聞就傳給房東結果被已讀不回的朋友共鳴",
+          "variations": [
+            "房租下跌的城市永遠在別人那裡，跟瘦下來的同學一樣。",
+            "全國均價跌百分之三，我家漲百分之八，這就是我家的市場地位。"
+          ]
+        },
+        "en": {
+          "content": "The news says rents are falling nationwide.\nMy landlord says our block is the exception.",
+          "editorNote": "Perfect for anyone who forwards 'rent prices dropping' headlines to their landlord every year and gets left on read",
+          "variations": [
+            "The cities with falling rent always belong to other people, like classmates who lost weight.",
+            "National average down 3%, mine up 8% — that's just my building's special market position."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-063",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/259348360",
+      "sourceNote": "Dcard 提前退租 押金 提問; rewritten original",
+      "tags": ["提前退租", "違約金", "押金", "上班族"],
+      "i18n": {
+        "zh-tw": {
+          "content": "提前解約要賠一個月，\n繼續住下去要忍十一個月，\n搬走要花兩萬，\n不搬要哭三百六十五天，\n這就是大人的選擇題。",
+          "editorNote": "送給正在猶豫要不要硬撐到約滿的朋友，順便提醒對方依規定違約金最多就是一個月租金，不能被多扣",
+          "variations": [
+            "成年人的自由就是：花錢提前解約，或花心情慢慢住完。",
+            "房東說提前走要扣兩個月，我說法律寫一個月，他就突然開始講人情。"
+          ]
+        },
+        "en": {
+          "content": "Break the lease early: pay one month.\nStay: endure eleven more.\nMove out: spend two grand.\nStay put: cry for three hundred and sixty-five days.\nWelcome to adult multiple choice.",
+          "editorNote": "For friends weighing whether to tough it out till the lease ends — remind them the legal cap on early-termination penalty is one month's rent, no more",
+          "variations": [
+            "Adult freedom: pay money to leave early, or pay with your sanity to finish the lease.",
+            "Landlord said breaking the lease costs two months. I quoted the law saying one. Suddenly he wanted to 'talk it out as friends.'"
+          ]
+        }
+      }
     }
   ]
 }

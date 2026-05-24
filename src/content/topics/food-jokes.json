@@ -2391,6 +2391,93 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-084",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://creativepuns.com/food/",
+      "sourceNote": "海鮮減肥梗 改寫 — I'm on a seafood diet 經典英文諧音轉中文情境",
+      "tags": [
+        "減肥",
+        "海鮮",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友：「你不是說在減肥？」\n我：「對啊，我在吃『看見就吃』減肥法。」\n他：「那有效嗎？」\n我：「看見什麼吃什麼 —\n目前唯一看不見的，是體重計上的數字。」",
+          "editorNote": "減肥失敗梗，配一張被外送袋包圍的桌面照超有共鳴",
+          "variations": [
+            "也可以接：「醫生問我吃了什麼 — 我說『一切看得到的東西』」",
+            "對健身版：「我有在運動 — 嘴巴的咀嚼肌每天都很操」"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"Aren't you on a diet?\"\nMe: \"Yeah, the see-food diet.\"\nThem: \"Is it working?\"\nMe: \"I eat everything I see —\nthe only thing I can't see anymore is the number on the scale.\"",
+          "editorNote": "Diet-fail post for a desk surrounded by delivery bags",
+          "variations": [
+            "Add: \"Doctor asked what I ate — I said 'everything within line of sight.'\"",
+            "Gym version: \"I do work out — my jaw muscles get a full session daily.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-085",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://blog.weiby.tw/taiwan-street-food/",
+      "sourceNote": "夜市排隊文化 原創 — 2026 台灣小吃熱度延伸",
+      "tags": [
+        "夜市",
+        "排隊",
+        "台味"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問：「夜市哪攤最好吃？」\n我：「最後面那攤。」\n他：「為什麼？」\n我：「因為我排到時，前面的人已經幫我把難吃的攤都試過了。」",
+          "editorNote": "週末夜市文 Threads 限定，配一張人擠人的逢甲或士林照",
+          "variations": [
+            "也可以接：「我都先看哪攤排隊最長 — 不是因為好吃，是因為觀光客最好騙」",
+            "對自助餐版：「自助餐挑菜邏輯一樣 — 看阿姨阿伯夾什麼，跟著夾就對了」"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"Which night market stall is the best?\"\nMe: \"The one at the very back.\"\nThem: \"Why?\"\nMe: \"Because by the time I get there, everyone ahead of me has already test-tasted the bad stalls for me.\"",
+          "editorNote": "Weekend night-market Threads post — packed Shilin or Fengjia crowd shot",
+          "variations": [
+            "Add: \"I scout the longest line — not for taste, but for spotting tourists who'll try anything.\"",
+            "Cafeteria version: \"Same logic at a buffet — watch what the aunties and uncles grab, then copy them.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-086",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.rd.com/article/food-puns/",
+      "sourceNote": "Lettuce turnip the beet 蔬菜諧音 改寫成台味早餐店情境",
+      "tags": [
+        "早餐",
+        "蔬菜",
+        "店員對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店點蛋餅，老闆問：「加蔥嗎？」\n我：「不要。」\n他：「加蛋？」\n我：「不要。」\n他：「加起司？」\n我：「不要。」\n他：「那你到底要什麼？」\n我：「我要 — 加價以外什麼都不要。」",
+          "editorNote": "週一早餐文，配蛋餅特寫 + 一張收據顯示加料總額",
+          "variations": [
+            "也可以接：「老闆嘆氣：『你這樣我怎麼賺』 — 我說『你不就是想賺我這個嗎』」",
+            "對手搖飲版：「點微糖少冰 — 結果一杯比正常糖還貴五塊」"
+          ]
+        },
+        "en": {
+          "content": "At the breakfast shop ordering an egg crepe. Owner: \"Scallions?\"\nMe: \"No.\"\nThem: \"Extra egg?\"\nMe: \"No.\"\nThem: \"Cheese?\"\nMe: \"No.\"\nThem: \"Then what DO you want?\"\nMe: \"Anything —\nas long as it doesn't come with an upcharge.\"",
+          "editorNote": "Monday breakfast post — egg crepe close-up plus a receipt of add-on totals",
+          "variations": [
+            "Add: \"Owner sighs: 'How am I supposed to make money?' — Me: 'Isn't that exactly what you're trying to do off me?'\"",
+            "Boba version: \"Order half sugar, less ice — somehow costs five bucks more than full sugar.\""
+          ]
+        }
+      }
     }
   ]
 }

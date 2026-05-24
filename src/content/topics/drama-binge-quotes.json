@@ -540,6 +540,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-024",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.contentplatform.info/articles/448607/",
+      "sourceNote": "2026 微短劇全球爆紅現象，60-90 秒一集，原創改編",
+      "tags": ["微短劇", "短劇", "DramaBox", "上癮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你說你不看微短劇，\n你看的是「正規影集」。\n\n結果今天通勤的時候：\n你滑了一集 90 秒的「霸總前夫深夜歸來」。\n午餐時：你看完了一整部「重生千金虐渣全家」。\n下午茶：你發現自己已經追到第 47 集。\n晚上睡前：你跟自己說「最後一集就睡」。\n凌晨：你正在解鎖第 89 集，刷了三次廣告。\n\n你以為微短劇配不上你的品味，\n結果是微短劇的演算法摸透了你的腦。\n\n90 秒一集，不是讓你看劇，\n是讓你忘記「你還有多少時間沒過」。",
+          "editorNote": "傳給那個嘴上瞧不起短劇但手機裡裝了三個短劇 app 的朋友——讓他承認他比誰都上癮",
+          "variations": [
+            "深度版：你開始懷疑自己注意力出問題，其實你的注意力沒問題，是這個世界開始用 90 秒餵你，你的腦被訓練成只能接受小份量的快樂"
+          ]
+        },
+        "en": {
+          "content": "You say you don't watch microdramas.\nYou watch \"real shows.\"\n\nThen today's commute:\nyou swiped through a 90-second episode of \"CEO Ex-Husband Returns at Midnight.\"\nAt lunch: you finished an entire \"Reborn Heiress Punishes Whole Family.\"\nAfternoon coffee: you've already hit episode 47.\nBedtime: \"last episode then sleep.\"\nMidnight: you're unlocking episode 89, watched three ads to get there.\n\nYou thought microdramas were beneath your taste.\nThe microdrama algorithm just knew your brain better.\n\n90 seconds an episode isn't about watching a show.\nIt's about making you forget how much time you have left unspent.",
+          "editorNote": "Send to the friend who mocks short-form dramas but has three of those apps installed — let them admit they're more hooked than anyone",
+          "variations": [
+            "Deep version: you start suspecting something is wrong with your attention span. Your attention is fine. The world started feeding you in 90-second portions and your brain got trained to accept happiness only in small doses."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-025",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://easternherald.com/2026/05/10/amazon-prime-video-tiktok-style-clips-feed-streaming/",
+      "sourceNote": "2026 串流平台轉向 swipe-first 短影音餵食現象，Amazon Prime Clips 推出觀察",
+      "tags": ["演算法", "串流平台", "滑不停", "選擇困難"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你打開 Netflix，本來想追完那部劇，\n結果首頁多了一條會自動播放的短片串流。\n\n你滑了第一條：好像不錯，先存起來。\n第二條：演員眼熟，看一下。\n第三條：BGM 很抓耳，再看一下。\n第十條：你已經忘記自己原本要追什麼。\n第二十條：你發現自己滑了 40 分鐘，零產出。\n\n你終於關掉 app，心裡只剩一句：\n「我剛剛是在追劇，還是在被劇追？」\n\n2026 年的串流平台不再讓你選，\n它直接餵你，\n你以為自己有自由意志，\n其實你在跟演算法談一段不對等的感情。",
+          "editorNote": "傳給那個每次打開串流平台就先滑半小時什麼都沒看的朋友——他不是在挑劇，他被挑了",
+          "variations": [
+            "現實版：你終於決定刪掉那條短片串流功能，結果發現選項藏在第四層設定裡——平台不是不讓你關，是讓你關得不方便到放棄"
+          ]
+        },
+        "en": {
+          "content": "You open Netflix to finish that show.\nThe homepage now has a new auto-playing clips feed.\n\nFirst swipe: looks decent, save for later.\nSecond: actor looks familiar, watch a bit.\nThird: catchy soundtrack, give it a sec.\nTenth: you've forgotten what you came for.\nTwentieth: you've swiped 40 minutes for zero output.\n\nYou close the app, and one line lands:\n\"Was I just watching a show, or was a show watching me?\"\n\nIn 2026 the streamers stopped letting you choose.\nThey just feed you.\nYou think you have free will.\nYou're actually in an unequal relationship with the algorithm.",
+          "editorNote": "Send to the friend who opens a streaming app and somehow scrolls for thirty minutes without watching anything — they weren't picking a show, the platform picked them",
+          "variations": [
+            "Real version: you finally decide to disable the clips feed. Turns out the setting is buried four menus deep. The platform isn't refusing to let you turn it off — it's making turning it off inconvenient enough that you give up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-026",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.dcard.tw/topics/%E8%BF%BD%E5%8A%87",
+      "sourceNote": "演算法推薦失準導致追劇信任崩潰社群觀察，原創改編",
+      "tags": ["演算法", "推薦", "信任", "選擇障礙"],
+      "i18n": {
+        "zh-tw": {
+          "content": "演算法給你推的劇：\n\n第一部——你看到第三集，發現是去年看過的。\n第二部——男女主角名字一樣，但完全不是同一個人。\n第三部——標榜「為你量身打造」，結果是十年前的老片。\n第四部——簡介寫甜寵，看完整部都在打官司。\n第五部——你終於放棄演算法，打開搜尋欄輸入「就普通好看的劇」。\n\n結果跑出來的還是同樣那五部。\n\n演算法的本質：\n它不認識你，\n它只認識「跟你差不多的人」，\n而你其實一直想證明自己不是「差不多」。\n\n你追劇是在反抗一個事實——\n演算法早就把你歸類了。",
+          "editorNote": "傳給那個把演算法推薦劇都點開又關掉、最後重看舊片的朋友——讓他知道反抗演算法也是一種追劇方式",
+          "variations": [
+            "升級版：你決定隨機翻一部完全不在演算法推薦裡的劇，那部劇意外好看，你在心裡偷偷感謝自己——這是這個時代僅剩的浪漫"
+          ]
+        },
+        "en": {
+          "content": "What the algorithm recommended for you:\n\nFirst show — episode 3, you realize you watched it last year.\nSecond — leads have the same names but are completely different people.\nThird — \"tailored just for you\" turns out to be a show from ten years ago.\nFourth — synopsis says sweet romance, the whole thing is a courtroom drama.\nFifth — you give up, open the search bar, type \"just a normal good show.\"\n\nThe same five recommendations appear.\n\nThe truth about algorithms:\nThey don't know you.\nThey know \"people similar to you,\"\nand you've spent your whole life trying to prove you're not \"similar.\"\n\nBinge-watching is your quiet rebellion against one fact —\nthe algorithm sorted you long ago.",
+          "editorNote": "Send to the friend who keeps clicking algorithmic recommendations only to close them and rewatch old shows — let them know defying the algorithm is its own way of watching",
+          "variations": [
+            "Next-level: you randomly pick a show the algorithm never suggested. It's accidentally great. You quietly thank yourself — one of the only romantic gestures left in this era."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-027",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://turnnewsapp.com/livenews/chinav3/20260407001504-260409",
+      "sourceNote": "2026 微短劇從爽劇轉向情緒回甘觀察，女性觀眾偏好療癒題材",
+      "tags": ["情緒回甘", "療癒", "成長", "追劇心理"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你以前追劇是為了爽——\n反派被打臉，主角報仇雪恨，越虐越好。\n\n現在你追劇是為了被理解——\n主角受了一個你也受過的傷，\n他撐過去了，你的眼淚就替你掉了出來。\n\n不是劇變了，是你變了。\n\n你不再需要看誰被打趴，\n你需要看一個和你一樣的人，\n他在某一集學會放下，\n你才有勇氣承認你還沒放下。\n\n大人的追劇，\n不是娛樂，\n是借別人的故事，補自己缺的那一課。",
+          "editorNote": "傳給那個最近開始挑「療癒系」劇追的朋友——他不是變軟，他是終於願意面對自己",
+          "variations": [
+            "深度版：你發現自己看哭的那一場戲，不是劇情多催淚，是那場戲剛好踩在你心裡那個位置——劇沒有寫你，但它寫的那個人很像你"
+          ]
+        },
+        "en": {
+          "content": "You used to binge for the rush —\nvillain takedown, hero's revenge, the more brutal the better.\n\nNow you binge to be understood —\nthe lead carries a wound you've also carried,\nand when they make it through, your tears come out for you.\n\nThe shows didn't change. You did.\n\nYou no longer need to watch someone get crushed.\nYou need to watch someone like you\nlearn to let go in one episode,\nso you can finally admit you haven't.\n\nAdult binge-watching\nisn't entertainment.\nIt's borrowing someone else's story\nto take the lesson you missed.",
+          "editorNote": "Send to the friend who's been picking 'healing' shows lately — they didn't go soft, they finally decided to face themselves",
+          "variations": [
+            "Deep version: you realize the scene that made you cry wasn't especially sad — it just landed exactly on the place inside you that hurts. The show wasn't written about you, but the person in it looked a lot like you."
+          ]
+        }
+      }
     }
   ]
 }

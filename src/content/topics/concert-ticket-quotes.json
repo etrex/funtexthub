@@ -356,6 +356,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-016",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.storm.mg/lifestyle/11128128",
+      "sourceNote": "拓元搶票攻略：建議使用電腦有線網路、避開公共 Wi-Fi、改用 5G 熱點",
+      "tags": ["拓元", "網路", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我換了有線網路。\n我換了 5G 熱點。\n我換了三家咖啡廳。\n\n最後系統告訴我——\n\n問題不是網路，\n是我命不夠硬。",
+          "editorNote": "搶票前一晚換網路是台灣粉絲集體儀式。傳給已經換到第三家咖啡廳還是被擠掉的朋友",
+          "variations": [
+            "玄學版：「網路換完換信仰。信仰換完換命盤。命盤換完，票還是沒有。」"
+          ]
+        },
+        "en": {
+          "content": "Switched to ethernet.\nSwitched to 5G hotspot.\nSwitched cafés three times.\n\nFinally the system told me —\n\nit's not the connection.\nIt's the karma.",
+          "editorNote": "Pre-sale infrastructure prep is a fan ritual. Send to the friend who relocated for better Wi-Fi and still got bounced",
+          "variations": [
+            "Mystic version: 'Upgraded my router. Upgraded my faith. Upgraded my birth chart. Tickets: still locked.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-017",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://crossing.cw.com.tw/article/20403",
+      "sourceNote": "韓團來台改採登記抽選制；中籤者才能購票，未中籤直接出局",
+      "tags": ["抽選", "登記", "韓團", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新規則：先登記，再抽選，中籤才能買。\n\n我連買的資格，\n\n都要先去抽。",
+          "editorNote": "韓團登記制讓粉絲連付錢的權利都要先排隊。傳給未中籤的朋友比安慰簡單十倍",
+          "variations": [
+            "認命版：「以前是抽票，現在是抽抽票資格。下次大概要先抽當粉絲的執照。」"
+          ]
+        },
+        "en": {
+          "content": "New rule: register first, then lottery, then maybe buy.\n\nEven the right to spend money\n\nrequires winning a draw.",
+          "editorNote": "Lottery-to-purchase systems gatekeep fans before they can even pay. Send to a friend who didn't make the draw",
+          "variations": [
+            "Resigned: 'Used to draw for tickets. Now we draw for the right to draw. Next year we'll draw for the right to be a fan.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-018",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202601290034/",
+      "sourceNote": "2026 BTS 高雄場、五月天大巨蛋、EXO 台北同月開搶；粉絲多棲應戰",
+      "tags": ["多棲", "粉絲", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我這個月要搶：\n\n五月天、BTS、EXO。\n\n我不是粉絲，\n我是專案經理。\n\n專案叫做：人生剩餘預算。",
+          "editorNote": "多棲粉絲在 2026 大檔期同月撞五場是真實場景。傳給也在排 Excel 的朋友最有感",
+          "variations": [
+            "工程師版：「搶票排程表已開：五月天 5/23、BTS 6/14、EXO 6/28。風險：銀行帳戶餘額為主要瓶頸。」"
+          ]
+        },
+        "en": {
+          "content": "This month I'm fighting for:\n\nMayday. BTS. EXO.\n\nI'm not a fan.\nI'm a project manager.\n\nThe project is called: Remaining Life Budget.",
+          "editorNote": "Multi-fandom calendar collisions are peak 2026 stress. Send to the friend who color-coded their presale spreadsheet",
+          "variations": [
+            "PM version: 'Sprint plan: Mayday 5/23, BTS 6/14, EXO 6/28. Blocker: bank balance.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-019",
+      "dateAdded": "2026-05-24",
+      "sourceUrl": "https://www.setn.com/News.aspx?NewsID=1755493",
+      "sourceNote": "蔡依林攻蛋首賣亂成一團；黃牛硬加 7000 代購費，粉絲怒求實名制",
+      "tags": ["代購", "黃牛", "怒火", "搶票"],
+      "i18n": {
+        "zh-tw": {
+          "content": "黃牛加 7000 代購費。\n\n他說那是「服務費」。\n\n我想他口中的服務，\n大概是把我的人格\n親手送進絞肉機。",
+          "editorNote": "代購費把粉絲推到憤怒臨界點。新聞爆出當天傳這句最能集氣，配截圖更猛",
+          "variations": [
+            "翻譯版：「代購費 7000 = 我幫你按下重新整理鍵的尊嚴折舊費。」"
+          ]
+        },
+        "en": {
+          "content": "Scalper added a $230 'service fee.'\n\nHe called it convenience.\n\nI think what he meant was:\nhand-feeding my dignity\ninto a meat grinder.",
+          "editorNote": "Resale 'service fees' are the modern villain origin story for fans. Best deployed the moment a scalper screenshot hits group chat",
+          "variations": [
+            "Translation: 'Service fee $230 = the depreciation cost of my self-respect, paid in advance.'"
+          ]
+        }
+      }
     }
   ]
 }
