@@ -4963,6 +4963,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-172",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://programmerhumor.io/memes/coding-assistant",
+      "sourceNote": "Vibe coding / AI hallucination trope — reworked as PR review drama",
+      "tags": [
+        "AI",
+        "Vibe Coding",
+        "Code Review"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師打開菜鳥的 PR，看了三秒，眉頭一皺。\n\n「這個函式為什麼會去呼叫一個不存在的 API？」\n\n菜鳥一臉自信：「Claude 說有。」\n\n「這個 library 我們專案根本沒裝。」\n\n「Claude 說裝了。」\n\n「這個變數從哪冒出來的？」\n\n「Claude 說它應該存在。」\n\n資深工程師深呼吸：「你有自己跑過嗎？」\n\n菜鳥眼神飄移：「⋯⋯Claude 說它跑得起來。」\n\nPR 標題：feat: 完美實作所有需求。",
+          "editorNote": "傳給每一個審 PR 審到血壓飆高的資深工程師，他們會默默轉發給全組。",
+          "variations": [
+            "AI 寫的程式碼三大特徵：自信、流暢、不能跑。",
+            "Vibe Coding 的本質就是：你不知道為什麼會動，但它動了；你不知道為什麼壞了，它就壞了。"
+          ]
+        },
+        "en": {
+          "content": "Senior dev opens the junior's PR. Three seconds in, the eyebrows go up.\n\n\"Why is this function calling an API that doesn't exist?\"\n\nJunior, beaming: \"Claude said it exists.\"\n\n\"This library isn't even installed in our project.\"\n\n\"Claude said it was.\"\n\n\"Where does this variable come from?\"\n\n\"Claude said it should exist.\"\n\nSenior dev takes a deep breath: \"Did you actually run this yourself?\"\n\nJunior's eyes drift to the ceiling: \"...Claude said it would run.\"\n\nPR title: feat: perfectly implements all requirements.",
+          "editorNote": "Send to any senior dev whose blood pressure spikes during code review — they'll quietly forward it to the whole team.",
+          "variations": [
+            "Three traits of AI-generated code: confident, fluent, doesn't run.",
+            "Vibe coding in a nutshell — you don't know why it works, it just works. You don't know why it broke, it just broke."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-173",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://programmerhumor.io/memes/standup-meetings",
+      "sourceNote": "Standup meeting overrun trope — reworked as countdown drama",
+      "tags": [
+        "Standup",
+        "會議",
+        "敏捷開發"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人加入團隊第一天，主管說：「我們 Standup 只開 15 分鐘，超快。」\n\n第 1 分鐘：PM 開始解釋什麼是 Standup。\n第 5 分鐘：後端工程師說明昨天卡關的原因，從 Kubernetes 一路講到他家網路。\n第 12 分鐘：前端跟設計師為了「這個按鈕到底要不要圓角」開戰。\n第 25 分鐘：CTO 加入，開始分享一個無關的部署故事。\n第 47 分鐘：有人試圖結束會議，被忽略。\n第 1 小時 13 分鐘：新人偷偷查了「離職通知期多久」。\n\nStandup 結束時，沒有任何 update 被同步。",
+          "editorNote": "傳給每一個被 Standup 殺死靈魂的工程師，附註：「我們團隊也一樣。」",
+          "variations": [
+            "Standup 之所以叫 Standup，是因為坐下會睡著。",
+            "15 分鐘 Standup 結束後，工程師的工作時間只剩下泡咖啡的空檔。"
+          ]
+        },
+        "en": {
+          "content": "New hire's first day. Manager says: \"Our standup is only 15 minutes. Super quick.\"\n\nMinute 1: PM starts explaining what a standup is.\nMinute 5: Backend dev explains yesterday's blocker, from Kubernetes all the way to their home wifi.\nMinute 12: Frontend and designer go to war over \"should this button have rounded corners.\"\nMinute 25: CTO joins and shares an unrelated deployment story.\nMinute 47: Someone tries to end the meeting. Ignored.\nHour 1, minute 13: New hire quietly Googles \"how long is a typical notice period.\"\n\nThe standup ends. Not a single update was actually shared.",
+          "editorNote": "Send to every engineer whose soul has been slowly drained by standups. Caption: 'This is also us.'",
+          "variations": [
+            "It's called 'standup' because if you sat down, you'd fall asleep.",
+            "After a 15-minute standup, the only work time engineers have left is the walk to the coffee machine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-174",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://programmerhumor.io/memes/technical-debt",
+      "sourceNote": "Technical debt / job hopping trope — reframed as inheritance drama",
+      "tags": [
+        "Technical Debt",
+        "離職",
+        "Legacy"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師處理技術債的三大策略：\n\n策略一：重構。\n預估時間：兩週。\n實際時間：兩年。\n結果：重構到一半，新功能來了，重構分支永遠 merge 不回去。\n\n策略二：寫文件。\n預估時間：一下午。\n實際時間：永遠不會做。\n結果：「之後再寫」是工程師最大的謊言，僅次於「這個 bug 我下午修」。\n\n策略三：換工作。\n預估時間：三個月找工作。\n實際時間：三個月找工作。\n結果：完美。技術債變成下一個倒楣鬼的問題。\n\n大多數人選策略三。",
+          "editorNote": "傳給每一個正在更新履歷的工程師，他們會懂這不是笑話，是攻略。",
+          "variations": [
+            "重構就像減肥，每個工程師都計畫過，沒有人真的做完。",
+            "技術債最快的還法不是還，是讓別人接手。"
+          ]
+        },
+        "en": {
+          "content": "Three engineering strategies for dealing with technical debt:\n\nStrategy 1: Refactor.\nEstimated time: two weeks.\nActual time: two years.\nResult: Halfway through, a new feature lands. The refactor branch never gets merged back.\n\nStrategy 2: Write documentation.\nEstimated time: one afternoon.\nActual time: never happens.\nResult: \"I'll write it later\" is the biggest lie engineers tell, second only to \"I'll fix that bug this afternoon.\"\n\nStrategy 3: Find a new job.\nEstimated time: three months of job hunting.\nActual time: three months of job hunting.\nResult: Flawless. Tech debt becomes the next poor soul's problem.\n\nMost people pick Strategy 3.",
+          "editorNote": "Send to any engineer currently polishing their resume. They'll recognize this isn't a joke, it's a roadmap.",
+          "variations": [
+            "Refactoring is like going on a diet — every engineer plans it, nobody finishes it.",
+            "The fastest way to pay off technical debt is to make it someone else's problem."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-175",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "It works on my machine — reframed as crime scene investigation",
+      "tags": [
+        "Bug",
+        "Deploy",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "正式環境炸了，PM 緊急召集所有工程師開會。\n\nPM：「為什麼線上會這樣？」\n\n工程師 A：「我本機跑沒事。」\n\n工程師 B：「我 staging 跑也沒事。」\n\n工程師 C：「我 QA 環境跑也沒事。」\n\n工程師 D：「我同事的同事的電腦跑也沒事。」\n\nPM：「⋯⋯所以呢？」\n\n所有工程師同聲：「所以是 production 的問題。」\n\nPM 沉默三秒：「⋯⋯那要怎麼修？」\n\n資深工程師推了推眼鏡：「重啟一下試試看。」",
+          "editorNote": "傳給每一個半夜被叫起來處理線上事故的工程師，附上一句「辛苦了」。",
+          "variations": [
+            "工程師最強的偵錯工具是「重啟」，第二強的是「等明天再說」。",
+            "Production 不會說謊，只是它說的話沒人聽得懂。"
+          ]
+        },
+        "en": {
+          "content": "Production is down. PM convenes an emergency meeting with all engineers.\n\nPM: \"Why is prod broken?\"\n\nEngineer A: \"Works on my machine.\"\n\nEngineer B: \"Works on staging.\"\n\nEngineer C: \"Works on QA.\"\n\nEngineer D: \"Works on my coworker's coworker's laptop.\"\n\nPM: \"...So?\"\n\nAll engineers, in unison: \"So it's a production problem.\"\n\nPM, after three seconds of silence: \"...How do we fix it?\"\n\nSenior engineer adjusts their glasses: \"Have we tried restarting it?\"",
+          "editorNote": "Send to every engineer who's been paged at 3 AM for a prod incident. Add: 'Hang in there.'",
+          "variations": [
+            "An engineer's most powerful debugging tool is 'restart it.' The second most powerful is 'let's deal with it tomorrow.'",
+            "Production never lies. It's just that nobody understands what it's saying."
+          ]
+        }
+      }
     }
   ]
 }

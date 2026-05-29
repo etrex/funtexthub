@@ -4210,6 +4210,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-170",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.cheers.com.tw/article/article.action?id=5028080",
+      "sourceNote": "職場主題廢話文學新創",
+      "tags": ["廢話文學", "上班", "職場", "主管"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人力資源研究指出：當你的主管走過來說「方便聊一下嗎」，他就是要找你聊一下。\n\n如果你說不方便，他還是會找你聊。\n\n所以這個問題的選項只有一個，就是聊一下。",
+          "editorNote": "適合在週一早上傳到同事群組，提前讓大家做好心理建設",
+          "variations": [
+            "開會的時候主管說「我長話短說」，通常代表他要講很久。",
+            "下班時間到了之後，如果你還在公司，那你就是在加班；如果你回家了，那就沒有。"
+          ]
+        },
+        "en": {
+          "content": "HR research has shown: when your manager walks over and says 'got a minute to chat?', he wants to chat with you.\n\nIf you say no, he will still chat with you.\n\nSo this question really only has one valid answer, which is yes.",
+          "editorNote": "Drop this in the team chat on a Monday morning to mentally prepare everyone for the week ahead",
+          "variations": [
+            "When your boss says 'I'll keep this short' in a meeting, it usually means it will be long.",
+            "If you're still at the office after your shift ends, you're working overtime. If you went home, you're not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-171",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "睡眠主題廢話文學新創",
+      "tags": ["廢話文學", "睡覺", "失眠", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠科學最新研究：當你睡著了之後，你就睡著了。\n\n如果你還醒著，那就還沒睡著。\n\n至於失眠的人，他們的特徵是想睡但睡不著，這跟睡著的人剛好相反。",
+          "editorNote": "凌晨三點失眠時可以默念這段，讓你從焦慮升級成困惑，然後不知不覺就天亮了",
+          "variations": [
+            "早睡的人，比晚睡的人，睡得早。這是科學。",
+            "想睡覺的時候去睡，就比較容易睡著；不想睡的時候硬睡，就比較難睡著。"
+          ]
+        },
+        "en": {
+          "content": "The latest in sleep science: once you fall asleep, you are asleep.\n\nIf you're still awake, you haven't fallen asleep yet.\n\nAs for people with insomnia, they are characterized by wanting to sleep but being unable to — the exact opposite of people who are asleep.",
+          "editorNote": "Recite this silently at 3am when you can't sleep — it elevates anxiety into confusion, and before you know it, the sun is up",
+          "variations": [
+            "People who go to bed early sleep earlier than people who go to bed late. This is science.",
+            "Sleeping when you want to sleep is easier. Forcing sleep when you don't want to is harder."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-172",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/585550258",
+      "sourceNote": "金錢主題廢話文學新創",
+      "tags": ["廢話文學", "錢", "月底", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "經濟學家發現：當你把錢花掉之後，那筆錢就不在你的戶頭裡了。\n\n如果你沒花，它就還在。\n\n所以月底沒錢的人，通常是因為他們把錢花掉了，這個現象在每個月底都會準時出現。",
+          "editorNote": "每個月25號之後傳到朋友群組，搭配一張哭臉貼圖效果加倍",
+          "variations": [
+            "薪水入帳的當下，戶頭會多一筆錢；扣掉房租、卡費、外送之後，就會變回原本的數字。",
+            "存錢的原理很簡單：當你不把錢花掉的時候，那筆錢就被存起來了。"
+          ]
+        },
+        "en": {
+          "content": "Economists have discovered: once you spend money, that money is no longer in your account.\n\nIf you don't spend it, it's still there.\n\nThis is why people who are broke at the end of the month are usually broke because they spent their money — a phenomenon that occurs reliably on schedule every month.",
+          "editorNote": "Send this to the group chat after the 25th, paired with a crying emoji for maximum impact",
+          "variations": [
+            "The moment your paycheck hits, your balance goes up. After rent, credit cards, and delivery orders, it returns to its original number.",
+            "The principle of saving is simple: when you don't spend money, that money is saved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-173",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "旅行主題廢話文學新創",
+      "tags": ["廢話文學", "旅行", "出門", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "旅遊專家指出：出門旅行之後，你就不在家了。\n\n回到家以後，你又會在家了。\n\n至於那些「旅行回來反而更累」的人，他們的疲勞主要來自於旅行，這個現象目前沒有解方，建議再排一次旅行。",
+          "editorNote": "適合放假結束的週日晚上傳給朋友，讓人體會到「假期收假」的宇宙真理",
+          "variations": [
+            "去旅行之前要先打包行李，因為不打包的話，你就沒有行李可以帶。",
+            "搭飛機的人，到了目的地通常會下飛機；沒下飛機的人，可能還在飛機上。"
+          ]
+        },
+        "en": {
+          "content": "Travel experts have noted: once you leave for a trip, you are no longer home.\n\nWhen you come back, you'll be home again.\n\nAs for people who feel even more tired after a vacation, the tiredness mainly comes from the trip itself. There is currently no known solution. The recommendation is to plan another trip.",
+          "editorNote": "Best sent to friends on a Sunday night at the end of a long weekend — they'll feel the cosmic truth of vacation ending",
+          "variations": [
+            "Before going on a trip, you need to pack. Without packing, you have no luggage to bring.",
+            "People who take flights usually get off the plane at their destination. Those who didn't get off may still be on the plane."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-174",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "學習主題廢話文學新創",
+      "tags": ["廢話文學", "學習", "讀書", "考試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教育研究顯示：考試之前複習的人，通常比沒複習的人準備得多。\n\n沒複習的人，準備得比較少。\n\n至於那種「明明有念書還是考不好」的情況，可能是因為他念的剛好不是考試會考的，這個現象在每次考試都會出現。",
+          "editorNote": "適合考前一週傳給臨時抱佛腳的朋友，讓他在崩潰之前先笑一下",
+          "variations": [
+            "讀書讀到睡著的人，醒來之後通常會發現自己睡著了。",
+            "背過的單字，在考試的時候想得起來就考得出來；想不起來就考不出來。"
+          ]
+        },
+        "en": {
+          "content": "Educational research shows: people who review before an exam are generally more prepared than those who don't.\n\nThose who don't review are less prepared.\n\nAs for the situation where 'I studied and still failed,' it may be that what you studied just happened not to be on the test. This phenomenon occurs in every exam.",
+          "editorNote": "Send to a friend cramming the week before an exam — give them one laugh before the full breakdown",
+          "variations": [
+            "Students who fall asleep while studying usually realize they fell asleep when they wake up.",
+            "Vocabulary you memorized can be recalled on the test if you can remember it. If you can't remember it, you can't recall it."
+          ]
+        }
+      }
     }
   ]
 }

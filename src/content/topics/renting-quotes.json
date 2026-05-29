@@ -1518,6 +1518,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-064",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://house.ettoday.net/news/3151124",
+      "sourceNote": "ETtoday 房東14年沒聯絡 租金凍漲 viral case; rewritten original",
+      "tags": ["房東", "佛系", "稀有", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我朋友租屋十四年，房東一次都沒聯絡，租金也沒漲。\n我才租兩年，房東已經傳了三百則訊息，漲了四次房租。\n原來「房東佛系不佛系」，比星座還準。",
+          "editorNote": "傳給每次抱怨房東很煩的朋友，提醒他這個世界上真的有不存在感的房東，只是輪不到我們",
+          "variations": [
+            "別人家房東十四年沒消息，我家房東十四秒已讀我訊息然後再傳一張電費單。",
+            "佛系房東是都市傳說，跟「上班不會被打擾」一樣，只存在於別人身上。"
+          ]
+        },
+        "en": {
+          "content": "My friend has rented the same place for fourteen years. Her landlord has never contacted her once, and the rent has never gone up.\nI've been renting for two years. My landlord has sent three hundred messages and raised the rent four times.\nTurns out 'chill landlord vs. clingy landlord' is more reliable than astrology.",
+          "editorNote": "Send to a friend constantly venting about their landlord — gentle reminder that ghost landlords exist, just never for us",
+          "variations": [
+            "Other people's landlords disappear for fourteen years. Mine read-receipts me in fourteen seconds and follows up with an electricity bill.",
+            "A chill landlord is an urban legend, just like 'a workday with no interruptions.' Only happens to other people."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-065",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://house.ettoday.net/news/2955513",
+      "sourceNote": "ETtoday 瞞凶宅10年 租金倍漲 viral case; rewritten original",
+      "tags": ["凶宅", "房東", "隱瞞", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "住了十年我才從鄰居口中知道這是凶宅。\n房東隱瞞了一整段歷史，卻沒隱瞞任何一次漲租。\n他誠實的部分，剛好都對他有利。",
+          "editorNote": "傳給準備簽長約的朋友，提醒對方先查 unluckyhouse 等凶宅資料庫，必要時要求合約寫上「非凶宅」",
+          "variations": [
+            "房東說「住這麼久都沒事啊」，我說「沒事的是你，不是我」。",
+            "凶宅可以隱瞞，房租不能少收——這就是房東的選擇性透明。"
+          ]
+        },
+        "en": {
+          "content": "I lived there ten years before a neighbor casually mentioned it was a stigmatized property.\nMy landlord hid an entire history, but never hid a single rent hike.\nHis honesty conveniently kicks in only when it benefits him.",
+          "editorNote": "Send to a friend about to sign a long lease — remind them to check stigmatized-property databases and ask for a 'not a death property' clause in writing",
+          "variations": [
+            "Landlord said, 'You've lived here this long and nothing happened, right?' I said, 'Nothing happened to you. I'm a different story.'",
+            "Death properties can stay hidden. Rent hikes never can. That's a landlord's selective transparency."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-066",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://house.ettoday.net/news/3037457",
+      "sourceNote": "2026 租賃條例修法 房東反擊 卡關 register; rewritten original",
+      "tags": ["租賃條例", "修法", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新法說房客最短租三年、漲幅有上限、不能拒絕設籍報稅。\n房東看完，把房子下架兩個月，重新貼上：「短租歡迎、不可設籍、市場行情。」\n上有政策，他下有貼文。",
+          "editorNote": "適合每次「居住正義」修法消息一出就被打回原形的朋友轉發，提醒大家政策有了，房東的創意也有了",
+          "variations": [
+            "政府說三年保障，房東說兩年十一個月剛好。",
+            "新法保護房客的速度，永遠追不上房東改合約的速度。"
+          ]
+        },
+        "en": {
+          "content": "The new law says tenants get a three-year minimum lease, capped rent hikes, and the right to register their address and claim taxes.\nMy landlord pulled the listing for two months and reposted it as: 'Short-term welcome. No address registration. Market rate.'\nThe government sets the policy. He sets the post.",
+          "editorNote": "Send whenever 'housing justice' reform makes the news and immediately gets neutralized — the policy moves, but the landlord's creativity moves faster",
+          "variations": [
+            "Government says three-year protection. Landlord says two years and eleven months is the perfect length.",
+            "New laws protect tenants. They will never out-update a landlord rewriting the lease."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-067",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 surprise inspection meme 突襲驗屋; rewritten original",
+      "tags": ["驗屋", "隱私", "房東", "界線"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東傳訊息：「明天下午我會去看一下房子，看一下就好。」\n隔天他帶著手電筒、捲尺、跟一個我不認識的人，看了三個小時。\n所謂「看一下」，是房東與時間的個人關係。",
+          "editorNote": "傳給每次被房東突襲驗屋的朋友，提醒他依法房東進入要事前通知並徵得同意，並非他想來就來",
+          "variations": [
+            "房東的「順便看一下」跟我媽的「順便煮一點」是同一個量詞。",
+            "他說只看廚房，結果連我的抽屜都打開——「不好意思我以為這也是廚房的延伸」。"
+          ]
+        },
+        "en": {
+          "content": "Landlord texted: 'I'll swing by tomorrow afternoon, just a quick look.'\nNext day he showed up with a flashlight, a tape measure, and a stranger I'd never seen — and stayed three hours.\n'A quick look' apparently means something very specific in landlord time.",
+          "editorNote": "Send to a friend ambushed by a 'quick inspection' — remind them landlords are legally required to give notice and get consent, not just show up",
+          "variations": [
+            "A landlord's 'just a quick peek' uses the same unit of measurement as my mom's 'just a little snack.'",
+            "He said he'd only check the kitchen. He opened my drawers. 'Sorry, I thought this counted as kitchen-adjacent.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-068",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://house.ettoday.net/news/3171390",
+      "sourceNote": "2026 Q1 六都租賃實登3.4萬筆 年增近2成 register; rewritten original",
+      "tags": ["買房", "租屋", "厭世", "成年"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說 Q1 六都租賃實登成長兩成，\n意思是更多人放棄了買房的夢，加入了我們繳房租的隊伍。\n歡迎光臨，這裡沒有未來，但有 Wi-Fi。",
+          "editorNote": "適合年初看完購屋新聞、決定再租一年的朋友，附上一張你套房的雜亂全景照",
+          "variations": [
+            "買房的人越來越少，租房的人越來越多，房東的笑容越來越燦爛。",
+            "我這代人的成年禮不是買房，是學會把月租分成十二期跟自己的未來討價還價。"
+          ]
+        },
+        "en": {
+          "content": "News says rental contracts in the six metros are up twenty percent this quarter.\nTranslation: more people gave up on owning a home and joined us in the rent-paying queue.\nWelcome aboard. There's no future here, but the Wi-Fi works.",
+          "editorNote": "Perfect for friends who just read another 'home ownership at a record low' headline and decided to renew the lease — pair with a wide shot of your messy studio",
+          "variations": [
+            "Fewer people buying, more people renting, landlords smiling wider every quarter.",
+            "My generation's rite of passage isn't buying a home. It's learning to split monthly rent into twelve installments of arguing with your own future."
+          ]
+        }
+      }
     }
   ]
 }

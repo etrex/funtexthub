@@ -632,6 +632,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-028",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.fastly.com/blog/streaming-multibillion-dollar-problem-piracy-password-sharing",
+      "sourceNote": "2026 串流平台帳號分享打擊政策觀察，原創改編",
+      "tags": ["帳號分享", "串流平台", "家庭", "家人定義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的家人定義，由 Netflix 決定。\n\n串流平台問你：「請問此裝置是否在主要住所使用？」\n你看著手機，認真思考自己最近這個月睡了哪幾張床。\n\n你媽用你的帳號——平台說她不是家人。\n你前任沒退出帳號——平台也說她不是家人。\n你大學室友還在登入——平台說該收費了。\n\n你終於明白：\n以前家人是看戶口名簿，\n現在家人是看 IP 位址。\n\n所謂血濃於水，\n敵不過一條 Wi-Fi 訊號。",
+          "editorNote": "傳給那個被串流平台踢出家人帳號的朋友——讓他知道這個時代的親情是用流量定義的",
+          "variations": [
+            "現實版：你媽打電話問你「為什麼我的劇看不了」，你說「平台覺得妳離我太遠」，你媽嘆氣「我就在你隔壁房間」——隔壁房間，平台不認"
+          ]
+        },
+        "en": {
+          "content": "In 2026, family is defined by Netflix.\n\nThe streaming platform asks: \"Is this device on your primary residence?\"\nYou look at your phone, seriously trying to recall which beds you slept in this month.\n\nMom uses your account — platform says she's not family.\nEx never logged out — platform says she's not family.\nCollege roommate still signed in — platform says it's time to pay up.\n\nYou finally understand:\nFamily used to be defined by a household registry.\nNow family is defined by an IP address.\n\n\"Blood is thicker than water\"\nis no match for a Wi-Fi signal.",
+          "editorNote": "Send to the friend who just got kicked off a family account by a streaming platform — let them know this era defines kinship in bandwidth",
+          "variations": [
+            "Real version: mom calls asking 'why can't I watch my show?' You say 'the platform thinks you're too far from me.' Mom sighs, 'I'm in the next room.' Next room doesn't count to the platform."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-029",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.reviews.org/tv-service/streaming-habits/",
+      "sourceNote": "2026 訂閱疲勞 39% 取消 55% 加入新平台輪迴現象，原創改編",
+      "tags": ["訂閱疲勞", "輪流訂閱", "省錢", "現代追劇"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你現在的追劇方式：\n\n一月——訂 Netflix，追完那部古裝劇，退訂。\n二月——訂 Disney+，看完漫威新劇，退訂。\n三月——訂 HBO，追完那部美劇，退訂。\n四月——訂愛奇藝，看完陸劇大結局，退訂。\n五月——你看著 6 個訂閱通知，發現自己根本忘了退哪個。\n\n你不是在追劇，\n你是在玩一個叫「精準訂閱管理」的遊戲，\n而平台演算法的設計，就是讓你輸。\n\n2026 年最會理財的人，\n不是會買股票的人，\n是每個月準時退訂的人。",
+          "editorNote": "傳給那個手機行事曆設了五個「記得退訂」提醒的朋友——讓他知道這已經是現代基本生存技能",
+          "variations": [
+            "升級版：你發現自己退訂的速度沒有平台漲價的速度快，於是你開始把退訂當成一種反抗——每按一次「取消訂閱」，你都覺得自己贏了一點"
+          ]
+        },
+        "en": {
+          "content": "Your current binge-watching strategy:\n\nJanuary — subscribe to Netflix, finish that period drama, cancel.\nFebruary — subscribe to Disney+, finish the new Marvel show, cancel.\nMarch — subscribe to HBO, finish that prestige drama, cancel.\nApril — subscribe to iQiyi, finish the C-drama finale, cancel.\nMay — you stare at 6 active subscription notifications, realizing you forgot which ones you canceled.\n\nYou're not watching shows.\nYou're playing a game called \"precision subscription management,\"\nand the algorithm was designed for you to lose.\n\nThe smartest money managers of 2026\naren't the ones who buy stocks.\nThey're the ones who remember to cancel on time.",
+          "editorNote": "Send to the friend with five 'remember to cancel' calendar reminders on their phone — let them know this is now a basic survival skill",
+          "variations": [
+            "Next-level: you realize you can't cancel as fast as platforms can raise prices. So you start treating cancellation as resistance — every 'unsubscribe' click feels like a small win."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-030",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.deloitte.com/us/en/insights/industry/technology/digital-media-trends-consumption-habits-survey.html",
+      "sourceNote": "2026 Deloitte 報告 19% 美國觀眾偏好週更勝過 binge，分歧化追劇文化觀察",
+      "tags": ["週更", "binge", "追劇選擇", "世代差異"],
+      "i18n": {
+        "zh-tw": {
+          "content": "追劇現在分成兩派人：\n\n一派——「一次出完才看，我不要被一週吊一次。」\n另一派——「週更才有期待感，一次看完太空虛。」\n\n兩派每次在群組吵架：\n binge 派說週更派「自虐」。\n週更派說 binge 派「不懂愛」。\n\n但其實兩派的本質一樣：\n他們都怕劇看完後的那種空。\n\n binge 派是把空一次承擔，\n週更派是把空切成 12 份每週領一點。\n\n你選哪一派，\n不是你追劇方式的差別，\n是你面對結束方式的差別。",
+          "editorNote": "傳給那個跟朋友為了「該 binge 還是週更」吵翻的人——讓他知道兩派最後悲傷的量是一樣的",
+          "variations": [
+            "深度版：你終於發現自己以前是 binge 派，現在開始變週更派——不是你變了，是你越來越捨不得讓好故事一次結束"
+          ]
+        },
+        "en": {
+          "content": "Drama fans now split into two camps:\n\nCamp A — \"Only watch once the full season drops. I refuse to be strung along weekly.\"\nCamp B — \"Weekly releases create anticipation. Bingeing leaves you hollow.\"\n\nThey fight in group chats:\nThe binge camp calls the weekly camp \"self-flagellating.\"\nThe weekly camp calls the binge camp \"loveless.\"\n\nBut underneath, both camps want the same thing:\nthey're both scared of the emptiness after the show ends.\n\nBingers absorb the emptiness all at once.\nWeekly watchers slice the emptiness into 12 small portions, weekly delivery.\n\nWhich camp you pick\nisn't about how you watch shows.\nIt's about how you face endings.",
+          "editorNote": "Send to the friend who got into a fight with a friend about binge vs. weekly — let them know both camps carry the same total amount of sadness",
+          "variations": [
+            "Deep version: you realize you used to be a binger and have slowly become a weekly watcher. You didn't change — you just keep getting more reluctant to let good stories end all at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-031",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.currenttrends.news/2026/01/why-streaming-feels-broken.html",
+      "sourceNote": "2026 串流平台碎片化、跨平台追劇辛酸觀察，原創改編",
+      "tags": ["平台碎片化", "跨平台追劇", "煩躁", "現代煩惱"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友推薦你一部劇，你問：「在哪追？」\n\n他回：「前八集在 Netflix，第九集到第十二集在 Disney+，後面在愛奇藝，獨家彩蛋在 Apple TV。」\n\n你愣了三秒，內心算了一下：\n四個平台月費加起來，比你電費還貴。\n\n你終於明白為什麼盜版又回來了——\n不是大家變壞，\n是世界把追一部劇搞得太複雜，\n複雜到你覺得「乖乖付錢」反而是浪費生命。\n\n2026 年的追劇浪漫，\n是你願意為一部劇開四個 app、登入四次、忍受四個介面，\n只為了看完男女主角在不同平台繼續相愛。",
+          "editorNote": "傳給那個被串流平台分屍折磨到準備放棄追劇的朋友——讓他知道這不是他的錯",
+          "variations": [
+            "現實版：你乾脆等劇完全播完，等盜版資源整理完整，再一次看完——你不是貪小便宜，你是被平台的混亂逼出來的"
+          ]
+        },
+        "en": {
+          "content": "Friend recommends a show. You ask, \"Where do I watch it?\"\n\nThey reply: \"Episodes 1 through 8 on Netflix, 9 to 12 on Disney+, the rest on iQiyi, exclusive bonus content on Apple TV.\"\n\nYou freeze for three seconds, doing the math:\nfour monthly subscriptions total more than your electricity bill.\n\nYou finally understand why piracy quietly came back —\nit's not that people got worse,\nit's that the world made watching one show so complicated\nthat \"paying properly\" started feeling like a waste of life.\n\nThe romance of 2026 binge-watching\nis being willing to install four apps, log in four times, suffer four interfaces,\njust to watch two leads keep falling in love across different platforms.",
+          "editorNote": "Send to the friend who's so worn down by platform fragmentation they're about to give up on shows entirely — let them know it's not their fault",
+          "variations": [
+            "Real version: you decide to just wait until the show fully airs, until pirated rips are properly stitched together, and watch it then — you're not cheap, you were driven there by platform chaos."
+          ]
+        }
+      }
     }
   ]
 }

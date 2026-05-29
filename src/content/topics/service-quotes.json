@@ -2153,6 +2153,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-091",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.managertoday.com.tw/columns/view/72110",
+      "sourceNote": "Inspired by 經理人 2026 新竹奧客事件評論「寧可得罪奧客，也不要氣走員工」 management角度； rewritten from employee POV as a 「公司現在開始護員工，是因為徵不到下一個」 cynical reframe — original phrasing",
+      "tags": ["服務業", "缺工", "公司", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前主管說：「客人最大，先道歉再說。」\n現在主管說：「不要忍，公司挺你。」\n中間發生了什麼事？\n中間發生的是——\n他們發現徵不到下一個我了。",
+          "editorNote": "傳給最近發現公司突然開始「保護員工」的同事。不是公司變好了，是缺工讓你變貴了。傳給對「公司新政策」抱持希望的菜鳥，溫柔提醒一下。",
+          "variations": [
+            "公司開始挺員工，不是因為良心發現，是因為履歷表變薄了。",
+            "「不要忍」的前提，是公司知道再徵一個比安撫客人還貴。"
+          ]
+        },
+        "en": {
+          "content": "Old manager line: \"Customer is king. Apologize first, sort it out later.\"\nNew manager line: \"Don't take it. We've got your back.\"\nWhat happened in between?\nIn between, they figured out\nthey couldn't hire the next me.",
+          "editorNote": "Send this to anyone who suddenly noticed the company is \"protecting employees\" now. The company didn't grow a conscience — the labor shortage made you expensive. A gentle reality check for newer coworkers who still believe in \"new policies.\"",
+          "variations": [
+            "Companies start protecting employees not because they found a conscience, but because the résumé stack got thin.",
+            "\"Don't take it\" only kicks in once the company realizes hiring your replacement costs more than soothing a complaint."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-092",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.buzzfeed.com/tanishtha_kotian/retail-workers-wild-customer-stories",
+      "sourceNote": "Inspired by BuzzFeed 2026-05-19 retail-worker wild-stories roundup; rewritten as a 「客人把店當自家客廳」 boundary-blurring joke — original phrasing avoiding direct anecdote copy",
+      "tags": ["服務業", "奧客", "零售", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人坐在試衣間外面的沙發上，\n脫掉鞋、滑手機、\n叫他老公去拿衣服、\n吃自己帶的麵包配可樂。\n我走過去禮貌地問：「請問需要協助嗎？」\n他抬頭看我：「妳很吵欸。」\n抱歉，這是賣場，不是您家的二樓。",
+          "editorNote": "傳給最近被「客人把店當客廳」攻擊過的零售同事。我們提供更衣間、試穿椅、空調，但沒有附贈一個「家」的感覺給您。",
+          "variations": [
+            "客人把賣場當自己家，唯一沒有的是房貸壓力。",
+            "您在這裡可以試穿、可以休息，但不能脫鞋、不能野餐、不能罵店員。"
+          ]
+        },
+        "en": {
+          "content": "Customer sitting on the fitting-room couch:\nshoes off, scrolling her phone,\nordering her husband to fetch outfits,\neating a sandwich she brought from home, washing it down with a Coke.\nI walked over: \"Can I help you with anything?\"\nShe looked up: \"You're being loud.\"\nMa'am, this is a department store. Not the second floor of your house.",
+          "editorNote": "Send to retail coworkers recently ambushed by the \"customer who treats the store like a living room\" species. We provide fitting rooms, benches, air conditioning — not a complimentary feeling of home.",
+          "variations": [
+            "She treats the store like her own house — minus the mortgage stress.",
+            "Here you may try things on, sit, cool off. You may not take off your shoes, eat a picnic, or yell at the staff."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-093",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://pleated-jeans.com/2026/05/11/funny-bad-entitled-customer-stories-tweets/",
+      "sourceNote": "Inspired by Pleated Jeans 2026-05-11 sushi-restaurant Kayla roundup; rewritten as 「客人覺得我們是 24 小時待命的 AI」 modern-tech-expectation joke — original framing",
+      "tags": ["服務業", "奧客", "客服", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人晚上十一點傳訊：「在嗎？」\n隔天早上八點半，他第一通電話打進來：「為什麼昨天沒回我？」\n先生，我們是服務業，不是 ChatGPT，\n我們會下班、會睡覺、會夢到您罵我們。\n您不能 24 小時連線到我，\n您家的 Wi-Fi 都不一定 24 小時穩定了。",
+          "editorNote": "傳給最近被「為什麼沒馬上回」攻擊過的客服與小編同事。AI 都會當機重啟了，何況是領時薪的人。",
+          "variations": [
+            "客人以為員工是雲端服務，隨時 online、永遠不離線、出錯還不能退費。",
+            "您家的 Wi-Fi 都會斷線，憑什麼我們不能下班。"
+          ]
+        },
+        "en": {
+          "content": "Customer texts at 11pm: \"You there?\"\n8:30am, his first call comes in: \"Why didn't you reply yesterday?\"\nSir, we're a service business. Not ChatGPT.\nWe clock out, we sleep, we dream about you yelling at us.\nYou cannot stay connected to me 24/7.\nEven your home Wi-Fi isn't connected 24/7.",
+          "editorNote": "Send to customer-support coworkers and social-media managers who got hit with \"why didn't you reply instantly?\" If AI gets to crash and reboot, an hourly worker definitely does.",
+          "variations": [
+            "Customers think employees are cloud services: always online, never down, no refund on errors.",
+            "Your Wi-Fi drops out. Somehow I'm not allowed to clock out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-094",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://vocus.cc/article/64f365aefd89780001b09f20",
+      "sourceNote": "Inspired by 方格子 「客人就是欺善怕惡」 essay; rewritten as 「客人對 AI 客服很有耐心，對真人客服沒有」 modern技術倒置 framing — original anchor",
+      "tags": ["服務業", "客服", "AI", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人跟 AI 客服機器人講話，會說「請」、會說「謝謝」、\n還會打字打很慢怕它聽不懂。\n轉接到真人客服，第一句話：「終於是人了，你給我聽好。」\n原來機器人比人類受尊重，\n因為機器人不會哭，\n客人罵爽就好。",
+          "editorNote": "傳給做客服的同行——尤其是那些被「終於是人了」開頭的電話折磨過的。AI 時代最諷刺的事情：機器人擁有的禮貌，比真人客服還多。",
+          "variations": [
+            "客人對 AI 講話比對真人客氣，因為他知道 AI 沒有眼淚可以收。",
+            "機器人不會委屈，所以客人捨不得對它兇——這是 2026 年最荒謬的禮貌邏輯。"
+          ]
+        },
+        "en": {
+          "content": "When customers talk to the AI chatbot, they say \"please,\" they say \"thanks,\"\nthey type slowly in case the bot can't keep up.\nTransferred to a human agent, first sentence: \"Finally, a real person. Now you listen to me.\"\nTurns out robots get more respect than people,\nbecause robots don't cry,\nso the customer can yell guilt-free.",
+          "editorNote": "Send to call-center coworkers — especially anyone who got worn down by a call that opened with \"finally, a real person.\" The most ironic thing about the AI era: the chatbot gets more politeness than the human.",
+          "variations": [
+            "Customers are politer to AI than to humans, because they know AI has no tears to collect.",
+            "Robots can't feel hurt, so customers feel bad yelling at them. That's the dumbest politeness logic of 2026."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-095",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Inspired by Dcard 心情板 「奧客經典語錄」 roundup; rewritten as 「您知道我是誰嗎？」 self-introduction punchline — original phrasing",
+      "tags": ["服務業", "奧客", "金句", "笑話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "奧客：「妳知道我是誰嗎？」\n我笑著回：「不好意思，這位先生，\n我這邊有客戶資料系統可以查，\n您要不要報一下您的會員編號？」\n奧客愣了三秒：「⋯⋯算了。」\n原來「我是誰」這個問題，\n他自己也答不出來。",
+          "editorNote": "傳給最近被「您知道我是誰嗎？」綁架的櫃台同事。會員系統是這個時代最有效的奧客照妖鏡——真正的 VIP 不需要自報名號，他的編號會幫他講話。",
+          "variations": [
+            "問「你知道我是誰嗎？」的客人，通常就是那個沒有人需要記住的人。",
+            "真正的 VIP 不會問你認不認得他，因為他知道系統會幫他簽到。"
+          ]
+        },
+        "en": {
+          "content": "Difficult customer: \"Do you know who I am?\"\nMe, smiling: \"No problem, sir.\nWe have a customer database I can look up.\nWould you like to give me your membership number?\"\nThree seconds of silence: \"...Never mind.\"\nTurns out \"who I am\"\nwas a question he couldn't answer either.",
+          "editorNote": "Send this to front-desk coworkers recently held hostage by \"do you know who I am?\" The customer database is this era's best entitled-customer detector — actual VIPs don't announce themselves; their number does it for them.",
+          "variations": [
+            "Customers who ask \"do you know who I am?\" are usually the ones nobody had to remember.",
+            "Real VIPs don't ask if you recognize them. They know the system already checked them in."
+          ]
+        }
+      }
     }
   ]
 }

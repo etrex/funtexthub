@@ -448,6 +448,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-020",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://news.ltn.com.tw/news/society/breakingnews/5442981",
+      "sourceNote": "陸軍士官長兄弟盜用同袍個資狂搶 1,450 張票，2 年獲利逾 2,000 萬，桃檢起訴並扣 2,079 萬",
+      "tags": ["黃牛", "起訴", "搶票", "正義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞：軍人盜用同袍個資搶票，\n兩年賺兩千萬。\n\n我兩年賺不到兩千萬，\n是不是表示——\n\n我太守法，\n還是我太笨？",
+          "editorNote": "5/20 軍人黃牛集團案是這週社會新聞最大宗。傳給也在懷疑自己職涯選擇的搶票失敗者",
+          "variations": [
+            "認命版：「他兩年兩千萬被起訴，我兩年存兩萬被通膨吃掉。法律有沒有要起訴我的命運？」"
+          ]
+        },
+        "en": {
+          "content": "News: soldier ran a scalper ring,\nmade $600K in two years.\n\nI haven't made $600K in two years.\n\nDoes that mean I'm too honest,\nor too dumb?",
+          "editorNote": "Use when a high-profile scalper bust drops. Pair with a screenshot of the headline and a thinking-emoji on your own LinkedIn",
+          "variations": [
+            "Resigned: 'He made six figures and got indicted. I followed the rules and got inflation. The system is auditing the wrong person.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-021",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://udn.com/news/story/7320/9521918",
+      "sourceNote": "議員爆料拓元防黃牛機制誤殺粉絲，停權帳號高達 2.5 萬筆，被批霸王條款",
+      "tags": ["停權", "誤殺", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "拓元為了防黃牛，\n停權了 2.5 萬個帳號。\n\n其中一個是我。\n\n我不是黃牛，\n我只是手太快、命太苦。",
+          "editorNote": "誤殺粉絲是 2026 防黃牛機制的副作用。被停權的朋友最需要這句正名",
+          "variations": [
+            "申訴版：「申訴信第 4 封寄出。理由欄寫：我只是真的很想看而已。」"
+          ]
+        },
+        "en": {
+          "content": "To stop scalpers,\nthe site banned 25,000 accounts.\n\nOne of them was mine.\n\nI'm not a scalper.\nI'm just fast-clicking and unlucky.",
+          "editorNote": "Anti-bot systems sweeping real fans is the new wave of frustration. Send to a friend who just got an unexplained suspension email",
+          "variations": [
+            "Appeal version: 'Submitted appeal #4. Reason field: I just really wanted to go.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-022",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.thenewslens.com/article/263626",
+      "sourceNote": "BTS 黃牛 11 倍價賣票，新出現「代登入搶票」要求粉絲提供拓元帳號與個資",
+      "tags": ["代登入", "詐騙", "個資", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "黃牛新模式：\n「給我你的拓元帳號，\n我幫你搶。」\n\n他幫我搶到的，\n\n是我整個人生的後門。",
+          "editorNote": "代登入搶票是 2026 最危險詐騙新手法。轉給快要交出帳密的朋友當勸退",
+          "variations": [
+            "警告版：「你交出帳號的瞬間，他搶到的不是票，是你信用卡、身分證、跟未來三年的麻煩。」"
+          ]
+        },
+        "en": {
+          "content": "New scam:\n'Just give me your ticket-site login.\nI'll grab the seat for you.'\n\nWhat he grabs\n\nis the back door to your whole life.",
+          "editorNote": "Account-takeover scams disguised as concierge services. Send to anyone tempted to hand over credentials",
+          "variations": [
+            "Warning version: 'The moment you share that password, he's not buying a ticket — he's buying three years of your future headaches.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-023",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021480",
+      "sourceNote": "BTS 高雄場全面實名制，每張票綁定購買者姓名與身分證，入場需出示正本",
+      "tags": ["實名制", "入場", "證件", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "演唱會實名制。\n\n要票、要證件正本、\n要本人、要呼吸。\n\n四個條件，\n我大概只齊三個。",
+          "editorNote": "實名制現場核對很多粉絲帶錯證件被擋。傳給正在翻找健保卡的朋友最有感",
+          "variations": [
+            "焦慮版：「票在、人在、證件在，唯獨我的鎮定不在。」"
+          ]
+        },
+        "en": {
+          "content": "Real-name entry now.\n\nNeed ticket, photo ID original,\nthe actual you, and a pulse.\n\nFour requirements.\nI've got three on a good day.",
+          "editorNote": "Strict ID checks at the door are the new normal. Send to a friend currently digging through their wallet at the gate",
+          "variations": [
+            "Anxious: 'Ticket here. Body here. ID here. Composure: still loading.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-024",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://legalaffairs.gov.taipei/News_Content.aspx?n=9DCD6AAC1B9B2ACB&sms=72544237BBE4C5F6&s=EC5A4308886605CC",
+      "sourceNote": "北市消保官警示：演唱會二手票詐騙以「原價釋出」「限時讓票」吸引私訊跳離平台匯款",
+      "tags": ["二手票", "詐騙", "讓票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「原價讓票，限時三分鐘」。\n\n限時的是時間，\n限智的是我。\n\n錢匯出去那一刻，\n票跟那個人都失蹤了。",
+          "editorNote": "原價讓票詐騙手法在開賣後一週最猖獗。傳給看到 Threads 私訊讓票文心動的朋友當解毒劑",
+          "variations": [
+            "後悔版：「他說限時三分鐘，我三秒就匯款。詐騙集團的效率，比我的判斷力先到場。」"
+          ]
+        },
+        "en": {
+          "content": "'Selling at face value. Three-minute window.'\n\nThe window was on the time.\nThe limit was on my judgment.\n\nThe moment I sent the money,\nthe ticket and the seller both vanished.",
+          "editorNote": "Urgency-bait resale scams spike right after a sellout. Forward to the friend currently DMing a stranger with a screenshot",
+          "variations": [
+            "Regret version: 'He said three-minute window. I transferred in three seconds. The scammers' speed beat my brain to the meeting.'"
+          ]
+        }
+      }
     }
   ]
 }

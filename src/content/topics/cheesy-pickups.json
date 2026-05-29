@@ -3779,7 +3779,9 @@
           "editorNote": "經典魔術梗的對話版，反客為主把『你會魔術嗎』反問回對方，第一次見面或聚會場合都好用，輕鬆不油膩",
           "variations": [
             "你不會魔術？那我眼裡只剩你一個人是怎麼回事",
-            "你是不是偷學了什麼咒語？我朋友都跟我說，剛才一群人聚會我只看到你"
+            "你是不是偷學了什麼咒語？我朋友都跟我說，剛才一群人聚會我只看到你",
+            "你會催眠嗎？不會。那怪了，我整晚眼睛離不開你",
+            "你有特異功能嗎？沒有吧。那為什麼我心跳被你遙控了一整天"
           ]
         },
         "en": {
@@ -3787,7 +3789,9 @@
           "editorNote": "A twist on the classic magician line — by asking them first, the punchline feels less rehearsed. Solid for first meetings or group settings.",
           "variations": [
             "You don't do magic? Then explain why I literally cannot see anyone else when you walk in.",
-            "Did you cast a spell or something? My friends said it was a packed party — I only saw you."
+            "Did you cast a spell or something? My friends said it was a packed party — I only saw you.",
+            "Do you do hypnosis? No. Strange, because my eyes haven't been able to leave you all night.",
+            "Got any superpowers? Not really. Then why does my heartbeat speed up every time you walk by?"
           ]
         }
       }
@@ -4866,30 +4870,146 @@
       }
     },
     {
-      "id": "cp-175",
-      "dateAdded": "2026-05-24",
-      "sourceUrl": "https://www.keeplaughingforever.com/pick-up-lines",
-      "sourceNote": "magician/disappear trope, rewritten with everyday setup",
+      "id": "cp-176",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://pikliners.com/coffee-pick-up-lines/",
+      "sourceNote": "coffee-themed pickup riff, rewritten as dialogue with everyday morning context",
       "tags": [
         "對話",
-        "可愛",
-        "經典"
+        "甜",
+        "生活"
       ],
       "i18n": {
         "zh-tw": {
-          "content": "「你會變魔術嗎？」\n「不會啊，怎麼了？」\n「奇怪，那為什麼我看你的那一刻，全世界其他人都不見了？」",
-          "editorNote": "把『你是魔術師嗎』經典款改成倒裝的對話，讓對方先否認再被反問，戲劇效果更強，在派對、人多的場合說特別有畫面感",
+          "content": "「你今天喝咖啡了嗎？」\n「還沒，怎麼了？」\n「那難怪我整個早上都提不起精神，原來我缺的不是咖啡因，是你。」",
+          "editorNote": "適合在早上見面、約咖啡、或加班場合丟出來，把日常的『缺咖啡』情境順勢轉成告白，土歸土但很貼生活，對方比較容易笑出來",
           "variations": [
-            "你會催眠嗎？不會。那怪了，我整晚眼睛離不開你",
-            "你有特異功能嗎？沒有吧。那為什麼我心跳被你遙控了一整天"
+            "你今天喝咖啡了嗎？沒。難怪我精神一直不好，看來我上癮的不是咖啡，是你",
+            "你早餐吃了沒？還沒。我也是，因為今天的『甜點』我想留給你"
           ]
         },
         "en": {
-          "content": "\"Are you a magician?\"\n\"No, why?\"\n\"Weird — because the second I looked at you, everyone else in the room disappeared.\"",
-          "editorNote": "Flips the classic magician line into a question-first dialogue, so the cheesy reveal feels earned rather than rehearsed. Great for crowded bars or parties where the 'everyone disappeared' bit has visual punch.",
+          "content": "\"Have you had coffee yet today?\"\n\"Not yet, why?\"\n\"That explains it — I've been dragging all morning. Turns out I wasn't low on caffeine. I was low on you.\"",
+          "editorNote": "Perfect for morning meetups, coffee dates, or office banter. The 'low on caffeine' setup feels grounded in daily life, so the cheesy pivot lands lighter and gets an actual laugh instead of an eye roll.",
           "variations": [
-            "Do you do hypnosis? No. Strange, because my eyes haven't been able to leave you all night.",
-            "Got any superpowers? Not really. Then why does my heartbeat speed up every time you walk by?"
+            "Have you had coffee yet? Nope. Same — guess my real addiction isn't espresso, it's you.",
+            "Did you grab breakfast? Not yet. Me neither — I was saving room for something sweeter, like you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-177",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.today.com/life/relationships/cheesy-pick-up-lines-rcna132030",
+      "sourceNote": "fine-print / read-between-the-lines trope, rewritten as conversation",
+      "tags": [
+        "對話",
+        "甜",
+        "創意"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你看書都看得很仔細嗎？」\n「還好啊，怎麼？」\n「那我有點擔心，因為我整本人生最重要的那一行，就寫著你的名字。」",
+          "editorNote": "把『你是書裡的小字』經典土味轉成對話版，讓對方先回答『還好』再被反問才知道是告白，適合文青、書店約會、安靜場合用",
+          "variations": [
+            "你會看書本上的小字嗎？有時候會。那你要看仔細，因為我心裡最小的那行字寫著你",
+            "你讀書專心嗎？普通。那糟了，我怕你錯過我這頁最重要的一句話"
+          ]
+        },
+        "en": {
+          "content": "\"Do you actually read the fine print?\"\n\"Sometimes. Why?\"\n\"That's good — because the most important line of my whole life has your name on it.\"",
+          "editorNote": "Reworks the classic 'you'd be the fine print' line into a dialogue that earns its punch. Works well in bookstores, libraries, or quiet coffee shops where a soft, bookish tone fits the room.",
+          "variations": [
+            "Do you read every page? Mostly. Good — because the most important sentence in mine has your name in it.",
+            "Are you a careful reader? I try to be. Then don't skip my next line — it's about you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-178",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://rizzsee.com/dessert-pick-up-lines/",
+      "sourceNote": "dessert / saved room trope, rewritten as natural dinner dialogue",
+      "tags": [
+        "對話",
+        "甜",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你吃飽了嗎？」\n「差不多了，怎樣？」\n「那不行，我特地留了一個位置給甜點，結果現在這個位置只想留給你。」",
+          "editorNote": "適合在吃飯、約會、宵夜場合用，把『胃裡留位置給甜點』的日常梗自然延伸成告白，順口又不會太尬，餐桌上很容易接話",
+          "variations": [
+            "你吃飽了嗎？飽了。那糟糕，我胃裡那塊『甜點專屬位』突然只想裝下你",
+            "晚餐還吃得下嗎？快不行了。可惜，我本來想推薦今晚最甜的——就是你"
+          ]
+        },
+        "en": {
+          "content": "\"Are you full yet?\"\n\"Pretty much, why?\"\n\"Damn — I was saving room for dessert, but now that spot only wants to be reserved for you.\"",
+          "editorNote": "Best used at dinner, late-night snacks, or after a shared meal. The 'saving room for dessert' setup is so universal it doesn't feel forced, and the pivot to flirting reads as playful rather than corny.",
+          "variations": [
+            "Got any room left? Barely. Shame — that dessert slot in my stomach is suddenly only craving you.",
+            "Still hungry? Not really. Too bad — I was about to recommend the sweetest thing on the menu, which is you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-179",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.fashionbeans.com/article/best-pickup-lines/",
+      "sourceNote": "Google / search-themed pickup, rewritten with everyday phone setup",
+      "tags": [
+        "對話",
+        "科技",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你最近常用搜尋引擎嗎？」\n「滿常的啊，怎麼了？」\n「我幫你省一下時間，你要找的那個答案，已經坐在你旁邊了。」",
+          "editorNote": "把『你是不是Google』經典款換成更生活化的對話，避免一講就被識破。適合在咖啡廳、聊到查資料、聊手機時自然丟出來，溫度剛好不過頭",
+          "variations": [
+            "你常Google東西嗎？常啊。那不用找了，你最想搜的那個答案就在眼前",
+            "你會用ChatGPT嗎？會。那省點token，你想問的那個人，已經在跟你說話了"
+          ]
+        },
+        "en": {
+          "content": "\"Do you Google stuff a lot?\"\n\"Yeah, pretty often. Why?\"\n\"Let me save you some time — whatever you've been searching for is already sitting right next to you.\"",
+          "editorNote": "Modernizes the classic 'are you Google' line by letting the other person say yes first, so the punchline lands as a reveal instead of a setup. Works great in cafes, study sessions, or any phone-out moment.",
+          "variations": [
+            "Big Googler? Definitely. Then close the tab — what you're looking for is already right here.",
+            "You use ChatGPT a lot? Sometimes. Save the prompt — the answer you want is already talking to you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-180",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://parade.com/1039985/marynliles/pick-up-lines/",
+      "sourceNote": "photographer / picture-us-together line, rewritten as casual dialogue",
+      "tags": [
+        "對話",
+        "甜",
+        "創意"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你會拍照嗎？」\n「不太會欸，怎麼？」\n「沒關係，因為我已經在腦袋裡，把我們倆的合照拍好了。」",
+          "editorNote": "土味中帶點浪漫，適合在旅遊、看展、拍照打卡的場合用，先丟一個無壓力的問題，再順勢把『腦中合照』講出來，比一上來就告白舒服很多",
+          "variations": [
+            "你會拍照嗎？普通而已。沒差，反正我心裡早就有一張我們合照",
+            "你會修圖嗎？不會。那剛好，我們的合照不用修，我看你怎麼樣都好看"
+          ]
+        },
+        "en": {
+          "content": "\"Are you any good with a camera?\"\n\"Not really, why?\"\n\"That's okay — I've already taken a picture of us together in my head.\"",
+          "editorNote": "Softer, more romantic cheesy line that works in photo-friendly spots like exhibitions, viewpoints, or travel days. Letting the other person admit they're not a photographer first makes the line feel sweet instead of rehearsed.",
+          "variations": [
+            "Any good with a camera? Not really. No worries — I already snapped a picture of us in my mind.",
+            "Do you edit photos? Nope. Perfect — our picture doesn't need editing, you look great in every frame."
           ]
         }
       }
