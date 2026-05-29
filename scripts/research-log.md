@@ -4077,3 +4077,111 @@ Done items collapsed; only live priorities listed.
 26. **[CLOSED — 5/20 EOD]** absurd-wisdom / witty-comebacks 會考廢話文學模板 organic.
 27. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday OS vs 現實 對比梗 6 大 topic 候選 不變.
 28. **[HIGH — 5/22-5/27 6 天 黃金窗口 day 3 of 7]** Meta 裁員 + Google I/O + K型經濟 + 台股新高 cluster workplace-quotes / programmer-jokes 主場 + healing-quotes / adulting-quotes / witty-comebacks / absurd-wisdom cross-link 1-2 items per topic.
+
+## 2026-05-29 Research Report
+
+### New Topic Recommendations
+
+1. **夏天電費語錄 / 冷氣帳單厭世 (summer-electric-quotes)** — **NEW LOW-MEDIUM priority Q3 7-8 月 觀察候選**:
+   - SEO rationale: 6/1 夏季電價正式開跑 (台電 121-330 度 2.55 元 / 331-500 度 3.80 元), 全民「夏月電費漲幅」 + 「冷氣 26 度」 + 「電風扇 + 冷氣」 + 「兩個月一張帳單 嚇死人」 7-8 月帳單到達日 為流量高峰. 「夏季電費」「冷氣 省電」「電費 暴增」 6-9 月年度搜尋穩定. 與 adulting-quotes / workplace-quotes 重疊但 register 聚焦.
+   - 內容潛力: 「夏月 6 月 開跑 / 冷氣 26 度 = 我 28 度 = 妥協 = 流汗 / 兩個月 一張 帳單 = 一次 心痛 兩個月份 / 4 千電費 = 半個月薪水 = 報稅 後 還要 繳電費 / 開電風扇 = 假裝省電 / 變頻冷氣 不關 更省 = 心理安慰 / 台電 紅單 = 用電 警告」 6 register family 8-12 items 可寫. 季節高度集中 (7-9 月).
+   - 差異化: adulting-quotes 是廣義「成為大人後悔」, 此 topic 是 7-9 月 specific 季節厭世. risk: 一年只熱 3 個月, 可能更適合 adulting-quotes sub-register.
+   - 建議: **觀察 2026/7-8 月 帳單到達 + 用電高峰 流量數據再決定**, 7 月前 carry 到 adulting-quotes / workplace-quotes 即可. 若 2026 Q3 觀察值得獨立, 2027 6 月 啟動.
+
+2. **追星迷妹語錄 / 售票釋票語錄 (concert-release-quotes)** — **NEW MEDIUM priority Q3 候選 (與 5/23 提出的 concert-ticket-quotes 整合)**:
+   - SEO rationale: 5/29 五月天 #5525+2 **第二波釋票 day-of** + 5/23 一波 carry. 「釋票」 + 「補票」 + 「站票 也 算 贏」 + 「追加場 釋票通知」 + 「拓元 系統 卡頓 → 釋票 給 等等族」 register 補位. 與 concert-ticket-quotes 整合 (5/23 提出) 為同一 topic 更佳, 不分開.
+   - 內容潛力: 「5/29 釋票 day-of = 等等族 救星 / 釋票 = 系統 退票 / 退票 = 黃牛 騙錢 失敗 / 0 進度 vs 釋票 0.1% 機會 / 等等族 = 5/23 沒抽到 → 5/29 守 釋票」 register 與 5/23 cluster 整合 編寫 priority 升 HIGH.
+   - 建議: **與 5/23 concert-ticket-quotes 整合 同一 topic**, Q3 7 月 演唱會旺季 啟動 8-12 items, 涵蓋「拓元搶票 / 玉山卡 / 票價落差 / 黃牛 / 站票 / 釋票」 6 sub-register.
+
+3. **梗圖智者語錄 / 高麗菜那桌語錄 (cabbage-table-quotes)** — **NEW LOW priority Q3 觀察**:
+   - SEO rationale: 「高麗菜那桌」(2024/1 起 → 2026 5月 仍 Threads 主流) 智慧梗用語, 留言「請去高麗菜那桌坐」= 此人有智慧 / 應坐最貴位. 但 register 太特定 + 與 absurd-wisdom / slang-quotes 重疊.
+   - 建議: **不獨立**, carry 到 slang-quotes / absurd-wisdom 即可. 觀察 2026 下半年是否持續 viral.
+
+### Content Trends
+
+- **5/29 五月天 #5525+2 第二波釋票 day-of (商周 2026/5)**: 5/23 拓元一波 day-after T+6 + **5/29 釋票 day-of (T-0)** 等等族黃金救援窗口. **意義**: **motivational-quotes / drama-quotes / workplace-quotes / adulting-quotes 5/29 day-of + 7 天 黃金窗口 priority HIGH**「5/29 釋票 = 等等族 救星 / 拓元 卡頓 day 2 / 0% 進度 vs 0.1% 機會 / 上次 沒搶到 這次 守通知 / 釋票 = 月薪 5525 半個月」 register family 1-2 items 5/29-6/5 編寫 priority 升 HIGH. cross-link adulting-quotes「報稅 6/1 截止 + 五月天 5/29 釋票 + 端午 6/19 月底 三件事 倒數」 1 item 候選.
+
+- **5/29 報稅 T-3 倒數 6/1 截止 day-of opportunistic (商周 + 康健 多源 2026)**: 報稅 day 29/32 → **5/29 起 3 天 末日 黃金窗口**. 5/22-5/28 K型 + 跨級距 + 拉麵 + 台股 carry reinforce + **5/29 NEW**「點開預填 看到補稅 5/31 23:59:59 / 倒數 72 小時 / 早繳一天 退稅 早一天 / 拖到 6/1 = 提早 結束 痛苦 」 末日 register family 1-2 items 5/29-6/1 編寫 priority 升 HIGH 末日.
+
+- **5/29 端午 T-21 倒數 (6/19 端午, 6/19-6/21 連假請 4 休 9)**: holiday-jokes day 7 of 28. 5/22-5/28 carry「連假請 4 休 9 + 粽諧音 + 田馥甄 蔡依林 + 藏頭詩 + 米飯包子粽子」 reinforce 持續. food-jokes cross-link 1-2 items 編寫 priority 維持 HIGH.
+
+- **5/29 「咩噗」流行語 (周興哲歌詞) + 「甘阿捏」+「言小」+「澳打」 4 個新流行語 (Shopee + udn women + ivy1 多源 2026)**: 「咩噗」(= 哭哭 / 周興哲歌詞 來源) + 「甘阿捏」(= 強烈懷疑 / 重新爆紅) + 「言小」(= 言情小說簡稱 / 張立昂 三立華劇 使用) + 「澳打」(= 澳洲打工 / PTT 熱議). **意義**: **slang-quotes 5/29-6/15 中窗口 priority MEDIUM-HIGH**「咩噗 = 哭哭 升級 = 周興哲式哭」「甘阿捏 = 重新爆紅 懷疑」「言小 = 言情小說 自嘲 / 我的人生 不是 戲劇 是 言小」「澳打 = 澳洲打工 / 報稅厭世 → 我 想 澳打」 4 register family 各 1 item 候選 5/29-6/15 編寫 priority MEDIUM-HIGH. cross-link adulting-quotes「報稅 看完 補稅 → 咩噗 / 想 去 澳打」 1 item 候選.
+
+- **5/29 「高麗菜煮蛋那桌」 智慧梗 持續 Threads 主流 (PopDaily 2026)**: 2024/1 Kurt Wu 火鍋小技巧 → 2026 仍主流, 「請去高麗菜那桌坐」= 你有智慧 應坐最貴位. **意義**: **absurd-wisdom / slang-quotes / witty-comebacks 5/29-6/15 中窗口 priority MEDIUM**「高麗菜那桌 = 智慧人 專屬位 / 你 一句話 戳醒我 = 請 去 高麗菜那桌 / 同事 神回應 = 高麗菜那桌 預訂 / 我 廢話文學 = 高麗菜那桌 退訂」 register family 1-2 items per topic 候選 5/29-6/15 編寫.
+
+- **5/29 會考成績 T-7 倒數 (6/5 公布) (商周 + GVM + TKB 多源 2026)**: 國中會考 5/16-5/17 已結束, **6/5 成績公布 + 6/18 志願選填 + 7/7 分發結果**. day-of 等成績 心理黃金窗口 → **exam-quotes T-7 啟動 day-of priority HIGH**「白老鼠 + 浮力魔王題 + 酸雨情境題 + 過來人每屆都這樣 + 5/16-5/17 carry + A++ B++ 標示 + 等成績的 7 天 = 一年最長 7 天」 register family 8-12 items 5/29-6/4 編寫 priority 升 HIGH (5/29 上線目標 → 6/5 成績公布前) 與 healing-quotes 「考完 等成績 不要 焦慮 / 結果 還沒 出來 結果 都不算 結果」 cross-link 1-2 items.
+
+- **5/29 6/1 夏季電價 開跑 T-3 (台電 + 商周 + 蘋果 多源 2026/5)**: 夏月 6/1-9/30 (4 個月), 121-330 度 2.55 元 (vs 非夏月 2.10), 331-500 度 3.80 元 (vs 非夏月 3.02). **意義**: **adulting-quotes / workplace-quotes 5/29-7/15 短窗口 + 夏季 carry priority MEDIUM-HIGH**「夏月 6/1 開跑 / 冷氣 26 度 = 我 28 度 = 妥協 = 流汗 / 兩個月 一張 帳單 = 一次 心痛 兩個月份 / 報稅 完 還要 繳 電費」 4 register family 1-2 items 5/29-6/15 編寫.
+
+- **5/29 大學畢業典禮 cluster 5/30 政大畢業 + 6 月 各大學 (NTU NTHU NCCU 多源 2026)**: 政大 5/30 (T-1) + 台大 / 清大 6 月 cluster + 鳳凰花開. **意義**: **graduation-quotes 5/29 day-of T-1 啟動 (政大 5/30) + 6 月 大學畢業 第二波 priority MEDIUM-HIGH**「鳳凰花開 / 政大 5/30 day-of / setback reset resilience 三字贈言 / 學貸開始 倒數 / 不再有寒暑假 / 畢業 = 進入社畜 第一天」 register family 2-3 items 5/29-6/20 編寫 priority MEDIUM-HIGH. cross-link adulting-quotes「畢業 = 進入社畜 第一天 / 鳳凰花開 = 學貸開始」 1 item.
+
+- **5/29 全球 TikTok meme 趨勢 (napoleoncat May 2026 + Epidemic Sound + Turrboo 多源)**: 「Video Game Loading Screens (loading screen 復古遊戲化)」+「How Mfs Be Moving (誇張行為 細節 模仿)」+「Fantasy World Cup Squads (流行人物 物件 組隊)」+「Academic Weapon (學霸 register)」+「chill guy 持續」+「saxophone louder 持續」. **意義**: **witty-comebacks / programmer-jokes / workplace-quotes / adulting-quotes 5/29-6/15 中窗口 opportunistic priority MEDIUM**「Loading Screen 復古 = 我 上班 = loading screen / How Mfs Be Moving = 同事 倒咖啡 / Academic Weapon = 我 國中 = 學霸 / 我 出社會 = 廢柴」 register family 1 item per topic 候選.
+
+- **5/29 政治/敏感 SKIP 區**: 國會 立法院 預算戰 (政治敏感) / 中國 軍演 (政治敏感) / 民眾黨 主席選舉 (政治敏感) / 海巡 衝突 (政治敏感) / 苗栗麻疹 carry (健康敏感) — 全 SKIP. 不適合 funtexthub fun text 定位.
+
+### Existing Topic Updates
+
+- **workplace-quotes (92 items live, 5/29 末日報稅 T-3 + 五月天釋票 day-of 黃金窗口 priority 維持 高)**: 5/22-5/23 K型 + 台股 + Meta + 薩克斯風 + chill guy carry 持續 + **5/29 NEW**「報稅 末日 72 小時 / 五月天 釋票 等等族 / 夏月電價 6/1 開跑 / 電費 4 千 vs 月薪 沒漲」 4 register 加入 5/29-6/5 末日窗口 roster 2-3 items 編寫 priority 升 HIGH 末日.
+
+- **programmer-jokes (5/29 Meta day-after T+9 + Google I/O T+10 carry 結束 → 中窗口 carry + 五月天釋票 day-of)**: 5/20-5/23 Meta + Veo 4 + 拓元 + 薩克斯風 carry 持續 + **5/29 NEW**「拓元 5/29 釋票 day 2 / 工程師 又看不下去 / 想 接手 重寫 / 但 釋票 通知 還是 慢 5 秒」 1-2 items 5/29-6/5 編寫. + TikTok「Loading Screen 復古」工程師 register「我 上班 = Loading Screen / 進度條 20% 然後 重開」 1 item 候選.
+
+- **adulting-quotes (66 items live, 5/29-6/1 報稅末日 3 天 黃金窗口 day 8 of 9 priority HIGH 升級 末日)**: 5/22-5/23 carry「K型 + 跨級距 + 拉麵 + 預填 + 薩克斯風 + 台股 + 五月天 月底 三件事」 reinforce + **5/29 NEW**「末日 72 小時 / 拖到 5/31 23:59:59 / 早繳一天 退稅 早一天 / 報稅 + 五月天釋票 + 夏月電價 6/1 / 三件事 月底 同週 倒數 / 我 想 澳打」 5 register family 2-3 items 5/29-6/1 末日 編寫 priority HIGH 末日.
+
+- **motivational-quotes (5/29 五月天 釋票 day-of 黃金窗口 day 7 of 7)**: 5/23 五月天 day-of carry 持續 + **5/29 NEW 釋票 day-of**「5/29 釋票 = 等等族 救星 / 0.1% 機會 也是機會 / 拓元 卡頓 = 不放棄 / 守通知 = 也是 努力 / 站票 也算贏」 register family 2-3 items 5/29-6/5 編寫 priority 維持 HIGH.
+
+- **drama-quotes (5/29 五月天 釋票 day-of + 陳皮糖 中窗口 day 7 of 24)**: 5/22-5/23 carry「陳皮糖 / 逐玉 10 甜寵金句 / 若你留下來 我殺豬養你 / 心裡會響 / 我這塊璞玉」 reinforce + **5/29 NEW 五月天 釋票 day-of**「回到那一天 / #5525+2 / 25 年 / 等等族 守 釋票 = 也算 回到那一天」 register 1-2 items 5/29-6/5 編寫 priority 維持 HIGH.
+
+- **slang-quotes (39 items live, 5/22 deadline T+7 carry + 5/29 NEW 4 個新流行語)**: 5/22-5/23 carry「超派 + 陳皮糖 + 朋朋 + 接住 + ㄅㄆㄇ評分系統」reinforce + **5/29 NEW**「咩噗 (周興哲歌詞 哭哭) / 甘阿捏 (重新爆紅 懷疑) / 言小 (言情小說 自嘲) / 澳打 (澳洲打工 PTT 熱議)」 4 個全新流行語 register family 加入 5/29-6/15 中窗口 roster 3-4 items 5/29-6/15 編寫 priority 維持 高.
+
+- **exam-quotes (5/29-6/1 啟動 day-of T-0 → 6/5 會考成績公布 T-7 priority HIGH 升 最高)**: **5/29 day-of 啟動 8-12 items**「白老鼠 + 浮力魔王題 + 酸雨情境題 + 每屆都這樣 + A++ B++ 標示 + 等成績 7 天 = 一年最長 7 天」 register family + healing-quotes cross-link「結果 還沒 出來 結果 都不算 結果」 1-2 items + 6/18 志願選填 + 7/7 分發 cluster carry 不變. priority 升 最高 (5/29 上線目標 → 6/5 成績公布前).
+
+- **graduation-quotes (5/29 T-1 政大 5/30 + 6 月 大學畢業 第二波 day-of 啟動 day 1 of 22)**: 5/23 carry「setback reset resilience + 鳳凰花開 + 鴻鵠展翅 + 學貸倒數 + 不再有寒暑假」 reinforce + **5/29 NEW**「5/30 政大 day-of / 6 月 各大 cluster / 政大 5/30 為 6 月 第二波 開場 / 鳳凰花開 + 學貸 + 7 月 起 月薪 22K」 register family 2-3 items 5/29-6/20 編寫 priority 升 MEDIUM-HIGH. cross-link adulting-quotes「畢業 = 進入社畜 第一天 / 鳳凰花開 = 學貸 開始 倒數 + 報稅 + 夏月電費 = 同時 三件事」 1 item.
+
+- **healing-quotes (5/29 中窗口 day 8 of 10 + 等成績 7 天 黃金窗口 新啟動 + 報稅末日 安慰)**: 5/21-5/23 龐奇 + K型 + 接住 + 朋朋 carry + **5/29 NEW**「等成績 7 天 = 一年最長 7 天 = 焦慮 = 結果 還沒出來 結果 都不算 結果」 等成績安慰 register + 「報稅末日 + K型 + 五月天 月底 三件事 同週 = 焦慮 = 一週 過完 就 過 了」 末日安慰 register 各 1-2 items 5/29-6/15 編寫.
+
+- **witty-comebacks (5/29 中窗口 day 8 of 24)**: 5/20-5/23 carry「薩克斯風 + 超派 + ㄅㄆㄇ評分系統 + 台股 vs 帳戶 + chill guy + 創紀錄營收 vs 裁員」 reinforce + **5/29 NEW**「咩噗 周興哲 哭哭」「言小 我的人生 是 言小」「澳打 想 澳打」 流行語 register 1-2 items + 「How Mfs Be Moving 同事 倒咖啡 register」 1 item 5/29-6/15 編寫.
+
+- **absurd-wisdom (5/29 中窗口 + 高麗菜那桌 新啟動)**: 5/17-5/23 carry「賦予新面貌 + AI pods + Veo 4 + 365 buttons + 薩克斯風 = 命運 = 房貸 + 台股 史上新高 但不是我的 + 接住空氣 + 朋朋 平方」 reinforce + **5/29 NEW**「高麗菜那桌 = 智慧人 專屬位 / 你 一句廢話 戳醒我 = 請 去 高麗菜那桌 / Loading Screen 復古 = 我 上班 = 進度條 永遠 20%」 廢話文學 1-2 items 候選 6 月 opportunistic.
+
+- **sweet-quotes**: 母親節 day +19 organic + 5/22-5/23 carry「陳皮糖 + 逐玉 10 甜寵 + 朋朋 親密升級」 reinforce. **5/29 NEW**「咩噗 = 你 不在 我 咩噗 / 我 想 成為 你的 朋朋 升級版 = 我 想 成為 你 隨手 喊 的 咩噗」 register 1 item 5/29-6/15 編寫.
+
+- **cheesy-pickups**: 5/22-5/23 carry「陳皮糖 + 若你留下來 我殺豬養你 + 心裡會響 + 朋朋 + 接住 emo」 reinforce + **5/29 NEW**「咩噗 / 言小 / 我們 不寫 言小 我們 就 是 言小」 1-2 items 5/29-6/15 中窗口 編寫.
+
+- **holiday-jokes (79 items, 端午 T-21, 5/29 day 7 of 28)**: 5/22-5/23 carry「連假請 4 休 9 + 粽諧音 + 田馥甄 + 蔡依林 + 藏頭詩 + 米飯包子粽子 + 手機粽葉」 reinforce 持續. **5/29 無 端午 新信號**, 6/1 起 day-of 加速 編寫 7-8 items 6/1-6/19 上線.
+
+- **food-jokes**: 5/22 KitKat heist 12 噸 carry + 5/23「粽諧音 + 米飯包子粽子 + 田馥甄 蔡依林」 reinforce + **5/29 無新信號**, 6/1 起 端午 carry 加速 編寫 2-3 items.
+
+- **travel-quotes (5/22-6/14 短窗口 day 7 of 24)**: 5/22 carry「碧潭水舞 + 澎湖花火 + 白河蓮花 + 連假請 4 休 9 + AI 替我去旅行」 reinforce + **5/29 NEW**「想 去 澳打 / 報稅 完 想 旅行 / 端午 連假 機票 漲 3 倍 / 五月天 7/3 演出 = 我 7/2 才 開始 訂機票」 4 register 1 item 候選 5/29-6/14 編寫.
+
+- **mom-quotes**: 母親節 day +19 organic + 5/21 龐奇 紅毛猩猩 carry 不變. 5/29 無新信號. 2027/3 backlog 不變.
+
+- **breakup-quotes / zodiac-quotes / wedding-quotes / dog-quotes / cat-quotes / couple-jokes / cold-jokes / korean-drama-quotes / pet-memorial-quotes / insomnia-quotes / renting-quotes / service-quotes / fitness-quotes / diet-quotes / self-love-quotes / dark-humor**: organic 觀察期 day +6 無新 5/29 信號. dark-humor 5/22 KitKat heist 6 月 opportunistic low priority 不變.
+
+### Updated Action Priority
+
+1. **[HIGH — 5/29-6/1 末日報稅 3 天 + 五月天釋票 day-of 黃金窗口 priority 升 最高]** adulting-quotes 末日「72 小時 / 5/31 23:59:59 / 報稅 + 五月天 + 夏月電費 月底 三件事 / 我 想 澳打」 + workplace-quotes「電費 4 千 vs 月薪 沒漲 / 五月天 5525 vs 月薪」 2-3 items 編寫 priority 最高.
+2. **[HIGH — 5/29 day-of 啟動 → 6/5 成績公布前]** Create exam-quotes / 考試語錄 8-12 items priority 升 最高 (一年最長 7 天 等成績 + 5/16-5/17 carry + A++ B++ + 白老鼠 + 浮力魔王).
+3. **[HIGH — 5/29 五月天 釋票 day-of T-0 黃金窗口 day 7 of 7]** motivational-quotes 等等族 救星 + 0.1% 機會 也是機會 + drama-quotes 回到那一天 + 守 釋票 也算 回到那一天 2-3 items 5/29-6/5 編寫.
+4. **[HIGH — 5/29-6/19 端午 day 7 of 28]** holiday-jokes 端午節 expansion 7-8 items + food-jokes cross-link 2-3 items 6/1-6/19 上線 (5/29 carry 5/22-5/23 reinforce).
+5. **[HIGH — 5/29-6/15 中窗口 NEW 4 個流行語]** slang-quotes 「咩噗 + 甘阿捏 + 言小 + 澳打」 4 register 3-4 items 5/29-6/15 編寫 priority 維持 高.
+6. **[HIGH — 5/29 T-1 政大 5/30 + 6 月 大學畢業 第二波 day-of 啟動]** graduation-quotes setback/reset/resilience + 鳳凰花 + 學貸倒數 + 政大 5/30 day-of register 2-3 items + adulting-quotes cross-link「畢業 = 社畜第一天 + 報稅 + 夏月電費」 1 item.
+7. **[MEDIUM-HIGH — 5/29-7/15 短窗口 + 夏季 carry]** adulting-quotes / workplace-quotes 夏月電費 6/1 開跑「冷氣 26 度 vs 我 28 度 / 兩個月一張帳單 / 報稅完 還要 繳電費」 4 register 1-2 items 5/29-6/15 編寫.
+8. **[MEDIUM-HIGH — 5/29 中窗口 等成績 7 天 安慰]** healing-quotes「結果 還沒 出來 結果 都不算 結果 / 等成績 7 天 = 一年最長 7 天」 等成績安慰 register + 5/22 K型 安慰 + 龐奇 + 接住 + 朋朋 carry 1-2 items 5/29-6/15.
+9. **[MEDIUM-HIGH — 5/29 中窗口 古裝霸總 + 朋朋 carry]** sweet-quotes / cheesy-pickups「陳皮糖 + 逐玉 10 甜寵 + 若你留下來 我殺豬養你 + 朋朋 + 咩噗 + 言小」 register family 1-2 items per topic 5/29-6/15 編寫.
+10. **[MEDIUM-HIGH — 5/29 中窗口 高麗菜那桌 + 5月底]** absurd-wisdom / slang-quotes / witty-comebacks「高麗菜那桌 = 智慧人 專屬位 / 廢話文學 → 高麗菜那桌 退訂」 register family 1 item per topic.
+11. **[MEDIUM — 5/29 中窗口 TikTok 全球 viral]** witty-comebacks / programmer-jokes / workplace-quotes / adulting-quotes「Loading Screen 復古 / How Mfs Be Moving / Academic Weapon / chill guy / saxophone louder」 register 1 item per topic 候選.
+12. **[MEDIUM-HIGH — 5/29 day-of carry 報稅 + 五月天 等等族]** workplace-quotes / programmer-jokes「拓元 5/29 釋票 day 2 / 工程師 又看不下去 / 想 接手 重寫 但 釋票 通知 還是 慢 5 秒」 1-2 items 5/29-6/5 編寫.
+13. **[MEDIUM — 6月 opportunistic low]** food-jokes + dark-humor + witty-comebacks KitKat Heist + chill guy 1 item per topic carry.
+14. **[FLAG — 早 7月 T-30 預備]** 父親節 (8/8 台灣 / 6/21 香港) drafting. 5/21-5/22 carry「爸爸 = WiFi / 科技支援中心 / 笑話冷到延緩暖化 / 髮際線後退 / ATM 吐鈔給媽 / 養我換養孫子」 6 register 父親節 roster. 7 月初 (T-37) 開始 drafting.
+15. **[OPPORTUNISTIC — 6月底-7月初 → 7/3 演出 T-35]** motivational-quotes / drama-quotes 五月天 25年 (5/23 一波 + 5/29 釋票 day-of 已啟動 → 7/3 演出).
+16. **[NEW MEDIUM — Q3 7-8 月 暑假追劇旺季]** 觀察 drama-binge-quotes (古裝劇/台中爆紅劇 register) 候選獨立, 暫 carry 到 drama-quotes.
+17. **[NEW OBSERVE — Q3 7 月 演唱會旺季 啟動評估]** Create concert-ticket-quotes / 演唱會搶票語錄 8-12 items (拓元/玉山卡/票價/黃牛/站票/釋票 6 sub-register 與 5/29 釋票 register 整合) 候選.
+18. **[NEW OBSERVE — Q3 7-8 月 帳單到達高峰]** summer-electric-quotes / 夏天電費語錄 候選 (夏月 6 register 8-12 items 觀察 risk: 一年熱 3 個月).
+19. **[NEW OBSERVE — 2026/Q4 12 月 年底結算季]** stock-investor-quotes / 股票投資人語錄 候選 (台股新高 + K型 cross-link).
+20. **[NEW OBSERVE 2027/4 — 報稅季前評估]** tax-season-quotes 獨立 topic 候選 (一年熱 1 個月, risk: 太狹窄).
+21. **[OPPORTUNISTIC, 5/22 NEW 加碼]** witty-comebacks 「超派 = 老闆 / 主管 5:55 寄信 = 超派」 流行語 register 2-3 items 6 月.
+22. **[OPPORTUNISTIC, Q3 候選 8-9月]** pet-memorial-quotes / insomnia-quotes 不變.
+23. **[OPPORTUNISTIC, Q4 候選 10-12月]** renting-quotes 不變.
+24. **[FLAG — 觀察不啟動]** 校園霸凌 too sensitive. 5/20-5/23 SKIP 區 carry + **5/29 NEW SKIP 區**: 國會預算戰 (政治) / 中國軍演 (政治) / 民眾黨主席 (政治) / 海巡衝突 (政治) / 苗栗麻疹 (健康) 全 SKIP.
+25. **[CLOSED — 5/27 EOD]** Meta 裁員 + Google I/O + K型經濟 cluster 黃金窗口 day 7 of 7 結束. 6 月 carry organic.
+26. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday OS vs 現實 對比梗 6 大 topic 候選 不變.
