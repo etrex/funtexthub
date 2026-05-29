@@ -5079,6 +5079,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-176",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "Vibe coding meme — devs who can no longer code without Copilot",
+      "tags": [
+        "AI",
+        "Copilot",
+        "Vibe Coding"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「請現場寫一個 function，把 array 裡的偶數找出來。」\n\n工程師：「沒問題，給我五秒鐘。」\n\n（手指放上鍵盤，等待）\n\n面試官：「⋯⋯」\n\n工程師：「⋯⋯」\n\n面試官：「你在等什麼？」\n\n工程師：「我在等 Copilot 給我建議，他今天怎麼這麼慢。」\n\n面試官：「我們這邊不能用 AI。」\n\n工程師沉默十秒，緩緩闔上筆電：「那我可能沒辦法寫程式。」",
+          "editorNote": "傳給只會按 Tab 補全的同事，或者你自己，看你心虛不心虛。",
+          "variations": [
+            "現代工程師面試最大的挑戰，是面試官不准用 Copilot。",
+            "從前工程師背 API，現在工程師背 prompt。"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"Please write a function that returns all the even numbers from an array.\"\n\nEngineer: \"Sure, give me five seconds.\"\n\n(Hands on keyboard, waiting.)\n\nInterviewer: \"...\"\n\nEngineer: \"...\"\n\nInterviewer: \"What are you waiting for?\"\n\nEngineer: \"I'm waiting for Copilot. It's being slow today.\"\n\nInterviewer: \"We don't allow AI assistants in this interview.\"\n\nEngineer is silent for ten seconds, slowly closes their laptop: \"Then I'm afraid I can't write code.\"",
+          "editorNote": "Send this to any coworker who only knows how to hit Tab. Or send it to yourself, depending on your conscience.",
+          "variations": [
+            "The hardest part of a modern coding interview is the part where you can't use Copilot.",
+            "Engineers used to memorize APIs. Now they memorize prompts."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-177",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://programmerhumor.io/memes/pull-request",
+      "sourceNote": "Code review approval theatre — LGTM without reading",
+      "tags": [
+        "Code Review",
+        "Pull Request",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師 PR 被 review 的真實流程：\n\n第 1 分鐘：送出 PR，附上滿滿的 description 跟測試結果。\n\n第 30 分鐘：沒人看。\n\n第 2 小時：在 Slack 標 reviewer 一次。\n\n第 4 小時：在 Slack 標 reviewer 第二次。\n\n第 1 天：發出哭哭表情符號。\n\n第 2 天：Reviewer 回覆「LGTM」，三秒後 approve。\n\n第 3 天：Merge 後線上炸了。\n\nReviewer：「啊我以為你有測。」\n\n工程師：「我以為你有看。」\n\n兩人對視。\n\nPM 走進來：「⋯⋯那是誰負責？」",
+          "editorNote": "傳到團隊群組裡，看誰先笑出來，那個人就是常常 LGTM 的兇手。",
+          "variations": [
+            "LGTM 是工程師最強的咒語，意思是「我沒看但你開心就好」。",
+            "PR 越大，approve 越快。這是 code review 的牛頓第三定律。"
+          ]
+        },
+        "en": {
+          "content": "The real lifecycle of a pull request:\n\nMinute 1: Submit PR with a detailed description and test results.\n\nMinute 30: Nobody has looked.\n\nHour 2: Tag the reviewer on Slack, politely.\n\nHour 4: Tag the reviewer on Slack, less politely.\n\nDay 1: Send the crying emoji.\n\nDay 2: Reviewer replies \"LGTM\" and approves three seconds later.\n\nDay 3: Merge. Production explodes.\n\nReviewer: \"I thought you tested it.\"\n\nEngineer: \"I thought you read it.\"\n\nThey lock eyes.\n\nPM walks in: \"...So who's responsible?\"",
+          "editorNote": "Post this in the team channel. The first person to laugh is the serial LGTM offender.",
+          "variations": [
+            "LGTM is the most powerful incantation in software engineering. It means: 'I didn't read it, but I'm happy for you.'",
+            "The bigger the PR, the faster the approval. This is Newton's third law of code review."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-178",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Centering a div without AI — modern engineer's nightmare",
+      "tags": [
+        "CSS",
+        "前端",
+        "Vibe Coding"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三個前端工程師被困在一座荒島上。\n\n沒有網路，沒有 Stack Overflow，沒有 ChatGPT，沒有 Copilot。\n\n他們找到一台舊筆電，還能打開瀏覽器。\n\n工程師 A：「我們得自救，先做個求救網頁，把 SOS 三個字放在畫面正中間。」\n\n工程師 B：「沒問題，我來。」\n\n（三小時過去）\n\n工程師 B 流著淚：「⋯⋯到底是 margin: 0 auto 還是 text-align: center 還是 flex 還是 grid？」\n\n工程師 C 接手：「讓我來。」\n\n（又五小時過去）\n\n工程師 C：「我寫了 200 行 CSS，那個字還是歪的。」\n\n工程師 A 看著他們：「我們會死在這座島上。」",
+          "editorNote": "傳給每一個離不開 ChatGPT 的前端工程師，包括你自己。",
+          "variations": [
+            "前端工程師最怕兩件事：UI 設計師的新需求，跟沒有網路。",
+            "把 div 置中是前端的終極考驗，比演算法還難。"
+          ]
+        },
+        "en": {
+          "content": "Three frontend engineers are stranded on a desert island.\n\nNo internet. No Stack Overflow. No ChatGPT. No Copilot.\n\nThey find an old laptop that can still open a browser.\n\nEngineer A: \"We need to save ourselves. Let's build an SOS page with the letters centered on the screen.\"\n\nEngineer B: \"On it.\"\n\n(Three hours pass.)\n\nEngineer B, in tears: \"...Is it margin: 0 auto? Or text-align: center? Or flex? Or grid?\"\n\nEngineer C takes over: \"Let me try.\"\n\n(Five more hours pass.)\n\nEngineer C: \"I've written 200 lines of CSS and the text is still off by 4 pixels.\"\n\nEngineer A, looking at them: \"We're going to die on this island.\"",
+          "editorNote": "Send this to every frontend dev who can't survive without ChatGPT. That includes you.",
+          "variations": [
+            "Two things terrify a frontend engineer: a new design request, and no internet.",
+            "Centering a div is the final boss of frontend. Harder than any algorithm interview."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-179",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Merge conflict horror — git as a relationship metaphor",
+      "tags": [
+        "Git",
+        "Merge Conflict",
+        "團隊合作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師戀愛指南：\n\n如果你的另一半是 Git，那你們的關係大概長這樣。\n\n約會第一天：git clone。一切都新鮮，乾淨，沒有衝突。\n\n第一週：git pull origin main。順順的，每天都有新東西可以聊。\n\n第一個月：git branch feature/我的小情緒。開始有自己的想法，但還沒搬上檯面。\n\n第三個月：git push --force。「我才是對的，照我的版本來。」\n\n第六個月：Merge conflict。兩個人改同一個檔案，誰也不讓誰。\n\n第一年：git rebase。把過去的歷史全部改寫，假裝沒有吵過架。\n\n第二年：git reset --hard HEAD~50。「我們重新開始好不好？」\n\n第三年：git checkout 別人。\n\n結局：repo is archived。",
+          "editorNote": "傳給每一個既懂 git 又懂感情的工程師，他們會在「git reset --hard」那行倒抽一口氣。",
+          "variations": [
+            "穩定的感情就是兩個人都不 force push。",
+            "Merge conflict 解不掉的時候，工程師會做兩件事：rebase 或分手。"
+          ]
+        },
+        "en": {
+          "content": "A relationship guide for engineers:\n\nIf your partner is Git, here's how things will go.\n\nDay 1: git clone. Everything is fresh, clean, no conflicts.\n\nWeek 1: git pull origin main. Smooth. Always something new to talk about.\n\nMonth 1: git branch feature/my-little-feelings. You start having opinions but keep them on a side branch.\n\nMonth 3: git push --force. \"I'm right. We're going with my version.\"\n\nMonth 6: Merge conflict. You both edited the same file. Neither will back down.\n\nYear 1: git rebase. Rewrite the entire history. Pretend the fights never happened.\n\nYear 2: git reset --hard HEAD~50. \"Can we just start over?\"\n\nYear 3: git checkout someone-else.\n\nFinal commit: repo is archived.",
+          "editorNote": "Send to any engineer who's been through both a bad relationship and a bad merge. They'll gasp at the 'git reset --hard' line.",
+          "variations": [
+            "A healthy relationship is just two people who never force push.",
+            "When a merge conflict can't be resolved, engineers do one of two things: rebase, or break up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-180",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Job market 2026 — senior engineers vs vibe coders",
+      "tags": [
+        "AI",
+        "求職",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師求職市場。\n\n資深工程師：十年經驗，熟悉系統架構、效能調校、會帶 team、會寫 design doc。\n\n面試結果：沒下文。\n\n剛畢業的學生：不會 SQL，不會 OOP，連 git rebase 都不知道是什麼。\n\n但是會寫 prompt。\n\n面試結果：起薪 200 萬，配股，title 是「AI Native Engineer」。\n\n資深工程師看著 LinkedIn 上那個剛畢業的學生發文：\n\n「今天用 vibe coding 在三十分鐘內做完一個 SaaS，正在思考要不要去 YC。」\n\n資深工程師闔上筆電，去廚房煮泡麵。\n\n泡麵煮好的時候，那個學生已經拿到 seed round 了。",
+          "editorNote": "傳給每一個正在懷疑人生的資深工程師，告訴他們煮泡麵的時候要小心，市場變得很快。",
+          "variations": [
+            "從前工程師比誰會的多，現在工程師比誰 prompt 寫得好。",
+            "2026 年最值錢的不是十年經驗，是十秒鐘的 prompt。"
+          ]
+        },
+        "en": {
+          "content": "The 2026 engineering job market.\n\nSenior engineer: ten years of experience, system design, performance tuning, can lead a team, writes good design docs.\n\nInterview result: ghosted.\n\nFresh graduate: doesn't know SQL, doesn't know OOP, has never heard of git rebase.\n\nBut they can write a great prompt.\n\nInterview result: $200K base, equity, title is \"AI Native Engineer.\"\n\nThe senior engineer scrolls LinkedIn and sees the new grad's post:\n\n\"Just shipped a full SaaS in 30 minutes using vibe coding. Thinking about applying to YC.\"\n\nThe senior engineer closes their laptop and goes to make instant noodles.\n\nBy the time the noodles are ready, the new grad has closed a seed round.",
+          "editorNote": "Send to any senior engineer questioning their career. Warn them: the market moves fast, watch the noodles.",
+          "variations": [
+            "Engineers used to compete on how much they knew. Now they compete on how well they prompt.",
+            "In 2026, ten years of experience is worth less than ten seconds of a good prompt."
+          ]
+        }
+      }
     }
   ]
 }

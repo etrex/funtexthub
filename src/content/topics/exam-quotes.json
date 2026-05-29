@@ -1702,6 +1702,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-070",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://truowl.com/college/exam-memes-that-are-way-too-real-for-every-student/",
+      "sourceNote": "選擇題 = 浪漫 register — multiple choice romantic frame 在地化廢文",
+      "tags": ["選擇題", "考試", "自嘲", "廢文", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "選擇題其實是最浪漫的題型。\n它給你四個選項，\n讓你以為你有選擇，\n然後在你心動的那一秒，\n告訴你：「都不對。」\n跟我這輩子遇過的人差不多。",
+          "editorNote": "考完選擇題崩潰的高共鳴句，發限動會被前任默默已讀。",
+          "variations": [
+            "可以加：「四選一聽起來很簡單，直到那一就是不存在。」",
+            "也能改：「選擇題騙我，跟人生騙我用的是同一招。」"
+          ]
+        },
+        "en": {
+          "content": "Multiple choice is the most romantic question type.\nIt gives you four options,\nmakes you think you have a choice,\nand the second your heart picks one,\nit whispers: \"None of these.\"\nKind of like every person I've ever dated.",
+          "editorNote": "Post-exam heartbreak energy — your ex will see this and silently leave-read.",
+          "variations": [
+            "Add: \"Four options sounds easy until the right one just isn't there.\"",
+            "Try: \"Multiple choice and life use the exact same con.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-071",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://eduadvisor.my/articles/hilarious-charts-only-students-cramming-for-exams-will-relate-to",
+      "sourceNote": "考前 expectation vs reality register — split image meme 在地化",
+      "tags": ["考試", "期待", "現實", "對照", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我想像中的考前一晚：\n桌面乾淨、筆記整齊、九點上床、香氛蠟燭。\n實際上的考前一晚：\n泡麵湯翻倒、講義疊成山、凌晨三點哭、香氛蠟燭已被淚水撲滅。\n我每個學期都假裝這次會不一樣，每個學期都被自己騙。",
+          "editorNote": "拍兩張照片左右對比超有戲：左邊是 IG 假掰讀書圖，右邊是真實桌面，貼這段穩收 +1。",
+          "variations": [
+            "可以加：「想像中的我跟實際的我，可能上的不是同一所學校。」",
+            "也能改：「我每學期都做同樣的計畫，每學期都做同樣的崩潰。這叫人生循環賽。」"
+          ]
+        },
+        "en": {
+          "content": "Imagined night before the exam:\nclean desk, neat notes, lights out by nine, candle lit.\nActual night before the exam:\nspilled instant noodles, textbook avalanche, crying at 3am, candle drowned in tears.\nEvery semester I pretend it'll be different. Every semester I lie to myself.",
+          "editorNote": "Split-image gold — left: aesthetic study pic, right: real desk. Drop this caption for instant +1s.",
+          "variations": [
+            "Add: \"Imagined me and actual me clearly attend different schools.\"",
+            "Try: \"Same plan every semester. Same breakdown every semester. It's a subscription.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-072",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.hercampus.com/life/finals-week-memes-instagram-twitter/",
+      "sourceNote": "考前 this is fine 燃燒房間 register — this is fine dog 在地化廢文",
+      "tags": ["考試", "崩潰", "自嘲", "廢文", "假裝沒事"],
+      "i18n": {
+        "zh-tw": {
+          "content": "整個房間都在燒，\n我坐在中間說：「沒事，這樣就好。」\n手裡還拿著一杯冷掉的咖啡，\n旁邊是三本沒翻開的講義，\n隔壁是明天早上八點的考試。\n這不叫鎮定，這叫已經接受結局了。",
+          "editorNote": "改寫 this is fine 迷因的廢文版，考前一晚發出來保證同學秒回「我也是」。",
+          "variations": [
+            "可以加：「我不是在淡定，我是在認命。這兩件事在考前長得一模一樣。」",
+            "也能改：「房間在燒，我在坐。考試在追，我在躺。一切都很合理。」"
+          ]
+        },
+        "en": {
+          "content": "The whole room is on fire.\nI'm sitting in the middle saying: \"This is fine.\"\nA cold coffee in one hand,\nthree unopened textbooks beside me,\nan 8am exam tomorrow.\nThis isn't calm. This is full acceptance of the ending.",
+          "editorNote": "The this-is-fine dog, exam edition — post the night before and watch the +1s pile up.",
+          "variations": [
+            "Add: \"Not zen. Just resigned. They look identical the night before a final.\"",
+            "Try: \"Room burning. Me sitting. Exam coming. Me lying down. Everything checks out.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-073",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://thefunnybeaver.com/54-memes-finals-week/",
+      "sourceNote": "考試 = 我把所有努力 outsource 給未來的我 register — future me frame 在地化",
+      "tags": ["考試", "拖延", "未來的我", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我從學期初就有一個完美的計畫：\n把所有努力外包給期末週的我。\n結果期末週的我打開信箱，\n看到那封來自學期初的我的信，\n只說了一句：「幹，不是說好你會處理嗎？」",
+          "editorNote": "拖延仔靈魂對話的精準翻譯，配張凌晨四點的螢幕照超有畫面。",
+          "variations": [
+            "可以加：「未來的我跟過去的我已經正式絕交，現在的我夾在中間裝沒事。」",
+            "也能改：「我把責任傳給下一個我，下一個我也很有禮貌，又傳給下一個。」"
+          ]
+        },
+        "en": {
+          "content": "I had a perfect plan since week one:\noutsource all the work to finals-week me.\nThen finals-week me opened the inbox,\nfound the letter from week-one me,\nand it just said: \"Wait, weren't YOU supposed to handle this?\"",
+          "editorNote": "Translation of the universal procrastinator inner dialogue — pair with a 4am glowing-screen pic.",
+          "variations": [
+            "Add: \"Future me and past me have officially blocked each other. Present me is awkwardly stuck in the middle.\"",
+            "Try: \"I passed the task to next me. Next me politely passed it to the me after that.\""
+          ]
+        }
+      }
     }
   ]
 }

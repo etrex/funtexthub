@@ -5013,6 +5013,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-181",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://rizzpickups.com/coffee-pick-up-lines/",
+      "sourceNote": "coffee-themed pickup, rewritten with everyday cafe dialogue",
+      "tags": [
+        "對話",
+        "咖啡",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你平常喝咖啡都喝什麼？」\n「拿鐵吧。」\n「難怪，跟你聊天的感覺一樣，溫溫的、會上癮。」",
+          "editorNote": "咖啡廳專用款，先問對方點什麼，再把『溫溫的、會上癮』丟出來，比直接說『你很迷人』自然很多。咖啡因加曖昧，命中率不低",
+          "variations": [
+            "你都喝什麼咖啡？美式。難怪，乍看冷冷的，喝下去整個人都醒了，跟你一樣",
+            "平常喝拿鐵還是黑咖啡？拿鐵。難怪，又甜又綿，講話都讓人睡不著"
+          ]
+        },
+        "en": {
+          "content": "\"What's your usual coffee order?\"\n\"Latte, usually.\"\n\"Makes sense — talking to you feels the same. Warm, smooth, kind of addictive.\"",
+          "editorNote": "Made-for-the-cafe line. Asking the order first turns the compliment into a callback instead of a cold opener, and the 'warm, smooth, addictive' combo lands soft without sounding rehearsed.",
+          "variations": [
+            "What do you drink? Americano. Figures — looks cold at first, wakes you all the way up. Same energy.",
+            "Latte or black? Latte. Knew it — sweet, smooth, and somehow I can't put you down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-182",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://pikuplin.com/rain-pickup-lines/",
+      "sourceNote": "rainy-day shelter pickup, rewritten as natural dialogue",
+      "tags": [
+        "對話",
+        "天氣",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「外面雨好像越下越大欸。」\n「對啊，真的有點煩。」\n「那要不要先躲一下？反正我心裡那個位置一直都空著。」",
+          "editorNote": "下雨天現成的開場白，從天氣抱怨切入超自然。重點是『心裡那個位置一直都空著』要講得輕、講得隨便，太用力反而尷尬。便利商店、騎樓、捷運出口都好用",
+          "variations": [
+            "雨變大了欸。真的。要不要先躲一下？我這邊有個位置一直留著你",
+            "下這麼大要等多久？不知道。那進來躲一下，反正我這顆心也沒在收費"
+          ]
+        },
+        "en": {
+          "content": "\"The rain's really picking up out there.\"\n\"Yeah, kind of annoying actually.\"\n\"Wanna duck somewhere? I've had a spot reserved for a while now.\"",
+          "editorNote": "Free opener whenever the weather cooperates. The trick is delivering 'a spot reserved' casually, like you're talking about a seat at a cafe — overplay it and it tips into corny. Works at bus stops, awnings, convenience stores.",
+          "variations": [
+            "Rain's getting worse. Definitely. Wanna wait it out? There's a seat with your name on it.",
+            "This downpour's brutal. For real. Come hide out — I happen to have room, no cover charge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-183",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.fashionbeans.com/article/best-pickup-lines/",
+      "sourceNote": "Wi-Fi connection pickup, rewritten with phone-borrowing scenario",
+      "tags": [
+        "對話",
+        "科技",
+        "經典"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「不好意思，你這邊收訊好嗎？」\n「還行啊，怎麼了？」\n「沒事，我只是想確認一下，為什麼我一靠近你訊號就特別強。」",
+          "editorNote": "經典『Wi-Fi連線』款換個包裝，先借收訊當理由比較不突兀。咖啡廳、捷運上、戶外場合都可以用，最後那句要笑著講，講認真會變怪人",
+          "variations": [
+            "你那邊網路順嗎？順啊。難怪，我每次靠近你訊號特別滿格",
+            "可以幫我看一下訊號嗎？滿格啊。對嘛，因為我跟你之間的連線一直都很穩"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, is your signal okay over here?\"\n\"Yeah, it's fine. Why?\"\n\"Nothing — just trying to figure out why my reception jumps to full bars whenever I'm near you.\"",
+          "editorNote": "Refresh of the classic Wi-Fi line — leading with a real-sounding signal question makes the punchline feel like a sudden realization instead of a setup. Smile through the last line; deadpan tips it into creepy territory.",
+          "variations": [
+            "Got good signal? Pretty much. Makes sense — mine spikes to full whenever you're around.",
+            "Can you check your bars? All full. Figured — our connection's been stable since the second you sat down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-184",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://parade.com/1039985/marynliles/pick-up-lines/",
+      "sourceNote": "calendar / save-the-date pickup, rewritten with weekend planning dialogue",
+      "tags": [
+        "對話",
+        "甜",
+        "創意"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這週末有空嗎？」\n「應該有空，怎麼了？」\n「沒事，我只是想先把這格框起來，因為我整個行事曆，最重要的事情就是你。」",
+          "editorNote": "約週末的同時順便撒糖，比直接問『要不要約』更有梗。重點是『最重要的事情就是你』要快快帶過，不要刻意停頓，效果反而比較好。約會前期、剛聊一陣子的對象適用",
+          "variations": [
+            "週六有空嗎？看一下。先幫你框起來，反正我行事曆上排第一的永遠是你",
+            "假日有計畫嗎？沒有。那好辦了，我的計畫永遠只有一個，就是你"
+          ]
+        },
+        "en": {
+          "content": "\"You free this weekend?\"\n\"Probably, why?\"\n\"Nothing — just want to block it off, because honestly the only recurring event on my calendar is you.\"",
+          "editorNote": "Doubles as actually asking them out, which is half the appeal. Throw away the 'recurring event' line quickly instead of landing it like a punchline — the casualness is what sells it. Best with someone you've already been chatting with.",
+          "variations": [
+            "Saturday open? I think so. Cool, blocking it off — top of my calendar's always you anyway.",
+            "Got weekend plans? Not really. Easy — my plan's been the same for a while now, and it's you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-185",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://thoughtcatalog.com/rania-naim/2016/04/50-hilarious-cheesy-pick-up-lines-that-will-definitely-make-your-crush-smile/",
+      "sourceNote": "magician 'everyone disappears' classic, rewritten as crowded-bar dialogue",
+      "tags": [
+        "對話",
+        "經典",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這邊也太多人了吧。」\n「對啊，超擠。」\n「奇怪欸，我怎麼覺得還好，因為我從剛剛開始，眼睛裡就只有你一個人。」",
+          "editorNote": "魔術師款『其他人都消失了』的對話版，從抱怨人多切入超自然。夜店、市集、跨年場、演唱會都好用。最後一句要看著對方眼睛講，但語氣要輕，不然會變偶像劇",
+          "variations": [
+            "今天人爆多。對啊。可是我覺得還好，反正我從進來就只看到你",
+            "這場好擠喔。真的。怪了我都沒感覺，因為我整場只在看你"
+          ]
+        },
+        "en": {
+          "content": "\"This place is so packed tonight.\"\n\"Yeah, total chaos.\"\n\"Weird, I haven't really noticed — you're kind of the only person I've seen since I got here.\"",
+          "editorNote": "Dialogue version of the classic magician 'everyone else disappears' line. Starting with a shared complaint about the crowd makes the reveal feel organic. Made for clubs, markets, concerts, NYE — anywhere busy. Soft delivery, eye contact, no theatrics.",
+          "variations": [
+            "Crazy crowd tonight. Insane. Hadn't noticed — been kind of locked in on you the whole time.",
+            "It's wall-to-wall in here. So packed. Weird, I haven't seen anyone but you all night."
+          ]
+        }
+      }
     }
   ]
 }

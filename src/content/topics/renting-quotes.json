@@ -1643,6 +1643,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-069",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://pets.udn.com/pets/story/122674/8446296",
+      "sourceNote": "2026 偷養貓房東反而加條款 viral case; rewritten original",
+      "tags": ["寵物", "偷養", "房東", "貓"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我偷養貓兩年，房東來驗屋的那天我比貓還緊張。\n結果他蹲下來摸了摸貓，說：「下次提早講嘛。」\n那一刻我才知道——我怕的不是房東，是我自己編了兩年的謊。",
+          "editorNote": "傳給每個正在偷養寵物、每次房東傳訊息就心跳到一百八的朋友，順便提醒他寵物條款可以加註、不一定要躲一輩子",
+          "variations": [
+            "貓躲在櫃子裡，我躲在謊言裡，房東一進門我們兩個一起冒汗。",
+            "養貓的成本：飼料一個月一千、砂盆一個月五百、被房東發現的恐懼一個月無價。"
+          ]
+        },
+        "en": {
+          "content": "I secretly kept a cat for two years. The day the landlord came to inspect, I was more nervous than the cat.\nHe crouched down, scratched her chin, and said: 'Just tell me next time.'\nThat's when I realized — I wasn't scared of him. I was scared of the lie I'd been maintaining for two years.",
+          "editorNote": "Send to a friend secretly keeping a pet whose heart rate spikes every time the landlord texts — bonus reminder that a pet clause is a thing, you don't have to hide forever",
+          "variations": [
+            "Cat hides in the closet. I hide behind the lie. Landlord walks in and we both start sweating.",
+            "Cost of keeping a cat: thirty bucks of food, fifteen bucks of litter, and the priceless monthly dread that the landlord will find out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-070",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E5%B1%8B%E9%80%80%E7%A7%9F-%E6%89%A3%E6%8A%BC%E9%87%91-%E6%88%BF%E6%9D%B1-%E6%88%BF%E5%AE%A2-%E6%90%AC%E5%AE%B6-%E8%A7%A3%E7%B4%84-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/",
+      "sourceNote": "2026 點交清潔費爭議 register; rewritten original",
+      "tags": ["清潔費", "點交", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租前我打掃了八小時，地板擦到能照鏡子。\n房東驗屋說：「還是不夠乾淨喔，清潔費扣三千。」\n我這才明白——所謂清潔費，跟乾不乾淨沒關係，跟他想不想退我押金有關係。",
+          "editorNote": "適合搬家前一週的朋友抒發，順便提醒對方依法清潔費要事先白紙黑字寫進合約，沒寫的不能臨時加",
+          "variations": [
+            "我擦地三小時，房東看一秒，扣三千。時薪換算下來，這份「清潔工作」我虧大了。",
+            "房東的乾淨標準是「比新房子還新」，我的乾淨標準是「比我搬進來時還乾淨」。我們從來沒有共識。"
+          ]
+        },
+        "en": {
+          "content": "I cleaned for eight hours before moving out — the floor was a mirror.\nLandlord inspected and said: 'Still not clean enough. Three hundred bucks off your deposit.'\nThat's when I understood: a cleaning fee has nothing to do with how clean it is, and everything to do with whether he wants to give your deposit back.",
+          "editorNote": "Send to a friend a week out from moving — remind them cleaning fees have to be written into the lease in advance, no surprise add-ons at move-out",
+          "variations": [
+            "Three hours of mopping, one second of inspection, three hundred bucks gone. The hourly rate on this cleaning gig was a loss.",
+            "His standard of clean is 'newer than new construction.' Mine is 'cleaner than the day I moved in.' We've never agreed on anything."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-071",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "2026 房客最後兩個月用押金抵房租 PTT 爭議 register; rewritten original",
+      "tags": ["押金", "抵房租", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友勸我退租前兩個月不要繳房租，直接讓房東「用押金抵」。\n我說那不就是不退我押金嗎？\n他說對啊，但你至少能確定他真的「沒退你」。",
+          "editorNote": "傳給每個聽過「最後兩個月用押金抵」這個都市傳說的朋友，提醒對方這在合約上其實是違約，但很多人寧願違約也不想被坑",
+          "variations": [
+            "成年人的智慧：與其等房東退押金，不如自己先扣下來。",
+            "我跟房東的信任，建立在「我們都假裝對方會守規矩」這件事上。"
+          ]
+        },
+        "en": {
+          "content": "A friend told me to skip the last two months of rent and let the landlord 'just use the deposit.'\nI said, isn't that the same as him not returning it?\nHe said, yeah, but at least you'll know for sure he didn't.",
+          "editorNote": "Send to anyone who's heard the urban legend of 'use the deposit for the last two months' — technically a breach of contract, but plenty of renters would rather breach than get burned",
+          "variations": [
+            "Adult wisdom: instead of waiting for the deposit, deduct it yourself first.",
+            "The trust between me and my landlord is built on both of us pretending the other will play by the rules."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-072",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E5%A4%A9%E5%81%9C%E9%9B%BB%E4%B8%8D%E8%A6%81%E6%80%A5%E8%91%97%E5%A0%B1%E4%BF%AE%EF%BC%81%E5%81%9C%E9%9B%BB%E8%B7%B3%E9%9B%BB%E6%80%8E%E9%BA%BC%E8%BE%A6%EF%BC%9F-062936484.html",
+      "sourceNote": "2026 颱風天租屋停電房東不修 register; rewritten original",
+      "tags": ["颱風", "停電", "房東", "維修"],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風天停電，我傳訊息給房東。\n他說：「停電是天災，不是我的責任。」\n我說那雨從窗戶縫滲進來呢？\n他說：「那是窗戶的問題，也不是我的責任。」\n我懂了——這間房子的責任歸屬，全部都在我頭上。",
+          "editorNote": "傳給颱風天還要自己處理漏水、停電、淹水的朋友互相打氣，記得錄影存證，房屋結構修繕本來就是房東的責任",
+          "variations": [
+            "颱風天我才發現，跟我同居的不是男友，是漏水。",
+            "房東說颱風是天災，我說颱風來了你都不來，那房租也算天災嗎？"
+          ]
+        },
+        "en": {
+          "content": "Typhoon day, the power went out. I messaged my landlord.\nHe said: 'Blackouts are an act of God. Not my problem.'\nI said, what about the rain leaking through the window?\nHe said: 'That's a window problem. Also not my problem.'\nI got it — in this apartment, everything is somehow my responsibility.",
+          "editorNote": "Send to a friend dealing with leaks, blackouts, or flooding alone during a typhoon — record everything for evidence, structural repairs are legally the landlord's job",
+          "variations": [
+            "Typhoon day taught me I'm not living with my boyfriend. I'm living with a leak.",
+            "Landlord says typhoons are acts of God. I say if you don't show up when a typhoon hits, does the rent count as an act of God too?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-073",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "2026 看房一進門狗在沙發上 register; rewritten original",
+      "tags": ["看房", "房東", "現場", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去看房，房東打開門那一刻，\n沙發上躺著一隻狗、一個前房客、跟一張沒收走的外送單。\n房東笑著說：「我們今天剛打掃完。」\n我才知道台灣的「剛打掃完」是一個多麼浪漫的時間概念。",
+          "editorNote": "傳給每次看房現場跟照片落差五公里的朋友，提醒對方拍照存證並當場確認哪些可以改善",
+          "variations": [
+            "591 的照片是房東的拍立得修圖，現場的房子是我手機的原相機。",
+            "房仲說「現在這個狀況是因為前房客還沒搬走」，我說那你下次拍照前先請他搬走啊。"
+          ]
+        },
+        "en": {
+          "content": "I went to view an apartment. The landlord opened the door and inside was:\na dog on the couch, the previous tenant on the couch, and a takeout receipt nobody bothered to clear.\nLandlord smiled and said: 'We just finished cleaning.'\nThat's when I learned how romantic the phrase 'just cleaned' is in Taiwan.",
+          "editorNote": "Send to a friend whose viewings keep landing five kilometers from the listing photos — tell them to document everything and confirm fixes on the spot",
+          "variations": [
+            "Listing photos are the landlord's filtered Polaroid. The actual unit is my phone's raw camera.",
+            "Agent said 'this is just because the last tenant hasn't moved out yet.' I said, then maybe ask him to move out before the next photo shoot."
+          ]
+        }
+      }
     }
   ]
 }

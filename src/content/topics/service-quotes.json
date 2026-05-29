@@ -2278,6 +2278,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-096",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://pleated-jeans.com/2026/05/25/pics-from-retail-workers-who-have-had-it-with-entitled-customers/",
+      "sourceNote": "Inspired by Pleated Jeans 2026-05-25 「24 雙 Skechers 分九天到貨」 viral retail story; rewritten as 「客人把店員當宅配 + 個人購物秘書」 dual-role satire — original framing",
+      "tags": ["服務業", "奧客", "零售", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人網購了二十四雙鞋，\n分九天到貨。\n每天我們打電話通知，他每天說「我很忙」。\n第十天他終於來了，要求我們當場拆封檢查，\n拆到一半說「我趕時間」就走了。\n一週後他回來，要求我們把所有鞋子\n用紙箱重新打包成他要的尺寸。\n先生，您買的是鞋子，\n不是把我們當您的私人物流加管家。",
+          "editorNote": "傳給賣場、超商收包裹的同事——客人總以為一筆消費就買斷了店員的時間表。我們收貨、通知、保管、拆封、重新打包，每一項都有實際成本，公司沒收，客人不付，最後變成員工的隱形工時。",
+          "variations": [
+            "您家樓下有便利商店，您家裡有 PChome 24h，怎麼就是覺得我們店是您的私人倉庫？",
+            "客人下單一秒，員工服務九天——這個時薪換算，全台灣沒有公司付得起。"
+          ]
+        },
+        "en": {
+          "content": "She ordered 24 pairs of shoes online.\nThey arrived over nine days.\nWe called every day. She said \"I'm busy\" every day.\nDay ten, she finally showed up, demanded we unbox every pair for inspection,\nthen halfway through said \"I'm in a rush\" and walked out.\nA week later she came back and asked us to repackage everything\ninto custom-sized boxes she wanted.\nMa'am, you bought shoes —\nnot a private logistics team plus a personal assistant.",
+          "editorNote": "Send to anyone in retail or convenience-store parcel handling. Customers act like one purchase buys our entire calendar. Receiving, notifying, storing, unboxing, repackaging — every step has a real cost, the company doesn't charge for it, the customer doesn't pay for it, and it all turns into invisible employee overtime.",
+          "variations": [
+            "You have a convenience store downstairs and Amazon Prime at home. Why is our store your personal warehouse?",
+            "One second to click \"buy.\" Nine days of staff time to serve. No hourly wage on earth covers that math."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-097",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.twreporter.org/a/labor-shortage-accommodation-food-service-industries-generations",
+      "sourceNote": "Inspired by 報導者 2026 餐飲缺工率 28% 報導；rewritten as 「四家店缺一家，那一家剛好就是我」 statistical-fatigue satire — original framing",
+      "tags": ["服務業", "缺工", "餐飲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說：餐飲業缺工率 28%，\n每四家店就有一家在缺人。\n我心想——\n那一家剛好就是我這家。\n隔壁那家也是。\n再隔壁那家也是。\n原來 28% 不是統計，\n是公司故意算給投資人看的下限。",
+          "editorNote": "傳給最近被「我們是團隊」洗腦、結果一個人撐三人份的同事。報告上的缺工率永遠比你眼前的低——因為你眼前那家，就是被當作分母來平均的。",
+          "variations": [
+            "報告說每四家缺一家，現場感覺每家都缺三個人。",
+            "缺工率 28% 是給老闆看的版本，現場版本叫做「今天又只有我一個」。"
+          ]
+        },
+        "en": {
+          "content": "The news says: food-service labor shortage is at 28%.\nOne in four stores is short-staffed.\nI think to myself —\nthat one is mine.\nNext door's also short.\nThe one after that, also short.\nTurns out 28% isn't a statistic.\nIt's the floor the company shows investors.",
+          "editorNote": "Send to any coworker drinking the \"we're a team\" Kool-Aid while doing the work of three. The shortage rate on the report is always lower than the one in front of you — because the store in front of you is being averaged into the denominator.",
+          "variations": [
+            "The report says one in four. The floor feels like three short everywhere.",
+            "28% is the version for the boss. The floor version is called \"it's just me again today.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-098",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
+      "sourceNote": "Inspired by Dcard 工作板 「服務至上但只能忍氣吞聲？」 thread; rewritten as 「公司的『以客為尊』翻譯成『以員工為墊背』」 word-substitution joke — original phrasing",
+      "tags": ["服務業", "公司", "金句", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司的 SOP 第一頁寫著：\n「以客為尊」。\n翻譯成現場版：\n以客人為尊，\n以員工為墊背，\n以老闆為決策，\n以薪水為最後一名。\n四個排序裡只有一個跟員工有關，\n剛好是最後那一個。",
+          "editorNote": "適合貼在員工休息室、或印在跟主管討論調薪時的小抄上。SOP 的順序就是公司的價值觀順序——員工排在客人後面、排在老闆後面、排在帳本後面。",
+          "variations": [
+            "公司的優先順序：客人第一、老闆第二、KPI 第三、員工排在「以上皆是」後面。",
+            "「以客為尊」這四個字，公司省下的是員工四個字的尊嚴。"
+          ]
+        },
+        "en": {
+          "content": "Page one of the company SOP says:\n\"Customer first.\"\nFloor translation:\ncustomer first,\nemployee as cushion,\nboss makes the call,\nwage finishes last.\nFour rankings. Only one involves the employee —\nand it's the last one.",
+          "editorNote": "Tape it in the break room or stash it in your notes for your next raise conversation. The order of the SOP is the order of the company's values — employees rank below customers, below the boss, below the ledger.",
+          "variations": [
+            "Corporate priorities: customer first, boss second, KPI third, employee right after \"all of the above.\"",
+            "\"Customer first\" is two words the company saves by spending two words of employee dignity."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-099",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://vocus.cc/article/678bc166fd897800011340bf",
+      "sourceNote": "Inspired by 方格子 《以為有錢就了不起的客人請默默找個地方去死》 review; rewritten as 「有錢買的是商品，買不到我陪您演苦情劇」 transactional-limit framing — original anchor",
+      "tags": ["服務業", "奧客", "尊嚴", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我有付錢欸。」\n是的，您付了錢。\n所以您有那杯咖啡、那份餐、那張收據。\n您沒有買到的是——\n我陪您演苦情劇的時間、\n我裝沒聽到您罵髒話的耐心、\n我下班後還在想您那句話的失眠夜。\n那些不在發票上。",
+          "editorNote": "傳給最近被「我有付錢」開頭壓過的同事。錢買的東西在收據上，沒買的東西在你心裡——而後者通常比前者貴很多。",
+          "variations": [
+            "您的發票上列出來的，是您買到的東西；沒列出來的，是您沒買到的東西。員工的耐心剛好在第二類。",
+            "「我有付錢」這句話的潛台詞，就是「我以為錢買得到所有東西」——很可惜，沒有。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm paying, you know.\"\nYes. You paid.\nSo you got the coffee, the meal, the receipt.\nWhat you didn't buy —\nmy time co-starring in your tragedy,\nmy patience pretending I didn't hear the cursing,\nmy sleepless night replaying that thing you said.\nNone of that is on the receipt.",
+          "editorNote": "Send to any coworker recently crushed by the \"but I'm paying\" opener. What money buys is on the receipt. What it doesn't buy lives in your head — and that part usually costs much more.",
+          "variations": [
+            "What's on your receipt is what you bought. What's not on it is what you didn't. Employee patience falls in the second category.",
+            "\"I'm paying\" subtext: \"I assumed money buys everything.\" Sorry — it doesn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-100",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://twistedsifter.com/2026/03/supermarket-worker-encounters-hostile-customer-swearing-about-the-new-store-layout-but-then-his-comments-got-even-more-terrifying/",
+      "sourceNote": "Inspired by TwistedSifter 2026-03 supermarket-layout-rage viral story; rewritten as 「客人罵的不是改版，是失控感」 psychological-reframe — original framing",
+      "tags": ["服務業", "奧客", "心理", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人為了賣場動線改了、\n醬油從第三排移到第七排，\n當場罵了我十分鐘。\n他罵的不是醬油，\n他罵的是這個世界又有一件事不在他控制之中——\n而我，剛好是那個世界派來的人。\n他要的不是道歉，\n是把世界調回他熟悉的樣子。\n那個我做不到，我只能默默把醬油送他到第七排。",
+          "editorNote": "傳給最近被「店為什麼要改」、「東西為什麼換位置」開頭轟炸過的賣場同事。客人罵的從來不是商品，是他自己對失控的恐懼——我們只是剛好被選中的代表。",
+          "variations": [
+            "客人罵的不是改版的賣場，是改版的人生；只是人生不在我們的 SOP 裡。",
+            "醬油換位置就罵十分鐘的人，通常其他事情也沒有他想像中那麼可控。"
+          ]
+        },
+        "en": {
+          "content": "A customer found out we'd moved the soy sauce\nfrom aisle three to aisle seven\nand yelled at me for ten minutes.\nHe wasn't yelling about soy sauce.\nHe was yelling about one more thing in the world he can't control —\nand I happened to be the world's representative on duty.\nHe didn't want an apology.\nHe wanted the world set back the way he remembered it.\nThat one's not in my power. I just walked him over to aisle seven.",
+          "editorNote": "Send to any supermarket coworker who got chewed out over a remodel or a relocation today. The customer was never yelling at the product — they were yelling at their fear of losing control, and we just happen to be the day's chosen delegate.",
+          "variations": [
+            "He wasn't yelling at the remodeled store. He was yelling at a remodeled life. The remodel isn't on our SOP.",
+            "Anyone who yells for ten minutes about soy sauce moving aisles is usually finding everything else just as unmanageable."
+          ]
+        }
+      }
     }
   ]
 }

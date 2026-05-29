@@ -4963,6 +4963,93 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-181",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://pungenius.fun/dad-jokes-2026/",
+      "sourceNote": "受 2026 dad jokes『smartphone lost its contacts / Windows open』啟發，改寫為手機回診短劇",
+      "tags": [
+        "科技",
+        "諧音",
+        "擬人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的手機去看醫生。\n\n醫生：「哪裡不舒服？」\n\n手機：「我看不清楚。」\n\n醫生：「眼睛？」\n\n手機：「我『聯絡人』都不見了。」\n\n醫生：「⋯⋯那是通訊錄。」\n\n手機：「而且我覺得有點冷。」\n\n醫生：「為什麼？」\n\n手機：「我『視窗』沒關。」\n\n醫生：「你是 Android 還是 iPhone？」\n\n手機：「我是 Windows Phone。」\n\n醫生沉默了三秒。\n\n醫生：「節哀。」",
+          "editorNote": "適合在 IT 群組或科技宅朋友間分享",
+          "variations": [
+            "可以接：「護理師：『下一位，平板先生，請進。』平板：『我螢幕裂了。』醫生：『去隔壁修理部。』」",
+            "改成電量版：「手機：『我快沒電了。』醫生：『充一下就好。』手機：『可是我是 type-C，診所只有 lightning。』」"
+          ]
+        },
+        "en": {
+          "content": "My phone went to the doctor.\n\nDoctor: \"What's wrong?\"\n\nPhone: \"I can't see clearly.\"\n\nDoctor: \"Eyes?\"\n\nPhone: \"I lost all my contacts.\"\n\nDoctor: \"…That's your address book.\"\n\nPhone: \"Also I feel cold.\"\n\nDoctor: \"Why?\"\n\nPhone: \"I left my Windows open.\"\n\nDoctor: \"Are you Android or iPhone?\"\n\nPhone: \"I'm a Windows Phone.\"\n\nThe doctor goes silent for three seconds.\n\nDoctor: \"My condolences.\"",
+          "editorNote": "Great for IT group chats or tech-nerd friends",
+          "variations": [
+            "Add: \"Nurse: 'Next, Mr. Tablet.' Tablet: 'My screen cracked.' Doctor: 'Repair desk, next door.'\"",
+            "Battery version: \"Phone: 'I'm low on power.' Doctor: 'Just plug in.' Phone: 'I'm USB-C. This clinic only has Lightning.'\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-182",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://manmandays.com/joke/",
+      "sourceNote": "受台式諧音笑話『榴槤忘返 / 樹勾衣』啟發，改寫為水果攤閒聊短劇",
+      "tags": [
+        "食物",
+        "諧音",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去逛水果攤，老闆超會聊。\n\n老闆：「來點榴槤嗎？」\n\n我：「為什麼推薦榴槤？」\n\n老闆：「因為你會『流連』忘返。」\n\n我：「⋯⋯那這個火龍果？」\n\n老闆：「吃了你會『火力全開』。」\n\n我：「香蕉呢？」\n\n老闆：「香蕉你個芭樂。」\n\n我：「老闆你還好嗎？」\n\n老闆：「對不起，我剛剛卡住了，我重來。」\n\n老闆：「香蕉嘛，吃了會『蕉』慮全消。」\n\n我：「我買芭樂就好。」\n\n老闆：「芭樂吃了你會『把樂』帶回家。」\n\n我：「⋯⋯我可以結帳了嗎？」",
+          "editorNote": "適合菜市場或團購群組分享",
+          "variations": [
+            "可以接：「我：『那西瓜呢？』老闆：『吃了你會「稀」鬆平常地變開心。』」",
+            "改成飲料攤版：「珍奶老闆：『加珍珠嗎？』我：『加。』老闆：『加了你就「珍」惜這杯。』」"
+          ]
+        },
+        "en": {
+          "content": "I'm at a fruit stall. The owner is on a roll.\n\nOwner: \"Try some durian?\"\n\nMe: \"Why durian?\"\n\nOwner: \"Because you'll never want to leave. It's a-peeling.\"\n\nMe: \"…What about dragon fruit?\"\n\nOwner: \"You'll be fired up.\"\n\nMe: \"Bananas?\"\n\nOwner: \"They drive me bananas.\"\n\nMe: \"Sir, are you okay?\"\n\nOwner: \"Sorry, I glitched. Let me retry.\"\n\nOwner: \"Bananas — they'll lift your mood, no strings attached.\"\n\nMe: \"I'll just get a guava.\"\n\nOwner: \"Guava — you'll go-va the moon for it.\"\n\nMe: \"…Can I just pay?\"",
+          "editorNote": "Good for market trips or group-buy chats",
+          "variations": [
+            "Add: \"Me: 'Watermelon?' Owner: 'One bite and your worries melon away.'\"",
+            "Drink-stand version: \"Boba shop owner: 'Add pearls?' Me: 'Sure.' Owner: 'Now you'll pearl-y appreciate it.'\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-183",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.keeplaughingforever.com/funniest-dad-jokes",
+      "sourceNote": "受 2026 dad jokes『glued deck of cards / stable horses』啟發，改寫為動物醫院候診短劇",
+      "tags": [
+        "動物",
+        "諧音",
+        "醫院"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "動物醫院候診室，動物們在等叫號。\n\n護理師：「下一位，馬先生。」\n\n馬：「我吞了六張撲克牌。」\n\n醫生：「狀況穩定。」\n\n馬：「真的嗎？」\n\n醫生：「對，因為你住『馬房』，馬房本來就 stable。」\n\n馬：「⋯⋯這是英文梗。」\n\n護理師：「下一位，貓小姐。」\n\n貓：「我覺得我有點憂鬱。」\n\n醫生：「你需要多曬太陽。」\n\n貓：「為什麼？」\n\n醫生：「因為你需要『喵』向陽光。」\n\n護理師：「下一位，狗先生。」\n\n狗：「我什麼都還沒說。」\n\n醫生：「沒關係，你『汪』來的我都聽得懂。」\n\n狗轉身就走。",
+          "editorNote": "適合在寵物群組或獸醫朋友間分享",
+          "variations": [
+            "可以接：「護理師：『下一位，魚先生。』魚：『⋯⋯。』醫生：『他剛剛說他口渴。』」",
+            "改成牙科版：「鯊魚：『我牙齒掉了。』醫生：『沒事，你還有 299 顆。』」"
+          ]
+        },
+        "en": {
+          "content": "At the animal clinic. Patients wait for their numbers.\n\nNurse: \"Next, Mr. Horse.\"\n\nHorse: \"I swallowed six playing cards.\"\n\nDoctor: \"Your condition is stable.\"\n\nHorse: \"Really?\"\n\nDoctor: \"Yes. You live in a stable. It's literally stable.\"\n\nHorse: \"…That's barely a joke.\"\n\nNurse: \"Next, Ms. Cat.\"\n\nCat: \"I think I'm a little depressed.\"\n\nDoctor: \"You need more sunlight.\"\n\nCat: \"Why?\"\n\nDoctor: \"So you can be purr-fectly bright again.\"\n\nNurse: \"Next, Mr. Dog.\"\n\nDog: \"I haven't said anything yet.\"\n\nDoctor: \"It's fine. I understand every-woof you mean.\"\n\nThe dog turns around and walks out.",
+          "editorNote": "Good for pet group chats or vet friends",
+          "variations": [
+            "Add: \"Nurse: 'Next, Mr. Fish.' Fish: '…' Doctor: 'He says he's thirsty.'\"",
+            "Dental version: \"Shark: 'I lost a tooth.' Doctor: 'You still have 299 left.'\""
+          ]
+        }
+      }
     }
   ]
 }

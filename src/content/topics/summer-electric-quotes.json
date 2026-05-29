@@ -360,6 +360,125 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-016",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.ptt.cc/bbs/E-appliance/M.1773049038.A.298.html",
+      "sourceNote": "PTT 鄉民討論除濕機 vs 冷氣 register；改寫原創",
+      "tags": ["除濕機", "冷氣", "夏天", "PTT"],
+      "i18n": {
+        "zh-tw": {
+          "content": "鄉民推文：「先開除濕機，再開冷氣，會比較省。」\n我照做。\n結果：除濕機跑兩小時，房間從烤箱變成蒸籠。\n冷氣補上去：帳單從崩潰升級成絕望。",
+          "editorNote": "傳給那個每年都會在群組轉發「省電 10 招」的長輩",
+          "variations": [
+            "省電撇步的最終結局，是兩台機器一起運轉，一起讓你破產。",
+            "除濕機跟冷氣的關係，就像我跟咖啡——說好只開一個，最後兩個都上。"
+          ]
+        },
+        "en": {
+          "content": "Internet tip: 'Run the dehumidifier first, then the AC. You'll save money.'\nI tried it.\nResult: two hours later, the room went from oven to sauna.\nAC kicks in: my bill upgraded from devastated to hopeless.",
+          "editorNote": "Send to the relative who forwards '10 ways to save power' every June",
+          "variations": [
+            "Every energy-saving hack ends the same way: two machines running, one wallet crying.",
+            "Me and my dehumidifier had a deal: just one of you tonight. We both know how it ended."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-017",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.taipower.com.tw/2289/2363/2388/2389/10735/normalPost",
+      "sourceNote": "冷氣搭電風扇省電 官方建議 register；改寫原創",
+      "tags": ["電風扇", "冷氣", "搭配", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "官方建議：冷氣搭電風扇，可以省 10%。\n我照做。\n現在我家有三台電風扇、一台冷氣、一台循環扇，全部一起轉。\n總電費：原本的 130%。",
+          "editorNote": "貼在家裡那個風扇陣列前，紀念你失敗的省電大計",
+          "variations": [
+            "省電的訣竅，是不要加裝任何「輔助省電」的家電。"
+          ]
+        },
+        "en": {
+          "content": "Official tip: pair the AC with a fan, save 10%.\nI tried it.\nNow my apartment has three pedestal fans, one AC, and one air circulator, all spinning at once.\nTotal bill: 130% of normal.",
+          "editorNote": "Tape this above your fan-army for a memorial to your failed savings plan",
+          "variations": [
+            "The real way to save on cooling is to not buy any additional 'energy-saving' appliances."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-018",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.pttweb.cc/bbs/E-appliance/M.1686464612.A.C5B",
+      "sourceNote": "家裡寵物吹冷氣 鄉民討論；改寫原創",
+      "tags": ["寵物", "冷氣", "毛小孩", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "出門上班前的對話：\n我：「冷氣關掉太熱。」\n我：「但開著我會心痛。」\n貓（瞇眼）：「你說什麼？」\n冷氣：26 度，整天開到我下班。",
+          "editorNote": "傳給家有毛小孩、夏天電費比自己生活費還高的奴才們",
+          "variations": [
+            "夏天的冷氣不是給人吹的，是給貓吹的，我只是付錢的房客。",
+            "養貓之後我才知道，原來電費可以為了一隻不會說謝謝的生物自願多付。"
+          ]
+        },
+        "en": {
+          "content": "Pre-work conversation:\nMe: 'Turning off the AC feels cruel.'\nMe: 'Leaving it on feels expensive.'\nCat (squints): 'I'm sorry, what?'\nAC: 78°F, on until I get home at 7.",
+          "editorNote": "For every pet parent whose summer bill exceeds their grocery budget",
+          "variations": [
+            "The summer AC isn't for me. It's for the cat. I'm just the tenant who pays rent.",
+            "Becoming a pet parent means voluntarily paying extra electric for something that won't even say thanks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-019",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1597368030.A.F1D.html",
+      "sourceNote": "PTT WomenTalk 夏季電費加乘抱怨 register；改寫原創",
+      "tags": ["情侶", "冷氣", "同居", "電費"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同居後最大的成長，是學會在冷氣開到 24 度時，平靜地說：\n「沒事，我們各自分攤一半。」\n心裡 OS：「但我用 27 度也活得下去，你知道嗎。」",
+          "editorNote": "傳給剛跟另一半同居、開始討論分攤電費的朋友",
+          "variations": [
+            "感情會不會變淡，看電費單就知道。"
+          ]
+        },
+        "en": {
+          "content": "The biggest growth from moving in together is learning to calmly say,\n'No problem, we'll split it 50/50,'\nwhile internally screaming: 'But I could survive at 80°F, you know.'",
+          "editorNote": "For couples who just started splitting the utility bill",
+          "variations": [
+            "Want to know if a relationship will last? Check the summer thermostat negotiation."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-020",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://imgflip.com/tag/electric+bill",
+      "sourceNote": "AC compressor sound envy meme register；改寫原創",
+      "tags": ["鄰居", "冷氣", "外機", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天的鄰居關係，是一種奇怪的競賽：\n聽到對面那家冷氣外機 24 小時運轉，我心裡浮現的不是抱怨，\n是：「他們竟然付得起。」",
+          "editorNote": "適合住公寓、能聽見隔壁冷氣外機嗡嗡聲的所有人",
+          "variations": [
+            "判斷鄰居家庭月收入的最準方法，就是聽他家冷氣開多久。"
+          ]
+        },
+        "en": {
+          "content": "The strangest summer competition is with your neighbors:\nHearing their AC compressor humming 24/7, the first thought isn't 'how annoying.'\nIt's: 'how can they afford that.'",
+          "editorNote": "For everyone in an apartment listening to the next-door AC unit drone all night",
+          "variations": [
+            "Want to estimate your neighbor's salary? Just time how long their AC runs."
+          ]
+        }
+      }
     }
   ]
 }
