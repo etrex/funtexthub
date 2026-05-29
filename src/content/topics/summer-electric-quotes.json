@@ -1,0 +1,365 @@
+{
+  "slug": "summer-electric-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "夏天電費語錄",
+      "description": "六月一號夏月電價開跑，冷氣是空氣，電費是現實——獻給每個拆帳單前要先深呼吸的人。"
+    },
+    "en": {
+      "title": "Summer Electric Bill Quotes",
+      "description": "Summer rates just kicked in. AC is oxygen, the bill is reality — for everyone who needs a deep breath before opening the envelope."
+    }
+  },
+  "items": [
+    {
+      "id": "sec-001",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.taipower.com.tw/2289/2363/2388/2389/10735/normalPost",
+      "sourceNote": "夏月電價 6/1 開跑 三級距 2.55 元；改寫原創",
+      "tags": ["夏月電價", "台電", "六月", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "六月一號，夏月電價正式啟動。\n台電：「祝您有個涼爽的夏天。」\n我：「妳這句話聽起來不像祝福，比較像收據。」",
+          "editorNote": "傳給那個剛收到 6 月份電費通知的同事，一起認命",
+          "variations": [
+            "台電的夏天，是從你點開 APP 的那一刻開始的。",
+            "夏月電價的「夏」字，唸起來特別像「下重手」的「下」。"
+          ]
+        },
+        "en": {
+          "content": "June 1st: summer electricity rates officially begin.\nPower company: 'Wishing you a cool summer.'\nMe: 'That doesn't sound like a wish, it sounds like a receipt.'",
+          "editorNote": "Send to the friend who just got their first summer bill notification — pure solidarity",
+          "variations": [
+            "Summer doesn't start with the solstice. It starts the moment you open the utility app.",
+            "They call it 'peak season'. I call it 'please season — please use less'."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-002",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "冷氣 26 度 vs 28 度 妥協 register；改寫原創",
+      "tags": ["冷氣", "省電", "妥協", "26度"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電說：「冷氣設 26 度最舒適，調高一度省 6%。」\n我：「那我設 28 度，多出來的兩度，我用流汗補。」",
+          "editorNote": "貼在家裡客廳冷氣旁邊，給每天都在跟自己討價還價的你",
+          "variations": [
+            "省電方法：把冷氣調到 28 度。省更多的方法：把冷氣關掉，搬去便利商店住。"
+          ]
+        },
+        "en": {
+          "content": "Energy tip: 'Set your AC to 78°F for the perfect balance.'\nMe: 'I set it to 80°F. The missing 2 degrees, I make up with sweat.'",
+          "editorNote": "For anyone negotiating with their own thermostat every single night",
+          "variations": [
+            "How to save on cooling: raise the thermostat. How to save more: move into a convenience store."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-003",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://udn.com/news/story/7266/8741237",
+      "sourceNote": "「冷氣開整天電費才一兩千」鄉民炸鍋；改寫原創",
+      "tags": ["冷氣", "PTT", "電費", "貧富差距"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人說：「冷氣開整天，一個月才一兩千啊，何必省。」\n我：「對，問題是那兩千，是我這個月唯一不繳的東西，叫做存款。」",
+          "editorNote": "回敬給那個跟你說「電費沒多少」的有錢朋友",
+          "variations": [
+            "「電費才幾千塊」這句話，是衡量一個人經濟段位的精準指標。"
+          ]
+        },
+        "en": {
+          "content": "Someone said: 'AC running 24/7 only costs like sixty bucks, why bother saving?'\nMe: 'Right. That sixty bucks is the only thing I wasn't paying this month. We call it savings.'",
+          "editorNote": "A polite response to anyone who tells you 'electricity isn't that expensive'",
+          "variations": [
+            "'Electricity isn't that bad' is the most accurate net-worth indicator ever invented."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-004",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E5%8F%B0%E9%9B%BB%E9%9B%BB%E8%B2%BB-%E5%A4%8F%E5%AD%A3%E9%9B%BB%E8%B2%BB-%E9%9B%BB%E8%B2%BB%E8%A8%88%E7%AE%97/",
+      "sourceNote": "兩個月一張帳單 心痛兩個月份 register；改寫原創",
+      "tags": ["帳單", "兩個月", "心痛", "夏月"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別的痛苦都是一次一次來，\n只有電費，是兩個月份的傷害，濃縮成一個信封一次給你。",
+          "editorNote": "適合每隔兩個月拆帳單前的心理建設，傳給室友一起做心理準備",
+          "variations": [
+            "夏天的電費單，是一種「兩個月的因，一秒鐘的果」。"
+          ]
+        },
+        "en": {
+          "content": "Most pain comes in single doses.\nThe electric bill is the only pain that lets two months ferment, then hands it to you in one envelope.",
+          "editorNote": "Pre-bill therapy for anyone splitting utilities with a roommate",
+          "variations": [
+            "Two months of cause. One envelope of consequence."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-005",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://edh.tw/lohas/article/20979",
+      "sourceNote": "蓋棉被吹冷氣 台灣特有 register；改寫原創",
+      "tags": ["冷氣", "棉被", "矛盾", "台灣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "蓋棉被吹冷氣，\n是一個人類為了把錢花得最沒效率，所能做出的最頂級操作。",
+          "editorNote": "傳給昨晚冷氣 22 度蓋兩條被子的那個朋友，他懂",
+          "variations": [
+            "蓋棉被吹冷氣，是台灣人對「自由」的最終定義。"
+          ]
+        },
+        "en": {
+          "content": "Cranking the AC to 65 and burrowing under a duvet:\nthe most premium way a human being can waste money on purpose.",
+          "editorNote": "For the friend who slept under three blankets last night with the AC blasting",
+          "variations": [
+            "AC at 65, duvet to the chin. Freedom, but make it expensive."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-006",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.workiz.com/blog/hvac/over-50-funny-hvac-memes-and-air-conditioning-memes/",
+      "sourceNote": "AC vs salary comparison meme；改寫原創",
+      "tags": ["冷氣", "薪水", "通膨", "GDP"],
+      "i18n": {
+        "zh-tw": {
+          "content": "GDP 創新高，台股創新高，電費也創新高，\n只有我的薪水，年年保持初心，從不隨波逐流。",
+          "editorNote": "貼在公司茶水間冷氣旁，跟同事用眼神默默乾杯",
+          "variations": [
+            "我家什麼都漲，只有我的存款堅守原地，像個老派紳士。"
+          ]
+        },
+        "en": {
+          "content": "GDP hits new highs. The stock market hits new highs. The electric bill hits new highs.\nOnly my salary stays loyal to its origins, refusing to follow trends.",
+          "editorNote": "Print this and tape it next to the office AC for the silent eye-contact toast",
+          "variations": [
+            "Everything in my life is appreciating. Just not my paycheck."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-007",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://lovecouplez.com/air-conditioning-jokes/",
+      "sourceNote": "去便利商店逛超久 蹭冷氣 register；改寫原創",
+      "tags": ["便利商店", "蹭冷氣", "省錢", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去便利商店繞了 40 分鐘只買一瓶水。\n店員：「在找什麼？」\n我：「找一個不用我付電費的夏天。」",
+          "editorNote": "適合下午四點熱到不想回家的時候，配一張便利商店冷藏櫃的照片",
+          "variations": [
+            "圖書館、便利商店、銀行大廳——夏天三大公益冷氣聖地。"
+          ]
+        },
+        "en": {
+          "content": "I spent 40 minutes in 7-Eleven and bought one bottle of water.\nClerk: 'Looking for something?'\nMe: 'Yeah. A summer somebody else is paying the AC for.'",
+          "editorNote": "For that 4PM moment when you can't bring yourself to go back home",
+          "variations": [
+            "Libraries, convenience stores, bank lobbies — the holy trinity of free summer AC."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-008",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.digitalmomblog.com/hot-weather-memes/",
+      "sourceNote": "AC is the only one who understands me；改寫原創",
+      "tags": ["冷氣", "情感", "依賴", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "成年後最穩定的關係，是我跟我家那台冷氣。\n它從不問我今天過得怎樣，但只要我按下遙控器，它就會用涼風溫柔地接住我。",
+          "editorNote": "傳給那個說「冷氣是我老公」的朋友，她會泛淚",
+          "variations": [
+            "我跟我的冷氣已經到了不用解釋的階段，按下開機，它就知道今天不行。"
+          ]
+        },
+        "en": {
+          "content": "The most stable relationship I've had as an adult is with my AC unit.\nIt never asks how my day was, but the moment I hit the remote, it catches me with a soft cold breeze.",
+          "editorNote": "Send to the friend who introduces her air conditioner as her husband",
+          "variations": [
+            "My AC and I are past the words stage. I press the button, it just knows."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-009",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://news.tvbs.com.tw/life/3201267",
+      "sourceNote": "電費跨級距 帳單超過 700 度 痛苦倍增；改寫原創",
+      "tags": ["級距", "帳單", "崩潰", "夏月"],
+      "i18n": {
+        "zh-tw": {
+          "content": "上個月用 329 度，平安無事。\n這個月用 331 度，台電當場升我一個等級——\n從「節能模範生」直接畢業成「環境破壞首要嫌疑人」。",
+          "editorNote": "解釋給那個第一次發現自己跨級距的新室友聽，他需要被安慰",
+          "variations": [
+            "電費級距，是一條看不見的線。踩到的那一秒，你的人生瞬間貴了 25%。"
+          ]
+        },
+        "en": {
+          "content": "Last month: 329 kWh. Smooth sailing.\nThis month: 331 kWh. The power company instantly upgrades me — \nstraight from 'Energy Honor Roll' to 'Person of Interest in Climate Damage'.",
+          "editorNote": "Explain this to the new roommate who just discovered tiered billing",
+          "variations": [
+            "There's an invisible line in your bill. The second you cross it, your life is 25% more expensive."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-010",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.servicetitan.com/blog/hvac-memes",
+      "sourceNote": "AC remote control fight register；改寫原創",
+      "tags": ["冷氣", "家人", "遙控器", "戰爭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我家冷氣遙控器，是世界上權力最集中的物品。\n誰拿到它，誰就決定今晚這個家是熱帶雨林還是北極。",
+          "editorNote": "適合家族群組，配一張遙控器的照片，讓爸媽自動對號入座",
+          "variations": [
+            "媽媽：26 度。爸爸：23 度。我：偷偷把遙控器藏到自己房間。"
+          ]
+        },
+        "en": {
+          "content": "The AC remote is the most concentrated form of political power in our house.\nWhoever holds it decides whether tonight's climate is rainforest or Arctic Circle.",
+          "editorNote": "Drop this in the family chat with a photo of the remote — let everyone self-identify",
+          "variations": [
+            "Mom: 78. Dad: 70. Me: secretly relocates the remote to my own room."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-011",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.fieldpromax.com/blog/30-hilarious-ac-and-hvac-memes",
+      "sourceNote": "summer paycheck disappears to bills register；改寫原創",
+      "tags": ["薪水", "電費", "月光", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天的薪水組成：\n房租 40%，電費 25%，吃飯 20%，奶茶 15%，存款請另尋他人。",
+          "editorNote": "貼在記帳 App 上方截圖，傳給也在算這條算式的朋友",
+          "variations": [
+            "夏天的存款，跟我家樓下那棵樹一樣——存在，但很瘦。"
+          ]
+        },
+        "en": {
+          "content": "Summer paycheck breakdown:\nRent 40%, electric 25%, food 20%, iced drinks 15%, savings please contact someone else.",
+          "editorNote": "Pair with a screenshot from your budgeting app — caption inevitable",
+          "variations": [
+            "My summer savings, like the tree outside my window: exists, but skinny."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-012",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.storm.mg/lifestyle/3797211",
+      "sourceNote": "變頻冷氣 開整天 比較省 鄉民迷思；改寫原創",
+      "tags": ["變頻冷氣", "迷思", "PTT", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "鄉民：「變頻冷氣開整天比較省。」\n台電：「不是。」\n鄉民：「但我相信我自己。」\n月底：帳單寄到。",
+          "editorNote": "傳給那個每天用「我聽說」開頭的家庭群組長輩",
+          "variations": [
+            "省電的方法，全網路有 100 種版本。會收帳單的，只有你。"
+          ]
+        },
+        "en": {
+          "content": "Internet: 'Leaving inverter AC on all day actually saves more.'\nPower company: 'No, it doesn't.'\nInternet: 'But I believe in myself.'\nEnd of month: bill arrives.",
+          "editorNote": "For the uncle in the family chat who starts every message with 'I heard…'",
+          "variations": [
+            "There are 100 versions of the AC-saving trick online. Only one person gets the bill."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-013",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://www.jackercleaning.com/blog/380",
+      "sourceNote": "open window or AC debate；改寫原創",
+      "tags": ["冷氣", "開窗", "通風", "矛盾"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽：「開窗就好，自然風比較健康。」\n我：「外面 36 度。」\n媽：「那把窗戶關起來，冷氣別開那麼低。」\n結論：媽媽永遠是對的，跟物理無關。",
+          "editorNote": "貼在 LINE 媽媽群組會炸鍋，建議只傳給知道笑點的朋友",
+          "variations": [
+            "媽媽的省電哲學第一條：你穿少一點就不用冷氣了。第二條：但不能太少。"
+          ]
+        },
+        "en": {
+          "content": "Mom: 'Just open the window, fresh air is healthier.'\nMe: 'It's 97°F outside.'\nMom: 'Then close the window, but don't run the AC so low.'\nConclusion: Mom is always right. Physics is irrelevant.",
+          "editorNote": "Will absolutely detonate the family chat — share with select friends only",
+          "variations": [
+            "Mom's energy-saving rule #1: wear less, you won't need AC. Rule #2: but not too little."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-014",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://brands.live/template/electricity-bill-ac-meme",
+      "sourceNote": "opening the bill envelope dread；改寫原創",
+      "tags": ["帳單", "拆信", "心跳", "崩潰"],
+      "i18n": {
+        "zh-tw": {
+          "content": "拆夏天電費單的步驟：\n1. 深呼吸。\n2. 跟自己說我有努力省電。\n3. 拆開。\n4. 把它折回去當作沒看過。",
+          "editorNote": "傳給每兩個月要進行一次這個儀式的所有人",
+          "variations": [
+            "夏天的電費單，是一種需要心理諮商陪同拆開的文件。"
+          ]
+        },
+        "en": {
+          "content": "How to open your summer electric bill:\n1. Deep breath.\n2. Tell yourself you tried to save.\n3. Open it.\n4. Fold it back and pretend you didn't see.",
+          "editorNote": "Send to anyone who performs this ritual every two months",
+          "variations": [
+            "The summer electric bill is the kind of document you should open with a therapist on standby."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-015",
+      "dateAdded": "2026-05-29",
+      "sourceUrl": "https://forum.gamer.com.tw/C.php?bsn=60084&snA=203573",
+      "sourceNote": "office AC vs home AC 對照 register；改寫原創",
+      "tags": ["辦公室", "冷氣", "公司", "上班"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司冷氣：22 度，免費，我披外套。\n家裡冷氣：28 度，自己付，我穿背心還是熱。\n結論：上班其實是去蹭冷氣，順便把錢領回家繳電費。",
+          "editorNote": "適合 5 點下班前傳給同事，互相安慰一下",
+          "variations": [
+            "辦公室的冷氣是別人家的冷氣，永遠最涼。",
+            "上班最大的福利，是公司願意把冷氣開到我家不敢開的溫度。"
+          ]
+        },
+        "en": {
+          "content": "Office AC: 72°F, free, I'm wearing a hoodie.\nHome AC: 82°F, on my dime, I'm in a tank top and still sweating.\nConclusion: I'm not going to work. I'm going to free AC and bringing home a paycheck to pay my own bill.",
+          "editorNote": "Send to coworkers right before 5PM clock-out — group therapy",
+          "variations": [
+            "Office AC is always colder, because it's not your bill.",
+            "The real perk of having a job is they crank the AC to a temperature you'd never dare at home."
+          ]
+        }
+      }
+    }
+  ]
+}
