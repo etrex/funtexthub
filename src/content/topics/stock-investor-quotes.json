@@ -1,0 +1,391 @@
+{
+  "slug": "stock-investor-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "股票投資人語錄",
+      "description": "台股創新高、帳面創新低——獻給每個被叫做韭菜、卻還在自稱長期投資者的散戶。"
+    },
+    "en": {
+      "title": "Stock Investor Quotes",
+      "description": "All-time highs on the index, all-time lows in my portfolio. For every retail trader who calls a loss a 'long-term investment'."
+    }
+  },
+  "items": [
+    {
+      "id": "siq-001",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://www.cna.com.tw/news/afe/202605230083.aspx",
+      "sourceNote": "5/23 台股 42,267 史上新高 + 1,172 家齊揚；改寫原創 K 型對比 register",
+      "tags": ["台股", "創新高", "K型", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞：「台股今日收盤再創歷史新高，逾千家個股齊揚。」\n我：「逾千家齊揚，沒有一家是我的。我的帳戶，獨自走自己的路。」",
+          "editorNote": "丟在投資群組，給每個邊看新聞邊重新整理庫存的同好",
+          "variations": [
+            "大盤紅通通的日子，最適合用來檢討個人選股能力。",
+            "媒體說全民賺錢，我看了一下對帳單，覺得自己不算全民。"
+          ]
+        },
+        "en": {
+          "content": "Headline: 'Market hits a fresh all-time high, over a thousand names in the green.'\nMe: 'Over a thousand in green. Not a single one is mine. My account walks its own path.'",
+          "editorNote": "Drop this in the group chat with every friend refreshing their brokerage app on a green day",
+          "variations": [
+            "On the days the index is glowing red, take a moment to evaluate your stock-picking abilities.",
+            "They say everyone is winning. I checked my statement and decided I'm not part of everyone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-002",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://money.udn.com/money/story/12040/8379220",
+      "sourceNote": "「韭菜」散戶 register；改寫原創",
+      "tags": ["韭菜", "散戶", "自嘲", "認同"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人問我是哪一派的投資人。\n我說我自成一派：被割派。\n韭菜的自我修養，第一條就是——下次還是會買在最高點。",
+          "editorNote": "適合放在 IG 限動或券商 APP 截圖旁邊，配上一個下跌的紅K",
+          "variations": [
+            "我不是不會看圖，我只是看完之後永遠選錯邊。",
+            "我跟主力的關係很單純，他出貨，我接貨。"
+          ]
+        },
+        "en": {
+          "content": "People ask what kind of investor I am.\nI tell them I'm in a class of my own: the exit liquidity class.\nRule one of being retail — next time, I'll still buy the top.",
+          "editorNote": "Pair with a screenshot of a red candle in your story, perfect captioning for any down day",
+          "variations": [
+            "It's not that I can't read charts. I just always pick the wrong side after I do.",
+            "My relationship with the whales is simple. They sell. I buy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-003",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1779775243.A.70A.html",
+      "sourceNote": "PTT 股板「套牢=長期投資」 register；改寫原創",
+      "tags": ["套牢", "長期投資", "自嘲", "PTT"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友：「你這支抱多久了？」\n我：「三年。」\n朋友：「哇你真的是價值投資者耶。」\n我：「不是，是我捨不得停損，怕一賣它就漲。」",
+          "editorNote": "送給每一個把『被套牢』講成『長期持有』的同溫層",
+          "variations": [
+            "長期投資的真實定義：賠太多不敢賣。",
+            "我不是不賣，我是在等它回到我當初買的價格，然後跟它說再見。"
+          ]
+        },
+        "en": {
+          "content": "Friend: 'How long have you been holding that one?'\nMe: 'Three years.'\nFriend: 'Wow, true value investor.'\nMe: 'No, I just can't bring myself to take the loss in case it bounces the second I sell.'",
+          "editorNote": "Dedicated to everyone who calls 'underwater for years' a 'long-term position'",
+          "variations": [
+            "Long-term investing, real definition: down too much to admit it.",
+            "I'm not holding. I'm waiting for it to return to my entry so I can say goodbye in peace."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-004",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://udn.com/news/story/12806/8999067",
+      "sourceNote": "追高仔 register / 「家裡死人嗎」 主力出貨自嘲；改寫原創 (避開原始 vulgar 用語)",
+      "tags": ["追高", "主力", "出貨", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我點開那檔股票的當下，它正在開派對。\n我刷卡進場的那一秒，主力默默把燈關了，桌上的酒收一收，跟我說：「啊歹勢，今天到這裡。」",
+          "editorNote": "適合貼在收盤後對著沖天炮變成跌停板的對帳單前發呆時用",
+          "variations": [
+            "我進場的時機很神奇，神奇到主力都會回頭看我一眼。",
+            "我的買進均價，就是主力的退場提示音。"
+          ]
+        },
+        "en": {
+          "content": "I opened the chart and the party was in full swing.\nThe moment my order filled, the whales quietly turned off the lights, cleared the table, and said: 'Sorry pal, that's a wrap for tonight.'",
+          "editorNote": "For staring at a candle that went from rocket to red after the close",
+          "variations": [
+            "My entry timing is so magical, even institutional traders turn around to look.",
+            "My average cost is basically the exit signal for everyone smarter than me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-005",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "全民投資年 + K型經濟 register；改寫原創",
+      "tags": ["全民投資", "K型經濟", "薪水", "貧富差距"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媒體說：「2026 是全民投資年。」\n我：「對，全民都在投資，只是我投的是補稅，不是基金。」",
+          "editorNote": "5/31 報稅末日後配電費通知一起看更有 K 型味",
+          "variations": [
+            "全民投資年的真實意思是：你不投資，通膨就會替你投資。",
+            "我有一個多元化投資組合：補稅、電費、房租，三大產業齊揚。"
+          ]
+        },
+        "en": {
+          "content": "Media: '2026 is the year of the retail investor.'\nMe: 'True. We're all investing — I'm just investing in back taxes, not index funds.'",
+          "editorNote": "Pair with your tax deadline reminder for full K-shaped recession energy",
+          "variations": [
+            "The real meaning of 'everyone's investing now' is: if you don't, inflation will do it for you.",
+            "I have a diversified portfolio — taxes, rent, utilities. Three strong sectors, all up YoY."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-006",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "技術分析自欺 register；改寫原創",
+      "tags": ["技術分析", "K線", "自嘲", "看盤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我學了均線、學了 KD、學了 MACD，學了波浪理論。\n畫了三條趨勢線、兩個支撐位、一個頸線。\n結論：跌。\n原因：我有買。",
+          "editorNote": "傳給那個花了一個月學技術分析、結果還是賠錢的朋友",
+          "variations": [
+            "技術指標準不準我不知道，但我準。我準準的買在最高點。",
+            "圖表上的每一條線都會告訴我不同的故事，但我永遠選最樂觀的那一條來信。"
+          ]
+        },
+        "en": {
+          "content": "I learned moving averages. I learned RSI. I learned MACD. I learned Elliott Wave.\nI drew three trendlines, two support levels, one neckline.\nConclusion: it will go down.\nReason: I bought.",
+          "editorNote": "Send to the friend who took a TA course and is still down 30%",
+          "variations": [
+            "I don't know if technical indicators are accurate. But I am. Accurately at the top, every time.",
+            "Every line on the chart tells me a different story. I always believe the most optimistic one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-007",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://www.cmoney.tw/forum/stock/rank",
+      "sourceNote": "親友報明牌 register；改寫原創",
+      "tags": ["明牌", "親友", "厭世", "塞給你"],
+      "i18n": {
+        "zh-tw": {
+          "content": "親戚過年塞給我一支明牌，說：「這個你買，下半年保證翻倍。」\n半年後，他翻倍了：本來欠我一萬，現在欠我兩萬。",
+          "editorNote": "適合丟給每個過年被親戚『好心報牌』整慘的同事",
+          "variations": [
+            "親戚的明牌跟天氣預報一樣，講得很有信心，每次都打臉。",
+            "唯一不會虧的方式，是把親戚的明牌反著做。但這樣親戚會生氣。"
+          ]
+        },
+        "en": {
+          "content": "Uncle slipped me a hot tip at Thanksgiving: 'Buy this, guaranteed double by year-end.'\nSix months later, it did double — the amount he owes me.",
+          "editorNote": "Forward to anyone who got 'helpful stock advice' from family at the last holiday dinner",
+          "variations": [
+            "Family stock tips are like weather forecasts: delivered with full confidence, wrong every single time.",
+            "The only foolproof strategy is to fade your uncle. But then he stops talking to you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-008",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1744174538.A.C7D.html",
+      "sourceNote": "停損 vs 攤平 register；改寫原創",
+      "tags": ["攤平", "停損", "厭世", "加碼"],
+      "i18n": {
+        "zh-tw": {
+          "content": "投資老師說：「不要逆勢攤平。」\n我說：「老師我懂了。」\n然後跌了 10%，我加碼。\n再跌 10%，我又加碼。\n現在均價很漂亮，跟我的存款一樣，幾乎見底。",
+          "editorNote": "適合貼在『再加碼一次就好』的當下提醒自己冷靜",
+          "variations": [
+            "攤平的盡頭不是解套，是攤到平躺在地上。",
+            "我的均價是用無數次『這次一定是最低點』堆出來的。"
+          ]
+        },
+        "en": {
+          "content": "Investing book: 'Never average down on a losing trade.'\nMe: 'Got it.'\nThen it drops 10%, I buy more.\nDrops another 10%, I buy more.\nNow my average cost is beautiful — and so is the bottom of my bank account.",
+          "editorNote": "Tape this to your monitor before clicking 'buy more' on a position that's already underwater",
+          "variations": [
+            "The end of averaging down isn't breaking even. It's lying flat on the ground.",
+            "My cost basis is built on a hundred separate moments of 'this has to be the bottom.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-009",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "看盤的姿勢 register；改寫原創",
+      "tags": ["看盤", "上班", "摸魚", "工作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "9 點到 13 點半，老闆以為我在打報表。\n其實我在打開券商 APP。\n13 點 30 分一收盤，我才開始打報表，速度跟剛剛刷新庫存一樣快。",
+          "editorNote": "懂的同事自然會懂，分享前先確認老闆沒在你後面",
+          "variations": [
+            "我的工作效率，跟大盤呈現負相關。",
+            "開盤時我多工，收盤時我專心，這就是平衡。"
+          ]
+        },
+        "en": {
+          "content": "9 to 4, my boss thinks I'm crushing the quarterly report.\nReally I'm refreshing the brokerage app.\nThe second the closing bell rings, I crush that report — at the same speed I was checking quotes.",
+          "editorNote": "Coworkers will instantly relate. Check that your boss isn't behind you before sharing",
+          "variations": [
+            "My work productivity is inversely correlated with the market being open.",
+            "While the market is open, I multitask. After close, I focus. That's called balance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-010",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://udn.com/news/story/12806/9309076",
+      "sourceNote": "賣飛 + FOMO register；改寫原創",
+      "tags": ["賣飛", "FOMO", "厭世", "後悔"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我賣掉那支股票的下一秒，它開始漲。\n我重新買回去的下一秒，它開始跌。\n券商客服說：「先生，您的帳戶可能跟主力的方向感天生互斥。」",
+          "editorNote": "送給每個剛經歷『賣飛 → 追回 → 套牢』完整三部曲的人",
+          "variations": [
+            "想知道一支股票會不會漲，最快的方法就是把它賣掉。",
+            "我有一個超能力：只要我進場，趨勢就會立刻翻轉。"
+          ]
+        },
+        "en": {
+          "content": "The second I sold it, it ripped.\nThe second I bought it back, it tanked.\nMy broker's support line: 'Sir, your account appears to have a natural inverse correlation with the institutional flow.'",
+          "editorNote": "For anyone who just lived through the full sold-the-bottom-bought-the-top arc",
+          "variations": [
+            "Quickest way to find out if a stock will pump? Sell it.",
+            "I have a superpower: the trend reverses the instant I enter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-011",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://financhill.com/blog/investing/best-stock-market-jokes",
+      "sourceNote": "牛市熊市 register；改寫原創",
+      "tags": ["牛市", "熊市", "自嘲", "市場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人的市場：牛市、熊市。\n我的市場：牛市、熊市，跟我自己一個人在淒風苦雨中的市。\n大家都賺錢的時候，我學到了一個新的市場名字——「個人空頭市場」。",
+          "editorNote": "適合在大盤漲、自己賠的日子，找個沒人的地方默默轉發",
+          "variations": [
+            "歷史上的多頭市場、空頭市場我都看過，但只有我擁有同一週兼具兩者的能力。",
+            "別人的 K 線跟我的 K 線，根本是兩個世界的故事。"
+          ]
+        },
+        "en": {
+          "content": "Other people's markets: bull market, bear market.\nMy market: bull market, bear market, and 'me standing alone in a personal blizzard.'\nWhen everyone is winning, I learned a new market type — the 'personal recession.'",
+          "editorNote": "For the days the index is green and your portfolio is bleeding — silent repost only",
+          "variations": [
+            "I've lived through every kind of market. I'm also the only person who runs all of them in the same week.",
+            "Other people's candles and my candles tell completely different stories."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-012",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://www.cna.com.tw/news/afe/202605230083.aspx",
+      "sourceNote": "聯發科 漲 899 點 carry + 月薪沒漲對比；改寫原創",
+      "tags": ["薪水", "股利", "厭世", "對比"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司今年發股利，每股配 5 元。\n我月薪今年漲了 200 元。\n結論：當公司股東比當公司員工划算。\n但問題是，我兩個都是。",
+          "editorNote": "丟在公司茶水間 LINE 群，配著薪資調整通知一起看",
+          "variations": [
+            "股東會說的數字很漂亮，員工會說的數字……沒有員工會。",
+            "我看到自己公司配的股利，第一個反應是：早知道我多買一張就不用上班了。"
+          ]
+        },
+        "en": {
+          "content": "Company announces this year's dividend: five bucks per share.\nMy annual raise: six dollars and fifty cents.\nConclusion: being a shareholder pays better than being an employee.\nProblem is, I'm both.",
+          "editorNote": "For the office break room group chat, right next to the annual comp review email",
+          "variations": [
+            "The numbers at the shareholder meeting look beautiful. The numbers at the employee meeting — there is no employee meeting.",
+            "I saw my own company's dividend payout and immediately thought: I should have bought more shares and quit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-013",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://jokesandpuns.com/stock-market-jokes-and-puns/",
+      "sourceNote": "退休夢 / FIRE register；改寫原創",
+      "tags": ["退休", "FIRE", "厭世", "夢想"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我原本的計畫：30 歲財務自由，提早退休去環遊世界。\n修正版計畫：60 歲財務自由，提早退休去環遊台灣。\n最新版計畫：65 歲財務沒自由，繼續上班順便環遊辦公室。",
+          "editorNote": "適合在打開試算表算退休時，提醒自己保持幽默感",
+          "variations": [
+            "我這輩子最大的投資失敗，是相信『年輕時辛苦一下，老了就輕鬆』。",
+            "FIRE 的 F 我做到了——Financial。R E 還在努力。"
+          ]
+        },
+        "en": {
+          "content": "Original plan: financial independence by 30, early retirement, travel the world.\nRevised plan: financial independence by 60, early retirement, travel the country.\nCurrent plan: no financial independence by 65, keep working, travel from desk to break room.",
+          "editorNote": "Read whenever you open the retirement calculator. Keep your sense of humor intact",
+          "variations": [
+            "My biggest investing mistake was believing 'work hard now, relax later.'",
+            "I achieved the F in FIRE — Financial. Still working on the R and the E."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-014",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://punnypulse.com/stock-market-jokes/",
+      "sourceNote": "ETF 月配息 register；改寫原創",
+      "tags": ["ETF", "月配息", "存股", "佛系"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說，存月配息 ETF，就像領第二份薪水。\n我存了兩年。\n第一份薪水繳房租，第二份薪水繳第一份薪水的稅。\n結論：我有兩份薪水，但是我自己沒看過任何一份。",
+          "editorNote": "送給每個 ETF 存股族，配著證券交易稅單一起服用",
+          "variations": [
+            "月配息 ETF 的『月配息』是真的，『讓你變有錢』是夢想。",
+            "我把股利再投入，存了一個寂寞。"
+          ]
+        },
+        "en": {
+          "content": "They said: stack monthly-pay ETFs and it's like a second paycheck.\nI stacked for two years.\nThe first paycheck pays rent. The second paycheck pays taxes on the first paycheck.\nNet result: I have two paychecks, and I've personally seen neither.",
+          "editorNote": "Dedicated to dividend-ETF enthusiasts. Take with a side of capital gains tax statements",
+          "variations": [
+            "The 'monthly income' part of monthly income ETFs is real. The 'gets you rich' part is aspirational.",
+            "I reinvested all the dividends and accumulated a beautiful pile of nothing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-015",
+      "dateAdded": "2026-05-30",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1776751228.A.C5F.html",
+      "sourceNote": "畢業 / 砍倉 register；改寫原創",
+      "tags": ["畢業", "砍倉", "厭世", "重來"],
+      "i18n": {
+        "zh-tw": {
+          "content": "股板上有一種文章叫做『畢業文』。\n意思是賠光出場，正式離開股市。\n我已經畢業三次了。\n但每次發完畢業文，三個月後就會再回來開學。\n我這輩子最持續的學習行為，居然是被市場教育。",
+          "editorNote": "送給每個發過畢業文又默默回鍋的同學",
+          "variations": [
+            "畢業文的真實意思是：先休息一下，等我存到下一筆錢再來。",
+            "我在這個市場拿到的學歷比正規教育還高，但學費也是。"
+          ]
+        },
+        "en": {
+          "content": "There's a kind of post on trading forums called 'the graduation post'.\nIt means you blew up your account and are leaving for good.\nI've graduated three times.\nThree months after every graduation, I enroll again.\nThe most consistent learning of my life turned out to be getting schooled by the market.",
+          "editorNote": "For everyone who has posted 'I'm done' and quietly come back",
+          "variations": [
+            "What 'I'm done with the market' really means: I need to save up for next semester's tuition.",
+            "I've earned more degrees from this market than from college. The tuition bills agree."
+          ]
+        }
+      }
+    }
+  ]
+}
