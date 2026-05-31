@@ -4292,3 +4292,37 @@ Done items collapsed; only live priorities listed.
 26. **[NEW MEDIUM — 5/18 NEW, 5/18-6/15 中窗口]** Jet2 Holiday OS vs 現實 對比梗 6 大 topic 候選 不變.
 27. **[NEW LOW — 5/30 NEW Q3 觀察]** cdrama-period-quotes / 古裝陸劇語錄 候選 (5/13 雨霖鈴 + 5/3 良陳美錦 + 迪麗熱巴 白日提燈 cluster). 不獨立 carry 到 drama-quotes / drama-binge-quotes.
 28. **[NEW LOW — 5/30 NEW Q3 觀察]** meme-reset-quotes / TikTok 復古重置語錄 候選 (Great Meme Reset 1/1/2026 + Bob Ross + 365 buttons). 不獨立 carry 到 witty-comebacks / motivational-quotes.
+
+---
+
+## 2026-05-31 Research Report
+
+### New Topic Recommendations
+
+1. **報稅末日語錄 / Tax Deadline Quotes** — **PEAK HIGH priority 末日最終日 (報稅 day 31/32, 5/31 = 截止前最後一天, 6/1 週一 24:00 順延截止)**:
+   - SEO rationale: 綜所稅 2026/5/1-6/1 (財政部 因 5/31 為週日 順延 6/1 截止). **5/31 = 截止前 最後一個完整日 + 拖延族集體開報稅系統 之日, 全季 search/共鳴 absolute peak**. 「報稅 最後一天」「報稅 來不及」「綜所稅 試算」「補稅 分期」search volume 達 全季最高峰. memes.tw「稅」梗圖 long-tail + 信用卡繳稅神卡 倒數 一週 報導 reinforce.
+   - 建議: **不獨立** (季節性過強, 6/2 起 search 斷崖, risk 太狹窄 — 與 5/30 / 2027/4 結論一致), carry 到 adulting-quotes / workplace-quotes / stock-investor-quotes. **5/31-6/1 末日 48 小時 = 本季最後黃金窗口, priority HIGH 最高峰, 6/2 起 carry 退場觀察.**
+
+2. **畢業季語錄 / Graduation Quotes** — **REAFFIRM HIGH priority 季節高峰啟動 (6 月 鳳凰花開 大學畢業典禮 主峰月)**:
+   - SEO rationale: 6 月 為台灣 大專/高中 畢業典禮 主峰月 (政大 5/30 已 day-of, 台大/清大/各大 6 月 cluster). 「畢業語錄」「畢業祝福語」「畢業金句」「畢業快樂」search volume 6/1 起 急升, 持續至 6 月底. 既有 graduation-quotes topic, **5/31 為 6 月主峰 前夜**. Pinkoi/TinTint/水月問路 多源 100 句 畢業祝福 long-tail 旺盛, 感性+勵志+幽默 三 register 皆有量.
+   - 建議: **既有 topic 更新** (graduation-quotes), 非新建. priority HIGH 6 月. 新角度: 幽默自嘲「畢業不是結束 是換班表的開始 (但沒有午休)」「畢業快樂 = 失業倒數」cross-link healing-quotes / motivational-quotes / workplace-quotes (社會新鮮人 register).
+
+### Content Trends
+
+- **5/31 報稅 末日最終日 absolute peak (財政部 6/1 順延截止)**: 5/31 為 截止前 最後一個完整日 + 拖延族集體開系統 之日, 全季 search/共鳴 最高峰. adulting-quotes / workplace-quotes / stock-investor-quotes priority HIGH「5/31 深夜 還在算扶養親屬 / 倒數最後 24 小時 / 6/1 順延 = 多 1 天 拖延的藉口 / 預填打開看到補稅 = 咩噗 / 退稅是公司還我自己的錢 / 早繳早超生」末日 register family 1-2 items 5/31-6/1 編寫 priority HIGH 最高峰. **本季報稅最後窗口, 6/2 起 carry 退場.** cross-link healing-quotes「末日安慰 / 一天過完就過了」1 item.
+- **5/31 → 6 月 畢業季主峰前夜 (鳳凰花開, 政大 5/30 day-of → 6 月各大 cluster)**: graduation-quotes 6 月主峰啟動. 「畢業快樂 = 失業倒數」「離開學校才發現 考試是最簡單的關卡」「畢業典禮哭的不是離別 是助學貸款開始計息」「畢業不是結束 是換班表的開始 (但沒有午休)」感性+自嘲 雙 register. healing-quotes / motivational-quotes / workplace-quotes cross-link. priority HIGH 6 月.
+- **5/31 端午 T-19 (6/19 端午, 6/19-6/21 連假請 4 休 9)**: holiday-jokes day 9 of 28. carry「連假請 4 休 9 + 粽諧音 (粽=中, 包粽=包中, 高粽=高分) + 田馥甄 玉琴顧粽 (欲擒故縱) + 蔡依林 康民順 + 賴清德 接粽而來 + 粽所皆知」reinforce 持續. food-jokes cross-link 1-2 items priority MEDIUM-HIGH.
+- **5/31 美國父親節 T-21 (US Father's Day 6/21/2026) / 台灣父親節 8/8 仍遠**: fathers-day-quotes 早期觀察窗口. 台灣行銷月曆顯示 8 月才是 88 節 主檔 (父親節+七夕+中元同月), 故 zh-tw 暫不啟動, 7 月初 T-37 起 drafting. en register「Dad jokes for Father's Day」可預備. priority LOW 觀察.
+- **5/31 流行語 cluster carry (咩噗 / 甘阿捏 / 言小 / 澳打 / 高麗菜那桌 / 朋朋 / 接住 / ㄅㄆㄇ評分 / 超派 + 5/31 NEW 觀察: 愛你老己 / 雪山救狐狸 AI 短片 / 嘻嘻不嘻嘻 / pdf 破防)**: slang-quotes 持續 + 新增觀察「愛你老己 (第三人稱自稱)」「雪山救狐狸 (AI 生成反轉短片)」「嘻嘻不嘻嘻 (情緒瞬變)」「pdf = 破防」. cross-link adulting-quotes「報稅補稅 → 破防 / 想澳打逃離報稅」. priority MEDIUM. 9 個既有流行語 + 4 個新觀察 register family 4-6 items 5/31-6/15 編寫.
+- **5/31 全球 TikTok viral carry (Saxophone Gets Louder 持續主導 + Corporate NPC 新 + KitKat Heist + Great Meme Reset 2016 復古 + Baked Potato Ski Goggles 隨機向)**: Corporate NPC (辦公室重複腳本化互動) 為 5/31 新信號, 高度 fit workplace-quotes. witty-comebacks / workplace-quotes / programmer-jokes 「Corporate NPC = 我開會時的我 / 老闆 5:55 寄信 = saxophone louder / 2016 vs 2026 = 我薪水沒變」register 1 item per topic 候選 priority MEDIUM.
+
+### Existing Topic Updates
+- **adulting-quotes**: 報稅 末日最終日 absolute peak「5/31 深夜還在算 / 最後 24 小時 / 6/1 = 痛苦結束日 / 報稅完 6/1 夏月電費 開跑 = 沒喘息」priority HIGH 最高峰 (本季最後窗口, 6/2 退場).
+- **workplace-quotes**: 報稅 + 月底結算「5/31 月底 + 報稅末日 雙重倒數」+ Corporate NPC TikTok + 社會新鮮人 (畢業季 cross-link) priority HIGH.
+- **graduation-quotes**: 6 月主峰啟動「畢業快樂 = 失業倒數 / 考試是最簡單的關卡 / 助學貸款開始計息 / 畢業 = 換班表開始 沒午休」感性+自嘲雙 register, priority HIGH 6 月.
+- **stock-investor-quotes**: 報稅 + 月底「賣股繳稅 = 認賠 / 退稅進來先進股市」carry priority MEDIUM-HIGH.
+- **holiday-jokes / food-jokes**: 端午 T-19 粽諧音 (包中/高粽/接粽而來) + 田馥甄 玉琴顧粽 carry MEDIUM-HIGH.
+- **healing-quotes**: 末日安慰 + 等成績安慰 (會考 6/5 公布 T-5 carry) + 畢業季 cross-link「一段過完就過了」MEDIUM-HIGH.
+- **exam-quotes**: 會考成績 6/5 公布 T-5 等成績 day 2 of 7 carry「等成績 = 一年最長 7 天」priority MEDIUM-HIGH (6/5 前上線目標).
+- **slang-quotes**: 咩噗 / 甘阿捏 / 言小 / 澳打 / 高麗菜那桌 + 新觀察 愛你老己 / 雪山救狐狸 / pdf 破防 carry MEDIUM.
+- **witty-comebacks / programmer-jokes**: Corporate NPC + saxophone louder + Great Meme Reset register 1 item per topic 候選 MEDIUM.
