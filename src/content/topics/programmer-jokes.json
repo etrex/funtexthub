@@ -4883,7 +4883,7 @@
       "sourceUrl": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Top-10-programmer-jokes",
       "sourceNote": "Detective debugging classic — extended into murder mystery scene",
       "tags": [
-        "Debug",
+        "debug",
         "工程師日常",
         "bug"
       ],
@@ -4912,7 +4912,7 @@
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "Dark mode / bugs trope — reworked as office argument",
       "tags": [
-        "Dark Mode",
+        "dark mode",
         "工程師偏好",
         "bug"
       ],
@@ -4971,8 +4971,8 @@
       "sourceNote": "Vibe coding / AI hallucination trope — reworked as PR review drama",
       "tags": [
         "AI",
-        "Vibe Coding",
-        "Code Review"
+        "vibe coding",
+        "code review"
       ],
       "i18n": {
         "zh-tw": {
@@ -4999,7 +4999,7 @@
       "sourceUrl": "https://programmerhumor.io/memes/standup-meetings",
       "sourceNote": "Standup meeting overrun trope — reworked as countdown drama",
       "tags": [
-        "Standup",
+        "standup",
         "會議",
         "敏捷開發"
       ],
@@ -5057,8 +5057,8 @@
       "sourceUrl": "https://punhour.com/coder-jokes/",
       "sourceNote": "It works on my machine — reframed as crime scene investigation",
       "tags": [
-        "Bug",
-        "Deploy",
+        "bug",
+        "deploy",
         "工程師語錄"
       ],
       "i18n": {
@@ -5088,7 +5088,7 @@
       "tags": [
         "AI",
         "Copilot",
-        "Vibe Coding"
+        "vibe coding"
       ],
       "i18n": {
         "zh-tw": {
@@ -5115,7 +5115,7 @@
       "sourceUrl": "https://programmerhumor.io/memes/pull-request",
       "sourceNote": "Code review approval theatre — LGTM without reading",
       "tags": [
-        "Code Review",
+        "code review",
         "Pull Request",
         "工程師語錄"
       ],
@@ -5146,7 +5146,7 @@
       "tags": [
         "CSS",
         "前端",
-        "Vibe Coding"
+        "vibe coding"
       ],
       "i18n": {
         "zh-tw": {
@@ -5174,7 +5174,7 @@
       "sourceNote": "Merge conflict horror — git as a relationship metaphor",
       "tags": [
         "Git",
-        "Merge Conflict",
+        "merge conflict",
         "團隊合作"
       ],
       "i18n": {
@@ -5289,7 +5289,7 @@
       "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
       "sourceNote": "Merge conflict / git pain joke, original rewrite",
       "tags": [
-        "git",
+        "Git",
         "團隊合作",
         "工程師語錄"
       ],
