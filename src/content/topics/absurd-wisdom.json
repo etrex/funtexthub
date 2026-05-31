@@ -4460,6 +4460,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-180",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "咖啡因主題廢話文學新創",
+      "tags": ["廢話文學", "咖啡", "上班", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "營養學家指出：喝了咖啡的人，通常攝取了咖啡因。\n\n沒喝咖啡的人，就沒有攝取到。\n\n至於那種「喝了還是很累」的情況，研究顯示，你需要的不是咖啡，是離職。",
+          "editorNote": "適合在週一早上傳到辦公室群組，記得搭配一個馬克杯貼圖",
+          "variations": [
+            "想睡的時候喝咖啡會比較清醒；不想睡的時候喝，也會比較清醒。",
+            "一杯咖啡喝完之後，杯子裡通常就沒有咖啡了。這是已知的物理現象。"
+          ]
+        },
+        "en": {
+          "content": "Nutritionists point out: people who drink coffee generally consume caffeine.\n\nPeople who don't drink coffee do not.\n\nAs for the case of 'I drank it and I'm still tired,' studies indicate what you need isn't coffee — it's a resignation letter.",
+          "editorNote": "Send to the office group chat on Monday morning, ideally with a mug emoji",
+          "variations": [
+            "Coffee makes you more alert when you're sleepy. It also makes you more alert when you're not.",
+            "Once a cup of coffee is finished, the cup generally contains no coffee. This is a known law of physics."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-181",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "健身減肥主題廢話文學新創",
+      "tags": ["廢話文學", "健身", "減肥", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "運動科學家發現：有去健身房的人，比沒去的人更常出現在健身房。\n\n沒去的人，通常出現在沙發上。\n\n至於那種「辦了會員卡卻沒去」的情況，數據顯示，你買的不是健身，是贖罪券。",
+          "editorNote": "適合傳給辦了年費會員卻只去過兩次的朋友，效果拔群",
+          "variations": [
+            "想瘦的人只要少吃多動就會瘦；做不到的人，就是現在這個樣子。",
+            "體重計上的數字，是你站上去的時候才會出現的。你不站，它就不知道。"
+          ]
+        },
+        "en": {
+          "content": "Exercise scientists have found: people who go to the gym appear at the gym more often than people who don't.\n\nThose who don't go are usually located on the couch.\n\nAs for 'I bought a membership but never went,' the data suggests you didn't buy fitness — you bought an indulgence.",
+          "editorNote": "Send to the friend who got an annual membership and went twice — devastatingly effective",
+          "variations": [
+            "People who want to lose weight just need to eat less and move more. People who can't are shaped exactly the way they are now.",
+            "The number on the scale only appears when you step on it. If you don't step on it, it doesn't know either."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-182",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://raolve.com/culture/655963.html",
+      "sourceNote": "網購主題廢話文學新創",
+      "tags": ["廢話文學", "網購", "金錢", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "經濟學家觀察到：在網路上下單的人，通常會收到包裹。\n\n沒下單的人，就不會收到。\n\n至於那種「買的時候很開心，刷卡帳單來的時候很痛苦」的循環，研究顯示，這兩種感覺都是真的，只是時間差。",
+          "editorNote": "適合在大促銷的隔天傳給剛剁手的朋友，搭配一個哭笑不得的表情",
+          "variations": [
+            "加入購物車的東西，要結帳才會變成你的；不結帳的話，它還是商店的。",
+            "免運門檻湊到的時候會省到運費，但你會多花一個你本來不需要的東西的錢。"
+          ]
+        },
+        "en": {
+          "content": "Economists have observed: people who place orders online generally receive packages.\n\nPeople who don't place orders do not.\n\nAs for the cycle of 'so happy when buying, so miserable when the credit card bill arrives,' research confirms both feelings are real — they just happen at different times.",
+          "editorNote": "Send the day after a big sale to a friend who just maxed out their cart, with a crying-laughing face",
+          "variations": [
+            "Items in your cart only become yours after checkout. If you don't check out, they still belong to the store.",
+            "When you hit the free-shipping threshold, you save on shipping — by spending money on something you didn't need."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-183",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://sites.google.com/go.edu.tw/jie1113/%E9%A6%96%E9%A0%81/%E5%BB%A2%E8%A9%B1%E8%AA%9E%E9%8C%841",
+      "sourceNote": "熬夜睡眠主題廢話文學新創",
+      "tags": ["廢話文學", "睡眠", "熬夜", "情緒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠專家發現：早睡的人，通常比晚睡的人更早睡著。\n\n晚睡的人，則睡得比較晚。\n\n至於那種「明明很累卻一直滑手機不睡」的行為，研究稱之為報復性熬夜，意思是你在報復一個讓你沒時間的人，而那個人就是你自己。",
+          "editorNote": "適合在凌晨一點傳給還在線上的朋友，提醒他你們都該睡了卻都沒睡",
+          "variations": [
+            "睡飽的人隔天通常比較有精神；沒睡飽的人，隔天就用咖啡硬撐。",
+            "你說再滑五分鐘就睡，這句話本身需要再多滑兩個小時來驗證。"
+          ]
+        },
+        "en": {
+          "content": "Sleep experts have found: people who sleep early generally fall asleep earlier than people who sleep late.\n\nPeople who sleep late fall asleep later.\n\nAs for 'I'm exhausted but I keep scrolling instead of sleeping,' researchers call this revenge bedtime procrastination — meaning you're getting revenge on the person who left you no free time, and that person is you.",
+          "editorNote": "Send at 1am to a friend who's still online, reminding you both you should be asleep and neither of you is",
+          "variations": [
+            "People who get enough sleep are usually more energetic the next day. People who don't power through on coffee.",
+            "You said you'd sleep after five more minutes. Verifying that statement requires two more hours of scrolling."
+          ]
+        }
+      }
     }
   ]
 }

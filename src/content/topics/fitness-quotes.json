@@ -1123,6 +1123,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-047",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://quotefancy.com/funny-gym-quotes",
+      "sourceNote": "「我不做有氧」經典 cardio 逃避梗 在地化 register",
+      "tags": ["健身房", "有氧", "跑步機", "拖延", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是不做有氧。\n我只是把它無限期延後。\n\n跑步機：當衣架。\n飛輪：當置物椅。\n划船機：唯一去過一次，因為以為可以坐著。\n\n結論：我跟有氧的關係，是一種純柏拉圖式的精神交流。",
+          "editorNote": "適合走過有氧區、直接右轉去重訓區那一刻發限動",
+          "variations": [
+            "備註：我的心肺功能，建立在爬樓梯回家忘記搭電梯那幾次。",
+            "進階版：那天教練說今天練有氧，我突然想起家裡瓦斯沒關。"
+          ]
+        },
+        "en": {
+          "content": "It's not that I don't do cardio.\nI just postpone it indefinitely.\n\nTreadmill: a coat rack.\nSpin bike: a place to put my bag.\nRowing machine: visited once, because I thought I'd be sitting.\n\nConclusion: my relationship with cardio is purely platonic.",
+          "editorNote": "Post the moment you walk past the cardio zone and hard-right into the weights",
+          "variations": [
+            "Note: my entire cardiovascular base comes from the times I forgot the elevator and took the stairs.",
+            "Advanced: the day coach said 'cardio today', I suddenly remembered I left the stove on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-048",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.boredpanda.com/gym-memes/",
+      "sourceNote": "肌酸記得吃 vs 該記的事都忘 反差 register 在地化",
+      "tags": ["健身房", "肌酸", "補劑", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我會忘記繳水電、忘記回媽媽訊息、忘記同事的名字、忘記今天禮拜幾。\n\n但我從來沒有，一次都沒有，忘記吃肌酸。\n\n結論：我的記憶體不夠用，但有一塊永久分配給了五公克的白色粉末。",
+          "editorNote": "適合月底被催繳帳單、卻準時泡好肌酸時的限動",
+          "variations": [
+            "備註：我手機沒設鬧鐘提醒繳卡費，但肌酸的提醒響三次。",
+            "進階版：朋友問我幾號，我說不知道，但我知道我這罐肌酸還能喝十二天。"
+          ]
+        },
+        "en": {
+          "content": "I forget to pay bills, forget to text my mom back, forget coworkers' names, forget what day it is.\n\nBut never, not once, have I forgotten my creatine.\n\nConclusion: my memory is full, but one slot is permanently allocated to five grams of white powder.",
+          "editorNote": "Post when a bill reminder hits at month-end but your creatine is already scooped on time",
+          "variations": [
+            "Note: no alarm for my credit card, but the creatine reminder goes off three times.",
+            "Advanced: a friend asked the date. I didn't know. But I know this tub lasts twelve more days."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-049",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://pleated-jeans.com/2026/01/06/relatable-gym-memes-for-everyone-who-made-fitness-their-resolution-this-year-january-6-2026/",
+      "sourceNote": "「賺到休息日」激勵語 vs 連續休息現實 反諷 register",
+      "tags": ["健身房", "休息日", "合理化", "拖延", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "牆上海報寫：「休息日是賺來的。」\n\n我看著它，深受感動，\n決定先休息，賺了再說。\n\n於是我提前預支了整個五月的休息日，\n額度透支到八月。\n\n結論：我不是不努力，我只是太會理財。",
+          "editorNote": "適合連續第五天沒去健身房、卻路過健身房海報時的限動",
+          "variations": [
+            "備註：我的休息日是循環信用，利息很高，但我還不出來。",
+            "進階版：教練問我什麼時候回來，我說等我把這些賺來的休息日用完。"
+          ]
+        },
+        "en": {
+          "content": "The poster on the wall says: 'Rest days are earned.'\n\nI looked at it, deeply moved,\nand decided to rest first, earn it later.\n\nSo I borrowed all of May's rest days in advance,\noverdrawing the balance into August.\n\nConclusion: I'm not lazy. I'm just great at managing credit.",
+          "editorNote": "Post on your fifth straight skip day, right as you walk past the gym poster",
+          "variations": [
+            "Note: my rest days are a revolving credit line. High interest. Can't pay it off.",
+            "Advanced: coach asked when I'm back. I said once I use up the rest days I've earned."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-050",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://punhour.com/gym-jokes/",
+      "sourceNote": "暑假倒數 vs 一年的拖延帳單 在地化 register",
+      "tags": ["健身房", "暑假", "拖延", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "距離暑假還有 30 天。\n我的健身計畫進度：12%。\n其中 10% 是辦會員卡，2% 是買健身服。\n\n剩下的 88%，我打算用三招解決：\n顯瘦穿搭、吸氣、以及不要去海邊。",
+          "editorNote": "適合六月初翻日曆、突然意識到暑假快到時發限動",
+          "variations": [
+            "備註：我的夏季備戰策略，核心是『相機角度』。",
+            "進階版：今年我決定改練心態，接受自己原本的樣子。比較快。"
+          ]
+        },
+        "en": {
+          "content": "30 days until summer.\nMy fitness plan progress: 12%.\nOf which 10% was signing up, and 2% was buying the outfit.\n\nThe remaining 88%, I'll handle with three moves:\nslimming outfits, sucking it in, and not going to the beach.",
+          "editorNote": "Post in early June when you flip the calendar and realize summer is almost here",
+          "variations": [
+            "Note: my summer prep strategy is built entirely around camera angles.",
+            "Advanced: this year I'm training my mindset instead and accepting myself. It's faster."
+          ]
+        }
+      }
     }
   ]
 }
