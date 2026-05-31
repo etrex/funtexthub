@@ -5224,6 +5224,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-181",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Vibe coding / AI-generated code maintenance joke, 2026 variant",
+      "tags": [
+        "AI",
+        "程式碼品質",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人：「我用 AI 一個下午就把整個專案寫完了！」\n資深工程師：「很好，那你看得懂它寫了什麼嗎？」\n新人：「……看不懂。」\n資深工程師：「恭喜，現在你跟 AI 一樣，都不知道這個專案在幹嘛。」",
+          "editorNote": "傳給那種把 AI 生出來的程式碼直接貼上去就上線的同事，順便附上一句『加油』。",
+          "variations": [
+            "下集：三個月後系統爆炸，新人問 AI 怎麼修，AI 說『這段不是我寫的』。",
+            "也可以這樣講：『AI 負責寫，你負責祈禱，主管負責被資遣。』"
+          ]
+        },
+        "en": {
+          "content": "Junior: \"I built the whole project in one afternoon with AI!\"\nSenior: \"Great. Do you understand what it wrote?\"\nJunior: \"...No.\"\nSenior: \"Congratulations. Now you and the AI have exactly one thing in common.\"",
+          "editorNote": "Send to that coworker who ships AI-generated code straight to prod without reading a single line.",
+          "variations": [
+            "Three months later: the system melts down, the junior asks the AI to fix it, and the AI says 'I didn't write that.'",
+            "Alt version: 'The AI writes it, you pray over it, and your manager explains it to legal.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-182",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Friday afternoon deploy classic, rewritten",
+      "tags": [
+        "上線",
+        "工程師思維",
+        "惡性循環"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司有兩種工程師：\n一種說「禮拜五下午絕對不能上線」。\n另一種已經在上線了。\n第二種，我們都叫他「下禮拜一才會出現的人」。",
+          "editorNote": "禮拜五下午四點傳到公司群組，看誰會突然安靜下來。",
+          "variations": [
+            "工程師的勇氣量表：禮拜五下午上線，等於高空彈跳不綁繩子。",
+            "進階版：『我禮拜五上線，禮拜六值班，禮拜天哭，禮拜一假裝沒事。』"
+          ]
+        },
+        "en": {
+          "content": "There are two kinds of engineers:\nthe ones who say \"never deploy on a Friday afternoon,\"\nand the ones who are already deploying.\nWe call the second kind \"see you Monday, maybe.\"",
+          "editorNote": "Drop this in the team channel at 4 PM on a Friday and watch the on-call person go quiet.",
+          "variations": [
+            "The engineer bravery scale: a Friday-afternoon deploy is bungee jumping without the cord.",
+            "Extended: 'I deploy Friday, get paged Saturday, cry Sunday, and act normal Monday.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-183",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Merge conflict / git pain joke, original rewrite",
+      "tags": [
+        "git",
+        "團隊合作",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "感情諮商師：「你們最近一次大吵是什麼時候？」\n兩個工程師同時回答：「合併分支的時候。」",
+          "editorNote": "傳給跟你一起 maintain 同一個檔案的同事，附上一個『我們和好吧』的貼圖。",
+          "variations": [
+            "解 merge conflict 的時候，你會發現自己和隊友從來沒有真正了解過彼此。",
+            "也可以這樣講：『婚姻像 git，吵架的根源永遠是那行誰都不想負責的程式碼。』"
+          ]
+        },
+        "en": {
+          "content": "Couples therapist: \"When was your last big fight?\"\nThe two engineers answered in unison: \"Merging our branches.\"",
+          "editorNote": "Send to whoever keeps editing the same file as you, with a peace-offering sticker attached.",
+          "variations": [
+            "Resolving a merge conflict is when you realize you never truly understood your teammate.",
+            "Alt: 'Relationships are like git — every fight traces back to one line nobody will claim.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-184",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Regex classic 'now you have two problems', rewritten",
+      "tags": [
+        "邏輯",
+        "工程師思維",
+        "除錯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師遇到一個問題，決定用正規表達式來解決。\n現在他有兩個問題。\n而且第二個問題，他三天後才會發現是第一個問題造成的。",
+          "editorNote": "傳給那個堅持所有字串處理都要用 regex 的同事，順便提醒他世界上有 split() 這個東西。",
+          "variations": [
+            "正規表達式：寫的時候你是天才，三個月後回來看你是陌生人。",
+            "也可以這樣講：『沒人看得懂的 regex，包括五分鐘前寫它的你。』"
+          ]
+        },
+        "en": {
+          "content": "An engineer had a problem, so they decided to solve it with a regular expression.\nNow they have two problems.\nThe second one won't reveal itself as being caused by the first until three days later.",
+          "editorNote": "Send to the coworker who insists on solving every string task with regex. Gently remind them split() exists.",
+          "variations": [
+            "Regex: a genius when you write it, a total stranger when you return three months later.",
+            "Alt: 'Nobody can read that regex — including the version of you that wrote it five minutes ago.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-185",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Daily standup / status meeting humor, original",
+      "tags": [
+        "開會",
+        "拖延",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每日站立會議的三個固定環節：\n一、昨天我做了什麼（其實在 debug 同一個 bug）。\n二、今天我要做什麼（繼續 debug 同一個 bug）。\n三、有沒有遇到困難（有，就是那個 bug）。",
+          "editorNote": "傳給每天站會都講一模一樣內容的同事，他會以為你在偷看他的代辦清單。",
+          "variations": [
+            "站立會議的真正目的：確認大家昨天都還活著。",
+            "也可以這樣講：『站著開會是為了讓會議快一點，結果我們站了四十分鐘。』"
+          ]
+        },
+        "en": {
+          "content": "The three fixed segments of every daily standup:\n1. What I did yesterday (debugging the same bug).\n2. What I'll do today (still debugging the same bug).\n3. Any blockers (yes, the bug).",
+          "editorNote": "Send to the coworker who gives the identical update every single morning. They'll think you hacked their to-do list.",
+          "variations": [
+            "The real purpose of a standup: confirming everyone survived yesterday.",
+            "Alt: 'We stand so the meeting stays short. Forty minutes later, my legs disagree.'"
+          ]
+        }
+      }
     }
   ]
 }

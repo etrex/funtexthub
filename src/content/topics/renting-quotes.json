@@ -1768,6 +1768,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-074",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "看房簽約後才發現停車位另計 register; rewritten original",
+      "tags": ["看房", "費用", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東報的「月租八千」是基本款，\n後來才知道：管理費另計、網路另計、停車另計、停車場的鑰匙也另計。\n原來八千只是入場費，不是套票。",
+          "editorNote": "傳給剛簽約才發現各種「另計」費用的朋友，提醒下次看房先把所有費用問到底",
+          "variations": [
+            "房東說「水電全包」，包的是他自己的，我的還是要繳。",
+            "我以為租金是全部，後來才知道那只是訂閱制的第一層方案。"
+          ]
+        },
+        "en": {
+          "content": "The landlord quoted 'eight hundred a month' as the base plan.\nLater I learned: management fee extra, internet extra, parking extra, and the key to the parking lot also extra.\nTurns out eight hundred was just the cover charge, not the full ticket.",
+          "editorNote": "Send to a friend who just signed and discovered all the 'extra' fees — a reminder to interrogate every cost next time",
+          "variations": [
+            "Landlord said 'utilities included.' His were. Mine I still pay for.",
+            "I thought rent was the whole thing. Turns out it was just tier one of the subscription."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-075",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.dcard.tw/f/mood",
+      "sourceNote": "搬家紙箱沉沒成本 厭世 register; rewritten original",
+      "tags": ["搬家", "厭世", "成年", "斷捨離"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這次搬家我打包了二十個紙箱，\n其中有十二個，是上次搬家就沒拆過的。\n我搬的不是家，是一個帶著走的倉庫。",
+          "editorNote": "傳給每次搬家都在懷疑自己為什麼東西這麼多的朋友，搬家當天最有共鳴",
+          "variations": [
+            "我以為我在搬家，其實我只是在換一個地方堆我捨不得丟的東西。",
+            "搬家三次才明白：真正的斷捨離，是房東幫你決定的。"
+          ]
+        },
+        "en": {
+          "content": "This move I packed twenty boxes.\nTwelve of them I never unpacked from the last move.\nI'm not moving a home, I'm moving a storage unit that follows me around.",
+          "editorNote": "Send to a friend who questions why they own so much stuff every single move — peak relatability on moving day",
+          "variations": [
+            "I thought I was moving out. Really I'm just relocating the pile of things I can't bring myself to throw away.",
+            "Three moves in, I finally get it: real decluttering is the kind your landlord decides for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-076",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.ptt.cc/bbs/home-sale",
+      "sourceNote": "頂樓加蓋夏天悶熱 register; rewritten original",
+      "tags": ["頂加", "夏天", "電費", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "住頂樓加蓋的好處是離天空很近，\n壞處是夏天的時候，天空也離地獄很近。\n我家的室溫，是房東省下來的良心溫度。",
+          "editorNote": "適合住頂加、鐵皮屋、夏天開冷氣也救不回來的朋友互傳，配一張室溫計照片",
+          "variations": [
+            "別人說頂樓視野好，我說頂樓視野好到可以看著電費直直往上飆。",
+            "頂加的夏天，是房東幫你免費安排的桑拿，還附贈每個月的電費帳單。"
+          ]
+        },
+        "en": {
+          "content": "The upside of living in a rooftop add-on is you're close to the sky.\nThe downside is that in summer, the sky is also close to hell.\nThe temperature in my place is the exact amount of conscience my landlord decided to save on.",
+          "editorNote": "Perfect for friends in rooftop shacks or tin-roof rooms that the AC can't save in summer — pair with a photo of the thermometer",
+          "variations": [
+            "People say rooftops have a great view. Mine has a view great enough to watch the electric bill climb straight up.",
+            "Summer in a rooftop add-on is a free sauna courtesy of your landlord, electric bill included every month."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-077",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "房東突襲看房不預約 register; rewritten original",
+      "tags": ["房東", "隱私", "看房", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說要帶下一個房客來看房，\n沒預約、沒敲門，鑰匙直接轉開。\n我才知道——我租的不是房間，是一個有別人鑰匙的空間。",
+          "editorNote": "傳給被房東突襲看房嚇到的朋友，順便提醒他合約裡有「進入需事先通知」這條",
+          "variations": [
+            "房東說「這是我的房子」，我說「但這個月是我的隱私」。",
+            "我退租前一週，房東帶看房的次數比我交的女朋友還多。"
+          ]
+        },
+        "en": {
+          "content": "My landlord said he'd bring the next tenant by for a showing.\nNo appointment, no knock — just turned the key and walked in.\nThat's when I realized: I'm not renting a room, I'm renting a space someone else has a key to.",
+          "editorNote": "Send to a friend ambushed by a surprise showing — remind them their lease likely has an 'advance notice to enter' clause",
+          "variations": [
+            "Landlord said 'it's my house.' I said 'but this month it's my privacy.'",
+            "In the week before I moved out, my landlord ran more showings than I've had relationships."
+          ]
+        }
+      }
     }
   ]
 }

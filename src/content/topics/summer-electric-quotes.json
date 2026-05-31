@@ -479,6 +479,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-021",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.cwa.gov.tw/V8/C/W/index.html",
+      "sourceNote": "破紀錄高溫 熱到融化 register；改寫原創",
+      "tags": ["高溫", "冷氣", "夏天", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "氣象署：「今天破紀錄高溫，請民眾注意防曬。」\n我：「我注意了，所以我整天躲在冷氣房。」\n台電：「那我也注意了，你的帳單。」",
+          "editorNote": "傳給那個一看到高溫特報就先嘆氣的同事，他懂這條食物鏈",
+          "variations": [
+            "天氣愈破紀錄，我的帳單就愈想破我的紀錄。",
+            "今年夏天唯一跟著創新高的，除了氣溫，就是我的電費。"
+          ]
+        },
+        "en": {
+          "content": "Weather service: 'Record-breaking heat today, please stay protected from the sun.'\nMe: 'I am. That's why I've been hiding in the AC all day.'\nPower company: 'And I'm protecting something too — your bill.'",
+          "editorNote": "Send to the coworker who sighs the moment a heat advisory pops up — they get the food chain",
+          "variations": [
+            "The more records the weather breaks, the harder my bill tries to break mine.",
+            "The only thing hitting new highs this summer besides the temperature is my electric bill."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-022",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.ptt.cc/bbs/E-appliance/M.1716800000.A.000.html",
+      "sourceNote": "在自己家流汗 矛盾 register；改寫原創",
+      "tags": ["冷氣", "流汗", "矛盾", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了省電費，我選擇在自己家裡流汗。\n為了流汗，我每天多喝兩瓶水。\n為了那兩瓶水，我又多花了錢。\n資本主義的盡頭，是你怎麼省都會被扣到。",
+          "editorNote": "傳給那個堅持不開冷氣、結果飲料錢比電費還高的朋友",
+          "variations": [
+            "省下的電費，剛好等於我為了不開冷氣而多買的飲料錢。",
+            "在自己家流汗，是現代人最划不來的免費活動。"
+          ]
+        },
+        "en": {
+          "content": "To save on electricity, I chose to sweat inside my own home.\nTo sweat, I drink two extra bottles of water a day.\nTo buy that water, I spend more money.\nThe end of capitalism is realizing every way you save still costs you.",
+          "editorNote": "For the friend who refuses to run the AC and somehow spends more on cold drinks",
+          "variations": [
+            "The money I saved on AC exactly equals what I spent on drinks to survive without it.",
+            "Sweating in your own home: the worst-value free activity known to modern man."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-023",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.workiz.com/blog/hvac/over-50-funny-hvac-memes-and-air-conditioning-memes/",
+      "sourceNote": "冷氣偏偏夏天壞掉 register；改寫原創",
+      "tags": ["冷氣", "故障", "維修", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "冷氣很有職業道德：\n它從不在冬天壞掉。\n它總是挑全年最熱的那一天，在你最需要它的那一刻，安靜地放棄人生。",
+          "editorNote": "傳給那個冷氣在連假第一天罷工、約不到師傅的苦主",
+          "variations": [
+            "冷氣壞掉的時間點，跟你薪水入帳的時間點，永遠完美錯開。",
+            "夏天冷氣壞掉，維修師傅的行事曆，比演唱會門票還難搶。"
+          ]
+        },
+        "en": {
+          "content": "My AC has incredible work ethic:\nit never breaks in winter.\nIt always picks the hottest day of the year, the exact moment you need it most, and quietly gives up on life.",
+          "editorNote": "Send to the friend whose AC died on day one of a long weekend with no technician available",
+          "variations": [
+            "The day my AC breaks and the day my paycheck lands are forever perfectly out of sync.",
+            "Booking an AC repair guy in July is harder than scoring concert tickets."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-024",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.taipower.com.tw/2289/2363/2388/2389/10735/normalPost",
+      "sourceNote": "非夏月最後一天 把握吹冷氣 register；改寫原創",
+      "tags": ["夏月電價", "五月", "把握", "冷氣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "五月三十一號的晚上，我把冷氣開到最強。\n不是因為熱，\n是因為明天開始就是夏月電價，今晚的每一度電，都是我用便宜價格能買到的最後溫柔。",
+          "editorNote": "適合在 5/31 當晚發限動，配一張冷氣遙控器特寫，全台一起倒數",
+          "variations": [
+            "五月的最後一夜，是非夏月電價的畢業典禮，請好好珍惜。",
+            "六月一號之後，吹冷氣不再只是消暑，而是一種需要勇氣的消費。"
+          ]
+        },
+        "en": {
+          "content": "On the night of May 31st, I crank the AC to max.\nNot because it's hot —\nbecause tomorrow summer rates begin, and every unit tonight is the last bit of cheap tenderness I can still afford.",
+          "editorNote": "Perfect for a May 31 story post with a close-up of the AC remote — the whole island counting down together",
+          "variations": [
+            "The last night of May is graduation day for off-season rates. Cherish it.",
+            "After June 1st, running the AC stops being relief and becomes an act of courage."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-025",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "學生宿舍 投幣冷氣 register；改寫原創",
+      "tags": ["學生", "宿舍", "投幣冷氣", "省錢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "宿舍投幣冷氣的規則很簡單：\n投十塊，撐三小時，睡四小時。\n所以每天凌晨三點，全宿舍會準時響起一片「啊好熱」的合唱，像鬧鐘，但更絕望。",
+          "editorNote": "傳給那個住投幣冷氣宿舍、半夜被熱醒還要爬起來投錢的同學",
+          "variations": [
+            "投幣冷氣教會我的事：金錢買得到睡眠，但只有三小時的份。",
+            "宿舍冷氣斷電的瞬間，是當代年輕人最真實的午夜驚魂。"
+          ]
+        },
+        "en": {
+          "content": "The rule for coin-operated dorm AC is simple:\ndrop a coin, get three hours, sleep four.\nSo every night at 3 AM the whole floor breaks into a synchronized chorus of 'ugh, so hot' — like an alarm clock, but more hopeless.",
+          "editorNote": "Send to the dormmate who gets jolted awake at 3 AM to feed coins into the AC",
+          "variations": [
+            "Coin-operated AC taught me money can buy sleep — but only three hours of it.",
+            "The moment the dorm AC clicks off is the most authentic midnight horror of being young and broke."
+          ]
+        }
+      }
     }
   ]
 }

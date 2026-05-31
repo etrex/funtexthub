@@ -386,6 +386,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-016",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/index.html",
+      "sourceNote": "「逢低買進」無限迴圈 register；改寫原創",
+      "tags": ["逢低買進", "攤平", "自嘲", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說：逢低買進。\n於是它低了，我買了。\n然後它又更低了，我發現原來剛剛那個不是低，是半山腰。\n現在我終於懂了：所謂的低，是一個會一直往下修的浮動目標。",
+          "editorNote": "適合貼在每次點下『買進』前，提醒自己那個低點可能還有地下室",
+          "variations": [
+            "逢低買進的最大難題，是你永遠不知道低的下面還有更低。",
+            "我每一次都買在低點，只是市場後來重新定義了什麼叫低。"
+          ]
+        },
+        "en": {
+          "content": "They said: buy the dip.\nSo it dipped, and I bought.\nThen it dipped harder, and I realized that first dip was actually the rooftop.\nNow I finally get it: 'the bottom' is a floating target that keeps revising itself lower.",
+          "editorNote": "Read this before clicking 'buy' — that dip may have a basement",
+          "variations": [
+            "The hardest part of buying the dip is that the dip always has a sub-basement.",
+            "I buy every bottom perfectly. The market just keeps redefining what a bottom is."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-017",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://money.udn.com/money/index",
+      "sourceNote": "瞞著另一半偷買股票 register；改寫原創",
+      "tags": ["偷買股", "另一半", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟另一半的財務很透明，除了那個我偷偷開的證券戶。\n那檔股票漲的時候，我每天想找機會講。\n那檔股票跌的時候，我每天祈禱她永遠不要問。\n結果它跌了，現在這個秘密戶頭，變成我們家最大的未爆彈。",
+          "editorNote": "懂的人會心一笑，分享前先確認手機沒被借走",
+          "variations": [
+            "夫妻之間最深的信任，就是對方不知道你那個賠錢的證券戶。",
+            "我帳戶賺錢叫做投資，賠錢叫做隱私。"
+          ]
+        },
+        "en": {
+          "content": "My partner and I are totally transparent about money — except for the brokerage account I opened in secret.\nWhen the stock was up, I looked for a chance to mention it every day.\nWhen it was down, I prayed daily that she'd never ask.\nIt went down. That secret account is now the biggest landmine in our household.",
+          "editorNote": "Relatable smile guaranteed. Make sure nobody borrowed your phone before sharing",
+          "variations": [
+            "The deepest trust in a marriage is your partner not knowing about your underwater brokerage account.",
+            "When my account is up, it's called investing. When it's down, it's called privacy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-018",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.cna.com.tw/list/afe.aspx",
+      "sourceNote": "AI 晶片 FOMO 追高 register；改寫原創",
+      "tags": ["AI", "晶片", "FOMO", "追高"],
+      "i18n": {
+        "zh-tw": {
+          "content": "所有財經頻道都在喊：AI 是未來，晶片股錯過就再也回不來了。\n我怕錯過，於是在最高點全押。\n結果未來來了，AI 也是未來，只是我的本金留在過去。",
+          "editorNote": "送給每個被『再不買就來不及』推坑、結果套在山頂的朋友",
+          "variations": [
+            "AI 取代了很多工作，目前最成功的一項，是取代我的本金。",
+            "我相信 AI 會改變世界，它確實改變了，從我的帳戶開始。"
+          ]
+        },
+        "en": {
+          "content": "Every finance channel was screaming: AI is the future, miss the chip stocks and you'll never get another shot.\nTerrified of missing out, I went all in at the top.\nThe future arrived. AI really is the future. My capital just stayed in the past.",
+          "editorNote": "For anyone FOMO'd into 'buy now or be priced out forever' and left holding the peak",
+          "variations": [
+            "AI has replaced a lot of jobs. Its most successful replacement so far is my principal.",
+            "I believe AI will change the world. It already changed mine, starting with my account balance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-019",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/index.html",
+      "sourceNote": "當沖鬼才 / 手續費貢獻 register；改寫原創",
+      "tags": ["當沖", "手續費", "自嘲", "看盤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我當沖一整天，買進賣出三十幾趟，盯著螢幕盯到眼睛快脫窗。\n收盤結算：本金沒什麼變。\n券商結算：今天他們又多了一個孝順客戶。\n原來我不是在投資，我是在做公益。",
+          "editorNote": "適合貼在當沖一整天、結果只繳了一堆手續費給券商的傍晚",
+          "variations": [
+            "當沖的真諦：用一整天的專注，把獲利精準轉帳給券商。",
+            "我不是賺不到錢，我是把賺到的錢都拿去養券商了。"
+          ]
+        },
+        "en": {
+          "content": "I day-traded all day, in and out thirty-odd times, eyes glued to the screen till they nearly fell out.\nMy account at close: basically unchanged.\nMy broker at close: another devoted customer in the books.\nTurns out I wasn't investing. I was running a charity.",
+          "editorNote": "For the evening after a full day of scalping that only fed the broker's fee column",
+          "variations": [
+            "The true meaning of day trading: spend all day laser-focused on wiring your profits to your broker.",
+            "It's not that I can't make money. I just donate all of it to commissions."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-020",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://financhill.com/blog/investing/best-stock-market-jokes",
+      "sourceNote": "理專 / 投資建議 register；改寫原創",
+      "tags": ["理專", "投資建議", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "理專跟我說：「這檔很穩，閉著眼睛買就對了。」\n我閉著眼睛買了。\n等我睜開眼睛，本金也閉上了眼睛。\n後來我才發現，他叫我閉眼睛，是因為接下來的畫面真的不適合直視。",
+          "editorNote": "送給每個被『這檔很穩』四個字推坑的同好",
+          "variations": [
+            "理專推薦的『穩健標的』，穩健地把我的錢帶走了。",
+            "他賺的是手續費，穩的是他的業績，賠的是我。"
+          ]
+        },
+        "en": {
+          "content": "My advisor said: 'This one's rock solid, buy it with your eyes closed.'\nSo I bought it with my eyes closed.\nWhen I opened them, my principal had closed its eyes too — permanently.\nTurns out he told me to shut my eyes because what came next really wasn't safe to watch.",
+          "editorNote": "For everyone lured in by the four magic words 'this one is safe'",
+          "variations": [
+            "The 'stable, conservative pick' my advisor recommended stably and conservatively walked off with my money.",
+            "He earns the fees, his numbers stay solid, and I'm the one who takes the loss."
+          ]
+        }
+      }
     }
   ]
 }

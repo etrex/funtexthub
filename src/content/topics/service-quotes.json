@@ -2403,6 +2403,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-101",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
+      "sourceNote": "Inspired by the recurring Dcard 工作板 「我跟你們老闆很熟」 name-drop trope; rewritten as a 「真的很熟就不用報名號」 logic-flip — original phrasing",
+      "tags": ["服務業", "奧客", "金句", "笑話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「我跟你們老闆很熟喔。」\n我：「那真是太好了，\n那您要不要直接打給他，\n請他幫您破例就好？」\n客人：「⋯⋯我沒有他電話。」\n原來「很熟」的定義，\n是熟到連電話都沒存。",
+          "editorNote": "傳給最近被「我跟你們老闆很熟」威脅過的同事。真正跟老闆熟的客人，從來不需要對著基層店員報名號——他直接走後門就好。",
+          "variations": [
+            "會搬出「我跟你們老闆很熟」的人，通常跟老闆的關係，就跟我跟金城武一樣熟。",
+            "真的跟老闆熟，會打給老闆；跟老闆不熟，才會威脅店員。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"I know your boss really well, you know.\"\nMe: \"Oh, wonderful.\nWhy don't you just call him\nand have him make the exception for you?\"\nCustomer: \"...I don't have his number.\"\nTurns out \"really well\"\nmeans not well enough to save the contact.",
+          "editorNote": "Send to anyone threatened with \"I know your boss\" this week. Customers who actually know the boss never name-drop to a frontline clerk — they just go around the back.",
+          "variations": [
+            "People who pull out \"I know your boss really well\" usually know the boss about as well as I know Keanu Reeves.",
+            "If you actually knew the boss, you'd call the boss. You only threaten the clerk when you don't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-102",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Inspired by Dcard 心情板 久坐不點餐 / 占位 trope; rewritten as 「客人把咖啡廳當共享辦公室」 modern-remote-work satire — original framing",
+      "tags": ["服務業", "餐飲", "奧客", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人點一杯最便宜的美式，\n坐了五個小時。\n中間借了三次插座、\n問了兩次 Wi-Fi 密碼、\n開了一場視訊會議、\n還請我幫他把冷氣調強一點。\n先生，您買的是一杯咖啡，\n不是月租的共享辦公室。",
+          "editorNote": "傳給最近被「一杯飲料坐整天」客人占位到翻桌率歸零的咖啡廳同事。我們很歡迎您來，只是這裡是咖啡廳，不是您家書房，也不是您公司沒付的那間會議室。",
+          "variations": [
+            "點一杯美式坐五小時，這不是消費，這是入住。",
+            "咖啡廳的座位是用來喝咖啡的，不是用來辦您整間公司的線上會議。"
+          ]
+        },
+        "en": {
+          "content": "He ordered the cheapest Americano\nand sat for five hours.\nBorrowed an outlet three times,\nasked for the Wi-Fi password twice,\nran a video call,\nand asked me to crank up the AC.\nSir, you bought a coffee —\nnot a monthly membership at a co-working space.",
+          "editorNote": "Send to any cafe coworker whose table turnover hit zero because of the \"one drink, all day\" guest. You're welcome here — it's just that this is a cafe, not your home office, and not the conference room your company forgot to rent.",
+          "variations": [
+            "One Americano, five hours in the seat. That's not a purchase, that's a check-in.",
+            "Cafe seats are for drinking coffee, not for hosting your entire company's video calls."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-103",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
+      "sourceNote": "Inspired by the recurring 「你這什麼態度」 attitude-accusation trope on Dcard 工作板; rewritten as a mirror-flip where the customer's own tone is the answer — original phrasing",
+      "tags": ["服務業", "奧客", "尊嚴", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人一進門就摔東西、罵髒話、\n用手指著我的鼻子，\n然後問我：「你這什麼態度？」\n我心裡想：\n我的態度，是照著您的態度調出來的。\n您給我十分的火，\n我還能回您一個微笑，\n這已經是我這份薪水做得到的極限。",
+          "editorNote": "傳給今天被「你這什麼態度」三個字壓過的同事。我們的態度從來不是憑空生出來的，是客人遞過來、我們努力接住的那一份——而我們接得，已經比公司付的薪水多太多了。",
+          "variations": [
+            "客人問「你這什麼態度」的時候，最該照鏡子的，通常是問問題的那個人。",
+            "您給的是十分的火，我回的是一個微笑，這個匯率，您其實賺很大。"
+          ]
+        },
+        "en": {
+          "content": "He walked in slamming things, swearing,\npointing a finger in my face,\nthen asked: \"What's with your attitude?\"\nWhat I thought:\nmy attitude is calibrated to match yours.\nYou hand me a ten out of ten of rage,\nand I still hand back a smile —\nthat's already the limit of what this wage can do.",
+          "editorNote": "Send to anyone flattened by \"what's with your attitude?\" today. Our attitude never comes from nowhere — it's the one the customer handed over and we tried to catch. And we catch far more than the wage pays for.",
+          "variations": [
+            "When a customer asks \"what's with your attitude,\" the person who most needs a mirror is usually the one asking.",
+            "You gave me a ten of rage and I gave back a smile. Honestly, on that exchange rate, you came out ahead."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-104",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.threads.com/@chienchien_0112_/post/DN9FdvwkzFJ",
+      "sourceNote": "Original warm-solidarity closer extending the file's 互助 register; the 「你今天接住了多少人」 reframe of invisible emotional caretaking is the rewrite anchor",
+      "tags": ["服務業", "互助", "溫暖", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天你笑著幫一個慌張的客人找到他要的東西，\n你耐著性子重複講了第三次怎麼操作，\n你在最忙的時候還是輕聲說了「不好意思讓您久等」。\n沒有人替這些事鼓掌，\n但你今天，\n默默接住了好多個別人的壞心情。\n下班了，\n換我請你，把自己也接住。",
+          "editorNote": "適合下班後傳給服務業的朋友，或自己存著。我們整天在接住別人，常常忘了自己也需要被接住一次——今天就先從對自己溫柔開始。",
+          "variations": [
+            "你今天接住了那麼多人的情緒，記得也留一隻手接住你自己。",
+            "沒有人替服務業鼓掌，那就讓我們自己人，替彼此拍一下手。"
+          ]
+        },
+        "en": {
+          "content": "Today you smiled and helped a flustered customer find what they needed.\nYou patiently explained how it works for the third time.\nEven at your busiest, you still said softly, \"Sorry to keep you waiting.\"\nNobody claps for any of that,\nbut today, quietly,\nyou caught so many other people's bad moods before they hit the floor.\nNow you're off the clock —\nlet me catch you for a change.",
+          "editorNote": "Good to send a service-industry friend after a shift, or to save for yourself. We spend all day catching other people and forget we need catching too — so start tonight by being gentle with yourself.",
+          "variations": [
+            "You caught so many people's feelings today. Keep one hand free to catch your own.",
+            "Nobody claps for service workers, so let's clap for each other."
+          ]
+        }
+      }
     }
   ]
 }

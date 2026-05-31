@@ -4826,6 +4826,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-154",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "",
+      "sourceNote": "Gemini traits — dual nature, fast-talking, social yet inconsistent, two minds at once",
+      "tags": [
+        "雙子座",
+        "Gemini",
+        "E人",
+        "雙面",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雙子座不是善變——\n是他們腦袋裡同時住了兩個人，今天哪個比較大聲就聽哪個。\n\n你問雙子「你到底想怎樣」，他自己也很想知道。",
+          "editorNote": "傳給那個前一秒說要早睡、下一秒約你出門的雙子朋友",
+          "variations": [
+            "和雙子座聊天像同時開了五個分頁，每個都很精彩，但他自己也忘記哪個還沒關。",
+            "雙子座的「我都可以」翻成白話是：「我等等可能會反悔，但現在真心覺得都可以。」"
+          ]
+        },
+        "en": {
+          "content": "A Gemini isn't flaky —\nthere are just two people living in their head, and they go with whoever's louder that day.\n\nAsk a Gemini what they actually want, and honestly, they'd love to know too.",
+          "editorNote": "Send to the Gemini friend who said they'd sleep early, then texted you to go out ten minutes later.",
+          "variations": [
+            "Talking to a Gemini is like having five browser tabs open at once — all fascinating, and they forgot which one is still playing audio.",
+            "When a Gemini says 'I'm fine with anything,' it translates to: 'I might change my mind later, but right now I genuinely mean it.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-155",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "",
+      "sourceNote": "Virgo traits — perfectionist, detail-oriented, overthinking, helpful but critical",
+      "tags": [
+        "處女座",
+        "Virgo",
+        "I人",
+        "完美主義",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "處女座說「沒關係」的時候，\n通常代表他已經默默把整件事重做了一遍。\n\n他不是要挑剔——只是看到不對的地方，眼睛會自己對焦。",
+          "editorNote": "傳給那個幫你檢查訊息有沒有錯字、結果整段重寫的處女座朋友",
+          "variations": [
+            "處女座的腦袋有一個永遠關不掉的分頁，標題叫「我剛剛是不是哪裡講錯了」。",
+            "你說「差不多就好」，處女座聽到的是「請把所有細節再確認一次」。"
+          ]
+        },
+        "en": {
+          "content": "When a Virgo says 'it's fine,'\nit usually means they've already quietly redone the whole thing.\n\nThey're not trying to nitpick — their eyes just auto-focus on whatever's slightly off.",
+          "editorNote": "Send to the Virgo friend who offered to check your text for typos and rewrote the entire paragraph.",
+          "variations": [
+            "A Virgo's brain has one tab that never closes, titled: 'Did I say something wrong back there?'",
+            "You say 'good enough.' A Virgo hears 'please double-check every single detail one more time.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-156",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "",
+      "sourceNote": "Leo traits — confident, attention-loving, generous, needs to be seen and appreciated",
+      "tags": [
+        "獅子座",
+        "Leo",
+        "E人",
+        "愛面子",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "獅子座不是愛出風頭——\n是他們走進一個房間，注意力自己就會跟過來。\n\n你只要記得偶爾稱讚他一下，他可以幫你扛下整片天。",
+          "editorNote": "傳給那個很罩、但也很需要被誇的獅子朋友，順便誇他兩句",
+          "variations": [
+            "獅子座可以為你付出全部，唯一的條件是：不要在大家面前讓他下不了台。",
+            "獅子座生氣的時候最好哄——只要你的道歉夠有誠意、夠大聲、最好還有觀眾。"
+          ]
+        },
+        "en": {
+          "content": "A Leo isn't a show-off —\nthey just walk into a room and the attention follows on its own.\n\nThrow them a little praise now and then, and they'll carry the whole sky for you.",
+          "editorNote": "Send to the Leo friend who's got your back but also really needs the compliment — and toss in one while you're at it.",
+          "variations": [
+            "A Leo will give you everything, on one condition: never make them lose face in front of a crowd.",
+            "The best way to calm an angry Leo is an apology that's sincere, loud, and ideally has an audience."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-157",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "",
+      "sourceNote": "Scorpio traits — intense, private, all-or-nothing, observant, slow to trust",
+      "tags": [
+        "天蠍座",
+        "Scorpio",
+        "I人",
+        "神秘",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "天蠍座看起來很冷淡，\n其實是因為他正在默默觀察你十秒鐘，決定要不要對你掏心掏肺。\n\n一旦他決定信你，那就是整顆心；一旦他決定不信，連已讀都懶得給。",
+          "editorNote": "傳給那個平常很安靜、但對你超級夠義氣的天蠍朋友",
+          "variations": [
+            "天蠍座的「還好」有三百種意思，而你大概一種都猜不到。",
+            "別跟天蠍座玩心機，他在你開口之前，劇本早就讀完了。"
+          ]
+        },
+        "en": {
+          "content": "A Scorpio comes off cold,\nbut really they're just silently sizing you up for ten seconds, deciding whether you're worth their whole heart.\n\nOnce they trust you, it's all in. Once they don't, they won't even leave you on read — they just leave.",
+          "editorNote": "Send to the quiet Scorpio friend who's secretly the most loyal person you know.",
+          "variations": [
+            "A Scorpio's 'I'm fine' has about three hundred meanings, and you'll guess none of them.",
+            "Don't try to outmaneuver a Scorpio — they finished reading the script before you even spoke."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-158",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "",
+      "sourceNote": "Capricorn traits — disciplined, ambitious, work-focused, dry humor, low-key but reliable",
+      "tags": [
+        "摩羯座",
+        "Capricorn",
+        "I人",
+        "務實",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "摩羯座不是不會玩——\n是他們連休息都先排進行事曆，玩完還會檢討這趟玩得有沒有效率。\n\n你說「人生不只有工作」，摩羯座微笑著點頭，然後繼續工作。",
+          "editorNote": "傳給那個放假還在回訊息、嘴上喊累卻停不下來的摩羯朋友",
+          "variations": [
+            "摩羯座的快樂很樸實：把待辦清單一條一條劃掉，比什麼都療癒。",
+            "問摩羯座週末要幹嘛，他會給你一個比上班還滿的時間表。"
+          ]
+        },
+        "en": {
+          "content": "A Capricorn knows how to have fun —\nthey just schedule the rest into their calendar first, and review afterward whether the trip was time-efficient.\n\nYou say 'there's more to life than work.' A Capricorn smiles, nods, and gets back to work.",
+          "editorNote": "Send to the Capricorn friend who answers emails on vacation and swears they're exhausted but can't stop.",
+          "variations": [
+            "A Capricorn's joy is simple: crossing items off a to-do list, one by one, is more soothing than any spa day.",
+            "Ask a Capricorn what they're doing this weekend and they'll hand you a schedule busier than a workday."
+          ]
+        }
+      }
     }
   ]
 }

@@ -1529,6 +1529,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-067",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.huffpost.com/entry/tweets-sleep-struggles_l_5d1a5419e4b07f6ca581e058",
+      "sourceNote": "Inspired by the 'tired all day, suddenly wired at bedtime' viral tweet phenomenon; rewritten with a localized power-supply framing",
+      "tags": ["失眠", "自嘲", "幽默", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "整個白天：我快沒電了，誰來幫我充一下。\n晚上十一點上床：欸不對，我現在電力 100%，要不要乾脆規劃一下明年的人生？",
+          "editorNote": "對「累到不行卻一躺下就滿血」這種失眠雙重人格的精準描繪。傳給也常常半夜突然超有精神的朋友，他們會回「這是我每天的劇本」。",
+          "variations": [
+            "我的身體是那種白天紅電、半夜滿格的爛電池。",
+            "白天的我求充電，半夜的我想開公司。"
+          ]
+        },
+        "en": {
+          "content": "All day: I'm about to die, somebody plug me in.\n11pm in bed: wait, actually I'm at 100% now — should I just go ahead and plan out next year?",
+          "editorNote": "A pinpoint take on the insomnia split personality where you're dead all day and fully charged the second you lie down. Send to the friend who also gets a second wind at midnight — they'll reply 'this is my nightly script.'",
+          "variations": [
+            "My body is the kind of cheap battery that's red all day and full bars at midnight.",
+            "Daytime me begs to be charged. Midnight me wants to launch a startup."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-068",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://thechive.com/funny/my-brain-at-3am-memes/",
+      "sourceNote": "Inspired by the '3am brain googles how do penguins hug and now I'm crying' meme; rewritten with a localized late-night rabbit-hole framing",
+      "tags": ["失眠", "凌晨三點", "滑手機", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，我本來只是想查一個小問題。\n半小時後，我已經哭著看完一支「老狗等主人回家」的影片，\n還順便查了企鵝到底怎麼抱抱。\n問題解決了嗎？沒有。我更清醒了。",
+          "editorNote": "把「深夜查一個問題結果掉進無底洞」的全民通病講得超寫實。傳給也常常半夜被演算法帶走的朋友，他們會回「我昨天也哭了」。",
+          "variations": [
+            "我只是想查一件事，結果天亮了，我變成企鵝專家。",
+            "凌晨的搜尋紀錄，是另一個版本的我留下的犯罪現場。"
+          ]
+        },
+        "en": {
+          "content": "3am, I just wanted to look up one small thing.\nHalf an hour later I'm crying through a video of an old dog waiting for its owner,\nand I've also looked up how penguins actually hug.\nDid I solve the original problem? No. I'm just more awake now.",
+          "editorNote": "Nails the universal 'looked up one thing and fell into the abyss' bug. Send to the friend who also gets hauled off by the algorithm at night — they'll reply 'I cried last night too.'",
+          "variations": [
+            "I just wanted to check one thing. The sun came up and now I'm a penguin expert.",
+            "My late-night search history is a crime scene left by a different version of me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-069",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://shuteye.ai/blog/funny-sleep-quotes",
+      "sourceNote": "Inspired by the 'me: we need to sleep / brain: let's review every decision' viral format; rewritten with a localized 'brain refuses to clock out' framing",
+      "tags": ["失眠", "焦慮", "上班族", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我：好了，今天到此為止，我們睡覺。\n腦袋：等等，不如我們來重看一次今天你講的每一句話？\n我：拜託，你下班了。\n腦袋：我是責任制，沒有下班這種東西。",
+          "editorNote": "把「想睡腦袋卻不肯停」的拉扯包裝成勞資對話，社畜共鳴爆棚。傳同事群組會有人接「我這台也是責任制」。",
+          "variations": [
+            "我跟腦袋約好十一點關機，它每次都自己偷偷加班到三點。",
+            "我的腦袋是公司裡唯一不準下班的員工，老闆還是它自己。"
+          ]
+        },
+        "en": {
+          "content": "Me: Okay, that's it for today, we're going to sleep.\nBrain: Hold on, how about we rewatch every single thing you said today?\nMe: Please, you're off the clock.\nBrain: I'm salaried. There's no such thing as off the clock.",
+          "editorNote": "Frames the 'I want to sleep but my brain won't stop' tug-of-war as a labor dispute. Lethal for office workers — drop in the team chat for 'mine's salaried too' replies.",
+          "variations": [
+            "Brain and I agreed on a 11pm shutdown. It secretly works overtime until 3am every night.",
+            "My brain is the one employee that's never allowed to clock out, and it's also the boss."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-070",
+      "dateAdded": "2026-05-31",
+      "sourceUrl": "https://www.wolfglobal.org/blog/no-sleep-captions",
+      "sourceNote": "Original gentle item — adds a 'you're allowed to put the night down' angle to the healing register",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你今晚扛的那些事，可以先放在床邊。\n它們不會跑掉，明天還在。\n但現在這一刻，你可以先什麼都不扛，\n只是躺著，當一個被夜晚接住的人。",
+          "editorNote": "失眠的人常常把整個明天都搬上床一起扛。這句話允許你先把重量放下。傳給最近一躺下就開始想全部煩惱的朋友。",
+          "variations": [
+            "今晚你可以先把所有煩惱放在門口，明天再領回來。",
+            "你不用整夜抱著明天，現在先讓自己被床接住就好。"
+          ]
+        },
+        "en": {
+          "content": "The things you're carrying tonight can be set down beside the bed.\nThey won't run off — they'll still be here tomorrow.\nBut for this moment, you don't have to hold anything.\nJust lie there, and let the night catch you.",
+          "editorNote": "Insomniacs tend to drag all of tomorrow into bed and carry it at once. This gives permission to put the weight down for now. For the friend who starts holding every worry the moment they lie down.",
+          "variations": [
+            "Tonight you can leave all your worries at the door and pick them back up tomorrow.",
+            "You don't have to hold tomorrow all night. For now, just let the bed catch you."
+          ]
+        }
+      }
     }
   ]
 }
