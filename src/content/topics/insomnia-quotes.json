@@ -1629,6 +1629,123 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-071",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://cheezburger.com/18907909/sleepy-memes-and-fails-for-melatonin-hungry-millennials",
+      "sourceNote": "Inspired by 'melatonin-hungry millennials' meme theme; rewritten with a localized 'melatonin gave up' framing",
+      "tags": ["失眠", "自嘲", "幽默", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我吞了兩顆褪黑激素，半小時後它傳訊息給我：\n「這個案子我做不來，超出我的能力範圍。」\n然後就下線了，剩我一個人盯著天花板。",
+          "editorNote": "對「助眠保健食品根本壓不住我」的精準吐槽。試過褪黑激素、酸棗仁、各種小物還是睡不著的人會狂點頭，傳群組會有人接「我那罐也罷工了」。",
+          "variations": [
+            "我跟褪黑激素的合約，被它單方面解約了。"
+          ]
+        },
+        "en": {
+          "content": "I took two melatonin, and half an hour later it texted me:\n\"This one's above my pay grade, I can't do it.\"\nThen it logged off and left me staring at the ceiling alone.",
+          "editorNote": "A precise jab at sleep aids that simply can't handle your brain. Anyone who's tried melatonin, magnesium, and every gummy and still lies awake will nod hard. Expect a 'mine went on strike too' reply.",
+          "variations": [
+            "Melatonin terminated our contract unilaterally."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-072",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.wolfglobal.org/blog/no-sleep-captions",
+      "sourceNote": "Inspired by the classic 'going to bed actually means lying in bed on my phone' line; rewritten with a localized translation-guide framing",
+      "tags": ["失眠", "滑手機", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我要去睡了」這句話，需要附上翻譯：\n意思是「我要躺到床上，然後再滑兩小時手機」。\n床只是場地，手機才是主角。",
+          "editorNote": "對「上床跟睡覺是兩件完全不同的事」的最佳說明。傳給每天嘴上說要睡卻滑到天亮的朋友，他們會回「這是我本人沒錯」。",
+          "variations": [
+            "我說的「睡了」是地點，不是動作。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm going to bed\" comes with a translation note:\nit means \"I'm going to lie down and scroll my phone for two more hours.\"\nThe bed is just the venue. The phone is the main act.",
+          "editorNote": "The definitive explainer that going to bed and going to sleep are entirely separate events. Send to the friend who announces bedtime nightly and scrolls till dawn — they'll reply 'this is literally me.'",
+          "variations": [
+            "When I say 'going to sleep,' I'm naming a location, not an activity."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-073",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://aigift.alibaba.com/quotes/insomnia-quotes-funny",
+      "sourceNote": "Inspired by the '72-hour disagreement with my bed' viral line; rewritten with a localized cold-war framing",
+      "tags": ["失眠", "自嘲", "幽默", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟我的床，最近進入冷戰狀態。\n它要我睡，我偏不睡；\n我想睡的時候，它又裝沒看到我。\n我們就這樣僵持了三個晚上。",
+          "editorNote": "把失眠講成跟床鬧脾氣的冷戰，特別有畫面。適合連續好幾晚睡不好、已經跟床互看不順眼的時候發限動。",
+          "variations": [
+            "我跟床的關係已經降到冰點，誰都不肯先低頭。"
+          ]
+        },
+        "en": {
+          "content": "Lately my bed and I are in a cold war.\nIt wants me to sleep, so I refuse;\nthen when I want to sleep, it pretends it doesn't see me.\nWe've been at this standoff for three nights now.",
+          "editorNote": "Frames insomnia as a silent feud with your own bed. Cinematic. Perfect for the story post after several bad nights when you and your mattress are no longer on speaking terms.",
+          "variations": [
+            "My bed and I have hit rock bottom and neither of us will cave first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-074",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://shuteye.ai/blog/funny-sleep-quotes",
+      "sourceNote": "Inspired by 'a yawn is a silent scream for coffee' line; rewritten with a localized SOS-signal framing",
+      "tags": ["失眠", "咖啡", "上班族", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我今天打的每一個哈欠，都不是想睡，\n是身體在對外發 SOS 求救訊號：\n「這裡需要咖啡，重複，這裡急需咖啡。」",
+          "editorNote": "把上班狂打哈欠講成緊急求救的反諷金句。咖啡黨同事一定共鳴，早會集體哈欠時傳群組剛剛好。",
+          "variations": [
+            "我的哈欠不是疲倦，是在跟咖啡機通靈。"
+          ]
+        },
+        "en": {
+          "content": "Every yawn I let out today isn't sleepiness,\nit's my body broadcasting an SOS to the outside world:\n\"Coffee needed here, repeat, coffee urgently needed here.\"",
+          "editorNote": "Reframes the office yawn-fest as an emergency distress signal. Your coffee-dependent coworkers will relate — perfect for the group chat during a yawn-filled morning meeting.",
+          "variations": [
+            "My yawns aren't fatigue. They're me telepathically summoning the coffee machine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-075",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.wolfglobal.org/blog/insomnia-quotes",
+      "sourceNote": "Original gentle item — adds a 'you don't have to win against sleep tonight' angle to the healing register",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡覺不是一場比賽，你不用贏。\n睡不著也沒有輸，沒有人在計分。\n今晚就算只是閉著眼休息，\n也已經對自己很溫柔了。",
+          "editorNote": "失眠的人常常把睡覺當成「一定要達標」的任務，反而更緊繃。這句話拿掉輸贏。傳給最近因為睡不好而苛責自己的朋友。",
+          "variations": [
+            "睡眠不是考試，沒睡著也不會被當。",
+            "閉上眼休息，本身就是一種溫柔，跟睡著一樣有效。"
+          ]
+        },
+        "en": {
+          "content": "Sleep isn't a contest, and you don't have to win it.\nNot sleeping isn't losing either — nobody's keeping score.\nIf tonight you just rest with your eyes closed,\nyou've already been kind to yourself.",
+          "editorNote": "Insomniacs tend to treat sleep as a target they must hit, which only tightens the grip. This removes the win/lose framing. For the friend who's been beating themselves up over bad sleep.",
+          "variations": [
+            "Sleep isn't an exam. You don't fail for staying awake.",
+            "Resting with your eyes closed is its own kind of gentleness — and it counts just as much."
+          ]
+        }
+      }
     }
   ]
 }

@@ -5190,6 +5190,110 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-189",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://punzcopy.com/cold-puns/",
+      "sourceNote": "Rewritten winter/snow pun, adapted into a Q&A bit for both languages",
+      "tags": [
+        "諧音",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我：「外面那麼冷，你還要出門喔？」\n\n我說：「當然，這種天氣最適合『雪』中送炭。」\n\n朋友：「你是要去幫誰？」\n\n我：「沒有，我只是想出去『雪』恥。」",
+          "editorNote": "適合寒流來的時候，在群組裡丟出來冷一下大家",
+          "variations": [
+            "可以接：「結果我一出門就滑倒，這下是真的『雪』恥了。」"
+          ]
+        },
+        "en": {
+          "content": "My friend asked: \"It's freezing out. You're really going outside?\"\n\nMe: \"Of course. This is the perfect weather to make some snow-cial connections.\"\n\nFriend: \"You mean social?\"\n\nMe: \"No. There's snow way I'm staying home.\"",
+          "editorNote": "Good to drop in the group chat when a cold front rolls in",
+          "variations": [
+            "Follow up: \"Then I slipped on the ice. Snow joke, that one hurt.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-190",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://manmandays.com/joke/",
+      "sourceNote": "Rewritten animal pun (狐狸/腳滑) reframed as a short dialogue",
+      "tags": [
+        "諧音",
+        "動物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道哪種動物最容易跌倒嗎？\n\n是狐狸。\n\n因為狐狸最『狡猾』——腳滑啊。",
+          "editorNote": "適合在朋友說「考考你」的時候反丟回去，講完記得一臉認真",
+          "variations": [
+            "可以接：「那最不會跌倒的呢？是貓，因為貓有九條命，跌十次都還有剩。」"
+          ]
+        },
+        "en": {
+          "content": "Which animal is the clumsiest?\n\nThe fox.\n\nBecause every fox you meet is a little off-baw-lance.",
+          "editorNote": "Toss it back when a friend says 'quiz me' — deliver it with a straight face",
+          "variations": [
+            "Follow up: \"And the steadiest? The cat. Always lands on its feet — show-off.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-191",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://bamboo333.pixnet.net/blog/posts/16087574183",
+      "sourceNote": "Rewritten food pun (丸子/出來丸) expanded into a clerk dialogue",
+      "tags": [
+        "諧音",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "什麼食物最愛往外跑？\n\n是丸子。\n\n因為它整天嚷著要『出來丸』。\n\n朋友：「那它跑去哪？」\n\n我：「滷味攤啊，那邊一群同類在『丸』聚。」",
+          "editorNote": "適合排隊買滷味的時候，跟朋友邊等邊冷",
+          "variations": [
+            "改成貢丸版：「貢丸最有禮貌，因為它見人就說『貢』喜。」"
+          ]
+        },
+        "en": {
+          "content": "Which food is always trying to escape?\n\nThe meatball.\n\nBecause it's forever on a roll.\n\nFriend: \"Where does it roll off to?\"\n\nMe: \"The pasta. That's where the whole gang gets together — a real meatball reunion.\"",
+          "editorNote": "Good for killing time in line at a food stall",
+          "variations": [
+            "Cheese version: \"Why is mozzarella so polite? It always says 'cheese' before a photo.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-192",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://laughdoze.com/groan-puns/",
+      "sourceNote": "Rewritten coffee/work pun, original groan-worthy office bit",
+      "tags": [
+        "諧音",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問我：「你今天怎麼這麼累？」\n\n我說：「昨天加班到半夜，整個人『拿鐵』不起精神。」\n\n同事：「那你今天怎麼撐？」\n\n我：「靠意志力，還有『美式』裝沒事。」",
+          "editorNote": "適合星期一早上跟同事互相取暖，講完一起嘆口氣",
+          "variations": [
+            "可以接：「下午再撐不住，就『摩卡』下班吧。」"
+          ]
+        },
+        "en": {
+          "content": "A coworker asked: \"Why are you so wiped out today?\"\n\nMe: \"Worked late last night. I'm running on a latte regret.\"\n\nCoworker: \"How are you getting through the day?\"\n\nMe: \"Pure willpower — and pretending everything's espresso fine.\"",
+          "editorNote": "Good for a Monday-morning commiseration with a coworker, sigh together at the end",
+          "variations": [
+            "Follow up: \"If I crash this afternoon, I'm calling it a mocha-tion and heading home.\""
+          ]
+        }
+      }
     }
   ]
 }

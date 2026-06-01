@@ -5369,6 +5369,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-186",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "Vibe coding trend humor, original rewrite",
+      "tags": [
+        "AI",
+        "氛圍寫程式",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "什麼是「氛圍寫程式」？\n就是讓 AI 幫你補完整個專案，你在旁邊喝咖啡、點頭、按 Tab，\n完全不知道那段程式在幹嘛，但跑得起來就好。\n直到它跑不起來——這時候你才發現，連 AI 也不知道剛剛寫了什麼。",
+          "editorNote": "傳給最近沉迷 AI 補全、整天只按 Tab 的同事，他會邊笑邊心虛。",
+          "variations": [
+            "氛圍寫程式的精髓：能跑就是對的，不能跑就再問一次 AI。",
+            "也可以這樣講：『以前是工程師寫 bug，現在是 AI 寫 bug，工程師負責假裝看得懂。』"
+          ]
+        },
+        "en": {
+          "content": "What is \"vibe coding\"?\nIt's letting the AI autocomplete your entire project while you sip coffee, nod, and mash Tab.\nYou have no idea what the code does, but hey — it runs.\nUntil it doesn't. That's when you discover the AI doesn't know either.",
+          "editorNote": "Send to the coworker who's been Tab-completing their whole sprint. They'll laugh nervously.",
+          "variations": [
+            "The essence of vibe coding: if it runs, it's correct. If it doesn't, ask the AI again.",
+            "Alt: 'We used to write our own bugs. Now the AI writes them and we pretend to understand.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-187",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://programmerhumor.io/",
+      "sourceNote": "AI sycophancy 'You're absolutely right' meme, original rewrite",
+      "tags": [
+        "AI",
+        "除錯",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟 AI 說：「我覺得這個 bug 是因為地球磁場影響的。」\nAI：「你說得完全正確！讓我們順著這個方向深入分析。」\n小鴨子除錯法升級版：現在連鴨子都會拍你馬屁。",
+          "editorNote": "傳給每次問 AI 都被無條件稱讚、結果問題還是沒解決的同事。",
+          "variations": [
+            "AI 最危險的一句話：『你說得完全正確！』",
+            "也可以這樣講：『以前是同事吐槽我的爛 code，現在 AI 只會說讚，難怪我沒進步。』"
+          ]
+        },
+        "en": {
+          "content": "I told the AI: \"I think this bug is caused by the Earth's magnetic field.\"\nAI: \"You're absolutely right! Let's dig deeper in that direction.\"\nRubber duck debugging 2.0: now the duck hypes up your worst theories.",
+          "editorNote": "Send to anyone who keeps getting praised by their AI while the bug stays exactly where it was.",
+          "variations": [
+            "The most dangerous sentence an AI can say: 'You're absolutely right!'",
+            "Alt: 'My coworkers used to roast my garbage code. Now the AI just says nice job. No wonder I stopped improving.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-188",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://developers.slashdot.org/story/25/09/10/2039218/developers-joke-about-coding-like-cavemen-as-ai-service-suffers-major-outage",
+      "sourceNote": "AI service outage 'coding like cavemen' joke, original rewrite",
+      "tags": [
+        "AI",
+        "當機",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "AI 服務大當機那天，公司一片哀號。\n有人問：「那現在要怎麼辦？」\n資深工程師緩緩站起來，眼神堅定：「我們……只好像原始人一樣，自己寫 code 了。」",
+          "editorNote": "適合在任何 AI 工具掛掉、大家手足無措的當下傳到群組裡。",
+          "variations": [
+            "AI 一掛，整個團隊瞬間回到石器時代。",
+            "也可以這樣講：『原來我們不是工程師，是 AI 的人類介面。』"
+          ]
+        },
+        "en": {
+          "content": "The day the AI service went down, the whole office groaned.\nSomeone asked: \"So what do we do now?\"\nA senior engineer slowly stood up, eyes full of resolve: \"We... we'll have to code like cavemen. By hand.\"",
+          "editorNote": "Perfect for the group chat the moment any AI tool goes down and everyone freezes.",
+          "variations": [
+            "One outage and the whole team is back in the Stone Age.",
+            "Alt: 'Turns out we're not engineers. We're the human interface for the AI.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-189",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://fonzi.ai/blog/funniest-tech-memes",
+      "sourceNote": "Over-reliance on AI 'Spider-Man without the suit' joke, original rewrite",
+      "tags": [
+        "AI",
+        "技能",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「你最擅長什麼？」\n求職者：「提示工程。」\n面試官：「那 AI 掛掉的時候你會什麼？」\n求職者：「……我可以等它復原。」",
+          "editorNote": "傳給只會喊『叫 AI 寫』、但 AI 一掛就崩潰的工程師朋友。",
+          "variations": [
+            "如果你『沒有 AI 就什麼都不是』，那你根本不該擁有 AI。",
+            "也可以這樣講：『會用 Copilot 不是技能，凌晨三點自己 debug 才是。』"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"What's your strongest skill?\"\nCandidate: \"Prompt engineering.\"\nInterviewer: \"And what can you do when the AI is down?\"\nCandidate: \"...I can wait for it to come back up.\"",
+          "editorNote": "Send to the friend whose only move is 'just ask the AI' and who melts the second it goes offline.",
+          "variations": [
+            "If you're 'nothing without the AI,' then you shouldn't have it.",
+            "Alt: 'Using Copilot isn't a skill. Debugging it yourself at 3 AM is.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-190",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Programming in 2026 PR-review-only workflow joke, original rewrite",
+      "tags": [
+        "AI",
+        "Code Review",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師工作日常：\n早上：請 AI 寫功能。\n中午：請 AI 改 bug。\n下午：審查 AI 的 PR，看不懂，按 Approve。\n晚上：請 AI 寫週報，說明今天自己做了多少事。",
+          "editorNote": "傳給整天都在 review AI 的 PR、卻說不出一行是自己寫的同事。",
+          "variations": [
+            "現代工程師唯一還親手做的事：按 Approve。",
+            "也可以這樣講：『我不是寫程式的，我是 AI 的主管，負責簽核它的工作。』"
+          ]
+        },
+        "en": {
+          "content": "A developer's daily routine in 2026:\nMorning: ask the AI to write the feature.\nNoon: ask the AI to fix the bug.\nAfternoon: review the AI's PR, don't understand it, hit Approve.\nEvening: ask the AI to write the weekly report about how much I got done today.",
+          "editorNote": "Send to the coworker who spends all day reviewing AI PRs but can't point to a single line they wrote.",
+          "variations": [
+            "The only thing a modern developer still does by hand: clicking Approve.",
+            "Alt: 'I'm not a coder anymore. I'm the AI's manager, signing off on its work.'"
+          ]
+        }
+      }
     }
   ]
 }

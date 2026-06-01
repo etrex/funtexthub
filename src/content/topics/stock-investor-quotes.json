@@ -511,6 +511,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-021",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://udn.com/news/story/12806/9517691",
+      "sourceNote": "5月台股暴漲1560點 / 散戶砍在阿呆谷 register；改寫原創",
+      "tags": ["阿呆谷", "停損", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "前一天我終於鼓起勇氣停損，含淚把它砍在最低點。\n隔天大盤暴漲，那檔股票直接拉一根長紅，漲幅是我這輩子看過最漂亮的。\n我才明白，原來『阿呆谷』不是地名，是專門為我一個人開的觀景台。",
+          "editorNote": "送給每個剛停損完隔天就看著它暴漲的同學，貼在群組互相取暖",
+          "variations": [
+            "我的停損鍵，是這支股票最可靠的買進訊號。",
+            "我砍倉的那一刻，主力在另一頭按下了反攻的按鈕。"
+          ]
+        },
+        "en": {
+          "content": "The day before, I finally found the courage to cut my loss and sold it at the very bottom, in tears.\nThe next day the whole market exploded, and that stock ripped a massive green candle — the prettiest one I've ever seen.\nThat's when I understood: 'Dummy Valley' isn't a place, it's a scenic overlook built just for me.",
+          "editorNote": "For everyone who capitulated yesterday and watched it moon today — share in the group chat for mutual comfort",
+          "variations": [
+            "My stop-loss button is this stock's most reliable buy signal.",
+            "The instant I cut my position, the whales hit the launch button on the other end."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-022",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://punsify.com/stock-market-jokes/",
+      "sourceNote": "投資 app 推播 / 血壓 register；改寫原創",
+      "tags": ["推播", "看盤", "厭世", "焦慮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "券商 APP 很貼心，跌的時候會推播提醒我，漲的時候也會推播提醒我。\n所以現在我的手機，一天到晚都在提醒我心跳。\n別人靠運動量手環測心率，我靠庫存損益。",
+          "editorNote": "適合在被一連串紅綠推播轟炸到血壓飆高的盤中分享",
+          "variations": [
+            "我關掉了所有 APP 的通知，只留下券商的，因為那是唯一會讓我有情緒的。",
+            "我的血壓跟大盤同步，這大概是我跟市場唯一的正相關。"
+          ]
+        },
+        "en": {
+          "content": "My broker app is so thoughtful — it pings me when things go down, and it pings me when things go up.\nSo now my phone spends all day reminding me I still have a heartbeat.\nOther people track their pulse with a fitness band. I track mine with unrealized P&L.",
+          "editorNote": "For the intraday moment when a barrage of red-and-green push alerts sends your blood pressure soaring",
+          "variations": [
+            "I muted every app's notifications except the broker's, because it's the only one that still makes me feel something.",
+            "My blood pressure is perfectly synced with the index. It's probably the only positive correlation I have with the market."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-023",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://punsify.com/stock-market-jokes/",
+      "sourceNote": "「太多 dips」減肥 / 攤平自嘲 register；改寫原創",
+      "tags": ["攤平", "減肥", "自嘲", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的投資組合跟我的減肥計畫有一個共同點：兩個都太多次『再吃一口就好』。\n股票跌了，我說『逢低再買一口』。\n宵夜來了，我說『就這一口』。\n結果體重跟均價，雙雙創新高。",
+          "editorNote": "適合在邊吃宵夜邊攤平、雙重崩潰的深夜發",
+          "variations": [
+            "我攤平股票的決心，跟我戒宵夜的決心一樣堅定，也一樣短命。",
+            "減肥和停損，是我這輩子最常重新開始、也最常失敗的兩件事。"
+          ]
+        },
+        "en": {
+          "content": "My portfolio and my diet have one thing in common: both have way too many rounds of 'just one more bite.'\nThe stock drops, I say 'one more nibble on the dip.'\nThe midnight snack appears, I say 'just this one.'\nResult: my weight and my cost basis both hit all-time highs.",
+          "editorNote": "For the late-night double meltdown of averaging down while eating a midnight snack",
+          "variations": [
+            "My resolve to stop averaging down is as firm as my resolve to skip dessert — and just as short-lived.",
+            "Dieting and cutting losses are the two things I've restarted, and failed at, the most in my life."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-024",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "做完功課還是賠 / 研究越多虧越多 register；改寫原創",
+      "tags": ["做功課", "研究", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我認真研究了一個月，看財報、看法說會、看產業報告，做了滿滿三頁筆記。\n我朋友隨便聽到一個名字就買了。\n結果他賺，我賠。\n我終於懂了：在這個市場，做功課唯一的功能，是讓你輸得很有學問。",
+          "editorNote": "送給每個花大把時間研究、結果還輸給亂買朋友的認真仔",
+          "variations": [
+            "我研究得越深入，賠得越有條理。",
+            "別人用直覺賺錢，我用 Excel 賠錢，而且賠得很精準。"
+          ]
+        },
+        "en": {
+          "content": "I researched hard for a month — read the filings, watched the earnings calls, dug through industry reports, filled three pages of notes.\nMy friend heard a ticker once and bought it.\nHe's up. I'm down.\nNow I finally get it: in this market, doing your homework only guarantees you lose with great academic rigor.",
+          "editorNote": "For the diligent type who spends hours on research and still loses to a friend who buys at random",
+          "variations": [
+            "The deeper my research, the more methodically I lose.",
+            "Other people make money on instinct. I lose money in Excel — and very precisely."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-025",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://punnypulse.com/stock-market-jokes/",
+      "sourceNote": "美股盤 / 半夜起床看盤 register；改寫原創",
+      "tags": ["美股", "熬夜", "看盤", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "自從買了美股，我多了一個半夜的室友，叫做時差。\n台灣半夜兩點，美股正熱鬧，我準時起床盯盤。\n隔天上班同事問我怎麼黑眼圈這麼重。\n我說我在跨國工作，只是公司沒發薪水，還倒扣。",
+          "editorNote": "送給每個為了美股犧牲睡眠、白天還要上班的夜貓投資人",
+          "variations": [
+            "我不是失眠，我是配合華爾街的作息。",
+            "白天上班是為了存錢，半夜看盤是為了把錢還回去。"
+          ]
+        },
+        "en": {
+          "content": "Ever since I started trading US stocks, I gained a new roommate at night called the time difference.\n2 a.m. Taiwan time, Wall Street is buzzing, and I wake up right on schedule to watch the screen.\nNext day at work, a coworker asks why my eye bags are so heavy.\nI tell them I work an international job — the company just doesn't pay me, it deducts.",
+          "editorNote": "For the night-owl investor sacrificing sleep for the US session and still showing up to the day job",
+          "variations": [
+            "I'm not an insomniac. I'm just on Wall Street hours.",
+            "I work my day job to save money, and watch the overnight session to give it all back."
+          ]
+        }
+      }
     }
   ]
 }

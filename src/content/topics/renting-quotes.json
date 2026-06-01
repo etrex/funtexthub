@@ -1868,6 +1868,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-078",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://land-disputes-lawyer.tw/rental-dispute-dcard/",
+      "sourceNote": "押金不得扣清潔費油漆費 法律盲點 register; rewritten original",
+      "tags": ["押金", "房東", "退租", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租那天房東從押金扣了清潔費、油漆費、還有一條「折舊費」。\n我查了法律才知道，這些根本不能扣。\n原來最該折舊的，是我對房東的信任。",
+          "editorNote": "傳給剛被房東亂扣押金的朋友，提醒他清潔、油漆這些沒寫進合約其實不能扣，必要時打1950",
+          "variations": [
+            "房東說押金要扣「正常損耗」，我說那我這一年被你氣老的部分，可不可以也算進去。",
+            "押金兩個月是法律上限，房東收三個月還理直氣壯，我才懂什麼叫先學會吃虧再學會法律。"
+          ]
+        },
+        "en": {
+          "content": "On move-out day my landlord deducted cleaning, repainting, and something he called a 'depreciation fee.'\nI looked up the law — none of that is allowed.\nTurns out the thing that depreciated most was my trust in him.",
+          "editorNote": "Send to a friend who just got hit with bogus deposit deductions — remind them cleaning and repainting can't be charged unless it's in the contract, and the tenant hotline exists for a reason",
+          "variations": [
+            "Landlord said the deposit covers 'normal wear and tear.' Can the year I aged from arguing with him count too?",
+            "Two months is the legal cap on a deposit. Mine charged three and didn't blink — that's how you learn to get burned before you learn the law."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-079",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://vocus.cc/article/69f8473bfd897800017b80c2",
+      "sourceNote": "2026 工作變動提前解約 違約金一個月上限 register; rewritten original",
+      "tags": ["解約", "違約金", "搬家", "成年"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司把我調到外縣市，\n我跟房東說要提前解約，\n他開口就要賠三個月房租。\n我查了定型化契約才知道，上限是一個月——\n原來房東的數學，從來不打算讓我贏。",
+          "editorNote": "傳給因為工作或唸書要提前解約的朋友，提醒他內政部定型化契約違約金上限是一個月租金，別被嚇到",
+          "variations": [
+            "我沒住滿一年要賠錢，住滿一年想搬還是要賠錢——原來這份合約只有房東會贏。",
+            "房東說提前解約「賠多少看良心」，我說那你良心多少錢一斤。"
+          ]
+        },
+        "en": {
+          "content": "My company transferred me to another city.\nI told my landlord I needed to break the lease early.\nFirst thing out of his mouth: three months' rent in penalties.\nThen I read the standard contract rules — the cap is one month.\nTurns out his math was never going to let me win.",
+          "editorNote": "Send to a friend breaking a lease early for work or school — remind them the standard-contract penalty cap is one month's rent, so don't get bullied",
+          "variations": [
+            "Move out before a year and I pay a penalty. Stay a full year and want to leave — still a penalty. This contract only has one winner.",
+            "Landlord said the early-termination fee was 'however much my conscience says.' I asked how much his conscience goes for per pound."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-080",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.legis-pedia.com/article/housing-land-neighbors/1239",
+      "sourceNote": "押金不得超過2個月 房東違法多收 register; rewritten original",
+      "tags": ["押金", "法律", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：「我們這邊押金都收三個月，行情啦。」\n我說：「法律寫上限兩個月。」\n他說：「那你可以不要租啊。」\n我才懂，所謂行情，就是大家一起被欺負久了的平均值。",
+          "editorNote": "適合看房時被房東獅子大開口收三個月押金的朋友轉發，附上法律百科連結壯膽",
+          "variations": [
+            "房東收押金像在募款，理由一個比一個有創意，金額一個比一個沒下限。",
+            "「行情」這兩個字，是台灣租屋市場最貴的兩個字。"
+          ]
+        },
+        "en": {
+          "content": "Landlord: 'Around here we take three months' deposit — that's the going rate.'\nMe: 'The law caps it at two.'\nHim: 'Then don't rent it.'\nThat's when I got it — 'the going rate' just means the average of everyone getting pushed around for long enough.",
+          "editorNote": "Send to a friend whose landlord demanded three months' deposit at a viewing — attach a link to the actual rule for backup",
+          "variations": [
+            "My landlord collects deposits like he's running a fundraiser — each reason more creative, each number with less of a floor.",
+            "'Market rate' might be the two most expensive words in the whole rental game."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-081",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 sink unfixed rent raised at worst time meme; rewritten original",
+      "tags": ["報修", "漲租", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的水槽壞了三個月，房東說「再看看」。\n上個月我加薪，房東隔天就說「房子也該漲了」。\n他對我的薪水比對我的水槽還上心。",
+          "editorNote": "傳給報修石沉大海、漲租卻光速到位的朋友，這就是房東的雙標物理學",
+          "variations": [
+            "房東修水管的速度是地質年代，漲房租的速度是光速，這兩件事居然能在同一個人身上發生。",
+            "我家的水槽跟房東一樣——只在收錢的時候才會通。"
+          ]
+        },
+        "en": {
+          "content": "My sink's been broken for three months. Landlord says 'we'll see.'\nLast month I got a raise. Next day he said 'the rent's due for an increase too.'\nHe pays closer attention to my paycheck than to my plumbing.",
+          "editorNote": "Send to a friend whose repair requests vanish into the void while rent hikes arrive at light speed — the double-standard physics of landlords",
+          "variations": [
+            "My landlord fixes pipes on a geological timescale and raises rent at the speed of light — somehow both live in the same person.",
+            "My sink is just like my landlord: it only runs when money's involved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-082",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://cheezburger.com/25045253/31-renter-memes-that-give-experienced-tenants-the-landlord-special",
+      "sourceNote": "landlord special renovation rent hike meme; rewritten original",
+      "tags": ["翻修", "漲租", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東口中的「全新裝潢」，\n是把牆刷白、換一個門把、再貼一張新的地墊。\n然後房租漲三千，他叫這個「房東特餐」。\n我點的明明是套餐，端上來的是空盤加帳單。",
+          "editorNote": "傳給租屋處被「微翻新」當藉口漲租的朋友，一起見證房東的創意料理",
+          "variations": [
+            "房東特餐的內容是：表面升級一成，價格升級三成，服務升級負十成。",
+            "他說裝潢全面升級，我看了半天，只有房租真的升級了。"
+          ]
+        },
+        "en": {
+          "content": "When my landlord says 'fully renovated,'\nhe means a coat of white paint, a new door handle, and a fresh doormat.\nThen rent jumps three hundred and he calls it the 'landlord special.'\nI ordered the combo meal — what arrived was an empty plate and a bill.",
+          "editorNote": "Send to a friend whose landlord used a 'minor refresh' to justify a rent hike — witness the landlord's signature dish together",
+          "variations": [
+            "The landlord special: surface upgraded ten percent, price upgraded thirty, service upgraded negative ten.",
+            "He said the place got a full upgrade. I looked everywhere — the only thing that actually upgraded was the rent."
+          ]
+        }
+      }
     }
   ]
 }

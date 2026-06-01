@@ -1927,6 +1927,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-079",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://snugfam.com/150-best-quotes-for-students-funny-enough-to-make-you-laugh-through-finals-week/",
+      "sourceNote": "考場掉筆 register — 第七題魔咒 frame 在地化",
+      "tags": ["考試", "掉筆", "自嘲", "廢文", "墨菲定律"],
+      "i18n": {
+        "zh-tw": {
+          "content": "平常我的筆好端端躺在筆袋裡。\n偏偏每次都在寫到第七題、腦袋正轉得最順的時候，\n它從桌上滾下去，滾到全考場最遠的那個角落。\n墨菲定律不放過任何一個正在認真的考生。",
+          "editorNote": "考場掉筆的崩潰瞬間大家都懂，傳到班群一定有人回「+1，而且還是滾到別人腳邊」。",
+          "variations": [
+            "可以加：「掉的不是筆，是我剛剛好不容易接上的思緒。」",
+            "也能改：「我的筆只在最關鍵的那一題決定要去探索地板。」"
+          ]
+        },
+        "en": {
+          "content": "Most of the time my pen just sits politely in the case.\nBut somehow it always rolls off the desk right at question seven,\nthe exact moment my brain finally got going,\nand it rolls to the farthest corner of the entire hall.\nMurphy's Law never spares a student who's actually trying.",
+          "editorNote": "The universal dropped-pen panic — post it and someone replies \"same, and it rolled under a stranger's foot.\"",
+          "variations": [
+            "Add: \"I didn't drop a pen. I dropped the train of thought I just barely caught.\"",
+            "Try: \"My pen only decides to explore the floor on the most important question.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-080",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://snugfam.com/150-best-quotes-for-students-funny-enough-to-make-you-laugh-through-finals-week/",
+      "sourceNote": "考場時鐘標語 register — time will pass will you frame 在地化",
+      "tags": ["考試", "時鐘", "雙關", "自嘲", "考場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考場牆上那個時鐘，\n它好像在對我說：「時間一定會過，那你呢？」\n我抬頭看它三十次，\n它過了三十分鐘，而我，原地不動。\n結論：會走的只有它，不會走的只有我。",
+          "editorNote": "盯著考場時鐘發呆又腦袋空白的高共鳴句，配張時鐘特寫照超有畫面。",
+          "variations": [
+            "可以加：「時鐘比我有決心，它從來沒有想交白卷。」",
+            "也能改：「它叫做時鐘，我叫做時間靜止。」"
+          ]
+        },
+        "en": {
+          "content": "That clock on the exam hall wall\nfeels like it's whispering: \"Time will pass. Will you?\"\nI looked up at it thirty times,\nit moved thirty minutes, and I stayed exactly where I was.\nConclusion: the only thing moving forward in this room is the clock.",
+          "editorNote": "For staring-at-the-clock-while-blank energy — pair with a close-up of an exam hall clock.",
+          "variations": [
+            "Add: \"The clock has more determination than me. It never thought about handing in a blank.\"",
+            "Try: \"It's called a clock. I'm called time standing still.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-081",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://news.pts.org.tw/article/764092",
+      "sourceNote": "115 分科測驗 7/11-12 倒數 register — 學測完還有一場 frame",
+      "tags": ["分科測驗", "115分科", "考試", "自嘲", "暑假"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人放暑假，我準備分科測驗。\n七月十一、十二號這兩天，\n是我整個夏天唯一記得的日期。\n海邊、演唱會、出國玩，跟我說的那種暑假，\n要等到七月十三號才正式開賣。",
+          "editorNote": "分科測驗考生的六月內心戲，看著同學放暑假自己還在拚的那種，發出去同類秒懂。",
+          "variations": [
+            "可以加：「我的暑假分成兩段：考前的地獄，跟考後的補眠。」",
+            "也能改：「七月十二號之前，夏天對我來說只是一個比較熱的考季。」"
+          ]
+        },
+        "en": {
+          "content": "Everyone else is on summer break. I'm prepping for the subject exam.\nJuly 11th and 12th\nare the only dates I remember from the entire summer.\nThe beach, the concerts, the trips abroad — the summer everyone keeps describing —\ndoesn't officially go on sale until July 13th.",
+          "editorNote": "June reality for subject-exam students watching everyone else vacation — fellow grinders will get it instantly.",
+          "variations": [
+            "Add: \"My summer comes in two parts: pre-exam hell, then post-exam catch-up sleep.\"",
+            "Try: \"Before July 12th, summer is just a hotter exam season to me.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-082",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.flick.social/captions/funny-instagram-captions-about-finals",
+      "sourceNote": "省電模式 register — energy-saving mode frame 在地化廢文",
+      "tags": ["考試", "省電模式", "自嘲", "廢文", "耍廢"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是懶，\n我只是進入了「考試結束前一律省電」的模式。\n非必要不移動、非必要不思考、非必要不社交，\n所有電量全部留給那兩天的考場。\n等考完，我會自動恢復出廠設定——也就是繼續耍廢。",
+          "editorNote": "考前那種「只剩呼吸功能」的省電狀態，發限動配張癱在沙發上的照片超傳神。",
+          "variations": [
+            "可以加：「我的低電量警告從上禮拜就一直亮著，但我拒絕充電。」",
+            "也能改：「考完不是恢復元氣，是從省電模式切換成飛航模式。」"
+          ]
+        },
+        "en": {
+          "content": "I'm not lazy.\nI've just entered \"power-saving mode until exams are over.\"\nNo unnecessary movement, no unnecessary thinking, no unnecessary socializing —\nall battery reserved for those two days in the hall.\nOnce it's done, I'll reset to factory settings — which is, of course, more lounging around.",
+          "editorNote": "For the pre-exam \"breathing-only\" energy-saving state — pair with a melted-into-the-couch photo.",
+          "variations": [
+            "Add: \"My low-battery warning has been blinking since last week, but I refuse to charge.\"",
+            "Try: \"After the exam I don't recharge — I just switch from power-saving mode to airplane mode.\""
+          ]
+        }
+      }
     }
   ]
 }

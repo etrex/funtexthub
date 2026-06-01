@@ -604,6 +604,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-026",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://tw.news.yahoo.com/%E5%A4%8F%E6%9C%88%E9%9B%BB%E5%83%B961%E4%B8%8A%E8%B7%AF%EF%BC%81",
+      "sourceNote": "2026 節電獎勵金 每省一度 0.6 元 register；改寫原創",
+      "tags": ["節電獎勵金", "省電", "台電", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電：「跟去年同期比，每省一度電，回饋你 0.6 元。」\n我：「所以我要先記得去年的我用了多少度，再努力贏過他。」\n結論：今年夏天我最大的對手，是去年那個不懂事亂吹冷氣的自己。",
+          "editorNote": "傳給那個認真研究節電獎勵、把帳單當成電玩排行榜在打的朋友",
+          "variations": [
+            "省電獎勵金的精髓：跟過去的自己比賽，輸了還要付錢。",
+            "0.6 元一度，聽起來很少，但對一個月底只剩零頭的人來說，那是尊嚴。"
+          ]
+        },
+        "en": {
+          "content": "Power company: 'Beat last year's usage and we'll pay you back 60 cents per unit saved.'\nMe: 'So first I have to remember how much past-me used, then defeat him.'\nConclusion: my biggest rival this summer is last year's me, who cranked the AC like a fool.",
+          "editorNote": "Send to the friend who treats the energy-saving rebate like a video-game leaderboard",
+          "variations": [
+            "The rebate program in a nutshell: race your past self, and if you lose, you pay.",
+            "60 cents a unit sounds like nothing — but to someone with loose change left at month's end, that's dignity."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-027",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://news.tvbs.com.tw/life/3212034",
+      "sourceNote": "短暫外出關冷氣其實超虧 專家破解迷思 register；改寫原創",
+      "tags": ["冷氣", "省電迷思", "出門", "變頻"],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家：「短暫外出別關冷氣，重開更耗電，超虧。」\n我出門倒個垃圾，站在電梯口天人交戰：\n關了，怕回來重開更貴；不關，怕鄰居以為我家在養企鵝。\n最後我選擇：垃圾不倒了，回家吹冷氣。",
+          "editorNote": "傳給那個為了「要不要關冷氣」可以在門口站三分鐘的選擇障礙朋友",
+          "variations": [
+            "省電最難的部分，從來不是技術，是判斷我這趟出門到底算不算「短暫」。",
+            "變頻冷氣的世界裡，連倒垃圾都是一場需要精算的金融決策。"
+          ]
+        },
+        "en": {
+          "content": "Expert: 'Don't switch off the AC for a quick errand — restarting it burns more power. Big loss.'\nI step out to take the trash and freeze at the elevator, torn:\nturn it off and risk a pricier restart, or leave it on and let the neighbors think I'm raising penguins?\nFinal call: skip the trash, go back inside, enjoy the AC.",
+          "editorNote": "For the indecisive friend who stalls at the door for three minutes over whether to kill the AC",
+          "variations": [
+            "The hardest part of saving energy was never the tech — it's deciding whether this errand counts as 'quick.'",
+            "In the world of inverter AC, even taking out the trash is a financial decision requiring spreadsheets."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-028",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.twneed.org/post/19.html",
+      "sourceNote": "120 度以下不漲價 級距分界 register；改寫原創",
+      "tags": ["級距", "120度", "省電", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "懶人包：「一個月用 120 度以下，夏月電價不漲，跟平常一樣。」\n我看著家裡那台 24 小時運轉的冷氣，輕輕地笑了。\n120 度，是給住在別人家的人準備的數字。",
+          "editorNote": "傳給那個看到「120 度以內不漲」就燃起一絲希望、然後立刻熄滅的朋友",
+          "variations": [
+            "夏天用電 120 度以內的人，跟年薪百萬的人一樣——我知道你們存在，但我從沒見過。",
+            "台電的善意級距，是用來提醒你：原來真的有人這麼省。"
+          ]
+        },
+        "en": {
+          "content": "Guide: 'Stay under 120 kWh a month and summer rates don't go up — same as usual.'\nI glance at the AC that's been running 24/7 and let out a soft little laugh.\n120 kWh is a number designed for people who live in someone else's house.",
+          "editorNote": "For the friend who feels a flicker of hope at 'under 120 kWh' before it instantly dies",
+          "variations": [
+            "People who use under 120 kWh in summer are like millionaires — I know you exist, I've just never met one.",
+            "The gentle lower tier exists only to remind you that some people really are that frugal."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-029",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://qmonster.cc/energy-efficient/",
+      "sourceNote": "定期清洗冷氣濾網 省電 register；改寫原創",
+      "tags": ["冷氣", "濾網", "清潔", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "省電第一招：每兩三週清一次冷氣濾網。\n我上次清濾網，是去年的這個時候，也是看到這篇文章的時候。\n所以對我來說，清濾網不是保養，是一種年度儀式，配合夏月電價一年舉辦一次。",
+          "editorNote": "傳給那個每年只在收到第一張夏季帳單後才想起濾網存在的朋友",
+          "variations": [
+            "冷氣濾網跟健身房會員一樣：辦了、知道要用、然後一年想起一次。",
+            "我家冷氣濾網的灰塵，已經厚到可以單獨成立一個生態系。"
+          ]
+        },
+        "en": {
+          "content": "Energy tip #1: clean your AC filter every two to three weeks.\nThe last time I cleaned mine was this time last year — also the last time I read an article like this.\nSo for me, cleaning the filter isn't maintenance, it's an annual ritual, held once a year alongside the summer rate hike.",
+          "editorNote": "For the friend who only remembers the filter exists after the first summer bill lands",
+          "variations": [
+            "AC filters are like gym memberships: you sign up, you know you should use it, you remember once a year.",
+            "The dust on my AC filter is now thick enough to qualify as its own ecosystem."
+          ]
+        }
+      }
     }
   ]
 }

@@ -4560,6 +4560,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-184",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://sites.google.com/go.edu.tw/jie1113/%E9%A6%96%E9%A0%81/%E5%BB%A2%E8%A9%B1%E8%AA%9E%E9%8C%841",
+      "sourceNote": "套套邏輯廢話文學新創，參考經典格式",
+      "tags": ["廢話文學", "邏輯", "套套邏輯"],
+      "i18n": {
+        "zh-tw": {
+          "content": "俗話說得好：俗話說得好。\n\n至於是哪句俗話，研究指出，只要它流傳得夠久，就會被稱為俗話。",
+          "editorNote": "適合在群組裡有人引用名言時接話，瞬間讓對話原地打轉",
+          "variations": [
+            "古人說的話，通常都是古人說的。這一點目前還沒有反例。"
+          ]
+        },
+        "en": {
+          "content": "As the old saying goes: the old saying goes.\n\nWhich saying exactly? Research indicates that as long as it's been around long enough, it qualifies as old.",
+          "editorNote": "Use this right after someone drops a quote in a group chat — it sends the conversation spinning in place",
+          "variations": [
+            "Things wise people said were, in fact, said by wise people. No counterexamples have been found."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-185",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "聽君一席話經典變體，重新改寫",
+      "tags": ["廢話文學", "聊天", "資訊量"],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽你講了一個小時，我感覺就像聽了一個小時。\n\n資訊量這種東西，有就是有，沒有也看不出來少了什麼。",
+          "editorNote": "適合朋友長篇大論講完之後，假裝很有收穫地回他",
+          "variations": [
+            "你這番話讓我恍然大悟，原來我剛剛什麼都沒聽懂。"
+          ]
+        },
+        "en": {
+          "content": "I listened to you talk for an hour, and it felt exactly like listening for an hour.\n\nAs for information content — when it's there it's there, and when it's not, you can't tell anything's missing.",
+          "editorNote": "Use after a friend finishes a long-winded explanation, while pretending you got a lot out of it",
+          "variations": [
+            "Your speech was a real eye-opener — it opened my eyes to the fact that I understood none of it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-186",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.boredpanda.com/technically-true-things/",
+      "sourceNote": "technically true 風格廢話，重新創作",
+      "tags": ["廢話文學", "睡眠", "technically-true"],
+      "i18n": {
+        "zh-tw": {
+          "content": "惡夢算是夢嗎？\n\n還是說，那是一部你自己編劇、自己導演、自己主演的免費恐怖片？\n\n專家表示：兩種說法目前都成立。",
+          "editorNote": "適合早上傳給昨晚說自己做惡夢的朋友，順便嚇他一下",
+          "variations": [
+            "你睡覺時閉著眼睛，是為了看夢；醒著時睜開眼睛，是為了看帳單。"
+          ]
+        },
+        "en": {
+          "content": "Are nightmares dreams?\n\nOr are they free horror movies that you write, direct, and star in?\n\nExperts confirm: both descriptions currently hold.",
+          "editorNote": "Send in the morning to a friend who mentioned a bad dream — bonus points for the mild dread",
+          "variations": [
+            "You close your eyes when you sleep to watch dreams, and open them when you wake to watch your bills."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-187",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://www.demilked.com/technically-the-truth/",
+      "sourceNote": "身體哲學 technically true 風格新創",
+      "tags": ["廢話文學", "哲學", "身體"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的身體裡有一副骨頭嗎？\n\n還是說，是你（也就是你的大腦）住在一副骨頭裡面？\n\n這個問題科學家想了很久，結論是：以上皆是。",
+          "editorNote": "適合半夜睡不著時傳到群組，讓大家一起睡不著",
+          "variations": [
+            "你不是在用手機，是手機在用你的兩根大拇指。差別只在誰先放下誰。"
+          ]
+        },
+        "en": {
+          "content": "Do you have a skeleton inside you?\n\nOr are you — meaning your brain — living inside a skeleton?\n\nScientists have pondered this at length and concluded: all of the above.",
+          "editorNote": "Drop this in a group chat at midnight so nobody else can fall asleep either",
+          "variations": [
+            "You're not using your phone — your phone is using your two thumbs. The only question is who puts the other down first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-188",
+      "dateAdded": "2026-06-01",
+      "sourceUrl": "https://read01.com/zh-tw/4nn0yEL.html",
+      "sourceNote": "時間流逝廢話文學經典變體，重新改寫",
+      "tags": ["廢話文學", "時間", "月份"],
+      "i18n": {
+        "zh-tw": {
+          "content": "好消息是，過完了五月就到六月了。\n\n壞消息是，過完了六月就到七月了。\n\n日曆專家提醒：這個流程目前沒有暫停鍵。",
+          "editorNote": "適合月初傳到工作群組，提醒大家又要過一個月了",
+          "variations": [
+            "週一過完就是週二，週二過完就是週三，至於週末，它過完之後就又是週一了。"
+          ]
+        },
+        "en": {
+          "content": "Good news: once May is over, it'll be June.\n\nBad news: once June is over, it'll be July.\n\nCalendar experts note that this process currently has no pause button.",
+          "editorNote": "Send to the work group chat at the start of a month, reminding everyone another one's begun",
+          "variations": [
+            "After Monday comes Tuesday, after Tuesday comes Wednesday, and as for the weekend — once it's over, it's Monday again."
+          ]
+        }
+      }
     }
   ]
 }
