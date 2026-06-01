@@ -4326,3 +4326,86 @@ Done items collapsed; only live priorities listed.
 - **exam-quotes**: 會考成績 6/5 公布 T-5 等成績 day 2 of 7 carry「等成績 = 一年最長 7 天」priority MEDIUM-HIGH (6/5 前上線目標).
 - **slang-quotes**: 咩噗 / 甘阿捏 / 言小 / 澳打 / 高麗菜那桌 + 新觀察 愛你老己 / 雪山救狐狸 / pdf 破防 carry MEDIUM.
 - **witty-comebacks / programmer-jokes**: Corporate NPC + saxophone louder + Great Meme Reset register 1 item per topic 候選 MEDIUM.
+
+## 2026-06-01 Research Report
+
+### New Topic Recommendations
+
+1. **夏天電費語錄 / Summer Electricity Quotes (summer-electric-quotes)** — **DAY-OF 啟動 6/1 夏月電價開跑 priority 升 MEDIUM-HIGH (既有 topic 更新, 非新建)**:
+   - SEO rationale: 6/1 夏月電價正式開跑 day-of (6/1-9/30, 4 個月), 120 度以下維持 1.78 元、超過 120 度累進級距大漲、一般家庭夏季用電增約 4 成。「冷氣開幾度最省電 / 26 度 / 定時 3 小時 / 變頻不關更省」search 6/1 起急升、持續整個夏季。YouTube「為了省電冷氣開 26 度 → 電費 2200 元」薪酸內幕 reinforce 厭世 register。**意義: 既有 summer-electric-quotes / renting-quotes / adulting-quotes day-of 啟動。**
+   - 建議: **既有 topic 更新**, 非新建 (5/30 OBSERVE → 6/1 day-of 啟動)。day-of「6/1 開跑 = 冷氣不敢開 / 我開 26 度被台電懲罰 2200 元 / 定時 3 小時涼了就關 vs 整晚開更省 = 我選窮 / 報稅剛繳完換繳電費 = 沒喘息」register family 2-3 items 6/1-6/15 編寫 priority 升 MEDIUM-HIGH。cross-link renting-quotes「房東偷裝 1 度 6 元 + 夏月加成」1 item。
+
+2. **報稅末日語錄 / Tax Deadline Quotes** — **EOD 退場日 (報稅 day 32/32, 6/1 週一 24:00 順延截止最終日)**:
+   - SEO rationale: 6/1 = 順延截止絕對最終日, 24:00 網路報稅關閉。「報稅最後一天 / 來不及 / 補稅分期」search 6/1 達全季最終峰、6/2 起斷崖。與 5/30、5/31、2027/4 結論一致 — 季節性過強、不獨立。
+   - 建議: **不獨立 carry 到 adulting-quotes / workplace-quotes / stock-investor-quotes**。6/1 末日當日 1-2 items 收尾 (「6/1 24:00 = 報稅這場馬拉松終於到終點 / 繳完報稅換繳夏月電費 = 沒有中場休息」), **6/2 起 carry 退場觀察, 本季報稅窗口 CLOSE。**
+
+3. **2026 新生代流行語語錄 / Gen-Z Slang (slang-quotes 更新, 非新建)** — **NEW 觀察信號加入既有 slang-quotes**:
+   - SEO rationale: 6 月新一波「觸爛 (台語『濺』, 形容吹牛誇大) / M3 (你要確定欸 簡寫) / 各各 (台語丟掉, 反感捨棄) / 暈爛 / 好解 / 超頂」Z 世代口頭禪 (Look/數位時代/udn 女子漾 多源)。register 與既有 9 個流行語可整合, 在地化 fit 高。
+   - 建議: **不獨立, 加入既有 slang-quotes register family**。「觸爛 = 同事報告吹牛 / M3 = 老闆畫大餅我傻眼 / 各各 = 把 deadline 各各」2-3 items 6/1-6/20 編寫 priority MEDIUM。
+
+### Content Trends
+
+- **6/1 夏月電價 day-of 開跑 (台電 + 潔客幫 + 早安樂活 + 威力 多源 2026)**: 6/1-9/30 (4 個月), 120 度以下 1.78 元不漲、超過累進大漲、一般家庭增約 4 成。冷氣 26 度 / 定時 3 小時 / 變頻不關更省 register 整夏熱門。**意義: summer-electric-quotes / renting-quotes / adulting-quotes / workplace-quotes day-of 啟動 priority 升 MEDIUM-HIGH**「6/1 開跑 = 冷氣不敢開 / 開 26 度被懲罰 2200 元 / 報稅剛繳完換繳電費 = 沒喘息 / 房東偷裝 1 度 6 元 + 夏月加成」register family 2-3 items 6/1-6/15 編寫。cross-link food-jokes「冰箱開門一邊涼一邊厭世」1 item。
+
+- **6/1 報稅順延截止 EOD 最終日 → 6/2 退場 (財政部 24:00 截止)**: 全季 search 最終峰、6/2 斷崖。**意義: adulting-quotes / workplace-quotes / stock-investor-quotes 6/1 末日當日 1-2 items 收尾 priority HIGH 最後一日**「6/1 24:00 = 報稅馬拉松終點 / 繳完報稅換夏月電費 = 沒中場休息 / 退稅是公司還我自己的錢」**6/2 起 carry 退場, 本季 CLOSE。** cross-link healing-quotes「一段過完就過了」1 item。
+
+- **6/1 畢業季主峰 day-of (鳳凰花開, 政大 5/30 → 6 月各大學 cluster)**: 6 月台灣大專/高中畢業典禮主峰月。「畢業語錄 / 祝福語 / 金句 / 畢業快樂」search 6/1 起急升持續整月。Pinkoi/TinTint/媽媽寶寶 100 句 long-tail 旺盛, 感性+勵志+幽默+友誼+謝師 多 register。**意義: graduation-quotes 6 月主峰 priority HIGH**「畢業快樂 = 失業倒數 / 考試是最簡單的關卡 / 助學貸款開始計息 / 友誼不會畢業 / 畢業 = 換班表開始 沒午休」感性+自嘲雙 register 3-4 items 6/1-6/20 編寫。cross-link healing-quotes / motivational-quotes / workplace-quotes (社會新鮮人)。
+
+- **6/1 端午 T-18 (6/19 端午, 6/19-6/21 連假請 4 休 9) (有肉 + city9 + Pinkoi + memes.tw 多源 2026)**: holiday-jokes day 10 of 28。carry「連假請 4 休 9 + 粽諧音 (粽=中/包粽=包中/高粽=高分/好事多端) + 田馥甄玉琴顧粽 + 蔡依林 + 接粽而來 + 粽所皆知 + 粽量級祝福 + 知道為啥有味道嗎你是粽子」reinforce 持續。memes.tw 端午梗圖 long-tail。food-jokes cross-link 1-2 items priority MEDIUM-HIGH。
+
+- **6/1 會考成績 6/5 公布 T-4 等成績 day 3 of 7 (carry)**: exam-quotes「等成績 = 一年最長 7 天 + A++ B++ 標示 + 白老鼠 + 浮力魔王題」register 6/5 公布前上線目標 priority MEDIUM-HIGH。cross-link healing-quotes「等成績焦慮 = 結果還沒出來結果都不算」1-2 items。6/18 志願選填 + 7/7 分發 cluster carry。
+
+- **6/1 流行語 cluster carry + 新信號 (Look + 數位時代 + udn 女子漾 + Shopee + 石頭問路 多源 2026)**: 既有 9 個 (咩噗/甘阿捏/言小/澳打/高麗菜那桌/朋朋/接住/ㄅㄆㄇ評分/超派) + **6/1 NEW**「觸爛 (台語濺=吹牛誇大) / M3 (你要確定欸) / 各各 (台語丟掉=反感捨棄) / 暈爛 / 好解 / 超頂 / pdf=破防 / 雪山救狐狸 (AI 反轉短片, 狐狸報恩→醬板鴨復仇)」。**意義: slang-quotes / witty-comebacks priority MEDIUM**「觸爛 = 同事報告吹牛 / M3 = 老闆畫大餅 / 各各 = 把 deadline 各各 / pdf = 報稅補稅破防」register family 2-4 items 6/1-6/20 編寫。
+
+- **6/1 暑假追劇旺季前哨 (奇奇筆記 + Beauty321 + Bella + UHK 多源 2026)**: 陸劇《家業》(楊紫/韓東君 5/17, 42 集 製墨家族)、《佳偶天成》(任嘉倫/王鶴潤 4/25)、《逐玉》(張凌赫/田曦薇)、《雨霖鈴》《白日提燈》Disney+ cluster。韓劇《春日狂熱》tvN 浪漫喜劇 + 《信號 2》《Moving 異能 2》待播。**意義: drama-quotes / drama-binge-quotes / cdrama-period-quotes (Q3 觀察) 6 月 carry priority 中**「家業製墨家族鬥 / 逐玉甜寵 / 暑假追劇 = 一集接一集 = 我作業 0」register 1-2 items 6 月編寫。Q3 暑假主峰再評估獨立。
+
+- **6/1 全球 TikTok viral carry (Punsloverz + Filmora + Replug 多源 2026)**:「365 buttons (Tamara, 一年 365 顆按鈕 if-you-know)」+「City Boy (Gravity Falls 2022 → 2026 回潮, 重事業輕感情 unbothered)」+「Scientology Building Speedrun」+「Corporate NPC (5/31 新, 辦公室腳本化互動)」+「Saxophone Gets Louder 持續」。**意義: witty-comebacks / workplace-quotes / programmer-jokes / motivational-quotes priority MEDIUM**「City Boy = 我已讀不回老闆 unbothered / Corporate NPC = 我開會時的我 / 365 buttons = 一年 365 個 deadline / saxophone louder = 老闆 5:55 寄信」register 1 item per topic 候選。
+
+- **6/1 美國父親節 T-20 (US 6/21/2026) / 台灣父親節 8/8 仍遠**: fathers-day-quotes 早期觀察。台灣 8 月才主檔, zh-tw 暫不啟動, 7 月初 T-37 起 drafting。en「Dad jokes for Father's Day」可預備。priority LOW 觀察。
+
+- **6/1 政治/敏感 SKIP 區**: 國會預算戰 / 中國軍演 / 民眾黨主席 / 海巡衝突 / 苗栗麻疹 carry SKIP 不變。不適合 funtexthub fun text 定位。
+
+### Existing Topic Updates
+
+- **summer-electric-quotes / renting-quotes (6/1 夏月電價 day-of 啟動 priority 升 MEDIUM-HIGH)**: 5/30 OBSERVE → **6/1 day-of**「6/1 開跑 = 冷氣不敢開 / 26 度被懲罰 2200 元 / 定時 3 小時 vs 整晚開更省 = 我選窮 / 房東偷裝 1 度 6 元 + 夏月加成 / 兩個月一張帳單 = 一次心痛兩個月」register family 2-3 items 6/1-6/15 編寫。
+
+- **adulting-quotes (報稅 6/1 EOD 最終日 + 夏月電費 day-of 雙信號 priority HIGH 最後一日)**: 5/30-5/31 carry「末日 24 小時 + 順延 + 預填補稅 + 咩噗」+ **6/1 NEW**「6/1 24:00 = 報稅馬拉松終點 / 繳完報稅換夏月電費 = 沒中場休息 / 退稅是公司還我自己的錢」末日收尾 1-2 items, **6/2 起報稅 register 退場**, 電費 register 接棒。
+
+- **workplace-quotes (報稅 EOD + 夏月電費 + Corporate NPC priority HIGH→MEDIUM)**: 5/31 carry「月底 + 報稅末日雙倒數 + Corporate NPC」+ **6/1 NEW**「6/1 報稅終點 + 夏月電費開跑 + 6/19 端午 + 7/3 五月天 = 6 月連環 / City Boy = 我已讀老闆 unbothered」2-3 items 編寫。
+
+- **graduation-quotes (6/1 畢業季主峰 day-of priority HIGH)**: 5/30-5/31 carry「政大 day-of + 鳳凰花 vs 學貸 + 失業倒數」+ **6/1 NEW**「畢業快樂 = 失業倒數 / 考試是最簡單的關卡 / 助學貸款開始計息 / 友誼不會畢業 / 畢業 = 換班表開始 沒午休」感性+自嘲雙 register 3-4 items 6/1-6/20 編寫 priority HIGH。cross-link adulting / healing / motivational / workplace。
+
+- **exam-quotes (會考成績 6/5 公布 T-4 等成績 day 3 of 7)**: carry「等成績 = 一年最長 7 天 + A++ B++ + 白老鼠 + 浮力魔王」+ healing cross-link 6/5 前上線目標 priority MEDIUM-HIGH。
+
+- **holiday-jokes / food-jokes (端午 T-18 day 10 of 28)**: carry「請 4 休 9 + 粽諧音 (包中/高粽/好事多端/接粽而來) + 田馥甄玉琴顧粽 + 粽量級祝福 + 你是粽子」reinforce。food-jokes「冰箱開門一邊涼一邊厭世 + 端午米飯包子粽子」1-2 items priority MEDIUM-HIGH。
+
+- **slang-quotes (39 items, 9 既有 + 6/1 NEW 觸爛/M3/各各/暈爛/好解/超頂/pdf破防/雪山救狐狸)**: carry 持續 + 新信號「觸爛 = 報告吹牛 / M3 = 老闆畫大餅 / 各各 = 把 deadline 各各 / pdf = 報稅補稅破防」register family 2-4 items 6/1-6/20 編寫 priority MEDIUM。
+
+- **healing-quotes (末日安慰 + 等成績安慰 + 畢業季安慰 三窗口)**: carry「等成績 7 天 = 一年最長 / 末日一天過完就過了 / 畢業一段過完就過了 / 6 月連環大事 = 接住自己」2-3 items 6/1-6/15 編寫 priority MEDIUM-HIGH。
+
+- **drama-quotes / drama-binge-quotes (6/1 暑假追劇前哨 + 古裝陸劇 cluster carry)**: carry「逐玉甜寵 + 陳皮糖 + 雨霖鈴武俠」+ **6/1 NEW**「家業製墨家族鬥 / 佳偶天成 / 暑假追劇 = 一集接一集 = 我作業 0」1-2 items 6 月編寫 priority 中。
+
+- **witty-comebacks / programmer-jokes / motivational-quotes (6/1 TikTok viral City Boy + Corporate NPC)**: carry「saxophone louder + 365 buttons + Corporate NPC」+ **6/1 NEW**「City Boy = 我已讀不回 unbothered / Corporate NPC = 我開會時的我 / 365 buttons = 365 個 deadline」register 1 item per topic 候選 priority MEDIUM。
+
+- **stock-investor-quotes (報稅 EOD + 退稅進股市 carry)**: 「6/1 退稅進來先進股市 / 賣股繳稅 = 認賠」carry priority MEDIUM。
+
+- **mom-quotes / breakup-quotes / zodiac-quotes / wedding-quotes / dog-quotes / cat-quotes / couple-jokes / cold-jokes / korean-drama-quotes / pet-memorial-quotes / insomnia-quotes / service-quotes / fitness-quotes / diet-quotes / self-love-quotes / dark-humor / sweet-quotes / cheesy-pickups / travel-quotes / absurd-wisdom**: organic 觀察期, 無新 6/1 強信號。sweet/cheesy carry「古裝甜寵 + 朋朋 + 咩噗」organic; travel carry「端午連假 + 想澳打」organic; dark-humor KitKat heist 6 月 opportunistic low 不變。
+
+### Updated Action Priority
+
+1. **[HIGH — 6/1 夏月電價 day-of 啟動]** summer-electric-quotes / renting-quotes / adulting-quotes「6/1 開跑 / 26 度被懲罰 2200 / 定時 vs 整晚 / 房東偷裝 1 度 6 元」2-3 items 6/1-6/15 編寫 priority 升 MEDIUM-HIGH。
+2. **[HIGH — 6/1 報稅 EOD 最終日 → 6/2 退場]** adulting / workplace / stock-investor「6/1 24:00 終點 / 繳完報稅換電費 / 退稅是公司還我的錢」1-2 items 末日收尾, **6/2 起報稅 register CLOSE 退場觀察**。
+3. **[HIGH — 6/1 畢業季主峰 day-of]** graduation-quotes「失業倒數 / 考試最簡單 / 助學貸款計息 / 友誼不畢業 / 換班表沒午休」3-4 items 6/1-6/20 編寫 priority HIGH。cross-link 4 topics。
+4. **[HIGH — 6/1-6/19 端午 day 10 of 28]** holiday-jokes 端午 expansion 7-8 items + food-jokes cross-link 2-3 items 6/1-6/19 上線 (粽諧音 + 田馥甄 + 請 4 休 9)。
+5. **[MEDIUM-HIGH — 6/5 會考成績公布 T-4 等成績 day 3 of 7]** exam-quotes「等成績 7 天 = 一年最長 + A++ B++」+ healing cross-link 6/5 前上線。
+6. **[MEDIUM-HIGH — 6/1 三窗口安慰]** healing-quotes「等成績 + 末日 + 畢業季 = 接住自己 / 一段過完就過了」2-3 items 6/1-6/15 編寫。
+7. **[MEDIUM — 6/1 流行語 cluster + 新信號]** slang-quotes / witty-comebacks「觸爛 / M3 / 各各 / pdf 破防 / 雪山救狐狸 + 9 既有」2-4 items 6/1-6/20 編寫。
+8. **[MEDIUM — 6/1 暑假追劇前哨 → Q3 主峰]** drama-quotes / drama-binge-quotes / cdrama-period-quotes (Q3 觀察)「家業 / 佳偶天成 / 逐玉 / 一集接一集 = 作業 0」1-2 items 6 月編寫。Q3 暑假主峰評估獨立。
+9. **[MEDIUM — 6/1 TikTok viral City Boy + Corporate NPC]** witty-comebacks / workplace-quotes / programmer-jokes / motivational「City Boy unbothered / Corporate NPC / 365 buttons」1 item per topic 候選。
+10. **[MEDIUM — 6/1 釋票 carry → 7/3 五月天 T-32]** motivational / drama-quotes「等等族 / 5525+2 / 13 米恐龍 / Back to That Day」1-2 items carry priority 中。
+11. **[FLAG — 7 月初 T-37 預備]** 父親節 (8/8 台灣 / 6/21 美國) drafting。「爸爸 = WiFi + 科技支援 + 笑話冷 + ATM 吐鈔給媽」6 register。7 月初起 drafting。
+12. **[NEW OBSERVE — Q3 7 月演唱會旺季]** concert-ticket-quotes (拓元/玉山卡/票價/黃牛/站票/釋票 6 sub-register) 候選評估。
+13. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period-quotes / drama-binge-quotes (家業 + 雨霖鈴 + 逐玉 古裝劇 cluster) 候選獨立評估, 暫 carry。
+14. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
+15. **[CLOSED — 6/2 EOD]** 報稅季 5/1-6/1 黃金窗口結束。6/2 起報稅 register 退場 carry organic, 2027/4 報稅季前再評估 tax-season 獨立 (季節性過強不獨立結論不變)。
+16. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 苗栗麻疹 全 SKIP, 不適合 fun text 定位。
