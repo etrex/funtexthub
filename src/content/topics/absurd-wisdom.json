@@ -4675,6 +4675,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-189",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.zhihu.com/question/482233311",
+      "sourceNote": "「我知道你很急，但你先別急」廢話文學經典變體，重新改寫",
+      "tags": ["廢話文學", "情緒", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我知道你現在很忙，但你可以先不要忙。\n\n等你不忙的時候，自然就有空了。\n\n心理學家表示，這個說法雖然沒有幫到你，但確實沒有錯。",
+          "editorNote": "傳給整天喊忙的同事或朋友，看他氣到沒空回你",
+          "variations": [
+            "我知道你很累，但你累的時候休息一下，就會比較不累。"
+          ]
+        },
+        "en": {
+          "content": "I know you're really busy right now, but you could just not be busy.\n\nWhenever you stop being busy, you'll naturally have free time.\n\nPsychologists confirm this advice doesn't help you, but it isn't wrong either.",
+          "editorNote": "Send to the friend who's always complaining they're swamped, then watch them get too annoyed to reply",
+          "variations": [
+            "I know you're tired, but if you rest when you're tired, you'll end up less tired."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-190",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://knowyourmeme.com/editorials/collections/25-technically-true-statements-no-one-can-argue-with",
+      "sourceNote": "「you can drink cement, but only once」technically true 風格，改寫為廢話文學",
+      "tags": ["廢話文學", "哲學", "安全"],
+      "i18n": {
+        "zh-tw": {
+          "content": "任何東西你都可以嘗試吃一次。\n\n至於能不能吃第二次，那要看你第一次吃完還在不在。",
+          "editorNote": "傳給那種什麼都想嘗鮮、看到新口味就要試的朋友",
+          "variations": [
+            "每件危險的事你都做得到，只是有些事你只做得到一次。"
+          ]
+        },
+        "en": {
+          "content": "You can try eating absolutely anything once.\n\nWhether you get a second try depends entirely on whether you're still around after the first.",
+          "editorNote": "Send to the friend who has to taste every new flavor and tries everything at least once",
+          "variations": [
+            "You're capable of doing any dangerous thing — it's just that some of them you can only do one time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-191",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.boredpanda.com/technically-true-things/",
+      "sourceNote": "雞是恐龍的 technically true 觀察，改寫為廢話文學",
+      "tags": ["廢話文學", "動物", "知識"],
+      "i18n": {
+        "zh-tw": {
+          "content": "科學家說，雞其實是一種恐龍。\n\n所以你今天午餐吃的，嚴格來說，是一隻體型縮水、運氣也縮水的恐龍。\n\n這個事實對雞來說沒有任何好處。",
+          "editorNote": "吃炸雞的時候傳到群組，讓大家邊吃邊陷入沉思",
+          "variations": [
+            "鯨魚是哺乳類，所以海裡最大的動物，技術上跟你一樣都得換氣。"
+          ]
+        },
+        "en": {
+          "content": "Scientists say a chicken is, in fact, a kind of dinosaur.\n\nSo what you had for lunch was, strictly speaking, a dinosaur that shrank in both size and luck.\n\nThis fact does the chicken no favors whatsoever.",
+          "editorNote": "Drop this in the group chat while everyone's eating fried chicken so they chew and contemplate at the same time",
+          "variations": [
+            "A whale is a mammal, so the biggest animal in the ocean technically has to come up for air, just like you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-192",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "「我第一次去美國驚呆了，那麼多美國人」廢話文學風格，重新創作",
+      "tags": ["廢話文學", "旅遊", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我第一次去海邊的時候嚇了一跳，\n\n那裡居然有那麼多的海水。\n\n而且每一滴，據說都是濕的。",
+          "editorNote": "出去玩打卡時配這段文案，朋友會懷疑你是不是中暑了",
+          "variations": [
+            "我第一次去夜市才發現，原來夜市裡賣的東西，幾乎全部都是可以買的。"
+          ]
+        },
+        "en": {
+          "content": "The first time I went to the beach, I was stunned —\n\nthere was an unbelievable amount of seawater there.\n\nAnd every single drop of it, I'm told, was wet.",
+          "editorNote": "Pair this with a vacation photo and your friends will wonder if you got heatstroke",
+          "variations": [
+            "First time I went to a night market, I realized nearly everything they sell there is, in fact, available for purchase."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-193",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.sohu.com/a/895491666_121124291",
+      "sourceNote": "「情況就是這麼個情況，具體什麼情況還得看情況」廢話文學經典，重新改寫",
+      "tags": ["廢話文學", "職場", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問題就是這個問題，至於是什麼問題，\n\n要等我們搞清楚問題之後才知道是什麼問題。\n\n在那之前，問題還是個問題。",
+          "editorNote": "開會被問「現在到底什麼狀況」時，可以照念，氣氛保證凝結",
+          "variations": [
+            "計畫是有的，至於計畫是什麼，等計畫出來你就知道了。"
+          ]
+        },
+        "en": {
+          "content": "The problem is the problem. As for what the problem actually is,\n\nwe'll only know what the problem is once we've figured out the problem.\n\nUntil then, the problem remains a problem.",
+          "editorNote": "Recite this verbatim in a meeting when someone asks what the situation is — the room will freeze",
+          "variations": [
+            "There is a plan. As for what the plan is, you'll find out once the plan is out."
+          ]
+        }
+      }
     }
   ]
 }

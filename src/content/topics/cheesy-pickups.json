@@ -5442,6 +5442,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-196",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "食物",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我手搖飲都點正常甜，今天破例改無糖。」\n「為什麼？」\n「想留點額度，因為等等看到你就夠甜了。」",
+          "editorNote": "排隊買飲料、揪外送時超好接的一句，把『無糖』的反差當鋪陳，最後再轉甜。曖昧初期到穩定期都通用，講完可以順勢問對方要喝什麼",
+          "variations": [
+            "我今天故意點無糖，怕喝完再看到你會甜到蛀牙",
+            "店員問我幾分糖，我說隨便，反正我的甜都給你了"
+          ]
+        },
+        "en": {
+          "content": "\"I always get my drinks regular sweet, but today I went sugar-free.\"\n\"Why?\"\n\"Saving room — seeing you in a bit is gonna be plenty sweet.\"",
+          "editorNote": "An easy line to drop while waiting in line for boba or ordering takeout. Use the 'sugar-free' contrast as setup, then flip it sweet. Works from early talking stage to dating — follow up by asking what they want to order.",
+          "variations": [
+            "Went sugar-free on purpose today — figured seeing you would already be too sweet otherwise.",
+            "Barista asked how sweet I wanted it; I said whatever, I already gave all my sweetness to you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-197",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "可愛",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「一個禮拜有七天，你猜我最喜歡哪一天？」\n「星期五？」\n「是有你的那幾天，所以其實是每一天。」",
+          "editorNote": "走可愛溫馨路線的對話款，對方通常會猜放假日，反差更明顯。聊到行程、週末計畫時很好順勢丟出，語氣放輕鬆別太用力",
+          "variations": [
+            "我月曆上每天都圈起來了，因為每天都有你",
+            "別人最愛週五，我最愛的是訊息裡有你的那一天"
+          ]
+        },
+        "en": {
+          "content": "\"There are seven days in a week — guess which one's my favorite?\"\n\"Friday?\"\n\"The ones with you in them, so basically all of them.\"",
+          "editorNote": "A sweet, cozy conversational line — they'll usually guess a weekend day, which makes the flip land harder. Great to slide in when talking about plans or the weekend; keep it light, don't oversell it.",
+          "variations": [
+            "I circled every day on my calendar — every one of them has you in it.",
+            "Everyone loves Fridays; my favorite is any day there's a text from you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-198",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "諧音",
+        "搞笑"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道咖啡豆最厲害的本事是什麼嗎？」\n「磨成咖啡？」\n「是讓我整天都『豆』在想你。」",
+          "editorNote": "諧音梗款，『豆』諧音『都』，搞笑路線。咖啡廳、早餐店、上班遞咖啡時最自然，講完記得自己先笑一下化解尷尬",
+          "variations": [
+            "我不喝美式了，因為我已經對你『苦』盡甘來",
+            "咖啡可以提神，但讓我一整天清醒的是你"
+          ]
+        },
+        "en": {
+          "content": "\"You know what coffee beans are best at?\"\n\"Getting ground up?\"\n\"Keeping me 'bean' thinking about you all day.\"",
+          "editorNote": "A pun line ('bean' / 'been'), squarely in the goofy lane. Most natural at a cafe, breakfast spot, or while handing someone a coffee — crack a little smile yourself afterward to ease the cringe.",
+          "variations": [
+            "I quit drinking espresso — you already perk me up just fine.",
+            "Coffee keeps me awake, but you're the reason I'm up thinking all night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-199",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "食物",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道我最喜歡吃哪種麵嗎？」\n「拉麵？」\n「是你的心『裡面』。」",
+          "editorNote": "經典『麵／裡面』諧音的對話款，可愛又好懂。吃飯、宵夜、聊美食時順手就能丟，對方通常會邊翻白眼邊笑，效果很穩",
+          "variations": [
+            "我最愛的不是義大利麵，是住進你心裡面",
+            "別人挑麵看湯頭，我挑的是能不能住進你裡面"
+          ]
+        },
+        "en": {
+          "content": "\"Wanna know my favorite kind of dish?\"\n\"Pasta?\"\n\"A spot in your heart — table for one, please.\"",
+          "editorNote": "A cute, easy-to-get food line in dialogue form. Toss it out over dinner, late-night snacks, or any food chat — they'll usually roll their eyes and laugh, which means it landed.",
+          "variations": [
+            "My favorite dish isn't on any menu — it's a reservation in your heart.",
+            "People pick restaurants by the reviews; I'm just hoping for a seat in your heart."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-200",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "搞笑",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我最近在練習當植物。」\n「蛤？為什麼？」\n「因為我想光合作用，只要有你這道光就夠了。」",
+          "editorNote": "搞笑開場再轉甜的對話款，『當植物』的荒謬感會先讓對方愣住。聊到耍廢、養植物、曬太陽時很好接，重點是前面要講得一本正經",
+          "variations": [
+            "我决定當向日葵了，反正我整天都朝著你轉",
+            "我不用充電，因為看你一眼就滿格了"
+          ]
+        },
+        "en": {
+          "content": "\"I've been practicing being a plant lately.\"\n\"Huh? Why?\"\n\"So I can photosynthesize — turns out you're the only light I need.\"",
+          "editorNote": "A goofy setup that flips sweet; the absurd 'being a plant' bit makes them pause first. Easy to drop when talking about lazing around, houseplants, or soaking up sun — just deliver the opener with a totally straight face.",
+          "variations": [
+            "I've decided to be a sunflower — I spend all day turning toward you anyway.",
+            "I don't need to charge my battery; one look at you and I'm at full power."
+          ]
+        }
+      }
     }
   ]
 }

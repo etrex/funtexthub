@@ -3833,6 +3833,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-157",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.healgoodcounseling.com/blog/mentalhealthawarenessmonth2026",
+      "sourceNote": "Inspired by Healgood Counseling 2026 'healing is not linear' theme; rewritten on progress not being a straight line",
+      "tags": ["療癒", "康復", "過程", "慢慢來"],
+      "i18n": {
+        "zh-tw": {
+          "content": "好起來這件事，不是一條直線。\n有時候往前兩步，又退回來一步，那不是退步，那就是真實的康復。",
+          "editorNote": "給那種因為「明明上週還好好的，怎麼又掉回來」而責怪自己的人。療癒會反覆，倒退也是過程的一部分。適合在覺得自己又回到原點、很沮喪的時候讀。",
+          "variations": [
+            "退回來一點不代表前面都白走了，你還是在往前的路上。",
+            "情緒會起伏，這不是你做錯了什麼。"
+          ]
+        },
+        "en": {
+          "content": "Getting better isn't a straight line.\nSometimes you move two steps forward and slip one step back — that's not regression, that's what real recovery looks like.",
+          "editorNote": "For people who blame themselves when they 'were fine last week and somehow slid back.' Healing loops; the backslides are part of it. Good to read when you feel like you've returned to square one and it's crushing you.",
+          "variations": [
+            "Slipping back a little doesn't undo the distance you covered. You're still on the way forward.",
+            "Your mood will rise and fall. That doesn't mean you did something wrong."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-158",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://blog.innertune.com/healing-quotes/",
+      "sourceNote": "Inspired by innertune.com 'emotions are messengers' theme; rewritten on feelings as messengers rather than problems",
+      "tags": ["療癒", "情緒", "接受", "正念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "情緒不是要被消滅的麻煩，\n它們比較像來敲門的訊息：嘿，有些事你還沒好好看見。",
+          "editorNote": "給那種一有負面情緒就急著趕走、覺得自己「不該這樣想」的人。情緒在告訴你一些事，先聽聽看，再決定要不要照做。適合在被某種說不上來的煩躁卡住的時候讀。",
+          "variations": [
+            "與其問「我幹嘛又這樣」，不如問「它想告訴我什麼」。",
+            "壞情緒不是敵人，是還沒被聽懂的自己。"
+          ]
+        },
+        "en": {
+          "content": "Emotions aren't problems to be eliminated.\nThey're more like messengers knocking at the door: hey, there's something you haven't really looked at yet.",
+          "editorNote": "For people who rush to chase away every negative feeling and tell themselves they 'shouldn't think this way.' Emotions are pointing at something — listen first, then decide what to do. Good to read when you're stuck in a vague irritation you can't name.",
+          "variations": [
+            "Instead of 'why am I like this again,' try asking 'what is this trying to tell me.'",
+            "A bad mood isn't the enemy. It's a part of you that hasn't been understood yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-159",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.blurtitout.org/quotes/healing-quotes",
+      "sourceNote": "Inspired by blurtitout.org 'allowed to begin again' theme; rewritten on permission to start over without a quota",
+      "tags": ["療癒", "重新開始", "自我接納", "希望"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你可以重新開始，\n想重來幾次就重來幾次，沒有人在數你用掉了多少次。",
+          "editorNote": "給那種覺得「我已經試太多次了，再失敗就太丟臉」的人。重來沒有上限，也沒有人在旁邊計分。適合在又想放棄、卻又捨不得放棄的拉扯時刻讀。",
+          "variations": [
+            "失敗不會用完你重來的額度，因為根本沒有額度這回事。",
+            "今天又重新開始一次，這件事本身就值得肯定。"
+          ]
+        },
+        "en": {
+          "content": "You're allowed to begin again —\nas many times as you need. No one is keeping count of how many you've used up.",
+          "editorNote": "For people who feel like 'I've already tried too many times, failing again would be humiliating.' There's no cap on starting over, and no one's keeping score on the sidelines. Good to read in that tug-of-war when you want to quit but can't quite bring yourself to.",
+          "variations": [
+            "Failing doesn't burn through your do-overs, because there's no such thing as a limit on them.",
+            "You started over again today. That alone is worth something."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-160",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://univself.com/awaken-yourself-gently-2/",
+      "sourceNote": "Inspired by univself.com '用最溫柔的方式把自己打醒' theme; rewritten on gentleness softening the world's sharp edges",
+      "tags": ["療癒", "溫柔", "自我疼惜", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "當你願意對自己溫柔一點，\n這個世界尖銳的地方，好像也跟著變鈍了。",
+          "editorNote": "給那種習慣用嚴厲鞭策自己、覺得溫柔等於鬆懈的人。你怎麼對自己，會決定你怎麼感受整個世界。適合在被一整天的壓力磨得很硬的晚上讀。",
+          "variations": [
+            "對自己兇，世界就跟著兇；對自己軟一點，日子也會跟著鬆一點。",
+            "溫柔不是軟弱，是你選擇先善待自己。"
+          ]
+        },
+        "en": {
+          "content": "The moment you choose to be a little gentler with yourself,\nthe sharp edges of the world somehow start to feel duller too.",
+          "editorNote": "For people who drive themselves with harshness and equate gentleness with slacking off. How you treat yourself shapes how the whole world feels to you. Good to read on a night when a full day of pressure has left you feeling hard and brittle.",
+          "variations": [
+            "Be harsh with yourself and the world turns harsh too. Soften toward yourself, and the days loosen up a little.",
+            "Gentleness isn't weakness. It's choosing to treat yourself well first."
+          ]
+        }
+      }
     }
   ]
 }

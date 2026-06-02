@@ -885,6 +885,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-039",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.cool3c.com/article/222009",
+      "sourceNote": "防黃牛新招：購票前設答題關卡考驗是否真粉，須答對才能進入購票流程",
+      "tags": ["真粉考題", "驗證", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了擋黃牛，\n買票前要先答題：\n「歌手的出道年份是？」\n\n我答錯了。\n\n喜歡一個人喜歡十年，\n結果連入場資格\n都被一題考掉。",
+          "editorNote": "真粉考題機制是 2026 防黃牛新招，常考倒老粉。傳給因為一題答錯被擋在門外的朋友",
+          "variations": [
+            "崩潰版：「我背得出他每張專輯的順序，卻記不住他的出道年份。系統判定：你不夠愛。」"
+          ]
+        },
+        "en": {
+          "content": "To block scalpers,\nyou answer a quiz before buying:\n'What year did the artist debut?'\n\nI got it wrong.\n\nTen years of loving someone,\nand my entry pass\ngets revoked by one trivia question.",
+          "editorNote": "Anti-scalper fan-quiz gates are the new 2026 trend, and they often trip up the most devoted fans. Send to a friend locked out over a single wrong answer",
+          "variations": [
+            "Meltdown version: 'I can recite the track order of every album, but blanked on the debut year. System verdict: you don't love them enough.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-040",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.gvm.com.tw/article/116784",
+      "sourceNote": "強實名制升級為「人、證、臉三合一」，入場需人臉辨識比對證件",
+      "tags": ["人臉辨識", "強實名制", "入場", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "強實名制：\n人、證、臉，三合一。\n\n進場前要刷臉。\n\n我搶不到票就算了，\n現在連我的臉\n都要被檢查及不及格。",
+          "editorNote": "人臉辨識入場是 2026 強實名制最新規格。傳給對著閘門鏡頭被刷臉刷到緊張的朋友",
+          "variations": [
+            "焦慮版：「人臉辨識三次失敗。系統說『查無此人』。我站在大巨蛋門口，開始懷疑我是不是真的存在。」"
+          ]
+        },
+        "en": {
+          "content": "Hardcore real-name entry:\nperson, ID, and face — all three must match.\n\nYou get scanned before you walk in.\n\nMissing the ticket was bad enough.\nNow even my face\nhas to pass an exam.",
+          "editorNote": "Face-recognition entry is the latest tier of strict real-name systems. Send to a friend sweating in front of the turnstile camera",
+          "variations": [
+            "Anxious version: 'Failed the face scan three times. System says: no match found. Standing at the gate, I started questioning whether I exist.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-041",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://webbboxx.com/mayday",
+      "sourceNote": "拓元付款攻略：線上刷卡僅 5-10 分鐘結帳時限，ATM 轉帳 1 小時；搶到後付款卡關功虧一簣",
+      "tags": ["付款", "刷卡", "時限", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搶到了。\n\n然後刷卡頁面跳出：\n「請於 5 分鐘內完成付款」。\n\n我手抖、卡號打錯、\n簡訊驗證碼沒收到。\n\n搶到的那張票，\n在我手裡\n又活生生死了一次。",
+          "editorNote": "搶到後付款時限卡關是最痛的二次死亡。傳給好不容易搶到卻在刷卡頁陣亡的朋友",
+          "variations": [
+            "回放版：「搶票花 0.4 秒，付款給我 5 分鐘，我還是輸了。原來人生最遠的距離，是購物車到付款成功。」"
+          ]
+        },
+        "en": {
+          "content": "I got the ticket.\n\nThen the payment page popped up:\n'Complete checkout within 5 minutes.'\n\nMy hands shook, I fat-fingered the card number,\nthe SMS code never arrived.\n\nThe seat I'd just won\ndied a second death,\nright there in my hands.",
+          "editorNote": "Winning the seat only to time out at checkout is the cruelest second death. Send to a friend who made it to the cart and still lost",
+          "variations": [
+            "Replay version: 'Took 0.4 seconds to snag it, got 5 whole minutes to pay, still lost. Turns out the longest distance in life is from cart to confirmation.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-042",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.hk01.com/%E6%95%B8%E7%A2%BC%E7%94%9F%E6%B4%BB/60253313/",
+      "sourceNote": "科技黃牛以機器人模擬真人點擊、速通插件繞過排隊；真人粉絲根本搶不過程式",
+      "tags": ["科技黃牛", "機器人", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "對手是會自動點擊的機器人。\n\n它一秒按 300 下，\n我一秒按 2 下，\n還要喘口氣。\n\n這不是搶票，\n這是人類\n跟演算法的不對稱戰爭。",
+          "editorNote": "科技黃牛用程式輾壓真人是搶票季最無力的真相。傳給氣到想學寫程式的朋友",
+          "variations": [
+            "認輸版：「我跟機器人搶票，就像拿菜刀跟坦克對打。差別是坦克還會抽成 12 倍賣回給我。」"
+          ]
+        },
+        "en": {
+          "content": "My opponent is a bot that auto-clicks.\n\nIt fires 300 clicks a second.\nI manage two,\nand then I need to catch my breath.\n\nThis isn't a ticket sale.\nIt's an asymmetric war\nbetween a human and an algorithm.",
+          "editorNote": "Tech scalpers steamrolling real humans is the most demoralizing truth of the season. Send to a friend angry enough to take up coding",
+          "variations": [
+            "Surrender version: 'Fighting a bot for tickets is like bringing a kitchen knife to a tank fight. Difference is the tank then resells the tickets to me at 12x.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-043",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://tw.trip.com/blog/mayday-concerts-tw/",
+      "sourceNote": "五月天大巨蛋確定加場連唱 8 場（6/27-7/12）；加場票同樣秒殺",
+      "tags": ["加場", "八場", "秒殺", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "從 7 場加到 8 場。\n\n我以為機會多了一場，\n\n結果是\n讓我重新體驗了一次\n「11 點 04 分售完」\n的完整流程。\n\n加場加的不是票，\n是我的回憶。",
+          "editorNote": "加場票同樣秒殺，等於把搶票創傷重播一次。傳給滿懷希望搶加場結果又落空的朋友",
+          "variations": [
+            "輪迴版：「第 8 場開賣，我準時上線、準時被擠掉、準時心碎。一切都這麼準時，只有票不準時出現。」"
+          ]
+        },
+        "en": {
+          "content": "Seven shows became eight.\n\nI thought I'd gained one more chance.\n\nWhat I actually got\nwas a full rerun\nof the 'sold out at 11:04'\nexperience.\n\nThe added show didn't add a ticket.\nIt added a flashback.",
+          "editorNote": "Added-date tickets sell out just as fast, replaying the whole trauma. Send to a friend who got their hopes up for the extra show and whiffed again",
+          "variations": [
+            "Loop version: 'Eighth show went live. I logged in on time, got bounced on time, broke down on time. Everything was punctual except the ticket.'"
+          ]
+        }
+      }
     }
   ]
 }

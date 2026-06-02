@@ -5514,6 +5514,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-191",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "Merge conflict relationship joke, rewritten",
+      "tags": [
+        "git",
+        "版本控制",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我跟 Git 為什麼分手。\n我說：「我們之間衝突太多了，每次合在一起都要吵很久，最後還是得有人手動退讓。」",
+          "editorNote": "傳給每天都在解 merge conflict、解到懷疑人生的同事。",
+          "variations": [
+            "後來我們和好了，因為我學會了先溝通（git pull）再行動。",
+            "也可以說：『我跟 Git 的關係很穩定，穩定地每天衝突一次。』"
+          ]
+        },
+        "en": {
+          "content": "A friend asked why Git and I broke up.\nI said: \"Too many conflicts. Every time we tried to come together it turned into a long fight, and someone always had to back down by hand.\"",
+          "editorNote": "Send to the coworker who resolves merge conflicts all day and is starting to question their life choices.",
+          "variations": [
+            "We got back together once I learned to communicate (git pull) before acting.",
+            "Alt: 'Git and I have a very stable relationship — we stably conflict once a day.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-192",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://programmerhumor.io/stackoverflow-memes/rubber-duck-debugging/",
+      "sourceNote": "Rubber duck debugging joke, original rewrite",
+      "tags": [
+        "除錯",
+        "工程師思維",
+        "小黃鴨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟桌上的小黃鴨解釋我的程式 bug 解釋到一半，\n突然自己懂了問題在哪，\n然後我看著它，它看著我，\n我們都知道，這份功勞最後又是我的。",
+          "editorNote": "傳給那種卡住要先跟人講一遍才會通的工程師朋友，他們都養了一隻小黃鴨。",
+          "variations": [
+            "小黃鴨除錯法的精髓：問題不是它解的，但氣氛是它撐的。",
+            "升級版：對 AI 講一遍，結果還沒講完自己就想到答案了。"
+          ]
+        },
+        "en": {
+          "content": "I was halfway through explaining my bug to the rubber duck on my desk\nwhen I suddenly figured out the problem myself.\nThen I looked at it, it looked at me,\nand we both knew the credit was going to me again.",
+          "editorNote": "Send to the dev friend who has to explain a bug out loud before it clicks — they all keep a duck on the desk.",
+          "variations": [
+            "The essence of rubber duck debugging: the duck doesn't solve it, it just holds the vibe.",
+            "Upgraded version: explain it to an AI and solve it before you even finish the sentence."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-193",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "Senior dev still googling basics joke, rewritten",
+      "tags": [
+        "資深工程師",
+        "Google",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師的履歷：\n十六年經驗、帶過三個團隊、解過上千個 bug。\n資深工程師的瀏覽器：\n「git 怎麼還原上一個 commit」、「正則表達式怎麼寫」、「為什麼我的 docker 又爛了」。",
+          "editorNote": "傳給那種頭銜很資深、但每天還是離不開搜尋引擎的同事，他會默默點頭。",
+          "variations": [
+            "經驗的意義不是記得怎麼做，而是知道要搜尋哪個關鍵字。",
+            "也可以說：『資深的定義就是，你的搜尋紀錄已經夠開一門課了。』"
+          ]
+        },
+        "en": {
+          "content": "A senior developer's résumé:\nSixteen years of experience, led three teams, fixed thousands of bugs.\nA senior developer's search history:\n\"how to undo last git commit,\" \"how to write a regex,\" \"why is my docker broken again.\"",
+          "editorNote": "Send to the coworker with the impressive title who still can't survive a day without a search engine. Expect a quiet nod.",
+          "variations": [
+            "Experience isn't remembering how to do it — it's knowing exactly which keywords to search.",
+            "Alt: 'Senior means your search history is long enough to teach a course.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-194",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Test in production one-liner, rewritten into scene",
+      "tags": [
+        "測試",
+        "正式環境",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管：「你都怎麼測試程式？」\n工程師：「我不常測試，但只要我測試，就直接在正式環境測。」\n主管：「為什麼？」\n工程師：「因為使用者是最認真的測試員，而且還不用付他薪水。」",
+          "editorNote": "傳給那種上線前不寫測試、上線後全公司一起 debug 的團隊，笑中帶淚。",
+          "variations": [
+            "正式環境就是我的測試環境，使用者就是我的 QA。",
+            "也可以說：『我有寫測試啊，只是測試的名字叫做使用者回報。』"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"How do you test your code?\"\nDeveloper: \"I don't always test, but when I do, I do it in production.\"\nManager: \"Why?\"\nDeveloper: \"Because users are the most dedicated testers, and I don't even have to pay them.\"",
+          "editorNote": "Send to the team that skips tests before launch and then debugs as a group after. Laugh through the tears.",
+          "variations": [
+            "Production is my test environment, and users are my QA team.",
+            "Alt: 'I do write tests — they're just called user bug reports.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-195",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.boredpanda.com/programmer-funny-coding-jokes/",
+      "sourceNote": "Paranoia / git history joke, rewritten",
+      "tags": [
+        "git",
+        "黑歷史",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師走進圖書館，問館員有沒有關於妄想症的書。\n館員壓低聲音說：「有，就在你後面……藏在你的 git 紀錄裡，那些你以為刪掉的東西。」",
+          "editorNote": "傳給那種以為 force push 就能抹掉黑歷史、其實同事 reflog 都看得到的朋友。",
+          "variations": [
+            "你刪掉的不是程式碼，只是當下的勇氣，紀錄它都還記得。",
+            "也可以說：『git 是唯一一個你想忘記，它卻幫你記一輩子的東西。』"
+          ]
+        },
+        "en": {
+          "content": "A developer walks into a library and asks for a book about paranoia.\nThe librarian whispers: \"We have one. It's right behind you... hidden in your git history, in all the stuff you thought you deleted.\"",
+          "editorNote": "Send to the friend who thinks a force push erases their shame — meanwhile a coworker can still see it all in the reflog.",
+          "variations": [
+            "You didn't delete the code, you just deleted your courage. Git still remembers.",
+            "Alt: 'Git is the one thing that remembers everything you wish it would forget.'"
+          ]
+        }
+      }
     }
   ]
 }

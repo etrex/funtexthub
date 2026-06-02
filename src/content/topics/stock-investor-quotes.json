@@ -636,6 +636,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-026",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/index.html",
+      "sourceNote": "「鑽石手 / 紙手」HODL register；改寫原創",
+      "tags": ["鑽石手", "抱緊", "自嘲", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "網路上的人都說要當鑽石手，跌再多也要抱緊。\n我抱緊了。\n抱到後來才發現，我手裡的不是鑽石，是一塊一直在融化的冰。\n現在我終於懂了：鑽石手跟死抱不放，差別只在於最後有沒有解套。",
+          "editorNote": "送給每個把『不停損』講成『鑽石手』的同溫層，貼在群組互相催眠",
+          "variations": [
+            "我以為我是鑽石手，結果只是手太僵，僵到不敢按賣出。",
+            "鑽石手的最高境界，是抱到那檔股票自己下市，幫你決定要不要賣。"
+          ]
+        },
+        "en": {
+          "content": "Everyone online says to have diamond hands — hold tight no matter how far it drops.\nSo I held tight.\nEventually I realized what's in my hands isn't a diamond, it's a block of ice that keeps melting.\nNow I get it: diamond hands and refusing to let go are the same thing — the only difference is whether you ever break even.",
+          "editorNote": "For the crowd that calls 'never cutting losses' having diamond hands. Share in the chat for mutual hypnosis",
+          "variations": [
+            "I thought I had diamond hands. Turns out my hands were just too stiff to hit the sell button.",
+            "Peak diamond hands is holding until the stock delists itself and makes the decision for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-027",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "「市場是把錢從沒耐心轉給有耐心的人」反諷 register；改寫原創",
+      "tags": ["耐心", "長期投資", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "書上說：市場是一個把錢從沒耐心的人，轉移到有耐心的人手上的工具。\n我看完很感動，決定當那個有耐心的人。\n結果我抱了五年，錢還是被轉走了。\n後來我才懂，原來我有耐心，但我接手的對象，比我更有耐心。",
+          "editorNote": "送給每個把名言抄在筆記本第一頁、結果還是賠錢的長期投資者",
+          "variations": [
+            "我很有耐心，耐心地看著本金一年一年慢慢消失。",
+            "市場確實會獎勵有耐心的人，只是那個人從來不是我。"
+          ]
+        },
+        "en": {
+          "content": "The book says: the market is a device for transferring money from the impatient to the patient.\nI was so moved I decided to be the patient one.\nFive years later, my money still got transferred away.\nThen I understood: I was patient — but whoever was on the other side was even more patient than me.",
+          "editorNote": "For the long-term investor who copied that quote onto page one of their notebook and still lost money",
+          "variations": [
+            "I'm very patient. Patiently watching my principal disappear a little more each year.",
+            "The market does reward the patient. That person has just never been me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-028",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://jokejuicer.com/stock-market-jokes/",
+      "sourceNote": "「梗股 / 迷因股 FOMO」register；改寫原創",
+      "tags": ["迷因股", "跟風", "FOMO", "追高"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全網都在瘋一檔迷因股，論壇、限動、群組，連我媽都傳訊息問我。\n我不想當最後一個知道的人，於是我衝了。\n結果我不是最後一個知道的人，我是最後一個進場的人。\n那檔股票把全網的笑話都講完之後，最後一個笑話留給了我。",
+          "editorNote": "送給每個被迷因股熱潮 FOMO、結果接到最後一棒的跟風仔",
+          "variations": [
+            "迷因股的笑點我都看懂了，唯一沒看懂的是我自己也變成了笑點。",
+            "我以為我在玩梗，後來發現梗在玩我。"
+          ]
+        },
+        "en": {
+          "content": "The whole internet was hyping a meme stock — forums, stories, group chats, even my mom texted to ask about it.\nI didn't want to be the last one to know, so I sent it.\nTurns out I wasn't the last to know. I was the last to buy.\nThat stock told every joke on the internet, and saved the final punchline for me.",
+          "editorNote": "For the trend-chaser who got FOMO'd into a meme stock and caught the very last bag",
+          "variations": [
+            "I got every joke about the meme stock. The one I missed was that I had become one.",
+            "I thought I was in on the meme. Turns out the meme was in on me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-029",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://udn.com/news/story/12806/9517691",
+      "sourceNote": "「設停損但手動取消」紀律自欺 register；改寫原創",
+      "tags": ["停損", "紀律", "自嘲", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我這次很有紀律，認真設了停損點。\n股價跌到停損點的那一刻，我有更紀律的動作——把停損點往下移。\n移了三次之後，我終於達成一個成就：一個永遠不會被觸發的停損點。\n紀律的精髓，原來是對自己很有原則地破例。",
+          "editorNote": "適合貼在每次手指停在『取消委託』上方猶豫的那一秒提醒自己",
+          "variations": [
+            "我的停損點很會跑，每次股價快碰到，它就先閃了。",
+            "我設停損是為了心安，取消停損是為了帳面好看。"
+          ]
+        },
+        "en": {
+          "content": "This time I had discipline — I set a real stop-loss.\nThe instant the price hit it, I made an even more disciplined move: I dragged the stop lower.\nThree drags later, I unlocked an achievement: a stop-loss that can never be triggered.\nThe essence of discipline, it turns out, is making exceptions for yourself with great principle.",
+          "editorNote": "For the second your finger hovers over 'cancel order' — read this first",
+          "variations": [
+            "My stop-loss is a great runner. Every time the price gets close, it bolts first.",
+            "I set the stop for peace of mind, then cancel it to keep the statement looking nice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-030",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "「打開對帳單像開盲盒」register；改寫原創",
+      "tags": ["對帳單", "盲盒", "厭世", "焦慮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在打開對帳單，對我來說是一種開盲盒的體驗。\n紅的、綠的、深綠的、墨綠到發黑的，每天都是驚喜。\n唯一的差別是，別人的盲盒打開有東西，我的盲盒打開，是少一塊。\n我終於擁有了一個收藏：滿滿一櫃的負數。",
+          "editorNote": "送給每個打開對帳單前要先深呼吸的同好，配收盤後的傍晚服用",
+          "variations": [
+            "我的對帳單比恐怖片還刺激，因為它是真的。",
+            "別人收集公仔，我收集套牢的成本價，而且越收越多。"
+          ]
+        },
+        "en": {
+          "content": "Opening my brokerage statement these days is basically a blind-box experience.\nRed, green, dark green, green so deep it's nearly black — every day is a surprise.\nThe only difference is that other people's blind boxes contain something. Mine open to reveal one less chunk of money.\nI've finally built a collection: a full cabinet of negative numbers.",
+          "editorNote": "For everyone who takes a deep breath before opening their statement. Best taken in the evening after the close",
+          "variations": [
+            "My account statement is scarier than a horror movie, because mine is real.",
+            "Other people collect figurines. I collect underwater cost-basis entries, and the collection keeps growing."
+          ]
+        }
+      }
     }
   ]
 }

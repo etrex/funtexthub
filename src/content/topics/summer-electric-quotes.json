@@ -704,6 +704,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-030",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.youtube.com/watch?v=QsbaLmvI9DE",
+      "sourceNote": "尖峰電價暴漲 3.5 倍 凌晨洗衣服省錢 register；改寫原創",
+      "tags": ["離峰電價", "凌晨", "洗衣服", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家：「尖峰時段電價暴漲，建議凌晨再洗衣服。」\n於是我家現在的作息是：白天上班，晚上加班，凌晨兩點起來洗衣服。\n為了省那幾塊錢，我把自己活成了一台 24 小時運轉的家電。",
+          "editorNote": "傳給那個真的設半夜鬧鐘起來洗衣服的省錢戰士，敬他的黑眼圈",
+          "variations": [
+            "離峰電價的真相：省下來的錢，剛好等於我熬夜買的眼霜。",
+            "凌晨兩點的洗衣機聲，是這個時代最勵志也最心酸的背景音樂。"
+          ]
+        },
+        "en": {
+          "content": "Expert: 'Peak rates are spiking, so do your laundry after midnight.'\nSo now my schedule goes: work all day, overtime all evening, wake up at 2 AM to run the washer.\nTo save a few bucks, I've turned myself into a 24/7 household appliance.",
+          "editorNote": "Send to the savings warrior who actually sets a 2 AM alarm for laundry — salute the eye bags",
+          "variations": [
+            "The truth about off-peak rates: what I save equals exactly what I spend on under-eye cream.",
+            "A washing machine running at 2 AM is the most inspiring and most depressing soundtrack of our era."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-031",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "夏月電價一般家庭增加 70% register；改寫原創",
+      "tags": ["夏月電價", "漲價", "70%", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞：「夏月電價一開跑，一般家庭電費平均增加 70%。」\n我：「70% 耶，這如果是薪水該有多好。」\n台電：「不，這只用在會讓你變窮的地方。」",
+          "editorNote": "傳給那個看到「電費漲 70%」標題就先把冷氣關掉的同事，純屬本能反應",
+          "variations": [
+            "人生中所有的「漲 70%」，都精準地避開了我的存款。",
+            "夏月電價漲 70%，我的省電決心也漲 70%，可惜兩者都撐不過一個禮拜。"
+          ]
+        },
+        "en": {
+          "content": "News: 'Summer rates kick in, raising the average household bill by 70%.'\nMe: 'Seventy percent — imagine if that were my salary.'\nPower company: 'No. That number only applies to things that make you poorer.'",
+          "editorNote": "Send to the coworker who instinctively kills the AC the second they see a '70% hike' headline",
+          "variations": [
+            "Every '70% increase' in my life has carefully avoided my savings account.",
+            "Summer rates rose 70%, my resolve to save power rose 70% — sadly neither survived the week."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-032",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.pttweb.cc/bbs/WomenTalk/M.1714715134.A.E05",
+      "sourceNote": "PTT 大家怎麼省冷氣電費 太陽能 register；改寫原創",
+      "tags": ["太陽能", "省電", "PTT", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "鄉民：「想根本解決電費，不如裝太陽能板。」\n我：「裝太陽能板要先有屋頂。」\n我：「有屋頂要先有房子。」\n我：「有房子的人，根本不會在意這點電費。」\n結論：能煩惱電費，本身就是一種沒有屋頂的浪漫。",
+          "editorNote": "傳給那個被長輩建議「裝太陽能就好了啊」的無殼蝸牛朋友",
+          "variations": [
+            "解決電費的終極方法，從第一步就把我刷掉了。",
+            "太陽能板是有錢人的省電法，吹電風扇是我的。"
+          ]
+        },
+        "en": {
+          "content": "Internet: 'If you really want to fix your bill, just install solar panels.'\nMe: 'Solar panels need a roof.'\nMe: 'A roof needs a house.'\nMe: 'And anyone with a house doesn't care about this bill.'\nConclusion: being able to worry about the electric bill is its own kind of roofless romance.",
+          "editorNote": "For the renter friend whose relatives keep suggesting 'just get solar panels'",
+          "variations": [
+            "The ultimate fix for the electric bill filters me out at step one.",
+            "Solar panels are how rich people save power. A pedestal fan is how I do."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-033",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.youtube.com/watch?v=hHJnGv1Y-Xw",
+      "sourceNote": "電價漲 冷氣爽吹 27 度抗漲 降溫神器 register；改寫原創",
+      "tags": ["27度", "冷氣", "抗漲", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞教大家：「電價漲，冷氣設 27 度，再搭降溫神器抗漲。」\n所謂的降溫神器，我研究了半天，最後發現就是——少穿一件、多流一點汗、然後說服自己 27 度其實很舒服。\n抗漲成功的關鍵，原來是自我催眠。",
+          "editorNote": "傳給那個把冷氣設 27 度、然後一直跟你強調「其實沒有很熱」的朋友",
+          "variations": [
+            "對抗電價最強的神器，是你願意說服自己不熱的那顆心。",
+            "27 度抗漲法的精髓：身體覺得熱，但帳單覺得你成熟了。"
+          ]
+        },
+        "en": {
+          "content": "The news taught everyone: 'Rates are up — set the AC to 80°F and pair it with a cooling gadget to beat the hike.'\nI researched what that magic gadget was for ages, and it turned out to be: wear one less layer, sweat a little more, and convince yourself 80°F is actually comfortable.\nTurns out the key to beating the hike is self-hypnosis.",
+          "editorNote": "For the friend who sets the AC to 80°F and keeps insisting to you that 'it's really not that hot'",
+          "variations": [
+            "The strongest gadget against rising rates is your own willingness to believe you're not hot.",
+            "The essence of the 80°F method: your body feels the heat, but your bill thinks you've matured."
+          ]
+        }
+      }
     }
   ]
 }

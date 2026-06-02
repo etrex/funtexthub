@@ -1993,6 +1993,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-083",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://house.udn.com/house/story/123591/9395784",
+      "sourceNote": "2026 租補變相助長漲租 房東加價比補助多 register; rewritten original",
+      "tags": ["租補", "漲租", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "政府發我五千租金補貼，\n房東聽到的版本是「政府發我七千漲租許可」。\n我們聽的是同一則新聞，\n他翻譯成台幣的能力比我強太多了。",
+          "editorNote": "適合剛申請到租補、轉頭就被房東加價的朋友轉發，配上你的補助核定通知截圖",
+          "variations": [
+            "補助是政府給房客的，漲租是房東給房客的，最後拿到手的還是房東。",
+            "我以為租補是來救我的，沒想到它是來通知房東「這位房客有預算」的。"
+          ]
+        },
+        "en": {
+          "content": "The government gave me a five-thousand rent subsidy.\nWhat my landlord heard was 'the government gave me a permit to raise rent by seven.'\nWe read the same news article.\nHe's just far better at translating it into cash than I am.",
+          "editorNote": "Send to a friend who just got approved for the subsidy and immediately got hit with a hike — pair it with your approval-notice screenshot",
+          "variations": [
+            "The subsidy goes from the government to the tenant, the hike goes from the landlord to the tenant, and somehow it all ends up with the landlord.",
+            "I thought the subsidy was here to save me. Turns out it was here to tell my landlord 'this one has a budget.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-084",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://applealmondrealty.com/posts/8448",
+      "sourceNote": "租屋修繕 換燈泡熱水器誰負責 民法爭議 register; rewritten original",
+      "tags": ["報修", "熱水器", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "熱水器壞了，我問房東誰負責修，\n他說「先看是誰用壞的」。\n房子三十年，熱水器二十年，我住了八個月，\n但壞掉的責任，永遠是最後一個開的人。",
+          "editorNote": "傳給正在跟房東爭論修繕責任的朋友，提醒他民法上自然耗損本來就是房東要修",
+          "variations": [
+            "房東的邏輯：會漏水是房子老，要修水管是我手賤。",
+            "東西用二十年壞掉叫「天命」，我用八個月壞掉叫「人禍」，這台熱水器很懂政治。"
+          ]
+        },
+        "en": {
+          "content": "The water heater died. I asked my landlord who pays to fix it.\nHe said, 'First let's figure out who broke it.'\nThe building's thirty years old, the heater's twenty, and I've lived here eight months —\nbut somehow the blame always lands on whoever turned it on last.",
+          "editorNote": "Send to a friend arguing repair liability with their landlord — remind them that normal wear and tear is legally the landlord's problem",
+          "variations": [
+            "Landlord logic: a leak is the building being old, but fixing the pipes is me being careless.",
+            "Something breaking after twenty years is 'fate.' Me breaking it in eight months is 'human error.' This water heater really understands politics."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-085",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 market = identical landlords deciding competitive pricing meme; rewritten original",
+      "tags": ["漲租", "行情", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問房東為什麼又漲租，\n他說：「這是市場行情。」\n後來我才發現，所謂市場，\n就是一群房東圍在群組裡，決定今年要一起漲多少。",
+          "editorNote": "適合每次被「行情」兩個字打發的朋友轉發，這就是房東界的默契漲價",
+          "variations": [
+            "「行情」的定義：沒有人說得出來是誰決定的，但大家都默默跟著漲。",
+            "房東說是市場決定的，市場說它只是把房東說的話複述一遍。"
+          ]
+        },
+        "en": {
+          "content": "I asked my landlord why the rent went up again.\nHe said, 'It's just the market rate.'\nLater I figured out what 'the market' actually is:\na group of landlords in a chat deciding together how much to raise it this year.",
+          "editorNote": "Send to a friend who keeps getting brushed off with 'it's the market' — this is the landlord world's quiet coordinated hike",
+          "variations": [
+            "Definition of 'market rate': nobody can say who decided it, but everyone quietly raised it anyway.",
+            "The landlord says the market decides. The market says it's just repeating what the landlord told it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-086",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://cheezburger.com/25045253/31-renter-memes-that-give-experienced-tenants-the-landlord-special",
+      "sourceNote": "renting = paying impossible money sink still summons a demon meme; rewritten original",
+      "tags": ["設備", "老屋", "聲音", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "租屋就是一個很好玩的遊戲：\n你付了一筆付不起的錢，\n然後水槽還是會在半夜發出像在召喚惡魔的聲音。",
+          "editorNote": "傳給老屋住戶在深夜被各種怪聲嚇到睡不著的朋友，告訴他這真的不是鬼",
+          "variations": [
+            "我每月付一萬五，換來的服務是：水管會唱歌、地板會回話、牆壁會記仇。",
+            "別人玩遊戲付錢解鎖角色，我付房租解鎖各種我家從沒見過的聲音。"
+          ]
+        },
+        "en": {
+          "content": "Renting is a fun little game:\nyou pay an amount of money you can't actually afford,\nand your sink still makes a noise at midnight like it's summoning a demon.",
+          "editorNote": "Send to an old-building dweller lying awake spooked by mystery noises — reassure them it really isn't a ghost",
+          "variations": [
+            "I pay fifteen hundred a month and the services I get are: singing pipes, a talkative floor, and a wall that holds grudges.",
+            "Other people pay to unlock game characters. I pay rent to unlock sounds my apartment has never made before."
+          ]
+        }
+      }
     }
   ]
 }

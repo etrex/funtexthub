@@ -5294,6 +5294,110 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-193",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.weareteachers.com/math-jokes/",
+      "sourceNote": "Rewritten geometry pun, original triangle/circle bit",
+      "tags": [
+        "邏輯",
+        "數學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三角形對圓形說：「你這個人講話都沒重點。」\n\n圓形回：「對啊，因為我身上一個『角』都找不到。」",
+          "editorNote": "適合在數學課或跟理工朋友閒聊時講，講完一臉認真等對方反應",
+          "variations": [
+            "可以接：「那鈍角三角形呢？他永遠不會『對』，因為他從來沒『直』過。」"
+          ]
+        },
+        "en": {
+          "content": "The triangle said to the circle: \"You always talk without a point.\"\n\nThe circle replied: \"Of course — I don't have a single corner on me.\"",
+          "editorNote": "Good for math class or chatting with engineer friends; keep a straight face after delivering it",
+          "variations": [
+            "Follow up: \"And the obtuse triangle? He's never right — he was never quite straight either.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-194",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://punscorner.com/best-puns/",
+      "sourceNote": "Rewritten crab/shellfish charity pun",
+      "tags": [
+        "諧音",
+        "動物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼螃蟹從來不捐錢做公益？\n\n因為牠太『摳』了——你看牠那兩隻大鉗子，緊緊夾著不放！",
+          "editorNote": "適合在海產店或聚餐看到螃蟹時講給朋友聽",
+          "variations": [
+            "可以接：「那為什麼龍蝦比較大方？因為牠願意把自己『紅』出來。」"
+          ]
+        },
+        "en": {
+          "content": "Why do crabs never donate to charity?\n\nBecause they're a little too shellfish — just look at those claws, clamped shut and never letting go!",
+          "editorNote": "Good to tell at a seafood restaurant when a crab shows up on the table",
+          "variations": [
+            "Follow up: \"Why is the lobster more generous? Because it's willing to put itself out there and turn red.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-195",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://www.classpop.com/magazine/one-liner-jokes",
+      "sourceNote": "Rewritten elevator/steps one-liner",
+      "tags": [
+        "諧音",
+        "交通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我最近決定不搭電梯了。\n\n朋友問為什麼，我說：「因為我正在『一步一步』改掉壞習慣。」",
+          "editorNote": "適合爬樓梯爬到一半喘氣時，傳給朋友自嘲",
+          "variations": [
+            "可以接：「結果第三天我就放棄了，因為健康跟懶惰之間，懶惰先到『樓』。」"
+          ]
+        },
+        "en": {
+          "content": "I've decided to stop taking elevators.\n\nA friend asked why, and I said: \"Because I'm taking steps to break the habit.\"",
+          "editorNote": "Good to send to a friend, with a self-deprecating sigh, while you're catching your breath on the stairs",
+          "variations": [
+            "Follow up: \"I quit by day three — turns out laziness reached the ground floor before willpower did.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-196",
+      "dateAdded": "2026-06-02",
+      "sourceUrl": "https://punscorner.com/best-puns/",
+      "sourceNote": "Rewritten orange/juice race pun",
+      "tags": [
+        "諧音",
+        "水果"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼柳橙跑步比賽永遠拿不到第一？\n\n因為牠每次跑到一半，『汁』力就用完了。",
+          "editorNote": "適合在水果攤或榨果汁的時候講給朋友聽",
+          "variations": [
+            "可以接：「那檸檬呢？檸檬連起跑都不行，因為牠一開始就『酸』了。」"
+          ]
+        },
+        "en": {
+          "content": "Why does the orange never win a race?\n\nBecause halfway through, it always runs out of juice.",
+          "editorNote": "Good for the fruit stand or while squeezing fresh juice with friends",
+          "variations": [
+            "Follow up: \"And the lemon? It can't even start — it turns sour right out of the gate.\""
+          ]
+        }
+      }
     }
   ]
 }
