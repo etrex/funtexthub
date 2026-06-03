@@ -5587,6 +5587,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-201",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "科技",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你家的Wi-Fi是不是壞了？」\n「沒有啊，好好的。」\n「奇怪，那為什麼我一看到你就覺得訊號超強？」",
+          "editorNote": "科技梗的對話款，適合在咖啡廳或一起用手機時丟出來。重點是要假裝認真問，等對方一臉疑惑再翻轉",
+          "variations": [
+            "你是不是無線網路？因為我跟你之間連線超穩",
+            "我手機常常斷線，只有靠近你的時候滿格"
+          ]
+        },
+        "en": {
+          "content": "\"Is your Wi-Fi down or something?\"\n\"No, it's fine. Why?\"\n\"Weird, because every time I see you the signal feels insanely strong.\"",
+          "editorNote": "A tech-flavored line in dialogue form, perfect for a cafe or while you're both on your phones. The trick is to ask it dead seriously, then flip it once they look confused.",
+          "variations": [
+            "Are you Wi-Fi? Because the connection between us never drops.",
+            "My phone keeps losing signal — funny how it's at full bars whenever you're near."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-202",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "搞笑",
+        "恐龍"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道恐龍為什麼會絕種嗎？」\n「不知道，為什麼？」\n「因為那時候還沒有你，牠們活著也沒意思。」",
+          "editorNote": "冷知識開場的搞笑款，荒謬感很強。聊到電影、動物、博物館時很好接，講的時候表情越認真越好笑",
+          "variations": [
+            "恐龍那麼大隻都消失了，但我對你的喜歡一直都在",
+            "你笑起來的威力，大概可以讓滅絕的恐龍都復活"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know why the dinosaurs went extinct?\"\n\"No idea, why?\"\n\"Because you weren't around yet, so there was no point sticking around.\"",
+          "editorNote": "A fun-fact opener that flips goofy — high absurdity factor. Easy to drop when talking about movies, animals, or museums; the straighter your face, the harder it lands.",
+          "variations": [
+            "Even something as huge as a dinosaur disappeared, but how I feel about you never will.",
+            "Your smile is powerful enough to bring the extinct dinosaurs roaring back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-203",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "咖啡",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我點的拿鐵好像在吃醋。」\n「咖啡怎麼吃醋？」\n「因為它再香，也比不上你坐在我對面這麼甜。」",
+          "editorNote": "咖啡約會專用，現場有飲料就能即興演出。看著手中的杯子說最自然，適合第一次約會破冰",
+          "variations": [
+            "想一起去喝咖啡嗎？因為我對你的好感，多到一杯裝不下",
+            "我的咖啡都涼了，因為光看你就忘了喝"
+          ]
+        },
+        "en": {
+          "content": "\"I think my latte is getting jealous.\"\n\"How can coffee be jealous?\"\n\"Because no matter how sweet it is, it can't compete with you sitting across from me.\"",
+          "editorNote": "Made for coffee dates — improvise it whenever there's a drink in hand. Saying it while glancing at your cup feels most natural; great for breaking the ice on a first date.",
+          "variations": [
+            "Want to grab coffee? Because I like you more than one cup could ever hold.",
+            "My coffee went cold — turns out I forgot to drink it while looking at you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-204",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "",
+      "sourceNote": "",
+      "tags": [
+        "對話",
+        "搞笑",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我最近都改吃素了。」\n「為什麼突然吃素？」\n「因為菜單上沒有你，那我只好天天想你。」",
+          "editorNote": "經典『你是我的菜』的延伸對話版，多繞一個彎反而更有梗。吃飯、點餐、聊減肥時都能接，講完記得補一個無辜的表情",
+          "variations": [
+            "別人挑菜看新不新鮮，我只挑你這一道",
+            "我不是不吃肉，是想把胃口都留給你"
+          ]
+        },
+        "en": {
+          "content": "\"I've gone vegetarian lately.\"\n\"Why the sudden switch?\"\n\"Because you're not on any menu, so I just have to crave you instead.\"",
+          "editorNote": "A roundabout spin on the classic 'you're my type of dish' line — the extra detour makes it land better. Works over meals, ordering, or diet talk; follow up with your most innocent face.",
+          "variations": [
+            "Other people pick produce by freshness; I only ever pick you.",
+            "It's not that I gave up meat — I'm just saving my whole appetite for you."
+          ]
+        }
+      }
     }
   ]
 }

@@ -5659,6 +5659,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-196",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/copilot-has-ruined-code-reviewing-for-me-a0e9",
+      "sourceNote": "AI copilot code review humor — rewritten",
+      "tags": [
+        "AI",
+        "code review",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現代軟體開發的真相：\n朋友稱讚你的程式架構好優雅。\n你笑著收下，心裡很清楚有九成是 AI 寫的，\n而你唯一的貢獻，是知道什麼時候該按下 Tab。",
+          "editorNote": "傳給那種開會時很會講架構、其實 commit 都是 AI 補完的同事，他會假裝沒看到。",
+          "variations": [
+            "現在的工程能力，一半是會下提示詞，一半是知道哪一個建議不能接。",
+            "也可以說：『我不是寫了這段程式，我只是當了那個按 Tab 的人。』"
+          ]
+        },
+        "en": {
+          "content": "The truth about modern software development:\nYour friend compliments your elegant code architecture.\nYou smile and take the credit, knowing full well the AI wrote 90% of it,\nand your only real contribution was knowing when to hit Tab.",
+          "editorNote": "Send to the teammate who talks beautiful architecture in meetings but whose commits are all autocomplete — they'll pretend they didn't see this.",
+          "variations": [
+            "Modern engineering is half good prompting, half knowing which suggestion NOT to accept.",
+            "Alt: 'I didn't write this code, I was just the guy who pressed Tab.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-197",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "AI hallucination vs genius dilemma — rewritten",
+      "tags": [
+        "AI",
+        "debug",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點的工程師，盯著 AI 生成的程式碼，內心天人交戰：\n「這個解法到底是天才，還是我正在被一個跟 Stack Overflow 學寫程式的語言模型唬爛？」\n他想了三十秒，最後決定：先跑跑看再說。",
+          "editorNote": "傳給那種半夜還在 review AI 程式碼、分不清是神來一筆還是幻覺的朋友。",
+          "variations": [
+            "AI 寫的程式碼有兩種：看不懂的，跟看懂之後更害怕的。",
+            "也可以說：『我不是不信任 AI，我只是不信任凌晨兩點的自己看得出 bug。』"
+          ]
+        },
+        "en": {
+          "content": "A developer at 2 AM, staring at AI-generated code, deep in crisis:\n\"Is this solution actual genius, or am I being gaslit by a language model that learned to code from Stack Overflow?\"\nAfter thirty seconds of soul-searching, he decides: let's just run it and find out.",
+          "editorNote": "Send to the friend reviewing AI code at 2 AM, unable to tell brilliance from hallucination.",
+          "variations": [
+            "AI code comes in two flavors: the kind you don't understand, and the kind that scares you more once you do.",
+            "Alt: 'I don't distrust the AI, I distrust 2 AM me to spot the bug.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-198",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://programmerhumor.io/memes/stack-overflow",
+      "sourceNote": "Exiting Vim / Stack Overflow classic — rewritten",
+      "tags": [
+        "Vim",
+        "Stack Overflow",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "據統計，網路上「如何離開 Vim」的提問數量，\n已經超過了肉眼能看到的星星總數。\n而其中有一半的人，到現在還沒成功逃出來。",
+          "editorNote": "傳給那種不小心打開 Vim、只能默默關掉整個終端機逃跑的朋友。",
+          "variations": [
+            "進得去 Vim 是技術，出得來才是運氣。",
+            "也可以說：『:q! 是我學過最有用的一句程式碼。』"
+          ]
+        },
+        "en": {
+          "content": "Statistically, there are now more online questions about how to exit Vim\nthan there are stars in the observable universe.\nAnd half the people who asked still haven't made it out.",
+          "editorNote": "Send to the friend who opened Vim by accident and escaped by closing the entire terminal.",
+          "variations": [
+            "Getting into Vim is a skill. Getting out is luck.",
+            "Alt: ':q! is the single most useful line of code I've ever learned.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-199",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Out of cache / went broke pun — rewritten",
+      "tags": [
+        "雙關",
+        "cache",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師為什麼破產了？\n因為他把 cache 全部用光了。\n（cache 跟 cash 同音，工程師的錢跟記憶體一樣，清掉就再也回不來了。）",
+          "editorNote": "適合配早餐傳到群組裡的冷笑話，懂的人會邊翻白眼邊轉發。",
+          "variations": [
+            "他不是沒錢，他只是把 cash 清掉了，想說重開機就會回來。",
+            "也可以說：『我帳戶餘額跟我的可用記憶體一樣，永遠在快不夠用的邊緣。』"
+          ]
+        },
+        "en": {
+          "content": "Why did the developer go broke?\nBecause he used up all his cache.\n(Cache sounds like cash — and just like memory, once a developer clears it, it never comes back.)",
+          "editorNote": "A groaner for the morning group chat — the ones who get it will roll their eyes and forward it anyway.",
+          "variations": [
+            "He's not broke, he just cleared his cash and assumed a reboot would bring it back.",
+            "Alt: 'My bank balance is like my free RAM — permanently one tab away from running out.'"
+          ]
+        }
+      }
     }
   ]
 }

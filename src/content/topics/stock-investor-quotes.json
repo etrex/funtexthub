@@ -761,6 +761,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-031",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://udn.com/news/story/12806/9472204",
+      "sourceNote": "台股破4萬卻虧損 / 報酬率-36% 套牢 register；改寫原創",
+      "tags": ["創新高", "套牢", "厭世", "K型"],
+      "i18n": {
+        "zh-tw": {
+          "content": "大盤衝破四萬點那天，新聞標題寫著『全民同歡』。\n我打開對帳單，報酬率負三十六，一個人在角落同悲。\n原來指數創新高跟我有沒有賺錢，是兩件完全沒有關係的事。\n大盤過它的四萬，我守我的負三十六，互不打擾。",
+          "editorNote": "送給每個在大盤破關當天、自己卻還深套的同好，貼在群組互相取暖",
+          "variations": [
+            "指數的新高，是用我帳戶的新低換來的。",
+            "全民同歡的『全民』裡，查無此人。"
+          ]
+        },
+        "en": {
+          "content": "The day the index smashed through 40,000, the headline read 'everyone celebrates.'\nI opened my statement — down 36 percent — and celebrated alone in the corner, sobbing.\nTurns out a new all-time high on the index and whether I make money are two completely unrelated events.\nThe index keeps its 40,000, I keep my minus 36, and we leave each other in peace.",
+          "editorNote": "For everyone deeply underwater on the day the index broke out. Share in the chat for mutual comfort",
+          "variations": [
+            "The index's new high was paid for with the new low in my account.",
+            "Of all the 'everyone' supposedly celebrating, I am not on the list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-032",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://financhill.com/blog/investing/best-stock-market-jokes",
+      "sourceNote": "「broker retirement plan / 退休計畫是券商的」register；改寫原創",
+      "tags": ["券商", "退休", "手續費", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟券商一起規劃了一個退休計畫。\n計畫進行得很順利，再過幾年應該就能達標。\n唯一的小問題是：那個能順利退休的人，是我的營業員，不是我。\n我每筆手續費，都是在替別人的夢想集點。",
+          "editorNote": "適合在月底結算手續費、發現自己貢獻不少的時候自嘲",
+          "variations": [
+            "我努力交易了好多年，最後幫一個人達成了財務自由——可惜不是我。",
+            "我的本金是流動的，券商的業績是穩定的。"
+          ]
+        },
+        "en": {
+          "content": "My broker and I worked out a retirement plan together.\nIt's going great — a few more years and we should hit the target.\nThe only small catch: the person who gets to retire comfortably is my account rep, not me.\nEvery commission I pay is just collecting points toward somebody else's dream.",
+          "editorNote": "For the end-of-month moment when you tally up just how much you contributed in fees",
+          "variations": [
+            "I traded hard for years and finally helped someone reach financial freedom — sadly, not me.",
+            "My principal is volatile. My broker's bonus is stable."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-033",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "「market is bad but I slept like a baby — 每小時醒來哭一次」register；改寫原創",
+      "tags": ["失眠", "厭世", "焦慮", "看盤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我最近大盤這麼震盪，晚上睡得好嗎。\n我說睡得跟嬰兒一樣。\n他鬆了一口氣，說那很好啊。\n我說對啊，跟嬰兒一樣，每隔一兩個小時就醒來，醒來就哭一次，哭完繼續睡。",
+          "editorNote": "送給每個在盤勢動盪期間，半夜會莫名驚醒看手機的同好",
+          "variations": [
+            "我睡得很安穩，安穩到每次閉眼前都會先看一次美股期貨。",
+            "別人數羊入睡，我數庫存損益，數著數著就清醒了。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked if I've been sleeping okay with the market this choppy lately.\nI said I sleep like a baby.\nThey looked relieved, said that's great.\nI said yeah — just like a baby: I wake up every hour or two, cry a little, then go back to sleep.",
+          "editorNote": "For anyone who jolts awake at 3 a.m. to check their phone during a volatile stretch",
+          "variations": [
+            "I sleep peacefully — so peacefully that I check the overnight futures one last time before closing my eyes.",
+            "Other people count sheep to fall asleep. I count unrealized losses, and the counting wakes me right up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-034",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://money.udn.com/money/story/12040/8379220",
+      "sourceNote": "散戶三情緒『捨不得、不認輸、不甘心』register；改寫原創",
+      "tags": ["停損", "不認輸", "韭菜", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家分析散戶為什麼總是賠錢，列了三個原因：捨不得、不認輸、不甘心。\n我看完默默對號入座，三個全中。\n捨不得停損，不認輸所以加碼，不甘心所以又凹回去。\n別人是診斷報告，我這張是滿分成績單。",
+          "editorNote": "送給每個看散戶心理分析、結果發現在說自己的同好",
+          "variations": [
+            "專家說的散戶三大弱點，我把它活成了三大特長。",
+            "我不是看不懂這些道理，我是看懂了還是照樣犯。"
+          ]
+        },
+        "en": {
+          "content": "An expert broke down why retail traders always lose money, listing three reasons: can't let go, won't admit defeat, can't stand losing.\nI read it and quietly checked every box. Three for three.\nCan't let go, so I don't cut. Won't admit defeat, so I average down. Can't stand losing, so I dig back in.\nFor everyone else it's a diagnosis. For me it's a perfect-score report card.",
+          "editorNote": "For everyone who reads a retail-investor psychology breakdown and realizes it's describing them",
+          "variations": [
+            "The expert's three weaknesses of retail traders? I turned all three into core competencies.",
+            "It's not that I don't understand the lesson. I understand it and break the rule anyway."
+          ]
+        }
+      }
     }
   ]
 }

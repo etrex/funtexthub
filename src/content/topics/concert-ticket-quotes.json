@@ -1000,6 +1000,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-044",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://noscalper.moc.gov.tw/",
+      "sourceNote": "文化部「檢舉黃牛專區」官方檢舉平台上線；鼓勵粉絲線上舉報加價轉售與機器人掃票",
+      "tags": ["檢舉黃牛", "文化部", "正義", "搶票"],
+      "i18n": {
+        "zh-tw": {
+          "content": "政府開了一個「檢舉黃牛專區」。\n\n我沒搶到票，\n但我可以舉報。\n\n人生第一次，\n落榜的人\n變成了糾察隊。",
+          "editorNote": "官方檢舉黃牛平台上線是 2026 搶票季的正義出口。傳給沒搶到票但決定當賽博糾察隊的朋友",
+          "variations": [
+            "認真版：「票沒搶到，檢舉倒是按了 14 次。我為演藝圈秩序做的貢獻，比黃牛還積極。」"
+          ]
+        },
+        "en": {
+          "content": "The government launched a 'report-a-scalper' portal.\n\nI didn't get a ticket.\nBut I can file a report.\n\nFirst time in my life\nthe person who lost\nbecomes the hall monitor.",
+          "editorNote": "An official scalper-reporting channel is the season's justice outlet. Send to a friend who missed out but appointed themselves cyber hall-monitor",
+          "variations": [
+            "Earnest version: 'Got zero tickets, hit the report button 14 times. My contribution to industry order outpaced the scalpers themselves.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-045",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://www.weleadlaw.com/s/blog/268",
+      "sourceNote": "文創法規定轉售票券不得高於原票面價；手續費、交通成本均不得作為加價理由",
+      "tags": ["原價轉售", "法律", "黃牛", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "法律寫得很清楚：\n轉售不能高於原價，\n手續費不行、車馬費不行、\n連「我幫你排隊的辛苦」也不行。\n\n黃牛看完只說一句：\n\n「那我們改叫服務升級費。」",
+          "editorNote": "原價轉售法條與黃牛換湯不換藥的對比是搶票季的黑色幽默。傳給看到黃牛換名目加價的朋友",
+          "variations": [
+            "翻譯版：「法律：不准加價。黃牛：好，那我加的不是價，是『情感支援費』。」"
+          ]
+        },
+        "en": {
+          "content": "The law is crystal clear:\nno reselling above face value —\nno service fee, no travel cost,\nnot even 'the effort I spent queueing.'\n\nThe scalper read it and said:\n\n'Fine, we'll call it a service upgrade fee.'",
+          "editorNote": "Face-value-only resale law vs. scalpers' rebranding is peak dark humor. Send to a friend who spotted a scalper renaming the markup",
+          "variations": [
+            "Translation: 'Law: no markups. Scalper: cool, then it's not a markup, it's an emotional-support surcharge.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-046",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://www.cool3c.com/article/222009",
+      "sourceNote": "黃牛規避原價條款以綁物出售、以票換票、以物換票等間接加價手法繞過實名制",
+      "tags": ["綁物加價", "換票", "黃牛", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "黃牛說票原價賣。\n\n只是要搭一個\n「限量紀念馬克杯」。\n\n馬克杯定價 4,800,\n票面 1,525。\n\n我買的不是杯子，\n是一張被綁架的票。",
+          "editorNote": "綁物出售是黃牛規避原價條款的經典手法。傳給看到「原價附贈周邊」貼文心動的朋友當解毒劑",
+          "variations": [
+            "翻譯版：「原價票免費送，只要你先買我一個 4,800 的鑰匙圈。鑰匙圈會掉漆，票不會——但價格一樣掉智商。」"
+          ]
+        },
+        "en": {
+          "content": "The scalper swears the ticket's at face value.\n\nIt just comes bundled with\na 'limited-edition mug.'\n\nThe mug: $150.\nThe ticket's face value: $50.\n\nI'm not buying a mug.\nI'm buying a hostage ticket.",
+          "editorNote": "Bundled-merch sales are the classic way to dodge face-value laws. Send to the friend tempted by an 'at-cost ticket, free merch included' post",
+          "variations": [
+            "Translation: 'Ticket's free — you just have to buy my $150 keychain first. The keychain chips. The ticket doesn't. Your IQ does, equally.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-047",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://www.gvm.com.tw/article/125822",
+      "sourceNote": "文化部黃牛條款執法：累計受理 2,105 件加價轉售檢舉，已裁處 30 案、總罰逾 208 萬元",
+      "tags": ["裁罰", "執法", "黃牛", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "文化部公布戰績：\n收 2,105 件檢舉，\n罰了 30 件，\n總共 208 萬。\n\n黃牛兩年賺兩千萬，\n被罰 208 萬。\n\n這不叫裁罰，\n這叫營業稅。",
+          "editorNote": "高獲利低裁罰的對比是搶票季最無力的真相。傳給看到罰款新聞卻冷笑的朋友",
+          "variations": [
+            "認命版：「2,105 件檢舉換 30 件裁罰。中獎率 1.4%，比我搶票還低。連懲罰黃牛都這麼難中。」"
+          ]
+        },
+        "en": {
+          "content": "The ministry posts its scorecard:\n2,105 reports filed,\n30 cases penalized,\n$70K in total fines.\n\nScalpers make $600K in two years\nand pay $70K.\n\nThat's not a penalty.\nThat's a business tax.",
+          "editorNote": "High profit vs. tiny fines is the season's most demoralizing truth. Send to a friend who scoffed at the enforcement headline",
+          "variations": [
+            "Resigned: '2,105 reports, 30 penalties. Hit rate: 1.4% — lower than my odds in the presale. Even punishing scalpers is a lottery I lose.'"
+          ]
+        }
+      }
     }
   ]
 }

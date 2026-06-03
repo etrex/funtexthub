@@ -804,6 +804,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-034",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://www.pttweb.cc/bbs/Gossiping/M.1759970571.A.7C9",
+      "sourceNote": "鄉民「吹兩個月冷氣電費才 1205」炫耀文 register；改寫原創",
+      "tags": ["電費", "炫耀", "PTT", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人發文：「我冷氣吹整整兩個月，電費才一千出頭，是不是很省？」\n底下三百推都在問：你家到底是不開窗，還是根本不開冷氣，還是不住人。\n結論：在電費版炫耀省錢，跟在減肥版炫耀吃不胖一樣欠揍。",
+          "editorNote": "傳給那個每次都在群組貼低電費截圖、等大家拜託他教學的朋友",
+          "variations": [
+            "「我電費才一千」這種文，存在的唯一目的，就是讓我們其他人集體血壓升高。",
+            "電費低到可以發文炫耀，本身就是一種我這輩子達不到的成就。"
+          ]
+        },
+        "en": {
+          "content": "Someone posts: 'Ran my AC for two whole months and the bill was barely forty bucks. Pretty frugal, right?'\nThree hundred replies all asking the same thing: do you not open the windows, not run the AC, or not actually live there?\nConclusion: bragging about a low bill in a power-saving forum is as punchable as bragging about eating anything without gaining weight.",
+          "editorNote": "Send to the friend who keeps posting low-bill screenshots and waiting for everyone to beg for the secret",
+          "variations": [
+            "The 'my bill was only forty bucks' post exists for one reason: to raise the collective blood pressure of the rest of us.",
+            "Having a bill low enough to brag about is, in itself, an achievement I'll never reach."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-035",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1718601875.A.F49.html",
+      "sourceNote": "四人一隻倉鼠 冷氣 24 小時 電費 1700 register；改寫原創",
+      "tags": ["寵物", "冷氣", "電費", "倉鼠"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我家四個人加一隻倉鼠，主臥冷氣幾乎 24 小時開。\n月底帳單來，我盯著數字，轉頭看那隻在滾輪上跑步的倉鼠：\n「全家最不該負擔這筆錢的，是你，但全家最怕熱的，也是你。」",
+          "editorNote": "傳給那個夏天為了寵物不敢關冷氣、自己卻在客廳吹電風扇的朋友",
+          "variations": [
+            "夏天養寵物的真相：牠負責可愛，我負責付牠那份冷氣錢。",
+            "我家冷氣是為了倉鼠開的，我只是剛好住在同一個房間裡享福的人。"
+          ]
+        },
+        "en": {
+          "content": "Four people and one hamster in my place, master bedroom AC running nearly 24/7.\nThe bill arrives, I stare at the number, then turn to the hamster sprinting on its wheel:\n'The one who should least have to pay for this is you — and the one who can least handle the heat is also you.'",
+          "editorNote": "For the friend who won't kill the AC because of the pet, yet sits in the living room with a fan",
+          "variations": [
+            "The truth about summer pets: they handle the cute, I handle their share of the AC bill.",
+            "The AC runs for the hamster. I just happen to live in the same room and benefit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-036",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://punsvault.com/its-so-hot-jokes/",
+      "sourceNote": "「熱到電費寄警告簡訊」its-so-hot joke；改寫原創",
+      "tags": ["高溫", "電費", "簡訊", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天熱到什麼程度？\n熱到我手機跳出一封簡訊，不是天氣警報，是台電傳來的：\n「您好，偵測到您本期用電異常飆升，請問您是否需要協助——心理上的。」",
+          "editorNote": "傳給那個一收到電力公司任何通知就心驚膽跳的朋友，配一張手機鎖屏截圖",
+          "variations": [
+            "熱到我的電表開始用比我還快的速度數錢。",
+            "熱到連帳單都覺得不好意思，但還是照寄了。"
+          ]
+        },
+        "en": {
+          "content": "How hot was it today?\nSo hot my phone buzzed with a text — not a weather alert, but one from the power company:\n'Hi there, we've detected an unusual spike in your usage. Do you require assistance — emotionally?'",
+          "editorNote": "Send to the friend who flinches at any notification from the utility company — pair with a lock-screen screenshot",
+          "variations": [
+            "So hot my electric meter started counting money faster than I ever could.",
+            "So hot even the bill felt a little embarrassed — but mailed itself anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-037",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://punsvault.com/its-so-hot-jokes/",
+      "sourceNote": "「熱到溫度計情緒崩潰放棄」its-so-hot joke；改寫原創",
+      "tags": ["高溫", "溫度計", "崩潰", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天熱到牆上那支溫度計，量到一半，情緒崩潰，直接放棄人生。\n我跟它說：「沒事，我也是。」\n然後我們兩個一起，在 36 度的房間裡，靜靜地融化。",
+          "editorNote": "適合下午兩點熱到連抱怨都懶的時刻，配一張溫度計或溫度數字的照片",
+          "variations": [
+            "今天的溫度計不是壞了，是它看完數字後選擇逃避現實。",
+            "熱到溫度計都不想負責任了，那我又憑什麼振作。"
+          ]
+        },
+        "en": {
+          "content": "It was so hot today that the thermometer on my wall read halfway up, had an emotional breakdown, and just gave up on life.\nI told it: 'It's okay. Same.'\nThen the two of us quietly melted together in a 97-degree room.",
+          "editorNote": "For that 2PM moment when you're too hot to even complain — pair with a photo of a thermometer or temperature reading",
+          "variations": [
+            "The thermometer isn't broken — it just saw the number and chose denial.",
+            "If even the thermometer refuses to take responsibility, why should I pull myself together?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-038",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://fitcaptions.com/funny-summer-quotes/",
+      "sourceNote": "「夏天電費比房租還高」summer bachelor AC quote；改寫原創",
+      "tags": ["電費", "房租", "冷氣", "崩潰"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年夏天我達成一個從沒想過的成就：\n我的電費，比我的房租還高。\n房東收的是這個家的使用權，台電收的是這個家能不能住人的決定權。\n現在我才知道，誰才是真正的房東。",
+          "editorNote": "傳給那個某個月電費史詩級爆表、開始懷疑人生的租屋族朋友",
+          "variations": [
+            "當電費超過房租的那一刻，台電就正式變成我精神上的二房東。",
+            "我付房租買到一個空間，付電費才買到那個空間能活下去的權利。"
+          ]
+        },
+        "en": {
+          "content": "This summer I unlocked an achievement I never wanted:\nmy electric bill came in higher than my rent.\nThe landlord charges me for the right to use this place; the power company charges me for whether this place is livable at all.\nNow I finally know who the real landlord is.",
+          "editorNote": "For the renter friend whose bill went epically over budget one month and started questioning everything",
+          "variations": [
+            "The moment the electric bill passes the rent, the power company officially becomes my spiritual subletter.",
+            "Rent buys me the space. The electric bill buys me the right to survive in it."
+          ]
+        }
+      }
     }
   ]
 }

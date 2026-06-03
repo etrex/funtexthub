@@ -2093,6 +2093,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-087",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://house.ettoday.net/news/3095508",
+      "sourceNote": "為了省錢租雅房 室友超噁3行為 viral case; rewritten original",
+      "tags": ["雅房", "室友", "衛生", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了省三千塊租了雅房，\n結果室友洗澡不撿頭髮、上廁所不沖水、廚房永遠有一鍋上週的湯。\n我省下的房租，全拿去買漂白水跟心理諮商了。",
+          "editorNote": "傳給正在考慮租雅房省錢的朋友，先預警再陪他評估值不值得",
+          "variations": [
+            "雅房省下的不是錢，是你對人類的信任。",
+            "共用衛浴最可怕的不是排隊，是你永遠不知道下一個踩到的是水還是別人的人生。"
+          ]
+        },
+        "en": {
+          "content": "I rented a shared room to save three thousand a month.\nThen my roommate never picks the hair out of the drain, never flushes, and there's always a week-old pot of soup in the kitchen.\nEverything I saved on rent now goes to bleach and therapy.",
+          "editorNote": "Send to a friend weighing a cheaper shared room — warn them first, then help them decide if it's worth it",
+          "variations": [
+            "A shared room doesn't save you money. It costs you your faith in humanity.",
+            "The scariest part of a shared bathroom isn't the wait — it's never knowing whether the next thing you step in is water or someone else's life choices."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-088",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9528803",
+      "sourceNote": "房租水電網路拆開算 租屋族算雜支氣炸 viral case; rewritten original",
+      "tags": ["水電", "雜支", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東把租金拆成：房租、水費、電費、網路費、第四台、管理費、清潔費。\n我以為我在租房子，\n結果我在訂閱一個叫「活著」的方案，而且還是最貴的那一檔。",
+          "editorNote": "傳給每月被各種名目分項收費的朋友，提醒他簽約前把全部費用問清楚",
+          "variations": [
+            "房東的帳單比我手機的吃到飽方案還複雜，差別是手機至少網路是真的快。",
+            "我以為月租一萬，加完七種雜支變一萬五——這就是租屋界的「未稅價」。"
+          ]
+        },
+        "en": {
+          "content": "My landlord breaks the bill into: rent, water, electricity, internet, cable, building fee, and cleaning fee.\nI thought I was renting an apartment.\nTurns out I subscribed to a plan called 'Staying Alive' — and it's the premium tier.",
+          "editorNote": "Send to a friend nickel-and-dimed by itemized monthly charges — remind them to get every fee in writing before signing",
+          "variations": [
+            "My landlord's bill is more complicated than my unlimited phone plan. The difference is my phone's internet is actually fast.",
+            "I thought rent was a thousand. Add seven 'extras' and it's fifteen hundred — that's the rental world's version of 'plus tax.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-089",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://udn.com/news/story/120911/9472266",
+      "sourceNote": "狗拆20年舊按摩椅索賠12萬 惡房東開價 viral case; rewritten original",
+      "tags": ["押金", "賠償", "惡房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的狗咬壞了房東那張用了二十年的舊沙發，\n房東開價十二萬，說那是「古董」。\n用二十年叫古董，那我繳二十年房租，是不是也能升值？",
+          "editorNote": "傳給寵物不小心弄壞房東老舊家具、被獅子大開口的朋友，提醒他折舊本來就要算",
+          "variations": [
+            "房東的舊家具平常叫「堪用」，賠償的時候立刻變「全新」。",
+            "東西在房東手上叫折舊，在我手上叫毀損，這台沙發的身價跟著立場走。"
+          ]
+        },
+        "en": {
+          "content": "My dog chewed up the landlord's twenty-year-old couch.\nHe demanded twelve thousand, calling it an 'antique.'\nIf twenty years of use makes it an antique, do my twenty years of rent appreciate too?",
+          "editorNote": "Send to a friend whose pet wrecked an ancient piece of landlord furniture and got hit with an outrageous bill — remind them depreciation is a real thing",
+          "variations": [
+            "The landlord's old furniture is 'still usable' day to day, but becomes 'brand new' the moment compensation comes up.",
+            "In the landlord's hands it's depreciation. In my hands it's destruction. That couch's value depends entirely on whose side it's on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-090",
+      "dateAdded": "2026-06-03",
+      "sourceUrl": "https://house.udn.com/house/story/123591/9409658",
+      "sourceNote": "學生看房喊租金下月補 苦主搖頭 viral case; rewritten original",
+      "tags": ["房租", "看房", "拖欠", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房的時候他笑著說：「租金我下個月一起補。」\n那是我第一次知道，\n有些人連還沒住進來，就已經開始欠你錢了。",
+          "editorNote": "傳給準備把房間分租出去、卻遇到開口就要賒帳的房客的朋友，提醒他押金一定要先收滿",
+          "variations": [
+            "「下個月一起補」是租屋界最浪漫的謊言，因為它永遠不會兌現。",
+            "他連第一個月都付不出來，卻已經在規劃要怎麼跟我借第二個月。"
+          ]
+        },
+        "en": {
+          "content": "During the viewing he smiled and said, 'I'll just pay this month's rent next month.'\nThat was the first time I learned\nsome people start owing you money before they've even moved in.",
+          "editorNote": "Send to a friend about to sublet a room who's meeting tenants angling for credit on day one — remind them to collect the full deposit up front",
+          "variations": [
+            "'I'll catch up next month' is the most romantic lie in renting, because it never comes true.",
+            "He couldn't cover the first month, but he was already planning how to borrow the second from me."
+          ]
+        }
+      }
     }
   ]
 }
