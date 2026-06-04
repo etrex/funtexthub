@@ -861,6 +861,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-035",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "PTT 股版「別人恐懼我貪婪，別人小虧我破產」名言反諷 register；改寫原創",
+      "tags": ["巴菲特", "名言", "自嘲", "韭菜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "巴菲特說：別人恐懼時我貪婪，別人貪婪時我恐懼。\n我認真照做了。\n別人小虧的時候，我貪婪地加碼。\n別人停損出場的時候，我恐懼地不敢賣。\n同一句話，我活成了完全相反的結果。",
+          "editorNote": "送給每個把投資名言背得滾瓜爛熟、操作起來卻剛好相反的同好",
+          "variations": [
+            "投資金句我每句都會背，只是背完之後，照樣反著做。",
+            "別人恐懼我貪婪，別人小虧我破產，這句才是我的真實版本。"
+          ]
+        },
+        "en": {
+          "content": "Buffett said: be greedy when others are fearful, fearful when others are greedy.\nI followed it faithfully.\nWhen others took small losses, I got greedy and bought more.\nWhen others cut and left, I got fearful and couldn't sell.\nSame quote, and I lived out the exact opposite result.",
+          "editorNote": "For everyone who has every investing quote memorized and still trades the inverse of it",
+          "variations": [
+            "I can recite every famous investing quote. Then I do the opposite anyway.",
+            "Greedy when others fear, broke when others take a small loss — that's the real version for me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-036",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "PTT 股版「庫存綠到有牛在上面吃草」register；改寫原創",
+      "tags": ["庫存", "套牢", "厭世", "PTT"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我最近庫存還好嗎。\n我說好得很，綠意盎然。\n他說那不錯啊，環保。\n我說對，綠到都可以放牛上去吃草了，再過陣子應該還能搭個帳篷露營。",
+          "editorNote": "送給每個打開券商 APP，看到一整片綠油油的同好",
+          "variations": [
+            "我的對帳單比公園還綠，差別是公園讓人放鬆，我這個讓人血壓上升。",
+            "別人在陽台種花，我在帳戶裡種了一整片草原。"
+          ]
+        },
+        "en": {
+          "content": "A friend asked how my holdings were doing lately.\nI said great, lush and green all over.\nHe said nice, very eco-friendly.\nI said yeah, green enough to graze cattle on, and in a few weeks I might be able to pitch a tent and go camping.",
+          "editorNote": "For everyone who opens the brokerage app to a wall of green",
+          "variations": [
+            "My statement is greener than a public park. The difference is the park relaxes you and mine raises my blood pressure.",
+            "Other people grow flowers on the balcony. I grew an entire meadow inside my account."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-037",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://money.udn.com/money/story/12040/7907688",
+      "sourceNote": "「沒賣就不算賠 / 我還沒輸而不是我正在輸」register；改寫原創",
+      "tags": ["沒賣不算賠", "套牢", "自欺", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的投資哲學很簡單：只要沒按下賣出，就不算真的賠。\n所以我帳面上的負三十趴，在我心裡只是『暫時還沒回來』。\n用這套邏輯，我已經連續兩年沒有賠過任何一毛錢。\n我不是沒在輸，我只是堅持告訴自己『我還沒輸』。",
+          "editorNote": "送給每個用『沒賣就不算賠』催眠自己、實際上深套的同好",
+          "variations": [
+            "只要我不打開對帳單，我的資產就永遠是滿的。",
+            "帳面虧損不是虧損，是一種還沒兌現的樂觀。"
+          ]
+        },
+        "en": {
+          "content": "My investing philosophy is simple: as long as I don't hit sell, it's not a real loss.\nSo the minus 30 percent on my statement is, in my heart, just 'not back yet.'\nWith this logic, I haven't lost a single cent in two straight years.\nI'm not losing. I'm just stubbornly telling myself 'I haven't lost yet.'",
+          "editorNote": "For everyone deep underwater who hypnotizes themselves with 'it's not a loss until you sell'",
+          "variations": [
+            "As long as I never open the statement, my assets are forever intact.",
+            "An unrealized loss isn't a loss. It's optimism that hasn't been cashed in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-038",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "「How to make a small fortune: start with a large one」register；改寫原創",
+      "tags": ["小錢", "自嘲", "厭世", "本金"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我，要怎麼在股市裡賺到一筆小錢。\n我說很簡單，先帶一筆大錢進來就好。\n進場前我的存款是一大筆，現在剩一小筆。\n你看，我成功了，完美達成『賺到一筆小錢』的目標。",
+          "editorNote": "送給每個本金進場是一大筆、出場剩一小撮的同好",
+          "variations": [
+            "我在股市實現了財富的精簡化，從一大筆精簡到一小撮。",
+            "想把大錢變小錢，最快的方法就是相信自己的選股能力。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked me how to make a small fortune in the stock market.\nI said it's easy — just walk in with a large one first.\nBefore I entered, my savings were a big pile. Now they're a small pile.\nSee? I succeeded. Perfectly hit my target of 'making a small fortune.'",
+          "editorNote": "For everyone who walked in with a big stack and walked out with a handful",
+          "variations": [
+            "I achieved wealth minimalism in the market — downsized from a large fortune to a small one.",
+            "The fastest way to turn a big fortune into a small one is to trust your own stock-picking skills."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-039",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.cmoney.tw/notes/note-detail.aspx?nid=638506",
+      "sourceNote": "「賣掉它就漲、不賣它就跌」散戶詛咒 / 反指標自嘲 register；改寫原創",
+      "tags": ["反指標", "賣飛", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "群組裡有人問我看好哪一檔，他想跟。\n我認真分析了半天，最後推薦了一檔我自己重押的。\n隔天他傳訊息來：謝謝，我反著做，賺爛了。\n原來我在這個市場最大的價值，是當一個穩定的反指標。",
+          "editorNote": "送給每個被同好當成反指標、講什麼大家就反著做的同好",
+          "variations": [
+            "想知道一檔股票會不會漲，問我就對了，然後反著做。",
+            "我看好的標的，是市場最可靠的賣出訊號。"
+          ]
+        },
+        "en": {
+          "content": "Someone in the group chat asked which stock I liked, said he wanted to follow me in.\nI analyzed it carefully and recommended one I was heavily long.\nNext day he messaged: thanks, I faded you and made a killing.\nTurns out my greatest value in this market is being a reliable contrarian indicator.",
+          "editorNote": "For everyone whose friends treat them as a fade signal — whatever they call, do the opposite",
+          "variations": [
+            "Want to know if a stock will pump? Ask me, then do the opposite.",
+            "The names I'm bullish on are the market's most reliable sell signal."
+          ]
+        }
+      }
     }
   ]
 }

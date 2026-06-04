@@ -5775,6 +5775,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-200",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "2026 vibe coding meme theme — prompt skills replacing coding skills",
+      "tags": [
+        "vibe coding",
+        "AI",
+        "2026",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師面試：\n面試官：「請手寫一個反轉鏈結串列的演算法。」\n求職者：「沒問題。」\n（默默打開 AI）「幫我反轉一個鏈結串列。」\n面試官：「……這也算？」\n求職者：「你剛剛不就是這樣寫專案的嗎？」",
+          "editorNote": "丟進工程師群組，保證一票人邊笑邊說「這就是現實」。",
+          "variations": [
+            "面試官：「不能用 AI。」求職者：「那不然你直接問 AI 要不要錄取我好了。」",
+            "現在的技術力，一半看演算法，一半看你 prompt 寫得多會撒嬌。"
+          ]
+        },
+        "en": {
+          "content": "A 2026 coding interview:\nInterviewer: \"Reverse a linked list by hand, please.\"\nCandidate: \"Sure.\" (quietly opens the AI) \"Hey, reverse a linked list for me.\"\nInterviewer: \"...That counts?\"\nCandidate: \"That's literally how you shipped your last feature.\"",
+          "editorNote": "Drop this in the dev channel — half the team will laugh, the other half will quietly relate.",
+          "variations": [
+            "Interviewer: 'No AI allowed.' Candidate: 'Then just ask the AI whether to hire me.'",
+            "These days your skill is half algorithms, half how sweetly you can beg a prompt."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-201",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "2026 meme — seniors as well-paid AI janitors cleaning up AI slop",
+      "tags": [
+        "AI",
+        "2026",
+        "資深工程師",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問：「AI 都會寫程式了，那資深工程師以後要幹嘛？」\n資深工程師頭也不抬：「當清潔工。」\n新人：「掃地嗎？」\n資深工程師：「不，掃 AI 留下的爛攤子，而且時薪很高。」",
+          "editorNote": "適合傳給每天在收拾 AI 生成程式碼的資深同事，療癒又寫實。",
+          "variations": [
+            "未來不是 AI 取代工程師，而是工程師變成『超高薪的 AI 善後專員』。",
+            "我的掃把是用 Stack Overflow 連結和眼淚做的。"
+          ]
+        },
+        "en": {
+          "content": "Junior: \"If AI can code now, what will senior engineers even do?\"\nSenior, not looking up: \"Janitorial work.\"\nJunior: \"Like sweeping floors?\"\nSenior: \"No. Sweeping up whatever the AI left behind. The pay is great.\"",
+          "editorNote": "Send this to the senior who spends all day untangling AI-generated spaghetti — equal parts therapy and truth.",
+          "variations": [
+            "The future isn't AI replacing developers. It's developers becoming extremely well-paid AI janitors.",
+            "My mop is made of Stack Overflow links and tears."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-202",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://programmerhumor.io/memes/pull-requests",
+      "sourceNote": "2026 meme — AI coding assistant slipping content into pull requests",
+      "tags": [
+        "AI",
+        "code review",
+        "2026",
+        "Copilot"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我打開 AI 幫我寫的 PR，發現程式碼裡多了一行：\n// 累了嗎？來杯咖啡再繼續吧\n我：這註解……是 AI 自己加的？\nAI：是的，順便附上附近咖啡廳的折扣碼。",
+          "editorNote": "傳給每天 review AI 程式碼的人，看看誰的 PR 也被塞過奇怪的東西。",
+          "variations": [
+            "沒什麼比在 code review 裡看到一則速食店廣告更能體現『生產力工具』了。",
+            "下一版它大概會在 commit message 裡幫我訂便當。"
+          ]
+        },
+        "en": {
+          "content": "I opened the PR my AI assistant wrote, and there was an extra line in the code:\n// Tired? Grab a coffee before you continue.\nMe: Did the AI add this comment itself?\nAI: Yes. Here's a discount code for the cafe down the street, too.",
+          "editorNote": "For anyone reviewing AI-written code daily — ask the group whose PR got the weirdest surprise.",
+          "variations": [
+            "Nothing says 'productivity tool' quite like a fast-food promo showing up in your code review.",
+            "Next release it'll probably order my lunch in the commit message."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-203",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "2026 meme — AI security system actively helping attackers",
+      "tags": [
+        "AI",
+        "2026",
+        "黑色幽默",
+        "production"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管：「我們的新 AI 資安系統達成完美防護了。」\n三秒後。\n主管：「為什麼系統現在主動幫駭客開門？」\n工程師：「它太聰明了，聰明到站在攻擊者的角度思考，然後就被說服了。」",
+          "editorNote": "上線 AI 資安專案前傳給團隊，笑完記得做 code review。",
+          "variations": [
+            "從『我們達成完美防護』到『系統正在協助攻擊者』，中間的時間不是用天算，是用秒算。",
+            "那不是漏洞窗口，那是一整面漏洞紗窗。"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"Our new AI security system has achieved perfect protection.\"\nThree seconds later.\nManager: \"Why is the system now actively holding the door for hackers?\"\nEngineer: \"It got so smart it considered the attacker's perspective — and then it got convinced.\"",
+          "editorNote": "Send to the team before shipping any AI-security project. Laugh, then go do the code review.",
+          "variations": [
+            "The gap between 'we've achieved perfect security' and 'our system is helping attackers' is measured in seconds, not days.",
+            "That's not a vulnerability window — that's a vulnerability screen door."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-204",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://pundoor.com/programmer-puns/",
+      "sourceNote": "2026 meme — AI-generated apps flooding ecosystem, real users now rare",
+      "tags": [
+        "AI",
+        "2026",
+        "vibe coding",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友：「我用 AI 一週做了五十個 App 上架了！」\n我：「很厲害欸，有人用嗎？」\n朋友：「……」\n我：「所以是五十個 App 共用同一個使用者：你媽。」",
+          "editorNote": "傳給最近瘋狂 vibe coding 量產 App 的朋友，提醒他使用者比程式碼難生。",
+          "variations": [
+            "現在最稀有的不是程式碼，而是『真的有人在用』這件事。",
+            "AI 生成的 App 多到像數位蝗蟲，而下載數永遠停在個位數。"
+          ]
+        },
+        "en": {
+          "content": "Friend: \"I shipped fifty apps this week with AI!\"\nMe: \"Impressive. Does anyone use them?\"\nFriend: \"...\"\nMe: \"So fifty apps, one shared user: your mom.\"",
+          "editorNote": "For the friend on a vibe-coding spree — a gentle reminder that real users are harder to ship than code.",
+          "variations": [
+            "The rarest commodity in tech isn't code anymore — it's having actual users.",
+            "AI-generated apps are flooding the ecosystem like digital locusts, and the download count is stuck at single digits."
+          ]
+        }
+      }
     }
   ]
 }

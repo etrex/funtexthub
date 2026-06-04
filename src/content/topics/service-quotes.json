@@ -2878,6 +2878,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-120",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reframes the Dcard 心情板 「奧客經典語錄」 thread; the 「這是你們的問題不是我的問題」 deflection line rewritten as a one-way ownership transfer is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人最愛說：「這是你們的問題，不是我的問題。」\n奇怪的是，\n錯的時候永遠是我們的問題，\n對的時候卻又變成他的功勞。\n原來『問題』也是看心情分配的。",
+          "editorNote": "傳給今天剛被推鍋的同事。出包了是「你們的問題」，順利了是「我早就說過」，這套邏輯客人練得比我們的 SOP 還熟。",
+          "variations": [
+            "客人的「不是我的問題」，翻譯成中文是：我不想負責，但我想罵人。",
+            "錯的歸我們，對的歸他——這不是服務，是替客人保管所有他不想要的責任。"
+          ]
+        },
+        "en": {
+          "content": "The customer's favorite line: \"That's your problem, not mine.\"\nFunny thing —\nwhen it goes wrong, it's always our problem.\nWhen it goes right, it's suddenly their credit.\nTurns out \"problem\" gets handed out based on mood too.",
+          "editorNote": "Send to the coworker who got the blame pinned on them today. Mess up and it's \"your problem\"; smooth sailing and it's \"I told you so.\" Customers practice that logic harder than we practice our SOP.",
+          "variations": [
+            "\"Not my problem\" translates to: I don't want to take responsibility, but I do want to yell.",
+            "We get the failures, they get the wins — that's not service, it's storing every responsibility the customer doesn't want."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-121",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://twistedsifter.com/2026/05/customers-have-been-unloading-their-thoughts-and-feelings-on-this-customer-service-employee-so-her-work-started-feeling-like-aggravating-emotional-labor/",
+      "sourceNote": "Inspired by the 2026-05 TwistedSifter story on a worker used as a customer's emotional punching bag; the 「我的工作是賣商品，不是收你的情緒垃圾」 boundary line is the rewrite anchor",
+      "tags": ["服務業", "情緒勞動", "心聲", "尊嚴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人站在櫃檯前，\n把他今天所有的不順，\n一句一句倒在我身上。\n我想說的是：\n我這裡賣的是商品，\n不是您情緒的回收站。",
+          "editorNote": "傳給最近被客人當垃圾桶倒情緒、回家整個人空掉的同行。聽客人說話是工作，被當情緒回收站不是。",
+          "variations": [
+            "客人付的錢買的是杯子，不是把店員當情緒垃圾分類的入場券。",
+            "我的耳朵是用來確認您的餐點，不是用來承接您整個禮拜的怨氣。"
+          ]
+        },
+        "en": {
+          "content": "The customer stands at the counter\nand pours out everything that went wrong in their day,\none sentence at a time, onto me.\nWhat I want to say is:\nI sell products here,\nnot recycling space for your emotions.",
+          "editorNote": "Send to anyone used as a customer's emotional dumpster lately, who goes home feeling hollowed out. Listening to customers is the job; being their emotional recycling bin isn't.",
+          "variations": [
+            "Their money bought a cup, not an admission ticket to sort their feelings into the clerk.",
+            "My ears are here to confirm your order, not to catch a whole week of your resentment."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-122",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.modernhealth.com/post/addressing-mental-health-risks-across-the-retail-workforce",
+      "sourceNote": "Reframes the Modern Health 2026 finding that 40% of retail workers report declining mental health; original 「下班後的我，是白天那個我的二手版本」 secondhand-self image is the rewrite anchor",
+      "tags": ["服務業", "burnout", "情緒勞動", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "報告說，每十個服務業的人，\n就有四個覺得自己的心理狀態在往下掉。\n我懂——\n白天那個會笑、會應對、會說「好的沒問題」的我，\n下班後只剩一個二手版本回家，\n而且還是過了保固的。",
+          "editorNote": "傳給最近覺得自己越來越笑不出來的同行。狀態下滑不是你想太多，是四成的人跟你一起在下滑——你只是其中一個誠實說出來的。",
+          "variations": [
+            "服務業最累的不是站著，是把今天最好的自己留給了客人，剩下的才帶回家。",
+            "白天的我是新品，下班的我是展示品，回到家只剩瑕疵品特價出清。"
+          ]
+        },
+        "en": {
+          "content": "The report says four in ten service workers\nfeel their mental health slipping.\nI get it —\nthe me who smiles, handles things, says \"sure, no problem\" all day\ngoes home as a secondhand version of myself.\nWarranty already expired.",
+          "editorNote": "Send to anyone who's been finding it harder to smile lately. The decline isn't you overthinking — four in ten are sliding right alongside you. You're just one of the honest ones.",
+          "variations": [
+            "The exhausting part isn't standing all day. It's giving the best version of yourself to customers and bringing home what's left.",
+            "Morning me is brand new, off-shift me is the floor model, home me is the clearance-rack reject."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-123",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reframes the Dcard 奧客語錄 「叫你們店長出來」 manager-summoning trope; original 「店長出來也是人，不是您的人形出氣筒升級版」 framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "互助"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人怒吼：「叫你們店長出來！」\n店長出來了，\n客人以為自己升級了。\n其實只是換一個人，\n陪您把同一段不講理，\n再聽一次。",
+          "editorNote": "傳給今天被客人喊「叫店長出來」、後來發現店長也只能跟你一起苦笑的同事。換人聽不會讓無理變有理，只會多累一個人。",
+          "variations": [
+            "「叫店長出來」不會讓您比較對，只會讓兩個人一起記住您今天的樣子。",
+            "客人以為升級客訴對象就會贏，其實只是把不講理重播一次給更累的人聽。"
+          ]
+        },
+        "en": {
+          "content": "The customer roars: \"Get me your manager!\"\nThe manager comes out,\nand the customer thinks they've leveled up.\nReally, it's just a different person\nwho gets to hear the same unreasonable rant\none more time.",
+          "editorNote": "Send to the coworker who got hit with \"get me your manager\" today and watched the manager end up sharing the same tired smile. Swapping listeners doesn't make a bad point good — it just exhausts one more person.",
+          "variations": [
+            "\"Get me your manager\" doesn't make you more right. It just means two people now remember how you acted today.",
+            "Escalating the complaint doesn't win anything — it just replays the unreasonableness for someone even more tired."
+          ]
+        }
+      }
     }
   ]
 }

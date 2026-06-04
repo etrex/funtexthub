@@ -1980,6 +1980,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-086",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://shuteye.ai/blog/funny-sleep-quotes",
+      "sourceNote": "Inspired by the 'even melatonin left me on read' line; rewritten with a localized read-receipt framing",
+      "tags": ["失眠", "自嘲", "幽默", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我吃了褪黑激素，希望它讓我睡著。\n結果它已讀我，沒回。\n連助眠藥都不想理我，這夜晚是有多想留我下來。",
+          "editorNote": "對「連助眠的東西都救不了我」的精準吐槽，畫面感十足。適合在又吃了一堆助眠小物還是清醒的清晨發限動。",
+          "variations": [
+            "我跟褪黑激素的關係，目前停在已讀不回。",
+            "助眠茶、助眠音樂、助眠藥，三個一起把我已讀。"
+          ]
+        },
+        "en": {
+          "content": "I took melatonin hoping it would knock me out.\nIt left me on read.\nWhen even the sleep aid won't text back, this night really wants me to stay.",
+          "editorNote": "A pinpoint jab at how nothing meant to help you sleep actually works. Highly visual — perfect caption for the morning after you tried every sleep gadget and stayed wide awake.",
+          "variations": [
+            "Me and melatonin are currently sitting on 'seen.'",
+            "Sleepy tea, sleep playlist, and melatonin all left me on read at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-087",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.huffpost.com/entry/tweets-sleep-struggles_l_5d1a5419e4b07f6ca581e058",
+      "sourceNote": "Inspired by the '3am brain transforms into overcaffeinated CEO of regrets' tweet; rewritten with a localized job-title framing",
+      "tags": ["失眠", "凌晨三點", "焦慮", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "白天的我是個想睡的普通人。\n一到凌晨三點，我立刻升職，\n成為「後悔股份有限公司」的執行長，\n專門召開會議，檢討我這輩子做過的每一個決定。",
+          "editorNote": "把深夜反芻包裝成「後悔公司CEO」的職場梗，焦慮型失眠戶秒懂。傳同事群組會有人接「我也在這家公司任職」。",
+          "variations": [
+            "三點的我不是失眠，是被緊急召回開後悔檢討會。",
+            "白天打工人，半夜變成審判自己的董事長。"
+          ]
+        },
+        "en": {
+          "content": "By day I'm an ordinary person who just wants to sleep.\nThe moment it hits 3am, I get promoted —\nto CEO of Regrets Incorporated,\nwhose only job is calling meetings to review every decision I've ever made.",
+          "editorNote": "Repackages late-night rumination as a corporate promotion you never wanted. Anxious insomniacs nod instantly — expect 'I work there too' replies in the group chat.",
+          "variations": [
+            "I'm not awake at 3am. I've been called in for an emergency regret review.",
+            "Daytime employee, midnight chairman presiding over my own trial."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-088",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://thechive.com/funny/my-brain-at-3am-memes/",
+      "sourceNote": "Inspired by the 'insomnia lets you win every argument in your head' line; rewritten with a localized debate-champion framing",
+      "tags": ["失眠", "深夜", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "失眠唯一的好處，是給我足夠的時間，\n把這輩子每一場吵架，在腦袋裡重打一次。\n而且這次我全贏，金句連發，對方啞口無言。\n可惜這些精彩台詞，只有天花板聽得到。",
+          "editorNote": "對「半夜腦補吵架還補一堆當下沒講出口的金句」的精準描繪。傳給也常常在床上贏麻了的朋友，會收到一片「我昨晚也辯論大獲全勝」。",
+          "variations": [
+            "我半夜在腦袋裡贏的辯論，現實中一句都沒講出來。",
+            "失眠讓我成為腦內辯論冠軍，可惜獎盃是天花板。"
+          ]
+        },
+        "en": {
+          "content": "The one upside of insomnia is that it gives me enough time\nto re-fight every argument I've ever had, in my head.\nThis time I win them all — flawless comebacks, the other side speechless.\nShame the only one who hears these lines is my ceiling.",
+          "editorNote": "A pinpoint take on replaying old arguments at night with all the comebacks you never said. Send to the friend who also wins big in bed — expect 'undefeated last night' replies.",
+          "variations": [
+            "Every debate I won in my head at 3am, I said zero of out loud in real life.",
+            "Insomnia made me a champion debater. Unfortunately the trophy is the ceiling."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-089",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://filterfreeparents.com/20-hilarious-tweets-that-sum-up-life-with-insomnia-perfectly/",
+      "sourceNote": "Inspired by the 'furious with each of my pillows individually' tweet; rewritten with a localized one-by-one grievance framing",
+      "tags": ["失眠", "深夜", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "失眠之前，我不知道一個人可以對枕頭這麼有情緒。\n太熱、翻面、太軟、再翻面、墊高、抽走一個、再塞回來。\n凌晨三點，我跟我的每一顆枕頭，都單獨結了仇。",
+          "editorNote": "對「睡不著時開始遷怒寢具」的精準吐槽，畫面超生動。傳給也常常半夜跟枕頭打架的朋友，會笑著回「我家棉被也上榜」。",
+          "variations": [
+            "我跟枕頭的關係，從愛到恨只需要三個小時的失眠。",
+            "睡不著的時候，連最無辜的枕頭都會被我列入嫌疑名單。"
+          ]
+        },
+        "en": {
+          "content": "Before insomnia, I didn't know one person could have this many feelings about a pillow.\nToo hot, flip it, too soft, flip it again, prop it up, throw one out, drag it back.\nBy 3am I've developed a separate grudge against each of my pillows.",
+          "editorNote": "A pinpoint jab at taking it out on your bedding when sleep won't come. Vividly relatable — send to the friend who also wrestles their pillows nightly. Expect 'my blanket made the list too.'",
+          "variations": [
+            "It takes three hours of insomnia to go from loving my pillow to hating it.",
+            "When I can't sleep, even the most innocent pillow ends up on my suspect list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-090",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.wolfglobal.org/blog/no-sleep-captions",
+      "sourceNote": "Original gentle item — adds a 'one breath at a time' grounding angle to the healing register",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果整個晚上太長，那就只顧好下一口呼吸。\n不用想幾點能睡著，不用想明天會多累。\n你現在只需要躺著，吸氣，吐氣。\n剩下的，交給夜晚慢慢來。",
+          "editorNote": "失眠時最容易被「整夜」這個概念壓垮。這句話把範圍縮小到「下一口呼吸」，幫人從焦慮裡抽身。傳給最近一躺下就開始想很多的朋友。",
+          "variations": [
+            "別管整個晚上，先把這一口氣吸完就好。",
+            "睡不著的時候，把目標縮到只剩呼吸，會輕鬆很多。"
+          ]
+        },
+        "en": {
+          "content": "If the whole night feels too long, just take care of the next breath.\nDon't think about when you'll fall asleep or how tired tomorrow will be.\nRight now all you have to do is lie there, breathe in, breathe out.\nLeave the rest to the night.",
+          "editorNote": "The idea of 'the whole night' is what overwhelms insomniacs. This shrinks it down to the next breath, pulling people out of the spiral. For the friend whose mind races the moment they lie down.",
+          "variations": [
+            "Forget the whole night — just finish this one breath first.",
+            "When you can't sleep, shrinking the goal down to just breathing makes it lighter."
+          ]
+        }
+      }
     }
   ]
 }

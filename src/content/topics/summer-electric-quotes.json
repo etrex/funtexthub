@@ -929,6 +929,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-039",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://news.nextapple.com/finance/20260602/389630F79B14145664FF25CA107CD213",
+      "sourceNote": "2026 史上最貴電價 最高級距漲 26% 8.86 元；改寫原創",
+      "tags": ["夏月電價", "最高級距", "史上最貴", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞：「今年夏月電價，最高級距創史上最貴，每度 8.86 元。」\n我：「8.86 元一度，這個數字，有種我這輩子都到不了的高度。」\n台電：「別擔心，你開冷氣開個兩個月，就到了。」",
+          "editorNote": "傳給那個看到「史上最貴電價」標題、手已經默默伸向冷氣遙控器的同事",
+          "variations": [
+            "今年夏天最勵志的事，是台電相信我有能力衝上最高級距。",
+            "8.86 元一度電，是台電給認真吹冷氣的人，頒發的成就獎章。"
+          ]
+        },
+        "en": {
+          "content": "News: 'This summer's top-tier rate is the most expensive on record.'\nMe: 'That number feels like a height I'll never reach in my life.'\nPower company: 'Don't worry. Run the AC for two months and you'll get there.'",
+          "editorNote": "Send to the coworker whose hand drifts toward the AC remote the second they read 'most expensive rate ever'",
+          "variations": [
+            "The most inspiring thing this summer is the power company believing I can climb to the top tier.",
+            "The record top-tier rate is the achievement badge they hand out to anyone who runs the AC seriously."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-040",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "住宅夏季平均每戶每月電費增加約 446 元；改寫原創",
+      "tags": ["夏月電價", "446元", "帳單", "崩潰"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電統計：「夏天每戶平均每月多繳 446 元。」\n446 元，聽起來像是可以好好吃一頓的數字。\n結果它不是飯，它是空氣——是我家那台冷氣，每個月吐出來的那一口涼。",
+          "editorNote": "傳給那個算過「這筆電費能吃幾頓好料」、然後默默把外送 App 關掉的朋友",
+          "variations": [
+            "夏天多繳的那 446 元，是我跟夏天和解的入場費。",
+            "446 元買不到一頓大餐，只買得到一個月不會中暑的權利。"
+          ]
+        },
+        "en": {
+          "content": "Stats: 'The average household pays about 446 dollars more a month in summer.'\nThat number sounds like enough for a proper nice dinner.\nTurns out it's not food. It's air — the breath of cool my AC exhales every single month.",
+          "editorNote": "For the friend who calculated how many nice meals that bill could buy, then quietly closed the delivery app",
+          "variations": [
+            "The extra I pay each summer is the entry fee for making peace with the season.",
+            "It won't buy a feast — only the right to go a whole month without heatstroke."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-041",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.digitalmomblog.com/hot-weather-memes/",
+      "sourceNote": "冬天可以加衣 夏天脫光也沒用 meme；改寫原創",
+      "tags": ["冬天", "夏天", "冷氣", "對比"],
+      "i18n": {
+        "zh-tw": {
+          "content": "冬天冷，至少還能一件一件加，加到暖為止，免費。\n夏天熱，你脫到剩一條內褲，還是熱，而且這時候唯一的解法，要錢。\n結論：老天爺對冬天比較仁慈，對夏天只想跟你收費。",
+          "editorNote": "傳給那個夏天在家已經穿到最少、還是熱到懷疑人生的朋友",
+          "variations": [
+            "冬天的溫暖可以靠棉被，夏天的涼爽只能靠帳單。",
+            "對抗寒冷，人類有衣服；對抗炎熱，人類只有台電。"
+          ]
+        },
+        "en": {
+          "content": "In winter you can add layers, one by one, until you're warm — for free.\nIn summer you can strip down to your last shred of clothing and you're still hot, and the only fix left costs money.\nConclusion: the universe is merciful to winter and just wants to bill you for summer.",
+          "editorNote": "For the friend who's already wearing the bare minimum at home and is still questioning their life choices",
+          "variations": [
+            "Winter warmth comes from a blanket. Summer coolness comes from a bill.",
+            "To fight the cold, humans have clothes. To fight the heat, humans have the power company."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-042",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://tech.udn.com/tech/story/123152/9539864",
+      "sourceNote": "台電揭帳單變貴真相 用電量比費率影響更大；改寫原創",
+      "tags": ["用電量", "費率", "省電", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電解釋：「帳單變貴，其實費率只佔一部分，真正的關鍵是你用得太多。」\n我：「所以你的意思是，這不是你的錯，是我的錯。」\n台電：「你終於懂了。」\n我：「那我可以退貨重來這個夏天嗎。」",
+          "editorNote": "傳給那個每次看完台電澄清文、反而更想關冷氣的朋友",
+          "variations": [
+            "台電最會的，不是發電，是讓你心甘情願地覺得電費貴是你的責任。",
+            "原來電費貴的真相不是漲價，是我太愛活著、太想涼快。"
+          ]
+        },
+        "en": {
+          "content": "The power company explains: 'Your bill went up, but the rate is only part of it — the real key is you're using too much.'\nMe: 'So what you're saying is, it's not your fault, it's mine.'\nPower company: 'Now you get it.'\nMe: 'Can I return this summer and start over?'",
+          "editorNote": "For the friend who reads the utility's clarification post and somehow wants to kill the AC even more",
+          "variations": [
+            "The power company's real talent isn't generating electricity — it's making you genuinely feel the bill is your own fault.",
+            "Turns out the truth behind a high bill isn't the rate hike. It's that I love being alive and cool too much."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-043",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "離峰時段用電比較省 半夜用電；改寫原創",
+      "tags": ["離峰電價", "半夜", "冷氣", "作息"],
+      "i18n": {
+        "zh-tw": {
+          "content": "懶人包：「想省錢，把高耗電活動移到離峰時段，半夜用電最便宜。」\n於是我現在最幸福的時刻，是凌晨一點，全世界都睡了，只有我跟冷氣醒著。\n白天的涼是有罪惡感的，半夜的涼，才是台電允許我擁有的那一份。",
+          "editorNote": "傳給那個白天捨不得開冷氣、專門等半夜離峰才大開的夜貓子朋友",
+          "variations": [
+            "離峰電價把我改造成一隻晝伏夜出、靠便宜時段續命的生物。",
+            "夏天最便宜的涼快，藏在所有人都睡著的那幾個小時裡。"
+          ]
+        },
+        "en": {
+          "content": "Guide: 'To save money, shift high-power activities to off-peak hours — electricity is cheapest after midnight.'\nSo now my happiest moment is 1 AM, when the whole world is asleep and only the AC and I are awake.\nDaytime cool comes with guilt. The cool after midnight is the share the power company actually lets me have.",
+          "editorNote": "For the night-owl friend who can't bear to run the AC by day and waits for cheap off-peak hours to blast it",
+          "variations": [
+            "Off-peak rates have turned me into a creature that sleeps by day and survives on the cheap hours.",
+            "Summer's cheapest coolness hides in the few hours when everyone else is asleep."
+          ]
+        }
+      }
     }
   ]
 }

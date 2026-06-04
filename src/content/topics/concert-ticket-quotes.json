@@ -1092,6 +1092,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-048",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://help.tixcraft.com/hc/en-us/articles/4404364680209-Refund-Policy",
+      "sourceNote": "拓元退票規則：購票後 3 日內可退、每張收 5% 手續費、第四日起不受理、只能整筆退無法單張退",
+      "tags": ["退票", "手續費", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "退票要收 5% 手續費。\n\n我搶不到的時候它光速售完，\n我想退的時候它跟我收過路費。\n\n這系統最公平的地方就是——\n\n不管我贏還是輸，\n它都有抽成。",
+          "editorNote": "退票 5% 手續費是拓元最被詬病的規則之一。傳給因為衝突要退票還被扒一層皮的朋友",
+          "variations": [
+            "認命版：「退票手續費 5%，逾期不退，只能整筆退。我連放棄，都要照它的規矩放棄。」"
+          ]
+        },
+        "en": {
+          "content": "Refunds cost a 5% fee.\n\nWhen I'm trying to buy, it sells out at light speed.\nWhen I'm trying to refund, it charges me a toll.\n\nThe fairest thing about this system is —\n\nwin or lose,\nit always takes a cut.",
+          "editorNote": "Refund processing fees are a near-universal ticketing grievance. Send to a friend forced to return a ticket and still getting skimmed",
+          "variations": [
+            "Resigned: '5% fee, no late refunds, whole order only. Even quitting has to be done by their rules.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-049",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021480",
+      "sourceNote": "拓元取票採 ibon，須至 7-11 操作機台，開演前 5 日開放，現場不提供取票",
+      "tags": ["取票", "ibon", "超商", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "搶到票還不算結束。\n\n要去 7-11 站在 ibon 前面，\n按到手指發抖，\n印出那張薄薄的紙。\n\n別人去超商買咖啡，\n我去超商\n領回我的人生意義。",
+          "editorNote": "ibon 超商取票是台灣搶票的最後一道儀式。傳給站在 7-11 機台前緊張到手抖的朋友",
+          "variations": [
+            "務實版：「開演前 5 天才開放取票，現場不補印。意思是這張票在我手裡之前，我連睡覺都不安穩。」"
+          ]
+        },
+        "en": {
+          "content": "Winning the ticket isn't the end.\n\nYou go stand at the convenience-store kiosk,\ntap until your finger trembles,\nand print one flimsy slip of paper.\n\nEveryone else walks in for coffee.\nI walk in\nto collect the meaning of my life.",
+          "editorNote": "Kiosk ticket pickup is the final ritual of the process. Send to a friend sweating in front of the machine at the corner store",
+          "variations": [
+            "Practical version: 'Pickup opens five days before, no reprints at the door. Translation: I won't sleep right until that paper is physically in my hand.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-050",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://lattekorea.com/tixcraft-ticket/",
+      "sourceNote": "拓元搶票技巧：選 2 張時若該區沒有連續座位，即使還有空位也會被踢出顯示「座位不足」",
+      "tags": ["連續座位", "兩張", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我選 2 張。\n\n那一區明明還有座位，\n但因為不相連，\n系統直接踢我出來：\n「座位不足」。\n\n座位有，\n只是不肯讓我們坐在一起。\n\n跟我的人生一樣。",
+          "editorNote": "選 2 張卻因座位不相連被踢出是拓元最容易被忽略的陷阱。傳給為了跟朋友坐一起反而兩手空空的人",
+          "variations": [
+            "攻略版：「想進場就選 1 張，想坐一起就準備落空。系統教我的第一課：愛要分開搶。」"
+          ]
+        },
+        "en": {
+          "content": "I picked two tickets.\n\nThe section clearly had seats left,\nbut because they weren't adjacent,\nthe system kicked me out:\n'Not enough seats.'\n\nThere were seats.\nThey just wouldn't let us sit together.\n\nMuch like my life.",
+          "editorNote": "The 'must be consecutive seats' trap silently bounces people requesting two tickets. Send to a friend who walked away empty-handed for refusing to split up",
+          "variations": [
+            "Strategy version: 'Want in? Pick one. Want to sit together? Prepare to lose. Lesson one from the system: grab love separately.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-051",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://tw.trip.com/blog/mayday-concerts-tw/",
+      "sourceNote": "大巨蛋散場交通須知：捷運加開班次縮短班距，建議依引導排隊並留意末班車時間",
+      "tags": ["散場", "捷運", "末班車", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "演唱會結束。\n\n安可的感動還在喉嚨裡，\n我已經被人潮推進捷運站。\n\n為了趕末班車，\n我把整場最後一首歌\n聽成了背景音。\n\n散場才是真正的安可——\n五萬人一起衝刺。",
+          "editorNote": "大巨蛋散場趕末班車是現場粉絲共同的混亂記憶。傳給散場後在月台被人潮夾到變形的朋友",
+          "variations": [
+            "務實版：「場內看天王，場外擠地獄。末班車不等人，感動可以晚點再回味。」"
+          ]
+        },
+        "en": {
+          "content": "The show ends.\n\nThe encore's still caught in my throat,\nbut the crowd's already shoving me into the station.\n\nRacing for the last train,\nI heard the final song of the night\nas background noise.\n\nThe real encore is the exit —\nfifty thousand people sprinting at once.",
+          "editorNote": "The post-show dash for the last train is a shared chaos memory for arena-goers. Send to a friend flattened on the platform after the lights came up",
+          "variations": [
+            "Practical version: 'Inside: see the legends. Outside: survive the stampede. The last train waits for no one — the feelings can be savored later.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -1683,6 +1683,101 @@
           "variations": ["The leash still hangs by the door. Sometimes my hand reaches for it on the way out before I remember. I haven't put it away — while it's there, this home still feels a little like you're in it."]
         }
       }
+    },
+    {
+      "id": "pm-089",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://bestfriends.org/pet-care-resources/grieving-loss-pet-resources-coping",
+      "sourceNote": "「悲傷是一波一波的，幾個月後我還在」— 持續陪伴、grief comes in waves frame，原創",
+      "tags": ["安慰他人", "陪伴", "悲傷一波波"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我知道難過是一波一波來的，不是哭完那幾天就結束。所以我先講好：三個月後、半年後，那些突然湧上來、沒人懂的浪打過來的時候，我都還在。你不用一個人接。",
+          "editorNote": "適合傳給剛失去毛孩的朋友，承諾「長期陪伴」而不是只在頭幾天出現，是最不會踩雷的安慰句",
+          "variations": ["我幫週六設了鬧鐘要打給你。我們不一定要聊牠，我只是不想讓你一個人。"]
+        },
+        "en": {
+          "content": "I know the sadness comes in waves — it doesn't end when the first few days of crying do. So let me say it now: three months from now, six months from now, when a wave nobody else notices knocks you over, I'll still be here. You don't have to catch it alone.",
+          "editorNote": "For sending to a friend who just lost a pet — promising long-term presence, not just showing up the first few days, is the safest comfort line there is",
+          "variations": ["I set a reminder to call you Saturday. We don't have to talk about them — I just don't want you to be alone."]
+        }
+      }
+    },
+    {
+      "id": "pm-090",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://whenpawsleave.com/pet-loss-rituals-to-honor-your-pets-memory/",
+      "sourceNote": "「家裡留一個角落給你」— 紀念角落 / memorial corner 儀式 frame，原創",
+      "tags": ["紀念", "儀式", "角落"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在窗邊留了一個小角落給你。擺上你的項圈、那顆咬到掉漆的球，還有一張你最帥的照片。想你的時候，我就走過去坐一下。那裡不是你的墳，是這個家裡，永遠開著燈等你的房間。",
+          "editorNote": "提供具體可執行的紀念儀式（在家設置紀念角落），把抽象思念落地成一個可以實作的空間",
+          "variations": ["每天經過那個角落，我會幫你把照片擺正一點。這個小動作，是我跟你之間還沒結束的日常。"]
+        },
+        "en": {
+          "content": "I kept a little corner by the window just for you. Your collar, the ball you chewed the paint off of, and a photo where you looked your most handsome. When I miss you, I go sit there for a while. It isn't your grave — it's the room in this house that always keeps a light on for you.",
+          "editorNote": "Offers an actionable ritual (setting up a memorial corner at home) — grounds abstract longing into a physical space the reader can actually make",
+          "variations": ["Every time I pass that corner I straighten your photo a little. That tiny motion is the part of our routine that never had to end."]
+        }
+      }
+    },
+    {
+      "id": "pm-091",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://funeral.com/blogs/the-journal/donating-to-shelters-in-memory-of-a-pet-how-to-do-it-well-supplies-funds-and-tribute-notes",
+      "sourceNote": "「用你的名字捐給收容所」— 把善意延續下去、donation in pet's name frame，原創",
+      "tags": ["紀念", "收容所", "延續"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我用你的名字，捐了一些飼料給收容所。我知道你回不來了，可是我想讓你的好，繼續長在別的小生命身上。櫃台問捐贈人是誰，我寫下你的名字那一刻，覺得你好像又被叫了一次。",
+          "editorNote": "提供「化悲傷為行動」的具體儀式（以毛孩之名捐贈），給想做點什麼卻不知從何開始的飼主一個出口",
+          "variations": ["每年到你領養回家的那一天，我都會捐一次。不是為了讓自己好過，是想讓你的善良每年都多救一隻。"]
+        },
+        "en": {
+          "content": "I donated a bag of food to the shelter in your name. I know you can't come back — but I wanted your goodness to keep growing in some other small life. When the front desk asked who the donation was from and I wrote down your name, it felt like you got called one more time.",
+          "editorNote": "Offers a 'turn grief into action' ritual (donating in the pet's name) — gives owners who want to do something but don't know where to start a concrete outlet",
+          "variations": ["Every year on the day I adopted you, I donate again. Not to feel better — so your kindness saves one more of them, every single year."]
+        }
+      }
+    },
+    {
+      "id": "pm-092",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://funeral.com/blogs/podcasts/finding-comfort-in-pet-loss-spiritual-signs-and-memorial-choices",
+      "sourceNote": "「在生活裡撞見你」— synchronicity / 巧合徵兆 frame，原創",
+      "tags": ["撫慰", "徵兆", "巧合"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有時候是一首歌剛好唱到那句話，有時候是路邊一隻長得跟你很像的狗回頭看了我一眼，有時候是你的名字莫名其妙出現在我眼前。我不知道那是不是你。可是我選擇相信是——因為相信，今天就比較好過。",
+          "editorNote": "把喪寵後「到處看見牠的影子 / 覺得收到徵兆」的經驗正常化，不論信不信，給讀者一個溫柔的解釋空間",
+          "variations": ["昨天有片葉子剛好落在我手背上。理智說那只是風，可是那一秒，我寧願相信是你來摸了我一下。"]
+        },
+        "en": {
+          "content": "Sometimes it's a song landing on exactly the right line. Sometimes a dog by the road who looks just like you turns and meets my eyes. Sometimes your name shows up in front of me out of nowhere. I don't know if it's you. But I choose to believe it is — because believing makes today a little easier to get through.",
+          "editorNote": "Normalizes the 'seeing signs / catching glimpses of them everywhere' experience after loss — believer or not, gives the reader gentle room to read meaning into it",
+          "variations": ["A leaf landed on the back of my hand yesterday. My head says it was just the wind. But for that one second, I'd rather believe it was you reaching out to touch me."]
+        }
+      }
+    },
+    {
+      "id": "pm-093",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://whiskerandfang.com/blogs/support-enrichment-resources/the-role-of-rituals-in-pet-grief-how-small-acts-of-remembrance-help-heal-the-heart",
+      "sourceNote": "「做一個只裝你的盒子」— memory box / 回憶盒儀式 frame，原創",
+      "tags": ["紀念", "儀式", "回憶盒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我做了一個盒子，只裝跟你有關的東西：剃下來的一小撮毛、最後一張就診單、你咬扁的那顆橡膠骨頭。蓋子蓋上的時候有點重，可是我知道——這不是把你收起來，是替你蓋一個小小的、不會被弄丟的家。",
+          "editorNote": "提供具體可執行的療癒儀式（製作回憶盒），尤其適合還沒準備好整理遺物、但想保留一點具體記憶的飼主",
+          "variations": ["盒子我沒辦法每天打開，太重了。可是知道它在衣櫃最上層，我就睡得著——因為你還好好地，在我搆得到的地方。"]
+        },
+        "en": {
+          "content": "I made a box that holds only you: a small lock of fur, your last vet receipt, the rubber bone you chewed flat. The lid felt heavy going on. But I know this isn't packing you away — it's building you a small home that can never get lost.",
+          "editorNote": "Offers an actionable healing ritual (making a memory box) — especially for owners not ready to sort through everything but wanting to keep one concrete piece of memory",
+          "variations": ["I can't open the box every day — it's too heavy. But knowing it's on the top shelf of the closet lets me sleep, because you're still safe, still somewhere I can reach."]
+        }
+      }
     }
   ]
 }

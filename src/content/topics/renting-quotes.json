@@ -2193,6 +2193,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-091",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.ptt.cc/bbs/home-sale/M.1768656750.A.6F4.html",
+      "sourceNote": "2026 租屋補助突被追回 收公文崩潰 viral case; rewritten original",
+      "tags": ["補助", "追回", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "領了一年租屋補助，今天收到一張公文，\n說我家「登記用途不符」，補助要全數繳回。\n原來政府給我的不是補助，是分期借款，到期一次催收。",
+          "editorNote": "傳給最近收到補助追回公文嚇傻的朋友，提醒他簽約前先確認房屋登記用途",
+          "variations": [
+            "補助領的時候叫德政，要繳回的時候叫「依法行政」，立場永遠在他們那邊。",
+            "我領補助領得很開心，繳回去繳得很心痛，中間只隔一張公文。"
+          ]
+        },
+        "en": {
+          "content": "I collected a year of rent subsidy, then today a letter arrived\nsaying my place is 'registered for the wrong use' and I have to pay it all back.\nTurns out the government didn't give me a subsidy — it gave me an installment loan, collected in full at maturity.",
+          "editorNote": "Send to a friend rattled by a clawback notice — remind them to verify the building's registered use before signing",
+          "variations": [
+            "Collecting the subsidy is called 'good policy.' Paying it back is called 'following the rules.' The deck's always stacked their way.",
+            "I was thrilled collecting the subsidy and gutted paying it back, with just one letter in between."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-092",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://www.ptt.cc/bbs/home-sale/M.1758202986.A.6A0.html",
+      "sourceNote": "2026 內政部租賃修法限漲幅恐罰30萬 register; rewritten original",
+      "tags": ["租賃法", "漲租", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新法說房東亂漲租最高可罰三十萬。\n房東看完只說了一句：「那我們改簽『包租代管』，這樣漲的不是我。」\n原來法律管得住名字，管不住手。",
+          "editorNote": "適合每次租屋修法上新聞時轉發，提醒朋友魔鬼藏在合約的甲乙方稱謂裡",
+          "variations": [
+            "罰三十萬的是「房東」，所以房東從此都自稱「二房東」。",
+            "法律往前走一步，房東就換一個身分往旁邊走兩步。"
+          ]
+        },
+        "en": {
+          "content": "The new law says landlords who jack up rent can be fined up to three hundred thousand.\nMy landlord read it and said: 'Fine, we'll re-sign through a property management company — then it's not me raising it.'\nTurns out the law can pin down a name, but not a hand.",
+          "editorNote": "Good to share whenever rental reform hits the news — remind friends the devil hides in who's named as 'party A' on the lease",
+          "variations": [
+            "The fine targets 'landlords,' so from now on my landlord calls himself a 'subletting agent.'",
+            "The law takes one step forward, the landlord swaps identities and takes two steps to the side."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-093",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 landlord disappears when problem arises meme; rewritten original",
+      "tags": ["房東", "報修", "失蹤", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東有兩種狀態：\n收房租那天，他是全聯的會員集點，秒到。\n馬桶壞掉那天，他是失蹤人口，連已讀都不給。",
+          "editorNote": "傳給報修三次房東都裝死的朋友，告訴他這不是個案，是業界標準",
+          "variations": [
+            "房東的回訊速度跟天氣有關：晴天收租秒回，雨天漏水斷訊。",
+            "我家漏水那天，房東的手機剛好掉進那灘水裡，從此再也聯絡不上。"
+          ]
+        },
+        "en": {
+          "content": "My landlord has two modes:\non rent day, he's a loyalty-card scanner — instant.\nThe day the toilet breaks, he's a missing person who won't even leave a read receipt.",
+          "editorNote": "Send to a friend whose landlord has ghosted three repair requests — reassure them it's not personal, it's industry standard",
+          "variations": [
+            "My landlord's reply speed depends on the weather: sunny on rent day, dead signal the moment it leaks.",
+            "The day my ceiling leaked, his phone happened to fall into the puddle — never heard from again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-094",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://pleated-jeans.com/2026/01/08/funny-memes-for-renters-whove-seen-more-apartments-than-hgtv/",
+      "sourceNote": "2026 landlord special gray paint over outlets meme; rewritten original",
+      "tags": ["油漆", "裝潢", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東最愛的顏色是「灰」，\n灰到牆壁、插座、門把、連我搬進來的心情都一起灰了。\n他不是在粉刷，是在把所有問題刷成同一個色號。",
+          "editorNote": "傳給剛搬進「房東風裝潢」的朋友，那種一片灰真的不是極簡，是省事",
+          "variations": [
+            "房東的裝潢哲學是：能用油漆蓋住的，就絕對不修。",
+            "插座被漆封住那天，我才懂什麼叫「裝潢一致性」——一致地不能用。"
+          ]
+        },
+        "en": {
+          "content": "My landlord's favorite color is gray —\ngray on the walls, the outlets, the door handles, and on my mood the day I moved in.\nHe's not painting, he's coating every problem in the same shade.",
+          "editorNote": "Send to a friend who just moved into a 'landlord special' — that wall-to-wall gray isn't minimalism, it's laziness",
+          "variations": [
+            "My landlord's design philosophy: if paint can cover it, he'll never fix it.",
+            "The day they painted the outlet shut, I finally understood 'design consistency' — consistently unusable."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-095",
+      "dateAdded": "2026-06-04",
+      "sourceUrl": "https://applealmondrealty.com/posts/7790",
+      "sourceNote": "押金退還 提前解約 違約金上限 register; rewritten original",
+      "tags": ["押金", "退租", "違約金", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "法律說押金最多收兩個月、違約金最多賠一個月。\n房東說：「法律歸法律，我們這邊是『行情』。」\n我這才明白，原來「行情」是房東自己發的另一部憲法。",
+          "editorNote": "傳給準備退租、被房東用「行情」唬住的朋友，附上租賃條例第七條的連結",
+          "variations": [
+            "押金兩個月是上限，房東當成起跳價；違約金一個月是上限，房東當成折扣價。",
+            "我背了一整本租賃條例，房東只背了一句「大家都嘛這樣」。"
+          ]
+        },
+        "en": {
+          "content": "The law says the deposit caps at two months and the penalty caps at one.\nMy landlord said: 'Law is law, but around here we go by market rate.'\nThat's when I understood — 'market rate' is just the second constitution landlords write for themselves.",
+          "editorNote": "Send to a friend about to move out who's being bluffed with 'that's just the going rate' — attach a link to the tenancy statute",
+          "variations": [
+            "Two months' deposit is the legal ceiling; my landlord treats it as the floor. One month's penalty is the ceiling; he treats it as a discount.",
+            "I memorized the whole tenancy code. My landlord memorized one line: 'everybody does it this way.'"
+          ]
+        }
+      }
     }
   ]
 }
