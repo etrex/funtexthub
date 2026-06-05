@@ -5020,6 +5020,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-204",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://www.163.com/dy/article/I22M1LO605562DQX.html",
+      "sourceNote": "「我知道你很急，但你先別急」廢話文學風格重新創作",
+      "tags": ["廢話文學", "安慰", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我知道你現在很著急，\n\n但你先別著急。\n\n等你不急了，這件事就不急了。",
+          "editorNote": "朋友在群組裡催進度的時候丟這句，保證對方更急",
+          "variations": [
+            "你先冷靜一下，等你冷靜下來，你就冷靜了。"
+          ]
+        },
+        "en": {
+          "content": "I can tell you're in a hurry right now,\n\nbut try not to be in a hurry.\n\nOnce you stop being in a hurry, there will be no hurry.",
+          "editorNote": "Send this when a friend is rushing you in chat — guaranteed to make them rush harder",
+          "variations": [
+            "Just calm down. Once you've calmed down, you'll be calm."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-205",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://www.163.com/dy/article/I22M1LO605562DQX.html",
+      "sourceNote": "「據我所知，我一無所知」蘇格拉底式廢話重新改寫",
+      "tags": ["廢話文學", "哲學", "知識"],
+      "i18n": {
+        "zh-tw": {
+          "content": "就我所知道的範圍來說，\n\n我知道的範圍裡，\n\n剛好就是我所知道的那些。",
+          "editorNote": "被問到不懂的問題時拿來打太極，對方通常會放棄追問",
+          "variations": [
+            "我能告訴你的，就是我能告訴你的那些，剩下的我就不能告訴你了。"
+          ]
+        },
+        "en": {
+          "content": "As far as my knowledge goes,\n\nthe things I know\n\nare precisely the things that I happen to know.",
+          "editorNote": "Deploy this when someone asks you a question you can't answer — they usually stop asking",
+          "variations": [
+            "Everything I can tell you is everything I can tell you. The rest, I cannot tell you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-206",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://www.azquotes.com/quotes/topics/tautology.html",
+      "sourceNote": "「如果不成功，我們就有失敗的風險」循環論證式廢話重新創作",
+      "tags": ["廢話文學", "勵志", "工作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這次如果我們沒有成功，\n\n那我們就有很大的機率，\n\n會面臨沒有成功的局面。",
+          "editorNote": "適合拿來模仿主管的開會總結，假裝很有深度其實什麼都沒講",
+          "variations": [
+            "只要我們不放棄，我們就還沒有放棄。"
+          ]
+        },
+        "en": {
+          "content": "If we don't succeed this time,\n\nthen there's a very high chance\n\nthat we'll be facing a situation where we did not succeed.",
+          "editorNote": "Perfect for impersonating a manager wrapping up a meeting — sounds insightful, says nothing",
+          "variations": [
+            "As long as we don't give up, we technically haven't given up yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-207",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://penlighten.com/tautology-examples",
+      "sourceNote": "「東西總是在你找到它的最後一個地方」廢話文學風格重新創作",
+      "tags": ["廢話文學", "生活", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你弄丟的東西，\n\n永遠都會在你最後找到它的那個地方。\n\n找到之後，你就不會再找了。",
+          "editorNote": "找鑰匙找到崩潰的時候，唸給自己聽，雖然沒幫助但很真實",
+          "variations": [
+            "東西不見的時候是找不到的，找到的那一刻它就不算不見了。"
+          ]
+        },
+        "en": {
+          "content": "Whatever you lose\n\nwill always turn up in the very last place you look for it.\n\nBecause once you find it, you stop looking.",
+          "editorNote": "Recite this to yourself while tearing the house apart for your keys — unhelpful, but undeniably true",
+          "variations": [
+            "A missing item cannot be found while it's missing; the moment you find it, it's no longer missing."
+          ]
+        }
+      }
     }
   ]
 }

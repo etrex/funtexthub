@@ -5925,6 +5925,124 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-205",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "Git merge conflict humor — the 'both sides were right' theme, rewritten as a couples-therapy scene",
+      "tags": [
+        "git",
+        "merge conflict",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "merge 衝突，本質上就是兩個人都覺得自己沒錯，然後逼第三個人來決定誰要刪掉。\n\n而那個第三個人，通常就是三小時前的你自己。",
+          "editorNote": "傳給正在解 merge conflict 解到懷疑人生的同事，或貼在團隊群組當每日心靈雞湯。",
+          "variations": [
+            "merge 衝突是成年人版本的吵架：兩邊都對，但總要有人先低頭把 <<<<<<< 刪掉。",
+            "解衝突最痛的不是看別人的 code，是看到三小時前自己寫的那行，然後想不起來為什麼要那樣寫。"
+          ]
+        },
+        "en": {
+          "content": "A merge conflict is just two people who are both convinced they're right, forcing a third person to decide whose line gets deleted.\n\nAnd that third person is usually you, three hours ago.",
+          "editorNote": "Send to the teammate currently deep in conflict-resolution despair, or drop it in the team channel as daily emotional support.",
+          "variations": [
+            "Merge conflicts are the adult version of an argument: both sides are right, but someone still has to delete the <<<<<<< first.",
+            "The worst part of resolving conflicts isn't reading someone else's code — it's reading the line you wrote three hours ago and having no idea why."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-206",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Classic shampoo 'lather, rinse, repeat' infinite-loop joke, rewritten with a new framing",
+      "tags": [
+        "無限迴圈",
+        "工程師日常",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼工程師洗頭可以洗一輩子？\n\n因為洗髮精上面寫「抹上、沖水、重複」，但完全沒寫終止條件。",
+          "editorNote": "適合當辦公室冷笑話開場，或回覆那個寫迴圈忘記寫跳出條件、害伺服器燒掉的同事。",
+          "variations": [
+            "工程師買洗髮精第一件事：先找有沒有 break 的條件。",
+            "「抹上、沖水、重複」——這就是為什麼我家熱水器壞了。"
+          ]
+        },
+        "en": {
+          "content": "Why can an engineer wash their hair forever?\n\nBecause the bottle says \"lather, rinse, repeat\" — and never specifies a termination condition.",
+          "editorNote": "Good as an office groaner, or as a reply to the coworker whose loop forgot its exit condition and melted the server.",
+          "variations": [
+            "First thing an engineer checks when buying shampoo: is there a break condition?",
+            "\"Lather, rinse, repeat\" — and that's why my water heater is broken."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-207",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "'If you have to explain a joke it's bad code' meme, reframed as a code-review punchline",
+      "tags": [
+        "code review",
+        "可讀性",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "好的程式碼跟好的笑話一樣：如果你要解釋它，那它就不好笑了。\n\n所以下次 code review 看到三十行註解解釋一個函式，你就知道那個笑話有多爛。",
+          "editorNote": "貼在 code review 留言區提醒同事重點不是寫更多註解，而是寫更清楚的程式碼。",
+          "variations": [
+            "如果你的程式需要寫一篇小作文才能讓人看懂，那問題不在讀的人。",
+            "最好的註解，是那行你不需要寫的註解。"
+          ]
+        },
+        "en": {
+          "content": "Good code is like a good joke: if you have to explain it, it's not good.\n\nSo next time a code review hits thirty lines of comments explaining one function, you'll know exactly how bad the joke was.",
+          "editorNote": "Drop it in a code-review thread to remind people the goal isn't more comments — it's clearer code.",
+          "variations": [
+            "If your code needs an essay to be understood, the problem isn't the reader.",
+            "The best comment is the one you didn't have to write."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-208",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "'Pushed to main instead of feature branch at 3AM' Stack Overflow panic meme, rewritten",
+      "tags": [
+        "git",
+        "上線爆炸",
+        "凌晨三點",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "人生有三件事躲不掉：死亡、繳稅，還有凌晨三點發現自己把 code 直接 push 到 main，然後手抖去 Google「git 怎麼反悔」。",
+          "editorNote": "傳給剛剛手滑推錯分支、正在冒冷汗的隊友，順便附上 git revert 的連結比較有誠意。",
+          "variations": [
+            "凌晨三點的 git 指令，正確率跟酒測一樣低。",
+            "push 到 main 的那一秒，你會突然學會所有以前看不懂的 git reset 參數。"
+          ]
+        },
+        "en": {
+          "content": "Three things in life are certain: death, taxes, and frantically Googling \"how to undo git\" at 3 AM after you pushed straight to main instead of your feature branch.",
+          "editorNote": "Send to the teammate who just fat-fingered the wrong branch and is breaking out in a cold sweat. Bonus points for attaching a git revert link.",
+          "variations": [
+            "Git commands at 3 AM have the same accuracy rate as a breathalyzer test.",
+            "The second you push to main, you suddenly understand every git reset flag you ignored for years."
+          ]
+        }
+      }
     }
   ]
 }

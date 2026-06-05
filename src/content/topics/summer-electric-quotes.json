@@ -1054,6 +1054,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-044",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://www.ptt.cc/bbs/E-appliance/M.1773049038.A.298.html",
+      "sourceNote": "PTT 定頻 vs 變頻冷氣 電費差異討論；改寫原創",
+      "tags": ["變頻冷氣", "定頻冷氣", "電費", "PTT"],
+      "i18n": {
+        "zh-tw": {
+          "content": "鄉民勸我：「快把家裡那台十年定頻冷氣換掉，變頻省超多。」\n我：「換一台變頻要三萬。」\n我：「省下來的電費，要省七年才回本。」\n我：「但我的舊冷氣，可能撐不到那一天，我也是。」",
+          "editorNote": "傳給那個家裡還在用老定頻冷氣、每年都在「換或不換」之間天人交戰的朋友",
+          "variations": [
+            "變頻冷氣最省的不是電，是你說服自己「這是投資」時的那份心安。",
+            "省電的盡頭是換新機，換新機的盡頭是先有三萬。"
+          ]
+        },
+        "en": {
+          "content": "Internet advice: 'Ditch that ten-year-old fixed-speed AC, an inverter unit saves a ton.'\nMe: 'A new inverter costs a thousand bucks.'\nMe: 'The energy savings take seven years to break even.'\nMe: 'But my old AC probably won't last that long. Neither will I.'",
+          "editorNote": "For the friend still running an ancient fixed-speed unit, agonizing every year over whether to replace it",
+          "variations": [
+            "The thing an inverter AC saves most isn't electricity — it's the peace of mind from calling it an 'investment.'",
+            "The end of saving power is buying a new unit. The end of buying a new unit is first having a thousand bucks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-045",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://www.workiz.com/blog/hvac/over-50-funny-hvac-memes-and-air-conditioning-memes/",
+      "sourceNote": "辦公室一半人愛冷氣一半人冷到失溫 meme；改寫原創",
+      "tags": ["辦公室", "冷氣", "同事", "溫度戰爭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "辦公室的冷氣溫度，是一個永遠無法達成的和平協議。\n靠窗那排：「太熱，調低一點。」\n靠冷氣那排：「我已經披兩件外套了。」\n中間那個調溫度的人：每天默默承受全公司的恨意，像個沒人感謝的聯合國。",
+          "editorNote": "傳給那個在公司負責管冷氣遙控器、兩面不是人的同事",
+          "variations": [
+            "辦公室冷氣的溫度，是一個沒有正確答案、但每個人都有意見的數字。",
+            "夏天最危險的職位，是辦公室那個能碰冷氣遙控器的人。"
+          ]
+        },
+        "en": {
+          "content": "The office thermostat is a peace treaty that can never be signed.\nWindow row: 'Too hot, turn it down.'\nVent row: 'I'm already wearing two jackets.'\nThe one person allowed to touch the controls: silently absorbing the hatred of the entire floor, like a UN nobody thanks.",
+          "editorNote": "For the coworker stuck managing the office AC remote, hated by both factions",
+          "variations": [
+            "The office temperature is a number with no right answer that everyone has an opinion about.",
+            "The most dangerous job in summer is being the one person allowed to touch the office thermostat."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-046",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "冷氣搭循環扇 設定 26-28 度 省電建議；改寫原創",
+      "tags": ["循環扇", "冷氣", "26度", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "商週教我：「冷氣設 26 到 28 度，搭一台循環扇，把冷空氣推勻，壓縮機就不用一直全力跑。」\n我認真照做，結果發現最被推勻的，是我對省錢的執念——\n它現在均勻地分布在我房間的每一個角落，跟冷氣的涼一樣，看不見，但摸得到。",
+          "editorNote": "傳給那個真的去買了循環扇、然後開始研究最佳擺位的省電強迫症朋友",
+          "variations": [
+            "循環扇的功能，是把冷空氣推勻，順便把我省錢的焦慮也推勻。",
+            "省電的最高境界，是讓壓縮機休息，讓自己的腦袋全力運轉。"
+          ]
+        },
+        "en": {
+          "content": "The guide taught me: 'Set the AC to 78-82°F, add an air circulator to spread the cool air evenly, and the compressor won't have to run at full blast.'\nI followed it faithfully, and discovered the thing most evenly spread was my obsession with saving money —\nit now sits in every corner of my room, just like the cool air: invisible, but you can feel it.",
+          "editorNote": "For the friend who actually bought a circulator and started obsessing over its optimal placement",
+          "variations": [
+            "The circulator spreads the cool air evenly, and my money anxiety right along with it.",
+            "The highest form of saving power is letting the compressor rest while your brain runs at full blast."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-047",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://www.digitalmomblog.com/hot-weather-memes/",
+      "sourceNote": "沒冷氣只有電風扇的夏天 hot weather meme；改寫原創",
+      "tags": ["電風扇", "沒冷氣", "夏天", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒裝冷氣的夏天，是這樣過的：\n電風扇對著我吹，吹出來的是熱風；\n我對著電風扇看，看到的是它跟我一樣在拼命，卻一樣無能為力。\n我們兩個對望，像兩個被生活逼到牆角、還假裝沒事的成年人。",
+          "editorNote": "傳給那個房間沒裝冷氣、整個夏天靠一台電風扇硬撐的朋友",
+          "variations": [
+            "電風扇在夏天的功能，是把熱空氣搬來搬去，順便陪你一起熱。",
+            "沒冷氣的夏天教會我一件事：原來風，也可以是熱的。"
+          ]
+        },
+        "en": {
+          "content": "A summer with no AC goes like this:\nthe fan blows at me, and what comes out is hot air;\nI stare back at the fan and see something working just as hard as I am, and just as powerless.\nWe lock eyes, two adults backed into a corner by life, both pretending we're fine.",
+          "editorNote": "For the friend with no AC in their room, white-knuckling the whole summer on a single fan",
+          "variations": [
+            "A fan's job in summer is to move hot air around and keep you company while you sweat.",
+            "A summer with no AC taught me one thing: turns out wind can be hot too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-048",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://tech.udn.com/tech/story/123152/9539864",
+      "sourceNote": "台電揭真相 冷氣 24 小時運轉才是帳單暴漲主因 非費率；改寫原創",
+      "tags": ["冷氣", "24小時", "用電量", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電澄清：「帳單暴漲的真兇，不是漲價，是你那台 24 小時沒關過的冷氣。」\n我看著那台從六月一號開到現在沒熄過火的冷氣，輕聲對它說：\n「他們在說你。」\n冷氣沒回應，繼續忠心地涼著，像個明知會被怪罪、還是選擇留下來的人。",
+          "editorNote": "傳給那個冷氣從入夏就沒關過、看到台電澄清文卻捨不得責怪冷氣的朋友",
+          "variations": [
+            "帳單暴漲的兇手，台電查到最後，發現是那個最捨不得熱到自己的我。",
+            "我家冷氣 24 小時運轉的真相是：不是它停不下來，是我不准它停。"
+          ]
+        },
+        "en": {
+          "content": "The power company clarifies: 'The real culprit behind the spike isn't the rate hike — it's that AC of yours that hasn't switched off in days.'\nI look at the unit that hasn't gone cold since June 1st and say softly:\n'They're talking about you.'\nThe AC doesn't answer, just keeps loyally cooling — like someone who knows they'll get blamed and chooses to stay anyway.",
+          "editorNote": "For the friend whose AC hasn't stopped since summer began, who reads the utility's clarification but can't bring themselves to blame it",
+          "variations": [
+            "The power company traced the spike to its source and found it was me — the one who couldn't bear to let myself get hot.",
+            "The truth about my 24/7 AC: it's not that it can't stop. It's that I won't let it."
+          ]
+        }
+      }
     }
   ]
 }

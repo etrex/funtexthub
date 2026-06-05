@@ -986,6 +986,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-040",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://udn.com/news/story/12806/9526756",
+      "sourceNote": "「他3萬9全賣傻眼台股到底在漲什麼」踏空 register；改寫原創",
+      "tags": ["踏空", "賣飛", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我等了一整年，終於忍到回檔，把手上的股票全部出清，自認逃過一劫。\n結果隔週大盤一路狂飆，再也沒回頭過。\n現在我每天打開盤面，第一句話都是：到底在漲什麼？\n第二句話是：為什麼漲的時候我都不在場上。",
+          "editorNote": "送給每個自以為躲過下跌、結果躲過了一整段大行情的踏空族",
+          "variations": [
+            "我不是被套牢，我是被空手套牢，套在場外動彈不得。",
+            "我清倉的那天，就是這波行情的起漲日，準到可以當公告。"
+          ]
+        },
+        "en": {
+          "content": "I waited the whole year, finally held out for a pullback, dumped every share I owned, and figured I'd dodged a bullet.\nThe next week the market took off and never looked back.\nNow every time I open the screen, my first line is: what is even going up?\nMy second line is: why am I never in the market when it does.",
+          "editorNote": "For everyone who thought they dodged the drop and instead dodged the entire rally",
+          "variations": [
+            "I'm not trapped in a position. I'm trapped on the sidelines, frozen in cash.",
+            "The day I went all-cash was the exact launch day of this rally — accurate enough to publish as an announcement."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-041",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://relatejokes.com/funny-trading-jokes/",
+      "sourceNote": "「committed long term relationship with index funds, individual equities broke my heart」register；改寫原創",
+      "tags": ["個股", "ETF", "感情", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我現在只跟指數型 ETF 認真交往。\n不是我變專情，是個股傷我太多次。\n每一檔我重押過的個股，都教會我一件事：原來心可以這樣被砍到停損。\n談感情跟買股票一樣，最後我選擇了一個不會讓我半夜驚醒的對象。",
+          "editorNote": "送給每個被個股傷透心、最後投奔大盤 ETF 懷抱的同好",
+          "variations": [
+            "個股是初戀，刻骨銘心，賠光收場；ETF 是現任，平淡，但至少還在。",
+            "我跟個股分手的原因很單純：它從來沒有想過要對我負責。"
+          ]
+        },
+        "en": {
+          "content": "These days I'm only in a serious relationship with index ETFs.\nIt's not that I got loyal — individual stocks just hurt me too many times.\nEvery single name I went heavy on taught me the same thing: a heart really can get stopped out.\nDating is like buying stocks. In the end I picked the one that doesn't jolt me awake at 3 a.m.",
+          "editorNote": "For everyone who got their heart broken by single stocks and ran into the arms of a broad-market ETF",
+          "variations": [
+            "Individual stocks were the first love — unforgettable, and ended in total loss. The ETF is the current partner: dull, but still here.",
+            "I broke up with single stocks for one simple reason: they never once intended to be accountable to me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-042",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://caifuhao.eastmoney.com/news/20260221135634500395700",
+      "sourceNote": "「梭哈 / 關燈吃麵」散戶梗 register；改寫原創",
+      "tags": ["梭哈", "關燈吃麵", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "上週我看好一檔，信心爆棚，直接梭哈。\n這週我關燈吃麵。\n不是停電，是我捨不得開燈看對帳單；也不是想吃麵，是預算只剩下麵。\n梭哈到關燈吃麵，中間只隔了三個交易日，效率高得驚人。",
+          "editorNote": "送給每個一時衝動全押、隔幾天就默默改吃泡麵的同好",
+          "variations": [
+            "梭哈的盡頭不是財富自由，是把冰箱裡的存糧自由地吃完。",
+            "我不是在過極簡生活，我是被一檔股票強迫極簡。"
+          ]
+        },
+        "en": {
+          "content": "Last week I loved a name, confidence through the roof, so I went all in.\nThis week I'm eating instant noodles in the dark.\nThe lights aren't out from a blackout — I just can't bear to switch them on and see the statement. And I'm not eating noodles by choice — noodles are all the budget allows.\nFrom all-in to noodles-in-the-dark took exactly three trading days. Frighteningly efficient.",
+          "editorNote": "For everyone who YOLO'd a position on impulse and quietly downgraded to instant noodles days later",
+          "variations": [
+            "The end of going all in isn't financial freedom. It's freely finishing whatever's left in the pantry.",
+            "I'm not living a minimalist life. A single stock forced minimalism on me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-043",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://relatejokes.com/funny-trading-jokes/",
+      "sourceNote": "「asked my stocks for a dividend, they said we're just here for the exposure」register；改寫原創",
+      "tags": ["股利", "存股", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟我的持股要求配個股利，意思意思就好。\n它們很有默契地回我：抱歉，我們只是來這裡曝光，不負責賺錢。\n我才發現，我養的不是金雞母，是一群來蹭版面的網紅，光鮮亮麗，零收入。\n存股存了三年，存到一櫃子只會出現在新聞標題、不會出現在我戶頭的明星股。",
+          "editorNote": "送給每個滿手熱門題材股、卻一毛股利都沒看到的存股族",
+          "variations": [
+            "我的持股很會上新聞，很不會進我的口袋。",
+            "別人存股是養金雞母，我存股是養一群只會擺拍的網美。"
+          ]
+        },
+        "en": {
+          "content": "I asked my holdings to throw me a dividend, just a token amount.\nIn perfect unison they replied: sorry, we're only here for the exposure, we don't do income.\nThat's when I realized I wasn't raising golden geese — I was raising a flock of influencers who showed up for the spotlight: glamorous, zero revenue.\nThree years of accumulating shares, and all I collected was a cabinet of celebrity stocks that appear in headlines but never in my account.",
+          "editorNote": "For the dividend collector holding a stack of hot-theme stocks that have never paid out a cent",
+          "variations": [
+            "My holdings are great at making the news and terrible at making it into my wallet.",
+            "Other people accumulate shares to raise golden geese. I accumulated a flock of influencers who only know how to pose."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-044",
+      "dateAdded": "2026-06-05",
+      "sourceUrl": "https://uptogo.com.tw/%E7%A7%91%E6%8A%80/%E7%B6%B2%E8%B7%AF/2026%E6%9C%89%E4%BB%80%E9%BA%BC%E6%A2%97%EF%BC%9F/",
+      "sourceNote": "2026 馬年「馬倒成功 / 哭哭馬 喪萌」流行語 + 投資自嘲混搭 register；改寫原創",
+      "tags": ["馬年", "喪萌", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "馬年大家都祝彼此馬到成功，我看著對帳單，只想到馬倒成功。\n別人新年願望是發大財，我的新年願望是回本就好。\n我現在的心情，就跟那隻爆紅的哭哭馬玩偶一樣：表情很委屈，但還是得繼續站在原地被市場摸頭。\n喪萌的最高境界，就是一邊賠錢一邊覺得自己賠得很可愛。",
+          "editorNote": "送給每個馬年開紅盤滿懷希望、結果年初就先被洗一波的同好",
+          "variations": [
+            "今年我沒有馬到成功，但我成功地馬倒了，倒得很徹底。",
+            "我的投資組合就是一隻哭哭馬，表情委屈，但還是得撐著。"
+          ]
+        },
+        "en": {
+          "content": "It's the Year of the Horse, and everyone's wishing each other a galloping success. I look at my statement and all I can think of is a galloping faceplant.\nOther people's New Year wish is to strike it rich. Mine is just to break even.\nRight now I feel exactly like that viral crying-horse plushie: a thoroughly aggrieved expression, yet still forced to stand there and let the market pat me on the head.\nPeak 'sad-cute' is losing money while finding yourself adorable for losing it.",
+          "editorNote": "For everyone who opened the Year of the Horse full of hope and got flushed in the first week",
+          "variations": [
+            "This year I didn't gallop to success. I galloped face-first into the ground — thoroughly.",
+            "My portfolio is basically that crying-horse plushie: aggrieved expression, still has to hang in there."
+          ]
+        }
+      }
     }
   ]
 }
