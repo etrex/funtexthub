@@ -3221,6 +3221,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "bq-131",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.flick.social/captions/funny-breakup-captions-for-instagram",
+      "sourceNote": "Inspired by 'single and ready to eat a whole pizza' funny caption format; rewritten with Taiwan 一個人火鍋 / 不用分料 localization",
+      "tags": ["失戀", "自嘲", "黑色幽默", "戀愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "單身又自由？\n比較像是單身又可以一個人吃整鍋火鍋，\n不用把蛋餃分給別人，也沒人偷夾我的肉。",
+          "editorNote": "失戀後第一個真正的快樂時刻，常常是發現「終於不用配合別人的口味」。傳給剛恢復單身的朋友，附一張一人鍋的照片更好笑。",
+          "variations": [
+            "分手最大的好處：火鍋料終於全部都是我的。",
+            "我不是孤單，我只是終於可以照自己的順序下菜。"
+          ]
+        },
+        "en": {
+          "content": "Single and free?\nMore like single and finally eating a whole hot pot alone —\nno one to split the dumplings with, no one stealing my beef.",
+          "editorNote": "The first real moment of joy after a breakup is often realizing you no longer have to match someone else's taste. Send to a newly single friend with a photo of a hot pot for one.",
+          "variations": [
+            "Best part of the breakup: all the hot pot ingredients are finally mine.",
+            "I'm not lonely. I just get to cook everything in my own order now."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-132",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.flick.social/captions/instagram-captions-break-up-leave-me-like-its-funny",
+      "sourceNote": "Inspired by 'love is blind but my breakup goggles are clear' caption; rewritten with 近視 / 度數對了 eyesight metaphor",
+      "tags": ["失戀", "自嘲", "黑色幽默", "戀愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說愛情讓人盲目，我現在懂了。\n分手之後我的視力突然回正常，\n才看清楚他根本不是我想像的那個樣子——是我之前度數配錯了。",
+          "editorNote": "失戀後看清對方真面目，其實是好事。傳給那個總說「他以前不是這樣」的朋友——他一直都是這樣，只是你現在度數對了。",
+          "variations": [
+            "戀愛的時候我是高度近視，分手以後突然 1.0。",
+            "不是他變了，是我終於把濾鏡拿下來看清楚了。"
+          ]
+        },
+        "en": {
+          "content": "They say love is blind. Now I get it.\nAfter the breakup, my eyesight snapped back to normal,\nand I finally saw he was never who I imagined — my prescription was just wrong before.",
+          "editorNote": "Seeing your ex clearly after a breakup is actually a good thing. For the friend who keeps saying 'he wasn't like this before' — he always was, your vision just corrected.",
+          "variations": [
+            "In love I had terrible eyesight. Post-breakup, suddenly 20/20.",
+            "He didn't change. I just finally took off the filter and looked."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-133",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://arielhsu.tw/lost-love-5/",
+      "sourceNote": "Inspired by '放下，才是最好的不打擾' canonical line; rewritten with 把鑰匙還回去 / 不再守門 letting-go metaphor",
+      "tags": ["失戀", "釋懷", "放下", "戀愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "放下不是把他從心裡趕出去，\n是把那扇你一直幫他留著的門關上，\n然後把鑰匙還給自己。",
+          "editorNote": "很多人放不下，是因為一直幫對方留著回來的位置。傳給那個還在「萬一他回來」的朋友——門關上不是恨，是你決定不再當守門的人。",
+          "variations": [
+            "你不是忘不了他，你只是還沒願意把那扇門上鎖。",
+            "釋懷是把等他的那把鑰匙，重新插回自己的門。"
+          ]
+        },
+        "en": {
+          "content": "Letting go isn't kicking them out of your heart.\nIt's closing the door you kept holding open for them,\nand handing the key back to yourself.",
+          "editorNote": "Many people can't let go because they keep a spot saved for the other person to come back to. For the friend still on 'what if they return' — closing the door isn't hatred, it's deciding to stop being the gatekeeper.",
+          "variations": [
+            "You haven't failed to forget them. You just haven't been willing to lock the door yet.",
+            "Moving on is taking the key you saved for them and putting it back in your own door."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-134",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.wolfglobal.org/blog/breakup-instagram-captions",
+      "sourceNote": "Inspired by 'I lost in love but gained in freedom' empowerment line; rewritten with 對帳單 / 淨賺 accounting metaphor",
+      "tags": ["失戀", "振作", "自我價值", "戀愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這段感情結算一下：\n失去一個不珍惜我的人，賺回整個週末、所有的睡眠，還有對自己的話語權。\n怎麼算都是淨賺。",
+          "editorNote": "失戀後做一次「盤點」，常常會發現自己其實賺到了。傳給那個只盯著「失去」的朋友，提醒她另一欄寫滿了「賺回來」。",
+          "variations": [
+            "分手對帳單：支出一個前任，收入一整個自由。",
+            "別只看你失去什麼，看看你拿回了多少時間。"
+          ]
+        },
+        "en": {
+          "content": "Let's settle the accounts on this relationship:\nLost one person who didn't value me. Gained back my whole weekend, all my sleep, and the final say over my own life.\nNet profit, any way you run the numbers.",
+          "editorNote": "Doing an 'inventory' after a breakup often reveals you actually came out ahead. For the friend fixated on the 'lost' column — remind her the other column is full of things she got back.",
+          "variations": [
+            "Breakup balance sheet: expense, one ex. Income, a whole lot of freedom.",
+            "Don't just count what you lost. Count how much time you got back."
+          ]
+        }
+      }
     }
   ]
 }

@@ -2502,6 +2502,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-102",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://andyli.tw/date/",
+      "sourceNote": "115 分科測驗 7/11-12 倒數一個月 register — 時間錯覺 frame",
+      "tags": ["分科測驗", "115分科", "倒數", "自嘲", "時間"],
+      "i18n": {
+        "zh-tw": {
+          "content": "倒數計時器顯示還有一個月。\n我心裡的進度條顯示還有一章。\n這兩個數字唯一的共通點，\n是它們都不打算等我。",
+          "editorNote": "六月分科衝刺期的限動標配，配張倒數 App 截圖，讀書群會排一整列「我也是」。",
+          "variations": [
+            "可以加：「倒數一個月，我的待讀清單卻還在倒數第一頁。」",
+            "也能改：「時間一直跑，只有我的進度卡在 loading。」"
+          ]
+        },
+        "en": {
+          "content": "The countdown timer says one month left.\nMy internal progress bar says one chapter in.\nThe only thing these two numbers have in common\nis that neither of them plans to wait for me.",
+          "editorNote": "June subject-exam sprint caption — pair with a countdown-app screenshot and the study chat fills with '+1'.",
+          "variations": [
+            "Add: \"One month left on the clock. My reading list is still on page one.\"",
+            "Try: \"Time keeps running. Only my progress is stuck on loading.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-103",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "study all night on social media register — 假裝讀書 frame 在地化",
+      "tags": ["分科測驗", "拖延", "滑手機", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我昨晚熬夜苦讀，\n讀的是別人考上的限動、補習班的招生文、還有一篇陌生人的考試心得。\n書桌上的課本翻開在同一頁，\n見證了我一整晚的努力，跟它無關。",
+          "editorNote": "假裝在讀書其實在滑手機的考生 OS，配張課本攤開但螢幕亮著的照片超寫實。",
+          "variations": [
+            "可以加：「我讀了一整晚，只是讀的不是我要考的東西。」",
+            "也能改：「熬夜不等於讀書，這是我用一整晚換來的結論。」"
+          ]
+        },
+        "en": {
+          "content": "I pulled an all-nighter studying hard last night.\nI studied other people's 'I got in' stories, cram-school ads, and one stranger's exam review.\nThe textbook on my desk stayed open to the same page,\nsilently witnessing a whole night of effort that had nothing to do with it.",
+          "editorNote": "For the 'studied all night... on my phone' confession — pair with an open-textbook-glowing-screen photo.",
+          "variations": [
+            "Add: \"I studied all night. Just not the thing I'm being tested on.\"",
+            "Try: \"An all-nighter isn't the same as studying. That's the one thing I learned all night.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-104",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://punorbit.com/exam-jokes/",
+      "sourceNote": "panic plus caffeine register — 恐慌加咖啡因 公式 frame 在地化",
+      "tags": ["分科測驗", "咖啡因", "熬夜", "自嘲", "公式"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的應考公式是：\n恐慌 ＋ 咖啡因 ＝ 最後一刻的奇蹟。\n問題是這個公式我每次都套，\n奇蹟卻是抽獎制的，今年會不會中，沒人知道。",
+          "editorNote": "靠咖啡跟焦慮硬撐的考生限動，配張第幾杯咖啡的照片，留言會排「精準描述」。",
+          "variations": [
+            "可以加：「咖啡因負責清醒，恐慌負責動力，分數負責隨緣。」",
+            "也能改：「我不是在準備考試，我是在等奇蹟發貨。」"
+          ]
+        },
+        "en": {
+          "content": "My exam formula is:\npanic + caffeine = a last-minute miracle.\nProblem is, I run this formula every single time,\nbut the miracle works on a lottery system — no telling if it pays out this year.",
+          "editorNote": "For the running-on-coffee-and-anxiety crowd — pair with a 'cup number whatever' photo for instant 'this is me' replies.",
+          "variations": [
+            "Add: \"Caffeine handles being awake, panic handles motivation, the score handles itself.\"",
+            "Try: \"I'm not preparing for the exam. I'm waiting for a miracle to ship.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-105",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://punorbit.com/exam-jokes/",
+      "sourceNote": "exams sneak up like ninjas register — 考試像忍者 比喻在地化",
+      "tags": ["分科測驗", "考試", "比喻", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試像忍者，總是無聲無息地接近。\n你以為還很遠，回頭一看它已經站在你背後，\n手裡拿著一張你沒讀到的考卷，\n笑著對你說：「久等了。」",
+          "editorNote": "覺得考試突然就到眼前的考生 OS，傳到班群一秒引發「對它真的會偷襲」接龍。",
+          "variations": [
+            "可以加：「我以為我有時間，結果時間是忍者，它早就潛伏在我身邊。」",
+            "也能改：「考試不會大聲走來，它會在你放鬆的那天突然出現。」"
+          ]
+        },
+        "en": {
+          "content": "Exams are like ninjas — they always approach in total silence.\nYou think it's still far away, then you turn around and it's standing right behind you,\nholding a paper full of stuff you never studied,\nsmiling and saying: \"Took you long enough.\"",
+          "editorNote": "For the 'how is the exam already here' panic — drop in the group chat for a chorus of 'it really does ambush you.'",
+          "variations": [
+            "Add: \"I thought I had time. Turns out time is a ninja, and it was right beside me all along.\"",
+            "Try: \"Exams never arrive loudly. They show up the day you finally relax.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-106",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.flick.social/captions/funny-instagram-captions-about-finals",
+      "sourceNote": "download knowledge buffering register — 大腦下載中 frame 在地化",
+      "tags": ["分科測驗", "大腦", "熬夜", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，我試著把兩個月的進度，\n一次下載進這顆腦袋。\n結果它顯示：「下載中，預估剩餘時間：來不及。」\n進度條卡在 99％，剩下那 1％，就是我考試會的部分。",
+          "editorNote": "考前臨時抱佛腳到天亮的考生限動，配張凌晨書桌照，留言會排「我的進度條也卡住」。",
+          "variations": [
+            "可以加：「腦袋容量已滿，請刪除一些不必要的回憶再試一次。」",
+            "也能改：「我不是沒讀，是進度條卡在 99％ 永遠跑不完。」"
+          ]
+        },
+        "en": {
+          "content": "Two in the morning, I'm trying to download two months of material\ninto this one brain all at once.\nIt shows: \"Downloading, estimated time remaining: too late.\"\nThe progress bar is stuck at 99% — and that last 1% is the part I'll actually know on the exam.",
+          "editorNote": "For the cram-till-sunrise crowd — pair with a 3am desk photo and watch 'my progress bar is frozen too' roll in.",
+          "variations": [
+            "Add: \"Brain storage full. Please delete some unnecessary memories and try again.\"",
+            "Try: \"It's not that I didn't study. My progress bar is just frozen at 99% forever.\""
+          ]
+        }
+      }
     }
   ]
 }

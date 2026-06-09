@@ -3103,6 +3103,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-129",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/funny/",
+      "sourceNote": "Reframes the Help Scout 「customer service is hide-and-seek」 joke; original 「躲哪都被找到」 visibility-curse framing is the rewrite anchor",
+      "tags": ["服務業", "金句", "厭世", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業就像在玩躲貓貓，\n差別只在於——\n不管我躲到倉庫、廁所、還是後門抽風口，\n需要找麻煩的客人，\n永遠第一個找到我。",
+          "editorNote": "傳給那個一進倉庫補貨、客人就準時出現喊『有人嗎』的同事。我們不是隱形，是專門被雷達鎖定的那種顯眼。",
+          "variations": [
+            "服務業沒有放空時間，因為你一放空，客人的雷達就響了。",
+            "想休息五分鐘，宇宙就會派一個客人來提醒你——你還在上班。"
+          ]
+        },
+        "en": {
+          "content": "Service work is basically hide-and-seek,\nwith one twist:\nno matter where I hide — stockroom, bathroom, back-door fan vent —\nthe customer who needs something\nalways finds me first.",
+          "editorNote": "Send to the coworker who steps into the stockroom and a customer instantly appears yelling \"anybody here?\" We're not invisible — we're the kind of visible that's permanently radar-locked.",
+          "variations": [
+            "There's no zoning out in service. The second you do, the customer radar goes off.",
+            "Try to take a five-minute break and the universe sends a customer to remind you you're still on shift."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-130",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/funny/",
+      "sourceNote": "Reframes the 「run on passive aggression and deep breathing」 funny quote; original 「員工燃料表」 fuel-gauge framing is the rewrite anchor",
+      "tags": ["服務業", "情緒勞動", "厭世", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業員工不需要咖啡，\n我們靠兩種燃料就能上一整天班：\n壓在喉嚨裡的那句髒話，\n還有一口比一口深的深呼吸。",
+          "editorNote": "傳給今天靠深呼吸撐到下班的同事。我們不是脾氣好，是把脾氣換算成氧氣在燒。",
+          "variations": [
+            "服務業的續航力，靠的不是熱情，是吞回去的那幾百句話。",
+            "別人上班喝咖啡提神，我們上班深呼吸保命。"
+          ]
+        },
+        "en": {
+          "content": "Service workers don't run on coffee.\nWe run on two fuels for the whole shift:\nthe curse word stuck in our throat,\nand breaths that get deeper by the hour.",
+          "editorNote": "Send to the coworker who deep-breathed their way to clock-out today. It's not that we have a good temper — we just convert it into oxygen and burn it.",
+          "variations": [
+            "Service-industry stamina isn't passion. It's the few hundred things we swallowed.",
+            "Other people drink coffee to stay sharp. We deep-breathe to stay alive."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-131",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.keeping.com/content/customer-service-jokes/",
+      "sourceNote": "Reframes the Keeping 「I guess it's free!」 won't-scan customer-line trope; original 「掃不出來不等於免費」 logic-gap framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "商品條碼掃不出來，\n客人馬上眼睛一亮：「那是不是免費的？」\n我笑著說：「不是喔。」\n心裡想：「掃不出來的是條碼，\n又不是您要付的錢。」",
+          "editorNote": "傳給今天又被『掃不出來就免費』這個老梗逗到笑不出來的櫃檯同事。這句話從你上班第一天就不好笑了，但客人講得永遠很有自信。",
+          "variations": [
+            "「掃不出來是不是免費」——這句話的笑點，早在我入職第一天就過期了。",
+            "條碼掃不出來，客人比我還開心，彷彿中了發票一樣。"
+          ]
+        },
+        "en": {
+          "content": "The barcode won't scan,\nand the customer's eyes light up: \"Guess it's free, then?\"\nI smile: \"Nope.\"\nInside I'm thinking: \"What didn't scan is the barcode —\nnot the money you still owe.\"",
+          "editorNote": "Send to the cashier coworker who couldn't fake a laugh at the \"guess it's free\" bit again today. That line stopped being funny on day one of the job, yet customers keep delivering it with full confidence.",
+          "variations": [
+            "\"Guess it's free?\" — that joke expired on my very first day on the register.",
+            "When the barcode won't scan, the customer's happier than I am, like they just won the lottery."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-132",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reframes the Dcard 奧客語錄 「叫你們店長出來」 escalation trope; original 「店長也只是另一件比較貴的制服」 framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "客訴", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人氣到喊：「叫你們店長出來！」\n店長出來後，講的跟我一字不差。\n客人愣了三秒——\n原來他要的不是答案，\n是一個職稱比較大、可以讓他贏的對象。",
+          "editorNote": "傳給今天被客人『跳級喊話』、結果店長講一樣的話的同事。客人要的常常不是解決，是一個能讓他覺得自己贏了的人。",
+          "variations": [
+            "「叫店長出來」的客人，要的不是更高的答案，是更高的階級可以踩。",
+            "店長講的跟我一樣，客人就突然安靜了——可見問題從來不是那句話。"
+          ]
+        },
+        "en": {
+          "content": "The customer snaps: \"Get me your manager!\"\nThe manager comes out and says exactly what I said, word for word.\nThe customer freezes for three seconds —\nturns out they didn't want an answer.\nThey wanted a bigger job title to beat.",
+          "editorNote": "Send to the coworker who got escalated past today, only for the manager to repeat them verbatim. Customers often don't want a solution — they want someone who lets them feel like they won.",
+          "variations": [
+            "The \"get me your manager\" customer doesn't want a higher answer. They want a higher rank to step on.",
+            "The manager said the same thing I did and the customer went quiet — proof the line was never the problem."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-133",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://surveysparrow.com/blog/funny-customer-service-memes/",
+      "sourceNote": "Reframes the 「support team coping with humor」 burnout-meme register; original 「下班後的笑跟上班時的笑不是同一種」 two-smiles framing is the rewrite anchor",
+      "tags": ["服務業", "微笑", "情緒勞動", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "上班時的笑，是發給客人的。\n下班後跟同事在後巷邊抽菸邊罵的笑，\n才是發給自己的。\n服務業最珍貴的福利，\n不是員工價，是有人陪你一起苦中作樂。",
+          "editorNote": "傳給那個下班後願意陪你站在後門邊吐槽客人的戰友。撐過服務業的，從來不是熱情，是身邊那群一起笑著罵的人。",
+          "variations": [
+            "上班的笑是商品，下班跟同事的笑才是退貨後拿回來的真心。",
+            "服務業最能回血的時刻，是收店後大家一起把今天的奧客笑著演一遍。"
+          ]
+        },
+        "en": {
+          "content": "The smile on shift is issued to customers.\nThe smile after clock-out — out back, ranting with a coworker —\nthat one's issued to myself.\nThe best perk in service work\nisn't the staff discount. It's someone to laugh through the misery with.",
+          "editorNote": "Send to the work buddy who'll stand out by the back door after close and roast the day's customers with you. What gets people through service work was never passion — it's the crew who laughs and complains alongside you.",
+          "variations": [
+            "The on-shift smile is merchandise. The after-shift laugh with a coworker is the sincerity you got back as a refund.",
+            "The best recovery moment in service work is the whole crew reenacting today's worst customer, laughing, after lockup."
+          ]
+        }
+      }
     }
   ]
 }

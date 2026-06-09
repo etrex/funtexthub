@@ -6043,6 +6043,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-209",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://programmerhumor.io/memes/github-copilot",
+      "sourceNote": "'Copilot suggested the exact bug I spent days creating' AI autocomplete irony meme, rewritten",
+      "tags": [
+        "AI",
+        "Copilot",
+        "黑色幽默",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我花了三天才寫出一個超隱晦的 bug。\n結果今天打開 Copilot，它直接幫我把那個 bug 自動補完了。\n原來不是我一個人爛，是整個訓練資料都這樣寫。",
+          "editorNote": "傳給最近一直在罵 AI 補錯 code 的同事，他會邊苦笑邊說「對，就是這樣」。",
+          "variations": [
+            "Copilot 最大的功能，是讓你知道全世界的工程師都跟你犯一樣的錯。",
+            "AI 不會取代工程師，它只會用更快的速度幫你把同一個 bug 複製貼上。"
+          ]
+        },
+        "en": {
+          "content": "I spent three days crafting a beautifully obscure bug.\nToday I opened Copilot and it autocompleted the exact same bug for me.\nTurns out I'm not uniquely bad — the entire training set codes like this.",
+          "editorNote": "Send to the coworker who's been ranting about AI suggesting broken code. They'll laugh-cry and say 'yep, that's the one.'",
+          "variations": [
+            "Copilot's real feature: proving that every developer on Earth makes the same mistake you do.",
+            "AI won't replace developers. It'll just copy-paste the same bug faster than you ever could."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-210",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "'Vibe coding = Vulnerability as a Service' meme about shipping AI code you don't understand, rewritten",
+      "tags": [
+        "vibe coding",
+        "AI",
+        "資安",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "什麼是 vibe coding？\n就是憑感覺寫程式，AI 給什麼你貼什麼，完全不知道底層在幹嘛。\n等戴上清醒眼鏡才發現：你不是在開發產品，你是在提供「漏洞即服務」。",
+          "editorNote": "適合傳給那種 PR 全是 AI 生成、一個問題都答不出來的隊友，溫柔地提醒他 review 一下。",
+          "variations": [
+            "Vibe coding 的精隨：上線之前一切都很有 vibe，上線之後全部都是 incident。",
+            "我不寫 code，我只是 AI 程式碼的搬運工。"
+          ]
+        },
+        "en": {
+          "content": "What's vibe coding?\nIt's writing code purely on vibes — you paste whatever the AI hands you, with zero idea what's happening underneath.\nThen the clarity glasses come on and you realize: you're not shipping a product, you're running Vulnerability as a Service.",
+          "editorNote": "For the teammate whose PRs are 100% AI-generated and who can't answer a single question about them. A gentle nudge to actually read the diff.",
+          "variations": [
+            "The essence of vibe coding: everything has great vibes until launch, then everything is an incident.",
+            "I don't write code. I'm just a courier for whatever the AI generated."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-211",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "Classic 'dark mode because light attracts bugs' one-liner, rewritten and extended",
+      "tags": [
+        "dark mode",
+        "bug",
+        "一行笑話",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼工程師都用深色模式？\n因為亮的會招 bug 啊。",
+          "editorNote": "最適合放在工程師朋友的 IG 限動或團隊 Slack，短短一句秒懂秒笑。",
+          "variations": [
+            "我把編輯器調成深色不是為了護眼，是不想讓 bug 看到自己住哪。",
+            "深色模式：唯一一個我願意全公司統一規格的東西。"
+          ]
+        },
+        "en": {
+          "content": "Why do developers always use dark mode?\nBecause light attracts bugs.",
+          "editorNote": "Perfect for a developer friend's Instagram story or the team Slack. One line, instant laugh.",
+          "variations": [
+            "I switched my editor to dark mode not for my eyes, but so the bugs can't see where I live.",
+            "Dark mode: the one standard I'd happily enforce across the entire company."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-212",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://snugfam.com/101-funny-programmer-quotes-that-will-make-every-coder-laugh-out-loud-in-2025/",
+      "sourceNote": "'I don't always test my code, but when I do, I do it in production' classic meme, rewritten",
+      "tags": [
+        "測試",
+        "上線爆炸",
+        "黑色幽默",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不常測試我的程式碼。\n但只要我測，我一定在正式環境測。\n畢竟最真實的測試環境，就是有真人在用的那個。",
+          "editorNote": "傳給那種「本機跑得好好的」就直接推上線的同事，附上監控警報截圖效果更佳。",
+          "variations": [
+            "QA 環境是給膽小的人用的，勇者直接在 production 開圖。",
+            "我沒有測試環境，我有的是「使用者幫我測」環境。"
+          ]
+        },
+        "en": {
+          "content": "I don't always test my code.\nBut when I do, I test it in production.\nAfter all, the most realistic test environment is the one with real users in it.",
+          "editorNote": "Send to the coworker who ships straight to prod because 'it worked on my machine.' Bonus points for attaching the alert screenshot.",
+          "variations": [
+            "Staging is for cowards. Real ones uncover the map directly in production.",
+            "I don't have a test environment. I have a 'let the users test it for me' environment."
+          ]
+        }
+      }
     }
   ]
 }

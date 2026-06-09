@@ -1179,6 +1179,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-049",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.mygopen.com/2026/05/taipower.html",
+      "sourceNote": "查核：網傳夏月三段式電價最高一度 8.12 元為不實資訊；改寫原創",
+      "tags": ["夏月電價", "謠言", "級距", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "家族群組瘋傳：「夏月電價一度飆到 8 塊多，快關冷氣！」\n查核網站：「假的，家庭用電還是看累進級距。」\n我：「所以是真的會變貴，只是沒那麼戲劇化。」\n結論：唯一不假的，是我每年看到這則謠言時，那股被嚇到的真心。",
+          "editorNote": "傳給那個每年都把「電價飆 8 塊」謠言轉進家族群組的長輩，附上查核連結",
+          "variations": [
+            "電費謠言年年新，唯一不變的是我看到數字就先把冷氣關掉的反射動作。",
+            "夏天的恐怖故事不用編，台電的真實級距就夠嚇人了。"
+          ]
+        },
+        "en": {
+          "content": "Family chat, going viral: 'Summer rates just spiked past eight bucks a unit — kill the AC now!'\nFact-check site: 'False. Household bills still follow the tiered scale.'\nMe: 'So it does get pricier, just less dramatically.'\nConclusion: the only thing that isn't fake is how genuinely scared I am every year this rumor resurfaces.",
+          "editorNote": "Send to the relative who forwards the 'rates spiked to eight bucks' rumor every year — attach the fact-check link",
+          "variations": [
+            "The electric-bill rumors change every year; the only constant is my reflex to kill the AC the second I see a number.",
+            "You don't need to invent summer horror stories — the real tiered rates are scary enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-050",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "夏季電費試算 鄉民研究累進級距 register；改寫原創",
+      "tags": ["電費試算", "級距", "計算機", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "六月開始，我學會了一個全新技能：用台電試算頁面，預估我這期帳單。\n我把每天開幾小時冷氣輸進去，按下計算。\n螢幕跳出數字的那一刻，我懂了——\n有些答案，不知道反而比較幸福。",
+          "editorNote": "傳給那個第一次認真用電費試算機、然後馬上後悔的朋友",
+          "variations": [
+            "電費試算機是夏天唯一一個你會希望它算錯的計算機。",
+            "我預估了這期電費，現在我比帳單還早一步崩潰。"
+          ]
+        },
+        "en": {
+          "content": "Starting in June, I learned a brand-new skill: using the utility's calculator to forecast my bill.\nI type in how many hours of AC I run each day and hit calculate.\nThe second the number appears on screen, I understand —\nsome answers leave you happier not knowing.",
+          "editorNote": "For the friend who seriously used the bill calculator once and immediately regretted it",
+          "variations": [
+            "The bill estimator is the only calculator in summer you actually hope gets it wrong.",
+            "I forecast this cycle's bill, and now I get to have my breakdown one step ahead of the envelope."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-051",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.digitalmomblog.com/hot-weather-memes/",
+      "sourceNote": "too hot to function hot weather meme；改寫原創",
+      "tags": ["高溫", "厭世", "上班", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天的我，分成兩種狀態：\n在冷氣房裡：勉強算個正常運作的人類。\n離開冷氣房三分鐘：一灘有意識、會冒汗、偶爾還能講話的液體。\n所以我不是不想出門，我是怕我撐不到目的地就先蒸發。",
+          "editorNote": "傳給那個一到夏天就拒絕所有戶外邀約、理由都是「太熱」的朋友",
+          "variations": [
+            "夏天的我只有兩種型態：開冷氣的人，跟關冷氣的一灘水。",
+            "別約我中午見面，那個時段的我，已經不是固體了。"
+          ]
+        },
+        "en": {
+          "content": "In summer I exist in two states:\nInside the AC: a barely functioning human being.\nThree minutes outside the AC: a conscious, sweating, occasionally verbal puddle.\nSo it's not that I don't want to go out — I'm afraid I'll evaporate before I reach the destination.",
+          "editorNote": "For the friend who declines every outdoor invite all summer with the same reason: 'too hot'",
+          "variations": [
+            "I have two summer forms: a person with AC, and a puddle without it.",
+            "Don't ask to meet at noon — by that hour, I'm no longer a solid."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-052",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://qmonster.cc/energy-efficient/",
+      "sourceNote": "台電認證 變頻冷氣短暫外出不關更省 但長時間要關 register；改寫原創",
+      "tags": ["變頻冷氣", "省電", "出門", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電認證：「變頻冷氣短暫外出別關，但離開超過一小時就該關。」\n於是我每次出門前，都要先預測未來：\n「我這趟，到底會不會超過一小時？」\n我連自己晚餐吃什麼都決定不了，現在還要替一台冷氣做時間管理。",
+          "editorNote": "傳給那個出門前要站在冷氣前面盤算「我多久會回來」的選擇障礙朋友",
+          "variations": [
+            "省電的前提，是你得先成為一個能準確預測自己行程的人——我做不到。",
+            "變頻冷氣最難的不是設定，是它逼我承認我根本不知道自己幾點回家。"
+          ]
+        },
+        "en": {
+          "content": "The power company confirms: 'Don't switch off inverter AC for a quick errand, but turn it off if you'll be gone over an hour.'\nSo now, before every trip out, I have to predict the future:\n'Will this errand take more than an hour?'\nI can't even decide what to have for dinner, and now I'm doing time management for an air conditioner.",
+          "editorNote": "For the indecisive friend who stands in front of the AC calculating 'how long will I be gone' before every trip",
+          "variations": [
+            "Saving power assumes you can accurately predict your own schedule — I cannot.",
+            "The hardest part of inverter AC isn't the settings; it's being forced to admit I have no idea when I'll be home."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-053",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "2026 夏季電費 6/1-9/30 四個月 register；改寫原創",
+      "tags": ["夏月電價", "倒數", "九月", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏月電價從六月一號開始，九月三十號結束。\n別人過夏天是在數還剩幾天放假，\n我是在數還剩幾天，台電才肯放過我的錢包。\n四個月，一百二十二天，我跟我的存款，一起撐。",
+          "editorNote": "適合在六月初發文，配一張月曆截圖，標出九月三十號那格畫圈",
+          "variations": [
+            "我的夏天不是用節氣算的，是用台電的夏月電價區間算的。",
+            "九月三十號之後，吹冷氣才會重新變回一件單純的事。"
+          ]
+        },
+        "en": {
+          "content": "Summer rates run from June 1st to September 30th.\nOther people spend summer counting down the days of vacation left.\nI spend it counting down the days until the power company finally lets my wallet go.\nFour months, 122 days, me and my savings, holding the line together.",
+          "editorNote": "Post in early June with a calendar screenshot and September 30th circled",
+          "variations": [
+            "My summer isn't measured by the solstice — it's measured by the utility's peak-rate window.",
+            "After September 30th, running the AC goes back to being a simple thing again."
+          ]
+        }
+      }
     }
   ]
 }

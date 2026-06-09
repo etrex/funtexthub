@@ -5112,6 +5112,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-208",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
+      "sourceNote": "廢話文學經典邏輯循環句改寫",
+      "tags": ["廢話文學", "哲學", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "據我所知，我什麼都不知道。\n\n而我之所以知道我什麼都不知道，\n\n是因為我知道了這件事。\n\n所以嚴格來說，我至少知道一件事。",
+          "editorNote": "開會被問到不會的問題時，可以在心裡默念，外表保持鎮定",
+          "variations": [
+            "我懂的東西不多，而我懂的不多這件事，我倒是懂得很清楚。",
+            "說我不懂的人，其實也不懂我到底懂不懂。"
+          ]
+        },
+        "en": {
+          "content": "As far as I know, I know nothing.\n\nAnd the only reason I know I know nothing\n\nis because I know that one thing.\n\nSo technically, I do know at least one thing.",
+          "editorNote": "Repeat this internally when you're asked a question in a meeting you have no answer to — stay calm on the outside",
+          "variations": [
+            "I don't know much, but the fact that I don't know much, I know very well.",
+            "People who say I don't get it don't actually know whether I get it or not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-209",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
+      "sourceNote": "廢話文學「我知道你很急」句式改寫",
+      "tags": ["廢話文學", "社群", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我知道你很急，\n\n但你先別急。\n\n等你不急的時候，\n\n你就會發現你其實不用急。\n\n等你發現不用急，事情通常也辦完了。",
+          "editorNote": "群組裡有人在催進度、但你還沒開始做的時候，貼這個剛剛好",
+          "variations": [
+            "你越急，事情越慢；你不急了，事情還是一樣慢。",
+            "急也是一天，不急也是一天，差別在於你急的那天比較累。"
+          ]
+        },
+        "en": {
+          "content": "I know you're in a hurry,\n\nbut don't be in a hurry just yet.\n\nOnce you stop hurrying,\n\nyou'll realize you didn't need to hurry.\n\nAnd by the time you realize that, it's usually done anyway.",
+          "editorNote": "Drop this in the group chat when someone's chasing you for an update you haven't started",
+          "variations": [
+            "The more you rush, the slower it goes; the less you rush, it goes just as slow.",
+            "Stressing about it takes a day, not stressing takes a day too — the difference is the stressful one is more tiring."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-210",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "廢話文學「抛開內容不談」句式改寫",
+      "tags": ["廢話文學", "哲學", "對話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "撇開內容不談，\n\n你講的其實還蠻有道理的。\n\n畢竟內容才是重點，\n\n而我們現在不談內容。",
+          "editorNote": "聽完一段完全聽不懂的簡報，需要回應又不想得罪人的時候",
+          "variations": [
+            "不考慮對錯的話，你說的完全正確。",
+            "如果不看結果，這個方案其實非常成功。"
+          ]
+        },
+        "en": {
+          "content": "Setting aside the content,\n\nwhat you said actually makes a lot of sense.\n\nOf course, the content is the whole point,\n\nand right now we're not talking about the content.",
+          "editorNote": "For when you just sat through a presentation you didn't understand and need to say something without offending anyone",
+          "variations": [
+            "If we ignore whether it's right or wrong, you're completely correct.",
+            "If we don't look at the results, this plan was a huge success."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-211",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
+      "sourceNote": "廢話文學「明天的事後天就知道」句式改寫",
+      "tags": ["廢話文學", "時間", "哲學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "關於明天會發生什麼事，\n\n你後天就會知道了。\n\n如果後天還不知道，\n\n那就再等一天。\n\n總之到最後你一定會知道，只是時間問題。",
+          "editorNote": "朋友焦慮地問你明天結果會怎樣的時候，這句話保證讓他更焦慮",
+          "variations": [
+            "未來的事現在都還沒發生，所以現在擔心也是白擔心。",
+            "結果出來之前你不會知道結果，結果出來之後你就不用問了。"
+          ]
+        },
+        "en": {
+          "content": "As for what happens tomorrow,\n\nyou'll find out the day after.\n\nAnd if you still don't know by then,\n\njust wait one more day.\n\nEither way you'll definitely find out — it's only a matter of time.",
+          "editorNote": "When a friend anxiously asks how tomorrow will turn out, this is guaranteed to make them more anxious",
+          "variations": [
+            "Future things haven't happened yet, so worrying about them now is wasted worry.",
+            "You won't know the result before it's out, and once it's out you don't need to ask."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-212",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/422693796",
+      "sourceNote": "廢話文學「沒對象應該還是單身」句式改寫",
+      "tags": ["廢話文學", "感情", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "據觀察，沒有對象的人，\n\n目前應該還是單身。\n\n而一旦脫單，\n\n他就不再是沒有對象的人了。\n\n這個規律，至今沒有出現過例外。",
+          "editorNote": "被長輩問「怎麼還沒對象」的時候，用這句回敬，氣氛保證很微妙",
+          "variations": [
+            "想脫單的第一步，就是先有一個對象。",
+            "單身的人之所以單身，是因為他現在沒有在交往。"
+          ]
+        },
+        "en": {
+          "content": "Studies show that people without a partner\n\nare, at present, most likely single.\n\nAnd the moment they get into a relationship,\n\nthey are no longer a person without a partner.\n\nThis rule has, to this day, never had an exception.",
+          "editorNote": "Fire this back when a relative asks why you're still single — the vibe is guaranteed to get awkward",
+          "variations": [
+            "The first step to not being single is to first have a partner.",
+            "Single people are single because they're currently not dating anyone."
+          ]
+        }
+      }
     }
   ]
 }

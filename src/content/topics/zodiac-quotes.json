@@ -5725,6 +5725,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-183",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "",
+      "sourceNote": "Gemini traits — dual nature, social yet flaky, talkative, introvert-extrovert hybrid",
+      "tags": [
+        "雙子座",
+        "Gemini",
+        "E人",
+        "雙面",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雙子座一邊抱怨自己都沒朋友、好孤單，\n一邊已讀全部人的訊息，連一句「在忙」都懶得回。\n\n他不是高冷，他只是電量分配很奇怪——出去玩可以瘋一整晚，回家後可以失蹤三天。",
+          "editorNote": "傳給那個約他超難、出來又最嗨的雙子朋友，他會說「你怎麼知道」",
+          "variations": [
+            "雙子座的內建設定：今天是派對動物，明天是與世隔絕的修行者，全看當天哪個人格上線。",
+            "雙子座不是難搞，他只是自己跟自己聊天就很開心，因為兩邊都很有梗。"
+          ]
+        },
+        "en": {
+          "content": "A Gemini will complain about having no friends and feeling so lonely —\nwhile leaving everyone on read, too lazy to even type 'kinda busy.'\n\nThey're not playing hard to get. Their battery just allocates weirdly: party all night out, then vanish for three days at home.",
+          "editorNote": "Send to the Gemini who's impossible to pin down but the life of the party once they show. They'll go: 'How did you know.'",
+          "variations": [
+            "A Gemini's factory setting: party animal today, hermit on a silent retreat tomorrow — depends entirely on which personality clocked in.",
+            "A Gemini isn't hard to deal with. They just have a great time talking to themselves, because both sides are hilarious."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-184",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "",
+      "sourceNote": "Scorpio traits — intense, observant, says little but notices everything, guarded",
+      "tags": [
+        "天蠍座",
+        "Scorpio",
+        "I人",
+        "深沉",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "天蠍座最可怕的不是嘴巴毒，\n是他什麼都不說，卻什麼都記得。\n\n你以為那件事過去了，其實他只是把它收進心裡的資料夾，編號、上鎖、永久保存。",
+          "editorNote": "傳給那個平常很安靜、但你絕對不想得罪的天蠍朋友",
+          "variations": [
+            "天蠍座的安靜不是沒意見，是他正在默默觀察，然後把每個人看得一清二楚。",
+            "對天蠍座好，他會記一輩子；對他不好，他也會記一輩子，差別只在他不會告訴你而已。"
+          ]
+        },
+        "en": {
+          "content": "The scary thing about a Scorpio isn't the sharp tongue.\nIt's that they say nothing — and remember everything.\n\nYou think it blew over. Really, they just filed it away in a folder in their heart: numbered, locked, kept forever.",
+          "editorNote": "Send to the quiet Scorpio friend you would never, ever want to cross",
+          "variations": [
+            "A Scorpio's silence doesn't mean no opinion. It means they're quietly observing — and reading everyone like a book.",
+            "Be good to a Scorpio and they'll remember forever. Be bad to one and they'll also remember forever. The only difference is they won't tell you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-185",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "",
+      "sourceNote": "Virgo traits — perfectionist, detail-obsessed, critical, secretly caring",
+      "tags": [
+        "處女座",
+        "Virgo",
+        "I人",
+        "完美主義",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "處女座不是愛挑剔，\n是他真的看得到別人看不到的那個歪了 0.5 公分的地方。\n\n而且看到之後，他的一整天就毀了，但他還是會假裝沒事，默默把它喬正。",
+          "editorNote": "傳給那個嘴上嫌東嫌西、其實默默幫你把所有細節都顧好的處女座",
+          "variations": [
+            "處女座的碎念其實是一種愛，只是包裝得很像在罵人。",
+            "處女座最大的痛苦：看到問題、知道怎麼解決，但又不好意思直接幫你改。"
+          ]
+        },
+        "en": {
+          "content": "A Virgo isn't nitpicky.\nThey genuinely see the thing that's tilted by half a centimeter — the thing no one else can see.\n\nAnd once they see it, their whole day is ruined. But they'll pretend it's fine and quietly straighten it anyway.",
+          "editorNote": "Send to the Virgo who grumbles about everything but quietly handles every detail for you",
+          "variations": [
+            "A Virgo's nagging is actually love — just packaged to sound exactly like criticism.",
+            "A Virgo's biggest pain: spotting the problem, knowing the fix, but feeling too awkward to just correct it for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-186",
+      "dateAdded": "2026-06-09",
+      "sourceUrl": "",
+      "sourceNote": "Leo traits — confident, spotlight-loving, generous, needs validation",
+      "tags": [
+        "獅子座",
+        "Leo",
+        "E人",
+        "自信",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "獅子座的自信不是裝出來的，是一種生活方式。\n\n他可以一秒走進任何場合，把自己活成全場的主角——但回到家，他其實很需要有人跟他說一句：你今天真的很棒。",
+          "editorNote": "傳給那個看起來超有自信、其實也想被肯定的獅子朋友",
+          "variations": [
+            "獅子座願意把最好的都分給你，唯一的回報是：請看見他、請誇他、請讓他知道他很重要。",
+            "獅子座不是愛出風頭，是他真心覺得「站在中間」這個位置，本來就是為他準備的。"
+          ]
+        },
+        "en": {
+          "content": "A Leo's confidence isn't an act — it's a lifestyle.\n\nThey can walk into any room and instantly become the main character. But back home, they really do need someone to say: you were amazing today.",
+          "editorNote": "Send to the Leo who looks unstoppably confident but quietly wants to be appreciated too",
+          "variations": [
+            "A Leo will give you their absolute best. The only payment they ask: see them, praise them, let them know they matter.",
+            "A Leo isn't a spotlight hog. They sincerely believe that 'center stage' was simply built for them."
+          ]
+        }
+      }
     }
   ]
 }
