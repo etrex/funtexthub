@@ -5705,6 +5705,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-202",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://arielhsu.tw/positive-energy/",
+      "sourceNote": "Inspired by Taiwan positive-energy quote themes about progress versus stagnation",
+      "tags": [
+        "勵志",
+        "正能量",
+        "成長",
+        "進步"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒有不會進步的人生，只有不想前進的自己。",
+          "editorNote": "適合貼在覺得自己卡關、原地踏步的時候看。重點不是你走多快，而是你還願不願意往前。",
+          "variations": [
+            "進步不會自己發生，但只要你願意動，它一定追得上你。",
+            "你不是沒有變好，只是還沒看見自己走了多遠。"
+          ]
+        },
+        "en": {
+          "content": "There's no life that can't grow — only a self that doesn't want to move.",
+          "editorNote": "Good for the days you feel stuck and spinning in place. It's not about how fast you go, but whether you still choose to go.",
+          "variations": [
+            "Progress won't happen on its own, but the moment you move, it catches up.",
+            "You haven't stopped improving — you just haven't looked back to see how far you've come."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-203",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.iglobe.hk/blog/posts/50success",
+      "sourceNote": "Inspired by persistence-themed success quotes about keeping going until results appear",
+      "tags": [
+        "勵志",
+        "堅持",
+        "努力",
+        "成功"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "想要的結果還沒出現，不代表它不會來，只代表你還沒走到。",
+          "editorNote": "努力很久卻看不到成果的時候看這句。很多人是在快成功的那一步放棄的，別當那個人。",
+          "variations": [
+            "結果遲到了，不等於缺席，繼續走就對了。",
+            "你以為的白費力氣，其實都在路上排隊等你。"
+          ]
+        },
+        "en": {
+          "content": "The result you want hasn't shown up yet — that doesn't mean it won't, just that you haven't arrived.",
+          "editorNote": "For when you've grinded for ages with nothing to show. Most people quit one step before it works. Don't be that person.",
+          "variations": [
+            "Late isn't the same as never. Keep walking.",
+            "All that effort you think was wasted is just standing in line, waiting for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-204",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://positivepsychology.com/resilience-quotes/",
+      "sourceNote": "Inspired by resilience quote themes about setbacks being part of the comeback",
+      "tags": [
+        "勵志",
+        "正能量",
+        "挫折",
+        "韌性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每一次被打趴，都是下一次站更穩的練習。",
+          "editorNote": "搞砸了、跌倒了的時候看。挫折不是來打擊你的，是來幫你把下盤練紮實的。",
+          "variations": [
+            "倒下不可怕，可怕的是你以為自己站不起來。",
+            "現在的這一跤，是你以後笑著講出來的故事。"
+          ]
+        },
+        "en": {
+          "content": "Every time you get knocked flat is practice for standing steadier next time.",
+          "editorNote": "For the days you messed up or fell hard. Setbacks aren't here to break you — they're here to strengthen your footing.",
+          "variations": [
+            "Falling isn't the scary part. Believing you can't get back up is.",
+            "This faceplant is just the story you'll tell with a grin later."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-205",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://georgecouros.com/20-inspirational-quotes-to-start-off-2026/",
+      "sourceNote": "Inspired by self-belief themes about being halfway there once you believe",
+      "tags": [
+        "勵志",
+        "正能量",
+        "自信",
+        "勇氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你相信自己的那一刻，路就已經走了一半。",
+          "editorNote": "要做一件沒把握的事之前看。很多時候卡住你的不是難度，是那句「我大概不行」。",
+          "variations": [
+            "還沒開始就先說不行，那是替自己提前認輸。",
+            "信心不是等成功才有，是先有了它，成功才追得上。"
+          ]
+        },
+        "en": {
+          "content": "The moment you believe in yourself, you're already halfway down the road.",
+          "editorNote": "Read this before doing the thing you're unsure about. Usually it's not the difficulty stopping you — it's the quiet \"I probably can't.\"",
+          "variations": [
+            "Calling it quits before you start is just losing early.",
+            "Confidence doesn't wait for success. It comes first, and success catches up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-206",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.iglobe.hk/blog/posts/50success",
+      "sourceNote": "Inspired by quotes about success being small efforts repeated daily",
+      "tags": [
+        "勵志",
+        "努力",
+        "堅持",
+        "累積"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "厲害的人不是一次做很多，是每天都做一點。",
+          "editorNote": "適合提醒自己別追求一夜暴衝。真正拉開差距的，是那些別人看不見的、每天的一小步。",
+          "variations": [
+            "今天的一點點，是未來那個你拼起來的。",
+            "別小看每天的累積，時間最後會幫你算總帳。"
+          ]
+        },
+        "en": {
+          "content": "Impressive people don't do a lot at once — they do a little every day.",
+          "editorNote": "A reminder not to chase the overnight sprint. What really pulls you ahead is the small daily step nobody sees.",
+          "variations": [
+            "Today's little bit is what tomorrow's you is built from.",
+            "Don't underestimate the daily stack — time settles the tab in your favor."
+          ]
+        }
+      }
     }
   ]
 }

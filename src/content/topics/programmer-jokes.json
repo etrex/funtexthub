@@ -6163,6 +6163,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-213",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.mend.io/blog/top-5-developer-jokes-explained/",
+      "sourceNote": "'Debugging is being the detective in a crime where you're also the murderer' classic, rewritten",
+      "tags": [
+        "除錯",
+        "黑色幽默",
+        "自作自受",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除錯就像在偵辦一樁兇殺案。\n你是偵探，努力追查兇手是誰。\n查到最後才發現：兇手就是三個月前的你。",
+          "editorNote": "適合在 git blame 查到自己名字的那一刻，配上崩潰表情傳到團隊群組。",
+          "variations": [
+            "git blame 是這世界上唯一一個會讓你對自己提告的工具。",
+            "我花了一整天找兇手，最後在 commit 紀錄裡看到自己的名字。"
+          ]
+        },
+        "en": {
+          "content": "Debugging is like investigating a murder case.\nYou're the detective, hunting down whoever did it.\nAnd in the final scene, you realize the culprit was you, three months ago.",
+          "editorNote": "Perfect for the moment git blame returns your own name. Add a crying emoji and drop it in the team chat.",
+          "variations": [
+            "git blame is the only tool in the world that lets you press charges against yourself.",
+            "Spent all day hunting the culprit, then found my own name in the commit log."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-214",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "AI 'vibe coding' meme about devs delegating to AI assistants, rewritten",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2020 年：「我寫的程式碼我自己看得懂。」\n2026 年：「我寫的程式碼 AI 看得懂。」\n下一個版本：「我寫的程式碼連 AI 都不想接手。」",
+          "editorNote": "傳給那位整天 vibe coding、被問實作細節就只會說「AI 寫的」的同事。",
+          "variations": [
+            "以前是 Google 工程師，現在是 prompt 工程師，下一步大概是道歉工程師。",
+            "我不是不會寫，我只是把寫程式這件事 outsource 給比我有耐心的 AI。"
+          ]
+        },
+        "en": {
+          "content": "2020: \"I understand the code I wrote.\"\n2026: \"The AI understands the code I wrote.\"\nNext release: \"Not even the AI wants to maintain the code I wrote.\"",
+          "editorNote": "Send to the coworker who vibe codes all day and answers every implementation question with 'the AI wrote it.'",
+          "variations": [
+            "We went from Google engineers to prompt engineers, and apology engineer is clearly next.",
+            "It's not that I can't code — I just outsourced it to an AI with more patience than me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-215",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'My code doesn't have bugs, it develops random features' classic one-liner, rewritten",
+      "tags": [
+        "bug",
+        "規格",
+        "工程師語錄",
+        "嘴硬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的程式碼沒有 bug。\n它只是會自己長出一些當初沒人要求的功能。\n你要的是「規格」，我給你的是「驚喜」。",
+          "editorNote": "回報單上被標 bug 時的最佳辯詞，PM 看了會血壓升高但拿你沒辦法。",
+          "variations": [
+            "這不是 bug，這是一個還沒被寫進規格書的 feature。",
+            "使用者：這裡壞了。我：不，這裡只是用了一種你沒預期到的方式運作。"
+          ]
+        },
+        "en": {
+          "content": "My code doesn't have bugs.\nIt just grows features nobody asked for.\nYou wanted a spec — I gave you a surprise.",
+          "editorNote": "The ideal defense when your ticket gets labeled 'bug.' Your PM's blood pressure rises, but they can't argue.",
+          "variations": [
+            "It's not a bug, it's a feature that hasn't made it into the spec yet.",
+            "User: this is broken. Me: no, it just works in a way you didn't anticipate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-216",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://one-beyond.com/20-one-liners-only-software-developers-understand/",
+      "sourceNote": "UDP connectionless-protocol joke, rewritten for a punchier setup",
+      "tags": [
+        "網路協定",
+        "冷知識",
+        "工程師梗",
+        "雙關"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我想跟你講一個 UDP 的笑話。\n但我不確定你會不會收到。\n如果沒收到也沒關係，反正我也不會重傳。",
+          "editorNote": "適合丟給懂網路協定的工程師，懂的人會笑，不懂的人剛好示範了什麼叫封包遺失。",
+          "variations": [
+            "我也有 TCP 的笑話，但我得先跟你確認你準備好了，然後等你回我準備好了，然後我再確認你確認了。",
+            "傳了 UDP 笑話沒人回，這很正常，這就是它的設計理念。"
+          ]
+        },
+        "en": {
+          "content": "I'd tell you a UDP joke.\nBut I'm not sure you'd receive it.\nAnd if you don't, that's fine — I'm not retransmitting.",
+          "editorNote": "Drop this on a developer who knows their protocols. Those who get it laugh; those who don't just demonstrated packet loss.",
+          "variations": [
+            "I've also got a TCP joke, but first I need to confirm you're ready, wait for you to confirm you're ready, then confirm that I got your confirmation.",
+            "Sent a UDP joke, got no reply. Totally normal — that's the design philosophy."
+          ]
+        }
+      }
     }
   ]
 }

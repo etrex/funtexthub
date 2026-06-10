@@ -2543,6 +2543,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-105",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/261396730",
+      "sourceNote": "2026 租屋抵稅18萬 房東不肯給收據改匯款; rewritten original",
+      "tags": ["報稅", "房東", "收據", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "抵稅額調高到十八萬，聽起來很爽。\n問房東要付款證明，他說：「妳改匯款嘛，順便房租加兩千。」\n原來政府給我的十八萬，是讓房東先預支的。",
+          "editorNote": "適合五月報稅季前轉發給準備跟房東喬收據的朋友，提醒他匯款留紀錄就是最好的證明",
+          "variations": [
+            "扣除額升到十八萬，我能省的稅大概剛好夠付房東漲的那一筆。",
+            "房東說：「報稅可以，但別讓我被國稅局找上。」我說那您是要我報稅還是報恩？"
+          ]
+        },
+        "en": {
+          "content": "The deduction cap jumped to a hundred eighty thousand — sounds amazing.\nI asked my landlord for proof of payment. He said: 'Just wire it instead, and rent goes up two thousand.'\nTurns out the deduction the government gave me, my landlord drew first.",
+          "editorNote": "Send before May tax season to a friend negotiating receipts with their landlord — remind them a bank transfer record is the cleanest proof",
+          "variations": [
+            "The cap rose to a hundred eighty thousand. The tax I'd save just about covers the hike my landlord added.",
+            "Landlord said: 'Report it if you must, just don't get me audited.' So do you want me to file taxes or pay tribute?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-106",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/254845999",
+      "sourceNote": "2026 Dcard 看房該問什麼問題討論; rewritten original",
+      "tags": ["看房", "找房", "經驗", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次看房，我什麼都不敢問。\n第十次看房，我會問：訊號、漏水、水壓、鄰居、房東脾氣、退租押金怎麼算。\n看房看到後來，我不是在找房子，我是在做盡職調查。",
+          "editorNote": "傳給第一次自己找房、緊張到不敢開口問問題的朋友，告訴他敢問才不會踩雷",
+          "variations": [
+            "看房前我列了二十個問題，房仲回答完十九個，剩下那個叫「真的有這麼便宜嗎」。",
+            "新手看房看裝潢，老手看房看天花板的水漬。"
+          ]
+        },
+        "en": {
+          "content": "First apartment viewing, I was too shy to ask anything.\nTenth viewing, I ask about signal, leaks, water pressure, neighbors, the landlord's temper, and exactly how the deposit gets calculated at move-out.\nBy now I'm not viewing apartments — I'm running due diligence.",
+          "editorNote": "Send to a friend touring their first place who's too nervous to ask questions — tell them the questions are what keep you out of trouble",
+          "variations": [
+            "I had twenty questions ready before the viewing. The agent answered nineteen. The last one was 'is it really this cheap?'",
+            "Beginners inspect the decor. Veterans inspect the ceiling for water stains."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-107",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 'competitive pricing' identical landlords meme; rewritten original",
+      "tags": ["漲租", "市場行情", "荒謬", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說漲租是因為「市場行情」。\n我後來才知道，所謂市場行情，\n就是一群房東圍成一圈，互相說「你漲我也漲」。",
+          "editorNote": "適合每次被房東用「行情」兩個字搪塞的朋友轉發，戳破這個沒有人能說清楚的詞",
+          "variations": [
+            "「行情」是房東們最團結的時候，比工會還準時。",
+            "房東漲租從來不用理由，因為「行情」就是他們發明的理由。"
+          ]
+        },
+        "en": {
+          "content": "My landlord said the rent hike was just 'market rate.'\nLater I figured out what market rate means:\na circle of landlords telling each other, 'you raise yours, I'll raise mine.'",
+          "editorNote": "Send to a friend who keeps getting brushed off with the word 'market' — it pops the one term nobody can actually explain",
+          "variations": [
+            "'Market rate' is the most united landlords ever get — more reliable than any union.",
+            "Landlords never need a reason to raise rent, because 'the market' is the reason they invented."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-108",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://cheezburger.com/25045253/31-renter-memes-that-give-experienced-tenants-the-landlord-special",
+      "sourceNote": "2026 'congratulations on having a home, now you can afford nothing else' meme; rewritten original",
+      "tags": ["房租", "薪水", "生活", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "繳完房租那一刻，恭喜你，你有家了。\n壞消息是——\n你現在除了這個家，什麼都買不起。",
+          "editorNote": "適合每月一號繳完房租、看著空空的帳戶苦笑的朋友轉發，配一張泡麵照最對味",
+          "variations": [
+            "我有一個屋簷，沒有一頓好飯；有一張床，沒有一場旅行。",
+            "房租繳完那天，我的人生只剩下兩個選擇：吃飯，或者繼續活著。"
+          ]
+        },
+        "en": {
+          "content": "The moment you pay rent — congratulations, you have a home.\nThe bad news is\nyou can now afford nothing except that home.",
+          "editorNote": "Send to a friend staring at an empty balance on the first of the month — pair it with a photo of instant noodles",
+          "variations": [
+            "I've got a roof but not a decent meal, a bed but not a single trip.",
+            "The day rent clears, life narrows to two options: eat, or keep existing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-109",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/260662916",
+      "sourceNote": "2026 租補不承認頂加 5加6房屋雙重崩潰 register; rewritten original",
+      "tags": ["補助", "頂加", "屋況", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我住的是五加六——\n五樓加蓋的第六層。\n租補說我不算，房東說屋況就這樣，\n只有夏天的太陽最公平：它從來沒漏掉我。",
+          "editorNote": "傳給住頂樓加蓋、夏天熱到融化又領不到補助的朋友，苦笑之餘記得多喝水",
+          "variations": [
+            "頂加的浪漫是離天空最近，離補助最遠。",
+            "房東說頂樓視野好，沒說的是夏天四十度、冬天漏風、補助永遠輪不到我。"
+          ]
+        },
+        "en": {
+          "content": "I live in a 'five-plus-six' —\nthe sixth floor stacked illegally on top of a five-story building.\nThe subsidy says I don't count, the landlord says the place is what it is,\nand only the summer sun is fair: it never once skips me.",
+          "editorNote": "Send to a friend baking in an illegal rooftop add-on who can't claim the subsidy — laugh, then remind them to hydrate",
+          "variations": [
+            "The romance of a rooftop add-on: closest to the sky, furthest from any subsidy.",
+            "Landlord said the rooftop has a great view. What he left out: 104°F summers, drafty winters, and a subsidy I'll never qualify for."
+          ]
+        }
+      }
     }
   ]
 }

@@ -1304,6 +1304,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-054",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.npr.org/2026/05/23/nx-s1-5823767/summer-heat-electric-bills-cost",
+      "sourceNote": "NPR 報導 AI 資料中心推升電價 一般家庭夏天負擔；改寫原創",
+      "tags": ["AI", "資料中心", "電價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說：「AI 資料中心愈蓋愈多，整個電網的電都變貴了。」\n所以我家電費飆高，原因之一是地球另一端有一台超級電腦，正在很努力地幫某個人想晚餐要吃什麼。\n結論：我吹冷氣付的錢，有一部分，是替全人類的 AI 繳的冷氣費。",
+          "editorNote": "傳給那個一邊問 AI 怎麼省電、一邊發現 AI 正是電費變貴元兇的朋友",
+          "variations": [
+            "我的電費裡，有一條看不見的帳目，叫做「替全世界的伺服器降溫」。",
+            "AI 愈聰明，我家電費就愈高，這大概是這個時代最公平的稅。"
+          ]
+        },
+        "en": {
+          "content": "The news says: 'As AI data centers multiply, electricity across the whole grid is getting pricier.'\nSo one reason my bill spiked is that somewhere on the other side of the planet, a supercomputer is working hard to help someone decide what to have for dinner.\nConclusion: part of what I pay to run my AC is actually covering the cooling bill for all of humanity's AI.",
+          "editorNote": "For the friend who asks AI how to save power, then realizes AI is the very reason power got expensive",
+          "variations": [
+            "There's an invisible line item in my bill called 'cooling the world's servers.'",
+            "The smarter AI gets, the higher my bill climbs — probably the fairest tax of our era."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-055",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.kpbs.org/news/economy/2026/05/23/summer-electric-bills-sizzle-as-the-cost-of-cooling-climbs",
+      "sourceNote": "KPBS/NPR 報導 有人靠捐血漿付電費 夏季帳單破 300 美元；改寫原創",
+      "tags": ["電費", "省錢", "崩潰", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看到新聞說有人為了付夏天的電費，每週去捐兩次血漿。\n我愣了一下，然後默默看向自己的手臂，認真評估了一下。\n夏天的台灣教會我一件事：原來「身上有什麼可以換錢」，是一個會在拆帳單那天突然浮現的問題。",
+          "editorNote": "傳給那個帳單來的那天會開始盤點家裡有什麼能賣的朋友，苦中作樂",
+          "variations": [
+            "夏天的電費，逼我開始研究我這個人除了會喊熱，還剩下什麼價值。",
+            "為了冷氣費，我願意付出的東西，正在以一種我不太想承認的速度增加。"
+          ]
+        },
+        "en": {
+          "content": "I read that someone donates plasma twice a week just to cover their summer electric bill.\nI paused, glanced down at my own arm, and gave it a genuinely serious assessment.\nSummer taught me one thing: 'what do I have that I could trade for cash' is a question that surfaces out of nowhere the day the bill arrives.",
+          "editorNote": "For the friend who starts mentally inventorying what's sellable in the house the day the bill lands",
+          "variations": [
+            "The summer bill forced me to figure out what I'm worth besides being good at complaining about the heat.",
+            "The list of things I'd give up to afford the AC is growing at a speed I'd rather not admit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-056",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.ptt.cc/bbs/E-appliance/M.1773049038.A.298.html",
+      "sourceNote": "PTT 父母看到帳單飆升後寧願不開冷氣 register；改寫原創",
+      "tags": ["父母", "冷氣", "捨不得", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸媽以前的原則是：「冷氣會涼就好，多少錢都沒關係。」\n直到他們看見第一張夏月帳單。\n現在他們的新原則是：「再熱都撐得過去，命是自己的，錢是台電的。」\n我回家發現他們坐在 33 度的客廳搧扇子，那一刻我懂了，省電是會遺傳的，但要先被嚇過一次。",
+          "editorNote": "傳給那個夏天回老家、發現爸媽寧願熱也不開冷氣的朋友，又好氣又心疼",
+          "variations": [
+            "我爸媽對冷氣的態度，在收到帳單前後，是兩個完全不同的人。",
+            "長大後最心酸的畫面，是爸媽捨不得開冷氣，卻一直叫我回房間吹。"
+          ]
+        },
+        "en": {
+          "content": "My parents' old rule: 'As long as the AC keeps us cool, the cost doesn't matter.'\nThen they saw the first summer bill.\nTheir new rule: 'We can survive any amount of heat — our lives are our own, but the money belongs to the power company.'\nI came home to find them fanning themselves in a 91-degree living room, and that's when I understood: frugality is hereditary, but only after one good scare.",
+          "editorNote": "For the friend who goes home in summer to find their parents toughing out the heat rather than running the AC — equal parts exasperated and heartbroken",
+          "variations": [
+            "My parents before and after the bill are two completely different people about the AC.",
+            "The most bittersweet sight of growing up is parents who won't run the AC for themselves but keep telling me to go cool off in my room."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-057",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.npr.org/2026/05/23/nx-s1-5823767/summer-heat-electric-bills-cost",
+      "sourceNote": "NPR 報導 反常高溫 冷氣風扇超時運轉 多買度數；改寫原創",
+      "tags": ["高溫", "冷氣", "用電量", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年夏天熱到反常，冷氣跟電風扇全部超時加班。\n以前我覺得「電費貴」是台電的問題，現在我知道，是天氣先動的手，台電只是負責收尾。\n我跟我的冷氣，今年都在做一份沒有上限、沒有加班費、還要倒貼的工作。",
+          "editorNote": "傳給那個今年熱到開始懷疑是不是地球壞掉的朋友，配一張溫度破紀錄的截圖",
+          "variations": [
+            "今年的熱，是那種會讓你的冷氣跟你的存款一起喊累的熱。",
+            "天氣負責讓我熱，台電負責讓我窮，分工明確，配合無間。"
+          ]
+        },
+        "en": {
+          "content": "This summer is abnormally hot, and the AC and fans are all pulling overtime.\nI used to think 'expensive electricity' was the power company's doing. Now I know the weather strikes first, and the power company just handles the cleanup.\nThis year, my AC and I are both working a job with no ceiling, no overtime pay, and an out-of-pocket cost.",
+          "editorNote": "For the friend whose heat this year has them wondering if the planet is broken — pair with a record-high temperature screenshot",
+          "variations": [
+            "This year's heat is the kind that leaves your AC and your savings both gasping for breath.",
+            "The weather makes me hot, the power company makes me broke — clear division of labor, seamless teamwork."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-058",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://tech.udn.com/tech/story/123152/9539864",
+      "sourceNote": "夏月電價上路 冷氣開關之間的猶豫 register；改寫原創",
+      "tags": ["冷氣", "猶豫", "省電", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天的我，手指停在冷氣開關上的時間，比真正吹到冷氣的時間還長。\n開，怕帳單；不開，怕中暑。\n我就這樣維持著一個微妙的平衡——熱到剛好快受不了，但還沒受不了的那個瞬間，我管它叫「省電的甜蜜點」。",
+          "editorNote": "傳給那個每次開冷氣前都要先天人交戰三秒鐘的朋友，他一定懂這個甜蜜點",
+          "variations": [
+            "夏天最難的不是熱，是決定到底要不要按下那顆開關。",
+            "我跟冷氣之間，隔著一整個夏天的猶豫。"
+          ]
+        },
+        "en": {
+          "content": "In summer, my finger hovers over the AC switch longer than I actually spend in the cold air.\nTurn it on, fear the bill; leave it off, fear heatstroke.\nSo I maintain a delicate balance — hot enough to be right on the edge of unbearable, but not quite there. I call that the 'energy-saving sweet spot.'",
+          "editorNote": "For the friend who agonizes for three full seconds before turning on the AC every single time — they know this sweet spot well",
+          "variations": [
+            "The hardest part of summer isn't the heat — it's deciding whether to press that switch.",
+            "Between me and the AC stands an entire summer's worth of hesitation."
+          ]
+        }
+      }
     }
   ]
 }

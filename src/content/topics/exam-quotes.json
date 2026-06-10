@@ -2627,6 +2627,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-107",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.tkbgo.com.tw/schoolZone/university/news/toDetail?news_id=4668",
+      "sourceNote": "115 分科測驗 7/11-12 兩天四節 register — 縮短天數但沒縮短痛苦 frame",
+      "tags": ["分科測驗", "115分科", "自嘲", "廢文", "考試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年分科從三天縮成兩天，\n大家都說「省一天好幸福」。\n結果痛苦沒有變少，只是壓得更密集。\n原來他們省的是天數，不是我的命。",
+          "editorNote": "分科縮天數消息出來後的考生 OS，傳到讀書群會排一整列「以為解脫結果更累」。",
+          "variations": [
+            "可以加：「兩天考完聽起來輕鬆，實際上是把三天的崩潰塞進兩天。」",
+            "也能改：「天數變少，但每一節我崩潰的濃度變高了。」"
+          ]
+        },
+        "en": {
+          "content": "This year the subject exam shrank from three days to two.\nEveryone said \"one less day, what a blessing.\"\nTurns out the suffering didn't shrink — it just got more concentrated.\nThey saved a day. They didn't save me.",
+          "editorNote": "For when 'shorter exam' turns out to mean 'denser pain' — drop in the study chat for a chorus of 'thought it'd be easier.'",
+          "variations": [
+            "Add: \"Two days sounds chill until you realize they crammed three days of breakdown into it.\"",
+            "Try: \"Fewer days, but the breakdown-per-session ratio went way up.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-108",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "fluent in studying the night before register — 考前一晚才流利 frame 在地化",
+      "tags": ["分科測驗", "臨時抱佛腳", "拖延", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我精通一種讀書法：考前一晚速成班。\n平常一頁要看三天，\n考前那晚我可以一小時翻完整本。\n問題是這種能力只有在來不及的時候才會解鎖。",
+          "editorNote": "拖到最後一晚才開機的考生限動，配張凌晨翻書照，留言會排「這超級是我」。",
+          "variations": [
+            "可以加：「我的專注力是考前限定款，平常不出貨。」",
+            "也能改：「我不是不會讀書，我是只有在來不及的時候才會。」"
+          ]
+        },
+        "en": {
+          "content": "I'm fluent in exactly one study method: the night-before crash course.\nNormally one page takes me three days.\nThe night before, I can flip the whole book in an hour.\nProblem is, this skill only unlocks once it's already too late.",
+          "editorNote": "For the chronic last-night crammer — pair with a 2am book-flipping photo and watch 'literally me' roll in.",
+          "variations": [
+            "Add: \"My focus is a limited edition — pre-exam only, never restocked.\"",
+            "Try: \"It's not that I can't study. I just can only do it when it's already too late.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-109",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://exam-match.1111.com.tw/blog/13e85f67-7848-48c6-9981-245e921e3eb0",
+      "sourceNote": "個人申請結束 vs 拚分科 抉擇 register — 已錄取卻不甘心 frame",
+      "tags": ["分科測驗", "個人申請", "選擇", "輕勵志", "考試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我手上已經有一個錄取，\n但我還是報了分科。\n不是那個學校不好，\n是我想知道，再拚一次的我，可以走到哪裡。\n安全牌我留著，賭注我自己下。",
+          "editorNote": "送給已經有錄取卻決定再拚分科的朋友，比「加油」更懂他的兩難，適合衝刺期打氣。",
+          "variations": [
+            "可以加：「我不是不滿足，是我想對得起那個還想再試的自己。」",
+            "也能改：「錄取通知是地板，分科是我想踮腳碰的天花板。」"
+          ]
+        },
+        "en": {
+          "content": "I already have an offer in hand,\nbut I signed up for the subject exam anyway.\nNot because that school isn't good enough —\nbut because I want to know how far the me who tries one more time can go.\nI'm keeping the safe card. I'm placing the bet myself.",
+          "editorNote": "For the friend with an offer who chose to gamble on one more exam — gets the dilemma better than a plain 'good luck.'",
+          "variations": [
+            "Add: \"It's not that I'm unsatisfied. I want to do right by the me who still wants to try.\"",
+            "Try: \"The acceptance letter is my floor. The subject exam is the ceiling I'm reaching for.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-110",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://smartsmssolutions.com/resources/blog/sms-templates/business-message-templates/60-funny-motivational-quotes-for-college-exams-to-beat-study-stress",
+      "sourceNote": "plan panic pass survive register — 計畫恐慌求生 三階段在地化",
+      "tags": ["分科測驗", "心境", "自嘲", "廢文", "求生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的備考流程只有三步：\n訂計畫、爆恐慌、求生還。\n通過是 bonus，活著就算贏。\n至於那張漂亮的讀書計畫表，\n它在第二步就已經陣亡了。",
+          "editorNote": "衝刺期把目標從「考高分」降級成「活著走出考場」的考生 OS，傳班群秒引發接龍。",
+          "variations": [
+            "可以加：「我的目標不是上榜，是平安回家。」",
+            "也能改：「計畫、恐慌、求生，這三步我每次都很穩，穩穩地原地踏步。」"
+          ]
+        },
+        "en": {
+          "content": "My exam prep has exactly three steps:\nmake a plan, full panic, survive.\nPassing is a bonus — staying alive already counts as a win.\nAs for that beautiful study schedule,\nit died somewhere around step two.",
+          "editorNote": "For when your goal downgrades from 'ace it' to 'walk out breathing' — instant group-chat relate.",
+          "variations": [
+            "Add: \"My goal isn't to pass. It's to make it home.\"",
+            "Try: \"Plan, panic, survive — I nail all three every time. Nailing them in place, going nowhere.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-111",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.flick.social/captions/funny-instagram-captions-about-finals",
+      "sourceNote": "summer studying while everyone else relaxes register — 全世界放暑假只有我在讀 frame",
+      "tags": ["分科測驗", "暑假", "孤獨", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全世界都在放暑假，\n限動裡都是海邊、冷氣、手搖跟笑容。\n只有我，在七月最熱的時候，\n抱著一本參考書，\n替全班守著最後一個還沒下課的教室。",
+          "editorNote": "分科考生七月還在衝刺、看著同學玩瘋的孤單限動，配張只有自己亮燈的書桌照超有畫面。",
+          "variations": [
+            "可以加：「別人的暑假是放假，我的暑假是加映場。」",
+            "也能改：「我不是不想去海邊，是我先去考場替大家探路。」"
+          ]
+        },
+        "en": {
+          "content": "The whole world is on summer break.\nEveryone's story is beaches, AC, bubble tea, and smiles.\nJust me, in the hottest week of July,\nclutching a review book,\nholding down the last classroom that never got to dismiss.",
+          "editorNote": "For the July subject-exam grinder watching everyone else's vacation — pair with a lone-desk-lamp photo for full loneliness.",
+          "variations": [
+            "Add: \"Everyone else's summer is a break. Mine is an extra screening.\"",
+            "Try: \"It's not that I don't want the beach. I'm just scouting the exam hall for everyone first.\""
+          ]
+        }
+      }
     }
   ]
 }

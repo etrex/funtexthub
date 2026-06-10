@@ -3228,6 +3228,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-134",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://tw.nextmgz.com/realtimenews/news/45188694",
+      "sourceNote": "Reframes the 「10大奧客經典語錄」 list (我老客戶誒 / 別間可以你們怎不可); original 「老客戶會員卡只存在他自己腦裡」 framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "金句", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人說：「我可是你們老客戶誒。」\n我心裡想：「您的會員卡，\n只存在您自己的記憶裡，\n而且每次刷，折扣都自動加倍。」",
+          "editorNote": "傳給每天被「我老客戶」開頭壓折扣的櫃檯同事。老客戶三個字是奧客的萬用通行證，可惜系統永遠查無此卡。",
+          "variations": [
+            "「我老客戶」是不用印的會員卡，效期永久、折扣無上限，只是查無資料。",
+            "客人的『老客戶』年資，通常比這間店開的時間還久。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"You know I'm a regular here.\"\nMe, internally: \"Your loyalty card\nexists only in your own memory —\nand every swipe somehow doubles the discount.\"",
+          "editorNote": "Send to the front-counter coworker getting leveraged for discounts with \"I'm a regular\" all day. It's the all-purpose pass — too bad the system never finds the card.",
+          "variations": [
+            "\"I'm a regular\" is an unprinted loyalty card: never expires, unlimited discount, no record found.",
+            "The customer's years as a \"regular\" often predate the day the store opened."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-135",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://surveysparrow.com/blog/funny-customer-service-memes/",
+      "sourceNote": "Reframes the 「it's free / it won't scan」 retail meme; original 「掃不到 ≠ 免費」 register rewritten as a tired-cashier monologue",
+      "tags": ["服務業", "零售", "奧客", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "東西掃不到的時候，\n客人一定會說：「那是不是免費的？」\n這個笑話，\n我從上班第一天聽到現在，\n它沒變好笑，只變老了，跟我一起。",
+          "editorNote": "傳給每天都要陪客人演一次「掃不到等於免費」的收銀同事。有些笑話客人講得很有自信，只有我們知道它已經死了一千次。",
+          "variations": [
+            "「掃不到是不是免費」這句，全台灣的收銀機每天被講三萬次，沒有一次成功。",
+            "客人以為掃不到很好笑，其實掃不到只代表我要手動輸入一長串條碼。"
+          ]
+        },
+        "en": {
+          "content": "Whenever something won't scan,\nthe customer always says: \"Guess it's free, then?\"\nI've heard that joke\nevery day since my first shift.\nIt hasn't gotten funnier. It's just gotten older — along with me.",
+          "editorNote": "Send to the cashier who has to fake-laugh at \"guess it's free\" daily. Some jokes the customer delivers with full confidence, while only we know they died a thousand deaths ago.",
+          "variations": [
+            "\"Guess it's free\" gets said thirty thousand times a day at registers everywhere, and it has never once worked.",
+            "The customer thinks a failed scan is hilarious. To me it just means typing in a very long barcode by hand."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-136",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://crossing.cw.com.tw/article/14581",
+      "sourceNote": "Reframes the 「有限消費、無限服務」 critique from the 換日線 service-culture register; original 「以客為尊被翻譯成以客為神」 mistranslation framing is the rewrite anchor",
+      "tags": ["服務業", "金句", "尊嚴", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「以客為尊」這四個字，\n不知道哪一年被偷偷翻譯成「以客為神」。\n尊重是雙向的，\n當神是單向的——\n而我們，從來沒有報名要當廟公。",
+          "editorNote": "適合貼在員工休息室，提醒大家界線在哪。尊重客人沒問題，把客人供成神就是另一回事了。",
+          "variations": [
+            "以客為尊跟以客為神，差一個字，差的是我要不要燒香。",
+            "客人值得被尊重，但尊重不等於我得在櫃檯後面替您點光明燈。"
+          ]
+        },
+        "en": {
+          "content": "Somewhere along the way,\n\"the customer comes first\" got quietly rewritten as \"the customer is a deity.\"\nRespect runs both ways.\nWorship runs only one —\nand none of us signed up to be the temple keeper.",
+          "editorNote": "Good for the break room as a boundary reminder. Respecting customers is fine; enshrining them as gods is something else entirely.",
+          "variations": [
+            "\"Customer first\" and \"customer worship\" are one word apart — and one of them requires incense.",
+            "Customers deserve respect. Respect doesn't mean I light a prayer candle for you behind the counter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-137",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reframes the Dcard 奧客語錄 「那是你們的問題不是我的問題」 deflection line; original 「問題的所有權」 boundary framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "客訴", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人最愛的句子：「那是你們的問題，不是我的問題。」\n奇怪的是，\n每次出問題的源頭都是他，\n問題的所有權卻永遠登記在我名下。\n服務業最不公平的地方，\n是錯由客人犯，鍋由員工背。",
+          "editorNote": "傳給今天剛被「那是你們的問題」甩鍋、回家還在生氣的同事。你不是難相處，你只是不想替別人的選擇道歉。",
+          "variations": [
+            "客人犯的錯，過戶速度比房子還快，三秒就登記到員工名下。",
+            "「那是你們的問題」翻譯成白話：請你用你的下班時間，處理我的不負責任。"
+          ]
+        },
+        "en": {
+          "content": "The customer's favorite line: \"That's your problem, not mine.\"\nFunny thing is,\nthe problem always starts with them,\nyet the deed to it gets filed under my name.\nThe deepest unfairness in service work:\nthe customer makes the mistake, the employee carries the blame.",
+          "editorNote": "Send to the coworker who got handed the \"that's your problem\" deflection today and is still fuming at home. You're not difficult — you just don't want to apologize for someone else's choice.",
+          "variations": [
+            "A customer's mistake transfers ownership faster than a house — three seconds and it's filed under the employee.",
+            "\"That's your problem\" translates to: please use your off-hours to clean up my irresponsibility."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-138",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://punvio.com/customer-service-puns-2026/",
+      "sourceNote": "Reframes the 2026 「customer service: therapy, unpaid edition」 pun register; original 「免費心理諮商所」 framing rewritten for the Taiwanese service context",
+      "tags": ["服務業", "情緒勞動", "客服", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的職稱是櫃檯人員，\n實際業務是：免費心理諮商所、\n客人婚姻問題傾訴窗口、\n以及陌生人壞心情的回收站。\n諮商所收費一小時兩千，\n我收費——時薪一百九。",
+          "editorNote": "傳給每天被客人當情緒諮商師、卻沒拿到諮商師薪水的同行。我們聽的故事不比心理師少，只是沒人替我們開帳單。",
+          "variations": [
+            "服務業是全台灣收費最便宜的心理諮商所，諮商師還要負責結帳。",
+            "客人把整週的委屈倒給我，倒完心情好了，換我帶著他的情緒下班。"
+          ]
+        },
+        "en": {
+          "content": "My job title says front-desk clerk.\nMy actual duties: free therapy clinic,\nintake window for customers' marriage problems,\nand recycling bin for strangers' bad moods.\nA real therapist charges a hundred an hour.\nI charge — minimum wage.",
+          "editorNote": "Send to anyone treated as a free counselor by customers without the counselor's pay. We hear no fewer stories than a therapist — nobody just sends us the bill.",
+          "variations": [
+            "Service work is the cheapest therapy clinic in town, and the therapist also has to ring you up.",
+            "The customer dumps a whole week of grievances on me, feels better, and leaves — and I clock out carrying their mood home."
+          ]
+        }
+      }
     }
   ]
 }

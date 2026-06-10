@@ -1236,6 +1236,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-050",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.pocket.tw/school/report/ETF/7437/",
+      "sourceNote": "高股息 ETF 殖利率回落、賺了股息賠了價差 register；改寫原創",
+      "tags": ["高股息", "ETF", "賺股息賠價差", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我買高股息 ETF 是為了領那筆漂亮的配息，每個月都期待入帳的那一天。\n配息確實準時來了，一毛都沒少。\n問題是除息那天，淨值也準時掉下去了，掉的金額剛好等於我領到的。\n我終於懂了：所謂的高股息，是把我自己的錢，左手換到右手，還要先扣稅。",
+          "editorNote": "送給每個興沖沖領了配息、回頭一看價差倒賠的存股族",
+          "variations": [
+            "我領到的不是被動收入，是我本金的零錢回饋。",
+            "高股息 ETF 教會我一件事：股息是真的，報酬是假的。"
+          ]
+        },
+        "en": {
+          "content": "I bought a high-dividend ETF for that beautiful payout, looking forward to deposit day every month.\nThe dividend showed up right on time, not a cent short.\nThe catch is, on ex-dividend day the NAV dropped right on time too — by exactly the amount I'd just received.\nNow I get it: 'high dividend' means moving my own money from my left hand to my right, minus a withholding tax.",
+          "editorNote": "For the dividend stacker who happily collected a payout and then noticed the capital loss underneath",
+          "variations": [
+            "What I collected wasn't passive income. It was spare-change cashback on my own principal.",
+            "High-dividend ETFs taught me one thing: the dividend is real, the return is not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-051",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6003152",
+      "sourceNote": "資訊落差 / 大戶出貨散戶接刀 心理學 register；改寫原創",
+      "tags": ["主力", "接刀", "資訊落差", "韭菜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我終於想通主力跟散戶的差別在哪了。\n主力知道什麼時候該進、什麼時候該出；我只知道什麼時候該後悔。\n他們在資訊的最前面，我在新聞的最後面，等利多見報的那天，剛好就是我進場的那天。\n原來我不是在投資，我是在幫一篇利多新聞，提供一個完美的結局。",
+          "editorNote": "送給每個看到利多才衝進場、結果剛好接到最後一棒的同好",
+          "variations": [
+            "利多見報那一刻，不是起漲訊號，是我該逃命的訊號，只是我每次都看反。",
+            "我跟主力的時間軸差了三天，剛好夠他出貨、夠我套牢。"
+          ]
+        },
+        "en": {
+          "content": "I finally figured out the difference between the whales and us retail folks.\nThey know when to get in and when to get out. I only know when to regret.\nThey're at the front of the information; I'm at the tail end of the news. The day the good headline drops is the exact day I buy in.\nTurns out I'm not investing. I'm providing a bullish news story with the perfect ending.",
+          "editorNote": "For everyone who rushed in on a bullish headline and caught the very last bag",
+          "variations": [
+            "The moment good news hits the press isn't a buy signal. It's my run-for-your-life signal — I just always read it backwards.",
+            "My timeline runs three days behind the whales': exactly enough for them to exit and me to get stuck."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-052",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "「portfolio has trust issues / buy high cry later」register；改寫原創",
+      "tags": ["對帳單", "信任", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟我的投資組合之間，現在有嚴重的信任問題。\n我相信它會漲，它讓我失望；我相信它會反彈，它又讓我失望。\n到最後我學乖了，我什麼都不相信，它就開始漲了。\n原來這段關係維持的唯一方法，是我完全不抱期待，它才願意對我好。",
+          "editorNote": "送給每個跟自己庫存陷入信任危機、不敢再相信反彈的同好",
+          "variations": [
+            "我對我的庫存已經沒有期待了，只剩下習慣性的失望。",
+            "高點買進，低點哭泣，這就是我跟市場最穩定的相處模式。"
+          ]
+        },
+        "en": {
+          "content": "My portfolio and I have serious trust issues now.\nI trusted it to go up — it let me down. I trusted it to bounce — it let me down again.\nEventually I wised up and stopped believing in anything, and that's when it finally rallied.\nTurns out the only way this relationship survives is if I expect nothing at all — then it agrees to treat me well.",
+          "editorNote": "For everyone in a trust crisis with their own holdings, too burned to believe in a bounce",
+          "variations": [
+            "I have no expectations left for my holdings — just a habitual sense of disappointment.",
+            "Buy high, cry later. That's the most stable relationship I've ever had with the market."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-053",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://money.udn.com/money/story/124480/9525443",
+      "sourceNote": "台股4萬點 FOMO『跟單存股 KOL』register；改寫原創",
+      "tags": ["跟單", "KOL", "存股", "FOMO"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我追蹤了一個很厲害的存股 KOL，他曬對帳單，獲利幾百趴，看得我熱血沸騰。\n我把他每一檔持股都照抄一遍，連張數比例都一模一樣。\n結果他繼續賺，我開始賠。\n後來我才懂：他曬的是三年前買的成本，我抄的是今天的價格，我們抄的根本不是同一張對帳單。",
+          "editorNote": "送給每個照抄網紅持股、卻買在今天高點的跟單族",
+          "variations": [
+            "我跟 KOL 買的是同一檔股票，唯一不同的是成本價差了一個山頭。",
+            "他曬的是結果，我抄的是入場券，價錢還比較貴。"
+          ]
+        },
+        "en": {
+          "content": "I followed this brilliant dividend-stacking influencer who posts his statements — hundreds of percent in gains, it got my blood pumping.\nI copied every single one of his holdings, matched the exact ratios, share for share.\nHe kept winning. I started losing.\nThen it hit me: he's showing the cost from three years ago, and I'm copying today's price. We were never looking at the same statement.",
+          "editorNote": "For everyone who mirrored an influencer's holdings but bought at today's top",
+          "variations": [
+            "The influencer and I own the same stock. The only difference is our cost basis is a whole mountain apart.",
+            "He's showing the result; I copied the entry ticket — and paid more for it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-054",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "「invested in my own failure / better luck」自嘲 register；改寫原創",
+      "tags": ["反指標", "自嘲", "厭世", "本金"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人說，如果你做什麼都失敗，那不如投資自己。\n我聽完覺得很有道理，於是我把錢投進了股市，畢竟操盤的也是我自己。\n結果證明這個邏輯非常一致：我做什麼都失敗，包括投資我自己。\n現在我終於找到一個穩定的標的了，那就是我自己的判斷，穩定地錯。",
+          "editorNote": "送給每個自認是反指標、連投資自己都會賠的同好",
+          "variations": [
+            "我這輩子最一致的，就是我的判斷，一致地站在錯的那一邊。",
+            "投資自己沒有錯，錯的是那個被投資的我。"
+          ]
+        },
+        "en": {
+          "content": "Someone said if you fail at everything, you should just invest in yourself.\nMade total sense to me, so I put my money in the market — after all, I'm the one trading it.\nTurns out the logic is remarkably consistent: I fail at everything, including investing in myself.\nI've finally found one stable asset: my own judgment, stably wrong.",
+          "editorNote": "For everyone who is their own contrarian indicator and loses even when betting on themselves",
+          "variations": [
+            "The most consistent thing in my life is my judgment — consistently on the wrong side.",
+            "There's nothing wrong with investing in yourself. The problem is the self being invested in."
+          ]
+        }
+      }
     }
   ]
 }

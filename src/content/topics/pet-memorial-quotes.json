@@ -1968,6 +1968,101 @@
           "variations": ["People will tell you to 'get back to normal fast.' But you can take your time. The day you're ready to give that slot back to yourself, give it. It doesn't have to be today."]
         }
       }
+    },
+    {
+      "id": "pm-104",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.tuckerly.com/blog/signs-from-deceased-pet",
+      "sourceNote": "「窗台上的鳥」— 喪寵後收到自然徵兆 frame，原創改寫",
+      "tags": ["撫慰", "徵兆", "再相見"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你走之後，有隻鳥連續幾天停在我窗台上看我。我知道理性上那只是一隻鳥，可是那天我心情最差，牠就出現了。我選擇相信是你來看我一眼，確認我有好好吃飯。",
+          "editorNote": "把「喪寵後看到鳥、蝴蝶、羽毛就覺得是牠」這個普遍經驗 normalize，給飼主一個溫柔的解釋而不評斷理性與否",
+          "variations": ["後來我學會了，不去爭論那到底是不是你。能在最想你的那一刻看見一點什麼，本身就已經是禮物了。"]
+        },
+        "en": {
+          "content": "After you left, a bird perched on my windowsill for days, just watching me. I know rationally it's only a bird — but it showed up on the day I felt the worst. So I choose to believe it was you, stopping by to check that I'm still eating.",
+          "editorNote": "Normalizes the near-universal experience of reading a bird, butterfly, or feather as a sign from the pet — offers a gentle interpretation without judging whether it's 'real'",
+          "variations": ["Eventually I stopped arguing with myself about whether it was really you. Getting to see something in the exact moment I missed you most — that alone is already a gift."]
+        }
+      }
+    },
+    {
+      "id": "pm-105",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://celebrationoflife.love/blogs/nieuws/symbolism-in-grief-the-meaning-of-butterflies-birds-and-other-natural-signs",
+      "sourceNote": "「蝴蝶停在手上」— 蝴蝶象徵靈魂轉化 frame，原創改寫",
+      "tags": ["撫慰", "蝴蝶", "彩虹橋"],
+      "i18n": {
+        "zh-tw": {
+          "content": "掃墓那天，一隻蝴蝶停在我手背上，停了好久好久，怎麼揮都不走。朋友說那只是巧合，我笑笑沒反駁。有些巧合，剛好發生在你最需要的時候，那就讓它是真的吧。",
+          "editorNote": "蝴蝶（靈魂轉化象徵）是喪寵徵兆中最溫和、最被廣泛接受的一種，適合掃墓 / 火化 / 撒灰當天的場景",
+          "variations": ["我沒辦法證明那是你，但我也沒打算證明。那一刻我願意相信，已經比任何證據都更有力量了。"]
+        },
+        "en": {
+          "content": "The day I visited your spot, a butterfly landed on the back of my hand and stayed — really stayed, wouldn't leave no matter how I moved. A friend said it was just a coincidence. I smiled and didn't argue. Some coincidences land exactly when you need them most. Just let it be real.",
+          "editorNote": "The butterfly (a symbol of the soul's transformation) is the gentlest, most widely accepted pet-loss sign — fits the day of a grave visit, cremation, or scattering ashes",
+          "variations": ["I can't prove it was you, and I'm not going to try. In that moment, my willingness to believe was already stronger than any proof could be."]
+        }
+      }
+    },
+    {
+      "id": "pm-106",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.makememento.com/blogs/news/70-heartfelt-pet-loss-quotes-and-messages-to-bring-comfort-during-grief",
+      "sourceNote": "「照片不夠多」— 沒拍夠的遺憾 frame，原創",
+      "tags": ["自責", "照片", "回想"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我翻遍手機，發現你的照片少得可憐。當時總覺得「下次再拍就好」，沒想到根本沒有下次。如果可以重來，我會把鏡頭一直對著最普通的那些日子——你打呼、你發呆、你趴在我腳邊的每一個瞬間。",
+          "editorNote": "「照片拍太少」是喪寵後很常見卻很少被寫出來的具體遺憾，比抽象的後悔更有共鳴",
+          "variations": ["我才發現，我手機裡最珍貴的，不是那幾張擺拍好看的，是那張你睡到歪掉、口水流出來、我隨手拍的糊照片。"]
+        },
+        "en": {
+          "content": "I scrolled through my whole phone and found heartbreakingly few photos of you. I always figured 'I'll take more next time' — never imagining there'd be no next time. If I could do it over, I'd keep the camera on the most ordinary days: you snoring, you zoning out, every second of you curled against my feet.",
+          "editorNote": "'I didn't take enough photos' is a very common but rarely articulated regret after pet loss — more relatable than abstract remorse",
+          "variations": ["Turns out the most precious thing on my phone isn't the few posed, pretty shots. It's the blurry one I snapped on a whim — you passed out sideways, drool and all."]
+        }
+      }
+    },
+    {
+      "id": "pm-107",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.griefandpetloss.com/after-death-communication",
+      "sourceNote": "「半夢半醒間的重量」— 床尾錯覺、似乎牠還在 frame，原創",
+      "tags": ["思念", "夢", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "昨天半夜我感覺床尾沉了一下，就像以前你跳上來、找個位置窩好的那種重量。我沒睜開眼，怕一睜開就什麼都沒了。那短短幾秒，我假裝你還在——這是我最近睡得最好的一晚。",
+          "editorNote": "「床尾的重量」是養貓狗的飼主極具體的身體記憶，適合描述喪寵後睡眠時的恍惚與思念",
+          "variations": ["我把你以前睡的那一側留著，枕頭也沒移。不是迷信，只是還沒準備好讓那塊地方變成空的。"]
+        },
+        "en": {
+          "content": "Last night I felt the foot of the bed dip — that exact weight from when you'd hop up and settle into your spot. I didn't open my eyes, scared that if I did, there'd be nothing there. For those few seconds I let myself pretend you were still here. It's the best I've slept in weeks.",
+          "editorNote": "'The weight at the foot of the bed' is a vivid bodily memory for cat and dog owners — fits the dazed half-asleep longing after a loss",
+          "variations": ["I've kept your side of the bed exactly as it was, pillow and all. It's not superstition. I'm just not ready to let that spot become empty."]
+        }
+      }
+    },
+    {
+      "id": "pm-108",
+      "dateAdded": "2026-06-10",
+      "sourceUrl": "https://www.comfortconnects.com/33-afterlife-signs-from-your-pet/",
+      "sourceNote": "「別急著找徵兆」— 安慰看不到徵兆的飼主 frame，原創",
+      "tags": ["撫慰", "徵兆", "釋懷"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人收到鳥、收到蝴蝶、做了夢，而你什麼都沒等到，於是開始懷疑是不是牠在生你的氣。不是的。牠不需要用徵兆來證明牠愛你——那份愛，早就刻在你每一個還會想念牠的瞬間裡了。",
+          "editorNote": "專門寫給「別人都收到徵兆、我卻沒有」而感到失落自責的飼主，把焦慮鬆綁，這是徵兆類內容少有人補的反面",
+          "variations": ["徵兆不是考試，沒收到不代表你不夠愛、牠不夠想你。牠住在你心裡，不是住在那隻鳥身上。"]
+        },
+        "en": {
+          "content": "Some people get a bird, a butterfly, a dream — and you've gotten nothing, so you start wondering if they're upset with you. They're not. They don't need a sign to prove they love you. That love was carved in long ago, into every moment you still find yourself missing them.",
+          "editorNote": "Written specifically for owners who feel let down or guilty because 'everyone else got a sign and I didn't' — eases that anxiety, a rarely-covered counterpoint to sign content",
+          "variations": ["A sign isn't a test. Not getting one doesn't mean you loved them less or they miss you less. They live in your heart, not in that bird."]
+        }
+      }
     }
   ]
 }
