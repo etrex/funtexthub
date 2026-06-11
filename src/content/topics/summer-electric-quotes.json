@@ -1429,6 +1429,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-059",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "120 度以下維持 1.78 元不漲 register；改寫原創",
+      "tags": ["120度", "1.78元", "級距", "夏月電價"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說：「一個月用 120 度以內的人，夏天電價維持 1.78 元，完全不漲。」\n我認真盤算了一下：要壓在 120 度，我大概只能開冰箱，然後人住進冰箱旁邊。\n所謂「不漲的善意」，是台電對著一群開冷氣的人，溫柔地說一句我們永遠用不到的好話。",
+          "editorNote": "傳給那個每年都認真研究級距、然後發現自己永遠在 120 度上面的朋友",
+          "variations": [
+            "1.78 元那一格，是電價表上最美、也最不關我的事的風景。",
+            "夏天能用不到 120 度的人，跟傳說中的生物一樣，存在於資料裡，但沒人見過。"
+          ]
+        },
+        "en": {
+          "content": "The news says: 'If you stay under 120 kWh a month, your summer rate holds at the base price — no increase at all.'\nI did the math: to stay under 120, I'd basically have to open the fridge and move in next to it.\nThat 'no-increase kindness' is the power company gently telling a room full of AC users something none of us will ever get to use.",
+          "editorNote": "For the friend who studies the tiers every year only to realize they live permanently above 120 kWh",
+          "variations": [
+            "The lowest tier is the prettiest line on the rate chart, and the one least relevant to my life.",
+            "People who use under 120 kWh in summer are like cryptids: documented, but never actually witnessed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-060",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://jokesify.com/electricity-jokes/",
+      "sourceNote": "electricity pun 'shocking' bill 一語雙關；改寫原創",
+      "tags": ["雙關", "帳單", "冷笑話", "電費"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我夏天電費怎麼樣，我說：很有電的感覺。\n他說怎麼講？\n我說：每次拆開帳單，我都會被電到，全身一震，然後手麻、心痛、腦袋一片空白。\n台電不只供電，還順便附贈一次免費的觸電體驗。",
+          "editorNote": "傳給那個喜歡冷笑話、也剛收到夏季帳單的朋友，雙重打擊",
+          "variations": [
+            "夏天的電費單，是全台灣最有「電」的一張紙。",
+            "別人被愛情電到，我被台電電到，論強度，台電完勝。"
+          ]
+        },
+        "en": {
+          "content": "A friend asked how my summer electric bill is going. I said: shocking, honestly.\nHe asked what I meant.\nI said: every time I open it, I get a jolt — full-body shock, numb hands, aching chest, blank mind.\nThe power company doesn't just deliver electricity. It throws in a free electrocution experience.",
+          "editorNote": "Send to the pun-loving friend who also just got their summer bill — double impact",
+          "variations": [
+            "The summer electric bill is the single most electrifying piece of paper in the country.",
+            "Other people get shocked by love. I get shocked by the utility company — and in terms of voltage, the utility wins."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-061",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://edh.tw/lohas/article/20979",
+      "sourceNote": "手搖飲消暑 vs 冷氣 成本對照 register；改寫原創",
+      "tags": ["手搖飲", "冷氣", "消暑", "成本"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了不開冷氣，我改用喝冰手搖消暑。\n一杯 65，一天三杯，一個月下來——\n我算了算，這筆錢拿去開冷氣，可以從早涼到晚，還有找。\n原來最貴的省電法，是用嘴巴降溫。",
+          "editorNote": "傳給那個堅持不開冷氣、卻每天兩杯全糖去冰的朋友，幫他算清楚這筆帳",
+          "variations": [
+            "省下的冷氣錢，最後全部變成手搖飲的封膜，躺在我的回收桶裡。",
+            "夏天最諷刺的事：為了省冷氣錢喝的飲料，比冷氣還貴。"
+          ]
+        },
+        "en": {
+          "content": "To avoid running the AC, I switched to cooling down with iced bubble tea.\nOne cup is two bucks, three cups a day, and over a month —\nI ran the numbers: that money could've run the AC from dawn to midnight, with change to spare.\nTurns out the priciest way to save power is cooling yourself with your mouth.",
+          "editorNote": "For the friend who refuses the AC but downs two full-sugar drinks a day — help them do the math",
+          "variations": [
+            "The money I saved on AC ended up as a pile of bubble tea lids in my recycling bin.",
+            "Summer's greatest irony: the drinks I buy to skip the AC cost more than the AC."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-062",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://qmonster.cc/energy-efficient/",
+      "sourceNote": "睡前電風扇取代冷氣 半夜熱醒 register；改寫原創",
+      "tags": ["電風扇", "睡覺", "半夜", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我發誓今晚只開電風扇睡覺，為了省那一格電費。\n前半夜：我是個有原則、會理財的成熟大人。\n後半夜兩點：我滿身大汗坐起來，認清自己其實是個怕熱的肉體，伸手把冷氣按開。\n省電的決心，撐不過一個熱夜。",
+          "editorNote": "傳給那個每天睡前都立志只吹電風扇、結果半夜投降的朋友",
+          "variations": [
+            "電風扇是睡前的理想，冷氣是半夜的現實。",
+            "我的省電計畫，總是死在凌晨兩點那身汗裡。"
+          ]
+        },
+        "en": {
+          "content": "I swore I'd sleep with just the fan tonight, to save that one tier on the bill.\nFirst half of the night: I'm a principled, financially responsible adult.\n2 AM: I sit up drenched in sweat, accept that I'm really just a heat-sensitive body, and reach over to switch the AC on.\nMy resolve to save power can't survive a single hot night.",
+          "editorNote": "For the friend who vows to use only the fan every night and surrenders by 2 AM",
+          "variations": [
+            "The fan is the bedtime ideal. The AC is the 2 AM reality.",
+            "My energy-saving plan always dies in that 2 AM layer of sweat."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-063",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://imgflip.com/tag/electric+bill",
+      "sourceNote": "電費帳單像恐怖片 envelope dread meme；改寫原創",
+      "tags": ["帳單", "恐怖片", "夏天", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果夏天的電費單是一部電影，它一定是恐怖片。\n劇情緩慢，氣氛壓抑，你早就知道結局不會好，\n但你還是會在拆開信封的那一刻，被那串數字嚇得倒抽一口氣。\n而且最可怕的是——它每兩個月就出一部續集，永遠不會完結。",
+          "editorNote": "傳給那個每次拆帳單都像在看鬼片、要從指縫偷看的朋友",
+          "variations": [
+            "夏天的電費單，是唯一一部我明知道結局還是會被嚇到的恐怖片。",
+            "電費單的恐怖之處，在於它不靠音效，光靠數字就能讓你心跳停一拍。"
+          ]
+        },
+        "en": {
+          "content": "If the summer electric bill were a movie, it'd be a horror film.\nSlow pacing, oppressive mood, you already know the ending won't be good —\nyet the moment you tear open the envelope, that string of numbers still makes you gasp.\nAnd the scariest part: it drops a new sequel every two months and never wraps up.",
+          "editorNote": "For the friend who opens every bill like a horror movie, peeking through their fingers",
+          "variations": [
+            "The summer bill is the only horror film whose ending I know and still get scared by.",
+            "The terror of the electric bill needs no sound effects — the numbers alone skip a heartbeat."
+          ]
+        }
+      }
     }
   ]
 }

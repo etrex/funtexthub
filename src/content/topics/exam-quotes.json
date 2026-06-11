@@ -2752,6 +2752,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-112",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.long-men.com.tw/newExam/inside?str=E7ED008C7C3A2C73DE50AB6177F929EF&print_id=7093",
+      "sourceNote": "115 分科測驗 7/11-12 倒數一個月 register — 暑假變第三學期 frame",
+      "tags": ["分科測驗", "115分科", "暑假", "自嘲", "倒數"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人的暑假從放榜開始，\n我的暑假從分科測驗結束才開始。\n所以嚴格來說，\n我這個暑假只有兩個月，\n而學校偷偷把第三學期塞了進來。",
+          "editorNote": "分科考生七月還在備戰、看著同學早早放假的限動神句，配張月曆被紅筆圈住 7/11 的照片更有畫面。",
+          "variations": [
+            "可以加：「我的暑假是有附帶條件的，條件叫做分科測驗。」",
+            "也能改：「同學在倒數放假，我在倒數開考，明明是同一個七月。」"
+          ]
+        },
+        "en": {
+          "content": "Everyone else's summer starts on results day.\nMine doesn't start until after the subject exam.\nSo technically my summer is only two months long,\nand the school quietly slipped in a third semester.",
+          "editorNote": "For the July subject-exam grinder watching classmates clock out early — pair with a calendar photo of the exam date circled in red.",
+          "variations": [
+            "Add: \"My summer comes with terms and conditions. The condition is the subject exam.\"",
+            "Try: \"They're counting down to vacation. I'm counting down to an exam. Same July.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-113",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://smartsmssolutions.com/resources/blog/sms-templates/business-message-templates/60-funny-motivational-quotes-for-college-exams-to-beat-study-stress",
+      "sourceNote": "procrastination is my cardio register — 拖延運動化 frame 在地化",
+      "tags": ["拖延", "考試", "自嘲", "廢文", "運動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫生問我有沒有運動習慣。\n我說有，我每天都在拖延。\n從打開課本到真正讀進去那段心理拉扯，\n消耗的熱量絕對不輸跑步機。",
+          "editorNote": "幫自己的拖延找藉口時的萬用句，配張攤在沙發上手裡還抓著課本的廢照剛剛好。",
+          "variations": [
+            "可以加：「我不是懶，我是把運動量都花在猶豫要不要讀書上。」",
+            "也能改：「拖延是我唯一持之以恆的有氧運動。」"
+          ]
+        },
+        "en": {
+          "content": "My doctor asked if I exercise.\nI said yes — I procrastinate daily.\nThe mental tug-of-war between opening the book and actually reading it\nburns more calories than a treadmill.",
+          "editorNote": "The all-purpose excuse for your own procrastination — pair with a couch-slumped photo, textbook still in hand.",
+          "variations": [
+            "Add: \"I'm not lazy. I spend all my energy deciding whether to study.\"",
+            "Try: \"Procrastinating is the only cardio I've ever stayed consistent with.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-114",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "2 AM download knowledge register — 凌晨下載知識 frame 在地化",
+      "tags": ["臨時抱佛腳", "凌晨", "考試", "自嘲", "腦袋"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，\n我試圖把兩個月的進度，\n一次下載進這顆只有 8GB 的腦袋。\n結果跳出的不是「下載完成」，\n是「儲存空間不足，是否刪除睡眠？」",
+          "editorNote": "考前一夜瘋狂塞知識的限動文案，配張凌晨書桌只剩檯燈亮著的照片超寫實。",
+          "variations": [
+            "可以加：「我選了刪除睡眠，結果連原本記得的也一起被清掉了。」",
+            "也能改：「腦袋容量沒升級，我的野心倒是每年都在更新。」"
+          ]
+        },
+        "en": {
+          "content": "2 AM,\nI'm trying to download two months of material\ninto this brain that ships with only 8GB.\nInstead of \"download complete\" it popped up:\n\"Storage full — delete sleep to continue?\"",
+          "editorNote": "For the night-before cram spiral — pair with a 2am desk photo lit by a single lamp.",
+          "variations": [
+            "Add: \"I chose to delete sleep. It also wiped the stuff I already remembered.\"",
+            "Try: \"My brain never got a storage upgrade. My ambition updates every year.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-115",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://smartsmssolutions.com/resources/blog/sms-templates/business-message-templates/60-funny-motivational-quotes-for-college-exams-to-beat-study-stress",
+      "sourceNote": "study group 20/30/50 register — 讀書會分工真相 frame 在地化",
+      "tags": ["讀書會", "考試", "自嘲", "廢文", "同學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們開了一個讀書會。\n二成的時間在讀書，\n三成在互相解釋誰也不會的題目，\n剩下五成在一起懷疑當初為什麼選這個科系。\n所以讀書會最大的收穫，是確認了我們一起爛。",
+          "editorNote": "揪讀書會結果變聊天會的考生 OS，傳到群組保證有人回「這就是我們」。",
+          "variations": [
+            "可以加：「讀書會唯一複習成功的，是去年的八卦。」",
+            "也能改：「我們不是來讀書的，是來確認彼此都沒讀。」"
+          ]
+        },
+        "en": {
+          "content": "We started a study group.\n20% of the time we study,\n30% we explain questions none of us understand,\nand 50% we sit there questioning why we picked this major.\nThe real takeaway from study group: confirming we're all equally doomed.",
+          "editorNote": "For the study group that became a chat group — post it and watch someone reply \"this is literally us.\"",
+          "variations": [
+            "Add: \"The only thing our study group successfully reviewed was last year's gossip.\"",
+            "Try: \"We're not here to study. We're here to confirm none of us did.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-116",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.flick.social/captions/funny-instagram-captions-about-finals",
+      "sourceNote": "exams don't scare me my procrastination does register — 真正的恐懼來源 frame 在地化",
+      "tags": ["拖延", "考試", "恐懼", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試本身不可怕。\n真正讓我半夜驚醒的，\n是那個明明知道要讀、\n卻一路滑手機滑到考前一晚的自己。\n敵人從來不是考卷，是鏡子裡那位。",
+          "editorNote": "考前自我覺察又救不了自己的限動文案，配張深夜手機螢幕亮著的自拍剛剛好。",
+          "variations": [
+            "可以加：「考卷我還有機會猜，我自己的拖延我連猜都不敢猜。」",
+            "也能改：「會讓我考砸的不是難題，是那個說『等一下再讀』的我。」"
+          ]
+        },
+        "en": {
+          "content": "The exam itself isn't what scares me.\nWhat jolts me awake at night\nis the version of me who knew I had to study\nand scrolled my phone right up to the night before.\nThe enemy was never the test paper — it's the one in the mirror.",
+          "editorNote": "For the pre-exam self-awareness that still can't save you — pair with a late-night selfie lit by a phone screen.",
+          "variations": [
+            "Add: \"I can at least guess on the test. My own procrastination I can't even predict.\"",
+            "Try: \"It's not the hard questions that'll sink me. It's the me who said 'I'll study in a bit.'\""
+          ]
+        }
+      }
     }
   ]
 }

@@ -5362,6 +5362,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-218",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "問答式廢話文學格式參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "問答",
+        "繞圈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你今天要去哪裡？」\n「去我等一下會到的地方。」",
+          "editorNote": "朋友追問你行程又不想講細節時，丟這句保證對方瞬間放棄",
+          "variations": [
+            "「你晚餐想吃什麼？」「吃我吃下去之後就會飽的東西。」",
+            "「你在看什麼？」「看我眼睛現在正對著的那個。」"
+          ]
+        },
+        "en": {
+          "content": "\"Where are you headed today?\"\n\"To the place I'll have arrived at later.\"",
+          "editorNote": "Perfect for when a friend grills you about your plans and you'd rather not explain — they'll give up instantly",
+          "variations": [
+            "\"What do you want for dinner?\" \"Whatever fills me up once I've eaten it.\"",
+            "\"What are you watching?\" \"The thing my eyes are currently pointed at.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-219",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.boredpanda.com/technically-true-things/",
+      "sourceNote": "technically-true 風格參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "技術上正確",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "理財專家提醒：當你把錢花掉之後，那筆錢就不再是你的了。\n目前學界尚未找到例外。",
+          "editorNote": "適合在朋友亂買東西時一本正經地說出來，假裝給了很深的建議",
+          "variations": [
+            "存款的特性是：你存進去多少，帳戶裡就會多多少。這點科學家已反覆驗證。",
+            "錢包變薄通常代表裡面的東西變少了。"
+          ]
+        },
+        "en": {
+          "content": "Financial experts confirm that once you spend your money, that money is no longer yours.\nNo exception has been documented to date.",
+          "editorNote": "Deliver this with a straight face when a friend is splurging — pretend you just gave priceless advice",
+          "variations": [
+            "A key feature of savings: however much you put in, that's how much more your account holds. Repeatedly verified.",
+            "A thinner wallet usually means there's less inside it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-220",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://penlighten.com/tautology-examples",
+      "sourceNote": "tautology / 同義反覆格式參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "同義反覆",
+        "努力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "只要你願意努力，你就是一個願意努力的人。\n至於有沒有成果，那是另一個願意努力的問題。",
+          "editorNote": "適合在勵志場合假裝給結論，講完讓全場安靜三秒再爆笑",
+          "variations": [
+            "做得到的事情，通常都是你做得到的；做不到的，那就先放著。",
+            "成功的人之所以成功，是因為他們最後成功了。"
+          ]
+        },
+        "en": {
+          "content": "As long as you're willing to try, you are a person who is willing to try.\nWhether it works out is a separate question about being willing to try.",
+          "editorNote": "Great for faking a profound conclusion in a motivational moment — pause, then watch the room crack up",
+          "variations": [
+            "The things you can do are usually the ones you can do; the rest can wait.",
+            "Successful people are successful because they ended up succeeding."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-221",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "廢話文學六大手法參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "天氣",
+        "重複"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "氣象局表示，今天會下雨的地方都會下雨，不會下雨的地方則維持不下雨。\n請民眾依照所在地實際情況自行判斷。",
+          "editorNote": "出門前看到下雨可以傳給朋友，假裝幫他做了專業氣象分析",
+          "variations": [
+            "預報指出，明天的溫度會落在熱和冷之間的某個位置。",
+            "今天太陽出來的時候會比較亮，太陽下山之後則會變暗。"
+          ]
+        },
+        "en": {
+          "content": "The weather bureau reports that everywhere it rains today will get rain, while everywhere it doesn't will stay dry.\nResidents are advised to assess their own local conditions.",
+          "editorNote": "Text this to a friend before heading out in the rain, pretending you ran a pro weather analysis for them",
+          "variations": [
+            "Forecasters note that tomorrow's temperature will land somewhere between hot and cold.",
+            "It'll be brighter today while the sun is up, and darker once it sets."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-222",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://trivia.cracked.com/image-pictofact-14781-32-jokes-that-are-both-funny-and-technically-true",
+      "sourceNote": "technically-true 笑話風格參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "技術上正確",
+        "睡眠"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠研究顯示，你只要躺著閉上眼睛睡著，就能順利進入睡眠狀態。\n醒著的人則普遍處於沒睡著的狀態。",
+          "editorNote": "失眠的朋友傳訊息抱怨睡不著時，可以回這句假裝給專業建議",
+          "variations": [
+            "想要早起的關鍵，在於你前一天得先起得來才能再早起一次。",
+            "打哈欠通常是身體告訴你它剛剛打了一個哈欠。"
+          ]
+        },
+        "en": {
+          "content": "Sleep research shows that if you lie down, close your eyes, and fall asleep, you'll successfully enter a state of sleep.\nPeople who are awake, meanwhile, are generally not asleep.",
+          "editorNote": "When a sleepless friend texts to complain, reply with this and pretend it's expert guidance",
+          "variations": [
+            "The key to waking up early is that you first have to wake up at all so you can do it again earlier.",
+            "A yawn is usually your body informing you that it just yawned."
+          ]
+        }
+      }
     }
   ]
 }

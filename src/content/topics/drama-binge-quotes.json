@@ -1644,6 +1644,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-072",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://blog.pinkoi.com/tw/hot-topics/discovery/2202-video-apps/",
+      "sourceNote": "2026 多串流平台訂閱負擔觀察，原創改編",
+      "tags": ["訂閱", "串流平台", "荷包", "選擇障礙"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你手機裡的串流 app：\n\nNetflix——為了那部全網討論的陸劇訂的。\nDisney+——為了一部漫威，看完忘了退。\n某台劇平台——朋友推坑，看了兩集。\n還有一個你連帳號密碼都想不起來的，每月照樣扣款。\n\n月底帳單來，你算了一下，\n發現自己一個月花在「想看但沒看」的錢，\n夠你吃三頓好的。\n\n所謂訂閱制的陷阱，\n不是讓你看很多劇，\n是讓你「以為自己之後會看」。\n\n你買的從來不是內容，\n是一個更勤勞的未來版自己——而他至今沒出現過。",
+          "editorNote": "傳給那個訂了五個平台、每個只看一部劇的朋友——讓他打開帳單面對現實",
+          "variations": [
+            "解方版：你某天終於狠心退訂三個，只留一個，那一刻你不是省錢，你是承認——你能好好看完的，從來就只有一部"
+          ]
+        },
+        "en": {
+          "content": "The streaming apps on your phone:\n\nNetflix — subscribed for that one C-drama everyone was talking about.\nDisney+ — for one Marvel show, forgot to cancel after.\nSome Taiwanese-drama platform — a friend pulled you in, you watched two episodes.\nAnd one whose login you can't even remember, still billing you monthly.\n\nThe bill arrives at month-end. You do the math\nand realize what you spend on \"want to watch but haven't\"\ncould buy you three good meals.\n\nThe trap of subscriptions\nisn't that they let you watch a lot.\nIt's that they let you believe \"I'll watch it later.\"\n\nWhat you bought was never content.\nIt was a more diligent future version of yourself — who has yet to show up.",
+          "editorNote": "Send to the friend with five subscriptions who watches exactly one show on each — make them open the bill and face it",
+          "variations": [
+            "Solution version: one day you finally cancel three and keep one. That's not saving money — it's admitting you only ever finish one show at a time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-073",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://blog.pinkoi.com/tw/hot-topics/discovery/2202-video-apps/",
+      "sourceNote": "B站彈幕即時互動文化觀察，原創改編",
+      "tags": ["彈幕", "陪伴", "追劇社群", "即時互動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你以為你開彈幕是為了看劇，\n其實你是為了不孤單。\n\n劇情高潮時，滿屏飄過「我也是」「天啊」「他終於說了」，\n你忽然覺得，全世界有幾千人，此刻跟你哭同一場戲。\n\n男主角講出那句台詞，\n彈幕瞬間刷成一片「來了來了」，\n你笑著打了一行字加進去，\n那一秒，你不是一個人在追劇，\n你是和幾千個陌生人，一起經歷同一個心動。\n\n彈幕不是字幕，\n是一群素未謀面的人，輕輕拍你肩膀說：\n「我懂，我也在這裡。」",
+          "editorNote": "傳給那個堅持要開彈幕才看得下去的朋友——讓他知道他要的不是劇情，是陪伴",
+          "variations": [
+            "深度版：你某次關掉彈幕想專心看，結果劇情感動的那一刻，你下意識想看別人怎麼說——原來你早就習慣，把情緒分一半給陌生人保管"
+          ]
+        },
+        "en": {
+          "content": "You think you turn on the bullet comments to watch the show.\nReally, you do it so you won't be alone.\n\nAt the climax, the screen floods with \"same,\" \"oh my god,\" \"he finally said it,\"\nand suddenly you feel that a few thousand people, right now, are crying at the same scene as you.\n\nThe lead delivers that line,\nthe comments instantly fill with \"here it comes, here it comes,\"\nyou smile and add your own,\nand for that second you're not watching alone —\nyou're feeling the same heartbeat alongside a few thousand strangers.\n\nBullet comments aren't subtitles.\nThey're a crowd of people you'll never meet, tapping your shoulder, saying:\n\"I get it. I'm here too.\"",
+          "editorNote": "Send to the friend who can't watch without the comment overlay on — let them realize what they want isn't the plot, it's company",
+          "variations": [
+            "Deeper: once you turned the comments off to focus, and at the most moving moment you instinctively wanted to see what others said — you'd long since gotten used to handing half your feelings to strangers for safekeeping."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-074",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.stocktitan.net/news/BGOPF/25-of-americans-expect-streaming-discounts-for-binge-watching-vbcox5cqllnx.html",
+      "sourceNote": "2026 串流平台追劇連續紀錄 streak 獎勵調查，原創改編",
+      "tags": ["連續紀錄", "成就感", "追劇獎勵", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽說現在有平台想搞「追劇連續紀錄」——\n看滿幾小時、追完一季，就解鎖獎勵。\n\n你聽完先是興奮，然後冷靜下來想：\n如果熬夜追劇有積分，你大概已經是頂級會員。\n如果通宵看完一整季有徽章，你的牆上早就掛滿。\n如果「替虛構角色失眠」能換折扣，你這輩子的劇都免費。\n\n但你心裡也清楚——\n你不需要平台發獎勵給你，\n你早就在每一個天亮的清晨，\n給過自己一個沒人看見的勳章：\n\n「恭喜你，又陪他們走完一段。」",
+          "editorNote": "傳給那個熬夜追劇、覺得自己很廢的朋友——讓他知道那不是浪費，是一種沒人頒獎的堅持",
+          "variations": [
+            "現實版：真有獎勵那天，你大概會為了集點，連難看的劇都硬撐——人類面對進度條，從來沒有抵抗力"
+          ]
+        },
+        "en": {
+          "content": "Apparently some platforms want \"binge streaks\" now —\nwatch enough hours, finish a season, unlock a reward.\n\nYou get excited, then calm down and think:\nif staying up to binge earned points, you'd be a top-tier member by now.\nif finishing a whole season overnight earned a badge, your wall would be covered.\nif \"losing sleep over fictional people\" got you discounts, every show you ever watched would be free.\n\nBut you also know —\nyou never needed a platform to hand you a reward.\nEvery time the sky went light at dawn,\nyou'd already pinned yourself a medal nobody saw:\n\n\"Congratulations. You walked another stretch with them.\"",
+          "editorNote": "Send to the friend who stays up binging and feels like a waste of space — remind them it wasn't waste, it was a quiet persistence no one gave them a prize for",
+          "variations": [
+            "Real version: the day those rewards actually launch, you'll grind through bad shows just for the points — humans have never had any defense against a progress bar."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-075",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://technews.tw/2020/04/04/the-psychology-of-binge-watching/",
+      "sourceNote": "心理師建議「看到一個段落就停」追劇自制觀察，原創改編",
+      "tags": ["自制", "停損", "追劇哲學", "多巴胺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "心理師說：「看到一個段落、解開一個謎團，就停下來休息。」\n\n聽起來很有道理。\n直到你發現——\n這部劇每一集結尾都是新的謎團，\n每一個段落結束都是下一個段落的開頭，\n編劇根本沒打算給你一個「可以停」的地方。\n\n你想停，劇不讓你停。\n你以為是自制力的問題，\n其實是有人專業地設計了你的失控。\n\n所以別太自責——\n你不是沒有意志力，\n你只是遇到一群，比你更懂你的大腦怎麼運作的人。",
+          "editorNote": "傳給那個追劇追到責怪自己沒自制力的朋友——讓他知道那不是他的錯，是設計",
+          "variations": [
+            "解方版：真要停，就停在最甜的那一刻，別停在懸念上——把美好留在記憶裡，比硬撐看完它怎麼崩，對自己更溫柔"
+          ]
+        },
+        "en": {
+          "content": "A psychologist says: \"Stop and rest when you reach a stopping point — a solved mystery, a closed chapter.\"\n\nSounds reasonable.\nUntil you notice —\nevery episode ends on a fresh mystery,\nevery chapter's close is the next chapter's open,\nthe writers never planned to give you a place to stop.\n\nYou want to stop. The show won't let you.\nYou think it's a willpower problem.\nReally, someone professionally engineered your loss of control.\n\nSo don't be so hard on yourself —\nyou're not short on willpower.\nYou just met a group of people who understand how your brain works better than you do.",
+          "editorNote": "Send to the friend who beats themselves up for having no self-control while binging — remind them it isn't their fault, it's by design",
+          "variations": [
+            "Solution version: if you must stop, stop on the sweetest moment, not the cliffhanger — keeping the good part in memory is kinder to yourself than forcing through to watch it fall apart."
+          ]
+        }
+      }
     }
   ]
 }

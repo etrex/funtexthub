@@ -361,6 +361,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-015",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final",
+      "sourceNote": "決賽 7/19 美東 15:00，台灣時間 7/20 凌晨 03:00；改寫原創",
+      "tags": ["世界盃", "決賽", "凌晨", "捨不得"],
+      "i18n": {
+        "zh-tw": {
+          "content": "整個夏天熬下來，最後一場決賽，\n台灣時間還是落在凌晨三點。\n從開幕熬到冠軍，這顆球陪我度過了一個失眠的夏天。\n捨不得它結束，不是因為比賽，\n是因為結束之後，我又得回去當一個正常作息的人。",
+          "editorNote": "適合決賽夜的限動，獻給每個又期待又捨不得這個夏天結束的球迷",
+          "variations": [
+            "決賽哨音響起的那一刻，我才發現我捨不得的不是比賽，是熬夜也甘願的那個自己。",
+            "從開幕的三點到決賽的三點，這個夏天我活在另一個時區。"
+          ]
+        },
+        "en": {
+          "content": "After a whole summer of staying up, the final\nstill lands at 3 AM, local time.\nFrom the opener to the trophy, this ball kept me company through one sleepless summer.\nI don't want it to end — not because of the football,\nbut because once it's over, I have to go back to being a person with a normal sleep schedule.",
+          "editorNote": "Perfect for a final-night story post — for every fan who's excited and heartbroken that the summer is ending",
+          "variations": [
+            "When the final whistle blew, I realized what I'd miss wasn't the matches — it was the version of me who gladly stayed up for them.",
+            "From the 3 AM opener to the 3 AM final, I spent this whole summer living in another time zone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-016",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-time-zones-heres-what-to-know/",
+      "sourceNote": "墨西哥城開幕戰 墨西哥 vs 南非 Estadio Azteca；改寫原創",
+      "tags": ["世界盃", "開幕戰", "阿茲特克", "陌生球隊"],
+      "i18n": {
+        "zh-tw": {
+          "content": "開幕戰在墨西哥城的阿茲特克球場，\n地主對南非。\n說真的，這兩隊我一個球員都叫不出來。\n但凌晨三點，我還是坐在電視前，\n為兩支跟我毫無關係的隊伍，緊張得像在等放榜。",
+          "editorNote": "傳給那個開幕戰沒有主隊、卻照樣準時報到的朋友",
+          "variations": [
+            "認不認識球員不重要，世界盃開幕的氣氛，本身就值得熬這一夜。",
+            "我跟阿茲特克球場的距離，是一個時區加一整片太平洋，但今晚我們同步心跳。"
+          ]
+        },
+        "en": {
+          "content": "The opening match is at the Estadio Azteca in Mexico City,\nthe hosts against South Africa.\nHonestly, I can't name a single player on either side.\nBut at 3 AM I'm parked in front of the TV anyway,\nas nervous for two teams I have nothing to do with as if I were waiting on my own exam results.",
+          "editorNote": "For the friend with no team in the opener who still shows up right on time",
+          "variations": [
+            "Not knowing the players doesn't matter. The opening-night atmosphere alone is worth the lost sleep.",
+            "I'm a time zone and an entire ocean away from the Azteca, but tonight our heartbeats are synced."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-017",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.cbssports.com/soccer/news/2026-fifa-world-cup-time-zones-heres-what-to-know/",
+      "sourceNote": "美加墨跨四個時區 賽程混亂 台灣時差 12-15 小時；改寫原創",
+      "tags": ["世界盃", "時區", "賽程", "混亂"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這屆橫跨北美四個時區，賽程亂到不行。\n我手機裡多了三個時鐘、兩張賽程表、一個倒數 app，\n還是常常搞不清楚下一場到底幾點。\n別人在追比分，我在追的是——這場到底是今天還是昨天。",
+          "editorNote": "傳給那個手機裡裝了一堆世界盃 app、卻還是會睡過頭的朋友",
+          "variations": [
+            "看球之前要先算數學，這是美加墨世界盃才有的隱藏關卡。",
+            "時差讓我學會的事：先確認是哪一天，再來緊張幾比幾。"
+          ]
+        },
+        "en": {
+          "content": "This tournament sprawls across four North American time zones, and the schedule is pure chaos.\nMy phone now has three clocks, two fixture lists, and a countdown app,\nand I still can't reliably tell you when the next match starts.\nEveryone else is chasing the score. I'm chasing the answer to: is this game today, or yesterday?",
+          "editorNote": "For the friend who installed five World Cup apps and still oversleeps the kickoff",
+          "variations": [
+            "Doing the math before you can watch the game — that's the hidden boss level of a North American World Cup.",
+            "What the time difference taught me: confirm which day it is first, then start panicking over the scoreline."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-018",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+      "sourceNote": "48 隊 104 場 史上最長賽程 一個多月；改寫原創",
+      "tags": ["世界盃", "104場", "長期抗戰", "作息"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這屆一百零四場，比以前多了一大截，\n從六月中一路踢到七月底。\n朋友問我暑假有什麼計畫，\n我打開賽程表給他看：「這就是我的暑假計畫，一場都不能少。」\n別人放暑假是休息，我放暑假是進入長期抗戰。",
+          "editorNote": "傳給那個把整個夏天行事曆都讓給世界盃的朋友",
+          "variations": [
+            "一百零四場是別人的數據，是我接下來一個月的生理時鐘。",
+            "暑假計畫只有一個字：撐。撐到最後一場決賽。"
+          ]
+        },
+        "en": {
+          "content": "This edition has a hundred and four matches — way more than before,\nrunning from mid-June all the way to late July.\nA friend asked what my summer plans were.\nI pulled up the fixture list and said, 'This is my summer plan. Not a single match skipped.'\nOther people take summer off to rest. I take it off to begin a war of attrition.",
+          "editorNote": "For the friend who handed their entire summer calendar over to the World Cup",
+          "variations": [
+            "A hundred and four matches is a stat to everyone else. To me it's my body clock for the next month.",
+            "My summer plan is one word: endure. All the way to the final."
+          ]
+        }
+      }
     }
   ]
 }

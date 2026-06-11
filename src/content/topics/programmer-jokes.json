@@ -6283,6 +6283,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-217",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://punsplanet.com/programmer-jokes/",
+      "sourceNote": "Classic 'light attracts bugs' dark mode joke, reframed with extra setup",
+      "tags": [
+        "工程師日常",
+        "雙關",
+        "黑色模式"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問我：「為什麼資深工程師全都把編輯器調成黑底白字？」\n我說：「因為亮的會招蟲。」\n他笑了，三秒後才意識到我是認真的。",
+          "editorNote": "適合在新人問你「為什麼大家螢幕都黑黑的」的時候直接甩出來，配一張深色主題截圖更有說服力。",
+          "variations": [
+            "我的螢幕從來不開亮色，不是怕傷眼，是怕引蟲上門。",
+            "亮色主題＝開窗不裝紗窗，bug 全都飛進來。"
+          ]
+        },
+        "en": {
+          "content": "A junior asked me: \"Why do all the senior devs use a black background with white text?\"\nI said: \"Because the bright ones attract bugs.\"\nHe laughed — then went quiet when he realized I wasn't joking.",
+          "editorNote": "Perfect comeback when a newbie asks why everyone's editor is so dark. Pair it with a dark-theme screenshot for maximum effect.",
+          "variations": [
+            "I never use a light theme — not to protect my eyes, but to keep the bugs from finding me.",
+            "Light mode is just opening a window with no screen. Every bug flies right in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-218",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://naturallyfunny.com/software-development-jokes/",
+      "sourceNote": "AI-writes-my-code humor, rewritten as a short emotional-debugging gag",
+      "tags": [
+        "AI 寫程式",
+        "工程師日常",
+        "現代煩惱"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前我只要 debug 程式。\n現在 AI 幫我寫程式，我變成要 debug AI 的情緒。\n它跟我說「你說得對，這確實是我的疏忽」，然後產生了一模一樣的 bug。",
+          "editorNote": "適合丟到團隊群組吐槽 AI 工具，跟同事一起感嘆「對對對就是這個感覺」。",
+          "variations": [
+            "AI 道歉的速度比修 bug 的速度快多了。",
+            "它每次都很有禮貌地把同一個錯誤再犯一次。"
+          ]
+        },
+        "en": {
+          "content": "I used to just debug code.\nNow the AI writes my code, and I debug its feelings.\nIt told me, \"You're absolutely right, that was my oversight\" — then generated the exact same bug.",
+          "editorNote": "Great for venting about AI tools in the team chat. Watch everyone reply 'yes, EXACTLY this.'",
+          "variations": [
+            "The AI apologizes faster than it fixes anything.",
+            "It very politely makes the same mistake again every single time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-219",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "'SQL devs drop tables' moving-furniture joke, rewritten with new setup",
+      "tags": [
+        "資料庫",
+        "雙關",
+        "工程師梗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "千萬不要找後端工程師幫你搬家。\n你才剛把桌子搬到一半，他就把整張桌子 DROP 掉了。\n而且還不寫 WHERE。",
+          "editorNote": "適合傳給碰資料庫的朋友，懂 SQL 的人會邊笑邊冒冷汗想起自己刪過的那次。",
+          "variations": [
+            "他搬家的標準流程是：先全部清空，再從備份還原。",
+            "請他幫忙整理，結果他直接 TRUNCATE 你整個房間。"
+          ]
+        },
+        "en": {
+          "content": "Never ask a backend dev to help you move apartments.\nYou're halfway through carrying a table out, and they've already DROPPED the whole thing.\nNo WHERE clause, either.",
+          "editorNote": "Send this to anyone who works with databases. They'll laugh, then nervously remember that one time they forgot the WHERE.",
+          "variations": [
+            "Their moving strategy: wipe everything, then restore from backup.",
+            "You ask them to tidy up and they TRUNCATE the entire room."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-220",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://one-beyond.com/20-one-liners-only-software-developers-understand/",
+      "sourceNote": "'works on my machine' classic, reframed as a short dialogue",
+      "tags": [
+        "工程師日常",
+        "經典名言",
+        "甩鍋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試：「線上壞了，你那邊呢？」\n工程師：「我這邊跑得好好的啊。」\n測試：「那要怎麼辦？」\n工程師：「很簡單，把使用者的電腦全部換成我這台就好了。」",
+          "editorNote": "適合在「我這邊沒問題」變成團隊梗的時候轉發，提醒大家環境一致性有多重要。",
+          "variations": [
+            "解法：把整個生產環境打包成我的開發機，問題就消失了。",
+            "「在我電腦上是好的」這句話，已經拯救過無數個我，也害慘過無數個別人。"
+          ]
+        },
+        "en": {
+          "content": "QA: \"It's broken in production. How about on your end?\"\nDev: \"Runs perfectly on my machine.\"\nQA: \"So what do we do?\"\nDev: \"Easy. We just ship my laptop to every user.\"",
+          "editorNote": "Forward this whenever 'works on my machine' becomes the team's running joke — a gentle reminder about why environment parity matters.",
+          "variations": [
+            "Fix: package my entire dev laptop as the production environment. Bug gone.",
+            "'It works on my machine' has saved me countless times and doomed everyone else just as often."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-221",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'used up all his cache' broke-developer pun, rewritten with framing",
+      "tags": [
+        "雙關",
+        "工程師梗",
+        "效能優化"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼那個工程師月底身上一毛都不剩？\n因為他把 cache 全部用光了。\n更慘的是，清完還是一樣慢。",
+          "editorNote": "適合月底發薪前的工程師群組，一個雙關自嘲兩個痛點：沒錢、也沒變快。",
+          "variations": [
+            "他想存錢，結果發現自己的人生沒有持久層。",
+            "工程師的錢包就像 cache：容量很小，而且隨時會被清空。"
+          ]
+        },
+        "en": {
+          "content": "Why was the developer flat broke by the end of the month?\nHe'd used up all his cache.\nWorse part: even after clearing it, things were still slow.",
+          "editorNote": "Perfect for the dev group chat right before payday — one pun, two pains: no money, and no speedup either.",
+          "variations": [
+            "He tried to save money but realized his life had no persistence layer.",
+            "A developer's wallet is just like cache: tiny capacity, and it gets cleared without warning."
+          ]
+        }
+      }
     }
   ]
 }

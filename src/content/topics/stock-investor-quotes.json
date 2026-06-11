@@ -1361,6 +1361,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-055",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://udn.com/news/story/12806/9517691",
+      "sourceNote": "「跌一點就砍、漲回來又追高，這才是標準韭菜」洗盤被洗出 register；改寫原創",
+      "tags": ["洗盤", "追高", "韭菜", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "市場只是輕輕抖了一下，我就嚇得把單砍了。\n它漲回來，我又怕錯過，追了上去。\n抖一下我跑，漲回來我追，這套動作我重複了一整年，動作越來越熟練，本金越來越乾淨。\n後來我才懂，主力不是在跟我搶股票，是在跟我玩一二三木頭人，而我每次都動。",
+          "editorNote": "送給每個被一根黑K嚇出場、又被一根紅K騙回來的同好",
+          "variations": [
+            "我不是被套牢洗出去的，我是自己抖出去的。",
+            "主力洗盤的成本很低，因為只要嚇一下，我就會自己跳車。"
+          ]
+        },
+        "en": {
+          "content": "The market gave one little shake, and I panic-sold.\nIt climbed back, and I chased it so I wouldn't miss out.\nShake, I bail. Bounce, I chase. I ran this routine for a whole year — smoother every time, account cleaner every time.\nThen it hit me: the whales aren't fighting me for shares. They're playing red-light-green-light, and I move every single round.",
+          "editorNote": "For everyone scared out by a single red candle and lured back by a single green one",
+          "variations": [
+            "I wasn't washed out by getting trapped. I shook myself out.",
+            "Shaking me out is cheap for the whales — one little scare and I jump off the train myself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-056",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "PTT「別人恐懼我貪婪，別人小虧我破產」幹話語錄 register；改寫原創",
+      "tags": ["巴菲特", "名言", "破產", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把那句名言奉為信仰：別人恐懼，我貪婪。\n於是別人恐懼的時候，我貪婪地全押。\n別人後來小虧，我破產。\n我終於參透這句話的真義：原來貪婪跟勇敢只差一個結果，而我每次都領到那個比較難看的結果。",
+          "editorNote": "送給每個把投資名言貼在牆上、結果活成反例的同好",
+          "variations": [
+            "別人恐懼我貪婪，別人停損我加碼，別人解套我畢業。",
+            "名言沒有騙我，只是它沒說那個貪婪的人最後會是接刀的那個。"
+          ]
+        },
+        "en": {
+          "content": "I treated that famous line like scripture: be greedy when others are fearful.\nSo when everyone got scared, I greedily went all in.\nThey took a small loss. I went bankrupt.\nNow I finally grasp what the quote really means: greedy and brave are separated by one thing — the outcome — and I always draw the uglier one.",
+          "editorNote": "For everyone who taped an investing quote to the wall and became its cautionary example",
+          "variations": [
+            "Greedy when others fear, averaging down when others cut, graduating when others break even.",
+            "The quote didn't lie to me. It just left out that the greedy one ends up catching the falling knife."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-057",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "「lost his balance / 交易員破產因為失去平衡」雙關 register；改寫原創",
+      "tags": ["破產", "雙關", "自嘲", "本金"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我最近在學什麼，我說我在練平衡。\n他以為我去學瑜伽，其實我是在學怎麼讓帳戶收支平衡。\n練到現在，我的帳戶確實很平衡了——進帳是零，餘額也快是零，完美對稱。\n原來達成財務平衡最快的方法，是把錢全部賠光，剩下的零，最平衡。",
+          "editorNote": "適合在月底結算發現帳戶見底時拿來苦中作樂",
+          "variations": [
+            "我終於達成收支平衡了，因為兩邊都是零。",
+            "別人靠存錢平衡，我靠賠光平衡，殊途同歸。"
+          ]
+        },
+        "en": {
+          "content": "A friend asked what I've been practicing lately. I said I'm working on my balance.\nHe assumed I took up yoga. Really I'm learning how to balance my account.\nAnd it's working — my account is perfectly balanced now: zero coming in, balance nearly zero too. Flawless symmetry.\nTurns out the fastest way to financial balance is to lose it all, because the zero that's left is the most balanced number there is.",
+          "editorNote": "For the end-of-month moment when you tally up and find the account scraping bottom",
+          "variations": [
+            "I finally balanced my budget — both sides are zero.",
+            "Other people balance their finances by saving. I balance mine by losing it all. Same destination."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-058",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://udn.com/news/story/12806/9517691",
+      "sourceNote": "「38萬散戶進場後暴跌、新進散戶住套房」register；改寫原創",
+      "tags": ["住套房", "套牢", "新手", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說這波有幾十萬新散戶進場。\n我就是那幾十萬之一，懷著滿腔熱血，在最熱鬧的那天報到。\n報到完隔天，大盤就送了我一份見面禮，直接讓我住進套房。\n別人買房要存頭期款，我什麼都沒準備，市場一個禮拜就幫我安排好了一間，還免費附帶長期租約。",
+          "editorNote": "送給每個剛開戶就遇到回檔、直接住進套房的新手同好",
+          "variations": [
+            "我進股市的第一個成就，不是獲利，是入住。",
+            "別人是來投資的，我是來市場辦租屋手續的，租期未定。"
+          ]
+        },
+        "en": {
+          "content": "The news said a few hundred thousand new retail traders just entered the market.\nI'm one of those hundred thousands — full of fire, signing in on the busiest day of all.\nThe morning after I signed in, the index handed me a welcome gift and moved me straight into the underwater suite.\nOther people save for a down payment to get a place. I prepped nothing, and within a week the market arranged a unit for me — lease term: indefinite.",
+          "editorNote": "For the rookie who opened an account, hit a pullback immediately, and moved straight into the underwater suite",
+          "variations": [
+            "My first achievement in the stock market wasn't a profit. It was a move-in.",
+            "Other people came to invest. I came to sign a lease — term still undetermined."
+          ]
+        }
+      }
     }
   ]
 }

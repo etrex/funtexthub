@@ -1529,6 +1529,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-067",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20260522edi062",
+      "sourceNote": "拓元永久停權帳號無法重新註冊，一人限一帳號，遇實名制演唱會等同失去購票資格",
+      "tags": ["永久停權", "實名制", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "帳號被永久停權。\n\n一人只能辦一個，\n停了不能重辦。\n\n以後只要是實名制的演唱會，\n我連排隊的資格都沒有。\n\n我不是被擋在門外，\n我是被從名單上整個劃掉。",
+          "editorNote": "永久停權＋一人一帳號＝直接被踢出整個生態系，是 2026 最重的搶票天災。傳給帳號回不來、心也涼一截的朋友",
+          "variations": [
+            "認命版：「別人是搶不到票,我是連帳號都沒有。下次大概要用我下輩子的身分證重辦。」"
+          ]
+        },
+        "en": {
+          "content": "My account got permanently banned.\n\nOne person, one account.\nOnce it's gone, you can't make another.\n\nFrom now on, every real-name show,\nI don't even qualify to stand in line.\n\nI'm not locked out of the room.\nI'm crossed off the entire list.",
+          "editorNote": "A permanent ban plus a one-account rule means you're ejected from the whole ecosystem — the heaviest 2026 ticketing disaster. Send to a friend whose account is gone for good",
+          "variations": [
+            "Resigned: 'Other people just miss out on tickets. I don't even have an account anymore. Guess I'll re-register with my next life's ID.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-068",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.nownews.com/news/6804732",
+      "sourceNote": "立委黃捷發函文化部，要求拓元公開停權標準並建立人工複查機制",
+      "tags": ["立委", "停權標準", "申訴", "正義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "立委發函要平台\n公開「到底怎樣算機器人」。\n\n我等這句話等好久了。\n\n因為到現在,\n沒有人能告訴我,\n我那天到底做錯了什麼——\n\n除了\n太想看而已。",
+          "editorNote": "停權標準黑箱、連立委都看不下去要求公開，是被誤判粉絲最大的怒點。傳給至今不知道自己錯在哪的朋友",
+          "variations": [
+            "翻譯版：「我要的不是平反,是一份說明書:告訴我按幾下重新整理會變成黃牛,我下次少按一下。」"
+          ]
+        },
+        "en": {
+          "content": "A lawmaker wrote to the platform\ndemanding they publish\nwhat actually counts as a bot.\n\nI've been waiting a long time for that question.\n\nBecause to this day,\nno one can tell me\nwhat I did wrong —\n\nbesides\nwanting in too badly.",
+          "editorNote": "Black-box ban criteria — opaque enough that a legislator stepped in — is the core grievance for falsely flagged fans. Send to a friend who still has no idea what they did wrong",
+          "variations": [
+            "Translation: 'I don't want vindication, I want a manual: tell me how many refreshes turns me into a scalper, and I'll click one fewer next time.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-069",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.ticketnews.com/2026/04/bts-fans-cry-foul-after-ticketmaster-cancells-tickets-claining-glitch/",
+      "sourceNote": "BTS 粉絲已成功購票卻被 Ticketmaster 取消，平台稱系統異常，粉絲質疑票被收回轉作 VIP 高價販售",
+      "tags": ["取消票", "已購票", "Ticketmaster", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搶到了。\n付了錢。\n收到確認信。\n\n三天後,\n平台寄信來說:\n「系統異常,您的票已取消。」\n\n原來連到手的票,\n都只是借我開心一下,\n隨時可以收回。",
+          "editorNote": "已成功付款的票被平台事後以「系統異常」取消，是 2026 最讓人崩潰的反轉。傳給好不容易上岸又被一封信打回原形的朋友",
+          "variations": [
+            "陰謀論版：「他說是系統異常。但被取消的剛好都是平價票,收回去剛好變成貴三倍的 VIP。異常得很有規律。」"
+          ]
+        },
+        "en": {
+          "content": "I got it.\nI paid.\nI got the confirmation email.\n\nThree days later,\nthe platform wrote back:\n'System error — your ticket has been cancelled.'\n\nTurns out even a ticket in hand\nis just a loan of joy,\nrecallable at any time.",
+          "editorNote": "A fully paid ticket clawed back later as a 'glitch' is the most gutting 2026 plot twist. Send to a friend who finally won, then got knocked back to zero by one email",
+          "variations": [
+            "Conspiracy version: 'They called it a glitch. But the cancelled ones were all the cheap seats, and they came back as VIP at triple the price. Very orderly glitch.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-070",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.nbcnews.com/pop-culture/music/spotify-reserved-program-superfan-access-rcna346356",
+      "sourceNote": "Spotify 推出 Reserved 計畫，為 Premium 付費用戶中的「超級粉絲」保留巡演門票優先購",
+      "tags": ["超級粉絲", "付費會員", "優先購", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在連「超級粉絲」\n都要靠串流平台認證。\n\n要付費會員、\n要播放時數夠、\n要被演算法蓋章。\n\n我聽了十年,\n結果系統說\n我「不夠資格喜歡他」。",
+          "editorNote": "用串流播放數據認證誰是真粉、決定誰能優先買票，是 2026 最弔詭的分眾新規。傳給聽了一輩子卻被演算法判定不夠格的朋友",
+          "variations": [
+            "認證版：「以前喜歡一個歌手只要喜歡就好。現在要附上播放紀錄、付費證明、跟演算法的推薦信。」"
+          ]
+        },
+        "en": {
+          "content": "Now even 'superfan' status\nhas to be certified by a streaming app.\n\nYou need a paid subscription,\nenough listening hours,\nan algorithm's stamp of approval.\n\nI've listened for ten years,\nand the system says\nI'm 'not qualified to love him.'",
+          "editorNote": "Letting stream counts certify who's a 'real fan' — and who gets priority access — is the strangest new 2026 tiering. Send to a friend who's listened forever but got ruled ineligible by an algorithm",
+          "variations": [
+            "Certification version: 'Loving an artist used to just take loving them. Now it takes a listening history, proof of payment, and a letter of recommendation from the algorithm.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-071",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.avemarialaw.edu/affordable-live-entertainment/",
+      "sourceNote": "2026 FTC Junk Fees 規則上路，要求售票平台在購票流程更早階段揭露含手續費的全額票價",
+      "tags": ["手續費", "全額揭露", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新規定:\n手續費要提早讓你看到全額。\n\n以前是結帳時才被嚇一跳,\n現在是一開始就被嚇。\n\n透明是進步沒錯,\n只是把心碎的時間\n從第五分鐘\n提前到第一分鐘。",
+          "editorNote": "新規要求手續費提前全額揭露，立意良善卻只是讓粉絲更早看清總價的殘酷。傳給看到含手續費全額後直接關分頁的朋友",
+          "variations": [
+            "務實版：「以前手續費藏到最後一頁,現在攤在第一頁。差別是,我現在連點進去的勇氣都先省下來了。」"
+          ]
+        },
+        "en": {
+          "content": "New rule:\nthey have to show you the full price,\nfees and all, up front.\n\nUsed to get blindsided at checkout.\nNow I get blindsided at hello.\n\nTransparency is progress, sure.\nIt just moved the heartbreak\nfrom minute five\nto minute one.",
+          "editorNote": "All-in fee disclosure laws are well-meaning but mostly let fans see the brutal total sooner. Send to a friend who closed the tab the instant the fee-inclusive price loaded",
+          "variations": [
+            "Practical version: 'Fees used to hide on the last page. Now they're on the first. The upside: I save myself the trouble of even clicking in.'"
+          ]
+        }
+      }
     }
   ]
 }

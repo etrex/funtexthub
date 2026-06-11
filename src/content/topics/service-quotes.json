@@ -3353,6 +3353,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-139",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reframes the Dcard 「奧客經典語錄」 thread's 「我可以客訴你，你不能拿我怎樣」 asymmetry; original 「客訴是單行道」 one-way-street framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "客訴", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "奧客最大的底氣是：\n「我可以客訴你，你不能拿我怎樣。」\n客訴是一條單行道，\n車全往我這邊開，\n而我連按喇叭的權利都沒有。",
+          "editorNote": "傳給最近被「信不信我客訴你」威脅過的同行。客訴制度保護的是誰，站過櫃檯的人最清楚。",
+          "variations": [
+            "客人手上那張客訴單，是把單面刀，刀口永遠朝著員工。",
+            "真正該被立法保護的，是讓員工也能客訴奧客的那一天。"
+          ]
+        },
+        "en": {
+          "content": "A difficult customer's ultimate trump card:\n\"I can report you. You can't do a thing about me.\"\nComplaints are a one-way street —\nevery car drives toward me,\nand I don't even get to honk.",
+          "editorNote": "Send to anyone threatened with \"want me to file a complaint?\" this week. Who the complaint system actually protects — the people behind the counter know best.",
+          "variations": [
+            "That complaint form in the customer's hand is a single-edged blade, and the edge always faces the employee.",
+            "The law we actually need is the one that lets employees file complaints against the customers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-140",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://twistedsifter.com/2026/05/customers-have-been-unloading-their-thoughts-and-feelings-on-this-customer-service-employee-so-her-work-started-feeling-like-aggravating-emotional-labor/",
+      "sourceNote": "Reframes the TwistedSifter 2026 「emotional punching bag」 service-worker piece; original 「情緒沙包」 boxing-bag metaphor rewritten for the counter context",
+      "tags": ["服務業", "情緒勞動", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人來買的是一杯咖啡，\n順便把今天的氣、這週的怨、\n還有跟老闆吵架的火，\n全打在我臉上。\n我不是櫃檯，是一個會說「歡迎光臨」的情緒沙包。",
+          "editorNote": "傳給今天被客人當出氣筒、回家臉還在隱隱作痛的同行。被打的是沙包，痛的是裡面那個人。",
+          "variations": [
+            "客人把整天的壞情緒往我這裡倒，倒完輕鬆了，重量全留給我背回家。",
+            "情緒沙包也是會破的，只是公司以為它無限耐打。"
+          ]
+        },
+        "en": {
+          "content": "The customer came in for a coffee\nand threw in today's anger, this week's resentment,\nand the fight with their boss —\nall straight at my face.\nI'm not a counter. I'm a punching bag that says \"welcome in.\"",
+          "editorNote": "Send to anyone used as a vent today, going home with a face that still aches. The bag takes the hit — the person inside takes the pain.",
+          "variations": [
+            "The customer dumps a whole day of bad mood on me, walks out lighter, and leaves the weight for me to carry home.",
+            "Even a punching bag splits eventually. The company just assumes it takes infinite hits."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-141",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.ctwant.com/article/480067/",
+      "sourceNote": "Reframes the CTWANT 2026 民生消費 53萬人缺口 labor-shortage report; original 「一個人當三個人用，薪水還是一個人的」 framing is the rewrite anchor",
+      "tags": ["服務業", "缺工", "薪水", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "缺工潮的真相是：\n店裡少了兩個人，\n那兩份工作沒有消失，\n只是默默搬到了我的班表上。\n一個人當三個人用，\n薪水條上卻只有一個人的數字。",
+          "editorNote": "傳給最近一個人撐整間店、累到懷疑人生的同行。缺的不是工，是願意被當三個人用、卻只領一份錢的人。",
+          "variations": [
+            "公司說缺工，其實沒缺，缺的人都長在我身上多出來的那兩雙手。",
+            "缺工潮裡最忙的不是老闆，是那個被迫一人分飾三角的員工。"
+          ]
+        },
+        "en": {
+          "content": "The truth about the labor shortage:\ntwo coworkers are gone,\nbut their two jobs didn't disappear —\nthey quietly migrated onto my schedule.\nOne person doing the work of three,\nwhile the paycheck still shows one person's number.",
+          "editorNote": "Send to anyone running a whole store solo and questioning their life choices. It's not a labor shortage — it's a shortage of people willing to do three jobs for one wage.",
+          "variations": [
+            "The company says we're understaffed. We're not — the missing staff grew as two extra hands on me.",
+            "The busiest person in a labor shortage isn't the boss. It's the employee forced to play three roles at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-142",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://punvio.com/customer-service-puns-2026/",
+      "sourceNote": "Reframes the 2026 「Smile.exe running / On mute, still judging」 customer-service pun register; original 「微笑是開機自動執行的程式」 OS-process metaphor is the rewrite anchor",
+      "tags": ["服務業", "微笑", "情緒勞動", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的微笑是開機自動執行的程式，\n上班打卡那一刻就在背景跑，\n關不掉、刪不掉、佔記憶體，\n下班想結束它，\n系統還會問我：「確定要關閉嗎？」",
+          "editorNote": "傳給下班後笑容還卡在臉上、自己都嫌僵的同行。職業微笑不是表情，是常駐後台的程式。",
+          "variations": [
+            "服務業的微笑像防毒軟體，明明很吃資源，公司卻規定不准關。",
+            "我的臉開了一個叫「微笑」的分頁，八小時都沒辦法按 X。"
+          ]
+        },
+        "en": {
+          "content": "My smile is a program that auto-launches on startup.\nThe second I clock in, it's running in the background —\ncan't close it, can't delete it, eats all my memory.\nAt clock-out I try to end it,\nand the system asks: \"Are you sure you want to quit?\"",
+          "editorNote": "Send to anyone whose smile is still stuck on their face after the shift, stiff enough to notice. The work smile isn't an expression — it's a resident background process.",
+          "variations": [
+            "The service smile is like antivirus software: it hogs resources, but the company won't let you disable it.",
+            "My face has a tab open called \"Smile,\" and for eight hours there's no X button."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-143",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://vocus.cc/article/64f365aefd89780001b09f20",
+      "sourceNote": "Reframes the 方格子 「客人欺善怕惡」 piece with a fresh 錄影威脅 angle from 2026 search results; original 「鏡頭一舉，我就從人變成證據」 framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "客訴", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人吵不贏的時候，手機就舉起來：\n「我錄起來囉，傳上網讓大家評評理。」\n那一刻我不再是一個人，\n是一段隨時會被剪輯、配音、下標的證據。\n我的飯碗，握在他三十秒的影片裡。",
+          "editorNote": "傳給最近被客人舉手機威脅、嚇到不敢多說一句的同行。鏡頭面前最沒有防備的，永遠是那個照規定做事的人。",
+          "variations": [
+            "客人錄的不是真相，是只剪我那半邊的版本。",
+            "手機一舉，員工就從活人變成隨時被公審的素材。"
+          ]
+        },
+        "en": {
+          "content": "The moment a customer can't win the argument, the phone goes up:\n\"I'm recording this — let the internet decide.\"\nRight then I stop being a person\nand become footage to be cut, captioned, and dubbed at will.\nMy livelihood, held inside their thirty-second clip.",
+          "editorNote": "Send to anyone scared into silence by a customer raising their phone. In front of the lens, the most defenseless person is always the one just following the rules.",
+          "variations": [
+            "What the customer records isn't the truth — it's the version edited down to only my half.",
+            "Phone goes up, and the employee turns from a living person into material for a public trial."
+          ]
+        }
+      }
     }
   ]
 }
