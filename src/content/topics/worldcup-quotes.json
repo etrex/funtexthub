@@ -1,0 +1,366 @@
+{
+  "slug": "worldcup-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "世界盃熬夜語錄",
+      "description": "美加墨世界盃開踢，凌晨三點開賽、上午邊開會偷看——獻給每個為了不是自己國家的隊伍熬夜，隔天還要上班的真愛球迷。"
+    },
+    "en": {
+      "title": "World Cup Night-Owl Quotes",
+      "description": "The 2026 World Cup kicks off across the US, Canada and Mexico. 3AM kickoffs, sneaking scores during the morning meeting — for every fan who stays up for a team that isn't even theirs, then shows up to work anyway."
+    }
+  },
+  "items": [
+    {
+      "id": "wc-001",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://rti.org.tw/news?pid=213447&uid=3",
+      "sourceNote": "2026 世界盃開幕戰台灣時間 6/12 凌晨 03:00；改寫原創",
+      "tags": ["世界盃", "熬夜", "開幕戰", "真愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "開幕戰，台灣時間凌晨三點開踢。\n真正的球迷，不是看得懂越位的人，\n是願意三點爬起來、隔天還要照常上班的人。",
+          "editorNote": "傳給那個說好要陪你看開幕戰、結果十一點就先睡著的朋友",
+          "variations": [
+            "凌晨三點的世界盃，篩選的從來不是球技，是愛。",
+            "懂不懂足球不重要，敢不敢三點起床才是門檻。"
+          ]
+        },
+        "en": {
+          "content": "Opening match: 3 AM kickoff, local time.\nA real fan isn't the one who understands offside —\nit's the one who drags themselves up at 3 and still clocks in the next morning.",
+          "editorNote": "Send to the friend who swore they'd watch the opener with you, then fell asleep at 11",
+          "variations": [
+            "A 3 AM World Cup filters for one thing, and it was never skill. It's love.",
+            "Knowing the rules is optional. Getting up at 3 is the real entry fee."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-002",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.worldcupfifa.com.tw/post/world-cup-2026-watch-online-taiwan-elta",
+      "sourceNote": "美西晚場落台灣上午 09:00-10:00「早餐球」register；改寫原創",
+      "tags": ["世界盃", "早餐球", "上午場", "上班族"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這屆世界盃對台灣最佛的地方，\n是有些場次落在早上九點、十點。\n別人叫它美西晚場，我們叫它「早餐球」——\n配蛋餅，配豆漿，配一點點遲到的勇氣。",
+          "editorNote": "傳給那個在早餐店看球看到忘記要去上班的同事",
+          "variations": [
+            "早餐球的精髓：邊吃蛋餅邊看球，邊算還來不來得及打卡。",
+            "美西的深夜，是我們的早餐時間。時差第一次站在台灣這邊。"
+          ]
+        },
+        "en": {
+          "content": "The kindest thing about this World Cup for us:\nsome matches land at 9 or 10 in the morning.\nThe rest of the world calls it a late West Coast game.\nWe call it breakfast football — eggs, soy milk, and a little courage to be late.",
+          "editorNote": "For the coworker who got so deep into a match at the breakfast shop they forgot to go to work",
+          "variations": [
+            "Breakfast football: one eye on the score, one eye on whether you can still make it in on time.",
+            "Their midnight is our breakfast. For once, the time zones are on our side."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-003",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://gsbet888.tw/fifa-world-cup-broadcast/",
+      "sourceNote": "上午場卡上班時間 邊開會偷看 register；改寫原創",
+      "tags": ["世界盃", "上班", "開會", "偷看"],
+      "i18n": {
+        "zh-tw": {
+          "content": "上午十點那場，剛好卡在我的晨會。\n老闆在台上講這季的目標，\n我在筆電後面，用另一個視窗追比分。\n我們兩個都很緊張，只是緊張的東西不太一樣。",
+          "editorNote": "傳給那個開會時筆電永遠開兩個視窗的戰友",
+          "variations": [
+            "晨會最長的不是議程，是我這邊的比賽還沒進球。",
+            "視訊鏡頭關掉的那一刻，我的世界盃才正式開賽。"
+          ]
+        },
+        "en": {
+          "content": "The 10 AM match lands right on top of my morning standup.\nThe boss is up front talking quarterly targets.\nI'm behind my laptop, tracking the score in another window.\nWe're both tense — just about completely different things.",
+          "editorNote": "For the comrade whose laptop always has exactly two windows open during meetings",
+          "variations": [
+            "The longest part of a standup isn't the agenda. It's my match still being 0-0.",
+            "The moment my camera turns off, my real World Cup kicks off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-004",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.nownews.com/news/6831968",
+      "sourceNote": "「半友善世界盃」不必全程熬夜 但淘汰賽仍凌晨 register；改寫原創",
+      "tags": ["世界盃", "半友善", "淘汰賽", "熬夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "大家說這是「半友善世界盃」，不用全程熬夜。\n我信了。\n直到淘汰賽，最精彩的那幾場，又準時排回凌晨四點。\n原來「半友善」的意思是：小組賽對你客氣，淘汰賽對你現出原形。",
+          "editorNote": "傳給那個小組賽都睡飽、淘汰賽開始崩潰的朋友",
+          "variations": [
+            "半友善的「半」，指的是它只在你不在乎的場次對你好。",
+            "越想看的比賽，時間排得越深夜，這是世界盃的潛規則。"
+          ]
+        },
+        "en": {
+          "content": "They called it the 'half-friendly World Cup' — you won't have to stay up the whole way.\nI believed them.\nThen the knockouts came, and the best matches slid right back to 4 AM.\n'Half-friendly,' it turns out, means: polite in the group stage, ruthless in the knockouts.",
+          "editorNote": "For the friend who slept fine through the group stage and fell apart once the knockouts began",
+          "variations": [
+            "The 'half' in half-friendly refers to the games you don't actually care about.",
+            "The match you want most always gets scheduled deepest into the night. It's a law."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-005",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260609701041-430502",
+      "sourceNote": "2026 史上首屆 48 隊 104 場 死亡之組 register；改寫原創",
+      "tags": ["世界盃", "48隊", "死亡之組", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這屆四十八隊，史上最多，\n新聞說幾乎每一組都是死亡之組。\n我看著自己這個月的待辦清單，\n默默覺得，被分進死亡之組的，其實是我。",
+          "editorNote": "傳給那個行事曆滿到自己都不敢點開的同事",
+          "variations": [
+            "四十八隊裡總有人能晉級，我的待辦清單裡沒有。",
+            "別人的死亡之組六月就結束，我的死亡之組從來沒有賽程表。"
+          ]
+        },
+        "en": {
+          "content": "Forty-eight teams this year — the most ever.\nThe headlines say nearly every group is a group of death.\nI look at my own to-do list for the month\nand quietly realize the one stuck in the group of death is me.",
+          "editorNote": "For the coworker whose calendar is so full they're afraid to open it",
+          "variations": [
+            "Out of forty-eight teams, someone always advances. My to-do list has no such mercy.",
+            "Their group of death ends in June. Mine never even got a fixture list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-006",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.worldcupfifa.com.tw/post/world-cup-2026-watch-online-taiwan-elta",
+      "sourceNote": "愛爾達 VOD 隔天補看 register；改寫原創",
+      "tags": ["世界盃", "VOD", "補看", "睡眠"],
+      "i18n": {
+        "zh-tw": {
+          "content": "錯過凌晨那場沒關係，隔天還能看重播。\n於是我通勤的捷運上補的，不只是比賽，\n還有昨晚為了它失去的睡眠。\n球補得回來，黑眼圈補不回來。",
+          "editorNote": "傳給那個用 VOD 把世界盃看成連續劇的朋友",
+          "variations": [
+            "VOD 補看的真相：補的是球，欠的是命。",
+            "重播能倒帶，我的生理時鐘不行。"
+          ]
+        },
+        "en": {
+          "content": "Missed the 3 AM match? No problem, there's a replay tomorrow.\nSo on my morning commute I'm catching up — not just on the game,\nbut on the sleep I lost for it last night.\nThe match, I can replay. The eye bags, I cannot.",
+          "editorNote": "For the friend bingeing the World Cup on replay like it's a TV drama",
+          "variations": [
+            "The truth about catching up on VOD: you reclaim the goals, you still owe the sleep.",
+            "A replay can rewind. My body clock cannot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-007",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://knowyourmeme.com/memes/world-cup-everybody-jump",
+      "sourceNote": "Tayo Ricci「World Cup」everybody jump 迷因；改寫原創",
+      "tags": ["世界盃", "迷因", "主題曲", "躺平"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年的世界盃應援曲一出來，全網都在喊「everybody jump」。\n我聽完只有一個感想：\n大家都跳，可以，但我選擇躺平。\n這首歌唯一讓我熱血的部分，是大家一起罵它的時候。",
+          "editorNote": "傳給那個被那首神曲洗腦、邊罵邊跟著哼的朋友",
+          "variations": [
+            "「everybody jump」——除了我，我這邊維持躺平。",
+            "一首歌能把全世界團結起來一起嫌棄，某種程度上也算成功了。"
+          ]
+        },
+        "en": {
+          "content": "The official anthem dropped and the whole internet started yelling 'everybody jump.'\nI listened, and had exactly one thought:\neverybody jump, sure — but I'm choosing to lie flat.\nThe only part of this song that fires me up is watching everyone roast it together.",
+          "editorNote": "For the friend who can't stop humming the cursed anthem while complaining about it",
+          "variations": [
+            "'Everybody jump' — except me. I'll be over here, horizontal.",
+            "A song that unites the entire world in collectively hating it is, in a way, a success."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-008",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.tiktok.com/@tayoricci/video/7647867605876755726",
+      "sourceNote": "史上最爛世界盃歌 還是循環播放 register；改寫原創",
+      "tags": ["世界盃", "主題曲", "循環", "上癮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公認史上最難聽的世界盃歌，\n我已經循環播放第四十遍。\n不是因為好聽，\n是因為它跟這屆熬夜一樣——明知道很痛苦，卻怎麼也戒不掉。",
+          "editorNote": "傳給那個歌單裡偷偷加了那首神曲、不敢承認的人",
+          "variations": [
+            "難聽到我恨它，洗腦到我循環它，這就是世界盃的魔力。",
+            "我跟這首歌的關係，跟我跟凌晨三點的關係一樣——又愛又恨，戒不掉。"
+          ]
+        },
+        "en": {
+          "content": "The most hated World Cup song ever recorded,\nand I'm on my fortieth loop.\nNot because it's good —\nbut because it's just like staying up for this tournament: I know it hurts, and I still can't quit it.",
+          "editorNote": "For the person who quietly added the cursed anthem to their playlist and won't admit it",
+          "variations": [
+            "Bad enough to hate, catchy enough to loop. That's the magic of the World Cup.",
+            "My relationship with this song is my relationship with 3 AM: love it, hate it, can't quit it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-009",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://gsbet888.tw/fifa-world-cup-broadcast/",
+      "sourceNote": "看球比上班準時 自律用錯地方 register；改寫原創",
+      "tags": ["世界盃", "準時", "自律", "熬夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我上班從來沒準時過，\n但凌晨三點的開賽，我提前十五分鐘就坐好了。\n原來我不是沒有自律，\n我只是把自律，全部用在最不該用的地方。",
+          "editorNote": "傳給那個鬧鐘按十次、卻能為球賽自動醒來的朋友",
+          "variations": [
+            "我的生理時鐘認得開賽時間，認不得打卡時間。",
+            "能凌晨三點精準起床的人，要相信自己其實很有潛力。"
+          ]
+        },
+        "en": {
+          "content": "I've never once been on time for work,\nbut for a 3 AM kickoff I'm seated and ready fifteen minutes early.\nTurns out it's not that I lack discipline —\nI just spend all of it in the worst possible place.",
+          "editorNote": "For the friend who snoozes the alarm ten times but wakes up automatically for the match",
+          "variations": [
+            "My body clock recognizes kickoff time. It does not recognize the time I'm due at work.",
+            "Anyone who can wake up precisely at 3 AM should believe in their own potential."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-010",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://punsberry.com/referee-puns/",
+      "sourceNote": "不懂越位 跟著全場一起罵 register；改寫原創",
+      "tags": ["世界盃", "越位", "偽球迷", "團結"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我剛剛裁判為什麼吹哨。\n我說：「越位。」\n他說：「你看得懂越位喔？」\n我說：「看不懂，但全場都站起來罵，我就跟著站起來。」\n世界盃最團結的一刻，就是全場一起對一個我們都看不懂的判決生氣。",
+          "editorNote": "傳給那個跟你一樣，每次都比裁判晚半秒才知道發生什麼事的朋友",
+          "variations": [
+            "判越位的是 VAR，跟著生氣的是不懂越位的我們。",
+            "看不懂沒關係，會在對的時間握拳，你就是這個夜晚的一份子。"
+          ]
+        },
+        "en": {
+          "content": "My friend asked why the ref just blew the whistle.\nI said, 'Offside.'\nHe said, 'You can read offside?'\nI said, 'No idea, but the whole stadium stood up to complain, so I stood up too.'\nThe most united moment of the World Cup is everyone getting angry together at a call none of us understood.",
+          "editorNote": "For the friend who, like you, always figures out what happened half a second after everyone else",
+          "variations": [
+            "VAR makes the offside call. The rest of us, who can't read offside, supply the outrage.",
+            "You don't have to understand it. Clench your fist at the right moment and you belong here."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-011",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.worldcupfifa.com.tw/post/world-cup-2026-watch-online-taiwan-elta",
+      "sourceNote": "ELTA 季租 499 vs 熬夜代價 register；改寫原創",
+      "tags": ["世界盃", "轉播", "季票", "划算"],
+      "i18n": {
+        "zh-tw": {
+          "content": "轉播季票四百九十九，我一開始覺得有點貴。\n後來算了一下：一個月的咖啡、提神飲料、隔天上班渙散掉的精神……\n四百九十九，其實是這整個夏天裡，我花得最不心痛的一筆。",
+          "editorNote": "傳給那個還在猶豫要不要訂季票、卻已經為它失眠的朋友",
+          "variations": [
+            "季票不貴，貴的是看完之後那條回不去的作息。",
+            "省下四百九十九的人，通常會用咖啡錢加倍奉還。"
+          ]
+        },
+        "en": {
+          "content": "A season pass costs about fifteen bucks, and at first I thought that was steep.\nThen I did the math: a month of coffee, energy drinks, and all the focus I lose at work the next day…\nFifteen bucks turns out to be the least painful thing I'll spend all summer.",
+          "editorNote": "For the friend still hesitating over the season pass while already losing sleep over it",
+          "variations": [
+            "The pass isn't expensive. The sleep schedule you'll never get back is.",
+            "Whoever skips the pass usually pays it back double in coffee."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-012",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.sportsfeelgoodstories.com/world-cup-jokes/",
+      "sourceNote": "半夜進球歡呼吵到鄰居/室友 register；改寫原創",
+      "tags": ["世界盃", "鄰居", "半夜", "歡呼"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，進球的瞬間我忍不住大叫。\n三秒後，隔壁牆壁傳來「咚咚」兩聲。\n我們從來沒講過話，但那一刻我們達成了共識：\n他支持的不是哪一隊，是睡眠。",
+          "editorNote": "傳給那個半夜看球被鄰居或室友抗議過的人，你們是同一種人",
+          "variations": [
+            "進球的歡呼有多大聲，隔天的道歉就要多小聲。",
+            "世界盃期間，最了解你作息的不是家人，是隔壁那道牆。"
+          ]
+        },
+        "en": {
+          "content": "3 AM. The goal goes in and I can't help shouting.\nThree seconds later, two knocks come through the wall.\nWe've never spoken, but in that moment we reach an understanding:\nthe team he supports isn't a team. It's sleep.",
+          "editorNote": "For anyone who's been shushed by a neighbor or roommate during a late match — you're the same breed",
+          "variations": [
+            "However loud the goal celebration, the next-morning apology has to be twice as quiet.",
+            "During the World Cup, the one who knows your schedule best isn't family. It's the wall next door."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-013",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://www.sportsfeelgoodstories.com/world-cup-jokes/",
+      "sourceNote": "為了不是自己國家的隊伍熬夜 register；改寫原創",
+      "tags": ["世界盃", "主隊", "熱血", "浪漫"],
+      "i18n": {
+        "zh-tw": {
+          "content": "最浪漫的事，\n是為了一支不在我國家、我也叫不全名字的球隊，\n在凌晨四點握緊拳頭，比為自己的人生還認真。\n世界盃教我的事：原來人可以為了一件無關緊要的事，全力以赴。",
+          "editorNote": "適合配開賽前的限動，獻給每個莫名其妙就有了主隊的人",
+          "variations": [
+            "我為我的人生從沒這麼緊張過，卻為一群陌生人緊張到手心冒汗。",
+            "選主隊不需要理由，就像愛上一個人不需要報備。"
+          ]
+        },
+        "en": {
+          "content": "The most romantic thing\nis staying up till 4 AM, fist clenched,\nfor a team that isn't from my country and whose roster I can't even name —\ntrying harder than I ever do for my own life.\nThe World Cup taught me: a person really can give their all to something that doesn't matter.",
+          "editorNote": "Perfect for a pre-match story post — for everyone who somehow ended up with a team to root for",
+          "variations": [
+            "I've never been this nervous about my own life, yet here I am, palms sweating over strangers.",
+            "You don't need a reason to pick a team, the same way you don't need permission to fall for someone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-014",
+      "dateAdded": "2026-06-11",
+      "sourceUrl": "https://gsbet888.tw/fifa-world-cup-broadcast/",
+      "sourceNote": "熬夜看球 黑眼圈 隔天上班 register；改寫原創",
+      "tags": ["世界盃", "黑眼圈", "上班", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界盃期間的我，分成兩個版本：\n凌晨三點，精神抖擻，扯著嗓子歡呼。\n早上九點，行屍走肉，扶著牆壁進公司。\n同事問我怎麼了，我只能說：\n「我沒事，是我的隊昨天有點事。」",
+          "editorNote": "傳給那個頂著黑眼圈來上班、還在偷查昨晚比分的同事",
+          "variations": [
+            "凌晨的我和上班的我，是兩個簽了切結書互不認識的人。",
+            "黑眼圈是世界盃球迷的識別證，不用說，大家都認得。"
+          ]
+        },
+        "en": {
+          "content": "During the World Cup, I come in two versions:\n3 AM — wide awake, screaming my lungs out.\n9 AM — a walking corpse, holding the wall on my way into the office.\nA coworker asks what's wrong, and all I can say is:\n'I'm fine. My team had a rough night.'",
+          "editorNote": "For the coworker who showed up with eye bags and is still secretly checking last night's score",
+          "variations": [
+            "3 AM me and 9 AM me are two people who signed a contract to never acknowledge each other.",
+            "Eye bags are a World Cup fan's ID badge. No words needed — everyone recognizes them."
+          ]
+        }
+      }
+    }
+  ]
+}
