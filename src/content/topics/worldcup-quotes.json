@@ -461,6 +461,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-019",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://udn.com/news/story/123107/9562009",
+      "sourceNote": "開幕 AI 直播吸 142 萬人 「黃仁勳要的世界?」大象闖球場迷因；改寫原創",
+      "tags": ["世界盃", "AI直播", "迷因", "開幕"],
+      "i18n": {
+        "zh-tw": {
+          "content": "開幕的 AI 直播一百多萬人在看，\n畫面裡突然冒出一隻大象闖進球場，\n竟然還真的有人信。\n網友在底下狂刷：「黃仁勳，這就是你要的世界嗎？」\n凌晨三點，我分不清是 AI 太強，還是我太睏。",
+          "editorNote": "傳給那個跟你一起被 AI 開幕畫面整到懷疑人生的朋友",
+          "variations": [
+            "AI 生成的開幕畫面，比賽還沒開始我已經先看到大象進場。",
+            "熬夜到三點的好處：真假已經分不出來，看什麼都覺得合理。"
+          ]
+        },
+        "en": {
+          "content": "Over a million people tuned into the AI-generated opening livestream,\nand then an elephant just strolled onto the pitch —\nand somehow people actually believed it.\nThe comments lit up: 'Is this the world you wanted, Jensen?'\nAt 3 AM I genuinely can't tell whether the AI is too good or I'm just too sleepy.",
+          "editorNote": "Send to the friend who was gaslit alongside you by the AI opening footage",
+          "variations": [
+            "The AI opening clip had an elephant walking out before kickoff even happened.",
+            "The upside of staying up till 3: you can't tell real from fake, so everything looks plausible."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-020",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.washingtonpost.com/sports/interactive/2026/06/11/43-definitive-rules-watching-2026-world-cup/",
+      "sourceNote": "家裡變成小型體育場 每球大叫；改寫原創",
+      "tags": ["世界盃", "家裡", "客廳", "歡呼"],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界盃一開打，我家客廳就升級成小型體育場。\n沙發是看台，茶几是球門，零食是中場補給。\n每進一球我就跳起來大叫，\n直到家人從房間探出頭，用眼神提醒我：\n這裡的觀眾，只有我一個。",
+          "editorNote": "傳給那個一個人在客廳看球、卻嗨得像現場有兩萬人的朋友",
+          "variations": [
+            "客廳變體育場的代價，是全家人都被迫成為我的鄰座觀眾。",
+            "一個人的看台，照樣可以喊出兩萬人的聲量。"
+          ]
+        },
+        "en": {
+          "content": "The moment the World Cup starts, my living room gets promoted to a small stadium.\nThe couch is the stands, the coffee table is the goal, the snacks are halftime supplies.\nEvery goal, I leap up and scream —\nuntil a family member pokes their head out and reminds me with a look\nthat the entire crowd here is just me.",
+          "editorNote": "For the friend watching alone in the living room but hyped like there are twenty thousand people there",
+          "variations": [
+            "The price of turning your living room into a stadium: your whole family becomes your unwilling seatmates.",
+            "A crowd of one can still roar at the volume of twenty thousand."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-021",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.washingtonpost.com/sports/interactive/2026/06/11/43-definitive-rules-watching-2026-world-cup/",
+      "sourceNote": "群組變國際法庭 為比賽吵架；改寫原創",
+      "tags": ["世界盃", "群組", "吵架", "鍵盤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界盃期間，我的家族群組變成國際法庭。\n平常已讀不回的長輩，\n為了一個越位判決，連發二十則語音，引經據典。\n我們從來沒為任何家事這麼認真討論過，\n卻能為一支大家都不是本國的球隊，吵到天亮。",
+          "editorNote": "傳給那個平常潛水、世界盃期間突然在群組變話癆的家人",
+          "variations": [
+            "群組裡最熱絡的時刻，永遠是有人開始為一顆球翻臉的時候。",
+            "為國家大事我們沉默，為一個越位我們各執一詞到天亮。"
+          ]
+        },
+        "en": {
+          "content": "During the World Cup, my family group chat turns into an international tribunal.\nThe relatives who usually leave me on read\nfire off twenty voice messages over one offside call, citing precedent.\nWe've never debated an actual family matter this passionately,\nyet here we are, arguing till dawn over a team none of us is even from.",
+          "editorNote": "For the relative who lurks all year and suddenly won't stop talking in the group chat during the World Cup",
+          "variations": [
+            "The group chat is never livelier than the moment someone loses it over a single goal.",
+            "On the big stuff we stay silent. On one offside, we argue our cases until sunrise."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-022",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://daynightcatering.com/2026%E4%B8%96%E7%95%8C%E7%9B%83%E6%87%B6%E4%BA%BA%E5%8C%85",
+      "sourceNote": "餐飲業推熬夜球迷專屬宵夜套餐；改寫原創",
+      "tags": ["世界盃", "宵夜", "外送", "熬夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在連外送都推出「熬夜球迷專屬宵夜套餐」了。\n凌晨兩點下單，三點開賽前剛好送到，\n配著比賽吃，整個夜晚都被照顧到。\n世界盃最厲害的地方，是它連你的胃，\n都安排進了凌晨三點的賽程表裡。",
+          "editorNote": "傳給那個半夜看球一定要配宵夜、沒吃就看不下去的朋友",
+          "variations": [
+            "宵夜套餐和開賽時間同步推出，這座城市懂熬夜球迷的心。",
+            "比賽餵飽我的熱血，宵夜餵飽我的胃，凌晨三點原來這麼忙。"
+          ]
+        },
+        "en": {
+          "content": "Now even delivery apps have a 'night-owl fan' late-night combo.\nOrder at 2 AM, and it shows up right before the 3 AM kickoff,\nso you eat through the match and the whole night feels taken care of.\nThe scariest part of the World Cup is that it's slotted even your stomach\ninto the 3 AM fixture list.",
+          "editorNote": "For the friend who can't watch a late match without a midnight snack lined up first",
+          "variations": [
+            "Midnight combos launched in sync with kickoff times — this city gets the night-owl fan.",
+            "The match feeds my adrenaline, the snack feeds my stomach. 3 AM is a busy hour."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-023",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://humornama.com/jokes/football-world-cup-2026-jokes/",
+      "sourceNote": "世界盃唯一讓人覺得凌晨四點起床很快樂的時候；改寫原創",
+      "tags": ["世界盃", "凌晨四點", "快樂", "瘋狂"],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界盃是一年裡唯一一段時間，\n讓人覺得凌晨四點爬起來是一件快樂的事。\n平常這個時間醒著，叫失眠;\n世界盃期間醒著，叫熱愛。\n同一個時鐘，同一個四點，差別只在於——今晚有沒有比賽。",
+          "editorNote": "傳給那個平常四點失眠很痛苦、世界盃期間四點起床卻甘之如飴的朋友",
+          "variations": [
+            "凌晨四點清醒，平常是病，世界盃期間是信仰。",
+            "讓四點變得值得期待的，從來不是鬧鐘，是賽程表。"
+          ]
+        },
+        "en": {
+          "content": "The World Cup is the only stretch of the year\nthat makes getting up at 4 AM feel like a happy thing.\nNormally, being awake at this hour is called insomnia.\nDuring the World Cup, it's called devotion.\nSame clock, same 4 AM — the only difference is whether there's a match tonight.",
+          "editorNote": "For the friend who suffers at 4 AM all year but happily rises at 4 during the World Cup",
+          "variations": [
+            "Awake at 4 AM is an illness most of the year and a religion during the World Cup.",
+            "What makes 4 AM worth looking forward to was never the alarm. It's the fixture list."
+          ]
+        }
+      }
     }
   ]
 }

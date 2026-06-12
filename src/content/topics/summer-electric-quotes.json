@@ -1554,6 +1554,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-064",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.nownews.com/news/6674002",
+      "sourceNote": "台電公布冷氣 26-28 度最省 一堆人吹錯 register；改寫原創",
+      "tags": ["冷氣", "26度", "省電", "台電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電公布冷氣最省又舒適的溫度是 26 到 28 度，新聞標題說「一堆人都吹錯」。\n我看完默默把冷氣調到 26 度，撐了五分鐘，又調回 24 度。\n原來我不是吹錯，我是知道正確答案，但選擇了自己的快樂。",
+          "editorNote": "傳給那個每次看到「正確冷氣溫度」報導都會默默調溫、然後三分鐘後調回去的朋友",
+          "variations": [
+            "26 度是台電的標準答案，24 度是我的真心話。",
+            "知道正確溫度，跟願意忍受正確溫度，是兩個完全不同的境界。"
+          ]
+        },
+        "en": {
+          "content": "The power company announced the most efficient yet comfortable AC setting is 79-82°F, and the headline read 'tons of people are doing it wrong.'\nI read it, quietly bumped the AC up to 79°F, lasted five minutes, then dropped it back to 75°F.\nTurns out I'm not doing it wrong. I know the right answer — I just chose my own happiness.",
+          "editorNote": "For the friend who nudges the thermostat up every time they read the 'correct AC temp' article, then caves three minutes later",
+          "variations": [
+            "79°F is the power company's official answer. 75°F is my honest truth.",
+            "Knowing the right temperature and being willing to endure it are two completely different levels of enlightenment."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-065",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "2026 節電獎勵取消保底 84 元 改實際度數計算 register；改寫原創",
+      "tags": ["節電獎勵金", "84元", "台電", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前台電的節電獎勵，只要有省一點，每期保底發你 84 元。\n今年改了，沒有保底，完全看你實際省幾度。\n所以連那 84 元的安慰獎都被收回去了——\n台電的意思是：你想領錢，請先證明你真的痛過。",
+          "editorNote": "傳給那個每期都在等那 84 元保底、今年發現被取消的省電老手",
+          "variations": [
+            "連 84 元的參加獎都沒了，今年的省電是純粹的精神修行。",
+            "台電取消保底獎勵的那一刻，我才懂什麼叫做「努力不一定有回報」。"
+          ]
+        },
+        "en": {
+          "content": "The power company used to hand you a guaranteed rebate every billing cycle just for saving a little.\nThis year they changed it: no floor, it all depends on the units you actually cut.\nSo even that little consolation prize got taken back —\nwhat they're really saying is: want the money? First prove you genuinely suffered.",
+          "editorNote": "For the seasoned saver who counted on the guaranteed rebate every cycle and just found out it's gone",
+          "variations": [
+            "Even the participation trophy is gone — this year's saving is pure spiritual training.",
+            "The moment they killed the guaranteed rebate, I finally understood 'effort doesn't always pay off.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-066",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.fieldpulse.com/resources/blog/hvac-jokes-and-memes",
+      "sourceNote": "stepping out of AC building summer temperature shock meme；改寫原創",
+      "tags": ["冷氣", "溫差", "出門", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在冷氣房待一整天後走出大樓的那一秒，\n外面的熱浪像一巴掌打在臉上，\n我的身體瞬間明白了一件事：剛剛那八小時的涼爽，原來是有人在付錢的。\n而那個人，回家以後就是我。",
+          "editorNote": "傳給那個每天下班走出公司、被熱浪迎面打到的同事，配一張大樓出口的照片",
+          "variations": [
+            "夏天最現實的瞬間，是踏出冷氣大樓、想起家裡冷氣要自己付的那一刻。",
+            "冷氣房的門，是免費涼爽跟付費涼爽之間的分界線。"
+          ]
+        },
+        "en": {
+          "content": "The second you step out of an air-conditioned building after a full day inside,\nthe heat hits you like a slap across the face,\nand your body instantly understands one thing: that eight hours of cool air? Somebody was paying for it.\nAnd that somebody, once you get home, is you.",
+          "editorNote": "For the coworker who gets smacked by a heat wave the moment they leave the office — pair with a photo of the building exit",
+          "variations": [
+            "The most sobering summer moment is stepping out of an AC building and remembering the AC at home is on your dime.",
+            "The door of an air-conditioned building is the border between free cool air and the kind you pay for."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-067",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://qmonster.cc/energy-efficient/",
+      "sourceNote": "變頻冷氣關機時機才是省電關鍵 register；改寫原創",
+      "tags": ["變頻冷氣", "關機時機", "省電", "台電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "研究了半天我才終於懂：變頻冷氣省不省電，重點根本不是「要不要關」，而是「什麼時候關」。\n問題是，我連自己什麼時候該下班、什麼時候該睡覺都決定不了，\n你現在要我精準判斷冷氣的最佳關機時機？\n台電，你太看得起我的人生掌控力了。",
+          "editorNote": "傳給那個認真研究變頻冷氣關機時機、結果發現自己根本無法執行的朋友",
+          "variations": [
+            "變頻冷氣的省電關鍵是關機時機，而我的人生關鍵，是連時機是什麼都搞不清楚。",
+            "我可以背出冷氣最佳關機時機，但我做不到——就像我知道幾點該睡，但從來沒做到。"
+          ]
+        },
+        "en": {
+          "content": "After ages of research I finally got it: whether an inverter AC saves money isn't about 'should I turn it off,' it's about 'when do I turn it off.'\nProblem is, I can't even decide when to clock out or when to go to bed,\nand now you want me to precisely judge the optimal moment to switch off the AC?\nPower company, you vastly overestimate how much control I have over my own life.",
+          "editorNote": "For the friend who studied inverter-AC timing seriously, then realized they can't actually execute any of it",
+          "variations": [
+            "The key to saving with an inverter AC is timing — and the key to my life is having no idea what timing even is.",
+            "I can recite the optimal AC shut-off moment, but I can't do it — same way I know my bedtime and never hit it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-068",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.workiz.com/blog/hvac/over-50-funny-hvac-memes-and-air-conditioning-memes/",
+      "sourceNote": "HVAC tech 夏天每個客戶都很急 register；改寫原創",
+      "tags": ["冷氣", "維修", "師傅", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天打去叫冷氣維修，每個人開頭都一樣：「師傅，可以今天來嗎？很急。」\n師傅的行事曆裡，現在排了三百個「很急」。\n所以排隊的順序，不是看誰比較急，是看誰比較會拜託、誰住得比較順路。\n夏天的冷氣師傅，是全台灣最有權力決定你今晚能不能睡的人。",
+          "editorNote": "傳給那個冷氣壞掉、打了五家維修都排到下禮拜的苦主，請他先撐住",
+          "variations": [
+            "夏天的冷氣維修師傅，行程比醫生還滿，態度比醫生還難約。",
+            "「師傅可以今天來嗎」是夏天最常見、也最沒有用的一句開場白。"
+          ]
+        },
+        "en": {
+          "content": "Call for AC repair in summer and everyone opens the exact same way: 'Hey, can you come today? It's urgent.'\nRight now the technician's calendar holds three hundred 'urgents.'\nSo the order isn't about who's most desperate — it's about who begs best and who lives on the way to the next job.\nA summer AC technician is the single most powerful person in the country deciding whether you sleep tonight.",
+          "editorNote": "For the friend whose AC died and got booked out to next week by five different shops — tell them to hang in there",
+          "variations": [
+            "A summer AC tech's schedule is fuller than a doctor's and harder to book than one too.",
+            "'Can you come today?' is summer's most common — and most useless — opening line."
+          ]
+        }
+      }
     }
   ]
 }

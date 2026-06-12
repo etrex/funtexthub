@@ -1644,6 +1644,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-072",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/3219262",
+      "sourceNote": "BTS 高雄世運 6/4 拓元開賣，全場高規格實名制查驗，入場需本人證件比對",
+      "tags": ["實名制", "BTS", "高雄", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "6/4 開賣前一晚,\n我把身分證、健保卡、駕照\n全部排在桌上拍照存證。\n\n不是怕忘記,\n是怕入場那天\n連我自己\n都證明不了我是我。",
+          "editorNote": "BTS 高雄場高規格實名制讓粉絲提前準備好所有證件。傳給也把證件排排站拍照備份的朋友最有畫面",
+          "variations": [
+            "焦慮版:「我不是在搶演唱會,我是在準備一場身分核對的國家考試。考場在高雄,准考證是我的臉。」"
+          ]
+        },
+        "en": {
+          "content": "The night before the 6/4 sale,\nI laid out my ID, insurance card, and license\nand photographed all of them for safekeeping.\n\nNot because I'd forget —\nbecause I'm scared that on entry day\neven I\nwon't be able to prove I'm me.",
+          "editorNote": "High-spec real-name checks have fans prepping every document in advance. Send to a friend who also lined up their IDs for a backup photo",
+          "variations": [
+            "Anxious version: 'This isn't a concert, it's a national identity exam. The test center is in Kaohsiung and my admission ticket is my own face.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-073",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "拓元強調系統會分析交易模式，若購票速度「不像人類能做到的」即標記停權",
+      "tags": ["機器人", "停權", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "平台說:\n如果你的速度\n「不像人類做得到」,\n就會被標記。\n\n所以結論是——\n\n搶輸是你弱,\n搶贏是你像機器人。\n\n反正怎樣都不是人。",
+          "editorNote": "拓元「不像人類就停權」的判定邏輯把粉絲逼進雙輸困境。傳給搶太快被鎖、搶太慢落空的朋友都適用",
+          "variations": [
+            "邏輯版:「太慢被淘汰,太快被當機器人。原來合格的人類速度,只存在於『剛好搶不到』那一格。」"
+          ]
+        },
+        "en": {
+          "content": "The platform says:\nif your speed\n'isn't something a human could do,'\nyou get flagged.\n\nSo the conclusion is —\n\ntoo slow means you're weak,\ntoo fast means you're a bot.\n\nEither way, you're not a person.",
+          "editorNote": "The 'too fast to be human' ban logic traps fans in a no-win box. Works for anyone locked out for clicking too fast — or too slow",
+          "variations": [
+            "Logic version: 'Too slow, you're eliminated. Too fast, you're a robot. Turns out acceptable human speed only exists in the exact gap where you just miss out.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-074",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://raleighmag.com/2026/03/27/dynamic-prices/",
+      "sourceNote": "浮動定價讓同一個位置早上一個價、下午一個價，粉絲覺得沒早點下手就被懲罰",
+      "tags": ["浮動定價", "票價", "懲罰", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同一個座位,\n早上一個價,\n下午又一個價。\n\n我猶豫了二十分鐘,\n它就漲了一張電影票的錢。\n\n原來在這個系統裡,\n思考\n是要收費的。",
+          "editorNote": "浮動定價讓票價隨時段跳動，猶豫就被懲罰。傳給因為多想了一下、回頭就漲價的朋友最有感",
+          "variations": [
+            "懲罰版:「它不是在賣票,是在賣『你猶豫的代價』。我每多想三秒,系統就幫我的不果斷標一次價。」"
+          ]
+        },
+        "en": {
+          "content": "Same seat,\none price in the morning,\nanother by afternoon.\n\nI hesitated for twenty minutes\nand it went up by the cost of a movie ticket.\n\nTurns out in this system,\nthinking\ncomes with a fee.",
+          "editorNote": "Dynamic pricing punishes hesitation as the price swings by the hour. Send to a friend who paused to think and watched the number climb",
+          "variations": [
+            "Punishment version: 'It's not selling tickets, it's selling the cost of your hesitation. Every three seconds I think, the system prices my indecision.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-075",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.ticketcenterpro.com/archives/11078",
+      "sourceNote": "二手轉售市場佔高需求巡演票券總量 25-30%，粉絲質疑票一開賣就消失到轉售站",
+      "tags": ["二手市場", "轉售", "庫存", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "報導說,\n熱門巡演有三成的票\n一開賣就直接進了轉售站。\n\n所以我不是搶輸別人,\n我是搶輸了\n一個我根本沒被邀請進去的市場。",
+          "editorNote": "二手轉售吃掉近三成庫存，正面開賣的粉絲根本沒機會。傳給覺得「票好像憑空消失」的朋友當解答",
+          "variations": [
+            "認清版:「正面戰場我拚得要死,結果三成的票根本沒上過架,直接出現在轉售站的櫥窗裡。」"
+          ]
+        },
+        "en": {
+          "content": "A report said\nnearly a third of tickets for a hot tour\nland on resale sites the instant they go on sale.\n\nSo I didn't lose to other fans.\nI lost to a market\nI was never invited into.",
+          "editorNote": "Resale swallowing ~30% of inventory means front-door fans never had a shot. Send to a friend who swears the tickets 'just vanished'",
+          "variations": [
+            "Reality-check version: 'I fought like hell on the main battlefield. Meanwhile a third of the tickets never hit the shelf — they teleported straight to a resale storefront.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-076",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.tickethold.com/blog/ticket-prices-soar-in-major-cities-as-fans-face.php",
+      "sourceNote": "2025-2026「funflation」現象，娛樂報復性消費推升演唱會票價，粉絲為快樂負債",
+      "tags": ["funflation", "報復性消費", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說這叫「快樂通膨」。\n\n意思是——\n連快樂\n都漲價了。\n\n而我發現自己\n為了買回一點快樂,\n正在透支\n接下來三個月的快樂。",
+          "editorNote": "funflation（快樂通膨）把娛樂變成奢侈品，粉絲為一晚快樂負債。傳給刷卡買票後開始算下個月伙食費的朋友",
+          "variations": [
+            "帳本版:「快樂通膨:一晚的快樂,分十二期付款。我不是在追星,我是在做一筆消費性貸款。」"
+          ]
+        },
+        "en": {
+          "content": "They're calling it 'funflation.'\n\nMeaning —\neven joy\nhas gotten more expensive.\n\nAnd I've realized\nthat to buy back a little happiness,\nI'm overdrawing\nthe next three months of it.",
+          "editorNote": "Funflation turns entertainment into a luxury good, with fans going into debt for one night. Send to a friend recalculating next month's grocery budget after checkout",
+          "variations": [
+            "Ledger version: 'Funflation: one night of joy, twelve monthly installments. I'm not chasing a star, I'm taking out a consumer loan.'"
+          ]
+        }
+      }
     }
   ]
 }

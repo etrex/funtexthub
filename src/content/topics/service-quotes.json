@@ -3478,6 +3478,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-144",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.managertoday.com.tw/columns/view/72110",
+      "sourceNote": "Reframes the 2026 新竹早午餐 老闆娘護員工事件 (「不用說對不起」, 401.5萬觀看) covered by 經理人/udn/ETtoday; original framing of the boss stepping in front of the staff member is the rewrite anchor",
+      "tags": ["服務業", "互助", "尊嚴", "老闆"],
+      "i18n": {
+        "zh-tw": {
+          "content": "店員嚇到說出「對不起」的那一秒，\n老闆娘擋到她前面：\n「不用說對不起，你又沒做錯。」\n那句話比加薪還珍貴——\n原來真的有人會把員工\n擋在自己的背後。",
+          "editorNote": "傳給遇到挺員工老闆的同行，也傳給還在獨自承受奧客的人，告訴他：好老闆不是傳說。被擋在背後的那一刻，比業績漂亮多了。",
+          "variations": [
+            "員工最想聽到的不是「客人最大」，是老闆那句「我罩你」。",
+            "會擋在員工前面的老闆，留住的不只是人，是整個店的士氣。"
+          ]
+        },
+        "en": {
+          "content": "The second the clerk flinched and said \"I'm sorry,\"\nthe owner stepped in front of her:\n\"Don't apologize. You did nothing wrong.\"\nThat one line was worth more than a raise —\nturns out someone really will\nput their employee behind their own back.",
+          "editorNote": "Send to anyone with a boss who has their back, and to anyone still facing difficult customers alone — proof that good bosses aren't a myth. Being shielded beats a pretty sales chart.",
+          "variations": [
+            "What workers most want to hear isn't \"the customer comes first.\" It's the boss saying \"I've got you.\"",
+            "A boss who steps in front of their staff keeps more than the staff — they keep the whole store's morale."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-145",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.ettoday.net/news/20260505/3160868.htm",
+      "sourceNote": "Reframes the 新竹奧客「妳是在審犯人嗎」 line from the 2026 早午餐事件; original 「點個餐而已，我又不是嫌犯」 interrogation-flip framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "餐飲", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人吼：「妳是在審犯人嗎？不能讓我看完菜單？」\n我心裡想：「我只是問您要不要加蛋，\n您卻把點餐演成偵訊室。\n真要說審問，被三句話就嚇到道歉的，\n從來都是我。」",
+          "editorNote": "傳給點個餐就被當成在刁難客人的外場同事。問句變罪狀，只因為對方今天心情不好——這不是你的問題。",
+          "variations": [
+            "我只是問您要不要加蛋，不是在做筆錄。",
+            "點餐被嫌像審問的，永遠是員工；真正在審判別人的，是那個摔菜單的人。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Are you interrogating a suspect? Can't you let me read the menu?\"\nMe, internally: \"I just asked if you wanted to add an egg,\nand you turned ordering into an interrogation room.\nIf anyone's on trial here, it's me —\nthe one who flinches and apologizes after three sentences.\"",
+          "editorNote": "Send to the floor staff treated like they're badgering customers just for taking an order. A question becomes an accusation only because someone's having a bad day — not your fault.",
+          "variations": [
+            "I asked if you wanted an egg, not for your statement on the record.",
+            "The one accused of \"interrogating\" is always the employee. The one actually putting someone on trial is the person throwing the menu."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-146",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://udn.com/news/story/7269/9485108",
+      "sourceNote": "Reframes the udn 職場觀測 report that the 新竹早午餐店 saw 業績暴增5成 after the owner protected staff; original 「網友用五星投票決定誰是對的」 public-verdict framing is the rewrite anchor",
+      "tags": ["服務業", "互助", "金句", "客人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前我們以為，得罪客人就是得罪生意。\n直到那家店挺了員工，業績反而漲五成。\n原來真正會回頭的客人，\n不是被你跪出來的，\n是看見你連員工都捨得保護，\n才決定把錢花在這裡。",
+          "editorNote": "傳給還在糾結「奧客也是客」的老闆，也傳給以為自己只能忍的員工。保護員工不是成本，是最划算的口碑投資。",
+          "variations": [
+            "得罪一個奧客，換來一群為你按五星的客人，這筆帳其實很好算。",
+            "客人選的不是最低聲下氣的店，是最有骨氣、連員工都護的那一家。"
+          ]
+        },
+        "en": {
+          "content": "We used to think offending a customer meant losing the business.\nThen that store stood up for its staff — and sales jumped fifty percent.\nTurns out the customers who actually come back\naren't the ones you knelt for.\nThey're the ones who saw you protect even your employees,\nand decided to spend their money there.",
+          "editorNote": "Send to the boss still agonizing over \"a difficult customer is still a customer,\" and to the worker who thinks enduring is the only option. Protecting staff isn't a cost — it's the best word-of-mouth investment going.",
+          "variations": [
+            "Offend one difficult customer, gain a crowd leaving you five stars — the math actually works out.",
+            "Customers don't pick the most groveling store. They pick the one with a spine that shields its own staff."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-147",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.youtube.com/watch?v=L742OYg0QcA",
+      "sourceNote": "Reframes the 寰宇新聞 「奧客壓垮服務業？50萬職缺沒人想上」 2026 segment; original 「不是沒人想做，是沒人想被當沙包做」 labor-shortage cause-flip framing is the rewrite anchor",
+      "tags": ["服務業", "缺工", "奧客", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說：服務業五十萬職缺沒人想上。\n標題寫「年輕人吃不了苦」。\n沒寫的是：\n不是沒人想做，\n是沒人想花八小時，\n被當成可以隨便大小聲的沙包做。\n缺的不是工，是尊重。",
+          "editorNote": "傳給被長輩唸「現在年輕人都不肯做服務業」的人。請他看完整個句子：缺工的真正原因，從來不在員工身上。",
+          "variations": [
+            "五十萬職缺沒人填，不是大家懶，是大家終於學會不拿尊嚴換時薪。",
+            "服務業缺的不是人手，是一個不用被罵也能好好上班的環境。"
+          ]
+        },
+        "en": {
+          "content": "The news says: half a million service jobs and no takers.\nThe headline reads \"young people can't handle hard work.\"\nWhat it leaves out:\nit's not that no one wants the job —\nit's that no one wants to spend eight hours\nbeing a punching bag anyone can yell at.\nIt's not a labor shortage. It's a respect shortage.",
+          "editorNote": "Send to anyone nagged with \"young people won't do service work anymore.\" Ask them to read the whole sentence — the real cause of the shortage was never the workers.",
+          "variations": [
+            "Half a million unfilled jobs isn't laziness. It's people finally refusing to trade their dignity for an hourly wage.",
+            "Service work isn't short on hands. It's short on a workplace where you can clock in without getting yelled at."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-148",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://news.tvbs.com.tw/life/1540326",
+      "sourceNote": "Reframes the TVBS 「14種奇葩奧客 同行直喊根本我心聲」 2026 list; original 「奧客的要求自相矛盾」 contradiction-as-physics-defying framing is the rewrite anchor",
+      "tags": ["服務業", "奧客", "餐飲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「奶茶不要太冰、不要太熱、不要太溫。」\n我：「……所以您要的是常溫但冰的熱奶茶？」\n客人：「對，很難懂嗎？」\n難的不是奶茶，是物理。\n而我，只是一個被要求違反物理定律的店員。",
+          "editorNote": "傳給今天剛接到「三個不要」訂單、當場大腦當機的飲料店同行。客人不是奧，是把員工當成可以推翻熱力學的魔術師。",
+          "variations": [
+            "客人的要求不是高，是同時要冰山跟火山住在同一杯裡。",
+            "點一杯違反物理定律的飲料，然後怪店員聽不懂——這就是奧客的日常魔法。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Milk tea — not too cold, not too hot, not too lukewarm.\"\nMe: \"...So you want a room-temperature iced hot milk tea?\"\nCustomer: \"Yes. Is that so hard to understand?\"\nThe milk tea isn't hard. Physics is.\nAnd I'm just a clerk being asked to break the laws of thermodynamics.",
+          "editorNote": "Send to the drink-shop coworker whose brain blue-screened on a \"three nots\" order today. The customer isn't difficult — they think the employee is a magician who can overrule thermodynamics.",
+          "variations": [
+            "It's not a tall order. It's wanting an iceberg and a volcano to share the same cup.",
+            "Order a drink that defies physics, then blame the clerk for not getting it — that's the everyday magic of a difficult customer."
+          ]
+        }
+      }
     }
   ]
 }

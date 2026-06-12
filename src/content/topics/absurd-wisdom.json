@@ -5507,6 +5507,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-223",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學「有道理」循環句型參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你說的這句話我覺得很對，對就對在它本身其實沒什麼對的地方，\n但因為你覺得對、我也覺得對，於是它就慢慢地變成對的了。",
+          "editorNote": "朋友認真跟你討論一件事、你又懶得反駁時，丟這句假裝深表認同",
+          "variations": [
+            "你問的這個問題問得非常好，好就好在它根本沒什麼好回答的。",
+            "這個想法我支持，支持的原因是它不需要任何原因就能被支持。"
+          ]
+        },
+        "en": {
+          "content": "What you just said strikes me as completely right — and it's right precisely because there's nothing actually right about it,\nbut since you think it's right and I think it's right, it slowly becomes right.",
+          "editorNote": "When a friend earnestly explains something and you can't be bothered to argue, drop this to feign deep agreement",
+          "variations": [
+            "That's a great question — great in the sense that there's nothing about it worth answering.",
+            "I fully support this idea, and the reason I support it is that it needs no reason to be supported."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-224",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.boredpanda.com/technically-true-things/",
+      "sourceNote": "technically-true 風格參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "技術上正確",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "理財專家指出，只要你花的錢比賺的少，剩下的那部分就會自動變成你的存款。\n如果你花得比賺的多，這個現象就不會發生。",
+          "editorNote": "朋友抱怨存不到錢時，回這句假裝給你最頂級的理財建議",
+          "variations": [
+            "想要變有錢的第一步，是先確保你目前還沒有那麼有錢。",
+            "據統計，買得起的東西通常都在你的預算之內。"
+          ]
+        },
+        "en": {
+          "content": "Financial experts point out that as long as you spend less than you earn, whatever is left automatically becomes your savings.\nIf you spend more than you earn, this phenomenon does not occur.",
+          "editorNote": "When a friend complains they can't save money, reply with this and pretend it's premium financial advice",
+          "variations": [
+            "The first step to getting rich is making sure you aren't already that rich.",
+            "Studies show that things you can afford are usually within your budget."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-225",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://raolve.com/culture/655963.html",
+      "sourceNote": "廢話文學「俗話說」自指句型參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "名言",
+        "自指"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "古人曾說過一句很有智慧的話，那句話的內容就是：古人曾說過一句很有智慧的話。\n至於是哪句，至今仍是個謎。",
+          "editorNote": "想假裝引用名言但其實沒料時，這句最安全",
+          "variations": [
+            "俗話說得好，俗話說的就是會被人拿來說的那種話。",
+            "正所謂前人種樹，後人就會看到一棵被前人種好的樹。"
+          ]
+        },
+        "en": {
+          "content": "The ancients once spoke a deeply wise saying, and the saying went: the ancients once spoke a deeply wise saying.\nExactly which one remains a mystery to this day.",
+          "editorNote": "Perfect for when you want to sound like you're quoting wisdom but have nothing in the tank",
+          "variations": [
+            "As the old saying goes, the old saying is the kind of thing people say.",
+            "They say the early bird gets the worm — mostly because it was the one that showed up early."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-226",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://trivia.cracked.com/image-pictofact-14781-32-jokes-that-are-both-funny-and-technically-true",
+      "sourceNote": "technically-true 笑話風格參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "技術上正確",
+        "健身"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "健身教練表示，只要你持續運動，身體就會處於正在運動的狀態。\n一旦停下來，這個狀態便會立刻消失。",
+          "editorNote": "看到朋友在群組立健身flag時，回這句假裝給專業指導",
+          "variations": [
+            "減重的關鍵在於你的體重要比現在還要再輕一點。",
+            "研究顯示，舉得起來的重量通常都在你舉得起來的範圍內。"
+          ]
+        },
+        "en": {
+          "content": "A personal trainer notes that as long as you keep exercising, your body will remain in a state of exercising.\nThe moment you stop, that state immediately disappears.",
+          "editorNote": "When a friend posts a fitness resolution in the group chat, reply with this as if it's professional coaching",
+          "variations": [
+            "The key to losing weight is for your weight to be a little lower than it currently is.",
+            "Research shows the weight you can lift is usually within the range of what you can lift."
+          ]
+        }
+      }
     }
   ]
 }

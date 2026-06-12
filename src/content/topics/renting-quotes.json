@@ -2793,6 +2793,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-115",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://tw.stock.yahoo.com/news/%E6%88%BF%E6%9D%B1%E5%A4%A7%E8%AE%9A%E7%A7%9F%E5%AE%A2%E7%B4%A0%E8%B3%AA%E5%A5%BD%E6%BA%96%E6%99%82%E7%B9%B3%E6%88%BF%E7%A7%9F%E5%95%8F%E9%82%84%E8%A6%81%E6%BC%B2%E5%97%8E-%E7%A5%A8%E4%BA%BA%E5%8B%B8-%E7%B5%90%E5%80%8B%E5%96%84%E7%B7%A3%E5%90%A7-050100468.html",
+      "sourceNote": "2026 房東大讚租客準時繳租仍想漲租 viral case; rewritten original",
+      "tags": ["房東", "漲租", "準時繳租", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東在群組裡公開稱讚我：「這個房客最棒，從來不遲繳。」\n下一句就是：「所以明年想跟你討論一下房租。」\n原來我越乖，他越敢漲。",
+          "editorNote": "傳給那種準時繳租、從不囉嗦結果反而被盯上漲租的朋友，安慰他乖不一定有好報",
+          "variations": [
+            "房東說我是模範房客，模範房客的獎勵就是模範漲幅。",
+            "我準時繳租兩年，換來的是一句「你這麼配合，應該不介意加一點吧」。"
+          ]
+        },
+        "en": {
+          "content": "My landlord praised me publicly: 'Best tenant ever, never pays late.'\nThen, in the same breath: 'So I'd like to talk about next year's rent.'\nTurns out the better behaved I am, the bolder he gets.",
+          "editorNote": "Send to a friend who pays on time and never complains but somehow became the rent-hike target — being good doesn't always pay off",
+          "variations": [
+            "Landlord called me a model tenant. The reward for being a model tenant is a model rent increase.",
+            "Two years of paying on time, and what I got was 'you've been so cooperative, you won't mind a little bump, right?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-116",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://estate.ltn.com.tw/article/26446",
+      "sourceNote": "2026 綁約3年限漲租 好房東先退場 register; rewritten original",
+      "tags": ["租賃專法", "好房東", "退場", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新法說要綁約三年、限制漲幅，保護房客。\n結果第一個受不了的是我那個從不漲租的好房東——\n他直接把房子賣了。\n原來保護房客的方式，是先讓好房東消失。",
+          "editorNote": "適合在每次居住正義新法上路時轉發，提醒大家好政策有時會嚇跑好房東",
+          "variations": [
+            "我等了五年才遇到一個不漲租的房東，新法上路後他第一個跑。",
+            "法律保護房客，房客卻先失去了最好的那個房東。"
+          ]
+        },
+        "en": {
+          "content": "The new law locks in three-year leases and caps rent hikes to protect tenants.\nThe first one to bail was my good landlord who never raised the rent —\nhe just sold the place.\nTurns out the way to protect tenants is to make the good landlords disappear first.",
+          "editorNote": "Good to share whenever new tenant-protection laws take effect — a reminder that good policy can scare off the good landlords too",
+          "variations": [
+            "Took me five years to find a landlord who never raised rent. The new law went live and he was the first to run.",
+            "The law protects tenants, and the tenant lost the best landlord first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-117",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/261541957",
+      "sourceNote": "2026 Dcard 租屋換約 條款偷改 register; rewritten original",
+      "tags": ["換約", "合約", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：「換約只是走個流程，內容都一樣啦。」\n我認真比對了新舊合約，\n發現「都一樣」的部分只有我的名字，\n其他全部偷偷升級了。",
+          "editorNote": "傳給準備換約續租的朋友，提醒他一定要逐字比對新舊版本，別信「都一樣」",
+          "variations": [
+            "換約那天房東遞給我一份「跟去年一樣」的合約，差別是房租、押金、跟我的耐心都被調漲了。",
+            "我以為換約是續緣，房東以為換約是調價。"
+          ]
+        },
+        "en": {
+          "content": "My landlord said: 'Renewing the lease is just a formality, it's all the same.'\nI compared the old contract to the new one line by line,\nand the only part that stayed 'the same' was my name —\neverything else had been quietly upgraded.",
+          "editorNote": "Send to a friend about to renew their lease — tell them to compare old and new word for word, never trust 'it's all the same'",
+          "variations": [
+            "On renewal day my landlord handed me a contract 'just like last year's.' The difference: rent, deposit, and my patience all got bumped up.",
+            "I thought renewing was about continuing a relationship. My landlord thought it was about adjusting the price."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-118",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://house.udn.com/house/story/123591/9409658",
+      "sourceNote": "2026 學生看房喊租金下月補 苦主搖頭 viral case; rewritten original",
+      "tags": ["看房", "房客", "繳租", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房的學生對我說：「這個月先住，租金下個月補。」\n我說好。\n下個月他補了——補了一句「不好意思我已經搬走了」。",
+          "editorNote": "傳給當二房東或轉租遇到雷房客的朋友，提醒先收租再給鑰匙",
+          "variations": [
+            "他說「我很有誠意」，誠意的單位顯然不是新台幣。",
+            "房客欠租跑路那天，我才終於懂了房東為什麼總是那麼防備。"
+          ]
+        },
+        "en": {
+          "content": "The student viewing the room told me: 'I'll move in this month and pay the rent next month.'\nI said okay.\nNext month he did pay up — paid me a 'sorry, I already moved out.'",
+          "editorNote": "Send to a friend subletting or acting as a middle-landlord who got burned by a flaky tenant — collect rent before handing over the keys",
+          "variations": [
+            "He said 'I'm completely sincere.' Sincerity, apparently, isn't measured in dollars.",
+            "The day my tenant skipped out on rent, I finally understood why landlords are always so guarded."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-119",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://mjenglishclass.com/daily-english/negotiating-rent-with-landlord",
+      "sourceNote": "2026 房東漲租英文怎麼談 register; rewritten original",
+      "tags": ["漲租", "談判", "嘴笨", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說要漲租的時候，\n我在心裡準備了一整篇有理有據的反駁，\n結果開口只說出：「喔……好喔。」\n原來我練了三天的台詞，敵不過他三秒的氣勢。",
+          "editorNote": "傳給每次想跟房東談判卻當場慫掉的朋友，安慰他嘴笨不是他的錯",
+          "variations": [
+            "我在浴室對著鏡子排練怎麼拒絕漲租，真的見到房東只擠得出一個微笑。",
+            "我的內心戲是律師等級，我的嘴巴是幼稚園等級。"
+          ]
+        },
+        "en": {
+          "content": "When my landlord announced the rent hike,\nI had a whole well-reasoned rebuttal prepared in my head,\nand all that came out was: 'Oh… okay, sure.'\nTurns out three days of rehearsed lines are no match for three seconds of his nerve.",
+          "editorNote": "Send to a friend who always means to push back on the landlord but folds on the spot — being bad at confrontation isn't your fault",
+          "variations": [
+            "I rehearsed refusing the rent hike in front of the bathroom mirror. Face to face with the landlord, all I managed was a smile.",
+            "My inner monologue is lawyer-level. My actual mouth is kindergarten-level."
+          ]
+        }
+      }
     }
   ]
 }

@@ -2605,6 +2605,123 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-111",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.digitalmomblog.com/sleep-memes/",
+      "sourceNote": "Inspired by 'sleep no longer cures tiredness, it just postpones it' meme; rewritten with a warranty-expired framing",
+      "tags": ["失眠", "自嘲", "幽默", "上班族"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡滿八小時，起床還是累。\n我終於明白：睡覺不會消除疲憊，\n它只是幫你把疲憊延期到下午三點。",
+          "editorNote": "對「睡飽了還是累」這種背叛感的精準吐槽。傳給每天睡很多卻一樣沒電的同事，會收到一片「對啦就是這樣」。",
+          "variations": [
+            "睡眠不是充電，是把沒電的時間往後挪而已。"
+          ]
+        },
+        "en": {
+          "content": "Slept a full eight hours and woke up tired anyway.\nI finally get it: sleep doesn't cure exhaustion,\nit just postpones it to 3pm.",
+          "editorNote": "The precise takedown of the 'slept plenty, still wrecked' betrayal. Send it to the coworker who sleeps a lot and runs on empty anyway — expect a 'yep, exactly.'",
+          "variations": [
+            "Sleep isn't recharging. It just reschedules the empty battery for later."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-112",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://sweetsleeptips.com/cant-sleep-quotes-funny/",
+      "sourceNote": "Inspired by the 'tired: yes, able to sleep: no, make it make sense' paradox meme; rewritten as a customer-complaint dialogue",
+      "tags": ["失眠", "自嘲", "幽默", "廢話文學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "身體：我好累，累到不行。\n我：那我們去睡吧。\n身體：不要。\n我：……那你想幹嘛？\n身體：盯著黑暗，重播你今天講錯的話。",
+          "editorNote": "把「明明很累卻睡不著」的矛盾寫成身體跟自己的鬥嘴。傳給也常常累到睡不著的朋友，會笑著回「我的身體也這樣」。",
+          "variations": [
+            "累是真的累，睡不著也是真的睡不著，這兩件事居然能同時成立。"
+          ]
+        },
+        "en": {
+          "content": "Body: I'm exhausted, completely wiped out.\nMe: Great, let's sleep then.\nBody: No.\nMe: …Then what do you want?\nBody: To stare into the dark and replay everything you said wrong today.",
+          "editorNote": "Turns the 'tired but can't sleep' paradox into a bicker with your own body. Send to a friend who's also too tired to sleep — they'll reply 'mine does this too.'",
+          "variations": [
+            "Genuinely exhausted and genuinely unable to sleep — somehow both true at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-113",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.digitalmomblog.com/sleep-memes/",
+      "sourceNote": "Inspired by 'daytime zombie, 2am visionary' meme; rewritten with a localized productivity-schedule contrast",
+      "tags": ["失眠", "深夜", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "白天的我：連一封 email 都打不完，眼皮快闔上。\n凌晨兩點的我：要不要學一門新語言、重新規劃人生、順便寫個小說？\n這兩個人，從來沒在對的時間出現過。",
+          "editorNote": "對「白天廢人、半夜天才」這種錯位的最佳描繪。傳給也常常在半夜突然充滿幹勁的朋友，會引發一片苦笑。",
+          "variations": [
+            "我的靈感跟睡意總是錯開上班，一個白天罷工，一個半夜加班。"
+          ]
+        },
+        "en": {
+          "content": "Daytime me: can't even finish one email, eyelids closing.\n2am me: should I learn a new language, rebuild my entire life plan, and maybe write a novel?\nThese two have never once shown up at the right time.",
+          "editorNote": "The definitive portrait of the 'daytime zombie, 2am visionary' mismatch. Send to a friend who also gets a sudden burst of ambition after midnight.",
+          "variations": [
+            "My motivation and my sleepiness work opposite shifts: one strikes by day, the other clocks in at 2am."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-114",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.buzzfeed.com/morganmurrell/funny-tweets-insomnia-jokes",
+      "sourceNote": "Inspired by '3am is when my ex gets a novel-length text' tweet; rewritten with an unsent-draft / autosave framing",
+      "tags": ["失眠", "凌晨三點", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，我打了一封超長的訊息，\n內容真誠、邏輯清楚、感人到我自己都想哭。\n還好我有一個守護天使——叫做「沒有按下發送」。",
+          "editorNote": "深夜情緒上頭、差點傳出去的長訊息，幾乎人人有過。傳到朋友群組會引發一連串「還好我也沒傳出去」的告白。",
+          "variations": [
+            "深夜打的草稿，是給早上的我留的一個驚嚇。"
+          ]
+        },
+        "en": {
+          "content": "At 3am I typed out a very long message —\nheartfelt, perfectly logical, moving enough to make me tear up.\nThankfully I have a guardian angel named 'never hit send.'",
+          "editorNote": "The almost-sent late-night essay is nearly universal. Drop it in the group chat for a wave of 'glad I didn't send mine either' confessions.",
+          "variations": [
+            "The draft I typed at 3am is a jump-scare I left for morning me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-115",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.wolfglobal.org/blog/insomnia-quotes",
+      "sourceNote": "Original gentle item — adds a 'laughing at the sleeplessness is allowed' angle to the healing register",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果今晚又睡不著，那就笑一下吧。\n不是要你假裝沒事，\n只是被同一件事困住的時候，能笑出來的人，已經比剛剛輕一點了。\n明天會到的，不用你硬撐它來。",
+          "editorNote": "失眠時最難的是「對自己生氣」。這句話允許人用幽默代替自責，不勉強樂觀，只是鬆一口氣。傳給最近被睡眠折磨又對自己很嚴格的朋友。",
+          "variations": [
+            "睡不著的時候笑得出來，不是逃避，是給自己一條喘氣的縫。",
+            "對著天花板苦笑一下也好，明天自己會來，你不用守著它。"
+          ]
+        },
+        "en": {
+          "content": "If you can't sleep again tonight, try to laugh a little.\nNot to pretend everything's fine —\njust that when you're stuck on the same thing, the person who can still laugh is already a bit lighter than a moment ago.\nMorning will come. You don't have to drag it here by force.",
+          "editorNote": "The hardest part of insomnia is being angry at yourself. This gives permission to choose humor over self-blame — no forced positivity, just a small exhale. For the friend who's been wrecked by bad sleep and hard on themselves.",
+          "variations": [
+            "Laughing when you can't sleep isn't avoidance — it's a crack to breathe through.",
+            "A tired smile at the ceiling is okay. Morning will arrive on its own; you don't have to guard it."
+          ]
+        }
+      }
     }
   ]
 }

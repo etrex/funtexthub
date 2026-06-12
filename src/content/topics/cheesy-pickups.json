@@ -6340,6 +6340,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-227",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.pickuplineinsider.com/plant-pick-up-lines/",
+      "sourceNote": "cactus pickup line theme, rewritten with original dialogue and variations",
+      "tags": [
+        "對話",
+        "植物",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道你跟仙人掌哪裡像嗎？」\n「哪裡？」\n「看起來不太好親近，可是只要靠近一點，就會發現你其實很扎心——扎進我心裡那種。」",
+          "editorNote": "把『仙人掌的刺』反轉成『扎進心裡』，土裡帶巧思。適合外冷內熱、看起來高冷的對象，反差感拉好感",
+          "variations": [
+            "你是仙人掌嗎？不用我天天澆水，可是我每天都想看你一眼",
+            "別人怕被仙人掌刺到，我倒是希望被你扎一下，反正扎完還是想靠近"
+          ]
+        },
+        "en": {
+          "content": "\"Know what you and a cactus have in common?\"\n\"What?\"\n\"You look a little hard to approach — but get close and you're sharp enough to prick my heart.\"",
+          "editorNote": "Flips the cactus's prickliness into 'pricking my heart' — cheesy with a twist. Great for the cool, guarded type; the contrast does the charming for you.",
+          "variations": [
+            "Are you a cactus? I don't need to water you daily, but I want to look at you every single day.",
+            "Everyone's scared of getting pricked by a cactus — I'm just hoping you'll prick me, since I'd still want to get closer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-228",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://pickkupline.com/art-museum-pick-up-lines/",
+      "sourceNote": "art museum / masterpiece pickup line theme, rewritten",
+      "tags": [
+        "對話",
+        "藝術",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這間美術館的畫都很美耶。」\n「對啊，你最喜歡哪一幅？」\n「都還好，因為從你站到旁邊那刻起，我整個視線就只剩你這幅了。」",
+          "editorNote": "把對方比成『最值得看的那幅畫』，文藝又甜。適合美術館、展覽約會，或想稱讚對方有質感時用",
+          "variations": [
+            "別人來看名畫，我來看你，結果發現你比掛在牆上的還耐看",
+            "你應該被放進美術館，因為你這種好看，是會傳世的那種"
+          ]
+        },
+        "en": {
+          "content": "\"All the paintings in this museum are gorgeous.\"\n\"They are — which one's your favorite?\"\n\"None really stand out, because the second you stepped beside me, you became the only piece I could look at.\"",
+          "editorNote": "Casts them as the one masterpiece worth seeing — artsy and sweet. Perfect for a museum or gallery date, or any time you want to call someone classy.",
+          "variations": [
+            "Everyone came to see the famous paintings; I came to see you — turns out you're easier on the eyes than anything on the wall.",
+            "You belong in a museum, because the kind of beautiful you are is the kind that lasts for centuries."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-229",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://rizzpickups.com/plant-pick-up-lines/",
+      "sourceNote": "succulent / growing attached plant pickup line theme, rewritten",
+      "tags": [
+        "對話",
+        "植物",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我最近養了一盆多肉。」\n「喔？養得好嗎？」\n「不太行，因為我發現我不太會照顧植物，但對你，我越來越上手，也越黏越緊。」",
+          "editorNote": "用『多肉好黏』雙關情感上的黏，輕鬆不油膩。適合相處一陣子、感情正在升溫的對象",
+          "variations": [
+            "我跟多肉一樣，不用你天天理我，但只要見一次面，我就又往你那邊長一點",
+            "別的植物會枯，但我對你這份心，只會越養越茂盛"
+          ]
+        },
+        "en": {
+          "content": "\"I picked up a succulent recently.\"\n\"Oh yeah? Keeping it alive?\"\n\"Barely — turns out I'm bad with plants. But with you, I'm only getting more attached.\"",
+          "editorNote": "Plays 'attached' between the plant and the feelings — light, not oily. Best for someone you've spent a little time with and the spark is building.",
+          "variations": [
+            "I'm like a succulent — you don't have to fuss over me daily, but every time we meet I grow a little more your way.",
+            "Other plants wilt, but whatever I'm growing for you only gets greener."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-230",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://pickuplinepedia.com/library-pickup-lines/",
+      "sourceNote": "book / plot pickup line theme, rewritten into original dialogue",
+      "tags": [
+        "對話",
+        "書",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你都看什麼類型的書？」\n「最近在看推理小說，怎麼了？」\n「難怪，你整個人就像一本推理小說——我明明猜不到結局，卻一頁都捨不得跳過。」",
+          "editorNote": "把對方比成『讓人想一直翻下去的小說』，適合書店、咖啡廳，或聊到興趣時順勢撩",
+          "variations": [
+            "如果你是一本書，我願意當那個一直重看也不會膩的讀者",
+            "你像我手上這本書，明明該睡了，卻一直想知道你下一頁是什麼"
+          ]
+        },
+        "en": {
+          "content": "\"What kind of books do you read?\"\n\"Mysteries lately — why?\"\n\"That explains it. You're like a mystery novel — I can't guess the ending, but I don't want to skip a single page of you.\"",
+          "editorNote": "Casts them as the book you can't put down. Great in a bookstore, a cafe, or any time the conversation drifts to hobbies.",
+          "variations": [
+            "If you were a book, I'd be the reader who never gets tired of re-reading you.",
+            "You're like the book in my hands — I should be asleep, but I keep needing to know what's on your next page."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-231",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://crushifiy.com/gardening-pickup-lines/",
+      "sourceNote": "cozy / pumpkin spice seasonal pickup line theme, rewritten",
+      "tags": [
+        "對話",
+        "食物",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「天氣變涼了耶。」\n「對啊，我超怕冷的。」\n「那剛好，你在我旁邊就像一杯熱的南瓜拿鐵——把整個冬天都變得很值得待著。」",
+          "editorNote": "走『天冷＋暖飲』的療癒路線，甜而不膩。適合秋冬天氣轉涼時，或想營造溫暖氛圍的對象",
+          "variations": [
+            "你不用是暖氣，光是站在你旁邊，我就覺得這個冬天沒那麼難熬了",
+            "別人靠咖啡因撐過冬天，我靠你，效果好很多還不會心悸"
+          ]
+        },
+        "en": {
+          "content": "\"It's getting chilly out.\"\n\"Yeah, and I hate the cold.\"\n\"Perfect — standing next to you is like a hot pumpkin latte: makes the whole winter worth sticking around for.\"",
+          "editorNote": "Goes for the cozy 'cold weather + warm drink' angle — sweet without being too much. Ideal when the seasons turn or you want a warm, snug vibe.",
+          "variations": [
+            "You don't have to be a heater — just standing near you makes winter a lot easier to get through.",
+            "Other people get through winter on caffeine; I get through it on you — works better and no jitters."
+          ]
+        }
+      }
     }
   ]
 }

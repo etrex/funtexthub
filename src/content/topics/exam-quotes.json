@@ -2877,6 +2877,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-117",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.long-men.com.tw/newExam/inside?str=E7ED008C7C3A2C73DE50AB6177F929EF&print_id=7093",
+      "sourceNote": "115 分科測驗 7/11-12 倒數一個月 register — 八科自由選考 frame",
+      "tags": ["分科測驗", "115分科", "倒數", "自嘲", "選考"],
+      "i18n": {
+        "zh-tw": {
+          "content": "分科測驗最自由的地方，是科目可以自己選。\n最不自由的地方，是不管選哪科，\n打開講義那一刻，我都一樣不會。\n所以我選的不是科目，是要被哪一科電。",
+          "editorNote": "分科前一個月選考糾結的考生 OS，傳到班群保證有人回「選擇你想死的方式」。",
+          "variations": [
+            "可以加：「自由選考的意思是：自由地選一個會讓你後悔的未來。」",
+            "也能改：「我以為選考是權利，後來發現它是判決。」"
+          ]
+        },
+        "en": {
+          "content": "The free part about this exam is you get to pick your subjects.\nThe un-free part is that no matter which I pick,\nthe second I open the textbook I'm equally lost.\nSo I'm not choosing a subject — I'm choosing which one gets to wreck me.",
+          "editorNote": "For the agony of picking electives a month before the exam — post it and someone replies \"choose your fighter.\"",
+          "variations": [
+            "Add: \"Free choice of subjects just means freely choosing a future you'll regret.\"",
+            "Try: \"I thought picking subjects was a right. Turns out it's a sentence.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-118",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://blog.ehanlin.com.tw/115-fenke-prep-guide",
+      "sourceNote": "115 分科測驗 不考國英 register — 學測成績沿用 frame 在地化",
+      "tags": ["分科測驗", "115分科", "學測", "自嘲", "命運"],
+      "i18n": {
+        "zh-tw": {
+          "content": "分科不考國文英文，\n因為這兩科直接沿用學測成績。\n意思是：那兩科我考爛的後果，\n會像影子一樣一路跟到分科。\n原來有些錯，是會分期付款追著你跑的。",
+          "editorNote": "學測國英失常又要拚分科的考生 OS，傳到重考群會引起一排「+1」。",
+          "variations": [
+            "可以加：「我以為學測結束了，結果它只是換了個方式繼續折磨我。」",
+            "也能改：「分科不考國英，但國英會用成績單默默地補刀。」"
+          ]
+        },
+        "en": {
+          "content": "This exam doesn't test Chinese or English —\nthose scores just carry over from the earlier exam.\nMeaning: the way I bombed those two\nfollows me here like a shadow.\nTurns out some mistakes come with an installment plan that chases you down.",
+          "editorNote": "For anyone whose earlier-exam scores haunt the next round — drop it in the resit chat for a chorus of \"same.\"",
+          "variations": [
+            "Add: \"I thought that exam was over. It just changed costume and kept tormenting me.\"",
+            "Try: \"The scores don't reset. They just follow you to the next building.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-119",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.flick.social/captions/funny-instagram-captions-about-finals",
+      "sourceNote": "my brain is 90% song lyrics 10% exam knowledge register — 記憶分配 frame 在地化",
+      "tags": ["考試", "記憶", "自嘲", "廢文", "腦容量"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的腦容量分配是這樣的：\n九成裝廣告歌跟迷因，\n一成裝考試會用到的東西。\n而且偏偏考前那一晚，\n還是那九成在我腦袋裡開演唱會。",
+          "editorNote": "考前明明要背書腦袋卻自動播放神曲的考生 OS，配個耳機放在課本上的照片剛剛好。",
+          "variations": [
+            "可以加：「我記得每一句洗腦廣告詞，就是記不得課本第三章。」",
+            "也能改：「我的記憶體很大，只是全被沒用的東西先佔走了。」"
+          ]
+        },
+        "en": {
+          "content": "Here's how my memory is allocated:\n90% jingles and memes,\n10% things that actually show up on the exam.\nAnd of course, the night before the test,\nit's the 90% throwing a concert in my head.",
+          "editorNote": "For when your brain auto-plays a catchy ad instead of chapter three — pair with a photo of earbuds resting on a textbook.",
+          "variations": [
+            "Add: \"I remember every line of that annoying jingle. Chapter three, not so much.\"",
+            "Try: \"My memory has tons of storage. It's just all taken up by useless stuff first.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-120",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://careernuts.com/exams-over-quotes/",
+      "sourceNote": "time to forget everything in 3 2 1 register — 考完瞬間清空 frame 在地化",
+      "tags": ["考完", "考試", "自嘲", "廢文", "遺忘"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完最後一科那一刻，\n我大腦啟動了自動清除程式。\n三、二、一——清空完畢。\n剛剛那些公式去哪了我不知道，\n我只知道我現在連自己背過它們都不記得。",
+          "editorNote": "考完走出考場腦袋瞬間格式化的考生 OS，配張交完卷比讚的自拍很搭。",
+          "variations": [
+            "可以加：「我不是學完就忘，我是交卷的同時連同記憶一起繳回去了。」",
+            "也能改：「考完三秒，我的腦袋已經回到出廠設定。」"
+          ]
+        },
+        "en": {
+          "content": "The moment I handed in the last paper,\nmy brain ran its auto-wipe.\nThree, two, one — cleared.\nWhere those formulas went I have no idea.\nI don't even remember that I once memorized them.",
+          "editorNote": "For the post-exam brain format — pair with a thumbs-up selfie taken right after handing in the paper.",
+          "variations": [
+            "Add: \"I don't forget after learning. I turn in the memory along with the paper.\"",
+            "Try: \"Three seconds after the exam, my brain was back to factory settings.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-121",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://captionsmine.com/exam-captions-for-instagram-in-2026/",
+      "sourceNote": "GPA and my mood have a complicated relationship register — 成績與心情連動 frame 在地化",
+      "tags": ["考試", "成績", "心情", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的心情跟我的成績，是一段很複雜的關係。\n它好，我就好；它不好，我整個人就跟著沉。\n問題是它從來沒問過我願不願意，\n就擅自決定了我今天能不能笑得出來。",
+          "editorNote": "放榜當天心情被分數綁架的考生 OS，傳到班群會有人回「成績單就是我的情緒開關」。",
+          "variations": [
+            "可以加：「我不是情緒化，我只是把心情的主控權外包給了成績單。」",
+            "也能改：「成績一出，我的快樂就被設成了唯讀。」"
+          ]
+        },
+        "en": {
+          "content": "My mood and my grades have a very complicated relationship.\nWhen it's good, I'm good; when it's bad, I sink right along with it.\nThe problem is it never asks for my consent —\nit just decides whether I get to smile today.",
+          "editorNote": "For results day when a number hijacks your whole vibe — post it and someone replies \"my report card is my mood switch.\"",
+          "variations": [
+            "Add: \"I'm not moody. I just outsourced control of my feelings to a grade report.\"",
+            "Try: \"The grades dropped and my happiness got set to read-only.\""
+          ]
+        }
+      }
     }
   ]
 }

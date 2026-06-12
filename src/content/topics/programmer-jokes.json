@@ -6428,6 +6428,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-222",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://programmerhumor.io/memes/regex",
+      "sourceNote": "Jamie Zawinski 'now you have two problems' regex classic, reframed",
+      "tags": [
+        "正規表達式",
+        "工程師思維",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師遇到問題，心想：「我知道，用正規表達式解決就好。」\n現在他有兩個問題了。",
+          "editorNote": "適合丟進後端或資料處理群組，每個寫過 regex 的人都會苦笑。",
+          "variations": [
+            "他寫了一行 regex 驗證 email，三個月後連自己都看不懂那行在驗什麼。",
+            "正規表達式：寫的時候你跟上帝都懂，上線後只剩上帝懂。"
+          ]
+        },
+        "en": {
+          "content": "A developer hits a problem and thinks: \"I know, I'll use a regular expression.\"\nNow they have two problems.",
+          "editorNote": "Drop this in any backend or data channel — everyone who's written regex will wince-laugh.",
+          "variations": [
+            "He wrote one line of regex to validate an email. Three months later, even he can't tell what it validates.",
+            "Regex: when you write it, you and God both understand it. After it ships, only God does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-223",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "AI-writes-code, humans-fix-hallucinations 2025 theme, rewritten",
+      "tags": [
+        "AI",
+        "工程師日常",
+        "除錯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年了，AI 已經會幫你寫程式。\n至於 AI 幻覺出來的 bug，還是要靠人類自己修。\n所以工程師沒被取代，只是升職成 AI 的 debug 工讀生。",
+          "editorNote": "適合在「AI 會不會取代工程師」的討論串裡丟出來，自嘲又精準。",
+          "variations": [
+            "AI 負責產生信心，人類負責產生修正。",
+            "AI 寫得飛快，我只是它的人工售後服務。"
+          ]
+        },
+        "en": {
+          "content": "It's 2026 and AI can write your code for you.\nThe bugs it hallucinates, though? Still on you to fix.\nSo developers weren't replaced — we got promoted to the AI's debugging intern.",
+          "editorNote": "Perfect for any 'will AI replace developers' thread — self-deprecating but accurate.",
+          "variations": [
+            "AI handles the confidence. Humans handle the corrections.",
+            "The AI writes at lightning speed. I'm just its human post-sales support."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-224",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'Final FINAL version' git force-push chaos joke, reframed with payoff",
+      "tags": [
+        "Git",
+        "版本控制",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的 commit 訊息進化史：\n「修好了」→「真的修好了」→「這次絕對修好了」→「我不知道為什麼但它好了」。",
+          "editorNote": "適合 code review 前自首，或貼在團隊頻道引發共鳴與懺悔大會。",
+          "variations": [
+            "git log 看起來不像開發紀錄，比較像一個人崩潰的時間軸。",
+            "最誠實的 commit 訊息只有四個字：『先別碰它』。"
+          ]
+        },
+        "en": {
+          "content": "The evolution of my commit messages:\n\"fixed it\" → \"actually fixed it\" → \"fixed it for real this time\" → \"idk why but it works now.\"",
+          "editorNote": "Great for a pre-review confession, or post it in the team channel to trigger a group reckoning.",
+          "variations": [
+            "My git log doesn't read like a dev history — more like one person's mental breakdown on a timeline.",
+            "The most honest commit message is four words: 'do not touch it.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-225",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://punsplanet.com/programmer-jokes/",
+      "sourceNote": "Debugging detective 'murderer and victim are both you' classic, rewritten",
+      "tags": [
+        "除錯",
+        "自嘲",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除錯就像在演偵探片。\n只是兇手是你，被害者也是你，連寫遺書的兇器也是你三個月前提交的那行 code。",
+          "editorNote": "適合在追一個三天還沒解掉的 bug 時，發到群組討拍。",
+          "variations": [
+            "我查了半天，最後發現嫌疑犯就是 git blame 上面那個我。",
+            "最恐怖的 bug 報告：『重現步驟：什麼都沒改，它自己壞的。』"
+          ]
+        },
+        "en": {
+          "content": "Debugging is like starring in a detective movie.\nExcept you're the murderer, you're the victim, and the murder weapon is a line of code you committed three months ago.",
+          "editorNote": "Ideal for day three of chasing a bug — post it to the group for sympathy.",
+          "variations": [
+            "I investigated for hours and the prime suspect turned out to be the 'me' on the git blame.",
+            "The scariest bug report ever: 'Steps to reproduce: changed nothing, it broke on its own.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-226",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "'works on my machine' production deploy joke, reframed",
+      "tags": [
+        "上線",
+        "工程師日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師最有信心的一句話：「在我電腦上跑得好好的啊。」\n上線後最害怕的一句話：「在我電腦上跑得好好的啊。」",
+          "editorNote": "適合貼在發版前的緊張時刻，或包進去送 QA 同事當伴手禮。",
+          "variations": [
+            "解法很簡單：把整台電腦打包成 Docker image 寄給客戶就好。",
+            "「環境問題」是工程師界唯一一個雙方都不想負責的詞。"
+          ]
+        },
+        "en": {
+          "content": "A developer's most confident sentence: \"It works fine on my machine.\"\nA developer's most terrifying sentence, post-deploy: \"It works fine on my machine.\"",
+          "editorNote": "Perfect for the tense moment before a release, or as a gift-wrapped line for your QA teammate.",
+          "variations": [
+            "The fix is simple: just package the whole laptop into a Docker image and ship it to the customer.",
+            "'Environment issue' is the one phrase in software nobody on either side wants to own."
+          ]
+        }
+      }
     }
   ]
 }

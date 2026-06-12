@@ -2158,6 +2158,101 @@
           "variations": ["You don't have to explain 'why am I this sad, they weren't even a person.' To me, they were never just an animal — they were family you chose to love, and who loved you back for a lifetime."]
         }
       }
+    },
+    {
+      "id": "pm-114",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.chesapeakeinstitute.com/articles/understanding-grief-and-coping-with-the-sudden-loss-of-a-beloved-pet",
+      "sourceNote": "「來不及說再見」突然離世 frame，原創",
+      "tags": ["告別", "突然離世", "自責"],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上出門時你還在門口送我，晚上回來只剩一個空空的窩。沒有最後一句話、沒有最後一次抱抱——這種沒能好好說再見的痛，後來我花了很久才學會放過自己。",
+          "editorNote": "適合突然離世（意外、急症）的飼主，沒有彩虹橋那種有準備的告別，痛點在「來不及」",
+          "variations": ["你走得太快，快到我連準備都來不及。我一直在想那天有沒有哪個瞬間可以攔住你——後來我才懂，有些離開，本來就不給人準備的時間。"]
+        },
+        "en": {
+          "content": "You saw me off at the door that morning, and by evening all that was left was an empty bed. No last words, no last hug — it took me a long time to learn to forgive myself for the goodbye I never got to say.",
+          "editorNote": "For owners who lost a pet suddenly (accident, fast crisis) — no prepared rainbow-bridge farewell; the wound is the 'too soon'",
+          "variations": ["You left so fast I couldn't even brace for it. I kept hunting for the one moment I might have stopped you — then I understood: some goodbyes were never going to give us time to prepare."]
+        }
+      }
+    },
+    {
+      "id": "pm-115",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://vcahospitals.com/know-your-pet/children-and-pets---grief-following-loss-of-a-dog",
+      "sourceNote": "「跟孩子一起做回憶盒」 frame — 兒童哀傷引導實作，原創",
+      "tags": ["跟小孩說", "回憶盒", "兒童"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟孩子一起做了一個「想念的盒子」：放牠的項圈、一張一起睡午覺的照片、一根撿到的毛。孩子說想牠的時候就打開看一看。原來不只是大人，小孩也需要一個地方，把愛好好收起來。",
+          "editorNote": "給家有小孩的飼主，提供具體可一起動手做的哀傷儀式，比口頭安慰更適合孩子",
+          "variations": ["孩子在盒子裡放了一顆糖，說「這是要留給牠的」。我沒有糾正他。在那個盒子裡，牠永遠吃得到。"]
+        },
+        "en": {
+          "content": "My kid and I made a 'missing-them box' together: the collar, a photo of them napping with us, one stray tuft of fur we found. Whenever my kid misses them, they open it and look. Turns out it's not just grown-ups — kids need a place to tuck their love away safely too.",
+          "editorNote": "For parents with young kids — gives a hands-on grief ritual you do together, gentler for children than verbal reassurance",
+          "variations": ["My kid put a piece of candy in the box and said, 'This one's for them.' I didn't correct it. Inside that box, they can still have it."]
+        }
+      }
+    },
+    {
+      "id": "pm-116",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.shelbyforsythia.com/blog-archive/grieving-a-pet-how-to-honor-big-love-and-deep-loss-in-a-world-that-doesnt-get-it",
+      "sourceNote": "「小動物的悲傷也算數」 frame — 非貓狗寵物哀傷被輕視，原創",
+      "tags": ["撫慰", "小動物", "悲傷被輕視"],
+      "i18n": {
+        "zh-tw": {
+          "content": "牠只是一隻兔子、一隻倉鼠、一條魚——別人聽到的時候表情都淡淡的。可是每天餵牠、跟牠講話、看牠的那個人是我。份量從來不是用體型決定的，是用你愛了多深決定的。",
+          "editorNote": "給養兔子、鼠、鳥、魚等非貓狗寵物的飼主，他們的悲傷常被「不過是隻小動物」輕描淡寫",
+          "variations": ["有人問我「不就一隻倉鼠嗎，再買一隻不就好了」。我笑笑沒回。他不會懂，那隻巴掌大的小東西，曾經是我整個下班後的世界。"]
+        },
+        "en": {
+          "content": "It was 'just' a rabbit, a hamster, a fish — people's faces go flat when they hear it. But I'm the one who fed them, talked to them, watched them every single day. Weight was never decided by size. It's decided by how deep you loved.",
+          "editorNote": "For owners of small / non-cat-dog pets (rabbits, rodents, birds, fish) whose grief gets brushed off as 'just a little animal'",
+          "variations": ["Someone asked, 'It's just a hamster, can't you buy another one?' I smiled and let it go. They'll never get it — that palm-sized thing used to be my whole evening, every evening."]
+        }
+      }
+    },
+    {
+      "id": "pm-117",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://www.inlovingarmsnapa.com/letters",
+      "sourceNote": "「在家最後一程」 frame — 到府安樂死、在熟悉的窩裡離開，原創",
+      "tags": ["告別", "在家", "最後一程"],
+      "i18n": {
+        "zh-tw": {
+          "content": "最後那天，我們沒有去那間你最怕的醫院。你躺在自己的窩裡，陽光剛好曬到你最愛的那塊地板，我的手一直放在你身上。你走得很安靜，安靜到我以為你只是睡著了。",
+          "editorNote": "適合選擇到府安樂死 / 在家送別的飼主，重點在「在熟悉的地方、被愛包圍著離開」的安心感",
+          "variations": ["我答應過你，最後不會是消毒水的味道，是家裡的味道。那天你聞著熟悉的被子睡著，我覺得這是我能給你最後的溫柔。"]
+        },
+        "en": {
+          "content": "On the last day, we didn't go to the clinic you always dreaded. You lay in your own bed, the sun hitting your favorite patch of floor, my hand resting on you the whole time. You went so quietly I let myself believe, for a second, you'd only fallen asleep.",
+          "editorNote": "For owners who chose at-home euthanasia / saying goodbye at home — the comfort is 'leaving somewhere familiar, wrapped in love'",
+          "variations": ["I promised you the last thing you'd smell wouldn't be antiseptic — it'd be home. You drifted off against your familiar blanket, and I think that was the last bit of gentleness I had to give you."]
+        }
+      }
+    },
+    {
+      "id": "pm-118",
+      "dateAdded": "2026-06-12",
+      "sourceUrl": "https://funeral.com/blogs/the-journal/pet-loss-after-a-sudden-death-vs-long-illness-why-grief-can-feel-different",
+      "sourceNote": "「最難的就是你正在經歷的這一個」 frame — 不要比較悲傷，原創改寫",
+      "tags": ["撫慰", "不要比較", "悲傷"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人說突然走的最痛，因為來不及準備；也有人說生病拖很久的最痛，因為要看著牠一天天變弱。其實別比了——最難的那一個，永遠是你現在正在經歷的這一個。",
+          "editorNote": "給會拿自己的悲傷跟別人比較、覺得「我是不是沒資格這麼難過」的飼主，把所有失去拉到同一個高度",
+          "variations": ["你不用跟誰比誰更慘才有資格哭。你的痛不需要排隊，也不需要審核。它就是真的，這樣就夠了。"]
+        },
+        "en": {
+          "content": "Some say sudden loss hurts most — no time to brace. Others say a long illness is worse — watching them fade a little each day. Stop comparing. The hardest loss is always the one you're living through right now.",
+          "editorNote": "For owners who measure their grief against others' and wonder 'do I even have the right to hurt this much' — levels every loss to the same height",
+          "variations": ["You don't have to prove yours was worse to earn the right to cry. Your pain doesn't need to wait in line or pass an inspection. It's real. That's enough."]
+        }
+      }
     }
   ]
 }
