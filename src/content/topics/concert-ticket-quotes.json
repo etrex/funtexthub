@@ -1759,6 +1759,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-077",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/3219262",
+      "sourceNote": "BTS 高雄世運 6/4 拓元開賣，多階段預購：ARMY 會員登記、會員優先購、Live Nation 預售、全面開賣",
+      "tags": ["預購", "會員", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "ARMY 登記、會員優先、\nLive Nation 預售、全面開賣。\n\n四道關卡。\n\n等我打到最後一關,\n才發現前面三關的人\n已經把魔王打完了。",
+          "editorNote": "多階段預購讓最後一輪開賣的人形同撿剩。傳給只有資格參加全面開賣、結果什麼都沒剩的朋友",
+          "variations": [
+            "闖關版:「這不是售票,是闖關遊戲。問題是我連第一關的入場券都沒有,只能在門口看別人通關。」"
+          ]
+        },
+        "en": {
+          "content": "Member registration, member presale,\npartner presale, then general sale.\n\nFour gates.\n\nBy the time I reach the last one,\nthe people ahead of me\nhave already cleared the final boss.",
+          "editorNote": "Multi-stage presales leave the general-sale crowd picking through scraps. Send to a friend who only qualified for the last round and found nothing left",
+          "variations": [
+            "Boss-rush version: 'This isn't a ticket sale, it's a dungeon crawl. Except I don't even have the entry pass — I'm just at the door watching everyone else clear it.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-078",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.npr.org/2026/01/28/nx-s1-5686667/harry-styles-presale-tickets",
+      "sourceNote": "粉絲為搶票四處翻 Reddit 找預售代碼，卻因晚幾分鐘或系統故障被擠到隊伍最後",
+      "tags": ["預售代碼", "排隊", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我翻遍 Reddit、爬完論壇,\n終於湊到一組預售代碼。\n\n輸入的當下,\n系統說我「晚了三分鐘」,\n\n然後把我\n丟到隊伍的最後面。\n\n原來努力也有保存期限。",
+          "editorNote": "到處找預售代碼卻因系統故障被丟到隊尾，是國際粉絲的共同悲歌。傳給辛苦找碼結果還是排到天荒地老的朋友",
+          "variations": [
+            "計時版:「找代碼花三小時,被踢到隊尾花三秒。投入產出比,完美負相關。」"
+          ]
+        },
+        "en": {
+          "content": "I scoured Reddit, combed every forum,\nfinally scraped together a presale code.\n\nThe moment I entered it,\nthe system said I was 'three minutes late'\n\nand dumped me\nat the back of the line.\n\nTurns out effort has an expiration date.",
+          "editorNote": "Hunting for presale codes only to get bumped by a glitch is a global fan lament. Send to a friend who did all the homework and still landed in queue position 40,000",
+          "variations": [
+            "Timer version: 'Three hours to find a code. Three seconds to get kicked to the back. The effort-to-outcome ratio is perfectly inverse.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-079",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.aol.com/news/oasis-ditching-ticketmasters-dynamic-ticket-183700548.html",
+      "sourceNote": "Oasis 北美巡演宣布放棄 Ticketmaster 浮動定價，避免重演英國場票價暴漲爭議",
+      "tags": ["浮動定價", "退讓", "票價", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有樂團宣布:\n這次巡演不用浮動定價了。\n\n粉絲歡呼,\n說這是良心。\n\n但仔細想想——\n\n「不趁機坑你」\n居然要當成福利來宣傳,\n\n這個產業到底走到哪了。",
+          "editorNote": "藝人放棄浮動定價被當成佛心新聞，反映出產業底線有多低。傳給看到這則新聞先是感動、再來是心酸的朋友",
+          "variations": [
+            "清醒版:「『我們決定不哄抬票價』被寫成頭條。當不剝削變成新聞,代表剝削早就是日常。」"
+          ]
+        },
+        "en": {
+          "content": "A band just announced:\nno dynamic pricing on this tour.\n\nFans cheered,\ncalled it decency.\n\nBut think about it —\n\n'we won't gouge you'\nis being marketed as a perk.\n\nWhere did this industry even go?",
+          "editorNote": "An artist dropping dynamic pricing getting hailed as heroic shows how low the bar has sunk. Send to a friend who felt touched, then bitter, reading the headline",
+          "variations": [
+            "Sober version: ''We've decided not to jack up the prices' made the front page. When not exploiting people is news, exploitation was already the baseline.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-080",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://feeds.bbci.co.uk/news/articles/cj04y6y0316o",
+      "sourceNote": "Oasis 北美預售要求粉絲填問卷、答對「樂團上次在北美演出時間」才能取得購票資格",
+      "tags": ["問卷", "資格審查", "真粉", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "預售要先填問卷,\n還要答對\n「他們上次來是哪一年」。\n\n答錯就沒資格。\n\n我喜歡一個樂團,\n現在還要先通過\n一場隨堂考。\n\n喜歡,什麼時候\n變成要考試的。",
+          "editorNote": "用問答測驗篩「真粉」才給購票資格是 2026 新招，把喜歡變成考試。傳給為了搶票臨時惡補偶像冷知識的朋友",
+          "variations": [
+            "考生版:「為了搶票,我把他的出道年、得獎紀錄、巡演場次全背起來。我不是粉絲,我是準備這科會考的考生。」"
+          ]
+        },
+        "en": {
+          "content": "The presale makes you fill out a quiz,\nand you have to correctly answer\n'what year did they last play here.'\n\nWrong answer, no access.\n\nI like a band,\nand now I have to pass\na pop quiz first.\n\nWhen did liking something\nstart requiring an exam?",
+          "editorNote": "Trivia quizzes to certify 'real fans' before granting purchase access are a 2026 invention that turns affection into a test. Send to a friend cramming artist trivia just to qualify",
+          "variations": [
+            "Test-taker version: 'To buy a ticket I memorized his debut year, award history, and full tour list. I'm not a fan, I'm a student prepping for the final.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-081",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://jacobin.com/2026/05/live-music-ticket-prices-sales",
+      "sourceNote": "2026 報導稱現場音樂產業已成「the misery that is live music」，定價與可近性引發普遍不滿",
+      "tags": ["產業亂象", "可近性", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有篇報導把整個現場音樂產業\n形容成「一場苦難」。\n\n我看完只想說:\n\n謝謝你終於\n用一個專有名詞,\n\n幫我那些\n說不出口的疲憊\n正名了。",
+          "editorNote": "國際媒體直接把現場音樂產業定義成「苦難」，替粉絲集體情緒下了註腳。傳給對整個搶票體系徹底心累、卻說不出哪裡不對的朋友",
+          "variations": [
+            "認證版:「原來不是我太脆弱,是這件事本來就被歸類為『苦難』。我的疲憊,終於有了學名。」"
+          ]
+        },
+        "en": {
+          "content": "A piece described the whole live-music industry\nas 'the misery that is live music.'\n\nReading it, all I wanted to say was:\n\nthank you for finally\ngiving a proper name\n\nto the exhaustion\nI never knew how to put\ninto words.",
+          "editorNote": "When the press literally labels the live-music industry a 'misery,' it validates a whole fandom's burnout. Send to a friend worn out by the entire ticketing machine who couldn't name what was wrong",
+          "variations": [
+            "Validation version: 'Turns out I'm not too fragile — the thing itself is officially classified as misery. My exhaustion finally has a scientific name.'"
+          ]
+        }
+      }
     }
   ]
 }

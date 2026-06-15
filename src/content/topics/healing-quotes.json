@@ -4758,6 +4758,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-194",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://mentalhealthcenterkids.com/blogs/articles/mental-health-quotes",
+      "sourceNote": "Inspired by non-linear healing theme: some days strong, some days heavy, both valid; rewritten in own words",
+      "tags": ["療癒", "慢慢來", "接受自己", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "好起來不是一條直線。\n有些日子你會覺得有力氣，有些日子又重得抬不起頭。\n兩種都算數，不用因為退步就否定自己。",
+          "editorNote": "適合傳給狀態忽好忽壞、覺得自己「明明前幾天還好好的」而自責的人。提醒對方復原本來就會起起伏伏，倒退一步不代表前面的努力白費。",
+          "variations": [
+            "今天不好沒關係，不代表你又回到原點了。",
+            "進步不是看你走多快，是看你有沒有對自己誠實。"
+          ]
+        },
+        "en": {
+          "content": "Getting better isn't a straight line.\nSome days you'll feel strong. Some days you'll be too heavy to lift your head.\nBoth count. A bad day doesn't erase the good ones.",
+          "editorNote": "For someone whose mood swings up and down and who beats themselves up because they 'were fine just a few days ago.' Reminds them recovery is supposed to wobble — one step back doesn't cancel the progress.",
+          "variations": [
+            "Having a rough day doesn't mean you're back at square one.",
+            "Progress isn't about how fast you go — it's about being honest with yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-195",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.blurtitout.org/quotes/healing-quotes",
+      "sourceNote": "Inspired by 'you are not weak for needing time to heal, you are human'; rewritten gently",
+      "tags": ["療癒", "疲憊", "接受自己", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "需要時間才能好起來，不是你太脆弱，\n只是你也是人而已。",
+          "editorNote": "給那些覺得「別人都撐得住，為什麼只有我這麼弱」的人。把需要時間療傷講成一件再正常不過的事，幫對方卸下那份多餘的羞愧感。",
+          "variations": [
+            "會痛、會需要慢慢復原，這很正常，你沒有壞掉。",
+            "別人的進度不是你的標準，你按自己的時間來就好。"
+          ]
+        },
+        "en": {
+          "content": "Needing time to heal doesn't make you weak.\nIt just makes you human.",
+          "editorNote": "For anyone thinking 'everyone else copes, why am I the only one who can't.' Reframes needing time as completely ordinary, lifting off the extra shame they're carrying.",
+          "variations": [
+            "Hurting and needing to mend slowly is normal. You're not broken.",
+            "Other people's pace isn't your benchmark. Go at your own."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-196",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.marieclaire.com.tw/relationship/secret-talk/54679",
+      "sourceNote": "Inspired by '愛自己是一生的課題，別對自己太嚴格'; original rewrite on being gentle with oneself",
+      "tags": ["療癒", "接受自己", "正能量", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你對別人那麼溫柔，記得也留一點給自己。\n當你對自己溫柔，世界的尖銳也會跟著變鈍。",
+          "editorNote": "適合傳給那種對朋友超級體貼、卻對自己特別嚴格的人。提醒對方把平常照顧別人的那份溫柔，分一些回來給自己。",
+          "variations": [
+            "你願意原諒別人的失誤，也試著原諒一下自己吧。",
+            "對自己好不是自私，是你撐下去的方式。"
+          ]
+        },
+        "en": {
+          "content": "You're so gentle with everyone else — save a little of that for yourself.\nWhen you're kind to you, the world's sharp edges get a little softer too.",
+          "editorNote": "For the person who's endlessly thoughtful toward friends but brutally hard on themselves. Reminds them to redirect some of that everyday kindness back inward.",
+          "variations": [
+            "You forgive everyone else's slip-ups — try forgiving your own.",
+            "Being good to yourself isn't selfish. It's how you keep going."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-197",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://qoutesoftime.com/10-powerful-mental-health-quotes-to-heal-rest-and/",
+      "sourceNote": "Inspired by 'rest is not laziness, it's maintenance'; rewritten as permission-giving healing line",
+      "tags": ["療癒", "疲憊", "慢慢來", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "休息不是偷懶，是保養。\n機器不停運轉都會壞，更何況是你。",
+          "editorNote": "給那種一停下來就有罪惡感的人。用「保養」這個角度，讓對方理解休息不是浪費時間，而是讓自己能走更遠的必要步驟。",
+          "variations": [
+            "你不是機器，本來就不該二十四小時待命。",
+            "先把自己照顧好，事情才有人能做。"
+          ]
+        },
+        "en": {
+          "content": "Rest isn't laziness — it's maintenance.\nEven machines break if they never stop. You're not exempt.",
+          "editorNote": "For the person who feels guilty the moment they slow down. The 'maintenance' angle reframes rest as a necessary step for going further, not wasted time.",
+          "variations": [
+            "You're not a machine. You were never meant to be on call 24/7.",
+            "Take care of yourself first — there's no one to do the work if you fall apart."
+          ]
+        }
+      }
     }
   ]
 }

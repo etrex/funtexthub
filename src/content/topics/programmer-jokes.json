@@ -6573,6 +6573,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-227",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "AI copilot suggesting the same bug you created — reframed",
+      "tags": [
+        "AI 工具",
+        "Debug",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我花了三天才寫出一個 bug。\n結果今天 AI 助手很貼心地自動補上一模一樣的那段。\n它不是來幫忙的，它是來陪我一起爛的。",
+          "editorNote": "適合貼在團隊群組吐槽 AI 自動補全，大家都會心一笑。",
+          "variations": [
+            "AI 補完的程式碼最大的特色就是：跑得起來，但沒人知道為什麼。",
+            "以前是 Google 上的答案沒人負責，現在是 AI 生的程式碼沒人負責。"
+          ]
+        },
+        "en": {
+          "content": "It took me three days to write one bug.\nThen my AI assistant kindly autocompleted the exact same line for me today.\nIt's not here to help — it's here to be terrible alongside me.",
+          "editorNote": "Great for venting in the team chat about AI autocomplete — everyone will nod knowingly.",
+          "variations": [
+            "AI-generated code has one defining feature: it runs, and nobody knows why.",
+            "We went from 'nobody owns the answer on Google' to 'nobody owns the code the AI wrote.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-228",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'used up all his cache' broke developer pun — reworked",
+      "tags": [
+        "雙關",
+        "工程師日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師為什麼會破產？\n因為他把 cache（快取／現金）全部用光了。",
+          "editorNote": "適合丟在午餐閒聊或工程師梗圖群，看誰先反應過來。",
+          "variations": [
+            "存款餘額：404 Not Found。",
+            "他試著清理 cache，結果連戶頭一起清空了。"
+          ]
+        },
+        "en": {
+          "content": "Why did the developer go broke?\nBecause he used up all his cache.",
+          "editorNote": "Drop this in a lunch chat or a dev meme group and see who groans first.",
+          "variations": [
+            "Account balance: 404 Not Found.",
+            "He tried to clear his cache and accidentally cleared his bank account too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-229",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "UDP joke 'you might not get it' — classic, reframed",
+      "tags": [
+        "雙關",
+        "網路",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我本來想講一個關於 UDP 的笑話的⋯⋯\n但你可能會收不到。",
+          "editorNote": "適合講給懂網路協定的同事聽，懂的人才會笑，不懂的剛好示範了這個笑話。",
+          "variations": [
+            "如果是 TCP 笑話，我會一直重講到你笑為止。",
+            "你沒收到沒關係，我也不會重傳。"
+          ]
+        },
+        "en": {
+          "content": "I was going to tell you a joke about UDP…\nbut you might not get it.",
+          "editorNote": "Tell this to a coworker who knows networking — the ones who don't laugh are demonstrating the punchline.",
+          "variations": [
+            "If it were a TCP joke, I'd keep retelling it until you laughed.",
+            "Didn't catch it? That's fine, I'm not retransmitting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-230",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "'code develops random features' instead of bugs — reworked",
+      "tags": [
+        "程式碼品質",
+        "自嘲",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的程式碼從來沒有 bug。\n它只是會自己長出一些我沒設計的功能而已。",
+          "editorNote": "適合在 code review 被電的時候，用來幫自己找台階下。",
+          "variations": [
+            "那不是錯誤，那是一個還沒寫進規格的隱藏彩蛋。",
+            "客戶說的 bug，在我這邊都叫『未公開的進階功能』。"
+          ]
+        },
+        "en": {
+          "content": "My code never has bugs.\nIt just spontaneously grows features I never designed.",
+          "editorNote": "Useful for saving face when you're getting roasted in a code review.",
+          "variations": [
+            "It's not an error, it's a hidden easter egg that's not in the spec yet.",
+            "What the customer calls a bug, I call an 'undocumented advanced feature.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-231",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "two hard things: naming and off-by-one errors — classic reframed",
+      "tags": [
+        "命名",
+        "工程師思維",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "程式設計裡只有兩件最難的事：\n第一是快取失效，第二是幫東西取名字，第三是 off-by-one 的差一錯誤。",
+          "editorNote": "適合貼在命名卡關、變數叫 data2、data3 的崩潰時刻。",
+          "variations": [
+            "我為了一個變數名字想了二十分鐘，最後還是叫它 temp。",
+            "別人問我函式為什麼叫 doStuff()，我說因為它真的就是 do stuff。"
+          ]
+        },
+        "en": {
+          "content": "There are only two hard things in programming:\ncache invalidation, naming things, and off-by-one errors.",
+          "editorNote": "Perfect for that moment when you're stuck naming things and your variables are data2, data3, data_final.",
+          "variations": [
+            "I spent twenty minutes on a variable name and still called it temp.",
+            "Someone asked why my function is named doStuff() — because it literally does stuff."
+          ]
+        }
+      }
     }
   ]
 }

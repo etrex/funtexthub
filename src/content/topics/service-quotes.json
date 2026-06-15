@@ -3603,6 +3603,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-149",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1671535300.A.468.html",
+      "sourceNote": "Reframes the PTT WomenTalk 「服務業的禮貌只是防客訴」 thread — the insight that 'welcome' is a defense mechanism, not hospitality, is the rewrite core",
+      "tags": ["服務業", "情緒勞動", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你以為我說「歡迎光臨」是熱情。\n不，那是我在快速判斷你會不會客訴。\n微笑是盾牌，不是心情。",
+          "editorNote": "傳給每天進門前先深呼吸、把脾氣鎖進置物櫃的第一線同事。重點不是冷漠，是那份禮貌其實是保命用的。",
+          "variations": [
+            "我們的禮貌不是教養好，是被客訴教出來的反射動作。"
+          ]
+        },
+        "en": {
+          "content": "You think my \"Welcome!\" is warmth.\nIt's not — it's me speed-calculating whether you'll file a complaint.\nThe smile is a shield, not a mood.",
+          "editorNote": "Send to the frontline coworker who takes a deep breath before every shift and locks their temper in the locker. The point isn't coldness — that politeness is a survival reflex.",
+          "variations": [
+            "Our manners aren't good breeding. They're a reflex trained by complaint forms."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-150",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
+      "sourceNote": "Inspired by Dcard 工作板 「服務至上，但真的只能忍氣吞聲嗎？」 thread — the 'limited spend, unlimited service' expectation is the rewrite anchor",
+      "tags": ["服務業", "奧客", "尊嚴", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你花的是一杯飲料的錢，\n要的是一整個人的尊嚴。\n抱歉，這裡不找零這種。",
+          "editorNote": "傳給今天又被「我是顧客我最大」壓在地上摩擦的朋友。服務有價，但人的底線不在菜單上。",
+          "variations": [
+            "服務是工作，不是賣身契；你買得起商品，買不起我整個人。"
+          ]
+        },
+        "en": {
+          "content": "You paid for one drink\nand expect a whole person's dignity.\nSorry, we don't make change for that.",
+          "editorNote": "Send to the friend who got ground into the floor by \"the customer is always right\" again today. Service has a price, but a person's bottom line isn't on the menu.",
+          "variations": [
+            "Service is a job, not a deed of sale. You can afford the product, not the whole human."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-151",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.nownews.com/news/5039152",
+      "sourceNote": "Reframes NOWnews 「客服怒列3大奧客罪狀」 — the phone-customer who won't read anything and demands the agent recite it all is the rewrite scenario",
+      "tags": ["服務業", "客服", "電話", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「我懶得看，你直接念給我聽。」\n於是我把三頁條款，用最溫柔的聲音，\n一字一句念成你今天最後悔的決定。",
+          "editorNote": "傳給電話客服同事，尤其是剛被「你直接講重點」要求、結果客人聽到一半就喊煩的那種。客服的耐心是有極限的，只是聲音不會洩漏。",
+          "variations": [
+            "你叫我念，我就念到讓你想自己看。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"I can't be bothered to read it. Just read it to me.\"\nSo I take all three pages of terms, in my gentlest voice,\nand recite them into the worst decision of your day.",
+          "editorNote": "Send to phone-support coworkers — especially the one who got hit with \"just get to the point\" and then the customer got annoyed halfway through. An agent's patience has limits; the voice just never gives it away.",
+          "variations": [
+            "You asked me to read it. I'll read it until you wish you'd read it yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-152",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.cheers.com.tw/article/article.action?id=5093714",
+      "sourceNote": "Reframes Cheers 林承毅 essay on the emotional cost of mandatory smiling in service work — the gap between trained smile and real exhaustion is the rewrite core",
+      "tags": ["服務業", "微笑", "情緒勞動", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班後我對著鏡子，發現自己還在笑。\n不是開心，是臉忘了怎麼停。\n原來情緒勞動，是連肌肉都要加班。",
+          "editorNote": "傳給那種下班後笑容卸不掉、回家對家人也不小心擺出營業臉的同事。提醒他：你可以把笑收起來，這裡沒有客人。",
+          "variations": [
+            "我的微笑是排班制的，只是下班那格忘了關。"
+          ]
+        },
+        "en": {
+          "content": "After my shift I look in the mirror and I'm still smiling.\nNot from joy — my face forgot how to stop.\nTurns out emotional labor makes even your muscles work overtime.",
+          "editorNote": "Send to the coworker who can't peel the smile off after clocking out and accidentally gives family the customer-service face at home. Remind them: you can put it away now, no customers here.",
+          "variations": [
+            "My smile is on a shift schedule. The clock-out slot just never got switched off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-153",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://girlstyle.com/tw/article/221532",
+      "sourceNote": "Reframes a GirlStyle 厭世毒雞湯 listicle into a service-specific 'kindness shouldn't equal minimum wage' angle drawn from the Dcard job-board sentiment",
+      "tags": ["服務業", "薪水", "厭世", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司付我基本工資，\n卻要我用全身的好脾氣去換。\n親愛的，好脾氣不是免費贈品，是我硬擠出來的庫存。",
+          "editorNote": "傳給領著最低薪、卻被要求要有最高EQ的服務業朋友。好脾氣會用完，補貨還要自己付運費。",
+          "variations": [
+            "用基本工資買我的笑容，這筆交易我虧太多了。"
+          ]
+        },
+        "en": {
+          "content": "The company pays me minimum wage\nand expects my entire reserve of patience in return.\nHoney, good temper isn't a free gift with purchase — it's stock I have to squeeze out of myself.",
+          "editorNote": "Send to the service friend earning the lowest pay but expected to have the highest EQ. Good temper runs out, and the restock shipping is on you.",
+          "variations": [
+            "Buying my smile at minimum wage — I'm losing way too much on this deal."
+          ]
+        }
+      }
     }
   ]
 }

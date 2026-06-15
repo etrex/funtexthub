@@ -1851,6 +1851,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-081",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://wifitalents.com/binge-watching-statistics/",
+      "sourceNote": "追劇隔天疲勞、補眠失敗的行為自嘲，binge 統計觀察，原創改編",
+      "tags": ["熬夜", "隔天", "後遺症", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "追劇追到三點，你以為代價是少睡幾小時，\n其實代價是隔天一整天。\n\n早上鬧鐘響——你按掉三次。\n進公司——你對著螢幕發呆，腦子還停在昨晚那場誤會。\n開會——主管問你意見，你回神時只記得「男主角不該那樣做」。\n午餐後——你在工位上差點睡著，被自己的點頭驚醒。\n下午三點——你發誓今晚一定早睡。\n晚上十一點——你又打開了那部劇。\n\n人類最矛盾的地方就是：\n你完全知道後果，\n你還是選擇了今晚的快樂，\n把疲憊外包給明天的自己。",
+          "editorNote": "傳給那個每天頂著黑眼圈上班、卻又戒不掉熬夜追劇的朋友——讓他笑著認罪",
+          "variations": [
+            "現實版：明天的你最恨的不是劇，是昨天的你——但等到了晚上，你又會背叛明天的你一次"
+          ]
+        },
+        "en": {
+          "content": "You binge till 3 AM thinking the cost is a few hours of sleep.\nThe real cost is the entire next day.\n\nMorning alarm — you snooze it three times.\nAt work — you stare at the screen, mind still stuck on last night's misunderstanding.\nIn the meeting — your manager asks for your input, and all you remember is \"the lead shouldn't have done that.\"\nAfter lunch — you almost fall asleep at your desk, jolted awake by your own nodding head.\n3 PM — you swear you'll sleep early tonight.\n11 PM — you open the show again.\n\nThe most contradictory thing about humans:\nyou know the consequences exactly,\nand you still pick tonight's joy,\noutsourcing the exhaustion to tomorrow's you.",
+          "editorNote": "Send to the friend who shows up to work with dark circles daily but can't quit late-night binges — let them confess with a smile",
+          "variations": [
+            "Real version: tomorrow's you hates the show less than they hate yesterday's you — and yet, come night, you'll betray tomorrow's you all over again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-082",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://medium.com/cognitive-neuroeconomics/binge-on-demand-how-streaming-services-reshape-our-viewing-habits-and-why-its-addictive-7378356f8143",
+      "sourceNote": "自動播放、演算法接住你的設計，串流成癮觀察，原創改編",
+      "tags": ["自動播放", "演算法", "停不下來", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下一集自動播放的倒數，只給你五秒。\n\n那五秒，是平台留給你「做人」的最後機會：\n你可以伸手按取消，去睡覺，當一個正常人。\n\n但你沒有。\n你看著倒數從五跳到一，\n一種奇怪的平靜降臨——\n「算了，反正它都幫我選好了。」\n\n自動播放最壞的地方，\n不是它逼你看，\n是它讓你把「我控制不住」說成「它不給我機會」。\n\n演算法不是在推薦你劇，\n它是在賭你不會按下停止——\n而它每次都賭贏。",
+          "editorNote": "傳給那個總是被自動播放接著看到天亮、然後怪平台的朋友——讓他承認那五秒他根本沒想按",
+          "variations": [
+            "深度版：你以為是平台在控制你，其實你只是終於找到一個願意替你做決定的東西——而你私心裡，鬆了一口氣"
+          ]
+        },
+        "en": {
+          "content": "The autoplay countdown to the next episode gives you five seconds.\n\nThose five seconds are the platform's last offer to let you be a functioning human:\nyou could reach over, hit cancel, go to bed, be normal.\n\nBut you don't.\nYou watch it tick from five to one,\nand a strange calm settles in —\n\"Whatever, it already picked for me.\"\n\nThe worst part of autoplay\nisn't that it forces you to watch.\nIt's that it lets you rephrase \"I have no self-control\"\nas \"it never gave me a chance.\"\n\nThe algorithm isn't recommending shows.\nIt's betting you won't hit stop —\nand it wins every single time.",
+          "editorNote": "Send to the friend who blames autoplay for keeping them up till dawn — let them admit they never intended to hit cancel in those five seconds",
+          "variations": [
+            "Deep version: you think the platform controls you, but really you just found something willing to make the decision for you — and secretly, you were relieved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-083",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.dcard.tw/f/tvepisode/p/260724436",
+      "sourceNote": "追完劇後瘋狂 google 演員、看花絮幕後的行為，Dcard 戲劇板觀察，原創改編",
+      "tags": ["花絮", "演員", "追完劇", "捨不得"],
+      "i18n": {
+        "zh-tw": {
+          "content": "追完一部捨不得的劇，你不會馬上找下一部，\n你會先進入「考古」階段：\n\n先 google 兩位主演的所有訪談。\n再看劇組花絮，發現他們私下感情超好。\n接著看 NG 片段，他們笑場的樣子比正片還可愛。\n然後翻劇照、翻幕後、翻路透。\n最後你開始看演員的其他作品，只因為想多看他幾眼。\n\n你以為你在追星，\n其實你只是不想跟那個角色說再見——\n看花絮的時候，他們還活著，\n還會笑，還在那個世界裡好好的。\n\n考古不是不捨得劇，\n是不捨得那段，你心裡裝著別人故事的日子。",
+          "editorNote": "傳給那個追完劇後連夜把演員所有花絮訪談看完的朋友——讓他知道那是在跟角色慢慢道別",
+          "variations": [
+            "深度版：你看遍了所有幕後，最後發現——你想留住的不是演員，是那個會為了一個故事熬夜、會為了陌生人哭的，還有溫度的自己"
+          ]
+        },
+        "en": {
+          "content": "After finishing a show you can't let go of, you don't find the next one right away.\nYou enter the \"excavation\" phase first:\n\nGoogle every interview the two leads ever gave.\nWatch the behind-the-scenes, discover they're actually close off-camera.\nWatch the bloopers — them cracking up is cuter than the actual show.\nDig through stills, BTS photos, set leaks.\nFinally, you start watching the actors' other projects, just to see their faces a little longer.\n\nYou think you're becoming a fan.\nReally you just don't want to say goodbye to the character —\nin the bloopers, they're still alive,\nstill laughing, still doing fine in that world.\n\nExcavating isn't about not letting go of the show.\nIt's about not letting go of those days when your heart held someone else's story.",
+          "editorNote": "Send to the friend who stayed up watching every interview and blooper after a show ended — it's a slow goodbye to the character",
+          "variations": [
+            "Deep version: you watch all the behind-the-scenes and finally realize — what you want to keep isn't the actor, it's the version of you that stayed up for a story and cried for strangers, the you that still had warmth in it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-084",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%8F%A4%E8%A3%9D%E5%8A%87",
+      "sourceNote": "忍不住去翻原著小說劇透結局的行為，古裝劇改編原著觀察，原創改編",
+      "tags": ["原著", "劇透", "忍不住", "追劇心得"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這部劇改編自小說，\n而你昨天剛發現這件事。\n\n你跟自己說：「我絕對不去看原著，我要保持驚喜。」\n\n撐了兩小時。\n\n然後你打開搜尋，輸入「劇名 原著 結局」，\n手抖了一下，還是按了下去。\n\n看完的那一刻，你五味雜陳：\n一半是「我就知道」，\n一半是「我幹嘛要知道」。\n\n接下來每一集，你都在用上帝視角看戲——\n看著角色們還蒙在鼓裡，\n你既心疼又有種詭異的優越感。\n\n你不是想知道結局，\n你只是太焦慮了——\n焦慮到寧可毀掉驚喜，也要先確認他們最後會好好的。",
+          "editorNote": "傳給那個發誓不看原著、結果半夜偷偷 google 結局的朋友——讓他承認他只是想確認男女主有沒有 happy ending",
+          "variations": [
+            "現實版：你看完原著結局發現是 BE，從此你看每一集都在倒數心碎——這就是好奇心的代價，你親手把甜劇看成了倒數計時"
+          ]
+        },
+        "en": {
+          "content": "The show is based on a novel,\nand you just found that out yesterday.\n\nYou tell yourself: \"I will absolutely not read the source. I want to stay surprised.\"\n\nYou last two hours.\n\nThen you open the search bar, type \"[show name] novel ending,\"\nyour hand trembles a little, and you hit enter anyway.\n\nThe moment you finish reading, you're a mess of feelings:\nhalf \"I knew it,\"\nhalf \"why did I need to know.\"\n\nFrom then on, you watch every episode from a god's-eye view —\nwatching the characters still in the dark,\nfeeling both tender and weirdly superior.\n\nYou didn't really want the ending.\nYou were just too anxious —\nanxious enough to ruin the surprise just to confirm they end up okay.",
+          "editorNote": "Send to the friend who swore off the source novel but secretly googled the ending at midnight — let them admit they just needed to confirm a happy ending",
+          "variations": [
+            "Real version: you read the source and find out it's a bad ending — now you watch every episode counting down to heartbreak. That's the price of curiosity: you turned a sweet show into a ticking clock with your own hands."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-085",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.lifeblogs.org/entertainment/the-science-behind-bingewatching-and-viewer-habits.html",
+      "sourceNote": "用劇情當睡前儀式、卻越看越清醒的矛盾，binge 與睡眠科學觀察，原創改編",
+      "tags": ["睡前", "失眠", "矛盾", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你開劇的理由是：「看一集放鬆一下，比較好睡。」\n\n這是你今晚講過最大的謊。\n\n因為劇情緊張，你睡不著。\n因為結局太甜，你捨不得睡。\n因為片尾留懸念，你必須再看一集才能安心。\n因為再看一集之後又有新懸念，於是你又再看一集。\n\n等你終於關掉螢幕，已經凌晨四點，\n你躺在床上，腦子卻像剛喝了三杯咖啡——\n劇情在你腦海裡繼續放映，角色還在吵架。\n\n你拿來助眠的東西，\n正是讓你睡不著的元凶。\n\n人類就是這樣，\n總是把讓自己上癮的東西，包裝成療癒。",
+          "editorNote": "傳給那個說「看劇比較好睡」、結果越看越清醒到天亮的朋友——溫柔拆穿他",
+          "variations": [
+            "解方版：真正能助眠的不是劇，是把手機放到客廳——但你我都知道，你做不到，因為你還想知道下一集"
+          ]
+        },
+        "en": {
+          "content": "Your reason for starting a show: \"Just one episode to relax, I'll sleep better.\"\n\nThat's the biggest lie you'll tell tonight.\n\nThe plot is tense, so you can't sleep.\nThe ending's too sweet, so you don't want to sleep.\nThe credits leave a cliffhanger, so you need one more episode to settle down.\nAnd one episode later there's a new cliffhanger, so you watch one more.\n\nBy the time you finally turn off the screen, it's 4 AM,\nand you lie in bed with a brain like it just had three coffees —\nthe plot keeps playing in your head, the characters are still arguing.\n\nThe thing you used to fall asleep\nis the exact reason you can't.\n\nThat's humans for you:\nalways packaging the thing we're addicted to as self-care.",
+          "editorNote": "Send to the friend who claims 'shows help me sleep' but ends up wide awake till dawn — gently call their bluff",
+          "variations": [
+            "Solution version: the real sleep aid isn't the show, it's leaving your phone in the living room — but you and I both know you can't, because you still want to know what happens next."
+          ]
+        }
+      }
     }
   ]
 }

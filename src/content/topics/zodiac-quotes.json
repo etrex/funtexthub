@@ -6283,6 +6283,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-201",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://woai.iheart.com/content/2020-04-01-the-zodiac-signs-as-introverts-and-extroverts/",
+      "sourceNote": "Pisces — quiet and respectful in public but secretly the silliest, funniest person inside their small inner circle",
+      "tags": [
+        "雙魚座",
+        "Pisces",
+        "I人",
+        "反差",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雙魚座在外面安安靜靜、有禮貌、從不插話，\n看起來就是個乖乖的邊緣人。\n\n但只要進到他那幾個人的小圈圈，他就會原形畢露——\n是全場最吵、最幼稚、最好笑的那個。",
+          "editorNote": "傳給那個在群裡安靜、私下卻超中二的雙魚朋友，他會回你一串貼圖",
+          "variations": [
+            "雙魚座的安靜是有條件的：人多就裝乖，剩自己人就開始發瘋。",
+            "你以為雙魚座很文靜，那是因為你還沒被分到他的內圈。"
+          ]
+        },
+        "en": {
+          "content": "In public, a Pisces is quiet, polite, and never talks over anyone —\nbasically the well-behaved wallflower.\n\nBut the moment they're in their tiny inner circle, the mask drops:\nthey're suddenly the loudest, silliest, funniest person in the room.",
+          "editorNote": "Send to the Pisces who's silent in the group chat but unhinged in private — they'll just reply with a wall of stickers",
+          "variations": [
+            "A Pisces's quietness has conditions: stranger danger means angel mode, but with their people it's full chaos.",
+            "You think a Pisces is shy? That just means you haven't been promoted to the inner circle yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-202",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://woai.iheart.com/content/2020-04-01-the-zodiac-signs-as-introverts-and-extroverts/",
+      "sourceNote": "Libra — smiles politely at social events while internally desperate to leave",
+      "tags": [
+        "天秤座",
+        "Libra",
+        "I人",
+        "社交",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "天秤座可以一邊對你微笑，\n一邊在心裡咬牙倒數還要待多久才能回家。\n\n他不是假——他只是把「我超想走」這件事，包裝得很有禮貌而已。",
+          "editorNote": "傳給那個在聚會上笑得最得體、其實最想閃人的天秤朋友",
+          "variations": [
+            "天秤座的微笑分兩種：真心的，跟「我在算什麼時候可以離開」的。",
+            "天秤座最大的社交才能，是在很想走的時候還能笑得讓你看不出來。"
+          ]
+        },
+        "en": {
+          "content": "A Libra can smile warmly right at you\nwhile internally counting down the minutes until they can go home.\n\nIt's not fake — they've just learned to wrap 'I desperately want to leave' in the politest packaging possible.",
+          "editorNote": "Send to the Libra who looks the most composed at a party but is secretly plotting their exit",
+          "variations": [
+            "A Libra has two smiles: the real one, and the 'calculating how soon I can dip' one.",
+            "A Libra's greatest social talent is wanting to leave so badly while smiling so well you'd never guess."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-203",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.ourmindfullife.com/sagittarius-quotes/",
+      "sourceNote": "Sagittarius — adventure first, plan later; unfiltered honesty with no regrets",
+      "tags": [
+        "射手座",
+        "Sagittarius",
+        "E人",
+        "直接",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "射手座的人生順序是：先出發，再來想要去哪。\n\n計畫？那是回程的事。\n至於講話有沒有過濾——他根本不知道過濾器長怎樣。",
+          "editorNote": "傳給那個說走就走、講話又沒在客氣的射手朋友，他會說「不然咧」",
+          "variations": [
+            "射手座的旅行從來不靠攻略，靠的是「到了再說」的莫名自信。",
+            "射手座不是白目，他只是覺得把實話講出來比較省事。"
+          ]
+        },
+        "en": {
+          "content": "A Sagittarius's life order goes: leave first, figure out the destination later.\n\nA plan? That's a problem for the way back.\nAnd as for having a filter — they genuinely don't know what one looks like.",
+          "editorNote": "Send to the Sagittarius who books a trip on a whim and says whatever's on their mind — they'll reply 'and?'",
+          "variations": [
+            "A Sagittarius never travels with an itinerary, just an inexplicable confidence that it'll work out on arrival.",
+            "A Sagittarius isn't being rude — they just find blurting out the truth more efficient than sugarcoating it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-204",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.ourmindfullife.com/aquarius-quotes/",
+      "sourceNote": "Capricorn — schedules rest like an appointment, stressed over made-up scenarios in their head",
+      "tags": [
+        "摩羯座",
+        "Capricorn",
+        "I人",
+        "工作狂",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "摩羯座不會「放鬆」——\n他們會把休息排進行事曆，像在跟自己開會。\n\n而且就算坐下來休息，腦子裡還在為一個根本還沒發生的問題擔心。",
+          "editorNote": "傳給那個連耍廢都要先規劃的摩羯朋友，他會說「不然怎麼確定有休到」",
+          "variations": [
+            "摩羯座的放假行程通常比上班還滿，因為他連休息都要有效率。",
+            "摩羯座煩惱的事有一半是自己腦補出來的劇本，而且還演得很投入。"
+          ]
+        },
+        "en": {
+          "content": "A Capricorn doesn't 'unwind' —\nthey schedule rest into their calendar like a meeting with themselves.\n\nAnd even when they finally sit down to relax, their brain is still busy stressing over a problem that hasn't even happened yet.",
+          "editorNote": "Send to the Capricorn who has to plan their downtime — they'll say 'how else would I know I actually rested?'",
+          "variations": [
+            "A Capricorn's day off is usually more packed than a workday, because even resting has to be efficient.",
+            "Half of what a Capricorn worries about is a made-up scenario in their head — and they're fully committed to the performance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-205",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://www.ourmindfullife.com/aquarius-quotes/",
+      "sourceNote": "Aquarius — most introverted sign, happy alone, ghosts everyone equally, small talk feels like a TED talk",
+      "tags": [
+        "水瓶座",
+        "Aquarius",
+        "I人",
+        "獨來獨往",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "水瓶座不是在已讀你——\n他是公平地已讀全世界。\n\n他真的很享受一個人的時間，外加那兩三個不會逼他講話的朋友，這樣就夠了。",
+          "editorNote": "傳給那個訊息常常已讀不回、但你知道他沒有惡意的水瓶朋友",
+          "variations": [
+            "水瓶座的「失蹤」沒有針對誰，他只是暫時對全人類關機而已。",
+            "跟水瓶座聊天，閒聊兩句他能扯到宇宙與人生意義，讓你不知道怎麼接。"
+          ]
+        },
+        "en": {
+          "content": "An Aquarius isn't leaving you on read —\nthey're leaving the entire world on read, fairly and equally.\n\nThey genuinely love their own company, plus the two or three friends who don't force them to talk. That's plenty.",
+          "editorNote": "Send to the Aquarius who often goes quiet but you know means nothing by it",
+          "variations": [
+            "An Aquarius's disappearing act isn't personal — they've just temporarily powered down on all of humanity.",
+            "Try to make small talk with an Aquarius and two sentences later they're discussing the universe and the meaning of life, leaving you with nowhere to go."
+          ]
+        }
+      }
     }
   ]
 }

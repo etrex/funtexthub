@@ -5623,6 +5623,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-227",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "哲學",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果我沒有理解錯的話，那就代表我理解對了。\n至於到底是哪一種，目前還在確認中。",
+          "editorNote": "開會時主管問你聽懂了沒，丟這句製造安全又模糊的回應",
+          "variations": [
+            "只要我沒搞錯，那這件事就沒被我搞錯。",
+            "我大概懂你的意思，前提是我真的懂。"
+          ]
+        },
+        "en": {
+          "content": "If I haven't misunderstood, that means I've understood correctly.\nWhich one it actually is remains under review.",
+          "editorNote": "When your manager asks if you followed the meeting, reply with this for a safe yet meaningless answer",
+          "variations": [
+            "As long as I didn't get it wrong, then I didn't get it wrong.",
+            "I basically get what you mean, assuming I actually get it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-228",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學喝水長壽風格，重新改寫",
+      "tags": [
+        "廢話文學",
+        "健康",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫學統計指出，凡是每天喝水的人，最後幾乎都離開了這個世界。\n至今尚未發現例外。",
+          "editorNote": "朋友在群組分享養生文時，回這句假裝補充專業數據",
+          "variations": [
+            "數據顯示，吃早餐的人壽命有限，不吃的人也一樣。",
+            "規律睡覺的人，醒來的機率非常高。"
+          ]
+        },
+        "en": {
+          "content": "Medical statistics show that nearly everyone who drinks water every day eventually leaves this world.\nNo exception has been recorded so far.",
+          "editorNote": "When a friend shares wellness tips in the chat, drop this as if adding expert data",
+          "variations": [
+            "Data shows people who eat breakfast have a finite lifespan — and so do those who skip it.",
+            "People who sleep regularly have an extremely high chance of waking up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-229",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://thunderdungeon.com/2025/07/30/technically-true-jokes-2/",
+      "sourceNote": "technically-true 笑話風格參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "技術上正確",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "什麼東西又綠又會跳？\n如果風夠大，那就是草。",
+          "editorNote": "想冷場時丟出來的萬用謎語，保證對話瞬間凝固",
+          "variations": [
+            "什麼東西是紅色又聞起來像紅油漆？答案是紅油漆。",
+            "為什麼叫小山？因為它是一座比較小的山。"
+          ]
+        },
+        "en": {
+          "content": "What's green and jumps?\nGrass — if the wind is strong enough.",
+          "editorNote": "A go-to riddle for killing the mood; guaranteed to freeze any conversation",
+          "variations": [
+            "What's red and smells like red paint? Red paint.",
+            "Why do they call it a small mountain? Because it's a smaller mountain."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-230",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://trivia.cracked.com/image-pictofact-14781-32-jokes-that-are-both-funny-and-technically-true",
+      "sourceNote": "technically-true 占卜笑話風格，重新改寫",
+      "tags": [
+        "廢話文學",
+        "技術上正確",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我今天的星座運勢寫著：「將會有事情發生。」\n到了晚上回頭看，它說得一點都沒錯。",
+          "editorNote": "朋友太迷信星座運勢時，傳這句溫柔吐槽",
+          "variations": [
+            "算命師說我未來會遇到一個人，結果我每天都遇到很多人，太準了。",
+            "預言說明年會過去，目前看來相當可信。"
+          ]
+        },
+        "en": {
+          "content": "My horoscope today read: \"Something will happen.\"\nLooking back tonight, it turned out to be completely accurate.",
+          "editorNote": "Send this to gently roast a friend who takes their horoscope too seriously",
+          "variations": [
+            "A fortune teller said I'd meet someone — and I met dozens of people that day. Spot on.",
+            "The prophecy says next year will pass. So far it's holding up remarkably well."
+          ]
+        }
+      }
     }
   ]
 }

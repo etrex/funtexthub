@@ -586,6 +586,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-024",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://sports.yahoo.com/soccer/live/2026-world-cup-scores-results-usmnt-throttles-paraguay-canada-earns-draw-with-bosnia-and-herzegovina-145258177.html",
+      "sourceNote": "澳洲 2-0 爆冷擊敗土耳其；改寫原創",
+      "tags": ["世界盃", "爆冷", "弱隊", "熱血"],
+      "i18n": {
+        "zh-tw": {
+          "content": "澳洲二比零把土耳其爆冷掉的那一晚，\n我明明誰都不支持，卻在沙發上跳起來大叫。\n世界盃最迷人的地方，\n從來不是強隊照劇本贏球，\n是那支沒人看好的隊伍，把所有人的預測撕成碎片。",
+          "editorNote": "傳給那個專門喜歡幫弱隊加油、爆冷時最興奮的朋友",
+          "variations": [
+            "我熬夜不是為了看強隊贏，是為了等那一個沒人想到的爆冷。",
+            "預測表上寫得越死，被推翻時就越過癮，這就是世界盃。"
+          ]
+        },
+        "en": {
+          "content": "The night Australia stunned Türkiye 2-0,\nI wasn't rooting for anyone, yet I leapt off the couch screaming.\nThe most thrilling thing about the World Cup\nwas never the favorites winning to script —\nit's the team nobody believed in shredding everyone's predictions to confetti.",
+          "editorNote": "For the friend who always cheers for the underdog and lives for an upset",
+          "variations": [
+            "I don't stay up to watch the favorites win. I stay up for the upset nobody saw coming.",
+            "The more certain the bracket looked, the sweeter it is when it gets torn up. That's the World Cup."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-025",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://sports.yahoo.com/soccer/live/2026-world-cup-scores-results-usmnt-throttles-paraguay-canada-earns-draw-with-bosnia-and-herzegovina-145258177.html",
+      "sourceNote": "巴西 vs 摩洛哥 1-1 互交白卷的平手；改寫原創",
+      "tags": ["世界盃", "平手", "強隊", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "巴西對摩洛哥，賽前我以為是一面倒，\n結果一比一收場，我也熬到天快亮。\n為了一場平手失去整夜睡眠，\n我跟那場比賽一樣——\n投入了所有，最後誰也沒贏。",
+          "editorNote": "傳給那個熬夜看完平手、隔天頂著黑眼圈問「我到底圖什麼」的朋友",
+          "variations": [
+            "一比一的平手，是兩隊都不甘心，加上我也沒睡飽。",
+            "看完平手的那種空虛，跟加班到半夜結果專案延期一模一樣。"
+          ]
+        },
+        "en": {
+          "content": "Brazil versus Morocco — I figured it'd be a blowout.\nIt finished 1-1, and I stayed up almost to sunrise for it.\nLosing a whole night's sleep over a draw,\nI'm just like that match:\nI gave everything, and in the end nobody won.",
+          "editorNote": "For the friend who watched a draw till dawn and asked the next morning, eye bags and all, 'what was I even doing'",
+          "variations": [
+            "A 1-1 draw: two teams left unsatisfied, plus me running on no sleep.",
+            "The emptiness after a draw is exactly like grinding past midnight only to have the project slip anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-026",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://woman.udn.com/woman/amp/story/123164/9525930",
+      "sourceNote": "開幕 LISA 登台、決賽 BTS/Shakira/Madonna 中場秀卡司；改寫原創",
+      "tags": ["世界盃", "中場秀", "卡司", "追星"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這屆連卡司都豪華到犯規，\n開幕請 LISA 登台，決賽還有 BTS、夏奇拉、瑪丹娜。\n我朋友本來說對足球沒興趣，\n看到卡司名單，立刻把鬧鐘調到凌晨三點。\n世界盃最強的地方，是它連不看球的人，都找得到熬夜的理由。",
+          "editorNote": "傳給那個不為比賽、純為中場秀卡司熬夜的追星朋友",
+          "variations": [
+            "有人為球熬夜，有人為偶像熬夜，凌晨三點的客廳大家各有所圖。",
+            "看不懂足球沒關係，看得懂卡司就夠你撐到天亮了。"
+          ]
+        },
+        "en": {
+          "content": "Even the lineup this year is unfairly stacked:\nLISA at the opener, then BTS, Shakira, and Madonna at the final.\nMy friend swore she had zero interest in soccer —\none look at the lineup and she set her alarm for 3 AM.\nThe World Cup's real power is giving even non-fans a reason to stay up.",
+          "editorNote": "For the K-pop friend staying up not for the match but purely for the halftime lineup",
+          "variations": [
+            "Some stay up for the football, some for their idols. At 3 AM, everyone in the living room has an angle.",
+            "You don't have to read the game. Reading the lineup is enough to keep you up till dawn."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-027",
+      "dateAdded": "2026-06-15",
+      "sourceUrl": "https://sports.yahoo.com/soccer/live/2026-world-cup-scores-results-usmnt-throttles-paraguay-canada-earns-draw-with-bosnia-and-herzegovina-145258177.html",
+      "sourceNote": "地主美國隊大勝巴拉圭、加拿大逼平波士尼亞；改寫原創",
+      "tags": ["世界盃", "地主", "首戰", "氣氛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "三個地主裡，美國首戰就痛電巴拉圭，\n加拿大則跟波士尼亞握手言和。\n身在台灣的我跟這三隊都沒淵源，\n卻在凌晨默默幫地主緊張，\n好像只要主辦國踢得好，這場我熬的夜就比較值得。",
+          "editorNote": "傳給那個明明沒有主隊、卻會自動幫地主加油的朋友",
+          "variations": [
+            "幫地主加油不需要理由，反正都是別人的國家，挑個踢得好看的就對了。",
+            "地主贏球的夜晚，連我的黑眼圈都覺得有面子。"
+          ]
+        },
+        "en": {
+          "content": "Of the three hosts, the U.S. throttled Paraguay in its opener,\nwhile Canada shook hands on a draw with Bosnia.\nSitting in Taiwan, I have no ties to any of them,\nyet at 3 AM I quietly root for the hosts,\nas if a strong showing from the home nations makes my lost sleep more worth it.",
+          "editorNote": "For the friend with no team of their own who automatically pulls for the host nations",
+          "variations": [
+            "You don't need a reason to back the hosts. They're all someone else's country anyway, so pick the one that plays the prettiest.",
+            "On a night the hosts win, even my eye bags feel a little proud."
+          ]
+        }
+      }
     }
   ]
 }
