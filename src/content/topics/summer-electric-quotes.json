@@ -1804,6 +1804,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-074",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.dcard.tw/f/talk/p/256070085",
+      "sourceNote": "Dcard 租屋處電費一度 6.5 元 電卡一週從 2000 掉到 970 register；改寫原創",
+      "tags": ["租屋", "電費", "一度6元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "搬進新租屋處的第一週，我才知道房東的「電費一度六塊五」不是數字，是一種定價的藝術。\n電卡儲值兩千，七天後剩九百七。\n我盯著那台冷氣，第一次體會到「每一口涼風都在燒錢」是字面上的意思。",
+          "editorNote": "傳給那個剛搬進去、發現房東電費比台電貴一倍還在懷疑人生的租屋族",
+          "variations": [
+            "房東的電費單價，是這個城市裡唯一不受夏月電價限制、可以自由發揮的數字。",
+            "租屋處的冷氣不是家電，是一台把我電卡餘額吸光的吸塵器。"
+          ]
+        },
+        "en": {
+          "content": "My first week in the new rental, I learned that the landlord's 'electricity is twenty cents a unit' isn't a number — it's the art of pricing.\nI loaded sixty bucks onto the meter card; seven days later it read twenty-nine.\nI stared at the AC and finally understood that 'every cool breath burns money' was meant literally.",
+          "editorNote": "For the renter who just moved in and is questioning life after seeing the landlord charge double the utility rate",
+          "variations": [
+            "The landlord's per-unit rate is the only number in this city that summer rate caps can't touch.",
+            "The rental AC isn't an appliance — it's a vacuum cleaner sucking my meter card dry."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-075",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/341274",
+      "sourceNote": "Dcard 開冷氣對北極熊道歉 環保罪惡感 register；改寫原創",
+      "tags": ["冷氣", "北極熊", "罪惡感", "環保"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我按下冷氣開關之前，會先在心裡跟北極熊說聲對不起。\n按下之後，再跟我的存款說聲對不起。\n一個夏天下來，我道歉的次數，比我這輩子對任何人類道歉的總和還多。\n結論：會用電的人有兩種罪惡感，一種對地球，一種對自己。",
+          "editorNote": "傳給那個開冷氣前要先做一輪心理掙扎、開完又有點愧疚的環保魂朋友",
+          "variations": [
+            "夏天的冷氣開關，是全世界按下去最有罪惡感的一顆按鈕。",
+            "我對北極熊的歉意是真的，但我對涼爽的需求，也是真的。"
+          ]
+        },
+        "en": {
+          "content": "Before I hit the AC switch, I quietly apologize to the polar bears.\nAfter I hit it, I apologize to my savings.\nOver one summer, I apologize more times than I have to any actual human in my entire life.\nConclusion: people who use electricity carry two guilts — one toward the planet, one toward themselves.",
+          "editorNote": "For the eco-conscious friend who agonizes before turning on the AC and feels guilty after",
+          "variations": [
+            "The AC switch is the most guilt-laden button on the planet to press.",
+            "My apology to the polar bears is real. So is my need to stop sweating."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-076",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.dcard.tw/f/savemoney/p/256035120",
+      "sourceNote": "Dcard 省錢版 這麼熱大家都去哪當冷氣乞丐 register；改寫原創",
+      "tags": ["冷氣乞丐", "省錢", "圖書館", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "省錢版最熱門的問題：「這麼熱，大家都去哪當冷氣乞丐？」\n底下答案五花八門：圖書館、百貨公司、IKEA、健身房、甚至有人說去看免費的房屋樣品屋。\n我邊看邊點頭，邊把這串留言存進手機，命名為「夏季逃難路線圖」。",
+          "editorNote": "傳給那個週末寧願在外面晃一整天、也不想回家開冷氣的省錢同好",
+          "variations": [
+            "現代人最務實的旅遊行程，是規劃一條完全不用付電費的冷氣路線。",
+            "當冷氣乞丐不丟臉，丟臉的是回家拆帳單那一刻的表情。"
+          ]
+        },
+        "en": {
+          "content": "The hottest question in the money-saving forum: 'It's boiling — where does everyone go to mooch AC?'\nThe answers pour in: libraries, department stores, IKEA, the gym, and one person even said the free model-home showrooms.\nI nod along, screenshot the whole thread, and save it under 'Summer Evacuation Routes.'",
+          "editorNote": "For the frugal friend who'd rather wander outside all weekend than run the AC at home",
+          "variations": [
+            "The most practical itinerary of the modern age is a cooling route that costs zero in electricity.",
+            "Mooching AC isn't embarrassing. What's embarrassing is your face the moment you open the bill at home."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-077",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/260203584",
+      "sourceNote": "Dcard 爸媽有錢其他方面不吝嗇但死不開冷氣 register；改寫原創",
+      "tags": ["爸媽", "冷氣", "省電", "世代"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸媽其他方面都很大方，唯獨冷氣，是他們守護一生的最後防線。\n買水果可以整箱搬，出國旅遊眼睛不眨，但只要我一開冷氣，整個家的氣壓瞬間下降三度，比冷氣還有效。\n結論：他們不是不捨得花錢，是捨不得花在「會涼」這件事上。",
+          "editorNote": "傳給那個夏天回家、伸手要開冷氣前都要先觀察爸媽臉色的成年子女",
+          "variations": [
+            "我爸對冷氣的態度，是這個家唯一通膨打不倒的堅持。",
+            "在我家，開冷氣不是按一個鈕，是一場需要先報備、再說服的家庭協商。"
+          ]
+        },
+        "en": {
+          "content": "My parents are generous about everything except the AC, which is the final line they've defended their whole lives.\nThey'll haul home a whole crate of fruit, book an overseas trip without blinking — but the second I turn on the AC, the air pressure in the house drops three degrees, faster than the AC ever could.\nConclusion: it's not that they hate spending money. They hate spending it on 'being cool.'",
+          "editorNote": "For the grown kid who has to read their parents' faces before reaching for the AC remote at home",
+          "variations": [
+            "My dad's stance on the AC is the one thing in this house that inflation could never shake.",
+            "In my home, turning on the AC isn't pressing a button — it's a family negotiation requiring advance notice and a persuasive case."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-078",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.repair-crm.com/2026/03/27/50-relatable-hvac-memes-why-the-daily-grind-is-better-with-a-laugh-in-2026",
+      "sourceNote": "2026 HVAC meme AC bill arrives heart attack register；改寫原創",
+      "tags": ["冷氣", "帳單", "心臟", "HVAC"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天我家有兩台機器在運轉：\n一台是冷氣，負責讓房間降溫；\n一台是我的心臟，負責在帳單寄到那天，自動加速到讓我懷疑要不要叫救護車。\n它們最大的差別是：冷氣可以調溫度，我的心跳不行。",
+          "editorNote": "傳給那個每次拆帳單前都要先把手放在胸口、深呼吸三次的朋友",
+          "variations": [
+            "夏天最耗電的家電是冷氣，最耗心臟的，是它寄來的那張帳單。",
+            "我的冷氣負責降溫，我的血壓負責升溫，兩者在帳單那天正式交班。"
+          ]
+        },
+        "en": {
+          "content": "In summer, two machines run in my home:\none is the AC, in charge of cooling the room;\nthe other is my heart, in charge of spiking on bill day until I wonder whether to call an ambulance.\nThe key difference: the AC has a temperature setting. My heart rate does not.",
+          "editorNote": "For the friend who places a hand on their chest and takes three deep breaths before every bill",
+          "variations": [
+            "The most power-hungry appliance in summer is the AC. The most heart-hungry is the bill it sends.",
+            "My AC handles the cooling, my blood pressure handles the heating, and they hand off the shift on bill day."
+          ]
+        }
+      }
     }
   ]
 }

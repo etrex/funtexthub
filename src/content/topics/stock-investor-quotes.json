@@ -1686,6 +1686,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-068",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://newtalk.tw/news/view/2026-05-15/1035313",
+      "sourceNote": "2026 題材股本益比數十倍 / 散戶以『未來 AI 成長』為由追高 register；改寫原創",
+      "tags": ["本益比", "追高", "題材股", "AI"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我買的那檔股票本益比五十倍，朋友說太貴了。\n我說你不懂，這是在買它的未來。\n半年後它跌回十倍，我才發現，原來我買的不是未來，是別人已經先賺走的過去。\n所謂『買成長性』，翻譯成白話就是：用十年後的好消息，付今天追高的帳單。",
+          "editorNote": "送給每個用『買未來』說服自己追高本益比題材股的同好",
+          "variations": [
+            "本益比五十倍的意思是，公司要連續賺五十年，我才剛好回本。",
+            "我不是買貴，我是買得很有遠見——遠到本金都看不見了。"
+          ]
+        },
+        "en": {
+          "content": "The stock I bought trades at fifty times earnings. My friend said it was too expensive.\nI told him he didn't get it — I was buying its future.\nSix months later it fell back to ten times, and I realized I hadn't bought the future. I'd bought a past that someone smarter had already cashed out of.\n'Buying growth,' translated into plain language, means paying today's top-chasing bill with good news from ten years out.",
+          "editorNote": "For everyone who talks themselves into a sky-high-multiple hype stock by calling it 'buying the future'",
+          "variations": [
+            "A 50x P/E means the company has to print money for fifty straight years before I break even.",
+            "I didn't overpay. I bought with great foresight — so far ahead I can no longer see my principal."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-069",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://newtalk.tw/news/view/2026-05-15/1035313",
+      "sourceNote": "2026 Line 群組 / 名嘴帶風向 利多利空謠言 register；改寫原創",
+      "tags": ["名嘴", "謠言", "帶風向", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "群組裡的名嘴喊：這檔利多滿天飛，明天起漲。\n我隔天衝進去，它跌停。\n同一個名嘴改口：這叫洗盤，洗完才會噴。\n洗了一個月，洗掉的不是浮額，是我的本金。\n後來我才懂，名嘴從來沒說錯，因為不管漲跌，他都有一套說法在等我。",
+          "editorNote": "適合在又被群組『老師看法』推坑後，提醒自己誰在帶風向",
+          "variations": [
+            "名嘴的話永遠是對的，因為漲了叫看對，跌了叫洗盤。",
+            "他帶的不是風向，是我的單。"
+          ]
+        },
+        "en": {
+          "content": "The pundit in the group chat shouts: this one's flooded with good news, it rips tomorrow.\nI charge in the next day. Limit down.\nSame pundit, new line: that's a shakeout, it only moons after it shakes.\nIt shook for a month. What got shaken out wasn't the weak hands — it was my principal.\nThen I understood: the pundit is never wrong, because whether it goes up or down, he's already got a story waiting for me.",
+          "editorNote": "For the moment you get talked into a position by 'the teacher's take' again — remember who's steering the narrative",
+          "variations": [
+            "The pundit is always right: if it goes up, he called it; if it drops, it's a shakeout.",
+            "He wasn't steering the narrative. He was steering my order."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-070",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://jokejuicer.com/stock-market-jokes/",
+      "sourceNote": "「make a small fortune on Wall Street — start with a large one」經典改寫 register；改寫原創",
+      "tags": ["自嘲", "本金", "厭世", "經典"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我，怎麼在股市裡賺到一筆小錢。\n我說很簡單：先準備一筆大錢。\n進場兩年，我成功了，我的大錢真的變成了小錢。\n唯一的問題是，這個方法太有效，再玩下去，小錢都要變成零用錢了。",
+          "editorNote": "送給每個本金越玩越小、還在自嘲『至少有經驗』的同好",
+          "variations": [
+            "我在股市裡學會了縮小的魔法，目標物是我的本金。",
+            "別人進股市是想以小搏大，我是成功地以大搏小。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked me how to make a small fortune in the market.\nI said it's easy: start with a large one.\nTwo years in, I succeeded — my large fortune really did become a small one.\nThe only problem is the method works too well. Keep going and the small fortune turns into spare change.",
+          "editorNote": "For everyone whose account keeps shrinking while they joke that 'at least I got the experience'",
+          "variations": [
+            "I learned a shrinking spell in the market. The target was my principal.",
+            "Other people come in to turn small money into big. I successfully turned big money into small."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-071",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://vocus.cc/article/6a2b4d30fd89780001627dd6",
+      "sourceNote": "2026/6/12 台股『高開留人』攻防 / 開高走低套人 register；改寫原創",
+      "tags": ["高開低走", "追高", "套牢", "看盤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "早盤跳空高開，紅通通的，新聞說氣勢如虹。\n我怕錯過，開盤就追了進去。\n結果它高開只是為了留人，留的那個人就是我。\n收盤一根長黑，我才懂，原來『高開留人』的『人』，從頭到尾講的都是我這種人。",
+          "editorNote": "適合在又被開高走低套在開盤價的傍晚，貼在群組互相取暖",
+          "variations": [
+            "跳空高開的紅，是專門用來引我上鉤的餌。",
+            "我追的不是強勢，是別人精心鋪好的逃命通道。"
+          ]
+        },
+        "en": {
+          "content": "The market gapped up at the open, all red, headlines screaming unstoppable momentum.\nTerrified of missing out, I chased in right at the bell.\nTurns out it only gapped up to keep someone holding the bag — and that someone was me.\nA long black candle at the close, and I finally understood: the 'someone' in 'gap up to trap someone' was always a guy exactly like me.",
+          "editorNote": "For the evening you got bagged at the opening price by another gap-up-fade — share in the chat for mutual comfort",
+          "variations": [
+            "The red of a gap-up open is just bait laid out specifically to hook me.",
+            "I wasn't chasing strength. I was chasing the escape route someone else carefully built."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-072",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260104700007-430201",
+      "sourceNote": "2026『先修正再出發』達人觀點 / 套牢者拿來自我安慰 register；改寫原創",
+      "tags": ["修正", "套牢", "自欺", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "達人說：好股票要先修正再出發。\n我深套的這檔，已經修正了八個月。\n我每天看著它，告訴自己它正在蓄力，馬上就要出發。\n後來我終於懂了，原來它不是在修正，它是真的不想出發，是我一個人在月台上等了一班永遠不會來的車。",
+          "editorNote": "送給每個用『它在修正、之後會噴』催眠自己的長期套牢者",
+          "variations": [
+            "我這檔不是在修正，是在原地修身養性，順便修掉我的本金。",
+            "達人說的『修正再出發』我信了一半——修正是真的，出發是我自己加的。"
+          ]
+        },
+        "en": {
+          "content": "The guru says: good stocks correct first, then take off.\nThe one I'm deeply underwater on has been 'correcting' for eight months.\nEvery day I look at it and tell myself it's coiling up, about to launch any minute.\nEventually I got it: it isn't correcting. It genuinely has no intention of launching. I'm just one guy on the platform waiting for a train that's never coming.",
+          "editorNote": "For the long-term bagholder hypnotizing themselves with 'it's correcting, it'll rip later'",
+          "variations": [
+            "Mine isn't correcting. It's standing perfectly still, meditating, quietly correcting away my principal too.",
+            "I believed half of the guru's 'correct then launch' — the correcting part is real; the launching part I added myself."
+          ]
+        }
+      }
     }
   ]
 }

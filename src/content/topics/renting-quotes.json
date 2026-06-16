@@ -3043,6 +3043,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-125",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://house.udn.com/house/story/123591/9395784",
+      "sourceNote": "2026 租補變相助長漲租 房東加價比補助多 register; rewritten original",
+      "tags": ["補助", "漲租", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我看上一間標「可租補」的房子，\n看到租金才發現——\n它漲的比補助還多。\n所謂可租補，是房東先幫你領，再幫你還。",
+          "editorNote": "傳給正在找標榜可申請補助、結果租金被先墊高的朋友，提醒他自己算一下淨值",
+          "variations": [
+            "「可租補」三個字是房東的漲價許可證，補助到我手上之前先繞房東一圈。",
+            "我以為可租補是優惠，後來發現是房東提前把補助算進房租裡的暗號。"
+          ]
+        },
+        "en": {
+          "content": "I found a place advertised as 'subsidy-eligible.'\nThen I saw the rent —\nit was raised by more than the subsidy itself.\n'Subsidy-eligible' means the landlord collects it for you, then makes you give it back.",
+          "editorNote": "Send to a friend hunting for a 'subsidy-eligible' rental only to find the rent pre-inflated — remind them to run the net math themselves",
+          "variations": [
+            "The phrase 'subsidy-eligible' is the landlord's permission slip to raise the price. The subsidy detours through him before it reaches me.",
+            "I thought 'subsidy-eligible' was a perk. Turns out it's code for the landlord pricing the subsidy in before you even apply."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-126",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/260662916",
+      "sourceNote": "2026 租補不承認頂加 5+6 榮景不再 register; rewritten original",
+      "tags": ["違建", "頂加", "補助", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新制說頂加不算合法住宅，不能領補助。\n所以我繳的不是房租，是「在屋頂上存在」的服務費，\n而且這項服務政府不承認、房東不負責、補助不適用。",
+          "editorNote": "傳給住頂加、夾層、鐵皮屋被新制排除在補助外的朋友，互相苦笑這個身分",
+          "variations": [
+            "我住的地方，政府說不算房子，房東說算他的，補助說不算我的。",
+            "頂加的房客最懂什麼叫三不管地帶——三方都管不到，只有房租管得到我。"
+          ]
+        },
+        "en": {
+          "content": "The new rule says rooftop add-ons aren't legal housing, so no subsidy for me.\nSo what I pay isn't rent — it's a service fee for 'existing on a roof,'\na service the government won't recognize, the landlord won't cover, and the subsidy won't touch.",
+          "editorNote": "Send to a friend in a rooftop shack or loft cut out of the new subsidy rules — a bitter laugh at the limbo status",
+          "variations": [
+            "The place I live: the government says it's not a house, the landlord says it's his, the subsidy says it's not mine.",
+            "Rooftop tenants know 'no man's land' best — nobody's jurisdiction reaches me, but the rent always does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-127",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 'congrats on a home, can afford nothing else' meme; rewritten original",
+      "tags": ["房租", "薪水", "存錢", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "恭喜你，有一個自己的家。\n壞消息是，繳完房租之後，\n你能負擔的就只剩下那個家而已。",
+          "editorNote": "適合每月一號繳完房租、看著存款歸零的朋友轉發，配一張只剩泡麵的廚房照",
+          "variations": [
+            "我有一個遮風避雨的家，代價是這輩子都不能有別的東西。",
+            "房租繳完，我的人生選項從「想吃什麼」變成「還剩什麼」。"
+          ]
+        },
+        "en": {
+          "content": "Congratulations, you have a home of your own.\nThe bad news is, after rent,\nthe only thing you can afford is that home.",
+          "editorNote": "Perfect for the first of the month, watching your balance hit zero — pair it with a photo of a kitchen down to instant noodles",
+          "variations": [
+            "I have a roof over my head. The price is never being able to have anything else.",
+            "After rent clears, my life's menu changes from 'what do I want' to 'what's left.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-128",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/254845999",
+      "sourceNote": "2026 看房該問什麼問題 register; rewritten original",
+      "tags": ["看房", "問題", "房東", "找房"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房的時候我學會問三個問題：\n「冬天會不會反潮？」「隔壁吵不吵？」「漏水你修不修？」\n房東三題都答「不會」，\n我才知道最會漏的，是他的良心。",
+          "editorNote": "傳給第一次自己看房、不知道該問什麼的朋友，提醒他房東說不會的，通常都會",
+          "variations": [
+            "看房必問題庫：會不會潮、會不會吵、會不會漏；房東必答模板：不會、不會、不會。",
+            "房東說「這房子沒什麼問題」，翻譯成中文是「問題等你住進來才會出現」。"
+          ]
+        },
+        "en": {
+          "content": "Touring a place, I learned to ask three questions:\n'Does it get damp in winter?' 'Are the neighbors loud?' 'Will you fix leaks?'\nThe landlord answered 'no' to all three —\nand that's how I learned the biggest leak was his conscience.",
+          "editorNote": "Send to a friend touring their first apartment and unsure what to ask — whatever the landlord swears won't happen usually does",
+          "variations": [
+            "Apartment-tour question bank: damp, loud, leaks? Landlord answer template: no, no, no.",
+            "Landlord said 'this place has no problems.' Translation: 'the problems wait until you move in.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-129",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://cheezburger.com/36338181/24-relatable-apartment-memes-for-tired-renters-ready-to-own-property",
+      "sourceNote": "2026 tired of renting ready to own meme; rewritten original",
+      "tags": ["買房", "夢想", "存錢", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我每個月都告訴自己：\n再撐一年就存夠頭期款。\n這句話我跟房東續約了五次，\n房東的房貸都快繳完了，我的頭期款還在原地。",
+          "editorNote": "傳給每年都說要存錢買房、卻一直在幫房東繳房貸的朋友，溫柔地拍拍他",
+          "variations": [
+            "我繳的房租加起來，足夠買下房東當初買這間房的價格。",
+            "存頭期款像減肥，我每年都說要開始，每年都繼續繳房租。"
+          ]
+        },
+        "en": {
+          "content": "Every month I tell myself:\none more year and I'll have the down payment saved.\nI've said that through five lease renewals.\nThe landlord's almost paid off his mortgage, and my down payment hasn't moved an inch.",
+          "editorNote": "Send to a friend who vows to save for a house every year but keeps paying down the landlord's mortgage instead — a gentle pat on the back",
+          "variations": [
+            "Add up all the rent I've paid, and it covers what the landlord originally paid for this place.",
+            "Saving a down payment is like dieting: I swear I'll start every year, and every year I just keep paying rent."
+          ]
+        }
+      }
     }
   ]
 }

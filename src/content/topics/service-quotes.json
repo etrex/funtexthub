@@ -3718,6 +3718,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-154",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the Dcard 'classic 奧客 lines' thread — specifically the 別家店都可以 trope — into a service worker's deadpan internal reply",
+      "tags": [
+        "服務業",
+        "奧客",
+        "經典語錄",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人說：「別家店都可以，只有你們這裡不行。」\n我笑著心想：那您怎麼沒去別家，是別家也婉拒您了嗎？",
+          "editorNote": "服務業最熟的開場白前三名，永遠是那個我們從沒見過的「別家店」。傳給每天被無形的別家店比下去的同事。",
+          "variations": [
+            "「別家店都可以」這句話的別家店，至今還是個傳說，沒人找得到。",
+            "您口中那間什麼都可以的別家店，建議您直接定居那裡。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Every other store lets me do this — only you guys won't.\"\nMe, smiling: Then why aren't you at every other store? Did they turn you down too?",
+          "editorNote": "Top three opening lines every service worker knows by heart, always starring that mythical 'every other store' none of us has ever seen. Send to the coworker who loses daily to an invisible competitor.",
+          "variations": [
+            "That 'every other store' you keep mentioning is a legend — nobody has ever located it.",
+            "If that magical store lets you do anything, may I suggest you move in there permanently?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-155",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/funny/",
+      "sourceNote": "Reframes the Help Scout 'customer service is like being a superhero with a headset instead of a cape' line into a fresh self-deprecating angle without the cape cliché",
+      "tags": [
+        "服務業",
+        "客服",
+        "情緒勞動",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人上班靠專業，\n我上班靠演技。\n每天戴上耳機那一秒，就是奧斯卡開拍。",
+          "editorNote": "客服的工作其實是表演藝術，只是沒有獎座也沒有掌聲，只有下一通電話。傳給那個聲音永遠很甜、私下很厭世的客服朋友。",
+          "variations": [
+            "我的工作內容：把『關你什麼事』翻譯成『非常感謝您的寶貴意見』。",
+            "耳機一戴，影帝上身；耳機一拿，瞬間斷電。"
+          ]
+        },
+        "en": {
+          "content": "Other people show up to work and use their skills.\nI show up to work and use my acting range.\nThe second I put the headset on, the cameras start rolling.",
+          "editorNote": "Customer service is performance art — just without the trophy, the applause, or the wrap party. Only the next call. Send to the friend whose phone voice is sugar and whose soul is dead inside.",
+          "variations": [
+            "My actual job: translating 'none of your business' into 'thank you so much for that valuable feedback.'",
+            "Headset on, Oscar winner. Headset off, instantly unplugged."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-156",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://money.udn.com/money/story/5648/8706388",
+      "sourceNote": "Adapts the UDN 職場厭世語錄 listicle tone (餘額不足 / 準時下班需要勇氣) into a service-shift-specific closing-time lament",
+      "tags": [
+        "服務業",
+        "厭世",
+        "下班",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "都打烊了，\n門口那位客人還在門縫裡跟我對眼神。\n我們之間隔的不是玻璃，是我準時下班的全部勇氣。",
+          "editorNote": "打烊前五分鐘走進來的客人，是所有服務業共同的噩夢。傳給那個鐵門拉一半、心也涼一半的夥伴。",
+          "variations": [
+            "招牌燈關了，您的購物慾怎麼還亮著？",
+            "我們已打烊，但您的需求顯然還在營業中。"
+          ]
+        },
+        "en": {
+          "content": "We're closed,\nyet there's a customer at the door, locking eyes with me through the gap.\nWhat's between us isn't the glass — it's every ounce of courage I need to clock out on time.",
+          "editorNote": "The customer who walks in five minutes before close is the shared nightmare of every service job. Send to the coworker whose shutter is half-down and whose hope is fully gone.",
+          "variations": [
+            "The sign's off — why is your urge to shop still glowing?",
+            "We're closed, but your needs are apparently open 24 hours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-157",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://thoughtcatalog.com/january-nelson/2019/10/30-fierce-comebacks-waiters-and-retail-workers-can-give-to-their-rudest-customers/",
+      "sourceNote": "Rewrites the Thought Catalog 'you'd look better if you smiled / you'd look better if you showered' comeback into a cleaner, content-safe internal-monologue version",
+      "tags": [
+        "服務業",
+        "奧客",
+        "尊嚴",
+        "金句"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人說：「你笑一個會比較好看。」\n我心想：您客氣一點，也會比較好相處，但我們都沒這麼做，對吧。",
+          "editorNote": "被陌生人命令『笑一個』的瞬間，是服務業最想翻白眼的時刻之一。微笑是服務，不是義務。傳給那個被要求微笑到臉抽筋的人。",
+          "variations": [
+            "我的笑容不是售後服務，恕不附贈。",
+            "您要的微笑，今天剛好賣完了。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"You'd look prettier if you smiled.\"\nMe, internally: You'd be easier to deal with if you were polite, but neither of us is doing that today, are we?",
+          "editorNote": "Being ordered to 'smile' by a stranger is one of the all-time great eye-roll moments in service work. A smile is a service, not an obligation. Send to the one whose face is cramping from forced grins.",
+          "variations": [
+            "My smile isn't an after-sales perk — sorry, not included.",
+            "The smile you ordered? Just sold out for today."
+          ]
+        }
+      }
     }
   ]
 }

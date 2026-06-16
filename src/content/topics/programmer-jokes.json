@@ -6718,6 +6718,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-232",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "Copilot-suggested-the-bug meme family — rewritten",
+      "tags": [
+        "AI",
+        "Copilot",
+        "除錯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我花了三天才寫出來的 bug，AI 助手三秒鐘就自動補完幫我寫好了。\n看來它比我還懂我。",
+          "editorNote": "傳給最近開始用 AI 寫程式、卻發現 bug 沒有變少的同事，保證會心一笑。",
+          "variations": [
+            "AI 補完的程式碼跑起來了，問題是沒有人知道為什麼會跑起來。",
+            "它不是在幫我寫程式，它是在幫我更快地製造 bug。"
+          ]
+        },
+        "en": {
+          "content": "It took me three days to write that bug.\nMy AI assistant just autocompleted the exact same one in three seconds.\nGuess it knows me better than I know myself.",
+          "editorNote": "Send to the teammate who started 'vibe coding' and noticed the bug count didn't actually go down.",
+          "variations": [
+            "The AI-generated code runs. Nobody on the team knows why it runs.",
+            "It's not helping me write code, it's helping me ship bugs faster."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-233",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/copilot-has-ruined-code-reviewing-for-me-a0e9",
+      "sourceNote": "AI-generated PR review fatigue meme — rewritten",
+      "tags": [
+        "AI",
+        "Code Review",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前 code review 是看同事寫了什麼。\n現在 code review 是看同事按了幾次 Tab。",
+          "editorNote": "適合在團隊群組丟出來，當大家又收到一個五百行卻沒人看得懂的 PR 時。",
+          "variations": [
+            "PR 說明欄：『AI 幫我寫的，應該沒問題。』審查者已哭暈在鍵盤上。",
+            "五分鐘生成的程式碼，換來五個月的維護地獄。"
+          ]
+        },
+        "en": {
+          "content": "Code review used to mean reading what my coworker wrote.\nNow code review means counting how many times they pressed Tab.",
+          "editorNote": "Drop this in the team channel the next time a 500-line PR shows up that nobody — including the author — can explain.",
+          "variations": [
+            "PR description: 'The AI wrote it, should be fine.' Reviewer has left the building.",
+            "'Generated in five minutes' is just another way of saying 'five months of debugging.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-234",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://snugfam.com/101-funny-programmer-quotes-that-will-make-every-coder-laugh-out-loud-in-2025/",
+      "sourceNote": "3AM AI confidently-wrong-answer joke — rewritten",
+      "tags": [
+        "AI",
+        "加班",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，我問 AI 為什麼這段程式會壞。\n它非常有自信地給了我一個答案。\n那個答案，是錯的。\n但它的語氣，比我這輩子任何一個老闆都更堅定。",
+          "editorNote": "獻給所有熬夜 debug、還被 AI 用滿滿自信誤導過的工程師。",
+          "variations": [
+            "AI 最危險的不是它會錯，是它錯得理直氣壯。",
+            "它沒解決我的問題，但它成功讓我懷疑是不是我自己有問題。"
+          ]
+        },
+        "en": {
+          "content": "3 a.m. I ask the AI why my code is broken.\nIt gives me an answer with total confidence.\nThe answer is wrong.\nBut it's more sure of itself than any boss I've ever had.",
+          "editorNote": "For everyone who's been confidently gaslit by an AI assistant during a midnight debugging session.",
+          "variations": [
+            "The scary part isn't that the AI is wrong — it's how proud it is about being wrong.",
+            "It didn't fix my bug, but it did make me question whether I was the bug."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-235",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "AI-wrangler managing multiple assistants meme — rewritten",
+      "tags": [
+        "AI",
+        "工程師思維",
+        "職涯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2016 年：我是後端工程師。\n2020 年：我是全端工程師。\n2026 年：我是 AI 馴獸師，負責管理三個會吵架的 AI 助手，外加四份訂閱費。",
+          "editorNote": "傳給職稱每兩年就被迫升級一次、但薪水沒跟著升級的工程師朋友。",
+          "variations": [
+            "我的工作不再是寫程式，而是說服三個 AI 它們講的話互相矛盾。",
+            "現在最難的技能不是寫程式，是寫出讓 AI 聽得懂的 prompt。"
+          ]
+        },
+        "en": {
+          "content": "2016: I'm a backend developer.\n2020: I'm a full-stack developer.\n2026: I'm an AI wrangler, managing three assistants that disagree with each other and four subscriptions that don't.",
+          "editorNote": "Send to the friend whose job title gets 'upgraded' every two years while the salary stays exactly the same.",
+          "variations": [
+            "My job isn't writing code anymore — it's convincing three AIs that they're contradicting each other.",
+            "The hardest skill in 2026 isn't coding. It's writing a prompt the AI actually understands."
+          ]
+        }
+      }
     }
   ]
 }

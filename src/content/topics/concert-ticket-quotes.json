@@ -1874,6 +1874,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-082",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20260522edi062",
+      "sourceNote": "鏡週刊 5/22：拓元大規模鎖帳號，粉絲僅按 F5 重新整理即被判定外掛遭永久停權，官方稱無誤判案例",
+      "tags": ["F5", "永久停權", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是按了 F5。\n\n系統說這個速度\n「不是人類做得到的」,\n\n然後永久停權。\n\n原來我這輩子\n唯一被誇手快的時刻,\n\n是被當成機器人。",
+          "editorNote": "「按 F5 被判外掛永久停權」是 5/22 最炸鍋的搶票新聞。傳給剛收到停權通知、還搞不清楚自己做錯什麼的朋友",
+          "variations": [
+            "升級版:「人類太慢搶不到,人類太快被停權。原來這系統要的不是人,是一個剛剛好的不存在。」"
+          ]
+        },
+        "en": {
+          "content": "I just hit F5.\n\nThe system said that speed\n'isn't humanly possible'\n\nand banned me for life.\n\nTurns out the one time\nanyone ever praised my reflexes,\n\nit was to call me a bot.",
+          "editorNote": "Getting permabanned for refreshing too fast is the rage story of the season. Send to a friend who just got a suspension notice and still can't figure out what they did wrong",
+          "variations": [
+            "Upgrade: 'Too slow and you miss out. Too fast and you're banned. This system doesn't want a human — it wants a perfectly calibrated nobody.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-083",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.cbsnews.com/amp/news/fans-upset-finding-bruce-springsteen-tickets-stubhub-nearly-10k",
+      "sourceNote": "粉絲在轉售平台看到天價票，浮動定價將演算法需求轉化為翻倍票價；CBS 報導近萬美元黃牛票",
+      "tags": ["浮動定價", "演算法", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我盯著票價,\n它在我眼前\n自己往上跳了一次。\n\n不是我刷新,\n是它看到太多人想要,\n就決定多收我一點。\n\n原來連我的渴望,\n都被拿來定價。",
+          "editorNote": "浮動定價讓票價在結帳前即時上漲，把粉絲的熱情量化成漲價理由。傳給看著價格在眼前跳動、手停在結帳鍵上的朋友",
+          "variations": [
+            "清醒版:「演算法不賣票,賣的是你有多想要。你越愛,它越貴——這是全世界最殘忍的定價公式。」"
+          ]
+        },
+        "en": {
+          "content": "I was staring at the price\nwhen it ticked up\nright in front of me.\n\nI didn't refresh.\nIt just saw how many people wanted in\nand decided to charge me more.\n\nTurns out even my longing\ngets priced into the model.",
+          "editorNote": "Dynamic pricing that climbs before checkout turns fan enthusiasm into a surcharge. Send to a friend watching the number rise with their finger frozen over the buy button",
+          "variations": [
+            "Sober version: 'The algorithm isn't selling tickets, it's selling how badly you want one. The more you love it, the more it costs — the cruelest pricing formula on earth.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-084",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.ticketnews.com/2026/05/olivia-rodrigo-fans-blast-presale-ticket-prices-world-tour/",
+      "sourceNote": "Verified Fan 預售制：粉絲須先註冊取得認證碼才能進場購票，註冊免費但名額有限、抽中才放行",
+      "tags": ["認證粉絲", "預售碼", "資格", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們推「認證粉絲」制度,\n說是為了把票還給真粉。\n\n我註冊、我等待、\n我證明我真的喜歡。\n\n結果認證沒過。\n\n所以我喜歡了十年,\n還是\n沒被系統認證為粉絲。",
+          "editorNote": "Verified Fan 認證制把「夠不夠粉」交給系統判定，沒抽中等於不被承認。傳給乖乖註冊卻連購票資格都沒拿到的朋友",
+          "variations": [
+            "認證版:「我的愛需要一組驗證碼才算數。沒收到碼的那天,我才知道原來喜歡也會被退件。」"
+          ]
+        },
+        "en": {
+          "content": "They rolled out 'verified fan,'\nsaid it was to give tickets back to real fans.\n\nI registered. I waited.\nI proved I actually care.\n\nDidn't get verified.\n\nSo I've loved them for ten years\nand still\ndidn't pass the system's fan check.",
+          "editorNote": "Verified-fan gatekeeping outsources 'are you fan enough' to an algorithm — no code means no recognition. Send to a friend who dutifully registered and never got picked",
+          "variations": [
+            "Certified version: 'My love needs a verification code to count. The day no code arrived, I learned that even caring can get rejected.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-085",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.ticketfairy.com/blog/mastering-event-ticket-pricing-in-2026-from-early-birds-to-dynamic-pricing-vip-packages",
+      "sourceNote": "2026 產業趨勢：部分平台測試「all-in pricing」全包式定價，結帳前直接顯示含手續費總價",
+      "tags": ["手續費", "全包定價", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新趨勢:「全包式定價」。\n\n結帳前\n就讓你看到含手續費的總價。\n\n粉絲感動到哭,\n說終於有人誠實。\n\n但等一下——\n\n「事先告訴你要付多少」\n值得感動到哭,\n\n代表我們以前被偷襲過幾次?",
+          "editorNote": "「結帳前就顯示總價」竟成創新賣點，反映粉絲被隱藏手續費坑了太多次。傳給以前在最後一步被手續費嚇到的朋友",
+          "variations": [
+            "清醒版:「把總價算給你看叫『創新』。當誠實變成賣點,代表這產業預設的是不誠實。」"
+          ]
+        },
+        "en": {
+          "content": "New trend: 'all-in pricing.'\n\nIt shows you the total, fees included,\nbefore you check out.\n\nFans are tearing up,\ncalling it honest at last.\n\nBut hold on —\n\nif 'telling you the price upfront'\nis moving us to tears,\n\nhow many times were we ambushed before?",
+          "editorNote": "When 'showing the full price before checkout' counts as innovation, it reveals how often hidden fees blindsided fans. Send to a friend who's been gut-punched by service charges at the final step",
+          "variations": [
+            "Sober version: 'Doing the math out loud is now called innovation. When honesty becomes a selling point, the default setting was dishonesty.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-086",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.concertsandtickets.com/blog/ticket-price-change-psychology/",
+      "sourceNote": "轉售平台高價掛牌被演算法讀為市場價值上升，回頭推升原始票價，形成漲價迴圈",
+      "tags": ["轉售", "迴圈", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "黃牛把票掛上天價,\n系統看到那個數字,\n就以為「市場願意付這麼多」,\n\n於是原始票價\n也跟著漲。\n\n所以是黃牛先抬價,\n系統再跟著抬,\n\n最後一起\n抬走我的錢包。",
+          "editorNote": "轉售高價掛牌反過來推升原始票價，形成黃牛與系統互相抬轎的迴圈。傳給發現「連官方原價都被黃牛帶高」而崩潰的朋友",
+          "variations": [
+            "迴圈版:「黃牛抬價→系統看到→原價跟漲→黃牛再抬。這不是市場,這是一台只往一個方向轉的絞肉機。」"
+          ]
+        },
+        "en": {
+          "content": "Scalpers list tickets at insane prices,\nthe system sees those numbers\nand assumes 'the market will pay this much,'\n\nso the original price\nclimbs to match.\n\nSo the scalpers jack it up first,\nthe system follows,\n\nand together\nthey walk off with my wallet.",
+          "editorNote": "Sky-high resale listings feed the algorithm and drag primary prices up, a loop where scalpers and the system boost each other. Send to a friend who just realized even face value got dragged upward",
+          "variations": [
+            "Loop version: 'Scalper hikes it → system notices → face value rises → scalper hikes again. That's not a market, it's a meat grinder that only turns one way.'"
+          ]
+        }
+      }
     }
   ]
 }

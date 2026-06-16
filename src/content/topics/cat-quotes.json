@@ -4411,6 +4411,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "ct-179",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "",
+      "sourceNote": "貓咪無視昂貴貓床、偏愛紙箱的經典行為，原創改寫",
+      "tags": ["主子", "貓咪", "紙箱", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你花了兩千塊買了一張記憶棉貓床。\n\n本喵的評估結果：\n床——不行。\n那個裝床的紙箱——完美。\n\n錢是你的事，品味是我的事。",
+          "editorNote": "傳給剛幫貓買了高級用品、結果貓只玩箱子的朋友——附上一張貓塞在小紙箱裡的照片效果最好",
+          "variations": [
+            "進階版：那張床我會去躺，但只在你拍照拍累了、放棄了之後。",
+            "土味版：唯一能讓我離開紙箱的，是你坐下來的那個位置——因為那裡有你。"
+          ]
+        },
+        "en": {
+          "content": "You spent sixty bucks on a memory-foam cat bed.\n\nMy official review:\nThe bed — no.\nThe box the bed came in — perfect.\n\nYour money is your business. My taste is mine.",
+          "editorNote": "Send to a friend who just bought their cat something fancy and watched it play with the box instead — works best with a photo of a cat wedged into a tiny box",
+          "variations": [
+            "Advanced version: I will lie on the bed, but only after you've given up taking photos of me on it.",
+            "Sweet version: the only thing that gets me out of the box is the spot you just sat down in. That one has you in it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-180",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "",
+      "sourceNote": "貓咪總在飼主忙碌時索討關注，原創主子語錄",
+      "tags": ["主子", "貓咪", "關注", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "本喵的關愛排程：\n你睡覺時——清醒。\n你工作時——需要抱抱。\n你想抱我時——消失。\n\n時機就是一切。",
+          "editorNote": "傳給遠端工作、每次開會貓就跳上鍵盤的朋友——這是全天下貓奴的共同命運",
+          "variations": [
+            "進階版：我能精準算出你最不方便的那一秒，然後在那一秒坐到你的筆電上。",
+            "土味版：我挑你最忙的時候討抱，不是故意的——是因為我也只有那時候最想你。"
+          ]
+        },
+        "en": {
+          "content": "My affection schedule:\nWhile you sleep — wide awake.\nWhile you work — need cuddles now.\nWhen you want to hold me — gone.\n\nTiming is everything.",
+          "editorNote": "Send to a friend who works from home and gets a cat on the keyboard every single meeting — it's the universal fate of cat owners",
+          "variations": [
+            "Advanced version: I can calculate the single least convenient second of your day, and that is when I sit on your laptop.",
+            "Sweet version: I ask for cuddles when you're busiest not to annoy you — it's just the only time I miss you the most."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-181",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://www.catster.com/lifestyle/cat-quotes/",
+      "sourceNote": "「狗有主人，貓有員工」概念改寫，避免直接引用",
+      "tags": ["主子", "貓咪", "養貓人", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "釐清一下我們的關係：\n你不是我的主人。\n你是我的助理。\n\n你負責罐頭、清貓砂、開門。\n我負責被欣賞。\n\n分工很清楚。",
+          "editorNote": "養貓人自嘲必備——傳到貓奴群組，每個人都會回「對，就是這樣」",
+          "variations": [
+            "進階版：你以為你養了一隻貓，其實是一隻貓僱用了你，而且沒付薪水。",
+            "土味版：說是助理啦，但你下班晚回家我會擔心——這種助理，我捨不得換掉的是你。"
+          ]
+        },
+        "en": {
+          "content": "Let's clarify our relationship:\nYou are not my owner.\nYou are my assistant.\n\nYou handle the cans, the litter box, and the doors.\nI handle being admired.\n\nClear division of labor.",
+          "editorNote": "Essential cat-owner self-deprecation — drop it in the group chat and everyone replies 'yep, that's it exactly'",
+          "variations": [
+            "Advanced version: you think you adopted a cat. Actually, a cat hired you — and never put you on payroll.",
+            "Sweet version: I call you my assistant, but I worry when you come home late. This assistant I'd never replace."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-182",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "https://shareably.net/50-funny-examples-of-cat-logic/",
+      "sourceNote": "貓咪三更半夜暴衝（the zoomies）行為，原創改寫",
+      "tags": ["主子", "貓咪", "深夜", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點作戰計畫：\n\n從走廊全速衝刺。\n撞翻一個東西。\n對著牆壁大叫。\n回去睡覺，彷彿什麼都沒發生。\n\n本喵不需要解釋。",
+          "editorNote": "傳給被半夜貓咪暴衝吵醒、頂著黑眼圈的朋友——附一句「我懂」就夠了",
+          "variations": [
+            "進階版：你問我為什麼凌晨三點要這樣？因為那是我的時間。白天是你的，深夜是我的。",
+            "土味版：其實我半夜衝來衝去，最後都是停在你的床邊——確認你還在，我才睡得著。"
+          ]
+        },
+        "en": {
+          "content": "3 a.m. battle plan:\n\nSprint full speed down the hallway.\nKnock one thing over.\nYell at a wall.\nGo back to sleep like nothing happened.\n\nI owe you no explanation.",
+          "editorNote": "Send to a friend with dark circles from a cat's midnight zoomies — just add 'I feel you' and you're done",
+          "variations": [
+            "Advanced version: you ask why I do this at 3 a.m.? Because that's my shift. Daytime is yours. The night is mine.",
+            "Sweet version: all that midnight sprinting always ends at your bedside. I check you're still there, then I can sleep."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-183",
+      "dateAdded": "2026-06-16",
+      "sourceUrl": "",
+      "sourceNote": "貓咪坐在筆電鍵盤上、踩在書本上索取注意，原創主子語錄",
+      "tags": ["主子", "貓咪", "鍵盤", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在看的那本書、那個螢幕、那份報告——\n\n本喵已經幫你看完了。\n結論是：你該看我了。\n\n不客氣。",
+          "editorNote": "傳給總是被貓踩鍵盤、回訊息變成一串亂碼的朋友——他一定遇過 asdkjfh1289 這種狀況",
+          "variations": [
+            "進階版：我坐在你的鍵盤上，不是擋路，是替你決定今天到此為止。",
+            "土味版：我擋住你的螢幕，是因為螢幕裡沒有我——而你看著我的時候，眼神最溫柔。"
+          ]
+        },
+        "en": {
+          "content": "That book, that screen, that report you're reading —\n\nI've already finished it for you.\nConclusion: it's time to look at me.\n\nYou're welcome.",
+          "editorNote": "Send to a friend whose texts keep coming out as keyboard mush from a cat walking across it — they've definitely sent an 'asdkjfh1289' before",
+          "variations": [
+            "Advanced version: I sit on your keyboard not to block you, but to decide on your behalf that today is done.",
+            "Sweet version: I block your screen because I'm not in it — and your eyes go softest when you're looking at me instead."
+          ]
+        }
+      }
     }
   ]
 }
