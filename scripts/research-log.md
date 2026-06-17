@@ -5326,3 +5326,85 @@ Done items collapsed; only live priorities listed.
 13. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period-quotes / drama-binge-quotes (莫離 + 雨霖鈴 + 逐玉 + 家業 古裝劇 cluster) 候選獨立評估, 暫 carry。
 14. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
 15. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 全 SKIP, 不適合 fun text 定位。端午政治人物諧音 (接粽而來/粽所皆知) 純諧音祝福可用。
+
+## 2026-06-17 Research Report
+
+### New Topic Recommendations
+
+1. **世界盃足球語錄 / World Cup Quotes (worldcup-quotes)** — **小組賽 day-6, 6/17 衛冕軍阿根廷 (梅西) 登場 + 上屆亞軍法國出賽, priority HIGH — 維持正式獨立建檔建議, 流量持續釋放**:
+   - SEO rationale: 6/17 多源確認 (Yahoo Sports「6/17 衛冕軍阿根廷登場！單日 4 場」/ 商周 BusinessNext 賽程戰績即時比分 / 香港 01 ViuTV 25 場免費 / Marie Claire 104 場懶人包 / 愛爾達 eltaott.tv/fifa2026)。**6/17 J 組由梅西領軍、力拼衛冕的阿根廷首戰對相隔 12 年重返會內賽的阿爾及利亞 (台灣時間 08:30), 奧地利 vs 約旦 (11:30); I 組上屆亞軍法國 vs 塞內加爾、伊拉克 vs 睽違 28 年重返的挪威。** 轉播維持: 愛爾達 ELTA 全 104 場 LIVE (體育台/MOD/HamiVideo) + 東森精選 + 台視免費。台灣觀賽 register 再確立:「**早餐球**」(美西晚場落台灣上午 08:30-11:30, 上班族邊吃早餐邊看) +「**半友善世界盃**」(不必全程熬夜)。「世足賽程 / 6/17 阿根廷梅西 / 衛冕軍登場 / 直播轉播線上看 / 早餐球」search 小組賽期穩定高位。
+   - 建議: **維持正式獨立建檔 worldcup-quotes (zh-tw + en) 不變; 若獨立檔尚未上線本週務必補建, 並持續 carry workplace/insomnia/cold-jokes/witty-comebacks 2-3 items 吃小組賽流量**。register「早餐球 = 邊吃蛋餅邊看球 / 梅西都登場了我待辦還沒開始 / 衛冕軍首戰 vs 我的週三 / 對台灣最佛的一屆 = 不用全程熬夜 / 偽球迷速成 = 只會喊越位但不知道什麼是越位 / 摸魚睇波被老闆抓包 / 90 分鐘睡眠周期 = 看球的科學 / 48 隊死亡組 = 我的待辦清單」。en「8:30AM kickoff / breakfast football / fake-fan starter pack (only knows 'offside') / the most merciful World Cup for night owls / Messi's title defense vs my Wednesday」。**主題曲/卡司一律《Dai Dai》+ Shakira/Burna Boy (沿用 6/12 更正, 勿用舊卡司)。**
+
+2. **端午粽諧音 (holiday-jokes / food-jokes 更新, 非新建)** — **黃金窗口倒數 T-2, 6/19 端午 (6/19-6/21 連假, 請 4 休 9), 6/19 當日達峰後斷崖, priority HIGH — 最後收尾 48 小時**:
+   - SEO rationale: 6/17 再確認 (Pinkoi 60 句 / Trip.com 50+ / 商周 100 句 / city9 諧音梗 30+ / 有肉 75 句 / cyberlink 50 句 多源 2026)。「端午節祝福語 / 諧音梗 / 粽 賀詞 / 企業送禮賀卡」search 進入窗口最後 48 小時衝刺段 (6/17-6/19)。**「端午安康 vs 端午快樂」之爭再確認 — 端午本為驅邪避災、除瘟避邪之日, 傳統主張說「安康」而非「快樂」, 但現已不特別避諱**; 此爭議本身即 fun-text 自嘲素材 (「祝你端午安康, 但我還是想說快樂 / 群組長輩開始糾正端午快樂的季節又到了」)。熱門句式群「百發百粽, 事事如意 / 粽望所歸, 財運攏來 / 好運攏粽來 / 接粽而來 / 千山萬水中粽真情, 我心早已粽意你 / 身體粽是健康, 事業粽是高升, 愛情粽是美滿」+ 田馥甄玉琴顧粽。
+   - 建議: **不獨立, holiday-jokes 端午 expansion 6-8 items 窗口最後 48 小時必須收尾上線 + food-jokes cross-link 1-2 items; 與世界盃小組賽流量同期, 雙主軸並進。逾 6/19 register 深度休眠至 2027/6。** register「請 4 休 9 + 粽諧音 (包中 / 高粽 / 粽如泰山 / 萬水千山粽是情 / 一見粽情 / 接粽而來 / 粽望所歸 / 百發百粽 / 身體粽是健康) + 端午安康 vs 快樂之爭 + 田馥甄玉琴顧粽 + 你是粽子 (我的心被你綁住)」。food-jokes「連假胖三公斤 / 一顆粽子的熱量等於一碗飯 / 冰箱開門一邊涼一邊厭世」1-2 items priority MEDIUM-HIGH。
+
+### Content Trends
+
+- **6/17 端午粽諧音黃金窗口最後 48 小時 + 安康/快樂之爭 carry (Pinkoi/Trip/商周/city9/有肉/cyberlink 多源 2026)**: 6/19 端午 (請 4 休 9), 窗口剩 2 天進入最終衝刺, 6/19 當日達峰後斷崖。「端午安康 vs 端午快樂」之爭再確認 (除瘟避邪日, 長輩主張說『安康』, 現已不特別避諱) 本身即自嘲素材。句式「百發百粽 / 粽望所歸 / 好運攏粽來 / 接粽而來 / 我心早已粽意你 / 身體粽是健康」+ 田馥甄玉琴顧粽。**意義: holiday-jokes priority HIGH — 6-8 items 窗口最後 48 小時必須收尾上線, food-jokes cross-link 1-2 items, 逾 6/19 register 深度休眠**。與世界盃小組賽同期, 雙主軸並進。
+
+- **6/17 會考序位/志願選填 T-1 (6/18 明天序位查詢 + 志願選填開放, TKB/全球華人/親子天下/甄戰 多源 2026)**: **各就學區自 6/18 (明天) 起開放個人序位查詢 + 志願選填 → 6/25 截止 → 7/7 免試入學放榜。志願選填關鍵週 6/18-6/25 明天開啟。** 序位 = 考生在就學區內相對位置 (序位數越小積分越高), 6/18 各校實際招生名額公布後落點預測更準。選填策略分**夢幻區 (前 2 志願大膽填) / 務實區 (參考去年錄取) / 保守區 (4-5 志願安全牌)**。「會考序位 / 落點分析 / 志願選填怎麼填 / 超額比序計算」search T-1 達次峰 (6/18 開放當日急升)。**意義: exam-quotes priority MEDIUM-HIGH→HIGH (window 明天開啟) — register 從成績轉序位/志願 + 夢幻/務實/保守三區自嘲**「序位 = 人海中的座標 / 我的志願全是夢幻區 / 務實區是別人的志願 / 保守區才是我的實力 / 差 3 名差一所學校 / 落點分析交給 Excel / 截止前一晚還在改 / 邪修填志願 = 全部按落點亂填」2-3 items 6/17-6/18 編寫上線。cross-link healing「接住還在選志願的自己」+ graduation。
+
+- **6/17 NEW 主要在地化候選『初級大人 vs 高級大人』(DailyView 網路溫度計自我檢測表 / 自由時報 / ETtoday 百萬共鳴 / Yahoo / 造咖 / 港媒 stheadline 多源 2026)**: **『初級大人』** = 法定已成年、在外能獨當一面, 但一回家秒變小孩狀態的人;**『高級大人』** = 經濟獨立、能處理家庭/文件/人情/健康大小事, 從「被照顧者」升級成「照顧者」。源於 2026/2 過年期間 Threads 爆紅貼文 (姪女問能否去樓下玩, 原 PO「我只是一般大人, 能決定的是飯桌上的其他高級大人」), 百萬人共鳴、「30 歲回家秒變 3 歲」「買生果都要問阿媽」。**意義: adulting-quotes / self-love-quotes / slang-quotes / workplace-quotes priority MEDIUM-HIGH — 極強 fun-text 自嘲切角, 與畢業季『從學生變社畜』+ 父親節同期形成『成年人厭世』主題群**「初級大人 = 在外能扛專案回家連洗衣機都不會開 / 30 歲回家秒變 3 歲 / 有事還是要找高級大人 / 我是初級大人, 高級大人在飯桌那頭 / 升級成高級大人那天才發現沒有教學」register family 2-3 items 6/17-6/30 編寫。**『初級大人 vs 高級大人』列本期新增主要在地化候選 (取代上期 ven 一下)。** cross-link graduation (從學生變社畜) + father's-day (高級大人 = 爸媽) + workplace。
+
+- **6/17 流行語 carry『ㄅ級分』+『留友看』+『超派』+ ven 一下 + 高麗菜煮蛋那桌 (PopDaily 5 梗 / DailyView / QuickSeek / shopee blog / 石頭問路 多源 2026)**: **『ㄅ級分 (我給ㄅ級分)』** = 注音「ㄅ」諧「不」+ 評分梗, 由網紅李怡蓁帶紅, 表達敷衍/不及格的吐槽式評分;**『留友看』** = Threads 互動導向機制下生成 (留言/朋友/看), 快速擴散的互動催化用語;**『超派』** = 源於網紅超哥爭議事件, 表「超兇/超有氣勢」。carry「ven 一下 (緩衝一下) / 高麗菜煮蛋那桌 (智慧過人該坐包廂) / sldpk / kam4 / 0尊 / 老best」。**意義: slang-quotes / witty-comebacks / adulting-quotes priority MEDIUM-HIGH — fun-text 在地化候選**「ㄅ級分 = 給週一的我打分數 / 我給這個 deadline ㄅ級分 / 超派 = 看到帳單的我 / ven 一下 = 等我緩衝一下人生」register family 1-2 items 6/17-6/30 編寫。
+
+- **6/17 夏月電價 day-17 主軸 (6/1-9/30 持續, 商周/工商時報/發票怪獸/果仁家 carry 2026)**: 6-9 月厭世主軸。冷氣每調低 1 度耗電增 6%-8%, 26℃ vs 22℃ 一個月可能多噴 500 元; 台電認證「外出 30 分鐘內不關機改調高溫 + 開電扇, 1 小時以上才關機」; 26-28 度搭電扇最省; 節電獎勵每省 1 度 0.6 元。**意義: summer-electric-quotes / renting-quotes / adulting-quotes priority MEDIUM-HIGH**「開跑半個月照樣不敢開 / 22 度的快樂一個月 500 元 / 每低 1 度多 8% 的罪惡感 / 外出 30 分鐘該不該關的天人交戰 / 節電獎勵 0.6 元 = 省一度買不起一口粽」register family 2-3 items 6/17-6/24 編寫。cross-link food-jokes (粽) 1 item。
+
+- **6/17 美國父親節 T-4 (US 6/21/2026) / 台灣父親節 8/8 仍遠 (parade 55 句 / RD 45 句 / humornama 99 句 / gelato 100+ / personalhouse 77 句 多源 2026)**: US 窗口逼近 (T-4)。趨勢 dad joke / 自嘲式「laughs at his own jokes especially when no one else does / spends half his money on presents, other half on what the presents broke / pretends he knows how to fix things / glass half empty? dad already cleaned it / the older I get the smarter my father seems」。台灣 8 月才主檔 (88 節 + 七夕 + 中元同月), zh-tw 暫不啟動。**en「Dad jokes / funny Father's Day quotes」可早備 priority MEDIUM (US T-4 窗口逼近)。** cross-link adulting (高級大人 = 爸)。
+
+- **6/17 全球 TikTok carry『Olivia Rodrigo 新專輯歌詞 overlay』+『Charli XCX Rock Music 卡幀 glitch』+『Josh Fawaz Like a Prayer 夏日國歌』(tokchart / SocialBee / newengen / Buffer / Ramdam 多源 2026)**: (a)**Olivia Rodrigo 新專輯《you seem pretty sad for a girl so in love》(6/12 發行) lyric-overlay 格式主導 6 月; (b) Charli XCX「Rock Music」刻意人聲故障段 + Instagram「stuck frame」凍結高光格式持續; (c) Josh Fawaz「Like a Prayer」remix = 2026 夏日國歌; (d) The Fate of Ophelia 對嘴 / Smells Like Teen Spirit 慢搖靜態鏡頭 / Rihanna Where Have You Been remix 旅遊 vlog。**意義: witty-comebacks / workplace / dark-humor priority MEDIUM — 強在地化候選**「lyric overlay = 把心情貼在打卡照上 / Rock Music 卡幀 = deadline 來臨前表情凍結那一秒 / 夏日國歌循環但冷氣不敢開」1 item per topic。**『Rock Music 卡幀格式』+『lyric overlay』列本期主要視覺在地化候選。**
+
+- **6/17 畢業季主峰尾段 + Q3 7 月演唱會/暑假追劇 signal carry**: 6 月畢業典禮主峰進入尾段 (感性 + 自嘲『從學生變社畜 / 失業倒數 / 助學貸款計息 / 別比我早禿』雙路線); 7 月暑假華語天團+西洋+K-POP 齊發 (五月天大巨蛋 7 場 / EXO 高雄巨蛋); 暑假追劇 6 月新檔《莫離》(白鹿/承磊腹黑定王古裝權謀)《醫到孤島愛上你》(韓劇離島醫療甜寵)《雨霖鈴》《逐玉》+《House of the Dragon S3》6/21。**意義: graduation-quotes priority HIGH (主峰尾段, 3-4 items 6/17-6/23 收尾); concert-ticket-quotes (拓元/玉山卡/票價/黃牛/站票/釋票 + 邪修搶票) 7 月初再評估獨立; drama 系列 priority 中 1-2 items, Q3 暑假主峰再評估獨立。**
+
+- **6/17 政治/敏感 SKIP 區**: 國會預算戰 / 中國軍演 / 民眾黨主席 / 海巡衝突 / 校園霸凌 / 超哥爭議事件 carry SKIP 不變 (『超派』詞義純語氣用法可用, 不涉爭議本身)。端午政治人物諧音 (接粽而來/粽所皆知) 純諧音祝福梗可用, 不涉政治立場。
+
+### Existing Topic Updates
+
+- **worldcup-quotes (6/17 小組賽 day-6 衛冕軍阿根廷梅西登場 + 法國出賽, priority HIGH — 維持建議正式獨立 + 持續 carry)**: register「早餐球邊吃蛋餅 / 梅西都登場了我待辦還沒開始 / 衛冕軍首戰 vs 我的週三 / 對台灣最佛的一屆 = 不用熬夜 / 偽球迷速成只會喊越位 / 摸魚睇波被抓包 / 90 分鐘睡眠周期 / 48 隊死亡組 = 待辦」zh-tw + en (8:30AM kickoff / breakfast football / fake-fan starter pack / most merciful World Cup / Messi's title defense vs my Wednesday)。**主題曲/卡司一律《Dai Dai》+ Shakira/Burna Boy。若獨立檔未上線本週補建, 同步 carry workplace/insomnia/cold-jokes/witty 2-3 items 吃小組賽流量。**
+
+- **holiday-jokes / food-jokes (端午 T-2, 黃金窗口剩 48 小時最終衝刺, priority HIGH 立即收尾)**: holiday-jokes 端午 expansion 6-8 items「請 4 休 9 + 粽諧音 (包中/高粽/粽望所歸/百發百粽/粽如泰山/接粽而來/身體粽是健康) + 端午安康 vs 快樂之爭 + 田馥甄玉琴顧粽 + 你是粽子」6/17-6/19 上線。**逾 6/19 register 深度休眠至 2027/6。** food-jokes「連假胖三公斤 / 一顆粽子等於一碗飯 / 冰箱開門一邊涼一邊厭世」1-2 items priority MEDIUM-HIGH。
+
+- **exam-quotes (6/17 主軸 6/18 序位 + 志願選填 T-1 明天開啟, priority MEDIUM-HIGH→HIGH)**: register「序位 = 人海中的座標 / 我的志願全是夢幻區 / 務實區是別人的志願 / 保守區才是我的實力 / 差 3 名差一所學校 / 落點分析交給 Excel / 截止前一晚還在改 / 邪修填志願」2-3 items 6/17-6/18 編寫上線吃 6/18 開放當日流量。cross-link healing「接住還在選志願的自己」+ graduation。6/18 序位開放 / 6/25 截止 / 7/7 放榜 carry。
+
+- **adulting-quotes / self-love-quotes / slang-quotes / workplace-quotes (6/17 NEW『初級大人 vs 高級大人』百萬共鳴 priority MEDIUM-HIGH)**: 新增「初級大人 (在外獨當一面回家秒變 3 歲) vs 高級大人 (經濟獨立能處理大小事的照顧者)」。register family 2-3 items 6/17-6/30 編寫。「初級大人 = 在外扛專案回家連洗衣機都不會開 / 30 歲回家秒變 3 歲 / 有事還是要找高級大人 / 我是初級大人, 高級大人在飯桌那頭 / 升級成高級大人那天才發現沒有教學」。**『初級大人 vs 高級大人』列本期新增主要在地化候選 (取代上期 ven 一下)。** cross-link graduation (從學生變社畜) + father's-day (高級大人 = 爸媽) + workplace。
+
+- **slang-quotes / witty-comebacks / adulting-quotes (6/17『ㄅ級分』+『留友看』+『超派』+ ven 一下 + 高麗菜煮蛋那桌 carry priority MEDIUM-HIGH)**: carry「ㄅ級分 (李怡蓁帶紅, 敷衍/不及格評分) + 留友看 (Threads 互動催化) + 超派 (超兇/超有氣勢) + ven 一下 (緩衝一下) + 高麗菜煮蛋那桌 (智慧過人該坐包廂) + sldpk + kam4 + 0尊 + 老best」。register family 1-2 items 6/17-6/30 編寫。「ㄅ級分 = 給週一的我打分數 / 我給這個 deadline ㄅ級分 / 超派 = 看到帳單的我」。
+
+- **slang-quotes / self-love-quotes / diet-quotes / concert-ticket-quotes / workplace-quotes (6/17『邪修』+『外耗』carry priority MEDIUM-HIGH)**: carry「邪修 (做飯/減肥/搶票/早起 = 偏門高效) + 外耗 (內耗反義, 把焦慮向外釋放)」register family 1-2 items 6/17-6/30 編寫。「邪修減肥 = 餓到忘記吃 / 邪修搶票 = 開五台手機 / 邪修填志願 = 按落點亂填 / 與其內耗不如外耗 = 把 deadline 還給老闆」。cross-link diet/concert-ticket/exam/workplace。
+
+- **summer-electric-quotes / renting-quotes / adulting-quotes (6/17 夏月電價 day-17 主軸 + 省電數據 priority MEDIUM-HIGH)**: carry「開跑半個月照樣不敢開 / 22 度的快樂一個月 500 元 / 每低 1 度多 8% 的罪惡感 / 外出 30 分鐘該不該關的天人交戰 / 節電獎勵 0.6 元 = 省一度買不起一口粽」register family 2-3 items 6/17-6/24 編寫。cross-link food-jokes (粽)。
+
+- **graduation-quotes (6/17 畢業季主峰尾段 priority HIGH 收尾)**: carry「失業倒數 / 從學生變社畜 / 助學貸款計息 / 友誼不畢業只是改線上 / 鳳凰花開但履歷還沒投 / 人生不可以有句號但我已想畫上 / 朋友一生一起走誰有對象誰是狗 / 別比我早禿 / 致青春後會有期」感性+自嘲雙 register 3-4 items 6/17-6/23 收尾。cross-link adulting (初級大人) / healing / motivational / workplace / exam。
+
+- **healing-quotes (序位志願 + 畢業季尾 + 厭世接力 三窗口 priority MEDIUM-HIGH)**: carry「接住還在選志願的自己 (6/18 序位 T-1) / 畢業一段過完就過了 / 6 月連環大事 (序位+畢業+電費+端午+世足早餐球+初級大人) = 接住自己 (呼應流行語『接住』)」2-3 items 6/17-6/18 編寫。
+
+- **fathers-day-quotes (6/17 US 父親節 T-4 窗口逼近 / 台灣 8/8 遠)**: en「Dad jokes (laughs at his own jokes / spends half his money on what the presents broke / pretends he can fix things / glass half empty? already cleaned it / the older I get the smarter my father seems)」可早備 priority MEDIUM。台灣 8/8 zh-tw 7 月初 drafting。cross-link adulting (高級大人 = 爸)。
+
+- **drama-quotes / drama-binge-quotes / korean-drama-quotes / cdrama-period-quotes (6/17 6 月新檔 carry → Q3 主峰)**: carry「莫離腹黑定王古裝權謀 / 醫到孤島離島醫療甜寵 / 雨霖鈴正午陽光 / 逐玉 / 一集接一集作業 0」1-2 items 6 月編寫 priority 中。Q3 7-8 月暑假主峰再評估獨立。
+
+- **witty-comebacks / workplace-quotes / dark-humor (6/17 全球 TikTok『lyric overlay』+『Rock Music 卡幀 glitch』+ 夏日國歌 carry priority MEDIUM)**: carry「Olivia Rodrigo lyric overlay = 把心情貼在打卡照 / Rock Music 卡幀 = deadline 表情凍結那一秒 / 夏日國歌循環但冷氣不敢開」1 item per topic。『Rock Music 卡幀格式』+『lyric overlay』列本期主要視覺在地化候選。
+
+- **concert-ticket-quotes (6/17 Q3 7 月演唱會旺季 signal carry priority observe→LOW-MEDIUM)**: carry「五月天大巨蛋 7 場 / EXO 高雄巨蛋 / 邪修搶票開五台手機 / 玉山卡 / 站票 / 黃牛 / 釋票」候選評估。7 月初再評估獨立。cross-link slang (邪修搶票)。
+
+- **mom-quotes / zodiac-quotes / wedding-quotes / dog-quotes / cat-quotes / couple-jokes / cold-jokes / pet-memorial-quotes / insomnia-quotes / service-quotes / fitness-quotes / sweet-quotes / cheesy-pickups / travel-quotes / absurd-wisdom / motivational-quotes / breakup-quotes / stock-investor-quotes**: organic 觀察期, 無新 6/17 強信號。cold-jokes 可 opportunistic 吸收世足諧音 (越位/罰球/紅牌) 1 item low; insomnia-quotes 可 opportunistic 吸收世足早餐球/90 分鐘睡眠周期 1 item low; travel carry「端午連假 + 暑假」organic; sweet/cheesy carry「古裝甜寵 + 老best」organic; stock-investor Q4 年底加碼觀察。
+
+### Updated Action Priority
+
+1. **[HIGH — 6/17 世界盃小組賽 day-6 衛冕軍阿根廷梅西登場 + 法國出賽流量持續]** worldcup-quotes → **維持建議正式獨立建檔 (zh-tw + en)**「早餐球 / 半友善世界盃 / 偽球迷速成 / 摸魚睇波 / 梅西登場 vs 我的週三 / 48 隊死亡組」; en「8:30AM kickoff / breakfast football / fake-fan starter pack / most merciful World Cup / Messi's title defense vs my Wednesday」。主題曲《Dai Dai》+ Shakira/Burna Boy。若未上線本週補建 + carry workplace/insomnia/cold-jokes/witty 2-3 items。
+2. **[HIGH — 6/17 端午 T-2 黃金窗口剩 48 小時最終衝刺]** holiday-jokes 端午 expansion 6-8 items + food-jokes cross-link 1-2 items 立即收尾上線 (粽諧音 + 田馥甄 + 請 4 休 9 + 端午安康vs快樂之爭 + 百發百粽/粽望所歸/接粽而來)。**逾 6/19 register 深度休眠至 2027/6。** 與世界盃小組賽雙主軸並進。
+3. **[HIGH — 6/17 會考主軸轉 6/18 序位 + 志願選填 T-1 明天開啟]** exam-quotes「序位人海座標 / 我的志願全是夢幻區 / 保守區才是我的實力 / 差 3 名差一所學校 / 落點分析交給 Excel / 邪修填志願」2-3 items 6/17-6/18 編寫上線吃 6/18 開放當日流量。cross-link healing + graduation。6/18 序位開放 / 6/25 截止 / 7/7 放榜。
+4. **[HIGH — 6/17 畢業季主峰尾段收尾]** graduation-quotes「失業倒數 / 從學生變社畜 / 助學貸款計息 / 友誼改線上 / 履歷還沒投 / 人生不可以有句號 / 別比我早禿 / 致青春後會有期」3-4 items 6/17-6/23 收尾。cross-link adulting (初級大人) + 4 topics。
+5. **[MEDIUM-HIGH — 6/17 NEW『初級大人 vs 高級大人』百萬共鳴]** adulting-quotes / self-love / slang / workplace「初級大人 = 在外扛專案回家連洗衣機都不會開 / 30 歲回家秒變 3 歲 / 有事還是要找高級大人 / 升級成高級大人那天才發現沒有教學」2-3 items 6/17-6/30 編寫。**列本期新增主要在地化候選 (取代 ven 一下)。** cross-link graduation + father's-day + workplace。
+6. **[MEDIUM-HIGH — 6/17『ㄅ級分』+『留友看』+『超派』+ ven 一下 carry]** slang-quotes / witty-comebacks / adulting「ㄅ級分 = 給週一的我打分數 / 我給這 deadline ㄅ級分 / 超派 = 看到帳單的我 / ven 一下 = 緩衝一下人生」1-2 items 6/17-6/30 編寫。
+7. **[MEDIUM-HIGH — 6/17『邪修』+『外耗』carry]** slang / self-love / diet / concert-ticket / workplace「邪修減肥/搶票/早起/填志願 + 外耗 (內耗反義)」1-2 items 6/17-6/30 編寫。cross-link diet/concert-ticket/exam/workplace。
+8. **[MEDIUM-HIGH — 6/17 夏月電價 day-17 主軸 + 省電數據]** summer-electric-quotes / renting / adulting「開跑半個月不敢開 / 22 度快樂月噴 500 / 每低 1 度多 8% 罪惡感 / 外出 30 分鐘該不該關 / 節電 0.6 元買不起一口粽」2-3 items 6/17-6/24 編寫。
+9. **[MEDIUM-HIGH — 6/17 三窗口安慰]** healing-quotes「接住還在選志願的自己 (6/18 序位 T-1) + 畢業季尾 + 6 月連環厭世接力 (含世足早餐球+初級大人) = 接住自己」2-3 items 6/17-6/18 編寫。
+10. **[MEDIUM — US 父親節 T-4 窗口逼近 / 7 月初台灣預備]** fathers-day-quotes en「Dad jokes (laughs at his own jokes / half his money on what presents broke / pretends he can fix things / glass already cleaned / older I get the smarter dad seems)」可早備 priority MEDIUM (US 6/21 T-4)。台灣 8/8 zh-tw 7 月初 drafting。cross-link adulting (高級大人)。
+11. **[MEDIUM — 6/17 全球 TikTok『lyric overlay』+『Rock Music 卡幀 glitch』+ 夏日國歌]** witty-comebacks / workplace / dark-humor「Olivia Rodrigo lyric overlay / Rock Music 卡幀 = deadline 表情凍結 / 夏日國歌循環冷氣不敢開」1 item per topic。視覺在地化候選。
+12. **[MEDIUM — 6/17 6 月追劇新檔 carry → Q3 主峰]** drama-quotes / drama-binge-quotes / korean-drama-quotes / cdrama-period-quotes「莫離腹黑定王 / 醫到孤島離島醫療甜寵 / 雨霖鈴 / 逐玉 / 一集接一集」1-2 items 6 月編寫。Q3 評估獨立。
+13. **[CLOSED — 報稅季]** 5/1-6/1 黃金窗口已關閉, register 深度休眠 carry organic, 2027/4 前再評估。
+14. **[NEW OBSERVE — Q3 7 月演唱會旺季]** concert-ticket-quotes (五月天大巨蛋 7 場/EXO/拓元/玉山卡/票價/黃牛/站票/釋票/邪修搶票) 候選評估, 7 月初再評估獨立。
+15. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period-quotes / drama-binge-quotes (莫離 + 雨霖鈴 + 逐玉 + 家業 古裝劇 cluster) 候選獨立評估, 暫 carry。
+16. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
+17. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議事件 全 SKIP, 不適合 fun text 定位。『超派』純語氣用法可用; 端午政治人物諧音 (接粽而來/粽所皆知) 純諧音祝福可用。
