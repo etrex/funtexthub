@@ -1,0 +1,339 @@
+{
+  "slug": "human-design-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "人類圖語錄 × 五型人格",
+      "description": "生產者、顯示生產者、投射者、顯示者、反映者——用人類圖五大類型戳中你的搞笑又中肯的金句，繼 MBTI、星座之後的自我分類新顯學"
+    },
+    "en": {
+      "title": "Human Design Quotes × The Five Types",
+      "description": "Funny, a-little-too-accurate quotes for all five Human Design types — Generator, Manifesting Generator, Projector, Manifestor, and Reflector. The next personality-typing obsession after MBTI and the zodiac"
+    }
+  },
+  "items": [
+    {
+      "id": "hd-001",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Generator type — respond strategy, sacral response, satisfaction vs frustration signature",
+      "tags": ["生產者", "Generator", "薦骨", "等待回應", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "生產者的人生不是去「追」，是「等回應」。\n\n對的事會讓你身體一亮、自動想點頭；不對的事，你連伸手都懶。\n\n越主動出擊越累，越順著回應走越有電——這不是被動，是省力。",
+          "editorNote": "傳給那個總覺得「我是不是不夠努力」的生產者朋友，他需要的不是更拚，是更會等。",
+          "variations": ["生產者最大的誤會：以為人生要主動衝。結果越衝越空，越等回應越滿足。"]
+        },
+        "en": {
+          "content": "A Generator's life isn't about chasing — it's about responding.\n\nThe right thing lights you up and your body just wants to say yes. The wrong thing? You can't even lift a finger.\n\nThe harder you push, the more drained you feel. The more you follow what you respond to, the more energy you have. That's not passive — that's efficient.",
+          "editorNote": "Send to the Generator friend who keeps thinking 'maybe I'm just not trying hard enough.' They don't need to grind harder — they need to wait better.",
+          "variations": ["The biggest Generator myth: that you have to go out and force life to happen. Turns out the more you chase, the emptier it feels."]
+        }
+      }
+    },
+    {
+      "id": "hd-002",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Generator — sacral energy only charges for things you genuinely love; burnout from doing things out of obligation",
+      "tags": ["生產者", "Generator", "薦骨能量", "熱情", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "生產者就像一顆電池：做喜歡的事會自己充電，做不喜歡的事會漏電到天亮。\n\n所以別問生產者「為什麼這麼累」，先問他「最近在做的是不是不想做的事」。",
+          "editorNote": "適合配上累癱的貼圖，傳到那種「明明沒做什麼卻很累」的工作群組。",
+          "variations": ["生產者沒有「忙到累」這種事，只有「做不喜歡的事累」這種事。"]
+        },
+        "en": {
+          "content": "A Generator is basically a battery: doing what you love charges you up, doing what you don't drains you till sunrise.\n\nSo don't ask a tired Generator 'why are you so exhausted' — ask 'is what you're doing something you actually want to do?'",
+          "editorNote": "Pair with a collapsed-on-the-desk sticker and drop it in the 'I did nothing today but I'm wrecked' work chat.",
+          "variations": ["Generators don't get 'busy-tired.' They get 'doing-something-they-hate-tired.'"]
+        }
+      }
+    },
+    {
+      "id": "hd-003",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Manifesting Generator — multitasking, skipping steps, three-minute enthusiasm reframed as a gift",
+      "tags": ["顯示生產者", "Manifesting Generator", "多工", "跳步驟", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "顯示生產者同時開十個分頁、學三種才藝、追兩部劇，還能煮飯。\n\n別人說他「三分鐘熱度」，其實他只是比別人快十倍找到「這個不適合我」。",
+          "editorNote": "傳給那種興趣超多、每個都只玩一陣子的朋友，幫他正名一下。",
+          "variations": ["顯示生產者不是沒定性，是用最快速度幫自己刪掉錯的選項。"]
+        },
+        "en": {
+          "content": "A Manifesting Generator has ten tabs open, three hobbies in progress, two shows on the go — and is also cooking dinner.\n\nPeople call it a 'three-minute attention span.' Really, they just figure out 'this isn't for me' ten times faster than everyone else.",
+          "editorNote": "Send to the friend with a hundred hobbies and zero finished ones. Give them the reframe they deserve.",
+          "variations": ["A Manifesting Generator isn't flaky — they're just speed-running the process of crossing wrong options off the list."]
+        }
+      }
+    },
+    {
+      "id": "hd-004",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Manifesting Generator — skips steps then has to go back; impatience with linear processes",
+      "tags": ["顯示生產者", "Manifesting Generator", "效率", "跳步驟", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "顯示生產者做事的順序：第一步、第三步、第五步、完成、欸好像漏了第二步、回去補。\n\n別人照流程走，他用最快的路撞牆，再用第二快的路繞回來。",
+          "editorNote": "適合自嘲，或傳給那個總是先做再說、結果常常要回頭補的同事。",
+          "variations": ["顯示生產者的人生不是直線，是先衝到終點再回來撿掉在路上的步驟。"]
+        },
+        "en": {
+          "content": "How a Manifesting Generator does things: step one, step three, step five, done — oh wait, I skipped step two, going back.\n\nEveryone else follows the manual. They take the fastest route into a wall, then the second-fastest route around it.",
+          "editorNote": "Great for self-deprecation, or for the coworker who always acts first and backfills the missing steps later.",
+          "variations": ["A Manifesting Generator's path isn't a straight line — it's sprinting to the finish, then doubling back for the steps they dropped along the way."]
+        }
+      }
+    },
+    {
+      "id": "hd-005",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Projector — wait for the invitation strategy; classic 'not lazy, waiting to be invited' joke",
+      "tags": ["投射者", "Projector", "等待邀請", "厭世", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "投射者：「我不是懶，我是在等邀請。」\n\n投射者的能量設計就是不主動出擊，等被看見、被點名、被邀請的時候，才會發光。\n\n所以別催投射者衝，他不衝是有原因的——他在等一個對的場子。",
+          "editorNote": "投射者朋友的最佳自我介紹，傳給那個常被說「太被動」的人，幫他翻案。",
+          "variations": ["投射者的座右銘：好東西值得等，包括等別人發現你有多好。"]
+        },
+        "en": {
+          "content": "A Projector: 'I'm not lazy — I'm waiting for the invitation.'\n\nProjectors aren't built to charge in. They're built to shine once they're seen, named, invited.\n\nSo stop telling a Projector to hustle. There's a reason they're not rushing — they're waiting for the right room.",
+          "editorNote": "The perfect bio line for any Projector. Send it to the friend who keeps getting called 'too passive' and overturn the verdict.",
+          "variations": ["A Projector's motto: good things are worth waiting for — including waiting for people to notice how good you are."]
+        }
+      }
+    },
+    {
+      "id": "hd-006",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Projector — sees through people, limited energy, needs to lie down after socializing",
+      "tags": ["投射者", "Projector", "能量有限", "社交電量", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "投射者很會看穿別人，一眼就知道誰在硬撐、誰在裝忙。\n\n代價是：他自己的電量只有別人的一半，社交兩小時要回血一整天。\n\n投射者下班不是想耍廢，是真的需要躺平充電。",
+          "editorNote": "傳給那個聚會結束就秒消失、隔天才復活的朋友，他不是高冷，是沒電。",
+          "variations": ["投射者：看得懂全世界，唯一看不懂的是自己怎麼又這麼累。"]
+        },
+        "en": {
+          "content": "Projectors read people like open books — one glance and they know who's faking busy and who's barely holding it together.\n\nThe catch: they run on half the battery everyone else has. Two hours of socializing, a full day to recover.\n\nWhen a Projector lies down after work, they're not slacking — they genuinely need to recharge.",
+          "editorNote": "Send to the friend who vanishes the second a party ends and reappears the next afternoon. They're not aloof — they're out of battery.",
+          "variations": ["A Projector: can read the whole world. The one thing they can't figure out is why they're this tired again."]
+        }
+      }
+    },
+    {
+      "id": "hd-007",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Projector — bitterness as the not-self theme when not recognized; reframing being overlooked",
+      "tags": ["投射者", "Projector", "苦澀", "被看見", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "投射者沒被看見的時候，會有一種說不出口的苦：「我明明都看到了，為什麼沒人問我？」\n\n但投射者要記得——你的價值不是用搶來的，是被邀請出來的。\n\n與其硬擠進不適合的場子，不如把力氣留給真正懂你的人。",
+          "editorNote": "適合安慰那種「很有想法卻常被忽略」的投射者朋友，給他一點溫柔的提醒。",
+          "variations": ["投射者的功課：不被邀請的場子，不是你的舞台，不用為它委屈。"]
+        },
+        "en": {
+          "content": "When a Projector goes unseen, there's a quiet bitterness: 'I saw it all — why did nobody ask me?'\n\nBut here's the thing — your worth isn't something you grab. It's something you get invited to share.\n\nDon't force yourself into rooms that don't fit. Save your energy for the people who actually get you.",
+          "editorNote": "Good for comforting the Projector friend who's full of insight but keeps getting overlooked. A gentle nudge, not a lecture.",
+          "variations": ["A Projector's lesson: a room that won't invite you isn't your stage. Don't shrink yourself to stay in it."]
+        }
+      }
+    },
+    {
+      "id": "hd-008",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Manifestor — inform strategy, dislikes being controlled/questioned, anger as not-self theme",
+      "tags": ["顯示者", "Manifestor", "告知", "獨立", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "顯示者的策略只有兩個字：告知。\n\n不是徵求同意，是「我要去做了，先讓你知道一聲」。\n\n顯示者最受不了的就是被問「你要幹嘛、為什麼、可不可以」——他不是不講理，他只是天生不需要許可。",
+          "editorNote": "傳給那個做決定從不問人、但會事後通知你的朋友，他不是白目，是顯示者。",
+          "variations": ["顯示者的禮貌不是「請問可以嗎」，是「我先說一聲讓你有心理準備」。"]
+        },
+        "en": {
+          "content": "A Manifestor's whole strategy is one word: inform.\n\nNot ask for permission — just 'I'm about to do this, giving you a heads-up.'\n\nThe fastest way to set off a Manifestor is to ask 'what are you doing, why, can you even?' They're not difficult — they're just wired to not need approval.",
+          "editorNote": "Send to the friend who never asks before deciding but does tell you afterward. They're not rude — they're a Manifestor.",
+          "variations": ["A Manifestor's version of polite isn't 'may I?' — it's 'heads-up, so you're not caught off guard.'"]
+        }
+      }
+    },
+    {
+      "id": "hd-009",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Manifestor — initiator energy, starts things then hands off; peace as signature",
+      "tags": ["顯示者", "Manifestor", "啟動", "平靜", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "顯示者是來「點火」的：把事情啟動、把球丟出去，然後退到一旁讓別人接手。\n\n所以顯示者不是虎頭蛇尾，是任務分工——開頭是他的天賦，收尾交給生產者就好。\n\n當顯示者不被擋、不被管的時候，他會出奇地平靜。",
+          "editorNote": "適合那種很會開頭、很會帶風向，但細節懶得管的領導型朋友。",
+          "variations": ["顯示者的角色：負責按下開始鍵，至於跑完全程，是別人的事。"]
+        },
+        "en": {
+          "content": "A Manifestor is here to light the fuse: kick things off, throw the ball, then step back and let others run with it.\n\nSo they're not 'all start, no finish' — it's division of labor. Beginnings are their gift; leave the finishing to a Generator.\n\nWhen nobody blocks or micromanages them, a Manifestor is surprisingly at peace.",
+          "editorNote": "Perfect for the leader-type friend who's brilliant at starting and steering but can't be bothered with the details.",
+          "variations": ["A Manifestor's job: press the start button. Crossing the finish line is somebody else's department."]
+        }
+      }
+    },
+    {
+      "id": "hd-010",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Reflector — rarest type, wait a full lunar cycle (28 days) for big decisions",
+      "tags": ["反映者", "Reflector", "月亮週期", "稀有", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全世界只有 1% 的反映者，重大決定要等一整個月亮週期——大概 28 天。\n\n朋友問：「晚上要不要吃火鍋？」\n反映者：「給我 28 天，我月底回覆你。」\n\n反映者不是難搞，是真的需要時間，把每個面向都照一遍才安心。",
+          "editorNote": "超適合自嘲做決定很慢，或傳給那個「再讓我想想」想了一個月的朋友。",
+          "variations": ["反映者選餐廳的速度，跟等一輪月圓月缺差不多。"]
+        },
+        "en": {
+          "content": "Reflectors are just 1% of the planet, and big decisions take them a full lunar cycle — about 28 days.\n\nFriend: 'Hotpot tonight?'\nReflector: 'Give me 28 days. I'll get back to you end of month.'\n\nThey're not difficult — they genuinely need time to view a choice from every angle before it feels right.",
+          "editorNote": "Perfect for joking about being a slow decider, or for the friend whose 'let me think about it' has lasted a month.",
+          "variations": ["A Reflector picks a restaurant at roughly the speed of one full moon to the next."]
+        }
+      }
+    },
+    {
+      "id": "hd-011",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Reflector — mirror nature, reflects the health of their environment; change environment, change person",
+      "tags": ["反映者", "Reflector", "鏡子", "環境", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "反映者像一面鏡子，照出身邊環境的狀態：環境健康，他就閃閃發光；環境烏煙瘴氣，他第一個垮掉。\n\n所以反映者換個環境，常常像換了個人。\n\n別問反映者「你怎麼了」，先看看他最近待在什麼樣的地方、跟什麼樣的人。",
+          "editorNote": "適合提醒那種「待錯地方就整個人黯淡」的朋友，環境對他真的很重要。",
+          "variations": ["反映者的情緒晴雨表，量的其實是周圍的人健不健康。"]
+        },
+        "en": {
+          "content": "A Reflector is a mirror, showing the state of whatever surrounds them: a healthy environment and they sparkle, a toxic one and they're the first to crash.\n\nThat's why a Reflector in a new setting can feel like a whole new person.\n\nDon't ask a Reflector 'what's wrong with you' — look at where they've been lately and who they've been around.",
+          "editorNote": "Good for reminding the friend who dims completely in the wrong place. Environment matters more for them than for anyone.",
+          "variations": ["A Reflector's mood barometer isn't measuring them — it's measuring how healthy everyone around them is."]
+        }
+      }
+    },
+    {
+      "id": "hd-012",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Sacral response — the body answers before the brain; uh-huh / unh-unh gut sounds",
+      "tags": ["薦骨", "內在權威", "直覺", "身體", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖教我最有用的一件事：別問腦袋，問身體。\n\n腦袋會編一百個「應該要」的理由，身體只會誠實地給你一個「嗯—」或「呃……不要」。\n\n那個瞬間湧上來的反應，比你想三天的結論還準。",
+          "editorNote": "適合放在「又在猶豫要不要答應」的時刻，提醒自己相信第一直覺。",
+          "variations": ["你的身體早就知道答案了，是你的腦袋還在開會。"]
+        },
+        "en": {
+          "content": "The most useful thing Human Design taught me: don't ask your head, ask your body.\n\nYour head will invent a hundred 'I should' reasons. Your body just gives you an honest 'mmh — yes' or 'ehh… no.'\n\nThat split-second gut reaction is more accurate than three days of overthinking.",
+          "editorNote": "Good for the moment you're stuck deciding whether to say yes. A reminder to trust the first gut hit.",
+          "variations": ["Your body already knew the answer. Your head is just still in a meeting about it."]
+        }
+      }
+    },
+    {
+      "id": "hd-013",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Undefined centers / conditioning — amplifying others' energy in a crowd, being yourself when alone",
+      "tags": ["能量中心", "制約", "未定義", "獨處", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你那些「空白的能量中心」，就像沒裝紗窗的窗戶——別人的情緒會直接灌進來，還會被你放大。\n\n所以在人群裡你常常分不清：這份焦慮到底是我的，還是我接收來的？\n\n一個人獨處時那個平靜的你，才是原廠設定。",
+          "editorNote": "適合那種「在人多的地方特別累、回家才像自己」的高敏感朋友。",
+          "variations": ["你不是情緒化，你只是把全場的情緒都收進來了。"]
+        },
+        "en": {
+          "content": "Your 'undefined centers' are like windows with no screens — other people's emotions blow straight in, and you amplify them.\n\nSo in a crowd you often can't tell: is this anxiety even mine, or did I just pick it up?\n\nThe calm version of you when you're alone — that's the factory setting.",
+          "editorNote": "For the highly-sensitive friend who's wiped out in crowds and only feels like themselves once they're home.",
+          "variations": ["You're not 'too emotional' — you just absorbed the emotions of the entire room."]
+        }
+      }
+    },
+    {
+      "id": "hd-014",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Not-self theme — each type has a tell-tale emotion signaling misalignment (frustration/bitterness/anger/disappointment)",
+      "tags": ["非自己", "情緒", "對齊", "自我覺察", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖最貼心的設計，是每種人都內建一顆「走錯路警報器」：\n\n生產者走錯了會「挫敗」、投射者會「苦澀」、顯示者會「憤怒」、反映者會「失望」。\n\n所以那些情緒不是你的缺點，是身體在提醒你：欸，這條路不適合你，該轉彎了。",
+          "editorNote": "適合在情緒低潮時自我提醒，把負面情緒當成導航，而不是敵人。",
+          "variations": ["你的壞情緒不是來找碴的，是來報路況的：前方此路不通。"]
+        },
+        "en": {
+          "content": "The kindest part of Human Design: every type comes with a built-in 'wrong-turn alarm.'\n\nGenerators feel frustration, Projectors feel bitterness, Manifestors feel anger, Reflectors feel disappointment.\n\nThose emotions aren't your flaws — they're your body saying, hey, this path isn't for you, time to turn.",
+          "editorNote": "Good for low moments — a reminder to treat a bad mood as navigation, not an enemy.",
+          "variations": ["Your bad mood isn't here to ruin your day. It's a traffic report: road ahead closed, reroute."]
+        }
+      }
+    },
+    {
+      "id": "hd-015",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Human Design x MBTI x zodiac combo — Taiwan's obsession with self-classification systems",
+      "tags": ["人類圖", "MBTI", "星座", "自我分類", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現代人認識自己的三件套：星座看個性、MBTI 看人設、人類圖看能量。\n\n聊天開場已經從「你哪個星座」進化成「你 I 人還是 E 人、你哪型的」。\n\n我們不是迷信，我們只是太想搞懂自己，順便有個藉口解釋為什麼這麼累。",
+          "editorNote": "適合丟進那種一見面就互問星座、MBTI、人類圖的朋友群，懂的人秒笑。",
+          "variations": ["這年頭認識新朋友，不問星座 MBTI 人類圖，根本不知道要怎麼聊下去。"]
+        },
+        "en": {
+          "content": "The modern self-discovery starter pack: zodiac for your personality, MBTI for your persona, Human Design for your energy.\n\nThe opening line has evolved from 'what's your sign?' to 'are you an I or an E, and what's your type?'\n\nWe're not superstitious — we're just desperate to understand ourselves, and to have an excuse for why we're this tired.",
+          "editorNote": "Drop it in the group chat that swaps zodiac signs, MBTI letters, and Human Design types on sight. The right people will get it instantly.",
+          "variations": ["These days, meeting someone new without asking their sign, MBTI, and Human Design type leaves you with nothing to talk about."]
+        }
+      }
+    },
+    {
+      "id": "hd-016",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Strategy across types — waiting reframed as active, trusting timing instead of forcing",
+      "tags": ["策略", "等待", "順流", "人類圖", "自我覺察"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖教我最反直覺的一課：等待，不是浪費時間。\n\n生產者等回應、投射者等邀請、反映者等月亮——每一種「等」，其實都是在等對的能量靠近你。\n\n硬擠來的，留不住；對的事，會自己找上門。",
+          "editorNote": "適合那種急著想「快點有結果」的時刻，提醒自己順流比硬幹有用。",
+          "variations": ["你以為的「卡住」，有時候只是時機還沒到。該你的，跑不掉。"]
+        },
+        "en": {
+          "content": "The most counterintuitive lesson Human Design taught me: waiting is not wasting time.\n\nGenerators wait to respond, Projectors wait for the invitation, Reflectors wait for the moon — every kind of 'waiting' is really waiting for the right energy to come to you.\n\nWhat you force won't stay. What's meant for you will find its way in.",
+          "editorNote": "For the moment you're itching for results right now — a reminder that flowing beats forcing.",
+          "variations": ["What feels like being 'stuck' is sometimes just timing that hasn't arrived yet. What's yours won't get away."]
+        }
+      }
+    },
+    {
+      "id": "hd-017",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Projector — recognition over hustle; the right one invitation beats a hundred cold pitches",
+      "tags": ["投射者", "Projector", "被看見", "質勝於量", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "投射者不需要被很多人喜歡，只需要被「對的人」看見一次。\n\n一個真心的邀請，勝過一百次自我推銷；一個懂你的人，抵得過一整個不適合你的圈子。\n\n所以別急著到處發名片，那個會點名你的人，遲早會出現。",
+          "editorNote": "適合鼓勵那種「很努力刷存在感卻很累」的投射者朋友，少即是多。",
+          "variations": ["投射者的成功不是被全世界看見，是被那個對的人，剛好看見。"]
+        },
+        "en": {
+          "content": "A Projector doesn't need to be liked by many — just to be truly seen, once, by the right person.\n\nOne genuine invitation beats a hundred cold pitches. One person who gets you outweighs a whole circle that doesn't.\n\nSo stop handing out business cards everywhere. The one who'll call your name will show up in time.",
+          "editorNote": "For encouraging the Projector friend who's exhausting themselves trying to be noticed. Less really is more.",
+          "variations": ["A Projector's success isn't being seen by the whole world — it's being seen, at just the right moment, by the right person."]
+        }
+      }
+    }
+  ]
+}
