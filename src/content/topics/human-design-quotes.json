@@ -334,6 +334,82 @@
           "variations": ["A Projector's success isn't being seen by the whole world — it's being seen, at just the right moment, by the right person."]
         }
       }
+    },
+    {
+      "id": "hd-018",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Profile 3rd line — the martyr/experimenter; trial-and-error, bumping into things, learning by mistakes",
+      "tags": ["三爻", "Profile", "試錯", "烈士", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖裡有「三爻」的人，是天生的試錯機器：別人看說明書，他直接動手撞牆，撞完才知道哪裡不能走。\n\n所以他踩過的雷特別多，但也因為這樣，他講的經驗最真。\n\n別笑三爻又跌倒了——他正在幫全人類測試這條路通不通。",
+          "editorNote": "傳給那個老是同一個坑跌兩次、卻又最有故事可講的朋友，幫他平反一下。",
+          "variations": ["三爻的人生不是失敗，是田野調查：每個錯誤都是一筆數據。"]
+        },
+        "en": {
+          "content": "If you've got a 3rd line in your Human Design profile, you're a born trial-and-error machine: everyone else reads the manual, you just walk straight into the wall to find out where the wall is.\n\nSo you step on more landmines than most — but that's also why your advice is the realest in the room.\n\nDon't laugh at the 3-line tripping again. They're beta-testing the path for the rest of humanity.",
+          "editorNote": "Send to the friend who falls in the same hole twice but always has the best stories. Give them their redemption arc.",
+          "variations": ["A 3rd line's life isn't failure — it's field research. Every mistake is just one more data point."]
+        }
+      }
+    },
+    {
+      "id": "hd-019",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Manifestor — surge energy; either 200% full throttle or fully recharging, no in-between",
+      "tags": ["顯示者", "Manifestor", "爆發能量", "全有全無", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "顯示者的能量是「爆發型」的：要嘛火力全開衝到 200%，要嘛整個人關機回血，中間沒有檔位。\n\n所以別期待顯示者「穩穩地、每天一點點」——那不是他的設計。\n\n他不是時好時壞，是來一波、走一波，浪來就衝，浪走就躺。",
+          "editorNote": "傳給那種一忙就拚到極限、忙完就消失一週的朋友，他不是懶，是在等下一波。",
+          "variations": ["顯示者只有兩種狀態：全速前進，或徹底躺平。沒有「溫溫的」這個選項。"]
+        },
+        "en": {
+          "content": "A Manifestor runs on surge energy: either full throttle at 200%, or fully powered down and recharging. There's no middle gear.\n\nSo don't expect a Manifestor to do 'a little bit, steadily, every day' — that's just not how they're built.\n\nThey're not inconsistent. They come in waves: ride the swell when it's here, lie flat when it's gone.",
+          "editorNote": "Send to the friend who goes all-out when busy then vanishes for a week. They're not lazy — they're waiting for the next wave.",
+          "variations": ["A Manifestor has two settings: full speed ahead, or completely flat on the floor. 'Mildly warm' is not on the menu."]
+        }
+      }
+    },
+    {
+      "id": "hd-020",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "12 Profiles — conscious vs unconscious lines; who you think you are vs how others see you",
+      "tags": ["十二人生角色", "Profile", "意識", "潛意識", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖的「人生角色」是兩個數字組成的，像 1/3、5/1。\n\n前面那個，是你以為的自己；後面那個，是別人眼中、你自己沒發現的你。\n\n所以最有趣的時刻，是有人形容你，講的全是那個「後面的數字」——欸，原來我在別人眼裡長這樣。",
+          "editorNote": "適合丟給剛開始研究人類圖、查到自己角色號碼很興奮的朋友。",
+          "variations": ["你以為你是哪種人，跟別人看到的你，常常是兩個數字、兩個世界。"]
+        },
+        "en": {
+          "content": "Your Human Design 'profile' is two numbers, like 1/3 or 5/1.\n\nThe first one is who you think you are. The second is the version of you everyone else sees — the part you've never quite noticed yourself.\n\nSo the most interesting moment is when someone describes you and it's all that 'second number.' Huh — so that's what I look like from the outside.",
+          "editorNote": "Good for the friend who just discovered Human Design and is thrilled to learn their profile numbers.",
+          "variations": ["Who you think you are and who others see are often two numbers — and two entirely different worlds."]
+        }
+      }
+    },
+    {
+      "id": "hd-021",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "",
+      "sourceNote": "Compatibility — any two types can work if both follow their own strategy and authority; relationship reframe",
+      "tags": ["關係", "相容", "策略", "做自己", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖最暖的關係觀：沒有「天生不合」的兩個人，只有「沒在做自己」的兩個人。\n\n顯示者配反映者、投射者配生產者——任何組合都能很好，前提是兩個人都照自己的節奏走。\n\n感情會卡，常常不是因為個性不合，是因為其中一個人活成了別人。",
+          "editorNote": "適合傳給正在感情裡糾結「我們是不是不適合」的朋友，給他一個新角度。",
+          "variations": ["合不合，不是看星座配對表，是看你們有沒有各自把自己活對。"]
+        },
+        "en": {
+          "content": "The warmest take Human Design has on relationships: there's no such thing as two people who are 'just incompatible' — only two people who aren't being themselves.\n\nManifestor with Reflector, Projector with Generator — any combo can be beautiful, as long as both people move at their own rhythm.\n\nWhen a relationship gets stuck, it's often not a clash of personalities. It's that one person is living as someone they're not.",
+          "editorNote": "For the friend agonizing over 'maybe we're just not right for each other.' Hand them a different lens.",
+          "variations": ["Compatibility isn't a zodiac chart. It's whether you've each figured out how to live as your actual self."]
+        }
+      }
     }
   ]
 }

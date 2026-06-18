@@ -6834,6 +6834,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-236",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Classic 'no bugs, only undocumented features' line — rewritten",
+      "tags": [
+        "Bug",
+        "工程師思維",
+        "嘴硬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試人員：「你這裡有一個 Bug。」\n工程師：「那不是 Bug，那是一個還沒寫進文件的隱藏功能。」\n測試人員：「它會讓整個系統當掉。」\n工程師：「對，這就是它最強大的功能。」",
+          "editorNote": "傳給每次被抓到問題都能面不改色硬拗成功的工程師同事，保證會心一笑。",
+          "variations": [
+            "我的程式沒有錯誤，只有一些尚未被人類理解的設計巧思。",
+            "「這真的會壞嗎？」「不會，它只是會用一種你沒預期的方式運作。」"
+          ]
+        },
+        "en": {
+          "content": "QA: \"There's a bug right here.\"\nDev: \"That's not a bug, that's an undocumented feature.\"\nQA: \"It crashes the entire system.\"\nDev: \"Yeah, that's its most powerful feature.\"",
+          "editorNote": "Send to the coworker who can keep a straight face while talking their way out of any bug report.",
+          "variations": [
+            "My code doesn't have errors, just a few design choices humanity isn't ready for.",
+            "\"Does it really break?\" \"No, it just works in a way you didn't expect.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-237",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://lotsofpun.com/developer-jokes/",
+      "sourceNote": "Debugging detective joke — murderer and victim are both you — rewritten",
+      "tags": [
+        "Debug",
+        "工程師日常",
+        "自食惡果"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "Debug 就像在當偵探。\n你努力追查兇手是誰。\n查到最後才發現，兇手是三個月前的你。\n而且死者，是現在的你。",
+          "editorNote": "獻給每個翻 git blame 翻到自己名字、瞬間語塞的工程師。",
+          "variations": [
+            "git blame 是世界上最殘忍的工具，因為它永遠指向你。",
+            "我花了一整天追一個 Bug，最後發現留下這個 Bug 的人，是上週信心滿滿的我。"
+          ]
+        },
+        "en": {
+          "content": "Debugging is like being a detective.\nYou work hard to find out who did it.\nAt the end, you discover the culprit was you, three months ago.\nAnd the victim is you, right now.",
+          "editorNote": "For every developer who ran git blame and froze the moment their own name showed up.",
+          "variations": [
+            "git blame is the cruelest tool ever made, because it always points back at you.",
+            "Spent all day hunting a bug, only to find the person who wrote it was last week's overconfident me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-238",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "Git merge conflict relationship joke — rewritten",
+      "tags": [
+        "Git",
+        "團隊合作",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟 Git 的關係很複雜。\n我們每天都在一起，無話不談。\n但只要一到合併的時候，我們就會爆發無數的衝突。\n然後通常都是我先低頭。",
+          "editorNote": "傳給每個被 merge conflict 折磨過、最後乖乖手動解衝突的隊友。",
+          "variations": [
+            "感情裡最怕的就是衝突，工程師最怕的也是衝突，只是後者還要自己解。",
+            "別人吵架會冷戰，我跟 Git 吵架還得逐行確認到底是誰的錯。"
+          ]
+        },
+        "en": {
+          "content": "My relationship with Git is complicated.\nWe're together every day, telling each other everything.\nBut the moment we try to merge, we have countless conflicts.\nAnd somehow I'm always the one who backs down first.",
+          "editorNote": "Send to the teammate who's been tortured by merge conflicts and ended up resolving every line by hand.",
+          "variations": [
+            "Conflict is what kills relationships — and it's what kills my afternoon, except I have to resolve mine line by line.",
+            "Most couples give each other the silent treatment after a fight. Git and I have to go through every line to figure out whose fault it was."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-239",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://lotsofpun.com/developer-jokes/",
+      "sourceNote": "Computer 99% Stack Overflow tabs joke — rewritten",
+      "tags": [
+        "Stack Overflow",
+        "工程師日常",
+        "真實"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師的瀏覽器分析報告：\n灰塵 1%、\n沒關掉的 Stack Overflow 分頁 99%。\n其中有三個分頁，從入職那天就一直開到現在。",
+          "editorNote": "傳給那個瀏覽器永遠開超過五十個分頁、卻說『等等會關』的同事。",
+          "variations": [
+            "我不是在寫程式，我是在複製貼上別人五年前的答案，然後假裝我懂。",
+            "Stack Overflow 倒一天，全世界的生產力就會直接歸零。"
+          ]
+        },
+        "en": {
+          "content": "A senior dev's browser, analyzed:\n1% dust,\n99% Stack Overflow tabs never closed.\nThree of those tabs have been open since the day they were hired.",
+          "editorNote": "Send to the coworker with fifty-plus tabs open who swears they'll 'close them in a minute.'",
+          "variations": [
+            "I'm not writing code, I'm copy-pasting someone's answer from five years ago and pretending I understand it.",
+            "If Stack Overflow went down for one day, global productivity would drop straight to zero."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-240",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'It works on my machine' production joke — rewritten",
+      "tags": [
+        "上線",
+        "工程師思維",
+        "甩鍋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客戶：「線上環境壞掉了。」\n工程師：「可是在我電腦上跑得好好的啊。」\n客戶：「那要不要把你的電腦寄給全部的使用者？」\n工程師沉默了三秒，認真地拿出了紙箱。",
+          "editorNote": "傳給每個講過『在我這邊明明沒問題』、然後被現實狠狠打臉的工程師。",
+          "variations": [
+            "工程師最堅定的信仰，就是『在我電腦上是好的』這六個字。",
+            "如果可以把開發環境整台搬上線，這世界上一半的 Bug 都會消失。"
+          ]
+        },
+        "en": {
+          "content": "Client: \"Production is down.\"\nDev: \"But it runs perfectly on my machine.\"\nClient: \"Then should we ship your machine to every user?\"\nThe dev went quiet for three seconds, then seriously reached for a cardboard box.",
+          "editorNote": "For every developer who said 'works fine on my end' and got humbled by reality minutes later.",
+          "variations": [
+            "A developer's deepest faith is contained in five words: 'it works on my machine.'",
+            "If we could just ship the entire dev environment to production, half the world's bugs would vanish."
+          ]
+        }
+      }
     }
   ]
 }

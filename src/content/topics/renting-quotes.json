@@ -3168,6 +3168,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-130",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 'describing renting as challenging is like calling a fire a warmth situation' meme; rewritten original",
+      "tags": ["房租", "通膨", "厭世", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我現在租屋「會不會有點辛苦」。\n這就像問住在火災現場的人「會不會有點溫暖」。",
+          "editorNote": "適合被長輩問「現在租屋還好吧」時拿來回，幽默又不失禮地表達現實",
+          "variations": [
+            "說租屋「有點吃力」，就像說鐵達尼號「有點潮濕」。",
+            "他們說年輕人吃苦耐勞，我每個月繳房租的時候，苦跟勞都齊全了。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked if renting these days is 'a little tough.'\nThat's like asking someone standing in a house fire if they're 'feeling a bit warm.'",
+          "editorNote": "Perfect comeback when a relative asks 'so renting's going okay, right?' — funny without being rude about the reality",
+          "variations": [
+            "Calling renting 'a bit of a strain' is like calling the Titanic 'a little damp.'",
+            "They say young people are tough and hardworking. Every time rent is due, I've got the tough and the working covered."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-131",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://news.nextapple.com/entertainment/20260321/66DA244394F42A4D446282C55BD808B1",
+      "sourceNote": "2026 打開租屋網嚇壞 反被租補害了 房東1招反制 register; rewritten original",
+      "tags": ["租屋網", "漲租", "補助", "找房"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我打開租屋網想找便宜一點的，\n結果整頁都標「可申請補助」，\n租金一個比一個高。\n原來補助不是給房客的優惠，是給房東的漲價靈感。",
+          "editorNote": "傳給正在租屋網滑到懷疑人生的朋友，提醒他看到「可租補」先把租金跟去年比一比",
+          "variations": [
+            "租屋網的「可租補」三個字，等於商品上的「原價」——存在的意義就是讓你以為你賺到。",
+            "我想靠補助省錢，房東想靠補助賺錢，最後省到的是我的睡眠，賺到的是他的房貸。"
+          ]
+        },
+        "en": {
+          "content": "I opened the rental site hoping to find something cheaper.\nEvery listing was tagged 'subsidy-eligible,'\nand each rent was higher than the last.\nTurns out the subsidy isn't a perk for tenants — it's pricing inspiration for landlords.",
+          "editorNote": "Send to a friend doomscrolling rental sites — remind them that whenever they see 'subsidy-eligible,' compare the rent to last year first",
+          "variations": [
+            "'Subsidy-eligible' on a listing is like the 'original price' tag on a sale item — it exists only to make you think you're winning.",
+            "I tried to save money with the subsidy, the landlord tried to make money with it. In the end I saved my sleep and he made his mortgage payment."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-132",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.inn-taipei.com/2025-rental-law-amendment/",
+      "sourceNote": "2026 租賃條例修法 漲幅須對照主計總處房租指數 register; rewritten original",
+      "tags": ["租賃法", "漲租", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新法說房東漲租要對照主計總處的房租指數。\n房東看完點點頭，\n然後把「電費」「網路」「管理費」全部各加五百。\n他沒漲房租，他只是讓房子周邊的一切都通膨。",
+          "editorNote": "傳給以為新法能擋漲租、結果被各種名目分屍的朋友，提醒他逐項問清楚",
+          "variations": [
+            "房東說「房租我一毛沒漲」，這句話的標點符號藏在電費、水費跟那個莫名其妙的「設備使用費」裡。",
+            "法律管得到房租，管不到房東的創意，他總有一百種讓你多付錢的方式。"
+          ]
+        },
+        "en": {
+          "content": "The new law says landlords can only raise rent in line with the official housing price index.\nMy landlord nodded along,\nthen added five hundred each to 'electricity,' 'internet,' and 'management fees.'\nHe didn't raise the rent — he just inflated everything orbiting the apartment.",
+          "editorNote": "Send to a friend who thought the new law would stop hikes but got dismembered by add-on fees instead — remind them to itemize everything",
+          "variations": [
+            "Landlord says 'I haven't raised the rent a cent.' That sentence's punctuation is hidden in the electricity, water, and a mysterious 'equipment usage fee.'",
+            "The law can govern the rent, but not the landlord's creativity. He's always got a hundred ways to make you pay more."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-133",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://cheezburger.com/38562053/22-memes-fresh-on-the-market-for-renters-who-are-fed-up-with-the-landlord-special",
+      "sourceNote": "2026 'landlord special' shoddy DIY repair meme; rewritten original",
+      "tags": ["報修", "房東", "DIY", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我報修漏水，房東來「修」了。\n他的方法是：在漏水處貼一張防水膠帶，\n再在膠帶上補一張，最後拿油漆把整片刷白。\n房東的維修哲學是：看不到，就等於修好了。",
+          "editorNote": "傳給剛被房東「土法煉鋼」修過家裡的朋友，配一張那條膠帶的照片更有戲",
+          "variations": [
+            "房東的工具箱只有三樣東西：膠帶、白漆、跟一句「應該沒問題了吧」。",
+            "房東修東西的標準不是「會不會再壞」，是「我搬走之前會不會再壞」。"
+          ]
+        },
+        "en": {
+          "content": "I reported a leak, and the landlord came to 'fix' it.\nHis method: slap waterproof tape over the spot,\nadd another strip on top, then paint the whole patch white.\nThe landlord's repair philosophy: if you can't see it, it's fixed.",
+          "editorNote": "Send to a friend whose landlord just gave the place the 'landlord special' — bonus drama if you attach a photo of that tape",
+          "variations": [
+            "My landlord's toolbox holds exactly three things: tape, white paint, and the phrase 'that should do it.'",
+            "My landlord's repair standard isn't 'will it break again,' it's 'will it break again before I move out.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-134",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "2026 看房後要同批租客都匯款 詐騙 register; rewritten original",
+      "tags": ["租屋詐騙", "看房", "匯款", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房看到一間又便宜又漂亮的，\n「房東」說很搶手，叫我先匯訂金卡位。\n我匯之前問了一句：「可以先看身分證跟權狀嗎？」\n他已讀我，然後消失。\n在租屋市場，太美好的，通常是詐騙。",
+          "editorNote": "傳給第一次自己找房、看到超低價房源心動的朋友，提醒他匯款前一定要驗房東身分",
+          "variations": [
+            "租屋鐵律：對方越急著要你匯款，那間房就越不存在。",
+            "我差點被一間「便宜到不可思議」的房子騙走訂金，後來才懂，不可思議的從來不是房子，是我的天真。"
+          ]
+        },
+        "en": {
+          "content": "I toured a place that was cheap and gorgeous.\nThe 'landlord' said it was in high demand and told me to wire a deposit to hold it.\nBefore sending, I asked one thing: 'Can I see your ID and the property deed first?'\nHe read the message, then vanished.\nIn the rental market, anything too good is usually a scam.",
+          "editorNote": "Send to a friend hunting their first place and tempted by a suspiciously cheap listing — remind them to verify the landlord's identity before wiring a cent",
+          "variations": [
+            "Rental rule of iron: the more urgently they want you to wire money, the less that apartment exists.",
+            "I almost got scammed out of a deposit by an 'unbelievably cheap' place. Later I realized the unbelievable part was never the apartment — it was my naivety."
+          ]
+        }
+      }
     }
   ]
 }

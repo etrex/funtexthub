@@ -3838,6 +3838,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-158",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Rewrites the canonical Dcard 奧客語錄 'we have no record of this / 別家都可以只有你們不行' trope into a single internal-monologue beat",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「別家都可以，只有你們這裡不行。」\n我：「那您要不要去那家比較方便的？」\n客人：「我就是要在你們這裡用。」\n原來他要的不是服務，是表演舞台。",
+          "editorNote": "「別家都可以」是奧客的萬用開場白，通常後面那家店的名字永遠說不出來。傳給今天被這句話釘在櫃檯的同事，提醒他：那家店不存在，但你的下班時間存在。",
+          "variations": [
+            "他口中那家『什麼都可以』的店，地址是『不告訴你路』。",
+            "客人說別家都行，我說那很好啊，這裡是別家的隔壁。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Everywhere else lets me do this — only you guys won't.\"\nMe: \"Would the more convenient place suit you better, then?\"\nCustomer: \"No, I want to do it HERE.\"\nTurns out they didn't want the service. They wanted a stage.",
+          "editorNote": "\"Everywhere else allows it\" is the universal opener of difficult customers, and somehow the name of that other place never quite materializes. Send to the coworker pinned to the counter by this line today.",
+          "variations": [
+            "That store where \"anything goes\"? Its address is \"none of your business.\"",
+            "He said the other place allows it. Great — the other place is next door, go ahead."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-159",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.cheers.com.tw/article/article.action?id=5026100",
+      "sourceNote": "Reworks the emotional-labor 'smile saved for customers, tears saved for after the shift' theme from Cheers + Dcard 工作板 into a quote",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "厭世",
+        "金句"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上班八小時，我把笑容平均分給每一位客人。\n下班那一刻，我才發現自己今天的份，一個都沒留。",
+          "editorNote": "情緒勞動最累的不是裝笑，是裝完之後發現沒人替你裝。寫給那個對所有人微笑，卻忘了對自己溫柔的人。",
+          "variations": [
+            "我的笑容是公司資產，回家才知道自己早就破產。",
+            "微笑是發給客人的，剩下的情緒才是我帶回家的行李。"
+          ]
+        },
+        "en": {
+          "content": "Eight hours on shift, I split my smile evenly among every customer.\nClocking out, I realized I'd saved exactly none of it for myself.",
+          "editorNote": "The exhausting part of emotional labor isn't faking the smile — it's discovering, afterward, that no one was faking one back for you. For the person who's kind to everyone and forgets to be kind to themselves.",
+          "variations": [
+            "My smile is a company asset; I only find out I'm bankrupt once I get home.",
+            "Smiles go to the customers. The leftover feelings are the luggage I carry home."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-160",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://notalwaysright.com/17-times-retail-workers-had-the-perfect-comeback-for-terrible-customers/236785/",
+      "sourceNote": "Rewrites the classic 'do you know who I am? / let me get someone who can help with that' retail comeback into a content-safe version",
+      "tags": [
+        "服務業",
+        "奧客",
+        "尊嚴",
+        "金句"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人拍桌：「你知道我是誰嗎？」\n我冷靜拿起對講機：「保全請注意，這裡有位客人忘記自己是誰，需要協助。」",
+          "editorNote": "「你知道我是誰嗎」這句話的標準答案，就是讓他自己也想不起來。傳給那個今天被『大人物』威脅過的同事，這是想得到卻不能說出口的最佳回覆。",
+          "variations": [
+            "他問我知不知道他是誰，我說不知道，但我知道他下一站是出口。",
+            "您是誰我真的不清楚，但您再大聲，警衛就會幫您介紹自己。"
+          ]
+        },
+        "en": {
+          "content": "Customer slams the counter: \"Do you know who I am?\"\nMe, calmly reaching for the intercom: \"Security, we have a customer who's forgotten who he is and needs assistance.\"",
+          "editorNote": "The correct answer to \"do you know who I am?\" is to make sure he can't quite remember either. Send to the coworker threatened by a self-declared VIP today — the comeback they wanted but couldn't say out loud.",
+          "variations": [
+            "He asked if I knew who he was. No idea — but I know his next stop is the exit.",
+            "I genuinely don't know who you are, but get any louder and security will introduce you to yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-161",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://udn.com/news/story/7269/8706388",
+      "sourceNote": "Adapts the 厭世職場語錄 'distance from vacation start to end' cynical-quote format to a service-shift context",
+      "tags": [
+        "服務業",
+        "厭世",
+        "工作",
+        "金句"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界上最短的距離，是「我先休息一下」到「客人來了」。\n世界上最長的距離，是現在到下班。",
+          "editorNote": "服務業的時間是彈性的：休息會瞬間蒸發，最後一小時會無限延長。傳給那個剛坐下就被門鈴叫起來的人。",
+          "variations": [
+            "椅子還沒坐熱，客人的問題已經煮滾。",
+            "我以為我在休息，其實只是站著發呆的進階版。"
+          ]
+        },
+        "en": {
+          "content": "The shortest distance in the world is from \"let me just sit down for a sec\" to \"a customer walked in.\"\nThe longest distance in the world is from right now to clocking out.",
+          "editorNote": "Time in service work is elastic: breaks evaporate instantly, the final hour stretches forever. For the one yanked back up by the door chime the second they sat down.",
+          "variations": [
+            "The seat hasn't even warmed up before the customer's problem is at a rolling boil.",
+            "I thought I was on break. Turns out it was just standing-around-blankly, deluxe edition."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-162",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.nownews.com/news/5039152",
+      "sourceNote": "Rewrites the call-center '3大奧客罪狀 / crying after hanging up' theme into a phone-support internal monologue",
+      "tags": [
+        "服務業",
+        "客服",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人在電話那頭罵了十分鐘，最後說：「你聲音怎麼還這麼甜？」\n因為我把音量留給您，把表情留給了靜音鍵後面那張快哭的臉。",
+          "editorNote": "客服最厲害的特技，是嘴角往上、眼眶往下，同時進行。傳給那個掛上電話才終於可以做表情的客服戰友。",
+          "variations": [
+            "電話這頭笑著說『為您服務』，靜音鍵那頭已經排練好嘆氣。",
+            "我的聲音很甜，是因為苦的部分都吞下去了。"
+          ]
+        },
+        "en": {
+          "content": "The customer yelled for ten minutes, then said: \"How is your voice still so sweet?\"\nBecause I gave you the volume and saved the real face for the one behind the mute button, the one about to cry.",
+          "editorNote": "The greatest trick in call-center work is smiling with your mouth and welling up with your eyes at the same time. For the phone-support comrade who only gets to make a face once the call ends.",
+          "variations": [
+            "\"Happy to help!\" on this end; a fully rehearsed sigh waiting behind the mute button.",
+            "My voice is sweet because I already swallowed all the bitter parts."
+          ]
+        }
+      }
     }
   ]
 }

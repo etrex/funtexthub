@@ -1989,6 +1989,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-087",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/3219262",
+      "sourceNote": "BTS 高雄場 6/4 拓元全面開賣，分三階段：ARMY 會員優先購、Live Nation 預售、全民開搶，多數人卡在最後一階段",
+      "tags": ["三階段", "資格", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "搶票分三階段:\n\n會員優先購、預售、全民開搶。\n\n我前兩階段都沒資格,\n只能等最後那一場。\n\n等到那一場,\n票早就在前兩階段\n被搶光了。\n\n原來「全民」開搶,\n是搶剩下的全民。",
+          "editorNote": "多階段售票讓沒會員資格的人只能撿最後一輪、結果根本沒剩。傳給卡在「全民開搶」這一關空手而回的朋友",
+          "variations": [
+            "認命版:「會員、預售、全民——前面兩道門我都沒鑰匙,輪到我這道門時,房間早就空了。」"
+          ]
+        },
+        "en": {
+          "content": "The sale runs in three tiers:\n\nmember presale, early access, general public.\n\nI didn't qualify for the first two.\nSo I waited for the last one.\n\nBy the time it opened,\nthe first two tiers\nhad already cleaned it out.\n\nTurns out 'general public'\nmeans whatever the public left behind.",
+          "editorNote": "Tiered sales leave non-members scrapping for a last round that's already empty. Send to a friend stuck in the general-public tier with nothing to grab",
+          "variations": [
+            "Resigned: 'Member, presale, public — I had no key for the first two doors, and by the time mine opened, the room was bare.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-088",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.nownews.com/news/6838933",
+      "sourceNote": "拓元一身分證綁一手機，帳號一旦被鎖，連帶的身分證與手機號碼都無法再註冊新帳號",
+      "tags": ["實名綁定", "停權", "連坐", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個帳號被鎖,\n連我的身分證、\n我的手機號碼\n都跟著陪葬,\n再也註冊不了。\n\n別人是一人犯錯一人擔,\n我是一個帳號出事,\n整個我都被連坐。",
+          "editorNote": "一證一機綁定下帳號被鎖等於身分證、手機全部報廢，是 2026 實名制最殘酷的副作用。傳給帳號被鎖、連重新註冊都沒辦法的朋友",
+          "variations": [
+            "戶政版:「帳號、身分證、手機號碼,三個一起進冷宮。我不是被停權,我是被整個人除戶。」"
+          ]
+        },
+        "en": {
+          "content": "One account gets locked,\nand my ID number\nand my phone number\ngo down with it —\nno new account, ever.\n\nMost people: one mistake, one person pays.\nMe: one account trips a wire\nand the whole of me gets convicted.",
+          "editorNote": "One-ID-one-phone binding means a single ban nukes your ability to ever re-register — the cruelest twist of real-name systems. Send to a friend locked out with no way to start over",
+          "variations": [
+            "Records version: 'Account, ID, phone number — all three sent to the freezer together. I wasn't suspended, I was deregistered as a human.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-089",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021480",
+      "sourceNote": "搶票攻略強調 Ping 值比下載速度更關鍵，延遲低才能先擠進伺服器，並建議改用有線網路",
+      "tags": ["Ping值", "延遲", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "攻略說搶票的關鍵\n不是網速,是 Ping 值。\n\n延遲越低,\n你越早擠進伺服器。\n\n我量了一下我的人生延遲——\n\n出社會慢半拍、\n戀愛慢一年、\n搶票慢 0.3 秒。\n\n難怪我總是擠不進去。",
+          "editorNote": "把 Ping 值延遲延伸成人生節奏永遠慢半拍，是工程腦粉絲的高級自嘲。傳給研究半天 Ping 值還是被擠掉的朋友",
+          "variations": [
+            "技術版:「我把網路延遲壓到 8ms,把人生延遲壓不下來。瓶頸從來不在伺服器,在我這台主機。」"
+          ]
+        },
+        "en": {
+          "content": "The guide says the key to ticketing\nisn't bandwidth — it's ping.\n\nThe lower your latency,\nthe sooner you squeeze into the server.\n\nSo I measured my life's latency —\n\nhalf a beat late to adulthood,\na year late to love,\n0.3 seconds late to the queue.\n\nNo wonder I never get in.",
+          "editorNote": "Stretching network latency into a metaphor for always being a half-step behind is peak engineer-brain self-roast. Send to a friend who optimized their ping and still got bounced",
+          "variations": [
+            "Technical version: 'Got my network latency down to 8ms. Couldn't get my life latency down at all. The bottleneck was never the server — it was this machine right here.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-090",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.dailyjournal.com/articles/387964-sabotage-ftc-sues-ticketmaster-and-live-nation-over-deceptive-pricing-scalping-and-bot-practices",
+      "sourceNote": "FTC 與七州控告 Live Nation 與 Ticketmaster 縱容黃牛機器人、超量囤票、欺騙性定價，依 BOTS Act 每次違規最高罰 5.3 萬美元",
+      "tags": ["FTC", "訴訟", "黃牛", "正義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞:政府告售票龍頭,\n說他們放任機器人囤票、\n還偷偷加價騙消費者。\n\n我看到標題的瞬間\n眼眶一熱——\n\n原來這麼多年\n我覺得哪裡怪怪的,\n\n不是我多疑,\n是真的有人\n把整套系統設計成這樣。",
+          "editorNote": "官方層級正式起訴售票巨頭，替粉絲多年的「總覺得被坑」做了實證。傳給長年懷疑系統不對勁、卻被說是想太多的朋友",
+          "variations": [
+            "平反版:「他們告的不只是一家公司,是替我那句『這明明就有問題』平反。我不是難搞,我只是早就看穿了。」"
+          ]
+        },
+        "en": {
+          "content": "News: the government is suing the ticketing giant\nfor letting bots hoard seats\nand quietly padding prices to mislead buyers.\n\nThe second I saw the headline,\nmy eyes stung —\n\nall these years\nI felt like something was off.\n\nTurns out I wasn't paranoid.\nSomeone really did\nbuild the whole system this way.",
+          "editorNote": "A government-level lawsuit against the ticketing giant vindicates years of fan suspicion. Send to a friend who always sensed the system was rigged and got told they were overthinking it",
+          "variations": [
+            "Vindication version: 'They're not just suing a company — they're proving my old line, this is clearly broken. I wasn't difficult. I just saw it early.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-091",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.commerce.senate.gov/meetings/examining-the-impact-of-ticket-sales-practices-and-bot-resales-on-concert-fans/",
+      "sourceNote": "美國參議院 2026/1/28 舉行聽證會「Fees Rolled on All Summer Long」，檢視票務手續費與機器人搶票對歌迷的衝擊",
+      "tags": ["聽證會", "手續費", "制度", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "連國會都開了聽證會,\n專門討論\n手續費和機器人\n怎麼把歌迷整慘。\n\n要動用到一整個國家的\n立法機關\n才能討論「為什麼我買張票這麼痛」——\n\n我的快樂,\n原來這麼難。",
+          "editorNote": "連國會都要開聽證會研究搶票之痛，凸顯「想看場演唱會」竟成制度級難題。傳給覺得追星快樂得來如此費力的朋友",
+          "variations": [
+            "感慨版:「要勞動整個國會來討論我為什麼買不到票。我的一點快樂,居然是國家級的議題。」"
+          ]
+        },
+        "en": {
+          "content": "Even Congress held a hearing,\ndevoted entirely to\nhow fees and bots\ngrind fans into the ground.\n\nIt takes an entire nation's\nlegislature\nto ask 'why does buying one ticket hurt this much' —\n\nturns out my joy\nis genuinely that hard to come by.",
+          "editorNote": "When Congress convenes a hearing on ticketing pain, it underscores that 'just seeing a show' became a systemic ordeal. Send to a friend exhausted by how much effort their fandom now demands",
+          "variations": [
+            "Wistful version: 'It takes a whole Congress to debate why I can't get a ticket. My small slice of happiness is now, officially, a matter of national policy.'"
+          ]
+        }
+      }
     }
   ]
 }

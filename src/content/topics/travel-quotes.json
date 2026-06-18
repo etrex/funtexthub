@@ -3399,6 +3399,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-138",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.myshoesabroad.com/funny-travel-phrases-from-all-over-the-world/",
+      "sourceNote": "lost in translation / 翻譯 App 出包 register，原創改寫",
+      "tags": ["翻譯", "搞笑", "出國", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我本來想用翻譯 App 點一碗湯，\n結果店員笑了三秒，\n端上來一盤我從沒看過的東西。\n\n很好吃。\n我到現在還是不知道那是什麼。",
+          "editorNote": "適合異國小吃特寫、語言不通的餐廳合照、Threads 出糗分享——把「翻譯翻車」 寫成最有人情味的旅行意外",
+          "variations": [
+            "翻譯 App 最大的功能，是讓你跟陌生人一起對著手機螢幕笑出來。",
+            "在語言不通的地方點菜，本質上就是一場你跟運氣的合作。"
+          ]
+        },
+        "en": {
+          "content": "I tried to order soup with a translation app.\nThe waiter laughed for three seconds\nand brought out something I'd never seen before.\n\nIt was delicious.\nI still don't know what it was.",
+          "editorNote": "For the mystery-dish close-up, the language-barrier restaurant photo, or the Threads 'point and pray' story — turns a translation fail into the warmest kind of travel accident",
+          "variations": [
+            "The real feature of a translation app is making you and a total stranger laugh at the same phone screen.",
+            "Ordering food where you don't speak the language is basically a joint venture between you and luck."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-139",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://punshifter.com/travel-jokes-one-liners/",
+      "sourceNote": "「I know where we're going / 五個錯誤轉彎前」 frame，重新改寫",
+      "tags": ["迷路", "GPS", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我知道路啦。」\n\n——這句話，\n是我五個錯誤轉彎以前說的。",
+          "editorNote": "適合巷弄迷路的廢照、跟旅伴鬥嘴後的 Threads 短發、走錯路四十分鐘後的苦笑自拍——一句話講完所有「自信導航」的下場",
+          "variations": [
+            "我手機有 GPS、有離線地圖、有導航 App，最後還是靠直覺把我們帶到死巷。",
+            "旅行中最危險的一句話不是「再走五分鐘就到」，是「相信我，我認得路」。"
+          ]
+        },
+        "en": {
+          "content": "\"I know where we're going.\"\n\n— me, five wrong turns ago.",
+          "editorNote": "For the dead-end-alley photo, the post-bickering Threads quip, or the 40-minutes-the-wrong-way selfie — one line that captures every overconfident navigator's fate",
+          "variations": [
+            "I have GPS, offline maps, and a navigation app, and somehow my gut still led us straight into a dead end.",
+            "The most dangerous sentence on a trip isn't 'just five more minutes.' It's 'trust me, I know the way.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-140",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.jetlaggedroamer.com/funny-travel-quotes/",
+      "sourceNote": "「just here for the selfies / tourist trap」 register，原創改寫",
+      "tags": ["觀光客", "拍照", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我排了一小時的隊，\n擠過三百個觀光客，\n只為了拍一張\n看起來像是\n「現場只有我一個人」的照片。",
+          "editorNote": "適合知名景點人擠人的真實照、網美打卡點排隊的 Threads 廢發、IG 美照後的爆料文——把「觀光客拍照文化」 自嘲到位又不刻薄",
+          "variations": [
+            "那張歲月靜好的照片，背後是三百個人的後腦勺跟我快斷掉的耐心。",
+            "我不是來感受文化的，我是來跟另外三百個人搶同一個拍照角度的。"
+          ]
+        },
+        "en": {
+          "content": "I waited in line for an hour,\nelbowed past three hundred tourists,\nall to take one photo\nthat looks like\nI had the whole place to myself.",
+          "editorNote": "For the actually-crowded landmark reality shot, the queue-at-the-photo-spot Threads post, or the honest follow-up to a glossy IG pic — self-deprecating about tourist culture without being mean",
+          "variations": [
+            "That serene, peaceful photo? It's standing on three hundred other people's heads and my last shred of patience.",
+            "I'm not here to soak in the culture. I'm here to fight three hundred people for the same camera angle."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-141",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://www.davestravelpages.com/airport-instagram-captions/",
+      "sourceNote": "「airports: where sleep and time don't exist」 register，重新改寫",
+      "tags": ["機場", "睡眠", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "在機場，\n時間是不存在的。\n\n所以早上七點喝啤酒合理、\n下午三點睡地板合理、\n一包洋芋片賣你一百八\n也，勉強，合理。",
+          "editorNote": "適合轉機過夜的崩潰自拍、登機門前躺平的 Threads 廢發、機場美食街天價收據照——把機場那種時空失序的荒謬感寫到位",
+          "variations": [
+            "機場是地表唯一一個你睡在地板上，還會有人羨慕你終於找到位子的地方。",
+            "在機場待超過六小時，你的生理時鐘會主動辭職。"
+          ]
+        },
+        "en": {
+          "content": "At the airport,\ntime doesn't exist.\n\nSo a 7 AM beer is fine,\na 3 PM nap on the floor is fine,\nand a bag of chips for nine dollars\nis, somehow, also fine.",
+          "editorNote": "For the overnight-layover meltdown selfie, the sprawled-at-the-gate Threads post, or the outrageous-airport-receipt photo — nails the time-warp absurdity every traveler has lived",
+          "variations": [
+            "The airport is the only place on earth where people envy you for finally finding a spot on the floor to sleep.",
+            "Spend more than six hours in an airport and your body clock quietly hands in its resignation."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-142",
+      "dateAdded": "2026-06-18",
+      "sourceUrl": "https://quoteliy.com/best-travel-quotes/",
+      "sourceNote": "sincere reflective register × 回憶 frame，原創",
+      "tags": ["旅行", "回憶", "勵志", "溫馨"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不會記得那天的天氣，\n不會記得門票多少錢，\n但你會記得\n那個轉角突然出現的海，\n以及當下\n你毫無防備地笑出來的自己。",
+          "editorNote": "適合旅行回顧長文、年末總結、把舊照片翻出來的 IG caption——把「旅行為什麼值得」 講得很溫柔、不喊口號",
+          "variations": [
+            "旅行帶不走的東西很多，但帶得走的，剛好都是最重要的那些。",
+            "多年以後，你忘了行程表上的每一個景點，卻記得某個不在計畫裡的瞬間。"
+          ]
+        },
+        "en": {
+          "content": "You won't remember the weather that day,\nor how much the ticket cost.\n\nBut you'll remember\nthe ocean that appeared around the corner,\nand the version of you\nthat laughed before you could stop it.",
+          "editorNote": "For the year-end travel recap, the reflective long caption, or the old-photo throwback post — explains why travel is worth it, gently and without slogans",
+          "variations": [
+            "Travel leaves a lot behind. But what it lets you keep happens to be the part that matters most.",
+            "Years later, you'll forget every stop on the itinerary and remember the one moment that wasn't on it."
+          ]
+        }
+      }
     }
   ]
 }
