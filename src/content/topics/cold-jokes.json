@@ -6660,6 +6660,136 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-245",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://punspaw.com/cold-jokes/",
+      "sourceNote": "受英文雪人問答『What do you call an old snowman? Water』啟發，保留『雪人融化＝變成水』的核心，改寫成中文諧音情境",
+      "tags": [
+        "諧音",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道一個雪人變老以後會變成什麼嗎？\n\n會變成「過氣」的明星——因為它整個都化掉了。",
+          "editorNote": "適合在冬天或聊到融雪、天氣回暖時冷一下",
+          "variations": [
+            "也可以直接答案版：「答案是一灘水。它老到連身材都守不住了。」"
+          ]
+        },
+        "en": {
+          "content": "What do you call a snowman that's gotten really old?\n\nWater. He just couldn't hold himself together anymore.",
+          "editorNote": "Good for winter chit-chat or when the weather starts warming up",
+          "variations": [
+            "Quick version: \"What's an old snowman? A puddle with memories.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-246",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://pun.me/puns/animal/",
+      "sourceNote": "受英文『Why don't lobsters share? Because they're shellfish（shellfish≈selfish）』啟發，中文改用龍蝦『小氣＝殼很硬』的情境重寫",
+      "tags": [
+        "動物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼龍蝦從來不請客？\n\n因為牠的殼太硬，荷包當然也跟著硬，一毛都摳不出來。",
+          "editorNote": "適合在朋友又裝沒看到帳單時開玩笑",
+          "variations": [
+            "也可以接：「那螃蟹呢？」「螃蟹更慘，連走路都橫著走，明擺著不想正面付錢。」"
+          ]
+        },
+        "en": {
+          "content": "Why does a lobster never pick up the check?\n\nIt's too shellfish.",
+          "editorNote": "Good for ribbing the friend who always 'forgets' their wallet",
+          "variations": [
+            "Add: \"What about the crab?\" \"The crab just sidesteps the bill entirely.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-247",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://quillbot.com/blog/frequently-asked-questions/what-are-some-funny-food-puns/",
+      "sourceNote": "受英文『I'm on a seafood diet. I see food and I eat it（seafood≈see food）』啟發，中文改寫成『海鮮餐／看見食物』的諧音版本",
+      "tags": [
+        "食物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我最近在執行一種很嚴格的減肥法，叫做「看見飲食法」。\n\n就是只要看見食物，我就把它吃掉。",
+          "editorNote": "適合在被問為什麼又胖了、或揪團吃飯時自嘲",
+          "variations": [
+            "也可以接：「成效如何？」「目前看得很準，一個都沒漏掉。」"
+          ]
+        },
+        "en": {
+          "content": "I'm on a really strict diet these days. It's called the see-food diet.\n\nI see food, and I eat it.",
+          "editorNote": "Good for self-deprecating laughs when someone asks why you gained weight",
+          "variations": [
+            "Add: \"How's it going?\" \"My eyesight's never been better — I haven't missed a single plate.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-248",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.ducksters.com/jokes/animals.php",
+      "sourceNote": "受英文『What do you call a snake that is 3.14 meters long? A pi-thon（pi+python）』啟發，中文保留『蛇＋圓周率』的數學雙關核心重寫",
+      "tags": [
+        "動物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道一條剛好三點一四公尺長的蛇叫什麼嗎？\n\n叫「派森」——因為牠的長度剛好等於一個圓周率，數學老師看了都想養。",
+          "editorNote": "適合在跟學生或工程師朋友聊天時冷一下",
+          "variations": [
+            "也可以接：「那四公尺的呢？」「那就超過範圍了，要重新算過。」"
+          ]
+        },
+        "en": {
+          "content": "What do you call a snake that's exactly 3.14 meters long?\n\nA pi-thon.",
+          "editorNote": "Good for chatting with students or your engineer friends",
+          "variations": [
+            "Add: \"What about a 4-meter one?\" \"That one's irrational — best not to measure it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-249",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.rd.com/article/animal-puns/",
+      "sourceNote": "受英文『pouch potato（袋鼠＋couch potato 沙發馬鈴薯）』啟發，中文改寫成袋鼠『有口袋的懶人』情境重寫",
+      "tags": [
+        "動物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道全世界最懶的動物是什麼嗎？\n\n是袋鼠。因為牠連零食都直接放在自己的口袋裡，懶到連起身拿都不想。",
+          "editorNote": "適合在朋友賴在沙發上不動時調侃",
+          "variations": [
+            "也可以接：「那牠運動嗎？」「有啊，牠唯一的運動就是把手伸進口袋。」"
+          ]
+        },
+        "en": {
+          "content": "What's the laziest animal in the world?\n\nThe kangaroo. It's the original pouch potato — it keeps the snacks in its own pocket so it never has to get up.",
+          "editorNote": "Good for teasing a friend glued to the couch",
+          "variations": [
+            "Add: \"Does it ever exercise?\" \"Sure — reaching into its own pocket.\""
+          ]
+        }
+      }
     }
   ]
 }

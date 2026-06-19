@@ -6029,6 +6029,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-241",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://read01.com/zh-tw/4nn0yEL.html",
+      "sourceNote": "廢話文學自我重複句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "幹話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果我沒講錯的話，那我應該就是沒講錯。\n當然，這個前提是我真的沒講錯。",
+          "editorNote": "適合在被問到沒把握的事情時，自信地回這句，對方會愣三秒",
+          "variations": [
+            "我可以很肯定地跟你說，我並不是很肯定。",
+            "這件事我覺得對，前提是它真的對。"
+          ]
+        },
+        "en": {
+          "content": "If I'm not mistaken, then I am, in fact, not mistaken.\nAssuming, of course, that I'm not mistaken.",
+          "editorNote": "Say this with full confidence when someone asks you something you're unsure about — watch them freeze for three seconds",
+          "variations": [
+            "I can say with absolute certainty that I'm not at all certain.",
+            "I'm pretty sure this is right, provided it actually is right."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-242",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/434045269",
+      "sourceNote": "廢話文學貧窮主題句，重新改寫",
+      "tags": [
+        "廢話文學",
+        "金錢",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道我為什麼一直存不到錢嗎？\n因為我的錢一直沒有變多。",
+          "editorNote": "適合在月底發薪前傳給一樣窮的朋友互相取暖",
+          "variations": [
+            "我不是亂花錢，我只是花完之後錢就沒了。",
+            "想變有錢的第一步，就是先有錢。"
+          ]
+        },
+        "en": {
+          "content": "You know why I can never save any money?\nBecause the amount of money I have keeps not increasing.",
+          "editorNote": "Send this to your equally broke friend right before payday for some mutual comfort",
+          "variations": [
+            "I don't waste money — I just spend it, and then it's gone.",
+            "Step one to getting rich is to first have money."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-243",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lapalissade",
+      "sourceNote": "tautology / lapalissade 句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "健康",
+        "幹話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫生說，等到不痛的時候，就會比較不痛了。\n我聽完覺得很有道理，但好像哪裡怪怪的。",
+          "editorNote": "適合在朋友抱怨身體不舒服時，一本正經地安慰他",
+          "variations": [
+            "別擔心，傷口癒合之後就不會是傷口了。",
+            "撐過最累的時候，剩下的就不是最累的時候了。"
+          ]
+        },
+        "en": {
+          "content": "The doctor told me it'll feel better once it stops hurting.\nI nodded, and only later realized something was off.",
+          "editorNote": "Use it to 'comfort' a friend complaining about an ache — deliver it with a totally straight face",
+          "variations": [
+            "Don't worry, once the wound heals it won't be a wound anymore.",
+            "Get through the hardest part and the rest won't be the hardest part."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-244",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://read01.com/zh-tw/Qz3zzgm.html",
+      "sourceNote": "廢話文學時間循環句型，重新改寫",
+      "tags": [
+        "廢話文學",
+        "時間",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "經過研究發現，只要熬過了今天，明天就會到來。\n而明天熬過去之後，又會變成今天。",
+          "editorNote": "適合在加班到深夜或熬夜趕報告時，傳給一起苦的同事",
+          "variations": [
+            "再撐一下，因為再不撐一下就撐不下去了。",
+            "週一最難的地方，就是它總是接在週日後面。"
+          ]
+        },
+        "en": {
+          "content": "Studies show that if you just survive today, tomorrow will arrive.\nAnd once you survive tomorrow, it becomes today again.",
+          "editorNote": "Send it to a coworker grinding through a late night or an all-nighter deadline",
+          "variations": [
+            "Just hang on a little longer, because if you don't, you won't be hanging on.",
+            "The hardest part about Monday is that it always comes right after Sunday."
+          ]
+        }
+      }
     }
   ]
 }

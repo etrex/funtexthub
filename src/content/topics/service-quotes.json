@@ -3988,6 +3988,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-163",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Rewrites the canonical 奧客語錄 '別家可以只有你們不行' threat-trope from Dcard 心情 board into a punchy two-liner",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以，只有你們不行。」\n「那您要不要去那家最可以的？」\n「……我就是想看你們可不可以。」",
+          "editorNote": "傳給今天又被『別家都可以』威脅過的同事。重點從來不是別家可不可以，是想看你會不會破例。",
+          "variations": [
+            "客人說的『別家』，跟『我朋友』通常住在同一個查無此地的地址。",
+            "別家都可以？那您此刻為什麼站在我面前，不在別家。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other place lets me, just not you guys.\"\n\"Then maybe head to the place that lets you?\"\n\"...I just want to see if you'll let me.\"",
+          "editorNote": "Send to a coworker who got the \"everywhere else allows it\" threat again today. It was never about the other place — it's about whether you'll bend the rule.",
+          "variations": [
+            "The customer's \"every other place\" lives at the same nonexistent address as their \"friend.\"",
+            "Every other place lets you? Then why are you standing in front of me and not at one of them?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-164",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/53199",
+      "sourceNote": "Inspired by 經理人 piece on rejection-sounding phrases ('這是公司規定' = wall-building); reframed as the employee's inner translation",
+      "tags": [
+        "服務業",
+        "店員",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "嘴巴說的是「不好意思，這是公司規定。」\n心裡想的是「我也想幫您，但這條規定是用來保護我，不是用來氣您的。」",
+          "editorNote": "傳給每天得把『我做不到』翻譯成『公司規定』的第一線同事。那句話不是冷漠，是員工僅剩的盾牌。",
+          "variations": [
+            "『公司規定』四個字，是店員的盔甲，不是給客人的耳光。",
+            "我不是不想破例，是破了例之後要扛的人是我。"
+          ]
+        },
+        "en": {
+          "content": "What my mouth says: \"Sorry, that's company policy.\"\nWhat my head says: \"I'd love to help, but this rule exists to protect me, not to spite you.\"",
+          "editorNote": "For the frontline worker who spends all day translating \"I can't\" into \"company policy.\" That line isn't coldness — it's the only shield the employee has left.",
+          "variations": [
+            "\"Company policy\" is the clerk's armor, not a slap in the customer's face.",
+            "I'm not refusing to bend the rule — I'm the one who has to carry it after it breaks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-165",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Rewrites the '叫你們店長出來' escalation trope from Dcard 奧客語錄 list",
+      "tags": [
+        "服務業",
+        "奧客",
+        "客服",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叫你們店長出來！」\n「我就是店長。」\n「那……叫你們老闆出來！」",
+          "editorNote": "傳給今天被『叫上面的出來』一路往上點名的店長或主管。客人要的不是答案，是一個比你大的人來怕他。",
+          "variations": [
+            "客人要找的『上面』，往往比客人想像的還少一層，就到此為止。",
+            "升職的好處之一，是終於有資格被指名站在最前面挨罵。"
+          ]
+        },
+        "en": {
+          "content": "\"Get me the manager!\"\n\"I am the manager.\"\n\"Then... get me the owner!\"",
+          "editorNote": "For the manager or supervisor who got name-checked all the way up the chain today. The customer doesn't want an answer — they want someone bigger than you to be scared of them.",
+          "variations": [
+            "The \"someone higher up\" the customer demands usually runs out a level sooner than they imagine — it stops at me.",
+            "One perk of the promotion: you finally qualify to be the one standing out front taking the yelling."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-166",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.518.com.tw/article/1851",
+      "sourceNote": "Inspired by 518職場熊報 list on '爆單時的出餐速度客訴'; rewritten as kitchen/floor-staff time-pressure scene",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "奧客",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「怎麼這麼慢？我都等十分鐘了。」\n您前面還有十二桌，每桌都覺得自己是第一個。\n我們只有兩雙手，跟一個快被催到燒起來的鍋。",
+          "editorNote": "傳給爆單那天被催到懷疑人生的廚房和外場戰友。慢的不是手，是時間在尖峰時段特別黏。",
+          "variations": [
+            "客人覺得他等了十分鐘，鍋子覺得它連喘氣的十秒都沒有。",
+            "我不是不趕，是我同時在趕您和您前面那十二個您。"
+          ]
+        },
+        "en": {
+          "content": "\"Why so slow? I've waited ten whole minutes.\"\nThere are twelve tables ahead of you, and every one of them thinks they're first.\nWe've got two pairs of hands and one pan about to catch fire from all the rushing.",
+          "editorNote": "For the kitchen and floor crew who got rushed into an existential crisis on a packed night. It's not the hands that are slow — time just gets stickier at the dinner rush.",
+          "variations": [
+            "The customer feels like they waited ten minutes; the pan feels like it didn't get ten seconds to breathe.",
+            "I'm not slow — I'm rushing you and the twelve other yous in line ahead of you, all at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-167",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/258826892",
+      "sourceNote": "Reframes the '客訴威脅' / '你的態度不好' theme (Dcard 台灣服務業 post + 經理人) into an internal monologue about smiling through complaints",
+      "tags": [
+        "服務業",
+        "客服",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你態度給我好一點，不然我客訴你。」\n我態度已經是今天最好的版本了，\n比較差的那個，正在心裡排隊等下班。",
+          "editorNote": "傳給被『我要客訴你』恐嚇過的服務業朋友。那一聲威脅，買走的不是你的錯，是你最後一點點不必微笑的權利。",
+          "variations": [
+            "客人說我態度差，其實是我把好態度全給了他，自己一份都沒留。",
+            "微笑是制服的一部分，下班才脫得下來。"
+          ]
+        },
+        "en": {
+          "content": "\"Watch your attitude, or I'll file a complaint.\"\nThis is already the best version of my attitude today.\nThe worse one is lined up in my head, waiting for me to clock out.",
+          "editorNote": "For the service worker who got the \"I'll report you\" threat. That threat doesn't buy your mistake — it buys away the last sliver of your right to not smile.",
+          "variations": [
+            "They say my attitude is bad — really I gave all the good attitude to them and saved none for myself.",
+            "The smile is part of the uniform. I only get to take it off after my shift."
+          ]
+        }
+      }
     }
   ]
 }

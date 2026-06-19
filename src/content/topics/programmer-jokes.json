@@ -6979,6 +6979,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-241",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "Dark mode / light attracts bugs one-liner — rewritten into a short exchange",
+      "tags": [
+        "dark mode",
+        "Bug",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人：「學長，為什麼你的編輯器一定要開深色模式？」\n資深工程師：「因為亮光會招蟲。」\n新人：「⋯⋯你是說 Bug 嗎？」\n資深工程師頭也不抬：「不然你以為我半夜不開燈是在省電？」",
+          "editorNote": "傳給那個堅持深色模式、開亮色主題就渾身不對勁的同事。",
+          "variations": [
+            "工程師最怕的兩種光：太陽光，還有亮色模式。",
+            "把主題調成亮色那一刻，我感覺整個螢幕的 Bug 都醒了。"
+          ]
+        },
+        "en": {
+          "content": "Junior: \"Why do you always use dark mode?\"\nSenior dev: \"Light attracts bugs.\"\nJunior: \"...you mean software bugs?\"\nSenior, not looking up: \"Why else do you think I code in the dark at 2 a.m.?\"",
+          "editorNote": "For the teammate who physically recoils when their editor opens in light theme.",
+          "variations": [
+            "There are two kinds of light a developer fears: sunlight, and light mode.",
+            "The moment I switched to light theme, every bug on the screen woke up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-242",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://punsify.com/programming-jokes/",
+      "sourceNote": "'Test in production' joke — rewritten into a scene",
+      "tags": [
+        "測試",
+        "上線爆炸",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管：「你都怎麼測試你的程式？」\n工程師：「我不常測，但我要測的時候，會直接在正式環境測。」\n主管：「⋯⋯那出事怎麼辦？」\n工程師：「那不就測出來了嗎。」",
+          "editorNote": "傳給那個從來不寫測試、永遠相信『上了就知道』的隊友。",
+          "variations": [
+            "最快的測試環境，就是有真實使用者在用的那個。",
+            "我不是不寫測試，我只是讓使用者幫我跑。"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"How do you test your code?\"\nDev: \"I don't always test, but when I do, I test in production.\"\nManager: \"...and if something breaks?\"\nDev: \"Then I guess the test found something.\"",
+          "editorNote": "For the teammate who never writes tests and firmly believes you'll 'find out once it ships.'",
+          "variations": [
+            "The fastest test environment is the one with real users in it.",
+            "I do write tests — I just let the users run them for me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-243",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://pundash.com/programmer-jokes/",
+      "sourceNote": "AI suggesting deprecated 2015 library — debugging copilot humor, rewritten",
+      "tags": [
+        "AI",
+        "Copilot",
+        "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師：「AI 啊，幫我寫個串接 API 的程式。」\nAI 三秒生出一百行，工程師滿意地按下執行。\n程式炸了，因為它用了一個 2015 年就棄用的套件。\n工程師：「這套件早就沒了耶。」\nAI：「抱歉，根據我的記憶它還活著。」\n工程師看著螢幕，第一次體會到什麼叫『跟一個記性停在十年前的同事一起工作』。",
+          "editorNote": "傳給每個被 AI 推薦的過時寫法坑過、然後還要自己 debug 半天的工程師。",
+          "variations": [
+            "AI 寫程式很快，但它推薦的套件常常活在另一個時空。",
+            "和 AI 結對程式設計，就是一個記性超好、但停在五年前的搭檔。"
+          ]
+        },
+        "en": {
+          "content": "Dev: \"Hey AI, write me the code to call this API.\"\nThe AI spits out a hundred lines in three seconds. The dev hits run, satisfied.\nIt crashes — it imported a library that was deprecated back in 2015.\nDev: \"That package hasn't existed for years.\"\nAI: \"Sorry, according to my memory it's still alive.\"\nThe dev stares at the screen, finally understanding what it's like to pair-program with a coworker whose memory stopped a decade ago.",
+          "editorNote": "For every developer burned by an AI's outdated suggestion, then stuck debugging it alone.",
+          "variations": [
+            "AI writes code fast, but the libraries it recommends often live in another timeline.",
+            "Pairing with AI is like working with a teammate who has perfect recall — of five years ago."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-244",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "Light bulb 'hardware problem' joke — rewritten",
+      "tags": [
+        "工程師思維",
+        "甩鍋",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「換一顆燈泡需要幾個工程師？」\n「零個。」\n「為什麼？」\n「因為那是硬體問題，不在我負責的範圍。」\n「⋯⋯那房間一直是暗的怎麼辦？」\n「那是環境設定的問題，請開單給維運。」",
+          "editorNote": "傳給那個遇到任何問題第一反應都是『這不是我這邊的問題』的同事。",
+          "variations": [
+            "工程師面對壞掉的燈泡：先確認是不是燈泡的問題，再確認是不是自己負責的。",
+            "燈不亮不一定是燈的錯，搞不好是電力公司的 API 掛了。"
+          ]
+        },
+        "en": {
+          "content": "\"How many developers does it take to change a light bulb?\"\n\"Zero.\"\n\"Why?\"\n\"That's a hardware problem. Not my scope.\"\n\"...so the room just stays dark?\"\n\"That's an environment config issue. Please file a ticket with infra.\"",
+          "editorNote": "For the teammate whose first reaction to any problem is 'that's not on my side.'",
+          "variations": [
+            "A developer facing a dead bulb: first confirm it's the bulb, then confirm it's their responsibility.",
+            "The light's not on, but it might not be the bulb's fault — maybe the power company's API is down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-245",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://punsify.com/programming-jokes/",
+      "sourceNote": "Halloween == Christmas (Oct 31 == Dec 25) joke — rewritten with context",
+      "tags": [
+        "邏輯",
+        "工程師思維",
+        "冷知識"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼工程師總是搞混萬聖節和聖誕節？\n因為對他們來說，Oct 31 等於 Dec 25。\n（八進位的 31 剛好等於十進位的 25，看不懂的話⋯⋯恭喜你過著正常人的生活。）",
+          "editorNote": "傳給數字感很強、聽到進位就會自動換算的工程師朋友，他們會笑得比誰都大聲。",
+          "variations": [
+            "工程師的浪漫，就是連節日都能用進位制冷笑話來解釋。",
+            "如果你看完要算一下才懂，沒關係，你只是還沒被職業病感染。"
+          ]
+        },
+        "en": {
+          "content": "Why do developers always mix up Halloween and Christmas?\nBecause to them, Oct 31 equals Dec 25.\n(31 in octal is 25 in decimal — and if you don't get it, congratulations on living a normal life.)",
+          "editorNote": "Send to the number-brained friend who auto-converts bases in their head; they'll laugh the loudest.",
+          "variations": [
+            "A developer's idea of romance is explaining holidays with a base-conversion pun.",
+            "If you had to do the math to get it, don't worry — you just haven't caught the occupational disease yet."
+          ]
+        }
+      }
     }
   ]
 }

@@ -5083,6 +5083,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-207",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.healgoodcounseling.com/blog/mentalhealthawarenessmonth2026",
+      "sourceNote": "Inspired by 2026 mental-health reminder 'healing is rarely linear, you are allowed to begin again'; rewritten with permission tone, no attribution",
+      "tags": ["療癒", "重新開始", "允許", "慢慢來"],
+      "i18n": {
+        "zh-tw": {
+          "content": "復原本來就不是一條直線，\n你今天退回原點，也還是可以明天重新開始。",
+          "editorNote": "給那種「明明已經好一點了，怎麼又掉回去」而自責的人。狀態起伏是正常的，不是你不夠努力。傳給最近覺得自己又退步、很挫折的朋友。",
+          "variations": [
+            "進兩步退一步，那也還是往前，沒有白走。",
+            "可以重來，而且要重來幾次都可以。"
+          ]
+        },
+        "en": {
+          "content": "Healing was never a straight line.\nEven if you slid back to the start today, you can begin again tomorrow.",
+          "editorNote": "For the person beating themselves up over 'I was finally better, why am I back here?' Ups and downs are normal — not proof you didn't try hard enough. Send it to a friend who feels like they've slipped backward lately.",
+          "variations": [
+            "Two steps forward, one step back is still forward. None of it was wasted.",
+            "You're allowed to start over — as many times as it takes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-208",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.sagebrushcounseling.com/blog/mental-health-quotes",
+      "sourceNote": "Inspired by 2026 wellness theme 'rest is not laziness, it is a need'; rewritten conversationally for permission-to-rest tone",
+      "tags": ["療癒", "休息", "疲憊", "接受自己"],
+      "i18n": {
+        "zh-tw": {
+          "content": "休息不是偷懶，\n是你的身體在跟你說：我需要被好好對待。",
+          "editorNote": "給那種一停下來就有罪惡感的人。把休息當成必要，而不是獎勵。適合貼在自己工作桌前，或傳給那種累到不行還在硬撐的朋友。",
+          "variations": [
+            "休息是補給，不是欠人情，你不用為了喘口氣道歉。",
+            "你不是不夠努力才需要休息，是因為你一直很努力。"
+          ]
+        },
+        "en": {
+          "content": "Rest isn't laziness.\nIt's your body telling you: I need to be looked after.",
+          "editorNote": "For the person who feels guilty the moment they stop. Treat rest as a need, not a reward you have to earn. Good to keep at your desk, or send to a friend who's running on empty but still pushing.",
+          "variations": [
+            "Rest is refueling, not a favor you owe back. You don't have to apologize for catching your breath.",
+            "You don't need rest because you slacked off — you need it because you've been going so hard."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-209",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://poplady-mag.com/article/126998/%E6%BA%AB%E6%9F%94-%E8%AA%9E%E9%8C%84-%E7%85%A9%E6%93%BE-%E4%B8%96%E7%95%8C-%E5%AF%A7%E9%9D%9C",
+      "sourceNote": "Inspired by 2026 PopLady gentle-quotes feature '當你對自己溫柔，世界的尖銳也會變得柔軟'; rewritten, no attribution",
+      "tags": ["療癒", "溫柔", "自我接納", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "當你願意對自己溫柔一點，\n你會發現，這個世界的尖角也沒那麼刺人了。",
+          "editorNote": "給那種對外面的世界很緊繃、覺得處處都是刺的人。很多時候不是世界變柔軟了，是你先放過了自己。適合傳給最近覺得人生哪裡都不對勁的朋友。",
+          "variations": [
+            "先別急著跟世界硬碰硬，從對自己鬆一口氣開始。",
+            "你怎麼對自己，常常就決定了你怎麼看這個世界。"
+          ]
+        },
+        "en": {
+          "content": "The moment you start being a little gentler with yourself,\nyou'll notice the world's sharp edges don't cut quite so deep.",
+          "editorNote": "For the person who's braced against everything, like the whole world is made of thorns. Often it's not that the world softens — it's that you stopped being your own harshest edge first. Send it to a friend who feels like nothing's going right lately.",
+          "variations": [
+            "Before you go head-to-head with the world, try easing up on yourself first.",
+            "How you treat yourself usually decides how the world looks to you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-210",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "https://www.therapyroute.com/article/101-inspiring-mental-health-quotes-and-then-some-for-strength-and-healing-by-therapyroute",
+      "sourceNote": "Inspired by 2026 healing theme 'difficult seasons are part of being human, not signs of failure'; rewritten for warmth, no attribution",
+      "tags": ["療癒", "情緒", "接受自己", "正能量"],
+      "i18n": {
+        "zh-tw": {
+          "content": "日子過得很辛苦，不代表你哪裡做錯了。\n有時候就只是輪到你走一段比較難走的路而已。",
+          "editorNote": "給那種一遇到低潮就先檢討自己「是不是我有問題」的人。難關不是懲罰，也不是你不夠好的證據。傳給最近卡關、很想知道「為什麼是我」的朋友。",
+          "variations": [
+            "不是你不夠好，只是這陣子真的比較難，兩件事不一樣。",
+            "難走的路也是路，走過去你還是你，而且更懂自己。"
+          ]
+        },
+        "en": {
+          "content": "A hard season doesn't mean you did something wrong.\nSometimes it's just your turn to walk the rougher stretch of the road.",
+          "editorNote": "For the person whose first move in a low point is to interrogate themselves — 'is something wrong with me?' A hard time isn't a punishment or proof you're not good enough. Send it to a friend who's stuck and quietly asking 'why me?'",
+          "variations": [
+            "It's not that you're not good enough — it's just genuinely hard right now. Those aren't the same thing.",
+            "The rough road is still a road. You'll come out the other side still you — and knowing yourself better."
+          ]
+        }
+      }
     }
   ]
 }

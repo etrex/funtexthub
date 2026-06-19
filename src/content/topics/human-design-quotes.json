@@ -410,6 +410,101 @@
           "variations": ["Compatibility isn't a zodiac chart. It's whether you've each figured out how to live as your actual self."]
         }
       }
+    },
+    {
+      "id": "hd-022",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "",
+      "sourceNote": "Emotional authority — wait through the emotional wave (highs and lows) before deciding; no truth in the now",
+      "tags": ["情緒權威", "Emotional Authority", "情緒波", "等一波", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "情緒型權威的人，當下沒有真相。\n\n你早上覺得「絕對要」，晚上又覺得「算了吧」——不是你善變，是你的情緒在跑一整條波，高點低點都要走完，答案才會浮出來。\n\n所以重大決定別當場拍板，睡一覺、等一波，明天再說。",
+          "editorNote": "適合傳給那種「衝動下單、隔天後悔」的情緒型朋友，提醒他凡事先等過一個晚上。",
+          "variations": ["情緒型的人最該學的一句話：「這件事我明天再回你。」"]
+        },
+        "en": {
+          "content": "If your authority is emotional, there's no truth in the now.\n\nThis morning it's a hard yes, by tonight it's a meh — you're not flaky, your emotions are riding a whole wave, and the answer only surfaces once the high and the low have both passed.\n\nSo don't lock in big decisions on the spot. Sleep on it, ride the wave out, talk tomorrow.",
+          "editorNote": "Send to the emotional-authority friend who impulse-buys at midnight and regrets it by morning. The reminder: always sleep on it.",
+          "variations": ["The single best line for an emotional type to learn: 'Let me get back to you on that tomorrow.'"]
+        }
+      }
+    },
+    {
+      "id": "hd-023",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "",
+      "sourceNote": "Deconditioning — takes about 7 years (cellular renewal); unlearning who you were told to be",
+      "tags": ["去制約", "Deconditioning", "七年", "做自己", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖說，「去制約」要花大約七年——剛好是身體所有細胞換過一輪的時間。\n\n意思是，要把那個「別人期待你成為的樣子」慢慢脫掉，回到原廠的你，本來就急不得。\n\n所以別怪自己改變得太慢，你不是在進度落後，你是在用整個身體重新長成自己。",
+          "editorNote": "適合安慰那種「我怎麼還是老樣子」而焦慮的朋友，提醒他改變本來就需要時間。",
+          "variations": ["變回自己沒有捷徑，七年起跳——你不是慢，是正在重新長一遍。"]
+        },
+        "en": {
+          "content": "Human Design says deconditioning takes about seven years — roughly how long it takes every cell in your body to renew.\n\nMeaning: peeling off 'the version of you everyone expected' and getting back to the factory you was never going to be quick.\n\nSo stop blaming yourself for changing slowly. You're not behind schedule — you're regrowing into yourself with your entire body.",
+          "editorNote": "For the friend anxious that 'I'm still the same old me.' A reminder that real change was always meant to take time.",
+          "variations": ["There's no shortcut back to yourself — figure seven years, minimum. You're not slow, you're regrowing from scratch."]
+        }
+      }
+    },
+    {
+      "id": "hd-024",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "",
+      "sourceNote": "Inner authority — body-based intelligence that knows before the mind; trust the body over the head",
+      "tags": ["內在權威", "Inner Authority", "身體智慧", "決定", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的「內在權威」是身體的智慧，它在腦袋開口之前就已經知道答案了。\n\n問題是我們從小被訓練成「凡事用想的」，把身體那個誠實的訊號當雜訊蓋掉。\n\n做決定卡關時，試試把問題唸出來，感覺一下身體是放鬆還是緊縮——它比你的小劇場可靠多了。",
+          "editorNote": "適合那種「列了三頁優缺點還是選不出來」的朋友，提醒他答案不在表格裡。",
+          "variations": ["你的腦袋負責找理由，你的身體負責知道答案——別把這兩件事搞反。"]
+        },
+        "en": {
+          "content": "Your inner authority is a body-based intelligence — it knows the answer before your mind even opens its mouth.\n\nThe trouble is we're trained from childhood to 'think it through,' so we treat that honest signal from the body as noise and mute it.\n\nNext time a decision stalls, say the question out loud and notice whether your body loosens or tightens. It's far more reliable than the soap opera in your head.",
+          "editorNote": "For the friend who made a three-page pros-and-cons list and still can't choose. The answer was never in the spreadsheet.",
+          "variations": ["Your head's job is to find reasons. Your body's job is to already know the answer. Stop getting those two backwards."]
+        }
+      }
+    },
+    {
+      "id": "hd-025",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "",
+      "sourceNote": "Manifestor aura — outward and repelling; people unconsciously give them space; explains the 'intimidating' read",
+      "tags": ["顯示者", "Manifestor", "氣場", "推開", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "顯示者的氣場是「往外推」的，所以常常莫名其妙被說「看起來很兇」、「不好親近」。\n\n其實他沒在生氣，只是那股氣場天生就會幫他清出一條路、留出一點距離。\n\n別誤會顯示者高冷——他只是自帶結界，不是故意把你推開。",
+          "editorNote": "傳給那個老被說「臉很臭、其實人很好」的朋友，幫他解釋一下那股氣場。",
+          "variations": ["顯示者不是擺臭臉，是氣場自動開啟了「保持距離」模式。"]
+        },
+        "en": {
+          "content": "A Manifestor's aura pushes outward, which is why they keep getting read as 'intimidating' or 'hard to approach' for no obvious reason.\n\nThey're not actually angry — that aura just naturally clears a path and keeps a little distance around them.\n\nSo don't mistake a Manifestor for aloof. They come with a built-in force field; they're not pushing you away on purpose.",
+          "editorNote": "Send to the friend who's always told they have 'resting unapproachable face' but is actually lovely. Explain the aura for them.",
+          "variations": ["A Manifestor isn't giving you attitude — their aura just defaults to 'keep your distance' mode."]
+        }
+      }
+    },
+    {
+      "id": "hd-026",
+      "dateAdded": "2026-06-19",
+      "sourceUrl": "",
+      "sourceNote": "Projector energy — 3-4 hours of focused work beats 8 hours of forced output; quality over quantity of energy",
+      "tags": ["投射者", "Projector", "專注", "少即是多", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "投射者的能量設計不是「撐久」，是「夠準」：專注的三四個小時，勝過硬撐的八小時。\n\n所以投射者朝九晚五會被榨乾，但如果只在電量最滿的時段火力全開，產出反而嚇死人。\n\n別逼投射者跟生產者比工時——他比的是命中率，不是耐力。",
+          "editorNote": "適合那種「工時最短、成果卻最漂亮」的投射者朋友，幫他理直氣壯地早下班。",
+          "variations": ["投射者的高效不是坐好坐滿，是在對的三小時裡，把事情一槍命中。"]
+        },
+        "en": {
+          "content": "A Projector isn't built to last long — they're built to land precisely: three or four focused hours beat eight hours of forced output.\n\nSo a nine-to-five drains them dry, but let them go full throttle only when their battery's at its fullest, and the results are frankly scary-good.\n\nDon't make a Projector compete with a Generator on hours logged — they're competing on accuracy, not stamina.",
+          "editorNote": "For the Projector friend who logs the fewest hours but turns in the best work. Give them permission to clock out early, guilt-free.",
+          "variations": ["A Projector's productivity isn't butt-in-seat time — it's nailing the whole thing in the right three hours."]
+        }
+      }
     }
   ]
 }
