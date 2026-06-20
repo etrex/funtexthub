@@ -3418,6 +3418,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-140",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.dcard.tw/f/house/p/236238148",
+      "sourceNote": "Dcard 假房仲收費騙租金 防詐 register; rewritten original",
+      "tags": ["租屋詐騙", "看房", "找房", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他傳給我房屋照片、地址、合約，還有一句「先匯訂金卡位」。\n我匯完那一刻才懂——\n租屋市場最便宜的房子，往往租給最相信人性的人。",
+          "editorNote": "傳給正在外地找房、急著卡位怕被搶走的朋友，提醒他看到房子本人再付錢",
+          "variations": [
+            "便宜又完美的房子加上一句「要先付訂金」，等於一場精心設計的告別式。",
+            "我以為我搶到夢幻物件，結果是夢幻物件搶到了我的訂金。"
+          ]
+        },
+        "en": {
+          "content": "He sent me photos, the address, a contract, and one line: 'Wire the deposit to hold it.'\nThe moment I paid, I understood —\nin the rental market, the cheapest place always goes to whoever trusts people the most.",
+          "editorNote": "Send to a friend hunting for a place out of town, rushing to lock one down before someone else does — remind them to see it in person before paying",
+          "variations": [
+            "A perfect cheap apartment plus 'pay the deposit first' equals a beautifully staged farewell to your money.",
+            "I thought I snagged a dream listing. Turns out the dream listing snagged my deposit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-141",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.dcard.tw/f/nccu/p/261292737",
+      "sourceNote": "Dcard 找室友湊房租 register; rewritten original",
+      "tags": ["室友", "合租", "找室友", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我貼文找室友，標題寫「徵一位作息正常、會分攤家事的朋友」。\n三天收到二十封私訊，\n每一封都說「我超好相處」，\n結果搬進來的那位，連垃圾都覺得是我的緣分。",
+          "editorNote": "傳給正在發文找室友、被一堆「我很好相處」訊息淹沒的朋友，提醒他面試要問細節",
+          "variations": [
+            "找室友跟交友軟體一樣：自我介紹都很完美，見面才知道是兩個世界。",
+            "我徵的是「分攤房租的人」，來的是「分攤我人生」的人。"
+          ]
+        },
+        "en": {
+          "content": "I posted a roommate ad: 'Looking for someone with a normal schedule who splits the chores.'\nGot twenty DMs in three days,\nevery single one saying 'I'm super easy to live with.'\nThe one who moved in thinks even the trash is my destiny to take out.",
+          "editorNote": "Send to a friend drowning in 'I'm easy to live with' messages while searching for a roommate — remind them to interview for the details",
+          "variations": [
+            "Finding a roommate is like a dating app: everyone's bio is perfect until you actually meet.",
+            "I advertised for 'someone to split the rent.' What showed up was someone to split my entire life."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-142",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.dcard.tw/f/house/p/231533461",
+      "sourceNote": "Dcard 入住先拍照存證 退押金教戰 register; rewritten original",
+      "tags": ["押金", "退租", "存證", "成年"],
+      "i18n": {
+        "zh-tw": {
+          "content": "前輩教我：入住第一天，把每一道牆、每一個插座、每一條裂縫都拍下來。\n我照做了，拍了三百張照片。\n退租那天房東說牆壁有刮痕，\n我傳給他第 187 張，他就安靜了。",
+          "editorNote": "傳給剛拿到鑰匙、準備搬進新租屋的朋友，這是最便宜的押金保險",
+          "variations": [
+            "我拍的不是房子，是我未來跟房東打官司的證物。",
+            "搬進去先拍照，不是因為房子漂亮，是因為房東的記憶力很有創意。"
+          ]
+        },
+        "en": {
+          "content": "A veteran renter told me: on day one, photograph every wall, every outlet, every crack.\nI did. Three hundred photos.\nOn move-out day my landlord claimed the wall was scratched,\nso I sent him photo number 187, and he went quiet.",
+          "editorNote": "Send to a friend who just got the keys to a new place — this is the cheapest deposit insurance there is",
+          "variations": [
+            "I'm not photographing the apartment. I'm collecting evidence for my future case against the landlord.",
+            "I photograph everything on move-in day — not because the place is pretty, but because my landlord's memory is very creative."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-143",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "landlord paints wall raises rent 20% meme; rewritten original",
+      "tags": ["漲租", "油漆", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東來刷了一面牆，順手把房租漲了兩成。\n我問他這牆值多少，\n他說：「不是牆貴，是你現在住在『升級版』。」\n原來油漆乾的速度，比我加薪快。",
+          "editorNote": "傳給租屋處被「微整修」當理由漲兩成的朋友，一起對著那面新牆苦笑",
+          "variations": [
+            "房東刷一面牆叫「品質升級」，我換一份工作叫「物價升級」。",
+            "那面牆乾了之後，乾掉的還有我這個月的笑容。"
+          ]
+        },
+        "en": {
+          "content": "My landlord painted one wall and casually bumped the rent up twenty percent.\nI asked how much the wall was worth.\nHe said: 'It's not the wall — you're living in the upgraded version now.'\nTurns out paint dries faster than my salary ever rises.",
+          "editorNote": "Send to a friend who got hit with a 20% hike justified by a 'minor touch-up' — share a bitter laugh at that fresh wall",
+          "variations": [
+            "Landlord paints one wall and calls it a 'quality upgrade.' I switch jobs and call it a 'cost-of-living upgrade.'",
+            "After that wall dried, so did the smile I had left for the month."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-144",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://cheezburger.com/25045253/31-renter-memes-that-give-experienced-tenants-the-landlord-special",
+      "sourceNote": "studio prices sound like a joke meme; rewritten original",
+      "tags": ["房租", "套房", "通膨", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房仲報給我套房的價格時，我笑了，\n以為他在開玩笑。\n他沒笑，\n那一刻我才明白，原來這個城市的房租，本身就是一個笑話，只是我不在開玩笑的那一邊。",
+          "editorNote": "適合看完套房報價當場傻眼的朋友轉發，那種「以為聽錯」的瞬間人人都懂",
+          "variations": [
+            "我聽到房租的反應，跟聽到一個冷笑話一樣：先愣住，再尷尬，最後認命。",
+            "這個價格如果是玩笑，我希望它快點講出梗，可惜它是認真的。"
+          ]
+        },
+        "en": {
+          "content": "When the agent quoted me the studio's price, I laughed,\nthinking it was a joke.\nHe didn't laugh.\nThat's when I understood: in this city, the rent itself is the joke — I'm just not standing on the funny side of it.",
+          "editorNote": "Send to a friend who just got quoted a studio price and stood there stunned — everyone knows that 'I must have misheard' moment",
+          "variations": [
+            "My reaction to hearing the rent is the same as hearing a bad joke: freeze, cringe, then accept my fate.",
+            "If this price is a joke, I wish it would hurry up and land the punchline. Sadly, it's dead serious."
+          ]
+        }
+      }
     }
   ]
 }

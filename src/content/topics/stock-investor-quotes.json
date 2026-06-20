@@ -2061,6 +2061,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-083",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "PTT 股板經典幹話「庫存綠到有牛在上面吃草」register；改寫原創",
+      "tags": ["庫存", "厭世", "自嘲", "PTT"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我最近股票還好嗎。\n我說還行，就是庫存綠得有點過頭。\n綠到什麼程度？綠到我懷疑點開的不是券商 APP，是空拍的高山牧場。\n再這樣下去，我打算在帳戶裡放幾頭牛，至少讓那片綠地有點生產力。",
+          "editorNote": "適合在庫存一片綠油油時丟進投資群組，給同樣在放牧的同好",
+          "variations": [
+            "我的對帳單已經綠到可以申請當生態保護區了。",
+            "別人看盤看紅綠，我看盤已經升級到看草原了。"
+          ]
+        },
+        "en": {
+          "content": "A friend asked how my stocks were doing lately.\nI said fine, the portfolio's just a touch too green.\nHow green? Green enough that I'm not sure I opened the brokerage app — might be a drone shot of an alpine pasture.\nIf this keeps up, I'm putting a few cows in the account, just to make all that green a little more productive.",
+          "editorNote": "Drop this in the group chat on a sea-of-green day, for the fellow ranchers out there",
+          "variations": [
+            "My statement is green enough to qualify as a protected nature reserve.",
+            "Other people read the candles as red or green. My screen has graduated to grassland."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-084",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "「If experts were so expert they'd buy stock not sell advice」反諷 register；改寫原創",
+      "tags": ["專家", "投顧", "老師", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "投顧老師在直播裡信心滿滿：「跟著我，財富自由就在前方。」\n我心想，如果你真的這麼神，幹嘛還在這裡賣課，自己默默買進場就好了啊。\n後來我懂了，他確實有財富自由——靠的是我們繳的學費，不是他報的明牌。",
+          "editorNote": "送給每個繳了會員費才發現老師賺的是學費不是行情的同好",
+          "variations": [
+            "真正會賺錢的人都在悶聲發財，會上電視喊單的，賺的是你的注意力。",
+            "如果明牌真的會漲，他自己梭哈就好，何必特地告訴你。"
+          ]
+        },
+        "en": {
+          "content": "The guru on the livestream is brimming with confidence: 'Follow me and financial freedom is right around the corner.'\nI thought, if you're really that good, why are you here selling a course instead of quietly loading up yourself?\nThen it hit me — he does have financial freedom. It just comes from our tuition, not his stock picks.",
+          "editorNote": "For everyone who paid the membership fee only to learn the guru profits off tuition, not the market",
+          "variations": [
+            "The people who actually make money do it in silence. The ones shouting buy calls on TV are profiting off your attention.",
+            "If the hot tip were really going to moon, he'd go all in himself instead of bothering to tell you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-085",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://money.udn.com/money/story/12040/8379220",
+      "sourceNote": "「韭菜指標：賺一點就跑、賠了死抱」人性弱點 register；改寫原創",
+      "tags": ["韭菜", "停利", "套牢", "人性"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的操作有一套非常穩定的邏輯。\n賺錢的股票，我怕它回吐，小賺一點就趕快跑。\n賠錢的股票，我相信它會回來，跌再深都死命抱著。\n結果就是：會漲的全部留不住，會跌的全部丟不掉，完美。",
+          "editorNote": "送給每個停利快、停損慢，把賺的賣光、把賠的留滿的同好",
+          "variations": [
+            "我手上的股票有一個共同點：它們都是我捨不得賣的賠錢貨。",
+            "賺錢的留不住，賠錢的捨不得，這就是我穩定賠錢的秘訣。"
+          ]
+        },
+        "en": {
+          "content": "My trading follows one rock-solid principle.\nWinning stocks? Scared they'll give it back, so I bail the second I'm up a little.\nLosing stocks? Convinced they'll come back, so I cling on no matter how far they drop.\nNet result: I can't keep the ones that rise, can't get rid of the ones that fall. Flawless.",
+          "editorNote": "For everyone quick to take profits and slow to take losses — selling the winners, hoarding the losers",
+          "variations": [
+            "Everything in my account has one thing in common: it's a loser I couldn't bear to sell.",
+            "Can't hold the winners, can't let go of the losers — that's the secret to my consistent losses."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-086",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "「holding long-term = refuse to panic publicly」register；改寫原創",
+      "tags": ["長期投資", "套牢", "自嘲", "嘴硬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每次別人問我那檔慘賠的股票要不要賣，我都一臉淡定地說：我是長期投資者，不在乎短期波動。\n講得很有大師風範。\n其實『長期投資者』的真實意思是：我已經賠到不敢在公開場合崩潰，只能私下偷哭。\n表面的雲淡風輕，是用裡面的兵荒馬亂換來的。",
+          "editorNote": "送給每個嘴上說淡定、回到房間就打開對帳單嘆氣的長期持有者",
+          "variations": [
+            "所謂的『佛系存股』，就是賠到只剩下信佛這個選項。",
+            "我不是不慌，我只是把慌留給沒有人看到的時候。"
+          ]
+        },
+        "en": {
+          "content": "Every time someone asks if I'm going to sell that deeply underwater stock, I say, perfectly calm: I'm a long-term investor, short-term noise doesn't faze me.\nVery zen-master energy.\nThe real meaning of 'long-term investor' is: I'm down too much to melt down in public, so I cry quietly in private.\nThat serene surface is paid for by total chaos underneath.",
+          "editorNote": "For the holder who plays it cool out loud, then opens the statement and sighs the moment they're alone",
+          "variations": [
+            "'Zen-style dividend investing' is what happens when you're down so far that faith is the only option left.",
+            "It's not that I'm not panicking. I just save the panic for when nobody's watching."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-087",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "「buy high cry later / portfolio has trust issues」register；改寫原創",
+      "tags": ["追高", "信任", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的投資組合最近有點信任危機。\n它不相信我會解套，我也不相信它會回本，我們兩個就這樣互相懷疑，僵在那裡。\n我的投資哲學也很一致：買在最高，哭在後頭。\n買的時候充滿希望，賣的時候只剩經驗——很貴的那種經驗。",
+          "editorNote": "適合在追高被套、看著對帳單跟它大眼瞪小眼的時候自嘲",
+          "variations": [
+            "我跟我的庫存之間，已經沒有信任，只剩債務關係。",
+            "買高哭後面，這八個字總結了我整段投資生涯。"
+          ]
+        },
+        "en": {
+          "content": "My portfolio has been having some trust issues lately.\nIt doesn't believe I'll ever break even, I don't believe it'll ever recover, so we just sit here side-eyeing each other.\nMy investing philosophy is equally consistent: buy high, cry later.\nFull of hope when I buy, left with nothing but experience when I sell — the very expensive kind.",
+          "editorNote": "For staring down your statement after chasing the top and getting trapped",
+          "variations": [
+            "There's no trust left between me and my position — just a debt relationship.",
+            "Buy high, cry later. Four words that sum up my entire investing career."
+          ]
+        }
+      }
     }
   ]
 }

@@ -6790,6 +6790,136 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-250",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://onelinefun.com/animal/",
+      "sourceNote": "受英文『How do you fit more pigs on a farm? Build a sty-scraper（豬舍 sty＋摩天大樓 skyscraper）』啟發，中文改寫成蓋『豬天大樓』情境重寫",
+      "tags": [
+        "動物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "農場的豬越養越多，地不夠用怎麼辦？\n\n簡單啊，往上蓋一棟「豬天大樓」就好了。",
+          "editorNote": "適合在聊到房價或空間不夠時插一句轉移話題",
+          "variations": [
+            "也可以接：「那電梯壞了怎麼辦？」「沒差，豬本來就不趕時間。」"
+          ]
+        },
+        "en": {
+          "content": "Your farm has too many pigs and not enough land. What do you do?\n\nEasy — just build a sty-scraper.",
+          "editorNote": "Good for lightening the mood when someone complains about cramped space",
+          "variations": [
+            "Add: \"What if the elevator breaks?\" \"No problem — pigs are never in a hurry.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-251",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.today.com/life/inspiration/funny-puns-rcna70865",
+      "sourceNote": "受英文『Why can't you trust atoms? They make up everything（原子組成一切＝原子愛編故事）』啟發，中文改寫成原子『什麼都瞎掰』情境重寫",
+      "tags": [
+        "科學",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼科學家都不相信原子說的話？\n\n因為這世界上所有東西都是它「組成」的，根本是個什麼都會瞎掰的傢伙。",
+          "editorNote": "適合在跟理工朋友或學生聊天時冷一下",
+          "variations": [
+            "也可以接：「那電子呢？」「電子更糟，它連自己在哪都講不清楚。」"
+          ]
+        },
+        "en": {
+          "content": "Why won't scientists ever trust atoms?\n\nBecause they literally make up everything.",
+          "editorNote": "Good for chatting with your STEM friends or students",
+          "variations": [
+            "Add: \"What about electrons?\" \"Even worse — they can't tell you where they are.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-252",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.today.com/life/inspiration/funny-puns-rcna70865",
+      "sourceNote": "受英文『Why do coffee cups avoid the city? They're afraid to get mugged（mug 馬克杯＝被搶 mugged）』啟發，中文改寫成馬克杯『怕被搶』情境重寫",
+      "tags": [
+        "食物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道咖啡杯為什麼都不敢一個人走夜路嗎？\n\n因為它最怕被「馬克」走啊。",
+          "editorNote": "適合在咖啡廳跟朋友等飲料時講",
+          "variations": [
+            "也可以接：「那保溫瓶呢？」「保溫瓶比較安全，它連心事都保溫，誰都搶不走。」"
+          ]
+        },
+        "en": {
+          "content": "Why do coffee cups never walk through the city at night?\n\nBecause they're terrified of getting mugged.",
+          "editorNote": "Good for the wait at a coffee shop with a friend",
+          "variations": [
+            "Add: \"What about thermoses?\" \"Thermoses are safer — they bottle everything up.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-253",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://pickupdose.com/best-dad-jokes/",
+      "sourceNote": "受英文『I'm on a seafood diet. I see food and I eat it（seafood 諧音 see food）』啟發，中文改寫成『海鮮減肥法』看到就吃情境重寫",
+      "tags": [
+        "食物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我最近在執行一種很有效的減肥法，叫「海鮮減肥法」。\n\n就是——只要我「看見」食物，就把它吃掉。",
+          "editorNote": "適合在大餐前替自己的食量先打預防針",
+          "variations": [
+            "也可以接：「那有瘦嗎？」「有啊，瘦了我的錢包。」"
+          ]
+        },
+        "en": {
+          "content": "I've started a really effective new diet. It's called the seafood diet.\n\nWhenever I see food, I eat it.",
+          "editorNote": "Good for excusing your appetite right before a big meal",
+          "variations": [
+            "Add: \"Is it working?\" \"Yeah — my wallet's looking slimmer already.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-254",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://pickupdose.com/best-dad-jokes/",
+      "sourceNote": "受英文『I stayed up all night wondering where the sun went, then it dawned on me（dawn 天亮＝恍然大悟）』啟發，中文改寫成『想太陽去哪』天亮才懂情境重寫",
+      "tags": [
+        "生活",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我昨天熬了一整夜，一直在想太陽到底跑去哪了。\n\n結果天一亮，我就突然「光」明了。",
+          "editorNote": "適合在熬夜或聊到失眠時自嘲一下",
+          "variations": [
+            "也可以接：「那你想通了嗎？」「想通了，想通的代價是黑眼圈。」"
+          ]
+        },
+        "en": {
+          "content": "I stayed up all night wondering where the sun had gone.\n\nThen, first thing in the morning, it dawned on me.",
+          "editorNote": "Good for poking fun at yourself after an all-nighter",
+          "variations": [
+            "Add: \"So did you figure it out?\" \"Yeah — figured it out and got the dark circles to prove it.\""
+          ]
+        }
+      }
     }
   ]
 }

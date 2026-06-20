@@ -4138,6 +4138,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-168",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the canonical 「別家都可以，只有你們不行」奧客 line (Dcard 心情 奧客語錄 + 104職場力) into a comeback format",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以，只有你們不行。」\n「那您要不要去別家？」\n「我就喜歡你們家。」\n喜歡的方式很特別，是吧。",
+          "editorNote": "傳給今天被「別家都可以」綁架的同事。對方嘴上嫌你不行，腳卻一步都不肯離開——你早就贏了，只是制服讓你不能笑出來。",
+          "variations": [
+            "「別家都可以」的別家，永遠是那間此刻不在現場、無法對質的店。",
+            "客人最忠誠的店，往往就是他罵得最兇的那一間。"
+          ]
+        },
+        "en": {
+          "content": "\"Everywhere else lets me. Only you won't.\"\n\"Want me to point you to everywhere else?\"\n\"No, I like it here.\"\nFunny way to show it.",
+          "editorNote": "For the coworker held hostage by \"everywhere else does it.\" Their mouth says you're useless, but their feet won't leave. You already won — the uniform just won't let you smile about it.",
+          "variations": [
+            "\"Everywhere else\" is always the one store that isn't here right now to be asked.",
+            "The store a customer's most loyal to is usually the one they yell at the loudest."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-169",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.keeping.com/content/customer-service-jokes/",
+      "sourceNote": "Rewrites the viral retail trope of the un-scannable barcode → 「沒嗶到就是免費」 (Keeping 2026 customer service jokes list) as a service-worker monologue",
+      "tags": [
+        "服務業",
+        "奧客",
+        "店員",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「嗶不過去？那這個是免費的囉！」\n第一次聽覺得有點好笑，\n第八百次聽，我笑的是您居然以為這梗還新。",
+          "editorNote": "傳給收銀台的戰友。同一句冷笑話，客人一輩子只講一次，店員卻一天要陪笑八次——辛苦你的臉了。",
+          "variations": [
+            "條碼嗶不過去不代表免費，只代表機器跟我一樣需要休息。",
+            "「沒嗶到就免費」這句話的保鮮期，大概是員工到職的第一個小時。"
+          ]
+        },
+        "en": {
+          "content": "\"Won't scan? Guess it's free!\"\nThe first time, mildly funny.\nThe eight-hundredth time, what's funny is that you think this line is new.",
+          "editorNote": "For the comrade at the register. The customer tells that joke once in their life; the clerk has to fake-laugh at it eight times a shift. Your cheeks have been through a lot.",
+          "variations": [
+            "A barcode that won't scan doesn't mean it's free — it means the scanner needs a break, same as me.",
+            "\"It won't scan, so it's free\" stays fresh for about the first hour of any retail job."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-170",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://blog.104.com.tw/how-to-serve-the-four-common-types-of-guests/",
+      "sourceNote": "Reframes the 「我是老顧客欸」discount-entitlement trope (104職場力 客訴狀況 + Dcard 奧客語錄) into a quiet comeback",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我可是老顧客欸，沒有優惠喔？」\n老顧客我們真的很感謝，\n只是感謝在心裡，不在收銀機裡。",
+          "editorNote": "傳給被「我是老顧客」要求打折的店員。常來是緣分，不是價目表——你不欠誰一個折扣，只欠自己一個準時下班。",
+          "variations": [
+            "常來的客人值得被記住，但記住不等於要在價格上認賠。",
+            "「我是老顧客」後面接的，通常不是感謝，是帳單。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm a regular here — no discount for me?\"\nWe really are grateful for the regulars.\nThe gratitude just lives in our hearts, not in the register.",
+          "editorNote": "For the clerk leaned on with \"I'm a regular.\" Coming back often is a connection, not a price list — you don't owe anyone a discount, only yourself an on-time clock-out.",
+          "variations": [
+            "Regulars deserve to be remembered — being remembered isn't the same as eating the markdown.",
+            "\"I'm a regular\" is usually followed not by a thank-you, but by an invoice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-171",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/funny/",
+      "sourceNote": "Rewrites the worn 「上班很閒喔？」/ \"working hard or hardly working?\" greeting (Help Scout funny CS quotes + 2026 viral retail lists) into a service-worker comeback",
+      "tags": [
+        "服務業",
+        "工作",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「站在這邊很閒喔？」\n我站著的這八小時裡，\n腳比您的耐心先沒電。",
+          "editorNote": "傳給被嫌「看起來很閒」的櫃檯戰友。看起來沒事，是因為我們把所有的累都藏進了笑容裡——那才是最費力的工。",
+          "variations": [
+            "看起來很閒的服務業，通常是把忙都藏在表情管理裡的那種。",
+            "我不是閒，我是把崩潰排程在下班之後而已。"
+          ]
+        },
+        "en": {
+          "content": "\"Looks pretty easy just standing there, huh?\"\nIn these eight hours of standing,\nmy feet run out of battery before your patience does.",
+          "editorNote": "For the counter crew who got the \"must be nice doing nothing\" comment. We look idle because we've tucked all the exhaustion behind the smile — and that's the heaviest lifting of the day.",
+          "variations": [
+            "Service work that looks easy is usually the kind hiding all the busy behind face management.",
+            "I'm not idle — I've just scheduled my breakdown for after my shift."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-172",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.518.com.tw/article/1564",
+      "sourceNote": "Reworks the 「叫你們主管出來」escalation trope (518職場熊報 無理客訴 + Dcard 奧客語錄) into an internal monologue",
+      "tags": [
+        "服務業",
+        "奧客",
+        "客服",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叫你們主管出來！」\n主管出來，講的話跟我一模一樣，\n只是您終於肯聽了。",
+          "editorNote": "傳給被「叫主管出來」當成大絕的服務業朋友。同樣一句話，從你嘴裡是規定，從主管嘴裡才變成答案——委屈的不是道理，是說道理的人。",
+          "variations": [
+            "「叫主管出來」翻譯成白話，就是「我要聽到同一個答案，但語氣高一階」。",
+            "主管講完，客人點頭——原來缺的從來不是答案，是頭銜。"
+          ]
+        },
+        "en": {
+          "content": "\"Get me your manager!\"\nThe manager comes out and says exactly what I said.\nThe only difference is now you're willing to hear it.",
+          "editorNote": "For the worker whose customer pulls \"get me your manager\" as a finishing move. Same words — from your mouth it's a policy, from the manager's it becomes the answer. The unfairness isn't the logic; it's who's allowed to say it.",
+          "variations": [
+            "\"Get me your manager\" translates to \"I want the same answer, but one rank louder.\"",
+            "The manager finishes, the customer nods — turns out what was missing was never the answer, just the title."
+          ]
+        }
+      }
     }
   ]
 }

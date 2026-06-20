@@ -6145,6 +6145,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-245",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://read01.com/zh-tw/Qz3zzgm.html",
+      "sourceNote": "廢話文學同義重複句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽完你講的這一席話，我的感想是：\n就好像聽完了一席話一樣。",
+          "editorNote": "適合開會聽完冗長報告後，傳給隔壁同事的即時心得",
+          "variations": [
+            "讀完你寫的這篇文章，我整個人彷彿讀完了一篇文章。",
+            "看完這部電影，我得到的最大收穫，就是看完了這部電影。"
+          ]
+        },
+        "en": {
+          "content": "After hearing everything you just said,\nmy honest takeaway is that I have now heard you say something.",
+          "editorNote": "Perfect for messaging the coworker next to you after a painfully long meeting wraps up",
+          "variations": [
+            "Having read your entire article, I feel like a person who has read an article.",
+            "The biggest thing I gained from watching that movie was that I have now watched it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-246",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
+      "sourceNote": "廢話文學悖論句型，重新改寫",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果我沒有判斷錯的話，\n那基本上就代表我判斷對了。",
+          "editorNote": "適合在朋友問你「你確定嗎」的時候，用超有自信的語氣回他",
+          "variations": [
+            "假如事情沒有出意外，那大概率就是沒出意外。",
+            "只要我沒記錯，那我記的肯定就是對的。"
+          ]
+        },
+        "en": {
+          "content": "If I haven't gotten this wrong,\nthen that pretty much means I've gotten it right.",
+          "editorNote": "Deliver it with full confidence the next time a friend asks 'are you sure?'",
+          "variations": [
+            "Assuming nothing went wrong, then odds are nothing went wrong.",
+            "As long as I'm remembering it correctly, then what I remember is definitely correct."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-247",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/life/1403065",
+      "sourceNote": "廢話文學情況描述句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在的狀況呢，就是這麼一個狀況，\n至於到底是什麼狀況，那還是得看實際狀況。",
+          "editorNote": "老闆問進度時的萬用回答，講完對方會以為你有在做事",
+          "variations": [
+            "事情的發展，目前正朝著它該發展的方向發展。",
+            "問題不大，但說大也不是不大，主要還是看你怎麼看。"
+          ]
+        },
+        "en": {
+          "content": "The situation right now is, well, exactly the kind of situation it is.\nAs for what kind of situation that actually is, that depends on the situation.",
+          "editorNote": "An all-purpose reply when your boss asks for a status update — sounds like you're on top of it",
+          "variations": [
+            "Things are currently developing in the direction they're developing toward.",
+            "It's not a big deal, but it's not not a big deal — really depends how you look at it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-248",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.zhihu.com/question/482233311",
+      "sourceNote": "廢話文學觀察陳述句型，重新改寫",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "觀察"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我第一次出國的時候真的嚇到，\n沒想到在國外，居然到處都是外國人。",
+          "editorNote": "適合在出遊群組分享旅行心得，當作一本正經的開場白",
+          "variations": [
+            "去了一趟夜市才發現，原來夜市裡賣的全都是夜市美食。",
+            "搬到海邊住了之後我才驚覺，海邊離海真的好近。"
+          ]
+        },
+        "en": {
+          "content": "The first time I traveled abroad I was genuinely shocked —\nturns out a foreign country is absolutely packed with foreigners.",
+          "editorNote": "A straight-faced opener for sharing 'travel insights' in your trip group chat",
+          "variations": [
+            "I went to the night market and realized everything they sell there is night market food.",
+            "After moving to the coast, it hit me — the coast is shockingly close to the ocean."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-249",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學數量換算句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "數學",
+        "時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "據統計，一個人只要連續睡滿八小時，\n那他這一晚差不多就睡掉了四百八十分鐘。",
+          "editorNote": "適合在被問「你昨天睡多久」時，用認真的口吻回答嚇對方一跳",
+          "variations": [
+            "存夠十二個月的薪水，你大概就存到了一整年的薪水。",
+            "只要喝完一整杯水，你杯子裡的水基本上就沒了。"
+          ]
+        },
+        "en": {
+          "content": "Statistics show that if a person sleeps a full eight hours,\nthey will have used up roughly four hundred and eighty minutes that night.",
+          "editorNote": "Answer 'how long did you sleep?' with this dead-serious math and watch their face",
+          "variations": [
+            "Save twelve months of salary and you'll have saved about a year's worth of salary.",
+            "Once you finish a whole glass of water, the water in your glass is basically gone."
+          ]
+        }
+      }
     }
   ]
 }

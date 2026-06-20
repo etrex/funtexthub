@@ -6635,6 +6635,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-234",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://parade.com/973277/jessicasager/inspirational-quotes/",
+      "sourceNote": "Inspired by Arianna Huffington's idea that failure is part of success, not its opposite",
+      "tags": [
+        "勵志",
+        "失敗",
+        "成長",
+        "挫折"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "失敗不是成功的相反，它是成功的其中一段。",
+          "editorNote": "送給剛跌一跤、開始懷疑自己的人。失敗不是岔路，它本來就在通往成功的這條路上。",
+          "variations": [
+            "你不是失敗了，你只是還沒走到後面那一段。",
+            "每個成功的故事，中間都藏著一堆沒人看到的搞砸。"
+          ]
+        },
+        "en": {
+          "content": "Failure isn't the opposite of success — it's one of the chapters inside it.",
+          "editorNote": "For someone who just stumbled and started doubting themselves. Failure isn't a detour off the road to success; it was always part of the road.",
+          "variations": [
+            "You didn't fail — you just haven't reached the later chapters yet.",
+            "Every success story is stuffed with messes nobody ever sees."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-235",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.oxxostudio.tw/project/greetings/power-words.html",
+      "sourceNote": "Inspired by Taiwan motto theme: don't stop trying until the result you want shows up",
+      "tags": [
+        "勵志",
+        "堅持",
+        "努力",
+        "等待"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "想要的結果還沒出現，不代表它不會出現，只代表還沒到。",
+          "editorNote": "適合熬到一半、覺得努力沒回報的人。別在快好的時候停手，很多事就差最後那一下。",
+          "variations": [
+            "別在還沒看到結果前，就先把自己刪掉。",
+            "結果遲到了，不等於缺席。"
+          ]
+        },
+        "en": {
+          "content": "The result you want hasn't shown up yet — that doesn't mean it won't, just that it's not time.",
+          "editorNote": "For anyone halfway through and convinced the effort isn't paying off. Don't quit right before it clicks — a lot of things come down to that last little push.",
+          "variations": [
+            "Don't delete yourself before the results have even arrived.",
+            "A late outcome isn't a no-show."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-236",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.shopify.com/blog/motivational-quotes",
+      "sourceNote": "Inspired by the 'progress over perfection, a steady inch forward' theme",
+      "tags": [
+        "勵志",
+        "正能量",
+        "進步",
+        "完美主義"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天比昨天好一點點，就已經贏過那個原地打轉的你了。",
+          "editorNote": "給卡在完美主義、覺得不做到滿分就乾脆不做的人。一點點也是往前，別小看那一公分。",
+          "variations": [
+            "不用做到一百分，只要不是停在原地就好。",
+            "進步一公分，也是把昨天甩在後面了。"
+          ]
+        },
+        "en": {
+          "content": "A little better than yesterday already beats the version of you that stayed put.",
+          "editorNote": "For the perfectionist who figures it's all-or-nothing. An inch forward is still forward — don't write off the inch.",
+          "variations": [
+            "You don't need a perfect score. You just need to not stand still.",
+            "One inch of progress still leaves yesterday behind."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-237",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/53694",
+      "sourceNote": "Inspired by Eleanor Roosevelt's idea that facing fear builds strength and confidence",
+      "tags": [
+        "勵志",
+        "勇氣",
+        "恐懼",
+        "自信"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每一次你正眼看著害怕的東西，你就又多拿到一點勇氣。",
+          "editorNote": "適合在做之前就先怕到不行的時候。勇氣不是不怕，是怕著還願意往前一步。",
+          "variations": [
+            "你怕的事做完之後，下一件就沒那麼嚇人了。",
+            "勇氣是你怕得要死，還是去了。"
+          ]
+        },
+        "en": {
+          "content": "Every time you look the scary thing straight in the eye, you walk away with a little more courage.",
+          "editorNote": "For the moment you're terrified before even starting. Courage isn't the absence of fear — it's being scared and stepping forward anyway.",
+          "variations": [
+            "Once you get through the thing you feared, the next one looks a lot smaller.",
+            "Courage is being scared to death and going anyway."
+          ]
+        }
+      }
     }
   ]
 }

@@ -7124,6 +7124,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-246",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Coding is just Googling errors professionally — rewritten with AI-era twist",
+      "tags": [
+        "工程師思維",
+        "工程師語錄",
+        "AI"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官：「你最擅長的程式技能是什麼？」\n工程師：「把錯誤訊息複製貼上去問 AI。」\n面試官：「那以前 AI 還沒出來的時候呢？」\n工程師：「複製貼上去 Google。」\n面試官：「⋯⋯那再以前呢？」\n工程師：「那時候我會哭。」",
+          "editorNote": "傳給整天跟 AI 聊天視窗對話的同事，他會邊笑邊承認這就是他的日常。",
+          "variations": [
+            "寫程式的本質沒變，只是哭的對象從螢幕換成了對話框。",
+            "現在的工程師不是不會寫，是太會問了。"
+          ]
+        },
+        "en": {
+          "content": "Interviewer: \"What's your strongest coding skill?\"\nDeveloper: \"Pasting error messages into an AI chat.\"\nInterviewer: \"And before AI existed?\"\nDeveloper: \"Pasting them into Google.\"\nInterviewer: \"...and before that?\"\nDeveloper: \"Back then I just cried.\"",
+          "editorNote": "Send to the coworker who lives in an AI chat window — they'll laugh and quietly admit it's accurate.",
+          "variations": [
+            "The job never changed, only who you cry to: first the screen, now the chat box.",
+            "Today's developers aren't bad at coding — they're just really good at asking."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-247",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://punswork.com/programming-jokes/",
+      "sourceNote": "Works on my machine — classic blame-shift joke, rewritten",
+      "tags": [
+        "Debug",
+        "工程師語錄",
+        "甩鍋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試說：「這個功能壞了。」\n工程師打開電腦跑了一遍：「可是我這邊好好的啊。」\n測試：「那要不然我們把產品打包，連你的電腦一起出貨給客戶？」",
+          "editorNote": "貼在團隊群組，保證測試跟工程師都會出來認領自己的角色。",
+          "variations": [
+            "「在我電腦上沒問題」是工程師的免死金牌，可惜客戶買的不是你的電腦。",
+            "下次客訴的時候，記得問一句：你的環境跟我一樣嗎？"
+          ]
+        },
+        "en": {
+          "content": "QA: \"This feature is broken.\"\nDeveloper runs it locally: \"Weird, works fine on my machine.\"\nQA: \"Great. Should we just ship your laptop to the customer along with the product?\"",
+          "editorNote": "Drop this in the team chat and watch both QA and devs claim their roles instantly.",
+          "variations": [
+            "'Works on my machine' is a developer's get-out-of-jail card — too bad the customer didn't buy your machine.",
+            "Next bug report, just ask: is your environment exactly like mine?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-248",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://punsplanet.com/programmer-jokes/",
+      "sourceNote": "Git commit 'please work this time' — rewritten as a dialogue",
+      "tags": [
+        "Git",
+        "工程師語錄",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "看一個工程師的 commit 訊息，就能看出他今天過得好不好：\n早上：「新增使用者登入功能」\n中午：「修正登入錯誤」\n下午：「真的修好了」\n晚上：「拜託這次給我過」\n半夜：「我恨我自己」",
+          "editorNote": "傳給正在改 bug 改到天亮的工程師朋友，他會回你一個哭笑不得的表情。",
+          "variations": [
+            "commit 訊息的品質，跟工程師的血糖成正比。",
+            "最誠實的版本控制紀錄，往往出現在凌晨三點。"
+          ]
+        },
+        "en": {
+          "content": "You can tell how a developer's day is going just by reading their commit messages:\nMorning: \"Add user login feature\"\nNoon: \"Fix login bug\"\nAfternoon: \"Actually fix it this time\"\nEvening: \"Please work, I'm begging\"\nMidnight: \"I hate myself\"",
+          "editorNote": "Send to the friend debugging until sunrise; expect a laugh-crying emoji back.",
+          "variations": [
+            "The quality of a commit message is directly proportional to the developer's blood sugar.",
+            "The most honest version history always shows up at 3 a.m."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-249",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://punsify.com/programmer-jokes/",
+      "sourceNote": "Programmer lost array of income pun — rewritten/localized",
+      "tags": [
+        "雙關",
+        "冷笑話",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼那個工程師最後破產了？\n因為他把「收入陣列」的索引從 0 開始算，結果第一筆薪水永遠領不到。",
+          "editorNote": "適合丟給愛糾結陣列從 0 還是 1 開始的工程師，他會一邊翻白眼一邊笑。",
+          "variations": [
+            "工程師的痛：連數錢都要從 0 開始。",
+            "別擔心，他下個月的索引就會對齊了——大概啦。"
+          ]
+        },
+        "en": {
+          "content": "Why did the developer go broke?\nHe started indexing his income array at 0, so he never got to collect that first paycheck.",
+          "editorNote": "Great for the friend who still argues about zero- vs one-based indexing; expect an eye-roll and a laugh.",
+          "variations": [
+            "A developer's pain: even counting money starts at zero.",
+            "Don't worry, his index will line up next month — probably."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-250",
+      "dateAdded": "2026-06-20",
+      "sourceUrl": "https://programmerhumor.io/memes/copilot",
+      "sourceNote": "AI pair-programming approval joke — rewritten with original framing",
+      "tags": [
+        "AI",
+        "工程師思維",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管：「這次的 PR 寫得很漂亮，邏輯很乾淨，誰寫的？」\n工程師：「我跟我的結對程式設計夥伴一起寫的。」\n主管：「喔？哪位同事？我都不知道我們有請新人。」\n工程師：「⋯⋯他不領薪水，只吃電費。」",
+          "editorNote": "傳給最近把 AI 當同事的工程師，他會心虛地按下已讀不回。",
+          "variations": [
+            "現代軟體開發的精髓，就是知道什麼時候該按下 Tab 接受建議。",
+            "我的夥伴從不請假，但偶爾會一本正經地胡說八道。"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"This PR is beautiful — clean logic, who wrote it?\"\nDeveloper: \"My pair-programming partner and I did.\"\nManager: \"Oh? Which teammate? I didn't know we'd hired anyone new.\"\nDeveloper: \"...he doesn't take a salary. Just electricity.\"",
+          "editorNote": "Send to the dev who quietly treats an AI as a coworker; expect a guilty read-receipt and no reply.",
+          "variations": [
+            "Modern software development is basically knowing when to hit Tab to accept the suggestion.",
+            "My partner never takes a day off, but he does occasionally lie with total confidence."
+          ]
+        }
+      }
     }
   ]
 }
