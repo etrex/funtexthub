@@ -4288,6 +4288,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-173",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the 「別家都可以，只有你們不行」 store-comparison trope (Dcard 奧客經典語錄) into a clean retort",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以，只有你們不行。」\n「那您可以去別家。」\n「我就要在這家。」",
+          "editorNote": "傳給今天被「別家都OK」綁架的店員。能拿來比較的別家，永遠停在客人嘴上，從來沒出現在發票上。",
+          "variations": [
+            "客人口中那間什麼都可以的「別家」，地址通常是「我不會真的去」。",
+            "「別家都行」的後面，總是接著「但我還是站在你這櫃台」。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other shop lets me. Just not yours.\"\n\"Then go to another shop.\"\n\"No, I want this one.\"",
+          "editorNote": "For the clerk held hostage by \"everywhere else says yes\" today. That generous \"other shop\" only ever exists in the customer's mouth — never on a receipt.",
+          "variations": [
+            "The \"other shop\" that allows everything is always located at \"I'm not actually going there.\"",
+            "\"Everywhere else allows it\" is always followed by \"but I'm still standing at your counter.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-174",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.518.com.tw/article/2115",
+      "sourceNote": "Reworks the 「我要客訴」threat-as-leverage trope (518職場熊報 + Dcard) into the asymmetry observation",
+      "tags": [
+        "服務業",
+        "奧客",
+        "客服",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我要客訴你！」\n好喔，您有客訴的權利，\n我有把今天記到日記裡的權利，\n兩邊都沒人會看。",
+          "editorNote": "傳給被「我要客訴」當開場白問候的客服。客訴是客人的權利，扣薪是我們的代價——同一句話，兩邊的重量從來不一樣。",
+          "variations": [
+            "客人有客訴的權利，員工有「被客訴」的義務，這份合約沒人簽過卻人人遵守。",
+            "「我要客訴」翻譯成白話：我要一個你不能反駁我的位置。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm filing a complaint!\"\nSure — you have the right to complain,\nI have the right to write it in my diary,\nand nobody reads either one.",
+          "editorNote": "For the support agent greeted by \"I'm filing a complaint\" as an opener. The complaint is the customer's right; the pay deduction is our cost. Same sentence, two very different weights.",
+          "variations": [
+            "Customers have the right to complain; employees have the duty to be complained about. Nobody signed that contract, but everybody honors it.",
+            "\"I'm filing a complaint\" translates to \"I want a position where you can't talk back.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-175",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/funny/",
+      "sourceNote": "Reworks the 「掃不出來就是免費」scanner trope (retail worker memes, Help Scout funny CS quotes) with a fresh comeback",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「嗶不出來就是免費的吧？」\n如果這個邏輯成立，\n那我打卡機壞掉那天，是不是該領兩倍薪？",
+          "editorNote": "傳給今天又聽到「掃不出來算我賺到」這種冷笑話的零售同事。同一套「機器壞=我獲利」的邏輯，套在他們身上就理直氣壯，套回公司就立刻失效。",
+          "variations": [
+            "「嗶不出來免費」是客人版的薛丁格——商品同時免費又必須有貨。",
+            "機器掃不出來，免費的從來不是商品，是客人那一秒的幻想。"
+          ]
+        },
+        "en": {
+          "content": "\"If it won't scan, it's free, right?\"\nIf that logic holds,\nthen the day the time clock broke, do I get double pay?",
+          "editorNote": "For the retail coworker who heard \"won't scan, must be free\" again today. The whole \"machine broke = I profit\" logic sounds airtight on them and dissolves instantly when pointed back at the company.",
+          "variations": [
+            "\"Won't scan, so it's free\" is the customer's version of Schrödinger — the item is simultaneously free and definitely in stock.",
+            "When the scanner fails, the free thing was never the product — it was the customer's one-second fantasy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-176",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/258826892",
+      "sourceNote": "Reworks the 「這是你們的問題不是我的」blame-deflection trope (Dcard 台灣服務業) into an internal monologue",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這是你們的問題，不是我的。」\n是是是，所以您現在站在我這邊的櫃台，\n等我這邊的人，解決我這邊的問題。",
+          "editorNote": "傳給被「都是你們的問題」推到牆角的服務業朋友。錯歸誰永遠沒結論，但要誰收尾，客人心裡其實很清楚。",
+          "variations": [
+            "「這是你們的問題」後面，通常緊接著「所以你們要幫我解決」——責任和期待，從來不住同一個人身上。",
+            "客人把問題丟回給你的同時，也很誠實地把雙手攤開等你接住。"
+          ]
+        },
+        "en": {
+          "content": "\"That's your problem, not mine.\"\nRight, right — which is why you're standing at my counter,\nwaiting for my people,\nto fix my problem.",
+          "editorNote": "For the worker backed into a corner by \"that's your problem.\" Who's at fault never gets settled — but who has to clean it up, the customer knows perfectly well.",
+          "variations": [
+            "\"That's your problem\" is always followed by \"so you'd better fix it for me\" — blame and expectation never live in the same person.",
+            "The moment a customer tosses the problem back to you, they also very honestly hold out both hands for you to catch it."
+          ]
+        }
+      }
     }
   ]
 }

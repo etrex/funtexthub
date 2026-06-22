@@ -7269,6 +7269,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-251",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Debugging detective one-liner — classic format, rewritten with original framing",
+      "tags": [
+        "除錯",
+        "工程師思維",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除錯就像在演一齣偵探劇。\n你是負責查案的偵探。\n你是被害人。\n你也是兇手。\n而且你還沒有不在場證明。",
+          "editorNote": "傳給正在熬夜抓 bug 的同事，附一句「兇手抓到了嗎」最對味。",
+          "variations": [
+            "後來發現兇手是三個月前的自己，留下的唯一線索是一行 //先這樣之後再改。",
+            "最慘的劇本：查到最後，兇手、被害人、和那個寫註解說沒問題的人，都是你。"
+          ]
+        },
+        "en": {
+          "content": "Debugging is basically a detective show.\nYou're the detective on the case.\nYou're also the victim.\nYou're the murderer too.\nAnd no, you don't have an alibi.",
+          "editorNote": "Send it to whoever's pulling an all-nighter hunting a bug, then ask 'caught the killer yet?'",
+          "variations": [
+            "Turns out the murderer was you three months ago, and the only clue was a comment that said //fix later.",
+            "Worst plot twist: the detective, the victim, and the guy who wrote 'tested, all good' are all you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-252",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "99 bugs in the code song variant — rewritten as a short bit",
+      "tags": [
+        "除錯",
+        "程式碼品質",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "程式裡有 99 個 bug，99 個 bug。\n抓掉一個，重新編譯一次⋯⋯\n現在程式裡有 137 個 bug。",
+          "editorNote": "適合貼在團隊群組，配上「今天又幫專案做大」的自嘲。",
+          "variations": [
+            "你以為你在減法，其實你在做質因數分解。",
+            "修一個 bug 送三個，這家工程師佛心來著。"
+          ]
+        },
+        "en": {
+          "content": "99 little bugs in the code, 99 little bugs.\nTake one down, recompile the thing...\nNow there are 137 little bugs in the code.",
+          "editorNote": "Drop it in the team channel with a 'making the project bigger again today' caption.",
+          "variations": [
+            "You thought you were doing subtraction. The codebase had other plans.",
+            "Fix one bug, get three free. Generous, really."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-253",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://thunderdungeon.com/2025/09/22/30-programmer-memes-with-big-laughs-for-big-nerds/",
+      "sourceNote": "git push --force chaos meme — rewritten into a dialogue",
+      "tags": [
+        "版本控制",
+        "工程師思維",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人：「合併衝突好可怕，我不敢動。」\n資深工程師：「別怕，我有一招絕對解決。」\n新人：「什麼招？」\n資深工程師：「git push --force。」\n新人：「然後呢？」\n資深工程師：「然後就換別人怕了。」",
+          "editorNote": "傳給剛學會 git 的新人，順便提醒他這是反面教材。",
+          "variations": [
+            "強推不是解決衝突，是把衝突送給整個團隊一起承擔。",
+            "公司最安靜的時刻，就是有人在主分支按下 --force 的那三秒。"
+          ]
+        },
+        "en": {
+          "content": "Junior: \"Merge conflicts terrify me, I'm scared to touch anything.\"\nSenior: \"Relax, I've got a move that fixes everything.\"\nJunior: \"What is it?\"\nSenior: \"git push --force.\"\nJunior: \"And then?\"\nSenior: \"And then it's everyone else's turn to be scared.\"",
+          "editorNote": "Send to a fresh git learner, with a clear note that this is a cautionary tale.",
+          "variations": [
+            "Force-push doesn't resolve the conflict — it just shares it with the whole team.",
+            "The quietest three seconds at any company is right after someone force-pushes to main."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-254",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "Works on my machine one-liner — reframed as a support ticket bit",
+      "tags": [
+        "工程師思維",
+        "工程師語錄",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客服：「使用者說功能壞了。」\n工程師：「我這邊測過，完全正常。」\n客服：「那要怎麼回覆？」\n工程師：「請使用者把整台公司搬來我的電腦上跑。」",
+          "editorNote": "貼在跨部門群組，保證客服同事先笑出來再翻白眼。",
+          "variations": [
+            "「在我電腦上是好的」這句話，是工程師界最古老的咒語。",
+            "解法很簡單：把正式環境換成我的筆電就好了。"
+          ]
+        },
+        "en": {
+          "content": "Support: \"User says the feature is broken.\"\nDeveloper: \"I tested it here, works perfectly.\"\nSupport: \"So what do I tell them?\"\nDeveloper: \"Ask them to move the entire company onto my laptop.\"",
+          "editorNote": "Post it in a cross-team channel and watch support laugh before they sigh.",
+          "variations": [
+            "'Works on my machine' is the oldest incantation in all of engineering.",
+            "Simple fix: just replace production with my laptop."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-255",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://techtonicshifts.blog/2025/07/13/the-funniest-comments-ever-left-in-source-code/",
+      "sourceNote": "Funny source-code comment compilation — rewritten as original lines",
+      "tags": [
+        "程式碼品質",
+        "工程師語錄",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "程式碼裡最誠實的三行註解：\n第一行：「我不知道這為什麼會動，但拜託不要刪。」\n第二行：「當你看懂這段時，神已經棄我而去。」\n第三行：「這裡很髒，但能跑，求求你往下捲。」",
+          "editorNote": "傳給接手別人爛攤子的工程師，他會邊苦笑邊點頭。",
+          "variations": [
+            "還有一行：「離職前一定要把這段重寫。」——日期是三年前。",
+            "最恐怖的註解永遠是：「這段千萬不要碰。」結果沒人記得為什麼。"
+          ]
+        },
+        "en": {
+          "content": "The three most honest comments in any codebase:\nLine one: \"I have no idea why this works, please don't delete it.\"\nLine two: \"If you're reading this, the gods have already abandoned me.\"\nLine three: \"This is ugly but it runs — I beg you, just scroll past.\"",
+          "editorNote": "Send it to anyone who just inherited someone else's mess; expect a pained nod.",
+          "variations": [
+            "There's a fourth: \"Must rewrite this before I quit.\" Dated three years ago.",
+            "The scariest comment is always 'do not touch this' — and nobody remembers why."
+          ]
+        }
+      }
     }
   ]
 }

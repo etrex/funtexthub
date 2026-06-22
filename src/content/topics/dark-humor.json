@@ -6092,6 +6092,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-216",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://librarypun.com/dark-humor-puns-and-jokes/",
+      "sourceNote": "靈感取自『早晨穀片配存在焦慮』類日常存在主義黑色幽默，改寫為健身房辦卡場景，內容完全原創",
+      "tags": [
+        "存在主義",
+        "現代生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去辦了健身房會員。\n\n櫃台問我：「請問運動目標是什麼？」\n\n我想了想，老實說：\n「想處理一下我的存在焦慮。」\n\n他愣了一下，\n還是很專業地把它填進系統：\n「好的，那我幫您排了\n每週三次有氧。」\n\n三個月後，\n我的存在焦慮一次也沒來過。\n\n會員卡也是。",
+          "editorNote": "傳給那個每年一月都辦卡、二月就再也沒去過的朋友。笑點是把存在焦慮當成運動目標填表，後座力是最後那句——真正持之以恆來健身房的，只有那筆每月自動扣款",
+          "variations": [
+            "短版：健身房問我運動目標，我說想處理存在焦慮。三個月後焦慮一次沒來，我也是，只有月費很準時。",
+            "進階版：解約時櫃台問原因，我說目標達成了——我已經焦慮到懶得焦慮了。"
+          ]
+        },
+        "en": {
+          "content": "I signed up for a gym.\n\nThe front desk asked:\n\"What's your fitness goal?\"\n\nI thought about it and answered honestly:\n\"I'd like to deal with my existential dread.\"\n\nHe paused,\nthen professionally typed it into the system:\n\"Got it. I've scheduled you\nfor cardio three times a week.\"\n\nThree months later,\nmy existential dread had never once shown up.\n\nNeither had I.\n\nOnly the membership fee did.",
+          "editorNote": "Send to the friend who signs up every January and never returns after February. The laugh is listing existential dread as a fitness goal on the form. The aftershock: the only thing that showed up consistently was the monthly auto-charge.",
+          "variations": [
+            "Short version: The gym asked my fitness goal. I said I wanted to deal with my existential dread. Three months later it never showed, and neither did I — just the fee, right on time.",
+            "Follow-up: When I cancelled, they asked why. I said goal achieved — I'm now too tired to even dread anything."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-217",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://eduyush.com/en-us/blogs/lifestyle/dark-humour-jokes",
+      "sourceNote": "靈感取自『我不怕死，我怕喪禮上的尬聊』類黑色幽默，改寫並加入台灣告別式場景，內容完全原創",
+      "tags": [
+        "死亡",
+        "孤獨",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我其實不怕死。\n\n我怕的是\n告別式那天，\n大家圍在一起，\n不知道要說什麼，\n只好說：\n\n「他人很好啦。」\n「對啊，很安靜的一個人。」\n「⋯⋯飯吃一吃齁。」\n\n然後就去夾菜了。\n\n我活著的時候沒人約我吃飯，\n沒想到死了\n終於辦了一桌\n大家一起吃。\n\n只差我沒到。",
+          "editorNote": "傳給那個常常自嘲沒朋友、揪人都沒人理的朋友。笑點是把告別式的尬聊寫得超真實，後座力是最後那句——這輩子最熱鬧的一頓飯，主角偏偏缺席",
+          "variations": [
+            "短版：我不怕死，我怕告別式上大家不知道聊什麼，只好說『飯吃一吃』然後去夾菜。我這輩子最多人陪吃的一餐，我沒到。",
+            "進階版：至少這次大家準時，還包了禮金——活著時約十次有八次被已讀。"
+          ]
+        },
+        "en": {
+          "content": "I'm not actually afraid of dying.\n\nWhat I'm afraid of\nis the funeral —\neveryone standing in a circle,\nnot knowing what to say,\nso they go:\n\n\"He was a good guy.\"\n\"Yeah, real quiet type.\"\n\"...anyway, let's go eat.\"\n\nAnd off they go to the buffet.\n\nNobody asked me to dinner while I was alive.\nTurns out it took dying\nto finally get everyone\nat one table together.\n\nJust without me.",
+          "editorNote": "Send to the friend who jokes about having no friends and getting left on read whenever they try to make plans. The laugh is how painfully real the funeral small talk is. The aftershock: the most crowded meal of their life, and they're the one not there.",
+          "variations": [
+            "Short version: I'm not scared of death. I'm scared of everyone at my funeral not knowing what to say, mumbling 'let's eat,' then heading to the buffet — the most company I'll ever have at a meal, and I'm not there.",
+            "Follow-up: At least this time everyone showed up on time and brought a gift — alive, eight out of ten invites got left on read."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-218",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://aifunnyjokes.com/ai-dark-humor-jokes/",
+      "sourceNote": "靈感取自 AI 取代人類工作的黑色幽默，改寫為台灣上班族與 AI 同事場景，內容完全原創",
+      "tags": [
+        "AI",
+        "職場",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司導入了 AI，\n說是要「協助」我們，\n不是取代。\n\n第一週，AI 幫我寫報告。\n第二週，AI 幫我回信。\n第三週，AI 幫我開會。\n\n第四週，\n主管把我叫進去，\n語重心長地說：\n\n「我們發現你最近\n好像沒什麼產出。」\n\n我點點頭。\n是啊。\n\n那些產出\n現在都掛在 AI 名下了——\n它連我的工作交接\n都幫我寫好了。",
+          "editorNote": "傳給那個天天用 AI 處理工作、心裡又隱隱不安的同事。笑點是 AI 從『協助』一步步變成『接手』，後座力是最後那句——連把你請走的流程，都是 AI 幫忙跑完的",
+          "variations": [
+            "短版：公司說 AI 是來協助不是取代。第四週主管說我沒產出——因為產出都掛 AI 名下了，連我的離職交接都是它寫的。",
+            "進階版：我問 AI 接下來怎麼辦，它回我：『建議您及早培養第二專長。』——它連安慰都比我有效率。"
+          ]
+        },
+        "en": {
+          "content": "The company rolled out AI,\nsaid it was here to \"assist\" us,\nnot replace us.\n\nWeek one, the AI wrote my reports.\nWeek two, the AI answered my emails.\nWeek three, the AI ran my meetings.\n\nWeek four,\nmy manager called me in\nand said, gravely:\n\n\"We've noticed you haven't\nreally produced much lately.\"\n\nI nodded.\nFair enough.\n\nAll that output\nis now filed under the AI's name —\nit even wrote up\nmy own handover notes for me.",
+          "editorNote": "Send to the coworker who runs everything through AI all day and feels a quiet unease about it. The laugh is the AI sliding from 'assist' to 'take over' one week at a time. The aftershock: even the paperwork to walk you out got handled by the AI.",
+          "variations": [
+            "Short version: They said the AI was here to assist, not replace. By week four my manager said I had no output — because it's all under the AI's name now, including the handover notes for my own exit.",
+            "Follow-up: I asked the AI what I should do next. It replied: 'I'd recommend developing a backup skill set.' Even its comfort is more efficient than mine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-219",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://smileloverz.com/dark-humor-jokes/",
+      "sourceNote": "靈感取自『把情緒包袱帶去諮商，它還帶了朋友』類心理健康黑色幽默，改寫為台灣搬家比喻，內容完全原創",
+      "tags": [
+        "焦慮",
+        "現代生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "諮商師說：\n「我們今天\n試著放下一些\n你帶了很久的包袱好嗎？」\n\n我說好。\n\n結果一打開，\n發現裡面不只我的包袱——\n還有我媽的、\n我前任的、\n還有國中那個\n忘記我名字的同學的。\n\n我看著那一整箱，\n問諮商師：\n「這⋯⋯要從哪個開始放？」\n\n她沉默了一下，\n說：\n「我們可能\n需要多約幾次。」",
+          "editorNote": "傳給那個總是默默扛著一堆不屬於自己的情緒的朋友。笑點是打開包袱發現裡面全是別人的，後座力是那一整箱——有些重量我們背太久，久到忘記它本來不該是我們的",
+          "variations": [
+            "短版：諮商師叫我放下帶很久的包袱。打開一看裡面有我媽的、前任的、還有國中同學的。她想了想說：可能要多約幾次。",
+            "進階版：回家路上我又默默把箱子撿了回來——畢竟背了這麼久，突然空手反而不知道手要放哪。"
+          ]
+        },
+        "en": {
+          "content": "My therapist said:\n\"Today, let's try\nto set down some baggage\nyou've been carrying a long time, okay?\"\n\nI said okay.\n\nBut when I opened it,\nturns out it wasn't just mine —\nthere was my mom's,\nmy ex's,\nand a classmate's\nfrom middle school\nwho forgot my name.\n\nI looked at the whole crate\nand asked:\n\"Which... do I start with?\"\n\nShe paused,\nthen said:\n\"We're probably going to\nneed a few more sessions.\"",
+          "editorNote": "Send to the friend who quietly carries a pile of emotions that were never theirs to begin with. The laugh is opening the baggage to find it's all other people's. The aftershock: some weight we carry so long we forget it was never supposed to be ours.",
+          "variations": [
+            "Short version: My therapist told me to set down baggage I'd carried for years. I opened it: my mom's, my ex's, a middle-school classmate's. She thought a moment and said we'd need more sessions.",
+            "Follow-up: On the walk home I quietly picked the crate back up — after carrying it that long, empty hands didn't know what to do with themselves."
+          ]
+        }
+      }
     }
   ]
 }

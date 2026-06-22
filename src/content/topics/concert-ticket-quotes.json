@@ -2334,6 +2334,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-102",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/3219262",
+      "sourceNote": "BTS 高雄場 6/4 拓元實名制全面開賣，每張票外加系統服務費 NT$200",
+      "tags": ["服務費", "實名制", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "票價之外,\n每張再加 200 系統服務費。\n\n我問:服務了什麼?\n\n系統說:\n服務了你乖乖把錢付完\n這件事。",
+          "editorNote": "每張票外加固定服務費是 2026 售票標配,卻沒人說得清服務了什麼。傳給結帳時被多扣一筆的朋友當吐槽",
+          "variations": [
+            "認命版:「四張票就是 800 服務費。服務內容:讓我心甘情願地被加價。這錢花得真有教育意義。」"
+          ]
+        },
+        "en": {
+          "content": "On top of the ticket,\nthey tack on a flat service fee.\n\nI asked: what service?\n\nThe system replied:\nthe service of you paying up\nwithout making a fuss.",
+          "editorNote": "Flat per-ticket service fees are standard now, and nobody can say what the service is. Send to a friend who just got dinged an extra charge at checkout",
+          "variations": [
+            "Resigned: 'Four tickets, four service fees. The service: convincing me to accept the upcharge with a smile. Surprisingly educational.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-103",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.newsnationnow.com/entertainment-news/ticketmaster-dynamic-pricing-concert-tickets/",
+      "sourceNote": "動態定價依需求即時調價,普通座位因熱度突然多收數百元,粉絲形容像賭博",
+      "tags": ["動態定價", "票價", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "動態定價:\n價格隨人潮即時跳動。\n\n我把票放進購物車,\n還沒按結帳,\n價格就漲了。\n\n我不是在買票,\n我是在看股市,\n而且我永遠是被收割的那邊。",
+          "editorNote": "動態定價讓票價在結帳前自己漲是 2026 最新怒點。傳給眼睜睜看著購物車金額往上跳的朋友",
+          "variations": [
+            "股民版:「同一個位置,我猶豫三分鐘,它漲了兩百。原來最該定期定額的不是股票,是我的決斷力。」"
+          ]
+        },
+        "en": {
+          "content": "Dynamic pricing:\nthe number moves in real time with the crowd.\n\nI dropped the ticket in my cart,\nhadn't even hit checkout,\nand the price went up.\n\nI'm not buying a ticket.\nI'm watching the stock market —\nand I'm always the one getting liquidated.",
+          "editorNote": "Watching the price climb before you can even pay is the freshest 2026 grievance. Send to a friend whose cart total ticked upward while they hesitated",
+          "variations": [
+            "Trader version: 'Same seat, three minutes of hesitation, two hundred bucks more. Turns out the thing I should've dollar-cost-averaged was my own decisiveness.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-104",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.ticketnews.com/2026/03/senate-report-says-ticketmasters-own-records-undercut-its-blame-of-bad-actors-for-high-prices-onsale-chaos/",
+      "sourceNote": "參議院報告:售票亂象多是平台內部刻意的商業決策,而非外部黃牛所致",
+      "tags": ["平台", "內幕", "搶票", "正義"],
+      "i18n": {
+        "zh-tw": {
+          "content": "調查報告出爐:\n搶票的亂、價格的貴,\n很多不是黃牛害的,\n是平台自己\n刻意設計的。\n\n原來這幾年,\n我罵錯對象了。\n\n壞人一直坐在收銀台後面。",
+          "editorNote": "官方調查證實亂象來自平台內部決策、而非全怪黃牛,是粉絲積怨的正名時刻。傳給罵了黃牛好幾年才發現真兇的朋友",
+          "variations": [
+            "恍然版:「我一直以為敵人在前面排隊插我隊,結果敵人是發排隊號碼牌的那個人。」"
+          ]
+        },
+        "en": {
+          "content": "The report dropped:\nthe chaos, the inflated prices —\nmuch of it wasn't the scalpers.\nIt was the platform's own\ndeliberate design.\n\nTurns out all these years,\nI was yelling at the wrong guy.\n\nThe villain was sitting behind the register the whole time.",
+          "editorNote": "An official finding that the mess came from inside the platform, not just scalpers, is a vindication moment for fans. Send to a friend who spent years blaming resellers before learning the truth",
+          "variations": [
+            "Lightbulb version: 'I thought the enemy was the guy cutting the line ahead of me. Turns out the enemy was the guy handing out the line numbers.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-105",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.ticketnews.com/2026/05/the-concert-industry-priced-high-tours-falling-apart/",
+      "sourceNote": "票價過高導致需求疲軟,多組藝人因大量空位取消北美巡演場次",
+      "tags": ["取消巡演", "空位", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "票價貴到\n連巡演都開始取消,\n因為太多位置賣不掉。\n\n搶不到的時候我心碎,\n現在賣不掉了我更心碎——\n\n原來不是沒人想去,\n是大家都\n被價格勸退了。",
+          "editorNote": "票價高到巡演因空位取消,是「貴到大家一起放棄」的時代縮影。傳給既搶不到、又買不下手的矛盾朋友",
+          "variations": [
+            "黑色幽默版:「以前是票太搶手我進不去,現在是票太貴沒人去所以直接取消。兩種我都沒看到,真公平。」"
+          ]
+        },
+        "en": {
+          "content": "Tickets got so expensive\nthat tours started canceling dates,\nbecause too many seats wouldn't sell.\n\nIt broke my heart when I couldn't get in.\nIt breaks it more now that they can't sell out —\n\nturns out it's not that no one wanted to go.\nIt's that the price\ntalked everyone out of it.",
+          "editorNote": "Prices climbing until tours cancel over empty seats captures the 'too expensive, everyone bailed' era. Send to the friend caught between can't-get-in and can't-afford-it",
+          "variations": [
+            "Dark-comedy version: 'Used to be I couldn't get in because it was packed. Now it's canceled because nobody could afford it. Either way I saw nothing — at least it's fair.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-106",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://raleighmag.com/2026/03/27/dynamic-prices/",
+      "sourceNote": "動態定價下,普通座位因隊伍位置與即時需求,價格暴漲到接近 VIP",
+      "tags": ["普通座位", "動態定價", "票價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只想買最普通的位置。\n\n結果動態定價一漲,\n普通座位的價格\n直接逼近 VIP。\n\n我付了 VIP 的錢,\n換到一個\n會自我懷疑「我配嗎」的座位。",
+          "editorNote": "動態定價把普通座位炒到接近 VIP 價,是「花大錢卻沒比較好」的荒謬。傳給只想低調看場演唱會卻被噴一筆的朋友",
+          "variations": [
+            "計算版:「普通票 +動態加價 = VIP 票價 -10 元。差那 10 元,剛好是我用來說服自己『還算划算』的精神損失費。」"
+          ]
+        },
+        "en": {
+          "content": "I just wanted the most ordinary seat.\n\nThen dynamic pricing kicked in,\nand the ordinary seat\nshot up to nearly VIP money.\n\nI paid VIP prices\nfor a seat that spends the whole show\nwondering if it even belongs there.",
+          "editorNote": "Dynamic pricing inflating plain seats to near-VIP cost is the absurdity of 'paid a fortune, got nothing better.' Send to a friend who just wanted a low-key night out and got gouged",
+          "variations": [
+            "Math version: 'Ordinary ticket + dynamic surge = VIP price minus ten bucks. That ten bucks is exactly what I use to convince myself it was still a deal.'"
+          ]
+        }
+      }
     }
   ]
 }

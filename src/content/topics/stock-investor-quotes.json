@@ -2186,6 +2186,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-088",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1780730899.A.993.html",
+      "sourceNote": "6月台指期破紀錄崩跌 / 少年股神畢業文 register；改寫原創",
+      "tags": ["期貨", "畢業", "少年股神", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "前陣子我還是同事口中的『少年股神』，每天進辦公室都有人問我下一檔買什麼。\n台指期那根破紀錄的長黑，一夜之間把我的神格降回凡人，還順便扣到欠錢。\n現在沒人問我明牌了，他們改問我：「你還好嗎？」",
+          "editorNote": "送給每個曾經是群組明燈、最近默默潛水的同學",
+          "variations": [
+            "從股神到股民只要一根黑K，從股民到股奴只要再一根。",
+            "我的封號更新得很快：少年股神，現在叫少年股債。"
+          ]
+        },
+        "en": {
+          "content": "Not long ago my coworkers called me the 'boy genius trader' — every morning someone asked what I was buying next.\nOne record-breaking red candle on the futures overnight demoted me from god back to mortal, then kept going until I owed money.\nNobody asks me for tips anymore. Now they just ask, 'Hey, are you okay?'",
+          "editorNote": "For everyone who used to be the group chat's guru and has quietly gone silent lately",
+          "variations": [
+            "From trading god to trader takes one red candle. From trader to debtor takes one more.",
+            "My title updates fast: yesterday boy genius, today boy in debt."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-089",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "PTT「別人恐懼我貪婪，別人小虧我破產」反諷名言 register；改寫原創",
+      "tags": ["巴菲特", "名言", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "巴菲特說：別人恐懼我貪婪，別人貪婪我恐懼。\n我認真照做，把這句話貼在螢幕上每天看。\n執行成果：別人恐懼的時候，我也恐懼；別人貪婪的時候，我才終於貪婪。\n所以我永遠慢半拍，恐懼接在最低點，貪婪接在最高點，全程精準錯開。",
+          "editorNote": "送給每個把投資名言背得滾瓜爛熟、實際操作卻完全相反的同好",
+          "variations": [
+            "名言我都會背，只是市場不照名言走，我也不照名言做。",
+            "別人恐懼我貪婪這句話很對，只可惜我總是先恐懼完，才想起要貪婪。"
+          ]
+        },
+        "en": {
+          "content": "Buffett said: be greedy when others are fearful, fearful when others are greedy.\nI took it seriously and taped it to my monitor.\nExecution results: when others were fearful, I was fearful too; only once everyone got greedy did I finally feel brave.\nSo I'm always one beat late — catching fear at the bottom, greed at the top, perfectly out of sync the whole way.",
+          "editorNote": "For everyone who has the investing quotes memorized and does the exact opposite in practice",
+          "variations": [
+            "I can recite every famous quote. The market just doesn't follow them, and neither do I.",
+            "'Be greedy when others are fearful' is great advice. Shame I always finish being fearful right before I remember to be greedy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-090",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "PTT「庫存綠到有牛在上面吃草」幹話語錄 register；改寫原創",
+      "tags": ["庫存", "綠燈", "厭世", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我最近持股顏色怎麼樣。\n我說綠的，很環保的那種綠。\n綠到我懷疑帳戶裡長出了草原，再過幾天可能會有牛跑進來吃草。\n我這不是在投資，我是在經營一座生態保護區。",
+          "editorNote": "適合在收盤後對著一片綠油油的對帳單苦中作樂時發",
+          "variations": [
+            "我的庫存綠到可以申請成為國家公園。",
+            "別人的紅燈是賺錢，我的綠燈是養草，各有各的收成。"
+          ]
+        },
+        "en": {
+          "content": "A friend asked what color my holdings are these days.\nI said green — the eco-friendly kind.\nSo green I suspect a meadow has sprouted in my account, and in a few days a cow might wander in to graze.\nI'm not running a portfolio. I'm running a nature reserve.",
+          "editorNote": "For making the best of it while staring at a wall of green after the close",
+          "variations": [
+            "My holdings are green enough to apply for national park status.",
+            "Other people's red means profit. My green means I'm growing grass. Different harvests, I suppose."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-091",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://jokejuicer.com/stock-market-jokes/",
+      "sourceNote": "「buy the dip → bottomless pit」自嘲 register；改寫原創",
+      "tags": ["逢低買進", "槓桿", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "理財文章教我：別怕震盪，逢低買進就對了。\n於是震盪來了，我逢低買進。\n再來一個震盪，我又逢低買進。\n買到後來我才發現，我以為的那個低，其實沒有底——它不是一個價位，是一個無底洞，而我把全部家當都丟進去填它。",
+          "editorNote": "適合貼在每次想加碼攤平、覺得『這次真的是最低了』的那一秒",
+          "variations": [
+            "我不是在逢低買進，我是在填一個永遠填不滿的洞。",
+            "震盪是市場給有勇氣的人的禮物，我收了一堆禮物，現在禮物比本金多。"
+          ]
+        },
+        "en": {
+          "content": "The finance blog taught me: don't fear volatility, just buy the dip.\nSo the volatility came, and I bought the dip.\nAnother shake, and I bought the dip again.\nEventually I realized the dip I kept buying had no floor — it wasn't a price, it was a bottomless pit, and I'd thrown my entire net worth in trying to fill it.",
+          "editorNote": "Read this the second you decide to average down because 'this really has to be the bottom'",
+          "variations": [
+            "I'm not buying the dip. I'm filling a hole that can never be filled.",
+            "Volatility is the market's gift to the brave. I collected a pile of gifts. Now I have more gifts than capital."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-092",
+      "dateAdded": "2026-06-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1780380026.A.D95.html",
+      "sourceNote": "槓桿 / 高槓桿融資斷頭 register；改寫原創",
+      "tags": ["融資", "槓桿", "斷頭", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我開了融資，因為我相信這檔一定漲，槓桿開下去報酬翻倍。\n結果它沒漲，跌了。\n槓桿很公平，它把報酬翻倍，也把虧損翻倍，最後連我的本金一起翻走了。\n我這才懂，槓桿不是放大鏡，是離心機——把我跟我的錢，甩到兩個不同的方向。",
+          "editorNote": "送給每個被『開槓桿才賺得快』推坑、結果先被斷頭的勇者",
+          "variations": [
+            "槓桿讓我用兩倍的速度，抵達原本要好幾年才會破產的地方。",
+            "我以為槓桿是加速器，它確實是，只是加速的方向是往下。"
+          ]
+        },
+        "en": {
+          "content": "I took out margin because I was sure this one would rip — lever up and double the returns.\nIt didn't rip. It dropped.\nMargin is fair: it doubled the gains, doubled the losses, and in the end doubled my principal right out the door.\nThat's when I understood leverage isn't a magnifying glass, it's a centrifuge — it flung me and my money in two different directions.",
+          "editorNote": "For the brave soul talked into 'you only get rich fast with leverage' who got margin-called first",
+          "variations": [
+            "Leverage let me reach, at double speed, a bankruptcy that would otherwise have taken years.",
+            "I thought leverage was an accelerator. It was — the direction it accelerated me was straight down."
+          ]
+        }
+      }
     }
   ]
 }
