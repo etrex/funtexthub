@@ -5496,3 +5496,90 @@ Done items collapsed; only live priorities listed.
 15. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period-quotes / drama-binge-quotes (莫離 + 雨霖鈴 + 逐玉 + 家業 古裝劇 cluster) 候選獨立評估, 暫 carry。
 16. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
 17. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議事件 全 SKIP, 不適合 fun text 定位。『超派』純語氣用法可用; 端午政治人物諧音 (接粽而來/粽所皆知) 純諧音祝福可用。
+
+## 2026-06-22 Research Report
+
+### New Topic Recommendations
+
+1. **世界盃足球語錄 / World Cup Quotes (worldcup-quotes)** — **小組賽第二輪 day-11 (6/22 週一, H 組西班牙 vs 沙烏地、G 組比利時 vs 伊朗、烏拉圭 vs 維德角、紐西蘭 vs 埃及, 單日 4 場), priority HIGH — 維持正式獨立建檔建議, 小組賽收官 + 淘汰賽倒數雙峰將至**:
+   - SEO rationale: 6/22 多源確認 (Fifa世界杯.tw 賽程表 / 商周 BusinessNext 即時比分 / Marie Claire 104 場台灣時間 / TVBS 懶人包 / hk01 / HKET 香港經濟日報 / 自由體育分組賽戰果)。**6/22 (台灣時間) 00:00 西班牙 vs 沙烏地 (H 組)、03:00 比利時 vs 伊朗 (G 組)、06:00 烏拉圭 vs 維德角 (H 組)、09:00 紐西蘭 vs 埃及 (G 組), 仍屬小組賽第二輪 (6/19-6/24)。** 關鍵新節點:**小組賽 6/24 收官 → 6/28 起進入殘酷單淘汰 (本屆 48 隊新增「32 強淘汰賽 Round of 32」一輪, 每組前 2 名 + 成績最佳的 8 支小組第三名晉級) → 一路廝殺至 7/19 紐澤西大都會人壽體育場冠軍戰。** 轉播維持愛爾達 ELTA 全 104 場 LIVE (體育台/MOD/HamiVideo) + 東森精選 + 台視免費。台灣觀賽 register 不變:「早餐球」(美西晚場落台灣上午, 上班族邊吃早餐邊看) +「半友善世界盃」(不必全程熬夜)。「世足賽程 / 6/22 西班牙 / 32 強淘汰賽 / 直播轉播線上看 / 早餐球」search 小組賽收官 + 淘汰賽倒數段穩定高位, 6/28 淘汰賽開打將迎次峰。
+   - 建議: **維持正式獨立建檔 worldcup-quotes (zh-tw + en) 不變; 若獨立檔尚未上線本週務必補建 (淘汰賽 6/28 前是最後黃金建檔窗口), 並持續 carry workplace/insomnia/cold-jokes/witty-comebacks 2-3 items 吃流量**。register「早餐球 = 邊吃蛋餅邊看球 / 小組賽都收官了我的待辦還沒出線 / 我的人生卡在小組賽出不了線 / 32 強淘汰賽 vs 我的待辦清單也該淘汰幾項 / 對台灣最佛的一屆 = 不用全程熬夜 / 偽球迷速成 = 只會喊越位但不知道什麼是越位 / 摸魚睇波被老闆抓包 / 90 分鐘睡眠周期 = 看球的科學」。en「breakfast football / morning kickoff / fake-fan starter pack (only knows 'offside') / the most merciful World Cup for night owls / still stuck in the group stage of my life / Round of 32 — my to-do list could use some elimination too」。**主題曲/卡司一律《Dai Dai》+ Shakira/Burna Boy (沿用 6/12 更正, 勿用舊卡司)。衛冕軍為阿根廷 (梅西), 非葡萄牙/法國 (沿用 6/18 更正, 撰稿勿沿用部分媒體誤標)。**
+
+2. **會考志願選填語錄 (exam-quotes 更新, 非新建)** — **志願選填窗口最後 72 小時 T-3, 6/25 (週四) 截止 → 7/7 放榜, priority HIGH — 收尾衝刺最後機會, 過 6/25 即關閉至 2027/6**:
+   - SEO rationale: 6/22 多源確認 (TKB 甄戰落點分析 / 翰林雲端 115 落點 / 全球華人升學志願 / 1111 全方位落點 / 永中升學資訊網 / 基北區免試入學系統平臺 / 教育職升機 各區預估積分)。**各就學區 6/18 開放個人序位查詢 + 志願選填 → 6/25 (週四) 截止 → 7/7 免試入學放榜。窗口進入最後 72 小時收尾衝刺段 (6/22-6/25), 6/25 截止前一晚達末峰後關閉。** 選填策略三區再確認:**夢幻區 (前 2 志願大膽填) / 實際區 (第 3 志願參考去年錄取) / 保守區 (第 4-5 志願安全牌)**, 並應「盡量填滿志願以避免落榜風險」、同步參考「性別區間」與「學校招生總名額」。「會考志願選填怎麼填 / 落點分析 / 截止前 / 超額比序計算」search 6/22-6/25 收尾段高位。
+   - 建議: **exam-quotes register 維持序位/志願 + 三區自嘲, 2-3 items 6/22-6/24 收尾上線吃截止前流量**。register「序位 = 人海中的座標 / 我的志願全是夢幻區 / 實際區是別人的志願 / 保守區才是我的實力 / 差 3 名差一所學校 / 落點分析交給 Excel / 志願要填滿但實力只到第 28 個 / 截止前一晚還在改 (6/25 倒數) / 邪修填志願 = 全部按落點亂填 / 填完志願才是焦慮的開始 (等 7/7 放榜)」。**逾 6/25 register 轉 7/7 放榜短碼休眠, 7/7 放榜日再 carry 1 波。** cross-link healing「接住還在選志願的自己」+ graduation。
+
+### Content Trends
+
+- **6/22 世界盃小組賽第二輪 day-11 收官倒數 + 淘汰賽 6/28 倒數 (Fifa世界杯.tw / 商周 / Marie Claire / TVBS / hk01 / HKET / 自由體育 多源 2026)**: 6/22 H/G 組 4 場 (西班牙 vs 沙烏地等), 小組賽第二輪 6/19-6/24, **6/24 收官 → 6/28 起 32 強單淘汰 (本屆新增 Round of 32) → 7/19 冠軍戰**。台灣觀賽雙 register「早餐球」+「半友善世界盃」持續主導。**意義: worldcup-quotes 維持建議正式獨立 (priority HIGH), 淘汰賽 6/28 前是最後黃金建檔窗口, 6/28 開打迎流量次峰, carry workplace/insomnia/cold-jokes/witty 2-3 items**「小組賽都收官我的待辦還沒出線 / 我的人生卡在小組賽 / 32 強淘汰賽我的待辦也該淘汰幾項 / 對台灣最佛的一屆 / 偽球迷速成只會喊越位 / 摸魚睇波被抓包」。
+
+- **6/22 會考志願選填窗口最後 72 小時 T-3 (TKB/甄戰/翰林雲端/全球華人/1111/基北免試平臺 多源 2026)**: **6/18 開放 → 6/25 (週四) 截止 → 7/7 放榜, 窗口剩 3 天進入最終收尾衝刺, 6/25 截止前一晚達末峰後關閉。** 三區策略 (夢幻前 2 / 實際第 3 / 保守第 4-5), 應填滿志願避落榜, 參考性別區間 + 招生名額。**意義: exam-quotes priority HIGH (收尾衝刺最後機會) — register 維持序位/志願 + 三區自嘲**「序位人海座標 / 志願全是夢幻區 / 保守區才是我的實力 / 差 3 名差一所學校 / 落點分析交給 Excel / 截止前一晚還在改 / 邪修填志願 / 填完志願才是焦慮的開始」2-3 items 6/22-6/24 上線。**逾 6/25 轉 7/7 放榜休眠。** cross-link healing「接住還在選志願的自己」+ graduation。
+
+- **6/22 夏月電價 day-22 + 6/20 高溫特報破紀錄熱穹頂 (中央氣象署高溫特報 6/19-6/20 / Newtalk / TechNews 科技新報 / PanSci 泛科學 / M-Calc 熱浪指南 多源 2026)**: 6-9 月厭世主軸再強化。**6/20 中央氣象署高溫特報: 嘉義縣、花蓮縣達橙色燈號 (36 度以上持續 3 天), 基隆/台北/新北等 14 縣市黃色燈號; 高壓「熱穹頂 (heat dome)」效應, 2026 恐為近年最悶熱夏天之一。** 能源面: 大批冷氣同開 + 電動車充電 + AI 資料中心耗電, 台電備轉容量率瀕臨紅燈, 電力壓力高於往年。夏月電價數據 carry (每低 1 度耗電增 6%-8%, 26℃ vs 22℃ 月多噴 500 元; 外出 30 分鐘內調高溫+電扇、1 小時以上才關機; 26-28 度搭電扇最省; 節電獎勵每度 0.6 元)。**意義: summer-electric-quotes / renting-quotes / adulting-quotes priority MEDIUM-HIGH→HIGH (高溫破紀錄 + 熱穹頂助攻搜尋)**「熱穹頂下不敢開冷氣 / 22 度的快樂一個月 500 元 / 每低 1 度多 8% 的罪惡感 / 橙色燈號的命黃色燈號的薪水 / 外出 30 分鐘該不該關的天人交戰 / AI 都在吹冷氣就我在忍 / 節電獎勵 0.6 元 = 省一度的成就感」register family 2-3 items 6/22-6/30 編寫。cross-link insomnia (熱到睡不著) 1 item。
+
+- **6/22 NEW 在地化候選『哭哭馬 / 馬倒成功』喪萌 (DailyView 網路溫度計 / 自由時報 / 世界日報 / 百度百科 / UpToGo 2026 流行語 多源 2026)**: **2026 火馬年, 諧音梗『馬倒成功 (馬到成功反諷自嘲)』+ 文創玩偶『哭哭馬』(原為義烏工人把馬玩偶嘴巴縫反、看似委屈的瑕疵款, 因『反而有點萌』爆紅, 訂單暴增開十多條生產線)。** 核心情緒「表面笑嘻嘻、內心哭唧唧」的社畜嘴替 = 現代人「喪萌」心理。**意義: workplace-quotes / self-love-quotes / adulting-quotes / healing-quotes priority MEDIUM — fun-text 厭世/自嘲切角, 與『班味/精神離職/初級大人』成年人厭世主題群同調**「表面笑嘻嘻內心哭唧唧 = 我的工作狀態 / 喪萌 = 累但還要可愛 / 馬倒成功 = 反正都馬要倒不如成功地倒」1-2 items 6/22-6/30 編寫。**⚠️ 注意: 哭哭馬/喪萌源自中國 (義烏/中國社畜語境), 撰稿須完全在地化情緒、勿照搬中國用語或語境, zh-tw 用台灣口語; 若在地化困難則僅取『表面笑嘻嘻內心哭唧唧』通用情緒、不點名哭哭馬。列本期次要在地化候選 (主候選仍為初級大人 + 班味/精神離職)。**
+
+- **6/22 NEW 全球 TikTok『Du bist gut genug』+『Nyck Caution PRESSURE!』世足國歌 (Epidemic Sound / NapoleonCat / Ramdam / Shooglebox 多源 2026)**: (a)**『Du bist gut genug (你已經夠好了)』** = 6 月初德語音訊爆紅, 人聲情緒飽滿又意外好笑, 中旬 edits/reaction/角色 mashup 成主要趨勢; (b)**Nyck Caution『PRESSURE!』** = 2026 世足官方級配樂神曲, 已配約 12 萬支 TikTok (含 FIFA 官方/皇馬/英超/F1), 世足內容前中後場通吃; (c) carry『Saxophone Gets Louder』(音量爆衝+畫面凍結/崩潰) + 『Food Jutsu』(咒術迴戰 Delirious 配樂的美食快剪) + 多語氣 line-read 挑戰 (同一句話用開心/失望等多種語氣念)。**意義: witty-comebacks / workplace / dark-humor / food-jokes priority MEDIUM — 強視覺/音訊在地化候選**「Du bist gut genug = 週一早上最需要聽的一句謊話 / PRESSURE! = 看到 deadline 配的 BGM / 我的人生需要一首世足國歌 / Food Jutsu 美食快剪 = 我打開冰箱的氣勢」1 item per topic。**『Du bist gut genug』+『PRESSURE! 世足國歌』列本期主要音訊在地化候選 (PRESSURE! 與 worldcup-quotes 強相關, 可 cross-link)。**
+
+- **6/22 七夕 T-58 早期觀察 (8/19/2026, ACCUPASS 撩人語錄 / shinygoods 14 個情人節 / Trip.com / mababy 土味情話 / flowerdj 多源 2026)**: **2026 七夕 = 8/19 (農曆七月七)。** 距今約 8 週, 與台灣父親節 8/8 + 中元同月, 形成 8 月『情話 + 親情 + 民俗』主題群。撩人語錄/土味情話素材豐富 (「我游泳游到一座島」「什麼島?」「是我為你神魂顛倒」式雙關)。**意義: sweet-quotes / cheesy-pickups / cdrama-period-quotes (古裝甜寵) priority LOW (T-58 過早) — 列 Q3 8 月觀察, 7 月底 (T-3週) 再啟動 drafting。** 暫 organic carry, 不提早建檔。cross-link wedding (8 月婚禮旺季)。
+
+- **6/22 Q3 7 月演唱會旺季確立『五月天大巨蛋 7 場完售』(商周/三立星聞/Yahoo/TicketTW/GirlStyle/applealmond 多源 2026)**: **五月天 7/3、7/4、7/5、7/8、7/10、7/11、7/12 台北大巨蛋一連 7 場、已全數完售**; 拓元售票, 票價 NT$1525-5525, 每人每場限 4 張; 主題「盤古開天闢地、搖滾創新世紀」侏羅紀沉浸式 13 米巨型恐龍互動。EXO 高雄巨蛋同期。**意義: concert-ticket-quotes priority observe→MEDIUM (7 月初窗口逼近 + 完售確立搶票/黃牛/釋票討論) — 7 月初再評估正式獨立建檔。** register「7 場全完售 = 我一張都沒搶到 / 邪修搶票開五台手機還是槓龜 / 釋票通知比鬧鐘還早起 / 黃牛價 = 我一個月房租 / 限購 4 張我連 1 張都沒有」候選評估。cross-link slang (邪修搶票)。
+
+- **6/22 暑假旅遊 signal + 梅雨季尾 (Holafly/輕旅行/KKday/可樂旅遊/易遊網/雄獅 多源 2026)**: 7 月台灣暑假主峰將至 (日本暑假 7 月底起、房價漲, 7 月初出發省住宿)。6 月梅雨季 + 高溫不利戶外。避暑勝地 (芬蘭 15-25℃/馬爾地夫/北歐) + 親子跟團熱。**意義: travel-quotes priority LOW-MEDIUM (暑假 signal 持續) — carry「暑假出國機票越早訂越省 / 別人放暑假我放無薪假 / 避暑勝地是別人的我的避暑勝地是冷氣房 (cross-link 夏月電價)」1-2 items organic, 7 月暑假主峰再加碼。**
+
+- **6/22 流行語 carry『留友看』+『朋朋』+『接住』+『初級大人 vs 高級大人』+『班味/精神離職/活人感』(PopDaily 5 梗 / DailyView / Yahoo 8 條 / QuickSeek / UpToGo 多源 2026)**: carry『留友看 (留著給朋友看, Threads 原生超濃縮互動語)』『朋朋 (朋友疊字, 356,929 筆居冠)』『接住 (284,309 筆, 情緒低落時的陪伴支持)』+『初級大人 vs 高級大人』『班味/精神離職/做完你的做你的/活人感』職場迷因群。台灣 Threads (脆) 用戶佔全球 21.08% 居冠, 為流行語/迷因最大集散地。**意義: slang-quotes / witty-comebacks / adulting-quotes / workplace-quotes / self-love-quotes priority MEDIUM-HIGH — fun-text 在地化主候選**「留友看 = 這則太離譜全世界都該知道 / 朋朋陪我看世足早餐球 / 接住還在選志願的自己 / 初級大人回家連洗衣機都不會開 / 班味洗三次澡都洗不掉 / 精神離職人在工位心在峇里島」register family 2-3 items 6/22-6/30 編寫。**『初級大人』+『班味/精神離職』維持本期主要在地化候選。** cross-link graduation + exam + workplace。
+
+- **6/22 政治/敏感 SKIP 區**: 國會預算戰 / 中國軍演 / 民眾黨主席 / 海巡衝突 / 校園霸凌 / 超哥爭議事件 carry SKIP 不變 (『超派』純語氣用法可用)。哭哭馬/喪萌須注意中國語境在地化 (見上)。
+
+### Existing Topic Updates
+
+- **worldcup-quotes (6/22 小組賽第二輪 day-11 收官倒數 + 淘汰賽 6/28 倒數, priority HIGH — 維持建議正式獨立, 淘汰賽前最後黃金建檔窗口)**: register「早餐球邊吃蛋餅 / 小組賽都收官我待辦還沒出線 / 我的人生卡在小組賽 / 32 強淘汰賽我的待辦也該淘汰幾項 / 對台灣最佛的一屆 / 偽球迷速成只會喊越位 / 摸魚睇波被抓包 / 90 分鐘睡眠周期」zh-tw + en (breakfast football / fake-fan starter pack / most merciful World Cup / still stuck in the group stage of my life / Round of 32 — my to-do list could use some elimination)。**衛冕軍為阿根廷 (梅西)。主題曲《Dai Dai》+ Shakira/Burna Boy。若獨立檔未上線, 淘汰賽 6/28 前務必補建; 同步 carry workplace/insomnia/cold-jokes/witty 2-3 items。**
+
+- **exam-quotes (6/22 志願選填窗口最後 72 小時 T-3, 6/25 截止, priority HIGH 收尾衝刺)**: register「序位人海座標 / 志願全是夢幻區 / 實際區是別人的志願 / 保守區才是我的實力 / 差 3 名差一所學校 / 落點分析交給 Excel / 截止前一晚還在改 (6/25 倒數) / 邪修填志願 / 填完志願才是焦慮的開始 (等 7/7 放榜)」2-3 items 6/22-6/24 上線吃截止前流量。**逾 6/25 轉 7/7 放榜休眠, 7/7 再 carry 1 波。** cross-link healing「接住還在選志願的自己」+ graduation。
+
+- **summer-electric-quotes / renting-quotes / adulting-quotes (6/22 夏月電價 day-22 + 6/20 高溫特報破紀錄熱穹頂 priority MEDIUM-HIGH→HIGH)**: carry「熱穹頂下不敢開冷氣 / 22 度的快樂一個月 500 元 / 每低 1 度多 8% 的罪惡感 / 橙色燈號的命黃色燈號的薪水 / 外出 30 分鐘該不該關 / AI 都在吹冷氣就我在忍 / 節電獎勵 0.6 元」register family 2-3 items 6/22-6/30 編寫。cross-link insomnia (熱到睡不著) 1 item + food-jokes。
+
+- **workplace-quotes / self-love-quotes / adulting-quotes / healing-quotes (6/22 NEW『哭哭馬/馬倒成功』喪萌 priority MEDIUM — 次要候選, ⚠️ 須在地化勿照搬中國語境)**: carry「表面笑嘻嘻內心哭唧唧 = 我的工作狀態 / 喪萌 = 累但還要可愛 / 馬倒成功 = 反正都馬要倒不如成功地倒」1-2 items 6/22-6/30 編寫。**哭哭馬源自中國義烏, 撰稿須完全在地化情緒/勿照搬用語, 困難則僅取『表面笑嘻嘻內心哭唧唧』通用情緒不點名。** cross-link 班味/精神離職/初級大人 成年人厭世群。
+
+- **adulting-quotes / workplace-quotes / slang-quotes / self-love-quotes (6/22『初級大人 vs 高級大人』+『班味/精神離職/活人感』+『留友看/朋朋/接住』carry priority MEDIUM-HIGH)**: carry「初級大人 (回家秒變 3 歲) vs 高級大人 (照顧者) / 班味 (洗三次澡洗不掉) / 精神離職 (人在心不在) / 活人感 (週一的我沒有了) / 留友看 (太離譜全世界該知道) / 朋朋 / 接住」。register family 2-3 items 6/22-6/30 編寫。**『初級大人』+『班味/精神離職』維持主要在地化候選。** cross-link graduation + exam + workplace。
+
+- **witty-comebacks / workplace-quotes / dark-humor / food-jokes (6/22 NEW 全球 TikTok『Du bist gut genug』+『Nyck Caution PRESSURE! 世足國歌』+『Saxophone Gets Louder』+『Food Jutsu』carry priority MEDIUM)**: carry「Du bist gut genug = 週一早上最需要聽的一句謊話 / PRESSURE! = 看到 deadline 配的 BGM / 我的人生需要一首世足國歌 / 薩克斯風越來越大聲 = 看到帳單的 BGM / Food Jutsu 美食快剪 = 我打開冰箱的氣勢」1 item per topic。**『Du bist gut genug』+『PRESSURE! 世足國歌』列本期主要音訊在地化候選, PRESSURE! 可 cross-link worldcup-quotes。**
+
+- **concert-ticket-quotes (6/22 Q3『五月天大巨蛋 7 場完售』priority observe→MEDIUM)**: register「7 場全完售我一張都沒搶到 / 邪修搶票開五台手機還是槓龜 / 釋票通知比鬧鐘還早起 / 黃牛價 = 我一個月房租 / 限購 4 張我連 1 張都沒有」候選評估。**7 月初 (五月天 7/3 首場前) 再評估正式獨立建檔。** cross-link slang (邪修搶票)。
+
+- **travel-quotes (6/22 暑假 signal + 梅雨季尾 priority LOW-MEDIUM)**: carry「暑假出國機票越早訂越省 / 別人放暑假我放無薪假 / 避暑勝地是別人的我的避暑勝地是冷氣房」1-2 items organic, 7 月暑假主峰再加碼。cross-link 夏月電價。
+
+- **sweet-quotes / cheesy-pickups / cdrama-period-quotes (6/22 七夕 8/19 T-58 早期觀察 priority LOW)**: 距今約 8 週過早, 列 Q3 8 月觀察, 7 月底 (T-3 週) 再啟動 drafting。土味情話素材豐富 (神魂顛倒式雙關)。暫 organic carry 不提早建檔。cross-link wedding。
+
+- **graduation-quotes (6/22 畢業季尾聲 priority MEDIUM 收尾)**: 主峰已過, 尾段 carry「失業倒數 / 從學生變社畜 / 履歷還沒回音 / 助學貸款計息 / 友誼改線上 / 致青春後會有期」1-2 items 6/22-6/25 收完即轉休眠。cross-link adulting (初級大人) + exam + healing。
+
+- **drama-quotes / drama-binge-quotes / korean-drama-quotes / cdrama-period-quotes (6/22 6 月新檔 carry → Q3 暑假主峰)**: carry「莫離腹黑定王古裝權謀 / 醫到孤島離島醫療甜寵 / 雨霖鈴 / 逐玉 / House of the Dragon S3 / 一集接一集作業 0」1-2 items 6 月編寫 priority 中。Q3 7-8 月暑假追劇主峰再評估獨立。
+
+- **healing-quotes (志願選填 + 畢業季尾 + 高溫厭世 三窗口 priority MEDIUM-HIGH)**: carry「接住還在選志願的自己 (6/25 截止 T-3) / 畢業一段過完就過了 / 6 月連環大事 (志願+畢業+電費+高溫+世足早餐球+初級大人+哭哭馬喪萌) = 接住自己 (呼應流行語『接住』)」2-3 items 6/22-6/25 編寫。
+
+- **holiday-jokes / food-jokes (端午 CLOSED 6/19 已過)**: **端午 register 深度休眠至 2027/6, 已關閉。** food-jokes 轉「連假胖三公斤 / 冰箱開門一邊涼一邊厭世 / 高溫沒食慾只想吃冰 (cross-link 高溫/電費)」organic; holiday-jokes 下一窗口為 8 月 (父親節 8/8 + 七夕 8/19 + 中元) 7 月底評估。
+
+- **fathers-day-quotes (US 父親節 6/21 已過 CLOSED / 台灣 8/8 T-47)**: US 窗口已關閉。台灣 8/8 距今約 7 週, zh-tw 7 月中啟動 drafting (與七夕 8/19 + 中元同月)。cross-link adulting (高級大人 = 爸)。
+
+- **mom-quotes / zodiac-quotes / wedding-quotes / dog-quotes / cat-quotes / couple-jokes / cold-jokes / pet-memorial-quotes / insomnia-quotes / service-quotes / fitness-quotes / motivational-quotes / breakup-quotes / diet-quotes / stock-investor-quotes / human-design-quotes**: organic 觀察期, 無新 6/22 強信號。cold-jokes 可 opportunistic 吸收世足諧音 (越位/罰球/紅牌/出線) 1 item low; insomnia-quotes 可 opportunistic 吸收世足早餐球/90 分鐘睡眠周期 + 高溫熱到睡不著 1 item low; wedding carry「8 月婚禮旺季 (七夕同月)」organic; stock-investor Q4 年底加碼觀察。
+
+### Updated Action Priority
+
+1. **[HIGH — 6/22 世界盃小組賽收官倒數 + 淘汰賽 6/28 倒數, 淘汰賽前最後黃金建檔窗口]** worldcup-quotes → **維持建議正式獨立建檔 (zh-tw + en)**「早餐球 / 半友善世界盃 / 偽球迷速成 / 摸魚睇波 / 小組賽都收官我待辦還沒出線 / 32 強淘汰賽我的待辦也該淘汰幾項」; en「breakfast football / fake-fan starter pack / most merciful World Cup / still stuck in the group stage of my life / Round of 32 — my to-do list could use elimination」。衛冕軍阿根廷。主題曲《Dai Dai》+ Shakira/Burna Boy。**淘汰賽 6/28 前務必補建** + carry workplace/insomnia/cold-jokes/witty 2-3 items。
+2. **[HIGH — 6/22 會考志願選填窗口最後 72 小時 T-3, 6/25 截止收尾衝刺]** exam-quotes「序位人海座標 / 志願全是夢幻區 / 保守區才是我的實力 / 差 3 名差一所學校 / 落點分析交給 Excel / 截止前一晚還在改 / 邪修填志願 / 填完志願才是焦慮的開始」2-3 items 6/22-6/24 上線吃截止前流量。**逾 6/25 轉 7/7 放榜休眠。** cross-link healing + graduation。
+3. **[HIGH — 6/22 夏月電價 day-22 + 6/20 高溫特報破紀錄熱穹頂助攻]** summer-electric-quotes / renting / adulting「熱穹頂下不敢開冷氣 / 22 度快樂月噴 500 / 每低 1 度多 8% 罪惡感 / 橙色燈號的命黃色燈號的薪水 / AI 都在吹冷氣就我在忍 / 節電 0.6 元」2-3 items 6/22-6/30 編寫。cross-link insomnia (熱到睡不著) + food-jokes。
+4. **[MEDIUM-HIGH — 6/22『初級大人 vs 高級大人』+『班味/精神離職/活人感』+『留友看/朋朋/接住』在地化主候選]** adulting / workplace / slang / self-love「班味洗三次澡洗不掉 / 精神離職人在心不在 / 留友看太離譜全世界該知道 / 朋朋陪我看世足 / 初級大人回家連洗衣機都不會開」2-3 items 6/22-6/30 編寫。cross-link graduation + exam + workplace。
+5. **[MEDIUM-HIGH — 6/22 三窗口安慰]** healing-quotes「接住還在選志願的自己 (6/25 截止 T-3) + 畢業季尾 + 6 月連環厭世接力 (含世足早餐球+高溫+初級大人+哭哭馬喪萌) = 接住自己」2-3 items 6/22-6/25 編寫。
+6. **[MEDIUM — 6/22 NEW『哭哭馬/馬倒成功』喪萌, ⚠️ 須在地化勿照搬中國語境]** workplace / self-love / adulting / healing「表面笑嘻嘻內心哭唧唧 = 我的工作狀態 / 喪萌 = 累但還要可愛 / 馬倒成功」1-2 items 6/22-6/30 編寫。**哭哭馬源自中國義烏, 撰稿須完全在地化、困難則僅取通用情緒不點名。次要候選。**
+7. **[MEDIUM — 6/22 NEW 全球 TikTok『Du bist gut genug』+『PRESSURE! 世足國歌』+『Saxophone Gets Louder』+『Food Jutsu』]** witty-comebacks / workplace / dark-humor / food-jokes「Du bist gut genug = 週一最需要聽的謊話 / PRESSURE! = deadline 的 BGM / 薩克斯風越來越大聲 = 看到帳單 / Food Jutsu = 我打開冰箱的氣勢」1 item per topic。**主要音訊候選, PRESSURE! cross-link worldcup。**
+8. **[MEDIUM — 6/22 Q3『五月天大巨蛋 7 場完售』演唱會旺季]** concert-ticket-quotes「7 場全完售我一張沒搶到 / 邪修搶票開五台手機還槓龜 / 釋票通知比鬧鐘早起 / 黃牛價 = 我一個月房租」候選評估, **7 月初 (7/3 首場前) 再評估正式獨立建檔**。cross-link slang。
+9. **[MEDIUM — 6/22 畢業季尾聲收尾]** graduation-quotes「失業倒數 / 從學生變社畜 / 履歷還沒回音 / 致青春後會有期」1-2 items 6/22-6/25 收完轉休眠。cross-link adulting + exam + healing。
+10. **[LOW-MEDIUM — 6/22 暑假旅遊 signal + 梅雨季尾]** travel-quotes「暑假機票越早訂越省 / 別人放暑假我放無薪假 / 避暑勝地是冷氣房」1-2 items organic, 7 月暑假主峰加碼。cross-link 夏月電價。
+11. **[MEDIUM — 6/22 6 月追劇新檔 carry → Q3 暑假主峰]** drama-quotes / drama-binge-quotes / korean-drama-quotes / cdrama-period-quotes「莫離腹黑定王 / 醫到孤島離島醫療甜寵 / 雨霖鈴 / 逐玉 / HOTD S3 / 一集接一集」1-2 items 6 月編寫。Q3 評估獨立。
+12. **[CLOSED — 端午 6/19 已過]** holiday-jokes / food-jokes 端午 register 深度休眠至 2027/6。food-jokes 轉高溫/連假 organic; holiday-jokes 下一窗口 8 月 (父親節+七夕+中元) 7 月底評估。
+13. **[CLOSED — US 父親節 6/21 已過 / 台灣 8/8 T-47]** fathers-day-quotes US 窗口關閉; 台灣 8/8 zh-tw 7 月中啟動 drafting (與七夕+中元同月)。cross-link adulting (高級大人)。
+14. **[CLOSED — 報稅季]** 5/1-6/1 黃金窗口已關閉, register 深度休眠 carry organic, 2027/4 前再評估。
+15. **[NEW OBSERVE — Q3 七夕 8/19 + 台灣父親節 8/8 + 中元 8 月主題群]** sweet-quotes / cheesy-pickups / fathers-day / cdrama-period (古裝甜寵) 候選, 7 月底 (T-3 週) 啟動 drafting, 暫 organic。
+16. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period-quotes / drama-binge-quotes (莫離 + 雨霖鈴 + 逐玉 + 家業 古裝劇 cluster) 候選獨立評估, 暫 carry。
+17. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
+18. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議事件 全 SKIP, 不適合 fun text 定位。『超派』純語氣用法可用; 哭哭馬/喪萌須注意中國語境在地化 (見上)。
