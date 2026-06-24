@@ -1,0 +1,366 @@
+{
+  "slug": "student-quotes",
+  "category": "Lifestyle",
+  "i18n": {
+    "zh-tw": {
+      "title": "學生厭世語錄",
+      "description": "從早八、小組報告到期末週崩潰，每個還在學校裡掙扎的學生都懂的共感金句，在校生專屬的廢話文學"
+    },
+    "en": {
+      "title": "Student Life Quotes",
+      "description": "From 8 a.m. lectures to group projects and finals-week meltdowns — relatable lines every student stuck on campus will feel in their soul"
+    }
+  },
+  "items": [
+    {
+      "id": "stq-001",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "Dcard 升大學板 早八共感格式改寫",
+      "tags": ["大學生", "早八", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "選課的時候我以為自己會早起，\n早八第三週，我已經改用老師的課堂直播當鬧鐘了。",
+          "editorNote": "開學選到早八後發限動的標準自嘲，同病相憐的同學會秒回。",
+          "variations": [
+            "進階版：「早八不是一堂課，是一種修行。」",
+            "也能換成：「我跟早八的關係，就是它每週準時，我每週遲到。」"
+          ]
+        },
+        "en": {
+          "content": "When I picked my classes I genuinely believed I'd become a morning person.\nWeek three of the 8 a.m. lecture, I'm using the recorded livestream as my alarm clock.",
+          "editorNote": "The go-to caption for anyone who scheduled an early class and instantly regretted it.",
+          "variations": [
+            "Harder mode: \"An 8 a.m. class isn't a course, it's a spiritual trial.\"",
+            "Swap in: \"Me and my morning lecture: it shows up on time, I don't.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-002",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%A4%A7%E5%AD%B8%E7%94%9F",
+      "sourceNote": "Dcard 大學生 小組作業常見抱怨改寫",
+      "tags": ["大學生", "小組作業", "厭世", "報告"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小組報告的真相：\n一個人做事，三個人掛名，還有一個人在問什麼時候要交。",
+          "editorNote": "被當組長獨自爆肝後，丟到班級群組會引發大量共鳴。",
+          "variations": [
+            "也能換成：「分工表上五個人，凌晨三點的會議室只有我自己。」",
+            "進階版：「組員已讀不回的速度，比我做報告的速度還快。」"
+          ]
+        },
+        "en": {
+          "content": "The truth about group projects:\none person does the work, three put their names on it, and one keeps asking when it's due.",
+          "editorNote": "Post-meltdown caption for the group leader who pulled the whole thing alone.",
+          "variations": [
+            "Swap in: \"Five names on the cover page, one person in the 3 a.m. study room.\"",
+            "Harder mode: \"My teammates leave my messages on read faster than I finish the slides.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-003",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.peopo.org/news/802253",
+      "sourceNote": "大學生熬夜趕報告共感改寫",
+      "tags": ["熬夜", "報告", "拖延", "大學生"],
+      "i18n": {
+        "zh-tw": {
+          "content": "報告的繳交期限是凌晨十二點，\n我的靈感則是在十一點五十八分準時報到。",
+          "editorNote": "趕 deadline 趕到天亮的人都懂，適合搭配一張凌亂書桌的照片。",
+          "variations": [
+            "也能換成：「不是我愛拖，是壓力到了才肯給我靈感。」",
+            "進階版：「靈感跟公車一樣，要等到最後一刻才會一起來。」"
+          ]
+        },
+        "en": {
+          "content": "The assignment is due at midnight,\nand my inspiration clocks in promptly at 11:58 p.m.",
+          "editorNote": "For everyone who's pulled an all-nighter against a deadline — pair it with a photo of a chaotic desk.",
+          "variations": [
+            "Swap in: \"I'm not lazy, my brain just refuses to work until the pressure hits.\"",
+            "Harder mode: \"Inspiration is like the bus — it only shows up at the last possible second.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-004",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/topics/%E7%BF%B9%E8%AA%B2",
+      "sourceNote": "Dcard 翹課話題 改寫",
+      "tags": ["翹課", "點名", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天我沒翹課，\n不是因為我突然變認真，是因為今天剛好要點名。",
+          "editorNote": "出席率全靠點名表現的同學的真心話，丟群組大家會心一笑。",
+          "variations": [
+            "也能換成：「我跟這堂課的緣分，全看老師今天點不點名。」",
+            "進階版：「老師說『今天不點名』那一刻，整間教室瞬間少一半人。」"
+          ]
+        },
+        "en": {
+          "content": "I didn't skip class today —\nnot because I suddenly got serious, but because today happens to be attendance day.",
+          "editorNote": "The honest confession of anyone whose attendance rate is held up entirely by roll call.",
+          "variations": [
+            "Swap in: \"My bond with this class depends entirely on whether the professor takes attendance.\"",
+            "Harder mode: \"The second the prof says 'no roll call today,' half the room vanishes.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-005",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%8E%AD%E4%B8%96",
+      "sourceNote": "期末週崩潰 register 改寫",
+      "tags": ["期末", "拖延", "崩潰", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "期末週的我，\n成功把「等等再讀」這四個字，活成了一種人生哲學。",
+          "editorNote": "期末週發限動配書還沒翻開的照片，朋友一看就懂。",
+          "variations": [
+            "也能換成：「進度條卡在百分之零，但我的焦慮已經滿格。」",
+            "進階版：「考試範圍我背得很熟，背的是『範圍』兩個字。」"
+          ]
+        },
+        "en": {
+          "content": "During finals week,\nI've successfully turned \"I'll study later\" into an entire philosophy of life.",
+          "editorNote": "Post this during finals next to a photo of an unopened textbook — friends will get it instantly.",
+          "variations": [
+            "Swap in: \"Progress bar stuck at zero, anxiety bar completely full.\"",
+            "Harder mode: \"I know the exam scope by heart — just the word 'scope,' though.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-006",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://girlstyle.com/tw/article/263448",
+      "sourceNote": "不及格自嘲 廢文金句改寫",
+      "tags": ["不及格", "自嘲", "成績", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "六十分萬歲，五十九分對不起父母，\n但說實話，這次我連對不起的資格都沒準備好。",
+          "editorNote": "成績單發下來後的自我安慰，越廢越有共鳴。",
+          "variations": [
+            "也能換成：「低空飛過也是飛過，重點是飛過。」",
+            "進階版：「分數不重要，重要的是我跟它一樣，沒什麼內容。」"
+          ]
+        },
+        "en": {
+          "content": "Sixty is a victory, fifty-nine is an apology to my parents —\nbut honestly, this time I didn't even prepare enough to deserve the apology.",
+          "editorNote": "Self-soothing caption for the day grades drop — the more deadpan, the more relatable.",
+          "variations": [
+            "Swap in: \"Barely passing is still passing. Focus on the 'passing' part.\"",
+            "Harder mode: \"The grade doesn't matter — what matters is that it and I both have no substance.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-007",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%A4%A7%E5%AD%B8%E7%94%9F",
+      "sourceNote": "通識課選課標準 改寫",
+      "tags": ["大學生", "通識", "選課", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我選通識課的標準只有三個：\n不點名、能涼、最好還能加分。",
+          "editorNote": "選課週的真心話，丟到系上群組會被瘋狂認同。",
+          "variations": [
+            "也能換成：「營養學分不是學分，是大學生活的維生素。」",
+            "進階版：「課表排得鬆不鬆，決定我這學期快不快樂。」"
+          ]
+        },
+        "en": {
+          "content": "I have exactly three criteria for picking an elective:\nno roll call, easy grading, and ideally a curve.",
+          "editorNote": "The course-registration confession — drop it in the department group chat for instant agreement.",
+          "variations": [
+            "Swap in: \"An easy-A class isn't credit, it's a vitamin for college life.\"",
+            "Harder mode: \"How loose my schedule is decides how happy I'll be this semester.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-008",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%A4%A7%E5%AD%B8%E7%94%9F",
+      "sourceNote": "學貸打工 對比厭世改寫",
+      "tags": ["打工", "學貸", "大學生", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人的大學是社團、戀愛、出國交換；\n我的大學是排班、報告、還有學貸的利息。",
+          "editorNote": "半工半讀的同學的真實寫照，配一張打工制服的照片更有畫面。",
+          "variations": [
+            "也能換成：「我也想說走就走，但我先走去打工。」",
+            "進階版：「青春無價，但我的青春正在按時薪計算。」"
+          ]
+        },
+        "en": {
+          "content": "Other people's college years are clubs, dating, and studying abroad;\nmine are work shifts, assignments, and the interest on my student loan.",
+          "editorNote": "A real portrait of the working student — even better next to a photo in a part-time uniform.",
+          "variations": [
+            "Swap in: \"I'd love a spontaneous trip too — right after my shift.\"",
+            "Harder mode: \"Youth is priceless, but mine is currently billed by the hour.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-009",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "重考生厭世 register 改寫",
+      "tags": ["重考", "厭世", "親戚", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "重考這一年我最大的成長，\n是學會對親戚那句「考得怎麼樣」微笑帶過。",
+          "editorNote": "重考生過年最有感，適合年節或放榜前後發文。",
+          "variations": [
+            "也能換成：「我不是失敗，我只是給夢想多買了一年的時間。」",
+            "進階版：「同學都升大二了，我還在跟去年的自己同班。」"
+          ]
+        },
+        "en": {
+          "content": "My biggest growth during this gap year of retaking exams\nis learning to just smile and dodge when relatives ask, \"So how'd it go?\"",
+          "editorNote": "Hits hardest for retake students during family gatherings or around results day.",
+          "variations": [
+            "Swap in: \"I'm not a failure, I just bought my dream one more year of time.\"",
+            "Harder mode: \"My classmates are sophomores now and I'm still in the same class as last year's me.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-010",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.threads.com/@jkl.jemmy/post/DCXGX5MTKGJ",
+      "sourceNote": "廢話文學 段考版改寫",
+      "tags": ["段考", "廢文", "自嘲", "考試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試永遠不會背叛你，\n因為你根本沒準備，它連背叛你的機會都不給。",
+          "editorNote": "標準廢話文學句型，考前發文用，朋友會說「講得好像很有道理」。",
+          "variations": [
+            "也能換成：「沒讀的人不會緊張，因為連緊張的本錢都沒有。」",
+            "進階版：「不會的題目不用慌，反正會的也沒幾題。」"
+          ]
+        },
+        "en": {
+          "content": "An exam will never betray you,\nbecause you never prepared — it doesn't even get the chance to.",
+          "editorNote": "Classic nonsense-literature format for pre-exam posts. Friends will reply, \"weirdly profound.\"",
+          "variations": [
+            "Swap in: \"People who didn't study never panic — they can't afford the panic either.\"",
+            "Harder mode: \"Don't stress over the questions you can't do; you couldn't do many of the others either.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-011",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://snugfam.com/150-best-quotes-for-students-funny-enough-to-make-you-laugh-through-finals-week/",
+      "sourceNote": "圖書館佔位共感改寫",
+      "tags": ["圖書館", "期末", "大學生", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "期末週圖書館的位子，\n比演唱會的票還難搶；搶到了，也不保證我真的讀得下去。",
+          "editorNote": "期末週去圖書館排隊佔位後發文，校內同學秒懂。",
+          "variations": [
+            "也能換成：「佔到位子的成就感，已經消耗掉我一半的讀書動力。」",
+            "進階版：「我來圖書館不是為了讀書，是為了讓自己看起來有在讀書。」"
+          ]
+        },
+        "en": {
+          "content": "During finals week, a seat in the library\nis harder to grab than concert tickets — and grabbing one still doesn't mean I'll actually study.",
+          "editorNote": "Post it after lining up for a library seat during finals; every student on campus gets it.",
+          "variations": [
+            "Swap in: \"The thrill of finally getting a seat used up half my motivation to study.\"",
+            "Harder mode: \"I don't come to the library to study, I come to look like I'm studying.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-012",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://bloomnis.com/college-puns-and-jokes/",
+      "sourceNote": "咖啡因依賴 自嘲改寫",
+      "tags": ["咖啡", "熬夜", "期末", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的血型是美式咖啡型，\n一到期末週就自動升級成濃縮雙份。",
+          "editorNote": "離不開咖啡的考生最有感，搭配手搖或便利商店咖啡的照片。",
+          "variations": [
+            "也能換成：「睡眠是給沒有期末考的人的奢侈品。」",
+            "進階版：「咖啡因不是提神，是維持我這個人正常運作的最低需求。」"
+          ]
+        },
+        "en": {
+          "content": "My blood type is Americano,\nand it automatically upgrades to a double shot of espresso once finals week hits.",
+          "editorNote": "For students who can't function without coffee — pair with a convenience-store cup.",
+          "variations": [
+            "Swap in: \"Sleep is a luxury reserved for people who don't have finals.\"",
+            "Harder mode: \"Caffeine isn't a boost, it's the minimum requirement for me to function as a person.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-013",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://punstersclub.com/college-student-jokes/",
+      "sourceNote": "教授名言反差 改寫",
+      "tags": ["教授", "大學生", "自嘲", "上課"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教授說：「這個很簡單，大家應該都會。」\n翻譯：接下來三十頁，我一個字都看不懂。",
+          "editorNote": "聽課聽到放棄的瞬間發文，全班都會默默點頭。",
+          "variations": [
+            "也能換成：「『這不考』是這堂課我唯一聽懂的一句話。」",
+            "進階版：「老師說『剩下回家自己看』，那本書到現在還是新的。」"
+          ]
+        },
+        "en": {
+          "content": "Professor: \"This part is easy, everyone should get it.\"\nTranslation: for the next thirty pages, I won't understand a single word.",
+          "editorNote": "Post it the moment you give up mid-lecture — the whole class will quietly nod.",
+          "variations": [
+            "Swap in: \"'This won't be on the test' is the only sentence I understood all class.\"",
+            "Harder mode: \"The prof said 'read the rest at home' — that book is still brand new.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-014",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://girlstyle.com/tw/article/263448",
+      "sourceNote": "開學收假厭世 改寫",
+      "tags": ["開學", "收假", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "收假前一天的我，和開學第一天的我，\n根本是兩個互不相識的人。",
+          "editorNote": "連假或暑假尾聲的標準厭世文，收假症候群發作時最好用。",
+          "variations": [
+            "也能換成：「暑假作業的進度條，永遠停在開學前一晚。」",
+            "進階版：「放假的時候度日如年，開學之後一週像一天。」"
+          ]
+        },
+        "en": {
+          "content": "The me on the last day of break and the me on the first day of school\nare honestly two complete strangers.",
+          "editorNote": "The default end-of-break caption — perfect when post-vacation dread kicks in.",
+          "variations": [
+            "Swap in: \"My summer homework progress bar is permanently frozen at the night before school starts.\"",
+            "Harder mode: \"On break, a day feels like a year; after school starts, a week feels like a day.\""
+          ]
+        }
+      }
+    }
+  ]
+}
