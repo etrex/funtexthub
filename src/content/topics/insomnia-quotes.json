@@ -3384,6 +3384,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-144",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://knowyourmeme.com/memes/are-you-going-to-sleep",
+      "sourceNote": "Inspired by the 'Are you going to sleep? / Now shut up / [brain says something]' webcomic format; rewritten as a localized dialogue with a fridge-leftovers payoff",
+      "tags": ["失眠", "深夜", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "腦袋：欸，你要睡了嗎？\n我：對，要睡了，閉嘴。\n腦袋：那冰箱裡那塊蛋糕，到底是誰先放的？\n我：……現在幾點。",
+          "editorNote": "把睡前腦袋偷襲的瞬間寫成對話，特別有畫面。適合在又被自己腦袋拉回清醒的時候發限動，朋友會接「我的也是這樣」。",
+          "variations": [
+            "腦袋每次都在我快睡著時，丟一個我根本不在乎的問題。",
+            "我：要睡了。腦袋：等等，你三年前那句話對方怎麼想？"
+          ]
+        },
+        "en": {
+          "content": "Brain: Hey, are you going to sleep?\nMe: Yes, I'm sleeping now, shut up.\nBrain: So that cake in the fridge — who actually put it there first?\nMe: ...what time is it.",
+          "editorNote": "Turns the moment your brain ambushes you at bedtime into a tiny dialogue. Perfect caption when you've just been yanked back awake — expect a 'mine does this too' reply.",
+          "variations": [
+            "My brain always waits till I'm almost asleep to drop a question I don't even care about.",
+            "Me: Going to sleep. Brain: Wait, what did they think when you said that thing three years ago?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-145",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://aigift.alibaba.com/quotes/quotes-on-insomnia-funny",
+      "sourceNote": "Inspired by 'all my brilliant ideas come at 3am because the internet is closed' line; rewritten with a localized 'office is closed, so is everyone I'd tell' framing distinct from existing items",
+      "tags": ["失眠", "凌晨三點", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我這輩子最棒的點子，全在凌晨三點冒出來。\n因為那個時間，沒有人可以阻止我，\n也沒有人記得提醒我，這點子其實很爛。",
+          "editorNote": "對「深夜靈感為什麼特別多」的反諷解釋。適合在半夜突然有個自以為天才的想法時發，創作者跟接案族特別有感。",
+          "variations": [
+            "凌晨三點的點子，隔天醒來只剩一句看不懂的備忘錄。",
+            "我的靈感只在沒人能驗證它的時候出現。"
+          ]
+        },
+        "en": {
+          "content": "All my best ideas show up at 3am.\nThat's when nobody's around to stop me,\nand nobody's awake to remind me the idea is actually terrible.",
+          "editorNote": "An ironic explanation for why late-night inspiration feels so strong. Great for the moment a 'genius' thought hits at 3am — creators and freelancers will relate.",
+          "variations": [
+            "3am ideas: by morning all that's left is a note I can't decipher.",
+            "My inspiration only arrives when there's no one awake to fact-check it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-146",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.boredpanda.com/funny-sleep-memes/",
+      "sourceNote": "Inspired by 'my bed is where I suddenly remember everything I forgot to do' meme; rewritten with a localized 'inbox of unfinished tasks' framing",
+      "tags": ["失眠", "焦慮", "上班族", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的床有一個特異功能：\n只要我一躺下，它就會自動載入「我今天忘了做的所有事」。\n白天問都問不出來，晚上倒是整理得清清楚楚。",
+          "editorNote": "對「一躺下才想起一堆待辦」這件事的精準吐槽。社畜跟健忘的人都會狂點頭，傳同事群組很有共鳴。",
+          "variations": [
+            "床是我記憶力最好的地方，可惜只在不該記事的時候運作。",
+            "白天腦袋一片空白，一關燈，待辦清單自動跳出來。"
+          ]
+        },
+        "en": {
+          "content": "My bed has a special power:\nthe second I lie down, it auto-loads everything I forgot to do today.\nCouldn't recall a thing all day — but at night it has the list perfectly organized.",
+          "editorNote": "Pinpoint take on remembering all your to-dos the instant you lie down. Office workers and the forgetful alike will nod hard — relatable for the team chat.",
+          "variations": [
+            "My bed is where my memory works best — unfortunately only when I shouldn't be remembering anything.",
+            "Blank all day, then I turn off the lights and the to-do list pops right up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-147",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://aigift.alibaba.com/quotes/quotes-about-insomnia-funny",
+      "sourceNote": "Inspired by 'at 2am I'm a philosopher questioning existence' line; rewritten with a localized 'unpaid overnight philosophy course' framing distinct from the corporate-meeting items",
+      "tags": ["失眠", "凌晨三點", "自嘲", "廢話文學"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點的我不是失眠，是在上一堂哲學課。\n課程主題：我到底是誰、我為什麼活著、我剛剛是不是又把宵夜吃完了。\n學費：明天的精神。",
+          "editorNote": "把深夜的胡思亂想包裝成沒人選修的哲學課，反諷又好笑。適合在腦袋停不下來、開始問人生大哉問的時候發。",
+          "variations": [
+            "深夜的我會突然開始思考宇宙，然後想不起來自己原本要睡覺。",
+            "兩點的哲學課從不點名，但學費都從隔天的我身上扣。"
+          ]
+        },
+        "en": {
+          "content": "At 2am I'm not an insomniac — I'm taking a philosophy class.\nTopics: who am I, why do I exist, and did I just finish the entire midnight snack again.\nTuition: tomorrow's energy.",
+          "editorNote": "Repackages late-night spiraling as a philosophy course no one signed up for — ironic and funny. Perfect for when your brain won't stop and starts asking the big questions.",
+          "variations": [
+            "Late at night I suddenly ponder the universe, then forget I was supposed to be sleeping.",
+            "The 2am philosophy class never takes attendance, but tuition gets deducted from tomorrow-me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-148",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.wolfglobal.org/blog/insomnia-quotes",
+      "sourceNote": "Original gentle item — extends the healing register with a 'you don't owe the night productivity' angle not yet covered",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡不著的時候，你不欠這個夜晚任何東西。\n不用逼自己放鬆，也不用努力睡著。\n就讓眼睛閉著，讓夜慢慢過。",
+          "editorNote": "失眠的人常陷入「連放鬆都要很努力」的矛盾。這句話拆掉那份壓力。傳給最近把睡覺當成任務在拚的朋友，會讓他鬆一口氣。",
+          "variations": [
+            "你不用對這個夜晚交代什麼，閉著眼睛就夠了。",
+            "睡不著沒關係，你不必把休息也做成一份作業。"
+          ]
+        },
+        "en": {
+          "content": "When you can't sleep, you don't owe the night anything.\nYou don't have to force yourself to relax, or try hard to fall asleep.\nJust let your eyes close and let the night pass slowly.",
+          "editorNote": "Insomniacs often get stuck in the bind of 'even relaxing takes effort.' This dismantles that pressure. For the friend who's been treating sleep like a task to win — they'll exhale.",
+          "variations": [
+            "You don't have to answer to this night. Closing your eyes is enough.",
+            "It's okay not to sleep — you don't have to turn resting into homework too."
+          ]
+        }
+      }
     }
   ]
 }

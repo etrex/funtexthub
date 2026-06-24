@@ -5333,6 +5333,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-219",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://blog.innertune.com/healing-quotes/",
+      "sourceNote": "Inspired by 'healing is not linear' theme; rewritten with original Taiwanese phrasing, no attribution",
+      "tags": ["療癒", "慢慢來", "自我接納", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "復原本來就不是一條直線，\n會前進，也會退回去。\n退回去不代表白走，只是這次你比較認得路了。",
+          "editorNote": "給那種覺得「怎麼又回到原點」而灰心的人。情緒起伏不是退步，是復原的正常樣子。適合傳給最近狀態又掉下去、開始責怪自己的朋友。",
+          "variations": [
+            "好起來這件事沒有進度條，有時候慢、有時候倒退，都還是在好起來。",
+            "你不是又壞掉了，你只是還在路上，而且這條路本來就彎彎曲曲的。"
+          ]
+        },
+        "en": {
+          "content": "Healing was never a straight line.\nYou'll move forward, and you'll slip back.\nSlipping back doesn't erase the trip — it just means you know the way a little better now.",
+          "editorNote": "For the person who feels crushed by 'why am I back at square one again.' Ups and downs aren't backsliding — they're what recovery actually looks like. Send it to a friend whose mood dipped again and who's started blaming themselves for it.",
+          "variations": [
+            "Getting better has no progress bar. Sometimes it's slow, sometimes it reverses — and it's still getting better.",
+            "You're not broken again. You're still on the road, and that road was always going to be winding."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-220",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://paigerechtman.com/self-compassion-quotes/",
+      "sourceNote": "Inspired by 'give yourself the same kindness you'd give others' self-compassion theme; rewritten, no attribution",
+      "tags": ["療癒", "自我疼惜", "溫柔", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你對朋友從不會說「你不夠好」，\n那為什麼對自己這麼狠？\n把你給別人的那份體貼，留一份給自己。",
+          "editorNote": "適合傳給那種對別人超有耐心、對自己卻特別嚴苛的人。提醒對方，自己也值得那份溫柔，不是只有別人才配。卡在自我苛責的時候讀一下。",
+          "variations": [
+            "如果這句話是朋友說的，你早就抱抱他了，那也抱抱自己吧。",
+            "對自己講話之前，先想想：這句話你捨得對朋友說嗎？"
+          ]
+        },
+        "en": {
+          "content": "You'd never tell a friend 'you're not good enough.'\nSo why say it to yourself?\nSave a little of the kindness you hand out so freely.",
+          "editorNote": "For the person who's endlessly patient with everyone else but brutal toward themselves. A reminder that they deserve that gentleness too — it's not reserved for other people. Read it when you're stuck in self-criticism.",
+          "variations": [
+            "If a friend said this out loud, you'd have hugged them already. So hug yourself.",
+            "Before you talk to yourself, ask: would you ever say this to someone you love?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-221",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://mindfulnessexercises.com/self-care-quotes/",
+      "sourceNote": "Inspired by 'the rest between two breaths' self-care theme; rewritten with original imagery, no attribution",
+      "tags": ["療癒", "休息", "自我照顧", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有時候一整天裡最重要的事，\n就是兩次深呼吸之間，\n那短短一秒鐘的休息。",
+          "editorNote": "給那種覺得「沒空休息」的人。休息不一定要請假或放長假，光是好好呼吸一下就算。適合傳給行程滿到連喘氣都覺得奢侈的朋友。",
+          "variations": [
+            "你不需要一個完整的假期才能休息，現在這一口氣就可以。",
+            "把肩膀放下來，吐一口氣，這也是在照顧自己。"
+          ]
+        },
+        "en": {
+          "content": "Sometimes the most important thing all day\nis that tiny pause\nbetween one deep breath and the next.",
+          "editorNote": "For the person who insists they 'have no time to rest.' Rest doesn't require a day off or a long vacation — one good breath counts. Send it to a friend whose schedule is so packed that even exhaling feels like a luxury.",
+          "variations": [
+            "You don't need a whole vacation to rest. This one breath, right now, will do.",
+            "Drop your shoulders, let one breath out. That's self-care too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-222",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://popbee.com/wellness/10-healing-korean-drama-quotes-2026",
+      "sourceNote": "Inspired by '情緒生病就跟感冒一樣正常' healing-drama theme; rewritten, no attribution",
+      "tags": ["療癒", "自我接納", "焦慮", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "情緒感冒了，跟身體感冒一樣正常。\n沒有人會罵你「怎麼又感冒了」，\n那也別這樣罵你的心。",
+          "editorNote": "給那種因為「又低潮了」而自責的人。情緒會生病很正常，需要的是休養不是責備。適合傳給最近狀態不好、卻覺得自己很糟糕的朋友。",
+          "variations": [
+            "心情會感冒，會發燒，也會慢慢好，給它一點時間。",
+            "你不是抗壓性差，你只是現在剛好在生病，生病的人需要被照顧。"
+          ]
+        },
+        "en": {
+          "content": "Your feelings can catch a cold, same as your body.\nNobody scolds you for getting sick —\nso don't scold your heart for it either.",
+          "editorNote": "For the person who beats themselves up for 'being down again.' Emotions getting sick is normal; what they need is rest, not blame. Send it to a friend who's struggling lately but thinks that makes them a failure.",
+          "variations": [
+            "Moods can come down with something, run a fever, and slowly recover too. Give it time.",
+            "You're not weak. You're just a little sick right now, and sick people deserve care."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-223",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://uptogo.com.tw/%E5%81%A5%E5%BA%B7/%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7/%E4%B8%80%E5%80%8B%E4%BA%BA%E4%B9%9F%E5%8F%AF%E4%BB%A5%E5%BE%88%E5%A5%BD%E8%AA%9E%E9%8C%84%EF%BC%9F/",
+      "sourceNote": "Inspired by '學會與自己溫柔相處' single/self-companionship theme; rewritten, no attribution",
+      "tags": ["療癒", "自我陪伴", "溫柔", "心靈"],
+      "i18n": {
+        "zh-tw": {
+          "content": "學會一個人好好相處，\n不是因為沒人陪，\n是因為你終於成為自己最安心的那個人。",
+          "editorNote": "給那種害怕獨處的人。獨處不等於孤單，能跟自己自在共處其實是一種很穩的力量。適合傳給最近一個人生活、偶爾覺得空空的朋友。",
+          "variations": [
+            "一個人也能很好，不是逞強，是你跟自己處得來。",
+            "最該先學會喜歡你的人，是你自己。"
+          ]
+        },
+        "en": {
+          "content": "Learning to be at ease on your own\nisn't because no one's around —\nit's because you've finally become the person you feel safest with.",
+          "editorNote": "For the person who's afraid of being alone. Solitude isn't the same as loneliness; being comfortable in your own company is a quiet, steady kind of strength. Send it to a friend living solo who feels a little hollow some days.",
+          "variations": [
+            "Being okay alone isn't toughing it out — it's getting along well with yourself.",
+            "The first person who needs to learn to like you is you."
+          ]
+        }
+      }
     }
   ]
 }

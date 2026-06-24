@@ -2311,6 +2311,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-093",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://tw.news.yahoo.com/%E5%B0%88%E8%AB%96-%E5%8F%B0%E7%81%A3%E8%82%A1%E5%B8%822026%E5%B9%B4-%E4%B8%8D%E6%AD%A3%E5%B8%B8%E8%A1%8C%E7%82%BA-%E6%B7%B1%E5%BA%A6%E5%88%86%E6%9E%90-%E6%8A%95%E6%A9%9F%E7%8B%82%E7%86%B1%E5%B7%B2%E8%B6%85%E8%B6%8A%E5%9F%BA%E6%9C%AC%E9%9D%A2-035239640.html",
+      "sourceNote": "2026 台股投機狂熱超越基本面 / 投機情緒指數 register；改寫原創",
+      "tags": ["投機", "基本面", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "分析師說：現在這個盤已經完全脫離基本面了。\n我看了看自己的持股，鬆了一口氣。\n還好我從頭到尾都沒看過基本面，所以我跟這個盤一直保持同步。\n別人是後來才脫離基本面，我是天生的。",
+          "editorNote": "適合在新聞狂喊『投機過熱』、自己卻早就 all in 的盤中自嘲",
+          "variations": [
+            "市場脫離基本面的那一天，我才發現我跟市場終於有了共同點。",
+            "他們擔心估值太高，我擔心的是我連估值怎麼算都不知道。"
+          ]
+        },
+        "en": {
+          "content": "The analyst said: this market has completely detached from fundamentals.\nI looked at my holdings and breathed a sigh of relief.\nGood thing I never looked at the fundamentals to begin with, so I've stayed perfectly in sync with the market the whole time.\nOther people detached from fundamentals recently. I was born this way.",
+          "editorNote": "For the intraday self-roast when the news screams 'overheated speculation' and you went all in weeks ago",
+          "variations": [
+            "The day the market detached from fundamentals was the day I realized we finally had something in common.",
+            "They worry the valuations are too high. I worry that I don't even know how valuation is calculated."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-094",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://udn.com/news/story/12806/9573661",
+      "sourceNote": "PTT 博士生拆解郭哲榮 2953 篇發文 / 名嘴反指標 register；改寫原創",
+      "tags": ["反指標", "名嘴", "自嘲", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人說某個名嘴是反指標，他喊買就跌，他喊賣就漲。\n我聽了很興奮，決定每次都跟他反著做。\n結果這次他改喊『先觀望』，我整個人愣在原地，不知道反向是哪個方向。\n反指標最可怕的地方，是他偶爾會講對一次，剛好就是你跟他反著做的那一次。",
+          "editorNote": "送給每個把名嘴當反指標、結果還是被坑的同好",
+          "variations": [
+            "我不聽明牌，我只聽反指標，但反指標居然也有反指標的時候。",
+            "跟著名嘴買會賠，跟他反著做也會賠，因為他知道你會反著做。"
+          ]
+        },
+        "en": {
+          "content": "People say a certain TV pundit is a contrarian indicator — he says buy, it drops; he says sell, it rips.\nI got excited and decided to fade him every single time.\nThen he switched to 'let's wait and see,' and I froze, not knowing which way the opposite of that even is.\nThe scariest thing about a reverse indicator is that he gets it right once in a while — usually the exact time you faded him.",
+          "editorNote": "For everyone who treats a TV pundit as a contrarian signal and still got burned",
+          "variations": [
+            "I don't follow hot tips. I only follow contrarian indicators. Turns out even the contrarian indicator has off days.",
+            "Following the pundit loses money. Fading him loses money too, because he knows you'll fade him."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-095",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1780380026.A.D95.html",
+      "sourceNote": "2026 融資餘額暴增 / 違約交割頻傳 register；改寫原創 (避開個資、純自嘲)",
+      "tags": ["違約交割", "融資", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說最近違約交割頻傳，散戶玩太大了。\n我看完默默把下單金額改小，從『梭哈』改成『小梭』。\n我不是變謹慎了，我是發現自己的本金，連違約都不夠資格違約。\n原來想被市場教訓得轟轟烈烈，也是要有門檻的。",
+          "editorNote": "適合在新聞報違約交割、自己看著小小的本金苦笑時發",
+          "variations": [
+            "別人違約交割上新聞，我違約交割連帳戶都懶得通知我。",
+            "我的本金太少，少到連爆倉都顯得很低調。"
+          ]
+        },
+        "en": {
+          "content": "The news says default settlements are spiking — retail traders are betting way too big.\nI quietly shrank my order size, downgrading from 'all in' to 'a modest in.'\nIt's not that I got cautious. I just realized my principal isn't even big enough to qualify for a default.\nTurns out getting spectacularly schooled by the market has a minimum buy-in too.",
+          "editorNote": "For the bitter laugh when the news reports settlement defaults and you look at your tiny account balance",
+          "variations": [
+            "Other people's defaults make the headlines. My default isn't worth a notification from my own broker.",
+            "My principal is so small that even blowing up the account feels understated."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-096",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://financhill.com/blog/investing/best-stock-market-jokes",
+      "sourceNote": "「make a million: invest two million」/ 「trade to fund my therapy」register；改寫原創",
+      "tags": ["本金", "自嘲", "厭世", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我：在股市賺到一百萬的秘訣是什麼？\n我說很簡單，先準備兩百萬。\n他以為我在開玩笑，但我真的就是這樣，先丟兩百萬進去，現在剩一百萬。\n你看，我說到做到，我真的『賺到』一百萬——的存款餘額。",
+          "editorNote": "送給每個賠到一半、還能笑著算數學的同好",
+          "variations": [
+            "在股市要變成小富翁，最快的方法就是先當大富翁再進場。",
+            "我沒有賠錢，我只是把兩百萬精簡成更精緻的一百萬。"
+          ]
+        },
+        "en": {
+          "content": "A friend asked me the secret to making a million in the stock market.\nI said it's easy: start with two million.\nHe thought I was joking, but that's literally my strategy — throw in two million, and now I have one million left.\nSee? I'm a man of my word. I really did 'make' one million — in remaining balance.",
+          "editorNote": "For everyone down 50 percent who can still laugh while doing the math",
+          "variations": [
+            "The fastest way to become a small fortune in the market is to walk in with a large fortune.",
+            "I didn't lose money. I just streamlined two million into a more refined one million."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-097",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://relatejokes.com/funny-trading-jokes/",
+      "sourceNote": "「buy high, sell low, cry often」交易三部曲 register；改寫原創",
+      "tags": ["買高賣低", "自嘲", "厭世", "看盤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "都說交易很簡單：買低、賣高，賺價差。\n我也學會了，只是我的版本順序有點不一樣：買高、賣低，然後哭。\n前兩步我做得行雲流水，毫不猶豫；第三步更是熟練到不用看教學。\n別人三步驟賺錢，我三步驟修身養性。",
+          "editorNote": "適合在收盤後把當天的失誤從頭數一遍時，配著一口熱湯服用",
+          "variations": [
+            "交易其實只有三個動作：買、賣、後悔，而我後悔的部分特別有天分。",
+            "買低賣高是理想，買高賣低是日常，哭是售後服務。"
+          ]
+        },
+        "en": {
+          "content": "They say trading is simple: buy low, sell high, pocket the difference.\nI learned it too, my version's order is just a little different: buy high, sell low, then cry.\nThe first two steps I execute flawlessly, no hesitation. The third I've mastered so well I don't even need a tutorial.\nOther people use three steps to make money. I use three steps for personal growth.",
+          "editorNote": "For tallying up the day's mistakes after the close, best taken with a bowl of hot soup",
+          "variations": [
+            "Trading is really just three moves: buy, sell, regret. I happen to be exceptionally gifted at the regret part.",
+            "Buy low sell high is the dream. Buy high sell low is the routine. Crying is the after-sales service."
+          ]
+        }
+      }
     }
   ]
 }

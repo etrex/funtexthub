@@ -3668,6 +3668,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-150",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://house.udn.com/house/story/123591/9395784",
+      "sourceNote": "2026 租補變相助長漲租 房東加價比補助多 viral discussion; rewritten original",
+      "tags": ["補助", "漲租", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "政府補助我五千，\n房東漲我六千，\n所以我申請補助的結果，\n是每個月多繳一千還要感謝政府德政。",
+          "editorNote": "適合每次看到「租金補貼」新聞時轉發，提醒朋友補助下來前先問房東會不會跟著漲",
+          "variations": [
+            "補助是給房客的，加價是收房東的，中間那個被夾住的人，就是我。",
+            "我以為補助是政府幫我省錢，後來發現是幫房東找到漲租的理由。"
+          ]
+        },
+        "en": {
+          "content": "The government gives me five thousand,\nmy landlord raises rent by six thousand,\nso the result of applying for the subsidy\nis paying a thousand more each month — and thanking the government for its kindness.",
+          "editorNote": "Good to share whenever rent-subsidy news drops — remind friends to ask the landlord whether rent will rise before they apply",
+          "variations": [
+            "The subsidy goes to the tenant, the price hike comes from the landlord, and the person squeezed in between is me.",
+            "I thought the subsidy was the government helping me save. Turns out it just handed my landlord an excuse to raise rent."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-151",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://vocus.cc/article/68372675fd897800012d2edb",
+      "sourceNote": "2026 押金上限兩個月 提前解約違約金一個月 register; rewritten original",
+      "tags": ["押金", "合約", "房東", "成年"],
+      "i18n": {
+        "zh-tw": {
+          "content": "法律說押金最多收兩個月，\n房東說：「那我多收一個月當『誠意金』。」\n我學到的第一個社會法則是：\n法律是上限，房東是創意。",
+          "editorNote": "傳給準備簽約、被房東要求多付名目的朋友，提醒他押金兩個月是法定上限，多的可以拒絕",
+          "variations": [
+            "押金兩個月是規定，房東卻能變出『誠意金』『保證金』『安心金』——他不是房東，是創業家。",
+            "我背了所有租屋法條，房東背了所有規避方法，我們各自精通各自的領域。"
+          ]
+        },
+        "en": {
+          "content": "The law says the deposit can't exceed two months' rent.\nMy landlord says: 'Then I'll add one more month as a \"good faith\" fee.'\nThe first rule of adulthood I learned:\nThe law is a ceiling, the landlord is a creative genius.",
+          "editorNote": "Send to a friend about to sign a lease and being asked for extra fees — remind them two months is the legal cap and they can refuse the rest",
+          "variations": [
+            "Two months' deposit is the rule, yet my landlord conjures up a 'good faith fee,' a 'guarantee fee,' a 'peace-of-mind fee' — he's not a landlord, he's a startup founder.",
+            "I memorized every tenant law. My landlord memorized every loophole. We're each masters of our own field."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-152",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://house.ettoday.net/news/3174259",
+      "sourceNote": "2026 租屋避雷 別信捷運5分鐘 看房技巧 register; rewritten original",
+      "tags": ["看房", "捷運", "591", "找房"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說「走路到捷運只要五分鐘」，\n我親自走了一次，\n用掉十五分鐘、兩個紅綠燈、一座天橋、跟我對人類的最後一點信任。",
+          "editorNote": "適合正在 591 看房、被「近捷運」騙過的朋友轉發，提醒他看房一定要自己用 Google Maps 走一次",
+          "variations": [
+            "「捷運五分鐘」的單位是房東的步速，房東的步速是光速。",
+            "看房三原則：白天看一次、晚上看一次、下雨看一次——少看一次，你就會多哭一年。"
+          ]
+        },
+        "en": {
+          "content": "The landlord said 'just a five-minute walk to the subway.'\nI walked it myself —\nit took fifteen minutes, two crosswalks, one pedestrian bridge, and the last of my faith in humanity.",
+          "editorNote": "Send to a friend scrolling listings who's been burned by 'near the subway' — remind them to actually walk it on Google Maps first",
+          "variations": [
+            "'Five minutes to the subway' is measured in the landlord's walking speed, and the landlord moves at the speed of light.",
+            "Three rules for viewing a place: see it by day, see it by night, see it in the rain. Skip one viewing, cry for one extra year."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-153",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "2026 Lois Griffin meme 繳完房租買不起東西; rewritten original",
+      "tags": ["房租", "薪水", "厭世", "存款"],
+      "i18n": {
+        "zh-tw": {
+          "content": "恭喜你有地方住了！\n壞消息是：你現在什麼都買不起。\n好消息是：你也沒空間放東西。",
+          "editorNote": "適合每月一號繳完房租、看著空冰箱發呆的朋友轉發，苦中作樂",
+          "variations": [
+            "繳完房租我終於有家了，代價是我這輩子只能在這個家裡吃白飯配回憶。",
+            "有屋頂遮風避雨的幸福，是用沒辦法買菜的代價換來的。"
+          ]
+        },
+        "en": {
+          "content": "Congratulations, you have a place to live!\nThe bad news: you can't afford anything else now.\nThe good news: you don't have room for anything anyway.",
+          "editorNote": "Perfect for the first of the month, staring at an empty fridge after paying rent — laugh to keep from crying",
+          "variations": [
+            "I finally have a home after paying rent — the price is eating plain rice and memories in it for the rest of my life.",
+            "The joy of a roof over your head, bought at the cost of never affording groceries again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-154",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://house.udn.com/house/story/123589/8736402",
+      "sourceNote": "591 物件爛貨比例高 房仲交情 register; rewritten original",
+      "tags": ["看房", "房仲", "591", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "591上面好物件永遠在第三頁之後，\n第一頁全是房仲不想留的，\n跟交友軟體一樣——\n排在最前面的，通常都有原因。",
+          "editorNote": "傳給每天滑 591 滑到懷疑人生的朋友，提醒他好房子要嘛靠交情、要嘛靠運氣",
+          "variations": [
+            "591 跟交友軟體的共通點：照片都是巔峰期拍的，本人到現場才知道真相。",
+            "好房源不會出現在搜尋第一頁，就像好對象不會在你最閒的時候出現。"
+          ]
+        },
+        "en": {
+          "content": "The good listings are always buried past page three.\nThe first page is all the stuff agents couldn't unload —\njust like dating apps:\nthe ones at the very top are usually there for a reason.",
+          "editorNote": "Send to a friend doom-scrolling rental sites — remind them the good places come down to connections or pure luck",
+          "variations": [
+            "Rental sites and dating apps have one thing in common: the photos were taken at peak condition, and you only learn the truth in person.",
+            "The good listings never show up on the first page of search — just like the right person never shows up when you're free."
+          ]
+        }
+      }
     }
   ]
 }

@@ -4408,6 +4408,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-177",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the canonical 「別家都可以，只有你們不行」 cross-store comparison trope (Dcard 心情/奧客 forum) into a two-line punchline",
+      "tags": ["服務業", "奧客", "金句", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以，只有你們不行。」\n那您真的很適合別家，\n我這邊幫您把門開好了。",
+          "editorNote": "傳給今天又被「別家都可以」綁架的服務業朋友。重點不是別家到底可不可以，而是對方從來沒打算去別家。",
+          "variations": [
+            "「別家都可以」是奧客的萬用咒語，唸完之後他還是站在你家門口不走。",
+            "如果別家真的都可以，那他現在應該在別家，而不是在你面前。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other store allows it. Only you don't.\"\nThen those other stores sound perfect for you —\nI've already got the door open.",
+          "editorNote": "For the worker held hostage again by \"every other store allows it.\" The point isn't whether the other stores actually allow it — it's that the customer was never going to go there.",
+          "variations": [
+            "\"Every other store allows it\" is a difficult customer's magic spell — and after they cast it, they're still standing right in front of you.",
+            "If every other store really allowed it, they'd be at one of those stores right now, not glaring at you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-178",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.nownews.com/news/5039152",
+      "sourceNote": "Inspired by NOWnews 客服怒列「3大奧客罪狀」 — the 「我認識你們老闆」 name-dropping intimidation trope, rewritten as a deadpan call-center exchange",
+      "tags": ["服務業", "客服", "電話", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我認識你們老闆喔。」\n「太好了，那這件事您直接跟他講，\n比我這邊快多了。」",
+          "editorNote": "傳給接電話接到「我認識你們老闆」的客服同事。真的認識的人不會用講的，會直接打給老闆。",
+          "variations": [
+            "「我認識你們老闆」翻譯成白話就是：我其實誰都不認識，但我希望你怕。",
+            "客人說認識老闆的時候，老闆通常正在會議室，連這通電話的存在都不知道。"
+          ]
+        },
+        "en": {
+          "content": "\"I know your boss, you know.\"\n\"Great — then take this straight to him.\nHonestly, it'll be way faster than going through me.\"",
+          "editorNote": "For the call-center coworker who just heard \"I know your boss.\" People who actually know the boss don't announce it — they just call the boss.",
+          "variations": [
+            "\"I know your boss\" translates to: I actually know no one, but I'm hoping you'll be scared.",
+            "When a customer claims to know the boss, the boss is usually in a meeting, blissfully unaware this call exists."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-179",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://dq.yam.com/post/10354",
+      "sourceNote": "Inspired by DQ 地球圖輯隊 explainer on 情緒勞動 (emotional labor / Hochschild); rewritten as a first-person clock-out monologue, not a definition",
+      "tags": ["服務業", "情緒勞動", "心聲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班打卡那一聲「嗶」，\n不只是上班結束，\n是我把今天借出去的那張笑臉，\n終於還給自己。",
+          "editorNote": "寫給每天用微笑換薪水的人。情緒勞動最累的不是笑，是笑完之後要花力氣，才找得回原本的表情。",
+          "variations": [
+            "制服脫下來的時候，臉上那層客服模式也跟著掛回置物櫃。",
+            "下班的路上不是在發呆，是在把上班時關掉的那個自己，慢慢開機。"
+          ]
+        },
+        "en": {
+          "content": "That \"beep\" when I clock out\nisn't just the end of my shift —\nit's the moment I finally get back\nthe smile I lent out all day.",
+          "editorNote": "For everyone who trades a smile for a paycheck. The exhausting part of emotional labor isn't the smiling — it's the effort it takes afterward to find your own face again.",
+          "variations": [
+            "When the uniform comes off, that customer-service layer on my face gets hung back in the locker too.",
+            "On the commute home I'm not zoning out — I'm slowly rebooting the self I had to switch off at work."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-180",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.youtube.com/watch?v=U48Inqxnaa8",
+      "sourceNote": "Sparked by Dcard 調查局 piece on 服務業被丟錢/只能道歉/低薪 — reworks the 「丟錢結帳」 disrespect trope into a quiet dignity line",
+      "tags": ["服務業", "尊嚴", "金句", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "錢丟在櫃台上會滾，\n我彎下腰去撿的不是那枚硬幣，\n是我提醒自己——\n薪水可以低，腰不能塌。",
+          "editorNote": "傳給被客人把錢甩在桌上的服務業朋友。撿起來的是錢，撿不回來的是對方本來該有的那點基本尊重。",
+          "variations": [
+            "客人把錢丟在桌上，丟掉的其實是他自己的家教，不是我的尊嚴。",
+            "硬幣會滾走，但我願不願意好好對人，從來都是自己決定的。"
+          ]
+        },
+        "en": {
+          "content": "Coins tossed on the counter roll.\nWhen I bend down to pick one up,\nit's not the coin I'm retrieving —\nit's the reminder: the pay can be low, but the spine stays straight.",
+          "editorNote": "For the worker whose customer flung money onto the counter. You pick up the coin; what you can't pick up is the basic respect they should have shown.",
+          "variations": [
+            "When a customer throws money on the counter, what they're throwing away is their own manners — not my dignity.",
+            "The coin rolls away, but whether I treat people decently has always been my call, not theirs."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-181",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/258826892",
+      "sourceNote": "Reworks the 「客人能客訴員工，員工卻不能客訴奧客」 power-imbalance observation (Dcard 心情) into a wry imagined-feature joke",
+      "tags": ["服務業", "客訴", "幽默", "心聲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人可以填一張客訴單把我寫進去，\n我多希望也有一張表，\n標題寫「客戶服務評分：本次客人，建議下架」。",
+          "editorNote": "傳給今天又收到一張客訴單的同事。客訴是單向的，這就是為什麼好脾氣的人特別容易被磨光。",
+          "variations": [
+            "如果奧客也能被退貨，我們的庫存應該每天都會少很多。",
+            "客人對我們的評分是五星制，我們對客人的評分是『只能默默記在心裡』制。"
+          ]
+        },
+        "en": {
+          "content": "A customer can file a complaint form with my name on it.\nI just wish there were a form for us too,\ntitled: \"Customer rating: this one — recommend discontinuing.\"",
+          "editorNote": "For the coworker who got handed another complaint form today. Complaints only run one direction — which is exactly why the patient ones get worn down fastest.",
+          "variations": [
+            "If difficult customers could be returned for a refund, our inventory would shrink a lot every single day.",
+            "Customers rate us on a five-star scale; we rate customers on a \"keep it quietly to yourself\" scale."
+          ]
+        }
+      }
     }
   ]
 }

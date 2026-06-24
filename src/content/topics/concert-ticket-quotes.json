@@ -2449,6 +2449,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-107",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://help.tixcraft.com/hc/en-us/articles/4404464508433-Ticket-Collection-ibon",
+      "sourceNote": "五月天大巨蛋各場開演前 15 天起可至 7-11 ibon 取票；6/18 起陸續開放",
+      "tags": ["取票", "ibon", "演唱會", "緊張"],
+      "i18n": {
+        "zh-tw": {
+          "content": "終於可以去 ibon 取票了。\n\n我站在機台前,\n手抖到輸入訂單編號\n打了三次。\n\n搶票時我沒這麼緊張,\n反而是票快到手的這一刻,\n我怕它是假的。",
+          "editorNote": "開演前 15 天的 ibon 取票是「終於成真」的儀式時刻。傳給也站在 7-11 機台前手抖的朋友",
+          "variations": [
+            "務實版:「取票流程三步驟,我做了八分鐘。後面排隊買茶葉蛋的大哥,大概以為我在解鎖核彈。」"
+          ]
+        },
+        "en": {
+          "content": "Finally went to pick up the physical ticket.\n\nStanding at the machine,\nmy hands shook so hard\nI mistyped the order number three times.\n\nI wasn't this nervous fighting for it.\nIt's now, with the ticket almost in my hand,\nthat I'm scared it isn't real.",
+          "editorNote": "The will-call pickup is the 'it's finally happening' ritual. Send to the friend whose hands are shaking at the kiosk",
+          "variations": [
+            "Practical version: 'Three-step pickup process. Took me eight minutes. The guy waiting behind me probably thought I was disarming a bomb.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-108",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.ptt.cc/bbs/MayDay/M.1750912686.A.67A.html",
+      "sourceNote": "大巨蛋入場須知:禁帶大面積 LED 燈牌、氣球、橫幅、旗幟等妨礙觀賞的應援製作物",
+      "tags": ["入場須知", "燈牌", "應援", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我熬夜做的巨型 LED 燈牌,\n入場須知說\n「妨礙觀賞,禁止攜帶」。\n\n做的時候是愛,\n帶不進去叫違規。\n\n我的應援,\n死在大門口。",
+          "editorNote": "辛苦準備的大型應援物被入場規定擋下,是開演前最心碎的小事。傳給燈牌剛被沒收、站在門口發呆的朋友",
+          "variations": [
+            "認命版:「燈牌帶不進去,我就改用手機手電筒。一萬個人的手電筒,也是一萬份不甘心。」"
+          ]
+        },
+        "en": {
+          "content": "The giant LED sign I stayed up all night making —\nthe entry rules say\n'obstructs the view, not allowed.'\n\nMaking it was love.\nBringing it in is a violation.\n\nMy whole cheer\ndied at the front gate.",
+          "editorNote": "Having your handmade fan gear rejected at the door is the quiet heartbreak right before showtime. Send to the friend whose light sign just got confiscated",
+          "variations": [
+            "Resigned version: 'Sign won't fit through the gate, so phone flashlight it is. Ten thousand flashlights — also ten thousand servings of regret.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-109",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021394",
+      "sourceNote": "大巨蛋場內飲食規定:僅看台區開放飲食,搖滾區禁帶飲食、僅能飲水",
+      "tags": ["搖滾區", "飲食", "演唱會", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搶到搖滾區。\n\n規定:不能吃、不能喝,\n只能喝水。\n\n站四小時、不能進食、\n只靠一瓶水和信仰撐著——\n\n這不是看演唱會,\n這是修行。",
+          "editorNote": "搖滾區禁帶飲食、長時間站立是熱情粉絲的甜蜜苦行。傳給準備空腹站四小時的搖滾區戰友",
+          "variations": [
+            "苦行版:「搖滾區:一瓶水、四小時、零食慾。我以為我來看歌,結果我來閉關。」"
+          ]
+        },
+        "en": {
+          "content": "I scored the rock-zone floor.\n\nThe rules: no food, no drinks,\nwater only.\n\nFour hours standing, no eating,\nrunning on one bottle of water and pure faith —\n\nthis isn't a concert.\nIt's a spiritual retreat.",
+          "editorNote": "No-food rules plus hours of standing in the GA pit are the sweet suffering of die-hard fans. Send to the rock-zone comrade about to fast for four hours",
+          "variations": [
+            "Ascetic version: 'Rock zone: one water bottle, four hours, zero snacks. Thought I came for the music. Turns out I came to meditate.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-110",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://legalaffairs.gov.taipei/News_Content.aspx?n=9DCD6AAC1B9B2ACB&sms=72544237BBE4C5F6&s=EC5A4308886605CC",
+      "sourceNote": "詐騙新手法「未來轉票」:聲稱門票會在開演前幾天才寄送,收款後封鎖消失",
+      "tags": ["未來轉票", "詐騙", "二手票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他說:\n「票會在開演前三天才寄,\n你先付款卡位。」\n\n我等到開演前三天,\n等到開演當天,\n等到散場——\n\n等到的不是票,\n是我被封鎖的截圖。",
+          "editorNote": "「未來轉票」是開演前最猖獗的詐騙:用未來寄票拖延、收款即封鎖。傳給正在跟陌生賣家約「演唱會前再給票」的朋友當解毒劑",
+          "variations": [
+            "後悔版:「他說票還沒到手、開演前才會寄。我居然信了——原來最先寄到的,是我的智商稅收據。」"
+          ]
+        },
+        "en": {
+          "content": "He said:\n'The ticket ships three days before the show,\njust pay now to lock it in.'\n\nI waited till three days before.\nI waited till show day.\nI waited till the lights came up —\n\nwhat arrived wasn't a ticket.\nIt was the screenshot of me getting blocked.",
+          "editorNote": "'Future delivery' is the resale scam peaking right before showtime — stall with a later ship date, vanish after payment. Forward to the friend arranging a 'ticket comes later' deal with a stranger",
+          "variations": [
+            "Regret version: 'He said the ticket wasn't in hand yet, ships before the show. And I believed him — turns out the only thing that shipped on time was my receipt for being gullible.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-111",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021394",
+      "sourceNote": "五月天大巨蛋預計 16:00 開放入場、18:30 開演;粉絲提早數小時到場排隊",
+      "tags": ["排隊", "開演", "等待", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "16:00 入場,18:30 開演。\n\n我中午就到了。\n\n為了搶到三小時前的一個好位置,\n我把整個下午\n站成了一條人龍。\n\n等待的時間,\n比我跟前任在一起的時間\n還認真。",
+          "editorNote": "為了好位置提早數小時排隊,是粉絲心甘情願的傻。傳給也在大太陽下排到中暑邊緣的同伴",
+          "variations": [
+            "計算版:「提早六小時排隊,看兩小時演唱會。投資報酬率是負的,快樂是正的,扯平。」"
+          ]
+        },
+        "en": {
+          "content": "Doors at 4, show at 6:30.\n\nI got there at noon.\n\nTo win a good spot three hours early,\nI spent the whole afternoon\nbecoming part of a human queue.\n\nI waited harder for this\nthan I ever did for my ex.",
+          "editorNote": "Lining up hours early for a good spot is the devotion fans sign up for gladly. Send to the buddy queuing in the sun on the edge of heatstroke",
+          "variations": [
+            "Math version: 'Six hours in line for a two-hour show. The ROI is negative, the joy is positive, call it even.'"
+          ]
+        }
+      }
     }
   ]
 }

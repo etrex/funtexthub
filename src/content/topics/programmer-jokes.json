@@ -7414,6 +7414,154 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-256",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Vibe coding meme — devs forget where the code lives when AI goes down",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "2026",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "整個 sprint 都用 AI 自動補完一路衝刺，感覺自己是天才。\n直到某天 AI 服務掛了，全組才發現：\n沒有人記得那個按鈕的事件處理寫在哪一個檔案。",
+          "editorNote": "傳到團隊群組，配一句『今天 API 額度還夠嗎』，氣氛瞬間凝重又好笑。",
+          "variations": [
+            "進階版：AI 一掛掉，大家第一個動作是打開 Stack Overflow，結果發現自己已經忘記怎麼搜尋了。",
+            "也可以是：履歷寫『精通全端』，其實是『精通對 AI 下指令』。"
+          ]
+        },
+        "en": {
+          "content": "I let the AI agent autocomplete its way through the entire sprint and felt like a genius.\nThen one day the service went down, and the whole team realized:\nnobody remembers which file the button's click handler actually lives in.",
+          "editorNote": "Drop this in the team channel with 'are we still under quota today?' — nervous laughter guaranteed.",
+          "variations": [
+            "Bonus: the moment the AI dies, everyone opens Stack Overflow and discovers they've forgotten how to search it.",
+            "Resume says 'full-stack expert.' Reality: 'expert at prompting an AI.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-257",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://explainx.ai/blog/vibecoding-who-is-json-meme-ai-coding-explained-2026",
+      "sourceNote": "'Who is JSON' vibecoding meme — JSON misread as a person's name",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "2026",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資深工程師：「這個 API 回傳的是 JSON。」\nVibe coder：「Jason 是誰？他在哪一組？我可以直接問他嗎？」",
+          "editorNote": "傳給帶過 AI 世代新人的工程師，他會默默把這則設成大頭貼。",
+          "variations": [
+            "續集：『那 localhost 又是哪位同事？我怎麼從來沒在會議上看過他。』",
+            "也可換成：『他說他的程式跑在 cloud 上，我問他是哪一朵。』"
+          ]
+        },
+        "en": {
+          "content": "Senior dev: \"This API returns JSON.\"\nVibe coder: \"Who's Jason? Which team is he on? Can I just ask him directly?\"",
+          "editorNote": "Send it to anyone mentoring the AI-native generation; expect them to quietly set it as their avatar.",
+          "variations": [
+            "Sequel: 'And who's this localhost guy? I've never seen him in a single standup.'",
+            "Alternate: 'He said his code runs in the cloud — I asked which one.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-258",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.codeitbro.com/blog/vibe-coding-memes",
+      "sourceNote": "AI assistant over-engineers a trivial request — scorched earth redesign",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "code review",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我：「幫我修一個錯字。」\nAI：「好的！我順便重構了整個專案、換了框架、加了三個微服務，並幫你寫好了商業計畫書。」\n我：「……那個錯字呢？」\nAI：「還在。」",
+          "editorNote": "適合貼在公司導入 AI 工具後的群組，懂的人會笑到拍桌。",
+          "variations": [
+            "也可以是：『請幫我加一個按鈕』→ AI 交出一份遷移到雲端的提案，附帶估價單。",
+            "進階：『改個顏色就好』→ AI 順手把整個設計系統重寫了一遍，但顏色沒改。"
+          ]
+        },
+        "en": {
+          "content": "Me: \"Can you fix this one typo?\"\nAI: \"Sure! I also refactored the whole project, switched frameworks, added three microservices, and drafted you a business plan.\"\nMe: \"...and the typo?\"\nAI: \"Still there.\"",
+          "editorNote": "Perfect for the team channel right after the company rolls out AI tools — pure table-slapping recognition.",
+          "variations": [
+            "Variant: 'Please add a button' → AI delivers a full cloud migration proposal with a quote attached.",
+            "Bonus: 'Just change one color' → AI rewrites the entire design system, color unchanged."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-259",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://punswork.com/programming-jokes/",
+      "sourceNote": "SQL devs drop tables — classic furniture-moving pun rewritten",
+      "tags": [
+        "邏輯",
+        "字面意思",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "永遠不要找後端工程師幫你搬家。\n你叫他把桌子搬走，他真的會把整張桌子連同上面所有東西，一次刪光，而且還回不來。",
+          "editorNote": "傳給資料庫工程師朋友，他會默默想起自己手滑 DROP TABLE 的那個下午。",
+          "variations": [
+            "前端版：你叫他把桌子靠左，他把整個房間 flex 了一遍。",
+            "也可以是：找 SQL 工程師搬家，他第一句話會問『你有備份嗎？』"
+          ]
+        },
+        "en": {
+          "content": "Never ask a backend developer to help you move house.\nYou tell them to take the table away, and they really will — they'll drop the whole table, everything on it, all at once, and no, there's no undo.",
+          "editorNote": "Send it to a database friend; watch them flash back to the afternoon they fat-fingered a DROP TABLE.",
+          "variations": [
+            "Frontend version: you ask them to move the table left, and they flex the entire room.",
+            "Alternate: ask a SQL dev to help you move, and their first question is 'do you have a backup?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-260",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://punswork.com/programming-jokes/",
+      "sourceNote": "Dark mode joke — light attracts bugs, rewritten",
+      "tags": [
+        "工程師日常",
+        "bug",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼工程師都堅持用深色模式？\n因為光會招來蟲。\n而我們的人生，已經有夠多 bug 了。",
+          "editorNote": "傳給堅持白底會瞎掉的同事，最後一句最戳心。",
+          "variations": [
+            "延伸：把辦公室燈關掉不是為了省電，是為了減少 bug 的趨光性。",
+            "也可以是：客戶問為什麼畫面是黑的，工程師說『這是防蟲設計』。"
+          ]
+        },
+        "en": {
+          "content": "Why do developers swear by dark mode?\nBecause light attracts bugs.\nAnd honestly, our lives already have more than enough of those.",
+          "editorNote": "Send it to the coworker who insists a white background will blind them; the last line lands hardest.",
+          "variations": [
+            "Extension: we don't dim the office to save power — it's to reduce the phototaxis of bugs.",
+            "Alternate: client asks why the screen is black; the dev says 'it's pest control.'"
+          ]
+        }
+      }
     }
   ]
 }
