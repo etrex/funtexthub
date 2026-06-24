@@ -6667,36 +6667,6 @@
       }
     },
     {
-      "id": "mq-235",
-      "dateAdded": "2026-06-20",
-      "sourceUrl": "https://www.oxxostudio.tw/project/greetings/power-words.html",
-      "sourceNote": "Inspired by Taiwan motto theme: don't stop trying until the result you want shows up",
-      "tags": [
-        "勵志",
-        "堅持",
-        "努力",
-        "等待"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "想要的結果還沒出現，不代表它不會出現，只代表還沒到。",
-          "editorNote": "適合熬到一半、覺得努力沒回報的人。別在快好的時候停手，很多事就差最後那一下。",
-          "variations": [
-            "別在還沒看到結果前，就先把自己刪掉。",
-            "結果遲到了，不等於缺席。"
-          ]
-        },
-        "en": {
-          "content": "The result you want hasn't shown up yet — that doesn't mean it won't, just that it's not time.",
-          "editorNote": "For anyone halfway through and convinced the effort isn't paying off. Don't quit right before it clicks — a lot of things come down to that last little push.",
-          "variations": [
-            "Don't delete yourself before the results have even arrived.",
-            "A late outcome isn't a no-show."
-          ]
-        }
-      }
-    },
-    {
       "id": "mq-236",
       "dateAdded": "2026-06-20",
       "sourceUrl": "https://www.shopify.com/blog/motivational-quotes",
@@ -6902,6 +6872,156 @@
           "variations": [
             "Every bit you slack off today is overtime for somebody else's goal.",
             "Your dream won't wait until you're free — it only waits until you start."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-243",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.shopify.com/blog/motivational-quotes",
+      "sourceNote": "Inspired by the common 'sum of small daily efforts' / progress-over-perfection theme",
+      "tags": [
+        "勵志",
+        "成長",
+        "累積",
+        "耐心"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你每天看不出進步，是因為山是被一鏟一鏟堆出來的。",
+          "editorNote": "適合覺得努力很久卻沒成果、快要放棄的時候。提醒對方累積是看不見的，直到某天突然就看見了。",
+          "variations": [
+            "今天的一小步，會在某天變成回頭看才嚇一跳的距離。",
+            "進步不是大爆發，是每天偷偷往上墊一點點。"
+          ]
+        },
+        "en": {
+          "content": "You can't see your progress day to day because the mountain gets built one shovel at a time.",
+          "editorNote": "For when you've worked hard for ages with nothing to show and you're ready to quit. Growth is invisible until, one day, it isn't.",
+          "variations": [
+            "Today's tiny step becomes the distance that shocks you when you look back.",
+            "Progress isn't a big bang — it's quietly stacking a little higher every day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-244",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.behavioralessentials.com/resources/15-inspiring-quotes-about-resilience",
+      "sourceNote": "Inspired by Maya Angelou's 'changed but not reduced' resilience idea, fully rewritten",
+      "tags": [
+        "勵志",
+        "韌性",
+        "正能量",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "發生的事可以改變你，但沒資格把你變小。",
+          "editorNote": "適合送給剛經歷低潮、覺得自己被打碎的人。受傷可以，但別讓那件事定義你能變成誰。",
+          "variations": [
+            "你被生活折過，但你不是被折斷，是學會了彎。",
+            "傷會留疤，但疤是你撐過來的證明，不是你變弱的標記。"
+          ]
+        },
+        "en": {
+          "content": "What happens to you is allowed to change you. It is not allowed to make you smaller.",
+          "editorNote": "For someone fresh out of a rough patch who feels broken by it. Getting hurt is fine — just don't let that thing decide who you get to become.",
+          "variations": [
+            "Life bent you, but you didn't snap — you learned how to flex.",
+            "Scars stay, but a scar is proof you made it through, not a mark that you got weaker."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-245",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://qutzly.com/stop-comparing-yourself-to-others-quotes/",
+      "sourceNote": "Inspired by 'compare yourself to your past self, not others' theme, rewritten",
+      "tags": [
+        "勵志",
+        "自我",
+        "成長",
+        "比較"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別跟別人比快慢，跟昨天的自己比就好，那才是你真正的對手。",
+          "editorNote": "適合被同儕壓力或社群動態搞到焦慮的時候。每個人的起跑線不一樣，唯一公平的比較是你跟你自己。",
+          "variations": [
+            "你不用贏過所有人，你只要比昨天多懂一點點。",
+            "滑別人的人生只會讓你跌倒，看自己的腳步才走得穩。"
+          ]
+        },
+        "en": {
+          "content": "Don't race other people. Race yesterday's version of you — that's the only opponent that counts.",
+          "editorNote": "For when peer pressure or the feed has you spiraling. Everyone starts from a different line; the only fair comparison is you against you.",
+          "variations": [
+            "You don't have to beat everyone — just know a little more than you did yesterday.",
+            "Scrolling other people's lives trips you up; watching your own steps keeps you steady."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-246",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://hopeanddaisies.com/uplifting-quotes-for-2026/",
+      "sourceNote": "Inspired by 'showing up is enough / healing can be slow' gentle-motivation theme",
+      "tags": [
+        "勵志",
+        "療癒",
+        "正能量",
+        "溫柔"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有些日子，光是好好起床、把自己餵飽，就已經很勇敢了。",
+          "editorNote": "適合送給狀態很差、連基本生活都覺得吃力的人。不是每天都要拚成就，活著撐住本身就是一種了不起。",
+          "variations": [
+            "撐過今天就好，明天的事明天再說。",
+            "你不必每天都發光，偶爾只是沒熄掉，也算數。"
+          ]
+        },
+        "en": {
+          "content": "Some days, just getting out of bed and feeding yourself is already brave.",
+          "editorNote": "For someone running on empty who's struggling with even the basics. Not every day has to be productive — surviving and holding on is its own kind of strong.",
+          "variations": [
+            "Just make it through today. Tomorrow can be tomorrow's problem.",
+            "You don't have to shine every day. Some days, not going out counts too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-247",
+      "dateAdded": "2026-06-24",
+      "sourceUrl": "https://www.frontlinesourcegroup.com/blog-quote-of-the-day-about-hard-work-and-success.html",
+      "sourceNote": "Inspired by hard-work / fear-of-starting motivation theme, rewritten",
+      "tags": [
+        "勵志",
+        "行動力",
+        "勇氣",
+        "開始"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "會怕，代表你在乎；別讓怕，變成你不做的藉口。",
+          "editorNote": "適合在害怕失敗、遲遲不敢開始的時候。緊張是正常的，把它當成在乎的證據，然後照做就對了。",
+          "variations": [
+            "勇敢不是不怕，是怕得要死還是去做了。",
+            "你怕的那件事，做完之後通常會變成你最驕傲的事。"
+          ]
+        },
+        "en": {
+          "content": "Being scared means you care. Just don't let the fear become your excuse not to do it.",
+          "editorNote": "For when fear of failing is keeping you from starting. Nerves are normal — treat them as proof you care, then do the thing anyway.",
+          "variations": [
+            "Brave isn't fearless — it's being terrified and going for it anyway.",
+            "The thing you're scared of is usually the thing you'll be proudest of once it's done."
           ]
         }
       }
