@@ -3999,6 +3999,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-162",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://tw.trip.com/blog/taiwan-public-holidays/",
+      "sourceNote": "2026 台灣暑假 7/1-8/30 共 61 天 timely register，原創",
+      "tags": ["暑假", "台灣", "搞笑", "上班族"],
+      "i18n": {
+        "zh-tw": {
+          "content": "學生的暑假有 61 天，\n上班族的暑假\n是把特休拆成\n三段週五加週一的拼貼藝術。\n\n但我們玩得，\n一點都不輸。",
+          "editorNote": "2026 暑假 7/1–8/30 主場期最 timely 的在地廢文——適合搶連假出遊的 IG caption、Threads 排假心得、跟學生朋友互嗆的 LINE 訊息；把上班族「沒有暑假」 的痛轉成驕傲",
+          "variations": [
+            "我沒有暑假，我只有用特休精算出來的偽暑假，而且比真的還珍貴。",
+            "學生放兩個月，我放兩天半，但我的兩天半含金量超高。"
+          ]
+        },
+        "en": {
+          "content": "Students get a 61-day summer break.\nOffice workers get summer\nas a collage\nof three long weekends\nstitched together from saved-up PTO.\n\nAnd honestly?\nWe vacation just as hard.",
+          "editorNote": "For the long-weekend-getaway IG caption, the PTO-planning Threads post, or the back-to-office selfie — flips the office worker's 'no real summer' lament into quiet pride",
+          "variations": [
+            "I don't get a summer break. I get a forged one, calculated down to the last PTO hour, and it's worth more.",
+            "Students get two months. I get two and a half days. But mine are pure gold."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-163",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://thenomadalmanac.com/funny-travel-quotes-captions/",
+      "sourceNote": "summer heat / 防曬 register，原創",
+      "tags": ["夏天", "海邊", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天去海邊的真相：\n防曬乳補了五次、\n還是曬出一條安全帶痕、\nIG 照片裡笑得燦爛，\n回家洗澡才哭出來。",
+          "editorNote": "適合海邊比基尼照、曬傷後的鏡子自拍、Threads 夏日廢發——把海邊美照背後的曬傷狼狽寫得很真實，誰夏天去過海邊都中槍",
+          "variations": [
+            "別人去海邊收集回憶，我去海邊收集曬傷的層次感。",
+            "夏天最公平的事：再貴的防曬乳，都擋不住我對陽光的低估。"
+          ]
+        },
+        "en": {
+          "content": "The truth about the beach in summer:\nyou reapply sunscreen five times,\nstill end up with a seatbelt-shaped tan line,\nsmile beautifully in the photos,\nand cry in the shower later.",
+          "editorNote": "For the bikini beach shot, the post-sunburn mirror selfie, or the summer Threads post — captures the painful reality behind every glowing beach photo",
+          "variations": [
+            "Other people go to the beach to collect memories. I go to collect layers of sunburn.",
+            "Summer's only fair rule: no sunscreen is strong enough to protect you from underestimating the sun."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-164",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.threads.com/@lai.airfare/post/DTKzb0AEs6j/",
+      "sourceNote": "2026 旅展 / 機票促銷搶票 timely register，原創",
+      "tags": ["機票", "省錢", "搶票", "搞笑"],
+      "i18n": {
+        "zh-tw": {
+          "content": "搶廉航特價機票的我，\n手速比上班回訊息快十倍，\n眼神比談戀愛還專注，\n結帳前一秒\n還是被加價的行李費\n拉回現實。",
+          "editorNote": "適合搶票成功截圖、旅展現場排隊照、Threads 半夜衝動訂票後的反省文——精準描寫每個搶廉航特價的人最熟悉的興奮與背刺",
+          "variations": [
+            "機票本身很便宜，貴的是它後面默默排隊的：行李、選位、餐點、跟我的衝動。",
+            "搶到特價機票的快樂，撐不過看到總金額的那一秒。"
+          ]
+        },
+        "en": {
+          "content": "Booking a budget flight deal,\nmy reflexes are ten times faster\nthan replying to work emails,\nmy focus sharper than any relationship —\nthen one second before checkout\nthe baggage fee\ndrags me back to reality.",
+          "editorNote": "For the deal-snagged screenshot, the travel-fair queue photo, or the 2 AM impulse-booking Threads confession — captures the thrill and betrayal every budget-flight hunter knows",
+          "variations": [
+            "The flight is cheap. What's expensive is everything quietly lining up behind it: bags, seats, meals, and my impulse.",
+            "The joy of a flight deal lasts exactly until the total appears."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-165",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://friendstraveltips.com/funny-travel-captions/",
+      "sourceNote": "summer trip / 暑假計畫 vs 現實 register，原創",
+      "tags": ["暑假", "旅行", "搞笑", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我夏天的旅遊計畫：\n看遍三座島、\n爬一座山、\n讀完五本書。\n\n我夏天的真實行程：\n冷氣房裡躺平，\n手機相簿翻去年的海，\n計畫明年再說。",
+          "editorNote": "適合暑假還沒出門就先躺平的 Threads 廢發、冷氣房自拍、IG 自嘲文——把每個人「計畫很豐滿、行動很骨感」 的暑假寫到極致",
+          "variations": [
+            "我的暑假待辦清單，每年都原封不動地延期到明年暑假。",
+            "計畫環島的我，跟躺在沙發上的我，是兩個從來沒見過面的人。"
+          ]
+        },
+        "en": {
+          "content": "My summer travel plans:\nsee three islands,\nclimb one mountain,\nfinish five books.\n\nMy actual summer:\nlying flat in the AC,\nscrolling last year's beach photos,\nrescheduling everything to next year.",
+          "editorNote": "For the haven't-left-the-couch Threads post, the air-conditioned-room selfie, or the self-deprecating IG caption — nails the eternal gap between summer ambition and summer reality",
+          "variations": [
+            "My summer to-do list rolls over, untouched, to next summer. Every single year.",
+            "The me who plans an island-hopping trip and the me lying on the couch have never actually met."
+          ]
+        }
+      }
     }
   ]
 }

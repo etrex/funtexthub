@@ -7562,6 +7562,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-261",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://punsplanet.com/programmer-jokes/",
+      "sourceNote": "Debugging = detective and murderer joke, rewritten",
+      "tags": [
+        "除錯",
+        "黑色幽默",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除錯這件事很奇妙：\n你同時是辦案的偵探，也是兇手本人。\n而且兇手還死不認罪。",
+          "editorNote": "傳給正在追自己昨天種下的 bug 的同事，最後一句最寫實。",
+          "variations": [
+            "延伸：偵探查到一半才發現，命案現場的指紋全是自己的。",
+            "也可以是：最難破的案子，就是兇手三天前還覺得自己寫得很乾淨那種。"
+          ]
+        },
+        "en": {
+          "content": "Debugging is a strange job:\nyou're the detective and the murderer at the same time.\nAnd the murderer keeps insisting he's innocent.",
+          "editorNote": "Send it to a coworker chasing a bug they planted yesterday — the last line stings the most.",
+          "variations": [
+            "Extension: halfway through the case you realize every fingerprint at the scene is yours.",
+            "Alternate: the hardest case to crack is the one where the killer felt great about his clean code three days ago."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-262",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://programmerhumor.io/stackoverflow-memes",
+      "sourceNote": "Stack Overflow duplicate marked-as-2009-post joke, rewritten",
+      "tags": [
+        "Stack Overflow",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在 Stack Overflow 拼死拼活打出一個問題，\n五分鐘後被標記為「重複問題」，\n連到一篇 2011 年的貼文，\n底下最高讚的回答是：「我後來自己解決了，但忘記怎麼解的。」",
+          "editorNote": "工程師看到都會苦笑，因為那篇貼文我們真的全都點進去過。",
+          "variations": [
+            "延伸：那個自己解決卻不寫答案的人，是工程師界的頭號通緝犯。",
+            "也可以是：最高讚回答下面還有一句『等等，這跟我的問題根本不一樣』，三百個讚。"
+          ]
+        },
+        "en": {
+          "content": "You pour your soul into a Stack Overflow question,\nand five minutes later it's flagged as a duplicate,\nlinked to a post from 2011\nwhose top answer reads: \"Never mind, I fixed it myself, but I forget how.\"",
+          "editorNote": "Every developer laughs through gritted teeth, because we have all clicked that exact post.",
+          "variations": [
+            "Extension: the guy who solved it but never wrote down the fix is programming's most wanted.",
+            "Alternate: under the top answer sits a reply — 'wait, this isn't even my problem' — with three hundred upvotes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-263",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://punswork.com/programming-jokes/",
+      "sourceNote": "AI confident because it learned from experience joke, rewritten for 2026 AI era",
+      "tags": [
+        "AI",
+        "工程師思維",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼 AI 寫程式總是這麼有自信？\n因為它從大量經驗中學習。\n問題是，那些經驗有一半是 Stack Overflow 上沒被採納的答案。",
+          "editorNote": "2026 年最有共鳴的一則，傳給每天跟 AI 助手對線的工程師。",
+          "variations": [
+            "延伸：AI 自信地說『這段程式絕對能跑』，然後你 review 完整段重寫。",
+            "也可以是：它學了全世界的程式碼，包括那些被 git blame 出來就會被罵的。"
+          ]
+        },
+        "en": {
+          "content": "Why is the AI always so confident when it writes code?\nBecause it learned from tons of experience.\nThe catch: half that experience is downvoted answers on Stack Overflow.",
+          "editorNote": "The most relatable one of 2026 — send it to anyone arguing with an AI assistant all day.",
+          "variations": [
+            "Extension: the AI swears 'this code will absolutely run,' and you rewrite the entire block after review.",
+            "Alternate: it studied all the code in the world — including the stuff that gets you yelled at the moment git blame finds it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-264",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://thunderdungeon.com/2025/09/22/30-programmer-memes-with-big-laughs-for-big-nerds/",
+      "sourceNote": "temp2_final_ACTUAL_USE_THIS variable naming joke, rewritten",
+      "tags": [
+        "程式碼品質",
+        "命名",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "接手別人的程式碼時，最讓人崩潰的不是 bug，\n是那個叫做 data2_final_真的用這個_v3 的變數。\n你知道它背後一定有一段故事，\n而且那段故事一定是悲劇。",
+          "editorNote": "傳給最近在維護祖傳程式碼的同事，他會默默轉發給更多受害者。",
+          "variations": [
+            "延伸：旁邊還有一個叫 temp 的變數，活在整份檔案裡三年了。",
+            "也可以是：函式名稱叫 doStuff()，裡面真的什麼都做。"
+          ]
+        },
+        "en": {
+          "content": "Inheriting someone else's code, the thing that breaks you isn't the bugs —\nit's the variable named data2_final_REALLY_USE_THIS_v3.\nYou just know there's a story behind it,\nand you just know that story is a tragedy.",
+          "editorNote": "Send it to whoever's maintaining legacy code right now; they'll quietly forward it to more victims.",
+          "variations": [
+            "Extension: right next to it sits a variable called temp that has lived in this file for three years.",
+            "Alternate: the function is named doStuff(), and inside it genuinely does everything."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-265",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://punsplanet.com/programmer-jokes/",
+      "sourceNote": "My code works and I don't know why joke, rewritten",
+      "tags": [
+        "工程師語錄",
+        "黑色幽默",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的程式不一定會動，\n但當它真的會動的時候，\n我也不知道為什麼會動。\n所以我絕對不敢碰它。",
+          "editorNote": "每個工程師心裡都有一段這種程式碼，碰了會死，但又不能不維護。",
+          "variations": [
+            "延伸：那段程式上面的註解只寫了兩個字『別動』。",
+            "也可以是：能跑就是能跑，這在工程界已經算是奇蹟，不要問。"
+          ]
+        },
+        "en": {
+          "content": "My code doesn't always work,\nbut when it does,\nI have no idea why it works.\nWhich is exactly why I will never touch it again.",
+          "editorNote": "Every developer keeps one block of code like this — touch it and you die, but you can't stop maintaining it either.",
+          "variations": [
+            "Extension: the only comment above it reads, in full: '// do not touch.'",
+            "Alternate: it runs, and in this industry that already counts as a miracle. Don't ask questions."
+          ]
+        }
+      }
     }
   ]
 }

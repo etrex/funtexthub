@@ -2436,6 +2436,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-098",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://vocus.cc/article/6a3bcf12fd897800013f7b5b",
+      "sourceNote": "6/24 外資單日賣超1774億創史上最大 register；改寫原創",
+      "tags": ["外資", "賣超", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞：「外資單日狂賣一千七百多億，刷新史上最大賣超紀錄。」\n我看著那個數字想了想：原來我接的不是飛刀，是外資出清的整座倉庫。\n他們搬空一間倉庫只要一天，我搬回家卻要扛一輩子。",
+          "editorNote": "適合在外資爆量提款那天，配著綠到發黑的對帳單一起看",
+          "variations": [
+            "外資創史上最大賣超那天，我貢獻了其中很微小但很真誠的一筆買進。",
+            "他們賣超創紀錄，我套牢也創紀錄，這天我們各自寫下了歷史。"
+          ]
+        },
+        "en": {
+          "content": "Headline: 'Foreign funds dump a record amount in a single day, the largest net sell in history.'\nI stared at the number and thought: turns out I wasn't catching a falling knife, I was catching an entire warehouse the foreigners were clearing out.\nIt took them one day to empty the warehouse. It'll take me a lifetime to haul it home.",
+          "editorNote": "For the day foreign funds yank a record amount out — best paired with a statement so green it's nearly black",
+          "variations": [
+            "On the day foreign funds set the all-time net-sell record, I contributed one tiny but very sincere buy order.",
+            "They set a record for selling. I set a record for being stuck. That day we each made history."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-099",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://vocus.cc/article/6a3bcf12fd897800013f7b5b",
+      "sourceNote": "台股單日暴跌近1500點 register；改寫原創",
+      "tags": ["暴跌", "千點", "厭世", "焦慮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "大盤單日跌了快一千五百點，群組裡瞬間安靜得像清明節。\n有人問現在該怎麼辦，沒人回。\n不是不想回，是大家都在忙著把對帳單關掉，假裝今天沒開盤。\n我們不是不勇敢，我們只是學會了一種新的求生技能——不看就不痛。",
+          "editorNote": "送給每個在崩盤日把券商 APP 直接刪掉、晚上又默默裝回來的同好",
+          "variations": [
+            "崩盤那天我最大的成就，是忍住沒打開對帳單，撐到了隔天早上。",
+            "跌一千五百點的時候，全世界都很吵，只有我的投資群組安靜得可怕。"
+          ]
+        },
+        "en": {
+          "content": "The index dropped almost 1,500 points in a single day, and the group chat went silent as a funeral home.\nSomeone asked what we should do now. Nobody answered.\nIt's not that we didn't want to. We were all busy closing the app and pretending the market never opened today.\nWe're not cowards. We just learned a new survival skill — if you don't look, it doesn't hurt.",
+          "editorNote": "For everyone who deleted the broker app on crash day and quietly reinstalled it that night",
+          "variations": [
+            "My biggest achievement on crash day was resisting the urge to open my statement until the next morning.",
+            "When the index fell 1,500 points the whole world was loud. Only my investing group chat went terrifyingly quiet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-100",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://newtalk.tw/news/view/2026-05-15/1035313",
+      "sourceNote": "融資餘額暴增 / 違約交割頻傳 / 槓桿過高 register；改寫原創 (避開個股)",
+      "tags": ["融資", "違約交割", "槓桿", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為我用融資是在放大獲利。\n後來才發現，融資真正放大的，是我每天早上醒來的那一聲嘆氣。\n本金跌一成我心痛，融資讓我用一成的本金，痛到十成那麼飽滿。\n槓桿確實很有效，它精準地把我的小焦慮，槓成了大失眠。",
+          "editorNote": "送給每個用融資開大、結果半夜被追繳通知嚇醒的勇者，提醒自己量力而為",
+          "variations": [
+            "融資的意思是，連你還沒賠的那部分，市場都先幫你借來賠掉。",
+            "別人用槓桿撬動財富，我用槓桿撬動了我的血壓。"
+          ]
+        },
+        "en": {
+          "content": "I thought using margin was amplifying my gains.\nLater I realized what margin really amplifies is the sigh I let out every morning when I wake up.\nA 10 percent drop on cash already hurts. Margin let me feel that pain at a full 100 percent intensity off just 10 percent of my own money.\nLeverage really works — it precisely levered my small anxiety into a giant case of insomnia.",
+          "editorNote": "For the brave soul who maxed out on margin and got jolted awake by a margin call at 3 a.m. — know your limits",
+          "variations": [
+            "Margin means the market lets you borrow and lose the part you hadn't even lost yet.",
+            "Other people use leverage to move wealth. I used leverage to move my blood pressure."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-101",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://newtalk.tw/news/view/2026-05-15/1035313",
+      "sourceNote": "本益比數十倍 / 投機脫鉤基本面 register；改寫原創",
+      "tags": ["本益比", "投機", "基本面", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "分析師說這檔本益比幾十倍，已經完全脫離基本面。\n我聽了點點頭，然後還是買了。\n因為我發現，在這個市場，看基本面的人都在場邊看，看題材的人都在場上飛。\n等我終於想通要回去看基本面的時候，基本面正在我的成本價下面，跟我招手。",
+          "editorNote": "適合在被熱門題材股 FOMO、又怕本益比太高時，提醒自己保持清醒",
+          "variations": [
+            "本益比幾十倍我不怕，反正我買的時候沒在看『益』，我只看『漲』。",
+            "別人問我這檔基本面如何，我說我不知道，我只知道它今天漲停。"
+          ]
+        },
+        "en": {
+          "content": "The analyst said this one's trading at dozens of times earnings, completely detached from fundamentals.\nI nodded thoughtfully, then bought it anyway.\nBecause I've noticed that in this market, the people watching fundamentals are watching from the sidelines, and the people chasing the story are the ones flying.\nBy the time I finally come around to checking fundamentals again, they'll be waving at me from somewhere below my cost basis.",
+          "editorNote": "For the moment you're FOMO'd into a hot-theme stock but worried the multiple is insane — stay sober",
+          "variations": [
+            "A P/E of fifty doesn't scare me. When I bought it I wasn't looking at the 'E,' just the green.",
+            "Someone asked about this stock's fundamentals. I said I don't know, I only know it's limit-up today."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-102",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "「buy the dip… now I live there」register；改寫原創",
+      "tags": ["逢低買進", "套牢", "自嘲", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說逢低買進，於是我買了那個低點。\n結果那個低點下面還有低點，再下面還有低點，一層一層往下。\n買到後來我發現，我不只是來逢低買進的，我是直接搬進來，在這個低點定居了。\n現在這裡是我家，門牌號碼是『成本價』，地址是『回不去』。",
+          "editorNote": "送給每個一路逢低買進、最後乾脆住進谷底的同好，貼在群組會心一笑",
+          "variations": [
+            "逢低買進的盡頭，是把谷底裝潢成自己的家。",
+            "我本來只是路過這個低點，現在我在這裡繳房貸了。"
+          ]
+        },
+        "en": {
+          "content": "They said buy the dip, so I bought the dip.\nTurns out there was a dip below that dip, and another dip below that one, layer after layer heading down.\nEventually I realized I didn't just come to buy the dip — I moved in. I've settled down here at the bottom.\nThis is home now. The unit number is 'cost basis,' and the address is 'no way back.'",
+          "editorNote": "For everyone who bought every dip and finally just moved into the basement — share for a knowing smile",
+          "variations": [
+            "The end of buying the dip is renovating the bottom into your forever home.",
+            "I was only passing through this dip. Now I'm paying a mortgage down here."
+          ]
+        }
+      }
     }
   ]
 }

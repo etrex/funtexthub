@@ -3793,6 +3793,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-155",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E8%B3%83%E5%A5%91%E7%B4%84-%E6%96%B0%E5%88%B6/",
+      "sourceNote": "2026 租屋電費新制 一度電5元上限 房東超收 register; rewritten original",
+      "tags": ["電費", "房東", "超收", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新制說每度電不能超過五元，\n房東聽完點點頭，\n然後把我家那度電叫做「公設電」、「管理電」、「他開心電」。\n原來電價有上限，藉口沒有。",
+          "editorNote": "適合住分租套房、被房東一度電收六七元的朋友轉發，順便附上台電申訴專線",
+          "variations": [
+            "台電一度三塊，房東一度六塊，中間那三塊大概是我每天看他臉色的服務費。",
+            "房東說「電費就是這個價」，我說那我也想知道是哪一台冷氣在替我發電。"
+          ]
+        },
+        "en": {
+          "content": "The new rule says electricity can't exceed five dollars a unit.\nMy landlord nodded,\nthen renamed my kilowatt-hours 'common-area power,' 'management power,' and 'because-he-felt-like-it power.'\nTurns out there's a cap on the price, not on the excuses.",
+          "editorNote": "Send to a friend in a sublet getting charged double the real rate per unit — attach the utility complaint hotline",
+          "variations": [
+            "The power company charges three a unit, my landlord charges six. The extra three is the service fee for reading his mood every day.",
+            "Landlord said 'that's just what electricity costs.' I said I'd love to know which AC unit is generating power on my behalf."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-156",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://news.pts.org.tw/article/630278",
+      "sourceNote": "2026/4/1 電費漲 夏季用電 register; rewritten original",
+      "tags": ["電費", "夏天", "冷氣", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "電費四月就漲了，\n但夏天還是要開冷氣，\n因為熱死跟窮死之間，\n我選擇先涼快再煩惱。",
+          "editorNote": "適合夏天捨不得關冷氣、又怕看帳單的朋友轉發，配一張溫度計照最有感",
+          "variations": [
+            "我不是不省電，是我家的隔熱跟我的存款一樣薄。",
+            "冷氣開 26 度是良心，開 28 度是修行，關掉是涅槃，但我還沒準備好成佛。"
+          ]
+        },
+        "en": {
+          "content": "The electricity price went up back in April,\nbut summer still demands the AC,\nbecause between dying of heat and dying broke,\nI'll take cool now and worry later.",
+          "editorNote": "Send to a friend who can't bear to turn off the AC but dreads the bill — pair it with a photo of the thermostat",
+          "variations": [
+            "It's not that I don't conserve. It's that my apartment's insulation is as thin as my savings.",
+            "Setting the AC to 79 is conscience. Setting it to 82 is monkhood. Turning it off is nirvana — and I'm not ready for enlightenment."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-157",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.boredpanda.com/slumlords-gone-wild-instagram/",
+      "sourceNote": "the market = landlords agreeing on price meme; rewritten original",
+      "tags": ["漲租", "市場行情", "房東", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說漲租是因為「市場行情」。\n後來我才知道，所謂市場行情，\n就是一群房東圍在一起，決定要收我多少錢，\n然後叫它「公道價」。",
+          "editorNote": "適合每次被房東用「行情」當理由漲租的朋友轉發，戳破那個假裝客觀的詞",
+          "variations": [
+            "「市場決定的」翻譯成白話：「我跟隔壁棟房東喝完咖啡決定的。」",
+            "行情這東西很神奇，房租上漲時它存在，押金要退時它就失蹤。"
+          ]
+        },
+        "en": {
+          "content": "My landlord said the rent hike was just 'market rate.'\nLater I learned what market rate really means:\na bunch of landlords standing in a circle, deciding how much to charge me,\nand calling the result 'fair.'",
+          "editorNote": "Send to a friend whose landlord keeps blaming 'the market' for hikes — it pops the fake-objective balloon",
+          "variations": [
+            "'The market decided it' translates to: 'I decided it over coffee with the landlord next door.'",
+            "Market rate is a magical thing: it exists when rent goes up, and vanishes when your deposit's due back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-158",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/254845999",
+      "sourceNote": "Dcard 看房該問什麼問題 register 2026; rewritten original",
+      "tags": ["看房", "房東", "找房", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房的時候，房東問題答得越快越流利，\n通常代表這些問題他已經被問過一百次了。\n答得越順，住起來越要小心。",
+          "editorNote": "傳給第一次自己看房、不知道該問什麼的朋友，提醒他房東的反應比答案更值得觀察",
+          "variations": [
+            "房東說「這邊住戶都很單純」，這句話的可信度跟「不貴啦」一樣。",
+            "看房真正要問的不是有沒有對外窗，是上一個房客為什麼搬走。"
+          ]
+        },
+        "en": {
+          "content": "When you're viewing a place, the faster and smoother the landlord answers your questions,\nthe more times he's already been asked them.\nThe slicker the reply, the more careful you should be once you move in.",
+          "editorNote": "Send to a friend touring their first apartment alone — remind them the landlord's reaction tells you more than the answer",
+          "variations": [
+            "Landlord said 'the tenants here are all easygoing.' That line is about as trustworthy as 'it's not that expensive.'",
+            "The real question at a viewing isn't whether there's a window — it's why the last tenant left."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-159",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.inn-taipei.com/2026-complete-guide-to-electricity-bills/",
+      "sourceNote": "2026 智慧電表 遠端抄表 register; rewritten original",
+      "tags": ["智慧電表", "電費", "房東", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東裝了智慧電表，說可以遠端抄表、更透明。\n結果現在他不用上門，\n就能即時知道我幾點開冷氣、幾點關燈、幾點崩潰。\n透明的好像只有我的生活。",
+          "editorNote": "傳給剛裝智慧電表、覺得自己被房東即時監看的朋友，苦笑科技的雙面刃",
+          "variations": [
+            "以前房東一個月來抄一次表，現在他一秒看一次我的人生。",
+            "智慧電表很公平，它公平地讓房東知道我每一度電都用在掙扎活著。"
+          ]
+        },
+        "en": {
+          "content": "My landlord installed a smart meter — said it'd be remote and 'more transparent.'\nNow he doesn't have to come by\nto know exactly when I turn on the AC, when I switch off the lights, when I break down.\nThe only thing that got transparent was my life.",
+          "editorNote": "Send to a friend who just got a smart meter and feels watched in real time — a bitter laugh at tech's double edge",
+          "variations": [
+            "Landlord used to read the meter once a month. Now he reads my life once a second.",
+            "Smart meters are perfectly fair — they fairly let the landlord see that every unit of power goes toward me struggling to stay alive."
+          ]
+        }
+      }
     }
   ]
 }

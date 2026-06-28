@@ -5291,6 +5291,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-182",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the canonical 「我之前都可以，為什麼現在不行」 line from a Dcard 心情 list of 奧客經典語錄 into a fresh exchange",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我之前來都可以這樣，為什麼現在不行？」\n「因為上次幫您的那位同事，已經被您弄走了。」",
+          "editorNote": "傳給今天又被「我之前都可以」開頭逼到牆角的同事。所謂的『之前可以』，常常是某個人破例幫忙、然後默默離職的結果。",
+          "variations": [
+            "客人說的「之前都可以」，翻譯成白話就是「之前有人不敢拒絕我」。",
+            "規定沒變，變的是這次站在你面前的不是會破例的那位。"
+          ]
+        },
+        "en": {
+          "content": "\"I've always been able to do it this way before — why not now?\"\n\"Because the coworker who used to make exceptions for you finally quit.\"",
+          "editorNote": "For anyone backed into a corner by the \"but I've always been able to\" opener today. \"Always been able to\" usually means someone once bent the rule for you and then quietly resigned.",
+          "variations": [
+            "\"I've always been able to before\" translates to \"someone before was too scared to say no.\"",
+            "The policy didn't change. What changed is that the person in front of you this time isn't the one who breaks the rules."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-183",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the 「叫你們店長出來」 escalation trope from the Dcard 奧客經典語錄 thread into a dry punchline",
+      "tags": [
+        "服務業",
+        "奧客",
+        "客訴",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叫你們店長出來！」\n「我就是店長。」\n「……那叫你們老闆出來。」",
+          "editorNote": "傳給今天被『叫上面的出來』連環Call的同事。他們要的從來不是答案，是一個比你看起來更會怕的人。",
+          "variations": [
+            "客人要找的「上面的人」，本質上是「一個願意對他低頭的人」，跟職位無關。",
+            "升到店長那天我才發現，原來『叫店長出來』之後還有第二關。"
+          ]
+        },
+        "en": {
+          "content": "\"Get me your manager!\"\n\"I am the manager.\"\n\"...Then get me the owner.\"",
+          "editorNote": "For the coworker who got the \"let me speak to someone above you\" combo today. They were never after an answer — just someone who looks more scared of them than you do.",
+          "variations": [
+            "The \"person above you\" a customer demands is really just \"a person willing to grovel\" — rank has nothing to do with it.",
+            "The day I got promoted to manager, I learned there's a second boss fight right after \"get me the manager.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-184",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the 「別家店都可以，只有你們不行」 comparison trope from the Dcard 奧客經典語錄 thread",
+      "tags": [
+        "服務業",
+        "奧客",
+        "餐飲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以這樣，只有你們不行。」\n「那真是辛苦您，特地跑來我們這家不行的。」",
+          "editorNote": "傳給今天被『別家都可以』比較到無語的同事。如果別家真的什麼都可以，那位客人應該早就在別家了，不會站在你面前。",
+          "variations": [
+            "「別家都可以」這句話最神奇的地方是：那麼好的別家，客人卻偏偏選擇來罵你這家。",
+            "別家可不可以我不知道，我只知道別家現在很慶幸這位客人在你這。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other place lets me — only you guys won't.\"\n\"Then thank you for going out of your way to come to the one place that won't.\"",
+          "editorNote": "For the coworker worn down by the \"every other place allows it\" comparison today. If those other places really allowed everything, that customer would already be there — not standing in front of you.",
+          "variations": [
+            "The magic of \"every other place lets me\" is that, given all those wonderful other places, the customer still chose to come yell at yours.",
+            "I don't know whether the other places allow it. I just know the other places are very glad this customer is at yours right now."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-185",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.youtube.com/watch?v=U48Inqxnaa8",
+      "sourceNote": "Inspired by the Dcard 調查局 segment on 服務業 being 「月薪3萬的全能人力」 expected to do everything; rewritten as a job-description joke",
+      "tags": [
+        "服務業",
+        "工作",
+        "低薪",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "職缺寫：「歡迎新鮮人，工作輕鬆。」\n上工第一天才發現：\n收銀、補貨、客訴、打掃、搬重物、被罵——\n薪水是一份，職務是六份。",
+          "editorNote": "傳給每個被『工作輕鬆』四個字騙進來的人。服務業的薪水算的是一個人，工作量算的是一個團隊。",
+          "variations": [
+            "他們說的「一人多工」，意思是『一份薪水，請你扮演整間店』。",
+            "面試時的「工作內容單純」，跟實際上的「什麼都你來」，中間隔著一整本員工手冊。"
+          ]
+        },
+        "en": {
+          "content": "The job post said: \"Newcomers welcome, easy work.\"\nDay one I found out:\nregister, restocking, complaints, cleaning, heavy lifting, getting yelled at —\none salary, six job descriptions.",
+          "editorNote": "For everyone lured in by the words \"easy work.\" In service, the pay is calculated for one person; the workload is calculated for a whole team.",
+          "variations": [
+            "Their \"multitasking role\" means \"one paycheck to play the entire store by yourself.\"",
+            "Between the interview's \"simple duties\" and the reality of \"you handle everything\" sits an entire employee handbook."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-186",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the 「那是你們的問題，不是我的問題」 deflection line from the Dcard 奧客經典語錄 thread into a warmer 心聲 piece",
+      "tags": [
+        "服務業",
+        "奧客",
+        "尊嚴",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人說：「那是你們的問題，不是我的問題。」\n我笑著點頭，\n心裡只記得一件事——\n他的問題會散場，我的下班會準時到。",
+          "editorNote": "傳給今天被推了一身『那是你們的問題』的服務業朋友。把問題全丟給你的人，通常自己一個問題都不想扛；別讓他的情緒住進你的下班時間。",
+          "variations": [
+            "他可以說那是我的問題，但他沒辦法決定我幾點放下它。",
+            "客人的問題是一時的，我的人生是一輩子的，這筆帳我算得很清楚。"
+          ]
+        },
+        "en": {
+          "content": "The customer says, \"That's your problem, not mine.\"\nI smile and nod,\nholding on to just one thing —\nhis problem will clear out, and my shift will end on time.",
+          "editorNote": "For the worker buried under \"that's your problem\" today. People who dump every problem on you usually won't carry a single one themselves — don't let their mood move into your off-hours.",
+          "variations": [
+            "He can call it my problem, but he doesn't get to decide what time I set it down.",
+            "The customer's problem is temporary; my life is permanent. I keep that math very clear."
+          ]
+        }
+      }
     }
   ]
 }

@@ -3509,6 +3509,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-149",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://ruinmyweek.com/memes/funny-tweets-sleep-bed-tired/",
+      "sourceNote": "Inspired by the 'looked forward to bed all day, suddenly wired at 10pm' tweet by Anne Thériault; rewritten with a localized hourly-escalation structure",
+      "tags": ["失眠", "自嘲", "幽默", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "整天都在期待回家躺平。\n晚上十點：欸我怎麼突然超有精神。\n晚上十一點：精神更好了。\n凌晨一點：要不要乾脆把廚房擦一擦。",
+          "editorNote": "「累了一整天結果一躺下就清醒」的精準寫照。傳給那種白天昏沉、晚上突然滿血復活的朋友，會收到一串「這就是我」。",
+          "variations": [
+            "我的身體很奇怪，最該睡的時候它最不想睡。",
+            "白天電量10%，凌晨一點突然充飽到100%。"
+          ]
+        },
+        "en": {
+          "content": "Looked forward to collapsing into bed all day.\n10pm: huh, why am I suddenly wide awake.\n11pm: even more awake.\n1am: should I maybe go wipe down the kitchen.",
+          "editorNote": "A spot-on portrait of being exhausted all day, then weirdly alert the second you lie down. Send it to the friend who's groggy at noon and fully charged at 1am.",
+          "variations": [
+            "My body is strange — it least wants to sleep exactly when it most needs to.",
+            "Battery at 10% all day, then 100% at 1am out of nowhere."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-150",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.huffpost.com/entry/tweets-sleep-struggles_l_5d1a5419e4b07f6ca581e058",
+      "sourceNote": "Inspired by Aparna Nancherla's 'me: time to sleep / anxiety: time for my one-woman show' tweet; rewritten as a theater-program framing",
+      "tags": ["失眠", "焦慮", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我：好，要睡了。\n焦慮：燈光、麥克風準備好，我的單人脫口秀現在開始。\n今晚主題：你這輩子搞砸過的每一件事，依時間順序排好。",
+          "editorNote": "把睡前焦慮包裝成一場「沒人想看的個人表演」，特別有畫面感。傳給躺下就被腦袋拉去開演唱會的朋友。",
+          "variations": [
+            "我準備睡覺，我的焦慮準備開節目，我們時間總是撞在一起。",
+            "燈一關，腦內小劇場就準時開演，而且場場爆滿。"
+          ]
+        },
+        "en": {
+          "content": "Me: okay, time to sleep.\nMy anxiety: lights up, mic on, my one-person show begins now.\nTonight's theme: every single thing you've ever messed up, in chronological order.",
+          "editorNote": "Frames bedtime anxiety as a one-person show nobody asked for — vivid and funny. For the friend whose brain books a concert the moment they lie down.",
+          "variations": [
+            "I get ready to sleep, my anxiety gets ready to perform, and we always book the same slot.",
+            "Lights off, and the brain theater opens right on schedule — sold out every night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-151",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.huffpost.com/entry/tweets-sleep-struggles_l_5d1a5419e4b07f6ca581e058",
+      "sourceNote": "Inspired by Nicole Silverberg's 'bedtime routine: ...oh god I'm on twitter' tweet; rewritten with a localized checklist loop",
+      "tags": ["失眠", "滑手機", "自嘲", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡前流程：\n刷牙、設鬧鐘、喔不我怎麼在滑手機、\n吃褪黑激素、閉上眼睛、我怎麼還在滑手機？",
+          "editorNote": "「明明準備睡覺，手卻自己打開手機」的循環自白。傳給每晚都在這個迴圈裡的朋友，他們會邊笑邊承認。",
+          "variations": [
+            "我的睡前儀式只有一個步驟，就是滑到天亮。",
+            "閉眼三秒，睜眼又是首頁，這是什麼鬼打牆。"
+          ]
+        },
+        "en": {
+          "content": "Bedtime routine:\nbrush teeth, set alarm, oh god why am I on my phone,\ntake melatonin, close eyes, how am I still on my phone???",
+          "editorNote": "The confession of the 'I'm supposed to sleep but my hand opened the phone' loop. Send it to the friend stuck in the same cycle every night — they'll laugh and admit it.",
+          "variations": [
+            "My bedtime ritual has exactly one step: scroll until sunrise.",
+            "Close eyes for three seconds, open them, back on the feed — what kind of haunting is this."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-152",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://shuteye.ai/blog/funny-sleep-quotes",
+      "sourceNote": "Inspired by the 'falling asleep would be easy if my brain came with a mute button' line; rewritten as a product feature-request framing",
+      "tags": ["失眠", "焦慮", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果大腦出廠時有附一顆靜音鍵，\n我大概可以省下這十年的失眠。\n結果它只附了一個音量鍵，而且永遠卡在最大聲。",
+          "editorNote": "把「腦袋停不下來」包裝成產品缺漏的功能許願。資深失眠戶秒懂，適合在又被腦內噪音吵到睡不著的時候發。",
+          "variations": [
+            "我想許願下一代大腦能加上一個睡眠模式。",
+            "別人的腦袋會自動待機，我的腦袋只有「持續運轉」這個選項。"
+          ]
+        },
+        "en": {
+          "content": "If brains shipped with a mute button,\nI could've skipped this whole decade of insomnia.\nInstead it only came with a volume button, and it's permanently stuck on max.",
+          "editorNote": "Repackages the unstoppable brain as a missing product feature. Chronic insomniacs get it instantly. Perfect for when the mental noise won't let you sleep.",
+          "variations": [
+            "I'd like to request a sleep mode for the next generation of brains.",
+            "Other people's brains go on standby. Mine only has the 'keep running' option."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-153",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.therandomvibez.com/3am-thoughts/",
+      "sourceNote": "Original gentle item — extends the healing register with a 'the night isn't a deadline' angle not yet covered",
+      "tags": ["失眠", "療癒", "自我接納", "陪伴"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夜晚不是一份要趕在天亮前完成的作業。\n你睡不睡得著，都不會被打分數。\n慢慢來，這個夜晚會自己過去。",
+          "editorNote": "失眠的人常把「天亮前一定要睡著」當成倒數截止日，反而更睡不著。這句話拆掉那個期限。傳給最近一直跟時鐘賽跑的朋友。",
+          "variations": [
+            "天亮不是終點線，你不用拚著在那之前睡著。",
+            "這個夜晚沒有交期，你可以用自己的速度走完它。"
+          ]
+        },
+        "en": {
+          "content": "The night isn't an assignment due before sunrise.\nWhether you sleep or not, nobody's grading you.\nTake your time — this night will pass on its own.",
+          "editorNote": "Insomniacs often treat 'I have to be asleep before dawn' like a countdown deadline, which only keeps them awake. This removes the deadline. For the friend who's been racing the clock.",
+          "variations": [
+            "Sunrise isn't a finish line. You don't have to be asleep before you cross it.",
+            "This night has no due date. You can get through it at your own pace."
+          ]
+        }
+      }
     }
   ]
 }

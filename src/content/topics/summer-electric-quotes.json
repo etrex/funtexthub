@@ -2529,6 +2529,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-103",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://esg.gvm.com.tw/article/118703",
+      "sourceNote": "住宅電費平均月增 446 元 其中 326 元來自用電量增加 register；改寫原創",
+      "tags": ["夏月電價", "真相", "冷氣", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞解釋：「電費月增 446 元，其中 326 元是你冷氣開太久，只有 120 元是電價漲。」\n我：「所以你的意思是，這筆錢主要不是台電的錯，是我的錯。」\n台電：「我們從沒這樣說，但你說得很對。」",
+          "editorNote": "傳給那個每年都怪台電漲價、但其實是自己捨不得關冷氣的朋友",
+          "variations": [
+            "原來電費變貴，七成是我自己手賤一直按開機，三成才是電價。",
+            "夏天最殘忍的真相：帳單上的數字，大部分是你自己親手養大的。"
+          ]
+        },
+        "en": {
+          "content": "News explains: 'Your bill rose by 446 — but 326 of that is you running the AC longer, only 120 is the rate hike.'\nMe: 'So you're saying this is mostly not the power company's fault, it's mine.'\nPower company: 'We never said that, but you're absolutely right.'",
+          "editorNote": "For the friend who blames the utility every year when it's really their own refusal to hit the off button",
+          "variations": [
+            "Turns out 70% of my pricier bill is my own twitchy finger hitting 'on', and only 30% is the rate.",
+            "The cruelest summer truth: most of the number on that bill is something you raised by hand."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-104",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://www.repair-crm.com/2026/03/27/50-relatable-hvac-memes-why-the-daily-grind-is-better-with-a-laugh-in-2026",
+      "sourceNote": "standing directly in front of the AC vent meme register；改寫原創",
+      "tags": ["冷氣", "出風口", "依賴", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班回到家的第一件事，不是放包包，不是喝水，\n是站在冷氣出風口正下方，把上衣領口拉開，讓冷風灌進去，閉上眼睛，像在做某種神聖的儀式。\n那十秒鐘，是我這天唯一覺得有付電費值得的時刻。",
+          "editorNote": "傳給那個一回家就衝去冷氣出風口下面站著充電的朋友",
+          "variations": [
+            "冷氣出風口下面那塊地板，是我家風水最好的位置。",
+            "夏天的幸福很簡單：出風口、領口、十秒鐘，剩下的我自己想辦法。"
+          ]
+        },
+        "en": {
+          "content": "First thing I do walking in after work isn't dropping my bag or grabbing water —\nit's standing directly under the AC vent, pulling my collar open, letting the cold pour in, eyes closed, like some sacred ritual.\nThose ten seconds are the only moment all day the electric bill feels worth it.",
+          "editorNote": "For the friend who sprints to the vent to recharge the second they get home",
+          "variations": [
+            "The patch of floor under the AC vent is the best real estate in my entire apartment.",
+            "Summer happiness is simple: a vent, an open collar, ten seconds. I'll figure out the rest myself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-105",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://qmonster.cc/energy-efficient/",
+      "sourceNote": "變頻冷氣不關更省 是迷思 累進電價跟時段無關 register；改寫原創",
+      "tags": ["變頻冷氣", "迷思", "累進電價", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我一直相信「變頻冷氣別關比較省」，直到看到專家說：累進電價只看你總共用幾度，跟你什麼時候開、關不關沒關係。\n等於我這三年來那套精心設計的「不關冷氣省電法」，\n從頭到尾都只是我替自己亂吹冷氣找的高級藉口。",
+          "editorNote": "傳給那個堅持冷氣 24 小時不關、還理直氣壯說「這樣才省」的室友",
+          "variations": [
+            "我以為我在省電，其實我只是發明了一個聽起來很科學的浪費理由。",
+            "變頻冷氣最省電的開法，是把那套「不關比較省」的信仰先關掉。"
+          ]
+        },
+        "en": {
+          "content": "I spent years believing 'never turn off an inverter AC, it saves more' — until an expert pointed out: tiered billing only counts total units used, not when you run it or whether you switch it off.\nWhich means my carefully engineered 'never-turn-it-off savings method' of the last three years\nwas, from start to finish, just a fancy excuse I invented for cranking the AC.",
+          "editorNote": "For the roommate who insists on running the AC 24/7 and swears it's the frugal choice",
+          "variations": [
+            "I thought I was saving power. I'd actually invented a scientific-sounding excuse to waste it.",
+            "The most energy-efficient way to run an inverter AC is to first switch off the belief that 'never off saves more'."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-106",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://tech.udn.com/tech/story/123152/9539864",
+      "sourceNote": "夏月電價上路 帳單變貴真相 冷氣設 26 度 循環扇 register；改寫原創",
+      "tags": ["冷氣", "循環扇", "26度", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電：「冷氣 26 度搭循環扇，冷房更快更省。」\n我買了循環扇。\n現在我房間有冷氣的涼、循環扇的風、還有我看著兩張發票時的冷汗。\n三股氣流，完美交織。",
+          "editorNote": "傳給那個為了省電而瘋狂加購各種小家電、結果愈買愈花錢的朋友",
+          "variations": [
+            "省電神器的共通點：買的時候很省，加進電費才知道不省。",
+            "循環扇真的有讓房間更涼，涼到我都忘了它也是要插電的。"
+          ]
+        },
+        "en": {
+          "content": "Power company: 'Set the AC to 78°F and add a circulator fan — faster cooling, more savings.'\nSo I bought a circulator fan.\nNow my room has the AC's chill, the fan's breeze, and a cold sweat from staring at two receipts.\nThree air currents, perfectly intertwined.",
+          "editorNote": "For the friend who keeps buying gadgets to save power and somehow spends more each time",
+          "variations": [
+            "Every 'energy-saving gadget' shares one trait: cheap to buy, not so cheap once it joins the bill.",
+            "The circulator fan really did cool the room down — so much I forgot it also needs to be plugged in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-107",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "https://chucklio.com/summer-trending-jokes/",
+      "sourceNote": "complaining about heat then freezing when AC finally works meme register；改寫原創",
+      "tags": ["冷氣", "矛盾", "人性", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "白天的我：「熱死了，誰受得了，我願意付任何電費換一點涼。」\n冷氣開了二十分鐘後的我：「有點冷欸，把溫度調高一點好了，順便省電。」\n人類的記性，永遠撐不過一台冷氣的暖機時間。",
+          "editorNote": "傳給那個前一秒喊熱、下一秒就喊冷去拿外套的善變朋友",
+          "variations": [
+            "我對熱的承諾，總是在冷氣生效的那一刻被我自己背叛。",
+            "夏天最大的矛盾，是熱的時候願意賣腎，涼的時候捨不得那幾塊電費。"
+          ]
+        },
+        "en": {
+          "content": "Daytime me: 'It's unbearable, I'd pay any electric bill for a little cool air.'\nMe twenty minutes after the AC kicks in: 'Kind of chilly actually, let me bump the temp up — saves power too.'\nHuman memory never outlasts an AC's warm-up time.",
+          "editorNote": "For the fickle friend who screams it's hot one second and grabs a sweater the next",
+          "variations": [
+            "Every promise I make while hot gets betrayed by me the moment the AC starts working.",
+            "Summer's biggest contradiction: I'd sell a kidney when it's hot, then begrudge a few cents of power once it's cool."
+          ]
+        }
+      }
     }
   ]
 }

@@ -5086,6 +5086,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "ct-206",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "",
+      "sourceNote": "貓咪無視昂貴玩具只愛紙箱，原創主子語錄",
+      "tags": ["主子", "貓咪", "紙箱", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你花三百塊買的逗貓棒：\n聞一下，走開。\n\n你花八百塊買的貓跳台：\n看一眼，走開。\n\n那個棒子寄來時裝的紙箱：\n這是朕的宮殿，誰都不准動。",
+          "editorNote": "傳給那個花大錢買玩具、結果貓只玩紙箱的朋友——他家現在一定還留著一個捨不得丟的破箱子",
+          "variations": [
+            "進階版：玩具越貴，被無視的速度越快；這是一條穩定到可以寫進物理課本的定律。",
+            "土味版：我要的從來不是玩具，是那個免費的紙箱，謝謝。"
+          ]
+        },
+        "en": {
+          "content": "The $30 feather wand you bought:\nSniff once. Walk away.\n\nThe $80 cat tower you assembled:\nOne glance. Walk away.\n\nThe cardboard box the wand shipped in:\nThis is my palace. No one may touch it.",
+          "editorNote": "Send to the friend who spent real money on cat toys and still has a beat-up box they're not allowed to throw out",
+          "variations": [
+            "Advanced version: the more expensive the toy, the faster it gets ignored — a law stable enough to print in a physics textbook.",
+            "Plain version: I never wanted the toy. I wanted the free box. Thanks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-207",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "",
+      "sourceNote": "貓咪半夜暴衝 FRAP 行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "半夜", "暴衝", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點十七分。\n\n朕忽然想起一件\n非常緊急的事：\n要從客廳全速衝到房間，\n撞翻一個垃圾桶，\n再衝回來。\n\n什麼事？\n你不會懂，這是機密。",
+          "editorNote": "傳給每個被貓半夜暴衝吵醒、躺在床上問人生意義的養貓人——他剛剛一定又被踩過肚子",
+          "variations": [
+            "進階版：暴衝路線經過精密計算，務必在你剛睡著的那一秒鐘啟動，效果最好。",
+            "土味版：我不是失眠，我是在巡視領土，順便提醒你誰才是這裡的主人。"
+          ]
+        },
+        "en": {
+          "content": "3:17 a.m.\n\nI have suddenly remembered\nsomething extremely urgent:\nsprint from the living room to the bedroom\nat full speed, knock over one trash can,\nthen sprint back.\n\nWhat is it?\nYou wouldn't understand. It's classified.",
+          "editorNote": "Send to every cat owner woken at 3 a.m. by the zoomies — they're lying there questioning their life choices right now",
+          "variations": [
+            "Advanced version: the route is precisely calculated to launch the exact second you finally fall asleep, for maximum effect.",
+            "Plain version: I'm not an insomniac. I'm patrolling my territory and reminding you who's in charge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-208",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "",
+      "sourceNote": "貓咪坐在電腦鍵盤上行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "鍵盤", "工作", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在打字，\n表示你在注意螢幕，\n而不是注意朕。\n\n這個問題很好解決：\n朕直接坐在鍵盤上。\n\n現在你只能看朕了。\n不客氣。",
+          "editorNote": "傳給那個一開電腦、貓就準時坐上鍵盤的居家工作朋友——他的會議一定被「fjjjjjjjj」洗版過",
+          "variations": [
+            "進階版：朕會精準挑在你打到一半、句子最關鍵的那個字時坐上去，這叫掌握節奏。",
+            "土味版：你工作賺的錢是要養我的，所以監工也是一種貢獻。"
+          ]
+        },
+        "en": {
+          "content": "You're typing,\nwhich means you're looking at the screen\nand not at me.\n\nThis is easily solved:\nI will sit directly on the keyboard.\n\nNow you can only look at me.\nYou're welcome.",
+          "editorNote": "Send to the work-from-home friend whose cat lands on the keyboard the moment the laptop opens — their meetings have been flooded with 'fjjjjjjjj'",
+          "variations": [
+            "Advanced version: I time the landing for the exact key in the most important word of your sentence. That's called rhythm.",
+            "Plain version: the money you earn working feeds me, so supervising you is a contribution too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-209",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "",
+      "sourceNote": "貓咪情緒勒索捨不得丟的垃圾，原創主子語錄",
+      "tags": ["主子", "貓咪", "日常", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個你想丟掉的破紙袋，\n那個皺巴巴的瓶蓋，\n那條卡在沙發底下的橡皮筋——\n\n那不是垃圾。\n那是朕的情緒支持物。\n\n你動它一根毛，\n今晚就睡客廳。",
+          "editorNote": "傳給家裡有一堆「不能丟」的貓咪私人收藏的朋友——他清過一次桌子就被主子盯了三天",
+          "variations": [
+            "進階版：那條橡皮筋朕已經追了兩個月，它有名字，有故事，你沒資格決定它的去留。",
+            "土味版：在我這裡，垃圾跟寶物的差別只有一個——我喜不喜歡。"
+          ]
+        },
+        "en": {
+          "content": "That ratty paper bag you want to toss,\nthat crumpled bottle cap,\nthat hair tie stuck under the couch —\n\nThat is not trash.\nThat is my emotional support item.\n\nTouch a single hair of it\nand you're sleeping on the couch tonight.",
+          "editorNote": "Send to the friend whose home is full of cat-approved junk they're forbidden to throw out — they cleared a table once and got side-eyed for three days",
+          "variations": [
+            "Advanced version: I've been chasing that hair tie for two months. It has a name and a backstory, and you don't get a vote on its fate.",
+            "Plain version: around here, the only difference between trash and treasure is whether I like it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-210",
+      "dateAdded": "2026-06-28",
+      "sourceUrl": "",
+      "sourceNote": "貓咪天使惡魔瞬間切換行為，原創主子語錄",
+      "tags": ["主子", "貓咪", "行為", "日常", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "前一秒，\n朕窩在你胸口，\n眼神溫柔，呼嚕作響，\n像一團會發熱的棉花。\n\n下一秒，\n朕從書架頂端，\n把你三個馬克杯一一推下。\n\n是的，這兩個都是朕。",
+          "editorNote": "傳給那個被貓一秒切換天使惡魔模式、永遠抓不準的養貓人——他現在一定一邊心軟一邊掃碎片",
+          "variations": [
+            "進階版：天使模式只是充電，惡魔模式才是出廠設定，別搞錯了。",
+            "土味版：我可愛是給你看的，我搗蛋是給你記住的，兩個都要愛。"
+          ]
+        },
+        "en": {
+          "content": "One second,\nI'm curled on your chest,\neyes soft, purring,\nlike a warm ball of cotton.\n\nThe next second,\nfrom the top of the bookshelf,\nI knock all three of your mugs off, one by one.\n\nYes. Both of these are me.",
+          "editorNote": "Send to the cat owner who can never predict the angel-to-demon switch — they're melting and sweeping up shards at the same time right now",
+          "variations": [
+            "Advanced version: angel mode is just recharging. Demon mode is the factory default. Don't get it twisted.",
+            "Plain version: the cute is for you to enjoy, the chaos is for you to remember. Love both."
+          ]
+        }
+      }
     }
   ]
 }
