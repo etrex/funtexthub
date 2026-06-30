@@ -7561,6 +7561,125 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-269",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://pickupglow.com/coffee-pick-up-lines/",
+      "sourceNote": "改寫自 'I like you a latte' 咖啡哏，改成台灣手搖飲店場景",
+      "tags": [
+        "食物",
+        "甜",
+        "幽默",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是不是手搖飲店的招牌？」\n「為什麼這樣問？」\n「因為我每天都想點你，而且絕對是全糖。」",
+          "editorNote": "排隊買飲料時的破冰款，把對方比成最想喝的那一杯，輕鬆不油膩",
+          "variations": [
+            "你大概是大杯少冰，因為看到你我整個人就消暑了",
+            "別人都選微糖，但你這杯我只想要全糖正常冰"
+          ]
+        },
+        "en": {
+          "content": "\"Are you the bestseller at the boba shop?\"\n\"Why do you ask?\"\n\"Because I'd order you every single day — and always extra sweet.\"",
+          "editorNote": "An icebreaker for the drink-line wait. Casts them as your go-to order. Light and not greasy.",
+          "variations": [
+            "You must be a large with light ice, because one look at you and I instantly cooled off.",
+            "Everyone else picks half-sugar, but you're the one cup I want at full sweetness."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-270",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.marriage.com/advice/dating-advice/science-pick-up-lines/",
+      "sourceNote": "改寫自 'you must be gravity' 物理哏，加入跌倒的雙關互動",
+      "tags": [
+        "科學",
+        "幽默",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你一定是地心引力吧？」\n「啊？為什麼？」\n「不然我怎麼會一直往你身上跌。」",
+          "editorNote": "理工系或喜歡冷知識的人會很買單，配上認真的表情更好笑",
+          "variations": [
+            "我物理一直當掉，因為我滿腦子都是怎麼被你吸過去",
+            "你應該是質量超大的星球，不然我為什麼逃不出你的軌道"
+          ]
+        },
+        "en": {
+          "content": "\"You must be gravity, right?\"\n\"Huh? Why?\"\n\"Because otherwise, why do I keep falling toward you?\"",
+          "editorNote": "STEM crowds and trivia lovers eat this up. Deliver it with a straight face for maximum effect.",
+          "variations": [
+            "I keep failing physics, because all I can think about is how you pull me in.",
+            "You must be a planet with massive mass — otherwise why can't I escape your orbit?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-271",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://pickkupline.com/food-pickup-lines/",
+      "sourceNote": "改寫自 'you melt my heart like chocolate' 巧克力哏，改成台灣常見的便利商店熱可可場景",
+      "tags": [
+        "食物",
+        "甜",
+        "冬天",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道你比超商的熱可可還厲害嗎？」\n「哪有？」\n「熱可可只能暖手，你連我整顆心都融化了。」",
+          "editorNote": "冬天或冷氣房裡用最對味，溫度反差讓土味多了一點真誠",
+          "variations": [
+            "別人喝熱可可暖身，我看到你就從心裡暖起來",
+            "你是不是加了棉花糖，不然怎麼又甜又讓人捨不得喝完"
+          ]
+        },
+        "en": {
+          "content": "\"You know you're better than the hot cocoa at the corner store?\"\n\"How so?\"\n\"Cocoa only warms my hands — you melt my whole heart.\"",
+          "editorNote": "Best in winter or a too-cold air-conditioned room. The temperature contrast adds a little sincerity to the cheese.",
+          "variations": [
+            "Other people drink cocoa to warm up; one look at you and I'm warm from the inside.",
+            "Did someone add marshmallows to you? Because you're so sweet I never want the moment to end."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-272",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://pickupllines.com/science-pickup-lines/",
+      "sourceNote": "改寫自 'are we in a lab, the chemistry feels real' 化學哏，改成圖書館場景的安靜版",
+      "tags": [
+        "科學",
+        "甜",
+        "互動",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「欸，這裡是圖書館對吧？」\n「對啊，要小聲一點。」\n「奇怪，那我們之間的化學反應怎麼這麼大聲。」",
+          "editorNote": "安靜場合的低聲撩，反差感很加分，適合一起讀書或排隊時用",
+          "variations": [
+            "我們明明在念書，怎麼我滿腦子都是你這一題",
+            "圖書館要保持安靜，可是我的心跳實在太吵了"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, this is the library, right?\"\n\"Yeah, keep it down.\"\n\"Weird — then why is the chemistry between us this loud?\"",
+          "editorNote": "A whispered line for a quiet setting; the contrast does the work. Great while studying together or waiting in line.",
+          "variations": [
+            "We're supposed to be studying, but the only thing on my mind is you.",
+            "The library says stay quiet, but my heartbeat clearly didn't get the memo."
+          ]
+        }
+      }
     }
   ]
 }

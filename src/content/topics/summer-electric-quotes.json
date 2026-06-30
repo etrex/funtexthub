@@ -2654,6 +2654,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-108",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://chucklio.com/summer-trending-jokes/",
+      "sourceNote": "「電費太高可能要把房子賣了」meme register；改寫原創",
+      "tags": ["電費", "崩潰", "誇飾", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個月的電費單寄到，我認真坐下來算了一下：\n與其每個月被冷氣電費凌遲，不如直接把房子賣掉，搬去百貨公司住。\n至少那裡的冷氣，不用我付。",
+          "editorNote": "傳給那個拆完帳單後說「乾脆搬去 IKEA 樣品屋住」的朋友",
+          "variations": [
+            "我家最值錢的資產不是房子，是房子裡那台願意為我運轉的冷氣。",
+            "夏天的人生規劃：賣房，退租，搬進一個別人付電費的地方。"
+          ]
+        },
+        "en": {
+          "content": "This month's bill landed, and I sat down to do the math seriously:\ninstead of getting tortured by the AC bill every month, I might as well sell the house and move into a department store.\nAt least their AC isn't on my dime.",
+          "editorNote": "Send to the friend who, after opening the bill, declares they're moving into an IKEA showroom",
+          "variations": [
+            "The most valuable asset in my home isn't the house — it's the AC willing to run for me.",
+            "Summer life plan: sell the house, break the lease, move somewhere someone else pays the power."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-109",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://heatingnewsjournal.com/air-conditioner-memes-funny/",
+      "sourceNote": "站在冷氣出風口前 享受 meme register；改寫原創",
+      "tags": ["冷氣", "出風口", "享受", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "冷氣剛打開的前三分鐘，我會站在出風口正下方，閉上眼睛，雙手張開。\n那不是在吹冷氣，那是一場儀式——\n我在用全身，迎接今晚這幾度電的恩賜。",
+          "editorNote": "傳給那個冷氣一開就立刻衝去站在出風口下的朋友，他在領聖體",
+          "variations": [
+            "出風口正下方那個位置，是我家夏天唯一的 VIP 席。",
+            "冷氣出風口之於夏天，等同暖爐之於冬天——人類永遠在追著溫度跑。"
+          ]
+        },
+        "en": {
+          "content": "For the first three minutes after the AC turns on, I stand directly under the vent, eyes closed, arms wide open.\nThat's not cooling off. That's a ceremony —\nmy whole body receiving the blessing of tonight's few units of power.",
+          "editorNote": "Send to the friend who sprints to stand under the vent the second the AC kicks on — they're taking communion",
+          "variations": [
+            "The spot directly under the vent is the only VIP seat in my house all summer.",
+            "The AC vent is to summer what the heater is to winter — humans forever chasing a temperature."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-110",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.heavyduty.com.tw/knowledge/how-to-save-electricity-with-air-con",
+      "sourceNote": "舒眠模式 半夜被熱醒 register；改寫原創",
+      "tags": ["冷氣", "舒眠模式", "半夜", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡覺開舒眠模式，據說可以省電。\n它的運作原理是：每隔一小時悄悄把溫度調高一度，溫柔到你不會發現。\n直到凌晨四點，你在一灘汗裡醒來，才懂什麼叫做「被自己的省電設定背叛」。",
+          "editorNote": "傳給那個堅持開舒眠模式、然後每天清晨四點準時被熱醒的朋友",
+          "variations": [
+            "舒眠模式的「舒」，是舒服的舒，也是它舒舒服服把溫度調高的舒。",
+            "省電與好眠，夏天的我永遠只能選一個，而我每次都選錯。"
+          ]
+        },
+        "en": {
+          "content": "Sleep mode on the AC supposedly saves power.\nHere's how it works: every hour it quietly nudges the temperature up one degree, so gently you never notice.\nUntil 4 AM, when you wake up in a puddle of sweat and finally understand what it means to be betrayed by your own energy-saving setting.",
+          "editorNote": "Send to the friend who insists on sleep mode and wakes up drenched at 4 AM like clockwork",
+          "variations": [
+            "Sleep mode lets the AC sleep comfortably while it cranks the temperature up — you're the one who doesn't.",
+            "Saving power or sleeping well: summer me can only pick one, and I pick wrong every single night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-111",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "為什麼夏天電費貴 尖峰供電成本 register；改寫原創",
+      "tags": ["夏月電價", "台電", "成本", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電說：「夏天大家都開冷氣，供電成本高，所以電價才貴。」\n我聽完默默點頭，覺得很有道理。\n然後我看了一下我的薪水，發現它沒有因為「大家夏天都很需要錢」而跟著漲。\n供需法則，原來只對台電有效。",
+          "editorNote": "傳給那個聽完台電解釋後，理性上認同、情感上想哭的朋友",
+          "variations": [
+            "夏天什麼都因為「需求高」而漲價，只有我的薪水堅持走計畫經濟。",
+            "我完全理解夏天電價為什麼貴，理解到一邊流淚一邊繳費。"
+          ]
+        },
+        "en": {
+          "content": "The power company explains: 'Everyone runs the AC in summer, supply costs spike, so rates go up.'\nI nod along quietly. Makes total sense.\nThen I check my salary and notice it didn't rise just because 'everyone needs money more in summer.'\nTurns out the law of supply and demand only applies to the power company.",
+          "editorNote": "Send to the friend who rationally agrees with the utility's explanation while emotionally wanting to cry",
+          "variations": [
+            "Everything in summer goes up because 'demand is high' — only my salary insists on a planned economy.",
+            "I fully understand why summer rates are high. I understand it while paying the bill in tears."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-112",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://cheezburger.com/45692165/celebrating-humanitys-greatest-invention-21-air-conditioning-memes-for-anyone-surviving-another",
+      "sourceNote": "冷氣是人類最偉大發明 熱浪求生 register；改寫原創",
+      "tags": ["冷氣", "熱浪", "求生", "感激"],
+      "i18n": {
+        "zh-tw": {
+          "content": "熱浪來襲的這幾天，我終於想通了一件事：\n人類史上最偉大的發明，不是火、不是輪子、不是網路，\n是冷氣。\n火讓我們活下來，冷氣讓我們在夏天「願意」活下來。",
+          "editorNote": "傳給那個在熱浪特報那天，對著冷氣外機默默感謝的朋友",
+          "variations": [
+            "我可以三天不出門，但不能三小時沒冷氣，這是我這個夏天認清的底線。",
+            "發明冷氣的人應該被立銅像，立在一個有冷氣的室內。"
+          ]
+        },
+        "en": {
+          "content": "After these few days of heatwave, I've finally figured something out:\nthe greatest invention in human history isn't fire, isn't the wheel, isn't the internet —\nit's air conditioning.\nFire let us survive. AC is what makes us willing to survive summer.",
+          "editorNote": "Send to the friend who silently thanks the AC compressor on the day of a heat advisory",
+          "variations": [
+            "I can go three days without leaving home, but not three hours without AC — that's the line I drew this summer.",
+            "Whoever invented air conditioning deserves a bronze statue, erected somewhere indoors with the AC on."
+          ]
+        }
+      }
     }
   ]
 }

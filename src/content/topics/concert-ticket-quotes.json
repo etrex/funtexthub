@@ -2656,6 +2656,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-116",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://help.tixcraft.com/hc/en-us/categories/360003801597-Refunds",
+      "sourceNote": "拓元退票政策:購票後3日內(不含當天)可退,每張收票面5%手續費,第4日起不受理,且僅能整筆訂單退票無法單張退",
+      "tags": ["退票", "手續費", "拓元", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我想退一張票。\n\n系統說:不能單張退,\n只能整筆退,\n而且每張扣 5%。\n\n搶的時候要全家動員,\n退的時候要全家陪葬。",
+          "editorNote": "拓元只能整筆退、單張不退的規則讓多人團購卡死。傳給因為其中一人不能去、卻得全團一起退的朋友",
+          "variations": [
+            "算數版:「退票扣 5%,等於我為了學會『下次別衝動』,付了一筆學費給系統。」"
+          ]
+        },
+        "en": {
+          "content": "I wanted to refund one ticket.\n\nThe system said: no single refunds,\nonly the whole order,\nminus 5% per seat.\n\nGrabbing them took the whole family.\nRefunding them takes the whole family down with me.",
+          "editorNote": "All-or-nothing refunds wreck group buys when one person can't make it. Send to the friend forced to unwind an entire order over one no-show",
+          "variations": [
+            "Math version: 'A 5% refund fee — basically tuition I paid the system to finally learn don't impulse-buy.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-117",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://help.tixcraft.com/hc/en-us/articles/4404364680209-Refund-Policy",
+      "sourceNote": "拓元規定:若因姓名填寫錯誤無法入場,視為個人因素退票,酌收10%退票手續費",
+      "tags": ["姓名錯誤", "退票", "實名制", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把名字打錯一個字,\n現場進不去。\n\n系統說這是「個人因素」,\n退票扣我 10%。\n\n一個錯字 10%,\n我這輩子的作文\n從來沒被扣這麼兇過。",
+          "editorNote": "實名制下姓名打錯一字就進不去、還被當個人因素扣 10%,是 2026 最容易踩的雷。傳給填錯資料正在懊悔的朋友",
+          "variations": [
+            "懊悔版:「少打一個字,賠掉一成票錢。注音選字的那 0.5 秒,是我今年最貴的 0.5 秒。」"
+          ]
+        },
+        "en": {
+          "content": "I mistyped one letter of my name\nand couldn't get in.\n\nThe system called it 'personal error'\nand kept 10% on the refund.\n\nOne typo, 10% gone.\nNo essay I ever wrote in school\ngot docked this hard.",
+          "editorNote": "Under real-name entry, a single typo can lock you out and cost a 10% refund fee. Send to the friend kicking themselves over a slip in the checkout form",
+          "variations": [
+            "Regret version: 'One missing letter, one-tenth of the ticket gone. That half-second of autocorrect was the most expensive half-second of my year.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-118",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021394",
+      "sourceNote": "五月天大巨蛋周邊商品開賣,粉絲清晨排隊搶限量周邊;官方應援物品建議官方渠道購買",
+      "tags": ["周邊", "排隊", "限量", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搶到票了。\n\n以為苦難結束,\n結果還有周邊要排。\n\n清晨五點到場排周邊,\n排到中午,\n限量款在我前一個人手上\n剛好賣完。\n\n命運從不缺席,\n只缺我。",
+          "editorNote": "搶到票只是第一關,限量周邊得清晨再排一次是 2026 真實場景。傳給排周邊排到最後一個剛好賣完的朋友",
+          "variations": [
+            "認命版:「票搶到、周邊沒搶到。我在這場演唱會的身分,從歌迷降級成『現場見證限量售罄的人』。」"
+          ]
+        },
+        "en": {
+          "content": "I got the ticket.\n\nThought the suffering was over.\nThen came the merch line.\n\nLined up at 5 a.m.,\nstood till noon,\nand the limited drop sold out\non the person right in front of me.\n\nFate never misses.\nIt just misses me.",
+          "editorNote": "Scoring a ticket is only round one — limited merch means lining up all over again. Send to the friend who got cut off one spot from the last item",
+          "variations": [
+            "Resigned version: 'Got the ticket, missed the merch. My role at this show just got demoted from fan to eyewitness of a sellout.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-119",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://tw.news.yahoo.com/%E4%BA%94%E6%9C%88%E5%A4%A97%E6%9C%88%E9%87%8D%E8%BF%94%E5%A4%A7%E5%B7%A8%E8%9B%8B-7%E5%A0%B4%E6%BC%94%E5%94%B1%E6%9C%83%E5%AE%8C%E5%94%AE%EF%BC%81%E6%99%82%E9%96%93%E5%9C%B0%E9%BB%9E%E3%80%81%E5%94%AE%E7%A5%A8%E6%99%82%E9%96%93%E3%80%81%E7%A5%A8%E5%83%B9%E5%BA%A7%E4%BD%8D%E4%B8%80%E6%AC%A1%E7%9C%8B-033503317.html",
+      "sourceNote": "五月天 7/3 大巨蛋首場開唱在即;搶到票的粉絲開始倒數,期待與焦慮並存",
+      "tags": ["倒數", "開唱", "期待", "演唱會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "距離開唱剩 3 天。\n\n我每天打開行事曆看一次,\n好像怕它會不見。\n\n搶到票之前,\n我倒數的是希望。\n搶到票之後,\n我倒數的是\n終於輪到我的那一天。",
+          "editorNote": "搶到票後進入幸福倒數,是少數正向的搶票情緒。傳給也在每天數日子等開唱的幸運兒一起興奮",
+          "variations": [
+            "幸福版:「以前倒數是焦慮,現在倒數是甜的。同樣一個數字往下掉,心情整個翻面。」"
+          ]
+        },
+        "en": {
+          "content": "Three days till the show.\n\nI open my calendar once a day\nlike I'm afraid the date will vanish.\n\nBefore I had the ticket,\nI was counting down hope.\nNow I'm counting down\nto the day it's finally my turn.",
+          "editorNote": "Counting down after you actually got in is one of the rare happy ticket emotions. Send to the lucky friend who's also marking off the days till showtime",
+          "variations": [
+            "Sweet version: 'The countdown used to be anxiety. Now it's sugar. Same number ticking down, totally opposite feeling.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-120",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "2026 搶票攻略文揭密「黃牛也在用的搶票工具與技巧」;一般粉絲手動操作難敵自動化",
+      "tags": ["黃牛工具", "自動化", "搶票", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "攻略文標題:\n「黃牛也在用的搶票神器」。\n\n我認真讀完才發現——\n\n原來我從頭到尾\n是用一雙手,\n跟一整排機器人賽跑。\n\n難怪我輸得這麼徹底。",
+          "editorNote": "一般粉絲手動操作對上黃牛自動化工具,結構性必輸是搶票最深的無力感。傳給堅持純手動卻每次摃龜的朋友",
+          "variations": [
+            "認命版:「人家用神器,我用手指。這場比賽不是我不努力,是我帶錯了裝備來打仗。」"
+          ]
+        },
+        "en": {
+          "content": "The guide's headline:\n'The same bots the scalpers use.'\n\nI read the whole thing\nand only then realized —\n\nthe entire time\nI'd been racing a wall of bots\nwith two bare hands.\n\nNo wonder I lost so completely.",
+          "editorNote": "Manual fans versus automated scalper tools is a structurally rigged race — the deepest helplessness of the ticket era. Send to the purist friend who refuses bots and loses every time",
+          "variations": [
+            "Resigned version: 'They brought software, I brought fingertips. I didn't lose for lack of effort — I showed up to the war with the wrong gear.'"
+          ]
+        }
+      }
     }
   ]
 }

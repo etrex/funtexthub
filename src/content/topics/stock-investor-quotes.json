@@ -2561,6 +2561,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-103",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "PTT 股板「庫存綠到有牛在上面吃草」經典幹話 register；改寫原創",
+      "tags": ["套牢", "庫存", "厭世", "PTT"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問我最近庫存還好嗎。\n我說還好，綠油油的，一片生機盎然。\n他說那不錯啊。\n我說對啊，綠到我都看到有一頭牛，在我的庫存上面悠閒地吃草了。",
+          "editorNote": "送給每個對帳單綠到發慌、只能用幽默自救的同好，貼在群組互相取暖",
+          "variations": [
+            "我的庫存不是賠，是在發展一片永續的綠色生態。",
+            "別人的庫存紅紅火火，我的庫存綠草如茵，適合野餐。"
+          ]
+        },
+        "en": {
+          "content": "A friend asked how my positions were doing lately.\nI said pretty good — nice and green, full of life.\nHe said that sounds great.\nI said yeah, so green I can see a cow up there, grazing peacefully on top of my portfolio.",
+          "editorNote": "For everyone whose statement is green enough to panic over and who can only cope with humor — share in the group chat",
+          "variations": [
+            "My portfolio isn't down. It's cultivating a sustainable green ecosystem.",
+            "Other people's positions are blazing red. Mine are a lush green meadow, perfect for a picnic."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-104",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://vocus.cc/article/6a3291d8fd89780001e26fcb",
+      "sourceNote": "「別人恐懼我貪婪，別人小虧我破產」改編巴菲特名言 register；改寫原創",
+      "tags": ["巴菲特", "名言", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "巴菲特說：別人恐懼時我貪婪，別人貪婪時我恐懼。\n我把這句話奉為圭臬，認真執行了好幾年。\n執行結果是：別人小虧的時候，我已經破產；別人大賺的時候，我還在場邊恐懼。\n看來名言要會用，不是會背。",
+          "editorNote": "適合在抄了一堆投資金句卻越做越賠的時候，提醒自己金句不等於獲利",
+          "variations": [
+            "我很會在別人恐懼時貪婪，只是我永遠抓不準別人到底有沒有在恐懼。",
+            "投資金句我背得滾瓜爛熟，帳戶卻一點都不熟。"
+          ]
+        },
+        "en": {
+          "content": "Buffett said: be greedy when others are fearful, and fearful when others are greedy.\nI made it my gospel and followed it faithfully for years.\nThe result: by the time others were taking small losses, I was already bankrupt; by the time others were raking it in, I was still on the sidelines, afraid.\nTurns out a great quote is something you use, not just memorize.",
+          "editorNote": "For when you've collected a hundred investing quotes and somehow keep losing — a quote is not a return",
+          "variations": [
+            "I'm great at being greedy when others are fearful. I just can never tell whether they're actually fearful.",
+            "I know every investing quote by heart. My account, not so much."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-105",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://punsx.com/stock-market-puns/",
+      "sourceNote": "「charts look like modern art」IG caption register；改寫原創",
+      "tags": ["K線", "看盤", "自嘲", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我打開那檔股票的線圖，整個人愣了三秒。\n紅的綠的長的短的，雜亂無章地擠在一起，看不出任何規律。\n後來我想通了：這不是 K 線圖，這是一幅抽象藝術。\n難怪我看不懂——因為它本來就不是要給人看懂的，是要給人感受痛的。",
+          "editorNote": "適合在盯著一團亂的線圖、怎麼看都看不出方向時自嘲",
+          "variations": [
+            "我看不懂這張線圖，但我看得懂我帳戶的眼淚。",
+            "別人的 K 線是技術分析，我的 K 線是當代藝術，重點在於意境。"
+          ]
+        },
+        "en": {
+          "content": "I pulled up the chart and froze for three seconds.\nReds, greens, long ones, short ones, all crammed together with no pattern in sight.\nThen it clicked: this isn't a candlestick chart, it's a piece of abstract art.\nNo wonder I can't read it — it was never meant to be understood, only to be felt, painfully.",
+          "editorNote": "For staring at a chaotic chart that refuses to show you any direction no matter how long you look",
+          "variations": [
+            "I can't read this chart, but I can read the tears in my account.",
+            "Other people's candles are technical analysis. Mine are contemporary art — it's all about the vibe."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-106",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://udn.com/news/story/12806/9573661",
+      "sourceNote": "「反指標 / 名人喊單反著做」郭哲榮反指標 register；改寫原創 (不指名真人)",
+      "tags": ["反指標", "喊單", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "群組裡有一個人，每次喊買，那檔股票隔天必跌；每次喊賣，那檔股票隔天必漲。\n後來大家發現，他根本是一座精準到嚇人的反指標燈塔。\n於是全群組開始反著他做，個個都賺。\n直到有一天他默默退群——因為他發現那座反指標燈塔，其實是我們大家合起來的平均。",
+          "editorNote": "送給每個群組裡都有的那位「反指標」朋友，貼上去前先確認自己不是那一位",
+          "variations": [
+            "市場上最準的指標，是某個朋友的信心。他越有信心，你就越要小心。",
+            "我不是反指標，我只是剛好每次都站在對的反面。"
+          ]
+        },
+        "en": {
+          "content": "There's a guy in the group chat: every time he calls a buy, the stock drops the next day; every time he calls a sell, it rips the next day.\nEventually everyone realized he's a terrifyingly accurate contrarian beacon.\nSo the whole chat started fading him, and everyone started winning.\nUntil one day he quietly left — because he figured out that the contrarian beacon was just the average of all of us combined.",
+          "editorNote": "For the resident 'reverse indicator' friend every group chat has — make sure you're not the one before posting",
+          "variations": [
+            "The most accurate signal in the market is a certain friend's confidence. The surer he is, the more careful you should be.",
+            "I'm not a contrarian indicator. I just happen to stand on the wrong side every single time."
+          ]
+        }
+      }
     }
   ]
 }

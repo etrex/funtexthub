@@ -3918,6 +3918,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-160",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.ptt.cc/bbs/home-sale/M.1768656750.A.6F4.html",
+      "sourceNote": "2026 租屋補助突被追回 收公文崩潰 viral case; rewritten original",
+      "tags": ["補助", "追回", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "去年領的租屋補助，今年收到一張公文叫我吐回來。\n理由是房子登記不符規定。\n那不是房東的問題嗎？\n結果罰的是繳房租的我，不是收房租的他。",
+          "editorNote": "傳給收到補助追回公文的朋友，先安撫情緒，再提醒他保留所有租約跟匯款紀錄申訴",
+          "variations": [
+            "政府去年給我補助，今年要我還，房東從頭到尾沒事——這遊戲只有租客在賠。",
+            "補助領的時候是恩惠，追回的時候是欠款，我從受惠者一夜變成債務人。"
+          ]
+        },
+        "en": {
+          "content": "Got a rent subsidy last year.\nThis year a letter showed up telling me to pay it all back.\nReason: the building wasn't registered correctly.\nIsn't that the landlord's problem?\nTurns out the one paying rent gets penalized, not the one collecting it.",
+          "editorNote": "Send to a friend who got a subsidy-clawback notice — calm them down first, then remind them to keep every lease and payment record for the appeal",
+          "variations": [
+            "The government gave me a subsidy last year and wants it back this year. The landlord stays untouched the whole time — only the tenant pays in this game.",
+            "When they hand you the subsidy it's a favor. When they claw it back it's a debt. I went from beneficiary to debtor overnight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-161",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://thunderdungeon.com/2026/01/13/25-renter-memes-for-anyone-stuck-in-the-lease-loop/",
+      "sourceNote": "2026 'congratulations on having a home, afford nothing else' meme; rewritten original",
+      "tags": ["房租", "薪水", "厭世", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "恭喜你，你有一個家了。\n壞消息是，從今以後你買不起其他任何東西。",
+          "editorNote": "適合每月繳完房租、看著空蕩蕩存款的人自嘲，配一張只剩兩位數的餘額截圖",
+          "variations": [
+            "我有屋簷遮頭，也有吃土的自由，兩者剛好同時擁有。",
+            "繳完房租那一刻，我終於體會什麼叫「有家但沒有人生」。"
+          ]
+        },
+        "en": {
+          "content": "Congratulations, you have a home.\nThe bad news is, from now on you can't afford literally anything else.",
+          "editorNote": "Perfect self-deprecation for staring at your gutted savings after rent — pair it with a screenshot of a two-digit balance",
+          "variations": [
+            "I've got a roof over my head and the freedom to eat dirt — and I get both at the exact same time.",
+            "The moment rent clears, I finally understand what 'a home but no life' means."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-162",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://cheezburger.com/38562053/22-memes-fresh-on-the-market-for-renters-who-are-fed-up-with-the-landlord-special",
+      "sourceNote": "2026 'funding his third vacation home, passive income vs daylight robbery' meme; rewritten original",
+      "tags": ["房租", "房東", "通膨", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我每個月繳的房租，\n剛好夠房東的第三間度假屋繳貸款。\n他說這叫被動收入，\n我說這叫光天化日的搶劫。",
+          "editorNote": "傳給每次繳房租都覺得在養房東的朋友，互相認清這個現實的荒謬",
+          "variations": [
+            "房東的被動收入，是我主動加班換來的。",
+            "我繳房租是為了有地方住，他收房租是為了有地方度假，我們的需求層次差好多。"
+          ]
+        },
+        "en": {
+          "content": "The rent I pay every month\njust about covers the mortgage on my landlord's third vacation home.\nHe calls it passive income.\nI call it daylight robbery.",
+          "editorNote": "Send to a friend who feels like rent is just funding the landlord's lifestyle — face the absurdity of it together",
+          "variations": [
+            "My landlord's passive income is funded by my very active overtime.",
+            "I pay rent so I have somewhere to live. He collects rent so he has somewhere to vacation. Our hierarchy of needs is wildly different."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-163",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://thunderdungeon.com/2026/01/13/25-renter-memes-for-anyone-stuck-in-the-lease-loop/",
+      "sourceNote": "2026 'sink makes a noise like summoning a demon' renting meme; rewritten original",
+      "tags": ["設備", "老屋", "報修", "聲音"],
+      "i18n": {
+        "zh-tw": {
+          "content": "租屋是一場很好玩的遊戲：\n你付一筆付不起的錢，\n然後你的水槽還是會發出一種像在召喚惡魔的聲音。",
+          "editorNote": "適合半夜被家裡怪聲嚇醒、報修又石沉大海的朋友，苦笑著傳給他",
+          "variations": [
+            "我家的水槽不是壞掉，是在練習通靈，房東說那是「正常使用聲」。",
+            "我付全額房租，換來一個會自己唱歌的水管，這 CP 值我給負分。"
+          ]
+        },
+        "en": {
+          "content": "Renting is a fun little game:\nyou pay an amount of money you can't afford,\nand your sink still makes a noise like it's summoning a demon.",
+          "editorNote": "Perfect for a friend jolted awake by weird noises at night whose repair request vanished into the void — send it with a bitter laugh",
+          "variations": [
+            "My sink isn't broken, it's practicing necromancy. My landlord calls it 'normal operating sound.'",
+            "I pay full rent and get a pipe that sings to itself. The value-for-money score is negative."
+          ]
+        }
+      }
     }
   ]
 }

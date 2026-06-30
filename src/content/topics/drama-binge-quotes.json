@@ -2702,6 +2702,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-118",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.zhihu.com/question/51636806",
+      "sourceNote": "追完劇後巨大空虛感 register 改寫成「結局空窗期」自嘲，原創改編",
+      "tags": ["追劇心得", "結局", "空虛", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "追完一部好劇的隔天，\n你會經歷一種沒人警告過你的悲傷。\n\n你早上醒來，\n想著「等等可以看劇」，\n然後想起——沒有了。\n\n你打開播放清單，\n看著那部已經全部看完的劇，\n滑鼠停在上面，捨不得移開。\n\n你試著看別部，\n看了三分鐘，\n覺得這些角色都好陌生、好冷淡、\n沒有一個人懂你。\n\n你不是在找下一部劇，\n你是在找一個可以再陪你一次的世界。\n\n而它已經結束了，\n只剩你還活在裡面。",
+          "editorNote": "傳給那個剛追完封神劇、整個人魂不守舍、看什麼都覺得無聊的朋友——讓他知道這不是矯情，是真的會難過",
+          "variations": [
+            "拖延版：你遲遲不看最後一集，不是不想知道結局，是不想讓這段陪伴正式畫上句點——你在替自己延後一場告別"
+          ]
+        },
+        "en": {
+          "content": "The morning after finishing a great show,\nyou feel a grief nobody warned you about.\n\nYou wake up\nthinking \"I can watch my show later,\"\nthen remember — there's no more.\n\nYou open your watchlist,\nstare at the show you've already finished,\nhover the cursor over it, unable to click away.\n\nYou try something new.\nThree minutes in,\nthese characters feel like strangers, cold and distant,\nnone of them get you.\n\nYou're not looking for the next show.\nYou're looking for a world that'll keep you company one more time.\n\nAnd it's already over.\nOnly you are still living inside it.",
+          "editorNote": "Send to the friend who just finished a peak show, is wandering around in a daze, and finds everything else boring — let them know it isn't melodrama, the sadness is real",
+          "variations": [
+            "Stalling version: you keep putting off the final episode — not because you don't want to know the ending, but because you don't want this companionship to officially end. You're postponing a goodbye for yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-119",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.thenewslens.com/article/120191",
+      "sourceNote": "演算法推薦、片單囤積與「推薦給朋友自己沒看完」現象自嘲，原創改編",
+      "tags": ["追劇習慣", "片單", "拖延", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的待看清單裡有四十七部劇。\n\n有十部是朋友強力推薦、你說「一定看」的。\n有八部是你存了兩年、每次滑過去都說「之後一定看」的。\n有五部是你看了一集就停、但捨不得刪的。\n還有一部，你昨天才推薦給別人，自己其實沒看完。\n\n演算法很懂你，\n每天都給你二十個新選擇。\n\n但你最後還是\n第六次重看那部你早就會背的老劇。\n\n你不是沒有東西可看，\n你是在這麼多選擇裡，\n只想回到那個你已經知道結局、卻還是會被感動的地方。",
+          "editorNote": "傳給那個待看清單滿到爆、最後還是重看同一部老劇的朋友——大家都一樣",
+          "variations": [
+            "嘴硬版：朋友問你那部你大力推薦的劇好不好看，你說「超好看你一定要看」——其實你看到第四集就放著了，但你相信它後面一定很好看"
+          ]
+        },
+        "en": {
+          "content": "There are forty-seven shows on your watchlist.\n\nTen are ones friends pushed hard and you swore you'd watch.\nEight you saved two years ago and keep scrolling past with \"definitely soon.\"\nFive you watched one episode of and can't bring yourself to delete.\nAnd one you recommended to someone yesterday — without actually finishing it.\n\nThe algorithm knows you well,\nfeeding you twenty new options a day.\n\nAnd yet you end up\nrewatching, for the sixth time, the old show you already know by heart.\n\nIt's not that you have nothing to watch.\nIt's that out of all these choices,\nyou just want to go back to the one place where you already know the ending and still get moved by it.",
+          "editorNote": "Send to the friend whose watchlist is overflowing and who still rewatches the same old comfort show — we're all the same",
+          "variations": [
+            "Stubborn version: a friend asks if the show you hyped is any good. You say \"it's amazing, you have to watch it.\" In truth you stopped at episode four — but you firmly believe it gets great later."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-120",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://grokipedia.com/page/Binge-watching",
+      "sourceNote": "自動播放下一集 cliffhanger 多巴胺機制 register 改寫成「自動播放是個騙局」自嘲，原創改編",
+      "tags": ["熬夜", "追劇習慣", "套路", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "自動播放下一集，\n是這個時代最溫柔的陷阱。\n\n它不問你要不要繼續，\n它只給你十五秒。\n\n那十五秒裡，\n你的理智說：「該睡了。」\n你的手指說：「我先不要動，看它會怎樣。」\n\n然後片頭曲一響，\n你就輸了。\n\n你以為你有選擇，\n其實設計這個按鈕的人，\n比你還了解你會怎麼做。\n\n那個「正在播放下一集」的倒數，\n不是在問你，\n是在告訴你：\n你今天又不會早睡了。",
+          "editorNote": "傳給那個每次都怪「自動播放害的」、其實是自己不想關的朋友——點破那十五秒的真相",
+          "variations": [
+            "反抗失敗版：你下定決心關掉自動播放，結果發現手動點下一集只比較費力、一點也沒比較少看——問題從來不是那個按鈕"
+          ]
+        },
+        "en": {
+          "content": "Autoplay-next-episode\nis the gentlest trap of our era.\n\nIt doesn't ask whether you want to continue.\nIt just gives you fifteen seconds.\n\nIn those fifteen seconds,\nyour reason says, \"Time for bed.\"\nYour finger says, \"I'll just sit still and see what happens.\"\n\nThen the theme song kicks in,\nand you've lost.\n\nYou think you had a choice.\nBut whoever designed that button\nunderstands what you'll do better than you do.\n\nThat \"playing next episode\" countdown\nisn't asking you anything.\nIt's telling you:\nyou're not going to bed early tonight either.",
+          "editorNote": "Send to the friend who always blames autoplay when really they just didn't want to turn it off — call out the truth about those fifteen seconds",
+          "variations": [
+            "Failed-rebellion version: you firmly switch off autoplay, only to discover that clicking 'next' manually is just slightly more effort and not one episode fewer. The problem was never the button."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-121",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "追劇成癮5徵兆 register 改寫成「你不是看劇，是在借住另一種人生」共鳴向，原創改編",
+      "tags": ["追劇心得", "共鳴", "情緒", "追劇習慣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人問你為什麼那麼愛追劇，\n你通常隨便說「打發時間」。\n\n但真正的原因你沒說：\n\n下班後那兩個小時，\n你不想當那個要回訊息、要繳帳單、要假裝沒事的自己。\n\n你想暫時借住在別人的人生裡，\n替陌生人緊張、替陌生人哭、替陌生人開心，\n用力地、毫無保留地。\n\n因為替自己，你早就不敢這樣了。\n\n劇裡的人替你哭了你哭不出來的，\n替你說了你說不出口的。\n\n你不是上癮，\n你只是需要一個地方，\n讓情緒有處可去。",
+          "editorNote": "傳給那個被唸「整天追劇」、但其實是靠追劇撐過低潮的朋友——溫柔地告訴他，這沒什麼好羞愧的",
+          "variations": [
+            "輕鬆版：所以下次有人說你太投入，你可以說——我只是把哭的額度，借給了不認識的人，總比憋著好"
+          ]
+        },
+        "en": {
+          "content": "When people ask why you love bingeing shows so much,\nyou usually just say \"to kill time.\"\n\nBut the real reason you keep to yourself:\n\nFor those two hours after work,\nyou don't want to be the you who has texts to answer, bills to pay, a brave face to keep.\n\nYou want to borrow someone else's life for a while —\nto be nervous for strangers, cry for strangers, be happy for strangers,\nfully, without holding back.\n\nBecause for yourself, you stopped daring to feel that way long ago.\n\nThe people on screen cry the tears you can't,\nsay the things you never could.\n\nYou're not addicted.\nYou just need a place\nfor your feelings to go.",
+          "editorNote": "Send to the friend who gets nagged for bingeing all the time but is really using it to get through a rough patch — gently tell them there's nothing to be ashamed of",
+          "variations": [
+            "Lighter version: so next time someone says you're too invested, you can say — I'm just lending my quota of tears to people I've never met. Beats bottling it up."
+          ]
+        }
+      }
     }
   ]
 }

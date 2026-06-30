@@ -7707,6 +7707,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-266",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
+      "sourceNote": "AI coding era joke — the real skill is prompting now, rewritten",
+      "tags": [
+        "AI",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在當工程師最難的已經不是寫程式了，\n是怎麼跟 AI 解釋清楚你到底要什麼。\n你以為你在寫程式，\n其實你只是在跟一個很有自信但常常猜錯的實習生吵架。",
+          "editorNote": "傳給最近天天開 AI 工具的同事，他會一邊苦笑一邊默默把這句存起來。",
+          "variations": [
+            "延伸：以前 google 不會的就問 Stack Overflow，現在問 AI，答案一樣不能直接抄。",
+            "也可以是：AI 幫我寫了一個函式，我花了三小時看懂它在做什麼，比自己寫還久。"
+          ]
+        },
+        "en": {
+          "content": "The hardest part of being a developer now isn't writing code,\nit's explaining to the AI what you actually want.\nYou think you're programming,\nbut really you're just arguing with a very confident intern who keeps guessing wrong.",
+          "editorNote": "Send it to whoever's been living inside an AI assistant lately — they'll smile through the pain and save it.",
+          "variations": [
+            "Extension: we used to ask Stack Overflow what we didn't know; now we ask the AI, and we still can't copy-paste the answer.",
+            "Alternate: the AI wrote me a function, and I spent three hours figuring out what it does. Longer than writing it myself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-267",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "Git merge conflict from one space joke, rewritten",
+      "tags": [
+        "git",
+        "工程師日常",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是加了一個空格，\n結果跳出來十七個 merge conflict。\n那一刻我終於懂了，\n所謂的版本控制，控制的其實是我的情緒。",
+          "editorNote": "傳給正在解 conflict 解到天亮的隊友，附帶一句『辛苦了』效果更好。",
+          "variations": [
+            "延伸：解完 conflict 才發現，我其實可以不要動那個空格。",
+            "也可以是：git stash 是我的夢想跟希望躲起來的地方。"
+          ]
+        },
+        "en": {
+          "content": "I added one single space,\nand seventeen merge conflicts appeared.\nThat was the moment I finally understood —\nwhat version control really controls is my emotions.",
+          "editorNote": "Send it to the teammate untangling conflicts till sunrise; add a 'hang in there' for full effect.",
+          "variations": [
+            "Extension: after resolving them all, I realized I never needed to touch that space anyway.",
+            "Alternate: git stash — where my hopes and dreams go to hide."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-268",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://jokeorbit.com/git-jokes/",
+      "sourceNote": "git blame keeps office drama alive joke, rewritten",
+      "tags": [
+        "git",
+        "辦公室",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "git blame 表面上是用來查 bug 是誰寫的，\n實際上是用來維持辦公室戲劇張力的。\n每次我點開來想罵人，\n最後出現的名字幾乎都是三個月前的自己。",
+          "editorNote": "傳到團隊群組保證引起一片『對，我也是』的共鳴。",
+          "variations": [
+            "延伸：所以我學會了一件事，罵人之前先看清楚是誰寫的。",
+            "也可以是：git blame 不會解決問題，但會幫你找到下一個道歉對象——通常是你自己。"
+          ]
+        },
+        "en": {
+          "content": "Officially, git blame exists to find out who wrote the bug.\nUnofficially, it exists to keep office drama alive.\nEvery time I open it ready to yell at someone,\nthe name that shows up is almost always me, three months ago.",
+          "editorNote": "Drop it in the team channel and watch the 'yep, same' replies roll in.",
+          "variations": [
+            "Extension: so I learned one rule — check who wrote it before you start yelling.",
+            "Alternate: git blame doesn't fix anything, but it does find your next apology target. Usually yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-269",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "dark mode because light attracts bugs joke, rewritten",
+      "tags": [
+        "bug",
+        "工程師思維",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我為什麼工程師都用深色模式，\n我說：因為光會引來蟲。\n他笑了一下，\n然後我看著他的螢幕，淺色模式，滿滿的 bug。",
+          "editorNote": "適合用來回應任何問你『為什麼一定要黑底』的非工程師朋友。",
+          "variations": [
+            "延伸：所以我的人生哲學是——能黑就黑，連心情也是。",
+            "也可以是：白底螢幕看久了眼睛痛，黑底螢幕看久了人生痛，各有各的痛。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked me why all developers use dark mode.\nI said: because light attracts bugs.\nThey laughed,\nthen I glanced at their screen — light mode, absolutely crawling with bugs.",
+          "editorNote": "Perfect comeback for any non-dev who asks why your screen has to be black.",
+          "variations": [
+            "Extension: so my life philosophy is — go dark when you can, mood included.",
+            "Alternate: light screens hurt your eyes over time; dark screens hurt your soul over time. Pick your pain."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-270",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://puncracker.com/funny-programmer-jokes/",
+      "sourceNote": "Stack Overflow best friend and worst addiction joke, rewritten",
+      "tags": [
+        "工程師日常",
+        "工程師語錄",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "Stack Overflow 是工程師最好的朋友，\n也是工程師最深的依賴。\n我們不是不會寫程式，\n我們只是把記憶體外接到了一個陌生人五年前的回答上。",
+          "editorNote": "傳給每天複製貼上又不敢承認的同事，他會說『你怎麼知道』。",
+          "variations": [
+            "延伸：那個回答最下面寫著『已棄用』，但我還是抄了，而且它還能跑。",
+            "也可以是：我不是在開發，我只是 Stack Overflow 跟我的編輯器之間的搬運工。"
+          ]
+        },
+        "en": {
+          "content": "Stack Overflow is a developer's best friend\nand deepest addiction.\nIt's not that we can't write code,\nwe've just outsourced our memory to a stranger's answer from five years ago.",
+          "editorNote": "Send it to the coworker who copy-pastes daily but won't admit it. They'll reply 'how did you know.'",
+          "variations": [
+            "Extension: the answer says 'deprecated' at the bottom, but I copied it anyway and it still runs.",
+            "Alternate: I'm not a developer, I'm just a courier between Stack Overflow and my editor."
+          ]
+        }
+      }
     }
   ]
 }

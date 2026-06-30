@@ -7309,6 +7309,110 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-270",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.weareteachers.com/science-jokes/",
+      "sourceNote": "受英文『I was reading a book on helium, I couldn't put it down』與氦氣笑點啟發，保留氦氣＝輕飄飄＝放不下的反差，中文改寫成讀氦氣書的諧趣情境",
+      "tags": [
+        "科學",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我最近在看一本介紹氦氣的書。\n\n結果一翻開就放不下來——畢竟那麼輕，想放手也放不掉啊。",
+          "editorNote": "適合朋友抱怨追劇或追小說停不下來時接話",
+          "variations": [
+            "也可以改成：難怪整本書讀起來都飄飄然的。"
+          ]
+        },
+        "en": {
+          "content": "I just started a book all about helium.\n\nHonestly, I couldn't put it down — the thing's so light it practically floats out of your hands.",
+          "editorNote": "A good comeback when a friend complains they can't stop bingeing a series",
+          "variations": [
+            "Or try: \"No wonder the whole book felt so uplifting.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-271",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.weareteachers.com/science-jokes/",
+      "sourceNote": "受英文『What did one tectonic plate say when it bumped into the other? Sorry, my fault!』啟發，保留地質 fault＝斷層／過錯的雙關，中文改寫成板塊相撞道歉的諧音情境",
+      "tags": [
+        "科學",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "兩塊地殼板塊相撞了，其中一塊馬上開口道歉。\n\n牠說：「抱歉抱歉，這完全是我的『斷層』——啊不是，是我的錯。」",
+          "editorNote": "適合不小心撞到人或踩到別人時自嘲一下",
+          "variations": [
+            "也可以接：難怪每次吵架最後都要『地動山搖』。"
+          ]
+        },
+        "en": {
+          "content": "Two tectonic plates crashed into each other, and one immediately apologized.\n\n\"Sorry about that,\" it said. \"Totally my fault.\"",
+          "editorNote": "Handy for laughing it off when you accidentally bump into someone",
+          "variations": [
+            "Add: \"No wonder every argument with them ends in an earthquake.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-272",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.ducksters.com/jokes/animals.php",
+      "sourceNote": "受英文『What do you call a bee that can't make up its mind? A maybe』啟發，保留 bee＋maybe 的諧音核心，中文改寫成蜜蜂與「也許」的諧音情境",
+      "tags": [
+        "動物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道一隻永遠拿不定主意的蜜蜂叫什麼嗎？\n\n叫「也蜜」，問牠要不要採花，牠永遠回你：也許吧，也許不要。",
+          "editorNote": "適合吐槽那個永遠選不出餐廳的朋友",
+          "variations": [
+            "也可以改成：難怪牠連蜂窩要蓋哪一格都想了三天。"
+          ]
+        },
+        "en": {
+          "content": "What do you call a bee that can never make up its mind?\n\nA maybe — ask it to go pollinate and it just shrugs: \"Maybe, maybe not.\"",
+          "editorNote": "Perfect for teasing the friend who can never pick a restaurant",
+          "variations": [
+            "Or: \"No wonder it took three days to decide which cell of the hive to build.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-273",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://pickupdose.com/best-dad-jokes/",
+      "sourceNote": "受英文『What do you call cheese that isn't yours? Nacho cheese（nacho＝not your 諧音）』啟發，保留 nacho/not your 雙關核心，中文改寫成起司歸屬的諧趣對話",
+      "tags": [
+        "食物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道不是你的那塊起司，要怎麼稱呼它嗎？\n\n叫「別拿起司」啊，因為那根本不是你的，手伸過去之前先想清楚。",
+          "editorNote": "適合在朋友偷夾你盤裡食物時開玩笑提醒",
+          "variations": [
+            "也可以改成冰箱裡寫便利貼的版本：這格起司，請勿亂拿。"
+          ]
+        },
+        "en": {
+          "content": "What do you call cheese that isn't yours?\n\nNacho cheese — so think twice before that hand of yours reaches for it.",
+          "editorNote": "A playful warning when a friend swipes food off your plate",
+          "variations": [
+            "Try the fridge-sticky-note version: \"This shelf is nacho cheese, hands off.\""
+          ]
+        }
+      }
     }
   ]
 }

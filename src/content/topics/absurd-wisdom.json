@@ -6725,6 +6725,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-265",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://read01.com/zh-tw/4nn0yEL.html",
+      "sourceNote": "「越聰明的人腦子就越聰明」同義反覆梗，重新創作",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "研究指出，跑得越快的人，移動的速度就越快。\n\n而跑得慢的人，速度則相對比較慢。\n\n這個結論在快的人和慢的人身上，都得到了一致的驗證。",
+          "editorNote": "適合在朋友認真分析事情時插一句，瞬間讓對話歸零",
+          "variations": [
+            "睡得越久的人，醒來的時候就越晚。這是經過反覆觀察得出的規律。",
+            "吃得越多的人，通常吃下去的東西也越多，目前沒有例外。"
+          ]
+        },
+        "en": {
+          "content": "Studies show that people who run faster move at a higher speed.\n\nMeanwhile, people who run slower tend to be comparatively slower.\n\nThis finding has been consistently confirmed in both the fast and the slow.",
+          "editorNote": "Drop this in while a friend is seriously analyzing something — instantly resets the conversation to zero",
+          "variations": [
+            "The longer you sleep, the later you wake up. This pattern holds after repeated observation.",
+            "People who eat more usually end up having eaten more. No exceptions found so far."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-266",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://read01.com/zh-tw/4nn0yEL.html",
+      "sourceNote": "「七日不見，如隔一周」等量換算廢話梗，重新改寫",
+      "tags": [
+        "廢話文學",
+        "時間",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "好久不見，算一算，\n上次見面到現在，\n剛好過了我們沒見面的這段時間。\n\n一分不多，一分不少。",
+          "editorNote": "適合久別重逢時當開場白，對方會愣一下才反應過來",
+          "variations": [
+            "我們認識到現在，剛好就是我們認識的這麼久。",
+            "從你出生到今天，正好是你目前的歲數，分毫不差。"
+          ]
+        },
+        "en": {
+          "content": "Long time no see! Let me do the math —\nfrom the last time we met until now,\nexactly the time we spent apart has passed.\n\nNot a second more, not a second less.",
+          "editorNote": "Perfect opener when reuniting with someone — they'll pause before realizing you said nothing",
+          "variations": [
+            "We've known each other for exactly as long as we've known each other.",
+            "From the day you were born until today is precisely your current age, down to the second."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-267",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "http://charlesfudgemuffin.blogspot.com/2019/01/silly-tautologies.html",
+      "sourceNote": "\"It'll feel better when it stops hurting\" 同義反覆英文梗，重新創作",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別擔心，等你不餓的時候，\n你就會覺得吃飽了。\n\n而等你吃飽了，\n你自然就不會覺得餓了。\n\n所以這兩件事，其實是同一件事。",
+          "editorNote": "適合在朋友喊肚子餓的時候安慰他，安慰完他會更餓",
+          "variations": [
+            "天黑了之後天就會變暗，等天再次變亮，那就是天亮了。",
+            "感冒好了之後你就不會再咳嗽，而你不再咳嗽的時候，通常代表感冒好了。"
+          ]
+        },
+        "en": {
+          "content": "Don't worry — once you stop being hungry,\nyou'll feel full.\n\nAnd once you feel full,\nyou naturally won't feel hungry anymore.\n\nSo really, those are the same thing.",
+          "editorNote": "Use this to comfort a hungry friend — they'll be hungrier after the comfort",
+          "variations": [
+            "Once it gets dark, the sky turns dim; and when it brightens again, that's daylight.",
+            "Once your cold is gone you'll stop coughing, and when you stop coughing it usually means the cold is gone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-268",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://upjoke.com/tautology-jokes",
+      "sourceNote": "\"The first rule of Tautology club is the first rule of Tautology club\" 自我指涉梗，重新改寫",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個群組唯一的規定，\n就是要遵守這個群組唯一的規定。\n\n至於那個規定是什麼，\n請參考這個群組唯一的規定。",
+          "editorNote": "適合當群組公告或自我介紹開場，看誰會認真去問規定是什麼",
+          "variations": [
+            "這份說明書的第一頁寫著：詳情請見第一頁。",
+            "本店的退貨政策是：依照本店的退貨政策辦理。"
+          ]
+        },
+        "en": {
+          "content": "The only rule of this group\nis that you must follow the only rule of this group.\n\nAs for what that rule is,\nplease refer to the only rule of this group.",
+          "editorNote": "Great as a group announcement or intro — see who actually asks what the rule is",
+          "variations": [
+            "Page one of this manual reads: for details, see page one.",
+            "Our store's return policy is: returns are handled according to our store's return policy."
+          ]
+        }
+      }
     }
   ]
 }

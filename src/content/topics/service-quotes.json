@@ -5441,6 +5441,125 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-187",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the canonical 「別家店都可以，只有你們店不行」 deflection from the 2026-04 Dcard 奧客經典語錄 thread into a punchy two-line exchange",
+      "tags": [
+        "服務業",
+        "奧客",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家店都可以，為什麼你們不行？」\n「那您要不要去那家可以的店？」\n「我就是不想去啊。」",
+          "editorNote": "傳給今天又被『別家店都可以』綁架的同事。真相是：那家神奇的『別家店』，通常跟『我朋友』住在同一個查無此地的地址。",
+          "variations": [
+            "客人口中的「別家店」，是這個世界上規矩最寬、距離最遠、永遠不去的那家店。",
+            "「別家店都可以」翻譯成白話：我知道你不行，我只是想看你為難。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other store allows it. Why can't you?\"\n\"Would you like to go to that other store, then?\"\n\"No, I don't want to.\"",
+          "editorNote": "For the coworker held hostage by \"every other store does it\" again today. The truth: that magical \"other store\" lives at the same address-not-found as \"my friend.\"",
+          "variations": [
+            "The customer's \"other store\" is the one place on earth with the loosest rules, the farthest away, that they'll never actually visit.",
+            "\"Every other store allows it\" translates to: I know you can't, I just want to watch you squirm."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-188",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://twistedsifter.com/2025/12/employee-mastered-the-retail-laugh-to-cope-with-bad-customer-jokes-so-when-a-customer-flipped-the-script-the-irony-hit-hard/",
+      "sourceNote": "Inspired by the TwistedSifter piece on the 'retail laugh' and the millionth 'that must mean it's free' joke at the scanner; rewritten as a Taiwanese 心聲 about the reflex smile",
+      "tags": [
+        "服務業",
+        "零售",
+        "情緒勞動",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "東西刷不過，\n客人說：「沒掃到代表免費吧？」\n我笑了，\n那是今天第十八次，\n同一個笑話，同一個笑。\n我的笑早就不是反應，是設定。",
+          "editorNote": "傳給每天要對同一個冷笑話笑十遍的收銀同事。那不是你假，是你的臉學會了在心放假的時候繼續上班。",
+          "variations": [
+            "服務業的笑，分兩種：真的笑，跟『第十八次了我還是得笑』的笑。",
+            "客人以為他很幽默，其實他只是排在前面那十七個人後面。"
+          ]
+        },
+        "en": {
+          "content": "The item won't scan.\nThe customer says, \"Guess that means it's free?\"\nI laugh —\nthe eighteenth time today,\nsame joke, same laugh.\nMy laugh stopped being a reaction a long time ago. It's a setting.",
+          "editorNote": "For the cashier who laughs at the same tired joke ten times a shift. It's not that you're fake — it's that your face learned to keep working even when your heart clocked out.",
+          "variations": [
+            "There are two kinds of service-industry laughs: the real one, and the \"that's the eighteenth time but I still have to\" one.",
+            "The customer thinks he's hilarious. He's really just standing behind the seventeen who said it first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-189",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the 「叫你們店長/經理出來」 escalation trope from the 2026-04 Dcard 奧客經典語錄 thread",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叫你們店長出來！」\n「我就是店長。」\n「那叫你們老闆出來！」\n「我就是老闆。」\n「……那叫個能做主的出來。」",
+          "editorNote": "傳給今天被『叫主管出來』連環追殺的同事。有些客人要的不是答案，是一個比你大的人能讓他繼續鬧。",
+          "variations": [
+            "客人要找的「能做主的人」，其實是「能讓步的人」，這兩個在他字典裡是同義詞。",
+            "升到店長那天我才懂，原來『叫主管出來』之後，下一個被叫的人就是我自己。"
+          ]
+        },
+        "en": {
+          "content": "\"Get your manager!\"\n\"I am the manager.\"\n\"Then get your boss!\"\n\"I am the boss.\"\n\"...then get someone who can actually make decisions.\"",
+          "editorNote": "For the coworker hunted down the chain of command today. Some customers don't want an answer — they want someone bigger than you so they can keep going.",
+          "variations": [
+            "The \"someone who can make decisions\" the customer wants is really \"someone who will cave.\" In their dictionary those are synonyms.",
+            "The day I got promoted to manager, I finally understood: after \"get me your manager,\" the next person they call out is me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-190",
+      "dateAdded": "2026-06-30",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Reworks the 「我之前都可以，為什麼現在不行」 line from the 2026-04 Dcard 奧客經典語錄 thread into a warmer 心聲 piece about boundaries",
+      "tags": [
+        "服務業",
+        "奧客",
+        "尊嚴",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我之前都可以，為什麼現在不行？」\n以前可以，是因為有人替你破例，\n然後那個人被罵。\n今天換我守規矩，\n不是我變了，是我不想成為下一個被罵的人。",
+          "editorNote": "傳給今天被『我之前都可以』情勒的服務業朋友。別人為了息事寧人破的例，從來不該變成你必須背的債。守規矩不是刁難，是不讓上一個受傷的人白白受傷。",
+          "variations": [
+            "「之前可以」這三個字背後，常常站著一個替客人破例、然後挨了罵的前同事。",
+            "我守的不是規定，是那條讓我下班還能抬頭做人的線。"
+          ]
+        },
+        "en": {
+          "content": "\"You let me before. Why not now?\"\nBefore, someone broke the rule for you —\nand then that someone got reamed out.\nToday I'm holding the line.\nI didn't change. I just don't want to be the next one who gets reamed out.",
+          "editorNote": "For the worker guilt-tripped with \"you let me before\" today. A rule someone bent to keep the peace should never become a debt you have to carry. Holding the line isn't being difficult — it's making sure the last person who got hurt didn't get hurt for nothing.",
+          "variations": [
+            "Behind \"you let me before\" there's usually a former coworker who bent the rule for the customer and got chewed out for it.",
+            "I'm not defending a policy. I'm defending the line that lets me still hold my head up after clocking out."
+          ]
+        }
+      }
     }
   ]
 }
