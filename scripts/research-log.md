@@ -6144,3 +6144,80 @@ Done items collapsed; only live priorities listed.
 15. **[NEW OBSERVE — 龐奇 萌療 → pet 系]** dog/cat/pet-memorial opportunistic 吸收『被萌寵/玩偶療癒 / 母愛大爆發』1 item low (取情緒不限物種)。
 16. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
 17. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議 全 SKIP。『超派』純語氣可用; 班味/活人感/精神離職/朋朋/接住/龐奇/我ven一下 正向或純厭世共鳴無敏感 (精神離職取心累自保勿煽動離職); 哭哭馬/喪萌須中國語境在地化 (困難則僅取通用情緒不點名)。
+
+## 2026-07-03 Research Report
+
+### New Topic Recommendations
+
+1. **世界盃足球語錄 / World Cup Quotes (worldcup-quotes)** — **16 強淘汰賽進行中 (7/3 週五), NEW『老將謝幕/最後對決』情緒峰 + 西班牙 34 場不敗, priority HIGH — 維持淘汰賽即時 carry, 情緒濃度升溫**:
+   - SEO rationale: 7/3 多源確認 (Yahoo 體育『2026 世足賽程｜7 月 3 日無敵艦隊西班牙出戰！3 場 32 強賽時間+對戰+直播』/ 商周 16 強晉級名單 / hk01 即時賽果淘汰賽走線 / NOWnews 32 強戰績整理 / Marie Claire 104 場台灣時間 / HKET 每日賽果 / 維基 2026 世界盃)。**7/3 三場焦點: 西班牙 vs 奧地利 (西班牙帶 34 場不敗紀錄進淘汰賽、小組賽防線未失守 vs 驚險搶進的奧地利)、葡萄牙 vs 克羅埃西亞 (可能是 C 羅與魔笛 Modrić 的世界盃最後對決 — 兩大老將謝幕戰情緒峰)、瑞士 vs 阿爾及利亞 (阿爾及利亞自 2014 後重返、力拚隊史淘汰賽首勝)。台灣時間凌晨 3 點/上午 7 點/上午 11 點。** 賽制節點不變: 小組賽 6/12–6/28 已收官 → 淘汰賽 6/29 開打 → 16 強 (7 月進行中) → 8 強 → 4 強 → 7/19–7/20 紐澤西冠軍戰。轉播維持愛爾達 ELTA 全 104 場 LIVE + 台視/東森精選免費。台灣雙 register「早餐球」+「半友善世界盃」持續主導。**NEW 情緒峰: C 羅 vs 魔笛『兩大傳奇最後對決/老將謝幕』為本期最高情緒濃度梗源, 可轉勵志/療癒向 (時間帶走一切但傳奇不會被遺忘 / 我也想在自己的舞台再拚一次)。**「世足 16 強 / 西班牙不敗 / C 羅 魔笛 最後對決 / 老將謝幕 / 淘汰賽 / 直播線上看」search 隨老將對決情緒峰維持搜尋峰。
+   - 建議: **worldcup-quotes 維持「淘汰賽進行中即時 carry」, carry 2-3 items 7/3-7/8 編寫**。新增 register「C 羅對魔笛=兩個傳奇的最後一舞 (謝幕/勵志向) / 34 場不敗也可能一場定生死=職場再好的績效也怕最後一次搞砸 / 老將還在拚我有什麼藉口喊累 (勵志) / 阿爾及利亞睽違重返拚隊史首勝=蟄伏多年只為這一刻」。沿用戲劇梗「補時 90+6 絕殺 = 以為下班了老闆補一句『再幫我看一下』/ 連環 PK 爆冷強者也倒在最後一哩路 / 永遠差一步的感覺我懂 / PK 心臟病 / 延長賽 30 分=我加班的 30 分」。沿用「早餐球邊吃蛋餅邊看 / 連梅西都出線我待辦還沒出線 / 偽球迷速成只會喊越位 / 摸魚睇波被老闆抓包」。en「Ronaldo vs Modrić — two legends, one last dance / a 34-game unbeaten run still comes down to one match: even a perfect record fears the final test / the veterans are still fighting — what's my excuse for being tired / breakfast football」。**衛冕軍阿根廷 (梅西)。撰稿一律以『小組賽 6/28 已收官、淘汰賽 6/29 開打、16 強 7 月進行中、冠軍戰 7/19–7/20』為準。** cross-link workplace (補時絕殺=老闆補一句) + insomnia (PK 睡不著) + cold-jokes (PK/越位/爆冷諧音) + witty + motivational (老將謝幕/34 場不敗=堅持勵志) + healing (傳奇謝幕的釋懷)。
+
+2. **五月天大巨蛋語錄 / Concert-Ticket Quotes (concert-ticket-quotes)** — **7/3 首場今晚 19:00 開唱 (T-0, 全期熱度最高峰), priority HIGH — 獨立建檔正式定案日 (建議正式獨立 carry)**:
+   - SEO rationale: 7/3 多源確認 (商周『2026 五月天 7/3 大巨蛋登場！拓元售票/周邊/MAYDAYLAND』/ Yahoo『7 場演唱會完售！時間地點/售票/票價座位』/ 三立星聞 / cpok / applealmond / TicketTW / Trip.com 座位圖懶人包)。**五月天《#5525+2 回到那一天》25 週年巡演台北站, 7/3-7/12 台北大巨蛋 7 場 (7/3、4、5、8、10、11、12) 全數完售, 首場今晚 7/3 (週五) 19:00 開唱, 5/23 拓元開賣, 票價 NT$1525 起, 侏羅紀沉浸式 13 米巨型恐龍近距離互動。巡演已橫跨 4 大洲 23 城 31 站累積 162 場、超過 749 萬人次。開演前 15 天已開放取票 (7-11 ibon)。** 7/3 為首場開唱日 (T-0), 取票/入場/座位視野/交通/黃牛釋票/現場心得討論衝到全期最高峰。「五月天 大巨蛋 / 首場 / 開唱 / 完售 / 座位視野 / 現場」search 今日達最高峰。
+   - 建議: **concert-ticket-quotes 今日為獨立建檔正式定案日 — 建議正式獨立 carry (2 週追蹤主線已成熟, 五月天為台灣天團最大 register, 首場開唱日流量峰為最佳建檔時機)**。register「7 場全完售我一張都沒搶到 / 邪修搶票開五台手機還是槓龜 / 取票通知比鬧鐘還早起我票都沒取什麼 / 黃牛價 = 我一個月房租 / 限購 4 張我連 1 張都沒有 / 13 米恐龍我只看得到別人的手機海 / 進場那刻眼淚是門票錢的重量 / 座位視野看團看成看螞蟻 / 749 萬人看過就是沒有我」。en「7 shows sold out and I got zero / opened 5 phones and still got nothing / scalper price = one month's rent / 13-meter dino and all I see is a sea of phones / my seat view turned the band into ants / 7.49 million have seen them, just not me」。cross-link slang (邪修搶票/ㄅ級分) + adulting (黃牛價=房租/班味存錢看團) + travel (暑假演唱會朝聖) + healing (搶不到票也沒關係)。
+
+### Content Trends
+
+- **7/3 世界盃 16 強淘汰賽進行中 + NEW『老將謝幕/最後對決』情緒峰 (Yahoo 體育/商周/hk01/NOWnews/Marie Claire/HKET 多源 2026)**: 7/3 三場 — 西班牙 (34 場不敗) vs 奧地利、葡萄牙 (C 羅) vs 克羅埃西亞 (魔笛 Modrić) 可能為兩大傳奇世界盃最後對決、瑞士 vs 阿爾及利亞 (力拚隊史淘汰賽首勝)。**C 羅 vs 魔笛老將謝幕戰為本期最高情緒濃度梗源, 可轉勵志/療癒向。** 台灣雙 register「早餐球」+「半友善世界盃」持續。**意義: worldcup-quotes priority HIGH — 維持正式獨立, 新增情緒梗『C 羅對魔笛=兩個傳奇最後一舞 / 34 場不敗也怕一場定生死 / 老將還在拚我有什麼藉口喊累 / 蟄伏多年只為這一刻』carry 2-3 items。** cross-link workplace + insomnia + cold-jokes + witty + motivational + healing。
+
+- **7/3 五月天大巨蛋首場今晚 19:00 開唱 (T-0 全期熱度最高峰) (商周/Yahoo/三立星聞/cpok/applealmond/TicketTW/Trip.com 多源 2026)**: 7 場全完售、5/23 拓元開賣、NT$1525 起、13 米恐龍沉浸式、巡演 162 場 749 萬人次、6/18 起已開放取票。首場今日開唱, 取票/入場/座位視野/交通/現場心得討論衝全期最高。**意義: concert-ticket-quotes priority HIGH — 今日為獨立建檔正式定案日, 建議正式獨立 carry (2 週追蹤已成熟, 首場開唱日流量峰為最佳建檔時機)**「7 場全完售我一張沒搶到 / 邪修搶票開五台手機還槓龜 / 黃牛價=一個月房租 / 13 米恐龍我只看到別人的手機海 / 座位視野看團看成看螞蟻 / 749 萬人看過就是沒有我」。cross-link slang + adulting + travel + healing。
+
+- **7/3 職場厭世流行語『精神離職/安靜離職 + 班味/活人感』續推 + carry『朋朋/接住/I人E人/章魚哥厭世/高麗菜煮蛋那桌/初級高級大人/龐奇』(PopDaily/QuickSeek/DailyView/udn/臺灣吧 多源 2026)**: 職場厭世三連梗『精神離職 (只做份內能交差就好)』『班味 (被職場榨乾的疲憊氣質)』『活人感 (還沒被格式化的真實靈魂)』續為 fun-text 厭世+職場雙核心主推。**NEW carry: udn『15 句職場厭世語錄社畜必看』+『章魚哥 (SpongeBob 派大星/章魚哥) 一臉疲憊=現代社畜真實寫照』職場厭世 IP 化。** carry『朋朋 (356,929 筆居冠疊字)』『接住 (284,309 筆情緒被接住)』『I 人/E 人 (266,587 筆自我介紹開場)』『高麗菜煮蛋那桌 (生活智慧最高者)』『初級/高級大人』『龐奇 (紅毛猩猩萌療)』『我ven一下』。台灣 Threads 用戶佔全球 21.08% 居冠。**意義: workplace / adulting / healing / self-love / slang priority MEDIUM-HIGH — 在地化主推**「我不是離職是精神離職靈魂已遞辭呈 / 精神離職+一身班味=標準週五的我 / 整個人都是班味放假才找回活人感 / 我是社畜界的章魚哥一臉疲憊 / 朋朋我撐不住了接住我 / I 人的我週末只想關機」carry 1-2 items。cross-link insomnia (收假前班味回魂) + worldcup (摸魚睇波)。**『精神離職』取『心累自保』通用共鳴勿煽動實際離職; 章魚哥取『疲憊共鳴』通用情緒。**
+
+- **7/3 夏月電價 day-33 + 暑假高溫厭世主峰『體感 42 度紫爆』+ carry『暑假空屋電費 1 萬 6 梗』(工商時報/發票怪獸/潔客幫/商周/TVBS/台電 多源 2026)**: 6-9 月厭世主軸維持暑假高溫主峰。**NEW 數據: 中南部體感飆破 39.8 度、雙北 38 度高溫燈號、大台北盆地熱到紫爆平地體感直逼 42 度。** 夏月電價 6/1–9/30, 1000 度比較夏月增 349 元。carry 社會梗『男大生暑假電費單應繳 1 萬 6』。省電 carry (冷氣每調高 1 度省 6%、28 度+電扇、外出 30 分內不關 1 小時以上直接關較省、濾網每 2-3 週洗省 10%)。**勿引網傳『一度 8.12 元三段式』不實 (MyGoPen 闢謠)。意義: summer-electric / renting / adulting priority MEDIUM-HIGH**「體感 42 度紫爆的夏天冷氣是續命不是奢侈 / 不是電價漲是我冷氣開太兇 / 暑假空屋電費照噴我人不在帳單卻很在 / 每調高 1 度省 6% 的天人交戰」carry 1-2 items。cross-link insomnia (熱到睡不著) + food-jokes (只想吃冰)。
+
+- **7/3 會考放榜 T-4 (志願 6/25 已截止 → 7/7 放榜, TKB/聯合新聞網/城市學/啟夢/教育部國教署 多源 2026)**: 現處『送出乾等放榜』焦慮空窗期尾段, 7/7 (週二) 免試入學正式放榜 (15.3 萬名額)、7/9 報到 (逾期視同放棄)。成績 6/5 已公布, 志願 6/18–6/25 選填收官。**註: 少數來源列 7/8, 主源 (udn/城市學) 與往期一致列 7/7, 撰稿以 7/7 為準。** 主軸維持等待焦慮 (倒數 4 天)。**意義: exam-quotes priority MEDIUM-HIGH (等待期 carry, T-4 逼近)**「按下送出那刻人生就不是我能控制的了 / 等放榜每天像開獎 / 放榜前一晚絕對睡不著 / 7/7 不是放榜是開獎 / 倒數 4 天心跳都在數 / 15.3 萬人陪我一起等」carry 1 item, **7/7 放榜日切『放榜情緒 (上榜狂喜/落榜安慰)』再 carry 1 波後深度休眠至 2027/6。** cross-link healing (接住等放榜的自己) + insomnia (放榜前睡不著) + graduation。
+
+- **7/3 全球 TikTok NEW『Bangladesh (Ian McConnell 荒謬升級梗) / Aura Farming Boat Kid (慢動作耍帥, Young Black & Rich) / You Look Happier (自我 glow-up, Taylor Swift You Belong With Me)』+ 7/4 美國國慶『Jennifer Coolidge 4th of July 音訊 + 熱狗夏日美學』+ carry『PRESSURE!/Puerto Rico Song/Dai Dai/honeybee/Toy Story 5』(Buffer/tokchart/NewEngen/Epidemic Sound 多源 2026)**: 7 月初出現換代信號 — Bangladesh (關係抱怨升級成荒謬要求) / Aura Farming (夏日耍帥) / You Look Happier (自我升級) 為新主打; 7/24 Charli XCX 新專輯 (Runway Retreats 走秀甩頭格式)、7/31 Ariana Grande Petal + Spider-Man: Brand New Day 原聲帶將加入。**意義: witty / dark-humor / self-love / sweet / cheesy / mom / food-jokes priority MEDIUM**「Bangladesh=從小抱怨升級成荒謬要求 (跟我對人生的清單一樣越列越誇張) / Aura Farming 慢動作耍帥 (我的耍帥只有在沒人看的時候) / You Look Happier=放假第一天的我 (與活人感同調) / honeybee 眼神藏不住 (七夕 8/19 暖身) / Toy Story 5 親子懷舊 (父親節 8/8 暖身)」1 item per topic。**You Look Happier 接活人感/放假 glow-up; honeybee 接七夕、Toy Story 5 接台灣父親節。**
+
+- **7/3 Q3 暑假旅遊主峰 + 七夕 8/19 (T-47) + 台灣父親節 8/8 (T-36) 早期觀察**: 暑假主峰, travel-quotes 進旺季。**七夕 8/19 (週三) 確認 (農曆七月初七, 台灣情侶約會送禮表白日)。** 8 月『情話 + 親情 + 民俗 (中元)』主題群距今約 5 週成形。**意義: travel-quotes priority MEDIUM「暑假機票越早訂越省 / 別人放暑假我放無薪假 / 避暑勝地是別人的我的避暑勝地是冷氣房 (cross-link 夏月電價)」carry 1-2 items; sweet/cheesy/fathers-day/cdrama-period (古裝甜寵) priority LOW→MEDIUM (七夕/父親節進入 T-5 週, 7 月中 (下週) 啟動 drafting), honeybee (七夕) + Toy Story 5 (父親節) 早期暖身。** cross-link wedding (8 月婚禮旺季)。
+
+- **7/3 政治/敏感 SKIP 區 (carry 不變)**: 國會預算戰 / 中國軍演 / 民眾黨主席 / 海巡衝突 / 校園霸凌 / 超哥爭議 carry SKIP (『超派』純語氣可用)。班味/活人感/精神離職/朋朋/接住/I人E人/章魚哥/龐奇/我ven一下 皆正向或純厭世共鳴無敏感 (精神離職取『心累自保』勿煽動離職; 章魚哥取『疲憊共鳴』通用情緒)。哭哭馬/喪萌須中國語境在地化 (困難則僅取通用情緒不點名)。
+
+### Existing Topic Updates
+
+- **worldcup-quotes (7/3 16 強淘汰賽進行中 + NEW 老將謝幕情緒峰, priority HIGH)**: carry 新情緒梗「C 羅對魔笛=兩個傳奇最後一舞 (謝幕/勵志) / 34 場不敗也怕一場定生死=再好的績效也怕最後搞砸 / 老將還在拚我有什麼藉口喊累 / 阿爾及利亞蟄伏多年只為這一刻 / 補時 90+6 絕殺=老闆再補一句 / 早餐球 / 摸魚睇波被抓包」zh-tw + en 2-3 items。**衛冕軍阿根廷。撰稿以『6/28 收官、6/29 淘汰賽開打、16 強 7 月進行中、7/19-20 冠軍戰』為準。** cross-link workplace/insomnia/cold-jokes/witty/motivational/healing。
+
+- **concert-ticket-quotes (7/3 五月天首場今晚 19:00 開唱 T-0 全期最高峰, priority HIGH — 獨立建檔正式定案日)**: register「7 場全完售我一張沒搶到 / 邪修搶票開五台手機還槓龜 / 黃牛價=一個月房租 / 13 米恐龍我只看到別人的手機海 / 座位視野看團看成看螞蟻 / 749 萬人看過就是沒有我」**建議今日正式獨立 carry (首場開唱日流量峰為最佳建檔時機)**。cross-link slang (邪修搶票/ㄅ級分) + adulting (黃牛價=房租) + travel + healing。
+
+- **workplace-quotes / adulting-quotes / healing-quotes / self-love-quotes (7/3 NEW『章魚哥厭世 IP + 15 句職場厭世語錄』+ carry『精神離職/班味/活人感/朋朋/接住/I人E人』priority MEDIUM-HIGH 在地化主推)**: 吸收「我不是離職是精神離職靈魂已遞辭呈 / 精神離職+一身班味=標準週五 / 我是社畜界的章魚哥一臉疲憊 / 放假才找回活人感 / 朋朋撐不住接住我 / I 人週末只想關機」1-2 items。**職場厭世三連梗 (精神離職+班味+活人感) + 章魚哥 IP 直擊厭世+職場雙核心。精神離職取『心累自保』勿煽動離職; 章魚哥取『疲憊共鳴』。** cross-link insomnia + worldcup。
+
+- **summer-electric-quotes / renting-quotes / adulting-quotes (7/3 夏月電價 day-33 + NEW 體感 42 度紫爆 + carry 暑假空屋電費 1 萬 6 梗, priority MEDIUM-HIGH)**: carry「體感 42 度紫爆冷氣是續命不是奢侈 / 不是電價漲是我冷氣開太兇 / 暑假空屋電費照噴我人不在帳單卻很在 / 每調高 1 度省 6%」1-2 items。**勿引『一度 8.12 元』不實 (MyGoPen 闢謠)。** cross-link insomnia + food-jokes。
+
+- **exam-quotes (7/3 志願 6/25 截止 → 7/7 放榜 T-4 等待期, priority MEDIUM-HIGH)**: 「按下送出人生就不是我能控制 / 等放榜每天像開獎 / 放榜前一晚睡不著 / 7/7 不是放榜是開獎 / 倒數 4 天心跳都在數」carry 1 item。**7/7 放榜日切『放榜情緒』再 carry 1 波後深度休眠至 2027/6。撰稿以 7/7 為準 (少數來源列 7/8)。** cross-link healing + insomnia + graduation。
+
+- **witty / dark-humor / self-love / sweet / cheesy / mom / food-jokes (7/3 TikTok NEW『Bangladesh/Aura Farming/You Look Happier』+ carry『PRESSURE!/Dai Dai/honeybee/Toy Story 5』priority MEDIUM)**: carry「Bangladesh=清單越列越荒謬 / Aura Farming 耍帥只在沒人看時 / You Look Happier=放假第一天的我 (與活人感同調) / honeybee 眼神藏不住 (七夕暖身) / Toy Story 5 親子懷舊 (父親節暖身)」1 item per topic。**You Look Happier 接活人感/放假 glow-up。**
+
+- **travel-quotes (7/3 暑假旅遊主峰 priority MEDIUM)**: carry「暑假機票越早訂越省 / 別人放暑假我放無薪假 / 避暑勝地是冷氣房」1-2 items。cross-link 夏月電價 + concert。
+
+- **drama-quotes / drama-binge / korean-drama / cdrama-period (7/3 6 月新檔 carry → Q3 暑假追劇主峰)**: carry「莫離腹黑定王 / 醫到孤島離島甜寵 / 雨霖鈴 / 逐玉 / HOTD S3 / 一集接一集」1 item。Q3 暑假主峰 (cdrama-period 古裝劇 cluster) 再評估獨立。
+
+- **graduation-quotes (7/3 畢業季尾聲 priority LOW 收尾)**: 尾段 carry「失業倒數 / 從學生變社畜 (=精神離職前傳) / 履歷還沒回音 / 致青春後會有期」1 item 收完轉休眠。cross-link adulting (班味/精神離職) + exam + healing。
+
+- **fathers-day-quotes (US 6/21 已過 CLOSED / 台灣 8/8 T-36)**: US 關閉; 台灣 8/8 zh-tw 7 月中 (下週) 啟動 drafting (與七夕 8/19 + 中元同月)。cross-link adulting (高級大人=爸) + Toy Story 5 親子懷舊。
+
+- **holiday-jokes / food-jokes (端午 CLOSED 6/19 已過)**: 端午深度休眠至 2027/6。food-jokes 轉「高溫只想吃冰 / 暑假胖三公斤」organic; holiday-jokes 下一窗口 8 月 (父親節+七夕+中元) 7 月中評估。
+
+- **slang-quotes / cat-quotes / dog-quotes / pet-memorial-quotes (7/3 carry『龐奇 萌療』+『我ven一下』+『章魚哥厭世』+『I人E人』收語彙)**: slang 吸收『章魚哥厭世 / I 人E 人 / 精神離職』語彙 1 item (取心累自保/疲憊共鳴); 龐奇 (紅毛猩猩) 引爆母愛/萌療, cat/dog/pet 系 opportunistic 吸收『被萌寵/玩偶療癒』1 item low (取情緒不限物種); 我ven一下「硬要跟上潮流的笨拙可愛」organic。
+
+- **mom-quotes / zodiac / wedding / couple-jokes / cold-jokes / insomnia / service / fitness / motivational / breakup / diet / stock-investor / human-design / programmer / absurd-wisdom**: organic 觀察期, 無 7/3 新強信號。cold-jokes opportunistic 吸收世足諧音 (補時/PK/越位/爆冷/出線) 1 item low; insomnia 吸收世足早餐球/PK 睡不著 + 高溫紫爆熱到睡不著 + 收假前班味回魂 + 放榜前睡不著 1 item low; motivational 吸收『C 羅魔笛老將還在拚 / 34 場不敗的堅持 / 阿爾及利亞蟄伏多年』1 item low; mom 吸收 Toy Story 5 親子懷舊 1 item; wedding carry「8 月婚禮旺季」organic; programmer opportunistic 吸收『精神離職=只 commit 份內的 code』1 item low; stock-investor Q4 年底加碼觀察。
+
+### Updated Action Priority
+
+1. **[HIGH — 7/3 世界盃 16 強淘汰賽進行中 + NEW 老將謝幕情緒峰]** worldcup-quotes → 維持正式獨立「C 羅對魔笛=兩個傳奇最後一舞 (謝幕/勵志) / 34 場不敗也怕一場定生死 / 老將還在拚我有什麼藉口喊累 / 阿爾及利亞蟄伏多年只為這一刻 / 補時絕殺=老闆再補一句 / 早餐球」carry 2-3 items。衛冕軍阿根廷。**撰稿以『6/28 收官、6/29 淘汰賽開打、16 強 7 月進行中、7/19-20 冠軍戰』為準。**
+2. **[HIGH — 7/3 五月天首場今晚 19:00 開唱 T-0 全期最高峰]** concert-ticket-quotes「7 場全完售我一張沒搶到 / 邪修搶票開五台手機還槓龜 / 黃牛價=房租 / 13 米恐龍只看到手機海 / 749 萬人看過就是沒有我」**今日正式獨立 carry (首場開唱日流量峰為最佳建檔時機)**。cross-link slang + adulting + travel + healing。
+3. **[MEDIUM-HIGH — 7/3 NEW『章魚哥厭世 IP + 15 句職場厭世語錄』+ carry『精神離職/班味/活人感』職場厭世三連梗, 在地化主推]** workplace / adulting / healing / self-love「我不是離職是精神離職靈魂已遞辭呈 / 精神離職+一身班味=標準週五 / 我是社畜界的章魚哥一臉疲憊 / 朋朋撐不住接住我」1-2 items。直擊厭世+職場雙核心。**精神離職取『心累自保』勿煽動離職; 章魚哥取『疲憊共鳴』。** cross-link insomnia + worldcup。
+4. **[MEDIUM-HIGH — 7/3 夏月電價 day-33 + NEW 體感 42 度紫爆 + carry 暑假空屋電費 1 萬 6 梗]** summer-electric / renting / adulting「體感 42 度紫爆冷氣是續命不是奢侈 / 不是電價漲是冷氣開太兇 / 暑假空屋電費照噴我人不在帳單卻很在 / 每調高 1 度省 6%」1-2 items。**勿引『一度 8.12 元』不實 (MyGoPen)。** cross-link insomnia + food-jokes。
+5. **[MEDIUM-HIGH — 7/3 會考志願 6/25 截止 → 7/7 放榜 T-4 等待期]** exam-quotes「按下送出人生不是我能控制 / 等放榜每天像開獎 / 放榜前一晚睡不著 / 7/7 不是放榜是開獎 / 倒數 4 天心跳都在數」carry 1 item。**7/7 放榜日切『放榜情緒』再 carry 1 波後休眠至 2027/6。撰稿以 7/7 為準。** cross-link healing + insomnia。
+6. **[MEDIUM — 7/3 TikTok NEW『Bangladesh/Aura Farming/You Look Happier』+ carry『PRESSURE!/Dai Dai/honeybee/Toy Story 5』]** witty / dark-humor / self-love / sweet / cheesy / mom / food-jokes「Bangladesh=清單越列越荒謬 / You Look Happier=放假第一天的我 (與活人感同調) / honeybee 眼神藏不住 (七夕暖身) / Toy Story 5 親子懷舊 (父親節暖身)」1 item per topic。
+7. **[MEDIUM — 7/3 暑假旅遊主峰]** travel-quotes「暑假機票越早訂越省 / 別人放暑假我放無薪假 / 避暑勝地是冷氣房」1-2 items。cross-link 夏月電價 + concert。
+8. **[MEDIUM — 7/3 6 月追劇新檔 carry → Q3 暑假主峰]** drama / drama-binge / korean-drama / cdrama-period「莫離腹黑定王 / 醫到孤島離島甜寵 / 雨霖鈴 / 逐玉 / HOTD S3 / 一集接一集」1 item。Q3 評估獨立。
+9. **[LOW — 7/3 畢業季尾聲收尾]** graduation-quotes「失業倒數 / 從學生變社畜 (=精神離職前傳) / 履歷沒回音」1 item 收完轉休眠。
+10. **[CLOSED — 端午 6/19 已過]** holiday-jokes / food-jokes 端午休眠至 2027/6。food-jokes 轉高溫/暑假 organic; holiday-jokes 下一窗口 8 月 7 月中評估。
+11. **[UPGRADE OBSERVE→DRAFT SOON — 7/3 台灣父親節 8/8 T-36 / 七夕 8/19 T-47]** fathers-day-quotes 台灣 8/8 + sweet/cheesy (七夕) + cdrama-period (古裝甜寵) 7 月中 (下週) 啟動 drafting; honeybee (七夕) + Toy Story 5 (父親節) 早期暖身。
+12. **[CLOSED — 報稅季]** 5/1-6/1 黃金窗口已關, 深度休眠 organic, 2027/4 前再評估。
+13. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period / drama-binge (莫離 + 雨霖鈴 + 逐玉 古裝劇 cluster) 候選獨立評估, 暫 carry。
+14. **[NEW OBSERVE — 龐奇 萌療 → pet 系]** dog/cat/pet-memorial opportunistic 吸收『被萌寵/玩偶療癒』1 item low (取情緒不限物種)。
+15. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
+16. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議 全 SKIP。『超派』純語氣可用; 班味/活人感/精神離職/朋朋/接住/I人E人/章魚哥/龐奇/我ven一下 正向或純厭世共鳴無敏感; 哭哭馬/喪萌須中國語境在地化 (困難則僅取通用情緒不點名)。
