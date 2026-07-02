@@ -4052,6 +4052,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-164",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://blog.104.com.tw/ast_exam_time/",
+      "sourceNote": "115 分科測驗 7/11-7/12 倒數 register — 別人放暑假我還在考 frame",
+      "tags": ["分科測驗", "考試", "自嘲", "廢文", "暑假"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全世界的學生都在放暑假，\n只有分科測驗的考生，\n七月還在跟考卷談一場沒有結局的戀愛。\n別人的暑假是海邊，我的暑假是冷氣教室加一張准考證。",
+          "editorNote": "分科測驗倒數那幾天的限動神句，配張課本疊在電風扇前的照片超寫實。",
+          "variations": [
+            "可以加：「等我考完，暑假只剩一半，但至少那一半是真的暑假。」",
+            "也能改：「別人在數浪，我在數還剩幾章沒讀。」"
+          ]
+        },
+        "en": {
+          "content": "The whole world is on summer break.\nOnly the students taking the subject-specific test\nare still in July, stuck in a romance with a test paper that has no ending.\nEveryone else's summer is the beach. Mine is an air-conditioned classroom and an admission ticket.",
+          "editorNote": "For the last stretch before a summer exam — pair with a textbook-stacked-by-the-fan photo.",
+          "variations": [
+            "Add: \"By the time I'm done, half of summer is gone. But at least that half is real summer.\"",
+            "Try: \"Everyone's counting waves. I'm counting how many chapters I haven't read.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-165",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.tkbgo.com.tw/schoolZone/university/news/toDetail?news_id=4541",
+      "sourceNote": "會考免試放榜 7/7 register — 落點分析 vs 玄學 對照 frame",
+      "tags": ["國中會考", "放榜", "落點分析", "自嘲", "志願"],
+      "i18n": {
+        "zh-tw": {
+          "content": "選填志願的時候，\n學校教我們做落點分析，\n爸媽教我們拜文昌，\n補習班教我們排序策略。\n最後我是閉著眼睛、憑感覺、加上一點點運氣填的。\n所謂科學選校，到頭來還是一場玄學。",
+          "editorNote": "會考放榜前後選志願的內心戲，傳到家族群組長輩會突然安靜。",
+          "variations": [
+            "可以加：「落點分析算出來的是機率，決定我人生的是那一秒的手滑。」",
+            "也能改：「志願表填到最後，我信的不是分數，是緣分。」"
+          ]
+        },
+        "en": {
+          "content": "When it came time to rank my schools,\nthe school taught us placement analysis,\nmy parents taught us to pray,\nand cram school taught us ranking strategy.\nIn the end I filled it in with my eyes closed, on vibes, plus a little luck.\nSo-called scientific school selection is, in the end, pure superstition.",
+          "editorNote": "The vibes-vs-data reality of ranking schools — post it and watch the family group chat go quiet.",
+          "variations": [
+            "Add: \"Placement analysis gives you a probability. What decides my life is one accidental click.\"",
+            "Try: \"By the last slot on the form, I wasn't trusting scores anymore. I was trusting fate.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-166",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://punwaves.com/study-jokes/",
+      "sourceNote": "暑假讀書計畫 register — summer study plan 反差 frame 在地化",
+      "tags": ["暑假", "讀書計畫", "拖延", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "放暑假第一天，我立志：\n「這個暑假我要每天讀三小時，超前部署下學期。」\n第二天：睡到中午。\n第三天：追劇追到天亮。\n第四天：把讀書計畫改成「先好好休息，開學前再衝刺」。\n這句話我從國小講到現在，效果一次都沒兌現。",
+          "editorNote": "暑假開始沒幾天就發現自己又中招的學生 OS，配張全新沒翻過的參考書照片剛剛好。",
+          "variations": [
+            "可以加：「我的暑假進度條，只有第一天有動。」",
+            "也能改：「暑假作業的存在，就是為了在最後一週摧毀我。」"
+          ]
+        },
+        "en": {
+          "content": "Day one of summer break, I vowed:\n\"This summer I'll study three hours a day and get ahead for next semester.\"\nDay two: slept till noon.\nDay three: binged a show until sunrise.\nDay four: revised the plan to \"rest properly first, sprint before school starts.\"\nI've been saying that line since elementary school. It has never once come true.",
+          "editorNote": "For everyone who blew the summer study plan by day four — pair with a photo of a brand-new, never-opened workbook.",
+          "variations": [
+            "Add: \"My summer progress bar only moved on day one.\"",
+            "Try: \"Summer homework exists purely to destroy me in the final week.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-167",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://keypun.com/study-jokes/",
+      "sourceNote": "考完記性歸零 register — brain full please empty 比喻在地化",
+      "tags": ["考完", "記性", "自嘲", "廢文", "腦袋"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完隔天，同學問我：「那個公式怎麼推的？」\n我認真想了三秒，\n發現我的腦袋像考完就自動清空的資源回收桶。\n昨天還背得滾瓜爛熟，今天連它姓什麼都忘了。\n原來知識在我這裡是短期租借，不是永久持有。",
+          "editorNote": "考完知識瞬間蒸發的共鳴句，傳到班群大家都會回「同款腦袋」。",
+          "variations": [
+            "可以加：「我的記憶體只夠撐到交卷那一刻，多一秒就自動格式化。」",
+            "也能改：「知識來我腦袋只是路過，從不打算定居。」"
+          ]
+        },
+        "en": {
+          "content": "The day after the exam, a classmate asked: \"How did you derive that formula?\"\nI thought hard for three seconds\nand realized my brain is a recycle bin that auto-empties the moment the exam ends.\nYesterday I had it down cold. Today I've forgotten its name.\nTurns out knowledge, in my head, is a short-term rental, not a permanent purchase.",
+          "editorNote": "For the instant post-exam memory wipe — post it and the group chat replies with 'same brand of brain.'",
+          "variations": [
+            "Add: \"My memory only holds until I hand in the paper. One second later it auto-formats.\"",
+            "Try: \"Knowledge just passes through my head. It never intends to move in.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-168",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://blog.104.com.tw/ast_exam_time/",
+      "sourceNote": "分科測驗成績 7/29 等放榜 register — 等成績的煎熬 frame",
+      "tags": ["分科測驗", "等成績", "放榜", "焦慮", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完分科最痛苦的不是考試，\n是接下來那段等成績的日子。\n我每天假裝在放暑假，\n其實心裡有個倒數計時器，滴答滴答地響。\n這種平靜叫做「暴風雨前，我先自己下了一場」。",
+          "editorNote": "分科測驗考完等成績那段坐立難安的心情，配張日曆被畫記號的照片超有畫面。",
+          "variations": [
+            "可以加：「別人問我在幹嘛，我說放空，其實我在等一個會改變人生的簡訊。」",
+            "也能改：「放榜前的暑假不是假期，是緩刑。」"
+          ]
+        },
+        "en": {
+          "content": "The most painful part of the subject-specific test isn't the exam.\nIt's the stretch afterward, waiting for the results.\nEvery day I pretend I'm on summer break,\nbut inside there's a countdown timer, ticking away.\nThis kind of calm is called \"there's a storm coming, so I threw one myself first.\"",
+          "editorNote": "For the restless limbo of waiting for scores — pair with a photo of a calendar covered in countdown marks.",
+          "variations": [
+            "Add: \"People ask what I'm up to. I say 'nothing.' Really I'm waiting for one text that changes my life.\"",
+            "Try: \"The summer before results day isn't a vacation. It's a suspended sentence.\""
+          ]
+        }
+      }
     }
   ]
 }

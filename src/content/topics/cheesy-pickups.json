@@ -7680,6 +7680,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-273",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://rizzpickups.com/rain-pickup-lines/",
+      "sourceNote": "改寫自雨天系列 'my favorite forecast: 100% chance of you and me'，改成台灣氣象主播口吻",
+      "tags": [
+        "天氣",
+        "甜",
+        "互動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有看今天的天氣預報嗎？」\n「沒有欸，怎麼了？」\n「降雨機率我不知道，但遇到你的機率剛剛好是百分之百。」",
+          "editorNote": "下雨天或一起躲雨時最好用，把尷尬的等雨變成撩人的機會",
+          "variations": [
+            "氣象說今天有雨，可是我這邊只預報到一整天想你的機率",
+            "外面在下雨，但我的世界因為你放晴了"
+          ]
+        },
+        "en": {
+          "content": "\"Did you catch today's forecast?\"\n\"Not really, why?\"\n\"No idea about the rain — but the chance of running into you turned out to be a solid one hundred percent.\"",
+          "editorNote": "Perfect while sheltering from the rain together; turns an awkward wait into a smooth opening.",
+          "variations": [
+            "They forecast rain today, but over here it's a hundred percent chance of thinking about you.",
+            "It's pouring outside, yet somehow my whole world cleared up the moment you smiled."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-274",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://pickupline.net/situational-pick-up-lines/gym-fitness-pick-up-lines/",
+      "sourceNote": "改寫自健身房系列 'do you believe in love at first rep'，改成台灣健身房搭訕情境",
+      "tags": [
+        "健身",
+        "幽默",
+        "互動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「不好意思，可以問你一下嗎？」\n「嗯？」\n「你相信一組深蹲就愛上，還是我要再多做兩組給你看？」",
+          "editorNote": "健身房搭訕神句，自嘲又不油，動作停頓時丟出來最自然",
+          "variations": [
+            "你是不是我今天的訓練菜單？因為看到你我整個人都熱起來了",
+            "我不太會算重量，但你在我心裡的份量我倒是很清楚"
+          ]
+        },
+        "en": {
+          "content": "\"Sorry, can I ask you something?\"\n\"Sure, what's up?\"\n\"Do you believe in love at first rep, or should I knock out a couple more sets to convince you?\"",
+          "editorNote": "A gym opener that's self-deprecating rather than sleazy; drop it during a rest between sets.",
+          "variations": [
+            "Are you today's workout? Because one look at you and I'm already warmed up.",
+            "I'm bad at counting the weight on the bar, but I know exactly how much you mean to me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-275",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.yourmove.ai/blog/gym-pick-up-lines",
+      "sourceNote": "改寫自 'you must be a stopwatch, time stops when you show up' 碼表哏",
+      "tags": [
+        "健身",
+        "甜",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是不是計時器？」\n「什麼？」\n「因為你一出現，我的世界時間就停了。」",
+          "editorNote": "運動場或跑步機旁都能用，把計時裝置的哏轉成甜點",
+          "variations": [
+            "你是不是碼表？我一看到你，秒針好像就忘記要動了",
+            "跑步機上我盯著時間，結果時間全被你偷走了"
+          ]
+        },
+        "en": {
+          "content": "\"Are you a stopwatch?\"\n\"What?\"\n\"Because the moment you show up, time in my whole world just stops.\"",
+          "editorNote": "Works by the track or next to a treadmill; flips a timer gadget into something sweet.",
+          "variations": [
+            "Are you a stopwatch? Because the second I saw you, the ticking just forgot to keep going.",
+            "I was watching the clock on the treadmill, and somehow you ran off with all my time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-276",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://pikliners.com/weather-pick-up-lines/",
+      "sourceNote": "改寫自天氣系列 'you're the silver lining in every rainy day' 烏雲鑲金邊哏",
+      "tags": [
+        "天氣",
+        "甜",
+        "文青"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道烏雲最厲害的地方是什麼嗎？」\n「不知道欸。」\n「就算再黑，邊邊都會鑲一圈光——而你就是我每個壞天氣裡的那圈光。」",
+          "editorNote": "情緒溫柔的文青款，適合陪對方度過低潮或雨天傳訊時用",
+          "variations": [
+            "再爛的天氣都會過去，但我想留下來當你的那道彩虹",
+            "你就是那種，會讓陰天也捨不得下雨的人"
+          ]
+        },
+        "en": {
+          "content": "\"You know the best thing about a storm cloud?\"\n\"No idea.\"\n\"No matter how dark it gets, there's always light around the edges — and you're that light on every gray day of mine.\"",
+          "editorNote": "A gentler, poetic line; good for comforting someone through a rough patch or a rainy-day text.",
+          "variations": [
+            "Every bad forecast passes eventually, but I'd like to stick around and be your rainbow.",
+            "You're the kind of person who makes even a cloudy sky reluctant to rain."
+          ]
+        }
+      }
     }
   ]
 }

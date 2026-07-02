@@ -5530,6 +5530,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-191",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.keeping.com/content/customer-service-jokes/",
+      "sourceNote": "Inspired by the 'Working hard or hardly working?' recurring joke every support/retail worker hears; rewritten with a Taiwan-specific 上班摸魚 counter-angle",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「認真上班還是在打混啊？」\n我笑著說：「打混。」\n他愣住了，\n因為他準備了三秒的哈哈大笑，用不上了。",
+          "editorNote": "傳給今天又被客人用「你們是不是很閒」開玩笑的服務業朋友。這種玩笑你聽第一千次了，配一句「下次就這樣回」。",
+          "variations": [
+            "客人問「很閒喔」，其實他只是想確認自己等一下可以插隊。",
+            "他不是關心你累不累，他是想確認等下有沒有人理他。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Working hard, or hardly working?\"\nI smile: \"Hardly working.\"\nHe freezes —\nbecause the big laugh he'd loaded up has nowhere to go now.",
+          "editorNote": "For the worker who heard \"working hard or hardly working?\" for the thousandth time today. Send it with \"try this next time.\" The line stopped being funny on day one.",
+          "variations": [
+            "When they ask \"slow day, huh?\" they're really just checking whether they can cut the line.",
+            "He's not asking if you're tired. He's asking if someone will help him faster."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-192",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://pleated-jeans.com/2026/02/22/customer-service-memes-funny/",
+      "sourceNote": "Inspired by the classic 'I'll take my business elsewhere' threat trope in customer-service memes; rewritten as a two-line exchange",
+      "tags": [
+        "服務業",
+        "奧客",
+        "客服",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我以後不會再來了！」\n「好的，路上小心。」\n「你這什麼態度！」\n先生，您剛剛才是威脅我的那位。",
+          "editorNote": "傳給被客人用「我再也不來了」勒索過的同事。這句話的威力，通常跟他消費的金額成反比。",
+          "variations": [
+            "「我不會再來了」是奧客版的「我數到三」，數完他還是站在原地。",
+            "威脅要走的客人，往往是最捨不得走的那一個。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm never coming back here again!\"\n\"Understood. Take care getting home.\"\n\"What kind of attitude is that?!\"\nSir, you're the one who just threatened to leave.",
+          "editorNote": "For the coworker held hostage by \"I'm never coming back.\" The power of that threat is usually inversely proportional to how much they actually spend.",
+          "variations": [
+            "\"I'm never coming back\" is the customer version of \"I'm counting to three\" — and they're still standing there after three.",
+            "The customer who threatens to walk is usually the one least willing to."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-193",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.helpscout.com/customer-service-quotes/funny/",
+      "sourceNote": "Inspired by the 'closing time customer' recurring service-industry pain point; original scenario built around a Taiwan 打烊 setting",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "打烊前五分鐘，門推開。\n「還沒關吧？」\n沒關，因為就差你這一位還沒進來。\n燈是為你亮的，也是為你關不掉的。",
+          "editorNote": "傳給每天都在打烊前被最後一組客人「加時賽」的餐飲同事。你不是討厭客人，你只是想準時看到自己家的燈。",
+          "variations": [
+            "打烊前推門的那一位，通常也是點最多、走最慢的那一位。",
+            "「還沒關吧」——這四個字讓下班時間變成一個傳說。"
+          ]
+        },
+        "en": {
+          "content": "Five minutes to close, the door swings open.\n\"You're not closed yet, right?\"\nNo — you were the only one we were waiting on.\nThe lights are on for you. They also won't turn off because of you.",
+          "editorNote": "For the food-service worker who plays overtime every night thanks to the last table in. You don't hate the customer — you'd just like to see your own front door before midnight.",
+          "variations": [
+            "The one who pushes the door at closing time usually orders the most and leaves the slowest.",
+            "\"You're not closed yet, right?\" — four words that turn clocking out into a legend."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-194",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://punvio.com/customer-service-puns-2026/",
+      "sourceNote": "Inspired by the 'call center runs on passive aggression and deep breathing' pun; rewritten as an internal-monologue call-center piece",
+      "tags": [
+        "服務業",
+        "客服",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「您好，很高興為您服務。」\n這句話我今天說了兩百次，\n開心指數一次比一次低，\n但語氣一次比一次穩——\n這就是專業。",
+          "editorNote": "傳給每天要把同一句歡迎詞說到失去意義的客服同事。聲音的穩定，是用心裡的崩潰換來的。",
+          "variations": [
+            "客服的專業，是把「我快瘋了」講成「很高興為您服務」。",
+            "電話那頭的笑聲是免費的，但那笑聲的成本，只有戴耳機的人知道。"
+          ]
+        },
+        "en": {
+          "content": "\"Hello, thank you for calling — how can I help?\"\nI've said it two hundred times today.\nMy joy drops with each one,\nbut my tone gets steadier with each one —\nthat's what they call professional.",
+          "editorNote": "For the call-center agent who has to say the same greeting until it loses all meaning. A steady voice is bought with the meltdown you're hiding behind it.",
+          "variations": [
+            "Call-center professionalism is saying \"I'm losing it\" as \"how can I help you today?\"",
+            "The cheerful voice on the line is free. Only the person in the headset knows what it cost."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-195",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Inspired by Dcard 心情 board 奧客語錄 thread; rewritten around the condescending 'you must be new here' put-down",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你新來的喔？這都不會。」\n我在這五年了。\n只是規定沒有為您改，\n您就當作我還沒學會。",
+          "editorNote": "傳給今天被客人用「你新來的喔」瞧不起的同事。你不是不會，你是不肯為一個人破壞所有人的規矩。",
+          "variations": [
+            "「你新來的喔」翻譯過來就是「你怎麼敢不聽我的」。",
+            "資歷五年，還是輸給一句「別家都可以」——但輸的是規定，不是你。"
+          ]
+        },
+        "en": {
+          "content": "\"You must be new here — you don't even know this?\"\nI've been here five years.\nThe rule just didn't bend for you,\nso you decided I hadn't learned it yet.",
+          "editorNote": "For the worker talked down to with \"you must be new\" today. You're not incompetent — you just won't break everyone's rules for one person.",
+          "variations": [
+            "\"You must be new here\" translates to \"how dare you not do what I say.\"",
+            "Five years in and still losing to \"other places allow it\" — but it's the rule that lost, not you."
+          ]
+        }
+      }
     }
   ]
 }

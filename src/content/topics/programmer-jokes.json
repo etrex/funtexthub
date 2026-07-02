@@ -7852,6 +7852,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-271",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://programmerhumor.io/memes/merge-conflict",
+      "sourceNote": "Merge conflict humor — reworked into a dialogue about avoiding branches",
+      "tags": [
+        "版本控制",
+        "merge",
+        "團隊合作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事：「你為什麼都不敢開新分支？」\n工程師：「分支越多，衝突越多。」\n同事：「所以你都直接在主分支上寫？」\n工程師：「對，這樣就只會跟全公司衝突，不會跟自己衝突。」",
+          "editorNote": "傳給那個 git 歷史像一條直線的同事，或是每次 merge 都要冒冷汗的團隊群組。",
+          "variations": [
+            "延伸：『我有九十九個煩惱，其中九十八個是 merge conflict，剩下那一個是不敢 merge。』",
+            "也可以是：工程師不怕承諾，他們只怕 commit 完之後要 merge。"
+          ]
+        },
+        "en": {
+          "content": "Coworker: \"Why are you scared to open a new branch?\"\nDeveloper: \"More branches, more conflicts.\"\nCoworker: \"So you just commit straight to main?\"\nDeveloper: \"Right. That way I only conflict with the whole company, never with myself.\"",
+          "editorNote": "Send it to the teammate whose git history is a single straight line, or drop it in the group chat before a big merge.",
+          "variations": [
+            "Extension: 'I've got 99 problems and 98 of them are merge conflicts. The last one is being too scared to merge.'",
+            "Alternate: Developers don't fear commitment. They fear the merge that comes after."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-272",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://jokesify.com/software-engineer-jokes/",
+      "sourceNote": "'It works on my machine' classic — expanded into a support-ticket bit",
+      "tags": [
+        "測試",
+        "環境問題",
+        "甩鍋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "QA 回報：「這功能一上線就壞了。」\n工程師：「奇怪，我這邊跑起來完全正常。」\n QA：「那要怎麼辦？」\n工程師想了三秒：「不如我們把我的筆電裝箱寄去當伺服器好了。」\nQA 到現在還不確定他是在開玩笑。",
+          "editorNote": "傳給每次都說『在我電腦上沒問題』的同事，或是被這句話氣到的 QA 朋友。",
+          "variations": [
+            "延伸：主管：『那你的筆電什麼時候可以上架 production？』工程師：『它一關機就會壞，所以永遠不能關機。』",
+            "也可以是：每當工程師說出『在我電腦上是好的』，就有一位維運工程師失去了睡眠。"
+          ]
+        },
+        "en": {
+          "content": "QA files a ticket: \"It breaks the moment it hits production.\"\nDeveloper: \"Weird, it runs perfectly on my machine.\"\nQA: \"So what do we do?\"\nDeveloper thinks for three seconds: \"Let's just box up my laptop and ship it out as the server.\"\nQA still isn't sure that was a joke.",
+          "editorNote": "Send it to the coworker who says 'works on my machine' every single time, or to the QA friend who's tired of hearing it.",
+          "variations": [
+            "Extension: Manager: 'When can your laptop go to production?' Developer: 'It crashes if you turn it off, so it can never be turned off.'",
+            "Alternate: Every time a developer says 'it works on my machine,' an on-call engineer loses an hour of sleep."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-273",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "'Console logs are my diary of shame' one-liner reworked into a mini-monologue",
+      "tags": [
+        "除錯",
+        "console.log",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事看了我的程式碼：「你這裡怎麼有十七個 console.log？」\n工程師：「那不是 console.log，那是我的日記。」\n同事：「日記？」\n工程師：「對，記錄我一路上懷疑過的每一個變數。最後發現，問題從頭到尾都是我。」",
+          "editorNote": "傳給那個 debug 靠印 log、印完又忘記刪的同事，他會默默去 commit 前檢查一遍。",
+          "variations": [
+            "延伸：那十七個 log 裡，有五個寫著『這裡』、三個寫著『到底』、還有一個只有『？？？』。",
+            "也可以是：真正的斷點是我沒設的那個，真正的斷點在我心裡。"
+          ]
+        },
+        "en": {
+          "content": "A coworker reviews my code: \"Why are there seventeen console.logs in here?\"\nDeveloper: \"Those aren't console.logs. That's my diary.\"\nCoworker: \"Your diary?\"\nDeveloper: \"Yeah. A record of every variable I ever suspected. Turns out the culprit was me the whole time.\"",
+          "editorNote": "Send it to the coworker who debugs by printing and then forgets to delete the logs. They'll quietly grep their branch before the next commit.",
+          "variations": [
+            "Extension: Of those seventeen logs, five just say 'here', three say 'HERE', and one is only '???'.",
+            "Alternate: My real breakpoint is the one I never set. My real breakpoint is emotional."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-274",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://wizmo.com/blog/developer-jokes-to-lighten-your-debugging-sessions/",
+      "sourceNote": "Legacy code / 'nobody touches it' theme reworked into an onboarding scene",
+      "tags": [
+        "遺留程式碼",
+        "新人",
+        "職場生存"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人上工第一天，資深工程師帶他看程式碼。\n「這個資料夾你可以碰。這個也可以。」\n「那這個呢？」\n資深工程師搖搖頭：「這個誰都不能碰。它從二〇一六年就在跑，沒有人知道為什麼，也沒有人敢知道為什麼。」\n「那當初是誰寫的？」\n「寫的人已經離職了，而且我們懷疑他就是為了逃離這段程式碼才離職的。」",
+          "editorNote": "傳給剛接手一坨祖傳程式碼的新人，或是那個公司裡『唯一敢動那段 code』的傳說級同事。",
+          "variations": [
+            "延伸：那段程式碼的註解只有一行：『別動。動了會發生什麼我也不知道，但一定不好。』",
+            "也可以是：我們不維護它，我們供奉它。"
+          ]
+        },
+        "en": {
+          "content": "On the new hire's first day, the senior developer walks them through the codebase.\n\"You can touch this folder. This one too.\"\n\"What about this one?\"\nThe senior shakes their head: \"Nobody touches this one. It's been running since 2016. Nobody knows why, and nobody wants to know why.\"\n\"Who wrote it?\"\n\"They quit. And we suspect they quit specifically to escape this code.\"",
+          "editorNote": "Send it to the new hire who just inherited a pile of ancestral code, or to the legendary coworker who's the only one allowed to touch it.",
+          "variations": [
+            "Extension: The only comment in that file reads: 'Do not touch. I don't know what happens if you do, but it won't be good.'",
+            "Alternate: We don't maintain that module. We worship it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-275",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://jokespunfun.com/software-engineer-jokes/",
+      "sourceNote": "'It compiled, be suspicious' theme reworked into a paranoia bit",
+      "tags": [
+        "編譯",
+        "工程師直覺",
+        "疑神疑鬼"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師寫完一段很複雜的程式，按下編譯。\n第一次就通過了，沒有任何錯誤。\n他沒有開心，反而往後靠在椅背上，眼神空洞。\n同事：「過了不是好事嗎？」\n工程師：「一次就過，代表它一定在某個我還沒發現的地方壞得更嚴重。」",
+          "editorNote": "傳給那個『程式一次跑過反而更緊張』的同事，這是工程師才懂的恐怖片。",
+          "variations": [
+            "延伸：於是他又故意加了一個錯誤，讓自己安心地看到熟悉的紅字。",
+            "也可以是：一次就過的程式，就像半夜自動亮起來的燈——一定有事，只是還沒發生。"
+          ]
+        },
+        "en": {
+          "content": "A developer finishes a gnarly chunk of code and hits compile.\nIt passes on the first try. Zero errors.\nHe doesn't smile. He leans back in his chair, staring into the void.\nCoworker: \"Isn't passing a good thing?\"\nDeveloper: \"Passing on the first try means it's broken somewhere far worse that I haven't found yet.\"",
+          "editorNote": "Send it to the coworker who gets more nervous when the code just works — this is a horror movie only developers understand.",
+          "variations": [
+            "Extension: So he adds a deliberate error, just to feel calm seeing the familiar red text again.",
+            "Alternate: Code that passes on the first try is like a light turning on by itself at 3am. Something's wrong. It just hasn't happened yet."
+          ]
+        }
+      }
     }
   ]
 }

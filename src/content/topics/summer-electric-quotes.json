@@ -2779,6 +2779,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-113",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "近 98% 用戶累進計費 離峰用電不會比較省 商周 register；改寫原創",
+      "tags": ["離峰電價", "省電迷思", "累進電價", "台電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為半夜用電比較便宜，於是把所有家事都排到凌晨。\n查了才知道：全台快 98% 的人是累進計費，用多少算多少，跟幾點用一點關係都沒有。\n也就是說，我熬的那些夜，純屬贈送給黑眼圈。",
+          "editorNote": "傳給那個堅信「半夜洗澡比較省」、然後把生理時鐘搞壞的朋友",
+          "variations": [
+            "離峰電價的第一課：先確認你到底有沒有申請時間電價，不然你只是在半夜感動自己。",
+            "沒申請時間電價的人熬夜省電，就像沒買票的人排隊入場——很努力，但方向錯了。"
+          ]
+        },
+        "en": {
+          "content": "I assumed electricity was cheaper at night, so I shoved every chore to 2 AM.\nThen I looked it up: nearly 98% of us are on tiered billing — you pay for how much, not when.\nWhich means all those late nights? A free gift, straight to my under-eye bags.",
+          "editorNote": "For the friend who swears showering at midnight is cheaper and wrecked their sleep schedule for it",
+          "variations": [
+            "Off-peak lesson one: check whether you actually signed up for time-of-use rates, or you're just moving your life to 2 AM for feelings.",
+            "Saving power at night without a time-of-use plan is like queueing without a ticket — great effort, wrong direction."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-114",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://chucklio.com/summer-trending-jokes/",
+      "sourceNote": "夏天冷氣電費高到要賣房 迷因 register；改寫原創",
+      "tags": ["冷氣", "電費", "賣房", "誇飾"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個夏天冷氣的電費高到一個境界，\n讓我認真考慮把房子賣了。\n這樣就不用付電費了。\n畢竟沒有房子，就沒有冷氣；沒有冷氣，就沒有帳單——\n完美的解法，只可惜我住的是租的。",
+          "editorNote": "傳給那個看到帳單當下真的把房仲網打開來看的朋友，純屬情緒發洩",
+          "variations": [
+            "解決電費最快的方法：把有冷氣的那個空間整個賣掉，包含裡面那個怕熱的自己。",
+            "夏天的電費，是唯一能讓人認真思考「無殼蝸牛其實比較省」的東西。"
+          ]
+        },
+        "en": {
+          "content": "This summer's AC bill got so high\nI seriously considered selling my house.\nThen I wouldn't have to pay for electricity.\nNo house, no AC; no AC, no bill —\nflawless plan, shame I'm renting.",
+          "editorNote": "For the friend who genuinely opened a real-estate app the moment the bill landed — pure venting",
+          "variations": [
+            "Fastest fix for the electric bill: sell the entire air-conditioned space, including the heat-averse person inside it.",
+            "The summer bill is the only thing that makes 'being homeless is actually cheaper' feel like a real thought."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-115",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.mygopen.com/2026/05/taipower.html",
+      "sourceNote": "網傳夏月三段式電價一度 8.12 元 不實資訊 家庭仍累進 MyGoPen register；改寫原創",
+      "tags": ["謠言", "夏月電價", "查證", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "家族群組又轉發了：「夏月電價分三段，最高一度 8.12 元，快關冷氣！」\n我查了一下，是假的，家庭用電還是照舊累進計費。\n我鬆了一口氣，然後看了看真正的帳單——\n發現其實不管真的假的，我都一樣繳不出來。",
+          "editorNote": "傳給那個每年都會被「電價爆漲圖表」嚇到、然後叫全家關冷氣的長輩",
+          "variations": [
+            "電費謠言最厲害的地方，是就算被闢謠了，你看真實帳單還是會心痛。",
+            "夏天的謠言和夏天的帳單，都會讓你血壓升高，差別只在一個能查證。"
+          ]
+        },
+        "en": {
+          "content": "The family chat forwarded it again: 'Summer rates now have three tiers, up to eight bucks a unit, turn off the AC now!'\nI checked — it's fake, household billing is still the usual tiered rate.\nI breathed a sigh of relief, then looked at the actual bill —\nand realized that real or fake, I can't pay it either way.",
+          "editorNote": "For the relative who panics at a 'rates are exploding' chart every year and orders the whole house to kill the AC",
+          "variations": [
+            "The scary thing about electricity rumors is that even after they're debunked, the real bill still hurts.",
+            "Summer rumors and summer bills both spike your blood pressure — the only difference is one can be fact-checked."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-116",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://cheezburger.com/45692165/celebrating-humanitys-greatest-invention-21-air-conditioning-memes-for-anyone-surviving-another",
+      "sourceNote": "冷氣是夏天的超級英雄 沒有披風但有恆溫器 meme register；改寫原創",
+      "tags": ["冷氣", "英雄", "夏天", "感激"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每個夏天都有一位默默守護我的英雄。\n它沒有披風，只有一片濾網；\n它不會飛，只會掛在牆上嗡嗡作響；\n它拯救不了世界，但它每天下班後，都準時把我從一灘汗裡救出來。\n它要的回報也很簡單——只要我的整份薪水。",
+          "editorNote": "傳給那個把冷氣當成命中注定的那位朋友，配一張冷氣的照片",
+          "variations": [
+            "冷氣是夏天唯一沒有請假、沒有擺爛、還願意每天上工的員工，可惜薪水是我在付。",
+            "披風是給拯救世界的英雄，恆溫器是給拯救我這個夏天的英雄。"
+          ]
+        },
+        "en": {
+          "content": "Every summer, one quiet hero watches over me.\nIt has no cape, just a filter;\nit can't fly, it just hangs on the wall and hums;\nit can't save the world, but every evening it pulls me out of a puddle of sweat, right on time.\nAll it asks in return is simple — my entire paycheck.",
+          "editorNote": "For the friend who treats the AC like destiny — pair with a photo of the unit",
+          "variations": [
+            "The AC is the only employee who never calls in sick, never slacks, and shows up every day — shame I'm the one paying its salary.",
+            "Capes are for heroes who save the world. A thermostat is for the hero who saved my summer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-117",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://tw.news.yahoo.com/%E5%A4%8F%E6%9C%88%E9%9B%BB%E5%83%B961%E4%B8%8A%E8%B7%AF%EF%BC%81",
+      "sourceNote": "節電獎勵需上網登錄電號 每省一度 0.6 元 register；改寫原創",
+      "tags": ["節電獎勵金", "電號", "登錄", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了領節電獎勵金，我打開台電官網，準備登錄。\n第一步：輸入你的電號。\n我：「……電號是什麼？在哪裡？」\n找電號找了二十分鐘，冷氣也吹了二十分鐘。\n領獎勵金的第一關，就先把獎勵金花掉了。",
+          "editorNote": "傳給那個每年都想領節電獎勵、卻永遠卡在「找不到電號」這關的朋友",
+          "variations": [
+            "節電獎勵金設計得很有智慧：它需要你先花時間、花電費，才能拿到那 0.6 元。",
+            "台電：「每省一度回饋 0.6 元。」我：「好，那我先花半小時找電號，這半小時的冷氣算誰的？」"
+          ]
+        },
+        "en": {
+          "content": "To claim the energy-saving rebate, I open the utility website, ready to register.\nStep one: enter your electricity account number.\nMe: '…what's an account number? Where is it?'\nTwenty minutes hunting for it, twenty minutes of AC running.\nLevel one of claiming the rebate: spend the rebate first.",
+          "editorNote": "For the friend who wants the rebate every year but is forever stuck at 'can't find the account number'",
+          "variations": [
+            "The rebate is cleverly designed: it makes you spend time and electricity before you can collect that 60 cents.",
+            "Utility: 'We pay you 60 cents per unit saved.' Me: 'Great, let me burn half an hour of AC finding my account number first.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -3993,6 +3993,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-163",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.dcard.tw/f/trending/p/260700993",
+      "sourceNote": "2026 租屋補助被追回吐5萬 viral case; rewritten original",
+      "tags": ["補助", "追回", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為領到租屋補助是中獎，\n三年後收到一張公文，才知道那是分期付款。\n原來政府給我的不是補助，是貸款，利息還是崩潰。",
+          "editorNote": "傳給剛收到補助追回公文、要吐好幾萬的朋友，先陪他深呼吸再一起研究能不能分期",
+          "variations": [
+            "補助領三年，追回吐五萬，我這才懂什麼叫先享受後付款。",
+            "當初申請補助填的表比報稅還多，現在被追回填的表比申請還多，這就是循環經濟。"
+          ]
+        },
+        "en": {
+          "content": "I thought getting the rent subsidy was like winning the lottery.\nThree years later a letter arrived, and I learned it was actually an installment plan.\nTurns out the government didn't give me a subsidy — it gave me a loan, and the interest is a full mental breakdown.",
+          "editorNote": "Send to a friend who just got a subsidy clawback notice and owes thousands back — breathe with them first, then figure out the payment plan together",
+          "variations": [
+            "Collected the subsidy for three years, now owe five figures back. So this is what 'enjoy now, pay later' means.",
+            "The form to apply for the subsidy was longer than my tax return. The form to pay it back is longer than the application. It's a circular economy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-164",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.threads.com/@housemate_tw/post/DN-WgdZAfEv/",
+      "sourceNote": "2026 徵室友文越來越像交友甚至找伴侶 register; rewritten original",
+      "tags": ["室友", "合租", "交友", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在的徵室友文越來越像交友檔案：\n「希望妳也喜歡看電影」\n「週末可以一起煮飯」\n「我是 INFP，想找個 E 型人中和一下」\n我只是想找個一起分攤房租的人，怎麼變成相親？",
+          "editorNote": "適合正在租屋版滑徵室友文、越看越困惑的朋友轉發，配一張你看過最浮誇的徵人文截圖",
+          "variations": [
+            "我要找的是分擔電費的人，不是靈魂伴侶，麻煩先確認你會準時繳款。",
+            "徵室友徵到最後變成徵對象，果然合租跟結婚只差一張紙。"
+          ]
+        },
+        "en": {
+          "content": "Roommate ads these days read like dating profiles:\n'Hope you like movies too'\n'We could cook together on weekends'\n'I'm an INFP looking for an E type to balance me out'\nI just wanted someone to split rent with. When did this turn into speed dating?",
+          "editorNote": "Great for a friend scrolling roommate listings and getting more baffled by the minute — attach a screenshot of the most extra ad you've seen",
+          "variations": [
+            "I'm looking for someone to split the electric bill, not a soulmate. Please just confirm you pay on time.",
+            "The roommate search slowly turned into a partner search. Cohabiting and marriage really are one signature apart."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-165",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/261396730",
+      "sourceNote": "2026 報稅 租屋抵稅額調升至18萬 register; rewritten original",
+      "tags": ["報稅", "抵稅", "房東", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說租屋抵稅額調升到十八萬，我開心了三秒，\n第四秒想起：\n要抵稅得先有房東願意讓我報，\n而我的房東連讓我裝紗窗都要考慮三個月。",
+          "editorNote": "適合五月報稅季轉發給準備跟房東提抵稅的朋友，順便提醒他先把合約條款翻出來",
+          "variations": [
+            "抵稅額調升十八萬，跟我沒關係，因為我房東的房子在稅務系統裡不存在。",
+            "政府給我十八萬的額度，房東給我一句「那我們就不用簽約了喔」，額度瞬間歸零。"
+          ]
+        },
+        "en": {
+          "content": "News says the rent tax deduction just went up to 180,000. I was happy for three seconds.\nSecond four, I remembered:\nto claim it, I need a landlord willing to let me report the rent —\nand mine took three months just to think about letting me install a screen door.",
+          "editorNote": "Good for tax season — send to a friend about to ask their landlord about the deduction, and remind them to dig out the lease clauses first",
+          "variations": [
+            "The deduction cap went up to 180,000. Doesn't concern me — my landlord's building doesn't exist in the tax system.",
+            "The government hands me a 180,000 allowance. My landlord hands me a 'then maybe we just skip the contract, hmm?' and the allowance instantly hits zero."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-166",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://cheezburger.com/38562053/22-memes-fresh-on-the-market-for-renters-who-are-fed-up-with-the-landlord-special",
+      "sourceNote": "2026 'cozy studio is a hallway with a microwave' meme; rewritten original",
+      "tags": ["看房", "套房", "坪數", "荒謬"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房仲說這是「溫馨小套房」，\n我進去才發現，\n所謂溫馨，是走廊裝了一台微波爐；\n所謂套房，是我躺下就頂到兩面牆。",
+          "editorNote": "傳給剛看完那種「開門即到底」套房的朋友，附上你量過最誇張的坪數",
+          "variations": [
+            "溫馨小套房翻譯：一條放了微波爐的走廊，加上「請自備摺疊人生」。",
+            "房仲說「五臟俱全」，我看了一圈，五臟是擠在同一個器官裡。"
+          ]
+        },
+        "en": {
+          "content": "The agent called it a 'cozy little studio.'\nWalked in and realized:\n'cozy' means a hallway with a microwave bolted to the wall,\nand 'studio' means I touch two walls the second I lie down.",
+          "editorNote": "Send to a friend who just toured one of those 'open the door and you're already at the back wall' studios — attach the most absurd square footage you've measured",
+          "variations": [
+            "'Cozy little studio' translates to: a hallway with a microwave, please bring your own foldable life.",
+            "The agent said it 'has everything you need.' I looked around — everything I need is crammed into one square meter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-167",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.threads.com/@housemate_tw/post/DNiWmKkBUV9/",
+      "sourceNote": "2026 鄰居是租屋運氣 register; rewritten original",
+      "tags": ["鄰居", "看房", "運氣", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房的時候，房子看得到、房東問得到、租金談得到，\n只有鄰居——\n是搬進去那天才會抽獎公布的隱藏關卡。",
+          "editorNote": "傳給正在看房、糾結要不要簽約的朋友，提醒他鄰居這關真的靠運氣，能問就多問一句",
+          "variations": [
+            "我簽約前把房子研究得徹底，唯一沒查到的變數叫「樓上的作息」。",
+            "租屋最貴的不是房租，是你抽到的那副鄰居，而且不能退貨。"
+          ]
+        },
+        "en": {
+          "content": "When you tour a place, you can see the apartment, question the landlord, and negotiate the rent.\nOnly the neighbors\nare the hidden level that gets revealed the day you move in.",
+          "editorNote": "Send to a friend touring apartments and agonizing over whether to sign — remind them the neighbor factor is pure luck, so ask every question they can",
+          "variations": [
+            "I researched the apartment down to the last detail before signing. The one variable I couldn't check was called 'the upstairs schedule.'",
+            "The most expensive part of renting isn't the rent — it's the hand of neighbors you're dealt, and there are no returns."
+          ]
+        }
+      }
     }
   ]
 }

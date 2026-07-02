@@ -2661,6 +2661,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-107",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://vocus.cc/article/6a3291d8fd89780001e26fcb",
+      "sourceNote": "「38萬新散戶6月進場後暴跌套牢 / 主力不跟散戶同方向」register；改寫原創",
+      "tags": ["新散戶", "套牢", "主力", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說，這個月有三十八萬個新散戶勇敢進場。\n我就是那三十八萬分之一。\n進場第三天，大盤開始暴跌，我才明白一件事：\n原來我們三十八萬人，不是來投資的，是主力等了很久、終於等到的那批人。",
+          "editorNote": "送給每個看到「新增散戶創新高」新聞、剛好自己也是其中一個的新手，貼在群組互相取暖",
+          "variations": [
+            "統計數字裡的三十八萬人很風光，那三十八萬份對帳單很安靜。",
+            "我進場的時機，剛好就是別人準備離場的時機。"
+          ]
+        },
+        "en": {
+          "content": "The news said 380,000 brave new retail investors piled in this month.\nI'm one of those 380,000.\nDay three after I entered, the market started crashing, and it hit me:\nWe weren't 380,000 investors. We were the crowd the whales had been patiently waiting for all along.",
+          "editorNote": "For every newcomer who saw the 'record new retail accounts' headline and realized they were one of them — share in the chat for mutual comfort",
+          "variations": [
+            "The 380,000 look glorious in the statistics. Those 380,000 account statements are very quiet.",
+            "The moment I decided to get in was exactly the moment everyone else decided to get out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-108",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://relatejokes.com/funny-trading-jokes/",
+      "sourceNote": "「risk tolerance so high my portfolio is a non-profit」register；改寫原創",
+      "tags": ["風險", "自嘲", "厭世", "帳戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "銀行做風險評估，問我能承受多大的波動。\n我照實填了，系統跳出結果：積極型投資人。\n我照著積極型的建議操作了一年。\n現在我的帳戶已經不能算是投資組合了，比較像一個長期虧損的慈善機構——只出不進，還很穩定。",
+          "editorNote": "適合在做完風險屬性評估、被歸類成「積極型」後自嘲",
+          "variations": [
+            "我的風險承受度高到，我的帳戶已經可以申請免稅了。",
+            "他們說高風險高報酬，我這邊只實現了前半句。"
+          ]
+        },
+        "en": {
+          "content": "The bank ran a risk assessment and asked how much volatility I could handle.\nI answered honestly, and the system spat out: aggressive investor.\nSo I followed the aggressive playbook for a year.\nNow my account doesn't really qualify as a portfolio anymore — it's more like a long-running charity that keeps losing money: all outflow, no inflow, remarkably consistent.",
+          "editorNote": "For the self-deprecating moment after a risk questionnaire labels you 'aggressive'",
+          "variations": [
+            "My risk tolerance is so high my account might qualify as tax-exempt.",
+            "They said high risk, high reward. I've only managed to deliver on the first half."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-109",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://relatejokes.com/funny-trading-jokes/",
+      "sourceNote": "「I tried day trading, now I need a day off」register；改寫原創",
+      "tags": ["當沖", "看盤", "自嘲", "疲勞"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我試著當沖，想說賺個買菜錢。\n一天下來，眼睛乾了、脖子僵了、手心冒汗、心跳加速。\n收盤結算：小賠。\n我終於懂了，當沖不是一份工作，是一種需要另外請一天假來恢復的體力活。",
+          "editorNote": "適合在當沖一整天、身心俱疲卻沒賺到錢的傍晚分享",
+          "variations": [
+            "我當沖賺到的不是錢，是一個需要好好休息的下午。",
+            "當沖一天，回血三天，這報酬率我算過，不划算。"
+          ]
+        },
+        "en": {
+          "content": "I gave day trading a shot, figured I'd earn some grocery money.\nBy the end of one day: dry eyes, stiff neck, sweaty palms, racing heart.\nFinal tally at the close: a small loss.\nNow I get it — day trading isn't a job, it's manual labor that requires taking a separate day off to recover from.",
+          "editorNote": "For the evening after a full day of scalping that left you drained and no richer",
+          "variations": [
+            "What I earned from day trading wasn't money. It was an afternoon I badly needed to spend resting.",
+            "One day of scalping, three days to recover. I ran the numbers on that return — not worth it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-110",
+      "dateAdded": "2026-07-02",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1780380026.A.D95.html",
+      "sourceNote": "「端午變盤 / 節慶前後行情迷信」register；改寫原創",
+      "tags": ["變盤", "迷信", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "老一輩的股友說，端午前後容易變盤，要小心。\n我聽進去了，於是端午前先把持股全出。\n結果連假一結束，大盤直接跳空大漲。\n變盤是真的變了，只是變成——沒有我的那盤。",
+          "editorNote": "適合在每次聽信「節慶行情」的說法、卻剛好賣在起漲點時自嘲",
+          "variations": [
+            "股市裡最準的季節性規律，是我一避開就一定會漲。",
+            "我信了變盤的說法，變的是盤，賠的是我。"
+          ]
+        },
+        "en": {
+          "content": "The old-timers in the stock chat warned that the market tends to swing around the holiday, so be careful.\nI took it to heart and dumped all my positions before the long weekend.\nThe moment the holiday ended, the index gapped up and ran.\nThe market did swing, all right — it swung right past the version with me in it.",
+          "editorNote": "For the self-deprecating moment when you trusted a 'holiday seasonality' theory and sold right before the rally",
+          "variations": [
+            "The most reliable seasonal pattern in the market is that it always rallies the moment I step aside.",
+            "I believed the swing was coming. The market swung, and I'm the one who paid for it."
+          ]
+        }
+      }
     }
   ]
 }
