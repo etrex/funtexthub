@@ -5680,6 +5680,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-196",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Inspired by Dcard 心情 board 奧客語錄 thread listing classic 'that's your problem, not mine' put-downs; rewritten around the customer weaponizing 'the customer is always right'",
+      "tags": [
+        "服務業",
+        "奧客",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「顧客永遠是對的。」\n是啊，\n所以我永遠是錯的，\n連我沒說的話都是。",
+          "editorNote": "傳給今天被「顧客永遠是對的」這句老話壓在地上摩擦的人。這句話原本是叫店家用心，不是叫客人免責。",
+          "variations": [
+            "「顧客永遠是對的」下一句其實是「所以請對得起這句話」，只是很多人只背前半段。",
+            "如果顧客永遠是對的，那我這張道歉臉是演給誰看的。"
+          ]
+        },
+        "en": {
+          "content": "\"The customer is always right.\"\nSure —\nwhich makes me always wrong,\neven about things I never said.",
+          "editorNote": "For anyone dragged across the floor by that old line today. It was meant to tell shops to care, not to hand customers a get-out-of-jail card.",
+          "variations": [
+            "\"The customer is always right\" has a second half — \"so act like it\" — that a lot of people conveniently forget.",
+            "If the customer is always right, who exactly is this apology face for?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-197",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.gladly.ai/blog/customer-service-burnout/",
+      "sourceNote": "Inspired by 2026 customer-service burnout reporting noting agents now absorb a higher concentration of emotionally charged calls as self-service handles the easy ones; rewritten as a first-person voice quote",
+      "tags": [
+        "服務業",
+        "客服",
+        "厭世",
+        "情緒勞動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "機器人負責回答簡單的問題，\n我負責承接崩潰的人。\n升級的是系統，\n耗損的是我。",
+          "editorNote": "傳給被自動化留下最難那一塊的客服。你面對的不是問題，是已經被機器人惹到爆炸才轉給你的人。",
+          "variations": [
+            "自助結帳搶走了輕鬆的單，把「我要投訴」全部留給了人類。",
+            "科技進步的意思是：簡單的都不用人做了，只剩最傷的那些是我的。"
+          ]
+        },
+        "en": {
+          "content": "The bot handles the easy questions.\nI handle the people falling apart.\nThe system got the upgrade;\nI got the wear and tear.",
+          "editorNote": "For the agent automation left with the hardest slice. You're not facing a problem — you're facing someone the bot already pushed over the edge before transferring them to you.",
+          "variations": [
+            "Self-checkout took all the easy orders and left every \"I want to complain\" for the humans.",
+            "Progress means the simple stuff no longer needs a person — only the parts that hurt are still mine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-198",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Inspired by Dcard 奧客語錄 thread featuring 'I was able to do this before, why not now'; rewritten around a customer treating a one-time exception as a permanent right",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「上次你們可以，這次為什麼不行？」\n上次是我通融，\n您把好心當成菜單，\n以為每一次都能點。",
+          "editorNote": "傳給今天因為「上次好心幫忙」被當成永久福利的同事。通融一次是人情，不是簽約，別讓善意變成把柄。",
+          "variations": [
+            "「上次可以」的意思是「有人幫你破例」，不是「規定改了」。",
+            "把別人的通融記成自己的權利，是奧客最擅長的記帳方式。"
+          ]
+        },
+        "en": {
+          "content": "\"You let me last time — why not now?\"\nLast time I bent the rule for you.\nYou filed a kindness as a menu item\nand assumed you could order it every visit.",
+          "editorNote": "For the coworker whose one-time favor got logged as a permanent perk today. Bending a rule once is a courtesy, not a contract — don't let goodwill become leverage.",
+          "variations": [
+            "\"You did it last time\" means \"someone made an exception,\" not \"the rule changed.\"",
+            "Booking someone else's kindness as your own entitlement is a difficult customer's favorite accounting trick."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-199",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.gladly.ai/blog/customer-service-burnout/",
+      "sourceNote": "Inspired by 2026 burnout reporting on the demand to always be 'on'; rewritten around the gap between the smile at work and the silence at home",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "厭世",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上班笑一整天，\n回家一句話都不想說。\n不是你變冷淡了，\n是你的溫柔都被今天的客人領走了。",
+          "editorNote": "傳給下班後只想安靜的服務業家人朋友。他們不是不愛你，是那份笑容已經被上班用完，需要時間重新長回來。",
+          "variations": [
+            "服務業的沉默不是生氣，是把整天的笑臉還完之後，剩下的那一點自己。",
+            "白天發完了全世界的耐心，晚上就沒力氣對最愛的人多說一句了。"
+          ]
+        },
+        "en": {
+          "content": "Smiling all day at work,\nthen not a word left at home.\nYou didn't turn cold —\nyour warmth just got claimed by today's customers.",
+          "editorNote": "For the service-industry loved one who only wants quiet after a shift. It's not that they stopped caring — that smile got spent on the job and needs time to grow back.",
+          "variations": [
+            "A service worker's silence isn't anger. It's the little bit of self that's left after handing out smiles all day.",
+            "Give the whole world your patience by daylight and there's none left for the people you love by night."
+          ]
+        }
+      }
     }
   ]
 }

@@ -4177,6 +4177,206 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-169",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "Dcard 考試板 讀書計畫 vs 現實 落差 meme — 拖延自嘲 register",
+      "tags": ["考試", "拖延", "自嘲", "廢文", "讀書計畫"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的讀書計畫寫得比課本還厚，\n執行率大概跟我的存款一樣接近零。\n計畫表上第一行永遠是「明天開始認真」，\n然後那個明天，跟前男友一樣，說會回來卻再也沒出現。",
+          "editorNote": "考前拿來自嘲最剛好，配一張畫得超精美但完全沒打勾的讀書表，笑中帶淚。",
+          "variations": [
+            "可以加：「我不是不讀書，我是在等一個對的心情，結果等到考試當天。」",
+            "也能改：「讀書計畫的功能不是拿來讀，是拿來自我感覺良好的。」"
+          ]
+        },
+        "en": {
+          "content": "My study plan is thicker than the textbook itself.\nCompletion rate? About as close to zero as my bank balance.\nLine one always says \"start being serious tomorrow,\"\nand that tomorrow, like my ex, promised to come back and never showed.",
+          "editorNote": "Perfect for pre-exam self-roasting. Pair with a beautifully designed study schedule that has zero checkmarks on it.",
+          "variations": [
+            "Add: \"It's not that I don't study. I'm waiting for the right mood — turns out the right mood was exam day.\"",
+            "Try: \"A study plan isn't for studying. It's for feeling productive without doing anything.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-170",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.threads.net/search?q=%E8%80%83%E8%A9%A6",
+      "sourceNote": "Threads 考試季 考古題 幻覺句式 — 明明看過卻答不出 frame",
+      "tags": ["考試", "考古題", "自嘲", "崩潰", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考古題我明明寫過三遍，\n結果正式上場，那題長得像我沒見過的陌生人。\n記憶這種東西真的很神奇，\n該記的全忘，昨天午餐吃什麼我倒是記得一清二楚。",
+          "editorNote": "考完發現寫過的題目還是不會，那種背叛感。配個大大的問號貼圖效果最好。",
+          "variations": [
+            "可以加：「我的腦容量是有限的，而它選擇存了迷因，沒存公式。」",
+            "也能改：「複習過的地方全沒考，沒複習的全出現，出題老師你是不是有讀我的心。」"
+          ]
+        },
+        "en": {
+          "content": "I did that past paper three times, I swear.\nThen on the real exam, the question looked like a stranger I'd never met.\nMemory is a funny thing —\nforgets everything it should keep, but knows exactly what I had for lunch yesterday.",
+          "editorNote": "For the betrayal of blanking on a question you practiced. Works best with a giant question-mark sticker.",
+          "variations": [
+            "Add: \"My brain has limited storage, and it chose to save memes instead of formulas.\"",
+            "Try: \"Everything I reviewed didn't show up. Everything I skipped did. Test writer, are you reading my mind?\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-171",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "Dcard 考試板 咖啡因 熬夜 續命 meme — 靠飲料撐考試 register",
+      "tags": ["考試", "熬夜", "咖啡", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考試週我的血液成分：\n百分之四十咖啡、百分之三十能量飲、\n百分之二十悔恨，剩下百分之十是「早知道就早點讀」。\n醫生說我需要休息，\n我說我需要的是把考試取消。",
+          "editorNote": "考試週靠咖啡因續命的日常，配一排空掉的咖啡杯照片超寫實。",
+          "variations": [
+            "可以加：「我不是在喝咖啡，我是在跟瞌睡蟲談判，而且我一直輸。」",
+            "也能改：「能量飲廣告說喝了能展翅高飛，我喝完只想躺平，可能是假貨。」"
+          ]
+        },
+        "en": {
+          "content": "My blood composition during exam week:\n40% coffee, 30% energy drink,\n20% regret, and the last 10% is \"should've started studying earlier.\"\nThe doctor says I need rest.\nI say what I need is for the exam to be cancelled.",
+          "editorNote": "For the caffeine-fueled reality of exam week. Pair with a photo of a lineup of empty coffee cups.",
+          "variations": [
+            "Add: \"I'm not drinking coffee. I'm negotiating with the sleep demon, and I keep losing.\"",
+            "Try: \"The energy drink ad said I'd spread my wings and fly. I just want to lie down. Might be a fake.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-172",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.threads.net/search?q=%E5%88%86%E7%A7%91%E6%B8%AC%E9%A9%97",
+      "sourceNote": "Threads 分科測驗結束 解放感 但空虛 frame — 考完反而失落 register",
+      "tags": ["分科測驗", "考完", "解放", "空虛", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完最後一科走出考場，\n我以為會感動落淚、大喊自由，\n結果只感覺到一陣空虛，還有肚子餓。\n原來奮鬥了那麼久，\n結束的那一刻不是煙火，是一個很長很長的「喔」。",
+          "editorNote": "考完那種預期的解放沒來、反而有點失落的心情，很多考生都懂，配夕陽照片很有 fu。",
+          "variations": [
+            "可以加：「以前每天倒數放榜，現在不知道要期待什麼，人生突然沒了進度條。」",
+            "也能改：「我準備好慶祝了，但慶祝完呢？後面那個空白才是最可怕的。」"
+          ]
+        },
+        "en": {
+          "content": "I walked out of the last exam,\nexpecting to cry tears of joy, to scream that I'm free.\nInstead I just felt empty. And hungry.\nTurns out after fighting for so long,\nthe moment it ends isn't fireworks — it's one very, very long \"oh.\"",
+          "editorNote": "For that anticlimactic emptiness after the relief you expected never comes. Lots of test-takers get this. Pair with a sunset photo.",
+          "variations": [
+            "Add: \"I used to count down to results day. Now I don't know what to look forward to. Life suddenly lost its progress bar.\"",
+            "Try: \"I was ready to celebrate. But after the celebration? That blank space is the scary part.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-173",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://quoteboxe.com/funny-exam-quotes-for-students/",
+      "sourceNote": "英文迷因 'I put the pro in procrastination' 拖延自嘲 register — 改寫成中文考生語感",
+      "tags": ["拖延", "考試", "自嘲", "廢文", "分科測驗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人問我準備得怎樣，\n我說：「我是拖延界的專家，這方面我準備得非常充分。」",
+          "editorNote": "分科前一週，臨時抱佛腳還沒開始抱的人專用，發完限動繼續滑手機也很合理。",
+          "variations": [
+            "也可以說：「我不是還沒讀，我是在戰略性地累積壓力，等壓力到臨界點自然就會爆發性複習。」",
+            "進階版：「拖延不可怕，可怕的是我連拖延都拖到現在才開始。」"
+          ]
+        },
+        "en": {
+          "content": "Someone asked how my studying's going.\nI said: \"I'm an expert in one thing — procrastination. On that front, I'm extremely well prepared.\"",
+          "editorNote": "For the week before the exam when you haven't even started cramming yet. Perfectly reasonable to post this and then keep scrolling.",
+          "variations": [
+            "Try: \"I haven't started. I'm strategically accumulating pressure until it hits critical mass and triggers an explosive review session.\"",
+            "Add: \"Procrastination isn't scary. What's scary is that I procrastinated on procrastinating and only started now.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-174",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://education2research.com/funny-exam-quotations/",
+      "sourceNote": "'School taught me math, life taught me panic' 對照句式 — 改寫成考場崩潰版",
+      "tags": ["考試", "崩潰", "自嘲", "廢文", "考場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "學校教會我微積分、三角函數、化學平衡，\n考場教會我一件更重要的事：\n原來人在極度恐慌的時候，連自己的名字都會覺得拼錯。",
+          "editorNote": "寫在考卷前十秒手抖的心情，配張空白答案卡照片超有共鳴。",
+          "variations": [
+            "也能改：「課本教我公式，考場教我怎麼假裝冷靜同時內心尖叫。」",
+            "可以加：「十二年教育的總結：我學會了在崩潰的時候還要記得寫准考證號碼。」"
+          ]
+        },
+        "en": {
+          "content": "School taught me calculus, trig, and chemical equilibrium.\nThe exam hall taught me something more important:\nwhen you're panicking hard enough, even your own name starts to look misspelled.",
+          "editorNote": "For that hand-trembling moment right before the paper flips over. Pair with a photo of a blank answer sheet.",
+          "variations": [
+            "Try: \"Textbooks taught me the formulas. The exam taught me how to look calm while screaming inside.\"",
+            "Add: \"Twelve years of education, summed up: I learned to remember my seat number even mid-breakdown.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-175",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.dcard.tw/f/freshman/p/254615328",
+      "sourceNote": "Dcard 升大學板 分科衝刺讀不完感嘆 register — 進度表 vs 現實落差",
+      "tags": ["分科測驗", "讀不完", "考試", "自嘲", "衝刺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的讀書計畫表寫得像作戰地圖，\n每一格都排得滿滿滿，看起來就是要上台大的人。\n實際執行率百分之三。\n所以嚴格來說，我不是沒讀，我是做了一份很厲害的「規劃」。",
+          "editorNote": "分科倒數、進度嚴重落後的人自嘲用，把讀書計畫表拍起來附圖更好笑。",
+          "variations": [
+            "也可以說：「計畫趕不上變化，變化趕不上我躺在床上滑手機的速度。」",
+            "進階版：「我把讀書時間都花在做讀書計畫上了，這也算某種認真吧。」"
+          ]
+        },
+        "en": {
+          "content": "My study schedule looks like a battle map —\nevery slot packed full, clearly the plan of someone headed to the top school.\nActual completion rate: three percent.\nSo technically I didn't skip studying. I produced an extremely impressive \"plan.\"",
+          "editorNote": "For anyone way behind schedule during the final sprint. Photograph your color-coded study planner for extra comedy.",
+          "variations": [
+            "Try: \"Plans can't keep up with reality, and reality can't keep up with how fast I lie in bed scrolling.\"",
+            "Add: \"I spent all my study time making the study plan. That counts as a kind of dedication, right?\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-176",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://keypun.com/study-jokes/",
+      "sourceNote": "'I'm fluent in studying the night before the exam' 臨時抱佛腳梗 — 改寫成中文短笑話",
+      "tags": ["臨時抱佛腳", "考試", "笑話", "熬夜", "分科測驗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "平常翻課本像在跟陌生人尬聊，\n考前一晚翻課本，突然變成失散多年的靈魂伴侶，\n一頁十秒鐘就能背起來。\n我的專注力不是不存在，是只認截止日期這個老闆。",
+          "editorNote": "熬夜臨時抱佛腳但效率突然爆表的那種瞬間，發完這篇就繼續熬夜剛好。",
+          "variations": [
+            "也能改：「原來我不是不會讀書，我只是需要一個叫『明天就要考』的教練在旁邊吼。」",
+            "可以加：「考前一晚的我，是全宇宙記憶力最強的版本，可惜只出現八個小時。」"
+          ]
+        },
+        "en": {
+          "content": "Normally flipping through the textbook feels like small talk with a stranger.\nThe night before the exam, it suddenly becomes my long-lost soulmate —\nten seconds a page and it's memorized.\nMy focus does exist. It just only answers to one boss: the deadline.",
+          "editorNote": "For that all-nighter cramming moment when your efficiency inexplicably goes through the roof. Post this, then get back to the grind.",
+          "variations": [
+            "Try: \"Turns out I can study. I just need a coach named 'the exam is tomorrow' screaming next to me.\"",
+            "Add: \"The night-before version of me has the strongest memory in the universe. Shame it only shows up for eight hours.\""
+          ]
+        }
+      }
     }
   ]
 }

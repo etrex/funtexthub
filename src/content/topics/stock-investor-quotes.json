@@ -2761,6 +2761,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-111",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "「別人恐懼我貪婪，別人小虧我破產」PTT 幹話語錄 register；改寫原創",
+      "tags": ["巴菲特", "反指標", "厭世", "散戶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "巴菲特說：別人恐懼時我貪婪，別人貪婪時我恐懼。\n我認真學了。\n現在變成：別人小賠時我住套房，別人小賺時我住地下室。\n我把大師的名言完美執行了，只是每一句都執行反了。",
+          "editorNote": "送給每個把投資大師名言貼在牆上、卻總是做反的同好，貼群組互相取暖",
+          "variations": [
+            "別人在山腳恐懼，我在山頂貪婪，這就是我跟大師唯一的差別。",
+            "名言我全都背得出來，只是輪到我做，句子就自己倒過來了。"
+          ]
+        },
+        "en": {
+          "content": "Buffett said: be greedy when others are fearful, fearful when others are greedy.\nI studied hard.\nNow it's: others take a small loss, I move into an underwater apartment; others take a small gain, I move into the basement.\nI executed the master's words perfectly — I just executed every single one of them backwards.",
+          "editorNote": "For everyone who taped a legendary investor's quote to the wall and still does the opposite. Share in the chat for mutual comfort",
+          "variations": [
+            "Others are fearful at the bottom, I'm greedy at the top. That's the only difference between me and the master.",
+            "I can recite every famous quote. The moment it's my turn to act, the sentence flips itself around."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-112",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.threads.com/@learnenglishwithryan/post/DILGgLvzui6/",
+      "sourceNote": "「bag holder 最後接盤俠」register；改寫原創",
+      "tags": ["接盤", "追高", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "群組裡有人先發現一檔飆股，大家一窩蜂進場，然後又一窩蜂跑掉。\n跑的時候，好像少算了一個人。\n對，那個人是我。\n我終於在這個市場找到一個永遠有我位置的角色——最後一個下車的人。",
+          "editorNote": "送給每個總是最後才知道要跑、結果被留下來抱著的接盤仔",
+          "variations": [
+            "大家都說會互相通知，結果通知我的時候，通常是叫我付帳。",
+            "我不是投資人，我是市場的資源回收站，專門收別人不要的股票。"
+          ]
+        },
+        "en": {
+          "content": "Someone in the group chat spotted a rocket, everyone piled in, then everyone piled out.\nOn the way out, it seemed like they forgot to count one person.\nYes, that person was me.\nI finally found a role in this market that always has a seat with my name on it — the last one off the ride.",
+          "editorNote": "For the bag holder who's always the last to hear it's time to run and ends up left holding it",
+          "variations": [
+            "Everyone promised to give each other a heads-up. When they gave me one, it was usually to pay the tab.",
+            "I'm not an investor. I'm the market's recycling depot, specializing in the stocks nobody else wants."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-113",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1778921579.A.3FD.html",
+      "sourceNote": "「庫存綠到有牛在上面吃草」PTT register；改寫原創",
+      "tags": ["庫存", "套牢", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我最近庫存怎麼樣。\n我說：綠。\n他問：綠多少？\n我說：綠到我打開對帳單，都會聞到一股青草香，還隱約聽見牛叫。\n我的持股不是賠錢，是變成一片牧場。",
+          "editorNote": "適合在滿江綠的收盤傍晚，配著對帳單自嘲貼群組",
+          "variations": [
+            "我的庫存綠到可以拿去申請有機認證了。",
+            "別人的花園需要澆水，我的庫存自己就長成一片綠地。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked how my holdings were doing lately.\nI said: green.\nThey asked: how green?\nI said: green enough that when I open my statement, I catch a whiff of fresh grass and faintly hear a cow moo.\nMy positions aren't down. They've turned into a pasture.",
+          "editorNote": "For the deep-in-the-red evening after the close — pair with your statement for a self-deprecating group post",
+          "variations": [
+            "My portfolio is green enough to qualify for organic certification.",
+            "Other people water their gardens. My holdings grow their own meadow all by themselves."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-114",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://disp.cc/b/Stock/i7wS",
+      "sourceNote": "「2026 半年報 賺錢沒什麼賠錢才厲害」阿呆半年報 register；改寫原創",
+      "tags": ["半年報", "檢討", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "上半年結束，我認真做了一份投資半年報。\n賺錢那幾筆，一句話就寫完了。\n賠錢那幾筆，我寫了三頁，附圖表、附時間軸、附心路歷程。\n我終於發現我的專長：賺錢時很低調，賠錢時很會敘事。",
+          "editorNote": "適合在年中結算、發現虧損比獲利更有故事性的時候自嘲",
+          "variations": [
+            "我的半年報最精彩的部分，全部集中在負號後面。",
+            "賺錢是運氣，不用解釋；賠錢是實力，需要長篇論述。"
+          ]
+        },
+        "en": {
+          "content": "The first half of the year wrapped up, so I put together an honest six-month investing report.\nThe winning trades? One sentence covered them all.\nThe losing trades? Three pages, with charts, a timeline, and a full emotional journey.\nI finally discovered my real talent: modest about the gains, deeply literary about the losses.",
+          "editorNote": "For the mid-year review when you realize your losses have far better storytelling than your wins",
+          "variations": [
+            "The most gripping part of my half-year report is entirely located after the minus signs.",
+            "Making money is luck, no explanation needed. Losing money is skill, and it requires a lengthy essay."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-115",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://digitaldefynd.com/IQ/funny-investing-jokes/",
+      "sourceNote": "「Some get rich studying AI, I make money studying natural stupidity」Icahn register；改寫原創",
+      "tags": ["AI", "自嘲", "散戶", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人研究人工智慧賺大錢。\n我沒那個天分，只好研究天然的愚蠢。\n研究了好幾年，終於找到一個最穩定、最好預測的樣本——就是每次都追高殺低的我自己。\n這大概是我這輩子做過唯一命中率百分之百的研究。",
+          "editorNote": "送給每個把自己當反指標、賠到看破一切的同好",
+          "variations": [
+            "別人靠 AI 選股，我靠觀察我自己的直覺，然後反著做。",
+            "我最了解的一檔標的，就是我自己，因為它每次都讓我賠錢。"
+          ]
+        },
+        "en": {
+          "content": "Some people get rich studying artificial intelligence.\nI don't have the gift, so I settled for studying natural stupidity.\nAfter years of research, I finally found the most stable, most predictable sample there is — me, buying every top and selling every bottom.\nIt's probably the only study of my life with a one-hundred-percent hit rate.",
+          "editorNote": "For the investor who has become their own reliable contrarian indicator and made peace with it",
+          "variations": [
+            "Other people pick stocks with AI. I observe my own gut instinct and then do the exact opposite.",
+            "The one asset I understand best is myself, because it loses me money every single time."
+          ]
+        }
+      }
     }
   ]
 }

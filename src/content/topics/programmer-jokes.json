@@ -7997,6 +7997,238 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-276",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Estimation humor — reworded from common dev estimate jokes",
+      "tags": [
+        "時程估計",
+        "工程師語錄",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "PM：「這個功能大概要多久？」\n工程師：「兩天。」\nPM：「那我跟客戶說下週三上線喔。」\n工程師：「我說的兩天是理論值，是在沒有會議、沒有需求變更、沒有 bug、沒有同事來問問題、也沒有 IE 相容問題的平行宇宙裡的兩天。」",
+          "editorNote": "傳給每次被逼問工時的工程師，他會含淚點頭。",
+          "variations": [
+            "延伸：所以在這個宇宙，答案是兩週，還要看月亮圓不圓。",
+            "也可以回：『兩天。但你如果現在就要答案，那答案是三個月。』"
+          ]
+        },
+        "en": {
+          "content": "PM: \"How long will this feature take?\"\nDeveloper: \"Two days.\"\nPM: \"Great, I'll tell the client it ships next Wednesday.\"\nDeveloper: \"When I said two days, I meant two days in a parallel universe with no meetings, no scope changes, no bugs, no coworkers stopping by with questions, and no legacy browser to support.\"",
+          "editorNote": "Send it to any dev who's been cornered for an estimate. They'll nod through tears.",
+          "variations": [
+            "Extension: So in THIS universe, it's two weeks. Maybe more if Mercury's in retrograde.",
+            "Alternate: 'Two days. But if you need the answer right now, the answer is three months.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-277",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Rubber duck debugging — reworded original take",
+      "tags": [
+        "除錯",
+        "工程師思維",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師卡了三個小時的 bug，最後決定對著桌上的橡皮鴨一句一句解釋自己的程式。\n講到第四行，他突然停住，說：「喔，我知道了。」\n然後把問題修好了。\n那隻鴨子從頭到尾沒說半句話，卻拿了這個月的最佳員工。",
+          "editorNote": "傳給還沒體驗過『橡皮鴨除錯法』的新人，這真的有用到很扯。",
+          "variations": [
+            "延伸：於是公司決定幫每個工程師都配一隻鴨，人力成本瞬間下降。",
+            "也可以是：後來他升職了，感謝詞第一個念的是那隻鴨的名字。"
+          ]
+        },
+        "en": {
+          "content": "A developer had been stuck on a bug for three hours, so he started explaining his code line by line to the rubber duck on his desk.\nAt line four he froze and said, \"Oh. I see it.\"\nThen he fixed it.\nThe duck never said a word, and still won employee of the month.",
+          "editorNote": "Send this to anyone who hasn't discovered rubber duck debugging — it works embarrassingly well.",
+          "variations": [
+            "Extension: So the company issued every developer a duck, and headcount costs dropped overnight.",
+            "Alternate: He got promoted later, and the first name in his acceptance speech was the duck's."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-278",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.ptt.cc/bbs/Soft_Job/",
+      "sourceNote": "Works on my machine — reworded classic",
+      "tags": [
+        "程式碼品質",
+        "工程師語錄",
+        "甩鍋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試：「你這個功能在正式環境壞掉了。」\n工程師：「奇怪，我電腦上跑得好好的啊。」\n測試：「那你要不要把你電腦寄給客戶？」\n工程師沉默了三秒，說：「這個想法……其實有點道理。」",
+          "editorNote": "傳給那個永遠只會說『我這邊沒問題』的工程師同事。",
+          "variations": [
+            "延伸：於是 Docker 就這樣被發明出來了。",
+            "也可以回：『不然我們把我的電腦部署上去，反正它最穩。』"
+          ]
+        },
+        "en": {
+          "content": "QA: \"Your feature is broken in production.\"\nDeveloper: \"Weird, it runs perfectly on my machine.\"\nQA: \"Then should we just ship your machine to the customer?\"\nThe developer went quiet for three seconds, then said, \"Honestly... that's not a terrible idea.\"",
+          "editorNote": "Send it to the coworker whose entire debugging strategy is 'works on my machine.'",
+          "variations": [
+            "Extension: And that, kids, is how Docker was invented.",
+            "Alternate: 'Fine, let's just deploy my laptop. It's the most stable server we've got.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-279",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
+      "sourceNote": "Naming things — reworded from the two hard problems joke",
+      "tags": [
+        "命名",
+        "工程師思維",
+        "程式碼品質"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "資工界有兩件最難的事：快取失效、命名，還有差一錯誤。\n一個工程師花了二十分鐘寫完一段功能，然後花了四十分鐘想那個變數要叫什麼。\n最後他打了 data2。\n三個月後，他自己也看不懂 data2 是什麼，只好新增一個 data3。",
+          "editorNote": "傳給那個 repo 裡充滿 temp、tmp、final、final_v2 的工程師。",
+          "variations": [
+            "延伸：後來出現了 data_final_真的最後一版，然後又有了 data_final_真的最後一版_改。",
+            "也可以是：他最偉大的作品不是那段程式，而是撐了三年沒人敢動的 x。"
+          ]
+        },
+        "en": {
+          "content": "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors.\nA developer spent twenty minutes writing a function, then forty minutes deciding what to name a variable.\nHe went with data2.\nThree months later even he had no idea what data2 was, so he added data3.",
+          "editorNote": "Send it to the dev whose repo is full of temp, tmp, final, and final_v2.",
+          "variations": [
+            "Extension: Then came data_final_actually_last, followed shortly by data_final_actually_last_fixed.",
+            "Alternate: His greatest legacy wasn't the code — it was the variable called x that nobody dared touch for three years."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-280",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "Vibe coding — dependency on AI, reworded from grep-vs-prompt meme",
+      "tags": [
+        "AI",
+        "工程師思維",
+        "程式碼品質"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在的工程師分兩種：一種會下 prompt，一種會 grep。\n某天公司的 AI 服務掛掉，整層樓瞬間安靜下來。\n有人小聲問：「那個⋯⋯點兩下會觸發的那段程式，到底寫在哪裡？」\n沒有人回答。因為能回答的那個人，剛剛也在問 AI。",
+          "editorNote": "傳給整天離不開 Copilot、AI 一斷線就手足無措的同事。",
+          "variations": [
+            "延伸：後來他們終於找到那段程式，在一個叫 utils_old_backup 的資料夾裡。",
+            "也可以是：AI 掛掉的那天，公司才發現原來沒人記得怎麼手動 debug。"
+          ]
+        },
+        "en": {
+          "content": "There are two kinds of developers now: ones who write prompts, and ones who can grep.\nOne day the company's AI service went down and the whole floor fell silent.\nSomeone whispered, \"That thing that fires when you double-click... where does it actually live?\"\nNobody answered. The one person who could was busy asking the AI.",
+          "editorNote": "Send it to the coworker who panics the second Copilot goes offline.",
+          "variations": [
+            "Extension: They eventually found the code — in a folder called utils_old_backup.",
+            "Alternate: The day the AI went down was the day the team learned nobody remembered how to debug by hand."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-281",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/copilot-has-ruined-code-reviewing-for-me-a0e9",
+      "sourceNote": "Code review — is the AI code genius or hallucinating, reworded",
+      "tags": [
+        "AI",
+        "code review",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，工程師盯著一段 AI 生出來的程式碼看了半小時。\n它跑得起來、看起來很聰明、但沒有一行是他看得懂的。\n他反覆問自己一個問題：\n「這到底是天才的解法，還是我正在被一個語言模型溫柔地唬爛？」",
+          "editorNote": "傳給那個 review PR 時，越看越懷疑人生的 reviewer。",
+          "variations": [
+            "延伸：他最後按了 Approve，附註寫著『看起來沒問題（吧）』。",
+            "也可以是：唯一確定的事，是這段程式的註解比他的人生規劃還完整。"
+          ]
+        },
+        "en": {
+          "content": "Two in the morning, a developer stared at a chunk of AI-generated code for half an hour.\nIt ran. It looked clever. He understood exactly none of it.\nHe kept asking himself one question:\n\"Is this a genuinely brilliant solution, or am I being gently gaslit by a language model?\"",
+          "editorNote": "Send it to the reviewer who spirals a little more with every AI-written PR.",
+          "variations": [
+            "Extension: He hit Approve anyway, with the note 'looks fine (probably).'",
+            "Alternate: The only thing he knew for sure was that the code's comments were more thought-out than his life."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-282",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Centering a div — lost skill without AI, reworded",
+      "tags": [
+        "前端",
+        "AI",
+        "CSS"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前把一個 div 置中，是每個前端工程師的成年禮。\n現在？把 AI 拔掉，全辦公室沒有一個人記得到底是 justify-content 還是 align-items。\n一個資深工程師盯著螢幕整整五分鐘，最後緩緩打開對話框，輸入：\n「請幫我把這個東西移到中間，謝謝。」",
+          "editorNote": "傳給那個沒 AI 就不會切版，但嘴上絕不承認的前端。",
+          "variations": [
+            "延伸：後來他還是加了句『謝謝』，說是怕 AI 覺醒後找他算帳。",
+            "也可以是：那天他才發現，自己會的不是 CSS，是打字問 AI。"
+          ]
+        },
+        "en": {
+          "content": "Centering a div used to be a rite of passage for every frontend dev.\nNow? Take away the AI and nobody in the office remembers if it's justify-content or align-items.\nA senior engineer stared at the screen for a full five minutes, then slowly opened the chat box and typed:\n\"Please move this thing to the middle, thanks.\"",
+          "editorNote": "Send it to the frontend dev who can't lay out a page without AI but will never admit it.",
+          "variations": [
+            "Extension: He still added 'thanks' — just in case the AI ever wakes up and remembers who was rude.",
+            "Alternate: That was the day he realized his real skill wasn't CSS. It was typing questions to a robot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-283",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "2026 job market — everyone became an entrepreneur with AI, reworded",
+      "tags": [
+        "AI",
+        "職場",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的科技業：市面上冒出幾百萬個 AI 生出來的 App，全是「發現了 AI 之後突然變成創業家」的人做的。\n某天面試官問求職者：「你的產品後端怎麼架構的？」\n對方愣了一下，誠實回答：\n「這個我要回去問我的 AI，牠比較清楚。」",
+          "editorNote": "傳給那個最近突然開始自稱『AI 創業家』的朋友。",
+          "variations": [
+            "延伸：面試結束後，面試官也默默打開對話框問 AI：『這種人該錄取嗎？』",
+            "也可以是：現在履歷上最強的技能不是寫程式，是把 prompt 下得漂亮。"
+          ]
+        },
+        "en": {
+          "content": "Tech in 2026: millions of AI-generated apps flooding the ecosystem, all built by people who discovered AI and instantly became \"entrepreneurs.\"\nOne day an interviewer asked a candidate, \"How's your backend architected?\"\nThe candidate paused, then answered honestly:\n\"I'd have to go home and ask my AI. It knows more than I do.\"",
+          "editorNote": "Send it to the friend who recently started calling themselves an 'AI founder.'",
+          "variations": [
+            "Extension: After the interview, the interviewer quietly opened a chat and asked the AI, 'Should I hire this person?'",
+            "Alternate: The strongest skill on a resume now isn't coding — it's writing a really clean prompt."
+          ]
+        }
+      }
     }
   ]
 }

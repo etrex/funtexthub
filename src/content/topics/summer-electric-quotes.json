@@ -2904,6 +2904,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-118",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "夏月電價 6-9 月共四個月 register；改寫原創",
+      "tags": ["夏月電價", "四個月", "倒數", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我為什麼夏天過得特別慢。\n我說：因為夏月電價是六月到九月，整整四個月。\n別人在數暑假還剩幾天，我在數帳單還要來幾張。",
+          "editorNote": "傳給那個七月才過一半、就已經在期待九月底的朋友",
+          "variations": [
+            "夏天的長度，官方認定是四個月，我的錢包認定是四張帳單。",
+            "別人的夏天用天氣計算，我的夏天用電費級距計算。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked why summer feels so much longer to me.\nI said: because summer rates run June through September — four whole months.\nOthers count how many vacation days are left. I count how many bills are still coming.",
+          "editorNote": "For the friend who's only halfway through July and already longing for late September",
+          "variations": [
+            "Officially summer is four months long. According to my wallet, it's four bills long.",
+            "Other people measure summer in weather. I measure it in billing tiers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-119",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "冷氣 26-28 度搭電風扇 官方省電建議 register；改寫原創",
+      "tags": ["冷氣", "電風扇", "省電", "官方建議"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電的省電公式：冷氣 28 度，加一台電風扇。\n我的執行版本：冷氣 28 度，加一台電風扇，加把風扇對著自己，加把自己貼在風扇前，加放棄站起來拿水喝。\n省電到最後，我活得像一株需要固定日照的盆栽。",
+          "editorNote": "傳給那個坐在電風扇正前方一整個下午不敢移動的朋友",
+          "variations": [
+            "省電的最高境界，是讓自己變成一個不太需要移動的家電。",
+            "28 度加電風扇能不能涼，取決於你願不願意整個下午都不站起來。"
+          ]
+        },
+        "en": {
+          "content": "The utility's saving formula: AC at 82°F, plus one fan.\nMy version: AC at 82°F, plus a fan, plus aiming the fan at myself, plus gluing myself to the fan, plus giving up on standing to get water.\nBy the end of saving energy, I live like a potted plant that needs steady exposure to airflow.",
+          "editorNote": "For the friend who sits directly in front of the fan all afternoon, afraid to move",
+          "variations": [
+            "Peak energy-saving is turning yourself into an appliance that barely needs to move.",
+            "Whether 82°F plus a fan feels cool depends entirely on whether you'll stay seated all afternoon."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-120",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://qmonster.cc/energy-efficient/",
+      "sourceNote": "變頻冷氣不關更省 台電認證關鍵時間 register；改寫原創",
+      "tags": ["變頻冷氣", "省電迷思", "出門", "台電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "查了一整晚：變頻冷氣到底該不該關？\n答案是：出門三小時內別關，超過三小時就關。\n於是現在我出門前，都要先算好行程幾小時，精準到分鐘。\n以前出門想的是要去哪，現在想的是這樣算不算超過三小時。",
+          "editorNote": "傳給那個出門前會認真計算回家時間、就為了決定冷氣開關的精算魂朋友",
+          "variations": [
+            "變頻冷氣把「要不要關」變成一道需要行程表的申論題。",
+            "三小時的分界線，讓我出門買個午餐都像在做財務規劃。"
+          ]
+        },
+        "en": {
+          "content": "Spent all night researching: should you turn off an inverter AC or not?\nThe answer: leave it on for trips under three hours, switch it off for anything longer.\nSo now before leaving, I calculate my itinerary down to the minute.\nI used to think about where I was going. Now I think about whether this counts as over three hours.",
+          "editorNote": "For the analytical friend who plans their return time to the minute just to decide the AC",
+          "variations": [
+            "Inverter AC turns 'off or on' into an essay question that requires a schedule.",
+            "The three-hour threshold makes grabbing lunch feel like financial planning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-121",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://cheezburger.com/45692165/celebrating-humanitys-greatest-invention-21-air-conditioning-memes-for-anyone-surviving-another",
+      "sourceNote": "AC humanity's greatest invention meme register；改寫原創",
+      "tags": ["冷氣", "發明", "感恩", "夏天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類史上最偉大的發明排名：\n第三名，火。\n第二名，網路。\n第一名，冷氣。\n唯一的缺點是，前兩名發明完就免費用了，只有第一名，每個月都要重新付費解鎖。",
+          "editorNote": "傳給那個一進冷氣房就發自內心說「發明冷氣的人是天才」的朋友",
+          "variations": [
+            "冷氣是人類最偉大的發明，也是唯一一個每個月要續訂的發明。",
+            "感謝發明冷氣的人，也詛咒發明夏月電價的人，這兩種情緒每天在我心裡打架。"
+          ]
+        },
+        "en": {
+          "content": "Ranking humanity's greatest inventions:\nThird place: fire.\nSecond place: the internet.\nFirst place: air conditioning.\nIts only flaw is that the first two came free after invention — only number one has to be re-unlocked with a payment every single month.",
+          "editorNote": "For the friend who walks into a cold room and sincerely declares 'whoever invented AC was a genius'",
+          "variations": [
+            "AC is humanity's greatest invention — and the only one that requires a monthly subscription.",
+            "I bless whoever invented the AC and curse whoever invented summer rates; the two feelings fight in me daily."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-122",
+      "dateAdded": "2026-07-03",
+      "sourceUrl": "https://www.boredpanda.com/heatwave-memes/",
+      "sourceNote": "sleeping under blanket with AC blasting heatwave meme register；改寫原創",
+      "tags": ["冷氣", "棉被", "睡覺", "矛盾"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天睡覺的標準流程：\n冷氣開 24 度，蓋一條薄被，睡到半夜冷醒，把被子拉高，繼續睡。\n明明只要把冷氣調到 27 度就能解決，但那需要我起身、清醒、面對現實——太難了，不如繼續多付那幾塊錢。",
+          "editorNote": "傳給那個寧願半夜多蓋被子、也不願起來調高冷氣的懶人朋友",
+          "variations": [
+            "調高一度冷氣要起身，多蓋一條被子只要伸手，人性會選哪個很明顯。",
+            "我不是喜歡浪費電，我只是半夜三點沒有力氣跟遙控器搏鬥。"
+          ]
+        },
+        "en": {
+          "content": "Standard summer sleep routine:\nAC at 75°F, one thin blanket, wake up cold at 2 AM, pull the blanket higher, go back to sleep.\nRaising the AC to 80°F would fix it entirely, but that requires getting up, being awake, and facing reality — too hard. Easier to just pay the extra few bucks.",
+          "editorNote": "For the lazy friend who'd rather pile on blankets at 2 AM than get up to raise the AC",
+          "variations": [
+            "Raising the AC means standing up; grabbing another blanket means reaching out. It's obvious which one human nature picks.",
+            "I don't love wasting electricity. I just have no strength to wrestle the remote at 3 AM."
+          ]
+        }
+      }
     }
   ]
 }
