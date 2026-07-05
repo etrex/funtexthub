@@ -5167,6 +5167,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "wedq-179",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "婚禮誓詞",
+        "伴侶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是嫁給一個完美的人，而是決定和你一起，把日子過成我們喜歡的樣子。",
+          "editorNote": "適合新娘在證婚儀式上對另一半說的誓詞，語氣真誠不浮誇。",
+          "variations": [
+            "我娶的不是一個完美的人，而是願意陪我把生活過成我們想要的樣子的你。",
+            "我要的從來不是完美，只是想和你一起，把平凡的每一天過成專屬我們的故事。"
+          ]
+        },
+        "en": {
+          "content": "I'm not marrying someone perfect. I'm choosing you, so we can build the kind of life we actually want, together.",
+          "editorNote": "A grounded, heartfelt vow to read during the ceremony.",
+          "variations": [
+            "I didn't fall for someone flawless. I fell for you, and the life we get to build side by side.",
+            "Perfect was never the goal. You were, and the everyday life we'll share is everything I wanted."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wedq-180",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "婚禮祝福",
+        "賓客致詞"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "願你們的婚姻像老朋友一樣自在，像初戀一樣心動，也像家一樣，永遠有燈為彼此留著。",
+          "editorNote": "適合賓客或親友在婚宴上的簡短祝福致詞。",
+          "variations": [
+            "祝你們相處像老友般自在，愛情像初見時心動，家裡永遠有一盞燈為對方亮著。",
+            "願你們既是最懂彼此的老朋友，也是永遠會為對方心動的戀人。"
+          ]
+        },
+        "en": {
+          "content": "May your marriage feel as easy as old friends, as thrilling as a first crush, and as warm as a home that always leaves a light on for you.",
+          "editorNote": "A short, warm toast for guests to give at the reception.",
+          "variations": [
+            "Here's to a love that's as comfortable as old friends and as exciting as the very first spark.",
+            "May you always be each other's best friend, biggest crush, and safest place to come home to."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wedq-181",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "婚禮邀請",
+        "喜帖文案"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們決定把餘生交給彼此，也想把這一天最好的位置，留給重要的你。",
+          "editorNote": "適合喜帖或電子邀請卡上的邀請語。",
+          "variations": [
+            "我們要開始一段兩個人的故事，誠摯邀請你來見證這重要的一天。",
+            "把最好的日子留給最重要的人，期待你來分享我們的喜悅。"
+          ]
+        },
+        "en": {
+          "content": "We're giving the rest of our lives to each other, and we'd love to save the best seat of the day for someone as important as you.",
+          "editorNote": "An invitation line for a wedding invite or digital save-the-date.",
+          "variations": [
+            "We're starting our story, and we can't imagine writing the first page without you there.",
+            "The best day of our lives deserves the best people in it, so please, come celebrate with us."
+          ]
+        }
+      }
     }
   ]
 }

@@ -5726,6 +5726,84 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-200",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "麵包",
+        "雙關"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼吐司永遠交不到女朋友？因為它總是被烤（靠）邊站。",
+          "editorNote": "早餐店閒聊、烘焙話題開場的冷笑話",
+          "variations": [
+            "為什麼吐司這麼孤單？因為它老是被烤邊。"
+          ]
+        },
+        "en": {
+          "content": "Why did the loaf of bread stay single? It never found anyone it could rise to the occasion with.",
+          "editorNote": "Light opener for a bakery or brunch chat",
+          "variations": [
+            "Why is bread bad at dating? It always ends up toast."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-201",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "蛋",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "荷包蛋去看醫生，醫生說：「你這是煎熬（煎熬）過度啦。」",
+          "editorNote": "聊早餐或壓力大時的諧音梗",
+          "variations": [
+            "荷包蛋最近壓力好大，因為每天都在被煎熬。"
+          ]
+        },
+        "en": {
+          "content": "I asked the fried egg how it was doing. It said, \"Honestly? I'm a little cracked under pressure.\"",
+          "editorNote": "Breakfast small talk or a pun about stress",
+          "variations": [
+            "The fried egg quit its job. It couldn't take being flipped around anymore."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-202",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "珍珠奶茶",
+        "台灣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "珍珠奶茶為什麼這麼受歡迎？因為它從不吝嗇給你滿滿的珍珠，不像有些人只會給你空頭支票。",
+          "editorNote": "聊飲料或台灣手搖店時的自嘲式笑點",
+          "variations": [
+            "珍奶最誠實了，說有珍珠就真的有珍珠。"
+          ]
+        },
+        "en": {
+          "content": "Why is bubble tea so trustworthy? When it promises you pearls, it actually delivers—unlike my ex.",
+          "editorNote": "Casual joke over drinks or about boba culture",
+          "variations": [
+            "Bubble tea never lets me down. Every sip's got a surprise."
+          ]
+        }
+      }
     }
   ]
 }

@@ -7276,6 +7276,93 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-284",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學「俗話說得好」自我引用句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "語言",
+        "自我引用"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "俗話說得好：\n「俗話說得好。」\n\n這句話之所以流傳這麼久，\n就是因為大家一直在講。",
+          "editorNote": "被人要求引用名言時丟這句，對方會安靜三秒鐘",
+          "variations": [
+            "古人有云，古人確實有云。",
+            "有一句話是這樣說的，而它剛剛就是被這樣說出來的。"
+          ]
+        },
+        "en": {
+          "content": "As the old saying goes:\n\"As the old saying goes.\"\n\nThe reason it's lasted so long\nis that everyone keeps saying it.",
+          "editorNote": "Whip this out when someone asks you to quote something wise — expect three seconds of silence",
+          "variations": [
+            "The ancients once said, and yes, they did once say it.",
+            "There's a saying that goes like this — and it just went exactly like that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-285",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://www.dcard.tw/f/funny/p/224622659",
+      "sourceNote": "廢話文學「番茄有番茄味」同義反覆句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "食物",
+        "感官"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我咬了一口這顆番茄，\n意外地，它有一股濃濃的番茄味。\n\n果然是番茄，\n沒有讓我失望。",
+          "editorNote": "朋友問餐廳食物好不好吃時的萬用回覆，講了等於沒講",
+          "variations": [
+            "這杯水喝起來，有一種水的味道。",
+            "我吃了一口白飯，發現它吃起來很像飯。"
+          ]
+        },
+        "en": {
+          "content": "I took a bite of this tomato,\nand to my surprise, it tasted intensely of tomato.\n\nTruly a tomato —\nit did not let me down.",
+          "editorNote": "The all-purpose reply when a friend asks how the restaurant food was — you've said everything and nothing",
+          "variations": [
+            "This glass of water has a distinct flavor of water.",
+            "I took a bite of the rice and discovered it tastes remarkably like rice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-286",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://www.sohu.com/a/895491666_121124291",
+      "sourceNote": "廢話文學「我一無所知」自我否定句型，重新創作",
+      "tags": [
+        "廢話文學",
+        "哲學",
+        "知識"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "據我所知，\n我其實一無所知。\n\n而我唯一確定的，\n就是這件事我也不太確定。",
+          "editorNote": "被問到不會的問題時拿來墊檔，聽起來很有深度其實在裝傻",
+          "variations": [
+            "我什麼都懂，除了我不懂的那些。",
+            "經過深思熟慮，我決定不下任何結論。"
+          ]
+        },
+        "en": {
+          "content": "As far as I know,\nI actually know nothing at all.\n\nAnd the only thing I'm sure of\nis that I'm not too sure about that either.",
+          "editorNote": "A stalling line for questions you can't answer — sounds deep, but you're just playing dumb",
+          "variations": [
+            "I understand everything, except the parts I don't understand.",
+            "After careful deliberation, I have decided to reach no conclusion whatsoever."
+          ]
+        }
+      }
     }
   ]
 }

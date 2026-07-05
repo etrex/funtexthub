@@ -7597,6 +7597,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-270",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "progress",
+        "consistency"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你不需要一次跨出一大步，只要每天願意往前踏一小步，一年後回頭看，那已經是一段很長的路了。",
+          "editorNote": "適合新習慣養成、健身或學習進度停滯時的自我打氣。",
+          "variations": [
+            "別急著追求飛躍，穩穩地每天前進一點點，時間會替你把距離拉開。",
+            "小小的進步不起眼，但累積三百六十五天，就是別人追不上的差距。"
+          ]
+        },
+        "en": {
+          "content": "You don't have to take one giant leap. Just be willing to take one small step forward each day, and a year from now you'll look back on a road that's surprisingly long.",
+          "editorNote": "Good for building new habits, or fitness and study plateaus.",
+          "variations": [
+            "Forget the big leap. Move a little every day, and time will stretch the gap for you.",
+            "Tiny progress feels like nothing, but stack up 365 days of it and it becomes a lead no one can catch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-271",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "resilience",
+        "failure"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "失敗不是終點，它只是把你不需要的路先幫你劃掉，讓你更快找到真正屬於你的那一條。",
+          "editorNote": "適合創業受挫、面試落選或計畫失敗後的安慰語。",
+          "variations": [
+            "每一次失敗，都是在替你篩掉錯的選項，離對的答案又近了一步。",
+            "跌倒不可怕，可怕的是把跌倒當成句點，而不是逗號。"
+          ]
+        },
+        "en": {
+          "content": "Failure isn't the end. It just crosses out the paths you didn't need, so you can find the one that's actually yours a whole lot faster.",
+          "editorNote": "For comfort after a failed startup, rejected interview, or busted plan.",
+          "variations": [
+            "Every failure filters out a wrong option and nudges you one step closer to the right answer.",
+            "Falling isn't the scary part. Treating the fall as a period instead of a comma is."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-272",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "self-worth",
+        "mindset"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別把自己的價值交給別人的一句評價來決定，你不是為了讓每個人都喜歡才活著的。",
+          "editorNote": "適合面對他人批評、社群比較或自我懷疑時使用。",
+          "variations": [
+            "一句否定不能定義你，除非你自己先簽名同意。",
+            "你不欠世界一個完美的樣子，你只欠自己一個真實的活法。"
+          ]
+        },
+        "en": {
+          "content": "Don't hand over your worth to someone else's one-line opinion. You're not here to be liked by everyone.",
+          "editorNote": "For facing criticism, social comparison, or self-doubt.",
+          "variations": [
+            "One put-down can't define you, unless you sign off on it first.",
+            "You don't owe the world a perfect version of you. You just owe yourself an honest one."
+          ]
+        }
+      }
     }
   ]
 }

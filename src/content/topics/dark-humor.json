@@ -6933,6 +6933,87 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-245",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://funtexthub.com/original",
+      "sourceNote": "original dark-comedy line on AI job displacement",
+      "tags": [
+        "科技",
+        "職場",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司說 AI 不會取代我，只會取代不會用 AI 的人。於是我學會了用 AI，然後 AI 學會了用我。",
+          "editorNote": "適合在被要求「提升 AI 技能」的會議後，傳到同事群組相視苦笑。",
+          "variations": [
+            "主管：AI 是來幫你的。幫我打包離職的那種幫。"
+          ]
+        },
+        "en": {
+          "content": "They promised AI wouldn't replace me, only people who can't use AI. So I learned to use AI. Now AI uses me.",
+          "editorNote": "Good for the group chat right after a mandatory 'upskilling' meeting.",
+          "variations": [
+            "Boss: AI is here to help you. Help you carry your box to the parking lot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-246",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://funtexthub.com/original",
+      "sourceNote": "original dark-comedy line on adult burnout",
+      "tags": [
+        "成年人",
+        "疲憊",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候以為長大就自由了，現在才懂，那是把牢房從家裡搬到公司，還要自己付房租。",
+          "editorNote": "月底繳完帳單、看著存款餘額時的自我療癒金句。",
+          "variations": [
+            "長大最大的謊言，是「以後就會輕鬆了」。"
+          ]
+        },
+        "en": {
+          "content": "As a kid I thought growing up meant freedom. Turns out it just moved the cage from home to the office, and now I pay rent on it.",
+          "editorNote": "Self-soothing line for staring at your bank balance after paying the bills.",
+          "variations": [
+            "Adulthood's biggest lie: 'It gets easier later.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-247",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://funtexthub.com/original",
+      "sourceNote": "original dark-comedy line on digital loneliness",
+      "tags": [
+        "孤獨",
+        "社群媒體",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我有五百個好友，卻找不到一個人幫我搬家。原來「線上」不代表在我身邊，只代表沒睡。",
+          "editorNote": "深夜滑手機、已讀不回時，發限時動態配這句剛剛好。",
+          "variations": [
+            "按讚是最便宜的關心，剛好等於它的價值。"
+          ]
+        },
+        "en": {
+          "content": "I have five hundred friends and not one who'll help me move. Turns out 'online' doesn't mean nearby, it just means not asleep.",
+          "editorNote": "Pair it with a late-night story post while your texts sit on 'read.'",
+          "variations": [
+            "A like is the cheapest form of caring, and priced accordingly."
+          ]
+        }
+      }
     }
   ]
 }

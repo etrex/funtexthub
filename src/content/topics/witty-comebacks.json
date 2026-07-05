@@ -7302,6 +7302,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-249",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "work",
+        "meetings"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個會議本來可以用一封信解決。」\n「那你剛剛講的三十分鐘也可以。」",
+          "editorNote": "同事在冗長會議後抱怨時的回敬，四兩撥千斤",
+          "variations": [
+            "「你也貢獻了三十分鐘的信件內容啊。」",
+            "「那我們現在就當作在讀那封信吧。」"
+          ]
+        },
+        "en": {
+          "content": "\"This meeting could've been an email.\"\n\"So could those thirty minutes you just talked.\"",
+          "editorNote": "A gentle jab back when a coworker complains about a dragging meeting",
+          "variations": [
+            "\"You just wrote a whole paragraph of that email out loud.\"",
+            "\"Great, then consider yourself CC'd.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-250",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "insults",
+        "confidence"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你以為你是誰？」\n「我不用以為，我本來就知道；比較困擾的是你到現在還不知道你是誰。」",
+          "editorNote": "面對挑釁式質問時，把問題優雅地丟回去",
+          "variations": [
+            "「至少我不用問別人才知道。」",
+            "「這問題你留給自己用比較合適。」"
+          ]
+        },
+        "en": {
+          "content": "\"Who do you think you are?\"\n\"I don't have to think—I already know. The real mystery is that you still don't know who you are.\"",
+          "editorNote": "Flipping a hostile rhetorical question back on the asker",
+          "variations": [
+            "\"At least I didn't have to ask a stranger to find out.\"",
+            "\"That's a great question—for you.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-251",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "dating",
+        "texting"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「抱歉，我剛剛太忙了才沒回你訊息。」\n「沒關係，我也剛好忙到把你降級成『已讀不回也不心痛』的名單。」",
+          "editorNote": "對方用『太忙』當已讀不回的藉口時，笑著反擊",
+          "variations": [
+            "「巧了，我也剛好忙著調整對你的期待值。」",
+            "「沒事，那份忙我幫你保存到永久了。」"
+          ]
+        },
+        "en": {
+          "content": "\"Sorry, I was just too busy to text you back.\"\n\"No worries, I was also busy—moving you to the 'left on read, zero feelings' list.\"",
+          "editorNote": "A playful clapback when someone blames 'being busy' for ghosting you",
+          "variations": [
+            "\"Funny, I stayed busy lowering my expectations of you.\"",
+            "\"All good, I archived that effort for you—permanently.\""
+          ]
+        }
+      }
     }
   ]
 }

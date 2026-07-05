@@ -7686,6 +7686,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-259",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "會議",
+        "效率"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這場會議如果能用一封信講完，那它本來就該是一封信。",
+          "editorNote": "用來婉轉點出無效會議太多的場合",
+          "variations": [
+            "能寄信解決的事，就別排一小時的會。",
+            "會議室不是拿來念稿的，念稿請寄 email。"
+          ]
+        },
+        "en": {
+          "content": "If this meeting could've been an email, then it should've been one.",
+          "editorNote": "For gently calling out unnecessary meetings",
+          "variations": [
+            "Some meetings are just emails wearing a calendar invite.",
+            "We didn't need a room for this, we needed a paragraph."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-260",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "職場界線",
+        "身心健康"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你可以很拚，但你不是公司的耗材，累了就把自己修好再上。",
+          "editorNote": "提醒自己或同事別過度燃燒時使用",
+          "variations": [
+            "認真工作沒錯，但別把命也一起交出去。",
+            "把自己顧好，公司才有得用你。"
+          ]
+        },
+        "en": {
+          "content": "Work hard if you want, but you're not the company's spare part—rest and repair before you run again.",
+          "editorNote": "A reminder against burning out",
+          "variations": [
+            "Give your best, not your whole self.",
+            "Take care of you first; the company can wait."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-261",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "回饋",
+        "成長"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別怕被挑毛病，怕的是沒人願意告訴你哪裡可以更好。",
+          "editorNote": "鼓勵團隊正向看待建設性回饋",
+          "variations": [
+            "有人願意給你回饋，代表他還沒放棄你。",
+            "被指正不丟臉，一直原地踏步才可惜。"
+          ]
+        },
+        "en": {
+          "content": "Don't fear the critique—fear the silence of no one bothering to tell you how to get better.",
+          "editorNote": "Encouraging a healthy view of feedback",
+          "variations": [
+            "Feedback means someone still believes you can grow.",
+            "Being corrected isn't the embarrassing part—staying stuck is."
+          ]
+        }
+      }
     }
   ]
 }

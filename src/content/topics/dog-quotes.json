@@ -6184,6 +6184,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "dogq-214",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "loyalty",
+        "companionship"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "狗不會問你今天過得好不好，牠只是靜靜坐到你腳邊，用陪伴代替所有的問候。",
+          "editorNote": "適合分享寵物陪伴的溫暖時刻，或安慰情緒低落的朋友。",
+          "variations": [
+            "牠不需要理由就靠了過來，這大概就是最單純的愛。",
+            "有些安慰不用開口，一隻狗趴在你身邊就夠了。"
+          ]
+        },
+        "en": {
+          "content": "A dog never asks how your day went. It just quietly settles at your feet and lets its company do the talking.",
+          "editorNote": "Great for posts about the comfort of pets or cheering up a friend.",
+          "variations": [
+            "He didn't need a reason to lean in close. Maybe that's the purest kind of love.",
+            "Some comfort needs no words. A dog curled up beside you says it all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-215",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "joy",
+        "everyday"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "想知道無條件的快樂長什麼樣子，看看你家的狗聽到「散步」兩個字的反應就懂了。",
+          "editorNote": "適合搭配狗狗興奮衝向門口的照片或影片。",
+          "variations": [
+            "世界上最容易被討好的，大概就是聽到出門聲音的狗。",
+            "一句『走囉』就能讓牠原地起飛，這種快樂真的很療癒。"
+          ]
+        },
+        "en": {
+          "content": "Want to know what unconditional joy looks like? Just say the word walk and watch your dog completely lose it.",
+          "editorNote": "Pairs well with a video of a dog bolting for the door.",
+          "variations": [
+            "Nothing on earth is easier to please than a dog who heard the leash jingle.",
+            "One 'let's go' and he's airborne. That kind of happiness is contagious."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-216",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "memory",
+        "grief"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牠陪你的時間只是牠一生的全部，而你要記得，那份全心全意，值得被好好珍藏。",
+          "editorNote": "適合追憶離世毛孩，或提醒飼主珍惜當下。",
+          "variations": [
+            "對狗來說，你就是牠的整個世界，別讓牠等太久。",
+            "牠給的是一輩子，我們能回報的，是好好陪牠走完每一天。"
+          ]
+        },
+        "en": {
+          "content": "You're only part of your dog's life, but to them you're the whole of it. That kind of devotion deserves to be treasured.",
+          "editorNote": "For remembering a pet who passed, or reminding owners to cherish the now.",
+          "variations": [
+            "To a dog, you are the entire world. Don't keep them waiting too long.",
+            "They give us a lifetime. The least we can do is be there for every day of it."
+          ]
+        }
+      }
     }
   ]
 }

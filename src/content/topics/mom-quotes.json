@@ -7290,6 +7290,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "momq-247",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "感謝",
+        "母親節"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽，妳的手總是先放下自己的碗，去夾我最愛吃的那一塊。這麼多年了，我才懂那不是習慣，是愛。",
+          "editorNote": "母親節卡片或家庭聚餐時的感謝致詞",
+          "variations": [
+            "謝謝妳總是把最好的留給我，自己卻說不餓。",
+            "妳的付出從來不喊累，是我最想學會回報的溫柔。"
+          ]
+        },
+        "en": {
+          "content": "Mom, you always put down your own bowl first just to pass me my favorite piece. It took me all these years to see it wasn't a habit — it was love.",
+          "editorNote": "A thank-you line for a Mother's Day card or family dinner toast",
+          "variations": [
+            "Thank you for always saving the best for me and saying you weren't hungry.",
+            "You never once complained about giving — that's the kindness I most want to return."
+          ]
+        }
+      }
+    },
+    {
+      "id": "momq-248",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "幽默",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽有一套神奇的定位系統：東西明明在我眼前，她一喊「在冰箱第二層」，就真的在那裡。",
+          "editorNote": "社群貼文或家庭群組裡分享的溫馨吐槽",
+          "variations": [
+            "找不到東西問我媽就對了，她比 GPS 還準。",
+            "我家的失物招領處，永遠是我媽的記憶體。"
+          ]
+        },
+        "en": {
+          "content": "My mom has this magic tracking system: the thing's right in front of me, she yells 'second shelf in the fridge,' and there it is.",
+          "editorNote": "A lighthearted post for social media or the family group chat",
+          "variations": [
+            "Can't find something? Ask Mom — she's more accurate than GPS.",
+            "The lost-and-found in our house has always been my mom's memory."
+          ]
+        }
+      }
+    },
+    {
+      "id": "momq-249",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "成長",
+        "智慧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽說：跌倒沒關係，只要記得站起來時，把膝蓋上的沙拍一拍再走。人生也一樣。",
+          "editorNote": "鼓勵孩子或朋友面對挫折時引用",
+          "variations": [
+            "她教我的不是別跌倒，而是跌倒後怎麼優雅地站起來。",
+            "媽媽的智慧藏在最平常的一句叮嚀裡。"
+          ]
+        },
+        "en": {
+          "content": "Mom used to say: it's okay to fall — just remember to brush the dirt off your knees before you walk on. Life works the same way.",
+          "editorNote": "Quote it to encourage a kid or a friend facing a setback",
+          "variations": [
+            "She never taught me not to fall — she taught me how to get back up with grace.",
+            "My mom's wisdom always hid inside the most ordinary reminders."
+          ]
+        }
+      }
     }
   ]
 }

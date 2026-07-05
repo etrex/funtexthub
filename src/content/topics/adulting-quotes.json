@@ -5643,6 +5643,75 @@
           ]
         }
       }
+    },
+    {
+      "id": "aq-240",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://quoteoffame.com/blog/short-funny-adulting-quotes-200-relatable-lines-that-prove-were-all-struggling/",
+      "sourceNote": "adulting money-humor theme; rewritten original",
+      "tags": ["初級大人", "高級大人", "理財"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人存錢：這個月省下來的錢，下個月找個理由花掉。\n\n高級大人存錢：先把錢轉走，剩下的才是這個月可以動的。",
+          "editorNote": "傳給那個每次都說「這次一定要開始存」的朋友，順便提醒他先設定自動轉帳",
+          "variations": [
+            "初級大人看帳單：假裝沒看到。高級大人看帳單：看到了，但已經預算好了。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult saves money: whatever's left this month gets an excuse to be spent next month.\n\nSenior adult saves money: moves it out first, and lives on whatever's still there.",
+          "editorNote": "For the friend who swears every month is finally the month they start saving",
+          "variations": [
+            "Junior adult reads the bill: pretends not to see it. Senior adult reads the bill: sees it, but already budgeted for it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-241",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://motivirus.com/40-funny-inspirational-quotes-on-adulting/",
+      "sourceNote": "adulting burnout/rest theme; rewritten original",
+      "tags": ["初級大人", "高級大人", "休息"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人休息：等到累垮了，才允許自己躺平。\n\n高級大人休息：還沒累之前，就先把休息排進行事曆。",
+          "editorNote": "傳給那個總是撐到最後一刻才肯休息的朋友",
+          "variations": [
+            "初級大人放假：滑手機滑到罪惡感上身。高級大人放假：關掉通知，理直氣壯地耍廢。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult rests: only lies down once they're already running on empty.\n\nSenior adult rests: pencils the break into the calendar before the tank hits zero.",
+          "editorNote": "For the friend who pushes until the very last second before they'll stop",
+          "variations": [
+            "Junior adult on a day off: scrolls until the guilt kicks in. Senior adult on a day off: mutes notifications and does nothing, no apologies."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-242",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://quoteoffame.com/blog/200-funny-adulting-quotes-that-hit-too-close-to-home/",
+      "sourceNote": "adulting decision-fatigue theme; rewritten original",
+      "tags": ["初級大人", "高級大人", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人做決定：問十個人的意見，最後還是不敢決定。\n\n高級大人做決定：問自己一句「這件事一年後還重要嗎」，然後就走了。",
+          "editorNote": "傳給那個連午餐吃什麼都要開群組投票的朋友",
+          "variations": [
+            "初級大人選擇：怕選錯，所以什麼都不選。高級大人選擇：選了就不回頭，反正錯了再修。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult makes a decision: asks ten people, then still can't commit.\n\nSenior adult makes a decision: asks themselves 'will this matter in a year,' then moves on.",
+          "editorNote": "For the friend who starts a group poll just to pick where to eat lunch",
+          "variations": [
+            "Junior adult choosing: so scared of picking wrong they pick nothing. Senior adult choosing: picks it, no looking back, fixes it later if it's off."
+          ]
+        }
+      }
     }
   ]
 }

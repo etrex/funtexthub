@@ -7340,6 +7340,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "gq-258",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "inspirational",
+        "future"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "畢業不是抵達終點，而是拿到一張通往更大世界的門票。",
+          "editorNote": "適合寫在畢業卡片開頭，鼓勵同學勇敢往前",
+          "variations": [
+            "畢業從來不是結束，而是換一張更大世界的門票。",
+            "這一天不是終點，是你踏進更寬廣世界的起點。"
+          ]
+        },
+        "en": {
+          "content": "Graduation isn't the finish line—it's your ticket to a much bigger world.",
+          "editorNote": "Great as an opening line for a graduation card",
+          "variations": [
+            "This isn't the end; it's your pass into a wider world.",
+            "You didn't reach the finish line—you just got a ticket to somewhere bigger."
+          ]
+        }
+      }
+    },
+    {
+      "id": "gq-259",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "friendship",
+        "farewell"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們或許會走向不同的城市，但那些一起熬夜、一起大笑的日子，會一直住在心裡。",
+          "editorNote": "適合寫給要各奔東西的好朋友，帶點感性",
+          "variations": [
+            "就算以後住在不同的城市，那些一起熬夜的夜晚我不會忘記。",
+            "路會分岔，但我們一起笑過的日子，會一直留在心底。"
+          ]
+        },
+        "en": {
+          "content": "We might end up in different cities, but those late nights and endless laughs will always live in me.",
+          "editorNote": "For close friends heading their separate ways; a little sentimental",
+          "variations": [
+            "Different cities, maybe—but I'm keeping every one of those late nights and inside jokes.",
+            "Our paths split here, but the laughs we shared aren't going anywhere."
+          ]
+        }
+      }
+    },
+    {
+      "id": "gq-260",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "humor",
+        "lighthearted"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "恭喜畢業！接下來歡迎光臨現實世界，這裡沒有暑假，但有薪水，也算是一種安慰。",
+          "editorNote": "適合寫給熟到可以開玩笑的同學，輕鬆又應景",
+          "variations": [
+            "畢業快樂！現實世界沒有暑假，但至少發薪水那天很快樂。",
+            "歡迎進入沒有寒暑假的人生，好消息是這次遲到不會被記警告。"
+          ]
+        },
+        "en": {
+          "content": "Congrats on graduating! Welcome to the real world—no more summer break, but hey, you get a paycheck now.",
+          "editorNote": "For friends you can joke around with; light and on-theme",
+          "variations": [
+            "You did it! The real world has no summer vacation, but payday almost makes up for it.",
+            "Welcome to adult life: no more breaks, but at least being late won't land you in detention."
+          ]
+        }
+      }
     }
   ]
 }

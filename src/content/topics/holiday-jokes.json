@@ -7392,6 +7392,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-246",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "聖誕節",
+        "雙關"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "聖誕老公公為什麼從來不迷路？因為他有一整年的時間先做好路線規劃。",
+          "editorNote": "聖誕聚會暖場、交換禮物時的輕鬆笑話",
+          "variations": [
+            "聖誕老公公不迷路，是因為他早就把路線背熟了。",
+            "他有一整年可以規劃路線，當然不會迷路啦。"
+          ]
+        },
+        "en": {
+          "content": "Why does Santa never get lost? He's had all year to plan the route.",
+          "editorNote": "Icebreaker for holiday parties or gift exchanges",
+          "variations": [
+            "Santa never gets lost because he mapped it out months ago.",
+            "With a whole year to prep, of course Santa knows the way."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-247",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "感恩節",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "感恩節的火雞為什麼不吃甜點？因為牠已經塞飽飽了。",
+          "editorNote": "感恩節餐桌上聊天用，一語雙關「塞餡料」",
+          "variations": [
+            "火雞不吃甜點，因為肚子裡早就塞滿料了。",
+            "感恩節的火雞說：我已經被塞爆了，甜點免了。"
+          ]
+        },
+        "en": {
+          "content": "Why didn't the Thanksgiving turkey want dessert? It was already stuffed.",
+          "editorNote": "Great for the dinner table; plays on 'stuffed'",
+          "variations": [
+            "The turkey skipped dessert because it was completely stuffed.",
+            "No pie for the turkey, it was stuffed already."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-248",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "跨年",
+        "新年"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼日曆跨年時最緊張？因為牠的日子都被數光了。",
+          "editorNote": "跨年倒數時的冷笑話,適合朋友聚會",
+          "variations": [
+            "日曆跨年最緊張,因為牠的日子屈指可數。",
+            "跨年那天日曆最慌,牠知道自己快被換掉了。"
+          ]
+        },
+        "en": {
+          "content": "Why is the calendar so nervous on New Year's Eve? Its days are numbered.",
+          "editorNote": "A groaner for the countdown; works at any NYE gathering",
+          "variations": [
+            "The calendar panics on NYE because its days are literally numbered.",
+            "New Year's Eve stresses the calendar out, its days are running out."
+          ]
+        }
+      }
     }
   ]
 }

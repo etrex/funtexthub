@@ -5800,6 +5800,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-200",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "客訴處理",
+        "退款"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "非常抱歉讓您久等了，這次的狀況確實是我們這邊的疏失。退款我已經幫您立即處理，款項會在三到五個工作天內退回原付款帳戶。造成您的不便，真的很不好意思。",
+          "editorNote": "使用場景：處理已確認為公司疏失的退款客訴，先道歉再給明確時程",
+          "variations": [
+            "這部分是我們沒做好，退款我馬上為您送出，三到五個工作天會入帳，還請您稍等一下。",
+            "真的很抱歉造成您的困擾，退款已經在處理中，我會全程幫您盯著進度。"
+          ]
+        },
+        "en": {
+          "content": "I'm really sorry for the wait, and this one is on us. I've gone ahead and processed your refund right away. It should land back on your original payment method within three to five business days. I truly apologize for the hassle.",
+          "editorNote": "For refund complaints confirmed as company error: apologize, then give a clear timeline",
+          "variations": [
+            "That's on us, and I've already pushed your refund through. It'll show up in three to five business days. Sorry for the trouble.",
+            "I'm so sorry about this. Your refund is being processed now, and I'll keep an eye on it until it's done."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-201",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "等候通知",
+        "缺貨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "您想要的這款目前暫時缺貨，預計下週會補到貨。如果方便的話，我先幫您登記，一到貨就馬上通知您，這樣就不用擔心錯過囉。",
+          "editorNote": "使用場景：商品缺貨時主動提供到貨通知服務，降低顧客流失",
+          "variations": [
+            "這款剛好賣完了，下週會再進貨，我幫您留個聯絡方式，補到貨第一時間通知您好嗎？",
+            "目前沒有現貨，不過很快就會補上，要不要我先幫您預留一組？到貨立刻聯絡您。"
+          ]
+        },
+        "en": {
+          "content": "The one you're after is out of stock right now, but we're expecting more next week. If you'd like, I can put you on the list and give you a heads-up the moment it's back, so you don't miss it.",
+          "editorNote": "When an item is out of stock: proactively offer a back-in-stock notification to keep the customer",
+          "variations": [
+            "We just sold out of that one, but a new batch is coming next week. Want me to grab your info and ping you as soon as it lands?",
+            "No stock at the moment, but it won't be long. I can set one aside for you and reach out the second it arrives."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-202",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "婉拒要求",
+        "替代方案"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個部分依照我們目前的規定沒辦法直接處理，真的很抱歉。不過我幫您想了另一個做法，應該可以達到差不多的效果，我說明給您聽看看合不合適？",
+          "editorNote": "使用場景：無法答應顧客原始要求時，改以替代方案軟性婉拒",
+          "variations": [
+            "很抱歉這樣做我們這邊沒辦法，但我有另一個建議，或許更符合您的需求，讓我跟您分享一下。",
+            "這項目前規定上真的不行，不好意思，我幫您找了個替代方案，聽聽看有沒有幫助？"
+          ]
+        },
+        "en": {
+          "content": "I'm sorry, but under our current policy I'm not able to do that directly. That said, I've thought of another approach that should get you pretty much the same result. Can I walk you through it and see if it works for you?",
+          "editorNote": "When you can't grant the original request: soften the no with an alternative",
+          "variations": [
+            "Unfortunately that's not something we can do on our end, but I've got another idea that might fit even better. Mind if I share it?",
+            "I really can't do that one, sorry, but here's a workaround I found. Let me know if it helps."
+          ]
+        }
+      }
     }
   ]
 }

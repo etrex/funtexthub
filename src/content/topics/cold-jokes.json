@@ -7750,6 +7750,84 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-287",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://onelinefun.com/",
+      "sourceNote": "改編『impasta（假冒者/假義大利麵）』食物諧音，中文改用『沒禮貌的義大利麵＝很沒麵子』雙關",
+      "tags": [
+        "諧音",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我朋友煮的義大利麵超沒禮貌。\n\n我問為什麼，他說：因為它煮壞了，整鍋都『沒麵子』。",
+          "editorNote": "適合朋友聚餐煮翻車、或有人出糗時開玩笑帶過",
+          "variations": [
+            "也可以接：那還能吃嗎？能，只是吃的人也會跟著沒面子。"
+          ]
+        },
+        "en": {
+          "content": "Why was the plate of fake spaghetti so rude?\n\nBecause it was a total impasta — no manners, and not even real pasta.",
+          "editorNote": "Good for laughing off a cooking fail at a dinner with friends",
+          "variations": [
+            "Follow up: can you still eat it? Sure, but it'll leave a bad taste — literally and socially."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-288",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://www.classpop.com/magazine/one-liner-jokes",
+      "sourceNote": "改編反重力書『放不下（couldn't put it down）』雙關，中文用『放不下＝捨不得＋物理放不下』",
+      "tags": [
+        "諧音",
+        "閱讀"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我最近在看一本講反重力的書。\n\n真的太好看了，我完全『放不下』——想放也放不下去啊。",
+          "editorNote": "適合推薦一本超好看的書、或自嘲追進度停不下來時",
+          "variations": [
+            "也可以接：那你看完了嗎？還沒，它一直飄在半空中。"
+          ]
+        },
+        "en": {
+          "content": "I've been reading a book about anti-gravity lately.\n\nHonestly, I just can't put it down — trust me, I've tried.",
+          "editorNote": "Good for recommending a book you're hooked on, or joking about a reading binge",
+          "variations": [
+            "Follow up: finished it yet? Nope, it keeps floating away from me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-289",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "https://onelinefun.com/",
+      "sourceNote": "改編瑞士國旗『big plus（大加號/大優點）』雙關，中文用『加號＝加分』諧音",
+      "tags": [
+        "諧音",
+        "地理"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼大家都喜歡瑞士？\n\n因為它的國旗是一個大大的十字——不管怎麼看都是『加分』啊。",
+          "editorNote": "適合聊旅遊、講到瑞士、或想稱讚某件事很加分時",
+          "variations": [
+            "也可以接：那有扣分的嗎？有，物價，直接負分。"
+          ]
+        },
+        "en": {
+          "content": "Why does everybody love Switzerland so much?\n\nWell, for starters, the flag is a big plus.",
+          "editorNote": "Good for travel chat, or when something is a clear bonus",
+          "variations": [
+            "Follow up: any minus? Sure — the prices. That's a big minus."
+          ]
+        }
+      }
     }
   ]
 }

@@ -8229,6 +8229,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-284",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "debug",
+        "rubber-duck"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟同事說我卡在一個 bug，他叫我跟小鴨解釋一遍。解釋到第三句我就懂了，現在我欠那隻鴨一份 code review。",
+          "editorNote": "適合分享 rubber duck debugging 的場合，或在團隊聊天室自嘲",
+          "variations": [
+            "跟小鴨講完整個邏輯，我發現要道歉的是我不是程式",
+            "那隻小鴨的貢獻度，其實比我這個月的 commit 還高"
+          ]
+        },
+        "en": {
+          "content": "Told my coworker I was stuck on a bug. He said explain it to the rubber duck. By sentence three I figured it out. Now I owe that duck a code review.",
+          "editorNote": "Good for a rubber-duck-debugging moment or a self-deprecating team chat post",
+          "variations": [
+            "Explained the whole thing to the duck and realized I was the bug",
+            "That duck contributed more this sprint than half my commits"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-285",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "estimation",
+        "deadline"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管問這功能要多久，我說兩天。他問確定嗎，我說確定。結果現在是第九天，而我對那句「確定」的信心，跟當初對估時一樣毫無根據。",
+          "editorNote": "專案時程延誤時的自嘲，適合貼在 sprint 檢討會或 Slack",
+          "variations": [
+            "工程師的兩天，跟婚禮的「馬上就好」是同一種時間單位",
+            "我的估時準到可以拿去當亂數產生器"
+          ]
+        },
+        "en": {
+          "content": "Manager asked how long this feature would take. I said two days. He asked if I was sure. I said yes. It's day nine, and my confidence in that yes is exactly as unfounded as it was on day one.",
+          "editorNote": "Self-deprecating take on estimation for a sprint retro or Slack post",
+          "variations": [
+            "An engineer's two days is measured on the same clock as a wedding's just a minute",
+            "My estimates are so reliable I use them as a random number generator"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-286",
+      "dateAdded": "2026-07-05",
+      "sourceUrl": "",
+      "sourceNote": "internal only",
+      "tags": [
+        "production",
+        "friday"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人問我為什麼週五下午都不部署。我沒回答，只是望向遠方，那裡有一個曾經在週五 five 點按下 deploy 的年輕人的靈魂。",
+          "editorNote": "週五下午同事想上線時的溫馨提醒，適合團隊群組",
+          "variations": [
+            "週五部署跟半夜吃泡麵一樣，當下很爽，事後很慘",
+            "我週五唯一敢碰的紅色按鈕是下班打卡"
+          ]
+        },
+        "en": {
+          "content": "Someone asked why I never deploy on Friday afternoons. I didn't answer. I just stared into the distance, where the ghost of a young dev who once hit deploy at 5pm on a Friday still lingers.",
+          "editorNote": "A gentle warning for the teammate itching to ship on a Friday afternoon",
+          "variations": [
+            "Friday deploys are like midnight snacks: great going in, brutal later",
+            "The only red button I touch on Friday is clock-out"
+          ]
+        }
+      }
     }
   ]
 }
