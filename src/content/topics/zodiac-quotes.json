@@ -7979,6 +7979,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-256",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "",
+      "sourceNote": "Aquarius group chat behavior — joins many chats but lurks silently, reads everything, replies to nothing",
+      "tags": [
+        "水瓶座",
+        "Aquarius",
+        "I人",
+        "群組聊天",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "水瓶座同時待在十個群組裡，\n每一則都看，一則都不回。\n\n他不是已讀不回——\n他是把「參與感」跟「發言」當成兩件完全不同的事。",
+          "editorNote": "適合傳到那個永遠有人已讀卻沒人回的群組，配一句「說的就是你吼」",
+          "variations": [
+            "水瓶座的群組哲學：我知道發生了什麼事，這樣就夠了，至於回不回，看心情。",
+            "水瓶座潛水潛得很深，但你以為他不在，他其實什麼都知道。"
+          ]
+        },
+        "en": {
+          "content": "An Aquarius is in ten group chats at once.\nReads every message. Replies to none.\n\nIt's not that they're ignoring you—\nthey just filed 'being present' and 'actually saying something' under totally separate categories.",
+          "editorNote": "Drop this in the group chat where everyone reads and no one replies, with a 'yeah, we see you.'",
+          "variations": [
+            "An Aquarius group-chat philosophy: I know what's going on, and that's enough. Replying is optional.",
+            "You think an Aquarius has gone quiet. Actually they've read everything and formed opinions."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-257",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "",
+      "sourceNote": "Gemini texting habit — sends a burst of messages in a row as thoughts arrive faster than they can type",
+      "tags": [
+        "雙子座",
+        "Gemini",
+        "E人",
+        "群組聊天",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雙子座傳訊息不會只傳一則，\n他會傳一則、補一則、想到又一則、然後再更正前面那則。\n\n你手機還沒亮完，他已經講到第三個話題了。",
+          "editorNote": "傳給那個訊息永遠一次跳出五條的雙子朋友，他會回你六條",
+          "variations": [
+            "跟雙子聊天像在追直播——訊息一直來，你永遠慢半拍。",
+            "雙子座不是話多，是腦袋比手指快，手指又比你回覆的速度快。"
+          ]
+        },
+        "en": {
+          "content": "A Gemini never sends just one text.\nOne message, then a follow-up, then a new thought, then a correction to the first one.\n\nYour phone's still lighting up and they've already moved on to topic number three.",
+          "editorNote": "Send to the Gemini friend whose texts always arrive in bursts of five. They'll reply with six.",
+          "variations": [
+            "Texting a Gemini is like watching a livestream—the messages keep coming and you're always a beat behind.",
+            "A Gemini isn't chatty. Their brain just runs faster than their thumbs, and their thumbs run faster than your replies."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-258",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "",
+      "sourceNote": "Cancer texting behavior — sends random caring 'thinking of you' check-ins, emotionally attuned",
+      "tags": [
+        "巨蟹座",
+        "Cancer",
+        "I人",
+        "群組聊天",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "巨蟹座會在你什麼都沒說的時候，\n突然傳一句「你最近還好嗎」。\n\n他不是無聊——\n他是感覺到你有點不對勁，只是你自己還沒發現。",
+          "editorNote": "適合傳給那個總在你低潮時剛好出現的巨蟹朋友，說聲謝謝",
+          "variations": [
+            "巨蟹座的雷達永遠開著，你笑得再自然，他還是會多問一句「真的沒事？」",
+            "別人已讀你的訊息，巨蟹已讀你的心情。"
+          ]
+        },
+        "en": {
+          "content": "A Cancer will text you 'hey, you doing okay?'\nout of nowhere, when you haven't said a thing.\n\nThey're not bored—\nthey sensed something was off before you even noticed it yourself.",
+          "editorNote": "Send to the Cancer friend who always shows up right when you're low, just to say thanks.",
+          "variations": [
+            "A Cancer's radar is always on. No matter how natural your smile looks, they'll still ask 'you sure you're okay?'",
+            "Other people read your texts. A Cancer reads your mood."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-259",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "",
+      "sourceNote": "Sagittarius texting energy — keeps countless chats alive, can't stand going a day without messaging everyone",
+      "tags": [
+        "射手座",
+        "Sagittarius",
+        "E人",
+        "群組聊天",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "射手座覺得一天不傳訊息給認識的每個人，\n就好像世界少了他一角。\n\n他能同時養活五個群組、三段私訊、還有兩個「等等再回」的對話——\n而且每一個他都是真心的。",
+          "editorNote": "適合傳給那個永遠有力氣揪你出門的射手朋友，順便問他今天約去哪",
+          "variations": [
+            "射手座的訊息列表像機場航班表：永遠有東西在起飛，永遠沒有停過。",
+            "別人怕已讀不回，射手怕的是沒人可以聊。"
+          ]
+        },
+        "en": {
+          "content": "To a Sagittarius, going a whole day without texting everyone they know\nfeels like the world is missing a piece.\n\nThey can keep five group chats, three DMs, and two 'I'll reply later' threads alive at once—\nand mean every word in all of them.",
+          "editorNote": "Send to the Sagittarius friend who always has the energy to drag you out, then ask where you're going today.",
+          "variations": [
+            "A Sagittarius's message list is like an airport departures board: something's always taking off, and it never stops.",
+            "Other people fear being left on read. A Sagittarius fears having no one to talk to."
+          ]
+        }
+      }
     }
   ]
 }

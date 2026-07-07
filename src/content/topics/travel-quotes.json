@@ -5508,6 +5508,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-184",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://awaytothecity.com/best-travel-quotes/",
+      "sourceNote": "internal only",
+      "tags": [
+        "旅行",
+        "成長"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工作填滿的是口袋，旅行填滿的是整個人。",
+          "editorNote": "適合請假出遊、對比日常與旅程的貼文",
+          "variations": [
+            "薪水養活身體，旅行養活靈魂。",
+            "存款會變多，但只有旅行讓你變得更完整。"
+          ]
+        },
+        "en": {
+          "content": "Work fills your wallet; travel fills the rest of you.",
+          "editorNote": "Great for a caption contrasting the daily grind with a getaway",
+          "variations": [
+            "A paycheck feeds the body, a trip feeds the soul.",
+            "Your bank account grows, but travel is what makes you whole."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-185",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://solotravelerworld.com/best-solo-travel-quotes/",
+      "sourceNote": "internal only",
+      "tags": [
+        "獨旅",
+        "勇氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別怕一個人走，更別怕自己其實很享受這種感覺。",
+          "editorNote": "適合獨旅、鼓勵一個人出發的貼文",
+          "variations": [
+            "一個人走沒什麼好怕的，怕的是你太喜歡而回不去。",
+            "獨旅的祕密是：走著走著，你就把自己找回來了。"
+          ]
+        },
+        "en": {
+          "content": "Don't be afraid to travel alone; be more afraid of how much you'll love it.",
+          "editorNote": "Perfect for a solo travel post encouraging someone to go it alone",
+          "variations": [
+            "Walking alone isn't the scary part; liking it that much is.",
+            "The secret to solo travel is that somewhere along the way you find yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-186",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://wander-lush.org/solo-travel-alone-quotes/",
+      "sourceNote": "internal only",
+      "tags": [
+        "旅行",
+        "迷路"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有些最美的路，只有先迷路的人才走得到。",
+          "editorNote": "適合意外走錯路卻遇見美景的貼文",
+          "variations": [
+            "先迷路，才有資格撞見那條沒人告訴你的風景。",
+            "地圖上找不到的路，都是迷路的人專屬的獎勵。"
+          ]
+        },
+        "en": {
+          "content": "Some of the most beautiful paths only open up to those who get lost first.",
+          "editorNote": "Great for a photo of a happy accident or unexpected view",
+          "variations": [
+            "You have to lose your way before you earn the view no one warned you about.",
+            "The best roads aren't on any map; they're the reward for getting lost."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-187",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://www.quotena.com/55-wanderlust-inducing-travel-quotes-embrace-adventure-and-explore-the-world/",
+      "sourceNote": "internal only",
+      "tags": [
+        "旅行",
+        "故事"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "旅行剛開始讓你說不出話，回來以後卻讓你講不完。",
+          "editorNote": "適合旅程回顧、分享故事的貼文",
+          "variations": [
+            "出發時被美到閉嘴，回家後被回憶逼著開口。",
+            "最好的旅行，是帶回一堆講都講不完的故事。"
+          ]
+        },
+        "en": {
+          "content": "Travel leaves you speechless at first, then turns you into someone who can't stop telling the story.",
+          "editorNote": "Reflective caption for sharing trip stories after coming home",
+          "variations": [
+            "The view shuts you up; the memories make you talk for months.",
+            "The best trips send you home with more stories than you can finish telling."
+          ]
+        }
+      }
     }
   ]
 }

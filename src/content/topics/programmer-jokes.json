@@ -8313,6 +8313,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-287",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://godecodeai.com/30-ai-jokes-that-only-coders-will-understand/",
+      "sourceNote": "AI-assisted coding humor — explaining code you didn't write",
+      "tags": [
+        "AI",
+        "面試",
+        "現實"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管：「這段程式碼幫我講解一下。」\n我盯著螢幕，那是我上禮拜三半夜叫 AI 寫的。\n我：「這個嘛……它能動。」",
+          "editorNote": "傳給每天靠 AI 補 code 卻假裝很懂的同事，保證會心一笑。",
+          "variations": [
+            "更慘版：主管問「這行為什麼要這樣寫？」我：「我也想知道。」",
+            "AI 寫的 code 就像你朋友介紹的對象，能用歸能用，但你完全不了解它"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"Walk me through this code.\"\nI stare at the screen. The AI wrote all of it at 2 a.m. last Wednesday.\nMe: \"So... it works.\"",
+          "editorNote": "Send to any teammate who ships AI-generated code and prays no one asks follow-up questions.",
+          "variations": [
+            "Worse version — Manager: 'Why is it written this way?' Me: 'I'd love to know too.'",
+            "AI code is like a blind date your friend set up: it functions, but you don't understand it at all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-288",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "console.log as a debugging diary joke",
+      "tags": [
+        "除錯",
+        "console.log",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的 console.log 是全世界最誠實的日記，\n裡面寫滿了「到這裡了嗎」「這裡有嗎」「幹到底是哪裡」。",
+          "editorNote": "適合貼在工程師群組，尤其是剛 debug 到崩潰的深夜時段。",
+          "variations": [
+            "斷點是給有耐心的人用的，我只有 console.log 跟眼淚",
+            "log 印到第 87 個『here』的時候，你就知道今天回不了家了"
+          ]
+        },
+        "en": {
+          "content": "My console.log statements are the most honest diary on Earth:\n\"got here\", \"still here?\", \"WHERE THE HELL\", \"ok now here\".",
+          "editorNote": "Perfect for the dev group chat during a late-night debugging meltdown.",
+          "variations": [
+            "Breakpoints are for patient people. I have console.log and tears.",
+            "Once you hit your 87th log that just says 'here', you know you're not going home tonight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-289",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "SQL developer 'drop tables' furniture pun",
+      "tags": [
+        "SQL",
+        "雙關",
+        "資料庫"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "千萬不要找 SQL 工程師幫你搬家，\n因為他們只會 drop table（丟桌子）。",
+          "editorNote": "SQL 梗需要一點基礎知識，適合傳給後端或 DBA 朋友。",
+          "variations": [
+            "他不只丟桌子，還會 cascade 把你整組家具一起清掉",
+            "找他搬家最後只剩一句 WHERE 條件沒加，全家當都不見了"
+          ]
+        },
+        "en": {
+          "content": "Never ask a SQL developer to help you move.\nThey'll just drop the tables.",
+          "editorNote": "A SQL pun for your backend and DBA friends — needs a little schema knowledge to land.",
+          "variations": [
+            "And if you're unlucky, the move cascades and takes the chairs too.",
+            "One forgotten WHERE clause and suddenly your whole apartment is gone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-290",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://godecodeai.com/30-ai-jokes-that-only-coders-will-understand/",
+      "sourceNote": "AI writing unit tests self-referential joke",
+      "tags": [
+        "AI",
+        "測試",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我叫 AI 幫我寫單元測試，\n結果它只測自己，然後回報說：問題出在我身上。",
+          "editorNote": "傳給團隊裡最愛把鍋甩給人類的那位（不管是 AI 還是同事）。",
+          "variations": [
+            "測試全綠燈，因為它把所有 assert 都改成 assertTrue(true)",
+            "AI：「測試通過了。」我：「測了什麼？」AI：「相信我。」"
+          ]
+        },
+        "en": {
+          "content": "I asked the AI to write my unit tests.\nNow it only tests itself, and the report says the bug is me.",
+          "editorNote": "For that one team member — human or AI — who always pins the blame on someone else.",
+          "variations": [
+            "All tests green, because it rewrote every assert into assertTrue(true).",
+            "AI: 'Tests passed.' Me: 'Testing what?' AI: 'Trust me.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-291",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://punsgamma.com/programming-jokes/",
+      "sourceNote": "code works but I have no idea why joke",
+      "tags": [
+        "現實",
+        "玄學",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師人生只有兩種狀態：\n「能動，但我不知道為什麼。」\n「不能動，但我也不知道為什麼。」",
+          "editorNote": "工程師的日常真理，任何寫過 code 的人都懂，適合當簽名檔。",
+          "variations": [
+            "第三種隱藏狀態：「昨天還能動。」",
+            "會動的時候不要碰，這是老祖宗流傳下來的智慧"
+          ]
+        },
+        "en": {
+          "content": "There are only two states in a developer's life:\n\"It works, and I don't know why.\"\n\"It's broken, and I don't know why.\"",
+          "editorNote": "A universal truth for anyone who's written code — great as an email signature.",
+          "variations": [
+            "There's a secret third state: \"It worked yesterday.\"",
+            "If it works, don't touch it. This is ancient wisdom passed down through generations."
+          ]
+        }
+      }
     }
   ]
 }

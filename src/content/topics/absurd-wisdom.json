@@ -7363,6 +7363,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-287",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學循環邏輯格式，重新創作",
+      "tags": [
+        "廢話文學",
+        "循環邏輯",
+        "俗話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "俗話說得好：\n俗話說得好。\n\n至於好在哪裡，\n俗話沒說。",
+          "editorNote": "當有人問你「這句俗話什麼意思」時最佳回應，保證對方安靜三秒",
+          "variations": [
+            "老話一句：老話都這樣講。",
+            "古人有云，云的內容古人沒留下來。"
+          ]
+        },
+        "en": {
+          "content": "As the old saying goes:\nas the old saying goes.\n\nAs for what it actually says,\nthe saying declined to comment.",
+          "editorNote": "The perfect reply when someone asks what a proverb means — guarantees three seconds of silence",
+          "variations": [
+            "Like they always say: they always say things.",
+            "The ancients once wrote, and then the ancients logged off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-288",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://learnconversations.com/random-things-to-say-that-make-no-sense/",
+      "sourceNote": "同齡悖論廢話梗，重新創作",
+      "tags": [
+        "廢話文學",
+        "數學",
+        "冷知識"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "研究指出，\n一個剛出生一天的寶寶，\n他的媽媽當媽媽的資歷，\n也剛好是一天。\n\n科學家對此表示無法反駁。",
+          "editorNote": "適合在有新手爸媽的群組發，讓人思考三秒後決定不思考",
+          "variations": [
+            "你出生那天，你爸媽的爸媽資歷正式從零開始計算。",
+            "當一個人成為爸爸，他的孩子也剛好在同一天成為小孩。"
+          ]
+        },
+        "en": {
+          "content": "Studies confirm\nthat a baby who is one day old\nhas a mother whose experience as a mother\nis also exactly one day old.\n\nScientists have been unable to disprove this.",
+          "editorNote": "Great for a new-parents group chat — makes people think for three seconds, then decide not to",
+          "variations": [
+            "On the day you were born, your parents' parenting résumé officially started at zero.",
+            "The moment a man becomes a dad, his kid becomes a kid on the exact same day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-289",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學條件句格式，重新創作",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "如果"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果我沒有猜錯的話，\n那應該就是我沒有猜錯。\n\n但如果我猜錯了，\n那就代表我剛剛沒有沒猜錯。",
+          "editorNote": "被要求「你確定嗎」的時候丟出來，完美迴避任何責任",
+          "variations": [
+            "如果這是對的，那它就不是錯的。",
+            "假設這句話成立，那它就是成立的假設。"
+          ]
+        },
+        "en": {
+          "content": "If I'm not mistaken,\nthen I am, in fact, not mistaken.\n\nBut if I am mistaken,\nthen it turns out I was not not-mistaken after all.",
+          "editorNote": "Deploy this when someone asks 'Are you sure?' — dodges all accountability flawlessly",
+          "variations": [
+            "If this is correct, then it is, by definition, not incorrect.",
+            "Assuming this statement holds, it is therefore a statement that holds."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-290",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://learnconversations.com/dumb-sayings-that-make-no-sense/",
+      "sourceNote": "存活率歸零冷梗，重新創作",
+      "tags": [
+        "廢話文學",
+        "人生",
+        "統計"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "統計顯示，\n只要時間拉得夠長，\n每個人的存活率都會穩定地\n下降到零。\n\n目前這項數據非常穩定。",
+          "editorNote": "適合在朋友焦慮未來時使用，安慰效果為零但很有記憶點",
+          "variations": [
+            "從長遠來看，我們每個人的計畫最後都會被時間解決。",
+            "好消息是問題總會過去，壞消息是你也是。"
+          ]
+        },
+        "en": {
+          "content": "Statistics show\nthat given a long enough timeline,\neveryone's survival rate\nsettles steadily at zero.\n\nSo far this figure has been remarkably stable.",
+          "editorNote": "For when a friend is anxious about the future — offers zero comfort but sticks in the memory",
+          "variations": [
+            "In the long run, all of our plans get resolved by time itself.",
+            "The good news is your problems will pass. The bad news is so will you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-291",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學時間遞進格式，重新創作",
+      "tags": [
+        "廢話文學",
+        "時間",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "只要撐過星期一，\n接下來就會是星期二。\n\n如果連星期二也撐過去了，\n恭喜你，星期三已經在等你。",
+          "editorNote": "週一早上發到工作群組最對味，同事會又累又無法反駁",
+          "variations": [
+            "熬過今天，明天就會準時抵達，一天都不會少。",
+            "只要你不睡，這個禮拜遲早會結束。"
+          ]
+        },
+        "en": {
+          "content": "If you can just get through Monday,\nTuesday will follow shortly after.\n\nAnd if you survive Tuesday too,\ncongratulations — Wednesday is already waiting.",
+          "editorNote": "Post this to the work chat on a Monday morning — coworkers will be too tired to argue",
+          "variations": [
+            "Make it through today and tomorrow arrives right on schedule, not a day short.",
+            "As long as you don't stop existing, this week will eventually end."
+          ]
+        }
+      }
     }
   ]
 }

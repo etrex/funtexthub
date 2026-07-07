@@ -5323,6 +5323,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-181",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9528803",
+      "sourceNote": "租屋族抱怨房東把水電網路管理費全部拆開另計; rewritten original",
+      "tags": [
+        "房東",
+        "水電",
+        "雜支",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前房租是「全包」，現在是「全拆」。\n水費另算、網路另算、管理費另算，最後才發現，唯一沒另算的只有我的心累。",
+          "editorNote": "收到房東新版帳單、每項都要另外付錢時的無力自嘲",
+          "variations": [
+            "房租沒漲，只是水電網路管理費各自獨立出來跟你收，帳單一樣厚。",
+            "房東最近很懂拆解，把一筆房租拆成八筆，拆到我不想住了。"
+          ]
+        },
+        "en": {
+          "content": "My rent used to be \"all-inclusive.\" Now it's \"all-itemized.\"\nWater's extra, internet's extra, management fee's extra—the only thing that isn't billed separately is my exhaustion.",
+          "editorNote": "When your landlord starts breaking every cost out into its own line item",
+          "variations": [
+            "The rent didn't go up. They just split water, internet, and fees into their own charges—same fat bill.",
+            "My landlord got really good at itemizing—one rent turned into eight charges, and I'm out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-182",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "tags": [
+        "房東",
+        "修繕",
+        "漏水",
+        "厭世"
+      ],
+      "sourceNote": "landlord takes two months to fix a faucet meme; rewritten",
+      "i18n": {
+        "zh-tw": {
+          "content": "報修時房東已讀不回，收租日訊息秒回。\n原來他不是忙，是有選擇性的勤勞。",
+          "editorNote": "水龍頭壞兩個月還沒修、但房租晚一天就被催的那種火大",
+          "variations": [
+            "壞掉的水龍頭修了兩個月，房租晚一天他半夜就傳訊息來。",
+            "房東的回覆速度，跟這筆錢對他有沒有好處成正比。"
+          ]
+        },
+        "en": {
+          "content": "Report a repair and my landlord leaves me on read. Miss rent by a day and he replies in three seconds.\nTurns out he's not busy—he's just selectively diligent.",
+          "editorNote": "When the broken faucet's been out for two months but rent's a day late and suddenly it's urgent",
+          "variations": [
+            "Broken faucet: two months and counting. Rent one day late: midnight text.",
+            "My landlord's response time is directly proportional to whether the money benefits him."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-183",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://www.boredpanda.com/people-share-worst-rent-expierences-vent-your-rent/",
+      "sourceNote": "deposit deducted over nail holes / no-modification rules; rewritten",
+      "tags": [
+        "押金",
+        "退租",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租那天才知道，牆上那幾個掛畫的釘孔，一個要價押金的三分之一。\n住了兩年像沒住過，房東要的不是房客，是標本。",
+          "editorNote": "退租驗屋被東扣西扣、押金拿不回來時的心聲",
+          "variations": [
+            "押金不是保證金，是房東退租那天才啟動的扣款遊戲。",
+            "想全額拿回押金的方法只有一個：兩年來都不要呼吸。"
+          ]
+        },
+        "en": {
+          "content": "Move-out day is when I learned that each nail hole from hanging a picture costs a third of my deposit.\nTwo years and it has to look like nobody lived here—my landlord didn't want a tenant, he wanted a museum exhibit.",
+          "editorNote": "For the walk-through where the deposit vanishes one nitpick at a time",
+          "variations": [
+            "A deposit isn't a safety net—it's a deduction game that only starts on move-out day.",
+            "The one way to get your full deposit back: don't breathe for two years."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-184",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://estate.ltn.com.tw/article/27472",
+      "sourceNote": "rent index rose slower but management fees + utilities up ~5%; rewritten",
+      "tags": [
+        "房租",
+        "物價",
+        "薪水",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說房租漲幅終於踩煞車了，我很開心。\n然後管理費漲、水電漲、什麼都漲，只有我的薪水踩死煞車不放。",
+          "editorNote": "看到「租金漲勢趨緩」新聞卻完全無感時的苦笑",
+          "variations": [
+            "房租漲得慢一點，是因為其他費用主動幫忙補上了。",
+            "唯一真正凍漲的東西，是我的存款。"
+          ]
+        },
+        "en": {
+          "content": "The news says rent hikes are finally slowing down. Great.\nThen management fees go up, utilities go up, everything goes up—the only thing riding the brakes is my paycheck.",
+          "editorNote": "For when the \"rent growth is cooling\" headline lands and you feel nothing",
+          "variations": [
+            "Rent rose slower this year only because every other fee volunteered to make up the difference.",
+            "The one thing that's genuinely frozen is my savings account."
+          ]
+        }
+      }
     }
   ]
 }

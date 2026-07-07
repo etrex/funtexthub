@@ -5884,6 +5884,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-203",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/238959199",
+      "sourceNote": "internal only — 「叫你們店長出來」奧客經典行為，改寫成內心 OS 反轉哏",
+      "tags": [
+        "服務業",
+        "奧客",
+        "客訴",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人：「叫你們店長出來！」\n我：「好的，我就是店長。」\n客人：「⋯⋯那叫你們老闆出來。」\n原來所謂的「找上面的人」，\n真正的意思是\n「找一個會答應我的人」。",
+          "editorNote": "使用場景：傳給每天被要求「叫上面出來」的門市主管。重點是奧客要的從來不是層級，是妥協。",
+          "variations": [
+            "「我要投訴，叫主管來。」主管來了，是我。他的臉瞬間垮下來——因為他要的不是主管，是靠山。",
+            "客人堅持要找「有權限的人」，找到最後發現，最有權限說不的那個人，一直站在他面前。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Get me your manager!\"\nMe: \"Sure — I'm the manager.\"\nCustomer: \"...then get me the owner.\"\nTurns out \"talk to someone higher up\"\nnever meant higher up.\nIt meant\n\"find someone who'll say yes.\"",
+          "editorNote": "For any shift lead who gets 'let me speak to your manager' daily. The demand was never about rank — it was about finding a yes.",
+          "variations": [
+            "\"I want to file a complaint. Get your supervisor.\" The supervisor showed up. It was me. His face dropped — he didn't want a supervisor, he wanted an ally.",
+            "He insisted on someone \"with the authority.\" Turns out the person with the most authority to say no was standing in front of him the whole time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-204",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://letslearnslang.com/funny-quotes-about-customers/",
+      "sourceNote": "internal only — 「掃不出來就是免費」retail 經典哏，改寫成台灣賣場語氣",
+      "tags": [
+        "服務業",
+        "奧客",
+        "笑話",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "商品條碼掃不出來，\n客人眼睛一亮：「那是不是免費的？」\n第一次聽覺得好笑，\n第一百次聽——\n我開始相信，\n這句話是全國同步發布的公告，\n只是沒人通知店員。",
+          "editorNote": "使用場景：傳給收銀台的戰友。這句話的殺傷力不在內容，在於每個人都以為自己是第一個想到的。",
+          "variations": [
+            "掃不出來的當下，總有人要補一句「那免費囉？」我都想回：先生，這台機器壞的是感應器，不是店規。",
+            "條碼一嗶不過，客人的反應永遠只有兩種：嘆氣，或者眼睛發亮說「免費喔」。後者，我一天要拒絕八次。"
+          ]
+        },
+        "en": {
+          "content": "The barcode won't scan,\nand the customer lights up: \"Guess it's free, then?\"\nThe first time, it was funny.\nBy the hundredth time,\nI'm convinced\nthis line went out as a nationwide memo —\nnobody just forgot to tell the cashiers.",
+          "editorNote": "For the folks behind the register. The joke doesn't hurt because of what it says — it hurts because everyone thinks they invented it.",
+          "variations": [
+            "Every time the scanner chokes, someone has to add \"so it's free?\" Sir, the broken part is the sensor, not the price policy.",
+            "When the barcode won't beep, there are only two reactions: a sigh, or the eyes lighting up with \"free, right?\" I turn down the second one eight times a day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-205",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "internal only — 「別家都可以只有你們不行」奧客語錄，改寫成金句",
+      "tags": [
+        "服務業",
+        "奧客",
+        "金句",
+        "尊嚴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家店都可以，只有你們不行。」\n那您真的很推薦別家，\n連他們的規定都幫他們記得這麼清楚。\n只是我很好奇：\n如果別家真的什麼都可以，\n您今天為什麼還站在我面前？",
+          "editorNote": "使用場景：傳給被「別家都可以」情緒勒索過的每一位。這句話的破綻，往往就在說話的人自己身上。",
+          "variations": [
+            "客人說「別人家都通融」，我心裡想：那家店真幸運，被您這樣天天惦記著，卻剛好今天沒開。",
+            "「你們是我遇過最不方便的一家。」謝謝您把這句話，用同樣的語氣，說給每一家聽。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other place lets me — you're the only one that won't.\"\nYou really do rave about those other places;\nyou even remember their policies better than they do.\nI'm just curious, though:\nif everywhere else says yes to everything,\nwhy are you still standing in front of me today?",
+          "editorNote": "For anyone guilt-tripped with 'everyone else allows it.' The hole in that line usually sits with the person saying it.",
+          "variations": [
+            "The customer says \"everyone else makes an exception.\" Lucky them — remembered so fondly, yet somehow closed today.",
+            "\"You're the most inconvenient place I've ever been to.\" Thanks — I'm sure you deliver that same line, same tone, to every place you've ever been."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-206",
+      "dateAdded": "2026-07-07",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/258826892",
+      "sourceNote": "internal only — 情緒勞動/微笑面具主題，延續 svc-021、svc-081 的心聲風格",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "心聲",
+        "尊嚴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班脫下制服的那一刻，\n我以為我卸下了工作。\n其實真正卸不下的，\n是那張掛了一整天的笑臉。\n它太久沒放下，\n連要恢復成自己的表情，\n都得練習一下。",
+          "editorNote": "使用場景：給每個回到家還笑不出來、也哭不太出來的服務業朋友。情緒勞動最重的部分，是下班後還在結帳。",
+          "variations": [
+            "制服可以掛回衣櫃，可是那個微笑，常常掛在臉上忘了拿下來，一路帶回家。",
+            "有人問我下班怎麼都面無表情。因為我一整天的表情，早就在櫃檯前用完了。"
+          ]
+        },
+        "en": {
+          "content": "The moment I take off the uniform after a shift,\nI think I've left the job behind.\nBut the thing I can't take off\nis the smile I wore all day.\nI've held it up so long\nthat getting my own face back\ntakes a little practice.",
+          "editorNote": "For every service worker who gets home and can't quite smile — or cry. The heaviest part of emotional labor is the bill that comes due after clocking out.",
+          "variations": [
+            "The uniform goes back in the closet, but the smile? It stays stuck on and rides all the way home with me.",
+            "Someone asked why I look blank after work. Because I spent every last expression I had at the counter today."
+          ]
+        }
+      }
     }
   ]
 }
