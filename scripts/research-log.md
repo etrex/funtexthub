@@ -6369,3 +6369,78 @@ Done items collapsed; only live priorities listed.
 12. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period/drama-binge 古裝劇 cluster 候選獨立評估, 暫 carry。
 13. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
 14. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議 全 SKIP。『超派』純語氣可用; 班味/活人感/精神離職/章魚哥/愛你老己/破防/0 尊 正向或純厭世/喪萌共鳴無敏感; C 羅謝幕取『告別/勵志/釋懷』通用情感無敏感。
+
+## 2026-07-08 Research Report
+
+### New Topic Recommendations
+
+1. **世界盃 8 強語錄 / World-Cup Quarterfinal Quotes (併入 worldcup-quotes, 勿獨立)** — **7/8 台灣時間阿根廷 3:2 埃及、瑞士 PK 4:3 淘汰哥倫比亞，8 強對戰樹全數產生、衛冕軍梅西阿根廷續闖，priority HIGH (併入現役 worldcup-quotes 主推「8 強對戰樹成形 / 衛冕軍晉級 / PK 心臟病」)**:
+   - SEO rationale: 7/8 多源確認 (Yahoo 體育『2026 世足賽賽程｜梅西領阿根廷戰埃及！瑞士對決哥倫比亞！7 月 8 日最後 2 場 16 強賽』/ 商周『8 強晉級名單、最新比分』/ HK01『7.8 凌晨美斯領阿根廷鬥埃及 8 強將全數誕生』/ NOWnews『16 強戰績整理 最新晉級 8 強名單 對戰樹狀圖』/ 東森賽程表 / 維基 2026 世界盃 多源 2026)。**7/8 台灣時間最後 2 場 16 強收官：阿根廷 3:2 埃及晉級、瑞士加時 0:0 後 PK 4:3 淘汰哥倫比亞。至此 8 強對戰樹全數產生：阿根廷 vs 瑞士、西班牙 vs 比利時、挪威 vs 英格蘭、法國 vs 摩洛哥。8 強戰台灣時間 7/11 凌晨起開打，7/19–7/20 紐澤西冠軍戰。衛冕軍梅西 (Messi) 阿根廷續闖 8 強。** 「世足 8 強 / 對戰樹 / 梅西 阿根廷 / PK 大戰 / 淘汰賽 / 直播線上看」search 隨 8 強成形維持峰。**情緒軸由 7/7『C 羅謝幕』單日峰轉為『8 強對戰樹成形 (期待/上工感) + PK 12 碼心臟病 + 衛冕軍還在拼』。**
+   - 建議: **併入 worldcup-quotes carry 2-3 items，接續 7/7 告別軸主推 8 強對戰樹/PK 心臟病**。register「8 強名單全出爐=決賽圈剩最後 8 個位置我的待辦清單卻越來越長 / 連環 PK 4:3 分勝負=強者也得靠最後一顆球撐住心臟 / 12 碼罰球比開會報告還讓人手抖 / 梅西還在 8 強拼=衛冕不是靠回憶是靠現在還在跑 / 加時 0:0 拖到 PK=以為要下班了老闆說再開個會 / 對戰樹越縮越窄=淘汰賽跟職場一樣沒有安全區」。en「Final 8 are set — the bracket shrinks, my to-do list grows / penalties 4-3: even the strong need the last kick to survive / a 12-yard spot kick is scarier than a Monday review / Messi's still grinding in the quarters — a title defense runs on now, not memories / 0-0 to penalties: thought it was quitting time, boss said one more meeting」。**衛冕軍阿根廷 (梅西)。撰稿一律以『6/28 小組賽收官、6/29 淘汰賽開打、7/8 16 強收官 (阿根廷/瑞士晉級)、8 強對戰樹全出 (阿根廷vs瑞士/西班牙vs比利時/挪威vs英格蘭/法國vs摩洛哥)、8 強戰 7/11 起、7/19–7/20 冠軍戰』為準。** cross-link workplace (加時拖 PK=以為下班了老闆再開會) + insomnia (熬夜看 PK 大戰睡不著) + cold-jokes (PK/12 碼/加時/出線諧音) + witty + motivational (衛冕軍還在拼靠現在不靠回憶) + healing (PK 落敗也是盡力了的釋懷)。
+
+2. **颱風假語錄 / Typhoon-Day Quotes (併入 holiday-jokes + adulting/workplace opportunistic, 勿獨立)** — **7/8 NEW『第 9 號颱風巴威逼近，7/9 北轉、7/10 接近台灣不排除登陸宜花，颱風假討論升溫』timely 信號，priority MEDIUM-HIGH (併入 holiday-jokes 颱風梗 + workplace/adulting 颱風假心情，勿新建 topic)**:
+   - SEO rationale: 7/8 多源確認 (NOWnews『7/6 一周天氣預報 巴威颱風還在增強！路徑恐撲台 周五豪雨開轟』/ Yahoo『颱風假真的穩了？巴威最新預測 專家估這時登陸宜花』/ 氣象署颱風消息 / TITV『氣象署颱風季展望 巨浪告警 7 月上路』/ NCDR 天氣監測 多源 2026)。**第 9 號颱風巴威 (BAVI) 預估周四 7/9 北轉、周五 7/10 接近台灣，不排除中心登陸宜花，屆時維持中颱至強颱下限；7/10–7/11 全台有雨，北部、東北部慎防大雨豪雨。颱風假 (停班停課) 討論本週升溫。氣象署 7/1 起新增『巨浪告警』細胞廣播。2026 上半年已累計 8 個颱風、聖嬰逐漸成形、下半年強颱比例恐提高。** 「巴威 颱風 / 颱風假 / 停班停課 / 颱風路徑 / 週五 豪雨」search 隨路徑更新升溫。**颱風假為台灣全民共鳴梗 (期待放假 vs 上班族颱風天照上/在家追劇泡麵/颱風天外送/風雨中通勤)。**
+   - 建議: **併入 holiday-jokes 颱風梗 carry 1-2 items + adulting/workplace opportunistic 吸收颱風假心情**。register「颱風還沒到我已經在刷停班停課了 / 求放颱風假的虔誠比拜拜還認真 / 颱風假是大人版的臨時不用上學 / 別人期待放假我怕的是颱風天還要進公司 / 颱風天最強陣容：泡麵+追劇+不用出門 / 放到颱風假是天上掉下來的快樂放不到是天上掉下來的雨」。en「Storm's not here yet and I'm already refreshing the day-off announcements / praying for a typhoon day harder than I pray at the temple / a typhoon day is the grown-up version of school being cancelled / instant noodles + a binge + not leaving the house = peak storm-day lineup」。**颱風假取『期待放假/在家耍廢』通用共鳴，勿輕忽災害風險 (慎防大雨豪雨的提醒可帶正向關懷，不調侃受災)。撰稿以『巴威 7/9 北轉、7/10 接近台灣可能登陸宜花、週五週六全台有雨』為準，路徑隨氣象署更新浮動不寫死結果。** cross-link renting (颱風天在家電費照噴/漏水) + food-jokes (颱風天泡麵/囤糧) + drama-binge (颱風假在家一集接一集) + insomnia (風雨聲吵到睡不著)。
+
+### Content Trends
+
+- **7/8 世界盃 16 強收官 + 8 強對戰樹全數產生 (阿根廷/瑞士晉級、梅西阿根廷續闖) (Yahoo 體育/商周/HK01/NOWnews/東森 多源 2026)**: 7/8 台灣時間阿根廷 3:2 埃及、瑞士 PK 4:3 淘汰哥倫比亞收官 16 強。8 強對戰樹全出：阿根廷 vs 瑞士、西班牙 vs 比利時、挪威 vs 英格蘭、法國 vs 摩洛哥。8 強戰 7/11 凌晨起，7/19–7/20 冠軍戰。**意義: worldcup-quotes priority HIGH — 情緒軸由 7/7 C 羅謝幕轉『8 強對戰樹成形 + PK 12 碼心臟病 + 衛冕軍梅西還在拼』carry 2-3 items『8 強名單全出決賽圈剩 8 個位置我待辦卻越來越長 / 連環 PK 強者也靠最後一顆球撐心臟 / 梅西還在拼衛冕靠現在不靠回憶 / 加時拖 PK=以為下班了老闆再開會』。撰稿以『7/8 16 強收官、8 強對戰樹全出、8 強戰 7/11 起、7/19-20 冠軍戰』為準。** cross-link workplace + insomnia + cold-jokes + witty + motivational + healing。
+
+- **7/8 NEW 第 9 號颱風巴威逼近 (7/9 北轉、7/10 接近台灣可能登陸宜花、颱風假討論升溫) (NOWnews/Yahoo/氣象署/TITV/NCDR 多源 2026)**: 巴威中颱至強颱下限，7/10–7/11 全台有雨、北部東北部慎防豪雨；颱風假 (停班停課) 討論本週升溫。氣象署 7/1 起新增巨浪告警。**意義: holiday-jokes (颱風梗) + workplace/adulting (颱風假心情) + renting/food-jokes/drama-binge priority MEDIUM-HIGH — carry 1-2 items『颱風還沒到我已在刷停班停課 / 求放颱風假比拜拜還虔誠 / 颱風假是大人版臨時不用上學 / 颱風天最強陣容泡麵+追劇+不出門』。颱風假取『期待放假/在家耍廢』通用共鳴，勿調侃受災，路徑隨氣象署更新不寫死。** cross-link renting + food-jokes + drama-binge + insomnia。
+
+- **7/8 五月天大巨蛋第四場今晚開唱 (7/8 週三 19:00, 侏羅紀主題 13 米恐龍) (商周/Yahoo/GirlStyle/TicketTW/tixcraft 多源 2026)**: 7 場全完售、首三場 (7/3、4、5) 唱畢、7/6-7/7 空檔、**7/8 第四場今晚開唱**，後三場 (7/10、11、12)。《#5525+2 回到那一天》25 週年巡演、盤古開天闢地搖滾主題、13 米恐龍近距互動、巡演累積 155+ 場。**意義: concert-ticket-quotes priority MEDIUM-HIGH (已 7/3 獨立建檔) carry 1 item『空檔兩天終於輪到今晚 / 13 米恐龍我只看得到別人的手機海 / 別人在曬現場我還在等我的場 / 749 萬人看過就差我這一個』。** cross-link slang (邪修搶票) + adulting (黃牛價=房租) + travel + healing。
+
+- **7/8 職場厭世常青 carry『班味/精神離職/活人感』+ NEW『做完你的，做你的 (忙中控場多線程無奈)』(UpToGo 2026 有什麼梗/Yahoo 必會流行語 8 條/udn 女子漾/S3 社畜厭世 35 選 多源 2026)**: 職場厭世語錄常青主軸。**NEW 語彙『做完你的，做你的』(源自餐飲店老闆客流高峰安撫語，被打工人借用形容多任務催促下忙中控場、多線程處理的無奈)。** 2026 職場迷因傾向『看破紅塵的無奈 + 尋求自我療癒』。**意義: workplace/adulting/healing/self-love/slang priority MEDIUM — 在地化 carry『我不是離職是精神離職靈魂已遞辭呈 / 做完你的做你的一個人當三個用 / 精神離職+一身班味=標準週三 / 活人感只有放假才找得回 / 愛你老己撐過這週』1-2 items。精神離職取『心累自保』勿煽動實際離職; 做完你的做你的取『多線程忙中控場的無奈自嘲』。** cross-link insomnia + worldcup (加時拖 PK=老闆再開會)。
+
+- **7/8 夏月電價 day-38 + 暑假高溫 32-38 度 → 週末颱風帶雨降溫 (氣象署/民視/台電 carry 自 7/3)**: 7 月初太平洋高壓高溫 32-35 度、局部 36-38 度，週五起巴威颱風帶雨降溫。夏月電價 6/1–9/30。**意義: summer-electric/renting/adulting priority MEDIUM『體感 38 度冷氣是續命不是奢侈 / 暑假空屋電費照噴我人不在帳單卻很在 / 每調高 1 度省 6% 的天人交戰 / 颱風來之前先熱到融化』carry 1 item。勿引『一度 8.12 元』不實 (MyGoPen 已闢謠)。** cross-link insomnia (熱到睡不著) + food-jokes (只想吃冰) + 颱風假。
+
+- **7/8 台灣父親節 8/8 (T-31) + 七夕 8/19 (T-42) drafting 進行中 (Flowerdj/Trip.com/wisdom-life/holidays-calendar 多源 2026)**: 8 月『情話+親情+民俗 (中元)』主題群 drafting 窗口進行。**七夕以 8/19 (週三, 農曆七月初七) 為準 — 部分單一來源 (taipeitwins) 誤植 8/25, 撰稿勿採。台灣父親節 8/8。** **意義: sweet/cheesy (七夕撩人語錄/土味情話)/fathers-day-quotes (台灣 8/8)/cdrama-period (古裝甜寵) priority MEDIUM — 持續 drafting; honeybee (七夕) + Toy Story 5 (父親節) 暖身。** cross-link wedding (8 月婚禮旺季) + adulting (高級大人=爸)。
+
+- **7/8 TikTok/全球 carry『Bangladesh (荒謬升級)/Hot Dog Summer (Jennifer Coolidge)/Food Jutsu (動漫手勢變身)/I Treated You Bad (MJ remix 舞)』+ 文化動能『世界盃淘汰賽 + Toy Story 5 懷舊』(NewEngen/Buffer/tokchart/SocialPilot 多源 2026)**: 7 月換代信號延續，生命週期 7-10 天。**意義: witty/dark-humor/self-love/sweet/mom priority MEDIUM『Bangladesh=清單越列越荒謬 / Hot Dog Summer=夏天就是要沒在管形象 / Food Jutsu=用中二手勢認真過生活 / Toy Story 5 親子懷舊 (父親節暖身)』1 item per topic (取通用情緒不強綁短命 IP)。**
+
+- **7/8 政治/敏感 SKIP 區 (carry 不變)**: 國會預算戰 / 中國軍演 / 民眾黨主席 / 海巡衝突 / 校園霸凌 / 超哥爭議 全 SKIP。『超派』純語氣可用; 班味/活人感/精神離職/做完你的做你的/愛你老己/破防/0 尊 正向或純厭世/喪萌共鳴無敏感 (精神離職取『心累自保』勿煽動離職)。颱風假取『期待放假/在家耍廢』通用共鳴，勿調侃受災。
+
+### Existing Topic Updates
+
+- **worldcup-quotes (7/8 16 強收官 + 8 強對戰樹全出/梅西阿根廷續闖, priority HIGH)**: carry 8 強對戰樹/PK 心臟病軸「8 強名單全出決賽圈剩 8 個位置我待辦卻越來越長 / 連環 PK 4:3 強者也靠最後一顆球撐心臟 / 12 碼比開會報告還讓人手抖 / 梅西還在拼衛冕靠現在不靠回憶 / 加時拖 PK=以為下班了老闆再開會 / 對戰樹越縮越窄淘汰賽沒有安全區」zh-tw+en 2-3 items。**衛冕軍阿根廷 (梅西)。撰稿以『7/8 16 強收官、8 強對戰樹全出 (阿根廷vs瑞士/西班牙vs比利時/挪威vs英格蘭/法國vs摩洛哥)、8 強戰 7/11 起、7/19-20 冠軍戰』為準。** cross-link workplace/insomnia/cold-jokes/witty/motivational/healing。
+
+- **holiday-jokes + workplace/adulting/renting/food-jokes/drama-binge (7/8 NEW 巴威颱風逼近/颱風假討論升溫, priority MEDIUM-HIGH)**: holiday-jokes carry 颱風梗「颱風還沒到我已在刷停班停課 / 求放颱風假比拜拜還虔誠 / 颱風假是大人版臨時不用上學」; workplace/adulting 吸收「別人期待放假我怕颱風天還要進公司」; food-jokes/drama-binge 吸收「颱風天最強陣容泡麵+追劇+不出門」1-2 items。**颱風假取『期待放假/在家耍廢』通用共鳴，勿調侃受災，路徑隨氣象署更新不寫死結果。** cross-link renting + insomnia。
+
+- **concert-ticket-quotes (7/8 第四場今晚開唱, priority MEDIUM-HIGH, 已 7/3 獨立建檔)**: carry 1 item「空檔兩天終於輪到今晚 / 13 米恐龍我只看得到別人的手機海 / 別人在曬現場我還在等我的場 / 749 萬人看過就差我這一個」。cross-link slang + adulting + travel + healing。
+
+- **workplace/adulting/healing/self-love/slang (7/8 職場厭世常青 carry + NEW『做完你的做你的』, priority MEDIUM)**: 「精神離職靈魂已遞辭呈 / 做完你的做你的一個人當三個用 / 精神離職+班味=標準週三 / 活人感只有放假才找得回 / 愛你老己撐過這週」1-2 items。**精神離職取『心累自保』勿煽動離職; 做完你的做你的取『多線程忙中控場的無奈自嘲』。** cross-link insomnia + worldcup。
+
+- **summer-electric/renting/adulting (7/8 夏月電價 day-38 + 高溫 32-38 度 → 週末颱風降溫, priority MEDIUM)**: 「體感 38 度冷氣是續命不是奢侈 / 暑假空屋電費照噴我人不在帳單卻很在 / 每調高 1 度省 6% / 颱風來之前先熱到融化」1 item。**勿引『一度 8.12 元』不實。** cross-link insomnia + food-jokes + 颱風假。
+
+- **sweet/cheesy/fathers-day/cdrama-period (7/8 父親節 8/8 T-31 + 七夕 8/19 T-42 drafting 中, priority MEDIUM)**: sweet/cheesy (七夕撩人/土味情話) + fathers-day (台灣 8/8) + cdrama-period (古裝甜寵) 持續 drafting; honeybee + Toy Story 5 暖身。**七夕以 8/19 為準 (勿誤植 8/25)。US 父親節 6/21 已 CLOSED。** cross-link wedding + adulting。
+
+- **travel-quotes (7/8 暑假旅遊主峰 + 週末颱風攪局, priority MEDIUM)**: 「暑假機票越早訂越省 / 別人放暑假我放無薪假 / 避暑勝地是冷氣房 / 訂好的行程遇颱風只能改期」1 item。cross-link 夏月電價 + concert + 颱風假。
+
+- **witty/dark-humor/self-love/sweet/mom (7/8 TikTok『Bangladesh/Hot Dog Summer/Food Jutsu』+ Toy Story 5, priority MEDIUM)**: 「Bangladesh=清單越列越荒謬 / Hot Dog Summer=夏天沒在管形象 / Food Jutsu=中二手勢認真過生活 / Toy Story 5 親子懷舊 (父親節暖身)」1 item per topic (取通用情緒不強綁短命 IP)。
+
+- **drama/drama-binge/korean-drama/cdrama-period (7/8 Q3 暑假追劇主峰 + 颱風假在家追劇)**: 「莫離腹黑定王 / 雨霖鈴 / 逐玉 / HOTD S3 / 颱風假一集接一集」1 item。cdrama-period 古裝劇 cluster 暑假主峰再評估獨立。
+
+- **exam-quotes (7/8 會考放榜 7/7 已過 → 深度休眠)**: 放榜情緒已於 7/7 carry 完畢，7/8 起轉深度休眠至 2027/6 (下一屆會考季)。7/9 報到日殘餘共鳴由 graduation/healing 承接，不再獨立 carry。
+
+- **graduation-quotes (7/8 畢業季尾聲收尾, priority LOW)**: 「失業倒數 / 從學生變社畜 / 履歷還沒回音 / 放榜完換煩惱制服買哪件」1 item 收完轉休眠。cross-link exam (放榜已過) + adulting + healing。
+
+- **holiday-jokes/food-jokes (端午 CLOSED 6/19)**: 端午深度休眠至 2027/6。**holiday-jokes 本週由颱風梗 (巴威) 臨時活化 carry; food-jokes 轉「高溫只想吃冰/暑假胖三公斤/颱風天囤泡麵」organic。** 下一節慶窗口 8 月 (父親節+七夕+中元)。
+
+- **cat/dog/pet-memorial/mom/zodiac/wedding/couple-jokes/cold-jokes/insomnia/service/fitness/motivational/breakup/diet/stock-investor/human-design/programmer/absurd-wisdom**: organic 觀察期。cold-jokes opportunistic 吸收世足諧音 (PK/12 碼/加時/出線) 1 item low; insomnia 吸收『熬夜看 PK 大戰/高溫熱到睡不著/颱風風雨聲吵到睡不著』1 item low; motivational 吸收『梅西還在拼衛冕靠現在不靠回憶』1 item low; programmer 吸收『精神離職=只 commit 份內的 code / 做完你的做你的=多線程處理』1 item low; pet 系吸收『颱風天窩在家陪毛孩』1 item low; wedding carry「8 月婚禮旺季」organic; stock-investor Q4 年底加碼觀察。
+
+### Updated Action Priority
+
+1. **[HIGH — 7/8 世界盃 16 強收官 + 8 強對戰樹全出 (阿根廷/瑞士晉級、梅西續闖)]** worldcup-quotes → 併入 8 強對戰樹/PK 心臟病軸「8 強名單全出決賽圈剩 8 個位置我待辦卻越來越長 / 連環 PK 強者也靠最後一顆球撐心臟 / 梅西還在拼衛冕靠現在不靠回憶 / 加時拖 PK=以為下班了老闆再開會」carry 2-3 items。衛冕軍阿根廷。**撰稿以『7/8 16 強收官、8 強對戰樹全出 (阿vs瑞/西vs比/挪vs英/法vs摩)、8 強戰 7/11 起、7/19-20 冠軍戰』為準。** cross-link workplace/insomnia/cold-jokes/motivational/healing。
+2. **[MEDIUM-HIGH — 7/8 NEW 巴威颱風逼近/颱風假討論升溫]** holiday-jokes (颱風梗) + workplace/adulting (颱風假心情) + food-jokes/drama-binge「颱風還沒到我已在刷停班停課 / 求放颱風假比拜拜還虔誠 / 颱風假是大人版臨時不用上學 / 颱風天最強陣容泡麵+追劇+不出門」carry 1-2 items。**颱風假取『期待放假/在家耍廢』通用共鳴，勿調侃受災，路徑隨氣象署更新不寫死。** cross-link renting + insomnia。
+3. **[MEDIUM-HIGH — 7/8 五月天第四場今晚開唱]** concert-ticket-quotes (已 7/3 獨立)「空檔兩天終於輪到今晚 / 13 米恐龍我只看得到別人的手機海 / 749 萬人看過就差我這一個」carry 1 item。cross-link slang + adulting + travel。
+4. **[MEDIUM — 7/8 職場厭世常青 carry + NEW『做完你的做你的』]** workplace/adulting/healing/self-love/slang「精神離職靈魂已遞辭呈 / 做完你的做你的一個人當三個用 / 精神離職+班味=標準週三 / 活人感只有放假才找得回」1-2 items。**精神離職取『心累自保』勿煽動離職; 做完你的做你的取『多線程忙中控場無奈自嘲』。** cross-link insomnia + worldcup。
+5. **[MEDIUM — 7/8 夏月電價 day-38 + 高溫 32-38 度 → 週末颱風降溫]** summer-electric/renting/adulting「體感 38 度冷氣是續命不是奢侈 / 暑假空屋電費照噴 / 每調高 1 度省 6% / 颱風來之前先熱到融化」1 item。**勿引『一度 8.12 元』不實。** cross-link insomnia + food-jokes + 颱風假。
+6. **[DRAFTING — 7/8 父親節 8/8 T-31 / 七夕 8/19 T-42]** fathers-day (台灣 8/8) + sweet/cheesy (七夕撩人/土味情話) + cdrama-period (古裝甜寵) 持續 drafting; honeybee + Toy Story 5 暖身。**七夕以 8/19 為準 (勿誤植 8/25)。**
+7. **[MEDIUM — 7/8 暑假旅遊主峰 + 週末颱風攪局]** travel-quotes「暑假機票越早訂越省 / 避暑勝地是冷氣房 / 訂好的行程遇颱風只能改期」1 item。
+8. **[MEDIUM — 7/8 TikTok『Bangladesh/Hot Dog Summer/Food Jutsu』+ Toy Story 5]** witty/dark-humor/self-love/sweet/mom「Bangladesh=清單越列越荒謬 / Hot Dog Summer=夏天沒在管形象 / Toy Story 5 親子懷舊 (父親節暖身)」1 item per topic (不強綁短命 IP)。
+9. **[MEDIUM — 7/8 Q3 暑假追劇主峰 + 颱風假在家追劇]** drama/drama-binge/korean-drama/cdrama-period「莫離 / 雨霖鈴 / 逐玉 / HOTD S3 / 颱風假一集接一集」1 item。
+10. **[LOW — 7/8 畢業季尾聲收尾]** graduation-quotes「失業倒數 / 從學生變社畜 / 放榜完換煩惱制服買哪件」1 item 收完休眠。
+11. **[CLOSED — 會考放榜 7/7 / 端午 6/19 / 報稅 6/1 / US 父親節 6/21]** exam-quotes 放榜已 carry 完深度休眠至 2027/6; 端午/報稅/US 父親節全深度休眠。holiday-jokes 本週由颱風梗臨時活化; food-jokes 轉高溫/颱風囤糧 organic。
+12. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period/drama-binge 古裝劇 cluster 候選獨立評估, 暫 carry。
+13. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼 (台股 + K 型 cross-link)。
+14. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議 全 SKIP。『超派』純語氣可用; 班味/活人感/精神離職/做完你的做你的/愛你老己/破防/0 尊 正向或純厭世共鳴無敏感; 颱風假取『期待放假/在家耍廢』通用共鳴勿調侃受災。
