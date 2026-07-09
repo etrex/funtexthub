@@ -7917,6 +7917,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-267",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://danfe.io/blog/hilarious-office-quotes/",
+      "sourceNote": "Danfe hilarious office quotes — 開會其實是一封 email 的哏，重寫過",
+      "tags": [
+        "會議",
+        "辦公室",
+        "職場厭世",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我剛開完一個原本可以用兩句話講完的會，獎勵是：等一下還要開一個會，來討論剛剛那個會。",
+          "editorNote": "行事曆被會議塞爆那天發送，配一張只剩五分鐘吃午餐的行程截圖更有感。",
+          "variations": [
+            "『這場會唯一的產出，就是決定下週要再開一場會。』",
+            "延伸版：『開會前我很有想法，開完會我只剩想睡。』"
+          ]
+        },
+        "en": {
+          "content": "Just wrapped a meeting that could've been two sentences. My reward? Another meeting to talk about that meeting.",
+          "editorNote": "Best sent on the day your calendar is a solid wall of blocks, ideally with a screenshot of your five-minute lunch gap.",
+          "variations": [
+            "'The only deliverable from that meeting was scheduling next week's meeting.'",
+            "'I walk into meetings full of ideas and walk out with nothing but a nap request.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-268",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://chuckleslife.com/remote-work-quotes/",
+      "sourceNote": "Chuckles Life remote work quotes — 遠距上班藏洗衣籃的哏，重寫過",
+      "tags": [
+        "遠距工作",
+        "在家上班",
+        "幽默自嘲",
+        "社畜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在家上班的精髓是：百分之十在工作，百分之九十在確保視訊鏡頭照不到背後那座衣服山。",
+          "editorNote": "遠距同事群組裡發送，大家會默默把鏡頭角度再喬一次。",
+          "variations": [
+            "『我最專業的技能，是在開鏡頭前十秒把亂鋪好的床變成背景。』",
+            "延伸版：『在家上班的服裝儀容，就是睡褲外面套一件乾淨的上衣。』"
+          ]
+        },
+        "en": {
+          "content": "Working from home is 10% actual work and 90% making sure the camera never catches the mountain of laundry behind me.",
+          "editorNote": "Drop it in the remote team chat and watch everyone quietly re-angle their webcams.",
+          "variations": [
+            "'My most professional skill is turning an unmade bed into a passable background in ten seconds.'",
+            "'Dress code for working from home: a clean shirt over the pajama pants nobody sees.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-269",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://tivazo.com/blogs/funny-quotes-about-work-to-brighten-your-day/",
+      "sourceNote": "Tivazo funny work quotes — 咖啡機是最好的同事哏，重寫過",
+      "tags": [
+        "咖啡",
+        "同事",
+        "職場幽默",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "辦公室裡我最喜歡的同事是咖啡機，它從來不會跑來問我進度到哪了。",
+          "editorNote": "早上第一杯咖啡拿到座位時發送，配一張咖啡機照片最對味。",
+          "variations": [
+            "『咖啡機是全公司唯一不會已讀不回的存在。』",
+            "延伸版：『同事會催進度，咖啡機只會默默給我續命，你說誰比較重要。』"
+          ]
+        },
+        "en": {
+          "content": "My favorite coworker is the coffee machine — it never once comes over to ask where my progress is.",
+          "editorNote": "Send it the moment you carry your first cup back to your desk. A photo of the machine seals the deal.",
+          "variations": [
+            "'The coffee machine is the only thing in this office that never leaves me on read.'",
+            "'Coworkers chase deadlines; the coffee machine just quietly keeps me alive. You tell me who matters more.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-270",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://blog.zenhr.com/en/20-work-memes-that-are-too-relatable-2026",
+      "sourceNote": "ZenHR relatable work memes 2026 — 開會時忍住不說真心話的哏，重寫過",
+      "tags": [
+        "會議",
+        "職場厭世",
+        "幽默自嘲",
+        "社畜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我最引以為傲的職場成就，就是開會時臉上完全沒有洩漏我腦中正在尖叫的那句話。",
+          "editorNote": "在那種明明想反駁卻只能微笑點頭的會議中場休息發送。",
+          "variations": [
+            "『我的專業，就是把「這根本不合理」翻譯成「好的我理解了」。』",
+            "延伸版：『開會時我的表情管理，比我的工作成果還穩定。』"
+          ]
+        },
+        "en": {
+          "content": "My proudest workplace achievement is keeping my face from saying the thing my brain is screaming in this meeting.",
+          "editorNote": "For the mid-meeting break when you want to argue but can only smile and nod.",
+          "variations": [
+            "'My real skill is translating \"this makes zero sense\" into \"okay, understood.\"'",
+            "'My poker face in meetings is more reliable than any of my actual output.'"
+          ]
+        }
+      }
     }
   ]
 }

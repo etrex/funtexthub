@@ -5443,6 +5443,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-185",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC-%E6%88%BF%E6%9D%B1-%E6%88%BF%E5%AE%A2-%E5%A0%B1%E7%A8%85-%E7%A8%85%E7%8E%87-%E5%84%AA%E6%83%A0-%E7%A7%9F%E5%B1%8B/",
+      "sourceNote": "法律規定房東不得禁止房客申請租補，違者最高罰50萬；合約禁止條款無效; rewritten",
+      "tags": [
+        "房東",
+        "房租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房時房東笑得很和藹，一到簽約就補一句：「租金補貼不要申請喔。」\n法律說他不能禁止，他說他只是「建議」——建議我用他的房子，過他的規矩。",
+          "editorNote": "適合傳給正在跟房東拉鋸能不能申請租補的租屋族，順便提醒對方那條禁止條款其實無效",
+          "variations": [
+            "房東把「不得申請補助」寫進合約，好像不知道那一行字比壁癌還沒有法律效力。",
+            "他不准我申請租補的理由是「怕麻煩」，我省下來的那幾千塊他也怕我麻煩。"
+          ]
+        },
+        "en": {
+          "content": "At the viewing the landlord was all smiles. At signing he slipped in, \"Don't apply for the rent subsidy, okay?\"\nThe law says he can't forbid it. He says he's just \"suggesting\"—suggesting I live in his place, by his rules.",
+          "editorNote": "For renters stuck negotiating whether they're allowed to claim the subsidy—and a reminder that a ban clause is legally void",
+          "variations": [
+            "He wrote \"no applying for subsidies\" into the lease as if that line had more legal weight than the mold on the wall.",
+            "His reason for banning the subsidy was \"it's a hassle.\" Funny how my hassle is the money I'd have saved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-186",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9139599",
+      "sourceNote": "2026租補新制：違建、頂加不能申請，舊戶一年過渡期; rewritten",
+      "tags": [
+        "套房",
+        "房租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年才知道，我住的頂加不算「合法住宅」，所以租補申請不了。\n原來我不是租了一間房，我是租了一個政府假裝看不見的地方。",
+          "editorNote": "適合租在頂樓加蓋、被新制排除在補助外的租屋族自嘲",
+          "variations": [
+            "頂加的夏天像蒸籠，冬天像冰箱，唯一恆溫的是我對補助沒份的心。",
+            "房東說頂加通風好視野棒，沒說的是它連個合法門牌都給不了我。"
+          ]
+        },
+        "en": {
+          "content": "This year I found out the rooftop room I live in doesn't count as a \"legal residence,\" so I can't claim the subsidy.\nTurns out I didn't rent an apartment—I rented a place the government pretends it can't see.",
+          "editorNote": "Self-deprecating line for renters in rooftop add-ons now shut out of the subsidy",
+          "variations": [
+            "A rooftop room is a steamer in summer and a fridge in winter—the only thing at a stable temperature is my resignation about the subsidy.",
+            "The landlord sold me on the great airflow and the view. He left out that it can't even give me a legal address."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-187",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/229197857",
+      "sourceNote": "房東規定遲繳一天就重罰、無彈性的爭議討論; rewritten",
+      "tags": [
+        "房東",
+        "房租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東規定房租遲繳一天就要罰款，法律上他其實要等我拖兩個月才能怎樣。\n但他手速比法條快，愛比法官多——只可惜都用在我身上。",
+          "editorNote": "適合傳給遇到嚴苛遲繳罰款、卻搞不清楚法律底線的租屋族",
+          "variations": [
+            "他對我遲繳一天的反應，比我對他晚三個月才修漏水的反應激烈一百倍。",
+            "房東最準時的一件事，就是提醒我房租遲了幾個小時。"
+          ]
+        },
+        "en": {
+          "content": "My landlord fines me if rent is one day late—even though by law he'd have to wait two whole months before he could do anything.\nBut his reflexes are faster than the statute and his love is bigger than a judge's—shame it's all aimed at me.",
+          "editorNote": "For renters hit with harsh late fees who aren't sure where the legal line actually is",
+          "variations": [
+            "His reaction to me being one day late is a hundred times louder than mine to him taking three months to fix the leak.",
+            "The one thing my landlord is never late for is reminding me how many hours late my rent is."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-188",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://vocus.cc/article/68372675fd897800012d2edb",
+      "sourceNote": "常見租屋糾紛：房東扣押金、單方漲租、未經同意進房; rewritten",
+      "tags": [
+        "押金",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租那天房東拿著手電筒，像在鑑定古董一樣照我住過的每一面牆。\n照到最後我才懂，他找的不是瑕疵，是不還我押金的理由。",
+          "editorNote": "適合退租驗屋被百般刁難、押金岌岌可危時發洩用",
+          "variations": [
+            "押金要拿回來，得先通過房東那場沒有標準答案的期末考。",
+            "他驗屋的仔細程度，是我這兩年唯一感受到他認真對待這間房的時刻。"
+          ]
+        },
+        "en": {
+          "content": "On move-out day the landlord walked in with a flashlight, examining every wall I'd lived beside like it was an antique up for appraisal.\nBy the end I understood he wasn't hunting for flaws—he was hunting for a reason not to return my deposit.",
+          "editorNote": "A vent for the move-out inspection where the deposit hangs by a thread and every nitpick counts against you",
+          "variations": [
+            "To get your deposit back you first have to pass the landlord's final exam—the one with no answer key.",
+            "The care he put into that inspection was the only time in two years he seemed to take the place seriously."
+          ]
+        }
+      }
     }
   ]
 }

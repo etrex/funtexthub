@@ -6004,6 +6004,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-207",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://blog.104.com.tw/say-thank-you-to-whom-serves-you/",
+      "sourceNote": "internal only — 「我要找你們經理」升級投訴橋段，改寫成金句；延續奧客語錄風格",
+      "tags": [
+        "服務業",
+        "奧客",
+        "金句",
+        "尊嚴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叫你們經理出來！」\n經理來了，說的話跟我一模一樣。\n您沉默三秒，\n然後說：「那再叫更上面的。」\n先生，再往上，就只剩天了，\n而祂通常不接客訴。",
+          "editorNote": "使用場景：傳給今天被「叫你們主管出來」連環攻擊的第一線同事。奧客要的從來不是答案，是一個比你更容易被他壓過的人。",
+          "variations": [
+            "客人說要找經理，其實只是想換一個人聽同一個規定，然後假裝那個規定變了。",
+            "「你做不了主。」對，我做不了主，但奇怪的是，能做主的那位，講的跟我一字不差。"
+          ]
+        },
+        "en": {
+          "content": "\"Get me your manager!\"\nThe manager comes over and says exactly what I said.\nYou go quiet for three seconds,\nthen: \"Then get me whoever's above them.\"\nSir, above them there's only the sky —\nand it doesn't usually take complaints.",
+          "editorNote": "For anyone hit today with the endless 'get me your supervisor.' What they want isn't an answer — it's someone they think will fold easier than you.",
+          "variations": [
+            "Asking for the manager is really just asking to hear the same policy from a different mouth, then pretending it changed.",
+            "\"You can't make that call.\" True — but funny how the person who can says the exact same words I just did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-208",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://twistedsifter.com/2026/04/customer-criticized-retail-worker-for-not-smiling-so-the-employee-thinks-the-customer-is-really-rude/",
+      "sourceNote": "internal only — 「你怎麼不笑」被要求微笑的橋段（2026-04 viral），改寫成情緒勞動心聲",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "心聲",
+        "尊嚴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你上班怎麼都不笑一個？」\n因為我的笑，是有配額的。\n那一份，我留給了\n三分鐘前對我大吼的那位。\n您來的時候，剛好用完了，\n下一批要等我把心情補貨。",
+          "editorNote": "使用場景：給被要求「笑一個」的服務業朋友。微笑是我們的工具，不是你的權利；用完了，就是用完了。",
+          "variations": [
+            "客人嫌我臭臉，可是他不知道，我這張臉今天已經對五十個人笑過了，剩下的額度，真的擠不出來。",
+            "「服務業就是要笑口常開。」是啊，只是沒人告訴客人，那個笑，是我們自己一格一格充上去的。"
+          ]
+        },
+        "en": {
+          "content": "\"Why don't you ever smile at work?\"\nBecause my smiles come with a daily quota.\nThat one, I already gave\nto the guy who screamed at me three minutes ago.\nYou showed up right as it ran out —\nthe next batch is still restocking.",
+          "editorNote": "For anyone told to 'give us a smile.' The smile is our tool, not your entitlement. When it's spent, it's spent.",
+          "variations": [
+            "A customer called me sour-faced. He didn't know this face already smiled at fifty people today — there's just none left to squeeze out.",
+            "\"Service work means smiling all day.\" Sure — nobody tells the customer that smile gets charged back up one bar at a time, by us."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-209",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://twistedsifter.com/2026/05/customers-have-been-unloading-their-thoughts-and-feelings-on-this-customer-service-employee-so-her-work-started-feeling-like-aggravating-emotional-labor/",
+      "sourceNote": "internal only — 客人把店員當「情緒支援專員」倒垃圾（2026-05 viral），改寫成心聲金句",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "客服",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是問了一句「今天還好嗎」，\n您就把整個禮拜的委屈，\n連同對前老闆、對前任、對這個世界的怒火，\n全部倒進我這個小小的櫃檯。\n我的職稱是店員，\n不是您沒付錢的情緒回收站。",
+          "editorNote": "使用場景：傳給那個下班回到家、還在幫全世界收情緒的客服或櫃檯朋友。禮貌問候不等於免費諮商。",
+          "variations": [
+            "客人把我當樹洞，問題是樹洞不用上班，也沒有業績壓力，還可以裝作沒聽到。",
+            "我這個位置，聽過的心事比里長還多，領的卻是最低時薪。"
+          ]
+        },
+        "en": {
+          "content": "I just asked, \"How's your day going?\"\nand you poured a whole week's worth of hurt into me —\nthe rage at your last boss, your ex, the entire world —\nall dumped onto my little counter.\nMy title is clerk,\nnot the unpaid recycling bin for your feelings.",
+          "editorNote": "For the counter or call-center friend who gets home still carrying everyone else's emotions. A polite hello is not free therapy.",
+          "variations": [
+            "Customers treat me like a confession booth — except the booth doesn't clock in, doesn't have sales targets, and can pretend it didn't hear.",
+            "This seat has heard more secrets than a priest, and gets paid minimum wage to do it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-210",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://www.518.com.tw/article/2148",
+      "sourceNote": "internal only — 2026 餐飲業缺工潮（每4家1家缺人），改寫成缺工現場心聲",
+      "tags": [
+        "服務業",
+        "缺工",
+        "餐飲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人問：「怎麼這麼慢，你們人呢？」\n我想說：人就是我。\n外場我、內場我、收銀我，\n連剛剛幫您帶位的，也是我。\n我不是動作慢，\n我是同時在當三個人，還要記得微笑。",
+          "editorNote": "使用場景：給缺工現場一打三、一打五的每一位。你不是慢，你是把整間店扛在肩上。",
+          "variations": [
+            "「你們可以多派幾個人嗎？」可以啊，等你先告訴我上哪找。",
+            "以前一個蘿蔔一個坑，現在是一個蘿蔔補三個坑，還要笑著跟你說歡迎光臨。"
+          ]
+        },
+        "en": {
+          "content": "The customer asks, \"Why so slow? Where's your staff?\"\nI want to say: the staff is me.\nFront of house — me. Kitchen — me. Register — me.\nThe one who seated you just now? Also me.\nI'm not slow —\nI'm being three people at once, and still remembering to smile.",
+          "editorNote": "For everyone running a whole floor solo during the staffing crunch. You're not slow — you're carrying the entire place on your shoulders.",
+          "variations": [
+            "\"Can't you put more people on?\" Sure — right after you tell me where to find them.",
+            "It used to be one person per station. Now it's one person covering three, still cheerfully saying 'welcome in.'"
+          ]
+        }
+      }
     }
   ]
 }

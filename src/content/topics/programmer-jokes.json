@@ -8458,6 +8458,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-292",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "AI writes code faster than the developer can understand it — vibe coding humor",
+      "tags": [
+        "AI",
+        "現實",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在寫程式的流程是這樣的：\nAI 用三秒鐘寫完一個功能，\n我用三小時看懂它到底寫了什麼，\n然後假裝那是我寫的。",
+          "editorNote": "傳給每天在用 AI 工具的同事，尤其是那種 code review 都不敢按太快的。",
+          "variations": [
+            "PR 描述：「這段程式碼由本人親自複製貼上」",
+            "AI 是資深工程師，我是負責點頭的那個"
+          ]
+        },
+        "en": {
+          "content": "The modern coding workflow:\nThe AI writes a whole feature in three seconds.\nI spend three hours figuring out what it actually did,\nthen pretend I wrote it.",
+          "editorNote": "Send this to any coworker living on AI tools — especially the one who's afraid to approve a PR too fast.",
+          "variations": [
+            "PR description: 'This code was personally copy-pasted by me.'",
+            "The AI is the senior engineer. I'm the one who nods."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-293",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://programmerhumor.io/memes/rubber-duck-debugging",
+      "sourceNote": "Rubber duck debugging joke — duck files restraining order variant",
+      "tags": [
+        "除錯",
+        "工程師日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我對著桌上的小鴨解釋我的 bug，\n講到第三行的時候，\n我懂了，鴨子也懂了，\n但只有鴨子知道要保持沈默。",
+          "editorNote": "適合傳給第一次聽到「小黃鴨除錯法」還一臉問號的新人。",
+          "variations": [
+            "解決方案通常在你講完問題的那一刻自己冒出來，鴨子只是見證者",
+            "後來我升職了，鴨子還是資深顧問"
+          ]
+        },
+        "en": {
+          "content": "I explained my bug out loud to the rubber duck on my desk.\nBy the third sentence, I understood it, and so did the duck.\nBut only the duck knew to stay quiet about it.",
+          "editorNote": "Perfect for the new hire who just heard about 'rubber duck debugging' and thinks you're joking.",
+          "variations": [
+            "The fix usually appears the second you finish describing the problem. The duck is just a witness.",
+            "I got promoted. The duck stayed on as senior consultant."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-294",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://one-beyond.com/20-one-liners-only-software-developers-understand/",
+      "sourceNote": "It's not a bug it's a future feature — classic reframe one-liner",
+      "tags": [
+        "bug",
+        "工程師語錄",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "使用者：「這裡有個 bug。」\n工程師：「那不是 bug，那是還沒寫文件的功能。」\n使用者：「那文件呢？」\n工程師：「那才是真正的 bug。」",
+          "editorNote": "拿來當團隊的免責金句，開會被抓包時特別好用。",
+          "variations": [
+            "「這是預期外的行為，但它很有個性」",
+            "bug 和 feature 的差別，只在於誰先寫進 release note"
+          ]
+        },
+        "en": {
+          "content": "User: \"There's a bug here.\"\nDeveloper: \"That's not a bug, it's an undocumented feature.\"\nUser: \"So where are the docs?\"\nDeveloper: \"Now that's the real bug.\"",
+          "editorNote": "A go-to disclaimer for the team — especially handy when you get caught in a meeting.",
+          "variations": [
+            "'It's unexpected behavior, but it has character.'",
+            "The only difference between a bug and a feature is who writes it into the release notes first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-295",
+      "dateAdded": "2026-07-09",
+      "sourceUrl": "https://godecodeai.com/30-ai-jokes-that-only-coders-will-understand/",
+      "sourceNote": "AI creates the security vulnerability then takes credit for finding it — arsonist firefighter analogy",
+      "tags": [
+        "AI",
+        "程式碼品質",
+        "現實"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的 AI 助理在昨天的程式碼裡埋了一個安全漏洞，\n今天又主動幫我掃出來，\n還在報告裡寫：「發現重大風險，已修復。」\n這就像放火的人拿到年度消防員獎。",
+          "editorNote": "傳給那種很愛把功勞往自己身上攬的同事，AI 版或人類版都通用。",
+          "variations": [
+            "AI：「我發現了問題。」我：「這問題是你昨天寫的。」AI：「所以我最了解它。」",
+            "自導自演的除錯，效率高但良心會痛"
+          ]
+        },
+        "en": {
+          "content": "My AI assistant slipped a security hole into yesterday's code,\nthen proudly scanned it out today,\nwriting in the report: \"Critical risk found and fixed.\"\nThat's like the arsonist winning firefighter of the year.",
+          "editorNote": "For the coworker who loves taking credit — works for the AI version and the human version alike.",
+          "variations": [
+            "AI: 'I found the problem.' Me: 'You wrote it yesterday.' AI: 'Which is why I know it best.'",
+            "Self-directed debugging: highly efficient, mildly guilt-inducing."
+          ]
+        }
+      }
     }
   ]
 }
