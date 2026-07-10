@@ -3822,6 +3822,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-128",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1782972003.A.FB7.html",
+      "sourceNote": "7/2 盤後閒聊 台股46744 微台一天賠1萬 register；改寫原創",
+      "tags": [
+        "微台",
+        "期貨",
+        "厭世",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人跟我說，玩期貨要控制風險、小口操作，不要一次壓太大。\n我聽話，只買了一口微型的。\n結果我發現，微型的意思是合約很小，賠起來卻一點都不微型。\n一天賠一萬，這輩子我第一次覺得『微』這個字，很有份量。",
+          "editorNote": "送給每個以為玩小口就能睡好覺、結果一天照樣賠一萬的期貨新手",
+          "variations": [
+            "微台的『微』是形容合約，不是形容我的損失。",
+            "我很有紀律地控制口數，然後很沒紀律地讓每一口都賠好賠滿。"
+          ]
+        },
+        "en": {
+          "content": "Someone told me: with futures, manage your risk, trade small, never bet too big at once.\nI listened, and only bought one micro contract.\nThen I learned what 'micro' actually means — the contract is small, but the losses are not micro at all.\nDown ten grand in a day. First time in my life the word 'tiny' carried so much weight.",
+          "editorNote": "For the futures rookie who thought trading small meant sleeping soundly, then dropped ten grand in a day anyway",
+          "variations": [
+            "The 'micro' in micro futures describes the contract, not my loss.",
+            "I disciplined myself on position size, then very undisciplinedly maxed out the loss on every single one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-129",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://jokejuicer.com/stock-market-jokes/",
+      "sourceNote": "「Gains are shy, losses are loud」register；改寫原創",
+      "tags": [
+        "獲利",
+        "虧損",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我發現獲利跟虧損的個性完全不一樣。\n賺錢的時候很安靜，賺一點點就縮回去，一句話都不敢多說。\n賠錢的時候很大聲，一路往下狂喊，深怕全世界不知道我在賠。\n我的帳戶就是這樣：內向的是獲利，外向的是虧損。",
+          "editorNote": "適合在小賺就跑、大賠死抱的矛盾時刻，自嘲一下發群組",
+          "variations": [
+            "我的獲利很害羞，露臉一下就跑；我的虧損很自來熟，賴著不走。",
+            "賺的時候手很快，賠的時候手很僵，這大概就是散戶的宿命。"
+          ]
+        },
+        "en": {
+          "content": "I've noticed gains and losses have totally opposite personalities.\nGains are shy — they show up briefly, shrink back the moment I'm barely green, and never say a word too much.\nLosses are loud — they scream all the way down, terrified the whole world might not know I'm bleeding.\nThat's my account in a nutshell: the introvert is my profit, the extrovert is my loss.",
+          "editorNote": "For the contradiction of snatching tiny gains and death-gripping big losses — share in the chat with a wince",
+          "variations": [
+            "My gains are shy and bolt after a quick hello. My losses are the friend who never leaves.",
+            "My hands are fast when it's green and frozen when it's red. That's the retail curse."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-130",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://jokejuicer.com/stock-market-jokes/",
+      "sourceNote": "「buy low, sold lower」register；改寫原創",
+      "tags": [
+        "低買",
+        "停損",
+        "自嘲",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老師教的是低買高賣。\n我改良了一下，發明了一套自己的：低買，更低賣。\n進場的時候我很有信心，覺得這就是最低點了。\n出場的時候我更有信心，因為我證明了剛剛那個絕對不是最低點。",
+          "editorNote": "送給每個把『低買高賣』實踐成『低買更低賣』的同好，貼在群組互相取暖",
+          "variations": [
+            "我唯一穩定的能力，是把每一個低點都買成半山腰。",
+            "別人是買低賣高，我是買低、抱著、然後在更低的地方含淚說再見。"
+          ]
+        },
+        "en": {
+          "content": "The textbook says buy low, sell high.\nI improved on it and invented my own version: buy low, sell lower.\nGoing in, I'm full of confidence that this is the bottom.\nGoing out, I'm even more confident — because I've now proven that first price definitely wasn't the bottom.",
+          "editorNote": "For everyone who turned 'buy low, sell high' into 'buy low, sell lower' — share in the group for mutual comfort",
+          "variations": [
+            "My one consistent skill is buying every bottom and turning it into a midway ledge.",
+            "Others buy low and sell high. I buy low, hold on, then say a tearful goodbye somewhere even lower."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-131",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://punnypulse.com/stock-market-jokes/",
+      "sourceNote": "「Red days hit different」register；改寫原創",
+      "tags": [
+        "紅綠",
+        "看盤",
+        "厭世",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在台股，紅的是漲，綠的是跌，這我知道。\n但奇怪的是，我看盤的心情，跟顏色沒什麼關係，只跟我有沒有買有關係。\n我有買的那檔，永遠是綠的。\n我沒買的那檔，永遠是紅的。\n原來決定漲跌的不是市場，是我的持股。",
+          "editorNote": "適合在盤中看著自己的持股一片綠、沒買的一片紅時，苦笑分享",
+          "variations": [
+            "我沒買的股票都在替我示範什麼叫做漲停。",
+            "我的持股顏色很單純，長期維持一種穩定的綠。"
+          ]
+        },
+        "en": {
+          "content": "In this market I know green means up and red means down.\nWeird thing is, my mood while watching the screen has nothing to do with the color — only with whether I own it.\nThe ones I bought are always red.\nThe ones I skipped are always green.\nTurns out it's not the market that decides which way things go. It's my holdings.",
+          "editorNote": "For staring intraday at your own bag bleeding while everything you passed on rips — share with a bitter laugh",
+          "variations": [
+            "Every stock I didn't buy is out there demonstrating what a limit-up looks like.",
+            "My portfolio's color scheme is simple — a steady, long-term shade of red."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-132",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1783317617.A.A50.html",
+      "sourceNote": "7/6 盤後閒聊 台股46556 回檔 / 「總會反彈的吧」register；改寫原創",
+      "tags": [
+        "反彈",
+        "套牢",
+        "自我安慰",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每次股價跌下來，我都會跟自己說一句：『總會反彈的吧。』\n這句話我已經講了半年。\n它反彈過幾次，每次都很有誠意地反彈一點點，然後繼續往下。\n我終於明白，『總會反彈的吧』不是分析，是一種宗教，而我是最虔誠的信徒。",
+          "editorNote": "送給每個靠一句『總會反彈的吧』撐著不停損的同好，貼在群組互相催眠",
+          "variations": [
+            "『總會反彈的吧』這句咒語，我唸了半年，股價完全沒在聽。",
+            "反彈是有的，只是每次都反彈到讓我剛好不甘心賣，然後再創新低。"
+          ]
+        },
+        "en": {
+          "content": "Every time the price drops, I tell myself one line: 'It'll bounce back eventually, right?'\nI've been saying it for half a year.\nIt has bounced a few times — always a sincere little bounce, then straight back down.\nI finally understand: 'it'll bounce eventually' isn't analysis, it's a religion, and I'm the most devout believer.",
+          "editorNote": "For everyone holding off on a stop-loss with the mantra 'it'll bounce' — share in the chat for mutual hypnosis",
+          "variations": [
+            "I've chanted 'it'll bounce eventually' for six months. The price has not been listening.",
+            "It does bounce — just enough each time that I can't bring myself to sell, right before the next new low."
+          ]
+        }
+      }
     }
   ]
 }

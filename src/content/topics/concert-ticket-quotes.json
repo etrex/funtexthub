@@ -4099,6 +4099,146 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-147",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://www.nownews.com/news/6804732",
+      "sourceNote": "IVE 加場開賣，大批粉絲帳號被系統判定異常鎖定，拓元解釋防黃牛演算法標記「不像人類的購票速度」",
+      "tags": [
+        "帳號被鎖",
+        "演算法",
+        "拓元",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "系統把我的帳號鎖了。\n理由是我「不像人類」。\n\n我點得太快、太準、太拚命。\n\n原來這個系統要的\n不是真的想看的人，\n是一個\n剛好不夠努力的人。",
+          "editorNote": "防黃牛演算法誤鎖真粉是 2026 最新災情。傳給剛剛被判定成機器人、正在急著申訴的朋友",
+          "variations": [
+            "申訴版：「帳號被鎖，理由『行為異常』。我的異常就是——我太想要了。這也算罪嗎？」"
+          ]
+        },
+        "en": {
+          "content": "The system locked my account.\nReason: I don't 'behave like a human.'\n\nI clicked too fast, too precisely, too desperately.\n\nTurns out the algorithm\ndoesn't want the fans who care the most.\nIt wants the one\nwho tried just a little less hard.",
+          "editorNote": "Anti-bot models flagging real fans for being too eager is the newest wave of pain. Send to a friend mid-appeal after an unexplained lock",
+          "variations": [
+            "Appeal version: 'Locked for suspicious behavior. My only suspicious behavior was wanting it too much. Is that a crime now?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-148",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3019879",
+      "sourceNote": "搶票攻略建議提前註冊主辦會員、訂閱電子報取得預購碼，會員預購成功率是全面開賣的 3 倍以上",
+      "tags": [
+        "預購碼",
+        "會員",
+        "搶票",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "攻略說：\n提前入會、訂閱電子報，\n拿到預購碼，\n成功率是全面開賣的三倍。\n\n我照做了。\n\n三倍的機率，\n乘上我原本的零。",
+          "editorNote": "預購碼提高三倍成功率的攻略人人都會，但底數是零就沒用。傳給照著攻略做還是槓龜的朋友最有共鳴",
+          "variations": [
+            "數學版：「三倍成功率聽起來很多。可惜任何數字乘我這種手速，都還是回到起點。」"
+          ]
+        },
+        "en": {
+          "content": "The guide says:\njoin the fan club early, sub the newsletter,\nget the presale code,\ntriple your odds versus general sale.\n\nI did all of it.\n\nTriple the odds,\nmultiplied by my original zero.",
+          "editorNote": "Presale-code guides promise 3x odds, but 3x zero is still zero. Send to the friend who followed every tip and still whiffed",
+          "variations": [
+            "Math version: 'Triple the odds sounds huge. Sadly any number times my reflexes rounds right back to nothing.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-149",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021394",
+      "sourceNote": "五月天大巨蛋 7/3 起開唱，門票開演前 15 天開放取票，可於 7-11 ibon 領實體票",
+      "tags": [
+        "取票",
+        "ibon",
+        "五月天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開演前 15 天開放取票，\n去 7-11 ibon 領。\n\n我每天走進超商，\n站在 ibon 前面，\n看別人領票。\n\n我不是來領票的，\n我是來練習\n那種站在門口卻進不去的感覺。",
+          "editorNote": "看別人在 ibon 領票、自己空手是搶票失敗者的日常凌遲。傳給也常經過超商觸景傷情的朋友",
+          "variations": [
+            "自嘲版：「ibon 我很熟，繳費、寄件、買咖啡都靠它。就是沒領過一次演唱會的票。」"
+          ]
+        },
+        "en": {
+          "content": "Pickup opens 15 days before the show,\nat the convenience-store kiosk.\n\nEvery day I walk in,\nstand in front of the machine,\nand watch other people collect their tickets.\n\nI'm not here to pick anything up.\nI'm here to practice\nthat feeling of standing at the door and never going in.",
+          "editorNote": "Watching others print tickets at the kiosk while empty-handed is a slow daily ache. Send to the friend who keeps passing the store and feeling it",
+          "variations": [
+            "Self-roast: 'I know that kiosk well — bills, parcels, coffee, all of it. Just never once a concert ticket.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-150",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://www.cnbc.com/2026/06/27/ticket-bots-concert-scalpers-ticketmaster-china-korea.html",
+      "sourceNote": "Live Nation 4 月與華府達成 990 萬美元和解，被控以低價廣告吸引後再加收強制手續費、製造假急迫感",
+      "tags": [
+        "手續費",
+        "隱藏費用",
+        "票價",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "廣告寫的票價，\n跟我最後付的票價，\n中間隔著一整排手續費。\n\n服務費、系統費、便利費、\n還有一個我永遠看不懂的費。\n\n他們最會的服務，\n是把價錢藏到最後一頁\n才給我看。",
+          "editorNote": "廣告低價、結帳暴增的隱藏手續費是跨國通病。傳給結帳畫面被層層加價嚇到的朋友",
+          "variations": [
+            "帳單版：「票價 1500，手續費 400，我付了 1900，買到一堂『廣告不能全信』的成人課。」"
+          ]
+        },
+        "en": {
+          "content": "The price in the ad\nand the price I actually paid\nare separated by an entire wall of fees.\n\nService fee, system fee, convenience fee,\nand one fee I will never understand.\n\nTheir best service\nis hiding the real number\nuntil the very last page.",
+          "editorNote": "Advertised-low, checkout-high drip pricing is a global grievance. Send to the friend who just got ambushed at the payment screen",
+          "variations": [
+            "Receipt version: 'Ticket $50, fees $18, total $68 — and a free adult-education course in Never Trust the Ad.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-151",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://www.theticketblog.com/post/summer-concert-ticket-buying-checklist-for-2026",
+      "sourceNote": "付費歌迷會會員（年費約 25-150 美元）成為大型巡演最穩定的預購入場券，免費註冊常被機器人流量淹沒",
+      "tags": [
+        "付費會員",
+        "年費",
+        "階級",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "想搶到票，\n要先加入付費歌迷會，\n一年繳一筆會費。\n\n免費註冊的通道，\n早就被機器人塞爆了。\n\n所以現在連當粉絲，\n都有分\n付得起的，\n跟只能在外面聽的。",
+          "editorNote": "付費會員才有穩定預購資格，把粉絲分成兩個階級。傳給不想為了一場票先繳年費的朋友當同溫層",
+          "variations": [
+            "階級版：「免費粉絲搶剩下的，付費粉絲搶好的，黃牛搶全部的。喜歡一個人，現在也要看預算。」"
+          ]
+        },
+        "en": {
+          "content": "To get a ticket,\nyou first join the paid fan club\nand cough up an annual fee.\n\nThe free-signup lane\nis already jammed with bots.\n\nSo now even being a fan\ncomes in tiers:\nthe ones who can pay,\nand the ones left listening outside.",
+          "editorNote": "Paywalled fan-club presales split fans into classes. Send to the friend who refuses to pay a yearly fee just for a shot at one show",
+          "variations": [
+            "Class version: 'Free fans get the leftovers, paid fans get the good seats, scalpers get all of it. Loving an artist now comes with a budget line.'"
+          ]
+        }
+      }
     }
   ]
 }

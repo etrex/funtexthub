@@ -8574,6 +8574,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-296",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
+      "sourceNote": "Password 'incorrect' classic — so the system reminds you when you forget",
+      "tags": [
+        "工程師日常",
+        "工程師思維",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把電腦密碼改成「打錯了」，\n這樣每次忘記密碼的時候，\n系統就會貼心提醒我：「你的密碼打錯了。」",
+          "editorNote": "傳給老是在重設密碼的同事，順便推薦他這個懶人解法。",
+          "variations": [
+            "進階版：密碼設成「至少八個字」，被問的時候也不算說謊",
+            "我的密碼很安全，因為連我自己都登不進去"
+          ]
+        },
+        "en": {
+          "content": "I changed my computer password to \"wrong.\"\nNow whenever I forget it,\nthe system kindly reminds me: \"Your password is wrong.\"",
+          "editorNote": "Send this to the coworker who's always resetting their password — bonus points if they actually try it.",
+          "variations": [
+            "Pro version: set it to 'at least eight characters' so the hint is technically honest.",
+            "My password is very secure — even I can't get in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-297",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://wityjokes.com/jokes-to-coding-jokes/",
+      "sourceNote": "Standup meeting = daily confession session / where bugs go to be ignored",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每日站立會議是一種宗教儀式：\n每個人輪流懺悔昨天做了什麼，\n承諾今天會贖罪，\n然後對那個從上週卡到現在的 bug 集體視而不見。",
+          "editorNote": "早上站會前傳到群組，讓大家帶著微笑去被主管點名。",
+          "variations": [
+            "站會三部曲：昨天『大致上完成』、今天『繼續』、然後沒有阻礙（其實全是阻礙）",
+            "本來十分鐘的會，站著開就會變成四十分鐘"
+          ]
+        },
+        "en": {
+          "content": "The daily standup is a religious ritual:\neveryone takes turns confessing what they did yesterday,\nvows to atone today,\nand then collectively ignores the bug that's been stuck since last week.",
+          "editorNote": "Drop it in the team chat before the morning standup so everyone shows up smiling.",
+          "variations": [
+            "Standup trilogy: yesterday 'mostly done,' today 'continuing,' and 'no blockers' (it's all blockers).",
+            "A ten-minute meeting becomes forty the moment everyone has to stand for it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-298",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://programmerhumor.io/memes/legacy-code",
+      "sourceNote": "Legacy code = where nightmares and job security meet; zero docs inherited mess",
+      "tags": [
+        "工程師語錄",
+        "程式碼品質",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我什麼是遺留系統，\n我說：那是一段沒人敢改、沒人看得懂、\n但只要一動就會壞掉的程式碼，\n它就是我在這間公司唯一的工作保障。",
+          "editorNote": "適合傳給接手老專案、天天在拆炸彈的工程師，苦中作樂。",
+          "variations": [
+            "遺留程式碼註解只有一行：『別動這裡，我也不知道為什麼』",
+            "維護遺留系統的第一守則：能不碰的就不要碰"
+          ]
+        },
+        "en": {
+          "content": "Someone asked me what legacy code is.\nI said: it's the code nobody dares to touch,\nnobody understands,\nand breaks the moment you look at it —\nalso known as my only job security at this company.",
+          "editorNote": "Perfect for the dev who just inherited an ancient project and is defusing bombs daily.",
+          "variations": [
+            "The only comment in the legacy file: '// Don't touch this. I don't know why either.'",
+            "First rule of maintaining legacy code: if you can avoid touching it, avoid touching it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-299",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://wityjokes.com/jokes-to-coding-jokes/",
+      "sourceNote": "Merge conflicts = trust issues / emotional battles between branches",
+      "tags": [
+        "Git",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我對人有信任問題，\n這都要怪合併衝突。\n每次以為兩邊終於能好好在一起，\n打開檔案就是滿滿的「<<<<<<< 你的」和「>>>>>>> 他的」。",
+          "editorNote": "傳給剛學會 git、第一次遇到 merge conflict 崩潰的新人，告訴他這很正常。",
+          "variations": [
+            "合併衝突就是分支之間的三角戀，總要有人退讓",
+            "解衝突解到一半才發現，兩邊都是我自己寫的"
+          ]
+        },
+        "en": {
+          "content": "I have trust issues,\nand I blame merge conflicts.\nEvery time I think two sides can finally get along,\nI open the file to a wall of \"<<<<<<< yours\" and \">>>>>>> theirs.\"",
+          "editorNote": "Send it to the newbie who just hit their first merge conflict and is quietly panicking — reassure them it's normal.",
+          "variations": [
+            "A merge conflict is just a love triangle between branches — someone has to back down.",
+            "Halfway through resolving the conflict, I realized both sides were written by me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-300",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "A dev's job is 50% fixing bugs, 50% explaining why it wasn't a bug",
+      "tags": [
+        "工程師語錄",
+        "職場",
+        "bug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的工作內容其實很單純：\n一半的時間在修 bug，\n另一半的時間在跟主管解釋，\n那個其實不算 bug。",
+          "editorNote": "當作個人簽名檔或部門公告欄的自嘲金句，主管看到也只能苦笑。",
+          "variations": [
+            "剩下的百分之十，是在解釋為什麼修 bug 需要那麼久",
+            "工程師：修好一個 bug，長出三個新的，這叫成長"
+          ]
+        },
+        "en": {
+          "content": "A developer's job is actually pretty simple:\nhalf the time you're fixing bugs,\nand the other half you're explaining to your manager\nwhy it technically wasn't a bug.",
+          "editorNote": "Great as a personal email signature or a self-deprecating line on the team board — even the manager can only chuckle.",
+          "variations": [
+            "The remaining ten percent is spent explaining why fixing the bug took so long.",
+            "Fix one bug, grow three new ones — we call that progress."
+          ]
+        }
+      }
     }
   ]
 }

@@ -8227,6 +8227,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-264",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "",
+      "sourceNote": "Leo traits — needs attention, big personality, dramatic when ignored",
+      "tags": [
+        "獅子座",
+        "Leo",
+        "E人",
+        "存在感",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "獅子座不是愛出風頭——\n他只是覺得，一個場子要是沒有他，那氣氛也太可惜了。\n\n你可以不同意他，但拜託不要無視他。\n對獅子座來說，被討厭都比被當空氣好。",
+          "editorNote": "傳給那個一進場就自帶聚光燈的獅子朋友，他會說「本來就是這樣啊」",
+          "variations": [
+            "獅子座最大的恐懼不是失敗，是全場的人都在聊天，沒有一個人在看他。",
+            "獅子座的邏輯：可以輸，可以錯，但不能安靜。"
+          ]
+        },
+        "en": {
+          "content": "A Leo isn't a show-off—\nthey just think any room without them in the spotlight is a bit of a waste.\n\nYou're allowed to disagree with them. Just please don't ignore them.\nFor a Leo, being disliked still beats being treated like furniture.",
+          "editorNote": "Send to the Leo friend who walks in with their own spotlight. They'll just say 'Obviously.'",
+          "variations": [
+            "A Leo's biggest fear isn't failing. It's a whole room full of people chatting and not one of them looking at them.",
+            "Leo logic: they can lose, they can be wrong, but they cannot be quiet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-265",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "",
+      "sourceNote": "Virgo traits — perfectionist, can't relax until details are fixed, overthinking",
+      "tags": [
+        "處女座",
+        "Virgo",
+        "I人",
+        "完美主義",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "處女座的放鬆，是先把整個房間整理好、把明天的行程排好、把所有可能出錯的地方預想一遍之後——\n然後才有辦法坐下來。\n\n他不是龜毛，他只是沒辦法在一團亂裡面假裝沒事。",
+          "editorNote": "傳給那個歪掉一張桌墊就會坐立難安的處女朋友，附註「先深呼吸」",
+          "variations": [
+            "處女座嘴上說「都可以」，心裡已經默默把三個方案的優缺點列成表格了。",
+            "叫處女座別想太多，等於叫魚別游泳——生理上做不到。"
+          ]
+        },
+        "en": {
+          "content": "A Virgo relaxes by first tidying the whole room, planning tomorrow's schedule, and mentally rehearsing everything that could possibly go wrong—\nand only then can they sit down.\n\nThey're not fussy. They just can't pretend everything's fine while sitting in a mess.",
+          "editorNote": "Send to the Virgo friend who can't sit still if one placemat is crooked. Add: 'Breathe first.'",
+          "variations": [
+            "A Virgo says 'anything works,' but they've already built a spreadsheet weighing the pros and cons of all three options.",
+            "Telling a Virgo to stop overthinking is like telling a fish to stop swimming—biologically impossible."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-266",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "",
+      "sourceNote": "Libra traits — indecisive, hates deadlines and commitment, weighs everything",
+      "tags": [
+        "天秤座",
+        "Libra",
+        "E人",
+        "選擇困難",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "會讓天秤座當場當機的三個詞：\n決定、承諾、截止日。\n\n他不是不會選，他是同時看得到兩邊的好，\n然後在「都想要」跟「怕選錯」之間，卡了整整一個下午。",
+          "editorNote": "傳給那個問他要吃什麼會回你「都可以你決定」的天秤朋友",
+          "variations": [
+            "天秤座點餐流程：認真研究菜單十分鐘，最後點跟隔壁桌一樣的。",
+            "天秤座不是沒有主見，是他的主見有兩個，而且吵得不可開交。"
+          ]
+        },
+        "en": {
+          "content": "Three words that make a Libra freeze on the spot:\ndecision, commitment, deadline.\n\nIt's not that they can't choose. It's that they see the upside of both sides,\nso they spend the whole afternoon stuck between 'I want both' and 'what if I pick wrong.'",
+          "editorNote": "Send to the Libra friend who answers 'anywhere's fine, you decide' every single time.",
+          "variations": [
+            "A Libra's ordering process: study the menu for ten minutes, then get the same thing as the table next to them.",
+            "A Libra isn't opinion-less. They have two opinions, and the two are having a fight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-267",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "",
+      "sourceNote": "Scorpio traits — intense, brutally honest, either silent or tells the full truth",
+      "tags": [
+        "天蠍座",
+        "Scorpio",
+        "I人",
+        "真誠",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "跟天蠍座相處只有兩種狀態：\n要嘛他一句話都不說，要嘛他把真相整包倒給你。\n\n沒有中間值。\n因為他覺得，講一半的真話，比說謊還要沒禮貌。",
+          "editorNote": "傳給那個要嘛安靜要嘛一針見血的天蠍朋友，附註「我需要的是溫柔版」",
+          "variations": [
+            "天蠍座的沉默不是沒意見，是他正在決定要不要讓你承受得住那個意見。",
+            "問天蠍座真心話大冒險，記得先想清楚——他真的會講。"
+          ]
+        },
+        "en": {
+          "content": "There are only two modes when dealing with a Scorpio:\neither they say nothing at all, or they hand you the whole truth in one go.\n\nNo in-between.\nBecause to them, a half-told truth is ruder than an outright lie.",
+          "editorNote": "Send to the Scorpio friend who's either silent or devastatingly blunt. Add: 'I'd like the gentle version, please.'",
+          "variations": [
+            "A Scorpio's silence isn't a lack of opinion. They're deciding whether you can handle the opinion.",
+            "Play truth or dare with a Scorpio only if you're ready—they will actually tell you the truth."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-268",
+      "dateAdded": "2026-07-10",
+      "sourceUrl": "",
+      "sourceNote": "Sagittarius traits — freedom-loving, restless, allergic to being tied down",
+      "tags": [
+        "射手座",
+        "Sagittarius",
+        "E人",
+        "自由",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "射手座答應你「我一定到」的意思是：\n如果那天沒有臨時想去別的地方的話。\n\n他不是不重視你，\n是他連自己下一秒想幹嘛都不敢保證。",
+          "editorNote": "傳給那個永遠說走就走、行程排了也隨時會改的射手朋友",
+          "variations": [
+            "綁住射手座最快的方法，就是告訴他「你一定要留下來」——然後看他下一秒消失。",
+            "射手座的行事曆是用鉛筆寫的，因為每一格都隨時可能被擦掉重來。"
+          ]
+        },
+        "en": {
+          "content": "When a Sagittarius promises 'I'll definitely be there,' what they mean is:\nunless something more interesting comes up that day.\n\nIt's not that they don't care about you.\nIt's that they can't even guarantee what they'll want to do in the next five minutes.",
+          "editorNote": "Send to the Sagittarius friend who's always ready to bolt and reschedules plans on a whim.",
+          "variations": [
+            "The fastest way to lose a Sagittarius is to tell them 'you have to stay'—then watch them vanish.",
+            "A Sagittarius writes their calendar in pencil, because every slot might get erased and redone at any moment."
+          ]
+        }
+      }
     }
   ]
 }
