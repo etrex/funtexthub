@@ -6394,7 +6394,9 @@
           "editorNote": "朋友受傷或失戀時，用這句假裝在安慰，其實什麼忙都沒幫",
           "variations": [
             "等你不累了，你自然就會覺得有精神一點。",
-            "肚子餓的時候，只要吃飽就不會餓了，這點請放心。"
+            "肚子餓的時候，只要吃飽就不會餓了，這點請放心。",
+            "放心，這件事等它結束的時候，就差不多結束了。",
+            "傷口會好的，只要它痊癒，就等於好了。"
           ]
         },
         "en": {
@@ -6402,7 +6404,9 @@
           "editorNote": "Pretend to comfort a friend who's hurt or heartbroken while helping in no way at all",
           "variations": [
             "Once you're not tired anymore, you'll naturally feel more energetic.",
-            "When you're hungry, just eat and you won't be hungry — rest assured on that."
+            "When you're hungry, just eat and you won't be hungry — rest assured on that.",
+            "Relax, this whole thing will be pretty much over once it's over.",
+            "The wound will heal — the moment it heals, it counts as healed."
           ]
         }
       }
@@ -7215,35 +7219,6 @@
           "variations": [
             "Wherever you move, you have to live in the place you moved to.",
             "You can run to the ends of the earth, and the ends of the earth will gain one more you."
-          ]
-        }
-      }
-    },
-    {
-      "id": "aw-282",
-      "dateAdded": "2026-07-03",
-      "sourceUrl": "https://upjoke.com/tautology-jokes",
-      "sourceNote": "英文廢話「it'll feel better when it stops hurting」重新改寫",
-      "tags": [
-        "廢話文學",
-        "安慰",
-        "生活"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "別擔心，等到不痛的時候，\n你就會覺得比較不痛了。\n\n這是醫學上非常確定的一件事。",
-          "editorNote": "朋友喊痛時假裝很專業地安慰他，保證越安慰越好笑",
-          "variations": [
-            "放心，這件事等它結束的時候，就差不多結束了。",
-            "傷口會好的，只要它痊癒，就等於好了。"
-          ]
-        },
-        "en": {
-          "content": "Don't worry — once it stops hurting,\nyou'll feel a lot less pain.\n\nThis is something medicine is very sure about.",
-          "editorNote": "Comfort a friend who's in pain with mock professionalism — the more you reassure, the funnier it gets",
-          "variations": [
-            "Relax, this whole thing will be pretty much over once it's over.",
-            "The wound will heal — the moment it heals, it counts as healed."
           ]
         }
       }
