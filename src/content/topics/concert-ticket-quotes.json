@@ -4239,6 +4239,146 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-152",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://www.klook.com/zh-TW/tetris/promo/event-theme-tw-concert-calendar/",
+      "sourceNote": "2026 多場演唱會改用動態 QR 電子票，票券 QR 碼定時更新、不可截圖或列印，入場須現場開 App 出示",
+      "tags": [
+        "動態QR",
+        "電子票",
+        "入場",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電子票改成動態 QR。\n不能截圖，不能列印，\n只能現場開 App 掃。\n\n所以現在進場前，\n我最怕的不是查驗，\n是我手機剩 3% 的電。",
+          "editorNote": "動態 QR 電子票不能截圖、要現場開 App，讓入場多一層手機沒電的焦慮。傳給在場外瘋狂找充電的朋友",
+          "variations": [
+            "焦慮版：「票在雲端，命在電量。1% 的電，扛著我整晚的期待。」"
+          ]
+        },
+        "en": {
+          "content": "Tickets went dynamic-QR now.\nCan't screenshot, can't print,\njust open the app at the gate and scan live.\n\nSo before I go in,\nmy biggest fear isn't the ID check.\nIt's my phone sitting at 3%.",
+          "editorNote": "Live dynamic-QR tickets that can't be screenshotted add a whole new layer of battery panic at the door. Send to the friend frantically hunting for an outlet outside the venue",
+          "variations": [
+            "Anxious version: 'Ticket's in the cloud, my fate's in the battery. One percent, holding up a whole night of hope.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-153",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://www.ticketnews.com/2026/05/ticketmaster-presidents-queue-comments-open-new-transparency-questions-over-ticket-sales-process/",
+      "sourceNote": "售票平台線上排隊序位不透明，粉絲回報同時進場卻被排到八萬名，家人朋友卻在兩萬與一千名",
+      "tags": [
+        "排隊",
+        "序位",
+        "抽籤",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "排隊系統把我排到第八萬名。\n我媽兩萬，我朋友一千。\n\n同一個網站、同一秒進場，\n它就是把我丟到最後面。\n\n我不是在排隊，\n我是被系統挑出來\n當那個注定買不到的人。",
+          "editorNote": "線上排隊的隨機序位決定一切，同時間進場卻被丟到八萬名。傳給每次都排在天邊的朋友討拍",
+          "variations": [
+            "認命版：「別人排一千，我排八萬。這不是手速問題，是系統從一開始就沒打算讓我進去。」"
+          ]
+        },
+        "en": {
+          "content": "The queue system put me at position 80,000.\nMy mom got 20,000. My friend got 1,000.\n\nSame site, same second we all clicked in,\nand it still flung me to the very back.\n\nI'm not waiting in line.\nI've been hand-picked by the system\nto be the one who never gets in.",
+          "editorNote": "Randomized queue positions decide everything — same click, wildly different spots. Send to the friend who always lands at the back of the line",
+          "variations": [
+            "Resigned version: 'They got 1,000, I got 80,000. Not a reflexes problem — the system never planned to let me in.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-154",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://theconversation.com/what-is-dynamic-pricing-for-concert-tickets-it-can-cost-you-hundreds-of-dollars-while-you-queue-239320",
+      "sourceNote": "動態定價使票價隨即時需求上漲，粉絲在排隊過程中票價可漲數輪，選位到結帳時價格已非進場所見",
+      "tags": [
+        "動態定價",
+        "票價",
+        "排隊",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在排隊，票價在漲。\n\n我還沒進場，它先漲了兩次。\n等我終於選到位置，\n數字已經不是我看到的那個。\n\n我排的不是隊，\n是眼睜睜看著它變貴的過程。",
+          "editorNote": "動態定價讓票價隨排隊即時上漲，還沒結帳就先漲好幾輪。傳給結帳看到價錢傻眼的朋友",
+          "variations": [
+            "帳單版：「進場前 1500，選位後 2200，結帳 2600。同一張票，愛得越久越貴。」"
+          ]
+        },
+        "en": {
+          "content": "I'm in the queue, and the price is climbing.\n\nBefore I even reach the seats,\nit's gone up twice.\nBy the time I pick a spot,\nthe number isn't the one I saw walking in.\n\nI'm not waiting in line.\nI'm watching it get more expensive in real time.",
+          "editorNote": "Dynamic pricing means the price ticks up while you wait in the queue, before you even check out. Send to the friend who got sticker-shocked at the seat map",
+          "variations": [
+            "Receipt version: '$50 in the queue, $75 at the seat map, $88 at checkout. Same ticket — the longer you love it, the more it costs.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-155",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://www.ctwant.com/article/487862/",
+      "sourceNote": "前工程師開發搶票外掛，用約 200 支手機一年半掃走逾 6 萬張票、非法獲利逾七千萬，實名制仍遭繞過",
+      "tags": [
+        "黃牛",
+        "外掛",
+        "機器人",
+        "正義"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞：前工程師寫外掛，\n用兩百支手機搶了六萬張票，\n一年半撈七千萬。\n\n我用一支手機、一雙手，\n搶了一年半，\n零張。\n\n原來我輸的不是手速，\n是我只有兩隻手。",
+          "editorNote": "200 支手機外掛掃 6 萬張票的黃牛案，對比真人只有一雙手。傳給搶到懷疑人生的朋友合理化失敗",
+          "variations": [
+            "認命版：「他兩百支手機，我兩隻手。這場比賽從器材那關我就被淘汰了。」"
+          ]
+        },
+        "en": {
+          "content": "News: an ex-engineer built a bot,\ngrabbed 60,000 tickets on 200 phones,\nand cleared millions in eighteen months.\n\nI used one phone and two hands,\nfought for eighteen months,\nand got zero.\n\nTurns out I didn't lose on speed.\nI lost because I only have two hands.",
+          "editorNote": "The 200-phone bot bust vs. a real human with two hands. Send to the friend spiraling after another shutout to reframe the loss",
+          "variations": [
+            "Resigned version: 'He had 200 phones, I had two hands. I was eliminated at the equipment round.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-156",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://www.ctwant.com/article/488634/",
+      "sourceNote": "警方提醒買到門票別急著曬照，票面 QR 碼若未遮蔽恐遭掃描盜用，陌生人可搶先掃碼入場",
+      "tags": [
+        "QR碼",
+        "曬票",
+        "盜用",
+        "詐騙"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "搶到票太開心，\n我把票拍照 PO 上網。\n\n三秒後有人提醒我：\nQR 碼露出來了。\n\n然後我的票，\n就這樣被陌生人\n先掃進場了。\n\n我終於搶到一次，\n卻是幫別人搶的。",
+          "editorNote": "搶到票曬照卻露出 QR 碼被盜掃是真實災情。傳給正想 PO 票根炫耀的朋友當緊急煞車",
+          "variations": [
+            "警告版：「曬票之前先想清楚：那張照片裡最值錢的，不是你的笑容，是那個沒遮到的 QR 碼。」"
+          ]
+        },
+        "en": {
+          "content": "Finally got a ticket, so happy\nI snapped a photo and posted it online.\n\nThree seconds later someone warned me:\nthe QR code's showing.\n\nAnd just like that,\na stranger scanned my ticket in\nbefore I could.\n\nI finally won one —\nturns out I won it for someone else.",
+          "editorNote": "Posting a ticket photo with the QR code exposed gets it scanned by strangers. Send to the friend about to flex their stub online as an emergency brake",
+          "variations": [
+            "Warning version: 'Before you show off that ticket — the most valuable thing in the photo isn't your smile, it's the QR code you forgot to blur.'"
+          ]
+        }
+      }
     }
   ]
 }

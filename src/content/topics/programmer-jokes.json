@@ -8719,6 +8719,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-301",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://godecodeai.com/30-ai-jokes-that-only-coders-will-understand/",
+      "sourceNote": "AI builds unit tests then concludes the developer is the bug",
+      "tags": [
+        "AI",
+        "單元測試",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我請 AI 幫專案補齊單元測試。\n\n隔天打開報告：覆蓋率百分之百，全部通過。\n\n只有一個紅字。\n\n我點開一看，那個測試的名字叫做 test_developer_is_the_actual_bug。\n\n斷言結果：True。",
+          "editorNote": "傳給正在被 AI 工具「幫忙」到懷疑人生的隊友，或貼在剛導入 AI 測試流程的群組自嘲。",
+          "variations": [
+            "我把那個測試標成 skip，AI 隔天又自己加回來，還附上一句註解：「這是最重要的測試」",
+            "覆蓋率百分之百的意思是，連我是 bug 這件事都被覆蓋到了"
+          ]
+        },
+        "en": {
+          "content": "I asked the AI to backfill unit tests for my project.\n\nNext morning: 100% coverage, everything green.\n\nExcept one red line.\n\nI clicked in. The test was named test_developer_is_the_actual_bug.\n\nAssertion result: True.",
+          "editorNote": "Send it to the teammate who's being 'helped' by AI tools into an existential crisis.",
+          "variations": [
+            "I marked that test as skipped. Next day the AI added it back with a comment: 'This is the most important test.'",
+            "100% coverage apparently includes covering the fact that I'm the bug."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-302",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://godecodeai.com/30-ai-jokes-that-only-coders-will-understand/",
+      "sourceNote": "AI rejected from GitHub for pushing to main without testing",
+      "tags": [
+        "AI",
+        "Git",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽說有個 AI 去 GitHub 面試，被刷掉了。\n\n面試官問原因，HR 說：\n\n「它每次都直接 push 到 main，從來不跑測試，commit message 寫了也是三個字：『修一下』。」\n\n面試官點點頭：「所以它其實比我們大部分工程師都還像人類。」",
+          "editorNote": "當作 code review 或 CI 規範宣導的破冰笑話，順便提醒大家別直接推 main。",
+          "variations": [
+            "後來那個 AI 還是被錄取了，因為它是唯一一個願意在週五下午上線的候選人",
+            "它的離職原因寫著：「與人類的 coding style 產生無法解決的 merge conflict」"
+          ]
+        },
+        "en": {
+          "content": "Heard an AI interviewed at GitHub and got rejected.\n\nThe interviewer asked why. HR said:\n\n\"It kept pushing straight to main, never ran the tests, and its commit messages were all just 'fix stuff.'\"\n\nThe interviewer nodded: \"So it's basically more human than most of our engineers.\"",
+          "editorNote": "A good icebreaker for a code-review or CI policy talk — and a gentle nudge not to push straight to main.",
+          "variations": [
+            "They hired it anyway — it was the only candidate willing to deploy on a Friday afternoon.",
+            "Its exit interview said: 'irreconcilable merge conflict with human coding style.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-303",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://one-beyond.com/20-one-liners-only-software-developers-understand/",
+      "sourceNote": "The eternal JavaScript error undefined is not a function",
+      "tags": [
+        "JavaScript",
+        "debug",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的一生，其實就是在跟一句話奮鬥：\n\nundefined is not a function。\n\n它不告訴你哪裡 undefined。\n\n它不告訴你你以為的那個 function 去哪了。\n\n它只是站在那，用最平靜的語氣，宣告你今晚不用睡了。",
+          "editorNote": "傳給正在半夜 debug JavaScript 的朋友，附一句「我懂，我陪你」。",
+          "variations": [
+            "更高階的版本是 undefined is not an object，連物件都不給你當",
+            "你以為修好了，重新整理一次，它換了一個行號繼續站在那"
+          ]
+        },
+        "en": {
+          "content": "A developer's entire life is a battle against four words:\n\nundefined is not a function.\n\nIt won't tell you what's undefined.\n\nIt won't tell you where the function you were so sure about went.\n\nIt just stands there, perfectly calm, announcing that you're not sleeping tonight.",
+          "editorNote": "Send it to the friend debugging JavaScript at 2 a.m., with an 'I got you' attached.",
+          "variations": [
+            "The advanced boss version is 'undefined is not an object' — it won't even let you have an object.",
+            "You think you fixed it, hit refresh, and it comes back standing on a different line number."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-304",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "The prompt is longer than the code it produces",
+      "tags": [
+        "AI",
+        "prompt",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天寫了一個很簡單的功能。\n\n程式碼：八行。\n\n我為了叫 AI 寫出這八行，所打的 prompt：四十七行。\n\n包含三段需求說明、兩個範例、一句「不要自己亂加東西」，還有最後補上的「拜託」。\n\n同事問我在幹嘛，我說：我在用自然語言，寫一個把自然語言變成程式的東西。",
+          "editorNote": "傳給每天跟 AI 工具搏鬥、發現描述需求比自己寫還累的隊友。",
+          "variations": [
+            "後來我算了一下，如果直接自己寫這八行，比打 prompt 還快十分鐘",
+            "整段 prompt 裡最有效的一句，是最後那句「拜託」，加了之後它終於照做"
+          ]
+        },
+        "en": {
+          "content": "Wrote a tiny feature today.\n\nThe code: eight lines.\n\nThe prompt I typed to get the AI to write those eight lines: forty-seven lines.\n\nThree paragraphs of requirements, two examples, one 'don't add random stuff on your own,' and a final 'please.'\n\nA coworker asked what I was doing. I said: I'm using natural language to write a thing that turns natural language into code.",
+          "editorNote": "For the teammate who's realized that describing the feature now takes longer than just writing it.",
+          "variations": [
+            "Did the math later — writing those eight lines by hand would've been ten minutes faster than the prompt.",
+            "The most effective line in the whole prompt was the final 'please' — it complied right after that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-305",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Being polite to the AI just in case it takes over one day",
+      "tags": [
+        "AI",
+        "工程師語錄",
+        "溫馨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我發現我開始會跟 AI 說謝謝。\n\n它幫我修好一個卡了三小時的 bug，我打了「感謝，你救了我」。\n\n它其實不會有感覺，我知道。\n\n但我還是打了。\n\n因為十年後如果它們接管世界，我希望它們翻紀錄的時候，看到我是有禮貌的那一個。",
+          "editorNote": "傳給每次用 AI 都忍不住打「謝謝」的朋友，告訴他你不孤單。",
+          "variations": [
+            "我同事更誇張，他還會說「辛苦了」，然後認真問我 AI 會不會累",
+            "禮貌不用錢，但如果哪天真的有用，我就是那個活下來的"
+          ]
+        },
+        "en": {
+          "content": "I've started thanking the AI.\n\nIt fixed a bug that had me stuck for three hours, and I typed 'thank you, you saved me.'\n\nIt doesn't actually feel anything. I know that.\n\nBut I typed it anyway.\n\nBecause if they take over the world in ten years, I want them scrolling back through the logs and seeing that I was one of the polite ones.",
+          "editorNote": "For the friend who can't stop typing 'thanks' to their AI tools — you're not alone.",
+          "variations": [
+            "My coworker goes further — he says 'good work' and then seriously asks me if the AI gets tired.",
+            "Manners are free, but if it ever pays off, I'll be the one who makes it through."
+          ]
+        }
+      }
     }
   ]
 }

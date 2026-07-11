@@ -5397,6 +5397,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-188",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://www.citymattress.com/blogs/news/funny-quotes-for-when-you-cant-sleep",
+      "sourceNote": "Inspired by 'my thoughts at night are like a browser with 47 tabs open' quote; rewritten with localized framing and load-bar imagery",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "腦袋停不下來",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "白天我的腦袋只開一個分頁。\n一躺上床，它就自己開了三十七個，\n而且沒有一個是我點開的。",
+          "editorNote": "把睡前思緒亂竄比喻成瀏覽器暴衝，工程師和上班族都很有感。適合躺著卻關不掉腦袋的夜晚，發限動很容易被轉。",
+          "variations": [
+            "我不是睡不著，是我的腦袋當機了還在跑背景程式。",
+            "別人數羊，我在關分頁，關到天亮還沒關完。"
+          ]
+        },
+        "en": {
+          "content": "During the day my brain runs one tab.\nThe moment I lie down, it opens thirty-seven,\nand I didn't click a single one of them.",
+          "editorNote": "Framing racing bedtime thoughts as a browser meltdown hits home for anyone who works at a screen. Perfect for nights when you're lying still but your mind won't quit.",
+          "variations": [
+            "I don't have insomnia, my brain just crashed and kept running background processes.",
+            "Other people count sheep. I close tabs, and I'm still not done by sunrise."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-189",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://www.buzzfeed.com/morganmurrell/funny-tweets-insomnia-jokes",
+      "sourceNote": "Inspired by 'the best part about insomnia is more time to win every argument in your head' tweet; rewritten and localized",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "腦袋停不下來",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "失眠唯一的好處，\n就是有大把時間，\n把這輩子每一場吵架，\n在腦子裡重新贏一次。",
+          "editorNote": "深夜腦內小劇場的最佳寫照，把「翻舊帳」變成半夜運動。適合躺著卻越想越清醒的時候，共鳴度很高。",
+          "variations": [
+            "凌晨三點的我，嘴砲功力天下無敵，可惜對手都睡了。",
+            "睡不著沒關係，正好把上禮拜沒回嘴的那句補回來。"
+          ]
+        },
+        "en": {
+          "content": "The one perk of insomnia\nis all the extra time\nto go back and win every argument\nyou've ever had, in your head.",
+          "editorNote": "The definitive portrait of the 3am brain theater, turning old grudges into a midnight sport. Great for when lying down only makes you sharper and more awake.",
+          "variations": [
+            "At 3am my comebacks are unbeatable. Shame my opponents are all asleep.",
+            "Can't sleep? Perfect time to finally land the reply I choked on last week."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-190",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://www.buzzfeed.com/morganmurrell/funny-tweets-insomnia-jokes",
+      "sourceNote": "Inspired by 'furious with each of my pillows individually' tweet; rewritten with cold-side-of-the-pillow twist",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "翻來覆去",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "失眠之後我才發現，\n原來一個人可以，\n對自己的三顆枕頭，\n各生一場獨立的氣。",
+          "editorNote": "翻來覆去、遷怒寢具的荒謬感，睡不著的人一看就懂。「翻到涼的那一面」是共同記憶，適合半夜怎麼躺都不對的時候。",
+          "variations": [
+            "翻枕頭找涼的那一面，找到天亮，兩面都熱了。",
+            "睡不著的時候，連棉被的重量都變成我的敵人。"
+          ]
+        },
+        "en": {
+          "content": "Insomnia taught me\nthat one person really can\nhold three separate grudges\nagainst three separate pillows.",
+          "editorNote": "The absurdity of tossing, turning, and blaming your bedding lands instantly with anyone who can't sleep. Flipping to the cool side is a shared ritual, so it fits nights when no position feels right.",
+          "variations": [
+            "Flipping the pillow to the cool side until sunrise, when both sides are warm.",
+            "When I can't sleep, even the weight of the blanket becomes my enemy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-191",
+      "dateAdded": "2026-07-11",
+      "sourceUrl": "https://sleepdetectives.com/sleep-quotes/funny-insomnia-quotes/",
+      "sourceNote": "Inspired by 'sleep and I are in a long-distance relationship, it's complicated' quote; rewritten with read-receipt framing",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "睡眠",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟睡眠是遠距離戀愛，\n感情狀態：一言難盡。\n每晚我都傳訊息給它，\n它已讀，不回。",
+          "editorNote": "把「睡不著」寫成一段曖昧感情，帶點自嘲又不苦情。已讀不回的梗現代人都懂，適合半夜想睡卻等不到睡意的時候。",
+          "variations": [
+            "睡意像個渣，說好十一點來，凌晨三點還在路上。",
+            "我對睡眠是真心的，可惜它每晚都放我鴿子。"
+          ]
+        },
+        "en": {
+          "content": "Sleep and I are long-distance.\nRelationship status: it's complicated.\nEvery night I text it,\nit reads the message and never replies.",
+          "editorNote": "Reframing sleeplessness as a situationship keeps it self-deprecating without turning bitter. The left-on-read bit is universal, so it fits nights when you're ready but sleep won't show.",
+          "variations": [
+            "Sleepiness is a flake. Said it'd come at eleven, still no-show at 3am.",
+            "I'm fully committed to sleep. Shame it stands me up every single night."
+          ]
+        }
+      }
     }
   ]
 }
