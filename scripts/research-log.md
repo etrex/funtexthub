@@ -6683,3 +6683,31 @@ Done items collapsed; only live priorities listed.
 12. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period/drama-binge 古裝劇 cluster 候選獨立評估, 暫 carry。
 13. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼（台股 + K 型 cross-link）。
 14. **[FLAG — SKIP 不變]** 校園霸凌 + 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 超哥爭議 全 SKIP。『超派』純語氣可用; 班味/活人感/精神離職/做完你的做你的/愛你老己/破防/暈爛/高麗菜煮蛋那桌 正向或純厭世/自嘲共鳴無敏感; 颱風假取通用共鳴勿調侃受災，花蓮撤離最多取關懷正向不消費災情，南部/沒放到取自嘲勿引戰。
+
+## 2026-07-12 Research Report
+
+### New Topic Recommendations（皆併入既有 topic，勿獨立建檔）
+
+1. **世界盃 4 強全部到齊／哈蘭德 vs 梅西壓軸決戰日 · Final Four Locked, Haaland-vs-Messi Climax Day（併入 worldcup-quotes，勿獨立）** — **7/12 是 8 強最後一個比賽日：台灣時間 05:00 挪威 vs 英格蘭、09:00 阿根廷 vs 瑞士，爭奪最後兩張 4 強門票，賽後 4 強全數成形（法國＋西班牙已卡位）；priority HIGH（情緒軸『金靴哈蘭德 vs 衛冕軍梅西同日壓軸＋淘汰賽窄到剩最後兩腳＋熬夜看球剛好蹭到颱風假尾聲補眠＋收假前最後耍廢日看球』）**:
+   - SEO rationale: 7/12 多源確認（商周『4 強晉級名單、最新比分、轉播直播一次看』/ Yahoo Sports『西班牙晉 4 強、7/12 兩場 8 強賽時間對戰組合直播一次看』/ 星島『英格蘭對挪威射手對決、美斯率阿根廷強攻瑞士』/ HK01『8 強名單直播賽程、阿根廷梅西戰瑞士、英格蘭鬥挪威』/ HKET『世界盃每日賽程最新賽果』多源 2026）。**7/12 05:00 挪威 vs 英格蘭：哈蘭德本屆累積 7 球（上輪淘汰巴西梅開二度）金靴熱門 vs 貝林漢＋凱恩攻擊核心；09:00 阿根廷 vs 瑞士：梅西上輪一度落後埃及靠反攻驚險逆轉 vs 瑞士 PK 淘汰哥倫比亞、隊史 1954 年後首闖 8 強。賽後 4 強全數底定，7/19-20 紐澤西冠軍戰。** 「挪威 英格蘭 / 哈蘭德 / 阿根廷 瑞士 / 梅西 / 4 強 賽果」search 7/12 當日升至本屆峰值。**情緒軸『金靴 vs 衛冕軍同日壓軸＝一日雙重高潮＋淘汰賽窄到每一腳都是最後一次＋熬夜看完剛好蹭到颱風假尾聲補眠＋收假前最後一個耍廢日拿來看球這波賺爛』。**
+   - 建議: **worldcup-quotes carry 2-3 items，主推『4 強全到齊/一日雙重壓軸』軸**。register「金靴跟衛冕軍同一天壓軸這是要我心臟跳兩輪／淘汰賽剩最後兩腳踢進去是英雄踢歪是明年見／哈蘭德進七球我進度條連七頁報告都生不出來／收假前最後一個耍廢日我拿來熬夜看球這波賺爛／瑞士等 72 年才進 8 強我等週一收假只要三天就到了好不公平／4 強全到齊對戰樹窄到每一隊都是狠角色」。en「Golden Boot and the defending champ headline the same day — my heart runs two shifts／last two kicks of the quarters: score and you're a hero, miss and it's see-you-next-year／Haaland's got seven goals, I can't even generate seven pages of slides／Switzerland waited 72 years for the quarters, I only wait three days for Monday — so unfair」。**衛冕軍阿根廷（梅西 7/12 09:00 壓軸）。撰稿以『7/12 挪vs英＋阿vs瑞為 8 強最後兩場、賽後 4 強成形、7/19-20 冠軍戰』為準，未打完賽果不預測不寫死。** cross-link insomnia（熬夜看球＋颱風假尾聲補眠）+ workplace（淘汰賽沒安全區/收假倒數）+ cold-jokes（金靴/絕殺/PK/出線諧音）+ motivational（落後還能逆轉/等 72 年也值得）+ healing。
+
+2. **颱風假收尾／城市收假、山區續放的分裂日 · Storm Winds Down: Cities Back, Mountains Still Off（併入 holiday-jokes + workplace/adulting/renting/travel，勿獨立）** — **7/12（週日）巴威暴風半徑縮小，北北基桃等 21 縣市恢復正常，僅新竹五峰/尖石、苗栗泰安/南庄/獅潭、高雄山區 5 區、台中和平、花蓮萬榮等山區續放；連放兩天後城市『收假』、山區續災防；priority MEDIUM-HIGH（情緒軸從『連放耍廢』轉為『城市收假的失落 vs 山區續放的分裂＋災情關懷＋週一倒數』）**:
+   - SEO rationale: 7/12 多源爆量（東森『全台 12 日停班停課一覽』/ 風傳媒『7/12 最新、14 縣市達標新北桃園入列後又縮』/ Yahoo『連江/高雄5區/台中1區/桃園1區/新竹2鄉/苗栗3鄉/花蓮續放、北北基桃 21 縣市照常』/ 中央社『颱風巴威釀災 12 日停班停課一覽』/ NOWnews『7 縣市災防假區域出爐』/ 聯合『暴風半徑縮小、全台 12 日停班課一覽』多源 2026）。**巴威 7/12 暴風半徑縮小，新竹五峰/尖石雨量破 500mm 山壁崩落、苗栗泰安/南庄/獅潭、高雄那瑪夏/桃源/茂林/甲仙/六龜、台中和平、花蓮萬榮村/明利村/鳳林鎮續放；北北基桃宜屏東台東等恢復正常。中央應變中心災情累計 1456 件（新北/台中最多）、土石流紅色警戒一度達 45 條（新竹 28 條）。** 「7/12 停班停課 / 颱風假 還有嗎 / 山區 災防假 / 巴威 災情」search 續高峰後降。**情緒軸『城市收假的失落（週末＋兩天颱風假結束）vs 山區續放的羨慕/分裂＋災情關懷不消費＋週一代辦倒數』——耍廢梗取通用共鳴，山區續災防勿調侃，關懷帶正向。**
+   - 建議: **holiday-jokes carry 颱風收尾梗 1-2 items + workplace/adulting 吸收『城市收假失落 vs 山區續放的羨慕』+ renting/travel 吸收『颱風後漏水/清理/行程順延』**。register「颱風假收尾那刻才發現快樂是有保存期限的／城市恢復正常山區還在放我承認我羨慕了／連放兩天颱風假的代價是週一要一次面對三天份的代辦／風雨走了留下漏水的窗和堆成山的待辦這才是災後重建／別人山區續放我城市收假只能默默把耍廢模式關掉」。en「The storm days end and you realize joy comes with an expiration date／cities back to normal, mountains still off — okay, I'm jealous／the price of two straight typhoon days is facing three days of backlog on Monday」。**颱風收尾取『收假失落/羨慕山區/災後清理』通用共鳴，山區續災防與 1456 件災情勿調侃、勿消費災情，帶關懷正向。放假/災情隨氣象署與縣市府公告更新不寫死。** cross-link renting（颱風後漏水/清理/電費）+ workplace/adulting（收假倒數）+ travel（行程順延）+ healing（顧好自己）+ insomnia（收假前熬夜看球）。
+
+3. **五月天大巨蛋 7/12「出道 27 年首次一天連唱兩場」實戰日 · Mayday's First-Ever Same-Day Double-Header（併入 concert-ticket-quotes + adulting/travel/healing，勿獨立）** — **7/12 當日：中午 12:00 補辦原 7/11 延期場＋晚間 6:30 原 7/12 場＝出道 27 年首次一天雙場；原票券依原座位入場免換票、嘉賓鼓鼓（7/11）與劉芯妤（7/12）取消；priority MEDIUM（『延期』落地為 7/12『雙場硬拚』實戰新角度）**:
+   - SEO rationale: 7/12 多源確認（SETN/星聞『不敵巴威 12 日一天連唱兩場』/ 大紀元『12 日一日連唱 2 場』/ TVBS『延期這天連唱兩場、相信音樂發聲』/ Yahoo『12 日一天唱 2 場考驗體力』/ Videoland『阿信拚了一日唱 2 場、退票資訊』/ 中國報『硬拚 1 天唱 2 場』多源 2026）。**7/12 中午 12:00 補辦原 7/11 場＋晚間 6:30 原 7/12 場，出道 27 年首次一天雙場；7/11 場票券依原座位入場免換票；原訂 7/10 場若停班課延至 7/13。開場嘉賓鼓鼓（7/11）、劉芯妤小玫瑰（7/12）演出取消。官方『把安全放最前面』。** 「五月天 一天兩場 / 7/12 連唱 / 退票 / 大巨蛋 颱風」search 7/12 當日升峰。**情緒軸『訂好的演唱會遇颱風延期落地為雙場硬拚（比搶票更心累）＋一天兩場對歌迷是賺到、對團是體力極限＋鐵打的等三天才更甜＋嘉賓取消的小遺憾』。**
+   - 建議: **concert-ticket-quotes carry 1-2 items 主吸收『演唱會遇颱風延期改雙場』心情；adulting/travel 吸收『訂好的行程遇颱風只能改期喬假』；healing 吸收『鐵打的等一下才更甜』**。register「訂好的演唱會被颱風改成一天兩場我的心臟比搶票那晚還累／一天連唱兩場對我是賺到對阿信是體力極限這份甜有人替我扛／等了三天的演唱會原來是被拉長的甜／別人怕颱風攪局我怕的是雙場那天又要重新喬假／五月天說把安全放最前面我把激動先冷凍等更安心再解封」。en「A typhoon turned my booked show into a same-day double-header — my heart's more tired than ticket night／two shows in one day: a steal for me, a stamina limit for the band — someone's carrying this sweetness for me／three days of waiting just made the show sweeter」。**撰稿以『7/12 中午 12:00＋晚間 6:30 雙場、原票免換、嘉賓取消』為準，退票/場次隨相信音樂公告不寫死。** cross-link adulting/travel（行程遇颱風改期喬假）+ healing（等待讓甜更甜）+ concert-ticket（搶票/退票/改期心累）+ workplace（週末兩場後週一上班）。
+
+### Content Trends
+- **7/12 三事件同日收斂到峰值**：世界盃 8 強最後一日（挪威vs英格蘭＋阿根廷vs瑞士，賽後 4 強全到齊）＋巴威颱風收尾（城市收假、山區續放的分裂日）＋五月天出道 27 年首次一天雙場。三者共用『熬夜看球／颱風假耍廢／收假倒數／週日最後喘息』的情緒公因數，適合以 worldcup-quotes、holiday-jokes、concert-ticket-quotes 三支各 carry 1-3 items 交叉呼應，勿獨立建檔。
+- **Threads 原生新梗池**（可餵 slang-quotes）：多源（UpToGo『2026 有什麼梗』/ Yahoo『2026 必會網路流行語 8 條』/ PopDaily『Threads 爆紅 5 個梗』/ Look 美日誌『觸爛、M3、各各』2026）盤點出——「ㄅ級分」（YouTuber 金童發明，最高滿分評價）、「泉」（很會/很懂/超頂）、「留友看」（留著給朋友看的濃縮語）、「暈爛」（被愛情/事物沖昏頭）、「破防」（情緒防線崩潰）、「嘻嘻／不嘻嘻」（俏皮 vs 嚴肅）。**priority MEDIUM，slang-quotes 可 carry 2-3 條，每條附語意＋使用情境＋例句改寫（勿照抄定義），避免曇花一現的過度小眾梗。** cross-link witty-comebacks（嘻嘻/不嘻嘻的攻防）+ self-love（破防/暈爛的情緒）。
+- **季節鋪陳**：7 月中暑假正熱、大暑（約 7/22）將至、夏季電費帳單陸續寄達——summer-electric-quotes / student-quotes / diet-quotes / travel-quotes 可延續暑假耍廢、冷氣電費、暑期旅遊塞車、夏日減重的常青軸，作為時事熱度退場後的穩定接棒。
+
+### Existing Topic Updates
+- **worldcup-quotes**：主打『4 強全到齊/一日雙重壓軸（金靴哈蘭德 vs 衛冕軍梅西）』，淘汰賽窄到剩最後兩腳、熬夜看球蹭颱風假尾聲補眠、瑞士等 72 年進 8 強的對比。冠軍戰 7/19-20，賽果不寫死。
+- **holiday-jokes**：颱風假收尾軸（城市收假 vs 山區續放的分裂、連放兩天的代價是週一三天份代辦、快樂有保存期限），災情 1456 件與山區續災防勿消費、帶關懷。
+- **concert-ticket-quotes**：五月天 7/12 雙場硬拚（延期落地、比搶票更累、一天兩場的甜與體力極限、鐵打的等三天更甜）。
+- **slang-quotes**：Threads 新梗 ㄅ級分/泉/留友看/暈爛/破防/嘻嘻，附語意與情境改寫。
+- **insomnia-quotes / workplace-quotes / adulting-quotes / renting-quotes**：持續吸收熬夜看球＋颱風假尾聲補眠、收假倒數、颱風後漏水清理等交叉梗。
