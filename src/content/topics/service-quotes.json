@@ -6364,6 +6364,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-220",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://letslearnslang.com/funny-quotes-about-customers/",
+      "sourceNote": "Rebuilt from the canonical retail meme 'item won't scan / I guess it's free' — reworked into a zh-tw counter-dialogue with a fresh punchline about the barcode being the one thing not on sale",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "商品刷不過。\n客人：「刷不過就是免費的吧？」\n我：「刷不過的是條碼，不是您的良心。」",
+          "editorNote": "傳給收銀台朋友，附一句「今天第幾個想免費結帳的」。這句是心裡默念版，實際上你還是會笑著說『我幫您重刷一次喔』。",
+          "variations": [
+            "全店都在打折，唯一沒在特價的是客人那句『那就免費啦』的臉皮厚度。",
+            "條碼刷不過只代表機器累了，不代表宇宙決定請你吃這一單。"
+          ]
+        },
+        "en": {
+          "content": "Item won't scan.\nCustomer: \"Guess it's free then?\"\nMe: \"What won't scan is the barcode — not your conscience.\"",
+          "editorNote": "Send to a cashier friend with \"how many free-checkout attempts today?\" This is the say-it-in-your-head version — out loud you still smile and go 'let me rescan that.'",
+          "variations": [
+            "Everything in the store is on sale except the nerve it takes to say 'guess it's free.'",
+            "A barcode that won't scan means the machine is tired, not that the universe is buying your groceries."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-221",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://www.keeping.com/content/customer-service-jokes/",
+      "sourceNote": "Reworked from the 'agents run on passive aggression and deep breathing' meme — turned into an internal-monologue battery-metaphor line for call-center 客服",
+      "tags": [
+        "服務業",
+        "客服",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客服的日常燃料表：\n三成微笑、兩成深呼吸、五成把『你在公三小』翻譯成『我了解您的心情』。",
+          "editorNote": "適合客服朋友下班後 IG 限動，配一張耳機麥克風照。翻譯是一種專業，也是一種消耗。",
+          "variations": [
+            "客服不是不生氣，是把生氣即時同步翻譯成敬語，還要秒回。",
+            "接一整天電話的續航力，靠的不是咖啡，是把髒話換成『非常抱歉』的自動校正功能。"
+          ]
+        },
+        "en": {
+          "content": "A support agent's daily fuel gauge:\n30% smile, 20% deep breathing, 50% translating \"what is your problem\" into \"I completely understand.\"",
+          "editorNote": "For a call-center friend's after-work story, paired with a headset photo. Live translation is a skill — and a slow drain.",
+          "variations": [
+            "Support agents do get angry. They just live-translate it into honorifics before it reaches the mic.",
+            "The stamina to take calls all day doesn't run on coffee. It runs on autocorrecting swear words into 'so sorry about that.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-222",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://letslearnslang.com/funny-quotes-about-customers/",
+      "sourceNote": "Rebuilt from the 'retail is hide-and-seek, the customer always finds you' meme — localized to the exact moment a staffer clocks out for break",
+      "tags": [
+        "服務業",
+        "零售",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "服務業版的躲貓貓：\n我躲進倉庫、關燈、憋氣，\n休息鈴一響，客人準時在門口喊『不好意思有人嗎』。",
+          "editorNote": "傳給剛被『下班前最後三分鐘客人』堵到的同事。這不是巧合，是奧客的雷達精準得可以拿去做導航。",
+          "variations": [
+            "客人找不到商品的耐心是零，找正在休息的店員的雷達卻是軍規等級。",
+            "只要我一坐下吃飯，門口就會生出一個『請問一下』——這是服務業的物理定律。"
+          ]
+        },
+        "en": {
+          "content": "Retail hide-and-seek:\nI duck into the stockroom, kill the lights, hold my breath —\nthe second my break bell rings, a customer at the door goes \"excuse me, anyone here?\"",
+          "editorNote": "Send to a coworker who just got ambushed in their last three minutes on shift. It's not coincidence — a difficult customer's radar is accurate enough to sell as GPS.",
+          "variations": [
+            "A customer has zero patience finding a product, but military-grade radar for finding the one clerk on break.",
+            "The moment I sit down to eat, a 'quick question' spawns at the door. It's a law of retail physics."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-223",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://blog.104.com.tw/how-to-serve-the-four-common-types-of-guests/",
+      "sourceNote": "Reworked from the canonical 奧客 line '別家店都可以，只有你們不行' cited in 104 職場力 — flipped into a comeback about the other store's imaginary policy",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家都可以，就你們不行。」\n「那家能退三年前的收據、能免費、還能改成您想要的規定——\n聽起來是家很棒的店，我幫您指路？」",
+          "editorNote": "傳給被『別家都可以』攻擊過的服務業朋友。這句留在心裡就好，實際上你只會微笑說『真的很抱歉，我們規定是這樣』。",
+          "variations": [
+            "客人口中那家『什麼都可以』的別家店，通常開在『他自己想像』那條街上。",
+            "『別家都行』如果是真的，客人早就在別家了，不會站在你面前吵。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other store lets me. Just not you people.\"\n\"That store takes three-year-old receipts, gives it free, and rewrites its rules to your liking?\nSounds amazing — want directions?\"",
+          "editorNote": "For anyone who's been hit with the \"every other store does it\" line. Keep this one in your head — out loud you just smile and say 'so sorry, that's our policy.'",
+          "variations": [
+            "That magical 'other store that allows everything' is usually located on a street the customer made up.",
+            "If 'every other store does it' were true, the customer would be there, not standing in front of you arguing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-224",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://www.keeping.com/content/customer-service-jokes/",
+      "sourceNote": "Rebuilt from the 'this job builds character — and a dark sense of humor' meme — reframed as a resignation-letter-style reflection on what service work actually installs in you",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "都說服務業能磨練人。\n磨出來的不是耐心，\n是一種笑著把髒話吞下去、\n回家還能拿今天的奧客當笑話講的黑色幽默。",
+          "editorNote": "適合做滿一年、突然發現自己變了的服務業朋友。這份工作給你的履歷技能，通常不會寫在履歷上。",
+          "variations": [
+            "服務業真正教會你的，不是話術，是怎麼把最爛的一天，講成朋友聚餐時最好笑的段子。",
+            "在服務業待久了會有兩種收穫：一種叫抗壓性，一種叫黑到發亮的笑點。"
+          ]
+        },
+        "en": {
+          "content": "They say service work builds character.\nWhat it actually builds\nisn't patience —\nit's the dark humor to swallow a swear with a smile\nand retell today's worst customer as tonight's best story.",
+          "editorNote": "For a friend one year in who suddenly realizes they've changed. The résumé skills this job installs are never the ones you put on the résumé.",
+          "variations": [
+            "What service work really teaches you isn't scripts — it's how to turn your worst day into the funniest bit at dinner with friends.",
+            "Stay in service long enough and you leave with two things: a high stress tolerance and a sense of humor black enough to shine."
+          ]
+        }
+      }
     }
   ]
 }

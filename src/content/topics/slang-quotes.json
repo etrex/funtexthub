@@ -6769,6 +6769,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-234",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://www.classpop.com/magazine/gen-z-slang",
+      "sourceNote": "Gen Z slang 2026：no cap（沒騙你、真的，用來強調自己說的是實話）",
+      "tags": [
+        "nocap",
+        "真的",
+        "強調",
+        "口頭禪"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那家滷肉飯我排了四十分鐘，\n值得，\n一口下去我差點哭出來，\nno cap。",
+          "editorNote": "使用場景：想強調自己講的是真話、沒有誇張。「cap」是謊話，「no cap」就是「不蓋你、真的」，通常放句尾加強語氣。跟朋友分享真心推薦或認真表態時最好用。",
+          "variations": [
+            "我這輩子沒看過這麼扯的操作，no cap。",
+            "他真的一句廢話都沒有，全場最強，這個我 no cap。"
+          ]
+        },
+        "en": {
+          "content": "I waited forty minutes for that braised pork rice,\nworth every second,\none bite and I nearly teared up —\nno cap.",
+          "editorNote": "'No cap' means 'no lie, for real' — 'cap' is a lie, so 'no cap' shuts down any doubt that you're exaggerating. Drop it at the end of a sentence when you're genuinely recommending something or making an honest confession.",
+          "variations": [
+            "I've never seen a play that wild in my life, no cap.",
+            "He didn't waste a single word, best in the room — and I say that no cap."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-235",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://gabb.com/blog/teen-slang/",
+      "sourceNote": "Gen Z slang 2026：chopped（形容很醜、很糟、狀態很差）",
+      "tags": [
+        "chopped",
+        "醜",
+        "吐槽",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上七點被鬧鐘叫醒，\n鏡子裡那張臉，\n瀏海翹起來、眼睛腫一半，\n只能說有夠 chopped。",
+          "editorNote": "使用場景：吐槽某個東西很醜、很糟，或自嘲自己狀態很差。「chopped」語氣偏誇張搞笑，多半用在朋友之間開玩笑，別對真的在意外表的人亂用。",
+          "variations": [
+            "熬夜三天的我現在超 chopped，先別視訊。",
+            "這件衣服穿在我身上有點 chopped，還是算了。"
+          ]
+        },
+        "en": {
+          "content": "Alarm goes off at seven,\nI look in the mirror,\nbangs sticking up, one eye still puffy —\nI can only call it chopped.",
+          "editorNote": "'Chopped' means ugly, busted, or looking rough. It's exaggerated and jokey, so keep it to friends who'll laugh — don't aim it at someone actually self-conscious about how they look.",
+          "variations": [
+            "Three all-nighters in and I'm looking chopped — no video call right now.",
+            "This shirt looks kinda chopped on me. Gonna pass."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-236",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://simplified.com/blog/ai-writing/gen-z-slang-words-and-how-to-use-them",
+      "sourceNote": "Gen Z slang 2026：bussin（超好吃、超讚，多用來形容食物）",
+      "tags": [
+        "bussin",
+        "好吃",
+        "美食",
+        "稱讚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "巷口那攤蚵仔煎，\n醬料自己調的，\n第一口下去我就懂了，\n這個真的 bussin。",
+          "editorNote": "使用場景：形容食物超好吃，好吃到想大聲宣布。「bussin」原本專指美食，現在也能延伸稱讚任何超讚的東西。想加強可以說「bussin bussin」，語氣會更誇張。",
+          "variations": [
+            "這杯手搖半糖去冰 bussin，我要再點一杯。",
+            "他做的咖哩 bussin bussin，秒殺外面餐廳。"
+          ]
+        },
+        "en": {
+          "content": "That oyster omelette stall by the alley,\nsauce mixed by hand,\none bite in and I got it —\nthis is straight-up bussin.",
+          "editorNote": "'Bussin' means something tastes amazing — good enough to announce out loud. It started as a food-only word but now stretches to anything that's a total hit. Double it up as 'bussin bussin' when you want to really sell how good it is.",
+          "variations": [
+            "This half-sugar no-ice bubble tea is bussin — ordering another.",
+            "His curry is bussin bussin, blows the restaurants out of the water."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-237",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://www.classpop.com/magazine/gen-z-slang",
+      "sourceNote": "Gen Z slang 2026：steez（style + ease，形容毫不費力的自信時髦）",
+      "tags": [
+        "steez",
+        "時髦",
+        "自信",
+        "風格"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他就一件白 T 配舊牛仔褲，\n頭髮也沒特別弄，\n走進來全場都看他，\n這就是 steez。",
+          "editorNote": "使用場景：稱讚某人風格好，而且是那種完全不費力、渾然天成的時髦。「steez」是 style 加 ease，重點在「看起來毫不刻意」。想誇朋友很有型又不油可以用這個。",
+          "variations": [
+            "她穿搭永遠很 steez，隨便抓都好看。",
+            "重點不是衣服多貴，是那個 steez 學不來。"
+          ]
+        },
+        "en": {
+          "content": "Just a white tee and old jeans,\nhair barely touched,\nhe walks in and the whole room looks —\nthat right there is steez.",
+          "editorNote": "'Steez' — style plus ease — is effortless, natural cool: looking sharp without looking like you tried. Use it to hype a friend's fit when the whole point is that it seems totally unforced.",
+          "variations": [
+            "Her outfits are always steez — she could grab anything and it works.",
+            "It's not about how pricey the clothes are, it's the steez you can't fake."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-238",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://parade.com/1293898/marynliles/gen-z-slang-words/",
+      "sourceNote": "Gen Z slang 2026：slaps（形容歌曲、東西超讚、超帶感）",
+      "tags": [
+        "slaps",
+        "音樂",
+        "帶感",
+        "稱讚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "副歌一進來，\n整台車的人同時安靜，\n然後一起跟著吼，\n這首歌真的 slaps。",
+          "editorNote": "使用場景：形容一首歌超讚、超帶感，聽了會忍不住點頭或大聲跟唱。「slaps」原本專講音樂，現在也能拿來誇任何讓人上頭的東西。反過來不好聽就說「這首不 slap」。",
+          "variations": [
+            "這張專輯每一首都 slaps，一首都跳不了。",
+            "深夜配這個 playlist，真的 slaps。"
+          ]
+        },
+        "en": {
+          "content": "The chorus drops,\nthe whole car goes silent for a second,\nthen everyone screams it together —\nthis song absolutely slaps.",
+          "editorNote": "'Slaps' means a track goes hard — the kind that makes you nod or belt it out loud. It started as a music word but now works for anything that hits just right. Flip it for a dud: 'this one doesn't slap.'",
+          "variations": [
+            "Every track on this album slaps — can't skip a single one.",
+            "This playlist late at night? Absolutely slaps."
+          ]
+        }
+      }
     }
   ]
 }

@@ -5849,6 +5849,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-199",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://house.chinatimes.com/20260313002177-264401",
+      "sourceNote": "保時捷房東一次漲6000元 全因租客做1事 news; rewritten original",
+      "tags": [
+        "房東",
+        "房租",
+        "租屋補助",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去申請租屋補助，房東知道以後，一口氣把房租漲了六千。\n政府補助我一千二，房東多賺六千，我還要說謝謝誰？",
+          "editorNote": "傳給正在猶豫要不要申請租屋補助、又怕被房東發現的租客，一起苦笑一下這場數學遊戲",
+          "variations": [
+            "租屋補助的意思是：政府給你一千二，房東拿走六千，剩下的四千八你自己想辦法。",
+            "我以為租屋補助是德政，後來才發現它是房東的漲租通知書。"
+          ]
+        },
+        "en": {
+          "content": "I applied for the rent subsidy. The moment my landlord found out, he jacked up the rent by six grand.\nThe government hands me twelve hundred, he pockets six thousand—who exactly am I supposed to be thanking here?",
+          "editorNote": "Send to a renter agonizing over whether to apply for a rent subsidy and get caught by the landlord—laugh at the math together",
+          "variations": [
+            "Rent subsidy means: the government gives you twelve hundred, the landlord takes six thousand, and you figure out the rest.",
+            "I thought the rent subsidy was a gift from the government. Turns out it was my landlord's rent-hike notice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-200",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://cautiouslawfirm.com/rental-water-leak-landlord-refuses-repair/",
+      "sourceNote": "租屋漏水房東不處理 修繕責任 legal explainer; rewritten original",
+      "tags": [
+        "房東",
+        "漏水",
+        "室友",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "報修漏水那天，房東說：「我這兩天很忙，之後處理。」\n三個月後我學會了民法第430條，也學會了跟天花板滴水的聲音一起睡覺。",
+          "editorNote": "適合貼在租屋社團，配上一張水桶接漏水的照片，順便提醒大家漏水可以主張減租",
+          "variations": [
+            "房東說漏水「之後處理」，我後來才懂，那個「之後」是等到我搬走的意思。",
+            "我房間的天花板不是漏水，是房東給我的免費水濂洞體驗。"
+          ]
+        },
+        "en": {
+          "content": "The day I reported the leak, my landlord said, \"Swamped this week, I'll deal with it later.\"\nThree months on, I've memorized the tenant repair statute and learned to fall asleep to the drip from the ceiling.",
+          "editorNote": "Perfect for a renters' group post paired with a photo of a bucket catching drips—and a reminder that a leak can be grounds to withhold part of the rent",
+          "variations": [
+            "My landlord said he'd fix the leak 'later.' Turns out 'later' meant 'after you move out.'",
+            "My ceiling isn't leaking—it's the free indoor rain feature my landlord threw in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-201",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9528803",
+      "sourceNote": "房租網路水電全都要賺 租屋族算雜支氣炸 news; rewritten original",
+      "tags": [
+        "房東",
+        "房租",
+        "水電",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東的收費項目：房租要賺、電費一度六塊要賺、網路要賺、連我裝個冷氣他都要收「機位費」。\n我住的不是房子，是一台跳表跳不停的計程車。",
+          "editorNote": "傳給每個月被電費帳單嚇到的租屋朋友，一起計算自己到底在替房東繳幾層皮",
+          "variations": [
+            "台電一度賣三塊，房東賣我六塊，中間那三塊叫做「你租我的房你活該」稅。",
+            "在外租屋才知道，會呼吸都要錢——因為連通風的窗戶都算在房租裡。"
+          ]
+        },
+        "en": {
+          "content": "My landlord's fee menu: profit on rent, profit on electricity at double the utility rate, profit on wifi—he even charges a 'unit placement fee' when I install an AC.\nI'm not renting an apartment, I'm riding a taxi with the meter stuck on.",
+          "editorNote": "Send to any friend who flinches at their monthly power bill—tally up just how many ways the landlord is skimming off the top",
+          "variations": [
+            "The power company sells electricity at one rate; my landlord sells it to me at double. That extra markup is called the 'you rent from me, deal with it' tax.",
+            "Renting teaches you that even breathing costs money—because the window that lets air in is baked into the rent too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-202",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://house.udn.com/house/story/123591/9530351",
+      "sourceNote": "租屋老鳥避雷3原則 下午看房 news; rewritten original",
+      "tags": [
+        "看房",
+        "租屋",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老鳥教我看房要挑下午去、要挑下雨天去、要挑房東不在的時候去。\n跟著做了一輪我才發現，最該避的雷不是房子，是那個一直站在我旁邊笑的房東。",
+          "editorNote": "適合分享給第一次自己找房、還很信房東笑容的新手，提醒他們看房要挑對時間也要看清人",
+          "variations": [
+            "看房挑下雨天去，是為了看漏水；挑晚上去，是為了聽隔壁；挑房東不在去，是為了保住理智。",
+            "房東帶看時越熱情，我心裡的警報就越大聲——通常最甜的話術後面接的都是最貴的押金。"
+          ]
+        },
+        "en": {
+          "content": "The veterans told me: view a place in the afternoon, view it on a rainy day, view it when the landlord isn't around.\nAfter one full round I realized the real red flag wasn't the apartment—it was the landlord grinning next to me the whole time.",
+          "editorNote": "Great for a first-time renter who still trusts a landlord's smile—remind them to pick the right time to view, and to read the person too",
+          "variations": [
+            "View on a rainy day to catch the leaks, view at night to hear the neighbors, view when the landlord's out to keep your sanity.",
+            "The more enthusiastic the landlord is during the showing, the louder the alarm in my head—the sweetest pitch usually ends with the steepest deposit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-203",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://tw.news.yahoo.com/%E5%A5%B9%E5%A5%BD%E5%A5%87%E8%8B%A5%E6%88%BF%E6%9D%B1%E9%81%8E%E4%B8%96-%E6%88%BF%E5%AD%90%E8%83%BD%E8%AE%8A%E6%88%BF%E5%AE%A2%E7%9A%84-124311575.html",
+      "sourceNote": "若房東過世 房子能變房客的嗎 民法 news; rewritten original",
+      "tags": [
+        "房東",
+        "租約",
+        "厭世",
+        "租屋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我認真查了民法，想知道房東如果哪天走了，這間房會不會變成我的。\n答案是不會——但租約會原封不動傳給他兒子，連漲租的傳統都會一起繼承。",
+          "editorNote": "適合傳給幻想過「房東消失房子就是我的」的租屋朋友，順便科普租約會隨繼承延續",
+          "variations": [
+            "房東換人不會讓你的租約消失，只會讓你重新認識一位姓氏相同的漲租高手。",
+            "我以為換房東是重新開始，結果只是同一套劇本換一個演員繼續演。"
+          ]
+        },
+        "en": {
+          "content": "I actually looked up the law to find out whether the apartment becomes mine if my landlord ever passes away.\nThe answer is no—but the lease passes untouched to his son, and so does the family tradition of raising the rent.",
+          "editorNote": "Send to a renter who's fantasized that 'if the landlord vanishes the place is mine'—plus a heads-up that a lease survives through inheritance",
+          "variations": [
+            "A new landlord doesn't erase your lease—it just introduces you to another rent-hike expert who happens to share the last name.",
+            "I thought a change of landlord meant a fresh start. Turns out it's the same script with a new actor."
+          ]
+        }
+      }
     }
   ]
 }

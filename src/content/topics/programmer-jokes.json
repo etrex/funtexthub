@@ -8864,6 +8864,141 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-306",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://pundoor.com/programmer-puns/",
+      "sourceNote": "Modern AI/vibe-coding workflow humor",
+      "tags": [
+        "AI",
+        "Vibe Coding",
+        "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的寫程式流程：\n跟 AI 說需求 → 貼上它給的程式碼 → 不會動 → 把錯誤訊息貼回去 → 它跟你說「抱歉我的疏忽」→ 再貼一次 → 還是不會動 → 你自己 debug 兩小時終於修好 → 打字跟 AI 說「謝謝你幫我省了好多時間」。",
+          "editorNote": "貼在團隊群組裡，保證一堆人邊笑邊說「這根本是我今天的縮影」。",
+          "variations": [
+            "精簡版：AI 幫我省時間的方式，就是讓我有更多時間 debug 它寫的東西。"
+          ]
+        },
+        "en": {
+          "content": "Coding in 2026:\nDescribe the feature to the AI → paste its code → doesn't run → paste the error back → it says \"my apologies, you're right\" → paste again → still broken → you debug it yourself for two hours → finally fix it → then type \"thanks, you saved me so much time.\"",
+          "editorNote": "Drop this in the team channel and watch everyone reply 'this is literally my whole afternoon.'",
+          "variations": [
+            "Short version: the way AI saves me time is by giving me more time to debug what it wrote."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-307",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://alto9.com/2025/04/11/the-funniest-devops-and-developer-jokes-to-brighten-your-day/",
+      "sourceNote": "Friday deploy superstition joke",
+      "tags": [
+        "deploy",
+        "生產環境",
+        "DevOps"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "禮拜五下午五點還敢按下 deploy 的人，不是勇者，是還沒被正式環境好好教訓過的新人。\n真正的資深工程師禮拜五只做一件事：把手放在滑鼠旁邊，然後決定禮拜一再說。",
+          "editorNote": "傳給那個總想在下班前上線的同事，附上一句「拜託等禮拜一」。",
+          "variations": [
+            "換個版本：禮拜五 deploy 就像上鐵達尼號，登船時你很樂觀，但心裡都知道結局。"
+          ]
+        },
+        "en": {
+          "content": "Anyone who hits deploy at 5pm on a Friday isn't brave — they just haven't been properly humbled by production yet.\nSenior engineers do exactly one thing on Fridays: rest their hand near the mouse, then decide it can wait until Monday.",
+          "editorNote": "Send it to the coworker who always wants to ship right before the weekend, with 'please, Monday' attached.",
+          "variations": [
+            "Alternate take: deploying on Friday is like boarding the Titanic — optimistic at boarding, but deep down you know how it ends."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-308",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://www.altcademy.com/blog/the-best-jokes-about-programming-and-software-engineering/",
+      "sourceNote": "Debugging detective/murderer joke variant",
+      "tags": [
+        "debug",
+        "工程師思維",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "Debug 就像在演一部推理劇：你是負責破案的偵探，同時也是那個兇手。\n更慘的是，兇手三個月前就把作案的證據 commit 掉了，而且 commit 訊息只寫「fix」。",
+          "editorNote": "深夜還在抓 bug 的時候發給自己看，苦中作樂一下。",
+          "variations": [
+            "延伸：查到最後發現兇手是三個月前的自己，還留了一行註解寫「這裡先這樣，之後再改」。"
+          ]
+        },
+        "en": {
+          "content": "Debugging is like starring in a detective drama where you're the detective and also the murderer.\nEven worse — the murderer committed the evidence three months ago, and the commit message just says \"fix.\"",
+          "editorNote": "A little gallows humor to send yourself at 2am when you're still hunting the bug.",
+          "variations": [
+            "Extended: you finally catch the culprit and it's you, three months ago, who left a comment saying 'temporary, will refactor later.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-309",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://one-beyond.com/20-one-liners-only-software-developers-understand/",
+      "sourceNote": "Staging vs production reliability joke",
+      "tags": [
+        "生產環境",
+        "測試",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在測試環境跑得好好的功能，一上正式環境就壞給你看——它不是有 bug，它只是想確認你今天有沒有在專心。\n「在我電腦上明明是好的啊」則是史上最短的悲劇，短短一句話，但每個工程師都哭著點過頭。",
+          "editorNote": "Demo 前上線爆炸的時候，發到群組讓大家一起哀嚎取暖。",
+          "variations": [
+            "換句話：如果它在測試環境會動，那它上正式環境絕對不會動——這是宇宙定律。"
+          ]
+        },
+        "en": {
+          "content": "A feature that runs perfectly in staging will break the moment it hits production — it doesn't have a bug, it just wants to check whether you're paying attention today.\nAnd \"but it works on my machine\" is the shortest tragedy ever written: six words, and every engineer has nodded through tears.",
+          "editorNote": "Post it in the channel when the thing explodes right before the demo, so everyone can groan together.",
+          "variations": [
+            "Put another way: if it works in staging, it will absolutely not work in production. It's a law of the universe."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-310",
+      "dateAdded": "2026-07-12",
+      "sourceUrl": "https://jokesify.com/software-engineer-jokes/",
+      "sourceNote": "Code review self-own joke",
+      "tags": [
+        "code review",
+        "工程師思維",
+        "團隊"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "Code review 的三個階段：\n第一階段：「這誰寫的，爛透了。」\n第二階段：（翻 git blame）「喔……是我寫的。」\n第三階段：默默把已經打好的尖酸留言刪掉，改成一個大拇指的貼圖。",
+          "editorNote": "傳給團隊裡最愛在 PR 下面開砲的那位，友善地提醒他 git blame 的存在。",
+          "variations": [
+            "延伸版：第四階段是三個月後你再看到同一段程式，又忘記是自己寫的，重新罵一次。"
+          ]
+        },
+        "en": {
+          "content": "The three stages of code review:\nStage 1: \"Who wrote this? It's garbage.\"\nStage 2: (checks git blame) \"Oh... I wrote this.\"\nStage 3: quietly delete the snarky comment you already typed and replace it with a thumbs-up emoji.",
+          "editorNote": "Send it to the teammate who loves opening fire under every PR — a gentle reminder that git blame exists.",
+          "variations": [
+            "Bonus stage 4: three months later you hit the same code, forget it was you again, and roast it all over."
+          ]
+        }
+      }
     }
   ]
 }
