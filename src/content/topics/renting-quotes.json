@@ -5999,6 +5999,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-204",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://www.ettoday.net/news/20260701/3193426.htm",
+      "sourceNote": "貓毛塞冷氣扣押金 法官判退1萬331元 news; rewritten original",
+      "tags": [
+        "押金",
+        "房東",
+        "厭世",
+        "租屋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租那天房東拿著我的押金，一項一項扣：牆壁一道刮痕、冷氣一撮灰、地板一點折舊。\n扣到最後我才懂，原來我住了兩年，是在替他把房子養新。",
+          "editorNote": "適合傳給正在為押金跟房東拉鋸的朋友，提醒退租前拍照存證、扣款要有依據",
+          "variations": [
+            "房東退押金像在結帳，只是每一項的價錢都是他一個人說了算。",
+            "住進去時什麼都算正常磨損，搬出去時連地板的呼吸都變成我要賠的損壞。"
+          ]
+        },
+        "en": {
+          "content": "Move-out day, the landlord held my deposit and started deducting line by line: one scratch on the wall, one clump of dust in the AC, a little wear on the floor.\nBy the last deduction I finally got it—two years of living here was me fixing up his place for free.",
+          "editorNote": "Send to a friend fighting over a deposit—remind them to photograph everything before moving out and demand receipts for any deduction",
+          "variations": [
+            "Getting your deposit back feels like a checkout line, except he sets every price himself.",
+            "Moving in, everything was normal wear and tear. Moving out, even the floor breathing counted as damage I owed him for."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-205",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://house.ettoday.net/news/3134628",
+      "sourceNote": "申請補助租金漲6000 房東嗆反正你們有租補 news; rewritten original",
+      "tags": [
+        "房租",
+        "房東",
+        "薪水",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我終於申請到租金補貼那天，房東比我還開心。\n因為他隔天就把租金漲了六千，還笑著說：「反正你們有補助嘛。」",
+          "editorNote": "適合傳給準備申請租補、卻怕房東反手漲租的朋友，順帶提醒房東不得轉嫁成本、違規最高可罰五十萬",
+          "variations": [
+            "政府補我三千，房東漲我六千，最後買單的還是我這個中間人。",
+            "租補的意思不是政府幫我付房租，是政府先幫房東把我的錢調高。"
+          ]
+        },
+        "en": {
+          "content": "The day my rent subsidy finally got approved, my landlord was happier than I was.\nBecause the next day he raised the rent by six grand, grinning: \"Well, you've got the subsidy now.\"",
+          "editorNote": "Send to anyone about to apply for a rent subsidy but scared the landlord will hike the rent in return—plus a reminder that landlords legally can't pass that cost on",
+          "variations": [
+            "The government gives me three, the landlord takes six, and I'm the guy stuck in the middle covering the gap.",
+            "A rent subsidy doesn't mean the government pays my rent—it means the government pre-approves my landlord raising it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-206",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://vocus.cc/article/69f8473bfd897800017b80c2",
+      "sourceNote": "租屋提前解約 沒住滿一年賠多少 定型化契約一個月上限 news; rewritten original",
+      "tags": [
+        "租約",
+        "房東",
+        "上班族",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "換工作要搬家，我查了才知道提前解約最多賠一個月租金。\n結果房東開口要三個月，理由是「我當初收你進來也是很辛苦的」。",
+          "editorNote": "適合傳給因工作異動要提前搬家的朋友，提醒定型化契約提前解約違約金上限就是一個月",
+          "variations": [
+            "契約寫著違約金上限一個月，房東的嘴巴寫著上不封頂。",
+            "搬家已經夠累了，還要先跟房東上一堂他自己發明的法律課。"
+          ]
+        },
+        "en": {
+          "content": "Changing jobs meant moving, so I looked it up: breaking a lease early caps the penalty at one month's rent.\nMy landlord asked for three, reasoning, \"Taking you in was a lot of work for me, you know.\"",
+          "editorNote": "Send to a friend forced to move early for a job—remind them the legal cap on an early-termination penalty is one month's rent",
+          "variations": [
+            "The contract says the penalty caps at one month. The landlord's mouth says the sky's the limit.",
+            "Moving is exhausting enough without first sitting through a law class the landlord invented himself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-207",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://rich01.com/house-rent-deposit/",
+      "sourceNote": "房東不退押金 存證信函自保 押金上限兩個月 news; rewritten original",
+      "tags": [
+        "押金",
+        "房東",
+        "租屋",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了要回押金，我人生第一次寄了存證信函。\n那一刻我才發現，長大不是學會賺錢，是學會用一張紙跟房東證明我沒有錯。",
+          "editorNote": "適合傳給正在被房東卡押金的朋友，順便科普押金上限兩個月、拿不回來可寄存證信函再申請調解",
+          "variations": [
+            "以前以為存證信函是大人的東西，租了房才知道那是租屋族的成年禮。",
+            "押金上限是兩個月，房東的臉皮上限是無限，中間那段就靠一張存證信函撐著。"
+          ]
+        },
+        "en": {
+          "content": "To get my deposit back, I sent a certified demand letter for the first time in my life.\nThat's when it hit me: growing up isn't learning to make money—it's learning to prove, on paper, that you did nothing wrong.",
+          "editorNote": "Send to a friend whose landlord is sitting on their deposit—plus a heads-up that the deposit is capped at two months and a formal demand letter is the next step",
+          "variations": [
+            "I used to think a certified letter was a grown-up thing. After renting, I learned it's a renter's rite of passage.",
+            "The deposit caps at two months, the landlord's nerve has no cap, and one certified letter is all that's holding the middle together."
+          ]
+        }
+      }
     }
   ]
 }

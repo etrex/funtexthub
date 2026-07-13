@@ -8999,6 +8999,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-311",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://jokesify.com/software-engineer-jokes/",
+      "sourceNote": "AI coding assistant confidence joke — rewritten",
+      "tags": [
+        "AI",
+        "工程師思維",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問 AI 助手：「這段程式碼會有 bug 嗎？」\nAI：「完全不會，我百分之百確定。」\n上線後系統直接爆炸。\n我再問一次：「你不是說百分之百確定？」\nAI：「對啊，我百分之百確定它不會有 bug，只是我常常確定錯。」",
+          "editorNote": "傳給每天在跟 AI 對嘴、然後還是自己收拾殘局的同事。",
+          "variations": [
+            "換個版本：AI 說『這行沒問題』，結果沒問題的是它旁邊那行，出事的是它自己。"
+          ]
+        },
+        "en": {
+          "content": "I asked my AI assistant: \"Will this code have bugs?\"\nAI: \"Absolutely not. I'm one hundred percent sure.\"\nWe shipped it. Everything caught fire.\nMe: \"You said you were one hundred percent sure?\"\nAI: \"I was. I'm always one hundred percent sure — I'm just wrong a lot.\"",
+          "editorNote": "For the coworker who argues with their AI all day and still cleans up the mess alone.",
+          "variations": [
+            "Variant: the AI swears 'this line is fine' — and it is. It's the next line that ends your weekend."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-312",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://one-beyond.com/20-one-liners-only-software-developers-understand/",
+      "sourceNote": "Testing in production one-liner — rewritten to dialogue",
+      "tags": [
+        "測試",
+        "production",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問資深工程師：「你都在哪裡測試程式？」\n資深：「production。」\n新人：「那測試環境呢？」\n資深：「那也是 production，只是還沒有人發現。」",
+          "editorNote": "傳給那個嘴上說『我等等會補測試』然後直接推上線的老手。",
+          "variations": [
+            "延伸：新人再問『那萬一壞了怎麼辦』，資深笑而不語，默默把 rollback 按鈕擦亮。"
+          ]
+        },
+        "en": {
+          "content": "The junior asks the senior: \"Where do you run your tests?\"\nSenior: \"Production.\"\nJunior: \"And your staging environment?\"\nSenior: \"That's also production. Nobody's noticed yet.\"",
+          "editorNote": "Send it to the veteran who says 'I'll add tests later' and pushes straight to main.",
+          "variations": [
+            "Follow-up: the junior asks 'what if it breaks?' — the senior just smiles and polishes the rollback button."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-313",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://punsaboutpuns.com/software-developer-puns-and-jokes/",
+      "sourceNote": "Merge conflict relationship joke — rewritten",
+      "tags": [
+        "git",
+        "團隊",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟同事的關係就像 merge conflict：\n表面上我們改的是同一個檔案，\n實際上我們永遠不同意到底哪一行才是對的，\n最後都要一個更高權限的人跳進來，含淚保留兩邊，再刪掉一半。",
+          "editorNote": "傳到團隊群組，保證那兩個每天在同一支檔案打架的人會同時已讀不回。",
+          "variations": [
+            "換個對象：跟你自己的 relationship，早上的 commit 跟晚上的 commit 也會 conflict。"
+          ]
+        },
+        "en": {
+          "content": "My relationship with my coworker is basically a merge conflict:\non the surface we're editing the same file,\ndeep down we will never agree on which line is correct,\nand it always ends with someone more senior jumping in, keeping both sides in tears, then deleting half.",
+          "editorNote": "Drop it in the team chat and watch the two people who fight over the same file both leave it on read.",
+          "variations": [
+            "Retarget it at yourself: your morning commit and your evening commit conflict too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-314",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://punsaboutpuns.com/software-developer-puns-and-jokes/",
+      "sourceNote": "Debugging detective classic — reworded and extended",
+      "tags": [
+        "debug",
+        "工程師思維",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "Debug 就像在演一部推理劇：\n你是被害人，\n你是偵探，\n你是兇手，\n三個小時後你終於抓到兇手，\n發現他三天前留了一行 // 先這樣，之後改。",
+          "editorNote": "傳給正在盯著 log 盯到懷疑人生的自己，或那個總說『之後改』的隊友。",
+          "variations": [
+            "延伸：找到兇手那一刻你不是想罵他，你是想時光倒流阻止他按下 commit。"
+          ]
+        },
+        "en": {
+          "content": "Debugging is a murder mystery where\nyou're the victim,\nyou're the detective,\nand you're the killer.\nThree hours in you finally catch the culprit —\nand find the line they left three days ago: // temporary, fix later.",
+          "editorNote": "Send it to yourself while you stare at the logs, or to the teammate who always says 'fix later.'",
+          "variations": [
+            "Extension: the moment you catch the killer, you don't want to yell at them — you want to travel back and stop them from hitting commit."
+          ]
+        }
+      }
     }
   ]
 }

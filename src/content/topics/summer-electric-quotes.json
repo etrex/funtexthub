@@ -4449,6 +4449,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-150",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://tech.udn.com/tech/story/123152/9539864",
+      "sourceNote": "台電揭帳單變貴真相 73% 來自用電量增加 27% 才是電價；改寫原創",
+      "tags": [
+        "夏月電價",
+        "台電",
+        "真相",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電出來澄清：「帳單變貴，七成是因為你用得多，電價漲的部分只佔三成。」\n翻譯成白話就是：\n「別怪我漲價，你只是變熱了，然後你自己受不了。」\n這句話，比帳單本身還痛。",
+          "editorNote": "傳給那個每年都怪台電漲價、卻不肯承認自己冷氣開好開滿的朋友",
+          "variations": [
+            "帳單變貴的真相：三成是台電的錯，七成是夏天的錯，剩下的零成是我的錯——我從來沒錯。",
+            "台電最狠的一招，不是漲價，是告訴你帳單變貴其實大部分是你自己爽出來的。"
+          ]
+        },
+        "en": {
+          "content": "The power company clarified: 'Your bill went up because you used more — the rate hike is only a small part of it.'\nTranslated into plain English:\n'Don't blame me for raising prices. You just got hot, and then you couldn't take it.'\nThat sentence hurts more than the bill itself.",
+          "editorNote": "Send to the friend who blames the utility every year but won't admit they run the AC full blast",
+          "variations": [
+            "The truth about the bigger bill: a third is the rate, two thirds is summer, and zero percent is my fault — I'm never at fault.",
+            "The power company's cruelest move isn't the hike. It's telling you the bill grew mostly because you enjoyed yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-151",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://www.wmbfnews.com/2026/07/02/how-keep-your-ac-bill-skyrocketing-during-heat-wave/",
+      "sourceNote": "一台冷氣佔全屋將近一半電費 that one appliance；改寫原創",
+      "tags": [
+        "冷氣",
+        "帳單",
+        "耗電",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家說，全家所有電器裡，光是那一台冷氣，就佔了將近一半的電費。\n所以我家其他電器都是配角，\n只有冷氣是主角，而且是那種戲份最多、片酬最貴、還不能得罪的大牌。",
+          "editorNote": "傳給那個以為關掉待機小紅燈就能省很多、結果發現主犯是冷氣的朋友",
+          "variations": [
+            "省電的時候大家忙著拔充電器插頭，真正的大魔王在牆上，開著，笑而不語。",
+            "冷氣之於電費，就像房租之於薪水——一個項目，吃掉你半條命。"
+          ]
+        },
+        "en": {
+          "content": "Experts say that out of every appliance in the house, the AC alone eats up nearly half your electric bill.\nSo every other appliance in my home is a supporting actor.\nThe AC is the lead — the kind with the most screen time, the biggest paycheck, and a temper you can't afford to cross.",
+          "editorNote": "For the friend who thinks unplugging standby lights saves a fortune, then learns the real culprit is the AC",
+          "variations": [
+            "Everyone unplugs their chargers to save power while the real final boss hangs on the wall, running, smiling silently.",
+            "The AC is to your bill what rent is to your salary — one line item, half your life gone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-152",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://www.npr.org/2026/05/23/nx-s1-5823767/summer-heat-electric-bills-cost",
+      "sourceNote": "2026 夏季降溫成本創新高 較 2020 上漲約 40%；改寫原創",
+      "tags": [
+        "冷氣",
+        "通膨",
+        "創新高",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "數據說，這幾年夏天的降溫成本又創新高，比幾年前貴了整整四成。\n意思是：同樣的熱、同樣的汗、同樣的冷氣，\n我現在要付出比過去多四成的代價，才能買到跟以前一模一樣的「還可以活」。",
+          "editorNote": "傳給那個總覺得「以前夏天沒這麼貴」不是錯覺、是真的變貴的朋友",
+          "variations": [
+            "通膨最誠實的地方，是連「涼快」都變成一種需要漲價的奢侈品。",
+            "同樣是活過一個夏天，現在的版本比幾年前貴四成，功能卻一模一樣。"
+          ]
+        },
+        "en": {
+          "content": "The data says the cost of staying cool has hit a new high — up about 40% from a few years back.\nWhich means: the same heat, the same sweat, the same AC,\nnow costs me 40% more just to buy the exact same 'barely surviving' I had before.",
+          "editorNote": "For the friend who insists summers 'didn't used to cost this much' — turns out that's not nostalgia, it's real",
+          "variations": [
+            "The most honest thing about inflation is that even 'being cool' became a luxury that raises its prices.",
+            "Surviving one summer costs 40% more than a few years ago, and the feature set is identical."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-153",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://www.storm.mg/lifestyle/11137681",
+      "sourceNote": "專家一圖看每日最貴用電時段 避開尖峰；改寫原創",
+      "tags": [
+        "尖峰時段",
+        "省電",
+        "冷氣",
+        "夏月電價"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家做了一張圖，標出每天最貴的用電時段，叫我避開。\n我認真研究後發現，那個最貴的時段，剛好就是——\n下午最熱、我最想開冷氣、也最開不起冷氣的那幾個小時。\n所謂避開尖峰，就是叫我在最需要的時候，忍住。",
+          "editorNote": "傳給那個把台電時段表存在手機、每天下午跟自己天人交戰的省電魂",
+          "variations": [
+            "尖峰時段的設計很有哲理：最貴的那幾個小時，永遠是你最撐不住的那幾個小時。",
+            "避開尖峰用電的意思，白話講就是：熱死你的那一刻，也是最貴的那一刻，請你再撐一下。"
+          ]
+        },
+        "en": {
+          "content": "Experts made a chart marking the most expensive hours to use power each day, and told me to avoid them.\nAfter studying it carefully, I realized those priciest hours are exactly —\nthe hottest part of the afternoon, when I most want the AC, and can least afford it.\n'Avoid peak hours' just means: hold on through the moment you need it most.",
+          "editorNote": "For the savings soul who saved the peak-rate chart to their phone and wrestles with it every afternoon",
+          "variations": [
+            "There's a dark poetry to peak pricing: the priciest hours are always the exact hours you can't take anymore.",
+            "'Avoid peak usage' translated: the moment the heat is killing you is also the most expensive moment — please hang in there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-154",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://www.newsweek.com/electric-bills-rising-summer-map-us-states-12005318",
+      "sourceNote": "2026 美國夏季平均電費約 792 美元 較去年漲一成；改寫原創",
+      "tags": [
+        "電費",
+        "全球",
+        "同溫層",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "看到國外新聞：今年夏天他們一整季電費平均要花快兩萬台幣，比去年又漲了一成。\n我看著自己的帳單，忽然有種被安慰到的感覺——\n原來全世界都在為了不被熱死而付錢，我不是一個人。\n這大概是繳電費唯一的溫馨時刻。",
+          "editorNote": "傳給那個以為只有台灣電費貴、看到國外數字後瞬間釋懷的朋友",
+          "variations": [
+            "全球暖化最公平的地方，是不管你住哪一國，夏天都會用電費提醒你它的存在。",
+            "知道別人夏天電費也很痛，不會讓我的帳單變便宜，但至少讓我的崩潰有了同伴。"
+          ]
+        },
+        "en": {
+          "content": "Saw a foreign headline: this summer their season-long electric bill averages nearly 800 bucks, up another 10% from last year.\nI looked at my own bill and felt oddly comforted —\nturns out the whole world is paying just to not be cooked alive. I'm not alone.\nThat might be the only heartwarming moment in paying an electric bill.",
+          "editorNote": "For the friend who thought only their country had brutal bills, then found instant peace in the global numbers",
+          "variations": [
+            "The fairest thing about global warming is that no matter which country you live in, summer reminds you it exists via your bill.",
+            "Knowing everyone's summer bill hurts doesn't make mine cheaper, but at least my breakdown has company."
+          ]
+        }
+      }
     }
   ]
 }

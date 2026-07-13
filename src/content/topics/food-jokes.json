@@ -6434,6 +6434,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-225",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://look.s3.com.tw/look/outfit/f21er5/page/23491",
+      "sourceNote": "internal only — 台灣諧音梗店名文化重寫成滷味攤對話",
+      "tags": [
+        "諧音",
+        "夜市",
+        "滷味"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "夜市滷味攤招牌寫「滷不起」。\n我問老闆：「這名字什麼意思？」\n老闆：「客人嫌貴的時候，我就指招牌 — 對啊，我也滷（輸）不起。」",
+          "editorNote": "跟朋友逛夜市看到怪店名時丟出來，很好接話",
+          "variations": [
+            "手搖店版：招牌「喝什麼」，客人問要喝什麼，店員直接回 —— 對，喝什麼。",
+            "鹹酥雞版：店名「炸咧」，客人問還要等多久，老闆回 —— 就炸咧、炸咧，急什麼。"
+          ]
+        },
+        "en": {
+          "content": "A night-market braised-snack stall had a sign that read \"Can't Afford It.\"\nI asked the owner what it meant.\nHim: \"When customers complain it's pricey, I just point at the sign — yeah, I can't afford it either.\"",
+          "editorNote": "Toss it out when you spot a weird shop name while wandering a market with friends",
+          "variations": [
+            "Boba version: sign says \"What Do You Want.\" Customer asks what to order. Clerk: \"Right, what do you want.\"",
+            "Fried-chicken version: named \"Still Frying.\" Customer asks how long. Owner: \"It's still frying, still frying, relax.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-226",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://emkt.pixnet.net/blog/posts/899563776750422463",
+      "sourceNote": "internal only — 早餐店大冰奶冷笑話重寫成擬人吐槽",
+      "tags": [
+        "早餐店",
+        "冷笑話",
+        "飲料"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：早餐店的大冰奶為什麼那麼有自信？\n答：因為它知道，喝完它的人，接下來一整個上午都會很有「動力」，一直往廁所衝。",
+          "editorNote": "早餐群組聊到大冰奶威力時補一刀，大家都有共鳴",
+          "variations": [
+            "接續版：「所以它不是飲料，是早餐店偷偷發的通腸券。」",
+            "溫和版：改成鮮奶茶 ——「至少它讓你早上很專注地做一件事。」"
+          ]
+        },
+        "en": {
+          "content": "Q: Why is the giant iced milk tea at Taiwanese breakfast shops so confident?\nA: Because it knows whoever drinks it will have plenty of \"motivation\" all morning — sprinting straight to the bathroom.",
+          "editorNote": "A follow-up jab when the chat gets going about that drink's legendary effect",
+          "variations": [
+            "Extension: \"It's not a beverage, it's a laxative coupon the shop hands out for free.\"",
+            "Milder version with milk tea: \"At least it keeps you very focused on one task all morning.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-227",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://onelinefun.com/food/",
+      "sourceNote": "internal only — impasta 諧音梗重寫成本土義大利麵店場景",
+      "tags": [
+        "諧音",
+        "義大利麵",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在義大利麵店打工，客人問：「你們主廚是義大利人嗎？」\n我：「不是，他是雲林人。」\n客人：「那他做的算正統義大利麵嗎？」\n我：「算『冒牌』麵吧 —— 反正客人吃得很開心，麵條也沒抗議。」",
+          "editorNote": "聊到餐廳掛羊頭賣狗肉時，自嘲一下氣氛剛好",
+          "variations": [
+            "老闆版：「我們最正統的是老闆的口音，一開口就知道很台。」",
+            "客人回擊版：「沒關係，反正我吃的是氣氛，不是護照。」"
+          ]
+        },
+        "en": {
+          "content": "I work at a pasta place. A customer asked, \"Is your chef actually Italian?\"\nMe: \"Nope, he's from Yunlin.\"\nCustomer: \"So is it real Italian pasta?\"\nMe: \"More like an impasta — but hey, the customers are happy and the noodles aren't complaining.\"",
+          "editorNote": "Good for a self-deprecating beat when talking about restaurants overselling their authenticity",
+          "variations": [
+            "Owner version: \"The most authentic thing here is the boss's accent — one word and you know he's local.\"",
+            "Customer's comeback: \"No worries, I'm here for the vibe, not the passport.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-228",
+      "dateAdded": "2026-07-13",
+      "sourceUrl": "https://punsnest.com/culinary-puns/",
+      "sourceNote": "internal only — lettuce/brie 蔬果諧音梗重寫成中文冰箱擬人段子",
+      "tags": [
+        "擬人",
+        "冰箱",
+        "蔬菜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "冰箱裡的蔬菜開會，討論誰最沒存在感。\n高麗菜：「一定是我，每次都被放到最後才想起來，整顆爛掉。」\n九層塔：「不，是我。買回來只用三片，剩下的都陪你天荒地老。」\n最角落的薑默默舉手：「各位，我在這裡住三個月了，你們今天才發現我。」",
+          "editorNote": "打開冰箱發現忘記的食材時，配這段自我療癒",
+          "variations": [
+            "結尾加碼：「這時候後面傳來一個聲音 —— 是去年的一包冷凍水餃。」",
+            "情侶版：把薑換成「上次分手前買的雙人火鍋料」，笑中帶淚。"
+          ]
+        },
+        "en": {
+          "content": "The vegetables in the fridge held a meeting on who's the most forgotten.\nCabbage: \"Definitely me — always remembered last, always rotting whole.\"\nBasil: \"No, it's me. You buy me, use three leaves, and I keep you company till the end of time.\"\nThe ginger in the far corner quietly raised its hand: \"Everyone, I've lived here three months, and you only noticed me today.\"",
+          "editorNote": "Pair it with that moment you open the fridge and find something you totally forgot",
+          "variations": [
+            "Bonus ending: \"Then a voice came from the back — it was a bag of frozen dumplings from last year.\"",
+            "Couple version: swap ginger for 'the hot-pot-for-two kit bought right before the breakup' — bittersweet."
+          ]
+        }
+      }
     }
   ]
 }
