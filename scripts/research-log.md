@@ -6711,3 +6711,51 @@ Done items collapsed; only live priorities listed.
 - **concert-ticket-quotes**：五月天 7/12 雙場硬拚（延期落地、比搶票更累、一天兩場的甜與體力極限、鐵打的等三天更甜）。
 - **slang-quotes**：Threads 新梗 ㄅ級分/泉/留友看/暈爛/破防/嘻嘻，附語意與情境改寫。
 - **insomnia-quotes / workplace-quotes / adulting-quotes / renting-quotes**：持續吸收熬夜看球＋颱風假尾聲補眠、收假倒數、颱風後漏水清理等交叉梗。
+
+## 2026-07-13 Research Report
+
+### New Topic Recommendations（皆併入既有 topic，勿獨立建檔）
+
+1. **世界盃 4 強巔峰對決／全是舊冠軍、準決賽倒數 · Semis Locked — Four Ex-Champions, Countdown Begins（併入 worldcup-quotes，勿獨立）** — **7/12 8 強收官後 4 強全數底定，且四隊清一色是昔日世界盃冠軍（法國／西班牙／英格蘭／阿根廷）；準決賽 7/15（三）03:00 法國 vs 西班牙、7/16（四）03:00 英格蘭 vs 阿根廷、季軍戰 7/19（日）05:00、冠軍戰 7/20（一）03:00（皆台灣時間），priority HIGH（情緒軸『四強全是舊王＝沒有弱者只有更強＋準決賽要等到週三/週四熬夜的甜蜜折磨＋淘汰賽只剩最後一腳＋週一凌晨冠軍戰上班族最痛的排程』）**:
+   - SEO rationale: 7/13 多源確認（HK01『世界盃 2026 直播賽程 7.15 凌晨 3 時法國對西班牙爭入決賽』/ Yahoo Sports『4 強出爐！法國交手西班牙、阿根廷對決英格蘭、4 強賽時間對戰組合直播一次看』/ 商周『4 強名單出爐、賽程最新比分轉播直播一次看』/ 今周刊『世足 4 強名單有誰、賽程時間對戰組合、觀賽重點直播平台』/ HKET『世界盃每日賽程最新賽果免費直播時間表』多源 2026）。**四張準決賽門票全由傳統強權包辦，皆昔日世界盃冠軍。台灣時間 7/15 03:00 法國 vs 西班牙爭首張決賽席、7/16 03:00 英格蘭 vs 阿根廷、7/19 05:00 季軍戰、7/20 03:00 冠軍戰（紐澤西）。** 「法國 西班牙 / 英格蘭 阿根廷 / 準決賽 / 4 強 直播 / 冠軍戰 時間」search 隨賽程於 7/15-7/20 攀本屆峰值。**情緒軸『四強全是舊冠軍＝勝者為王沒有僥倖＋準決賽隔到週三才開打的等待折磨＋淘汰賽剩最後一腳踢進去進決賽踢歪就季軍＋冠軍戰週一凌晨 3 點上班族含淚看完直接進公司』。**
+   - 建議: **worldcup-quotes carry 2-3 items，主推『四強全舊王/準決賽倒數』軸**。register「四強全是拿過冠軍的隊這下沒有安慰獎只有硬仗／等到週三凌晨三點看法西這種折磨我甘願／準決賽只剩最後一腳踢進去是決賽踢歪是季軍人生也是／冠軍戰排在週一凌晨三點是想逼我請假還是逼我猝死／四支舊王擠在四強對戰樹每一場都像提前上演的決賽」。en「All four are former champions — no consolation bracket here, just war／waiting till 3 a.m. Wednesday for France-Spain is the kind of torture I signed up for／one kick from the final or one kick from third place — that's the semis, and honestly that's life／the final's at 3 a.m. Monday: are they trying to make me take leave or make me collapse」。**撰稿以『四強＝法/西/英/阿全舊冠軍、7/15 法vs西、7/16 英vs阿、7/19 季軍、7/20 冠軍戰』為準，未打完賽果不預測不寫死。** cross-link insomnia（熬夜看準決賽/冠軍戰）+ workplace（週一凌晨冠軍戰＝上班族排程惡夢）+ cold-jokes（準決賽/點球/舊王諧音）+ motivational（能站上四強的沒有一個是弱者）+ healing（等待讓比賽更甜）。
+
+2. **颱風巴威解除警報／颱風假全面收假、山區殘留＋農損關懷 · Bavi Clears — Full Return, Lingering Mountain Closures & Crop-Loss Care（併入 holiday-jokes 收尾 + workplace/adulting/renting/food-jokes，勿獨立）** — **7/13（週一）巴威已快速朝西北遠離、台灣本島 7/11 深夜脫離暴風圈、陸警僅剩馬祖後亦近解除，全台絕大多數地區恢復正常上班上課；僅新竹尖石（新光/秀巒/石磊/玉峰）、五峰（桃山）、苗栗南庄東河村等少數山區續放；農損估 2034 萬元（苗栗 1572 萬最多，柿子/棗/苦瓜/一期稻/番茄受損）。priority MEDIUM（情緒軸從『連放耍廢』正式收尾為『收假現實＋山區殘留的羨慕＋災後清理＋農損關懷』，颱風梗退場轉 organic）**:
+   - SEO rationale: 7/13 多源確認（商周『巴威颱風動態最新路徑停班停課警報解除時間一次看』/ 聯合『全台 15 地區 1 縣市放颱風假、巴威掃尾 12 日停班課一覽』/ 城市學『颱風假 7/12 全台縣市更新、雙北正常』/ TVBS『1 縣市＋15 地區 7/12 停班停課』多源 2026；農損數據引農糧署 7/12 統計）。**巴威 7/11 23:00 本島脫離暴風圈、中心氣壓回升至 965 百帕減弱、陸警僅剩馬祖；7/13 僅零星山區（新竹尖石/五峰、苗栗南庄）續停班課，其餘全台恢復正常。農損 2034 萬、苗栗最重。** 「颱風假 還有嗎 / 警報解除 / 上班 上課 / 巴威 農損」search 7/13 退場。**情緒軸『連放兩天颱風假正式結束的收假失落＋城市全收假、零星山區續放的最後一絲羨慕＋窗邊漏水/滿地待辦的災後現實＋農民柿棗受損的關懷』——颱風梗溫和退場，山區與農損勿調侃、勿消費災情，帶關懷正向。**
+   - 建議: **holiday-jokes carry 颱風收尾梗 1 item 後轉休眠 + workplace/adulting 吸收『收假第一天面對三天份代辦』+ renting 吸收『颱風後漏水/清理』+ food-jokes 吸收『囤的泡麵還沒吃完颱風就走了』**。register「颱風假結束的第一個上班日我的靈魂還卡在耍廢模式沒開機／全台都收假了只剩幾個山區還在放我最後的羨慕給你們／風雨走了留下漏水的窗和堆成山的代辦這才是真正的災後重建／為了颱風囤的泡麵還剩五包結果假先放完了／看到苗栗的柿子和棗被打壞才想起颱風不是誰的假期」。en「First workday after the typhoon break and my soul's still stuck in slack-off mode, won't boot up／the whole island's back to work — a few mountain towns still off get my last drop of envy／the storm's gone, leaving a leaky window and a mountain of backlog: that's the real cleanup」。**颱風收尾取『收假失落/囤糧沒吃完/災後清理』通用共鳴，山區續放與 2034 萬農損勿調侃、勿消費災情、帶關懷正向。放假/警報/災情隨氣象署與農糧署公告更新不寫死。** cross-link renting（漏水/清理/電費）+ workplace/adulting（收假倒數）+ food-jokes（囤泡麵沒吃完）+ healing（顧好自己）。
+
+3. **Threads 新梗池刷新／朋朋・接住・YBSG・初級高級大人 · Fresh Threads Slang Pool（併入 slang-quotes + witty/self-love/adulting，勿獨立）** — **7/13 多源盤點 2026 台灣 Threads 原生梗刷新：『朋朋』（疊字暱稱，35.7 萬聲量居冠）、『接住』（情緒低落時的陪伴支持）、『YBSG』（源日文やばすぎ羅馬字，太扯/太厲害）、『初級大人 vs 高級大人』（家族地位/發言權，開年破 3.9 萬筆）、carry『ㄅ級分』（滿分評價）、『高麗菜煮蛋那桌』（生活妙招高手服氣式吐槽）；priority MEDIUM（情緒軸『暱稱親密感／被接住的溫柔／太扯的驚嘆／從初級熬成高級大人的成長自嘲』）**:
+   - SEO rationale: 7/13 多源確認（PopDaily『2026 Threads 爆紅 5 個梗精準戳中台灣網友靈魂』/ UpToGo『2026 有什麼梗、網路爆紅流行語迷因總整理』/ 網路溫度計 DailyView『你是初級大人還是高級大人、Threads 爆紅由來自我檢測』/ Yahoo『台灣 Threads 用戶佔全球 21.08% 世界第一』多源 2026）。**台灣 Threads 用戶佔全球 21.08% 世界第一（每 5 篇串文 1 篇來自台灣），梗池更新快。『朋朋』35.7 萬聲量居冠、『接住』主打情緒陪伴、『YBSG』太扯/太厲害、『初級/高級大人』家族地位自我檢測。** 「朋朋 意思 / 接住 意思 / YBSG / 初級大人 高級大人 / Threads 梗」search 續熱。**情緒軸『朋朋＝比朋友更親暱的疊字撒嬌／接住＝脆弱時被陪伴的溫柔／YBSG＝太扯到詞窮的驚嘆／初級 vs 高級大人＝在大人的路上還沒畢業的自嘲』。**
+   - 建議: **slang-quotes carry 2-3 條，每條附語意＋使用情境＋例句改寫（勿照抄定義）；witty/self-love/adulting 各吸收 1 item**。register「朋朋不是打錯字是想跟你更親一點的證據／情緒快撐不住的時候有人說我接住你比任何道理都有用／看到誇張到詞窮就一句 YBSG／別人是高級大人我還在初級大人的試用期到底哪關沒過／從初級大人升到高級大人不是年紀是那句話沒人敢反駁的底氣」。en「'Bestie' with an extra syllable isn't a typo — it's proof I want to be closer to you／when you're about to break, 'I've got you' beats every piece of advice／too wild for words? just one YBSG covers it／everyone else is a grown-up grown-up; I'm still on the trial version」。**取通用情緒/自嘲不強綁短命梗；『YBSG』撰稿只取『太扯/太厲害』純語氣義，勿帶任何政治人物出處或政治框架（源頭涉政治人物，SKIP 政治聯想）。** cross-link witty-comebacks（YBSG/嘻嘻攻防）+ self-love（接住的溫柔/被接住）+ adulting（初級 vs 高級大人）+ workplace（班味/精神離職 carry）+ healing（接住＝情緒陪伴）。
+
+### Content Trends
+- **7/13 三主軸交棒**：世界盃由『8 強賽果』交棒到『四強全舊王／準決賽倒數（7/15 法vs西、7/16 英vs阿、7/20 冠軍戰）』升溫；颱風巴威由『連放颱風假』正式收尾為『收假現實＋山區殘留＋農損關懷』退場轉 organic；五月天雙場（7/12）落幕，concert-ticket-quotes 回歸常青。三者共用『熬夜看球／收假倒數／週一凌晨排程』情緒公因數，worldcup-quotes 接棒為本週最強 timely 信號。
+- **Threads 梗池刷新（餵 slang-quotes）**：本週新增『朋朋（35.7 萬聲量居冠）／接住（情緒陪伴）／YBSG（太扯，去政治化只取語氣）／初級 vs 高級大人（成長自嘲）』，carry『ㄅ級分／高麗菜煮蛋那桌／暈爛／班味／精神離職』。台灣 Threads 佔全球 21.08% 世界第一，梗汰換快——slang-quotes 每條附語意＋情境＋改寫，避免過度小眾與短命梗。
+- **8 月情感主題群 drafting 升溫（T 倒數縮短）**：大暑 7/23（T-10）→ 台灣父親節 8/8（T-26，週六）→ 七夕 8/19（T-37，週三，農曆七月初七）→ 中元。sweet/cheesy（七夕土味情話「一週有七天你猜我喜歡哪一天／有你的每一天」）、fathers-day-quotes（台灣 8/8）、cdrama-period（古裝甜寵）drafting 進行中。**七夕以 8/19 為準（勿誤植 8/25）；US 父親節 6/21 已 CLOSED。**
+- **Q3 暑假追劇主峰延續**（餵 drama/drama-binge/korean-drama/cdrama-period）：7 月片單陸劇《這一秒過火》（張凌赫/王楚然民國虐戀）《野狗骨頭》（宋威龍/張婧儀）《燦如繁星》（虞書欣）《百花殺》（孟子義/何與）、韓劇《鬼謎東宮》（南柱赫退伍首作）《驚悚的戀愛》（朴恩斌）、台劇《梨泰院 Class》台版（周興哲首挑大梁）。**收假後在家追劇＋熬夜看球＋暑假時間多，追劇軸穩定接棒颱風退場的耍廢共鳴。**
+
+### Existing Topic Updates
+- **worldcup-quotes（7/13 四強全舊王/準決賽倒數, priority HIGH）**：主打『四強全是舊冠軍＝沒有弱者／準決賽等到週三凌晨的折磨／淘汰賽剩最後一腳／冠軍戰週一凌晨 3 點上班族排程惡夢』carry 2-3 items。**以『法/西/英/阿全舊冠軍、7/15 法vs西、7/16 英vs阿、7/19 季軍、7/20 冠軍戰』為準，賽果不預測。** cross-link insomnia/workplace/cold-jokes/motivational/healing。
+- **holiday-jokes（7/13 颱風收尾轉休眠, priority LOW-MEDIUM）**：颱風收尾梗「收假第一天靈魂還卡在耍廢模式／全台收假只剩山區還在放最後的羨慕給你們／囤的泡麵還沒吃完假先放完了」carry 1 item 後轉休眠，下一節慶窗口 8 月（父親節+七夕+中元）。山區續放與農損勿消費、帶關懷。
+- **workplace/adulting/renting/food-jokes（7/13 颱風收假現實吸收, priority MEDIUM）**：「收假第一天面對三天份代辦／風雨走了留下漏水的窗和滿地代辦／囤的泡麵還剩五包」1 item。cross-link healing + insomnia（收假前熬夜看球）。
+- **slang-quotes/witty/self-love/adulting（7/13 Threads 新梗 朋朋/接住/YBSG/初級高級大人, priority MEDIUM）**：「朋朋=比朋友更親暱的疊字撒嬌／接住=脆弱時被陪伴的溫柔／YBSG=太扯到詞窮（去政治化只取語氣）／初級 vs 高級大人=大人路上還沒畢業的自嘲」2-3 items（slang）＋1 item（其他）。附語意＋情境＋改寫，勿強綁短命梗，YBSG 勿帶政治出處。
+- **sweet/cheesy/fathers-day/cdrama-period（7/13 8 月情感群 drafting, 大暑 T-10/父親節 T-26/七夕 T-37, priority MEDIUM）**：七夕土味情話（「一週有七天你猜我喜歡哪一天／有你的每一天」）＋fathers-day（台灣 8/8）＋cdrama-period（古裝甜寵）持續 drafting。**七夕以 8/19 為準；US 父親節 6/21 已 CLOSED。** cross-link wedding（8 月婚禮旺季）+ adulting。
+- **drama/drama-binge/korean-drama/cdrama-period（7/13 Q3 暑假追劇主峰 + 收假後在家追劇, priority MEDIUM）**：「這一秒過火民國虐戀／野狗骨頭／燦如繁星／鬼謎東宮南柱赫退伍首作／梨泰院 Class 台版周興哲／收假後熬夜看球再追一集」1 item。cdrama-period 古裝劇 cluster 暑假主峰再評估獨立。
+- **concert-ticket-quotes（7/13 五月天雙場 7/12 落幕, priority LOW）**：回歸搶票/退票/改期常青，颱風延期雙場梗 carry 完轉 organic。cross-link adulting + travel。
+- **summer-electric/diet/travel/student（7/13 大暑 7/23 將至 + 夏月電價 day-43, priority MEDIUM）**：暑假耍廢/冷氣電費/暑期旅遊塞車/夏日減重常青軸，接棒颱風退場的穩定信號。**勿引『一度 8.12 元』不實。**
+- **exam-quotes（深度休眠至 2027/6）／graduation-quotes（畢業季尾聲收尾轉休眠, LOW）**：殘餘共鳴由 healing/adulting 承接。
+- **cat/dog/pet-memorial/mom/zodiac/wedding/couple-jokes/cold-jokes/insomnia/service/fitness/motivational/breakup/stock-investor/human-design/programmer/absurd-wisdom**：organic 觀察期。cold-jokes opportunistic 吸收世足諧音（準決賽/點球/舊王/出線）1 item low；insomnia 吸收『熬夜看準決賽/週一凌晨冠軍戰』1 item low；motivational 吸收『能站上四強沒有一個是弱者』1 item low；programmer 吸收『精神離職只 commit 份內 code／YBSG 這 bug』1 item low；wedding carry「8 月婚禮旺季」organic；stock-investor Q4 年底加碼觀察。
+
+### Updated Action Priority
+1. **[HIGH — 7/13 世界盃四強全舊王/準決賽倒數]** worldcup-quotes →「四強全是舊冠軍沒有弱者／準決賽等到週三凌晨的折磨／淘汰賽剩最後一腳／冠軍戰週一凌晨 3 點上班族排程惡夢」carry 2-3 items。**以『法/西/英/阿全舊冠軍、7/15 法vs西、7/16 英vs阿、7/19 季軍、7/20 冠軍戰』為準，賽果不預測。** cross-link insomnia/workplace/cold-jokes/motivational/healing。
+2. **[MEDIUM — 7/13 Threads 新梗 朋朋/接住/YBSG/初級高級大人]** slang-quotes（2-3 條附語意情境改寫）+ witty/self-love/adulting（各 1 item）。**YBSG 去政治化只取語氣，勿帶政治出處。** cross-link witty + self-love + workplace + healing。
+3. **[MEDIUM — 7/13 颱風收假現實/山區殘留/農損關懷]** holiday-jokes 收尾梗 1 item 轉休眠 + workplace/adulting/renting/food-jokes 吸收『收假三天份代辦/漏水清理/囤泡麵沒吃完』1 item。**山區續放與 2034 萬農損勿消費、帶關懷，隨公告更新不寫死。** cross-link renting + healing + insomnia。
+4. **[DRAFTING — 7/13 8 月情感群 大暑 T-10/父親節 8/8 T-26/七夕 8/19 T-37]** sweet/cheesy（七夕土味情話）+ fathers-day（台灣 8/8）+ cdrama-period（古裝甜寵）持續 drafting。**七夕以 8/19 為準；US 父親節 6/21 已 CLOSED。**
+5. **[MEDIUM — 7/13 Q3 暑假追劇主峰 + 收假後在家追劇]** drama/drama-binge/korean-drama/cdrama-period「這一秒過火／野狗骨頭／燦如繁星／鬼謎東宮／梨泰院 Class 台版／收假後熬夜看球再追一集」1 item。cdrama-period 古裝劇 cluster 候選獨立評估。
+6. **[MEDIUM — 7/13 大暑 7/23 將至 + 夏月電價 day-43]** summer-electric/diet/travel/student 暑假耍廢/冷氣電費/暑期塞車/夏日減重常青 1 item。**勿引『一度 8.12 元』不實。**
+7. **[LOW — 7/13 五月天雙場落幕]** concert-ticket-quotes 回歸搶票/退票/改期常青，颱風雙場梗 carry 完轉 organic。
+8. **[LOW — 畢業季尾聲收尾]** graduation-quotes「失業倒數／從學生變社畜」1 item 收完休眠。
+9. **[CLOSED — 會考放榜 7/7 / 端午 6/19 / 報稅 6/1 / US 父親節 6/21]** exam-quotes 深度休眠至 2027/6；端午/報稅/US 父親節全深度休眠。
+10. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period/drama-binge 古裝劇 cluster 候選獨立評估，暫 carry。
+11. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼（台股 + K 型 cross-link）。
+12. **[FLAG — SKIP 不變]** 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 校園霸凌 + 超哥爭議 全 SKIP。『超派』純語氣可用；YBSG 去政治化只取『太扯/太厲害』語氣勿帶政治出處；班味/活人感/精神離職/破防/暈爛/朋朋/接住/初級高級大人/高麗菜煮蛋那桌 正向或純厭世/自嘲共鳴無敏感（精神離職取『心累自保』勿煽動離職）；颱風收尾取通用共鳴，山區續放與農損勿消費災情、帶關懷。
