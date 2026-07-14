@@ -9107,6 +9107,141 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-315",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://programmerhumor.io/memes/friday-deployments",
+      "sourceNote": "Friday deployment fear meme — rewritten as a boarding-pass bit",
+      "tags": [
+        "工程師日常",
+        "工程師文化",
+        "團隊"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "禮拜五下午三點，新人問：「這個小改動要現在上線嗎？」\n整個辦公室瞬間安靜。\n資深工程師緩緩轉過頭：「你有想過這個週末要怎麼過嗎？」\n新人：「⋯⋯放假？」\n資深：「不，是盯著手機等它爆。」",
+          "editorNote": "傳到工程群組，保證有人回一句『禮拜五不上線是做人的基本道德』。",
+          "variations": [
+            "延伸：真正的資深不是不改 code，是知道週五四點以後任何一行 code 都會在半夜三點反噬你。"
+          ]
+        },
+        "en": {
+          "content": "Friday, 3 p.m. The new hire asks: \"Should we ship this tiny change now?\"\nThe whole office goes silent.\nThe senior slowly turns around: \"Have you thought about how you want to spend your weekend?\"\nNew hire: \"...Off?\"\nSenior: \"No. Staring at your phone, waiting for it to blow up.\"",
+          "editorNote": "Drop it in the dev channel and someone will reply 'no Friday deploys is basic human decency.'",
+          "variations": [
+            "Extension: being senior isn't refusing to touch the code — it's knowing any line shipped after 4 p.m. Friday comes back for you at 3 a.m."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-316",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://punsaboutpuns.com/software-developer-puns-and-jokes/",
+      "sourceNote": "Stack Overflow dependency joke — reworded into a support-group bit",
+      "tags": [
+        "工程師日常",
+        "debug",
+        "工程師文化"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我不是不會寫程式，\n我只是需要一個曾經在 2013 年遇過一模一樣錯誤、\n並且被熱心陌生人回答的靈魂，\n來確認我不孤單。\n這就是為什麼我把 Stack Overflow 設成首頁。",
+          "editorNote": "傳給那個嘴上說『我自己看文件』、其實分頁開了十五個問答的隊友。",
+          "variations": [
+            "延伸：最恐怖的不是錯誤訊息，是你搜尋後發現這個問題全世界只有你遇過，而且沒人回。"
+          ]
+        },
+        "en": {
+          "content": "It's not that I can't code.\nI just need one soul who hit this exact error back in 2013,\ngot answered by a kind stranger,\nso I know I'm not alone.\nThat's why Stack Overflow is my homepage.",
+          "editorNote": "Send it to the teammate who claims 'I read the docs myself' but has fifteen Q&A tabs open.",
+          "variations": [
+            "Extension: the scariest thing isn't the error message — it's searching it and finding you're the only human alive who's hit it, with zero replies."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-317",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "console.log debugging confession — rewritten as a diary bit",
+      "tags": [
+        "debug",
+        "工程師日常",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的 console.log 記錄了我一整天的心路歷程：\nconsole.log(\"here\")\nconsole.log(\"here2\")\nconsole.log(\"WHY\")\nconsole.log(\"到底\")\nconsole.log(\"求求你\")\nconsole.log(\"我恨你\")\nconsole.log(\"喔原來是這裡\")",
+          "editorNote": "傳給每個假裝自己會用 debugger、實際上全靠印字串的工程師，也就是全部人。",
+          "variations": [
+            "延伸：最後那個 bug 修好，你會默默把這七行 console.log 一起刪掉，不留任何犯罪證據。"
+          ]
+        },
+        "en": {
+          "content": "My console.log tells the full story of my day:\nconsole.log(\"here\")\nconsole.log(\"here2\")\nconsole.log(\"WHY\")\nconsole.log(\"seriously\")\nconsole.log(\"please\")\nconsole.log(\"i hate you\")\nconsole.log(\"oh. it was here.\")",
+          "editorNote": "Send it to every dev who pretends to use the debugger but actually prints strings — so, everyone.",
+          "variations": [
+            "Extension: once the bug's fixed you quietly delete all seven lines together, leaving zero evidence of the crime."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-318",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://pundoor.com/programmer-puns/",
+      "sourceNote": "Works on my machine classic — extended into a shipping-the-laptop punchline",
+      "tags": [
+        "工程師思維",
+        "工程師文化",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試回報：「這功能壞掉了。」\n工程師：「可是我這邊是好的啊。」\n測試：「使用者也壞掉了。」\n工程師：「那我這邊還是好的啊。」\n主管：「那我們就把你的電腦寄給每一個使用者。」\n工程師沉默三秒：「⋯⋯這樣運費會很貴。」",
+          "editorNote": "傳到 QA 群組，保證測試工程師含淚已讀，開發工程師假裝沒看到。",
+          "variations": [
+            "延伸：『在我電腦上是好的』後面應該加一句免責聲明——本產品僅適用於工程師本人那台電腦。"
+          ]
+        },
+        "en": {
+          "content": "QA: \"This feature is broken.\"\nDev: \"But it works on my machine.\"\nQA: \"The users are broken too.\"\nDev: \"Still works on my machine, though.\"\nManager: \"Fine. We'll ship your laptop to every single user.\"\nDev, after a pause: \"...shipping's gonna be expensive.\"",
+          "editorNote": "Drop it in the QA channel — testers leave it on read in tears, devs pretend they never saw it.",
+          "variations": [
+            "Extension: 'works on my machine' deserves a warranty label — this product is only supported on the developer's exact laptop."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-319",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://pundash.com/programmer-jokes/",
+      "sourceNote": "AI vibe-coding era joke — rewritten around trusting the AI blindly",
+      "tags": [
+        "工程師日常",
+        "工程師文化",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的工程師 code review：\n審查者：「這段你懂它在做什麼嗎？」\n作者：「不懂。」\n審查者：「那你為什麼 approve 給我看？」\n作者：「因為 AB 寫的，AB 說沒問題。」\n審查者：「那你怎麼知道它沒問題？」\n作者：「因為它跑起來沒報錯。」\n審查者沉默：「⋯⋯那你 approve。」",
+          "editorNote": "傳給那個 PR 全靠 AI 生、review 全靠感覺的整個團隊，包含你自己。",
+          "variations": [
+            "延伸：最恐怖的一句話不是『這段誰寫的』，是『這段沒人記得為什麼要寫』。"
+          ]
+        },
+        "en": {
+          "content": "Code review, 2026 edition:\nReviewer: \"Do you understand what this block does?\"\nAuthor: \"Nope.\"\nReviewer: \"Then why are you showing it to me?\"\nAuthor: \"The AI wrote it. The AI said it's fine.\"\nReviewer: \"And how do you know it's fine?\"\nAuthor: \"It ran without errors.\"\nReviewer, after a silence: \"...okay, you approve it.\"",
+          "editorNote": "Send it to the whole team whose PRs are AI-generated and reviewed on vibes — yourself included.",
+          "variations": [
+            "Extension: the scariest line isn't 'who wrote this' — it's 'nobody remembers why this was written.'"
+          ]
+        }
+      }
     }
   ]
 }

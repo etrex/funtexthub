@@ -6119,6 +6119,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-208",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://house.ettoday.net/news/3134628",
+      "sourceNote": "申請租補房東漲租6000元、電費一度6.5元 viral case; rewritten original",
+      "tags": [
+        "房租",
+        "房東",
+        "租屋補助",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我去申請了租屋補助，\n房東就把房租漲了六千，電費調成一度六塊五。\n原來補助不是補給我，是補給他。",
+          "editorNote": "適合傳給正在猶豫要不要申請租補的朋友，順便提醒：申請租補是房客權利，房東不得禁止，若因此漲租可向縣市政府申訴",
+          "variations": [
+            "政府補我三千，房東漲我六千，這數學我算不贏。",
+            "說好幫我省錢的補助，最後省到房東的口袋裡去了。"
+          ]
+        },
+        "en": {
+          "content": "I applied for the rent subsidy,\nso my landlord raised the rent by six thousand and bumped electricity to a wild per-unit rate.\nTurns out the subsidy wasn't for me—it was for him.",
+          "editorNote": "Send to a friend on the fence about applying for a rent subsidy—remind them it's the tenant's legal right, the landlord can't forbid it, and a rent hike over it can be reported to the local authority",
+          "variations": [
+            "The government gives me three, the landlord takes six—that's math I can't win.",
+            "The subsidy was supposed to save me money. It ended up saving up in my landlord's pocket."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-209",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://www.dcard.tw/f/rent/p/259260672",
+      "sourceNote": "頂樓加蓋鐵皮屋定頻冷氣電費爆表 dcard discussion; rewritten original",
+      "tags": [
+        "頂樓加蓋",
+        "電費",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "住頂樓加蓋的夏天，是一場冷氣跟太陽的拔河，\n而我是那條被扯斷的繩子，也是那張被扯爛的電費單。",
+          "editorNote": "傳給那個租到鐵皮加蓋、每個月電費比房租還讓人心痛的朋友，提醒他看房先問清楚是不是頂加、電費一度算幾塊",
+          "variations": [
+            "定頻冷氣開一整夜，我省下的睡眠全被電表吃掉了。",
+            "頂加的房租很便宜，便宜的部分夏天會用電費一次跟你討回來。"
+          ]
+        },
+        "en": {
+          "content": "Summer in a rooftop tin-shed unit is a tug-of-war between the AC and the sun,\nand I'm the rope that snaps—right along with the electric bill.",
+          "editorNote": "Send to a friend renting a tin rooftop add-on whose power bill hurts more than the rent—remind them to ask the per-unit electricity rate before signing",
+          "variations": [
+            "Run a fixed-speed AC all night and the meter eats every hour of sleep you saved.",
+            "The rooftop unit's rent is cheap. Summer collects the difference in one electric bill."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-210",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9624663",
+      "sourceNote": "300億租補淪漲租幫凶、高薪單身族租不到房 news; rewritten original",
+      "tags": [
+        "租屋",
+        "單身",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：有租補的情侶我優先，醫生我不租。\n我一個認真上班的單身高薪族，居然輸給了一張補助單。",
+          "editorNote": "適合傳給那個薪水不低卻總是租不到房的單身朋友，一起吐槽補助政策的副作用",
+          "variations": [
+            "我努力賺錢，努力到房東覺得我不需要被善待。",
+            "原來在租屋市場，單身又沒補助，是一種原罪。"
+          ]
+        },
+        "en": {
+          "content": "The landlord said: couples with a subsidy get priority, doctors need not apply.\nSo a single person with a solid salary and a steady job just lost out to a subsidy form.",
+          "editorNote": "Send to a single friend who earns well but still can't land a lease—commiserate over the side effects of subsidy policy",
+          "variations": [
+            "I worked hard to earn more, hard enough that my landlord decided I didn't deserve a break.",
+            "Turns out in the rental market, being single with no subsidy is its own original sin."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-211",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9528803",
+      "sourceNote": "房租網路水電全都要賺、租屋雜支氣炸 news; rewritten original",
+      "tags": [
+        "房租",
+        "水電",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房租要賺、水電要賺、網路也要賺，\n房東唯一沒跟我收錢的，只有我搬進來時帶的那口氣。",
+          "editorNote": "傳給剛算完租屋雜支、氣到想直接去看房的朋友，提醒他把水電網路怎麼收都先寫進契約",
+          "variations": [
+            "房東的收費項目比手搖飲的加料選單還多。",
+            "我以為租的是房子，帳單來了才發現我租的是一整套收費服務。"
+          ]
+        },
+        "en": {
+          "content": "Rent's a markup, water and power are a markup, even the Wi-Fi is a markup.\nThe only thing my landlord didn't charge me for was the breath I walked in with.",
+          "editorNote": "Send to a friend who just tallied their rental add-ons and is mad enough to go house-hunting—remind them to get every utility charge written into the lease",
+          "variations": [
+            "My landlord's list of fees is longer than a bubble-tea topping menu.",
+            "I thought I was renting an apartment. The bill showed up and I'd rented a whole subscription plan."
+          ]
+        }
+      }
     }
   ]
 }

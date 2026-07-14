@@ -4631,6 +4631,146 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-166",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://queue-it.com/blog/ticket-bots/",
+      "sourceNote": "Queue-it 統計某熱門開賣 96% 流量來自機器人，330 萬次請求僅 13.8 萬來自真人",
+      "tags": [
+        "機器人",
+        "搶票",
+        "黃牛",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "搶票搶了三年，\n我才明白一件事——\n\n跟我搶的\n從來不是別的粉絲。\n\n是三百萬隻機器人，\n跟一個手速比不過 F5 的我。",
+          "editorNote": "熱門開賣有 96% 流量來自機器人，真人粉絲根本擠不進去。傳給每次都秒殺落空、開始懷疑人生的朋友",
+          "variations": [
+            "數據版：「三百三十萬次請求，只有十三萬是真人。我不是輸給運氣，是輸給一整座機器人工廠。」"
+          ]
+        },
+        "en": {
+          "content": "Took me three years of on-sales\nto finally get it—\n\nI was never racing\nother fans.\n\nI was racing three million bots,\nwith a refresh finger\nthat can't beat a script.",
+          "editorNote": "In big on-sales up to 96% of traffic is bots — real fans can barely get through the door. Send to the friend who whiffs every time and is questioning reality",
+          "variations": [
+            "Data version: '3.3 million requests, only 138,000 from humans. I didn't lose to bad luck. I lost to an entire bot farm.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-167",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://www.aol.com/news/scalpers-vs-fans-concert-tickets-205932459.html",
+      "sourceNote": "Oasis、Ed Sheeran、Harry Styles 演唱會作廢被判定屬於黃牛的門票",
+      "tags": [
+        "黃牛",
+        "轉售",
+        "票價",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽說主辦開始\n作廢黃牛的票了。\n\n我一邊拍手叫好，\n一邊偷偷檢查——\n\n我那張加價買的，\n該不會\n也在名單上吧。",
+          "editorNote": "越來越多主辦直接作廢轉售票，爽了正義感卻也讓加價買票的人心驚。傳給忍不住從二手買票、現在天天怕被抓的朋友",
+          "variations": [
+            "心虛版：「主辦作廢黃牛票的新聞底下，我按了讚，然後默默把入場 QR code 又刷新了一次。」"
+          ]
+        },
+        "en": {
+          "content": "Word is the promoters\nstarted voiding scalped tickets.\n\nI'm clapping along—\n\nwhile quietly checking\nwhether the one I overpaid for\nmight be on the list too.",
+          "editorNote": "More promoters are canceling resold tickets outright — satisfying, until you're the one who paid over face. Send to the friend who caved and bought resale and now checks their QR code daily",
+          "variations": [
+            "Guilty version: 'Liked the article about voided scalper tickets, then quietly refreshed my entry QR code one more time.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-168",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://www.aol.com/news/scalpers-vs-fans-concert-tickets-205932459.html",
+      "sourceNote": "Billie Eilish、Hozier、Noah Kahan 等採用 Ticketmaster Face Value Exchange 讓粉絲原價互轉",
+      "tags": [
+        "原價轉讓",
+        "轉售",
+        "希望",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "終於有『原價轉讓』了。\n\n不用加價，\n不用私訊喊價，\n不用擔心收到假票。\n\n我盯著那個按鈕，\n感動到快哭——\n\n然後發現，\n還是沒有人要放票。",
+          "editorNote": "原價轉讓機制讓粉絲互相安全交易，是搶票地獄裡少數的光。傳給苦等別人釋出原價票、卻一張都等不到的朋友",
+          "variations": [
+            "現實版：「原價轉讓區我開了一整天。票沒等到，倒是把重新整理練成反射動作。」"
+          ]
+        },
+        "en": {
+          "content": "Finally, a face-value exchange.\n\nNo markups,\nno DM bidding wars,\nno fear of fake tickets.\n\nI stared at that button,\nnearly in tears—\n\nthen realized\nnobody's releasing any.",
+          "editorNote": "Face-value exchanges let fans trade safely at cost — one of the few bright spots in ticketing hell. Send to the friend refreshing the resale page for a face-value drop that never comes",
+          "variations": [
+            "Reality version: 'Watched the face-value exchange all day. No ticket showed up, but refreshing is now a reflex.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-169",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://www.commerce.senate.gov/2026/1/examining-the-impact-of-ticket-sales-practices-and-bot-resales-on-concert-fans",
+      "sourceNote": "美國參議院聽證檢視售票與機器人轉售對粉絲影響；票面價與實付價落差成最大爭議",
+      "tags": [
+        "票價",
+        "動態定價",
+        "結帳",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "票面寫著一個價，\n結帳跳出另一個價。\n\n中間那段差距，\n沒有人解釋，\n也沒有人負責。\n\n我買的到底是門票，\n還是一張\n浮動的心情。",
+          "editorNote": "動態定價讓票面價與實付價落差越來越大，粉絲花錢還搞不懂錢花去哪。傳給看到結帳金額嚇一跳的朋友",
+          "variations": [
+            "帳單版：「票面 1800，結帳 3200。多出來的 1400，主辦說是『市場機制』，我說是『我下個月的伙食』。」"
+          ]
+        },
+        "en": {
+          "content": "Face value says one number.\nCheckout shows another.\n\nNobody explains the gap.\nNobody owns it.\n\nAm I buying a ticket,\nor a mood\nthat floats with the market?",
+          "editorNote": "Dynamic pricing keeps widening the gap between face value and what you actually pay — you spend the money and still can't tell where it went. Send to the friend who flinched at the checkout total",
+          "variations": [
+            "Bill version: 'Face value $60, checkout $110. That extra $50 is \"market forces\" to them and \"next week's groceries\" to me.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-170",
+      "dateAdded": "2026-07-14",
+      "sourceUrl": "https://queue-it.com/blog/ticket-bots/",
+      "sourceNote": "黃牛透過加入多個歌迷會、購買預購碼、建立大量假帳號系統性搶票",
+      "tags": [
+        "黃牛",
+        "預購",
+        "假帳號",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "黃牛加入了十個歌迷會，\n買了二十組預購碼，\n開了一百個假帳號。\n\n我只有一顆\n真心喜歡的心。\n\n難怪搶輸——\n我根本沒在同一個賽道上。",
+          "editorNote": "黃牛用多個歌迷會、大量預購碼與假帳號系統性掃票，真粉根本不對等。傳給只想單純看場演唱會、卻年年落空的朋友",
+          "variations": [
+            "認命版：「人家開一百個帳號，我連一個都懶得再刷新。這場比賽，我從報名那天就輸了。」"
+          ]
+        },
+        "en": {
+          "content": "The scalper joined ten fan clubs,\nbought twenty presale codes,\nspun up a hundred fake accounts.\n\nAll I brought\nwas one heart that actually likes the band.\n\nNo wonder I lost—\nwe were never in the same race.",
+          "editorNote": "Scalpers game presales with multiple fan clubs, stockpiled codes, and hundreds of fake accounts — real fans aren't on a level field. Send to the friend who just wants to see one show and whiffs every year",
+          "variations": [
+            "Resigned version: 'They ran a hundred accounts. I couldn't be bothered to refresh once. I lost this race the day I signed up.'"
+          ]
+        }
+      }
     }
   ]
 }
