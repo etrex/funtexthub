@@ -6814,6 +6814,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-235",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "Dcard 心情『奧客會有的經典語錄跟行為』整理中最經典的『叫你們經理出來』橋段，改寫成基層店員視角的自嘲",
+      "tags": [
+        "服務業",
+        "奧客",
+        "客訴",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叫你們經理出來！」\n「我就是經理。」\n「那叫你們老闆出來！」\n「我也是老闆。」\n「……那算了。」",
+          "editorNote": "傳給那個今天又被要求「把上面的人叫出來」的同事。很多時候客人要的不是解決方法，是一個地位比你高、可以繼續兇的對象。",
+          "variations": [
+            "客人要找的不是經理，是一個他罵得贏的人。",
+            "「叫你主管來」翻譯成白話就是：我知道你不會讓步，我想換一個會的。"
+          ]
+        },
+        "en": {
+          "content": "\"Get me your manager!\"\n\"I am the manager.\"\n\"Then get me the owner!\"\n\"Also me.\"\n\"…Never mind.\"",
+          "editorNote": "Send this to the coworker who got hit with 'let me speak to someone above you' again today. Half the time the customer doesn't want a solution — they want someone higher up to keep yelling at.",
+          "variations": [
+            "They're not looking for a manager, they're looking for someone they can out-argue.",
+            "'Get me your supervisor' translated: I know you won't budge, so I'd like a different person who might."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-236",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://news.cnyes.com/news/id/3588506",
+      "sourceNote": "鉅亨網『奧客經典語錄這10句不能同意更多』中的『別間可以你們怎不可』，改寫成店員內心 OS",
+      "tags": [
+        "服務業",
+        "奧客",
+        "餐飲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「別家店都可以，只有你們不行。」\n「那您要不要去別家？」\n「別家太遠了。」\n所以其實近的才是重點，可不可以從來都不是。",
+          "editorNote": "傳給每天被「別家都可以」轟炸的服務業朋友。那句話的重點從來不是規則，是想讓你覺得是你們家有問題。",
+          "variations": [
+            "「別家都可以」的別家，通常和「我朋友」住在同一個查無此地的地方。",
+            "如果別家真的什麼都可以，客人早就在別家了，不會站在你面前。"
+          ]
+        },
+        "en": {
+          "content": "\"Every other store allows it — only you won't.\"\n\"Would you like to go to one of those stores?\"\n\"They're too far.\"\nSo it was about the distance all along; 'allowed' was never the point.",
+          "editorNote": "For the service friend who gets bombarded with 'everywhere else lets me' all day. That line was never about the rule — it's designed to make you feel like your store is the broken one.",
+          "variations": [
+            "The 'other stores' that allow everything live in the same undiscoverable place as the mythical 'friend.'",
+            "If those other stores really allowed everything, the customer would already be there — not standing in front of you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-237",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://ebcbuzz.com/category/fun/new/221572",
+      "sourceNote": "東森新聞雲『餐廳奧客語錄』中『認識老闆想凹折扣』與『老樣子誰記得』的橋段，重新改寫",
+      "tags": [
+        "服務業",
+        "奧客",
+        "餐飲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我跟你們老闆很熟。」\n「那要幫您打幾折？」\n「你打了老闆會生氣吧？」\n熟到不敢讓老闆知道，這種交情我也想要。",
+          "editorNote": "傳給那個又被「我認識你們老闆」開場的餐飲朋友。真的熟的客人，通常安安靜靜就把錢付了。",
+          "variations": [
+            "真的認識老闆的人，不會需要一直提自己認識老闆。",
+            "「我跟老闆很熟」後面接的通常不是問候，是折扣。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm good friends with your boss.\"\n\"Great — how big a discount should I apply?\"\n\"Well, wouldn't the boss get mad if you did?\"\nSo close you can't let the boss find out — I'd love a friendship like that.",
+          "editorNote": "For the restaurant friend who got the 'I know your owner' opener again. The customers who actually know the boss usually just pay quietly and leave.",
+          "variations": [
+            "People who genuinely know the owner don't need to keep announcing they know the owner.",
+            "'I'm tight with your boss' is almost never followed by 'send them my regards' — it's followed by 'so, a discount?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-238",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://pleated-jeans.com/2026/02/22/customer-service-memes-funny/",
+      "sourceNote": "Pleated-Jeans 2026 客服迷因輯中『對著答案發問』『Employees Only 當建議』的橋段，改寫成雙語版",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人指著寫「本日公休」的牌子問：「你們今天有開嗎？」\n我看著那塊牌子，\n牌子看著我，\n我們都很想知道答案。",
+          "editorNote": "傳給零售櫃檯的朋友。有些問題的答案就貼在客人的正前方，但他們選擇相信活人比字大。",
+          "variations": [
+            "答案就貼在門上，客人卻寧願問一個更累的活人。",
+            "「你們有開嗎」——先生，我要是沒開，是誰在跟您說話呢？"
+          ]
+        },
+        "en": {
+          "content": "Customer points at the sign that says 'CLOSED TODAY' and asks: \"Are you open today?\"\nI look at the sign,\nthe sign looks at me,\nand we're both dying to know the answer.",
+          "editorNote": "For the friend behind a retail counter. Some answers are printed directly in front of the customer, but they've decided a live human outranks large print.",
+          "variations": [
+            "The answer is taped to the door, yet they'd rather interrogate a tired human.",
+            "'Are you open?' — sir, if we weren't, who exactly do you think is talking to you?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-239",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://thunderdungeon.com/2026/02/25/40-customer-service-memes-for-anyone-in-the-trenches/",
+      "sourceNote": "Thunder Dungeon 2026 客服迷因『smiled so hard my face tried to unionize』與『therapy has a copay, customers don't』延伸改寫",
+      "tags": [
+        "服務業",
+        "客服",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天笑到臉部肌肉想成立工會，\n要求加班費、休息時間，還有一條「不准對奧客再擠出笑容」的條款。\n我理解它，但我還是得請它繼續營業——\n因為房租不會因為我不想笑就變便宜。",
+          "editorNote": "傳給那個下班後臉還僵著的服務業朋友。你的笑容今天真的加班了，記得回家讓它下班。",
+          "variations": [
+            "情緒勞動也是勞動，只是薪水單上永遠不會有這一欄。",
+            "下班第一件事，是把整天掛在臉上的那個笑容，輕輕拿下來放好。"
+          ]
+        },
+        "en": {
+          "content": "Smiled so hard today my face tried to unionize —\ndemanding overtime, breaks, and a clause that says 'no more forced smiles at difficult customers.'\nI hear it out, then ask it to please keep operating,\nbecause rent doesn't get cheaper just because I don't feel like smiling.",
+          "editorNote": "For the service friend whose face is still stiff after clocking out. Your smile really did work overtime today — remember to let it clock out once you're home.",
+          "variations": [
+            "Emotional labor is still labor; it just never shows up as a line on the paycheck.",
+            "First thing after your shift: gently take off the smile you wore all day and set it down."
+          ]
+        }
+      }
     }
   ]
 }

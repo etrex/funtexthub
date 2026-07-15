@@ -9242,6 +9242,141 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-320",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "'Quick and dirty' fix that haunts you in production — rewritten",
+      "tags": [
+        "技術債",
+        "程式碼品質",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師字典裡「先這樣暫時擋一下」的正確解釋是：\n「這段爛 code 會在某個週六凌晨兩點，趁我睡到最熟的時候，準時炸給我看。」",
+          "editorNote": "傳給那個嘴上說『之後一定重構』的自己，或那個把 TODO 當傳家寶的同事。",
+          "variations": [
+            "延伸：技術債唯一的還款方式，就是加班；而且利息是複利。"
+          ]
+        },
+        "en": {
+          "content": "Real definition of \"let's just patch it for now\" in a developer's dictionary:\n\"This garbage code will detonate at 2 AM on a Saturday, precisely when I'm sleeping the deepest.\"",
+          "editorNote": "Send it to the you who swears 'I'll refactor it later,' or the coworker who treats //TODO as a family heirloom.",
+          "variations": [
+            "Extension: the only way to pay off tech debt is overtime — and the interest compounds."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-321",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://witwale.com/coding-puns-and-jokes/",
+      "sourceNote": "Java 'too class-y' pun — rewritten with a fresh setup",
+      "tags": [
+        "程式語言",
+        "諧音梗",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟女朋友說我是 Java 工程師，\n她說：「難怪你這麼有『類』（class）。」\n我沒笑，因為我還在等她那句話 compile 完。",
+          "editorNote": "傳給寫 Java 的朋友，冷笑話配冷語言，剛剛好。",
+          "variations": [
+            "延伸版：她補一句『可惜你 new 不出一段感情』，我當場 NullPointerException。"
+          ]
+        },
+        "en": {
+          "content": "I told my girlfriend I'm a Java developer.\nShe said, \"No wonder you're so class-y.\"\nI didn't laugh — I was still waiting for that line to compile.",
+          "editorNote": "Send it to your Java friends: a cold pun for a verbose language, perfectly matched.",
+          "variations": [
+            "Extended: she added, 'Too bad you can't new up a relationship,' and I threw a NullPointerException on the spot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-322",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://punsplanet.com/programmer-jokes/",
+      "sourceNote": "Neural network breakup / overfitting joke — rewritten",
+      "tags": [
+        "AI",
+        "機器學習",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼那個神經網路跟女朋友分手了？\n因為它太執著於過去的每一個細節，反而完全看不懂新的對象。\n這在業界有個專有名詞，叫「過擬合」。",
+          "editorNote": "傳給正在調模型、也剛好調不好感情的 ML 工程師，笑完記得加一點 dropout。",
+          "variations": [
+            "延伸：它下一段感情學會了『早停』，才終於不再重蹈覆轍。"
+          ]
+        },
+        "en": {
+          "content": "Why did the neural network break up with its partner?\nIt clung to every tiny detail of the past and couldn't make sense of anyone new.\nThere's a technical term for that. It's called overfitting.",
+          "editorNote": "Send it to the ML engineer who's tuning a model and their love life at the same time — then remind them to add some dropout.",
+          "variations": [
+            "Extension: its next relationship learned 'early stopping,' and finally stopped repeating the same mistakes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-323",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://programmerhumor.io/memes/production-bugs",
+      "sourceNote": "Works in dev/staging then production dumpster fire — rewritten",
+      "tags": [
+        "上線災難",
+        "工程師日常",
+        "生產環境"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你有沒有體會過那種痛：\ncode 在本機跑得完美無瑕，\n在測試環境所有測試全綠，\n結果一上正式環境，它馬上 cosplay 成一場火災。",
+          "editorNote": "上線前傳到群組，讓大家一起深呼吸，順便問一句『誰要 on-call』。",
+          "variations": [
+            "延伸：正式環境是唯一一個能讓你的 code 展現真實個性的地方。"
+          ]
+        },
+        "en": {
+          "content": "You know that special kind of pain?\nYour code runs flawlessly on your machine,\nevery test passes green in staging,\nand the second it hits production, it starts cosplaying as a house fire.",
+          "editorNote": "Drop it in the channel before a release so everyone can take a deep breath — then quietly ask 'who's on call?'",
+          "variations": [
+            "Extension: production is the only place your code truly reveals its personality."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-324",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://punsio.com/coding-jokes/",
+      "sourceNote": "Null pointer at 3AM from skipped input validation — rewritten",
+      "tags": [
+        "除錯",
+        "半夜救火",
+        "工程師血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的浪漫是什麼？\n是凌晨三點，一個人對著螢幕，\n追一個空指標例外，\n只因為三個月前有人覺得「這個欄位不可能是空的吧」。",
+          "editorNote": "傳給那個省略輸入驗證的人，也提醒未來的自己：使用者永遠會輸入你想不到的東西。",
+          "variations": [
+            "延伸：程式碼裡最貴的一行註解，是『這裡不可能會發生』。"
+          ]
+        },
+        "en": {
+          "content": "What's a developer's idea of romance?\n3 AM, alone with the glow of the screen,\nhunting down a null pointer exception,\nall because three months ago someone decided \"this field can't possibly be empty.\"",
+          "editorNote": "Send it to whoever skipped the input validation — and remind future-you: users will always enter something you never imagined.",
+          "variations": [
+            "Extension: the most expensive comment in any codebase is 'this can never happen.'"
+          ]
+        }
+      }
     }
   ]
 }

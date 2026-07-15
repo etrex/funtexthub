@@ -6239,6 +6239,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-212",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9497360",
+      "sourceNote": "申請租屋補助反被房東漲租、新法禁止 news; rewritten original",
+      "tags": [
+        "租屋補助",
+        "漲租",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "好不容易申請到租屋補助，\n房東比政府還早一步，直接把補助的金額加到房租上。",
+          "editorNote": "傳給剛送出租屋補助申請、隔天就收到漲租通知的朋友，提醒他新法已規定房東不得因為申請補助而漲租或拒租",
+          "variations": [
+            "補助入帳那天我很開心，隔天房東的漲租訊息讓我瞬間清醒。",
+            "政府補助我一部分，房東順手把另一部分也補走了。"
+          ]
+        },
+        "en": {
+          "content": "I finally got my rent subsidy approved,\nand my landlord beat the government to it—he added the exact same amount straight onto my rent.",
+          "editorNote": "For a friend who just filed for a housing subsidy and got a rent-hike text the next morning—remind them the new law bans landlords from raising rent or refusing renewal over a subsidy claim",
+          "variations": [
+            "The subsidy hit my account, and the rent-increase message hit the next day.",
+            "The government helped with one half; my landlord helpfully took the other half too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-213",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://cheezburger.com/38562053/22-memes-fresh-on-the-market-for-renters-who-are-fed-up-with-the-landlord-special",
+      "sourceNote": "landlord special white paint 'renovated' meme; rewritten original",
+      "tags": [
+        "裝潢",
+        "漲租",
+        "房東",
+        "看房"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說這間「剛重新整理過」，\n我看了半天，只有牆壁多刷了一層白漆，租金多刷了三千。",
+          "editorNote": "傳給正在看「新整理」房源、卻覺得跟舊照片長得一模一樣的朋友，提醒他整理過不等於修繕過",
+          "variations": [
+            "所謂重新裝潢，就是把發霉的地方刷白，把房租刷高。",
+            "他說全部翻新，其實只翻新了報價單。"
+          ]
+        },
+        "en": {
+          "content": "The landlord said the place was 'recently renovated.'\nAfter a good look, the only new thing was a coat of white paint—and four hundred bucks on the rent.",
+          "editorNote": "For a friend touring a 'newly renovated' unit that looks identical to the old listing photos—remind them repainted isn't the same as repaired",
+          "variations": [
+            "'Renovated' just means they painted over the mold and painted a bigger number on the rent.",
+            "He said the whole place was updated. The only thing updated was the price."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-214",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://cheezburger.com/36338181/24-relatable-apartment-memes-for-tired-renters-ready-to-own-property",
+      "sourceNote": "'cozy studio = hallway with a microwave' meme; rewritten original",
+      "tags": [
+        "套房",
+        "看房",
+        "租屋廣告",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "廣告寫「溫馨小套房」，\n看房才發現溫馨是真的——床、廚房、馬桶擠在一起，想不溫馨都難。",
+          "editorNote": "傳給正在滑租屋網、被「溫馨」「精緻」這種形容詞燒到的朋友，提醒他這些字通常是「小」的委婉說法",
+          "variations": [
+            "溫馨的意思是小，精緻的意思是更小，麻雀雖小的意思是連麻雀都嫌小。",
+            "看到「採光佳」我還心動，進去才知道那道光是隔壁大樓反射的。"
+          ]
+        },
+        "en": {
+          "content": "The listing said 'cozy studio.'\nI toured it and cozy checked out—the bed, kitchen, and toilet were close enough to hold hands.",
+          "editorNote": "For a friend scrolling rental sites and getting sold on words like 'cozy' and 'charming'—remind them those are polite ways to spell 'tiny'",
+          "variations": [
+            "'Cozy' means small, 'charming' means smaller, and 'efficient' basically means a hallway with a microwave.",
+            "I got excited about 'great natural light,' then learned the light was a reflection off the building next door."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-215",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://thunderdungeon.com/2026/01/13/25-renter-memes-for-anyone-stuck-in-the-lease-loop/",
+      "sourceNote": "'saying it's fine while quietly researching tenant rights' meme; rewritten original",
+      "tags": [
+        "漏水",
+        "押金",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "漏水，我說沒關係。\n漲租，我說沒關係。\n押金被亂扣，我說沒關係。\n然後我默默打開手機，開始查租賃專法。",
+          "editorNote": "傳給嘴上一直說沒關係、其實已經偷偷在查內政部定型化契約的朋友，提醒他沒關係也是有上限的",
+          "variations": [
+            "我對房東的每一句「沒關係」，其實都在幫自己蒐證。",
+            "我不是好脾氣，我只是在等契約到期那天一次算清楚。"
+          ]
+        },
+        "en": {
+          "content": "Leak? It's fine.\nRent hike? It's fine.\nRandom deposit deductions? It's fine.\nThen I quietly open my phone and start reading up on tenant rights.",
+          "editorNote": "For a friend who keeps saying 'it's fine' out loud while secretly googling the standard lease rules—remind them 'fine' has a limit too",
+          "variations": [
+            "Every 'it's fine' I say to my landlord is really me gathering evidence.",
+            "I'm not easygoing—I'm just waiting for the lease to end so I can settle up all at once."
+          ]
+        }
+      }
     }
   ]
 }

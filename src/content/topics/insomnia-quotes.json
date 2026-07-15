@@ -5967,6 +5967,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-207",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://sweetsleeptips.com/cant-sleep-quotes-funny/",
+      "sourceNote": "Inspired by 'I don't count sheep, I count how many hours until I wake up'; rewritten as a shrinking-math countdown spiral",
+      "tags": [
+        "失眠",
+        "數學",
+        "自嘲",
+        "凌晨三點"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點半，我開始算數學：\n現在睡著的話，還能睡四個半小時。\n算完抬頭，已經兩點五十了，只剩四小時十分。\n我不是在睡覺，我是在倒數。",
+          "editorNote": "適合那種越算「還能睡幾小時」、越算越清醒的夜晚。這種心算折磨，熬夜的人一看就懂。",
+          "variations": [
+            "我不數綿羊，我數的是離鬧鐘響還剩幾個小時。",
+            "每算一次剩幾小時，那個數字就自動幫我扣掉十分鐘。"
+          ]
+        },
+        "en": {
+          "content": "2:30am, and I start doing math:\nif I fall asleep now, I still get four and a half hours.\nI look up — it's 2:50, so now it's four hours ten.\nI'm not sleeping, I'm running a countdown.",
+          "editorNote": "For the night where calculating 'how many hours left' only makes you more awake. Every insomniac has run this exact math.",
+          "variations": [
+            "I don't count sheep. I count how many hours are left until the alarm.",
+            "Every time I recheck the hours left, the number quietly docks itself another ten minutes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-208",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://sweetsleeptips.com/cant-sleep-quotes-funny/",
+      "sourceNote": "Inspired by 'My bed is a magical place where I suddenly remember everything I was supposed to do'; rewritten with a punchline about it being useless at 3am",
+      "tags": [
+        "失眠",
+        "待辦事項",
+        "自嘲",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的床是個神奇的地方。\n只要一躺上去，白天忘得一乾二淨的待辦事項，\n就會全部自動跳出來排隊提醒我。\n偏偏現在是凌晨三點，一件都辦不了。",
+          "editorNote": "適合躺下才想起一堆該做沒做的事的時候。那種「想起來也沒用」的無力感，最好笑也最真實。",
+          "variations": [
+            "白天的我：一片空白。\n躺下的我：突然變成全世界最盡責的行事曆。",
+            "我的床不是拿來睡的，是拿來提醒我今天又漏做了什麼。"
+          ]
+        },
+        "en": {
+          "content": "My bed is a magical place.\nThe second I lie down, every task I completely forgot all day\nlines up and politely reminds me, one by one.\nToo bad it's 3am and I can't do a single one of them.",
+          "editorNote": "For when lying down flips on your memory for every undone chore. The 'remembering it now helps nothing' helplessness is the funniest part.",
+          "variations": [
+            "Daytime me: total blank.\nHorizontal me: suddenly the most diligent calendar on earth.",
+            "My bed isn't for sleeping. It's for reminding me what I forgot to do today."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-209",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://sweetsleeptips.com/cant-sleep-quotes-funny/",
+      "sourceNote": "Inspired by 'my brain starts a podcast with zero replay value'; rewritten with no-ads/can't-skip/can't-unsubscribe framing",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "自嘲",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每次我一閉上眼，\n我的腦子就開始播一集 Podcast。\n沒有廣告、不能快轉、也不能取消訂閱，\n主題永遠是：我這輩子搞砸過的每一件事。",
+          "editorNote": "適合腦袋自動開台、播放黑歷史精選輯的夜晚。用 Podcast 來比喻，年輕族群特別有共鳴。",
+          "variations": [
+            "我腦內這個節目，收聽率一人，準時凌晨開播，永不停播。",
+            "別人睡前聽白噪音助眠，我睡前聽我的腦子逐條念我的缺點。"
+          ]
+        },
+        "en": {
+          "content": "Every time I close my eyes,\nmy brain drops a fresh podcast episode.\nNo ads, no skipping, no way to unsubscribe,\nand the topic is always every single thing I've ever messed up.",
+          "editorNote": "For nights when your mind auto-plays a greatest-hits reel of your failures. The podcast framing lands especially well with younger readers.",
+          "variations": [
+            "This show in my head: audience of one, airs on time every night, never goes on hiatus.",
+            "Some people fall asleep to white noise. I fall asleep to my brain reading out my flaws, item by item."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-210",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://jokeorbit.com/3am-jokes/",
+      "sourceNote": "Inspired by 'my brain has unlimited nighttime data' and 'I'd get more sleep if my brain had an off switch'; combined into a power-saving vs unlimited-plan bit",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "自嘲",
+        "凌晨三點"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "白天我的腦子開省電模式，什麼都想不起來。\n一到半夜，它立刻切換成吃到飽方案，\n開始無限暢想，越想越精神。\n我只想知道，那個關機鍵到底藏在哪。",
+          "editorNote": "適合白天當機、半夜卻思緒狂飆的人。省電模式 vs 吃到飽的對比，戳中每個想找腦袋開關的人。",
+          "variations": [
+            "我的腦子有夜間吃到飽，流量無上限，可惜只拿來想些沒用的。",
+            "如果腦袋有關機鍵，我願意付費升級。"
+          ]
+        },
+        "en": {
+          "content": "By day my brain runs on power-saving mode and remembers nothing.\nCome midnight it switches to the unlimited plan,\nstreaming thoughts non-stop, wider awake by the minute.\nI just want to know where they hid the off switch.",
+          "editorNote": "For people who glitch out all day but race with thoughts at night. The power-saving-vs-unlimited-plan contrast hits anyone hunting for their brain's off switch.",
+          "variations": [
+            "My brain has an unlimited nighttime data plan, no cap — shame it only streams useless stuff.",
+            "If my brain came with an off switch, I'd happily pay to upgrade."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-211",
+      "dateAdded": "2026-07-15",
+      "sourceUrl": "https://jokeorbit.com/3am-jokes/",
+      "sourceNote": "Inspired by 'the 3am love language is overthinking texts from 2018'; rewritten as rereading an old conversation and adding the replies you never sent",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "翻舊帳",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點的浪漫，\n是把 2018 年那段對話從頭再讀一次，\n然後在腦裡補上當時該回、卻沒回的每一句。\n八年後的我，總算贏了這場對話。",
+          "editorNote": "適合半夜手滑翻到舊訊息、越滑越睡不著的時候。那種「事後才想到怎麼回」的懊惱，大家都有。",
+          "variations": [
+            "半夜的我，專門負責幫幾年前的我，把沒說出口的話一次補齊。",
+            "別人睡前放空，我睡前重播那段早就該封存的對話。"
+          ]
+        },
+        "en": {
+          "content": "The 3am love language\nis rereading that whole conversation from 2018,\nthen mentally adding every reply I should have sent but didn't.\nEight years later, I finally win the exchange.",
+          "editorNote": "For when you thumb into an old chat at midnight and can't stop scrolling. The 'thought of the perfect reply too late' regret is universal.",
+          "variations": [
+            "Midnight me exists to finish the sentences that years-ago me left unsaid.",
+            "Some people clear their minds before bed. I replay a conversation that should've been archived long ago."
+          ]
+        }
+      }
     }
   ]
 }
