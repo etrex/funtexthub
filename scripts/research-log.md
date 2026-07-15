@@ -6759,3 +6759,50 @@ Done items collapsed; only live priorities listed.
 10. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period/drama-binge 古裝劇 cluster 候選獨立評估，暫 carry。
 11. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼（台股 + K 型 cross-link）。
 12. **[FLAG — SKIP 不變]** 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 校園霸凌 + 超哥爭議 全 SKIP。『超派』純語氣可用；YBSG 去政治化只取『太扯/太厲害』語氣勿帶政治出處；班味/活人感/精神離職/破防/暈爛/朋朋/接住/初級高級大人/高麗菜煮蛋那桌 正向或純厭世/自嘲共鳴無敏感（精神離職取『心累自保』勿煽動離職）；颱風收尾取通用共鳴，山區續放與農損勿消費災情、帶關懷。
+
+## 2026-07-15 Research Report
+
+### New Topic Recommendations（皆併入既有 topic，勿獨立建檔）
+
+1. **世界盃西班牙 2:0 淘汰法國進決賽／7/16 英阿宿敵爭最後一席 · Spain Downs France, Enters Final — England-Argentina for the Last Ticket（併入 worldcup-quotes，勿獨立）** — **7/15 03:00 準決賽西班牙 2:0 法國（Oyarzabal PK＋Pedro Porro，接 Dani Olmo 助攻），隔 16 年再闖決賽（2010 奪冠後首次）、連續 3 年國際賽 4 強淘汰法國、終結姆巴佩本屆美夢，法國轉季軍戰；7/16 03:00 英格蘭 vs 阿根廷爭另一決賽席（梅西生涯首度對戰英格蘭、宿敵『上帝之手／貝克漢紅牌』5 度交鋒英 3 勝 2 敗）、7/19 05:00 季軍戰、7/20 03:00 冠軍戰（皆台灣時間）；且本屆為史上首次世界排名前 4（法/西/阿/英）全數闖進 4 強。priority HIGH（情緒軸『衛冕熱門法國止步季軍＝再強也有下車那站＋7/16 梅西宿敵戰＝歷史恩怨提前上演＋冠軍戰週一凌晨 3 點看完直接上班的排程惡夢＋前 4 全到齊沒有僥倖只有硬仗』）**:
+   - SEO rationale: 7/15 多源確認（明報『西班牙 2:0 擊敗法國、隔 16 年再闖決賽、連續 3 年國際賽 4 強淘汰對手』/ Al Jazeera『France 0-2 Spain semifinal as it happened』/ FIFA/ESPN『France 0-2 Spain final score』/ NBC News『Spain defeats France 2-0 to advance to final』/ HK01『世界盃首次世界排名前 4 球隊全入 4 強』/ 蘋果仁『7/15 法國 vs 西班牙 4 強賽前重點直播平台』多源 2026；7/16 英阿引 Yahoo『阿根廷英格蘭宿敵再戰、上帝之手到貝克漢紅牌 5 度交鋒』/ 世界新聞網『梅西生涯首度對決英格蘭：感覺很特別』/ NOWnews『7/16 英格蘭 VS 阿根廷 4 強懶人包』）。**西班牙 2:0 法國：上半場 22 分 Oyarzabal 主罰 12 碼、下半場 58 分 Pedro Porro 破門；西班牙續前年歐國盃、去年歐國聯後連 3 年 4 強淘汰法國。7/16 03:00 英阿爭最後決賽席、7/20 03:00 冠軍戰（紐澤西）。** 「西班牙 法國 賽果 / 英格蘭 阿根廷 / 梅西 英格蘭 / 冠軍戰 時間 / 4 強 直播」search 7/15-7/20 持續本屆峰值。**情緒軸『衛冕熱門法國也有下車那站＝再強都可能止步／7/16 梅西 vs 英格蘭把上帝之手/貝克漢紅牌的歷史恩怨搬上檯面／冠軍戰週一凌晨 3 點含淚看完直接進公司／世界排名前 4 全擠 4 強＝每一場都像提前的決賽』。**
+   - 建議: **worldcup-quotes carry 2-3 items，主推『法國止步季軍/英阿宿敵戰/冠軍戰週一排程』軸**。register「連奪冠熱門都有下車那一站原來再強也躲不過淘汰賽／西班牙等 16 年再進決賽我等週五只要等 4 天有夠慚愧／7/16 這場宿敵戰的恩怨比我跟鬧鐘的還深／冠軍戰排在週一凌晨 3 點是要我看完直接刷卡上班嗎／世界排名前 4 全擠進 4 強這屆沒有安慰獎只有硬仗」。en「Even the favorites have a stop where they get off — no one outruns the knockouts／Spain waited 16 years to reach a final; I only wait four days for Friday, kind of embarrassing／the final's at 3 a.m. Monday — watch it, then badge straight into the office／all four top-ranked sides in the semis: no consolation bracket, just war」。**撰稿以『西班牙 2:0 法國已進決賽、法國轉季軍、7/16 英vs阿爭最後一席、7/19 季軍、7/20 冠軍戰』為準；7/16 英阿與冠軍戰賽果未打完不預測不寫死。** cross-link insomnia（熬夜看準決賽/週一凌晨冠軍戰）+ workplace（冠軍戰週一排程惡夢/含淚上班）+ cold-jokes（點球/宿敵/出線諧音）+ motivational（能站上 4 強沒有弱者/西班牙等 16 年）+ healing（等待讓決賽更甜）。
+
+2. **熱浪襲台、大暑 7/23 逼近 · Heatwave Hits, Major Heat (Dashu) Approaching（併入 summer-electric-quotes + diet/travel/student，勿獨立）** — **7/14 氣象署熱浪警報，8 縣市橙/黃燈號、西半部日高溫 33-36 度、雙北盆地與中南部內陸更高；大暑 7/23（T-8，太陽到黃經 120°、三伏天『中伏』前後、一年最熱）將至；太平洋高壓增強、午後雷雨漸縮、夏季型態穩定。priority MEDIUM（情緒軸『冷氣電費帳單陸續寄達的痛＋出門像走進烤箱的中暑防曬＋暑假耍廢躲冷氣＋夏日減重被高溫勸退』）**:
+   - SEO rationale: 7/15 多源確認（Newtalk『熱浪襲 8 縣市、氣象署防熱傷害恐中暑』/ 民報『7 月迎盛夏高溫飆 36 度、午後雷雨漸縮減』/ 二十四節氣『2026 大暑 7/23、三伏天中伏、一年最熱』/ CWA 熱傷害橙黃燈號多源 2026）。**橙色燈號（36 度以上連 3 天）：彰化/雲林/台南/花蓮；黃色燈號（36 度以上）：北北/彰化/雲林/嘉義/台南/花蓮/台東。西半部 33-36 度、盆地內陸更高。大暑 7/23 為節氣中最熱。** 「熱浪 / 高溫 幾度 / 大暑 2026 / 中暑 防曬 / 冷氣 電費」search 7 月中下旬升溫。**情緒軸『夏月電價帳單陸續入帳的荷包痛＋走出門像進烤箱的防曬中暑＋暑假整天躲冷氣耍廢＋高溫把減重意志蒸發』——常青共鳴、勿引不實電價數字。**
+   - 建議: **summer-electric-quotes carry 1-2 items（冷氣電費/夏月電價痛）+ diet 吸收『高溫把減重意志蒸發』+ travel 吸收『暑假出遊被曬到融化/找室內景點』+ student 吸收『暑假躲冷氣耍廢』**。register「熱浪來的時候我跟冷氣的感情比誰都穩定／大暑還沒到我的電費帳單已經先中暑／出門五分鐘防曬白擦流汗全洗掉／說好的夏日減重被 36 度直接勸退／暑假最忠誠的伴侶是那台從早轉到晚的冷氣」。en「When the heatwave hits, my most stable relationship is with the AC／Dashu isn't even here yet and my power bill already has heatstroke／five minutes outside and the sunscreen's washed off by sweat／summer diet goals, meet 36°C — goodbye」。**電價取『帳單痛/夏月電價』通用共鳴，勿引『一度 8.12 元』等不實數字。中暑/防曬帶提醒性正向。** cross-link diet（高溫勸退減重）+ travel（暑假曬融/室內景點）+ student（暑假躲冷氣）+ renting（套房電費/冷氣）+ insomnia（熱到睡不著）。
+
+3. **Threads 梗池再刷新／高麗菜煮蛋那桌・留友看・哭哭馬喪萌・馬倒成功 · Fresh Threads Slang（併入 slang-quotes + witty/self-love/adulting，勿獨立）** — **7/15 多源盤點台灣 Threads 原生梗：『高麗菜煮蛋那桌』（分享超強生活妙招→留言刷『請去高麗菜那桌坐』＝智慧高手該坐最貴包廂的服氣式吐槽）、『留友看』（『留著給朋友看』濃縮語，太離譜/太好笑/太實用就留言＋截圖傳群組）、『哭哭馬』（喪萌玩偶，精準命中『喪萌』心理）、『馬倒成功』（2026 馬年諧音自嘲，把祝賀語改喪系）；priority MEDIUM（情緒軸『對生活高手的服氣吐槽／值得分享的濃縮衝動／喪萌自嘲／馬年諧音厭世』）**:
+   - SEO rationale: 7/15 多源確認（PopDaily『2026 Threads 爆紅 5 個梗精準戳中台灣網友靈魂』/ UpToGo『2026 有什麼梗網路爆紅流行語總整理』/ Yahoo『台灣 Threads 用戶佔全球 21.08% 世界第一、趨勢話題新功能』多源 2026）。**台灣 Threads 佔全球用戶 21.08% 世界第一、梗池汰換快。『高麗菜煮蛋那桌』源 2024 插畫家火鍋妙招、『留友看』為原生濃縮語、『哭哭馬/馬倒成功』貼合馬年喪萌自嘲。** 「高麗菜煮蛋那桌 意思 / 留友看 / 哭哭馬 / 馬倒成功 / Threads 梗」search 續熱。**情緒軸『高麗菜那桌＝對生活高手的心服口服吐槽／留友看＝好到想馬上分享的衝動／哭哭馬＝喪萌的療癒自嘲／馬倒成功＝馬年諧音的厭世幽默』。**
+   - 建議: **slang-quotes carry 2-3 條，每條附語意＋使用情境＋例句改寫（勿照抄定義）；witty/self-love/adulting 各吸收 1 item**。register「看到有人分享神級妙招我只想說請你去高麗菜那桌坐上座／這則太實用我先留友看再截圖傳三個群組／今天的我是一隻哭哭馬可愛歸可愛但真的想躺平／新年目標從馬到成功默默改成馬倒成功比較符合現況」。en「Someone drops a genius life hack and all I can say is: please, take the head seat at the cabbage table／this is too useful — saving it to share, then screenshotting it to three group chats／today I'm a little cry-horse plushie: cute, sure, but I'd really like to lie flat」。**取通用情緒/自嘲不強綁短命梗；『我ven一下』源模仿中國遊客口音且牽涉政治人物，SKIP 勿碰；『哭哭馬/馬倒成功』取純喪萌自嘲勿帶政治框架。** cross-link witty-comebacks（服氣式吐槽）+ self-love（喪萌/躺平的自我接納）+ adulting（馬倒成功的厭世幽默）+ workplace（班味/精神離職 carry）。
+
+### Content Trends
+- **7/15 世界盃進入決賽週高潮**：西班牙 2:0 法國率先進決賽（隔 16 年、連 3 年 4 強淘汰法國），焦點轉向 7/16 03:00 英阿宿敵戰（梅西生涯首戰英格蘭＋上帝之手/貝克漢紅牌歷史）與 7/20 03:00 冠軍戰。**史上首次世界排名前 4 全入 4 強**成為本屆最強敘事。worldcup-quotes 為本週最強 timely 信號，共用『熬夜看球／週一凌晨冠軍戰含淚上班／再強也有下車那站』情緒公因數，cross-link insomnia/workplace/motivational。
+- **夏季高溫常青軸接棒颱風退場**：熱浪 8 縣市橙黃燈號、大暑 7/23 逼近，冷氣電費/中暑防曬/暑假躲冷氣/高溫勸退減重成穩定信號，summer-electric/diet/travel/student/renting 承接。**勿引不實電價數字，中暑帶提醒性正向。**
+- **Threads 梗池刷新（餵 slang-quotes）**：本週新增『高麗菜煮蛋那桌（服氣吐槽）／留友看（分享衝動）／哭哭馬・馬倒成功（馬年喪萌自嘲）』，carry『ㄅ級分／朋朋／接住／班味／精神離職』。台灣 Threads 佔全球 21.08% 世界第一、梗汰換快——slang-quotes 每條附語意＋情境＋改寫，避免短命與過度小眾梗。**『我ven一下』SKIP（模仿中國遊客口音＋牽涉政治人物）；喪萌梗去政治化只取自嘲。**
+- **8 月情感群 drafting（T 持續縮短）**：大暑 7/23（T-8）→ 台灣父親節 8/8（T-24，週六）→ 七夕 8/19（T-35，週三，農曆七月初七）→ 中元。sweet/cheesy（七夕土味情話）、fathers-day-quotes（台灣 8/8）、cdrama-period（古裝甜寵）drafting 升溫。**七夕以 8/19 為準（部分來源誤植 8/25/8/29，勿採用）；US 父親節 6/21 已 CLOSED。**
+- **Q3 暑假追劇主峰延續**（餵 drama/drama-binge/korean-drama/cdrama-period）：7 月陸劇《這一秒過火》（張凌赫/王楚然民國虐戀，暑假第一話題爆棚）《百花殺》《燦如繁星》《野狗骨頭》、韓劇《鬼謎東宮》（南柱赫退伍首作）《驚悚的戀愛》（朴恩斌）、校園劇《熾夏》帶動青春校園劇回溫。**熬夜看球＋暑假躲冷氣追劇＋校園青春療癒，追劇軸穩定接棒。**
+
+### Existing Topic Updates
+- **worldcup-quotes（7/15 西班牙進決賽/英阿宿敵戰/冠軍戰週一排程, priority HIGH）**：主打『衛冕熱門法國止步季軍＝再強也有下車那站／7/16 梅西宿敵戰把歷史恩怨搬上檯面／冠軍戰週一凌晨 3 點含淚上班／前 4 全到齊沒有安慰獎』carry 2-3 items。**以『西班牙 2:0 法國已進決賽、7/16 英vs阿、7/20 冠軍戰』為準，7/16 與冠軍賽果不預測。** cross-link insomnia/workplace/cold-jokes/motivational/healing。
+- **summer-electric/diet/travel/student/renting（7/15 熱浪+大暑 7/23 T-8, priority MEDIUM）**：「熱浪來時我跟冷氣感情最穩／大暑還沒到電費先中暑／出門五分鐘防曬全洗掉／高溫直接勸退減重」1-2 items（summer-electric）＋各 1 item。**勿引不實電價，中暑防曬帶提醒性正向。**
+- **slang-quotes/witty/self-love/adulting（7/15 Threads 新梗 高麗菜那桌/留友看/哭哭馬/馬倒成功, priority MEDIUM）**：「請去高麗菜那桌坐＝服氣吐槽／留友看＝分享衝動／哭哭馬＝喪萌躺平／馬倒成功＝馬年諧音厭世」2-3 items（slang）＋各 1 item。附語意＋情境＋改寫，勿強綁短命梗；『我ven一下』SKIP，喪萌梗去政治化。
+- **sweet/cheesy/fathers-day/cdrama-period（7/15 8 月情感群 drafting, 大暑 T-8/父親節 8/8 T-24/七夕 8/19 T-35, priority MEDIUM）**：七夕土味情話（「一週有七天你猜我喜歡哪一天／有你的每一天」）＋fathers-day（台灣 8/8）＋cdrama-period（古裝甜寵）drafting。**七夕以 8/19 為準（勿誤植 8/25/8/29）；US 父親節 6/21 已 CLOSED。** cross-link wedding（8 月婚禮旺季）+ adulting。
+- **drama/drama-binge/korean-drama/cdrama-period（7/15 Q3 暑假追劇主峰 + 校園劇回溫, priority MEDIUM）**：「這一秒過火民國虐戀／百花殺古裝／熾夏帶動青春校園劇回溫／鬼謎東宮南柱赫退伍首作／驚悚的戀愛朴恩斌／熬夜看球後再追一集」1 item。cdrama-period 古裝劇 cluster 暑假主峰候選獨立評估。
+- **insomnia/workplace/adulting（7/15 熬夜看球+冠軍戰週一排程, priority MEDIUM）**：「熬夜看準決賽/週一凌晨冠軍戰含淚上班／熱到睡不著」carry；workplace 吸收冠軍戰週一排程惡夢。
+- **concert-ticket-quotes（五月天雙場 7/12 落幕, priority LOW）**：回歸搶票/退票/改期常青，颱風延期雙場梗 carry 完轉 organic。
+- **holiday-jokes（颱風收尾轉休眠, priority LOW）**：巴威已 CLOSED，下一節慶窗口 8 月（父親節+七夕+中元）。
+- **cat/dog/pet-memorial/mom/zodiac/wedding/couple-jokes/cold-jokes/service/fitness/motivational/breakup/stock-investor/human-design/programmer/absurd-wisdom/exam/graduation**：organic 觀察期。cold-jokes opportunistic 吸收世足諧音（宿敵/點球/出線）1 item low；motivational 吸收『能站上 4 強沒有弱者/西班牙等 16 年也值得』1 item low；programmer 吸收『冠軍戰凌晨 3 點看完直接 standup』1 item low；wedding carry「8 月婚禮旺季」organic；exam-quotes 深度休眠至 2027/6。
+
+### Updated Action Priority
+1. **[HIGH — 7/15 世界盃西班牙進決賽/英阿宿敵戰/冠軍戰週一排程]** worldcup-quotes →「再強也有下車那站／梅西宿敵戰的歷史恩怨／冠軍戰週一凌晨 3 點含淚上班／前 4 全到齊沒有安慰獎」carry 2-3 items。**以『西班牙 2:0 法國已進決賽、7/16 英vs阿、7/20 冠軍戰』為準，7/16 與冠軍賽果不預測。** cross-link insomnia/workplace/cold-jokes/motivational/healing。
+2. **[MEDIUM — 7/15 熱浪+大暑 7/23 T-8]** summer-electric（1-2 items 冷氣電費/中暑）+ diet/travel/student/renting（各 1 item）。**勿引不實電價，中暑防曬帶提醒性正向。**
+3. **[MEDIUM — 7/15 Threads 新梗 高麗菜那桌/留友看/哭哭馬/馬倒成功]** slang-quotes（2-3 條附語意情境改寫）+ witty/self-love/adulting（各 1 item）。**『我ven一下』SKIP；喪萌梗去政治化只取自嘲。**
+4. **[DRAFTING — 7/15 8 月情感群 大暑 T-8/父親節 8/8 T-24/七夕 8/19 T-35]** sweet/cheesy（七夕土味情話）+ fathers-day（台灣 8/8）+ cdrama-period（古裝甜寵）drafting。**七夕以 8/19 為準（勿誤植 8/25/8/29）；US 父親節 6/21 已 CLOSED。**
+5. **[MEDIUM — 7/15 Q3 暑假追劇主峰 + 校園劇回溫]** drama/drama-binge/korean-drama/cdrama-period「這一秒過火／百花殺／熾夏校園劇回溫／鬼謎東宮／驚悚的戀愛／熬夜看球後再追一集」1 item。cdrama-period 古裝劇 cluster 候選獨立評估。
+6. **[MEDIUM — 7/15 熬夜看球+冠軍戰週一排程]** insomnia/workplace/adulting「熬夜看準決賽/週一凌晨冠軍戰含淚上班/熱到睡不著」carry。
+7. **[LOW — 五月天雙場落幕]** concert-ticket-quotes 回歸搶票/退票/改期常青。
+8. **[CLOSED — 颱風巴威 / 會考放榜 7/7 / 端午 6/19 / 報稅 6/1 / US 父親節 6/21]** holiday-jokes 颱風收尾轉休眠；exam-quotes 深度休眠至 2027/6；端午/報稅/US 父親節深度休眠。
+9. **[NEW OBSERVE — Q3 7-8 月暑假追劇主峰]** cdrama-period/drama-binge 古裝劇 cluster 候選獨立評估，暫 carry。
+10. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼（台股 + K 型 cross-link）。
+11. **[FLAG — SKIP 不變]** 國會預算戰 + 中國軍演 + 民眾黨主席 + 海巡衝突 + 校園霸凌 + 超哥爭議 全 SKIP。『我ven一下』（模仿中國遊客口音＋政治人物）SKIP；YBSG 去政治化只取語氣；哭哭馬/馬倒成功/班味/精神離職/朋朋/接住/高麗菜那桌 純喪萌/自嘲/服氣共鳴無敏感（精神離職取『心累自保』勿煽動離職）；熱浪/中暑取通用共鳴帶提醒性正向；世界盃賽果隨賽程更新不寫死。
