@@ -9377,6 +9377,141 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-325",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'Light attracts bugs' dark-mode joke — rewritten with fresh setup",
+      "tags": [
+        "工程師日常",
+        "bug",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問資深工程師：「為什麼你們都用黑底的深色模式啊？看起來好酷。」\n資深工程師頭也不抬：「不是為了酷，是因為亮的地方會招蟲。」",
+          "editorNote": "傳給那個問你為什麼螢幕黑漆漆的同事或家人，簡短又有畫面。",
+          "variations": [
+            "延伸：所以我家窗簾也拉起來，預防生產環境的 bug 飛進來。"
+          ]
+        },
+        "en": {
+          "content": "A new hire asked a senior dev: \"Why does everyone here use dark mode? Is it just to look cool?\"\nThe senior dev didn't look up: \"It's not for the look. Light attracts bugs.\"",
+          "editorNote": "Send it to anyone who's asked why your screen is pitch black. Short, and instantly visual.",
+          "variations": [
+            "Extension: 'That's also why I keep the blinds shut — production bugs might fly in.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-326",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
+      "sourceNote": "'Vibe coding' AI-assisted development humor — original 2025 angle",
+      "tags": [
+        "AI",
+        "工程師日常",
+        "程式碼品質"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在的開發流程長這樣：\n早上，AI 幫我把整個功能寫完了，我覺得自己是天才。\n下午，功能壞了，我看著那段 code，發現我一行都看不懂。\n晚上，我在跟 AI 求它教我它自己寫了什麼。",
+          "editorNote": "傳給那個整天喊「交給 AI 就好」的同事，順便附上一句『那你來 debug』。",
+          "variations": [
+            "延伸：以前是 Google 一下，現在是問 AI 三次然後假裝我本來就會。"
+          ]
+        },
+        "en": {
+          "content": "Modern development in a nutshell:\nMorning: the AI writes the whole feature for me. I feel like a genius.\nAfternoon: the feature breaks. I stare at the code and realize I can't read a single line.\nEvening: I'm begging the AI to explain what it wrote.",
+          "editorNote": "Send it to the teammate who keeps saying 'just let the AI handle it,' with a friendly 'okay, you debug it then.'",
+          "variations": [
+            "Extension: it used to be a quick Google search. Now it's asking the AI three times and pretending I knew all along."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-327",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
+      "sourceNote": "'I love the whooshing sound deadlines make' — Douglas Adams style, rewritten",
+      "tags": [
+        "工程師語錄",
+        "拖延",
+        "開發哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我很喜歡截止日期。\n尤其喜歡它們從我身邊呼嘯而過的那個聲音。",
+          "editorNote": "專案延期時貼到群組，苦中作樂的最高境界，PM 看了會流淚。",
+          "variations": [
+            "延伸：我的估時很準，只要把我講的數字乘以三，再換一個單位就好。"
+          ]
+        },
+        "en": {
+          "content": "I really love deadlines.\nEspecially the whooshing sound they make as they fly right past me.",
+          "editorNote": "Drop it in the channel when a project slips. Peak gallows humor — your PM will weep.",
+          "variations": [
+            "Extension: my estimates are very accurate. Just take my number, multiply by three, and swap the unit."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-328",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'50% fixing bugs, 50% explaining it's not a bug' — rewritten",
+      "tags": [
+        "工程師日常",
+        "bug",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的工作內容其實很單純：\n一半的時間在修 bug，\n另一半的時間在跟人解釋那個不是 bug，是「功能」。",
+          "editorNote": "被 PM 或客戶回報「這是不是壞了」時，先傳這則給隊友取暖再回覆。",
+          "variations": [
+            "延伸：這不是 bug，這是一個還沒有寫進文件的隱藏彩蛋。"
+          ]
+        },
+        "en": {
+          "content": "A developer's job is actually pretty simple:\nHalf the time you're fixing bugs,\nthe other half you're explaining that it isn't a bug — it's a feature.",
+          "editorNote": "When a PM or client asks 'is this broken?', send this to your teammates first, then reply.",
+          "variations": [
+            "Extension: it's not a bug, it's an undocumented easter egg."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-329",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://carlanotarobot.medium.com/ultimate-list-of-programmer-jokes-puns-and-other-funnies-75264f29baa3",
+      "sourceNote": "Classic recursion joke — 'to understand recursion...' rewritten",
+      "tags": [
+        "遞迴",
+        "工程師思維",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問：「學長，遞迴到底是什麼？」\n學長：「你想懂遞迴，得先去問一個懂遞迴的人。」\n新人：「那我現在問的這個人懂嗎？」\n學長：「你想懂遞迴，得先去問一個懂遞迴的人。」",
+          "editorNote": "教學時丟這則暖場，笑完再講定義，新人反而記得更牢。",
+          "variations": [
+            "延伸：想搜尋『遞迴』，Google 會回你：你是不是要找『遞迴』？"
+          ]
+        },
+        "en": {
+          "content": "A junior asked: \"So what exactly is recursion?\"\nThe senior said: \"To understand recursion, you first have to ask someone who understands recursion.\"\nJunior: \"Does the person I'm asking right now understand it?\"\nSenior: \"To understand recursion, you first have to ask someone who understands recursion.\"",
+          "editorNote": "Use it to warm up a lesson. Explain the actual definition after the laugh — it sticks better.",
+          "variations": [
+            "Extension: search 'recursion' and Google replies, 'Did you mean: recursion?'"
+          ]
+        }
+      }
     }
   ]
 }

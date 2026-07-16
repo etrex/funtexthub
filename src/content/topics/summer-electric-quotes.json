@@ -4869,6 +4869,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-164",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://news.nextapple.com/finance/20260602/389630F79B14145664FF25CA107CD213",
+      "sourceNote": "史上最貴電價 最高級距每度 8.86 元 漲幅 26%；改寫原創",
+      "tags": [
+        "夏月電價",
+        "史上最貴",
+        "冷氣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說今年是史上最貴的夏天，最高級距一度快九塊。\n我看著冷氣遙控器，突然覺得它不是遙控器，是計程車跳表。\n每按一下溫度往下，錶就多跳一格。\n差別只在於，計程車會載你到目的地，冷氣只會載你到下期帳單。",
+          "editorNote": "傳給那個按冷氣遙控器前會先猶豫三秒的室友，一起面對跳表人生",
+          "variations": [
+            "一度快九塊的夏天，我開冷氣的手，抖得像在簽本票。",
+            "史上最貴級距是每度八塊八六，湊個整數的話——那零頭，是我最後的尊嚴。"
+          ]
+        },
+        "en": {
+          "content": "The news says this is the most expensive summer on record, top tier almost nine bucks a unit.\nI looked at the AC remote and realized it's not a remote — it's a taxi meter.\nEvery press downward, the meter ticks up another notch.\nOnly difference is, a taxi takes you somewhere. The AC just takes you to next month's bill.",
+          "editorNote": "For the roommate who hesitates three seconds before touching the thermostat — meter life, together",
+          "variations": [
+            "Nine bucks a unit, and my hand shakes on the remote like I'm signing a promissory note.",
+            "Top tier is $8.86 a unit. That last six cents? That's my remaining dignity, rounded up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-165",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "半夜用電比較省是迷思 住宅累進電價與時間無關；改寫原創",
+      "tags": [
+        "累進電價",
+        "迷思",
+        "省電",
+        "半夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我一直以為半夜洗衣服、半夜開冷氣比較省錢，過得像個特務。\n後來才知道，一般住宅是累進電價，跟你幾點用一點關係都沒有。\n意思是我這三年來的凌晨兩點洗衣人生，\n省下的不是電費，是睡眠。",
+          "editorNote": "傳給那個堅持半夜偷偷用電、以為自己在跟台電鬥智的家人",
+          "variations": [
+            "半夜用電比較省是迷思，真正被省掉的，是我的黑眼圈額度。",
+            "我以為我在避開尖峰，其實我只是在避開睡覺。"
+          ]
+        },
+        "en": {
+          "content": "For years I believed running the laundry and AC at midnight was cheaper, living like a secret agent.\nTurns out most homes are on tiered pricing — the hour you use power makes zero difference.\nSo those three years of 2 a.m. laundry runs?\nWhat I actually saved wasn't money. It was sleep.",
+          "editorNote": "Send to the family member who sneaks midnight loads thinking they're outsmarting the utility",
+          "variations": [
+            "'Midnight power is cheaper' is a myth — the only thing it saved was my eye bags' budget.",
+            "I thought I was dodging peak hours. I was just dodging bedtime."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-166",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://knit.yam.com/Blog/87-summer-electricity-price-june-rules-air-conditioner-bill-2026",
+      "sourceNote": "住宅兩個月一期 六七八月冷氣疊加 帳單突然跳很多；改寫原創",
+      "tags": [
+        "帳單",
+        "兩個月一期",
+        "冷氣",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "台灣的電費帳單是兩個月一期，這件事我以前覺得很方便。\n直到夏天——兩個月的冷氣，一次跟你算總帳。\n那不是帳單，那是連續劇的季終合輯，\n把你整季的軟弱，濃縮在一張紙上重播給你看。",
+          "editorNote": "傳給那個拆兩個月一期帳單、需要有人陪著一起深呼吸的鄰居",
+          "variations": [
+            "兩個月一期的帳單好處是省信封，壞處是傷害也一次結清。",
+            "夏天的帳單不是月結，是季末結算——把你六七月的每一次「再冷一點」全部打包送回。"
+          ]
+        },
+        "en": {
+          "content": "Bills here come every two months, which I always thought was convenient.\nUntil summer — two months of AC, settled up all at once.\nThat's not a bill, it's the season finale recap,\nreplaying every moment of weakness you had, compressed onto one sheet.",
+          "editorNote": "For the neighbor opening a two-month bill who needs someone to breathe deeply alongside them",
+          "variations": [
+            "The upside of two-month billing is you save envelopes. The downside is the damage arrives in one lump too.",
+            "Summer bills aren't monthly, they're a season-end reckoning — every 'just a little colder' packaged and shipped back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-167",
+      "dateAdded": "2026-07-16",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260604000125-260405",
+      "sourceNote": "清洗濾網每 2-3 週一次 可省電高達 10%；改寫原創",
+      "tags": [
+        "冷氣",
+        "濾網",
+        "省電",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家說：「濾網每兩三週洗一次，可以省到一成的電。」\n我點頭如搗蒜，然後看向我那台濾網——上面的灰，已經厚到可以種菜。\n原來我不是不想省電，\n我只是先一步，把冷氣養成了一座溫室。",
+          "editorNote": "傳給那個嘴上喊省電、濾網卻半年沒拆的自己，該動手了",
+          "variations": [
+            "省電第一步是洗濾網，而我卡在第零步：找到梯子。",
+            "台電要我洗濾網省一成，我的濾網回我：「你先解釋一下這半年發生了什麼事。」"
+          ]
+        },
+        "en": {
+          "content": "The expert says: 'Clean the filter every two to three weeks and save up to ten percent.'\nI nodded eagerly, then glanced at my filter — the dust is thick enough to grow vegetables in.\nTurns out it's not that I don't want to save power.\nI just accidentally turned my AC into a greenhouse first.",
+          "editorNote": "For the you who preaches saving power but hasn't opened the filter in six months — time to move",
+          "variations": [
+            "Step one to saving power is cleaning the filter. I'm stuck on step zero: finding the ladder.",
+            "They told me to clean the filter for ten percent off. The filter replied: 'First, explain what happened these six months.'"
+          ]
+        }
+      }
     }
   ]
 }
