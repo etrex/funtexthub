@@ -6655,6 +6655,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "aq-284",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://dailyview.tw/popular/detail/33240",
+      "sourceNote": "初級大人 ritual/拜拜 uncertainty scenario from Threads trend coverage; rewritten original into contrast format",
+      "tags": ["初級大人", "高級大人", "過年", "家庭"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人拜拜：香點好了，站在神明前完全不知道要拜幾下、什麼順序，只能偷瞄旁邊的媽媽。\n\n高級大人拜拜：香一點，順序、句子、幾拜幾插，一整套流程行雲流水。",
+          "editorNote": "傳給那個每年跟著拜都要先看爸媽動作才敢動的你",
+          "variations": [
+            "初級大人：不知道先拜哪一尊，只好等別人先動。高級大人：進廟就知道動線，還會提醒你金紙怎麼折。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult at the temple: incense lit, standing in front of the altar with no idea how many bows or what order — sneaking a look at Mom.\n\nSenior adult at the temple: lights the incense and runs the whole ritual — order, words, bows — without a second thought.",
+          "editorNote": "For the one who still copies their parents' every move at family prayers",
+          "variations": [
+            "Junior adult: no clue which deity to greet first, so just waits for someone else to go. Senior adult: knows the whole route the moment they walk in — and reminds you how to fold the offering paper."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-285",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://dailyview.tw/popular/detail/33240",
+      "sourceNote": "初級大人 insurance/paperwork judgment scenario from Threads trend coverage; rewritten original into contrast format",
+      "tags": ["初級大人", "高級大人", "金錢", "保險"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人看保單：每個字都看得懂，合起來一句都看不懂，最後傳給爸媽問「這個要保嗎」。\n\n高級大人看保單：直接看重點——理賠範圍、除外條款、繳費年期，五分鐘決定。",
+          "editorNote": "傳給那個保險業務講完還是一頭霧水、只能回家問長輩的朋友",
+          "variations": [
+            "初級大人：以為保險就是繳錢買心安。高級大人：清楚自己保的是什麼、什麼時候用得到。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult reading an insurance policy: understands every single word, understands zero sentences, ends up texting their parents 'should I get this one?'\n\nSenior adult reading a policy: goes straight to what matters — coverage, exclusions, payment term — decides in five minutes.",
+          "editorNote": "For the friend who nods through the whole sales pitch and still has to ask an elder at home",
+          "variations": [
+            "Junior adult: thinks insurance is just paying money for peace of mind. Senior adult: knows exactly what they're covered for and when it kicks in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-286",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://quoteoffame.com/blog/short-funny-adulting-quotes-200-relatable-lines-that-prove-were-all-struggling/",
+      "sourceNote": "'body files incident reports' relatable adulting line; rewritten original into 以為長大後 format",
+      "tags": ["長大", "身體", "生活", "以為長大後"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候以為長大後身體會越來越耐操。長大後才發現，睡個覺也能落枕——身體從此不修東西，只發事故報告。",
+          "editorNote": "傳給那個最近開始「無緣無故」這裡痛那裡痠的同齡朋友",
+          "variations": [
+            "以前跌倒拍拍就好，現在坐太久，站起來還要先預熱。"
+          ]
+        },
+        "en": {
+          "content": "As a kid I figured my body would only get tougher with age. Turns out you can throw your neck out just by sleeping — the body stopped repairing itself and now just files incident reports.",
+          "editorNote": "For the same-age friend who's suddenly sore 'for no reason' everywhere",
+          "variations": [
+            "Used to fall down and bounce right back. Now standing up after sitting too long requires a warm-up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-287",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://quoteoffame.com/blog/200-funny-adulting-quotes-that-hit-too-close-to-home/",
+      "sourceNote": "'errands as accomplishment / parallel parking win' relatable adulting lines; rewritten and combined into 以為長大後 format",
+      "tags": ["長大", "生活", "以為長大後", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候覺得週末辦雜事是一種懲罰。長大後，一天之內繳完帳單、倒完垃圾、還把車停進超小的車位——這就是我今天的高光時刻。",
+          "editorNote": "傳給那個把「今天路邊停車一次到位」當成一整天成就的朋友",
+          "variations": [
+            "以前的成就是考一百分，現在的成就是準時把回收拿出去倒。"
+          ]
+        },
+        "en": {
+          "content": "As a kid, running errands on the weekend felt like a punishment. As an adult, paying all the bills, taking out the trash, and squeezing the car into a tiny spot all in one day — that's the highlight of my whole day.",
+          "editorNote": "For the friend who counts 'nailed the parallel park on the first try' as a full day's achievement",
+          "variations": [
+            "Used to feel accomplished acing a test. Now it's getting the recycling out on the right night."
+          ]
+        }
+      }
     }
   ]
 }

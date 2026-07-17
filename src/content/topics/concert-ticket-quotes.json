@@ -5050,6 +5050,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-181",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "2026 搶票攻略：拓元驗證碼為扭曲英數字、通常不分大小寫，看到什麼打什麼省關鍵一秒",
+      "tags": [
+        "拓元",
+        "驗證碼",
+        "搶票",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "驗證碼那串字\n到底是 O 還是 0，\n是 l 還是 1，\n是 B 還是 8。\n\n我猜對了三次，\n第四次系統告訴我\n票沒了。",
+          "editorNote": "扭曲驗證碼是搶票路上最後一道、也最靠運氣的關卡。傳給那個因為看錯一個字母而錯過的朋友",
+          "variations": [
+            "延伸版：「我不是視力測驗沒過，我是搶票沒過。」",
+            "簡短版：「輸入的不是驗證碼，是我的手氣。」"
+          ]
+        },
+        "en": {
+          "content": "Is that an O or a 0,\nan l or a 1,\na B or an 8?\n\nI guessed right three times.\nThe fourth time,\nthe site told me the show was sold out.",
+          "editorNote": "Distorted CAPTCHAs are the last and most luck-based gate in any ticket rush. Send to the friend who lost their spot over one misread letter",
+          "variations": [
+            "Extended: 'I didn't fail an eye exam. I failed the ticket exam.'",
+            "Short version: 'That wasn't a CAPTCHA. That was a coin flip.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-182",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://www.nownews.com/news/6804732",
+      "sourceNote": "IVE 加場開賣，大量粉絲帳號被鎖急求助；拓元稱系統會標記「不像人類能做到」的購票模式",
+      "tags": [
+        "拓元",
+        "帳號被鎖",
+        "反黃牛",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "系統把我的帳號鎖了，\n理由是我手速\n「不像人類做得到」。\n\n謝謝，\n這是我這輩子\n第一次被誇快。\n\n只可惜是被機器人\n誤認成同類。",
+          "editorNote": "反黃牛演算法連真人一起誤鎖，是 2026 搶票新型委屈。傳給那個手速太快反被當機器人的朋友",
+          "variations": [
+            "延伸版：「我練了三年手速，換來系統認證我是機器人。」",
+            "簡短版：「被誇快，然後被鎖，這就是我的搶票人生。」"
+          ]
+        },
+        "en": {
+          "content": "The system locked my account\nbecause my speed was\n'not something a human could do.'\n\nThanks.\nThat's the first time\nanyone's called me fast.\n\nShame it was a bot filter\nmistaking me for its own kind.",
+          "editorNote": "Anti-bot algorithms now lock out real fans for being too quick — the newest flavor of ticket-rush injustice. Send to the friend who got flagged as a bot for trying too hard",
+          "variations": [
+            "Extended: 'Trained my clicking speed for years. The reward? The site certified me as a robot.'",
+            "Short version: 'Complimented on my speed, then locked out for it. Ticketing in a nutshell.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-183",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "2026 搶票攻略指出，除了手速，網速與 Ping 值才是決定成功的關鍵",
+      "tags": [
+        "搶票",
+        "網速",
+        "拓元",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "大家都在練手速，\n沒人告訴我\n真正輸的是網速。\n\n我的手是閃電，\n我的網路\n是撥接年代的鬼魂。",
+          "editorNote": "手速再快也贏不過 Ping 值，這是搶票殘酷的物理定律。傳給那個怪自己不夠快、其實是被網路害的朋友",
+          "variations": [
+            "延伸版：「別人搶票靠光纖，我搶票靠祈禱。」",
+            "簡短版：「輸的不是我的手，是我家的 Wi-Fi。」"
+          ]
+        },
+        "en": {
+          "content": "Everyone trains their clicking speed.\nNobody warned me\nthe real loser is your connection.\n\nMy hands are lightning.\nMy internet is\na ghost from the dial-up era.",
+          "editorNote": "No amount of finger speed beats a bad ping — the cruel physics of every ticket rush. Send to the friend blaming their reflexes when it was really the router",
+          "variations": [
+            "Extended: 'Other people buy tickets on fiber. I buy tickets on prayer.'",
+            "Short version: 'It wasn't my hands that lost. It was my Wi-Fi.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-184",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://lawforbusiness.usc.edu/selling-out-the-fans-consumer-protection-and-the-modern-ticketing-market/",
+      "sourceNote": "官方原價轉售（Face Value Exchange）機制存在，但票券仍出現在 StubHub 等平台被高價轉售",
+      "tags": [
+        "黃牛",
+        "原價轉售",
+        "票價",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "官方說有原價轉售平台，\n讓大家安心。\n\n結果我的位子\n出現在黃牛網站上，\n加價三倍，\n還標「稀有好位」。\n\n稀有的不是位子，\n是還相信規則的我。",
+          "editorNote": "官方防黃牛機制與黃牛平台並存的荒謬，是 2026 全球共通的無力感。傳給那個乖乖排隊、卻看到同一張票在別處加價的朋友",
+          "variations": [
+            "延伸版：「原價轉售是給守規則的人，加價轉售是給守荷包的黃牛。」",
+            "簡短版：「規則保護的從來不是我，是黃牛的利潤。」"
+          ]
+        },
+        "en": {
+          "content": "They said there's an official\nface-value resale exchange.\nVery reassuring.\n\nThen my seat showed up\non a scalper site,\nmarked up 3x,\nlabeled 'rare great view.'\n\nThe rare thing isn't the seat.\nIt's me, still trusting the rules.",
+          "editorNote": "Face-value exchanges and scalper markups coexisting is the universal 2026 helplessness. Send to the friend who queued honestly and then saw the same ticket flipped elsewhere",
+          "variations": [
+            "Extended: 'Face-value resale is for the rule-followers. Markup resale is for the scalpers guarding their profit.'",
+            "Short version: 'The rules never protected me. They protected the scalper's margin.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-185",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://raleighmag.com/2026/03/27/dynamic-prices/",
+      "sourceNote": "動態定價已成大型巡演常態，被批評把居高不下的轉售價格直接轉嫁給歌迷",
+      "tags": [
+        "票價",
+        "動態定價",
+        "K型經濟",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "動態定價的意思是：\n我越想要，\n它就越貴。\n\n我的熱情\n被系統即時報價，\n每一次刷新，\n都在幫我的錢包倒數。",
+          "editorNote": "動態定價把歌迷的渴望變成漲價理由，是 2026 最令人窒息的購票機制。傳給那個看著價格越刷越高、越想放棄的朋友",
+          "variations": [
+            "延伸版：「以前貴的是位子，現在貴的是我對這場的執念。」",
+            "簡短版：「動態定價：專門懲罰真心喜歡的人。」"
+          ]
+        },
+        "en": {
+          "content": "Dynamic pricing means:\nthe more I want it,\nthe more it costs.\n\nMy enthusiasm\ngets quoted in real time.\nEvery refresh\nis a countdown on my wallet.",
+          "editorNote": "Dynamic pricing turns a fan's longing into a reason to charge more — 2026's most suffocating buying mechanic. Send to the friend watching the price climb with every refresh",
+          "variations": [
+            "Extended: 'It used to be the seat that was expensive. Now it's my obsession with the show.'",
+            "Short version: 'Dynamic pricing: a tax on actually caring.'"
+          ]
+        }
+      }
     }
   ]
 }

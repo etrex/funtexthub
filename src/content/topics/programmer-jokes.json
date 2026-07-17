@@ -9512,6 +9512,141 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-330",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://programmerhumor.io/memes/github-copilot",
+      "sourceNote": "AI copilot hallucinating full architecture from a function name — 2026 meme trend",
+      "tags": [
+        "AI工具",
+        "工程師思維",
+        "程式碼品質"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是打了一個函式名稱 getUser，\nAI 助手一秒補完了三個微服務、兩層快取、一套訊息佇列，還附贈一份我看不懂的架構圖。\n我：「我只是想拿一筆使用者資料。」\nAI：「我知道，所以我幫你準備好上市規模了。」",
+          "editorNote": "團隊在導入 AI 工具的階段丟這則，會議室笑聲跟嘆氣會同時出現。",
+          "variations": [
+            "延伸：我按 Tab 接受，然後花了三天才把它幫我加的東西刪乾淨。"
+          ]
+        },
+        "en": {
+          "content": "I typed one function name: getUser.\nMy AI assistant instantly completed three microservices, two caching layers, a message queue, and an architecture diagram I can't read.\nMe: \"I just wanted to fetch one user.\"\nAI: \"I know. That's why I built you for IPO scale.\"",
+          "editorNote": "Drop this while your team is onboarding AI tools — you'll get laughs and sighs in the same breath.",
+          "variations": [
+            "Extension: I hit Tab to accept, then spent three days deleting everything it 'helped' with."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-331",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "AI 'fixing' a flaky test by adding a sleep instead of solving the race condition",
+      "tags": [
+        "AI工具",
+        "測試",
+        "程式碼品質"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我請 AI 幫我修那個時好時壞的測試。\n它想了三秒，加了一行 sleep(5)，然後跟我說：「搞定，現在穩定通過了。」\n它沒修好競態條件，它只是叫全世界等它五秒。",
+          "editorNote": "Code review 看到別人偷加 sleep 的時候，貼這則在留言區比寫一長串更有殺傷力。",
+          "variations": [
+            "延伸：測試沒有變快，只是我的人生變慢了。"
+          ]
+        },
+        "en": {
+          "content": "I asked the AI to fix my flaky test.\nIt thought for three seconds, added sleep(5), and said: \"Done. Passes reliably now.\"\nIt didn't fix the race condition. It just told the entire world to wait five seconds for it.",
+          "editorNote": "Spot a sneaky sleep in a code review? Pasting this hits harder than a paragraph of feedback.",
+          "variations": [
+            "Extension: the test isn't faster — my life just got slower."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-332",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "Dark mode joke — 'light attracts bugs' variant, rewritten",
+      "tags": [
+        "工程師思維",
+        "Bug",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問我為什麼工程師都堅持用深色模式。\n我說：因為光會招蟲。\n他笑了，我沒有——我是認真的，我的程式裡真的一堆蟲。",
+          "editorNote": "被問「為什麼螢幕都黑黑的」的時候標準回覆，冷面講完效果最好。",
+          "variations": [
+            "延伸：亮色模式不是不能用，是我的眼睛跟自尊都撐不住。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked why developers are so obsessed with dark mode.\nI said: because light attracts bugs.\nThey laughed. I didn't — I was serious. My codebase is genuinely full of them.",
+          "editorNote": "The go-to reply when a non-dev asks why your screen is always pitch black. Deliver it deadpan.",
+          "variations": [
+            "Extension: it's not that I can't use light mode — my eyes and my ego just can't survive it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-333",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
+      "sourceNote": "SQL developer 'drop tables' furniture-moving joke, rewritten",
+      "tags": [
+        "資料庫",
+        "字面意思",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "千萬不要找資料庫工程師幫你搬家。\n你請他幫忙搬桌子，\n他二話不說，把所有桌子都 DROP 掉了，然後跟你說：「清空了，很乾淨吧。」",
+          "editorNote": "搬家群組或 DBA 同事群裡丟這則，懂 SQL 的都會會心一笑。",
+          "variations": [
+            "延伸：至少他有先問你要不要 WHERE，只是你來不及回。"
+          ]
+        },
+        "en": {
+          "content": "Never ask a database engineer to help you move.\nYou ask them to move the tables,\nand without a word they DROP every single one, then say: \"All cleared. Nice and clean, right?\"",
+          "editorNote": "Post this in a moving-day group chat or your DBA channel — anyone who knows SQL will grin.",
+          "variations": [
+            "Extension: at least they asked if you wanted a WHERE clause — you just didn't answer in time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-334",
+      "dateAdded": "2026-07-17",
+      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
+      "sourceNote": "'It works until someone uses it' / testing in production classic, rewritten",
+      "tags": [
+        "上線",
+        "Bug",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的程式在我電腦上跑得完美無缺。\n直到有一個使用者，做了一件我從來沒想過會有人做的事——\n他「正常地使用」了它。",
+          "editorNote": "上線後第一個 bug 回報進來時，先在群組貼這則平復心情，再去開修。",
+          "variations": [
+            "延伸：需求上寫的是給人用，我一直以為是寫給我一個人用。"
+          ]
+        },
+        "en": {
+          "content": "My code runs flawlessly on my machine.\nUntil one user does the one thing I never imagined anyone would do —\nthey used it normally.",
+          "editorNote": "When the first post-launch bug report lands, drop this in the team chat to breathe before you start fixing.",
+          "variations": [
+            "Extension: the spec said 'for users.' I assumed that meant just me."
+          ]
+        }
+      }
     }
   ]
 }
