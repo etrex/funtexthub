@@ -9025,6 +9025,136 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-338",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.discoverwildlife.com/animal-facts/best-animal-jokes-ever",
+      "sourceNote": "orca-stra 諧音梗；中文改用『鯨/驚』同音自創『處變不鯨』",
+      "tags": [
+        "動物",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道虎鯨為什麼遇到什麼事都超冷靜嗎？\n\n因為牠們天生『處變不鯨』——再大的浪都不怕。",
+          "editorNote": "動物諧音冷笑話，適合帶小朋友逛水族館時講",
+          "variations": [
+            "也可以問：那牠什麼時候會慌？答案是「鯨慌失措」的時候。"
+          ]
+        },
+        "en": {
+          "content": "Did you hear the killer whale learned to play the saxophone?\n\nIt just joined the orca-stra.",
+          "editorNote": "A clean animal pun for kids or music-lover friends",
+          "variations": [
+            "Add: Its favorite piece? Anything with a killer bassline."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-339",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://punstation.com/cold-puns-and-jokes/",
+      "sourceNote": "baker couldn't make enough dough 梗；中文用『發（麵團發酵/發薪水）』雙關改寫",
+      "tags": [
+        "食物",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿明辭掉了麵包店的工作。\n\n他說：「揉了那麼多年，麵團天天都會發，我的薪水卻永遠發不起來。」",
+          "editorNote": "職場自嘲用，跟同事聊薪水時可以接",
+          "variations": [
+            "也可以接：「還好至少學會了怎麼把爛攤子『捏』成一團。」"
+          ]
+        },
+        "en": {
+          "content": "I quit my job at the bakery.\n\nI just couldn't make enough dough.",
+          "editorNote": "Good for venting about pay with coworkers",
+          "variations": [
+            "Add: Kneading all day still wouldn't help me rise up the ladder."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-340",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://funnnypuns.com/pun-jokes-for-adults-one-liner/",
+      "sourceNote": "fear of elevators, taking steps 梗；中文用『步驟/走樓梯』雙關對應 take steps",
+      "tags": [
+        "諧音",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我同事說他有電梯恐懼症，正在『採取一些步驟』克服它。\n\n我問他是什麼步驟，他說：「就是每天認命地爬十層樓梯。」",
+          "editorNote": "諧音冷笑話，適合走樓梯喘到不行時自嘲",
+          "variations": [
+            "也可以接：「他說最大的進步是——現在小腿比膽子先變強。」"
+          ]
+        },
+        "en": {
+          "content": "My friend has a fear of elevators.\n\nHe's been taking steps to avoid them.",
+          "editorNote": "Say it deadpan while catching your breath on the stairs",
+          "variations": [
+            "Add: His legs got braver way faster than he did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-341",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://punsify.com/animal-jokes/",
+      "sourceNote": "pi-thon（3.14 公尺蛇）梗；中文保留 π+蟒＝Python 的中英雙關並加 e 延伸",
+      "tags": [
+        "動物",
+        "數學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道一條剛好 3.14 公尺長的蟒蛇，數學家都叫牠什麼嗎？\n\n『π蟒』——難怪工程師特別喜歡牠。",
+          "editorNote": "適合理工同學群組，講完可以問對方笑點在哪",
+          "variations": [
+            "也可以問：那 2.72 公尺的蛇呢？那是『e 蟒』，比較自然。"
+          ]
+        },
+        "en": {
+          "content": "What do you call a snake that's exactly 3.14 meters long?\n\nA π-thon.",
+          "editorNote": "A math-nerd favorite; bonus points near programmers",
+          "variations": [
+            "Add: And the 2.72-meter one? That's an e-thon — it's just more natural."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-342",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.weareteachers.com/animal-jokes-for-kids/",
+      "sourceNote": "pouch potato（couch potato）梗；中文改成袋鼠因口袋而懶的邏輯冷笑話，並用『跳過』雙關",
+      "tags": [
+        "動物",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你知道最懶的動物是什麼嗎？\n\n袋鼠——牠連零食都直接放口袋裡，躺著就能吃，根本懶得起身。",
+          "editorNote": "動物邏輯冷笑話，適合親子時光",
+          "variations": [
+            "難怪牠們永遠有辦法『跳過』運動這件事。"
+          ]
+        },
+        "en": {
+          "content": "What do you call a kangaroo that never works out?\n\nA pouch potato.",
+          "editorNote": "A cute one for kids or lazy-Sunday energy",
+          "variations": [
+            "Add: No wonder they always find a way to jump over leg day."
+          ]
+        }
+      }
     }
   ]
 }

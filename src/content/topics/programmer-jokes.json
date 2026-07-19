@@ -9647,6 +9647,141 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-335",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.codeitbro.com/blog/vibe-coding-memes",
+      "sourceNote": "'Vibe coding is easy, vibe debugging is the hard part' meme, rewritten",
+      "tags": [
+        "AI",
+        "除錯",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "靠感覺寫程式，超簡單。\n跟 AI 對兩句，功能就長出來了。\n真正的地獄是——靠感覺除錯。\n那段程式碼是我寫的，但已經沒有一個人看得懂它，包括我跟 AI。",
+          "editorNote": "傳給正在用 AI 一鍵生成專案、然後開始後悔的朋友，附一句『歡迎入坑』。",
+          "variations": [
+            "延伸：生成的時候是天堂，維護的時候才發現天堂是分期付款的。"
+          ]
+        },
+        "en": {
+          "content": "Vibe coding is easy.\nYou chat with the AI for two minutes and a whole feature appears.\nVibe debugging is where it gets dark.\nThe code is technically mine, but nobody understands it anymore — not me, not the AI.",
+          "editorNote": "Send this to the friend who just generated an entire app with AI and is now quietly regretting it. Caption: welcome to the club.",
+          "variations": [
+            "Extension: generating it feels like heaven. Turns out heaven was on an installment plan called maintenance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-336",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "Developer career-trajectory meme (student -> prompt engineer -> vibe coder -> farmer), rewritten",
+      "tags": [
+        "AI",
+        "職涯",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師的職涯演化史：\n2022 資工系學生\n2023 後端工程師\n2024 提示詞工程師\n2025 靠感覺寫程式的人\n2026 幫 AI 打雜的人\n2027 回鄉下種田",
+          "editorNote": "轉職群組或同溫層裡貼這則，保證一排『笑著笑著就哭了』。",
+          "variations": [
+            "延伸：2028 欄位是空的，因為那格已經外包給 AI 填了。"
+          ]
+        },
+        "en": {
+          "content": "The evolution of a software career:\n2022 — CS student\n2023 — backend developer\n2024 — prompt engineer\n2025 — vibe coder\n2026 — the AI's assistant\n2027 — farmer",
+          "editorNote": "Drop this in any career-change thread and watch the row of 'laughing but also crying' replies roll in.",
+          "variations": [
+            "Extension: there's no 2028 entry. That cell got outsourced to the AI to fill in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-337",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "'Two hard things in CS: cache invalidation, naming things, and off-by-one errors' classic, rewritten",
+      "tags": [
+        "命名",
+        "程式碼品質",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電腦科學裡只有兩件難事：\n一、快取失效\n二、命名\n三、差一個的錯誤",
+          "editorNote": "面試或分享會冷場時丟這則，懂的人會笑，不懂的人會開始默默數。",
+          "variations": [
+            "延伸：這個笑話我本來想放三個重點，結果放了兩個。"
+          ]
+        },
+        "en": {
+          "content": "There are only two hard problems in computer science:\n1. Cache invalidation\n2. Naming things\n3. Off-by-one errors",
+          "editorNote": "Use it to break an awkward silence in a meetup. The ones who get it laugh; the rest quietly start counting.",
+          "variations": [
+            "Extension: I meant to list three things, but I got two of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-338",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "'I just vibe with the AI and code appears / can't explain my own code' meme, rewritten",
+      "tags": [
+        "AI",
+        "程式碼品質",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事：「這段程式碼在幹嘛？」\n我：「我不知道。」\n同事：「你寫的欸？」\n我：「不，是 AI 寫的，我只負責按 Tab 鍵接受。」",
+          "editorNote": "Code review 前先貼這則暖場，讓大家對即將看到的東西有心理準備。",
+          "variations": [
+            "延伸：與其說是我寫的，不如說我是它的見證人。"
+          ]
+        },
+        "en": {
+          "content": "Coworker: \"What does this code do?\"\nMe: \"No idea.\"\nCoworker: \"But you wrote it.\"\nMe: \"No, the AI wrote it. I just kept pressing Tab to accept.\"",
+          "editorNote": "Post this right before a code review so everyone braces for what's coming.",
+          "variations": [
+            "Extension: I didn't write it so much as witness it happen."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-339",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
+      "sourceNote": "'Programmers prefer dark mode because light attracts bugs' classic, rewritten",
+      "tags": [
+        "Bug",
+        "工程師思維",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問工程師：「你為什麼永遠都開深色模式？」\n工程師頭也不抬：「因為光會吸引蟲。」",
+          "editorNote": "傳給那個螢幕永遠黑到你看不清楚的同事，他會回你一個 ok 手勢。",
+          "variations": [
+            "延伸：我不是怕亮，我是在替我的 bug 保留棲息地。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked a developer: \"Why do you always use dark mode?\"\nWithout looking up, they said: \"Light attracts bugs.\"",
+          "editorNote": "Send it to the coworker whose screen is so dark you can't read it over their shoulder. Expect a thumbs-up back.",
+          "variations": [
+            "Extension: I'm not avoiding the light. I'm preserving a habitat for my bugs."
+          ]
+        }
+      }
     }
   ]
 }

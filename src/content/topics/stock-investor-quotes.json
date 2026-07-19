@@ -5011,6 +5011,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-167",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://money.udn.com/money/story/5607/9581922",
+      "sourceNote": "台股融資餘額8,134億破紀錄、兩市首度破8千億 register；改寫原創",
+      "tags": [
+        "台股",
+        "融資",
+        "槓桿",
+        "散戶",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞：「全市場融資餘額突破八千億，改寫歷史紀錄。」\n翻譯成人話：大家不是變有錢了，是一起變敢借了。\n我也貢獻了一份心力——用不是我的錢，買了不會漲的股，套住了確實是我的人生。",
+          "editorNote": "適合看到融資餘額創高的新聞，開槓桿的同好互相取暖用",
+          "variations": [
+            "融資是一種很浪漫的東西：你先享受買進的快感，之後再慢慢還利息還到懷疑人生。",
+            "別人問我有沒有壓身家，我說沒有——我壓的是券商借我的身家。"
+          ]
+        },
+        "en": {
+          "content": "Headline: 'Total margin balance breaks a record high.'\nTranslation into plain speech: nobody got richer, everyone just got braver about borrowing.\nI did my part too — used money that isn't mine to buy a stock that won't go up, and trapped a life that definitely is.",
+          "editorNote": "For when the record margin-balance headline drops and every leveraged friend needs a hug",
+          "variations": [
+            "Margin is a deeply romantic thing: you enjoy the rush of buying first, then slowly pay interest until you question your existence.",
+            "People ask if I bet the house. No — I bet the house my broker lent me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-168",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://newtalk.tw/news/view/2026-07-01/1044612",
+      "sourceNote": "台股4個月漲萬點、違約交割7年新高 register；改寫原創",
+      "tags": [
+        "違約交割",
+        "當沖",
+        "散戶",
+        "自嘲",
+        "認同"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "數據說：違約交割金額創七年新高。\n意思是有一群人，買的時候很有信心，交割的時候很沒現金。\n我沒違約，我只是把該面對的虧損，很有紀律地分期面對——一天崩潰一點。",
+          "editorNote": "適合看到違約交割創高新聞，當沖客苦笑轉發",
+          "variations": [
+            "當沖的精髓就是：早上以為自己是巴菲特，下午發現戶頭是巴掌。",
+            "有些人下單前不看價格，交割前才看戶頭——順序剛好相反。"
+          ]
+        },
+        "en": {
+          "content": "The data says settlement defaults just hit a seven-year high.\nMeaning: a crowd of people who were very confident when they bought, and very cashless when the bill came due.\nI didn't default — I just face my losses on a strict installment plan: a little breakdown each day.",
+          "editorNote": "For the day-trader wincing at the record-defaults headline before hitting share",
+          "variations": [
+            "The essence of day trading: you feel like Warren Buffett in the morning and get slapped by your balance in the afternoon.",
+            "Some people check the price before they buy and check their account before settlement — unfortunately, in that order."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-169",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://newtalk.tw/news/view/2026-07-01/1044612",
+      "sourceNote": "巴菲特指標過熱、全球最高 register；改寫原創",
+      "tags": [
+        "巴菲特指標",
+        "過熱",
+        "空手",
+        "厭世",
+        "認同"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家說巴菲特指標過熱、市場全世界最貴，勸大家先空手。\n我聽完鬆一口氣——我早就空手了，只是我的空手不是理性判斷，是沒錢了。\n原來別人叫『避險』，我這叫『避無可避』。",
+          "editorNote": "適合空手看盤的散戶，把被動空手講成主動離場的體面說法",
+          "variations": [
+            "我跟大師唯一的共識，就是現在不該進場——差別在他是看指標，我是看餘額。",
+            "市場過熱的時候我特別冷靜，因為我根本沒有部位可以慌。"
+          ]
+        },
+        "en": {
+          "content": "The experts say the Buffett indicator is overheated, the market is the priciest on earth, and everyone should sit in cash.\nI heard that and relaxed — I've been in cash for a while, except my cash position isn't a rational call, it's just being broke.\nTurns out what they call 'hedging,' I call 'having no other option.'",
+          "editorNote": "For the sidelined retail trader who reframes being broke as a disciplined exit",
+          "variations": [
+            "The one thing the legends and I agree on is that now is not the time to buy — they read the indicator, I read my balance.",
+            "I stay remarkably calm when the market overheats, because I have no position left to panic about."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-170",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://udn.com/news/story/7251/9596411",
+      "sourceNote": "台股不排除上攻5萬點、散戶想賺又害怕 register；改寫原創",
+      "tags": [
+        "台股",
+        "五萬點",
+        "FOMO",
+        "散戶",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "法人喊：台股不排除上攻五萬點。\n我內心的兩個小人立刻開會——一個喊『再不上車就沒了』，一個喊『你上一台車還在山下拋錨』。\n最後我選擇最安全的做法：邊喊看好，邊什麼都不敢買。",
+          "editorNote": "適合大盤噴上新高、自己卻卡在想追又怕套的糾結時刻",
+          "variations": [
+            "所謂五萬點，就是一個我永遠在『下一次』才敢進場的數字。",
+            "我對台股的信心非常足，足到我決定用嘴巴支持它就好。"
+          ]
+        },
+        "en": {
+          "content": "The institutions shout: the index could very well charge to fifty thousand.\nThe two little voices in my head immediately hold a meeting — one yells 'get on board before it leaves,' the other yells 'your last ride is still broken down at the foot of the mountain.'\nIn the end I go with the safest play: cheer loudly for the rally while being too scared to buy anything.",
+          "editorNote": "For the moment the index melts up to a new high and you're paralyzed between chasing and getting trapped",
+          "variations": [
+            "'Fifty thousand' is just a number I'll always be brave enough to buy at 'next time.'",
+            "My confidence in this market is enormous — so enormous I've decided to support it purely with my mouth."
+          ]
+        }
+      }
     }
   ]
 }

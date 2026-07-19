@@ -6629,6 +6629,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-225",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.inn-taipei.com/2026-rent-subsidy-complete-guide/",
+      "sourceNote": "2026 租金補貼新制：頂加違建不再符合資格; rewritten original",
+      "tags": [
+        "房租",
+        "房東",
+        "厭世",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "政府說：頂加違建不能申請租屋補貼。\n房東說：你要嘛住頂加，要嘛滾。\n我：原來我連被補貼的資格都是違建。",
+          "editorNote": "傳給正在研究補貼新制、結果發現自己住的房子根本不合法的租屋族，一起苦笑",
+          "variations": [
+            "查了半天租屋補貼，最後發現不合格的不是我，是我的房子。",
+            "補貼看得到吃不到，因為我住的地方在法律上根本不存在。"
+          ]
+        },
+        "en": {
+          "content": "The government: illegal rooftop units don't qualify for rent subsidies.\nMy landlord: it's the rooftop unit or the street.\nMe: so even my eligibility for help is technically unpermitted.",
+          "editorNote": "For the renter who studied the new subsidy rules only to discover their apartment isn't legal — laugh so you don't cry",
+          "variations": [
+            "Spent all day on the subsidy application and learned the thing that doesn't qualify isn't me, it's my apartment.",
+            "The subsidy is right there, and I can't touch it, because where I live doesn't legally exist."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-226",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
+      "sourceNote": "'renting: pay impossible money, sink still summons a demon' meme; rewritten original",
+      "tags": [
+        "房租",
+        "漏水",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "租屋是一種遊戲：\n你付出付不起的錢，\n然後水槽半夜還是會發出像在召喚惡魔的聲音。",
+          "editorNote": "傳給那個剛搬進新家、卻被水管半夜的怪聲嚇醒的朋友",
+          "variations": [
+            "花這麼多錢租房，換來一個會在凌晨三點自己唱歌的排水管。",
+            "房租繳好繳滿，水槽的異音附贈，房東說那是老房子的『個性』。"
+          ]
+        },
+        "en": {
+          "content": "Renting is a little game:\nyou pay an amount of money you can't afford,\nand your sink still makes a noise at night like it's summoning a demon.",
+          "editorNote": "Send to the friend who just moved in and keeps getting woken up by mysterious plumbing noises",
+          "variations": [
+            "Paid a fortune in rent and got a drain that sings to itself at 3 a.m.",
+            "Rent's paid in full, the sink's demonic groaning is complimentary, and my landlord calls it the building's 'character.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-227",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://thechive.com/funny/landlord-memes/",
+      "sourceNote": "'landlord special: freshly renovated, now +$400/month' meme; rewritten original",
+      "tags": [
+        "房租",
+        "房東",
+        "比較",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東把牆壁重新刷了一層白漆，\n就說這叫『全新裝潢』，\n然後租金漲了三千。\n一桶油漆的成本，你分三十年幫他攤還。",
+          "editorNote": "傳給收到漲租通知、理由是『房子有整修』的租屋族，看看那個整修到底整了什麼",
+          "variations": [
+            "所謂裝潢升級，就是換了一個馬桶蓋，然後月租多兩千。",
+            "房東的『重新裝潢』＝把舊窗簾拆了，租金加碼，窗簾要你自己買。"
+          ]
+        },
+        "en": {
+          "content": "My landlord slapped a fresh coat of white paint on the wall,\ncalled it a 'full renovation,'\nand the rent went up a hundred bucks a month.\nOne bucket of paint, and you'll amortize it for him over thirty years.",
+          "editorNote": "For the renter whose rent hike came with the excuse of 'recent upgrades' — go look at what actually got upgraded",
+          "variations": [
+            "The 'renovation upgrade' turned out to be a new toilet seat and sixty extra dollars a month.",
+            "Landlord's idea of 'renovated': took down the old curtains, raised the rent, and told me to buy my own curtains."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-228",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E5%AE%9A%E9%87%91-%E6%8A%BC%E9%87%91-%E7%A7%9F%E9%87%91-%E9%80%80%E6%8A%BC%E9%87%91-%E7%A7%9F%E5%B1%8B%E8%B2%BB%E7%94%A8/",
+      "sourceNote": "退租押金被亂扣清潔費; deposit deduction disputes; rewritten original",
+      "tags": [
+        "押金",
+        "房東",
+        "退租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租那天，房東拿著手電筒，\n找我住了兩年的『損壞』，\n找得比我媽找我房間的髒衣服還認真。\n最後結論：押金不退，因為牆壁有一道我從沒看過的刮痕。",
+          "editorNote": "傳給正準備退租、擔心押金拿不回來的朋友，提醒他搬進去那天先把每個角落拍照存證",
+          "variations": [
+            "押金這種東西，交出去的時候是保證金，拿回來的時候是遺產。",
+            "房東退押金的速度，跟他修水管的速度，是同一種速度：永遠在下週。"
+          ]
+        },
+        "en": {
+          "content": "On move-out day, my landlord took out a flashlight\nand hunted for 'damage' from my two years there\nmore thoroughly than my mom hunts for dirty laundry in my room.\nFinal verdict: no deposit back, because of a scratch on the wall I've never seen in my life.",
+          "editorNote": "Send to a friend about to move out and worried about their deposit — remind them to photograph every corner the day they move in",
+          "variations": [
+            "A deposit is a security payment when you hand it over and an inheritance when you try to get it back.",
+            "The speed my landlord returns a deposit and the speed he fixes a pipe are the same speed: always next week."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-229",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://vocus.cc/article/69f8473bfd897800017b80c2",
+      "sourceNote": "2026 租屋提前解約：沒住滿一年要賠; early termination penalty; rewritten original",
+      "tags": [
+        "退租",
+        "房租",
+        "上班族",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工作叫我搬去外縣市，\n房東說提前解約要賠一個月租金，\n公司說搬家費自己想辦法。\n我夾在中間，才發現能自由移動的只有我的焦慮。",
+          "editorNote": "傳給因為工作被迫搬家、卻卡在合約中間動彈不得的租屋族，替他抱一下",
+          "variations": [
+            "換工作最貴的成本不是勇氣，是提前解約那一個月的違約金。",
+            "我以為長大是想搬就搬，長大才知道，搬家要先問過房東、公司和我的存款。"
+          ]
+        },
+        "en": {
+          "content": "Work wants me to relocate to another city.\nMy landlord says breaking the lease early costs a month's rent.\nMy company says the moving expenses are my problem.\nStuck in the middle, I realized the only thing that moves freely is my anxiety.",
+          "editorNote": "For the renter forced to move for work but trapped mid-lease — here's a hug",
+          "variations": [
+            "The most expensive part of changing jobs isn't the courage, it's the one-month penalty for breaking the lease.",
+            "I thought being an adult meant moving whenever I wanted; turns out it means asking my landlord, my company, and my savings first."
+          ]
+        }
+      }
     }
   ]
 }

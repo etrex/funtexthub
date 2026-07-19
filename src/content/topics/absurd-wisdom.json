@@ -8759,6 +8759,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-336",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學長話短說主題，重新創作",
+      "tags": [
+        "廢話文學",
+        "說話",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這件事我長話短說，\n但它說來話長。\n\n所以我還是從頭講好了，反正你也沒別的事。",
+          "editorNote": "朋友催你講重點的時候用，保證他更想聽你把話講完",
+          "variations": [
+            "我簡單講一下，講完之後你就會發現其實一點都不簡單。",
+            "重點只有一個，就是這件事其實沒有重點。"
+          ]
+        },
+        "en": {
+          "content": "Let me keep this short —\nit's a long story.\n\nSo I'll just start from the beginning, since you've got nothing better to do anyway.",
+          "editorNote": "Use it when a friend tells you to get to the point — guaranteed to make them regret asking",
+          "variations": [
+            "I'll make this quick, and by the end you'll realize it was never quick at all.",
+            "There's just one main point here, which is that there really isn't one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-337",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/585550258",
+      "sourceNote": "廢話文學香蕉例句，重新改寫",
+      "tags": [
+        "廢話文學",
+        "飲食",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "把香蕉的皮剝掉之後，\n你就會得到一根沒有皮的香蕉。\n\n這個步驟，剝之前跟剝之後的差別非常明顯。",
+          "editorNote": "吃香蕉配這句一起發限動，朋友會開始懷疑自己的人生",
+          "variations": [
+            "橘子撥開之後裡面就是一瓣一瓣的，這點跟沒撥開的時候完全不同。",
+            "水煮蛋剝殼之後，你會發現裡面竟然是一顆蛋。"
+          ]
+        },
+        "en": {
+          "content": "Once you peel a banana,\nyou're left with a banana that has no peel.\n\nThe difference between before and after peeling is remarkably clear.",
+          "editorNote": "Post this with your banana snack and watch your friends start questioning their whole existence",
+          "variations": [
+            "Peel an orange and you'll find it's divided into segments inside — totally unlike when it's unpeeled.",
+            "Peel a boiled egg and, surprisingly, you'll discover there's an egg inside."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-338",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學記憶主題，重新創作",
+      "tags": [
+        "廢話文學",
+        "記憶",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在我忘記這件事之前，\n我會一直記得它。\n\n至於忘記之後，我就不記得了。",
+          "editorNote": "答應別人的事忘記時，拿這句出來當藉口意外地有說服力",
+          "variations": [
+            "我記性很好，只要是我記得的事，我都記得。",
+            "我沒有忘記你的生日，我只是暫時想不起來是哪一天。"
+          ]
+        },
+        "en": {
+          "content": "Until the moment I forget this,\nI will keep remembering it.\n\nAs for after I forget it, well, I won't remember.",
+          "editorNote": "Surprisingly convincing as an excuse when you forget something you promised",
+          "variations": [
+            "I have a great memory — anything I remember, I remember.",
+            "I didn't forget your birthday, I just temporarily can't recall which day it is."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-339",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://zhuanlan.zhihu.com/p/434045269",
+      "sourceNote": "廢話文學聰明主題，重新改寫",
+      "tags": [
+        "廢話文學",
+        "聰明",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "研究指出，越聰明的人，\n腦子通常也越聰明。\n\n而腦子越聰明的人，想事情的時候也越聰明。",
+          "editorNote": "拿去稱讚同事，他會不確定你是在誇他還是在酸他",
+          "variations": [
+            "會讀書的人，考試的時候通常都比較會寫。",
+            "跑得快的人，只要一跑起來，速度就會比較快。"
+          ]
+        },
+        "en": {
+          "content": "Studies show that the smarter a person is,\nthe smarter their brain usually is.\n\nAnd the smarter the brain, the smarter they tend to think.",
+          "editorNote": "Say it to a coworker and they won't be sure whether you're praising or roasting them",
+          "variations": [
+            "People who are good at studying usually do better when they take the test.",
+            "People who run fast tend to move faster the moment they start running."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-340",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "廢話文學閱讀當下主題，重新創作",
+      "tags": [
+        "廢話文學",
+        "文字",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "當你看到這行字的時候，\n就代表你正在看這行字。\n\n而當你看完之後，你就看完了。",
+          "editorNote": "貼在文章開頭當免責聲明，讀者會忍不住讀第二次確認自己有沒有讀懂",
+          "variations": [
+            "只要你把這句話讀完，你就會知道這句話已經被你讀完了。",
+            "看不懂沒關係，因為看得懂的人也不一定看得懂。"
+          ]
+        },
+        "en": {
+          "content": "The moment you read this line,\nit means you are currently reading this line.\n\nAnd once you've finished, you're finished.",
+          "editorNote": "Stick it at the top of a post as a disclaimer — readers will re-read it just to check they understood",
+          "variations": [
+            "As soon as you finish reading this sentence, you'll know this sentence has been read by you.",
+            "It's fine if you don't get it, because the people who get it don't necessarily get it either."
+          ]
+        }
+      }
     }
   ]
 }
