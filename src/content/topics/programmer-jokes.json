@@ -8699,23 +8699,22 @@
       "tags": [
         "工程師語錄",
         "職場",
-        "bug"
+        "bug",
+        "工程師日常"
       ],
       "i18n": {
         "zh-tw": {
-          "content": "工程師的工作內容其實很單純：\n一半的時間在修 bug，\n另一半的時間在跟主管解釋，\n那個其實不算 bug。",
-          "editorNote": "當作個人簽名檔或部門公告欄的自嘲金句，主管看到也只能苦笑。",
+          "content": "工程師的工作內容其實很單純：\n一半的時間在修 bug，\n另一半的時間在跟人解釋那個不是 bug，是「功能」。",
+          "editorNote": "被 PM 或客戶回報「這是不是壞了」時，先傳這則給隊友取暖再回覆。",
           "variations": [
-            "剩下的百分之十，是在解釋為什麼修 bug 需要那麼久",
-            "工程師：修好一個 bug，長出三個新的，這叫成長"
+            "延伸：這不是 bug，這是一個還沒有寫進文件的隱藏彩蛋。"
           ]
         },
         "en": {
-          "content": "A developer's job is actually pretty simple:\nhalf the time you're fixing bugs,\nand the other half you're explaining to your manager\nwhy it technically wasn't a bug.",
-          "editorNote": "Great as a personal email signature or a self-deprecating line on the team board — even the manager can only chuckle.",
+          "content": "A developer's job is actually pretty simple:\nHalf the time you're fixing bugs,\nthe other half you're explaining that it isn't a bug — it's a feature.",
+          "editorNote": "When a PM or client asks 'is this broken?', send this to your teammates first, then reply.",
           "variations": [
-            "The remaining ten percent is spent explaining why fixing the bug took so long.",
-            "Fix one bug, grow three new ones — we call that progress."
+            "Extension: it's not a bug, it's an undocumented easter egg."
           ]
         }
       }
@@ -9455,33 +9454,6 @@
           "editorNote": "Drop it in the channel when a project slips. Peak gallows humor — your PM will weep.",
           "variations": [
             "Extension: my estimates are very accurate. Just take my number, multiply by three, and swap the unit."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-328",
-      "dateAdded": "2026-07-16",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "'50% fixing bugs, 50% explaining it's not a bug' — rewritten",
-      "tags": [
-        "工程師日常",
-        "bug",
-        "工程師語錄"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "工程師的工作內容其實很單純：\n一半的時間在修 bug，\n另一半的時間在跟人解釋那個不是 bug，是「功能」。",
-          "editorNote": "被 PM 或客戶回報「這是不是壞了」時，先傳這則給隊友取暖再回覆。",
-          "variations": [
-            "延伸：這不是 bug，這是一個還沒有寫進文件的隱藏彩蛋。"
-          ]
-        },
-        "en": {
-          "content": "A developer's job is actually pretty simple:\nHalf the time you're fixing bugs,\nthe other half you're explaining that it isn't a bug — it's a feature.",
-          "editorNote": "When a PM or client asks 'is this broken?', send this to your teammates first, then reply.",
-          "variations": [
-            "Extension: it's not a bug, it's an undocumented easter egg."
           ]
         }
       }

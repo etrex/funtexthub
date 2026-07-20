@@ -8280,23 +8280,25 @@
       "sourceNote": "Gym fitness themed pickup line",
       "tags": [
         "創意",
-        "甜"
+        "甜",
+        "生活",
+        "搞笑"
       ],
       "i18n": {
         "zh-tw": {
-          "content": "「你今天練哪裡？」\n「練腿啊，超累。」\n「難怪我心跳一直亂跳，原來是被你練到的。」",
-          "editorNote": "健身房或運動後聊天時用，借訓練話題自然開場，語氣要輕鬆帶點自嘲才不會太油",
+          "content": "「你今天練哪裡？」\n「練腿啊，超累。」\n「難怪我腿軟，原來是被你練到的。」",
+          "editorNote": "健身房搭訕、跟同伴閒聊組間休息時丟出來剛好，運動場合本來話題就輕鬆，用練腿接腿軟毫無違和，講完對方大概會邊笑邊叫你去做下一組",
           "variations": [
-            "你是我唯一不想略過的一組訓練",
-            "別的我都會偷懶，只有靠近你這件事我很認真"
+            "你不用幫我補位，光看到你我就已經舉不動了",
+            "別人來健身房練肌肉，我來這裡好像只練到心動"
           ]
         },
         "en": {
-          "content": "\"What did you train today?\"\n\"Legs. I'm wrecked.\"\n\"That explains my heart skipping — turns out you gave it a workout too.\"",
-          "editorNote": "Use it in the gym or post-workout chat; open with the training topic and keep the tone light and a little self-deprecating so it isn't greasy.",
+          "content": "\"What are you training today?\"\n\"Legs — I'm wrecked.\"\n\"No wonder my knees went weak. Turns out you were the workout.\"",
+          "editorNote": "Made for the gym — striking up a chat or resting between sets; the setting is already casual, so pivoting from leg day to weak knees feels effortless. They'll probably laugh and tell you to go do your next set.",
           "variations": [
-            "You're the one set I never want to skip.",
-            "I slack on everything else, but getting close to you? I take that seriously."
+            "You don't need to spot me — one look at you and I already can't lift a thing.",
+            "Everyone else comes here to build muscle; I only seem to be building a crush."
           ]
         }
       }
@@ -9355,35 +9357,6 @@
       }
     },
     {
-      "id": "cp-333",
-      "dateAdded": "2026-07-17",
-      "sourceUrl": "https://pikliners.com/best-gym-pick-up-lines/",
-      "sourceNote": "'you caught my attention, not waiting another set to talk' gym concept, rewritten into dialogue",
-      "tags": [
-        "生活",
-        "搞笑",
-        "甜"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「你今天練哪裡？」\n「練腿啊，超累。」\n「難怪我腿軟，原來是被你練到的。」",
-          "editorNote": "健身房搭訕、跟同伴閒聊組間休息時丟出來剛好，運動場合本來話題就輕鬆，用練腿接腿軟毫無違和，講完對方大概會邊笑邊叫你去做下一組",
-          "variations": [
-            "你不用幫我補位，光看到你我就已經舉不動了",
-            "別人來健身房練肌肉，我來這裡好像只練到心動"
-          ]
-        },
-        "en": {
-          "content": "\"What are you training today?\"\n\"Legs — I'm wrecked.\"\n\"No wonder my knees went weak. Turns out you were the workout.\"",
-          "editorNote": "Made for the gym — striking up a chat or resting between sets; the setting is already casual, so pivoting from leg day to weak knees feels effortless. They'll probably laugh and tell you to go do your next set.",
-          "variations": [
-            "You don't need to spot me — one look at you and I already can't lift a thing.",
-            "Everyone else comes here to build muscle; I only seem to be building a crush."
-          ]
-        }
-      }
-    },
-    {
       "id": "cp-334",
       "dateAdded": "2026-07-17",
       "sourceUrl": "https://pickupglow.com/hot-weather-pick-up-lines/",
@@ -9618,7 +9591,11 @@
       "dateAdded": "2026-07-20",
       "sourceUrl": "https://www.rd.com/list/cheesy-pickup-lines/",
       "sourceNote": "'Do you like bagels? Because you're bae goals' 諧音梗概念，中文另創貝果拆字版本",
-      "tags": ["諧音", "食物", "甜"],
+      "tags": [
+        "諧音",
+        "食物",
+        "甜"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「我最近超愛吃貝果。」\n「為什麼突然愛吃那個？」\n「因為第一個字是寶貝的貝，第二個字是果然還是你的果。」",
@@ -9643,7 +9620,11 @@
       "dateAdded": "2026-07-20",
       "sourceUrl": "https://www.rd.com/list/cheesy-pickup-lines/",
       "sourceNote": "'Are you French? Because Eiffel for you' 諧音梗概念，中文改寫成艾菲爾→非你不可",
-      "tags": ["諧音", "幽默", "對話"],
+      "tags": [
+        "諧音",
+        "幽默",
+        "對話"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「你去過巴黎嗎？」\n「沒有耶，怎麼了？」\n「奇怪，那你身上怎麼會有艾菲爾鐵塔的感覺？」\n「什麼意思啦？」\n「艾——非你不可。」",
@@ -9668,7 +9649,11 @@
       "dateAdded": "2026-07-20",
       "sourceUrl": "https://www.today.com/life/relationships/cheesy-pick-up-lines-rcna132030",
       "sourceNote": "'grilled cheese to my tomato soup' 絕配組合概念，改寫成對話版",
-      "tags": ["食物", "甜", "對話"],
+      "tags": [
+        "食物",
+        "甜",
+        "對話"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「你知道我們兩個像什麼嗎？」\n「像什麼？」\n「烤起司三明治配番茄濃湯。」\n「那是什麼意思？」\n「分開吃也不錯，但湊在一起才會有人說一句：這才對嘛。」",
@@ -9693,7 +9678,11 @@
       "dateAdded": "2026-07-20",
       "sourceUrl": "https://parade.com/1039985/marynliles/pick-up-lines/",
       "sourceNote": "'Is your dad a boxer? Because you're a knockout' 概念，改寫成對話並在地化",
-      "tags": ["幽默", "對話", "搞笑"],
+      "tags": [
+        "幽默",
+        "對話",
+        "搞笑"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「你爸是不是拳擊手？」\n「不是啊，你在說什麼？」\n「那就怪了，怎麼你一出現，我就被打得暈頭轉向。」",
@@ -9718,7 +9707,11 @@
       "dateAdded": "2026-07-20",
       "sourceUrl": "https://thoughtcatalog.com/rania-naim/2016/04/50-hilarious-cheesy-pick-up-lines-that-will-definitely-make-your-crush-smile/",
       "sourceNote": "'I'd buy you a drink, but I'd be jealous of the glass' 概念，改寫成飲料店情境對話",
-      "tags": ["甜", "對話", "日常"],
+      "tags": [
+        "甜",
+        "對話",
+        "日常"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「我本來想請你喝飲料。」\n「那怎麼沒請？」\n「因為我會嫉妒那根吸管，它可以一直陪著你。」",

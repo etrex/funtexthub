@@ -35,8 +35,20 @@ const allTopics = (await Promise.all(
     .map(async f => JSON.parse(await readFile(join(topicsDir, f), 'utf-8')))
 )).filter(t => t.slug !== topic.slug);
 
-// Collect all tags for filtering
-const allTags = [...new Set((topic.items ?? []).flatMap((item: any) => item.tags ?? []))];
+// Collect tags for filtering. Some topics carry 400+ distinct tags, most matching a
+// single item, which turns the filter bar into an unusable wall of chips. Keep only
+// tags that group a meaningful number of items, most common first.
+const TAG_MIN_ITEMS = 3;
+const TAG_MAX_SHOWN = 24;
+const tagCounts = new Map<string, number>();
+for (const item of topic.items ?? []) {
+  for (const tag of (item as any).tags ?? []) tagCounts.set(tag, (tagCounts.get(tag) ?? 0) + 1);
+}
+const allTags = [...tagCounts.entries()]
+  .filter(([, count]) => count >= TAG_MIN_ITEMS)
+  .sort((a, b) => b[1] - a[1])
+  .slice(0, TAG_MAX_SHOWN)
+  .map(([tag]) => tag);
 
 // JSON-LD structured data
 const jsonLd = {

@@ -6746,21 +6746,22 @@
       "sourceNote": "受英文『What do you call a snake that is 3.14 meters long? A pi-thon（pi+python）』啟發，中文保留『蛇＋圓周率』的數學雙關核心重寫",
       "tags": [
         "動物",
-        "諧音"
+        "諧音",
+        "數學"
       ],
       "i18n": {
         "zh-tw": {
-          "content": "你知道一條剛好三點一四公尺長的蛇叫什麼嗎？\n\n叫「派森」——因為牠的長度剛好等於一個圓周率，數學老師看了都想養。",
+          "content": "你知道一條剛好 3.14 公尺長的蟒蛇，數學家都叫牠什麼嗎？\n\n『π蟒』——難怪工程師特別喜歡牠。",
           "editorNote": "適合在跟學生或工程師朋友聊天時冷一下",
           "variations": [
-            "也可以接：「那四公尺的呢？」「那就超過範圍了，要重新算過。」"
+            "也可以問：那 2.72 公尺的蛇呢？那是『e 蟒』，比較自然。"
           ]
         },
         "en": {
           "content": "What do you call a snake that's exactly 3.14 meters long?\n\nA pi-thon.",
           "editorNote": "Good for chatting with students or your engineer friends",
           "variations": [
-            "Add: \"What about a 4-meter one?\" \"That one's irrational — best not to measure it.\""
+            "Add: And the 2.72-meter one? That's an e-thon — it's just more natural."
           ]
         }
       }
@@ -7877,32 +7878,6 @@
           "editorNote": "Good for laughing off a laptop that keeps crashing, or having way too many tabs open",
           "variations": [
             "Follow up: what's the fix? Close a few Windows and let the poor thing rest."
-          ]
-        }
-      }
-    },
-    {
-      "id": "cj-292",
-      "dateAdded": "2026-07-07",
-      "sourceUrl": "https://onelinefun.com/",
-      "sourceNote": "改編橘子賽跑輸『run out of juice（沒果汁/沒力氣）』雙關，中文用『沒汁＝沒力氣』",
-      "tags": [
-        "諧音",
-        "食物"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "為什麼橘子跑步比賽永遠拿不到冠軍？\n\n因為牠跑到一半就『沒汁』了，一點力氣都不剩。",
-          "editorNote": "適合運動後喊累、或朋友半途放棄時開玩笑打氣",
-          "variations": [
-            "也可以接：那要怎麼補救？先擠一杯柳橙汁補回來啊。"
-          ]
-        },
-        "en": {
-          "content": "Why do oranges never win the race?\n\nBecause halfway through, they always run out of juice.",
-          "editorNote": "Good for joking around after a workout, or when someone runs out of steam mid-task",
-          "variations": [
-            "Follow up: how do they recover? Simple — squeeze themselves a fresh glass."
           ]
         }
       }
@@ -9100,32 +9075,6 @@
           "editorNote": "Say it deadpan while catching your breath on the stairs",
           "variations": [
             "Add: His legs got braver way faster than he did."
-          ]
-        }
-      }
-    },
-    {
-      "id": "cj-341",
-      "dateAdded": "2026-07-20",
-      "sourceUrl": "https://punsify.com/animal-jokes/",
-      "sourceNote": "pi-thon（3.14 公尺蛇）梗；中文保留 π+蟒＝Python 的中英雙關並加 e 延伸",
-      "tags": [
-        "動物",
-        "數學"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "你知道一條剛好 3.14 公尺長的蟒蛇，數學家都叫牠什麼嗎？\n\n『π蟒』——難怪工程師特別喜歡牠。",
-          "editorNote": "適合理工同學群組，講完可以問對方笑點在哪",
-          "variations": [
-            "也可以問：那 2.72 公尺的蛇呢？那是『e 蟒』，比較自然。"
-          ]
-        },
-        "en": {
-          "content": "What do you call a snake that's exactly 3.14 meters long?\n\nA π-thon.",
-          "editorNote": "A math-nerd favorite; bonus points near programmers",
-          "variations": [
-            "Add: And the 2.72-meter one? That's an e-thon — it's just more natural."
           ]
         }
       }

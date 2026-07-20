@@ -6003,23 +6003,24 @@
         "療癒",
         "自我接納",
         "夠好了",
-        "心靈"
+        "心靈",
+        "自我價值"
       ],
       "i18n": {
         "zh-tw": {
-          "content": "你不用變成更好的人才值得被喜歡。\n現在這個樣子的你，就已經夠了。",
-          "editorNote": "很多人習慣先把自己罵一頓，覺得要先「夠好」才配得到溫柔。但溫柔不是獎品，不需要先達標。這句話想對那種總是覺得自己還不夠的人說：你不欠世界一個更完美的版本。適合傳給很努力卻常常覺得自己不夠格的朋友。",
+          "content": "你不用變成更好的版本才值得被喜歡，\n現在這個、還在努力的你，就已經夠了。",
+          "editorNote": "給那些覺得「等我瘦了／等我成功了才配快樂」的人。這句話拿掉那個「等」字，適合貼在鏡子上，或傳給總是覺得自己還不夠的朋友。",
           "variations": [
-            "你不是有條件才值得被愛，你本來就值得。",
-            "先放過自己一馬，你已經做得比你以為的還多。"
+            "不用等到變完美，你現在就有資格對自己好一點。",
+            "你的價值不是加班加出來的，本來就在那裡。"
           ]
         },
         "en": {
-          "content": "You don't have to become a better person to deserve to be liked.\nThe you that exists right now is already enough.",
-          "editorNote": "A lot of people roast themselves first, convinced they have to be 'good enough' before they're allowed any kindness. But kindness isn't a prize you unlock by hitting a target. This is for the person who always feels like they're not quite there yet — you don't owe the world a more perfect version of yourself. Send it to a hard-working friend who keeps feeling like they fall short.",
+          "content": "You don't have to become a better version to deserve being liked.\nThis you — the one still figuring it out — is already enough.",
+          "editorNote": "For anyone stuck in 'I'll be happy once I've lost the weight / once I've made it.' This deletes the word 'once.' Good to stick on a mirror, or send to a friend who never feels like they measure up.",
           "variations": [
-            "You're not worthy of love only when you meet some condition — you always were.",
-            "Cut yourself some slack. You've done more than you give yourself credit for."
+            "You don't have to wait until you're perfect to be kind to yourself.",
+            "Your worth isn't something you earn by overworking. It was already there."
           ]
         }
       }
@@ -7293,23 +7294,24 @@
         "療癒",
         "慢慢來",
         "情緒",
-        "心靈"
+        "心靈",
+        "休息"
       ],
       "i18n": {
         "zh-tw": {
-          "content": "復原不一定看起來像前進，\n有時候它只是：好好呼吸，重新開始。",
-          "editorNote": "給覺得自己「都沒有變好」而焦慮的人。想告訴對方，能撐過今天、還願意再試一次，就已經是在復原了。適合傳給覺得自己卡住的朋友。",
+          "content": "康復不一定看起來像在前進。\n有時候它只是呼吸、休息、把自己放軟，然後重新開始。",
+          "editorNote": "給那些覺得「我怎麼還沒好起來」而焦慮的人。提醒他有些進步是看不見的，光是撐著、還願意再試一次，就已經很了不起。適合傳給正在慢慢走出低潮的朋友。",
           "variations": [
-            "沒有進步的日子，也是復原的一部分。",
-            "今天有好好呼吸、有繼續活著，就夠了。"
+            "沒有變好不代表你在退步，有時候原地喘口氣也是一種前進。",
+            "願意休息、願意再開始，這本身就是復原的一部分。"
           ]
         },
         "en": {
-          "content": "Healing doesn't always look like progress.\nSometimes it's just breathing, softening, and starting again.",
-          "editorNote": "For the person who's anxious because they feel like they're 'not getting better.' A reminder that getting through today and being willing to try again is already healing. Good for a friend who feels stuck.",
+          "content": "Healing doesn't always look like moving forward.\nSometimes it's just breathing, resting, softening — and starting again.",
+          "editorNote": "For the person who's anxious because they 'still aren't better yet.' A reminder that some progress is invisible — just holding on and being willing to try again is already a lot. Send to a friend slowly climbing out of a low point.",
           "variations": [
-            "The days with no visible progress still count as healing.",
-            "You breathed today. You kept going. That's enough."
+            "Not getting better doesn't mean you're falling behind. Sometimes catching your breath is progress.",
+            "Being willing to rest, being willing to start over — that's part of the recovery."
           ]
         }
       }
@@ -7520,36 +7522,6 @@
           "variations": [
             "How you treat yourself is how the world learns to treat you. Start soft.",
             "Unclench the fist you're aiming at yourself. A lot of things get easier after that."
-          ]
-        }
-      }
-    },
-    {
-      "id": "hq-259",
-      "dateAdded": "2026-07-10",
-      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
-      "sourceNote": "Inspired by blurtitout.org self-compassion collection; original writing on 'you are enough as you are'",
-      "tags": [
-        "療癒",
-        "自我接納",
-        "自我價值",
-        "心靈"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "你不用變成更好的版本才值得被喜歡，\n現在這個、還在努力的你，就已經夠了。",
-          "editorNote": "給那些覺得「等我瘦了／等我成功了才配快樂」的人。這句話拿掉那個「等」字，適合貼在鏡子上，或傳給總是覺得自己還不夠的朋友。",
-          "variations": [
-            "不用等到變完美，你現在就有資格對自己好一點。",
-            "你的價值不是加班加出來的，本來就在那裡。"
-          ]
-        },
-        "en": {
-          "content": "You don't have to become a better version to deserve being liked.\nThis you — the one still figuring it out — is already enough.",
-          "editorNote": "For anyone stuck in 'I'll be happy once I've lost the weight / once I've made it.' This deletes the word 'once.' Good to stick on a mirror, or send to a friend who never feels like they measure up.",
-          "variations": [
-            "You don't have to wait until you're perfect to be kind to yourself.",
-            "Your worth isn't something you earn by overworking. It was already there."
           ]
         }
       }
@@ -7910,36 +7882,6 @@
           "variations": [
             "One more laugh today than yesterday means you're already heading the right way.",
             "You don't have to heal all at once. Slowly is still healing."
-          ]
-        }
-      }
-    },
-    {
-      "id": "hq-273",
-      "dateAdded": "2026-07-13",
-      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
-      "sourceNote": "Inspired by 'give yourself permission to rest' theme; original rewrite reframing rest as not-lazy",
-      "tags": [
-        "療癒",
-        "休息",
-        "自我照顧",
-        "心靈"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "休息不是偷懶，\n是你身體在幫你踩剎車。它比你更早知道，你已經撐到極限了。",
-          "editorNote": "給那種一停下來就有罪惡感的人。適合傳給明明累爆、卻還在硬撐、覺得休息就是對不起誰的朋友。",
-          "variations": [
-            "累的時候躺一下，不是懶，是在充電。",
-            "你不是不夠努力，你只是需要喘一口氣。"
-          ]
-        },
-        "en": {
-          "content": "Resting isn't slacking off —\nit's your body hitting the brakes for you. It knew you'd hit your limit before you did.",
-          "editorNote": "For the person who feels guilty the moment they stop. Send to a friend who's clearly running on empty but keeps pushing, as if resting means letting someone down.",
-          "variations": [
-            "Lying down when you're wiped out isn't lazy — it's recharging.",
-            "You're not falling short. You just need a breath."
           ]
         }
       }
@@ -8330,36 +8272,6 @@
           "variations": [
             "Imperfect doesn't mean broken. It's just what life actually looks like.",
             "Don't let one gap hide the whole wide stretch of life that's going just fine."
-          ]
-        }
-      }
-    },
-    {
-      "id": "hq-287",
-      "dateAdded": "2026-07-16",
-      "sourceUrl": "https://www.hope-wellness.com/blog/18-quotes-to-inspire-self-kindness-and-self-compassion",
-      "sourceNote": "Inspired by the idea that healing looks like resting and softening, not visible progress; original rewrite",
-      "tags": [
-        "療癒",
-        "慢慢來",
-        "休息",
-        "心靈"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "康復不一定看起來像在前進。\n有時候它只是呼吸、休息、把自己放軟，然後重新開始。",
-          "editorNote": "給那些覺得「我怎麼還沒好起來」而焦慮的人。提醒他有些進步是看不見的，光是撐著、還願意再試一次，就已經很了不起。適合傳給正在慢慢走出低潮的朋友。",
-          "variations": [
-            "沒有變好不代表你在退步，有時候原地喘口氣也是一種前進。",
-            "願意休息、願意再開始，這本身就是復原的一部分。"
-          ]
-        },
-        "en": {
-          "content": "Healing doesn't always look like moving forward.\nSometimes it's just breathing, resting, softening — and starting again.",
-          "editorNote": "For the person who's anxious because they 'still aren't better yet.' A reminder that some progress is invisible — just holding on and being willing to try again is already a lot. Send to a friend slowly climbing out of a low point.",
-          "variations": [
-            "Not getting better doesn't mean you're falling behind. Sometimes catching your breath is progress.",
-            "Being willing to rest, being willing to start over — that's part of the recovery."
           ]
         }
       }

@@ -7987,23 +7987,25 @@
         "咖啡",
         "同事",
         "職場幽默",
-        "上班族限定"
+        "上班族限定",
+        "辦公室",
+        "職場厭世"
       ],
       "i18n": {
         "zh-tw": {
-          "content": "辦公室裡我最喜歡的同事是咖啡機，它從來不會跑來問我進度到哪了。",
-          "editorNote": "早上第一杯咖啡拿到座位時發送，配一張咖啡機照片最對味。",
+          "content": "辦公室裡我最喜歡的同事是咖啡機，它從來不會問我進度到哪、也不會突然轉頭說「這個很急」。",
+          "editorNote": "早上第一杯咖啡下肚後傳給同組的人，順便嘆一口氣。",
           "variations": [
-            "『咖啡機是全公司唯一不會已讀不回的存在。』",
-            "延伸版：『同事會催進度，咖啡機只會默默給我續命，你說誰比較重要。』"
+            "『咖啡機是全公司唯一不會已讀不回我的同事。』",
+            "延伸版：『我對咖啡機的感情，比對某些主管還深。』"
           ]
         },
         "en": {
-          "content": "My favorite coworker is the coffee machine — it never once comes over to ask where my progress is.",
-          "editorNote": "Send it the moment you carry your first cup back to your desk. A photo of the machine seals the deal.",
+          "content": "My favorite coworker in the office is the coffee machine — it never asks for a status update or spins around to say 'this one's urgent.'",
+          "editorNote": "Send it to your team right after the first cup of the morning, with a heavy sigh.",
           "variations": [
-            "'The coffee machine is the only thing in this office that never leaves me on read.'",
-            "'Coworkers chase deadlines; the coffee machine just quietly keeps me alive. You tell me who matters more.'"
+            "\"The coffee machine is the only coworker who never leaves me on read.\"",
+            "\"Honestly, I have a deeper relationship with the coffee machine than with some managers.\""
           ]
         }
       }
@@ -8671,37 +8673,6 @@
       }
     },
     {
-      "id": "wq-292",
-      "dateAdded": "2026-07-14",
-      "sourceUrl": "https://tivazo.com/blogs/funny-quotes-about-work-to-brighten-your-day/",
-      "sourceNote": "『WFH: 10% work, 90% making sure no one sees the laundry pile』哏，重寫",
-      "tags": [
-        "遠端工作",
-        "視訊會議",
-        "在家工作",
-        "職場厭世",
-        "幽默自嘲"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "在家工作的真相：一成在做事，九成在確保鏡頭裡不會拍到我堆成小山的待洗衣服。",
-          "editorNote": "被主管稱讚「遠端也很有產出」時，心裡默念這句。",
-          "variations": [
-            "『我的視訊背景很乾淨，是因為髒亂全被我推到鏡頭外了。』",
-            "延伸版：『開視訊前的三分鐘，都在演一場房間很整齊的默劇。』"
-          ]
-        },
-        "en": {
-          "content": "The truth about working from home: ten percent actual work, ninety percent making sure the camera never catches the mountain of laundry behind me.",
-          "editorNote": "Recite this silently when your manager praises how 'productive' you are remotely.",
-          "variations": [
-            "'My video background looks spotless because I shoved all the mess just out of frame.'",
-            "'The three minutes before a call are a full pantomime of a tidy room.'"
-          ]
-        }
-      }
-    },
-    {
       "id": "wq-293",
       "dateAdded": "2026-07-14",
       "sourceUrl": "https://danfe.io/blog/hilarious-office-quotes/",
@@ -8790,37 +8761,6 @@
           "variations": [
             "\"The scary part of a video call isn't getting called on — it's getting asked to stand up and grab a document.\"",
             "\"'You're on mute' is the national anthem of everyone who works from home.\""
-          ]
-        }
-      }
-    },
-    {
-      "id": "wq-296",
-      "dateAdded": "2026-07-15",
-      "sourceUrl": "https://danfe.io/blog/hilarious-office-quotes/",
-      "sourceNote": "『coffee machine is my favorite coworker, never asks for a status update』哏，重寫",
-      "tags": [
-        "咖啡",
-        "同事",
-        "辦公室",
-        "職場厭世",
-        "上班族限定"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "辦公室裡我最喜歡的同事是咖啡機，它從來不會問我進度到哪、也不會突然轉頭說「這個很急」。",
-          "editorNote": "早上第一杯咖啡下肚後傳給同組的人，順便嘆一口氣。",
-          "variations": [
-            "『咖啡機是全公司唯一不會已讀不回我的同事。』",
-            "延伸版：『我對咖啡機的感情，比對某些主管還深。』"
-          ]
-        },
-        "en": {
-          "content": "My favorite coworker in the office is the coffee machine — it never asks for a status update or spins around to say 'this one's urgent.'",
-          "editorNote": "Send it to your team right after the first cup of the morning, with a heavy sigh.",
-          "variations": [
-            "\"The coffee machine is the only coworker who never leaves me on read.\"",
-            "\"Honestly, I have a deeper relationship with the coffee machine than with some managers.\""
           ]
         }
       }

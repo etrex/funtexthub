@@ -5746,7 +5746,7 @@
       ],
       "i18n": {
         "zh-tw": {
-          "content": "租屋是一款遊戲：你付一筆付不起的錢，然後水槽開始發出像在召喚惡魔的聲音。\n最恐怖的跳嚇不是半夜的怪聲，是手機跳出「房租繳款日」。",
+          "content": "租屋最恐怖的跳嚇，從來不是半夜水管的怪聲。\n\n是手機突然跳出「房租繳款日」的那一下。",
           "editorNote": "適合月底看到扣款通知想裝死的朋友，或水管半夜自己唱歌的租屋現場實錄，用來苦笑一下",
           "variations": [
             "我家最會準時的，只有房租；最不準時的，是修水管的師傅。",
@@ -5754,7 +5754,7 @@
           ]
         },
         "en": {
-          "content": "Renting is a game where you pay an impossible amount of money, and then your sink starts making a noise like it's summoning a demon.\nThe scariest jump-scare isn't the midnight sound—it's your phone lighting up with 'Rent Due.'",
+          "content": "The scariest jump scare in renting was never the pipes groaning at 2 a.m.\n\nIt is your phone lighting up with \"Rent due today.\"",
           "editorNote": "For the friend who wants to play dead when the payment alert hits at month's end, or whose pipes sing to themselves at 3 a.m.",
           "variations": [
             "The only thing in my apartment that's ever on time is the rent. The plumber, never.",
@@ -6601,36 +6601,6 @@
       }
     },
     {
-      "id": "rq-224",
-      "dateAdded": "2026-07-17",
-      "sourceUrl": "https://thunderdungeon.com/2026/01/13/25-renter-memes-for-anyone-stuck-in-the-lease-loop/",
-      "sourceNote": "'congrats on having a home, now you can afford nothing else' meme; rewritten original",
-      "tags": [
-        "房租",
-        "薪水",
-        "厭世",
-        "上班族"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "恭喜你，有地方住了。\n壞消息是，繳完房租之後，\n你能負擔得起的東西，就只剩下這個「住的地方」了。",
-          "editorNote": "傳給剛簽完約、看著存款默默流淚的朋友，苦中作樂一下",
-          "variations": [
-            "我有一個家，也只有一個家，因為薪水付完房租就沒了。",
-            "月初我是有房子的人，月底我是只剩房子的人。"
-          ]
-        },
-        "en": {
-          "content": "Congratulations, you have a place to live.\nThe bad news is, after rent,\nthe only thing you can still afford is that place to live.",
-          "editorNote": "For the friend who just signed a lease and is quietly watching their savings evaporate — dark humor to get through it",
-          "variations": [
-            "I have a home. Just a home. Because the paycheck's gone the second rent clears.",
-            "Start of the month I'm a person with an apartment; end of the month I'm a person with only an apartment."
-          ]
-        }
-      }
-    },
-    {
       "id": "rq-225",
       "dateAdded": "2026-07-20",
       "sourceUrl": "https://www.inn-taipei.com/2026-rent-subsidy-complete-guide/",
@@ -6656,36 +6626,6 @@
           "variations": [
             "Spent all day on the subsidy application and learned the thing that doesn't qualify isn't me, it's my apartment.",
             "The subsidy is right there, and I can't touch it, because where I live doesn't legally exist."
-          ]
-        }
-      }
-    },
-    {
-      "id": "rq-226",
-      "dateAdded": "2026-07-20",
-      "sourceUrl": "https://thunderdungeon.com/2026/04/06/landlord-vs-tenants-memes-for-everyone-currently-paying-too-much-to-live-somewhere/",
-      "sourceNote": "'renting: pay impossible money, sink still summons a demon' meme; rewritten original",
-      "tags": [
-        "房租",
-        "漏水",
-        "房東",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "租屋是一種遊戲：\n你付出付不起的錢，\n然後水槽半夜還是會發出像在召喚惡魔的聲音。",
-          "editorNote": "傳給那個剛搬進新家、卻被水管半夜的怪聲嚇醒的朋友",
-          "variations": [
-            "花這麼多錢租房，換來一個會在凌晨三點自己唱歌的排水管。",
-            "房租繳好繳滿，水槽的異音附贈，房東說那是老房子的『個性』。"
-          ]
-        },
-        "en": {
-          "content": "Renting is a little game:\nyou pay an amount of money you can't afford,\nand your sink still makes a noise at night like it's summoning a demon.",
-          "editorNote": "Send to the friend who just moved in and keeps getting woken up by mysterious plumbing noises",
-          "variations": [
-            "Paid a fortune in rent and got a drain that sings to itself at 3 a.m.",
-            "Rent's paid in full, the sink's demonic groaning is complimentary, and my landlord calls it the building's 'character.'"
           ]
         }
       }
