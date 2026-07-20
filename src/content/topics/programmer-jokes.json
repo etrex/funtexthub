@@ -9782,6 +9782,154 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-340",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://programmerhumor.io/memes/kubernetes",
+      "sourceNote": "Kubernetes YAML / CrashLoopBackOff meme themes, rewritten into an original dialogue joke",
+      "tags": [
+        "DevOps",
+        "工程師日常",
+        "黑色幽默",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管：「我們只是要跑一個 Hello World，應該很快吧？」\n\nDevOps：「對，程式三行。」\n\n主管：「那怎麼弄兩天了？」\n\nDevOps：「因為那三行外面包了四十七個 YAML。」",
+          "editorNote": "貼在部門群組，讓不寫 infra 的人稍微理解一下為什麼「很簡單的東西」要排兩個 sprint。",
+          "variations": [
+            "延伸：YAML 不是設定檔格式，是一種人格特質。",
+            "延伸：我們沒有在寫程式，我們在寫縮排。"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"It's just a Hello World, should be quick, right?\"\n\nDevOps: \"Sure. The code is three lines.\"\n\nManager: \"Then why has it been two days?\"\n\nDevOps: \"Because those three lines are wrapped in forty-seven YAML files.\"",
+          "editorNote": "Drop it in the team channel so the non-infra folks understand why the \"simple thing\" needs two sprints.",
+          "variations": [
+            "Extension: YAML isn't a config format. It's a personality type.",
+            "Extension: We don't write code anymore. We write indentation."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-341",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://programmerhumor.io/memes/regex",
+      "sourceNote": "Regex 'you'll google the syntax every time' meme, rewritten as an original two-liner",
+      "tags": [
+        "正規表達式",
+        "工程師思維",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我寫正規表達式的流程是這樣的：\n\n花二十分鐘寫出一行沒人看得懂的東西，\n測試通過，\n然後在上面補一行註解：「別動它。」",
+          "editorNote": "適合放在 PR 描述裡自嘲，或轉給那個剛學會 regex 就想重構全專案的同事。",
+          "variations": [
+            "延伸：我不是寫出了那條 regex，我是在網路上收養了它。",
+            "延伸：世界上最誠實的註解就是 // 我也不知道這行為什麼會動。"
+          ]
+        },
+        "en": {
+          "content": "My regex workflow:\n\nSpend twenty minutes producing one line nobody can read,\nwatch the tests pass,\nthen add a comment above it: \"Do not touch.\"",
+          "editorNote": "Good for a self-deprecating PR description, or for the coworker who just learned regex and wants to refactor everything with it.",
+          "variations": [
+            "Extension: I didn't write that regex. I adopted it off the internet.",
+            "Extension: The most honest comment in any codebase is // I don't know why this works either."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-342",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://programmerhumor.io/memes/compiler-errors",
+      "sourceNote": "'Fix one syntax error, fifteen more appear' compiler meme, rewritten",
+      "tags": [
+        "編譯器",
+        "除錯",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "編譯器：「第 42 行少一個分號。」\n\n我補上去。\n\n編譯器：「很好，現在我可以告訴你另外十五個錯誤了，剛剛那個分號一直擋著我。」",
+          "editorNote": "適合在半夜被編譯器連環羞辱的時候，發到群組討拍。",
+          "variations": [
+            "延伸：編譯器不是在報錯，它是在分期付款地摧毀你。",
+            "延伸：一個分號能藏住的絕望，比你想像的多。"
+          ]
+        },
+        "en": {
+          "content": "Compiler: \"Missing semicolon on line 42.\"\n\nI add it.\n\nCompiler: \"Great. Now I can show you the other fifteen errors. That semicolon was blocking my view.\"",
+          "editorNote": "For the 2 a.m. moment when the compiler is humiliating you in installments. Post it and collect sympathy.",
+          "variations": [
+            "Extension: The compiler doesn't report errors. It releases them on a payment plan.",
+            "Extension: One semicolon can hide more despair than you'd think."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-343",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.cloudzero.com/blog/devops-memes/",
+      "sourceNote": "On-call / pager duty humor themes, rewritten into an original joke",
+      "tags": [
+        "on-call",
+        "工程師日常",
+        "黑色幽默",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "值班第一週，手機一響我就跳起來。\n\n值班第三個月，手機一響我先看一眼，翻個身，心裡默念：「它自己會好。」\n\n最可怕的是——它真的自己好了。",
+          "editorNote": "傳給正在輪值 on-call 的同事，附一句「加油」比較不會被打。",
+          "variations": [
+            "延伸：on-call 教會我的不是排錯，是接受無常。",
+            "延伸：半夜三點的警報有兩種：真的壞了，和它想你了。"
+          ]
+        },
+        "en": {
+          "content": "Week one on call: the pager buzzes and I leap out of bed.\n\nMonth three on call: the pager buzzes, I glance at it, roll over, and whisper, \"It'll fix itself.\"\n\nThe terrifying part is that it does.",
+          "editorNote": "Send it to whoever's holding the pager this week — maybe add a \"you got this\" so they don't come for you.",
+          "variations": [
+            "Extension: On-call didn't teach me troubleshooting. It taught me acceptance.",
+            "Extension: There are two kinds of 3 a.m. alerts: something broke, and the system just misses you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-344",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://alto9.com/2025/04/11/the-funniest-devops-and-developer-jokes-to-brighten-your-day/",
+      "sourceNote": "'Entry-level role requiring more years than the technology has existed' job-posting joke, rewritten",
+      "tags": [
+        "面試",
+        "職場",
+        "黑色幽默",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "職缺：初階工程師，需具備十年該框架經驗。\n\n我寫信過去：「這個框架去年才發表。」\n\nHR 回：「所以我們要求很高。」",
+          "editorNote": "求職季必備，貼在找工作的群組裡瞬間收穫一排哭臉。",
+          "variations": [
+            "延伸：他們要的不是工程師，是時光機。",
+            "延伸：初階職缺的門檻，是資深工程師的履歷。"
+          ]
+        },
+        "en": {
+          "content": "Job posting: Entry-level engineer, must have 10 years of experience with this framework.\n\nI emailed them: \"The framework came out last year.\"\n\nHR replied: \"That's why our bar is so high.\"",
+          "editorNote": "Job-hunting season staple. Post it in the job-search group chat and watch the crying emojis pile up.",
+          "variations": [
+            "Extension: They're not hiring an engineer. They're hiring a time machine.",
+            "Extension: The requirements for the junior role are just a senior engineer's résumé."
+          ]
+        }
+      }
     }
   ]
 }

@@ -5289,6 +5289,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-178",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://truemii.chinatimes.com/content/20260423001578-265003",
+      "sourceNote": "2026 夏季高溫新聞：中南部體感逼近 40 度、大台北盆地高溫燈號；改寫原創",
+      "tags": [
+        "高溫",
+        "冷氣",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "氣象主播說：「今天體感溫度四十度。」\n我腦中自動跑出翻譯字幕：\n「今天冷氣要開十小時，換算大概一百二十塊。」\n以前聽氣象是看要不要帶傘，\n現在聽氣象，是在對帳。",
+          "editorNote": "傳給那個每天看氣溫預報都會下意識心算電費的同事",
+          "variations": [
+            "現在的氣象預報對我來說不是天氣，是報價單。",
+            "體感溫度每升高一度，我的體感存款就少一格。"
+          ]
+        },
+        "en": {
+          "content": "The weather anchor says: 'Feels like 104 today.'\nMy brain auto-generates subtitles:\n'That's ten hours of AC, roughly four bucks.'\nI used to check the forecast to decide on an umbrella.\nNow I check it to reconcile my budget.",
+          "editorNote": "For the coworker who mentally converts every forecast into dollars before breakfast",
+          "variations": [
+            "The forecast stopped being weather to me. It's a price quote now.",
+            "Every degree the heat index climbs, my felt bank balance drops a bar."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-179",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://tech.udn.com/tech/story/123152/9539864",
+      "sourceNote": "台電說明：住宅平均月電費由非夏月 638 元升至夏月 1084 元；改寫原創",
+      "tags": [
+        "夏月電價",
+        "帳單",
+        "台電",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說，一般家庭夏天電費平均從六百多變成一千出頭。\n我看著自己手上那張帳單，\n忽然覺得它很努力，也很孤獨——\n它一個人，就把全國平均往上拉了一點點。",
+          "editorNote": "傳給那個帳單金額永遠超出新聞平均值、還被家人念的人",
+          "variations": [
+            "所謂平均，就是有人幫你分擔數字，而我顯然是被分擔的那個。",
+            "我家的帳單不是超標，它是在為統計學做出貢獻。"
+          ]
+        },
+        "en": {
+          "content": "The news says the average summer power bill went from about sixty bucks to just over a hundred.\nI looked at the bill in my hand\nand suddenly felt for it — so hardworking, so alone.\nAll by itself, it nudged the national average up a little.",
+          "editorNote": "For anyone whose bill blows past every 'average' figure in the news and gets a lecture about it at dinner",
+          "variations": [
+            "An average means someone's carrying the number down for you. Clearly I'm not that someone.",
+            "My bill isn't over the limit. It's contributing to statistics."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-180",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.storm.mg/lifestyle/11138409",
+      "sourceNote": "專家教冷氣設定一招三個月可省約 1296 元電費的報導；改寫原創",
+      "tags": [
+        "省電",
+        "冷氣",
+        "省電迷思",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家說，冷氣多按一個鍵，三個月可以省一千兩百多塊。\n我立刻照做，然後認真計算：\n一千兩百塊除以九十天，\n一天十四塊。\n剛好是我熱到受不了、跑去便利商店買的那罐冰紅茶。\n所以我省下的，是一個循環。",
+          "editorNote": "傳給那個努力執行所有省電攻略、卻發現錢從別的地方漏光的朋友",
+          "variations": [
+            "省電攻略的效果都是真的，只是它們沒算到我會因為太熱而多花的錢。",
+            "我省下的電費，最後都變成便利商店的冰櫃業績。"
+          ]
+        },
+        "en": {
+          "content": "An expert said one extra button on the AC saves about forty bucks over three months.\nI did it immediately, then did the math:\nforty bucks over ninety days\nis about forty cents a day.\nExactly what I spend on the iced tea I buy when the heat breaks me.\nSo what I saved was a loop.",
+          "editorNote": "For the friend who follows every energy-saving hack and still watches the money leak out somewhere else",
+          "variations": [
+            "Every saving tip works. None of them account for what I spend because I'm too hot.",
+            "The money I saved on power all ended up in the convenience store cooler."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-181",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260604000125-260405",
+      "sourceNote": "冷氣不必固定 26 度、建議室內外溫差不超過 8 度的專家建議；改寫原創",
+      "tags": [
+        "26度",
+        "冷氣",
+        "省電",
+        "矛盾"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家：「室內外溫差不要超過八度。」\n我很配合，外面三十六度，我開二十八度。\n身體確實沒有不舒服。\n不舒服的是心情——\n因為我跟月初那個還有存款的自己，溫差已經超過八千。",
+          "editorNote": "傳給那個乖乖照專家建議設定溫度、帳單還是不留情面的人",
+          "variations": [
+            "溫差八度我做得到，價差八百我做不到。",
+            "我跟外面的溫差控制得很好，跟錢包的落差完全失控。"
+          ]
+        },
+        "en": {
+          "content": "Expert: 'Keep the indoor-outdoor gap under fifteen degrees.'\nI complied. It's 97 outside, so I set it to 82.\nMy body genuinely feels fine.\nWhat doesn't feel fine is my mood —\nbecause the gap between me and the version of me who had savings on the first of the month is way past fifteen.",
+          "editorNote": "For the person who followed the recommended setting to the letter and got no mercy from the bill anyway",
+          "variations": [
+            "I can handle a fifteen-degree gap. It's the three-figure gap I can't.",
+            "My temperature gap is perfectly managed. My wallet gap is in free fall."
+          ]
+        }
+      }
     }
   ]
 }

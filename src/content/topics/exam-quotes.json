@@ -7170,6 +7170,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-234",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.uac.edu.tw/",
+      "sourceNote": "登記分發最多可填 100 個志願、夢幻／目標／保守三分法的選填建議改寫",
+      "tags": [
+        "分科測驗",
+        "志願",
+        "考後",
+        "自嘲",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "志願可以填一百個，聽起來很自由。\n實際上是把「夢想」「現實」「認命」三個階段，一次排進同一張表格裡。",
+          "editorNote": "登記分發填志願時最有共鳴，適合貼在班群或限動配一張志願表截圖。",
+          "variations": [
+            "前十個志願是我對自己的期待，後九十個是我對自己的了解。",
+            "填到第六十個的時候，我已經開始查那間學校附近有沒有好吃的。"
+          ]
+        },
+        "en": {
+          "content": "You get to list a hundred choices, which sounds like freedom.\nIt's really just cramming \"dream,\" \"reality,\" and \"acceptance\" into one spreadsheet.",
+          "editorNote": "Perfect for the college-choice ranking week; pairs well with a screenshot of your list.",
+          "variations": [
+            "My top ten are what I hope I am. The other ninety are what I know I am.",
+            "By choice number sixty I'd stopped reading rankings and started reading the campus food reviews."
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-235",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://student.104.com.tw/blog/ast_exam_time/",
+      "sourceNote": "115 分科測驗 8/3 上午開放成績查詢，改寫查分那一刻的心理狀態",
+      "tags": [
+        "分科測驗",
+        "放榜",
+        "焦慮",
+        "自嘲",
+        "考後"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "成績單早就決定好了，是我還沒準備好。\n所以我把查分頁面開著，然後去洗了一個史上最乾淨的碗。",
+          "editorNote": "成績公告當天最貼切，適合在查分前的拖延時段發，朋友一定跳出來說「我也是」。",
+          "variations": [
+            "手指放在查詢鍵上三分鐘，這是我今年最專注的三分鐘。",
+            "查分之前先深呼吸，查分之後直接閉氣。"
+          ]
+        },
+        "en": {
+          "content": "The score was decided weeks ago. I'm the one who isn't ready.\nSo I left the results page open and went to wash the cleanest dish of my life.",
+          "editorNote": "Made for results-day morning, right in that stalling window before you actually click.",
+          "variations": [
+            "Three minutes with my finger hovering over the button — most focused I've been all year.",
+            "Deep breath before checking. Hold that breath indefinitely after."
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-236",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.luyiacademy.com/news.php?act=view&id=42",
+      "sourceNote": "考後暑假規劃（打工、駕訓班、營隊）相關內容改寫成計畫落空的自嘲",
+      "tags": [
+        "暑假",
+        "考後",
+        "拖延",
+        "廢文",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完那天我列了暑假計畫：打工、學開車、讀三本書、練身體。\n目前完成度是「成功把清單存進手機」。",
+          "editorNote": "考後放暑假兩週左右發最準，正好是所有人計畫開始崩盤的時間點。",
+          "variations": [
+            "我的暑假計畫表現在是一份很有企圖心的許願清單。",
+            "本來要充實地過，結果我把「休息」這一項做得特別徹底。"
+          ]
+        },
+        "en": {
+          "content": "The day exams ended I made a summer plan: get a job, learn to drive, read three books, get in shape.\nCurrent progress: successfully saved the list to my phone.",
+          "editorNote": "Lands hardest about two weeks into break, right when everyone's plans quietly collapse.",
+          "variations": [
+            "My summer to-do list has quietly become a very ambitious wish list.",
+            "I was going to make this summer count. So far I've only overachieved at resting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-237",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.gvm.com.tw/article/128283",
+      "sourceNote": "落點分析工具與跨考競爭墊高門檻的報導，改寫成反覆刷落點的行為",
+      "tags": [
+        "落點分析",
+        "考後",
+        "焦慮",
+        "自嘲",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "落點分析我今天跑了十七次，數字都一樣。\n但我還是相信第十八次它會突然良心發現。",
+          "editorNote": "等成績、排志願的期間最好用，戳中每個一直重刷落點網站的人。",
+          "variations": [
+            "同一個系統換三個網站問，得到三個一樣讓我沉默的答案。",
+            "我不是在做落點分析，我是在跟電腦討價還價。"
+          ]
+        },
+        "en": {
+          "content": "Ran the admissions predictor seventeen times today. Same number every time.\nStill convinced round eighteen is when it finally develops a conscience.",
+          "editorNote": "For the waiting-on-results stretch — instantly recognizable to serial score-predictor refreshers.",
+          "variations": [
+            "Asked three different sites the same question and got three equally quiet answers.",
+            "This isn't analysis anymore. I'm just negotiating with a computer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-238",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.tkbgo.com.tw/schoolZone/university/news/toDetail?news_id=4668",
+      "sourceNote": "分科測驗後至放榜期間的親友關心情境改寫",
+      "tags": [
+        "考後",
+        "親戚",
+        "放榜",
+        "自嘲",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "親戚問我考得怎麼樣，我說「還可以啦」。\n這三個字是我今年寫過最有技巧的申論題。",
+          "editorNote": "考後家庭聚餐、長輩群組關心時最好用，配一張桌上一堆菜的照片更到位。",
+          "variations": [
+            "「還在等成績」是我最近的萬用護身符，可惜只能撐到八月。",
+            "我不是不想回答，我是還沒想好要怎麼包裝這個答案。"
+          ]
+        },
+        "en": {
+          "content": "A relative asked how the exams went and I said, \"Not bad.\"\nThose two words are the most skillfully argued essay I've written all year.",
+          "editorNote": "Built for post-exam family dinners and the relentless group-chat check-ins.",
+          "variations": [
+            "\"Still waiting on scores\" is my favorite shield right now. Shame it expires in August.",
+            "It's not that I won't answer. I just haven't finished packaging the answer yet."
+          ]
+        }
+      }
     }
   ]
 }

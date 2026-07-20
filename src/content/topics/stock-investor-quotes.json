@@ -5135,6 +5135,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-171",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/hotstock/%E5%8F%B0%E8%82%A1%E6%80%A5%E8%B7%8C%E9%82%84%E6%9C%83%E5%86%8D%E9%9C%87%E5%97%8E-%E6%9C%AA%E4%BE%86%E5%85%A9%E9%80%B1%E9%97%9C%E9%8D%B5%E4%BA%8B%E4%BB%B6%E4%B8%80%E6%AC%A1%E7%9C%8B-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E9%99%A4%E6%81%AF-%E7%BE%8E%E5%9C%8B-CPI-Fed-%E6%B1%BA%E7%AD%96%E6%88%90%E8%A7%80%E5%AF%9F%E9%87%8D%E9%BB%9E-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a26074c6c6d82bf0a9806eb",
+      "sourceNote": "2026/07 除息旺季 register（台積電除息為市場焦點）；改寫原創，不指涉個股",
+      "tags": [
+        "台股",
+        "除息",
+        "股息",
+        "自嘲",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "配息入帳通知跳出來，我開心了三秒。\n然後我打開對帳單，發現股價跌掉的幅度剛好是股息的兩倍。\n原來所謂「左手換右手」，中間還有人負責從我右手抽一半。",
+          "editorNote": "適合除息旺季，收到「股利入帳」通知卻完全笑不出來的那一刻",
+          "variations": [
+            "除息當天最療癒的事，就是把股價那一欄先蓋起來只看股息。",
+            "我不是在領股息，我是在分期付款買回自己的錢。"
+          ]
+        },
+        "en": {
+          "content": "The dividend hit my account and I was genuinely happy for three seconds.\nThen I opened my statement and saw the share price had dropped exactly twice the dividend.\nSo 'moving money from one pocket to the other' apparently includes a guy skimming half of it in transit.",
+          "editorNote": "For dividend season, when the 'payment received' notification somehow makes you feel worse",
+          "variations": [
+            "The most soothing thing on an ex-dividend day is covering the price column and looking only at the payout.",
+            "I'm not collecting dividends. I'm buying my own money back in installments."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-172",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/hotstock/2026-%E4%B8%8B%E5%8D%8A%E5%B9%B4%E9%96%8B%E5%B1%80%E9%9C%87%E7%9B%AA-%E5%8F%B0%E7%BE%8E%E8%82%A1%E6%8A%95%E8%B3%87%E4%BA%BA-6-%E5%88%B0-7-%E6%9C%88%E5%BF%85%E7%9C%8B%E7%9A%84-8-%E5%A4%A7%E7%B8%BD%E7%B6%93%E4%BA%8B%E4%BB%B6-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-6a2a2c51ab26abbf4c8173d2",
+      "sourceNote": "2026/06 大盤單日一度暴跌近 1500 點、「灰犀牛」說法 register；改寫原創",
+      "tags": [
+        "台股",
+        "崩盤",
+        "馬後炮",
+        "自嘲",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "大盤單日噴掉一千多點的隔天，我的動態牆上每個人都說自己早就看出來了。\n有人說這是灰犀牛，有人說是估值太貴，有人翻出三個月前的貼文當證據。\n只有我很誠實：我什麼都沒看出來，而且我當天還加碼。",
+          "editorNote": "適合大跌後隔天，滿版都是「我早就說過了」的時候發",
+          "variations": [
+            "崩盤的隔天，全台灣的先知密度會突然衝上歷史新高。",
+            "事後看什麼都是灰犀牛，事前我只看得到一片綠色。"
+          ]
+        },
+        "en": {
+          "content": "The day after the index dropped a thousand points, my entire feed was people explaining they saw it coming.\nOne calls it a grey rhino, one says valuations were stretched, one digs up a post from three months ago as evidence.\nI'm the only honest one here: I saw nothing coming, and I bought more that afternoon.",
+          "editorNote": "Post this the morning after a crash, when the timeline fills up with 'I called it'",
+          "variations": [
+            "The day after a selloff, the national density of prophets hits an all-time high.",
+            "In hindsight everything is a grey rhino. In real time all I saw was a wall of red."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-173",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://vocus.cc/article/6a50000dfd89780001155570",
+      "sourceNote": "2026/07 颱風影響台股買盤 register；改寫原創",
+      "tags": [
+        "台股",
+        "颱風",
+        "休市",
+        "厭世",
+        "套牢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前颱風天，我求的是放假。\n現在颱風天，我求的是休市。\n只要今天不開盤，我的帳面就會永遠停在昨天那個比較體面的數字。",
+          "editorNote": "颱風警報發布、大家在等停班停課消息時丟進群組",
+          "variations": [
+            "我對颱風唯一的要求：來得剛好、停在星期一。",
+            "休市是老天爺給套牢族唯一的溫柔。"
+          ]
+        },
+        "en": {
+          "content": "Typhoon days used to mean I was praying for the office to close.\nNow I'm praying the exchange closes.\nIf the market never opens today, my portfolio stays frozen at yesterday's slightly more dignified number.",
+          "editorNote": "For the group chat while everyone refreshes the storm-day announcement",
+          "variations": [
+            "My only request of this typhoon: perfect timing, ideally a Monday.",
+            "A market holiday is the universe's one act of mercy toward people who are underwater."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-174",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://news.cnyes.com/news/id/6519220",
+      "sourceNote": "2026/07 高波動下「從追求暴利轉為控管風險」理財建議 register；改寫原創",
+      "tags": [
+        "台股",
+        "風險控管",
+        "專家",
+        "自嘲",
+        "認同"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專家說：這種洗盤行情，策略要從「追求暴利」調整成「控管風險」。\n我認真對照了一下自己的狀況：暴利是完全沒追到，風險倒是控管得非常徹底——\n因為我已經沒剩什麼可以再賠了。",
+          "editorNote": "適合看到理財專家喊風險控管、自己卻早就被洗出場時使用",
+          "variations": [
+            "我的風險控管做得很好，方法是把本金先賠掉一半，剩下的自然就沒什麼波動。",
+            "專家的建議我全部照做，只是順序反了：我先體驗風險，再開始控管。"
+          ]
+        },
+        "en": {
+          "content": "The expert says: in a market this choppy, shift your strategy from 'chasing big gains' to 'managing risk.'\nI checked my own situation carefully. Big gains: none chased. Risk: extremely well managed —\nmostly because there isn't much left to lose.",
+          "editorNote": "For when a finance segment lectures you about risk management and you were flushed out months ago",
+          "variations": [
+            "My risk management is excellent. Step one was losing half the principal; after that the volatility really calms down.",
+            "I followed every piece of expert advice, just in the wrong order: experience the risk first, manage it later."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-175",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://adultpuns.com/investment-puns/",
+      "sourceNote": "2026 投資人「每九分鐘看一次看盤 APP」的行為觀察 register；改寫原創",
+      "tags": [
+        "看盤",
+        "散戶",
+        "自嘲",
+        "厭世",
+        "認同"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "統計說，現在的投資人平均每九分鐘就會打開一次看盤 APP。\n我覺得這個數字嚴重低估。\n我上一次連續九分鐘沒看，是因為人在電梯裡沒訊號。",
+          "editorNote": "適合手機螢幕使用時間報告出來、看盤 APP 排第一名的時候",
+          "variations": [
+            "我不是一直在看盤，我只是每次解鎖手機都剛好停在那一頁。",
+            "把看盤 APP 移到最後一頁根本沒用，我的手指有肌肉記憶。"
+          ]
+        },
+        "en": {
+          "content": "A study says the average investor now opens their brokerage app every nine minutes.\nI think that number is badly understated.\nThe last time I went nine straight minutes without checking, I was in an elevator with no signal.",
+          "editorNote": "For when your weekly screen-time report puts the trading app in first place",
+          "variations": [
+            "I'm not constantly checking the market. My phone just happens to unlock on that screen every time.",
+            "Moving the app to the last home screen did nothing. My thumb has muscle memory."
+          ]
+        }
+      }
     }
   ]
 }

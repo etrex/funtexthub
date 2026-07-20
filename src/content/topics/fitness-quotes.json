@@ -6131,6 +6131,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-200",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.lesmills.com/us/articles/7-key-trends-shaping-fitness-in-2026",
+      "sourceNote": "2026 HYROX／競賽型functional fitness成為主流的趨勢觀察，改寫為報名衝動與現實落差的自嘲",
+      "tags": [
+        "健身房",
+        "自嘲",
+        "厭世",
+        "有氧",
+        "比賽"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我朋友揪我報名那種要跑八公里、中間還要推雪橇的體能賽。\n我當下說好，因為報名頁面看起來很熱血。\n\n現在離比賽剩三週，我的訓練進度是：\n已經把賽事官網的照片存下來，設成手機桌布。",
+          "editorNote": "報名了某個路跑或體能賽卻還沒開始練時發，配一張報名確認信截圖",
+          "variations": [
+            "報名費是我目前為止付出最多的努力。",
+            "我對這場比賽的準備，目前停留在「已經買了鞋」這個階段。"
+          ]
+        },
+        "en": {
+          "content": "A friend talked me into signing up for one of those races where you run five miles and push a sled in between.\nI said yes immediately, because the signup page looked very inspiring.\n\nThree weeks out, here's my training progress:\nI saved a photo from the event website and made it my phone wallpaper.",
+          "editorNote": "Post after signing up for a race you haven't started training for, with a screenshot of the confirmation email",
+          "variations": [
+            "The entry fee remains the single biggest effort I have put into this event.",
+            "My preparation is currently at the 'bought the shoes' stage."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-201",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://meetglimpse.com/trends/fitness-trends/",
+      "sourceNote": "高蛋白零食成為成長最快的營養趨勢，改寫為超市裡萬物皆標榜蛋白質的吐槽",
+      "tags": [
+        "健身房",
+        "自嘲",
+        "飲食",
+        "蛋白粉",
+        "觀察"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在去超市，餅乾標蛋白質、布丁標蛋白質、汽水也標蛋白質。\n我買了一整籃號稱高蛋白的零食，覺得自己非常自律。\n\n回家算了一下，\n總共十二克蛋白質，還有一千一百大卡。",
+          "editorNote": "逛超市或開零食包裝時發，配一張包裝上營養標示的特寫",
+          "variations": [
+            "包裝上寫「蛋白質」三個字，就能讓我心甘情願多付四十塊。",
+            "我不是在買零食，我是在買一個可以吃它的理由。"
+          ]
+        },
+        "en": {
+          "content": "These days the cookies say protein, the pudding says protein, even the soda says protein.\nI filled a basket with high-protein snacks and felt extremely disciplined about it.\n\nThen I did the math at home:\ntwelve grams of protein, eleven hundred calories.",
+          "editorNote": "Post while grocery shopping or opening a snack, with a close-up of the nutrition label",
+          "variations": [
+            "Put the word 'protein' on the package and I will happily pay a dollar more.",
+            "I'm not buying snacks. I'm buying permission to eat them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-202",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://www.boredpanda.com/funny-relatable-gym-memes/",
+      "sourceNote": "佔著器材滑手機的健身房禮儀吐槽，改寫為等待者的內心戲",
+      "tags": [
+        "健身房",
+        "自嘲",
+        "厭世",
+        "觀察",
+        "器材"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人坐在臥推椅上滑手機滑了十八分鐘。\n這十八分鐘裡，我在旁邊假裝伸展，拉了六種我平常根本不拉的肌肉。\n\n他終於起身的那一刻，\n我柔軟度創下人生新高，但今天的胸推一下都還沒做。",
+          "editorNote": "在健身房排隊等器材時發，配一張自己在角落假裝伸展的照片",
+          "variations": [
+            "我的柔軟度不是練出來的，是等出來的。",
+            "健身房最強的訓練項目叫做「等別人做完」。"
+          ]
+        },
+        "en": {
+          "content": "Someone sat on the bench scrolling his phone for eighteen minutes.\nDuring those eighteen minutes I pretended to stretch and worked six muscles I never stretch.\n\nBy the time he finally stood up,\nmy flexibility had hit an all-time high and I hadn't pressed a single rep.",
+          "editorNote": "Post while waiting for equipment, with a photo of you fake-stretching in the corner",
+          "variations": [
+            "My mobility didn't come from training. It came from waiting.",
+            "The hardest exercise at any gym is called 'waiting for someone else to finish.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-203",
+      "dateAdded": "2026-07-20",
+      "sourceUrl": "https://punhour.com/gym-jokes/",
+      "sourceNote": "健身包裡的裝備遠多於實際使用量的自嘲，改寫為裝備派健身者的內心告白",
+      "tags": [
+        "健身房",
+        "自嘲",
+        "厭世",
+        "裝備",
+        "新手"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的健身包裡有：助握帶、腰帶、護膝、兩種握力墊、一條彈力帶。\n今天我全部帶去了。\n\n實際用到的東西是：水壺。",
+          "editorNote": "整理健身包或開箱新裝備時發，配一張把包包內容物全部攤開的照片",
+          "variations": [
+            "我在裝備上的投資，遠遠超過我在訓練上的投入。",
+            "買齊裝備的那一刻，我覺得自己已經變強了，這種錯覺可以撐大概兩週。"
+          ]
+        },
+        "en": {
+          "content": "In my gym bag: straps, a belt, knee sleeves, two kinds of grip pads, and a resistance band.\nToday I brought all of it.\n\nWhat I actually used: the water bottle.",
+          "editorNote": "Post while packing your gym bag or unboxing new gear, with everything laid out flat",
+          "variations": [
+            "My investment in equipment massively outpaces my investment in training.",
+            "The moment I finished buying gear I felt stronger. That illusion lasted about two weeks."
+          ]
+        }
+      }
     }
   ]
 }
