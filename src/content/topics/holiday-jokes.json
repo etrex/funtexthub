@@ -9206,6 +9206,166 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-305",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.timeanddate.com/holidays/fun/july/",
+      "sourceNote": "National Mango Day (July 22) as a jumping-off point; localized to Taiwan summer mango season with original dialogue",
+      "tags": [
+        "芒果日",
+        "夏天",
+        "節日限定",
+        "冷笑話",
+        "媽媽",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天是芒果日欸，我買了一顆愛文回來。」\n「一顆？夏天芒果那麼便宜，你只買一顆？」\n「因為切一顆我就切到手了。」\n「所以剩下的錢呢？」\n「拿去買 OK 繃了。」",
+          "editorNote": "夏天限定的芒果冷笑話，笑點在「省錢買芒果、結果錢花在 OK 繃」的迷惑操作——傳給每年芒果季都會手滑買一整箱的家人剛剛好",
+          "variations": [
+            "單句版：「芒果日快樂，願你切芒果切到的是格子，不是手指。」——傳給廚藝不精的朋友",
+            "接龍版：「芒果為什麼是夏天最忙的水果？因為它一顆要削皮、切格、翻面、還要收拾滿手的黏。」"
+          ]
+        },
+        "en": {
+          "content": "\"It's Mango Day, so I bought one nice ripe mango.\"\n\"One? Mangoes are dirt cheap in summer. Just one?\"\n\"Because I cut my finger on the first one.\"\n\"So where'd the rest of the money go?\"\n\"Band-Aids.\"",
+          "editorNote": "A summer mango bit — the punchline is the logic of saving money on fruit only to spend it on Band-Aids. Send it to whoever buys a whole crate every mango season",
+          "variations": [
+            "Short version: \"Happy Mango Day — may you cut into the grid, not your thumb.\"",
+            "Why is the mango summer's busiest fruit? Peel it, score it, flip it inside out, then spend ten minutes washing your sticky hands."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-306",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://nationaltoday.com/funny-holidays/",
+      "sourceNote": "National Roller Coaster Day (August 16) reframed as a life-metaphor joke; original dialogue",
+      "tags": [
+        "雲霄飛車日",
+        "八月",
+        "節日限定",
+        "社畜",
+        "黑色幽默",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天是雲霄飛車日，你敢坐雲霄飛車嗎？」\n「不敢，我怕那種忽上忽下、失控又停不下來的感覺。」\n「那你怎麼還撐得住上班？」\n「……你這樣講，我現在就想吐了。」",
+          "editorNote": "把雲霄飛車比喻成職場人生的黑色幽默，笑點在「上班比雲霄飛車還恐怖」——社畜看了會心一笑然後默默點頭，適合週一發到公司群組",
+          "variations": [
+            "單句版：「雲霄飛車日快樂，人生已經夠刺激，我週末只想坐在原地不動。」",
+            "延伸版：「為什麼我不用花錢坐雲霄飛車？因為打開工作信箱就有一樣的心跳體驗。」"
+          ]
+        },
+        "en": {
+          "content": "\"It's Roller Coaster Day. You brave enough to ride one?\"\n\"Nope. I hate that out-of-control, up-and-down, can't-make-it-stop feeling.\"\n\"Then how do you survive your job?\"\n\"...Now I actually feel sick.\"",
+          "editorNote": "A dark-humor take on Roller Coaster Day (Aug 16) — the joke lands because work is scarier than any ride. Good for a Monday drop in the work chat",
+          "variations": [
+            "Short version: \"Happy Roller Coaster Day. Life's thrilling enough — this weekend I'm sitting perfectly still.\"",
+            "Why do I never pay for roller coasters? Opening my work inbox gives me the exact same heart rate for free."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-307",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://weirdholidays.com/weird-holidays-in-july/",
+      "sourceNote": "I Love My Feet Day (August 17) used for absurd-holiday humor; original dialogue written from scratch",
+      "tags": [
+        "我愛我的腳日",
+        "八月",
+        "節日限定",
+        "無厘頭",
+        "冷笑話",
+        "社畜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天是『我愛我的腳日』，你有好好謝謝你的腳嗎？」\n「有啊，我今天讓它們休息一整天。」\n「哇，這麼寵？」\n「不是，是我請假在家躺著，順便的。」",
+          "editorNote": "無厘頭的怪節日笑話，笑點在「感謝雙腳」其實只是躺平的藉口——傳給那個假日只想在家當廢物、順便合理化的朋友最有共鳴",
+          "variations": [
+            "單句版：「我愛我的腳日快樂，畢竟每天載我去上班的是它們，不是我的意志力。」",
+            "自嘲版：「今天感謝我的腳撐了我一整年，也感謝我的腳從來沒有跑去健身房。」"
+          ]
+        },
+        "en": {
+          "content": "\"It's 'I Love My Feet Day.' Did you thank your feet today?\"\n\"Sure did. Gave them the whole day off.\"\n\"Wow, spoiling them?\"\n\"Nah, I took a day off to lie around. They just came along.\"",
+          "editorNote": "An absurd-holiday bit built on I Love My Feet Day (Aug 17) — 'thanking your feet' is really just an excuse to do nothing. Perfect for the friend who justifies a lazy day off",
+          "variations": [
+            "Short version: \"Happy I Love My Feet Day — they're the ones carrying me to work, not my willpower.\"",
+            "Today I thank my feet for holding me up all year, and for never once wandering into a gym."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-308",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.calendarr.com/united-states/your-ultimate-guide-to-wacky-funny-and-weird-holidays/",
+      "sourceNote": "National Lipstick Day (July 29) as a hook; original couple/friend dialogue about color names",
+      "tags": [
+        "口紅日",
+        "七月",
+        "節日限定",
+        "冷笑話",
+        "對話",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天是口紅日，你這支色號叫什麼？」\n「『初戀般的裸粉』。」\n「那你手上另外那五支呢？」\n「都是『初戀般的裸粉』，只是廠牌不一樣。」\n「所以你的初戀有五個版本？」",
+          "editorNote": "口紅日的日常吐槽，笑點在「五支看起來一模一樣的裸色卻各有名字」——傳給那個抽屜裡躺著十支相似色號、還是覺得少一支的朋友",
+          "variations": [
+            "單句版：「口紅日快樂，願你今天找到那支傳說中『跟上一支一樣但又不太一樣』的完美色號。」",
+            "另一半視角：「男友說我這五支根本一樣，我冷冷地看著他——連 wifi 密碼都記不住的人，沒資格評論色號。」"
+          ]
+        },
+        "en": {
+          "content": "\"It's Lipstick Day. What's this shade called?\"\n\"'First-Love Nude Pink.'\"\n\"And the other five in your hand?\"\n\"Also 'First-Love Nude Pink.' Different brands.\"\n\"So your first love has five editions?\"",
+          "editorNote": "A slice-of-life take on National Lipstick Day (July 29) — five nearly identical nudes, each with its own name. For the friend with a drawer full of look-alike shades who still needs one more",
+          "variations": [
+            "Short version: \"Happy Lipstick Day — may you find that mythical shade that's 'just like your last one, but not quite.'\"",
+            "Partner's view: My boyfriend said all five are the same. I stared him down — a man who can't remember the wifi password doesn't get to review shades."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-309",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.brownielocks.com/august.html",
+      "sourceNote": "National Mac and Cheese Day / summer comfort-food angle; original dialogue about diet excuses",
+      "tags": [
+        "起司通心粉日",
+        "節日限定",
+        "減肥",
+        "冷笑話",
+        "食物",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你不是說這個月要少吃澱粉？」\n「今天是起司通心粉日。」\n「那又怎樣？」\n「通心粉是澱粉，但起司是蛋白質，我算過了，這盤整體很均衡。」\n「你連數學都拿來騙自己。」",
+          "editorNote": "減肥破功系列的怪節日版，笑點在「用營養學話術替自己開脫」——傳給那個永遠有理由破戒、還講得頭頭是道的減肥同伴",
+          "variations": [
+            "單句版：「起司通心粉日快樂，今天的熱量只是節日的一部分，明天再還。」",
+            "群組版：「減肥群公告：今天起司通心粉日暫停打卡，違者⋯⋯其實我們都一樣，散會。」"
+          ]
+        },
+        "en": {
+          "content": "\"Didn't you say no carbs this month?\"\n\"It's Mac and Cheese Day.\"\n\"So?\"\n\"The macaroni's a carb, but the cheese is protein. I did the math — the plate's very balanced overall.\"\n\"You're using arithmetic to lie to yourself now.\"",
+          "editorNote": "A diet-fail bit dressed as a food holiday (Mac and Cheese Day) — the joke is the pseudo-nutritional loophole. For the diet buddy who always has an eloquent reason to cheat",
+          "variations": [
+            "Short version: \"Happy Mac and Cheese Day — today's calories are part of the celebration. I'll pay them back tomorrow.\"",
+            "Diet group announcement: check-ins are paused for Mac and Cheese Day. Violators will be... honestly, same. Meeting adjourned."
+          ]
+        }
+      }
     }
   ]
 }

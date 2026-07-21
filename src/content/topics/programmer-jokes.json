@@ -9902,6 +9902,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-345",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://dev.to/ishanbagchi/when-02-01-isnt-quite-03-a-comedic-guide-to-floating-point-shenanigans-7lg",
+      "sourceNote": "Floating-point 0.1 + 0.2 = 0.30000000000000004 classic, rewritten as a betrayal bit",
+      "tags": [
+        "浮點數",
+        "程式冷知識",
+        "除錯",
+        "經典梗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師最深的背叛，來自 0.1 加 0.2。\n你以為會得到 0.3，電腦卻冷冷回你 0.30000000000000004。\n那個 4 是哪來的？沒人知道。\n但它會一直待在那裡，提醒你世界不是你想的那樣。",
+          "editorNote": "浮點數的經典坑，丟給任何寫過金額計算的人，保證會心一笑，然後想起某個線上事故。",
+          "variations": [
+            "延伸：這就是為什麼算錢要用整數存「分」，不要用浮點數存「元」。",
+            "延伸：0.1 + 0.2 !== 0.3，是每個新手工程師的成年禮。"
+          ]
+        },
+        "en": {
+          "content": "A developer's deepest betrayal comes from 0.1 plus 0.2.\nYou expect 0.3. The computer coldly returns 0.30000000000000004.\nWhere did that 4 come from? Nobody knows.\nBut it'll always be there, reminding you the world isn't what you thought.",
+          "editorNote": "The classic floating-point trap. Show it to anyone who's done money math and watch the production-incident flashback hit.",
+          "variations": [
+            "Extension: This is why you store money as integer cents, not floats.",
+            "Extension: 0.1 + 0.2 !== 0.3 is every junior dev's coming-of-age ceremony."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-346",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.asiteaboutnothing.net/c_programming-jokes.php",
+      "sourceNote": "Programmer's wife 'buy bread, if they have eggs get a dozen' literal-interpretation joke, rewritten",
+      "tags": [
+        "需求",
+        "字面直譯",
+        "生活",
+        "經典梗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老婆叫工程師去買菜：「買一條吐司，如果有蛋，就買一打。」\n工程師回來，手上抱著十二條吐司。\n老婆問：「你買這麼多吐司幹嘛？」\n工程師：「因為他們有蛋啊。」",
+          "editorNote": "工程師字面直譯病的末期症狀，把生活對話當成程式碼在跑。念給另一半聽，保證被翻白眼。",
+          "variations": [
+            "延伸：需求寫得不清楚，工程師就照字面實作，這鍋真的不背。",
+            "延伸：「如果有蛋買一打」——蛋是條件，吐司是回傳值，沒毛病。"
+          ]
+        },
+        "en": {
+          "content": "A developer's wife says: \"Buy a loaf of bread. If they have eggs, get a dozen.\"\nThe developer comes home carrying twelve loaves of bread.\nThe wife asks: \"Why did you buy so much bread?\"\nThe developer: \"Because they had eggs.\"",
+          "editorNote": "Peak literal-interpretation syndrome — the dev parsed the if-statement exactly as written. Read it to your partner and enjoy the eye-roll.",
+          "variations": [
+            "Extension: Vague requirements, literal implementation. Not the dev's fault.",
+            "Extension: 'If they have eggs, get a dozen' — eggs is the condition, bread is the return value. Works as intended."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-347",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://programmerhumor.io/memes/localhost",
+      "sourceNote": "'There's no place like 127.0.0.1' localhost joke, rewritten as a vacation Q&A",
+      "tags": [
+        "網路",
+        "localhost",
+        "程式冷知識",
+        "經典梗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問工程師：「你最想去哪裡度假？」\n工程師想了想，說：「127.0.0.1。」\n對方一臉困惑。\n工程師補一句：「因為沒有比家更棒的地方。」",
+          "editorNote": "localhost 的浪漫。127.0.0.1 就是本機，是工程師心中永遠的避風港，也是唯一跑得起來的環境。",
+          "variations": [
+            "延伸：出門在外，工程師最想念的不是家人，是那個一定連得上的 localhost。",
+            "延伸：全世界最安全的地方，就是 There's no place like 127.0.0.1。"
+          ]
+        },
+        "en": {
+          "content": "Someone asks a developer: \"Where would you most want to go on vacation?\"\nThe developer thinks about it and says: \"127.0.0.1.\"\nThe other person looks confused.\nThe developer adds: \"Because there's no place like home.\"",
+          "editorNote": "The romance of localhost. 127.0.0.1 is your own machine — a developer's eternal safe harbor, and the only environment where the code actually runs.",
+          "variations": [
+            "Extension: On the road, what a developer misses isn't family — it's the localhost that always connects.",
+            "Extension: The safest place on Earth: there's no place like 127.0.0.1."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-348",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://programmerhumor.io/memes/race-condition",
+      "sourceNote": "Classic scrambled-order 'knock knock / race condition' joke, rewritten",
+      "tags": [
+        "多執行緒",
+        "競態條件",
+        "程式冷知識",
+        "經典梗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師版敲門笑話：\n「敲敲門。」\n「是競態條件。」\n「……誰啊？」\n\n順序不對，正是重點。",
+          "editorNote": "敲門笑話的正常順序，應該是先問「誰啊」再回答。順序錯亂，正是競態條件的精髓。",
+          "variations": [
+            "延伸：race condition 就是該先發生的事，偏偏晚了一步。",
+            "延伸：這個笑話不能重播，因為每次執行順序都不保證一樣。"
+          ]
+        },
+        "en": {
+          "content": "The developer's knock-knock joke:\n\"Knock knock.\"\n\"Race condition.\"\n\"...Who's there?\"\n\nThe order is wrong. That's the whole point.",
+          "editorNote": "A normal knock-knock joke asks 'who's there' before the answer. The scrambled order is the entire essence of a race condition.",
+          "variations": [
+            "Extension: A race condition is when the thing that should happen first shows up a beat too late.",
+            "Extension: You can't replay this joke — the execution order isn't guaranteed to be the same twice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-349",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://programmerhumor.io/memes/heisenbug",
+      "sourceNote": "Heisenbug — bug disappears when observed with a print — rewritten with the 'ward' comment",
+      "tags": [
+        "除錯",
+        "海森堡bug",
+        "黑色幽默",
+        "經典梗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師花了三小時追一個 bug。\n一加上 print 觀察，bug 就消失了。\n一把 print 拿掉，bug 又跑回來。\n最後他默默把那行 print 留在正式環境，寫下註解：「別問，這行是結界。」",
+          "editorNote": "海森堡 bug 的日常——你一觀察它就變乖，你一放手它就作亂。那行永遠拿不掉的 print，是無數工程師的共同祕密。",
+          "variations": [
+            "延伸：正式環境裡那行看似沒用的 log，可能正撐著整個系統。",
+            "延伸：薛丁格的 bug——在你觀測之前，它同時存在又不存在。"
+          ]
+        },
+        "en": {
+          "content": "A developer spent three hours chasing a bug.\nAdd a print to observe it, and the bug vanishes.\nRemove the print, and the bug comes right back.\nHe quietly left that print in production with a comment: \"Don't ask. This line is a ward.\"",
+          "editorNote": "The Heisenbug in daily life — it behaves the moment you observe it and misbehaves the moment you let go. That un-removable print statement is a secret shared by countless developers.",
+          "variations": [
+            "Extension: That useless-looking log line in production might be the only thing holding the whole system up.",
+            "Extension: Schrödinger's bug — until you observe it, it both exists and doesn't."
+          ]
+        }
+      }
     }
   ]
 }

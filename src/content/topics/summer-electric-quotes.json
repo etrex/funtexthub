@@ -5409,6 +5409,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-182",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://info.talk.tw/summer-electricity-bill/",
+      "sourceNote": "遠端工作／在家上班使日間冷氣電費轉嫁到員工的角度；改寫原創",
+      "tags": [
+        "遠端工作",
+        "在家上班",
+        "冷氣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前我超羨慕可以遠端工作的人，覺得他們自由。\n現在我懂了：公司省下的那八小時冷氣電費，一塊都沒少，全部轉進我家的帳單。\n遠端工作最大的隱藏成本，不是孤獨，\n是六月到九月，我用自己的電，替公司的冷氣省了錢。",
+          "editorNote": "傳給那個在家上班、白天冷氣從開機開到下班的同事，一起認清真相",
+          "variations": [
+            "在家工作的自由，是用你自己家的電表換來的。",
+            "公司關掉一盞燈叫節能減碳，我在家開一整天冷氣叫自費上班。"
+          ]
+        },
+        "en": {
+          "content": "I used to envy people who got to work from home. So free, I thought.\nNow I get it: the eight hours of AC the office saves? Not a cent lost — it all just moved onto my bill.\nThe biggest hidden cost of remote work isn't loneliness.\nIt's June through September, cooling my apartment on my own dime so the company doesn't have to.",
+          "editorNote": "Send to the WFH friend whose AC runs from clock-in to clock-out on their personal meter",
+          "variations": [
+            "The freedom of working from home is paid for by your own electric meter.",
+            "The office turning off one light is 'sustainability'. Me running AC all day at home is 'paying to go to work'."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-183",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.ddcar.com.tw/article/28613",
+      "sourceNote": "換電動車以為省油錢、夏天卻被冷氣電費抵銷的角度；改寫原創",
+      "tags": [
+        "電動車",
+        "充電",
+        "冷氣",
+        "省電"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我換了電動車，本來很得意，想說終於不用被油價綁架了。\n夏天一到才發現：\n每個月省下來的油錢，剛好拿去付冷氣多出來的電費。\n地球是圓的，我的錢包也是——\n轉了一大圈，最後停在原點。",
+          "editorNote": "傳給那個以為換電動車就能省錢、結果被夏月電價一次追平的人",
+          "variations": [
+            "省下的油錢和多繳的電費，在我家帳單上握了個手，說聲彼此彼此。",
+            "我不是不省錢，我只是把加油站的錢，改繳給台電而已。"
+          ]
+        },
+        "en": {
+          "content": "I switched to an electric car, feeling pretty smug — finally free from gas prices.\nThen summer hit.\nEvery dollar I saved at the pump goes straight to the extra AC on my bill.\nThe earth is round, and so is my wallet —\nafter a full loop, it lands right back where it started.",
+          "editorNote": "For the person who thought going electric meant saving money, until summer rates evened the score",
+          "variations": [
+            "My gas savings and my AC overage shook hands on the bill and called it even.",
+            "I didn't stop spending. I just moved the money from the gas station to the power company."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-184",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.jackercleaning.com/blog/380",
+      "sourceNote": "遊戲電腦本身發熱、反而讓冷氣更操的雙輸角度；改寫原創",
+      "tags": [
+        "電腦",
+        "冷氣",
+        "矛盾",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的電腦跑遊戲的時候，會把整個房間變成一台暖爐。\n所以夏天的我，一邊開冷氣拼命降溫，一邊開電腦拼命升溫。\n兩台機器在我房間裡對打，\n戰場是我，賠款也是我付。",
+          "editorNote": "傳給那個一邊打電動一邊開冷氣、帳單直接翻倍的遊戲同好",
+          "variations": [
+            "我房間裡有兩個高耗電怪物，一個負責製冷，一個負責發熱，然後互相加班。",
+            "顯示卡愈跑愈熱，冷氣愈開愈涼，中間那個一直付錢的是我。"
+          ]
+        },
+        "en": {
+          "content": "When my PC runs a game, it turns the whole room into a space heater.\nSo summer me is cranking the AC to cool down while cranking the PC to heat up.\nTwo machines duking it out in my bedroom —\nI'm the battlefield, and I'm the one paying the damages.",
+          "editorNote": "Send to the gamer buddy whose bill doubled from running a rig and the AC at the same time",
+          "variations": [
+            "Two power-hungry monsters in one room: one makes cold, one makes heat, and they both bill me overtime.",
+            "The graphics card gets hotter, the AC gets colder, and the guy in the middle just keeps paying."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-185",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://knit.yam.com/Blog/87-summer-electricity-price-june-rules-air-conditioner-bill-2026",
+      "sourceNote": "把冷氣比喻成夏天唯一不敢取消的訂閱制；改寫原創",
+      "tags": [
+        "訂閱制",
+        "冷氣",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "串流平台我看膩了可以隨時退訂，健身房我懶了可以停會籍。\n只有冷氣，是我整個夏天唯一不敢取消的訂閱制。\n而且它最狠的地方是——\n六月自動幫我升級成尊爵不凡的夏月方案，漲價從來不先問過我。",
+          "editorNote": "傳給那個手機一堆訂閱都砍過一輪、只有冷氣砍不下去的朋友",
+          "variations": [
+            "人生所有訂閱制我都能斷捨離，只有冷氣這一項，退訂等於中暑。",
+            "冷氣是那種你明知道每期都在漲、卻連猶豫期都不敢用的訂閱。"
+          ]
+        },
+        "en": {
+          "content": "I can cancel a streaming service the second I'm bored, freeze a gym membership when I get lazy.\nAC is the one subscription I don't dare cancel all summer.\nAnd here's the brutal part —\ncome June it auto-upgrades me to the premium summer tier, and it never once asks before it raises the price.",
+          "editorNote": "For the friend who's trimmed every subscription on their phone except the one that keeps them from heatstroke",
+          "variations": [
+            "I can Marie Kondo every subscription in my life — except this one, where canceling equals heatstroke.",
+            "AC is the subscription you know is hiking the price every cycle, yet you don't even use the grace period."
+          ]
+        }
+      }
     }
   ]
 }

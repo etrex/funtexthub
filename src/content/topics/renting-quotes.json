@@ -6869,6 +6869,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-235",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3016962",
+      "sourceNote": "買賣不破租賃 landlord-sells-unit case; rewritten original",
+      "tags": [
+        "房東",
+        "退租",
+        "合約",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：「我要把房子賣掉，你這個月底前搬走。」\n我說法律上買賣不破租賃，我可以住到約滿。\n他愣了三秒，改口：「那……我要收回自住。」\n原來我懂一條法律，他就多生一個理由。",
+          "editorNote": "傳給突然被房東要求提前搬走的朋友，提醒他租約沒到期、房東片面終止通常要賠償，先別急著答應",
+          "variations": [
+            "房東要賣房那天，我從房客變成了「請配合的障礙物」。",
+            "他說收回自住，結果新住戶是掛在591上的下一個房客。"
+          ]
+        },
+        "en": {
+          "content": "My landlord said, \"I'm selling the place, move out by the end of the month.\"\nI said the lease survives the sale — I can stay until it ends.\nHe froze for three seconds, then: \"Well… I need it back to live in myself.\"\nTurns out the moment I learn one law, he grows one more excuse.",
+          "editorNote": "For a friend suddenly told to move early — a reminder that if the lease isn't up, a one-sided termination usually owes compensation, so don't just say yes",
+          "variations": [
+            "The day my landlord decided to sell, I went from tenant to \"kindly-cooperate obstacle.\"",
+            "He said he needed it for himself; the next \"himself\" was already listed for rent online."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-236",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://rich01.com/rent-house-agency-fee/",
+      "sourceNote": "仲介費半個月租金 discussion; rewritten original",
+      "tags": [
+        "找房",
+        "看房",
+        "房租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "仲介帶我看了三間房，收我半個月租金的服務費。\n我算了一下，他開門的那幾秒，時薪比我一整個月還高。\n原來我付的不是找房的辛苦費，\n是付給一個幫我找到會漲我租的房東的介紹費。",
+          "editorNote": "傳給第一次透過仲介租房的朋友，提醒他服務費是上限、可以談，法規房客最多收半個月",
+          "variations": [
+            "仲介費的意思是：花錢請人幫我簽下一份接下來會後悔兩年的合約。",
+            "他帶看的時間十分鐘，收我的錢夠他喝一個月的咖啡。"
+          ]
+        },
+        "en": {
+          "content": "The agent showed me three places and charged me half a month's rent in fees.\nI did the math — for the seconds it took him to unlock the doors, his hourly rate beat my whole month.\nTurns out I wasn't paying for the effort of finding a home,\nI was paying a finder's fee to be introduced to the landlord who'd raise my rent.",
+          "editorNote": "For anyone renting through an agent for the first time — the service fee is a ceiling, it's negotiable, and by rule a tenant pays at most half a month",
+          "variations": [
+            "An agent fee means: paying someone to help me sign a contract I'll regret for two years.",
+            "Ten minutes of showings, and the fee covered his coffee for a month."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-237",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.dd-room.com/article/rsyuu1cze5anny9w",
+      "sourceNote": "pet-friendly rental scarcity; rewritten original (distinct from rq-007)",
+      "tags": [
+        "找房",
+        "看房",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我帶著一隻五公斤的貓找房，\n篩選條件打勾「可養寵物」之後，\n整個城市的房子從三百間變成八間，\n其中五間要加收寵物押金，兩間限體重，剩下一間——\n看房那天才發現房東自己養了三隻狗，但就是不租給貓。",
+          "editorNote": "傳給正在帶毛小孩找房的朋友，提醒他把「可養寵物」白紙黑字寫進合約，口頭答應不算數",
+          "variations": [
+            "在台灣，養寵物找房的難度，跟找到願意讓你報稅的房東差不多。",
+            "房東說可以養寵物，補一句『但不能讓牠碰到地板、牆壁跟家具』。"
+          ]
+        },
+        "en": {
+          "content": "I went apartment hunting with a five-kilo cat.\nThe moment I ticked \"pets allowed,\"\nthe whole city dropped from three hundred listings to eight —\nfive wanted a pet deposit, two had weight limits, and the last one:\nviewing day, the landlord had three dogs himself, but just wouldn't rent to a cat.",
+          "editorNote": "For a friend hunting with a furry kid — get \"pets allowed\" written into the contract in black and white; a verbal yes doesn't count",
+          "variations": [
+            "Finding a pet-friendly rental here is about as hard as finding a landlord who'll let you claim the tax deduction.",
+            "\"Pets are fine,\" he said, then added, \"as long as it never touches the floor, walls, or furniture.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-238",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://blog.aifian.com/2023/11/07/taiwan-apartment-rental-guide/",
+      "sourceNote": "commute vs rent tradeoff; rewritten original",
+      "tags": [
+        "房租",
+        "上班族",
+        "通勤",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "住市區，房租吃掉我半薪，但通勤十分鐘。\n住郊區，房租省一半，但每天通勤兩小時。\n算到最後我才發現：\n這不是省錢，是決定要用錢買時間，還是用命換錢。",
+          "editorNote": "傳給正在為了省房租猶豫要不要搬遠一點的朋友，提醒他把通勤時間也換算成成本再決定",
+          "variations": [
+            "住近一點錢包哭，住遠一點鬧鐘哭，反正總有一個要哭。",
+            "省下的房租，剛好等於我多花在捷運上的青春。"
+          ]
+        },
+        "en": {
+          "content": "Live downtown: rent eats half my salary, but the commute is ten minutes.\nLive in the suburbs: rent's cut in half, but it's two hours each way.\nAfter all the math I realized:\nthis isn't saving money — it's choosing whether to buy time with money, or trade life for money.",
+          "editorNote": "For a friend weighing a cheaper place farther out — a nudge to price in the commute hours before deciding",
+          "variations": [
+            "Live close and your wallet cries; live far and your alarm clock cries. Something's crying either way.",
+            "The rent I saved is exactly the youth I now spend on the train."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-239",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.nownews.com/amp/news/6838645",
+      "sourceNote": "landlord-selling forces tenant to allow showings; rewritten original",
+      "tags": [
+        "房東",
+        "隱私",
+        "退租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東決定賣房，每個週末帶不同的買家來看我住的地方。\n我付著房租，卻要負責把家整理乾淨，\n讓一群陌生人打開我的衣櫃、評論我的採光。\n原來合約沒到期之前，我租的不是一個家，是一間隨時要開放參觀的樣品屋。",
+          "editorNote": "傳給房東賣房期間被頻繁要求配合帶看的朋友，提醒他帶看時間點、次數其實可以在合約或協議裡先講好",
+          "variations": [
+            "房東賣房那個月，我家的門鈴響得比外送還勤。",
+            "我繳的是房租，不是門票，憑什麼每週被參觀一次。"
+          ]
+        },
+        "en": {
+          "content": "My landlord decided to sell, so every weekend a different buyer tours the place I live in.\nI pay the rent, yet I'm the one tidying up\nso strangers can open my closet and critique my natural light.\nUntil the lease ends, turns out I'm not renting a home — I'm renting a show unit open for viewing anytime.",
+          "editorNote": "For a friend stuck accommodating constant showings while the landlord sells — the timing and frequency of viewings can actually be pinned down in the lease or a side agreement",
+          "variations": [
+            "The month my landlord sold, my doorbell rang more often than my food deliveries.",
+            "I pay rent, not admission — why am I on display once a week?"
+          ]
+        }
+      }
     }
   ]
 }

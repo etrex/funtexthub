@@ -5290,6 +5290,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-176",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/hotstock/2026%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E5%AD%98%E8%82%A1%E6%B8%85%E5%96%AE",
+      "sourceNote": "技術派回測與實盤落差梗；改寫原創",
+      "tags": [
+        "回測",
+        "技術分析",
+        "自嘲",
+        "散戶",
+        "幻想"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的回測系統厲害到嚇死人。\n過去十年的走勢丟進去，每一筆都完美低買高賣，年化報酬三位數。\n然後我拿去實盤操作，才發現回測跟實盤最大的差別是——回測的時候，我早就知道明天會發生什麼。",
+          "editorNote": "適合丟給每個沉迷調參數、卻遲遲不敢真的下單的技術派朋友",
+          "variations": [
+            "回測績效越漂亮，通常代表你把參數調到剛好只認得過去那條線。",
+            "我在歷史線圖上是股神，一碰到今天這根還沒收的 K 棒就變回散戶。"
+          ]
+        },
+        "en": {
+          "content": "My backtesting engine is terrifyingly good.\nFeed it ten years of price data and every single trade buys the bottom and sells the top. Triple-digit annual returns.\nThen I ran it live and learned the one real difference between a backtest and real trading: in the backtest, I already know what tomorrow does.",
+          "editorNote": "For the friend who keeps optimizing parameters but never actually places the order",
+          "variations": [
+            "The prettier the backtest, the more likely you just curve-fit it to that one line from the past.",
+            "On a historical chart I'm a genius. The moment the candle in front of me hasn't closed yet, I'm retail again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-177",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/hotstock/2026%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D%E5%AD%98%E8%82%A1%E6%B8%85%E5%96%AE",
+      "sourceNote": "「這次不一樣」泡沫心理經典梗；改寫原創",
+      "tags": [
+        "泡沫",
+        "這次不一樣",
+        "韭菜",
+        "自嘲",
+        "FOMO"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每一次泡沫吹到最大的時候，都會有人語重心長地跟你說：「這次不一樣。」\n這句話我聽過網路股版、聽過生技版、聽過 AI 版。\n每次我都信了，每次我都用真金白銀證明——不一樣的只有虧損的金額，一次比一次大。",
+          "editorNote": "貼在任何一波「這次真的會不一樣」的狂熱行情下，提醒自己先冷靜三秒",
+          "variations": [
+            "投資史上最貴的四個字，就是「這次不一樣」。",
+            "當連我這種外行都覺得「這次一定不一樣」的時候，通常就是最一樣的時候。"
+          ]
+        },
+        "en": {
+          "content": "Every time a bubble inflates to its peak, someone leans in and says, very sincerely, 'This time it's different.'\nI've heard the dot-com version, the biotech version, the AI version.\nEach time I believed it, and each time I proved it with real money — the only thing that was ever different was the size of the loss, bigger every round.",
+          "editorNote": "Save it for the next 'this time is genuinely different' mania and give yourself three seconds to breathe",
+          "variations": [
+            "The four most expensive words in investing: 'this time it's different.'",
+            "When even an amateur like me is sure this time is different, that's usually the most same it's ever been."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-178",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.money101.com.tw/blog/%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D-%E5%AD%98%E8%82%A1-etf",
+      "sourceNote": "把虧損合理化成「繳學費」的心理防衛梗；改寫原創",
+      "tags": [
+        "學費",
+        "停損",
+        "自嘲",
+        "認賠",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每次賠錢，我都安慰自己：這不是虧損，是繳學費。\n算一算，我這幾年繳的學費，都夠念完一個博士了。\n唯一的問題是，這間學校好像沒有畢業這個選項，而且每學期還自動幫我加選新的課。",
+          "editorNote": "給每個把停損講得很有智慧、其實只是不想承認賠錢的自己",
+          "variations": [
+            "如果虧損真的是學費，那我大概是全校最認真的學生，只是永遠考不及格。",
+            "我繳的學費早就夠多了，但這間學校從來沒發過畢業證書。"
+          ]
+        },
+        "en": {
+          "content": "Every time I lose money, I comfort myself: this isn't a loss, it's tuition.\nDo the math and the tuition I've paid these past few years could have funded a PhD.\nOnly problem is, this school has no graduation option, and every semester it auto-enrolls me in a fresh set of courses.",
+          "editorNote": "For all of us who dress up a loss as 'a lesson' to avoid admitting we just lost money",
+          "variations": [
+            "If losses really are tuition, I'm the most dedicated student on campus. I just never pass the exam.",
+            "I've paid more than enough tuition. This school has simply never issued a diploma."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-179",
+      "dateAdded": "2026-07-21",
+      "sourceUrl": "https://www.money101.com.tw/blog/%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A1%8D-%E5%AD%98%E8%82%A1-etf",
+      "sourceNote": "「什麼都沒做的朋友反而贏」反差梗；改寫原創",
+      "tags": [
+        "定存",
+        "空手",
+        "自嘲",
+        "散戶",
+        "反差"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我研究了三年，看盤看到頭髮少一半，帳戶從六位數變五位數。\n我那個什麼都不懂、只把錢放定存、連 K 線是什麼都不知道的朋友，帳戶穩穩的，一毛沒少。\n原來在這個市場，最強的操作不是低買高賣，是根本沒進場。",
+          "editorNote": "適合傳給那個每次聚餐都笑你玩股票、自己卻默默存款最多的朋友",
+          "variations": [
+            "股市裡最會賺的人，有時候就是那個什麼都沒買的人。",
+            "我學了那麼多招，最後打敗我的，是一個連券商 APP 都沒下載的人。"
+          ]
+        },
+        "en": {
+          "content": "I studied for three years, watched charts until half my hair was gone, and turned a six-figure account into a five-figure one.\nMy friend — knows nothing, just parks cash in a savings account, couldn't tell a candlestick from a birthday candle — sits there untouched, not a cent lost.\nTurns out the strongest move in this market isn't buying low and selling high. It's never showing up.",
+          "editorNote": "Send it to the friend who teases you about trading at every dinner while quietly holding the biggest bank balance",
+          "variations": [
+            "Sometimes the best-performing person in the market is the one who bought nothing at all.",
+            "I learned every trick there is, and the one who beat me never even downloaded a brokerage app."
+          ]
+        }
+      }
     }
   ]
 }
