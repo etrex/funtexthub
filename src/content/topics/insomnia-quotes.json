@@ -6807,6 +6807,96 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-235",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://upjoke.com/insomnia-jokes",
+      "sourceNote": "Inspired by the classic 'partner falls asleep the second their head hits the pillow while I lie awake' contrast; rewritten with the sleeper snoring and the awake one negotiating with the universe",
+      "tags": [
+        "失眠",
+        "另一半",
+        "自嘲",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我旁邊的人，頭一碰枕頭三秒就睡著，還打起呼。\n而我睜著眼睛，開始認真思考：\n我們的關係、宇宙的盡頭、\n還有冰箱裡那盒放到過期的優格。\n同一張床，兩個世界。",
+          "editorNote": "適合枕邊人秒睡、自己卻清醒到天亮的夜晚。用「同一張床，兩個世界」收尾，情侶或室友都超有感。",
+          "variations": [
+            "他打呼的頻率，剛好變成我今晚的白噪音，而且還沒有暫停鍵。",
+            "看著身邊的人三秒入睡，我第一次體會到什麼叫望塵莫及。"
+          ]
+        },
+        "en": {
+          "content": "The person next to me was out cold three seconds after hitting the pillow, snoring already.\nMeanwhile I'm lying here wide awake, seriously pondering:\nour relationship, the edge of the universe,\nand that carton of yogurt I let expire in the fridge.\nSame bed, two different worlds.",
+          "editorNote": "For the night your partner passes out instantly while you're up till dawn. The 'same bed, two worlds' closer lands hard for couples and roommates alike.",
+          "variations": [
+            "His snoring is basically my white noise tonight, except there's no pause button.",
+            "Watching someone fall asleep in three seconds, I finally understand what 'out of my league' means."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-236",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://shuteye.ai/blog/insomnia-meme",
+      "sourceNote": "Inspired by the 'one leg out of the blanket as temperature control' meme; rewritten as manually operating yourself like an air conditioner all night",
+      "tags": [
+        "失眠",
+        "棉被",
+        "自嘲",
+        "廢話文學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我整晚都在調節體溫。\n棉被全蓋太熱，全掀太冷，\n所以我伸出一隻腳當散熱器，\n翻面找還沒被睡熱的那側，\n蓋一半、掀一半、再翻一次。\n凌晨四點，我不是在睡覺，\n我是在手動當一台恆溫空調。",
+          "editorNote": "適合為了棉被溫度翻來覆去一整晚的人。把「一隻腳伸出被子」寫成散熱器，荒謬又精準，畫面感十足。",
+          "variations": [
+            "我的一隻腳負責散熱，另一隻負責保暖，它們今晚都沒睡。",
+            "枕頭睡熱了就翻面找涼的那側，我這輩子最勤勞的時刻都花在半夜的床上。"
+          ]
+        },
+        "en": {
+          "content": "I spent the whole night regulating my body temperature.\nBlanket fully on: too hot. Fully off: too cold.\nSo I stick one leg out as a radiator,\nflip to the side I haven't warmed up yet,\nhalf covered, half uncovered, flip again.\nBy 4am I'm not sleeping,\nI'm manually operating myself like an air conditioner.",
+          "editorNote": "For anyone who tosses all night fighting the blanket temperature. Framing the one-leg-out move as a radiator is absurd and painfully accurate.",
+          "variations": [
+            "One leg handles cooling, the other handles heating, and neither of them slept tonight.",
+            "The pillow gets warm, so I flip it to the cool side — the hardest I work all day is in bed at 3am."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-237",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://shuteye.ai/blog/memes-about-sleep",
+      "sourceNote": "Inspired by sleep-app / white-noise culture; rewritten as the rain-sound track backfiring because you start analyzing the audio loop instead of sleeping",
+      "tags": [
+        "失眠",
+        "助眠App",
+        "腦內小劇場",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了助眠，我打開了「雨聲」。\n聽著聽著，我的腦袋開始運轉：\n這雨到底下多久了？會不會淹水？\n欸這段音檔，是不是每三分鐘就 loop 一次？\n剛剛那聲雷，上一輪好像也在同個位置。\n助眠 App 成功了——它讓我更清醒了。",
+          "editorNote": "適合吐槽助眠音效反而讓人更醒的夜晚。腦袋開始分析音檔迴圈的細節，把「越努力助眠越睡不著」寫得很好笑。",
+          "variations": [
+            "我開了海浪聲助眠，結果整晚在數這波浪到底幾秒打一次。",
+            "白噪音沒把我催眠，反而讓我升職成了它的音檔品管人員。"
+          ]
+        },
+        "en": {
+          "content": "To help me sleep, I put on 'rain sounds.'\nA few minutes in, my brain fires up:\nHow long has this rain been falling? Is it going to flood?\nWait — does this track loop every three minutes?\nThat thunderclap was in the exact same spot last time around.\nThe sleep app worked — it made me even more awake.",
+          "editorNote": "For roasting how sleep sounds keep you up instead. Your brain dissecting the audio loop nails the 'the harder I try to sleep, the more awake I get' bit.",
+          "variations": [
+            "Put on ocean waves to fall asleep, spent the whole night counting how many seconds between each wave.",
+            "The white noise didn't hypnotize me — it just promoted me to its unpaid quality-control inspector."
+          ]
+        }
+      }
     }
   ]
 }

@@ -7141,6 +7141,81 @@
           ]
         }
       }
+    },
+    {
+      "id": "aq-303",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://dailyview.tw/popular/detail/33240",
+      "sourceNote": "初級大人/高級大人 contrast; original angle on splitting the restaurant bill (not previously covered)",
+      "tags": ["初級大人", "高級大人", "金錢", "分帳"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人分帳：帳單來了，全桌突然安靜，低頭滑手機假裝在算，其實在等別人先開口喬。\n\n高級大人分帳：打開分帳 App，「一人 380，我先付，等等轉給我。」三十秒解決。\n\n差別不是誰比較有錢，是誰願意當那個先開口的人。",
+          "editorNote": "傳給那個每次聚餐帳單一來就突然安靜、盯著桌面的朋友",
+          "variations": [
+            "初級大人算 AA：掏出計算機，還要問「你剛剛那杯飲料要不要另外算？」高級大人算 AA：直接平分，多的幾十塊誰在意。",
+            "帳單放到桌上的那一刻，才看得出一桌人誰是高級大人。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult splitting the bill: the check arrives, the whole table goes quiet and stares at their phones pretending to do math, secretly waiting for someone else to sort it out.\n\nSenior adult splitting the bill: opens the split app — 'It's $28 each, I'll cover it, just send it over.' Done in thirty seconds.\n\nThe difference isn't who has more money. It's who's willing to be the one who speaks up first.",
+          "editorNote": "Tag the friend who goes dead silent and stares at the table the second the check lands",
+          "variations": [
+            "Junior adult splitting evenly: pulls out the calculator and asks 'wait, do we count the drink you had separately?' Senior adult: just splits it down the middle, who cares about the extra few bucks.",
+            "The moment the check hits the table is when you find out who at it is a real grown-up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-304",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.jcthplus.org/article/advanced-adult-vs-beginner-adult-unpacking-the-anxiety-behind-adulting",
+      "sourceNote": "初級大人/高級大人 social maturity angle; original take on gracefully accepting a compliment",
+      "tags": ["初級大人", "高級大人", "人際", "社交"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人被稱讚：「這件很好看耶！」「沒有啦，很便宜，隨便穿的。」耳朵紅到脖子，急著把功勞推掉。\n\n高級大人被稱讚：「這件很好看耶！」「對吧，我挑很久，謝謝你發現。」\n\n學會好好收下一句稱讚，比學會賺錢還難。",
+          "editorNote": "傳給那個被誇獎第一反應永遠是「沒有啦」、然後渾身不自在的朋友",
+          "variations": [
+            "初級大人收到讚美：先否認三次。高級大人收到讚美：微笑說謝謝，然後真心開心一整天。",
+            "長大的其中一課，是學會不再急著把每句好話推回去。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult getting a compliment: 'That looks great on you!' 'Oh, this? It was cheap, I just threw it on.' Ears turning red, rushing to give the credit away.\n\nSenior adult getting a compliment: 'That looks great on you!' 'Right? Took me forever to pick, thanks for noticing.'\n\nLearning to actually accept a compliment is harder than learning to make money.",
+          "editorNote": "Tag the friend whose first reaction to any praise is 'oh, it's nothing' followed by full-body awkwardness",
+          "variations": [
+            "Junior adult receiving praise: denies it three times first. Senior adult: smiles, says thank you, and is quietly thrilled about it all day.",
+            "One of the quieter lessons of growing up is learning to stop shoving every kind word back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-305",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://quoteoffame.com/blog/200-funny-adulting-quotes-that-hit-too-close-to-home/",
+      "sourceNote": "以為長大後 format; original angle on housework being an endless loop",
+      "tags": ["長大", "生活", "家事", "以為長大後"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候以為長大後有了自己的家，就能永遠住在整齊漂亮的空間裡。\n\n長大後才發現，家事是一種沒有終點的循環：碗洗好，只是在等下一餐變髒；地拖乾淨，灰塵已經在排隊了。\n\n所謂維持一個家，就是把同一件事，做一輩子。",
+          "editorNote": "傳給那個剛收好家裡、轉頭又亂掉、默默嘆氣的同住戰友",
+          "variations": [
+            "初級大人：以為大掃除一次就能一勞永逸。高級大人：知道整潔不是狀態，是每天的維護。",
+            "沒有人告訴你，長大後有一半的時間，都在把東西弄乾淨，然後看著它再髒一次。"
+          ]
+        },
+        "en": {
+          "content": "As a kid I thought that once I grew up and had my own place, I'd get to live in a clean, beautiful space forever.\n\nTurns out housework is a loop with no finish line: the dishes are clean, just waiting for the next meal to dirty them; the floor's mopped, and the dust is already lining up.\n\nKeeping a home just means doing the same tasks over and over, for the rest of your life.",
+          "editorNote": "Tag the roommate who just tidied the whole place, turned around, and sighed as it fell apart again",
+          "variations": [
+            "Junior adult: thinks one big deep-clean will fix it for good. Senior adult: knows tidiness isn't a state, it's daily maintenance.",
+            "Nobody warns you that half of adulthood is cleaning things and then watching them get dirty all over again."
+          ]
+        }
+      }
     }
   ]
 }

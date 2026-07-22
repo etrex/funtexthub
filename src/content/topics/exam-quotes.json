@@ -7480,6 +7480,99 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-244",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "Dcard 考試板 劃卡整排位移崩潰 register — 答案對但格子錯",
+      "tags": [
+        "劃卡",
+        "答案卡",
+        "考試",
+        "崩潰",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "交卷前十秒，我發現答案卡從第三題就整排往下位移了一格。\n所以我每一題其實都會，只是它們全部塗在錯的位置。\n我不是不懂，我只是把對的答案，很認真地填到了隔壁的人生。",
+          "editorNote": "選擇題劃卡族的最高等級惡夢，考完 po 出來全班都會抽一口氣。配一張塗滿的答案卡照更痛。",
+          "variations": [
+            "進階版：「我會的不是題目，是怎麼把整排答案漂亮地錯開一格。」",
+            "也能寫：「答案沒錯，位置錯了，我的人生好像也是這樣。」"
+          ]
+        },
+        "en": {
+          "content": "Ten seconds before I hand it in, I notice my bubble sheet shifted down one row starting from question three.\nSo I actually knew every answer — I just filled them all one slot off.\nI didn't get them wrong. I just carefully bubbled the right answers into someone else's life.",
+          "editorNote": "The final boss of multiple-choice nightmares. Post it after the exam and the whole group chat will inhale sharply. Pairs well with a photo of a fully filled answer sheet.",
+          "variations": [
+            "Escalated: \"The thing I mastered wasn't the questions — it was shifting a whole column exactly one row off.\"",
+            "Also: \"Right answers, wrong slots. Honestly, sounds like my life.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-245",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/SENIORHIGH/index.html",
+      "sourceNote": "PTT 高中板 計算機考到一半沒電 register — 裝備背叛",
+      "tags": [
+        "計算機",
+        "分科測驗",
+        "考試",
+        "自嘲",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "計算機在第七大題那一刻，安靜地熄了螢幕。\n它陪我算了三年模擬考，卻選在真正要算的那天罷工。\n原來最會臨陣脫逃的，不是我的記憶，是我信任的裝備。",
+          "editorNote": "帶計算機的考科專用崩潰，數甲、物理考生秒懂。配一張黑掉的計算機螢幕最有戲。",
+          "variations": [
+            "進階版：「它不是沒電，它是覺得這題連它都不想算。」",
+            "也能寫：「三年的感情，敗在一顆沒換的電池。」"
+          ]
+        },
+        "en": {
+          "content": "Right as I hit the seventh long-answer question, my calculator's screen quietly went dark.\nIt crunched numbers with me through three years of mocks, then picked the one day it actually mattered to quit.\nTurns out the thing most likely to desert me mid-battle wasn't my memory — it was the gear I trusted.",
+          "editorNote": "The signature meltdown for calc-permitted subjects. Physics and calc kids will feel it instantly. Pair with a photo of a dead calculator screen.",
+          "variations": [
+            "Escalated: \"It's not out of battery — it just decided even it didn't want to solve this one.\"",
+            "Also: \"Three years together, undone by one battery I never changed.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-246",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.threads.net/search?q=%E8%80%83%E8%A9%A6",
+      "sourceNote": "Threads 考試焦慮 register — 隔壁同學翻頁比我快",
+      "tags": [
+        "焦慮",
+        "考試",
+        "自嘲",
+        "廢文",
+        "考場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我還在第一題，隔壁同學已經翻到第三頁。\n那個翻頁的聲音，比監考老師的腳步聲還讓我心慌。\n原來考場裡最傷人的不是難題，是別人前進的節奏。",
+          "editorNote": "考場比較心理專用，考完 po 出來一堆人會說「就是我」。配一張只寫了一半的考卷更有共鳴。",
+          "variations": [
+            "進階版：「他翻頁的速度，剛好是我懷疑人生的速度。」",
+            "也能寫：「我不是寫得慢，是被隔壁的翻頁聲追著跑。」"
+          ]
+        },
+        "en": {
+          "content": "I'm still on question one, and the guy next to me is already flipping to page three.\nThat sound of turning pages rattles me more than the proctor's footsteps.\nTurns out the most brutal thing in an exam room isn't the hard question — it's the sound of everyone else moving on.",
+          "editorNote": "For the comparison-spiral in every exam room. Post it after and half the group chat will reply 'literally me.' Pairs well with a half-filled answer sheet.",
+          "variations": [
+            "Escalated: \"His page-turning speed is exactly the speed at which I start questioning my life.\"",
+            "Also: \"I'm not slow — I'm just being chased by the sound of the pages next to me.\""
+          ]
+        }
+      }
     }
   ]
 }

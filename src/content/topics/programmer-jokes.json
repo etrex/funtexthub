@@ -10052,6 +10052,96 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-350",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "Impostor syndrome among developers — 'they'll find out I know nothing' theme, rewritten as a story",
+      "tags": [
+        "冒牌者症候群",
+        "工程師心理",
+        "職業病",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師寫程式五年，上線過三個產品，帶過兩個新人。\n每天早上開電腦前，心裡還是那句：「他們遲早會發現，我其實什麼都不會。」\n昨天他順手解掉一個卡了全組三天的 bug。\n同事：「太神了吧你！」\n工程師：「沒有啦，我只是剛好 Google 到而已。」\n說完繼續擔心自己明天就會被拆穿。",
+          "editorNote": "傳給那個永遠覺得自己是靠運氣的工程師朋友——冒牌者症候群是這行的職業病，越厲害的人越常發作，你不孤單。",
+          "variations": [
+            "延伸：越資深越嚴重，因為你懂得越多，就越知道自己不懂的還有多少。",
+            "延伸：真正什麼都不會的人，通常不會擔心自己什麼都不會。"
+          ]
+        },
+        "en": {
+          "content": "Five years in. Three products shipped. Two juniors mentored.\nAnd every morning before he opens his laptop, the same thought: \"One day they'll figure out I actually know nothing.\"\nYesterday he casually fixed a bug that had stumped the whole team for three days.\nCoworker: \"You're a genius!\"\nDeveloper: \"Nah, I just happened to Google the right thing.\"\nThen he went back to worrying he'd be exposed by tomorrow.",
+          "editorNote": "Send this to the developer friend who's convinced it's all luck. Impostor syndrome is an occupational disease in this field — the better you are, the harder it hits. You're not alone.",
+          "variations": [
+            "Extension: The more senior you get, the worse it is — because the more you know, the more you realize how much you don't.",
+            "Extension: The people who actually know nothing usually aren't the ones worrying about it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-351",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://programmerhumor.io/memes/indentation",
+      "sourceNote": "Python invisible-whitespace debugging — three hours lost to a space vs tab, rewritten as a story",
+      "tags": [
+        "Python",
+        "縮排",
+        "除錯",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師盯著螢幕三個小時，程式就是不跑。\n語法沒錯、邏輯沒錯、變數也都拼對了。\n最後他把字級放大到 400%，才看見第 17 行的縮排——那不是一個 Tab，是四個看起來一模一樣的空白鍵。\n他沒有生氣，只是安靜地把「看不見的東西最會殺人」設成螢幕保護程式。",
+          "editorNote": "獻給所有被 Python 縮排折磨過的人——世界上最遠的距離，是一個 Tab 和四個長得跟它一模一樣的空格。",
+          "variations": [
+            "延伸：那天之後他把編輯器設成『顯示空白字元』，從此夜裡睡得比較安穩。",
+            "延伸：混用 Tab 和空格，是工程師之間唯一不需要吵就能翻臉的話題。"
+          ]
+        },
+        "en": {
+          "content": "A developer stared at the screen for three hours. The script just would not run.\nSyntax was fine. Logic was fine. Every variable spelled right.\nFinally he zoomed the font to 400% and saw it — line 17's indentation wasn't a tab. It was four spaces that looked exactly like one.\nHe didn't get angry. He just quietly set his screensaver to read: \"The things you can't see are the ones that get you.\"",
+          "editorNote": "For everyone Python's whitespace has ever tortured — the longest distance in the world is between one tab and four spaces that look identical to it.",
+          "variations": [
+            "Extension: After that day he turned on 'show whitespace characters' in his editor and finally slept through the night.",
+            "Extension: Mixing tabs and spaces is the one topic developers will turn on each other over without even arguing first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-352",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://quickpun.com/programmer-jokes/",
+      "sourceNote": "Boolean double-negative naming hell — if (!isNotDisabled) confusion, rewritten as a story",
+      "tags": [
+        "命名",
+        "布林值",
+        "程式碼品質",
+        "接手噩夢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有個工程師定義了一個變數，叫做 isNotDisabled。\n三個月後，另一個工程師接手，翻到這行：if (!isNotDisabled)。\n他盯著看了十分鐘，拿出紙筆畫真值表，泡了一杯咖啡，最後喃喃自語：「所以⋯⋯它到底是開，還是關？」\n原作者早就離職了。git blame 只留下一句 commit 訊息：「先這樣，之後會改。」",
+          "editorNote": "傳給那個喜歡用雙重否定命名的同事，或那個正在被雙重否定折磨的自己——命名是電腦科學兩大難題之一，另一個是快取失效，第三個是這則笑話。",
+          "variations": [
+            "延伸：後來他把變數改成 isEnabled，整個檔案瞬間少了三頁註解。",
+            "延伸：布林值取名的黃金守則——如果你需要真值表才看得懂，那就是取錯了。"
+          ]
+        },
+        "en": {
+          "content": "A developer once named a variable isNotDisabled.\nThree months later, someone new inherited the code and hit this line: if (!isNotDisabled).\nHe stared at it for ten minutes, drew a truth table on paper, made a coffee, and finally muttered: \"So... is it on, or off?\"\nThe original author was long gone. git blame left one commit message: \"temporary, will fix later.\"",
+          "editorNote": "Send this to the coworker who loves double negatives, or to the version of you currently suffering under one. Naming is one of the two hard problems in computer science — the others being cache invalidation and this joke.",
+          "variations": [
+            "Extension: He renamed it to isEnabled and the file instantly lost three pages of explanatory comments.",
+            "Extension: Golden rule of naming booleans — if you need a truth table to read it, you named it wrong."
+          ]
+        }
+      }
     }
   ]
 }

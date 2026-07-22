@@ -7019,6 +7019,96 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-240",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.zuyou.com.tw/blog/rental-knowledge/rental-disputes/",
+      "sourceNote": "landlord requiring a guarantor/co-signer to rent; rewritten original",
+      "tags": [
+        "房東",
+        "簽約",
+        "保證人",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是想租一間套房，房東要我找一個連帶保證人。\n我打給我爸，我爸問：「你是要租房，還是要跟人家借錢？」\n我也答不出來。\n因為對房東來說，這兩件事好像真的沒差。",
+          "editorNote": "傳給第一次租屋、被要求找保證人愣住的朋友，順便提醒他保證人的責任範圍其實可以、也應該在合約裡寫清楚",
+          "variations": [
+            "租個十坪的房間，我動用的人脈比申請信用卡還多。",
+            "房東要保證人、要在職證明、要三個月薪轉，我以為我在應徵，結果只是想睡覺。"
+          ]
+        },
+        "en": {
+          "content": "I just wanted to rent a studio, and the landlord asked me to find a co-signing guarantor.\nI called my dad, and he asked, 'Are you renting a place, or borrowing money from someone?'\nI couldn't answer.\nBecause to the landlord, those two things apparently aren't that different.",
+          "editorNote": "For a first-time renter frozen by a guarantor demand — a nudge that the guarantor's exact liability can and should be spelled out in the lease",
+          "variations": [
+            "To rent a hundred square feet I had to pull more strings than applying for a credit card.",
+            "Guarantor, proof of employment, three months of payroll deposits — I thought I was interviewing for a job, I just wanted somewhere to sleep."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-241",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://applealmondrealty.com/posts/7790",
+      "sourceNote": "landlord banning overnight guests / policing visitors; rewritten original",
+      "tags": [
+        "房東",
+        "隱私",
+        "規定",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東規定不能帶朋友過夜。\n有一次同學來借住一晚，隔天房東就傳訊息：「昨天那位是誰？」\n我付了全額的房租，卻只租到一半的自由。\n原來所謂的家，是一個別人有鑰匙、還幫你數人頭的地方。",
+          "editorNote": "傳給那個被房東管到連朋友都不能留宿的朋友，提醒他這類過度限制其實未必寫得進有效條款，簽約前要問清楚",
+          "variations": [
+            "我家門口大概裝了台我看不到的計數器，進出幾個人房東都知道。",
+            "房東不住這裡，卻比住這裡的我更清楚昨晚幾點有人來。"
+          ]
+        },
+        "en": {
+          "content": "My landlord's rule: no overnight guests.\nA classmate crashed for one night, and the next morning came the text: 'Who was that yesterday?'\nI pay the full rent but only get to rent half the freedom.\nTurns out a home is a place where someone else holds a key and counts your heads for you.",
+          "editorNote": "For a friend whose landlord polices even a single overnight guest — a reminder that such sweeping restrictions aren't always enforceable, so ask before signing",
+          "variations": [
+            "There must be a counter above my door I can't see — the landlord knows exactly how many people come and go.",
+            "My landlord doesn't live here, yet knows better than I do what time someone showed up last night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-242",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.zuyou.com.tw/blog/rental-knowledge/rental-disputes/",
+      "sourceNote": "renter life dictated by garbage-truck schedule (垃圾不落地); rewritten original",
+      "tags": [
+        "租屋",
+        "日常",
+        "垃圾",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這棟沒有管理員代收垃圾，所以我每天的行程表最重要的一欄，\n是垃圾車晚上七點零八分經過巷口的那三分鐘。\n我可以錯過末班捷運，可以錯過訊息，\n就是不能錯過那台放著給愛麗絲的車，不然我家會臭一個禮拜。",
+          "editorNote": "傳給那個為了追垃圾車、下班還得掐著碼表衝下樓的租屋族，一起苦笑這種被垃圾車綁架的生活",
+          "variations": [
+            "我的生理時鐘現在是跟著給愛麗絲在走的。",
+            "談戀愛可以晚一年，垃圾車不能晚三分鐘。"
+          ]
+        },
+        "en": {
+          "content": "This building has no doorman to collect the trash, so the most important slot in my daily schedule\nis the three minutes the garbage truck passes my alley at 7:08 p.m.\nI can miss the last train, I can miss a text,\nbut I cannot miss that truck playing Für Elise — or my place reeks for a week.",
+          "editorNote": "For a renter who has to clock-watch and sprint downstairs after work to catch the garbage truck — commiserating over a life held hostage by a schedule you don't control",
+          "variations": [
+            "My body clock now runs on the tune of Für Elise.",
+            "Love can wait a year; the garbage truck can't wait three minutes."
+          ]
+        }
+      }
     }
   ]
 }

@@ -9366,6 +9366,103 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-310",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://sysadminday.com/",
+      "sourceNote": "System Administrator Appreciation Day (last Friday of July, 2026-07-31); original office-dialogue joke about IT being invisible until something breaks",
+      "tags": [
+        "系統管理員感謝日",
+        "節日限定",
+        "工程師",
+        "冷笑話",
+        "對話",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天是系統管理員感謝日，你要不要跟 IT 那位說聲謝謝？」\n「他平常都在做什麼啊？我從來沒看他忙過。」\n「因為他忙的時候，就是你連不上網路、什麼都做不了的時候。」\n「⋯⋯所以他越閒，我就越幸福？」\n「你終於懂了。」",
+          "editorNote": "系統管理員感謝日（七月最後一個週五）限定，笑點在「看不見的維護才是最好的維護」——傳給公司那位默默把伺服器顧好、你卻常忘記他存在的 IT 同事",
+          "variations": [
+            "單句版：「系統管理員感謝日快樂，願你今年都用不到重開機這招。」",
+            "工程師自嘲版：「感謝日當天最好的禮物，就是整天沒有人敲我說『網路是不是壞了』。」"
+          ]
+        },
+        "en": {
+          "content": "\"It's System Administrator Appreciation Day. Want to thank the IT guy?\"\n\"What does he even do? I've never seen him look busy.\"\n\"Because when he's busy, that's the day you can't get online and nothing works.\"\n\"...So the more bored he looks, the happier I am?\"\n\"Now you get it.\"",
+          "editorNote": "For SysAdmin Appreciation Day (last Friday of July) — the punchline is that invisible maintenance is the best maintenance. Send it to the IT coworker quietly keeping the servers alive while everyone forgets he exists",
+          "variations": [
+            "Short version: \"Happy SysAdmin Day — may you never once have to try turning it off and on again this year.\"",
+            "Sysadmin self-roast: The best gift on Appreciation Day is a whole day where nobody DMs me 'hey is the wifi down?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-311",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://nationaldaycalendar.com/celebrations/international-mahjong-day-august-1",
+      "sourceNote": "International Mahjong Day (August 1); original family-gathering joke about grandma being unbeatable at mahjong",
+      "tags": [
+        "國際麻將日",
+        "八月",
+        "節日限定",
+        "家庭",
+        "冷笑話",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「阿嬤，今天是國際麻將日，我們讓妳贏一場好不好？」\n「讓我贏？」\n阿嬤慢慢碼好牌，眼神像看一個天真的孩子。\n「我打了四十年，你們三個加起來還沒我一隻手快。是我讓不讓你們的問題。」\n三分鐘後，阿嬤自摸。",
+          "editorNote": "國際麻將日（八月一日）限定，笑點在「晚輩想讓長輩、結果被電爆」——傳到家族群組，尤其那位牌桌上從沒輸過的阿嬤或阿姨在線上時，效果最好",
+          "variations": [
+            "單句版：「國際麻將日快樂，願你今天手氣旺、聽牌準、不要放槍給隔壁那位。」",
+            "輸家視角：「國際麻將日這天我學到一件事——跟阿嬤打牌，輸的是錢，贏的是回憶，通常兩個都是我在付。」"
+          ]
+        },
+        "en": {
+          "content": "\"Grandma, it's International Mahjong Day — how about we let you win one?\"\n\"Let me win?\"\nShe stacks her tiles slowly, looking at me like I'm an adorable child.\n\"I've played for forty years. The three of you combined aren't as fast as one of my hands. The real question is whether I let you win.\"\nThree minutes later: self-draw, Grandma wins.",
+          "editorNote": "For International Mahjong Day (August 1) — the joke is the grandkids trying to go easy on Grandma and getting demolished. Perfect for the family group chat, especially if the undefeated grandma or auntie is online",
+          "variations": [
+            "Short version: \"Happy Mahjong Day — may your tiles run hot and your neighbor never discard the one you need.\"",
+            "Loser's view: On Mahjong Day I learned one thing — playing Grandma, you lose money and win memories, and somehow I'm paying for both."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-312",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://nationaldaycalendar.com/celebrations/national-coloring-book-day-august-2",
+      "sourceNote": "National Coloring Book Day (August 2); original joke about adult coloring books as 'stress relief' that becomes its own stress",
+      "tags": [
+        "著色本日",
+        "八月",
+        "節日限定",
+        "紓壓",
+        "冷笑話",
+        "對話",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你不是買了那本紓壓著色本？塗得怎麼樣？」\n「我塗到第二格就開始糾結，這朵花到底要粉紅還是桃紅。」\n「那你決定了嗎？」\n「我查了色彩心理學、問了兩個群組，最後把整本收起來，去躺著。」\n「所以你為了紓壓，又給自己找了一個壓力。」",
+          "editorNote": "著色本日（八月二日）限定，笑點在「大人的紓壓活動最後變成另一種內耗」——傳給那個買了一堆紓壓神器、卻連選色都要焦慮半天的完美主義朋友",
+          "variations": [
+            "單句版：「著色本日快樂，願你今天塗色不出界，出界了也能坦然說『這叫抽象風』。」",
+            "群組版：「紓壓著色本使用心得：第一頁很療癒，第二頁開始有點壓力，第三頁我已經在跟自己吵架了。」"
+          ]
+        },
+        "en": {
+          "content": "\"Didn't you buy that stress-relief coloring book? How's it going?\"\n\"I got to the second shape and froze — should this flower be pink or hot pink?\"\n\"So did you decide?\"\n\"I looked up color psychology, asked two group chats, then put the whole book away and went to lie down.\"\n\"So to relieve stress, you invented a brand-new stress.\"",
+          "editorNote": "For National Coloring Book Day (August 2) — the punchline is a grown-up 'relaxing' hobby turning into its own spiral. For the perfectionist friend who owns every stress-relief gadget but agonizes over picking a color",
+          "variations": [
+            "Short version: \"Happy Coloring Book Day — may you stay inside the lines, and if you don't, may you confidently call it 'abstract.'\"",
+            "Group chat review: Page one of the stress-relief coloring book is soothing. Page two gets a little tense. By page three I'm arguing with myself."
+          ]
+        }
+      }
     }
   ]
 }

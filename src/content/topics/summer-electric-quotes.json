@@ -5529,6 +5529,96 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-186",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://qmonster.cc/energy-efficient/",
+      "sourceNote": "冷氣睡眠定時模式半夜關機熱醒；改寫原創",
+      "tags": [
+        "睡眠模式",
+        "定時",
+        "冷氣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡前我很有骨氣地設了冷氣睡眠定時，三小時後自動關，跟自己說這樣省電。\n凌晨三點，冷氣準時熄火，我準時被熱醒。\n我在黑暗裡伸手把它按回去的那一刻突然懂了——\n所謂睡眠模式，省的不是電，是我對「一覺到天亮」的所有幻想。",
+          "editorNote": "傳給那個每晚都在設定時、每晚都在半夜手動開回去的室友",
+          "variations": [
+            "冷氣睡眠定時的意思是：先讓你睡三小時，再用一場汗把你叫醒收尾。",
+            "設定時省電這招唯一的成果，是我現在每天凌晨三點都會準時醒來跟冷氣搏鬥一次。"
+          ]
+        },
+        "en": {
+          "content": "Before bed I bravely set the AC sleep timer — off after three hours, told myself it'd save money.\n3 a.m. sharp: the AC shuts off, and I wake up sweating right on schedule.\nReaching out in the dark to switch it back on, it finally hit me —\nsleep mode doesn't save electricity, it saves me from ever believing I'll sleep through the night again.",
+          "editorNote": "Send to the roommate who sets the timer every night and turns it back on at 3 a.m. every night",
+          "variations": [
+            "The AC sleep timer means: let you sleep three hours, then wake you up with a full-body sweat for the finale.",
+            "The only result of my timer trick is that I now wake up at 3 a.m. every night to wrestle the AC back on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-187",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://knit.yam.com/Blog/87-summer-electricity-price-june-rules-air-conditioner-bill-2026",
+      "sourceNote": "小孩放暑假在家整天吹冷氣電費暴漲；改寫原創",
+      "tags": [
+        "暑假",
+        "小孩",
+        "冷氣",
+        "電費"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前我以為暑假是小孩放假，後來才知道，是我家冷氣開始上工。\n他們不上學的每一天，冷氣就從早開到晚，一秒都沒歇過。\n開學那天我送小孩進校門，回頭看著空掉的客廳，第一次覺得——\n學校收的不是學費，是幫我省下的那半個月電費。",
+          "editorNote": "傳給那個天天盼開學、比小孩還期待的家長朋友",
+          "variations": [
+            "暑假兩個月，小孩在家長大，冷氣在家全力運轉，帳單在信箱默默集氣。",
+            "別人數暑假還剩幾天，我數的是我家冷氣還要連續加班幾天。"
+          ]
+        },
+        "en": {
+          "content": "I used to think summer break was for the kids. Turns out it's when my AC clocks in for its shift.\nEvery day they're not in school, that unit runs from morning to night without a single break.\nOn the first day of the new term I dropped them at the gate, looked back at the empty living room, and realized —\nschool isn't charging tuition, it's the two weeks of electricity it saves me.",
+          "editorNote": "For the parent friend who counts down to the first day of school more eagerly than the kids do",
+          "variations": [
+            "Two months of break: the kids grow up at home, the AC runs full blast, the bill quietly powers up in the mailbox.",
+            "Other people count how many days of summer are left. I count how many more days my AC has to pull overtime."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-188",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.nownews.com/news/6858983",
+      "sourceNote": "改洗冷水澡消暑省冷氣費；改寫原創",
+      "tags": [
+        "冷水澡",
+        "省電",
+        "消暑",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了少開一點冷氣，我改成睡前沖個冷水澡消暑。\n涼快維持了整整十五分鐘，然後我又開始流汗，只好再去沖一次。\n一個晚上沖三次，水費默默往上爬。\n我這才明白，省電費最貴的方法，是把它偷偷轉嫁到水費頭上。",
+          "editorNote": "傳給那個以為不開冷氣就是省錢、結果被水費反殺的省錢魂",
+          "variations": [
+            "冷水澡的涼，撐不過一集電視劇，然後你就得再去洗一次。",
+            "我沒有少花錢，我只是把冷氣的帳，轉了一手記到自來水公司名下。"
+          ]
+        },
+        "en": {
+          "content": "To run the AC a little less, I switched to a cold shower before bed to cool off.\nThe cool lasted a solid fifteen minutes, then I started sweating again, so I took another one.\nThree showers a night, and the water bill quietly creeps up.\nThat's when I got it: the priciest way to save on electricity is to secretly pass the cost over to the water bill.",
+          "editorNote": "For the budget soul who thought skipping AC meant saving, then got ambushed by the water bill",
+          "variations": [
+            "A cold shower's chill doesn't outlast one episode of a show, and then you're back in the bathroom.",
+            "I didn't spend less. I just moved the AC's tab over and charged it to the water company instead."
+          ]
+        }
+      }
     }
   ]
 }

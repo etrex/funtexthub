@@ -9154,6 +9154,93 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-351",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學重覆敘述法，原創微波爐主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "廚房"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "微波爐的原理其實很簡單：\n把冷掉的食物放進去，加熱之後，它就變熱了。\n\n如果拿出來還是冷的，\n那就代表你剛剛忘了按開始。",
+          "editorNote": "適合傳給在廚房對著微波爐發呆、還在等它自己動起來的室友",
+          "variations": [
+            "微波之後如果外面燙、裡面冰，那就代表它熱了一半，也還有一半沒熱。",
+            "食物加熱到冒煙就是熱了，加熱到爆炸就是熱過頭了。"
+          ]
+        },
+        "en": {
+          "content": "The microwave works on a very simple principle:\nput cold food in, heat it, and it comes out warm.\n\nIf it comes out cold,\nthat means you forgot to press start.",
+          "editorNote": "Send this to the roommate blankly staring into the microwave, waiting for it to start on its own",
+          "variations": [
+            "If it's scalding on the outside and frozen in the middle, that means it's half heated and half still not.",
+            "When it starts steaming, it's warm. When it starts exploding, it's a little too warm."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-352",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "廢話文學無邏輯串聯法，原創下載進度條主題",
+      "tags": [
+        "廢話文學",
+        "科技",
+        "3C"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下載進度條跑到 100% 的時候，\n就代表它已經下載完了。\n\n如果卡在 99% 不動，\n那剩下的那 1%，\n就是它決定讓你等最久的那 1%。",
+          "editorNote": "深夜盯著檔案下載、進度條卡住不動的時候發限動最有共鳴",
+          "variations": [
+            "進度條跑得越快，通常代表快好了；跑得越慢，代表它想再陪你久一點。",
+            "剩下三秒的意思是，它其實也不知道還要多久。"
+          ]
+        },
+        "en": {
+          "content": "When the download bar reaches 100%,\nthat means it has finished downloading.\n\nIf it's stuck at 99%,\nthat last 1% is simply the 1% it has decided to make you wait the longest for.",
+          "editorNote": "Peak relatability while watching a download bar freeze at 2am",
+          "variations": [
+            "The faster the bar moves, the closer it is to done. The slower it moves, the more it wants to spend time with you.",
+            "\"3 seconds remaining\" means it honestly has no idea how long it'll take."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-353",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學重覆敘述法，原創排隊叫號主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "排隊"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "抽號碼牌的規則其實很公平：\n你前面的號碼都會比你早被叫到，\n你後面的號碼都會比你晚。\n\n所以只要你一直等，\n總有一刻，會輪到你。\n\n除非你在那之前就先走了。",
+          "editorNote": "在銀行、醫院、監理站排隊叫號時，傳給同樣在乾等的朋友",
+          "variations": [
+            "叫號的速度你控制不了，你唯一能控制的，是要不要繼續坐在那裡等。",
+            "你前面還有幾號，取決於你前面還有幾個人。"
+          ]
+        },
+        "en": {
+          "content": "The ticket system is perfectly fair:\nevery number ahead of you gets called before you,\nand every number behind you gets called after.\n\nSo as long as you keep waiting,\nyour turn will eventually come.\n\nUnless you leave before it does.",
+          "editorNote": "For anyone clutching a paper ticket at the bank, clinic, or DMV",
+          "variations": [
+            "You can't control how fast they call the numbers. The only thing you control is whether you keep sitting there.",
+            "How many numbers are ahead of you depends entirely on how many people are ahead of you."
+          ]
+        }
+      }
     }
   ]
 }

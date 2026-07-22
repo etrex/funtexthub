@@ -7609,6 +7609,81 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-263",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.dcard.tw/f/talk/p/251141698",
+      "sourceNote": "自助結帳機普及後，客人仍全程叫店員代操作、最後反問『那還要你幹嘛』——前面未寫 self-checkout 題材，為新角度",
+      "tags": ["服務業", "奧客", "零售", "厭世", "客人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "自助結帳機前，客人揮手叫我：\n「這台我不會，你幫我用。」\n我從頭刷到尾、幫他付好、裝好袋，\n他轉頭說：「那還要這台機器幹嘛。」\n先生，機器是給會用的人用的，\n我是留下來收拾『不會用』的那部分。",
+          "editorNote": "傳給被『自助結帳』四個字整到的零售朋友。機器省的是排隊，不是店員；真正被自動化的，從來不是那台會嗶的機器。",
+          "variations": [
+            "自助結帳的意思是您自己助自己，不是我隔著機器再服務您一次。",
+            "老闆買機器是想省一個人力，結果那個人力現在站在機器旁邊，服務不會用機器的人。"
+          ]
+        },
+        "en": {
+          "content": "At the self-checkout, the customer waves me over:\n\"I can't work this thing — you do it.\"\nI scan it all, pay for him, bag it up,\nand he goes: \"So what's the machine even for?\"\nSir, the machine is for people who can use it.\nI'm the one left to clean up the \"can't use it\" part.",
+          "editorNote": "For retail friends worn down by the words \"self-checkout.\" The machine saves the line, not the clerk — and the thing that actually got automated was never the beeping box.",
+          "variations": [
+            "\"Self-checkout\" means you check yourself out — not that I serve you a second time through a screen.",
+            "The boss bought the machine to save one headcount. That headcount now stands beside it, serving the people who can't use it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-264",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/261585821",
+      "sourceNote": "客人邊講電話邊點餐、抬手要店員安靜，餐點做錯又回頭怪店員——前面未寫『講電話點餐』題材",
+      "tags": ["服務業", "奧客", "餐飲", "厭世", "客人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人一手貼著電話，\n另一手抬起來要我閉嘴，\n對我比了三根手指就走。\n餐做好了，他回頭：「我不是點這個。」\n先生，您剛剛在跟我點餐，\n還是在跟電話那頭的人點？\n我只能聽見我聽得見的那半句。",
+          "editorNote": "傳給常被『半通電話點餐』搞到做錯的餐飲朋友。你不是通靈的，客人吞進電話裡的那半句，本來就不該算在你頭上。",
+          "variations": [
+            "您用三根手指點的餐，我只能用三分猜的做。",
+            "點餐時請掛掉電話，不然我聽到的永遠是您人生的另一半劇情。"
+          ]
+        },
+        "en": {
+          "content": "One hand pressed to his phone,\nthe other raised to shush me,\nhe flashes three fingers and walks off.\nThe food's ready, he turns back: \"That's not what I ordered.\"\nSir, were you ordering from me,\nor from whoever's on the line?\nI can only hear the half of the sentence I was allowed to hear.",
+          "editorNote": "For food-service friends who keep getting orders \"wrong\" because they were placed through half a phone call. You're not a mind reader — the half the customer swallowed into his phone was never yours to get right.",
+          "variations": [
+            "You ordered with three fingers, so I made it with three guesses.",
+            "Please hang up before you order — otherwise all I hear is the other half of your life's plot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-265",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/258826892",
+      "sourceNote": "回應『現在服務業態度越來越差』的社會討論，改寫成第一線員工的反思角度——區隔於前面既有的微笑盔甲題材",
+      "tags": ["服務業", "厭世", "工作", "心聲", "情緒勞動"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人說：「你們服務態度是不是越來越差？」\n是啊，越來越差。\n差在我終於學會，\n把最好的笑容留給好好說話的人，\n把剩下的力氣，留給下班後的自己。\n態度沒有變差，\n是我開始把它花在值得的地方。",
+          "editorNote": "傳給被『態度越來越差』一句話否定掉整天努力的服務業朋友。你的笑不是義務，是禮物；收回一份錯給的禮物，不叫變差，叫終於學會分辨。",
+          "variations": [
+            "不是我們態度變差，是我們終於捨得不對爛態度陪笑。",
+            "服務可以無限，尊重不行；您感覺到的『變差』，只是我把界線畫回原本該在的地方。"
+          ]
+        },
+        "en": {
+          "content": "The customer says, \"Is your service getting worse or what?\"\nYes. Worse and worse.\nWorse because I've finally learned\nto save my best smile for the ones who speak kindly,\nand save what's left for myself after the shift.\nThe attitude didn't get worse —\nI just started spending it where it's worth spending.",
+          "editorNote": "For service friends whose whole day gets erased by one line: \"your attitude's gotten worse.\" Your smile was never an obligation, it's a gift — taking back a gift given to the wrong person isn't getting worse, it's finally learning to tell them apart.",
+          "variations": [
+            "It's not that our attitude got worse — we just stopped being willing to smile at a bad one.",
+            "Service can be unlimited; respect can't. The \"worse\" you feel is just me drawing the line back where it always belonged."
+          ]
+        }
+      }
     }
   ]
 }

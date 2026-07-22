@@ -9875,6 +9875,93 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-352",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://pickupline.net/situational-pick-up-lines/parking-pick-up-lines/",
+      "sourceNote": "parking spot 主題改寫成「心裡預留 VIP 車位」的日常對話",
+      "tags": [
+        "甜",
+        "對話",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你開車最怕遇到什麼？」\n「找不到停車位吧，超崩潰。」\n「那你放心，別的地方我不敢保證，但我心裡那個 VIP 車位，永遠幫你留著，還不用抽號碼牌。」",
+          "editorNote": "有車族、通勤族超有感，把「找不到車位」這個日常痛點翻成情話。適合傳給每天為停車煩惱的對象。",
+          "variations": [
+            "路邊停車位我可以繞十圈都找不到，但要停進你心裡，我一次就到位",
+            "別人停車要計時收費，你這個車位我停一輩子都免費"
+          ]
+        },
+        "en": {
+          "content": "\"What's your biggest fear when you drive?\"\n\"Not finding a parking spot, honestly. It's the worst.\"\n\"Well, I can't promise anything else, but the VIP spot in my heart? It's reserved for you — no ticket, no waiting.\"",
+          "editorNote": "Lands hard with drivers and commuters — flips the everyday pain of parking into a compliment. Great for someone who's always circling the block.",
+          "variations": [
+            "I'll circle a lot ten times and still not find a spot, but parking in your heart? Nailed it first try.",
+            "Every other spot charges by the hour. Yours I get to keep for life, free of charge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-353",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://pickuplinely.com/electronics-pickup-lines/",
+      "sourceNote": "QR code / scan 概念改寫成「一看到你就想掃、連結都通往你」的對話",
+      "tags": [
+        "甜",
+        "對話",
+        "科技"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你身上是不是有 QR code？」\n「哪有，你在說什麼？」\n「不然我怎麼一看到你，整個人就自動靠過去想掃一下，而且掃出來的連結，每一條都通往你。」",
+          "editorNote": "數位世代的日常梗，把「掃碼」這個每天在做的動作變成情話。畫面感強，適合傳給同樣手機不離身的對象。",
+          "variations": [
+            "別的 QR code 掃完就關掉，只有你這條，我想一直重新整理",
+            "我根本不用對焦，一看到你就自動掃描成功，還直接存進最愛"
+          ]
+        },
+        "en": {
+          "content": "\"Do you have a QR code on you somewhere?\"\n\"No? What are you talking about?\"\n\"Then why do I lean in to scan you the second I see you — and every link it opens just leads back to you?\"",
+          "editorNote": "A digital-native joke that turns the everyday act of scanning into a line. Very visual — perfect for someone as glued to their phone as you are.",
+          "variations": [
+            "Every other QR code I close the second it loads. Yours I just keep refreshing.",
+            "I don't even need to focus — one look at you and the scan succeeds, straight to favorites."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-354",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://pickuplineschool.com/electronics-pick-up-lines/",
+      "sourceNote": "self-checkout / barcode 概念改寫成「想把你嗶回家但你無價」的對話",
+      "tags": [
+        "搞笑",
+        "對話",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有用過自助結帳嗎？」\n「有啊，超方便的。」\n「難怪，因為我剛剛就想把你『嗶』一聲帶回家，結果發現你根本刷不出價格——原來你是無價的。」",
+          "editorNote": "超市、超商日常梗，把「自助結帳嗶一下」的動作變情話，最後用「無價」把土味收得剛剛好。適合輕鬆調情、不會太油。",
+          "variations": [
+            "別的東西嗶完要付錢，只有你，我想直接抱著走出感應門",
+            "我拿著你走到收銀台，機器說『此商品無法掃描，因為它是我的』"
+          ]
+        },
+        "en": {
+          "content": "\"Ever used self-checkout?\"\n\"Yeah, it's so convenient.\"\n\"Figures — because I just tried to beep you and take you home, but you wouldn't scan. Turns out you're priceless.\"",
+          "editorNote": "A grocery-run joke that turns the self-checkout beep into a line, landing softly on 'priceless.' Playful without laying it on too thick.",
+          "variations": [
+            "Everything else I pay for after the beep. You? I just want to walk you straight through the sensor gate.",
+            "I brought you to the register and the machine said 'item won't scan — because it's mine.'"
+          ]
+        }
+      }
     }
   ]
 }

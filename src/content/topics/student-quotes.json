@@ -2981,6 +2981,96 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-100",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://money.udn.com/money/story/11162/8758086",
+      "sourceNote": "學生用 ChatGPT 寫作業、怕被抓包 潤稿去 AI 味 共感改寫",
+      "tags": [
+        "AI",
+        "報告",
+        "作業",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在寫報告最緊張的一刻，不是按下繳交的那一秒，\n而是把 AI 生出來的內容重讀一遍，努力把它改得不像 AI 寫的。",
+          "editorNote": "用 AI 幫忙寫作業卻怕被抓包時發文，同屆同學都懂那種潤稿潤到懷疑人生的心情。",
+          "variations": [
+            "也能換成：「我不是不會寫，我只是負責把 AI 的文謅謅翻譯成人話。」",
+            "進階版：「AI 十分鐘寫完，我花兩小時把它改得像我半夜硬擠出來的。」"
+          ]
+        },
+        "en": {
+          "content": "The most nerve-wracking part of writing a paper now isn't hitting submit —\nit's rereading what the AI generated and frantically editing it so it doesn't read like AI wrote it.",
+          "editorNote": "Post it when you leaned on AI for an assignment and now dread getting caught — everyone in your year knows the 'editing until you question your life' feeling.",
+          "variations": [
+            "Swap in: \"It's not that I can't write, I just handle translating the AI's fancy essay into human.\"",
+            "Harder mode: \"AI finished it in ten minutes; I spent two hours making it look like I scraped it together at 3 a.m.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-101",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://snugfam.com/150-best-semester-funny-quotes-to-survive-college-life-in-2025/",
+      "sourceNote": "上台報告排練百遍、一站上去全忘光 緊張發抖 共感改寫",
+      "tags": [
+        "上台報告",
+        "簡報",
+        "緊張",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "輪到我上台報告的前一秒，我把講稿背得滾瓜爛熟；\n站上台的那一秒，我連自己叫什麼名字都需要看一下學生證。",
+          "editorNote": "上台簡報前排練百遍、一站上去卻全忘光時發文，會上台發抖的同學都懂。",
+          "variations": [
+            "也能換成：「報告時我的手在抖、聲音在飄，只有簡報翻頁鍵按得很堅定。」",
+            "進階版：「台下練得像 TED，台上講得像人質影片。」"
+          ]
+        },
+        "en": {
+          "content": "One second before it's my turn to present, I've got my script memorized cold;\nthe second I'm standing up there, I need to check my student ID to remember my own name.",
+          "editorNote": "Post it when you rehearse a hundred times and blank the instant you stand up — anyone who shakes on stage gets it.",
+          "variations": [
+            "Swap in: \"During my presentation my hands shake and my voice wobbles — only my thumb on the clicker stays confident.\"",
+            "Harder mode: \"Backstage I rehearse like a TED talk; on stage I deliver like a hostage video.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-102",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://laughorbit.com/college-student-jokes/",
+      "sourceNote": "教授愛拖堂、下課鐘響繼續講 共感改寫",
+      "tags": [
+        "拖堂",
+        "教授",
+        "上課",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下課鐘響的那一刻，教授說「這個概念很重要，我再講五分鐘」，\n二十分鐘後，我的午餐、我的下一堂課，還有我的求生意志，都已經先走了。",
+          "editorNote": "遇到愛拖堂的老師、看著時鐘一分一秒過去時發文，被拖堂餓過肚子的都懂。",
+          "variations": [
+            "也能換成：「教授的『再五分鐘』和店家的『馬上到』，是這世界上最不可信的兩句話。」",
+            "進階版：「下課鐘對我是解脫，對教授只是背景音。」"
+          ]
+        },
+        "en": {
+          "content": "The second the bell rings, the professor says \"this concept is important, just five more minutes,\"\nand twenty minutes later my lunch, my next class, and my will to live have all already left without me.",
+          "editorNote": "Post it when you're stuck with a professor who runs overtime and watch the clock tick — anyone who's gone hungry from an overrun class gets it.",
+          "variations": [
+            "Swap in: \"A professor's 'just five more minutes' and a delivery guy's 'almost there' are the two least trustworthy phrases on earth.\"",
+            "Harder mode: \"The bell means freedom to me and background noise to the professor.\""
+          ]
+        }
+      }
     }
   ]
 }

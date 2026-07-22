@@ -5590,6 +5590,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-199",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.ticketfairy.com/blog/buy-now-pay-later-ticketing-in-2026-offering-payment-plans-to-boost-event-sales",
+      "sourceNote": "2026 BNPL 分期付款成為演唱會票務主流付款方式，可分 12 期",
+      "tags": [
+        "分期付款",
+        "票價",
+        "厭世",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "票搶到了，\n用分期付款。\n\n十二期。\n\n演唱會早就唱完，\n安可也謝幕了，\n團員都放假了，\n\n我還在每個月一號\n繳那三小時的回憶。",
+          "editorNote": "分期付款買票是 2026 高票價下的日常。傳給還在還票錢的朋友",
+          "variations": [
+            "進階版：「我的信用卡帳單比演唱會還長。歌只有三小時，帳單分十二個月。」"
+          ]
+        },
+        "en": {
+          "content": "Got the ticket.\nPut it on a 12-month payment plan.\n\nThe show's over.\nThe encore's over.\nThe band's already on vacation.\n\nAnd on the first of every month,\nI'm still paying off\nthree hours of memories.",
+          "editorNote": "BNPL turned pricey tickets into a year-long subscription to one night. Send to the friend still making installments",
+          "variations": [
+            "Escalated: 'The concert lasted three hours. The payment plan lasts twelve months. Do the math on that exchange rate.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-200",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://concertnewsonline.com/is-livestream-still-free-for-live-concerts-in",
+      "sourceNote": "2026 免費演唱會直播稀少，多數藝人改為付費線上串流",
+      "tags": [
+        "直播",
+        "雲追星",
+        "票價",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒抽到票，\n退而求其次買了線上直播。\n\n以前直播是免費的，\n現在直播要錢，\n買了還會轉圈圈。\n\n我付錢，\n在家裡，\n看一個一直在緩衝的演唱會。",
+          "editorNote": "2026 連線上直播都要付費。傳給跟你一起在家「雲追星」卻卡到爆的朋友",
+          "variations": [
+            "拓展版：「現場的人在揮螢光棒，我在家揮我的網路數據機，祈禱它不要再轉了。」"
+          ]
+        },
+        "en": {
+          "content": "Didn't get a ticket.\nSettled for the paid livestream.\n\nLivestreams used to be free.\nNow they cost money —\nand they still buffer.\n\nSo here I am,\npaying to watch\na concert that keeps loading.",
+          "editorNote": "In 2026 even watching from your couch costs money and still lags. Send to your fellow at-home 'cloud fan' whose stream keeps freezing",
+          "variations": [
+            "Escalated: 'People at the venue are waving glow sticks. I'm at home waving my router, praying the spinning wheel stops.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-201",
+      "dateAdded": "2026-07-22",
+      "sourceUrl": "https://www.gvm.com.tw/article/125822",
+      "sourceNote": "2026 演唱會 VIP 套票含周邊優先購，開唱日現場周邊排隊人潮",
+      "tags": [
+        "周邊",
+        "排隊",
+        "手燈",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "票搶到了，\n以為苦難結束。\n\n開唱當天，\n我五點就到場館外，\n排的不是入場，\n是周邊。\n\n排了六小時，\n買到一支比我晚餐貴的手燈，\n然後手燈的燈\n比我的人還亮。",
+          "editorNote": "數位搶票結束，還有實體排隊在等你。傳給願意為一支手燈站六小時的周邊魂",
+          "variations": [
+            "進階版：「我的應援手燈保固一年，我的膝蓋排完隊之後保固不到一天。」"
+          ]
+        },
+        "en": {
+          "content": "Got the ticket.\nThought the suffering was over.\n\nShow day,\nI showed up at 5am —\nnot for the doors,\nfor the merch line.\n\nSix hours later\nI walked away with a lightstick\nthat cost more than my dinner,\nand it glows brighter than I do.",
+          "editorNote": "Digital queue ends, physical queue begins. Send to the merch devotee who'll stand six hours for one glow stick",
+          "variations": [
+            "Escalated: 'My official lightstick comes with a one-year warranty. My knees, after that line, came with about one day.'"
+          ]
+        }
+      }
     }
   ]
 }
