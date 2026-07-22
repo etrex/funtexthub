@@ -7018,3 +7018,62 @@ Done items collapsed; only live priorities listed.
 8. **[NEW OBSERVE — 週末（7/25-26 前後）可能有颱風生成]** NOWnews 7/21 報週末恐有颱風生成，吻合先前菲律賓附近季風低壓觀察；目前僅生成階段、路徑未定、未影響台灣，列觀察勿預寫；若發展並影響台灣，holiday-jokes/travel/renting 再啟動。
 9. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼（台股＋K 型 cross-link）。
 10. **[FLAG — SKIP 不變]** 國會預算戰＋中國軍演＋民眾黨主席＋海巡衝突＋校園霸凌＋超哥爭議 全 SKIP。『我ven一下/YBSG』SKIP；『留友看』省略政治歸因。龐奇/高麗菜那桌/朋朋/ㄅ級分/初級大人/班味/精神離職 純呆萌/自嘲/服氣共鳴無敏感。世足賽果已確認，改寫時取情緒共鳴勿作賽事評論或球隊優劣論斷。
+
+## 2026-07-22 Research Report
+
+### New Topic Recommendations（皆併入既有 topic，勿獨立建檔）
+
+1. **大暑 7/23（T-1，明日）＋熱浪主峰 38 度紫爆／太平洋高壓主導未來約兩週 · Dashu Tomorrow (T-1) + Heatwave Peak（併入 summer-electric-quotes ＋ diet/travel/student/renting/insomnia，勿獨立）** — **7/22 為大暑（7/23，週四，三伏中伏、一年最熱節氣）前一日，時效性最佳。氣象署：日本東方低壓帶減弱、太平洋高壓漸增強，未來幾天南部午後降雨逐漸減少、天氣回到典型夏季晴熱型態；普遍 32-35 度、局部 36 度以上、部分地區上看 38 度紫爆。高溫炎熱型態預估延續約兩週。priority MEDIUM-HIGH（情緒軸『冷氣電費帳單痛＋出門像走進烤箱／防曬白擦＋午後雷雨挑沒帶傘那天＋暑假整天躲冷氣耍廢＋高溫勸退減重＋熱到睡不著』——常青共鳴、勿引不實電價、中暑防曬帶提醒性正向）**:
+   - SEO rationale: 7/22 多源確認（今周刊『38 度高溫紫爆、午後強降雨雷陣雨連日轟、周末又有颱風生成？』／CWA 高溫資訊／udn『持續晴熱午後雷雨明迎大暑、熱帶系統路徑北調周末恐變天』皆 2026）。**大暑 7/23（T-1，明日）與熱浪主峰同框，是本週時效性最強、也最穩定的窗口。** 「大暑 2026 / 大暑 養生 / 高溫特報 / 紫爆 / 午後雷陣雨 / 冷氣 電費」search 本週衝頂、明日達峰。**情緒軸取常青共鳴，勿引具體不實電價數字，中暑/紫爆帶提醒性正向勿調侃受害。**
+   - 建議: **summer-electric-quotes carry 1-2 items（冷氣電費/夏月電價痛）＋ diet 吸收『高溫蒸發減重意志』＋ travel 吸收『曬到融化改室內景點/午後雷雨打亂行程』＋ student 吸收『暑假整天躲冷氣耍廢』＋ renting 吸收『套房悶熱＋冷氣電費雙殺』＋ insomnia 吸收『熱到睡不著』各 1 item**。register「大暑還沒到我的電費帳單已經先中暑／熱浪來時我跟冷氣的感情最穩定／出門五分鐘防曬白擦，流汗全洗掉／說好的夏日減重被 38 度直接勸退／午後雷陣雨精準挑我沒帶傘那天登場／熱到棉被踢掉還是睡不著」。en「Dashu isn't even here and my power bill already has heatstroke／when the heatwave hits, my most stable relationship is with the AC／five minutes outside and the sunscreen's washed off by sweat／too hot to sleep even with the blanket kicked off」。cross-link diet/travel/student/renting/insomnia。
+
+2. **⚠️ 颱風訊號升級／熱帶擾動 92W＋雙颱恐今生成、路徑北調「周末恐變天」不排除逼近台灣 · Typhoon Signal Escalates — Dual Disturbances, Weekend Weather Change（觀察升級 WATCH，暫勿寫梗）** — **7/22 較昨日明顯升級：吳德榮指菲島東南部外海熱帶擾動 92W 處於有利發展環境（垂直風切低、高空輻散良好、海溫暖），『雙颱今將生成』、其中一個『恐急轉強颱不排除逼近台灣』、『熱帶系統路徑北調、周末恐變天』；紅霞（Koinu）生成機率增。**但各模式模擬分歧、變數仍大，關鍵在未來 2-3 天系統結構是否增強整合，接近台灣程度仍不確定。** priority — 本身不建 item，列為 WATCH（由昨日 OBSERVE 升級）**:
+   - SEO rationale: 7/22 多源（壹蘋『午後雷雨減少、新熱帶擾動接棒、7 月底前恐有颱風生成』／udn『雙颱今將生成、關注它恐急轉強颱不排除逼近台灣』／udn『熱帶系統路徑北調、周末恐變天』／udn 92W 皆 2026）。**訊號由『可能生成』升級為『今將生成＋路徑北調＋周末變天』，但路徑仍未定。**
+   - 建議: **維持不預寫颱風梗**。若 7/23-7/25 確認路徑並發布海警/陸警影響台灣，再啟動 holiday-jokes（停班停課/颱風假）＋travel（行程打亂/改期）＋renting（漏水/淹水自嘲）＋workplace（颱風假是否放）。**目前僅生成階段、路徑分歧，勿寫死侵台或颱風假；今日僅記錄升級、不落地。** 明日研究須優先追蹤此系統。
+
+3. **世界盃落幕 Day+2／空虛期黃金窗口今日收尾、7/23 起正式併回四年一度回憶常青池 · World Cup Post-Final Day 2 — window closing（併入 worldcup-quotes ＋ insomnia/workplace/healing，勿獨立）** — **7/22 為冠軍戰（7/20 03:00 台灣時間，西班牙 1:0 阿根廷加時）之後第二個工作日，賽後空虛黃金窗口進入尾聲。register 維持『賽後空虛期』：一個月世足結束、晚上不知道要幹嘛／作息還卡在美東時區／挺阿根廷輸了的釋懷／熬夜看球的黑眼圈與作息重建。priority MEDIUM（昨 MEDIUM-HIGH，今日再降，7/23 起轉常青搶看轉播/四年一度回憶）**:
+   - SEO rationale: 賽果與獎項已多源確認（西 1:0 阿加時／英 6:4 法季軍／金靴 Mbappé／金球 Rodri／金手套 Unai Simón／最佳新人 Cubarsí），今日不需再查。**「世界盃 結束 空虛 / 作息 重建 / 世足 迷因」search 7/22 尚有餘溫，7/23 後衰減併常青。** **梅西未宣布退休勿寫死；輸球方取惋惜致敬勿嘲諷任一隊。**
+   - 建議: **worldcup-quotes carry 至多 1 item（空虛期常青版收尾，非再寫賽果）＋ insomnia/workplace/healing 各 1 item low**。register「世界盃結束了，我的生理時鐘還留在美東時區／一個月的球看完，晚上突然不知道要幹嘛／挺的那隊輸了，但我一點都不後悔熬這一個月」。**今日為此線最後軟窗，明日起 worldcup 建議純常青。** cross-link insomnia/workplace/healing。
+
+4. **『初級大人／高級大人』成熟梗續 carry（adulting 核心同軸）· "Junior/Senior Adult" — continue（併入 adulting-quotes ＋ workplace/renting/mom/self-love，勿獨立）** — **7/22 續盤點：DailyView『Threads 爆紅流行語由來、自我檢測表一次看』仍在熱門頁；該貼文過年期間 209 萬瀏覽、1.3 萬轉發、12 萬讚。梗自 2026/02 升溫、七個月仍被整理引用＝已過短命測試，天然對接既有 adulting-quotes，落地成本最低。priority MEDIUM（昨日已列第一優先落地，今日續 carry 補足即可）**:
+   - SEO rationale: 7/22 確認（DailyView 33240『初級大人/高級大人自我檢測表』2026／PopDaily『2026 Threads 爆紅 5 個梗』／QuickSeek『Z/α 世代流行語』皆 2026）。「初級大人 意思 / 高級大人 / 初級大人 檢測 / 初級大人 由來」search 平穩長尾。**情緒軸『在外獨當一面、回家秒退化成小孩』與 adulting 100% 同軸；取自嘲與家庭喜感，自嘲主體「我」不影射世代。**
+   - 建議: **adulting-quotes carry 1-2 items（若昨日尚未落地則今日補上）＋ workplace/renting/mom/self-love 各 1 item（若已落地則跳過）**。register「在公司我能獨當一面，回到家我連電鍋外鍋要加水都不知道／我是那種報稅要先打電話問媽媽的初級大人／28 歲了，家裡的事還是習慣先喊一聲『有沒有人比較懂』／別人是高級大人，我頂多算試用期大人」。en「At work I run the whole show; at home I don't even know the rice cooker needs water in the outer pot／I'm the kind of grown-up who has to call Mom before filing taxes／Other people are senior adults; I'm a grown-up still on probation」。**台灣在地情境（報稅/瓦斯檢查/拜拜/家電）改寫，勿照抄定義句。** cross-link workplace/renting/mom/self-love/healing。
+
+5. **Threads 呆萌梗池成熟期 carry／『接住』取得聲量佐證可謹慎解禁 · Threads Cute-Slang Set + "Catch You" now sourced（併入 slang-quotes ＋ cat/dog/self-love/healing，勿獨立）** — **7/22 更新：QuickSeek/PopDaily 2026 半年網路聲量顯示『朋朋』356,929 筆居冠、『接住』284,309 筆（多出現於情緒低落/脆弱情境）、『I 人/E 人』266,587 筆。此為『接住』首次取得有聲量數據的 2026 來源——先前因『缺有日期來源』暫緩，今日可謹慎解禁（取『情緒被接住/被承接』的正向陪伴語感）。其餘安全穩定組：龐奇（手養小猴＋IKEA 玩偶、可愛暴擊）／高麗菜那桌（服氣式吐槽）／ㄅ級分（注音最高評分）／留友看。priority MEDIUM**:
+   - SEO rationale: 7/22 多源（QuickSeek『Z/α 世代爆紅流行語、Threads 為最大推手、朋朋 356929 接住 284309 I/E 人 266587』／PopDaily『2026 Threads 爆紅 5 個梗』／ELLE HK『Gen Z/threads 常用潮語 2026』皆 2026）。「朋朋 / 接住 意思 / 龐奇 / 高麗菜那桌 / ㄅ級分」search 平穩。**⚠️『暈爛』語意兩說衝突（food coma vs 被愛沖昏頭）仍未定，續緩勿建 item。**
+   - 建議: **slang-quotes carry 1-2 條（龐奇/高麗菜那桌/朋朋/ㄅ級分/留友看，可新增『接住』1 條走情緒陪伴）＋ cat/dog 吸收『龐奇式可愛暴擊』1 item ＋ self-love/healing 吸收『接住自己/呆萌療癒/自我接納』1 item**。register「今天很累，但我先把自己接住／看到有人分享神級妙招，我只想說：請你去高麗菜那桌坐上座／看到龐奇抱著玩偶那表情，我的心直接融化，今天不 emo 了」。en「Rough day — but first, let me catch myself／Someone drops a genius life hack and all I can say is: please, take the head seat at the cabbage table」。**『接住』取正向情緒陪伴，勿與心理諮商/自傷情境混寫；『我ven一下/YBSG』SKIP；『留友看』改寫省略政治歸因；呆萌梗一律去政治化只取療癒/自嘲/陪伴。避免與已落地的『初級大人』重疊。**
+
+6. **8 月情感群 drafting／父親節 8/8 T-17、鬼門開 8/13 T-22、七夕 8/19 T-28、中元 8/27 T-36 · August Cluster Drafting（併入 fathers-day/sweet/cheesy/cdrama-period/wedding/holiday-jokes，勿獨立）** — **8 月為下一密集窗口：台灣父親節 8/8（週六）→ 鬼門開 8/13（週四，農曆七月初一）→ 七夕 8/19（週三，農曆七月初七，**多來源再確認**）→ 中元節 8/27（週四）→ 鬼門關 9/10。今年七夕 8/19 落在鬼月（8/13 起）內，是年年復現角度（浪漫 vs 禁忌張力）。priority MEDIUM（drafting）**:
+   - SEO rationale: 7/22 再確認（wisdom-life『2026 農曆七月 8/13-9/10、中元 8/27』／104 職場力『2026 鬼月禁忌』／黃曆網『2026 七夕 8/19』皆 2026）。**⚠️ 先前日誌提醒的 8/25、8/29 誤植持續排除；七夕以 8/19 為準。US 父親節 6/21 已 CLOSED。**
+   - 建議: **fathers-day-quotes（台灣 8/8）＋ sweet/cheesy（七夕土味情話）＋ cdrama-period（古裝甜寵）＋ wedding（8 月婚禮旺季）drafting，本週尚不需上線；holiday-jokes 可為鬼月主題暖身（禁忌自嘲/都市傳說幽默，勿恐嚇、勿冒犯信仰）**。register「一週有七天，你猜我最喜歡哪一天——有你的每一天／老爸的愛像冷氣，平常沒感覺，停了才知道活不下去／今年七夕在鬼月裡，浪漫和禁忌同時開門」。**七夕以 8/19 為準；鬼月內容取民俗趣味與自嘲，避免恐嚇性與不敬。**
+
+### Content Trends
+- **大暑 7/23（T-1，明日）＋熱浪主峰 38 度紫爆是今日時效性最佳窗口**：太平洋高壓漸主導、未來約兩週晴熱、局部 36 度上看 38 度紫爆、午後雷雨漸收但仍需慎防。冷氣電費／防曬白擦／午後雷雨／躲冷氣耍廢／高溫勸退減重／熱到睡不著全部有效。**勿引不實電價，中暑/紫爆帶提醒性正向。**
+- **⚠️ 颱風訊號由 OBSERVE 升級為 WATCH**：吳德榮『雙颱今將生成、其一恐急轉強颱不排除逼近台灣、熱帶系統路徑北調周末恐變天』、擾動 92W 環境有利、紅霞生成機率增。**但模式分歧、路徑未定、接近程度不確定——今日仍不寫颱風梗，僅記錄升級並列為明日首要追蹤。** 若 7/23-25 確認影響台灣再啟動 holiday-jokes/travel/renting/workplace。
+- **世界盃 Day+2 空虛期進入尾聲**：賽果昨已確認，今日 register 純空虛常青收尾（作息還在美東時區／晚上不知道幹嘛／挺阿根廷輸了的釋懷）。priority 續降 MEDIUM，7/23 起正式併回四年一度回憶常青池。**梅西勿寫死退休；勿嘲諷任一隊。**
+- **『初級大人/高級大人』成熟梗續 carry**：昨日升格第一優先，今日補足即可；情緒軸與 adulting 100% 同軸，落地成本最低。
+- **Threads 呆萌梗池成熟期、『接住』取得聲量佐證可謹慎解禁**：朋朋 356929／接住 284309／I 人 E 人 266587 聲量數據為『接住』首次有據來源，可走情緒陪伴。**『暈爛』語意未定續緩。** 龐奇/高麗菜那桌/朋朋/ㄅ級分/留友看 carry。
+- **8 月群 T 進入 T-17~T-36**：父親節 8/8（T-17，週六）→ 鬼門開 8/13（T-22）→ 七夕 8/19（T-28，多來源驗證）→ 中元 8/27（T-36）。**七夕落在鬼月內為今年可用角度；8/25、8/29 皆誤植勿採用。**
+
+### Existing Topic Updates
+- **summer-electric/diet/travel/student/renting/insomnia（7/22 大暑 7/23 T-1＋熱浪主峰 38 度紫爆＋高壓主導兩週, priority MEDIUM-HIGH — 今日第一優先）**：「大暑還沒到電費先中暑／熱浪來時我跟冷氣感情最穩／出門五分鐘防曬全洗掉／38 度勸退減重／午後雷雨挑我沒帶傘那天／熱到睡不著」summer-electric 1-2 items＋其餘各 1 item。**勿引不實電價；中暑/紫爆帶提醒性正向。**
+- **worldcup-quotes（7/22 落幕 Day+2 空虛期收尾, priority MEDIUM）**：carry 至多 1 item 空虛期常青版收尾（非賽果）『生理時鐘還在美東時區／晚上不知道幹嘛／挺的那隊輸了不後悔』。**梅西勿寫死退休；勿嘲諷任一隊；明日起純常青。** cross-link insomnia/workplace/healing。
+- **adulting-quotes（7/22『初級大人/高級大人』成熟梗續 carry, priority MEDIUM）**：若昨日尚未落地則今日補 1-2 items『在外獨當一面回家秒變小孩／報稅先問媽媽的初級大人／頂多算試用期大人』＋workplace/renting/mom/self-love 各 1 item。**台灣在地情境改寫，自嘲主體「我」不影射世代。**
+- **slang-quotes/cat/dog/self-love/healing（7/22 Threads 呆萌成熟期＋『接住』解禁, priority MEDIUM）**：龐奇/高麗菜那桌/朋朋/ㄅ級分/留友看 1-2 條＋可新增『接住』走情緒陪伴 1 條＋cat/dog『龐奇式可愛暴擊』1 item＋self-love/healing『接住自己/呆萌療癒』1 item。**『暈爛』續緩；『我ven一下/YBSG』SKIP；『留友看』省略政治歸因；避免與初級大人重疊。**
+- **insomnia/workplace/healing（7/22 決賽後作息重建＋空虛釋懷＋熱到睡不著, priority MEDIUM）**：「生理時鐘還在美東時區／一個月作息要重建／熱到睡不著」carry 各 1 item low。
+- **fathers-day/sweet/cheesy/cdrama-period/wedding/holiday-jokes（7/22 8 月群 drafting, 父親節 8/8 T-17/鬼門開 8/13 T-22/七夕 8/19 T-28/中元 8/27 T-36, priority MEDIUM-drafting）**：七夕土味情話＋台灣父親節＋古裝甜寵＋8 月婚禮旺季 drafting；holiday-jokes 鬼月暖身（禁忌自嘲/都市傳說幽默，勿恐嚇勿冒犯信仰）。**七夕以 8/19 為準（8/25、8/29 皆誤植）；US 父親節 6/21 已 CLOSED。**
+- **korean-drama/drama/drama-binge/cdrama-period（7/22 高溫室內＋世足空虛餘溫＝追劇, priority LOW-MEDIUM）**：「外面 38 度我的夏天在冷氣房一集接一集／只想看一集太陽都出來了」各 1 item low（《鬼謎東宮》7/17 續熱，劇名引子勿劇透）。
+- **concert-ticket-quotes（priority LOW）**：五月天雙場 7/12 已落幕，回歸搶票/退票/改期常青。
+- **cat/dog/pet-memorial/mom/zodiac/couple-jokes/cold-jokes/service/fitness/motivational/breakup/stock-investor/human-design/programmer/absurd-wisdom/exam/graduation**：organic 觀察期。exam-quotes 深度休眠至 2027/6。
+
+### Updated Action Priority
+1. **[MEDIUM-HIGH — 大暑 7/23 T-1 明日＋熱浪主峰 38 度紫爆＋高壓主導兩週]** summer-electric 1-2 items＋diet/travel/student/renting/insomnia 各 1 item。**勿引不實電價；中暑/紫爆帶提醒性正向。**（今日第一優先）
+2. **[MEDIUM — 世界盃落幕 Day+2 空虛期收尾]** worldcup-quotes 至多 1 item 常青收尾＋insomnia/workplace/healing 各 1 item low。**梅西勿寫死退休；勿嘲諷任一隊；明日起純常青。**
+3. **[MEDIUM — 『初級大人/高級大人』成熟梗續 carry]** adulting 補 1-2 items（若昨未落地）＋workplace/renting/mom/self-love 各 1 item。**台灣在地情境，自嘲主體「我」不影射世代。**
+4. **[MEDIUM — Threads 呆萌成熟期＋『接住』解禁]** slang-quotes 1-2 條（龐奇/高麗菜那桌/朋朋/ㄅ級分/留友看）可加『接住』走情緒陪伴＋cat/dog 1 item＋self-love/healing 1 item。**『暈爛』續緩；避免與初級大人重疊。**
+5. **[DRAFTING — 8 月群 父親節 8/8 T-17/鬼門開 8/13 T-22/七夕 8/19 T-28/中元 8/27 T-36]** fathers-day/sweet/cheesy/cdrama-period/wedding drafting＋holiday-jokes 鬼月暖身。**七夕以 8/19 為準。**
+6. **[LOW-MEDIUM — 高溫室內追劇餘溫]** korean-drama/drama/drama-binge/cdrama-period 各 1 item low（《鬼謎東宮》劇名引子勿劇透）。
+7. **[⚠️ WATCH（由 OBSERVE 升級）— 雙颱恐今生成/路徑北調/周末恐變天]** 吳德榮『其一恐急轉強颱不排除逼近台灣』、擾動 92W 環境有利、紅霞生成機率增；但模式分歧、路徑未定。**今日仍不寫颱風梗，列為明日首要追蹤；若 7/23-25 確認影響台灣再啟動 holiday-jokes/travel/renting/workplace。**
+8. **[CLOSED — 世界盃賽事本身 7/20 結束 / 五月天 7/12 / 颱風巴威 7/9-11 / 會考放榜 7/7 / 端午 6/19 / 報稅 6/1 / US 父親節 6/21]** worldcup 賽事線 CLOSED，7/23 起純常青；exam-quotes 深度休眠至 2027/6。
+9. **[NEW OBSERVE — Q4 12 月年底結算]** stock-investor-quotes 年底加碼（台股＋K 型 cross-link）。
+10. **[FLAG — SKIP 不變]** 國會預算戰＋中國軍演＋民眾黨主席＋海巡衝突＋校園霸凌＋超哥爭議 全 SKIP。『我ven一下/YBSG』SKIP；『留友看』省略政治歸因。龐奇/高麗菜那桌/朋朋/ㄅ級分/初級大人/接住/班味/精神離職 純呆萌/自嘲/服氣/陪伴共鳴無敏感。世界盃賽果已確認，改寫取情緒共鳴勿作賽事評論或球隊優劣論斷。
