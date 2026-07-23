@@ -10142,6 +10142,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-353",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://programmerhumor.io/memes/timezone",
+      "sourceNote": "Timezone/DST developer pain — 'time isn't real' whiteboard trope",
+      "tags": [
+        "時區",
+        "時間",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管：「這功能加個時間顯示，很簡單吧？」\n三個禮拜後，工程師的白板寫滿了時區、日光節約、閏秒，還有一個大大的問號。\n他喃喃自語：「時間根本不存在，都是我們自己騙自己的。」",
+          "editorNote": "傳給任何處理過跨時區系統的工程師，保證他先默默點頭，然後眼神死。",
+          "variations": [
+            "延伸：唯一的解藥是一句咒語——所有時間一律存 UTC，顯示的時候再轉。",
+            "延伸：可以換成『幫我算兩個城市的時差就好』，工程師三天後端出一份包含歷史時區變更的報告。"
+          ]
+        },
+        "en": {
+          "content": "Manager: \"Just add a timestamp to this feature, easy, right?\"\nThree weeks later the developer's whiteboard is buried under timezones, daylight saving, leap seconds, and one enormous question mark.\nHe mutters: \"Time isn't real. We made the whole thing up to feel safe.\"",
+          "editorNote": "Send this to anyone who has ever wrestled a cross-timezone system. They'll nod first, then their eyes go dead.",
+          "variations": [
+            "Extension: The only cure is a chant — store everything in UTC, convert only when you display it.",
+            "Extension: Swap it for 'just tell me the time difference between two cities' and watch them return three days later with a report on historical timezone changes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-354",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://programmerhumor.io/memes/http-status-codes",
+      "sourceNote": "Honest HTTP status code cheat sheet — 4xx you / 5xx me / 418 teapot",
+      "tags": [
+        "HTTP",
+        "狀態碼",
+        "前後端"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師版的 HTTP 狀態碼翻譯：\n4xx = 是你搞砸的（找不到、沒權限、參數亂傳）\n5xx = 是我搞砸的（但我會假裝正在調查）\n418 = 我是一個茶壺，我拒絕幫你泡咖啡。",
+          "editorNote": "貼在螢幕旁邊，比官方文件實用一百倍；前後端吵架的時候拿出來還能降溫。",
+          "variations": [
+            "延伸：200 的意思是『能動，但別問我為什麼』。",
+            "延伸：最誠實的錯誤訊息就是 418，至少它承認自己辦不到。"
+          ]
+        },
+        "en": {
+          "content": "An honest translation of HTTP status codes:\n4xx = you messed up (not found, no access, garbage input)\n5xx = I messed up (but I'll pretend I'm investigating)\n418 = I'm a teapot, and I refuse to brew your coffee.",
+          "editorNote": "Tape it next to your monitor — a hundred times more useful than the official docs, and it defuses frontend-vs-backend fights on the spot.",
+          "variations": [
+            "Extension: 200 really means 'it works, but don't ask me why.'",
+            "Extension: The most honest error code is 418 — at least it admits it can't do the job."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-355",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://programmerhumor.io/memes/status-codes",
+      "sourceNote": "Classic binary '10 types of people' joke, reworked with finger-counting tag",
+      "tags": [
+        "二進位",
+        "冷笑話",
+        "數學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師界只有 10 種人：\n看得懂二進位的，\n還有正在偷偷用手指頭確認『10 是不是等於二』的你。",
+          "editorNote": "講給非工程師聽通常會冷場，而那個冷場本身就是隱藏的笑點。",
+          "variations": [
+            "延伸：如果對方停頓超過三秒，恭喜，你成功把一個人分類進了第二種。",
+            "延伸：進階版——世界上有 11 種人，看得懂二進位、看不懂的、以及沒想到還有三進位的。"
+          ]
+        },
+        "en": {
+          "content": "There are only 10 kinds of developers:\nthose who get binary,\nand those who just counted on their fingers to check whether 10 means two.",
+          "editorNote": "Tell it to a non-developer and it usually falls flat — that flat silence is the actual punchline.",
+          "variations": [
+            "Extension: If they pause for more than three seconds, congratulations, you've sorted a human being into the second group.",
+            "Extension: Advanced version — there are 11 kinds of people: those who read binary, those who don't, and those who forgot ternary was an option."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-356",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://programmerhumor.io/memes/daylight-saving-time",
+      "sourceNote": "DST scheduled-job superposition — cron ran twice or never",
+      "tags": [
+        "日光節約",
+        "排程",
+        "後端"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一年有兩天，後端工程師會格外虔誠地祈禱。\n一天是日光節約時間開始，\n另一天是它結束。\n那兩天，所有的排程任務都活在薛丁格的狀態：可能跑了兩次，也可能一次都沒跑。",
+          "editorNote": "排過 cron job 的人才懂的痛，傳給後端同事保證瞬間引起共鳴。",
+          "variations": [
+            "延伸：真正的老手那兩天不睡覺，不是為了修 bug，是為了親眼看它到底跑幾次。",
+            "延伸：也可以換成月底結帳那天，帳一定會差那一個小時的資料。"
+          ]
+        },
+        "en": {
+          "content": "Twice a year, backend developers pray a little harder.\nOnce when daylight saving starts,\nand once when it ends.\nOn those two days, every scheduled job lives in a superposition: maybe it ran twice, maybe it never ran at all.",
+          "editorNote": "A pain only people who've wired up a cron job understand. Send it to a backend coworker for instant recognition.",
+          "variations": [
+            "Extension: The real veterans stay up on those two nights — not to fix bugs, but to watch with their own eyes how many times the job fires.",
+            "Extension: Swap it for month-end billing day, where the numbers are always off by exactly one hour of data."
+          ]
+        }
+      }
     }
   ]
 }

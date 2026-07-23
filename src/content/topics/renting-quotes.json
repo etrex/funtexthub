@@ -7109,6 +7109,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-243",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.storm.mg/lifestyle/11045789",
+      "sourceNote": "no-doorman rental package pickup pain point; rewritten original",
+      "tags": [
+        "租屋",
+        "包裹",
+        "網購",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒管理員的租屋處，收包裹是一場豪賭：\n你賭快遞會在你在家的那兩小時來，\n他賭你不在，\n然後把「已嘗試投遞」五個字，變成一張叫你自己去領的通知單。",
+          "editorNote": "傳給那個為了收一個包裹，請了半天假在家空等的網購族，一起苦笑租屋族連收貨都要拿假去換",
+          "variations": [
+            "我不是不在家，我是被上班綁架了。",
+            "住套房最奢侈的服務，叫『有人幫你收包裹』。"
+          ]
+        },
+        "en": {
+          "content": "In a rental with no doorman, getting a package is a gamble:\nyou bet the courier shows up during the two hours you're home,\nhe bets you're out —\nthen turns \"delivery attempted\" into a slip telling you to go pick it up yourself.",
+          "editorNote": "For the online-shopping addict who burned half a vacation day sitting home waiting for one box; commiserate over renters trading time off just to receive a parcel",
+          "variations": [
+            "I'm not dodging you, I'm being held hostage by my job.",
+            "The fanciest amenity in a studio is 'someone to sign for your parcels.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-244",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.zuyou.com.tw/blog/rental-knowledge/",
+      "sourceNote": "no-balcony studio, indoor drying, 24/7 dehumidifier + damp; rewritten original",
+      "tags": [
+        "租屋",
+        "除濕",
+        "潮濕",
+        "電費"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的套房沒有陽台，\n所以衣服晾在房間裡，除濕機二十四小時開著。\n電費單來的那天我才懂——\n原來我不是在租房間，我是在租一座潮濕的、還要自費烘乾的雨林。",
+          "editorNote": "傳給那個房間永遠晾著半乾衣服、除濕機水箱倒到手軟的租屋族，一起認領這股『再兩小時應該就乾了』的味道",
+          "variations": [
+            "我的衣服有兩種狀態：濕的，跟有霉味的。",
+            "別人家的味道是柔軟精，我家的味道是『快乾了』。"
+          ]
+        },
+        "en": {
+          "content": "My studio has no balcony,\nso the laundry hangs in the room and the dehumidifier runs around the clock.\nWhen the electricity bill showed up, I finally got it —\nI'm not renting a room, I'm renting a damp little rainforest I have to dry out at my own expense.",
+          "editorNote": "For the renter whose room always has half-dry clothes on a rack and who empties the dehumidifier tank until their arm aches",
+          "variations": [
+            "My clothes have two states: wet, and faintly moldy.",
+            "Other homes smell like fabric softener; mine smells like 'give it two more hours.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-245",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.dcard.tw/f/house/p/228674115",
+      "sourceNote": "landlord/agent no-show at scheduled viewing; rewritten original",
+      "tags": [
+        "租屋",
+        "看房",
+        "房東",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "約好下午三點看房，我提早十分鐘到。\n三點半，房東的電話轉語音。\n四點，仲介傳來一句「不好意思剛剛在忙」。\n我這才知道——\n在租屋市場，最先被放鳥的練習，是租房子的人在做的。",
+          "editorNote": "傳給那個為了看房請假、結果被房東或仲介晾在巷口的找房人，提醒他：還沒簽約就爽約的，之後也別抱期待",
+          "variations": [
+            "還沒簽約就先體驗售後服務，房東的態度很有參考價值。",
+            "我等的不是房子，是一個願意準時出現的房東。"
+          ]
+        },
+        "en": {
+          "content": "We set the viewing for 3 p.m.; I got there ten minutes early.\n3:30, the landlord's phone goes to voicemail.\n4:00, the agent texts \"sorry, got tied up.\"\nThat's when it hit me —\nin the rental market, the first person who gets stood up is the one trying to rent.",
+          "editorNote": "For the house-hunter who took time off to view a place and got left standing in the alley by a no-show landlord or agent",
+          "variations": [
+            "A free preview of the after-sales service before you even sign — very informative.",
+            "I wasn't waiting for an apartment, I was waiting for a landlord willing to show up on time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-246",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.dcard.tw/f/house",
+      "sourceNote": "tiny studio, convenience store as de facto living room; rewritten original",
+      "tags": [
+        "租屋",
+        "套房",
+        "超商",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的套房小到轉身會撞牆，\n所以我把樓下的超商當客廳，桌子當書房、微波爐當廚房、廁所當我家第二間廁所。\n我付一萬五租的是睡覺的地方，\n真正生活的地方，是那家從沒跟我收過房租的超商。",
+          "editorNote": "傳給那個把住處當睡覺膠囊、真正的生活都在超商解決的小套房租屋族",
+          "variations": [
+            "我家的客廳有 ATM，還有 ATM 旁邊那張椅子。",
+            "嚴格說起來，養我長大的是那間二十四小時亮著燈的超商。"
+          ]
+        },
+        "en": {
+          "content": "My studio is so small I hit the wall when I turn around,\nso the convenience store downstairs is my living room, its counter my study, its microwave my kitchen, its restroom my second bathroom.\nThe fifteen grand a month rents me a place to sleep;\nthe place I actually live is the store that's never once charged me rent.",
+          "editorNote": "For the studio renter who treats their unit as a sleep pod and does all their real living at the 24-hour convenience store",
+          "variations": [
+            "My living room comes with an ATM and the chair next to the ATM.",
+            "Technically, the thing that raised me is that 24-hour store with the lights always on."
+          ]
+        }
+      }
     }
   ]
 }

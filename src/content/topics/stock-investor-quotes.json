@@ -5507,6 +5507,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-183",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://rich01.com/shareholder-meeting-souvenir/",
+      "sourceNote": "2026 股東會紀念品旺季（聯電史努比保溫瓶、王品/大魯閣股東大禮包零股也能領）；改寫原創，為紀念品進場結果套牢",
+      "tags": [
+        "股東會",
+        "紀念品",
+        "存股",
+        "套牢",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我本來只是想領那個股東會紀念品，聽說今年送保溫瓶，市價五百塊。\n為了領它，我趕在最後買進日前買了一張。\n保溫瓶我領到了。\n那張股票，現在帳面虧了兩萬。\n我終於擁有全台灣最貴的一個保溫瓶——附贈一張捨不得賣的套牢單。",
+          "editorNote": "丟給每個為了紀念品下海、結果套牢的存股同好",
+          "variations": [
+            "別人買股票是為了配息，我買股票是為了那組股東會送的鍋子，現在鍋子還在，本金燒乾了。",
+            "股東會紀念品最貴的地方，從來不是紀念品本身，是那張你為了領它而買、然後再也賣不掉的股票。"
+          ]
+        },
+        "en": {
+          "content": "I only bought the stock to grab the shareholder-meeting gift — this year it was a thermos, retails for about fifteen bucks.\nTo qualify, I bought a full lot right before the cutoff.\nI got the thermos.\nThe stock is now down six hundred dollars.\nCongratulations to me: I own the most expensive thermos in the country, and it came with a share I can't bring myself to sell.",
+          "editorNote": "For every dividend-stock friend who bought a lot just for the freebie and got stuck holding it",
+          "variations": [
+            "Some people buy stocks for the dividend. I bought this one for the free cookware. The pot's still in my kitchen; the money evaporated.",
+            "The priciest part of a shareholder gift is never the gift — it's the share you bought to qualify and now can't unload."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-184",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/invest/guide/ipo-subscription",
+      "sourceNote": "2026 台股新股申購：中籤率極低、備妥資金常拿到 0 股、破發率約 12%；改寫原創，抽整年沒中、好不容易中又破發",
+      "tags": [
+        "IPO",
+        "申購",
+        "抽籤",
+        "破發",
+        "新股"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新股申購我抽了一整年，每次都乖乖備妥錢，凍在帳戶裡等開獎。\n中籤率百分之零點三，我硬是連續槓龜四十次，一張都沒中。\n就在我心灰意冷、隨手多按一檔冷門股的那次——中了。\n上市第一天，破發，直接跌破承銷價。\n原來我的手氣不是不好，是專門用來抽那種一中就套的。",
+          "editorNote": "適合貼在申購群組，給每個備好錢卻抽不到、好不容易抽到又破發的人",
+          "variations": [
+            "抽新股就像刮刮樂，別人刮到蜜月行情，我刮到蜜月結束後的離婚協議書。",
+            "中籤那一刻我以為中樂透，掛牌那一刻我才發現，中的是套牢的頭獎。"
+          ]
+        },
+        "en": {
+          "content": "I entered the IPO lottery every week for a year, dutifully parking cash in my account for each draw.\nAllocation odds: 0.3%. I struck out forty times in a row — not a single share.\nThen, the one time I half-heartedly tapped some boring name nobody wanted, I won.\nDay one of trading: it broke below the offer price.\nTurns out my luck isn't bad — it's precisely calibrated to only win the ones that trap me.",
+          "editorNote": "For everyone in the IPO group chat who parks cash for every draw, wins nothing, then finally wins a dud",
+          "variations": [
+            "IPO lotteries are like scratch cards: other people scratch a honeymoon rally, I scratch the divorce papers that come after it.",
+            "The moment I won the allocation I thought I'd hit the jackpot. The moment it listed, I realized the jackpot was getting stuck."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-185",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://rich01.com/etf-fee/",
+      "sourceNote": "ETF 內扣費用（管理費/保管費每日自淨值扣除、不列在對帳單）常被新手忽略；改寫原創，區別於既有的除息/配息梗",
+      "tags": [
+        "ETF",
+        "內扣費用",
+        "被動投資",
+        "成本",
+        "理財"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我買 ETF，是因為聽說被動投資最省事、成本又低，幾乎等於免費。\n我從來沒在對帳單上看過任何一筆管理費，於是我很安心。\n直到有人提醒我『內扣費用』這四個字——原來它不寄帳單給你，是每天默默從淨值裡先扣走。\n看不到的成本，才是扣得最勤的成本。\n我以為我請了一個免費的管家，其實他每天趁我沒注意，先從我皮夾拿走一點點。",
+          "editorNote": "丟給每個以為 ETF 零成本、忽略內扣費用的被動投資新手",
+          "variations": [
+            "ETF 最厲害的地方，是它讓你完全感覺不到自己在付錢——因為它不跟你收，它直接從裡面拿。",
+            "帳單上看不到的那筆費用，不是不存在，是它聰明到不用讓你看到。"
+          ]
+        },
+        "en": {
+          "content": "I bought an ETF because passive investing is supposed to be effortless and cheap — practically free.\nI never saw a single fee on my statement, so I slept easy.\nThen someone mentioned the expense ratio: it doesn't mail you a bill, it just quietly shaves a slice off the fund's value every single day.\nThe cost you can't see is the one that gets collected most reliably.\nI thought I'd hired a free butler. Turns out he lifts a little from my wallet each day while I'm not looking.",
+          "editorNote": "For every passive-investing newbie who assumed an ETF was zero-cost and forgot about the expense ratio",
+          "variations": [
+            "The genius of an ETF fee is that you never feel yourself paying it — because they don't charge you, they just help themselves from the inside.",
+            "The fee that never shows up on your statement isn't missing. It's just clever enough not to need to."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-186",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.twse.com.tw/zh/products/capital/cash.html",
+      "sourceNote": "現金增資：套牢股東反被公司要求按比例認購新股，不認股權稀釋、認了等於加碼虧損；改寫原創",
+      "tags": [
+        "現金增資",
+        "認股",
+        "套牢",
+        "稀釋",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我這檔套牢兩年，已經夠委屈了。\n結果公司來一封通知：辦理現金增資，請股東按比例認購新股。\n翻譯成白話就是——你套牢的那間公司，現在反過來跟你討錢。\n我不認，怕股權被稀釋；我認了，等於在虧損上再加碼一次。\n原來這段關係最狠的不是它不漲，是它沒錢的時候，第一個想到的人是我。",
+          "editorNote": "給每個套牢還被公司現金增資追加投資的無奈股東",
+          "variations": [
+            "談戀愛最怕遇到伸手牌，沒想到買股票也會——套牢就算了，它還發現金增資跟我要錢。",
+            "別人的股票會配息給你，我的股票會發通知跟我要錢，這大概就是所謂的『負現金流』。"
+          ]
+        },
+        "en": {
+          "content": "I'd been stuck in this stock for two years — humiliation enough.\nThen the company sends a notice: rights issue, shareholders please subscribe to new shares pro rata.\nIn plain English: the company you're already trapped in is now asking you for money.\nSay no, and my stake gets diluted. Say yes, and I'm doubling down on a loss.\nThe cruelest part of this relationship isn't that it won't go up — it's that when it runs low on cash, the first person it thinks of is me.",
+          "editorNote": "For every underwater shareholder hit with a rights issue asking them to pony up even more",
+          "variations": [
+            "The worst kind of partner is one who's always got their hand out. Turns out stocks do it too — being stuck wasn't enough, now it wants a cash injection.",
+            "Other people's stocks pay them a dividend. Mine sends a notice asking me for money. I believe the technical term is 'negative cash flow.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -7624,6 +7624,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-266",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.518.com.tw/article/1983",
+      "sourceNote": "No-show/放鴿子 restaurant reservation trope — 2026 coverage of Taiwan's chronic no-show culture (518 職場熊報, NOM Magazine 餐廳心痛告白); no existing item covers reservations",
+      "tags": [
+        "服務業",
+        "奧客",
+        "餐飲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "六個人的位子，週六晚上最好的那桌，/我幫您留了兩個小時。/推掉三組現場客，/看著空椅子等到打烊。/您沒來，也沒一通電話。/先生，您訂走的不是位子，/是我今晚整整六個人份的生意。",
+          "editorNote": "傳給被放鴿子過的餐廳老闆跟外場。放鳥不是「反正我沒去消費」，是店家把黃金時段壓在你身上，你連一句取消都懶得說。",
+          "variations": [
+            "訂位不來又不取消，您省下的是一頓飯，我賠掉的是一整晚。",
+            "空著的那桌會自己算帳：三組被我推掉的客人，加上您那句沒說出口的『抱歉今天不去了』。"
+          ]
+        },
+        "en": {
+          "content": "A table for six, the best one, prime Saturday night —\nI held it for you for two hours.\nTurned away three walk-in groups,\nwatched the empty chairs until closing.\nYou never came. Never called.\nYou didn't just cancel a table —\nyou canceled a whole night's worth of six covers on me.",
+          "editorNote": "Send this to any restaurant owner or host who's been stood up. A no-show isn't \"I just didn't feel like going\" — it's the shop betting its prime slot on you, and you not even bothering to text a cancellation.",
+          "variations": [
+            "Skip the reservation without a word and you save one dinner; I eat a whole empty evening.",
+            "That empty table keeps its own ledger: three groups I turned away, plus the \"sorry, not coming\" you never sent."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-267",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/260518526",
+      "sourceNote": "Delivery-rider POV — Dcard 2025-12 「第一天做外送超血汗」 + rider rating culture; service-industry collection has no rider/外送 angle yet",
+      "tags": [
+        "服務業",
+        "外送",
+        "評價",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雨下得像不用錢，/我爬上沒有電梯的五樓，/敲門、等了三分鐘您才來開。/您接過餐第一句：「怎麼有點涼了？」/先生，涼的不是這份餐，/是我在您樓下淋的那十分鐘，/跟您給的那顆一星。",
+          "editorNote": "傳給風雨無阻的外送夥伴。他們的辛苦被壓縮成一顆星，而那顆星常常跟他們無關——是天氣、是電梯、是等你來開門的那三分鐘。",
+          "variations": [
+            "我準時到您樓下，是您讓那份餐等了三分鐘才涼的。",
+            "外送這行最公平的地方是給小費，最不公平的是打分數——一顆星不會問你當天下多大的雨。"
+          ]
+        },
+        "en": {
+          "content": "The rain's coming down like it's free,\nI climb five floors with no elevator,\nknock, wait three minutes for you to open.\nFirst thing you say taking the bag: \"This is kind of cold?\"\nSir, it's not the food that went cold —\nit's the ten minutes I stood in the rain downstairs,\nand the one star you just gave me.",
+          "editorNote": "For every delivery rider out in all weather. Their whole shift gets flattened into one star — and that star is usually about the weather, the elevator, or the three minutes you took to answer the door, not them.",
+          "variations": [
+            "I got to your building on time; you're the one who let it sit three minutes and go cold.",
+            "The fairest thing about this job is the tip; the cruelest is the rating — one star never asks how hard it was raining."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-268",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/255316786",
+      "sourceNote": "Working the holiday while everyone else reunites — Dcard 服務業辛酸史; no existing item covers 過年/連假 emotional core (svc-035 is scheduling for weddings)",
+      "tags": [
+        "服務業",
+        "過年",
+        "工作",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除夕夜，全世界都在吃團圓飯，/我在櫃檯，把「新年快樂」說了一百次，/收下一百個沒空回頭的背影。/我家的那桌，也留了我的位子——/只是它跟客人的桌子一樣，/都得等我打烊，才輪得到我坐下。",
+          "editorNote": "傳給連假、過年還在上班的服務業朋友。別人的團圓，是靠有人放棄自己的團圓撐起來的。你今天扛的不只是班，是別人的年味。",
+          "variations": [
+            "過年最忙的不是廚房，是把「回不了家」四個字吞下去還要笑著找錢。",
+            "全家都在守歲，我在守櫃台——同一個夜晚，兩種等待。"
+          ]
+        },
+        "en": {
+          "content": "New Year's Eve, the whole world's at the reunion dinner,\nand I'm at the counter, saying \"Happy New Year\" a hundred times,\ncollecting a hundred backs that never turn around.\nMy family saved me a seat too —\nit's just like the customers' tables:\nI don't get to sit down until we close.",
+          "editorNote": "For anyone working the holidays while everyone else is home. Other people's reunions are held up by someone giving up their own. What you're carrying today isn't just a shift — it's the holiday itself, for everybody else.",
+          "variations": [
+            "The busiest thing on New Year's isn't the kitchen — it's swallowing \"I can't go home\" and still smiling as you count out change.",
+            "The whole family's up celebrating; I'm up minding the register — same night, two kinds of waiting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-269",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/259665217",
+      "sourceNote": "Customer falsely insisting they were shortchanged — classic register 奧客 scenario; not covered (svc-180 is about coins rolling off the counter, different core)",
+      "tags": [
+        "服務業",
+        "奧客",
+        "收銀",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你少找我五百。」/「先生，您給我一千，找您三百二十。」/「我明明給你一千五。」/我打開收銀機，抽屜裡沒有一張一千五的鈔票，/監視器也沒有。/唯一有一張一千五的地方，/是您希望我沒膽對帳的那個賭注。",
+          "editorNote": "傳給被硬凹少找錢的收銀夥伴。他賭的不是那五百，是賭你會為了息事寧人自己掏。守住收銀機，就是守住一件你今天沒做錯的事。",
+          "variations": [
+            "『你少找我』這句話，通常跟『我朋友比較便宜』住在同一個查無此人的區。",
+            "少找的五百我找不到，因為它從來只存在您的說法裡，不在我的抽屜裡。"
+          ]
+        },
+        "en": {
+          "content": "\"You shorted me five hundred.\"\n\"Sir, you gave me a thousand, I gave you back three-twenty.\"\n\"No, I definitely handed you fifteen hundred.\"\nI open the register — there's no fifteen-hundred bill in the drawer,\nand none on the camera.\nThe only place a fifteen-hundred exists\nis the bet you're making that I won't dare check.",
+          "editorNote": "For every cashier strong-armed over \"wrong change.\" They're not betting on the five hundred — they're betting you'll pay it out of your own pocket to make them go away. Standing by the register is standing by the one thing you didn't get wrong today.",
+          "variations": [
+            "\"You shorted me\" usually lives in the same no-record-found zip code as \"my friend got it cheaper.\"",
+            "I can't find the missing five hundred, because it only ever existed in your version — never in my drawer."
+          ]
+        }
+      }
     }
   ]
 }

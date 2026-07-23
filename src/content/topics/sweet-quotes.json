@@ -9566,6 +9566,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "sq-342",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "Theme: cold hands / small tender act",
+      "tags": [
+        "天氣",
+        "體貼"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "天冷的時候，我最喜歡做的事，就是把你冰冰的手抓過來塞進我外套口袋裡。這不是為了浪漫，是我真的受不了你的手比外面還冷。",
+          "editorNote": "適合天冷散步時傳，或當下直接做這個動作，土但很暖",
+          "variations": [
+            "你手怎麼又這麼冷，快點借我口袋放一下。",
+            "以後你冷的時候不用忍，我的口袋隨時有位子。"
+          ]
+        },
+        "en": {
+          "content": "When it's cold out, my favorite thing to do is grab your freezing hand and stuff it into my coat pocket. It's not for romance — I just can't stand that your hands are colder than the weather.",
+          "editorNote": "Send it on a chilly walk, or just do the move — cheesy but warm",
+          "variations": [
+            "Your hands are cold again. Quick, borrow my pocket.",
+            "Next time you're cold, don't tough it out. There's always room in my pocket."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-343",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "Theme: matching pace when walking together",
+      "tags": [
+        "日常",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "跟你走在一起的時候，我發現自己會自動放慢腳步。我本來走路很快的，但不知道從什麼時候開始，只要旁邊是你，我就一點都不趕了。",
+          "editorNote": "適合牽手散步後傳，把一個小到對方沒發現的習慣講出來",
+          "variations": [
+            "我的走路速度好像被你調成剛剛好的樣子了。",
+            "反正你在旁邊，我哪都不急著到。"
+          ]
+        },
+        "en": {
+          "content": "When I walk with you, I catch myself slowing down without meaning to. I used to walk fast, but somewhere along the way, having you next to me made me stop being in a hurry.",
+          "editorNote": "For after a hand-in-hand walk — naming a habit so small they never noticed it",
+          "variations": [
+            "My walking speed somehow got reset to match yours.",
+            "With you beside me, I'm in no rush to get anywhere."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-344",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "Theme: reflexively giving the better food to partner",
+      "tags": [
+        "日常",
+        "撒嬌"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們一起吃東西的時候，我常常不知不覺就把比較好的那塊夾到你碗裡了。這不是我在讓你，是我的手比我先做了決定——它好像天生就覺得好東西該給你。",
+          "editorNote": "適合一起吃飯後傳，把日常小動作講成不受控的喜歡",
+          "variations": [
+            "好吃的先給你，這件事我沒在想的，是反射動作。",
+            "我夾菜的手好像自己認得你的碗。"
+          ]
+        },
+        "en": {
+          "content": "Whenever we eat together, I somehow end up putting the better piece in your bowl. It's not me being polite — my hands decide before I do. They just seem to think the good stuff belongs to you.",
+          "editorNote": "For after a shared meal — turning a tiny reflex into proof of how much you like them",
+          "variations": [
+            "The good bite goes to you. I don't even think about it — it's a reflex.",
+            "My chopsticks seem to know which bowl is yours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-345",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "Theme: blanket-stealing complaint as confession",
+      "tags": [
+        "同居",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老實說你睡覺超會搶棉被的，我常常半夜冷醒，發現自己只剩一個角。但很奇怪，我氣個兩秒就算了，還是會默默往你那邊靠過去。看來我寧願冷，也不想睡遠一點。",
+          "editorNote": "適合同居或過夜後隔天傳，用抱怨包裝的告白，很好笑也很甜",
+          "variations": [
+            "棉被可以輸給你，但位子我不讓。",
+            "半夜被你搶到剩一角，我還是選擇繼續睡你旁邊。"
+          ]
+        },
+        "en": {
+          "content": "Honestly, you're a champion blanket-stealer. I wake up freezing at 2am with one corner left. But weirdly, I'm only mad for about two seconds before I scoot closer to you anyway. Turns out I'd rather be cold than sleep any further away.",
+          "editorNote": "Send it the morning after a sleepover — a confession disguised as a complaint, funny and sweet",
+          "variations": [
+            "You can have the blanket. You're not getting the spot next to me, though.",
+            "Down to one corner at 2am, and I still chose to stay right next to you."
+          ]
+        }
+      }
     }
   ]
 }

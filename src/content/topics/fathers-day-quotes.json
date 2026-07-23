@@ -4642,6 +4642,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "fdq-200",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "all-you-can-eat buffet value-maximizing dad — original composition, no existing item covers 吃到飽/回本",
+      "tags": ["爸爸", "父親節", "吃到飽", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "帶我爸去吃到飽，是一場沒有終點線的軍事行動。\n他進場前先深呼吸、擬定路線，第一輪只拿最貴的，還語重心長地說：「青菜等等再吃，那個不值錢。」\n他吃的其實不是那盤生魚片，是那張帳單上『回本』兩個字的成就感。",
+          "editorNote": "父親節聚餐首選的安全笑點，帶爸爸去吃到飽前傳給他預熱，或在家族群組公審他的戰績",
+          "variations": [
+            "我爸在吃到飽的座右銘只有一句：沒吃到扶著牆進來、扶著牆出去，就是輸",
+            "別人去吃到飽是享受，我爸去是去『討公道』的"
+          ]
+        },
+        "en": {
+          "content": "Taking my dad to an all-you-can-eat buffet is a military operation with no finish line.\nHe scouts the room before sitting down, plots a route, and loads up on the priciest tray first — \"we'll do salad later, that stuff's basically free.\"\nHe's not really eating the sashimi. He's eating the word \"worth it\" printed on that receipt.",
+          "editorNote": "Perfect for a Father's Day family dinner — send it before you take Dad to a buffet, or use it to roast his eating record in the group chat",
+          "variations": [
+            "My dad's only buffet rule: if you didn't have to waddle out, you lost",
+            "Most people go to a buffet to enjoy the food. My dad goes to settle a score"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-201",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "dad forwarding health rumors/假消息 on LINE — distinct from existing morning 長輩圖 greeting items (fdq-043/080/137)",
+      "tags": ["爸爸", "父親節", "LINE", "長輩圖", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸最新的興趣，是在家族群組轉發各種「不轉會後悔」的養生文章。\n隔夜水有毒、微波爐會致癌、香蕉配優格會出人命——他一天可以轉五篇，篇篇聳動，篇篇沒有出處。\n我後來不再糾正他了，因為我發現他轉的不是文章，是一句『我還在關心你的身體』。",
+          "editorNote": "父親節傳給那個每天在群組轉養生文的老爸，笑點溫柔不打臉。也適合被長輩圖轟炸的朋友互相取暖",
+          "variations": [
+            "我爸的手機裡裝的不是新聞，是一整座沒有查證機制的謠言中央廚房",
+            "自從我爸學會『分享到家族群組』，我每天的必修課就是查證他的養生新知"
+          ]
+        },
+        "en": {
+          "content": "My dad's newest hobby is forwarding \"share this or you'll regret it\" health articles to the family group chat.\nMicrowaves cause cancer, leftover water is poison, bananas with yogurt can apparently kill you — five a day, all alarming, none with a source.\nI stopped fact-checking him a while ago, because I realized he's not forwarding an article. He's forwarding \"I'm still worrying about your health.\"",
+          "editorNote": "For the dad who floods the group chat with health scares — gentle roast, no one gets hurt. Also great for friends drowning in Dad's forwarded conspiracy posts",
+          "variations": [
+            "My dad's phone doesn't run on news. It runs on unsourced rumors from a central misinformation kitchen",
+            "Ever since my dad discovered the \"forward\" button, my daily chore is debunking his latest health tip"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-202",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "dad refuses to see doctor but nags you to go — warmth angle, distinct from fdq-083 養生 advice item",
+      "tags": ["爸爸", "父親節", "看醫生", "溫馨"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸這輩子沒主動看過幾次醫生。\n他發燒說「睡一覺就好」、腰痛說「貼個藥布撐一下」、咳一個月才被我媽押去醫院。\n但我只要輕輕咳一聲，他立刻說：「快去看醫生，不要拖。」——原來他的身體可以硬撐，但我的絕對不行。",
+          "editorNote": "父親節提醒老爸也要照顧自己的溫馨款，適合寫進卡片或那通你一直想打卻沒打的電話",
+          "variations": [
+            "我爸對自己的身體是鐵齒，對我的身體是玻璃心",
+            "他總說『我沒事』，卻記得我每一次的『有點不舒服』"
+          ]
+        },
+        "en": {
+          "content": "My dad has barely been to a doctor on purpose his whole life.\nFever? \"I'll sleep it off.\" Bad back? \"A patch will hold it.\" He coughed for a month before Mom finally dragged him in.\nBut the second I clear my throat, it's \"go see a doctor, don't wait.\" Turns out his body can tough anything out — mine absolutely can't.",
+          "editorNote": "A heartfelt Father's Day nudge for Dad to take care of himself too — good for a card, or that phone call you keep meaning to make",
+          "variations": [
+            "My dad is made of iron about his own health and glass about mine",
+            "He always says \"I'm fine,\" but he remembers every single time I said \"I don't feel great\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-203",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "dad the biological alarm clock waking everyone early on holidays — distinct from fishing 4am excuse item fdq-165",
+      "tags": ["爸爸", "父親節", "早起", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸的身體裡裝了一個關不掉的鬧鐘，設定在清晨五點半，而且沒有假日模式。\n好不容易連假想睡到中午，六點他就開始在客廳製造聲響、開燈、大聲問：「太陽都曬屁股了還睡？」\n他不是要你起床做什麼，他只是覺得——難得放假，大家都醒著，這個家才算熱鬧。",
+          "editorNote": "父親節傳給那個假日照樣把全家挖起來的老爸，笑點裡藏著他捨不得你不在的心意",
+          "variations": [
+            "我爸的鬧鐘壞了三十年，壞在永遠早響，而且叫的是全家人",
+            "別人放假是充電，我爸放假是巡房——五點半準時查勤"
+          ]
+        },
+        "en": {
+          "content": "My dad has a built-in alarm clock set to 5:30 a.m. with no holiday mode and no off switch.\nThe one long weekend I want to sleep till noon, he's up at six banging around the living room, flipping on lights, hollering \"the sun's up and you're still in bed?\"\nHe doesn't actually need you to get up for anything. He just figures a day off only counts as a real one if the whole house is awake for it.",
+          "editorNote": "For the dad who still drags the whole family out of bed on days off — the joke hides how much he just wants everyone home and around",
+          "variations": [
+            "My dad's alarm clock has been broken for thirty years — broken in that it always rings early and it wakes up the entire house",
+            "Most people recharge on their day off. My dad does room checks — 5:30 sharp, everybody accounted for"
+          ]
+        }
+      }
     }
   ]
 }

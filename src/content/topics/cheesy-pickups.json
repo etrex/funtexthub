@@ -9875,6 +9875,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-355",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "home / anywhere-you-are angle",
+      "tags": [
+        "甜",
+        "曖昧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你到家了嗎？」\n「還沒欸，怎麼了？」\n「那你慢慢走沒關係，反正只要有你在，哪裡對我來說都算家了。」",
+          "editorNote": "送對方回家、道晚安的那段路上丟出去剛剛好",
+          "variations": [
+            "沒你的地方，再舒服我也覺得不算家",
+            "我最近才發現，家不是一個地址，是有你在的那個方向"
+          ]
+        },
+        "en": {
+          "content": "\"Did you make it home yet?\"\n\"Not yet, why?\"\n\"Take your time—honestly, anywhere you are already feels like home to me.\"",
+          "editorNote": "Perfect for the walk home or the goodnight text",
+          "variations": [
+            "Home stopped being an address the day it turned into wherever you are.",
+            "No matter how comfy a place is, it doesn't count as home if you're not in it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-356",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "burger pun 飽/抱; en adapted to 'snack' slang",
+      "tags": [
+        "諧音",
+        "搞笑"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你怎麼又點漢堡了？」\n「因為別人吃漢堡是為了『飽』，我吃漢堡是為了『抱』你啊。」",
+          "editorNote": "速食店約會的神救援，諧音一出對方通常會翻白眼但嘴角上揚",
+          "variations": [
+            "我點雙層的，因為想抱你的力氣要備足一點",
+            "薯條可以分你，但這個抱字我只留給你"
+          ]
+        },
+        "en": {
+          "content": "\"Why'd you order another burger?\"\n\"Everyone else orders one to get full—I just needed an excuse to sit here and tell you you're a whole snack.\"",
+          "editorNote": "A fast-food-date rescue line; leans on 'snack' as a compliment",
+          "variations": [
+            "I went for the double—takes extra strength to handle someone this cute.",
+            "You can have my fries, but I'm keeping the last bite as a reason to see you again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-357",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "rainbow-on-smile angle, distinct from umbrella/rain items",
+      "tags": [
+        "甜",
+        "經典"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「剛剛有下雨嗎？」\n「沒有啊，怎麼了？」\n「奇怪，那你臉上怎麼會有一道彩虹——原來是你笑起來的時候。」",
+          "editorNote": "趁對方剛笑出來那一秒丟，殺傷力最強",
+          "variations": [
+            "沒下雨哪來的彩虹，八成是你笑的時候偷偷掛上去的",
+            "我以為要下過雨才有彩虹，結果你笑一下就有了"
+          ]
+        },
+        "en": {
+          "content": "\"Did it just rain?\"\n\"No? Why?\"\n\"Weird—then how does a rainbow show up on your face every single time you smile?\"",
+          "editorNote": "Drop it the second they start smiling for maximum effect",
+          "variations": [
+            "No rain, but there's a rainbow—must've snuck in when you laughed.",
+            "I thought you needed a storm first to get a rainbow. Turns out you just need to smile."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-358",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "",
+      "sourceNote": "power bank / charging angle, distinct from wifi-signal items",
+      "tags": [
+        "搞笑",
+        "曖昧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是不是行動電源？」\n「蛤？為什麼這樣問？」\n「因為我一靠近你，就覺得自己瞬間充飽電，一整天都不會累。」",
+          "editorNote": "忙了一天終於見到面時用，帶點撒嬌",
+          "variations": [
+            "別人充電要插線，我只要看到你就滿格了",
+            "難怪我最近都不用充電，原來電力來源是你"
+          ]
+        },
+        "en": {
+          "content": "\"Are you a power bank?\"\n\"Uh, why?\"\n\"Because the second I get near you I hit a hundred percent and stay charged all day.\"",
+          "editorNote": "Use it when you finally meet up after a long day—a little clingy in a good way",
+          "variations": [
+            "Everyone else needs a cable to charge. I just need to see you.",
+            "No wonder I haven't plugged in lately—turns out you're my power source."
+          ]
+        }
+      }
     }
   ]
 }

@@ -3071,6 +3071,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-103",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://opinion.udn.com/opinion/story/7492/1970001",
+      "sourceNote": "大一原文書看不懂 每個單字都查得到卻讀不懂整段 共感改寫",
+      "tags": [
+        "原文書",
+        "大學生",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "原文書我每個單字都查得出來，\n但整句連起來，我還是不知道它到底想告訴我什麼。",
+          "editorNote": "翻開厚厚一本原文課本、每個字都認識卻看不懂整段時發文，讀原文書讀到懷疑人生的同學都懂。",
+          "variations": [
+            "也能換成：「原文書最貴的不是價錢，是我為了看懂它花掉的青春。」",
+            "進階版：「我不是英文不好，我是連中文翻譯版都需要再翻譯一次。」"
+          ]
+        },
+        "en": {
+          "content": "I can look up every single word in the textbook,\nbut string the sentence together and I still have no idea what it's trying to tell me.",
+          "editorNote": "Post it when you crack open a thick English-language textbook and know every word yet understand nothing — anyone reading course texts in a second language gets it.",
+          "variations": [
+            "Swap in: \"The most expensive thing about this textbook isn't the price, it's the youth I spent trying to understand it.\"",
+            "Harder mode: \"It's not that my English is bad, it's that even the translated version needs translating.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-104",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.online-test.com.tw/toeic-news/19",
+      "sourceNote": "英文畢業門檻 英檢差幾分不能畢業 共感改寫",
+      "tags": [
+        "畢業門檻",
+        "英檢",
+        "大學生",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我以為大學最難的是專業科目，\n畢業前才發現，真正擋住我的是那張永遠差幾分的英檢成績單。",
+          "editorNote": "被英文畢業門檻卡住、重考英檢好幾次時發文，差幾分不能畢業的同學最有感。",
+          "variations": [
+            "也能換成：「我的畢業證書，現在被一張多益成績單扣在門外。」",
+            "進階版：「四年專業學得再好，最後決定我能不能畢業的，是一場跟本科無關的英文考試。」"
+          ]
+        },
+        "en": {
+          "content": "I thought the hardest part of college would be my major courses;\nright before graduation I realized the real thing blocking me is that English test score I keep missing by a few points.",
+          "editorNote": "Post it when the English graduation requirement traps you and you're retaking the test for the third time — anyone a few points short of graduating feels this.",
+          "variations": [
+            "Swap in: \"My diploma is currently being held hostage outside the door by one language test score.\"",
+            "Harder mode: \"Four years of mastering my major, and whether I graduate comes down to an English exam that has nothing to do with it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-105",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://thunderdungeon.com/2025/03/15/funny-tumblr-student-posts/",
+      "sourceNote": "課表中間空堂本想讀書結果耍廢 共感改寫",
+      "tags": [
+        "空堂",
+        "課表",
+        "拖延",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "課表中間空了三小時，我一開始的計畫是去圖書館讀書，\n實際上我在便利商店的座位區，把這三小時活成了一場小型午睡。",
+          "editorNote": "課跟課之間卡了尷尬的空堂、本想讀書結果耍廢時發文，課表被拆得零零落落的同學都懂。",
+          "variations": [
+            "也能換成：「空堂三小時，讀書零分鐘，發呆滿分。」",
+            "進階版：「別人的空堂拿來預習，我的空堂拿來研究學餐哪一攤還沒吃過。」"
+          ]
+        },
+        "en": {
+          "content": "There's a three-hour gap between my two classes today.\nThe plan was to study at the library; in reality I turned it into a mini-nap in the seating area of a convenience store.",
+          "editorNote": "Post it when an awkward gap between classes meant for studying turns into slacking off — anyone with a schedule chopped full of holes gets it.",
+          "variations": [
+            "Swap in: \"Three-hour gap, zero minutes of studying, full marks for spacing out.\"",
+            "Harder mode: \"Other people use their free period to prep; I use mine to research which dining-hall stall I haven't tried yet.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-106",
+      "dateAdded": "2026-07-23",
+      "sourceUrl": "https://www.boredpanda.com/funny-student-memes-thatstudentpage/",
+      "sourceNote": "'dark circles that never go away once you get them in college' 熬夜黑眼圈變常駐梗改寫",
+      "tags": [
+        "黑眼圈",
+        "熬夜",
+        "大學生",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上大學之前我還會被說看起來很有精神，\n現在同學看到我的第一句話是：你這黑眼圈，是天生的還是這學期練出來的？",
+          "editorNote": "熬夜熬到氣色崩壞、黑眼圈變常駐時發文，臉上寫滿疲憊的大學生都懂。",
+          "variations": [
+            "也能換成：「我的黑眼圈已經深到，可以直接當我的第二個學位。」",
+            "進階版：「大學沒教會我什麼專業，倒是把我從一個少年，練成一個需要遮瑕膏的人。」"
+          ]
+        },
+        "en": {
+          "content": "Before college, people used to say I looked bright-eyed;\nnow the first thing classmates say when they see me is: those dark circles — were you born with them, or did this semester earn them for you?",
+          "editorNote": "Post it when late nights have wrecked your complexion and the eye bags became permanent — every worn-down student gets it.",
+          "variations": [
+            "Swap in: \"My dark circles are so deep by now they basically count as my second degree.\"",
+            "Harder mode: \"College didn't teach me a profession, but it did turn me from a fresh-faced kid into someone who needs concealer.\""
+          ]
+        }
+      }
     }
   ]
 }
