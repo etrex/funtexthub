@@ -6580,7 +6580,7 @@
       "sourceUrl": "https://programmerhumor.io/memes/copilot",
       "sourceNote": "AI copilot suggesting the same bug you created — reframed",
       "tags": [
-        "AI 工具",
+        "AI工具",
         "debug",
         "工程師日常"
       ],
@@ -6686,35 +6686,6 @@
           "variations": [
             "It's not an error, it's a hidden easter egg that's not in the spec yet.",
             "What the customer calls a bug, I call an 'undocumented advanced feature.'"
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-231",
-      "dateAdded": "2026-06-15",
-      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
-      "sourceNote": "two hard things: naming and off-by-one errors — classic reframed",
-      "tags": [
-        "命名",
-        "工程師思維",
-        "工程師語錄"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "程式設計裡只有兩件最難的事：\n第一是快取失效，第二是幫東西取名字，第三是 off-by-one 的差一錯誤。",
-          "editorNote": "適合貼在命名卡關、變數叫 data2、data3 的崩潰時刻。",
-          "variations": [
-            "我為了一個變數名字想了二十分鐘，最後還是叫它 temp。",
-            "別人問我函式為什麼叫 doStuff()，我說因為它真的就是 do stuff。"
-          ]
-        },
-        "en": {
-          "content": "There are only two hard things in programming:\ncache invalidation, naming things, and off-by-one errors.",
-          "editorNote": "Perfect for that moment when you're stuck naming things and your variables are data2, data3, data_final.",
-          "variations": [
-            "I spent twenty minutes on a variable name and still called it temp.",
-            "Someone asked why my function is named doStuff() — because it literally does stuff."
           ]
         }
       }
