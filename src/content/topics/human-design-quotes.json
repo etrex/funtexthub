@@ -3913,6 +3913,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "hd-133",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://humandesignasia.org/faq/",
+      "sourceNote": "Chart calculation FAQ — Human Design is computed to the minute; 5-10 minutes can shift gates or even the type; daylight saving and differing time databases cause mismatched charts; noon as a placeholder when the birth time is unknown",
+      "tags": [
+        "排盤",
+        "出生時間",
+        "新手",
+        "迷思",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次排人類圖，最大的關卡不是看不懂，是「我不知道我幾點出生的」。\n\n人類圖是算到「分鐘」的。差個五到十分鐘，閘門可能換一個，運氣不好連類型都會換一種——你昨天還是投射者，今天變生產者。\n\n所以：先去問媽媽，問不到就去戶政事務所調出生證明。真的查不到，暫時用中午十二點當基準，但心裡要知道那是「參考值」不是「答案」，別急著拿它重新解釋你整個人生。\n\n順帶一提，兩個網站排出來的圖不一樣，通常不是網站壞掉，是夏令時間或時區資料庫算法不同。",
+          "editorNote": "傳給第一次想排圖、卻卡在「不知道出生時間」的朋友，順便幫他省下對著錯的圖懷疑人生的三個月。",
+          "variations": [
+            "人類圖算到分鐘。差十分鐘可能換一個類型——所以在你把圖當人生說明書之前，先確認你的出生時間是真的。",
+            "「為什麼我在兩個網站排出來的人類圖不一樣？」通常不是網站的錯，是夏令時間跟時區資料在吵架。"
+          ]
+        },
+        "en": {
+          "content": "The hardest part of pulling your first Human Design chart isn't reading it — it's realizing you have no idea what time you were born.\n\nHuman Design is calculated to the minute. A five-to-ten-minute difference can swap a gate, and on a bad day it swaps your whole type. Yesterday you were a Projector; today you're a Generator.\n\nSo: ask your mom first. If she doesn't know, request your birth record. If it's truly unfindable, use noon as a placeholder — but file it under 'rough estimate,' not 'answer,' and don't rebuild your entire self-image on it just yet.\n\nAlso: if two sites give you two different charts, the sites usually aren't broken. Daylight saving and time-zone databases are just arguing.",
+          "editorNote": "Send to the friend who wants to pull their chart but got stuck at 'I don't know my birth time' — and save them three months of second-guessing the wrong chart.",
+          "variations": [
+            "Human Design runs to the minute. Ten minutes can change your type — so confirm your birth time before you treat the chart as your instruction manual.",
+            "'Why do two websites give me two different charts?' It's usually not the website. It's daylight saving fighting with the time-zone database."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-134",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.theoricode.com/zh-TW/blog/chatgpt-human-design-prompt-guide",
+      "sourceNote": "Why AI chatbots can't compute a Human Design chart — the chart needs ephemeris data plus the 88-degree solar arc design calculation; language models hallucinate plausible-looking charts; use a proper chart calculator first, then let AI help explain",
+      "tags": [
+        "AI",
+        "排盤",
+        "迷思",
+        "新手",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "叫 AI 直接幫你「算」人類圖，它會很有自信地生給你一張圖，然後那張圖有一半是編的。\n\n因為排盤要查天文星曆，還要往回推出生前那個「太陽走了 88 度」的時間點再算一次。這是天文計算，不是語言接龍。AI 擅長把話講得很順，不擅長查表。\n\n正確用法：圖用正規排盤工具算，算完再把類型、權威、能量中心貼給 AI，請它用人話解釋、幫你想怎麼應用在下週的會議上。\n\n工具負責準，AI 負責讓你聽得懂。順序反了就變算命現場。",
+          "editorNote": "傳給那個興沖沖說「我叫 AI 幫我算人類圖」的朋友，救他一命（跟他的自我認知）。",
+          "variations": [
+            "AI 不會算人類圖，但很會編人類圖。先用排盤工具算好，再交給它翻譯成人話。",
+            "排盤是天文計算，不是語言接龍。AI 講得順不代表算得準。"
+          ]
+        },
+        "en": {
+          "content": "Ask an AI chatbot to calculate your Human Design chart and it will hand you one with total confidence — and half of it will be invented.\n\nCharting requires real ephemeris data, plus a second calculation for the moment before birth when the sun had traveled 88 degrees back. That's astronomy, not autocomplete. AI is great at sounding fluent and bad at looking things up.\n\nThe right workflow: run the chart on an actual calculator, then paste your type, authority, and defined centers into the AI and ask it to explain them in plain language and help you apply them to next week's meetings.\n\nThe tool handles accuracy. The AI handles clarity. Flip the order and you've just built yourself a very articulate horoscope.",
+          "editorNote": "Send to the friend who excitedly announced they had an AI 'do their Human Design' — you'll be saving both them and their self-image.",
+          "variations": [
+            "AI can't calculate your Human Design chart, but it can absolutely invent one. Chart first, AI second.",
+            "Charting is astronomy, not autocomplete. Sounding fluent isn't the same as being right."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-135",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.geneticmatrix.com/learn-hub/incarnation-cross/index.html",
+      "sourceNote": "Incarnation cross geometry — Right Angle (personal, self-contained journey), Left Angle (transpersonal, unfolds through other people), Juxtaposition (fixed, specific theme that bridges both); 64 sun gates x 3 geometries = 192 crosses",
+      "tags": [
+        "輪迴交叉",
+        "Incarnation Cross",
+        "右角度",
+        "左角度",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同樣講「人生功課」，人類圖還分成三種走法。\n\n右角度：你的劇本是自己的。功課要靠自己撞、自己想通，別人幫不上忙，也不用等誰來給答案。\n\n左角度：你的劇本要有人才演得下去。機會、轉折、貴人幾乎都是「透過別人」來的，所以躲起來苦修對你沒用，出去跟人碰撞才會開。\n\n交替（拱心）：你的主題很固定、很專一，像被鎖在一條軌道上。別人給的建議大多不適用，你只要一直做你那件事就好。\n\n所以下次朋友說「你就多出去認識人啊」——先問問他，你們是不是同一種角度。",
+          "editorNote": "傳給那個一直被叫去「多社交」卻越社交越空的朋友，也許他只是右角度而已。",
+          "variations": [
+            "右角度靠自己開，左角度靠別人開，拱心靠專一開。三種都對，只是別拿別人的走法逼自己。",
+            "「多出去認識人」不是萬用建議。有人真的是靠人開路，有人真的得自己走完。"
+          ]
+        },
+        "en": {
+          "content": "Human Design doesn't just give you a life theme — it gives you the geometry you travel it on. There are three.\n\nRight Angle: your story is your own. You work it out by bumping into things yourself. Nobody can hand you the answer, and you don't need to wait for one.\n\nLeft Angle: your story needs a cast. Opportunities, turning points, and the people who change everything mostly arrive through other people. Hiding away to figure it out alone doesn't work for you — contact does.\n\nJuxtaposition: your theme is fixed and weirdly specific, like being locked onto one track. Most advice won't apply. You just keep doing your one thing.\n\nSo next time someone says 'you just need to get out and meet more people' — check whether you two are even on the same geometry.",
+          "editorNote": "Send to the friend who keeps being told to 'network more' and keeps coming home emptier. They might simply be a Right Angle.",
+          "variations": [
+            "Right Angle opens through you. Left Angle opens through others. Juxtaposition opens through staying in your lane. None of them is the wrong one.",
+            "'Go meet more people' is not universal advice. Some people genuinely need the crowd; some genuinely need to walk it alone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-136",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "",
+      "sourceNote": "Seasonal — summer travel planning by the five types; Generator responds to options rather than generating them, MG rewrites the itinerary mid-trip, Projector needs downtime built in, Manifestor must inform before disappearing, Reflector is shaped by the place itself",
+      "tags": [
+        "五型",
+        "旅行",
+        "暑假",
+        "生活應用",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天出遊，五種類型的真實樣貌：\n\n生產者：你叫他規劃行程他會空白，你丟三個選項給他他兩秒就選好。他不是懶，是要有東西可以「回應」。\n\n顯示生產者：行程表做得超完整，出發第一天就整份重寫。而且改完的版本通常比較好玩。\n\n投射者：一天排三個景點就是他的極限。硬排六個，他第四個就開始在心裡計算怎麼回飯店。行程裡留空白不是浪費，是讓他還活著。\n\n顯示者：他會突然說「我去走走」然後消失兩小時。他不是不合群，只是忘了先講。（先講一句，全團都會輕鬆很多。）\n\n反映者：他的旅行心得完全取決於那個地方。同一趟行程，換一間民宿，他的感想可以差到像去了兩個國家。",
+          "editorNote": "丟進暑假出遊的揪團群組，大家會開始對號入座，然後行程就會變好安排了。",
+          "variations": [
+            "揪旅行的黃金公式：讓顯示生產者排行程，讓生產者從選項裡挑，幫投射者留午睡時間，請顯示者出門前講一聲，然後住的地方要選反映者喜歡的。",
+            "投射者的旅行極限是一天三個景點。第四個開始，他心裡只剩「什麼時候回飯店」。"
+          ]
+        },
+        "en": {
+          "content": "Summer trip, five types, zero exaggeration:\n\nGenerator: ask them to plan the itinerary and their mind goes blank. Give them three options and they pick in two seconds. Not lazy — they just need something to respond to.\n\nManifesting Generator: builds a flawless day-by-day plan, then rewrites the whole thing on day one. The rewrite is usually more fun.\n\nProjector: three stops a day is the ceiling. Schedule six and by stop four they're quietly calculating the fastest route back to the hotel. Empty space in the plan isn't wasted — it's life support.\n\nManifestor: announces 'going for a walk' and vanishes for two hours. Not antisocial, just forgot to mention it. (One sentence up front and the whole group relaxes.)\n\nReflector: their entire review of the trip depends on the place. Same itinerary, different guesthouse, and they'll describe it like two different countries.",
+          "editorNote": "Drop it in the group chat while everyone's planning the summer trip — people start claiming their type, and suddenly the itinerary plans itself.",
+          "variations": [
+            "The perfect trip formula: let the MG build the plan, let the Generator pick from options, leave nap gaps for the Projector, ask the Manifestor to say something before disappearing, and book the place the Reflector likes.",
+            "A Projector's travel limit is three stops a day. From stop four on, the only thought left is 'when can we go back to the hotel.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-137",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "",
+      "sourceNote": "Origin of the system — Human Design as a synthesis of the I Ching's 64 hexagrams, astrology, the Kabbalah Tree of Life and the chakra system, framed as a self-reflection lens rather than a deterministic verdict",
+      "tags": [
+        "易經",
+        "起源",
+        "自我覺察",
+        "迷思",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖為什麼看起來這麼複雜？因為它本來就是一鍋大雜燴。\n\n64 個閘門對應易經的 64 卦；行星位置來自占星；那張圖的排版骨架接近卡巴拉生命樹；九個能量中心則是脈輪系統擴編來的。四套古老系統疊在一起，難怪新手第一眼像在看電路圖。\n\n所以最健康的用法是：把它當成一面鏡子，不是一張判決書。看到「投射者要等邀請」，不是叫你在家躺平等命運敲門，是提醒你——你上次硬推的那件事，是不是真的推得很痛苦。\n\n對你有用的部分留下，對不上的部分放掉。這樣才不會從「認識自己」變成「幫自己貼標籤」。",
+          "editorNote": "適合放在整份人類圖語錄的結尾，或傳給那個開始用「我是投射者」解釋所有事情的朋友。",
+          "variations": [
+            "人類圖是易經、占星、卡巴拉、脈輪四合一的產物。它是一面鏡子，不是判決書。",
+            "看人類圖的健康標準：對你有用的留下，對不上的放掉。從「認識自己」變成「幫自己貼標籤」就走鐘了。"
+          ]
+        },
+        "en": {
+          "content": "Why does a Human Design chart look so complicated? Because it's a mashup by design.\n\nThe 64 gates map onto the 64 hexagrams of the I Ching. The planetary positions come from astrology. The chart's structural skeleton echoes the Kabbalah Tree of Life. The nine centers are an expansion of the chakra system. Four old systems stacked into one diagram — no wonder your first look feels like reading a circuit board.\n\nWhich is why the healthiest way to use it is as a mirror, not a verdict. 'Projectors wait for the invitation' isn't telling you to lie on the couch until destiny knocks. It's asking you: that thing you forced last month — did it actually hurt to push?\n\nKeep the parts that are useful. Drop the parts that don't land. That's the line between knowing yourself and just labeling yourself.",
+          "editorNote": "Good as a closer for the whole collection, or for the friend who's started explaining every single life event with 'well, I'm a Projector.'",
+          "variations": [
+            "Human Design is the I Ching, astrology, Kabbalah, and the chakra system in a blender. Treat it as a mirror, not a verdict.",
+            "The healthy way to read your chart: keep what's useful, drop what doesn't land. The moment it becomes a label instead of a lens, you've lost the plot."
+          ]
+        }
+      }
     }
   ]
 }

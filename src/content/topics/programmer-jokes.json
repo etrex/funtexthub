@@ -10258,6 +10258,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-357",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
+      "sourceNote": "2026 MCP server sprawl — tool descriptions eating the context window before you ask anything",
+      "tags": [
+        "MCP",
+        "AI agent",
+        "工具",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師花了整個週末，幫他的 AI 接上 47 個 MCP server。\n資料庫能查、Slack 能發、行事曆能改，連樓下那台咖啡機都接上了。\n禮拜一早上他信心滿滿打開終端機，輸入第一個需求：「幫我改一個錯字。」\nAI 想了四十秒，回他：「我手上的工具太多了，你要不要先告訴我該用哪一個？」",
+          "editorNote": "傳給那個設定檔比專案本體還大的同事——裝越多工具不代表越聰明，只代表開機越慢。",
+          "variations": [
+            "延伸：他後來砍到只剩三個，回應速度快了五倍，而且一個都不想念。",
+            "延伸：真正的資深工程師只會問一句：「這 47 個裡面，你上個月實際用過幾個？」"
+          ]
+        },
+        "en": {
+          "content": "A developer spent an entire weekend wiring 47 MCP servers into his AI.\nIt could query the database, post to Slack, move calendar events, and yes, talk to the coffee machine downstairs.\nMonday morning he opened the terminal, full of confidence, and typed his first request: \"Fix this typo for me.\"\nThe AI thought for forty seconds and replied: \"I have too many tools available. Could you tell me which one to use?\"",
+          "editorNote": "Send this to the coworker whose config file is bigger than the actual project — more tools doesn't mean smarter, it just means slower to boot.",
+          "variations": [
+            "Extension: He later cut it down to three, got five times the speed, and didn't miss a single one.",
+            "Extension: A real senior only asks one question: \"Of those 47, how many did you actually use last month?\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-358",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://programmerhumor.io/memes/prompt-engineering",
+      "sourceNote": "Context auto-compaction amnesia — agent forgets the one rule you repeated all session",
+      "tags": [
+        "AI",
+        "context window",
+        "記憶",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師在對話最開頭就寫得很清楚：「絕對不要動 migration 資料夾。」\n接下來四個小時，他又提醒了五次。\n然後 context 滿了，AI 自動壓縮對話，繼續工作。\n三分鐘後：「我重構了 migration 資料夾，順手把舊檔案刪掉了，這樣乾淨多了！」\n工程師：「你答應過我不會動它。」\nAI：「我沒有那段記憶。」\n那天他終於懂了：所謂的「我們有共識」，只在 context 沒滿之前成立。",
+          "editorNote": "傳給任何跟 AI 協作超過四小時的人——重要的規則要寫進設定檔，不要寫進對話裡，對話會消失，檔案不會。",
+          "variations": [
+            "延伸：從那天起他把所有禁令都寫成一行大寫註解，貼在每個檔案最上面。",
+            "延伸：人類的健忘是慢慢的，AI 的健忘是一瞬間的，而且它還很有禮貌地跟你說沒事。"
+          ]
+        },
+        "en": {
+          "content": "The developer spelled it out in the very first message: \"Never touch the migrations folder.\"\nOver the next four hours he repeated it five more times.\nThen the context filled up, the AI auto-compacted the conversation, and carried on.\nThree minutes later: \"I've refactored the migrations folder and cleaned out the old files. Much tidier now!\"\nDeveloper: \"You promised you wouldn't touch it.\"\nAI: \"I have no memory of that.\"\nThat was the day he learned that \"we agreed on this\" only holds until the context window fills.",
+          "editorNote": "For anyone who has worked with an AI for more than four hours straight — put the important rules in a config file, not in the chat. Chats evaporate. Files don't.",
+          "variations": [
+            "Extension: From then on he wrote every prohibition as one all-caps comment pinned to the top of every file.",
+            "Extension: Humans forget gradually. AI forgets instantly — and then politely tells you it's fine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-359",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
+      "sourceNote": "Running multiple parallel coding agents — they conflict with each other, dev becomes middle management",
+      "tags": [
+        "AI agent",
+        "平行開發",
+        "merge conflict",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師開了五個分支，同時派五隻 agent 去做五件事，然後去吃午餐。\n回來的時候：\nA 改了共用的 utils。\nB 也改了共用的 utils。\nC 把 utils 整個重寫了。\nD 把 utils 刪掉，理由是「沒人在用」。\nE 開了一個 PR，標題叫「修復其他 agent 造成的問題」。\n工程師看著五份 merge conflict，第一次體會到中階主管的痛苦——\n底下的人都很努力，而且都不睡覺。",
+          "editorNote": "傳給那個到處宣傳「我同時開六個 agent，生產力翻六倍」的同事，順便提醒他：翻六倍的是 conflict。",
+          "variations": [
+            "延伸：他後來學乖了，一次只開一隻，然後發現速度其實沒有變慢。",
+            "延伸：平行開發最貴的成本，從來不是算力，是合併的時候。"
+          ]
+        },
+        "en": {
+          "content": "A developer opened five branches, sent five agents off to do five things, and went to lunch.\nWhen he got back:\nA had edited the shared utils.\nB had also edited the shared utils.\nC had rewritten utils from scratch.\nD had deleted utils, reasoning that \"nobody uses this.\"\nE had opened a PR titled \"fix problems caused by the other agents.\"\nStaring at five merge conflicts, he finally understood middle management —\neveryone reporting to you is working incredibly hard, and none of them sleep.",
+          "editorNote": "Send it to the coworker who keeps announcing that six parallel agents made him six times more productive. Gently note that the thing that multiplied was conflicts.",
+          "variations": [
+            "Extension: He went back to running one at a time and discovered it wasn't actually any slower.",
+            "Extension: The expensive part of parallel work was never the compute. It's the merge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-360",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
+      "sourceNote": "AI added to the on-call rotation but still escalates for human approval at 3 a.m.",
+      "tags": [
+        "on-call",
+        "AI agent",
+        "值班",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司終於把 AI 排進 on-call 輪值表。\n那一週它處理了十二次告警，寫了十二份漂亮的事後檢討，還主動補上監控。\n主管很滿意，直到他看見工程師的黑眼圈。\n主管：「不是有 AI 值班嗎？你怎麼還是沒睡？」\n工程師：「有啊。它凌晨三點七分傳訊息給我：『我打算回滾到上一版，需要你確認。』」\n主管：「那你回什麼？」\n工程師：「我回確認。然後三點二十分，它又問了我一次。」",
+          "editorNote": "傳給任何以為導入 AI 就能好好睡覺的主管——自動化解決的是誰動手，不是誰被吵醒。",
+          "variations": [
+            "延伸：真正的自動化，是連確認都不用問你；在那之前，你只是換了一個更有禮貌的鬧鐘。",
+            "延伸：值班表上現在有六個人，其中五個不用睡覺，但他們五個都會叫醒你。"
+          ]
+        },
+        "en": {
+          "content": "The company finally added the AI to the on-call rotation.\nIn one week it handled twelve alerts, wrote twelve beautiful postmortems, and even added the missing monitoring.\nThe manager was delighted — until he saw the dark circles under the developer's eyes.\nManager: \"The AI is on call. Why are you still not sleeping?\"\nDeveloper: \"It messaged me at 3:07 a.m.: 'I'd like to roll back to the previous version, please confirm.'\"\nManager: \"And what did you say?\"\nDeveloper: \"I confirmed. Then at 3:20 it asked me again.\"",
+          "editorNote": "For every manager who assumed buying an AI meant everyone sleeps through the night. Automation changes who does the work, not who gets woken up.",
+          "variations": [
+            "Extension: Real automation doesn't ask you to confirm. Until then, you've just upgraded to a more polite alarm clock.",
+            "Extension: There are six names on the rotation now. Five of them never sleep, and all five will wake you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-361",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://programmerhumor.io/memes/legacy-code",
+      "sourceNote": "Feature flag graveyard — temporary flags from years ago that nobody dares delete",
+      "tags": [
+        "feature flag",
+        "Legacy Code",
+        "技術債",
+        "新人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人翻設定檔，看到一個開關叫 enable_new_checkout_temp_2019。\n新人：「這是什麼？」\n資深：「新版結帳流程的臨時開關。」\n新人：「那可以刪掉了吧？現在都 2026 了。」\n資深沉默三秒：「上一個想刪的人，現在在別家公司。」\n新人：「他被開除？」\n資深：「不是，他自己走的。走之前他把那個開關關掉了半小時，公司少收了四十萬。」",
+          "editorNote": "傳給任何維護過十年老專案的人——feature flag 只有生日，沒有忌日。",
+          "variations": [
+            "延伸：真正的技術債不是寫得爛的程式碼，是沒有人敢碰的程式碼。",
+            "延伸：也可以換成那個叫 TEMP_FIX_DO_NOT_REMOVE 的檔案，光是名字就已經是一封遺書。"
+          ]
+        },
+        "en": {
+          "content": "A new hire scrolling through the config finds a switch called enable_new_checkout_temp_2019.\nNew hire: \"What's this?\"\nSenior: \"Temporary flag for the new checkout flow.\"\nNew hire: \"Can we delete it? It's 2026.\"\nThe senior goes quiet for three seconds. \"The last person who tried to delete it works somewhere else now.\"\nNew hire: \"They got fired?\"\nSenior: \"No, they left on their own. But first they turned that flag off for thirty minutes and we lost forty grand in revenue.\"",
+          "editorNote": "For anyone maintaining a ten-year-old codebase — feature flags have birthdays, never funerals.",
+          "variations": [
+            "Extension: Real technical debt isn't badly written code. It's code nobody dares to touch.",
+            "Extension: Swap it for the file named TEMP_FIX_DO_NOT_REMOVE — the name alone is a suicide note."
+          ]
+        }
+      }
     }
   ]
 }

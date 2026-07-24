@@ -5739,6 +5739,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-193",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://knit.yam.com/Blog/87-summer-electricity-price-june-rules-air-conditioner-bill-2026",
+      "sourceNote": "夏月電價與冷氣使用討論；冷氣本質是把室內熱能排到室外，都市密集住宅互相排熱；改寫原創",
+      "tags": [
+        "室外機",
+        "熱島",
+        "冷氣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "冷氣其實不會製造涼，它只是把屋裡的熱，搬到屋外去。\n昨晚我站在巷子裡等外送，聽見整排室外機轟轟作響，每一台都在往外吐熱風。\n所以我的涼，是鄰居的熱；鄰居的涼，是我的熱。\n我們一起花錢，把同一團熱推來推去，最後推出一條比誰家客廳都還要燙的巷子。",
+          "editorNote": "傳給那個窗戶正對別人家室外機、整個夏天一開窗就等於開暖氣的朋友",
+          "variations": [
+            "冷氣的工作內容不是降溫，是搬家——把你房間的熱，搬到你鄰居的窗戶下面。",
+            "整條巷子的室外機一起轉的時候，我們不是在對抗夏天，我們是在集資把夏天加熱。"
+          ]
+        },
+        "en": {
+          "content": "AC doesn't actually make cold. It just moves the heat from inside your place to outside.\nLast night I stood in the alley waiting for a delivery and heard every condenser on the block roaring, all of them exhaling hot air outward.\nSo my cool is my neighbor's heat, and my neighbor's cool is mine.\nWe're all paying money to shove the same heat back and forth, until the alley ends up hotter than any living room on it.",
+          "editorNote": "For the friend whose window faces someone else's condenser unit, where opening it all summer is basically running a heater",
+          "variations": [
+            "An AC's job description isn't cooling. It's moving — relocating your heat to a spot under your neighbor's window.",
+            "When every condenser on the street runs at once, we aren't fighting summer. We're crowdfunding it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-194",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "2026 夏月電價 6/1-9/30、住宅平均每月電費增加約 446 元；延伸到繳費與分期情境；改寫原創",
+      "tags": [
+        "台電",
+        "帳單",
+        "繳費",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我打去台電，很客氣地問：「請問這期電費，可以分期嗎？」\n客服也很客氣，一步一步跟我說明可以怎麼辦。\n掛掉電話我才發現，我真正想分期的其實不是那筆錢——\n是六月一號到今天，我每天伸手按下遙控器的那幾百個瞬間。\n可惜那個沒得分期，它一次就跟我結清了。",
+          "editorNote": "傳給那個看到帳單金額後，第一個念頭是打去問「可不可以慢慢還」的夏日戰友",
+          "variations": [
+            "電費可以分期，後悔不行——後悔是一次付清，而且不接受刷卡。",
+            "我不是繳不出這筆錢，我只是希望有人願意讓我，把整個六月分成十二期慢慢還。"
+          ]
+        },
+        "en": {
+          "content": "I called the power company and politely asked, 'Can I pay this bill in installments?'\nThe rep was just as polite and walked me through exactly how.\nOnly after hanging up did I realize the thing I actually wanted to pay off slowly wasn't the money.\nIt was the few hundred moments since June first when I reached over and hit the remote.\nThose don't come in installments. They settled up with me all at once.",
+          "editorNote": "For the summer comrade whose first instinct on seeing the total is to ask whether they can pay it off slowly",
+          "variations": [
+            "The bill can be split into installments. The regret can't — that one is due in full, cash only.",
+            "It's not that I can't cover it. I just wish someone would let me pay off the entire month of June over twelve months."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-195",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://tw.news.yahoo.com/%E4%BD%8F%E5%AE%85%E5%A4%8F%E6%9C%88%E9%9B%BB%E5%83%B96%E6%9C%881%E6%97%A5%E4%B8%8A%E8%B7%AF-%E6%AF%8F%E6%88%B6%E5%B9%B3%E5%9D%87%E9%9B%BB%E8%B2%BB%E5%A2%9E446%E5%85%83-%E6%BB%BF%E8%B6%B31%E6%A2%9D%E4%BB%B6%E5%87%8D%E6%BC%B2-120132279.html",
+      "sourceNote": "夏月電價上路後民眾各種迴避開冷氣行為；延伸為車內冷氣情境；改寫原創",
+      "tags": [
+        "停車場",
+        "省電迷思",
+        "冷氣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班開回大樓地下室，我沒有馬上上樓。\n我坐在車裡，冷氣開到最強，音樂放著，多待了十五分鐘。\n理由很單純：這台冷氣，不算在我家那顆電表裡。\n直到油表默默跳了一格，我才想通——\n我沒有省到錢，我只是把電費換成了油費，然後多付了一份，在停車場裡一個人吹冷氣的孤獨。",
+          "editorNote": "傳給那個到家了卻不想上樓、寧願在車上多坐十分鐘的通勤族",
+          "variations": [
+            "在車上吹冷氣不會出現在電費帳單上，它會出現在加油站，而且更貴。",
+            "所謂省電，就是把同一筆錢，換一個比較不痛的名字繳出去。"
+          ]
+        },
+        "en": {
+          "content": "I got back to the building's underground garage after work and didn't go straight up.\nI sat in the car with the AC on max and the music going, for a solid fifteen extra minutes.\nThe logic was simple: this AC doesn't run through my apartment's meter.\nThen the fuel gauge ticked down a notch and it clicked —\nI didn't save anything. I just converted the electric bill into a gas bill, plus a surcharge for sitting alone in a parking garage.",
+          "editorNote": "For the commuter who gets home and still doesn't want to go upstairs yet",
+          "variations": [
+            "Running the car AC never shows up on the power bill. It shows up at the gas station, and it costs more.",
+            "Saving electricity mostly means paying the same money again under a name that hurts less."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-196",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "2026 夏季電費上路後網路討論熱度；延伸為朋友群組互貼帳單情境；改寫原創",
+      "tags": [
+        "帳單",
+        "群組",
+        "比較",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友群組這幾天多了一個固定節目：貼帳單截圖。\n兩千一。兩千八。三千四。\n有人貼出四千二的時候，群組安靜了三秒，然後所有人開始安慰他。\n那一刻我才發現，我們不是在比誰最慘，\n我們是在確認——原來這麼痛的不只我一個。而那個第一名，是我們今年夏天共同的英雄。",
+          "editorNote": "貼進那個開始互相曬電費金額的朋友群組，順便替目前最高分的那位默哀",
+          "variations": [
+            "夏天的朋友群組沒有炫富，只有炫慘，而且大家都很真誠地在鼓掌。",
+            "看到別人的帳單比我高的那一秒，我的痛沒有減少，但我的孤單有。"
+          ]
+        },
+        "en": {
+          "content": "My group chat has a new recurring segment this week: posting screenshots of the bill.\nSeventy bucks. Ninety. A hundred and ten.\nWhen someone dropped a hundred and forty, the chat went quiet for three seconds, then everybody started comforting him.\nThat's when it hit me — we aren't competing over who has it worst.\nWe're confirming that it hurts this much for other people too. And whoever's in first place is our shared hero for the summer.",
+          "editorNote": "Drop into the group chat that's started swapping bill totals, and pour one out for the current record holder",
+          "variations": [
+            "Summer group chats don't flex wealth. They flex damage, and everyone claps sincerely.",
+            "The second I see a bill higher than mine, the pain doesn't shrink. The loneliness does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-197",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://tw.news.yahoo.com/%E5%A4%8F%E6%9C%88%E9%9B%BB%E5%83%B961%E4%B8%8A%E8%B7%AF%EF%BC%81%E5%A4%8F%E6%9C%88%E9%9B%BB%E5%83%B9%E5%88%B0%E5%B9%BE%E6%9C%88%EF%BC%9F%E6%AF%8F%E5%BA%A6%E9%9B%BB%E5%A2%9E%E5%8A%A0%E5%A4%9A%E5%B0%91%E9%8C%A2%EF%BC%9F%E6%99%9A%E4%B8%8A%E7%94%A8%E9%9B%BB%E6%AF%94%E8%BC%83%E4%BE%BF%E5%AE%9C%EF%BC%9F%E7%AF%80%E9%9B%BB%E9%82%84%E8%83%BD%E6%8B%BF%E7%8D%8E%E5%8B%B5%E9%87%91%EF%BC%9F-061701656.html",
+      "sourceNote": "夏月電價 6/1 上路、住宅兩月一期抄表，首張帳單僅部分落在夏月；七月下旬起才是完整夏月帳單；改寫原創",
+      "tags": [
+        "夏月電價",
+        "帳單",
+        "抄表",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上一期帳單其實只吃到夏月電價的一半，我還天真地說：「欸，也還好嘛。」\n這一期不一樣，整整兩個月，一天都沒漏，全部照夏月的價錢收。\n我這才懂——上一張根本不是帳單，是預告片。\n而預告片的功能，就是讓你以為自己看得起這部電影。",
+          "editorNote": "七月下旬拆開第一張完整夏月帳單時傳出去，給所有以為上個月就是極限的人",
+          "variations": [
+            "上一張帳單是試閱版，這一張才是完整版，而且沒有退訂選項。",
+            "我以為六月那張已經是谷底，結果它只是入口，門票還特價。"
+          ]
+        },
+        "en": {
+          "content": "The last bill only caught about half of the summer rate period, and I naively said, 'Eh, that's not so bad.'\nThis one is different. Two full months, not a single day missed, every unit charged at summer pricing.\nThat's when I got it — the last one wasn't a bill. It was a trailer.\nAnd the whole point of a trailer is to make you think you can afford the movie.",
+          "editorNote": "Send this in late July, when the first fully-summer bill lands on everyone who thought last month was the worst of it",
+          "variations": [
+            "The last bill was the free preview. This one is the full version, and there's no cancel button.",
+            "I thought June's bill was rock bottom. Turns out it was the entrance, and the ticket was discounted."
+          ]
+        }
+      }
     }
   ]
 }

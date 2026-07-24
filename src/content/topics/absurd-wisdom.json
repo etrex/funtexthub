@@ -9357,6 +9357,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-359",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://vocus.cc/article/69a80ad2fd8978000169dbf2",
+      "sourceNote": "廢話文學嚴謹敘述法，原創颱風假主題（2026 米克拉颱風季）",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風假到底放不放，其實判斷方式很明確：\n有宣布停班停課，就是放；\n沒有宣布，就是照常上班。\n\n所以你今天之所以還坐在辦公室，\n最主要的原因是你們縣市沒有出現在那份名單上。",
+          "editorNote": "颱風逼近、全公司狂重整停班停課公告時，丟進公司群組",
+          "variations": [
+            "有放颱風假的縣市會放假，沒放的縣市則不會。",
+            "颱風假最難預測的地方，在於它公布之前沒有人知道。"
+          ]
+        },
+        "en": {
+          "content": "Whether you get a typhoon day comes down to one clear rule:\nif they announce the closure, you're off;\nif they don't, you're working.\n\nSo the main reason you're still at your desk today\nis that your city wasn't on the list.",
+          "editorNote": "For the office chat where everyone is refreshing the closure announcements",
+          "variations": [
+            "Cities that call off work get the day off. Cities that don't, don't.",
+            "The hardest part about a typhoon day is that nobody knows until it's announced."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-360",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://vocus.cc/article/69a80ad2fd8978000169dbf2",
+      "sourceNote": "廢話文學重覆敘述法，原創夏夜蚊子主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "睡眠"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天晚上睡不好的原因，經過長期觀察，\n通常是因為有蚊子。\n\n被咬到的地方會癢，沒被咬到的地方不會癢，\n所以你半夜抓的位置，就是牠去過的位置。\n\n至於牠現在在哪，牠不會告訴你。",
+          "editorNote": "半夜開燈找蚊子找不到時，傳給同樣在打仗的朋友",
+          "variations": [
+            "你聽得到牠的時候，牠通常不在你打得到的地方。",
+            "打不到蚊子的主要原因，是牠咬完就飛走了。"
+          ]
+        },
+        "en": {
+          "content": "After extensive research, the reason you sleep badly in summer\nis usually that there is a mosquito.\n\nThe spots it bit you itch. The spots it didn't bite you don't.\nSo wherever you're scratching at 3am is exactly where it's been.\n\nWhere it is right now, it isn't saying.",
+          "editorNote": "For the moment you flip the light on at 3am and it has completely vanished",
+          "variations": [
+            "You can hear it when it's nowhere near your hand, and not hear it when it is.",
+            "The main reason you can't swat it is that it leaves right after biting you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-361",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "廢話文學嚴謹敘述法，原創防曬與曬痕主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "身體"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "防曬乳的效果其實非常誠實：\n擦到的地方不會黑，沒擦到的地方會黑。\n\n所以夏天結束的時候，\n你身上那條界線會清楚地告訴大家，\n當初你的手伸到哪裡就停了。",
+          "editorNote": "海邊玩回來發現曬痕超明顯時，傳給一起去的朋友",
+          "variations": [
+            "曬痕就是你當初擦防曬的施工紀錄。",
+            "穿著背心去曬太陽的人，回來通常會多一件永遠脫不掉的背心。"
+          ]
+        },
+        "en": {
+          "content": "Sunscreen is brutally honest about its results:\nthe parts you covered don't tan, the parts you missed do.\n\nSo by the end of summer, the line across your shoulder\ntells everyone exactly how far your hand reached\nbefore you decided that was probably enough.",
+          "editorNote": "For the group chat after a beach day, once the tan lines show up",
+          "variations": [
+            "A tan line is just a permanent record of where you stopped applying.",
+            "Wear a tank top in the sun long enough and you'll own one you can never take off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-362",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "廢話文學嚴謹敘述法，原創追垃圾車主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "垃圾車的運作邏輯其實很單純：\n它來的時候你在，你就丟得到；\n它來的時候你不在，你就丟不到。\n\n這禮拜垃圾堆到滿出來的人，\n多半是那幾天剛好都不在。",
+          "editorNote": "追垃圾車追到一半、聽著音樂越來越遠時，傳給同一棟的鄰居",
+          "variations": [
+            "垃圾車不會等你，主要是因為它要走了。",
+            "聽得到音樂，不代表追得到車。"
+          ]
+        },
+        "en": {
+          "content": "The garbage truck runs on a very simple principle:\nif you're there when it comes, your trash goes;\nif you're not there, it stays.\n\nAnyone whose bin is overflowing this week\nwas mostly just somewhere else at the time.",
+          "editorNote": "For the neighbor who also heard the truck's jingle fading into the distance",
+          "variations": [
+            "The truck doesn't wait for you, mainly because it's leaving.",
+            "Hearing the music is not the same as catching the truck."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-363",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.qjeye0874.com/juzi/19686.html",
+      "sourceNote": "廢話文學重覆敘述法，原創挑西瓜主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "飲食"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "挑西瓜的方法眾說紛紜，但結果只有兩種：\n切開是紅的，就是甜的那種；\n切開不夠紅，就是不夠甜的那種。\n\n在切開之前，你手上拿的是一顆還沒切開的西瓜。",
+          "editorNote": "夏天買西瓜準備開獎前，傳給正在敲西瓜的家人",
+          "variations": [
+            "拍起來聲音很好聽的西瓜，代表它拍起來聲音很好聽。",
+            "西瓜甜不甜要切開才知道，因為沒切開就是不知道。"
+          ]
+        },
+        "en": {
+          "content": "Everyone has a trick for picking a watermelon, but there are only two outcomes:\nyou cut it open and it's red and sweet,\nor you cut it open and it isn't.\n\nUntil then, what you're holding is an unopened watermelon.",
+          "editorNote": "For the family member thumping every melon at the market in peak summer",
+          "variations": [
+            "A melon that sounds great when you knock it is a melon that sounds great when you knock it.",
+            "You can only find out how sweet it is by cutting it, because before that you can't."
+          ]
+        }
+      }
     }
   ]
 }

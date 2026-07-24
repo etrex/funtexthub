@@ -7744,6 +7744,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-270",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.ettoday.net/news/20260709/3198213.htm",
+      "sourceNote": "2026-07 颱風期間全市百貨僅一家開館、員工被要求出勤引發論戰的新聞討論；檔案內原本沒有颱風／天災出勤題材",
+      "tags": [
+        "服務業",
+        "颱風",
+        "工作",
+        "厭世",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "風大到招牌在叫，\n捷運停駛，路樹倒了一整排，\n我還是穿上制服來開櫃。\n因為今天全市只有我們有開。\n您走進來說：「難得放假，出來走走。」\n先生，您的颱風假，\n是拿我的颱風班換來的。",
+          "editorNote": "傳給颱風天還被要求出勤的百貨、門市夥伴。你不是「順便來上班」，你是別人休假日的電梯、冷氣和收銀機。記得：業績再好看，也沒有你平安到家重要。",
+          "variations": [
+            "「今天有開嗎？」有，因為有人冒著風雨替您開。",
+            "全市停業那天最忙的不是氣象局，是唯一沒停業的那家店的樓面。"
+          ]
+        },
+        "en": {
+          "content": "The wind is loud enough to make the signage scream,\nthe trains are stopped, a whole row of street trees is down,\nand I still put on the uniform and open the counter.\nBecause today we're the only place in the city that's open.\nYou walk in and say, \"Rare day off — figured we'd get out of the house.\"\nSir, your typhoon day off\nwas paid for with my typhoon shift.",
+          "editorNote": "For everyone made to work through a storm so a store can stay open. You're not \"just clocking in\" — you're the elevator, the AC, and the register of somebody else's day off. No sales figure is worth more than you getting home safe.",
+          "variations": [
+            "\"Are you open today?\" We are — because somebody rode out the storm to open us.",
+            "On the day the whole city closes, the busiest people aren't at the weather bureau. They're on the floor of the one store that didn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-271",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.ettoday.net/news/20260707/3196690.htm",
+      "sourceNote": "2026-07 報導：天熱手搖飲外送訂單較去年同期成長逾四成、午間為下訂高峰；改寫為飲料店員視角。既有冰塊／甜度題材（svc-002、svc-148、svc-242、svc-251）都是客人矛盾要求，本則核心是尖峰爆單，不重複",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "厭世",
+        "工作",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "外面三十九度，\n店裡的封口機比我還燙。\n外送單一張接一張吐出來，\n像一條用收據做的瀑布。\n客人在門口探頭：「怎麼那麼慢？」\n因為在您前面，\n還有四十七杯跟您一樣渴的人。",
+          "editorNote": "傳給夏天被外送單淹沒的飲料店夥伴。單子噴出來的速度不是你決定的，但每一杯都是你親手搖的——慢的不是你，是這個夏天。",
+          "variations": [
+            "夏天的手搖店沒有尖峰，只有一條從中午拉到打烊的直線。",
+            "您在等一杯飲料，我在等那台出單機閉嘴三十秒。"
+          ]
+        },
+        "en": {
+          "content": "It's a hundred and two outside,\nand the sealing machine is running hotter than I am.\nDelivery tickets keep spitting out, one after another,\na waterfall made of receipt paper.\nA customer leans in the door: \"What's taking so long?\"\nBecause ahead of you\nthere are forty-seven other people exactly this thirsty.",
+          "editorNote": "For every boba shop crew buried under summer delivery orders. You don't control how fast the tickets print, but every single cup gets shaken by your hands. It's not you that's slow — it's the summer.",
+          "variations": [
+            "There's no rush hour at a drink shop in July, just one flat line from noon to close.",
+            "You're waiting on one drink. I'm waiting for that printer to shut up for thirty seconds."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-272",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231907450",
+      "sourceNote": "暑假「一杯坐整天」佔位客題材，取自服務業討論串；檔案內「座位／內用久坐」尚無題材（svc-041 是被彈手指叫人，核心不同）",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "客人",
+        "厭世",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一杯最小杯的冰美式，\n從開店坐到打烊，\n筆電、延長線、還外加一句「可以請他們小聲一點嗎」。\n先生，這裡是店，不是您家的書房。\n我不介意您吹冷氣，\n我介意的是您把我當成\n這杯咖啡附贈的靜音功能。",
+          "editorNote": "傳給暑假被長期佔位搞到翻桌率歸零的咖啡店、速食店夥伴。座位是店家實實在在的成本，不是無限暢飲的公共財；願意讓人坐是好意，不是義務。",
+          "variations": [
+            "冰美式的續杯上限是零，冷氣不是。",
+            "我們很歡迎您坐，只是那張椅子今天也有它自己的業績要跑。"
+          ]
+        },
+        "en": {
+          "content": "One small iced americano,\nparked from open to close —\nlaptop, power strip, plus \"could you ask them to keep it down?\"\nSir, this is a shop, not the study in your house.\nI don't mind you enjoying the AC.\nI mind that you've decided I'm\nthe mute button that came free with the coffee.",
+          "editorNote": "For cafe and fast-food crews whose summer table turnover has flatlined. Seats are a real cost the shop pays, not a public utility with free refills. Letting you stay is a kindness, not an obligation.",
+          "variations": [
+            "The refill limit on an iced americano is zero. The AC's isn't.",
+            "You're welcome to sit — it's just that the chair has sales targets today too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-273",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/234860482",
+      "sourceNote": "暑期工讀生被客訴、資深同事出面擋下的暖心角度；svc-085 是新人被罵的笑話，本則核心是資深者的保護與傳承，不重複",
+      "tags": [
+        "服務業",
+        "互助",
+        "溫暖",
+        "心聲",
+        "工作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "暑假來的工讀生被客人指著鼻子罵，\n我把她拉到我身後，\n說：「這位先生，這一班我負責。」\n她小聲說學姐對不起。\n傻瓜，你沒有做錯。\n我擋在你前面，\n不是因為我比較厲害，\n是因為當年沒有人擋在我前面。",
+          "editorNote": "傳給願意替新人擋一句話的資深夥伴。服務業真正的傳承不是教人怎麼結帳，是教人「被罵不等於做錯」。你擋下的那一句，很可能就留住了一個人。",
+          "variations": [
+            "帶新人最重要的一課不是 SOP，是「客人罵你的時候，我會在」。",
+            "我沒辦法讓你不被罵，但我可以讓你不是一個人被罵。"
+          ]
+        },
+        "en": {
+          "content": "A customer is jabbing a finger at our summer part-timer,\nso I pull her behind me and say,\n\"Sir, this shift is mine. Talk to me.\"\nAfterward she whispers that she's sorry.\nSweetheart, you did nothing wrong.\nI stepped in front of you\nnot because I'm tougher,\nbut because nobody stepped in front of me.",
+          "editorNote": "For every veteran who takes the hit for a new kid. What actually gets passed down in this industry isn't how to work a register — it's that being yelled at is not the same as being wrong. The line you absorb might be the reason they stay.",
+          "variations": [
+            "The most important thing you teach a new hire isn't the SOP. It's \"when they yell at you, I'll be there.\"",
+            "I can't keep you from getting yelled at, but I can keep you from getting yelled at alone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-274",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.youtube.com/watch?v=L742OYg0QcA",
+      "sourceNote": "夏季跳電／系統當機仍須營業的門市情境，取自服務業第一線壓力報導；檔案內尚無停電、設備故障題材",
+      "tags": [
+        "服務業",
+        "厭世",
+        "客人",
+        "工作",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三十八度的下午，冷氣跳電，\n收銀機黑掉，只能拿紙筆記帳，\n我一邊流汗一邊道歉。\n客人說：「你們也太不專業。」\n先生，如果專業的定義包含發電，\n那我下班先去應徵台電。\n我做得到的，是在沒有冷氣的店裡，\n還把您的找零算對。",
+          "editorNote": "傳給遇過跳電、系統當機還得硬撐營業的門市夥伴。設備壞掉不是你的錯，但收場的永遠是你——留一點力氣給自己，別連停電都跟人道歉。",
+          "variations": [
+            "停電的時候，全店最先恢復運作的永遠是店員的嘴，不是電。",
+            "系統當機我可以手寫，冷氣停了我可以流汗，但請別把電力公司的帳算到我頭上。"
+          ]
+        },
+        "en": {
+          "content": "A hundred degrees out, and the AC trips the breaker.\nThe register goes dark, so we're on pen and paper,\nand I'm apologizing while sweating through my shirt.\nThe customer says, \"Wow, so unprofessional.\"\nSir, if professionalism includes generating electricity,\nI'll go apply at the power company after my shift.\nWhat I can do is get your change right\nin a store with no air conditioning.",
+          "editorNote": "For anyone who's kept a store running through an outage or a system crash. Broken equipment isn't your fault, but you're always the one who cleans it up — save a little energy for yourself, and don't apologize for the power grid.",
+          "variations": [
+            "During a blackout, the first thing in the store to come back online is always the clerk's mouth, never the power.",
+            "I'll handwrite receipts when the system dies and sweat through the heat when the AC quits — just don't put the utility company's bill on my tab."
+          ]
+        }
+      }
     }
   ]
 }

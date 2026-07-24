@@ -7229,6 +7229,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-247",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://move.tmm.tw/news-fee-detail",
+      "sourceNote": "2026 moving-company pricing structure and on-the-day surcharge disputes; rewritten original",
+      "tags": [
+        "搬家",
+        "費用",
+        "荒謬",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電話報價八千，搬家當天變成一萬四：\n樓層費、距離費、大型家電費，還有一項叫「師傅辛苦費」。\n我看著我的床墊已經在車上，\n才懂搬家最貴的不是東西，是我當場沒有第二個選擇。",
+          "editorNote": "傳給那個搬家當天被現場追加費用、東西都上車了只能點頭的租屋族，順便提醒他下次至少問三家、要求到府估價",
+          "variations": [
+            "搬家公司的報價單是活的，它會隨著我的家當上車一起長大。",
+            "東西一上車，議價權就下車了。"
+          ]
+        },
+        "en": {
+          "content": "Quoted eight grand over the phone; on moving day it's fourteen:\nstair fee, distance fee, big-appliance fee, and one line item just called \"crew effort.\"\nI looked at my mattress, already on the truck,\nand understood: the priciest part of moving isn't the stuff, it's having no second option right then.",
+          "editorNote": "For the renter who got hit with surprise add-ons after the truck was already loaded; nudge them to get three quotes and an on-site estimate next time",
+          "variations": [
+            "A mover's quote is a living thing — it grows as your stuff goes on the truck.",
+            "The moment your things get on the truck, your bargaining power gets off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-248",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.cchp.com/Topic/Details/130620",
+      "sourceNote": "summer peak moving/leasing season, multiple viewers per showing; rewritten original",
+      "tags": [
+        "找房",
+        "看房",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "七月找房才知道什麼叫旺季：\n貼文十分鐘滿約，看房要排時段，房東一次約五組人同一時間到。\n我站在客廳裡跟四個陌生人互相打量，\n才發現這不是看房，是海選——而且評審是那個全程沒講幾句話的房東。",
+          "editorNote": "傳給暑假搬家旺季擠在同一場帶看、被房東當面比較的找房人，安慰他被刷掉不是他的問題",
+          "variations": [
+            "暑假的房子不是租來的，是搶來的。",
+            "我不是去看房，我是去參加一場不會公布結果的面試。"
+          ]
+        },
+        "en": {
+          "content": "Look for a place in July and you learn what peak season means:\nlistings fill in ten minutes, viewings run on time slots, and the landlord books five parties for the same hour.\nStanding in the living room sizing up four strangers,\nI realized this isn't a viewing — it's an audition, judged by a landlord who barely says a word.",
+          "editorNote": "For the house-hunter crammed into a group showing during peak summer moving season and compared to strangers on the spot",
+          "variations": [
+            "In summer you don't rent an apartment, you win one.",
+            "I didn't go see a place, I went to an interview with no results announcement."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-249",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E8%B3%83%E5%A5%91%E7%B4%84-%E6%96%B0%E5%88%B6/",
+      "sourceNote": "summer vs non-summer electricity tariff rules for landlords; rewritten original",
+      "tags": [
+        "電費",
+        "房東",
+        "夏天",
+        "荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "六月一號，房東說台電夏月電價漲了，所以每度加一塊。\n十月一號，台電回到非夏月，\n房東的夏天卻沒有結束。\n原來他家只有兩個季節：漲價，跟還沒漲回去。",
+          "editorNote": "傳給那個夏天被加電費、入秋卻沒被調回來的租屋族，順便提醒他契約規定房東收的電費不能超過電費單當期每度平均電價",
+          "variations": [
+            "房東的夏天從六月開始，然後就再也沒有結束。",
+            "台電分夏月非夏月，我房東只分「這個月」跟「下個月」。"
+          ]
+        },
+        "en": {
+          "content": "June 1st: the landlord says the summer power tariff kicked in, so it's an extra buck per unit.\nOctober 1st: the utility goes back to off-peak rates,\nbut my landlord's summer never ends.\nTurns out his year has exactly two seasons — the raise, and not-lowered-back-yet.",
+          "editorNote": "For the renter whose power rate went up in June and mysteriously never came back down in the fall; remind them the lease rules cap what a landlord may charge per unit",
+          "variations": [
+            "My landlord's summer starts in June and simply never ends.",
+            "The power company has summer and off-summer; my landlord only has this month and next month."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-250",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.dcard.tw/f/house",
+      "sourceNote": "no scooter parking included with rental unit, daily hunt and tickets; rewritten original",
+      "tags": [
+        "租屋",
+        "機車",
+        "日常",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說：「機車隨便停，巷子很空。」\n第一週，我在方圓三百公尺繞了二十分鐘；\n第二週，我開始收紅單；\n第三週，我把找車位的時間直接算進通勤。\n房租一萬二，車位零元，時間無限。",
+          "editorNote": "傳給那個每天回到家還要先繞三圈找機車位的租屋族，提醒他簽約前務必問清楚停車怎麼算",
+          "variations": [
+            "我的房租不含車位，但含每天二十分鐘的耐心。",
+            "房東說免費的意思是：不用錢，用命。"
+          ]
+        },
+        "en": {
+          "content": "The landlord said, \"Park the scooter anywhere, the alley's wide open.\"\nWeek one: twenty minutes circling a three-block radius.\nWeek two: my first ticket.\nWeek three: I started counting the parking hunt as part of my commute.\nRent, twelve grand. Parking, free. Time, unlimited.",
+          "editorNote": "For the renter who has to lap the block three times every night before they can actually go inside; tell them to pin down parking before signing",
+          "variations": [
+            "My rent doesn't include a parking spot, but it does include twenty minutes of daily patience.",
+            "When a landlord says free, he means you pay in something other than money."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-251",
+      "dateAdded": "2026-07-24",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260627001539-260410",
+      "sourceNote": "summer move-out season cash-flow crunch: new deposit due before old one returns; rewritten original",
+      "tags": [
+        "押金",
+        "搬家",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "搬家最難的不是打包，是現金流：\n新房東要兩個月押金加首月房租，舊房東說押金等他驗完屋再說。\n那兩個星期，我的錢同時待在兩個人手上，\n只有我，站在中間兩手空空地搬箱子。",
+          "editorNote": "傳給暑假換房、同時被兩份押金卡住的租屋族，提醒他退租前先跟舊房東約好驗屋時間，別讓押金無限期擱著",
+          "variations": [
+            "搬一次家，等於無息借給房東三個月房租。",
+            "我不是沒錢，我的錢只是都住在別人家。"
+          ]
+        },
+        "en": {
+          "content": "The hard part of moving isn't packing, it's cash flow:\nthe new landlord wants two months' deposit plus first month's rent, the old one says the deposit comes after he inspects.\nFor two weeks my money lives with two different people,\nand I'm the one in the middle, carrying boxes with empty hands.",
+          "editorNote": "For the renter changing places over the summer with two deposits in limbo; remind them to lock in a move-out inspection date so the old deposit doesn't drift",
+          "variations": [
+            "Every move is an interest-free loan of three months' rent to a landlord.",
+            "I'm not broke — my money just lives at someone else's place."
+          ]
+        }
+      }
     }
   ]
 }
