@@ -10379,6 +10379,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-362",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://programmerhumor.io/memes/encoding",
+      "sourceNote": "Character encoding / mojibake hell — UTF-8 vs legacy encodings, 亂碼 classic pain",
+      "tags": [
+        "編碼",
+        "亂碼",
+        "除錯",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客戶回報：「你們系統把我名字顯示成一串問號跟方塊。」\n工程師：「喔那是編碼問題，我改一下。」\n改完，客戶：「現在變成一堆看不懂的符號了。」\n工程師：「……那也是編碼問題。」\n客戶：「那到底哪個才對？」\n工程師盯著螢幕，輕聲說：「這世界上沒有對的編碼，只有還沒壞的編碼。」",
+          "editorNote": "傳給任何處理過中文亂碼、Big5 轉 UTF-8 轉到懷疑人生的人，一秒喚起 PTSD。",
+          "variations": [
+            "延伸：資深工程師的判斷法——看到『?』是編碼掉了，看到『æ¿Â』是編碼被救回來又掉了一次。",
+            "延伸：也可以換成 Excel 打開 CSV，中文全變成火星文，而檔案本身其實好好的。"
+          ]
+        },
+        "en": {
+          "content": "Customer: \"Your system shows my name as a bunch of question marks and boxes.\"\nDeveloper: \"Oh, that's an encoding issue. One sec.\"\nAfter the fix, the customer: \"Now it's a bunch of symbols nobody can read.\"\nDeveloper: \"...that's also an encoding issue.\"\nCustomer: \"So which one is correct?\"\nThe developer stares at the screen and says quietly: \"There is no correct encoding. There's only the encoding that hasn't broken yet.\"",
+          "editorNote": "Send to anyone who has fought mojibake or migrated a legacy database to UTF-8 and lost a weekend to it.",
+          "variations": [
+            "Extension: A senior can date the bug by the garbage — plain '?' means it broke once, 'Ã¦Â¿Â' means it was rescued and re-broke.",
+            "Extension: Swap it for opening a CSV in Excel and watching every accented name turn into hieroglyphics while the file itself is perfectly fine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-363",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://programmerhumor.io/memes/safari-cross-browser",
+      "sourceNote": "Cross-browser pain — works in Chrome, breaks in Safari; Safari as the new IE",
+      "tags": [
+        "前端",
+        "跨瀏覽器",
+        "Safari",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試工程師：「這功能在 Chrome 上完全正常。」\n主管：「太好了，可以上線了。」\n測試工程師：「……但在 Safari 上整個版面塌掉。」\n主管：「那就叫用戶不要用 Safari。」\n測試工程師：「那是 iPhone 的預設瀏覽器，全公司一半的用戶都在上面。」\n主管沉默三秒：「……那就叫用戶不要用 iPhone。」",
+          "editorNote": "傳給每個做過前端、被 Safari 折磨到想砸 Mac 的人。Safari 就是這個時代的 IE6。",
+          "variations": [
+            "延伸：前端工程師的三個階段——第一階段在 Chrome 開發，第二階段在 Safari 崩潰，第三階段在 Stack Overflow 上找到一個 2019 年的答案說『這是 Safari 的已知問題，不會修』。",
+            "延伸：也可以換成『在我電腦上好好的』，主管：『那就把你的電腦寄給每個用戶。』"
+          ]
+        },
+        "en": {
+          "content": "QA: \"The feature works perfectly in Chrome.\"\nManager: \"Great, ship it.\"\nQA: \"...but in Safari the entire layout collapses.\"\nManager: \"Then tell users not to use Safari.\"\nQA: \"It's the default browser on iPhone. Half our users are on it.\"\nThe manager goes quiet for three seconds. \"...then tell users not to use iPhones.\"",
+          "editorNote": "For every front-end dev who has cursed Safari into the ground. It's the IE6 of our generation.",
+          "variations": [
+            "Extension: The three stages of front-end grief — build it in Chrome, watch it die in Safari, then find a 2019 Stack Overflow answer saying 'known Safari issue, won't fix.'",
+            "Extension: Swap it for 'works on my machine' — Manager: 'Then mail your machine to every user.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-364",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://programmerhumor.io/memes/test-coverage",
+      "sourceNote": "100% test coverage but still breaks in prod — coverage vs correctness",
+      "tags": [
+        "測試",
+        "測試覆蓋",
+        "上線",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師驕傲地說：「我的測試覆蓋率是 100%，每一行程式碼都測到了。」\n主管：「太完美了，那昨天上線為什麼還是爆掉？」\n工程師：「因為爆掉的那個情況，我沒想到要寫測試。」\n主管：「你不是說每一行都測到了？」\n工程師：「每一行都跑過了，但沒有一行是對的。」",
+          "editorNote": "傳給每個把覆蓋率當免死金牌的團隊——測到不等於測對，跑過不等於跑對。",
+          "variations": [
+            "延伸：100% 覆蓋率的意思是，你確定每一行 bug 都至少被執行過一次。",
+            "延伸：也可以加一句主管的回應：『所以我們現在有一份完整的證據，證明它會穩定地壞。』"
+          ]
+        },
+        "en": {
+          "content": "Developer, proudly: \"My test coverage is 100%. Every single line is tested.\"\nManager: \"Perfect. So why did yesterday's release still blow up?\"\nDeveloper: \"Because the case that blew up — I didn't think to write a test for it.\"\nManager: \"You just said every line was tested.\"\nDeveloper: \"Every line ran. None of them ran correctly.\"",
+          "editorNote": "For every team that treats coverage like a bulletproof vest. Covered isn't correct, and executed isn't right.",
+          "variations": [
+            "Extension: 100% coverage means you've confirmed every line of your bugs runs at least once.",
+            "Extension: Add the manager's reply — 'So now we have complete proof that it fails reliably.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-365",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://programmerhumor.io/memes/timezone-hell",
+      "sourceNote": "Timezone / DST hell — 'just store everything in UTC' never as simple as promised",
+      "tags": [
+        "時區",
+        "夏令時",
+        "血淚",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人：「時區有什麼難的？全部存 UTC 不就好了？」\n資深工程師疲憊地笑了：「一開始我們也是這樣想的。」\n新人：「那後來呢？」\n資深工程師：「後來遇到夏令時間、閏秒、有個國家把時區調了 45 分鐘、還有一個用戶搭飛機跨日期線的時候按下了送出。」\n新人：「那現在怎麼辦？」\n資深工程師望向窗外：「現在我們有一個叫『時間』的資料夾，裡面沒有人敢進去。」",
+          "editorNote": "傳給任何處理過跨時區排程、被夏令時間坑過的後端工程師，那個資料夾大家都有。",
+          "variations": [
+            "延伸：關於時間的程式，每一行看起來都很簡單，直到你發現這世界上有 195 個國家，跟大約 300 種對時間的堅持。",
+            "延伸：也可以換成新人問『日期格式有什麼難的』，然後鏡頭切到那個支援 12 種格式還是有客戶抱怨的系統。"
+          ]
+        },
+        "en": {
+          "content": "New hire: \"How hard can timezones be? Just store everything in UTC.\"\nThe senior dev laughs, exhausted. \"That's what we thought at first, too.\"\nNew hire: \"And then?\"\nSenior: \"And then came daylight saving, leap seconds, a country that shifted its clocks by 45 minutes, and one user who hit submit mid-flight while crossing the date line.\"\nNew hire: \"So what do you do now?\"\nThe senior stares out the window. \"Now we have a folder called 'time' that nobody dares to open.\"",
+          "editorNote": "For every backend dev who has been burned by scheduling across timezones. Everyone has that folder.",
+          "variations": [
+            "Extension: Every line of time-handling code looks simple, right up until you remember there are 195 countries and roughly 300 opinions about what a clock means.",
+            "Extension: Swap it for a new hire asking 'how hard can date formatting be' — then cut to the system that supports twelve formats and still gets complaints."
+          ]
+        }
+      }
     }
   ]
 }

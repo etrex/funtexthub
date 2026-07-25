@@ -6990,6 +6990,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-254",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://skypost.hk/article/3379134/",
+      "sourceNote": "喪寵後被迫回歸日常、悲傷被輕視 frame，原創改寫",
+      "tags": [
+        "撫慰",
+        "悲傷被輕視",
+        "職場",
+        "繼續生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "喪假只有一天，可是你的世界又不是只塌一天。隔天照樣要進辦公室、開會、對客戶笑。沒人知道你午休是躲在樓梯間哭完、補個妝再上樓的。這種痛不會因為沒人看見，就比較輕。",
+          "editorNote": "給喪寵後被迫回歸日常、卻覺得沒人懂的人；也適合轉給主管，提醒體諒正在難過的同事",
+          "variations": [
+            "你不是玻璃心，是真的失去了一個家人。世界沒有為你停一秒，不代表你不能為牠停很久。"
+          ]
+        },
+        "en": {
+          "content": "You get one day of bereavement leave, but your world didn't collapse for just one day. Next morning you're back at your desk, in meetings, smiling at clients. Nobody knows you spent your lunch break crying in the stairwell and fixing your face before heading back up. This pain isn't any lighter just because no one sees it.",
+          "editorNote": "For people forced back to normal life after a loss and feeling unseen; also a nudge for managers to go easy on a grieving coworker",
+          "variations": [
+            "You're not being dramatic. You lost family. The world didn't pause for a second — that doesn't mean you can't pause for a long while."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-255",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://healthforall.com.tw/?action=article_in&id=5292",
+      "sourceNote": "臨終畫面反覆回放的罪惡感 frame，原創，反轉為「牠看的是你的臉」",
+      "tags": [
+        "撫慰",
+        "最後",
+        "罪惡感",
+        "善終"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你一直放不下最後那一刻，反覆想自己是不是做錯了什麼。可是你知道嗎——牠到最後看的不是那些儀器、不是陌生的房間，是你的臉。牠這輩子最信任的一雙眼睛就在旁邊，牠一點都不怕。你給牠的不是慌亂，是安心。",
+          "editorNote": "給反覆回放毛孩臨終畫面、卡在罪惡感裡的人；讀完能鬆一口氣",
+          "variations": [
+            "牠不知道那是最後一次，牠只知道你在。對牠來說，有你在的地方，就沒有可怕的事。"
+          ]
+        },
+        "en": {
+          "content": "You keep replaying that final moment, turning it over, wondering if you got something wrong. But here's the thing — at the very end, they weren't looking at the machines or the strange room. They were looking at your face. The eyes they trusted most in the whole world were right there, and they weren't afraid at all. What you gave them wasn't panic. It was peace.",
+          "editorNote": "For people stuck replaying their pet's last moments in guilt; meant to let them finally exhale",
+          "variations": [
+            "They didn't know it was the last time. They only knew you were there. And anywhere you were, nothing was ever scary."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-256",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://vocus.cc/article/64816167fd89780001e97bf4",
+      "sourceNote": "人寵壽命不對等的愧疚與感激 frame，原創（一個章節 vs 一輩子）",
+      "tags": [
+        "撫慰",
+        "愛",
+        "陪伴",
+        "感謝"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我會活幾十年，你只陪了其中一小段。可是對你來說，我就是你的一輩子——從睜開眼到閉上眼，全部都是我。我常覺得虧欠你，只給了你我人生的一個章節；後來才懂，是你把那個章節，變成我這輩子最想重看的一段。",
+          "editorNote": "適合長文貼文或紀念冊的收尾，寫毛孩與人壽命不對等那種又愧疚又感激的心情",
+          "variations": [
+            "你不是我生命的全部，但你在的那幾年，把我最好的樣子都調了出來。這樣就夠了，真的夠了。"
+          ]
+        },
+        "en": {
+          "content": "I'll live for decades; you were only here for a small stretch of it. But to you, I was your whole life — from the day you opened your eyes to the day you closed them, all of it was me. I used to feel I'd short-changed you, giving you just one chapter of my life. Then I understood: you turned that chapter into the one I'd most want to read again.",
+          "editorNote": "A closing line for a long post or memorial book, about the ache and gratitude of loving something with a shorter lifespan",
+          "variations": [
+            "You weren't my whole life, but in the years you were here, you pulled out the best version of me. That's enough. It really is enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-257",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://vocus.cc/article/67aad739fd89780001fc3998",
+      "sourceNote": "把喪寵經驗轉成對生命/道別的體悟 frame，原創",
+      "tags": [
+        "撫慰",
+        "釋懷",
+        "放手",
+        "延續"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "陪你走完最後那段路，是我第一次那麼近地看著一個生命離開。我以為我會被嚇壞，結果你走得那麼安靜、那麼信任。你好像順便教了我一件事：原來道別不一定是可怕的，它也可以很溫柔。以後換我要走的那天，我大概會沒那麼怕了——因為你先示範過一次給我看。",
+          "editorNote": "較深、較沉澱的一則，適合忌日或事隔一段時間後的回顧書寫；把失去轉成對生命的體悟",
+          "variations": [
+            "你教會我最後一課，不是怎麼失去，是怎麼好好放手。謝謝你連要走的時候，都還在教我。"
+          ]
+        },
+        "en": {
+          "content": "Being with you to the very end was the first time I watched a life leave from so close. I thought it would terrify me. Instead you went so quietly, so trusting. It's like you taught me one last thing on your way out: goodbyes don't have to be frightening — they can be gentle too. When it's my turn someday, I think I'll be a little less afraid — because you showed me how first.",
+          "editorNote": "A deeper, more settled entry — good for a death anniversary or a reflection written some time later; turns the loss into a lesson about life",
+          "variations": [
+            "The last thing you taught me wasn't how to lose something. It was how to let go with grace. Thank you for teaching me even as you were leaving."
+          ]
+        }
+      }
     }
   ]
 }

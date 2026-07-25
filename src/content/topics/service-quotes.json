@@ -7899,6 +7899,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-275",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://www.nownews.com/news/6472368",
+      "sourceNote": "Sparked by NOWnews 可不可店員「不爽客人打烊前點餐」 controversy; rewritten from the worker's POV as a closing-time monologue, no incident details copied",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "打烊",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "門上寫十點打烊。\n九點五十九，您推門進來，\n說：「還沒關吧？隨便點一下就好。」\n先生，「隨便一下」是您的三分鐘，\n是我的洗鍋、關機、拖地、還有回不去的末班車。\n我沒有不歡迎您，\n我只是也想準時把今天還給自己。",
+          "editorNote": "傳給每天都要跟「最後一分鐘客人」拔河的餐飲夥伴。打烊時間不是參考值，是有人在那頭等著他回家。",
+          "variations": [
+            "「隨便點一下」這四個字，從來沒有一次是真的隨便。",
+            "客人的最後一單，通常是我今晚睡眠的第一筆扣款。"
+          ]
+        },
+        "en": {
+          "content": "The sign says we close at ten.\nAt 9:59 you push the door open and say,\n\"You're not closed yet, right? I'll just grab something quick.\"\nSir, your \"quick\" is three minutes.\nMine is the scrubbed pans, the shutdown, the mopping, and the last bus I won't catch.\nI'm not turning you away —\nI'd just like to hand today back to myself on time too.",
+          "editorNote": "For anyone in food service who plays tug-of-war with the last-minute customer every night. Closing time isn't a suggestion — someone on the other end of it is waiting to go home.",
+          "variations": [
+            "\"I'll just grab something quick\" has never once actually been quick.",
+            "The customer's last order is usually the first withdrawal from tonight's sleep."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-276",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://blog.104.com.tw/extra-service-extra-money/",
+      "sourceNote": "Inspired by 104 職場力 「每一種客制化服務都有價」 article on unpaid extra service; rewritten as a service-fee comeback, original phrasing",
+      "tags": [
+        "服務業",
+        "奧客",
+        "服務費",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「收什麼服務費，你們是有服務到什麼？」\n先生，剛剛幫您併桌、加水三次、\n換掉您嫌太吵的位子、\n還把您小孩打翻的那杯默默擦乾淨的，\n就是那個「什麼」。\n服務不是沒發生，\n是它做得太順，順到您以為它免費。",
+          "editorNote": "傳給被嫌「服務費收假的」的外場夥伴。做得好的服務常常隱形——安靜到客人以為那是空氣，其實那是有人在忙。",
+          "variations": [
+            "服務費最尷尬的地方，是它證明你做得越好，客人越覺得你沒做事。",
+            "「你們有服務到什麼」——有啊，服務到您有空好好問這句話。"
+          ]
+        },
+        "en": {
+          "content": "\"A service charge? What service did you even do?\"\nSir, the table we pushed together for you, the water refilled three times,\nthe seat we swapped when you said it was too loud,\nand the drink your kid knocked over that we quietly wiped up —\nthat's the \"what.\"\nThe service didn't fail to happen.\nIt happened so smoothly you assumed it was free.",
+          "editorNote": "For the floor staff who get told the service charge is a scam. Good service is often invisible — quiet enough that the customer mistakes it for air, when really it's someone hustling.",
+          "variations": [
+            "The awkward thing about a service charge is that the better you do the job, the more the customer thinks you did nothing.",
+            "\"What service did you do?\" — enough that you had the free time to stand there and ask."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-277",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/261585821",
+      "sourceNote": "Inspired by Dcard 職場篇 「服務業的邊界」 post; the restroom-without-purchase boundary is a canonical retail scenario, freshly written",
+      "tags": [
+        "服務業",
+        "零售",
+        "界線",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人衝進來：「廁所借一下！」\n用完出來，經過我，\n頭也不回地走出門。\n我沒有要您買東西，\n我只是有點希望，\n進來時那句「借一下」，\n出去時能變成一句「謝謝」。\n這家店不是收費的，\n但基本的來回，是我唯一的找零。",
+          "editorNote": "傳給常被當成「免費公廁管理員」的門市夥伴。不是計較那一次廁所，是那句連頭都不回的無視，比奧客的大小聲還涼。",
+          "variations": [
+            "客人的「借一下」很大聲，出門的那聲「謝謝」通常太小聲，小聲到不存在。",
+            "我不介意借您廁所，我介意的是您把整間店當成理所當然。"
+          ]
+        },
+        "en": {
+          "content": "A customer bursts in: \"Can I use your restroom?\"\nComes out, walks past me,\nand leaves without a glance back.\nI wasn't asking you to buy anything.\nI just quietly hoped\nthat the \"can I\" on the way in\nwould become a \"thanks\" on the way out.\nThis store doesn't charge for it —\nbut a little back-and-forth is the only change I get.",
+          "editorNote": "For the retail folks treated like unpaid public-restroom attendants. It's not about the one restroom trip — it's that the glance-free walk-out lands colder than any yelling customer.",
+          "variations": [
+            "The \"can I\" on the way in is always loud; the \"thanks\" on the way out is usually too quiet to exist.",
+            "I don't mind lending you the restroom. I mind you treating the whole store like it owes you one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-278",
+      "dateAdded": "2026-07-25",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/255342180",
+      "sourceNote": "Original scenario extending the Dcard 「做服務業的人都在想什麼」 motif; the endless photo-retake request is a common café/tourist-spot experience, freshly written",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "拍照",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「不好意思，幫我們拍一張。」\n第一張，說眼睛閉了。\n第二張，說想換直的。\n第八張，開始指導我要蹲低、要仰角、\n要把後面那盞燈拍進來。\n先生，我是店員，\n不是您這趟旅行的隨行攝影師。\n您的回憶很重要，\n但我後面還有五桌，也很重要。",
+          "editorNote": "傳給被無限重拍綁架過的外場夥伴。幫拍一張是人情，拍到會操作單眼是義務——這兩件事中間，隔著五桌等上菜的客人。",
+          "variations": [
+            "從「幫我拍一張」到「這樣不行再一張」，中間隔了我整個休息時間。",
+            "客人的第一張是請託，第八張是外包，我沒簽這份合約。"
+          ]
+        },
+        "en": {
+          "content": "\"Excuse me, could you take one photo of us?\"\nFirst shot: someone blinked.\nSecond: they want it vertical.\nBy the eighth, they're directing me — crouch lower, tilt up,\nget that light in the background.\nSir, I'm a store clerk,\nnot the official photographer for your trip.\nYour memories matter,\nbut so do the five tables waiting behind me.",
+          "editorNote": "For the floor staff hijacked by the endless-retake request. Taking one photo is a kindness; being coached into a full photoshoot is a job — and between the two sit five tables waiting on their food.",
+          "variations": [
+            "From \"take one photo\" to \"no, one more like this\" is exactly the length of my entire break.",
+            "The first shot is a favor, the eighth is outsourcing, and I never signed that contract."
+          ]
+        }
+      }
     }
   ]
 }
