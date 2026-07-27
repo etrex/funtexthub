@@ -5553,29 +5553,6 @@
       }
     },
     {
-      "id": "aq-236",
-      "dateAdded": "2026-07-03",
-      "sourceUrl": "https://quoteoffame.com/blog/200-funny-adulting-quotes-that-hit-too-close-to-home/",
-      "sourceNote": "'exhausted at 9pm wide awake at 3am replaying awkward moment' adulting insomnia joke; rewritten original",
-      "tags": ["長大", "失眠", "累"],
-      "i18n": {
-        "zh-tw": {
-          "content": "當大人最奇怪的地方是：\n晚上九點累到眼睛睜不開，凌晨三點卻突然清醒，開始回想十年前那句講錯的話。",
-          "editorNote": "傳給那個總說自己「累但睡不著」的朋友，深夜互相取暖",
-          "variations": [
-            "我的腦袋很貼心，總是把恐慌會議安排在半夜三點準時召開。"
-          ]
-        },
-        "en": {
-          "content": "The strangest part of being an adult:\nexhausted enough to pass out at 9 PM, then wide awake at 3 AM replaying that awkward thing you said a decade ago.",
-          "editorNote": "For the friend who's always 'tired but can't sleep' — solidarity at 3 AM",
-          "variations": [
-            "My brain is so considerate — it schedules all its panic sessions for exactly 3 AM."
-          ]
-        }
-      }
-    },
-    {
       "id": "aq-237",
       "dateAdded": "2026-07-03",
       "sourceUrl": "https://quoteoffame.com/blog/short-funny-adulting-quotes-200-relatable-lines-that-prove-were-all-struggling/",
@@ -7597,6 +7574,98 @@
           "editorNote": "Send it to the person who always puts themselves last and keeps grinding when they should be resting",
           "variations": [
             "Maturity isn't never being tired. It's choosing to take care of yourself when you are, instead of beating yourself up first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-321",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://startingedu.com/the-way-to-savemoney/",
+      "sourceNote": "緊急備用金/存錢觀念 3-6 個月; 初級大人 vs 高級大人 contrast; rewritten original",
+      "tags": ["初級大人", "高級大人", "存錢", "理財"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人存錢：發薪日先犒賞自己，剩下的再說，結果每個月都剩「沒有」。\n\n高級大人存錢：錢一入帳先轉走三成，讓自己過得像個沒領到那筆錢的人。",
+          "editorNote": "傳給那個每次月底都在吃泡麵、卻不知道錢花去哪的朋友",
+          "variations": [
+            "初級大人的緊急備用金：就是下個月的薪水。高級大人的緊急備用金：放著半年不用動，也不會慌的那一筆。"
+          ]
+        },
+        "en": {
+          "content": "Junior adult saving money: treat yourself first on payday, save whatever's left — and every month, whatever's left is nothing.\n\nSenior adult saving money: move 30% out the second it lands, then live like that money never existed.",
+          "editorNote": "Send it to the friend who's eating instant noodles by month's end but has no idea where the money went",
+          "variations": [
+            "Junior adult's emergency fund: next month's paycheck. Senior adult's emergency fund: the pile they could sit on for six months and still not panic."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-322",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://quoteoffame.com/blog/200-funny-adulting-quotes-that-hit-too-close-to-home/",
+      "sourceNote": "adulting = googling basic tasks like a test you didn't study for; rewritten original reflective quote",
+      "tags": ["長大才懂", "生活", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "小時候以為大人什麼都會，長大才發現，所謂的大人，只是把 Google 開在另一個分頁，一邊查一邊點頭說「嗯我知道」。\n\n報稅、換輪胎、通馬桶、跟房東吵架，沒有一項是天生就會的，全都是現學現賣。",
+          "editorNote": "傳給那個昨天才偷偷 Google「洗衣機 E3 是什麼意思」的成熟大人",
+          "variations": [
+            "長大不是突然什麼都會了，是學會了一邊查一邊裝得很淡定。"
+          ]
+        },
+        "en": {
+          "content": "As a kid I thought grown-ups just knew things. Turns out being an adult is keeping Google open in another tab, nodding along and saying 'yeah, I know' while you frantically look it up.\n\nTaxes, changing a tire, unclogging a drain, arguing with a landlord — nobody's born knowing any of it. You're learning it live.",
+          "editorNote": "Send it to the 'grown-up' who secretly googled 'what does E3 mean on a washing machine' last night",
+          "variations": [
+            "Growing up isn't suddenly knowing everything. It's learning to google it and look calm at the same time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-323",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.twjinmedia.com/work/8-quotes-for-the-workplace/",
+      "sourceNote": "年輕不懂低頭、長大才發現先低頭的人是贏家; rewritten original reflective quote",
+      "tags": ["長大才懂", "職場", "人際"],
+      "i18n": {
+        "zh-tw": {
+          "content": "年輕的時候覺得道歉很吃虧，低頭是輸，硬起來才叫有原則。\n\n長大後才慢慢懂，先開口的那個人不是比較弱，是他比較想把事情解決，而不是把面子留到最後一刻。",
+          "editorNote": "傳給那個為了一口氣冷戰三天、其實心裡早就想和好的朋友",
+          "variations": [
+            "小時候以為贏就是不認錯。長大才發現，願意先伸手的人，通常才是那個更成熟的。"
+          ]
+        },
+        "en": {
+          "content": "When you're young, apologizing feels like losing. Backing down feels weak; digging in feels like having principles.\n\nGrowing up, you slowly get it: the person who speaks first isn't the weaker one. They just care more about fixing the problem than about saving face till the bitter end.",
+          "editorNote": "Send it to the friend giving someone the silent treatment for three days who secretly wanted to make up on day one",
+          "variations": [
+            "As a kid, winning meant never admitting fault. As an adult, the one who reaches out first is usually the grown-up in the room."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-324",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://thunderdungeon.com/2026/02/28/35-adulting-memes-for-everyone-tired-of-being-grown/",
+      "sourceNote": "adulting = tired, still responsible for everything; sick-day contrast; 初級大人 vs 高級大人; rewritten original",
+      "tags": ["初級大人", "高級大人", "職場", "健康"],
+      "i18n": {
+        "zh-tw": {
+          "content": "初級大人生病：燒到三十八度還是硬撐進公司，坐在位子上發抖，覺得請假很對不起大家。\n\n高級大人生病：一句「我今天不舒服，請假一天」，然後把手機關靜音，安心睡到中午。",
+          "editorNote": "傳給那個感冒還在回訊息、把自己燃燒殆盡的工作狂",
+          "variations": [
+            "初級大人不舒服：先問「今天請假會不會很麻煩大家？」高級大人不舒服：先問「我要看哪一科？」"
+          ]
+        },
+        "en": {
+          "content": "Junior adult gets sick: drags themselves to the office at 100°F, shivering at their desk, feeling guilty for even thinking about calling out.\n\nSenior adult gets sick: sends one 'not feeling well, taking the day,' silences the phone, and sleeps till noon guilt-free.",
+          "editorNote": "Send it to the workaholic who's still answering messages with a fever, running themselves into the ground",
+          "variations": [
+            "Junior adult feeling sick: 'Will taking the day off be a hassle for everyone?' Senior adult feeling sick: 'Okay, which doctor do I need to see?'"
           ]
         }
       }

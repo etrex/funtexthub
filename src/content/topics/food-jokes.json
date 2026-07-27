@@ -6291,35 +6291,6 @@
       }
     },
     {
-      "id": "fj-220",
-      "dateAdded": "2026-07-12",
-      "sourceUrl": "https://punsjoy.com/best-food-puns/",
-      "sourceNote": "internal only — pizza honesty 概念改寫成台灣人設對話",
-      "tags": [
-        "披薩",
-        "諧音",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "同事問我：「你覺得世界上最誠實的食物是什麼？」\n我：「披薩。」\n他：「為什麼？」\n我：「因為它只會被切成四片、六片、八片 — 從來不會七片，絕對不欺騙你。」",
-          "editorNote": "訂披薩開會的午休閒聊，適合丟到辦公室群組",
-          "variations": [
-            "延伸版：「不像我主管的 KPI，永遠算不出到底幾片是我的。」",
-            "厭世版：「至少披薩切幾片還會先問你，我加班從來沒人問過我。」"
-          ]
-        },
-        "en": {
-          "content": "A coworker asked me what the most honest food in the world is.\nMe: \"Pizza.\"\nHim: \"Why?\"\nMe: \"It only ever comes in four, six, or eight slices — never seven. It would never cheat you.\"",
-          "editorNote": "Small talk while a shared pizza shows up at the office",
-          "variations": [
-            "Extension: \"Unlike my manager's targets—I can never figure out how many slices are actually mine.\"",
-            "Jaded version: \"At least the pizza asks how many slices you want. Nobody asks before piling on my overtime.\""
-          ]
-        }
-      }
-    },
-    {
       "id": "fj-221",
       "dateAdded": "2026-07-12",
       "sourceUrl": "https://manmandays.com/joke/",
@@ -7927,6 +7898,151 @@
           "variations": [
             "Bonus line: \"You're the only one for me — no ifs, ands, or butternuts.\"",
             "Comeback version: if they reply 'my feelings for you are pretty bland,' it's over."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-277",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.beauty321.com/series/201",
+      "sourceNote": "台灣手搖飲客製化文化 — 過度客製反而懶得堅持的笑點",
+      "tags": [
+        "手搖",
+        "客製化",
+        "飲料"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我：「中杯珍奶，微糖、微冰、珍珠煮軟一點、奶精換鮮奶、封膜幫我封兩層。」\n店員：「這樣要加十五塊喔。」\n我：「……那正常甜正常冰就好。」",
+          "editorNote": "手搖控群組分享，配一張落落長的點單截圖最有共鳴",
+          "variations": [
+            "加碼版：「吸管給我粗的、椰果換仙草」→ 店員直接遞上一杯正常版。",
+            "反向版：朋友點「都可以、隨便」，店員愣三秒：「這杯我最難做。」"
+          ]
+        },
+        "en": {
+          "content": "Me: \"Medium bubble tea — light sugar, light ice, extra-soft pearls, oat milk instead of creamer, and double-seal the lid.\"\nBarista: \"That'll be two bucks extra.\"\nMe: \"...You know what, just make it regular.\"",
+          "editorNote": "Share in a group chat of bubble-tea addicts with a screenshot of a mile-long order",
+          "variations": [
+            "Add-on version: \"...and swap the straw for a fat one\" — barista silently hands over the standard cup.",
+            "Reverse version: friend orders \"whatever, surprise me\" — barista freezes: \"That's the hardest one to make.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-278",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://travel.yam.com/article/139877",
+      "sourceNote": "台灣自助餐秤重文化 — 阿姨熱心加菜結果要另外算錢的日常",
+      "tags": [
+        "自助餐",
+        "秤重",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "自助餐夾了三樣就去結帳。\n阿姨看一眼：「才這樣？年輕人要多吃啦。」\n說完自己幫我加了一塊排骨。\n結帳：「一百二。」\n我：那塊排骨……原來要另外算喔。",
+          "editorNote": "自助餐回憶殺，配「以為是招待結果進帳單」的無奈超有畫面",
+          "variations": [
+            "便當店版：老闆娘「幫你多加一點菜」→ 結帳比隔壁貴三十。",
+            "續集：下次我學乖了說「不用不用」，阿姨：「哎唷跟阿姨客氣什麼」，又加了一塊。"
+          ]
+        },
+        "en": {
+          "content": "At the pay-by-weight buffet I grabbed three little dishes and headed to the scale.\nThe lady frowned: \"That's it? A growing kid needs more.\"\nThen she piled a pork chop onto my plate herself.\nTotal: \"Nine bucks.\"\nMe: ...so the \"extra\" pork chop was extra, huh.",
+          "editorNote": "Relatable for anyone who's been ambushed by a helpful buffet auntie",
+          "variations": [
+            "Diner version: the owner \"throws in a little more\" — bill ends up three bucks over the place next door.",
+            "Sequel: next time I say 'no really, I'm good' — she goes 'don't be shy with auntie' and adds one anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-279",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.tasteofhome.com/article/food-jokes/",
+      "sourceNote": "台灣火鍋沾醬文化 — 沙茶醬信仰的震撼教育",
+      "tags": [
+        "火鍋",
+        "沾醬",
+        "沙茶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友第一次跟我吃火鍋，問：「沾醬要調什麼？」\n我：「沙茶加蛋黃、蔥花、蒜末，這是基本盤。」\n他照做，吃一口愣住：「那我前二十年沾的醬油膏是什麼？」\n我：「是你還沒開竅的人生。」",
+          "editorNote": "揪團吃鍋前傳給那個只沾醬油膏的朋友，準備接受震撼教育",
+          "variations": [
+            "加碼：「再加一點豆腐乳更神」→ 朋友從此回不去。",
+            "地雷版：有人偷偷加番茄醬，全桌瞬間安靜。"
+          ]
+        },
+        "en": {
+          "content": "My friend's first hot pot with me: \"What goes in the dipping sauce?\"\nMe: \"Sacha sauce, raw egg yolk, scallions, minced garlic. That's the baseline.\"\nHe tries it, freezes: \"Then what have I been dipping in for twenty years?\"\nMe: \"A life not yet awakened.\"",
+          "editorNote": "Send to the friend who only ever uses plain soy sauce before your next hot pot night",
+          "variations": [
+            "Bonus: \"Add a dab of fermented tofu\" — he never went back.",
+            "Danger version: someone quietly reaches for the ketchup, and the whole table goes silent."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-280",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://newyorkimprovtheater.com/2024/07/23/20-bad-dad-jokes-puns-about-restaurants/",
+      "sourceNote": "台灣早餐店阿姨「帥哥美女」稱呼文化 — 商業嘴的自信",
+      "tags": [
+        "早餐店",
+        "阿姨",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店阿姨對每個客人都喊「帥哥」「美女」。\n我：「阿姨，妳這樣叫，不怕叫錯喔？」\n阿姨：「我賣二十年，還沒遇過有人反駁自己不是帥哥。」",
+          "editorNote": "台灣早餐店日常，配「阿姨的商業嘴」話題必收一波共鳴",
+          "variations": [
+            "續集：「那如果對方真的不帥？」阿姨：「那就叫『老闆』，包準他更開心。」",
+            "自嘲版：被叫帥哥的當下，我默默把蛋餅加大。"
+          ]
+        },
+        "en": {
+          "content": "The breakfast-shop lady calls every single customer \"handsome\" or \"gorgeous.\"\nMe: \"Ma'am, don't you ever get it wrong?\"\nHer: \"Twenty years in this business — nobody's ever argued they weren't handsome.\"",
+          "editorNote": "For anyone who's been sweet-talked by a diner regular who knows exactly what she's doing",
+          "variations": [
+            "Sequel: \"And if he really isn't?\" Her: \"Then I call him 'boss.' Works even better.\"",
+            "Self-own version: the second she calls me handsome, I quietly upsize my order."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-281",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://parade.com/1239414/marynliles/food-puns/",
+      "sourceNote": "台灣滷肉飯南北之爭 — 認真吵到飯涼的日常",
+      "tags": [
+        "滷肉飯",
+        "南北之爭",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "北部朋友點「肉燥飯」，端上來是碎肉。\n南部朋友點「肉燥飯」，端上來也是碎肉。\n但兩人為了「這到底該不該叫滷肉飯」吵了一個小時。\n最後結論：飯都涼了。",
+          "editorNote": "滷肉飯南北之爭萬年老題，配一句「認真你就輸了」超到位",
+          "variations": [
+            "加碼：中部朋友默默說「我們叫肉臊飯」，全場再吵半小時。",
+            "收尾版：老闆走過來：「不管叫什麼，涼了不好吃，快吃。」"
+          ]
+        },
+        "en": {
+          "content": "My friend from up north ordered \"minced pork rice.\" It came as minced pork over rice.\nMy friend from down south ordered the exact same thing. Also minced pork over rice.\nThen they argued for an hour over what it should actually be called.\nConclusion reached: the rice went cold.",
+          "editorNote": "The eternal regional-naming feud — pair it with a 'take it too seriously and you lose' punchline",
+          "variations": [
+            "Bonus: the guy from the middle mutters 'we call it something else entirely' — another half hour gone.",
+            "Closer: the owner walks over — 'Call it whatever you want, it's gross cold. Eat.'"
           ]
         }
       }

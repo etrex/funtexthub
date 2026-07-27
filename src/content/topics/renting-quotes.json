@@ -5763,35 +5763,6 @@
       }
     },
     {
-      "id": "rq-197",
-      "dateAdded": "2026-07-11",
-      "sourceUrl": "https://cheezburger.com/36338181/24-relatable-apartment-memes-for-tired-renters-ready-to-own-property",
-      "sourceNote": "meme: congrats you have a home, now you can afford nothing else; rewritten",
-      "tags": [
-        "房租",
-        "薪水",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "繳完房租的那一刻，恭喜你有個家。\n也恭喜你這個月除了這個家，什麼都買不起了。",
-          "editorNote": "適合月初繳完房租、看著空空的戶頭苦笑的朋友，配一張癱在沙發上的照片剛剛好",
-          "variations": [
-            "我不是月光族，我是房租一繳完就見底族。",
-            "有房住是好事，代價是接下來三十天只能靠泡麵和意志力活著。"
-          ]
-        },
-        "en": {
-          "content": "The moment you finish paying rent: congratulations, you have a home.\nAlso congratulations—this month, a home is the only thing you can afford.",
-          "editorNote": "For the friend staring at an empty bank balance right after payday, best paired with a photo of them melted into the couch",
-          "variations": [
-            "I'm not living paycheck to paycheck. I'm living paycheck-to-the-second-rent-clears.",
-            "Having a roof is great; the price is surviving the next thirty days on instant noodles and sheer willpower."
-          ]
-        }
-      }
-    },
-    {
       "id": "rq-198",
       "dateAdded": "2026-07-11",
       "sourceUrl": "https://www.money101.com.tw/blog/%E7%A7%9F%E6%88%BF%E5%AD%90-%E5%88%97%E8%88%89-%E5%A0%B1%E7%A8%85-%E7%A7%9F%E5%B1%8B%E6%97%8F-%E5%8C%85%E7%A7%9F%E5%85%AC-%E6%94%BB%E7%95%A5",
@@ -7496,6 +7467,126 @@
           "variations": [
             "Before you pay to hold a place, ask the one question that matters: if I back out, do I get this back? If not, that's not good faith — that's tuition.",
             "Landlords love a near-homonym: hold vs forfeit, refundable vs not. One small word apart, and the difference is always your money."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-257",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9624663",
+      "sourceNote": "rental subsidy blamed for driving up rent; landlords refusing tenants who apply; rewritten original",
+      "tags": [
+        "租金補貼",
+        "房東",
+        "漲租",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "政府發租金補貼，本來是要幫我省錢。\n結果房東說：「你要申請補貼？那我租金報實價，剛好也漲一點。」\n補貼三千，租金漲兩千五。\n原來這筆錢繞了一大圈，最後大半還是進了他口袋。",
+          "editorNote": "傳給正在猶豫要不要申請租金補貼、卻怕被房東漲租或趕走的租屋族，提醒他申請前先把租約和報稅問題談清楚",
+          "variations": [
+            "房東最怕的不是我沒錢，是我去申請補貼讓他要報稅。",
+            "補貼是政府給我的，漲租是房東拿走的，中間那個空手道，表演得剛剛好。"
+          ]
+        },
+        "en": {
+          "content": "The government rolled out a rent subsidy to help me save money.\nSo my landlord said: \"Oh, you're applying? Then I'll report the real rent — and bump it up a little while I'm at it.\"\nSubsidy: three grand. Rent hike: twenty-five hundred.\nTurns out that money took a long detour and most of it landed right back in his pocket.",
+          "editorNote": "For the renter weighing whether to apply for a rent subsidy but scared the landlord will hike the rent or push them out; sort out the lease and tax reporting before you file",
+          "variations": [
+            "My landlord isn't scared that I'm broke — he's scared I'll apply for the subsidy and he'll have to report the income.",
+            "The subsidy comes from the government, the hike goes to the landlord, and the sleight of hand in between is flawless."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-258",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.ptt.cc/bbs/rent-exp/M.1492155787.A.9FA.html",
+      "sourceNote": "rooftop addition (頂樓加蓋) greenhouse heat and leak drawbacks; rewritten original",
+      "tags": [
+        "頂樓加蓋",
+        "夏天",
+        "房租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "頂樓加蓋，房東說「視野好、離天空最近」。\n夏天我才懂什麼叫離天空最近——\n太陽先烤屋頂，屋頂再烤我，冷氣開整天也只是把烤箱溫度調低一格。\n我不是租了一間房，是租了一個附鑰匙的鐵板燒。",
+          "editorNote": "傳給正在考慮頂加、只看到房租便宜的朋友，提醒他把夏天的電費和西曬一起算進去",
+          "variations": [
+            "頂加省下來的房租，七、八月會用電費原封不動還給你。",
+            "房東說頂加冬暖夏涼，我住了一個夏天，只驗證了前面兩個字是騙人的。"
+          ]
+        },
+        "en": {
+          "content": "A rooftop unit — the landlord called it \"great views, closest to the sky.\"\nCame summer, I learned what \"closest to the sky\" means:\nthe sun bakes the roof, the roof bakes me, and running the AC all day just knocks the oven down one notch.\nI didn't rent a room. I rented a hot plate that came with keys.",
+          "editorNote": "For the friend eyeing a cheap rooftop unit who only sees the low rent; factor the summer power bill and the afternoon sun into the math",
+          "variations": [
+            "Whatever you save on rent in a rooftop unit, July and August hand right back to you as an electric bill.",
+            "The landlord swore the rooftop was warm in winter, cool in summer. One summer in, I've confirmed exactly half of that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-259",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9528803",
+      "sourceNote": "renters frustrated everything is an extra fee — internet, water, cleaning, management; rewritten original",
+      "tags": [
+        "雜費",
+        "房東",
+        "水電",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房租一萬二，看起來還行。\n簽約才知道：網路要錢、公共電費要錢、垃圾清運要錢、還有一項叫「管理費」，但這棟根本沒有管理員。\n加一加破一萬五。\n原來標價從來不是我要付的價，只是他吸引我進門的餌。",
+          "editorNote": "傳給看房只比房租數字的朋友，提醒他把水電網路、清潔、管理費全部問清楚再比較，別被標價騙進去",
+          "variations": [
+            "房東最厲害的不是漲房租，是把房租拆成十個名目，讓你怎麼算都覺得是自己貪心。",
+            "比房租要連雜費一起比，不然便宜的那間，只是把差價藏在你還沒看到的欄位裡。"
+          ]
+        },
+        "en": {
+          "content": "Rent's twelve hundred a month — not bad, I thought.\nThen I signed: internet's extra, shared electricity's extra, trash pickup's extra, and there's a \"management fee\" for a building with no manager.\nAll in, it clears fifteen hundred.\nTurns out the listed price was never what I'd pay — just the bait to get me through the door.",
+          "editorNote": "For the friend who compares apartments by rent alone; ask about utilities, internet, cleaning and management fees before you compare, so the sticker price doesn't fool you in",
+          "variations": [
+            "A landlord's real talent isn't raising the rent — it's splitting it into ten line items so every total feels like your own greed.",
+            "Compare the rent with all the fees attached, or the \"cheap\" place is just hiding the difference in a column you haven't seen yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-260",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.mobile01.com/topicdetail.php?f=335&t=3046759",
+      "sourceNote": "thin partition walls in subdivided units, no soundproofing; rewritten original",
+      "tags": [
+        "隔音",
+        "分租套房",
+        "鄰居",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "分租套房的隔間牆薄到，隔壁講電話我全程聽得懂內容。\n久了我甚至能跟上進度：他上禮拜被劈腿，這禮拜在找新工作，昨天面試沒過。\n我沒付錢看實境秀，\n卻連廣告都沒得跳過。",
+          "editorNote": "傳給正在看分租套房的朋友，提醒他看房時敲一敲隔間牆、晚上再來聽一次，隔音是簽約前最容易忽略、住進去最難忍受的一項",
+          "variations": [
+            "分租套房教會我的第一件事，是隔壁的作息；第二件事，是我的作息從此不由我決定。",
+            "看房時記得敲牆，空心的那種，你租的不是一個房間，是一場二十四小時不關的直播。"
+          ]
+        },
+        "en": {
+          "content": "The partition wall in my shared unit is so thin I can follow every phone call next door, word for word.\nBy now I'm caught up on the story: he got cheated on last week, he's job-hunting this week, and yesterday's interview didn't go through.\nI never paid for a reality show,\nbut I don't even get to skip the ads.",
+          "editorNote": "For the friend touring subdivided units; knock on the partition walls and come back at night to listen — soundproofing is the easiest thing to overlook at signing and the hardest to live with after",
+          "variations": [
+            "The first thing a shared unit taught me was my neighbor's schedule; the second was that mine is no longer up to me.",
+            "Knock on the walls when you tour a place. If they sound hollow, you're not renting a room — you're renting a 24-hour livestream nobody turns off."
           ]
         }
       }

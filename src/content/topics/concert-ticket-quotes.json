@@ -6065,6 +6065,146 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-216",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.ticketfairy.com/blog/no-more-fakes-fighting-ticket-fraud-and-scalping-at-venues-in-2026",
+      "sourceNote": "2026 代搶/代購服務產業化；秒殺場次連號稱專業的代搶也常翻車",
+      "tags": [
+        "代搶",
+        "代購",
+        "搶票",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我花錢請人代搶。\n\n專業的、有實績的、\n號稱手速比機器人快的。\n\n開賣三分鐘後，\n他傳來一句：\n「不好意思這次沒搶到。」\n\n原來我花錢，\n是為了讓失敗\n變得更專業一點。",
+          "editorNote": "代搶近年變成一門產業，但秒殺場連專業的也會翻車。傳給也把希望外包出去、結果一起落空的朋友",
+          "variations": [
+            "進階版：「代搶費照收，服務費照收，票沒有。我付費升級了我的失望。」"
+          ]
+        },
+        "en": {
+          "content": "I paid a pro to grab my tickets.\n\nVerified track record,\nfaster than the bots, they swore.\n\nThree minutes after on-sale:\n'Sorry, didn't get it this time.'\n\nTurns out I paid money\njust to make my failure\na little more professional.",
+          "editorNote": "Outsourcing the panic to a paid grabber and still losing hits a special nerve. Send to the friend who paid extra to lose faster",
+          "variations": [
+            "Escalated: 'Service fee: nonrefundable. Tickets: none. I paid to upgrade my disappointment to premium.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-217",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://prosopo.io/blog/preventing-ticketing-bots/",
+      "sourceNote": "拓元等系統開賣採等待室排隊機制；網友常回報等待人數不減反增",
+      "tags": [
+        "等待室",
+        "排隊",
+        "拓元",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我進到等待室，\n前面 8,000 人。\n\n我沒關網頁、沒亂點，\n乖乖等。\n\n刷新一下——\n前面變成 23,000 人。\n\n我不是在排隊，\n我是在退潮。",
+          "editorNote": "等待人數不減反增，是搶票最魔幻的一刻。傳給也眼睜睜看著自己名次倒退的朋友",
+          "variations": [
+            "進階版：「進度條只有兩種方向：不動，跟倒退。」"
+          ]
+        },
+        "en": {
+          "content": "I made it into the waiting room.\n8,000 people ahead of me.\n\nI didn't close the tab.\nI didn't touch anything.\nI just waited.\n\nRefresh —\n23,000 ahead of me now.\n\nI'm not in a line.\nI'm in a riptide.",
+          "editorNote": "Watching your queue number climb instead of drop is its own kind of despair. Send to the friend who literally moved backwards in line",
+          "variations": [
+            "Escalated: 'The queue bar has two settings: frozen, and reverse.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-218",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021394",
+      "sourceNote": "2026 五月天 25 週年大巨蛋 7 場；老團加場勾起歌迷「還有幾次」的感慨",
+      "tags": [
+        "老粉",
+        "25週年",
+        "情感",
+        "五月天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我聽這團二十五年了。\n\n以前沒搶到，\n我會想：沒關係，還有下次。\n\n這次沒搶到，\n我第一個念頭是：\n\n還有幾個下次？\n\n原來會怕的，\n從來不是搶不到票，\n是有一天\n連可以搶的機會\n都沒了。",
+          "editorNote": "陪一組人變老，最痛的不是這次沒中，是意識到「下次」是有限的。傳給那個跟你一起聽了很多年、這次也沒上岸的老粉",
+          "variations": [
+            "進階版：「二十五年了。我搶的已經不是票，是還能再看他們一次的機會。」"
+          ]
+        },
+        "en": {
+          "content": "I've followed this band for twenty-five years.\n\nBack then, missing a show meant:\nit's fine, there's always next time.\n\nThis time I missed it,\nand my first thought was:\n\nhow many 'next times' are left?\n\nTurns out the fear was never\nabout not getting a ticket.\nIt's the day\nthere's nothing left to line up for.",
+          "editorNote": "Growing old alongside a band makes a missed show sting differently — you start counting the chances. Send to the longtime fan who came up empty with you",
+          "variations": [
+            "Escalated: 'Twenty-five years in. I'm not fighting for a ticket anymore. I'm fighting for one more time.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-219",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.primetimer.com/features/why-have-concert-tickets-become-so-expensive-the-hidden-cost-of-live-music-explained",
+      "sourceNote": "2026 演唱會票價高漲，票錢外還有交通、周邊、請假等隱形成本",
+      "tags": [
+        "票價",
+        "自我安慰",
+        "省錢",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒搶到票，\n我開始安慰自己：\n\n省下了票錢、\n省下了來回車票、\n省下了應援棒跟周邊、\n省下了排隊六小時。\n\n算一算，省好多。\n\n只是這些「省下來的」，\n本來都是我\n心甘情願想花的。",
+          "editorNote": "「至少省到錢」是搶票失敗者最後的自我催眠，愈算愈心酸。傳給也在假裝慶幸的朋友",
+          "variations": [
+            "進階版：「我省下了一筆錢，跟一整個我本來會很快樂的晚上。」"
+          ]
+        },
+        "en": {
+          "content": "Didn't get tickets,\nso I started consoling myself:\n\nSaved the face value.\nSaved the round-trip fare.\nSaved on the lightstick and merch.\nSaved six hours in line.\n\nAdd it up — huge savings.\n\nOnly problem is,\nevery dollar I 'saved'\nwas one I was dying to spend.",
+          "editorNote": "'At least I saved money' is the last cope of the fan who lost, and it gets sadder the more you total it up. Send to the friend pretending to feel relieved",
+          "variations": [
+            "Escalated: 'I saved a whole paycheck. And one entire evening I would've spent very, very happy.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-220",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.gvm.com.tw/article/125822",
+      "sourceNote": "多人湊團看演唱會，常推派網速手速最快者代搶全團票",
+      "tags": [
+        "湊團",
+        "手速擔當",
+        "愧疚",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "全團說好，\n我網速最快、手速最猛，\n這場交給我。\n\n開賣那三分鐘，\n我卡頓、我手抖、\n我看著購物車被清空。\n\n最痛的不是我沒搶到，\n是群組裡那五個\n「沒關係啦」，\n每一個\n我都聽得出來\n是硬擠出來的。",
+          "editorNote": "被推派當「手速擔當」卻全團落空，那份愧疚比自己沒中更重。傳給那個扛下全團希望、結果兩手空空的朋友",
+          "variations": [
+            "進階版：「我不是沒搶到一張票，我是一次辜負了五個人的期待。」"
+          ]
+        },
+        "en": {
+          "content": "The whole group agreed:\nbest connection, fastest fingers —\nthis one's on me.\n\nThose three minutes on-sale,\nI froze, my hands shook,\nI watched my cart empty out.\n\nThe worst part isn't that I missed it.\nIt's the five 'it's totally fine's\nin the group chat,\nand hearing\nhow hard each one\nwas to type.",
+          "editorNote": "Being the group's designated grabber and coming up empty carries a guilt heavier than losing for yourself. Send to the friend who carried everyone's hopes and dropped them",
+          "variations": [
+            "Escalated: 'I didn't just lose a ticket. I let down five people in a single click.'"
+          ]
+        }
+      }
     }
   ]
 }

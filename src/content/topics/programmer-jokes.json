@@ -10499,6 +10499,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-366",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://programmerhumor.io/concurrency-memes/deadlock",
+      "sourceNote": "Deadlock concurrency joke — two threads each waiting on the other's lock, framed as a polite couple",
+      "tags": [
+        "併發",
+        "死鎖",
+        "工程師思維",
+        "感情"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師跟另一半站在餐廳門口。\n工程師：「你先選，你選我都吃。」\n另一半：「不要，你先選，我配合你。」\n工程師：「我真的都可以，你決定。」\n另一半：「我也都可以啊，你講。」\n……三十分鐘後，兩個人還站在原地，肚子都餓扁了。\n工程師默默看著手機備忘錄打上一行字：「原來這就是死鎖。」",
+          "editorNote": "傳給寫過多執行緒、被死鎖折磨過的工程師，順便傳給那個永遠不肯先做決定的另一半。",
+          "variations": [
+            "延伸：兩個人都在等對方先讓步，結果誰都不動，這在程式裡叫死鎖，在感情裡叫冷戰。",
+            "延伸：解法很簡單，總要有一個人先釋放鎖，只是大家都覺得那個人不該是自己。"
+          ]
+        },
+        "en": {
+          "content": "A developer and their partner are standing outside a restaurant.\nDeveloper: \"You pick, I'll eat anything.\"\nPartner: \"No, you pick, I'm easy.\"\nDeveloper: \"Honestly I don't mind, you decide.\"\nPartner: \"I don't mind either, go ahead.\"\n...Thirty minutes later, neither has moved and both are starving.\nThe developer quietly types a note on their phone: \"So this is what a deadlock feels like.\"",
+          "editorNote": "For anyone who's fought a multithreading deadlock — and for the partner who will never make the first call.",
+          "variations": [
+            "Extension: Both sides waiting for the other to give in, so nobody moves — in code we call it a deadlock, in relationships we call it the silent treatment.",
+            "Extension: The fix is simple: someone has to release their lock first. Everyone just agrees it shouldn't be them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-367",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://programmerhumor.io/memes/memory-leak",
+      "sourceNote": "Memory leak joke — reframed as emotional inability to let objects go / never freeing memory",
+      "tags": [
+        "記憶體洩漏",
+        "血淚",
+        "工程師思維",
+        "自我調侃"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "心理師：「你要學會放下，不然情緒會越積越多。」\n工程師：「我懂，這叫記憶體洩漏。」\n心理師：「⋯⋯那你有試著釋放嗎？」\n工程師：「有啊，但我每次以為釋放掉的東西，都還有一個地方偷偷引用著它。」\n心理師沉默了三秒：「這個我可能要轉介給資深工程師。」",
+          "editorNote": "傳給抓過記憶體洩漏抓到懷疑人生的工程師，那個偷偷引用的地方永遠找得到你崩潰。",
+          "variations": [
+            "延伸：記憶體洩漏跟前任一樣，你以為早就清乾淨了，結果某個角落還留著一份引用。",
+            "延伸：也可以收尾成『真正的問題不是佔用記憶體，是根本沒人記得當初是誰 new 出來的』。"
+          ]
+        },
+        "en": {
+          "content": "Therapist: \"You need to learn to let things go, or the buildup will overwhelm you.\"\nDeveloper: \"I know. It's called a memory leak.\"\nTherapist: \"...Have you tried releasing it?\"\nDeveloper: \"Every time. But everything I think I've freed still has one sneaky reference holding onto it somewhere.\"\nThe therapist pauses for three seconds. \"I think I need to refer you to a senior engineer.\"",
+          "editorNote": "For every dev who lost their sanity hunting a memory leak — that dangling reference always finds you.",
+          "variations": [
+            "Extension: A memory leak is like an ex — you swear you cleaned it all up, but some corner of the codebase is still holding a reference.",
+            "Extension: End it with: 'The real bug isn't the wasted memory — it's that nobody remembers who allocated it in the first place.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-368",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://programmerhumor.io/ci-memes/all-green-pipeline",
+      "sourceNote": "Rare all-green CI pipeline treated like a once-in-a-lifetime wildlife sighting, screenshotting the green build",
+      "tags": [
+        "CI",
+        "測試",
+        "工程師日常",
+        "誇飾"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師今天看到整條 CI 流水線全綠、一個紅燈都沒有。\n他做的第一件事不是慶祝，是趕快截圖。\n同事：「截這幹嘛？」\n工程師：「留個證據。等一下我碰任何東西，這畫面就再也不會出現了。」\n說完他把螢幕設成桌布，關掉電腦，決定今天到此為止。",
+          "editorNote": "傳給每個看到全綠 build 會想拍照紀念的工程師，那種美景可遇不可求。",
+          "variations": [
+            "延伸：全綠的 CI 就像流星，你要在它消失之前許願，然後千萬別 push。",
+            "延伸：也可以換成『全綠的那一刻，我不敢呼吸，怕震動把某個測試震壞』。"
+          ]
+        },
+        "en": {
+          "content": "Today the developer saw the entire CI pipeline go green — not a single red check.\nThe first thing he did wasn't celebrate. It was take a screenshot.\nCoworker: \"Why are you screenshotting that?\"\nDeveloper: \"Evidence. The moment I touch anything, this view is never coming back.\"\nThen he set it as his wallpaper, shut the laptop, and decided to end the day right there.",
+          "editorNote": "For every dev who wants to photograph an all-green build — that view is a rare and fleeting sight.",
+          "variations": [
+            "Extension: An all-green pipeline is like a shooting star: make a wish before it fades, and whatever you do, don't push.",
+            "Extension: Swap in: 'The moment it went green I stopped breathing, afraid the vibration would knock a test over.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-369",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://programmerhumor.io/memes/backup-two-types-of-people",
+      "sourceNote": "'Two types of people: those who back up, and those who haven't lost data yet' classic, rewritten as a story",
+      "tags": [
+        "備份",
+        "血淚",
+        "工程師日常",
+        "教訓"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界上有兩種工程師：\n一種每天乖乖備份，\n另一種還沒真正弄丟過東西。\n第二種工程師都覺得備份是浪費時間，直到某個週五下午，一個手滑的指令下去，三個月的成果瞬間清空。\n那一刻，他就升級成第一種工程師了——用最貴的學費。",
+          "editorNote": "傳給那個總說『之後再備份』的同事，通常都是弄丟一次之後才會真的動手。",
+          "variations": [
+            "延伸：備份就像保險，你嫌它麻煩的每一天，都是它還沒需要出場的日子。",
+            "延伸：也可以收尾成『真正的問題不是沒備份，是備份了卻從來沒試過能不能還原』。"
+          ]
+        },
+        "en": {
+          "content": "There are two kinds of developers:\nthe ones who back up religiously,\nand the ones who just haven't lost anything yet.\nThe second kind think backups are a waste of time — right up until one Friday afternoon, a single fat-fingered command wipes three months of work in an instant.\nIn that moment, they graduate to the first kind. Tuition: extremely expensive.",
+          "editorNote": "For the coworker who always says 'I'll back it up later.' They usually mean it right after they lose everything once.",
+          "variations": [
+            "Extension: Backups are like insurance — every day you resent the hassle is a day you didn't need it yet.",
+            "Extension: End it with: 'The real problem isn't skipping backups — it's backing up and never once testing whether you can restore.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -5091,29 +5091,6 @@
       }
     },
     {
-      "id": "aw-207",
-      "dateAdded": "2026-06-05",
-      "sourceUrl": "https://penlighten.com/tautology-examples",
-      "sourceNote": "「東西總是在你找到它的最後一個地方」廢話文學風格重新創作",
-      "tags": ["廢話文學", "生活", "日常"],
-      "i18n": {
-        "zh-tw": {
-          "content": "你弄丟的東西，\n\n永遠都會在你最後找到它的那個地方。\n\n找到之後，你就不會再找了。",
-          "editorNote": "找鑰匙找到崩潰的時候，唸給自己聽，雖然沒幫助但很真實",
-          "variations": [
-            "東西不見的時候是找不到的，找到的那一刻它就不算不見了。"
-          ]
-        },
-        "en": {
-          "content": "Whatever you lose\n\nwill always turn up in the very last place you look for it.\n\nBecause once you find it, you stop looking.",
-          "editorNote": "Recite this to yourself while tearing the house apart for your keys — unhelpful, but undeniably true",
-          "variations": [
-            "A missing item cannot be found while it's missing; the moment you find it, it's no longer missing."
-          ]
-        }
-      }
-    },
-    {
       "id": "aw-208",
       "dateAdded": "2026-06-09",
       "sourceUrl": "https://zhuanlan.zhihu.com/p/418347765",
@@ -9644,6 +9621,151 @@
           "variations": [
             "The point of a captcha is that the people who pass have proven they'll pass, and the people who fail have proven they'll fail.",
             "On the 'click all the traffic lights' test, clicking the right ones is right and clicking the wrong ones is wrong."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-369",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學循環論證法，原創手機充電主題",
+      "tags": [
+        "廢話文學",
+        "科技",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機充電的原理其實很單純：插著的時候，電量會慢慢往上升；拔掉之後，就開始往下掉。\n至於充到 100% 之後會怎樣——它就不會再往上升了，因為已經沒有更上面了。",
+          "editorNote": "傳給那個手機永遠只剩 1% 卻死不充電的朋友",
+          "variations": [
+            "行動電源的意思是，它有電的時候可以幫你充，沒電的時候就換它等你充。",
+            "充電線接對的那一端會充電，接錯的那一端不會。"
+          ]
+        },
+        "en": {
+          "content": "Charging your phone works like this: plug it in and the battery slowly climbs; unplug it and it starts dropping.\nAnd once it hits 100%? It stops climbing — because there's nowhere higher left to go.",
+          "editorNote": "For the friend whose phone lives at 1% and still refuses to plug it in",
+          "variations": [
+            "A power bank means: when it has charge it charges you, and when it's out of charge it waits for you to charge it.",
+            "The end of the cable that's plugged in correctly charges; the end that isn't, doesn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-370",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學循環論證法，原創鬧鐘貪睡主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "早上"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鬧鐘的貪睡功能其實很體貼：按一下，它就會過幾分鐘再響一次；再按一下，它又會過幾分鐘再響一次。\n就這樣一路按到你來不及為止。而來不及的意思是，時間已經不夠了。",
+          "editorNote": "星期一早上七點，傳給同樣在跟鬧鐘搏鬥的同事",
+          "variations": [
+            "設了五個鬧鐘的人，通常會被五個鬧鐘吵醒；只設一個的人，就只有一次機會。",
+            "鬧鐘響的時候你會醒，不響的時候你就繼續睡——這一點它從來沒騙過你。"
+          ]
+        },
+        "en": {
+          "content": "The snooze button is honestly quite thoughtful: press it once and the alarm returns in a few minutes; press it again and it returns in a few more.\nYou keep pressing until you're late. And 'late' means there is no longer enough time.",
+          "editorNote": "Send to the coworker also losing a fight with their alarm at 7am on a Monday",
+          "variations": [
+            "People who set five alarms usually get woken by five alarms; people who set one get exactly one shot.",
+            "When the alarm rings you wake up, and when it doesn't you keep sleeping — on this the alarm has never once lied."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-371",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學循環論證法，原創訂閱制主題",
+      "tags": [
+        "廢話文學",
+        "科技",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "訂閱制的規則其實寫得很清楚：只要你不取消，它就會一直幫你續下去；一旦你取消了，它就不會再幫你續了。\n至於你到底有沒有在用——這個問題完全不影響它繼續扣款。",
+          "editorNote": "對帳單發現三個忘了取消的訂閱時，傳給自己反省用",
+          "variations": [
+            "免費試用結束後開始收費，這件事在你點下訂閱的那一刻，它其實就講過了。",
+            "自動續約的意思是，你不動手，它就自動幫你動手。"
+          ]
+        },
+        "en": {
+          "content": "Subscriptions spell the rules out quite clearly: as long as you don't cancel, it keeps renewing you; the moment you cancel, it stops.\nAs for whether you actually use it — that question has no bearing whatsoever on the charge going through.",
+          "editorNote": "For when you scan your statement and find three subscriptions you forgot to cancel",
+          "variations": [
+            "That it starts charging once the free trial ends was, in fact, stated the instant you tapped subscribe.",
+            "Auto-renew means that if you don't lift a finger, it lifts one for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-372",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學循環論證法，原創忘記密碼主題",
+      "tags": [
+        "廢話文學",
+        "科技",
+        "網路"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "忘記密碼的時候，網站會請你重設一組新的。而新密碼的規定通常是：不能跟舊的一樣。\n這點對你來說毫無難度，因為你本來就不記得舊的是什麼。",
+          "editorNote": "第 N 次點「忘記密碼」時，傳給也在跟登入頁面奮鬥的家人",
+          "variations": [
+            "設定密碼的規則是：你設得出來的它嫌太簡單，你記得住的它嫌太短。",
+            "系統說「這組密碼曾經使用過」，可是我連現在這組是什麼都不知道。"
+          ]
+        },
+        "en": {
+          "content": "When you forget your password, the site kindly asks you to reset it. And the new one usually can't be the same as the old one.\nThis poses no difficulty at all, seeing as you didn't remember the old one to begin with.",
+          "editorNote": "For the Nth time you hit 'forgot password' — send to the family member also wrestling with the login screen",
+          "variations": [
+            "The rule for passwords: the ones you can think up are too simple, and the ones you can remember are too short.",
+            "The system says 'you've used this password before' — but I don't even know what the current one is."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-373",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學循環論證法，原創體重計主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "健康"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "體重計是一台很誠實的機器：站上去的時候，它顯示的就是你的體重；站下來之後，它就不顯示了。\n至於數字為什麼比上次多——它只負責告訴你多少，不負責解釋為什麼。",
+          "editorNote": "連假後站上體重計，需要一點心理建設時服用",
+          "variations": [
+            "少穿一件再量，數字確實會少一點，少的正好是那件衣服的重量。",
+            "體重計不會說謊，它只是把你不想面對的事，用數字講出來而已。"
+          ]
+        },
+        "en": {
+          "content": "A bathroom scale is an honest machine: step on it and it shows your weight; step off and it shows nothing.\nAs for why the number is higher than last time — it only reports the how-much, not the why.",
+          "editorNote": "Take before stepping on the scale after the holidays, when you need to brace yourself first",
+          "variations": [
+            "Weigh yourself with one less layer on and the number does drop — by exactly the weight of that layer.",
+            "A scale never lies; it just says out loud, in numbers, the thing you'd rather not face."
           ]
         }
       }

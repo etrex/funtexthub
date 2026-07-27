@@ -6688,32 +6688,6 @@
       }
     },
     {
-      "id": "cj-247",
-      "dateAdded": "2026-06-19",
-      "sourceUrl": "https://quillbot.com/blog/frequently-asked-questions/what-are-some-funny-food-puns/",
-      "sourceNote": "受英文『I'm on a seafood diet. I see food and I eat it（seafood≈see food）』啟發，中文改寫成『海鮮餐／看見食物』的諧音版本",
-      "tags": [
-        "食物",
-        "諧音"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "我最近在執行一種很嚴格的減肥法，叫做「看見飲食法」。\n\n就是只要看見食物，我就把它吃掉。",
-          "editorNote": "適合在被問為什麼又胖了、或揪團吃飯時自嘲",
-          "variations": [
-            "也可以接：「成效如何？」「目前看得很準，一個都沒漏掉。」"
-          ]
-        },
-        "en": {
-          "content": "I'm on a really strict diet these days. It's called the see-food diet.\n\nI see food, and I eat it.",
-          "editorNote": "Good for self-deprecating laughs when someone asks why you gained weight",
-          "variations": [
-            "Add: \"How's it going?\" \"My eyesight's never been better — I haven't missed a single plate.\""
-          ]
-        }
-      }
-    },
-    {
       "id": "cj-248",
       "dateAdded": "2026-06-19",
       "sourceUrl": "https://www.ducksters.com/jokes/animals.php",
@@ -9651,6 +9625,136 @@
           "editorNote": "Tell this to engineer friends who pull constant overtime — guaranteed tired smile",
           "variations": [
             "Follow up: 'The only downside is its websites are always full of bugs.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-370",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://punzelo.com/dad-jokes-2026/",
+      "sourceNote": "classic 'how do you throw a space party — you planet' pun, rewritten with a Mandarin 行星/行(可以) parallel",
+      "tags": [
+        "諧音",
+        "太空"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道怎麼在外太空辦派對嗎？」\n「不知道耶。」\n「你『行星』就好啦。」\n「⋯⋯行星？」\n「對啊，你說行就行（行星）。」",
+          "editorNote": "適合天文迷聚會或帶小孩看星星時破冰，講完記得自己先笑",
+          "variations": [
+            "也可以接：「那要準備什麼？當然是『星』球（氣球）啊。」"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know how to throw a party in outer space?\"\n\"No idea.\"\n\"You planet.\"\n\"...Planet?\"\n\"Yeah — you just plan-et ahead.\"",
+          "editorNote": "Great icebreaker for stargazing nights or with space-loving kids",
+          "variations": [
+            "Follow up: 'And what do you bring? Balloons, obviously — they're out of this world.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-371",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://natasha790708.pixnet.net/blog/posts/16037026664",
+      "sourceNote": "peanut = 花生/發生 homophone meme, rewritten into a fresh snack-gossip framing",
+      "tags": [
+        "諧音",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道哪種零食最愛湊熱鬧嗎？」\n「哪種？」\n「花生。」\n「為什麼？」\n「因為它一出現就到處問：『花生（發生）什麼事了？』」",
+          "editorNote": "同事間有八卦在流傳時丟這句，順便化解尷尬",
+          "variations": [
+            "也可以反問對方：「那你猜哪種零食最冷靜？瓜子，因為它只負責『嗑』瓜（吃瓜）看戲。」"
+          ]
+        },
+        "en": {
+          "content": "\"You know which snack is the biggest gossip?\"\n\"Which one?\"\n\"The peanut.\"\n\"Why?\"\n\"Because the second it shows up, it goes: 'So, what's the latest with you-nut?'\"",
+          "editorNote": "Drop this when office gossip is swirling to lighten the mood",
+          "variations": [
+            "Counter with: 'And the calmest snack? The sunflower seed — it just sits there cracking up.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-372",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://punzterly.com/dad-jokes-2026/",
+      "sourceNote": "modern remote-work / wearable-tech humor about a nagging smartwatch, original framing",
+      "tags": [
+        "科技",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我買了智慧手錶提醒我多運動。\n\n它每小時都很盡責地震動一下：「你還坐著。」\n\n後來我把它調成靜音了——\n\n現在我們兩個都很安靜地放棄了。",
+          "editorNote": "適合久坐辦公室、健身計畫每次都胎死腹中的朋友，講完一起苦笑",
+          "variations": [
+            "也可以補一句：「它最後一次提醒我運動，是提醒我『去把充電線拿過來』。」"
+          ]
+        },
+        "en": {
+          "content": "I bought a smartwatch to remind me to move.\n\nEvery hour it buzzes, very dutifully: \"Still sitting.\"\n\nSo I put it on silent.\n\nNow we're both just quietly giving up together.",
+          "editorNote": "For desk-bound friends whose fitness plans die on arrival",
+          "variations": [
+            "Add: 'Its last workout reminder was nudging me to get up and grab its charger.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-373",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://punsfuns.com/dad-jokes-2026/",
+      "sourceNote": "classic 'fake spaghetti = an impasta' pun for en; zh rewritten as a parallel pretend-food pun",
+      "tags": [
+        "諧音",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道最會裝的麵是哪一種嗎？」\n「哪種？」\n「義大利麵。」\n「為什麼？」\n「因為它整天在那邊裝（義）大利，其實只是根麵。」",
+          "editorNote": "西餐廳等上菜時的空檔梗，冷度剛好蓋過飢餓",
+          "variations": [
+            "也可以接：「那最誠實的麵呢？陽春麵，它從不假裝自己有料。」"
+          ]
+        },
+        "en": {
+          "content": "\"What do you call fake spaghetti?\"\n\"No clue.\"\n\"An impasta.\"\n\"...Seriously?\"\n\"Yeah, it's been posing as pasta this whole time.\"",
+          "editorNote": "Perfect for the wait before food arrives at an Italian place",
+          "variations": [
+            "Follow up: 'And the honest noodle? Plain ramen — it never pretends to be more than it is.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-374",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://punscollege.com/groaner-dad-jokes/",
+      "sourceNote": "warm 'appliance with feelings' comfort-joke about a washing machine, original",
+      "tags": [
+        "家電",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道洗衣機為什麼這麼堅強嗎？」\n「為什麼？」\n「因為它再怎麼難過，最後也只會『脫水』，然後把自己甩乾，繼續過日子。」",
+          "editorNote": "朋友心情低落時講，冷歸冷，其實是想偷偷抱一下對方",
+          "variations": [
+            "也可以補一句：「而且它每轉一圈，都在提醒你——把不開心的都甩出去就好。」"
+          ]
+        },
+        "en": {
+          "content": "\"You know why the washing machine is so tough?\"\n\"Why?\"\n\"Because no matter how rough things get, it just spins it all out, wrings itself dry, and carries on.\"",
+          "editorNote": "For a friend who's feeling low — corny on the surface, a quiet hug underneath",
+          "variations": [
+            "Add: 'And every spin is a little reminder — just fling the bad stuff out and keep going.'"
           ]
         }
       }

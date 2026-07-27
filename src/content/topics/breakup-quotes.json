@@ -5254,36 +5254,6 @@
       }
     },
     {
-      "id": "bq-177",
-      "dateAdded": "2026-06-24",
-      "sourceUrl": "https://www.positivityblog.com/breakup-quotes/",
-      "sourceNote": "Inspired by 'you are not half of anything; you are whole, complete, and enough by yourself'; rewritten to address the post-breakup feeling of being incomplete",
-      "tags": [
-        "失戀",
-        "自我價值",
-        "振作",
-        "戀愛"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "你不是少了一半，你本來就是完整的。\n他離開帶走的是他自己，不是你的一部分。",
-          "editorNote": "適合給分手後覺得「自己好像不完整了」的人。提醒對方：你從來就不是靠誰才成立的。",
-          "variations": [
-            "他走了，你還是整個你，一點都沒缺。",
-            "你不是被拿走一塊，是終於把空間還給自己。"
-          ]
-        },
-        "en": {
-          "content": "You were never half of anything. You were always whole.\nWhat left with them was them — not a piece of you.",
-          "editorNote": "For someone who feels 'incomplete' after a breakup. Reminds them they were never dependent on anyone to be a full person.",
-          "variations": [
-            "They're gone and you're still all of you — nothing missing.",
-            "Nothing was taken from you. You just got your space back."
-          ]
-        }
-      }
-    },
-    {
       "id": "bq-178",
       "dateAdded": "2026-06-24",
       "sourceUrl": "https://www.positivityblog.com/breakup-quotes/",
@@ -8479,6 +8449,126 @@
           "variations": [
             "Relationship status: happily committed to the me who finally decided to take care of myself.",
             "I used to save my best for everyone else. Now I save it for me — least heartbreak I've ever had in a relationship."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-286",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://blessoverse.com/end-of-relationship-quotes/",
+      "sourceNote": "Inspired by the 'you write your own closure / a breakup is a chapter break not the final page' theme; rewritten around waiting for an explanation that never comes",
+      "tags": [
+        "失戀",
+        "釋懷",
+        "放下",
+        "戀愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你一直在等他給你一個交代，\n可是有些人連再見都說得隨便，\n又怎麼會認真幫你把話講清楚。\n那個交代，只能你自己寫給自己。",
+          "editorNote": "傳給那個還在等前任「解釋清楚」才肯往前走的朋友。等一個不會來的道歉，只是把離開的權利一直交在對方手上。",
+          "variations": [
+            "你要的那句對不起，可能永遠不會來——但你可以不用等它，也能好起來。",
+            "結束不需要對方簽名同意，你決定放下的那一刻就生效了。"
+          ]
+        },
+        "en": {
+          "content": "You keep waiting for them to explain,\nto hand you a real reason.\nBut someone who couldn't even say a proper goodbye\nwas never going to give you closure.\nThat part? You write it yourself.",
+          "editorNote": "For the friend still waiting on their ex to 'explain everything' before they'll move forward. Waiting for an apology that isn't coming just leaves the exit door in someone else's hand.",
+          "variations": [
+            "The sorry you're owed might never come — and you can heal without it anyway.",
+            "Closure doesn't need their signature. It takes effect the moment you decide to let go."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-287",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.tiktok.com/discover/quotes-about-self-love-after-breakup",
+      "sourceNote": "Original writing on the universal post-breakup habit of checking the Instagram story viewer list; framed as a signal of when you've actually moved on",
+      "tags": [
+        "失戀",
+        "釋懷",
+        "社群",
+        "戀愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "限時動態發出去的那一刻，\n你其實只想確認一件事——\n他有沒有點進來看。\n等你哪天發完根本忘了去查名單，\n那才是真的走出來了。",
+          "editorNote": "傳給那個發限動前會先想「他會不會看到」的朋友。療癒的終點不是他消失，是你終於懶得在乎他有沒有在看。",
+          "variations": [
+            "以前發限動是想給他看，現在發限動是因為我自己開心。",
+            "真正放下的訊號：他的名字出現在觀看清單裡，你只是滑過去，心跳沒有漏一拍。"
+          ]
+        },
+        "en": {
+          "content": "The second you post the story,\nyou're really only checking one thing —\nwhether their name shows up in the viewers.\nThe day you post one and forget to even look?\nThat's when you know you're actually free.",
+          "editorNote": "For the friend who still wonders 'will they see this?' before posting. The finish line isn't them disappearing — it's you no longer caring whether they're watching.",
+          "variations": [
+            "I used to post for them to see. Now I post because I'm the one having a good time.",
+            "Real closure: their name is in the viewer list and you just keep scrolling, heart rate unchanged."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-288",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.popai.pro/resources/healing-after-breakup-60-inspirational-quotes-to-rediscover-yourself/",
+      "sourceNote": "Inspired by the 'rediscover yourself after a breakup' theme; rewritten around reclaiming specific hobbies and friends dropped during the relationship",
+      "tags": [
+        "失戀",
+        "自愛",
+        "重新開始",
+        "戀愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "分手後我把那些「因為他不喜歡」而放掉的事，\n一件一件撿回來——\n重聽的樂團、丟到一半的畫、\n連約都約不出來的那群老朋友。\n原來我不是失去了誰，\n是把自己找回來了。",
+          "editorNote": "傳給那個在感情裡慢慢把自己刪掉的朋友。有時候分手不是失去，是把你為了配合對方而收起來的那個版本，重新打開。",
+          "variations": [
+            "清單上那些「他覺得無聊」的興趣，現在全部變回我的了。",
+            "談戀愛的時候我活成他的形狀，分手後我才想起自己本來長什麼樣子。"
+          ]
+        },
+        "en": {
+          "content": "After the breakup I started picking back up\nall the things I'd dropped because 'they weren't into it' —\nthe band I stopped listening to, the half-finished painting,\nthe old friends I could never seem to make time for.\nTurns out I didn't lose someone.\nI got myself back.",
+          "editorNote": "For the friend who slowly edited themselves down to fit a relationship. Sometimes a breakup isn't losing something — it's reopening the version of you that you tucked away to match someone else.",
+          "variations": [
+            "All the hobbies they found 'boring' are mine again now.",
+            "In the relationship I became their shape. After it ended I finally remembered my own."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-289",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://vocal.media/bookclub/rediscovering-yourself-30-self-love-quotes-after-a-breakup",
+      "sourceNote": "Original writing on the 'best friend who's heard the breakup story a hundred times' support figure; lighter, funnier tone about leaning on friends",
+      "tags": [
+        "失戀",
+        "朋友",
+        "療傷",
+        "戀愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "謝謝我那個聽前任的事聽到會背的閨蜜。\n同一個故事講到第三十遍，\n她還是說「他真的很爛」。\n有時候療傷不需要什麼大道理，\n只需要一個永遠站在你這邊的人。",
+          "editorNote": "傳給那個被你當樹洞當到快脫水的好朋友，當作一句遲來的謝謝。失戀時最需要的不是分析，是有人陪你把同一句話再罵一次。",
+          "variations": [
+            "能把同一段感情陪你重複罵一百遍還不嫌煩的人，請一定要留在身邊。",
+            "他負責讓我心碎，我朋友負責陪我把它罵完——分工很明確。"
+          ]
+        },
+        "en": {
+          "content": "Shout-out to the best friend who's heard about my ex\nso many times she could recite it.\nThirtieth time telling the same story,\nand she still goes, 'yeah, he was the worst.'\nSometimes healing isn't deep advice —\nit's one person who's always, unconditionally, on your side.",
+          "editorNote": "Send this to the friend you've cried to until they're basically dehydrated — as an overdue thank-you. After a breakup you don't need analysis, you need someone to trash-talk your ex with you one more time.",
+          "variations": [
+            "Anyone who'll listen to the same breakup story a hundred times and not get bored — keep them forever.",
+            "He handled the heartbreak, my friends handled the group therapy. Clear division of labor."
           ]
         }
       }

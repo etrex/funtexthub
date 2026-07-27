@@ -6009,6 +6009,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-202",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://k.sina.com.cn/article_7880068968_1d5b04f6806801bmkk.html",
+      "sourceNote": "26 度其實是商場寫字樓的公共節能標準，非住家標準；改寫原創",
+      "tags": [
+        "冷氣",
+        "26度",
+        "迷思",
+        "省電"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "後來我才知道，冷氣「設 26 度最省電」這句話，\n本來是給商場、辦公大樓那種公共空間訂的節能標準。\n問題是——\n我家不是商場，我也不是來上班的，\n我只是想在自己家，涼得有尊嚴一點。",
+          "editorNote": "傳給那個被『26 度神話』綁架、熱到睡不著還不敢調低的室友",
+          "variations": [
+            "26 度是寫字樓的規矩，不是你家的家規。你在自己家，溫度你說了算。",
+            "別人叫你守 26 度的時候，記得問一句：那是你要繳電費，還是我要繳？"
+          ]
+        },
+        "en": {
+          "content": "Turns out '26°C is the most efficient setting' was originally\na public-energy guideline written for malls and office towers.\nProblem is —\nmy home isn't a mall, and I'm not clocking in for a shift.\nI just want to be cool with a little dignity, in my own house.",
+          "editorNote": "For the roommate held hostage by the '26 degrees' myth, sweating through the night, afraid to touch the dial",
+          "variations": [
+            "26°C is an office-tower rule, not your house rule. In your own home, you set the temperature.",
+            "When someone tells you to hold 26, ask them one thing: are you paying this bill, or am I?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-203",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260604000125-260405",
+      "sourceNote": "2026 夏季電價漲幅史上最高、最高級距約 26%；與冷氣 26 度做雙關；改寫原創",
+      "tags": [
+        "夏月電價",
+        "史上最貴",
+        "26度",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年夏天，我的人生被兩個「26」夾殺。\n一個是台電說最省電的冷氣 26 度，\n一個是新聞說史上最高的電價漲幅 26%。\n我照著第一個 26 乖乖設定，\n還是躲不過第二個 26 的追殺。",
+          "editorNote": "貼在冷氣遙控器旁邊，給每個乖乖守 26 度卻還是被帳單背刺的人",
+          "variations": [
+            "設 26 度救得了電量，救不了漲幅——這兩個 26，一個要我忍，一個要我痛。",
+            "我以為守住 26 度就沒事了，結果另一個 26 從帳單後面繞過來偷襲。"
+          ]
+        },
+        "en": {
+          "content": "This summer, my life got squeezed between two '26's.\nOne is the AC set to 26°C — the 'most efficient' number.\nThe other is the rate hike: a record-high 26%.\nI obeyed the first 26 to the letter,\nand still couldn't outrun the second one.",
+          "editorNote": "Stick it by the remote — for everyone who held the line at 26 degrees and got backstabbed by the bill anyway",
+          "variations": [
+            "Setting 26 saves your usage, not the hike. Two 26s: one asks you to endure, the other makes you hurt.",
+            "I thought holding 26 degrees would keep me safe. The other 26 snuck around the back of the bill."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-204",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "一般家庭夏天電費比平常月多約 400-500 元；改寫原創",
+      "tags": [
+        "電費",
+        "帳單",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "報導說，夏天一般家庭電費會比平常月多個四五百塊。\n四五百，聽起來好像還好。\n但那是每個月，一路多到九月底，\n而且是我用汗水、失眠跟一整季的忍耐，親手換來的「優惠價」。",
+          "editorNote": "傳給那個安慰你『才多四五百而已』的人，讓他看看這四五百的重量",
+          "variations": [
+            "四五百不是多，是一張我每個月都要重簽一次的隱形合約。",
+            "別人的四五百是一頓飯，我的四五百是整個夏天的贖身費。"
+          ]
+        },
+        "en": {
+          "content": "The report says a typical household pays about 400 to 500 more each summer month.\nFour or five hundred — sounds manageable, right?\nExcept it's every month, all the way to the end of September,\nand it's the 'discount price' I paid in sweat, insomnia, and a whole season of holding back.",
+          "editorNote": "Send to the person who comforts you with 'it's only a few hundred more' — show them what those few hundred weigh",
+          "variations": [
+            "It's not just a few hundred extra. It's an invisible contract I re-sign every single month.",
+            "For other people, five hundred is a nice dinner. For me, it's the ransom for surviving summer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-205",
+      "dateAdded": "2026-07-27",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "累進電價與時間無關的迷思、網路上人人爭論冷氣溫度；改寫原創",
+      "tags": [
+        "冷氣",
+        "網路論戰",
+        "省電",
+        "迷思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天一到，網路上就會多出一種人：冷氣溫度專家。\n有人堅持 26 度，有人力推 28 度，還有人半夜跳出來說『要開整晚才省』。\n吵了三千樓，結論只有一個——\n每個人都很會省別人家的電。",
+          "editorNote": "貼在那種每年都會為了冷氣幾度吵翻天的家族群組或論壇串",
+          "variations": [
+            "網路上省電高手很多，可惜他們省的都不是自己家的帳單。",
+            "冷氣溫度的戰爭，唯一的贏家是那台默默轉著的壓縮機。"
+          ]
+        },
+        "en": {
+          "content": "Every summer, the internet grows a new species: the AC temperature expert.\nOne swears by 26, another pushes 28, and someone always shows up at midnight insisting 'leave it on all night to save.'\nThree thousand replies later, there's only one conclusion —\neveryone's an expert at saving someone else's electricity.",
+          "editorNote": "Drop it into the family group chat or forum thread that erupts over AC temperature every single year",
+          "variations": [
+            "The internet is full of energy-saving geniuses. Shame none of them are saving their own bill.",
+            "In the war over AC temperature, the only winner is the compressor quietly spinning in the corner."
+          ]
+        }
+      }
     }
   ]
 }
