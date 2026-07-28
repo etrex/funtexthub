@@ -3611,6 +3611,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-121",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%A4%A7%E5%AD%B8%E7%94%9F",
+      "sourceNote": "隨堂突襲小考 共感改寫",
+      "tags": [
+        "隨堂考",
+        "上課",
+        "崩潰",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "教授笑著說「我們來個小測驗」的那一刻，\n整間教室的空氣，瞬間比冷氣還冷。",
+          "editorNote": "被突襲隨堂考殺得措手不及時發文，翹過那堂的同學會邊笑邊發抖。",
+          "variations": [
+            "也能換成：「隨堂考最可怕的地方，是它專挑我剛好翹掉那堂的進度考。」",
+            "進階版：「老師發下考卷那一秒，我認真思考的不是答案，是我為什麼會來上課。」"
+          ]
+        },
+        "en": {
+          "content": "The second the professor smiles and says \"let's have a quick quiz,\"\nthe air in the whole room turns colder than the AC.",
+          "editorNote": "Post it when a surprise pop quiz catches you off guard — anyone who skipped that exact lecture will laugh and shiver at once.",
+          "variations": [
+            "Swap in: \"The scariest thing about a pop quiz is that it always covers the one lecture I skipped.\"",
+            "Harder mode: \"The moment the quiz lands on my desk, I'm not thinking about the answers — I'm wondering why I even came to class.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-122",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.dcard.tw/topics/%E7%BF%B9%E8%AA%B2",
+      "sourceNote": "缺課上限被扣考 register 改寫",
+      "tags": [
+        "翹課",
+        "缺課",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這學期我最認真計算的一門課，\n不是它的學分，是我還剩幾次可以翹、翹到第幾次會被扣考。",
+          "editorNote": "把缺課次數當額度精算的翹課常客最有感，接近上限時發文一票人默默對號入座。",
+          "variations": [
+            "也能換成：「別人在算 GPA，我在算我的翹課額度還夠不夠撐到期末。」",
+            "進階版：「我對這堂課唯一的敬畏，是那條『缺課三次就扣考』的紅線。」"
+          ]
+        },
+        "en": {
+          "content": "The thing I calculate most carefully this semester\nisn't the course's credits — it's how many more times I can skip before I get barred from the final.",
+          "editorNote": "Hits hardest for the regular skipper who treats absences like a budget — post it near the limit and a whole crowd will quietly relate.",
+          "variations": [
+            "Swap in: \"Other people are calculating their GPA; I'm calculating whether my skip budget lasts till finals.\"",
+            "Harder mode: \"The only thing I respect about this class is the red line that says 'three absences and you're barred from the exam.'\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-123",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://snugfam.com/150-best-quotes-for-students-funny-enough-to-make-you-laugh-through-finals-week/",
+      "sourceNote": "圖書館借書逾期罰款 共感改寫",
+      "tags": [
+        "圖書館",
+        "逾期",
+        "窮",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我從圖書館借了一本書，打算好好充實自己，\n三個月後它教會我的唯一一件事，是逾期一天要罰多少錢。",
+          "editorNote": "借了書沒讀、逾期繳罰款時發文，總是把還書日拖到最後的同學都懂。",
+          "variations": [
+            "也能換成：「這本書我一頁沒翻，卻靠它繳的罰款，順利贊助了圖書館的營運。」",
+            "進階版：「我跟這本書的關係很純粹：它躺在我書桌，我付它的租金。」"
+          ]
+        },
+        "en": {
+          "content": "I borrowed a book from the library, fully planning to better myself,\nand three months later the only thing it taught me was the daily overdue fine.",
+          "editorNote": "Post it when you never opened the book and paid the late fee instead — anyone who drags the return date to the bitter end knows this.",
+          "variations": [
+            "Swap in: \"I never turned a single page, but the fine I paid on it generously funded the library's operations.\"",
+            "Harder mode: \"My relationship with this book is pure: it lies on my desk, and I pay its rent.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-124",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.slideshare.net/ccckmit/ss-67436152",
+      "sourceNote": "畢業專題進度焦慮 共感改寫",
+      "tags": [
+        "專題",
+        "報告",
+        "拖延",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "指導老師問我畢業專題的進度，\n我很有自信地回答：題目已經想到第七個版本了。",
+          "editorNote": "專題卡在改題目、遲遲沒動工時發文，跑過 meeting 被電的同組戰友都懂。",
+          "variations": [
+            "也能換成：「我的專題目前最完整的部分，是封面跟組員名單。」",
+            "進階版：「別人的專題已經在跑實驗，我的專題還在跟我談要不要開始。」"
+          ]
+        },
+        "en": {
+          "content": "My advisor asked how my capstone project is coming along,\nand I confidently replied: I've already brainstormed the topic to its seventh version.",
+          "editorNote": "Post it when your project is stuck on rewording the title with zero real progress — teammates who got grilled in the same meeting will feel it.",
+          "variations": [
+            "Swap in: \"The most complete part of my project so far is the cover page and the list of group members.\"",
+            "Harder mode: \"Other people's projects are already running experiments; mine is still negotiating with me about whether to begin.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-125",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.lovetoknow.com/quotes-quips/daily-life/funny-quotes-college-students",
+      "sourceNote": "考完對答案崩潰 共感改寫",
+      "tags": [
+        "考試",
+        "成績",
+        "崩潰",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完試最刺激的環節，不是考試本身，\n是走出教室後大家開始對答案，然後我一題一題安靜地陣亡。",
+          "editorNote": "考完在走廊對答案、越對越絕望時發文，考完才知道自己全錯的同學都懂。",
+          "variations": [
+            "也能換成：「對答案這件事，就是花五分鐘親手確認我這科掰了。」",
+            "進階版：「我考完本來心情還不錯，直到有人開口問『第三題你選什麼』。」"
+          ]
+        },
+        "en": {
+          "content": "The most thrilling part of an exam isn't the exam itself,\nit's walking out and everyone starts comparing answers while I quietly die one question at a time.",
+          "editorNote": "Post it when comparing answers in the hallway only sinks your heart lower — anyone who learns they bombed it right after the exam gets this.",
+          "variations": [
+            "Swap in: \"Comparing answers is just spending five minutes personally confirming that I flunked this one.\"",
+            "Harder mode: \"I actually felt fine after the exam, until someone asked, 'hey, what'd you put for number three?'\""
+          ]
+        }
+      }
     }
   ]
 }

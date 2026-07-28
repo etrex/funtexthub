@@ -8181,6 +8181,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-283",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://twistedsifter.com/2026/04/retail-worker-tries-to-help-a-customer-while-her-child-keeps-handling-store-items-but-he-tells-her-to-leave-after-the-child-throws-a-405-product/",
+      "sourceNote": "Inspired by TwistedSifter retail stories about kids destroying merchandise while parents claim the item was 'already defective'; rewritten into a zh-tw counter scene",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "尊嚴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你們這個本來就壞的吧？」\n是您小孩剛剛拿起來、\n砸在地上、再踩兩腳的那個。\n先生，商品不會通靈，\n它不會自己知道要在您進門前就壞掉。",
+          "editorNote": "傳給那種「小孩在店裡橫衝直撞、家長全程滑手機」的同業。孩子弄壞不可怕，可怕的是家長把「我沒看到」練成一句免責咒語。",
+          "variations": [
+            "您說「本來就壞」，那是壞在您小孩的手上，還是壞在您裝沒看到的那雙眼睛裡。",
+            "商品可以賠，我今天彎腰撿碎片的膝蓋，帳單上沒有那一欄。"
+          ]
+        },
+        "en": {
+          "content": "\"This was already broken, right?\"\nIt's the one your kid grabbed,\nslammed on the floor, then stomped on twice.\nSir, merchandise isn't psychic —\nit doesn't know to break itself before you walk in.",
+          "editorNote": "For the coworker whose store turns into a demolition derby while the parent scrolls their phone. Kids breaking things isn't the crime — it's the parent who's trained \"I didn't see it\" into a get-out-of-jail spell.",
+          "variations": [
+            "You say \"already broken.\" Broken in your kid's hands, or broken in the eyes you kept pointed at your phone?",
+            "The product I can write off. The knees I bent to sweep up the pieces don't get a line on anyone's invoice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-284",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.dcard.tw/topics/%E6%AE%BA%E5%83%B9",
+      "sourceNote": "Dcard 殺價 topic — customers haggling inside fixed-price stores is a recurring frontline complaint; rewritten fresh",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個算我便宜一點啦。」\n「不好意思，我們是定價的。」\n「你就少賺一點會怎樣？」\n先生，這裡不是夜市，\n牌子上那個數字不是開場價，\n是句號。",
+          "editorNote": "傳給在「明碼標價」的店裡還天天被凹折扣的夥伴。殺價的人不是缺那幾十塊，是想確認你會不會為了成交，把自尊也一起打折。",
+          "variations": [
+            "我沒有把價格改低的權限，我只有微笑著把原價再講一次的權限。",
+            "「少賺一點」聽起來很輕鬆，那是因為要少的不是您的薪水。"
+          ]
+        },
+        "en": {
+          "content": "\"Come on, cut me a little deal.\"\n\"Sorry, our prices are fixed.\"\n\"What's it gonna hurt to make a little less?\"\nSir, this isn't a night market —\nthat number on the tag isn't an opening bid,\nit's a period.",
+          "editorNote": "For anyone haggled at daily inside a store with the price printed right there. Hagglers aren't short the few bucks — they're testing whether you'll mark down your own dignity to close the sale.",
+          "variations": [
+            "I don't have the authority to lower the price. I only have the authority to smile and say it again.",
+            "\"Make a little less\" sounds easy — because the \"less\" isn't coming out of your paycheck."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-285",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://twistedsifter.com/2025/08/a-customer-came-in-to-return-an-item-that-his-kids-broke-trying-to-claim-it-was-defective-because-of-the-coloring-but-this-retail-worker-shut-him-down/",
+      "sourceNote": "Inspired by retail wear-and-return stories (worn once, insists 'brand new'); rewritten as an apparel-counter scene distinct from svc-003",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "尊嚴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這件我要退。」\n標籤被塞回領口，\n袖口有藏不住的一整晚，\n還帶著昨天那場聚餐的味道。\n「全新的喔，沒穿過。」\n小姐，衣服不會說謊，\n是您以為我不會看。",
+          "editorNote": "傳給收過「穿一次就來退、還堅稱全新」的門市朋友。難的從來不是判斷有沒有穿過，是要用最客氣的語氣，戳破對方以為天衣無縫的那個謊。",
+          "variations": [
+            "「沒穿過」三個字，被袖口那圈痕跡當場拆穿。",
+            "退貨政策保障的是您後悔的權利，不是您把我當瞎子的權利。"
+          ]
+        },
+        "en": {
+          "content": "\"I'd like to return this.\"\nTag tucked back into the collar,\none whole evening soaked into the cuffs,\nstill carrying last night's dinner.\n\"Brand new, never worn.\"\nMa'am, the clothes don't lie —\nyou just assumed I wouldn't look.",
+          "editorNote": "For the shop worker who's taken back a \"never worn\" item that's clearly been worn once. The hard part isn't spotting the wear — it's puncturing a lie the customer thought was seamless, in your most polite voice.",
+          "variations": [
+            "\"Never worn\" — undone on the spot by the ring worn into the cuff.",
+            "The return policy protects your right to change your mind, not your right to treat me as blind."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-286",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/259665217",
+      "sourceNote": "Dcard 服務業甘苦談 — being treated as the block's free info desk (directions, recommendations) is a common frontline gripe; rewritten fresh",
+      "tags": [
+        "服務業",
+        "零售",
+        "厭世",
+        "工作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「小姐，前面那家藥局怎麼走？」\n「捷運出口在哪？」\n「附近有沒有好吃的？」\n我這個櫃檯，\n默默兼了觀光服務中心、\nGoogle 地圖，還有美食評論家，\n薪水卻只有一份，\n還是最基本的那一份。",
+          "editorNote": "傳給店門口天天被當成「人肉導覽機」的夥伴。回答一句沒什麼，累的是那句「謝謝」常常被省略，人就走了，好像你本來就內建在這條街上。",
+          "variations": [
+            "我知道整條街怎麼走，唯獨不知道我的休息時間什麼時候才能開始。",
+            "免費問路、免費推薦、免費指路——這條街最佛心的服務台，時薪裡沒有這幾項。"
+          ]
+        },
+        "en": {
+          "content": "\"Miss, how do I get to the pharmacy up the street?\"\n\"Where's the subway exit?\"\n\"Anywhere good to eat around here?\"\nThis counter of mine\nquietly moonlights as a tourist info booth,\nGoogle Maps, and a food critic —\nfor one paycheck,\nthe entry-level one.",
+          "editorNote": "For the worker treated as the block's human information kiosk. Answering is no big deal — what wears you down is the \"thanks\" that usually gets skipped as they walk off, like you came pre-installed on this street.",
+          "variations": [
+            "I know how to get everywhere on this street — except to the start of my own break.",
+            "Free directions, free recs, free wayfinding — the most generous info desk on the block, and none of it's in my wage."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-287",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%A5%A7%E5%AE%A2",
+      "sourceNote": "Dcard 奧客 topic — the 'you recommend' then 'you gave me a bad rec' blame-shift is a common food-service scenario; rewritten fresh",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "奧客",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你們哪個最好吃？」\n「這個滿多人回購的。」\n（吃一口）\n「還好而已啊，你亂推薦。」\n先生，我推的是大家的口味，\n不是您的舌頭，\n下次麻煩把「我不喜歡」\n翻譯成「我不喜歡」，\n不要翻成「你的錯」。",
+          "editorNote": "傳給每天被「你推薦一下」拱上台、結果不合胃口就被回收檢討的夥伴。推薦是好意借給你的，不是拿來當事後究責的靶。",
+          "variations": [
+            "您要我推薦，又要我保證您一定喜歡，這兩件事我只能做到一半，而且是免費的那一半。",
+            "「你亂推薦」的意思，常常是「我不想承認是我自己選的」。"
+          ]
+        },
+        "en": {
+          "content": "\"Which one's your best?\"\n\"This one gets a lot of repeat orders.\"\n(one bite)\n\"It's just okay — you gave me a bad rec.\"\nSir, I recommended the crowd's taste,\nnot your tongue.\nNext time please translate \"I don't like it\"\nas \"I don't like it,\"\nnot as \"your fault.\"",
+          "editorNote": "For the coworker pushed onstage with \"just recommend something,\" then blamed when it doesn't hit. A recommendation is a favor lent to you, not a target for after-the-fact blame.",
+          "variations": [
+            "You want a recommendation AND a guarantee you'll love it — I can only do half of that, and it's the free half.",
+            "\"You gave me a bad rec\" usually means \"I don't want to admit I'm the one who chose.\""
+          ]
+        }
+      }
     }
   ]
 }

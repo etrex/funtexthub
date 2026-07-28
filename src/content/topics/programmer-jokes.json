@@ -10619,6 +10619,159 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-370",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "2026 meme — job postings demanding years of experience in newly released AI frameworks",
+      "tags": [
+        "面試",
+        "職場",
+        "AI",
+        "2026",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2026 年的職缺要求：\n「需具備五年以上該 AI 框架實戰經驗。」\n我查了一下，那個框架半年前才發布。\n我禮貌地回信問：「請問是我要發明時光機，還是您？」",
+          "editorNote": "傳給正在找工作、被荒謬 JD 折磨的朋友，讓他知道不是他不夠強，是需求本身就沒在跟你講道理。",
+          "variations": [
+            "升級版：JD 最後一行寫『加分項：曾親手從零打造一套 LLM』，我默默把履歷關掉。",
+            "也可以收尾成：『這不是徵人，這是徵一個能穿越時空的通靈者。』"
+          ]
+        },
+        "en": {
+          "content": "A 2026 job posting: \"Must have 5+ years of hands-on experience with this AI framework.\"\nI looked it up — the framework launched six months ago.\nSo I replied politely: \"Quick question — do I build the time machine, or do you?\"",
+          "editorNote": "Send this to any friend job-hunting through absurd JDs — it's not that they're underqualified, the requirements just gave up on making sense.",
+          "variations": [
+            "Bonus round: the last line of the JD said 'nice to have: built your own LLM from scratch.' I quietly closed the tab.",
+            "End it with: 'This isn't a hiring post, it's a casting call for a time traveler.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-371",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.codeitbro.com/blog/vibe-coding-memes",
+      "sourceNote": "Classic 'works on my machine' reframed for the container/AI era",
+      "tags": [
+        "工程師日常",
+        "甩鍋",
+        "production",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試工程師：「這功能在正式環境會壞。」\n我：「可是在我的電腦上跑得好好的啊。」\n測試工程師：「那我們總不能把你的電腦裝箱寄給客戶吧。」\n我：「⋯⋯所以 Docker 才會被發明。」",
+          "editorNote": "『在我電腦上是好的』是工程師最後的尊嚴，也是甩鍋的最高境界，傳給你那個永遠復現不了 bug 的同事。",
+          "variations": [
+            "延伸版：後來我們真的把我的電腦環境『裝箱』了，只是那個箱子叫 container。",
+            "也可以接：『問題不是你的電腦太特別，是正式環境太誠實。』"
+          ]
+        },
+        "en": {
+          "content": "QA: \"This feature breaks in production.\"\nMe: \"But it runs perfectly on my machine.\"\nQA: \"We can't exactly box up your laptop and ship it to the customer.\"\nMe: \"...and that, my friend, is why Docker was invented.\"",
+          "editorNote": "'Works on my machine' is a developer's last shred of dignity and the peak of blame-shifting — send it to the coworker whose bugs you can never reproduce.",
+          "variations": [
+            "Extension: eventually we did box up my machine's environment — we just called the box a container.",
+            "Follow-up: 'The problem isn't that your machine is special, it's that production is honest.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-372",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://carlanotarobot.medium.com/ultimate-list-of-programmer-jokes-puns-and-other-funnies-75264f29baa3",
+      "sourceNote": "Variable naming hell — final, final2, really_final progression",
+      "tags": [
+        "程式碼品質",
+        "工程師日常",
+        "命名",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工程師最難的兩件事：快取失效、命名，還有 off-by-one error。\n證據就在我的資料夾裡：\nreport_final、report_final2、report_final_真的最後、report_final_這次真的、report_final_不要再改了。\n最後上線用的，是 report_v3_copy。",
+          "editorNote": "傳給任何一個桌面上躺著五個『最終版』的人，命名是工程界永遠解不開的哲學題。",
+          "variations": [
+            "延伸：專案裡最誠實的檔名是 temp，因為它從第一天躺到專案結案。",
+            "也可以接：『變數叫 data 的那一刻，我就知道這段程式碼沒救了。』"
+          ]
+        },
+        "en": {
+          "content": "The two hardest things in programming: cache invalidation, naming things, and off-by-one errors.\nExhibit A, straight from my folder:\nreport_final, report_final2, report_final_forreal, report_final_thistime, report_final_stop_editing.\nThe version that actually shipped? report_v3_copy.",
+          "editorNote": "Send this to anyone with five 'final' versions on their desktop — naming is the one philosophy problem software will never solve.",
+          "variations": [
+            "Extension: the most honest filename in any project is 'temp' — it survives from day one to launch day.",
+            "Follow-up: 'The moment you name a variable `data`, you already know this code is beyond saving.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-373",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://insidetech101.substack.com/p/vibe-coding-agent-coding",
+      "sourceNote": "2026 — developers who forget how to code when the AI agent goes down",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "工程師日常",
+        "2026",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天 AI 助手掛了兩個小時，整間辦公室鴉雀無聲。\n有人盯著空白的編輯器，像是第一次見到程式碼。\n有人小聲問：「那個⋯⋯以前沒有 AI 的時候，你們是怎麼寫程式的？」\n資深工程師淡淡回了一句：「用腦。」\n全場沉默。",
+          "editorNote": "傳給那群『不會寫、只會問』的新世代同事，也傳給偷偷慶幸自己還記得怎麼查文件的老鳥。",
+          "variations": [
+            "延伸：AI 一復活，全辦公室歡呼的音量，比發薪水那天還大聲。",
+            "也可以接：『我們這一代學會了怎麼下 prompt，卻忘了怎麼 debug 自己。』"
+          ]
+        },
+        "en": {
+          "content": "The AI assistant went down for two hours today, and the whole office fell dead silent.\nSomeone stared at a blank editor like they were seeing code for the first time.\nSomeone whispered: \"So... back before AI, how did you people actually write code?\"\nThe senior engineer said flatly: \"With our brains.\"\nSilence.",
+          "editorNote": "For the new-gen coworkers who can prompt but not program — and for the veterans quietly relieved they still remember how to read the docs.",
+          "variations": [
+            "Extension: when the AI came back online, the office cheered louder than on payday.",
+            "Follow-up: 'Our generation learned how to write prompts, but forgot how to debug ourselves.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-374",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-agents",
+      "sourceNote": "Vibe coding — dumping the whole codebase into an AI and praying",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "工程師思維",
+        "2026",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "現代軟體工程的最高境界：\n把整包程式碼丟給 AI，然後閉上眼睛禱告。\n它跑起來了，我不知道為什麼。\n它壞掉了，我也不知道為什麼。\n我唯一確定的是——這份工作，我還做得下去。",
+          "editorNote": "傳給每個 vibe coding 到深夜、對著綠色勾勾說不出所以然的工程師，能動就是一種恩典。",
+          "variations": [
+            "延伸：以前是『不知道為什麼會動，先別碰』，現在是『不知道 AI 做了什麼，先別問』。",
+            "也可以接：『我不是在寫程式，我是在跟一個看不見的東西談判。』"
+          ]
+        },
+        "en": {
+          "content": "The pinnacle of modern software engineering:\ndump the entire codebase into an AI, then close your eyes and pray.\nIt works — I don't know why.\nIt breaks — I don't know why either.\nThe only thing I'm certain of is that I still, somehow, have a job.",
+          "editorNote": "For every developer vibe-coding past midnight, staring at a green checkmark they can't explain. If it runs, that's grace.",
+          "variations": [
+            "Extension: it used to be 'don't know why it works, don't touch it.' Now it's 'don't know what the AI did, don't ask.'",
+            "Follow-up: 'I'm not writing code anymore — I'm negotiating with something I can't see.'"
+          ]
+        }
+      }
     }
   ]
 }

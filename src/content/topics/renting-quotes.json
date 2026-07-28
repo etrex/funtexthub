@@ -7590,6 +7590,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-261",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.lawpanda.tw/blog/?p=3013",
+      "sourceNote": "landlord installing cameras aimed at tenant's door / 妨害秘密 privacy expectation; rewritten original",
+      "tags": [
+        "房東",
+        "隱私",
+        "監視器",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東在公共走道裝了監視器，說是為了大家安全。\n可是鏡頭剛好對著我家門，我幾點回家、提幾袋東西、帶誰回來，他比我媽還清楚。\n我付的是房租，不是報名費。",
+          "editorNote": "傳給發現房東把鏡頭對準自家門口的朋友，提醒他臥室、浴廁、房門口這種有合理隱私期待的地方被偷拍，可能構成妨害秘密，先拍照存證再談",
+          "variations": [
+            "房東說裝監視器讓我更安全，結果安全的好像是他，緊張的是我。",
+            "監視器對著公共出入口沒問題，對著我家門口就是另一回事了。"
+          ]
+        },
+        "en": {
+          "content": "The landlord put a camera in the hallway \"for everyone's safety.\"\nExcept it's aimed right at my door — what time I get home, how many bags I'm carrying, who I bring back. He knows more than my own mother.\nI'm paying rent, not an entry fee for a surveillance show.",
+          "editorNote": "For the friend who just noticed a camera pointed at their own door; a lens covering a bedroom, bathroom, or doorway where you have a reasonable expectation of privacy can cross a legal line — photograph it as evidence before you raise it",
+          "variations": [
+            "The landlord says the camera keeps me safer. Funny how he's the one who looks relaxed and I'm the one who feels watched.",
+            "A camera on the shared entrance is fine. A camera on my front door is a whole different conversation."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-262",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.youtube.com/watch?v=ZhGylkfcFOU",
+      "sourceNote": "roommate never washing dishes, sink permanently piled; rewritten original",
+      "tags": [
+        "室友",
+        "合租",
+        "廚房",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "合租的水槽，是我室友的當代藝術裝置。\n一個碗放三天叫「泡水」，放一週叫「發酵」，放到長毛他說那是「生態」。\n我不是他室友，我是策展人。",
+          "editorNote": "傳給那個水槽永遠堆滿室友碗盤的朋友，苦中作樂一下；真要解決，白紙黑字排個輪值表、講好期限，比在群組裡陰陽怪氣有用",
+          "variations": [
+            "室友的碗有兩種狀態：正在髒，和即將要我洗。",
+            "合租最公平的一件事，是水槽的碗大家都看得到，只有我看得到之後會動手。"
+          ]
+        },
+        "en": {
+          "content": "The shared sink is my roommate's contemporary art installation.\nA bowl left one day is \"soaking,\" a week is \"fermenting,\" and once it grows fuzz he calls it \"an ecosystem.\"\nI'm not his roommate. I'm the curator.",
+          "editorNote": "For the friend whose sink is permanently stacked with someone else's dishes; laugh first, then fix it — a written chore rota with actual deadlines beats passive-aggressive group-chat sighs",
+          "variations": [
+            "My roommate's dishes come in two states: getting dirty, and about to become my problem.",
+            "The fairest thing about sharing a place is that everyone can see the sink. I'm just the only one who does anything about it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-263",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://house.ettoday.net/news/2360099",
+      "sourceNote": "sublandlord absconds with rent, real owner evicts tenant; rewritten original",
+      "tags": [
+        "房東",
+        "二房東",
+        "押金",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我準時繳了半年房租給二房東，某天他手機關機、LINE封鎖、人間蒸發。\n後來大房東來敲門，說他一毛都沒收到，叫我搬走。\n原來我繳的不是房租，是給一個陌生人的資遣費。",
+          "editorNote": "傳給遇到二房東落跑、被真正屋主要求搬離的朋友，提醒他簽約前確認對方是不是屋主本人或有轉租授權，租金匯款紀錄跟合約全部留著才有申訴籌碼",
+          "variations": [
+            "二房東跑路那天我才發現，我跟房子之間，隔著一個我從沒見過的人。",
+            "房租照繳、押金照付，最後連房子是誰的都不是我以為的那個人。"
+          ]
+        },
+        "en": {
+          "content": "I paid the sublandlord six months' rent right on time — then one day his phone's off, LINE's blocked, and he's vanished.\nThe actual owner shows up, says he never got a cent, and tells me to move out.\nTurns out I wasn't paying rent. I was funding a stranger's exit.",
+          "editorNote": "For the friend whose sublandlord skipped town and got them evicted by the real owner; before signing, confirm you're dealing with the owner or someone with written permission to sublet, and keep every payment record and contract — that's your only leverage later",
+          "variations": [
+            "The day the sublandlord ran, I realized there was a person I'd never met standing between me and the place I lived in.",
+            "Rent paid on time, deposit handed over, and in the end the apartment didn't even belong to who I thought it did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-264",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.shareuhack.com/zh-TW/posts/taipei-rental-hunting-guide-2026",
+      "sourceNote": "signal dead zone in rented room, only reception by the window; rewritten original",
+      "tags": [
+        "分租套房",
+        "看房",
+        "網路",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房那天訊號滿格，搬進去才發現滿格的是房仲的手機。\n我房間唯一收得到訊號的地方，是窗邊那塊三十公分的磁磚。\n每次接電話，我都得站到那裡，像在跟外面的世界求救。",
+          "editorNote": "傳給租到房間死角沒收訊的朋友，提醒他看房時把手機調飛航再開、實際在房間各角落測一次訊號跟網速，別只信客廳那一格",
+          "variations": [
+            "我房間有兩種空間：能收訊的窗邊，和其他所有地方。",
+            "在這間套房講電話得靠窗站，久了鄰居以為我在跟誰告別。"
+          ]
+        },
+        "en": {
+          "content": "Full signal on the day I toured — turns out the full bars were on the agent's phone.\nThe only spot in my room that gets reception is a one-foot tile by the window.\nEvery call, I have to go stand there, like I'm signaling the outside world for rescue.",
+          "editorNote": "For the friend stuck in a room with a signal dead zone; when you tour, flip your phone into airplane mode and back, then actually test reception and data speed in every corner — don't trust the one bar in the living room",
+          "variations": [
+            "My room has two kinds of space: the windowsill that gets signal, and everywhere else.",
+            "Taking a call in this studio means standing by the window. Long enough that the neighbors think I'm saying goodbye to someone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-265",
+      "dateAdded": "2026-07-28",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/238511796",
+      "sourceNote": "roommate's partner practically moves in, bills still split by original headcount; rewritten original",
+      "tags": [
+        "室友",
+        "合租",
+        "分攤",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們合租是兩個人分房租，但實際上住了三個。\n室友的男友幾乎天天過夜，用我們的水電、洗我們的碗（開玩笑的，他不洗），冰箱多一個人在吃。\n他沒付一毛錢，卻比房東還常出現在我家。",
+          "editorNote": "傳給那個室友另一半根本住進來、水電卻還是照原本人數分的朋友；同居前先把「常住客」怎麼算講清楚，別讓一段不是你的感情，吃掉你的荷包",
+          "variations": [
+            "我室友談戀愛，我的水電費先談成了。",
+            "合租最貴的一筆隱形開銷，叫做室友的另一半。"
+          ]
+        },
+        "en": {
+          "content": "Two of us split the rent, but three of us live here.\nMy roommate's boyfriend stays over almost every night — our water, our electricity, our dishes (kidding, he doesn't do dishes), one more mouth at the fridge.\nHe's never paid a cent, yet he's here more often than the landlord.",
+          "editorNote": "For the friend whose roommate's partner has basically moved in while the bills are still split by the original headcount; settle how a \"regular guest\" counts before it starts, so a relationship that isn't yours doesn't eat your wallet",
+          "variations": [
+            "My roommate fell in love, and my utility bill felt it first.",
+            "The most expensive hidden cost of sharing a place is called your roommate's significant other."
+          ]
+        }
+      }
     }
   ]
 }
