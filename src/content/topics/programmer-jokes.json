@@ -10772,6 +10772,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-375",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://techsy.io/en/blog/cursor-rules-vs-claude-md",
+      "sourceNote": "2026 discourse — teams accumulating dozens of agent rules that the agent still ignores; rules file becomes the only real documentation",
+      "tags": [
+        "AI agent",
+        "文件",
+        "2026",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一週，我們在 agent 規則檔裡寫了三條規定。\n第二個月，變成十七條。\n第五個月，四十一條，每一條都是某次事故留下的血。\n上週新人報到，我叫他先看那份規則檔。\n他隔天跑來說：「我看完了，我終於搞懂這個專案在幹嘛。」\n我沉默了一下——那份規則檔，現在是全公司唯一寫得完整的文件。\n而 agent 依然照它爽的寫。",
+          "editorNote": "傳給團隊裡那個一直在補規則的人。規則檔越長，通常代表你們踩過的坑越多，不代表 agent 越聽話。",
+          "variations": [
+            "延伸：第四十二條規定是「請確實遵守以上四十一條」，寫的時候我自己都笑了。",
+            "也可以收尾成：『我們花五個月寫給機器看的文件，最後救到的是人類新人。』"
+          ]
+        },
+        "en": {
+          "content": "Week one, our agent rules file had three rules.\nMonth two, seventeen.\nMonth five, forty-one — each one a scar from a specific incident.\nLast week a new hire started, so I told him to read the rules file first.\nNext morning he came back: \"Read the whole thing. I finally understand what this project actually does.\"\nI went quiet for a second — that rules file is now the only complete documentation we have.\nAnd the agent still writes whatever it feels like.",
+          "editorNote": "For the teammate who keeps appending rules. A longer rules file means more scars, not a more obedient agent.",
+          "variations": [
+            "Extension: rule forty-two is 'please actually follow rules one through forty-one.' I laughed while typing it.",
+            "Follow-up: 'We spent five months writing docs for a machine, and the only one it saved was the new guy.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-376",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://programmerhumor.io/memes/automation",
+      "sourceNote": "Expired TLS certificate outage classic, updated: automation renewed the cert but nobody reloaded the server",
+      "tags": [
+        "事故",
+        "production",
+        "血淚",
+        "除錯",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，全站掛掉。\n沒有人動過程式碼，沒有人部署，沒有人碰過資料庫。\n查了四十分鐘，答案是：憑證過期了。\n自動續期腳本？有跑，而且跑得很好，憑證確實換新了。\n只是那份腳本從頭到尾沒有人寫「換完要重啟服務」。\n它安安靜靜、準時、正確地，每三個月幫我們續期一次，然後什麼也沒發生地過了兩年。",
+          "editorNote": "傳給那個相信「自動化了就不用管」的同事。最可怕的不是沒自動化，是自動化成功了但少做最後一步。",
+          "variations": [
+            "延伸：事後檢討結論只有一句——『自動化不等於自動生效。』",
+            "也可以接：『那兩年它每三個月都成功一次，只是成功的定義跟我們想的不一樣。』"
+          ]
+        },
+        "en": {
+          "content": "3 a.m. The whole site is down.\nNobody touched the code. Nobody deployed. Nobody went near the database.\nForty minutes of digging later: the certificate expired.\nThe auto-renewal script? It ran. It ran beautifully. The cert was genuinely renewed.\nIt just never occurred to anyone to add \"now restart the server.\"\nFor two years it quietly, punctually, correctly renewed our cert every ninety days — and accomplished absolutely nothing.",
+          "editorNote": "For the coworker who thinks automated means handled. The scary failure isn't the missing script — it's the script that succeeds at the wrong thing.",
+          "variations": [
+            "Extension: the entire postmortem was one line — 'automated is not the same as in effect.'",
+            "Follow-up: 'It succeeded every ninety days for two years. Its definition of success just wasn't ours.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-377",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://programmerhumor.io/memes/coding-agents",
+      "sourceNote": "2026 — permission-prompt fatigue leads devs to blanket-approve everything their agent asks for",
+      "tags": [
+        "AI agent",
+        "vibe coding",
+        "2026",
+        "資安",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一天：agent 每要跑一個指令就問我一次，我認真看完才按同意。\n第三天：我只看指令的第一個字。\n第五天：我把「以後都不用問了」勾起來。\n第九天：它問我要不要清掉一個資料夾，我按了同意。\n第九天又過了三秒：我開始回想那個資料夾叫什麼名字。",
+          "editorNote": "傳給任何把 AI 權限開到底的人。點同意點到麻木這件事，我們在 cookie 同意視窗上就練習過很多年了。",
+          "variations": [
+            "延伸：安全機制的壽命，取決於它問第幾次會被關掉。通常是第七次。",
+            "也可以收尾成：『不是我信任它，是我懶得再讀一次。這兩件事在事故報告裡長得一模一樣。』"
+          ]
+        },
+        "en": {
+          "content": "Day 1: the agent asks before every command. I read each one carefully, then approve.\nDay 3: I read the first word of the command.\nDay 5: I check the box that says \"don't ask me again.\"\nDay 9: it asks whether it can clear out a directory. I approve.\nDay 9, three seconds later: I start trying to remember what that directory was called.",
+          "editorNote": "For anyone who cranked their agent's permissions wide open. We've been training for this on cookie consent banners for years.",
+          "variations": [
+            "Extension: a safety prompt's lifespan is however many times it can ask before you disable it. Usually seven.",
+            "Follow-up: 'I didn't trust it — I just didn't want to read again. In the incident report those look identical.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-378",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "2026 hype-cycle meme — low code to no code to AI agents, and the headcount goes up every time",
+      "tags": [
+        "AI",
+        "2026",
+        "職場",
+        "技術債",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "2018 年：low code，讓工程師少寫一點。\n2021 年：no code，讓公司不用請工程師。\n2024 年：AI 寫程式，工程師這職業要消失了。\n2026 年：我們公司歷史上工程師最多的一年。\n因為現在有一套沒人寫過、沒人看過、但每天都在收錢的系統，需要有人去理解它。\n這年頭最穩的工作，就是負責看懂機器留下來的東西。",
+          "editorNote": "傳給每個被唱衰過職涯的工程師。每一次「工程師要被取代了」，最後都變成「工程師要負責收拾」。",
+          "variations": [
+            "延伸：我的職稱還是工程師，工作內容比較接近考古學家。",
+            "也可以接：『產生程式碼的成本降到接近零之後，唯一貴的東西變成——有人真的看得懂。』"
+          ]
+        },
+        "en": {
+          "content": "2018: low code — devs write less.\n2021: no code — companies don't need devs.\n2024: AI writes the code — the job is going away.\n2026: largest engineering headcount in our company's history.\nBecause we now run a system nobody wrote, nobody has read, and that bills customers every single day — and someone has to understand it.\nThe safest job right now is being the person who can read what the machines left behind.",
+          "editorNote": "For every dev whose career got declared dead. Every 'engineers are being replaced' cycle ends with engineers cleaning it up.",
+          "variations": [
+            "Extension: my title still says engineer. The actual work is closer to archaeology.",
+            "Follow-up: 'Once generating code costs nothing, the only expensive thing left is someone who genuinely understands it.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-379",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-coding",
+      "sourceNote": "Dependency major-version upgrade pain — changelog claims no breaking changes",
+      "tags": [
+        "工程師日常",
+        "維護",
+        "血淚",
+        "除錯",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "更新日誌寫：「本次為主版本更新，無破壞性變更。」\n我看了很感動，直接升上去。\n編譯錯誤 214 個。\n我回去重看那句話，發現它其實沒有騙我——\n他們只是覺得「把所有函式改名」不算破壞性變更，那叫「命名一致性優化」。",
+          "editorNote": "傳給正在盯著一整片紅色編譯錯誤的人。看更新日誌要看的不是他們寫了什麼，是他們沒寫什麼。",
+          "variations": [
+            "延伸：主版本號從 2 跳到 3，只跳了一個數字，我的週末跳了整個。",
+            "也可以收尾成：『所謂無破壞性變更，意思是沒有破壞到他們自己那邊。』"
+          ]
+        },
+        "en": {
+          "content": "The changelog said: \"Major version bump. No breaking changes.\"\nI was genuinely moved. I upgraded immediately.\n214 compile errors.\nI went back and reread that line, and honestly? They didn't lie —\nthey just don't count \"renamed every function\" as a breaking change. They call it \"naming consistency improvements.\"",
+          "editorNote": "For anyone staring at a wall of red build output. Read a changelog for what it leaves out, not what it says.",
+          "variations": [
+            "Extension: the major version went from 2 to 3. One number. My weekend went considerably further.",
+            "Follow-up: 'No breaking changes' means nothing broke on their end."
+          ]
+        }
+      }
     }
   ]
 }

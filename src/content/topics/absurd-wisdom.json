@@ -9914,6 +9914,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-379",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "2026 夏季電價與夏月電費話題參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "夏天的電費帳單其實非常誠實：\n你用了多少電，它就跟你收多少錢。\n\n所以帳單變厚的那個月，\n通常是你冷氣開得比較久的那個月。\n\n至於為什麼今年比去年貴——\n因為今年比較熱，而你比較怕熱。",
+          "editorNote": "收到夏季電費帳單、在群組哀號的時候，拿來自我安慰用",
+          "variations": [
+            "省電最有效的方法就是不要用電，可惜這個方法通常也最不涼。",
+            "電費之所以會漲，是因為那些電確實被你用掉了。"
+          ]
+        },
+        "en": {
+          "content": "Your summer electricity bill is brutally honest:\nyou use a certain amount of power, and it charges you for that amount of power.\n\nSo the month the bill gets fat\nis usually the month you ran the AC longer.\n\nAs for why it's higher than last year —\nit's hotter this year, and you like being cold.",
+          "editorNote": "For the group chat where everyone is posting screenshots of their summer bill",
+          "variations": [
+            "The most effective way to save power is to not use any, which is also the least cool option available.",
+            "Your bill went up because that electricity went somewhere, and that somewhere was you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-380",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://uptogo.com.tw/%E7%A7%91%E6%8A%80/%E7%B6%B2%E8%B7%AF/2026%E6%9C%89%E4%BB%80%E9%BA%BC%E6%A2%97%EF%BC%9F/",
+      "sourceNote": "2026 夏季高溫與體感溫度討論參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "天氣",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "氣象預報說今天氣溫 36 度、體感溫度 42 度。\n意思是溫度計覺得是 36 度，你覺得是 42 度。\n\n兩邊都沒有說謊，\n只是被曬的那個是你，不是溫度計。",
+          "editorNote": "中午要走出辦公室覓食之前，先傳給同樣要出門的同事",
+          "variations": [
+            "體感溫度的意思是，實際上沒有那麼熱，但你的身體不接受這個說法。",
+            "站在太陽底下會比站在陰影下熱，這一點目前還沒有出現例外。"
+          ]
+        },
+        "en": {
+          "content": "The forecast says 96 degrees, feels like 108.\nThat means the thermometer thinks it's 96, and you think it's 108.\n\nNeither of you is lying.\nIt's just that you're the one standing in the sun, and the thermometer isn't.",
+          "editorNote": "Send it to whoever is about to walk out for lunch with you",
+          "variations": [
+            "\"Feels like\" means it isn't actually that hot, but your body has declined to accept that.",
+            "Standing in the sun is hotter than standing in the shade. No exceptions have been reported."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-381",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://vocus.cc/article/69a80ad2fd8978000169dbf2",
+      "sourceNote": "廢話文學格式參考，結合手搖飲甜度冰塊日常，重新創作",
+      "tags": [
+        "廢話文學",
+        "飲食",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手搖飲的甜度其實標示得很清楚：\n全糖就是全部的糖，半糖就是一半的糖，\n無糖就是沒有糖。\n\n所以覺得不夠甜的人，\n通常是點了比較不甜的那一種。",
+          "editorNote": "同事在糾結甜度冰塊、遲遲不下單的時候，貼進群組",
+          "variations": [
+            "去冰的意思是把冰去掉，所以你會拿到一杯裝了比較多飲料的飲料。",
+            "微糖跟半糖差在哪？差在一個叫微糖，一個叫半糖。"
+          ]
+        },
+        "en": {
+          "content": "Bubble tea sweetness levels are labeled very clearly:\nfull sugar is all of the sugar, half sugar is half of the sugar,\nand no sugar is none of the sugar.\n\nSo if your drink isn't sweet enough,\nyou probably ordered one of the less sweet ones.",
+          "editorNote": "Drop it in the chat while everyone agonizes over the group order form",
+          "variations": [
+            "\"No ice\" means the ice is removed, so you receive a cup containing more drink.",
+            "The difference between 30% sugar and 50% sugar is that one is 30% and the other is 50%."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-382",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.minews.com.tw/2026/07/22251/",
+      "sourceNote": "2026 台北 3C 家電展 AI 智慧家電話題參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "科技",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "掃地機器人的效果非常明確：\n它經過的地方會變乾淨，它沒經過的地方不會。\n\n所以如果客廳掃好了、房間還是很髒，\n那代表它剛剛沒有進去。\n\n至於它為什麼卡在椅腳中間——\n因為它開得進去，然後開不出來。",
+          "editorNote": "回家發現它又卡在同一個角落的時候，拍照配這段",
+          "variations": [
+            "智慧家電最智慧的地方，是它會挑你不在家的時候展現極限。",
+            "它掃不到的地方還是得你自己掃，這部分它從來沒有答應過你。"
+          ]
+        },
+        "en": {
+          "content": "A robot vacuum's results are perfectly clear:\nthe places it drove over get clean, and the places it didn't don't.\n\nSo if the living room is spotless and the bedroom isn't,\nit simply never went in there.\n\nAs for why it's wedged under a chair leg —\nit drove in, and then it couldn't drive out.",
+          "editorNote": "Caption for the photo of it stuck in the same corner for the third time this week",
+          "variations": [
+            "The smartest thing about smart appliances is that they reveal their limits while you're out of the house.",
+            "The spots it can't reach are still your job. It never claimed otherwise."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-383",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://stone018.pixnet.net/blog/posts/16050086462",
+      "sourceNote": "2026 職場迷因與補班日話題參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "上班",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "補班日的規則其實講得很清楚：\n前面多放的那一天，要在後面補回來。\n\n所以你這個星期六之所以要上班，\n是因為你上個星期五沒有上班。\n\n這中間並沒有多出任何一天，\n它只是換了個位置放。",
+          "editorNote": "補班日早上七點在通勤路上，傳給同樣在路上的同事",
+          "variations": [
+            "連假之所以連得起來，是因為有一天被搬走了，而那一天就在補班日等你。",
+            "假期的天數不會憑空變多，它只會換個地方出現。"
+          ]
+        },
+        "en": {
+          "content": "The make-up workday rule is stated very plainly:\nthe extra day off up front gets paid back later.\n\nSo the reason you're working this Saturday\nis that you weren't working last Friday.\n\nNo day was ever added.\nIt was only moved.",
+          "editorNote": "For the 7am commute on a make-up workday, sent to whoever is on the same train",
+          "variations": [
+            "A long weekend holds together because a day got borrowed, and that day is waiting for you on the make-up Saturday.",
+            "Days off don't multiply. They relocate."
+          ]
+        }
+      }
     }
   ]
 }

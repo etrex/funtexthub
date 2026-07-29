@@ -8331,6 +8331,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-288",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
+      "sourceNote": "2026 客服現場常見情境：客人拿 AI 聊天機器人給的錯誤承諾要求兌現；檔案內 AI 題材（svc-094 對機器人有禮貌、svc-197 機器人接簡單問題）核心不同，本則是真人替 AI 的錯誤道歉",
+      "tags": [
+        "服務業",
+        "客服",
+        "奧客",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你們的 AI 說可以全額退。」\n我調出對話紀錄，\n那句話是機器人昨天半夜自己掰的。\n先生，我很想幫您，\n可是公司把嘴巴外包給了 AI，\n只留下我這張臉，\n負責當著您的面把話收回來。",
+          "editorNote": "傳給每天在收 AI 客服爛攤子的客服夥伴。客人不是無理取鬧，他真的被答應了——只是答應他的那個東西不會被扣考績，站在最前面挨罵的還是人。",
+          "variations": [
+            "機器人答應的事，為什麼要真人來道歉？因為機器人不會被寫進當月的考核表。",
+            "系統升級了，話術升級了，唯一沒升級的，是負責善後的那個人。"
+          ]
+        },
+        "en": {
+          "content": "\"Your AI told me I'd get a full refund.\"\nI pull up the chat log —\nthe bot invented that at 2 a.m.\nSir, I really want to help,\nbut the company outsourced its mouth to an AI\nand kept only my face,\nto take the promise back to yours.",
+          "editorNote": "For the agent cleaning up after a chatbot's confidently wrong answer. The customer isn't making it up — he really was promised. The thing that promised him just doesn't get a performance review.",
+          "variations": [
+            "Why does a human have to apologize for what the bot promised? Because the bot never lands on anyone's quarterly review.",
+            "The system got an upgrade. The script got an upgrade. The person cleaning up after both did not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-289",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.westernmassnews.com/2026/07/04/no-break-heat-restaurant-workers-push-through-heat-wave/",
+      "sourceNote": "2026-07 熱浪期間餐廳內場高溫報導；改寫為內場／外場溫差視角。svc-274 是跳電、svc-166／227 是出餐慢，核心不同",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "心聲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "外場二十四度，內場四十一度。\n爐火在我左邊，蒸氣在我右邊，\n制服濕到可以擰出今天的中午。\n客人探頭進來說：\n「在冷氣房工作很爽吼。」\n先生，這道牆的兩邊，\n是兩個不同的季節。",
+          "editorNote": "傳給整個夏天站在爐前的內場夥伴。同一家店，客人吹的和你站的中間只隔一道牆，溫度卻差了十幾度——沒被看見，不代表沒發生。",
+          "variations": [
+            "我們把冷氣讓給客人，把溫度留給自己。那是默契，不是應該。",
+            "這件制服今天洗第二次了，不是它髒，是它替我把整個夏天吸走了。"
+          ]
+        },
+        "en": {
+          "content": "Front of house: 75 degrees. Back of house: 106.\nFlame on my left, steam on my right,\nuniform wet enough to wring the afternoon out of.\nA customer leans in:\n\"Must be nice, working in the A/C.\"\nSir, the two sides of this wall\nare two different seasons.",
+          "editorNote": "For the back-of-house crew standing at the range all summer. Same restaurant, one wall, thirty degrees apart. Invisible doesn't mean it isn't happening.",
+          "variations": [
+            "We give the cold air to the dining room and keep the temperature for ourselves. That's a habit, not a duty.",
+            "Second wash for this uniform today. It isn't dirty — it just absorbed the whole summer for me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-290",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.struggle-la-lucha.org/2026/07/08/millions-told-to-stay-indoors-delivery-workers-sent-into-the-streets/",
+      "sourceNote": "2026-07 熱浪期間外送平台與騎手處境報導；改寫為「訂單外的追加任務＋評價要脅」情境。svc-267 是雨天爬樓被嫌餐涼、svc-271 是尖峰爆單，核心不同",
+      "tags": [
+        "服務業",
+        "奧客",
+        "厭世",
+        "工作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「餐放門口，順便幫我把這袋垃圾帶下去。」\n「經過超商幫我買包菸，錢再給你。」\n「不然評價就……你知道的。」\n先生，我送的是那份餐，\n不是您今天不想下樓的所有理由。\n那顆星是用來評價一份餐的，\n不是用來牽著人走的。",
+          "editorNote": "傳給每天被追加任務、還被評價綁架的外送夥伴。幫忙是心意，不是內建服務——一顆星可以評價餐點，不該拿來換那些從來不在單子上的事。",
+          "variations": [
+            "訂單上寫的是餐點內容，不是我今天願意被使喚到多遠。",
+            "「不然我給你一星喔」這句一出口，「順便」就不叫順便了。"
+          ]
+        },
+        "en": {
+          "content": "\"Leave it at the door — and take this trash bag down on your way.\"\n\"Stop at the store and grab me a pack of smokes, I'll pay you back.\"\n\"Otherwise the rating might, you know...\"\nSir, I delivered the food.\nI didn't deliver every reason you didn't want to go downstairs today.\nThat star rates a meal.\nIt isn't a leash.",
+          "editorNote": "For riders getting bonus errands stapled onto a delivery with the rating held overhead. A favor is a favor — the second a star gets attached, \"while you're here\" stops being a request.",
+          "variations": [
+            "The order lists the food. It doesn't list how far I can be sent for the same fee.",
+            "\"Or I might have to leave one star\" — the moment that's said, it isn't a favor anymore."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-291",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
+      "sourceNote": "夏季外場「冷氣戰爭」情境：同時收到嫌冷與嫌熱的抱怨。檔案內冷氣題材（svc-102 借冷氣久坐、svc-274 跳電）核心不同",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "幽默",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三桌喊冷，七桌喊熱，\n九桌說有風一直吹到她的湯。\n我手上只有一支遙控器，\n和一個一定會得罪人的溫度。\n外面三十八度，\n店裡的天氣，卻要我一個人負責。",
+          "editorNote": "傳給每天被夾在冷氣戰爭中間的外場夥伴。溫度只有一個，體感有幾十種，最後被檢討的永遠是那個最沒有決定權的人。",
+          "variations": [
+            "我可以調冷氣，但我調不動每個人的體感，那支遙控器沒有那顆按鈕。",
+            "「你們冷氣太強」和「你們冷氣太弱」，常常發生在同一個晚上、同一台機器。"
+          ]
+        },
+        "en": {
+          "content": "Table 3 says it's freezing.\nTable 7 says it's boiling.\nTable 9 says the vent is blowing on her soup.\nI have one remote\nand one temperature guaranteed to offend somebody.\nIt's 100 degrees outside,\nand somehow the weather in here is my personal fault.",
+          "editorNote": "For the floor staff stuck in the daily thermostat war. One temperature, forty different body clocks, and the blame always lands on whoever has the least say over the remote.",
+          "variations": [
+            "I can change the thermostat. I can't change how forty people feel. The remote doesn't have that button.",
+            "\"Too cold in here\" and \"too warm in here\" routinely arrive the same night, about the same machine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-292",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
+      "sourceNote": "暑假旺季全員禁休的排班情境。svc-035 是排班決定人生規劃、svc-048 是人力不足，本則核心是旺季看著別人放暑假",
+      "tags": [
+        "服務業",
+        "厭世",
+        "心聲",
+        "工時"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "七月的班表貼出來，\n右上角四個紅字：暫停排休。\n朋友傳來海邊的照片問我去不去，\n我把手機翻過來，繼續補貨。\n別人的夏天在海邊，\n我的夏天在班表上，\n被畫成一整排連在一起的早班。",
+          "editorNote": "傳給旺季全員禁休、只能看別人限時動態過暑假的夥伴。不是不想去，是這個月的日曆從貼出班表那天起就不歸自己管了。",
+          "variations": [
+            "我的暑假不是沒有，是被排在十月，而且還要看那時候缺不缺人。",
+            "限時動態看得到海，班表上看不到假。"
+          ]
+        },
+        "en": {
+          "content": "The July schedule goes up.\nFour red words in the corner:\nNO TIME OFF APPROVED.\nA friend sends a beach photo, asks if I'm coming.\nI turn my phone face down and keep restocking.\nEveryone else's summer is at the shore.\nMine is on the schedule,\ndrawn as one unbroken row of openings.",
+          "editorNote": "For anyone whose entire summer got blacked out because it's peak season. It's not that you don't want to go — the calendar stopped being yours the day that schedule went up.",
+          "variations": [
+            "I do get a summer. It's in October, pending whether we're short-staffed.",
+            "The stories show me the ocean. The schedule shows me no days off."
+          ]
+        }
+      }
     }
   ]
 }

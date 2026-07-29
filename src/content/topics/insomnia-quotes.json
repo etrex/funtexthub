@@ -7507,6 +7507,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-261",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20260221edi007",
+      "sourceNote": "Inspired by the 2026 Threads 'is everyone in Taiwan awake tonight' viral thread; rewritten around story timestamps and silent likes instead of the original post",
+      "tags": [
+        "失眠",
+        "深夜",
+        "陪伴",
+        "滑手機"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點的社群，是另一個國家。\n限時動態排成一列，時間戳全是 02:47、03:12、03:30。\n沒有人講話，大家只是安靜地互相按了愛心。\n那個愛心的意思是：我也還醒著，你不孤單，\n但我們兩個都不會承認這件事。",
+          "editorNote": "適合深夜滑手機、發現一整排人跟你一樣沒睡的時候。把互相按愛心寫成半夜的接頭暗號，很適合傳給同樣是夜貓的朋友。",
+          "variations": [
+            "凌晨三點按我愛心的那幾個人，我們從來沒聊過天，但我們是同一種人。",
+            "深夜的社群不用打字，按一個愛心就等於說了一句：我也還沒睡。"
+          ]
+        },
+        "en": {
+          "content": "Social media at 3am is a different country.\nA row of stories, all timestamped 2:47, 3:12, 3:30.\nNobody says a word — we just quietly like each other's posts.\nThat like means: I'm up too, you're not alone,\nand neither of us is ever going to admit it.",
+          "editorNote": "For scrolling at 3am and realizing half your feed is awake with you. Framing the silent like as a secret handshake makes it easy to send to your fellow night owls.",
+          "variations": [
+            "The people who liked my post at 3am and I have never once talked. We're the same kind of person.",
+            "At 3am nobody types anything. One tap on the heart already says: yeah, still up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-262",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sleepmaxxing",
+      "sourceNote": "Original take on the sleepmaxxing gear trend; rewritten as an exam room you fail in, gear-only angle absent from existing items",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了睡好，我把房間整個升級了一輪：\n遮光窗簾、涼感床單、耳塞、眼罩、香氛，全部到位。\n然後我躺進這個完美的環境裡，開始緊張——\n條件都給你了，睡不著就是你的問題了吧？\n我花錢把房間佈置成考場，結果自己考不及格。",
+          "editorNote": "適合為了助眠買了一堆裝備、卻因此更有壓力的人。把睡眠環境寫成考場，戳中「連睡覺都想拿高分」的現代焦慮。",
+          "variations": [
+            "裝備越齊全，越不好意思睡不著——我真的對不起我那組遮光窗簾。",
+            "我把房間調成完美睡眠模式，唯一不合規格的零件是我自己。"
+          ]
+        },
+        "en": {
+          "content": "To sleep better, I upgraded the entire room:\nblackout curtains, cooling sheets, earplugs, eye mask, the nice diffuser.\nThen I lay down inside my perfect setup and started to panic —\nthe conditions are all here, so if I can't sleep, that's on me, right?\nI paid good money to turn my bedroom into an exam hall, and then failed the exam.",
+          "editorNote": "For anyone who bought the whole sleep-optimization kit and somehow got more stressed. The exam-hall framing nails the modern urge to score well at unconsciousness.",
+          "variations": [
+            "The better my gear gets, the guiltier I feel for lying here awake. I've let those blackout curtains down.",
+            "Room: optimized. Sheets: cooling. Only component still out of spec is me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-263",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://globalwellnessinstitute.org/global-wellness-institute-blog/2026/03/30/sleep-initiative-trends-for-2026/",
+      "sourceNote": "Original take on orthosomnia (anxiety over tracker scores); rewritten as acting out sleep for a device, distinct from the existing sleep-score item",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "焦慮",
+        "智慧手錶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我戴著手環躺著，想翻身又忍住，\n因為翻一次身，就會被記成一次「睡眠中斷」。\n於是我僵在原地、把呼吸放慢、努力表現得很放鬆——\n我不是在睡覺，我是在為一支手環演一場睡覺。\n隔天早上它給我 61 分。演技還是不夠好。",
+          "editorNote": "適合被睡眠追蹤數據綁架的人。為了讓報告好看而不敢翻身的荒謬感，有戴手環睡覺的人一秒懂。",
+          "variations": [
+            "為了讓數據好看，我連翻個身都要先評估值不值得。",
+            "我睡得好不好我自己不知道，要等早上那支手環公布成績。"
+          ]
+        },
+        "en": {
+          "content": "I lie there with the tracker on, wanting to roll over and not letting myself,\nbecause every roll gets logged as another \"sleep disruption.\"\nSo I hold still, slow my breathing, do my best impression of relaxed —\nI'm not sleeping, I'm performing sleep for a wristband.\nIt gave me a 61 in the morning. Apparently the acting needs work.",
+          "editorNote": "For anyone held hostage by their sleep stats. The absurdity of lying frozen so the chart looks good lands instantly with anyone who sleeps in a tracker.",
+          "variations": [
+            "I now weigh whether a single roll-over is worth what it does to my numbers.",
+            "I have no idea how I slept until a wristband posts the score in the morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-264",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.bettersleep.com/blog/bettersleeps-favorite-insomnia-memes",
+      "sourceNote": "Original take on 3am chatbot conversations; no AI-companion item exists in this file",
+      "tags": [
+        "失眠",
+        "凌晨三點",
+        "自嘲",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，我問 AI：「為什麼我睡不著？」\n它很有耐心地列了五點，最後一句是「早點休息喔」。\n我說好，然後接著問了它十七個問題：\n宇宙有沒有盡頭、明天簡報開場該怎麼講、\n還有我國中那句話是不是真的很傷人。\n天亮的時候，只有它一路清醒地陪著我——\n它本來就不用睡。",
+          "editorNote": "適合深夜跟聊天機器人一路聊到天亮的人。又好笑又有點孤單，是很現在的深夜日常。",
+          "variations": [
+            "深夜唯一秒回我的，是一個根本不需要睡覺的東西。",
+            "它叫我早點休息，然後陪我熬到五點，我們兩個都沒有遵守那句話。"
+          ]
+        },
+        "en": {
+          "content": "3am. I asked the chatbot, \"Why can't I sleep?\"\nIt patiently listed five reasons and signed off with \"try to get some rest.\"\nI said sure, then asked it seventeen more things:\nwhether the universe has an edge, how to open tomorrow's presentation,\nand whether that thing I said in eighth grade was as bad as I remember.\nBy sunrise it was still wide awake with me —\nit never had to sleep in the first place.",
+          "editorNote": "For anyone who has talked to a chatbot straight through till morning. Funny and a little lonely, which is exactly what 3am is like now.",
+          "variations": [
+            "The only thing that replies to me instantly at 3am is something that doesn't need sleep.",
+            "It told me to get some rest, then stayed up with me until five. Neither of us honored that sentence."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-265",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20260221edi007",
+      "sourceNote": "Original midsummer angle written for Taiwan's July 2026 heat; checking the seven-day forecast as the punchline, distinct from existing AC/fan/mosquito heat items",
+      "tags": [
+        "失眠",
+        "夏天",
+        "自嘲",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "熱到睡不著，我拿起手機查天氣，\n想知道這種日子還要撐多久。\n一週預報打開：35、36、36、35、37。\n我把手機放回床頭，躺回自己那攤汗裡，\n非常清醒地明白了一件事——\n今晚不是意外，是這個夏天的正常班表。",
+          "editorNote": "適合台灣盛夏連日高溫、每晚熱到醒來的時候。查完預報反而更絕望的心情，傳到群組裡大家會一起哀號。",
+          "variations": [
+            "我不是失眠，我只是被排進了夏天的夜班。",
+            "查完一週預報，我決定不再期待涼快，改成期待九月。"
+          ]
+        },
+        "en": {
+          "content": "Too hot to sleep, so I grabbed my phone to check the weather,\njust to see how much longer this has to go on.\nSeven-day forecast: 95, 96, 96, 95, 98.\nI put the phone back down, lay back into my own puddle of sweat,\nand understood something with total clarity:\ntonight isn't a fluke. This is summer's regular schedule.",
+          "editorNote": "For midsummer stretches where every night wakes you up sweating. Checking the forecast and feeling worse is a group-chat-worthy kind of despair.",
+          "variations": [
+            "I don't have insomnia. I've just been assigned to summer's night shift.",
+            "After reading the ten-day forecast I stopped hoping for cool weather and started hoping for September."
+          ]
+        }
+      }
     }
   ]
 }

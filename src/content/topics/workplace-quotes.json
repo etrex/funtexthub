@@ -10197,6 +10197,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-348",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.techbang.com/posts/128574-zuckerberg-ai-or-fired-meta-kpi",
+      "sourceNote": "2026 企業把「AI 使用率」列入績效指標的趨勢 — 原創改寫成台灣職場每週填表版",
+      "tags": [
+        "AI工具",
+        "社畜",
+        "職場厭世",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年公司多了一個新指標，叫做「AI 導入率」。\n\n主管在會議上講得很誠懇：「不是要監控大家，只是想了解一下大家怎麼運用新工具。」\n\n於是每個星期五，我們要填一張表：這週用了幾次 AI、用在哪裡、幫你省下多少工時。\n\n第一週我老實寫「兩次，都拿來潤稿」。\n第二週我學乖了，寫「十四次」。\n第三週，我開始用 AI 來寫這張「我如何使用 AI」的表。\n\n那一刻我終於懂了什麼叫做數位轉型。",
+          "editorNote": "傳給公司也開始統計 AI 使用次數的朋友，順便問他這週填了幾次。",
+          "variations": [
+            "延伸版：『主管問我 AI 幫我省下多少工時，我說三小時。他說：那正好，再多接一個專案。』",
+            "簡短版：『公司要我證明 AI 讓我變快，我就用省下來的時間，去填那張證明我變快的表。』"
+          ]
+        },
+        "en": {
+          "content": "This year my company added a new metric: AI adoption rate.\n\nMy manager was very sincere about it in the meeting: 'We're not monitoring anyone. We just want to understand how everyone's using the new tools.'\n\nSo every Friday we fill out a form: how many times you used AI this week, what for, and how many hours it saved you.\n\nWeek one, I answered honestly: 'Twice, both for polishing drafts.'\nWeek two, I wised up and wrote 'fourteen.'\nWeek three, I started using AI to fill out the form about how I use AI.\n\nThat was the moment I finally understood digital transformation.",
+          "editorNote": "Send to the friend whose company just started counting AI usage. Ask what number they put down this week.",
+          "variations": [
+            "Extended: 'My manager asked how many hours AI saved me. I said three. He said, great, then you can take on one more project.'",
+            "Short: 'They wanted proof AI made me faster. I used the time I saved to fill out the proof.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-349",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://masonailab.com/insights/microsoft-work-trend-index-2026-ai-organization-gap/",
+      "sourceNote": "2026 AI 產出品質落差現象 — 看起來完整、實際空洞的 AI 文件把工作量轉嫁給下游同事，原創改寫",
+      "tags": [
+        "AI工具",
+        "職場幽默",
+        "同事",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事傳來一份三十頁的企劃書。標題很漂亮，段落整齊，每一段都有小標，還附了三個表格。\n\n我讀了十分鐘，讀完之後只得到一個結論：我完全不知道他想幹嘛。\n\n那份文件什麼都寫了，但沒有任何一句話是「決定」。\n\n我回頭問他：「所以我們最後要選哪個方案？」\n\n他說：「你看一下文件，裡面寫得很完整。」\n\n我又讀了一次。二十分鐘。\n然後我自己開了一頁，用三句話講完。\n\n他花五分鐘生出三十頁，我花兩小時把它變回三句話。\n\n這在公司的報表上，叫做效率提升。",
+          "editorNote": "傳給那個最近一直在收「看起來很完整但沒有重點」文件的同事，你們真的不孤單。",
+          "variations": [
+            "延伸版：『判斷一份文件是不是人寫的，最快的方法——找找看有沒有哪一句話在承擔責任。』",
+            "簡短版：『他省下的二十分鐘，變成我的兩小時。這在報表上叫做團隊綜效。』"
+          ]
+        },
+        "en": {
+          "content": "A coworker sent me a thirty-page proposal. Gorgeous title. Tidy paragraphs. Subheadings everywhere. Three tables.\n\nI read it for ten minutes and reached exactly one conclusion: I had no idea what he wanted.\n\nThe document said everything and decided nothing.\n\nSo I asked him, 'Which option are we actually going with?'\n\nHe said, 'It's all in the doc. Very thorough.'\n\nI read it again. Twenty minutes.\nThen I opened a blank page and said it myself in three sentences.\n\nHe spent five minutes generating thirty pages. I spent two hours turning them back into three sentences.\n\nOn the company dashboard, this counts as a productivity gain.",
+          "editorNote": "Send to whoever keeps receiving documents that look complete and say nothing. You are genuinely not alone.",
+          "variations": [
+            "Extended: 'Fastest way to tell whether a human wrote a document: look for one sentence where somebody takes responsibility.'",
+            "Short: 'The twenty minutes he saved became my two hours. On the report, that's called team synergy.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-350",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://moda.gov.tw/ACS/laws/faq/03/622",
+      "sourceNote": "台灣企業年度資安通識訓練與社交工程演練（公司自寄假釣魚信測員工）— 原創改寫",
+      "tags": [
+        "職場厭世",
+        "社畜",
+        "辦公室",
+        "幽默自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天早上收到一封信，標題是：「【重要】您的年度調薪明細已更新，請於今日內確認。」\n\n我當然知道要冷靜。\n我當然記得公司說過不要亂點連結。\n\n但我還是點了。\n\n點下去的瞬間，畫面跳出一隻卡通鯊魚，寫著：「您已於社交工程演練中被釣中，請於三日內完成兩小時資安補強課程。」\n\n我坐在位置上想了很久。\n\n倒不是難過被騙。\n是難過——原來我在這間公司唯一會秒點的東西，就是「調薪」兩個字。",
+          "editorNote": "傳給這波資安演練被釣中的同事。你不是笨，你只是還有期待。",
+          "variations": [
+            "延伸版：『公司的演練信一年比一年逼真，因為他們終於學會了：標題只要有錢，我們就沒有任何防禦力。』",
+            "簡短版：『我防得住陌生連結，防不住「調薪」兩個字。』"
+          ]
+        },
+        "en": {
+          "content": "This morning an email landed: '[IMPORTANT] Your annual salary adjustment is now available. Please confirm today.'\n\nI know better, obviously.\nSecurity training has told us a hundred times: don't click strange links.\n\nI clicked it.\n\nThe instant I did, a cartoon shark filled my screen: 'You've been caught in a phishing simulation. Please complete two hours of remedial security training within three days.'\n\nI sat there for a long while.\n\nNot upset about getting fooled.\nUpset because apparently the only thing at this company I'll click on instantly is the word 'raise.'",
+          "editorNote": "Send to the coworker who got hooked in this round of phishing drills. You're not gullible, you're just still hopeful.",
+          "variations": [
+            "Extended: 'The fake phishing emails get more convincing every year, because IT finally learned the trick: put money in the subject line and we have no defenses left.'",
+            "Short: 'I can resist a suspicious link. I cannot resist the word raise.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-351",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://finance.yahoo.com/economy/articles/quiet-cracking-still-impacting-us-120000835.html",
+      "sourceNote": "2026 quiet cracking（安靜崩解）趨勢 — 表面照常交付、內在已無感受，與 quiet quitting 區隔，原創改寫",
+      "tags": [
+        "職場厭世",
+        "職業倦怠",
+        "社畜",
+        "壓力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我沒有安靜離職。\n\n該交的我都交了、該開的會我都開了、訊息我都回了、報告從來沒有遲交過。\n\n從外面看，我是那種「很穩」的員工。\n\n只是最近我發現，我把一件事做完的時候，心裡什麼感覺都沒有。\n\n以前做完會有一點爽、一點成就感，至少會想找個人講一下。\n現在做完就是做完，游標移到下一格，繼續。\n\n沒有崩潰、沒有大哭、也沒有拍桌子走人。\n\n只是有個東西在裡面，很安靜地裂開了，而且沒有發出任何聲音。",
+          "editorNote": "傳給那個看起來一切正常、但你隱約覺得他不太對勁的同事。有時候被看見就夠了。",
+          "variations": [
+            "延伸版：『最需要擔心的員工不是抱怨最大聲的那個，是突然不抱怨了的那個。』",
+            "簡短版：『我沒有不做事，我只是做完的時候，已經沒有感覺了。』"
+          ]
+        },
+        "en": {
+          "content": "I'm not quiet quitting.\n\nI deliver everything. I show up to the meetings. I answer the messages. I have never once turned in a report late.\n\nFrom the outside I'm the reliable one.\n\nIt's just that lately, when I finish something, I feel nothing at all.\n\nThere used to be a small hit of satisfaction, enough to make me want to tell someone about it.\nNow finishing is just finishing. Cursor moves to the next row. Continue.\n\nNo breakdown. No crying. No dramatic exit.\n\nJust something inside quietly cracking, without making a single sound.",
+          "editorNote": "Send to the coworker who seems fine but you suspect isn't. Sometimes being noticed is the whole thing.",
+          "variations": [
+            "Extended: 'The employee to worry about isn't the one complaining loudest. It's the one who suddenly stopped complaining.'",
+            "Short: 'I still do all of it. I just don't feel anything when it's done.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-352",
+      "dateAdded": "2026-07-29",
+      "sourceUrl": "https://www.humanresourcesonline.net/the-workplace-trends-set-to-redefine-businesses-in-2026",
+      "sourceNote": "七月暑假請假旺季 — 留守的人一個人扛下整組信箱與代理職務，原創改寫",
+      "tags": [
+        "請假",
+        "社畜",
+        "職場厭世",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "七月的辦公室有一種特殊的空曠感。\n\n打開共用行事曆：同事 A 飛日本、同事 B 帶小孩去墾丁、同事 C 把今年剩下的十四天一次用完，主管全家去了北海道。\n\n而我，是那個「今年比較晚排」的人。\n\n於是我一個人顧四個信箱。\n\n每天早上像在玩一款遊戲：開四個對話框，切換四種語氣，扮演四個不同的人回訊息。\n\n最崩潰的一次，是我幫同事回完信，五分鐘後另一個視窗有人問我：「這個要問誰？」\n\n我看著螢幕，很誠實地打了一行字：\n\n「問我。全部都問我。這個月我是所有人。」",
+          "editorNote": "傳給七月留守辦公室的那位英雄，他至少值得一杯加料的手搖飲。",
+          "variations": [
+            "延伸版：『暑假不是旺季也不是淡季，是「剩下的人負責全部」季。』",
+            "簡短版：『這個月我不是代理人，我是四個人的合體。』"
+          ]
+        },
+        "en": {
+          "content": "A July office has a very specific kind of emptiness.\n\nI open the shared calendar: A flew to Japan, B took the kids to the coast, C burned all fourteen days he had left in one go, and my manager took the whole family somewhere cold.\n\nAnd me? I'm the one who 'booked a little later this year.'\n\nSo I'm running four inboxes by myself.\n\nEvery morning feels like a game: open four windows, switch between four tones of voice, play four different people answering messages.\n\nThe worst moment was finishing a reply on someone's behalf, and then five minutes later, in another window, somebody asked me: 'Who should I check with on this?'\n\nI looked at the screen and typed, very honestly:\n\n'Me. Ask me. This month I'm everyone.'",
+          "editorNote": "Send to the hero holding down the office in July. They have earned a bubble tea with extra toppings.",
+          "variations": [
+            "Extended: 'Summer isn't busy season or slow season. It's whoever's-left-covers-everything season.'",
+            "Short: 'This month I'm not covering for four people. I am four people.'"
+          ]
+        }
+      }
     }
   ]
 }
