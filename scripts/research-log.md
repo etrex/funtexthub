@@ -7315,3 +7315,69 @@ Done items collapsed; only live priorities listed.
 7. **[⚠️ OBSERVE 續辦 — 8 月颱風爆發期／白海豚走日本不影響台灣]** holiday-jokes/travel/renting/workplace 維持 pre-arm drafting、**今日純追蹤勿寫實體梗**；待實際系統研判影響台灣（海警/陸警/停班停課）再解禁。**勿寫死白海豚路徑/強度、勿調侃日本或受影響地區。**
 8. **[CLOSED — 颱風紅霞 7/26 登陸廣東/未登台 / 大暑 7/23 / 世界盃 7/20 / 五月天 7/12 / 會考放榜 7/7 / 端午 6/19 / 報稅 6/1 / 香港父親節 6/21]** 紅霞時效窗口已收尾、勿再新增颱風實體梗；worldcup 純常青；exam-quotes 深度休眠至 2027/6。
 9. **[FLAG — SKIP 不變]** 國會預算戰＋中國軍演＋民眾黨主席＋海巡衝突＋校園霸凌＋超哥爭議＋食安遊行/食用油致癌/疑美論 全 SKIP。『大跳』（王 ADEN 校園爭議）SKIP；『我ven一下/YBSG』SKIP；『留友看』省略政治歸因。龐奇/高麗菜那桌/朋朋/ㄅ級分/後面有車/接住/暈爛/初級大人 純呆萌/自嘲/服氣/陪伴共鳴無敏感。颱風類取通用生活共鳴、勿寫死侵台/登陸/放假、勿調侃受災地區與救災人員與他國。
+
+## 2026-07-29 Research Report
+
+### New Topic Recommendations（皆併入既有 topic，勿獨立建檔）
+
+1. **🎯 父親節 8/8 上線期進入 T-10（倒數兩位數最後一天）／fathers-day-quotes 現 223 items、7/28 續加碼（+5 since 7/27）· Father's Day GO-LIVE, T-10（併入 fathers-day-quotes 為主軸，cross-link mom/self-love/workplace，勿獨立）** — **上線窗口第三日，鋪貨節奏確認穩定：fathers-day-quotes 由 218 增至 223 items、最新 dateAdded 已達 2026-07-28，連三日各 +5。距 8/8（週六，「八八＝爸爸」諧音、「八八」疊起來似「父」字）僅剩 10 天，**下週起（8/1 進入 T-7）search 曲線將正式起飛，本週最後幾天是「先卡位、養權重」的最後從容期**。priority HIGH（本日第一時效優先）:**
+   - SEO rationale: 7/29 多源續驗證（Pinkoi『2026 父親節祝福語大全 65 句成語英文，卡片照抄也感人』／BenQ『2026 父親節活動/日期/由來』／悟空教育『2026 父親節祝福語 100 句』／蘋果仁 244248『60 句父親節快樂祝福語』皆持續更新中）。**「父親節 祝福語／父親節 卡片／父親節 短句／父親節 感人／父親節 英文／父親節 成語」為 8 月首週最大單一流量池，T-10 起每日 1-2 篇正中黃金鋪墊窗口。⚠️ 香港父親節 6/21 已 CLOSED，勿混用日期；⚠️ 8/8 亦為中國父親節說法之一，內容取通用親情共鳴、勿寫死地區/由來考據。**
+   - 建議: **fathers-day-quotes 每日 1-2 items 穩定鋪到 8/8**，情感軸持續多元化（感人／幽默／成語／簡訊短句／卡片照抄款各取，勿全走同一調——連三日同質是最大風險）。**本日建議刻意補「幽默/吐槽向」與「成語/正式向」兩端**，避免整批都是溫情長句。register「問我爸想要什麼禮物，他說『不用啦浪費錢』，然後偷偷把我送的那件襯衫穿去買菜／我爸的關心永遠不是『我愛你』，是『油加了沒』『到了報一聲』／老爸像家裡那台老電扇，聲音大、話很少，夏天少了他真的活不下去」。en「I asked Dad what he wanted. He said 'don't waste your money' — then wore the shirt I bought him to the grocery store.／Dad never opens with 'I love you.' It's 'text me when you get there.'」cross-link mom-quotes（雙親對照）／self-love／workplace（給也是爸爸的同事）。**勿寫死禮物價格／餐廳。**
+
+2. **🔴 編輯決策升級／初級大人今日 192/328＝59%，且較昨日「不降反增 +2 篇」＝STOP 指令未被完全執行、需硬性攔截 · Saturation STOP Is Leaking（編輯紀律，非內容建議）** — **本日以與昨日相同口徑（整篇 item 比對）grep 複查：adulting-quotes 由 323 增至 328 items（+5），其中含「初級大人／高級大人」由 190 增至 192 篇（+2）＝**昨日明確下達 STOP 之後，新增的 5 篇裡仍有 2 篇帶該梗，佔當日新增的 40%**。佔比續卡 59%、連兩日零下降。priority 🔴 HIGHEST（編輯紀律，優先於今日所有新增）:**
+   - SEO rationale: 這已不是「稀釋速度不足」的問題，而是**STOP 未落地**——連續兩份報告的最高優先指令被當日新增內容直接違反。單梗佔近六成將實質壓縮 adulting-quotes 的長尾關鍵字廣度，且使該 topic 對搜尋引擎呈現高度重複的內容特徵。
+   - 建議: **adulting-quotes 即刻起硬性攔截：新增 item 若 content／editorNote／variations／tags 任一處出現「初級大人」「高級大人」或其明顯變體（初級/高級＋大人、大人分級、大人等級），一律不得寫入——請在寫入前對該批新 items 自行 grep 一次再落檔。** 稀釋軸限定走非分級敘事：獨居維修／健檢報告／繳費循環／社交電量／換工作猶豫／存款焦慮／爸媽變老。目標佔比 <50% 前，adulting-quotes 每日新增上限降為 1-2 items 且全數走新軸。**勿為降佔比刪除既有 items（僅靠停 carry ＋新增稀釋）。** 續對 items 數前段 topic（cheesy 369／sweet 359／holiday-jokes 336／adulting 328／slang 301）維持每週單梗佔比抽查。
+
+3. **⚠️ OBSERVE 更新／白海豚 7/28 下午升中颱、7/29 上看強颱，路徑西轉西北「直撲日本」、本週對台完全無影響且無發海警可能 · Baihaitun Upgraded but Aims at Japan（併入 holiday-jokes/travel/renting/workplace，⚠️ 今日仍純追蹤、勿寫實體梗）** — **昨日列為 OBSERVE 的首個 8 月系統今日明顯增強：氣象署預報員指白海豚發展快速，7/28 下午 2 時轉中颱、預估 7/29 增強為強颱、「也是超肥巨獸」，3 天後恐達強颱上限；路徑朝西轉西北西，7/30 前後受太平洋高壓導引轉向西北朝日本，8/3-8/6 對日本造成顯著影響。**距台仍相當遙遠、本週對台灣天氣無影響、亦無發布海上颱風警報的可能。** priority — OBSERVE 續辦（強度升級但方向確定走日本＝仍不解禁）:**
+   - SEO rationale: 7/29 多源（NOWnews 6860643『白海豚也是超肥巨獸、3 天後恐變強颱、最新路徑直撲日本』／NOWnews 6860250『最快週二生成、預估路徑大轉彎』／壹蘋 20260729『悶熱持續到週末、白海豚最快挑戰強颱』／今周刊 202607260002 皆 2026）。**值得記錄的觀察：Yahoo 出現『又可以放假了？白海豚颱風生成』式標題＝台灣人「看到颱風先想放假」的反射情緒確實再度被觸發，但實際影響為零。此情緒軸與 7/24 紅霞的『海警發了假沒發』落空自嘲高度重疊、且該軸已於 7/27 CLOSED——今日重寫等同單事件過度堆疊（初級大人式錯誤），不予解禁。**
+   - 建議: **今日仍不寫任何颱風實體梗。** holiday-jokes/travel/renting/workplace 維持 pre-arm drafting（『訂好的 8 月行程開始要看颱風臉色／才收好曬到融化的心情又要防颱／套房漏水焦慮續集』），**待實際有系統研判影響台灣（發海警/陸警或縣市達停班停課標準）再即時解禁**。**勿寫死白海豚路徑/強度/日期、勿調侃日本或受影響地區與救災人員。**
+
+4. **📌 NEW DRAFTING／2026 開學日經查證為 8/31（週一）、非 9/1；暑假 7/1-8/30 共 61 天、大學 9/7 開學 · Back-to-School 8/31 Confirmed, T-33（併入 student-quotes ＋ adulting/insomnia/motivational，勿獨立）** — **本日新查證項：115 學年度第 1 學期中小學開學日為 2026/8/31（週一），暑假 7/1（三）-8/30（日）；**注意 9/1 是 114 學年度（2025）的開學日，為易誤植點**。大學各校不同，台大/政大/清大等 6/15 放暑假、9/7 開學（85 天）。距 8/31 尚有 33 天，屬 drafting 前哨。priority MEDIUM-LOW（NEW，8 月中旬啟動）:**
+   - SEO rationale: 7/29 多源（今周刊 202506240040『2026 行事曆』／親子天下 5090568『115 學年度開學、寒暑假』／CashFeel『2026 各級學校暑假』／pleyschool『2026 行事曆』皆載 8/31 開學）。**「開學 語錄／收心／暑假作業／開學日 幾號／不想開學」search 於 8 月中下旬集中爆發，是父親節（8/8）→ 七夕（8/19）之後的 8 月第三波、也是本站 student-quotes 全年第二大窗口（僅次於 6 月畢業季）。⚠️ 開學日以 8/31 為準，9/1 為去年度日期、勿誤植。**
+   - 建議: **student-quotes 於 8/17 前後（T-14）啟動每日 1 item，鋪到 8/31**；本日僅 drafting 不寫。軸線：暑假作業最後一週趕工／生理時鐘回不去／制服還穿得下嗎／新學期新希望撐三天。cross-link adulting（出社會版的「開學」＝連假收假）／insomnia（開學前睡不著）／motivational（收心正向）。register「暑假作業的完成度，和我對新學期的期待成反比／開學前一晚，我的生理時鐘正式宣告拒絕配合」。**取自嘲與陪伴，勿貶低學生或製造升學焦慮。**
+
+5. **盛夏晴熱主線／7/29 高壓增強、天氣回穩轉晴，西半部及宜蘭 33-36 度、內陸更高，午後雷陣雨限山區 · Midsummer Clear & Hot（併入 diet/travel/student/insomnia/korean-drama，⚠️ summer-electric 已 210 items 深度飽和、本日不新增）** — **7/29 高壓增強、天氣逐漸回穩，各地多雲到晴，僅台東及恆春半島局部短暫陣雨、午後山區局部雷陣雨；花東 32-33 度、西半部及宜蘭 33-36 度、局部內陸更高、離島 30-32 度；中南部午後雷陣雨趨緩。**較昨日「9 縣市如烤箱」略降一級，屬夏季常態高溫、無新峰值。** priority MEDIUM-LOW（常態時效）:**
+   - SEO rationale: 7/29 多源（壹蘋 20260728『炎熱持續上看 36 度、南部午後雷陣雨較明顯』／壹蘋 20260729『悶熱天氣持續到週末』／TVBS 一週天氣預報皆 2026）。「熱浪／中暑／午後雷陣雨／防曬」為 7-8 月穩定長尾，但站內 summer-electric 已 210 items。
+   - 建議: **summer-electric-quotes 本日不新增（210 items 深度飽和、連日被點名仍在長）；** diet 1 item low（36 度勸退減重／只想喝冰的）＋travel 1 item low（出門五分鐘防曬全洗掉／雨終於停了太陽開始加班）＋student 1 item low（暑假冷氣房耍廢，剩一個月）＋insomnia 1 item low（熱到睡不著）＋korean-drama/drama-binge 1 item low（外面 36 度，我的夏天在冷氣房一集接一集）。register「雨才停一天，太陽就急著把上週欠的份全補回來／36 度的午後，我的行動力停在冷氣出風口前」。**中暑/紫外線帶提醒性正向、勿引不實電價、勿調侃戶外工作者。**
+
+6. **8 月情感群第二波續 drafting／鬼門開 8/13（T-15，農曆七月初一，習俗以 8/12 子時計）、七夕 8/19（T-21，多源三度確認）、中元 8/27（T-29）、鬼門關 9/10 · August Cluster Warm-up（併入 sweet/cheesy/cdrama-period/wedding/holiday-jokes，勿獨立）** — **父親節上線期同步暖身第二波，日期今日再次多源交叉確認無誤：鬼門開 8/13（週四，農曆七月初一；民俗以 8/12 晚 11 點子時開啟）→ 七夕 8/19（週三，農曆七月初七）→ 中元 8/27（週四）→ 鬼門關 9/10。今年七夕落在鬼月內＝浪漫 vs 禁忌同框的年年復現張力。priority MEDIUM（drafting）:**
+   - SEO rationale: 7/29 多源（懷恩生命『2026 鬼門開是 8/13、鬼月禁忌與中元祭拜』／owt.com.tw『2026 鬼門開農曆 8/13』／農曆網 nongli.info『2026 中元/鬼門開/鬼門關』／sutramoments『2026 鬼月完整指南』皆 2026）。**⚠️ 七夕一律以 8/19 為準（8/25、8/29 為既往日誌已排除之誤植）。**「七夕 情話／土味情話／鬼月 禁忌／農曆七月 注意事項／8 月 婚禮」search 8 月初升溫。
+   - 建議: **sweet/cheesy 七夕（8/19）土味情話 8/12 前後起每日 1 item＋cdrama-period 古裝甜寵＋wedding 8 月婚禮旺季＋holiday-jokes 鬼月主題（禁忌自嘲/都市傳說幽默，8/10 前後啟動）drafting，本日僅 drafting**。⚠️ sweet（359）/cheesy（369）為站內 items 數前兩名，七夕檔期請走**具體情境**而非通用甜句，避免與既有大量庫存撞句。register「今年七夕在鬼月裡開門，浪漫和禁忌同一天上班／我對你的心動，是農曆七月裡唯一不用怕的東西」。**鬼月取民俗趣味與自嘲，勿恐嚇、勿冒犯信仰。**
+
+7. **『後面有車』仍為全站唯一低成本 slang 主 carry（7/29 grep：仍僅 slang-quotes 1 檔）／新梗池連週無爆款、確認進入成熟期 · Still the Only Untapped Carry（併入 slang-quotes ＋ workplace/service/couple-jokes，勿獨立）** — **7/29 grep 複查：『後面有車』全站仍僅 slang-quotes.json 1 檔命中＝連續三份報告推薦、但覆蓋面始終未擴張，可安全放量成為 slang 主 carry（取代已停的初級大人）。本週梗盤點結果與上週相同：高麗菜那桌／ㄅ級分（金童發明、李怡蓁推廣）／龐奇／留友看／初級大人 的成熟池，**無全新爆紅梗進場**。priority MEDIUM（低成本、高差異化，且正好是 adulting 停 carry 後的替代出口）:**
+   - SEO rationale: 7/29 多源（PopDaily 1643674『2026 Threads 爆紅 5 個梗』／DailyView 33240『初級大人/高級大人』／ELLE HK『Gen Z/Threads 常用潮語 2026』皆 2026 仍收錄同一池、已通過半年短命測試）。「後面有車 意思/由來/梗」平穩長尾、站內近零覆蓋＝立即可吃。
+   - 建議: **slang-quotes 1-2 items（『後面有車』本體＋情境化）＋workplace 1 item（被主管點名突然語無倫次）＋service 1 item（客人一急整個當機）＋couple-jokes 1 item low（另一半『我們談談』瞬間後面有車）**。register「主管只是問我進度，我整個人後面有車／她說『我們聊一下』，我後面不只有車，是整條國道」。en「My manager just asked for a status update and my brain hit full panic mode.」**自嘲主體一律「我」，勿寫原始當事人、勿嘲笑他人出糗；縮寫梗 sldpk/kam4/0尊 各 0-1 則試水勿成組；『大跳』（藝人校園爭議）SKIP。**
+
+### Content Trends
+- **父親節 8/8 進入 T-10＝本日時效第一優先**：fathers-day-quotes 已 223 items（連三日各 +5、節奏穩定），每日 1-2 items 鋪到 8/8；**本日刻意補「幽默吐槽」與「成語正式」兩端，避免連日同質**。⚠️ 香港 6/21 已 CLOSED、8/8 中國父親節說法勿寫死由來考據、勿寫死禮物價格。
+- **🔴 飽和度 STOP 未落地＝本日最嚴重編輯問題**：初級大人 192/328＝59%，昨日下 STOP 後當日新增 5 篇仍有 2 篇帶該梗（佔新增 40%）。**改為硬性攔截：落檔前自行 grep 該批新 items，命中即不得寫入；adulting 每日上限降為 1-2 且全走新軸。勿刪既有 items。**
+- **白海豚升中颱→上看強颱但確定走日本、對台零影響**：本週無發海警可能；Yahoo『又可以放假了？』式標題顯示台灣「颱風＝放假」反射情緒再被觸發，**但該落空自嘲軸已於 7/27 CLOSED，重寫＝單事件堆疊，維持 OBSERVE 不解禁**。勿寫死路徑強度、勿調侃日本。
+- **📌 新查證：2026 開學日為 8/31（週一）非 9/1**（9/1 是 2025 學年度、易誤植）；暑假 7/1-8/30、大學 9/7。student-quotes 全年第二大窗口，**8/17 前後（T-14）啟動、本日僅 drafting**。
+- **盛夏轉晴熱**：7/29 高壓增強回穩、西半部及宜蘭 33-36 度、午後雷陣雨限山區，較昨日略降一級屬常態；**summer-electric（210 items）本日不新增**，改由 diet/travel/student/insomnia/追劇各 1 item low 承接。
+- **8 月情感群第二波 drafting**：鬼門開 8/13（T-15）→ 七夕 8/19（T-21，三度確認）→ 中元 8/27（T-29）→ 鬼門關 9/10；**sweet(359)/cheesy(369) 為站內前兩大，七夕請走具體情境避免撞句**。
+- **『後面有車』連三報告仍全站僅 1 檔＝仍未被吃下**，正好作為 adulting 停 carry 後的 slang 出口；梗池成熟無新爆款，縮寫梗試水勿成組、『大跳』SKIP。
+
+### Existing Topic Updates
+- **fathers-day-quotes（7/29 上線期 T-10, priority HIGH — 本日第一時效優先）**：223 items，每日 1-2 items 鋪到 8/8；**本日補幽默吐槽＋成語正式兩端**。register『問我爸想要什麼，他說「不用啦浪費錢」，然後偷偷穿去買菜』。cross-link mom/self-love/workplace。**香港 6/21 CLOSED、勿寫死禮物價格/由來考據。**
+- **adulting-quotes（7/29 飽和度 🔴 HIGHEST — 編輯決策）**：192/328＝59%，STOP 後仍有 40% 新增帶該梗＝**改硬性攔截（落檔前 grep，命中不寫入）**；每日上限降 1-2 items 且全走新軸（獨居維修/健檢/繳費循環/社交電量/存款焦慮/爸媽變老）。**勿刪既有 items。**
+- **summer-electric-quotes（7/29 已 210 items 深度飽和, priority — 本日不新增）**：連日被點名仍在長；33-36 度屬夏季常態、無新峰值，**本日零新增**，僅極少數全新軸例外。
+- **holiday-jokes/travel/renting/workplace（7/29 白海豚升強颱但走日本, priority — OBSERVE 續辦）**：仍不寫颱風實體梗；『放假落空』軸已 CLOSED 勿重寫；維持 pre-arm drafting，待研判影響台灣（海警/陸警/停班停課）再解禁。**勿寫死路徑/強度、勿調侃日本。**
+- **student-quotes（7/29 📌 NEW 開學 8/31 drafting T-33, priority MEDIUM-LOW）**：本日僅 drafting，8/17 前後啟動每日 1 item 鋪到 8/31。軸線：暑假作業趕工／生理時鐘回不去／新學期新希望撐三天。**開學日以 8/31 為準（9/1 為去年度）；勿製造升學焦慮。**
+- **diet/travel/insomnia/korean-drama/drama-binge（7/29 盛夏晴熱＋室內追劇, priority MEDIUM-LOW）**：36 度勸退減重／防曬全洗掉／熱到睡不著／冷氣房一集接一集 各 1 item low。**劇名勿劇透。**
+- **sweet/cheesy/cdrama-period/wedding/holiday-jokes（7/29 8 月情感群第二波 drafting, priority MEDIUM）**：七夕（8/19）土味情話 8/12 前後／古裝甜寵／8 月婚禮旺季／鬼月 8/10 前後。**sweet/cheesy 已 359/369 items，七夕走具體情境避免撞句；七夕以 8/19 為準；鬼月勿恐嚇勿冒犯信仰。**
+- **slang-quotes/workplace/service/couple-jokes（7/29『後面有車』續放量主 carry, priority MEDIUM）**：slang 1-2 items（本體＋情境化）＋workplace/service 各 1 item＋couple-jokes 1 item low。**主體「我」，勿寫當事人；縮寫梗試水勿成組；『大跳』SKIP。**
+- **concert-ticket-quotes（7/29 暑假音樂祭+8 月演唱會續辦, priority LOW）**：大稻埕夏日節 7/25-8/25、濱海搖滾 8/15-16、澎大海 8/21-23、Official髭男dism 8/29-30 小巨蛋。1 item low（36 度為偶像蒸發／搶票失敗票根照增）。**勿寫死場次票價、藝人不評價不影射。**
+- **self-love/motivational/healing（7/29 英文常青微補, priority LOW）**：8 月生日語錄（"born in August"）／"new era / unbothered" 短句 organic 各 1 item low（en 側優先）。IG caption 趨勢：2026 演算法轉 search-first、關鍵字重於 hashtag、前 125 字為 hook＝**en 側短句把重點字放句首**。
+- **worldcup-quotes**：純四年一度回憶常青、勿再寫賽果/空虛時效、梅西勿寫死退休。**cat/dog/pet-memorial/mom/zodiac/cold-jokes/food-jokes/fitness/breakup/stock-investor/human-design/programmer/absurd-wisdom/graduation**：organic 觀察期。exam-quotes 深度休眠至 2027/6。
+
+### Updated Action Priority
+1. **[🔴 HIGHEST — 編輯決策：飽和度 STOP 硬性攔截]** adulting『初級大人/高級大人』192/328＝59%、昨日 STOP 後新增仍有 40% 帶梗＝**落檔前對該批新 items 自行 grep，命中一律不寫入**；每日上限降 1-2 items 且全走新軸至 <50%。**勿刪既有 items。**（優先於今日所有新增）
+2. **[HIGH — 🎯 父親節 8/8 上線期 T-10]** fathers-day-quotes（223 items）每日 1-2 items 鋪到 8/8，**本日補幽默吐槽＋成語正式兩端避免連日同質**，cross-link mom/self-love/workplace。**香港 6/21 CLOSED、勿寫死禮物價格。**
+3. **[MEDIUM — 『後面有車』續放量主 carry（adulting 停 carry 的替代出口）]** slang 1-2 items＋workplace/service 各 1 item＋couple-jokes 1 item low。**主體「我」、勿寫當事人；縮寫梗試水勿成組；『大跳』SKIP。**
+4. **[MEDIUM — 8 月情感群第二波 drafting]** sweet/cheesy 七夕（8/19）8/12 前後／cdrama-period 古裝甜寵／wedding 8 月婚禮旺季／holiday-jokes 鬼月 8/10 前後。**sweet/cheesy 已近 360-370 items，走具體情境避免撞句；七夕以 8/19 為準。**
+5. **[MEDIUM-LOW — 盛夏晴熱主線]** diet/travel/student/insomnia/korean-drama/drama-binge 各 1 item low。**summer-electric（210 items）本日零新增；中暑/紫外線帶提醒性正向、勿引不實電價。**
+6. **[MEDIUM-LOW — 📌 NEW 開學 8/31 drafting（T-33）]** student-quotes 本日僅 drafting，8/17 前後（T-14）啟動鋪到 8/31。**開學日 8/31 為準、9/1 為去年度誤植；勿製造升學焦慮。**
+7. **[LOW — 暑假音樂祭/8 月演唱會＋英文常青微補]** concert-ticket 1 item low＋self-love/motivational/healing 8 月生日語錄/"new era/unbothered" organic 1 item low（**en 側短句把關鍵字放句首，配合 IG search-first 演算法**）。
+8. **[⚠️ OBSERVE 續辦 — 白海豚升中颱→上看強颱、路徑直撲日本、對台零影響]** holiday-jokes/travel/renting/workplace 維持 pre-arm drafting、**今日純追蹤勿寫實體梗**；『放假落空』軸已 CLOSED 勿重寫；待研判影響台灣（海警/陸警/停班停課）再解禁。**勿寫死路徑/強度、勿調侃日本與受影響地區。**
+9. **[CLOSED — 颱風紅霞 7/26 登陸廣東/未登台 / 大暑 7/23 / 世界盃 7/20 / 五月天 7/12 / 會考放榜 7/7 / 端午 6/19 / 報稅 6/1 / 香港父親節 6/21]** 紅霞時效已收尾；worldcup 純常青；exam-quotes 深度休眠至 2027/6。
+10. **[FLAG — SKIP 不變]** 國會預算戰＋中國軍演＋民眾黨主席＋海巡衝突＋校園霸凌＋超哥爭議＋食安遊行/食用油致癌/疑美論 全 SKIP。『大跳』（王 ADEN 校園爭議）SKIP；『我ven一下/YBSG』SKIP；『留友看』省略政治歸因。龐奇/高麗菜那桌/朋朋/ㄅ級分/後面有車/接住/暈爛/初級大人 純呆萌/自嘲/服氣/陪伴共鳴無敏感。颱風類取通用生活共鳴、勿寫死侵台/登陸/放假、勿調侃受災地區與救災人員與他國。
