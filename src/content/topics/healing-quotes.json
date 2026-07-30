@@ -9474,6 +9474,81 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-339",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://www.mindful.org/self-compassion-the-often-missing-ingredient-in-healthy-eating/",
+      "sourceNote": "Mindful.org 談自我疼惜與飲食自責的循環；改寫成冰箱裡沒煮的食材場景",
+      "tags": ["療癒", "自我疼惜", "自我照顧", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "冰箱最下層那包已經爛掉的青菜，\n你不用為它罵自己。\n買它的那天，你是真心想好好照顧自己的。\n只是那個星期，力氣剛好不夠煮它。\n那份心意沒有壞掉，它還在。",
+          "editorNote": "適合那種「明明想好好生活卻做不到」而自責的時刻。也可以傳給買了一堆健康食材、結果整週都吃外送的朋友。",
+          "variations": [
+            "買菜的那個你，跟沒力氣煮的這個你，是同一個人。他們都在盡力。",
+            "菜可以丟，但那份想照顧自己的心留下來就好。"
+          ]
+        },
+        "en": {
+          "content": "That bag of greens going soft at the back of your fridge—\nyou don't owe yourself a lecture over it.\nThe day you bought it, you honestly meant to take care of yourself.\nThat week just didn't leave you the energy to cook it.\nThe intention didn't spoil. That part's still good.",
+          "editorNote": "For the moment you're beating yourself up because you meant to live better and didn't. Also good for the friend who buys a fridge full of vegetables and orders delivery all week.",
+          "variations": [
+            "The you who bought the groceries and the you too tired to cook them are the same person. Both were doing their best.",
+            "Throw out the vegetables. Keep the part of you that wanted to feed you well."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-340",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://self-compassion.org/what-is-self-compassion/",
+      "sourceNote": "Kristin Neff 對自我疼惜的定義（善待自己而非嚴厲評判）；改寫成收藏夾裡沒看完的文章場景",
+      "tags": ["療癒", "自我疼惜", "心靈", "允許"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的收藏夾裡存了三十幾篇「怎麼好好愛自己」，\n一篇都沒看完。\n那不是你不上進。\n按下收藏的那一秒，\n你已經替自己說過一句：我想被好好對待。\n那句話，比那三十篇加起來都重要。",
+          "editorNote": "適合存滿了心理成長內容、卻一直沒力氣打開的人。也可以貼在自己的備忘錄裡，提醒自己不必先做完功課才配好過。",
+          "variations": [
+            "你不是懶得看，是你現在需要的不是方法，是有人告訴你：你已經可以了。",
+            "那些沒看完的收藏，是你還想好起來的證據。"
+          ]
+        },
+        "en": {
+          "content": "You've saved thirty-something articles about being kinder to yourself.\nHaven't finished a single one.\nThat's not you slacking off.\nThe second you hit save, you'd already said it out loud:\nI want to be treated well.\nThat sentence matters more than all thirty of them put together.",
+          "editorNote": "For anyone whose saved folder is stuffed with self-growth reading they never have the energy to open. Works as a note to yourself, too: you don't have to finish the homework before you're allowed to feel okay.",
+          "variations": [
+            "You're not too lazy to read them. You just need someone to say you're already enough, not another method.",
+            "Every article you saved and never opened is proof you still want to get better."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-341",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://deconstructingstigma.org/guides/self-compassion",
+      "sourceNote": "自我疼惜指南中「共通人性、不必因羞愧而孤立自己」的概念；改寫成留意陌生人小小善意的場景",
+      "tags": ["療癒", "陪伴", "溫柔", "希望"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天撐住你的，可能不是什麼大道理。\n是店員把熱食遞過來時多說的那句「小心燙」，\n是有人幫你按住電梯門，\n是路口有人先讓你過。\n在你覺得沒人在意的那天，\n其實還是有人對你溫柔了一下，\n只是他們剛好都不認識你。",
+          "editorNote": "適合覺得自己被世界忘記的那種夜晚。可以傳給孤單的朋友，也可以自己回想一下：今天有誰對你好過一下？",
+          "variations": [
+            "不是每一份溫柔都會自我介紹。",
+            "那些不認識你的人，今天也對你好過一下，只是你當時沒空注意。"
+          ]
+        },
+        "en": {
+          "content": "What got you through today probably wasn't some big insight.\nIt was the clerk saying \"careful, it's hot\" as they handed it over.\nSomeone holding the elevator.\nSomeone waving you across first.\nOn the day you felt like nobody cared,\na few people were still gentle with you—\nthey just happened to be strangers.",
+          "editorNote": "For the kind of night where you feel forgotten by everyone. Send it to a friend who's lonely, or use it yourself to go back through the day and count who was kind to you.",
+          "variations": [
+            "Not every bit of kindness introduces itself.",
+            "People who don't even know your name were good to you today. You were just too tired to notice."
+          ]
+        }
+      }
     }
   ]
 }

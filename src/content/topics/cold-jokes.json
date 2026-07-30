@@ -10021,6 +10021,91 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-385",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://natasha790708.pixnet.net/blog/posts/16179078587",
+      "sourceNote": "kitchen-mishap observational format seen in TW joke roundups; the plastic-wrap scene and the self-love punchline are written from scratch, English side stands alone",
+      "tags": [
+        "生活",
+        "擬人",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我今天叫保鮮膜幫我包一個碗。」\n「結果呢？」\n「它把自己包起來了。」\n「⋯⋯那你再拉一段？」\n「拉了，它又把自己包起來了。」\n「這捲是不是壞了？」\n「沒壞。我覺得它只是比較愛自己。」",
+          "editorNote": "在廚房手忙腳亂時自嘲用，也很適合形容那種永遠只顧自己的同事，殺傷力低但很有畫面",
+          "variations": [
+            "縮短版：「保鮮膜的專長是保鮮，副業是把自己纏成一團。」",
+            "加碼：「那你最後怎麼包好的？」「我改用盤子蓋。談判破局。」"
+          ]
+        },
+        "en": {
+          "content": "\"I asked the plastic wrap to cover a bowl tonight.\"\n\"And?\"\n\"It wrapped itself.\"\n\"...So you pulled another sheet?\"\n\"I did. It wrapped itself again.\"\n\"Is the roll defective?\"\n\"Not at all. I think it just has really strong boundaries.\"",
+          "editorNote": "Great for kitchen-fail small talk, or as a gentle jab at the coworker who only ever looks after themselves",
+          "variations": [
+            "Short version: 'Plastic wrap is great at preservation and even better at self-preservation.'",
+            "Add-on: 'So how did you cover it?' 'Put a plate on top. Negotiations broke down.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-386",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://neww.tw/jokeday/",
+      "sourceNote": "commuter-life humor angle; the transit-card balance bit is original, English version rebuilt around a turnstile so it works without the TW context",
+      "tags": [
+        "生活",
+        "交通",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我每天最緊張的三秒，是上公車嗶悠遊卡的時候。」\n「有什麼好緊張的？」\n「因為那一聲會用全車都聽得到的音量，公布我的財務狀況。」\n「⋯⋯那今天公布多少？」\n「十七塊。全車都幫我一起沉默了三秒。」",
+          "editorNote": "通勤路上或月底大家在哀嘆錢包時丟出來，台灣人共感度極高又不涉及真的抱怨",
+          "variations": [
+            "縮短版：「我不用記帳App，我用悠遊卡餘額，比較有臨場感。」"
+          ]
+        },
+        "en": {
+          "content": "\"The tensest three seconds of my day is tapping in at the turnstile.\"\n\"Why would that be tense?\"\n\"Because it announces my remaining balance at a volume the entire platform can enjoy.\"\n\"...What did it announce today?\"\n\"Forty cents. A stranger held the gate for me out of pity.\"",
+          "editorNote": "Works on any commute, or when the group starts complaining about end-of-month money — relatable without being a real complaint",
+          "variations": [
+            "Short version: 'I don't need a budgeting app. I have a turnstile, and it reads my balance out loud.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-387",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://uptogo.com.tw/%E7%A7%91%E6%8A%80/%E7%B6%B2%E8%B7%AF/2026%E6%9C%89%E4%BB%80%E9%BA%BC%E6%A2%97%EF%BC%9F/",
+      "sourceNote": "riffs on the 2026 Year of the Horse meme wave; the delayed-horse gag and the tracking-number punchline are written fresh in both languages",
+      "tags": [
+        "時事",
+        "2026梗",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今年是馬年，長輩全都祝我『馬到成功』。」\n「聽起來很吉利啊。」\n「都七月底了，馬還沒到。」\n「你要不要查一下物流？」",
+          "editorNote": "2026馬年限定，過年拜訪長輩、年中檢討或跟同事對帳KPI時的短打自嘲",
+          "variations": [
+            "加碼：「查到了嗎？」「查到了，狀態顯示『配送中』，備註寫『收件人不在家』。」",
+            "縮短版：「馬年都過一半了，我開始懷疑我那匹是走路來的。」"
+          ]
+        },
+        "en": {
+          "content": "\"It's the Year of the Horse, so every relative keeps telling me success will come galloping in.\"\n\"That sounds encouraging.\"\n\"It's the end of July. I haven't heard a single hoof.\"\n\"Have you tried checking the tracking number?\"",
+          "editorNote": "A 2026-specific self-roast for family gatherings, mid-year reviews, or any conversation about goals that haven't arrived yet",
+          "variations": [
+            "Add-on: 'Any luck with the tracking?' 'Yes. Status: out for delivery. Note: recipient not home.'",
+            "Short version: 'Half the Year of the Horse is gone. I'm starting to think mine is walking.'"
+          ]
+        }
+      }
     }
   ]
 }

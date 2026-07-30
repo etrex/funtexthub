@@ -8481,6 +8481,96 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-293",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://udn.com/news/story/120912/9549698",
+      "sourceNote": "超商結帳時客人堅持載具已綁在行動支付裡、店員解釋機器分開感應仍鬼打牆的討論。檔內無載具／電子發票題材，svc-002 是點餐誤解、svc-054 是別家禮券，本則核心是客人自己的需求在同一次結帳裡改了三個版本",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "收銀"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我載具綁在手機支付裡了，你不用問。」\n「不好意思，我們這台是分開感應的。」\n「都綁在一起了啊，你是不會用喔？」\n於是我把發票印出來。\n「誰叫你印的？我要存載具。」\n同一個人，三十秒內給了我三種答案，\n而這台機器，一次只讀得懂一個。",
+          "editorNote": "傳給每天在結帳台被「綁在一起就好了」鬼打牆的收銀夥伴。不是我們不肯，是機器讀不到您心裡那個版本的流程。",
+          "variations": [
+            "「你們系統怎麼這麼爛。」系統可能是爛的，但它至少每次都給我同一個答案。",
+            "我不怕操作複雜，我怕您的需求在我按下確認鍵之後才改版。"
+          ]
+        },
+        "en": {
+          "content": "\"My receipt's already linked to my phone. Don't ask.\"\n\"Sorry, this terminal scans the payment and the receipt separately.\"\n\"They're linked. You don't know how to work your own register?\"\nSo I print the paper receipt.\n\"Who told you to print it? I wanted it stored digitally.\"\nSame guy. Three different answers in thirty seconds.\nThe scanner only reads one at a time.",
+          "editorNote": "For every cashier stuck in the \"it's all linked, just do it\" loop. It's not that we won't — the terminal can't read the version of the process that exists only in your head.",
+          "variations": [
+            "\"Your system sucks.\" Maybe it does. But at least it gives me the same answer every time.",
+            "I can handle a complicated register. What I can't handle is the request changing after I hit confirm."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-294",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://www.mol.gov.tw/1607/28690/2282/2284/2292/7234/",
+      "sourceNote": "勞動部關於雇主要求勞工下班後參加與業務相關教育訓練、其時間應否計入工作時間的解釋。檔內無教育訓練／線上課程題材，svc-053 是神秘客稽核、svc-023 是公司教微笑，本則核心是課程本身吃掉的無薪時間，以及課綱缺了下班那一段",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "工時",
+        "公司"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司寄來十二堂線上課程，\n標題叫「打造感動服務」，\n限期兩週看完，測驗要八十分。\n我在下班後的床上點開第九堂，\n它教我把語調提高兩度、尾音上揚。\n十二堂裡沒有一堂教我，\n被吼完之後，\n怎麼把自己的聲音調回原本的高度。",
+          "editorNote": "勞動部的說法很清楚：雇主要求、又跟業務相關的教育訓練，時間應計入工作時間。下次看到「限期兩週看完」，記得那兩週也是公司的時間，不是你的。",
+          "variations": [
+            "那十二堂課，公司算成「自我成長」，我算成無薪加班。",
+            "教微笑的課有十二堂，教怎麼把情緒收好再回家的，一堂都沒有。"
+          ]
+        },
+        "en": {
+          "content": "Corporate sent over twelve online modules.\nTitle: \"Building Moments That Move Customers.\"\nTwo weeks to finish, 80% to pass.\nI open module nine in bed after my shift.\nIt teaches me to lift my pitch two notes and end on an upswing.\nNot one of the twelve teaches me\nhow to get my voice back down to its own pitch\nafter somebody finishes yelling at me.",
+          "editorNote": "Taiwan's labor ministry is clear that mandatory, job-related training counts as work time. Next time a two-week deadline lands in your inbox, remember those two weeks belong to the company, not to you.",
+          "variations": [
+            "Corporate calls those twelve modules \"personal growth.\" I call them unpaid overtime.",
+            "Twelve modules on how to smile. Zero on how to put yourself back together and go home."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-295",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/541667",
+      "sourceNote": "服務業人力荒與現場負荷的深度報導。svc-247 是休息時間被客人卡掉、svc-222 是躲進倉庫喘一口，本則核心是一頓飯被切成七次、最後涼掉的具體畫面",
+      "tags": [
+        "服務業",
+        "厭世",
+        "工時",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的午餐十二點開始吃，\n下午三點才吃完。\n中間站起來七次，\n每一次都只來得及咬一口。\n最後那口飯，涼得非常徹底。\n這份工作不是沒有吃飯時間，\n是沒有一段不會被叫走的三分鐘。",
+          "editorNote": "傳給那個便當放到涼、卻還是把每一位客人服務完的自己。休息時間寫在班表上是一件事，能不能真的休息是另一件事。",
+          "variations": [
+            "別人問我午餐吃什麼，我說「吃了三小時，內容忘了」。",
+            "我的休息時間有三十分鐘，只是它被切成十份，每份三分鐘。"
+          ]
+        },
+        "en": {
+          "content": "I started lunch at noon.\nI finished it at three.\nI stood back up seven times.\nEach time I got exactly one bite in.\nThat last bite was thoroughly cold.\nThis job isn't short on a lunch break.\nIt's short on three minutes nobody calls you away from.",
+          "editorNote": "For anyone whose food went cold in the back while they finished taking care of everyone out front. A break on the schedule and a break you actually get are two different things.",
+          "variations": [
+            "Someone asked what I had for lunch. I said \"three hours, don't remember.\"",
+            "I get a thirty-minute break. It just shows up in ten pieces, three minutes each."
+          ]
+        }
+      }
     }
   ]
 }

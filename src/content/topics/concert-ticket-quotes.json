@@ -6485,6 +6485,90 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-231",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "搶票攻略第一條就是提早登入、確認會員密碼，最常見的失誤是卡在登入頁",
+      "tags": [
+        "搶票",
+        "會員",
+        "秒殺",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "10:58，\n我點開登入頁，\n才發現我忘記密碼。\n\n按下「忘記密碼」，\n重設信 11:03 才進來。\n\n我練了一個月的手速，\n最後倒在\n我自己鎖上的那道門前。",
+          "editorNote": "所有攻略都叫你提早登入，但真正的死因是密碼記錯。傳給那個開賣後五分鐘還在等重設信的朋友",
+          "variations": [
+            "進階版：「攻略教我測網速、關分頁、對時間。沒有一條寫著：先確認你還記得自己是誰。」"
+          ]
+        },
+        "en": {
+          "content": "10:58.\nI open the login page\nand realize I forgot my password.\n\nI hit 'reset password.'\nThe email lands at 11:03.\n\nA month of drilling my click speed,\nand I lost at a door\nI locked myself.",
+          "editorNote": "Every guide says log in early, but the real cause of death is a forgotten password. Send to the friend still waiting on a reset email five minutes after the drop",
+          "variations": [
+            "Escalated: 'The guides covered ping, tabs, and syncing my clock. Not one of them said: first make sure you still remember who you are.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-232",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://www.moneyhero.com.hk/zh/credit-card/blog/%E6%90%B6%E9%A3%9B%E6%94%BB%E7%95%A5-%E6%BC%94%E5%94%B1%E6%9C%83-%E5%84%AA%E5%85%88%E8%A8%82%E7%A5%A8%E4%BF%A1%E7%94%A8%E5%8D%A1",
+      "sourceNote": "結帳最後一步要跳銀行 3D 驗證，大額異常消費常被防詐系統擋下",
+      "tags": [
+        "搶到",
+        "刷卡",
+        "信用卡",
+        "票價"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搶到了。\n按下結帳，\n刷卡失敗。\n\n不是額度不夠，\n是銀行的防詐系統\n把這筆擋了下來，\n還打電話來問：\n\n「請問是您本人消費嗎？」\n\n我搶贏了幾十萬人，\n卻要先跟銀行證明\n我真的願意\n為三小時花這麼多錢。",
+          "editorNote": "最後一步的銀行驗證是搶到票後最容易斷線的地方，金額太大反而被判定盜刷。傳給那個一手拿票、一手接銀行電話的朋友",
+          "variations": [
+            "進階版：「連我的銀行都覺得這筆金額不像我會做的事。只有我知道，這是我今年最清醒的一次刷卡。」"
+          ]
+        },
+        "en": {
+          "content": "I got through.\nHit pay.\nCard declined.\n\nNot the limit —\nmy bank's fraud system\nkilled the charge,\nthen called to ask:\n\n'Can you confirm this was really you?'\n\nI outran a few hundred thousand people,\nthen had to convince my own bank\nthat yes,\nI'd pay that for three hours.",
+          "editorNote": "The bank verification step is where a won ticket dies most often — the amount looks so wrong it reads as fraud. Send to the friend holding a ticket in one hand and the bank on the line in the other",
+          "variations": [
+            "Escalated: 'Even my bank thought that number didn't look like something I'd do. Only I know it was the clearest-headed swipe of my year.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-233",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3019879",
+      "sourceNote": "同一場常分十幾種票價，低價區最先秒殺，剩下的餘票幾乎都在最高價區",
+      "tags": [
+        "票價",
+        "完售",
+        "階級",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開賣三分鐘，\n座位圖上便宜的那幾區\n全部變灰。\n\n系統很貼心地提醒我：\n「本場尚有餘票。」\n\n有，\n在最上面那一區，\n一張是我三天的薪水。\n\n我搶不到的從來不是票，\n是我買得起的那種票。",
+          "editorNote": "低價區秒殺後只剩最高價區，「尚有餘票」四個字最傷人。傳給那個還在重整座位圖、只等便宜區釋票的朋友",
+          "variations": [
+            "進階版：「票沒有完售，只是完售給我這種人。」"
+          ]
+        },
+        "en": {
+          "content": "Three minutes in,\nevery cheap section on the map\nhas gone gray.\n\nThe site helpfully notes:\n'Tickets still available.'\n\nThey are —\nup in the top tier,\nwhere one seat is three days of my pay.\n\nWhat I can never get\nisn't a ticket.\nIt's a ticket I can afford.",
+          "editorNote": "The affordable tiers vanish first, so 'tickets still available' always means the priciest block. Send to the friend refreshing the seat map waiting on the cheap section",
+          "variations": [
+            "Escalated: 'It isn't sold out. It's just sold out to people like me.'"
+          ]
+        }
+      }
     }
   ]
 }

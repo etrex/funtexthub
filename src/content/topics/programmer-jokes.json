@@ -10927,6 +10927,99 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-380",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://git-scm.com/docs/git-bisect",
+      "sourceNote": "git bisect docs plus the well-known team pain of repo-wide formatting commits polluting bisect and blame (the reason .git-blame-ignore-revs exists)",
+      "tags": [
+        "Git",
+        "除錯",
+        "工程師日常",
+        "程式碼品質",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "線上壞了三個禮拜，沒有人知道是從哪一版開始的。\n我很得意地祭出 git bisect，二分了十一次，精準抓到第一個壞掉的 commit。\n那則 commit 訊息寫：`style: 全專案套用 formatter`。\n變更檔案數：兩千一百個。\n我一行一行往下看，看到第一千四百多個檔案的時候找到了——有人趁全專案格式化的時候，順手把一個 `>=` 改成了 `>`。\ngit bisect 幫我從三個禮拜縮小到一個 commit。\n然後那個 commit 本身就是一片大海。",
+          "editorNote": "傳給正在 bisect 的人。也很適合在團隊裡當成溫柔的提醒：格式化請自己開一個 commit，不要夾東西進去。",
+          "variations": [
+            "延伸：那天之後我們多了一條規定——格式化 commit 裡夾邏輯改動的人，負責值班一個月。",
+            "也可以收尾成：『二分搜尋是 O(log n) 沒錯，但前提是每個 commit 都還是人類看得完的尺寸。』"
+          ]
+        },
+        "en": {
+          "content": "Prod had been broken for three weeks and nobody knew which release did it.\nSo I pulled out git bisect. Eleven steps. It landed precisely on the first bad commit.\nCommit message: `style: run the formatter across the repo`.\nFiles changed: 2,100.\nI read them one by one, and somewhere around file 1,400 I found it — while reformatting everything, someone had quietly turned a `>=` into a `>`.\nBisect narrowed three weeks down to a single commit.\nThat commit was its own ocean.",
+          "editorNote": "For anyone mid-bisect. Also a gentle team reminder: formatting gets its own commit, and nothing rides along with it.",
+          "variations": [
+            "Extension: new team rule after that day — sneak a logic change into a formatting commit, you own the pager for a month.",
+            "Follow-up: 'Bisect really is O(log n). It just assumes each commit is still a human-sized amount of reading.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-381",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://dev.to/doppler/doppler-the-triumph-and-tragedy-of-env-files-59nf",
+      "sourceNote": "Secrets-management writeups on .env sprawl — dev teams passing unencrypted env files around over Slack, no owner, no rotation, prod credentials mixed in with local ones",
+      "tags": [
+        "工程師日常",
+        "新人",
+        "資安",
+        "黑色幽默",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人第一天：「請問本機要跑起來的環境變數，要去哪裡拿？」\n資深工程師打開 Slack 往上翻，翻到 2021 年的一則私訊，裡面有一個附件叫 env.txt。\n他轉發過去，附註：「這是我學長當年傳給我的，他學長傳給他的。」\n新人打開來，裡面四十三個 key。\n其中十九個對應的服務早就關掉了。\n其中兩個他問遍全公司，沒有人知道是什麼。\n其中一個叫 DATABASE_URL，指的是正式環境。\n新人跑了 seed script。\n那天下午的事故報告標題是：《關於我們的入職文件》。",
+          "editorNote": "傳給正在幫新人設定本機環境的人。順便問一句：你們公司的 .env 現在到底是誰在管？",
+          "variations": [
+            "延伸：後來我們終於寫了入職文件。第一行是：『請先到 Slack 搜尋 env.txt。』",
+            "也可以接：『傳承是很美的事，但在工程團隊裡通常不是。』"
+          ]
+        },
+        "en": {
+          "content": "New hire, day one: \"Where do I get the env vars to run this locally?\"\nThe senior dev opens Slack, scrolls up to a DM from 2021, and finds an attachment named env.txt.\nHe forwards it, with a note: \"This is what the guy before me sent me. He got it from the guy before him.\"\n43 keys.\n19 point at services that were shut down years ago.\n2 of them nobody in the entire company can identify.\nOne is called DATABASE_URL. It points at production.\nThe new hire ran the seed script.\nThat afternoon's incident report was titled: On The State Of Our Onboarding Docs.",
+          "editorNote": "For whoever is helping a new hire get running locally. Quick question though: who actually owns your .env right now?",
+          "variations": [
+            "Extension: we finally wrote onboarding docs. Line one: 'Search Slack for env.txt.'",
+            "Follow-up: 'Inheritance is a beautiful thing. Rarely on an engineering team.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-382",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://incident.io/blog/why-do-post-mortem-action-items-fail-how-to-make-incident-follow-ups-actually-get-done",
+      "sourceNote": "Incident-management writeups: most teams close well under half of their postmortem action items, and vague ones like 'improve monitoring' are the classic never-done entry",
+      "tags": [
+        "職場",
+        "工程師日常",
+        "維護",
+        "團隊",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "打開事故追蹤看板，篩選條件：未完成的 action item。\n2023/04　加強監控　　　　負責人：小陳　　狀態：未開始\n2023/11　補上告警門檻　　負責人：小陳　　狀態：未開始\n2024/06　建立 runbook　　負責人：小陳　　狀態：進行中（進行了兩年）\n2025/02　加強監控（重複）負責人：小陳　　狀態：未開始\n2026/07　加強監控　　　　負責人：小陳　　狀態：今天剛開的\n小陳已經離職一年半了。\n這次的根因是：沒有人收到告警。\n會議結論：新增一個 action item——加強監控。",
+          "editorNote": "postmortem 開完之後傳給團隊，效果最好。真正的問題從來不是根因分析寫得不夠深，是沒有人有時間做後面那一段。",
+          "variations": [
+            "延伸：我們的事故檢討寫得很完整，完整到今年的可以直接複製去年的。",
+            "也可以收尾成：『同一條 action item 出現第三次的時候，它就不是 action item 了，那叫公司文化。』"
+          ]
+        },
+        "en": {
+          "content": "Opened the incident tracker. Filter: open action items.\n2023-04  Improve monitoring      owner: Chen    status: not started\n2023-11  Add alert thresholds    owner: Chen    status: not started\n2024-06  Write a runbook        owner: Chen    status: in progress (for two years)\n2025-02  Improve monitoring (dup)  owner: Chen    status: not started\n2026-07  Improve monitoring      owner: Chen    status: filed today\nChen left the company eighteen months ago.\nThis week's root cause: nobody got paged.\nMeeting outcome: file an action item to improve monitoring.",
+          "editorNote": "Best sent to the team right after a postmortem. The failure was never the analysis — it's that nobody has time for the part that comes after.",
+          "variations": [
+            "Extension: our postmortems are thorough. So thorough that this year's is last year's, copied.",
+            "Follow-up: 'The third time the same action item shows up, it isn't an action item anymore. That's culture.'"
+          ]
+        }
+      }
     }
   ]
 }

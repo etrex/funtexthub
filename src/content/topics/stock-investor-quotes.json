@@ -6351,6 +6351,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-210",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://udn.com/news/story/7254/9481124",
+      "sourceNote": "2026 年多家上市櫃公司公告減資彌補虧損（減資比例約 16～18%，屬帳面調整、不退還現金）的市場現象；原創改寫成散戶視角段子，非個股評論。",
+      "tags": [
+        "套牢",
+        "庫存",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我那檔套了兩年的股票，公司終於發公告了：辦理減資，彌補虧損，改善財務結構。\n我以為終於有人要來救我了，結果點開細節——股數銷掉快兩成，剩下的股票價格等比例往上調。\n張數變少了，成本變高了，虧損金額一毛都沒變。\n公司說這叫體質改善，我覺得比較像我客人來訪前的整理房間：東西一樣都沒丟，只是排得比較整齊，看起來比較不像案發現場。",
+          "editorNote": "適合手上持股宣布減資彌補虧損時發，或想吐槽「純屬帳面調整」這幾個字",
+          "variations": [
+            "減資不會讓我少賠，只會讓我的虧損重新排版一次。",
+            "公司改善財務結構的方式，是先把我的股數改善掉一部分。"
+          ]
+        },
+        "en": {
+          "content": "That position I've been stuck in for two years finally sent me a notice: capital reduction, to clear accumulated losses and improve the balance sheet.\nFor one beautiful second I thought somebody was coming to rescue me. Then I read the details. Almost a fifth of the shares get cancelled, and the survivors get their price adjusted up to match.\nFewer shares. Higher cost basis. Loss identical to the dollar.\nThe company calls this a healthier structure. I call it what I do to my apartment before guests arrive: nothing actually left the building, it's just arranged so it looks less like a crime scene.",
+          "editorNote": "For anyone whose stuck position just announced a \"purely accounting\" capital reduction",
+          "variations": [
+            "A capital reduction didn't shrink my loss. It reformatted it.",
+            "They improved the balance sheet by removing part of my shares from it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-211",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://newtalk.tw/news/view/2026-07-29/1050065",
+      "sourceNote": "2026/7/29 台股處置股增至 29 檔、部分改採 5 分鐘或 20 分鐘分盤交易並限制單筆委託張數的新聞背景；原創改寫，不指涉任何個股。",
+      "tags": [
+        "追高",
+        "紀律",
+        "看盤",
+        "焦慮",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我追的那檔漲太兇，被列進處置名單，改成五分鐘撮合一次，一筆最多只能下十張。\n交易所說，這是為了保護投資人。\n結果它真的有效：我從每三秒刷新一次，變成五分鐘才能知道結果，連部位大小都被強制縮小。\n我這輩子唯一成功執行的資金控管，不是我自己做到的，是被別人把手綁住才做到的。\n現在我不看股價了，我看那個倒數計時。焦慮沒有變少，只是被排進了時間表。",
+          "editorNote": "適合手上有股票被列處置、被迫五分鐘撮合的時候發，也適合吐槽自己的自制力得靠外力",
+          "variations": [
+            "原來我需要的從來不是紀律，是有人幫我把下單按鈕鎖起來。",
+            "五分鐘撮合一次，我的心跳也跟著改成五分鐘結算一次。"
+          ]
+        },
+        "en": {
+          "content": "The name I chased ran so hard the exchange dropped it onto the disposition list: matching once every five minutes, ten lots max per order.\nThe exchange says this is to protect investors.\nAnd it worked. I went from refreshing every three seconds to learning where I stand every five minutes, with my position size capped whether I liked it or not.\nThe only successful risk management of my entire investing life wasn't something I did. It happened because somebody tied my hands.\nNow I don't watch the price. I watch the countdown. The anxiety didn't shrink. It just got put on a schedule.",
+          "editorNote": "For the day a position gets throttled into batch matching, or for anyone whose self-control only works when it's enforced",
+          "variations": [
+            "Turns out I never needed discipline. I needed someone to take the buy button away.",
+            "Matching every five minutes just means I now panic every five minutes, punctually."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-212",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://tax.nat.gov.tw/",
+      "sourceNote": "台灣現行制度：股利所得須申報課稅，證券交易所得停徵、虧損無從扣抵，賣出時另課證券交易稅。以此制度落差為梗的原創改寫，非稅務或投資建議。",
+      "tags": [
+        "厭世",
+        "自嘲",
+        "散戶",
+        "股利",
+        "停損"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "報稅那天，我很認真地把去年整理出來。\n虧損那一欄：一個很難念出口的數字，而系統上沒有任何地方可以填它。\n股利那一欄：兩萬多，系統早就幫我抓好了，一毛都沒漏。\n我打電話去問，對方很客氣：股利是所得，虧損是您自己的事。\n原來我跟這個市場的關係一直很清楚——賺的部分大家一起算，賠的部分我自己收好。\n連我含淚按下賣出的那一秒，都還要順手繳一筆證交稅，當作出場費。",
+          "editorNote": "適合五月報稅季，或每次認賠賣出、在成交明細裡看到那行稅金的時候發",
+          "variations": [
+            "我的虧損沒有人承認，只有我自己記得。",
+            "領息是公開資訊，賠錢是個人興趣，這個市場分得很乾淨。"
+          ]
+        },
+        "en": {
+          "content": "Filing day. I sat down and honestly put last year together.\nThe losses: a number I can't say out loud, and no box on the form that wants to hear it.\nThe dividends: a couple thousand, already filled in for me, down to the cent.\nI called to ask about it. The person on the line explained it very politely: dividends are income, losses are a personal matter.\nSo my relationship with this market has always been clear. The upside we tally together. The downside I take home in a bag.\nAnd on the day I finally cried and hit sell, I still paid a transaction tax on the way out, like a cover charge for leaving.",
+          "editorNote": "For filing season, or the moment you spot the tax line on a losing sale",
+          "variations": [
+            "Nobody recognizes my losses. I'm the only one keeping the records.",
+            "Gains go on the form. Losses are just a hobby I fund myself."
+          ]
+        }
+      }
     }
   ]
 }

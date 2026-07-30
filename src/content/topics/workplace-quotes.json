@@ -10347,6 +10347,99 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-353",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://floorplanmapper.com/employees-hate-hot-desking/",
+      "sourceNote": "2026 自由座位制（hot desking）員工不滿報導 — 桌子數少於人數、大家用私人物品默默佔位的現象，原創改寫成台灣辦公室早晨搶位敘事",
+      "tags": [
+        "回辦公室",
+        "辦公室",
+        "職場厭世",
+        "社畜",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司改成自由座位的那週，主管在群組打了四個字：靈活辦公。\n\n第一天我九點十分進辦公室，繞了兩圈，只剩最角落那張——冷氣正對頭頂、插座壞一半、螢幕線少一條。\n\n第二天我八點四十到。第三天八點二十。第四天我在捷運上突然清醒：我不是提早上班，我是在排隊。\n\n而這層樓有個沒人明說的秘密。有三張桌子永遠有東西——一件外套、一個保溫瓶、一副自己帶來的鍵盤。沒有人動它們，也沒有人問是誰的。\n\n原來自由座位制裡面，還是有貴族。\n\n現在我每天早上做的第一件事，不是開電腦，是找一個可以待滿八小時的地方。\n\n所謂靈活的意思是：桌子屬於公司，不屬於任何人。\n\n包括每天準時坐在那裡的你。",
+          "editorNote": "傳給那個為了搶位子提早四十分鐘出門的同事，或在公司宣布「取消固定座位」的公告下面默默轉發。",
+          "variations": [
+            "延伸版：『自由座位的真正意思是，位子的數量從來沒打算等於人的數量。』",
+            "簡短版：『每天上班第一件事不是開電腦，是找一個能待八小時的地方。』"
+          ]
+        },
+        "en": {
+          "content": "The week my company went full hot desking, my manager posted two words in the group chat: flexible workplace.\n\nDay one I walked in at 9:10, circled the floor twice, and got the last seat in the corner — vent blasting straight down on my head, half the outlets dead, one monitor cable missing.\n\nDay two I showed up at 8:40. Day three, 8:20. Day four, somewhere on the train, it hit me: I'm not coming in early. I'm standing in line.\n\nAnd this floor has a rule nobody says out loud. Three desks always have stuff on them — a jacket, a thermos, somebody's own keyboard. Nobody moves them. Nobody asks whose they are.\n\nTurns out even in a seatless utopia, there's still nobility.\n\nSo now the first thing I do every morning isn't opening my laptop. It's finding a place I can survive in for eight hours.\n\nFlexible, it turns out, means the desk belongs to the company and to nobody else.\n\nIncluding the person who sits there every single day.",
+          "editorNote": "Send to the coworker leaving forty minutes early just to win a chair, or drop it quietly under the announcement that assigned seating is going away.",
+          "variations": [
+            "Extended: 'Hot desking really means the number of desks was never meant to match the number of people.'",
+            "Short: 'My first task each morning isn't work. It's finding somewhere to exist for eight hours.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-354",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://blog.104.com.tw/2026-global-trends-25-predictions/",
+      "sourceNote": "2026 職場趨勢報導的數位協作／知識管理段落作背景參考 — 共用資料夾檔名與版本亂象為原創發想改寫，非引用",
+      "tags": [
+        "辦公室日常",
+        "職場幽默",
+        "幽默自嘲",
+        "職場厭世",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們公司的共用資料夾，是一個考古現場。\n\n同一份提案，同時活著這幾個檔案：\n\n提案_v2\n提案_最終版\n提案_最終版_修正\n提案_最終版_修正_這個才對\n提案_最終版_修正_這個才對_0729\n\n而最後真正寄出去的，是一個叫「提案_我先亂打」的檔案，因為那是唯一有人記得放在哪的。\n\n上週新人問我：「請問哪一個才是最新的？」\n\n我盯著螢幕想了三秒，說出這家公司最誠實的一句話：\n\n「打開日期最新的那個，然後丟到群組問一次。這就是我們的版本控制。」\n\n他愣住：「那如果沒人回呢？」\n\n「沒人回，它就是最新版了。」",
+          "editorNote": "傳給共用資料夾的守夜人，也很適合貼在交接文件的第一頁當免責聲明。",
+          "variations": [
+            "延伸版：『真正的最終版永遠不叫最終版，它叫「這個才對」。』",
+            "簡短版：『我們的版本控制是：日期最新的那份，加上沒人反對。』"
+          ]
+        },
+        "en": {
+          "content": "Our shared drive is an archaeological site.\n\nOne single proposal, and all of these are alive at the same time:\n\nproposal_v2\nproposal_FINAL\nproposal_FINAL_revised\nproposal_FINAL_revised_this_one\nproposal_FINAL_revised_this_one_0729\n\nAnd the file we actually sent to the client was called 'proposal_rough_junk,' because it was the only one anybody could remember the location of.\n\nLast week the new hire asked me: 'Which one is current?'\n\nI stared at the screen for three seconds and gave him the most honest sentence this company has.\n\n'Open the one with the newest date, then post it in the group chat and ask. That's our version control.'\n\nHe blinked. 'And if nobody answers?'\n\n'If nobody answers, that one's current.'",
+          "editorNote": "Send to whoever guards the shared drive. Also works as the disclaimer on page one of any handover doc.",
+          "variations": [
+            "Extended: 'The real final version is never called final. It's called this_one.'",
+            "Short: 'Our version control is: newest date, plus nobody objecting.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-355",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://ecf.com.tw/tw/article/show.aspx?num=10075&kind=43",
+      "sourceNote": "2026 企業控成本人力盤算報導 — 節省基層小額支出、卻同時投入品牌形象預算的矛盾現象，原創改寫成一顆滑鼠的申請流程敘事",
+      "tags": [
+        "辦公室",
+        "職場厭世",
+        "社畜",
+        "幽默自嘲",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的滑鼠壞了。左鍵要按兩次才有反應。\n\n我填了申請單。隔天被退回，理由是「請先自行嘗試更換電池」。它是有線的。\n\n我回覆說明。第三天又被退回，這次要我補上「使用年限與故障情形描述」。我為一顆四百塊的滑鼠寫了一百二十字的故障報告，比我上一季的成果摘要還完整。\n\n第四天，我經過一樓大廳。\n\n大廳換了新招牌。牆上多了一句嶄新的英文標語，字很大，燈打得很亮，聽說是外部顧問建議的方向。\n\n我站在那句「Empowering People」底下，手裡握著我那顆要按兩次才有反應的滑鼠。\n\n公司不是沒錢。\n\n公司只是很清楚，錢要花在看得到的地方。",
+          "editorNote": "傳給正在為一件文具寫故障報告的同事，也很適合在採購流程檢討會議前默默貼進群組。",
+          "variations": [
+            "延伸版：『你的申請單要三層簽核，牆上那句英文標語不用。』",
+            "簡短版：『公司不是沒錢，是覺得你不值那顆滑鼠。』"
+          ]
+        },
+        "en": {
+          "content": "My mouse broke. Left click only registers on the second try.\n\nI filed a request. It came back the next day: 'Please try replacing the batteries first.' It's wired.\n\nI wrote back to explain. Day three it bounced again, this time asking for 'age of equipment and a description of the malfunction.' I wrote a hundred-and-twenty-word failure report for a twelve-dollar mouse. It was more thorough than my last quarterly summary.\n\nDay four, I walked through the lobby.\n\nThe lobby had a new sign. There was a fresh English slogan on the wall, big type, beautifully lit, apparently a direction recommended by outside consultants.\n\nI stood under the words 'Empowering People,' holding a mouse that needs two clicks to do one thing.\n\nThe company isn't broke.\n\nThe company just knows exactly where money should go: somewhere people can see it.",
+          "editorNote": "Send to the coworker writing a failure report for office stationery. Also lands well right before a procurement process review.",
+          "variations": [
+            "Extended: 'Your request needs three levels of approval. The slogan on the wall needed none.'",
+            "Short: 'The company isn't broke. It just decided you aren't worth the mouse.'"
+          ]
+        }
+      }
     }
   ]
 }

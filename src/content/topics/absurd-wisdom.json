@@ -10059,6 +10059,93 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-384",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "廢話文學手法整理，原創共享單車站點主題",
+      "tags": [
+        "廢話文學",
+        "交通",
+        "通勤"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "共享單車的規則其實很清楚：\n站上有車，你才借得到；\n站上有空位，你才還得到。\n\n問題是這兩件事，\n通常不會發生在同一個站。\n\n所以你多騎的那一段路，\n是為了去一個你本來不用去的地方。",
+          "editorNote": "在滿柱的站點前面，決定要不要再騎五分鐘去下一站時服用",
+          "variations": [
+            "借車那站沒車，還車那站沒位，中間那段路就是你今天的運動量。",
+            "站點顯示還有一台車，意思是在你走到那裡之前，它還在。"
+          ]
+        },
+        "en": {
+          "content": "Bike share works on a very clear rule:\nyou can borrow only where there's a bike,\nand return only where there's an empty dock.\n\nThe trouble is that those two things\nare rarely the same station.\n\nSo the extra distance you ride\nis the distance to a place you never needed to go.",
+          "editorNote": "For standing in front of a full dock, deciding whether to ride five more minutes to the next one",
+          "variations": [
+            "No bike at the start, no dock at the end, and the stretch in between is your workout for the day.",
+            "The app says one bike left, which means it's still there right up until you arrive."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-385",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學句式整理，原創交通票卡加值主題",
+      "tags": [
+        "廢話文學",
+        "交通",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "交通卡的邏輯非常單純：\n餘額夠，閘門就開；\n餘額不夠，閘門就不開。\n\n所以那一聲比較大聲的嗶，\n並不是壞掉，\n是它替你向後面整排人宣布了你的財務狀況。\n\n加值完就會開了。\n至於為什麼加值機前面永遠有一個人在慢慢投硬幣，\n這個部分卡片不負責。",
+          "editorNote": "被閘門擋下來、後面還排了十個人的那個早上，傳給也遲到的人",
+          "variations": [
+            "卡片不會判斷你有沒有錢，它只會讓所有人都知道。",
+            "餘額不足的意思是，你剩下的錢比你要去的地方便宜。"
+          ]
+        },
+        "en": {
+          "content": "A transit card runs on very simple logic:\nenough balance, the gate opens;\nnot enough, it doesn't.\n\nSo that louder beep isn't a malfunction.\nIt's the card announcing your finances\nto the entire line behind you.\n\nTop it up and the gate opens.\nAs for why there's always someone ahead of you\nfeeding coins into the machine one at a time,\nthe card takes no responsibility for that.",
+          "editorNote": "For the morning the gate stops you with ten people waiting, sent to whoever else is late",
+          "variations": [
+            "The card doesn't judge whether you have money. It just makes sure everyone knows.",
+            "Insufficient balance means what you have left costs less than where you're going."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-386",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://vocus.cc/article/69a80ad2fd8978000169dbf2",
+      "sourceNote": "廢話文學與反雞湯整理，原創除濕機主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除濕機的工作內容，是把空氣裡的水收進水箱。\n\n水箱滿了，它就停下來。\n你把水倒進水槽，它就繼續收。\n\n所以你買的不是一台除濕機，\n是一份把房間裡的水，用手搬到水槽的長期工作。\n\n至於水為什麼永遠收不完——\n因為你住在一座島上。",
+          "editorNote": "第三次倒水箱、開始懷疑水是不是自己長出來的時候服用",
+          "variations": [
+            "水箱滿了代表它有在工作，水箱一直滿代表它工作得太好了。",
+            "除濕機沒有把水變不見，它只是換了一個容器讓你負責。"
+          ]
+        },
+        "en": {
+          "content": "A dehumidifier's job is to move water out of the air and into a tank.\n\nWhen the tank fills, it stops.\nYou pour the water down the sink, and it starts again.\n\nSo what you bought isn't a machine.\nIt's a long-term position carrying water\nfrom your bedroom to your sink by hand.\n\nAs for why the water never runs out,\nyou live on an island.",
+          "editorNote": "For the third tank of the day, when you start suspecting the water is growing on its own",
+          "variations": [
+            "A full tank means it's working. A permanently full tank means it's working too well.",
+            "The dehumidifier doesn't make water disappear. It just picks a container you're responsible for."
+          ]
+        }
+      }
     }
   ]
 }

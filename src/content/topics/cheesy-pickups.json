@@ -10654,6 +10654,93 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-384",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://www.popdaily.com.tw/love/953126",
+      "sourceNote": "抽卡「歪掉」情境原創，有問有答式撩語結構",
+      "tags": [
+        "現代",
+        "幽默",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這次抽到想要的了嗎？」\n「沒有，又歪掉了。」\n「我也歪過一次——本來只想抽個朋友，結果整顆心歪到你身上，而且我完全不想重抽。」",
+          "editorNote": "適合一起玩手遊或會聊遊戲的對象，對方哀怨的時候接這句最順",
+          "variations": [
+            "別人歪掉會心痛，只有我歪到你身上覺得是這輩子最賺的一次",
+            "我不需要保底，因為第一次遇到你就已經是限定款了"
+          ]
+        },
+        "en": {
+          "content": "\"Did you finally get the one you wanted?\"\n\"Nope. Went off-target again.\"\n\"Mine went off-target once too — I was aiming for 'just friends' and landed on you. I'm not rerolling.\"",
+          "editorNote": "For someone you game with; drop it right after they finish complaining about their luck",
+          "variations": [
+            "Everyone else groans when a pull goes wrong. Mine went wrong straight into you, and it's the best luck I've ever had.",
+            "I don't need a guaranteed drop — you showed up on the first try and you're already the rare one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-385",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://www.beauty321.com/post/68558",
+      "sourceNote": "定存利息梗原創問答，銀行情境改寫",
+      "tags": [
+        "現代",
+        "甜",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這筆錢你要放定存嗎？」\n「利息那麼低，放著也一樣。」\n「那你放我這裡好了，我這邊利息全市場最高，唯一的條款是不能提前解約。」",
+          "editorNote": "適合聊到錢、聊到未來規劃的時候順勢丟出來，務實派會很吃這一套",
+          "variations": [
+            "我沒什麼投資天分，唯一一筆長期持有就是你",
+            "別人算利率算到失眠，我只算過一件事：跟你在一起怎麼算都划算"
+          ]
+        },
+        "en": {
+          "content": "\"Are you putting that money in a savings account?\"\n\"The rate's so low it barely matters.\"\n\"Then park it with me. My rate beats the whole market — one clause only: no early withdrawal.\"",
+          "editorNote": "Slip it in when the conversation turns to money or long-term plans; the practical types eat this up",
+          "variations": [
+            "I'm terrible at investing. You're the only thing I've ever held long-term.",
+            "Other people lose sleep comparing rates. I only ran one number, and being with you comes out ahead every time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-386",
+      "dateAdded": "2026-07-30",
+      "sourceUrl": "https://news.pchome.com.tw/relationship/aday/20260508/index-77822394551158330028.html",
+      "sourceNote": "紅燈秒數情境原創",
+      "tags": [
+        "對話",
+        "可愛",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個紅燈怎麼那麼久啊？」\n「還有九十八秒。」\n「太好了，那我就有九十八秒可以名正言順地看著你，還不用找藉口。」",
+          "editorNote": "一起等紅燈或等車的時候講，語氣輕鬆一點才不會太用力",
+          "variations": [
+            "別人抱怨這個路口太慢，我倒希望它今天再壞一次",
+            "我從來不搶綠燈，因為你在的地方我一點都不想往前走"
+          ]
+        },
+        "en": {
+          "content": "\"Why is this light taking forever?\"\n\"Ninety-eight seconds to go.\"\n\"Perfect. That's ninety-eight seconds I get to look at you, fully justified, no excuse required.\"",
+          "editorNote": "For waiting at a crosswalk or a bus stop together; keep it light so it doesn't land too hard",
+          "variations": [
+            "Everyone complains this intersection is slow. I'm hoping it glitches again today.",
+            "I never race the green, because I'm in no hurry to move on from wherever you are."
+          ]
+        }
+      }
     }
   ]
 }
