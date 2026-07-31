@@ -6443,6 +6443,157 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-213",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://histock.tw/stock/exdividendstock.aspx",
+      "sourceNote": "七、八月除權息旺季；「填息 vs 貼息」制度常識為梗的原創改寫，非投資建議、不指涉個股",
+      "tags": [
+        "除權息",
+        "股利",
+        "存股",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除權息旺季到了，股利入帳那天我特地截圖，覺得自己終於是個有被動收入的人。\n然後我打開線圖：除息當天，股價先把那筆錢原封不動扣了回去，接下來三個月都躺在那條線下面。\n所謂填息，就是市場慢慢把我自己的錢還給我，還要我等，而且不保證還得完。\n我不是在領股利，我是借了一筆錢給自己，利息還沒談好。",
+          "editorNote": "適合在股利入帳那天，配一張還在貼息的線圖發限動",
+          "variations": [
+            "我的股利很準時，股價把它扣回去也一樣準時。",
+            "填息是一種信仰，貼息才是日常作息。"
+          ]
+        },
+        "en": {
+          "content": "Dividend season came around. The cash hit my account and I screenshotted it like proof that I have passive income.\nThen I opened the chart. On the ex-date the price got docked by exactly that amount, and it's been lying under that line for three months.\nSo closing the dividend gap just means the market hands me back my own money, slowly, with no promise it'll finish.\nI didn't collect a dividend. I loaned myself some cash and forgot to set the terms.",
+          "editorNote": "Post it the day your dividend lands, next to a chart still sitting below the ex-date gap",
+          "variations": [
+            "My dividend arrives on schedule. So does the price cut that takes it straight back.",
+            "Closing the gap is a belief system. Sitting under it is the daily routine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-214",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/index.html",
+      "sourceNote": "股板常見「看盤看到血壓高」register；健檢紅字 vs 對帳單顏色的對照為原創改寫",
+      "tags": [
+        "焦慮",
+        "看盤",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "年度健檢報告拿到手，紅字三行：血壓偏高、睡眠不足、壓力過大。\n醫生說，紅字當然是越少越好。\n我心裡想，這句話在我每天看的另一個畫面剛好相反，那邊的紅字是越多越好。\n一年下來我很努力地兩邊兼顧，成果是——健檢紅字多了兩行，對帳單綠得非常整齊。",
+          "editorNote": "適合健檢報告跟對帳單同一週寄到的時候，發給一起看盤的同事",
+          "variations": [
+            "醫生要我遠離壓力來源，我點頭答應，然後打開看盤軟體。",
+            "我的血壓跟指數是同步的，差別在於指數還會回檔。"
+          ]
+        },
+        "en": {
+          "content": "Annual physical came back with three lines flagged in red: blood pressure high, sleep too short, stress elevated.\nThe doctor said the goal is obviously fewer red lines.\nFunny thing — in the other screen I stare at every day, the goal is more green ones.\nA year of effort later, I've achieved both: two more red lines on the report, and a beautifully consistent wall of red in the portfolio.",
+          "editorNote": "For the week your checkup results and your brokerage statement arrive together — send it to whoever watches the market next to you",
+          "variations": [
+            "My doctor told me to stay away from my source of stress. I nodded, then opened the trading app.",
+            "My blood pressure tracks the index perfectly. The difference is the index actually pulls back sometimes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-215",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://tw.stock.yahoo.com/news/",
+      "sourceNote": "2026/07 財經節目常見「八月先蹲後跳」說法；改寫為原創自嘲，不涉及漲跌預測或個股",
+      "tags": [
+        "反指標",
+        "自嘲",
+        "厭世",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電視上的老師說，這波行情是先蹲後跳，蹲完自然就會往上。\n我聽了很安心，決定跟著蹲。\n第一週蹲、第二週蹲、第三週我還蹲在原地。\n現在我不確定的已經不是它會不會跳，而是我的腳麻到站不太起來。",
+          "editorNote": "適合在名嘴喊「整理完就會漲」、你卻越等越深的時候，丟給一起在等的朋友",
+          "variations": [
+            "所有的先蹲後跳，最後跳起來的都是別人。",
+            "蹲太久的問題不是腳麻，是你會開始說服自己這叫坐著。"
+          ]
+        },
+        "en": {
+          "content": "The guy on the finance channel said this stretch would crouch first and then jump — a little consolidation, then up we go.\nThat sounded reassuring, so I crouched right along with it.\nWeek one, crouching. Week two, crouching. Week three, same exact position.\nAt this point what I'm unsure about isn't whether it jumps. It's whether my legs still work.",
+          "editorNote": "For when the talking heads keep saying 'after this consolidation,' and you're the one still waiting — send it to whoever's waiting with you",
+          "variations": [
+            "Every 'it'll bounce after this' I ever believed bounced without me in it.",
+            "The problem with waiting too long isn't the numbness. It's that you start calling it a strategy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-216",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://vocus.cc/article/6a67160dfd897800016c2cb6",
+      "sourceNote": "2026/07 市場「一邊腰斬、一邊狂噴」分化評論；改寫為原創自嘲，不指涉任何個股",
+      "tags": [
+        "賣飛",
+        "追高",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人幫這個月的行情下了註解：一邊腰斬，一邊狂噴。\n我看完覺得寫得真準，因為這兩邊我都有參與。\n狂噴的那一區，我在起漲前三天嫌它太貴，賣了。\n腰斬的那一區，我在最後一根長紅覺得它終於便宜，加碼了。\n同一個月、兩種行情，我用一個人的資金，精準地站錯了兩次。",
+          "editorNote": "適合月底檢討持股、發現兩種行情自己都沒賺到的時候發",
+          "variations": [
+            "別人是選錯股，我是連續選錯兩次，效率高很多。",
+            "行情分化的時候我很公平，兩邊的虧我都領。"
+          ]
+        },
+        "en": {
+          "content": "Someone summed up the month in one line: half the market got cut in half, the other half went vertical.\nGreat description, because I managed to be in both halves.\nThe vertical half — I decided it was too expensive three days before it ran, and sold.\nThe half that got cut down — I decided it finally looked cheap on the last big green candle, and added.\nOne month, two markets, one guy's money, wrong side twice.",
+          "editorNote": "For the end-of-month portfolio review where you realize neither half of the market paid you",
+          "variations": [
+            "Other people pick the wrong stock. I picked the wrong side twice, which is much more efficient.",
+            "When the market splits in two, I stay perfectly fair about it and collect the loss from both sides."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-217",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1782873918.A.65E.html",
+      "sourceNote": "股板「本來要買 XX，結果錢拿去加碼」機會成本 register；改寫原創，不指涉個股",
+      "tags": [
+        "本金",
+        "自嘲",
+        "厭世",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的手機用了五年，螢幕裂了一角，早就該換。\n算一算換一支要三萬多，我捨不得，決定先把這筆錢拿去加碼那檔「很有機會」的，賺到再換。\n三個月後，那筆錢剩下不到一半。\n所以現在我不但沒有新手機，還得用這支裂角的舊手機，每天打開軟體，看它慢慢變得更少。",
+          "editorNote": "適合滑到新機發表會的新聞、又剛好點開自己庫存的時候自嘲",
+          "variations": [
+            "我把消費降級了，沒想到投資跟著一起降級。",
+            "省下來的錢沒有變成新手機，變成了一堂學費。"
+          ]
+        },
+        "en": {
+          "content": "My phone is five years old with a cracked corner and should have been replaced ages ago.\nA new one runs about a thousand bucks. I couldn't bring myself to spend it, so I put the money into something with 'a lot of upside' and figured I'd buy the phone out of the gains.\nThree months later that money is worth less than half.\nSo now I don't have a new phone, and I get to open the app on the same cracked screen every day and watch the number get smaller.",
+          "editorNote": "For scrolling past a launch-event headline right after checking your own positions",
+          "variations": [
+            "I downgraded my spending. Somehow my investing downgraded along with it.",
+            "The money I saved never turned into a phone. It turned into tuition."
+          ]
+        }
+      }
     }
   ]
 }

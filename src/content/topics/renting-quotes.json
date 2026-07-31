@@ -7980,6 +7980,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-274",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://www.inn-taipei.com/2026-complete-guide-to-electricity-bills/",
+      "sourceNote": "landlords misapply the top residential tier to every kWh; legally only the portion above 1,001 kWh sits in the highest bracket, and summer pricing runs Jun 1 to Sep 30; rewritten original",
+      "tags": [
+        "電費",
+        "房東",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東拿台電帳單給我看，說整棟七月用超過一千度，\n所以「大家的每一度都要照最高那一階算」。\n我回去查才知道，超過的那一段才進最高級距，前面照舊。\n他不是不會算，他是只在對他有利的時候才會算。",
+          "editorNote": "適合夏天收到離譜電費單的人；記得夏月電價是六月到九月，而且級距是分段計算，只有超出的那一段才適用高價，全棟總度數不能整包套在你頭上——先跟房東要台電正本帳單和自己房間的電表度數，算不攏就打 1996 或找地方政府租賃專線",
+          "variations": [
+            "級距是分段的，房東的算法是整包的。",
+            "同一張台電帳單，他看到的是最高價，我看到的是我付不起的那一段。"
+          ]
+        },
+        "en": {
+          "content": "My landlord showed me the utility bill and said the building went over 1,000 kWh in July,\nso \"everyone's electricity gets charged at the top rate.\"\nI looked it up: only the usage above that line lands in the top bracket. Everything under it stays where it was.\nHe knows how to do the math. He just only does it when the math is on his side.",
+          "editorNote": "For anyone staring at an insane summer bill; summer pricing runs June through September and the rate tiers are charged in slices, so only the portion above the threshold gets the top rate and the whole building's total can't be dumped onto you — ask for the original utility bill and your own meter reading, and call the local rental hotline if the numbers still don't add up",
+          "variations": [
+            "The rate tiers come in slices. My landlord serves them whole.",
+            "Same utility bill: he sees the top rate, I see the part I can't afford."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-275",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://bbs.591.com.tw/f?action=replay&firstRow=20&module=index&tid=14558&totalRows=88",
+      "sourceNote": "peak-season threads about leases ending July 31 while the new place isn't available until early August, forcing overlapping rent or a few homeless days; rewritten original",
+      "tags": [
+        "搬家",
+        "合約",
+        "房租",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "舊約七月三十一號到期，新家八月五號才能進去。\n中間那四天，我的家當在朋友的車庫，我睡在另一個朋友的沙發。\n為了不流落街頭，我多付了半個月的舊房租，\n等於同時養兩間房子，自己卻一間都住不到。\n八月最貴的不是新家的押金，是那條沒有人願意接起來的縫。",
+          "editorNote": "適合正在排搬家日期的人；簽新約時直接把「起租日」往前談個三到五天當緩衝，比事後兩邊各付一個月划算，舊房東那邊也可以問能不能按日計租——談日期的時機只有簽名前那一次",
+          "variations": [
+            "八月一號到五號，我在自己的人生裡處於待機狀態。",
+            "同時付兩間房租的那幾天，我一間都沒真的住到。"
+          ]
+        },
+        "en": {
+          "content": "Old lease ended July 31. New place wasn't ready until August 5.\nFor those four days my stuff lived in a friend's garage and I lived on another friend's couch.\nTo avoid sleeping outside I paid half a month of extra rent on the old place,\nwhich means I was funding two apartments and sleeping in neither.\nThe most expensive thing about August isn't the new deposit. It's the gap nobody wants to cover.",
+          "editorNote": "For anyone lining up move dates right now; negotiate a start date three to five days earlier as a buffer when you sign, which is cheaper than paying two full months, and ask the old landlord about prorating the last stretch — the only moment you can set those dates is before you sign",
+          "variations": [
+            "August 1 through 5, my own life put me on standby.",
+            "I paid two rents that week and slept in neither one of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-276",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://www.mobile01.com/topicdetail.php?f=812&t=6990071",
+      "sourceNote": "building committees restrict moving to weekday hours, require advance elevator booking and a refundable protection-pad deposit; slots fill up in peak season; rewritten original",
+      "tags": [
+        "搬家",
+        "保證金",
+        "鄰居",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新家的管委會規定：搬家只能週一到週五上午九點到十二點，\n要先三天登記電梯、押五千塊保護墊保證金、家具不能碰到牆。\n我打電話去約，八月的上午時段排到了第三週。\n所以我請了一天特休，站在別人規定好的三個小時裡，\n用最快的速度把我全部的生活搬進去。",
+          "editorNote": "適合要搬進電梯大樓的人；簽約前先問管委會的搬遷規定、可用時段跟保證金金額，再去跟搬家公司敲日期，順序反過來就會變成搬家師傅在樓下等、你在樓上求警衛通融",
+          "variations": [
+            "我不是選搬家的日子，是管委會選了我。",
+            "五千塊保證金，換三個小時的電梯使用權——這大概是我住過最貴的三小時。"
+          ]
+        },
+        "en": {
+          "content": "The new building's rules: you may only move in on weekdays between nine and noon,\nbook the elevator three days ahead, leave a refundable deposit for the padding, and don't let furniture touch a wall.\nI called to reserve a slot and the first morning available was the third week of August.\nSo I burned a vacation day and stood inside somebody else's three-hour window,\nshoving my entire life through it as fast as I could.",
+          "editorNote": "For anyone moving into a managed building; before you sign, ask the building office about move-in hours, booking lead time, and the deposit, then book the movers around that — do it in the other order and you'll have a truck downstairs while you beg the front desk for an exception",
+          "variations": [
+            "I didn't pick my moving day. The building committee picked it for me.",
+            "A deposit for three hours of elevator access — the priciest three hours I've ever rented."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-277",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://www.hejiahome-rent.com.tw/blog/9jmlxg",
+      "sourceNote": "landlords hold deposits until the final shared-meter electricity bill arrives, which in summer can be two billing cycles later; rewritten original",
+      "tags": [
+        "押金",
+        "退租",
+        "電費",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "八月退租，鑰匙交出去那天我問押金什麼時候退。\n房東說要等最後一期電費結算，台電兩個月才寄一次。\n我算了一下：夏天走的人，押金要等到秋天才會回來。\n他扣的是三千塊的電，押的是我兩萬塊的下一步。",
+          "editorNote": "適合正在退租的人；交屋當天就跟房東一起抄下電表度數、拍照留存，並在合約或交屋單上寫明「電費結清後幾日內退還餘額」，別讓「等帳單」變成無限期——押金本來就該在交還房屋後儘速返還",
+          "variations": [
+            "夏天退租的押金，是一種秋天才會到貨的東西。",
+            "他要結算的是三千塊電費，卡住的是我兩萬塊的搬家預算。"
+          ]
+        },
+        "en": {
+          "content": "I moved out in August, and the day I handed over the keys I asked when I'd get the deposit back.\nHe said we had to wait for the final electricity bill, and those only come every two months.\nSo: leave in summer, get your deposit back in autumn.\nHe's holding back thirty bucks of power usage and sitting on the money for my next move.",
+          "editorNote": "For anyone moving out right now; photograph the meter reading together on handover day and get it in writing that the balance comes back within a set number of days after the bill settles, so \"waiting on the utility\" doesn't turn open-ended — the deposit is supposed to come back promptly once the unit is returned",
+          "variations": [
+            "A summer deposit is something that ships in autumn.",
+            "He's settling a small power bill. He's holding my entire moving budget."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-278",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://en.hshsharehouse.com/",
+      "sourceNote": "August turnover in shared flats: the remaining tenant must find a replacement or absorb the whole rent, doing landlord work without landlord authority; rewritten original",
+      "tags": [
+        "室友",
+        "合租",
+        "搬家",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "室友八月要回南部，走之前拍拍我肩膀說：「我幫你留意有沒有人接。」\n然後就沒有然後了。\n這個月是我在回訊息、我在帶看、我在解釋熱水器怎麼開、我在判斷這個人會不會半夜打鼓。\n合約上我跟房東是同一邊的名字，\n實際上我做著房東的工作，卻沒有房東的權力，也沒有房東的收入。",
+          "editorNote": "適合暑假被留下來找人接手的合租族；先翻合約看是誰對房東負連帶責任、房東同不同意換人，再決定要不要自己找——把該由房東處理的招租變成你的責任前，至少讓他把新室友的約直接簽在他名下",
+          "variations": [
+            "室友走的時候留下一句「我幫你留意」，跟一整個月的空房。",
+            "帶看是我、面試是我、承擔空租的也是我，房東只負責收錢。"
+          ]
+        },
+        "en": {
+          "content": "My flatmate is heading home in August. On the way out she patted my shoulder: \"I'll keep an eye out for someone to take my room.\"\nThat was the last I heard of it.\nSo this month I'm the one answering messages, running tours, explaining the water heater, and judging whether a stranger seems likely to practice drums at midnight.\nOn paper the landlord and I are on the same lease.\nIn practice I'm doing the landlord's job with none of the landlord's authority and none of the landlord's income.",
+          "editorNote": "For anyone left holding a shared flat over the summer; check the lease for who's jointly liable and whether the landlord has to approve a swap before you start recruiting — and if filling the room becomes your job, at least make him sign the new person onto his own paperwork",
+          "variations": [
+            "She left me an \"I'll keep an eye out\" and a full month of empty room.",
+            "I run the tours, I vet the strangers, I eat the empty month. He just collects."
+          ]
+        }
+      }
     }
   ]
 }

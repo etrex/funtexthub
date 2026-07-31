@@ -11020,6 +11020,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-383",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/",
+      "sourceNote": "Developer survey coverage: the top frustration (66%) is answers that are almost right but not quite; 45% say debugging that kind of code takes longer than writing it themselves",
+      "tags": [
+        "AI",
+        "除錯",
+        "2026",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年的開發者調查出爐了。\n最讓工程師崩潰的第一名，不是編譯錯誤，也不是需求又改。\n是那種「看起來完全正確，但就是差那麼一點」的答案。\n完全錯的，十秒就抓出來丟掉。\n差一點對的，你會相信它、幫它找理由、跟同事辯護它，然後花三個小時證明自己錯了。\n修好的那一刻你才算出來：從頭自己寫，四十分鐘。",
+          "editorNote": "適合貼在團隊頻道當作「今天為什麼沒進度」的官方說明。也很適合傳給那位問「不是都幫你寫好了嗎，怎麼還要這麼久」的主管。",
+          "variations": [
+            "短版：錯得離譜的答案是敵人，差一點對的答案是內鬼。",
+            "也可以收尾成：「我不怕它不會，我怕它會一半。」"
+          ]
+        },
+        "en": {
+          "content": "This year's developer survey is out.\nThe number one thing that breaks engineers isn't compiler errors, and it isn't changing requirements.\nIt's the answer that looks completely correct and is off by just a hair.\nSomething flat-out wrong, you spot in ten seconds and throw away.\nSomething almost right, you believe. You defend it in review. You invent reasons for it. Then you spend three hours proving yourself wrong.\nThe moment you finally fix it, you do the math: writing it from scratch would have taken forty minutes.",
+          "editorNote": "Good as the official explanation in your team channel for why today produced nothing. Also good for the manager asking why it still takes so long when the code was 'already written for you.'",
+          "variations": [
+            "Short version: a wildly wrong answer is an enemy. An almost-right answer is a mole.",
+            "Alt ending: 'I'm not scared of the ones that can't. I'm scared of the ones that half-can.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-384",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck",
+      "sourceNote": "2026 engineering-benchmark reporting: feature-branch throughput up ~59% year over year while median main-branch throughput actually fell — review and approval became the constraint",
+      "tags": [
+        "code review",
+        "職場",
+        "團隊",
+        "2026",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "季度工程報表出來，主管很興奮。\n「分支上開出來的 PR，比去年成長五成九。」\n他翻到下一頁，笑容停住了。\n真正合併進主線的數量，比去年還少。\n主管皺眉：「所以瓶頸在哪？」\n全組安靜了三秒。資深工程師指了指自己的眼睛。\n「這裡。寫程式從來就不是瓶頸，敢按下同意的人才是。」",
+          "editorNote": "適合在大家互相催 review、待審清單爆炸的那一週丟到頻道裡。也可以當作「為什麼要限制同時開工數量」的開場白。",
+          "variations": [
+            "延伸：我們的速度指標很漂亮，漂亮到全部堆在同一個人的待審清單上。",
+            "也可以收尾成：「產出翻倍很容易，願意扛責任的人翻倍才難。」"
+          ]
+        },
+        "en": {
+          "content": "The quarterly engineering report lands and the director is thrilled.\n\"Pull requests opened are up fifty-nine percent year over year.\"\nHe flips to the next page and the smile stalls.\nThe number actually merged into main is down.\n\"So where's the bottleneck?\" he asks.\nThree seconds of silence. Then the senior engineer points at her own eyes.\n\"Here. Writing the code was never the bottleneck. Someone willing to hit approve — that's the bottleneck.\"",
+          "editorNote": "Drop this in the channel during the week everyone is begging for reviews and the queue is on fire. Also works as the opener for 'why we should cap work in progress.'",
+          "variations": [
+            "Extension: our velocity metrics look gorgeous. So gorgeous they're all piled in one person's review queue.",
+            "Alt ending: 'Doubling output is easy. Doubling the people willing to own it is the hard part.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-385",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://sre.google/sre-book/monitoring-distributed-systems/",
+      "sourceNote": "Google SRE book on symptom-based monitoring — the classic failure mode is a shallow health check that only proves the process is alive, not that it is doing anything useful",
+      "tags": [
+        "production",
+        "事故",
+        "除錯",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客服在群組貼上第四十七封客訴的時候，我才打開監控儀表板。\n全綠。可用性 99.99%。過去七天零告警。\n我盯著那片漂亮的綠色看了很久，然後去翻健康檢查那支端點的程式碼。\n它只做一件事：回傳「我還活著」。\n它從來沒有問過自己，有沒有在做事。\n那一刻我懂了——那不是監控，那是自我肯定。",
+          "editorNote": "適合在有人說「指標明明都正常」的時候拿出來。重點不是嘲諷，是提醒：檢查活著，跟檢查有用，是完全不同的兩件事。",
+          "variations": [
+            "短版：我們的系統從來沒掛過，掛的是使用者的耐心。",
+            "延伸：後來我們加了一支真的會去查資料庫的健康檢查，它上線第一天就紅了三次。"
+          ]
+        },
+        "en": {
+          "content": "Support had posted the forty-seventh complaint in the channel before I finally opened the dashboard.\nAll green. 99.99% availability. Zero alerts in seven days.\nI stared at that beautiful wall of green for a while, then went and read the health check endpoint.\nIt does exactly one thing: return \"I'm alive.\"\nIt has never once asked itself whether it's doing any work.\nThat's when it hit me. That isn't monitoring. That's affirmations.",
+          "editorNote": "Pull this out the next time someone says 'but all the metrics look normal.' The point isn't the dunk — it's that proving you're alive and proving you're useful are two different checks.",
+          "variations": [
+            "Short version: our system has never gone down. What went down was the users' patience.",
+            "Extension: we added a health check that actually queries the database. It went red three times on day one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-386",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://www.theregister.com/2016/03/23/npm_left_pad_chaos/",
+      "sourceNote": "The left-pad unpublish incident — an eleven-line package vanished and builds broke across the ecosystem; still the canonical dependency-fragility story",
+      "tags": [
+        "技術債",
+        "維護",
+        "血淚",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上十點十七分，全公司的建置在同一分鐘倒光。\n追了兩個小時，兇手是一個十一行的小套件。\n作者八年前寫的，上禮拜把整個 repo 刪了，因為他說他很久沒在寫程式了。\n我們的金流、後台、客服工具，全部間接依賴它。\n那十一行在做什麼？\n把字串前面的空白拿掉。",
+          "editorNote": "適合在討論要不要鎖版本、要不要自架快取的會議前丟給大家。也很適合回應那句「這種小工具自己寫太浪費時間了吧」。",
+          "variations": [
+            "延伸：那天下午全組做的第一件事，是把那十一行複製進自己的專案。",
+            "也可以收尾成：「現代軟體是一座高塔，塔底有一根牙籤，而牙籤是志工削的。」"
+          ]
+        },
+        "en": {
+          "content": "10:17 a.m. Every build in the company died within the same minute.\nTwo hours of digging. The culprit was an eleven-line package.\nWritten eight years ago by one guy who deleted the whole repo last week, because, in his words, he hasn't written code in ages.\nOur payments service, our admin panel, our support tooling — all of it depended on him, indirectly.\nWhat do those eleven lines do?\nStrip the spaces off the front of a string.",
+          "editorNote": "Send this before the meeting about pinning versions or hosting an internal mirror. Also the perfect reply to 'writing that little helper ourselves would be a waste of time.'",
+          "variations": [
+            "Extension: the first thing the team did that afternoon was paste those eleven lines into our own repo.",
+            "Alt ending: 'Modern software is a tower, and somewhere near the bottom is a toothpick, whittled by a volunteer.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-387",
+      "dateAdded": "2026-07-31",
+      "sourceUrl": "https://github.com/actions/stale",
+      "sourceNote": "The stale-bot action that auto-closes inactive issues — the reason so many searches for a rare error end in an unanswered, auto-closed thread",
+      "tags": [
+        "除錯",
+        "工程師日常",
+        "自嘲",
+        "血淚",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把整段錯誤訊息貼進搜尋框。\n全世界只有一筆結果。\n是三年前的我，在某個專案的 issue 區開的問題。\n底下唯一一則回覆來自機器人：「本議題已六十天無人回應，自動關閉。」\n我按了重新開啟，在下面留言：「我又來了。」\n然後補一句給三年後的自己：「如果你也是搜到這裡——先去看第三個設定檔。」",
+          "editorNote": "適合深夜卡關的時候傳給同事互相取暖。順便提醒一件事：當年那句「之後再補說明」，最後補的人一定是你自己。",
+          "variations": [
+            "短版：這世上唯一在乎我這個 bug 的人是三年前的我，而他也不知道答案。",
+            "延伸：後來我真的把解法寫在那則 issue 底下。隔年有人按了愛心，點開一看，是我自己的另一個帳號。"
+          ]
+        },
+        "en": {
+          "content": "I pasted the whole error message into the search box.\nOne result. In the entire world.\nIt was me, three years ago, filing an issue on some project.\nThe only reply underneath came from a bot: \"This issue has had no activity for 60 days and has been closed automatically.\"\nI hit reopen and left a comment: \"It's me again.\"\nThen one more, for whoever I am in three years: \"If you got here by searching too — check the third config file first.\"",
+          "editorNote": "Send it to a teammate stuck at 1 a.m. It also carries a quiet reminder: that 'I'll document this later' from years ago? You are the one who ends up documenting it.",
+          "variations": [
+            "Short version: the only person in the world who cared about my bug was me three years ago, and he didn't know either.",
+            "Extension: I did eventually post the fix under that issue. A year later someone reacted with a heart. It was my other account."
+          ]
+        }
+      }
     }
   ]
 }
