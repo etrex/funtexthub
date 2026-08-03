@@ -5291,6 +5291,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-177",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.cnn.com/2026/07/21/sport/world-cup-fans-afterward-intl",
+      "sourceNote": "賽後情緒宿醉報導；以囤貨剩貨為題自行原創",
+      "tags": [
+        "世界盃",
+        "賽後",
+        "囤貨",
+        "空虛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "六月開賽前，我在賣場扛了一箱提神飲料回家，二十四罐，當時覺得剛剛好。\n昨天整理櫃子，翻出剩下的十一罐，效期到明年三月。\n我算了一下：一整個夏天，我喝掉十三個凌晨。\n剩下的這十一罐現在完全沒有用途，白天喝，晚上就換它不讓我睡。\n它們安安靜靜地擺在那裡，像十一個沒有比賽可以配的夜晚。",
+          "editorNote": "傳給那個為了看球囤貨、現在對著一堆剩貨發呆的朋友",
+          "variations": [
+            "效期還有七個月，可是我熬夜的理由，上個月就過期了。",
+            "囤的時候怕不夠，現在才知道，不夠的從來不是飲料。"
+          ]
+        },
+        "en": {
+          "content": "Before it all kicked off in June, I hauled a case of energy drinks home from the store. Twenty-four cans. Felt about right at the time.\nCleaning out the cabinet yesterday, I found eleven still in there, good until next March.\nSo I did the math: one whole summer, thirteen 3 AMs.\nThe other eleven have no job now. Drink one in the daytime and it just keeps you up for nothing.\nThey sit there quietly, like eleven nights with no match to go with them.",
+          "editorNote": "For the friend who stocked up for the tournament and is now staring at the leftovers",
+          "variations": [
+            "Seven months left on the expiry date. My reason to stay up expired last month.",
+            "I stocked up scared of running short. Turns out the thing running short was never the drinks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-178",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.aljazeera.com/sports/2026/7/24/what-do-football-fans-have-in-store-to-beat-post-world-cup-blues",
+      "sourceNote": "賽後空窗期報導；以影音推薦演算法為題自行原創",
+      "tags": [
+        "世界盃",
+        "賽後",
+        "演算法",
+        "捨不得"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "世界盃那個月，我一打開影音 App，首頁整排都是十大進球、賽後訪問、慢動作重播。\n這幾天它推的越來越少，昨天甚至冒出一支教人煎荷包蛋的影片。\n連演算法都判定我不看球了。\n它其實沒有錯——我確實已經三天沒有搜尋任何一支球隊。\n只是被系統這樣默默翻篇，我才第一次那麼具體地感覺到：真的結束了。",
+          "editorNote": "傳給那個發現首頁不再推球賽、突然有點失落的朋友",
+          "variations": [
+            "我還沒準備好，首頁已經先幫我把那個夏天下架了。",
+            "演算法忘記你的速度，永遠比你自己快。"
+          ]
+        },
+        "en": {
+          "content": "For that one month, every time I opened the video app the front page was nothing but top-ten goals, post-match interviews, slow-mo replays.\nThe last few days it's been serving me less and less, and yesterday a how-to-fry-an-egg video showed up.\nEven the algorithm has decided I'm done with football.\nIt isn't wrong. I haven't typed a single team name into a search bar in three days.\nBut getting quietly moved on by a recommendation feed is the first time it's felt real that the thing is over.",
+          "editorNote": "For the friend who noticed the feed stopped serving highlights and felt weirdly hollow",
+          "variations": [
+            "I wasn't ready yet, and my homepage had already taken that summer down.",
+            "An algorithm always forgets you faster than you forget yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-179",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.cnn.com/2026/07/21/sport/world-cup-fans-afterward-intl",
+      "sourceNote": "報導提到賽事創造共同的日常節奏；改寫為鄰居視角原創",
+      "tags": [
+        "世界盃",
+        "賽後",
+        "鄰居",
+        "陌生人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那一個月的凌晨，我常常聽見隔壁棟傳來一聲吼。\n不用看比分我也知道：有人進球了，而且那顆球對他很重要。\n我不知道他是誰、住幾樓，連他長什麼樣子都沒看過。\n但每次那聲吼穿過來，我就知道這一區不是只有我還醒著。\n現在半夜只剩冷氣運轉的聲音。\n我最想念的其實不是比賽，是那個素未謀面、卻跟我同時醒著的人。",
+          "editorNote": "傳給那個隔著一道牆、跟陌生人一起熬完整個夏天的朋友",
+          "variations": [
+            "我們從來沒說過話，卻一起熬了整個夏天的夜。",
+            "那聲吼比任何推播都快：不用看螢幕，我就知道進球了。"
+          ]
+        },
+        "en": {
+          "content": "For that one month, most nights I'd hear a roar come out of the building next door.\nI never had to check the score. Somebody scored, and it clearly mattered to him.\nI don't know who he is, what floor he's on, never once saw his face.\nBut every time that shout carried over, I knew I wasn't the only one on this block still awake.\nNow the loudest thing at 3 AM is the air conditioner.\nWhat I miss isn't really the football. It's the stranger who happened to be awake at the same hour as me.",
+          "editorNote": "For the friend who spent a summer watching alongside a neighbor they never met",
+          "variations": [
+            "We never exchanged a word, and we stayed up through an entire summer together.",
+            "That shout beat every notification. I didn't need the screen to know it went in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-180",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.cnn.com/2026/07/21/sport/world-cup-fans-afterward-intl",
+      "sourceNote": "賽後回歸日常的報導；以看球裝備分期付款為題自行原創",
+      "tags": [
+        "世界盃",
+        "賽後",
+        "分期",
+        "回憶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開賽前一週，我把家裡看了八年的電視換掉，刷了十二期。\n理由很正當：這麼大的賽事，畫面不能糊。\n現在比賽打完了，帳單還有九期。\n那台大螢幕現在每天播的是新聞跟三十秒短影音，大材小用得有點好笑。\n可是每次開機那一瞬間，我還是會想起六月的某個晚上，\n一群人擠在客廳，為一個離我們很遠的國家鬼吼鬼叫。\n九期而已，我覺得划算。",
+          "editorNote": "傳給那個為了世界盃升級裝備、現在還在繳分期的朋友",
+          "variations": [
+            "電視是分期買的，那個夏天倒是一次付清。",
+            "帳單提醒我還要繳九個月，也順便提醒我，那個夏天真的存在過。"
+          ]
+        },
+        "en": {
+          "content": "A week before kickoff I replaced the TV we'd had for eight years. Twelve monthly payments.\nThe logic was airtight: an event that big, you can't watch it blurry.\nThe tournament's done and there are nine payments left.\nThese days that enormous screen shows the news and thirty-second clips, which is a little ridiculous.\nBut every time it powers on, I think about that night in June,\na bunch of us crammed into the living room, screaming for a country nowhere near us.\nNine more payments. Still a bargain.",
+          "editorNote": "For the friend who upgraded the setup for the World Cup and is still paying it off",
+          "variations": [
+            "The TV came in installments. That summer I got in one go.",
+            "The billing reminder says nine months to go. It also reminds me that summer really happened."
+          ]
+        }
+      }
     }
   ]
 }

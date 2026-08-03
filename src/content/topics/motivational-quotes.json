@@ -10357,6 +10357,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-374",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://arxiv.org/pdf/2605.12344",
+      "sourceNote": "Reference on AI-authored vs self-set goals and the ownership gap that drains motivation. Original angle: an optimal plan you didn't choose feels like running someone else's errand",
+      "tags": [
+        "勵志",
+        "目標",
+        "選擇",
+        "動力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你手上那份計畫寫得很漂亮，\n每一步都排好了，\n可是你就是動不了。\n\n有時候問題不是計畫爛，\n是那份計畫不是你選的。\n\n別人替你算出來的最短路徑，\n走起來像在幫人跑腿；\n你自己挑的那條，\n就算繞了一點，\n每一步都算在你頭上。\n\n先把目標改成你真的想要的樣子，\n力氣才會自己回來。",
+          "editorNote": "適合照著範本、課程或別人排好的規劃在走，卻怎麼都提不起勁的時候。自己設定的目標，通常比被指派的目標撐得久。可以做的事很小：把手上的計畫攤開，刪掉一項你其實不在乎的，換成一項你自己真的想做的。",
+          "variations": [
+            "別人算出來的最短路徑，走起來像在幫人跑腿。",
+            "目標要是你自己挑的，力氣才不用一直外借。"
+          ]
+        },
+        "en": {
+          "content": "The plan in front of you looks great.\nEvery step is mapped.\nAnd you still can't move.\n\nSometimes the problem isn't the plan.\nIt's that you didn't pick it.\n\nThe shortest route someone else calculated\nfeels like running their errand.\nThe one you chose yourself\nmight wander a little,\nbut every step counts as yours.\n\nRewrite the goal into something you actually want,\nand the energy tends to come back on its own.",
+          "editorNote": "For following a template, a course, or somebody else's roadmap and finding you have no fuel for it. Goals you set yourself tend to hold up better than goals handed to you. The fix is small: open the plan, delete one item you don't actually care about, and put in one you do.",
+          "variations": [
+            "Someone else's optimal route still feels like running their errand.",
+            "Energy is easier to find when the goal was yours to begin with."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-375",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://link.springer.com/article/10.1007/s12144-026-09318-9",
+      "sourceNote": "Reference on the 2026 iterative-mindset study (assess, iterate, practice) predicting habit formation. Original angle: treating a failed habit as a version to revise rather than proof of weak willpower",
+      "tags": [
+        "勵志",
+        "習慣",
+        "練習",
+        "韌性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次沒撐住，\n你就把整件事收起來，\n說自己不適合。\n\n但沒有人是一次就對的。\n六點起床太硬，\n可以先改七點；\n每天讀三十頁太多，\n可以先讀三頁。\n\n這不是降低標準，\n是在出下一版。\n\n撐得久的人不是意志力比較強，\n是他們願意一直微調，\n直到那件事不用咬著牙做。",
+          "editorNote": "適合在同一個習慣失敗好幾次、開始懷疑自己是不是沒毅力的時候。心理學把撐得久的那種心態描述成「試了就調」：失敗是資料，不是判決。下次卡住，別問「我是不是不行」，改問「這一版哪裡太硬，可以先鬆哪一格」。",
+          "variations": [
+            "沒撐住不代表你不行，代表這一版太硬，可以出下一版。",
+            "撐得久的人不是比較有毅力，是比較願意調整。"
+          ]
+        },
+        "en": {
+          "content": "It fell apart the first time,\nso you packed the whole thing away\nand decided it wasn't for you.\n\nNobody gets the first version right.\nSix a.m. too brutal? Try seven.\nThirty pages a night too many? Read three.\n\nThat isn't lowering the bar.\nThat's shipping the next version.\n\nThe people who last aren't stocked with willpower.\nThey just keep adjusting\nuntil the thing stops taking gritted teeth.",
+          "editorNote": "For the point where the same habit has collapsed a few times and you've started calling yourself undisciplined. Researchers describe the durable pattern as assess-and-tweak: a miss is data, not a verdict. Next time it stalls, swap \"am I just not capable\" for \"which part of this version is too steep, and what can I loosen first.\"",
+          "variations": [
+            "A version failing isn't you failing. It just means you owe yourself a v2.",
+            "People who last aren't tougher. They're more willing to adjust."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-376",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.forbes.com/sites/carolinecastrillon/2026/06/26/why-ai-anxiety-is-making-workers-question-their-future/",
+      "sourceNote": "Reference on 2026 workplace anxiety data (65% of tool users fear falling behind). Original angle: the asset that carries over is accumulated judgment, not the procedural steps",
+      "tags": [
+        "勵志",
+        "自我價值",
+        "學習",
+        "心態"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每個人都在問\n自己會不會被換掉，\n所以你也開始緊張，\n那些學了很久的東西是不是白學了。\n\n但你在這幾年裡練出來的，\n不是那些步驟，\n是那個「這樣不對」的直覺——\n看一眼就知道哪裡怪、\n哪句話不能那樣講、\n對方其實在擔心什麼。\n\n會生答案的東西越來越多，\n最缺的是有人看得出來\n哪個答案不能用。\n\n你那幾年沒有白過。",
+          "editorNote": "適合在新東西一直冒出來、開始懷疑自己累積的專業還算不算數的時候。可以做的事：把你的經驗從「我會操作什麼」重新講成「我看得出什麼」，前者容易被換掉，後者很難。面試、跟主管講自己的價值時也派得上用場。",
+          "variations": [
+            "你練出來的不是步驟，是看一眼就知道哪裡不對的直覺。",
+            "會生答案的東西很多，看得出哪個答案不能用的人很少。"
+          ]
+        },
+        "en": {
+          "content": "Everyone is asking\nwhether they're about to be swapped out,\nso now you're nervous too\nthat the years you spent learning were wasted.\n\nBut what you built in those years\nwasn't the steps.\nIt was the instinct that says \"that's off\" —\none glance and you know what's wrong,\nwhich sentence won't land,\nwhat the other person is actually worried about.\n\nThere is more and more that can produce an answer.\nWhat's scarce is someone who can tell\nwhich answer can't be used.\n\nThose years still count.",
+          "editorNote": "For the stretch where new things keep appearing and you start doubting whether your accumulated expertise still counts. One practical move: restate your experience from \"I can operate X\" to \"I can tell when X is wrong.\" The first is replaceable; the second is much harder to replace. It also gives you better language for interviews and for explaining your value to a manager.",
+          "variations": [
+            "You didn't build the steps. You built the instinct that says that's off.",
+            "Answers are cheap. Knowing which answer to throw out isn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-377",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.metaintro.com/blog/ai-anxiety-workplace-2026",
+      "sourceNote": "Reference on skill-gap fear described as chasing a moving target without a map. Original angle: depth on one thing beats catching every hype cycle, since most 'unmissable' waves expire",
+      "tags": [
+        "勵志",
+        "專注",
+        "焦慮",
+        "自己的節奏"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每隔幾個月就有一波新東西，\n所有人都在講、都在學，\n你光是看就覺得自己落後。\n\n但你不用每一波都跳上去。\n\n真的重要的，過一陣子還會在，\n到時候再學也不遲；\n那些現在看起來非跟不可的，\n有一半明年就沒人再提。\n\n把心力留給你正在弄的那件事，\n讓它再深一點。\n\n什麼都沾一點的人很多，\n沾到底的人很少。",
+          "editorNote": "適合在資訊焦慮、覺得自己什麼都該學一點卻什麼都不精的時候，尤其是滑到一堆「現在不學就完了」的貼文之後。實際做法：一次只留一個要學的新東西，其他先丟進「以後再說」的清單；三個月後回頭看，通常會發現大半已經自己消失了。",
+          "variations": [
+            "真的重要的東西，過一陣子還會在。",
+            "什麼都沾一點的人很多，沾到底的人很少。"
+          ]
+        },
+        "en": {
+          "content": "Every few months a new wave arrives.\nEveryone is talking about it, learning it,\nand just watching makes you feel behind.\n\nYou don't have to catch every wave.\n\nWhat actually matters will still be there later,\nand later is soon enough.\nHalf of what looks unmissable now\nwill go unmentioned next year.\n\nSpend the attention on the thing you're already building.\nTake it one layer deeper.\n\nPlenty of people touch everything once.\nFew take one thing all the way down.",
+          "editorNote": "For information anxiety — the sense that you should be learning a bit of everything and are therefore good at nothing, sharpest right after a feed full of \"learn this now or you're finished\" posts. Practical version: keep exactly one new thing on your list and park the rest under \"later.\" Check back in three months; most of the parked list will have quietly disappeared.",
+          "variations": [
+            "You don't have to catch every wave. The ones that matter wait.",
+            "Plenty of people touch everything once. Few take one thing all the way down."
+          ]
+        }
+      }
     }
   ]
 }

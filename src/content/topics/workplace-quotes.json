@@ -10564,6 +10564,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-360",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.circles.com/resources/q3-4-2026-workplace-trends-report",
+      "sourceNote": "2026 Q3/Q4 職場體驗趨勢報告：員工體驗比出勤政策更影響留任 — 改寫為報帳流程磨損體驗的辦公室日常",
+      "tags": [
+        "報帳",
+        "辦公室日常",
+        "職場厭世",
+        "幽默自嘲",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司的報帳系統，是我看過最有企圖心的一項設計。\n\n上個月我先墊了三千二帶客戶吃飯。回來要做的事情是這些：拍發票正本、輸入統編、選會計科目、填「與本公司業務之關聯性說明」、附上出席人員名單，最後把那張紙本發票用膠水貼在 A4 上——貼歪了還會被退。\n\n為了拿回我自己的三千二，我寫了一份比提案還完整的文件。\n\n上禮拜財務退了我一筆，理由是「發票下方條碼掃描不清」。那頓飯是三月吃的。\n\n那天我終於看懂公司的邏輯：花公司的錢，你要證明合理；花自己的錢，你要證明清白。\n\n至於那筆錢什麼時候會回到我戶頭，是另一個沒有人負責回答的問題。",
+          "editorNote": "傳給正在用膠水把發票貼在 A4 上的同事。也適合在財務部門看不到的地方轉發。",
+          "variations": [
+            "短版：「報帳的意思是——你先借錢給公司，然後花三週證明你沒有偷它。」",
+            "延伸版：「為了拿回自己的三千二，我寫了一份比提案還完整的文件。」"
+          ]
+        },
+        "en": {
+          "content": "Our expense system is the most ambitious piece of design I've ever encountered.\n\nLast month I fronted a hundred bucks to take a client to dinner. Here's what came next: photograph the original receipt, enter the tax ID, pick an accounting category, fill in 'explanation of relevance to company business,' attach a list of who attended, and finally glue the paper receipt onto a sheet of A4 — crooked ones get sent back.\n\nTo get my own hundred dollars back, I produced a document more thorough than any proposal I've written.\n\nLast week finance rejected one. Reason: 'barcode at the bottom of the receipt did not scan cleanly.' That dinner was in March.\n\nThat's when the company's logic finally clicked. Spend the company's money and you have to prove it was reasonable. Spend your own and you have to prove you're not a thief.\n\nWhen the money actually lands back in my account is a separate question nobody is assigned to answer.",
+          "editorNote": "Send to whoever is currently gluing receipts onto printer paper. Best forwarded where finance can't see it.",
+          "variations": [
+            "Short: 'Expense reports mean you loan the company money, then spend three weeks proving you didn't steal it.'",
+            "Extended: 'To get my own hundred bucks back, I wrote a document more thorough than my last proposal.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-361",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://leadershipcircle.com/blog/workplace-trends-2026/",
+      "sourceNote": "2026 勞動市場趨勢：人才流動造成的知識斷層 — 改寫為交接文件無人接手的失落感",
+      "tags": [
+        "交接",
+        "離職",
+        "職場厭世",
+        "社畜",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "離職前兩週，主管說：「你把手上的東西，整理一份交接文件。」\n\n我寫得很認真。四十七頁。\n\n每個系統的登入方式、每個窗口的脾氣、哪個客戶不能在星期一打電話、那支只有我知道要重開兩次才會動的排程。\n\n寫完那天我看著檔案，突然發現一件事：這四十七頁裡面，有三十頁是我三年來一個人踩坑踩出來的，而公司從頭到尾不知道它存在。\n\n我把它上傳到共用資料夾，放在「交接」底下。\n\n離職一個月後，前同事傳訊息來問我，那支排程要怎麼重啟。\n\n我問他有沒有看交接文件。\n\n他說：「有啊。可是那個資料夾現在有十一份交接文件，我不知道哪一份是你的。」",
+          "editorNote": "傳給正在寫交接文件、還想寫得很完整的人。順便提醒一句：檔名記得放你的名字。",
+          "variations": [
+            "短版：「交接文件是寫給一個不存在的人看的，四十七頁，沒有讀者。」",
+            "延伸版：「公司留下來的不是我的經驗，是一個叫『交接』的資料夾。」"
+          ]
+        },
+        "en": {
+          "content": "Two weeks before I left, my manager said, 'Put together a handover doc for everything you own.'\n\nI took it seriously. Forty-seven pages.\n\nHow to log into every system. The temperament of every point of contact. Which client you never call on a Monday. The scheduled job that only I know has to be restarted twice before it runs.\n\nThe day I finished, I looked at the file and realized something: thirty of those forty-seven pages were things I learned alone, by falling into holes over three years, and the company never knew any of it existed.\n\nI uploaded it to the shared drive, under 'Handover.'\n\nA month after I left, a former coworker messaged asking how to restart that job.\n\nI asked if he'd read the handover doc.\n\nHe said, 'I did. But that folder has eleven handover docs in it now and I can't tell which one is yours.'",
+          "editorNote": "For anyone writing a handover doc and still trying to make it thorough. One tip: put your name in the filename.",
+          "variations": [
+            "Short: 'A handover doc is forty-seven pages written for a reader who doesn't exist.'",
+            "Extended: 'What the company kept wasn't my experience. It was a folder called Handover.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-362",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://www.prsa.org/article/6-workplace-trends-shaping-2026-jan26",
+      "sourceNote": "2026 職場趨勢：企業以固定儀式維繫團隊連結感 — 改寫為部門慶生會的十分鐘",
+      "tags": [
+        "慶生會",
+        "辦公室日常",
+        "職場幽默",
+        "同事",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們部門每個月最後一個星期五，有一場慶生會。\n\n流程是固定的。三點十五分，有人在群組打「蛋糕來了」，大家從座位上站起來，走到茶水間，圍成一個不太整齊的圓。\n\n唱生日快樂歌的時候，前兩句沒有人敢先開口，後兩句大家搶著結束。\n\n壽星切完蛋糕說謝謝大家，我們每個人拿一塊放在紙盤上，帶回座位，在鍵盤旁邊吃完。十分鐘後，一切恢復原狀。\n\n以前我覺得這個活動很尷尬。\n\n後來我想通了。\n\n那是我們公司唯一一場準時開始、十分鐘內結束、而且每個人都有具體產出的會。\n\n產出是一塊蛋糕。\n\n如果所有的會都能這樣開，我們大概早就上市了。",
+          "editorNote": "傳給部門裡負責訂蛋糕的那個人。也適合在下一場拖到六點的會議上默默傳出去。",
+          "variations": [
+            "短版：「慶生會是全公司唯一準時開始、十分鐘結束、人人有產出的會。」",
+            "延伸版：「生日快樂歌前兩句沒人敢起頭，後兩句大家搶著唱完——這就是我們的團隊默契。」"
+          ]
+        },
+        "en": {
+          "content": "The last Friday of every month, our department holds a birthday thing.\n\nThe format never changes. At 3:15 someone types 'cake's here' in the group chat, everyone stands up, walks to the pantry, and forms a slightly lopsided circle.\n\nDuring the song, nobody dares start the first two lines and everyone races to finish the last two.\n\nThe birthday person cuts the cake, says thanks, and we each carry a slice back to our desk on a paper plate and eat it next to the keyboard. Ten minutes later everything is exactly as it was.\n\nI used to think the whole thing was unbearably awkward.\n\nThen it hit me.\n\nIt's the only meeting at this company that starts on time, ends within ten minutes, and produces a concrete deliverable for every attendee.\n\nThe deliverable is cake.\n\nIf every meeting ran like that, we'd have gone public years ago.",
+          "editorNote": "Send to whoever gets stuck ordering the cake. Also works as a quiet forward during a meeting that's run past six.",
+          "variations": [
+            "Short: 'The birthday circle is the only meeting here that starts on time and delivers for everyone.'",
+            "Extended: 'Nobody starts the birthday song and everyone races to end it. That's our team alignment.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-363",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://slasify.com/zh-tw/blog/2026-taiwan-labor-holiday-pay-guide",
+      "sourceNote": "2026 台灣勞工薪資與退休制度整理 — 改寫為上班時間偷查退休金試算的心情",
+      "tags": [
+        "退休",
+        "薪水",
+        "職場厭世",
+        "社畜",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天下午三點，我在公司偷偷開了一個網頁。\n\n不是求職網站。是退休金試算。\n\n我填了出生年、填了現在的薪水，把「預計工作到幾歲」那一格拉到六十五。\n\n按下計算。\n\n畫面跳出一個數字，下面還很貼心地加了一行小字：本試算僅供參考。\n\n我盯著那個數字看了很久，然後把分頁關掉，繼續改下午要交的簡報。\n\n回家的捷運上，我一直在想那個六十五。\n\n我今年三十二。也就是說，我剛剛看到的東西，是再三十三年、大概八千多個上班日之後的事。\n\n那筆錢夠不夠，我不知道。\n\n我只知道一件事——\n\n我居然是在上班時間，偷偷查我什麼時候可以不用上班。",
+          "editorNote": "傳給那個下午三點盯著試算表發呆的人。看完記得把分頁關掉，簡報還是要交。",
+          "variations": [
+            "短版：「我在上班時間，偷偷查我什麼時候可以不用上班。」",
+            "延伸版：「試算結果下面寫著『僅供參考』，那大概是這輩子最誠實的四個字。」"
+          ]
+        },
+        "en": {
+          "content": "Three in the afternoon, and I quietly opened a website at my desk.\n\nNot a job board. A retirement calculator.\n\nI entered my birth year, entered my current salary, and dragged the 'planned retirement age' field over to sixty-five.\n\nHit calculate.\n\nA number appeared, with a helpful little line underneath: this estimate is for reference only.\n\nI stared at it for a long time, closed the tab, and went back to the deck due that afternoon.\n\nOn the train home I kept thinking about sixty-five.\n\nI'm thirty-two. Which means what I just looked at is thirty-three years away — roughly eight thousand more working days.\n\nWhether that number is enough, I have no idea.\n\nI only know one thing.\n\nI spent company time secretly looking up when I get to stop spending company time.",
+          "editorNote": "For the person staring at a retirement calculator at 3 p.m. Close the tab afterward — the deck is still due.",
+          "variations": [
+            "Short: 'I used work hours to secretly look up when I get to stop working.'",
+            "Extended: 'The estimate said for reference only. Most honest thing anyone has told me about my future.'"
+          ]
+        }
+      }
     }
   ]
 }

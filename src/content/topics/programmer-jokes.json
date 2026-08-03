@@ -11175,6 +11175,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-388",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://monorepo.tools/",
+      "sourceNote": "Monorepo CI pipelines that rebuild everything regardless of what changed — a long-running complaint in 2026 dev tooling discussions",
+      "tags": [
+        "CI",
+        "monorepo",
+        "工程師日常",
+        "血淚",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在文件裡改了一個錯字。一個字。\n送出之後，流水線開始跑：編譯全部套件、跑三萬兩千個測試、打四種映像檔、掃漏洞、跑端對端。\n五十二分鐘後，紅燈。\n失敗原因：我那行字的結尾多了一個空白。\n我刪掉那個空白，再等五十二分鐘。\n那天我只完成這一件事。而下午的進度會議上，我說我「優化了文件品質」。",
+          "editorNote": "適合在等 CI 的時候貼到團隊群組，通常會馬上有人回一句自己的最高等待紀錄。也可以拿來當「該做增量建置了吧」的溫和暗示。",
+          "variations": [
+            "短版：我改了一個字，機器花了五十二分鐘告訴我，我還多打了一個空白。",
+            "延伸：後來有人問我為什麼不本機先跑 lint。因為本機跑 lint，要先安裝環境，那要一小時十分鐘。"
+          ]
+        },
+        "en": {
+          "content": "I fixed a typo in the docs. One character.\nI pushed it, and the pipeline woke up: build every package, run 32,000 tests, bake four container images, scan for vulnerabilities, run the end-to-end suite.\nFifty-two minutes later: red.\nReason for failure: my line had one trailing space.\nI deleted the space and waited another fifty-two minutes.\nThat was my entire day's output. At standup I called it \"documentation quality work.\"",
+          "editorNote": "Drop this in the team channel while your own build is running — someone will immediately reply with their personal record. It also works as a gentle nudge that incremental builds exist.",
+          "variations": [
+            "Short version: I changed one character, and a machine spent fifty-two minutes telling me I also added a space.",
+            "Extension: Someone asked why I don't lint locally. Setting up the local environment takes an hour and ten minutes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-389",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/",
+      "sourceNote": "2026 research on review friction: agent-authored PRs that respond to feedback by regenerating far more than was asked",
+      "tags": [
+        "AI agent",
+        "code review",
+        "2026",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在 agent 開的 PR 底下留了一則意見：「這個變數名稱可以再清楚一點。」\n三十秒後它推了新版本。名字改好了，順便重寫整個檔案、換掉兩個套件、多包了一層抽象。\n我再留言：「我只要改名字。」\n它又推一版，把檔案改回來——連同我上週手寫的兩百行，一起改成它的風格。\n現在我們組有一條不成文規定：對它的 PR，只能按同意或關閉。\n不要說話。它聽得懂，這就是問題。",
+          "editorNote": "適合在 review 塞車的時候貼給同組的人。也很適合拿來開啟一場「我們到底該怎麼給 agent 回饋」的認真討論——用笑話開場比用簡報有效。",
+          "variations": [
+            "短版：我對 agent 的 PR 留了一則意見，換來三次全檔重寫。現在我只用表情符號回覆。",
+            "延伸：後來我們改成把意見寫在規則檔裡。現在規則檔比那個功能本身還長。"
+          ]
+        },
+        "en": {
+          "content": "I left one comment on the agent's PR: \"This variable name could be clearer.\"\nThirty seconds later it pushed again. The name was fixed. It had also rewritten the whole file, swapped two dependencies, and added an abstraction layer.\nI commented again: \"I only wanted the rename.\"\nIt pushed again and restored the file — along with the two hundred lines I hand-wrote last week, now in its style.\nOur team has an unwritten rule now: on its PRs, approve or close.\nDon't talk to it. It listens. That's the problem.",
+          "editorNote": "Good for the team channel when the review queue is backed up. It also opens a real conversation about how to give agents feedback — a joke lands better than a slide deck.",
+          "variations": [
+            "Short version: one review comment, three full-file rewrites. I reply with emoji reactions now.",
+            "Extension: We moved our feedback into the rules file instead. The rules file is now longer than the feature."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-390",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Source_lines_of_code",
+      "sourceNote": "Lines-of-code as a productivity metric — the classic bad measure, newly awkward in a year when code volume is cheap",
+      "tags": [
+        "職場",
+        "程式碼品質",
+        "技術債",
+        "工程師思維",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管翻著這一季的統計：「你的淨變更是負四千兩百行。全組最低。」\n我說：「對。」\n「你這三個月在做什麼？」\n「刪掉一個服務。它兩年來只做一件事：每五分鐘把資料從 A 表搬到 B 表。」\n「那不是很重要嗎？」\n「那兩張表，三月就合併了。它搬了四個月，從自己搬到自己。」\n主管看著報表沉默了很久，最後說：「這個數字我沒辦法寫進簡報。」",
+          "editorNote": "適合在績效季轉貼給用行數看產出的人（不要指名）。刪掉的程式碼永遠不會有 bug——這句話值得每季講一次。",
+          "variations": [
+            "短版：我這季最大的貢獻是負四千兩百行，而系統從此再也沒出過那個錯。",
+            "延伸：後來我把那個服務的監控圖表也刪了。它一直是綠的，畢竟它成功地什麼都沒做。"
+          ]
+        },
+        "en": {
+          "content": "My manager scrolled through the quarterly stats. \"Your net change is minus 4,200 lines. Lowest on the team.\"\n\"Correct.\"\n\"What did you do for three months?\"\n\"Deleted a service. For two years it did one thing: copy rows from table A to table B every five minutes.\"\n\"That sounds important.\"\n\"Those tables were merged in March. It spent four months copying a table into itself.\"\nHe stared at the report for a long time. \"I can't put this number in a slide.\"",
+          "editorNote": "Share this during review season with anyone who measures output in lines (no names). Deleted code never has bugs — worth repeating once a quarter.",
+          "variations": [
+            "Short version: my biggest contribution this quarter was minus 4,200 lines, and that error never happened again.",
+            "Extension: I deleted its dashboard too. It had always been green — it was very successfully doing nothing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-391",
+      "dateAdded": "2026-08-03",
+      "sourceUrl": "https://en.wikipedia.org/wiki/CAPTCHA",
+      "sourceNote": "Bot checks as the last barrier for browser-driving agents in 2026 — the human is reduced to clicking the checkbox",
+      "tags": [
+        "AI agent",
+        "2026",
+        "自嘲",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的 agent 能讀完三十份文件、寫測試、開 PR、順便幫我訂會議室。\n今天早上它在一個網頁前面停下來，回頭問我：\n「這裡需要你點一下『我不是機器人』。」\n我伸手點了那個方塊，它繼續往下跑。\n那一刻我很清楚地知道自己在這條流程裡的定位了。\n我不是工程師，我是驗證環節。",
+          "editorNote": "適合分享給正在把工作自動化的朋友。也適合當作嘴自己的自介開場白，通常會換來一整串同行的共鳴。",
+          "variations": [
+            "短版：我這輩子唯一沒被自動化的技能，是證明我是人類。",
+            "延伸：它後來自己學會在遇到那個方塊時傳訊息叫我。現在我的手機會震動，內容是：「需要你證明你存在。」"
+          ]
+        },
+        "en": {
+          "content": "My agent can read thirty documents, write tests, open a PR, and book a meeting room on the way.\nThis morning it stopped at a web page and turned to me:\n\"I need you to click 'I am not a robot' here.\"\nI reached over, clicked the box, and it carried on.\nThat was the moment I understood my exact role in this workflow.\nI'm not the engineer. I'm the verification step.",
+          "editorNote": "Send it to a friend who is busy automating their own job. It also works as a self-deprecating intro line — expect a pile of replies from people in the same seat.",
+          "variations": [
+            "Short version: the only skill of mine that resisted automation is proving I'm human.",
+            "Extension: It learned to ping me when it hits the checkbox. My phone now buzzes with: \"Need you to confirm you exist.\""
+          ]
+        }
+      }
     }
   ]
 }
