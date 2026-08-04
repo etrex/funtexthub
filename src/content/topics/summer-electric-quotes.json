@@ -6802,6 +6802,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-228",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "2026 夏季電價說明：住宅用電共六個累進級距，120 度以下每度 1.78 元，1000 度以上每度 8.86 元，採分段累進計費",
+      "tags": ["累進電價", "級距", "迷思", "台電", "真相"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「一旦超過那條線，整份電費就變成一度八塊多。」這句話我信了三年，每年七月都過得像通緝犯。\n後來才看懂：住宅電價有六個級距，是分段收的。前面那 120 度還是一度 1.78 元，貴的只有你多爬出來的那一段。\n所以我從來沒有被整份加價，我只是每往上一階，就被溫柔地多刮一層。\n知道真相之後我也沒有比較放鬆，只是換了一種算法繼續害怕。",
+          "editorNote": "破解最常見的級距誤解——超過門檻不是整份跳貴，而是超出部分才適用高費率；適合在群組有人恐慌時貼出來，闢謠又不說教",
+          "variations": [
+            "累進電價不是一刀砍下去，是一層一層慢慢刮。",
+            "我怕的其實不是那條線，是我每年都會越過它。"
+          ]
+        },
+        "en": {
+          "content": "\"Cross that line and your whole bill jumps to the top rate.\" I believed it for three years and spent every July living like a fugitive.\nThen I actually read it: residential power has six tiers and they stack. Your first chunk still bills at the cheap rate. Only the part you climbed past gets the expensive one.\nSo I was never charged top rate on everything. I just got shaved one thin layer at a time, one tier at a time.\nKnowing the truth didn't relax me. It just gave me a more accurate way to be scared.",
+          "editorNote": "Debunks the most common tier myth: crossing a threshold reprices only the excess, not the whole bill; good for calming a panicking group chat without lecturing",
+          "variations": [
+            "Tiered pricing isn't one big cut. It's a lot of small shavings.",
+            "I wasn't afraid of the line. I was afraid I cross it every year."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-229",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "台電約每兩個月抄表一次，一期帳單的累進級距額度須乘以兩倍計算",
+      "tags": ["抄表", "級距", "帳單", "兩個月一期", "用電量"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台電大約兩個月抄一次表，所以帳單上的級距門檻，全部要乘以二。\n我第一次看懂的時候超開心：「哇，我的免死金牌變成兩倍。」\n然後我發現，被乘二的不只是額度，還有我開冷氣的天數。\n台電從來沒有虧待我。是我把加倍的空間，加倍地用完了。",
+          "editorNote": "解釋雙月抄表為什麼級距要加倍，順便吐槽「額度變大＝可以多用」的錯覺；適合第一次認真看懂帳單的人",
+          "variations": [
+            "額度乘二，我的冷氣時數也很爭氣地乘二。",
+            "台電給我兩倍的空間，我用兩倍的速度填滿它。"
+          ]
+        },
+        "en": {
+          "content": "The meter gets read roughly every two months, so every tier threshold on the bill is doubled.\nThe first time I understood that, I was thrilled. \"My free pass is twice as big.\"\nThen I noticed what else got doubled: the number of days I ran the AC.\nThe power company never shortchanged me. I just filled twice the room twice as fast.",
+          "editorNote": "Explains why bimonthly meter reads double the tier limits, and mocks the illusion that a bigger allowance means room to spare; good for anyone reading their bill closely for the first time",
+          "variations": [
+            "They doubled my allowance. My AC hours rose to the occasion.",
+            "Twice the headroom, same me, half the time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-230",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.taipower.com.tw/2289/2363/2388/2389/10735/normalPost",
+      "sourceNote": "夏月電價期間為 6/1 至 9/30；帳單計費期間若跨越夏月與非夏月，台電依各自適用天數按比例分算",
+      "tags": ["夏月電價", "九月", "帳單", "台電", "希望"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「夏月電價九月三十號結束」——我把這天圈在月曆上，像在等刑期屆滿。\n後來才知道，如果帳單期間剛好跨過那條線，台電會按各自的天數比例分開算。\n所以那不是一道門，是一個斜坡：九月最後那幾天，我的每一度電，是一點一點變便宜的。\n我人生第一次感謝「按比例」這三個字。原來解脫也可以分期到貨。",
+          "editorNote": "說明跨夏月／非夏月的帳單是依天數比例分算，不是整期一個價；適合九月倒數夏月電價結束時使用，帶點知識也帶點盼頭",
+          "variations": [
+            "九月三十號不是終點線，是一段慢慢下坡的路。",
+            "我的解脫沒有一次到位，它是按天數分期付款給我的。"
+          ]
+        },
+        "en": {
+          "content": "\"Summer rates end September 30.\" I circled it on the calendar like a release date.\nThen I learned that if your billing period straddles that line, they split it by the actual number of days on each side.\nSo it isn't a door. It's a ramp. Over those last September days, every unit I use gets a little cheaper.\nFirst time in my life I've been grateful for the word \"prorated.\" Turns out relief can arrive in installments.",
+          "editorNote": "Explains that a bill spanning the summer/non-summer boundary is prorated by days rather than billed at one flat rate; good for the September countdown, informative with a bit of hope",
+          "variations": [
+            "September 30 isn't a finish line. It's a downhill stretch.",
+            "My relief didn't arrive all at once. It got paid to me by the day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-231",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E5%8F%B0%E9%9B%BB%E9%9B%BB%E8%B2%BB-%E5%A4%8F%E5%AD%A3%E9%9B%BB%E8%B2%BB-%E9%9B%BB%E8%B2%BB%E8%A8%88%E7%AE%97/",
+      "sourceNote": "夏月電價期間社區公共用電（電梯、抽水馬達、公設照明與空調）成本上升，常反映在管理費",
+      "tags": ["管理費", "公共", "鄰居", "夏月電價", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "管委會公告：「夏月電價期間，社區公電支出成長四成，請住戶共體時艱。」\n公電是什麼？是電梯、抽水馬達、地下室那盞永遠不關的燈，還有大廳那台冷氣。\n那台大廳冷氣，我一天經過它兩次，每次三秒。\n所以今年夏天我付了兩份電費：一份讓我家涼，一份讓一個我從來沒坐下來過的地方，涼得非常舒適。",
+          "editorNote": "切入很少被寫到的公共用電分攤——夏月電價也會推高公設電費並轉嫁到管理費；適合社區公告調漲時在鄰居群組發洩",
+          "variations": [
+            "我家的冷氣要省，大廳的冷氣不用，因為它花的是大家的錢。",
+            "全社區最涼的地方，是一個沒有人真的待著的地方。"
+          ]
+        },
+        "en": {
+          "content": "Building notice: \"Summer rates have pushed common-area power costs up 40%. Thank you for your understanding.\"\nCommon-area power means the elevator, the water pump, the basement light nobody ever switches off, and the lobby AC.\nThat lobby AC. I walk past it twice a day, three seconds each way.\nSo this summer I'm paying two electric bills: one to keep my apartment cool, and one to keep a room I have never once sat down in extremely comfortable.",
+          "editorNote": "Covers the rarely-written angle of shared common-area power: summer rates raise building costs and land in your HOA fee; good to vent in the neighbor chat when the notice goes up",
+          "variations": [
+            "I ration my AC. The lobby AC doesn't, because it spends everyone's money.",
+            "The coldest room in the building is the one nobody stays in."
+          ]
+        }
+      }
     }
   ]
 }

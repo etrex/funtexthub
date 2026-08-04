@@ -6722,6 +6722,135 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-222",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.setn.com/news/1883298",
+      "sourceNote": "2026/07 台股去槓桿、融資餘額減幅超過大盤修正幅度的市場評論；改寫為原創自嘲，不指涉個股、不預測漲跌",
+      "tags": [
+        "融資",
+        "槓桿",
+        "洗盤",
+        "斷頭",
+        "散戶",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "分析師在節目上說，這一波把浮額洗得很乾淨，市場體質變健康了，是好事。\n我卡在「洗得很乾淨」那五個字上。\n因為我就是被洗掉的那一批：融資被追繳、部位縮到剩零頭、名字從所有統計裡安靜地消失。\n市場確實變健康了，代價是把我洗出去。\n我現在也很乾淨，乾淨到什麼都不剩。",
+          "editorNote": "適合看到「籌碼沉澱、體質轉健康」這類評論、自己卻剛認賠出場的時候",
+          "variations": [
+            "市場的體質，是靠洗掉我這種人養好的。",
+            "他們口中的浮額，有名有姓，就是我。"
+          ]
+        },
+        "en": {
+          "content": "The analyst on TV said this stretch washed out the weak hands, the market's structurally healthier now, and that's a good thing.\nI got stuck on 'washed out.'\nBecause that's me. Margin called, position shrunk to a rounding error, name quietly deleted from every statistic.\nThe market really is healthier. The price of that was me.\nI'm very clean now too. Clean as in there's nothing left.",
+          "editorNote": "For hearing 'the weak hands are flushed out' the same week you closed everything at a loss",
+          "variations": [
+            "The market gets healthier by removing people like me.",
+            "When they say weak hands, they mean mine specifically."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-223",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://tw.stock.yahoo.com/news/",
+      "sourceNote": "2026/07 台股總開戶人數再創新高的報導；改寫為原創情境，不引用具體數字、不指涉個股",
+      "tags": [
+        "券商",
+        "心理帳戶",
+        "自欺",
+        "分散投資",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說全台開戶人數又創新高的那天，我算了一下，那裡面有三戶是我的。\n對外的說法是：手續費要比較，下單要分散。\n真正的原因是，同一筆虧損拆進三個 APP 之後，每一個打開來都還在可以接受的範圍。\n上禮拜我不小心把三張對帳單並排看。\n數字沒有變多，我只是終於聽懂它們一直在講同一件事。",
+          "editorNote": "適合在你準備開第四個帳戶之前，先傳給自己看一次",
+          "variations": [
+            "我沒有分散風險，我只是分散了會看到風險的地方。",
+            "帳戶可以開很多個，本金從頭到尾只有一份。"
+          ]
+        },
+        "en": {
+          "content": "The day the country set another record for brokerage accounts opened, I did the math: three of them are mine.\nThe official reason is comparing fees and spreading out my orders.\nThe real reason is that one loss split across three apps looks completely survivable in each one.\nLast week I accidentally lined all three statements up side by side.\nThe number didn't get bigger. I just finally understood they'd been saying the same thing all along.",
+          "editorNote": "For the moment right before you open a fourth account",
+          "variations": [
+            "I didn't diversify my risk. I diversified where I have to look at it.",
+            "You can open as many accounts as you want. There's still only one pile of money."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-224",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://news.cnyes.com/news/id/6557274",
+      "sourceNote": "2026/08 證交所處置股新制（關禁閉天數縮短、撮合頻率加快，8/10 上路）與「流動性殺手」輿論；改寫為原創自嘲，不指涉個股",
+      "tags": [
+        "套牢",
+        "停損",
+        "本金",
+        "紀律",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說交易所要放寬處置股的限制了，理由是原本那套規定根本是流動性殺手。\n留言區一片歡呼，說終於還我流動性。\n我看了看自己的庫存：三檔套了兩年，每天開盤都可以自由買賣，我一張也沒動過。\n真正殺掉我流動性的從來不是制度。\n是那句「等它回到我的成本價，我就走」。",
+          "editorNote": "適合看到交易制度鬆綁的新聞、心裡浮出的卻是自己那幾檔動不了的持股",
+          "variations": [
+            "我的資金沒有被關禁閉，是我自己不肯放它出來。",
+            "制度可以改，我那句「再等一下」不行。"
+          ]
+        },
+        "en": {
+          "content": "The exchange is loosening the restrictions it slaps on overheated stocks. The stated reason: the old rules were a liquidity killer.\nThe comments are all cheering about finally getting their liquidity back.\nThen there's my account. Three positions, underwater for two years, freely tradable every single session, and I haven't touched one of them.\nNothing in the rulebook killed my liquidity.\nIt was the sentence 'I'll sell the moment it gets back to my cost.'",
+          "editorNote": "For reading a rule-change headline while sitting on three things you refuse to sell",
+          "variations": [
+            "My money isn't locked up by the exchange. I'm the one who won't let it out.",
+            "They can change the rules. They can't change my 'just a little longer.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-225",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.aol.com/articles/fomo-vs-fear-emotional-tug-133005923.html",
+      "sourceNote": "2026 散戶情緒交易調查（自認情緒投資人比例遠低於實際情緒下單比例）；改寫為原創情境，不引用具體數字",
+      "tags": [
+        "FOMO",
+        "追高",
+        "情緒",
+        "停損",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "券商寄了一份風險屬性問卷過來，我很認真地填。\n「您是否會因為情緒改變投資決策？」我勾了否。\n「您能否承受本金大幅波動？」我勾了可以。\n結果出來：積極型，跟我想的一模一樣。\n那天下午我看到一根長紅就衝了進去，晚上翻來覆去睡不著，隔天開盤第一分鐘砍掉。\n我對自己的判斷完全正確——那份問卷唯一沒問的，是我做不做得到。",
+          "editorNote": "適合剛填完風險屬性問卷、同一週就被自己打臉的時候",
+          "variations": [
+            "我很了解自己，只是了解跟做得到是兩回事。",
+            "問卷測的是我想成為的那個人，市場測的是我本人。"
+          ]
+        },
+        "en": {
+          "content": "My broker sent over a risk-profile questionnaire and I filled it out honestly.\n'Do your emotions influence your investment decisions?' No.\n'Can you tolerate large swings in your principal?' Yes.\nResult: aggressive investor. Exactly what I'd have guessed.\nThat afternoon I chased a big green candle, lay awake all night, and cut it in the first minute of the next open.\nMy self-assessment was completely accurate. The questionnaire just never asked whether I could actually do any of it.",
+          "editorNote": "For the week your risk questionnaire and your actual behavior openly disagree",
+          "variations": [
+            "I know myself very well. Knowing and doing are sold separately.",
+            "The questionnaire measures who I'd like to be. The market measures who I am."
+          ]
+        }
+      }
     }
   ]
 }

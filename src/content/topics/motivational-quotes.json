@@ -10477,6 +10477,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-378",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.newsweek.com/ghosted-recruiters-survive-job-search-11972969",
+      "sourceNote": "Reference on recruiter ghosting and treating rejection as batch data rather than personal verdict. Original angle: silence is un-diagnosable one at a time, so read thirty applications as one dataset with two different failure points",
+      "tags": [
+        "勵志",
+        "挫折",
+        "被拒絕",
+        "行動力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "投出去三十封，\n回你的只有兩封自動回信。\n\n那種安靜最難受——\n被拒絕至少還算有人理你，\n沒回音連個結論都不給。\n\n但一封一封看，你只會判自己死刑。\n三十封放在一起看，它才開始說話：\n\n連面試都沒有，是履歷還沒對上；\n面試完就沒下文，是那幾個故事要重講。\n\n這兩件事的修法完全不一樣，\n而你今晚只需要挑一件來修。",
+          "editorNote": "適合在求職、投稿、接案被大量已讀不回的時候看。實際做法：開一張表記下每一次的日期、投給誰、有沒有進到面試，湊滿二十到三十筆再一次檢討；沒進面試就整份重寫開頭，有面試沒結果就把三個常被問的問題答案重練。中間那些沒回音的日子不用每天檢討一次，那不會給你新資訊，只會消耗你。",
+          "variations": [
+            "一封一封看只會傷心，三十封一起看才看得出要修哪裡。",
+            "沒回音不是評語，它只是資料還不夠多。"
+          ]
+        },
+        "en": {
+          "content": "Thirty applications out.\nTwo auto-replies back.\n\nThe silence is the worst part —\na rejection at least means someone looked.\nSilence doesn't even hand you a verdict.\n\nRead one at a time and you'll just sentence yourself.\nRead all thirty at once and they start talking:\n\nNo interviews at all means the resume isn't landing.\nInterviews with no follow-up means the stories need rebuilding.\n\nThose are two completely different repairs,\nand tonight you only have to pick one.",
+          "editorNote": "For any stretch of being ghosted — job hunting, pitching, freelancing. Practical version: keep one sheet with the date, who you sent it to, and whether it reached an interview. Review only once you have twenty to thirty rows. No interviews, rewrite the opening of the whole thing. Interviews but no offers, rehearse answers to the three questions that keep coming up. Don't audit yourself on the quiet days in between; that produces no new information and costs you plenty.",
+          "variations": [
+            "One rejection tells you nothing. Thirty of them tell you exactly what to fix.",
+            "Silence isn't feedback. It just means the sample is still too small."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-379",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.scotthyoung.com/blog/2026/07/30/discouraged-heres-how-to-stay-motivated/",
+      "sourceNote": "Reference on defaulting to persistence but deciding with data at a pre-set checkpoint instead of by feel. Original angle: quitting thoughts arrive on a schedule, so give the decision its own appointment and a written condition",
+      "tags": [
+        "勵志",
+        "堅持",
+        "選擇",
+        "自我懷疑"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "想放棄的念頭從來不挑白天來。\n\n它都是等你連加班第四天、\n或又一次沒被選上的那個晚上，\n才來敲門。\n\n那個時間點的你，\n不適合做這麼大的決定。\n\n所以現在就先寫下來：\n一個日期，加一個看得見的條件——\n「到十月底，如果連一次回覆都沒有，我就換方法。」\n\n然後把它收起來。\n\n那天之前，你只要做事，\n不用每個晚上重審自己一次。",
+          "editorNote": "適合在長期的事情上（找工作、經營作品、準備考試）反覆冒出「我是不是該收手了」的時候。實際做法：現在挑一個兩到三個月後的日期寫進行事曆，旁邊寫一句具體到能勾選的條件，例如「面試累積三次以下就重寫履歷」。到期那天泡杯咖啡、白天、精神好的時候再打開來看。半夜想放棄不代表你錯，只代表現在不是回答的時機。",
+          "variations": [
+            "放棄可以，但要挑你腦袋清醒的那天決定。",
+            "先寫下日期和條件，剩下的日子就專心做事。"
+          ]
+        },
+        "en": {
+          "content": "The urge to quit never shows up in daylight.\n\nIt waits for the fourth late night in a row,\nor the evening you got passed over again,\nand then it knocks.\n\nThat version of you\nshould not be making a decision this size.\n\nSo write it down now instead:\na date, plus one condition you can actually check —\n\"By the end of October, if not a single reply, I change approach.\"\n\nThen put it away.\n\nUntil that day, your only job is the work,\nnot re-trying your own case every night.",
+          "editorNote": "For long projects — job hunts, building an audience, studying for something — where \"should I just stop\" keeps resurfacing. Practical version: put a date two or three months out in your calendar and write one checkable condition beside it, like \"fewer than three interviews means rewrite the resume.\" Open it on that day, in daylight, with coffee and a rested head. Wanting to quit at midnight doesn't mean you're wrong. It means midnight isn't when you answer.",
+          "variations": [
+            "You're allowed to quit. Just decide it on a day when you slept.",
+            "Set the date and the condition once, then go back to the work."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-380",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://mindfulmondays.substack.com/p/the-psychology-of-quitting-too-soon",
+      "sourceNote": "Reference on the unglamorous early stage most people abandon. Original angle: reframe having no audience as a temporary free-mistakes window that closes, not as proof of being overlooked",
+      "tags": [
+        "勵志",
+        "練習",
+        "累積",
+        "行動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "還沒有人在看你的時候，\n其實是你最好動手的一段。\n\n現在做壞了，沒有人會記得；\n現在整個砍掉重來，\n也不用跟任何人交代。\n\n等到有人開始注意，\n你反而會綁手綁腳，\n連改個方向都要先想別人怎麼說。\n\n所以這段沒有觀眾的日子，\n不是還沒輪到你，\n是你正在免費使用的練習場。\n\n用力一點，趁它還免費。",
+          "editorNote": "適合剛開始寫東西、做作品、開頻道，發現數字很難看而想收手的時候。實際做法：把這段時間當成刻意試錯期，一個月固定產出四次，每次故意換一種做法，做完只記「哪個地方我自己最不滿意」。等有人開始看的時候，你已經把最貴的錯誤都在沒人注意時犯完了。",
+          "variations": [
+            "沒有人在看，代表你現在犯的錯都不用付錢。",
+            "這不是還沒輪到你，是練習場現在還免費。"
+          ]
+        },
+        "en": {
+          "content": "The stretch where nobody is watching\nis the best stretch you'll get to work in.\n\nMess it up now and nobody remembers.\nScrap the whole thing and start over now\nand you owe no one an explanation.\n\nOnce people start paying attention,\nyou'll tighten up —\nyou'll want to check how a change will look\nbefore you make it.\n\nSo this audience-free season\nisn't proof your turn hasn't come.\nIt's a practice field you're using for free.\n\nUse it hard while it's still free.",
+          "editorNote": "For anyone early enough that the numbers are embarrassing and quitting feels reasonable. Practical version: treat this window as deliberate trial and error. Ship four times a month, change one thing about the approach each time, and afterward write down only the part you personally liked least. By the time anyone shows up, you'll have made the expensive mistakes while they were still cheap.",
+          "variations": [
+            "No audience means every mistake you make right now is free.",
+            "It's not that your turn hasn't come. It's that the practice field is still free."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-381",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.psychologytoday.com/us/blog/automatic-you/202601/how-to-know-if-you-should-quit",
+      "sourceNote": "Reference on misreading normal discomfort as a signal to stop. Original angle: the urge to bail specifically when things start going well, driven by unfamiliarity with being expected of rather than by intuition",
+      "tags": [
+        "勵志",
+        "自我懷疑",
+        "堅持",
+        "心態"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "奇怪的是，\n事情終於開始有起色的那幾天，\n你反而最想把它推掉。\n\n突然覺得自己不夠格、\n突然很想去弄別的、\n突然挑得出一百個小毛病。\n\n那不是直覺在警告你，\n是你還不習慣被期待。\n\n爛的時候你早就練會怎麼撐了，\n順的時候也要練習留下來。",
+          "editorNote": "適合在事情剛有進展、卻莫名想全部推翻的時候。那股不安常被誤讀成「這條路不對」，其實只是責任突然變重的身體反應。實際做法：先不要做任何取消或退出的動作，把想逃的理由寫下來放三天；三天後大部分會自己站不住腳。真的站得住的那一兩條，才值得處理。",
+          "variations": [
+            "事情開始順的時候會不安，那不是警告，是你不習慣。",
+            "撐過難的那段你已經會了，接下來要練的是好的時候不要跑。"
+          ]
+        },
+        "en": {
+          "content": "Here's the strange part:\nthe days it finally starts working\nare the days you most want to push it away.\n\nSuddenly you don't feel qualified.\nSuddenly another project looks urgent.\nSuddenly you can list a hundred small flaws.\n\nThat's not intuition warning you.\nThat's you being unused to being expected of.\n\nYou already learned how to hang on when it was bad.\nNow practice staying when it's good.",
+          "editorNote": "For the moment something starts going well and you inexplicably want to blow it up. That unease gets misread as \"wrong path,\" when it's usually just the body reacting to weight it hasn't carried before. Practical version: cancel nothing. Write down your reasons for wanting out and leave them for three days. Most won't survive the wait. The one or two that do are the ones actually worth acting on.",
+          "variations": [
+            "The unease when things start working isn't a warning. It's unfamiliarity.",
+            "You've already learned to survive the bad stretch. Now learn to stay through the good one."
+          ]
+        }
+      }
     }
   ]
 }

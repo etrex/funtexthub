@@ -11299,6 +11299,161 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-392",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://arxiv.org/html/2603.27249v3",
+      "sourceNote": "Slopsquatting — attackers registering the package names LLMs repeatedly hallucinate",
+      "tags": [
+        "資安",
+        "AI",
+        "2026",
+        "套件",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "AI 叫我裝一個套件，我學乖了，先去查它存不存在。\n它存在。三顆星，第一版是三個禮拜前發布的。\n我裝了，跑起來完全正常。\n正常到有點可疑。\n後來我才知道，那個名字是 AI 這半年來一直幻想出來的名字。有人把這些幻想整理成清單，一個一個註冊掉。\n以前它編出一個不存在的套件，你會 debug 三小時。\n現在它編出一個不存在的套件，會有人搶著幫它變成存在的。",
+          "editorNote": "適合丟到團隊群組當資安提醒，比正經的公告有人看。也適合在 code review 裡回一句「這個 import 你確認過嗎」時附上。",
+          "variations": [
+            "短版：以前 AI 的幻覺只會浪費你三小時，現在有人專門把它的幻覺註冊成真的。",
+            "延伸：我現在裝套件前會先看發布日期。凡是「比 AI 的知識還新，名字又剛好跟 AI 想的一模一樣」的，我一律當陷阱。"
+          ]
+        },
+        "en": {
+          "content": "The AI told me to install a package. I've learned my lesson, so I checked whether it exists.\nIt exists. Three stars, first version published three weeks ago.\nI installed it. Ran perfectly.\nSuspiciously perfectly.\nTurns out that name is one the AI has been hallucinating for months. Someone collected those hallucinations into a list and registered every single one.\nIt used to be that a made-up package cost you three hours of debugging.\nNow when it makes one up, somebody races to make it real.",
+          "editorNote": "Drop it in the team channel as a security reminder — people actually read the joke version. Also good attached to a review comment like \"did you verify this import?\"",
+          "variations": [
+            "Short version: the AI's hallucinations used to waste three hours of your time. Now someone registers them for you.",
+            "Extension: I check publish dates before installing anything now. Newer than the model's knowledge, and named exactly what the model would guess? That's a trap."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-393",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://circleci.com/blog/ai-agents-software-delivery",
+      "sourceNote": "Studies finding most 'flaky' test failures were real bugs hidden by retry logic",
+      "tags": [
+        "測試",
+        "CI",
+        "production",
+        "血淚",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個測試三個月來紅了兩百多次。\n我們的處理方式從來沒變過：按重跑。\n第二次通常就過了，過了就當作沒事。\n上禮拜正式環境炸掉兩個小時，客訴淹到客服信箱。\n事後查出來的成因，跟那個測試每次紅掉時印的那行訊息，一字不差。\n它不是時好時壞。\n它是連續喊了兩百次，而我們連續按了兩百次「你再說一次」，然後每一次都沒有聽。",
+          "editorNote": "適合放在事故檢討報告的開頭，殺傷力比任何圖表都大。也適合回覆那位說「先重跑看看」的同事。",
+          "variations": [
+            "短版：那個測試不是不穩定，它只是喊了兩百次都沒人聽。",
+            "延伸：我們現在的規定是，同一個測試第三次紅掉就不准重跑，要開單。第一週就開出七張，其中兩張是真的。"
+          ]
+        },
+        "en": {
+          "content": "That test went red over two hundred times in three months.\nOur response never changed: hit retry.\nIt usually passed on the second run, and passing means it never happened.\nLast week production went down for two hours and support drowned.\nThe root cause in the writeup matched, word for word, the line that test printed every time it failed.\nIt wasn't flaky.\nIt said the same thing two hundred times, and two hundred times we clicked \"say that again\" and didn't listen.",
+          "editorNote": "Perfect opening line for a postmortem — it lands harder than any chart. Also a solid reply to the teammate who says \"just re-run it.\"",
+          "variations": [
+            "Short version: the test wasn't flaky. It was shouting, and nobody was listening.",
+            "Extension: New rule — third failure on the same test, no retry, file a ticket. Week one produced seven tickets. Two of them were real."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-394",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.builder.io/blog/developers-drowning-in-ai-prs",
+      "sourceNote": "2026 review culture where bot reviewers and agent authors resolve threads without human involvement",
+      "tags": [
+        "code review",
+        "AI agent",
+        "2026",
+        "團隊",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個 PR 底下有四十七則意見。\n四十六則是自動審查機器人留的。\n剩下一則是作者那隻 agent 回的：「已修正。」\n兩者間隔十二秒。\n我點進去的時候，整串討論已經跑完了，結論是「看起來不錯，可以合併」。\n我在最底下留了一句：「所以這個功能到底是要解決什麼問題？」\n那則沒有人回。\n因為整串裡面，只有那一則需要人類回答。",
+          "editorNote": "適合在團隊討論 AI 產出的 PR 該怎麼審時貼出來。也適合當作「review 到底在 review 什麼」這個話題的開場。",
+          "variations": [
+            "短版：機器人審機器人，十二秒結案，我負責按合併。",
+            "延伸：後來我們加了一條規則：機器人可以留意見，但只有人類可以說「這件事不該做」。"
+          ]
+        },
+        "en": {
+          "content": "That PR has forty-seven comments.\nForty-six are from the automated reviewer.\nThe last one is the author's agent replying: \"Fixed.\"\nTwelve seconds apart.\nBy the time I opened it, the whole thread had resolved itself. Verdict: looks good, ready to merge.\nI added one comment at the bottom: \"What problem is this feature actually solving?\"\nNobody answered that one.\nIt was the only comment in the thread that needed a human.",
+          "editorNote": "Good to share when the team is arguing about how to review AI-authored PRs. Also a clean opener for \"what is review even for\" discussions.",
+          "variations": [
+            "Short version: bot reviews bot, resolved in twelve seconds, and I'm the merge button.",
+            "Extension: We added a rule — bots can leave comments, but only a human is allowed to say \"we shouldn't build this.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-395",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Freeze_(software_engineering)",
+      "sourceNote": "Code freeze policies and the hotfix loophole that swallows them",
+      "tags": [
+        "上線",
+        "production",
+        "職場",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司宣布連假前兩週封版，任何東西都不准上線。\n兩週結束後我們統計了一下。\n那是全年上線次數最高的兩週。\n因為封版只擋「功能」，沒有擋「緊急修正」。\n於是全公司的功能，都在那兩週學會了改名字。",
+          "editorNote": "適合在公司宣布封版當天貼到群組，效果最好。也適合當作提案改流程時的第一張投影片。",
+          "variations": [
+            "短版：封版期間唯一被凍結的，是「功能」這兩個字。",
+            "延伸：我們的緊急修正判定標準非常嚴謹，一共一條：提出的人說他很急。"
+          ]
+        },
+        "en": {
+          "content": "The company announced a two-week code freeze before the holiday. Nothing ships.\nAfter it ended, we pulled the numbers.\nThose were the two highest-deploy weeks of the entire year.\nThe freeze only blocked \"features.\" It said nothing about \"urgent fixes.\"\nSo for two weeks, every feature in the company learned a new name.",
+          "editorNote": "Post it in the channel the day a freeze is announced — peak timing. Also works as slide one of a process-change pitch.",
+          "variations": [
+            "Short version: the only thing frozen was the word \"feature.\"",
+            "Extension: Our criteria for an urgent fix are rigorous. There is exactly one: the person filing it says it's urgent."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-396",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.kunalganglani.com/blog/ai-generated-code-quality-crisis",
+      "sourceNote": "Automated dependency-update PRs piling up unreviewed as a form of silent security debt",
+      "tags": [
+        "資安",
+        "維護",
+        "技術債",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "稽核問：「你們多久更新一次依賴套件？」\n我說：「每天都有人提議。」\n他很滿意，在表格上打了勾。\n他沒問的是：提議的人是誰，以及提議完之後發生了什麼事。\n那是一隻機器人。它每天早上開三個更新 PR，開了一年多。\n沒有人處理的，累積到八百多個。\n我們沒有更新依賴的習慣。\n我們只有被提醒的習慣。",
+          "editorNote": "適合在團隊被問「我們的資安做得怎麼樣」時當作照妖鏡。也適合貼在那個沒人敢打開的 PR 列表旁邊。",
+          "variations": [
+            "短版：我們的資安策略是每天都有東西提醒我們沒在做資安。",
+            "延伸：後來我們花了一個下午把八百個 PR 全部關掉。稽核表上那一格，還是打勾。"
+          ]
+        },
+        "en": {
+          "content": "The auditor asked: \"How often do you update your dependencies?\"\nI said: \"Someone proposes an update every single day.\"\nHe looked pleased and ticked the box.\nWhat he didn't ask was who proposes them, and what happens next.\nIt's a bot. It opens three update PRs every morning and has for over a year.\nThe unhandled ones have piled up past eight hundred.\nWe don't have a habit of updating dependencies.\nWe have a habit of being reminded.",
+          "editorNote": "Bring it out when someone asks how the team's security posture is doing. Also pairs well with the PR list nobody dares open.",
+          "variations": [
+            "Short version: our security strategy is having something remind us daily that we have no security strategy.",
+            "Extension: We eventually spent an afternoon closing all eight hundred. The box on the audit form is still ticked."
+          ]
+        }
+      }
     }
   ]
 }

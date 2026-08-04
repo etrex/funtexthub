@@ -8811,6 +8811,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-304",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.setn.com/News.aspx?NewsID=1859771",
+      "sourceNote": "2026 三立報導整理店員最常遇到的失格行為，包含在餐桌上替嬰兒換尿布、把髒尿布丟進餐具回收台。svc-276 是小孩打翻飲料被默默擦掉、svc-283 是小孩弄壞商品，本則核心是「客人把最不該留的東西留在回收台，而清的人沒有拒絕的權利」",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "奧客",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "您在座位上替寶寶換完尿布，\n把那包東西放進餐具回收台，\n跟別人的碗筷疊在一起，\n然後牽著孩子走出門，還回頭說了聲謝謝。\n那聲謝謝我收下了。\n那包東西也是我收的。\n小姐，我沒有生氣，\n我只是想讓您知道——\n這一區沒有清潔阿姨，\n有的是剛剛替您加水、擦桌、拿兒童椅的那個人。",
+          "editorNote": "傳給每一位在回收台前深呼吸過的外場夥伴。孩子還小不是問題，問題是有人默認「反正有人會收」；那個人有名字，也有下班時間。",
+          "variations": [
+            "回收台不是垃圾桶，它只是離您最近的那一個。",
+            "我可以收碗、收盤、收托盤，唯獨那一包，希望您自己帶走。"
+          ]
+        },
+        "en": {
+          "content": "You changed the baby right there at the table,\nthen set the bundle in the dish return\nstacked in with everyone else's plates,\ntook your kid's hand, and said thanks on the way out.\nI'll keep the thanks.\nI also kept the bundle.\nMa'am, I'm not angry.\nI just want you to know\nthere is no cleaning crew for that station.\nThere's the person who refilled your water, wiped your table, and brought the high chair.",
+          "editorNote": "For anyone who has stood at the dish return taking a slow breath. A baby isn't the problem. The problem is assuming somebody handles it. That somebody has a name and a shift that ends.",
+          "variations": [
+            "The dish return isn't a trash can. It's just the one closest to you.",
+            "I'll take the plates, the cups, the trays. That one bundle, please take with you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-305",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://zhelu.tw/post/terrible-customer",
+      "sourceNote": "2026 主管機關定調不合理客訴不再納入服務評比與記點，律師專文亦說明奧客行為的法律界線。svc-181 是「我也想給客人評分」、svc-034 是客訴法庭，本則核心是「制度第一次替現場分辨客訴與找碴」",
+      "tags": [
+        "服務業",
+        "客訴",
+        "心聲",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前只要電話一進總部，\n不管內容是什麼，我這裡就先扣一次。\n「你們憑什麼不給我插隊」也算一次，\n「你長得就不像會做事」也算一次。\n今年制度改了：\n無理的那種，不列入計算。\n我看著公告站了三秒——\n原來不是我抗壓性太差，\n是以前那把尺，\n根本沒有分辨過誰在講理。",
+          "editorNote": "傳給曾經被莫名其妙的申訴扣過考績的人。制度會慢，但會動；在它追上來之前，先別急著用那把壞掉的尺量自己。",
+          "variations": [
+            "客訴跟找碴，終於不是同一格了。",
+            "不是我變強了，是那把量我的尺，終於修好了一點。"
+          ]
+        },
+        "en": {
+          "content": "It used to be that any call to head office\ncost me a mark, no matter what was in it.\n\"How dare you not let me cut the line\" counted.\n\"You don't look like someone who works hard\" counted.\nThis year the policy changed:\nunreasonable complaints don't go on the record.\nI stood in front of that memo for three seconds.\nTurns out it was never that I couldn't take pressure.\nIt was that the old ruler\nnever once checked who was being reasonable.",
+          "editorNote": "For anyone whose review got dinged by a complaint that made no sense. Systems move slowly, but they do move. Until yours catches up, stop measuring yourself with the broken ruler.",
+          "variations": [
+            "A complaint and a tantrum finally live in different columns.",
+            "I didn't get tougher. The thing measuring me just got a little less broken."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-306",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.dcard.tw/f/delivery",
+      "sourceNote": "2026 Dcard 外送板討論：淡季爆胎加上手機摔壞，等於當月收入直接歸零。svc-267 是雨天爬五樓、svc-290 是客人加碼要求，本則核心是「工具就是生計，一顆輪胎就能讓一個月消失」",
+      "tags": [
+        "服務業",
+        "外送",
+        "薪水",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上八點，右後輪壓到一根釘子。\n手機從車架上摔下去，螢幕裂成一張蜘蛛網。\n修車一千二，換螢幕四千五。\n我坐在路邊算了一下——\n這個月白跑了。\n公司說我是「合作夥伴」，\n夥伴的意思是：\n車是我的、油是我的、手機是我的、\n倒下去的時候，也是我自己爬起來的。",
+          "editorNote": "傳給用自己的車、自己的手機在賺錢的人。所謂彈性自由，翻過來就是所有風險都算你的；出門前先看一眼胎壓，那三十秒是你這個月最划算的投資。",
+          "variations": [
+            "一根釘子可以讓一個月消失，這件事沒寫在招募文案裡。",
+            "他們叫我夥伴。夥伴的定義是：東西壞了，只有我一個人在付錢。"
+          ]
+        },
+        "en": {
+          "content": "Eight in the morning, the back tire finds a nail.\nThe phone drops off the mount and the screen webs over.\nTire: forty bucks. Screen: a hundred and fifty.\nI sat on the curb and did the math.\nThis month is gone.\nThe app calls me a partner.\nPartner means\nmy bike, my gas, my phone,\nand when it all goes down, my own two hands picking it back up.",
+          "editorNote": "For everyone earning on their own vehicle and their own phone. Flexible and free, flipped over, means every risk lands on you. Check your tire pressure before you clock in. Thirty seconds, best investment of the month.",
+          "variations": [
+            "One nail can erase a whole month. That part wasn't in the recruiting ad.",
+            "They call me a partner. A partner is the only one who pays when something breaks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-307",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.518.com.tw/article/2115",
+      "sourceNote": "518 職場熊報談客訴處理與服務評分機制。svc-259 是客人拿一星威脅、svc-181 是想反過來評分客人，本則核心是「打在我頭上的分數，扣分項目全部不歸我管」",
+      "tags": [
+        "服務業",
+        "零售",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "結帳完，系統會寄一封滿意度問卷給客人，\n分數會掛在我的工號底下。\n這個月我拿到三分。\n扣分理由：停車位太難找、東西比網路貴、\n還有「等太久」——那天現場只有我一個人。\n停車場不是我畫的，\n價格不是我訂的，\n班表更不是我排的。\n但那三分，\n穩穩地落在我的名字上。",
+          "editorNote": "傳給被綁著一個自己控制不了的分數的人。評分不是照妖鏡，它只是把整間公司的問題，濃縮成一個掛在你工號後面的數字；那不是你的成績單。",
+          "variations": [
+            "我的分數包含停車位、定價和公司的排班，唯獨不包含我做了什麼。",
+            "問卷問的是這家店，扣的是我的名字。"
+          ]
+        },
+        "en": {
+          "content": "After checkout the system emails the customer a survey,\nand the score lands under my employee number.\nThis month I got a three.\nReasons docked: parking is hard, prices beat the website,\nand \"waited too long\" — that day I was the only one on the floor.\nI didn't paint the parking lot.\nI didn't set the prices.\nI sure didn't write the schedule.\nBut that three\nsits squarely on my name.",
+          "editorNote": "For anyone chained to a number they can't control. A rating isn't a mirror. It compresses the whole company's problems into one figure stapled to your badge. That is not your report card.",
+          "variations": [
+            "My score covers parking, pricing, and staffing. It covers everything except what I did.",
+            "The survey asks about the store. The deduction lands on me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-308",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.ettoday.net/news/tag/%E6%9C%8D%E5%8B%99%E6%A5%AD/",
+      "sourceNote": "2026 暑期來台旅客回升，第一線多了語言不通的點餐互動。svc-256 是客人主動收拾說辛苦了、svc-062 是一句謝謝，本則核心是「零共同語言的客人，反而把禮貌做得最完整」",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "溫暖",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "中午進來一對講我完全聽不懂的客人。\n我們靠著菜單上的照片、四根手指、\n和一個代表「不要辣」的搖頭，點完了餐。\n全程大概花了五分鐘。\n他們走的時候雙手合十，對我彎了一下腰。\n那天下午，另一位客人用我聽得懂的語言\n罵了我三分鐘。\n原來禮貌從來不是語言能力，\n是願不願意。",
+          "editorNote": "傳給正在被夏季旅客潮淹沒的第一線夥伴。語言不通不會拖慢你，只有不願意好好講話的人會；今天遇到那種比手畫腳還笑著道謝的客人，記得多存一點。",
+          "variations": [
+            "他一個字都聽不懂，卻把「謝謝」表達得最完整。",
+            "我們之間沒有共同語言，卻完成了今天最順利的一次點餐。"
+          ]
+        },
+        "en": {
+          "content": "Around noon a couple walked in speaking a language I don't have a word of.\nWe ordered using the photos on the menu, four fingers held up,\nand a head shake that meant no spice.\nThe whole thing took five minutes.\nOn the way out they pressed their palms together and gave me a small bow.\nThat same afternoon another customer, in a language I understand perfectly,\nyelled at me for three minutes.\nTurns out manners were never a language skill.\nThey're a decision.",
+          "editorNote": "For anyone buried in the summer tourist rush. A language barrier doesn't slow you down. Only people who won't bother do. When you get the ones who gesture and still smile their thanks, save that one.",
+          "variations": [
+            "He didn't understand a single word, and still got \"thank you\" across perfectly.",
+            "We had no language in common and still had the smoothest order of the day."
+          ]
+        }
+      }
     }
   ]
 }

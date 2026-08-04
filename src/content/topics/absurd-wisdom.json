@@ -10411,6 +10411,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-396",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://tw.trip.com/blog/valentines-days/",
+      "sourceNote": "2026 全年情人節日期整理（七夕 8/19）參考，內容原創改寫",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "感情",
+        "時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人認真統計過，一年總共有十四個情人節。\n\n這個數字的意思其實很單純：\n如果你有伴，你一年要過十四次。\n如果你沒有，你一年要被提醒十四次。\n\n所以節日本身沒有立場，\n它只是把你原本的狀態，\n用比較大的字印出來而已。",
+          "editorNote": "八月中七夕檔期的廣告開始鋪天蓋地、而你只是想安靜把這個月過完的時候",
+          "variations": [
+            "情人節會不會過，取決於你有沒有對象；情人節會不會來，跟這個完全沒有關係。",
+            "節日的數量是固定的，感受的濃度是你自己調的。"
+          ]
+        },
+        "en": {
+          "content": "Someone actually counted, and there are fourteen Valentine's Days in a year.\n\nThe math is straightforward:\nif you're seeing someone, you celebrate fourteen times.\nIf you're not, you get reminded fourteen times.\n\nThe holiday doesn't take a side.\nIt just prints your existing situation\nin a slightly larger font.",
+          "editorNote": "For mid-August, when the ads start rolling in and you only wanted to get through the month quietly",
+          "variations": [
+            "Whether you celebrate depends on whether you're with someone. Whether it arrives does not.",
+            "The number of holidays is fixed. The intensity is something you set yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-397",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.cwa.gov.tw/V8/C/C/Statistics/monthlydata.html",
+      "sourceNote": "中央氣象署八月氣溫統計與節氣日期參考，內容原創",
+      "tags": [
+        "廢話文學",
+        "天氣",
+        "季節",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "節氣表上寫著立秋，\n意思是秋天從今天開始。\n\n然後你走出門，三十六度。\n\n這中間其實沒有矛盾：\n節氣負責宣布，天氣負責發生，\n這兩件事從來不需要先對過稿。\n\n所以秋天確實已經來了，\n它只是還沒通知太陽。",
+          "editorNote": "八月初日曆上冒出「立秋」兩個字、但冷氣完全不敢關的那幾天",
+          "variations": [
+            "立秋是一個日期，不是一個溫度。",
+            "節氣說到了，體感說還沒。兩邊都是對的，只是負責的部門不同。"
+          ]
+        },
+        "en": {
+          "content": "The almanac says autumn starts today.\n\nThen you step outside into ninety-seven degrees.\n\nThere's no contradiction here.\nThe calendar announces, the weather happens,\nand the two have never had to agree beforehand.\n\nSo autumn really has arrived.\nIt just hasn't told the sun yet.",
+          "editorNote": "For the early-August days when the word autumn shows up on the calendar and the AC still can't be turned off",
+          "variations": [
+            "The start of autumn is a date, not a temperature.",
+            "The calendar says it's here and your skin says it isn't. Both are right; they just work in different departments."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-398",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.dcard.tw/f/travel",
+      "sourceNote": "暑假旺季訂房討論語感參考，內容原創",
+      "tags": [
+        "廢話文學",
+        "旅行",
+        "金錢",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "業者說，暑假房價比較貴，是因為需求比較高。\n\n需求為什麼高？因為大家都放假。\n大家為什麼都放假？因為現在是暑假。\n\n所以想同時避開人潮跟房價，\n方法只有一個：\n不要在放假的時候出去玩。\n\n這個方法非常有效，\n代價是你沒有假可以放。",
+          "editorNote": "訂房頁面顯示「僅剩一間」、價格是平日的兩倍、而你還是按下去的那三秒",
+          "variations": [
+            "淡季房價便宜，是因為那段時間你要上班。",
+            "所有人都想在同一段時間休息，這就是那段時間變貴的全部原因。"
+          ]
+        },
+        "en": {
+          "content": "Hotels will tell you summer rates are higher because demand is higher.\n\nWhy is demand higher? Everyone is on vacation.\nWhy is everyone on vacation? Because it's summer.\n\nSo there is exactly one way to dodge both the crowds and the prices:\ndon't travel when you have time off.\n\nIt works perfectly.\nThe cost is that you don't get a trip.",
+          "editorNote": "For the three seconds after the booking page says only one room left, at twice the usual rate, and you click anyway",
+          "variations": [
+            "The off-season is cheap because that's when you're at work.",
+            "Everyone wanting to rest at the same time is the entire reason that time costs more."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-399",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.dcard.tw/f/funny",
+      "sourceNote": "台灣「車一洗就下雨」俗說語感參考，內容原創",
+      "tags": [
+        "廢話文學",
+        "日常",
+        "天氣",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "長輩說，車一洗就會下雨。\n\n實際情況是這樣的：\n你今年洗了十次車，其中兩次隔天下雨。\n那兩次你到現在還記得，\n另外八次你完全沒有印象。\n\n所以洗車不會招雨，\n只是被記住的，永遠是剛洗完的那幾台。",
+          "editorNote": "剛把車開出洗車場、擋風玻璃就開始出現水痕的那五分鐘",
+          "variations": [
+            "會不會下雨取決於雲，你會不會生氣取決於你剛剛花了多少錢。",
+            "沒下雨的那幾次也是真的發生過，只是沒有人會特地拿出來講。"
+          ]
+        },
+        "en": {
+          "content": "People swear it always rains right after you wash the car.\n\nHere's what actually happened:\nyou washed it ten times this year, and twice it rained the next day.\nYou remember those two.\nThe other eight left no impression at all.\n\nWashing the car doesn't summon rain.\nClean cars are just the ones you notice it landing on.",
+          "editorNote": "For the five minutes between pulling out of the car wash and the first drops on the windshield",
+          "variations": [
+            "Whether it rains is up to the clouds. Whether you're annoyed is up to how much you just spent.",
+            "The times it didn't rain also happened. Nobody ever brings those up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-400",
+      "dateAdded": "2026-08-04",
+      "sourceUrl": "https://www.dcard.tw/f/relationship",
+      "sourceNote": "台灣八八父親節家庭對話語感參考，內容原創",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "台灣",
+        "人際"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問爸爸父親節想要什麼，他一律回答不用。\n\n這句「不用」的意思，通常不是真的不用，\n是他懶得想。\n\n所以你買了，他會念你亂花錢，\n然後用很久。\n你沒買，他什麼都不會說，\n然後也記很久。\n\n結論是：他的需求一直都在，\n只是從來不出現在他的回答裡。",
+          "editorNote": "八月八號前一週、家庭群組裡沒有人願意先開口說要訂位的時候",
+          "variations": [
+            "說不用的人，最後通常還是會用。",
+            "他要的其實不是禮物，是有人記得今天是幾號。"
+          ]
+        },
+        "en": {
+          "content": "Ask your dad what he wants for Father's Day and he'll say nothing.\n\nNothing, in this case, rarely means nothing.\nIt means he'd rather not think about it.\n\nSo if you buy something, he'll ask why you wasted the money,\nand then use it for years.\nIf you don't, he won't say a word,\nand will remember it for just as long.\n\nThe need was there the whole time.\nIt simply never shows up in the answer.",
+          "editorNote": "For the week before Father's Day, when nobody in the family group chat has volunteered to book a table",
+          "variations": [
+            "People who insist they don't need anything generally end up using it.",
+            "What he wants isn't the gift. It's someone remembering the date."
+          ]
+        }
+      }
     }
   ]
 }
