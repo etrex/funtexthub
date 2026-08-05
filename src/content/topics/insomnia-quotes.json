@@ -8138,6 +8138,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-282",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://shuteye.ai/blog/insomnia-meme",
+      "sourceNote": "Riff on the 'brain won't boot' meme family; rewritten as an online-game login queue, an angle not used elsewhere in this file (existing tech metaphors here are Wi-Fi signal and phone battery)",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人一躺下，就自動連上睡眠伺服器。\n我這台是：連線中……連線中……\n畫面跳出一行字：\n「目前排隊人數：0 人。」\n零個人排在我前面。\n那我到底在等什麼？",
+          "editorNote": "適合有在玩線上遊戲的人半夜發限動。笑點在「前面沒人卻還是進不去」，剛好對應那種明明什麼都準備好了卻睡不著的荒謬感。",
+          "variations": [
+            "我沒有失眠，我只是一直卡在登入畫面。",
+            "排隊人數 0 人，預估等待時間：一整晚。"
+          ]
+        },
+        "en": {
+          "content": "Everyone else lies down and connects to the sleep server automatically.\nMe: connecting... connecting...\nThen a line pops up on screen:\n\"Players in queue ahead of you: 0.\"\nZero people ahead of me.\nSo what exactly am I waiting for?",
+          "editorNote": "For the gamer friend who's still up at 2am. The joke lands because nothing is blocking you and you still can't get in, which is exactly what a sleepless night feels like.",
+          "variations": [
+            "I don't have insomnia. I'm just stuck on the login screen.",
+            "Queue position: 0. Estimated wait: all night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-283",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.pollread.com/2023/05/01/%E4%B8%8A%E7%8F%AD%E6%97%8F%E5%A3%93%E5%8A%9B%E8%88%87%E5%81%A5%E5%BA%B7%E5%95%8F%E9%A1%8C%E7%B6%B2%E8%B7%AF%E5%95%8F%E5%8D%B7%E8%AA%BF%E6%9F%A5/",
+      "sourceNote": "Survey framing on office-worker stress and insomnia, rewritten through the 2026 slang of 精神離職 (quiet quitting); distinct from iq-1424's dream-as-overtime item because the joke here is the day/night role swap",
+      "tags": [
+        "失眠",
+        "上班族",
+        "自嘲",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "白天上班，我整個人是精神離職狀態，\n會開到一半，靈魂已經先下班了。\n結果一躺上床，腦袋自己跑回公司，\n把我白天沒在聽的東西全部重播一次，還附上註解。\n同一顆腦袋，白天請假，晚上排夜班。",
+          "editorNote": "傳給那種上班放空、下班腦袋才開機的同事。重點是「白天請假、晚上排夜班」這個對比，社畜群組丟出去一定有人回「這就是我」。",
+          "variations": [
+            "我白天精神離職，我的腦袋晚上精神返聘。",
+            "白天靈魂缺席，凌晨全勤。"
+          ]
+        },
+        "en": {
+          "content": "At work I'm fully checked out.\nHalfway through the meeting my soul has already clocked off.\nThen I lie down and my brain drives itself back to the office,\nreplays everything I wasn't listening to, and adds commentary.\nSame brain. Calls in sick all day, picks up the night shift.",
+          "editorNote": "Send it to the coworker who's blank by day and wired by midnight. The day-off / night-shift flip is the punchline, and it reads well in a work group chat.",
+          "variations": [
+            "I quiet quit at 9am and my brain rehires itself at 1am.",
+            "My body clocked out at six. My brain works nights."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-284",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.memedroid.com/memes/tag/insomnia",
+      "sourceNote": "Common 'trying every sleeping position' meme, rewritten as an escalating list ending on the bed having no angle that belongs to you; separate from iq-6644 (perfect position ruined by bladder) and iq-7735 (holding still for a partner)",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "翻來覆去",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "仰躺、側躺、抱枕頭、夾棉被、右手放外面、左腳伸出去。\n正常的姿勢跑完一輪，我開始發明新的：\n半趴、四十五度、像被人從樓梯推下來那種。\n兩小時後，我得到一個結論——\n這張床上，沒有一個角度是屬於我的。",
+          "editorNote": "適合翻到自己都煩了的那種夜晚。用清單堆疊笑點，最後一句收得有點哀傷又很好笑，發限動或傳朋友都合適。",
+          "variations": [
+            "今晚我把人類所有睡姿都試過了，包括幾種還沒被命名的。",
+            "不是我找不到舒服的姿勢，是這張床根本沒有那個角度。"
+          ]
+        },
+        "en": {
+          "content": "On my back, on my side, hugging the pillow, one leg out, one arm out from under the blanket.\nOnce I run out of real positions, I start inventing them:\nhalf face-down, forty-five degrees, the one where I look like I fell down the stairs.\nTwo hours later, here's my conclusion:\nthere is no angle on this bed that belongs to me.",
+          "editorNote": "For the night you've flipped over so many times you've annoyed yourself. The list builds, and the last line lands somewhere between funny and bleak.",
+          "variations": [
+            "Tonight I tried every sleeping position humans have, plus a few nobody has named yet.",
+            "It's not that I can't find a comfortable angle. This bed doesn't have one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-285",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.mohw.gov.tw/cp-4628-55275-1.html",
+      "sourceNote": "Gentle reframing piece; the weather metaphor replaces the performance framing, deliberately different from iq-7554's exam-room image which is about sleep-environment perfectionism",
+      "tags": [
+        "失眠",
+        "療癒",
+        "自我接納",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今晚沒睡好，不代表你哪裡做錯了。\n它比較像下雨。\n下雨的時候，你不會問自己「我是不是不夠努力」，\n你只會拿件外套，然後照常把那一天過完。\n睡不著也是這種天氣，它會過去，\n你不需要在半夜替它寫一份報告。",
+          "editorNote": "傳給那種一睡不著就開始自責的人。重點是把「沒睡好」從「我的失敗」搬到「今晚的天氣」，不給方法，只把壓力拿掉。",
+          "variations": [
+            "沒睡好不是你的錯，那只是今晚的天氣。",
+            "天氣不需要檢討，撐傘就好。"
+          ]
+        },
+        "en": {
+          "content": "A bad night doesn't mean you did something wrong.\nIt's more like rain.\nWhen it rains, you don't ask yourself whether you tried hard enough.\nYou grab a jacket and get through the day anyway.\nTonight is that kind of weather. It passes.\nYou don't owe anyone a report on it at 3am.",
+          "editorNote": "For the friend who starts blaming themselves the moment sleep doesn't come. It moves a rough night out of the failure column and into the weather column, without handing over another technique.",
+          "variations": [
+            "A rough night isn't a failure. It's weather.",
+            "Nobody files a performance review on the rain."
+          ]
+        }
+      }
     }
   ]
 }

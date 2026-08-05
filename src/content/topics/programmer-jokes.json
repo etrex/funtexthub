@@ -11454,6 +11454,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-397",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.techtimes.com/articles/319890/20260708/npm-v12-ships-this-month-blocking-install-scripts-that-enabled-year-supply-chain-attacks.htm",
+      "sourceNote": "npm v12 blocks install scripts by default; teams immediately re-enable them to get builds working",
+      "tags": [
+        "套件",
+        "資安",
+        "工程師日常",
+        "黑色幽默",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "套件管理器改版了，預設把安裝腳本整個擋掉。\n公告寫得很有氣勢：十六年來最重要的一次安全強化。\n我完全認同，也真心支持。\n然後我 clone 專案、裝依賴、失敗。\n換一台電腦，還是失敗。全組七個人，七個都失敗。\n我們開了一小時的會，結論是加一個參數把那道防護關掉。\n那個參數的官方文件只有一句話：「除非你完全清楚後果，否則不要使用。」\n現在它是我們 README 的第一個步驟。",
+          "editorNote": "適合在團隊被迫「為了能動而關掉安全設定」的那天貼進群組，資安和工程都會笑得很痛。",
+          "variations": [
+            "短版：我們的資安等級，取決於那天有沒有人趕著上線。",
+            "延伸：新人問為什麼要加那個參數。我說這叫技術傳承，然後我們都沒有再說話。"
+          ]
+        },
+        "en": {
+          "content": "The package manager shipped a new major version that blocks install scripts by default.\nThe announcement was proud: the most important security hardening in sixteen years.\nI agreed with all of it. Genuinely.\nThen I cloned the repo, installed deps, and it failed.\nDifferent laptop, same failure. Seven people on the team, seven failures.\nWe held an hour-long meeting and decided to add a flag that turns the protection off.\nThe docs for that flag are one sentence: \"Do not use this unless you fully understand the consequences.\"\nIt is now step one of our README.",
+          "editorNote": "Drop this the day your team disables a security default just to get a build green. Security and platform folks will both wince.",
+          "variations": [
+            "Short version: our security posture depends on whether anyone is shipping that day.",
+            "Extension: A new hire asked why the flag is there. I said it's institutional knowledge, and then nobody said anything else."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-398",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "sourceNote": "Tooling churn — capabilities and formats change faster than anyone can build trust in them",
+      "tags": [
+        "工具",
+        "工程師日常",
+        "黑色幽默",
+        "維護",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我花了一整個下午，把專案的設定檔從舊格式搬到新格式。\n全部跑通的那一刻，我截圖貼到群組，還有人給我拍手。\n隔週，官方部落格發文：新格式將在下一個大版本淘汰，建議儘早遷移。\n我點開遷移指南，第一句話是：「本指南適用於仍在使用舊格式的使用者。」\n我盯著那句話看很久。\n上禮拜我就是從那裡出發的。\n我不是不想跟上，我是還沒到就被追過去了。",
+          "editorNote": "適合貼給每次升級都要重寫一次設定檔的同事，或當作「我們暫時不升級」的簡報第一頁。",
+          "variations": [
+            "短版：我學會這個工具的速度，跑不贏它改自己的速度。",
+            "延伸：後來我們的策略改成「等它穩定」。三年了，還沒等到。"
+          ]
+        },
+        "en": {
+          "content": "I spent an entire afternoon migrating our config from the old format to the new one.\nThe moment everything went green I screenshotted it into the team channel and got applause.\nThe next week, the official blog: the new format will be deprecated in the next major, please migrate early.\nI opened the migration guide. First sentence: \"This guide is for users still on the old format.\"\nI stared at that sentence for a while.\nThat is where I left from last week.\nIt's not that I refuse to keep up. It's that it lapped me before I arrived.",
+          "editorNote": "Send it to whoever rewrites the same config file every upgrade, or use it as slide one of a 'we're staying on the old version' pitch.",
+          "variations": [
+            "Short version: I cannot learn this tool faster than it changes itself.",
+            "Extension: Our new policy is to wait until it stabilizes. It's been three years."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-399",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.netguru.com/blog/software-development-industry-challenges",
+      "sourceNote": "Developer cognitive load — time spent across fragmented tooling and consoles exceeds time spent writing code",
+      "tags": [
+        "工具",
+        "工程師日常",
+        "資深工程師",
+        "新人",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問我：「資深工程師一天大概寫幾行程式？」\n我點開今天的 diff，算了一下：四行。\n他以為我在謙虛。\n我把螢幕轉過去給他看：兩個監控後台、一個排程系統、一個功能開關管理頁、一個雲端主控台、三個內部工具，還有一張沒人維護的架構圖。\n「這四行要能成立，」我說，「上面這些地方要同時同意。」\n他問：「那怎麼確定它們講的是真的？」\n我說：「不能確定。所以我今天只敢寫四行。」",
+          "editorNote": "適合回答「你們工程師怎麼一天做這麼少」這種問題，也適合在向上溝通時說明為什麼估時越來越保守。",
+          "variations": [
+            "短版：我寫程式的時間，輸給我確認別人有沒有騙我的時間。",
+            "延伸：新人隔天交了兩百行。第三天他開始學怎麼開那七個後台。"
+          ]
+        },
+        "en": {
+          "content": "A new hire asked me: \"How many lines does a senior engineer write in a day?\"\nI opened today's diff and counted. Four.\nHe thought I was being modest.\nI turned the screen around: two monitoring dashboards, a scheduler, a feature-flag console, a cloud console, three internal tools, and an architecture diagram nobody maintains.\n\"For those four lines to hold,\" I said, \"all of that has to agree at the same time.\"\nHe asked: \"How do you know any of them are telling the truth?\"\nI said: \"You don't. That's why I only wrote four lines.\"",
+          "editorNote": "A clean answer to 'why do engineers ship so little in a day,' and a decent opener when explaining why your estimates keep getting more conservative.",
+          "variations": [
+            "Short version: I spend less time writing code than verifying that nothing is lying to me.",
+            "Extension: The new hire shipped two hundred lines the next day. By day three he was learning to open all seven consoles."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-400",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://blog.gitguardian.com/shai-hulud-npm-pypi-supply-chain-attacks/",
+      "sourceNote": "Upstream compromise forces credential rotation; teams discover they don't know where their own secrets are used",
+      "tags": [
+        "資安",
+        "事故",
+        "維護",
+        "黑色幽默",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上游一個套件被動了手腳，公告出來那天，我們決定把所有金鑰換掉。\n換到第三十七把的時候卡住了。\n那把誰都不敢碰，因為沒有人知道它到底被誰在用。\n最後的做法是：先停掉，然後等著看什麼會壞。\n三分鐘後，客服系統倒了。\n我們終於知道它被誰在用了。\n事後檢討報告的用詞很客氣：「本次事件協助我們完成了一次資產盤點。」",
+          "editorNote": "適合在事故檢討會前傳給同組的人暖身，也適合貼在那份永遠沒寫完的系統盤點文件旁邊。",
+          "variations": [
+            "短版：我們最有效率的盤點方式，是把東西關掉然後聽誰在叫。",
+            "延伸：報告最後一頁是行動項目：「建立金鑰使用清單。」負責人欄位到現在還是空的。"
+          ]
+        },
+        "en": {
+          "content": "An upstream package got tampered with, and the day the advisory landed we decided to rotate every credential.\nWe got stuck on number thirty-seven.\nNobody would touch that one, because nobody knew what was still using it.\nSo we went with the only plan we had: kill it and see what breaks.\nThree minutes later, the support system went down.\nNow we knew what was using it.\nThe incident report put it politely: \"This event helped us complete an inventory of our assets.\"",
+          "editorNote": "Good warm-up before a postmortem, and a fitting caption for the systems inventory doc that never got finished.",
+          "variations": [
+            "Short version: our most effective audit method is turning things off and listening for screaming.",
+            "Extension: The last page lists an action item: \"Build a credential usage inventory.\" The owner field is still blank."
+          ]
+        }
+      }
     }
   ]
 }

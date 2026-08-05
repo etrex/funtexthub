@@ -8828,6 +8828,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-290",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.uac.edu.tw/",
+      "sourceNote": "115學年度大學分發入學登記志願系統於8/5開放、8/8截止，簡章明載登記時間早晚不影響分發結果；改寫為原創的第一天心情",
+      "tags": [
+        "志願",
+        "分發",
+        "焦慮",
+        "自嘲",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "系統上午九點開放，我八點五十就把頁面打開了。\n簡章白紙黑字寫著：登記時間的早晚，不影響分發結果。\n我知道，我甚至背得出來。\n但我還是第一時間按了送出——\n因為這一整年我唯一能控制的，從來都不是分數，\n是我願意多早一點，把心裡那塊石頭放下。",
+          "editorNote": "登記志願第一天的心情。明知道早送晚送結果都一樣，還是要搶第一個，因為那是這一年少數自己說了算的事。",
+          "variations": [
+            "短版：「早送晚送分數都一樣，但心裡那塊石頭的重量不一樣。」",
+            "另一種說法：「我不是怕來不及，我是怕再讓自己多想一個小時。」"
+          ]
+        },
+        "en": {
+          "content": "The system opened at nine. My browser was sitting on the page by 8:50.\nThe handbook says it in plain print: submitting early does not improve your odds.\nI know. I could recite the sentence.\nI hit submit anyway —\nbecause the one thing I could control this whole year was never the score.\nIt was how soon I got to put the rock down.",
+          "editorNote": "Day one of submitting your college preference list. Rushing changes nothing, and you do it anyway, because it is one of the few calls that is actually yours.",
+          "variations": [
+            "Short: \"Early or late, same result. Different weight on your chest.\"",
+            "Or: \"I wasn't afraid of missing the deadline. I was afraid of thinking about it one more hour.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-291",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://blog.104.com.tw/ast_exam_time/",
+      "sourceNote": "115分發登記期間（8/5-8/8）志願順序可於截止前反覆修改，與考卷交出即定案形成對比；情境為原創",
+      "tags": [
+        "志願",
+        "分發",
+        "選擇",
+        "自嘲",
+        "考後"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "考卷交出去就不能改，這條規矩我認了三年。\n這張志願表不一樣，截止之前你想改幾次都可以。\n我本來以為那是慈悲，後來發現那是一種很慢的刑罰：\n每一次「好，這樣就定案了」，都只能撐一個小時。\n最後我沒有排出最完美的順序，\n我只是改到自己願意停手為止。",
+          "editorNote": "適合送出之後又偷偷進系統改第五次的那個晚上。重點是那句「不是排到最好，是排到願意停手」。",
+          "variations": [
+            "短版：「可以改不代表會變好，只代表你要一直重新決定一次。」",
+            "另一種說法：「這是我人生第一次拿到還原鍵，然後被它折磨了三天。」"
+          ]
+        },
+        "en": {
+          "content": "Once you hand in an exam paper, it's sealed. Three years and I'd made my peace with that.\nThis form is different — you can reshuffle the order as many times as you want before the deadline.\nI thought that was mercy. It's closer to a slow punishment:\nevery \"okay, that's final\" stays final for about an hour.\nIn the end I didn't build the perfect list.\nI just kept editing until I was willing to stop.",
+          "editorNote": "For the night you go back into the system to reorder your list for the fifth time. The payoff line: you don't finish, you just stop.",
+          "variations": [
+            "Short: \"Being able to change it doesn't make it better. It just makes you decide again.\"",
+            "Or: \"First undo button life ever handed me, and it wrecked me for three days.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-292",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.tkbgo.com.tw/news/toNews?news_id=4418",
+      "sourceNote": "115年高普考7月初考畢、預定9月16日放榜，等待期長達兩個月；改寫為在職考生的原創情境",
+      "tags": [
+        "考試",
+        "等成績",
+        "焦慮",
+        "自嘲",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "考完那三天，我是拿特休請的假。\n星期一回辦公室，沒有人問我去了哪裡，我也沒有說。\n成績要等到九月中才會出來。\n這兩個月，我照常開會、照常回信、照常說「還好啊」。\n只有抽屜最下層那一疊翻爛的講義知道，\n我這半年下班之後，到底都去了哪裡。",
+          "editorNote": "寫給邊上班邊準備國考的人。等待期比學生長得多，而且身邊沒有一個人知道你在等。",
+          "variations": [
+            "短版：「別人放的是暑假，我放的是特休；別人等十幾天，我等兩個月。」",
+            "另一種說法：「沒有人知道我去考了，所以也沒有人需要替我緊張——這樣其實比較好。」"
+          ]
+        },
+        "en": {
+          "content": "I burned three vacation days on the exam.\nBack at my desk on Monday, nobody asked where I'd been, and I didn't bring it up.\nResults don't post until the middle of September.\nFor two months I'll take the same meetings, answer the same emails, say \"all good\" the same way.\nOnly the stack of dog-eared study books at the bottom of my drawer knows\nwhere I actually went every night for the past six months.",
+          "editorNote": "For working adults sitting civil service exams. The wait is far longer than a student's, and nobody around you even knows it's happening.",
+          "variations": [
+            "Short: \"Everyone else took a summer break. I took PTO — and I'm waiting two months, not two weeks.\"",
+            "Or: \"Nobody knows I sat it, so nobody has to be nervous for me. Honestly, that's easier.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-293",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://applealmond.com/posts/321267",
+      "sourceNote": "115分科成績8/3公布、8/17才放榜，成績公布後補習班隨即展開重考班招生；招生電話情境為原創改寫",
+      "tags": [
+        "補習班",
+        "重考生",
+        "考後",
+        "療癒",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "成績出來的第三天，第一通電話就進來了。\n「同學你好，我們秋天有開一個小班制的重考課程——」\n我還沒回答要不要，只是很想先問他：\n你們是怎麼知道我考幾分的？\n掛掉之後我坐在客廳，覺得有點好笑：\n榜單都還沒出來，就已經有人替我規劃好明年了。\n但那一年要不要開始，這次換我自己說了算。",
+          "editorNote": "成績公布後接到招生電話的微妙感。前半自嘲，最後一句是留給還在等放榜的人的一點底氣。",
+          "variations": [
+            "短版：「榜單還沒出，就有人先幫我把明年排好了。」",
+            "另一種說法：「我不排斥重來，我只是想自己決定什麼時候重來。」"
+          ]
+        },
+        "en": {
+          "content": "Three days after scores dropped, the first call came in.\n\"Hi there, we're opening a small-group retake class this fall—\"\nBefore I could say yes or no, I wanted to ask him one thing:\nhow do you know what I scored?\nI hung up, sat down in the living room, and found it almost funny:\nplacements aren't even out and somebody has already booked my next year.\nWhether that year happens is still mine to decide.",
+          "editorNote": "That strange first cram-school sales call after results day. Self-deprecating up front, with a line at the end for anyone still waiting on placements.",
+          "variations": [
+            "Short: \"Results aren't out yet and someone's already scheduled my next year.\"",
+            "Or: \"I'm not against starting over. I just want to be the one who picks when.\""
+          ]
+        }
+      }
     }
   ]
 }

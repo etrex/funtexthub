@@ -10973,6 +10973,133 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-361",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "",
+      "sourceNote": "Aries traits — loud temper that burns out fast, easy to soothe",
+      "tags": [
+        "牡羊座",
+        "Aries",
+        "E人",
+        "生氣",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牡羊座氣起來聲音很大，但其實超好哄。\n\n你什麼都不用解釋，遞一杯他愛喝的過去就好——\n他會邊喝邊繼續唸，只是音量已經小一半了。\n\n再喝兩口，他就開始講別的事了。",
+          "editorNote": "傳給那個一生氣就很兇、但十分鐘後自己就沒事的牡羊朋友",
+          "variations": [
+            "跟牡羊座和好不用準備道歉信，準備一杯冰的就好。",
+            "牡羊座的火不是被道理澆熄的，是被一個願意陪他罵完那三分鐘的人熄掉的。"
+          ]
+        },
+        "en": {
+          "content": "An Aries gets loud when they're mad — and folds embarrassingly fast.\n\nYou don't have to explain anything. Just hand them their favorite drink.\nThey'll keep complaining between sips, at half the volume.\n\nTwo sips later, they're already talking about something else.",
+          "editorNote": "For the Aries who yells for ten minutes and then acts like nothing happened",
+          "variations": [
+            "Making up with an Aries doesn't take an apology speech. It takes a cold drink.",
+            "An Aries doesn't cool off because you made a good point. They cool off because someone stood there and let them finish ranting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-362",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "",
+      "sourceNote": "Taurus traits — keeping backups of everything as a security ritual",
+      "tags": [
+        "金牛座",
+        "Taurus",
+        "I人",
+        "生活日常",
+        "習慣",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "金牛座家裡永遠多一包衛生紙、多一瓶洗髮精、多一包泡麵。\n\n他不是在囤東西，\n他只是無法接受「剛好用完」這件事發生在自己身上。\n\n只要櫃子裡還有備用的，今天就算過得不錯。",
+          "editorNote": "適合傳給那個買東西一定買兩份的金牛朋友，他大概只會回你「不然咧」",
+          "variations": [
+            "金牛座的安全感不在存摺裡，在櫃子最下層那袋還沒拆的備品。",
+            "問金牛座為什麼又買一組，他會說「以後一定用得到」——他是對的，只是那個以後可能在三年後。"
+          ]
+        },
+        "en": {
+          "content": "A Taurus always has one extra pack of tissues, one extra bottle of shampoo, one extra box of instant noodles.\n\nThey're not hoarding.\nThey just refuse to let \"we're out of it\" happen on their watch.\n\nAs long as there's a backup in the cabinet, today counts as a good day.",
+          "editorNote": "Send to the Taurus who buys everything in twos — they'll just reply 'obviously'",
+          "variations": [
+            "A Taurus keeps their sense of security on the bottom shelf, in the unopened backup nobody else knew about.",
+            "Ask a Taurus why they bought another one and they'll say 'we'll need it eventually.' They're right. Eventually might be three years out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-363",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "",
+      "sourceNote": "Capricorn traits — handling hard things alone and only reporting the ending",
+      "tags": [
+        "摩羯座",
+        "Capricorn",
+        "I人",
+        "獨立",
+        "關係",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "說摩羯座「報喜不報憂」其實太客氣了——\n他們常常連喜都懶得報。\n\n事情發生的時候你不會知道，\n他自己想辦法、自己收尾，\n等你聽說的時候已經是結局了。\n\n你問「怎麼不早點講」，\n他會說：「講了你也只是跟著擔心。」",
+          "editorNote": "傳給那個永遠等事情解決完才順口提一句的摩羯朋友，順便跟他說下次可以早點講",
+          "variations": [
+            "摩羯座不是不需要人幫，是他算過了——開口求助要花的時間，比他自己做完還久。",
+            "想關心摩羯座不要問「有沒有事」，要問「你現在在處理哪一件」，這樣他才答得出來。"
+          ]
+        },
+        "en": {
+          "content": "Saying a Capricorn \"only shares the good news\" is generous —\nhalf the time they don't share that either.\n\nYou won't hear about it while it's happening.\nThey handle it, they clean it up,\nand by the time you find out, it's already over.\n\nYou ask why they didn't say something sooner.\nThey say: \"Telling you would've just given you something to worry about.\"",
+          "editorNote": "For the Capricorn who mentions the crisis only after it's resolved — tell them next time is fine too",
+          "variations": [
+            "A Capricorn isn't refusing help. They did the math: explaining the problem takes longer than solving it.",
+            "Don't ask a Capricorn 'are you okay.' Ask 'which thing are you dealing with right now.' That one they can actually answer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-364",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "",
+      "sourceNote": "Libra traits — fairness instinct showing up when splitting a group bill",
+      "tags": [
+        "天秤座",
+        "Libra",
+        "E人",
+        "金錢觀",
+        "和平主義",
+        "星座個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一群人吃完飯，最後拿出手機算錢的一定是天秤座。\n\n他不是計較——\n他是真的沒辦法接受有人多付了三十塊卻沒人發現。\n\n算完他還會說：「不然這樣，飲料我請。」\n然後把自己剛剛算得太精準的那份，又默默補了回去。",
+          "editorNote": "丟進聚餐群組，那個每次負責分帳的天秤會馬上出來認領",
+          "variations": [
+            "天秤座可以自己吃虧，但不能忍受別人被虧到——這兩件事在他腦裡是完全不同的兩件事。",
+            "天秤座算得那麼細不是為了錢，是為了讓大家下次還願意一起吃飯。"
+          ]
+        },
+        "en": {
+          "content": "When the group dinner ends, the one pulling out their phone to do the math is a Libra.\n\nIt's not about the money —\nthey genuinely cannot sit with the idea that someone overpaid by a dollar and nobody noticed.\n\nThen, after all that math, they'll say: \"Actually, drinks are on me.\"\nQuietly undoing the split they just calculated so precisely.",
+          "editorNote": "Drop this in the group chat — the Libra who always handles the bill will claim it immediately",
+          "variations": [
+            "A Libra can absorb the loss themselves. What they can't handle is watching someone else get shortchanged. In their head those are two completely different things.",
+            "A Libra isn't splitting the bill down to the cent over money. They're doing it so everyone still wants to eat together next time."
+          ]
+        }
+      }
     }
   ]
 }

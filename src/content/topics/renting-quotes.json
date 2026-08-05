@@ -8370,6 +8370,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-287",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.moi.gov.tw/News_Content.aspx?n=4&s=331851",
+      "sourceNote": "2026 news about a major rental-management (包租代管) operator's financial trouble and tenants whose rent never reached the property owner; rewritten original",
+      "tags": [
+        "二房東",
+        "糾紛",
+        "租屋",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的房租是繳給一家公司的，公司再轉給屋主。\n上個月屋主突然傳訊息問我：「你這三個月怎麼都沒繳？」\n我把三張匯款截圖傳過去，他回：「那你的錢跑去哪了？」\n我也很想知道。\n新聞說那家公司正在清查，我們兩個就一起等清查。\n我第一次發現，房東跟房客原來可以站在同一邊，\n只是要先有第三個人，把中間那筆錢弄不見。",
+          "editorNote": "適合把租金繳給租賃住宅服務業者的人；先確認自己簽的是「包租」（你的對象是業者）還是「代管」（你的對象仍是屋主），這決定出事時該找誰。所有匯款紀錄與對話截圖留著，主動跟屋主建立直接聯繫並書面說明已繳，別讓自己變成雙方都不承認的那一段；業者有異常可向當地政府地政局或消保官申訴",
+          "variations": [
+            "我繳了三個月房租，屋主說他一毛都沒收到。",
+            "房東跟房客會變成隊友，只要中間有人把錢弄丟。"
+          ]
+        },
+        "en": {
+          "content": "I pay my rent to a management company, and the company forwards it to the owner.\nLast month the owner messaged me: \"Why haven't you paid in three months?\"\nI sent him three transfer screenshots. He wrote back, \"So where did your money go?\"\nGreat question.\nThe news says the company is under review, so now the two of us are waiting on the same review.\nThat's when I learned a landlord and a tenant can end up on the same side —\nit just takes a third party losing the money in between.",
+          "editorNote": "For anyone paying rent to a rental management company; first check whether your contract is with the company itself or with the owner, because that decides who you chase when things go wrong. Keep every transfer record and chat log, open a direct line to the owner, and put in writing that you already paid — don't become the gap neither side will claim",
+          "variations": [
+            "I paid three months of rent. The owner says he never saw a cent of it.",
+            "Landlord and tenant become teammates the moment someone in the middle loses the money."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-288",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202510150059/",
+      "sourceNote": "2026 rent subsidy rules: existing recipients keep the old eligibility only if they stay at the same rental address; rewritten original",
+      "tags": [
+        "補助",
+        "租屋補助",
+        "搬家",
+        "取捨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "續領租金補貼有一條但書：地址要跟去年同一個。\n所以我認真算了一次——\n搬去離公司近二十分鐘的那間，一年能換回多少個晚上，\n再扣掉可能領不到的那筆錢。\n算完，我留在原地。\n房東還是那個房東，牆角那塊壁癌還是那塊壁癌，\n只是現在多了一個聽起來很成熟的理由。\n補貼沒有綁住我，\n是我自己拿它，把自己綁得很牢。",
+          "editorNote": "適合在猶豫要不要搬家的補貼戶；舊戶同一地址續領可沿用原本認定，換了地址就得符合新規（要有房屋稅籍、用途登記住家用）。決定前先查清楚看中的新房子過不過得了關，別讓每月幾千塊，替你決定接下來三年住在哪裡",
+          "variations": [
+            "我沒有搬家，理由聽起來很像理財，其實是不敢。",
+            "領補貼的條件之一，是不要改變。"
+          ]
+        },
+        "en": {
+          "content": "There's a catch to renewing the rent subsidy: the address has to match last year's.\nSo I actually ran the numbers —\nhow many evenings I'd win back by moving twenty minutes closer to work,\nminus the money I might stop qualifying for.\nI stayed.\nSame landlord, same patch of mold in the corner,\njust with a reason that now sounds financially responsible.\nThe subsidy didn't tie me down.\nI picked it up and tied the knot myself.",
+          "editorNote": "For subsidy recipients weighing a move; renewing at the same address keeps your old eligibility, while a new address has to meet the current rules. Check whether the place you're eyeing actually qualifies before you decide — don't let a few thousand a month choose where you live for the next three years",
+          "variations": [
+            "I didn't move. It sounded like budgeting. It was fear.",
+            "One condition of keeping the subsidy is not changing anything."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-289",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://futurecity.cw.com.tw/article/2646",
+      "sourceNote": "2026 policy detail: landlords who cooperate with a tenant's subsidy application can register as 公益出租人 and receive income/house/land tax breaks; rewritten original",
+      "tags": [
+        "補助",
+        "房東",
+        "報稅",
+        "談判"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "住了三年，房東第一次主動打給我。\n他說：「你上次講的那個補貼，我可以配合簽。」\n我愣了兩秒，問他怎麼突然願意。\n他很誠實：「朋友算給我看，我配合的話，自己的稅也少一截。」\n不是良心發現，是他算完發現我們站同一邊。\n我從前一直以為，要房東照規矩來得靠拜託、靠不好意思、靠運氣，\n原來有時候只要規則設計得夠聰明，\n善意就會自己長出來。",
+          "editorNote": "適合正要開口跟房東談補貼的人；與其訴諸人情，不如直接講「你也划算」——配合房客申請並簽約的房東可登記為公益出租人，綜所稅、房屋稅、地價稅都有減免。談之前先把內政部的說明頁存好，用一張紙講清楚，比講三次拜託有效",
+          "variations": [
+            "他不是變好了，他只是算出我們同一邊。",
+            "最靠得住的善意，是雙方都划算的那一種。"
+          ]
+        },
+        "en": {
+          "content": "Three years in, my landlord called me first for once.\n\"That subsidy you mentioned — I'll sign whatever you need.\"\nI froze for a second and asked what changed.\nHe was honest about it: \"A friend did the math for me. If I cooperate, my own taxes drop too.\"\nNot a change of heart. He just ran the numbers and found we were on the same side.\nI used to think getting a landlord to play by the rules took pleading, awkwardness, and luck.\nTurns out that when a rule is designed well enough,\ngoodwill grows on its own.",
+          "editorNote": "For anyone about to raise the subsidy with their landlord; skip the appeal to kindness and lead with what he gets — landlords who sign and cooperate can register for meaningful tax relief. Bring the official page with the numbers on it. One printed sheet works better than three rounds of asking nicely",
+          "variations": [
+            "He didn't get nicer. He just found out we were on the same side.",
+            "The most reliable goodwill is the kind that pays both people."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-290",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.inn-taipei.com/rental-subsidy-qa/",
+      "sourceNote": "2026 requirement that the rented unit carry a house tax record with 住家用 registered use; tenants discovering their unit is registered as an office; rewritten original",
+      "tags": [
+        "租屋",
+        "建物登記",
+        "補助",
+        "荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "調了謄本才知道，我住的地方，主要用途登記是「事務所」。\n也就是說，這五年我每天下班，都回到一個法律上只能開會的地方。\n我在裡面煮飯、洗澡、發燒、哭過兩次、把窗簾換成自己喜歡的顏色。\n房子從頭到尾不知道自己被登記成什麼，\n知道的是一張紙。\n現在的規定要「住家用」才算數，\n我這才發現，一個地方能不能叫做家，\n還得先經過一份表格點頭。",
+          "editorNote": "適合簽約前或準備申請補貼的人；花幾十塊到地政事務所或線上調建物登記謄本，看「主要用途」那一欄是不是住家用。登記成事務所、辦公室或工業用的物件，不只補貼可能卡關，火險理賠與後續權益也可能不同。簽約前問一句，比住進去五年才知道省事太多",
+          "variations": [
+            "我住的地方，在紙上是一間辦公室。",
+            "我把它過成家過了五年，表格從頭到尾沒同意過。"
+          ]
+        },
+        "en": {
+          "content": "I pulled the property record and found out my place is registered as an office.\nWhich means that for five years I've been coming home every night to somewhere you're legally only supposed to hold meetings.\nI cooked in it. Showered in it. Ran a fever in it. Cried in it twice. Swapped the curtains for a color I actually liked.\nThe building never knew what it had been filed as.\nOnly a piece of paper knew.\nThe current rules only count a place registered for residential use,\nand that's when it hit me: whether somewhere gets to be called home\nstill has to clear a form first.",
+          "editorNote": "For anyone about to sign or apply for a subsidy; pay the small fee to pull the building registration and check the registered use. A unit filed as an office or industrial space can stall a subsidy, and your insurance and other protections may differ too. One question before signing beats finding out five years in",
+          "variations": [
+            "On paper, the place I live is an office.",
+            "I made a home out of it for five years. The paperwork never agreed."
+          ]
+        }
+      }
     }
   ]
 }

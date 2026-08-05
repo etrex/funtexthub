@@ -8961,6 +8961,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-309",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.ptt.cc/bbs/CVS/index.html",
+      "sourceNote": "PTT CVS 板長期討論「客人講電話不掛就來結帳」。svc-258 是客人講不清楚要什麼、svc-286 是被當成觀光服務台，本則核心是「他願意對電話出聲，卻只肯對我比手勢」",
+      "tags": [
+        "服務業",
+        "奧客",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他手機貼著耳朵走到櫃檯，\n對電話那頭說：「你等我一下。」\n然後轉過來，對我比了兩根手指，\n再指指我後面的看板，嘴型動了一下。\n我猜了三次都猜錯。\n他嘖了一聲：「你聽不懂喔？」\n先生，我聽得很清楚。\n那通電話您講了七分鐘，\n只有對我這一段，\n您捨不得出聲。",
+          "editorNote": "傳給每天在櫃檯猜手勢的人。這不是你反應慢，是對方根本沒打算把話說出來；下次可以微笑著說「不好意思我需要您說一次品項」，把責任放回它本來該在的地方。",
+          "variations": [
+            "他願意花七分鐘跟電話那頭講話，卻不肯花七秒對我說一句「大杯冰美式」。",
+            "我不是讀唇專家，我只是剛好站在您不想掛電話的那一頭。"
+          ]
+        },
+        "en": {
+          "content": "He walks up with the phone welded to his ear\nand tells whoever's on the line, \"Hang on a sec.\"\nThen he turns to me, holds up two fingers,\npoints at the board behind my head, and mouths something.\nI guess wrong three times.\nHe clicks his tongue. \"You can't understand me?\"\nSir, I hear you perfectly.\nYou've been on that call seven minutes.\nI'm the only part of your day\nnot worth saying out loud.",
+          "editorNote": "For everyone playing charades at a register. You're not slow. He simply never intended to use words on you. \"Sorry, I'll need you to say the item out loud\" puts that back where it belongs.",
+          "variations": [
+            "Seven minutes of talking to his phone, and not seven seconds to say \"large iced coffee\" to me.",
+            "I'm not a lip reader. I just happen to stand on the side of the call he won't hang up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-310",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.dcard.tw/f/job",
+      "sourceNote": "2026 Dcard 工作板討論交接班文化：上一班留下的狀態決定下一班的前一小時。svc-133 是同事一起苦中作樂、svc-146 是公司挺員工，本則核心是「我把爛攤子止在自己這一班」",
+      "tags": [
+        "服務業",
+        "互助",
+        "溫暖",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班前十五分鐘，\n我把咖啡機拆開洗乾淨，\n把冰櫃前排補滿，\n把發票紙換上一捲新的。\n不會有人知道是我做的，\n考核表上也沒有這一欄。\n但我還記得三年前那個早上，\n我接到的是一個什麼都沒有的櫃檯，\n和一個躲在後場哭的自己。\n我沒辦法讓這份工作變好，\n至少可以讓下一班的第一個小時好一點。",
+          "editorNote": "傳給那個默默把爛攤子止在自己這一班的人。這件事沒有獎金、沒有人記錄，但接班的人一定感覺得到；服務業真正撐住彼此的，從來不是公司政策，是這種不用開口的默契。",
+          "variations": [
+            "我沒辦法讓這份工作變好，但我可以讓下一班的第一個小時好過一點。",
+            "考核表上沒有「把機器洗乾淨留給下一個人」這一欄，可是接班的人都知道。"
+          ]
+        },
+        "en": {
+          "content": "Fifteen minutes before I clock out\nI break the espresso machine down and scrub it,\nface up the front row of the cooler,\ndrop in a fresh roll of receipt paper.\nNobody will know it was me.\nThere's no line for it on the review form.\nBut I still remember a morning three years back\nwhen I inherited a counter with nothing on it\nand a version of me crying in the stockroom.\nI can't make this job better.\nI can make the next person's first hour better.",
+          "editorNote": "For the one who quietly stops the mess at the end of their own shift. No bonus, no record of it, but whoever comes in next always feels it. What actually holds this industry together isn't policy. It's this.",
+          "variations": [
+            "I can't fix the job. I can fix somebody's first hour of it.",
+            "There's no box on the review form for leaving the machine clean. The next shift knows anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-311",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.ptt.cc/bbs/part-time/index.html",
+      "sourceNote": "賣場、量販與連鎖門市普遍配戴耳掛式對講機，員工被以編號呼叫。svc-018 是制服底下不只是一個工號、svc-160 是拿對講機反擊，本則核心是「下班後耳朵裡還在叫我的編號，而那不是我的名字」",
+      "tags": [
+        "服務業",
+        "零售",
+        "情緒勞動",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "耳掛式麥克風戴了八個小時，\n右耳一直有人在叫我的編號。\n「三號支援收銀。」\n「三號來一下後場。」\n「三號、三號、三號。」\n晚上躺在床上，房間安靜到會耳鳴，\n我還是聽見有人在叫三號。\n我有名字的。\n只是在這裡，\n沒有人需要用到它。",
+          "editorNote": "傳給整天掛著耳機被呼叫的人。下班後耳朵裡還在響不是你太敏感，是身體還沒關機；睡前把耳機放遠一點，讓房間安靜到你想得起自己的名字。",
+          "variations": [
+            "上班八小時被叫了兩百次編號，一次名字都沒有。",
+            "耳朵已經下班了，那個聲音還在裡面加班。"
+          ]
+        },
+        "en": {
+          "content": "Eight hours with the headset on\nand somebody is always in my right ear calling my number.\n\"Three to register.\"\n\"Three, come to the back.\"\n\"Three. Three. Three.\"\nAt night I'm lying in a room quiet enough to ring,\nand I still hear someone paging three.\nI have a name.\nIt's just that in here,\nnobody ever needs it.",
+          "editorNote": "For anyone worked all day through an earpiece. The ringing after you clock out isn't oversensitivity, it's a body that hasn't powered down. Leave the headset in another room and let it get quiet enough to remember your name.",
+          "variations": [
+            "Two hundred pages in eight hours, and not one of them was my name.",
+            "My ears clocked out. That voice is still in there working overtime."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-312",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.dcard.tw/f/salary",
+      "sourceNote": "2026 薪水板討論精品／甜點／咖啡門市員工買不起自家商品。svc-133 提到員工價只是順帶一提、svc-297 是客人以為起薪很好賺，本則核心是「打完員工折還是等於我站一個半小時」",
+      "tags": [
+        "服務業",
+        "零售",
+        "薪水",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我顧的這個櫃，\n最便宜的一個要三百二。\n每天擦玻璃、換標籤、\n跟客人講到什麼是尾韻，講到自己都餓了。\n下班前同事說：「員工八折欸，買一個？」\n我心裡算了一下——\n兩百五十六塊，\n剛好是我站在這裡一個半小時。\n我笑著說不用，\n回家煮了一包麵。",
+          "editorNote": "傳給每天賣著自己買不起的東西的人。那個價差不是你造成的，也不代表你不夠努力；你對這些商品的了解是真本事，只是這家店還沒學會用它該有的價錢買下來。",
+          "variations": [
+            "打完八折，還是要我站一個半小時。",
+            "我講得出它的每一層風味，唯獨講不出把它帶回家的理由。"
+          ]
+        },
+        "en": {
+          "content": "The case I work,\ncheapest thing in it is twenty-two dollars.\nAll day I wipe the glass, swap the labels,\ntalk people through the finish until I'm hungry myself.\nBefore close a coworker says, \"Staff discount's twenty percent, want one?\"\nI ran the numbers.\nSeventeen sixty.\nThat's more than an hour of standing right here.\nI smiled and said no thanks,\nwent home and boiled noodles.",
+          "editorNote": "For everyone selling what they can't afford. That gap isn't your fault and isn't a measure of your effort. What you know about this product is real expertise. The store just hasn't figured out how to pay for it.",
+          "variations": [
+            "Even after the staff discount, it still costs me an hour on my feet.",
+            "I can name every note in it. I can't name a reason to take one home."
+          ]
+        }
+      }
     }
   ]
 }

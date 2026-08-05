@@ -10561,6 +10561,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-401",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學同義反覆句法參考，原創扭蛋抽獎主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "扭蛋機轉出來的，一定是裡面本來就有的其中一顆。\n\n你想要的那隻沒轉到，\n是因為你轉到的是別隻。\n\n再轉一次，機率還是一樣，\n因為機率不會因為你很想要就變好。\n\n所以那些說「下一顆一定中」的人，\n講的是下一顆。",
+          "editorNote": "朋友在扭蛋機前面第五次投幣的時候傳給他，比勸他省錢有效",
+          "variations": [
+            "一直轉到重複的人，就是重複轉到同一款的那個人。",
+            "保底的意思是，在保底之前你都不會保底。"
+          ]
+        },
+        "en": {
+          "content": "Whatever comes out of the capsule machine was already inside the capsule machine.\n\nYou didn't get the one you wanted\nbecause you got a different one.\n\nTry again and the odds are exactly the same,\nsince odds do not improve based on how badly you want something.\n\nSo when someone says the next one is guaranteed,\nthey are talking about the next one.",
+          "editorNote": "For the friend feeding a fifth coin into the machine — lands better than telling them to save their money",
+          "variations": [
+            "Anyone who keeps pulling duplicates is a person who keeps pulling the same one.",
+            "A pity timer means you get nothing until the pity timer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-402",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://www.threads.com/@stevenchen568/post/DNt1dzQ5EVE/",
+      "sourceNote": "廢話文學數字重述句型參考，原創語音訊息主題",
+      "tags": [
+        "廢話文學",
+        "日常",
+        "科技",
+        "手機"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一段三十秒的語音訊息，需要花三十秒才聽得完。\n\n用一點五倍速聽可以縮短到二十秒，\n但那二十秒還是得聽。\n\n最省時間的做法是直接打字，\n不過會打字的人本來就不會傳語音。",
+          "editorNote": "群組裡有人一口氣傳七則語音的時候，貼這個比已讀不回禮貌",
+          "variations": [
+            "沒點開的語音不會自己聽完，聽完的語音也不會自己重來。",
+            "傳語音的人省下來的時間，都存到收語音的人那邊去了。"
+          ]
+        },
+        "en": {
+          "content": "A thirty-second voice message takes thirty seconds to hear.\n\nPlay it at 1.5x and it takes twenty,\nbut you still have to sit through those twenty.\n\nThe fastest option is typing it out,\nthough people who type were never going to send a voice note anyway.",
+          "editorNote": "For when someone drops seven voice notes in the group chat — more polite than leaving them on read",
+          "variations": [
+            "An unplayed voice note will not play itself, and a played one will not unplay itself.",
+            "The time the sender saved was simply moved over to the listener."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-403",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://vocus.cc/article/69a80ad2fd8978000169dbf2",
+      "sourceNote": "廢話文學條件重述句法參考，原創診所候診主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "等待",
+        "健康"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "診所的叫號規則其實很好懂：\n輪到你的時候就會叫你，還沒輪到就不會。\n\n螢幕顯示你前面還有五號，\n代表你是第六個。\n\n每看完一個人，數字就少一號，\n這件事目前只能靠時間解決。",
+          "editorNote": "在候診椅上滑手機滑到懷疑人生的時候，傳給也在等的家人",
+          "variations": [
+            "掛到最後一號的人，就是那天最晚看到醫生的那個人。",
+            "早到的人不會比較早輪到，只會比較早開始等。"
+          ]
+        },
+        "en": {
+          "content": "Clinic queues follow a very simple rule:\nyou get called when it's your turn, and not before.\n\nIf the screen says five people are ahead of you,\nyou are the sixth person.\n\nEvery patient who finishes drops the number by one,\nand the only known way to speed this up is waiting.",
+          "editorNote": "For the moment in the waiting room when you've scrolled your phone into an existential crisis",
+          "variations": [
+            "Whoever holds the last number of the day sees the doctor last that day.",
+            "Showing up early doesn't move your turn up. It just starts your waiting sooner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-404",
+      "dateAdded": "2026-08-05",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學二分法句型參考，原創二手拍賣主題",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "金錢",
+        "消費"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "二手拍賣的原理相當直接：\n賣掉的東西就不在你家了，\n沒賣掉的還在。\n\n而根據長期統計，\n你家現在的東西，全部屬於後者。\n\n拍好照、寫好說明、標好價錢，\n然後放到連你自己都忘記還在賣。",
+          "editorNote": "房間堆滿「總有一天要賣掉」的箱子時，傳給同樣在拖的室友",
+          "variations": [
+            "賣不掉的原因，通常是沒有人買。",
+            "你捨不得降價的東西，別人也剛好捨不得買。"
+          ]
+        },
+        "en": {
+          "content": "Reselling works in a very straightforward way:\nwhatever sells is no longer in your home,\nand whatever doesn't sell still is.\n\nAccording to long-term data,\neverything currently in your home falls into the second group.\n\nYou photograph it, describe it, price it,\nand then leave it up until you forget it was ever listed.",
+          "editorNote": "For when your room is full of boxes labeled \"selling this someday\" — send it to the roommate stalling just as hard",
+          "variations": [
+            "The reason an item doesn't sell is that nobody bought it.",
+            "The price you refuse to drop is the price nobody wants to pay."
+          ]
+        }
+      }
     }
   ]
 }
