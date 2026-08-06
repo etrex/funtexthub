@@ -2141,36 +2141,6 @@
       }
     },
     {
-      "id": "sec-073",
-      "dateAdded": "2026-06-15",
-      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
-      "sourceNote": "月用電 120 度以下不受影響 register；改寫原創",
-      "tags": [
-        "級距",
-        "120度",
-        "夏月電價",
-        "自嘲"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "台電貼心提醒：「月用電 120 度以下的人，夏月電價完全不受影響。」\n我打開帳單，第一個級距就已經被我跑完，120 度只是我這個月的開胃菜。\n那行字不是寫給我看的，是寫給一種傳說中、夏天不開冷氣還能活下來的物種。",
-          "editorNote": "傳給那個看到「120 度以下不受影響」先笑出來、再嘆氣的朋友",
-          "variations": [
-            "120 度以下不受影響——這句話對我來說，跟氣象預報說「外太空今天很涼」一樣實用。",
-            "台電的善意級距，每年都在提醒我：我不屬於那個被保護的族群。"
-          ]
-        },
-        "en": {
-          "content": "The power company kindly reminds us: 'If you use under 120 kWh a month, summer rates don't affect you at all.'\nI open my bill — I blew past the first tier already; 120 kWh was just this month's appetizer.\nThat line wasn't written for me. It was written for some legendary species that survives summer without ever turning on the AC.",
-          "editorNote": "For the friend who laughs at 'under 120 kWh unaffected,' then sighs",
-          "variations": [
-            "'Under 120 kWh, unaffected' is about as useful to me as a forecast saying outer space is cool today.",
-            "The gentle lower tier reminds me every year that I do not belong to the protected class."
-          ]
-        }
-      }
-    },
-    {
       "id": "sec-074",
       "dateAdded": "2026-06-16",
       "sourceUrl": "https://www.dcard.tw/f/talk/p/256070085",
@@ -2723,7 +2693,7 @@
       "sourceNote": "30 分鐘內關機再重啟更耗電 台電認證 register；改寫原創",
       "i18n": {
         "zh-tw": {
-          "content": "台電認證：「半小時內出門，冷氣別關，重開壓縮機那一下更耗電。」\n從此我家冷氣的開關，變成一道需要時間管理大師才能解的題：\n出門幾分鐘算「短暫」？我站在門口算數學，算到我都流汗了，乾脆不出門了。",
+          "content": "台電認證：「變頻冷氣一小時內出門，別關，重開壓縮機那一下更耗電。」\n從此我家冷氣的開關，變成一道需要時間管理大師才能解的題：\n出門幾分鐘算「短暫」？我站在門口算數學，算到我都流汗了，乾脆不出門了。",
           "editorNote": "傳給那個每次出門前都要先盤算「這趟到底要不要關冷氣」的選擇障礙朋友",
           "variations": [
             "省電最深的學問，不是冷氣設幾度，是判斷你這趟出門到底算不算「一下子」。",
@@ -2731,7 +2701,7 @@
           ]
         },
         "en": {
-          "content": "Officially confirmed: 'Stepping out for under half an hour? Don't kill the AC — restarting the compressor burns more power.'\nSo now my AC switch is a riddle only a time-management guru could solve:\nhow many minutes out counts as 'brief'? I stand at the door doing the math until I'm sweating, then just decide not to leave.",
+          "content": "Officially confirmed: 'Stepping out for under an hour? Don't kill your inverter AC — restarting the compressor burns more power.'\nSo now my AC switch is a riddle only a time-management guru could solve:\nhow many minutes out counts as 'brief'? I stand at the door doing the math until I'm sweating, then just decide not to leave.",
           "editorNote": "For the indecisive friend who runs the calculation every single time over whether to kill the AC before heading out",
           "variations": [
             "The deepest art of saving power isn't the temperature setting — it's judging whether this errand counts as 'a quick one.'",
@@ -6808,7 +6778,13 @@
       "dateAdded": "2026-08-04",
       "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
       "sourceNote": "2026 夏季電價說明：住宅用電共六個累進級距，120 度以下每度 1.78 元，1000 度以上每度 8.86 元，採分段累進計費",
-      "tags": ["累進電價", "級距", "迷思", "台電", "真相"],
+      "tags": [
+        "累進電價",
+        "級距",
+        "迷思",
+        "台電",
+        "真相"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「一旦超過那條線，整份電費就變成一度八塊多。」這句話我信了三年，每年七月都過得像通緝犯。\n後來才看懂：住宅電價有六個級距，是分段收的。前面那 120 度還是一度 1.78 元，貴的只有你多爬出來的那一段。\n所以我從來沒有被整份加價，我只是每往上一階，就被溫柔地多刮一層。\n知道真相之後我也沒有比較放鬆，只是換了一種算法繼續害怕。",
@@ -6833,7 +6809,13 @@
       "dateAdded": "2026-08-04",
       "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
       "sourceNote": "台電約每兩個月抄表一次，一期帳單的累進級距額度須乘以兩倍計算",
-      "tags": ["抄表", "級距", "帳單", "兩個月一期", "用電量"],
+      "tags": [
+        "抄表",
+        "級距",
+        "帳單",
+        "兩個月一期",
+        "用電量"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "台電大約兩個月抄一次表，所以帳單上的級距門檻，全部要乘以二。\n我第一次看懂的時候超開心：「哇，我的免死金牌變成兩倍。」\n然後我發現，被乘二的不只是額度，還有我開冷氣的天數。\n台電從來沒有虧待我。是我把加倍的空間，加倍地用完了。",
@@ -6858,7 +6840,13 @@
       "dateAdded": "2026-08-04",
       "sourceUrl": "https://www.taipower.com.tw/2289/2363/2388/2389/10735/normalPost",
       "sourceNote": "夏月電價期間為 6/1 至 9/30；帳單計費期間若跨越夏月與非夏月，台電依各自適用天數按比例分算",
-      "tags": ["夏月電價", "九月", "帳單", "台電", "希望"],
+      "tags": [
+        "夏月電價",
+        "九月",
+        "帳單",
+        "台電",
+        "希望"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "「夏月電價九月三十號結束」——我把這天圈在月曆上，像在等刑期屆滿。\n後來才知道，如果帳單期間剛好跨過那條線，台電會按各自的天數比例分開算。\n所以那不是一道門，是一個斜坡：九月最後那幾天，我的每一度電，是一點一點變便宜的。\n我人生第一次感謝「按比例」這三個字。原來解脫也可以分期到貨。",
@@ -6883,7 +6871,13 @@
       "dateAdded": "2026-08-04",
       "sourceUrl": "https://www.housefeel.com.tw/article/%E5%8F%B0%E9%9B%BB%E9%9B%BB%E8%B2%BB-%E5%A4%8F%E5%AD%A3%E9%9B%BB%E8%B2%BB-%E9%9B%BB%E8%B2%BB%E8%A8%88%E7%AE%97/",
       "sourceNote": "夏月電價期間社區公共用電（電梯、抽水馬達、公設照明與空調）成本上升，常反映在管理費",
-      "tags": ["管理費", "公共", "鄰居", "夏月電價", "厭世"],
+      "tags": [
+        "管理費",
+        "公共",
+        "鄰居",
+        "夏月電價",
+        "厭世"
+      ],
       "i18n": {
         "zh-tw": {
           "content": "管委會公告：「夏月電價期間，社區公電支出成長四成，請住戶共體時艱。」\n公電是什麼？是電梯、抽水馬達、地下室那盞永遠不關的燈，還有大廳那台冷氣。\n那台大廳冷氣，我一天經過它兩次，每次三秒。\n所以今年夏天我付了兩份電費：一份讓我家涼，一份讓一個我從來沒坐下來過的地方，涼得非常舒適。",
