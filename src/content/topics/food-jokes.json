@@ -8933,6 +8933,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-312",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://supertaste.tvbs.com.tw/food/360719",
+      "sourceNote": "2026 美食展報導提到中秋蛋黃酥八月已開跑，改寫成「早鳥價」的自嘲對話",
+      "tags": [
+        "中秋",
+        "甜點",
+        "超商",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "超商八月一號就立起了月餅預購海報。\n我：「中秋不是九月底嗎？」\n店員：「對，所以現在訂有早鳥價，一盒便宜一百。」\n我訂了兩盒蛋黃酥。到貨那天，離中秋還有三十四天。\n中秋當晚，我站在同一個櫃檯，用原價又買了一盒。\n店員：「你早鳥訂的那兩盒呢？」\n我：「牠飛走了。」",
+          "editorNote": "適合聊節慶預購、早鳥價、或提前買了卻提前吃完時的自嘲",
+          "variations": [
+            "加碼：早鳥價的真正意思是，你有兩個月的時間可以後悔。",
+            "冷凍庫版：我把第二盒藏在冷凍庫最深處，結果先挖到的是去年那盒。"
+          ]
+        },
+        "en": {
+          "content": "The corner store put up mooncake pre-order posters on August 1st.\nMe: \"Isn't that holiday almost two months away?\"\nClerk: \"Sure, but early birds save ten bucks a box.\"\nI pre-ordered two boxes. They arrived thirty-four days early.\nOn the actual holiday night, I was back at the same counter paying full price.\nClerk: \"What happened to your early bird boxes?\"\nMe: \"The bird flew away.\"",
+          "editorNote": "For holiday pre-orders, early-bird deals, and anything you bought early and finished earlier",
+          "variations": [
+            "Bonus: an early-bird discount is really just two extra months to regret it.",
+            "Freezer edition: I hid box two in the back of the freezer and dug up last year's instead."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-313",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "",
+      "sourceNote": "超市自助結帳「件數限制」的日常觀察，原創改寫",
+      "tags": [
+        "超商",
+        "日常",
+        "厭世",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "超市自助結帳台貼著「十件以下」。\n我手上十一件。\n想了三秒，我當場剝開一顆茶葉蛋吃掉。\n機器：「請將商品放入感應區。」\n我：「那件已經不在了。」\n後面的店員走過來，順手幫我全部刷完，說：「這個我們其實沒在算。」\n那顆蛋，是我自己嚇自己吃的。",
+          "editorNote": "適合聊自助結帳的壓迫感，或那種「規則沒人在執行，只有我當真」的瞬間",
+          "variations": [
+            "加碼：自助結帳最難的不是操作，是被機器當著全店的面點名。",
+            "續集：從此我每次都剛好帶十件，多的那件叫做尊嚴。"
+          ]
+        },
+        "en": {
+          "content": "The self-checkout sign said \"15 items or fewer.\"\nI had sixteen.\nI thought about it for three seconds, then peeled and ate one egg right there.\nMachine: \"Please place the item in the bagging area.\"\nMe: \"That item no longer exists.\"\nAn employee wandered over, scanned everything anyway, and said, \"Nobody actually counts.\"\nSo the egg was a purely self-inflicted panic.",
+          "editorNote": "For self-checkout anxiety, or any rule nobody enforces except on yourself",
+          "variations": [
+            "Bonus: the hard part isn't the screen, it's getting called out by a robot in front of the whole store.",
+            "Sequel: now I always carry exactly fifteen. The sixteenth one is called dignity."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-314",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "",
+      "sourceNote": "聚餐平分帳單的經典場景，原創改寫",
+      "tags": [
+        "聚餐",
+        "厭世",
+        "朋友",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "六個人吃飯，有人說：「算來算去太麻煩，直接平分吧。」\n提議的那位，當天點了鍋物、一份和牛，還有一杯八十塊的氣泡飲。\n我點的是白飯加免費湯。\n帳單出來，一人六百八。\n我終於明白 —「平分」這兩個字，從來不是從吃最少的那個人嘴裡說出來的。",
+          "editorNote": "適合聚餐分帳翻白眼的時刻，或朋友間互相虧誰最會點的場合",
+          "variations": [
+            "加碼：真正公平的分帳法只有一種，就是提議的人先報他點了什麼。",
+            "續集：下次我先開口說平分 — 然後點兩份和牛。"
+          ]
+        },
+        "en": {
+          "content": "Six of us at dinner. Someone said, \"Splitting item by item is a hassle, let's just divide it evenly.\"\nThat someone had ordered the wagyu, the hot pot, and a fancy sparkling thing.\nI had rice and the free soup.\nThe bill came out to twenty-two each.\nThat's when it clicked — \"let's split it evenly\" is never proposed by the person eating the least.",
+          "editorNote": "For the eye-roll moment when the check arrives, or roasting whoever orders biggest",
+          "variations": [
+            "Bonus: the only fair way to split a bill is to make the proposer read their order out loud first.",
+            "Sequel: next time I'm calling for an even split — right after I order two wagyu."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-315",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "",
+      "sourceNote": "電影院爆米花升級話術的日常觀察，原創改寫",
+      "tags": [
+        "厭世",
+        "日常",
+        "對話",
+        "朋友"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電影院櫃檯：「中份一百三，大份加二十就好。」\n我：「那當然大份。」\n片頭還沒跑完，桶子就見底了。\n朋友：「你剛剛不是說要省錢？」\n我：「我有啊，我省了二十塊。」\n朋友：「那你多吃的那些呢？」\n我：「那叫附加價值。」\n散場後，我對這部片唯一清楚的記憶，是第十八分鐘。",
+          "editorNote": "適合聊升級話術、加價陷阱，或看電影前半段就把零食吃完的人",
+          "variations": [
+            "加碼：「加二十就好」是全世界最貴的四個字。",
+            "續集：下次我買中份，然後在片頭結束前就後悔。"
+          ]
+        },
+        "en": {
+          "content": "Theater counter: \"Medium is six bucks, large is only one more.\"\nMe: \"Large, obviously.\"\nThe opening credits weren't over and the bucket was empty.\nFriend: \"Weren't you trying to save money?\"\nMe: \"I did. I saved a dollar.\"\nFriend: \"And the extra popcorn?\"\nMe: \"That's added value.\"\nThe only part of that movie I remember clearly is minute eighteen.",
+          "editorNote": "For upsell traps, or anyone who finishes their snacks before the first act ends",
+          "variations": [
+            "Bonus: \"only a dollar more\" is the most expensive sentence in retail.",
+            "Sequel: next time I get the medium, and regret it before the credits finish."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-316",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "",
+      "sourceNote": "長輩群組食物相剋謠言的經典場景，原創改寫",
+      "tags": [
+        "家庭",
+        "對話",
+        "媽媽",
+        "迷因"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "家族群組又轉了一則：「這兩樣千萬不能一起吃，會中毒！」\n我點開來看，是蝦子跟維他命 C。\n我：「媽，這個十年前就被闢謠了。」\n媽：「那你昨天那盤檸檬蝦呢？」\n我：「我不是還活著。」\n媽：「那是因為我沒讓你吃第二盤。」",
+          "editorNote": "適合聊長輩群組的養生謠言，或家人用「我早就在保護你」結尾的萬用招式",
+          "variations": [
+            "加碼：闢謠再多次都沒用，因為謠言那邊有配圖。",
+            "續集：我傳了三篇查證連結過去，媽回我一個貼圖：「你自己小心。」"
+          ]
+        },
+        "en": {
+          "content": "The family group chat forwarded another one: \"NEVER eat these two together — it's toxic!\"\nI opened it. Shrimp and vitamin C.\nMe: \"Mom, this was debunked like ten years ago.\"\nMom: \"Then what about that lemon shrimp you had last night?\"\nMe: \"I'm still alive, aren't I?\"\nMom: \"Only because I stopped you at one plate.\"",
+          "editorNote": "For family-chat health myths, or relatives who end every argument with \"I was protecting you\"",
+          "variations": [
+            "Bonus: fact-checks never win, because the myth came with a graphic.",
+            "Sequel: I sent three sources. Mom replied with a sticker that said \"take care of yourself.\""
+          ]
+        }
+      }
     }
   ]
 }

@@ -8490,6 +8490,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-291",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://www.inn-taipei.com/how-to-write-rental-agreement/",
+      "sourceNote": "Taiwan standard residential lease rules: tenants are entitled to a contract review period of at least three days before signing; rewritten original",
+      "tags": [
+        "合約",
+        "審閱期",
+        "房東",
+        "找房"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "租約傳過來的那天下午，房東在訊息裡打：「晚上七點來簽，我後面還有兩組在等。」\n我說我想先把條款看一遍，明天回覆他。\n他回了一個句號。\n後來我才知道，法律給我的時間是至少三天，不是四個小時。\n那三天不是拿來拖，是拿來把一份要住一年的東西讀完。\n最後我還是租了那間，\n只是簽名的時候，手沒有抖。",
+          "editorNote": "適合被催著當場簽約的人；租賃定型化契約明定房客有至少三日的契約審閱期，房東或代管業者不能要求你看完當下就簽。想爭取時間就直接在訊息裡說「依規定我需要三天審閱期」，把對話留著。真的怕被搶走的物件，可以先付定金，並要求白紙黑字寫明用途與退還條件",
+          "variations": [
+            "他說後面還有兩組在等，法律說我有三天。",
+            "我最後還是簽了，只是這次是我自己決定的。"
+          ]
+        },
+        "en": {
+          "content": "The afternoon the lease landed in my inbox, the landlord texted: \"Come sign at seven, I've got two other people waiting.\"\nI said I'd like to read it through and get back to him tomorrow.\nHe replied with a single period.\nI found out later that the law gives me at least three days, not four hours.\nThose three days aren't for stalling. They're for finishing a document you're about to live inside for a year.\nI took the place in the end.\nI just didn't sign with a shaky hand.",
+          "editorNote": "For anyone being rushed into signing on the spot; a standard residential lease comes with a mandatory review period of at least three days, and no landlord or property manager can demand you sign the moment you finish reading. Ask for it in writing so the message thread has a record. If you're genuinely worried about losing the unit, put down a holding deposit with the purpose and refund terms spelled out on paper",
+          "variations": [
+            "He said two other people were waiting. The law said I had three days.",
+            "I signed it anyway. The difference is that this time I chose to."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-292",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://epaper.land.gov.taipei/Item/Detail/常見之租賃糾紛與教戰守則-1/",
+      "sourceNote": "Taiwan's mandatory and prohibited clauses for residential leases — clauses forfeiting the deposit or waiving repair rights are void even if written in; rewritten original",
+      "tags": [
+        "合約",
+        "押金",
+        "租賃法",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的租約上有一行字：「押金於退租時不予退還。」\n房東說這是他們一直以來的規矩，白紙黑字寫了就算數。\n我查了很久才知道，這種條款屬於不得記載事項，寫進去也不生效。\n那一行字從頭到尾沒有任何力量，\n可是它嚇了我三個月。\n最貴的從來不是押金，\n是我以為自己沒有選擇的那段日子。",
+          "editorNote": "適合簽約前想逐條看懂合約的人；內政部公告的租賃契約有「應記載」與「不得記載」事項，像是拋棄押金、拋棄修繕請求權、限制房客申報租金支出或申請補貼、約定房東可任意進入，這些寫了都無效。簽約前把那份公告存成 PDF 放手機裡，看到怪條款當場比對，別自己先吞下去",
+          "variations": [
+            "那行字沒有任何效力，可是它嚇了我三個月。",
+            "合約寫得再兇，也大不過它上面那條法律。"
+          ]
+        },
+        "en": {
+          "content": "There's a line in my lease that reads: \"The deposit shall not be returned upon move-out.\"\nMy landlord said that's how they've always done it, and it's right there in black and white.\nIt took me a while to learn that a clause like that is one the law forbids, and writing it in doesn't make it real.\nThat sentence never had any power at all,\nand it still scared me for three months.\nThe expensive part was never the deposit.\nIt was the stretch of time I spent believing I had no choice.",
+          "editorNote": "For anyone reading a lease line by line before signing; the official standard lease sets out both required clauses and prohibited ones. Forfeiting your deposit outright, waiving your right to repairs, barring you from claiming rent on your taxes or applying for a subsidy, letting the landlord enter at will — all void, however boldly they're typed. Save the official list to your phone and check odd clauses against it on the spot",
+          "variations": [
+            "That line carried no legal weight, and it still scared me for three months.",
+            "A lease can sound as harsh as it likes. It still ranks below the law above it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-293",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://www.housefeel.com.tw/article/定金-押金-租金-退押金-租屋費用/",
+      "sourceNote": "Deposit deduction disputes and the legal line between normal wear-and-tear and tenant-caused damage at move-out; rewritten original",
+      "tags": [
+        "退租",
+        "押金",
+        "房東",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租那天，房東拿手電筒照牆，說要回復原狀。\n我承認那面牆上有三個釘孔。\n掛過一個鐘、一面鏡子，還有一張我很喜歡的海報。\n他說那是損壞，我說那是我住過的痕跡。\n法律的講法比較無聊，叫做正常使用下的自然耗損，不用賠。\n那天我沒有講贏他，我只是站在那裡想：\n住了兩年，我留在這面牆上的東西，最後只剩三個洞。",
+          "editorNote": "適合退租前一週開始準備的人；「回復原狀」是回到入住時的狀態，正常使用造成的自然耗損——牆面泛黃、輕微釘孔、家具磨損、燈管老化——依法不用賠，房東能扣的是額外損壞與欠繳費用。入住那天就把每個房間、每面牆各拍一輪存雲端，退租時用同角度再拍一次，兩組照片並排，比講十句都有用",
+          "variations": [
+            "他說那是損壞，我說那是我住過的痕跡。",
+            "住了兩年，我留在那面牆上的東西只剩三個洞。"
+          ]
+        },
+        "en": {
+          "content": "On move-out day my landlord ran a flashlight along the wall and said it had to go back to original condition.\nI'll admit there are three nail holes in it.\nA clock hung there. Then a mirror. Then a poster I was fond of.\nHe called it damage. I called it evidence that someone lived here.\nThe legal wording is duller — ordinary wear and tear from normal use, nothing you owe money for.\nI didn't win the argument that day. I just stood there thinking:\ntwo years, and what I left on this wall comes down to three holes.",
+          "editorNote": "For anyone a week out from moving out; \"original condition\" means the state you moved into, and ordinary wear from normal living — yellowed paint, small nail holes, worn furniture, dimming bulbs — isn't yours to pay for. A landlord can only deduct for real damage and unpaid bills. Photograph every room and every wall the day you move in, back it up, then reshoot the same angles at move-out. Two sets side by side beat any amount of arguing",
+          "variations": [
+            "He called it damage. I called it evidence that someone lived here.",
+            "Two years in that room, and what I left on the wall is three holes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-294",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://epaper.land.gov.taipei/Item/Detail/常見之租賃糾紛與教戰守則-1/",
+      "sourceNote": "Free township/district mediation committees as the standard route for rental deposit disputes; a successful mediation confirmed by the court has the force of a judgment; rewritten original",
+      "tags": [
+        "押金",
+        "調解",
+        "房東",
+        "成年"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了兩萬四，我走進區公所的調解委員會。\n桌上有紙杯裝的茶，是冷的。\n對面坐著我房東，他把外套掛在椅背上，像來開會。\n主席問我們要不要各退一步，我說我已經退到門外了。\n最後拿回一萬八。簽完字，兩個人一起等電梯，誰都沒說話。\n那天我學會的不是怎麼贏，\n是原來這種事，我可以不用自己吞下去。",
+          "editorNote": "適合押金要不回來、又不想直接進法院的人；鄉鎮市區公所的調解委員會不收費，任何人都能聲請，調解成立後送法院核定，效力等同判決。去之前把租約、匯款紀錄、入住與退租照片、對話截圖整理成一份時間序，聲請書上把金額與日期寫清楚，別到現場才開始回想",
+          "variations": [
+            "那天我學會的不是怎麼贏，是我可以不用自己吞。",
+            "簽完字一起等電梯，誰都沒說話。"
+          ]
+        },
+        "en": {
+          "content": "For the equivalent of two months' deposit, I walked into the district mediation office.\nThere was tea on the table in a paper cup. It was cold.\nMy landlord sat across from me with his jacket over the chair back, like he'd come for a meeting.\nThe chair asked if we could each give a little ground. I said I'd already backed out the door.\nI got three quarters of it back. After we signed, we waited for the same elevator and neither of us said a word.\nWhat I learned that day wasn't how to win.\nIt was that this kind of thing isn't something I have to just swallow.",
+          "editorNote": "For anyone stuck on a deposit who doesn't want to go straight to court; local mediation committees are free, open to anyone to file with, and a settlement confirmed by the court carries the same force as a judgment. Before you go, put the lease, transfer records, move-in and move-out photos, and message screenshots into one timeline, and state the exact amount and dates on the application. Don't start reconstructing it in the room",
+          "variations": [
+            "What I learned wasn't how to win. It was that I didn't have to swallow it.",
+            "We waited for the same elevator afterward and neither of us said a word."
+          ]
+        }
+      }
     }
   ]
 }

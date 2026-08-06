@@ -6979,6 +6979,166 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-230",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/Decoding_Stock/video/%E5%AD%98%E8%82%A1%E6%97%8F%E7%9A%84%E7%AC%AC2%E7%AD%86%E8%B2%A1%E5%AF%8C-%E8%82%A1%E7%A5%A8%E5%87%BA%E5%80%9F%E6%98%AF%E4%BB%80%E9%BA%BC--%E5%80%9F%E5%88%B8%E7%9C%89%E8%A7%92%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82-64991ecd3e0a1c2dc0d6f561",
+      "sourceNote": "2026 年券商大力推廣「閒置持股出借賺利息」的存股族第二筆收入概念；改寫為原創的自嘲，不涉及任何個股或操作建議",
+      "tags": [
+        "借券",
+        "出借",
+        "套牢",
+        "自嘲",
+        "厭世",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "券商推播說：您的閒置持股可以出借，讓資產自己去工作。\n我那檔套兩年的，本來就閒置到快長香菇，反正我也捨不得賣，出借賺點利息好像很划算。\n借出去的第三天，它開始一路往下。\n我後來才弄懂一件事：會想跟我借這檔的人，看到的東西跟我看到的不一樣。\n我收到的利息，一天不到一杯飲料。\n所以我不只是被套牢，我還很有禮貌地把武器遞給對方，順便說了聲謝謝惠顧。",
+          "editorNote": "適合把套牢股拿去出借賺利息、才發現借走的人比自己更懂這檔的時候",
+          "variations": [
+            "這不叫資產活化，這叫自備武器。",
+            "利息一天不到一杯飲料，代價是後面整段下坡。"
+          ]
+        },
+        "en": {
+          "content": "My broker pushed a notification: your idle shares can be lent out, let your assets work for you.\nThe one I'd been stuck in for two years was already idle enough to grow mushrooms, and I couldn't bring myself to sell it anyway, so earning a little interest sounded like a great deal.\nThree days after I lent it out, it started sliding.\nIt took me a while to work out that whoever wanted to borrow it was looking at something I wasn't.\nThe interest comes to less than a cup of coffee a day.\nSo I'm not just stuck. I politely handed someone the weapon, and thanked them for their business.",
+          "editorNote": "For when you lend out the position you're trapped in and realize the borrower reads it better than you do",
+          "variations": [
+            "This isn't putting my assets to work. This is supplying the ammunition.",
+            "Less than a cup of coffee a day in interest, in exchange for the entire way down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-231",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/Financialfreedom/-632d0ab94c2d8a225ca57214",
+      "sourceNote": "2026/08 定期定額存股與親子帳戶「教育基金」的普遍理財敘事；改寫為原創的親子自嘲，不提個股、不給建議",
+      "tags": [
+        "存股",
+        "教育基金",
+        "長期投資",
+        "親子",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我幫小孩開了一個帳戶，說是教育基金，順便讓他從小認識複利的力量。\n開戶那天他還不會走路，我很有信心地買在一個現在回頭看非常勇敢的價位。\n現在他會跑會跳，會問我一加一等於幾。\n帳戶那邊，數字還停在原地，連爬都還沒學會。\n我本來準備了一堂很勵志的課，要講時間、講耐心、講長期的力量。\n看來我得先教他另一課：大人也會做出很有把握、但完全不對的決定。",
+          "editorNote": "適合幫小孩開戶存股、結果小孩長得比帳戶快很多的時候",
+          "variations": [
+            "他已經學會跑步了，我的帳戶還沒學會站起來。",
+            "我本來要示範複利，結果先示範了套牢。"
+          ]
+        },
+        "en": {
+          "content": "I opened an account for my kid, called it an education fund, figured he'd learn about compounding early.\nThe day I opened it he couldn't walk yet, and I confidently bought in at a price that looks extremely brave in hindsight.\nNow he runs, he jumps, he asks me what one plus one is.\nOver in the account, the number hasn't moved. It hasn't even learned to crawl.\nI had a very inspiring lesson prepared, all about time and patience and the long view.\nLooks like I have to teach him a different one first: grown-ups make confident decisions that are completely wrong.",
+          "editorNote": "For when the kid you opened a long-term account for is growing much faster than the account",
+          "variations": [
+            "He learned to run. The account hasn't learned to stand up.",
+            "I meant to demonstrate compounding. I demonstrated being underwater instead."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-232",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://money.udn.com/money/story/5607/9667463",
+      "sourceNote": "2026/08 台股高檔震盪、投資人長時間盯盤的市場氛圍；原創的記憶體被成本價佔滿自嘲，無任何個股或價位資訊",
+      "tags": [
+        "看盤",
+        "成本價",
+        "焦慮",
+        "自嘲",
+        "厭世",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我記不住家人的生日，每年都要靠手機提醒。\n但我記得每一檔的成本價，到小數點第二位，不用想就講得出來。\n走在路上看到車牌那四個數字，我會先在心裡讀成代號，再想那檔今天收在哪。\n結帳看到三十七塊五，我會想到某一檔的成本。\n我的腦袋沒有變聰明，它只是被重新裝潢過，而且動工的人不是我。\n最可怕的是，這些數字裡面，沒有一個是我真正需要記得的。",
+          "editorNote": "適合腦內記憶體全被成本價佔滿、卻記不住重要日子的時候",
+          "variations": [
+            "我的腦容量有限，很不巧全拿去放成本價了。",
+            "連車牌都能自動讀成代號，這種天賦我真的不太想要。"
+          ]
+        },
+        "en": {
+          "content": "I can't remember my family's birthdays. My phone has to remind me every year.\nBut I know my cost basis on every position to two decimal places, instantly, without thinking.\nWhen I see a four-digit license plate on the street, I read it as a ticker first, then wonder where that one closed today.\nWhen a bill comes to 37.50, I think about what I paid for something.\nMy brain didn't get smarter. It got renovated, and I'm not the one who hired the contractor.\nThe worst part is that not one of those numbers is something I actually needed to remember.",
+          "editorNote": "For when your entire memory has been reallocated to cost basis and none of it to real life",
+          "variations": [
+            "Limited memory, and unfortunately all of it is allocated to cost basis.",
+            "Reading license plates as tickers is a talent I did not ask for."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-233",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://money.udn.com/money/story/5607/9667463",
+      "sourceNote": "2026/08 投資人重新檢視持股與自選股清單的市場氛圍；原創情境，不指涉任何真實個股或下市事件",
+      "tags": [
+        "自選股",
+        "下市",
+        "套牢",
+        "後悔",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我自選股清單最上面那一檔，已經不能交易了。\n它停在最後那天的樣子，價格永遠是那個數字，成交量永遠是零，連顏色都沒有。\n刪掉它只要按兩下，兩秒鐘的事，我做不到。\n每次滑過那裡我都會停一下，然後假裝是不小心看到的。\n我留著的其實不是那檔股票，是那個還很相信自己看得懂市場的我。\n它不會再有任何變化了，但我每天還是會經過它一次。",
+          "editorNote": "適合那檔早就沒了、卻一直捨不得從自選股刪掉的時候",
+          "variations": [
+            "刪掉只要兩秒，我已經拖了兩年。",
+            "它永遠不會再動了，我還是每天去看它一次。"
+          ]
+        },
+        "en": {
+          "content": "The one at the top of my watchlist can't be traded anymore.\nIt's frozen the way it looked on its last day: same price forever, volume always zero, no color at all.\nDeleting it takes two taps. Two seconds. I can't do it.\nEvery time I scroll past I pause, then pretend I saw it by accident.\nWhat I'm keeping isn't the stock. It's the version of me who still believed he could read this market.\nNothing about it will ever change again, and I still walk past it once a day.",
+          "editorNote": "For the dead ticker you never had the heart to remove from your watchlist",
+          "variations": [
+            "Two taps to delete. I've been putting it off for two years.",
+            "It will never move again, and I still visit it every day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-234",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://money.udn.com/money/story/5607/9667463",
+      "sourceNote": "2026/08 台股高檔劇烈震盪、投資人盯盤時間拉長的氛圍；原創的生活場合偷看盤自嘲，不含任何行情判斷",
+      "tags": [
+        "看盤",
+        "焦慮",
+        "人性",
+        "生活",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友結婚那天，司儀請大家把手機收起來，好好參與這個時刻。\n我把亮度調到最低，手機藏在西裝口袋裡，每隔幾分鐘摸一下。\n新人交換戒指的時候，我剛好看到那檔又跌了兩趴。\n回家路上，我想得起來的不是新娘進場，是那兩趴。\n我這一年不是沒有參與生活，我只是每一場都只出席了一半。\n另外那一半，留在一個根本不會發現我在的地方。",
+          "editorNote": "適合人在重要場合、心卻整場掛在盤面上的時候",
+          "variations": [
+            "我每一場都到了，而且每一場都只到一半。",
+            "他們交換戒指的那一刻，我看到的是負兩趴。"
+          ]
+        },
+        "en": {
+          "content": "At a friend's wedding, the MC asked everyone to put their phones away and actually be present.\nI turned my brightness all the way down, kept mine in my jacket pocket, and touched it every few minutes.\nWhile they exchanged rings, I happened to catch that one dropping another two percent.\nOn the way home, what I could remember wasn't the bride walking in. It was the two percent.\nIt's not that I skipped my life this year. I just showed up to every part of it at half attendance.\nThe other half stayed somewhere that has no idea I'm there.",
+          "editorNote": "For when you're physically at the important moment and mentally on the ticker",
+          "variations": [
+            "I showed up to everything this year, at fifty percent.",
+            "They exchanged rings. I saw minus two percent."
+          ]
+        }
+      }
     }
   ]
 }

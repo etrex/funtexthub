@@ -8093,6 +8093,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-293",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://petreturn.tw/pet-registered-death/",
+      "sourceNote": "台灣寵物死亡除戶流程說明（一個月內辦理、需晶片號碼與身分證、可臨櫃或線上），重寫為飼主卡在「死亡日期」欄位的第一人稱場景",
+      "tags": [
+        "告別",
+        "日常",
+        "撫慰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他們說毛孩走了要在一個月內辦除戶，帶著身分證跟晶片號碼就可以。手續其實很快，快到有點不真實。我卡住的是表格上那一欄——死亡日期。我停在那格上面很久，因為那天我從來沒有用文字寫下來過，只在心裡繞了幾百次。承辦人很客氣地等我，我把數字一個一個填完，蓋章，然後你就從系統裡被拿掉了。走出去我坐在車上發呆：那串晶片號碼我背得比自己手機號碼還熟，現在它不對應任何人了。可是我想跟你說，被註銷的只是一筆資料。你在我這裡登記得好好的，不用一個月，也沒有期限。",
+          "editorNote": "給剛送走毛孩、正在跑除戶手續的人；把行政流程的冷跟心裡的痛擺在一起，也順便提醒有這個規定要辦",
+          "variations": [
+            "那一欄叫「死亡日期」。填的時候我一直在想，怎麼會有一個格子，能把那一整天縮成幾個數字。",
+            "系統裡少了你一筆資料，我這裡多了一個永遠不會刪掉的檔案。"
+          ]
+        },
+        "en": {
+          "content": "They tell you that when your animal dies, you have a month to cancel the registration. Bring your ID and the microchip number. The paperwork is fast — fast enough to feel wrong. What stopped me was one field on the form: date of death. I sat with the pen over that box for a long time, because I had never actually written that day down, only circled it in my head a few hundred times. The clerk waited, kindly. I filled in the numbers, stamped it, and you were lifted out of the system. Afterward I sat in the car without starting it. I know that chip number better than my own phone number, and now it points to nobody. But listen: what got cancelled was a record. Here, you're still registered, and there's no deadline on it.",
+          "editorNote": "For someone doing the deregistration paperwork right after a loss; sets the coldness of admin against private grief, and quietly flags that the step exists",
+          "variations": [
+            "The field is labeled \"date of death.\" I kept thinking: how does one small box hold an entire day.",
+            "The system has one less record in it. I have one file I'm never deleting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-294",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://www.helpguide.org/mental-health/grief/coping-with-losing-a-pet",
+      "sourceNote": "喪寵輔導文章指出日常小習慣的斷裂最容易引發思念；重寫為下雨天在騎樓陪狗僵持十分鐘的具體畫面",
+      "tags": [
+        "思念",
+        "日常",
+        "散步"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前一下雨你就變成一顆石頭。牽繩拉到底也沒用，你就是不肯走出騎樓，我只好撐著一把幫不上忙的傘陪你站著，看雨從遮雨棚邊邊一直滴下來，站到腿都酸了，還要好聲好氣地跟你談判。那時候我真的覺得很煩：冷、鞋子濕、明天還要上班。今天下午又下這種雨，我從公司一路走回家，走得又快又直，中間一次都沒有停。走到門口我才發現，我已經很久沒有站在騎樓下等誰了。那十分鐘從來不是浪費，那是我一天裡唯一什麼都不用做的十分鐘，只是你陪我站著看雨。",
+          "editorNote": "給那種「以前嫌麻煩、現在全變成想念」的心情；下雨天特別有感，適合寫在紀念本或雨天的貼文裡",
+          "variations": [
+            "以前一直嫌你走太慢，後來才懂，那是我人生中最不趕時間的一段路。",
+            "下雨天我還是會在騎樓邊停一下。沒為什麼，就是習慣了旁邊有人不肯走。"
+          ]
+        },
+        "en": {
+          "content": "Rain used to turn you into a rock. I could lean on that leash all I wanted; you were not stepping out from under the awning. So I'd stand there holding an umbrella over nothing, watching the water run off the edge, negotiating with you in my nicest voice until my legs ached. I remember being annoyed — cold, wet shoes, work in the morning. It rained like that again this afternoon and I walked home fast and straight, no stops. At my door it hit me that I haven't stood under an awning waiting for anybody in a long time. Those ten minutes were never wasted. They were the only ten minutes of my day with nothing to do in them, standing with you, watching it rain.",
+          "editorNote": "For the ache of missing the exact things that used to annoy you; lands hardest on a rainy day, good for a journal entry or a quiet post",
+          "variations": [
+            "I used to complain that you walked too slow. That was the least hurried stretch of my whole life and I didn't know it.",
+            "I still pause under the awning when it rains. No reason. I'm just used to somebody refusing to move."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-295",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://vcahospitals.com/know-your-pet/grief-and-bereavement---loss-of-a-pet",
+      "sourceNote": "獸醫院喪寵衛教文提到整理寵物用品的時機因人而異、不需勉強；重寫為把家裡為毛孩加裝的防護設施一件件拆掉的場景",
+      "tags": [
+        "日常",
+        "遺物",
+        "思念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這禮拜我把圍欄收起來了。還有樓梯口那道門、壓在垃圾桶蓋上的那本書、貼在桌角的軟墊、綁在櫃門上的束帶——那些東西是十幾年來一樣一樣加上去的，因為你會撞、會偷吃、會把整個抽屜扒開。拆的時候我才發現，這個家有多少地方是為了你才長成現在這樣。現在客廳很空、很平、很安全，任何人第一次進來，都會以為這是一間從來沒有養過動物的房子。只有我知道不是。門邊那圈被磨掉的漆，我沒有補。",
+          "editorNote": "給正在把家「還原」的人；空間變回原狀的失落很少被說出來，也可以提醒自己刻意留一處不修的痕跡",
+          "variations": [
+            "把那些防護拆掉不代表結束。你可以留一樣不拆，留給以後的自己，證明你們真的一起住過。",
+            "這個家曾經為了你變過形。我不急著把它折回去。"
+          ]
+        },
+        "en": {
+          "content": "This week I put the gate away. Then the one at the top of the stairs, the book that lived on the trash can lid, the foam on the table corners, the zip tie holding the cabinet doors shut. Every one of those went up at some point over fourteen years, because you crashed into things, stole things, hauled whole drawers open. Taking them down, I saw how much of this house had been bent around you. Now the living room is open and flat and safe, and anyone walking in for the first time would assume no animal ever lived here. I know better. The scuffed paint by the door, I'm leaving.",
+          "editorNote": "For the stretch when you undo all the pet-proofing and the house forgets them; gentle permission to leave one mark unrepaired",
+          "variations": [
+            "Taking the gates down isn't the end of anything. Leave one thing up, for the version of you who'll need proof you lived together.",
+            "This house was bent around you for years. I'm in no hurry to bend it back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-296",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://whatsyourgrief.com/pet-grief-lets-talk-about-it/",
+      "sourceNote": "喪寵悲傷資源提到臨終畫面會隨時間慢慢被更早的健康記憶取代；重寫為第一人稱描述夢境與記憶的轉變",
+      "tags": [
+        "撫慰",
+        "釋懷",
+        "思念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有件事我一開始不敢講：最後那幾個月的你，走路會歪、瘦到一摸就是骨頭、身上有藥的味道，那個畫面在我腦子裡卡了好久。我最怕的是，我只記得那個你。可是這幾個禮拜，好像慢慢不一樣了。我夢到的、我閉上眼睛想到的，都是你四五歲的樣子——毛很亮，聽到零食袋子的聲音就從房間衝出來，煞不住車直接撞上我的腿。記憶好像自己會挑，會慢慢把你最好的樣子留下來。所以如果你現在滿腦子都是最後那幾天，請再等一等。那不是你記得的全部，那只是離現在最近的一段。",
+          "editorNote": "給被臨終畫面卡住的人；當對方反覆描述最後那幾天時，可以輕輕接上這一段，不否定他的痛，只是給一個時間軸",
+          "variations": [
+            "最後那幾天，只佔了你們相處的百分之一。剩下的百分之九十九，會慢慢回來找你。",
+            "你不會永遠只記得生病的牠。給時間一點時間。"
+          ]
+        },
+        "en": {
+          "content": "Here's something I was afraid to say out loud: for months, the version of you stuck in my head was the last one — the wobble in your back legs, ribs under my hand, the smell of medicine. What scared me most was that it might be the only you I got to keep. These last few weeks, something shifted. In dreams, and when I close my eyes, you're four again. Coat shining, tearing out of the bedroom at the sound of a treat bag, unable to brake, slamming into my shins. Memory seems to sort itself out, and it keeps the good version. So if the last days are all you can see right now, wait. That isn't everything you remember. It's just the part closest to today.",
+          "editorNote": "For someone trapped in the final images; say it when they keep replaying the last days — it validates the pain and offers a timeline instead of a fix",
+          "variations": [
+            "The last few days were one percent of your time together. The other ninety-nine is coming back to you.",
+            "You won't only remember the sick version of them. Give time some time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-297",
+      "dateAdded": "2026-08-06",
+      "sourceUrl": "https://bestfriends.org/pet-care-resources/grieving-loss-pet-resources-coping",
+      "sourceNote": "喪寵支持資源提到身體記憶（觸感、重量、聲音）是最持久的思念形式；濃縮為一句可直接用在紀念小卡上的短句",
+      "tags": [
+        "思念",
+        "身體記憶",
+        "撫慰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你走了這麼久，我的手還是知道你後頸那撮毛是什麼觸感。原來身體也偷偷幫我留了一份。",
+          "editorNote": "極短句，適合寫在紀念小卡、刻在項鍊背面，或當社群貼文的最後一句",
+          "variations": [
+            "有些東西不是記在腦子裡的，是記在手上的。",
+            "我閉上眼睛，手心裡還有你。"
+          ]
+        },
+        "en": {
+          "content": "You've been gone a long time, and my hand still knows exactly what the fur on the back of your neck felt like. Turns out my body kept a copy too.",
+          "editorNote": "A one-liner for a memorial card, the back of a keepsake, or the closing line of a post",
+          "variations": [
+            "Some things aren't stored in your head. They're stored in your hands.",
+            "I close my eyes and you're still there in my palm."
+          ]
+        }
+      }
     }
   ]
 }
