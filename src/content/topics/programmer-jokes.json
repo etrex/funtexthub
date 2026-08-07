@@ -11733,6 +11733,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-406",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.coderabbit.ai/blog/github-gives-maintainers-a-throttle-for-the-ai-pull-request",
+      "sourceNote": "2026: GitHub shipped per-contributor PR caps because solo maintainers were drowning in clean-looking, non-working AI pull requests",
+      "tags": [
+        "AI",
+        "code review",
+        "血淚",
+        "工程師日常",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我維護一個 CSV 解析套件，八年了，就我一個人。\n以前一個月三個 PR，我兩天內都會回。\n上個月四十七個。每一個都排版整齊、commit 訊息漂亮、還附測試。\n每一個都跑不動。\n我花了三個晚上，一個一個看完、寫回覆、關掉。\n第四十八個進來的時候，作者留言：「可以麻煩加快審核速度嗎？我在衝履歷。」\n我到設定裡找到那個新功能，把每人每週的 PR 上限設成一。\n八年來第一次覺得，這世界上真的有人在替我想。",
+          "editorNote": "適合貼給正在被 AI PR 洗版的開源維護者，也適合放進「我們要不要開放外部貢獻」那場內部討論的開頭。",
+          "variations": [
+            "短版：生產的成本掉到零，看的成本一毛都沒少，而要看的人是我。",
+            "延伸：後來我在 CONTRIBUTING 加了一行「請先在自己電腦跑過再送」。PR 數量掉了九成，能合的數量沒變。"
+          ]
+        },
+        "en": {
+          "content": "I maintain a CSV parsing library. Eight years, just me.\nIt used to be three pull requests a month. I'd answer all of them within two days.\nLast month I got forty-seven. Every one of them neatly formatted, beautiful commit messages, tests included.\nNone of them worked.\nI spent three evenings reading them one by one, writing replies, closing them.\nWhen number forty-eight came in, the author commented: \"Any chance you could review faster? I'm building my portfolio.\"\nI went into settings, found the new option, and capped it at one pull request per person per week.\nFirst time in eight years I felt like somebody out there was thinking of me.",
+          "editorNote": "For the open source maintainer currently buried in AI pull requests, and a decent opener for the internal debate about accepting outside contributions.",
+          "variations": [
+            "Short version: the cost of producing went to zero, the cost of reading didn't move, and I'm the one reading.",
+            "Extension: I added one line to CONTRIBUTING — \"run it on your own machine first.\" Volume dropped ninety percent. Mergeable count stayed the same."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-407",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.webpronews.com/githubs-actions-outage-exposes-growing-reliability-strain-on-developer-infrastructure/",
+      "sourceNote": "August 2026 CI platform outage; teams discovered how little of their pipeline they could still run locally",
+      "tags": [
+        "測試",
+        "工程師日常",
+        "新人",
+        "自嘲",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上十點，CI 平台整個掛掉。\n頻道從哀號變成安靜，因為沒有東西可以合了。\n主管說：「那大家先在自己電腦跑測試。」\n四十分鐘後，第一個人舉手：「我跑不起來。」\n第二個：「我也是。」\n全組十一個人，最後只有一個人跑得起來，是上禮拜才報到的新人。\n因為只有他是照著 README 裝的。\n中午 CI 修好了。那份 README 下午也被更新了，上一次更新是三年前。",
+          "editorNote": "適合在 CI 出事那天貼進團隊頻道降火氣，也可以當作「請有人維護一下 README」的溫柔提醒。",
+          "variations": [
+            "短版：CI 掛掉那天，我們才發現自己已經三年沒有本機了。",
+            "延伸：新人問要不要把他的安裝步驟寫進去。全組安靜三秒，然後有人說：拜託你。"
+          ]
+        },
+        "en": {
+          "content": "Ten in the morning, the CI platform went down completely.\nThe channel went from complaining to silent, because there was nothing left to merge.\nOur lead said: \"Fine, everyone run the tests locally.\"\nForty minutes later the first hand went up: \"I can't get it running.\"\nSecond person: \"Same.\"\nEleven people on the team. Exactly one could run it — the guy who started last week.\nBecause he was the only one who installed it by following the README.\nCI came back at noon. The README got updated that afternoon. Previous update: three years ago.",
+          "editorNote": "Post it in the team channel on an outage day to lower the temperature, or use it as a gentle case for somebody owning the README.",
+          "variations": [
+            "Short version: the day CI died, we found out we hadn't had a local setup in three years.",
+            "Extension: The new guy asked if he should write his install steps down. Three seconds of silence, then someone said: please."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-408",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://blog.cloudflare.com/tag/post-mortem/",
+      "sourceNote": "Recurring 2026 postmortem pattern: an automated config policy pushes one bad value everywhere in minutes",
+      "tags": [
+        "工具",
+        "production",
+        "黑色幽默",
+        "工程師思維",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們寫了一支工具，會自動檢查每個機房的設定檔有沒有寫錯，然後自動修好。\n上線第一天，它掃出八十幾個小問題，全部修掉，非常漂亮。\n第二天，它自己的規則檔被人改錯了一個字。\n它非常盡責地，把那個錯字同步到全部十九個機房。\n花了三分鐘。人工做這件事要兩個禮拜，而且做到第三個機房就會有人覺得不對勁。\n檢討會上有人問：「所以自動化到底有沒有價值？」\n主管說有。以前我們要兩個禮拜才能把一個錯字散播到全公司，現在只要三分鐘。",
+          "editorNote": "適合放進自動修復工具的上線檢討，也適合貼給正在寫「偵測到問題就自己修」功能、但還沒加人工確認的同事。",
+          "variations": [
+            "短版：自動化不會讓錯誤變少，只會讓錯誤跑得跟正確一樣快。",
+            "延伸：後來我們加了一個開關：規則檔要動，得有人按一下。那顆按鈕到今天按過兩次，兩次都攔下東西。"
+          ]
+        },
+        "en": {
+          "content": "We built a tool that checks every data center's config for mistakes and fixes them automatically.\nDay one, it found eighty-something small problems and cleaned them all up. Beautiful.\nDay two, someone fat-fingered one character in the tool's own rules file.\nIt very diligently propagated that typo to all nineteen data centers.\nTook three minutes. Doing that by hand takes two weeks, and somebody notices something's off by the third site.\nAt the review, someone asked: \"So does automation actually add value?\"\nOur lead said yes. It used to take us two weeks to spread one typo company-wide. Now it takes three minutes.",
+          "editorNote": "Bring it to the retro for any auto-remediation tool, or send it to whoever is building \"detect and self-heal\" without a human confirmation step.",
+          "variations": [
+            "Short version: automation doesn't reduce mistakes, it just lets them travel as fast as correctness does.",
+            "Extension: We added a switch — changes to the rules file need a human click. That button has been pressed twice. Both times it caught something."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-409",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://newsletter.pragmaticengineer.com/p/the-impact-of-ai-on-software-engineers-2026",
+      "sourceNote": "2026 data: feature branch throughput up sharply while median team main-branch throughput fell — the queue moved to review",
+      "tags": [
+        "code review",
+        "職場",
+        "工程師思維",
+        "黑色幽默",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "季報上，我們的分支產出成長了六成。\n主管很滿意，做了一張圖，綠色的線一路往右上。\n我把第二張圖放在旁邊：真正合進主幹的數量，比去年還少。\n會議室安靜了幾秒。\n有人問：「所以我們是變快還是變慢？」\n我說，我們生產得更快，交付得更慢。\n中間那段差額全部堆在待審清單裡，現在九十四個。\n最舊的那個等了五十一天，作者自己都不記得當初為什麼要改那裡了。",
+          "editorNote": "適合放在季度回顧簡報的第二頁，用來打斷「產出成長」的慶祝節奏；也適合傳給只看 PR 數量的主管。",
+          "variations": [
+            "短版：分支上很熱鬧，主幹上很安靜，這兩件事其實是同一件事。",
+            "延伸：後來我們把待審清單清到剩十個，那一季的產出數字反而掉了。但東西是真的有出去。"
+          ]
+        },
+        "en": {
+          "content": "The quarterly deck said our feature branch throughput was up sixty percent.\nOur lead was thrilled. Made a chart. Green line marching up and to the right.\nI put a second chart next to it: what actually landed on main was down from last year.\nThe room went quiet for a few seconds.\nSomeone asked: \"So are we faster or slower?\"\nI said we produce faster and we deliver slower.\nThe gap between those two numbers is sitting in the review queue. Ninety-four items.\nThe oldest one has been waiting fifty-one days. The author doesn't remember why he changed that file.",
+          "editorNote": "Slide two of the quarterly retro, right after the throughput celebration. Also worth forwarding to any manager who only tracks PR count.",
+          "variations": [
+            "Short version: the branches are loud and main is quiet, and those are the same fact.",
+            "Extension: We drained the queue down to ten. Our throughput number dropped that quarter. But the work actually shipped."
+          ]
+        }
+      }
     }
   ]
 }

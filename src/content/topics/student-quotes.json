@@ -4691,6 +4691,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-157",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.ptt.cc/bbs/NTU/M.1339598703.A.FE0.html",
+      "sourceNote": "internal only",
+      "tags": [
+        "實驗課",
+        "報告",
+        "自嘲",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "實驗數據跟課本理論差了快四成。\n我在報告最後寫了整整一頁「誤差來源」，室溫、儀器老舊、讀數視角、空氣阻力全都怪過一輪，就是沒寫那句真的：我第三步驟量錯了。",
+          "editorNote": "適合實驗課報告交出去那晚發，寫過誤差分析的理工科都會心虛地笑。",
+          "variations": [
+            "也能換成：「我這學期最有創意的寫作，全部集中在誤差分析那一段。」",
+            "進階版：「數據不會騙人，但我的誤差來源那一頁會。」"
+          ]
+        },
+        "en": {
+          "content": "My lab data came out almost forty percent off the textbook value.\nSo I wrote a full page of \"sources of error\" — room temperature, aging equipment, reading angle, air resistance — everything except the true one: I messed up step three.",
+          "editorNote": "For the night you submit a lab report. Any STEM student who's padded an error analysis will wince and laugh.",
+          "variations": [
+            "Swap in: \"My most creative writing this semester lives entirely in the error analysis section.\"",
+            "Harder mode: \"Data doesn't lie. My sources-of-error page absolutely does.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-158",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://pttnews.cc/53deb69c9a",
+      "sourceNote": "internal only",
+      "tags": [
+        "選課",
+        "拖延",
+        "成績",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "停修截止日那天，我把游標移到「確認停修」上面，又移開，來回七次。\n最後我關掉頁面說：「再撐一下，說不定會有奇蹟。」期末成績出來，奇蹟確實發生了——只是發生在別人身上。",
+          "editorNote": "適合停修截止日或成績公布那天發，猶豫過要不要停修的人一秒代入。",
+          "variations": [
+            "也能換成：「我對那門課唯一的努力，就是反覆考慮要不要停修。」",
+            "進階版：「停修那顆按鈕，是我整學期最認真研究的教材。」"
+          ]
+        },
+        "en": {
+          "content": "On the last day to drop, I hovered over \"confirm withdrawal\" and moved away seven times.\nThen I closed the tab and said, \"I'll tough it out, maybe a miracle happens.\" Finals came out and a miracle did happen — to somebody else.",
+          "editorNote": "For drop deadline day or the day grades post. Anyone who's agonized over withdrawing gets it instantly.",
+          "variations": [
+            "Swap in: \"The only effort I put into that class was repeatedly considering dropping it.\"",
+            "Harder mode: \"That withdrawal button was the course material I studied hardest all term.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-159",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.teepr.com/777627/jillhsiao/%E5%A4%A7%E5%AD%B8%E7%94%9F%E7%94%9F%E6%B4%BB/",
+      "sourceNote": "internal only",
+      "tags": [
+        "教授",
+        "成績",
+        "期末",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "教學評量開放那週，成績還沒公布。\n我在「這門課讓我收穫良多」勾了非常同意。三週後成績出來，我才想起來：那份問卷不是評量，是求情。",
+          "editorNote": "適合期末填評量或成績公布後發，寫過違心好評的學生都懂。",
+          "variations": [
+            "也能換成：「我填評量的誠實程度，跟成績公布日期成正比。」",
+            "進階版：「教學評量最公正的版本，永遠是我看到成績之後心裡默默寫的那一份。」"
+          ]
+        },
+        "en": {
+          "content": "Course evaluations opened the week before grades posted.\nI marked \"strongly agree\" on \"I gained a great deal from this course.\" Three weeks later my grade came out and it hit me: that form wasn't feedback, it was a plea bargain.",
+          "editorNote": "For evaluation week or grade release day. Anyone who's left a dishonestly kind review will recognize themselves.",
+          "variations": [
+            "Swap in: \"How honest my course evaluation is depends entirely on when grades drop.\"",
+            "Harder mode: \"My fairest course evaluation is the one I write in my head after seeing the grade.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-160",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.mook.com.tw/article.php?op=articleinfo&articleid=20019",
+      "sourceNote": "internal only",
+      "tags": [
+        "窮",
+        "自嘲",
+        "大學生",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "買半票的時候，我遞出學生證的手比交考卷還抖。\n店員看都沒看就過了，我卻鬆了一大口氣——因為這張卡，是我目前身上唯一還在生效的優勢。",
+          "editorNote": "適合買學生票、或聊到快畢業時發，靠學生身分省錢的人都懂。",
+          "variations": [
+            "也能換成：「我這輩子最保值的證件，四年後就要自動失效了。」",
+            "進階版：「別人靠實力打折，我靠一張還沒過期的學生證。」"
+          ]
+        },
+        "en": {
+          "content": "Handing over my student ID for the discount, my hand shook more than it does turning in an exam.\nThe cashier didn't even look and rang it up, and I exhaled hard — because that card is the only advantage I currently have that's still valid.",
+          "editorNote": "For buying a student-priced ticket, or any chat about graduating soon. Anyone living off the student discount gets it.",
+          "variations": [
+            "Swap in: \"The most valuable ID I'll ever own expires automatically in four years.\"",
+            "Harder mode: \"Some people earn their discount. I just have an ID that hasn't expired yet.\""
+          ]
+        }
+      }
     }
   ]
 }

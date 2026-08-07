@@ -9236,6 +9236,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-318",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.dcard.tw/f/job",
+      "sourceNote": "餐飲內場人員談下班後身上洗不掉的油煙味與被閃避的經驗。svc-255 寫的是站太久的身體代價、svc-064 是笑容當盾牌，本則核心是「氣味成為職業標記，被當成髒」",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "尊嚴",
+        "情緒勞動",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班的電梯裡，\n有人吸了吸鼻子，\n往旁邊挪了半步。\n我知道。\n我身上有八小時的炸油、\n四小時的洗碗精，\n還有一整晚別人的晚餐。\n這個味道我洗過三次，還在。\n可是它不是髒。\n它是今天有一百多個人\n因為我而吃得到熱的東西。",
+          "editorNote": "傳給下班後不太敢站進滿員電梯的內場同事。你身上的味道不是失禮，是勞動留下的收據；真要說難聞，該檢討的是抽風機，不是你。",
+          "variations": [
+            "我身上這個味道，是一百多個人今天有熱飯吃。",
+            "洗不掉沒關係，它不代表我髒，代表我今天有來。"
+          ]
+        },
+        "en": {
+          "content": "In the elevator after shift,\nsomeone sniffs,\nthen shifts half a step away.\nI know.\nI'm carrying eight hours of fryer oil,\nfour hours of dish soap,\nand a whole evening of other people's dinners.\nI've washed it out three times. It's still there.\nBut it isn't dirt.\nIt's a hundred and forty people\nwho got something hot to eat today because of me.",
+          "editorNote": "For the back-of-house crew who hesitate before stepping into a crowded elevator. That smell isn't rudeness, it's a receipt for labor. If anything needs fixing, it's the exhaust hood, not you.",
+          "variations": [
+            "This smell on me is a hundred and forty people who ate hot food today.",
+            "It won't wash out. Fine. It doesn't mean I'm dirty, it means I showed up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-319",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.ptt.cc/bbs/CVS/index.html",
+      "sourceNote": "門市失物招領討論：客人找不到自己寄放／遺落的物品後，直接暗示是員工拿走。svc-291 是被拍名牌威脅、svc-263 是找零爭執，本則核心是「清白被一句推測拿走」",
+      "tags": [
+        "服務業",
+        "尊嚴",
+        "奧客",
+        "客人",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我昨天有一把傘放在門口。」\n我陪他翻了失物箱、倉庫、後門走道，\n沒有。\n他站在原地看了我三秒，\n說：「那……應該是你們裡面的人拿走了吧。」\n先生，\n您的傘不見了，我真的很抱歉。\n但您剛剛弄丟的，\n是一整組今天什麼都沒做錯的人的清白。",
+          "editorNote": "傳給被客人用「應該是你們拿的」暗示過的人。東西找不到的懊惱是真的，但把它變成指控只需要一秒；你陪他翻遍全店的那十分鐘，本來就不需要向任何人證明。",
+          "variations": [
+            "傘我可以幫您找，那句話說出口之前的我，找不回來了。",
+            "東西掉了有人陪您找，清白掉了沒有。"
+          ]
+        },
+        "en": {
+          "content": "\"I left an umbrella by the door yesterday.\"\nI walked him through the lost-and-found bin, the stockroom, the back hallway.\nNothing.\nHe stood there and looked at me for three seconds.\n\"So... somebody who works here probably took it, right?\"\nSir,\nI'm genuinely sorry your umbrella is gone.\nBut what you just lost\nis the good name of every person here who did nothing wrong today.",
+          "editorNote": "For anyone who's had a customer float \"one of you must have taken it.\" Losing something is genuinely frustrating, but turning that into an accusation takes one second. Those ten minutes you spent searching with him never needed defending.",
+          "variations": [
+            "I can help you look for the umbrella. I can't get back who I was before you said that.",
+            "Lose an umbrella and someone helps you search. Lose your good name and nobody does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-320",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://blog.104.com.tw/how-to-serve-the-four-common-types-of-guests/",
+      "sourceNote": "連鎖門市開店前精神喊話／口號文化的討論。svc-023 是公司教微笑、svc-288 是下班後的教育訓練，本則核心是「士氣被當成音量問題，真正的付出發生在沒人看見的補貨夜」",
+      "tags": [
+        "服務業",
+        "厭世",
+        "公司",
+        "零售",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開店前十分鐘，\n我們站成一排，對著還沒拉開的鐵門喊：\n「熱情！微笑！全力以赴！」\n喊完，副店說再大聲一點，\n因為隔壁家聽起來比較有精神。\n我很想說——\n熱情不是喊出來的。\n是我昨天留到十一點半把架補完，\n沒有人在看，\n也沒有人叫我喊。",
+          "editorNote": "傳給每天被要求喊口號的門市同事。士氣長在班表和人力上，不長在嗓子裡；你已經做完的那些事，比任何一句口號都大聲。",
+          "variations": [
+            "口號可以再大聲一點，薪水也可以。",
+            "我的熱情不在喉嚨裡，在昨天十一點半的補貨紀錄裡。"
+          ]
+        },
+        "en": {
+          "content": "Ten minutes before open,\nwe line up and shout at a security gate that's still down:\n\"Passion! Smile! Give it everything!\"\nThen the assistant manager says do it louder,\nbecause the store next door sounds more into it.\nWhat I want to say is —\npassion isn't something you shout.\nIt's me staying till 11:30 last night to finish the restock,\nwith nobody watching,\nand nobody telling me to shout.",
+          "editorNote": "For everyone made to chant before open. Morale lives in the schedule and the staffing, not in your throat. What you already did last night is louder than any cheer.",
+          "variations": [
+            "Sure, we can go louder. The paycheck could go louder too.",
+            "My passion isn't in my throat. It's in last night's restock log."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-321",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.dcard.tw/f/mood",
+      "sourceNote": "服務業從業者下班後成為別家店客人時的體感討論。svc-256 是店員收到客人的體貼、本則反過來是「員工作為客人的那一眼互相辨認」，POV 相反不重複",
+      "tags": [
+        "服務業",
+        "溫暖",
+        "療癒",
+        "互助",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下班後我去買宵夜。\n店員手忙腳亂，找錯了錢，\n後面的人開始嘆氣。\n我說沒關係，你慢慢來。\n她抬頭看了我一眼——\n那個眼神我認得，\n因為一小時前我也是這樣看人的。\n我們誰都沒說破在做同一行，\n但那一秒她知道，我也知道。\n這份工作沒給我們什麼，\n只給了一組暗號：\n站在櫃檯的哪一邊都一樣，\n認得出誰快撐不住了。",
+          "editorNote": "傳給下班後還會把托盤收好、不催不嘆氣的你。薪水沒給多少，倒是給了一雙認得出同類的眼睛——你今天讓誰喘到一口氣，自己可能都不知道。",
+          "variations": [
+            "我們沒交談，但那一眼已經對過暗號了。",
+            "這行最值錢的東西，是下班後你還認得出誰在硬撐。"
+          ]
+        },
+        "en": {
+          "content": "After my shift I went out for a late-night snack.\nThe clerk was scrambling, handed me the wrong change,\nand the guy behind me started sighing.\nI told her it's okay, take your time.\nShe looked up at me —\nand I knew that look,\nbecause I'd been the one giving it an hour earlier.\nNeither of us admitted we work the same kind of job,\nbut for one second she knew, and I knew.\nThis work doesn't give us much.\nIt gives us a signal:\nfrom either side of the counter,\nwe can spot the person barely holding on.",
+          "editorNote": "For everyone who still buses their own tray and waits without sighing after clocking out. The pay is nothing special, but the job hands you an eye for your own kind. You may never know whose shift you saved today.",
+          "variations": [
+            "We never spoke. We'd already traded the signal.",
+            "The best thing this job pays out is being able to spot who's barely holding on."
+          ]
+        }
+      }
     }
   ]
 }

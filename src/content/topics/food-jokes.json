@@ -9083,6 +9083,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-317",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "",
+      "sourceNote": "長輩食譜沒有計量單位的日常，原創改寫",
+      "tags": [
+        "家庭",
+        "對話",
+        "阿嬤",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "跟阿嬤學煮麻油雞，我特地開錄音。\n我：「麻油要放多少？」\n阿嬤：「適量。」\n我：「薑呢？」\n阿嬤：「差不多就好。」\n我：「那要煮多久？」\n阿嬤：「香了就好。」\n我回家照著做，煮出一鍋薑湯。\n打電話回去，阿嬤說：「你就是量太準了。」",
+          "editorNote": "適合貼家常菜失敗照，或吐槽長輩食譜從來沒有數字這件事",
+          "variations": [
+            "加碼：長輩食譜的計量單位只有三種 — 適量、少許、你看著辦。",
+            "續集：我改用電子秤，阿嬤看一眼說：「這樣煮出來會有秤的味道。」"
+          ]
+        },
+        "en": {
+          "content": "Learning sesame chicken from Grandma, I hit record.\nMe: \"How much sesame oil?\"\nGrandma: \"Enough.\"\nMe: \"And the ginger?\"\nGrandma: \"About that much.\"\nMe: \"How long do I cook it?\"\nGrandma: \"Until it smells right.\"\nI went home, followed the recipe exactly, and produced a pot of ginger soup.\nI called her. She said, \"Your problem is you measured.\"",
+          "editorNote": "For failed home-cooking photos, or family recipes that contain no actual numbers",
+          "variations": [
+            "Bonus: Grandma's units of measurement are enough, a little, and you'll know.",
+            "Sequel: I bought a kitchen scale. She said the food would end up tasting like the scale."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-318",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "",
+      "sourceNote": "炒飯要用隔夜飯的常識 vs 半夜的自己，原創改寫",
+      "tags": [
+        "日常",
+        "厭世",
+        "迷因",
+        "宵夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "想吃炒飯，查了才知道要用隔夜飯。\n我特地煮一鍋，冰起來等明天。\n凌晨兩點，我把它挖出來配醬瓜吃完了。\n早上開冰箱，只剩一個空鍋。\n我對著鍋子說：「這個人到底是誰。」\n然後又煮了一鍋。\n目前進度：第三鍋飯，零盤炒飯。",
+          "editorNote": "適合宵夜自首文，或所有計畫都輸給半夜自己的人",
+          "variations": [
+            "加碼：隔夜飯的難關不是那一夜，是你要跟自己同住一間房。",
+            "續集：我把飯藏進冷凍庫，現在改成半夜啃冰磚。"
+          ]
+        },
+        "en": {
+          "content": "I wanted fried rice. Turns out you need day-old rice.\nSo I cooked a pot and put it in the fridge for tomorrow.\nAt 2 a.m. I dug it out and ate it with pickles.\nNext morning: empty pot.\nI said out loud, \"Who is this person?\"\nThen I cooked another pot.\nCurrent status: batch three, zero plates of fried rice.",
+          "editorNote": "For midnight-snack confessions, or anyone whose plans keep losing to their 2 a.m. self",
+          "variations": [
+            "Bonus: the hard part of day-old rice isn't the day. It's sharing an apartment with yourself.",
+            "Sequel: I hid it in the freezer. Now I gnaw a rice brick at 2 a.m."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-319",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "",
+      "sourceNote": "外送附贈醬料包囤積成災的廚房抽屜，原創改寫",
+      "tags": [
+        "外送",
+        "日常",
+        "厭世",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "整理廚房抽屜，挖出四十包番茄醬、二十包胡椒鹽，還有一把免洗筷。\n室友：「這些要留嗎？」\n我：「留啊，總有一天會用到。」\n室友：「你上一次用是什麼時候？」\n我：「……我不確定它們有沒有被用過的機會。」\n室友把抽屜關上：「那就繼續存吧。」\n我：「你剛剛不是要丟？」\n室友：「我看到裡面有一包是我 2021 年放的。我也捨不得。」",
+          "editorNote": "適合大掃除自嘲，或家裡有「醬料包抽屜」的人互相認親",
+          "variations": [
+            "加碼：那個抽屜不是收納，是外送人生的地層。",
+            "續集：我終於用掉一包番茄醬，抽屜看起來完全沒變。"
+          ]
+        },
+        "en": {
+          "content": "Cleaning out the kitchen drawer, I unearthed forty ketchup packets, twenty pepper packets, and a fistful of disposable chopsticks.\nRoommate: \"Are we keeping these?\"\nMe: \"Sure. We'll use them someday.\"\nRoommate: \"When did you last use one?\"\nMe: \"...I'm not sure they've ever had the chance.\"\nHe shut the drawer. \"Keep them, then.\"\nMe: \"Weren't you about to throw them out?\"\nRoommate: \"I just spotted one I put in there in 2021. I can't do it either.\"",
+          "editorNote": "For spring-cleaning self-roasts, or anyone who recognizes their own condiment drawer",
+          "variations": [
+            "Bonus: that drawer isn't storage. It's the sediment layer of a takeout life.",
+            "Sequel: I finally used one ketchup packet. The drawer looks exactly the same."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-320",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "",
+      "sourceNote": "家庭家事分工「煮飯的人不洗碗」條約，原創改寫",
+      "tags": [
+        "家庭",
+        "對話",
+        "媽媽",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們家的規矩是：煮飯的人不用洗碗。\n從小都是我媽煮、我洗。\n後來我學會做菜，第一次下廚就很得意地宣布：「今天我煮，你們洗。」\n我媽點頭，笑得超開心。\n我煮完一轉身 — 兩個鍋、三個盆、一支打蛋器，還有一個我到現在都想不起來為什麼會用到的烤盤。\n我：「媽，我以前洗的都是這些？」\n媽：「對啊。」\n我：「那你怎麼都不說？」\n媽：「規矩是我訂的，我為什麼要說。」",
+          "editorNote": "適合家事分工的家庭日常，或第一次下廚才發現媽媽多會製造戰場",
+          "variations": [
+            "加碼：一個家裡最強的談判高手，永遠是訂規矩的那個人。",
+            "續集：我提議改成「誰煮誰洗」，我媽當場宣布退休。"
+          ]
+        },
+        "en": {
+          "content": "House rule: whoever cooks doesn't wash up.\nGrowing up, Mom cooked and I washed.\nThen I learned to cook, and my first night at the stove I announced, \"I'm cooking. You're all on dishes.\"\nMom nodded. She looked delighted.\nI finished and turned around — two pots, three bowls, a whisk, and a sheet pan I still cannot account for.\nMe: \"Mom, is this what I've been washing my entire life?\"\nMom: \"Yep.\"\nMe: \"Why did you never say anything?\"\nMom: \"I wrote the rule. Why would I?\"",
+          "editorNote": "For chore-split family moments, or the day you learn how much mess your mom was generating",
+          "variations": [
+            "Bonus: the strongest negotiator in any household is whoever wrote the rules.",
+            "Sequel: I proposed switching to 'you cook, you clean.' Mom retired on the spot."
+          ]
+        }
+      }
     }
   ]
 }

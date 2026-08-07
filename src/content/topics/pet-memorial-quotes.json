@@ -8238,6 +8238,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-298",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "獸醫協會喪寵資源提到飼主常對「自己不在場的最後時刻」反覆自責；改寫為回醫院調閱病歷影本、在備註欄看到護理紀錄的具體場景",
+      "tags": [
+        "自責",
+        "撫慰",
+        "釋懷"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我回醫院申請你的病歷影本。櫃台問我要做什麼用，我答不出來——我只是想知道最後那三天，我不在的那十幾個小時，你到底過得怎麼樣。他們印了厚厚一疊給我，數字我看不太懂，血檢那幾頁滿滿都是箭頭。我一路翻到最後一張，備註欄上有人用原子筆寫了一行小字：「個性親人，會自己把頭靠到手上。」我抱著那疊紙在騎樓站了很久。原來在那個我以為只剩下痛跟針的地方，還是有人看見你是什麼樣的孩子。",
+          "editorNote": "給一直卡在「牠最後是不是很害怕」「我沒有全程在場」的人；也適合轉給正在反覆檢討自己的朋友，不勸他放下，只給他一個新的畫面",
+          "variations": [
+            "我以為那幾天只剩下病歷上的數字，結果最後一頁有人記得你會把頭靠過來。",
+            "在我看不到的地方，你還是那個會撒嬌的你。這件事我想了很久才敢相信。"
+          ]
+        },
+        "en": {
+          "content": "I went back to the clinic and asked for a copy of your records. The receptionist asked what I needed them for, and I couldn't answer — I just wanted to know about those last three days, the hours I wasn't there. They printed a thick stack. I couldn't read most of it; the bloodwork pages were all arrows. On the very last sheet, in the notes column, someone had written in pen: \"Very affectionate. Leans his head into your hand on his own.\" I stood under the awning holding that stack for a long time. In the place I'd imagined as nothing but pain and needles, somebody still saw exactly who you were.",
+          "editorNote": "For anyone stuck on whether their pet was frightened at the end, or on not having been in the room; offers a different image instead of telling them to let it go",
+          "variations": [
+            "I thought those last days were only numbers on a chart. The final page says someone noticed you leaning in.",
+            "Even where I couldn't see you, you were still the one who leaned in. It took me a while to believe that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-299",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.love-pet.com.tw/adjustion/",
+      "sourceNote": "台灣寵物殯葬與陪伴資源建議飼主慢慢處理毛孩遺留的食物與用品；改寫為「刻意留下最後一罐，直到它自己過期」的第一人稱場景",
+      "tags": [
+        "遺物",
+        "思念",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "櫃子最裡面還留著一罐，你最愛的那個口味。我一直沒動它，想說哪天特別想你，就開起來聞一下。今天翻到，罐底那行小字寫著有效期限——上個月。我拿著它坐在廚房地板上，覺得有點好笑，又很想哭：原來連我為你留的東西，都有它自己的時間表，不會等我準備好。後來我還是開了。味道跟以前一模一樣，只是沒有人從房間衝出來。",
+          "editorNote": "給遲遲不敢動毛孩遺物的人；也適合貼在「東西該留還是該清」的討論串裡，不催促、也不站在勸放手那一邊",
+          "variations": [
+            "留著沒有比較好，清掉也沒有比較壞。它只是替我把你多留了一陣子。",
+            "期限到了，想念沒有。"
+          ]
+        },
+        "en": {
+          "content": "There was one can left at the back of the cupboard — your favorite flavor. I never touched it. I figured I'd save it for a day I missed you badly and just open it to smell. I found it today. The tiny print on the bottom said the expiry date was last month. I sat on the kitchen floor holding it, half laughing and half wrecked: even the things I kept for you run on their own clock, and that clock doesn't wait for me to be ready. I opened it anyway. Smelled exactly the same. Nobody came sprinting out of the bedroom.",
+          "editorNote": "For someone who can't bring themselves to deal with their pet's things; safe to post in a \"should I keep it or clear it\" thread without pushing either way",
+          "variations": [
+            "Keeping it isn't better and tossing it isn't worse. It just held onto you a little longer for me.",
+            "The date expired. The missing didn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-300",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://bestfriends.org/pet-care-resources/grieving-loss-pet-resources-coping",
+      "sourceNote": "喪寵支持資源提到失去毛孩會長期改變飼主看待其他動物的方式；改寫為「在路上遇到老狗會停下來」的日常觀察",
+      "tags": [
+        "思念",
+        "陌生人",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我發現自己變了一件事：走在路上看到老狗，我會走不動。後腳有點打滑、走三步要停一下、毛色退成灰的那種，我會站在旁邊看很久，有時候忍不住問主人：「牠幾歲了？」對方通常會很驕傲地說十四、十五。我就說：「好厲害，你照顧得很好。」然後繼續往前走，眼眶熱熱的。以前我在路上只看得到小狗，現在我最捨不得的，是走得慢的那種。是你把我改成這樣的人的。",
+          "editorNote": "適合寫在毛孩離開後的日記或社群貼文；也可以用來回應那句「你怎麼還沒走出來」——有些悲傷不是傷口，是把人變得更軟",
+          "variations": [
+            "牠留給我最明顯的後遺症，是我現在看到走路很慢的狗會停下來。",
+            "以前覺得最可愛的是幼犬，現在覺得最好看的，是活到很老的那種。"
+          ]
+        },
+        "en": {
+          "content": "Something in me changed: I can't walk past an old dog anymore. The kind whose back legs slide a little, who stops every few steps, whose coat has faded to gray — I'll stand there watching, and sometimes I'll ask the owner, \"How old?\" They almost always say fourteen, fifteen, with real pride. I say, \"That's amazing. You've taken good care of them.\" Then I keep walking with my eyes stinging. I used to only notice puppies. Now the ones that get me are the slow ones. You made me into this person.",
+          "editorNote": "Good for a journal entry or a post after a loss; also a quiet answer to \"aren't you over it yet\" — some grief isn't a wound, it's a softening",
+          "variations": [
+            "The clearest thing they left behind: I stop for every slow-walking dog now.",
+            "Puppies used to be the cute ones. Now the beautiful ones are the ones who made it to old."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-301",
+      "dateAdded": "2026-08-07",
+      "sourceUrl": "https://www.vetmed.ucdavis.edu/hospital/pet-loss-support/journey-grief-and-loss",
+      "sourceNote": "喪寵支持文章提到「次級失落」——為毛孩建立的日常安排與制度一項項被拆掉，本身就是二次告別；改寫為醫療基金戶頭遲遲不解約的具體場景",
+      "tags": [
+        "日常",
+        "思念",
+        "釋懷"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你生病那年，我開了一個小戶頭，設定每個月一號自動轉三千進去，備註打「弟弟醫藥費」。你走了以後，那筆錢還是準時轉。第一個月我想：算了，下個月再處理。現在第七個月了，我還是沒去取消。朋友問我為什麼，我講不出什麼漂亮的理由。大概是因為，那是我唯一還在為你做的事——只要那筆錢每個月還在動，就好像我還在準備著什麼、還在照顧你。等哪天我真的按下取消，那不是把你刪掉，是我終於願意相信，你已經不需要我準備了。",
+          "editorNote": "給那些還沒辦法取消「當初為牠設定的東西」的人（自動扣款、定期宅配、行事曆提醒）；也可以拿來回應「你怎麼還留著那個」的追問",
+          "variations": [
+            "有些東西沒取消，不是走不出來，是還想再照顧你一下。",
+            "等我準備好再按取消。那不是遺忘，是我終於相信你不需要了。"
+          ]
+        },
+        "en": {
+          "content": "The year you got sick, I opened a small account and set up an automatic transfer on the first of every month. I labeled it with your name and the word \"vet.\" After you died, the transfer kept going through. The first month I thought, fine, I'll deal with it next month. It's been seven. I still haven't canceled it. A friend asked why and I didn't have a good answer. I think it's because it's the last thing I'm still doing for you — as long as that money moves every month, it feels like I'm still preparing for something, still taking care of you. Whenever I finally do cancel it, that won't be deleting you. It'll be me believing, at last, that you don't need me to prepare anymore.",
+          "editorNote": "For anyone who can't cancel the things they set up for their pet — the autopay, the recurring delivery, the calendar reminder; also an answer to \"why do you still have that?\"",
+          "variations": [
+            "Leaving it running isn't being stuck. It's wanting to take care of you a little longer.",
+            "I'll cancel it when I'm ready. That's not forgetting — it's finally believing you're okay."
+          ]
+        }
+      }
     }
   ]
 }
