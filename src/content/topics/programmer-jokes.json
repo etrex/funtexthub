@@ -11857,6 +11857,127 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-410",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://dev.to/samson_tanimawo/on-call-wellness-protecting-your-engineers-from-burnout-1fii",
+      "sourceNote": "On-call wellness writing on hypervigilance: engineers checking systems on days when nobody paged them",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "黑色幽默",
+        "自嘲",
+        "production"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週日下午三點，沒有人叫我。\n我只是想確認禮拜四那個部署還活著，打開儀表板看一眼。\n全部正常。我準備關掉，手滑點進另一頁。\n有一條線從禮拜四開始，每天往上爬一點點。離門檻還很遠，遠到三個禮拜後才會響。\n我盯著它看了兩分鐘，跟自己說：這不是我的事，今天沒有我的班。\n然後我打開了終端機。\n輪值表上這個週日是空的。是我自己把自己填進去的。",
+          "editorNote": "當你發現自己又在休假日主動打開儀表板的那一刻，先貼這則給自己看；也適合傳給那個假日還在群組貼監控截圖的同事。",
+          "variations": [
+            "短版：告警沒有響。是我自己排了自己的班。",
+            "延伸：隔週我把那條線做成真的告警，門檻設在它爬到一半的地方。從此週日的我可以安心關筆電。"
+          ]
+        },
+        "en": {
+          "content": "Sunday afternoon, and nobody paged me.\nI only wanted to confirm Thursday's deploy was still alive, so I opened the dashboard for one look.\nAll green. I was about to close it and misclicked into another page.\nOne line had been creeping up since Thursday. A little more every day. Still far from the threshold — three weeks away from firing.\nI stared at it for two minutes and told myself: not my problem, not my shift today.\nThen I opened a terminal.\nThe rotation for this Sunday was empty. I put myself on it.",
+          "editorNote": "Post it the moment you catch yourself opening a dashboard on a day off, or send it to the teammate who keeps dropping graphs in the channel all weekend.",
+          "variations": [
+            "Short version: nothing paged me. I scheduled myself.",
+            "Extension: The next week I turned that line into a real alert, threshold set halfway up. Now Sunday me can close the laptop for real."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-411",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.hyrumslaw.com/",
+      "sourceNote": "Hyrum's Law — with enough users, every observable behavior including bugs becomes something someone depends on",
+      "tags": [
+        "bug",
+        "維護",
+        "黑色幽默",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們修好了一個放了四年的 bug：報表匯出的時候，日期欄永遠少一天。\n修好的隔天，客服信箱塞爆。\n三家客戶回信說，他們的月結對帳流程，就是靠那少掉的一天算出來的。其中一家還寫了內部教學，第一步寫著：「系統會自動幫你減一天，不要手動改。」\n我們開會吵了一小時，最後把 bug 加回去，包成一個設定選項，名字叫 legacy_date_mode，預設開啟。\n它現在不是 bug 了，它是規格。\n而且是全公司唯一有人寫過文件的規格。",
+          "editorNote": "適合在「這個放很久的 bug 到底要不要修」那場吵不出結論的會議開始前十分鐘貼出來。",
+          "variations": [
+            "短版：一個 bug 活得夠久，就會自己升格成規格。",
+            "延伸：新人問可不可以把那個選項預設關掉。我說可以，等那三家客戶自己說不需要的那天。"
+          ]
+        },
+        "en": {
+          "content": "Fixing a four-year-old bug is how we broke three customers.\nThe bug: every report export shifted the date column back by one day.\nThe day after we fixed it, support drowned.\nThree customers wrote in to say their monthly reconciliation was built on that missing day. One of them had an internal guide whose first step read: \"The system subtracts a day for you, do not adjust it manually.\"\nWe argued for an hour and then put the bug back, wrapped in a setting called legacy_date_mode, on by default.\nIt isn't a bug anymore. It's a spec.\nAnd it's the only spec here anyone ever wrote documentation for.",
+          "editorNote": "Drop it ten minutes before the meeting where nobody can agree whether that ancient bug is worth fixing.",
+          "variations": [
+            "Short version: a bug that survives long enough promotes itself to spec.",
+            "Extension: A new hire asked if we could flip the default off. Sure — the day all three customers tell us they don't need it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-412",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://technext24.com/2026/04/13/the-developer-friction-score-a-new-way/",
+      "sourceNote": "2026 developer-friction writing: waiting on access requests and hunting for service owners as the top hidden cost",
+      "tags": [
+        "職場",
+        "工程師日常",
+        "黑色幽默",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "正式環境有一個設定要改。改一個字，三十秒的事。\n我沒有權限。\n我去申請，系統說要主管核准。主管說：這種小事不用申請，你找那個系統的負責人幫你改就好。\n我點開負責人欄位。\n是我。\n兩年前那個系統轉到我名下的時候，沒有人記得要把權限一起轉過來。\n最後我是這樣改成功的：以負責人的身分，核准了自己的申請。\n表單上留下兩行紀錄，申請人跟核准人都是我。稽核看了說，流程很完整。",
+          "editorNote": "適合在填第三份權限申請單、發現審核人欄位跳出自己名字的那一刻，貼進團隊頻道。",
+          "variations": [
+            "短版：我卡了三天，卡在一道只有一個人能開的門，而鑰匙在我手上。",
+            "延伸：我後來翻了整份負責人清單。有十一個系統的負責人，已經離職三年以上。清單本身沒有負責人。"
+          ]
+        },
+        "en": {
+          "content": "Production needed one setting changed. One word. Thirty seconds of work.\nI didn't have permission.\nI filed for access; the system said my manager had to approve it. My manager said don't file anything for something this small, just ask whoever owns that system.\nI opened the owner field.\nIt was me.\nWhen the system moved to my name two years ago, nobody moved the permissions with it.\nHere is how the change finally went in: as the owner, I approved my own request.\nThe form now shows two rows, requester and approver, same name. Audit looked at it and said the trail is complete.",
+          "editorNote": "For the moment you're filling out your third access request and your own name shows up in the approver field.",
+          "variations": [
+            "Short version: three days blocked at a door only one person could open, and I was holding the key.",
+            "Extension: I read the whole owner list afterward. Eleven systems are owned by people who left over three years ago. The list itself has no owner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-413",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://jellyfish.co/library/developer-experience/challenges/",
+      "sourceNote": "Developer-experience writing on unclear service ownership: informal help quietly turning into permanent maintenance duty",
+      "tags": [
+        "職場",
+        "維護",
+        "黑色幽默",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三年前的某個下午，同事卡在一支排程程式。我走過去看了五分鐘，跟他說：這裡的時間格式要補零。\n他改好了，很開心，在群組公開謝我。\n那天之後，那支程式的所有問題都會先傳給我。\n去年他離職，交接文件上那支程式的負責人欄位，寫的是我的名字。\n我從來沒有寫過它任何一行。\n今年我終於打開原始碼，想搞清楚自己到底在負責什麼。\n檔案的第一行是註解：「這支是隔壁組請我幫忙看一下的。」",
+          "editorNote": "適合傳給那個剛剛在群組打出「我幫你看一下」的同事，讓他知道自己簽了什麼。",
+          "variations": [
+            "短版：在這裡，「我幫你看一下」是一份終身合約。",
+            "延伸：上禮拜有新人卡在同一支程式，我走過去看了五分鐘。走回座位的路上，我才想起自己剛剛做了什麼。"
+          ]
+        },
+        "en": {
+          "content": "Five minutes of help, three years ago, is how I ended up owning a service.\nA coworker was stuck on a scheduled job. I walked over, looked for five minutes, and told him the timestamps needed zero-padding.\nHe fixed it, was thrilled, and thanked me in the channel where everyone could see.\nFrom that day on, every problem with that job came to me first.\nHe left last year. On the handover doc, the owner field for that job has my name in it.\nI have never written a single line of it.\nThis year I finally opened the source to find out what exactly I own.\nFirst line of the file is a comment: \"The team next door asked me to take a quick look at this.\"",
+          "editorNote": "Send it to whoever just typed \"let me take a quick look\" in the channel, so they know what they signed.",
+          "variations": [
+            "Short version: \"let me take a quick look\" is a lifetime contract here.",
+            "Extension: Last week a new hire got stuck on that same job. I walked over and looked for five minutes. Halfway back to my desk I realized what I had just done."
+          ]
+        }
+      }
     }
   ]
 }

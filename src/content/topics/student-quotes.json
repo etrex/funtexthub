@@ -4811,6 +4811,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-161",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://health.ettoday.net/news/2905953",
+      "sourceNote": "收假症候群症狀說明 學生版共感原創改寫",
+      "tags": [
+        "收假",
+        "開學",
+        "校園生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我上網查「收假症候群」，跳出來的全是上班族版本：星期天晚上莫名低落，星期一早上特別想賴床。\n我把日曆翻到八月底算了一下——原來我的星期天晚上，已經提早二十一天開始了。",
+          "editorNote": "適合暑假只剩最後三週、心情開始有感的那個晚上發，同學看到「提早二十一天」會笑著說自己也是。",
+          "variations": [
+            "也能換成：「上班族的收假症候群只有一個晚上，學生版是限量加長版，還附贈作業。」",
+            "進階版：「我還沒開學就先收完假了，這大概是我今年唯一提前完成的事。」"
+          ]
+        },
+        "en": {
+          "content": "Back-to-school blues, according to every article I found, is an office thing: you feel low on Sunday night and hate getting up on Monday.\nThen I counted what's left on my calendar and realized my Sunday night started three weeks early.",
+          "editorNote": "For the night the end of summer break finally sinks in. Classmates will reply that theirs started early too.",
+          "variations": [
+            "Swap in: \"Office workers get one bad Sunday night. The student edition is the extended cut, and it comes with homework.\"",
+            "Harder mode: \"I finished my break before the break finished. Only thing I've ever done ahead of schedule.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-162",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.benq.com/zh-tw/reading/mindduo/family-activities/backtoschool-tips.html",
+      "sourceNote": "開學收心操衛教三步驟 學生自嘲角度原創改寫",
+      "tags": [
+        "開學",
+        "拖延",
+        "廢文",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "大人從小就叫我們開學前要做「收心操」，我認真找過動作說明，找了很多年都沒找到。\n後來才發現這套操只有一個動作：把手機放下。而我從第一下就做不標準。",
+          "editorNote": "適合被家人念一句「該收心了」的那天發，配一張手機還握在手上的照片最有畫面。",
+          "variations": [
+            "也能換成：「收心操我做得很勤，只是每做一下就要休息二十分鐘，滑個手機當暖身。」",
+            "進階版：「我三個禮拜前就開始收心，收到現在心還在原地，只有日期在動。」"
+          ]
+        },
+        "en": {
+          "content": "Refocus drills are what adults tell you to do before school starts. I spent years hunting for the actual instructions and never found any.\nTurns out the routine has exactly one move: put the phone down. I've been failing rep one since June.",
+          "editorNote": "For the day someone at home tells you it's time to snap out of vacation mode. Best with a photo of the phone still in your hand.",
+          "variations": [
+            "Swap in: \"I practice my refocus routine constantly. One rep, then twenty minutes of scrolling as a warm-down.\"",
+            "Harder mode: \"I started pulling myself together three weeks ago. Nothing has moved except the dates.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-163",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "開學",
+        "書包",
+        "校園生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前一晚把書包整個倒過來，掉出三支乾掉的原子筆、一張忘記交的回條，還有一張被壓到發皺的紙條，上面只寫著「下課福利社」。\n我本來一點都不想開學的，看完那張紙條，突然有點想見到他們。",
+          "editorNote": "適合開學前一晚整理書包時發，翻出舊紙條的那一刻，同班的人看到會直接標記你。",
+          "variations": [
+            "也能換成：「書包最底層是一個獨立的時區，那裡的時間停在放假前的最後一堂課。」",
+            "進階版：「整理書包花了兩小時，其中一個半小時是在看那些早就該丟、但我還是留著的東西。」"
+          ]
+        },
+        "en": {
+          "content": "Backpack turned upside down the night before school starts: three dead pens, a permission slip I never handed in, and a crumpled note that just said \"snack bar after class.\"\nI wasn't ready to go back at all. Then I read the note and realized I kind of miss them.",
+          "editorNote": "For the night-before backpack cleanout. Post it the moment an old note falls out and your classmates will tag you.",
+          "variations": [
+            "Swap in: \"The bottom of a backpack is its own time zone, permanently stuck at the last class before break.\"",
+            "Harder mode: \"Two hours to clean out my bag, ninety minutes of it spent looking at things I should have thrown away and didn't.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-164",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "筆記",
+        "考試",
+        "校園生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "整學期沒出現過的同學，在考前一晚敲我：「欸，可以借一下筆記嗎？」\n我往上滑對話紀錄，我們上一次講話停在學期第一週，內容是他問我這堂課的教室在哪裡。",
+          "editorNote": "適合考前被幾乎不認識的同學敲來借筆記那晚發，抄了一整學期筆記的人都會苦笑。",
+          "variations": [
+            "也能換成：「我的筆記在期末的流通量，比那堂課的出席率高上好幾倍。」",
+            "進階版：「他借走筆記那天很熱情地說要請我喝飲料，那杯飲料到現在還停留在心意的階段。」"
+          ]
+        },
+        "en": {
+          "content": "Lecture notes bring people together. The classmate who never showed up all semester messaged me the night before the exam: \"Hey, can I borrow yours?\"\nI scrolled up our chat. We last spoke in week one, when he asked me where the classroom was.",
+          "editorNote": "For the night a near-stranger asks to borrow your notes. Anyone who took notes all term will laugh through their teeth.",
+          "variations": [
+            "Swap in: \"My notes circulate more widely during finals than that class's attendance ever did.\"",
+            "Harder mode: \"He promised to buy me a drink for those notes. That drink still exists purely as a thought.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-165",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "報告",
+        "拖延",
+        "崩潰",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "報告十點截止，我九點四十衝到系辦要印。\n印表機吐出第一頁就卡紙，我蹲在地上一張一張把紙抽出來的時候，突然覺得這台機器比教授還了解我——它知道我一定會拖到最後一刻。",
+          "editorNote": "適合死線前十分鐘遇上印表機卡紙那次發，趕過紙本繳交的人都被這台機器背叛過。",
+          "variations": [
+            "也能換成：「我對這台印表機的所有了解，全部來自它壞掉的那四分鐘。」",
+            "進階版：「死線前的印表機有一種特異功能：平常都好好的，只在你最需要它的時候需要休息。」"
+          ]
+        },
+        "en": {
+          "content": "Printer jams have flawless timing. My paper was due at ten and I sprinted to the department office at 9:40.\nIt jammed on page one. Crouched on the floor pulling sheets out one at a time, I decided that machine knows me better than my professor does — it knew I'd leave it to the last minute.",
+          "editorNote": "For the ten-minutes-to-deadline paper jam. Anyone who's printed a hard copy in a panic has been betrayed by this machine.",
+          "variations": [
+            "Swap in: \"Everything I know about that printer, I learned in the four minutes it was broken.\"",
+            "Harder mode: \"Printers near a deadline have one superpower: they run fine all year and need a break exactly when you don't.\""
+          ]
+        }
+      }
     }
   ]
 }

@@ -4973,7 +4973,7 @@
       "i18n": {
         "zh-tw": {
           "content": "睡不著沒關係，先別逼自己，光是願意躺在這裡休息，你已經很努力了。",
-          "editorNote": "適合安撫失眠焦慮的朋友，或給自己的溫柔提醒",
+          "editorNote": "凌晨三點第五次翻身、拿起手機看時間，開始擔心明天怎麼撐過去的那一刻，傳給自己，或那個剛在群組說還醒著的人。",
           "variations": [
             "睡不著的夜晚，請對自己溫柔一點。",
             "就算沒睡著，願意閉上眼休息，也是照顧自己的一種方式。"
@@ -4981,7 +4981,7 @@
         },
         "en": {
           "content": "It's okay if sleep won't come. Don't force it. Just being willing to lie here and rest means you're already doing enough.",
-          "editorNote": "A gentle note for a friend battling insomnia anxiety, or a kind reminder to yourself",
+          "editorNote": "For 3 a.m., when you've checked the time on your phone for the fifth time and started worrying about how you'll get through tomorrow. Send it to yourself, or to whoever just messaged that they're still awake.",
           "variations": [
             "On the nights you can't sleep, please be gentle with yourself.",
             "Even if you don't fall asleep, closing your eyes to rest is still taking care of yourself."
@@ -8495,6 +8495,129 @@
           "variations": [
             "You're kind to your friends at 2am. Save some of that for yourself.",
             "The person who needs gentleness most tonight is usually the one being hardest on themselves."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-295",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.scarymommy.com/sleep-jokes-puns",
+      "sourceNote": "General sleep-humor listicle; used only as a tone reference. The rehearsing-tomorrow-step-by-step angle is original — existing items only replay past arguments (iq-088, iq-097) or plan imaginary trips (iq-275)",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "腦內小劇場",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "兩點十分，我開始預演明天。\n起床、刷牙、穿哪一件、幾點出門、走哪條路、要不要先繞去買咖啡。\n演完一遍才兩點二十，那就再跑一次，這次連紅綠燈都算進去。\n第三遍我開始修細節：開場那句話，好像換個講法比較好。\n三點半，明天已經被我完整跑過三次，\n而真正的明天，還沒開始。",
+          "editorNote": "適合傳給那種前一晚會在腦中把隔天路線走一遍的朋友，尤其是他明天要早起去一個沒去過的地方的那個晚上。笑點在「演到第三遍還在改台詞」，不是抱怨睡不著。",
+          "variations": [
+            "明天我已經先過完三次了，唯一沒排進去的行程是睡覺。",
+            "我不是失眠，我是明天的試映會場，而且觀眾只有我一個。"
+          ]
+        },
+        "en": {
+          "content": "Rehearsing tomorrow began at 2:10am.\nWake up, brush teeth, pick a shirt, leave by this time, take this route, maybe stop for coffee.\nThe first run only took ten minutes, so I ran it again, this time accounting for traffic lights.\nBy the third pass I was editing dialogue — that opening line could be phrased better.\n3:30am, and tomorrow has now happened three times.\nThe real one hasn't started yet.",
+          "editorNote": "For the friend who mentally drives the route the night before, especially before a morning that starts somewhere they've never been. The joke lands on the third rehearsal, not on the sleeplessness.",
+          "variations": [
+            "Tomorrow has already happened three times tonight. Sleep was the only item I never scheduled.",
+            "Not insomnia — a private preview screening of tomorrow, audience of one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-296",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.citymattress.com/blogs/news/funny-quotes-for-when-you-cant-sleep",
+      "sourceNote": "Lifestyle blog list of can't-sleep one-liners; reworked into the not-sure-whether-I-slept blank-file angle, which no existing item uses (iq-263 is about a wearable's score, this one has no device in it)",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "睡眠不足"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上有人問我昨天睡得好不好，我認真想了一下，發現我答不出來。\n三點到四點半那段，我不確定自己是睡著了，還是只是閉著眼睛躺著發呆。\n沒有夢，也沒有印象，就是一段空白的檔案。\n最後我回他：應該有睡吧。\n那個「應該」，就是我目前唯一能提供的說法。",
+          "editorNote": "適合早上在茶水間被問「昨天睡得好嗎」、卡了三秒才回答的人。笑點在那個「應該」，寫的是睡與醒之間那段查無紀錄的時間，比直接說失眠更準。",
+          "variations": [
+            "我昨晚睡了幾小時？這題我沒有答案，只有推測。",
+            "三點到四點半那段查無紀錄，連我自己都不敢出來作證。"
+          ]
+        },
+        "en": {
+          "content": "Sleep report from last night: genuinely unavailable.\nSomeone asked this morning how I slept and I had to stop and actually think about it.\nBetween 3 and 4:30 I couldn't tell you whether I was asleep or just lying there with my eyes shut.\nNo dream, no memory, just a corrupted file where the hour should be.\nI went with \"I think so?\"\nThat question mark is the most accurate thing I've said all week.",
+          "editorNote": "For the three-second pause after a coworker asks how you slept. It's about the hour that left no record behind, which is funnier than saying \"I have insomnia.\"",
+          "variations": [
+            "How many hours did I get? I don't have an answer, only an estimate.",
+            "3 to 4:30 is missing from the record and I wouldn't testify about it either."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-297",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://upjoke.com/awake-jokes",
+      "sourceNote": "Joke aggregator browsed for angles; the habitual under-reporting of your own bedtime to other people is original to this item — no existing item covers the daytime social cover-up",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問我昨天幾點睡，我聽見自己說「大概一點吧」。\n實際上是三點四十。\n不知道為什麼，講到睡覺時間我就會自動打折，\n講完還多補一句：還好啦，睡得不錯。\n中午之前，我對三個人講了同一個版本，\n現在連我自己都快相信了。",
+          "editorNote": "適合那種在茶水間被問「你昨天幾點睡」就自動少報兩小時的人。笑點在那句沒人要求的補充說明，寫的是既不想被關心、也不想被念的那一秒。",
+          "variations": [
+            "我報出去的睡覺時間，跟實際數字之間有一段固定的匯差。",
+            "講出口的是一點，真正關燈的是三點四十，中間那兩小時我從來不申報。"
+          ]
+        },
+        "en": {
+          "content": "Underreporting my bedtime has become fully automatic.\nA coworker asked what time I went to sleep and I heard myself say \"around one.\"\nIt was 3:40.\nThen I added, unprompted, that I'd slept pretty well.\nSame version delivered to three different people before lunch.\nI'm now two hours short in every conversation and slowly starting to believe it.",
+          "editorNote": "For anyone who shaves two hours off the answer the second a coworker asks. The joke is the unrequested \"slept fine\" at the end — the second where you want neither concern nor a lecture.",
+          "variations": [
+            "There's a fixed exchange rate between the bedtime I report and the one that happened.",
+            "I say one o'clock, the lights went off at 3:40, and those two hours go undeclared every time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-298",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "",
+      "sourceNote": "Original seasonal observation for a late-summer Sunday night; kept to what is audible from a bed, no external source used",
+      "tags": [
+        "失眠",
+        "深夜",
+        "療癒",
+        "陪伴",
+        "夏天",
+        "週日"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "八月的週日深夜，我又醒著，但今晚有一點不一樣。\n七月那批吵得讓人心煩的蟬，剩沒幾隻了，\n接手的是草叢裡那種比較細、比較不急的聲音。\n冷氣開到三點，我第一次覺得有點涼，起來把它關掉。\n這幾個睡不著的晚上，我以為什麼都沒發生，\n其實季節已經悄悄往前挪了一格。",
+          "editorNote": "適合週日凌晨兩三點還醒著、隨手把手機拿起來的那一刻。不勸睡，只遞一個窗外的變化過去：夏天正在退場這件事，通常是還醒著的人先發現的。",
+          "variations": [
+            "夏天要走的時候不會先通知，是睡不著的人最早聽出來的。",
+            "同一張床、同一個三點，只有窗外的聲音換了班。"
+          ]
+        },
+        "en": {
+          "content": "August Sunday nights sound different, and the awake ones hear it first.\nThe cicadas that ran all of July are down to a handful now.\nWhatever lives in the grass has taken over the shift — thinner, less urgent.\nAround three the AC finally felt cold, so I got up and switched it off.\nI'd assumed nothing was happening on these sleepless nights.\nThe season moved a notch while I wasn't looking.",
+          "editorNote": "For 2 or 3am on a Sunday, when you reach for your phone anyway. It doesn't tell anyone to sleep — it just hands over something happening outside the window, which the person still awake noticed before anyone else did.",
+          "variations": [
+            "Summer doesn't announce its exit. The people who can't sleep hear it leaving first.",
+            "Same bed, same 3am, and only the sound outside has changed shift."
           ]
         }
       }

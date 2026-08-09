@@ -6382,7 +6382,7 @@
       "i18n": {
         "zh-tw": {
           "content": "颱風把考試延後，全班第一次集體祈禱「拜託如期舉行」。\n多放這幾天，書不會多讀一頁，焦慮倒是續訂了一個禮拜。",
-          "editorNote": "遇到颱風假延考時發限動最應景，同屆考生看到會瘋狂點頭。",
+          "editorNote": "延期公告跳出來、班群從一片歡呼變成沉默的那五分鐘，最適合發這段。",
           "variations": [
             "別人放假在歡呼，我們放假在倒數，果然考生連放假都能被剝奪快樂。",
             "延期公告一出，我這輩子第一次希望颱風轉彎。"
@@ -6390,7 +6390,7 @@
         },
         "en": {
           "content": "The typhoon pushed the exam back, and for the first time in history the whole class prayed for it to happen on schedule.\nThose extra days won't add a single page to my brain, but they auto-renewed my anxiety for another week.",
-          "editorNote": "The perfect story to post when a storm delays your exam — everyone in your grade will be nodding along.",
+          "editorNote": "For the five minutes right after the postponement notice drops and the class group chat goes from cheering to dead silent.",
           "variations": [
             "Normal people cheer for a day off. Exam kids just extend the countdown.",
             "First time in my life I begged a typhoon to change course."
@@ -9228,6 +9228,130 @@
           "variations": [
             "Short: \"Same phone, two different lives, one exam in between.\"",
             "Or: \"My search history figured out I'd graduated before I did.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-303",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "考試板長年常見的「單字本永遠從第一頁重來」自嘲；句子與細節為原創",
+      "tags": [
+        "考試",
+        "自嘲",
+        "廢文",
+        "讀書",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的單字本前十頁被翻到起毛邊，紙都軟了。\n第十一頁之後，還是原廠出貨的狀態。\n每次下定決心重新開始，我都很有誠意地從第一頁再來一次。\n所以這本我讀過十幾遍，讀的都是同樣那十頁。\n不是我沒毅力，是我對開頭有一種說不出的忠誠。",
+          "editorNote": "把單字本側面立起來、發現只有前面那一小截有手指髒污的那一秒，拍下來配這段剛好。",
+          "variations": [
+            "短版：「這本我讀過十幾遍，每一遍都是同樣那十頁。」",
+            "延伸：「我的書架上有五本前十頁都很熟的書，湊起來大概是一本很厚的第一章。」"
+          ]
+        },
+        "en": {
+          "content": "Vocabulary notebook, pages one through ten: soft, dog-eared, gray at the corners from my thumb.\nPage eleven onward: factory fresh.\nEvery time I decide to get serious, I sincerely start again from the beginning.\nSo I've been through this book maybe fifteen times. Same ten pages, fifteen times.\nIt's not that I give up easily. I'm just extremely loyal to openings.",
+          "editorNote": "For the moment you stand the notebook on its side and notice only the first quarter-inch is grubby.",
+          "variations": [
+            "Short: \"Been through this book fifteen times. Same ten pages every time.\"",
+            "Extended: \"Five books on my shelf, first ten pages of each worn out. Together that's one very thick Chapter One.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-304",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.dcard.tw/f/talk",
+      "sourceNote": "「記得答案在課本的哪個位置卻想不起內容」的普遍記憶經驗；奶茶漬與箭頭等細節為原創",
+      "tags": [
+        "考試",
+        "自嘲",
+        "記憶",
+        "廢文",
+        "考場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那題我記得。\n它在課本右邊那一頁的下面三分之一，靠近我打翻過奶茶的那圈淺褐色。\n旁邊有我上課隨手畫的箭頭，箭頭很用力地指著一行字。\n至於那行字寫什麼，一片空白。\n我的腦袋已經很努力了，它只是把版面記成了風景，忘記把內容記成知識。",
+          "editorNote": "考完走出教室，同學問「那題你寫什麼」，你卻只講得出它印在課本哪個角落的時候。",
+          "variations": [
+            "短版：「我記得它在右頁下方，靠近奶茶漬。內容我不記得。」",
+            "延伸：「我的記憶是張地圖，標得出每個寶藏的位置，就是沒寫裡面裝什麼。」"
+          ]
+        },
+        "en": {
+          "content": "Page position is the part my brain actually saved.\nRight-hand page, lower third, next to the pale brown ring where I knocked over my milk tea.\nThere's an arrow I doodled in class, pointing very insistently at one line.\nWhat that line said: total blank.\nMy memory tried its best. It just filed the layout as scenery and forgot to file the content as knowledge.",
+          "editorNote": "For walking out of the room when a friend asks what you put for question 12 and all you can describe is where it lived in the textbook.",
+          "variations": [
+            "Short: \"I know it was lower right, near the tea stain. That's all I've got.\"",
+            "Extended: \"My memory is a treasure map that marks every spot and never says what's buried there.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-305",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.dcard.tw/f/mood",
+      "sourceNote": "整理舊課本翻到頁角塗鴉的懷舊情境；火柴人翻頁動畫的細節為原創",
+      "tags": [
+        "考試",
+        "自嘲",
+        "廢文",
+        "療癒",
+        "讀書"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "整理舊課本的時候，發現我在頁角畫了一隻火柴人。\n從第五十八頁一路跑到第九十一頁，拇指一彈，他真的會跑。\n同一段時間，那三十幾頁的內容我一個字都沒吸收。\n所以我不是不專心，我只是把專注力全部投資在一個沒有考科的項目上。\n而且說真的，他跑得很順。",
+          "editorNote": "多年後翻到舊課本、忍不住用拇指彈一次頁角讓那隻小人跑起來的那一刻。",
+          "variations": [
+            "短版：「那三十幾頁我什麼都沒讀進去，但我養出了一隻會跑步的火柴人。」",
+            "延伸：「課本頁角是我人生第一個沒有截止日、也沒人打分數的作品。」"
+          ]
+        },
+        "en": {
+          "content": "Flipbook animation, pages 58 to 91 of my old textbook: one stick figure, running.\nThumb the corner and he still runs, years later.\nThose same thirty-odd pages of actual material? Absorbed precisely none of it.\nSo it wasn't a focus problem. I just put all of it into a subject nobody grades.\nAnd honestly, his stride holds up.",
+          "editorNote": "For finding an old textbook in a box and flipping the corner once, just to check he still runs.",
+          "variations": [
+            "Short: \"Learned nothing from those thirty pages. Did produce a stick figure who can run.\"",
+            "Extended: \"That page corner was the first thing I ever made with no deadline and no grade attached.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-306",
+      "dateAdded": "2026-08-09",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "深夜終於解出一題、隔天只記得當時很開心的經驗；時間與情節為原創",
+      "tags": [
+        "考試",
+        "自嘲",
+        "廢文",
+        "療癒",
+        "記憶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點四十，那一題我終於自己推出來了。\n那個瞬間爽到像突然多長了一顆腦袋，我還在心裡跟自己擊掌。\n早上七點醒來，我記得的只剩下一件事：我昨晚很開心。\n過程、算式、那個關鍵的一步，全部連夜退房。\n留下來的不是答案，是一段沒有內容的快樂。\n不過那一晚我是真的懂過，這件事誰也拿不走。",
+          "editorNote": "隔天早上打開筆記本，看著昨晚那行只寫到一半的算式發呆的時候。",
+          "variations": [
+            "短版：「我記得我懂過。細節退房了，快樂還留著。」",
+            "延伸：「凌晨的我很聰明，可惜他不留紀錄，也不接受早上的我打電話過去問。」"
+          ]
+        },
+        "en": {
+          "content": "2:40 a.m. is when I finally cracked that problem on my own.\nFelt like growing a second brain. I high-fived myself, internally.\nWoke up at seven remembering exactly one thing: that I had been happy.\nThe steps, the working, the one move that made it click — all checked out overnight.\nWhat stayed wasn't the answer. It was a happiness with nothing attached to it.\nStill counts, though. For one night I genuinely understood it, and nobody gets to take that back.",
+          "editorNote": "For the next morning, staring at the half-finished line of working you left in the notebook.",
+          "variations": [
+            "Short: \"I remember understanding it. The details checked out; the happiness stayed.\"",
+            "Extended: \"The 2 a.m. version of me is brilliant and keeps no records, and won't take calls from the 7 a.m. version.\""
           ]
         }
       }
