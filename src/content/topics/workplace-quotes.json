@@ -11349,6 +11349,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-385",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.nist.gov/blogs/cybersecurity-insights/passwords-evolved-authentication-guidance-modern-era",
+      "sourceNote": "資安界長年討論的強制定期更換密碼政策爭議 — 改寫為一位員工用二十三組過期密碼，意外幫自己寫了一本季刊日記",
+      "tags": [
+        "公司文化",
+        "辦公室日常",
+        "上班族限定",
+        "社畜",
+        "職場厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們公司的密碼政策是每九十天換一次。\n\n規則寫在資訊部的公告裡：至少十二碼、要有大寫、要有數字、要有符號，而且不能跟前五次重複。\n\n我從進公司那天開始換，到現在換了二十三次。\n\n二十三次，換算起來是五年半。\n\n有趣的地方在於「不能重複」這一條。因為不能重複，我每次都得想一組全新的，而人在急著想東西的時候最誠實——你一定會抓身邊當下最鮮明的那個。\n\n所以第四組是我那時候養的貓的名字。第九組是我搬家那條街的門牌號。第十四組是那一年我單曲循環到爛掉的歌名。第十九組，是我媽住院那家醫院的縮寫。\n\n這件事沒有任何人知道。它不在任何系統裡，不會出現在績效面談，也不會被寫進交接文件。\n\n但每九十天，我坐在螢幕前面想新密碼的那三分鐘，其實是在做同一件事：\n\n幫過去這一季的自己，取一個只有我看得懂的名字。\n\n資訊部大概只是想防駭客。\n\n他們不知道，他們順便幫全公司的人，發了一本一年寫四頁的日記。",
+          "editorNote": "適合在收到「您的密碼將於三日後到期」那封系統通知信的當天，轉給正在螢幕前面發呆想新密碼的同事。",
+          "variations": [
+            "短版：「密碼九十天換一次，我換了二十三次——那是五年半。」",
+            "延伸版：「資訊部想防的是駭客，結果順便幫全公司發了一本一年只寫四頁的日記。」"
+          ]
+        },
+        "en": {
+          "content": "Our company makes you change your password every ninety days.\n\nThe rules live in an IT bulletin: twelve characters minimum, one uppercase, one number, one symbol, and it can't match any of your last five.\n\nI've been doing this since my first day. Twenty-three passwords so far.\n\nTwenty-three. That's five and a half years.\n\nThe interesting part is the no-repeats rule. Because I can't reuse one, I have to invent something new every time, and people are at their most honest when they're improvising under pressure. You grab whatever is most vivid in your life at that exact moment.\n\nSo number four was the name of the cat I had back then. Number nine was the street number of the apartment I'd just moved into. Number fourteen was the song I played on loop that whole year. Number nineteen was the abbreviation of the hospital where my mom was staying.\n\nNobody knows any of this. It isn't stored in any system. It never comes up in a performance review. It won't appear in a handover doc.\n\nBut every ninety days, those three minutes I spend staring at the screen inventing a new one, I'm really doing one thing:\n\ngiving the last quarter of my life a name only I can read.\n\nIT probably just wanted to stop hackers.\n\nThey don't know they also handed the entire company a diary that gets four entries a year.",
+          "editorNote": "Send it the day that 'Your password expires in 3 days' notice lands, to the coworker staring blankly at the screen trying to think of a new one.",
+          "variations": [
+            "Short: 'Twenty-three forced password changes, ninety days apart. That's five and a half years.'",
+            "Extended: 'IT was trying to stop hackers. They accidentally issued everyone a diary with four entries a year.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-386",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://hbr.org/2022/03/how-to-run-a-great-hybrid-meeting",
+      "sourceNote": "混合會議設備摩擦導致的固定開場延遲討論 — 改寫為每場實體會議開頭七分鐘的接線儀式，以及那位永遠帶著轉接頭的同事",
+      "tags": [
+        "會議",
+        "辦公室設備",
+        "同事",
+        "職場幽默",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每一場實體會議，真正的開始時間都比行事曆上晚七分鐘。\n\n那七分鐘固定發生同一件事。\n\n要報告的人把筆電放上桌，拿起桌上那條線，插進去。畫面沒有出來。他把線拔掉再插一次。還是沒有出來。\n\n然後全會議室的人開始一起解決這個問題。\n\n有人說「你按 Windows 加 P 看看」。有人說「要選延伸模式吧」。有人蹲下去看電視背後的輸入源到底切在哪一台。有人自願跑去隔壁會議室借另一條線。\n\n最後救場的，永遠是同一個人。\n\n他不是主管，不是資訊部，也不是這場會的主角。他只是包包裡永遠有一顆轉接頭。\n\n他把轉接頭遞過去，畫面亮起來，全場發出那種很短的、看完煙火似的「喔——」。\n\n那七分鐘是我一整天氣氛最好的七分鐘。大家真的在合作，真的有共同目標，而且那個目標明確到不會有人舉手問「所以這個的 KPI 是什麼」。\n\n然後畫面接上了，會議開始了。\n\n那個團隊就地解散。",
+          "editorNote": "轉給包包裡永遠有一顆轉接頭的那位同事，最好挑在他剛剛又救了一場會、卻沒有人道謝的那個下午。",
+          "variations": [
+            "短版：「每場實體會議前七分鐘，是全公司唯一一次真正的跨部門合作。」",
+            "延伸版：「畫面一接上，會議開始，那個團隊就地解散。」"
+          ]
+        },
+        "en": {
+          "content": "Every in-person meeting actually starts seven minutes after the time on the calendar.\n\nAnd those seven minutes always go the same way.\n\nWhoever's presenting sets their laptop down, grabs the cable on the table, plugs it in. Nothing on the screen. Unplugs it, plugs it back in. Still nothing.\n\nThen the entire room joins the effort.\n\nSomeone says try Windows-P. Someone says you have to pick extend, not duplicate. Someone crouches behind the display to figure out which input it's actually on. Someone volunteers to go borrow a cable from the room next door.\n\nAnd the person who saves it is always the same person.\n\nNot the manager. Not IT. Not even the one running the meeting. Just the guy who permanently carries a dongle in his bag.\n\nHe hands it over, the screen lights up, and the room lets out that short little firework noise. Ohhh.\n\nThose seven minutes are the best seven minutes of my whole day. People are genuinely cooperating. There's a real shared goal, and it's so obvious that nobody raises a hand to ask what the KPI is.\n\nThen the screen connects. The meeting begins.\n\nAnd the team disbands on the spot.",
+          "editorNote": "Send it to the coworker who always has the dongle, ideally the afternoon he rescues another meeting and nobody thanks him.",
+          "variations": [
+            "Short: 'The seven minutes before a meeting starts is the only real cross-team collaboration this company has.'",
+            "Extended: 'The screen connects, the meeting begins, and the team disbands on the spot.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-387",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.themuse.com/advice/elevator-pitch-examples",
+      "sourceNote": "職涯建議中常見的「電梯簡報」練習 — 改寫為真的在電梯裡遇到最高層時只講出兩個字，並反過來質疑三十秒被看見這件事本身",
+      "tags": [
+        "高層",
+        "職場潛規則",
+        "幽默自嘲",
+        "職場厭世",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司的電梯從一樓到十二樓，要三十四秒。\n\n我知道這個數字，因為我算過。\n\n算的原因是這樣：進公司第二年，有前輩跟我說，你要準備一份「電梯簡報」。萬一哪天在電梯裡遇到最上面那位，你要能在三十秒內講完你在做什麼、為什麼重要。\n\n我真的準備了。寫在手機備忘錄裡，改過四版，練到可以不看稿。\n\n第三年的某個早上，門一開，他就站在裡面。\n\n只有我們兩個人。\n\n我按了十二樓。\n\n然後我聽見自己說：「早安。」\n\n他說：「早。」\n\n三十四秒過得比我想像中久。我看著樓層數字一格一格往上跳，腦袋裡那四個版本安靜得像從來沒有存在過。\n\n十二樓到了。我說「您先請」。他點點頭走了出去。\n\n那天我沒有難過。我只是把備忘錄刪掉了。\n\n因為我終於想通一件事：如果一個人的價值必須壓縮到三十四秒才有機會被看見，那真正的問題不是我講得不夠精采。\n\n是剩下的那八小時，從來沒有人走出來看過。",
+          "editorNote": "適合在有人又轉發「如何準備你的電梯簡報」那類文章時，接在後面貼給同溫層的朋友。",
+          "variations": [
+            "短版：「準備了四個版本的電梯簡報，真的遇到那天，我只說了兩個字：早安。」",
+            "延伸版：「問題不是我三十四秒講得不夠好，是剩下那八小時從來沒有人走出來看過。」"
+          ]
+        },
+        "en": {
+          "content": "The elevator in our building takes thirty-four seconds to go from the lobby to twelve.\n\nI know the number because I timed it.\n\nHere's why. In my second year, someone senior told me to prepare an elevator pitch. In case you ever end up in there with the person at the very top, you should be able to say what you do and why it matters in thirty seconds.\n\nSo I wrote one. Kept it in my phone notes. Revised it four times. Practiced until I didn't need to read it.\n\nThird year, one morning, the doors open and he's standing inside.\n\nJust the two of us.\n\nI press twelve.\n\nAnd then I hear myself say, 'Morning.'\n\nHe says, 'Morning.'\n\nThirty-four seconds is longer than you'd think. I watched the floor numbers climb one at a time, and all four drafts in my head went so quiet it was like they'd never existed.\n\nTwelve. I said 'after you.' He nodded and walked out.\n\nI wasn't upset that day. I just deleted the note.\n\nBecause I finally understood something: if a person's worth has to be compressed into thirty-four seconds to have any chance of being seen, the problem was never that my pitch wasn't sharp enough.\n\nIt's that nobody ever walked out to look during the other eight hours.",
+          "editorNote": "Good for the next time someone shares another 'how to nail your elevator pitch' post — drop it right underneath.",
+          "variations": [
+            "Short: 'Four drafts of an elevator pitch. The day it finally happened, I said one word: morning.'",
+            "Extended: 'The problem was never the thirty-four seconds. It's that nobody looked during the other eight hours.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-388",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.gallup.com/workplace/employee-engagement.aspx",
+      "sourceNote": "員工參與感與「表面徵詢意見」的落差討論 — 改寫為員工旅遊問卷三個選項其實是同一個地方，公告卻寫成多數同仁共同選擇",
+      "tags": [
+        "福委會",
+        "員工福利",
+        "公司活動",
+        "職場荒謬",
+        "職場厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每年這個時候，福委會會發一份問卷：今年的員工旅遊，大家想去哪裡？\n\n這是一份非常民主的問卷。\n\n第一題三選一。選項 A：南部某個溫泉區。選項 B：南部那個溫泉區旁邊的湖。選項 C：以上皆可。\n\n第二題問你偏好幾天。可選的是「兩天一夜」和「兩天一夜（含早鳥優惠）」。\n\n第三題是開放式的：其他建議，歡迎踴躍填寫。\n\n我在第三題認真打了六十個字。我說可以考慮換一個離北部同事近一點的地點；或者如果大家意願真的不高，是不是能改成等值的假。\n\n兩個禮拜後，公告出來了。\n\n南部那個溫泉區。兩天一夜。\n\n公告的最後一行寫著：「感謝同仁踴躍投票，本次行程為多數同仁共同選擇之結果。」\n\n這句話完全正確。\n\n畢竟在一張只有一個答案的選擇題裡，全體通過是遲早的事。",
+          "editorNote": "適合在公司群組又跳出「員工旅遊意見調查，請於本週五前填寫」的時候，私下丟給同部門的人。",
+          "variations": [
+            "短版：「員工旅遊問卷三個選項：溫泉區、溫泉區旁邊的湖、以上皆可。」",
+            "延伸版：「在一張只有一個答案的選擇題裡，全體通過是遲早的事。」"
+          ]
+        },
+        "en": {
+          "content": "Every year around now, the staff committee sends out a survey: where should we go for the company trip?\n\nIt is a deeply democratic survey.\n\nQuestion one, pick one of three. Option A: a hot spring town down south. Option B: the lake next to that hot spring town. Option C: either is fine.\n\nQuestion two asks your preferred length. The choices are 'two days, one night' and 'two days, one night (early bird rate).'\n\nQuestion three is open-ended. Other suggestions, please feel free to share.\n\nI typed a careful sixty words into question three. I suggested somewhere closer for the people based up north, or, if turnout was going to be low anyway, whether we could convert it into equivalent time off.\n\nTwo weeks later the announcement went out.\n\nThat hot spring town. Two days, one night.\n\nThe last line read: 'Thank you all for voting. This itinerary reflects the choice of the majority of our colleagues.'\n\nWhich is completely accurate.\n\nOn a multiple choice question with exactly one answer, unanimity was only a matter of time.",
+          "editorNote": "Drop it in a DM the moment the 'company trip survey, please complete by Friday' message hits the group chat.",
+          "variations": [
+            "Short: 'Company trip survey options: the hot spring town, the lake beside the hot spring town, or either is fine.'",
+            "Extended: 'On a multiple choice question with exactly one answer, unanimity was only a matter of time.'"
+          ]
+        }
+      }
     }
   ]
 }

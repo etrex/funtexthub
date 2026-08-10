@@ -9452,6 +9452,127 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-326",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://news.tvbs.com.tw/life/3197047",
+      "sourceNote": "Inspired by TVBS 2026-05 「大夜班沒人要做？超商店員吐心聲」 report and its shift breakdown (洗機台／挑報廢／進貨); rewritten as 「客人不在的那六小時最重」 original framing",
+      "tags": [
+        "服務業",
+        "厭世",
+        "工時",
+        "缺工",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「大夜比較涼吧，又沒什麼客人。」\n十點到十二點，洗兩台咖啡機、挑報廢。\n十二點到一點，把報廢一項一項刷進系統。\n一點以後開始進貨，一箱一箱搬到天亮。\n中間還有掃地、拖地、洗廁所、補鮮食。\n先生，大夜沒客人是真的，\n但客人不在的那六個小時，\n不是留給我休息的，\n是留給我一個人做完三個人的事。\n門上那張徵人啟事貼了半年，\n不是因為大家怕黑。",
+          "editorNote": "傳給天亮才下班的大夜同事。外面總說大夜輕鬆，只有你知道沒有客人的那六小時，才是最重的六小時。",
+          "variations": [
+            "大夜不是沒有事，是沒有人看見你在做事。",
+            "這一班最累的部分，剛好發生在沒有人會經過的時間。"
+          ]
+        },
+        "en": {
+          "content": "\"Night shift must be easy. Nobody even comes in.\"\nTen to midnight: scrub two coffee machines, pull everything expiring.\nMidnight to one: scan every one of those items into the system.\nOne onward: unload the delivery, box by box, until the sky changes color.\nSomewhere in there: sweep, mop, clean the restroom, restock.\nYou're right, sir. Nobody comes in.\nBut those six empty hours aren't given to me to rest in.\nThey're given to me to do three people's work alone.\nThat help-wanted sign has been taped to the door for six months,\nand it isn't because people are afraid of the dark.",
+          "editorNote": "For anyone who clocks out at sunrise. Everyone assumes overnight is the easy shift — only you know the hours with no customers are the heaviest hours.",
+          "variations": [
+            "The night shift isn't empty. It's just unwitnessed.",
+            "The hardest part of this shift happens when there's nobody around to walk past it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-327",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://udn.com/news/story/120911/9444920",
+      "sourceNote": "Inspired by 聯合新聞網 2026 「非24小時超商變多了？店員曝辛酸」 and the 「挑報廢」 duty described in it; rewritten as 「一天最餓的時候，親手把十二個晚餐刷成報廢」 original framing",
+      "tags": [
+        "服務業",
+        "厭世",
+        "心聲",
+        "零售"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "十一點五十分，我站在鮮食櫃前面，\n把還冰著、封膜完好的便當一個一個刷過條碼。\n螢幕跳出「報廢」，\n我再親手放進黑色的袋子裡。\n規定寫得很清楚：不能帶走，不能吃。\n那是我一天裡最餓的時間，\n手上抱著十二個晚餐，\n沒有一個是我的。\n我不是想爭那一個便當，\n我只是每天都得站在垃圾袋前面，\n說服自己這件事很合理。",
+          "editorNote": "傳給每天親手把還能吃的東西刷成報廢的人。這不是在抱怨制度，是那個動作做了幾百次，還是不會變得比較輕。",
+          "variations": [
+            "這份工作最重的不是搬貨，是丟掉還好好的東西。",
+            "今天有十二個晚餐從我手上經過，沒有一個是我的。"
+          ]
+        },
+        "en": {
+          "content": "11:50 p.m. I'm standing at the chilled case,\nscanning boxed dinners one at a time — still cold, seals unbroken.\nThe screen says DISPOSE.\nThen I put each one into a black bag with my own hands.\nThe rule is clear: can't take it home, can't eat it.\nThis is the hungriest hour of my day\nand I'm holding twelve dinners,\nnone of them mine.\nI'm not trying to win an argument over one lunchbox.\nI just have to stand in front of that bag every night\nand talk myself into believing it makes sense.",
+          "editorNote": "For everyone whose job includes scanning perfectly good food into the trash. Not a policy complaint — just the fact that the motion never gets lighter, no matter how many hundred times you do it.",
+          "variations": [
+            "The heaviest part of this job isn't lifting. It's throwing away things that are still fine.",
+            "Twelve dinners passed through my hands tonight. Not one of them was mine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-328",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://udn.com/news/story/120911/6242139",
+      "sourceNote": "Inspired by 聯合新聞網 「客怨飲料多仍不願買塑膠袋，態度差讓店員無奈」 rumor-board story; rewritten as 「那一塊不是我的，我送您的那個才是」 original framing",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "收銀"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三杯熱拿鐵，我問要不要提袋，一個一塊。\n「一塊也要收？你們是在賺這個喔？」\n於是他兩手抱著三杯滿到杯緣的熱飲往外走，\n到門口停下來，回頭看我。\n我還是拿了一個袋子給他，沒有刷。\n他說：「早講嘛。」\n先生，那一塊錢從來不是我的，\n它寫在法規裡、扣在系統裡、印在您的發票上。\n剛剛送您的那個袋子，\n才是我自己的。",
+          "editorNote": "傳給每天為了一塊錢被質疑的收銀同事。袋子的價錢不是門市訂的，但被念的永遠是遞袋子的那個人。",
+          "variations": [
+            "收那一塊的是系統，被罵的是我。",
+            "我沒有在賺您那一塊，我只是負責把它念出來的那個人。"
+          ]
+        },
+        "en": {
+          "content": "Three hot lattes. I asked if he wanted a carrier — one dollar.\n\"You charge for that too? Making money off me now?\"\nSo he walked out cradling three cups filled to the rim,\nstopped at the door, and looked back at me.\nI handed him a carrier anyway. Didn't ring it up.\n\"You could've just said so.\"\nSir, that dollar was never mine.\nIt's written into the law, deducted by the system, printed on your receipt.\nThe bag I just gave you —\nthat one was mine.",
+          "editorNote": "For cashiers who get accused of profiteering over one dollar, every single day. Nobody behind the counter set that price, but the person handing you the bag is the one who hears about it.",
+          "variations": [
+            "The system charges the dollar. I collect the complaint.",
+            "I'm not profiting off you. I'm just the one required to say the number out loud."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-329",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://news.cts.com.tw/cts/life/202605/202605183032751.html",
+      "sourceNote": "Inspired by 華視 2026-05 量販店「售完為止」購物袋話題，特別是「門市無法決定到貨量」這一面向；rewritten as 集點贈品兌換櫃前的門市現場 — original framing",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "客人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「集點那隻公仔，我要三隻。」\n「不好意思，昨天就換完了。」\n「怎麼可能，是不是你們自己人先拿走？」\n先生，我這一檔一隻都沒有。\n分配到幾隻不是我決定的，\n什麼時候到貨也不是我決定的，\n我唯一能決定的，\n是我要用什麼表情，\n第四十七次說出「真的換完了」。\n那個櫃子是空的，\n不是被誰藏起來，\n是它從來就沒有滿過。",
+          "editorNote": "傳給活動檔期站在兌換櫃前的人。贈品的數量從來不是門市能控制的，但客人只看得到你，所以那句「沒有了」只能由你說。",
+          "variations": [
+            "我沒有把贈品藏起來，我只是最後一個知道它沒到貨的人。",
+            "公司負責宣傳「換到手軟」，我負責說「真的沒有了」。"
+          ]
+        },
+        "en": {
+          "content": "\"The figure from the stamp promo. I want three.\"\n\"I'm sorry, we ran out yesterday.\"\n\"No way. You people took them for yourselves, didn't you?\"\nSir, I didn't get a single one this round.\nI don't decide how many this store is allocated.\nI don't decide when they arrive.\nThe only thing I get to decide\nis what my face does\nwhile I say \"they're really gone\" for the forty-seventh time.\nThat shelf isn't empty because someone hid them.\nIt's empty because it was never full.",
+          "editorNote": "For whoever gets stuck at the redemption counter during a promo. Store staff never control the allocation, but the customer only sees you — so \"we're out\" has to come out of your mouth.",
+          "variations": [
+            "I'm not hiding the prizes. I'm just the last person to find out they never shipped.",
+            "Corporate runs the campaign. I deliver the sentence \"we're out.\""
+          ]
+        }
+      }
     }
   ]
 }

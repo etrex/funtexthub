@@ -4961,6 +4961,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-166",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://parade.com/living/school-memes",
+      "sourceNote": "開學座位安排 迷因改寫",
+      "tags": [
+        "開學",
+        "上課",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學第一天，座位表貼在教室門口，我從最後一排開始往前找，\n一路找到講台正前方，才看到自己的名字。這學期我不用擔心會分心了，因為老師的視線就是我的桌墊。",
+          "editorNote": "適合開學看到座位表、發現自己被排到第一排那天發，被老師近距離籠罩過的人都懂。",
+          "variations": [
+            "也能換成：「坐第一排唯一的好處是我一定會抬頭，唯一的壞處是我抬頭一定會對到眼。」",
+            "進階版：「別人上課是聽課，我上課是全程被近距離監控。」"
+          ]
+        },
+        "en": {
+          "content": "First day back, the seating chart goes up by the classroom door. I start scanning from the back row and work forward,\nand I don't find my name until the desk directly facing the podium. No worries about getting distracted this term — the teacher's line of sight is basically my desk mat.",
+          "editorNote": "For the day the seating chart lands you in the front row. Anyone who's been within arm's reach of the teacher all semester gets it.",
+          "variations": [
+            "Swap in: \"The only upside of the front row is that I'll definitely look up. The only downside is that looking up means eye contact.\"",
+            "Harder mode: \"Everyone else attends class. I get monitored at close range for fifty minutes.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-167",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "校園生活",
+        "大學生",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "校務系統又跳出通知，說我的密碼過期了，請設定一組從來沒用過的。\n於是我把用了三年的那組後面加一，然後很有信心地告訴自己：這是全新的我。",
+          "editorNote": "適合註冊、選課前被系統逼著改密碼那天發，每學期都在原地打轉的人會笑出來。",
+          "variations": [
+            "也能換成：「我的資安意識，全靠系統每學期提醒我一次。」",
+            "進階版：「我的密碼記得很牢，牢到我可以照順序背出前面三個版本。」"
+          ]
+        },
+        "en": {
+          "content": "The school portal pops up again to tell me my password has expired and I need one I've never used before.\nSo I took the one I've had for three years and added a 1 to the end, then told myself with total confidence: this is a brand-new me.",
+          "editorNote": "For the forced password reset before registration or course selection — anyone running in place every semester will laugh.",
+          "variations": [
+            "Swap in: \"My entire security awareness runs on one reminder from the portal per semester.\"",
+            "Harder mode: \"I know my password by heart — well enough to recite the previous three versions in order.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-168",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.studyunicorn.com/blogs/back-to-school-memes-funny-pics",
+      "sourceNote": "開學前趕作業 迷因改寫",
+      "tags": [
+        "作業",
+        "暑假",
+        "開學",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前一晚，班群傳作業傳得比整個暑假都還熱絡。\n隔天老師發現有六個人的第三題錯得一模一樣，連那個多打的逗號都停在同一個位置。",
+          "editorNote": "適合開學前一晚全班互相支援暑假作業時發，抄過也被抄過的人都會心虛地笑。",
+          "variations": [
+            "也能換成：「我不是抄，我只是很尊重原作者的每一個細節。」",
+            "進階版：「抄的時候記得故意改錯一題，這是我國中就學會的風險管理。」"
+          ]
+        },
+        "en": {
+          "content": "The night before school starts, the class group chat is livelier than it was all summer, homework flying in every direction.\nThe next day the teacher noticed six people got question three wrong in exactly the same way — right down to the extra comma sitting in the exact same spot.",
+          "editorNote": "For the night-before homework relay. Anyone who's copied — or been copied from — will laugh a little guiltily.",
+          "variations": [
+            "Swap in: \"I didn't copy, I simply respected every detail of the original author's work.\"",
+            "Harder mode: \"Always get one answer wrong on purpose. That's risk management I learned in middle school.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-169",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "開學",
+        "校園生活",
+        "同學",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學第一週分掃地區域，我抽到廁所。\n全班安慰我說「廁所很快就掃完啦」，而講這句話的人，剛好全部都抽到走廊。",
+          "editorNote": "適合開學分配打掃工作、抽到最雷那區那天發，被安慰得很敷衍的人特別有感。",
+          "variations": [
+            "也能換成：「我對這個班最大的貢獻，寫在掃具間門口那張名單上。」",
+            "進階版：「別人放學是回家，我放學是先去把三間廁所巡完。」"
+          ]
+        },
+        "en": {
+          "content": "First week back, we drew lots for cleaning duty and I pulled the bathrooms.\nThe whole class reassured me that \"bathrooms go fast, don't worry\" — and every single person who said that had drawn the hallway.",
+          "editorNote": "For the day cleaning duties get assigned and you pull the worst zone. Hits hardest if the sympathy felt very cheap.",
+          "variations": [
+            "Swap in: \"My greatest contribution to this class is written on the list taped to the supply closet door.\"",
+            "Harder mode: \"Everyone else goes home after class. I go check three bathrooms first.\""
+          ]
+        }
+      }
     }
   ]
 }

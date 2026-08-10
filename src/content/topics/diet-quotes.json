@@ -10243,6 +10243,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-350",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://irunner.biji.co/",
+      "sourceNote": "2026 秋冬路跑賽事八月底截止報名的資訊，改寫為「報名即開始備賽補碳水」的自嘲情境",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "運動",
+        "藉口",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我報名了十二月的路跑，十公里組，報名費九百塊。\n\n按下確認的那一刻，我的身分就變了：我不是一個想減肥的人，我是選手。\n\n選手是要備賽的，備賽的第一步就是補碳水。所以那天晚上我吃了一碗牛肉麵、半份燒餅，還跟老闆多要一顆滷蛋，全部登記在「肝醣超補」那一欄。\n\n距離比賽還有四個月，我目前的訓練量是每天走去便利商店，補給量倒是完全跟上國際水準。\n\n那九百塊我一點都不心疼——我買的不是賽事，是一個可以理直氣壯吃澱粉的頭銜。",
+          "editorNote": "適合手滑報名秋冬賽事之後，或想解釋自己為什麼運動量還沒增加、食量先增加的時候",
+          "variations": [
+            "我報名的是十公里，目前完成度最高的項目是補給站。",
+            "報名費最大的功能，是讓我吃第二碗的時候不用另外找理由。"
+          ]
+        },
+        "en": {
+          "content": "I signed up for a 10K in December. Entry fee: thirty bucks.\n\nThe second I hit confirm, my identity changed. I'm not someone trying to lose weight anymore. I'm an athlete.\n\nAthletes have to train, and training starts with carb loading. So that night I had a bowl of beef noodles, half a scallion pancake, and an extra braised egg, all filed under glycogen strategy.\n\nThe race is four months out. My current training volume is walking to the convenience store. My fueling volume is already world class.\n\nI don't regret the entry fee at all. I didn't buy a race. I bought a job title that lets me eat carbs with a straight face.",
+          "editorNote": "For the week after you impulse-register for a fall race, or when your appetite starts training months before your legs do",
+          "variations": [
+            "I registered for the 10K. So far the only leg I've mastered is the aid station.",
+            "The entry fee's real function is letting me order seconds without an explanation."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-351",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://oghome.com.tw/sleep-lose-weight/",
+      "sourceNote": "睡眠不足與飢餓素、瘦體素關係的科普報導，改寫為「深夜行為由荷爾蒙代簽」的免責自嘲",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "詭辯",
+        "冰箱",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我讀到一篇文章，說睡不飽的時候，身體會多分泌叫你吃的那種荷爾蒙，少分泌讓你覺得飽的那一種。\n\n看完我整個人如釋重負。\n\n原來凌晨一點半站在冰箱前面的那個人，嚴格說起來不完全是我。那是荷爾蒙代表我出席，我只是把身體借它用一下，事後才收到帳單。\n\n所以我現在的生活非常有邏輯：晚上熬夜滑手機，隔天理直氣壯地吃，吃太飽又睡不好，於是繼續熬夜。\n\n這個循環唯一的出口是「早點睡」，而那剛好是整篇文章裡，我全身上下最做不到的一件事。",
+          "editorNote": "適合連續熬夜之後食慾特別好的隔天，或想把責任推給生理機制、但自己也知道站不住腳的時候",
+          "variations": [
+            "深夜那些決定都不是我簽的，是荷爾蒙代簽的，我隔天早上才知道。",
+            "我知道解法是早點睡，可惜那是整份研究裡我唯一執行不了的部分。"
+          ]
+        },
+        "en": {
+          "content": "I read a piece saying that when you're short on sleep, your body makes more of the hormone that says eat and less of the one that says you're full.\n\nHonestly? Relief.\n\nSo the person standing in front of the fridge at one thirty in the morning is, strictly speaking, not entirely me. That's the hormones attending on my behalf. I just lend them the body and get the bill later.\n\nMy life runs on very clean logic now: stay up scrolling, eat with total confidence the next day, sleep badly because I ate too much, stay up again.\n\nThe only exit from the loop is going to bed earlier, which happens to be the one instruction in the whole article I am completely unable to follow.",
+          "editorNote": "For the morning after a third night of bad sleep, or when you want to blame biology and know it's a stretch",
+          "variations": [
+            "Nothing decided after midnight was signed by me. The hormones have power of attorney.",
+            "I know the fix is sleeping earlier. That's the single part of the research I can't execute."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-352",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.mohw.gov.tw/cp-2652-22307-1.html",
+      "sourceNote": "衛福部「聰明吃、快樂動」減重衛教內容，反向改寫為家庭餐桌清盤的自嘲情境",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "食物",
+        "詭辯",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽煮飯永遠會多煮兩人份，理由是「怕不夠」。\n\n吃到最後，桌上剩三塊排骨、半碗滷肉，還有那盤沒人敢動的炒青菜。她會很自然地看向我。\n\n於是我把它們全部解決掉，一邊解決一邊在心裡替自己頒獎：這不是嘴饞，這是永續。我是這個家唯一的資源回收系統，而且不用插電。\n\n只是這套系統有個設計上的缺陷——回收進去的東西全部留在系統裡面，沒有出口。\n\n上禮拜我媽說我看起來圓了一點。我看著她，她看著那盤還沒收的菜，我們都沒有說話。",
+          "editorNote": "適合週末回家吃飯被要求清盤的那天，或想解釋自己為什麼在家反而更容易吃多",
+          "variations": [
+            "我不是吃太多，我是全家的廚餘處理設備，人力驅動，環保效率極高。",
+            "這個家最沒有出口的地方不是廚房，是我。"
+          ]
+        },
+        "en": {
+          "content": "My mom always cooks for two extra people, on the grounds that there might not be enough.\n\nBy the end of dinner there are three ribs left, half a bowl of braised pork, and the plate of greens nobody touched. She looks at me. Naturally.\n\nSo I clear all of it, handing myself an award the entire time: this isn't snacking, this is sustainability. I am the only recycling system in this house, and I don't even need to be plugged in.\n\nThe system does have one design flaw. Everything that goes in stays in. There is no outlet.\n\nLast week Mom mentioned I look a little rounder. I looked at her, she looked at the leftovers, and neither of us said a word.",
+          "editorNote": "For the Sunday dinner where finishing the table is treated as a family duty, or when eating at home somehow beats eating out",
+          "variations": [
+            "I'm not overeating. I'm the household composting unit, human-powered, extremely efficient.",
+            "The place with no outlet in this house isn't the kitchen. It's me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-353",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://health.tvbs.com.tw/nutrition/356488",
+      "sourceNote": "減重衛教報導強調長期規劃與循序漸進，反向改寫為「節慶禮盒早鳥預購比減肥計畫更有執行力」",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "食物",
+        "甜點",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "八月中，超商的看板已經在賣中秋禮盒了，還寫著早鳥預購八折、九月底出貨。\n\n我站在櫃檯前面認真想了三十秒，然後預購了兩盒蛋黃酥。\n\n這是我今年唯一一件提前一個半月規劃、而且確定會準時執行的事。\n\n我的減肥計畫從來只有現貨版本，永遠是「明天開始」，沒有預購制度，也從來沒有人幫我留貨。\n\n食品業比我懂長期投資。他們八月就開始佈局九月的我，而九月的我，八月就已經投降了。",
+          "editorNote": "適合看到節慶商品提早開賣的時候，或想吐槽自己對美食比對計畫更有執行力的日常",
+          "variations": [
+            "我對未來唯一有具體規劃的事，是九月底那兩盒蛋黃酥。",
+            "連食物都懂得提前預購了，我的意志力還在等現貨到貨。"
+          ]
+        },
+        "en": {
+          "content": "It's mid-August and the convenience store board is already selling Mid-Autumn gift boxes. Early-bird preorder, twenty percent off, ships late September.\n\nI stood at the counter thinking it over for a solid thirty seconds, then preordered two boxes of egg yolk pastries.\n\nThat is the only thing all year I have planned six weeks ahead and will absolutely follow through on.\n\nMy diet plan only comes in the in-stock version. It always starts tomorrow, there's no preorder option, and nobody is holding one aside for me.\n\nThe food industry understands long-term investment better than I do. In August they're already positioning for September me. September me surrendered back in August.",
+          "editorNote": "For the moment holiday treats show up on shelves a month early, or when your follow-through works better on dessert than on plans",
+          "variations": [
+            "The only concrete plan I have for the future is two boxes of pastries in late September.",
+            "Even food knows how to preorder. My willpower is still waiting for restock."
+          ]
+        }
+      }
     }
   ]
 }

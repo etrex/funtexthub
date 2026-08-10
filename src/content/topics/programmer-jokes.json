@@ -11978,6 +11978,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-414",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/",
+      "sourceNote": "Classic essay on the wrong assumptions built into name fields; used as inspiration for a story about validation rules quietly deciding who counts as a person",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "程式碼品質",
+        "維護"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客服轉來一封信，標題是：我沒有辦法註冊。\n寄件人的名字中間有一個間隔號。我們的表單回他：姓名只能填中文字。\n那條規則是九年前寫的，寫的人早就不在公司了。\n我改好、上線、回信跟他說可以了。\n三天後又一封：某位客戶的全名有二十一個字，我們的欄位只收十個。我又改。\n第五天，有個字全台灣大概只有他們家在用，我們的字型把它畫成一個空白方框。\n現在那個欄位什麼都收，連我看不懂的字都收。\n主管問我這三個禮拜在忙什麼，我說：讓十一個人可以登入。\n他說：才十一個人喔。\n我說：對。因為我們原本有一條規則，在決定誰算是一個人。",
+          "editorNote": "適合在會議上有人說「這個欄位加個檢查擋一下就好」的時候貼出來。",
+          "variations": [
+            "短版：每一條姓名格式檢查的背後，都站著一個進不來的人。",
+            "延伸：我把那條規則刪掉之後，測試紅了十四個。它們全部都在確認我們擋得夠嚴。"
+          ]
+        },
+        "en": {
+          "content": "Support forwarded an email. Subject line: I can't create an account.\nThe sender's name has a separator character in the middle of it. Our form told him names may only contain letters.\nThat rule was written nine years ago by someone who left the company long before I got here.\nI fixed it, shipped it, and wrote back to say he was good to go.\nThree days later, another one: a customer's full name is twenty-one characters. Our field takes ten. I fixed that too.\nDay five: a character so rare that our font renders it as an empty box.\nThat field now accepts everything, including things I can't read.\nMy manager asked what I'd been doing for three weeks. I said: letting eleven people log in.\nHe said: only eleven?\nI said: yes. Because we had a rule that was deciding who counts as a person.",
+          "editorNote": "Drop it in the thread the moment someone says \"just add validation on that field and we're done.\"",
+          "variations": [
+            "Short version: behind every name-format rule is a real person locked out of the front door.",
+            "Extension: when I deleted the rule, fourteen tests went red. Every one of them was confirming we blocked hard enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-415",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://medium.com/javarevisited/when-log-debug-killed-production-6674cc93600f",
+      "sourceNote": "2026 writeup on a single leftover debug log line taking down production; reworked into a story where the fix from the last incident becomes the cause of the next one",
+      "tags": [
+        "除錯",
+        "黑色幽默",
+        "production",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點，資料庫寫不進去。硬碟滿了。\n清空間的時候，我看到一個日誌檔，一百四十七 GB。\n打開來，裡面是同一行訊息，重複了幾億次。\n那行是三個月前加的。\n三個月前也是硬碟滿了。事後檢討會的行動項目寫著：補上磁碟空間的紀錄，下次比較好查。\n我們確實補了，每三秒一筆，而且從來沒有人關掉。\n這次確實比較好查。\n因為它就是原因。",
+          "editorNote": "適合貼在事後檢討會的行動項目底下，提醒大家「加個紀錄」也是一次改動，也會有它自己的事故。",
+          "variations": [
+            "短版：上一次事故留下的行動項目，變成這一次事故的根因。",
+            "延伸：這次的行動項目是：幫日誌加上輪替。負責人欄位填的名字，跟三個月前那次一模一樣。"
+          ]
+        },
+        "en": {
+          "content": "Two in the morning. The database can't write. Disk is full.\nWhile clearing space I notice one log file sitting at 147 GB.\nI open it. It's the same line, repeated a few hundred million times.\nThat line went in three months ago.\nThree months ago the disk also filled up. The action item from that postmortem read: add disk-space logging so this is easier to diagnose next time.\nWe added it. One entry every three seconds. Nobody ever turned it off.\nIt was easier to diagnose this time.\nBecause it was the cause.",
+          "editorNote": "Paste it under the action items in your next postmortem, as a reminder that \"just add some logging\" is a change like any other.",
+          "variations": [
+            "Short version: last incident's action item is this incident's root cause.",
+            "Extension: the new action item is to add log rotation. The owner field has the same name on it as the one from three months ago."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-416",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.easasoftware.com/insights/shadow-spreadsheet-risks/",
+      "sourceNote": "Article on shadow spreadsheets quietly holding a company's real business rules; reworked into a story about a rule that never made it into the spec",
+      "tags": [
+        "職場",
+        "黑色幽默",
+        "工程師日常",
+        "溝通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們花了七個月，把業務的報價流程做成系統。\n上線那天很風光，主管還發了一封全公司信感謝工程團隊。\n三個月後我去業務部收使用回饋，看到他們螢幕上開著我們的系統——旁邊還開著一份試算表。\n他們的流程是：在試算表裡算完，再把結果打進我們的系統。\n我問為什麼，他們說：因為有一個欄位你們沒有做。\n我問是哪一個。\n他們把試算表往右捲了很久，停在最後一欄。\n欄位名稱是：這個客戶好不好講話。\n三個等級，決定最後折幾折。它在那份檔案裡放了十一年，從來沒有出現在任何一份規格書上。",
+          "editorNote": "適合在需求訪談之前傳給團隊，提醒大家先去看使用者真正每天打開的那個檔案。",
+          "variations": [
+            "短版：我們做了系統，他們留著試算表。真正的規則在試算表裡。",
+            "延伸：我們把那一欄做進系統，改名叫「客戶關係係數」。業務看了一眼說：這樣顯示在螢幕上，客戶會看到吧。"
+          ]
+        },
+        "en": {
+          "content": "We spent seven months turning the sales quoting process into a proper system.\nLaunch day was a triumph. Our manager sent a company-wide email thanking the engineering team.\nThree months later I sat with the sales team to collect feedback, and saw our system open on their screen — next to a spreadsheet.\nTheir workflow: do the math in the spreadsheet, then type the result into our system.\nI asked why. They said: because there's a column you didn't build.\nI asked which one.\nThey scrolled right for a long time and stopped at the last column.\nIts header read: how easy is this customer to deal with.\nThree levels, and it decides the final discount. It has lived in that file for eleven years and has never appeared in a single spec.",
+          "editorNote": "Send it to the team before discovery interviews, as a reminder to go look at the file your users actually open every morning.",
+          "variations": [
+            "Short version: we built the system, they kept the spreadsheet, and the real rules stayed in the spreadsheet.",
+            "Extension: we shipped the column as \"customer relationship coefficient.\" Sales took one look and said: if that's on screen, the customer can see it, right?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-417",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://github.com/kdeldycke/awesome-falsehood",
+      "sourceNote": "Collection on wrong assumptions about phone numbers and test data; reworked into a story about seed data escaping into production",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "測試",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "五年前我寫種子資料，隨手編了一個假客戶：陳大文，手機號碼是我當下在鍵盤上亂按的。\n上禮拜客服轉來一通電話。\n對方說：我這五年每個月都會收到一封簡訊，通知我的訂單已經出貨。我從來沒有跟你們買過任何東西。\n我們查了，那筆假資料在某一次資料搬遷的時候，被當成真客戶帶進了正式環境。\n從此每個月的例行測試，都會很認真地幫他出一次貨。\n他說一開始有點困擾，後來就習慣了。\n最後他問我：那我以後還會收到嗎？\n我聽得出來，他其實有一點希望會。",
+          "editorNote": "適合傳給正在用同事名字或隨手亂打的號碼當測試資料的人，提醒他假的東西也會活很久。",
+          "variations": [
+            "短版：我五年前在鍵盤上亂按的號碼，另一端真的有人在接。",
+            "延伸：刪掉那筆資料的那天下午，群組裡安靜得不太尋常。"
+          ]
+        },
+        "en": {
+          "content": "Five years ago I wrote the seed data and made up a fake customer: Dave Chen, with a phone number I got by mashing the keypad.\nLast week support forwarded a call.\nThe man said: every month for five years I've gotten a text telling me my order has shipped. I have never bought anything from you.\nWe dug in. During a migration, that fake row got carried into production as a real customer.\nEver since, the monthly smoke test has been diligently shipping him an order.\nHe said it bothered him at first, and then he got used to it.\nAt the end he asked: so will I still be getting them?\nI could hear it in his voice. He kind of hoped so.",
+          "editorNote": "Send it to whoever is filling test fixtures with coworkers' names and keypad-mashed numbers — fake data outlives you.",
+          "variations": [
+            "Short version: the number I mashed out five years ago has someone on the other end of it.",
+            "Extension: the afternoon we deleted that row, the team channel went unusually quiet."
+          ]
+        }
+      }
     }
   ]
 }

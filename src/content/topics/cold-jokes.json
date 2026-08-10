@@ -10873,6 +10873,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-417",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.dcard.tw/f/buyonline",
+      "sourceNote": "2026 年電商免運門檻／開學季湊單話題自製，站內尚無「湊免運」笑話；笑點在把省下的運費換算成一種自我感覺的定價，中英各自重寫",
+      "tags": [
+        "生活",
+        "日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我為了省六十塊運費，多買了三百八。」\n「那你省到了嗎？」\n「省到了，運費零元。」\n「⋯⋯所以你花三百八省六十？」\n「不是。我花三百八，買到一個『我很會算』的感覺。」\n「那個感覺多少錢？」\n「三百八。」",
+          "editorNote": "適合半夜結帳前手滑、隔天收到一箱用不到的東西時自嘲，也很適合傳給正在群組喊「還差多少湊免運」的朋友",
+          "variations": [
+            "短版：「湊免運是這世界上最貴的免費。」",
+            "加碼：「那你到底買了什麼？」「兩個手機架，還有一包我沒有那台機器的濾網。」"
+          ]
+        },
+        "en": {
+          "content": "\"I spent twelve extra dollars to avoid a two-dollar shipping fee.\"\n\"Did it work?\"\n\"Shipping: zero.\"\n\"...So you paid twelve to save two?\"\n\"No. I paid twelve for the feeling of being good with money.\"\n\"What's that feeling worth?\"\n\"Twelve dollars.\"",
+          "editorNote": "For the 1 a.m. checkout screen, and the box of things you didn't need showing up two days later",
+          "variations": [
+            "Short version: 'Free shipping is the most expensive free thing there is.'",
+            "Add-on: 'What did you actually buy?' 'Two phone stands and filters for a machine I don't own.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-418",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/index.html",
+      "sourceNote": "手機儲存空間不足題材自製，站內尚無相簿／容量相關笑話；笑點在「為了紀念清出空間而截圖」的自我矛盾，中英同構但字句各自重寫",
+      "tags": [
+        "科技",
+        "生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我手機一直說儲存空間不足。」\n「那你刪一點啊。」\n「刪了。刪掉四十張同一個角度的天空。」\n「空出多少？」\n「零點三 GB。」\n「那不是很好。」\n「然後我截了一張『已釋出空間』的圖留作紀念。」\n「⋯⋯你又用回去了。」\n「對，但這次是有意義的。」",
+          "editorNote": "適合在跳出「儲存空間不足」卻一張照片都捨不得刪的時候發，也適合形容任何整理到一半又補回去的整理術",
+          "variations": [
+            "短版：「我手機裡九成的照片，只是為了證明我到過那裡。」",
+            "加碼：「那你買雲端啊。」「買了。現在有兩個地方一起提醒我空間不足。」"
+          ]
+        },
+        "en": {
+          "content": "\"My phone keeps saying storage is full.\"\n\"So delete something.\"\n\"I did. Forty photos of the same patch of sky.\"\n\"How much did that free up?\"\n\"Zero point three gigs.\"\n\"That's something.\"\n\"Then I took a screenshot of the 'space freed' message to remember the moment.\"\n\"...And put it right back.\"\n\"Yes, but meaningfully this time.\"",
+          "editorNote": "For the storage-full popup you dismiss every day without deleting a single photo",
+          "variations": [
+            "Short version: 'Ninety percent of my camera roll exists to prove I was somewhere.'",
+            "Add-on: 'Just buy cloud storage.' 'I did. Now two places tell me I'm out of room.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-419",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://www.dcard.tw/f/talk",
+      "sourceNote": "八月開學季文具採購題材自製，站內文具梗只有辦公室擬人版，尚無「新學期決心」角度；笑點在新文具被完好保存成開學那天的樣子",
+      "tags": [
+        "校園",
+        "生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「開學前一天，我把文具全部換新的。」\n「這麼有決心？」\n「新筆袋、新筆記本、三支同款不同色的筆。」\n「然後呢？」\n「然後第三週，筆袋裡只剩一支跟同學借的、還寫不出來的筆。」\n「那些新的呢？」\n「還是新的。躺在抽屜裡，維持著我開學那天的樣子。」",
+          "editorNote": "開學倒數那幾天最有共鳴，也適合形容任何「工具買齊就等於做完一半」的計畫",
+          "variations": [
+            "短版：「買新文具不是在準備開學，是在準備感動自己。」",
+            "加碼：「那今年呢？」「今年我學乖了，只買一支。」「有用嗎？」「有，我第二週就弄丟了，非常有效率。」"
+          ]
+        },
+        "en": {
+          "content": "\"Night before school started, I replaced every pen I own.\"\n\"That's commitment.\"\n\"New pencil case, new notebook, three identical pens in different colors.\"\n\"And?\"\n\"By week three the case had one borrowed pen that doesn't write.\"\n\"Where are the new ones?\"\n\"Still new. In a drawer, exactly how I left them on day one.\"",
+          "editorNote": "For back-to-school week, or any project where buying the gear feels like finishing half the work",
+          "variations": [
+            "Short version: 'New school supplies aren't preparation. They're a mood.'",
+            "Add-on: 'What about this year?' 'I learned. I bought one pen.' 'Did it help?' 'I lost it in week two. Very efficient.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-420",
+      "dateAdded": "2026-08-10",
+      "sourceUrl": "https://neww.tw/jokeday/",
+      "sourceNote": "公司健檢報告題材自製，站內尚無健檢／紅字笑話；笑點在把「三年都一樣的醫囑」重新定義成穩定，中英各自重寫",
+      "tags": [
+        "職場",
+        "生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「公司健檢報告寄來了。」\n「怎麼樣？」\n「三個紅字。」\n「醫生怎麼說？」\n「多運動、早點睡、少吃一點。」\n「那跟去年一模一樣啊。」\n「對，跟前年也一樣。」\n「所以你完全沒改？」\n「不能這樣講。我這叫非常穩定。」",
+          "editorNote": "適合健檢報告寄到公司、整層樓互相比紅字的那個星期，也適合形容那種每年立同一個志願的人",
+          "variations": [
+            "短版：「我的健檢報告是全公司最有一致性的文件。」",
+            "加碼：「那明年呢？」「明年應該還是這三個，它們很念舊。」"
+          ]
+        },
+        "en": {
+          "content": "\"My annual checkup results came in.\"\n\"How was it?\"\n\"Three numbers flagged.\"\n\"What did the doctor say?\"\n\"Move more, sleep earlier, eat less.\"\n\"That's word for word what he said last year.\"\n\"And the year before.\"\n\"So you changed nothing?\"\n\"I wouldn't say that. I'd say I'm extremely consistent.\"",
+          "editorNote": "For the week the office checkup results land and everyone compares flagged numbers",
+          "variations": [
+            "Short version: 'My checkup report is the most consistent document in the company.'",
+            "Add-on: 'What about next year?' 'Same three, probably. They're loyal.'"
+          ]
+        }
+      }
     }
   ]
 }
