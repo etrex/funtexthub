@@ -11512,6 +11512,128 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-381",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.gliserland.com/2026%E5%B9%B48%E6%9C%88%E6%98%9F%E5%BA%A7%E9%81%8B%E5%8B%A2%EF%BD%9C12%E6%98%9F%E5%BA%A7%E6%84%9B%E6%83%85%E3%80%81%E5%B7%A5%E4%BD%9C%E3%80%81%E8%B2%A1%E9%81%8B%E3%80%81%E5%81%A5%E5%BA%B7%E8%88%87/",
+      "sourceNote": "月運勢文章都會附「幸運色、幸運數字」欄位，反推成「整篇只有幸運色會被真的執行」的自嘲；檔案內的 meta 條目寫的是解釋機制與被說中缺點，沒寫過每日運勢的閱讀順序",
+      "tags": [
+        "星座",
+        "運勢",
+        "自嘲",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每天早上那則運勢，真正的閱讀順序是這樣的：\n\n工作那段跳過、感情那段跳過、健康那段假裝有看，\n手指一路滑到最下面那行——\n「幸運色：綠色」。\n\n然後你打開衣櫃，\n把那件其實沒有很想穿的綠色 T 恤翻出來。\n\n不是因為你信。\n是因為那是整篇裡唯一一件你做得到的事。\n\n星座沒有改變你的一天，\n它只是幫你決定了今天穿哪一件。",
+          "editorNote": "適合轉給每天都會點開運勢、但只認真執行幸運色那一項的朋友",
+          "variations": [
+            "十二段運勢我一句都沒記住，但我記得今天要穿綠色。",
+            "運勢最實用的欄位在最下面那一行，其他都是氣氛。"
+          ]
+        },
+        "en": {
+          "content": "Here's how anyone actually reads their daily horoscope:\n\nSkip the work part. Skip the love part. Pretend to read the health part.\nScroll all the way down to the last line —\n\"Lucky color: green.\"\n\nThen you open your closet\nand dig out the green shirt you weren't planning to wear.\n\nNot because you believe it.\nBecause it's the only instruction in there you can actually follow.\n\nThe horoscope didn't change your day.\nIt just picked your outfit.",
+          "editorNote": "Send it to the friend who checks their horoscope every morning and only ever acts on the lucky color",
+          "variations": [
+            "I remembered zero percent of the forecast and one hundred percent of the color.",
+            "The only useful line is the last one. The rest is atmosphere."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-382",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://parade.com/living/zodiac-memes",
+      "sourceNote": "以各星座在群體場合分工的迷因為靈感，換成台灣的 KTV 包廂場景；檔案內的清單條目寫過聚會、剪頭髮、下午茶團購，沒寫過唱歌場合",
+      "tags": [
+        "星座",
+        "星座反應",
+        "聚會",
+        "社交",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一群人去 KTV，包廂裡的分工其實很固定：\n\n獅子座：第一首就是他，而且是那種需要先暖嗓的歌。唱完問一句「還可以吧」，但他心裡有答案。\n\n雙子座：麥克風從來不在他手上，他全程在講評。誰上一首走音、下一首是誰點的，他比機器還清楚。\n\n金牛座：坐最角落，兩小時只點兩首，但水果盤是他分的、飲料是他倒的。\n\n處女座：偷偷把待唱清單重排過，快歌慢歌交錯，還幫某個人卡了一首他一定會唱的。\n\n天秤座：整晚都在問「還有誰沒唱」。\n\n唱兩個小時，什麼都藏不住。",
+          "editorNote": "適合揪 KTV 之前先丟到群組，看誰第一個跳出來認領自己那一段",
+          "variations": [
+            "KTV 包廂是最誠實的星座測驗，兩小時就現形。",
+            "每個包廂都需要一個搶麥的、一個排歌的，跟一個負責切水果的。"
+          ]
+        },
+        "en": {
+          "content": "Take a group to karaoke and the roles sort themselves out fast:\n\nLeo: takes the first song, and it's the kind that needs a warm-up. Asks \"was that okay?\" already knowing.\n\nGemini: never holds the mic, commentates the entire night. Knows who went flat and who queued what, better than the machine does.\n\nTaurus: corner seat, two songs in two hours, but they're the one refilling everybody's drink.\n\nVirgo: quietly reorders the queue so fast and slow songs alternate, and slips in one song they know someone can nail.\n\nLibra: spends the night asking who hasn't had a turn yet.\n\nTwo hours in a small room and nobody hides anything.",
+          "editorNote": "Drop it in the group chat before a karaoke night and see who claims their line first",
+          "variations": [
+            "Karaoke is the most honest personality test there is.",
+            "Every room needs a mic hog, a queue manager, and someone handing out the fruit plate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-383",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.today.com/life/astrology/zodiac-memes-rcna140646",
+      "sourceNote": "以「星座被拿來當人格標籤」的迷因為靈感，改寫成台灣職場到職第一天的破冰場景；檔案內只有 zq-375 寫過報星座被自動接話，沒有寫過職場歸因",
+      "tags": [
+        "星座",
+        "星座社交",
+        "職場",
+        "自嘲",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "到職第一天，隔壁同事問你是什麼星座。\n\n那不是閒聊，那是在幫你開一個資料夾。\n\n從那天起——\n你會議記錄做得太細，是因為你那個星座；\n你午餐吃很久，是因為你那個星座；\n你堅持檔名一定要照日期開頭，也是因為你那個星座。\n\n好消息是，你以後犯錯都有現成的理由。\n壞消息是，你以後做對什麼，功勞也不算你的。",
+          "editorNote": "適合貼在新人報到那週的閒聊群組，或轉給那個一認識就先問你星座的同事",
+          "variations": [
+            "同事問我星座的那一天，我就被歸檔了。",
+            "在辦公室，星座是最快的自我介紹，也是最難撕掉的那張標籤。"
+          ]
+        },
+        "en": {
+          "content": "First day at the new job, someone asks what your sign is.\n\nThat's not small talk. That's them opening a file on you.\n\nFrom then on —\nyour meeting notes are too detailed because of your sign,\nyour lunch break runs long because of your sign,\nyou insist every filename starts with the date because of your sign.\n\nGood news: every mistake you make from here comes pre-explained.\nBad news: so does everything you get right.",
+          "editorNote": "Good for the group chat during someone's first week, or for the coworker who asks your sign before your name",
+          "variations": [
+            "The day a coworker asked my sign, I got filed.",
+            "At work, your sign is the fastest introduction and the hardest label to peel off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-384",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.boredpanda.com/interesting-funny-memes-astrology/",
+      "sourceNote": "以「星座解釋是事後才拿出來用的」這類迷因為靈感，寫成半夜偷查合盤的自嘲；避開真的斷言誰跟誰合不合，重點放在人的行為",
+      "tags": [
+        "星座",
+        "自嘲",
+        "關係",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒有人是先查完再交往的。\n\n都是在一起三個月之後，某天半夜睡不著，\n才偷偷把兩個人的生日打進去，按下那顆「開始分析」。\n\n畫面跳出來一段話：你們的溝通方式很不一樣，容易在同一個地方卡住。\n\n你看完，關掉網頁，\n第二天照常跟他一起吃早餐。\n\n那份分析從此只有一個用途——\n吵架吵到一半的時候，\n心裡默默冒出一句：「唉，早就有人講過了。」",
+          "editorNote": "適合傳給那個半夜偷查過、隔天假裝沒查過的朋友",
+          "variations": [
+            "查合盤不是拿來做決定的，是拿來吵架時嘆氣用的。",
+            "沒有人因為那段分析改變什麼，只是多了一句台詞。"
+          ]
+        },
+        "en": {
+          "content": "Nobody checks the chart before they start dating.\n\nIt's always three months in, some night you can't sleep,\nand you quietly type both birthdays in and hit analyze.\n\nUp comes a paragraph: you two communicate very differently and tend to get stuck in the same spot.\n\nYou read it, close the tab,\nand have breakfast with them the next morning like nothing happened.\n\nFrom then on that reading has exactly one use —\nmid-argument, a small voice in your head goes,\n\"yeah, somebody did warn me.\"",
+          "editorNote": "For the friend who looked it up at 2am and pretended the next day that they hadn't",
+          "variations": [
+            "You don't read the chart to decide anything. You read it so you have something to sigh about later.",
+            "Nobody changed a thing because of that paragraph. They just got a new line to say."
+          ]
+        }
+      }
     }
   ]
 }

@@ -11474,6 +11474,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-380",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.moa.gov.tw/",
+      "sourceNote": "中秋文旦習俗：剝下的柚子皮翻面做成帽子給小孩戴，是台灣中秋常見的親子畫面。以祖孫對話原創改寫",
+      "tags": ["中秋節", "家庭", "親子", "習俗", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「阿公，柚子皮先不要丟。」\n\n「你要拿來幹嘛？」\n\n「做帽子啊。你以前每年不是都幫我做一頂？」\n\n阿公拿刀在整顆柚子中間劃一圈，慢慢把皮整片剝下來，白色那面朝外，往我頭上一扣。\n\n我：「太小了。」\n\n阿公：「以前剛剛好。」\n\n我：「那是我以前頭比較小。」\n\n阿公沒說話，改削第二顆，這次留得深一點。戴上去，終於卡住了。\n\n弟弟在旁邊滑手機，抬頭看了一眼：「哥，你三十歲了。」\n\n我：「我知道。」\n\n弟弟：「⋯⋯那我也要一頂。」",
+          "editorNote": "中秋剝柚子、家裡剛好有長輩還會做柚子皮帽的時候",
+          "variations": [
+            "一句版：柚子皮帽早就戴不下了，只是這件事全家都沒有人提。",
+            "延伸版：我們拍了一張照。兩個大人各戴一頂柚子皮，阿公拿著刀站在後面，剛好被切在畫面外。"
+          ]
+        },
+        "en": {
+          "content": "\"Grandpa, don't throw out the pomelo peel.\"\n\n\"What do you want it for?\"\n\n\"A hat. You used to make me one every year.\"\n\nHe scored the peel all the way around the middle and worked it off in one piece, then set it on my head, white side out.\n\n\"Too small.\"\n\n\"It used to fit.\"\n\n\"My head used to be smaller.\"\n\nHe didn't answer. He started on a second pomelo and cut deeper this time. That one finally sat.\n\nMy brother looked up from his phone. \"You're thirty.\"\n\n\"I know.\"\n\n\"...Make me one too.\"",
+          "editorNote": "For peeling pomelos at Mid-Autumn when someone in the family still knows how to make the peel hat",
+          "variations": [
+            "One-liner: The pomelo hat stopped fitting years ago, and nobody in this family has ever brought that up.",
+            "Extended: We took a photo. Two grown men in peel hats, and Grandpa behind us with the knife, just outside the frame."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-381",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://shopee.tw/blog/hungry-ghost-festival/",
+      "sourceNote": "農曆七月期間部分民眾會把理髮、搬家等安排挪開，也有很多人完全照常；美髮業者常提到七月前後預約分布特別不平均。以店內對話原創改寫",
+      "tags": ["鬼月", "八月", "職場", "習俗", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「設計師，我下禮拜三想剪。」\n\n「下禮拜三⋯⋯確定？那天農曆已經七月了。」\n\n「有差嗎？」\n\n「有些客人會挪開，有些客人根本沒在管。我這邊兩種都收。」\n\n「那你怎麼排？」\n\n「會挪的那批全部擠在這幾天，沒在管的那批下個月才出現。所以我這禮拜忙到沒空吃飯，中間空一大段，收尾又爆滿。」\n\n「聽起來很難做。」\n\n「習慣了。反正我剪的是頭髮，不是日子。」\n\n「那你自己呢？」\n\n「我自己？上一次剪是三月。」",
+          "editorNote": "想約剪髮被提醒「那天農曆七月」，或身邊剛好一個會挪、一個完全不在意的時候",
+          "variations": [
+            "一句版：同一間店裡，避開的跟照常的坐在隔壁兩張椅子，鏡子裡看起來一模一樣。",
+            "延伸版：他後來把行事曆兩種日期都標起來，不是為了自己信什麼，是為了讓兩種客人都約得到。"
+          ]
+        },
+        "en": {
+          "content": "\"I'd like a cut next Wednesday.\"\n\n\"Next Wednesday... you sure? That's already in the seventh lunar month.\"\n\n\"Does that matter?\"\n\n\"Some clients move it. Some clients have never once thought about it. I take both.\"\n\n\"So how does your month look?\"\n\n\"Everyone who moves it piles into these few days, and everyone who doesn't shows up next month. This week I don't get lunch, then it goes quiet, then the end fills right up again.\"\n\n\"Sounds rough.\"\n\n\"You get used to it. I cut hair, not calendars.\"\n\n\"What about your own?\"\n\n\"Mine? Last time was March.\"",
+          "editorNote": "For when someone flags the lunar date on your haircut booking, or when the people around you split evenly on whether it matters",
+          "variations": [
+            "One-liner: In the same shop, the ones who moved it and the ones who didn't sit in neighboring chairs and look identical in the mirror.",
+            "Extended: He ended up marking both calendars on the wall, not because he follows either, but so both kinds of clients can find a slot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-382",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.ezp.com.tw/article-83.html",
+      "sourceNote": "公司普渡常見罐頭塔與普渡箱，拜完後供品多半當場分給員工；以辦公室場景原創改寫",
+      "tags": ["中元節", "職場", "八月", "黑色幽默", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司普渡的罐頭塔拆下來那一刻，比尾牙抽獎還熱鬧。\n\n行政在旁邊喊：「一人兩罐，先拿先贏。」\n\n三分鐘後，鳳梨、麵筋、八寶粥全部清空。\n\n剩下最底下一整層，二十四罐涼拌沙拉筍。\n\n行政：「這個也要拿。」\n\n沒有人動。\n\n主管出面：「一人再一罐。」\n\n還是沒有人動。\n\n那二十四罐最後被搬進茶水間的櫃子。\n\n去年那批，還在下面那一格。",
+          "editorNote": "公司普渡拜完分供品、櫃子裡永遠躺著沒人要的那幾罐的時候",
+          "variations": [
+            "一句版：罐頭塔真正的謎題不是誰疊的，是最底下那層明年還在不在。",
+            "延伸版：今年有人提議底層改放咖啡。結果咖啡三十秒就沒了，沒人要的變成隔壁那層的餅乾。"
+          ]
+        },
+        "en": {
+          "content": "The moment they broke down the canned-goods tower after the office offering, it got louder than the year-end raffle.\n\nAdmin called out: \"Two cans each, first come first served.\"\n\nThree minutes later the pineapple, the braised gluten and the eight-treasure porridge were gone.\n\nWhat was left was the entire bottom layer. Twenty-four cans of pickled bamboo shoot salad.\n\nAdmin: \"These count too.\"\n\nNobody moved.\n\nThe manager stepped in. \"One more can each.\"\n\nStill nobody moved.\n\nThe twenty-four cans went into the cabinet in the pantry.\n\nLast year's batch is still on the shelf below.",
+          "editorNote": "For the office offering wrap-up, when the good cans vanish and the pantry cabinet keeps the rest forever",
+          "variations": [
+            "One-liner: The real mystery of the canned tower isn't who stacked it, it's whether the bottom layer will still be there next year.",
+            "Extended: Someone suggested putting coffee on the bottom layer this year. The coffee lasted thirty seconds, and the cabinet just filled up with crackers instead."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-383",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://shopee.tw/blog/zhongyuan-festival/",
+      "sourceNote": "2026 年中元節為農曆七月十五、國曆 8/27（週四）；以「生日剛好落在這天」的家庭對話原創改寫",
+      "tags": ["中元節", "八月", "家庭", "溫馨", "節日限定"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你生日什麼時候？」\n\n「農曆七月十五。」\n\n「⋯⋯喔。」\n\n「你這個『喔』有很多層。」\n\n「沒有啦，我在算今年是幾號。」\n\n「今年八月二十七。我從小到大，蛋糕都跟供桌同一天出現。」\n\n「會不會覺得怪？」\n\n「小時候會。同學說我很厲害，生日那天全國都在忙。」\n\n「那現在呢？」\n\n「現在覺得賺到。那天我媽一定在家，一定煮一整桌，全家一定到齊。」\n\n「因為要拜拜。」\n\n「對，然後順便幫我唱生日快樂。」\n\n「順便？」\n\n「我不介意。一年就那天，人一個都不會少。」",
+          "editorNote": "身邊有人生日剛好落在農曆七月十五、或自己就是那個人的時候",
+          "variations": [
+            "一句版：我的蛋糕永遠是那天桌上最後一道，也永遠是唯一一道大家會一起唱歌的。",
+            "延伸版：去年蛋糕被放到供桌旁邊，我媽端起來說：這個不用，這個是他的。"
+          ]
+        },
+        "en": {
+          "content": "\"When's your birthday?\"\n\n\"The fifteenth of the seventh lunar month.\"\n\n\"...Oh.\"\n\n\"That 'oh' had a lot of layers.\"\n\n\"No, I was doing the math on what date that lands on.\"\n\n\"August 27th this year. My whole life, the cake has arrived on the same day as the offering table.\"\n\n\"Does that feel strange?\"\n\n\"It did as a kid. Classmates told me I was a big deal, the whole country is busy on my birthday.\"\n\n\"And now?\"\n\n\"Now I think I came out ahead. That day Mom is always home, always cooks a full table, and everyone shows up.\"\n\n\"Because of the offerings.\"\n\n\"Right. And then they sing to me.\"\n\n\"As an afterthought?\"\n\n\"I don't mind. One day a year, nobody is missing.\"",
+          "editorNote": "For when someone's birthday lands on the fifteenth of the seventh lunar month, or when that someone is you",
+          "variations": [
+            "One-liner: My cake is always the last dish on the table, and the only one everyone sings over.",
+            "Extended: Last year the cake got set down next to the offerings. Mom picked it right back up: not this one, this one's his."
+          ]
+        }
+      }
     }
   ]
 }

@@ -9094,6 +9094,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-330",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.taichung.gov.tw/915537/post",
+      "sourceNote": "Inspired by 台中市交通局公車服務檢舉／脫班機制與近年公車司機勞動討論；rewritten as 起步前多等三秒與班表紀錄的衝突 — original framing",
+      "tags": [
+        "服務業",
+        "心聲",
+        "情緒勞動",
+        "公車司機"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「司機你可以開快一點嗎？我快遲到了。」\n後照鏡裡，最後上車的阿伯還沒抓到扶手。\n我把腳從油門上移開，等了三秒。\n車廂裡有人嘖了一聲，\n後面那台車按了兩下喇叭。\n回到站上，主管手裡拿著紀錄：\n這一班，慢了四分鐘。\n那四分鐘是怎麼來的，\n表格上沒有那一欄。\n我只知道今天這一車的人，\n每一個都是站著上車、坐著到站。",
+          "editorNote": "傳給每天在「準點」和「安全」之間選邊站的駕駛。時刻表記得住你慢了幾分鐘，記不住你為什麼慢。",
+          "variations": [
+            "我慢的那四分鐘寫在紀錄表上，我等的那三秒寫在「今天沒有人跌倒」上。",
+            "油門踩下去只要一秒，扶手抓穩要三秒，我選那三秒。"
+          ]
+        },
+        "en": {
+          "content": "\"Driver, can you go any faster? I'm going to be late.\"\nIn the mirror, the last man on board still hadn't found a handrail.\nI took my foot off the gas and waited three seconds.\nSomeone in the aisle clicked their tongue.\nThe car behind me honked twice.\nBack at the depot, my supervisor had the log:\nthis run was four minutes late.\nThere is no column on that sheet\nfor where those four minutes went.\nAll I know is that everyone who boarded my bus today\nwas seated before we pulled away.",
+          "editorNote": "For every driver choosing between on time and safe, twice a stop. The timetable remembers how late you were, never why.",
+          "variations": [
+            "The four minutes are in the log. The three seconds are in the fact that nobody fell.",
+            "Hitting the gas takes one second. Grabbing a handrail takes three. I pick the three."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-331",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://blog.104.com.tw/gas-station-working-experience/",
+      "sourceNote": "Inspired by 104 職場力〈加油站打工經驗分享〉中的現場工作與客人互動；rewritten as 跳槍之後被要求硬湊整數金額 — original framing",
+      "tags": [
+        "服務業",
+        "奧客",
+        "厭世",
+        "工作"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「幫我加到五百整。」\n跳槍的時候是五百零三。\n「你不會控制喔？多的三塊算你的。」\n我又壓了兩次板機，\n第三次，油從加油口滿出來，\n滴在我的鞋面上。\n先生，跳槍不是我手抖，\n是那台機器在說「夠了」。\n您要的那個整數，只有發票上看得到；\n溢出來的那一點，\n是我等一下要蹲下去擦的地板，\n和一雙洗三次還有味道的鞋。",
+          "editorNote": "傳給站在加油島上被要求「湊整數」的人。機器會停是因為它該停，這不是技術問題，是物理問題。",
+          "variations": [
+            "我可以把發票湊成整數，沒辦法把油湊成整數。",
+            "那三塊錢您記到下車，那雙鞋的味道只有我記得。"
+          ]
+        },
+        "en": {
+          "content": "\"Fill it to exactly fifty.\"\nThe nozzle clicked off at fifty dollars and thirty cents.\n\"Can't you control it? That extra thirty is coming out of your pocket.\"\nI squeezed the handle twice more.\nThe third time, fuel welled up out of the filler neck\nand ran down onto my shoe.\nSir, that click isn't my hand shaking.\nIt's the machine saying that's enough.\nThe round number you wanted only exists on the receipt.\nThe part that spilled exists as the patch of ground\nI'm about to crouch down and wipe,\nand a shoe that still smells after three washes.",
+          "editorNote": "For anyone on the island being told to round it up. The pump stops because it is supposed to stop. That's not a skill issue, it's physics.",
+          "variations": [
+            "I can round the receipt. I can't round the fuel.",
+            "You'll remember those thirty cents until you drive off. I'm the one who remembers the shoe."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-332",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.ettoday.net/news/tag/%E6%9C%8D%E5%8B%99%E6%A5%AD/",
+      "sourceNote": "Inspired by 服務業門市旺季排班與現場討論；rewritten as 八月底文具店的開學採購清單 — original framing",
+      "tags": [
+        "服務業",
+        "零售",
+        "療癒",
+        "客人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "八月的最後兩個星期，\n我們店裡只賣一種東西，叫清單。\n「老師說要十六格的，不是十二格。」\n「書套要那種可以再撕下來的。」\n「墊板不可以有圖案。」\n有位媽媽在架子前面站了二十五分鐘，\n手上那張紙已經摺出四條摺痕。\n最後一項是藍色墊板，\n只剩最上層那一片，\n我搬了張椅子上去拿下來。\n她說謝謝的時候，聲音有點抖。\n這個月我一天假都沒有，\n但我知道開學第一天，\n有個小朋友的桌上，什麼都不會少。",
+          "editorNote": "傳給八月底的文具店、書局和制服行。別人準備結束暑假，我們準備把整條街的清單，一項一項湊齊。",
+          "variations": [
+            "別人的開學是一個新書包，我們的開學是連上十四天。",
+            "我背不出自己的班表，倒是背得出今年一年級的指定清單。"
+          ]
+        },
+        "en": {
+          "content": "The last two weeks of August,\nour store only sells one product: the list.\n\"Teacher said sixteen squares, not twelve.\"\n\"The book covers have to be the kind you can peel back off.\"\n\"The desk pad can't have any pictures on it.\"\nOne mom stood in front of the shelf for twenty-five minutes,\nthe paper in her hand folded down to four creases.\nThe last item was a blue desk pad.\nThere was one left, on the top shelf.\nI dragged a stool over and got it down.\nHer voice shook a little when she said thank you.\nI haven't had a day off all month.\nBut I know that on the first day of school\nthere's one kid whose desk won't be missing a thing.",
+          "editorNote": "For the stationery shops, bookstores, and uniform tailors working the last week of summer. Everyone else is finishing a vacation; we're assembling a whole neighborhood's supply lists, one line at a time.",
+          "variations": [
+            "Other people's back-to-school is a new backpack. Ours is fourteen shifts in a row.",
+            "I can't recite my own schedule, but I can recite this year's first-grade supply list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-333",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.setn.com/News.aspx?NewsID=1859771",
+      "sourceNote": "Inspired by 三立新聞網服務業現場客訴與等待壓力討論；rewritten as 窗口替長者填單與後方隊伍的時間拉扯 — original framing",
+      "tags": [
+        "服務業",
+        "心聲",
+        "客人",
+        "情緒勞動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下午三點，窗口前面剩兩個人。\n一位阿公第三次把單子推回來，\n金額那一格還是空的。\n我把筆轉了個方向，指著格子念一遍，\n再念一遍。\n後面那位先生嘆了第三口氣，\n把號碼牌折成一半。\n我知道您在趕，我也知道我慢了。\n可是這張單子，他一年填一次，\n我一天填一百次。\n我多花的那幾分鐘，\n是為了不要讓他明天再跑一趟。",
+          "editorNote": "傳給在窗口後面同時走兩種時間的人：一種是趕時間的人，一種是慢下來才做得對的事。",
+          "variations": [
+            "隊伍看得到我停在誰身上，看不到我停下來在做什麼。",
+            "我不是慢，我是在幫明天的隊伍少排一個人。"
+          ]
+        },
+        "en": {
+          "content": "Three in the afternoon, two people left at the window.\nAn older man pushed the form back to me for the third time.\nThe amount box was still blank.\nI turned the pen around, pointed at the box, read it out loud,\nthen read it out loud again.\nThe guy behind him let out his third sigh\nand folded his ticket in half.\nI know you're in a hurry. I know I'm slow.\nBut he fills out this form once a year.\nI fill it out a hundred times a day.\nThe few extra minutes I spent\nare so he doesn't have to come back tomorrow.",
+          "editorNote": "For anyone behind a counter running two clocks at once: the people in a hurry, and the thing that only comes out right slowly.",
+          "variations": [
+            "The line can see who I stopped for. It can't see what I stopped to do.",
+            "I'm not slow. I'm making tomorrow's line one person shorter."
+          ]
+        }
+      }
     }
   ]
 }

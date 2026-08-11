@@ -12098,6 +12098,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-418",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://medium.com/@alexdev82/why-are-developers-still-using-div-for-buttons-in-2026-2eb81e93e1a9",
+      "sourceNote": "2026 accessibility writing on div-as-button breaking keyboard and screen-reader users; reworked into a story about a ticket closed as cannot reproduce",
+      "tags": [
+        "前端",
+        "工程師日常",
+        "黑色幽默",
+        "程式碼品質"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客服翻出一張三年前的單，狀態欄寫著：無法重現。\n內容只有一句話：我按不下「送出」。\n當年三個工程師輪流試過，每個人都說按得下去。\n上禮拜同一位客戶又寫信來，這次多了一句：我用鍵盤操作，按 Enter 沒反應，按空白鍵也沒反應。\n我打開那一頁的原始碼。\n那顆送出鈕不是按鈕，是一個畫得很像按鈕的 div。\n在滑鼠底下，它完美無缺。那次改版還拿了公司的內部設計獎。\n把 div 換成 button，一行就好。\n花掉我整個下午的是回信那句話要怎麼寫：我們讓一個人等了三年，才按到那顆按鈕。",
+          "editorNote": "適合在有人說「這顆按鈕用 div 刻比較好調樣式」的時候，安靜地貼進頻道。",
+          "variations": [
+            "短版：它在滑鼠底下完美無缺，這正是它壞了三年都沒被發現的原因。",
+            "延伸：我順手掃了整站，同樣的假按鈕還有兩百多顆。每一顆後面，都可能躺著一張被關掉的單。"
+          ]
+        },
+        "en": {
+          "content": "Support dug up a ticket from three years ago. Status field: cannot reproduce.\nThe entire body was one sentence: I can't press Submit.\nBack then three engineers took turns trying it. All three said the button worked fine.\nLast week the same customer wrote in again, with one extra detail: I navigate by keyboard. Enter does nothing. Space does nothing.\nI opened the source for that page.\nThe submit button is not a button. It is a div painted to look like one.\nUnder a mouse it is flawless. That redesign won an internal design award.\nSwapping the div for a real button took one line.\nWhat took the whole afternoon was writing the reply: we made someone wait three years to press that button.",
+          "editorNote": "For the moment someone argues a div is easier to style than a real button.",
+          "variations": [
+            "Short version: it was flawless under a mouse, which is exactly why nobody noticed it had been broken for three years.",
+            "Extension: I scanned the rest of the site. Two hundred more fake buttons. Any one of them could have a closed ticket behind it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-419",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://appperformancelab.com/a-b-testing-avoid-7-pitfalls-in-2026-tech/",
+      "sourceNote": "2026 A/B testing pitfalls article on experiments left running with nobody reading the results; reworked into a story about an ownerless split that won years ago",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "職場",
+        "維護"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "清設定檔的時候，我看到一個線上分流還開著，五五分。\n建立日期是四年前。負責人欄位那個名字，我只在舊的部門合照上看過。\n我點進結果頁。\n新版本的成效比舊版高了兩成三，數字早就不動了——不動了三年十個月。\n這一頁從來沒有人打開過。\n也就是說，我們有一半的使用者，四年前就在用那個「還在評估」的版本；另一半沒有。\n上禮拜產品經理在會議上很興奮地提了一個新功能。\n我聽著聽著，覺得那個描述有點眼熟。\n那就是贏了四年的那一邊。\n我什麼都沒說，回座位把分流調成一百。",
+          "editorNote": "適合在有人說「我們先開個實驗看看數字」的時候傳出去，提醒大家開之前先講好誰負責回來看結果。",
+          "variations": [
+            "短版：那個分流三年十個月前就贏了，唯一的問題是沒有人回去看它贏了。",
+            "延伸：我後來數了一下，這套系統裡還開著十九個分流。其中五個，兩邊跑的是一模一樣的程式碼。"
+          ]
+        },
+        "en": {
+          "content": "While cleaning up config I found a live traffic split still running, fifty-fifty.\nCreated four years ago. The owner field has a name I have only ever seen in an old team photo.\nI opened the results page.\nThe new variant is up twenty-three percent, and the numbers stopped moving a long time ago — three years and ten months ago.\nNobody had ever loaded that page.\nWhich means half our users have been living in the version that is officially still under evaluation, and the other half have not.\nLast week a product manager pitched a new feature, very excited about it.\nHalfway through, the description started sounding familiar.\nIt was the side that had been winning for four years.\nI didn't say anything. I went back to my desk and moved the split to one hundred.",
+          "editorNote": "Send it when someone says let's just run a test and see the numbers, as a reminder to name who comes back to read them.",
+          "variations": [
+            "Short version: the split won three years and ten months ago; the only problem is nobody went back to look.",
+            "Extension: I counted afterward. Nineteen splits still live. In five of them, both sides run identical code."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-420",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://gdpr.eu/right-to-be-forgotten/",
+      "sourceNote": "Right-to-erasure guidance on data copies spread across systems; reworked into a story about how far one delete request actually reaches",
+      "tags": [
+        "資安",
+        "工程師日常",
+        "黑色幽默",
+        "維護"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "使用者寫信來：請把我的帳號刪掉，還有你們手上關於我的所有東西。\n我在後台按了刪除。零點三秒，畫面顯示已刪除。\n然後我開始往下追。\n資料庫裡刪掉的是一個標記，那一列還在。\n行銷工具那邊是 2019 年接的同步，它自己留了一份名單。\n客服系統存著他五年前寄來的三封信，附件裡有他的地址。\n還有每天凌晨的備份，往回三十天，每一份都完整地記得他。\n第九個地方是一份匯出的檔案，躺在共用雲端硬碟，檔名叫「對帳用_勿刪」。\n一個一個清掉，花了我六天。\n第七天他回信說：謝謝，不過我今天早上收到你們的生日祝福信。",
+          "editorNote": "適合在有人把「刪除帳號」當成一張兩小時的工單估下去的時候貼出來。",
+          "variations": [
+            "短版：我們的刪除鍵，刪掉的是我們自己看得到的那一份。",
+            "延伸：清到第五個地方我才發現，公司裡沒有任何一份文件寫著這些資料到底流去哪。那份清單是我一邊刪一邊寫出來的。"
+          ]
+        },
+        "en": {
+          "content": "A user wrote in: please delete my account, and everything you hold about me.\nI clicked delete in the admin panel. Three tenths of a second later the screen said done.\nThen I started tracing.\nWhat the database deletes is a flag. The row is still sitting there.\nThe marketing tool has its own list, from a sync somebody wired up in 2019.\nThe support system still holds three emails he sent five years ago, with his address in an attachment.\nAnd the nightly backups, thirty days deep, each one remembering him perfectly.\nThe ninth place was an exported file on a shared drive, named reconciliation_do_not_delete.\nClearing them one at a time took six days.\nOn day seven he wrote back: thanks, though I did get your birthday email this morning.",
+          "editorNote": "Good for the moment someone estimates delete my account as a two-hour ticket.",
+          "variations": [
+            "Short version: our delete button removes the copy we can see.",
+            "Extension: by the fifth place I realized no document anywhere says where this data ends up. I wrote that list while deleting it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-421",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://www.nngroup.com/articles/error-message-guidelines/",
+      "sourceNote": "Usability guidance on error messages that hide the real cause; reworked into a story about a generic string swallowing every reason the backend already knows",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "程式碼品質",
+        "溝通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客服請我聽一段電話錄音，因為那位客戶說不清楚到底發生什麼事。\n錄音裡他很慢、一個字一個字地念：「系統發生未知的錯誤，請稍後再試。」\n念完他問：那我要等多久？\n那句話是我五年前打的，打的時候沒有想超過三秒。\n我 grep 了一下，這句話現在出現在六十四個地方。\n其中有一半，後端其實有回傳原因：卡片過期、地址少一行、檔案太大。\n它們全都在同一個地方被接住，然後換成我那一句。\n我這輩子被最多人讀過的一句話，是隨手打的。\n而它的意思是：我不打算告訴你。",
+          "editorNote": "適合在有人準備往 catch 裡塞一句通用錯誤訊息的時候，直接貼給他看。",
+          "variations": [
+            "短版：被最多人讀過的那句話，是我隨手打的，意思是「我不打算告訴你」。",
+            "延伸：我把其中十一個地方換成真正的原因。那週客服的來電少了三成。"
+          ]
+        },
+        "en": {
+          "content": "Support asked me to listen to a call, because the customer couldn't explain what had happened.\nOn the recording he reads it out slowly, word by word: an unknown error occurred, please try again later.\nThen he asks: so how much later?\nI typed that sentence five years ago. I did not think about it for more than three seconds.\nI grepped. It now appears in sixty-four places.\nIn half of them the backend does send a reason: card expired, address line missing, file too large.\nAll of them get caught in the same spot and swapped for my sentence.\nThe most widely read thing I have ever written, I typed without thinking.\nAnd what it means is: I'm not going to tell you.",
+          "editorNote": "Show it to whoever is about to drop a generic message into a catch block.",
+          "variations": [
+            "Short version: the most widely read sentence I ever wrote means I'm not going to tell you.",
+            "Extension: I replaced eleven of them with the actual reason. Support calls dropped by a third that week."
+          ]
+        }
+      }
     }
   ]
 }

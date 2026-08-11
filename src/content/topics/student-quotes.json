@@ -5081,6 +5081,123 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-170",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "讀書",
+        "校園生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在二手書社團買到這學期的課本，前一個主人在前面三章畫滿重點，還夾了兩頁手寫筆記。\n翻到第四章，一片空白、乾乾淨淨——我看著那條分界線，突然有種被理解的感覺。",
+          "editorNote": "適合買到二手課本、發現前一個人也讀不完那天發；也很適合拿來自嘲自己的讀書續航力。",
+          "variations": [
+            "也能換成：「這本書真正的魔王是第四章，因為連上一個人都撐不到那裡。」",
+            "進階版：「我決定接手他的進度，從第四章開始畫線——然後畫到第二頁就停了。」"
+          ]
+        },
+        "en": {
+          "content": "Bought this semester's textbook secondhand. The previous owner highlighted the first three chapters and tucked in two pages of handwritten notes.\nChapter four: blank. Spotless. I stared at that dividing line and felt weirdly understood.",
+          "editorNote": "For the day you buy a used textbook and realize the last person quit exactly where you're about to. Good gentle self-roast about study stamina.",
+          "variations": [
+            "Swap in: \"Chapter four is the real final boss. Even the last guy didn't make it.\"",
+            "Harder mode: \"I decided to pick up where he left off. Got two pages in and stopped.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-171",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "開學",
+        "校園生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學第一天點名，老師把我的名字唸錯了一個字。\n我張嘴想更正，結果同學先笑出來，我就跟著笑了。一個學期過去，那個唸錯的名字，現在我聽到還會自動舉手。",
+          "editorNote": "適合名字有生僻字、或年年被叫錯的人；開學點名那天發最應景。",
+          "variations": [
+            "也能換成：「我的名字有兩個版本：身分證上那個，跟老師叫的那個。」",
+            "進階版：「畢業典禮唸到我的時候，我還愣了一秒才確定那是在叫我。」"
+          ]
+        },
+        "en": {
+          "content": "First day back, roll call, and the teacher got one character of my name wrong.\nI opened my mouth to fix it, but the class laughed first, so I laughed too. One semester later, that wrong name still gets my hand up automatically.",
+          "editorNote": "For anyone whose name gets mangled every single year. Lands best on roll-call day.",
+          "variations": [
+            "Swap in: \"I have two names: the one on my ID and the one my teachers use.\"",
+            "Harder mode: \"They read my name at graduation and I needed a second to be sure it was mine.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-172",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "開學",
+        "校園生活",
+        "自嘲",
+        "廢文"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前的體檢，量身高我偷偷把腳跟抬起來，量體重我把書包、外套、連水壺都先拿下來。\n護理師報出來的兩個數字，跟去年一模一樣——這一年我什麼都試過了，只有我自己原地不動。",
+          "editorNote": "適合開學體檢日、或任何「努力很多但數字沒動」的時刻；語氣輕鬆自嘲，不用真的在意數字。",
+          "variations": [
+            "也能換成：「我墊腳墊到小腿抽筋，換來的是跟去年一樣的那個數字。」",
+            "進階版：「一年之中我唯一維持得很好的，就是我的身高。」"
+          ]
+        },
+        "en": {
+          "content": "Back-to-school checkup. I quietly lifted my heels for the height measurement and stripped off my bag, jacket, even my water bottle for the scale.\nThe nurse called out two numbers, identical to last year's. I changed everything this year except, apparently, me.",
+          "editorNote": "For checkup day, or any moment where you tried hard and the number didn't budge. Keep it light — the numbers aren't the point.",
+          "variations": [
+            "Swap in: \"I stood on my toes until my calves cramped and got last year's number anyway.\"",
+            "Harder mode: \"The one thing I've maintained perfectly all year is my height.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-173",
+      "dateAdded": "2026-08-11",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "internal only",
+      "tags": [
+        "開學",
+        "上課",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新學期的課表發下來，我第一件事不是看這學期要修什麼，\n是用手指從星期一橫著數到星期五，先找出哪一天可以最早離開這裡。",
+          "editorNote": "適合課表公布那天發；把「先看放學時間」這個誠實反應講出來，留言區通常會集體承認。",
+          "variations": [
+            "也能換成：「我對這學期全部的期待，都押在星期三下午那兩節空堂上。」",
+            "進階版：「整張課表我唯一看得很仔細的，是最後一節課下課的那個時間。」"
+          ]
+        },
+        "en": {
+          "content": "New semester schedule drops, and the first thing I check isn't which classes I'm taking.\nIt's running my finger Monday through Friday to find which day I get to leave this place earliest.",
+          "editorNote": "For schedule-release day. Everyone does this and almost nobody admits it out loud.",
+          "variations": [
+            "Swap in: \"Every hope I have for this semester is riding on that free block Wednesday afternoon.\"",
+            "Harder mode: \"The only cell on that grid I read carefully is when the last class ends.\""
+          ]
+        }
+      }
     }
   ]
 }
