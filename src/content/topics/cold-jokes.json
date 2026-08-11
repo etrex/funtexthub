@@ -11,8 +11,7 @@
       "description": "A curated collection of groan-worthy cold jokes perfect for breaking the ice"
     }
   },
-  "items": [
-    {
+  "items": [{
       "id": "cj-001",
       "dateAdded": "2026-04-08",
       "sourceUrl": "",
@@ -6378,32 +6377,6 @@
       }
     },
     {
-      "id": "cj-235",
-      "dateAdded": "2026-06-16",
-      "sourceUrl": "https://punways.com/funny-short-puns-jokes-one-liner/",
-      "sourceNote": "受『why was the computer cold? it left its Windows open（電腦為什麼覺得冷？因為它的視窗一直開著）』英文雙關啟發，改寫成台灣口語的辦公室情境",
-      "tags": [
-        "諧音",
-        "科技"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "同事問：「你的電腦怎麼一直在喊冷？」\n\n我說：「因為它的『視窗』從來不關啊。」",
-          "editorNote": "適合辦公室裡有人開太多分頁卻不關機時拿來吐槽",
-          "variations": [
-            "也可以接：「那筆電呢？」「筆電更慘，它連『蓋子』都常常忘記蓋。」"
-          ]
-        },
-        "en": {
-          "content": "A coworker asked: \"Why does your computer keep complaining about the cold?\"\n\nI said: \"Because it never closes its Windows.\"",
-          "editorNote": "Great for ribbing the coworker who keeps fifty tabs open and never shuts their laptop",
-          "variations": [
-            "Follow up: \"What about your phone?\" \"Worse — it can't even close its apps.\""
-          ]
-        }
-      }
-    },
-    {
       "id": "cj-236",
       "dateAdded": "2026-06-16",
       "sourceUrl": "https://www.rd.com/article/animal-puns/",
@@ -8871,32 +8844,6 @@
           "editorNote": "Say it deadpan while catching your breath on the stairs",
           "variations": [
             "Add: His legs got braver way faster than he did."
-          ]
-        }
-      }
-    },
-    {
-      "id": "cj-342",
-      "dateAdded": "2026-07-20",
-      "sourceUrl": "https://www.weareteachers.com/animal-jokes-for-kids/",
-      "sourceNote": "pouch potato（couch potato）梗；中文改成袋鼠因口袋而懶的邏輯冷笑話，並用『跳過』雙關",
-      "tags": [
-        "動物",
-        "邏輯"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "你知道最懶的動物是什麼嗎？\n\n袋鼠——牠連零食都直接放口袋裡，躺著就能吃，根本懶得起身。",
-          "editorNote": "動物邏輯冷笑話，適合親子時光",
-          "variations": [
-            "難怪牠們永遠有辦法『跳過』運動這件事。"
-          ]
-        },
-        "en": {
-          "content": "What do you call a kangaroo that never works out?\n\nA pouch potato.",
-          "editorNote": "A cute one for kids or lazy-Sunday energy",
-          "variations": [
-            "Add: No wonder they always find a way to jump over leg day."
           ]
         }
       }

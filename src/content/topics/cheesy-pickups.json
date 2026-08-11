@@ -11,8 +11,7 @@
       "description": "A collection of cheesy yet charming pickup lines guaranteed to make them smile (or cringe)"
     }
   },
-  "items": [
-    {
+  "items": [{
       "id": "cp-001",
       "dateAdded": "2026-04-08",
       "sourceUrl": "",
@@ -6458,35 +6457,6 @@
       }
     },
     {
-      "id": "cp-232",
-      "dateAdded": "2026-06-15",
-      "sourceUrl": "https://www.fashionbeans.com/article/best-pickup-lines/",
-      "sourceNote": "magician 'everyone disappears' classic, rewritten with a conversational setup",
-      "tags": [
-        "對話",
-        "經典",
-        "甜"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「你會變魔術喔？」\n「沒有啊，怎麼了？」\n「奇怪，那為什麼你一出現，全場其他人就突然不見了。」",
-          "editorNote": "適合人多的場合，像派對、聚會、酒吧；用『全場只剩你』的浪漫感製造專注的氛圍",
-          "variations": [
-            "我懷疑你偷學了消失術，因為你一笑，旁邊的人我就全看不到了",
-            "不用變魔術也沒關係，反正你站在那裡，我眼裡就只剩你一個"
-          ]
-        },
-        "en": {
-          "content": "\"So you do magic?\"\n\"Nope, why?\"\n\"Weird — because the second you walked in, everyone else in the room just vanished.\"",
-          "editorNote": "Great for crowded settings like parties or bars; uses the 'only you exist' angle to create a focused, romantic mood.",
-          "variations": [
-            "I think you snuck in a disappearing trick, because one smile and I can't see anyone else around you.",
-            "You don't even need magic — you just stand there and somehow you're the only person I can see."
-          ]
-        }
-      }
-    },
-    {
       "id": "cp-233",
       "dateAdded": "2026-06-15",
       "sourceUrl": "https://www.thepickuplines.net/coffee-pickup-lines.html",
@@ -8071,34 +8041,6 @@
           "variations": [
             "My heart's racing today, and I'm pretty sure it's not the cardio — it's you.",
             "Are you a dumbbell? Because you just lifted my mood in one second."
-          ]
-        }
-      }
-    },
-    {
-      "id": "cp-290",
-      "dateAdded": "2026-07-07",
-      "sourceUrl": "https://www.rd.com/article/chemistry-pick-up-lines/",
-      "sourceNote": "Chemistry element pun pickup lines",
-      "tags": [
-        "科學宅",
-        "諧音"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「你身上一定有銅跟碲吧？」\n「為什麼這樣說？」\n「因為銅碲加起來，就是 CuTe，超可愛的你。」",
-          "editorNote": "理科生或化學梗愛好者專用，講完記得解釋元素符號，笑點才會出來",
-          "variations": [
-            "你一定有十一顆質子，因為你 sodium（so damn）好看",
-            "我最喜歡的作用力是凡德瓦力，你感覺到我們之間的吸引了嗎？"
-          ]
-        },
-        "en": {
-          "content": "\"You've gotta be made of copper and tellurium.\"\n\"Why?\"\n\"Because copper plus tellurium spells CuTe — just like you.\"",
-          "editorNote": "For the science nerds and chemistry-pun fans; explain the element symbols after so the joke lands.",
-          "variations": [
-            "You must have eleven protons, because you're sodium fine.",
-            "My favorite force is van der Waals — can you feel the attraction between us?"
           ]
         }
       }

@@ -11,8 +11,7 @@
       "description": "No preaching, no fluff — just the kind of honest encouragement that actually lands."
     }
   },
-  "items": [
-    {
+  "items": [{
       "id": "mq-001",
       "dateAdded": "2026-04-13",
       "sourceUrl": "https://arielhsu.tw/encourage-motto/",
@@ -3709,34 +3708,6 @@
       }
     },
     {
-      "id": "mq-135",
-      "dateAdded": "2026-05-18",
-      "sourceUrl": "https://mindsetmotive.com/small-wins-quotes/",
-      "sourceNote": "Inspired by small-wins themed quote compilations from productivity blogs",
-      "tags": [
-        "勵志",
-        "小進步",
-        "累積",
-        "正能量"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "今天比昨天多做一點點，就已經贏了昨天的你。",
-          "editorNote": "獻給覺得自己進度太小、不值得慶祝的人。一點點累積起來，三個月後你會嚇到自己。",
-          "variations": [
-            "小小一步也算數，重點是你今天有踏出去。"
-          ]
-        },
-        "en": {
-          "content": "Doing a little more than yesterday means you already beat yesterday's you.",
-          "editorNote": "For anyone who thinks small progress isn't worth celebrating. Stack enough small days and three months from now you won't recognize where you started.",
-          "variations": [
-            "Tiny steps still count. The point is that you moved at all."
-          ]
-        }
-      }
-    },
-    {
       "id": "mq-136",
       "dateAdded": "2026-05-18",
       "sourceUrl": "https://parade.com/973277/jessicasager/inspirational-quotes/",
@@ -3928,34 +3899,6 @@
           "editorNote": "For the all-or-nothing types who sprint Monday and burn out by Wednesday. Consistent beats heroic, every single time.",
           "variations": [
             "Steady people quietly beat the ones who go hard and then disappear."
-          ]
-        }
-      }
-    },
-    {
-      "id": "mq-143",
-      "dateAdded": "2026-05-19",
-      "sourceUrl": "https://www.inc.com/bill-murphy-jr/365-inspiring-poignant-and-just-plain-great-quotes-for-2026/91283130",
-      "sourceNote": "Inspired by 2026 quote compilations about courage and trying again",
-      "tags": [
-        "勵志",
-        "勇氣",
-        "再試一次",
-        "失敗"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "勇氣不是不害怕，是明明很怕還是去做了。",
-          "editorNote": "送給那種覺得「等我不怕了再做」的人。怕是正常的，會做的人也是邊發抖邊做的。",
-          "variations": [
-            "等你不怕的那天可能不會來，所以就帶著怕一起上吧。"
-          ]
-        },
-        "en": {
-          "content": "Courage isn't being unafraid. It's being scared and doing it anyway.",
-          "editorNote": "For anyone waiting to feel ready before they act. The people you admire weren't fearless — they were just scared and moved anyway.",
-          "variations": [
-            "The day you stop feeling scared might never come. Go anyway, scared and all."
           ]
         }
       }
@@ -4208,34 +4151,6 @@
           "editorNote": "Read this before opening Instagram. Everyone's on a different track — the only fair race is you vs. last-week-you.",
           "variations": [
             "Their highlight reel isn't your scoreboard."
-          ]
-        }
-      }
-    },
-    {
-      "id": "mq-153",
-      "dateAdded": "2026-05-23",
-      "sourceUrl": "https://quotoma.com/quotes-about-fear/",
-      "sourceNote": "Inspired by themes around courage being action despite fear, not absence of it",
-      "tags": [
-        "勵志",
-        "勇氣",
-        "恐懼",
-        "行動"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "勇敢不是不害怕，是手在抖還願意按下去。",
-          "editorNote": "面試前、按下送出鍵前、按下分手鍵前都適用。沒有人是不怕的，差別只在你怕著還是做了。",
-          "variations": [
-            "怕是正常的，怕到不敢動才是問題。"
-          ]
-        },
-        "en": {
-          "content": "Brave isn't not scared. Brave is hands shaking and still pressing send.",
-          "editorNote": "For the moment right before the interview, the awkward text, the big ask. Everyone's scared — you just go anyway.",
-          "variations": [
-            "Courage is just fear that decided to move."
           ]
         }
       }
@@ -6553,36 +6468,6 @@
       }
     },
     {
-      "id": "mq-238",
-      "dateAdded": "2026-06-22",
-      "sourceUrl": "https://mindfulnessexercises.com/resilience-quotes/",
-      "sourceNote": "Inspired by resilience themes around falling and getting back up",
-      "tags": [
-        "勵志",
-        "韌性",
-        "失敗",
-        "重新開始"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "跌倒不算什麼，重點是你每次都有再站起來。",
-          "editorNote": "適合搞砸一件事、心情很差的時候。沒有人是靠不跌倒走到終點的，是靠每次都願意爬起來。",
-          "variations": [
-            "倒下七次，那就站起來第八次。",
-            "厲害的不是從來沒輸過，是輸了還願意再來一次。"
-          ]
-        },
-        "en": {
-          "content": "Falling isn't the story. The story is that you got back up every single time.",
-          "editorNote": "For the day you messed something up and feel low. Nobody reaches the finish line by never tripping — they get there by always standing back up.",
-          "variations": [
-            "Fall down seven times, stand up eight.",
-            "The impressive part isn't never losing — it's losing and showing up again."
-          ]
-        }
-      }
-    },
-    {
       "id": "mq-240",
       "dateAdded": "2026-06-22",
       "sourceUrl": "https://arielhsu.tw/positive-energy/",
@@ -6943,36 +6828,6 @@
       }
     },
     {
-      "id": "mq-254",
-      "dateAdded": "2026-06-30",
-      "sourceUrl": "https://www.shutterfly.com/ideas/encouraging-quotes-to-motivate-you/",
-      "sourceNote": "Inspired by Theodore Roosevelt 'believe you can and you're halfway there' theme, rewritten",
-      "tags": [
-        "勵志",
-        "正能量",
-        "自我成長",
-        "勇氣"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "你願意相信自己做得到的那一刻，事情就已經完成一半了。",
-          "editorNote": "送給準備做某件事、卻先被自己嚇退的人。最難的關卡常常不是事情本身，是你敢不敢開始相信自己。",
-          "variations": [
-            "最大的阻礙不在外面，是你心裡那句「我可能不行」。",
-            "別人還沒看好你之前，至少先換你自己看好你。"
-          ]
-        },
-        "en": {
-          "content": "The moment you let yourself believe you can do it, half the job is already done.",
-          "editorNote": "For someone about to attempt something who's scaring themselves out of it. The hardest part usually isn't the task — it's daring to bet on yourself.",
-          "variations": [
-            "The biggest obstacle isn't out there. It's the little \"I probably can't\" in your head.",
-            "Before anyone else believes in you, at least let yourself be the first."
-          ]
-        }
-      }
-    },
-    {
       "id": "mq-255",
       "dateAdded": "2026-06-30",
       "sourceUrl": "https://ohmyquotes.com/self-care-quotes/",
@@ -7148,36 +7003,6 @@
           "variations": [
             "Plenty of people start. Far fewer make it to the end.",
             "Passion handles the starting line. Persistence handles the finish."
-          ]
-        }
-      }
-    },
-    {
-      "id": "mq-261",
-      "dateAdded": "2026-07-03",
-      "sourceUrl": "https://www.brainyquote.com/topics/comparison-quotes",
-      "sourceNote": "Inspired by 'comparison is the thief of joy' theme, rewritten in own words",
-      "tags": [
-        "勵志",
-        "心態",
-        "自我接納",
-        "成長"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "你滑手機看到的都是別人的精華片段，卻拿來跟自己的幕後花絮比，難怪怎麼比都覺得自己輸。",
-          "editorNote": "送給老是覺得別人過得比較好的人。別人放上來的是剪過的成果，你看到的自己卻是連 NG 都算進去的完整版，這種比法本來就不公平。",
-          "variations": [
-            "把注意力從「別人跑多快」拉回「我今天有沒有比昨天前進一點」。",
-            "羨慕別人的花園前，先記得你只看得到他們的圍牆外面。"
-          ]
-        },
-        "en": {
-          "content": "Everything you scroll past is someone else's highlight reel, and you're comparing it to your own behind-the-scenes footage — no wonder you always feel like you're losing.",
-          "editorNote": "For anyone who keeps feeling like everyone else has it better. What people post is the edited final cut; what you see of yourself includes every blooper. That match was never fair to begin with.",
-          "variations": [
-            "Move your focus from 'how fast they're running' to 'did I get a little further than yesterday.'",
-            "Before you envy someone's garden, remember you're only seeing the outside of their fence."
           ]
         }
       }
@@ -8378,36 +8203,6 @@
           "variations": [
             "Someone else moving fast doesn't mean you're moving slow — there's more than one road.",
             "Flowers bloom on different schedules. You just haven't hit your season yet."
-          ]
-        }
-      }
-    },
-    {
-      "id": "mq-307",
-      "dateAdded": "2026-07-15",
-      "sourceUrl": "https://parade.com/973277/jessicasager/inspirational-quotes/",
-      "sourceNote": "Inspired by Nelson Mandela 'judge me by how many times I got back up' resilience quotes; reworded",
-      "tags": [
-        "勵志",
-        "韌性",
-        "跌倒",
-        "重來"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "跌了幾次不重要，重要的是你每次都有站起來。",
-          "editorNote": "給剛經歷失敗、覺得自己很沒用的人，把焦點從「摔了」移到「爬起來」，那才是真正厲害的地方。",
-          "variations": [
-            "沒人在數你跌倒幾次，大家只記得你最後有沒有走到。",
-            "會痛沒關係，站起來的那一下，就贏過躺著不動的自己。"
-          ]
-        },
-        "en": {
-          "content": "How many times you fell doesn't matter. What matters is you got up every single time.",
-          "editorNote": "For someone fresh off a failure who feels worthless. Shifts the focus from falling to standing back up — that's the part that actually counts.",
-          "variations": [
-            "Nobody's counting your falls. They only remember whether you made it in the end.",
-            "It's okay that it hurt. The moment you stood back up, you already beat the version of you that stayed down."
           ]
         }
       }

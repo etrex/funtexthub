@@ -11,8 +11,7 @@
       "description": "Zongzi puns, Qu Yuan humor, and dragon boat wisecracks to celebrate the season in style"
     }
   },
-  "items": [
-    {
+  "items": [{
       "id": "hj-001",
       "dateAdded": "2026-04-19",
       "sourceUrl": "https://city9.tw/2026-duanwu-blessings",
@@ -5029,35 +5028,6 @@
           "editorNote": "Flips the festival egg-balancing good-luck tradition into dark office humor about a ballooning workload. Send it to the company group chat on festival day for a weary chuckle from your fellow wage-slaves",
           "variations": [
             "Short version: \"Balanced my festival egg perfectly. Turns out the thing that stood up wasn't my luck — it was my workload for the rest of the year.\""
-          ]
-        }
-      }
-    },
-    {
-      "id": "hj-169",
-      "dateAdded": "2026-06-04",
-      "sourceUrl": "https://tw.news.yahoo.com/天后也愛諧音梗-田馥甄問端午節為何只有玉琴加班",
-      "sourceNote": "'欲擒故縱' homophone riddle (玉琴顧粽) circulating from celebrity quip; rewritten as an original office riddle with a new punchline",
-      "tags": [
-        "端午節",
-        "粽子",
-        "諧音梗",
-        "冷笑話",
-        "節日限定"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「考你一題：端午節大家都放假，為什麼公司只有玉琴一個人要加班？」\n\n「為什麼？」\n\n「因為『玉琴顧粽』啊。」\n\n「……欲擒故縱？這跟加班有什麼關係？」\n\n「沒關係，老闆只是想找個聽起來很有道理的理由叫她來顧粽子。」",
-          "editorNote": "經典諧音謎題「玉琴顧粽=欲擒故縱」，再補一刀老闆硬湊理由的職場真實感——適合端午連假前傳到公司群組，被點名加班的同事看了會會心一笑",
-          "variations": [
-            "純謎題版：「端午節為什麼只有玉琴要加班？因為玉琴顧粽（欲擒故縱）。」——適合當猜謎開場，講完記得自己先笑"
-          ]
-        },
-        "en": {
-          "content": "\"Riddle: everyone's off for the Dragon Boat Festival, so why is Grace the only one stuck working?\"\n\n\"Why?\"\n\n\"Because she's the keeper of the dumplings.\"\n\n\"...how is that a reason to make her come in?\"\n\n\"It isn't. The boss just wanted something that sounded official enough to put her on dumpling duty.\"",
-          "editorNote": "An office riddle built on a Chinese pun (玉琴顧粽 'minding the dumplings' sounds like 欲擒故縱 'playing hard to get'), capped with a jab at bosses inventing fake reasons. Drop it in the group chat before the long weekend",
-          "variations": [
-            "Riddle-only version: \"Why's the keeper of the dumplings the only one working the holiday? Because someone had to mind the zongzi.\""
           ]
         }
       }

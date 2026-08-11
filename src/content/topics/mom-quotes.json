@@ -11,8 +11,7 @@
       "description": "Funny and heartwarming quotes about moms — perfect for Mother's Day or anyone who gets it"
     }
   },
-  "items": [
-    {
+  "items": [{
       "id": "momq-001",
       "dateAdded": "2026-04-22",
       "sourceUrl": "",
@@ -6192,35 +6191,6 @@
       }
     },
     {
-      "id": "momq-212",
-      "dateAdded": "2026-06-20",
-      "sourceUrl": "https://www.rd.com/list/quotes-about-mothers/",
-      "sourceNote": "inspired by 'looking for things your kids just had' motherhood humor; rewritten",
-      "tags": [
-        "媽媽",
-        "日常",
-        "幽默"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "當媽以後才發現，這份工作有九成的時間，都在找小孩三秒前明明還拿在手上的東西。\n剩下那一成，是在找自己的耐心。",
-          "editorNote": "傳給當媽的朋友保證秒懂，育兒群組轉發率超高，也適合配上一臉茫然的照片",
-          "variations": [
-            "在我家，東西不算真的不見，要等到我也找不到才算",
-            "我不是在找鞋子、找水壺、找作業，我是在找一個能好好出門的世界"
-          ]
-        },
-        "en": {
-          "content": "Turns out ninety percent of being a mom is looking for something your kid was literally holding three seconds ago.\nThe other ten percent is looking for your own patience.",
-          "editorNote": "Send it to a mom friend for instant recognition — perfect for a parenting group chat, ideally paired with a photo of you looking lost",
-          "variations": [
-            "In this house, nothing is truly lost until Mom can't find it either",
-            "I'm not looking for the shoes, the water bottle, or the homework — I'm looking for a world where we leave on time"
-          ]
-        }
-      }
-    },
-    {
       "id": "momq-213",
       "dateAdded": "2026-06-20",
       "sourceUrl": "https://www.boredpanda.com/funny-mom-quotes/",
@@ -7445,34 +7415,6 @@
           "editorNote": "For anyone who's received an official memo from their mom. Funny and warm — pair with a screenshot for the full picture",
           "variations": [
             "My mom always sends a sticker with a caption explaining it, terrified I won't understand what the rose means"
-          ]
-        }
-      }
-    },
-    {
-      "id": "momq-257",
-      "dateAdded": "2026-07-09",
-      "sourceUrl": "",
-      "sourceNote": "inspired by 'sacrifices I didn't notice until I grew older' theme; rewritten in original words",
-      "tags": [
-        "媽媽",
-        "感恩",
-        "成長",
-        "母親節"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "小時候我一直以為媽媽不愛吃魚頭、不愛吃雞脖子。\n長大以後才懂，\n她只是把好的那部分，全都留給了我。",
-          "editorNote": "母親節傳給媽媽或發在社群都很有共鳴，那種長大才懂的心疼最打動人",
-          "variations": [
-            "以前覺得媽媽真的很好養，什麼剩的都吃得下。後來才知道，她是捨不得，不是不想要"
-          ]
-        },
-        "en": {
-          "content": "As a kid I really believed my mom didn't like the good cuts of meat.\nIt took me years to understand\nshe'd just quietly saved all the best parts for me.",
-          "editorNote": "A moving line for Mother's Day or a heartfelt post — the ache of understanding a sacrifice only after you've grown up",
-          "variations": [
-            "I used to think Mom was easy to please, happy with the leftovers. I know now it wasn't that she wanted them — she just couldn't bear to let me go without"
           ]
         }
       }

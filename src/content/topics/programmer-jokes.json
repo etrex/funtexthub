@@ -11,8 +11,7 @@
       "description": "For developers, by developers — jokes only make sense if you've stared at a screen too long"
     }
   },
-  "items": [
-    {
+  "items": [{
       "id": "pj-001",
       "dateAdded": "2026-04-09",
       "sourceUrl": "https://www.facebook.com/codingbar/posts/426697967929660/",
@@ -5690,35 +5689,6 @@
       }
     },
     {
-      "id": "pj-197",
-      "dateAdded": "2026-06-03",
-      "sourceUrl": "https://programmerhumor.io/memes/copilot",
-      "sourceNote": "AI hallucination vs genius dilemma — rewritten",
-      "tags": [
-        "AI",
-        "debug",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "凌晨兩點的工程師，盯著 AI 生成的程式碼，內心天人交戰：\n「這個解法到底是天才，還是我正在被一個跟 Stack Overflow 學寫程式的語言模型唬爛？」\n他想了三十秒，最後決定：先跑跑看再說。",
-          "editorNote": "傳給那種半夜還在 review AI 程式碼、分不清是神來一筆還是幻覺的朋友。",
-          "variations": [
-            "AI 寫的程式碼有兩種：看不懂的，跟看懂之後更害怕的。",
-            "也可以說：『我不是不信任 AI，我只是不信任凌晨兩點的自己看得出 bug。』"
-          ]
-        },
-        "en": {
-          "content": "A developer at 2 AM, staring at AI-generated code, deep in crisis:\n\"Is this solution actual genius, or am I being gaslit by a language model that learned to code from Stack Overflow?\"\nAfter thirty seconds of soul-searching, he decides: let's just run it and find out.",
-          "editorNote": "Send to the friend reviewing AI code at 2 AM, unable to tell brilliance from hallucination.",
-          "variations": [
-            "AI code comes in two flavors: the kind you don't understand, and the kind that scares you more once you do.",
-            "Alt: 'I don't distrust the AI, I distrust 2 AM me to spot the bug.'"
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-198",
       "dateAdded": "2026-06-03",
       "sourceUrl": "https://programmerhumor.io/memes/stack-overflow",
@@ -6160,36 +6130,6 @@
           "variations": [
             "Staging is for cowards. Real ones uncover the map directly in production.",
             "I don't have a test environment. I have a 'let the users test it for me' environment."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-213",
-      "dateAdded": "2026-06-10",
-      "sourceUrl": "https://www.mend.io/blog/top-5-developer-jokes-explained/",
-      "sourceNote": "'Debugging is being the detective in a crime where you're also the murderer' classic, rewritten",
-      "tags": [
-        "除錯",
-        "黑色幽默",
-        "自作自受",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "除錯就像在偵辦一樁兇殺案。\n你是偵探，努力追查兇手是誰。\n查到最後才發現：兇手就是三個月前的你。",
-          "editorNote": "適合在 git blame 查到自己名字的那一刻，配上崩潰表情傳到團隊群組。",
-          "variations": [
-            "git blame 是這世界上唯一一個會讓你對自己提告的工具。",
-            "我花了一整天找兇手，最後在 commit 紀錄裡看到自己的名字。"
-          ]
-        },
-        "en": {
-          "content": "Debugging is like investigating a murder case.\nYou're the detective, hunting down whoever did it.\nAnd in the final scene, you realize the culprit was you, three months ago.",
-          "editorNote": "Perfect for the moment git blame returns your own name. Add a crying emoji and drop it in the team chat.",
-          "variations": [
-            "git blame is the only tool in the world that lets you press charges against yourself.",
-            "Spent all day hunting the culprit, then found my own name in the commit log."
           ]
         }
       }
@@ -6657,35 +6597,6 @@
           "variations": [
             "If it were a TCP joke, I'd keep retelling it until you laughed.",
             "Didn't catch it? That's fine, I'm not retransmitting."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-230",
-      "dateAdded": "2026-06-15",
-      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
-      "sourceNote": "'code develops random features' instead of bugs — reworked",
-      "tags": [
-        "程式碼品質",
-        "自嘲",
-        "工程師語錄"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "我的程式碼從來沒有 bug。\n它只是會自己長出一些我沒設計的功能而已。",
-          "editorNote": "適合在 code review 被電的時候，用來幫自己找台階下。",
-          "variations": [
-            "那不是錯誤，那是一個還沒寫進規格的隱藏彩蛋。",
-            "客戶說的 bug，在我這邊都叫『未公開的進階功能』。"
-          ]
-        },
-        "en": {
-          "content": "My code never has bugs.\nIt just spontaneously grows features I never designed.",
-          "editorNote": "Useful for saving face when you're getting roasted in a code review.",
-          "variations": [
-            "It's not an error, it's a hidden easter egg that's not in the spec yet.",
-            "What the customer calls a bug, I call an 'undocumented advanced feature.'"
           ]
         }
       }

@@ -11,8 +11,7 @@
       "description": "Statements that sound profound until you realize they're stating the obvious — curated nonsense that somehow makes total sense"
     }
   },
-  "items": [
-    {
+  "items": [{
       "id": "aw-001",
       "dateAdded": "2026-04-12",
       "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
@@ -4999,29 +4998,6 @@
       }
     },
     {
-      "id": "aw-203",
-      "dateAdded": "2026-06-04",
-      "sourceUrl": "https://www.azquotes.com/quotes/topics/tautology.html",
-      "sourceNote": "Yogi Berra「不管你去哪，你都在那裡」廢話文學風格重新創作",
-      "tags": ["廢話文學", "哲學", "人生"],
-      "i18n": {
-        "zh-tw": {
-          "content": "不管你走到哪裡，\n\n你都會在你所在的地方。\n\n這也是為什麼，你永遠擺脫不了你自己。",
-          "editorNote": "假掰一點念出來，很適合配上夕陽照當限動文案",
-          "variations": [
-            "無論你決定做什麼，你最後做的都會是你做的那件事。"
-          ]
-        },
-        "en": {
-          "content": "No matter where you go,\n\nyou will be wherever you are.\n\nWhich is exactly why you can never escape yourself.",
-          "editorNote": "Read it with fake gravitas — pairs perfectly with a sunset photo for your story caption",
-          "variations": [
-            "Whatever you decide to do, the thing you end up doing will be the thing you did."
-          ]
-        }
-      }
-    },
-    {
       "id": "aw-204",
       "dateAdded": "2026-06-05",
       "sourceUrl": "https://www.163.com/dy/article/I22M1LO605562DQX.html",
@@ -7341,35 +7317,6 @@
           "variations": [
             "On the day you were born, your parents' parenting résumé officially started at zero.",
             "The moment a man becomes a dad, his kid becomes a kid on the exact same day."
-          ]
-        }
-      }
-    },
-    {
-      "id": "aw-289",
-      "dateAdded": "2026-07-07",
-      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
-      "sourceNote": "廢話文學條件句格式，重新創作",
-      "tags": [
-        "廢話文學",
-        "邏輯",
-        "如果"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "如果我沒有猜錯的話，\n那應該就是我沒有猜錯。\n\n但如果我猜錯了，\n那就代表我剛剛沒有沒猜錯。",
-          "editorNote": "被要求「你確定嗎」的時候丟出來，完美迴避任何責任",
-          "variations": [
-            "如果這是對的，那它就不是錯的。",
-            "假設這句話成立，那它就是成立的假設。"
-          ]
-        },
-        "en": {
-          "content": "If I'm not mistaken,\nthen I am, in fact, not mistaken.\n\nBut if I am mistaken,\nthen it turns out I was not not-mistaken after all.",
-          "editorNote": "Deploy this when someone asks 'Are you sure?' — dodges all accountability flawlessly",
-          "variations": [
-            "If this is correct, then it is, by definition, not incorrect.",
-            "Assuming this statement holds, it is therefore a statement that holds."
           ]
         }
       }
