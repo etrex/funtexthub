@@ -3310,37 +3310,6 @@
       }
     },
     {
-      "id": "pj-117",
-      "dateAdded": "2026-05-08",
-      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
-      "sourceNote": "Stack Overflow obsolescence meme — community Q&A site goes silent in AI era",
-      "tags": [
-        "Stack Overflow",
-        "AI",
-        "時代變遷",
-        "懷舊",
-        "2026"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "工程師：「我去問 Stack Overflow。」\n\n旁邊新人：「Stack 什麼？」\n\n工程師：「Stack Overflow，工程師的維基百科。」\n\n新人：「沒聽過。」\n\n工程師打開網站。\n\n首頁：「本月新增問題：3 則。最新答覆：去年 11 月。」\n\n工程師滑下去，看到一個熟悉的問題。\n\n下面只有一則回覆：「Just ask Claude.」\n\n再下面一則：「This question was closed as duplicate of your AI assistant's context.」\n\n工程師關掉網頁，沉默三秒。\n\n「我們是不是把它逼死了。」\n\n新人：「誰？」\n\n工程師：「⋯⋯一個曾經養大整個產業的網站。」",
-          "editorNote": "傳給每個還記得 Stack Overflow 養活自己職涯的工程師，以及每個被 AI 取代查資料習慣的人",
-          "variations": [
-            "Stack Overflow 在 2026 不是死了，是沒人記得它還活著。",
-            "從前工程師的禱詞：拜託有人問過。現在的禱詞：拜託 Claude 知道。"
-          ]
-        },
-        "en": {
-          "content": "Engineer: \"I'll check Stack Overflow.\"\n\nJunior next to them: \"Stack what?\"\n\nEngineer: \"Stack Overflow. The Wikipedia of programmers.\"\n\nJunior: \"Never heard of it.\"\n\nEngineer opens the site.\n\nHomepage: \"New questions this month: 3. Latest answer: November last year.\"\n\nEngineer scrolls down, sees a familiar question.\n\nOnly one reply underneath: \"Just ask Claude.\"\n\nReply below that: \"Closed as duplicate of your AI assistant's context.\"\n\nEngineer closes the tab. Goes silent for three seconds.\n\n\"Did we kill it?\"\n\nJunior: \"Kill what?\"\n\nEngineer: \"...A website that used to raise an entire industry.\"",
-          "editorNote": "Send to every engineer whose career was raised by Stack Overflow, and anyone whose lookup habits got replaced by AI",
-          "variations": [
-            "Stack Overflow in 2026 isn't dead. It's just that nobody remembers it's still online.",
-            "Old prayer: please let someone have asked this. New prayer: please let Claude know this."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-118",
       "dateAdded": "2026-05-08",
       "sourceUrl": "https://punhour.com/coder-jokes/",
@@ -3866,36 +3835,6 @@
       }
     },
     {
-      "id": "pj-135",
-      "dateAdded": "2026-05-14",
-      "sourceUrl": "https://programmerhumor.io/ai-memes/stack-overflow-walked-so-chatgpt-could-run-0xhg",
-      "sourceNote": "Stack Overflow vs LLM era — the death of 'duplicate' close votes",
-      "tags": [
-        "Stack Overflow",
-        "AI",
-        "世代差距",
-        "2026"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "資深工程師教資淺工程師：「遇到不會的問題，要去 Stack Overflow 查。」\n\n資淺工程師一臉茫然：「Stack 什麼？」\n\n資深工程師：「就是一個論壇，你問問題，會有一個臭臉大叔回你『這已經有人問過了』然後關掉你的問題，再貼一個八年前完全不相關的連結給你。」\n\n資淺工程師：「⋯⋯那為什麼要去那邊？」\n\n資深工程師沉默了三秒：「對欸，為什麼要去那邊。」\n\n然後他打開了 Claude。",
-          "editorNote": "傳給每個從 Stack Overflow 時代活下來的資深工程師，他們會懷念那種被罵的感覺。",
-          "variations": [
-            "Stack Overflow 的傳統美德：問問題前先被罵不讀文件。",
-            "現在的新人不知道什麼叫『被 mark 成重複』的痛。"
-          ]
-        },
-        "en": {
-          "content": "A senior dev explains to a junior: \"When you get stuck, go check Stack Overflow.\"\n\nJunior, confused: \"Stack what?\"\n\nSenior: \"It's a forum. You ask a question, then a grumpy guy replies 'this has been asked before,' closes your thread, and links you an unrelated answer from eight years ago.\"\n\nJunior: \"...so why would I go there?\"\n\nSenior pauses for three seconds: \"Yeah. Why would you go there.\"\n\nHe opens Claude.",
-          "editorNote": "Send to every senior who survived the Stack Overflow era. They'll miss being yelled at.",
-          "variations": [
-            "Stack Overflow's traditional virtue: getting roasted for not reading the docs before you even ask.",
-            "Today's juniors will never know the pain of being marked as duplicate."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-136",
       "dateAdded": "2026-05-14",
       "sourceUrl": "https://programmerhumor.io/memes/copilot",
@@ -4256,36 +4195,6 @@
       }
     },
     {
-      "id": "pj-148",
-      "dateAdded": "2026-05-18",
-      "sourceUrl": "https://dev.to/pockit_tools/vibe-coding-in-2026-the-complete-guide-to-ai-pair-programming-that-actually-works-42de",
-      "sourceNote": "Vibe coding methodology meme — original observational rewrite",
-      "tags": [
-        "vibe coding",
-        "AI",
-        "新人工程師",
-        "面試"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "面試官：「請問你會什麼語言？」\n應徵者：「我會 Vibe Coding。」\n面試官：「⋯⋯那是什麼語言？」\n應徵者：「不是語言，是一種感覺。你跟 AI 描述你的心情，它就會幫你寫程式。」\n面試官：「那你會 debug 嗎？」\n應徵者：「我會跟 AI 說『我覺得這段不對勁』，然後它就會修。」\n面試官：「那如果 AI 也修不好呢？」\n應徵者：「那就代表這個需求本來就不該存在。」\n面試官沉默三秒。\n面試官：「你下週一可以來上班嗎？」",
-          "editorNote": "傳給任何還在堅持手寫 for loop 的同事，順便附上履歷模板。",
-          "variations": [
-            "Vibe coding 的真諦：bug 不是寫出來的，是『感覺出來』的。",
-            "2026 年的職涯建議：與其學程式，不如學怎麼描述心情。"
-          ]
-        },
-        "en": {
-          "content": "Interviewer: \"What languages do you code in?\"\nCandidate: \"Mostly Vibe.\"\nInterviewer: \"...What's Vibe?\"\nCandidate: \"It's not a language. It's a feeling. You describe your mood to the AI and code happens.\"\nInterviewer: \"Can you debug?\"\nCandidate: \"I tell the AI 'this feels off' and it fixes it.\"\nInterviewer: \"What if the AI can't fix it?\"\nCandidate: \"Then that feature wasn't meant to exist.\"\nThree seconds of silence.\nInterviewer: \"Can you start Monday?\"",
-          "editorNote": "Send to any coworker still hand-writing for-loops. Attach a resume template.",
-          "variations": [
-            "Vibe coding axiom: bugs aren't written, they're felt.",
-            "2026 career advice: don't learn to code, learn to describe your mood precisely."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-149",
       "dateAdded": "2026-05-18",
       "sourceUrl": "https://www.theregister.com/devops/2026/05/15/git-is-unprepared-for-the-ai-coding-tsunami/5241480",
@@ -4581,36 +4490,6 @@
           "variations": [
             "The three usual suspects when prod breaks: DNS, caching, and the coworker who said 'I only changed one line.'",
             "AI debugging in production: first blame DNS, then blame the cache, then suggest we 'start fresh.'"
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-159",
-      "dateAdded": "2026-05-21",
-      "sourceUrl": "https://programmerhumor.io/memes/future-of-coding",
-      "sourceNote": "Code review with AI-generated code — fresh original",
-      "tags": [
-        "code review",
-        "AI",
-        "PR",
-        "團隊合作"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "資深工程師在 review 一個 PR：\n\n「這段為什麼要這樣寫？」\n\n初階工程師：「AI 說這樣比較好。」\n\n「為什麼這裡要 try-catch 包六層？」\n\n「AI 說要 defensive。」\n\n「為什麼這個變數叫 thingThatDoesTheThing？」\n\n「⋯⋯AI 想不出名字。」\n\n「為什麼註解寫『此處 AI 也不知道為什麼可以動』？」\n\n初階工程師沉默。\n\n資深工程師按下 Approve，然後在心裡許了一個願：希望這個 PR 不要在我值班的時候出事。",
-          "editorNote": "傳給每個正在 review 一堆 AI 生成 PR 的資深工程師，他們會邊笑邊崩潰。",
-          "variations": [
-            "Code review 的新黃金法則：看不懂的時候就 approve，反正 AI 寫的，責任不在我們。",
-            "現代 PR 註解三大句型：『AI 建議』、『AI 說可以』、『我不知道，AI 寫的』。"
-          ]
-        },
-        "en": {
-          "content": "A senior engineer reviewing a PR:\n\n\"Why is this written this way?\"\n\nJunior: \"The AI said it was better.\"\n\n\"Why are there six nested try-catches here?\"\n\n\"The AI said to be defensive.\"\n\n\"Why is this variable named thingThatDoesTheThing?\"\n\n\"...The AI couldn't come up with a name.\"\n\n\"Why does this comment say 'AI also doesn't know why this works'?\"\n\nSilence.\n\nThe senior hits Approve and silently prays this PR doesn't blow up during their on-call shift.",
-          "editorNote": "Send to any senior reviewing a queue of AI-generated PRs. They'll laugh, then quietly suffer.",
-          "variations": [
-            "New golden rule of code review: when in doubt, approve. The AI wrote it. Not our problem.",
-            "The three sentence templates of modern PR comments: 'AI suggested,' 'AI said this works,' 'I don't know, AI wrote it.'"
           ]
         }
       }
@@ -6892,35 +6771,6 @@
       }
     },
     {
-      "id": "pj-242",
-      "dateAdded": "2026-06-19",
-      "sourceUrl": "https://punsify.com/programming-jokes/",
-      "sourceNote": "'Test in production' joke — rewritten into a scene",
-      "tags": [
-        "測試",
-        "上線爆炸",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "主管：「你都怎麼測試你的程式？」\n工程師：「我不常測，但我要測的時候，會直接在正式環境測。」\n主管：「⋯⋯那出事怎麼辦？」\n工程師：「那不就測出來了嗎。」",
-          "editorNote": "傳給那個從來不寫測試、永遠相信『上了就知道』的隊友。",
-          "variations": [
-            "最快的測試環境，就是有真實使用者在用的那個。",
-            "我不是不寫測試，我只是讓使用者幫我跑。"
-          ]
-        },
-        "en": {
-          "content": "Manager: \"How do you test your code?\"\nDev: \"I don't always test, but when I do, I test in production.\"\nManager: \"...and if something breaks?\"\nDev: \"Then I guess the test found something.\"",
-          "editorNote": "For the teammate who never writes tests and firmly believes you'll 'find out once it ships.'",
-          "variations": [
-            "The fastest test environment is the one with real users in it.",
-            "I do write tests — I just let the users run them for me."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-243",
       "dateAdded": "2026-06-19",
       "sourceUrl": "https://pundash.com/programmer-jokes/",
@@ -7876,35 +7726,6 @@
           "variations": [
             "Extension: So he adds a deliberate error, just to feel calm seeing the familiar red text again.",
             "Alternate: Code that passes on the first try is like a light turning on by itself at 3am. Something's wrong. It just hasn't happened yet."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-276",
-      "dateAdded": "2026-07-03",
-      "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
-      "sourceNote": "Estimation humor — reworded from common dev estimate jokes",
-      "tags": [
-        "時程估計",
-        "工程師語錄",
-        "拖延"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "PM：「這個功能大概要多久？」\n工程師：「兩天。」\nPM：「那我跟客戶說下週三上線喔。」\n工程師：「我說的兩天是理論值，是在沒有會議、沒有需求變更、沒有 bug、沒有同事來問問題、也沒有 IE 相容問題的平行宇宙裡的兩天。」",
-          "editorNote": "傳給每次被逼問工時的工程師，他會含淚點頭。",
-          "variations": [
-            "延伸：所以在這個宇宙，答案是兩週，還要看月亮圓不圓。",
-            "也可以回：『兩天。但你如果現在就要答案，那答案是三個月。』"
-          ]
-        },
-        "en": {
-          "content": "PM: \"How long will this feature take?\"\nDeveloper: \"Two days.\"\nPM: \"Great, I'll tell the client it ships next Wednesday.\"\nDeveloper: \"When I said two days, I meant two days in a parallel universe with no meetings, no scope changes, no bugs, no coworkers stopping by with questions, and no legacy browser to support.\"",
-          "editorNote": "Send it to any dev who's been cornered for an estimate. They'll nod through tears.",
-          "variations": [
-            "Extension: So in THIS universe, it's two weeks. Maybe more if Mercury's in retrograde.",
-            "Alternate: 'Two days. But if you need the answer right now, the answer is three months.'"
           ]
         }
       }

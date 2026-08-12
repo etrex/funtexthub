@@ -2843,36 +2843,6 @@
       }
     },
     {
-      "id": "svc-101",
-      "dateAdded": "2026-05-31",
-      "sourceUrl": "https://www.dcard.tw/f/job/p/231641493",
-      "sourceNote": "Inspired by the recurring Dcard 工作板 「我跟你們老闆很熟」 name-drop trope; rewritten as a 「真的很熟就不用報名號」 logic-flip — original phrasing",
-      "tags": [
-        "服務業",
-        "奧客",
-        "金句",
-        "笑話"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "客人：「我跟你們老闆很熟喔。」\n我：「那真是太好了，\n那您要不要直接打給他，\n請他幫您破例就好？」\n客人：「⋯⋯我沒有他電話。」\n原來「很熟」的定義，\n是熟到連電話都沒存。",
-          "editorNote": "傳給最近被「我跟你們老闆很熟」威脅過的同事。真正跟老闆熟的客人，從來不需要對著基層店員報名號——他直接走後門就好。",
-          "variations": [
-            "會搬出「我跟你們老闆很熟」的人，通常跟老闆的關係，就跟我跟金城武一樣熟。",
-            "真的跟老闆熟，會打給老闆；跟老闆不熟，才會威脅店員。"
-          ]
-        },
-        "en": {
-          "content": "Customer: \"I know your boss really well, you know.\"\nMe: \"Oh, wonderful.\nWhy don't you just call him\nand have him make the exception for you?\"\nCustomer: \"...I don't have his number.\"\nTurns out \"really well\"\nmeans not well enough to save the contact.",
-          "editorNote": "Send to anyone threatened with \"I know your boss\" this week. Customers who actually know the boss never name-drop to a frontline clerk — they just go around the back.",
-          "variations": [
-            "People who pull out \"I know your boss really well\" usually know the boss about as well as I know Keanu Reeves.",
-            "If you actually knew the boss, you'd call the boss. You only threaten the clerk when you don't."
-          ]
-        }
-      }
-    },
-    {
       "id": "svc-102",
       "dateAdded": "2026-05-31",
       "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
@@ -3198,36 +3168,6 @@
           "variations": [
             "The customer thinks the manager is the final boss. The manager is just another me in a uniform who memorized the policy better.",
             "\"Get me your manager\" usually buys two people getting yelled at, not one person getting rescued."
-          ]
-        }
-      }
-    },
-    {
-      "id": "svc-115",
-      "dateAdded": "2026-06-03",
-      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
-      "sourceNote": "Reframes the Dcard 心情板 「奧客經典語錄」 thread — 「那是你們的問題，不是我的問題」 line; original 「問題分配權」 ownership-redistribution framing is the rewrite anchor",
-      "tags": [
-        "服務業",
-        "奧客",
-        "金句",
-        "心聲"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "客人最強的一句：「那是你們的問題，不是我的問題。」\n翻譯過來是：「我不想負責，但你要負責讓我滿意。」\n奧客不是不懂責任，\n是太懂了——\n懂到知道怎麼把它整包塞給站在櫃檯的你。",
-          "editorNote": "傳給今天剛被「那是你們的問題」這句話打發掉的同行。責任沒有消失，只是被轉帳到你的情緒帳戶。",
-          "variations": [
-            "客人說「不是我的問題」的時候，通常已經把問題打包好，貼上你的名字了。",
-            "奧客的超能力，是把自己的麻煩瞬間變成你的責任。"
-          ]
-        },
-        "en": {
-          "content": "The customer's ultimate line: \"That's your problem, not mine.\"\nTranslation: \"I refuse to be responsible, but you're responsible for keeping me happy.\"\nDifficult customers don't misunderstand responsibility.\nThey understand it perfectly —\nwell enough to pack the whole thing up and hand it to the person at the counter.",
-          "editorNote": "Send to anyone brushed off with \"that's your problem\" today. The responsibility didn't vanish — it just got wired into your emotional account.",
-          "variations": [
-            "When a customer says \"not my problem,\" they've usually already packed the problem up with your name on the label.",
-            "A difficult customer's superpower is turning their own mess into your responsibility in one sentence."
           ]
         }
       }
@@ -3648,36 +3588,6 @@
           "variations": [
             "\"I'm a regular\" is an unprinted loyalty card: never expires, unlimited discount, no record found.",
             "The customer's years as a \"regular\" often predate the day the store opened."
-          ]
-        }
-      }
-    },
-    {
-      "id": "svc-135",
-      "dateAdded": "2026-06-10",
-      "sourceUrl": "https://surveysparrow.com/blog/funny-customer-service-memes/",
-      "sourceNote": "Reframes the 「it's free / it won't scan」 retail meme; original 「掃不到 ≠ 免費」 register rewritten as a tired-cashier monologue",
-      "tags": [
-        "服務業",
-        "零售",
-        "奧客",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "東西掃不到的時候，\n客人一定會說：「那是不是免費的？」\n這個笑話，\n我從上班第一天聽到現在，\n它沒變好笑，只變老了，跟我一起。",
-          "editorNote": "傳給每天都要陪客人演一次「掃不到等於免費」的收銀同事。有些笑話客人講得很有自信，只有我們知道它已經死了一千次。",
-          "variations": [
-            "「掃不到是不是免費」這句，全台灣的收銀機每天被講三萬次，沒有一次成功。",
-            "客人以為掃不到很好笑，其實掃不到只代表我要手動輸入一長串條碼。"
-          ]
-        },
-        "en": {
-          "content": "Whenever something won't scan,\nthe customer always says: \"Guess it's free, then?\"\nI've heard that joke\nevery day since my first shift.\nIt hasn't gotten funnier. It's just gotten older — along with me.",
-          "editorNote": "Send to the cashier who has to fake-laugh at \"guess it's free\" daily. Some jokes the customer delivers with full confidence, while only we know they died a thousand deaths ago.",
-          "variations": [
-            "\"Guess it's free\" gets said thirty thousand times a day at registers everywhere, and it has never once worked.",
-            "The customer thinks a failed scan is hilarious. To me it just means typing in a very long barcode by hand."
           ]
         }
       }
@@ -4268,36 +4178,6 @@
           "variations": [
             "My smile isn't an after-sales perk — sorry, not included.",
             "The smile you ordered? Just sold out for today."
-          ]
-        }
-      }
-    },
-    {
-      "id": "svc-158",
-      "dateAdded": "2026-06-18",
-      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
-      "sourceNote": "Rewrites the canonical Dcard 奧客語錄 'we have no record of this / 別家都可以只有你們不行' trope into a single internal-monologue beat",
-      "tags": [
-        "服務業",
-        "奧客",
-        "工作",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "客人：「別家都可以，只有你們這裡不行。」\n我：「那您要不要去那家比較方便的？」\n客人：「我就是要在你們這裡用。」\n原來他要的不是服務，是表演舞台。",
-          "editorNote": "「別家都可以」是奧客的萬用開場白，通常後面那家店的名字永遠說不出來。傳給今天被這句話釘在櫃檯的同事，提醒他：那家店不存在，但你的下班時間存在。",
-          "variations": [
-            "他口中那家『什麼都可以』的店，地址是『不告訴你路』。",
-            "客人說別家都行，我說那很好啊，這裡是別家的隔壁。"
-          ]
-        },
-        "en": {
-          "content": "Customer: \"Everywhere else lets me do this — only you guys won't.\"\nMe: \"Would the more convenient place suit you better, then?\"\nCustomer: \"No, I want to do it HERE.\"\nTurns out they didn't want the service. They wanted a stage.",
-          "editorNote": "\"Everywhere else allows it\" is the universal opener of difficult customers, and somehow the name of that other place never quite materializes. Send to the coworker pinned to the counter by this line today.",
-          "variations": [
-            "That store where \"anything goes\"? Its address is \"none of your business.\"",
-            "He said the other place allows it. Great — the other place is next door, go ahead."
           ]
         }
       }
@@ -4988,36 +4868,6 @@
           "variations": [
             "There are two kinds of service-industry laughs: the real one, and the \"that's the eighteenth time but I still have to\" one.",
             "The customer thinks he's hilarious. He's really just standing behind the seventeen who said it first."
-          ]
-        }
-      }
-    },
-    {
-      "id": "svc-189",
-      "dateAdded": "2026-06-30",
-      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
-      "sourceNote": "Reworks the 「叫你們店長/經理出來」 escalation trope from the 2026-04 Dcard 奧客經典語錄 thread",
-      "tags": [
-        "服務業",
-        "奧客",
-        "工作",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「叫你們店長出來！」\n「我就是店長。」\n「那叫你們老闆出來！」\n「我就是老闆。」\n「……那叫個能做主的出來。」",
-          "editorNote": "傳給今天被『叫主管出來』連環追殺的同事。有些客人要的不是答案，是一個比你大的人能讓他繼續鬧。",
-          "variations": [
-            "客人要找的「能做主的人」，其實是「能讓步的人」，這兩個在他字典裡是同義詞。",
-            "升到店長那天我才懂，原來『叫主管出來』之後，下一個被叫的人就是我自己。"
-          ]
-        },
-        "en": {
-          "content": "\"Get your manager!\"\n\"I am the manager.\"\n\"Then get your boss!\"\n\"I am the boss.\"\n\"...then get someone who can actually make decisions.\"",
-          "editorNote": "For the coworker hunted down the chain of command today. Some customers don't want an answer — they want someone bigger than you so they can keep going.",
-          "variations": [
-            "The \"someone who can make decisions\" the customer wants is really \"someone who will cave.\" In their dictionary those are synonyms.",
-            "The day I got promoted to manager, I finally understood: after \"get me your manager,\" the next person they call out is me."
           ]
         }
       }
@@ -5947,36 +5797,6 @@
       }
     },
     {
-      "id": "svc-223",
-      "dateAdded": "2026-07-12",
-      "sourceUrl": "https://blog.104.com.tw/how-to-serve-the-four-common-types-of-guests/",
-      "sourceNote": "Reworked from the canonical 奧客 line '別家店都可以，只有你們不行' cited in 104 職場力 — flipped into a comeback about the other store's imaginary policy",
-      "tags": [
-        "服務業",
-        "奧客",
-        "零售",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「別家都可以，就你們不行。」\n「那家能退三年前的收據、能免費、還能改成您想要的規定——\n聽起來是家很棒的店，我幫您指路？」",
-          "editorNote": "傳給被『別家都可以』攻擊過的服務業朋友。這句留在心裡就好，實際上你只會微笑說『真的很抱歉，我們規定是這樣』。",
-          "variations": [
-            "客人口中那家『什麼都可以』的別家店，通常開在『他自己想像』那條街上。",
-            "『別家都行』如果是真的，客人早就在別家了，不會站在你面前吵。"
-          ]
-        },
-        "en": {
-          "content": "\"Every other store lets me. Just not you people.\"\n\"That store takes three-year-old receipts, gives it free, and rewrites its rules to your liking?\nSounds amazing — want directions?\"",
-          "editorNote": "For anyone who's been hit with the \"every other store does it\" line. Keep this one in your head — out loud you just smile and say 'so sorry, that's our policy.'",
-          "variations": [
-            "That magical 'other store that allows everything' is usually located on a street the customer made up.",
-            "If 'every other store does it' were true, the customer would be there, not standing in front of you arguing."
-          ]
-        }
-      }
-    },
-    {
       "id": "svc-224",
       "dateAdded": "2026-07-12",
       "sourceUrl": "https://www.keeping.com/content/customer-service-jokes/",
@@ -6032,36 +5852,6 @@
           "variations": [
             "A service worker's facial muscles understand better than anyone that 'looking calm while dying inside' is a professional skill.",
             "Corners of the mouth up fifteen degrees, a full string of curses already finished inside — that's the basics of service work."
-          ]
-        }
-      }
-    },
-    {
-      "id": "svc-226",
-      "dateAdded": "2026-07-13",
-      "sourceUrl": "https://www.dcard.tw/f/mood/p/261243197",
-      "sourceNote": "Rebuilt from the canonical 奧客 opener '我以前都可以，為什麼現在不行' listed in the Dcard 奧客經典語錄 thread — flipped into a gentle reality-check",
-      "tags": [
-        "服務業",
-        "奧客",
-        "零售",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「我以前都可以，為什麼現在不行？」\n「因為以前那位同事，已經被您弄到離職了。」\n（這句只在心裡播放，臉上還是那句：不好意思，規定改了。）",
-          "editorNote": "傳給被『我以前都可以』攻擊到麻痺的服務業朋友。客人口中的『以前』，通常是某個好心同事違規幫忙、後來被檢討的那次。",
-          "variations": [
-            "客人說的『以前都可以』，翻譯過來是『以前有人願意幫我承擔後果』。",
-            "『以前可以』不是規定變嚴，是上次幫你破例的那個人，已經學乖了。"
-          ]
-        },
-        "en": {
-          "content": "\"I could always do this before — why not now?\"\n\"Because the coworker who let you got worn down and quit.\"\n(That line only plays in my head. Out loud it's still: sorry, the policy changed.)",
-          "editorNote": "For anyone numbed by the 'I could always do this before' attack. The customer's 'before' is usually that one time a kind coworker bent the rule and later got written up for it.",
-          "variations": [
-            "'I could always do this before' translates to 'someone used to be willing to eat the consequences for me.'",
-            "It's not that the rule got stricter — it's that the person who made your exception last time finally learned their lesson."
           ]
         }
       }
@@ -6512,36 +6302,6 @@
           "variations": [
             "\"I'm filing a complaint!\" — Of course, mind the door, and please don't circle back.",
             "Some customers are regulars; others are the ones we quietly pray will become former customers."
-          ]
-        }
-      }
-    },
-    {
-      "id": "svc-245",
-      "dateAdded": "2026-07-17",
-      "sourceUrl": "https://pleated-jeans.com/2026/02/22/customer-service-memes-funny/",
-      "sourceNote": "Customer-service meme trope: customer demands a manager, manager repeats the exact same answer the employee already gave",
-      "tags": [
-        "服務業",
-        "奧客",
-        "工作",
-        "厭世"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「我要找你們主管！」\n主管走過來，聽完，說了一模一樣的話。\n客人愣住的那三秒，是我整天最有成就感的時刻。",
-          "editorNote": "傳給那個今天被吼「叫你主管出來」的同事。你沒說錯，只是對方要聽到職稱比較高的人講同一句話而已。",
-          "variations": [
-            "客人要的不是答案，是換一張嘴講同一個答案。",
-            "「找主管」翻譯：我需要一個薪水比你高的人來拒絕我。"
-          ]
-        },
-        "en": {
-          "content": "\"Get me your manager!\"\nThe manager walks over, listens, and says the exact same thing I did.\nThose three seconds of the customer short-circuiting are the highlight of my whole shift.",
-          "editorNote": "Send this to the coworker who got the \"let me speak to your manager\" today. You weren't wrong — they just needed a bigger title to say the same sentence.",
-          "variations": [
-            "Customers don't want a different answer, just a different mouth to say it.",
-            "\"Get me your manager\" translates to: I need someone who out-earns you to tell me no."
           ]
         }
       }
