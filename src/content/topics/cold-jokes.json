@@ -11052,6 +11052,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-425",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "",
+      "sourceNote": "台灣口語「機車」（形容人難搞）與機車（車輛）的雙關自製題材，站內尚無機車相關內容；英文不硬翻，改用 idle／in gear／reverse 的車輛雙關自成笑點",
+      "tags": [
+        "諧音",
+        "職場",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我們組新來的那位，很機車。」\n「怎麼個機車法？」\n「你把事情交給他，他一定先熄火。」\n「熄火是什麼意思？」\n「就是停在那邊不動，等你去催。」\n「催了呢？」\n「催了會發動，但只發動到剛好夠他問一個問題。」\n「什麼問題？」\n「『這個很急嗎？』」\n「⋯⋯所以他真的很機車。」\n「對，而且是那種要用牽的。」",
+          "editorNote": "適合下班後跟同事互相吐槽那種凡事都要催三次的合作對象，臨時想自嘲今天狀態很差也能反過來用",
+          "variations": [
+            "短版：「我今天沒辦法配合，我今天是那種要用牽的。」",
+            "加碼：「那主管呢？」「主管是電動的。安靜、順，而且從來不用人家幫他加油。」"
+          ]
+        },
+        "en": {
+          "content": "\"Which coworker is the hardest to work with?\"\n\"No idea.\"\n\"The one who idles.\"\n\"Idles?\"\n\"Sits there running, going nowhere, burning everyone else's fuel.\"\n\"Does he ever move?\"\n\"Only in reverse, and only after you ask twice.\"\n\"What about the good one?\"\n\"She's already in gear before the meeting starts.\"",
+          "editorNote": "For venting about the teammate who needs three reminders per task, or for owning up on a day when you are clearly the one idling",
+          "variations": [
+            "Short version: 'Two of us on this project. One is in gear. One is idling.'",
+            "Add-on: 'And the manager?' 'Electric. Quiet, smooth, and never needs telling to fill up.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-426",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://tw.trip.com/blog/qixi-festival-tw/",
+      "sourceNote": "七夕送禮／約會攻略類整理為背景，只取「節日溢價」的消費觀察自製；不寫日期、不寫廟宇流程與供品價格，中英各自重寫（英文改用日曆加價的直述笑點）",
+      "tags": [
+        "戀愛",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「同一束花，我問了兩次價。」\n「幹嘛問兩次？」\n「第一次是上禮拜，三百二。」\n「第二次呢？」\n「第二次我說要七夕那天取，八百。」\n「花有變嗎？」\n「一模一樣，連包裝紙的顏色都一樣。」\n「那貴的是什麼？」\n「日期。花只是負責被拿在手上。」",
+          "editorNote": "適合節日前發現同樣的東西默默變貴的時候，情侶之間互相調侃「我們是被日曆收費」也很好用",
+          "variations": [
+            "短版：「花沒有漲，是日曆漲了。」",
+            "加碼：「所以你買了嗎？」「買了。我付的不是花的錢，是『我有記得』的手續費。」"
+          ]
+        },
+        "en": {
+          "content": "\"Priced the same bouquet twice this week.\"\n\"Why twice?\"\n\"Monday it was fourteen dollars.\"\n\"And the second time?\"\n\"I said I'd pick it up on the holiday. Forty-two.\"\n\"Did the flowers change?\"\n\"Same stems. Same paper. Same everything.\"\n\"So what's the markup on?\"\n\"The calendar. The flowers just get carried.\"",
+          "editorNote": "For the week before any romantic holiday, when identical objects quietly triple in price",
+          "variations": [
+            "Short version: 'The flowers didn't go up. The date did.'",
+            "Add-on: 'Buying them anyway?' 'Yes. I'm not paying for roses. I'm paying for proof I remembered.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-427",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "",
+      "sourceNote": "開學前調作息題材自製；站內既有開學梗是新文具與暑假作業分配，本篇改走「提早一小時開始睡不著」，中英各自重寫",
+      "tags": [
+        "校園",
+        "生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「開學前我開始調作息。」\n「怎麼調？」\n「每天提早一個小時上床。」\n「有效嗎？」\n「非常有效。」\n「真的假的？」\n「我現在每天提早一個小時開始睡不著。」\n「⋯⋯那你都在幹嘛？」\n「躺著。想著明天要更早一點躺著。」\n「那開學怎麼辦？」\n「開學就不用調了，到時候我會累到自動對時。」",
+          "editorNote": "適合暑假最後那幾天在群組裡哀號，連假結束前一晚傳給同事也成立",
+          "variations": [
+            "短版：「我調了七天作息，成果是七個晚上的躺著。」",
+            "加碼：「那第一天怎麼過的？」「我在第三節課把那七個晚上一次補完。」"
+          ]
+        },
+        "en": {
+          "content": "\"Started moving my bedtime an hour earlier.\"\n\"How's that going?\"\n\"Perfectly.\"\n\"Really?\"\n\"I now lie awake one hour earlier than I used to.\"\n\"What do you do in that hour?\"\n\"Lie there. Thinking about lying there even earlier tomorrow.\"\n\"So what happens when term starts?\"\n\"It fixes itself. I'll be tired enough to sync automatically.\"",
+          "editorNote": "For the last stretch of summer break, or the Sunday night before any long break ends",
+          "variations": [
+            "Short version: 'Seven nights of preparation. Seven nights of lying in the dark.'",
+            "Add-on: 'How was day one?' 'I caught up on all seven nights during third period.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-428",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "",
+      "sourceNote": "鞋款擬人自製題材，站內只有一則蜈蚣穿鞋；中文用「拖鞋／拖」的雙關，英文不硬翻，改用 loafer/loaf 的自有雙關",
+      "tags": [
+        "諧音",
+        "生活",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道哪一種鞋最沒有行動力嗎？」\n「不知道。」\n「拖鞋。」\n「為什麼？」\n「因為牠什麼事都用『拖』的。」\n「⋯⋯那哪一種最果斷？」\n「球鞋。牠說走就走。」\n「那皮鞋呢？」\n「皮鞋不走，牠等別人先開口。」\n「這是什麼職場圖鑑嗎？」\n「對。你今天穿哪一雙，就代表你今天想當誰。」",
+          "editorNote": "適合夏天大家都穿拖鞋進辦公室的日子，也適合用來預告自己今天完全不想動",
+          "variations": [
+            "短版：「我今天穿拖鞋，因為我對今天沒有任何計畫。」",
+            "加碼：「那雨鞋呢？」「雨鞋最有準備，牠是前一天晚上就把東西收好的那種人。」"
+          ]
+        },
+        "en": {
+          "content": "\"Which shoe gets the least done?\"\n\"No idea.\"\n\"Loafers. All they do is loaf.\"\n\"And the productive one?\"\n\"Sneakers. Already halfway out the door.\"\n\"What about dress shoes?\"\n\"They don't move. They wait to be told.\"\n\"Is this a personality test?\"\n\"Whatever you put on this morning, that's who you decided to be today.\"",
+          "editorNote": "For a casual-Friday office, or for the day you have zero intention of doing anything",
+          "variations": [
+            "Short version: 'Wore loafers today. Set your expectations accordingly.'",
+            "Add-on: 'And boots?' 'Boots packed the night before. Boots have a plan.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -9214,6 +9214,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-334",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://health.ltn.com.tw/article/breakingnews/3853782",
+      "sourceNote": "Inspired by 自由健康網報導：長期碰水與清潔劑造成指腹紋路磨損、手機解鎖失敗；rewritten as 門市打卡機認不得我、改按員工編號 — original framing",
+      "tags": [
+        "服務業",
+        "心聲",
+        "療癒",
+        "餐飲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「指紋辨識失敗，請重試。」\n今天早上第四次。\n洗手、消毒、拆箱、洗杯子，\n手套戴上再脫掉，一天七十幾回，\n指腹上那幾圈紋路，\n被我自己一層一層洗掉了。\n打卡機不認得我，\n手機也不認得我。\n我只好改按員工編號，\n七位數字，一次就過。\n這雙手每天替兩百個人結帳，\n把熱的遞出去，把冷的收回來，\n最後連自己是誰都證明不了。\n機器認那串號碼，\n我認得自己就好。",
+          "editorNote": "傳給每天把手泡在水裡的人：餐飲、美髮、清潔、醫護。這份工作從你手上拿走的東西，只有掃描機看得見。",
+          "variations": [
+            "我的指紋不是不見了，是被兩百杯飲料一杯一杯帶走的。",
+            "打卡機不認得我沒關係，這雙手記得今天做了什麼。"
+          ]
+        },
+        "en": {
+          "content": "\"Fingerprint not recognized. Try again.\"\nFourth time this morning.\nWashing, sanitizing, box cutters, glassware,\ngloves on, gloves off, seventy-some times a shift —\nthe ridges on my fingertips\ngot scrubbed away one layer at a time.\nThe time clock doesn't know me.\nMy phone doesn't know me.\nSo I punch in my employee number instead.\nSeven digits. First try, every time.\nThese hands ring up two hundred people a day,\nhand out the hot, take back the cold,\nand can't prove who they belong to anymore.\nThe machine goes by the number.\nI know who I am.",
+          "editorNote": "For anyone whose hands live in water all shift — kitchens, salons, cleaning crews, clinics. What the job takes off your fingertips shows up nowhere but the scanner.",
+          "variations": [
+            "Lost my fingerprints to two hundred iced drinks. The scanner noticed before I did.",
+            "Time clock can't read me. These hands still remember the whole shift."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-335",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://www.etax.nat.gov.tw/etwmain/tax-info/innotative-tax-e-reference/startup/invoice/vVPmx57",
+      "sourceNote": "Inspired by 財政部稅務入口網說明：電子發票事後補加買受人統編須作廢重開；rewritten as 收銀台現場的五個補救動作 — original framing",
+      "tags": [
+        "服務業",
+        "收銀",
+        "厭世",
+        "零售"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「開好了，總共三百二。」\n「啊，我要打統編。」\n剛印出來的那張要作廢，\n交易要重刷，載具要退掉，\n存根聯要註明、要黏回去。\n您少講的那三個字，\n換成我多做的五個動作。\n不是我不肯，\n是這台機器比我還沒有彈性。",
+          "editorNote": "傳給每天在收銀台跟發票系統搏鬥的人。也適合貼在櫃檯後面提醒自己深呼吸——卡住的是流程，不是你的手速。",
+          "variations": [
+            "世界上最貴的三個字，是結完帳之後才出現的「要統編」。",
+            "我不怕客人有統編，我怕統編比發票晚一秒到。"
+          ]
+        },
+        "en": {
+          "content": "\"All set. Three-twenty total.\"\n\"Oh — put the company tax ID on that.\"\nThe slip that just printed gets voided.\nThe sale gets rung again.\nThe digital carrier gets unlinked.\nThe stub gets marked and pasted back.\nThree words you didn't say\nturn into five things I have to do.\nIt isn't that I won't.\nIt's that this machine bends less than I do.",
+          "editorNote": "For everyone fighting the receipt system at the register. Also good taped behind the counter as a reminder to breathe — the workflow is what jammed, not you.",
+          "variations": [
+            "Three cheap words, priciest possible timing: \"tax ID on that.\"",
+            "I don't mind the tax ID. I mind it landing one second after the receipt."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-336",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://www.dcard.tw/f/job",
+      "sourceNote": "Inspired by Dcard 工作板長年討論的櫃檯用品消耗（筆、剪刀、膠帶）；rewritten as 一個月七支筆的防護升級史 — original framing",
+      "tags": [
+        "服務業",
+        "幽默",
+        "笑話",
+        "收銀"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "櫃檯這支筆，這個月是第七支。\n第一支被帶走。\n第二支被帶走。\n第三支我用膠帶黏了一朵塑膠花，還是被帶走。\n第四支綁湯匙，第五支綁尺，\n第六支我在筆桿上寫「請留步」。\n現在這支，用鞋帶綁在收銀機上，\n長度剛好夠簽名，不夠出門。\n我沒有生氣，\n我只是有點想知道，\n那六支在外面過得好不好。",
+          "editorNote": "傳給櫃檯、服務台、收貨處——所有守著那支永遠會消失的筆的人。輕鬆版共鳴，適合直接貼進同事群組。",
+          "variations": [
+            "我這輩子最扎實的資產管理訓練，是保護櫃檯那支筆。",
+            "在筆上綁湯匙不是幽默感，是三個月的實戰結論。"
+          ]
+        },
+        "en": {
+          "content": "Seventh pen at this counter this month.\nFirst one walked out.\nSecond one walked out.\nThird one had a plastic flower taped to it. Walked out.\nFourth had a spoon on it. Fifth had a ruler.\nSixth had \"please stay\" written down the barrel.\nThis one is tied to the register with a shoelace,\nlong enough to sign with, not long enough to leave.\nI'm not angry.\nI just want to know\nhow the other six are doing out there.",
+          "editorNote": "For every counter, front desk, and receiving dock guarding the one pen that always disappears. Light enough to drop straight into the staff group chat.",
+          "variations": [
+            "Best asset management training I ever got: one pen, one counter, one month.",
+            "Taping a spoon to the pen isn't a joke. It's three months of field research."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-337",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://udn.com/news/story/7269/9644164",
+      "sourceNote": "Inspired by 104 人才白皮書：民生服務業每職缺平均分不到 0.3 人應徵、新進人員流動偏高；rewritten as 店長擦掉班表上那個鉛筆名字的早上 — original framing",
+      "tags": [
+        "服務業",
+        "缺工",
+        "心聲",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "班表上那一格，我先用鉛筆寫了她的名字。\n名牌做好了，\n置物櫃貼了標籤，\n倉庫翻出一件 S 號，掛在門後。\n說好星期一早上九點。\n九點十分，訊息還停在已讀。\n十點，我把鉛筆的字擦掉，\n那一格改成我自己。\n我沒有生氣。\n這一行來的人多，走的人也多。\n只是想跟她說一聲：\n哪天想回來看看，\n那件 S 號我還留著。",
+          "editorNote": "傳給每個把一切都準備好、卻等到十點的店長與資深同事。也傳給曾經沒去成的那個自己——這一行不缺責備，缺的是位子還幫你留著。",
+          "variations": [
+            "缺工的數字聽起來很大，落到現場就是班表上被擦掉的一行鉛筆字。",
+            "我準備了名牌、置物櫃和一件 S 號，最後只用到那支橡皮擦。"
+          ]
+        },
+        "en": {
+          "content": "Wrote her name into the schedule in pencil.\nName tag made.\nLocker labeled.\nPulled a size small from the back, hung it on the door.\nNine a.m. Monday, we said.\nNine-ten, the message is still just read.\nAt ten I erased the pencil\nand put my own name in the box.\nI'm not angry.\nPeople come into this trade fast and leave it faster.\nI just want her to know:\nif she ever wants to come look around,\nthe small is still on the hook.",
+          "editorNote": "For every manager and senior who set the whole thing up and were still waiting at ten. And for the version of you who once didn't show — this trade has no shortage of blame; what's short is a spot still held open.",
+          "variations": [
+            "Staffing shortage sounds like a statistic. On the floor it's one penciled name, erased.",
+            "Made the tag, labeled the locker, pulled a size small. Only thing I used was the eraser."
+          ]
+        }
+      }
     }
   ]
 }

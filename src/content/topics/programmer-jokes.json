@@ -12129,6 +12129,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-422",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://www.ithome.com.tw/tech/120939",
+      "sourceNote": "社交工程演練與資安意識訓練的成效指標討論（點擊率、回報率、完課率）；重寫成一則「數字好看的真正原因」的故事",
+      "tags": [
+        "資安",
+        "職場",
+        "黑色幽默",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這季的社交工程演練成績出來了：全公司點擊率百分之二點一，歷史新低。主管在群組貼了一張慶祝貼圖。\n我把明細打開。\n沒被釣到的第一名原因，不是「識破」。\n是那封演練信被我們自己的郵件過濾器擋掉了。一千兩百人裡，八百人根本沒收到。\n再往下，回報按鈕被按了四十七次。其中三十一次是同一個人——他把那週所有的信都回報了，包含人資的薪資通知。\n最後一欄才是我想看的：這一季由真人回報的可疑信件，十一封。\n其中一封不在演練名單上。\n它是真的。它在信箱裡躺了六天。\n因為大家都以為那是演練。",
+          "editorNote": "適合在有人把演練點擊率當成資安成效在會議上發表的時候貼出來。",
+          "variations": [
+            "短版：那季點擊率創新低，因為演練信被我們自己的過濾器擋掉了。",
+            "延伸：後來我們改看回報率，不看點擊率。第一個月的數字很難看，難看到我終於相信它是真的。"
+          ]
+        },
+        "en": {
+          "content": "2.1 percent click rate. All-time low. My manager posted a celebration sticker in the channel.\nThen I opened the breakdown of this quarter's phishing drill.\nThe top reason people didn't get caught was not that they spotted it.\nOur own mail filter had blocked the drill. Eight hundred of twelve hundred people never received it.\nFurther down: the report button was pressed forty-seven times. Thirty-one of those were one guy who reports every email he gets, payroll notices included.\nThe last column was the one I wanted. Suspicious emails reported by actual humans this quarter: eleven.\nOne of them was not on the drill list.\nIt was real. It sat in inboxes for six days.\nBecause everyone assumed it was the drill.",
+          "editorNote": "Pull it up when someone presents drill click rate as a security outcome.",
+          "variations": [
+            "Short version: our record-low click rate happened because our own filter ate the drill.",
+            "Extension: we switched to tracking report rate instead. The first month looked terrible, which is how I knew it was finally real."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-423",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Timesheet",
+      "sourceNote": "工時填報與專案代號分類制度的一般說明；重寫成一則「無法歸類的時間佔比最高」的故事",
+      "tags": [
+        "職場",
+        "工程師日常",
+        "黑色幽默",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司規定每天要填工時，八小時必須全部拆到專案代號上，不能留空。\n禮拜一我花了三個半小時追一個問題，最後查出來是我自己上禮拜改壞的。\n代號清單裡沒有這件事。\n「開發」不對，那不是開發。「測試」也不對，我沒在測試。「會議」更不對，我一整天沒跟任何人講過話。\n我選了「其他」。\n禮拜三，幫新人把本機環境從頭重建一次，四小時。「其他」。\n禮拜五，讀了兩小時的舊程式碼，只為了確認一件事不能做。「其他」。\n年底我把自己一整年的紀錄下載下來，自己加總了一次。\n「其他」佔三成四。那是我今年最大的專案。\n它沒有名字，沒有代號，也沒有出現在任何一張規劃表上。",
+          "editorNote": "適合在公司導入新的工時填報制度、或年底檢討「時間到底花去哪裡」的時候貼。",
+          "variations": [
+            "短版：今年我最大的專案叫「其他」，佔三成四。",
+            "延伸：我把那三成四拆開來看，裡面有一半是在幫別人把事情弄回原狀。這件事沒有代號，是因為沒有人打算把它排進計畫。"
+          ]
+        },
+        "en": {
+          "content": "Three and a half hours on Monday, chasing a bug that turned out to be mine from last week.\nOur timesheet wants eight hours a day, split across project codes, no gaps.\nThere is no code for that.\nDevelopment is wrong, it wasn't development. Testing is wrong, I wasn't testing. Meetings is very wrong; I didn't speak to a single person all day.\nI picked Other.\nWednesday: four hours rebuilding a new hire's local environment from scratch. Other.\nFriday: two hours reading old code to confirm that a thing could not be done. Other.\nIn December I downloaded my own year of entries and added them up myself.\nOther came to thirty-four percent. It was my biggest project of the year.\nIt has no name, no code, and it appears on no plan anywhere.",
+          "editorNote": "Good for the week a new time-tracking policy lands, or any year-end review of where the hours went.",
+          "variations": [
+            "Short version: my biggest project this year was called Other, at thirty-four percent.",
+            "Extension: I broke that thirty-four percent apart. Half of it was putting things back the way they were. It has no code because nobody planned for it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-424",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://medium.com/@wishnoblog/c-%E6%B0%91%E5%9C%8B%E8%88%87%E8%A5%BF%E5%85%83%E5%B9%B4%E8%99%95%E7%90%86-42cb7394e904",
+      "sourceNote": "民國年與西元年互轉的常見寫法與誤判情境；重寫成一則跨三個系統的日期格式事故",
+      "tags": [
+        "工程師日常",
+        "bug",
+        "維護",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "對帳對不起來，整批都差。\n我把兩邊拉出來比：我們這邊的訂單日期是 2026-08-12，對方系統回來的是 1150812。\n民國年。加減一千九百一十一，寫個轉換，十分鐘的事。\n麻煩的是第三個系統。它十年前接的，那個欄位的型別是整數，存進去的就是 1150812。\n到了報表那一層，有人為了讓它「看起來像日期」，做了一件非常合理的事：把它當西元讀。\n所以那批訂單的成立日期，是西元一一五年八月十二日。\n我們的系統很誠實地算了帳齡：六十九萬多天。\n逾期到這種程度的應收帳款會被自動歸為呆帳，然後系統會寄一封催收通知出去。\n收件人是我們自己的財務部。",
+          "editorNote": "適合在有人說「日期就存個數字就好，不用那麼講究」的時候貼給他看。",
+          "variations": [
+            "短版：一個欄位少了一千九百一十一，我們的系統就跟自己的財務部催了一筆兩千年的帳。",
+            "延伸：修的時候最難的不是轉換，是判斷資料庫裡那三百萬筆整數，哪些已經加過、哪些還沒。"
+          ]
+        },
+        "en": {
+          "content": "1150812. That is what the other system returned for an order we had recorded as 2026-08-12.\nTaiwan's Republic era calendar. Year 115. Fine: add 1911, write a converter, ten minutes.\nThe trouble was the third system. Wired up ten years ago, the column typed as an integer, and 1150812 is exactly what got stored.\nBy the reporting layer, someone had done a very reasonable thing to make it look like a date: read it as a Western year.\nSo those orders were created on the twelfth of August, year 115.\nOur system honestly computed the aging: a little over six hundred ninety thousand days.\nReceivables that far overdue get flagged as bad debt automatically, and a collection notice goes out.\nIt went to our own finance department.",
+          "editorNote": "Show it to anyone who says a date can just be stored as a number, no need to fuss.",
+          "variations": [
+            "Short version: one field short by 1911, and our system sent a two-thousand-year-old collection notice to our own finance team.",
+            "Extension: the hard part was never the conversion. It was telling which of three million stored integers had already been shifted and which had not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-425",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://learn.microsoft.com/en-us/defender-endpoint/configure-exclusions-microsoft-defender-antivirus",
+      "sourceNote": "端點防護的即時掃描與路徑排除設定說明；重寫成一則「排除清單被整組複製貼上」的公司政策故事",
+      "tags": [
+        "資安",
+        "工具",
+        "工程師日常",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司換了新的端點防護。禮拜一開機之後，我的建置從四十秒變成六分半。\n我去問，對方說掃描是即時的，每一個檔案都要看過一次。\n我請他們看一眼那個資料夾：八萬七千個檔案，而且每次裝一次依賴，這八萬七千個會整批重寫。\n他們說可以申請路徑排除，填一張表就好，欄位裡有一格叫「業務必要性」。\n我第一次寫的是：我一天要等它三十七分鐘。主管說這個理由不夠正式。\n我改成：影響交付時程。當天就過了。\n那張表後來被複製了十四次，每一份的必要性欄都是同一句話，連標點都一樣。\n上禮拜年度盤點，有人問我們公司到底有哪些路徑不在掃描範圍。\n清單開出來，我看了很久。\n掃不到的地方，比掃得到的多。",
+          "editorNote": "適合在資安政策上線第一週、大家開始互相傳「那張表要怎麼寫」的時候貼出來。",
+          "variations": [
+            "短版：那張排除申請表被複製了十四次，理由欄一字不改。",
+            "延伸：真正該檢討的不是誰複製了那句話，是那張表從頭到尾沒有一欄在問「這個路徑裡面是什麼」。"
+          ]
+        },
+        "en": {
+          "content": "Forty seconds to six and a half minutes. That is what my build did the Monday the new endpoint protection rolled out.\nThey told me the scanning is real time. Every file gets looked at once.\nI asked them to look at the folder: eighty-seven thousand files, and all eighty-seven thousand get rewritten every time someone installs dependencies.\nThey said I could request a path exclusion. Just one form, with a field called business justification.\nMy first answer was: I spend thirty-seven minutes a day waiting for it. My manager said that reason wasn't formal enough.\nI changed it to: impacts delivery schedule. Approved the same day.\nThat form has since been copied fourteen times. Every copy has the same justification, punctuation and all.\nLast week, during the annual review, someone asked which paths at this company are outside the scan.\nThe list came up and I stared at it for a while.\nThere is more excluded than included.",
+          "editorNote": "Post it in week one of a new security policy, when people start passing around how to fill in the form.",
+          "variations": [
+            "Short version: the exclusion form got copied fourteen times, justification field untouched.",
+            "Extension: the problem isn't who copied the sentence. It's that no field on that form ever asked what is actually inside the path."
+          ]
+        }
+      }
     }
   ]
 }

@@ -7626,6 +7626,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-258",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://www.setn.com/news/1887291",
+      "sourceNote": "報導討論離家自住後對水電費的認知落差；延伸改寫成「第一次拿到寫自己名字的電費單」的原創觀察",
+      "tags": [
+        "電費",
+        "帳單",
+        "家人",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "住在家裡的那些年，我每個夏天都覺得冷氣開得不夠久。\n搬出來的第一個七月，我在信箱裡拿到一張電費單，收件人欄位印著我的名字。\n它沒有教訓我，也沒有叫我省一點，它只是很平靜地列出一個金額，告訴我涼是有價錢的。\n而過去二十幾年，這個價錢一直有人在幫我付。",
+          "editorNote": "適合搬出來獨立的第一個夏天，或想謝謝家人卻說不出口的那一刻",
+          "variations": [
+            "涼是有價錢的。這件事我活到二十幾歲，才第一次看到金額。",
+            "以前我以為冷氣是空氣，直到那張單子上印的是我的名字。"
+          ]
+        },
+        "en": {
+          "content": "Twenty-odd summers, someone else covered the cool air. I never once saw the number.\nMy first July in my own place, an envelope showed up with my name in the addressee line.\nIt didn't lecture me or tell me to cut back. It just listed an amount, calmly, and let me work out that comfort has a price.\nSomebody had been quietly paying that price my whole life.",
+          "editorNote": "For your first summer paying your own bills, or when you want to thank your family and can't say it out loud",
+          "variations": [
+            "Cool air has a price. I was in my twenties before I saw the figure.",
+            "Air conditioning felt like oxygen right up until the bill had my name on it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-259",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://www.taipower.com.tw/tc/page.aspx?mid=128",
+      "sourceNote": "台電「委託金融機構代繳電費」說明頁；延伸改寫成「自動代繳讓痛感消音」的原創觀察",
+      "tags": [
+        "電費",
+        "帳單",
+        "理財",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把電費改成銀行代繳，理由講得很成熟：不會忘記繳，也不用特地跑一趟。\n實際效果是：從那天起，我沒有再打開過任何一個信封。\n錢照樣走，只是走得很安靜，安靜到我整個夏天都覺得自己過得還算節制。\n直到我為了別的事翻明細，看見三期的金額整整齊齊排成一列。\n那個痛沒有消失，它只是被存起來，等一次還我。",
+          "editorNote": "適合剛把所有帳單自動化、才發現自己完全不知道花了多少的人",
+          "variations": [
+            "代繳不會讓電費變便宜，只會讓它變安靜。",
+            "痛感沒有不見，它排成一行躺在明細裡，等我哪天自己去翻。"
+          ]
+        },
+        "en": {
+          "content": "Signed up for auto-debit in four minutes. Never opened another envelope all summer.\nThe money still left the account. It just left quietly, and quiet money is easy to mistake for money you didn't spend.\nThen I went digging through the statement for something unrelated and found three billing cycles stacked in a neat little column.\nAuto-debit doesn't delete the flinch. It saves it up and hands it back all at once.",
+          "editorNote": "For anyone who automated every bill and lost track of what they actually spend",
+          "variations": [
+            "Auto-debit doesn't shrink the bill. It mutes it.",
+            "Three charges, same line item, one after another. That's a whole summer, itemized."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-260",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://www.100.com.tw/article/7369",
+      "sourceNote": "吊扇耗電量與冷氣的比較（吊扇每小時約 0.08 度、冷氣 0.8～1.2 度，靠風感而非降室溫）；延伸改寫成原創",
+      "tags": [
+        "省電",
+        "夏天",
+        "電費",
+        "冷氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我家客廳那台吊扇掛了八年，這八年它的工作只有一項：好看。\n今年夏天我搬椅子上去，把扇葉一片一片擦乾淨，按下開關，它慢慢轉起來，聲音有點老。\n查了才知道，它轉一小時大概吃 0.08 度，冷氣是它的十倍以上。\n可是它不會讓房間變涼，它只是把空氣推動，讓皮膚以為涼了。\n所以它真正的專長不是降溫，是用全家最便宜的成本，幫我騙我自己。",
+          "editorNote": "適合家裡有一台從沒開過的吊扇、今年終於想起它的時候",
+          "variations": [
+            "吊扇不降室溫，它只負責說服你的皮膚。",
+            "一小時 0.08 度，全家最便宜的員工，在上面掛了八年沒領過薪水。"
+          ]
+        },
+        "en": {
+          "content": "Eight years on that ceiling, and its entire job was looking nice.\nThis summer I dragged a chair over, wiped every blade, and hit the switch. It came around slowly, sounding its age.\n0.08 kWh an hour. The air conditioner pulls more than ten times that.\nIt doesn't cool the room, though. It just moves the air until my skin decides things have improved.\nCheapest worker in the house, and the whole job is helping me fool myself.",
+          "editorNote": "For the ceiling fan nobody in your house has switched on in years",
+          "variations": [
+            "0.08 kWh an hour, ten times cheaper than the AC and far more honest about what it can't do.",
+            "The fan never lowers the temperature. It only convinces your skin."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-261",
+      "dateAdded": "2026-08-12",
+      "sourceUrl": "https://www.heran.com.tw/wp-content/uploads/AR%E9%81%99%E6%8E%A7%E5%99%A8%E8%AA%AA%E6%98%8E%E6%9B%B8%E5%86%B7%E6%9A%96.pdf",
+      "sourceNote": "冷氣遙控器說明書中的記憶設定（重新開機會回到上次的溫度與模式）；延伸改寫成原創",
+      "tags": [
+        "冷氣",
+        "電費",
+        "厭世",
+        "省電"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每天回到家，我按下遙控器，冷氣自己回到 27 度。\n這個功能我沒設定過，是它自己記著的：上次關機停在幾度，下次開機就從幾度開始。\n問題是 27 度從來不是我想要的溫度。\n我想要的是 24，27 是我每天晚上跟自己來回幾次之後，最後停下來的地方。\n它記住的從來不是我的喜好，是我的讓步。",
+          "editorNote": "適合每天按下遙控器、看到那個數字覺得又好笑又有點酸的時候",
+          "variations": [
+            "冷氣不記得我喜歡幾度，只記得我最後退到幾度。",
+            "27 度不是我的偏好，是我跟帳單來回之後留下來的數字。"
+          ]
+        },
+        "en": {
+          "content": "Press the button and it wakes up at 27. Nobody programmed that. It just keeps whatever I left it on.\n27 was never the temperature I wanted. I wanted 24.\n27 is where I stop every night, after going back and forth with a bill that hasn't even arrived yet.\nIt isn't remembering my preference. It's remembering how far I backed down.",
+          "editorNote": "For the small daily moment when your own compromise gets handed back to you",
+          "variations": [
+            "It remembers the last setting, which is never my favorite one. It's my concession.",
+            "24 is what I want, 27 is what I accept, and the remote only ever saves the second number."
+          ]
+        }
+      }
     }
   ]
 }
