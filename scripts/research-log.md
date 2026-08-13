@@ -8697,11 +8697,11 @@ Done items collapsed; only live priorities listed.
 1. **🔴 三日來的「維護不吃清單」結論今日被改寫：不是不聽話，是兩個偵測器根本在抓不同的缺陷 · Two Detectors, Two Defects（機制，priority 🔴 HIGHEST）**
    - **全站現為 13,851 items。口徑對帳：13,782 ＋ 新增 168 － 刪除 99 ＝ 13,851 ✅**（`732b606 daily update 2026-08-12` 後接 `c92d6db maintenance update 2026-08-12 - remove 99`）。
    - **🔴 決定性證據**：把 8/12 被刪的 99 篇拿回維護前的版本、逐篇算「它與同檔任何一篇的最高字元集 Jaccard」，抽驗三檔共 35 篇：**couple-jokes 13 篇（最高 0.479、中位 0.346）、service-quotes 8 篇（最高 0.525、中位 0.442）、cheesy-pickups 14 篇（最高 0.578、中位 0.471）。→ 35 篇中只有 2 篇有 ≥0.55 的詞面孿生兄弟。**
-   - **→ 維護端刪的東西，在字元層幾乎完全不像重複。它抓的是語意重複；本報告用的是詞面重複。兩把尺近乎正交。**
+   - **→ 維護端刪的東西，用本報告的尺幾乎都不像重複。⚠️ 但這不代表它是「語意尺」——依維護通道自身的紀錄，它用的是 zh `content` 上的 bigram 叢集（quoted-payload 0.48／whole 0.45＋union-find），再加一層「只有 kicker 重複才刪」的人工判斷（該run 265 篇入選、實刪 99 篇＝37%）。**→ 兩者都是詞面尺，但取樣的特徵不同（字元集 vs 相鄰字對）且維護多一層判斷層，結果近乎正交。**
    - **佐證一**：99 篇下架，**全站 ≥0.55 的配對只從 37 降到 35（淨 −2）**。若兩把尺重疊，99 篇應該把配對清空。
    - **佐證二**：**昨日點名的 19 個 ID 全數存活（0/19）**，`cp-275/cp-310`、`cp-254/cp-328`、`hq-105/hq-228`、`aw-199/aw-204` 都還在。
    - **佐證三**：**昨日點名的第一優先檔 cheesy-pickups 確實刪最多（14 篇）——但刪的是另外 14 篇；第二優先 healing-quotes 掛 7 對詞面重複，刪 0 篇（整檔不在 27 檔清單內）。**cheesy 排第一比較可能是因為它是全站最大檔（414），不是因為被點名。
-   - 建議: **⑴ 修正前三日的模型——「維護會跑但自選目標」仍成立，但原因不是忽略清單，而是它的缺陷定義不同，這一點必須寫進紀錄以免繼續誤判。⑵ 詞面重複（35 對）是維護通道結構性看不到的殘留，不會因為維護跑得再勤而消失。⑶ 本項續為量測不得寫成「請刪 Y」**（點名 ID 命中率至此為 1/30）。
+   - 建議: **⑴ 修正前三日的模型——「維護會跑但自選目標」仍成立，但原因不是忽略清單，而是它用另一把偵測器＋另一套刪除門檻（只有 kicker 重複才刪，格式重複視為文體不刪），這一點必須寫進紀錄以免繼續誤判。⑵ 詞面重複（35 對）是維護通道結構性看不到的殘留，不會因為維護跑得再勤而消失。⑶ 本項續為量測不得寫成「請刪 Y」**（點名 ID 命中率至此為 1/30）。
 
 2. **🟢 稀釋案今晚就會落地，比昨日預估早一天 · Lands Tonight（adulting-quotes 369，priority HIGH）**
    - **`tags` 含「大人」：186／369 ＝ 50.4%**（8/12 為 187／366 ＝ 51.1%）。**分子 187→186**——維護刪掉的 `aq-253` 恰好帶該 tag（**這是維護第一次對稀釋案有正貢獻，但屬偶然，不可據此改回維護通道**）。
@@ -8791,7 +8791,7 @@ Done items collapsed; only live priorities listed.
 - **cheesy-pickups（404）／healing-quotes（349）（詞面重複殘留量測, priority MEDIUM — 量測非指令）**：**今日 zh `content` 單欄位、字元集 Jaccard ≥0.55 全站 35 對／18 檔**（8/12 為 37 對；99 篇維護只減少 2 對）：**cheesy-pickups 7、healing-quotes 7**、graduation 2、self-love 2、sweet 2、breakup 2、motivational 2，其餘 10 檔各 1。最高仍為 **`cp-275`／`cp-310` 與 `cp-254`／`cp-328` 皆 0.622**，🆕 新入榜 **`cp-189`／`cp-300` 0.605（撐傘）、`cp-288`／`cp-303` 0.600（拿鐵）、`gq-137`／`gq-145` 0.591（劇情大轉折／大反轉）、`cj-304`／`cj-316` 0.588（軟糖熊）**。⚠️ **此類殘留維護端看不見（見第 1 條），若人工處理，同一句保留 2–3 個明顯不同的 riff，勿全刪；跨 topic 一律保留。**
 - **[全站 en 欄位, priority HIGH — 🆕 本日升級]** **三條結構規則並行：① 關鍵字放句首 ② 具體數字／動作開頭且不解釋 ③ 🆕 長度往啞鈴兩端走。**站內長度實測：**中位 49 字、≤3 字 0 篇、4–15 字 326（2.4%）、16–40 字 4,876（35.2%）、>100 字 1,892（13.7%）——整批壓在外部證據點名最差的中段，短端完全空白，優先補極短端。**詞彙量測（en 欄位、不分大小寫）：plot twist 28／main character 25／it worked 20／nostalgia 18／screen time 15／current status 11／manifesting 11／iced coffee 8／delusion 5／rent-free 4；**白地 core memory 0、"POV:" 0、not much to say 0、running on vibes 0、main character energy 0**（範圍已重設基準）。back-to-school 家長側：first day of school 7／quiet house 4／drop-off 3／supply list 1。⚠️ 句式只取結構不得照抄；**"Sorry we are late, they had a tantrum" SKIP；gyatt 不得延伸；rent-free 勿與 renting-quotes 混寫。**
 - **[FLAG — SKIP 不變＋本日新增]** 國會預算戰＋中國軍演＋民眾黨主席＋海巡衝突＋校園霸凌＋超哥爭議／超派炸雞廢油＋食安遊行／食用油致癌／疑美論＋啦啦隊成員遭刀械攻擊＋校事會議制度爭議＋台糖毒油通報爭議＋台東縣長海峽論壇爭議＋11/28 九合一選舉與各黨提名（整個選季）全 SKIP。『大跳』『我ven一下／YBSG』『YYDS』『最頂』『八哩八告』『ㄅ級分』『全民健身日』『Saxophone Gets Louder』『Jimothy 浣熊』『躲秋』指導型內容『竹知了』『遙遙領先』『欸吼欸吼』『Spiki』『生肖沖煞』『gyatt』『契子』『七夕撞颱風季』SKIP。**🆕 本日新增：『Korasho 快報』（外語音源梗，無中文語意可寫）。**周興哲〈怎麼了〉歌詞不得引用改寫；"No I didn't, dingbat"（Dance Moms 版權音訊）與 "Sorry we are late, they had a tantrum"（TikTok 版權音源）SKIP。鬼月禁忌中涉及實際行為勸阻者不得寫成建議。中國大陸各省開學資訊不得作為素材或 sourceUrl；蜘蛛人為授權 IP 不得寫成劇情或角色台詞。原住民族日勿寫成玩笑（無把握則 SKIP）。八八風災、莫拉克 SKIP。颱風災情、救災人員、受影響國家地區一律不得調侃。
-- **[休眠不變]** worldcup（212）深度休眠至 2030、純常青；graduation（375）常青；exam-quotes（313）深度休眠至 2027/6（⚠️ 但七夕考生供品軸與該檔天然相接，若寫入端自選則屬合理）。**dog／pet-memorial／zodiac／cold-jokes／breakup／stock-investor／human-design／programmer／witty-comebacks／couple-jokes／korean-drama／drama／insomnia／self-love／motivational／fitness**：organic 觀察期。⚠️ **8/12 維護刪除逐檔（共 99 篇／27 檔）：cheesy-pickups 14、couple-jokes 13、service 8、drama-binge 6、holiday-jokes 6、programmer 6、witty 6、dark-humor 4、food-jokes 4、cat 3、dog 3、drama 3、human-design 3、pet-memorial 3、cold 2、mom 2、renting 2、workplace 2，其餘 9 檔各 1。🆕 與前兩次不同的是這次以 couple-jokes／service-quotes 這類「語意同構」的檔為大宗，再次印證維護端用的是語意尺。**
+- **[休眠不變]** worldcup（212）深度休眠至 2030、純常青；graduation（375）常青；exam-quotes（313）深度休眠至 2027/6（⚠️ 但七夕考生供品軸與該檔天然相接，若寫入端自選則屬合理）。**dog／pet-memorial／zodiac／cold-jokes／breakup／stock-investor／human-design／programmer／witty-comebacks／couple-jokes／korean-drama／drama／insomnia／self-love／motivational／fitness**：organic 觀察期。⚠️ **8/12 維護刪除逐檔（共 99 篇／27 檔）：cheesy-pickups 14、couple-jokes 13、service 8、drama-binge 6、holiday-jokes 6、programmer 6、witty 6、dark-humor 4、food-jokes 4、cat 3、dog 3、drama 3、human-design 3、pet-memorial 3、cold 2、mom 2、renting 2、workplace 2，其餘 9 檔各 1。🆕 與前兩次不同的是這次以 couple-jokes／service-quotes 為大宗——這兩檔在字元集尺上 ≥0.55 配對數為 0，再次印證兩把尺選中的是不同群體。**
 
 ### Updated Action Priority
 **⚠️ 今日沒有新工具被證偽，但有兩件事被修正：維護端的成因判斷（第 1 條）與本報告自己的量測可靠度（第 4 條）。**
@@ -8801,7 +8801,7 @@ Done items collapsed; only live priorities listed.
 3. **[③ 量測，不進指令]** 白地清單、素材池、指定檔、焦點檔、維護待修清單**五者全部僅作量測**。⚠️ **不得再以任何形式寫成「請寫 X」或「請刪 Y」**（點名 ID 累計命中 1/30）。
 ---
 以下為觀察，不進指令：
-4. **[本日最重要的修正]** **維護端與本報告在抓不同的缺陷。**8/12 被刪 99 篇中，抽驗 35 篇只有 2 篇有 ≥0.55 的詞面孿生兄弟（couple-jokes 中位 0.346、service 0.442、cheesy 0.471）；99 篇下架後全站 ≥0.55 只從 37 降到 35。**→ 維護＝語意尺，本報告＝詞面尺，兩者近乎正交；35 對詞面殘留是維護結構性看不見的部分。**
+4. **[本日最重要的修正]** **維護端與本報告在抓不同的缺陷。**8/12 被刪 99 篇中，抽驗 35 篇只有 2 篇有 ≥0.55 的詞面孿生兄弟（couple-jokes 中位 0.346、service 0.442、cheesy 0.471）；99 篇下架後全站 ≥0.55 只從 37 降到 35。**→ 維護＝bigram 叢集尺（0.45／0.48＋union-find）＋「只有 kicker 重複才刪」判斷層；本報告＝字元集尺 ≥0.55。兩者同為詞面但特徵不同，選中的群體近乎正交；這 35 對是維護那把尺結構性選不到的殘留。**
 5. **[本日第二重要：本報告的量測可靠度]** **兩天內四個假白地（拍肩膀 0→5、換句話說 1→17、Main character 0→30）。**根因是欄位範圍（全欄位為單欄位的 1.5～3 倍）。**即日起白地一律 `[all]` 全 item JSON 掃描並標記，且每個 0 宣告須附最舊篇 `dateAdded`——早於昨日即為誤測。多項數字今日重設基準。**
 6. **[本日第三：配額模型復活]** **8/12 ＝ 168 ＝ 42×4 全均勻。**昨日的「即日作廢」是 n=1 推翻，今日的復活同樣是 n=1，**兩次都不成立**。正確模型：**4 篇是地板也是眾數，某些日子 0～10 檔 +1，無日曆關聯。**期望值 168、區間 168–195、實際一律直接數。
 7. **[量測紀律 ×6]** ⑴ 全站總數直接重數；⑵ 白地清單會因去重倒退，跨日比較須把刪除量算進去；⑶ 英文詞一律不分大小寫掃描；⑷ 重複掃描只掃 `content` 單欄位並寫明；⑸ 「掃描歸零」須註明範圍是全站還是單檔；⑹ 🆕 **白地／關鍵字計數一律 `[all]` 全 item JSON，並附最舊篇 `dateAdded` 佐證。**
