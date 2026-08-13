@@ -12070,6 +12070,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-426",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/",
+      "sourceNote": "重試風暴與退避演算法的工程說明（客戶端重試如何放大故障）；重寫成一則跨公司對接的對話",
+      "tags": [
+        "工程師日常",
+        "溝通",
+        "黑色幽默",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "對接廠商的工程師：你們的 API 一直回 429，可以把我們的上限調高嗎？\n我：你們現在打多少？\n對方：不多，正常使用量而已。\n我：我這邊看到的是每秒三千次，其中兩千九百多次是同一支查詢，參數一模一樣。\n對方：那是我們的重試機制。\n我：重試是被什麼觸發的？\n對方：被你們擋。\n我：所以我們擋越多，你們打越多；你們打越多，我們擋越久。\n對方：⋯⋯所以才更需要調高上限對吧。\n我：我可以調高。調高之後你們會把新的額度也填滿，然後我們再開一次這個會。\n對方：至少可以晚一點再開。",
+          "editorNote": "適合在有人主張「先把上限調高就好、根因之後再說」的時候貼出來。",
+          "variations": [
+            "短版：我們擋越多，他們打越多；他們打越多，我們擋越久。這個東西叫重試機制。",
+            "延伸：後來我們沒調上限，而是跟對方的工程師一起讀了那段重試，加上遞增的等待。隔天他們的流量剩下原本的百分之三，而且沒有人再抱怨被擋。"
+          ]
+        },
+        "en": {
+          "content": "Their engineer: your API keeps returning 429. Can you raise our limit?\nMe: what are you sending right now?\nThem: nothing unusual. Normal usage.\nMe: I'm looking at three thousand a second, and twenty-nine hundred of those are the same call with identical parameters.\nThem: that's our retry logic.\nMe: and what triggers the retries?\nThem: getting blocked by you.\nMe: so the more we block, the more you send. The more you send, the longer we block.\nThem: which is exactly why we need a higher limit.\nMe: I can raise it. You'll fill the new one too, and then we'll have this meeting again.\nThem: at least we'd have it later.",
+          "editorNote": "Pull it up when someone argues for raising the limit now and finding the root cause later.",
+          "variations": [
+            "Short version: the more we block, the more they send; the more they send, the longer we block. They call it retry logic.",
+            "Extension: we didn't raise the limit. We read their retry code with them and added a growing backoff. Their traffic dropped to three percent of what it was, and nobody complained about being blocked again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-427",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/",
+      "sourceNote": "前端載入／空資料／錯誤狀態的設計實務討論；重寫成一則「設計稿只有一個狀態」的清單式對話",
+      "tags": [
+        "前端",
+        "工程師日常",
+        "溝通",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "設計稿交過來了，一張圖，很漂亮。\n我照著做完，然後開始補圖上沒有的東西：\n\n・資料還沒回來的時候長什麼樣\n・資料回來是空的時候長什麼樣\n・資料回來但失敗的時候長什麼樣\n・使用者的名字有二十七個字的時候\n・這張列表有八百筆的時候\n・金額是負數的時候\n・網路斷在一半的時候\n\n七個狀態，設計稿上有一個。\n我把補出來的畫面截圖丟回去，設計師回：「哇，怎麼這麼醜。」\n我說對，所以我才需要你。\n他問：「這些不常出現吧？」\n常。而且那些正是使用者最需要有人在旁邊講話的時候。",
+          "editorNote": "適合在跟設計師對狀態、或有人問「這一頁為什麼要做這麼久」的時候貼。",
+          "variations": [
+            "短版：設計稿給我一個狀態，我要做七個，另外六個都是使用者出事的時候。",
+            "延伸：後來我們把這七項做成固定清單，每開一個新頁面先照著問一遍。設計師說這是他收過最有用的一份需求文件。"
+          ]
+        },
+        "en": {
+          "content": "The design came back. One screen, and it looked great.\nI built it, then started filling in everything the file didn't have:\n\n- what it looks like before the data arrives\n- what it looks like when the data comes back empty\n- what it looks like when the request fails\n- when a user's name runs twenty-seven characters\n- when the list has eight hundred rows\n- when the amount is negative\n- when the connection drops halfway through\n\nSeven states. The file covered one.\nI screenshotted my versions and sent them over. The designer replied: wow, these are ugly.\nRight, I said. That's why I need you.\nHe asked: these don't come up often, do they?\nThey do. And they're exactly when a user most needs someone talking to them.",
+          "editorNote": "Good for a state review with design, or when someone asks why one screen is taking so long.",
+          "variations": [
+            "Short version: design hands me one state, I ship seven, and six of them are the user having a bad time.",
+            "Extension: we turned those seven into a standing checklist and walk through it before every new screen. The designer called it the most useful requirements doc he'd ever been given."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-428",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://www.nngroup.com/articles/progress-indicators/",
+      "sourceNote": "進度指示器的可用性研究（進度百分比與實際剩餘工作的落差）；重寫成一則關於估計的短句",
+      "tags": [
+        "工程師思維",
+        "前端",
+        "黑色幽默",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "進度條卡在百分之九十九的時候，大家都以為快好了。\n不是。\n那條線量的是我們有把握的部分，那部分早就跑完了。\n最後那一趴沒有長度，它只是還沒發生的事。\n所以它可能一眨眼就過去，也可能停到你放棄。",
+          "editorNote": "適合在有人第三次問「還要多久」而你只能跟他一起盯著那條線的時候。",
+          "variations": [
+            "短版：進度條量的是我們有把握的部分，剩下那一趴沒有長度。",
+            "延伸：後來我們把那條線拿掉，改成一行字：正在處理第幾筆、共幾筆。客訴就少了。使用者要的從來不是進度，是知道有東西在動。"
+          ]
+        },
+        "en": {
+          "content": "When the progress bar sticks at ninety-nine percent, everyone assumes it's nearly done.\nIt isn't.\nThat bar measures the part we were confident about, and that part finished a while back.\nThe last percent has no length. It's just the thing that hasn't happened yet.\nSo it can be gone in a blink, or sit there until you give up.",
+          "editorNote": "For the third time someone asks how much longer and all you can do is stare at the bar with them.",
+          "variations": [
+            "Short version: a progress bar measures the part we were sure about. The last percent has no length.",
+            "Extension: we dropped the bar and printed one line instead: item 412 of 1,200. Complaints fell. People never wanted progress, they wanted proof something was moving."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-429",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Magic_number_(programming)",
+      "sourceNote": "程式中魔術數字與無註解特例邏輯的一般說明；重寫成一則結帳流程裡的遺留條件故事",
+      "tags": [
+        "技術債",
+        "維護",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "重構結帳流程的時候，我在算總額的地方看到一個 if。\n條件是「客戶編號等於 3172」，裡面把運費設成零。\n沒有註解。git blame 指向一個兩年前就離職的名字。\n我去問業務，業務去問財務，財務問了一圈回我：不知道，但先別動。\n我開了一張 issue：疑似遺留邏輯，建議移除。三個人按讚，沒有人敢按核准。\n最後我做了一件很沒出息的事——把那個 if 留著，在上面加了一行註解：\n「這裡的免運是給編號 3172 的客戶。原因不明。動了會有人打電話來。」\n半年後真的有人打電話來了。\n不是因為誰動了它。是財務在年度盤點時發現，編號 3172 那家公司已經解散三年。\n我們的系統，還在替一家不存在的公司省運費。",
+          "editorNote": "適合在 code review 撞到沒有註解的魔術數字、或有人主張「先留著比較安全」的時候貼給他看。",
+          "variations": [
+            "短版：那段 if 替一家解散三年的公司免了三年運費，沒有人敢刪它。",
+            "延伸：真正該被留下來的不是那段程式，是當初為什麼要寫它。我們留錯了那一半。"
+          ]
+        },
+        "en": {
+          "content": "Refactoring checkout, I found an if sitting in the middle of the totals.\nThe condition: customer id equals 3172. Inside, shipping gets set to zero.\nNo comment. Git blame points at someone who left two years ago.\nI asked sales. Sales asked finance. Finance asked around and came back with: no idea, but leave it alone.\nI filed an issue — suspected legacy logic, recommend removal. Three thumbs up, nobody willing to approve.\nSo I did the cowardly thing. I kept the if and added a line above it:\nFree shipping for customer 3172. Reason unknown. Removing this makes a phone call happen.\nHalf a year later, the phone call happened.\nNot because anyone touched it. Finance found during the annual audit that company 3172 was dissolved three years ago.\nOur system is still saving shipping costs for a company that doesn't exist.",
+          "editorNote": "Show it to whoever hits an uncommented magic number in review, or argues that keeping it is the safe option.",
+          "variations": [
+            "Short version: that if gave three years of free shipping to a company dissolved three years ago, and nobody dared delete it.",
+            "Extension: what deserved to survive was the reason, not the code. We kept the wrong half."
+          ]
+        }
+      }
     }
   ]
 }

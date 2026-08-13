@@ -7746,6 +7746,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-262",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://www.cool3c.com/article/154973",
+      "sourceNote": "能源效率標示的年耗電量公式：額定冷氣能力/EER×1200 小時；改寫原創",
+      "tags": ["冷氣", "省電迷思", "用電量", "真相"],
+      "i18n": {
+        "zh-tw": {
+          "content": "買冷氣那天，我最信任的是機身上那張黃色的能源效率標示，上面寫著一年耗電幾百度，看起來便宜到有點感人。\n後來我才查到那個數字是怎麼算出來的：它假設你一年只吹一千兩百小時，換算大概是四個月、每天十小時。\n我家那台從六月一號到現在，幾乎沒有真正停過。\n所以標示沒有騙我。是我把整整一年的份額，在一個夏天裡刷完了。",
+          "editorNote": "適合傳給正在比較冷氣型號、或剛收到夏月帳單開始懷疑人生的朋友",
+          "variations": [
+            "能源效率標示上的那個「年」，跟我過的這個年，顯然不是同一個單位。",
+            "那張貼紙算的是一個很有節制的人，可惜買下它的是我。"
+          ]
+        },
+        "en": {
+          "content": "The day I bought the unit, the thing I trusted most was that yellow efficiency label. A few hundred kilowatt-hours a year. Almost touching, how cheap that looked.\nLater I found out how the number is built: it assumes you run the thing 1,200 hours a year. Four months, ten hours a day.\nMine hasn't truly stopped since the first of June.\nThe label never lied to me. I just burned a full year's allowance in a single summer.",
+          "editorNote": "For anyone comparing AC models, or staring at a summer bill wondering where the math went wrong",
+          "variations": [
+            "The 'year' on that efficiency label and the year I actually live are not the same unit.",
+            "That sticker was calculated for a very disciplined person. Unfortunately I'm the one who bought it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-263",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://ourisland.pts.org.tw/content/8557",
+      "sourceNote": "台灣用電結構：住宅部門約 18%、工業部門逾 55%；改寫原創",
+      "tags": ["電費", "用電量", "厭世", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每年夏天，節電宣導都非常努力地對著我：冷氣調高一度、隨手關燈、拔掉待機的插頭。\n後來我去翻用電結構才發現，住宅用電大概只佔全國的一成八，工業那邊超過五成五。\n倒不是說我不該省，只是那些海報，好像貼在一個效果比較不明顯的地方。\n不過那一成八裡面，屬於我家的那幾度，倒是真的一塊一塊都從我戶頭裡出去。",
+          "editorNote": "適合在又一波節電宣導洗版、心裡覺得哪裡怪怪的時候發出來",
+          "variations": [
+            "全國省電的希望，壓在住宅那一成八身上，而那一成八還得自己繳電費。",
+            "我調高一度救不了電網，但確實救得了我下期的帳單。"
+          ]
+        },
+        "en": {
+          "content": "Every summer the save-energy campaign comes for me personally: raise the thermostat a degree, kill the lights, unplug the standby loads.\nThen I looked up where the power actually goes. Households are about eighteen percent of national consumption. Industry is over fifty-five.\nI'm not saying I shouldn't save. I'm saying those posters may be hanging in a fairly low-impact location.\nStill, the handful of kilowatt-hours inside that eighteen percent that belong to my apartment leave my account one at a time.",
+          "editorNote": "For that faintly annoyed feeling when another save-energy campaign shows up aimed at your thermostat",
+          "variations": [
+            "The grid's hopes rest on the eighteen percent that also has to pay its own bill.",
+            "One degree higher won't save the grid. It will, however, save me on the next statement."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-264",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://0800567890.com/aircon-relocation-cost-risk-checklist/",
+      "sourceNote": "分離式冷氣移機行情約 6000 元起、外牆需加計高空作業費，2026 銅管漲價；改寫原創",
+      "tags": ["冷氣", "租屋", "電費", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租前一週，我打給師傅：「這台冷氣是我自己出錢裝的，拆走要多少？」\n師傅：「拆加裝一組六千起跳，銅管今年又漲，室外機掛在外牆還要算高空。」\n我：「那不拆呢？」\n師傅：「那它就是牆的一部分了。」\n我算了很久，最後決定把它留在那面牆上。\n我在那間套房付了兩個夏天的電費，離開的時候留下一台冷氣，讓下一則租屋廣告，可以多寫一行「含冷氣」。",
+          "editorNote": "適合退租、搬家、或正在跟房東討論設備到底算誰的時候",
+          "variations": [
+            "租屋處的冷氣只有兩種結局：跟著你搬，或者默默變成房東的資產。",
+            "我沒有把冷氣帶走，我只是把它升級成了別人的「含冷氣」。"
+          ]
+        },
+        "en": {
+          "content": "A week before move-out I called the installer. 'I paid for this AC myself. What does it cost to take it with me?'\nHim: 'Six thousand and up to pull it and remount it. Copper went up again this year, and your outdoor unit hangs off the exterior wall, so that's a height surcharge.'\nMe: 'And if I leave it?'\nHim: 'Then it's part of the wall.'\nI ran the numbers for a long time and left it where it was.\nI paid two summers of electricity in that studio, and I moved out leaving an air conditioner behind, so the next listing could add one more line: AC included.",
+          "editorNote": "For move-out week, or any conversation with a landlord about who owns what on the wall",
+          "variations": [
+            "A rental AC has two possible endings: it moves with you, or it quietly becomes the landlord's.",
+            "I didn't take the air conditioner with me. I just upgraded it into somebody else's 'AC included.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-265",
+      "dateAdded": "2026-08-13",
+      "sourceUrl": "https://ranking.energylabel.org.tw/",
+      "sourceNote": "依各類家電額定功率換算一度電可運轉時數（LED 約 10W、電風扇約 45W、分離式冷氣約 1kW）；改寫原創",
+      "tags": ["冷氣", "省電", "用電量", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同樣一度電，交到不同家電手上，壽命完全不一樣：\nLED 燈泡：亮一百個小時。\n電風扇：吹一整天還有剩。\n手機：充飽六十幾次，大概是我兩個月的份。\n冷氣：一個小時。\n所以我不是不會省，我只是很專情地，愛上了那個花錢最快的。",
+          "editorNote": "適合有人問你「冷氣有那麼耗電嗎」的時候，直接把這串貼過去",
+          "variations": [
+            "同樣一度電，電扇可以撐一整天，冷氣只撐一小時，而我兩個都需要。",
+            "我家最貴的不是那台冷氣，是我對「涼」的那點堅持。"
+          ]
+        },
+        "en": {
+          "content": "One kilowatt-hour buys wildly different amounts of life depending on which appliance gets it:\nLED bulb: a hundred hours of light.\nFan: a full day, with some left over.\nPhone: sixty-some full charges, roughly two months of me.\nAir conditioner: one hour.\nSo it isn't that I can't economize. I just fell devotedly in love with the one that spends it fastest.",
+          "editorNote": "For the friend who asks whether AC is really that power-hungry — just paste this",
+          "variations": [
+            "Same kilowatt-hour: a fan stretches it across a day, the AC eats it in an hour, and I need both.",
+            "The expensive thing in my apartment isn't the air conditioner. It's my refusal to be warm."
+          ]
+        }
+      }
     }
   ]
 }
