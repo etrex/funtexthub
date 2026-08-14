@@ -6061,6 +6061,129 @@
           ]
         }
       }
+    },
+    {
+      "id": "hd-205",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.mandyhumandesign.com/understand-your-human-design/",
+      "sourceNote": "Open/undefined centers take in the strongest signal in whichever room you're in, so the same person reads differently after changing environments. Short-form framing for the new-semester / new-team season. Distinct from hd-203 (family home, decisions) and hd-011/hd-034 (Reflector-specific environment sensitivity)",
+      "tags": [
+        "未定義",
+        "環境",
+        "制約",
+        "日常",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你還是你，換個房間就換一種累法。先待滿兩週，再決定喜不喜歡。",
+          "editorNote": "給剛換班級、換部門，就開始懷疑自己的人。",
+          "variations": [
+            "新環境會先調你的頻率，再讓你判斷喜不喜歡。",
+            "同一個人在不同的房間，會有不同的累法。"
+          ]
+        },
+        "en": {
+          "content": "You're still you. A different room just tires you differently. Give it two weeks before you decide how you feel about it.",
+          "editorNote": "For anyone who just switched schools or teams and started doubting themselves.",
+          "variations": [
+            "A new room retunes you before you get to judge it.",
+            "Same person, different room, different kind of tired."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-206",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://blog.104.com.tw/human-design-chart/",
+      "sourceNote": "Human Design as social identity currency alongside MBTI and the zodiac — publicly sharing your type reads as looking for people who work the same way, not boasting. Short-form; distinct from hd-015 (the trio of typing systems) and hd-200 (typing other people)",
+      "tags": [
+        "自我分類",
+        "自我覺察",
+        "關係",
+        "日常",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "發限動曬自己那張圖的人，多半不是在炫耀，是在問：有沒有人跟我一樣。",
+          "editorNote": "給那個把類型寫進自我介紹第一行的人。",
+          "variations": [
+            "曬圖不是炫耀，是在找同類。",
+            "把類型講出口的那一刻，你其實是在舉手。"
+          ]
+        },
+        "en": {
+          "content": "Posting your chart isn't a flex. It's a quiet question: is anyone else built like this?",
+          "editorNote": "For whoever just put their type in the first line of their bio.",
+          "variations": [
+            "Sharing your type is less a label than a raised hand.",
+            "It isn't showing off. It's looking for your people."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-207",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://humandesignasia.org/what-is-human-design/four-types-and-strategies/",
+      "sourceNote": "Teachers frame Human Design as an experiment to live rather than information to receive — the value shows up over months of testing strategy and authority, not in the session itself. Distinct from hd-126 (beginner overwhelm, start with type/strategy/authority) and hd-188 (strategy used as an excuse)",
+      "tags": [
+        "迷思",
+        "新手",
+        "策略",
+        "自我覺察",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "花錢做完一場解讀，當下很爽：終於有人把你講得那麼準。\n回家兩個禮拜，日子一模一樣，你開始想再約下一場。\n不是解讀不好。那份報告從來就不是答案，它只是把說明書念給你聽。真正會改變什麼的，是接下來三個月你有沒有真的照著試一次。",
+          "editorNote": "給解讀完很感動、然後生活照舊的人。",
+          "variations": [
+            "報告不是答案，是說明書。",
+            "會改變什麼的是解讀之後那三個月。"
+          ]
+        },
+        "en": {
+          "content": "A paid reading feels incredible in the moment. Somebody finally described you accurately, out loud, for a whole hour.\nTwo weeks later nothing has changed and you're already eyeing the next session.\nThe reading wasn't bad. It was never the answer. It read you the manual. What changes anything is whether you actually run the experiment for the next three months.",
+          "editorNote": "For anyone who left a reading moved and went back to the same week.",
+          "variations": [
+            "The reading is the manual, not the answer.",
+            "What changes things happens in the three months after."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-208",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://meet.eslite.com/tw/tc/article/202303230001",
+      "sourceNote": "The chart is computed from fixed birth data and never updates, so what shifts over the years is what the reader wants from it — first reassurance, later practical application. Distinct from hd-187 (birth data can't be retaken, unlike an MBTI test) and hd-137 (mirror, not a verdict)",
+      "tags": [
+        "自我覺察",
+        "入門",
+        "日常",
+        "人類圖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的圖出生那天就定了，一格都不會再變。會變的是你回頭看它的理由。\n第一次看，多半是想找一句安慰：原來我不是懶。\n過兩年再打開，你要的不是安慰了，是「那我這禮拜要怎麼安排」。\n同一張圖，兩種讀法。不是你當初看錯，是你終於用得上它了。",
+          "editorNote": "給很久沒打開自己那張圖的人。",
+          "variations": [
+            "圖不會變，變的是你回頭看它的理由。",
+            "第一次看是要一句安慰，第二次看是要一個用法。"
+          ]
+        },
+        "en": {
+          "content": "Your chart was set the day you were born and not one line of it will change. What changes is why you open it.\nThe first time, most people want reassurance: I'm not lazy, I'm just not built to push like that.\nOpen it two years later and comfort isn't the point anymore. You want to know how to lay out this week.\nSame chart, two readings. You weren't wrong the first time. You finally have a use for it.",
+          "editorNote": "For anyone who hasn't opened their own chart in a couple of years.",
+          "variations": [
+            "The chart doesn't change. Your reason for opening it does.",
+            "First read: reassurance. Second read: instructions."
+          ]
+        }
+      }
     }
   ]
 }

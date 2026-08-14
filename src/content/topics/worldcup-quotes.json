@@ -6532,6 +6532,127 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-219",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://playdrawr.co.uk/blog/world-cup-2026-office-sweepstake",
+      "sourceNote": "辦公室抽籤指南提到「抽到隊伍後連不看球的人也開始在意」；本篇取此心理自行發想，不涉任何真實賽果",
+      "tags": [
+        "世界盃",
+        "職場",
+        "同事",
+        "選一隊",
+        "跟風"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司抽籤，我抽到一個地圖上找不到的國家。\n兩場之後有人說他們爛，我居然回嘴。",
+          "editorNote": "辦公室抽籤抽到冷門隊時用",
+          "variations": [
+            "抽到之前我沒意見，抽到之後我有立場了。",
+            "一張籤，就把我變成他們的人。"
+          ]
+        },
+        "en": {
+          "content": "The office draw gave me a country I couldn't find on a map. Two matches later, someone called them bad and I argued.",
+          "editorNote": "When the office pool hands you a team you've never heard of",
+          "variations": [
+            "No opinion before the draw. Strong opinions after.",
+            "One slip of paper and suddenly they're my team."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-220",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.sportskeeda.com/football/10-ways-to-spot-a-new-football-fan-during-the-fifa-world-cup",
+      "sourceNote": "新手球迷特徵整理；本篇反過來寫「不懂規則卻最快掉眼淚」自行發想",
+      "tags": [
+        "世界盃",
+        "偽球迷",
+        "朋友",
+        "感動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個只在世界盃看球的朋友，規則不懂，球員不認識，\n但每次哭都是他先哭。",
+          "editorNote": "介紹身邊那位限定球迷時用",
+          "variations": [
+            "他分不清位置，但認得那個表情。",
+            "規則是可以學的，眼淚不是。"
+          ]
+        },
+        "en": {
+          "content": "My friend only watches during the World Cup. Doesn't know the rules, doesn't know the players—and he's always the first one crying.",
+          "editorNote": "For the friend who shows up once every four years",
+          "variations": [
+            "He can't name a single position, but he read the face.",
+            "Rules can be learned. That reaction can't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-221",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.therabbitholemn.com/posts/the-science-behind-why-sports-bring-people-together",
+      "sourceNote": "共同觀賽的情緒感染研究；本篇取「同場但訊號不同步」的日常情境自行發想",
+      "tags": [
+        "世界盃",
+        "客廳",
+        "朋友",
+        "爆雷"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一群人擠在客廳，只有他用手機看，訊號快個三秒。\n所以每顆球我們都看兩次：一次是他跳起來，一次是真的進了。\n後來我們規定他坐最遠的那張椅子。",
+          "editorNote": "一起看球卻有人訊號比較快時用",
+          "variations": [
+            "他不是先知，他只是網路比較快。",
+            "同一個房間，兩個時區。"
+          ]
+        },
+        "en": {
+          "content": "Six of us on the couch, and one guy watching on his phone, three seconds ahead. So we saw every goal twice: once when he jumped, once when it actually went in. Now he sits in the chair farthest from the TV.",
+          "editorNote": "When someone's stream runs ahead of everyone else's",
+          "variations": [
+            "He's not psychic, his signal is just faster.",
+            "Same room, two different time zones."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-222",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://onefootball.com/en/news/the-psychology-of-a-football-fan-loyalty-rituals-and-superstitions-41204178",
+      "sourceNote": "球迷儀式與情緒感染的心理觀察；本篇取「有人來是為了人不是為了球」自行發想",
+      "tags": [
+        "世界盃",
+        "陪伴",
+        "朋友",
+        "氣氛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他來我家看球，整場幾乎沒看螢幕，都在看我們。\n進球那一刻我們全站起來，他坐在原地笑得最開心。\n他說：「我是來看你們的。」",
+          "editorNote": "謝謝那個只是想跟你們待著的朋友",
+          "variations": [
+            "有人看球，有人看看球的人。",
+            "他沒錯過什麼，他看的是另一場。"
+          ]
+        },
+        "en": {
+          "content": "He came over for the game and barely looked at the screen—he watched us. When the goal went in and we all jumped up, he stayed seated, grinning wider than anyone. He said he came for us.",
+          "editorNote": "For the friend who came for the company, not the match",
+          "variations": [
+            "Some people watch the game. Some watch the people watching.",
+            "He didn't miss anything—he was watching a different match."
+          ]
+        }
+      }
     }
   ]
 }

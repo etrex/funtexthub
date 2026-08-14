@@ -7086,6 +7086,127 @@
           ]
         }
       }
+    },
+    {
+      "id": "fdq-283",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Evergreen, not tied to the 8/8 date. Shape: two-line aphorism, deliberately under 40 zh chars. Checked fdq-020 (three-sentence phone calls, includes a weather line) and fdq-016/fdq-182 (love expressed through a full tank) to make sure the payoff here is different: the tell is the saved city in his weather app, not the question itself",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "沉默的愛",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我爸從不說想我，他只問：「你那邊有下雨嗎？」\n他手機裡的天氣，多了我住的城市。",
+          "editorNote": "適合在外地工作、少回家的人；短到可以直接當貼文",
+          "variations": [
+            "他不問我好不好，他問我那邊幾度。",
+            "想念在我爸那邊，是一個他沒去過的城市的天氣預報。"
+          ]
+        },
+        "en": {
+          "content": "My dad never says he misses me. He just asks if it's raining where I live.\nHis weather app has my city in it now.",
+          "editorNote": "For anyone living far from home. Short enough to post as-is",
+          "variations": [
+            "He doesn't ask how I am. He asks what the temperature is over here.",
+            "Missing me, in my dad's version, is a forecast for a city he's never visited."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-284",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Role-reversal beat kept to two lines. Checked fdq-064 (lightbulb appears only as a groaning gag), fdq-096 (holding the ladder as an excuse to talk) and fdq-260 (his heatproof hands) so the reversal itself — and the detail that he now grips harder than I ever did — is the new part",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "長大",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "換燈泡以前是他上去，我扶椅子。\n現在換我上去，他扶得比我當年用力。",
+          "editorNote": "適合寫角色對調、發現爸爸變老的那一刻",
+          "variations": [
+            "我們家換燈泡這件事，上下對調了。",
+            "他現在的工作是扶椅子，而且做得比任何人都認真。"
+          ]
+        },
+        "en": {
+          "content": "He used to change the bulb while I held the chair.\nNow I'm up there, and he holds it tighter than I ever did.",
+          "editorNote": "For the moment you notice the roles have quietly swapped",
+          "variations": [
+            "Same chair, same bulb. We just traded places on it.",
+            "His job now is holding the chair, and nobody has ever taken that job more seriously."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-285",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "",
+      "sourceNote": "Original composition — dad inspecting a first rental. Grepped 租/房東/看房/鐵窗/水壓 (no prior hits). fdq-171 also uses an inspection checklist, but that one is about a car and lands on 'looking after the car equals looking after me'; this one lands on the box that arrives a week later — he wasn't viewing an apartment, he was writing a list. No brands, prices or shops named",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "日常",
+        "沉默的愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我第一次租房，我爸跟著來看。他敲牆、開每一個水龍頭、按了兩次沖水、把窗戶的鎖來回扳，最後問房東鐵窗能不能從裡面打開。\n走的時候他只說：「還不錯，你放心住。」\n隔週家裡寄來一箱：滅火器、防滑墊、感應夜燈，還有一支新門閂。\n那天他不是在看房子，是在列清單。",
+          "editorNote": "適合搬出去、第一次一個人住的貼文",
+          "variations": [
+            "他這輩子沒說過一句捨不得，只寄了一箱東西來。",
+            "我後來才知道，他那天敲的不是牆，是安不安全。"
+          ]
+        },
+        "en": {
+          "content": "My dad came along to see my first rental. He knocked on walls, ran every tap, flushed twice, worked the window latch back and forth, then asked the landlord whether the security grille opens from inside.\nOn the way out, all he said was: \"It's fine. Take it.\"\nA box showed up a week later: extinguisher, non-slip mat, motion night light, new door bolt.\nHe wasn't looking at an apartment. He was writing a list.",
+          "editorNote": "For posts about moving out or your first place alone",
+          "variations": [
+            "He never said he was worried. He just mailed a box.",
+            "Turns out he wasn't knocking on walls. He was checking whether I'd be safe in here."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-286",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "",
+      "sourceNote": "Original composition — the plate of cut fruit left outside a closed bedroom door. Grepped 切水果/牙籤/房門 (no prior hits); fdq-016 mentions fruit only as boot-of-the-car cargo and fdq-153 is about him eating leftovers. Shape is a repeated ritual across years, distinct from the other three items in this batch",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "陪伴",
+        "溫暖",
+        "沉默的愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我念書那幾年，房門常常是關著的。\n我爸從來不敲門，只把一盤切好的水果放在門口的椅子上，牙籤插好，然後走開。\n有時候我忙到忘了，隔天才發現盤子已經洗好收回櫃子，什麼都沒說。\n現在我自己開門回家，桌上還是有一盤。",
+          "editorNote": "適合寫爸爸不說話的關心，或考試、忙到不想說話的那段日子",
+          "variations": [
+            "我爸的關心不敲門，它只是放在門口等我。",
+            "那盤水果從我十五歲放到現在，一次都沒斷過。"
+          ]
+        },
+        "en": {
+          "content": "For most of my school years my bedroom door stayed shut.\nMy dad never knocked. He'd leave a plate of cut fruit on the chair outside, toothpicks already in it, and walk away.\nSome nights I forgot it was there. By morning the plate was washed and back in the cupboard, and he never mentioned it.\nI let myself in these days. There's still a plate on the table.",
+          "editorNote": "For posts about a quiet dad, or a stretch when you didn't feel like talking",
+          "variations": [
+            "My dad's version of checking on me doesn't knock. It waits outside the door.",
+            "That plate of fruit has been showing up since I was fifteen. It has never once skipped a day."
+          ]
+        }
+      }
     }
   ]
 }

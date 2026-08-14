@@ -10595,6 +10595,127 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-367",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://blog.104.com.tw/ghost-festival-chungyuan-pu-tu/",
+      "sourceNote": "2026 公司普渡指南提到儀式結束後供品分裝給員工帶回家的慣例，改寫成減肥視角的短笑話",
+      "tags": [
+        "減肥",
+        "節日",
+        "零食",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司普渡拜完，供品分一分帶回家。\n我提一袋餅乾走出辦公室，像在做倉儲。",
+          "editorNote": "適合公司普渡結束、提著一袋零食回家的那天",
+          "variations": [
+            "公司的餅乾不算零食，那叫福利。",
+            "我不是嘴饞，我只是負責把福氣帶回家。"
+          ]
+        },
+        "en": {
+          "content": "Our office split up the Ghost Month offerings afterward. I left holding a full bag of cookies, feeling less like a dieter than a warehouse.",
+          "editorNote": "For the day the office splits up its Ghost Month snacks and you carry a bagful home",
+          "variations": [
+            "Office cookies aren't snacks. They're benefits.",
+            "I'm not greedy. I'm just carrying the good luck home."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-368",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://tw.trip.com/blog/valentines-days/",
+      "sourceNote": "2026 七夕落在 8/19 的節日整理，改寫成「體貼的小盒巧克力其實更快被吃完」的自嘲",
+      "tags": [
+        "減肥",
+        "節日",
+        "甜點",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他七夕送我一盒巧克力，說知道我在減肥，特地挑小盒的。\n我很感動，兩天就吃完了。",
+          "editorNote": "適合七夕收到禮物、隔天就吃完的人自首用",
+          "variations": [
+            "他很體貼，挑了小盒的。體貼的是他，快的是我。",
+            "禮物很小，我的速度很大。"
+          ]
+        },
+        "en": {
+          "content": "For Chinese Valentine's he gave me chocolates. He knew I was dieting, so he picked the small box. I was touched. It lasted two days.",
+          "editorNote": "For confessing that the Valentine's gift you were given did not survive the week",
+          "variations": [
+            "He was thoughtful and picked the small box. He was thoughtful; I was fast.",
+            "Small box. Impressive speed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-369",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.parenting.com.tw/article/5090568",
+      "sourceNote": "115 學年度行事曆整理（暑假到八月底、開學日各縣市略有差異），改寫成「暑假天天下廚的人其實一直在試味道」",
+      "tags": [
+        "減肥",
+        "食物",
+        "自嘲",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前一週，我算了一下。\n\n這個暑假我一天煮三次，每次都要試味道，鹹淡總得有人負責。\n\n六十天，三百六十口。\n\n食譜上沒寫的那一步，就是我。",
+          "editorNote": "適合暑假天天下廚的家長，或任何在廚房邊煮邊吃的人",
+          "variations": [
+            "煮飯的人不會餓，因為每一鍋都先過我這關。",
+            "我沒有加餐，我只是把每一餐都先預習過。"
+          ]
+        },
+        "en": {
+          "content": "The week before school starts, I did the math. All summer I cooked three times a day, and someone had to taste each pot to check the seasoning. Sixty days. Three hundred and sixty spoonfuls. The step the recipe never lists is me.",
+          "editorNote": "For parents who cooked all summer, or anyone who eats while standing at the stove",
+          "variations": [
+            "The cook is never hungry. Every pot passes through me first.",
+            "I didn't add meals. I just previewed all of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-370",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://tw.weatherspark.com/countries/TW",
+      "sourceNote": "台灣氣候資料顯示六到八月最熱、要到秋末才明顯轉涼，改寫成「等天氣涼一點再運動」的拖延循環",
+      "tags": [
+        "減肥",
+        "拖延",
+        "運動",
+        "藉口",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我今年的運動計畫是等天氣涼一點再開始。\n\n這句話我從六月講到八月，太陽完全沒有要配合的意思。\n\n等真的涼了，我大概會發現另一件事：涼了就是要吃鍋。\n\n所以我的運動季，理論上落在秋天那三天。",
+          "editorNote": "適合每年都在等一個更適合運動的季節的人",
+          "variations": [
+            "夏天太熱，冬天太冷，我的運動季是個傳說。",
+            "等涼了再開始——涼了就是鍋的季節。"
+          ]
+        },
+        "en": {
+          "content": "My exercise plan this year is to start once the weather cools down. I've been saying that since June. August has not cooperated. And when it finally does cool down, I already know what happens: cool weather means hot pot. So my athletic season lands somewhere in those three days of fall.",
+          "editorNote": "For anyone who is still waiting for a season better suited to exercise",
+          "variations": [
+            "Too hot in summer, too cold in winter. My season is a rumor.",
+            "Start when it cools — and cool weather belongs to hot pot."
+          ]
+        }
+      }
     }
   ]
 }

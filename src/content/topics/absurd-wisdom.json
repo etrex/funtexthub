@@ -11474,6 +11474,124 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-434",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://holidays-calendar.net/calendar_zh_tw/taiwan_zh_tw.html",
+      "sourceNote": "2026 節日行事曆：七夕為 8/19（農曆七月初七），作為節日日期背景",
+      "tags": [
+        "廢話文學",
+        "戀愛",
+        "季節"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一年見一次，等於另外三百六十四天不見。\n\n七夕不是重逢的日子，是不用等的那天。",
+          "editorNote": "七夕當天發限動，或朋友問你晚上要幹嘛時可以用。",
+          "variations": [
+            "他們一年見一次，你一年被問一次今年有沒有人陪。",
+            "節日沒有把日子變少，它只是把等的那部分標起來。"
+          ]
+        },
+        "en": {
+          "content": "Meeting once a year means not meeting the other 364 days.\n\nQixi isn't the reunion. It's the one day nobody is waiting.",
+          "editorNote": "Good for a Qixi story caption, or when someone asks what you're doing that night.",
+          "variations": [
+            "They meet once a year. You get asked once a year whether you've got someone.",
+            "The holiday didn't shorten the year. It just marked the waiting part."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-435",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://shopee.tw/blog/hungry-ghost-festival/",
+      "sourceNote": "2026 中元節為 8/27，普渡習俗與租屋族擺設限制的一般背景介紹",
+      "tags": [
+        "廢話文學",
+        "宗教",
+        "生活",
+        "台灣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "租來的房子沒有神明廳，所以今天那張書桌是供桌。\n\n收一收之後，它明天還是書桌。",
+          "editorNote": "小套房準備拜拜、東西擺不太下時的自嘲。",
+          "variations": [
+            "桌子從頭到尾沒有動，換的只是上面放什麼。",
+            "供桌是一個身分，不是一張桌子。"
+          ]
+        },
+        "en": {
+          "content": "A rented place has no shrine room, so today the desk is the altar.\n\nClear the plates and tomorrow it's a desk again.",
+          "editorNote": "For anyone doing a small-apartment version of the mid-seventh-month offering.",
+          "variations": [
+            "The table never moved. Only what sat on it changed.",
+            "Altar is a job, not a piece of furniture."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-436",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://vocus.cc/article/698d73b2fd897800014089d2",
+      "sourceNote": "2026 開學季準備與「收心」相關的生活型報導，作為題材背景",
+      "tags": [
+        "廢話文學",
+        "學習",
+        "日常",
+        "季節"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前一週，大人會開始講「收心」。\n\n收心的意思是把心收回來。可是心整個暑假都在你身上，並沒有跑去別的地方。\n\n所以真正要收的是幾點睡、幾點起床。\n而這兩件事收不收，那天早上都會到。",
+          "editorNote": "家人叫你收心的那幾天，可以小聲說這句。",
+          "variations": [
+            "收心操做完，心還在原地，只是你比較早睡。",
+            "心沒有離家出走，離家出走的是作息。"
+          ]
+        },
+        "en": {
+          "content": "The week before school starts, adults begin saying \"settle down.\"\n\nSettling down means bringing your mind back. But your mind was on you all summer. It never went anywhere.\n\nSo the thing that actually needs settling is what time you sleep and what time you get up.\nAnd either way, that morning arrives.",
+          "editorNote": "For the week before school starts, when someone tells you to settle down.",
+          "variations": [
+            "You can settle all you want. Bedtime is the only part that moves.",
+            "Your mind didn't run off. Your sleep schedule did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-437",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://vocus.cc/article/6a2c1f50fd897800019eff01",
+      "sourceNote": "2026 新學期文具採買清單類報導，作為新筆記本題材的背景",
+      "tags": [
+        "廢話文學",
+        "學習",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新學期會買一本新的筆記本。第一頁的字通常特別工整。\n\n工整的原因很單純：那是第一頁，你還有時間慢慢寫。\n\n翻到第十頁，字就變回你本來的字。\n第一頁那個，只是它的展示版。",
+          "editorNote": "買了新本子、順手寫下新計畫時的自嘲。",
+          "variations": [
+            "你的字沒有變醜，是第一頁太努力。",
+            "本子的前三頁很像另一個人在寫。"
+          ]
+        },
+        "en": {
+          "content": "A new term comes with a new notebook, and the handwriting on page one is always unusually neat.\n\nThe reason is simple: it's page one, and you still have time.\n\nBy page ten it's back to your actual handwriting.\nPage one was just the display model.",
+          "editorNote": "For the day you buy a fresh notebook and write out new plans.",
+          "variations": [
+            "Your handwriting didn't get worse. Page one was trying too hard.",
+            "The first three pages look like someone else wrote them."
+          ]
+        }
+      }
     }
   ]
 }

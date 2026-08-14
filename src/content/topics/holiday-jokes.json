@@ -11645,6 +11645,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-393",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://health.tvbs.com.tw/life/364951",
+      "sourceNote": "2026 中元普渡祭拜順序「先神明、後祖先、再地基主、最後好兄弟」；改寫成家中小孩視角的排隊笑點",
+      "tags": [
+        "中元節",
+        "習俗",
+        "家庭",
+        "八月",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們家拜拜的順序是：神明、祖先、地基主，最後好兄弟。\n\n我排第五。",
+          "editorNote": "家裡在擺普渡供桌、你只想趕快吃到東西的時候",
+          "variations": [
+            "一句版：我在家的地位，排在四種看不見的後面。",
+            "延伸版：媽媽說等一下就有得吃。第五個吃到的，通常叫剩菜。"
+          ]
+        },
+        "en": {
+          "content": "Order of worship at my house: gods, then ancestors, then the house spirit, then the wandering guests.\n\nI'm fifth.",
+          "editorNote": "For hanging around hungry while the family sets up the offering table",
+          "variations": [
+            "One-liner: At home I rank below four things I can't even see.",
+            "Extended: Mom says I'll get to eat soon. Fifth in line usually means leftovers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-394",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://goldenrainworkshop.com/ghost-festival-guide/",
+      "sourceNote": "普渡水果避開榴槤（諧音流連）與龍眼、葡萄（成串象徵成群結隊）的說法；寫成水果攤前的選擇困難，不寫成後果恐嚇",
+      "tags": [
+        "中元節",
+        "習俗",
+        "諧音梗",
+        "八月",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「普渡的水果到底買什麼？」\n\n我在攤子前站了三分鐘。榴槤最澎湃，可是它叫「流連」；龍眼跟葡萄一整串，聽說是成群結隊。\n\n最後我提了一袋蘋果，貴、普通、沒有暗示。",
+          "editorNote": "普渡前一天在水果攤前選不下去的時候",
+          "variations": [
+            "一句版：拜拜挑水果的重點不是好吃，是不要講錯話。",
+            "延伸版：老闆聽完我的理由，默默把榴槤移到後面一排。"
+          ]
+        },
+        "en": {
+          "content": "\"What fruit am I supposed to buy for the offering table?\"\n\nThree minutes at the stand. Durian is the most generous thing there, but the name sounds like \"linger.\" Longans and grapes come in clusters, which reads as a group booking.\n\nI went home with apples. Expensive, boring, implying nothing.",
+          "editorNote": "For freezing up at the fruit stand the day before",
+          "variations": [
+            "One-liner: Picking offering fruit isn't about taste, it's about not saying the wrong thing.",
+            "Extended: The vendor heard my reasoning and quietly moved the durian to the back row."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-395",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.shinygoods.tw/ghost-month-guide-2026",
+      "sourceNote": "地基主為屋宅原主的民間說法；全站原本 0 則地基主，寫成祖孫兩句對話",
+      "tags": [
+        "中元節",
+        "習俗",
+        "對話",
+        "家庭",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「地基主是誰？」\n\n阿嬤：「這間房子最早的主人。」\n\n我：「所以我們是租的。」",
+          "editorNote": "小孩問起地基主時，一句就講完的版本",
+          "variations": [
+            "一句版：地基主就是比你早到、而且不用付房租的那位。",
+            "延伸版：我問他知不知道我房間很亂，阿嬤說他住比較久，早就習慣了。"
+          ]
+        },
+        "en": {
+          "content": "\"Who's the house spirit?\"\n\nGrandma: \"The first owner this place ever had.\"\n\nMe: \"So we're renting.\"",
+          "editorNote": "For when a kid asks who the house spirit actually is",
+          "variations": [
+            "One-liner: The house spirit is whoever got here first and never pays rent.",
+            "Extended: I asked if he knows my room's a mess. Grandma said he's lived here longer, he's used to it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-396",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://blog.104.com.tw/ghost-festival-chungyuan-pu-tu/",
+      "sourceNote": "農曆七月補財庫的習俗介紹；全站原本 0 則，改寫成長輩解釋＋自嘲存不到錢的對話",
+      "tags": [
+        "中元節",
+        "習俗",
+        "對話",
+        "自嘲",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「什麼是補財庫？」\n\n阿姨：「每個人都有一個財庫，錢進來會存在裡面。有的人的破了，就一直漏。」\n\n我：「那怎麼知道自己有沒有破？」\n\n阿姨：「月底打開戶頭看一下。」\n\n我：「⋯⋯我這個應該不是破，是本來就沒有蓋子。」\n\n阿姨：「那更要補。」",
+          "editorNote": "月底看戶頭餘額、開始懷疑人生的時候",
+          "variations": [
+            "一句版：我的財庫沒有破，它是開放式設計。",
+            "延伸版：阿姨補一句：「你先別天天買飲料，這也算補。」"
+          ]
+        },
+        "en": {
+          "content": "\"What does topping up your treasury mean?\"\n\nAuntie: \"Everyone has one. Money comes in and sits there. Some people's have a crack, so it leaks.\"\n\nMe: \"How do I know if mine has a crack?\"\n\nAuntie: \"Check your bank balance at the end of the month.\"\n\nMe: \"...Mine isn't cracked. Mine never had a lid.\"\n\nAuntie: \"All the more reason.\"",
+          "editorNote": "For end of the month, when the bank balance starts asking questions",
+          "variations": [
+            "One-liner: My treasury isn't cracked, it's open-concept.",
+            "Extended: Auntie added: \"Start by skipping the daily bubble tea. That counts too.\""
+          ]
+        }
+      }
     }
   ]
 }

@@ -9214,6 +9214,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-342",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://tw.trip.com/blog/qixi-festival-tw/",
+      "sourceNote": "2026 七夕落在 8/19（三），餐廳訂位一位難求是每年固定現象；本則為外場視角原創改寫，不涉真實店家",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "客人",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「七夕想訂兩位，靠窗。」\n「只剩十點。」\n「太晚了吧？」\n那是我今天讓出的第九個浪漫。",
+          "editorNote": "傳給七夕當天接到手軟的訂位電話的外場。",
+          "variations": [
+            "浪漫是有限的，靠窗那兩張椅子更有限。"
+          ]
+        },
+        "en": {
+          "content": "\"Two for Qixi. Window seat.\"\n\"Only 10 p.m. is left.\"\n\"That's kind of late.\"\nSir, that's the ninth romance I've handed out today.",
+          "editorNote": "For anyone working the phone on Qixi night.",
+          "variations": [
+            "Romance is limited. Window seats are more limited."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-343",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://blog.104.com.tw/ghost-festival-chungyuan-pu-tu/",
+      "sourceNote": "行號普渡多由老闆或行政主導、全員參與，祈求生意平安；本則為員工視角的溫和幽默，不涉宗教指導",
+      "tags": [
+        "服務業",
+        "中元普渡",
+        "心聲",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老闆在門口念「生意興隆、客似雲來」。\n我小聲補一句：\n「來可以，脾氣留在門口。」",
+          "editorNote": "傳給今天陪老闆站在門口那半小時的同事。",
+          "variations": [
+            "老闆求的是人潮，我求的是好講話的人潮。"
+          ]
+        },
+        "en": {
+          "content": "Out front, the boss prays for good business and steady customers.\nBehind him, I add one quiet line:\n\"Come on in. Leave the attitude outside.\"",
+          "editorNote": "For whoever stood by the door with the boss today.",
+          "variations": [
+            "The boss prays for a crowd. I pray for a reasonable one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-344",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.parenting.com.tw/article/5090568",
+      "sourceNote": "115 學年度第一學期開學落在八月底，各縣市略有調整；本則寫早餐店視角，不指定全台統一日期",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "心聲",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "暑假這兩個月，早上七點的店裡只有我跟電視。\n開學那個禮拜一開始，隊伍又會排到騎樓外，\n「蛋餅不要辣、奶茶半糖、我趕時間」三十個人一起講。\n我一邊煎一邊想：終於。\n然後又想：怎麼這麼快。",
+          "editorNote": "傳給八月底開始重新設鬧鐘的早餐店老闆和內外場。",
+          "variations": [
+            "早餐店的學期制：暑假養生，開學拚命。",
+            "我不是想念人潮，我是想念有人跟我講早安。"
+          ]
+        },
+        "en": {
+          "content": "For two summer months, 7 a.m. meant me and the TV.\nOnce school starts back, the line runs out past the awning again — thirty people ordering at once, all in a hurry.\nFlipping eggs, I think: finally.\nThen I think: that was fast.",
+          "editorNote": "For every breakfast shop resetting its alarm in late August.",
+          "variations": [
+            "Breakfast-shop semesters: quiet in summer, sprinting by September.",
+            "I don't miss the crowd. I miss someone saying good morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-345",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://guide.1111.com.tw/article/recreation/worship_ancestors",
+      "sourceNote": "農曆七月期間商家可擇日補辦普渡，日期常視店務安排；本則聚焦排班現實，不做習俗指導",
+      "tags": [
+        "服務業",
+        "中元普渡",
+        "缺工",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我們今年哪天拜？」\n老闆翻的不是農民曆，是班表。\n最後挑了一個下午，\n因為那是這個月唯一四個人都在店裡的半小時。\n心裡求的是生意平安，\n先解決的是有沒有人手。",
+          "editorNote": "傳給每年負責把普渡塞進班表縫隙的那位。",
+          "variations": [
+            "日子好不好我不知道，人湊不湊得齊我很清楚。",
+            "小店的行事曆只有一本，封面寫著班表。"
+          ]
+        },
+        "en": {
+          "content": "\"What day are we doing the ghost-month offering?\"\nThe boss doesn't check the almanac. He checks the schedule.\nHe picks an afternoon — the one half hour this month when all four of us are actually in the shop.\nWe're asking for a safe, steady business.\nFirst we have to solve staffing.",
+          "editorNote": "For whoever squeezes the offering into the roster every year.",
+          "variations": [
+            "I can't read an almanac. I can read a schedule.",
+            "A small shop keeps one calendar, and it's the roster."
+          ]
+        }
+      }
     }
   ]
 }

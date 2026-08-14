@@ -7846,6 +7846,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-266",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%A4%84%E6%9A%91",
+      "sourceNote": "節氣處暑 2026 落在 8/23，「處」有躲藏、終止之意；改寫原創",
+      "tags": ["節氣", "夏月電價", "帳單", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "處暑的「處」是躲起來的意思。\n暑氣確實躲了——躲進我這期的電費單。",
+          "editorNote": "8/23 處暑，貼給那個說天氣要轉涼的朋友",
+          "variations": [
+            "暑氣是躲起來了，只是躲的地方比較貴。",
+            "處暑那天，我家最涼的地方還是冰箱門口。"
+          ]
+        },
+        "en": {
+          "content": "The solar term on August 23rd literally means the heat goes into hiding.\nIt did. It's hiding in my electric bill.",
+          "editorNote": "For Aug 23, when someone insists the heat is packing up",
+          "variations": [
+            "The heat did retreat. It just picked an expensive place to hide.",
+            "On the day heat officially retreats, the coolest spot in my place is still the open fridge."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-267",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E4%B8%83%E5%A4%95",
+      "sourceNote": "2026 七夕為 8/19；改寫原創",
+      "tags": ["情侶", "帳單", "情感", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "七夕他問我想要什麼禮物。\n我說：這期的電費單，你去拆。",
+          "editorNote": "8/19 七夕，傳給那個說什麼都給你的人",
+          "variations": [
+            "玫瑰會謝，電費單不會，它每兩個月準時回來。",
+            "真愛不是幫我搧風，是幫我按下繳費。"
+          ]
+        },
+        "en": {
+          "content": "On Chinese Valentine's Day he asked what gift I wanted.\nI said: you open the electric bill this time.",
+          "editorNote": "For Aug 19 — send it to whoever says they'd give you anything",
+          "variations": [
+            "Roses wilt. The electric bill comes back every two months, right on time.",
+            "True love isn't fanning me. It's hitting pay on this cycle."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-268",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.luyiacademy.com/news.php?act=view&id=42",
+      "sourceNote": "2026 暑假 7/1–8/30、8/31 開學（各縣市略有調整）；改寫原創",
+      "tags": ["暑假", "小孩", "帳單", "荷包"],
+      "i18n": {
+        "zh-tw": {
+          "content": "八月的最後一週，註冊費、書包、電費，排隊進我家。\n只有電費那張最誠實：\n它就是這兩個月，我們在家裡活下來的價錢。",
+          "editorNote": "開學前一週拆信箱時的心情",
+          "variations": [
+            "八月底最貴的不是開學，是開學前那兩個月。",
+            "別的帳單買到東西，電費買到的是我沒中暑。"
+          ]
+        },
+        "en": {
+          "content": "Last week of August: school fees, a new backpack, and the electric bill all line up at my door.\nOnly the last one is honest.\nIt's the price of surviving two months indoors.",
+          "editorNote": "For opening the mailbox the week before school starts",
+          "variations": [
+            "The expensive part of back-to-school is the two months before it.",
+            "Other bills buy you something. This one bought me not overheating."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-269",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%A7%8B%E8%80%81%E8%99%8E",
+      "sourceNote": "秋老虎：立秋後仍持續高溫的現象；改寫原創",
+      "tags": ["高溫", "開窗", "省電", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "氣象說這波熱「週末起稍稍緩和」。\n我立刻關冷氣、把窗推開，坐在客廳等那個緩和。\n十分鐘後，窗關回去，遙控器拿起來。\n那十分鐘我記著，當作這期帳單唯一的折扣。",
+          "editorNote": "每次看到「這波熱可望趨緩」就想貼一次",
+          "variations": [
+            "稍稍緩和的意思是：從很熱，變成有點熱。",
+            "秋老虎沒有要走，牠只是換一個比較溫柔的說法。"
+          ]
+        },
+        "en": {
+          "content": "Forecast said the heat would 'ease slightly' by the weekend.\nI killed the AC, opened every window, and sat in the living room waiting for the easing.\nTen minutes later the windows were shut and the remote was back in my hand.\nI'm counting those ten minutes as the only discount on this bill.",
+          "editorNote": "For every 'relief is coming' headline in late August",
+          "variations": [
+            "'Eases slightly' means: from very hot down to fairly hot.",
+            "The late-summer heat isn't leaving. It just got a gentler name."
+          ]
+        }
+      }
     }
   ]
 }

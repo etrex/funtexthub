@@ -9149,6 +9149,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-319",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://edh.tw/lohas/article/30440",
+      "sourceNote": "2026 guide noting the classic simple offering is a chicken-leg lunchbox; joke is original",
+      "tags": [
+        "中元",
+        "套房",
+        "自嘲",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "聽說地基主愛吃雞腿便當。\n我這個月的晚餐也都是雞腿便當。\n看來我們口味挺合的。",
+          "editorNote": "適合中元前後一個人在外面吃便當的時候發",
+          "variations": [
+            "我跟地基主這個月吃得一樣好。"
+          ]
+        },
+        "en": {
+          "content": "They say the house spirit likes a chicken-leg lunchbox.\nSo was every dinner I've had this month.\nGood to know we have the same taste.",
+          "editorNote": "For anyone eating another takeout dinner alone during ghost month",
+          "variations": [
+            "The house spirit and I ate equally well this month."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-320",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.shinygoods.tw/ghost-month-guide-2026",
+      "sourceNote": "2026 ghost-month guide with a simplified version for renters and small households; hallway scene is original",
+      "tags": [
+        "中元",
+        "鄰居",
+        "租屋",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "農曆七月，鄰居在走廊擺了一桌。\n我出門側身，回家借過。\n這層樓今年最熱鬧的一個月。",
+          "editorNote": "適合大樓走廊突然多出一張供桌的那幾天",
+          "variations": [
+            "我家門口這個月比我還忙。"
+          ]
+        },
+        "en": {
+          "content": "Seventh month. My neighbor set a table in the hallway.\nI leave sideways, I come home saying excuse me.\nBusiest this floor's been all year.",
+          "editorNote": "For the days a folding table appears in your building's hallway",
+          "variations": [
+            "My doorway has a busier month than I do."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-321",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.jamiemarble.com/blog/post/house-soul",
+      "sourceNote": "explainer on why renters are often the ones who tend the house spirit; long-tenancy joke is original",
+      "tags": [
+        "房東",
+        "租屋",
+        "中元",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這間房子我住第三年。\n房東換過一個，仲介換過兩個，樓下的早餐店收掉了。\n只有地基主從我搬進來那天就在，而且從來沒說要漲。",
+          "editorNote": "適合住得夠久、看著周圍全部換過一輪的租客",
+          "variations": [
+            "我這三年換掉的東西，比這間房子還多。"
+          ]
+        },
+        "en": {
+          "content": "Third year in this apartment.\nOne landlord replaced, two agents replaced, and the breakfast shop downstairs closed for good.\nOnly the house spirit has been here since the day I moved in, and he has never once asked for more.",
+          "editorNote": "For renters who've outlasted the landlord, the agent, and the shop downstairs",
+          "variations": [
+            "In three years I've replaced more things than this apartment has."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-322",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://news.591.com.tw/news/2153",
+      "sourceNote": "first-year-student renting checklist from a housing site; elevator scene is original",
+      "tags": [
+        "搬家",
+        "看房",
+        "租屋",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前一週，電梯裡永遠有一個紙箱跟一床棉被。\n有個媽媽在旁邊交代：「水打開，看它多久會熱。」\n我住四年了，第一次知道要看這個。",
+          "editorNote": "適合開學搬家季，看著新生跟家長進出的時候",
+          "variations": [
+            "新生的媽媽比我還會看房。"
+          ]
+        },
+        "en": {
+          "content": "The week before term starts, the elevator always has a cardboard box and a rolled-up duvet in it.\nA mom was coaching her kid: \"Run the tap. See how long it takes to get hot.\"\nFour years in this building and that had never occurred to me.",
+          "editorNote": "For move-in week, watching new students and their parents haul boxes",
+          "variations": [
+            "That kid's mom is a better apartment inspector than I am."
+          ]
+        }
+      }
     }
   ]
 }

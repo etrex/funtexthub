@@ -11093,6 +11093,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-391",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.storm.mg/lifestyle/3875038",
+      "sourceNote": "風傳媒整理七夕由來，指出七夕原本是乞巧節、求的是手藝而非姻緣，取這個史實重新創作成被問「跟誰過」的短回嘴",
+      "tags": [
+        "幹話",
+        "機智",
+        "社交",
+        "節日"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「七夕跟誰過？」\n\n「跟我的手藝。\n乞巧節求的是手巧，\n不是求人。」",
+          "editorNote": "被問「七夕跟誰過」時用——把節日拉回原本的意思，不用交代感情狀態",
+          "variations": [
+            "今年我跟針線過，古人也是這樣過的。",
+            "先把手藝求起來，其他的排後面。"
+          ]
+        },
+        "en": {
+          "content": "\"Who are you spending Qixi with?\"\n\n\"My own two hands.\nIt's a craft festival —\nyou wish for skill, not company.\"",
+          "editorNote": "For Qixi small talk — send the holiday back to its origins instead of reporting on your love life",
+          "variations": [
+            "Spending it with a needle and thread. Very traditional of me.",
+            "Getting the skills sorted first. Everything else can queue."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-392",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://crossing.cw.com.tw/article/18813",
+      "sourceNote": "換日線讀者投書談在職場說出自己的需求、別怕被貼難相處標籤，取其中「忍耐不等於問題被解決」的觀點寫成短對話",
+      "tags": [
+        "幹話",
+        "職場",
+        "諷刺",
+        "邊界"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "前輩說：\n「這關大家都是這樣熬過來的。」\n\n我說：\n「對啊，所以它才還在。」",
+          "editorNote": "被「大家都是這樣過來的」要求忍耐時用——忍耐從來沒有修好那件事",
+          "variations": [
+            "熬過來不等於它是對的。",
+            "你們熬過的那一關，現在還在收費。"
+          ]
+        },
+        "en": {
+          "content": "The senior guy said:\n\"Everyone here got through it the same way.\"\n\nI said:\n\"Right. That's why it's still here.\"",
+          "editorNote": "For \"we all put up with it\" — enduring a problem has never once fixed it",
+          "variations": [
+            "Surviving it isn't the same as it being fine.",
+            "The thing you got through is still charging admission."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-393",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.businessweekly.com.tw/careers/blog/3014705",
+      "sourceNote": "商周書摘中心理師分析長輩提問的類型與應對方式，取「分辨關心與打聽」的角度，重新創作成中元家族聚餐被連續提問的場景",
+      "tags": [
+        "幹話",
+        "人際",
+        "親戚",
+        "機智"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "中元快到了，一家人先聚一頓。\n\n三姑一邊擺水果一邊問：\n\n「工作換得怎麼樣？\n什麼時候要安定？\n房子有打算了沒？」\n\n我說：\n\n「這幾題我去年都答過。」\n\n她笑：「我只是關心啊。」\n\n我說：\n\n「我知道。\n\n關心會記得去年的答案，\n打聽不會。」",
+          "editorNote": "家族聚餐被同一輪問題掃過時用——不用翻臉，只要指出關心會記得答案",
+          "variations": [
+            "我去年的答案還能用，你要不要先看一下？",
+            "問題可以重複，我的答案也會重複。"
+          ]
+        },
+        "en": {
+          "content": "Ghost Month, and the whole family came over early.\n\nMy aunt arranged the fruit and started:\n\n\"How's the new job?\nWhen are you settling down?\nAny plans for a place of your own?\"\n\nI said:\n\n\"I answered all three last year.\"\n\nShe laughed. \"I'm only being caring.\"\n\nI said:\n\n\"I know.\n\nCaring remembers last year's answers.\nFishing doesn't.\"",
+          "editorNote": "For the annual round of family questions — no scene required, just point out that caring remembers the answers",
+          "variations": [
+            "Last year's answer still works. Want to check it first?",
+            "You can repeat the question. I'll repeat the answer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-394",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://pansci.asia/archives/360778",
+      "sourceNote": "泛科學書摘談拒絕的關鍵技巧：結論放前面、不必反覆包裝理由，改寫成同一件事被追問第三次的短場景",
+      "tags": [
+        "幹話",
+        "人際",
+        "邊界",
+        "拒絕"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我說不行的隔天，\n他又問了一次。\n\n第三次他說：\n\n「你再考慮看看嘛。」\n\n我說：\n\n「考慮過了。\n\n答案不會因為\n被問第三次\n就長大。」",
+          "editorNote": "被同一件事盧第三次時用——不必重新解釋理由，只說明答案沒有變",
+          "variations": [
+            "我沒有在猶豫，我只是已經回答完了。",
+            "問題可以再問，答案要我改才會變。"
+          ]
+        },
+        "en": {
+          "content": "The day after I said no,\nhe asked again.\n\nThe third time:\n\n\"Just think about it some more.\"\n\nI said:\n\n\"I did.\n\nAn answer doesn't grow\njust because you ask it\nthree times.\"",
+          "editorNote": "For the third ask on something you already declined — don't re-explain, just confirm the answer hasn't moved",
+          "variations": [
+            "I'm not hesitating. I'm finished answering.",
+            "Ask again if you like. The answer only changes if I change it."
+          ]
+        }
+      }
     }
   ]
 }

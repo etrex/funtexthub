@@ -5829,29 +5829,6 @@
       }
     },
     {
-      "id": "aq-256",
-      "dateAdded": "2026-07-10",
-      "sourceUrl": "https://themindsjournal.com/quotes/being-an-adult-funny-quotes/",
-      "sourceNote": "'being an adult is mostly just Googling how to do things' theme; rewritten original",
-      "tags": ["初級大人", "高級大人", "心態", "成長"],
-      "i18n": {
-        "zh-tw": {
-          "content": "初級大人：以為長大後就會什麼都懂。\n\n高級大人：發現長大不過是換一個更貴的手機，繼續 Google「這個到底要怎麼弄」。",
-          "editorNote": "傳給那個以為出社會就會變萬事通、結果還在搜尋欄過活的朋友",
-          "variations": [
-            "初級大人：覺得大人一定知道答案。高級大人：知道大人只是比較會假裝，然後偷偷搜尋。"
-          ]
-        },
-        "en": {
-          "content": "Junior adult: assumes you'll just know everything once you grow up.\n\nSenior adult: realizes growing up mostly means owning a pricier phone and still Googling 'how do you actually do this.'",
-          "editorNote": "For the friend who thought adulthood came with all the answers and still lives in the search bar",
-          "variations": [
-            "Junior adult: figures adults must know the answer. Senior adult: knows adults are just better at pretending, then quietly Googling it."
-          ]
-        }
-      }
-    },
-    {
       "id": "aq-257",
       "dateAdded": "2026-07-11",
       "sourceUrl": "https://quoteoffame.com/blog/200-funny-adulting-quotes-that-hit-too-close-to-home/",
@@ -9226,6 +9203,126 @@
           "variations": [
             "Nobody formally taught me the rules, and yet every adult somehow knows them.",
             "Growing up is maybe just this: one day the name in that register becomes yours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-384",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://blog.104.com.tw/ghost-festival-chungyuan-pu-tu/",
+      "sourceNote": "2026 中元普渡流程與租屋族簡易版說明；改寫為租屋族第一次自己張羅的生活感悟",
+      "tags": [
+        "生活",
+        "長大",
+        "拜拜",
+        "傳統"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次自己張羅中元供品。三樣，超商買的，桌子是紙箱。沒人教過我，我還是走出去了。",
+          "editorNote": "適合第一次自己準備拜拜的租屋族，發限動或跟朋友聊天用。",
+          "variations": [
+            "小時候我只負責拜完把餅乾搬走。今年，餅乾是我自己買的。",
+            "供品三樣、桌子一個紙箱。心意這種東西，本來就不用很大張。"
+          ]
+        },
+        "en": {
+          "content": "First time putting out the offerings myself. Three things from the corner store, a cardboard box for a table. Nobody taught me. I went anyway.",
+          "editorNote": "For anyone handling a family custom alone for the first time.",
+          "variations": [
+            "As a kid my only job was carrying the snacks back inside. This year I bought the snacks.",
+            "Three items and a cardboard box. Sincerity was never supposed to need a big table."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-385",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://health.businessweekly.com.tw/article/ARTL003016870",
+      "sourceNote": "2026 七夕（8/19）日期與習俗介紹；改寫為成年伴侶的日常版浪漫",
+      "tags": [
+        "生活",
+        "長大",
+        "人際",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "七夕那天我們哪裡都沒去。\n\n他清掉冰箱最底層那格，我把卡了半年的抽屜軌道弄順。晚餐自己煮，八點就吃完了。\n\n二十幾歲會覺得這樣很可惜。現在覺得，大人的浪漫是家裡少一樣壞掉的東西。",
+          "editorNote": "適合七夕沒有安排、但其實過得不錯的伴侶。",
+          "variations": [
+            "沒訂餐廳，沒買花。修好一個抽屜，兩個人都很有成就感。",
+            "浪漫的定義會改。以前是驚喜，現在是他記得我不吃香菜。"
+          ]
+        },
+        "en": {
+          "content": "We didn't go anywhere for Chinese Valentine's Day.\n\nHe cleared out the bottom shelf of the fridge. I finally got the drawer sliding again after six months of it sticking. We cooked, and we were done eating by eight.\n\nAt twenty-five that would have felt like a waste. Now it feels like the point: adult romance is one less broken thing in the house.",
+          "editorNote": "For couples with no big plans who are secretly doing fine.",
+          "variations": [
+            "No reservation, no flowers. One fixed drawer, two very satisfied people.",
+            "Romance gets redefined. It used to be surprises. Now it's him remembering what I won't eat."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-386",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://tech.udn.com/tech/story/123454/9690989",
+      "sourceNote": "2026 上班族 AI 焦慮調查：多數人感受企業更看重 AI 能力；改寫為職涯規劃語感的變化",
+      "tags": [
+        "長大",
+        "職場",
+        "心態",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前的職涯規劃，是想十年後要坐上哪個位子。現在是算，這個技能還能撐幾年。",
+          "editorNote": "適合最近在想轉職、或被公司要求學新工具的人。",
+          "variations": [
+            "以前怕升不上去，現在怕被留在原地也不行。",
+            "履歷上最舊的那一項技能，是我最不敢刪的那一項。"
+          ]
+        },
+        "en": {
+          "content": "Career planning used to mean choosing the title I'd hold in ten years. Now it means estimating how many years this skill has left.",
+          "editorNote": "For anyone eyeing a career change or being told to learn a new tool.",
+          "variations": [
+            "I used to worry about not moving up. Now standing still isn't allowed either.",
+            "The oldest skill on my resume is the one I'm most afraid to delete."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-387",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.parenting.com.tw/article/5090568",
+      "sourceNote": "115 學年度行事曆：暑假 7/1-8/30、開學約 8/31；改寫為成年人靠他人行事曆感受季節",
+      "tags": [
+        "生活",
+        "長大",
+        "心態",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "月底一開學，早上的公車就會突然沒位子。\n\n制服、書包、耳機線，整台車瞬間年輕十歲。\n\n我沒有開學這件事很多年了，可是我的通勤時間，還是被別人的行事曆決定。\n\n大人的季節感，是身邊的人幫你換的。",
+          "editorNote": "適合開學前一週的通勤族，發文或跟同事閒聊都好用。",
+          "variations": [
+            "我的季節不是看天氣，是看早上公車有沒有位子。",
+            "夏天結束的訊號，是站牌前面突然多出一排書包。"
+          ]
+        },
+        "en": {
+          "content": "Once school starts at the end of the month, the morning bus stops having seats.\n\nUniforms, backpacks, headphone cords. The whole bus drops ten years overnight.\n\nI haven't had a first day of school in a very long time. My commute still runs on somebody else's calendar.\n\nAdults get their sense of seasons secondhand, from the people around them.",
+          "editorNote": "For commuters in the last week before school starts.",
+          "variations": [
+            "I don't track seasons by weather. I track them by whether the bus has a seat.",
+            "Summer ends the morning a row of backpacks appears at the stop."
           ]
         }
       }

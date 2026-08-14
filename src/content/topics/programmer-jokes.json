@@ -714,33 +714,6 @@
       }
     },
     {
-      "id": "pj-027",
-      "dateAdded": "2026-04-11",
-      "sourceUrl": "",
-      "sourceNote": "Recursion explanation joke — classic CS humor",
-      "tags": [
-        "遞迴",
-        "程式概念",
-        "黑色幽默"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "有人問工程師：「你怎麼跟非工程師解釋什麼是遞迴？」\n工程師：「要解釋遞迴，你必須先理解遞迴。」\n「……然後呢？」\n「然後要理解遞迴，你必須先理解遞迴。」\n「……我懂了。」\n「對，你剛剛體驗了遞迴。」",
-          "editorNote": "電腦科學課的保留曲目，在解釋技術概念的場合說效果絕佳，讓聽的人真的懂了遞迴是什麼",
-          "variations": [
-            "遞迴的最大危險：忘記設定終止條件，然後你就會一直解釋下去，直到對方的耐心用完。"
-          ]
-        },
-        "en": {
-          "content": "Someone asked a developer: \"How do you explain recursion to a non-developer?\"\nDeveloper: \"To explain recursion, you first need to understand recursion.\"\n\"...And then?\"\n\"Then to understand recursion, you need to explain recursion.\"\n\"...I think I get it.\"\n\"Good. You just experienced recursion.\"",
-          "editorNote": "A CS classroom classic — use when explaining technical concepts; your audience will actually learn what recursion is",
-          "variations": [
-            "The greatest risk of recursion: forgetting the base case. Then you'll keep explaining forever until the other person gives up."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-029",
       "dateAdded": "2026-04-12",
       "sourceUrl": "",
@@ -12187,6 +12160,126 @@
           "variations": [
             "Short version: that if gave three years of free shipping to a company dissolved three years ago, and nobody dared delete it.",
             "Extension: what deserved to survive was the reason, not the code. We kept the wrong half."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-430",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E4%B9%96%E4%B9%96%E6%96%87%E5%8C%96",
+      "sourceNote": "台灣機房擺放綠色乖乖的習俗說明；重寫成一則公司普渡後零食去向的短句",
+      "tags": [
+        "工程師文化",
+        "工程師日常",
+        "職場",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "普渡的零食下午就被搬光了，只有機櫃上那包沒人敢動。\n那包不是供品，是資產。",
+          "editorNote": "適合在公司普渡結束、大家分零食的那個下午貼。",
+          "variations": [
+            "短版：零食都被分完了，機櫃上那包除外。",
+            "延伸：那包乖乖放了兩年沒換，因為換的人要負責下一次當機。"
+          ]
+        },
+        "en": {
+          "content": "The office altar snacks were gone by three. Except the pack on the server rack. Nobody touches that one, it's not an offering, it's infrastructure.",
+          "editorNote": "For the afternoon after an office ritual, when everyone is splitting the leftovers.",
+          "variations": [
+            "Short version: the snacks all got claimed. The one on the rack did not.",
+            "Context: Taiwanese engineers park a green snack pack on the machines for luck. Ours expired two years ago. Whoever replaces it owns the next outage."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-431",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://sre.google/sre-book/being-on-call/",
+      "sourceNote": "SRE 值班與半夜告警的一般說明；重寫成一則七夕當晚的對照短句",
+      "tags": [
+        "on-call",
+        "工程師日常",
+        "自嘲",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "七夕那天她收到花，我收到告警。\n凌晨三點我們都醒著，只有一個人是浪漫的。",
+          "editorNote": "適合在情人節撞到值班表的時候，貼給同一組的人看。",
+          "variations": [
+            "短版：她收到花，我收到告警，我們都醒到三點。",
+            "延伸：隔天她問我修好了沒，我說修好了。她說那也算一種準時回家。"
+          ]
+        },
+        "en": {
+          "content": "She got flowers for Valentine's. I got paged.\nWe were both awake at three in the morning. Only one of us was being romantic.",
+          "editorNote": "For when the date night lands on your on-call week. Send it to your rotation.",
+          "variations": [
+            "Short version: she got flowers, I got paged, and we were both up at three.",
+            "Extension: next morning she asked if I fixed it. I said yes. She said that counts as coming home on time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-432",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Division_by_zero",
+      "sourceNote": "除以零的一般說明；重寫成一則週一限定排程故障的除錯小故事",
+      "tags": [
+        "bug",
+        "除錯",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有支報表排程只在星期一早上壞。\n查了三個禮拜，原因是週末沒人下單，平均值變成除以零。\n我加了防呆，那天很得意。\n隔週一它又壞了。那週是連假，週末有三天，我防的是二。",
+          "editorNote": "適合在有人說「這個情況應該不會再發生」的時候貼。",
+          "variations": [
+            "短版：我防住了除以零，沒防住週末有三天。",
+            "延伸：後來我們不問「會不會發生」，改問「這個假設寫在哪一行」。"
+          ]
+        },
+        "en": {
+          "content": "A report job only broke on Monday mornings.\nThree weeks of digging: nobody orders on weekends, so the average divided by zero.\nI added a guard and felt clever.\nIt broke again the next Monday. Long weekend. Three days off, and my guard only knew about two.",
+          "editorNote": "For anyone who says this case should not come up again.",
+          "variations": [
+            "Short version: I guarded against dividing by zero. I did not guard against a three-day weekend.",
+            "Extension: we stopped asking whether something can happen and started asking which line the assumption is written on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-433",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Seasonality",
+      "sourceNote": "季節性需求波動的一般說明；重寫成一則團隊把開學潮誤認成成長的故事",
+      "tags": [
+        "工程師思維",
+        "職場",
+        "自嘲",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每年八月底，後台的流量圖都會長出一根柱子。\n第一年我們以為是廣告有效，第二年以為是 SEO 終於起來，第三年才有人小聲說：是開學。\n現在那根柱子有自己的名字，叫「別人家的暑假結束了」。",
+          "editorNote": "適合在有人拿週報上的漂亮曲線邀功的時候貼。",
+          "variations": [
+            "短版：那根柱子不是我們做得好，是別人開學了。",
+            "延伸：後來做年度預測，我們第一件事是把行事曆疊上去，比盯趨勢線準。"
+          ]
+        },
+        "en": {
+          "content": "Every year in late August, a spike shows up on our traffic chart.\nYear one we credited the ads. Year two we credited SEO. Year three someone finally said it out loud: school started.\nThe spike has its own name now. We call it Somebody Else's Summer Ending.",
+          "editorNote": "For whenever someone takes credit for a pretty line in the weekly report.",
+          "variations": [
+            "Short version: that spike was not us getting better. It was everyone else going back to school.",
+            "Extension: now the first step in any forecast is laying the calendar over the chart. Beats staring at the trend line."
           ]
         }
       }

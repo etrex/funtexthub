@@ -8032,34 +8032,6 @@
       }
     },
     {
-      "id": "cp-303",
-      "dateAdded": "2026-07-11",
-      "sourceUrl": "https://pikliners.com/coffee-pick-up-lines/",
-      "sourceNote": "Coffee-themed line concept, fully rewritten",
-      "tags": [
-        "諧音",
-        "甜"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "「你是不是拿鐵？」\n「為什麼？」\n「因為我對你的喜歡，多到一個馬克杯都裝不下。」",
-          "editorNote": "咖啡廳約會或排隊點單時最好用，把『拿鐵』的份量拿來比喻喜歡的濃度，講完可以順勢問對方要不要幫他加購一杯",
-          "variations": [
-            "你一定是手沖，因為我每天早上第一件想到的就是你",
-            "別人喝咖啡提神，我看到你就整個人清醒了"
-          ]
-        },
-        "en": {
-          "content": "\"Are you a latte?\"\n\"Why?\"\n\"Because I like you a whole latte — more than one mug could ever hold.\"",
-          "editorNote": "Perfect for a coffee-shop date or while waiting in line to order; leans on the classic 'latte' pun, and you can follow up by offering to grab them a cup.",
-          "variations": [
-            "You must be a pour-over, because you're the first thing I think of every morning.",
-            "Other people drink coffee to wake up; I just look at you and I'm wide awake."
-          ]
-        }
-      }
-    },
-    {
       "id": "cp-304",
       "dateAdded": "2026-07-11",
       "sourceUrl": "https://pickkupline.com/food-pickup-lines/",
@@ -11662,6 +11634,106 @@
           "variations": [
             "Nothing missing from the bag. Someone missing from the trip.",
             "Next list gets one more line, and it's your name."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-434",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.storm.mg/lifestyle/3875038",
+      "sourceNote": "風傳媒七夕由來說明，取拜月老、求紅線的民俗背景重寫成對話",
+      "tags": ["甜", "對話", "七夕", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「七夕要不要去拜月老、求一條紅線？」\n「不用了，我這條早就綁好了。」\n「綁誰？」\n「另一頭剛剛還在問我晚餐要吃什麼。」",
+          "editorNote": "七夕前一週丟給正在曖昧的對象，最後一句把接話權讓給他",
+          "variations": [
+            "紅線我不求，因為我這條的另一頭會回訊息。",
+            "月老那邊我不排隊了，我這條已經有人牽著。"
+          ]
+        },
+        "en": {
+          "content": "\"Want to go ask the matchmaker shrine for a red thread this Qixi?\"\n\"No need. Mine's been tied for a while.\"\n\"Tied to who?\"\n\"Whoever just asked me what I want for dinner.\"",
+          "editorNote": "Send the week before Qixi; the last line lets them claim it",
+          "variations": [
+            "Skipping the shrine line. My thread already has someone on the other end.",
+            "Don't need a red thread. Mine texts me back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-435",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://news.pchome.com.tw/relationship/aday/20260508/index-77822394551158330028.html",
+      "sourceNote": "PChome 兩性專欄撩人語錄整理，取「日常小物對照心意」的寫法重寫",
+      "tags": ["甜", "可愛", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我整本筆記都被修正帶蓋過去了，只有寫著你名字那一行，我一次都沒改。",
+          "editorNote": "開學整理筆記時傳出去，配一張真的很亂的筆記照片更自然",
+          "variations": [
+            "這一頁只有你的名字沒被蓋掉。",
+            "修正帶用完了，那一行還在。"
+          ]
+        },
+        "en": {
+          "content": "My whole notebook is buried under correction tape. The line with your name is the only thing I never fixed.",
+          "editorNote": "Works best with a photo of an actual messy notebook page",
+          "variations": [
+            "Ran out of correction tape. Your name survived anyway.",
+            "Everything on that page got fixed except you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-436",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.rd.com/list/cheesy-pickup-lines/",
+      "sourceNote": "英文經典「你是不是某個東西」句式清單，改成自嘲的自動門版本",
+      "tags": ["甜", "可愛", "日常", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "別人揮半天感應器都沒反應，你只是站著，我就自己開了。我大概是一扇壞掉的自動門。",
+          "editorNote": "適合在超商或百貨門口現場講，指著那扇門說最有畫面",
+          "variations": [
+            "我這扇門的感應器只認得你一個。",
+            "別人推不開，你連碰都不用碰。"
+          ]
+        },
+        "en": {
+          "content": "Other people wave at the sensor forever and nothing happens. You just stand there and I swing open. I'm a broken automatic door.",
+          "editorNote": "Best said out loud at a shop entrance, pointing at the door",
+          "variations": [
+            "My sensor only recognizes one person.",
+            "Everyone else pushes. You don't even have to touch it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-437",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.beauty321.com/post/68558",
+      "sourceNote": "土味情話語錄整理，取校園情境的一問一答結構重寫成加簽版本",
+      "tags": ["甜", "對話", "可愛", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這學期學分選滿了嗎？」\n「還差兩學分，在想要加簽哪一門。」\n「那不用想了，加我這門。沒有期中期末，只算出席，而且我保證不會當你。」",
+          "editorNote": "選課加簽那幾天傳給同校的人，最後一句是重點",
+          "variations": [
+            "這門課我開一輩子，隨時歡迎加簽。",
+            "就算你翹課，我也會幫你點名。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you fill up your credits this semester?\"\n\"Two short. Still deciding what to add.\"\n\"Don't decide. Add mine. No midterm, no final, attendance only, and I promise I'll never fail you.\"",
+          "editorNote": "For add-drop week; the last line is the whole joke",
+          "variations": [
+            "This class runs forever. Enrollment never closes.",
+            "Skip all you want. I'll still mark you present."
           ]
         }
       }

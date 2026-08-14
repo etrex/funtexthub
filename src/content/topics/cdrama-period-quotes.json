@@ -5331,6 +5331,82 @@
           "variations": ["There was no path here. It exists because someone kept walking. Stop, and it grows back over.", "I'm not climbing to reach the top. I'm climbing because someone is behind me."]
         }
       }
+    },
+    {
+      "id": "cpq-281",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.cool3c.com/article/146813",
+      "sourceNote": "七夕／七娘媽為兒童守護神、滿十六歲答謝的民俗背景之原創改寫，非任何劇集台詞。",
+      "tags": ["古裝劇", "語錄", "七夕", "溫暖", "成長"],
+      "i18n": {
+        "zh-tw": {
+          "content": "娘替我拜了十六年七娘媽，昨夜最後一次。她說：不是不求了，是你該自己走了。",
+          "editorNote": "適合七夕、孩子成年或離家獨立的貼文，也適合寫給正在放手的父母。",
+          "variations": ["她不是不再擔心，只是把香收起來，讓我自己走。", "拜了十六年的那雙手，昨夜收了香。"]
+        },
+        "en": {
+          "content": "Mom prayed to the children's goddess for sixteen years. Last night was the last. She said: not that I stopped — you walk it yourself now.",
+          "editorNote": "For posts about coming of age, leaving home, or parents learning to let go.",
+          "variations": ["She didn't stop worrying. She just put the incense away and let me go.", "Sixteen years of praying, and last night she quietly stopped."]
+        }
+      }
+    },
+    {
+      "id": "cpq-282",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.marieclaire.com.tw/entertainment/tvshow/89956",
+      "sourceNote": "武俠題材「農曆七月人人思歸」之原創發想，非任何劇集台詞。",
+      "tags": ["古裝劇", "語錄", "江湖", "溫暖", "思念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "七月裡江湖的刀收得特別早。不是怕什麼，是這個月人人都想起：家裡還有人在等。",
+          "editorNote": "適合農曆七月的貼文，或想收心、想家、提早回家吃飯的時候。",
+          "variations": ["這個月的江湖特別安靜，因為人人都急著回家吃頓飯。", "刀收得早，不是怕，是想家。"]
+        },
+        "en": {
+          "content": "In the seventh month, blades go back in their sheaths early. Not from fear — it's the month everyone remembers someone at home is still waiting.",
+          "editorNote": "For posts about the seventh lunar month, or any season that turns people toward home.",
+          "variations": ["The seventh month is the quietest season out on the road — everyone is hurrying home for dinner.", "Blades put away early. Not fear. Homesickness."]
+        }
+      }
+    },
+    {
+      "id": "cpq-283",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://women.nmth.gov.tw/?p=1942",
+      "sourceNote": "七夕落雨的民間說法之原創改寫，非任何劇集台詞。",
+      "tags": ["古裝劇", "語錄", "七夕", "曖昧", "暗戀"],
+      "i18n": {
+        "zh-tw": {
+          "content": "都說今夜這場雨，是天上那位捨不得走才落的。我倒不信——一年只見得上一面，眼淚哪捨得花在見著的那天。這雨啊，是替底下這些話說不出口的人下的。",
+          "editorNote": "適合七夕當晚下雨時發，也適合心意藏很久還沒開口的人。",
+          "variations": ["見面那天的眼淚太貴，捨不得掉。", "這雨不是天上的人流的，是底下沒開口的人欠的。"]
+        },
+        "en": {
+          "content": "They say tonight's rain is the parting up in the sky. I don't buy it — when you only get one meeting a year, you don't spend your tears on the day you finally meet. This rain falls for the rest of us down here, the ones who still haven't said it out loud.",
+          "editorNote": "Good for a rainy Qixi night, or for anyone who has been holding something back too long.",
+          "variations": ["Tears on the day you finally meet are too expensive to spend.", "That rain isn't falling from above. It's owed by the people down here who never spoke up."]
+        }
+      }
+    },
+    {
+      "id": "cpq-284",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.beauty321.com/post/70734",
+      "sourceNote": "古裝劇常見的蒙館開課場景之原創改寫，非任何劇集台詞。",
+      "tags": ["古裝劇", "語錄", "勵志", "市井", "成長"],
+      "i18n": {
+        "zh-tw": {
+          "content": "先生問：你們來讀書，是為了什麼？\n滿堂搶著答：中舉、做官、光宗耀祖。\n最小的那個站起來說：我娘不識字。人家寫什麼，她都得求人念給她聽；念的人說是什麼，她就只能信什麼。我想自己讀。",
+          "editorNote": "適合開學季、談讀書意義或家庭故事的貼文。",
+          "variations": ["別人念給你聽的，永遠是別人想讓你聽的那一種。", "我讀書不為中舉，是想替我娘自己看一次。"]
+        },
+        "en": {
+          "content": "The teacher asked why we had come to study. The whole room shouted the same answers: pass the exams, hold office, bring the family honor.\nThe smallest boy stood up last. \"My mother can't read. Whatever anyone writes to her, she has to ask someone to read it aloud — and whatever they say it says, she has to believe. I want to read it myself.\"",
+          "editorNote": "For back-to-school posts, or anything about why reading and learning actually matter.",
+          "variations": ["Whatever gets read aloud to you is always someone else's version.", "I'm not studying to pass exams. I want to read one letter to my mother myself."]
+        }
+      }
     }
   ]
 }

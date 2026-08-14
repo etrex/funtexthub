@@ -5432,6 +5432,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-182",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.benq.com/zh-tw/reading/mindduo/parenting-education/elementary-school-kindergarten.html",
+      "sourceNote": "開學用品清單報導 姓名貼紙情境發想",
+      "tags": [
+        "開學",
+        "文具",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前把姓名貼紙貼滿鉛筆盒，好像這樣就不會有東西離開我。",
+          "editorNote": "適合開學前整理文具那天發，貼貼紙的心情其實有點慎重。",
+          "variations": [
+            "也能換成：「一包姓名貼紙一百張，我貼到連橡皮擦都有名字。」",
+            "進階版：「貼紙都貼好了，第一天還是弄丟一支筆。」"
+          ]
+        },
+        "en": {
+          "content": "Covered the whole pencil case in name stickers, like that would keep anything from leaving me.",
+          "editorNote": "For the night you sort your supplies. Sticking those on feels weirdly serious.",
+          "variations": [
+            "Swap in: \"A hundred name stickers in the pack, so even the eraser has a name now.\"",
+            "Harder mode: \"Every sticker in place, and I still lost a pen on day one.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-183",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.benq.com/zh-tw/reading/mindduo/family-activities/backtoschool-tips.html",
+      "sourceNote": "開學收心相關報導 早自習情境發想",
+      "tags": [
+        "開學",
+        "睡眠",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學第一天的早自習，我人七點十分到，靈魂七點五十才進教室。",
+          "editorNote": "適合開學第一週早上發，身體先到、意識後到的那種恍神。",
+          "variations": [
+            "也能換成：「早自習的我只是一具幫我佔位子的軀殼。」",
+            "進階版：「暑假我天天四點睡，現在四點是我要起床的時間了。」"
+          ]
+        },
+        "en": {
+          "content": "First morning study hall of the term: my body clocked in at 7:10, my soul got there around 7:50.",
+          "editorNote": "For that first week of mornings, when only half of you makes it to class.",
+          "variations": [
+            "Swap in: \"At morning study hall I'm just a shell holding my own seat.\"",
+            "Harder mode: \"All summer 4 a.m. was bedtime. Now it's almost wake-up time.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-184",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://www.parenting.com.tw/article/5090568",
+      "sourceNote": "115 學年度行事曆報導 開學前情境發想",
+      "tags": [
+        "開學",
+        "通勤",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學前一週我最先想起來的不是課表，是校車右邊倒數第二排靠窗的位子。\n那台車一年載我三百多趟，我記得的卻只有窗外那兩分鐘的稻田。",
+          "editorNote": "適合開學前一週發，先想起座位、再想起功課的順序很誠實。",
+          "variations": [
+            "也能換成：「課表可以查，那個位子被別人坐走就沒了。」",
+            "進階版：「車上睡了三年，醒來的地點永遠準得像鬧鐘。」"
+          ]
+        },
+        "en": {
+          "content": "A week out from the new term, the first thing I remembered wasn't my schedule. It was the window seat, second row from the back, right side of the school bus.\nThat bus carried me three hundred trips a year and all I kept was two minutes of rice fields going past.",
+          "editorNote": "For the week before school. Remembering the seat before the homework is honest.",
+          "variations": [
+            "Swap in: \"I can look up my schedule. I can't look up that seat once someone takes it.\"",
+            "Harder mode: \"Three years of sleeping on that bus and I still woke up on cue every time.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-185",
+      "dateAdded": "2026-08-14",
+      "sourceUrl": "https://vocus.cc/article/698d73b2fd897800014089d2",
+      "sourceNote": "開學季文具用品整理文 情境發想",
+      "tags": [
+        "開學",
+        "校園生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學第一週，全班共用一支訂書機。它換座位的次數比我這學期還多。",
+          "editorNote": "適合開學第一週發，班上的公用文具永遠在流浪。",
+          "variations": [
+            "也能換成：「那支訂書機沒有主人，只有下一站。」",
+            "進階版：「它最後停在誰的抽屜，就是這學期的未解之謎。」"
+          ]
+        },
+        "en": {
+          "content": "One stapler for the whole class the first week. It changed desks more times than I did all term.",
+          "editorNote": "For week one, when the shared supplies never stay put.",
+          "variations": [
+            "Swap in: \"That stapler has no owner, only a next stop.\"",
+            "Harder mode: \"Whose drawer it ends up in is this term's unsolved mystery.\""
+          ]
+        }
+      }
     }
   ]
 }
