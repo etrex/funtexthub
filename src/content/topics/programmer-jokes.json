@@ -7733,35 +7733,6 @@
       }
     },
     {
-      "id": "pj-278",
-      "dateAdded": "2026-07-03",
-      "sourceUrl": "https://www.ptt.cc/bbs/Soft_Job/",
-      "sourceNote": "Works on my machine — reworded classic",
-      "tags": [
-        "程式碼品質",
-        "工程師語錄",
-        "甩鍋"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "測試：「你這個功能在正式環境壞掉了。」\n工程師：「奇怪，我電腦上跑得好好的啊。」\n測試：「那你要不要把你電腦寄給客戶？」\n工程師沉默了三秒，說：「這個想法……其實有點道理。」",
-          "editorNote": "傳給那個永遠只會說『我這邊沒問題』的工程師同事。",
-          "variations": [
-            "延伸：於是 Docker 就這樣被發明出來了。",
-            "也可以回：『不然我們把我的電腦部署上去，反正它最穩。』"
-          ]
-        },
-        "en": {
-          "content": "QA: \"Your feature is broken in production.\"\nDeveloper: \"Weird, it runs perfectly on my machine.\"\nQA: \"Then should we just ship your machine to the customer?\"\nThe developer went quiet for three seconds, then said, \"Honestly... that's not a terrible idea.\"",
-          "editorNote": "Send it to the coworker whose entire debugging strategy is 'works on my machine.'",
-          "variations": [
-            "Extension: And that, kids, is how Docker was invented.",
-            "Alternate: 'Fine, let's just deploy my laptop. It's the most stable server we've got.'"
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-279",
       "dateAdded": "2026-07-03",
       "sourceUrl": "https://www.reddit.com/r/ProgrammerHumor/",
@@ -9400,33 +9371,6 @@
           "editorNote": "Post this right before a code review so everyone braces for what's coming.",
           "variations": [
             "Extension: I didn't write it so much as witness it happen."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-339",
-      "dateAdded": "2026-07-20",
-      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
-      "sourceNote": "'Programmers prefer dark mode because light attracts bugs' classic, rewritten",
-      "tags": [
-        "bug",
-        "工程師思維",
-        "工程師語錄"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "有人問工程師：「你為什麼永遠都開深色模式？」\n工程師頭也不抬：「因為光會吸引蟲。」",
-          "editorNote": "傳給那個螢幕永遠黑到你看不清楚的同事，他會回你一個 ok 手勢。",
-          "variations": [
-            "延伸：我不是怕亮，我是在替我的 bug 保留棲息地。"
-          ]
-        },
-        "en": {
-          "content": "Someone asked a developer: \"Why do you always use dark mode?\"\nWithout looking up, they said: \"Light attracts bugs.\"",
-          "editorNote": "Send it to the coworker whose screen is so dark you can't read it over their shoulder. Expect a thumbs-up back.",
-          "variations": [
-            "Extension: I'm not avoiding the light. I'm preserving a habitat for my bugs."
           ]
         }
       }
