@@ -11259,6 +11259,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "gq-407",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/graduate",
+      "sourceNote": "畢業後第一個八月，班級群組停止更新的體感；原創短句",
+      "tags": [
+        "畢業",
+        "感人",
+        "回憶",
+        "友情"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "群組往上滑，最後一則停在領畢業證書那天。",
+          "editorNote": "適合八月翻到舊群組時發限動，配一張只有日期的截圖",
+          "variations": [
+            "群組沒有解散，只是日期不再往前走。",
+            "最後一則訊息，是那天說的「等等在校門口集合」。"
+          ]
+        },
+        "en": {
+          "content": "Scrolled up in the group chat. The last message is still from the day we picked up our diplomas.",
+          "editorNote": "For an August story post, paired with a screenshot showing only the date",
+          "variations": [
+            "Nobody left the group chat. The date just stopped moving.",
+            "Last message in there: \"meet at the front gate in five.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "gq-408",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/mood",
+      "sourceNote": "八月開學採買季與畢業生無關的失落感；原創短句",
+      "tags": [
+        "畢業",
+        "感人",
+        "迷茫",
+        "成長"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學特賣的牌子掛出來了。今年沒有一樣東西是我要買的。",
+          "editorNote": "適合八月路過文具店或賣場時發，配貨架照片",
+          "variations": [
+            "路過開學特賣，第一次覺得那些字不是在跟我說話。",
+            "以前八月要買新的，今年八月只剩下舊的。"
+          ]
+        },
+        "en": {
+          "content": "The back-to-school sale signs are up. This year not a single item on them is mine to buy.",
+          "editorNote": "For walking past a stationery aisle in August, with a shelf photo",
+          "variations": [
+            "Walked past the back-to-school aisle and realized none of it was addressed to me.",
+            "August used to mean buying new things. Now it just means keeping the old ones."
+          ]
+        }
+      }
+    },
+    {
+      "id": "gq-409",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/graduate",
+      "sourceNote": "想在安靜的群組說話卻找不到理由的猶豫；原創短句",
+      "tags": [
+        "畢業",
+        "友情",
+        "感人",
+        "迷茫"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在群組打了一個「欸」，又刪掉。想不到後面要接什麼。",
+          "editorNote": "適合深夜想聯絡老同學卻按不下送出時發；也適合傳給同樣安靜的那個人",
+          "variations": [
+            "不是沒話說，是沒有事情可以當理由。",
+            "以前開口不用理由，現在要先想一個。"
+          ]
+        },
+        "en": {
+          "content": "Typed \"hey\" in the group chat, then deleted it. Couldn't think of what would come after.",
+          "editorNote": "For the late-night urge to message old classmates that never gets sent",
+          "variations": [
+            "It's not that there's nothing to say. There's just no reason attached to it.",
+            "We used to talk without a reason. Now I have to invent one first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "gq-410",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/mood",
+      "sourceNote": "畢業後失去共同行程的空虛感，區分於單純的想念；原創短句",
+      "tags": [
+        "畢業",
+        "感人",
+        "友情",
+        "成長"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "八月的空，不是少了誰，是少了一個非見不可的日子。",
+          "editorNote": "適合解釋畢業後那種說不上來的空，配空教室或空月曆的照片",
+          "variations": [
+            "以前不用約，因為時間表會幫我們約。",
+            "大家都還在，只是不再被同一個日期叫到同一個地方。"
+          ]
+        },
+        "en": {
+          "content": "August feels empty not because someone's missing, but because nothing on the calendar puts us in the same room anymore.",
+          "editorNote": "For naming that vague post-grad emptiness, with an empty classroom or blank calendar photo",
+          "variations": [
+            "We never had to make plans. The timetable made them for us.",
+            "Everyone's still around. Nothing schedules us into the same room now."
+          ]
+        }
+      }
     }
   ]
 }

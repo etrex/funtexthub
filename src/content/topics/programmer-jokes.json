@@ -12227,6 +12227,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-434",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Side_effect_(computer_science)",
+      "sourceNote": "模組載入副作用的一般說明；重寫成上線前刪掉「沒用到的 import」的故事",
+      "tags": [
+        "工程師日常",
+        "上線",
+        "黑色幽默",
+        "血淚",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上線前我刪掉一個沒用到的 import，一行，很乾淨。\n那個檔案被載入的時候會註冊排程。\n現在很乾淨，也沒有排程了。",
+          "editorNote": "適合在有人說「我只是清理一下」的 PR 底下貼。",
+          "variations": [
+            "短版：那個 import 沒人用，只是整個系統靠它活著。",
+            "延伸：現在我們的規矩是，刪東西的 PR 要比加東西的 PR 多看一個人。"
+          ]
+        },
+        "en": {
+          "content": "Right before release I deleted one unused import. One line. So clean.\nLoading that file was what registered the cron jobs.\nStill clean. Still no cron jobs.",
+          "editorNote": "For the PR where someone says they're just tidying up.",
+          "variations": [
+            "Short version: nobody used that import. The whole system just quietly ran on it.",
+            "Extension: deletion PRs now need one more reviewer than addition PRs."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-435",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Log_management",
+      "sourceNote": "日誌管理與關鍵字告警的一般說明；重寫成改一個字讓監控失效的故事",
+      "tags": [
+        "工程師日常",
+        "上線",
+        "production",
+        "黑色幽默",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上線前我把日誌裡的 failed 改成 error，看起來比較專業。\n監控是抓 failed 這個字的。\n那一週我們超級平靜。",
+          "editorNote": "適合在有人要「順手美化」訊息文案的時候貼。",
+          "variations": [
+            "短版：那週零告警，因為告警的眼睛被我改掉了。",
+            "延伸：現在告警規則跟訊息字串放同一個檔案，改一邊另一邊會紅。"
+          ]
+        },
+        "en": {
+          "content": "Before release I changed one log line from failed to error. Sounded more professional.\nThe alert rule matched on the word failed.\nQuietest week we ever had.",
+          "editorNote": "For when someone wants to quickly polish some wording.",
+          "variations": [
+            "Short version: zero alerts that week. I had edited the thing doing the watching.",
+            "Extension: alert rules and log strings live in one file now. Touch one, the other goes red."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-436",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Connection_pool",
+      "sourceNote": "連線池與逾時設定的一般說明；重寫成上線前把逾時值多加一個零的故事",
+      "tags": [
+        "工程師日常",
+        "上線",
+        "血淚",
+        "production",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上線前我幫逾時時間多打一個零，想說寬鬆一點比較安全。\n連線池整整塞了兩小時。\n對那個零來說是很安全沒錯。",
+          "editorNote": "適合在有人說「調個參數而已，不用測」的時候貼。",
+          "variations": [
+            "短版：我把逾時放寬，系統就把「還沒死」跟「還活著」搞混了。",
+            "延伸：後來學到的是，逾時不是耐心，是止血點。"
+          ]
+        },
+        "en": {
+          "content": "Right before release I added one zero to the timeout. Figured a little slack was safer.\nThe connection pool stayed full for two hours.\nSafer for the zero, sure.",
+          "editorNote": "For when someone says it's just a config tweak, no testing needed.",
+          "variations": [
+            "Short version: I gave it more patience and it stopped being able to tell dying from alive.",
+            "Extension: a timeout isn't patience. It's where you stop the bleeding."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-437",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://git-scm.com/docs/git-blame",
+      "sourceNote": "git blame 用途的一般說明；重寫成上線前查一行歷史而決定不動的故事",
+      "tags": [
+        "工程師日常",
+        "Git",
+        "上線",
+        "工程師思維",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上線前的最後一個小改動只有一行。\n我順手 blame 了一下，那行兩年內被改過七次，加回來、拿掉、再加回來。\n我就沒有動它。",
+          "editorNote": "適合在教新人「先看歷史再動手」的時候貼。",
+          "variations": [
+            "短版：那一行的歷史比我的年資長，我決定尊重它。",
+            "延伸：一行程式碼被反覆改回來，通常代表那裡有一個沒人寫下來的需求。"
+          ]
+        },
+        "en": {
+          "content": "The last small change before release was one line.\nI ran blame on it. Seven edits in two years: added, removed, added back.\nI left it alone.",
+          "editorNote": "For teaching a new hire to read the history before touching anything.",
+          "variations": [
+            "Short version: that line had more tenure than I did, so I respected it.",
+            "Extension: a line that keeps coming back is usually a requirement nobody wrote down."
+          ]
+        }
+      }
     }
   ]
 }

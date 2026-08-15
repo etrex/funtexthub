@@ -8769,6 +8769,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-289",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.strongerbyscience.com/training-to-failure/",
+      "sourceNote": "Stronger By Science 談 training to failure 與自評力竭常低估真實剩餘次數；改寫為身體喊停時還留有額度的原創短句",
+      "tags": [
+        "健身房",
+        "訓練",
+        "力竭",
+        "自我對話",
+        "勵志"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "身體喊最後一下的時候，通常還留著三下沒交出來。\n有效的就是那三下。",
+          "editorNote": "適合每次都在快變難的那一刻收工的人",
+          "variations": [
+            "你喊的最後一下，通常不是真的最後一下。",
+            "身體先投降了，額度其實還沒用完。"
+          ]
+        },
+        "en": {
+          "content": "When your body calls it the last rep, it's usually still holding three back.\nThose three are the ones that count.",
+          "editorNote": "For anyone who packs up right before the set gets hard",
+          "variations": [
+            "The rep you call your last is rarely your last.",
+            "Your body quits before your quota does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-290",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.healthline.com/health/fitness/reps-in-reserve",
+      "sourceNote": "Healthline 介紹 reps in reserve 保留次數概念；改寫為在最後一組跟自己喊價成交的原創短句",
+      "tags": [
+        "健身房",
+        "訓練",
+        "自我對話",
+        "幽默",
+        "動力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟自己喊價：再兩下。\n成交價通常是四下，而且我從來沒後悔過。",
+          "editorNote": "適合最後一組放下槓之前那幾秒的心理拉鋸",
+          "variations": [
+            "我開價兩下，身體還價零下，最後成交四下。",
+            "多出來的那兩下，才是我今天真正練到的。"
+          ]
+        },
+        "en": {
+          "content": "I open at two more reps. We usually settle at four.\nThe two I didn't plan on are the two that did something.",
+          "editorNote": "For the last set, when you're still bargaining with yourself",
+          "variations": [
+            "I bid two. My body counters with zero. We close at four.",
+            "The reps I didn't plan on are the ones that counted."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-291",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.strongerbyscience.com/effective-reps/",
+      "sourceNote": "Stronger By Science 討論 effective reps 有效次數集中在接近力竭的區間；改寫為入場費與正課的原創比喻",
+      "tags": [
+        "健身房",
+        "訓練",
+        "力竭",
+        "勵志",
+        "心態"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "想放棄之前做的那些是入場費，\n想放棄之後做的那幾下才是訓練。",
+          "editorNote": "適合寫在課表最後一頁，提醒自己不要提早收工",
+          "variations": [
+            "入場費繳完了，課才正要開始。",
+            "你撐得很輕鬆的那些，只是熱身的延長賽。"
+          ]
+        },
+        "en": {
+          "content": "Everything before you want to quit is the entry fee.\nThe reps after that are the actual workout.",
+          "editorNote": "For the last page of a training log, as a note to not leave early",
+          "variations": [
+            "You paid the entry fee. Now the session starts.",
+            "The comfortable reps were just an extended warm-up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-292",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.nsca.com/education/articles/kinetic-select/rating-of-perceived-exertion/",
+      "sourceNote": "NSCA 說明 RPE 主觀強度評估常與實際能力有落差；改寫為每組先投降再自己駁回的原創短句",
+      "tags": [
+        "健身房",
+        "訓練",
+        "自我對話",
+        "幽默",
+        "心態"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我每一組都會投降一次，\n然後由我自己駁回。",
+          "editorNote": "適合很想放下槓、最後還是做完的那種日子",
+          "variations": [
+            "我每組都投降，只是沒有人受理。",
+            "想停的念頭每次都準時出現，我每次都當作沒聽到。"
+          ]
+        },
+        "en": {
+          "content": "I surrender once every set.\nThe appeal gets denied by the same guy who filed it.",
+          "editorNote": "For the days you wanted to rack it and finished the set anyway",
+          "variations": [
+            "I quit every set. Nobody processes the paperwork.",
+            "The urge to stop shows up on schedule. I keep not answering."
+          ]
+        }
+      }
     }
   ]
 }

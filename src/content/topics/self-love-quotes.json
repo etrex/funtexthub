@@ -9584,6 +9584,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "slq-341",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.psychologytoday.com/us/basics/assertiveness",
+      "sourceNote": "Psychology Today 的 assertiveness 條目：果斷表達不需要冗長的正當化說明。取「拒絕不必附帶辯解」這個概念，寫成原創的排練說詞場景，句子全部自寫。",
+      "tags": ["自愛", "界線", "拒絕", "不討好"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在心裡排練了一整套說詞。\n對方只回一個「好」。\n那段話不用留到下次。",
+          "editorNote": "適合在你為了拒絕一件小事，先在腦中演練半小時的時候。多數人根本沒打算追問。",
+          "variations": [
+            "你準備的理由比對方想聽的多太多了。",
+            "沒被問到的解釋，就讓它留在心裡。"
+          ]
+        },
+        "en": {
+          "content": "You rehearsed a whole speech.\nThey just said \"okay.\"\nYou don't have to save that speech for next time.",
+          "editorNote": "For when you spend half an hour drafting the reasons behind a small no. Most people were never going to ask.",
+          "variations": [
+            "You prepared far more reasons than they wanted to hear.",
+            "An explanation nobody asked for can stay unsaid."
+          ]
+        }
+      }
+    },
+    {
+      "id": "slq-342",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.verywellmind.com/how-to-set-boundaries-5208802",
+      "sourceNote": "Verywell Mind 談設界線：過度解釋會把界線變成可協商的請求。取這個「解釋越多越像在徵求同意」的觀點，改寫成原創的送審比喻，內容全部自寫。",
+      "tags": ["自愛", "界線", "拒絕", "自我價值"],
+      "i18n": {
+        "zh-tw": {
+          "content": "理由講到第三個，聽起來就像在申請許可。\n你只是要拒絕，不是要送審。",
+          "editorNote": "適合在你發現自己一句拒絕後面接了一長串背景說明的時候。理由多不會讓對方更好受，只會讓你看起來還在等批准。",
+          "variations": [
+            "拒絕不是提案，不需要附上佐證資料。",
+            "第一個理由講完就可以停了。"
+          ]
+        },
+        "en": {
+          "content": "By the third reason, it starts to sound like a permit application.\nYou're declining, not submitting for approval.",
+          "editorNote": "For when you catch yourself stacking background details behind a simple no. More reasons don't soften it. They just make you look like you're still awaiting a decision.",
+          "variations": [
+            "A no isn't a proposal. It doesn't need supporting documents.",
+            "You can stop after the first reason."
+          ]
+        }
+      }
+    },
+    {
+      "id": "slq-343",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.psychologytoday.com/us/basics/boundaries",
+      "sourceNote": "Psychology Today 的 boundaries 基礎條目：依賴外部藉口會讓界線變得有條件。取這個概念改寫成「最近比較忙」這句台灣常見萬用擋箭牌的原創場景，句子全部自寫。",
+      "tags": ["自愛", "界線", "拒絕", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「最近比較忙」用久了，等你真的有空，就沒有理由不去了。\n不想去也算數。",
+          "editorNote": "適合在你每次婉拒都借用同一個藉口的時候。把忙當擋箭牌，等於承認不忙就一定得答應。",
+          "variations": [
+            "「我不想」本身就是一個完整的答案。",
+            "別把界線押在行事曆上，行事曆會空。"
+          ]
+        },
+        "en": {
+          "content": "\"Things are hectic lately\" works until they aren't.\nNot wanting to go counts as a reason on its own.",
+          "editorNote": "For when every no you give borrows the same excuse. Leaning on being busy quietly admits that a free evening obligates you.",
+          "variations": [
+            "\"I don't want to\" is already a complete answer.",
+            "Don't stake your boundary on your calendar. Calendars empty out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "slq-344",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.healthline.com/health/mental-health/people-pleaser",
+      "sourceNote": "Healthline 談討好型人格：拒絕後常出現過度解讀對方沉默的焦慮。取這個心理反應改寫成原創的傳訊等待場景，比喻與句子全部自寫。",
+      "tags": ["自愛", "界線", "拒絕", "自我對話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "按下拒絕之後那十分鐘，你一直盯著螢幕。\n空白不是生氣，只是對方在忙別的事。",
+          "editorNote": "適合在你傳出拒絕訊息後，開始逐字回頭檢查語氣的時候。對方的沉默通常跟你無關。",
+          "variations": [
+            "沒有馬上回你，不代表你剛剛做錯了什麼。",
+            "傳出去就放下，不用守在那裡等判決。"
+          ]
+        },
+        "en": {
+          "content": "The ten minutes after you send the no, you stare at the screen.\nSilence isn't anger. They're just busy elsewhere.",
+          "editorNote": "For when you send a decline and immediately start re-reading it for tone. Their silence is usually not about you.",
+          "variations": [
+            "A slow reply doesn't mean you did something wrong.",
+            "Send it and put the phone down. You're not awaiting a verdict."
+          ]
+        }
+      }
     }
   ]
 }

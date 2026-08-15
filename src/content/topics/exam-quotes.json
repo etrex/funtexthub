@@ -9975,6 +9975,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-327",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "考生分享走出考場後彼此寒暄的情境為背景，句子與觀點為原創",
+      "tags": ["考試", "考後", "考場", "自嘲", "療癒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你考得怎樣」在考場門口不是問句，是「陪我難過一下」。",
+          "editorNote": "適合考完在門口跟同學對上眼、誰都不想先講分數的那幾秒。",
+          "variations": [
+            "短版：「那句『考得怎樣』，從來就不是要答案。」",
+            "延伸版：「我們互相問了三次，誰也沒真的回答，但心情確實有比較好。」"
+          ]
+        },
+        "en": {
+          "content": "Out front, 'how'd it go' isn't a question. It's 'sit here and feel bad with me for a minute.'",
+          "editorNote": "For that pause outside the exam hall when nobody wants to name a number first.",
+          "variations": [
+            "Short: \"'How'd it go' was never after an answer.\"",
+            "Extended: \"We asked each other three times, nobody actually answered, and somehow it helped.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-328",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "考後裝沒事的常見反應為背景，句子為原創",
+      "tags": ["考試", "考後", "自嘲", "廢文", "考場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「還好啦沒差」這五個字，我在校門口講了七遍，越講越沒說服力。",
+          "editorNote": "適合考完硬要裝不在意、結果被自己拆穿的時候。",
+          "variations": [
+            "短版：「沒差」講到第七次，連我自己都不信了。",
+            "延伸版：「真的沒差的人，不會需要一直說沒差。」"
+          ]
+        },
+        "en": {
+          "content": "I said 'honestly, it's fine' seven times at the gate. Each one landed with less conviction than the last.",
+          "editorNote": "For pretending you don't care about a paper you very much care about.",
+          "variations": [
+            "Short: \"By the seventh 'it's fine,' even I stopped buying it.\"",
+            "Extended: \"People who are actually fine don't need to keep announcing it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-329",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "考生描述考後在路上被同學拉著核對題目的經驗為背景，句子為原創",
+      "tags": ["考試", "考後", "對答案", "考場", "焦慮"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問了一句「第三題你選什麼」，回家的路就從那裡開始變長。",
+          "editorNote": "適合考完不小心被拉進對答案、整條路瞬間安靜下來的時候。",
+          "variations": [
+            "短版：「一句『你選什麼』，可以讓十分鐘的路走成半小時。」",
+            "延伸版：「那條路本來很短，是我們自己把它走成檢討會。」"
+          ]
+        },
+        "en": {
+          "content": "Someone asks what you put for question three, and the walk home starts getting longer right there.",
+          "editorNote": "For getting pulled into comparing answers before you've even left the block.",
+          "variations": [
+            "Short: \"One 'what did you put' turns a ten-minute walk into thirty.\"",
+            "Extended: \"The walk home was short. We're the ones who turned it into a post-mortem.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-330",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "同學之間考後互相安慰的情境為背景，句子與觀點為原創",
+      "tags": ["考試", "考後", "同學", "溫暖", "療癒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同學說「我也錯了」，八成是騙我的，但我那天很需要那句謊。",
+          "editorNote": "適合想起考完那天，有人願意陪你一起說「我也一樣」的時刻。",
+          "variations": [
+            "短版：「他說他也錯了，我知道那不是真的。」",
+            "延伸版：「有些謊不是要騙你，是不想讓你一個人站在那裡。」"
+          ]
+        },
+        "en": {
+          "content": "My friend said she got it wrong too. Probably a lie. That day I really needed that lie.",
+          "editorNote": "For remembering whoever stood next to you and said 'same here' when it wasn't true.",
+          "variations": [
+            "Short: \"She said she missed it too. I knew better. I let it stand.\"",
+            "Extended: \"Some lies aren't meant to fool you. They're meant to keep you from standing there alone.\""
+          ]
+        }
+      }
     }
   ]
 }

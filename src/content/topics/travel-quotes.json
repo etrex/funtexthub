@@ -9850,6 +9850,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-332",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.funtexthub.com/topics/travel-quotes",
+      "sourceNote": "編輯原創：回程日在登機門前的購物破功觀察",
+      "tags": ["旅行", "機場", "搞笑", "短句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "出發時說這趟什麼都不買，\n回程在登機門前，提著四個紙袋。",
+          "editorNote": "適合回程那天在機場發限動，或幫自己的失控購物找台階",
+          "variations": [
+            "行李箱空出來的位置，最後都被登機門前的自己填滿。",
+            "說好不買的人，通常買最多。"
+          ]
+        },
+        "en": {
+          "content": "I swore I wouldn't buy anything this trip. I'm at the gate holding four paper bags.",
+          "editorNote": "For a departure-day story post, or excusing your last-minute shopping",
+          "variations": [
+            "Every empty inch in the suitcase gets filled at the gate.",
+            "The people who promise not to shop always buy the most."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-333",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.funtexthub.com/topics/travel-quotes",
+      "sourceNote": "編輯原創：報到櫃檯前的行李超重求生術",
+      "tags": ["旅行", "機場", "行李", "搞笑"],
+      "i18n": {
+        "zh-tw": {
+          "content": "行李超重六公斤，\n解法是把三件外套都穿在身上，\n然後假裝我很冷。",
+          "editorNote": "適合在報到櫃檯排隊時發，或紀念每次超重的求生時刻",
+          "variations": [
+            "櫃檯前的三分鐘，人類的穿衣速度可以突破極限。",
+            "超重的不是行李，是我對「還放得下」的信心。"
+          ]
+        },
+        "en": {
+          "content": "Six kilos over. My fix was wearing all three jackets at once and pretending I was cold.",
+          "editorNote": "For the check-in counter line, or a tribute to every overweight-bag rescue",
+          "variations": [
+            "Nobody dresses faster than a traveler three kilos over the limit.",
+            "The bag isn't overweight. My faith in one more thing is."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-334",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.funtexthub.com/topics/travel-quotes",
+      "sourceNote": "編輯原創：回程日伴手禮塞不下行李箱的最後一小時",
+      "tags": ["旅行", "機場", "行李", "搞笑"],
+      "i18n": {
+        "zh-tw": {
+          "content": "機場的最後一小時，\n我把伴手禮的盒子全拆了。\n塞得進去的才叫心意。",
+          "editorNote": "適合行李關不起來那一刻的貼文，或送禮時的自嘲開場",
+          "variations": [
+            "伴手禮的重量，一半是盒子，一半是我的不好意思。",
+            "拆掉包裝之後，才知道自己到底買了多少。"
+          ]
+        },
+        "en": {
+          "content": "Last hour at the airport, I stripped every souvenir out of its box. If it fits, it counts.",
+          "editorNote": "For the moment the suitcase won't close, or a self-deprecating gift caption",
+          "variations": [
+            "Half the weight of a souvenir is packaging, the other half is guilt.",
+            "You only learn how much you bought once the boxes come off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-335",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.funtexthub.com/topics/travel-quotes",
+      "sourceNote": "編輯原創：回程登機廣播響起卻還沒收心",
+      "tags": ["旅行", "機場", "回家", "感悟"],
+      "i18n": {
+        "zh-tw": {
+          "content": "廣播叫到我這一排了，\n我的人站起來，\n心還在昨天那片海裡漂。",
+          "editorNote": "適合回程登機前的最後一則貼文，或收假前的心情註解",
+          "variations": [
+            "身體先回家了，心還要再飛幾天才到。",
+            "登機證上寫的是回程，我心裡還在去程。"
+          ]
+        },
+        "en": {
+          "content": "They called my row. My body stood up. My head is still floating in yesterday's ocean.",
+          "editorNote": "For the last post before boarding home, or the night before going back to work",
+          "variations": [
+            "The body lands on time. The head takes a few more days.",
+            "The ticket says I'm heading home. I haven't agreed to it yet."
+          ]
+        }
+      }
     }
   ]
 }

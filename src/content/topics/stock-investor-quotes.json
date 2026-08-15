@@ -7997,6 +7997,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-263",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Disposition_effect",
+      "sourceNote": "處分效應：投資人傾向抱著虧損部位不放；賣出鍵對看的畫面與結尾為原創改寫，不含任何標的、價位或操作建議",
+      "tags": [
+        "自嘲",
+        "厭世",
+        "紀律",
+        "人性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我和賣出鍵對看了三分鐘。\n最後是我先移開視線。",
+          "editorNote": "適合手指懸在螢幕上、卻怎麼樣都按不下去的那三分鐘",
+          "variations": [
+            "賣出鍵沒有壞，壞的是按它的那隻手。",
+            "我對賣出鍵的耐心，遠遠超過我對自己的耐心。"
+          ]
+        },
+        "en": {
+          "content": "The sell button and I stared each other down for three minutes. I blinked first.",
+          "editorNote": "For the three minutes your finger hovers and nothing happens",
+          "variations": [
+            "The sell button works fine. The finger is the broken part."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-264",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Procrastination",
+      "sourceNote": "拖延行為的心理機制概述；自己跟自己開會、全票通過延後的橋段為原創改寫，全篇只寫心情，不提任何標的或方向",
+      "tags": [
+        "自嘲",
+        "厭世",
+        "散戶",
+        "人性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "停損這件事，我跟自己開過三十次會。\n每次都全票通過「下次再說」。",
+          "editorNote": "適合每次下定決心、又在同一個晚上自己推翻的時候",
+          "variations": [
+            "我跟自己談判從來沒破裂過，因為兩邊都想拖。",
+            "我心裡的表決很民主，只是選項從頭到尾只有一個。"
+          ]
+        },
+        "en": {
+          "content": "I've held thirty meetings with myself about cutting the loss. Every one passed unanimously: revisit later.",
+          "editorNote": "For every decision you make and repeal in the same evening",
+          "variations": [
+            "Negotiations with myself never break down. Both sides want to stall."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-265",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Loss_aversion",
+      "sourceNote": "損失趨避與自我合理化的行為財務概念；但書比規則還長的對照與寫法皆為原創改寫，不含任何標的、報酬率或操作建議",
+      "tags": [
+        "自嘲",
+        "厭世",
+        "紀律",
+        "認同"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的停損點下面有一排但書。\n但書的長度，已經比停損點本身長。",
+          "editorNote": "適合每次快要執行紀律、就臨時想到新理由的那一刻",
+          "variations": [
+            "我的紀律很嚴格，只是例外比較多。",
+            "停損點是死的，理由是活的。"
+          ]
+        },
+        "en": {
+          "content": "My stop-loss comes with a list of exceptions. The list is now longer than the rule.",
+          "editorNote": "For when the rule holds but the exceptions keep multiplying",
+          "variations": [
+            "My rules are strict. My excuses are creative."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-266",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sunk_cost",
+      "sourceNote": "沉沒成本與「再等一下」心態的說明；連續三百天與全勤的比喻為原創改寫，全篇只寫拖延心情，不提任何標的、價位或方向",
+      "tags": [
+        "自嘲",
+        "厭世",
+        "焦慮",
+        "人性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「再等一天」我已經連續說了三百天。\n這是我人生唯一的全勤。",
+          "editorNote": "適合發現自己最有恆心的一件事竟然是拖延的時候",
+          "variations": [
+            "我最持久的紀律，是每天延後一次紀律。",
+            "三百天沒斷過的習慣，可惜內容是「明天再說」。"
+          ]
+        },
+        "en": {
+          "content": "I've said \"just one more day\" three hundred days running. It's the only perfect attendance record I own.",
+          "editorNote": "For realizing your most consistent habit is putting things off",
+          "variations": [
+            "Three hundred days of unbroken commitment, all of it to waiting."
+          ]
+        }
+      }
     }
   ]
 }

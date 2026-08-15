@@ -7785,6 +7785,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-279",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://sofun.tw/netflix-autoplay-disable/",
+      "sourceNote": "簡單生活 Easylife 關閉 Netflix 自動播放下一集教學，原創改編為倒數跑完後把責任推給平台的心理",
+      "tags": [
+        "自動播放",
+        "5秒倒數",
+        "自嘲",
+        "意志力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「它自己播的。」倒數五秒你全程醒著，只是需要一個能怪的人。",
+          "editorNote": "傳給那個每次都說是平台害的朋友",
+          "variations": [
+            "延伸版：真的把它關掉之後，你才發現沒有人可以怪了。",
+            "反轉版：隔天你跟同事說是平台害的，同事說她昨天也被害了。"
+          ]
+        },
+        "en": {
+          "content": "\"It played itself.\" You were awake for all five seconds. You just needed someone else to blame.",
+          "editorNote": "For the friend who blames the platform every single time",
+          "variations": [
+            "Extended: once you actually turn it off, you find out there's nobody left to blame.",
+            "Reversal: you tell a coworker the platform did it to you, and she says it did the same thing to her."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-280",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://funtop.tw/netflix-still-watch/",
+      "sourceNote": "FUNTOP 資訊網 Netflix 播放不中斷設定教學，原創改編為中場離席回來時倒數早已跑完的場景",
+      "tags": [
+        "自動播放",
+        "拖延",
+        "自嘲",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你起身去裝水，只是想證明自己停得下來。回來時下一集已經演到第三分鐘。",
+          "editorNote": "傳給那個每次中場離開都輸給倒數的人",
+          "variations": [
+            "延伸版：你回來還是坐下了，因為錯過的那三分鐘總得補回來。",
+            "反轉版：有一次你真的沒回去，隔天發現自己一點都不想知道後來怎樣。"
+          ]
+        },
+        "en": {
+          "content": "You got up for water just to prove you could stop. You came back three minutes into the next episode.",
+          "editorNote": "For anyone whose mid-show break never beats the countdown",
+          "variations": [
+            "Extended: you sat back down anyway, because those three missed minutes had to be made up.",
+            "Reversal: one night you didn't go back, and by morning you didn't care how it ended."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-281",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://zh.vpnclub.cc/disable-netflix-autoplay-preview/",
+      "sourceNote": "跳板俱樂部關閉 Netflix 預告與自動播放教學，原創改編為關掉功能後仍然自己手動連按下一集",
+      "tags": [
+        "自動播放",
+        "5秒倒數",
+        "追劇習慣",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把自動播放關掉了。那一晚你用手指按了四次下一集。",
+          "editorNote": "傳給那個以為問題出在功能上的朋友",
+          "variations": [
+            "延伸版：每一集都要自己按之後，你才知道那五秒其實是替你擋著羞恥。",
+            "反轉版：後來你又把它打開了，理由是這樣比較不用一直伸手。"
+          ]
+        },
+        "en": {
+          "content": "You finally killed autoplay. That night your own finger hit next episode four times.",
+          "editorNote": "For the friend who thought the feature was the problem",
+          "variations": [
+            "Extended: once every episode needs a tap, you learn those five seconds were absorbing the shame for you.",
+            "Reversal: you switched it back on, and called it saving your arm the trouble."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-282",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.jyes.com.tw/news.php?act=view&id=2193",
+      "sourceNote": "傑昇通信 Netflix「你還在看嗎」通知設定報導，原創改編為明知是謊還是要說出口的睡前宣告",
+      "tags": [
+        "自動播放",
+        "自嘲",
+        "共鳴",
+        "追劇習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「再一集就好」講出來的當下，你就知道是假的。你還是講了。",
+          "editorNote": "傳給那個每晚都對自己說同一句話的人",
+          "variations": [
+            "延伸版：那句話不是承諾，是一個讓你安心繼續的儀式。",
+            "反轉版：有天你改口說要看到天亮，結果十一點就睡著了。"
+          ]
+        },
+        "en": {
+          "content": "The second \"just one more\" leaves your mouth, you know it's false. You say it anyway.",
+          "editorNote": "For the person who tells themselves the same line every night",
+          "variations": [
+            "Extended: it isn't a promise, it's the small ritual that lets you keep going.",
+            "Reversal: one night you announced you'd stay up till dawn, and fell asleep at eleven."
+          ]
+        }
+      }
     }
   ]
 }

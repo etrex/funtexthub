@@ -8965,6 +8965,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-326",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.aplb.org/",
+      "sourceNote": "寵物離世支持組織談睹物思情；此則改寫為水碗在地磚上留下的淡痕這個未被寫過的細節",
+      "tags": [
+        "遺物",
+        "日常",
+        "思念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "水碗收走以後，磁磚上那圈淺淺的水痕還在。我一直沒有去刷它。",
+          "editorNote": "適合收起餐具後才發現痕跡還留著的人",
+          "variations": [
+            "碗收起來了，地上那一圈還在。我沒動它。",
+            "磁磚上有一個圓圓的淡印子，只有我知道那是什麼。"
+          ]
+        },
+        "en": {
+          "content": "I put the water bowl away. The faint ring it left on the tile is still there. I have not scrubbed it.",
+          "editorNote": "For anyone who packed the dishes and found the floor still remembers",
+          "variations": [
+            "The bowl is gone. The ring on the floor is not. I left it alone.",
+            "A pale circle on the tile that only I can read."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-327",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.humanesociety.org/resources/coping-death-your-pet",
+      "sourceNote": "喪寵調適文章談生活習慣的殘留；改寫為出門前黏毛的手勢仍在但衣服上已經乾淨",
+      "tags": [
+        "日常斷裂",
+        "身體記憶",
+        "思念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "出門前還是拿滾筒在黑褲子上黏了兩下。乾乾淨淨的，什麼都沒黏到。",
+          "editorNote": "適合手還記得舊習慣的那種早晨",
+          "variations": [
+            "滾筒放在玄關沒收，我每天出門還是會拿起來一次。",
+            "以前黑衣服穿不出門。現在可以了，我卻不太想。"
+          ]
+        },
+        "en": {
+          "content": "Habit had me run the lint roller over my black pants before heading out. Clean. Nothing came up.",
+          "editorNote": "For the mornings when your hands still follow the old routine",
+          "variations": [
+            "The lint roller still sits by the door. I still pick it up every morning.",
+            "Black clothes used to be impossible. Now they are fine, and I hate that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-328",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.aspca.org/pet-care/end-of-life-care/pet-loss-support",
+      "sourceNote": "寵物失落支持頁面談他人無意的觸碰；改寫為朋友坐上牠慣坐的位置而自己說不出口",
+      "tags": [
+        "日常",
+        "思念",
+        "撫慰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友來，一屁股坐在你那個位子上。我什麼都沒說，只是那晚一直往那邊看。",
+          "editorNote": "適合家裡有一個位置只有自己在意的人",
+          "variations": [
+            "他坐了你的位子，他不知道。這種事我沒辦法開口。",
+            "我到現在走過客廳，還是會自動繞開那一塊。"
+          ]
+        },
+        "en": {
+          "content": "A friend dropped onto your spot on the couch. I said nothing. I just kept looking over there all night.",
+          "editorNote": "For anyone guarding a seat no one else knows about",
+          "variations": [
+            "He sat in your place. He had no way of knowing. I could not say it out loud.",
+            "I still walk the long way around that cushion."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-329",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.rainbowsbridge.com/",
+      "sourceNote": "紀念網站談留下的實體痕跡；改寫為車子後座椅套的爪痕拆到一半又鋪回去",
+      "tags": [
+        "遺物",
+        "日常",
+        "釋懷"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "後座椅套上那幾道爪痕摳不平。我拆到一半就停了，又鋪回去。",
+          "editorNote": "適合還沒準備好換掉舊東西的人",
+          "variations": [
+            "椅套該換了，我知道。等哪天再說吧。",
+            "那幾道痕跡是你在車上待過整整十年的證據。"
+          ]
+        },
+        "en": {
+          "content": "Claw marks on the back seat cover that will not smooth out. I got halfway through pulling it off, then laid it back down.",
+          "editorNote": "For anyone not ready to replace the worn-out thing yet",
+          "variations": [
+            "The cover needs replacing. I know. Some other day.",
+            "Those scratches are proof you rode with me for ten whole years."
+          ]
+        }
+      }
     }
   ]
 }

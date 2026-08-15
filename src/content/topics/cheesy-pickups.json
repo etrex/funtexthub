@@ -11594,6 +11594,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-438",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://supertaste.tvbs.com.tw/pack/359018",
+      "sourceNote": "手搖飲買一送一與第二杯優惠整理，取促銷用語重寫成告白句",
+      "tags": ["甜", "對話", "日常", "撩人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「第二杯半價欸。」\n「那要幫你點嗎？」\n「不用，我對你的喜歡從不打折。」",
+          "editorNote": "看到優惠看板時順口接的一句，走過飲料店現場講最自然",
+          "variations": [
+            "別人買一送一，我這杯只送你一個人。",
+            "全世界都在打折，只有我這杯是原價。"
+          ]
+        },
+        "en": {
+          "content": "\"Second cup's half off.\"\n\"Want me to grab you one?\"\n\"Nah. What I feel for you never goes on sale.\"",
+          "editorNote": "Say it in front of a promo sign at a drink shop",
+          "variations": [
+            "Everything's discounted except how much I like you.",
+            "Buy one get one free, but you get all of me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-439",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/boba/p/235170627",
+      "sourceNote": "手搖飲點法討論串，取甜度冰塊客製化的日常對話重寫",
+      "tags": ["甜", "對話", "可愛", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你都點半糖去冰。」\n「對啊，剛剛好。」\n「難怪，你把甜都留給我了。」",
+          "editorNote": "幫對方跑腿買飲料回來時遞過去講，記得對方的點法本身就是重點",
+          "variations": [
+            "你少的那半糖，全部跑到我這邊了。",
+            "去冰沒關係，反正你笑一下就退冰了。"
+          ]
+        },
+        "en": {
+          "content": "\"You always order half sugar, less ice.\"\n\"Tastes right that way.\"\n\"Figures. You saved all the sweet for me.\"",
+          "editorNote": "Best said while handing over the drink you went out to buy",
+          "variations": [
+            "The sugar you skipped all ended up on my side.",
+            "Less ice is fine. You melt it anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-440",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://life-taste.com/blogs/lifeproposal/2026-taiwanese-hand-shaken-drinks/",
+      "sourceNote": "台灣手搖飲介紹文，取加珍珠配料的細節重寫成告白句",
+      "tags": ["甜", "對話", "可愛", "撩人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「珍珠都沉在杯底欸。」\n「攪一攪就好。」\n「我喜歡你也一樣，都沉在最底下。」",
+          "editorNote": "兩個人一起喝飲料時講，講完再幫對方攪一下更加分",
+          "variations": [
+            "看起來只是一杯茶，攪開才知道底下這麼多。",
+            "沉在底下不代表沒有，是捨不得一次講完。"
+          ]
+        },
+        "en": {
+          "content": "\"Why do the pearls all sink to the bottom?\"\n\"Just stir it.\"\n\"Same with me. It's all been sitting down there.\"",
+          "editorNote": "For sharing boba together; stir their cup right after saying it",
+          "variations": [
+            "Looks like plain tea until you stir it up.",
+            "Sunk to the bottom doesn't mean it isn't there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-441",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://supertaste.tvbs.com.tw/pack/336835",
+      "sourceNote": "甜點與奶茶店介紹，取吃完正餐仍要點甜點的情境重寫",
+      "tags": ["甜", "對話", "幽默", "食物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我吃不下了。」\n「不是還有甜點？」\n「甜點胃我留著，那格現在只裝你。」",
+          "editorNote": "吃完飯服務生來問要不要加點甜點的那一刻講，時機最好",
+          "variations": [
+            "我這格胃空很久了，一直在等你。",
+            "正餐可以少吃，你這一份不能不點。"
+          ]
+        },
+        "en": {
+          "content": "\"I'm stuffed.\"\n\"No room for dessert?\"\n\"There's always a dessert stomach. Mine's reserved, and you're what's in it.\"",
+          "editorNote": "Time it for when the server asks if you want dessert",
+          "variations": [
+            "That compartment has been empty a while, waiting on you.",
+            "I'll skip the entree. Not skipping you."
+          ]
+        }
+      }
     }
   ]
 }

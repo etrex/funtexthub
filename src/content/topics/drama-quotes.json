@@ -10098,6 +10098,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dq-388",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/80",
+      "sourceNote": "2026 台劇排行整理報導延伸，原創改寫成「家庭餐桌戲的和解」短句，非特定劇集原句",
+      "tags": ["台劇", "親情", "療癒", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "台劇的和解很少靠對白。\n\n道歉卡在喉嚨，\n菜先夾進你碗裡。",
+          "editorNote": "給那個等不到一句道歉、卻天天被餵飽的人。",
+          "variations": [
+            "有些人道歉的方式，是把菜夾進你碗裡。",
+            "話沒說完沒關係，那盤菜已經替他講完了。"
+          ]
+        },
+        "en": {
+          "content": "In Taiwanese dramas, people rarely make up in words.\n\nThe apology sticks in his throat,\nso the food reaches your bowl first.",
+          "editorNote": "For anyone still waiting on an apology while being fed every single day.",
+          "variations": [
+            "Some people apologize by putting food in your bowl.",
+            "He never finished the sentence. The plate finished it for him."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dq-389",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/80",
+      "sourceNote": "2026 台劇排行整理報導延伸，原創改寫成「爸只問你要不要再一碗」短句，非特定劇集原句",
+      "tags": ["台劇", "親情", "溫暖", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "爸不會問你在外面過得好不好。\n\n他只會問，\n還要不要再一碗。",
+          "editorNote": "給那個回家被問到有點煩、其實心裡知道那是關心的人。",
+          "variations": [
+            "他不問你好不好，他問你飽不飽。",
+            "「再一碗」是他講得出口的最大關心。"
+          ]
+        },
+        "en": {
+          "content": "Dad won't ask how you're holding up out there.\n\nHe'll only ask\nif you want another bowl.",
+          "editorNote": "For anyone whose parents ask about food instead of feelings.",
+          "variations": [
+            "He doesn't ask if you're okay. He asks if you're full.",
+            "\"Another bowl?\" is the biggest thing he knows how to say."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dq-390",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/80",
+      "sourceNote": "2026 台劇排行整理報導延伸，原創改寫成「最後一塊沒人動」餐桌短句，非特定劇集原句",
+      "tags": ["台劇", "親情", "現實", "金句"],
+      "i18n": {
+        "zh-tw": {
+          "content": "最後一塊排骨沒有人動。\n\n那是一家人\n最接近道歉的一刻。",
+          "editorNote": "給吵完架、卻誰都拉不下臉先開口的家庭。",
+          "variations": [
+            "最後一塊沒人夾，因為每個人都想留給對方。",
+            "誰先把它夾到別人碗裡，誰就先低頭了。"
+          ]
+        },
+        "en": {
+          "content": "Nobody touches the last piece of pork rib.\n\nThat's the closest\nthis family gets to an apology.",
+          "editorNote": "For families who fight hard and apologize sideways.",
+          "variations": [
+            "The last piece sits there because everyone is saving it for someone else.",
+            "Whoever moves it onto another plate just said sorry."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dq-391",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/80",
+      "sourceNote": "2026 台劇排行整理報導延伸，原創改寫成「吵到一半媽去廚房」餐桌短句，非特定劇集原句",
+      "tags": ["台劇", "親情", "幽默", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "吵到一半，媽起身進廚房。\n\n回來時端了一鍋湯。\n\n這一集就這樣過了。",
+          "editorNote": "給那種吵架從來不會有結論、只會有宵夜的家。",
+          "variations": [
+            "我們家沒有和好，只有一鍋湯。",
+            "湯端上桌，這件事就算翻頁了。"
+          ]
+        },
+        "en": {
+          "content": "Mid-argument, Mom stands up and walks into the kitchen.\n\nShe comes back with soup.\n\nThat's how the episode ends.",
+          "editorNote": "For homes where fights don't get resolved, they get fed.",
+          "variations": [
+            "We never made up. We just ate.",
+            "The soup hits the table and the subject is closed."
+          ]
+        }
+      }
     }
   ]
 }

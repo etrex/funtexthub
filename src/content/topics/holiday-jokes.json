@@ -11769,6 +11769,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-397",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://1968.freeway.gov.tw/",
+      "sourceNote": "連假國道服務區排隊實況；全站原本 0 則休息站笑話，寫成車內兩句對話",
+      "tags": [
+        "連假",
+        "塞車",
+        "國道",
+        "休息站",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「休息站到了。」\n\n「我們才開二十公里。」\n\n「但廁所要排二十分鐘，先排再說。」",
+          "editorNote": "連假出遊、剛上國道就想停休息站的時候",
+          "variations": [
+            "一句版：連假的休息站不是給你休息的，是給你排隊的。",
+            "延伸版：排到的時候，前面那台車已經又開走了。"
+          ]
+        },
+        "en": {
+          "content": "\"Rest stop.\"\n\n\"We've been driving nine minutes.\"\n\n\"The bathroom line is twenty. Do the math.\"",
+          "editorNote": "For holiday road trips that stop before they really start",
+          "variations": [
+            "One-liner: On a holiday weekend, a rest stop isn't a break, it's a queue.",
+            "Extended: By the time I got out, the car ahead of us had already left."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-398",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://1968.freeway.gov.tw/",
+      "sourceNote": "連假國道車速實況；把「下一個交流道」寫成距離與時間換算的落差",
+      "tags": [
+        "連假",
+        "塞車",
+        "國道",
+        "交流道",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「下一個交流道下去。」\n\n「還有多遠？」\n\n「三公里。」\n\n「所以四十分鐘。」",
+          "editorNote": "連假塞在國道上、開始換算還要多久的時候",
+          "variations": [
+            "一句版：連假的國道，距離要用分鐘算，不能用公里算。",
+            "延伸版：後座問還有多久，我說三公里，他就安心睡了，我沒有糾正他。"
+          ]
+        },
+        "en": {
+          "content": "\"Get off at the next exit.\"\n\n\"How far?\"\n\n\"Two miles.\"\n\n\"So, an hour.\"",
+          "editorNote": "For holiday traffic, when distance stops meaning anything",
+          "variations": [
+            "One-liner: On a holiday weekend, you measure the highway in minutes, not miles.",
+            "Extended: The kid asked how far. I said two miles. He fell asleep happy. I let him."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-399",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.thenewslens.com/article/traffic-app-rerouting",
+      "sourceNote": "導航同時把所有人導向同一條替代道路的現象；改寫成連假車內獨白",
+      "tags": [
+        "連假",
+        "塞車",
+        "導航",
+        "科技",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "導航說找到新路線，可以省兩分鐘。\n\n國道上每一台車都收到同一則通知。\n\n我們一起省了兩分鐘。",
+          "editorNote": "連假被導航帶去替代道路、結果一樣塞的時候",
+          "variations": [
+            "一句版：導航幫你重新規劃的路線，也幫另外三千台車規劃了。",
+            "延伸版：下交流道之後我才發現，隔壁那台從剛才就一直在我隔壁。"
+          ]
+        },
+        "en": {
+          "content": "GPS found a faster route. Saves four minutes.\n\nSo did every other car on the highway.\n\nWe all took it together. We arrived nine minutes later.",
+          "editorNote": "For when the app reroutes you and the shortcut is somehow worse",
+          "variations": [
+            "One-liner: Your app rerouted you. It also rerouted three thousand other people.",
+            "Extended: Off the exit I realized the car beside me had been beside me the whole time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-400",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://1968.freeway.gov.tw/",
+      "sourceNote": "連假國道時速個位數的實況；寫成前後座兩句誤聽對話",
+      "tags": [
+        "連假",
+        "塞車",
+        "國道",
+        "對話",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我們現在時速多少？」\n\n「四。」\n\n「四十？」\n\n「四。旁邊那台在吃便當。」",
+          "editorNote": "連假國道完全不動、旁邊的人開始吃東西的時候",
+          "variations": [
+            "一句版：時速個位數的時候，隔壁車在做什麼你都看得很清楚。",
+            "延伸版：他吃完了，我們前進了半台車。"
+          ]
+        },
+        "en": {
+          "content": "\"What's our speed?\"\n\n\"Three.\"\n\n\"Thirty?\"\n\n\"Three. The guy next to us is eating lunch.\"",
+          "editorNote": "For holiday gridlock, when the next lane starts having a meal",
+          "variations": [
+            "One-liner: At single-digit speeds you get to know the neighboring car very well.",
+            "Extended: He finished lunch. We had moved half a car length."
+          ]
+        }
+      }
     }
   ]
 }

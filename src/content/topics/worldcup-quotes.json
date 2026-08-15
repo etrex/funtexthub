@@ -6653,6 +6653,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-223",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.cnn.com/2026/07/21/sport/world-cup-fans-afterward-intl",
+      "sourceNote": "賽事期間陌生人之間的共同話題觀察；本篇取「電梯裡的無聲默契」自行發想",
+      "tags": [
+        "世界盃",
+        "熬夜",
+        "同事",
+        "暗號"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電梯裡遇到不熟的同事，兩個人同時打了個很深的哈欠。\n沒講半句話，出電梯前互相點了一下頭。",
+          "editorNote": "傳給那個隔天早上在公司跟你對上眼的戰友",
+          "variations": [
+            "同一支球隊不重要，同一個時段醒著就夠了。",
+            "不用問，那個哈欠就是通關密語。"
+          ]
+        },
+        "en": {
+          "content": "Rode the elevator with a coworker I barely know. We both yawned, deep, at the exact same time. No words—just a nod on the way out.",
+          "editorNote": "For the stranger at work who was clearly up too",
+          "variations": [
+            "Same team or not, we were awake at the same hour.",
+            "That yawn was the password."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-224",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://gsbet888.tw/fifa-world-cup-broadcast/",
+      "sourceNote": "熬夜看球隔天上班的身體代價；本篇取「視訊會議關鏡頭」自行發想",
+      "tags": [
+        "世界盃",
+        "黑眼圈",
+        "上班",
+        "熬夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "晨會我把鏡頭關了，說網路不穩。\n其實是鏡頭很誠實，而我昨晚三點才躺下。",
+          "editorNote": "傳給那個晨會永遠只出現一個灰色頭像的同事",
+          "variations": [
+            "網路很好，是我的臉需要緩衝。",
+            "關鏡頭不是害羞，是保護大家的心情。"
+          ]
+        },
+        "en": {
+          "content": "Kept my camera off in the morning standup and blamed the Wi-Fi. Truth is the camera is honest, and I got to bed at three.",
+          "editorNote": "For the coworker who is a gray circle every morning",
+          "variations": [
+            "The connection is fine. My face needs buffering.",
+            "Camera off isn't shyness, it's mercy."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-225",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://truehighlights.com/watch-world-cup-highlights-without-spoilers",
+      "sourceNote": "錄影補看時的躲雷日常；本篇取「早餐店電視」情境自行發想",
+      "tags": [
+        "世界盃",
+        "爆雷",
+        "早餐店",
+        "錄影"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店的電視開著體育新聞，我整個背對著坐。\n老闆娘要開口，我先大聲說了一句：加蛋。",
+          "editorNote": "傳給那個為了晚上補看、白天不敢抬頭的朋友",
+          "variations": [
+            "躲比分的人，走路都是低著頭的。",
+            "今天不看新聞，今天只看蛋。"
+          ]
+        },
+        "en": {
+          "content": "The breakfast place had sports news on, so I sat facing the wall. The owner opened her mouth and I shouted my order over it.",
+          "editorNote": "For the friend saving the recording for tonight",
+          "variations": [
+            "People dodging the score walk with their heads down.",
+            "No news today. Just eggs."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-226",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://sports.yahoo.com/articles/now-fans-world-cup-ends-211802881.html",
+      "sourceNote": "球迷賽後生活觀察；本篇取「辦公室咖啡機前的無聲供詞」自行發想",
+      "tags": [
+        "世界盃",
+        "咖啡",
+        "辦公室",
+        "熬夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上咖啡機前排了三個人，都按最大杯。\n誰也沒提昨晚，杯子已經全招了。",
+          "editorNote": "傳給那個跟你在茶水間默默對到眼的同事",
+          "variations": [
+            "杯子的尺寸，就是昨晚的誠實紀錄。",
+            "不用問幾點睡，看杯子就好。"
+          ]
+        },
+        "en": {
+          "content": "Three of us in line at the office coffee machine, all hitting the largest size. Nobody mentioned last night. The cups already confessed.",
+          "editorNote": "For the coworker you meet at the machine every morning",
+          "variations": [
+            "Cup size is the honest record of last night.",
+            "Don't ask what time they slept. Check the cup."
+          ]
+        }
+      }
     }
   ]
 }

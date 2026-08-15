@@ -10658,6 +10658,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-390",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.simplypsychology.org/burnout.html",
+      "sourceNote": "Inspired by burnout writing on unrealistic daily workloads; to-do list scene and lines written original for this collection",
+      "tags": [
+        "療癒",
+        "心靈",
+        "放過自己",
+        "節奏"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "待辦清單上那三件事，放到明天也不會壞掉。\n今天先讓自己喘一口氣。",
+          "editorNote": "適合下班還在盯著清單、覺得自己不夠快的晚上。",
+          "variations": [
+            "清單不會因為你今天休息一下就長出腳跑掉。",
+            "先把自己顧好，再回來處理那些等得起的事。"
+          ]
+        },
+        "en": {
+          "content": "Those three things on your list won't spoil by tomorrow. Give yourself today to just breathe.",
+          "editorNote": "For a night when you're off work but still staring at the list.",
+          "variations": [
+            "The list isn't going to grow legs and run off because you rested.",
+            "Take care of yourself first. The patient things can wait."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-391",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.apa.org/topics/stress/manage-stress-tips",
+      "sourceNote": "Inspired by stress-management writing on problems that need time rather than force; phrasing written original for this collection",
+      "tags": [
+        "療癒",
+        "心靈",
+        "耐心",
+        "節奏"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有些事不是你今天想不通，\n是它本來就需要更久一點。",
+          "editorNote": "適合為了一個想不出答案的問題卡了一整天的時候。",
+          "variations": [
+            "想不出來不代表你笨，可能只是時間還沒到。",
+            "有些結，要放著幾天才會自己鬆一點。"
+          ]
+        },
+        "en": {
+          "content": "Some things aren't unsolvable today. They simply need longer than one day.",
+          "editorNote": "For a day spent stuck on a question that won't resolve.",
+          "variations": [
+            "Not figuring it out doesn't mean you're slow. It might just be early.",
+            "Some knots only loosen after a few days of being left alone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-392",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.mind.org.uk/information-support/tips-for-everyday-living/how-to-manage-stress/",
+      "sourceNote": "Inspired by everyday stress-management writing on urgency framing; wording written original for this collection",
+      "tags": [
+        "療癒",
+        "心靈",
+        "放過自己",
+        "壓力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "把「現在馬上」改成「這週某一天」，\n天不會塌下來。",
+          "editorNote": "適合傳給那個把每件事都排成急件的人。",
+          "variations": [
+            "不是每件事都掛急診，大部分都可以排隊。",
+            "換一個期限，你會發現世界照樣運轉。"
+          ]
+        },
+        "en": {
+          "content": "Swap \"right now\" for \"sometime this week.\" The sky stays up.",
+          "editorNote": "For the person who files every task as urgent.",
+          "variations": [
+            "Not everything is an emergency. Most things can take a number.",
+            "Move the deadline and watch the world keep running."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-393",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.sleepfoundation.org/sleep-deprivation/sleep-deprivation-and-cognitive-performance",
+      "sourceNote": "Inspired by writing on rest and decision-making capacity; lines written original for this collection",
+      "tags": [
+        "療癒",
+        "心靈",
+        "休息",
+        "節奏"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "不是每件事都要今天有答案。\n有些答案要等你睡飽才會出現。",
+          "editorNote": "適合半夜還在腦內開會、決定不了的時候。",
+          "variations": [
+            "累到不行的時候做的決定，通常都不算數。",
+            "先去睡，明天的你比現在的你聰明一點。"
+          ]
+        },
+        "en": {
+          "content": "Not everything needs an answer today. Some answers only show up after you've slept.",
+          "editorNote": "For 2 a.m., when your brain is still holding a meeting.",
+          "variations": [
+            "Decisions made on an empty tank rarely hold up in the morning.",
+            "Go to sleep. Tomorrow's version of you is sharper than this one."
+          ]
+        }
+      }
     }
   ]
 }

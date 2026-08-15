@@ -9326,6 +9326,123 @@
           ]
         }
       }
+    },
+    {
+      "id": "aq-388",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://seeddesign.tw/news-tw-new/blog-tw-new/builtintype-vs-bulbtype/",
+      "sourceNote": "燈具選購資料：多數人只看瓦數，但瓦數是耗電、亮度看流明，另有燈座與色溫；改寫為成年後才學會的採買常識",
+      "tags": [
+        "生活",
+        "長大",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "換燈泡不難，難的是買對那顆。大人的第一步，是把壞的拆下來帶去店裡。",
+          "editorNote": "適合剛搬出來自己住、第一次面對五金行的人。",
+          "variations": [
+            "燈座、色溫、流明，三個都要對，沒有人教過我。",
+            "現在我會先拍照再去買，這也算長大的一種。"
+          ]
+        },
+        "en": {
+          "content": "Changing a bulb is easy. Buying the right one isn't. Step one of adulthood: take the dead one to the store.",
+          "editorNote": "For anyone living alone for the first time and facing the hardware aisle.",
+          "variations": [
+            "Base, color temp, lumens. Three things to get right, and nobody ever mentioned them.",
+            "Now I photograph it before I shop. That counts as growing up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-389",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://upsangel.com/router-2/router-setting-guide/",
+      "sourceNote": "路由器設定與斷線排除指南；改寫為成年人自學的唯一維修技能",
+      "tags": [
+        "生活",
+        "長大",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒人教我怎麼修網路。斷線的時候，我拔插頭、數到三十、插回去——然後它就好了。",
+          "editorNote": "適合在家工作、網路一斷就心跳加速的人。",
+          "variations": [
+            "我的維修技能只有一招，就是拔掉再插回去。",
+            "電腦、路由器、人，重開機這招都有效。"
+          ]
+        },
+        "en": {
+          "content": "Nobody taught me how to fix the internet. When it drops, I unplug it, count to thirty, plug it back in. It works.",
+          "editorNote": "For remote workers whose pulse spikes the second the wifi dies.",
+          "variations": [
+            "My entire repair skill set is unplug it and plug it back in.",
+            "Laptops, routers, people. A restart helps all three."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-390",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.fiftyplus.com.tw/catalog/vol4",
+      "sourceNote": "一個人住需要的生活技能討論；改寫為打客服電話的自學過程",
+      "tags": [
+        "生活",
+        "長大",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電話那頭念到第四個選項，我已經連按三次零。找真人這件事，是自學的。",
+          "editorNote": "適合剛跟電信、銀行、保險客服搏鬥完的人發文自嘲。",
+          "variations": [
+            "等候音樂聽到後來，我已經會跟著哼了。",
+            "大人的必修課，是聽完四個選項還沒掛掉。"
+          ]
+        },
+        "en": {
+          "content": "By the fourth menu option I've already mashed zero three times. Reaching a human is a skill I taught myself.",
+          "editorNote": "For anyone who just survived a call with their bank or phone company.",
+          "variations": [
+            "I've been on hold so long I can hum the music now.",
+            "Adulthood is sitting through four menu options without hanging up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-391",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://n.yam.com/Article/20260615168370",
+      "sourceNote": "居家水電 DIY 課程報導提到民眾遇故障多半先付錢才學會處理；改寫為成年後的學費比喻",
+      "tags": [
+        "生活",
+        "長大",
+        "金錢",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這些事沒有人教，所以最後都是罰單、滯納金跟師傅的估價單在教。學費有點貴。",
+          "editorNote": "適合剛被繳費期限或維修報價教訓過的人。",
+          "variations": [
+            "我的成年教育學費，大部分繳給了滯納金。",
+            "沒人教的事，最後都會自己來跟你收費。"
+          ]
+        },
+        "en": {
+          "content": "Nobody taught me any of this. The tickets, the late fees, and the repair quotes did. Tuition runs a little steep.",
+          "editorNote": "For anyone who just got schooled by a due date or a repair estimate.",
+          "variations": [
+            "Most of my adult education budget went to late fees.",
+            "The things nobody teaches you will eventually bill you themselves."
+          ]
+        }
+      }
     }
   ]
 }

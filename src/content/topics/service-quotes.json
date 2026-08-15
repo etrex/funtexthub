@@ -9330,6 +9330,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-346",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.thenewslens.com/article/emotional-labor-service",
+      "sourceNote": "情緒勞動中「表層演出」與內在真實感受落差的常見討論；本則為原創的雙軌台詞寫法，不引用個案",
+      "tags": [
+        "服務業",
+        "情緒勞動",
+        "心聲",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「好的，沒問題。」\n說出口的是這一句。\n腦內同時在跑的是：\n問題有三個，等一下我自己吞。",
+          "editorNote": "傳給今天嘴巴跟腦袋各講一句的同事。上面那句是給客人的，下面那句才是真的。",
+          "variations": [
+            "沒問題是對外版本，有問題是內部版本。",
+            "那三個問題後來都解決了，解決的人是我。"
+          ]
+        },
+        "en": {
+          "content": "Out loud: \"Sure, no problem.\"\nInside my head: there are three problems, and I'll be swallowing every one of them after you leave.",
+          "editorNote": "For the coworker whose mouth and brain ran two different scripts today.",
+          "variations": [
+            "\"No problem\" is the customer-facing version. The internal version has bullet points.",
+            "Those three problems did get solved. By me. Later."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-347",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://blog.104.com.tw/service-industry-multitasking/",
+      "sourceNote": "服務現場一人多工、承諾時間與實際處理落差的普遍現象；本則為原創情境，不指涉特定店家",
+      "tags": [
+        "服務業",
+        "多工",
+        "心聲",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「馬上為您處理。」\n嘴巴這樣講，\n腦內的字幕是：\n馬上等於二十分鐘後，我只有兩隻手。",
+          "editorNote": "適合貼在休息室，給每個把「馬上」當成安撫用語的人。那不是騙，是排隊順序。",
+          "variations": [
+            "「馬上」是服務業的單位，換算成分鐘要看現場幾個人。",
+            "我沒有騙您，我只是把您排進了一條您看不到的隊伍。"
+          ]
+        },
+        "en": {
+          "content": "My mouth says \"Right away, sir.\"\nThe subtitle in my head says twenty minutes, because I still only have two hands.",
+          "editorNote": "For anyone who uses \"right away\" as a calming device, not a timestamp.",
+          "variations": [
+            "\"Right away\" is a unit of measurement. Conversion depends on how many of us are on shift.",
+            "I didn't lie to you. I put you in a line you can't see."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-348",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.cw.com.tw/article/customer-service-frontline",
+      "sourceNote": "第一線人員代替不在場的同事或制度道歉，是客訴處理的常見結構；本則為原創寫法",
+      "tags": [
+        "服務業",
+        "客訴",
+        "心聲",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「不好意思，是我們沒做好。」\n臉上掛著這句，\n腦內只有一句：\n沒做好的那位今天排休。",
+          "editorNote": "傳給今天替不在場的人道歉的同事。道歉的人和出錯的人，很少是同一個。",
+          "variations": [
+            "我道的歉，有一半是幫別人先付的。",
+            "「我們」這兩個字，今天站在這裡的只有我。"
+          ]
+        },
+        "en": {
+          "content": "My face says \"Sorry, that's on us.\"\nMy brain says the person it's actually on is off today.",
+          "editorNote": "For whoever apologized on behalf of someone who wasn't there.",
+          "variations": [
+            "Half the apologies I make are paid in advance for somebody else.",
+            "\"We\" is a big word for one person standing at a counter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-349",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/frontline-policy-limits",
+      "sourceNote": "第一線授權有限、只能傾聽卻無法更動規則的落差；本則為原創的雙軌獨白，不涉真實對話",
+      "tags": [
+        "服務業",
+        "規則",
+        "心聲",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「您說的我都了解。」\n了解是真的，\n改不了也是真的。\n我只是被派來站在這裡聽完的人。",
+          "editorNote": "傳給今天被當成規則本人的同事。你聽得懂，不代表你有權限。",
+          "variations": [
+            "我點的每一次頭都是真的，只是點頭不會改到系統。",
+            "公司給我的權限，剛好停在「聽完」這兩個字。"
+          ]
+        },
+        "en": {
+          "content": "\"I completely understand.\"\nThe understanding is real.\nSo is the fact that I can't change it.\nI was just sent out here to hear it.",
+          "editorNote": "For the coworker who got treated as the policy itself today.",
+          "variations": [
+            "Every nod was genuine. None of them reach the system.",
+            "My authority ends exactly where listening ends."
+          ]
+        }
+      }
     }
   ]
 }

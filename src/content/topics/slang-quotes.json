@@ -10494,6 +10494,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-360",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://theconversation.com/thumbs-up-good-or-passive-aggressive-how-emojis-became-the-most-confusing-kind-of-online-language-259151",
+      "sourceNote": "表情符號語意分析，指出同一個符號在不同年齡層被讀成友善或陰陽怪氣，佐證本則微笑臉的世代時差",
+      "tags": [
+        "代溝",
+        "語氣",
+        "共鳴",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽傳「🙂」是溫柔。\n\n同學傳「🙂」是我完了。\n\n同一張臉，\n兩個年紀讀出兩種天氣。",
+          "editorNote": "適合貼在同一個表情符號被兩個年齡層讀成兩種語氣的時候。",
+          "variations": [
+            "加碼版：「我現在傳表情前，會先想收件人幾歲。」",
+            "自嘲版：「我對這張臉的解讀，跟我的年紀一起長歪了。」"
+          ]
+        },
+        "en": {
+          "content": "'🙂' from my mom means she's being sweet.\n\n'🙂' from a classmate means I'm in trouble.\n\nSame face. Two ages, two different forecasts.",
+          "editorNote": "For when one emoji lands as warmth or as a warning depending on who opened it.",
+          "variations": [
+            "Add-on: 'I now check the recipient's age before picking a face.'",
+            "Self-own: 'My emoji instincts aged badly.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-361",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.upworthy.com/periods-in-texts-aggressive-gen-z-vs-gen-x-ex1/",
+      "sourceNote": "報導年輕世代把訊息末尾的句號讀成生氣、年長世代只當標點，作為本則句號誤會的依據",
+      "tags": [
+        "代溝",
+        "語氣",
+        "吐槽",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我回「好。」\n\n妹妹私訊問我在氣什麼。\n\n我沒有在氣，\n我只是把句子打完了。",
+          "editorNote": "適合用在因為一個句號被誤會成生氣的時候。",
+          "variations": [
+            "反擊版：「那不是語氣，那是標點。」",
+            "投降版：「我把句號都拿掉了，訊息看起來像在跳。」"
+          ]
+        },
+        "en": {
+          "content": "I texted 'Okay.'\n\nMy sister asked why I was mad.\n\nI wasn't mad. I just finished the sentence.",
+          "editorNote": "For the day a single period got read as anger.",
+          "variations": [
+            "Comeback: 'That wasn't a tone. That was punctuation.'",
+            "Surrender: 'Dropped all my periods. Now my texts look like they're skipping.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-362",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.tampabay.com/opinion/2022/10/28/gen-z-thumbs-up-emoji-passive-aggressive-red-heart-laugh-cry-canceled/",
+      "sourceNote": "討論笑相關符號在不同世代的溫度差，說明笑聲長度被當成誠意指標，佐證本則笑幾聲的算法",
+      "tags": [
+        "代溝",
+        "語氣",
+        "自嘲",
+        "吐槽"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管回「哈哈」，我以為他不爽。\n\n他說他真的在笑。\n\n笑幾聲才算開心，\n每個年紀規定不一樣。",
+          "editorNote": "適合貼在為了對方笑得太短而內耗一整天的時候。",
+          "variations": [
+            "加碼版：「我後來都回五個哈，怕被當成冷淡。」",
+            "認命版：「笑聲要湊字數，這件事沒人教過我。」"
+          ]
+        },
+        "en": {
+          "content": "My boss replied 'haha.' I assumed he was annoyed.\n\nHe says he was actually laughing.\n\nHow many laughs count as happy depends on your birth year.",
+          "editorNote": "For spiraling all afternoon because someone's laugh came up two letters short.",
+          "variations": [
+            "Add-on: 'I send five h's now, just in case.'",
+            "Acceptance: 'Nobody warned me laughter had a word count.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-363",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.joe.co.uk/life/gen-z-feel-uncomfortable-about-thumbs-up-emoji-because-its-passive-aggressive-427949",
+      "sourceNote": "說明同一組客套訊號在不同世代被讀成誠意或敷衍，支撐本則邀約句的年齡差解讀",
+      "tags": [
+        "代溝",
+        "台灣用語",
+        "日常",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿姨說「有空來吃飯」，是真的會煮。\n\n我說「有空約」，是再見。\n\n同一句話，\n只有一句附日期。",
+          "editorNote": "適合用在被長輩認真回覆邀約、才發現自己只是在收尾的時候。",
+          "variations": [
+            "後續版：「她真的傳了日期過來，我只好把行事曆打開。」",
+            "反省版：「我這句講了十年，一次都沒兌現過。」"
+          ]
+        },
+        "en": {
+          "content": "When my aunt says 'come eat sometime,' she'll actually cook.\n\nWhen I say it, I mean goodbye.\n\nSame sentence. Only one of them comes with a date.",
+          "editorNote": "For when an older relative takes your sign-off line as a real invitation.",
+          "variations": [
+            "Follow-up: 'She sent an actual date. I had to open my calendar.'",
+            "Reckoning: 'Said that line for ten years. Never once meant it.'"
+          ]
+        }
+      }
     }
   ]
 }

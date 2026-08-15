@@ -10686,6 +10686,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-371",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://health.ettoday.net/news/1243321",
+      "sourceNote": "專家說一天內體重可差 0.8 到 1.8 公斤、建議晨起如廁後量，改寫成站上體重計前的小儀式",
+      "tags": [
+        "減肥",
+        "體重計",
+        "自嘲",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "站上去之前，我先把眼鏡拿下來。\n\n看不清楚的數字，都還有討論空間。",
+          "editorNote": "適合每天早上都要跟體重計小小談判一下的人",
+          "variations": [
+            "先脫襪子，再脫眼鏡，這是我的暖身流程。",
+            "數字模糊的時候，我對自己特別寬容。"
+          ]
+        },
+        "en": {
+          "content": "Before I step on, I take my glasses off. A number I can't read is still open to negotiation.",
+          "editorNote": "For anyone who negotiates with the bathroom scale every morning",
+          "variations": [
+            "Socks off, then glasses off. That's my warm-up.",
+            "I'm much kinder to myself when the number is blurry."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-372",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.uho.com.tw/article-60683.html",
+      "sourceNote": "營養師說明體重起伏原因、一天波動兩公斤屬正常，改寫成數字還沒定下來那幾秒的心理喊價",
+      "tags": [
+        "減肥",
+        "體重計",
+        "自嘲",
+        "詭辯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "數字還在跳的那三秒，我心裡先開一個價。\n\n它定下來時，我們差兩公斤，繼續談。",
+          "editorNote": "適合站上體重計會先在心裡喊價的人",
+          "variations": [
+            "我出的價它從來沒接受過，但我每天還是照出。",
+            "談不攏也沒關係，明天早上再談一次。"
+          ]
+        },
+        "en": {
+          "content": "In the three seconds before it settles, I name a price I'd accept. It lands two kilos off. Talks continue tomorrow.",
+          "editorNote": "For people who make a silent offer while the numbers are still moving",
+          "variations": [
+            "It has never accepted my offer. I make one anyway.",
+            "No deal today. We reconvene tomorrow morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-373",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://nuli.app/blog/weigh-yourself-right/",
+      "sourceNote": "教練解析體重浮動與正確量法（同樣衣物、同一時間），改寫成量體重時偷偷找地方扶一下的小動作",
+      "tags": [
+        "減肥",
+        "體重計",
+        "自欺",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上去的時候，我輕輕扶了一下牆。\n\n手上那點力氣，是我今天唯一的減法。",
+          "editorNote": "適合量體重時會不自覺想找東西扶的人",
+          "variations": [
+            "我不是作弊，我只是把重量分給那面牆一點。",
+            "單腳站的那一秒，我確實輕了。"
+          ]
+        },
+        "en": {
+          "content": "I rest a hand on the wall on my way up. That little bit of pressure is the only subtraction I managed today.",
+          "editorNote": "For anyone who quietly finds something to lean on while weighing in",
+          "variations": [
+            "Not cheating. Just sharing the load with the wall.",
+            "For one second on one foot, I really was lighter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-374",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://blog.worldgymtaiwan.com/weigh-every-day",
+      "sourceNote": "談每天量體重的正確心態與不必過度焦慮，改寫成量完之後把自己接住的那句話",
+      "tags": [
+        "減肥",
+        "體重計",
+        "金句",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三秒過去，數字沒有讓我開心。\n\n我還是下來，去吃了很好的早餐。",
+          "editorNote": "適合量完體重需要一句話把自己接住的早晨",
+          "variations": [
+            "它只是今天的天氣，不是今天的我。",
+            "數字歸數字，早餐歸早餐，我們互不干涉。"
+          ]
+        },
+        "en": {
+          "content": "Three seconds pass. The number does not make me happy. I step off anyway and go eat a really good breakfast.",
+          "editorNote": "For the moment right after weigh-in, when you need something kind to say to yourself",
+          "variations": [
+            "It's today's weather, not today's me.",
+            "The number is the number. Breakfast is breakfast."
+          ]
+        }
+      }
     }
   ]
 }

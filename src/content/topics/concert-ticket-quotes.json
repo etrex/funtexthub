@@ -7979,6 +7979,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-284",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "2026 搶票攻略提醒開賣前保持呼吸平穩、別讓緊張影響輸入，粉絲常形容倒數十秒像閉氣",
+      "tags": [
+        "倒數",
+        "緊張",
+        "開賣",
+        "呼吸"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開賣倒數十秒，\n我盯著秒數往下跳。\n數到零才發現，\n我從十秒前就沒在呼吸。",
+          "editorNote": "適合開賣結束後發，配一張還沒關掉的售票頁截圖",
+          "variations": [
+            "短版：「那十秒我沒有呼吸，只有刷新。」",
+            "自嘲版：「醫生說我肺活量不錯，我說那是搶票練的。」"
+          ]
+        },
+        "en": {
+          "content": "Ten seconds to on-sale, watching the clock tick down. Hit zero and realized I hadn't breathed since ten.",
+          "editorNote": "Post right after the sale closes, with your still-open ticket tab",
+          "variations": [
+            "Short: 'Didn't breathe for ten seconds. Refreshed plenty though.'",
+            "Snark: 'Great lung capacity, my doctor says. Thanks, ticket sales.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-285",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://blog.eztravel.com.tw/concert-taiwan/",
+      "sourceNote": "熱門場次開賣數分鐘完售，攻略文常提到手抖打錯驗證碼是失敗主因",
+      "tags": [
+        "手汗",
+        "驗證碼",
+        "開賣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "按下購買之前，\n我在褲子上擦了三次手。\n卡住的不是網路，\n是我的手指。",
+          "editorNote": "適合搶票失敗當下發在限動，配一張自己的手",
+          "variations": [
+            "短版：「網速沒問題，有問題的是我的手汗。」",
+            "共鳴版：「驗證碼四個字，我打錯兩次。」"
+          ]
+        },
+        "en": {
+          "content": "Wiped my hands on my jeans three times before hitting buy. The connection wasn't what lagged. My fingers were.",
+          "editorNote": "For the story you post seconds after failing, with a photo of your hands",
+          "variations": [
+            "Short: 'Wi-Fi was fine. My palms were not.'",
+            "Relatable: 'Four-character captcha. Typed it wrong twice.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-286",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.cashfeel.com.tw/article/%E6%BC%94%E5%94%B1%E6%9C%83-%E6%87%B6%E4%BA%BA%E5%8C%85-%E6%90%B6%E7%A5%A8",
+      "sourceNote": "2026 熱門演唱會多在開賣一分鐘內完售，粉絲形容看到售完提示時反而異常平靜",
+      "tags": [
+        "售完",
+        "失落",
+        "開賣",
+        "冷靜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "跳出「已售完」那一秒，\n我沒有罵，也沒有哭，\n只是很有禮貌地\n按了確定。",
+          "editorNote": "適合搶票落空的午休發文，語氣越平靜越好笑",
+          "variations": [
+            "短版：「我對著那個視窗說了聲好。」",
+            "延伸版：「按完確定，我還把分頁關好。」"
+          ]
+        },
+        "en": {
+          "content": "The second SOLD OUT popped up, I didn't swear or cry. I just politely clicked OK.",
+          "editorNote": "For the lunch-break post after you miss out. The calmer, the funnier",
+          "variations": [
+            "Short: 'Said okay out loud. To a dialog box.'",
+            "Extended: 'Clicked OK, then closed the tab. Very tidy grief.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-287",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.kkday.com/zh-tw/blog/104276/asia-taiwan-hsr-tickets-booking",
+      "sourceNote": "搶票教學普遍建議開賣前一分鐘就定位，粉絲形容最後一秒最難熬",
+      "tags": [
+        "倒數",
+        "開賣",
+        "緊張",
+        "時間感"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "十一點五十九分五十九秒，\n手指懸在滑鼠上，\n不敢眨眼。\n那是我今年最長的一秒。",
+          "editorNote": "適合開賣前一刻發，也適合事後回顧那一分鐘",
+          "variations": [
+            "短版：「一年三千多萬秒，我只記得那一秒。」",
+            "共鳴版：「後面那六十秒，快到我完全沒印象。」"
+          ]
+        },
+        "en": {
+          "content": "11:59:59. Finger hovering over the mouse, scared to blink. Longest second of my whole year.",
+          "editorNote": "Post it right before the sale, or later when you replay that minute",
+          "variations": [
+            "Short: 'Millions of seconds this year. I remember one.'",
+            "Relatable: 'The sixty after it? No memory at all.'"
+          ]
+        }
+      }
     }
   ]
 }

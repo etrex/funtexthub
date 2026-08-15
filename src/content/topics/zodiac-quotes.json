@@ -11990,6 +11990,138 @@
           ]
         }
       }
+    },
+    {
+      "id": "zq-397",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/horoscopes",
+      "sourceNote": "星座板長期熱議「哪個星座最愛傳語音」；本則抓的是語音訊息不能搜尋、關鍵資訊藏在中段的實際痛點，檔案內「地址」「重聽」皆 0 筆，zq-353 寫的是語音的情緒衝動而非找資訊",
+      "tags": [
+        "星座",
+        "射手座",
+        "Sagittarius",
+        "聊天",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "射手座傳語音報路。\n地址在第二則的第四十秒，你重聽了三次。",
+          "editorNote": "適合傳給那個永遠用語音講重要資訊的朋友，或剛在路口重聽第四遍的自己",
+          "variations": [
+            "語音訊息最大的問題不是長，是不能搜尋。",
+            "他覺得講比較快，你花了六分鐘找那五個字。",
+            "重點永遠在中間，前面三十秒是「欸那個」。"
+          ]
+        },
+        "en": {
+          "content": "A Sagittarius sends directions as a voice memo. The address is forty seconds into message two, and you replayed it three times.",
+          "editorNote": "For the friend who delivers every important detail by voice memo, or for yourself standing at an intersection on replay four",
+          "variations": [
+            "The problem with voice memos isn't the length. It's that you can't search them.",
+            "Faster for him to say it. Six minutes for you to find it.",
+            "The useful part is always in the middle. The first thirty seconds are just \"so anyway.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-398",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.boredpanda.com/funny-zodiac-memes/",
+      "sourceNote": "星座迷因常拿已讀不回當梗，多半解讀成冷處理或在想怎麼回；本則換成把訊息當待辦事項排隊的解讀，檔案內魔羯的已讀多寫成情緒切斷（zq-078），沒有寫過排程視角",
+      "tags": [
+        "星座",
+        "魔羯座",
+        "Capricorn",
+        "聊天",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "魔羯座已讀不回，不是不理你。\n是你的訊息被排進待辦，第七項。",
+          "editorNote": "適合傳給那個被已讀三天、開始亂想的朋友",
+          "variations": [
+            "他沒有在冷處理你，他在跑清單。",
+            "排到你的時候，通常會一次回得很完整。",
+            "在他的世界裡，回訊息也算一件要安排時間的事。"
+          ]
+        },
+        "en": {
+          "content": "A Capricorn leaving you on read isn't ignoring you. Your message got filed into the to-do list, seventh from the top.",
+          "editorNote": "For the friend who's been on read for three days and is starting to spiral",
+          "variations": [
+            "He's not freezing you out. He's working the list.",
+            "When your turn comes up, the reply is usually thorough.",
+            "In his head, answering you is a task that needs a time slot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-399",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/horoscopes",
+      "sourceNote": "「一次傳很多則」的梗檔案內寫過發訊者視角（zq-020、zq-079），本則改成收訊者被通知連環轟炸的視角，檔案內「拆成」未用於訊息、通知只出現 3 筆且非此情境",
+      "tags": [
+        "星座",
+        "雙子座",
+        "Gemini",
+        "聊天",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機連跳七下，以為出事了。\n點開是雙子座把一句話拆成七則。",
+          "editorNote": "適合傳給那個習慣一句話分七次講的朋友，或剛被通知嚇一跳的自己",
+          "variations": [
+            "七則加起來，是一個完整的句子。",
+            "他不是話多，他是想到哪就送出到哪。",
+            "看到七則未讀先深呼吸，通常沒什麼事。"
+          ]
+        },
+        "en": {
+          "content": "Your phone buzzes seven times and you assume something's wrong. It's a Gemini splitting one sentence into seven messages.",
+          "editorNote": "For the friend who sends one thought across seven bubbles, or for yourself after a false-alarm notification stack",
+          "variations": [
+            "All seven, stacked together, make one complete sentence.",
+            "He isn't chatty. He just hits send wherever the thought stops.",
+            "Seven unread from him means nothing happened. Breathe."
+          ]
+        }
+      }
+    },
+    {
+      "id": "zq-400",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.purewow.com/wellness/astrology-memes",
+      "sourceNote": "網路長青抱怨「只傳在嗎不說事情」；檔案內「在嗎」僅出現在 zq-019 的 E 人連珠炮裡，沒有單獨寫過懸空訊息造成的腦補",
+      "tags": [
+        "星座",
+        "巨蟹座",
+        "Cancer",
+        "聊天",
+        "生活日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "巨蟹座傳一句「在嗎」，然後就沒了。\n你腦內已經排練完三種壞消息。",
+          "editorNote": "適合傳給那個習慣先探路再講事情的朋友",
+          "variations": [
+            "他只是想先確認你有空，你已經想到最壞的版本。",
+            "「在嗎」後面那三分鐘，比正事本身還累。",
+            "有事直接說，你的心臟會很感謝他。"
+          ]
+        },
+        "en": {
+          "content": "A Cancer sends \"you around?\" and then nothing else. By the time they follow up, you've rehearsed three different bad news scenarios.",
+          "editorNote": "For the friend who always scouts ahead before saying the actual thing",
+          "variations": [
+            "He's checking if you're free. You're already picturing the worst version.",
+            "The three minutes after \"you around?\" are worse than the actual news.",
+            "Just lead with the thing. Your friend's heart will thank you."
+          ]
+        }
+      }
     }
   ]
 }

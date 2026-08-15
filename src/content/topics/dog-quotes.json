@@ -10358,6 +10358,128 @@
           ]
         }
       }
+    },
+    {
+      "id": "dogq-360",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "狗狗對主人短暫離家與長期離家給出相同強度歡迎的日常觀察，原創語錄",
+      "tags": [
+        "狗狗",
+        "回家",
+        "日常",
+        "溫暖",
+        "毛孩"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "倒垃圾三分鐘，出差五天，牠的歡迎一模一樣。\n\n牠的世界只分兩種，你在跟你不在。",
+          "editorNote": "適合配一張開門瞬間狗衝過來的照片，短程離家也能用",
+          "variations": [
+            "牠沒有時間單位，只有你在跟你不在。",
+            "三分鐘跟五天，在牠那裡是同一種想念。"
+          ]
+        },
+        "en": {
+          "content": "Three minutes at the trash can or five days out of town, same welcome. His world has two settings: you're here, or you're not.",
+          "editorNote": "Pairs with a photo of the door-opening rush; works for short errands too",
+          "variations": [
+            "He has no unit for time. Only here, or not here.",
+            "Three minutes and five days are the same amount of missing you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-361",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "主人折返拿東西、狗狗在極短時間內重複完整歡迎流程的情境，原創語錄",
+      "tags": [
+        "狗狗",
+        "幽默",
+        "回家",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我只是折回來拿手機。\n\n一分鐘內，牠又完整歡迎了我一次，一樣用力。",
+          "editorNote": "適合搭配門口尾巴搖到模糊的照片，出門忘東西的日常都適用",
+          "variations": [
+            "我離開了六十秒，回來被當成失蹤人口尋獲。",
+            "同一套歡迎儀式，牠一分鐘內演了兩次，沒有偷工。"
+          ]
+        },
+        "en": {
+          "content": "I came back after one minute for my phone. He ran the entire welcome ceremony again, at full volume.",
+          "editorNote": "Good with a blurry-tail doorway shot — for anyone who forgets something on the way out",
+          "variations": [
+            "Gone sixty seconds. Came back and got found like a missing person.",
+            "Same ceremony, twice in a minute, and he cut no corners."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-362",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "住宅樓層走廊聽見狗在門內反應的聲音、鄰居誤判離家時間長度的生活觀察，原創語錄",
+      "tags": [
+        "狗狗",
+        "幽默",
+        "回家",
+        "日常",
+        "毛孩"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電梯一開，我就聽見尾巴敲牆的聲音。\n\n鄰居以為我出國回來，其實我只是去倒垃圾。",
+          "editorNote": "適合配公寓走廊或玄關的照片，住大樓的飼主特別有感",
+          "variations": [
+            "我還沒走到門口，門後的鼓聲已經開始了。",
+            "鄰居每次都以為我剛下飛機，我手上只有一個空垃圾袋。"
+          ]
+        },
+        "en": {
+          "content": "The elevator opens and I hear his tail hitting the wall. Neighbors think I'm back from a trip. I took out the trash.",
+          "editorNote": "Pairs with a hallway or entryway shot — apartment dog owners will recognize it",
+          "variations": [
+            "The drumming behind the door starts before I reach it.",
+            "They think I just landed. I'm holding an empty trash bag."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-363",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "從狗狗視角理解「每次開門都是主人選擇回來」的情感觀點，原創語錄",
+      "tags": [
+        "狗狗",
+        "回家",
+        "陪伴",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牠不知道我只是去倒垃圾。\n\n在牠眼裡，我每次開門都是選擇回來找牠。",
+          "editorNote": "適合當溫暖收尾，配一張蹲下抱狗的照片",
+          "variations": [
+            "牠不會算我走了多久，只知道我又回來了。",
+            "對牠來說，每一次開門都是我重新選了牠一次。"
+          ]
+        },
+        "en": {
+          "content": "He doesn't know I was only taking out the trash. To him, every time that door opens, I chose to come back.",
+          "editorNote": "A warm closer — pairs with a photo of you crouching down to hug the dog",
+          "variations": [
+            "He doesn't count how long I was gone. Only that I came back.",
+            "Every open door is me picking him all over again."
+          ]
+        }
+      }
     }
   ]
 }

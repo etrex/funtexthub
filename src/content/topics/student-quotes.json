@@ -5548,6 +5548,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-186",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/talk",
+      "sourceNote": "上課打瞌睡筆記變一條線的校園共感情境發想",
+      "tags": [
+        "上課",
+        "打瞌睡",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡著那一刻我的筆還在動，醒來看筆記，最後三行是一條直線。",
+          "editorNote": "適合下課後配一張筆記照發，坐後排的同學會秒認領。",
+          "variations": [
+            "也能換成：「我的筆比我還敬業，我都斷線了它還在寫。」",
+            "進階版：「那條線的長度，就是我睡著的時間。」"
+          ]
+        },
+        "en": {
+          "content": "I fell asleep mid-sentence and my pen kept going. The last three lines of my notes are one long straight line.",
+          "editorNote": "Post it with a photo of the notes after class — back-row kids will claim it instantly.",
+          "variations": [
+            "Swap in: \"My pen has a better work ethic than I do. I went offline and it kept writing.\"",
+            "Harder mode: \"The length of that line is exactly how long I was out.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-187",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/university",
+      "sourceNote": "老師突然叫名字反射喊有的課堂尷尬情境發想",
+      "tags": [
+        "上課",
+        "點名",
+        "尷尬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手撐著頭睡了十分鐘，老師突然叫我名字，我脫口而出「有」——那不是點名。",
+          "editorNote": "適合被老師點起來回答問題卻答非所問的當天發，全班笑聲還在耳邊。",
+          "variations": [
+            "也能換成：「我答得很快，只是答錯了題型。」",
+            "進階版：「喊完那聲『有』，我才發現老師手上沒有點名表。」"
+          ]
+        },
+        "en": {
+          "content": "Ten minutes of sleeping on my hand, then the teacher said my name and I blurted out \"Here.\" It was not attendance.",
+          "editorNote": "For the day you get called on and answer the wrong question entirely.",
+          "variations": [
+            "Swap in: \"Fast reply. Wrong format.\"",
+            "Harder mode: \"Right after I said it, I noticed there was no roll sheet in his hand.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-188",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://vocus.cc/topic/campus",
+      "sourceNote": "上課偷睡手滑撞桌的經典糗態情境發想",
+      "tags": [
+        "上課",
+        "打瞌睡",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "偷睡的最高風險不是被抓，是手一滑，整顆頭往下砸，全班都聽見。",
+          "editorNote": "適合在課堂糗事討論串裡丟出來，有過這一聲的人都會舉手。",
+          "variations": [
+            "也能換成：「支撐我上完這堂課的，只有那隻手肘。」",
+            "進階版：「那一聲之後，我只能假裝在撿東西。」"
+          ]
+        },
+        "en": {
+          "content": "The real risk of sneaking a nap isn't getting caught. It's your hand slipping and your whole head hitting the desk out loud.",
+          "editorNote": "Drop it in any thread about classroom disasters — everyone who's made that sound will raise a hand.",
+          "variations": [
+            "Swap in: \"The only thing holding me through that lecture was one elbow.\"",
+            "Harder mode: \"After that noise, all I could do was pretend I dropped something.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-189",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/talk",
+      "sourceNote": "被抓包後裝認真翻課本翻錯頁的情境發想",
+      "tags": [
+        "上課",
+        "打瞌睡",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "被抓包那一秒我沒慌，我翻了一下課本——翻到的那頁，跟老師講的差了兩章。",
+          "editorNote": "適合裝認真失敗那天發，愛用課本當掩護的同學都懂。",
+          "variations": [
+            "也能換成：「我很鎮定地翻到了下學期。」",
+            "進階版：「老師沒說話，只是看了我的課本一眼。」"
+          ]
+        },
+        "en": {
+          "content": "Caught mid-nap, I stayed calm and flipped my textbook open. The page I landed on was two chapters off from the lecture.",
+          "editorNote": "For the day your cover story falls apart — textbook-as-camouflage users know this one.",
+          "variations": [
+            "Swap in: \"Very calmly, I turned to next semester.\"",
+            "Harder mode: \"The teacher said nothing. He just looked at my textbook.\""
+          ]
+        }
+      }
     }
   ]
 }

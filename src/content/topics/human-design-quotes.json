@@ -6184,6 +6184,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hd-209",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://humandesignasia.org/what-is-human-design/nine-centers/",
+      "sourceNote": "Open-center conditioning framed as a timing test: feelings that arrive and depart with a specific person are picked up, not generated. Distinct from hd-013 (window with no screen), hd-092 (open solar plexus fearing tension) and hd-117 (reading the room on entry)",
+      "tags": ["未定義", "情緒中心", "自我覺察", "日常", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "有種心情，跟著某個人進門，也跟著他走出去。那多半不是你的。",
+          "editorNote": "適合聚會散場後突然低落、卻想不出原因的時候。",
+          "variations": [
+            "他一走，那個悶就散了——本來就不是你的。",
+            "先問這情緒是誰帶進來的，再問要不要收下。"
+          ]
+        },
+        "en": {
+          "content": "Some moods walk in with a person and walk right back out with them. That kind was never yours to carry.",
+          "editorNote": "For the flat feeling that shows up after a gathering with no cause you can name.",
+          "variations": [
+            "He left and the heaviness left too. That's your answer.",
+            "Ask who brought the feeling in before you agree to keep it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-210",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://blog.104.com.tw/human-design-chart/",
+      "sourceNote": "Practical way to separate self-generated emotion from absorbed emotion — one has a traceable origin, the other only intensity. Distinct from hd-063 (borrowed fear is loud, real intuition is quiet) and hd-074 (solitude as functional necessity)",
+      "tags": ["未定義", "自我覺察", "制約", "日常", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "自己的難過講得出前因後果，接來的難過只有感覺，沒有起點。",
+          "editorNote": "適合分不清「我到底在難過什麼」的夜裡。",
+          "variations": [
+            "找不到起點的情緒，通常不是從你這裡開始的。",
+            "講不出為什麼，可能是因為那不是你的為什麼。"
+          ]
+        },
+        "en": {
+          "content": "Your own sadness comes with a story. The kind you picked up has only the feeling and no beginning.",
+          "editorNote": "For the night when you can't say what you're actually upset about.",
+          "variations": [
+            "A feeling with no origin usually didn't start with you.",
+            "If you can't name the reason, maybe the reason isn't yours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-211",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://meet.eslite.com/tw/tc/article/202303230001",
+      "sourceNote": "Physical separation as the cheapest test for open-center conditioning — stepping out of the aura for a few minutes shows which state persists. Distinct from hd-070 (Reflector environment sensitivity) and hd-074 (alone time to dump the day)",
+      "tags": ["未定義", "環境", "自我覺察", "日常", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "先下樓繞一圈。散得掉的是別人的，帶得回來的才是你的。",
+          "editorNote": "適合在辦公室或家裡被氣氛壓得喘不過氣的當下。",
+          "variations": [
+            "離開那個空間十分鐘，答案自己會出現。",
+            "會跟著你走的，才需要認真處理。"
+          ]
+        },
+        "en": {
+          "content": "Walk around the block once. Whatever fades on the way was theirs. Whatever follows you home is yours.",
+          "editorNote": "For the moment the room's mood is sitting on your chest.",
+          "variations": [
+            "Ten minutes out of the space and the answer shows up on its own.",
+            "Only the part that follows you home needs your attention."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-212",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://humandesignasia.org/what-is-human-design/four-types-and-strategies/",
+      "sourceNote": "Reframes boundaries for open-center people as a discharge practice rather than a defensive wall, since the sensitivity itself is the design. Distinct from hd-114 (no internal 'enough' signal) and hd-095 (borrowed sacral energy overrun)",
+      "tags": ["未定義", "自我覺察", "關係", "日常", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "界線不是把人擋在外面，是回家後把身上不屬於你的先卸下來。",
+          "editorNote": "適合覺得「設界線好像很無情」而遲遲不敢設的人。",
+          "variations": [
+            "你不用變冷淡，你只是需要一段放下的時間。",
+            "先卸下今天沾到的，再決定明天要接住誰。"
+          ]
+        },
+        "en": {
+          "content": "A boundary isn't a wall against people. It's putting down, once you're home, whatever you brought back that was never yours.",
+          "editorNote": "For anyone who thinks setting boundaries would make them a colder person.",
+          "variations": [
+            "You don't have to get colder. You just need time to put things down.",
+            "Set down what you picked up today before deciding who you can hold tomorrow."
+          ]
+        }
+      }
     }
   ]
 }

@@ -7207,6 +7207,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "fdq-287",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Angle: the sentence he won't say, hidden in a chore. Checked fdq-016 / fdq-182 (full gas tank), fdq-171 (oil change interrogation), fdq-230 (car washing) and fdq-232 / fdq-282 (scooter, keys) so the weekly battery-run detail is the new beat",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "沉默的愛",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我停在老家的機車，每個週日早上都會被發動十分鐘。\n他說怕電瓶壞掉，其實是怕我回來沒車騎。",
+          "editorNote": "適合寫回老家、發現爸爸一直幫你留著位置的貼文",
+          "variations": [
+            "那台車我半年沒騎，它卻從來沒有發不動過。",
+            "他顧的不是電瓶，是我隨時可以回去的那條路。"
+          ]
+        },
+        "en": {
+          "content": "The scooter I left at my parents' gets started every Sunday morning.\nHe says it's the battery. It's so there's always a ride waiting.",
+          "editorNote": "For posts about going home and finding your spot still kept for you",
+          "variations": [
+            "I haven't ridden it in six months. It has never once failed to start.",
+            "He isn't maintaining a battery. He's maintaining the way back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-288",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Repairs-as-affection beat. Checked fdq-086 and fdq-115 (both comedic about his DIY skills) so the quiet fix-it-at-your-place angle, discovered only after he leaves, is new",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "沉默的愛",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他來我家住兩天，什麼都沒說。\n走後我才發現，晃的椅子、鬆的門把，全都好了。",
+          "editorNote": "適合寫爸爸來訪、用行動代替關心的貼文",
+          "variations": [
+            "他不問我過得好不好，他只是把會壞的東西先修一遍。",
+            "他離開的時候什麼都沒帶走，只留下一屋子不再鬆掉的東西。"
+          ]
+        },
+        "en": {
+          "content": "He stayed two days and barely said a word.\nAfter he left I noticed the wobbly chair and the loose door handle were fixed.",
+          "editorNote": "For posts about a dad who checks on you with a screwdriver instead of a question",
+          "variations": [
+            "He never asked how I was doing. He just tightened everything that might come loose.",
+            "He took nothing with him and left behind an apartment where nothing rattles."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-289",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Sun-dried bedding as the unspoken welcome. Checked fdq-203 and fdq-219 (the only other 曬-adjacent items, both comedic) so the smell-of-sunlight detail is unused in this file",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "溫暖",
+        "回家"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我回家那天，被子總是有太陽的味道。\n他前一天就搬到頂樓曬了一整個下午。",
+          "editorNote": "適合寫回家過節、發現爸爸提前準備的貼文",
+          "variations": [
+            "他不會說「我很期待你回來」，他只是提早一天去曬棉被。",
+            "那個味道我認得，是他站在頂樓翻面翻了三次的味道。"
+          ]
+        },
+        "en": {
+          "content": "The bed always smells like sunlight when I come home.\nHe hauls the bedding up to the roof the day before.",
+          "editorNote": "For posts about heading home for a holiday and finding it already prepared",
+          "variations": [
+            "He'll never say he's looking forward to it. He just starts a day early.",
+            "I know that smell. It's the smell of him flipping the blanket over three times on the roof."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-290",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Money-in-the-pocket beat. Checked fdq-179 / fdq-185 (wallet jokes from the new dad's side), fdq-255 (cash-only dad) and fdq-213 (bankbook) so the folded bills slipped into a coat pocket is the new detail",
+      "tags": [
+        "爸爸",
+        "父親節",
+        "沉默的愛",
+        "感謝"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他不問我手頭緊不緊。\n只是我離開時，外套口袋裡總會多出幾張鈔票。",
+          "editorNote": "適合寫爸爸不擅長開口、只用行動表達的貼文",
+          "variations": [
+            "那幾張錢是什麼時候放的，我到現在都沒抓到過。",
+            "我後來也學會了，把想說的話摺好，放進他外套口袋。"
+          ]
+        },
+        "en": {
+          "content": "He never asks if money's tight.\nI just find a few folded bills in my coat pocket after I leave.",
+          "editorNote": "For posts about a dad who can't say it out loud and says it in cash",
+          "variations": [
+            "I have never once caught him doing it.",
+            "These days I do it back. I fold what I want to say and leave it in his jacket."
+          ]
+        }
+      }
     }
   ]
 }

@@ -11312,6 +11312,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-437",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：公共標語斷句誤讀（「小心地滑」讀成「小心地／滑」），站內尚無標語斷句梗",
+      "tags": [
+        "文字遊戲",
+        "生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「廁所貼了『小心地滑』。」\n「所以你有小心嗎？」\n「有。我小心地滑過去了。」\n「⋯⋯那是叫你別滑倒。」\n「我知道。但字是這樣寫的。」",
+          "editorNote": "適合看到公共場所標語時吐槽，也適合朋友摔倒後緩和氣氛",
+          "variations": [
+            "「那『請勿奔跑』呢？」「我沒跑。我是用滑的，完全符合規定。」"
+          ]
+        },
+        "en": {
+          "content": "\"The bathroom sign said Caution: Wet Floor.\"\n\"Did you take caution?\"\n\"I did. I went down very, very carefully.\"",
+          "editorNote": "For joking about overly literal signage, or after a harmless slip in public",
+          "variations": [
+            "\"What about the No Running sign?\" \"I obeyed it. I wasn't running when I hit the floor.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-438",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：拆字梗（餓＝食＋我），站內尚無拆字類冷笑話；英文版改用 breakfast 拆成 break + fast 的同型玩法",
+      "tags": [
+        "文字遊戲",
+        "食物",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「『餓』這個字很誠實。」\n「怎麼說？」\n「左邊是食，右邊是我。」\n「所以呢？」\n「所以我一出生就站在食物旁邊，這輩子沒離開過。」",
+          "editorNote": "適合在等餐或宵夜時間用來自嘲食量，也適合當群組討飯訊息",
+          "variations": [
+            "「那『飽』呢？」「食加包。意思是還有一包沒拆，等一下就不飽了。」"
+          ]
+        },
+        "en": {
+          "content": "\"Breakfast is just break plus fast.\"\n\"Okay.\"\n\"So I fasted eleven hours straight last night. Nobody clapped.\"",
+          "editorNote": "For late-morning brunch talk, or bragging about accidental discipline",
+          "variations": [
+            "\"What about dinner?\" \"No hidden meaning. That one's just honest about itself.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-439",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：手搖店「去冰」被照字面理解成「去一趟冰」，站內既有去冰內容為珍奶甜度梗，方向不同",
+      "tags": [
+        "諧音",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「店員問我要不要去冰。」\n「你怎麼說？」\n「我說我等等要去公司，沒空去冰。」\n「⋯⋯」\n「他還是幫我去了。冰不見了，我還是要上班。」",
+          "editorNote": "適合排手搖隊伍時跟朋友閒聊，也適合上班日早上自嘲",
+          "variations": [
+            "「那微糖呢？」「我說我不微，我很大方。他就給我全糖了。」"
+          ]
+        },
+        "en": {
+          "content": "\"The barista asked if I wanted my coffee to go.\"\n\"And?\"\n\"I said go where. She pointed at the door. Fair enough.\"",
+          "editorNote": "For coffee-line small talk or teasing a friend who overthinks simple questions",
+          "variations": [
+            "\"Did you leave?\" \"Eventually. The coffee and I went together, like she planned.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-440",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：「打包」照字面拆成「打」＋「包」，站內尚無打包相關內容",
+      "tags": [
+        "文字遊戲",
+        "食物",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「餐廳問我要不要打包。」\n「你怎麼說？」\n「我說不用打，它已經很乖了。」\n「⋯⋯人家是問要不要帶走。」\n「我知道。所以我輕輕包起來。」",
+          "editorNote": "適合聚餐收尾時逗朋友，也適合形容自己捨不得剩菜",
+          "variations": [
+            "「那『外帶』呢？」「我帶它出去走走。走到家剛好涼掉。」"
+          ]
+        },
+        "en": {
+          "content": "\"The waiter offered me a doggy bag.\"\n\"So?\"\n\"I don't have a dog. I asked for a me bag.\"",
+          "editorNote": "For the end of a group dinner, or teasing someone who never leaves leftovers behind",
+          "variations": [
+            "\"Did he bring one?\" \"He brought the same box. The name change was for my benefit.\""
+          ]
+        }
+      }
     }
   ]
 }

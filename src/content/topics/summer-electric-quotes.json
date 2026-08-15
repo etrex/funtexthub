@@ -7946,6 +7946,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-270",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.taipower.com.tw/",
+      "sourceNote": "台電夏季節電建議：冷氣設定 26 至 28 度；家庭情境為原創",
+      "tags": [
+        "冷氣",
+        "家庭",
+        "溫度",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "白天二十八度，是我家的官方立場。\n凌晨兩點的真實溫度，沒有人願意作證。",
+          "editorNote": "全家講好省電、實際上各過各的時候貼",
+          "variations": [
+            "官方溫度二十八度，實際溫度看誰最後起床。",
+            "我家的節電成果，只存在有人醒著的時候。"
+          ]
+        },
+        "en": {
+          "content": "Twenty-eight degrees is my family's official position by day.\nAt 2 a.m. there's a real temperature, and nobody will testify.",
+          "editorNote": "For households that agreed to save power in theory only",
+          "variations": [
+            "Official setting: 28. Actual setting: whoever woke up last.",
+            "Our energy savings only exist while someone is awake to watch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-271",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%A9%BA%E8%AA%BF",
+      "sourceNote": "空調溫度設定與家庭共用情境；原創改寫",
+      "tags": [
+        "冷氣",
+        "遙控器",
+        "半夜",
+        "家庭"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那台冷氣昨晚被調了四次。\n四次都沒有人承認自己有起來過。",
+          "editorNote": "早上發現溫度跟睡前不一樣的時候貼",
+          "variations": [
+            "遙控器整晚都在動，全家都說自己睡得很沉。",
+            "溫度是唯一會自己走動的家人。"
+          ]
+        },
+        "en": {
+          "content": "That AC got adjusted four times last night.\nFour times, and nobody admits getting out of bed.",
+          "editorNote": "For the morning the setting doesn't match what you left it on",
+          "variations": [
+            "The remote moved all night. Everyone claims they slept straight through.",
+            "The thermostat is the only family member that walks around alone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-272",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.taipower.com.tw/",
+      "sourceNote": "節電宣導中「冷氣調高一度省約 6%」的家庭執行情境；原創",
+      "tags": [
+        "冷氣",
+        "家人",
+        "溫度",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽調溫度從來不講話。\n走過去，按兩下，再走回房間，像在關瓦斯。",
+          "editorNote": "家裡有沉默型省電執法者的時候貼",
+          "variations": [
+            "她不是在調冷氣，她是在巡邏。",
+            "按兩下的聲音，是我家夏天的門禁。"
+          ]
+        },
+        "en": {
+          "content": "My mom never announces it.\nShe walks over, taps twice, walks back, same face as shutting off the gas.",
+          "editorNote": "For the household's silent energy-saving enforcer",
+          "variations": [
+            "She isn't adjusting the AC. She's doing a patrol.",
+            "Those two beeps are my family's summer curfew."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-273",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%A9%BA%E8%AA%BF",
+      "sourceNote": "冷氣定溫記憶與家庭共居情境；原創",
+      "tags": [
+        "冷氣",
+        "家庭",
+        "半夜",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上起來，冷氣停在二十八度。\n全家都睡得很好，這件事本身就很可疑。",
+          "editorNote": "當你確定有人半夜動過手腳但抓不到的時候貼",
+          "variations": [
+            "證據被關掉了，只剩下大家的好氣色。",
+            "二十八度的早上，配上四張睡飽的臉。"
+          ]
+        },
+        "en": {
+          "content": "Woke up and the AC read 28 again.\nEverybody slept great, which is exactly the suspicious part.",
+          "editorNote": "For when you know someone tampered overnight but can't prove it",
+          "variations": [
+            "The evidence got switched off. All that's left is four well-rested faces.",
+            "A 28-degree morning, and not one person looks tired."
+          ]
+        }
+      }
     }
   ]
 }

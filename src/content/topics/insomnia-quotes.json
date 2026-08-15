@@ -9046,6 +9046,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-319",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.reddit.com/r/insomnia/comments/1b7kq3f/",
+      "sourceNote": "Inspired by insomnia threads about replaying an old embarrassing moment nobody else remembers; rewritten as being the last person on guard duty",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "腦內小劇場",
+        "尷尬回憶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那件事全世界都忘光了。\n只剩我一個人每晚幫它站崗。",
+          "editorNote": "適合傳給凌晨三點還在替陳年往事守夜的人。",
+          "variations": [
+            "當事人早就下班了，只有我還在加班。",
+            "那件事的觀眾席，這幾年只剩我一個。"
+          ]
+        },
+        "en": {
+          "content": "The whole world forgot that thing years ago.\nI'm the only one still showing up for the night shift.",
+          "editorNote": "For anyone standing guard over an old cringe at 3am.",
+          "variations": [
+            "Everyone else clocked out of that memory. I kept the keys.",
+            "That moment has one remaining audience member and it's me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-320",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.huffpost.com/entry/tweets-sleep-struggles_l_5d1a5419e4b07f6ca581e058",
+      "sourceNote": "Inspired by late-night posts about old memories getting sharper instead of fading; rewritten around the brain adding details that were never there",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "回憶",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "十五年了，那件事的細節我現在記得比當年還多。\n連他的表情，我都自己補上了。",
+          "editorNote": "適合半夜發現記憶越修越完整的時候。",
+          "variations": [
+            "時間沒有沖淡它，時間在幫它加字幕。",
+            "當年只有三秒，現在有導演版。"
+          ]
+        },
+        "en": {
+          "content": "Fifteen years on, I remember more detail than I did back then.\nI even filled in the look on his face myself.",
+          "editorNote": "For the night you notice a memory keeps gaining detail.",
+          "variations": [
+            "Time didn't blur it. Time added subtitles.",
+            "It lasted three seconds. There is now a director's cut."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-321",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia",
+      "sourceNote": "Inspired by descriptions of intrusive nighttime rumination; rewritten as a short dialogue where the brain agrees it's over but kept a copy",
+      "tags": [
+        "失眠",
+        "對話",
+        "腦內小劇場",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我對自己說：都過去了。\n腦袋說：過去了沒錯，我有備份。",
+          "editorNote": "適合傳給每晚都被自己腦袋反駁的人。",
+          "variations": [
+            "我按了刪除，我的腦袋按了另存新檔。",
+            "事情結案了，但我腦袋自己留了一份。"
+          ]
+        },
+        "en": {
+          "content": "Me: that's ancient history.\nMy brain: ancient, agreed. I kept a copy.",
+          "editorNote": "For anyone whose brain files an objection every night.",
+          "variations": [
+            "I hit delete. My brain hit save as.",
+            "The case is closed. My brain kept the paperwork."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-322",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.theguardian.com/lifeandstyle/2023/jan/28/cringe-attack-memories",
+      "sourceNote": "Inspired by pieces on cringe attacks causing an involuntary physical noise; rewritten as a delayed reaction arriving years later at 3am",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "尷尬回憶",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨三點，我突然對著天花板「嘖」了一聲。\n十二年前的事，現在才發作。",
+          "editorNote": "適合半夜被自己的回憶弄出聲音的時候。",
+          "variations": [
+            "有些尷尬的潛伏期，是十二年。",
+            "旁邊的人問我怎麼了。我說沒事，真的沒事。"
+          ]
+        },
+        "en": {
+          "content": "3am, and I clicked my tongue at the ceiling out of nowhere.\nSomething from twelve years ago, finally kicking in.",
+          "editorNote": "For the night an old memory makes you audible.",
+          "variations": [
+            "Some cringe has an incubation period of twelve years.",
+            "Someone asked what was wrong. Nothing. Genuinely nothing."
+          ]
+        }
+      }
     }
   ]
 }

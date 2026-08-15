@@ -11178,6 +11178,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-418",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://thehabitledger.com/notes/one-coin-days/",
+      "sourceNote": "Reference on tiny-deposit habit framing. Original angle: a single coin in a jar as proof the day was not a zero",
+      "tags": [
+        "勵志",
+        "累積",
+        "習慣",
+        "行動力"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "丟一枚十塊進罐子，聽起來很蠢。\n但今天有響過的罐子，跟空罐子是兩回事。",
+          "editorNote": "適合覺得今天做的量太少、乾脆整個跳過的時候。",
+          "variations": [
+            "有響過的罐子，跟空罐子是兩回事。",
+            "一枚十塊也算數，零才是真的零。"
+          ]
+        },
+        "en": {
+          "content": "Dropping one coin in the jar feels pointless. But a jar that made a sound today is not an empty jar.",
+          "editorNote": "For the days when what you managed feels too small to bother logging.",
+          "variations": [
+            "A jar that made a sound today isn't an empty jar.",
+            "One coin still counts. Zero is the only number that doesn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-419",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://slowcompound.co/essays/the-dripping-tap/",
+      "sourceNote": "Reference on compounding effort. Original angle: a leaky tap as the arithmetic that works for good habits too",
+      "tags": [
+        "勵志",
+        "累積",
+        "耐心",
+        "習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沒關緊的水龍頭，一個月能滴掉一整桶水。\n好的事情，也是同一種算法。",
+          "editorNote": "適合懷疑每天那幾分鐘到底有沒有用的時候。",
+          "variations": [
+            "一天一滴看不出來，一個月是一整桶。",
+            "壞的會滴，好的也會，就看你開哪一邊。"
+          ]
+        },
+        "en": {
+          "content": "A tap that doesn't quite shut drips a whole bucket in a month. The good stuff adds up the same way.",
+          "editorNote": "For when the daily few minutes feel too small to matter.",
+          "variations": [
+            "One drip is nothing. A month of drips is a bucket.",
+            "Bad habits drip. So do good ones."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-420",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://writingroutines.net/posts/leave-the-cursor-somewhere/",
+      "sourceNote": "Reference on minimum-viable writing sessions. Original angle: one sentence as a handoff to tomorrow rather than a quota",
+      "tags": [
+        "勵志",
+        "行動力",
+        "拖延",
+        "累積"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "只寫一句就關電腦，也沒關係。\n至少明天打開時，游標不是停在空白上。",
+          "editorNote": "適合檔案開了卻寫不動、想乾脆明天再說的晚上。",
+          "variations": [
+            "一句話也是替明天的自己開了頭。",
+            "明天打開時，游標不是停在空白上。"
+          ]
+        },
+        "en": {
+          "content": "One sentence and then closing the laptop still counts. Tomorrow the cursor won't be sitting on a blank page.",
+          "editorNote": "For nights when the file is open and nothing is coming.",
+          "variations": [
+            "One sentence is a handoff to tomorrow's you.",
+            "Tomorrow the cursor won't be sitting on a blank page."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-421",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://smallreps.blog/one-percent-still-boots/",
+      "sourceNote": "Reference on low-capacity days. Original angle: a phone at one percent versus zero as the gap between a little and nothing",
+      "tags": [
+        "勵志",
+        "行動力",
+        "低潮",
+        "累積"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機剩百分之一還能開機，剩零就只是一塊鐵。\n一跟零的距離，比你想的遠。",
+          "editorNote": "適合今天只擠得出一點點力氣、覺得不如不做的時候。",
+          "variations": [
+            "剩一格還開得了機，剩零就開不了。",
+            "一跟零之間，不只差一。"
+          ]
+        },
+        "en": {
+          "content": "At one percent your phone still turns on. At zero it's a brick. One and zero sit further apart than they look.",
+          "editorNote": "For a day where you can only manage a sliver and want to skip it instead.",
+          "variations": [
+            "One percent still boots. Zero is just a brick.",
+            "One and zero sit further apart than they look."
+          ]
+        }
+      }
     }
   ]
 }

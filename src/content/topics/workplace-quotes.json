@@ -11879,6 +11879,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-406",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.dcard.tw/f/job",
+      "sourceNote": "Dcard 工作板關於會後檢討會的討論 — 改寫為檢討會共識是改用信件、結果又長出一個週會",
+      "tags": [
+        "開會",
+        "會議",
+        "職場厭世",
+        "社畜",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "檢討會的共識是：以後這種事發信就好。接著大家排了每週固定的追蹤會。",
+          "editorNote": "適合在那種「為了減少會議而新增會議」的通知寄出來時，貼進部門群組。",
+          "variations": [
+            "短版：「為了少開會，我們決定每週開一次會。」",
+            "延伸版：「共識有了，行事曆也滿了，只有那封信還沒寄。」"
+          ]
+        },
+        "en": {
+          "content": "The retro's conclusion: next time just send an email. Then we booked a weekly meeting to keep that on track.",
+          "editorNote": "For the invite that adds a meeting in order to reduce meetings.",
+          "variations": [
+            "Short: 'To have fewer meetings, we now meet weekly.'",
+            "Extended: 'We agreed, we scheduled, and the email still isn't written.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-407",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.reddit.com/r/antiwork/",
+      "sourceNote": "英文論壇上關於 meeting about the meeting 的抱怨 — 改寫為檢討會紀錄比原信長十倍的長度對比",
+      "tags": [
+        "開會",
+        "會議",
+        "職場荒謬",
+        "職場厭世",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那封信三行就寫得完。檢討那場會的會議紀錄，寫了兩頁半。",
+          "editorNote": "適合在你被指派寫檢討會會議紀錄的那個下午發出來。",
+          "variations": [
+            "短版：「三行的事，長成兩頁半的紀錄。」",
+            "延伸版：「紀錄裡最重要的一句是：待辦事項待補。」"
+          ]
+        },
+        "en": {
+          "content": "The email would've been three lines. The notes from the meeting about that meeting ran two and a half pages.",
+          "editorNote": "For the afternoon you get volunteered to write up the follow-up meeting.",
+          "variations": [
+            "Short: 'Three lines of work, two and a half pages of notes.'",
+            "Extended: 'Best line in the doc: action items to be confirmed.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-408",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.ptt.cc/bbs/Salary/index.html",
+      "sourceNote": "PTT 職場板關於開會遲到要人補進度的討論 — 改寫為檢討會遲到者要求補前兩場",
+      "tags": [
+        "開會",
+        "同事",
+        "職場厭世",
+        "社畜",
+        "幽默自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人檢討會遲到，第一句話是：「那前面兩場，能幫我快速補一下嗎」",
+          "editorNote": "適合傳給那位跟你一起被困在第三場會裡的同事。",
+          "variations": [
+            "短版：「一句『幫我補一下』，開出了第三場會。」",
+            "延伸版：「補完之後他說：那我們是不是該再約一次。」"
+          ]
+        },
+        "en": {
+          "content": "Someone showed up late to the follow-up meeting and asked if we could quickly catch him up on both earlier ones.",
+          "editorNote": "Send it to the coworker stuck in meeting number three with you.",
+          "variations": [
+            "Short: 'One catch me up spawned a third meeting.'",
+            "Extended: 'After the recap he said maybe we should book another one.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-409",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://twitter.com/search?q=meeting%20recap",
+      "sourceNote": "推特上關於行事曆標示時間與實際會議時間落差的哏 — 改寫為十五分鐘檢討會開成五十分鐘、最後仍要寄信",
+      "tags": [
+        "開會",
+        "會議",
+        "辦公室日常",
+        "職場厭世",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "行事曆寫「會議回顧，十五分鐘」。五十分鐘後，我終於把那封信寄出去。",
+          "editorNote": "適合在檢討會終於散場、你打開信箱那一刻發。",
+          "variations": [
+            "短版：「十五分鐘的檢討會，用掉我五十分鐘的人生。」",
+            "延伸版：「信的內容跟開會前我想寫的那封，一字不差。」"
+          ]
+        },
+        "en": {
+          "content": "Calendar said 'Meeting Recap, 15 minutes.' Fifty minutes later, I finally sent the email we could have started with.",
+          "editorNote": "For the moment the follow-up meeting ends and you open your inbox.",
+          "variations": [
+            "Short: 'A 15-minute recap, 50 minutes of my life.'",
+            "Extended: 'The email matched the one I drafted before any of this.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -9231,6 +9231,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-323",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://rent.591.com.tw/",
+      "sourceNote": "tenant forum threads about pre-existing damage at move-out; dialogue is original",
+      "tags": [
+        "退租",
+        "押金",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這道刮痕不是我弄的。」\n「也不是我弄的。」\n我們一起看著上一個房客留下的紀念。",
+          "editorNote": "適合退租驗屋當下，兩邊都指著同一道刮痕的時候",
+          "variations": [
+            "那道刮痕比我們兩個都資深。",
+            "房子裡最有歷史的東西，是沒人承認的那一道。"
+          ]
+        },
+        "en": {
+          "content": "\"That scratch wasn't me.\"\n\"Wasn't me either.\"\nSo we both stood there admiring the last tenant's work.",
+          "editorNote": "For the walkthrough moment when nobody will claim the damage",
+          "variations": [
+            "That scratch has been here longer than either of us.",
+            "The oldest thing in this apartment is a scratch with no owner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-324",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.mold.com.tw/",
+      "sourceNote": "DIY wall-patching guides for renters; ending is original",
+      "tags": [
+        "退租",
+        "押金",
+        "搬家",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我用補土把三個釘孔填平，白漆補一補。\n牆變回新的，我住過的兩年也一起被抹掉。",
+          "editorNote": "適合退租前一晚自己補牆的時候",
+          "variations": [
+            "補完牆才發現，最容易被抹掉的是我。",
+            "三個釘孔，掛過我兩年的生活。"
+          ]
+        },
+        "en": {
+          "content": "I filled the three nail holes with putty and touched up the paint.\nThe wall looks new. So do my two years here.",
+          "editorNote": "For the night before move-out, patching walls by yourself",
+          "variations": [
+            "Patched the wall and erased myself with it.",
+            "Three nail holes held up two years of my life."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-325",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.cy.gov.tw/",
+      "sourceNote": "consumer complaints about undocumented cleaning charges; punchline is original",
+      "tags": [
+        "退租",
+        "押金",
+        "房東",
+        "荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "清潔費三千，我問有沒有收據。\n他說是他自己掃的。\n那應該是他這輩子時薪最高的兩小時。",
+          "editorNote": "適合被扣清潔費卻拿不到任何憑證的時候",
+          "variations": [
+            "沒有收據的費用，通常也沒有清潔。",
+            "三千塊掃兩小時，難怪他那麼堅持。"
+          ]
+        },
+        "en": {
+          "content": "Three grand for cleaning. I asked for a receipt.\nHe said he did it himself.\nBest two hours he'll ever bill.",
+          "editorNote": "For a cleaning fee charged with no paperwork behind it",
+          "variations": [
+            "A fee with no receipt usually comes with no cleaning either.",
+            "No wonder he insisted on doing it himself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-326",
+      "dateAdded": "2026-08-15",
+      "sourceUrl": "https://www.judicial.gov.tw/",
+      "sourceNote": "tenancy dispute mediation accounts; bargaining framing is original",
+      "tags": [
+        "退租",
+        "押金",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他開口扣八千，我說一毛都不行，最後成交三千。\n原來押金不是退的，是喊的。",
+          "editorNote": "適合押金談到一半，發現這根本是在市場買菜的時候",
+          "variations": [
+            "押金退多少，看誰比較敢沉默。",
+            "早知道是喊價，我就從負的開始喊。"
+          ]
+        },
+        "en": {
+          "content": "He opened at eight thousand. I said zero.\nWe closed at three.\nA deposit isn't returned, it's haggled over.",
+          "editorNote": "For the moment your deposit turns into a market negotiation",
+          "variations": [
+            "Whoever stays quiet longer keeps the money.",
+            "If I'd known it was an auction I'd have started below zero."
+          ]
+        }
+      }
     }
   ]
 }
