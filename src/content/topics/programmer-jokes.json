@@ -7240,35 +7240,6 @@
       }
     },
     {
-      "id": "pj-260",
-      "dateAdded": "2026-06-24",
-      "sourceUrl": "https://punswork.com/programming-jokes/",
-      "sourceNote": "Dark mode joke — light attracts bugs, rewritten",
-      "tags": [
-        "工程師日常",
-        "bug",
-        "黑色幽默"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "為什麼工程師都堅持用深色模式？\n因為光會招來蟲。\n而我們的人生，已經有夠多 bug 了。",
-          "editorNote": "傳給堅持白底會瞎掉的同事，最後一句最戳心。",
-          "variations": [
-            "延伸：把辦公室燈關掉不是為了省電，是為了減少 bug 的趨光性。",
-            "也可以是：客戶問為什麼畫面是黑的，工程師說『這是防蟲設計』。"
-          ]
-        },
-        "en": {
-          "content": "Why do developers swear by dark mode?\nBecause light attracts bugs.\nAnd honestly, our lives already have more than enough of those.",
-          "editorNote": "Send it to the coworker who insists a white background will blind them; the last line lands hardest.",
-          "variations": [
-            "Extension: we don't dim the office to save power — it's to reduce the phototaxis of bugs.",
-            "Alternate: client asks why the screen is black; the dev says 'it's pest control.'"
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-261",
       "dateAdded": "2026-06-28",
       "sourceUrl": "https://punsplanet.com/programmer-jokes/",
@@ -9025,33 +8996,6 @@
       }
     },
     {
-      "id": "pj-325",
-      "dateAdded": "2026-07-16",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "'Light attracts bugs' dark-mode joke — rewritten with fresh setup",
-      "tags": [
-        "工程師日常",
-        "bug",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "新人問資深工程師：「為什麼你們都用黑底的深色模式啊？看起來好酷。」\n資深工程師頭也不抬：「不是為了酷，是因為亮的地方會招蟲。」",
-          "editorNote": "傳給那個問你為什麼螢幕黑漆漆的同事或家人，簡短又有畫面。",
-          "variations": [
-            "延伸：所以我家窗簾也拉起來，預防生產環境的 bug 飛進來。"
-          ]
-        },
-        "en": {
-          "content": "A new hire asked a senior dev: \"Why does everyone here use dark mode? Is it just to look cool?\"\nThe senior dev didn't look up: \"It's not for the look. Light attracts bugs.\"",
-          "editorNote": "Send it to anyone who's asked why your screen is pitch black. Short, and instantly visual.",
-          "variations": [
-            "Extension: 'That's also why I keep the blinds shut — production bugs might fly in.'"
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-326",
       "dateAdded": "2026-07-16",
       "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
@@ -9182,33 +9126,6 @@
           "editorNote": "Spot a sneaky sleep in a code review? Pasting this hits harder than a paragraph of feedback.",
           "variations": [
             "Extension: the test isn't faster — my life just got slower."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-332",
-      "dateAdded": "2026-07-17",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "Dark mode joke — 'light attracts bugs' variant, rewritten",
-      "tags": [
-        "工程師思維",
-        "bug",
-        "工程師語錄"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "有人問我為什麼工程師都堅持用深色模式。\n我說：因為光會招蟲。\n他笑了，我沒有——我是認真的，我的程式裡真的一堆蟲。",
-          "editorNote": "被問「為什麼螢幕都黑黑的」的時候標準回覆，冷面講完效果最好。",
-          "variations": [
-            "延伸：亮色模式不是不能用，是我的眼睛跟自尊都撐不住。"
-          ]
-        },
-        "en": {
-          "content": "Someone asked why developers are so obsessed with dark mode.\nI said: because light attracts bugs.\nThey laughed. I didn't — I was serious. My codebase is genuinely full of them.",
-          "editorNote": "The go-to reply when a non-dev asks why your screen is always pitch black. Deliver it deadpan.",
-          "variations": [
-            "Extension: it's not that I can't use light mode — my eyes and my ego just can't survive it."
           ]
         }
       }

@@ -4975,29 +4975,6 @@
       }
     },
     {
-      "id": "aw-204",
-      "dateAdded": "2026-06-05",
-      "sourceUrl": "https://www.163.com/dy/article/I22M1LO605562DQX.html",
-      "sourceNote": "「我知道你很急，但你先別急」廢話文學風格重新創作",
-      "tags": ["廢話文學", "安慰", "生活"],
-      "i18n": {
-        "zh-tw": {
-          "content": "我知道你現在很著急，\n\n但你先別著急。\n\n等你不急了，這件事就不急了。",
-          "editorNote": "朋友在群組裡催進度的時候丟這句，保證對方更急",
-          "variations": [
-            "你先冷靜一下，等你冷靜下來，你就冷靜了。"
-          ]
-        },
-        "en": {
-          "content": "I can tell you're in a hurry right now,\n\nbut try not to be in a hurry.\n\nOnce you stop being in a hurry, there will be no hurry.",
-          "editorNote": "Send this when a friend is rushing you in chat — guaranteed to make them rush harder",
-          "variations": [
-            "Just calm down. Once you've calmed down, you'll be calm."
-          ]
-        }
-      }
-    },
-    {
       "id": "aw-205",
       "dateAdded": "2026-06-05",
       "sourceUrl": "https://www.163.com/dy/article/I22M1LO605562DQX.html",
@@ -5932,35 +5909,6 @@
       }
     },
     {
-      "id": "aw-241",
-      "dateAdded": "2026-06-19",
-      "sourceUrl": "https://read01.com/zh-tw/4nn0yEL.html",
-      "sourceNote": "廢話文學自我重複句型，重新創作",
-      "tags": [
-        "廢話文學",
-        "邏輯",
-        "幹話"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "如果我沒講錯的話，那我應該就是沒講錯。\n當然，這個前提是我真的沒講錯。",
-          "editorNote": "適合在被問到沒把握的事情時，自信地回這句，對方會愣三秒",
-          "variations": [
-            "我可以很肯定地跟你說，我並不是很肯定。",
-            "這件事我覺得對，前提是它真的對。"
-          ]
-        },
-        "en": {
-          "content": "If I'm not mistaken, then I am, in fact, not mistaken.\nAssuming, of course, that I'm not mistaken.",
-          "editorNote": "Say this with full confidence when someone asks you something you're unsure about — watch them freeze for three seconds",
-          "variations": [
-            "I can say with absolute certainty that I'm not at all certain.",
-            "I'm pretty sure this is right, provided it actually is right."
-          ]
-        }
-      }
-    },
-    {
       "id": "aw-242",
       "dateAdded": "2026-06-19",
       "sourceUrl": "https://zhuanlan.zhihu.com/p/434045269",
@@ -6366,35 +6314,6 @@
           "variations": [
             "After watching that movie, my feelings are as complicated as anyone who watched that movie.",
             "Having read this book, I learned exactly what one learns from reading this book."
-          ]
-        }
-      }
-    },
-    {
-      "id": "aw-256",
-      "dateAdded": "2026-06-24",
-      "sourceUrl": "https://www.zhihu.com/question/482233311",
-      "sourceNote": "「我知道你很急，但你先別急」延遲循環梗，重新改寫",
-      "tags": [
-        "廢話文學",
-        "時間",
-        "生活"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "我知道你很急，\n但你現在最該做的，就是先不要急。\n\n等你不急了，\n你會發現你已經沒在急了。",
-          "editorNote": "適合回覆那種一直催你回訊息的朋友，用廢話化解對方的焦慮",
-          "variations": [
-            "你問我什麼時候會好，我可以負責任地告訴你：好的時候就會好了。",
-            "別擔心，事情總會有結果的，而那個結果就是事情的結果。"
-          ]
-        },
-        "en": {
-          "content": "I know you're in a hurry,\nbut the most important thing right now is to not be in a hurry.\n\nOnce you stop hurrying,\nyou'll realize you're no longer hurrying.",
-          "editorNote": "Great reply to a friend who keeps nagging you for an answer — defuse their anxiety with pure nonsense",
-          "variations": [
-            "You ask when it'll be ready, and I can tell you with full confidence: it'll be ready when it's ready.",
-            "Don't worry, things will work out, and how they work out will be the outcome."
           ]
         }
       }
@@ -7381,35 +7300,6 @@
           "variations": [
             "The secret to saving is not spending the money you saved. Surprisingly hard for many.",
             "You're richest on payday, and every day after that you're a little poorer than the last."
-          ]
-        }
-      }
-    },
-    {
-      "id": "aw-293",
-      "dateAdded": "2026-07-09",
-      "sourceUrl": "https://www.boredpanda.com/technically-true-things/",
-      "sourceNote": "technically-true 幽默格式，重新創作（睡眠主題）",
-      "tags": [
-        "廢話文學",
-        "睡眠",
-        "生活"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "睡眠研究指出，\n只要你閉上眼睛並且睡著，\n就等於進入了睡眠狀態。\n\n若你還醒著，那就代表你還沒睡。",
-          "editorNote": "凌晨三點睡不著時發限動最應景，看到的人只會更清醒",
-          "variations": [
-            "早點睡的方法很簡單，就是提早去睡覺。",
-            "失眠的定義是想睡卻睡不著，睡得著的人通常不會失眠。"
-          ]
-        },
-        "en": {
-          "content": "Sleep research indicates\nthat if you close your eyes and fall asleep,\nyou have entered a state of sleep.\n\nIf you're still awake, it means you haven't slept yet.",
-          "editorNote": "Ideal for a 3 a.m. insomnia story — anyone who reads it will only feel more awake",
-          "variations": [
-            "The trick to sleeping early is simply going to bed earlier.",
-            "Insomnia is when you want to sleep but can't. People who can sleep rarely have it."
           ]
         }
       }
