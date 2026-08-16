@@ -12351,6 +12351,129 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-438",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://sre.google/sre-book/embracing-risk/",
+      "sourceNote": "SRE 錯誤預算（error budget）概念的一般說明；重寫成停機額度在三月用掉大半、全年不敢上線的故事",
+      "tags": [
+        "production",
+        "事故",
+        "職場",
+        "工程師思維",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們的可靠度目標是三個九，換算下來，一年可以壞八小時四十五分。\n三月那次事故一口氣用掉五小時十二分，剩下的要撐到十二月。\n從那天起，每一次上線都要先開會表決。\n年底檢討，達標欄是綠的，主管說今年很穩。\n我們沒有把系統變可靠。\n我們只是有九個月不敢碰它。",
+          "editorNote": "適合在有人拿「今年零重大事故」當成績報告的時候貼。",
+          "variations": [
+            "短版：停機額度沒用完，有時候不是因為系統穩，是因為大家都不敢動它。",
+            "延伸：把「沒出事」當成可靠度，帳會遲一點才寄來，但一定會寄來。"
+          ]
+        },
+        "en": {
+          "content": "Our reliability target is three nines. That works out to eight hours and forty-five minutes of downtime a year.\nOne incident in March ate five hours and twelve. The rest had to last until December.\nAfter that, every release needed a vote.\nAt the year-end review the box was green and my manager said we'd been very stable.\nWe didn't make the system more reliable.\nWe just didn't dare touch it for nine months.",
+          "editorNote": "For when someone reports zero major incidents as an achievement.",
+          "variations": [
+            "Short version: an unspent downtime budget sometimes means nobody dared ship, not that the system is solid.",
+            "Extension: counting 'nothing broke' as reliability just delays the bill. It still arrives."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-439",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Automation_bias",
+      "sourceNote": "自動化偏誤的一般說明；重寫成把手動報表自動化之後，反而沒有人再讀那份報表的故事",
+      "tags": [
+        "工具",
+        "職場",
+        "維護",
+        "工程師思維",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每週一早上，有個人要花兩小時手動把那份報表整理出來。\n我做了一支工具，兩分鐘跑完，從此沒人需要早起。\n第三個月的會議上，主管指著其中一條線問：這是什麼時候開始往下掉的？\n大家互看了一眼，答不出來。\n以前那兩小時很無聊，可是整理的人會從頭到尾看過一遍。\n現在報表準時、正確、漂亮，而且沒有人讀。",
+          "editorNote": "適合在討論「這件事要不要自動化」的時候丟出來當反面提醒。",
+          "variations": [
+            "短版：我省掉的兩小時裡，其實藏著全公司唯一一次有人認真看數字的時間。",
+            "延伸：自動化拿掉的是操作，不是理解；理解沒有人接手，就會直接消失。"
+          ]
+        },
+        "en": {
+          "content": "Every Monday morning, someone spent two hours assembling that report by hand.\nI built a tool. Two minutes, and nobody had to get up early anymore.\nThree months in, my manager pointed at one line in the meeting: when did this start dropping?\nWe looked at each other. Nobody could say.\nThose two hours were boring, but whoever did it read the whole thing on the way through.\nNow the report is on time, correct, beautiful, and nobody reads it.",
+          "editorNote": "A counterweight to drop into any 'should we automate this?' discussion.",
+          "variations": [
+            "Short version: the two hours I deleted contained the only time anyone actually looked at the numbers.",
+            "Extension: automation removes the work, not the understanding. If nobody inherits the understanding, it just goes away."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-440",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Technical_debt",
+      "sourceNote": "技術債概念的一般說明；重寫成「希望版本控制可以回溯決定」的假設性願望",
+      "tags": [
+        "架構",
+        "技術債",
+        "維護",
+        "工程師思維",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果版本控制可以回溯的是決定，不是程式碼就好了。\n我想 checkout 回兩年前那場會議的前五分鐘。\n那時候有人問：我們真的需要再開一個服務嗎？\n會議室安靜了三秒，然後我們就跳到下一頁投影片。\n那個 commit 沒有 diff，也沒有訊息，任何工具都查不到它。\n可是這兩年修的每一個 bug，都是那三秒的利息。",
+          "editorNote": "適合在架構討論卡住、或有人問「當初為什麼要這樣設計」的時候貼。",
+          "variations": [
+            "短版：程式碼的歷史查得到，決定的歷史查不到，而後者才是我們在還的那筆。",
+            "延伸：會議裡沒有人接的那個問題，通常就是兩年後的根因。"
+          ]
+        },
+        "en": {
+          "content": "I wish version control could roll back decisions instead of code.\nI'd check out the five minutes before a meeting two years ago.\nSomeone asked: do we actually need another service?\nThe room went quiet for three seconds, and then we moved to the next slide.\nThat commit has no diff and no message. No tool can find it.\nBut every bug we've fixed since is interest on those three seconds.",
+          "editorNote": "For when an architecture discussion stalls, or someone asks why it was designed this way.",
+          "variations": [
+            "Short version: you can look up the history of the code, not the history of the decision, and the second one is what you're paying off.",
+            "Extension: the question nobody answered in that meeting is usually the root cause two years later."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-441",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Serial_console",
+      "sourceNote": "序列主控台（serial console）用途的一般說明；重寫成全公司只剩一條 USB 轉序列埠的線的故事",
+      "tags": [
+        "工程師日常",
+        "維護",
+        "工程師思維",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司有一條 USB 轉序列埠的線，全公司只有這一條。\n它躺在網管桌上一個裝過機殼螺絲的透明零件盒裡，盒蓋貼著一張紙：借走請簽名。\n那張名單從 2017 年寫到現在，已經翻到第三頁。\n去年我們汰換掉整座主機房，所有設備都能遠端管理，簡報上寫著：完全免接觸。\n那條線還是每個月被借走兩三次。\n因為能遠端處理的狀況，通常都不是需要有人跑一趟的狀況。\n真正得有人走進機房的那一天，壞掉的東西就是網路本身。",
+          "editorNote": "適合在有人主張「這些老東西可以全部丟掉了」的時候貼。",
+          "variations": [
+            "短版：全公司最現代化的機房裡，最重要的一條線是十年前那條。",
+            "延伸：救援手段不能跟被救的東西共用同一條路，這是那個零件盒教我的事。"
+          ]
+        },
+        "en": {
+          "content": "There is exactly one USB-to-serial cable in this company.\nIt lives on the network admin's desk in a clear parts box that used to hold case screws, with a note on the lid: sign it out.\nThe sheet starts in 2017 and is on its third page.\nLast year we replaced the entire server room. Everything is remotely managed now. The slide deck said: zero physical access required.\nThe cable still leaves that box two or three times a month.\nBecause the problems you can reach remotely are usually not the ones worth driving in for.\nOn the day someone truly has to walk into that room, the thing that's broken is the network itself.",
+          "editorNote": "For when someone argues the old hardware can all be thrown out now.",
+          "variations": [
+            "Short version: the most modern server room in the company depends on a ten-year-old cable.",
+            "Extension: your rescue path can't run over the thing you're rescuing. That parts box taught me that."
+          ]
+        }
+      }
     }
   ]
 }

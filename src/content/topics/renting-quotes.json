@@ -9351,6 +9351,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-327",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "tenant threads about quirky old-apartment door locks; the wrist detail and landlord reply are original",
+      "tags": [
+        "報修",
+        "房東",
+        "日常",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個鎖要把門往上提一點才轉得動。\n前三個月我每次都卡在門口，後來不用想了，手腕自己會抓那個角度。\n我報修過一次，房東來試，一開就開，跟他說的一樣：「你看，沒壞啊。」\n他也是提著開的。\n同一個動作他做了十年，做到不覺得那是學來的。\n我現在最熟練的一件事，是開別人家的門。",
+          "editorNote": "適合住到身體比腦袋還熟這間房子、卻還是覺得它不是自己家的時候",
+          "variations": [
+            "住久了不是變習慣，是身體先投降。",
+            "這間房子沒教我修東西，只教我怎麼配合它。"
+          ]
+        },
+        "en": {
+          "content": "The lock only turns if you lift the door a little.\nFor three months I fought it every time I came home. After that, my wrist just knew the angle.\nI reported it once. The landlord tried it, opened it first try, and said exactly what I expected: 'See? Nothing wrong with it.'\nHe was lifting too.\nTen years of the same motion, long enough to forget he ever learned it.\nThe thing I'm best at now is opening someone else's door.",
+          "editorNote": "For when your body knows the apartment better than you do, and it still isn't yours",
+          "variations": [
+            "You don't get used to a place. Your body gives in first.",
+            "This apartment never taught me to fix anything, only to accommodate it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-328",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://rent.591.com.tw/",
+      "sourceNote": "restore-to-original-condition clauses in standard lease templates; the borrowing analogy is original",
+      "tags": [
+        "退租",
+        "合約",
+        "生活",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "租房子比較像借書，不像買書。\n整本你都能看，每天翻也行，但不能畫線、不能折角，時間到要原樣還回去。\n後面還有人在排隊，館方也隨時可以說這本不外借了。\n我在這本書裡住了兩年。\n歸還那天，它得看起來像從來沒被翻開過。",
+          "editorNote": "適合退租前把牆補平、把生活痕跡一項一項抹掉的那幾天",
+          "variations": [
+            "借來的東西，用得越小心，越不像自己的。",
+            "還書的規矩很簡單：讀過，但不能留下讀過的證據。"
+          ]
+        },
+        "en": {
+          "content": "Renting is less like buying a book than borrowing one.\nRead the whole thing, every day if you want, but no underlining, no folded corners, and it goes back exactly as it came.\nSomeone's already on the hold list, and the library can pull it from circulation whenever it likes.\nI lived inside this one for two years.\nOn return day, it had to look like it had never been opened.",
+          "editorNote": "For the days before move-out, when you're erasing every trace that you lived there",
+          "variations": [
+            "The more carefully you treat a borrowed thing, the less it feels like yours.",
+            "The rule is simple: read it, just don't leave proof that you did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-329",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "renter threads about how to word a repair request so the landlord actually replies; the four-rewrite detail is original",
+      "tags": [
+        "報修",
+        "房東",
+        "忍耐",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你住久了會發現，租屋要學的第一件事不是修東西，是傳訊息。\n你會先打「不好意思打擾了」，把「壞了」改成「好像怪怪的」，把驚嘆號刪掉，\n最後補一句「再麻煩您有空看一下，謝謝」。\n一句話改四次，只因為你怕被當成難搞的房客。\n房子是他的，錢是你付的，\n低頭的卻是每個月準時匯款的那個人。",
+          "editorNote": "適合傳給那個又在草稿裡反覆刪字、怕麻煩房東的朋友",
+          "variations": [
+            "我不是客氣，我是在保護我的押金。",
+            "同一則訊息，收租的人五分鐘回，修東西的人五天回。"
+          ]
+        },
+        "en": {
+          "content": "The first thing renting teaches you isn't how to fix things. It's how to text.\nYou open with 'sorry to bother you,' downgrade 'it's broken' to 'it seems a little off,' delete the exclamation mark,\nand close with 'whenever you have a chance, thank you so much.'\nFour rewrites for one sentence, because you don't want to be the difficult tenant.\nIt's his building. It's your money.\nAnd the one softening their voice is the person who pays on time every month.",
+          "editorNote": "Send it to the friend still editing a repair text in the draft box",
+          "variations": [
+            "I'm not being polite, I'm protecting my deposit.",
+            "Same message: five minutes when it's rent, five days when it's a repair."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-330",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.moi.gov.tw/",
+      "sourceNote": "the standard residential lease form's Party A / Party B wording; the two-second pause is original",
+      "tags": [
+        "合約",
+        "簽約",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "簽約那天，筆遞過來，我在「甲方」跟「乙方」中間停了兩秒。\n不是分不出來，\n是那兩秒我才發現：這張紙上，他有一間房子，我有一個代號。",
+          "editorNote": "適合第一次簽租約、突然被合約用語冷到的那一刻",
+          "variations": [
+            "簽名的地方留給我，房子的名字留給他。",
+            "兩秒鐘，我把自己歸檔成乙方。"
+          ]
+        },
+        "en": {
+          "content": "Signing day. The pen slid across the table and I froze for two seconds between 'Party A' and 'Party B.'\nNot because I couldn't tell them apart.\nBecause in those two seconds it landed: on this page he has a property, and I have a label.",
+          "editorNote": "For the chill of signing your first lease and reading what the contract calls you",
+          "variations": [
+            "He gets the address. I get the signature line.",
+            "Two seconds, and I filed myself under Party B."
+          ]
+        }
+      }
     }
   ]
 }

@@ -11420,6 +11420,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-441",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：把「學會拒絕」的成長宣言在最後一句翻轉成答應，站內尚無此角度",
+      "tags": [
+        "自嘲",
+        "職場",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我終於學會拒絕別人了。」\n「怎麼做到的？」\n「我現在答應之前會先停一下，把要怎麼拒絕想清楚。」\n「然後呢？」\n「然後我用一個非常沉穩、非常成熟的聲音說：好啊。」",
+          "editorNote": "適合朋友抱怨自己太好講話時接話，也適合自嘲爛好人體質",
+          "variations": [
+            "「那停那一下有用嗎？」「有。我現在答應得比以前有質感很多。」"
+          ]
+        },
+        "en": {
+          "content": "\"I finally learned how to say no.\"\n\"How?\"\n\"I pause before I answer now, and work out exactly how to turn them down.\"\n\"And then?\"\n\"And then I say 'sure' in a very calm, very grown-up voice.\"",
+          "editorNote": "For a friend who complains about being a pushover, or for owning up to being one yourself",
+          "variations": [
+            "\"Does the pause help?\" \"Definitely. My yes sounds way more deliberate than it used to.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-442",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：用假設性提問寫黃燈的存在意義，站內尚無紅綠燈相關內容",
+      "tags": [
+        "交通",
+        "邏輯",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「如果紅綠燈可以請一天假，你猜誰會請？」\n「紅燈吧，牠最常被罵。」\n「不是，是黃燈。」\n「為什麼？」\n「牠一天上班加起來不到十分鐘，卻要負責整個路口最難的那個決定。」\n「那牠請假那天會怎樣？」\n「大家反而都乖乖停下來了。原來讓人踩油門的不是紅燈，是還有得商量。」",
+          "editorNote": "適合開車或等紅燈時聊，也適合形容那種「模糊地帶最累人」的處境",
+          "variations": [
+            "「那綠燈呢？」「綠燈最輕鬆。牠只要說可以，後面的事都不用牠負責。」"
+          ]
+        },
+        "en": {
+          "content": "\"If one traffic light could take a day off, which one goes?\"\n\"Red. Everyone hates red.\"\n\"Nope. Yellow.\"\n\"Why?\"\n\"It works maybe ten minutes a day, and it owns the hardest call at the whole intersection.\"\n\"What happens on its day off?\"\n\"Everybody actually stops. Turns out what makes people floor it isn't the red light — it's knowing there's still room to argue.\"",
+          "editorNote": "Good for car small talk, or for describing why gray areas are exhausting",
+          "variations": [
+            "\"What about green?\" \"Easiest job there is. It says yes and someone else handles the consequences.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-443",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：把「裝袋子的袋子」諧音成「袋長」，站內尚無此諧音",
+      "tags": [
+        "諧音",
+        "家庭",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我家有一個袋子，專門用來裝其他袋子。」\n「這很正常啊。」\n「我媽叫牠袋長。」\n「⋯⋯為什麼是袋長？」\n「因為所有袋子都要先經過牠，而且牠自己一輩子不會被用掉。」\n「那牠什麼時候退休？」\n「不會退休。牠只會愈來愈胖，然後有一天自己生出第二個袋長。」",
+          "editorNote": "適合在朋友家看到那袋塑膠袋時接話，也適合形容家裡永遠清不完的收納",
+          "variations": [
+            "「那袋長歸誰管？」「抽屜。抽屜裡還有一個專門裝說明書的資料夾，牠們平起平坐。」"
+          ]
+        },
+        "en": {
+          "content": "\"We have a bag at home whose only job is holding other bags.\"\n\"Everyone has that.\"\n\"Mine got promoted. Mom calls it the bag manager.\"\n\"Why manager?\"\n\"Every bag reports to it, and it never gets used itself.\"\n\"When does it retire?\"\n\"It doesn't. It just gets fatter, and one day it hires a second one.\"",
+          "editorNote": "For spotting the bag-of-bags at a friend's place, or joking about clutter that never shrinks",
+          "variations": [
+            "\"Who does the bag manager report to?\" \"The drawer. The drawer also keeps a folder of manuals nobody will ever open.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-444",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.ikuk.com.tw/blogs/column/beginning-of-autumn-2026-autumn-tiger-still-hot",
+      "sourceNote": "參考 2026 立秋（8/7）後秋老虎仍高溫的討論，自行改寫成冷氣度數的家庭談判，不重複站內既有的電費梗",
+      "tags": [
+        "天氣",
+        "家庭",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「冷氣遙控器上，今年只出現過兩個數字。」\n「哪兩個？」\n「二十六和二十七。」\n「才差一度而已。」\n「對。那一度是我跟我媽談了三個月的結果。」\n「誰贏？」\n「我媽。二十七本來就是她想按的，我只是花三個月走到她那裡。」\n「那現在入秋了，應該可以降回去了吧？」\n「不行。秋老虎一來，數字又回到二十六，整場談判重來一次。」",
+          "editorNote": "適合八月底大家還在喊熱時聊，也適合形容家裡那種永遠沒有結論的小型拉鋸",
+          "variations": [
+            "「那二十八呢？」「二十八是我爸的立場。他從來不按，他只在旁邊說『其實開電扇就好』。」"
+          ]
+        },
+        "en": {
+          "content": "\"Our AC remote has only shown two numbers all year.\"\n\"Which two?\"\n\"Seventy-eight and eighty.\"\n\"That's barely a difference.\"\n\"It's three months of negotiating with my mom.\"\n\"Who won?\"\n\"She did. Eighty was her number from day one. It just took me three months to walk over to it.\"\n\"Well, it's technically fall now. Can you drop it back?\"\n\"Nope. The heat came back, so did seventy-eight, and so did the whole argument.\"",
+          "editorNote": "For late-summer heat complaints, or describing a household standoff that never resolves",
+          "variations": [
+            "\"What about eighty-two?\" \"That's my dad's position. He never touches the remote — he just says a fan would do.\""
+          ]
+        }
+      }
     }
   ]
 }

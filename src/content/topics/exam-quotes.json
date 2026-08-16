@@ -10075,6 +10075,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-331",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "檢討考卷時老師的口頭禪引發的集體反應為背景，句子與觀點為原創",
+      "tags": ["考試", "自嘲", "廢文", "記憶", "讀書"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這題我上課有講過喔。」\n老師講完這句，教室會有兩秒鐘特別安靜。\n那不是心虛，是全班同時在腦袋裡翻找那一天。\n我甚至找得到那堂課的筆記，字很工整，日期也對，內容完全陌生。\n所以我確定我人有到、手也有動，\n只是那段話進來的時候，家裡剛好沒人。",
+          "editorNote": "適合檢討考卷時被一句「有講過」擊中，明明有抄筆記卻毫無印象的那兩秒。",
+          "variations": [
+            "短版：「筆記是我的字，內容是別人的記憶。」",
+            "延伸版：「我上課從來沒缺席，缺席的是那個負責記住的人。」"
+          ]
+        },
+        "en": {
+          "content": "\"I went over this in class.\"\nAfter that line there's always about two seconds of total silence.\nIt isn't guilt. It's thirty people searching their memory for that exact day.\nI can even find the notes. Neat handwriting, correct date, completely unfamiliar content.\nSo I was there, and my hand was moving.\nThe words just arrived at a house with nobody home.",
+          "editorNote": "For the two seconds after a teacher says they covered it, when your own notes prove you were present and nothing else does.",
+          "variations": [
+            "Short: \"The handwriting is mine. The memory belongs to someone else.\"",
+            "Extended: \"I never skipped that class. The part of me in charge of remembering did.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-332",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+      "sourceNote": "以考生到借用考場看座位、桌面留有他人痕跡的實務情境為背景，內容與觀點為原創",
+      "tags": ["考試", "考場", "溫暖", "療癒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "那間學校我這輩子只進去過一次。\n教室在三樓最角落，桌子是別人的，椅子也是。\n桌面右上角有人用立可白寫了一個名字，旁邊畫了一顆歪掉的星星。\n抽屜裡留著半包餅乾，還有一張皺掉的段考成績單。\n我在那張桌子前面坐了八十分鐘，\n中途有一瞬間很想跟它的主人道歉，因為我把他的位子弄得很緊張。\n鈴響之後，我順手把桌面擦乾淨才走。\n我們大概一輩子不會認識，\n但那個早上，全台灣有好幾萬張桌子被這樣借走一天。",
+          "editorNote": "適合寫考場借用的那間陌生教室，或想起自己曾坐在誰的位子上考完一場試。",
+          "variations": [
+            "短版：「我在一張不認識的桌子上，決定了自己的下一年。」",
+            "延伸版：「那張桌子的主人也在別的地方考試，我們互相借了一天的位子。」"
+          ]
+        },
+        "en": {
+          "content": "I've been inside that school exactly once in my life.\nThird floor, corner classroom. The desk wasn't mine. Neither was the chair.\nSomeone had written a name in correction fluid on the top right corner, with a lopsided star beside it.\nHalf a pack of cookies in the drawer, plus a crumpled midterm report.\nI sat at that desk for eighty minutes,\nand at one point genuinely wanted to apologize to its owner for making his seat so nervous.\nWhen the bell rang I wiped the surface clean before leaving.\nWe'll almost certainly never meet,\nbut that morning, tens of thousands of desks got borrowed exactly the same way.",
+          "editorNote": "For test day in a borrowed classroom, sitting at a stranger's desk to decide your own next year.",
+          "variations": [
+            "Short: \"I decided my next year at a desk I'd never seen before.\"",
+            "Extended: \"Whoever owns that desk was sitting an exam somewhere else. We traded seats for a day without ever meeting.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-333",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "考生反覆更換文具、以買新東西當作重新開始的普遍心理為背景，句子為原創",
+      "tags": ["考試", "自嘲", "廢文", "溫暖", "讀書"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這三年我換過三支筆。\n第一支是全班都在用的那款，因為大家說寫起來比較快。\n第二支是網路上推薦的，握起來很專業，我用它抄完兩本筆記。\n第三支是我媽在文具店隨手拿的，最便宜，也最不像一回事。\n真正陪我寫完最後一張考卷的，是第三支。\n會不會寫跟拿什麼筆沒有關係，\n但每次買新的那天，我是真心想重新開始。",
+          "editorNote": "適合換筆、換筆記本、換讀書 app 卻始終沒換掉自己的那種心情。",
+          "variations": [
+            "短版：「我買過最貴的那支，只寫完了一張計畫表。」",
+            "延伸版：「裝備一直在升級，真正上場的還是同一個人。」"
+          ]
+        },
+        "en": {
+          "content": "Three years, three pens.\nThe first was the one everyone in class had, because word was it wrote faster.\nThe second came off a recommendation thread, felt very professional in the hand, and got me through two full notebooks.\nThe third my mom grabbed off a shelf at the stationery store. Cheapest one. Looked like nothing.\nThe pen that was actually with me for my last exam paper was the third one.\nWhat you can answer has nothing to do with what you're holding,\nbut every time I bought a new one, I really did mean to start over.",
+          "editorNote": "For anyone who has swapped pens, notebooks and study apps without ever swapping out the actual problem.",
+          "variations": [
+            "Short: \"The most expensive pen I ever bought finished exactly one study plan.\"",
+            "Extended: \"The gear kept getting upgraded. The person using it stayed the same.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-334",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "以考場當眾拆封試題袋的固定流程與氣味記憶為背景，內容與觀點為原創",
+      "tags": ["考試", "考場", "記憶", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "每一科開始之前，監考老師會當著全班的面拆開那袋試題。\n塑膠封膜被撕開的聲音很短，短到整間教室會跟著安靜下來，\n接著飄出一股剛印好的紙味，混著油墨，涼涼的。\n那個味道一年只會出現幾次，\n卻比任何鬧鐘都有效，鼻子一收到，整個人自動繃起來。\n畢業很久以後，我在影印店等東西，同樣的味道又飄過來，\n胃先縮了一下，我才想起來為什麼。\n身體記東西的方法跟背書不一樣，它不需要複習。",
+          "editorNote": "適合形容拆考卷那一瞬間的氣味與緊繃，或多年後被同樣味道突襲的時刻。",
+          "variations": [
+            "短版：「那股油墨味一飄過來，我的身體就先坐直了。」",
+            "延伸版：「我背過的都忘了，只有那個味道還完整地留著。」"
+          ]
+        },
+        "en": {
+          "content": "Before every subject, the proctor tears open the sealed packet of question booklets in front of everyone.\nThe plastic film rips for maybe half a second, and the whole room goes quiet along with it.\nThen comes the smell of fresh print — paper and ink, faintly cool.\nThat smell shows up a few times a year at most,\nand it beats any alarm clock. My nose registers it and my whole body braces.\nYears after graduating, waiting on an order at a copy shop, the same smell drifted past.\nMy stomach reacted first. My head caught up a second later.\nThe body files things differently than studying does. It never needs review.",
+          "editorNote": "For the smell of a freshly opened exam packet, and the way it can ambush you years later.",
+          "variations": [
+            "Short: \"One whiff of that ink and my spine straightened before I did.\"",
+            "Extended: \"Everything I memorized is gone. Only the smell survived intact.\""
+          ]
+        }
+      }
     }
   ]
 }

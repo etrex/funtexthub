@@ -6284,6 +6284,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "hd-213",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://humandesignasia.org/what-is-human-design/four-types-and-strategies/",
+      "sourceNote": "Type-and-strategy overview used as raw material for a 'what if you could choose your type' thought experiment. Distinct from hd-021 (compatibility) and hd-145 (open centers aren't defects) — this one is about envying another type's ability while ignoring its cost",
+      "tags": ["類型", "迷思", "自我覺察", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "要是類型可以自己挑，那五格大概會塞得很不平均。\n\n想當顯示者的最多——想到就做，不用等誰點頭。反映者也有票，稀有、聽起來很神秘。投射者的票不少，因為「合理地不用拚體力」實在太吸引人了。\n\n可惜這一格是用你出生那一分鐘算出來的，沒有補件，也不能改志願。而且真的換過去，你要一起接手的是後面那份代價：顯示者得處理事情做完之後四面八方的反彈，反映者連換個工作都得讓自己晃過一整輪月亮，投射者要熬過「還沒被點到名」的那段安靜。\n\n羨慕別型的時候，我們挑的都是他的能力，很少把附帶的那部分一起算進去。把它擺上桌一起看，通常就沒那麼想換了。",
+          "editorNote": "適合回應「我覺得我這型好像最弱」這種對話，或放在類型介紹的收尾。",
+          "variations": [
+            "類型不是志願序，它在你出生那一分鐘就抽好了。",
+            "你羨慕的是他的能力，不是他每天在收拾的那部分。"
+          ]
+        },
+        "en": {
+          "content": "If you got to pick your type, those five slots would fill up very unevenly.\n\nMost votes go to Manifestor — think it, do it, no permission needed. Reflectors get votes for being rare and mysterious. Projectors get plenty too, because \"officially allowed to skip the grind\" sounds fantastic.\n\nExcept this slot is calculated from the minute you were born. No transfer forms, no second round. And if you really swapped, you'd inherit what comes attached: Manifestors handle the pushback that arrives after they've already acted, Reflectors need a whole lunar cycle before changing jobs, Projectors sit through the quiet of not having been called on yet.\n\nWhen we envy another type we only pick out the ability, rarely the part that comes with it. Put both on the table and the trade stops looking so good.",
+          "editorNote": "Good reply to \"I think my type got the worst deal,\" or as a closer for a type overview.",
+          "variations": [
+            "Your type isn't a wish list. It was set at the minute you were born.",
+            "You envy the ability, not the thing they clean up every day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-214",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.mandyhumandesign.com/strategy-by-type-in-human-design/",
+      "sourceNote": "Inner-authority material reframed through one physical object (a pair of shoes that keeps causing blisters). Deliberately avoids hd-024's 'the body knows before the mind speaks' phrasing and hd-030's 'the mind's job is observing' framing — the new angle here is post-hoc justification",
+      "tags": ["內在權威", "決定", "日常", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "鞋櫃裡有一雙鞋，你穿三次、腳跟磨破三次，現在還好好地擺在那裡。\n\n留著的理由每次都不一樣：很百搭、再穿幾次就鬆了、當初挑超久。這些句子的共同點是——全都是事後補上去的。第一次穿完那天，身體就已經表態過了，很小聲、只講一次、而且不解釋。\n\n人類圖把身體那個訊號叫內在權威。難的地方不在聽不到，在於它不會替自己辯護，而頭腦很會。所以最後留下來的常常不是身體想要的那個，是理由寫得比較漂亮的那個。\n\n想練的話從小東西開始：發現自己在替一件事找第三個理由的時候，先停十秒。需要辯護到這種程度的，答案其實早就出來了。",
+          "editorNote": "適合放在講內在權威，或講「明知不適合卻捨不得放」的內容裡。",
+          "variations": [
+            "需要你一直替它想理由的東西，身體早就投過票了。",
+            "頭腦不是拿來拍板的，它比較擅長事後幫決定寫說明。"
+          ]
+        },
+        "en": {
+          "content": "There's a pair of shoes in your closet. Three wears, three blisters, still sitting there.\n\nThe reason for keeping them changes every time: goes with everything, they'll loosen up, I spent forever choosing them. What those sentences have in common is that every one of them arrived afterward. Your body said its piece the first day — quietly, once, without explaining.\n\nHuman Design calls that signal your inner authority. The hard part isn't hearing it. The hard part is that it never argues its case, and your mind argues beautifully. So what survives usually isn't what the body wanted. It's whatever had the better-written defense.\n\nPractice on small things. The moment you catch yourself reaching for a third reason, stop for ten seconds. Anything that needs defending that hard was settled a while ago.",
+          "editorNote": "Use alongside inner-authority content, or anything about hanging on to what clearly doesn't fit.",
+          "variations": [
+            "If it needs you to keep inventing reasons, your body already voted.",
+            "Your mind isn't the decider. It's the one that writes the press release afterward."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-215",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://humanarchetypes.com/aura-type-in-human-design/",
+      "sourceNote": "Aura in Human Design is described as extending roughly two meters (about six feet) in all directions. Turned into a practical seating/distance experiment. Distinct from hd-084 and hd-130, which cover the Environment variable (light, sound, space type) rather than interpersonal distance",
+      "tags": ["氣場", "關係", "環境", "日常", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "兩公尺。人類圖說一個人的氣場大概往外撐到這個距離，所以兩個人坐在一起的時候，兩個場其實是疊在一起的，不只是靠近而已。\n\n這解釋了幾件很土但很真的事：跟某個人講電話還好，坐在他旁邊三十分鐘就開始頭痛；同一場會議，換一個位子你講話的量就不一樣；有人一走近你就自動安靜下來，而他還沒開口。\n\n所以在分析「我跟這個人到底合不合」之前，先動位置比較快。把讓你緊繃的那個人挪出那兩公尺，能站著就別坐在他正對面，長會議中場出去晃一圈。\n\n一週後你會發現，有些原本歸類成個性的問題，其實歸錯了，它是距離。",
+          "editorNote": "適合用在辦公室、聚餐、家庭場合這種「跑不掉的近距離」情境。",
+          "variations": [
+            "合不合有時候是座位問題，不是個性問題。",
+            "先把距離拉開一週，再下結論也來得及。"
+          ]
+        },
+        "en": {
+          "content": "Two meters. That's roughly how far Human Design says your aura reaches, which means two people sitting together aren't merely near each other — their fields are overlapping.\n\nIt explains some unglamorous things. Phone calls with that person are fine; thirty minutes beside them and your head aches. Same meeting, different chair, a completely different amount of talking from you. Someone walks toward you and you go quiet before they've said anything.\n\nSo before analyzing whether the two of you click, try moving. Put the person who tightens you up outside those two meters, stand rather than sit directly across from them, take a lap halfway through the long meeting.\n\nA week later you'll notice that a few things you filed under personality were filed wrong. They were distance.",
+          "editorNote": "For offices, group dinners, family gatherings — anywhere you can't escape close quarters.",
+          "variations": [
+            "Sometimes it's a seating problem, not a personality problem.",
+            "Change the distance for a week before you draw any conclusions."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hd-216",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://meet.eslite.com/tw/tc/article/202303230001",
+      "sourceNote": "Intro-level overview used as raw material for a reversal about accuracy: the flattering-accurate parts change nothing, the irritating-accurate parts do. Kept clear of hd-188 (jargon as excuses) and hd-207 (post-reading letdown)",
+      "tags": ["迷思", "自我覺察", "新手", "人類圖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "人類圖被稱讚最多的一句話是「好準」。\n\n但被說中的那一刻，其實什麼都還沒發生。準到讓你猛點頭的那些，多半是你早就知道、只是第一次有人替你講出來，很爽，然後日子照舊。\n\n真正會動到你的是另一種：你看著那段描述，第一反應是想反駁——我才沒有那樣，我只是……然後越解釋越心虛。那個卡住的地方，才是整張圖唯一有機會幫你改掉的。",
+          "editorNote": "適合寫在解讀心得裡，或提醒新手別只收集「被說中」的快感。",
+          "variations": [
+            "被說中很爽，被戳到才有用。",
+            "你最想反駁的那一段，通常是最該留下來的那一段。"
+          ]
+        },
+        "en": {
+          "content": "The compliment Human Design gets most often is \"wow, that's so accurate.\"\n\nBut at the moment you nod, nothing has happened yet. The parts accurate enough to make you nod are usually things you already knew and had simply never heard said out loud. It feels great. Then the day goes on exactly as before.\n\nThe part that actually moves something is the other kind: you read a line and your first instinct is to argue — I'm not like that, I just — and the more you explain, the thinner it sounds. That snag is the only place the chart ever gets to change anything.",
+          "editorNote": "Pairs well with post-reading reflections, or as a warning to beginners collecting the hit of being described.",
+          "variations": [
+            "Being described feels good. Being caught is the useful part.",
+            "The line you most want to argue with is usually the one worth keeping."
+          ]
+        }
+      }
     }
   ]
 }

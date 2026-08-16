@@ -9166,6 +9166,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-323",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93961",
+      "sourceNote": "Inspired by Taiwanese coverage of revenge bedtime procrastination as a compensation mechanism; rewritten as a second-person accusation about refusing to hand the day over",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "熬夜",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你今天其實很果決。\n中午吃什麼，三十秒解決；那封難回的信，你也回了。\n偏偏「幾點睡」這一題，你從十一點卡到現在，\n每半小時就跟自己說一次：再一下下。\n你不是睡不著，你是捨不得把今天交出去。",
+          "editorNote": "適合傳給那種累到不行、卻還是滑到兩點的人。",
+          "variations": [
+            "白天你什麼都能拍板，只有「現在去睡」這件事，你會拖到天亮。",
+            "今天沒有一段時間是你的，所以你把夜晚偷來當補償。"
+          ]
+        },
+        "en": {
+          "content": "You were decisive all day.\nLunch: thirty seconds. That email you'd been dodging: sent.\nBut \"go to bed\" has been under review since eleven,\nand every half hour you rule the same way — five more minutes.\nYou're not having trouble sleeping. You just can't bring yourself to hand today over.",
+          "editorNote": "For the friend who's exhausted by midnight and still scrolling at two.",
+          "variations": [
+            "You can settle anything except the question of when to stop being awake.",
+            "None of today belonged to you, so you're taking the night as back pay."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-324",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://health.tvbs.com.tw/encyclopedia/337141",
+      "sourceNote": "Informed by sleep-hygiene explainers on how drowsiness arrives in waves and gets reset by activity; rewritten as one specific 10:40pm moment",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "深夜",
+        "作息"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "晚上十點四十，吹風機一關掉，我是真的想睡的。\n眼皮很重，走路有點飄，講話開始省略主詞。\n我想說先把明天要帶的東西放進包包，\n再順手把碗洗一洗、充電線插好。\n十一點二十回到床上，那個想睡的我已經不在了。\n睡意剛剛來過，只是我當時在忙。",
+          "editorNote": "適合那種「明明有睡意，卻硬要再多做兩件事」的夜晚。",
+          "variations": [
+            "我的睡意一天只營業五分鐘，而我每天都在那五分鐘裡洗碗。",
+            "那五分鐘是今天唯一的機會，我拿去插充電線了。"
+          ]
+        },
+        "en": {
+          "content": "10:40pm. The second the hair dryer goes off, I genuinely want to sleep.\nEyelids heavy, walking slightly sideways, dropping words out of sentences.\nThen I figure I'll pack tomorrow's bag first.\nThen the dishes. Then the charger.\n11:20, back in bed, and the sleepy version of me has left.\nDrowsiness did show up. I was busy.",
+          "editorNote": "For nights when you were sleepy and decided to do two more things first.",
+          "variations": [
+            "My window for sleep is open five minutes a day and I spend it on dishes.",
+            "That was today's one chance and I used it on a charging cable."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-325",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.uho.com.tw/article-66259.html",
+      "sourceNote": "Informed by Taiwanese health coverage of restless legs at night; rewritten as a first-person body-sensation quote with no medical claims",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "翻來覆去"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的腿今晚不歸我管。\n不是痛也不是麻，是一種說不出來的「想動」，\n伸直不對，彎起來也不對，交叉撐個三十秒又得換。\n上半身早就投降了，膝蓋以下還在原地踏步。",
+          "editorNote": "適合半夜被自己的腿吵醒、又講不出哪裡不舒服的時候。",
+          "variations": [
+            "全身都同意要睡了，只有兩條腿投反對票。",
+            "我不是翻來覆去，我是被自己的小腿帶著繞場。"
+          ]
+        },
+        "en": {
+          "content": "My legs are not taking orders tonight.\nNot pain, not pins and needles — just an unsayable need to move.\nStraight is wrong. Bent is wrong. Crossed buys me thirty seconds.\nThe top half of me surrendered hours ago. Everything below the knee is still marching in place.",
+          "editorNote": "For the night your legs keep you up and you can't describe what's actually wrong.",
+          "variations": [
+            "My whole body voted to sleep. My legs abstained, loudly.",
+            "I'm not tossing and turning. I'm being walked around by my own shins."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-326",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://profitemag.com/revenge-bedtime-procrastination-high-quality-rest/",
+      "sourceNote": "Informed by explainers describing sleep pressure and the body clock as slow processes rather than switches; rewritten as a farming-versus-appliance analogy",
+      "tags": [
+        "失眠",
+        "療癒",
+        "自我接納",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠是農作物，不是家電。\n家電按下去就會動，不動還可以送修；\n作物只能把土翻鬆、水澆好，然後走開，\n它哪一天冒出來，你說了不算。\n而我每晚做的事，比較像蹲在田邊大聲叫它快點長。",
+          "editorNote": "適合一直覺得「再用力一點就睡得著」的人。",
+          "variations": [
+            "你可以把燈關掉、把房間弄暗，但你按不到「發芽」那個鍵。",
+            "今晚沒收成，不代表這塊田壞掉了。"
+          ]
+        },
+        "en": {
+          "content": "Sleep is a crop, not an appliance.\nAn appliance runs when you press the button, and you can get it repaired.\nA crop gets loosened soil, water, and then you walk away.\nWhat day it comes up is not your call.\nWhat I do every night is closer to squatting at the edge of the field, shouting at it to hurry up.",
+          "editorNote": "For anyone still trying to force sleep by trying harder at it.",
+          "variations": [
+            "You can dim the room. There is no button marked germinate.",
+            "A bad harvest tonight doesn't mean the field is broken."
+          ]
+        }
+      }
     }
   ]
 }

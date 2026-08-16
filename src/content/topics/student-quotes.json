@@ -5664,6 +5664,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-190",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "請假單上不存在的那一格，原創發想",
+      "tags": [
+        "厭世",
+        "自嘲",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果請假單上多一格，叫做「沒有生病，就是不想來」，我猜勾下去的人會比想像中多很多。\n那一格永遠不會出現，倒不是怕我們亂用——是怕大人自己也想勾。",
+          "editorNote": "適合連上好幾天課、整個人麻掉那天發，貼在班群裡通常一票人跟著喊我也要。",
+          "variations": [
+            "也能換成：「請假理由那一欄，我最想寫的是『我需要一天』。」",
+            "進階版：「大人不是不懂，他們是比我們早幾年學會不寫出來。」"
+          ]
+        },
+        "en": {
+          "content": "If the absence form had one more box — \"Not sick, just don't want to come\" — I bet way more people would check it than anyone expects.\nThat box will never exist. Not because they think we'd abuse it, but because the adults would want to check it too.",
+          "editorNote": "For the day you're running on fumes after a long stretch of classes. Post it in the group chat and watch the me-toos roll in.",
+          "variations": [
+            "Swap in: \"In the reason field, what I really want to write is: I need one day.\"",
+            "Harder mode: \"Adults get it. They just learned a few years earlier not to write it down.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-191",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "修正帶蓋不掉厚度的觸感觀察，原創發想",
+      "tags": [
+        "文具",
+        "校園生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "修正帶蓋得掉字，蓋不掉厚度。\n寫錯的那一行，之後每次翻到，指腹都會先摸到那一小段凸起來——本子記得的，比我願意承認的還多。",
+          "editorNote": "訂正完考卷、或想講「錯誤不會憑空消失」的時候發，配一張筆記本特寫剛剛好。",
+          "variations": [
+            "也能換成：「白色蓋上去那一秒最安心，隔天翻回來才知道它還在。」",
+            "溫柔版：「凸起來也沒關係，那是我改過的地方。」"
+          ]
+        },
+        "en": {
+          "content": "Correction tape can cover the word. It can't cover the thickness.\nOn the line where I messed up, my fingertip finds that little ridge every time I flip back — the notebook remembers more than I'm willing to admit.",
+          "editorNote": "Good after a round of corrections, or when you want to say mistakes don't just vanish. Pair it with a close-up of your notebook.",
+          "variations": [
+            "Swap in: \"The second the white goes on it feels fixed. You find out the next day it's still there.\"",
+            "Softer take: \"The ridge is fine. It just means I went back and fixed it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-192",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/topics/%E5%A4%A7%E5%AD%B8%E7%94%9F",
+      "sourceNote": "教室時鐘慢幾分鐘、全班照樣用的班級默契發想",
+      "tags": [
+        "上課",
+        "校園生活",
+        "同學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "教室後面那個時鐘慢四分鐘，全班都清楚，但誰也懶得去調。\n老師照著它宣布下課，我們照著它算還剩多久，久了大家就默默同意：這間教室的時間，本來就跟外面差四分鐘。\n而那四分鐘，只在這扇門裡面有效。",
+          "editorNote": "適合聊班上那種沒人明講、卻全員遵守的默契，畢業前發特別有感。",
+          "variations": [
+            "也能換成：「我們不是遲到四分鐘，我們是活在四分鐘之前。」",
+            "簡短版：「全班靠一個壞掉的時鐘準時。」"
+          ]
+        },
+        "en": {
+          "content": "The clock at the back of the room runs four minutes slow. Everyone knows. Nobody bothers to fix it.\nThe teacher lets us out by it, we count down by it, and somewhere along the way we all quietly agreed that time in this room is simply four minutes behind.\nThose four minutes are only valid inside that door.",
+          "editorNote": "For talking about the unspoken rules every class runs on. Hits harder if you post it near graduation.",
+          "variations": [
+            "Swap in: \"We're not four minutes late. We live four minutes ago.\"",
+            "Short version: \"A whole class kept on time by one broken clock.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-193",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://funtexthub.internal/original",
+      "sourceNote": "翹大課以為藏得住、結果因為全勤缺席被記住的翻轉發想",
+      "tags": [
+        "翹課",
+        "自嘲",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "都說要翹就翹大課，三百個人的階梯教室，少一個哪看得出來。\n我信了一整個學期。\n期末最後一堂，教授在台上唸了一個名字，要那個人下課留一下——三百個人裡，他偏偏記得我。",
+          "editorNote": "翹課翻車那天拿來自嘲，也很適合回給那些說大課點名不重要的人。",
+          "variations": [
+            "也能換成：「我以為我藏在人群裡，其實我就是那個唯一的空位。」",
+            "進階版：「他記得的不是我，是那個位子整學期沒坐過人。」"
+          ]
+        },
+        "en": {
+          "content": "Everyone says if you're going to skip, skip the big lecture — three hundred people, who notices one missing?\nI believed that for an entire semester.\nOn the last day, the professor read out one name from the podium and asked that person to stay after class. Out of three hundred, he remembered me.",
+          "editorNote": "Self-roast material for the day your skipping streak catches up with you. Also a solid reply to anyone who says big lectures don't track attendance.",
+          "variations": [
+            "Swap in: \"I thought I was hiding in the crowd. I was the one empty seat.\"",
+            "Harder mode: \"He didn't remember me. He remembered the seat nobody sat in all semester.\""
+          ]
+        }
+      }
     }
   ]
 }

@@ -8066,6 +8066,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-274",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.ctee.com.tw/news/20240104700818-430404",
+      "sourceNote": "台電資料：電熱水瓶／開飲機保溫一年耗電約 500 多度，與冰箱相當；瞬熱型約 21 度；改寫為第二人稱提醒",
+      "tags": [
+        "開飲機",
+        "省電",
+        "家電",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你會為了冷氣一小時幾塊錢跟自己吵一整個晚上，卻沒認真看過廚房那台開飲機。\n它光是保溫，一年就吃掉五百多度，跟你家冰箱整年的量差不多——冰箱好歹二十四小時都在做事，它只是在等你想喝水的那三杯。\n不用把它丟掉。保溫從九十八度調到九十度，出遠門時拔掉，就夠了。\n夏天最貴的那台，通常不是你天天在心裡審問的那台。",
+          "editorNote": "想提醒家人省電又不想被當碎念的時候貼，或自嘲抓錯兇手",
+          "variations": [
+            "你盯著冷氣盯了一整個夏天，那台開飲機在你背後，安安靜靜地燒了五百多度。",
+            "它不吵、不冷、也不用遙控器，所以整個夏天沒被懷疑過一次。"
+          ]
+        },
+        "en": {
+          "content": "You'll argue with yourself all evening over what the AC costs per hour, and you've never once looked hard at the hot water dispenser in the kitchen.\nJust keeping that tank hot runs about 500 kWh a year — roughly what your fridge uses. Except the fridge is actually working the whole time. Yours is standing by for the three cups you drink.\nYou don't have to throw it out. Drop the hold temperature from 98 to 90, unplug it when you travel. That's it.\nThe priciest thing in a summer house is usually not the one you keep interrogating.",
+          "editorNote": "For nudging the family about power use without sounding preachy",
+          "variations": [
+            "You watched the AC all summer. Behind you, the water dispenser quietly burned 500 kWh.",
+            "It's not loud, not cold, and has no remote — so nobody ever suspected it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-275",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%81%9C%E9%9B%BB",
+      "sourceNote": "停電後復電瞬間的家庭場景；原創",
+      "tags": [
+        "停電",
+        "冷氣",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "復電是從一聲很輕的「嗶」開始的：路由器的燈一顆一顆亮回來，牆上的鐘閃著 0:00 等人重設。\n只有冷氣沒有自己回來。它記得上次的溫度，但要有人走過去，再按一次。\n我站在原地，聽整間房子重新開始耗電，才發現剛剛停掉的那半小時，是這個夏天最安靜的一段時間。",
+          "editorNote": "颱風天或社區跳電後貼，也適合半夜復電睡不著的時候",
+          "variations": [
+            "停電時家裡沒有聲音，復電時才聽得出每一台都在花錢。",
+            "電回來了，冷氣還在等一個人走過去。"
+          ]
+        },
+        "en": {
+          "content": "The power comes back with one small beep: the router's lights blink on one by one, the wall clock flashes 0:00, waiting for someone to reset it.\nOnly the AC doesn't return on its own. It remembers the temperature. It just needs a person to walk over and press it again.\nI stood there listening to the whole house start spending money again, and realized that half hour without power was the quietest stretch of the entire summer.",
+          "editorNote": "For a typhoon-day outage, or the night the building's breaker went",
+          "variations": [
+            "In a blackout the house makes no sound. When the power returns, you can hear every appliance spending.",
+            "The electricity came back. The AC is still waiting for someone to walk over."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-276",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%86%B1%E5%AE%B9%E9%87%8F",
+      "sourceNote": "建築牆體蓄熱、日落後仍持續放熱的體感經驗；原創",
+      "tags": [
+        "高溫",
+        "冷氣",
+        "半夜",
+        "體感"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "半夜起來倒水，手背擦過走廊的牆，是溫的。\n太陽下山好幾個小時了，牆還在慢慢把白天存進去的熱，一點一點還給我。\n冷氣不是在跟氣溫打，是在跟一整面牆的記性打——它每個晚上都得重新贏一次，我每個月幫它付那筆贏的錢。",
+          "editorNote": "適合半夜熱到睡不著、或西曬房間的租屋族",
+          "variations": [
+            "牆記得白天的太陽，然後整晚慢慢說給我聽。",
+            "手背碰到牆的那一下，我就知道今晚冷氣要加班。"
+          ]
+        },
+        "en": {
+          "content": "Got up for water at 2 a.m., brushed the hallway wall with the back of my hand. Still warm.\nThe sun set hours ago. The wall is handing back the heat it stored all day, a little at a time.\nThe AC isn't fighting the air temperature. It's fighting a whole wall's memory — it has to win again every night, and every month I pay for the win.",
+          "editorNote": "For west-facing rentals and nights you can't sleep through the heat",
+          "variations": [
+            "The wall remembers the afternoon sun and tells me about it all night.",
+            "One touch of the wall and I know the AC is working overtime tonight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-277",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.gvm.com.tw/article/111318",
+      "sourceNote": "2026 住宅簡易型時間電價：尖峰 5.16 元、離峰 2.06 元，需單月用電 700 度以上才可申請；改寫為量販店大包裝的類比",
+      "tags": [
+        "時間電價",
+        "離峰電價",
+        "台電",
+        "省電迷思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我很認真研究過那個聽起來超划算的時間電價：尖峰一度五塊一，離峰兩塊零六，中間差了三塊多。\n往下滑才看到門檻——單月要用到七百度以上，才有資格申請。\n這件事很像量販店的大包裝：單價確實比較低，前提是你得先有一個吃得完一整箱的胃。\n那張省錢的入場券，要先證明自己夠會花，才領得到。",
+          "editorNote": "查完電價方案發現自己不符資格時貼，或朋友推薦你換方案的時候",
+          "variations": [
+            "便宜的那個級距不是給省的人，是給用得夠多的人。",
+            "七百度是入場費，我連報名資格都省掉了。"
+          ]
+        },
+        "en": {
+          "content": "I looked seriously into that time-of-use rate that sounds like such a deal: about NT$5.16 per unit at peak, NT$2.06 off-peak, a gap of more than three dollars.\nThen I scrolled down to the fine print — you need to burn over 700 units in a single month to even qualify.\nIt's the warehouse-store bulk pack, basically: the unit price really is lower, provided you have the stomach to finish an entire case.\nThe ticket to saving money goes to whoever can prove they spend enough.",
+          "editorNote": "For when you check the rate plans and find out you don't qualify",
+          "variations": [
+            "The cheap tier isn't for people who save. It's for people who use enough.",
+            "700 units is the cover charge. I saved so hard I couldn't even get in line."
+          ]
+        }
+      }
     }
   ]
 }

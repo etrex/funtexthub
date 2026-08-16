@@ -11708,6 +11708,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-442",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學句型整理文章，作為「同義替換／狀態互換」句法的參考",
+      "tags": [
+        "廢話文學",
+        "日常",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一捲膠帶的開頭，在你找到之前，一直都貼在那捲膠帶上。\n它沒有走，只是跟旁邊那圈長得太像。\n\n找到之後，它就是開頭。\n找不到的時候，整捲都是中間。",
+          "editorNote": "拿著膠帶轉了三圈、指甲在上面刮來刮去的時候。",
+          "variations": [
+            "膠帶不會弄丟開頭，它只是把開頭藏在自己身上。",
+            "摳出來的那一小條，就是今天最大的成就。"
+          ]
+        },
+        "en": {
+          "content": "The start of a roll of tape has been sitting on the roll the entire time.\n\nIt didn't go anywhere. It just looks too much like the layer underneath it.\n\nOnce you find it, it's the beginning. Until then, the whole roll is middle.",
+          "editorNote": "For spinning a roll of tape three times with your fingernail out.",
+          "variations": [
+            "Tape never loses its edge. It just hides the edge on itself.",
+            "That little strip you finally peel up is the day's biggest win."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-443",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/buyonline/p/260584697",
+      "sourceNote": "2026 電商免運門檻與湊單討論，作為「為了省運費多花錢」的數字素材",
+      "tags": [
+        "廢話文學",
+        "金錢",
+        "消費"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "購物車距離免運，還差三十九元。\n你加了一件一百二十元的東西，六十元的運費就不見了。\n\n六十元省下來了，一百二十元也花出去了。\n兩句話都是真的，只是站在不同邊算。",
+          "editorNote": "結帳頁跳出「再買 39 元享免運」的那三秒。",
+          "variations": [
+            "免運不是不用錢，是換一個欄位付。",
+            "你省下的是運費，不是錢。"
+          ]
+        },
+        "en": {
+          "content": "Your cart is four dollars short of free shipping.\n\nSo you add a twelve-dollar thing, and the six-dollar shipping fee disappears.\n\nYou saved six. You also spent twelve. Both sentences are true, depending on which side you count from.",
+          "editorNote": "For the checkout banner that says \"add $4 more for free shipping.\"",
+          "variations": [
+            "Free shipping isn't free. It's shipping, paid in a different aisle.",
+            "You saved the fee. You did not save the money."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-444",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://vocus.cc/article/69a80ad2fd8978000169dbf2",
+      "sourceNote": "廢話文學與反雞湯專題，作為「先變糟才變好」反轉語感的參考",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "打掃的第一步，是把東西全部拿出來。\n第二步，是決定它們要放回哪裡。\n第三步，天黑了。\n\n所以整理是有進度的，只是進度會先往反方向走一段。",
+          "editorNote": "地板上堆滿東西、你坐在正中間滑手機的那個下午。",
+          "variations": [
+            "房間變亂，是它變乾淨的必經過程。這句話可以撐很多天。",
+            "拿出來十分鐘，放回去一輩子。"
+          ]
+        },
+        "en": {
+          "content": "Step one of cleaning: take everything out.\n\nStep two: decide where it all goes back.\n\nStep three: it's dark outside.\n\nCleaning does make progress. The progress just runs backwards for a while first.",
+          "editorNote": "For the afternoon you end up sitting in the middle of the pile, scrolling.",
+          "variations": [
+            "A messier room is a required stage of a cleaner room. That excuse stretches for days.",
+            "Taking it all out takes ten minutes. Putting it back takes a lifetime."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-445",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://vocus.cc/article/66c67d95fd897800010e3e7a",
+      "sourceNote": "網路流行語幽默手法拆解，作為「自我否定式假設」句型的參考",
+      "tags": [
+        "廢話文學",
+        "時間",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果早知道真的能早一點知道，它就不會叫早知道了。\n\n它每次都準時抵達，只是它對的是結束，不是開始。",
+          "editorNote": "事情搞砸之後，第一個從嘴巴裡冒出來的那句話。",
+          "variations": [
+            "早知道不是資訊，是一種語氣。",
+            "會早知道的人，其實也是後來才知道，只是講得比較大聲。"
+          ]
+        },
+        "en": {
+          "content": "If hindsight actually showed up early, we wouldn't have to call it hindsight.\n\nIt's never late. It just sets its clock by the ending instead of the start.",
+          "editorNote": "For the first sentence out of your mouth after something goes wrong.",
+          "variations": [
+            "Hindsight isn't information. It's a tone of voice.",
+            "The people who knew better found out at the same time you did. They just said it louder."
+          ]
+        }
+      }
     }
   ]
 }

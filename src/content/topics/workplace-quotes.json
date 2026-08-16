@@ -12003,6 +12003,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-410",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/job",
+      "sourceNote": "Dcard 工作版關於「我到底在公司做什麼」的長期討論 — 改寫為把在職天數與真正需要判斷的天數並排計算",
+      "tags": [
+        "職場厭世",
+        "上班族限定",
+        "社畜",
+        "辦公室日常",
+        "職場潛規則"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我算過。\n\n我在這個位子上待了一千八百四十七天。\n\n其中真正需要我判斷的，大概二十天。\n\n其他那一千八百多天，我做的事情是：把 A 的訊息轉給 B，把 B 的答案改成 C 看得懂的格式，然後提醒 A 明天要回。\n\n我一度覺得這件事很可怕。四年多的資歷，濃縮成二十天。\n\n後來我請了兩個禮拜的假。回來才知道，那二十天裡的其中一天，就發生在我不在的時候。\n\n事情最後也解決了。只是繞了三個禮拜，中間有兩個部門差點翻臉。\n\n我這才看懂前面那一千八百多天在幹嘛。\n\n它們不是空轉。它們是在替那二十天鋪路，鋪成一種「他開口的時候，大家願意先聽完」的東西。\n\n少了那些轉訊息的日子，我在第二十天講的話，份量會跟走廊上隨便一個路人一樣輕。",
+          "editorNote": "適合在那種「我到底在幹嘛」的下午，傳給同樣卡在轉訊息迴圈裡的同事。",
+          "variations": [
+            "短版：「一千八百四十七天的班，真正需要我判斷的大概二十天；其他都在替那二十天鋪路。」",
+            "延伸版：「後來我開了一個檔案，專門記那二十天。四年多寫不滿一頁，但那一頁我一直留著。」"
+          ]
+        },
+        "en": {
+          "content": "I did the math.\n\nI've been in this seat 1,847 days.\n\nMaybe twenty of them actually needed my judgment.\n\nThe other eighteen hundred-something, my job was this: forward A's message to B, reformat B's answer so C can read it, then remind A to reply tomorrow.\n\nFor a while that felt bleak. Four years of experience, compressed down to twenty days.\n\nThen I took two weeks off. One of those twenty days happened while I was gone.\n\nIt got sorted out in the end. It just took three extra weeks, and two departments nearly stopped speaking to each other along the way.\n\nThat's when I finally understood what the eighteen hundred days were doing.\n\nThey weren't idling. They were paving the road for the twenty — building the thing where people hear me out before they decide.\n\nWithout all that message-forwarding, what I say on day twenty would land about as heavy as advice from a stranger in the hallway.",
+          "editorNote": "For the afternoon you catch yourself asking what you actually do here.",
+          "variations": [
+            "Short: '1,847 days on the job, about twenty that needed me. The rest were paving the road.'",
+            "Extended: 'I keep a file of just those twenty days. Four years in, it isn't a full page, and I've never deleted it.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-411",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.ptt.cc/bbs/Salary/index.html",
+      "sourceNote": "薪水板關於桌面淨空／保密政策執行後大家改用手機拍照的討論 — 改寫為政策成功但資料轉移到公司管不到的地方",
+      "tags": [
+        "職場荒謬",
+        "辦公室",
+        "公司文化",
+        "上班族限定",
+        "職場厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了保護客戶資料，公司規定桌面必須淨空，任何紙本不得過夜。\n\n第三個月，整層樓的桌面乾淨得像樣品屋。\n\n而每個人的手機相簿裡，都多了三十幾張白板和螢幕的照片。\n\n資料一張也沒少，只是換去一個公司管不到的地方過夜。",
+          "editorNote": "適合在公司又發一封「請確實執行桌面淨空」之後，安靜地轉給同事。",
+          "variations": [
+            "短版：「桌面淨空上路半年，公司最大的資料庫變成我的手機相簿。」",
+            "延伸版：「稽核那天我們桌上什麼都是空的。稽核走了，照片還在。」"
+          ]
+        },
+        "en": {
+          "content": "To protect client data, the company banned anything on paper from staying on a desk overnight.\n\nBy month three, the whole floor looked like a furniture showroom.\n\nMeanwhile every camera roll on that floor had picked up thirty-odd shots of whiteboards and screens.\n\nNot one page went missing. It just started spending the night somewhere the company can't audit.",
+          "editorNote": "For right after another all-staff email about keeping your desk clear.",
+          "variations": [
+            "Short: 'Six months of clean-desk policy later, the company's biggest archive is my camera roll.'",
+            "Extended: 'Audit day, every desk was empty. The auditors left. The photos stayed.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-412",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.dcard.tw/f/job",
+      "sourceNote": "工作版關於「每封信都寫很急」造成急件通膨的抱怨串 — 改寫為想在寄信視窗加一個必填欄位的假設",
+      "tags": [
+        "email",
+        "職場黑話",
+        "上班族限定",
+        "職場厭世",
+        "效率"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果讓我改一個公司系統，我不會先動請假流程。\n\n我會在寄信視窗的最下面，加一個必填欄位，題目只有一行：\n\n「這件事這禮拜沒做，最壞會怎樣？」\n\n兩句話就好，寄件人自己寫。\n\n我想看的是那一格會長出什麼東西。\n\n因為現在標題掛「急」的信，跟真的急的信，看起來沒有兩樣。都是紅色驚嘆號，都是「麻煩今天內回覆」，都是禮拜五下午五點四十分寄出來的。\n\n收信的人只好把每一封都當急件處理。久了，真正的急件反而沒地方站。\n\n這個欄位當然不會被加上去。\n\n我大概知道為什麼。\n\n因為很多信在那一格會寫不出東西來。寫不出來不代表那件事不重要，\n\n代表寄信的那個人，只是想先把它從自己桌上移開。",
+          "editorNote": "適合在信箱一次跳出五封「很急」的時候發。",
+          "variations": [
+            "短版：「如果每封信都要先填『沒做最壞會怎樣』，我猜有一半寄不出去。」",
+            "延伸版：「後來我自己先在心裡填一次。填著填著，有幾封我就沒寄了。」"
+          ]
+        },
+        "en": {
+          "content": "If I could change one company system, I wouldn't start with time-off requests.\n\nI'd add a required field at the bottom of the compose window. One line:\n\n'If this doesn't get done this week, what's the worst that happens?'\n\nTwo sentences is plenty. The sender writes it themselves.\n\nI just want to see what grows in that box.\n\nBecause right now an email with URGENT in the subject looks identical to an actually urgent one. Same red exclamation mark, same 'please reply today,' same 5:40 p.m. Friday timestamp.\n\nSo everyone receiving them treats all of it as urgent, and after a while the real emergencies have nowhere left to stand.\n\nThe field will never get added, of course.\n\nI think I know why.\n\nA lot of emails would come up empty in that box. Empty doesn't mean the thing doesn't matter —\n\nit means the sender mostly wanted it off their own desk.",
+          "editorNote": "For when five emails marked urgent land in your inbox at once.",
+          "variations": [
+            "Short: 'Make everyone answer what happens if it waits, and half these emails never get sent.'",
+            "Extended: 'I started answering it in my head first. A few of mine never went out.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-413",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.mot-net.tw/blog/bcp/what-is-internet-fax/",
+      "sourceNote": "關於傳真在台灣醫療、公部門與傳統製造業仍未消失的報導 — 改寫為辦公室角落那台沒在用但不能丟的傳真機",
+      "tags": [
+        "辦公室",
+        "職場荒謬",
+        "公司文化",
+        "上班族限定",
+        "職場厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們辦公室最角落有一台傳真機。\n\n電話線接著，插頭沒拔，紙匣裡永遠躺著半疊紙。\n\n它一年響三到四次。大部分是賣貸款的廣告，偶爾一次是某個沒更新聯絡方式的老客戶。\n\n公司搬過兩次家，它都跟著搬。搬遷清單上有它，理由是合約裡寫著我們有傳真號碼。那份合約簽在二〇一一年。\n\n每一屆新人第一個禮拜都會問同一句：這台還在用嗎？\n\n回答也每次都一樣：沒在用，但不能丟。\n\n上個月它突然響了，慢慢吐出一張紙。是某家公司的搬遷通知，字有點糊。\n\n那天下午，我看到三個人先後走過去，把那張紙拿起來看一下，再放回原位。誰都不需要那張紙。\n\n但那是那個禮拜，我們部門唯一一次，有東西是自己送到我們面前的。其他所有的資訊，都要我們自己進系統裡撈。",
+          "editorNote": "適合在公司又出現一個「沒在用但不能丟」的東西時，配一張角落照片發。",
+          "variations": [
+            "短版：「那台傳真機一年響三次，但誰都不想當那個拔插頭的人。」",
+            "延伸版：「隔壁部門那台上個月拆了。傳真號碼還印在我們的名片上。」"
+          ]
+        },
+        "en": {
+          "content": "There's a fax machine in the far corner of our office.\n\nPhone line connected, plug still in, half a stack of paper permanently in the tray.\n\nIt rings three or four times a year. Mostly loan ads, occasionally an old client who never updated their contact info.\n\nThe company has moved twice and it came along both times. It was on the moving list, because our contract says we have a fax number. That contract was signed in 2011.\n\nEvery new hire asks the same thing in week one: is this still used?\n\nThe answer never changes: no, but we can't get rid of it.\n\nLast month it rang and slowly pushed out a single page. A relocation notice from some company, the text a little smeared.\n\nThat afternoon I watched three people walk over, pick the page up, read it, and put it back down. Not one of them needed it.\n\nBut it was the only time that week that anything reached our department on its own. Everything else, we have to go dig out of a system.",
+          "editorNote": "For the next time your office adds another thing nobody uses and nobody may throw away.",
+          "variations": [
+            "Short: 'That fax machine rings three times a year, and nobody wants to be the one who unplugs it.'",
+            "Extended: 'The department next door finally scrapped theirs. The fax number is still on our business cards.'"
+          ]
+        }
+      }
     }
   ]
 }

@@ -8099,6 +8099,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-288",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "搶票攻略文常解釋系統卡頓源自瞬間流量，不是網站壞掉；改寫成家電比喻",
+      "tags": [
+        "秒殺",
+        "平台",
+        "冷氣",
+        "比喻"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "冷氣修不好那天，\n師傅蹲在陽台跟我說：\n\n「機器沒壞，\n是你一次要它做的事太多。」\n\n我想起開賣的那三分鐘。\n\n系統也沒壞。\n只是那三分鐘裡，\n三十幾萬人\n同時要它做同一件事。\n\n差別是冷氣還能修。\n那三分鐘不能。",
+          "editorNote": "適合有人罵售票網站爛的時候接話，把怒氣轉成一個大家都懂的畫面",
+          "variations": [
+            "短版：「系統沒壞，是我們太多人同時想要同一個晚上。」",
+            "自嘲版：「我家冷氣跟拓元都在同一個八月投降。」"
+          ]
+        },
+        "en": {
+          "content": "The day my AC gave up, the repair guy crouched on the balcony and said: 'Nothing's broken. You're just asking it to do too much at once.' I thought about those three minutes when tickets dropped. The site wasn't broken either. Three hundred thousand people just wanted the same thing in the same three minutes. Difference is, the AC can be fixed. Those three minutes can't.",
+          "editorNote": "Good comeback when someone's yelling that the ticketing site is garbage",
+          "variations": [
+            "Short: 'The server didn't fail. We all wanted the same night.'",
+            "Self-deprecating: 'My AC and my ticket queue died the same August.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-289",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.homeplus.net.tw/cable/article/47",
+      "sourceNote": "2026 攻略提到「搶票練習神器」網站，粉絲會事前反覆練點擊速度",
+      "tags": [
+        "練習",
+        "手速",
+        "序位",
+        "抽籤"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在練習網站上按了兩百次，\n成績一次比一次漂亮。\n\n真正開賣那天，\n你連等待室都沒進去。\n\n不是你不夠努力。\n是這場考試\n根本不看你按多快，\n只看你被排到第幾號。",
+          "editorNote": "傳給那個練了一整週、開賣三十秒就出局的朋友",
+          "variations": [
+            "溫柔版：「你練的是手，抽的是命，這兩件事沒有交集。」",
+            "毒舌版：「練習網站唯一的功能，是讓你輸得比較有自信。」"
+          ]
+        },
+        "en": {
+          "content": "You clicked through the practice site two hundred times and your score kept improving. On the actual sale day you never even made it into the waiting room. It's not that you didn't try hard enough. This test doesn't grade how fast you click. It grades what number you got put in line.",
+          "editorNote": "Send it to the friend who trained all week and was out in thirty seconds",
+          "variations": [
+            "Gentle: 'You trained your hands. The queue drew your fate. No overlap.'",
+            "Blunt: 'Practice sites exist so you can lose with better technique.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-290",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3019879",
+      "sourceNote": "開賣時間多落在中午前後，粉絲常描述被家人打斷的瞬間",
+      "tags": [
+        "開賣",
+        "家人",
+        "分心",
+        "時間感"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上十點五十八分，\n我媽推門進來，\n問我要不要吃芭樂。\n\n我沒有回頭，\n只擠出三個字：\n等一下。\n\n等到我終於可以回頭，\n已經十一點零三分。\n\n票沒了，\n盤子也收走了。\n\n那天我輸掉的\n不只一張票。",
+          "editorNote": "適合搶票季結束後的懺悔文，也適合家庭群組裡道歉用",
+          "variations": [
+            "短版：「那五分鐘裡，我把票和芭樂一起弄丟了。」",
+            "後悔版：「下次她推門進來，我先吃再搶。」"
+          ]
+        },
+        "en": {
+          "content": "10:58 a.m. Mom pushed the door open and asked if I wanted some guava. I didn't turn around. I just said two words: 'One sec.' By the time I could turn around it was 11:03. Tickets gone. Plate gone too. I lost more than a ticket that morning.",
+          "editorNote": "For the post-sale apology post, or the family group chat",
+          "variations": [
+            "Short: 'In five minutes I lost the tickets and the fruit.'",
+            "Regret: 'Next time she opens that door, I eat first, refresh second.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-291",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://blog.eztravel.com.tw/concert-taiwan/",
+      "sourceNote": "搶票需長時間維持同一姿勢盯螢幕，粉絲事後常抱怨身體不適",
+      "tags": [
+        "肩膀",
+        "後遺症",
+        "緊張",
+        "身體"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "隔天早上，\n我的左肩痠到抬不起來。\n\n沒搬東西，也沒運動，\n只是前一天把整個人\n縮成一顆滑鼠的大小，\n撐了四十幾分鐘。\n\n身體全都記得。\n票一點印象都沒有。",
+          "editorNote": "適合搶票隔天的貼文，也適合配一張痠痛貼布的照片",
+          "variations": [
+            "短版：「我為一場沒去成的演唱會，拉傷了肩膀。」",
+            "共鳴版：「搶票結束才發現，我整場都聳著肩。」"
+          ]
+        },
+        "en": {
+          "content": "Next morning my left shoulder wouldn't lift. No lifting, no workout. I'd just spent forty minutes the day before folded down to the size of a mouse. My body remembers all of it. The ticket doesn't remember me at all.",
+          "editorNote": "Post it the day after a sale, ideally with a photo of a pain patch",
+          "variations": [
+            "Short: 'I pulled a muscle for a concert I never got into.'",
+            "Relatable: 'Only afterward did I notice I'd been hunching the whole time.'"
+          ]
+        }
+      }
     }
   ]
 }

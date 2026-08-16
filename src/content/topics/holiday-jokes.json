@@ -11893,6 +11893,128 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-401",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/",
+      "sourceNote": "年前大掃除翻出去年剩餘年貨的生活觀察；改寫成抽屜裡三樣物品的清單",
+      "tags": [
+        "春節",
+        "大掃除",
+        "家庭",
+        "節日限定",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "年前大掃除，我拉開玄關那個抽屜。\n\n一疊紅包袋，去年買的，還剩十一個。\n\n一副對聯，貼過一次，字有點糊。\n\n一盒糖果，打開發現是前年的口味。\n\n我媽走過來說：「這些明年還會用到。」\n\n明年這個時候，我會再拉開同一個抽屜，看見同樣三樣東西，數量各多一份。",
+          "editorNote": "過年前整理家裡、翻出去年剩下的年貨時",
+          "variations": [
+            "一句版：我家的年貨不是每年買的，是每年疊上去的。",
+            "延伸版：紅包袋剩十一個，代表去年有十一個人沒來。"
+          ]
+        },
+        "en": {
+          "content": "Pre-New-Year cleaning. I open the hallway drawer.\n\nA stack of red envelopes, bought last year. Eleven left.\n\nA pair of door couplets, hung once, ink a little smudged.\n\nA tin of candy. I open it. It's from the year before that.\n\nMom walks past: \"We'll use all of that next year.\"\n\nNext year I'll open the same drawer and find the same three things, one more of each.",
+          "editorNote": "For New Year cleaning, when last year's leftovers resurface",
+          "variations": [
+            "One-liner: We don't buy New Year supplies. We stack them.",
+            "Extended: Eleven envelopes left means eleven people didn't come."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-402",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.cna.com.tw/news/ahel/202601010002.aspx",
+      "sourceNote": "2026 台北101跨年施放六分鐘煙火的報導；改寫成遠距離觀賞時聲音與直播的時差",
+      "tags": [
+        "跨年",
+        "煙火",
+        "節日限定",
+        "冷知識"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "跨年夜十二點整，我在頂樓看見遠方一朵煙火散開。\n\n數到三，聲音才追上來。\n\n手機裡的直播還沒到十二點，主持人正在喊十、九、八。\n\n那天我聽了兩次跨年：一次慢三秒，一次慢一分鐘。",
+          "editorNote": "在家或頂樓遠遠看跨年煙火、聲音和畫面對不上的時候",
+          "variations": [
+            "一句版：離煙火越遠，你的新年來得越晚。",
+            "延伸版：我家的新年比信義區晚三秒，我當作是省下來的房租。"
+          ]
+        },
+        "en": {
+          "content": "Midnight, New Year's Eve. From the roof I watch a firework open over the city.\n\nI count to three before the sound catches up.\n\nOn my phone, the livestream hasn't hit midnight yet. The host is still on ten, nine, eight.\n\nThat night I heard the new year twice: once three seconds late, once a full minute late.",
+          "editorNote": "For watching fireworks from far away, when sound and picture stop agreeing",
+          "variations": [
+            "One-liner: The farther you are from the fireworks, the later your new year starts.",
+            "Extended: My new year runs three seconds behind downtown. I call it the rent discount."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-403",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.cna.com.tw/news/ahel/",
+      "sourceNote": "清明掃墓供品準備的家族習慣；改寫成兩代人對供品對象的短對話",
+      "tags": [
+        "清明",
+        "掃墓",
+        "家庭",
+        "對話",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這盒放中間，阿嬤最愛吃。」\n\n「阿嬤不是不吃甜的？」\n\n「愛吃甜的是阿公。」\n\n「所以我們拜了二十年⋯⋯」\n\n「阿公就在旁邊那格，他拿得到。」",
+          "editorNote": "清明掃墓、發現供品其實是拜給另一個人吃的時候",
+          "variations": [
+            "一句版：我們家的供品制度，是共享的。",
+            "延伸版：後來那盒還是照買，只是位置每年往右邊挪一點。"
+          ]
+        },
+        "en": {
+          "content": "\"Put that box in the middle. Grandma loved these.\"\n\n\"Didn't Grandma hate sweets?\"\n\n\"That was Grandpa.\"\n\n\"So for twenty years we've been—\"\n\n\"He's in the next slot over. He can reach.\"",
+          "editorNote": "For grave-sweeping day, when the offering turns out to be for someone else",
+          "variations": [
+            "One-liner: In our family, the offerings are a shared resource.",
+            "Extended: We still buy the box every year. We just set it a little more to the right."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-404",
+      "dateAdded": "2026-08-16",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3020633",
+      "sourceNote": "2026 燈會單向動線、分區展出與小提燈的現場資訊；改寫成想回頭看一盞燈的故事",
+      "tags": [
+        "元宵",
+        "燈會",
+        "親子",
+        "節日限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "元宵燈會的動線是單向的，每隔十公尺就一塊牌子：請往前，出口在前方。\n\n走到第十區我才想起，第三區那盞會轉的兔子燈忘了拍。\n\n於是我重新排隊、重新進場、重新走完前面九區。\n\n回到第三區的時候，兔子燈剛好熄了——整點休息五分鐘。\n\n旁邊有個小孩提著小提燈，抬頭問我：「叔叔，你也在等牠醒來嗎？」\n\n我說對。\n\n我們就一起站在那裡，等一隻正在休息的兔子。",
+          "editorNote": "燈會人擠人、想回頭看某一盞燈卻只能再繞一圈的時候",
+          "variations": [
+            "一句版：燈會裡回頭的成本，是一整圈。",
+            "延伸版：兔子亮起來的那一刻，小孩已經被家長牽走了。"
+          ]
+        },
+        "en": {
+          "content": "The lantern festival route runs one way. Every ten meters, a sign: keep moving, exit ahead.\n\nBy zone ten I remembered the spinning rabbit lantern back in zone three, the one I never photographed.\n\nSo I lined up again, went in again, walked the first nine zones again.\n\nI reached zone three just as the rabbit went dark. Five-minute break, on the hour.\n\nA kid holding a little handheld lantern looked up at me. \"Mister, are you waiting for it to wake up too?\"\n\nI said yes.\n\nSo we stood there together, waiting on a rabbit that was on its break.",
+          "editorNote": "For crowded lantern festivals, when going back means walking the whole loop",
+          "variations": [
+            "One-liner: At a lantern festival, turning back costs one full lap.",
+            "Extended: The rabbit lit up again. By then the kid's parents had already carried him off."
+          ]
+        }
+      }
     }
   ]
 }
