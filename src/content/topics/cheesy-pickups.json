@@ -11737,6 +11737,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-446",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://dailyview.tw/",
+      "sourceNote": "自寫：取台灣合菜桌上默默幫人剝蝦的照顧行為，寫成「手很快、嘴很慢」的反差",
+      "tags": [
+        "對話",
+        "甜",
+        "食物",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你自己都還沒吃欸。」\n「等一下就吃。」\n「你這樣一隻一隻剝，手都是味道。」\n「還好。我剝蝦很快，全桌最快。真正慢的是另一件事——這盤都被我剝完了，那句話我還是沒講出口。」",
+          "editorNote": "一起吃合菜、對方發現你光顧著剝殼沒動筷的時候接",
+          "variations": [
+            "殼交給我，話等我準備好再說。",
+            "蝦我剝得很順，只有那一句會卡住。"
+          ]
+        },
+        "en": {
+          "content": "\"You haven't eaten anything yourself.\"\n\"I'll get to it.\"\n\"You've been peeling those one at a time. Your hands smell like the whole table.\"\n\"Don't care. I'm fast at this — fastest one here. It's the other thing I'm slow at. The plate's empty and I still haven't said it.\"",
+          "editorNote": "For a shared dinner when they notice you're doing all the peeling and none of the eating",
+          "variations": [
+            "Hand me the shells. The sentence can wait.",
+            "Peeling I'm good at. Saying it is where I stall."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-447",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://supertaste.tvbs.com.tw/pack/360987",
+      "sourceNote": "2026 八月全台活動整理（大稻埕夏日節無人機燈光秀），取「散場後無人機收隊」的畫面重寫",
+      "tags": [
+        "甜",
+        "浪漫",
+        "現代",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "八百台無人機在河邊排出一整句話，撐了四十秒，然後一台一台飛回箱子裡，天空乾乾淨淨，什麼都沒留下。\n我腦袋裡那幾百台從來沒收過隊。它們某一天開始排成同一個名字，懸在那邊到現在，沒有人喊降落，電也一直沒耗完。",
+          "editorNote": "看完河岸燈光秀、散場走回停車的路上講最順",
+          "variations": [
+            "秀是結束了，我那場還在放。",
+            "它們排的字我沒拍，反正我天天都看得到。"
+          ]
+        },
+        "en": {
+          "content": "Eight hundred drones spelled out a whole sentence over the river, held it for forty seconds, then peeled off into their crates one by one. Clean sky. Nothing left behind.\nThe few hundred in my head never landed. They locked into the same name a while back and they've been hanging there ever since — nobody called them down, and somehow the battery never runs out.",
+          "editorNote": "Say it walking back to the car after a light show",
+          "variations": [
+            "The show ended. Mine's still up there.",
+            "I didn't film what they spelled. I see it daily anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-448",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E4%B8%83%E5%A4%95",
+      "sourceNote": "七夕（2026/8/19）牛郎織女傳說，取「銀河距離」對照現實三步之遙的反差自寫",
+      "tags": [
+        "對話",
+        "甜",
+        "七夕",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「牛郎織女中間隔一條銀河，一年才見一次，也太可憐了。」\n「我們好多了啊，走三步就到。」\n「對，所以我更沒藉口。可是每次要走那三步，我都要先在原地深呼吸兩分鐘——你說我是不是比隔一條銀河的還沒用。」",
+          "editorNote": "七夕前後聊到牛郎織女、兩個人明明坐很近卻誰都沒開口的時候用",
+          "variations": [
+            "他們一年過一次銀河，我這三步天天卡關。",
+            "距離從來不是問題，問題是我腳很重。"
+          ]
+        },
+        "en": {
+          "content": "\"Qixi's coming up. One night a year, and a whole galaxy sitting between those two. Brutal.\"\n\"We've got it easy. Three steps and I'm there.\"\n\"Right, so I've got no excuse. Except I stand in place breathing for two full minutes before I take those three steps. Tell me that isn't worse than a galaxy.\"",
+          "editorNote": "For Qixi week, when you're sitting close and neither of you has said anything yet",
+          "variations": [
+            "They cross a galaxy once a year. I choke on three steps.",
+            "Distance was never the problem. My feet are."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-449",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://www.ikea.com/tw/zh/",
+      "sourceNote": "自寫：取組裝家具最後多出一顆螺絲的共同經驗，翻成「多出來的那顆被撿起來」",
+      "tags": [
+        "甜",
+        "日常",
+        "自嘲",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那張書桌我組了四個小時，鎖到最後一片板子，桌面上還躺著一顆螺絲。說明書從頭翻到尾都沒有它，我也找不到哪個洞是它的。\n我以前就是那顆。多出來的，沒人知道要放哪。是你把它撿起來，說這裡剛好有個位子。",
+          "editorNote": "一起組家具時，或對方問你以前是什麼樣子的時候接",
+          "variations": [
+            "那顆我收在抽屜裡，提醒自己以前有多沒地方去。",
+            "說明書漏掉的那一顆，是你幫我補上位子的。"
+          ]
+        },
+        "en": {
+          "content": "Four hours on that desk, and when the last panel went in there was still one screw sitting on the tabletop. Not in the manual anywhere. No hole I could find that wanted it.\nI used to be that screw. Left over, nowhere obvious to go. You're the one who picked it up and said there was a slot right here.",
+          "editorNote": "For assembling furniture together, or when they ask what you were like before",
+          "variations": [
+            "That screw lives in a drawer now. It reminds me.",
+            "The manual left one out. You found where it went."
+          ]
+        }
+      }
     }
   ]
 }

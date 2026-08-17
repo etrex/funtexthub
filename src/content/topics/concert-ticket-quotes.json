@@ -8219,6 +8219,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-292",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://star.ettoday.net/news/3200219",
+      "sourceNote": "粉絲集資在捷運站設應援燈箱，沒買到票的人也能自由前往打卡",
+      "tags": [
+        "燈箱",
+        "應援",
+        "沒搶到",
+        "打卡"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那場我沒搶到。\n\n開唱那週，\n我還是去了一趟中山站。\n\n地下街的燈箱上是他，\n底下印著一整排\n我不認識的粉絲代號。\n\n我在燈箱前面站了三分鐘，\n拍了兩張照片。\n\n那個場館我進不去，\n但這條地下街，\n誰都可以走。",
+          "editorNote": "適合沒搶到票、卻還是跑去看應援燈箱的那天，配一張燈箱照片剛好",
+          "variations": [
+            "短版：「場館我進不去，這條地下街誰都可以走。」",
+            "共鳴版：「沒搶到票的人，也想找個地方站一下。」"
+          ]
+        },
+        "en": {
+          "content": "I didn't get a ticket. The week of the show I still rode out to that station. His face was up on the light box downstairs, with a row of fan handles printed underneath, none of which I recognized. I stood in front of it for three minutes and took two photos. The venue is closed to me. This underpass isn't closed to anyone.",
+          "editorNote": "For the day you visit a fan-funded ad instead of the show; pairs well with a photo of the display",
+          "variations": [
+            "Short: 'The venue is closed to me. The underpass isn't.'",
+            "Relatable: 'People without tickets still need somewhere to stand.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-293",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021480",
+      "sourceNote": "搶票需事先備妥信用卡並在限時內完成付款，卡片資料是常見的失誤點",
+      "tags": [
+        "信用卡",
+        "有效期限",
+        "開賣",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開賣前一晚，\n我把卡號、有效期限、\n背面那三碼\n全部背起來。\n\n背到第四遍才發現——\n\n有效期限是這個月。\n\n我準備了三個禮拜，\n這張卡準備了三年，\n最後我們一起\n在同一天到期。",
+          "editorNote": "適合準備了老半天卻卡在小細節的搶票日，也適合自嘲用",
+          "variations": [
+            "短版：「我背熟了整張卡，只漏看期限。」",
+            "厭世版：「我跟我的信用卡，同一天失效。」"
+          ]
+        },
+        "en": {
+          "content": "The night before the sale I memorized the card number, the expiration date, the three digits on the back. On the fourth pass I noticed the expiration date was this month. I'd prepared for three weeks. The card had prepared for three years. We ran out on the same day.",
+          "editorNote": "For the moment weeks of prep collapse on a detail you never thought to check",
+          "variations": [
+            "Short: 'Memorized the whole card. Missed the expiry.'",
+            "Deadpan: 'My credit card and I expired on the same day.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-294",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021480",
+      "sourceNote": "實名制須提前完成手機驗證，票券與購票者身分綁定且姓名不可修改",
+      "tags": [
+        "實名制",
+        "門號",
+        "綁定",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "票綁在我的名字、\n我的證件、我的門號上。\n\n所以從搶到票那天起——\n\n螢幕摔裂了我拿去修，不換新的。\n資費到期我原方案續約。\n連掉進洗手台，\n我都先撈起來吹乾。\n\n不是我念舊，\n是這支手機\n現在是我的入場資格。",
+          "editorNote": "適合實名制搶到票之後那種小心翼翼的心情，也適合勸朋友開唱前先別換號碼",
+          "variations": [
+            "短版：「搶到票之後，我連換手機都不敢。」",
+            "共鳴版：「這支手機現在比我還重要。」"
+          ]
+        },
+        "en": {
+          "content": "The ticket is tied to my name, my ID, my phone number. So ever since it landed: cracked screen, I get it repaired instead of replaced. Plan runs out, I renew the same one. Dropped it in the sink and fished it out to dry. It isn't sentiment. That phone is my way through the gate now.",
+          "editorNote": "For the careful weeks after a name-locked ticket lands, or when warning a friend not to switch numbers before the show",
+          "variations": [
+            "Short: 'Got the ticket, now I'm scared to upgrade my phone.'",
+            "Relatable: 'This phone matters more than I do right now.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-295",
+      "dateAdded": "2026-08-17",
+      "sourceUrl": "https://www.tunefab.tw/tutorials/aespa-concert-setlist.html",
+      "sourceNote": "首場結束後粉絲會整理完整歌單流傳，沒到現場的人常照歌單自行重播",
+      "tags": [
+        "歌單",
+        "開唱",
+        "沒搶到",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "首場結束不到兩小時，\n完整歌單就被整理出來了。\n\n第幾首唱什麼、\n安可幾首、\n中間講了什麼話，\n寫得清清楚楚。\n\n沒票的那晚，\n我把歌單照順序排好，\n在房間裡從第一首聽到最後一首，\n連開始的時間\n都對到跟現場一樣。\n\n只有一個地方對不上——\n\n安可的時候，\n沒有人跟我一起喊。",
+          "editorNote": "適合開唱期間在家自己重現歌單的夜晚，也適合傳給一樣沒搶到的朋友",
+          "variations": [
+            "短版：「我照著歌單，在房間裡辦了一場。」",
+            "共鳴版：「歌單我全對上了，只差旁邊那兩萬人。」"
+          ]
+        },
+        "en": {
+          "content": "Two hours after opening night, the full set list was online. Which song went where, how many encores, what he said in between. All of it. The night of the show I lined the songs up in order and played them start to finish in my room, timed to begin when the real one did. One thing didn't line up. Nobody shouted with me during the encore.",
+          "editorNote": "For the night you recreate the set list at home; send it to the friend who also missed out",
+          "variations": [
+            "Short: 'Ran the whole set list in my bedroom, right on schedule.'",
+            "Relatable: 'I matched every song. I just couldn't match the crowd.'"
+          ]
+        }
+      }
     }
   ]
 }
