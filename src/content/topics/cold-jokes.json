@@ -11584,6 +11584,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-449",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：台灣住宅區追垃圾車的反射動作，翻轉成「今天不收回收」的落空，站內尚無垃圾車題材",
+      "tags": [
+        "生活",
+        "日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「垃圾車的音樂一響，我整個人像被按下開關。」\n「所以你衝下去了？」\n「衝了，到樓下才發現我提的是回收，而今天不收回收。」\n「車開走以後，我抱著那袋寶特瓶站在原地，像個記錯場次的觀眾。」",
+          "editorNote": "適合聊「反射動作比腦袋快」的糗事，也可以在朋友抱怨追垃圾車時接話",
+          "variations": [
+            "「那袋回收後來呢？」\n「在陽台放到下禮拜。現在它是我家最有耐心的室友。」"
+          ]
+        },
+        "en": {
+          "content": "\"The garbage truck jingle starts and something in me just flips on.\"\n\"So you ran down?\"\n\"Ran down, hit the curb, realized I was holding recycling — and today isn't a recycling day.\"\n\"Truck pulled off and I stood there hugging a bag of bottles like a guy who showed up on the wrong night.\"",
+          "editorNote": "For stories where your reflexes move faster than your brain, or replying to a friend chasing the truck downstairs",
+          "variations": [
+            "\"What happened to the bag?\"\n\"It's living on the balcony until next week. Most patient roommate I've ever had.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-450",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：夾娃娃機的投入產出比，用單價換算當笑點，站內尚無娃娃機相關內容",
+      "tags": [
+        "自嘲",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "夾娃娃機我前後投了三百二，最後夾回一隻兔子。\n店員說那種的成本大概四十。\n牠現在坐在我書桌上，是我家單價最高的紡織品。\n每天出門前我都會看牠一眼，順便複習一次什麼叫投入與產出。",
+          "editorNote": "適合曬夜市戰利品時自嘲，或勸朋友別再投「最後一次」的時候用",
+          "variations": [
+            "後來我又去了一次，這次只花八十。\n不是我變厲害了，是我八十塊就先認輸。"
+          ]
+        },
+        "en": {
+          "content": "I fed 320 NT into a claw machine and walked away with one rabbit.\nThe clerk mentioned those run the arcade about forty.\nIt sits on my desk now, the most expensive textile I own.\nEvery morning I glance at it and quietly review the concept of return on investment.",
+          "editorNote": "For captioning your arcade haul, or for talking a friend out of one more try",
+          "variations": [
+            "Went back a week later and only spent eighty.\nNot because I got better — I just gave up eighty NT sooner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-451",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：老舊熱水器只有兩種溫度的擬人吐槽，站內尚無熱水器／洗澡水溫題材",
+      "tags": [
+        "擬人",
+        "家庭",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我家熱水器只認得兩個設定：一個叫燙，另一個叫更燙。\n我轉了很久想找中間那一格，它回我一陣忽冷忽熱。\n從那天起，我洗澡都先背對著水。\n肩膀替我試溫，已經試了三年。",
+          "editorNote": "適合租屋族聊老房子設備，或在朋友抱怨浴室水溫時接話",
+          "variations": [
+            "我媽說轉到中間就好。\n我照做了，然後聽見它在牆裡笑了一聲。"
+          ]
+        },
+        "en": {
+          "content": "My water heater knows exactly two settings: scalding, and slightly more scalding.\nI spent a while hunting for something in between, and it answered with thirty seconds of ice.\nEver since, I step in with my back to the shower.\nMy shoulders have been the test subject for three years now.",
+          "editorNote": "For renters swapping old-apartment horror stories, or replying to a friend complaining about their shower",
+          "variations": [
+            "My mom says just set it in the middle.\nI did, and I swear I heard the thing laugh inside the wall."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-452",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "",
+      "sourceNote": "自製題材：夏天正午機車坐墊高溫的第二人稱吐槽，呼應 2026 年 8 月台灣持續高溫，站內尚無坐墊題材",
+      "tags": [
+        "天氣",
+        "交通",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "中午一點的機車坐墊，是全台灣最不用排隊的鐵板燒。\n你不敢直接坐，只好先鋪一張面紙。\n面紙撐了三秒就陣亡。\n最後你還是坐下去了，用一個既站不直也坐不滿的姿勢，騎完那三公里。",
+          "editorNote": "適合夏天中午騎車前的哀嚎，也可以配停車場曝曬的照片一起發",
+          "variations": [
+            "隔天你學乖了，出門前先在坐墊上蓋一件外套。\n回來時外套是熱的，坐墊還是熱的，只是多了一件要洗的衣服。"
+          ]
+        },
+        "en": {
+          "content": "A scooter seat at one in the afternoon is the only teppanyaki in Taiwan with no wait.\nYou can't just sit on it, so you lay down a tissue first.\nThe tissue lasts about three seconds.\nYou sit anyway, and ride the next two miles in a posture that is neither standing nor sitting.",
+          "editorNote": "For summer noon-ride complaints, or as a caption for a photo of a parking lot baking in the sun",
+          "variations": [
+            "Next day you get smart and drape a jacket over the seat before heading out.\nYou come back to a hot jacket, a hot seat, and one more thing to wash."
+          ]
+        }
+      }
     }
   ]
 }

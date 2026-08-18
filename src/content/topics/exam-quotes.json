@@ -10144,6 +10144,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-335",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "以錄取後被拉進新生群組、自我介紹打了又刪的焦慮為背景，內容與觀點為原創",
+      "tags": ["考後", "分發", "焦慮", "自嘲", "廢文"],
+      "i18n": {
+        "zh-tw": {
+          "content": "昨天下午我被拉進一個叫「115級新生」的群組，五分鐘內跳出兩百多則訊息。\n有人在問要不要一起找室友，有人已經在揪九月見面。\n我打了「大家好」，刪掉，改成「大家好，我是分發進來的」，又刪掉。\n最後送出去的只有一個貼圖，然後我盯著螢幕上那個校名，練習把它當成自己的。",
+          "editorNote": "適合剛被拉進新學校群組、新身分還沒穿上身的那幾天，配一張打字框截圖很有戲。",
+          "variations": [
+            "短版：「群組裡兩百則訊息，我的貢獻是一個貼圖。」",
+            "延伸版：「新的身分要先在打字框裡練幾次，才敢按送出。」"
+          ]
+        },
+        "en": {
+          "content": "Yesterday I got added to a group chat called \"Class of 2030,\" and two hundred messages showed up in five minutes.\nPeople were asking about roommates; a few were already planning a meetup in September.\nI typed \"hey everyone,\" deleted it, typed \"hey everyone, I came in through the placement round,\" deleted that too.\nWhat I actually sent was a sticker, and then I sat there staring at the school's name, practicing thinking of it as mine.",
+          "editorNote": "For those first days in a new school's group chat, when the new identity still doesn't quite fit.",
+          "variations": [
+            "Short: \"Two hundred messages in the chat. My contribution: one sticker.\"",
+            "Extended: \"You rehearse a new identity in the type box before you dare hit send.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-336",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "以放榜後等學校寄實體資料袋、家人不說出口的在意為背景，內容與觀點為原創",
+      "tags": ["放榜", "考後", "溫暖", "療癒"],
+      "i18n": {
+        "zh-tw": {
+          "content": "中午郵差按電鈴，我媽從廚房衝出去簽收，速度快得像在搶什麼。\n我以為是學校寄來的資料袋，結果拆開是她上個月訂的一組保鮮盒。\n她把箱子放在鞋櫃上，愣了兩秒才問我的什麼時候會到。\n我說要下禮拜，她「喔」了一聲，就蹲在那裡把保鮮盒一個一個擦過，擦得特別久。",
+          "editorNote": "適合放榜後等實體通知的那幾天，也適合形容家人嘴上不提、身體卻很誠實的在意。",
+          "variations": [
+            "短版：「我媽衝去簽收的速度，比我還像在等那封信。」",
+            "延伸版：「她沒有問我幾分，只問我的信什麼時候會到。」"
+          ]
+        },
+        "en": {
+          "content": "The mail carrier rang at noon and my mom sprinted out of the kitchen to sign for it.\nI figured it was the packet from the school; it turned out to be the food containers she ordered last month.\nShe set the box on the shoe cabinet, went quiet for two seconds, then asked when mine was supposed to arrive.\nI said next week, she said \"oh,\" and then stayed crouched there wiping every container one at a time, for much longer than they needed.",
+          "editorNote": "For the stretch after results when you're waiting on the physical letter, and for parents who worry without ever saying so.",
+          "variations": [
+            "Short: \"My mom ran for that door faster than I would have.\"",
+            "Extended: \"She never asked what I scored. She asked when my letter was coming.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-337",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.uac.edu.tw/",
+      "sourceNote": "以考分會線上查榜系統開放至 8/20 下午五點的時程為背景，內容與觀點為原創",
+      "tags": ["放榜", "分發", "焦慮", "自嘲", "考試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "查榜頁面下面有一行小字：系統開放到八月二十號下午五點。\n也就是說，我還有兩天可以一直重新輸入自己的號碼，確認那一行不會突然不見。\n它當然不會不見，這件事我很清楚，但我今天已經查了六次。\n看樣子要等到那個網站自己關掉，我才會真的相信這件事結束了。",
+          "editorNote": "適合上榜之後還一直手癢重查的人，也很適合形容「好消息也需要時間才敢相信」的狀態。",
+          "variations": [
+            "短版：「那個網站關掉的那天，我才會真的收工。」",
+            "延伸版：「同一行字我讀了六遍，每一遍都還是覺得不太真實。」"
+          ]
+        },
+        "en": {
+          "content": "There's a line of fine print under the results page: the system stays open until 5 p.m. on August 20th.\nWhich means I have two more days to keep typing in my number and confirming that line hasn't quietly vanished.\nIt won't vanish, I know that perfectly well, and I've still checked six times today.\nApparently I won't believe this is over until the website shuts itself down.",
+          "editorNote": "For anyone who got in and still keeps reloading the page, and for how long good news takes to sink in.",
+          "variations": [
+            "Short: \"The day that site goes offline is the day I finally clock out.\"",
+            "Extended: \"Six reads of the same line and it still didn't feel real.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-338",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "以分發放榜後未錄取、決定再考一年的心情為背景，內容與觀點為原創",
+      "tags": ["放榜", "考後", "輕勵志", "溫暖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "名單上沒有我。\n同學一個一個在限動貼上校徽，我一則一則按了愛心，每一則都是真心的。\n今天下午我走進書局，買了一本明年的行事曆。\n櫃檯問我要不要包起來，我說不用，我等一下就要開始寫。",
+          "editorNote": "適合沒有等到那一行字、但已經決定再走一次的人；也適合拿來陪身邊那個安靜下來的朋友。",
+          "variations": [
+            "短版：「幫每個上榜的朋友按完愛心，然後去買了明年的行事曆。」",
+            "延伸版：「店員問要不要包裝，我說不用，這種東西越早弄髒越好。」"
+          ]
+        },
+        "en": {
+          "content": "My name wasn't on the list.\nOne by one my classmates posted their school crests to their stories, and one by one I hit like, and I meant every single one.\nThis afternoon I walked into a bookstore and bought a planner for next year.\nThe cashier asked if I wanted it wrapped, and I said no thanks, because I'm starting on it on the way home.",
+          "editorNote": "For the ones whose line never showed up and who have already decided to go again, and for anyone trying to find the right thing to say to them.",
+          "variations": [
+            "Short: \"Liked every one of their posts, then went and bought next year's planner.\"",
+            "Extended: \"Didn't need it wrapped. The sooner it gets scuffed up, the better.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-339",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "以錄取外縣市校系後第一次查通勤時間的感受為背景，內容與觀點為原創",
+      "tags": ["分發", "考後", "療癒", "溫暖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在地圖上輸入家裡到學校，跳出來的數字是三小時四十分。\n過去一年我算過的數字，全部都是拿來比較的：級分、加權、錄取率、還差幾分。\n這一個不用跟誰比高低，也不會被排進任何一張名單裡。\n它只是很老實地告訴我，以後想回家吃一頓晚餐，要先出門這麼久。",
+          "editorNote": "適合錄取外縣市學校、第一次意識到自己真的要離家的那個下午。",
+          "variations": [
+            "短版：「查完通勤時間，離家這件事才真的有了重量。」",
+            "延伸版：「三小時四十分，是我這一年第一個不用拿去跟人比的數字。」"
+          ]
+        },
+        "en": {
+          "content": "I typed my house and my new school into the map app and it gave me three hours forty.\nEvery number I handled this past year existed to be compared: scores, weightings, admission rates, how many points short I was.\nThis one doesn't get ranked against anyone, and it won't show up on any list.\nIt just tells me, very plainly, how long I'll be on the road if I want to come home for dinner.",
+          "editorNote": "For the afternoon you look up the commute to a school in another city and realize you're actually leaving.",
+          "variations": [
+            "Short: \"Checked the commute time. That's when leaving got real.\"",
+            "Extended: \"Three hours forty — the first number all year that wasn't a competition.\""
+          ]
+        }
+      }
     }
   ]
 }

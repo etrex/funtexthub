@@ -12391,6 +12391,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-442",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Split_tunneling",
+      "sourceNote": "全流量 VPN 與分流（split tunneling）的一般說明；重寫成整層樓改用手機熱點、資安數字反而變漂亮的故事",
+      "tags": [
+        "工程師日常",
+        "資安",
+        "職場",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司把 VPN 改成全流量，公告說是為了保護內部資產。\n第二週開始，工程區的桌上一支一支立起手機，開熱點。\n這一季的內網違規存取降到零，資安在檢討會上放了一張全綠的圖。\n因為那整層樓的筆電，已經沒有一台在內網上。",
+          "editorNote": "適合在有人主張「管得更嚴就會更安全」的時候貼。",
+          "variations": [
+            "短版：把路擋死，人不會停下來，只會繞過去。",
+            "延伸：所有變漂亮的指標，都要先問一句「是誰不見了」。"
+          ]
+        },
+        "en": {
+          "content": "IT switched the VPN to full tunnel, and the announcement said it was to protect internal assets.\nBy week two, phones were standing up on desks across the whole engineering floor, hotspots on.\nInternal policy violations dropped to zero that quarter, and security put up an all-green slide at the review.\nBecause not one laptop on that floor was on the internal network anymore.",
+          "editorNote": "For when someone insists that tighter controls automatically mean more security.",
+          "variations": [
+            "Short version: block the road and nobody stops. They just drive around it.",
+            "Extension: every metric that suddenly looks great deserves the question, who disappeared from it?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-443",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Alarm_fatigue",
+      "sourceNote": "警報疲勞（alarm fatigue）概念；重寫成一則編譯警告的第一人稱自述",
+      "tags": [
+        "工程師日常",
+        "程式碼品質",
+        "技術債",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我是你們專案裡第四千三百一十二個警告。\n我從 2021 年就在了，每次建置都跟著滾過去一次，沒有人停下來讀我。\n上個月我終於變成錯誤，因為我念了五年的那個函式，真的被拿掉了。\n你們花二十分鐘找到我，再花三分鐘把整類警告關掉。",
+          "editorNote": "適合貼在那種「建置有幾千個警告，大家都說之後會清」的專案群組。",
+          "variations": [
+            "短版：沒有人讀的警告，跟沒有警告是一樣的東西。",
+            "延伸：第一個被忽略的警告出現那天，你們就決定了三年後的那場事故。"
+          ]
+        },
+        "en": {
+          "content": "I'm warning number four thousand three hundred and twelve in your build.\nI've been here since 2021, scrolling past in every single build, and nobody ever stopped to read me.\nLast month I finally became an error, because the function I'd been naming for five years actually got deleted.\nIt took you twenty minutes to find me, and three more to switch off the entire warning category.",
+          "editorNote": "For the project channel where the build has thousands of warnings and everyone says they'll clean them up later.",
+          "variations": [
+            "Short version: a warning nobody reads is the same thing as no warning.",
+            "Extension: the day you ignored the first one, you already scheduled the incident three years out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-444",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Law_of_triviality",
+      "sourceNote": "帕金森瑣碎定律（law of triviality）；重寫成報帳一本書 vs 開一台雲端機器的流程對比",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "工程師思維",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我要報一本六百塊的技術書，表單填了三頁，跑過兩層主管。\n兩個禮拜後退件，理由是發票上少打統一編號。\n同一個下午，我打了一行指令，開了一台每小時四十塊的機器，沒有任何人需要簽名。\n那本書我最後自己買，那台機器到今天還開著。",
+          "editorNote": "適合在報帳流程被退件、或有人在會議上討論「要不要省那筆小錢」的時候貼。",
+          "variations": [
+            "短版：看得懂的錢管得最緊，看不懂的錢沒有人管。",
+            "延伸：一個組織的審核力氣，通常花在金額最小、最容易解釋的地方。"
+          ]
+        },
+        "en": {
+          "content": "Reimbursing a twenty-dollar technical book took three pages of forms and two levels of approval.\nTwo weeks later it bounced back, rejected because the receipt was missing our company tax ID.\nThat same afternoon I typed one command and spun up a machine billing a dollar forty an hour, and nobody had to sign a thing.\nI bought the book myself, and that machine is still running today.",
+          "editorNote": "For the moment an expense report gets rejected, or a meeting starts debating a trivial cost.",
+          "variations": [
+            "Short version: the spending people understand gets audited. The spending they don't gets ignored.",
+            "Extension: an organization spends its review energy on whichever number is smallest and easiest to explain."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-445",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://developer.mozilla.org/en-US/docs/Web/Performance",
+      "sourceNote": "第三方腳本對前端載入效能的影響；重寫成追蹤腳本壞掉一週被誤認成優化成果的故事",
+      "tags": [
+        "工程師日常",
+        "前端",
+        "除錯",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "產品經理在週會上說：這版的載入速度大家都有感，前端辛苦了。\n那個禮拜我們一行程式都沒有上線。\n查了三天才知道，有人改設定改錯，行銷那支追蹤腳本整週都載不進來。\n我把它修好，隔週的會議上就有人問，是不是又變慢了。",
+          "editorNote": "適合在有人要求「再多埋一個追蹤工具」的時候，默默貼出來。",
+          "variations": [
+            "短版：我們的效能優化計畫，被一次改錯的設定提前實現了。",
+            "延伸：那支腳本的價值，第一次被準確衡量，是在它壞掉的那七天。"
+          ]
+        },
+        "en": {
+          "content": "At the weekly meeting the PM said the new build felt noticeably faster and thanked the frontend team.\nWe hadn't shipped a single line that week.\nThree days of digging turned up a config typo: marketing's tracking script had failed to load for seven straight days.\nI fixed it, and at the next weekly someone asked why the site felt slow again.",
+          "editorNote": "Post this quietly the next time someone asks to add one more tracking tag.",
+          "variations": [
+            "Short version: our performance roadmap got delivered early by a broken config.",
+            "Extension: that script's value was measured accurately exactly once, during the week it was down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-446",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.geekwire.com/2026/github-outage-disrupts-developers-worldwide-in-latest-setback-for-microsoft-coding-platform/",
+      "sourceNote": "2026-08-17 GitHub 全球中斷、影響 PR／Actions／Copilot 的報導；重寫成主管與工程師關於「要不要搬回自架」的對話",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "甩鍋",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "代管平台掛了三個多小時，主管走過來問：這種事以後有沒有辦法避免？\n我說：有，搬回來自己架。\n他想了三秒，又問：那半夜掛掉的時候，誰起來修？\n我還沒回答，他就自己接下去：那還是讓別人掛比較好。",
+          "editorNote": "適合在大型平台中斷、群組開始討論「要不要自建」的那個下午貼。",
+          "variations": [
+            "短版：我們的高可用性策略是，確保壞掉的時候不是我們的錯。",
+            "延伸：外包出去的從來不只是維運，還有那通半夜三點的電話。"
+          ]
+        },
+        "en": {
+          "content": "The hosting platform was down for three hours, and my manager came over: any way to stop this from happening again?\nI said sure, we bring it back in-house.\nHe thought for three seconds and asked who gets up at two in the morning when it breaks.\nBefore I could answer, he finished the thought himself: on reflection, better that someone else goes down.",
+          "editorNote": "For the afternoon a big platform goes dark and the channel starts debating self-hosting.",
+          "variations": [
+            "Short version: our high-availability strategy is making sure the outage isn't our fault.",
+            "Extension: what you outsource isn't just the ops work. It's the 3 a.m. phone call."
+          ]
+        }
+      }
     }
   ]
 }

@@ -9441,6 +9441,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-331",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "shared-entrance keypad codes never being rotated in old walk-ups; scene written original",
+      "tags": [
+        "房東",
+        "隱私",
+        "租屋",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東把大門換成電子鎖，說這樣比較安全，也不用再配鑰匙。\n密碼是門牌號碼，四碼，還用鉛筆寫在配電箱旁邊，怕住戶忘記。\n我住了兩年，那組數字一次都沒改過，也就是說這兩年搬走的每一個人，現在都還進得來。\n睡前我會多推一次門，確認它真的鎖上了——雖然我很清楚，會出事的不是那道門。",
+          "editorNote": "適合傳給剛搬進「全棟共用一組密碼」公寓的朋友，順便提醒他問房東多久改一次",
+          "variations": [
+            "房東說電子鎖比較安全，安全的是他從此不用再配鑰匙。",
+            "全棟共用一組四碼密碼，用了兩年，連前房客都還背得出來。"
+          ]
+        },
+        "en": {
+          "content": "The landlord swapped the front door for a keypad lock — safer, he said, and no more cutting keys.\nThe code is the street number, four digits, penciled on the wall by the breaker box so nobody forgets.\nI've lived here two years and it has never once been changed, which means everyone who moved out in those two years can still walk right in.\nBefore bed I push the door one extra time to make sure it latched, knowing perfectly well the door isn't the part that's open.",
+          "editorNote": "For anyone who just moved into a building where the whole stairwell shares one entry code",
+          "variations": [
+            "He says the keypad is safer. What it is, is cheaper than cutting keys.",
+            "Four digits, two years, and a guest list nobody has ever pruned."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-332",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.inn-taipei.com/2025-rental-law-amendment/",
+      "sourceNote": "2026 rental act amendment draft reportedly dropping the 3-year minimum lease and renewal rent-cap clauses; reaction written original",
+      "tags": [
+        "漲租",
+        "續約",
+        "租賃法",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說修法原本要保障最短三年租期，後來草案裡那一條不見了。\n我把手機拿給室友看，他頭也沒抬：「本來就沒有過啊。」\n我們這間租約寫一年，每年七月重簽，重簽前一個禮拜我會開始睡不好。\n三年到底安不安穩我不知道，我只知道自己每年七月，都要重賭一次房東今年的心情。",
+          "editorNote": "適合在租賃修法上新聞、而你剛好也快要續約的那幾天轉發",
+          "variations": [
+            "我的居住穩定，寫在一張每年七月會過期的紙上。",
+            "三年很長，長到連草案都覺得不好意思寫進去。"
+          ]
+        },
+        "en": {
+          "content": "The news said the bill was supposed to guarantee a three-year minimum lease, and then that clause quietly vanished from the draft.\nI held my phone out to my roommate. He didn't even look up: 'It was never going to happen.'\nOur lease runs twelve months, we re-sign every July, and the week before I stop sleeping properly.\nI don't know what three years of stability feels like — I only know I re-bet on my landlord's mood every July.",
+          "editorNote": "Send it during a rental-law news cycle, especially if your own renewal is coming up",
+          "variations": [
+            "My housing stability is printed on a page that expires every July.",
+            "Three years was too long to promise, so nobody promised anything."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-333",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "post-move-out mail forwarding hassles; the address-list punchline is original",
+      "tags": [
+        "搬家",
+        "退租",
+        "日常",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搬走三個月後，前一間的信箱還在收我的信。\n新房客傳訊息來：「你的健檢報告在我這裡，還有兩張罰單跟一本銀行月結單。」\n我約了一個下午回去拿，順便把地址一個一個改掉：銀行、電信、監理站，還有那家我早就不去的健身房。\n改到最後我才發現，我在這座城市搬過四次家，真正記得我住哪裡的，只有這些寄信給我的機構。",
+          "editorNote": "適合退租一陣子之後才想起「地址都還沒改」的人，也可以當搬家待辦清單的提醒",
+          "variations": [
+            "搬家搬走的是家具，改地址改掉的是整個人生。",
+            "我搬過四次家，郵局比我媽更清楚我住在哪。"
+          ]
+        },
+        "en": {
+          "content": "Three months after I moved out, my old mailbox was still collecting my mail.\nThe new tenant texted me: 'I've got your health screening results, two parking tickets, and a bank statement.'\nI went back one afternoon to pick it all up and spent the evening changing my address one account at a time — bank, phone carrier, DMV, and a gym I stopped going to years ago.\nBy the last form it hit me: I've moved four times in this city, and the only things that reliably know where I live are the institutions that mail me things.",
+          "editorNote": "For anyone who realizes weeks after moving that half their mail is still going to the old place",
+          "variations": [
+            "Moving is furniture. Changing your address is your whole paper life.",
+            "Four apartments in, and the post office knows my life better than my mother does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-334",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "west-facing rooms and landlord-supplied sheer curtains in Taiwanese summers; framing written original",
+      "tags": [
+        "夏天",
+        "套房",
+        "房東",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個房間朝西，下午四點以後，牆壁摸起來是溫的。\n房東給的窗簾薄到能看見對面大樓的輪廓，他把那叫做採光好。\n我自己補上遮光簾、隔熱紙，還在窗邊靠了一片瓦楞紙板，像在幫這間房子遮它自己的缺點。\n一個夏天過完我大概算得出來：他每個月收我一萬四，其中有一部分，是我自己花錢買回來的陰影。",
+          "editorNote": "適合傳給正在考慮西曬房、或已經在房間裡跟太陽長期抗戰的朋友",
+          "variations": [
+            "仲介說採光極佳，翻譯過來是：下午四點以後這裡是烤箱。",
+            "我在租來的房間裡，花錢買了三坪的影子。"
+          ]
+        },
+        "en": {
+          "content": "My room faces west, and after four in the afternoon the wall is warm to the touch.\nThe curtain the landlord provided is sheer enough to see the outline of the building across the street; he calls that great natural light.\nSo I added blackout panels, window film, and a sheet of cardboard propped against the glass — patching the apartment's flaws on the apartment's behalf.\nBy the end of the summer I could do the math: of the rent I hand him every month, a slice is me buying back my own shade.",
+          "editorNote": "For friends touring a west-facing unit, or already at war with the afternoon sun",
+          "variations": [
+            "'Excellent natural light' translates to: after 4pm this is an oven.",
+            "In a rented room, shade is something you have to purchase."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-335",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "upfront move-in costs (deposit, agent fee, pest control, appliances) in Taiwan; the first-night image is original",
+      "tags": [
+        "搬家",
+        "房租",
+        "薪水",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "押二付一、仲介服務費半個月、除蟲一千二、一台二手洗衣機三千五。\n搬進去的那個月我一次付掉五萬八，房間裡連一張椅子都還沒有。\n第一晚我坐在地板上吃便當，背後是一面白牆，前面是一個還沒拆的紙箱。\n那天我算清楚了一件事：在這座城市，光是把「住進來」辦完，就要先交出一個半月的薪水。",
+          "editorNote": "適合傳給正在存搬家基金的人，提醒他預算不能只算月租",
+          "variations": [
+            "月租一萬四聽起來還行，直到你把第一個月的收據攤開來看。",
+            "搬家最貴的一天，是你還沒睡過任何一晚的那一天。"
+          ]
+        },
+        "en": {
+          "content": "Two months' deposit plus the first month, half a month to the agent, twelve hundred for pest control, thirty-five hundred for a secondhand washer.\nThe month I moved in I paid out fifty-eight thousand, and the room still didn't have a single chair.\nMy first night I ate takeout sitting on the floor, a blank wall behind me and an unopened box in front of me.\nThat was the night the math landed: in this city, simply arriving costs you a month and a half of salary before you've slept there once.",
+          "editorNote": "Send it to someone saving up a moving fund — the monthly rent is the smallest part of the bill",
+          "variations": [
+            "Fourteen thousand a month sounds fine until you lay out the first month's receipts.",
+            "The most expensive day of renting is the one before you've spent a single night there."
+          ]
+        }
+      }
     }
   ]
 }

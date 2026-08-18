@@ -9256,6 +9256,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-327",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.mohw.gov.tw/cp-4628-55275-1.html",
+      "sourceNote": "Informed by Taiwanese public-health sleep-hygiene material on bedtime timing; rewritten as a self-deprecating numbers joke with no advice or medical claims",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "作息"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "昨天一點才躺下，兩點四十睡著。\n今天為了補回來，十點半就洗好澡爬上床。\n結果我在黑暗裡躺了四個多小時，比昨天整整多躺一倍。\n早睡這件事，我唯一提早的是開始睡不著的時間。",
+          "editorNote": "適合下定決心早睡、結果只是提早開始翻身的那一晚。",
+          "variations": [
+            "提早兩小時上床，等於提早兩小時開始跟天花板聊天。",
+            "我把睡覺時間往前挪，睡意沒有跟著搬。"
+          ]
+        },
+        "en": {
+          "content": "Last night I got in bed at one and fell asleep at two forty.\nTonight, to make up for it, I was showered and under the covers by ten thirty.\nI then lay in the dark for four hours straight — exactly double.\nThe only thing I moved earlier was the start time of not sleeping.",
+          "editorNote": "For the night you finally commit to an early bedtime and just start staring earlier.",
+          "variations": [
+            "Going to bed two hours early means two extra hours of talking to the ceiling.",
+            "I moved my bedtime up. My sleep did not come with it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-328",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://udn.com/news/story/121484/9235052",
+      "sourceNote": "Informed by Taiwanese coverage of nighttime hyperarousal in apartment living; rewritten as a timestamped log of a building's sounds",
+      "tags": [
+        "失眠",
+        "深夜",
+        "陪伴",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "十二點半，樓上那家的椅子終於不再拖動。\n一點四十，隔壁的電視關掉，換成一個人來回走的腳步聲。\n三點十五，有人牽車出門，鐵門拉了兩次才對準。\n這棟樓每個人的作息我都背得出來，只有我自己那一格是空白的。",
+          "editorNote": "適合住公寓、整晚靠聲音陪著過夜的人。",
+          "variations": [
+            "我不認識這棟樓的任何一個人，但我知道他們幾點回家。",
+            "全棟的班表我都排好了，就是排不進自己那一欄。"
+          ]
+        },
+        "en": {
+          "content": "Twelve thirty: the chair upstairs finally stops scraping.\nOne forty: next door kills the TV and switches to footsteps, back and forth.\nThree fifteen: someone wheels a scooter out and the gate takes two tries to line up.\nI could recite this building's schedule from memory, and my own row is the only blank one.",
+          "editorNote": "For anyone in an apartment who spends the night keeping tabs on everyone else's.",
+          "variations": [
+            "I don't know a single neighbor, but I know exactly what time they get home.",
+            "I've got the whole building's timetable. Mine's the one column I can't fill in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-329",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://tanss.org.tw/insomnia/",
+      "sourceNote": "Informed by Taiwanese explainers on nighttime sympathetic overdrive turning trivia into urgent tasks; rewritten as a comic late-night bookkeeping episode",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "幽默",
+        "滑手機"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡不著就把手機拿起來，點開銀行 App 對這個月的帳。\n前面每一筆都對得上，只有八號那筆七十九塊，我怎麼想都想不起來。\n翻購物紀錄、翻通話紀錄、最後翻到那天的照片，答案是超商的一顆茶葉蛋加一瓶水。\n案子破了，天也快亮了，我為七十九塊加班到四點。",
+          "editorNote": "適合半夜被一件根本不重要的小事整個抓住的時候。",
+          "variations": [
+            "白天懶得對的帳，半夜會自己找上門，而且非查清楚不可。",
+            "沒睡著這件事我解決不了，但那筆七十九塊我一定要給它一個交代。"
+          ]
+        },
+        "en": {
+          "content": "Can't sleep, so I pick up the phone and start reconciling this month's bank app.\nEverything lines up except one charge on the 8th: seventy-nine dollars, no memory of it at all.\nI dig through order history, then call logs, then that day's photos, and it turns out to be a tea egg and a bottle of water from the convenience store.\nCase closed, sun almost up, four hours of overtime for seventy-nine dollars.",
+          "editorNote": "For the night one completely unimportant detail takes you hostage.",
+          "variations": [
+            "The receipt I couldn't be bothered to check at noon comes for me at two.",
+            "I can't solve the not-sleeping, but that seventy-nine dollars is going to explain itself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-330",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.nature.com/articles/s41598-024-64355-3",
+      "sourceNote": "Informed by material on bedtime behavior and effortful sleep attempts; rewritten as a negotiation between present self and tomorrow-morning self",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "腦內小劇場",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟七點的自己開了一場很短的會。\n他要求我立刻睡著，理由是他明天要撐滿八小時。\n我說我從十一點就在努力了，這裡沒有一個開關可以按下去。\n會議沒有共識，兩個人各自散會，一個繼續醒著，一個繼續等著被叫醒。",
+          "editorNote": "適合明天要早起、現在正在跟自己談判的深夜。",
+          "variations": [
+            "明天的我很生氣，可惜他現在還聯絡不上。",
+            "我很想幫他，真的，但這件事我這邊沒有權限。"
+          ]
+        },
+        "en": {
+          "content": "I held a very short meeting with my seven a.m. self.\nHe demanded I fall asleep immediately, on the grounds that he has eight hours to survive.\nI told him I've been trying since eleven and there is no switch on this end to flip.\nNo agreement was reached, so we adjourned — one of us stays awake, the other keeps waiting to be woken up.",
+          "editorNote": "For the late night spent negotiating with the version of you who has to get up.",
+          "variations": [
+            "Tomorrow-morning me is furious, and unfortunately unreachable right now.",
+            "I'd love to help him. I genuinely don't have the permissions."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-331",
+      "dateAdded": "2026-08-18",
+      "sourceUrl": "https://www.healthworld.com.tw/news.php?action=show&id=323",
+      "sourceNote": "Informed by Taiwanese reporting on how anticipatory worry about the next day sustains insomnia; rewritten as a gentle second-person reframe with no treatment advice",
+      "tags": [
+        "失眠",
+        "療癒",
+        "自我接納",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你正在幫明天寫預告：明天一定廢掉，什麼都做不了。\n上一次你這樣預告是上個月的事，隔天你還是把該做的事做完了，只是慢了一點。\n明天會怎樣要等明天才知道，現在的你沒有資格代簽。\n把筆放下，剩下的交給明天那個人，他比你以為的耐撐。",
+          "editorNote": "適合躺著開始預告明天有多慘、越想越睡不著的時候。",
+          "variations": [
+            "你有預告過很多次災難，真正上映的沒有幾部。",
+            "現在的你只負責躺著，明天的難不難，讓明天的人去評。"
+          ]
+        },
+        "en": {
+          "content": "You're writing tomorrow's review before tomorrow happens: total write-off, nothing will get done.\nLast time you filed that review was a month ago, and the next day you still got through what mattered, just slower.\nHow tomorrow goes is tomorrow's to report, and you don't have the standing to sign off on it now.\nPut the pen down and leave the rest to that guy — he holds up better than you think.",
+          "editorNote": "For the night you start narrating how bad tomorrow will be and wake yourself up doing it.",
+          "variations": [
+            "You've announced a lot of disasters. Very few of them ever opened.",
+            "Your only job right now is lying here. Let tomorrow's version rate tomorrow."
+          ]
+        }
+      }
     }
   ]
 }
