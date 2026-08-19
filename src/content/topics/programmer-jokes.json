@@ -12541,6 +12541,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-447",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Software_documentation",
+      "sourceNote": "2026 開發者痛點調查提到「文件過期／知識散落」仍是前段班問題；改寫成同一件事有三份互相矛盾的內部文件",
+      "tags": [
+        "工程師日常",
+        "文件",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "部署一次正式環境，要同時打開三份文件。\n第一份說先跑那支腳本，第二份說那支腳本兩年前就停用了，第三份標題後面加了「（最新）」但最後更新停在 2023 年。\n三份的作者都離職了，三份都沒有寫下一步該問誰。\n我最後照第二份做，因為只有它承認自己是錯的。",
+          "editorNote": "適合貼在那種「我們的文件其實很齊全」的會議之後。",
+          "variations": [
+            "短版：我們的文件沒有過期，它們各自停在不同的年份。",
+            "延伸：最好用的那份，通常是有人在裡面承認自己也不確定的那份。"
+          ]
+        },
+        "en": {
+          "content": "Deploying to production means opening three different docs at the same time.\nThe first says run the script, the second says that script was retired two years ago, and the third has \"(latest)\" in the title and a last-edited date of 2023.\nAll three authors have left the company, and none of them wrote down who to ask next.\nI went with the second one, because it was the only one that admitted it was wrong.",
+          "editorNote": "For the meeting right after someone claims our documentation is in great shape.",
+          "variations": [
+            "Short version: our docs never expired, they just stopped in different years.",
+            "Extension: the useful doc is usually the one where somebody admitted they weren't sure either."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-448",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Data_migration",
+      "sourceNote": "技術債累積是 2026 年團隊四大結構性問題之一；改寫成「遷移計畫改到第三版，資料一筆沒搬」的時間軸對照",
+      "tags": [
+        "工程師日常",
+        "技術債",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "前一個財年的最後一週，我把資料庫遷移計畫的第一版寄出去，附件有時程表跟風險評估。\n今天我寄出第三版，附件換成新的時程表跟新的風險評估。\n這一年裡兩邊資料庫都活著、都被寫入，差異從三百筆長到十一萬筆。\n唯一真的完成遷移的東西是那份計畫，它已經換過三個資料夾了。",
+          "editorNote": "適合貼給那種每季都會重啟一次、但從來沒開始過的專案。",
+          "variations": [
+            "短版：計畫改了三版，資料一筆都沒動。",
+            "延伸：越晚搬，兩邊的差異就越有資格變成新的需求。"
+          ]
+        },
+        "en": {
+          "content": "In the last week of the previous fiscal year I sent out version one of the database migration plan, timeline and risk assessment attached.\nToday I sent version three, with a fresh timeline and a fresh risk assessment.\nIn between, both databases stayed up, both kept taking writes, and the gap between them grew from three hundred rows to a hundred and ten thousand.\nThe only thing that actually got migrated was the plan itself, which has now moved through three folders.",
+          "editorNote": "For the project that gets relaunched every quarter and never starts.",
+          "variations": [
+            "Short version: three versions of the plan, zero rows moved.",
+            "Extension: wait long enough and the drift between the two databases turns into a feature request."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-449",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Goodhart%27s_law",
+      "sourceNote": "以「關票數」當生產力指標的常見批評；改寫成新同事一週關四十七張票的誤會→揭曉",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新來的同事第一週關掉四十七張票，看板一片乾淨，主管在週會上點名稱讚。\n第二週我點開其中幾張，想學一下他是怎麼修的。\n四十一張的處理欄寫著同一句話：非缺陷，設計如此，關閉。\n他沒有說謊，那些票有一半從頭到尾沒有人定義過什麼叫正確。",
+          "editorNote": "適合貼在有人開始用關票速度衡量生產力的那一週。",
+          "variations": [
+            "短版：看板變乾淨的方法有兩種，他選了比較快的那種。",
+            "延伸：沒有人寫下正確長什麼樣子，任何行為都可以叫做符合設計。"
+          ]
+        },
+        "en": {
+          "content": "The new guy closed forty-seven tickets in his first week, the board went clean, and our manager called him out by name at the weekly.\nThe next week I opened a few of them to see how he'd fixed things.\nForty-one had the same line in the resolution field: not a bug, works as designed, closed.\nHe wasn't lying, because half those tickets never had anyone write down what correct was supposed to look like.",
+          "editorNote": "For the week someone starts measuring productivity by tickets closed.",
+          "variations": [
+            "Short version: there are two ways to clean a board and he picked the fast one.",
+            "Extension: when nobody writes down what correct looks like, everything works as designed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-450",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://sre.google/sre-book/postmortem-culture/",
+      "sourceNote": "事後檢討文化中「重啟會清掉現場」的老經驗；改寫成給值班新人的第二人稱指令",
+      "tags": [
+        "工程師日常",
+        "事故",
+        "除錯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "值班第一晚，半夜被叫起來的時候，先別重啟。\n先把當下的畫面、連線數、記憶體用量各截一張圖，丟進你自己的資料夾。\n截完再重啟，服務多半會活過來，你可以回去睡。\n隔天檢討會上，那三張圖會是全公司唯一還記得原因的東西。",
+          "editorNote": "適合在新人第一次被排進值班表的前一天傳給他。",
+          "variations": [
+            "短版：重啟會救回服務，也會把現場一起清乾淨。",
+            "延伸：修好了卻永遠不知道為什麼，這件事會在三個月後再找你一次。"
+          ]
+        },
+        "en": {
+          "content": "First night on call, when the page wakes you up, don't restart anything yet.\nGrab a screenshot of the dashboard, the connection count, and the memory graph, and drop all three in your own folder.\nThen restart it, watch it come back, and go to sleep.\nAt the postmortem the next day, those three screenshots will be the only thing left in the company that still remembers why.",
+          "editorNote": "Send this to the new hire the day before their first on-call rotation.",
+          "variations": [
+            "Short version: a restart saves the service and wipes the crime scene.",
+            "Extension: the fix you never understood comes back for you about three months later."
+          ]
+        }
+      }
     }
   ]
 }

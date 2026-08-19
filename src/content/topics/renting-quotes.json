@@ -9591,6 +9591,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-336",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "old-apartment circuit capacity and shared breakers in subdivided units; the appliance-shift scene is original",
+      "tags": [
+        "套房",
+        "日常",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果我要吹頭髮，就得先把房間的冷氣關掉。\n如果忘了關，總開關會跳，整層樓一起黑掉，我得拿手電筒下樓，在房東的鞋櫃後面把它扳回去。\n這間房只有兩個插座，一個在床頭，一個在門邊，其他全靠一條五公尺的延長線串起來。\n如果哪天我搬去可以同時開冷氣跟微波爐的地方，我大概會站在中間發呆五分鐘，什麼都不做。",
+          "editorNote": "適合傳給那個房間只有兩個插座、每天在心裡排電器班表的朋友",
+          "variations": [
+            "我家的電器有班表，一次只能上工一台。",
+            "跳電三秒之後，我的腳已經知道要往樓下哪個鞋櫃走。"
+          ]
+        },
+        "en": {
+          "content": "If I want to blow-dry my hair, I have to switch off the AC first.\nIf I forget, the breaker trips and the whole floor goes dark, so I take a flashlight downstairs and flip it back behind my landlord's shoe cabinet.\nThis room has two outlets, one by the bed and one by the door, and everything else runs off a single very long extension cord.\nIf I ever move somewhere I can run the AC and the microwave at once, I'll probably just stand in the middle of it for five minutes doing nothing.",
+          "editorNote": "For the friend whose room has two outlets and who mentally schedules which appliance gets to run",
+          "variations": [
+            "My appliances work in shifts, one on the clock at a time.",
+            "Three seconds into a blackout, my feet already know which shoe cabinet to walk to."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-337",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "being sick alone in a rented room, a recurring thread among solo renters; the scene here is written from scratch",
+      "tags": [
+        "套房",
+        "生活",
+        "成年"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "星期天早上，體溫計顯示三十八度五。\n我把棉被從床上拖下來鋪在地板，那裡離冷氣出風口遠一點。\n巷口超商來回七分鐘，我買了退熱貼、一瓶電解質水和一盒白粥。\n回到房間，粥放在桌上等它涼，我躺著看天花板那盞燈亮著，沒有人會來敲門。",
+          "editorNote": "適合傳給第一次自己在外面生病、隔壁房沒有人可以喊的那個朋友",
+          "variations": [
+            "一個人住最現實的一課，是發燒那天要自己走去超商。",
+            "從床到門只有三步，生病那天剛好是三步太遠。"
+          ]
+        },
+        "en": {
+          "content": "Sunday morning, the thermometer read a hundred and one.\nI dragged the comforter off the bed onto the floor, farther from the AC vent.\nSeven minutes round trip to the convenience store for cooling patches, an electrolyte drink, and a container of rice porridge.\nBack in the room the porridge sat cooling on the desk while I lay there watching the ceiling light, and nobody knocked.",
+          "editorNote": "For anyone getting sick alone in a rented room for the first time, with nobody in the next room to call",
+          "variations": [
+            "Living alone gets real the day you walk to the store with a fever.",
+            "Three steps from the bed to the door, and on a sick day that is three steps too far."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-338",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "renters living above street-food stalls and the smell that never leaves their clothes; the garment-narrator device is original",
+      "tags": [
+        "套房",
+        "租屋",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在這扇門後面掛了兩年，我是那件黑外套。\n樓下那攤鹽酥雞晚上六點開火，油煙順著氣窗爬上來，我每天吸滿八個小時。\n主人洗過我三次，換過兩種柔軟精，還把我掛到窗邊吹了一整個週末。\n他今天早上把我拿下來聞了一下，嘆一口氣，然後還是穿著我出門了。",
+          "editorNote": "適合傳給住在小吃街樓上、衣櫃裡每件衣服都是同一種味道的朋友",
+          "variations": [
+            "便宜的房租，有時候是用鼻子在付的。",
+            "我的衣服全部同一種味道，房仲當初說那叫『生活機能好』。"
+          ]
+        },
+        "en": {
+          "content": "Two years on the hook behind this door, and I'm still the black jacket.\nThe fried chicken stand downstairs fires up at six, the smoke climbs in through the vent window, and I take in eight hours of it a night.\nMy owner has washed me three times, tried two kinds of fabric softener, and hung me by the window for an entire weekend.\nThis morning he lifted me down, sniffed me, sighed, and wore me out the door anyway.",
+          "editorNote": "For the friend living above a row of food stalls whose entire closet smells like someone else's dinner",
+          "variations": [
+            "Cheap rent sometimes gets paid with your nose.",
+            "Every shirt I own smells the same, and the listing called that great access to food."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-339",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://www.dcard.tw/f/rent",
+      "sourceNote": "windowless rental bathrooms with dead or unwired exhaust fans; the switch-plate reveal is written fresh",
+      "tags": [
+        "報修",
+        "房東",
+        "套房"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "搬進來半年，我一直以為浴室的抽風機年紀大了，轉不太動。\n毛巾三天不乾，鏡子從早霧到晚，天花板角落慢慢長出一片黑點。\n上個月換燈泡，我順手把牆上的開關面板拆下來，那顆按鈕後面兩條線斷在半空中，什麼都沒接。\n我拍照傳給房東，他回我一句『那顆本來就是裝好看的』，然後就沒有下文了。",
+          "editorNote": "適合傳給浴室沒有窗、也從來沒聽過抽風機轉起來的那位朋友",
+          "variations": [
+            "我家的抽風機開關按下去只有一個功能：讓我覺得自己有在處理。",
+            "那面牆從來沒有通過風，我擦掉一次，它兩個禮拜後長回來。"
+          ]
+        },
+        "en": {
+          "content": "For six months I figured the bathroom fan was just old and tired.\nTowels took three days to dry, the mirror stayed fogged from morning to night, and black spots crept across one corner of the ceiling.\nLast month I changed a bulb, pulled the switch plate off the wall, and found two wires dangling behind that button, connected to nothing.\nI sent my landlord a photo, he replied that the switch had always been decorative, and that was the end of it.",
+          "editorNote": "For the friend with a windowless bathroom whose fan switch has never once made a sound",
+          "variations": [
+            "My bathroom fan switch does exactly one thing: it makes me feel like I'm handling it.",
+            "That wall has never had airflow, so I wipe the mold off and it grows back in two weeks."
+          ]
+        }
+      }
     }
   ]
 }

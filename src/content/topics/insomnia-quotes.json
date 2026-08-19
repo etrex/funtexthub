@@ -9406,6 +9406,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-332",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://news.tvbs.com.tw/life/3270580",
+      "sourceNote": "Informed by Taiwanese reporting on tropical nights and how sustained overnight heat wrecks sleep; rewritten as a plain scene with no health claims",
+      "tags": [
+        "失眠",
+        "夏天",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "把枕頭翻面，涼的那面撐不到十分鐘。\n一隻腳伸到被子外面，過一下又自己收回來。\n爬起來走到客廳，趴在磁磚地上，臉整個貼著地板。\n遙控器就在手邊，我把溫度又往下按了兩格。",
+          "editorNote": "適合夏天夜裡熱到在家裡到處找涼的地方躺的時候。",
+          "variations": [
+            "磁磚地涼的那一塊，我大概三分鐘就躺完了，只好往旁邊挪。",
+            "枕頭兩面都翻過了，現在在等它自己冷回來。"
+          ]
+        },
+        "en": {
+          "content": "I flip the pillow, and the cool side lasts maybe ten minutes.\nOne foot slides out from under the blanket, then pulls itself back in.\nI get up, walk to the living room, and lie face down on the tile floor.\nThe remote is right by my hand, so I knock the temperature down two more notches.",
+          "editorNote": "For summer nights spent migrating around your own apartment looking for a cold surface.",
+          "variations": [
+            "I used up the cool patch of tile in about three minutes and had to shuffle sideways.",
+            "Both sides of the pillow are spent. Now I'm waiting for one to cool back down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-333",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20260221edi007",
+      "sourceNote": "Informed by Taiwanese coverage of a mass online thread where people compared their sleepless nights; rewritten as an original taxonomy joke",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "熬夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把睡不著的夜晚分成三種。\n第一種是躺下去就一路醒著，眼睛閉了四十分鐘還在等。\n第二種是睡到一半彈起來，看一眼時鐘才過五十分鐘。\n第三種是天都快亮了才睡著，而今晚是第三種。",
+          "editorNote": "適合失眠到已經能幫自己的夜晚分類編號的時候。",
+          "variations": [
+            "分類分得這麼熟，代表三種我都很常遇到。",
+            "第三種最難處理，因為鬧鐘不會因為你剛睡著就放過你。"
+          ]
+        },
+        "en": {
+          "content": "I've started sorting my bad nights into three kinds.\nKind one is lying down and staying awake the entire way through, eyes shut for forty minutes and still waiting.\nKind two is snapping upright partway through and learning that only fifty minutes have gone by.\nKind three is falling asleep right as the sky turns gray, and tonight is a kind three.",
+          "editorNote": "For when you've had enough sleepless nights to file them into categories.",
+          "variations": [
+            "Knowing the categories this well means I've collected plenty of each.",
+            "Kind three is the worst, because the alarm doesn't care that you just got there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-334",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://news.tvbs.com.tw/life/3192750",
+      "sourceNote": "Informed by reporting on sleep-regularity research and how irregular schedules push ordinary chores into the small hours; rewritten as an appliance's point of view",
+      "tags": [
+        "失眠",
+        "幽默",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我是洗衣機，平常十點就收工。\n這幾個禮拜，我常常在一點多被按下去，脫水的時候整台在原地抖。\n按我的那隻手不急著等我洗完，人已經回到床上躺著了。\n我轉完之後嗶了三聲，沒有人來收衣服。",
+          "editorNote": "適合半夜找事情做、結果連家電都被拖下水的那種夜晚。",
+          "variations": [
+            "我嗶完三聲就沒事了，你還要躺到天亮。",
+            "凌晨一點半按下開始鍵的人，通常不是為了洗衣服。"
+          ]
+        },
+        "en": {
+          "content": "I'm the washing machine, and I normally clock out around ten.\nThese past few weeks I keep getting switched on past one in the morning, rattling in place through the spin cycle.\nThe hand that pressed my button isn't waiting around for me; it's already back in bed.\nI beep three times when I finish, and nobody comes to collect the laundry.",
+          "editorNote": "For the nights you invent chores at one in the morning and drag your appliances into it.",
+          "variations": [
+            "My three beeps and I'm done. You're still in there till sunrise.",
+            "Nobody starts a load at 1:30 a.m. because of the laundry."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-335",
+      "dateAdded": "2026-08-19",
+      "sourceUrl": "https://news.pts.org.tw/article/759968",
+      "sourceNote": "Informed by Taiwanese public-media reporting on sleep difficulty and pre-bed screen habits; rewritten as a gentle second-person reframe with no treatment advice",
+      "tags": [
+        "失眠",
+        "療癒",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手先停一下，別去算你今晚還剩幾個小時。\n把手機翻過去，螢幕朝下，時間先不歸你管。\n腳伸直，肩膀往下沉，讓被子壓住你一點。\n你現在的工作就是躺著，剩下的等天亮再說。",
+          "editorNote": "適合已經開始倒數還能睡幾小時、越算越醒的時候。",
+          "variations": [
+            "螢幕朝下的那一秒，你就少了一個逼自己的理由。",
+            "先把肩膀放下來，其他的今晚都不必決定。"
+          ]
+        },
+        "en": {
+          "content": "Hold off for a moment before you count how many hours you have left tonight.\nTurn the phone over, screen down, and let the clock stop being yours to manage.\nStraighten your legs, let your shoulders drop, and let the blanket press on you a little.\nLying here is the whole job right now, and the rest can wait for daylight.",
+          "editorNote": "For the point where counting your remaining hours has become the thing keeping you up.",
+          "variations": [
+            "The second that screen goes face down, you lose one way to pressure yourself.",
+            "Shoulders down first. Nothing else has to be decided tonight."
+          ]
+        }
+      }
     }
   ]
 }
