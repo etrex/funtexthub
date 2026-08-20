@@ -8495,19 +8495,19 @@
       "tags": ["家人", "冷氣", "自嘲"],
       "i18n": {
         "zh-tw": {
-          "content": "我家對「開一下就好」這句話有自己的算法。\n它指的是從按下開機，一路到隔天早上有人被冷醒為止的那整段時間，中間沒有任何人提出異議。\n我媽每天晚上十點都會講一次，講完就回房間睡了。\n這四個字在我家的功能，比較接近一種開場白。",
-          "editorNote": "適合貼在全家每個人都說只開一下、結果沒有人記得關的那些夜晚",
+          "content": "「冷氣開一下就好，不要開整晚喔。」\n「好啦。」\n「你上次也是這樣講，我早上六點進你房間，冷得跟冰庫一樣。」\n「那我設兩點自動關掉好了。」\n「設兩點你三點就會爬起來重開，我看過，而且你還會順手把溫度再調低。」\n「那你說要設幾點？」\n「我又沒有說不能開，我是說開一下就好。」\n「所以到底是幾點。」\n「就開一下就好啊。」",
+          "editorNote": "適合傳給那個家裡每晚都在為冷氣定時吵三分鐘的人",
           "variations": [
-            "在我家，開一下就好是一種沒有結束時間的講法。",
+            "「那要設幾點？」「就開一下就好啊。」",
             "我媽說的一下，長度大概等於一個晚上。"
           ]
         },
         "en": {
-          "content": "In my family, \"just for a little while\" comes with its own math.\nIt covers everything from the moment the button gets pressed to whenever somebody wakes up cold the next morning, and nobody files a complaint in between.\nMy mom says it every night around ten, then heads straight to bed.\nIn our house those four words are basically the sound of a full night shift starting.",
-          "editorNote": "For the nights when everyone swears it's only for a minute and nobody gets up to turn it off",
+          "content": "\"Just run the AC for a bit, don't leave it on all night.\"\n\"Okay, okay.\"\n\"You said that last time too. I opened your door at six and it was a walk-in freezer.\"\n\"Fine, I'll set the timer to shut off at two.\"\n\"Set it for two and you'll be up at three turning it back on. I've seen you. You turn it down a degree while you're at it.\"\n\"Then you tell me what time.\"\n\"I never said you can't run it. I said run it for a bit.\"\n\"Okay but what time.\"\n\"For a bit is what time.\"",
+          "editorNote": "For anyone whose household relitigates the AC timer every single night",
           "variations": [
-            "At my place, a little while has no stated end time.",
-            "My mom's little while runs about eight hours."
+            "\"So what time?\" \"Just for a bit.\"",
+            "My mom's \"a bit\" runs about eight hours."
           ]
         }
       }
