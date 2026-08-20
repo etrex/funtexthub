@@ -9836,6 +9836,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-363",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.cw.com.tw/article/5138803",
+      "sourceNote": "旅宿業缺工與人力政策報導；房務場景為原創虛構",
+      "tags": [
+        "服務業",
+        "房務",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "退房後的床單捲成一團塞在椅子上，浴巾倒是疊得整整齊齊放在浴缸邊。\n我把床單抖開，掉出一張對折的便條紙和兩顆包好的巧克力。\n紙上寫著房間有點吵、水壓有點小，字跡客氣到讓人不好意思生氣。\n最後一行是：「我媽以前也做這個，記得吃飯。」",
+          "editorNote": "給旅宿房務的夥伴，房間裡沒有人看得到你，偶爾有一張紙條看得到。",
+          "variations": [
+            "那兩顆巧克力沒有寫在任何一條 SOP 裡。",
+            "有人記得你在門的另一邊，這件事可以撐很久。"
+          ]
+        },
+        "en": {
+          "content": "After checkout the sheets were balled up on the chair, while the bath towels sat folded neatly on the edge of the tub.\nI shook the sheets out and a folded note and two wrapped chocolates dropped onto the carpet.\nThe note said the room was a little loud and the water pressure was a little weak, written so politely I couldn't even be annoyed.\nThe last line said: my mom used to do this job, please remember to eat.",
+          "editorNote": "For hotel housekeeping, nobody in that room ever sees you, and once in a while a note does.",
+          "variations": [
+            "Those two chocolates aren't written into any SOP.",
+            "Somebody remembering you're on the other side of that door goes a long way."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-364",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.ctwant.com/article/490317/",
+      "sourceNote": "民生服務業每職缺不到 0.28 人應徵的缺工報導；門市場景為原創虛構",
+      "tags": [
+        "服務業",
+        "缺工",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "玻璃門上那張徵人海報，今天是第四十七天。\n四十七天裡，投履歷的六個、來面試的三個、上班撐過一天的零個。\n我們五個人把七個人的班表切開分完，平均一個人一個月多站二十六個小時。\n店長說再撐一下就會有人來，這句話我在四十七天裡聽到的次數，比履歷還多。",
+          "editorNote": "給長期缺人的門市夥伴，海報貼多久，你們的腿就撐多久。",
+          "variations": [
+            "少一個人的班表，是五個人一起在補。",
+            "徵人海報被曬到褪色，也算一種年資。"
+          ]
+        },
+        "en": {
+          "content": "The hiring sign taped to our glass door hit day forty-seven this morning.\nForty-seven days: six applications, three interviews, zero people who came back for a second shift.\nFive of us split a schedule built for seven, which works out to twenty-six extra hours on your feet every month.\nThe manager keeps saying someone will turn up soon, and in forty-seven days I've heard that line more times than we've had applicants.",
+          "editorNote": "For every store that's been short-staffed for months, the sign stays up as long as your legs hold out.",
+          "variations": [
+            "A schedule missing one person gets covered by all five of us.",
+            "A hiring sign faded by the sun counts as seniority too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-365",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.dcard.tw/f/job/p/257352033",
+      "sourceNote": "服務業打工心得討論串；花店場景為原創虛構",
+      "tags": [
+        "服務業",
+        "花店",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每次我把門口那幾個水桶刷乾淨、換上新的水，那天下午店裡就會有人哭。\n上禮拜是一位先生，挑了一束白的，說要送去一個不用簽收的地方。\n昨天是個高中生，捧著五百塊的預算在冰櫃前面站了半個小時。\n所以我現在盡量禮拜三才刷桶子，禮拜三的水比較不會出事。",
+          "editorNote": "給花店的你，賣出去的是花，收下來的常常是人家說不出口的那一件事。",
+          "variations": [
+            "包花的那張紙擋得住很多東西，眼淚也算。",
+            "禮拜三的水，是這家店裡我唯一控制得了的變因。"
+          ]
+        },
+        "en": {
+          "content": "Every time I scrub out the buckets by the door and fill them with fresh water, somebody cries in the shop that afternoon.\nLast week it was a man who picked the white ones and said they were going somewhere nobody signs for.\nYesterday it was a high schooler who stood at the cooler for half an hour with twenty dollars to work with.\nSo now I try to only scrub the buckets on Wednesdays, because Wednesday water tends to behave.",
+          "editorNote": "For florists, what you sell is flowers and what you take in is whatever the customer couldn't say out loud.",
+          "variations": [
+            "Wrapping paper hides a lot of things, tears included.",
+            "Wednesday water is the only variable in this shop I actually control."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-366",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://udn.com/news/story/7269/9644164",
+      "sourceNote": "104 人才白皮書服務業招募難度報導；手機門市維修台場景為原創虛構",
+      "tags": [
+        "服務業",
+        "門市",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上推到我面前的那支手機，主人說是相機裡跑進灰塵。\n接著是充電孔鬆掉的、螢幕邊角翹起來的、還有把整包配件倒在桌上要我認哪一條是原廠的。\n我一支一支拆開，一支一支裝回去，中間喝掉半杯早就涼掉的水。\n下午那位阿伯把手機放下來，說兒子三個月沒接他電話了，想問問看是機器壞了嗎？",
+          "editorNote": "給手機門市維修台的夥伴，你手上修的是機器，人家想確認的常常是另外一件事。",
+          "variations": [
+            "有些人把手機拿來，是想幫一支沒響的電話找個理由。",
+            "能填進維修單那一欄的故障，都算好處理的。"
+          ]
+        },
+        "en": {
+          "content": "The phone that slid across my counter first thing this morning had dust in the camera, according to its owner.\nAfter that came a loose charging port, a screen lifting at one corner, and a whole bag of cables dumped out so I could point at the original one.\nI opened each one up, put each one back together, and drank half a cup of water that had gone cold hours earlier.\nIn the afternoon an older man set his phone down and asked if it was broken, because his son hadn't picked up in three months.",
+          "editorNote": "For everyone working a phone repair counter, the machine is what you fix and it's rarely what the person came to find out.",
+          "variations": [
+            "Some people bring a phone in hoping the silence isn't their fault.",
+            "Any problem that fits on a repair ticket is one of the easy ones."
+          ]
+        }
+      }
     }
   ]
 }

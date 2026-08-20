@@ -7836,7 +7836,7 @@
       ],
       "i18n": {
         "zh-tw": {
-          "content": "今年生日，我媽幫我插蠟燭，\n插到一半停下來。\n\n我說：「怎麼了？」\n\n她說：「蛋糕太小，插不下。」\n\n我說：「那少插幾根。」\n\n她想了一下，\n默默去廚房拿了一個滅火器\n放在桌上。\n\n「不然這樣，」她說，\n「我們改成用『生日營火』的規格辦，\n比較安全。」\n\n那天我許的願望是：\n「明年拜託换個更大的蛋糕，\n不然就換個更小的年紀。」\n\n兩個願望，\n生命都沒有打算幫我實現。",
+          "content": "今年生日，我媽幫我插蠟燭，\n插到一半停下來。\n\n我說：「怎麼了？」\n\n她說：「蛋糕太小，插不下。」\n\n我說：「那少插幾根。」\n\n她想了一下，\n默默去廚房拿了一個滅火器\n放在桌上。\n\n「不然這樣，」她說，\n「我們改成用『生日營火』的規格辦，\n比較安全。」\n\n那天我許的願望是：\n「明年拜託換個更大的蛋糕，\n不然就換個更小的年紀。」\n\n兩個願望，\n生命都沒有打算幫我實現。",
           "editorNote": "傳給即將邁入新一個十字頭、對生日有點複雜情緒的朋友。笑點在蠟燭多到要準備滅火器——但最後那句許願的無力感，才是所有中年人心照不宣的真心話。",
           "variations": [
             "我媽補了一句：「蠟燭錢都快比蛋糕貴了。」我說：「那明年直接放一根，寫個『以此類推』就好。」",
@@ -11619,6 +11619,122 @@
           "variations": [
             "Same energy: I opened her account, then opened mine, and the two screens should not be viewed together.",
             "Extended: her account has a maturity date and mine doesn't, so she is guaranteed to get there first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-411",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "",
+      "sourceNote": "深夜自助洗衣店的場景白描，原創",
+      "tags": [
+        "孤獨",
+        "現代生活",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "晚上十一點的自助洗衣店只有我一個人，烘衣機轉得很吵。\n\n我把手機架在洗衣籃上看影片，一集播完衣服還沒乾。\n\n旁邊四張塑膠椅都空著，我坐在最中間那張，沒有想走。\n\n這是我這個禮拜待最久、而且沒有人叫我做事的地方。",
+          "editorNote": "適合加班完、或週末一個人在外面跑雜事的晚上發。",
+          "variations": [
+            "同款：投幣的時候我算了一下，六十塊可以買到四十分鐘沒有人找我。",
+            "延伸版：衣服乾了我還多坐了一輪，反正回去也是一個人。"
+          ]
+        },
+        "en": {
+          "content": "It's eleven at night and I'm the only one in the laundromat, one dryer rumbling in the corner.\n\nI prop my phone on the basket and get through a whole episode before the clothes are anywhere near dry.\n\nFour plastic chairs sit empty beside me and I'm in the middle one, in no hurry to leave.\n\nThis is the longest I've spent all week somewhere nobody is asking me to do anything.",
+          "editorNote": "Good for a late weeknight post after errands, or when a friend jokes about the glamorous adult life.",
+          "variations": [
+            "Same energy: two bucks in quarters buys forty minutes where nobody can reach me.",
+            "Extended: the clothes were dry and I ran one more cycle anyway, because home is just as quiet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-412",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://tw.stock.yahoo.com/news/7%E6%88%90%E4%B8%8A%E7%8F%AD%E6%97%8F%E9%A0%98%E4%B8%8D%E5%88%B0%E5%B9%B3%E5%9D%87%E8%96%AA%E8%B3%87%EF%BC%812026%E5%8F%B0%E7%81%A3%E9%99%B7%E3%80%8Ck%E5%9E%8B%E7%B6%93%E6%BF%9F%E3%80%8D%E6%B3%A5%E6%B7%96%EF%BC%9F%E7%82%BA%E4%BD%95gdp%E5%89%B515%E5%B9%B4%E6%96%B0%E9%AB%98%EF%BC%8C%E4%BD%A0%E5%8D%BB%E9%AB%94%E6%84%9F%E8%B2%A7%E7%AA%AE%EF%BC%9F-064134804.html",
+      "sourceNote": "取材自 2026 年「平均總薪資破六萬、年增率二十六年新高，但近七成上班族領不到平均」的報導數字；辦公室十四人換算、省成本會議的收尾為原創",
+      "tags": [
+        "金錢",
+        "職場",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年的平均總薪資突破六萬，年增率是二十六年來最高的一次。\n\n同一份報告翻到後面幾頁，將近七成的人領不到那個六萬。\n\n我們辦公室坐了十四個人，照這個比例大概有十個在那條線的下面。\n\n今天早上的會議開了一小時，主題是怎麼幫公司再省一點成本。",
+          "editorNote": "適合薪資統計上新聞的那幾天，或公司宣布要控管預算的時候發。",
+          "variations": [
+            "同款：我把六萬乘十二，再對一次自己的年收，然後把計算機關掉。",
+            "延伸版：老闆說我們要一起變好，他講的那個我們，跟我講的不太一樣。"
+          ]
+        },
+        "en": {
+          "content": "Average total pay here just cleared sixty thousand a month, the biggest yearly jump in twenty-six years.\n\nFlip to the back of the same report and almost seventy percent of people never see that sixty.\n\nFourteen of us sit in this office, so by that ratio about ten are parked under the line.\n\nThis morning's hour-long meeting was about how to trim a little more cost for the company.",
+          "editorNote": "Post it the week wage stats hit the news, or the day your company announces a budget freeze.",
+          "variations": [
+            "Same energy: I multiplied that number by twelve, compared it to my W-2, and closed the calculator.",
+            "Extended: the boss says we're all going to do better together, and his we is not my we."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-413",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://appi.news/articles/taipower-october-price-freeze-subsidy-2026/",
+      "sourceNote": "取材自 2026 年台電上半年虧損兩百五十七億、經濟部爭取十月電價凍漲的報導；冷氣調高兩度與虧損之間的偽因果為原創",
+      "tags": [
+        "現代生活",
+        "諷刺",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年夏天我把冷氣的設定往上調了兩度，半夜常常熱醒。\n\n台電上半年還是虧了兩百五十七億。\n\n我在心裡把這兩件事連在一起，然後就再也沒有調回去過。\n\n我這輩子為國家做過最實際的貢獻，大概就停在這裡了。",
+          "editorNote": "適合電價審議上新聞、或家裡在吵冷氣要開幾度的時候發。",
+          "variations": [
+            "同款：我少開一小時冷氣，帳單少了十幾塊，那個洞還是在那裡。",
+            "延伸版：我媽問我為什麼今年電費沒有變少，我說我已經盡力了。"
+          ]
+        },
+        "en": {
+          "content": "This summer I nudged the thermostat up two degrees and started waking up sweating at three in the morning.\n\nThe power company still posted a loss of about eight hundred million dollars for the first half of the year.\n\nI quietly filed those two facts together and never touched the dial again.\n\nThat is probably the most concrete thing I will ever do for my country.",
+          "editorNote": "Use it during a rate hearing, or the next time your household is arguing about the thermostat.",
+          "variations": [
+            "Same energy: I ran the AC one hour less, saved about fifty cents, and the deficit did not blink.",
+            "Extended: my mom asked why the bill didn't drop this year, and I told her I gave it everything I had."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-414",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://dailyview.tw/daily/5349",
+      "sourceNote": "取材自 2026 年十大詐騙手法報導中「帳戶異常」類假通知簡訊；未讀通知清單與「只有詐騙集團把名字打對」的收尾為原創",
+      "tags": [
+        "現代生活",
+        "諷刺",
+        "孤獨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把這個月的未讀通知從頭翻了一次，牙醫提醒我回診、電信公司提醒我繳費、健身房提醒我已經一年沒去。\n\n最後一則是陌生號碼傳的，說我的帳戶有異常登入，要我馬上點進去確認。\n\n前面三則的開頭都寫「親愛的用戶」。\n\n只有詐騙集團把我的名字打對了。",
+          "editorNote": "適合被詐騙簡訊轟炸的那幾天，或朋友在抱怨垃圾訊息的時候發。",
+          "variations": [
+            "同款：這個月主動找我的訊息有四則，三則要錢，一則要密碼。",
+            "延伸版：我把那則檢舉掉之後，收件匣安靜得有點過分。"
+          ]
+        },
+        "en": {
+          "content": "I scrolled back through a month of unread alerts: the dentist wants me in for a cleaning, the phone company wants payment, the gym wants me to know I haven't shown up in a year.\n\nThe last one came from an unknown number, claiming a suspicious login on my account and telling me to tap in right now.\n\nAll three of the real ones open with \"Dear valued customer.\"\n\nThe scammers were the only ones who spelled my name right.",
+          "editorNote": "Good for a week when the scam texts won't stop, or when a friend is venting about spam.",
+          "variations": [
+            "Same energy: four messages reached out to me this month, three wanted money and one wanted my password.",
+            "Extended: I reported it, and now the inbox is quiet in a way I don't love."
           ]
         }
       }

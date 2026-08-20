@@ -8118,7 +8118,7 @@
       ],
       "i18n": {
         "zh-tw": {
-          "content": "我對著桌上的小鴨解釋我的 bug，\n講到第三行的時候，\n我懂了，鴨子也懂了，\n但只有鴨子知道要保持沈默。",
+          "content": "我對著桌上的小鴨解釋我的 bug，\n講到第三行的時候，\n我懂了，鴨子也懂了，\n但只有鴨子知道要保持沉默。",
           "editorNote": "適合傳給第一次聽到「小黃鴨除錯法」還一臉問號的新人。",
           "variations": [
             "解決方案通常在你講完問題的那一刻自己冒出來，鴨子只是見證者",
@@ -12654,6 +12654,122 @@
           "variations": [
             "Short version: a restart saves the service and wipes the crime scene.",
             "Extension: the fix you never understood comes back for you about three months later."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-451",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Debugging",
+      "sourceNote": "「追兩天最後改一個字元」的除錯日常；改寫成週六空辦公室的場景白描，收尾翻情緒",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "工程師生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "星期六下午三點，整層樓只剩下我跟空調的聲音。\n那個追了兩天的問題，最後改動是一個字元，我盯著那一行看了很久才按下儲存。\n收東西的時候我把桌上那杯冷掉的咖啡拿去倒，順手把同事的椅子推回桌下。\n走到門口伸手關燈，我發現自己有點捨不得離開。",
+          "editorNote": "適合週末自己進辦公室把東西修好、站在門口那一刻想發個動態的時候。",
+          "variations": [
+            "短版：修好的那一刻整層樓很安靜，安靜到有點捨不得走。",
+            "延伸：兩天換一個字元值不值得，大概只有那層樓的燈知道。"
+          ]
+        },
+        "en": {
+          "content": "Three in the afternoon on a Saturday, and the whole floor is down to me and the sound of the air conditioning.\nTwo days chasing that bug, and the fix turns out to be one character, so I sit there staring at the line before I hit save.\nPacking up, I dump the cold coffee off my desk and push my coworker's chair back under on the way past.\nReaching for the light switch at the door, I catch myself not really wanting to leave.",
+          "editorNote": "For the moment you finish a weekend fix alone and end up lingering at the door.",
+          "variations": [
+            "Short version: the moment it finally works is so quiet you don't want to walk out of it.",
+            "Extension: two days for one character, and the only witness was the floor lights."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-452",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.digitalapplied.com/blog/ai-coding-tool-adoption-2026-developer-survey",
+      "sourceNote": "2026 年 AI 工具採用調查引發的「履歷同質化、面試改考排查能力」討論；改寫成面試官視角、以三十一這個數字貫穿",
+      "tags": [
+        "面試",
+        "工程師思維",
+        "AI"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年到現在，我面了三十一個後端職缺的候選人。\n三十一份履歷都寫著熟悉 AI 協作開發、交付速度大幅提升。\n我後來把題目換掉：這支查詢在我們正式環境跑了三年，這個月開始變慢，你會先做什麼。\n三十一個人裡有四個先問我能不能看監控，我們最後錄取的兩個都在那四個裡面。",
+          "editorNote": "適合在幫團隊重寫面試題目、或看到一疊履歷長得一模一樣的那天。",
+          "variations": [
+            "短版：三十一份履歷寫得幾乎一樣，分高下的是誰先問資料在哪裡。",
+            "延伸：會用工具的人很多，願意先走過去看一眼現場的人比較少。"
+          ]
+        },
+        "en": {
+          "content": "So far this year I've interviewed thirty-one people for backend roles.\nAll thirty-one résumés mentioned AI-assisted development and a big jump in delivery speed.\nSo I swapped the question: this query has run in our production for three years and started crawling this month, what do you do first?\nFour of the thirty-one asked whether they could look at the dashboards, and both of the people we hired came out of those four.",
+          "editorNote": "For the day you rewrite the team's interview questions, or open a stack of identical résumés.",
+          "variations": [
+            "Short version: thirty-one near-identical résumés, and the tiebreaker was who asked to see the data.",
+            "Extension: plenty of people can drive the tools; fewer will walk over and look at the scene."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-453",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation",
+      "sourceNote": "相關不等於因果的老命題；改寫成辦公室掛鐘電池與凌晨排程準時的迷信，刻意不解釋",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "工程師文化"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上個月網管把會議室那個掛鐘的電池換掉了。\n從那天起，每天凌晨四點那支對帳排程再也沒有遲到過。\n沒有人改過設定，那支程式最後一次被動到是 2022 年的事。\n現在掛鐘走得很準，也沒有人敢靠近那面牆。",
+          "editorNote": "適合在團隊開始長出各種上線儀式跟禁忌動作的時候貼出來。",
+          "variations": [
+            "短版：原因不明，但那面牆現在誰都不准碰。",
+            "延伸：查不出來卻自己好了的東西，通常會在半年內變成一條規矩。"
+          ]
+        },
+        "en": {
+          "content": "Last month our IT guy replaced the battery in the conference room wall clock.\nSince that day the 4 a.m. reconciliation job has not run late once.\nNobody touched any config, and the last commit on that thing is dated 2022.\nThe clock keeps perfect time now, and nobody goes near that wall.",
+          "editorNote": "For the week your team starts growing deploy rituals and forbidden moves.",
+          "variations": [
+            "Short version: cause unknown, and that wall is now off limits.",
+            "Extension: anything that fixes itself without explanation becomes a house rule within six months."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-454",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://sre.google/sre-book/release-engineering/",
+      "sourceNote": "上線檢查表文化；改寫成牆上印刷條目之外多出一行手寫的破格項目",
+      "tags": [
+        "工程師日常",
+        "上線",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上線檢查表印出來貼在茶水間門邊，字放得很大，走過去就看得到。\n上面寫著測試要全綠、備份要是當天的、值班的人要在線上。\n最下面多出一行手寫的，墨水顏色跟印刷的不一樣：確認產品經理今天心情不錯。\n那行字是誰加的沒有人承認，可是三年來也沒有人把它擦掉。",
+          "editorNote": "適合在群組討論上線流程要不要再加一條規定的時候丟出來。",
+          "variations": [
+            "短版：檢查表上最準的那一條，是手寫的那一條。",
+            "延伸：正式流程管得住系統，管不住當天誰會回你信。"
+          ]
+        },
+        "en": {
+          "content": "The deploy checklist is printed and taped beside the pantry door, big type, readable from across the room.\nTests all green, backup taken today, someone on call and actually online.\nAt the bottom there's one extra line in handwriting, in different ink from the print: confirm the PM is in a good mood.\nNobody will admit to adding it, and in three years nobody has rubbed it out either.",
+          "editorNote": "For the thread where everyone is debating whether the release process needs one more rule.",
+          "variations": [
+            "Short version: the most accurate line on the checklist is the handwritten one.",
+            "Extension: the official process covers the system, not who answers your email that day."
           ]
         }
       }

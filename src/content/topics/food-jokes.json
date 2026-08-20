@@ -10304,6 +10304,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-362",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.limedia.tw/comm/72627/",
+      "sourceNote": "2026 台灣美食展餐券限量完售的報導，改寫為說明書口吻笑話",
+      "tags": [
+        "美食展",
+        "物價",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "本券自發行日起一年內有效，有效期間不包含你真的有空的那幾天。\n使用時須一次抵用完畢，沒用完的金額視為你對美食的心意。\n本券限平日午餐時段使用，例假日、連續假期與所有你想慶祝的日子皆不適用。\n若到期仍未使用，本店將認定你已經在心裡完成一次用餐。",
+          "editorNote": "適合轉給那個抽屜裡躺著三張餐券的朋友。",
+          "variations": [
+            "加碼：餐券最常見的用途，是提醒你上次也沒去成。",
+            "換場景：家電保固卡的條款寫得比餐券還長，兩張還放在同一個抽屜。"
+          ]
+        },
+        "en": {
+          "content": "This voucher is valid for one year from the date of issue, not counting the days you are actually free. It must be redeemed in one visit, and whatever value you leave behind counts as your contribution to the culinary arts. Weekday lunch only, which rules out weekends, long holidays, and every occasion you might want to celebrate. If it expires unused, we will consider the meal to have taken place in your imagination.",
+          "editorNote": "Good for the friend with three expired gift certificates in a drawer.",
+          "variations": [
+            "Bonus: a voucher mostly exists to remind you that you skipped last time too.",
+            "Another setting: the appliance warranty card runs longer than the voucher, and both live in that same drawer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-363",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://funtexthub.com/topics/food-jokes",
+      "sourceNote": "深夜外送免運推播打斷戒宵夜宣言的常見情境 — original 2026",
+      "tags": [
+        "外送",
+        "鹹酥雞",
+        "減肥"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在群組裡打字，打到「我從今天開始戒宵」的時候，外送平台跳出一則通知。\n通知說我常點的那家鹹酥雞今晚免運，只到十一點。\n我把打到一半的那句刪掉，換成一張貼圖，群組裡沒有人追問。\n十一點零二分我在門口簽收，順手回覆了早上那句你最近好像瘦了。",
+          "editorNote": "適合半夜下單之後，拿來安慰自己的那則貼文。",
+          "variations": [
+            "加碼：免運門檻永遠剛好比你的決心低一點。",
+            "換角度：宵夜的勝負，在推播跳出來的那一秒就分完了。"
+          ]
+        },
+        "en": {
+          "content": "I was halfway through typing \"starting tonight, no more late-night sna\" in the group chat when a delivery notification slid in. My usual fried chicken place had free delivery until eleven. I deleted the unfinished sentence, sent a sticker instead, and nobody asked what I meant. At 11:02 I signed for the bag at my door, then finally replied to the message from that morning saying I looked slimmer.",
+          "editorNote": "For the post you write right after a midnight order lands.",
+          "variations": [
+            "Bonus: the free-delivery threshold always sits just below your willpower.",
+            "Another angle: late-night snacking gets decided the second the push notification arrives."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-364",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://funtexthub.com/topics/food-jokes",
+      "sourceNote": "週間備餐計畫每週重來一次的常見情境 — original 2026",
+      "tags": [
+        "上班族",
+        "超商",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "省錢自炊的標準流程，是週日晚上到賣場把整週的菜一次買齊。\n回家分裝成七個保鮮盒，貼上標籤，星期幾寫得清清楚楚。\n週三加班到九點，你會在超商門口站三分鐘，然後帶走一份微波義大利麵。\n剩下的四盒留到下個週日，這樣你就能原封不動地重跑一次同樣的流程。",
+          "editorNote": "適合貼在冰箱門上，給每個週日晚上都很有信心的自己。",
+          "variations": [
+            "加碼：備餐計畫的成功率，跟這週有沒有臨時會議直接相關。",
+            "換場景：健身房月費也適用同一套流程，差別在保鮮盒還看得見。"
+          ]
+        },
+        "en": {
+          "content": "The correct way to save money on food is to buy a whole week of groceries on Sunday night. Portion everything into seven containers when you get home, label them, write the day of the week nice and clear. On Wednesday you will work until nine, stand outside the convenience store for three minutes, and walk out with a microwave pasta. Keep the last four containers until next Sunday, so you can run the exact same plan again from the top.",
+          "editorNote": "Stick it on the fridge for the version of you that feels confident every Sunday.",
+          "variations": [
+            "Bonus: meal-prep success depends entirely on whether a surprise meeting shows up.",
+            "Another setting: a gym membership follows the same plan, except the containers stay visible."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-365",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://funtexthub.com/topics/food-jokes",
+      "sourceNote": "牛肉麵店等餐時的環境細節 — original 2026",
+      "tags": [
+        "牛肉麵",
+        "麵食",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牛肉麵店的電視在重播昨天的球賽，比分門口那桌早就講完了。\n牆上的手寫菜單被膠帶補過四次，價格那一格的紙比旁邊白。\n電風扇每轉到我這邊一次，就順便把隔壁桌的辣油味帶過來，一分鐘兩次。\n我的麵二十分鐘後才端上桌，那時候我已經在腦子裡吃完三碗了。",
+          "editorNote": "適合配一張等餐時隨手拍的店內照片。",
+          "variations": [
+            "加碼：等麵的那二十分鐘，會讓人把整間店的細節都背起來。",
+            "換場景：早餐店的等待，是看著鐵板上的蛋餅一片一片被別人領走。"
+          ]
+        },
+        "en": {
+          "content": "The TV in the beef noodle shop is replaying yesterday's game, and the table by the door already spoiled the score. The handwritten menu on the wall has been patched with tape four times, and the paper over the prices is whiter than everything around it. Every time the fan swings my way it carries the chili oil from the next table with it, twice a minute. My bowl landed twenty minutes later, by which point I had eaten three of them in my head.",
+          "editorNote": "Pairs with a photo you took of the shop while waiting.",
+          "variations": [
+            "Bonus: twenty minutes of waiting will teach you every detail of a restaurant.",
+            "Another setting: at a breakfast shop you watch the griddle hand out other people's egg crepes one by one."
+          ]
+        }
+      }
     }
   ]
 }

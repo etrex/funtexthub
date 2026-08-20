@@ -7713,6 +7713,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fdq-304",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Frame: scene-only description with the emotional turn held to the last line. Grepped 行李/客運/月台 — zero existing uses; kept distinct from fdq-285 (dad inspecting a rental) and fdq-292 (graduation, hallway) by staying on a departure platform and ending on the forgotten fruit bag",
+      "tags": [
+        "爸爸",
+        "接送",
+        "離別"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我搭的是九點四十那班客運，他八點五十就把車停進站前的接送格。\n他先繞到後車廂把行李拖下來，拉桿抽出來又壓回去試了兩次，然後彎腰撿走我掉在椅縫的耳機。\n等車的時候他一直抬頭看跑馬燈，說這班有時候會提早，同一句話講到第三遍我才發現他從頭到尾沒坐下來。\n車開出站的時候我往窗外看，他還站在原本那個位置，手上拎著我忘了拿的那袋水果。",
+          "editorNote": "適合寫爸爸送你出遠門、什麼都幫你顧好卻不說的貼文。",
+          "variations": [
+            "他沒說捨不得，倒是把我的行李拉桿試了兩次。",
+            "車開了我才發現，他從頭到尾一次都沒坐下來。"
+          ]
+        },
+        "en": {
+          "content": "My bus was the 9:40, and he had the car in the drop-off row by 8:50.\nHe went to the trunk first, hauled my suitcase out, ran the handle up and down twice to test it, then bent over and fished my earbuds out of the crack in the seat.\nWhile we waited he kept looking up at the departure board saying this route sometimes leaves early, and it took him three rounds of that before I noticed he never sat down.\nAs the bus pulled out of the station I looked back through the window, and he was standing in the exact same spot, holding the bag of fruit I forgot to take.",
+          "editorNote": "For posts about a dad who sees you off and quietly handles everything without mentioning it.",
+          "variations": [
+            "He never said he would miss me, but he tested that suitcase handle twice.",
+            "The bus was already moving when I realized he never once sat down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-305",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Frame: quantified narrative, the number itself carries the payoff. Grepped 菸/戒 — only fdq-272 mentions smoking in passing (grandpa nagging), so the quit-count angle is fresh; kept clear of fdq-213 (savings passbook) and fdq-168 (grandpa softening)",
+      "tags": [
+        "爸爸",
+        "健康",
+        "阿公"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "戒菸這件事，我爸做過十一次。\n前十次的成績分別是三天、兩個禮拜、一個月，還有一次撐到當天下午三點就破功。\n第十一次是從我女兒出生那年開始的，到今年八月剛好滿六年。\n我算過，六年是兩千一百九十天，換成他以前的量，等於有四萬三千根菸沒有被點起來。",
+          "editorNote": "適合寫爸爸為了家人默默改掉一個習慣的貼文。",
+          "variations": [
+            "前十次都破功，第十一次他撐了六年。",
+            "四萬三千根沒點的菸，他一次都沒拿出來講。"
+          ]
+        },
+        "en": {
+          "content": "Quitting smoking is something my dad has done eleven times.\nThe first ten runs lasted three days, two weeks, a month, and one that folded by three in the afternoon of the same day.\nNumber eleven started the year my daughter was born, and this August it hits six years.\nI ran the math once: six years is 2,190 days, which at his old pace works out to roughly 43,000 cigarettes he never lit.",
+          "editorNote": "For posts about a dad who dropped a habit for his family and never made a speech about it.",
+          "variations": [
+            "Ten tries that folded, and one that has held for six years.",
+            "Forty-three thousand cigarettes he never lit, and he has never brought it up once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-306",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Frame: two unrelated things asserted as cause and effect, played straight with no debunking. Grepped 股票 — zero existing uses in this topic; the dad-logic register is close to fdq-160 (fuel-price faith) but the object and the ask are different",
+      "tags": [
+        "爸爸",
+        "幽默",
+        "迷之自信"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "在我爸的世界觀裡，他手上那幾檔會不會綠，跟我有沒有回家吃飯是連動的。\n去年十月我連兩個週末加班沒回去，他說那個月他賠掉一支新手機的錢。\n後來我回去吃了兩次飯，隔週剛好漲上來，他就把這件事很慎重地抄在那本記明牌的小本子第一頁。\n現在每個禮拜五下午收盤，我手機就會震一下：明天回來吃飯嗎。",
+          "editorNote": "適合寫爸爸用各種歪理把你騙回家吃飯的貼文。",
+          "variations": [
+            "他的持股表現，被他歸因於我幾點坐上餐桌。",
+            "每個禮拜五收盤，那則訊息就準時報到。"
+          ]
+        },
+        "en": {
+          "content": "In my dad's model of the universe, whether his stocks are in the red is directly tied to whether I come home for dinner.\nLast October I worked two weekends in a row and skipped both visits, and he says that month cost him the price of a new phone.\nThen I came back for dinner twice, the numbers climbed the following week, and he wrote it down very solemnly on page one of the little notebook where he tracks his picks.\nNow my phone buzzes every Friday right after the market closes: coming home to eat tomorrow?",
+          "editorNote": "For posts about a dad who invents whatever logic gets you to the dinner table.",
+          "variations": [
+            "His portfolio's performance, in his telling, depends on my seat at the table.",
+            "Market closes Friday, and the text lands right on schedule."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fdq-307",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "",
+      "sourceNote": "Original composition. Frame: a list of same-kind items where the last one breaks the pattern. Grepped 便條 (zero uses) and 冰箱 (used for leftovers/stocking humor, not notes); kept clear of fdq-271 (contact list with labels) by using handwriting on a fridge door and a date he never needs to check",
+      "tags": [
+        "爸爸",
+        "冰箱",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老家冰箱門上貼滿了紙條，全部都是同一支紅筆寫的。\n「出門前檢查瓦斯」、「藥飯後吃」、「水電費十五號」、「垃圾車一三五，六點四十」，字大到站在客廳都看得見。\n他說年紀大了記性不好，寫下來比較保險。\n最角落那張已經泛黃，上面寫著「兒子 九月十四」，是唯一一張他從來不需要看的。",
+          "editorNote": "適合寫爸爸把全家的事都記在冰箱門上的貼文。",
+          "variations": [
+            "他什麼都要寫下來，除了我的生日。",
+            "同一支紅筆，寫滿了一整面的家。"
+          ]
+        },
+        "en": {
+          "content": "The fridge door back home is covered in notes, every one of them in the same red pen.\n\"Check the gas before you go out.\" \"Pills after meals.\" \"Utility bill on the 15th.\" \"Trash truck Mon Wed Fri, 6:40.\" All of it in letters big enough to read from the couch.\nHe says his memory is not what it used to be, so writing things down is safer.\nThe one in the far corner has gone yellow and says \"son, September 14,\" the only note on that door he has never had to look at.",
+          "editorNote": "For posts about a dad who runs the whole household off the fridge door.",
+          "variations": [
+            "He writes everything down, except my birthday.",
+            "One red pen, one whole door's worth of family."
+          ]
+        }
+      }
     }
   ]
 }

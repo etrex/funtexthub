@@ -5337,7 +5337,7 @@
           "content": "「我最近在練習當植物。」\n「蛤？為什麼？」\n「因為我想光合作用，只要有你這道光就夠了。」",
           "editorNote": "搞笑開場再轉甜的對話款，『當植物』的荒謬感會先讓對方愣住。聊到耍廢、養植物、曬太陽時很好接，重點是前面要講得一本正經",
           "variations": [
-            "我决定當向日葵了，反正我整天都朝著你轉",
+            "我決定當向日葵了，反正我整天都朝著你轉",
             "我不用充電，因為看你一眼就滿格了"
           ]
         },
@@ -12090,6 +12090,122 @@
           "variations": [
             "The hot water here takes a while, my patience with you doesn't.",
             "I'll take the cold thirty seconds, you get the part that's already warm."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-458",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://ecom.atmarketing.tw/trend/daily/2026-08-12",
+      "sourceNote": "參考租屋族家電維修與老屋居住的日常討論，取「保固過期還能用」當收尾",
+      "tags": [
+        "甜",
+        "日常",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這台洗衣機是前一個房客留下來的，脫水的時候會自己往左邊走，記得先在腳邊墊一條摺好的舊毛巾。\n門要用手掌壓著推才扣得上，洗衣精倒到第二格就停，超過會從側邊滲出來。\n保固卡還躺在抽屜裡，上面的日期是六年前，早就沒有人會來修，它能撐到現在靠的是有人每次都肯彎腰壓那一下。\n我對你用的是同一套說明，麻煩的地方我全背起來了，一次都沒動過換一台的念頭。",
+          "editorNote": "交代家裡電器怎麼用的時候順口帶過，最後一句要講得像在補充說明，中間別停頓。",
+          "variations": [
+            "這台的毛病我背得比說明書還熟，你的也是。",
+            "過保的東西還能運作，靠的是有人肯每次都彎那一下腰。"
+          ]
+        },
+        "en": {
+          "content": "The washing machine came with the apartment, and it walks a little to the left on the spin cycle, so fold an old towel under the front feet first.\nThe door only latches if you push it with your palm, and the detergent stops at the second line or it seeps out the side.\nThe warranty card is still in the drawer with a date six years old, nobody is coming to fix anything, and the only reason it still runs is that somebody crouches down and presses that latch every single time.\nYou get the same set of instructions from me, since I have every difficult part memorized and I have never once gone looking at newer models.",
+          "editorNote": "Say it while you are genuinely explaining how the appliance works, and deliver the last line like one more instruction.",
+          "variations": [
+            "I know this machine's quirks better than the manual does, and yours too.",
+            "Expired warranty, still running, because someone keeps showing up to press the latch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-459",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.doulike.com/blog/tips/the-best-pick-up-lines-that-still-work/",
+      "sourceNote": "參考英文告白句被外力打斷的橋段，改寫成台灣手搖飲店叫號的中斷情境",
+      "tags": [
+        "甜",
+        "日常",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把那句話在腦子裡排練了三個禮拜，終於在等飲料的空檔開口，講到我從去年就一直想跟你。\n店裡的叫號機剛好在這一秒喊了我們的號碼，兩杯半糖少冰，一連喊了三次，音量一次比一次大。\n我走過去把飲料端回來，坐下的時候發現那半句話已經接不回去了。\n你把吸管幫我插好推過來，說你可以慢慢等，反正冰塊還有很多。",
+          "editorNote": "排隊買飲料或等餐的場合最好用，被打斷之後千萬不要急著把話接回去。",
+          "variations": [
+            "那半句話我沒補完，你也沒催，飲料倒是先喝完了。",
+            "叫號機喊三次都沒讓我慌，你抬頭看我那一下才有。"
+          ]
+        },
+        "en": {
+          "content": "I rehearsed that sentence in my head for three weeks and finally got it started while we were waiting for our drinks, all the way to the part where since last year I have wanted to tell you that I.\nThe pickup counter called our number at that exact second, two half sugar with light ice, three times, louder with every call.\nI walked over, carried the cups back, and by the time I sat down the other half of the sentence was gone for good.\nYou put my straw in and slid it across, and said you could wait as long as it took, since there was still plenty of ice.",
+          "editorNote": "Works best at a drink counter or while waiting for food, and the trick is refusing to rush the sentence back together.",
+          "variations": [
+            "I never finished that half sentence, you never rushed me, and the drinks ran out first.",
+            "Three calls from the counter didn't rattle me, but you looking up did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-460",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.fashionbeans.com/article/best-pickup-lines/",
+      "sourceNote": "參考反向操作型搭訕句的討論，改寫成認真教人忘掉自己、結局注定失敗的療程",
+      "tags": [
+        "幽默",
+        "自嘲",
+        "甜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "把一個人從腦子裡清掉這件事我認真研究過，整套方法可以免費傳授給你，成功率我親自驗證過。\n重點是要把所有跟他有關的東西全部換掉，杯子換掉、回家那條路換掉，連巷口早餐店都要換一間。\n據說撐滿三十天就會沒感覺，我當時撐到第六天，人就站在他家樓下等他下班。\n所以你最後失敗了也一點都不用覺得丟臉，畢竟教你這套的人現在就坐在你對面。",
+          "editorNote": "對方在說想放下某個人的時候講，前三句要講得非常認真，最後一句才有效果。",
+          "variations": [
+            "這套方法我教過很多人，唯一沒用在自己身上的原因是不想成功。",
+            "三十天的療程我第六天就中斷了，中斷的地點在你家樓下。"
+          ]
+        },
+        "en": {
+          "content": "I have done real research on getting somebody out of your head, and I will teach you the whole method for free, since I tested every step of it myself.\nThe key is replacing everything attached to them, the mug they used, the route you walk home, even the breakfast place on the corner.\nThey say the feeling is gone after thirty days, and I made it to day six before I ended up outside his building waiting for him to finish work.\nSo if it fails for you too, there is nothing to be embarrassed about, considering the person teaching you the method is sitting right across from you.",
+          "editorNote": "Use it when they bring up moving on from someone, and play the first three lines completely straight.",
+          "variations": [
+            "I have taught this method to plenty of people and skipped it myself, because I didn't want it to work.",
+            "The thirty day program ended on day six, right outside your building."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-461",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://ecom.atmarketing.tw/trend/daily/2026-08-01",
+      "sourceNote": "參考八月颱風與停電的居家討論，取「停電那晚最亮的房子」當收尾",
+      "tags": [
+        "甜",
+        "日常",
+        "浪漫"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風那晚我在你家客廳的地板上坐著沒動，窗戶上貼的膠帶被風吹得一直發出很細的聲音。\n陽台的曬衣架早就倒了，樓下有人在收招牌，整棟樓的冰箱同時安靜下來，安靜到聽得見雨打在鐵皮上的節拍。\n你蹲在廚房用卡式爐煮麵，那點火光把牆壁照成橘色，鍋蓋沒蓋緊，蒸氣一直從縫裡跑出來。\n那天整條街的燈都是暗的，我從頭到尾就坐在那個橘色的角落沒動，覺得自己住進了全台北最亮的一間房子。",
+          "editorNote": "颱風天、停電或兩個人在家沒事做的時候講，語速放慢，講的時候不要看對方。",
+          "variations": [
+            "那晚全台北都在停電，唯一亮著的是被卡式爐照到的那面牆。",
+            "風大到窗戶都在響，我記得最清楚的卻是鍋蓋沒蓋緊的聲音。"
+          ]
+        },
+        "en": {
+          "content": "The night of the typhoon I sat on your living room floor and never moved, while the tape on the windows kept letting out a thin little whistle.\nThe drying rack on the balcony had already gone over, somebody downstairs was taking down a shop sign, and every fridge in the building went quiet at once, quiet enough to hear the rain keeping time on the metal roofs.\nYou crouched in the kitchen with a camping burner going, and that small flame turned the wall orange while steam kept escaping from a lid that would not sit right.\nEvery light on the street was dark that night, and I stayed in that orange corner the whole time, thinking I had somehow moved into the brightest apartment in Taipei.",
+          "editorNote": "Save it for a storm, a blackout, or any quiet night in, and say it slowly without looking over at them.",
+          "variations": [
+            "The whole city lost power that night, except for one wall lit by a camping burner.",
+            "The wind rattled every window, and the sound I kept was a lid that wouldn't sit right."
           ]
         }
       }

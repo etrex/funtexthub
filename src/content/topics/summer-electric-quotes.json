@@ -8436,6 +8436,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-287",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.gvm.com.tw/article/111318",
+      "sourceNote": "遠見雜誌：2026 夏季電價計算與冷氣設定溫度建議，改寫成「就算不用自己付錢也不敢調低」的自問自答",
+      "tags": ["冷氣", "26度", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我認真想過一個問題：有人願意替我付整季電費的話，我會把冷氣調到幾度？\n我以為自己會很豪邁地一路按到十八度，吹到要蓋兩件棉被那種。\n可是真的把那個畫面想到底，我的手還是停在二十六。\n這個夏天最厲害的地方，是它把節制直接刻進了我的手指。",
+          "editorNote": "適合貼在你發現自己就算不用付錢，也已經不敢把溫度調低的那個瞬間",
+          "variations": [
+            "就算有人幫我付，我的手還是停在二十六度。",
+            "省電省久了，節制會自己長進手指裡。"
+          ]
+        },
+        "en": {
+          "content": "I put a real question to myself: someone else is covering my whole summer bill, so how low do I crank the AC?\nI figured I'd slam it down to sixty-four and sleep under two blankets like a rich guy.\nBut when I actually pictured it, my hand still stopped at seventy-eight.\nThat's the scary part of this summer, it filed the restraint straight down into my fingers.",
+          "editorNote": "For the moment you realize you'd keep the thermostat modest even if the bill wasn't yours",
+          "variations": [
+            "Even on someone else's dime, my hand stops at seventy-eight.",
+            "Save power long enough and the restraint moves into your fingers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-288",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "商周：2026 夏季電價與冷氣使用建議，改寫成計程車司機旁觀乘客的場景",
+      "tags": ["冷氣", "省電", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個計程車司機大概是整個八月唯一注意到我的人。\n他說我一上車第一句永遠是「冷氣可以再強一點嗎」，而且從頭到尾都不看窗外。\n下車前他多問了一句：你家是不是都沒在開冷氣？\n我笑一笑，付了錢，走進一棟連樓梯間都在冒熱氣的舊公寓。",
+          "editorNote": "適合貼在你把冷氣省在家裡、靠別人的車廂跟賣場續命的那種夏天",
+          "variations": [
+            "司機比我自己更早發現，我家沒在開冷氣。",
+            "我一整個八月的涼，都是跟別人借來的。"
+          ]
+        },
+        "en": {
+          "content": "That cab driver was probably the only person all August who actually noticed me.\nHe said the first thing out of my mouth every ride is \"can you turn the AC up,\" and I never once look out the window.\nBefore I got out he asked one more thing: you don't run the AC at home, do you?\nI smiled, paid him, and walked into an old walk-up where even the stairwell was breathing heat.",
+          "editorNote": "For the summer you skip AC at home and borrow it from cabs, stores, and other people's lobbies",
+          "variations": [
+            "The cab driver figured out my home AC situation before I admitted it.",
+            "Every cool minute I got in August, I borrowed from somebody else."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-289",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "工商時報：2026 夏季電費調漲與家庭省電，改寫成家中對「開一下就好」這句話的自訂定義",
+      "tags": ["家人", "冷氣", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我家對「開一下就好」這句話有自己的算法。\n它指的是從按下開機，一路到隔天早上有人被冷醒為止的那整段時間，中間沒有任何人提出異議。\n我媽每天晚上十點都會講一次，講完就回房間睡了。\n這四個字在我家的功能，比較接近一種開場白。",
+          "editorNote": "適合貼在全家每個人都說只開一下、結果沒有人記得關的那些夜晚",
+          "variations": [
+            "在我家，開一下就好是一種沒有結束時間的講法。",
+            "我媽說的一下，長度大概等於一個晚上。"
+          ]
+        },
+        "en": {
+          "content": "In my family, \"just for a little while\" comes with its own math.\nIt covers everything from the moment the button gets pressed to whenever somebody wakes up cold the next morning, and nobody files a complaint in between.\nMy mom says it every night around ten, then heads straight to bed.\nIn our house those four words are basically the sound of a full night shift starting.",
+          "editorNote": "For the nights when everyone swears it's only for a minute and nobody gets up to turn it off",
+          "variations": [
+            "At my place, a little while has no stated end time.",
+            "My mom's little while runs about eight hours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-290",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://news.pts.org.tw/article/806392",
+      "sourceNote": "公視新聞：台電估今年夏夜尖峰用電創新高，改寫成期待入秋第一個不用開冷氣的夜晚",
+      "tags": ["夏天", "冷氣", "省電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "今年一定會有那麼一個晚上，我伸手要拿遙控器，然後停在半空中。\n窗戶那邊會有一陣涼風灌進來，房間的溫度剛剛好，我大概要愣個兩秒才反應得過來。\n我會把遙控器放回桌上，把被子拉好，睡一場不用花錢的覺。\n那一晚遲早會到，日期還沒公布而已。",
+          "editorNote": "適合貼在暑氣還沒退、但你已經開始期待第一個不用開冷氣的夜晚的時候",
+          "variations": [
+            "第一個不用開冷氣的晚上，遲早會到。",
+            "今年一定有一晚，我的手會停在遙控器前面。"
+          ]
+        },
+        "en": {
+          "content": "There's going to be a night this year when I reach for the remote and stop halfway.\nCool air will come through the window, the room will already be the right temperature, and it'll take me two full seconds to catch up.\nI'll set the remote back down, pull the blanket up, and sleep a night that costs nothing.\nThat night is coming, they just haven't announced the date yet.",
+          "editorNote": "For the stretch when the heat hasn't broken but you're already counting on the first AC-free night",
+          "variations": [
+            "The first night I don't need the AC is coming.",
+            "One night this year, my hand is going to stop short of the remote."
+          ]
+        }
+      }
     }
   ]
 }

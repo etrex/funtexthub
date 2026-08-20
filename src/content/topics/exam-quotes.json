@@ -10385,6 +10385,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-344",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "以放榜後即將離家住宿的新生狀態為背景，借用家電保固條款的語氣，內容與觀點為原創",
+      "tags": [
+        "考後",
+        "離家",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "本機出廠時已完成三年高溫測試，可耐長時間連續運轉，但不保證每次都能一次啟動。\n初次使用請先靜置兩週，讓內部零件慢慢回到室溫。\n若出現無故發呆、對著行事曆看很久的情形，屬正常現象，不列入維修範圍。\n保固期無限延長，唯一條件是遇到問題要打電話回原廠。",
+          "editorNote": "適合剛考完、準備離家住宿的人，用說明書的口氣提醒自己也提醒家人。",
+          "variations": [
+            "短版：「初次使用請先靜置兩週，讓零件回到室溫。」",
+            "延伸版：「保固期無限延長，唯一條件是遇到問題要打電話回原廠。」"
+          ]
+        },
+        "en": {
+          "content": "This unit cleared three years of continuous high-temperature testing at the factory, so it handles long shifts, though it won't always start on the first try.\nBefore first use, let it sit for about two weeks so the internal parts come back down to room temperature.\nStaring at nothing and reading the same calendar for ten minutes are normal operating behaviors, not defects.\nThe warranty never expires, and the one condition is that you call the manufacturer when something goes wrong.",
+          "editorNote": "For anyone who just finished exams and is about to move out, written in the voice of a warranty card.",
+          "variations": [
+            "Short: \"Let it sit two weeks before first use so the parts cool down.\"",
+            "Extended: \"Warranty never expires. One condition: call home when something breaks.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-345",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.ptt.cc/bbs/SENIORHIGH/index.html",
+      "sourceNote": "以分發放榜後搬家上學、父親提起自己當年北上求學的場景為背景，內容與觀點為原創",
+      "tags": [
+        "家人",
+        "離家",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "搬家那天下午，我爸一邊把箱子往後車廂塞，一邊講他當年北上唸書的事。\n講到「我那時候什麼都沒帶，就一個電鍋跟」，後車廂蓋自己掉下來，砰的一聲。\n他愣了兩秒，改口說這台車也真的老了。\n那句話後面本來要接什麼，我到現在還在想。",
+          "editorNote": "適合搬家那天貼，給那個話講到一半就自己收起來的長輩。",
+          "variations": [
+            "短版：「他講到一半，後車廂蓋就掉下來了。」",
+            "延伸版：「那句話後面本來要接什麼，我到現在還在想。」"
+          ]
+        },
+        "en": {
+          "content": "Moving day, mid-afternoon, my dad was shoving boxes into the trunk and telling me about the year he left home for school.\nHe got as far as \"I didn't bring anything with me, just a rice cooker and\" before the trunk lid dropped shut with a bang.\nHe stood there for two seconds, then said something about how the car's getting old.\nI'm still trying to work out how that sentence was supposed to end.",
+          "editorNote": "For moving day, and for the parent who starts a story and then puts it away.",
+          "variations": [
+            "Short: \"He got halfway through the sentence and the trunk slammed.\"",
+            "Extended: \"I'm still trying to work out how that sentence was supposed to end.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-346",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.dcard.tw/f/exam",
+      "sourceNote": "以暑假尾聲調整作息失敗的常見經驗為背景，內容與觀點為原創",
+      "tags": [
+        "自嘲",
+        "暑假",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我有一個很真心的建議：暑假最後一週再開始調作息，這樣最省力。\n前面幾週先睡到自然醒，把體力養回來，最後七天每天往前挪一小時，紙上完全成立。\n我算過三次，每次都很漂亮，實際執行到第二天就整組垮掉。\n這個建議我還是照樣給你，反正明年這個時候你也會再算一次。",
+          "editorNote": "適合開學前一週，發現自己又在重演同一套計畫的時候。",
+          "variations": [
+            "短版：「最後七天每天往前挪一小時，紙上完全成立。」",
+            "延伸版：「反正明年這個時候，你也會再算一次同樣的表。」"
+          ]
+        },
+        "en": {
+          "content": "Here's my completely sincere advice: wait until the last week of break to fix your sleep schedule, it's the least painful way.\nSleep in for the first few weeks, get your energy back, then move bedtime up an hour a night for seven nights. On paper it checks out perfectly.\nI've run the numbers three times, they're beautiful every time, and the whole thing collapses by day two.\nI'm giving you the advice anyway, because next August you're going to run those same numbers again.",
+          "editorNote": "For the week before school starts, when you catch yourself rebuilding the same doomed plan.",
+          "variations": [
+            "Short: \"Move bedtime up an hour a night for seven nights. On paper it checks out.\"",
+            "Extended: \"Next August you're going to run those same numbers again.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-347",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "以分發錄取後搭客運前往外縣市學校的長途車程為背景，內容與觀點為原創",
+      "tags": [
+        "分發",
+        "離家",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客運開上高速公路之後，窗外的招牌從賣豬腳飯換成賣輪胎，再換成一整排太陽能板。\n前座有人在講電話，說宿舍要自己帶蚊帳，走道對面的阿姨把鞋脫了，行李箱倒了兩次。\n收音機放著一首我媽會跟著哼的老歌，主持人插進來說今天下午雷陣雨機率百分之七十。\n我從頭到尾只做了一件事，就是把手機裡那張錄取通知的截圖又打開來看了一次。",
+          "editorNote": "適合第一次搭長途車去報到的那天，在車上發呆的時候。",
+          "variations": [
+            "短版：「窗外的招牌一路從豬腳飯換成太陽能板。」",
+            "延伸版：「整段車程我只做了一件事，把那張截圖又打開來看。」"
+          ]
+        },
+        "en": {
+          "content": "Once the bus hit the freeway, the billboards outside went from braised pork rice to tires to one long field of solar panels.\nSomebody up front was on the phone saying you have to bring your own mosquito net to the dorms, and the woman across the aisle kicked her shoes off while her suitcase tipped over twice.\nThe radio was playing an old song my mom hums along to, and then the host cut in with a seventy percent chance of thunderstorms this afternoon.\nThe only thing I did the entire ride was open that screenshot of my acceptance notice one more time.",
+          "editorNote": "For the day you take the long bus ride to campus and mostly just stare out the window.",
+          "variations": [
+            "Short: \"The billboards went from pork rice to tires to solar panels.\"",
+            "Extended: \"The only thing I did all ride was open that screenshot again.\""
+          ]
+        }
+      }
     }
   ]
 }

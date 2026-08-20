@@ -9522,6 +9522,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-336",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://mcpress.mayoclinic.org/living-well/the-sleep-paradox-why-trying-harder-makes-it-worse/",
+      "sourceNote": "Informed by clinical writing on the sleep-effort paradox (trying harder to sleep raises arousal); reframed as a self-questioning line with no medical claims",
+      "tags": [
+        "失眠",
+        "自我接納",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問我今晚在等什麼，我會說在等睏意來。\n真正的答案是我在等一個許可，等有人告訴我今天到這裡就可以了。\n睏意早就在門口站了很久，是我遲遲不肯去簽收。\n那張單子上的名字，只有我自己填得下去。",
+          "editorNote": "適合躺著卻覺得自己還沒資格結束今天的那種夜晚。",
+          "variations": [
+            "我在等的東西，比睏意更難自己出現。",
+            "今天到這裡就好了，這句話得自己對自己說。"
+          ]
+        },
+        "en": {
+          "content": "Ask me what I'm waiting for tonight and I'll say I'm waiting to get sleepy.\nThe real answer is that I'm waiting for permission, for someone to tell me today is allowed to be over.\nSleepiness has been standing at the door for hours, and I'm the one refusing to sign for it.\nNobody else can put a name on that slip.",
+          "editorNote": "For nights when you're lying down but still feel like you haven't earned the right to end the day.",
+          "variations": [
+            "I was never waiting to get tired. I was waiting to be let go.",
+            "Today is allowed to be over. You have to say that one to yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-337",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/538583",
+      "sourceNote": "Informed by Taiwanese reporting on a viral collective-insomnia morning; rewritten from a bystander's point of view, no quoted material",
+      "tags": [
+        "失眠",
+        "陪伴",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店阿姨說，她認得清晨六點半那種臉。\n點餐的聲音很輕，眼睛卻亮得不太對勁，像一整晚都沒關過機。\n她會多問一句豆漿要不要換溫的，對方通常點點頭就走到角落坐下。\n她從來不多問什麼，把蛋餅多煎了十秒，讓那個人在店裡多坐一下。",
+          "editorNote": "適合整夜沒睡、天亮直接出門覓食，被陌生人溫柔對待的時候。",
+          "variations": [
+            "有些人走進早餐店的時候，還沒躺下過。",
+            "她多煎的那十秒，是店裡最短的一段休息時間。"
+          ]
+        },
+        "en": {
+          "content": "The lady at the breakfast shop says she knows that 6:30 a.m. face on sight.\nThe voice ordering comes out soft, but the eyes are lit wrong, like nothing got powered down all night.\nShe'll ask if they want the soy milk warm instead, and they usually just nod and take the corner seat.\nShe never asks anything more, she leaves the egg crepe on the griddle ten extra seconds so they can sit a little longer.",
+          "editorNote": "For the mornings you go straight from a sleepless night to breakfast and a stranger is quietly kind about it.",
+          "variations": [
+            "Some people aren't up early. They just never went down.",
+            "Those ten extra seconds on the griddle are the shortest break in the whole shop."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-338",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://health.gov.taipei/News_Content.aspx?n=4F01EBDF8F61F315&sms=72544237BBE4C5F6&s=EE42B0C5A9D551CB",
+      "sourceNote": "Informed by Taipei health-bureau guidance on wind-down routines and pre-sleep screens; turned into a playful non-dictionary definition, no advice given",
+      "tags": [
+        "失眠",
+        "深夜",
+        "腦內小劇場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "關燈的定義，是把一整天的音量調到剩下自己一個人的聲音。\n燈滅之後，房間會慢慢把白天沒處理完的事一件一件搬回來。\n你以為那叫安靜，量起來卻比會議室還吵。\n所以有些人會留一盞小燈，為的是有東西陪著自己一起醒著。",
+          "editorNote": "適合手一按開關、腦袋反而整個開機的那一秒。",
+          "variations": [
+            "房間暗下來的時候，腦袋才正式開始上班。",
+            "留一盞小燈的人，通常不是怕黑。"
+          ]
+        },
+        "en": {
+          "content": "Here's what \"lights out\" really means: turning the whole day's volume down until the only voice left is yours.\nOnce the room goes dark, it starts carrying back every unfinished thing from the day, one at a time.\nYou'd call that quiet, but measure it and it's louder than any conference room.\nWhich is why some people leave a small lamp on, so something else in the room is awake with them.",
+          "editorNote": "For the exact second you flip the switch and your brain boots up instead.",
+          "variations": [
+            "The room going dark is when my head clocks in.",
+            "People who leave a lamp on are usually not scared of the dark."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-339",
+      "dateAdded": "2026-08-20",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11474766/",
+      "sourceNote": "Informed by research on paradoxical intention for insomnia (sleepiness arriving once effort stops); written as an inevitable near-future scene, no treatment claims",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "凌晨四點"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "再過大概四十分鐘，天會開始有一點灰。\n巷口會先有一台送報的機車經過，接著是隔壁的鐵門被拉開。\n那時候你會突然覺得睏，而且睏得非常誠懇，比整夜任何一刻都誠懇。\n鬧鐘會在二十分鐘之後響，你們剛好在半路上錯過彼此。",
+          "editorNote": "適合已經放棄睡覺、開始等天亮的那段時間。",
+          "variations": [
+            "睏意每次都挑鬧鐘前二十分鐘才到。",
+            "整夜最好睡的那二十分鐘，永遠排在起床前面。"
+          ]
+        },
+        "en": {
+          "content": "In about forty minutes the sky will start going a little grey.\nA scooter will turn into the alley with the papers, and then the shutter next door will roll up.\nThat's when the sleepiness finally shows up, and it'll be the most sincere it has been all night.\nYour alarm goes off twenty minutes after that, and the two of you miss each other by exactly that much.",
+          "editorNote": "For the stretch where you've given up on sleeping and started waiting for sunrise instead.",
+          "variations": [
+            "Sleepiness always arrives twenty minutes before the alarm.",
+            "The best twenty minutes of sleep all night are always the ones right before you get up."
+          ]
+        }
+      }
     }
   ]
 }
