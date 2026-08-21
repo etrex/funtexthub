@@ -9952,6 +9952,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-367",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://speed.ettoday.net/news/2171678",
+      "sourceNote": "ETtoday 車雲報導機車行密度與生存法則（工資、房租、客人信任問題）；取其行業處境，改寫成師傅手寫「交車注意事項」的原創清單，未沿用原文任何句子",
+      "tags": [
+        "服務業",
+        "機車行",
+        "維修",
+        "職人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "交車前請看一下，我寫在估價單背面：\n一、儀表板上那個小扳手亮著，是提醒您下次保養，車子好好的。\n二、有怪聲請先錄起來，用嘴巴模仿的那聲「咖咖咖」，我們這行至少有七種解讀。\n三、我說「大概多少」，是因為拆開之前誰也看不到裡面；拆開之後我會先打給您再動手。\n四、換下來的零件我放在門口那個紙箱，您想驗隨時來。\n五、下雨天請提早半小時出門，煞車也需要一點時間認識地面。\n六、最後一項：安全帽的扣環請扣好，我只修得好車。",
+          "editorNote": "傳給在機車行顧店、一天要講二十次同樣提醒的人。也適合貼在店裡那面客人等車時會一直盯著看的牆上。",
+          "variations": [
+            "估價單背面那幾行字，常常比正面的數字還重要。",
+            "機車行的關心，長得就像一句「騎慢一點」。"
+          ]
+        },
+        "en": {
+          "content": "Before you ride off, read this — I wrote it on the back of your estimate.\n1. The little wrench icon on the dash is a service reminder. Your bike is fine.\n2. If it makes a noise, record it. The \"ka-ka-ka\" people do with their mouths has at least seven meanings in this trade.\n3. When I say \"roughly,\" it's because nobody can see inside until it's open. Once it's open, I call you before I touch anything.\n4. Your old parts are in the box by the door. Come look at them any time.\n5. On rainy days, leave half an hour early. Brakes need a moment to get to know the road too.\n6. Last one: buckle your helmet strap. I can only fix the bike.",
+          "editorNote": "For anyone running a scooter shop who says the same six things twenty times a day.",
+          "variations": [
+            "The back of the estimate usually matters more than the number on the front.",
+            "A mechanic's version of caring sounds a lot like \"ride slower.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-368",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://smiletaiwan.cw.com.tw/article/2138",
+      "sourceNote": "微笑台灣報導台中 326 路夜間公車與站務現場氛圍；取其場域感，改寫為轉運站布告牆逐項盤點的原創清單",
+      "tags": [
+        "服務業",
+        "客運",
+        "站務",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "候車大廳那面布告牆，我每天早上擦一次：\n最上面是改點公告，紅筆畫掉的那班已經停開兩年，沒人敢拆。\n中間三張手寫紙條，找一把黑色雨傘、一個保溫瓶、一隻布做的兔子。\n兔子那張是上個月一位媽媽貼的，紙角已經捲起來。\n右邊是司機班表，密密麻麻，最外圈那格寫著我的名字。\n最下面那排圖釘上什麼都沒有，留給今天晚上會發生的事。\n擦完我會退兩步，確認每一張都還貼得牢。",
+          "editorNote": "傳給在轉運站、車站、月台上班的人。牆上貼著的東西，比時刻表更能說明這裡一天過得怎麼樣。",
+          "variations": [
+            "一張紙能在牆上留多久，大概就是一個轉運站的記性。",
+            "圖釘留空的那一排，是這份工作唯一預留的位子。"
+          ]
+        },
+        "en": {
+          "content": "The corkboard in the waiting hall — I wipe it down every morning.\nTop row: schedule changes. The route crossed out in red stopped running two years ago and nobody dares take it down.\nMiddle: three handwritten notes looking for a black umbrella, a thermos, and a rabbit sewn out of cloth.\nA mother put up the rabbit one last month, and the corners have curled since.\nRight side: the drivers' roster, packed tight, my name in the outermost column.\nBottom row: empty pins, saved for whatever happens tonight.\nWhen I'm done I step back and check that every sheet is still holding.",
+          "editorNote": "For anyone working a terminal, a station, or a platform. What's pinned to the wall says more about the day than the timetable does.",
+          "variations": [
+            "How long a sheet stays up is about how long a bus terminal remembers.",
+            "The empty row of pins is the only seat this job keeps reserved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-369",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://udn.com/news/story/7934/6268900",
+      "sourceNote": "聯合新聞網報導民眾看不懂停車場自動繳費機的操作介面；改寫為收費亭人員旁觀一位長輩投幣的原創短文",
+      "tags": [
+        "服務業",
+        "停車場",
+        "溫暖",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那位先生在繳費機前站了很久，把整包零錢倒在旁邊的檯面上，一枚一枚排成兩排。\n機器每吃進一枚就叫一聲，他就跟著點一次頭，像在確認自己沒有數錯。\n剩下最後三枚十元他收回口袋，按了「列印明細」，站在原地把那張紙看完才走。\n我在收費亭裡等他走遠，才過去把他忘在檯面上的老花眼鏡收起來，放進今天第四個夾鏈袋。",
+          "editorNote": "傳給在收費亭、售票口這種小格子裡上班的人。你看得到整個場子，只是很少有人回頭看你一眼。",
+          "variations": [
+            "一天收到四副眼鏡的人，通常最記得誰走得慢。",
+            "收費亭的窗口很小，剛好裝得下一整個下午的別人。"
+          ]
+        },
+        "en": {
+          "content": "The man at the payment machine stood there a long time, tipping a whole bag of coins onto the ledge and lining them up in two rows.\nThe machine chirped for every coin it swallowed, and he nodded along with each one, like he was checking his own count.\nHe pocketed the last three ten-dollar coins, pressed \"print receipt,\" and stayed put until he had read the whole slip.\nI waited in the booth until he was out of sight, then went over for the reading glasses he had left on the ledge and dropped them into the fourth ziplock bag of the day.",
+          "editorNote": "For everyone who works inside a small box — a toll booth, a ticket window. You can see the whole lot, and almost nobody looks back at you.",
+          "variations": [
+            "Someone who collects four pairs of glasses a day remembers exactly who walked slowly.",
+            "A booth window is small, but a whole afternoon of other people fits through it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-370",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://blog.104.com.tw/gas-station-working-experience/",
+      "sourceNote": "104 職場力加油站打工經驗分享（油氣、客人應對、雨天現場）；取其現場細節重寫為自問式原創短文，未沿用原文句子",
+      "tags": [
+        "服務業",
+        "加油站",
+        "厭世",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼幾乎每個人都要到最後一秒，才想起自己的油箱蓋在哪一邊？\n為什麼有人堅持不熄火，我請他熄火，他還要反問我這樣會怎樣？\n為什麼下雨的晚上，反而最多人搖下車窗說「隨便你，加滿就好」？\n我把油槍掛回架上，順手抹掉他後照鏡上的水珠，然後轉身對下一台車舉手。",
+          "editorNote": "傳給在加油站站一整天、制服被雨淋到半濕的人。問句可以一直排隊，車也是。",
+          "variations": [
+            "加油站的問題永遠比答案多，但下一台車不會等你想完。",
+            "雨天的加油島上，最常聽到的一句話是「隨便你」。"
+          ]
+        },
+        "en": {
+          "content": "Why does almost everyone remember which side the fuel door is on only at the very last second?\nWhy does someone leave the engine running, and then ask me what exactly would happen when I ask him to shut it off?\nWhy is it on rainy nights that the most people roll the window down and say, \"whatever, just fill it\"?\nI hang the nozzle back up, wipe the water off his side mirror, and turn to raise a hand at the next car.",
+          "editorNote": "For anyone standing at the pumps all day with half a uniform soaked through. The questions can keep lining up; so can the cars.",
+          "variations": [
+            "A gas station has more questions than answers, and the next car won't wait for you to finish.",
+            "On a rainy night, the most common sentence on the island is \"whatever.\""
+          ]
+        }
+      }
     }
   ]
 }

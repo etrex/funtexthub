@@ -11830,6 +11830,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ct-400",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://club.commonhealth.com.tw/article/560",
+      "sourceNote": "參考台灣寵物照護文章關於貓咪坐車緊張、每兩三小時應停車休息的建議，改寫為原創的加油站停車情境，非照抄",
+      "tags": [
+        "主子",
+        "貓咪",
+        "外出",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開了兩個小時，牠在後座那樣叫，是還在怕，還是只是要確認你沒有把牠一個人留下？\n\n每篇文章都說每兩三個小時就該停一次，可是停下來以後你到底要做什麼？\n\n加油的人問你加多少，你為什麼會愣了三秒才回答？\n\n你把手指從籠門的縫伸進去，牠隔著鐵網舔了兩下，油槍喀一聲跳停，後座就這樣安靜了整整十分鐘。",
+          "editorNote": "給那個為了讓主子安靜十分鐘，特地把車開進加油站的人。",
+          "variations": [
+            "那十分鐘你什麼都沒做，就把手指放在籠門的縫上，等它自己被舔到發燙。",
+            "回程你又停了一次，加了兩百塊的油，買了十分鐘。"
+          ]
+        },
+        "en": {
+          "content": "Two hours in, she's still yowling back there — is she scared, or just checking you haven't left her behind?\n\nEvery article says pull over every couple of hours, but once you've pulled over, what are you actually supposed to do?\n\nThe attendant asks how much you want, so why does it take you three seconds to answer?\n\nYou slide one finger through the gap in the carrier door, she licks it twice through the mesh, the pump clicks off, and the back seat stays quiet for a solid ten minutes.",
+          "editorNote": "For anyone who has pulled into a gas station purely to buy a cat ten quiet minutes.",
+          "variations": [
+            "You did nothing for those ten minutes but hold a finger against the carrier door until it went warm.",
+            "You stopped again on the way home. Twenty bucks of gas, ten minutes of quiet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-401",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.ptt.cc/bbs/cat/M.1545617454.A.74F.html",
+      "sourceNote": "參考台灣論壇飼主討論貓咪偷吃人類食物的行為串，重寫為原創的火鍋外帶警語清單，未照抄任何句子",
+      "tags": [
+        "主子",
+        "貓咪",
+        "吃飯",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "火鍋店打包回家，家裡有主子版的注意事項：\n在店裡就請他們把湯跟料分開裝，你需要一隻手完全空著開門。\n袋子進門的第一秒牠已經在玄關等你了，這時候不要蹲下來跟牠講話。\n湯底不管幾號辣都不要放在地板上退冰，牠對燙的東西沒有任何敬意。\n蔥、蒜、洋蔥掉到地上請馬上撿起來，這條沒有商量空間。\n蟹肉棒和魚板請在店裡吃完，帶回來一次，牠會跟你要一整年。\n隔天早上你會在鞋櫃旁邊撿到一根被叼走的金針菇，那是這趟外帶要繳的過路費。",
+          "editorNote": "傳給那個提著火鍋回家、在電梯裡就開始沙盤推演的室友。",
+          "variations": [
+            "湯還沒倒進鍋子，牠已經在你腳邊繞第三圈了。",
+            "那根金針菇最後沒有被吃掉，只是被咬過，然後放在你會踩到的位置。"
+          ]
+        },
+        "en": {
+          "content": "Bringing hot pot home, cat-household edition:\nAsk them to bag the broth and the raw stuff separately. You need one hand completely free for the door.\nShe'll be in the entryway the second the bag crosses the threshold. Do not crouch down to talk to her.\nNever set the broth on the floor to cool. She has no respect whatsoever for hot things.\nScallion, garlic, onion — anything that hits the floor gets picked up immediately. That one isn't negotiable.\nEat the crab sticks and fish cake at the restaurant. Bring them home once and she'll ask for them for a year.\nTomorrow morning you'll find one stolen enoki mushroom by the shoe rack. That's the toll on tonight's takeout.",
+          "editorNote": "Send this to the roommate who starts planning the logistics in the elevator.",
+          "variations": [
+            "The broth hasn't even hit the pot and she's already on lap three around your ankles.",
+            "She never ate the mushroom. She just bit it once and left it where you'd step on it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-402",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://smiletaiwan.cw.com.tw/article/7921",
+      "sourceNote": "參考台灣傳統理髮廳的懷舊空間報導（陳設、鏡台、移動式洗頭槽），重寫為原創的鏡前檯面盤點，非引用原文",
+      "tags": [
+        "主子",
+        "貓咪",
+        "街貓",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "巷口那間理髮店，鏡子前面那張長檯上有：\n一把剪刀、兩支梳子，還有一個要按三下才會出水的噴瓶。\n一台吹風機，電線用黑膠帶纏過兩圈，靠近插頭的地方還在鬆。\n一個裝零錢的鐵盒，蓋子從來沒有蓋起來過。\n一疊夾在鏡框邊的發票，最舊的那張是去年的。\n一隻虎斑，佔掉長檯正中間，從你坐下到吹乾都沒有換過姿勢。\n還有你，被牠的背擋掉半張臉，整整四十分鐘沒看清楚自己被剪成什麼樣。",
+          "editorNote": "給那個明知道會被擋住、還是每次都坐同一個位子的人。",
+          "variations": [
+            "剪完你才看見鏡子，那時候牠已經翻過身，換你被牠的肚子擋住。",
+            "整間店只有牠的位置是固定的，客人都要繞著那個位置坐。"
+          ]
+        },
+        "en": {
+          "content": "On the long counter in front of the mirror at the barbershop down the alley:\nOne pair of scissors, two combs, and a spray bottle you have to pump three times to get water out of.\nA hair dryer with two rounds of electrical tape on the cord, still coming loose near the plug.\nA tin box for coins, lid never once closed.\nA stack of receipts wedged into the mirror frame, the oldest one from last year.\nA tabby taking up the exact middle of the counter, in the same position from the moment you sit down until you're dry.\nAnd you, with half your face behind her back, forty minutes of never getting a clear look at your own haircut.",
+          "editorNote": "For the person who knows they'll be blocked and takes that same chair anyway.",
+          "variations": [
+            "You finally saw the mirror at the end — by then she'd rolled over, and it was her belly in the way.",
+            "Hers is the only fixed seat in the shop. Everyone else arranges themselves around it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-403",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5540560",
+      "sourceNote": "參考台灣傳統市場魚攤生意日常的新聞報導氛圍，重寫為原創的市場旁觀者短篇，未沿用報導內容",
+      "tags": [
+        "主子",
+        "貓咪",
+        "溫暖",
+        "觀察"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "魚攤前面那個阿伯每次都只挑最小的一尾，付完錢還會壓低聲音多要一小袋剁剩的魚雜。\n\n他從口袋掏出一個折得整整齊齊的塑膠盒，把魚雜單獨裝進去，回程路上那盒一直提在外側，怕被別人的菜籃擠到。\n\n他買給自己的那一尾，就這樣掛在袋子底下一路晃，沒有人幫它避開任何東西。\n\n你低頭看自己手上那袋，蔥跟豆腐上面壓著一小包柴魚片，那是今天唯一一樣不會進到你嘴裡的東西。",
+          "editorNote": "給那個逛市場逛到一半，才想起來還沒買給自己的人。",
+          "variations": [
+            "他走得很慢，慢到你確定家裡有一隻正在門口等那個塑膠盒。",
+            "你回家把柴魚片拆開，先撒了一小撮在碗裡，自己的晚餐才開始煮。"
+          ]
+        },
+        "en": {
+          "content": "The old man at the fish stall always picks the smallest one, then quietly asks for a bag of the scraps after he pays.\n\nHe pulls a neatly folded plastic container out of his pocket, packs the scraps in on their own, and carries it on the outside of his arm the whole way back so nobody's basket knocks into it.\n\nThe fish he bought for himself just swings along at the bottom of the bag, and nobody steers it around anything.\n\nYou look down at your own bag — a small pack of bonito flakes riding on top of the scallions and tofu, the one thing in there that will never reach your mouth.",
+          "editorNote": "For anyone who gets halfway through the market before remembering to buy something for themselves.",
+          "variations": [
+            "He walked slowly enough that you knew someone was waiting by a door for that container.",
+            "You opened the bonito flakes at home, shook a pinch into a bowl, and only then started your own dinner."
+          ]
+        }
+      }
     }
   ]
 }

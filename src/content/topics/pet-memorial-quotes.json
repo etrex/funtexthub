@@ -9574,6 +9574,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-347",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.helpguide.org/mental-health/grief/coping-with-losing-a-pet",
+      "sourceNote": "喪寵後日常觸發點（grief triggers in routines）frame，原創改寫，場景改為深夜藥局",
+      "tags": [
+        "深夜",
+        "思念",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨一點多我又走進那間整夜亮著的藥局，這次買的是我自己的胃藥。以前這條路我走得比誰都熟，紗布、生理食鹽水、餵藥用的空針，都是為了你才站在這裡排隊。今天那一格還擺在同一個位置，我伸手到一半才停下來。你已經不需要這些了，我還是挑這種沒什麼人的時間出門。",
+          "editorNote": "適合毛孩離開後幾個月、半夜睡不著時寫給牠的短文，也可放進紀念相簿內頁",
+          "variations": [
+            "那一格我沒有再走過去，可是每次結帳前都會往那邊看一眼。",
+            "半夜出門買藥的習慣是你留給我的，只是現在買的是我的份。"
+          ]
+        },
+        "en": {
+          "content": "It's past one in the morning and I'm back at the pharmacy that stays lit all night, this time for my own stomach pills. I used to know this walk better than anyone — gauze, saline, feeding syringes, all of it queued up for you. That shelf is still exactly where it was, and my hand stopped halfway there. You don't need any of it now, and I still pick the hour when nobody else is out.",
+          "editorNote": "For the sleepless months after a pet's death; gentle enough for a memorial album page",
+          "variations": [
+            "I don't walk down that aisle anymore, but I glance at it before I pay.",
+            "The late-night pharmacy run is a habit you left me. Now the medicine is mine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-348",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://vcahospitals.com/know-your-pet/grief-and-bereavement---loss-of-a-pet",
+      "sourceNote": "喪寵後保留舊習慣、被旁人誤讀 frame，原創改寫，場景改為手搖飲店取餐區",
+      "tags": [
+        "習慣",
+        "日常",
+        "毛孩"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "取餐區明明有位子，我每次都站到門口那根柱子旁邊，店員以為我怕人擠，還特地把飲料端過來給我。真正的原因有點蠢：那根柱子是以前綁牽繩的地方，站在那裡剛好看得到你趴在陰影裡。這幾個月我換了三家店，每一家我都自己找到一根那樣的柱子。少冰少糖可以備註，站哪裡這種事，好像沒有地方可以寫。",
+          "editorNote": "適合寫給還保留著舊習慣、卻不好意思跟人解釋的飼主；語氣自嘲，不用哭",
+          "variations": [
+            "我到現在還是先看陰影在哪裡，才決定要站哪一邊。",
+            "有些習慣不用改，它只是換成一個人在做。"
+          ]
+        },
+        "en": {
+          "content": "There are seats at the pickup counter, but I always end up by the pillar near the door — the staff think I hate crowds, so they bring the drink over to me. The real reason is dumber than that: the pillar is where the leash used to be tied, and from there I could see you lying in the shade. I've switched shops three times this year, and every time I find myself a pillar just like it. You can note down less ice and less sugar; there's no field for where you stand.",
+          "editorNote": "For owners still keeping old habits they'd rather not explain; wry rather than tearful",
+          "variations": [
+            "I still check where the shade is before I pick a spot to stand.",
+            "Some habits don't need fixing. One of us just does them alone now."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-349",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "喪寵後行政手續與陌生人善意 frame，原創改寫，場景改為銀行號碼牌區",
+      "tags": [
+        "陌生人",
+        "溫柔",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "行員：先生，你這個帳戶的聯絡人暱稱要改嗎？系統上寫的是弟弟。\n我：……那一欄可以不要動嗎？\n行員：可以，我這邊就跳過去。\n我：這樣不會被稽核唸喔？\n行員：那一欄本來就沒有規定要填人。\n我：謝謝你。\n行員：號碼牌你先放著，坐一下再走沒關係。",
+          "editorNote": "適合分享給正在跑各種手續、被一句陌生人的體貼接住的飼主",
+          "variations": [
+            "行員：資料我留著，不會幫你刪。\n我：好。",
+            "我：那個名字我留了十四年。\n行員：那就繼續留著吧。"
+          ]
+        },
+        "en": {
+          "content": "Teller: Sir, do you want to update the nickname on this contact field? The system says \"Little Brother.\"\nMe: ...can we leave that one alone?\nTeller: Sure. I'll skip it.\nMe: Won't that get flagged in an audit?\nTeller: That field was never required to be a person.\nMe: Thank you.\nTeller: Keep your queue ticket. Sit as long as you need.",
+          "editorNote": "For anyone getting through the paperwork after a loss and caught off guard by a stranger's kindness",
+          "variations": [
+            "Teller: I'll keep the record. I won't delete it.\nMe: Okay.",
+            "Me: I've had that name on file for fourteen years.\nTeller: Then keep it there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-350",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.today.com/life/relationships/processing-pet-loss-grief-rcna213472",
+      "sourceNote": "喪寵後難以對家人開口 frame，原創改寫，場景改為打烊前的量販店",
+      "tags": [
+        "訊息",
+        "家人",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "（草稿）姐，我在量販店，打烊廣播已經第三次了。\n（草稿）最後一台收銀機的隊伍好長，我排在一個推了整車飼料的先生後面。\n（草稿）他跟結帳的人說，家裡那隻十三歲了，這樣買比較划算。\n（草稿）我差一點就跟他搭話。\n（刪掉重打）\n（送出）姐，你明天有空嗎，我想找你吃個飯。",
+          "editorNote": "適合形容那種話到嘴邊又收回去的狀態，也可貼給家裡有人正在難過的朋友",
+          "variations": [
+            "（草稿）我今天不太想那麼早回家。\n（送出）沒事，就問一下。",
+            "（草稿）我剛剛在冷凍櫃前面站了很久。\n（送出）明天見。"
+          ]
+        },
+        "en": {
+          "content": "(draft) Sis, I'm at the big store. That's the third closing announcement.\n(draft) The last register has a long line. I'm behind a guy with a whole cart of kibble.\n(draft) He told the cashier his dog is thirteen and it's cheaper to buy in bulk.\n(draft) I almost said something to him.\n(deleted, started over)\n(sent) Sis, are you free tomorrow? I'd like to get dinner.",
+          "editorNote": "For the state of almost saying it and pulling back; also good to send a friend whose family is grieving",
+          "variations": [
+            "(draft) I don't feel like going home yet.\n(sent) Never mind, just checking in.",
+            "(draft) I stood in front of the freezer aisle for a while.\n(sent) See you tomorrow."
+          ]
+        }
+      }
     }
   ]
 }

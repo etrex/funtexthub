@@ -12773,6 +12773,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-455",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
+      "sourceNote": "工程師語錄整理，取其中關於除錯與專注環境的觀察，重寫為圖書館自習室場景",
+      "tags": [
+        "除錯",
+        "工程師日常",
+        "專注",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼那個追了三天的問題，我在公司盯著螢幕一整天沒有半點進展，走進圖書館自習室四十分鐘就修好了？\n是因為這裡沒有人可以隔著走道走過來問我進度嗎？\n還是因為在這種地方連嘆氣都得壓著，我只好把那股力氣拿去讀那行我跳過三次的日誌？\n我不知道，我只知道下次卡住的時候，我會先去找一個規定不能講話的位子坐下來。",
+          "editorNote": "適合在假日跑去圖書館趕進度的時候發，或轉給那個抱怨開放式辦公室的同事。",
+          "variations": [
+            "延伸版本：那行日誌從第一天就在了，只是公司那張桌子讓我沒辦法讀完它。",
+            "短版：真正的除錯工具是一個沒有人叫得到我的位子。"
+          ]
+        },
+        "en": {
+          "content": "Why did that three-day bug survive a whole day of me staring at it in the office, then die forty minutes after I sat down in a library study room?\nIs it because nobody here can walk over and ask how it's going?\nOr because in a room this quiet you can't even sigh, so the energy goes into reading the log line you skipped three times?\nNo idea. All I know is that next time I'm stuck, I'll go find a seat where talking isn't allowed.",
+          "editorNote": "Good for the weekend you spend catching up somewhere quiet, or for the coworker complaining about open-plan seating.",
+          "variations": [
+            "Extension: the log line was there on day one. The office desk just never let me finish reading it.",
+            "Short version: my best debugging tool is a room where nobody can reach me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-456",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "開發者社群關於值班手冊與已知問題的梗，改寫成夜市攤位的代班注意事項",
+      "tags": [
+        "工程師日常",
+        "值班",
+        "已知問題",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "代班注意事項，貼在鐵架側邊，開工前請整張看完。\n煎台左邊第三格火比較小，那格只放不趕時間的單，不要修，上次有人修過整台三天不會動。\n找零的鐵盒卡住的時候往右推再往外拉，不要硬掰，硬掰過的那位現在沒在做了。\n招牌那盞燈每晚九點會閃三下，那是正常的，不用打給我。\n隔壁攤問你醬料怎麼調，你就說你不知道，因為你確實不知道。\n客人說要跟上次一樣的時候，先問清楚上次是什麼時候，中間我們換過兩次配方。\n以上任何一條你覺得不合理，都先照做，收攤再問。",
+          "editorNote": "適合傳給第一次值班的同事，或貼在團隊頻道當作值班手冊的封面。",
+          "variations": [
+            "延伸版本：最後一行原本寫「原因我也忘了」，被劃掉改成「照做就對了」。",
+            "短版：所有攤位都有一格火比較小，差別只在有沒有人寫下來。"
+          ]
+        },
+        "en": {
+          "content": "Notes for whoever covers my night market stall. Read all of it before you open.\nThe third slot on the left of the griddle runs cold. Put the non-urgent orders there and do not try to fix it — someone did once and the whole griddle was dead for three days.\nWhen the cash tin jams, push right and pull out. Don't force it. The guy who forced it doesn't work here anymore.\nThe sign flickers three times at nine every night. That's normal. Don't call me.\nIf the stall next door asks how we mix the sauce, say you don't know, because you genuinely don't.\nWhen a customer says \"same as last time,\" ask when last time was. We changed the recipe twice.\nIf any line above seems unreasonable, follow it anyway and ask me after closing.",
+          "editorNote": "Send it to someone taking their first on-call shift, or pin it above your team's runbook.",
+          "variations": [
+            "Extension: the last line originally said 'I forget why' before someone crossed it out.",
+            "Short version: every stall has one cold slot. The only question is whether anyone wrote it down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-457",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "開發者文化觀察中關於「知識只存在某個人腦裡」的主題，改寫成五金行牆面盤點",
+      "tags": [
+        "技術債",
+        "文件",
+        "工程師思維",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "五金行櫃檯後面那面牆，從上往下數：\n一本翻到脫頁的手寫價目表，最新那頁停在 2019 年，問他就說他都記得。\n三十幾個沒有貼標的塑膠盒，只有第二排第四個貼了張便條，上面寫「不要動」。\n一台切鑰匙的機器，旁邊掛一把樣品，齒紋早就磨平了，每個客人還是拿它來比。\n一疊剪成正方形的舊日曆紙，客人講不清楚要什麼的時候就在上面畫。\n一根掛鉤串著六支不同尺寸的螺絲起子，全部都不賣，全部天天在用。\n收銀台旁邊一支手機，畫面永遠停在計算機。\n我站在那面牆前面，忽然很清楚我們那套系統為什麼沒有人敢重寫。",
+          "editorNote": "適合在討論「這個模組只有某某人懂」的時候丟出來，也很適合交接前一天發。",
+          "variations": [
+            "延伸版本：那張便條是誰貼的沒有人知道，但三年來沒有人動過第二排第四個。",
+            "短版：整面牆沒有一個字寫給下一個人看，可是每一格都找得到。"
+          ]
+        },
+        "en": {
+          "content": "The wall behind the counter at the hardware store, top to bottom:\nA handwritten price list falling out of its binding, last updated in 2019. Ask him and he says he remembers all of it.\nThirty-odd unlabeled plastic bins. Only the fourth one in row two has a note on it, and the note says \"don't touch.\"\nA key-cutting machine with a sample key hanging beside it, teeth worn flat, still used by every customer for comparison.\nA stack of old calendar pages cut into squares, for customers who can't describe the part they want.\nSix screwdrivers of different sizes on one hook. None for sale. All in daily use.\nA phone by the register, screen permanently on the calculator.\nStanding in front of that wall, I finally understood why nobody wants to rewrite our system.",
+          "editorNote": "Drop this into the thread where someone says only one person understands that module. Also great the day before a handover.",
+          "variations": [
+            "Extension: nobody knows who wrote that note, and nobody has opened that bin in three years.",
+            "Short version: not one word on that wall was written for the next person, yet everything is findable."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-458",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "開發者笑話合集中關於無用錯誤訊息的段子，改寫成郵局櫃檯旁觀視角",
+      "tags": [
+        "使用者體驗",
+        "錯誤訊息",
+        "工程師日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "郵局櫃檯前那位先生第三次把單子拿回高腳桌重填，前兩張被退的理由都是姓名寫超出格子。\n他這次先用手指沿著格線比了一遍才落筆，寫到一半又停下來抬頭看牆上那張範例。\n範例上的收件地址只寫到市，跟他手上那個工業區編號完全對不起來，他就站在那裡看了很久。\n我低頭滑手機，滑到自己上週交出去的那個表單，送出失敗的時候只跳一行字：資料格式不正確。",
+          "editorNote": "適合在做表單驗證或寫錯誤訊息的那一週發，前端後端都會有感。",
+          "variations": [
+            "延伸版本：他最後是拿去問櫃檯，櫃檯用鉛筆在旁邊補了一行字，那才是真正的說明文件。",
+            "短版：一張要填三次的單子，跟一個只會說格式不正確的表單，是同一種錯。"
+          ]
+        },
+        "en": {
+          "content": "The man at the post office counter carried his form back to the standing desk for the third time. Both rejections were for writing his name outside the box.\nThis time he traced the boxes with his finger before writing, then stopped halfway to look up at the sample form on the wall.\nThe sample only fills the address down to the city, which matches nothing about the industrial park code in his hand, so he just stood there reading it.\nI looked back down at my phone, at the form I shipped last week, the one that fails submission with a single line: invalid data format.",
+          "editorNote": "Post it during a week of writing form validation or error copy. Both front-end and back-end will feel it.",
+          "variations": [
+            "Extension: he finally asked the clerk, who penciled one line in the margin. That line was the real documentation.",
+            "Short version: a form you fill three times and an error that only says 'invalid format' are the same failure."
+          ]
+        }
+      }
     }
   ]
 }

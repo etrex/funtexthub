@@ -8536,6 +8536,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-291",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://acenter.taichung.gov.tw/",
+      "sourceNote": "臺中市里活動中心 E 化資訊網 場地借用制度取靈感；申請書內容全為改寫原創",
+      "tags": [
+        "里民活動中心",
+        "省電",
+        "申請書",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "借用場地：里民活動中心二樓，靠窗那一間\n借用單位：本里三鄰，一戶，一人\n借用時段：每週二、四，下午一點到五點\n活動名稱：讀書會\n預計人數：一人。我媽那天沒事的話，兩人\n需求設備：桌子一張、插座一個，燈開一半就好\n借用事由：想讓家裡那台，下午先休息四個小時",
+          "editorNote": "傳給那個八月都在外面待到傍晚才願意回家的朋友",
+          "variations": [
+            "夏天最搶手的公共設施，是有桌子、有插座、而且不用你付電費的那一種。",
+            "我在借用事由那一欄想了很久，最後只寫了「讀書」兩個字。"
+          ]
+        },
+        "en": {
+          "content": "Space requested: Community center, second floor, the room by the window\nApplicant: One household, one person\nTime slot: Tuesdays and Thursdays, 1pm to 5pm\nActivity: Book club\nExpected attendance: One. Two, if my mom is free\nEquipment needed: One table, one outlet, half the lights is plenty\nReason for booking: So the unit at home can take four hours off",
+          "editorNote": "For the friend who spends all of August somewhere with a public outlet",
+          "variations": [
+            "The hottest amenity of the summer is a table, an outlet, and a bill somebody else pays.",
+            "I sat on the 'reason for booking' field for a long time and finally wrote: reading."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-292",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.gvm.com.tw/article/111318",
+      "sourceNote": "遠見 2026 夏季電價說明報導；場景與情節全為改寫原創",
+      "tags": [
+        "理髮店",
+        "帳單通知",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "設計師把梳子壓在我的瀏海上，問我這次想留多長。\n我盯著鏡子想了三秒，手在圍布底下伸進口袋，把手機翻過去，讓螢幕暗掉。\n那封通知我還沒點開，可是在一整面鏡子前面，我的表情大概已經先幫我點開了。\n剪短一點吧——我這個月剩下的每一件事，都是用同一個理由決定的。",
+          "editorNote": "貼給那個剛好坐在鏡子前面收到帳單通知的人",
+          "variations": [
+            "理髮店的鏡子最誠實的地方，是你連把手機朝下放都藏不住。",
+            "剪短一點，吹頭髮就快一點，這句話今年聽起來特別有道理。"
+          ]
+        },
+        "en": {
+          "content": "The stylist pressed the comb flat against my bangs and asked how long I wanted to keep it.\nI stared at the mirror for three seconds, slid a hand under the cape, and turned my phone face down.\nI hadn't opened the notification yet, but in front of a full wall of mirrors, my face had already opened it for me.\nTake it short — everything else I've decided this month came down to the same reason.",
+          "editorNote": "For anyone who got the bill alert while stuck in a barber's chair",
+          "variations": [
+            "A barbershop mirror's cruelest feature: face down doesn't hide anything.",
+            "Shorter hair, shorter blow-dry. This year that math finally makes sense."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-293",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://city.gvm.com.tw/article/119191",
+      "sourceNote": "城市學 老宅二手書店專題取氛圍靈感；情節全為改寫原創",
+      "tags": [
+        "二手書店",
+        "看書",
+        "省電",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上禮拜我在家裡的地板上翻開那本小說，看了兩頁，字就開始在眼前浮起來，只好闔上去洗臉。\n昨天下午在轉角那家二手書店，我靠著書架把同一本書從第二頁看到第八十頁，中間只換過一次腳。\n同一本書、同一個人、同一個八月，差別只在那四十分鐘的涼是誰在付。\n最後我把書買回家了，然後它就一直躺在桌上，安安靜靜地回到那個看不下去的溫度。",
+          "editorNote": "傳給那個整個夏天都在別人店裡把書看完的書蟲",
+          "variations": [
+            "同一本書在店裡看得完，在家看不完，中間隔的是四度。",
+            "二手書店最珍貴的館藏，是靠牆那排書架前面的空氣。"
+          ]
+        },
+        "en": {
+          "content": "Last week I opened that novel on my living room floor, made it two pages in, and the letters started floating.\nYesterday afternoon I leaned against a shelf in the used bookstore around the corner and read the same book from page two to page eighty, shifting my weight exactly once.\nSame book, same person, same August — the only difference was who paid for those forty cool minutes.\nI bought it and carried it home, where it has been lying on the table ever since, quietly back at the temperature I can't read in.",
+          "editorNote": "For the reader who finished the whole summer's books inside other people's shops",
+          "variations": [
+            "Finishable in the shop, unfinishable at home — the gap between them is four degrees.",
+            "A used bookstore's most valuable holding is the air in front of the back shelf."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-294",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "工商時報 2026 夏季電價報導；傳統市場攤商作息情節全為改寫原創",
+      "tags": [
+        "傳統市場",
+        "攤商",
+        "電費",
+        "夏天"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "04:40　鐵捲門拉開，第一件事是把攤子上那排燈全部點亮。\n05:20　賣魚的先開工，碎冰倒下去的聲音整條街都聽得到。\n07:05　我把最外側那盞燈關掉，外面已經亮到不需要它。\n10:30　太陽爬過對面屋頂，光直接打在攤子上，我把遮陽布再往外拉一格。\n13:00　收攤前把冰櫃塞滿，塞得越滿，它下午越省力。\n14:10　關燈的順序跟早上完全相反，最後關的是冰櫃旁邊那一盞。\n隔月上旬　帳單送到，上面那個數字，是這條街醒著的時間加起來的樣子。",
+          "editorNote": "傳給那個天還沒亮就得先開燈做生意的攤商朋友",
+          "variations": [
+            "攤商算成本的方式很簡單：一盞燈亮了幾個小時，就是幾個小時。",
+            "市場的作息表寫在燈上，開幾盞、關幾盞，比時鐘還準。"
+          ]
+        },
+        "en": {
+          "content": "04:40 Shutter up. First job: switch on the whole row of lights over the stall.\n05:20 The fish guy opens first; crushed ice hitting the counter carries down the entire street.\n07:05 I kill the outermost bulb — it's bright enough out there now.\n10:30 Sun clears the roof across the way and lands straight on the stall; I pull the awning out one more notch.\n13:00 Before closing, pack the chiller full. The fuller it is, the less it has to work all afternoon.\n14:10 Lights go off in exactly the reverse order. The last one is beside the chiller.\nEarly next month The bill arrives, and that number is what this street's waking hours add up to.",
+          "editorNote": "For the vendor friend who turns the lights on before the sun does",
+          "variations": [
+            "A market vendor's cost accounting is simple: how many hours a bulb was on, that's the number.",
+            "You can read this market's schedule off its lights better than off any clock."
+          ]
+        }
+      }
     }
   ]
 }

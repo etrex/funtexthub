@@ -9638,6 +9638,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-340",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://insomnia.sleep-disorders.net/clinical/bedroom-associations",
+      "sourceNote": "Informed by a patient-community piece on how the same body behaves differently depending on where it is waiting; rewritten as a clinic waiting area versus own bed comparison, no advice or treatment content",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下午在診所的排椅上，我等著護理師把我的名字念出來，一等就是五十分鐘。\n那五十分鐘我幾乎沒有感覺，翻完兩本捲了角的舊雜誌，抬頭剛好聽到自己。\n晚上躺回床上，我等的是另一個東西來叫我，同樣長度的五十分鐘我數了三次。\n白天那個地方至少有人負責念名字，我這裡的隊伍沒有人在管，只能自己站著往前挪。",
+          "editorNote": "適合白天在哪裡都撐得住、一躺下卻開始等的人。",
+          "variations": [
+            "在候診區等五十分鐘很快，在床上等五十分鐘要分三次數。",
+            "白天有人會念到我的名字，晚上這一段沒有人負責叫號。"
+          ]
+        },
+        "en": {
+          "content": "This afternoon I sat in the row of hard chairs at the clinic, waiting for someone to call my name, and it took fifty minutes.\nI barely felt those fifty minutes — two curled-up magazines later, I looked up right as my name came out of the speaker.\nAt night I lie down and wait for something else to call me, and the same fifty minutes get counted three separate times.\nThe afternoon at least had a person whose whole job was saying my name; this line has nobody running it, so I just shuffle forward on my own.",
+          "editorNote": "For anyone who can hold out anywhere during the day and starts waiting the second they lie down.",
+          "variations": [
+            "Fifty minutes in a waiting room goes fast. Fifty minutes in bed gets counted three times.",
+            "Someone calls my name in the afternoon. Nobody is working the night shift."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-341",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://themighty.com/topic/mental-health/insomnia-memes/",
+      "sourceNote": "Informed by a roundup of relatable insomnia posts about racing thoughts at night; rewritten as a daytime study-room scene where the same small sorting gesture repeats, no advice given",
+      "tags": [
+        "失眠",
+        "胡思亂想",
+        "腦內小劇場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上十點，我在自習室最角落那張桌子，把同一段話讀到第四遍。\n讀到一半我停下來，用手指把桌面上的橡皮擦屑推成一小堆，推得非常整齊。\n隔壁的人翻了一頁，我又把那一小堆重新推了一次。\n昨天凌晨三點我做過一模一樣的動作，只是推的是腦子裡的東西，一件一件推到天亮。",
+          "editorNote": "適合整夜沒睡、隔天還得假裝自己在讀書的那種早上。",
+          "variations": [
+            "我讀不進去的時候，手會自己找事情做。",
+            "白天推橡皮擦屑，半夜推的是別的東西。"
+          ]
+        },
+        "en": {
+          "content": "Ten in the morning, corner desk of the study room, reading the same paragraph for the fourth time.\nHalfway through I stop and push the eraser crumbs on the desk into one tidy little pile with my finger.\nThe person next to me turns a page, so I push the pile back together again.\nAt three this morning I was doing the exact same thing, except the pile was made of thoughts and I kept sorting it until the sky went light.",
+          "editorNote": "For the morning after a night with no sleep, when you still have to look like you are studying.",
+          "variations": [
+            "When I cannot read, my hands go find something to organize.",
+            "Eraser crumbs by day, everything else at three in the morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-342",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Night_markets_in_Taiwan",
+      "sourceNote": "Informed by background on Taiwanese night markets running from evening into the small hours; rewritten as a timestamped log of one stall closing down while the narrator stays out, no advice content",
+      "tags": [
+        "失眠",
+        "深夜",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "21:50　油鍋還在滾，隊伍長到擋住隔壁攤的招牌。\n23:20　賣衣服的那攤先收，鐵架一節一節疊回推車上。\n00:40　最後一組客人把塑膠椅推回原位，老闆開始刷那口鍋。\n01:30　整條街剩下兩盞燈，地上的水漬把光拉得很長。\n02:10　推車推走了，原本的位置留下一塊方形的乾地板。\n03:00　我還站在那塊乾地板旁邊，沒有要去哪裡的意思。\n04:05　回到家，沒開燈，坐在床邊把外套一顆一顆解開。",
+          "editorNote": "適合那種寧願在外面待到最後、也不想太早回房間的夜晚。",
+          "variations": [
+            "夜市都收完了，我還在那個路口研究地板。",
+            "整條街的燈都關了，只有我的行程還沒排完。"
+          ]
+        },
+        "en": {
+          "content": "21:50 — the fryer is still going and the queue is blocking the sign of the stall next door.\n23:20 — the clothes stall packs up first, steel racks folding back onto the cart one section at a time.\n00:40 — the last group pushes the plastic stools back into place and the owner starts scrubbing the wok.\n01:30 — two lights left on the whole street, and the wet patches on the ground stretch them out long.\n02:10 — the cart rolls away and leaves behind one neat dry rectangle of pavement.\n03:00 — I am still standing next to that dry rectangle with nowhere I intend to be.\n04:05 — home, lights off, sitting on the edge of the bed undoing my jacket one button at a time.",
+          "editorNote": "For nights when staying out until the very end beats going back to your room early.",
+          "variations": [
+            "The whole market packed up and I am still at the corner studying the pavement.",
+            "Every light on the street is off and my schedule somehow is not finished."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-343",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://upjoke.com/hardware-store-jokes",
+      "sourceNote": "Informed by a collection of hardware-store joke setups where a customer asks for an impossible part; rewritten as a Taiwanese hardware shop special-order slip, no advice or product claims",
+      "tags": [
+        "失眠",
+        "幽默",
+        "腦內小劇場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "品項：一顆螺絲。\n規格：不用太長，能把後腦勺那塊會鬆開的板子鎖回去就好。\n數量：一顆，再備一顆。\n用途：那塊板子每天過了十一點就會自己彈開，裡面的東西整晚掉個不停。\n希望取貨時間：今天，天黑之前。\n備註（店家填）：這個尺寸要調貨，最快下週三；先拿一條束帶回去撐著，這種撐法我們賣得很好。",
+          "editorNote": "適合想把腦袋鎖起來、卻只能先撐著過一晚的時候。",
+          "variations": [
+            "我想訂一顆螺絲，鎖住每天十一點會自己彈開的那塊板子。",
+            "缺的那個零件要調貨，今晚只能先用一條束帶撐著。"
+          ]
+        },
+        "en": {
+          "content": "Item: one screw.\nSpec: does not need to be long, just enough to hold down the panel at the back of my head that keeps coming loose.\nQuantity: one, plus a spare.\nPurpose: the panel pops open by itself every night after eleven and everything inside falls out until morning.\nPickup: today, before dark.\nShop notes: that size has to be ordered in, Wednesday at the earliest — take a cable tie for now, we sell a lot of them to people holding things together overnight.",
+          "editorNote": "For when you want to bolt your head shut and all you get is something to hold it together for one night.",
+          "variations": [
+            "I would like to order one screw, for the panel that pops open every night at eleven.",
+            "The part I need is out of stock, so tonight is being held together with a cable tie."
+          ]
+        }
+      }
     }
   ]
 }

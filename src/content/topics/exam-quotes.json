@@ -10501,6 +10501,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-348",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.dcard.tw/f/freshman",
+      "sourceNote": "Dcard 升大學考試板 開學離家 register — 轉運站送別語感，重寫為第二人稱傾訴",
+      "tags": [
+        "離家",
+        "朋友",
+        "分發",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "轉運站的月台是照字母排的，你那班在 E，我這班在 B，中間隔著一整條走道跟兩台販賣機。你上車前把耳機分我一邊，歌播到一半就被站務員叫上去，後面那段我一個人站在原地聽完。我們以前在這裡等的是同一班回家的車，現在連發車時間都對不上。這幾句我不會傳給你，你的車要開三個小時，你大概已經靠著窗睡著了。",
+          "editorNote": "適合送朋友上車的那天下午，兩個人從同一個轉運站往不同城市走。",
+          "variations": [
+            "短版：「你那班在 E，我這班在 B，中間隔著兩台販賣機。」",
+            "延伸版：「歌播到一半你就被叫上車，後面那段我站在原地聽完。」"
+          ]
+        },
+        "en": {
+          "content": "The gates at the terminal are lettered, so yours is E and mine is B, with a whole concourse and two vending machines in between. You handed me one earbud before you boarded, and the song was barely halfway through when they called your bus, so I stood there and finished the rest of it by myself. We used to wait in this building for the same ride home, and now our departure times don't even line up. I'm not sending you any of this, since your ride is three hours long and you're probably asleep against the window already.",
+          "editorNote": "For the afternoon you see a friend off and the two of you leave the same terminal for different cities.",
+          "variations": [
+            "Short: \"Your gate is E, mine is B, two vending machines in between.\"",
+            "Extended: \"They called your bus mid-song, so I finished it standing there.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-349",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/233125261",
+      "sourceNote": "Dcard 心情板 畢業後身分轉換 register — 舊證件與肌肉記憶的自嘲，重寫為停車場繳費機場景",
+      "tags": [
+        "考後",
+        "自嘲",
+        "畢業",
+        "習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "停車場的繳費機連吐三次，我很有把握地回頭跟我爸說這台壞了。第四次低頭才看清楚，我一路往投入口塞的是那張邊角磨白的高中學生證。它跟停車票差不多大，又在我外套內袋躺了整整三年，手比腦袋還熟。換成正確那張、錢繳完，我跟我爸說機器修好了，他哦了一聲就往前走。",
+          "editorNote": "適合畢業後第一次發現，手還記得那張已經用不到的證件。",
+          "variations": [
+            "短版：「我很有把握地說機器壞了，第四次才看清楚是自己塞錯東西。」",
+            "延伸版：「那張證在內袋躺了三年，手比腦袋還熟。」"
+          ]
+        },
+        "en": {
+          "content": "The parking kiosk spat my card back three times, and I turned around and told my dad, with total confidence, that the machine was broken. On the fourth try I finally looked down and saw I'd been feeding it my high school ID, corners worn pale. It's about the size of a parking stub, and it had been living in my jacket pocket for three straight years, so my hand knew it better than my head did. I swapped in the right one, paid, and told my dad they'd fixed the machine; he grunted and kept walking.",
+          "editorNote": "For the first time after graduation when your hand still reaches for a card you don't need anymore.",
+          "variations": [
+            "Short: \"Told my dad the machine was broken. The machine was fine.\"",
+            "Extended: \"My hand knew that pocket better than my head did.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-350",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.dcard.tw/f/freshman/p/245668977",
+      "sourceNote": "Dcard 升大學考試板 新生報到討論 register — 家長送考生出遠門的路上互動，重寫為加油站逐行對白",
+      "tags": [
+        "家人",
+        "離家",
+        "對話",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我：「九五，加五百就好。」\n爸：「加滿。」\n我：「又不是今天就要開下去。」\n爸：「這台的油表不準，指針到一半其實剩不到三分之一。」\n我：「所以你都怎麼判斷？」\n爸：「加滿就不用判斷。」\n我：「⋯⋯那加滿。」\n爸：「順便把胎壓也打一打。」",
+          "editorNote": "適合出發去報到的前一晚，被長輩硬是加滿油的那一趟。",
+          "variations": [
+            "短版：「我：加五百就好。爸：加滿。」",
+            "延伸版：「加滿就不用判斷，順便把胎壓也打一打。」"
+          ]
+        },
+        "en": {
+          "content": "Me: \"Ninety-five, five hundred's worth.\"\nDad: \"Fill it.\"\nMe: \"I'm not driving down there today.\"\nDad: \"The gauge on this car lies. Half a tank is really a third.\"\nMe: \"Then how do you ever know?\"\nDad: \"Fill it and you don't have to know.\"\nMe: \"...Fine. Fill it.\"\nDad: \"And we're checking the tires while we're here.\"",
+          "editorNote": "For the night before you leave, when someone insists on a full tank you don't need yet.",
+          "variations": [
+            "Short: \"Fill it and you don't have to know.\"",
+            "Extended: \"I'm not driving down today. — Fill it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-351",
+      "dateAdded": "2026-08-21",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1698816187.A.340.html",
+      "sourceNote": "PTT WomenTalk 聚餐火鍋討論串 register — 借聚餐場景，重寫為打了又刪的訊息草稿",
+      "tags": [
+        "朋友",
+        "聚餐",
+        "訊息",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "打了：湯底幫你點了番茄，你上次說想吃這個。（刪掉）\n打了：你沒來，結果大家從頭到尾都在講你。（刪掉）\n打了：沒來也沒差啦，這家很雷。（刪掉，這家明明就很好吃）\n打了：你那份鴨血我先吃了，記在你帳上。（刪掉，太得意）\n打了：下次你選店，我付錢。（刪掉，好像在補償什麼）\n送出去的是：鍋滾了，我明天再打給你。",
+          "editorNote": "適合聚餐時少了一個人，訊息打了半天最後只送出一句的那個晚上。",
+          "variations": [
+            "短版：「打了五句，送出去的只有『鍋滾了，我明天再打給你』。」",
+            "延伸版：「打了：你那份鴨血我先吃了，記在你帳上。（刪掉，太得意）」"
+          ]
+        },
+        "en": {
+          "content": "Typed: We got the tomato broth, the one you said you wanted. (deleted)\nTyped: You weren't here and everyone talked about you all night. (deleted)\nTyped: You didn't miss much, this place is bad. (deleted, this place is great)\nTyped: I ate your duck blood. Putting it on your tab. (deleted, too smug)\nTyped: You pick the place next time, I'm paying. (deleted, sounds like an apology)\nWhat I actually sent: Soup's boiling. I'll call you tomorrow.",
+          "editorNote": "For the dinner where one seat stays empty and you draft five messages to send one line.",
+          "variations": [
+            "Short: \"Five drafts, one sent: soup's boiling, I'll call you tomorrow.\"",
+            "Extended: \"Typed: I ate your duck blood, putting it on your tab. (deleted, too smug)\""
+          ]
+        }
+      }
     }
   ]
 }
