@@ -5939,6 +5939,82 @@
           "variations": ["The parking fee was cheap; those four and a half hours weren't.", "The toll is easy to pay. Pretending I wanted to come is the expensive part."]
         }
       }
+    },
+    {
+      "id": "cpq-313",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://tpml.gov.taipei/News_Content.aspx?n=CD4793DE89132E89&s=C3A3221BB46754DF&sms=71AD87982060791E",
+      "sourceNote": "臺北市立圖書館「閱讀存摺點數折抵逾期日數」規定與各館逾期違約金計算方式（每日一元）為明細欄位參考，古裝藏書閣還書 register 為原創改寫，場景設在圖書館還書口",
+      "tags": ["古裝劇", "語錄", "圖書館", "逾期", "閱讀"],
+      "i18n": {
+        "zh-tw": {
+          "content": "借閱人：卡片認得我，姓名欄空著也放行\n逾期天數：十一天，其中八天我從門口走過\n違約金：每冊一元，合計十一元\n折抵方式：閱讀存摺點數扣光，帳面歸零\n投還時間：閉館後投進還書口，算成明天才還\n館員備註：書角壓了摺，不追究\n讀者自填：館裡少的是一本書，我少的是說要讀完那一夜",
+          "editorNote": "適合寫買了書卻沒讀完、對自己食言、遲來的收尾；可配還書口、書車或蓋著到期章的借閱單照片。",
+          "variations": ["違約金十一元，欠自己的那一夜沒有標價。", "書還了，答應要讀完的那個晚上還沒還。"]
+        },
+        "en": {
+          "content": "Borrower: the card knows me, so the name field stays blank\nDays overdue: eleven, and I walked past the door on eight of them\nFine: one dollar a volume, eleven in total\nCredit applied: reading-log points, all of them, balance back to zero\nReturned: after closing, into the drop slot, so it counts as tomorrow\nStaff note: corner creased, no charge\nBorrower's own line: the library is short one book, and I'm short the night I said I'd finish it",
+          "editorNote": "For posts about books you never finished, promises broken to yourself, or overdue closure; pairs with return slots, book carts, or stamped due-date slips.",
+          "variations": ["Eleven dollars for the book. The night I owe myself has no listed price.", "The book went back. The evening I promised it never did."]
+        }
+      }
+    },
+    {
+      "id": "cpq-314",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://star.ettoday.net/news/3141120",
+      "sourceNote": "古裝劇「人間清醒」金句 register 參考（ETtoday 星光雲 2026 熱播古裝劇金句整理），內容為原創改寫，場景移至中藥行抓藥櫃檯",
+      "tags": ["古裝劇", "語錄", "中藥行", "照顧", "疲憊"],
+      "i18n": {
+        "zh-tw": {
+          "content": "抓藥人：替全家跑腿的那位，通常最後才顧到自己\n帖數：七帖，一天一帖，第四天保證想偷懶\n藥引：睡滿六小時，這味最貴，也最常缺貨\n禁忌：忌生冷，忌深夜翻舊訊息\n煎法：文火慢熬，火急了會苦\n合計：三百四，老闆抹掉零頭\n櫃檯附註：藥治得了的都算小病，剩下那些慢慢養",
+          "editorNote": "適合寫照顧者的疲憊、身體發出的警訊、學著對自己好一點；可配中藥行藥櫃、藥包或熬藥的砂鍋照片。",
+          "variations": ["藥引寫著睡滿六小時，這味我缺了三年。", "藥治得了的都算小病，剩下那些得自己慢慢養。"]
+        },
+        "en": {
+          "content": "Picking up for: the one who runs errands for the whole family and gets to themselves last\nPackets: seven, one a day, and day four is when you'll want to skip\nKey ingredient: six hours of sleep — priciest item on the shelf, most often out of stock\nAvoid: cold food, and rereading old messages after midnight\nMethod: low flame, slow simmer; rush it and it turns bitter\nTotal: three-forty, the owner waives the change\nCounter note: whatever medicine can reach is the easy part, and the rest you tend to slowly",
+          "editorNote": "For posts about caregiver burnout, a body sending warnings, or learning to look after yourself; pairs with herb-shop drawers, paper packets, or a simmering clay pot.",
+          "variations": ["Six hours of sleep is listed as an ingredient. I've been out of it for three years.", "Whatever medicine can reach is the easy part. The rest you tend to slowly."]
+        }
+      }
+    },
+    {
+      "id": "cpq-315",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://woman.udn.com/woman/story/123164/9375270",
+      "sourceNote": "古裝劇守候／等人歸來台詞 register 參考（udn 女子漾 2026 熱播古裝劇金句盤點），內容為原創改寫，場景移至五金行配鑰匙攤",
+      "tags": ["古裝劇", "語錄", "五金行", "鑰匙", "等待"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這把牙口都磨平了，再配也咬不住鎖。」\n「照原樣打一副就好，我用習慣了。」\n「習慣是你的事，門有門的脾氣。」\n「那你替我多打一副。」\n「多的那副要給誰？」\n「先收著，哪天有人半夜想回來，總得讓人進得了門。」",
+          "editorNote": "適合寫替某人留一條退路、久等未歸的家人、無聲的守候；可配鑰匙串、五金行工作檯或門鎖特寫。",
+          "variations": ["多打的那副先收著，總有人會需要。", "門有門的脾氣，我還是替你留了一把。"]
+        },
+        "en": {
+          "content": "\"The teeth on this one are worn flat. A copy won't catch anymore.\"\n\"Just cut it the same. I'm used to it.\"\n\"You're used to it. The lock has opinions of its own.\"\n\"Then cut me a spare.\"\n\"Who's the spare for?\"\n\"Nobody yet. Someone might want to come back late one night, and they should be able to get in.\"",
+          "editorNote": "For posts about leaving someone a way back, waiting on family, or quiet devotion; pairs with keyrings, hardware-store workbenches, or close-ups of a lock.",
+          "variations": ["I'll hold on to the spare. Someone always ends up needing it.", "The lock has opinions of its own. I cut you a key anyway."]
+        }
+      }
+    },
+    {
+      "id": "cpq-316",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://supertaste.tvbs.com.tw/accessories/359110",
+      "sourceNote": "古裝劇命定／抉擇金句 register 參考（食尚玩家 2026 熱播古裝劇經典金句總整理），內容為原創改寫，敘事者改為廟裡供桌上的籤筒",
+      "tags": ["古裝劇", "語錄", "廟宇", "求籤", "抉擇"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在這張供桌上站了三十年，聽過的心願比香灰還多。搖我的人手都在抖，抖到最後掉出來的那一支，多半是他們早就想好的答案。上上籤下下籤，我從來沒偏心過，我只負責讓人把話說出口。有人求完轉身就走，也有人跪在原地把籤詩讀了三遍，那三遍其實是留給自己聽的。",
+          "editorNote": "適合寫猶豫不決、其實心裡早有答案、去廟裡求個安心；可配籤筒、籤詩紙或香爐煙霧照片。",
+          "variations": ["掉出來的那一支，多半是你早就想好的答案。", "籤詩讀三遍，第三遍是讀給自己聽的。"]
+        },
+        "en": {
+          "content": "I've stood on this altar table for thirty years and heard more wishes than there is ash in the burner. Every hand that shakes me is trembling, and the stick that finally drops out is usually the answer they'd already settled on. Lucky reading or unlucky, I've never played favorites; my whole job is getting people to say the thing out loud. Some turn and go the moment they're done, and some kneel there reading the verse three times, that third time meant for their own ears.",
+          "editorNote": "For posts about indecision, already knowing your answer, or seeking reassurance at a temple; pairs with fortune-stick cylinders, paper verses, or incense smoke.",
+          "variations": ["The stick that drops out is usually the answer you'd already chosen.", "Read the verse three times and the third one is for you alone."]
+        }
+      }
     }
   ]
 }

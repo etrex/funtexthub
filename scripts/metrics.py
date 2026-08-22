@@ -60,6 +60,26 @@ def is_list_frame(text):
     return bool(MARKERS['list_style'].search(text) or MARKERS['receipt'].search(text))
 
 
+# --- v2 frame classifier (ADDED 2026-08-22) ---------------------------------
+# Does NOT replace is_list_frame() above -- that stays frozen and comparable.
+# Rationale: label-colon frames (工單/說明書/廣播稿/成就解鎖/田野紀錄) and pure
+# dialogue carry no periods by design, so the frozen classifier filed them as
+# prose and made prose_4sent_pct read artificially low.
+LABEL_LINE = re.compile(r'^\s*[^\s：:]{1,14}[：:]')
+DIALOG_LINE = re.compile(r'^\s*[「『]')
+
+
+def is_list_frame_v2(text):
+    if is_list_frame(text):
+        return True
+    lines = [l for l in text.split('\n') if l.strip()]
+    if len(lines) < 4:
+        return False
+    labelled = sum(1 for l in lines if LABEL_LINE.match(l))
+    spoken = sum(1 for l in lines if DIALOG_LINE.match(l))
+    return labelled >= 3 or spoken >= 3
+
+
 def report(rows, label):
     n = len(rows)
     if not n:
@@ -108,6 +128,17 @@ def report(rows, label):
     out['list_inrange_pct'] = round(lok / len(lists) * 100, 1) if lists else None
     print(f'  prose items {len(prose):>5}   exactly 4 sentences: {out["prose_4sent_pct"]}%')
     print(f'  list  items {len(lists):>5}   5-8 lines:           {out["list_inrange_pct"]}%')
+
+    print('\n-- v2 frame split (added 2026-08-22; metrics above unchanged) --')
+    prose2 = [c for _, _, c, _ in rows if not is_list_frame_v2(c)]
+    lists2 = [c for _, _, c, _ in rows if is_list_frame_v2(c)]
+    p2 = sum(1 for c in prose2 if 3 <= sentence_count(c) <= 5)
+    l2 = sum(1 for c in lists2 if 5 <= len([l for l in c.split('\n') if l.strip()]) <= 8)
+    out['prose_v2_n'], out['list_v2_n'] = len(prose2), len(lists2)
+    out['prose_v2_3to5sent_pct'] = round(p2 / len(prose2) * 100, 1) if prose2 else None
+    out['list_v2_inrange_pct'] = round(l2 / len(lists2) * 100, 1) if lists2 else None
+    print(f'  prose_v2 {len(prose2):>5}   3-5 sentences: {out["prose_v2_3to5sent_pct"]}%')
+    print(f'  list_v2  {len(lists2):>5}   5-8 lines:     {out["list_v2_inrange_pct"]}%')
 
     print('\n-- integrity --')
     nosrc = sum(1 for _, _, _, it in rows if not it.get('sourceUrl'))

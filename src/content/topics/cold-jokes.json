@@ -12032,6 +12032,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-465",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.mmh.org.tw/know_health_view.php?docid=540",
+      "sourceNote": "參考馬偕紀念醫院一般採血檢查衛教（空腹時間、抽血後加壓五到十分鐘），改寫成檢驗科叫號廣播稿",
+      "tags": [
+        "諧音",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "檢驗科廣播：A32 號請到三號採血檯。\n提醒您，本櫃檯只抽血，不抽獎，抽中也沒有加碼。\n空腹八小時的往左邊排，剛剛在門口吃了茶葉蛋的，自己心裡有數。\n抽完請按住五分鐘，按住就好，不用按到過年，那個叫壓歲。\n再廣播一次，A32 號，血還是要抽的。",
+          "editorNote": "適合健檢前一天丟進群組，或轉給怕打針的朋友",
+          "variations": [
+            "可以改成捐血車版：「本車只收血，不收會員點數，捐完送餅乾，不送好運。」"
+          ]
+        },
+        "en": {
+          "content": "Lab counter announcement: number A32, window three.\nReminder: we draw blood here, we do not draw prizes.\nIf you win, the prize is a cotton ball.\nEight-hour fasters to the left; whoever ate an egg by the entrance knows who they are.\nPress the spot for five minutes. Five. Not until the holidays.",
+          "editorNote": "For the group chat the night before a health checkup",
+          "variations": [
+            "Blood drive version: \"This bus takes blood, not loyalty points. Cookies included, luck not included.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-466",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://zh.wikipedia.org/zh-hans/%E8%87%AA%E7%94%B1%E6%B3%B3",
+      "sourceNote": "參考自由泳條目「可採用任何姿勢」的定義，改寫成泳池管理員的廣播稿",
+      "tags": [
+        "諧音",
+        "運動",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "泳池廣播：自由式水道有一位先生正在蛙泳。\n先生，自由式的自由指的是姿勢，水道方向沒有跟著一起自由。\n另外三號水道那位，仰式的重點在仰，不在睡。\n救生員盯您十分鐘了，他分不出來您是在漂還是在夢裡。\n以上廣播，請大家繼續游，也麻煩繼續醒著。",
+          "editorNote": "適合游完泳、在池邊喘氣的時候發",
+          "variations": [
+            "可以改成健身房版：「深蹲區那位，休息組請照樣算進一組。」"
+          ]
+        },
+        "en": {
+          "content": "Pool announcement: someone is doing breaststroke in the freestyle lane.\nSir, freestyle refers to your stroke. It does not extend to your direction.\nLane three, backstroke is about facing up, not about dozing off.\nThe lifeguard has watched you for ten minutes and still cannot tell if you are floating or asleep.\nThat is all. Keep swimming, and please keep being awake.",
+          "editorNote": "For the moment you climb out of the pool and catch your breath",
+          "variations": [
+            "Gym version: \"To the person in the squat rack: a rest set is still a set.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-467",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.kektattoo.com/pain-tattoos-chart/",
+      "sourceNote": "參考凱克刺青疼痛分佈圖（手臂痛感最低）的常見提問，改寫成刺青師與客人的純對話",
+      "tags": [
+        "諧音",
+        "文字遊戲",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這一針會很痛嗎？」\n「針的不會。」\n「你剛剛是在講諧音梗嗎？」\n「針的沒有。」\n「⋯⋯那我改天再來好了。」\n「留下來啦，圖我都畫好了，這種梗我還有一整排。」",
+          "editorNote": "適合傳給那個嚷嚷要刺青、預約了三次都沒去的朋友",
+          "variations": [
+            "可以改成打疫苗版：護理師說「針的一下下」，你才發現痛的是那句話。"
+          ]
+        },
+        "en": {
+          "content": "\"Is this needle going to hurt?\"\n\"There's no needle panic.\"\n\"Was that a pun?\"\n\"No needle worry about that either.\"\n\"...Maybe I'll come back another day.\"\n\"Stay. The design is drawn, and I have a whole sheet of these left.\"",
+          "editorNote": "For the friend who has rescheduled their tattoo appointment three times",
+          "variations": [
+            "Vaccine version: the nurse says \"needle just a second\" and the pun stings more than the shot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-468",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.moa.gov.tw/ws.php?id=2507786",
+      "sourceNote": "參考農業部節氣說明（處暑落在國曆八月二十二至二十四日、暑氣至此而止），改寫成氣象播報體",
+      "tags": [
+        "天氣",
+        "時事",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "處暑特報：暑氣今天正式辦理離職，交接期預計兩個月。\n午後對流旺盛，降雨範圍以剛洗好的那台車為主。\n紫外線過量，體感溫度與節氣目前互不認識。\n週末東北風增強，強度約等於冷氣調高一度。\n以上，秋天已讀，尚未回覆。",
+          "editorNote": "適合處暑當天，在還是三十五度的午後發",
+          "variations": [
+            "可以改成立冬版：「冷氣團已出發，抵達時間不明，短袖請先不要收。」"
+          ]
+        },
+        "en": {
+          "content": "End of Heat bulletin: summer filed its resignation today, with a two-month handover.\nAfternoon storms expected, mainly over the car you just washed.\nUV extreme. The temperature and the calendar have not been introduced.\nNortheast wind picks up this weekend, roughly one degree of air conditioning.\nThat is all. Autumn has read your message and has not replied.",
+          "editorNote": "For the day the calendar says fall and the thermometer says otherwise",
+          "variations": [
+            "Winter version: \"Cold front has departed, arrival time unknown, keep your short sleeves handy.\""
+          ]
+        }
+      }
     }
   ]
 }

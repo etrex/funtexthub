@@ -9754,6 +9754,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-344",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://udn.com/news/story/120911/7930328",
+      "sourceNote": "Informed by reporting on Taiwanese self-service car washes switching to timed unlimited-use pricing and staying open around the clock, plus background that 處暑 falls on 8/23 with hot days and widening day-night temperature gaps; rewritten as an on-site weather bulletin, no product or health claims",
+      "tags": [
+        "失眠",
+        "深夜",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "本場區今夜天氣：三號車道空著，泡沫濃度偏高。\n高壓水柱間歇性出現，能見度取決於你手抖的程度。\n地面積水偏深，穿拖鞋來的請自行負責。\n車身約三十分鐘轉乾，車主本人不在本預報範圍內。\n明天進處暑，白天照樣三十五度，入夜後溫差開始拉大。\n附註：投幣口只收十元，睡意不收，請不要硬塞。",
+          "editorNote": "適合半夜沒事做、開車出門只為了找個地方站著的時候。",
+          "variations": [
+            "車三十分鐘就乾了，我大概要到天亮。",
+            "投幣口只收十元，我這一整晚的清醒它不收。"
+          ]
+        },
+        "en": {
+          "content": "Tonight at this car wash: bay three is open, foam density running high.\nPressure hose intermittent, visibility depending on how steady your hand is.\nStanding water is deeper than it looks, flip-flops entirely at your own risk.\nBodywork dries in about thirty minutes; the owner of the car falls outside this forecast.\nHeat holds tomorrow, with the gap between afternoon and midnight getting wider all week.\nNote: the slot takes ten-dollar coins only. It does not take being wide awake, so please stop feeding it that.",
+          "editorNote": "For nights you drive out just to have somewhere to stand.",
+          "variations": [
+            "The car dries in thirty minutes. I am looking at sunrise.",
+            "The coin slot takes ten-dollar coins and none of my extra hours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-345",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.freeway.gov.tw/Road.aspx",
+      "sourceNote": "Informed by official Taiwanese freeway closure notices for late-August overnight ramp construction (22:00 to 06:00 the next morning); rewritten as a traffic bulletin for an imaginary detour, no real place names copied verbatim",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "路況播報，這裡是你腦內那條替代道路。\n南下的出口今晚封閉施工，要等到明天早上六點才會開放。\n改道後會經過三年前那場沒講完的對話，路面顛簸，請減速。\n沿線沒有照明，導航播到這一段會自己安靜下來。\n目前查無更早的出口，天亮以前只能繼續開。\n播報完畢，後座那位已經睡著了，開穩一點。",
+          "editorNote": "適合腦子整晚繞路、怎麼開都下不了交流道的夜晚。",
+          "variations": [
+            "今晚的出口封閉施工，六點才開放，我先繞一下。",
+            "導航開到這一段就安靜了，因為它也沒去過。"
+          ]
+        },
+        "en": {
+          "content": "Traffic bulletin, coming to you from the detour inside your head.\nThe southbound exit is closed for overnight work and will not reopen until six.\nThe detour runs past a conversation you left unfinished three years ago; surface is rough, please slow down.\nNo lighting along that stretch, and your navigation goes quiet the moment you enter it.\nNo earlier exit is currently listed, so you drive until it gets light.\nEnd of bulletin. The one in the back seat is already asleep, so keep it steady.",
+          "editorNote": "For nights your head keeps circling and no exit shows up.",
+          "variations": [
+            "Exit closed for overnight work, reopening at six. Taking the long way.",
+            "The navigation goes quiet on that stretch because it has never been there either."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-346",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.healthworld.com.tw/news.php?action=show&id=323",
+      "sourceNote": "Informed by coverage of Taiwan's sleep-aid prescription volume and late-night pharmacy habits; rewritten as a counter conversation with no medication named and no advice given",
+      "tags": [
+        "失眠",
+        "深夜",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你好，我想找那種吃了會想睡的。」\n「有喔。不過先問一下，你是睡不著，還是不想睡？」\n「⋯⋯這兩個差在哪裡？」\n「差在後面那個，我這裡沒有東西可以給你。」\n「那你有什麼？」\n「我有找你的零錢，還有一句『路上小心，早點回去』。」",
+          "editorNote": "適合深夜還在外面晃、其實只是想跟誰講兩句話的時候。",
+          "variations": [
+            "「你是睡不著，還是不想睡？」這題我答不出來。",
+            "他找我零錢，順便說了一句早點回去，我就在門口站了很久。"
+          ]
+        },
+        "en": {
+          "content": "\"Hi, I'm looking for the kind of thing that makes you sleepy.\"\n\"Sure. Quick question first — can't sleep, or don't want to sleep?\"\n\"...What's the difference?\"\n\"The difference is I have nothing on the shelf for the second one.\"\n\"So what do you have?\"\n\"Your change, and a get home safe.\"",
+          "editorNote": "For late nights when you're out mostly to hear another person's voice.",
+          "variations": [
+            "\"Can't sleep, or don't want to sleep?\" I had no answer ready.",
+            "He handed me my change and a get home safe, and I stood outside a while."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-347",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.pohai.org.tw/health_detail.php?PKey=2367",
+      "sourceNote": "Informed by hospital coverage of rising chronic insomnia rates in Taiwan and repeated night-time waking; rewritten as a monologue from a motion-sensor light, no clinical claims",
+      "tags": [
+        "失眠",
+        "溫暖",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我是你家玄關那盞感應燈，白天沒人理我，我覺得這樣很好。\n你這禮拜有四個晚上在天亮前經過我，一次是去倒水，另外三次走到門口又轉身回房間。\n我從來不問你在找什麼，我的工作只有一項：你靠近的時候先亮起來。\n哪天你整夜都沒經過我，我會在黑暗裡站一整晚，然後偷偷替你高興。",
+          "editorNote": "適合傳給那個總是半夜起來走動、卻說自己睡得還可以的人。",
+          "variations": [
+            "玄關的燈這禮拜亮了四次，每次都只有我一個人。",
+            "它不問我在找什麼，只是在我走近的時候先亮起來。"
+          ]
+        },
+        "en": {
+          "content": "I'm the motion-sensor light in your entryway, ignored all day, which suits me fine.\nFour nights this week you walked past me before sunrise — once for water, three times you got to the door and turned back.\nI never ask what you're looking for; my whole job is to come on before you reach me.\nOn the night you don't pass me at all, I'll stand in the dark the whole time and be quietly glad.",
+          "editorNote": "Send it to the person who paces at night and insists they slept fine.",
+          "variations": [
+            "The hallway light came on four times this week, always for one person.",
+            "It never asks what I'm looking for. It just comes on before I get there."
+          ]
+        }
+      }
     }
   ]
 }

@@ -12893,6 +12893,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-459",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.bloodtw.com/",
+      "sourceNote": "捐血／抽血站現場動線的公開資訊；把叫號機跳號的日常觀察改寫成發號服務吃掉序號的工程梗",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "2026",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「手臂放輕鬆，握拳就好，越用力越難扎。」\n護理師講完，櫃檯後面那台叫號機從 042 直接跳到 044，被跳過的先生舉手，她頭也沒抬說晚點會補回來。\n針拔出來我還在想那個 043 去哪了。\n回公司第一件事是翻我們那支發號服務，重試那段真的會偷偷吃掉一個號。",
+          "editorNote": "適合在查序號斷號、訊息重複或漏送這類問題的那幾天貼出來。",
+          "variations": [
+            "延伸版本：後來 043 真的出現了，出現在下一位的螢幕上，兩個人同時站起來。",
+            "短版：斷掉的那個號碼不會消失，它只是在別人身上補回來。"
+          ]
+        },
+        "en": {
+          "content": "\"Relax your arm, just make a fist, tensing up makes it harder.\"\nThe nurse said it right as the queue display behind the counter jumped from 042 straight to 044. The skipped guy raised his hand; she said it would come back around without looking up.\nI was still thinking about 043 when the needle came out.\nFirst thing back at the office, I opened our ticket service. The retry path really does swallow a number.",
+          "editorNote": "Good for the week you're chasing gaps in sequence numbers or missing messages.",
+          "variations": [
+            "Extension: 043 did show up eventually, on the next person's screen, and two people stood up at once.",
+            "Short version: a skipped number doesn't vanish. It gets handed to somebody else."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-460",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://blog.aihao.tw/2026/04/20/ai-code-review-bottleneck/",
+      "sourceNote": "2026 年監控指標暴增與人力判讀落差的討論；改寫成機車行老師傅聽聲音對照儀表板的場景",
+      "tags": [
+        "工程師日常",
+        "工程師思維",
+        "工具",
+        "production"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個聲音我聽過，煞車沒問題，是後輪那顆軸承。」\n老闆沒拆車，先騎出去繞一圈再回來，報價八百。\n換完那個聲音就沒了，全程十二分鐘。\n我們的儀表板掛著四百多個指標，上禮拜那場事故，三個人輪流看了四十分鐘，最後是新來的同事說：那台機器的風扇聲跟旁邊不一樣。",
+          "editorNote": "適合在團隊討論監控要加什麼指標、或事故檢討會結束之後貼。",
+          "variations": [
+            "延伸版本：後來我們把那四百個指標關到剩十一個，事故平均處理時間反而掉了一半。",
+            "短版：看得到的東西越多，看見的東西越少。"
+          ]
+        },
+        "en": {
+          "content": "\"I know that sound. Brakes are fine, it's the rear bearing.\"\nThe shop owner didn't open anything up. He rode it around the block, came back, quoted me twenty bucks.\nSwapped it, sound gone, twelve minutes total.\nOur dashboard carries four hundred metrics. During last week's incident, three of us stared at it for forty minutes, and it was the new hire who said the fan on that box sounds different from the others.",
+          "editorNote": "Post it when the team is debating which metrics to add, or right after a postmortem.",
+          "variations": [
+            "Extension: we cut those four hundred panels down to eleven, and our mean time to recovery got cut in half.",
+            "Short version: the more you can see, the less you notice."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-461",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://www.ptt.cc/bbs/Soft_Job/M.1778298312.A.F0F.html",
+      "sourceNote": "PTT Soft_Job 關於導入新工具實際成本的討論；改寫成駕訓班收費明細的清單體",
+      "tags": [
+        "工程師日常",
+        "技術債",
+        "工具",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "駕訓班櫃檯開給我的明細，我後來把它貼在螢幕邊：\n報名費　一次付清\n教練費　含二十堂，超出另計\n模擬考　免費，時間自己排\n補考費　每次照算\n路考當天保險　強制\n合計比招生海報上那個數字多了四千一。\n上季我們導入那套新框架，提案裡也只寫到第二行。",
+          "editorNote": "適合在評估要不要換技術棧、或跟主管報導入成本的時候貼。",
+          "variations": [
+            "延伸版本：招生海報那個數字沒有騙人，它只是把所有你會做錯的地方都當作不會發生。",
+            "短版：報名費永遠是最便宜的那一行。"
+          ]
+        },
+        "en": {
+          "content": "The itemized bill from the driving school counter, which I later taped to my monitor:\nRegistration - paid in full\nInstructor - 20 lessons, extra hours billed separately\nMock test - free, book your own slot\nRetake fee - charged every time\nRoad test insurance - mandatory\nTotal came in $140 above the number on the recruiting poster.\nLast quarter we adopted a new framework. The proposal also stopped at line two.",
+          "editorNote": "Use it while evaluating a stack migration, or when presenting adoption costs to a manager.",
+          "variations": [
+            "Extension: the poster price wasn't a lie. It just assumed you'd get everything right the first time.",
+            "Short version: registration is always the cheapest line on the bill."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-462",
+      "dateAdded": "2026-08-22",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "開發者笑話合集裡關於延遲累積的段子；改寫成國道隧道口回堵的路況播報體",
+      "tags": [
+        "工程師日常",
+        "效能",
+        "production",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "南下三十七公里處，隧道前回堵八公里，通過需要四十分鐘，以上是整點路況。\n現場沒有事故，只有隧道口限速從九十掉到七十，每台車輕輕點了一下煞車。\n我們昨天那支 API 也沒有壞掉，每個請求只多等了六十毫秒。\n尖峰一到，佇列就從隧道口一路排回上一個交流道。",
+          "editorNote": "適合在做效能調校、或跟非技術同事解釋為什麼一點點延遲會炸掉的時候貼。",
+          "variations": [
+            "延伸版本：後來我們把限速拉回九十，車流量一台都沒變，回堵自己消失了。",
+            "短版：塞車的原因通常不在塞住的那一段。"
+          ]
+        },
+        "en": {
+          "content": "Traffic report: southbound, mile 23, five miles of backup ahead of the tunnel, forty minutes to clear.\nNo accident out there. The limit just drops from 55 to 45 at the tunnel mouth, and every car taps the brakes once.\nOur API didn't go down yesterday either. Each request just waited sixty milliseconds longer.\nCome peak hour, the queue backed up from the tunnel all the way to the previous exit.",
+          "editorNote": "For performance tuning week, or when explaining to non-engineers why a tiny latency bump takes everything down.",
+          "variations": [
+            "Extension: we put the limit back to 55, traffic volume never changed, and the backup dissolved on its own.",
+            "Short version: the reason for the jam is rarely in the part that's jammed."
+          ]
+        }
+      }
     }
   ]
 }
