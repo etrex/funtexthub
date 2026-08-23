@@ -471,33 +471,6 @@
       }
     },
     {
-      "id": "pj-018",
-      "dateAdded": "2026-04-09",
-      "sourceUrl": "https://punjokevault.com/programmer-jokes/",
-      "sourceNote": "Dark mode / light attracts bugs — popular developer one-liner",
-      "tags": [
-        "深色模式",
-        "bug",
-        "前端"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "有人問工程師：「你為什麼這麼執著用深色模式？」\n工程師停頓了一秒，認真地說：\n「因為光會吸引蟲（Bug）。」",
-          "editorNote": "講的時候要一臉嚴肅，這樣後勁才夠強。",
-          "variations": [
-            "補充理由：『而且深色模式讓人看起來更專業，Bug也不好意思來。』"
-          ]
-        },
-        "en": {
-          "content": "Someone asked a developer: \"Why are you so committed to dark mode?\"\nThe developer paused, then said with complete seriousness:\n\"Because light attracts bugs.\"",
-          "editorNote": "Deadpan delivery is essential. The joke lands harder with a straight face.",
-          "variations": [
-            "Additional reason: 'Dark mode also makes you look more serious. Bugs feel unwelcome.'"
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-019",
       "dateAdded": "2026-04-09",
       "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
@@ -5570,35 +5543,6 @@
       }
     },
     {
-      "id": "pj-199",
-      "dateAdded": "2026-06-03",
-      "sourceUrl": "https://punhour.com/coder-jokes/",
-      "sourceNote": "Out of cache / went broke pun — rewritten",
-      "tags": [
-        "雙關",
-        "cache",
-        "工程師語錄"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "工程師為什麼破產了？\n因為他把 cache 全部用光了。\n（cache 跟 cash 同音，工程師的錢跟記憶體一樣，清掉就再也回不來了。）",
-          "editorNote": "適合配早餐傳到群組裡的冷笑話，懂的人會邊翻白眼邊轉發。",
-          "variations": [
-            "他不是沒錢，他只是把 cash 清掉了，想說重開機就會回來。",
-            "也可以說：『我帳戶餘額跟我的可用記憶體一樣，永遠在快不夠用的邊緣。』"
-          ]
-        },
-        "en": {
-          "content": "Why did the developer go broke?\nBecause he used up all his cache.\n(Cache sounds like cash — and just like memory, once a developer clears it, it never comes back.)",
-          "editorNote": "A groaner for the morning group chat — the ones who get it will roll their eyes and forward it anyway.",
-          "variations": [
-            "He's not broke, he just cleared his cash and assumed a reboot would bring it back.",
-            "Alt: 'My bank balance is like my free RAM — permanently one tab away from running out.'"
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-200",
       "dateAdded": "2026-06-04",
       "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
@@ -6164,35 +6108,6 @@
       }
     },
     {
-      "id": "pj-220",
-      "dateAdded": "2026-06-11",
-      "sourceUrl": "https://one-beyond.com/20-one-liners-only-software-developers-understand/",
-      "sourceNote": "'works on my machine' classic, reframed as a short dialogue",
-      "tags": [
-        "工程師日常",
-        "經典名言",
-        "甩鍋"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "測試：「線上壞了，你那邊呢？」\n工程師：「我這邊跑得好好的啊。」\n測試：「那要怎麼辦？」\n工程師：「很簡單，把使用者的電腦全部換成我這台就好了。」",
-          "editorNote": "適合在「我這邊沒問題」變成團隊梗的時候轉發，提醒大家環境一致性有多重要。",
-          "variations": [
-            "解法：把整個生產環境打包成我的開發機，問題就消失了。",
-            "「在我電腦上是好的」這句話，已經拯救過無數個我，也害慘過無數個別人。"
-          ]
-        },
-        "en": {
-          "content": "QA: \"It's broken in production. How about on your end?\"\nDev: \"Runs perfectly on my machine.\"\nQA: \"So what do we do?\"\nDev: \"Easy. We just ship my laptop to every user.\"",
-          "editorNote": "Forward this whenever 'works on my machine' becomes the team's running joke — a gentle reminder about why environment parity matters.",
-          "variations": [
-            "Fix: package my entire dev laptop as the production environment. Bug gone.",
-            "'It works on my machine' has saved me countless times and doomed everyone else just as often."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-221",
       "dateAdded": "2026-06-11",
       "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
@@ -6217,35 +6132,6 @@
           "variations": [
             "He tried to save money but realized his life had no persistence layer.",
             "A developer's wallet is just like cache: tiny capacity, and it gets cleared without warning."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-222",
-      "dateAdded": "2026-06-12",
-      "sourceUrl": "https://programmerhumor.io/memes/regex",
-      "sourceNote": "Jamie Zawinski 'now you have two problems' regex classic, reframed",
-      "tags": [
-        "正規表達式",
-        "工程師思維",
-        "自嘲"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "工程師遇到問題，心想：「我知道，用正規表達式解決就好。」\n現在他有兩個問題了。",
-          "editorNote": "適合丟進後端或資料處理群組，每個寫過 regex 的人都會苦笑。",
-          "variations": [
-            "他寫了一行 regex 驗證 email，三個月後連自己都看不懂那行在驗什麼。",
-            "正規表達式：寫的時候你跟上帝都懂，上線後只剩上帝懂。"
-          ]
-        },
-        "en": {
-          "content": "A developer hits a problem and thinks: \"I know, I'll use a regular expression.\"\nNow they have two problems.",
-          "editorNote": "Drop this in any backend or data channel — everyone who's written regex will wince-laugh.",
-          "variations": [
-            "He wrote one line of regex to validate an email. Three months later, even he can't tell what it validates.",
-            "Regex: when you write it, you and God both understand it. After it ships, only God does."
           ]
         }
       }
@@ -6362,93 +6248,6 @@
           "variations": [
             "The fix is simple: just package the whole laptop into a Docker image and ship it to the customer.",
             "'Environment issue' is the one phrase in software nobody on either side wants to own."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-227",
-      "dateAdded": "2026-06-15",
-      "sourceUrl": "https://programmerhumor.io/memes/copilot",
-      "sourceNote": "AI copilot suggesting the same bug you created — reframed",
-      "tags": [
-        "AI工具",
-        "debug",
-        "工程師日常"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "我花了三天才寫出一個 bug。\n結果今天 AI 助手很貼心地自動補上一模一樣的那段。\n它不是來幫忙的，它是來陪我一起爛的。",
-          "editorNote": "適合貼在團隊群組吐槽 AI 自動補全，大家都會心一笑。",
-          "variations": [
-            "AI 補完的程式碼最大的特色就是：跑得起來，但沒人知道為什麼。",
-            "以前是 Google 上的答案沒人負責，現在是 AI 生的程式碼沒人負責。"
-          ]
-        },
-        "en": {
-          "content": "It took me three days to write one bug.\nThen my AI assistant kindly autocompleted the exact same line for me today.\nIt's not here to help — it's here to be terrible alongside me.",
-          "editorNote": "Great for venting in the team chat about AI autocomplete — everyone will nod knowingly.",
-          "variations": [
-            "AI-generated code has one defining feature: it runs, and nobody knows why.",
-            "We went from 'nobody owns the answer on Google' to 'nobody owns the code the AI wrote.'"
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-228",
-      "dateAdded": "2026-06-15",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "'used up all his cache' broke developer pun — reworked",
-      "tags": [
-        "雙關",
-        "工程師日常",
-        "自嘲"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "工程師為什麼會破產？\n因為他把 cache（快取／現金）全部用光了。",
-          "editorNote": "適合丟在午餐閒聊或工程師梗圖群，看誰先反應過來。",
-          "variations": [
-            "存款餘額：404 Not Found。",
-            "他試著清理 cache，結果連戶頭一起清空了。"
-          ]
-        },
-        "en": {
-          "content": "Why did the developer go broke?\nBecause he used up all his cache.",
-          "editorNote": "Drop this in a lunch chat or a dev meme group and see who groans first.",
-          "variations": [
-            "Account balance: 404 Not Found.",
-            "He tried to clear his cache and accidentally cleared his bank account too."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-229",
-      "dateAdded": "2026-06-15",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "UDP joke 'you might not get it' — classic, reframed",
-      "tags": [
-        "雙關",
-        "網路",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "我本來想講一個關於 UDP 的笑話的⋯⋯\n但你可能會收不到。",
-          "editorNote": "適合講給懂網路協定的同事聽，懂的人才會笑，不懂的剛好示範了這個笑話。",
-          "variations": [
-            "如果是 TCP 笑話，我會一直重講到你笑為止。",
-            "你沒收到沒關係，我也不會重傳。"
-          ]
-        },
-        "en": {
-          "content": "I was going to tell you a joke about UDP…\nbut you might not get it.",
-          "editorNote": "Tell this to a coworker who knows networking — the ones who don't laugh are demonstrating the punchline.",
-          "variations": [
-            "If it were a TCP joke, I'd keep retelling it until you laughed.",
-            "Didn't catch it? That's fine, I'm not retransmitting."
           ]
         }
       }
@@ -6686,35 +6485,6 @@
       }
     },
     {
-      "id": "pj-240",
-      "dateAdded": "2026-06-18",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "'It works on my machine' production joke — rewritten",
-      "tags": [
-        "上線",
-        "工程師思維",
-        "甩鍋"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "客戶：「線上環境壞掉了。」\n工程師：「可是在我電腦上跑得好好的啊。」\n客戶：「那要不要把你的電腦寄給全部的使用者？」\n工程師沉默了三秒，認真地拿出了紙箱。",
-          "editorNote": "傳給每個講過『在我這邊明明沒問題』、然後被現實狠狠打臉的工程師。",
-          "variations": [
-            "工程師最堅定的信仰，就是『在我電腦上是好的』這六個字。",
-            "如果可以把開發環境整台搬上線，這世界上一半的 Bug 都會消失。"
-          ]
-        },
-        "en": {
-          "content": "Client: \"Production is down.\"\nDev: \"But it runs perfectly on my machine.\"\nClient: \"Then should we ship your machine to every user?\"\nThe dev went quiet for three seconds, then seriously reached for a cardboard box.",
-          "editorNote": "For every developer who said 'works fine on my end' and got humbled by reality minutes later.",
-          "variations": [
-            "A developer's deepest faith is contained in five words: 'it works on my machine.'",
-            "If we could just ship the entire dev environment to production, half the world's bugs would vanish."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-241",
       "dateAdded": "2026-06-19",
       "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
@@ -6855,35 +6625,6 @@
           "variations": [
             "The job never changed, only who you cry to: first the screen, now the chat box.",
             "Today's developers aren't bad at coding — they're just really good at asking."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-247",
-      "dateAdded": "2026-06-20",
-      "sourceUrl": "https://punswork.com/programming-jokes/",
-      "sourceNote": "Works on my machine — classic blame-shift joke, rewritten",
-      "tags": [
-        "debug",
-        "工程師語錄",
-        "甩鍋"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "測試說：「這個功能壞了。」\n工程師打開電腦跑了一遍：「可是我這邊好好的啊。」\n測試：「那要不然我們把產品打包，連你的電腦一起出貨給客戶？」",
-          "editorNote": "貼在團隊群組，保證測試跟工程師都會出來認領自己的角色。",
-          "variations": [
-            "「在我電腦上沒問題」是工程師的免死金牌，可惜客戶買的不是你的電腦。",
-            "下次客訴的時候，記得問一句：你的環境跟我一樣嗎？"
-          ]
-        },
-        "en": {
-          "content": "QA: \"This feature is broken.\"\nDeveloper runs it locally: \"Weird, works fine on my machine.\"\nQA: \"Great. Should we just ship your laptop to the customer along with the product?\"",
-          "editorNote": "Drop this in the team chat and watch both QA and devs claim their roles instantly.",
-          "variations": [
-            "'Works on my machine' is a developer's get-out-of-jail card — too bad the customer didn't buy your machine.",
-            "Next bug report, just ask: is your environment exactly like mine?"
           ]
         }
       }
@@ -7063,35 +6804,6 @@
       }
     },
     {
-      "id": "pj-254",
-      "dateAdded": "2026-06-22",
-      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
-      "sourceNote": "Works on my machine one-liner — reframed as a support ticket bit",
-      "tags": [
-        "工程師思維",
-        "工程師語錄",
-        "字面意思"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "客服：「使用者說功能壞了。」\n工程師：「我這邊測過，完全正常。」\n客服：「那要怎麼回覆？」\n工程師：「請使用者把整台公司搬來我的電腦上跑。」",
-          "editorNote": "貼在跨部門群組，保證客服同事先笑出來再翻白眼。",
-          "variations": [
-            "「在我電腦上是好的」這句話，是工程師界最古老的咒語。",
-            "解法很簡單：把正式環境換成我的筆電就好了。"
-          ]
-        },
-        "en": {
-          "content": "Support: \"User says the feature is broken.\"\nDeveloper: \"I tested it here, works perfectly.\"\nSupport: \"So what do I tell them?\"\nDeveloper: \"Ask them to move the entire company onto my laptop.\"",
-          "editorNote": "Post it in a cross-team channel and watch support laugh before they sigh.",
-          "variations": [
-            "'Works on my machine' is the oldest incantation in all of engineering.",
-            "Simple fix: just replace production with my laptop."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-255",
       "dateAdded": "2026-06-22",
       "sourceUrl": "https://techtonicshifts.blog/2025/07/13/the-funniest-comments-ever-left-in-source-code/",
@@ -7206,35 +6918,6 @@
           "variations": [
             "Variant: 'Please add a button' → AI delivers a full cloud migration proposal with a quote attached.",
             "Bonus: 'Just change one color' → AI rewrites the entire design system, color unchanged."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-259",
-      "dateAdded": "2026-06-24",
-      "sourceUrl": "https://punswork.com/programming-jokes/",
-      "sourceNote": "SQL devs drop tables — classic furniture-moving pun rewritten",
-      "tags": [
-        "邏輯",
-        "字面意思",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "永遠不要找後端工程師幫你搬家。\n你叫他把桌子搬走，他真的會把整張桌子連同上面所有東西，一次刪光，而且還回不來。",
-          "editorNote": "傳給資料庫工程師朋友，他會默默想起自己手滑 DROP TABLE 的那個下午。",
-          "variations": [
-            "前端版：你叫他把桌子靠左，他把整個房間 flex 了一遍。",
-            "也可以是：找 SQL 工程師搬家，他第一句話會問『你有備份嗎？』"
-          ]
-        },
-        "en": {
-          "content": "Never ask a backend developer to help you move house.\nYou tell them to take the table away, and they really will — they'll drop the whole table, everything on it, all at once, and no, there's no undo.",
-          "editorNote": "Send it to a database friend; watch them flash back to the afternoon they fat-fingered a DROP TABLE.",
-          "variations": [
-            "Frontend version: you ask them to move the table left, and they flex the entire room.",
-            "Alternate: ask a SQL dev to help you move, and their first question is 'do you have a backup?'"
           ]
         }
       }
@@ -7467,35 +7150,6 @@
           "variations": [
             "Extension: so I learned one rule — check who wrote it before you start yelling.",
             "Alternate: git blame doesn't fix anything, but it does find your next apology target. Usually yourself."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-269",
-      "dateAdded": "2026-06-30",
-      "sourceUrl": "https://jokesandpuns.com/programmers-jokes/",
-      "sourceNote": "dark mode because light attracts bugs joke, rewritten",
-      "tags": [
-        "bug",
-        "工程師思維",
-        "工程師日常"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "有人問我為什麼工程師都用深色模式，\n我說：因為光會引來蟲。\n他笑了一下，\n然後我看著他的螢幕，淺色模式，滿滿的 bug。",
-          "editorNote": "適合用來回應任何問你『為什麼一定要黑底』的非工程師朋友。",
-          "variations": [
-            "延伸：所以我的人生哲學是——能黑就黑，連心情也是。",
-            "也可以是：白底螢幕看久了眼睛痛，黑底螢幕看久了人生痛，各有各的痛。"
-          ]
-        },
-        "en": {
-          "content": "Someone asked me why all developers use dark mode.\nI said: because light attracts bugs.\nThey laughed,\nthen I glanced at their screen — light mode, absolutely crawling with bugs.",
-          "editorNote": "Perfect comeback for any non-dev who asks why your screen has to be black.",
-          "variations": [
-            "Extension: so my life philosophy is — go dark when you can, mood included.",
-            "Alternate: light screens hurt your eyes over time; dark screens hurt your soul over time. Pick your pain."
           ]
         }
       }
@@ -10213,36 +9867,6 @@
           "variations": [
             "Bonus round: the last line of the JD said 'nice to have: built your own LLM from scratch.' I quietly closed the tab.",
             "End it with: 'This isn't a hiring post, it's a casting call for a time traveler.'"
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-371",
-      "dateAdded": "2026-07-28",
-      "sourceUrl": "https://www.codeitbro.com/blog/vibe-coding-memes",
-      "sourceNote": "Classic 'works on my machine' reframed for the container/AI era",
-      "tags": [
-        "工程師日常",
-        "甩鍋",
-        "production",
-        "黑色幽默"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "測試工程師：「這功能在正式環境會壞。」\n我：「可是在我的電腦上跑得好好的啊。」\n測試工程師：「那我們總不能把你的電腦裝箱寄給客戶吧。」\n我：「⋯⋯所以 Docker 才會被發明。」",
-          "editorNote": "『在我電腦上是好的』是工程師最後的尊嚴，也是甩鍋的最高境界，傳給你那個永遠復現不了 bug 的同事。",
-          "variations": [
-            "延伸版：後來我們真的把我的電腦環境『裝箱』了，只是那個箱子叫 container。",
-            "也可以接：『問題不是你的電腦太特別，是正式環境太誠實。』"
-          ]
-        },
-        "en": {
-          "content": "QA: \"This feature breaks in production.\"\nMe: \"But it runs perfectly on my machine.\"\nQA: \"We can't exactly box up your laptop and ship it to the customer.\"\nMe: \"...and that, my friend, is why Docker was invented.\"",
-          "editorNote": "'Works on my machine' is a developer's last shred of dignity and the peak of blame-shifting — send it to the coworker whose bugs you can never reproduce.",
-          "variations": [
-            "Extension: eventually we did box up my machine's environment — we just called the box a container.",
-            "Follow-up: 'The problem isn't that your machine is special, it's that production is honest.'"
           ]
         }
       }
