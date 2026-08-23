@@ -12039,6 +12039,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-447",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://stephenfollows.com/p/uncredited-movie-credits",
+      "sourceNote": "Analysis of how many film contributors never make it onto the end credits (only 50 of 391 workers credited on one 1939 classic). Original angle: a short letter written to someone still sitting in the cinema aisle after everyone else has left.",
+      "tags": ["勵志", "幕後", "努力", "被看見"],
+      "i18n": {
+        "zh-tw": {
+          "content": "散場燈亮的時候，走道上只剩你一個人還坐著，門口那個拿垃圾袋的工讀生已經在等你走。\n\n你抬頭看字幕捲到燈光組那一整排，沒有一個名字你認得，可是剛剛那場戲光打在臉上的角度，是他們一格一格試出來的。\n\n一部片背後幾百個人，字幕擠得下的永遠只有一部分，沒被印上去的那些人明天照樣去現場報到。\n\n你這半年做的東西也還輪不到掛名，我還是要跟你說一句：你負責的那一格，畫面裡真的看得出來。",
+          "editorNote": "想傳給那種默默做事、成果還掛不到自己名字的人時可以用；自己覺得白做工的晚上也適合回頭看一次。",
+          "variations": [
+            "字幕擠不下的名字，畫面裡還是找得到他的手。",
+            "還輪不到掛名的階段，作品已經在替你講話了。"
+          ]
+        },
+        "en": {
+          "content": "The house lights come up and you're the only one still in a seat, while the kid holding the trash bag waits by the door for you to go.\n\nYou look up as the credits roll past the lighting crew, a whole column of names you don't recognize, and the angle of light on that face in the scene that got you was theirs, tested frame by frame.\n\nHundreds of people finish a film and the credits only have room for some of them; the ones left off show up on set again tomorrow morning.\n\nNothing you've made this half-year carries your name yet, and I'll still say it: the part you handled shows up on the screen.",
+          "editorNote": "Send it to someone doing work that hasn't earned a byline yet, or read it on a night when your own effort feels invisible.",
+          "variations": [
+            "A name that didn't fit in the credits still shaped the frame.",
+            "No byline yet, and your fingerprints are all over the picture."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-448",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://oecs.mit.edu/pub/hunngznm/",
+      "sourceNote": "Open Encyclopedia of Cognitive Science entry on counterfactual thinking — imagining alternative versions of a past event and how that shapes learning and motivation. Original angle: running the version that never happened while standing at an old apartment mailbox.",
+      "tags": ["勵志", "假設", "堅持", "小動作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果那天你沒有在一樓那排生鏽的信箱前停下來，沒有把卡到抽不動的傳單一張一張拉出來，那封信會被壓在最底下，下個月連同整疊被掃進回收桶。\n\n如果是那樣，你到今天都還會以為對方從頭到尾沒有回你，然後把這件事在心裡默默劃掉。\n\n你大概會怪自己不夠好，實際擋在中間的東西只有一疊廣告單的厚度。\n\n可是你那天真的蹲下去了，指節還被鐵皮邊緣刮了一道，信就在裡面。\n\n那個版本之所以沒有成真，是你多花了那三十秒。",
+          "editorNote": "適合在覺得自己只是運氣好的時候讀；也可以在猶豫要不要多做那一小步的當下打開。",
+          "variations": [
+            "沒有發生的壞結局，通常是被你某個很小的動作攔下來的。",
+            "多蹲那三十秒跟就此放棄之間，有時候只隔著一疊廣告單。"
+          ]
+        },
+        "en": {
+          "content": "If you hadn't stopped at the row of rusted mailboxes in the lobby that day, if you hadn't pulled the jammed flyers out one sheet at a time, that letter would have stayed at the bottom and gone into the recycling bin with the whole stack next month.\n\nIf that had happened, you'd still believe nobody ever wrote back, and you'd have quietly crossed the whole thing off.\n\nYou'd have blamed yourself for not being good enough, when what stood in the way was half an inch of junk mail.\n\nBut you did crouch down, you scraped a knuckle on the metal edge, and the letter was in there.\n\nThat version never came true because you spent the extra thirty seconds.",
+          "editorNote": "Read it when you're convinced your results were just luck, or right before deciding whether one more small step is worth it.",
+          "variations": [
+            "The bad ending that never arrived was usually stopped by something very small you did.",
+            "Thirty extra seconds and giving up are sometimes separated by a stack of flyers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-449",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://learnnovators.com/blog/error-based-learning-why-getting-it-wrong-helps-us-learn-better/",
+      "sourceNote": "Explainer on error-based learning: mistakes followed by corrective feedback make later attempts faster and more accurate. Original angle: counting the exact cost of two failed trips while waiting for your turn at a bank.",
+      "tags": ["勵志", "重來", "累積", "失敗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這是你為了同一件事來的第三次。\n\n第一次少帶印章，白跑四十分鐘；第二次表格第五欄簽錯位置，行員把新的一張推回來，你站在旁邊那張檯子上重寫了兩遍。\n\n今天你在等候區的塑膠椅坐了二十六分鐘，前面還有九個人，資料夾裡三份正本、兩份影本，印章插在最外面那個夾層。\n\n等一下輪到你，整件事大概六分鐘就結束，而那六分鐘是前面兩趟替你省下來的。",
+          "editorNote": "適合在重來第二次、第三次還覺得丟臉的時候看；也可以傳給正在補件、跑流程跑到煩的朋友。",
+          "variations": [
+            "前面兩趟的白跑，會在這一趟縮成六分鐘。",
+            "第三次能一次帶齊的人，是被前兩次教會的。"
+          ]
+        },
+        "en": {
+          "content": "This is the third time you've come in for the same piece of paperwork.\n\nThe first time you left your seal at home and burned forty minutes; the second time you signed the fifth field in the wrong place, the teller slid a fresh form back across the counter, and you rewrote it twice at the side desk.\n\nToday you've been on the plastic chair in the waiting area for twenty-six minutes, nine people ahead of you, three originals and two photocopies in the folder, the seal tucked into the outer pocket.\n\nWhen your turn comes the whole thing will take about six minutes, and those six minutes were paid for by the two trips that went wrong.",
+          "editorNote": "For the second or third attempt at something you're embarrassed to be redoing, or for a friend stuck in a paperwork loop.",
+          "variations": [
+            "Two wasted trips are what shrink the third one down to six minutes.",
+            "The person who finally brings everything is the person the first two visits taught."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-450",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://www.taipeitimes.com/News/taiwan/archives/2021/07/26/2003761473",
+      "sourceNote": "Taipei Times feature on a photo zine documenting Taiwan's neighborhood breakfast-shop culture and the street-facing griddle counters. Original angle: keeping a borrow-and-return ledger while standing in front of the griddle.",
+      "tags": ["勵志", "拖延", "日常", "早餐店"],
+      "i18n": {
+        "zh-tw": {
+          "content": "借還登記簿　早餐店鐵板前\n向老闆娘借了一支筆　早上七點十分　點完餐就還了\n向隔壁桌借了辣椒醬　七點十二分　還的時候多講了一句謝謝\n向店裡借五塊錢湊整　上週三　到今天還沒還，她也沒提過\n向自己借了三十分鐘睡眠　今天早上　用一份蛋餅還掉一半\n向明天借「今天先算了」　這是第九次　利息正在鐵板前面排隊等你\n最後一行空著：老闆娘每天多問的那句吃飽沒　從來沒跟你收過",
+          "editorNote": "適合貼在同一件事拖到第九天的早上；也可以當成給自己看的一次盤點。",
+          "variations": [
+            "向明天借來的「今天先算了」，利息都排在早餐店等你。",
+            "有些東西你天天在收，從來沒有人跟你算過。"
+          ]
+        },
+        "en": {
+          "content": "Lending log — in front of the breakfast-shop griddle\nBorrowed a pen from the owner, 7:10 a.m., returned right after ordering\nBorrowed chili sauce from the next table, 7:12 a.m., returned with an extra thank-you\nBorrowed five dollars to round up the change, last Wednesday, still out, she has never once mentioned it\nBorrowed thirty minutes of sleep from myself, this morning, half of it paid back by one egg crepe\nBorrowed another \"I'll deal with it tomorrow\" from tomorrow, ninth time now, the interest is waiting in line by the griddle\nLast row left open: the owner asking every day whether you've eaten, never once charged for",
+          "editorNote": "For the ninth morning of putting the same thing off, or as a quiet stocktake of what you owe and what you've been given.",
+          "variations": [
+            "Everything you borrow from tomorrow turns up at breakfast with interest.",
+            "Some things get handed to you every morning and nobody ever keeps a tab."
+          ]
+        }
+      }
     }
   ]
 }

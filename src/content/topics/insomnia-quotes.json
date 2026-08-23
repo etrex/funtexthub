@@ -9870,6 +9870,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-348",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://sogoodday.com.tw/medical/mental-health/insomnia/insomnia/",
+      "sourceNote": "Informed by Taiwanese clinic material on how poor sleep shows up as daytime slowness and blank spells; rewritten as a two-person exchange at a night market stall, no clinical or medication content",
+      "tags": [
+        "失眠",
+        "陪伴",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「太陽都還沒下山，你就先垮了，昨天又整晚沒睡？」\n「還沒垮，我只是在等我的胃醒過來。」\n「老闆剛剛叫你三次，你盯著那鍋油看到人家喊第四次。」\n「那些泡泡一直在動，看起來比我有精神。」\n「先坐下啦，這攤我請，你負責把它吃完就好。」",
+          "editorNote": "適合朋友明明累到站不穩還硬撐的時候，傳過去當作「坐下來吃東西」的邀請。",
+          "variations": [
+            "「你今天講話慢了半拍。」「我在等我的胃醒過來。」",
+            "那鍋油裡的泡泡，今天看起來比我有精神。"
+          ]
+        },
+        "en": {
+          "content": "\"The sun's still up and you're already fading — no sleep again last night?\"\n\"Nothing's fading yet, I'm waiting for my stomach to wake up.\"\n\"The owner called your order three times, and you stared into that fryer until the fourth.\"\n\"The bubbles keep moving, and they look livelier than I do.\"\n\"Sit down already — this one's on me, you just have to finish it.\"",
+          "editorNote": "For the friend who is visibly running on empty in broad daylight and insists on staying upright.",
+          "variations": [
+            "\"You're half a beat behind today.\" \"I'm waiting for my stomach to wake up.\"",
+            "The bubbles in that fryer have more energy than I do today."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-349",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://tanss.org.tw/insomnia/",
+      "sourceNote": "Informed by Taiwanese material on sleep disturbance and next-day attention lapses; rewritten as an observation across a hotpot table that turns out to be a reflection, no clinical claims",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "睡眠不足"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "中午的火鍋店，鍋邊那個人整頓飯只做一件事，湯一滾就撈，撈起來又放回去。\n別人講話他都有點頭，可是眼睛跟著蒸氣往上飄，飄到一半就停在那裡。\n店員來加湯的時候他嚇了一大跳，肩膀整個彈起來，同桌的人笑他反應太誇張。\n我低頭去撈自己掉進去的湯匙，才看清楚那個人一直長在不鏽鋼鍋緣上，我動他就動。",
+          "editorNote": "適合配一張午餐火鍋照，回應整桌都在問你「今天怎麼特別安靜」。",
+          "variations": [
+            "他從頭到尾只顧著撈，好像鍋裡有什麼東西要救。",
+            "不鏽鋼鍋緣上那張臉，我動他就動。"
+          ]
+        },
+        "en": {
+          "content": "Hotpot at noon, and the person over on the rim spent the whole meal on one task: scooping the second it boiled, then putting it back.\nHe nodded whenever anyone spoke, but his eyes drifted up with the steam and stopped halfway.\nWhen the server came to top up the broth he jolted, shoulders and all, and the table laughed at how big the reaction was.\nI leaned in to fish out my own dropped spoon, and that was when I saw him living on the steel rim, moving whenever I moved.",
+          "editorNote": "A caption for the lunch photo when everyone at the table asks why you're so quiet today.",
+          "variations": [
+            "He scooped all through lunch like something in there needed rescuing.",
+            "That face on the steel rim moves whenever I move."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-350",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8000941/",
+      "sourceNote": "Informed by research on accumulated sleep debt and its daytime carryover at work; rewritten as a borrowing-and-returning register kept in a hypermarket freezer aisle, no medical guidance",
+      "tags": [
+        "失眠",
+        "睡眠不足",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "冷凍櫃前借還登記，記錄人：站在這裡第七分鐘、被白霧凍到腳踝的我。\n八月十九日：借走四個小時，借的人是那天半夜的我，到今天沒還。\n八月二十日：借走「好好聽別人把話講完」的能力，中午自己回來一半。\n八月二十一日：借走一句「今天一定早點睡」，說完就找不到了。\n八月二十二日：借走白天的胃口，晚上原封不動放回來，已經冷掉。\n今天：借冷凍櫃的冷氣，用來把眼睛凍醒，預計三分鐘後歸還。\n歸還欄：這一頁還是空的，簽名的地方只有我一個人的字。",
+          "editorNote": "適合白天在賣場、超市晃很久卻什麼都沒買的時候發，配一張冷凍櫃的照片。",
+          "variations": [
+            "借走四個小時，借的人是那天半夜的我，到今天沒還。",
+            "我站在冷凍櫃前第七分鐘，借的是冷氣，用來把眼睛凍醒。"
+          ]
+        },
+        "en": {
+          "content": "Lending record, freezer aisle, kept by the one who has stood here seven minutes with cold fog around his ankles.\nAug 19: four hours borrowed by the version of me still awake past midnight, outstanding to this day.\nAug 20: borrowed the ability to hear someone finish a sentence, half of it wandered back by lunch.\nAug 21: borrowed the line about getting an early night, lost it somewhere between saying it and meaning it.\nAug 22: borrowed the daytime appetite, returned untouched in the evening, gone cold.\nToday: borrowing cold air off the freezer to shock my eyes open, due back in three minutes.\nReturns column: still an empty page, and the signature line carries one person's handwriting.",
+          "editorNote": "Post it after a long daytime wander around the supermarket that ends with nothing in the cart.",
+          "variations": [
+            "Four hours borrowed by the version of me awake past midnight, outstanding to this day.",
+            "Seven minutes at the freezer door, borrowing cold air to shock my eyes open."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-351",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://sleepeducation.org/lack-sleep-affects-eyesight/",
+      "sourceNote": "Informed by sleep-education coverage of tired eyes focusing less precisely; rewritten as a hypothetical monologue in an optical shop's refraction room, no treatment or medication content",
+      "tags": [
+        "失眠",
+        "自我接納",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "驗光室裡，鏡片一片一片換過去，驗光師問我一還是二比較清楚，我兩個都覺得有點糊。\n如果我昨天十一點就把燈關掉，如果我沒有把整夜拿去重播那件早就過去的事，這排字現在應該會乾乾脆脆地站好。\n如果真是那樣，我會在這張椅子上很有把握地選第二個，然後笑著走出去挑一副新的鏡框。\n驗光師沒有問我昨天睡得好不好，他只是把燈調暗一點，說我們再看一次，慢慢來沒關係。",
+          "editorNote": "適合白天做完一件簡單的事卻覺得自己特別鈍的時候，傳給懂的人。",
+          "variations": [
+            "一還是二比較清楚，我兩個都覺得有點糊。",
+            "他把燈調暗一點，說我們再看一次，慢慢來沒關係。"
+          ]
+        },
+        "en": {
+          "content": "In the refraction room the lenses click past one at a time, and when he asks whether one or two is clearer, both look a little soft to me.\nIf I had turned the light off at eleven last night, if I had spent those hours on anything other than replaying something long finished, that row of letters would be standing up straight right now.\nIf that were the case, I would pick the second one from this chair without hesitating, then walk out grinning and choose new frames.\nHe never asks how I slept; he just dims the room a little and says we'll look again, no rush.",
+          "editorNote": "For the day when a simple errand leaves you feeling unusually slow, sent to someone who gets it.",
+          "variations": [
+            "One or two, clearer? Both of them look a little soft to me.",
+            "He dimmed the room a little and said we'll look again, no rush."
+          ]
+        }
+      }
     }
   ]
 }

@@ -32,6 +32,12 @@ MARKERS = {
 SCENES = ['自助洗衣店', '樓梯間', '洗衣機', '陽台', '便利商店', '公車站', '電梯',
           '頂樓', '廚房', '浴室', '捷運', '停車場', '樓下', '巷口']
 
+# form-field vocabulary (ADDED 2026-08-23). The 8/22 batch scored 0 hits on
+# SCENES while concentrating 20-90x on document fields instead -- the defect
+# layer migrated from physical space to paperwork. SCENES is NOT modified.
+FORM_FIELDS = ['備註', '單號', '編號', '案號', '品名', '規格', '狀態', '期限',
+               '申請人', '受理']
+
 CJK = re.compile(r'[一-鿿]')
 
 
@@ -50,6 +56,17 @@ def opening(text, n=6):
     """First n CJK chars of the first line -- frozen definition."""
     first = text.split('\n')[0]
     return ''.join(CJK.findall(first))[:n]
+
+
+def opening_5(text):
+    """ADDED 2026-08-23. Same rule as opening() but 5 chars.
+
+    opening() strips non-CJK before slicing, so an opener carrying an
+    alphanumeric token ("報修單編號 A-2261|...") shifts a later character into
+    the 6-char window and reads as a distinct opening. 5 chars catches the
+    cross-file collisions 6 chars misses. opening() is unchanged.
+    """
+    return opening(text, 5)
 
 
 def sentence_count(text):
@@ -104,11 +121,33 @@ def report(rows, label):
     for s, v in sc.most_common(10):
         print(f'  {s:<10} {v:>4}  {v/n*100:5.1f}%')
 
+    print('\n-- form-field concentration (added 2026-08-23) --')
+    ff = collections.Counter()
+    for _, _, c, _ in rows:
+        for w in FORM_FIELDS:
+            if w in c:
+                ff[w] += 1
+    out['form_fields'] = ff.most_common(10)
+    out['form_field_any_pct'] = round(
+        sum(1 for _, _, c, _ in rows if any(w in c for w in FORM_FIELDS)) / n * 100, 1)
+    for w, v in ff.most_common(10):
+        print(f'  {w:<10} {v:>4}  {v/n*100:5.1f}%')
+    print(f'  any form field      {out["form_field_any_pct"]}%')
+
     print('\n-- top openings (first 6 CJK chars, top 12) --')
     op = collections.Counter(opening(c) for _, _, c, _ in rows if c.strip())
     out['top_openings'] = op.most_common(12)
     for o, v in op.most_common(12):
         print(f'  {o:<8} {v:>4}  {v/n*100:5.1f}%')
+
+    print('\n-- top openings, 5-char variant (added 2026-08-23) --')
+    op5 = collections.Counter(opening_5(c) for _, _, c, _ in rows if c.strip())
+    out['top_openings_5'] = op5.most_common(8)
+    out['max_repeat_open5'] = op5.most_common(1)[0][1] if op5 else 0
+    out['distinct_open5_pct'] = round(len(op5) / sum(op5.values()) * 100, 1) if op5 else None
+    for o, v in op5.most_common(8):
+        print(f'  {o:<8} {v:>4}  {v/n*100:5.1f}%')
+    print(f'  max repeat {out["max_repeat_open5"]}   distinct {out["distinct_open5_pct"]}%')
 
     print('\n-- length / shape --')
     lens = [len(c) for _, _, c, _ in rows]

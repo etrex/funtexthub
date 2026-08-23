@@ -13013,6 +13013,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-463",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/",
+      "sourceNote": "談工程師習慣養成與半途而廢的英文短文；取其「起步很用力、後段沒人維護」的核心，改寫成二手書店翻書的現場實況",
+      "tags": [
+        "工程師日常",
+        "文件",
+        "技術債",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我現在蹲在二手書店最裡面那排，手上這本演算法課本前四十頁畫滿螢光筆，第四十一頁開始一路乾淨到書尾。\n我正在翻它的目錄，想找出前一個主人是在哪一章決定放過自己的。\n老闆走過來說這本擺三年了都沒人拿，我說我知道，我自己那個專案的 README 也長這樣。\n我把它放回架上，然後抽走旁邊那本從頭到尾沒人畫過的。",
+          "editorNote": "適合貼在文件停在第一版的專案討論串，或新人問「這塊有沒有說明」的時候。",
+          "variations": [
+            "延伸版本：後來我才發現，第四十一頁那章的標題叫〈實作細節〉。",
+            "短版：螢光筆停下來的地方，通常就是專案交接的地方。"
+          ]
+        },
+        "en": {
+          "content": "I'm crouched in the back row of a used bookstore, and this algorithms textbook has highlighter on the first forty pages and nothing at all after page forty-one.\nI'm flipping through the table of contents, trying to work out which chapter made the previous owner let himself off the hook.\nThe owner walks over and says it's been on that shelf three years, and I tell him I know, because my own project's README looks exactly like this.\nI put it back and pull the copy next to it, the one nobody ever marked up.",
+          "editorNote": "Good for a thread about docs that stopped at v1, or when a new hire asks whether this part is written down anywhere.",
+          "variations": [
+            "Extension: I later noticed the chapter starting on page forty-one was called Implementation Details.",
+            "Short version: where the highlighter stops is usually where the handoff starts."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-464",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://blog.codacy.com/ai-breaking-code-review-how-engineering-teams-survive-pr-bottleneck",
+      "sourceNote": "2026 年談 PR 佇列塞車、審查量能跟不上產出的英文分析；取「等待本身不難受，看不到進度才難受」的重點，改寫成銀行等候區的滿意度問卷單選題",
+      "tags": [
+        "工程師日常",
+        "code review",
+        "職場",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "銀行等候區發的滿意度問卷，第三題我盯了很久。\nQ3　請問您在等待期間的心情最接近下列何者？\n（A）放鬆，正好坐下來休息一下\n（B）還好，可以接受\n（C）前面那位已經在櫃檯十二分鐘了，我開始懷疑他卡住\n（D）我不介意等，我只想知道現在排到哪、還要多久\n我圈了（D），在旁邊補一句：我們家的 PR 佇列也是同一題。",
+          "editorNote": "適合貼在 review 塞車的週會，或跟主管解釋為什麼工程師要的是狀態而不只有速度。",
+          "variations": [
+            "延伸版本：問卷最後一欄問「還有什麼建議」，我寫了三個字：進度條。",
+            "短版：等半小時可以忍，等一個看不見盡頭的半小時不行。"
+          ]
+        },
+        "en": {
+          "content": "The satisfaction survey they hand out in the bank's waiting area. I stared at question three for a while.\nQ3  Which best describes how you feel while waiting?\n(A) Relaxed, glad to finally sit down\n(B) Fine, perfectly acceptable\n(C) The guy ahead of me has been at the counter twelve minutes and I think he's stuck\n(D) I don't mind waiting, I just want to know where I am in line and how much longer\nI circled (D) and wrote in the margin: our PR queue is the same question.",
+          "editorNote": "Use it in a standup about review backlog, or when explaining to a manager that engineers want status, not only speed.",
+          "variations": [
+            "Extension: the last field asked for suggestions. I wrote two words: progress bar.",
+            "Short version: half an hour of waiting is survivable. Half an hour with no end in sight is not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-465",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://www.rauljitechnologies.com/blog/ai-coding-agents-2026/",
+      "sourceNote": "2026 年談「用得越多、信任越低」的信任落差分析；取其「排練過的信心不等於真實環境的信心」，改寫成婚宴休息室裡的反問",
+      "tags": [
+        "工程師日常",
+        "上線",
+        "黑色幽默",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為什麼所有人都這麼確定今天不會出事？\n我坐在婚宴會場的休息室，伴娘正在對流程表，上午彩排過一輪，燈光、音響、進場動線全都跑順了。\n可是彩排的時候台下沒有兩百個人、司儀還沒喝到第三杯，而我們公司每一次上線前，也都在一個沒有半個使用者的環境裡全綠。\n新郎在鏡子前面調領帶，回頭問我在想什麼。\n我說沒事，我在想一件事——你們早上跑的那一場，跟等一下要上的那一場，真的是同一場嗎？",
+          "editorNote": "適合在上線前一天的群組裡丟，或有人說「測試環境都過了」的時候接話。",
+          "variations": [
+            "延伸版本：彩排會告訴你動線可不可行，不會告訴你兩百個人同時起立要花多久。",
+            "短版：跑順過一次，跟在兩百人面前跑順一次，中間差了整個真實世界。"
+          ]
+        },
+        "en": {
+          "content": "Why is everyone so sure nothing will go wrong today?\nI'm sitting in the wedding venue's green room, the bridesmaid is going over the run sheet, and this morning's rehearsal went clean: lights, sound, the whole processional.\nExcept the rehearsal had no two hundred guests in the room and no emcee three drinks in, and every release we ship goes green in an environment with exactly zero users in it.\nThe groom adjusts his tie in the mirror and asks what I'm thinking about.\nNothing, I tell him — I'm only wondering whether the run you did this morning and the one starting in ten minutes are really the same run.",
+          "editorNote": "Drop it in the channel the night before a release, or when someone says the staging run passed.",
+          "variations": [
+            "Extension: a rehearsal tells you the path works. It won't tell you how long two hundred people take to stand up at once.",
+            "Short version: clean once in an empty room and clean once in a full one are separated by the entire real world."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-466",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://medium.com/balance-the-grind/day-in-the-life-what-work-life-balance-looks-like-for-software-engineers-developers-a23e50d5fc5f",
+      "sourceNote": "談工程師作息與長期忽略的自我維護；取「警告被當成可以稍後再看」的核心，改寫成醫院走廊長椅上的假設語氣",
+      "tags": [
+        "工程師日常",
+        "技術債",
+        "維護",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "如果三年前那張健檢報告上的紅字，我當天就排進行事曆，如果那兩個下午沒有被我一路往後推到下一季、再下一季，現在坐在醫院走廊長椅上的我，手上大概只有一張回診單。\n長椅有點涼，護理師叫到我前面第三個。\n人這套系統沒有待辦看板，它只會自己重試，重試到你不得不看它為止。\n我滑開手機，把專案裡標著「之後再處理」的那幾張翻出來數了一遍，四十七。",
+          "editorNote": "適合在排下一季規劃、或有人說「這個先放著不影響功能」的時候貼。",
+          "variations": [
+            "延伸版本：那四十七張裡最舊的一張，比我這次要重做的檢查還早三個月。",
+            "短版：會自己撐住的東西，撐住的時候都不會通知你。"
+          ]
+        },
+        "en": {
+          "content": "If I'd put the flagged line on that health report into my calendar the day I got it three years ago, if those two afternoons hadn't kept sliding into next quarter and the one after, then the version of me sitting on this hospital corridor bench would be holding one follow-up slip and nothing else.\nThe bench is cold and the nurse just called three numbers ahead of mine.\nA body has no backlog board. It quietly retries until you have no choice but to look at it.\nI unlock my phone, pull up everything in the project tagged deal with this later, and count: forty-seven.",
+          "editorNote": "For quarterly planning, or when someone says a known issue can sit because it doesn't break the feature.",
+          "variations": [
+            "Extension: the oldest of those forty-seven is three months older than the tests I now have to redo.",
+            "Short version: the things holding on by themselves never tell you they're holding on."
+          ]
+        }
+      }
     }
   ]
 }

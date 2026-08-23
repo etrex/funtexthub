@@ -12441,6 +12441,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-470",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://www.post.gov.tw/post/internet/Customer_service/index.jsp?ID=16020314",
+      "sourceNote": "參考中華郵政招領及候領郵件說明中掛號郵件的填單與櫃檯交寄流程，改寫成郵局櫃檯前先講別人、最後才落到自己身上的旁觀敘述",
+      "tags": ["甜", "日常", "情境"],
+      "i18n": {
+        "zh-tw": {
+          "content": "郵局櫃檯前那個人，掛號單填到第三張還在填，地址抄了又劃掉，收件人的名字改了兩次。\n後面排隊的人都換過兩批了，他還站在原地把信封翻來翻去，像在確認裡面那句話會不會太重。\n櫃檯的人問他到底要寄去哪，他愣了三秒，說我再想一下。\n那個人就是我，信到現在還在我外套口袋裡；我剛剛決定它不寄了，這句話我要走過去當面講給你聽。",
+          "editorNote": "適合猶豫很久、終於決定當面開口的那天。前三句用講別人八卦的語氣念，最後一句再把主詞換回自己，落差才會出來。",
+          "variations": [
+            "櫃檯前那個猶豫半天的人，我一開始也以為是別人。",
+            "那封信我留著了，有些話蓋上郵戳就會失溫。"
+          ]
+        },
+        "en": {
+          "content": "That guy at the post office counter is on his third form and still writing — address copied out, crossed out, recipient's name changed twice.\nThe line behind him has turned over twice and he's still there, flipping the envelope back and forth like he's checking whether the sentence inside is too heavy to mail.\nThe clerk asks where it's actually going and he freezes for three seconds and says give me a minute.\nThat guy is me, the envelope is still in my jacket pocket, and I've just decided not to send it — I'm walking over to say this one to your face.",
+          "editorNote": "For the day you finally stop stalling. Read the first three lines like gossip about a stranger, then let the last one land on yourself.",
+          "variations": [
+            "I assumed the guy stalling at the counter was somebody else too.",
+            "I kept the letter. Some sentences lose their heat under a postmark."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-471",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://tpml.gov.taipei/News_toggle.aspx?n=B64082F5678B94B1&sms=D0034AF4F8239B65",
+      "sourceNote": "參考臺北市立圖書館自修室使用規定（自由入座、不得預占座位、離座逾一小時得取消該座位使用權），改寫成從現在往回推到第一天的自習室時間軸",
+      "tags": ["甜", "日常", "書"],
+      "i18n": {
+        "zh-tw": {
+          "content": "現在自習室靠窗那個位子，我離座從來不敢超過一小時，因為規定寫得很清楚，超過就會被收回去給別人。\n往前推一點，是我開始把水壺留在椅子上才去裝水，怕回來的時候隔壁那格已經換了人。\n再往前，是我發現你固定坐第三排，於是我的座位也跟著固定了。\n最開始那天我根本沒帶書，只是進來吹冷氣，抬頭看見有人把螢光筆借給不認識的人——那天我連你的臉都沒看清楚，就先決定明天還要再來。",
+          "editorNote": "適合傳給同一間自習室待過一整個學期的人。四句話時間是倒著走的，念的時候一句比一句慢，最後停在你們的第一天。",
+          "variations": [
+            "位子可以被收回去，習慣不行。",
+            "往回算到底，第一天我什麼書都沒讀，只讀到你。"
+          ]
+        },
+        "en": {
+          "content": "Right now I never leave that window seat for more than an hour, because the posted rules are clear: an hour away and they can give it to somebody else.\nBack up a little and I'd started leaving my bottle on the chair before going to refill it, in case the desk beside mine belonged to a stranger by the time I got back.\nBack up further and it's the week I worked out that you always take the third row, so my seat stopped moving too.\nAnd on the very first day I hadn't even brought a book — I came in for the air conditioning, looked up, and watched someone lend a highlighter to a person they'd never met; I never got a clear look at your face, and I'd already decided to come back tomorrow.",
+          "editorNote": "For someone you spent a whole semester sharing a study room with. The four lines run backwards in time — slow down as you go, and let it stop on your first day.",
+          "variations": [
+            "They can take the seat back. They can't take the habit back.",
+            "Rewind far enough and I studied nothing that first day except you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-472",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://td.police.gov.taipei/News_Content.aspx?n=CCCC4B53C33D8FD2&s=A6E50BCC7570327A",
+      "sourceNote": "參考臺北市政府警察局交通警察大隊「乘客遺失物協尋」中計程車遺留物的保管與歸還說明，改寫成司機自己手寫的後座借還登記簿",
+      "tags": ["甜", "日常", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "【後座借還登記簿】記錄人：這台車的司機\n八月三日．一把透明雨傘．後座那位小姐落下的．隔天她攔到同一台，還了\n八月九日．一只耳機．同一位．還沒還，我收在中央扶手裡等她想起來\n八月十五日．一支髮夾．卡在椅縫，我拔了三分鐘．還沒還\n八月十九日．一句「我不趕時間，你隨便繞」．還沒還，我到現在都還在繞\n八月二十二日．我這邊的一整顆心．她沒開口借，是我自己遞過去的．不用還\n最後一頁我自己補了一行：這本簿子只登記借出去的東西，沒有催討那一欄。",
+          "editorNote": "適合送對方下車、車開走以後再傳過去。前面幾行用平板的登記語氣念完，最後兩行放慢，土味才不會滿出來。",
+          "variations": [
+            "後座沒還的東西越積越多，我一件都不打算催。",
+            "有些東西一上車就沒打算還了。"
+          ]
+        },
+        "en": {
+          "content": "[Back Seat Lending Book] kept by the driver of this cab\nAug 3 — one clear umbrella — left by the passenger in back — returned, she flagged the same cab the next day\nAug 9 — one earbud — same passenger — still out, it lives in the center armrest until she remembers\nAug 15 — one hair clip — wedged in the seat crack, took me three minutes to work loose — still out\nAug 19 — one sentence: \"I'm not in a hurry, take whatever route you want\" — still out, I'm still taking the long way\nAug 22 — the whole of my heart — she never asked to borrow it, I handed it over on my own — no return expected\nLast page, my handwriting: this book only records what goes out. There's no column for chasing anything back.",
+          "editorNote": "Send it after you've dropped them off and the cab has pulled away. Keep the first lines flat and clerical; slow down for the last two so the corniness stays sweet.",
+          "variations": [
+            "The unreturned pile in my back seat keeps growing and I'm chasing none of it.",
+            "Some things get in the cab with no plan of going home again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-473",
+      "dateAdded": "2026-08-23",
+      "sourceUrl": "https://www.allaboutvision.com/zh/yan-bu-hu-li/yan-bu-jian-cha/nei-rong-you-shen-me/",
+      "sourceNote": "參考非接觸式眼壓計流程（下巴靠上墊子、注視機器內的圖像、對睜開的眼睛噴出氣流）與逐片換鏡比較的驗光步驟，改寫成驗光室裡正在發生的現場敘述",
+      "tags": ["甜", "日常", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "下巴正抵在那塊冰冰的墊子上，額頭往前貼，鏡頭裡有一條路直直通到一棟永遠走不到的小房子。\n機器對著我的右眼吹了一下，我照例眨了眼，驗光師說沒關係我們再來一次。\n現在他在我面前一片一片換鏡片，問我一號舒服還是二號舒服。\n我每一片都回答一樣，因為我最近真正在比的是另外兩種畫面：你在裡面的，跟你不在的；那個差距大到我不用戴任何一片鏡片都分得出來。",
+          "editorNote": "適合剛陪對方去配眼鏡、或自己驗完光的那個晚上傳出去。前三句用現在進行的語氣，最後一句才把鏡頭轉開。",
+          "variations": [
+            "一號二號我都說一樣，因為我心裡在比的是另外兩張圖。",
+            "驗到最後我才發現，最清楚的那一張根本沒出現在機器裡。"
+          ]
+        },
+        "en": {
+          "content": "My chin is on the cold rest right now, forehead pressed forward, and inside the lens there's a little road running out to a house you never actually reach.\nThe machine puffs air at my right eye, I blink the way I always do, and the optometrist says no problem, let's go again.\nNow he's swapping lenses in front of me one at a time, asking whether one feels better or two feels better.\nI keep saying they're identical, because the two views I've actually been comparing lately are the ones with you in the frame and the ones without — and that gap is wide enough that I don't need a lens to see it.",
+          "editorNote": "Send it the evening after an eye exam, yours or theirs. Keep the first three lines in the present tense, then let the last one look away from the machine.",
+          "variations": [
+            "One or two, I said they felt the same. I was comparing two other pictures entirely.",
+            "By the end of the exam, the sharpest image I had all day never showed up in the machine."
+          ]
+        }
+      }
     }
   ]
 }
