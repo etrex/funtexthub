@@ -40,6 +40,77 @@ FORM_FIELDS = ['備註', '單號', '編號', '案號', '品名', '規格', '狀�
 
 CJK = re.compile(r'[一-鿿]')
 
+# --- waiting/service-queue vocabulary (ADDED 2026-08-24) --------------------
+# The 8/23 batch scored low on SCENES and FORM_FIELDS while concentrating on
+# service-queue locations instead (櫃檯 alone hit 10.7%, twice the 陽台 reading
+# that was ruled a defect on 8/20). Measured as a HYPERNYM union, because a
+# per-word cap of ~5% each still lets the class total reach ~19%.
+# SCENES and FORM_FIELDS are NOT modified.
+WAITING = ['櫃檯', '候診', '號碼牌', '叫號', '排隊', '等候']
+
+# --- rare n-gram fingerprint (ADDED 2026-08-24) ----------------------------
+# Character-overlap similarity reads 0 pairs on a batch where one frame was
+# reused 8 times across 8 unrelated topics, because each retelling used a
+# different scene and only the frame NAME survives verbatim. A 4-char CJK
+# n-gram that is rare corpus-wide but repeats within a single batch is exactly
+# that surviving fingerprint. Frozen definition; threshold is advisory.
+NGRAM_N = 4
+RARE_DF_MAX = 30        # corpus doc-frequency at or below this counts as rare
+MAX_RARE_NGRAM_LIMIT = 5.0   # batch share %; >limit = frame reuse to act on
+EXCLUDE_MIN_HITS = 3    # a rare n-gram seen this many times in a day is banned
+EXCLUDE_WINDOW_DAYS = 7
+
+
+def cjk_ngrams(text, n=NGRAM_N):
+    """Set of n-char CJK n-grams in text (punctuation/latin stripped first)."""
+    s = ''.join(CJK.findall(text))
+    return {s[i:i + n] for i in range(len(s) - n + 1)}
+
+
+def ngram_df(rows, n=NGRAM_N):
+    """Document frequency of every n-gram across rows."""
+    df = collections.Counter()
+    for _, _, c, _ in rows:
+        df.update(cjk_ngrams(c, n))
+    return df
+
+
+def rare_ngram_hits(rows, corpus_df, rare_df_max=RARE_DF_MAX):
+    """n-grams repeating inside `rows` that are rare in the corpus at large.
+
+    Returns Counter of ngram -> how many items in `rows` contain it, keeping
+    only n-grams whose corpus-wide document frequency is <= rare_df_max.
+    """
+    batch = ngram_df(rows)
+    return collections.Counter({
+        g: c for g, c in batch.items()
+        if c > 1 and corpus_df.get(g, 0) <= rare_df_max
+    })
+
+
+DEDUP_CANDIDATE_LIMIT = 800
+
+
+def redundant_ngrams(hits, limit=DEDUP_CANDIDATE_LIMIT):
+    """Drop n-grams fully contained in a longer/equal-count sibling.
+
+    "借還登記" and "還登記簿" are the same fingerprint seen through a sliding
+    window; report the family once instead of four times.
+
+    The containment pass is quadratic, so only the `limit` highest-count
+    candidates are folded. A single day's batch never approaches that cap;
+    it exists so a whole-corpus run stays tractable. Ordering is
+    (-count, term), so the cut is deterministic and never drops a term that
+    outranks a surviving one.
+    """
+    ranked = sorted(hits.items(), key=lambda kv: (-kv[1], kv[0]))[:limit]
+    keep = {}
+    for g, c in ranked:
+        if any(c <= kc and (g in k or k in g) for k, kc in keep.items()):
+            continue
+        keep[g] = c
+    return collections.Counter(keep)
+
 
 def load(date=None):
     rows = []
@@ -97,7 +168,7 @@ def is_list_frame_v2(text):
     return labelled >= 3 or spoken >= 3
 
 
-def report(rows, label):
+def report(rows, label, corpus_df=None):
     n = len(rows)
     if not n:
         print(f'no items for {label}')
@@ -179,6 +250,40 @@ def report(rows, label):
     print(f'  prose_v2 {len(prose2):>5}   3-5 sentences: {out["prose_v2_3to5sent_pct"]}%')
     print(f'  list_v2  {len(lists2):>5}   5-8 lines:     {out["list_v2_inrange_pct"]}%')
 
+    print('\n-- waiting-scene concentration (added 2026-08-24) --')
+    wt = collections.Counter()
+    for _, _, c, _ in rows:
+        for w in WAITING:
+            if w in c:
+                wt[w] += 1
+    out['waiting'] = wt.most_common(10)
+    out['waiting_any_pct'] = round(
+        sum(1 for _, _, c, _ in rows if any(w in c for w in WAITING)) / n * 100, 1)
+    for w, v in wt.most_common(10):
+        print(f'  {w:<10} {v:>4}  {v/n*100:5.1f}%')
+    print(f'  any waiting word    {out["waiting_any_pct"]}%   (hypernym union)')
+
+    print('\n-- rare n-gram fingerprint (added 2026-08-24) --')
+    if corpus_df is None:
+        corpus_df = ngram_df(load())
+    hits = redundant_ngrams(rare_ngram_hits(rows, corpus_df))
+    out['rare_ngrams'] = hits.most_common(10)
+    if hits:
+        top_g, top_c = hits.most_common(1)[0]
+        out['max_rare_ngram'] = round(top_c / n * 100, 1)
+        out['max_rare_ngram_term'] = top_g
+        out['max_rare_ngram_count'] = top_c
+    else:
+        out['max_rare_ngram'] = 0.0
+        out['max_rare_ngram_term'] = None
+        out['max_rare_ngram_count'] = 0
+    for g, v in hits.most_common(10):
+        print(f'  {g:<10} {v:>4}  {v/n*100:5.1f}%')
+    verdict = 'PASS' if out['max_rare_ngram'] <= MAX_RARE_NGRAM_LIMIT else 'OVER'
+    print(f'  max_rare_ngram      {out["max_rare_ngram"]}%'
+          f'  ({out["max_rare_ngram_term"]} x{out["max_rare_ngram_count"]})'
+          f'  limit {MAX_RARE_NGRAM_LIMIT}%  [{verdict}]')
+
     print('\n-- integrity --')
     nosrc = sum(1 for _, _, _, it in rows if not it.get('sourceUrl'))
     noten = sum(1 for _, _, _, it in rows
@@ -194,12 +299,67 @@ def report(rows, label):
     return out
 
 
+# --- rolling exclusion list (ADDED 2026-08-24) ------------------------------
+# The ban list handed to generators was previously derived from the frozen
+# SCENES/FORM_FIELDS vocabularies, so it could only ever exclude words someone
+# had already thought of. Terms the batch actually over-used (二手書店 x6 on
+# 8/21) were never on it and came back untouched two days later. This builds
+# the list from what was measured, over a rolling window.
+EXCLUDE_PATH = os.path.join(os.path.dirname(__file__), 'exclusion-list.json')
+
+
+def recent_dates(rows, days=EXCLUDE_WINDOW_DAYS):
+    ds = sorted({it.get('dateAdded') for _, _, _, it in rows if it.get('dateAdded')})
+    return ds[-days:]
+
+
+def build_exclusion(all_rows, days=EXCLUDE_WINDOW_DAYS,
+                    min_hits=EXCLUDE_MIN_HITS):
+    corpus_df = ngram_df(all_rows)
+    by_date = collections.defaultdict(list)
+    for r in all_rows:
+        by_date[r[3].get('dateAdded')].append(r)
+    terms = {}
+    for d in recent_dates(all_rows, days):
+        raw = rare_ngram_hits(by_date[d], corpus_df)
+        hits = redundant_ngrams(
+            collections.Counter({g: c for g, c in raw.items() if c >= min_hits}))
+        for g, c in hits.items():
+            if c > terms.get(g, (0, ''))[0]:
+                terms[g] = (c, d)
+    words = sorted(terms.items(), key=lambda kv: (-kv[1][0], kv[0]))
+    return {
+        'generated_from': recent_dates(all_rows, days),
+        'window_days': days,
+        'min_hits': min_hits,
+        'terms': [{'term': g, 'hits': c, 'date': d} for g, (c, d) in words],
+    }
+
+
 if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('--date')
     ap.add_argument('--json', action='store_true')
+    ap.add_argument('--exclude', action='store_true',
+                    help='rebuild the rolling rare-term exclusion list')
     a = ap.parse_args()
-    rows = load(a.date)
-    res = report(rows, a.date or 'whole corpus')
+
+    if a.exclude:
+        data = build_exclusion(load())
+        with open(EXCLUDE_PATH, 'w', encoding='utf-8') as fh:
+            json.dump(data, fh, ensure_ascii=False, indent=2)
+            fh.write('\n')
+        print(f'exclusion list -> {EXCLUDE_PATH}')
+        print(f'  window {data["generated_from"][0]}..{data["generated_from"][-1]}'
+              f'  ({data["window_days"]} days, >={data["min_hits"]} hits)')
+        print(f'  {len(data["terms"])} banned terms')
+        for t in data['terms'][:20]:
+            print(f'    {t["term"]:<10} x{t["hits"]}  ({t["date"]})')
+        sys.exit(0)
+
+    all_rows = load()
+    corpus_df = ngram_df(all_rows)
+    rows = load(a.date) if a.date else all_rows
+    res = report(rows, a.date or 'whole corpus', corpus_df=corpus_df)
     if a.json:
         print('\nJSON:', json.dumps(res, ensure_ascii=False))
