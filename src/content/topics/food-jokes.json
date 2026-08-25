@@ -10623,6 +10623,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-378",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://www.gvm.com.tw/article/42911",
+      "sourceNote": "遠見／網路溫度計盤點上班族最崩潰的十個時刻，其中包含「煩惱中午吃什麼」與訂餐相關情境",
+      "tags": ["上班族", "便當", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "週三下午的會議室，投影片停在第七頁，我的手機在桌角亮起來。\n十二點十分：訂餐表單十分鐘後關閉（每週重複）\n十二點二十分：訂餐表單已經關閉（這則也是我自己設的）\n十二點四十分：滷排骨飯送到三樓，冰箱第二格是你的（去年建立）\n一點整：提醒你冰箱第二格其實是空的（今年新增）\n一點半：本場會議延長三十分鐘（主辦人另有其人）\n兩點：胃提醒你一件事，而這一則沒有貪睡按鈕",
+          "editorNote": "適合配一張會議通知的截圖，也適合傳給那種每週都錯過訂餐表單的同事。",
+          "variations": [
+            "加一則：兩點十分跳出「請補收上週的訂餐費用」，那筆錢我到現在還沒收齊。",
+            "換場景版：週五的那支手機更吵，因為它同時記得下午茶團購和健身房課程。"
+          ]
+        },
+        "en": {
+          "content": "Wednesday afternoon in the meeting room, the slides stuck on page seven, my phone lighting up at the corner of the table.\n12:10 — Lunch order form closes in ten minutes (repeats weekly)\n12:20 — Lunch order form is now closed (I set this one myself too)\n12:40 — Braised pork rice arrives on the third floor, second shelf of the fridge is yours (created last year)\n1:00 — Reminder that the second shelf is actually empty (added this year)\n1:30 — This meeting has been extended by thirty minutes (organizer: someone else)\n2:00 — Your stomach has a reminder for you, and this one has no snooze button",
+          "editorNote": "Good with a screenshot of your calendar, or for the coworker who misses the lunch order form every single week.",
+          "variations": [
+            "One more entry: 2:10 — collect last week's lunch money, which I still have not finished doing.",
+            "Friday version: the phone buzzes twice as much, because it remembers the group drink order and the gym class at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-379",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://heho.com.tw/archives/272451",
+      "sourceNote": "Heho健康介紹物理治療所與復健療程的差異，包含一對一治療與療程安排的說明",
+      "tags": ["自嘲", "牛肉麵", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "肩膀痛了兩個多月，我對每一個人都說那只是睡姿的問題。\n直到某天右手舉不到一碗牛肉麵應有的高度，湯灑了半張桌子，我才願意去掛號。\n治療師要我把手抬到牆上那條紅線，我停在差三公分的地方，他說這三公分就是我硬撐的那兩個月。\n現在我每週來拉兩次滑輪，那條紅線我看得比體重計上的數字還熟。\n真正讓我認輸的門檻其實低得可笑：剝不開一隻剛燙好的蝦。",
+          "editorNote": "適合貼在自己第一次去復健的動態下面，也適合傳給那種痛很久還在說沒事的朋友。",
+          "variations": [
+            "換部位版：手腕的門檻是轉不開一罐辣椒醬，我試了三次才肯講出來。",
+            "加一句版：治療師問我最近有沒有吃清淡一點，我說有，然後外送訂單自己滑了出來。"
+          ]
+        },
+        "en": {
+          "content": "My shoulder hurt for over two months and I told everyone it was just how I'd been sleeping.\nThen one day my right hand could not lift a bowl of beef noodles high enough, half the table got soup on it, and I finally booked an appointment.\nThe therapist asked me to raise my arm to the red line on the wall; I stopped three centimeters short, and he said those three centimeters were the two months I spent toughing it out.\nNow I pull the shoulder wheel twice a week, and I know that red line better than the number on my bathroom scale.\nThe threshold that finally made me admit it was embarrassingly low: I could not peel a freshly boiled shrimp.",
+          "editorNote": "Good under a post about your first rehab session, or for the friend who has been hurting for months and keeps saying they're fine.",
+          "variations": [
+            "Wrist version: the threshold was a jar of chili sauce I could not twist open, and it took three tries before I said so out loud.",
+            "Extra line: the therapist asked whether I'd been eating lighter, I said yes, and then my delivery history scrolled itself into view."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-380",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://www.threads.com/@yemyum_/post/DSrzeCbEaOp/",
+      "sourceNote": "Threads 上請大家推薦台灣零食與伴手禮的討論串，留言區多為特定品項與價格的分享",
+      "tags": ["朋友", "零食", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你離職那天塞給我的那條胃藥，我今天在藥妝店第三排看到同一款。\n包裝換了顏色，藍的變成綠的，成分那一面還是你當初唸給我聽的那幾行。\n旁邊那格擺著你以前一次搬四包的芥末海苔，特價貼紙剛好貼在你最愛嫌貴的那個位置。\n我把兩樣都放進籃子，走到第五排又把海苔拿出來，因為那本來就是買給你吃的，你人已經在台中了。",
+          "editorNote": "適合貼在同事送別的合照旁邊，也適合傳給那種搬去別的城市還會問你零食有沒有特價的人。",
+          "variations": [
+            "換人版：那條胃藥後來被我自己吃掉，我在群組回報一句「綠色的比較不苦」。",
+            "加一句版：我最後多拿了一包想寄給你，運費算出來比海苔還貴。"
+          ]
+        },
+        "en": {
+          "content": "That stomach medicine you pushed into my hand on your last day — I found the same one today on the third aisle of the drugstore.\nThe packaging changed color, blue to green, and the ingredient panel still carries the exact lines you once read out loud to me.\nNext to it sits the wasabi seaweed you used to grab four packs of at a time, with the sale sticker landing right on the price you always complained about.\nI put both in the basket, then by the fifth aisle I took the seaweed back out, because it was for you, and you live in Taichung now.",
+          "editorNote": "Good beside a farewell photo, or for the friend who moved to another city and still asks whether their snack is on sale.",
+          "variations": [
+            "Other version: I ended up taking the medicine myself and reported to the group chat that the green one tastes less bitter.",
+            "Extra line: I grabbed a spare pack to mail over, and the shipping came out higher than the seaweed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-381",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://www.morefine-optical.com/blog/posts/optometry",
+      "sourceNote": "眼鏡行部落格說明驗光流程與常見迷思，提到長時間使用 3C 後量到的度數可能暫時偏深",
+      "tags": ["宵夜", "自嘲", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "半年之內我的度數多了七十五度，驗光師重測了兩次才相信機器沒壞。\n往回推一個月，我睡前的流程變成躺著滑那種深夜食堂類型的影片，手機離臉大概二十公分。\n再往回推，是三月搬家之後樓下多了一間開到凌晨三點的麵店，我躺著就能決定今天要不要下去。\n最早的那一步很小：我把手機支架從書桌移到床頭，理由是躺著看比較不會邊吃邊掉屑。\n那張度數單推到我面前，上面的數字比我自己還記得這半年我吃過幾次。",
+          "editorNote": "適合貼在新眼鏡的開箱照下面，也適合傳給那種每晚都躺著看美食影片的室友。",
+          "variations": [
+            "換結果版：驗光師說真正加深的只有五十度，另外二十五度是我前一晚看到三點的暫時反應。",
+            "加一句版：新眼鏡戴上之後，我第一件看清楚的東西是那間麵店的菜單。"
+          ]
+        },
+        "en": {
+          "content": "My prescription jumped seventy-five points in six months, and the optometrist ran the machine twice before he believed it wasn't broken.\nRewind one month: my bedtime routine had turned into lying flat watching those long, unbroken late-night food videos, phone about twenty centimeters from my face.\nRewind further and it starts in March, when I moved and a noodle shop open until three in the morning appeared downstairs, close enough to decide from bed.\nThe first step was a small one: I moved the phone stand from my desk to the headboard, on the grounds that lying down meant fewer crumbs on the sheets.\nWhen the prescription slip slid across to me, the numbers on it remembered my last six months better than I did.",
+          "editorNote": "Good under a photo of your new glasses, or for the roommate who watches food videos lying down every night.",
+          "variations": [
+            "Alternate result: the optometrist said only fifty of it was real, and the other twenty-five was last night's three a.m. session wearing off.",
+            "Extra line: I put the new glasses on, and the first thing I saw clearly was that noodle shop's menu."
+          ]
+        }
+      }
     }
   ]
 }

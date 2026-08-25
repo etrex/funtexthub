@@ -12757,6 +12757,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-467",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://blog.simpleinfo.cc/shasha77/taiwanese-food-culture-handmade-drink",
+      "sourceNote": "談台灣手搖飲客製化程度極高、甜度冰塊加料可自由組合；取「選項愈多、真正被驗證過的組合愈少」的概念，改寫成兩個時間點的對照",
+      "tags": [
+        "工程師日常",
+        "測試",
+        "黑色幽默",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "五年前這間店的牆上只有三種甜度，我們系統也只有三個開關。\n今天我站在出杯口旁邊，牆上那張表已經長到甜度五格、冰塊五格，再加十一種配料。\n我們的開關現在有二十三個，自動測試只跑其中四種組合，因為那四種吃掉九成流量。\n店員把飲料放上檯面，順手在杯蓋上戳了個記號。\n剩下那一成的組合，公司內部也有個代號，叫做客訴。",
+          "editorNote": "適合在有人提議「再加一個設定開關就好」的討論串裡貼，或做測試覆蓋率簡報時當開場。",
+          "variations": [
+            "延伸版本：菜單上每多一格，可以點的東西就多一輪；能被實際泡過一次的，永遠只有那幾杯。",
+            "短版：選項是乘法長大的，驗證是加法長大的。"
+          ]
+        },
+        "en": {
+          "content": "Five years ago this shop had three sweetness levels on the wall, and our system had three toggles.\nToday I'm standing by the pickup shelf, and the board has grown to five sweetness levels, five ice levels, and eleven toppings.\nOur system has twenty-three toggles now, and the automated suite covers four combinations, because those four carry ninety percent of the traffic.\nThe clerk sets my cup down and marks the lid with a quick stamp.\nThe other ten percent of combinations has an internal codename too. We call it support tickets.",
+          "editorNote": "Drop it in the thread where someone proposes 'just one more config flag,' or open a test-coverage review with it.",
+          "variations": [
+            "Extension: every new row on the menu multiplies what can be ordered. What actually gets made stays the same short list.",
+            "Short version: options grow by multiplication, verification grows by addition."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-468",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://www.ptt.cc/bbs/WomenTalk/M.1616337586.A.B2D.html",
+      "sourceNote": "PTT 討論畢業多年後同學會的意義與尷尬；取「旁人一句話改變你對自己工作的認知」的核心，改寫成工程師視角",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "自嘲",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "包廂裡輪到我講，我盡量講得簡單：我負責讓帳戶資料在四個系統之間對得起來，做了七年。\n講完沒人接話，安靜了兩秒。\n斜對面賣保險的阿凱忽然抬頭：「喔，就是你們家那個一直寄信叫我改密碼的？」\n全桌笑翻，話題就這樣跑掉了。\n回家路上我一直想，七年的工作在他那邊只留下一個切面，而那個切面，是我們當年吵最兇、最後隨便丟給實習生寫的那封信。",
+          "editorNote": "適合在有人抱怨「使用者根本不懂我們做了什麼」的時候接話，也適合貼在對外文案的討論串。",
+          "variations": [
+            "延伸版本：系統有幾百個模組，使用者記得的永遠是他被打擾的那一個。",
+            "短版：你花七年蓋的地基，在別人眼裡是一封信的語氣。"
+          ]
+        },
+        "en": {
+          "content": "My turn in the private dining room, so I keep it simple: I keep account data consistent across four systems, and I've done it for seven years.\nNobody picks it up. Two seconds of silence.\nThen Kai, who sells insurance, looks up from across the table: \"Oh, you're the company that keeps emailing me to change my password?\"\nThe whole table cracks up and the conversation moves on without me.\nOn the ride home I kept thinking: seven years leaves exactly one visible surface on his end, and that surface is the email we argued hardest about and then handed to an intern.",
+          "editorNote": "Good reply when someone complains that users don't understand the work, and good for a thread about customer-facing copy.",
+          "variations": [
+            "Extension: the system has hundreds of modules. Users remember the one that interrupted them.",
+            "Short version: seven years of foundation work reaches most people as the tone of one email."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-469",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://www.dcard.tw/f/tech_job?tab=latest",
+      "sourceNote": "科技業討論板上常見的「小誤差累積成大問題」話題；改寫成結論先行、再倒敘成因的山路場景",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "血淚",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "所以我現在聽到「差一點點而已」會生理不適。\n涼亭的木牌寫海拔四百二十，我的錶顯示四百五十七，我坐下來灌水，盯著那三十七公尺發呆。\n去年我們讓一個金額欄位在每次寫入時四捨五入到小數第二位，當時大家都覺得誤差小到可以忽略。\n它一天被寫進去八萬次，跑了十四個月。\n財務拿著兩張兜不攏的表來找我那天，我脫口而出的第一句話是：這數字怎麼可能。",
+          "editorNote": "適合在有人說「這個精度夠用了」的時候貼，或做財務相關系統的設計審查時當開場白。",
+          "variations": [
+            "延伸版本：單筆看得到的誤差都不叫誤差，會出事的那種每一筆都在容許範圍內。",
+            "短版：可以忽略的東西，乘上八萬次就不能忽略了。"
+          ]
+        },
+        "en": {
+          "content": "So these days the phrase \"it's only off by a hair\" gives me a physical reaction.\nThe wooden sign at this trail shelter says elevation 420. My watch says 457. I sit down, drink half my bottle, and stare at those 37 meters.\nLast year we rounded a currency field to two decimal places on every write, and everyone agreed the error was small enough to ignore.\nIt got written eighty thousand times a day, for fourteen months.\nThe day finance showed up with two reports that wouldn't reconcile, the first thing out of my mouth was: there's no way.",
+          "editorNote": "For the moment someone says 'this precision is good enough,' or as an opener for a design review on anything touching money.",
+          "variations": [
+            "Extension: an error you can see in a single row isn't the dangerous kind. The dangerous kind is within tolerance every single time.",
+            "Short version: negligible, multiplied by eighty thousand, stops being negligible."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-470",
+      "dateAdded": "2026-08-25",
+      "sourceUrl": "https://ithelp.ithome.com.tw/questions/10185935",
+      "sourceNote": "iT 邦幫忙討論電腦維修與維護的界線、以及「壞了才處理」的常見心態；取「重開機掩蓋了真正的洩漏」核心改寫",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "維護",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "女兒學校的校車這學期輪到我當隨車志工，車上那台點名平板每天早上都會卡死一次。\n第一次我長按重開，三十秒就好了，我跟司機說沒事。\n第二次、第三次我還是說重開就好，並且在心裡幫它想理由：訊號差、機器舊、小朋友亂戳。\n撐到某個星期四，一趟車我重開了四次，第四次有個小朋友抬頭問我：「叔叔，你在修一個修不好的東西嗎？」\n那天晚上我把使用紀錄調出來，那台平板從開學第一天就在漏，只是前三十幾天，我重開的速度比它漏的速度快。",
+          "editorNote": "適合在有人把「重啟服務」寫進處理步驟、或值班交接文件裡出現「先重開看看」的時候貼。",
+          "variations": [
+            "延伸版本：被重開機蓋住的問題從來沒有消失過，它只是被換成一個更晚才會爆的版本。",
+            "短版：你願意重開幾次，就代表你打算裝作沒看見多久。"
+          ]
+        },
+        "en": {
+          "content": "I'm the parent volunteer on my daughter's school bus this term, and the attendance tablet freezes once every morning.\nThe first time I held the power button, it came back in thirty seconds, and I told the driver we were fine.\nSecond time, third time, still just a reboot, and I started inventing reasons for it: bad signal, old hardware, kids poking the screen.\nThen came a Thursday where I rebooted it four times in one run, and on the fourth a kid looked up and asked me: \"Are you fixing something that can't be fixed?\"\nThat night I pulled the usage logs. The tablet had been leaking since the first day of term. For the first thirty-odd days, I was simply rebooting faster than it leaked.",
+          "editorNote": "For when 'restart the service' shows up as a step in a runbook, or 'try rebooting first' lands in the on-call handoff doc.",
+          "variations": [
+            "Extension: a reboot never removes the problem. It swaps it for a version that goes off later.",
+            "Short version: the number of reboots you'll tolerate is the length of time you plan to keep not looking."
+          ]
+        }
+      }
     }
   ]
 }
