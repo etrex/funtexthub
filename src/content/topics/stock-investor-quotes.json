@@ -9120,6 +9120,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-300",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://rich01.com/borrow-money-from-pawnshop/",
+      "sourceNote": "台灣理財站台整理當鋪借款流程與利息規則（最低三個月、逾期五天流當）；原創改寫成三訪當鋪的遞進自嘲",
+      "tags": [
+        "當鋪",
+        "認賠",
+        "套牢",
+        "自嘲",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次踏進當鋪，我把手錶推過去的時候，手是抖的。\n第二次去，我已經知道放大鏡收在哪一格抽屜。\n第三次，老闆抬頭認出我，說這支錶他有印象。\n原來熟能生巧這件事，連認賠也適用。",
+          "editorNote": "適合貼給那種已經賠到不會心痛、只覺得自己流程很熟練的朋友",
+          "variations": [
+            "熟練不是好事，熟練代表這件事你做過太多次了。",
+            "會抖是因為還在乎，不抖之後才是真的麻煩。"
+          ]
+        },
+        "en": {
+          "content": "The first time I walked into a pawnshop, my hand shook as I slid the watch across.\nThe second time, I already knew which drawer held the loupe.\nThe third time, the owner looked up, recognised me, and said he remembered that watch.\nApparently practice makes perfect applies to taking a loss too.",
+          "editorNote": "For the friend who no longer flinches at a loss and has started to find the routine suspiciously smooth",
+          "variations": [
+            "Getting good at something is only a compliment if the something is worth repeating.",
+            "The shaking hand meant I still cared. The steady one is the part that worries me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-301",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.gold-tw.com/blog/gold-price-today-taiwan",
+      "sourceNote": "台灣銀樓每日金價與回收價說明（買進賣出價差）；改寫成當鋪估價對話，笑點在「資產重新配置」的自我美化",
+      "tags": [
+        "當鋪",
+        "對話",
+        "資產配置",
+        "賠錢",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老闆：「這支錶想當多少？」\n我：「你開價就好。」\n老闆：「這麼乾脆，股票的關係吧。」\n我：「這叫資產重新配置。」\n老闆：「配置到當鋪來？」\n我：「至少你報的價錢，不會隔天就改口。」",
+          "editorNote": "適合放在投資群組，回應那種把賠錢講得很有專業感的對話",
+          "variations": [
+            "把「賣掉」講成「配置」，是散戶最後保有的一點體面。",
+            "報價會不會改口，比報價高不高重要多了。"
+          ]
+        },
+        "en": {
+          "content": "Owner: 'How much do you want for the watch?'\nMe: 'You name it.'\nOwner: 'That was quick. Stocks, was it?'\nMe: 'I prefer to call it rebalancing.'\nOwner: 'Rebalancing into a pawnshop?'\nMe: 'At least your number doesn't change its mind overnight.'",
+          "editorNote": "Good for a group chat where someone is dressing up a loss in professional vocabulary",
+          "variations": [
+            "Calling it 'rebalancing' instead of 'selling' is the last dignity a retail investor owns.",
+            "A number that stays the same tomorrow beats a bigger number that won't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-302",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.cna.com.tw/news/afe/202608180156.aspx",
+      "sourceNote": "中央社 8/18 報導台股期指單日重挫；改寫成同一種下跌在不同月份的體感遞減，不引用任何點位",
+      "tags": [
+        "對帳單",
+        "下跌",
+        "心態",
+        "厭世",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三月那次帳面轉綠，我整晚沒睡，天亮還跟自己保證撐一下就會回來。\n梅雨季又綠一輪，我學會把手機翻面放著，眼不見為淨。\n昨天同一種綠再出現，我一邊看數字往下掉，一邊想晚餐要吃什麼。\n人是會進步的，只是進步的方向跟當初想的不太一樣。",
+          "editorNote": "適合在大跌日發給那些已經冷靜到有點可疑的同事",
+          "variations": [
+            "麻木常常被誤認成心態穩定。",
+            "從整晚沒睡到照常吃晚餐，中間只隔了幾張對帳單。"
+          ]
+        },
+        "en": {
+          "content": "In March my account went red and I lay awake all night, still promising myself at sunrise that it would come back.\nWhen the rainy season brought the same colour around again, I had learned to leave my phone face down.\nYesterday I watched the number slide while deciding what to have for dinner.\nPeople really do grow. Just not always in the direction they had in mind.",
+          "editorNote": "For a bad market day, addressed to the colleague whose calm has started to look like something else",
+          "variations": [
+            "Numbness is regularly mistaken for discipline.",
+            "It took only a few statements to get from a sleepless night to a normal dinner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-303",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.cna.com.tw/news/afe/202608140224.aspx",
+      "sourceNote": "中央社 8/14 報導法人連續買超、市場情緒轉熱；改寫成長輩果斷變現與自己抱著不放的對照",
+      "tags": [
+        "黃金",
+        "家人",
+        "果斷",
+        "長期投資",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽把嫁妝的金鍊子拿去銀樓換現金，回來多請了全家一頓火鍋。\n我把差不多的錢放進市場，兩個月後換來一句「長期投資」。\n她問我什麼時候回本，我說等我學會她那種果斷。",
+          "editorNote": "適合過年或家庭聚餐後，回應長輩問你投資狀況的那種尷尬",
+          "variations": [
+            "長輩不懂技術分析，但他們懂什麼時候該收手。",
+            "「長期投資」有時候只是「還沒想好怎麼解釋」的禮貌說法。"
+          ]
+        },
+        "en": {
+          "content": "My mother took her dowry gold chain to the jeweller and came back with enough cash to buy the family hotpot.\nI put roughly the same money into the market and came back two months later with the phrase 'long-term investment.'\nShe asked when I would break even. I said, as soon as I learn to be that decisive.",
+          "editorNote": "For the awkward stretch after a family dinner when a relative asks how your investments are doing",
+          "variations": [
+            "Older relatives may not read charts, but they know when to stop.",
+            "'Long-term investment' is sometimes just a polite way of saying 'still working on the explanation.'"
+          ]
+        }
+      }
     }
   ]
 }

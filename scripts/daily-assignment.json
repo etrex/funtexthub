@@ -1,0 +1,349 @@
+{
+ "date": "2026-08-26",
+ "min_scene_items": 2,
+ "topics": {
+  "absurd-wisdom": {
+   "frame": "L8",
+   "scene": "水塔",
+   "scene_tokens": [
+    "水塔",
+    "抽水"
+   ]
+  },
+  "adulting-quotes": {
+   "frame": "L6",
+   "scene": "刻印章店",
+   "scene_tokens": [
+    "印章",
+    "刻印"
+   ]
+  },
+  "breakup-quotes": {
+   "frame": "L4",
+   "scene": "語音信箱",
+   "scene_tokens": [
+    "語音信箱",
+    "留言"
+   ]
+  },
+  "cat-quotes": {
+   "frame": "H2",
+   "scene": "鐵窗外",
+   "scene_tokens": [
+    "鐵窗"
+   ]
+  },
+  "cdrama-period-quotes": {
+   "frame": "L9",
+   "scene": "廟埕",
+   "scene_tokens": [
+    "廟埕",
+    "廟口"
+   ]
+  },
+  "cheesy-pickups": {
+   "frame": "L2",
+   "scene": "手搖飲吧台",
+   "scene_tokens": [
+    "吧台",
+    "手搖",
+    "甜度",
+    "微冰",
+    "珍奶",
+    "奶茶"
+   ]
+  },
+  "cold-jokes": {
+   "frame": "L2",
+   "scene": "書報攤",
+   "scene_tokens": [
+    "書報攤",
+    "書報",
+    "報攤"
+   ]
+  },
+  "concert-ticket-quotes": {
+   "frame": "L5",
+   "scene": "客運休息站",
+   "scene_tokens": [
+    "休息站",
+    "客運",
+    "國道"
+   ]
+  },
+  "couple-jokes": {
+   "frame": "L2",
+   "scene": "火鍋店",
+   "scene_tokens": [
+    "火鍋",
+    "鴛鴦鍋",
+    "湯底",
+    "沙茶",
+    "涮",
+    "鍋"
+   ]
+  },
+  "dark-humor": {
+   "frame": "L1",
+   "scene": "靈堂",
+   "scene_tokens": [
+    "靈堂",
+    "告別式",
+    "誦經"
+   ]
+  },
+  "diet-quotes": {
+   "frame": "ORD",
+   "scene": "麵攤",
+   "scene_tokens": [
+    "麵攤",
+    "麵店"
+   ]
+  },
+  "dog-quotes": {
+   "frame": "H2",
+   "scene": "單車道",
+   "scene_tokens": [
+    "單車",
+    "腳踏車"
+   ]
+  },
+  "drama-binge-quotes": {
+   "frame": "L3",
+   "scene": "雲端資料夾",
+   "scene_tokens": [
+    "雲端",
+    "資料夾"
+   ]
+  },
+  "drama-quotes": {
+   "frame": "L9",
+   "scene": "婚宴後台",
+   "scene_tokens": [
+    "婚宴",
+    "喜宴"
+   ]
+  },
+  "exam-quotes": {
+   "frame": "ORD",
+   "scene": "校門口警衛室",
+   "scene_tokens": [
+    "警衛室",
+    "校門口",
+    "警衛"
+   ]
+  },
+  "fathers-day-quotes": {
+   "frame": "L7",
+   "scene": "拖吊場",
+   "scene_tokens": [
+    "拖吊"
+   ]
+  },
+  "fitness-quotes": {
+   "frame": "L6",
+   "scene": "羽球館",
+   "scene_tokens": [
+    "羽球"
+   ]
+  },
+  "food-jokes": {
+   "frame": "L1",
+   "scene": "早餐店鐵板",
+   "scene_tokens": [
+    "鐵板",
+    "早餐店"
+   ]
+  },
+  "graduation-quotes": {
+   "frame": "L4",
+   "scene": "操場司令台",
+   "scene_tokens": [
+    "司令台",
+    "操場"
+   ]
+  },
+  "healing-quotes": {
+   "frame": "L10",
+   "scene": "溪邊石頭",
+   "scene_tokens": [
+    "溪",
+    "石頭"
+   ]
+  },
+  "holiday-jokes": {
+   "frame": "H3",
+   "scene": "廟會陣頭",
+   "scene_tokens": [
+    "陣頭",
+    "廟會",
+    "遶境",
+    "神轎"
+   ]
+  },
+  "human-design-quotes": {
+   "frame": "L1",
+   "scene": "音樂教室",
+   "scene_tokens": [
+    "音樂教室",
+    "琴房",
+    "音樂課"
+   ]
+  },
+  "insomnia-quotes": {
+   "frame": "ORD",
+   "scene": "夜班保全室",
+   "scene_tokens": [
+    "保全",
+    "夜班"
+   ]
+  },
+  "korean-drama-quotes": {
+   "frame": "L9",
+   "scene": "開幕花籃",
+   "scene_tokens": [
+    "花籃",
+    "開幕"
+   ]
+  },
+  "mom-quotes": {
+   "frame": "L7",
+   "scene": "曬衣間",
+   "scene_tokens": [
+    "曬衣",
+    "衣架",
+    "吊桿"
+   ]
+  },
+  "motivational-quotes": {
+   "frame": "L5",
+   "scene": "田埂",
+   "scene_tokens": [
+    "田埂",
+    "稻田"
+   ]
+  },
+  "pet-memorial-quotes": {
+   "frame": "H1",
+   "scene": "儲藏室",
+   "scene_tokens": [
+    "儲藏室",
+    "儲藏"
+   ]
+  },
+  "programmer-jokes": {
+   "frame": "H1",
+   "scene": "印刷廠",
+   "scene_tokens": [
+    "印刷"
+   ]
+  },
+  "renting-quotes": {
+   "frame": "ORD",
+   "scene": "工地貨櫃屋",
+   "scene_tokens": [
+    "貨櫃",
+    "工地"
+   ]
+  },
+  "self-love-quotes": {
+   "frame": "L10",
+   "scene": "防風林",
+   "scene_tokens": [
+    "防風林",
+    "木麻黃"
+   ]
+  },
+  "service-quotes": {
+   "frame": "H3",
+   "scene": "牙醫診所",
+   "scene_tokens": [
+    "牙醫",
+    "診療椅"
+   ]
+  },
+  "slang-quotes": {
+   "frame": "L8",
+   "scene": "群組已讀",
+   "scene_tokens": [
+    "已讀",
+    "群組"
+   ]
+  },
+  "stock-investor-quotes": {
+   "frame": "ORD",
+   "scene": "當鋪",
+   "scene_tokens": [
+    "當鋪",
+    "典當"
+   ]
+  },
+  "student-quotes": {
+   "frame": "L3",
+   "scene": "實驗室",
+   "scene_tokens": [
+    "實驗室"
+   ]
+  },
+  "summer-electric-quotes": {
+   "frame": "H3",
+   "scene": "倉庫棧板區",
+   "scene_tokens": [
+    "棧板",
+    "倉庫"
+   ]
+  },
+  "sweet-quotes": {
+   "frame": "L10",
+   "scene": "復健科",
+   "scene_tokens": [
+    "復健"
+   ]
+  },
+  "travel-quotes": {
+   "frame": "L3",
+   "scene": "渡船口",
+   "scene_tokens": [
+    "渡船",
+    "渡輪"
+   ]
+  },
+  "wedding-quotes": {
+   "frame": "H1",
+   "scene": "捐血車",
+   "scene_tokens": [
+    "捐血"
+   ]
+  },
+  "witty-comebacks": {
+   "frame": "L8",
+   "scene": "撞球間",
+   "scene_tokens": [
+    "撞球"
+   ]
+  },
+  "workplace-quotes": {
+   "frame": "H3",
+   "scene": "行車紀錄器",
+   "scene_tokens": [
+    "行車紀錄",
+    "行車"
+   ]
+  },
+  "worldcup-quotes": {
+   "frame": "L5",
+   "scene": "釣蝦場",
+   "scene_tokens": [
+    "釣蝦"
+   ]
+  },
+  "zodiac-quotes": {
+   "frame": "L4",
+   "scene": "水族館",
+   "scene_tokens": [
+    "水族"
+   ]
+  }
+ },
+ "note": "scene_tokens: match on the scene's distinctive head noun, not the literal compound. Requiring the verbatim compound both false-flags items that are clearly in the scene and pushes writers toward a repeated literal token, which is the fingerprint the batch is trying to avoid."
+}

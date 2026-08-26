@@ -12225,6 +12225,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-478",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.notesbyjai.tw/bubble-tea-english/",
+      "sourceNote": "台灣手搖飲甜度／冰塊客製用語整理（微糖、半糖、少冰、去冰），取其點單調整的節奏改寫成吧台對話",
+      "tags": [
+        "對話",
+        "甜",
+        "食物"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「微糖微冰，這樣可以嗎？」\n「可以，但我想改一個地方。」\n「改哪裡？」\n「甜度不用動，冰塊給我正常就好。」\n「為什麼？」\n「因為甜的那一半，你已經幫我負責了。」",
+          "editorNote": "適合在手搖飲吧台點單、對方剛好在幫你確認甜度時接話，屬於不用事先鋪陳、當場就能講的低風險款",
+          "variations": [
+            "「甜度冰塊照舊嗎？」「甜度幫我砍掉。」「這樣會很淡欸。」「不會，你站在這裡就補回來了。」"
+          ]
+        },
+        "en": {
+          "content": "\"Less sugar, less ice — sound good?\"\n\"Almost. Change one thing for me.\"\n\"Which part?\"\n\"Leave the sugar alone, just give me normal ice.\"\n\"Why?\"\n\"Because you already took care of the sweet half.\"",
+          "editorNote": "Use it at the boba counter while they are confirming your order — no setup needed, low risk if it lands flat",
+          "variations": [
+            "\"Same sweetness as usual?\" \"Zero sugar today.\" \"That'll taste like nothing.\" \"It won't. You're standing right there.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-479",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://news.pchome.com.tw/relationship/aday/20260508/index-77822394551158330028.html",
+      "sourceNote": "PChome 兩性專欄整理的四十句撩人語錄，多為一問一答結構，取其問答節奏改寫",
+      "tags": [
+        "對話",
+        "甜",
+        "撩人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你在吧台後面搖幾下？」\n「一杯大概十五下。」\n「難怪。」\n「難怪什麼？」\n「難怪我今天心跳也是十五下起跳。」\n「這句很沒說服力欸。」\n「那我再點一杯，你再搖一次給我看。」",
+          "editorNote": "適合在手搖飲吧台前對熟面孔的店員，或跟一起去買飲料的曖昧對象講；重點在最後那句給自己留下一次再來的理由",
+          "variations": [
+            "「這杯要搖很久嗎？」「還好。」「那可以搖慢一點嗎，我還想多站一下。」"
+          ]
+        },
+        "en": {
+          "content": "\"How many shakes does one cup take back there?\"\n\"Fifteen, give or take.\"\n\"That explains it.\"\n\"Explains what?\"\n\"My pulse has been running at about fifteen since I walked in.\"\n\"That is a terrible line.\"\n\"Then let me order another one and watch you shake it again.\"",
+          "editorNote": "For the barista you keep running into, or the crush you're getting drinks with — the payoff is buying yourself a reason to come back",
+          "variations": [
+            "\"Does this one take long?\" \"Not really.\" \"Could you go slower? I'd like to stay a bit.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-480",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://news.pchome.com.tw/relationship/aday/20260508/index-77822394551158330028.html",
+      "sourceNote": "同一篇語錄中「借東西→其實是借你」的套路，換成充電線與電量的現代版本",
+      "tags": [
+        "對話",
+        "科技",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你充電線可以借我一下嗎？」\n「你手機沒電喔？」\n「滿格。」\n「那你借幹嘛？」\n「因為我發現只要坐在你旁邊，我的電就掉得特別快。」\n「這什麼歪理。」\n「歪理也要有一條線接到你才成立。」",
+          "editorNote": "適合共用工作區、讀書會、咖啡廳併桌這種本來就有理由開口的場合，借東西是幌子，重點是製造下一次還東西的機會",
+          "variations": [
+            "「行動電源借我。」「你剛剛才充飽吧？」「充飽的是手機，我還缺一格。」"
+          ]
+        },
+        "en": {
+          "content": "\"Can I borrow your charging cable?\"\n\"Is your phone dead?\"\n\"Full battery, actually.\"\n\"Then what do you need it for?\"\n\"Because sitting next to you drains me faster than anything on my screen.\"\n\"That makes no sense.\"\n\"Nonsense still needs a cable running to you.\"",
+          "editorNote": "Works in coworking spaces, study groups, or a shared cafe table — borrowing is the excuse, returning it is the actual plan",
+          "variations": [
+            "\"Lend me your power bank?\" \"Didn't you just charge up?\" \"The phone's at full. I'm still one bar short.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-481",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://blog.accupass.com/chinese-valentines-day.html",
+      "sourceNote": "2026 七夕撩人語錄整理，取其「日常物件轉成告白」的手法，換成台灣電子發票載具的情境",
+      "tags": [
+        "對話",
+        "日常",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你有載具嗎？」\n「有，我手機條碼。」\n「那這張幫我存。」\n「你自己沒有喔？」\n「有，但我想看看把東西都存到你那邊會怎樣。」\n「會怎樣？」\n「會多出一個以後來找你的理由。」",
+          "editorNote": "適合跟同事、同學一起結帳的瞬間丟出來；台灣人幾乎都有載具，門檻低又不尷尬，被吐槽也能笑著收場",
+          "variations": [
+            "「發票給你。」「幹嘛給我？」「我對中獎沒興趣，我只想讓你手上有我的東西。」"
+          ]
+        },
+        "en": {
+          "content": "\"Do you have the receipt code saved on your phone?\"\n\"Yeah, I've got the barcode.\"\n\"Then put this one under yours.\"\n\"You don't have your own?\"\n\"I do. I just want to see what happens when I keep my things with you.\"\n\"What happens?\"\n\"I get one more reason to come find you later.\"",
+          "editorNote": "Use it at the register with a coworker or classmate — everyone has the code saved, so the ask is easy and being teased for it still ends well",
+          "variations": [
+            "\"Here, take my receipt.\" \"Why me?\" \"I don't care about the draw. I just want you holding something of mine.\""
+          ]
+        }
+      }
     }
   ]
 }

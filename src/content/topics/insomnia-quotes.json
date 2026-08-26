@@ -9794,6 +9794,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-356",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.ptt.cc/bbs/Salary/M.1580643629.A.0CA.html",
+      "sourceNote": "PTT Salary 板夜班保全心得串（哨所巡完就是自己的時間、最難的是把作息調回來）；改寫成三次進值班室的體感遞進，人物與情節全部重寫",
+      "tags": [
+        "失眠",
+        "夜班",
+        "保全室",
+        "作息",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次接下夜班保全室的鑰匙，我把那排監視畫面當成一部沒有劇情的電影，兩點多開始數牆上的裂痕。\n第二次進來值班，我已經學會把椅子調到能靠著、又不至於真的闔眼的角度，天亮前那段變得好過一點。\n第三次坐在同一張桌子後面，我才認清深夜其實好過得多，難的是交完班回到家、外面天已經亮透，我卻還睜著眼睛。\n夜班沒把我練成不睏的人，只把我的睏意整批挪到錯的時段。",
+          "editorNote": "適合輪大夜、或作息長期跟別人相反的人，用來回覆「你不是很習慣熬夜了嗎」這種問句。也適合貼在下班回家卻睡不著的那個早晨。",
+          "variations": [
+            "值班的時候我很清醒，回到家反而變成一台關不掉的機器。",
+            "我的熬夜功力普通，睏意的班表倒是排得很有創意。"
+          ]
+        },
+        "en": {
+          "content": "The first night I got the keys to the guard room, the wall of monitors played like a film with no plot, and by two I was counting cracks in the paint.\nBy the second shift I'd learned exactly how far to tilt the chair, leaning back without actually closing my eyes, and the last stretch before sunrise went easier.\nBy the third, I'd worked out that the small hours were the easy part. The hard part is getting home after handover, with the street already bright, and lying there wide awake.\nNights never trained the tiredness out of me. They just moved the whole lot of it to the wrong shift.",
+          "editorNote": "For anyone on permanent nights, or living on the opposite schedule from everyone they know. Good reply to 'aren't you used to it by now?'",
+          "variations": [
+            "On shift I'm sharp. At home I'm a machine with no off switch.",
+            "My all-nighter skills are average. My sleepiness keeps a very creative roster."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-357",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://forum.gamer.com.tw/C.php?bsn=60561&snA=24064",
+      "sourceNote": "巴哈姆特職場甘苦談「保全一年心得（夜班較多）」討論串裡交接班與作息顛倒的抱怨；改寫成一段交接對話，內容全新",
+      "tags": [
+        "失眠",
+        "夜班",
+        "保全室",
+        "對話",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你眼睛紅成這樣，昨天又沒睡？」交班的大哥推開夜班保全室的門，把鑰匙串擱在桌上。\n「我上班的時候很清醒，是下班才睡不著。」\n「那你回去躺著都在幹嘛？」\n「數天花板的紋路，順便回憶三年前講錯的一句話。」\n「所以你在這裡撐，回家也在撐。」\n「對，我一天有兩個班，只有一個領得到錢。」",
+          "editorNote": "適合輪班族在交接時間發的自嘲，也很適合貼給同樣「下班比上班還累」的同事，當作互相認領的暗號。",
+          "variations": [
+            "上班撐著不睡，下班撐著想睡，我一天其實排了兩個班。",
+            "值完班還要值一場沒有薪水的班，就是我的行程表。"
+          ]
+        },
+        "en": {
+          "content": "\"Your eyes are wrecked. No sleep again?\" The guy taking over pushes open the night guard room door and drops the keyring on the desk.\n\"I'm wide awake on shift. It's after work that I can't sleep.\"\n\"So what do you do lying there?\"\n\"Read the ceiling. Revisit one sentence I got wrong three years ago.\"\n\"So you're grinding here, then grinding at home.\"\n\"Right. I work two shifts a day. Only one of them pays.\"",
+          "editorNote": "For shift workers to post at handover, or to send to the coworker whose day off is somehow more exhausting than their shift.",
+          "variations": [
+            "Awake on the clock, awake off it. That's two shifts, one paycheck.",
+            "Clocking out just moves me to the unpaid shift."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-358",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.ftnn.com.tw/news/524877",
+      "sourceNote": "FTNN 報導 Threads 上「今天台灣人集體失眠？」貼文引發共鳴，留言出現「睡眠伺服器斷線」的說法；改寫成第一人稱情境，用語與例子全部重寫",
+      "tags": [
+        "失眠",
+        "共鳴",
+        "社群",
+        "清晨",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "清晨五點滑開手機，同一分鐘裡有一整排陌生人在說自己睡不著。\n我本來以為只有我這台壞掉，結果整個伺服器都斷線了。\n底下有人說已經把衣服洗好晾完，有人說正在看今年第二次的日出。\n我沒有因此比較好睡，但至少知道這條半夜的路上，卡住的車不只一台。",
+          "editorNote": "凌晨在社群看到一堆人同時哀號失眠時，用這則加入話題；也適合當作限動配文，收集同一時區的難友。",
+          "variations": [
+            "凌晨的社群比白天熱鬧，因為失眠的人都準時上線。",
+            "我以為只有自己壞掉，打開手機才發現是整批的。"
+          ]
+        },
+        "en": {
+          "content": "Five in the morning, I open my phone and a whole column of strangers is posting that they can't sleep either.\nI'd assumed I was the only unit malfunctioning. Turns out the entire server dropped.\nOne person has already done a load of laundry. Another is watching their second sunrise of the year.\nIt didn't make me sleep any better, but at least the traffic jam has other cars in it.",
+          "editorNote": "For those nights when your feed fills up with people awake at the same hour. Works as a story caption to find your fellow non-sleepers.",
+          "variations": [
+            "The internet is busiest at 4am because that's when the insomniacs clock in.",
+            "Thought I was the only broken one. Turns out it was a whole batch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-359",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.sleeptoast.com/2026/07/16/%E5%8A%A9%E7%9C%A0%E4%BF%9D%E5%81%A5%E5%93%81/",
+      "sourceNote": "2026 睡眠焦慮調查文中提到助眠保健品與各式助眠小物在社群爆紅的現象；改寫成個人採購史的自嘲，不提任何產品名稱、不給任何醫療建議",
+      "tags": [
+        "失眠",
+        "助眠小物",
+        "自嘲",
+        "購物",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "床頭那格抽屜慢慢變成助眠小物的常設展區，香氛噴霧、遮光眼罩、會放海浪聲的小喇叭，全是某個睡不著的深夜下單的。\n香氛噴完躺下，我聞到的只有自己很努力的味道；眼罩戴上以後世界確實黑了，我的腦袋卻自作主張開了一盞燈。\n三樣東西同時運作的夜裡，房間像個小型展場，而我是唯一還醒著的參觀者。\n真正讓我一覺到天亮的，是某個忘記帶手機出門的午後，回家累到連躺姿都懶得挑。",
+          "editorNote": "適合在購物車裡又多一樣助眠小物時發，也可以回覆推薦你「這個超好睡」的朋友，當成溫和的自首。",
+          "variations": [
+            "我床頭的助眠裝備比我的睡眠時數還多。",
+            "買了一整套助眠道具，最後救我的是一個沒帶手機的下午。"
+          ]
+        },
+        "en": {
+          "content": "The drawer by my bed has quietly become a permanent exhibition of sleep gadgets: a pillow spray, a blackout eye mask, a little speaker that plays waves, all of it ordered in the middle of some sleepless night.\nI mist the spray, lie down, and the only thing I can smell is how hard I'm trying; the mask makes the world go properly dark, and my brain switches on a lamp of its own.\nOn nights when all three are running, the room is a tiny trade show and I'm the only visitor still awake.\nWhat finally knocked me out was an afternoon I left my phone at home and came back too tired to even pick a sleeping position.",
+          "editorNote": "For when yet another sleep gadget lands in your cart, or as a gentle confession to the friend who swore this one would work.",
+          "variations": [
+            "My nightstand has more sleep equipment than I have hours of sleep.",
+            "Bought the whole sleep kit. Got saved by one phoneless afternoon."
+          ]
+        }
+      }
     }
   ]
 }

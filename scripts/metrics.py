@@ -40,6 +40,26 @@ FORM_FIELDS = ['備註', '單號', '編號', '案號', '品名', '規格', '狀�
 
 CJK = re.compile(r'[一-鿿]')
 
+# --- ordinal enumeration frame (ADDED 2026-08-26) --------------------------
+# The 8/25 batch put a 第一次…第二次/第三次 progression in 14/168 items = 8.3%,
+# spread over 14 unrelated topics, against a corpus baseline of 0.3% (24x).
+# max_rare_ngram read 3.6% and passed, because it is blind to this by
+# construction: the frame's surface form changes with a single character
+# (第一次我 / 第一次是 / 第一次沖 / 第一次陪), so a character 4-gram splits one
+# skeleton into fragments that each sit under the limit. max_rare_ngram
+# measures a repeated WORD; this measures a repeated SKELETON.
+# Nothing above is modified. The progression is a good device -- the correct
+# remedy is a quota, not deletion.
+ORDINAL_FIRST = re.compile(r'第一次')
+ORDINAL_LATER = re.compile(r'第[二三]次')
+ORDINAL_ENUM_LIMIT = 3.0   # batch share %; above this = skeleton reuse to act on
+
+
+def is_ordinal_enum(text):
+    """Item carries 第一次 AND 第二次/第三次 -- the ordinal progression frame."""
+    return bool(ORDINAL_FIRST.search(text) and ORDINAL_LATER.search(text))
+
+
 # --- waiting/service-queue vocabulary (ADDED 2026-08-24) --------------------
 # The 8/23 batch scored low on SCENES and FORM_FIELDS while concentrating on
 # service-queue locations instead (櫃檯 alone hit 10.7%, twice the 陽台 reading
@@ -110,6 +130,65 @@ def redundant_ngrams(hits, limit=DEDUP_CANDIDATE_LIMIT):
             continue
         keep[g] = c
     return collections.Counter(keep)
+
+
+NGRAM_FAMILY_MIN_OVERLAP = 3
+
+
+def _overlaps(a, b, min_overlap=NGRAM_FAMILY_MIN_OVERLAP):
+    """True if a and b are windows onto the same longer phrase."""
+    if a in b or b in a:
+        return True
+    for k in range(1, len(a) - min_overlap + 1):
+        if a[k:] == b[:len(a) - k]:
+            return True
+        if b[k:] == a[:len(b) - k]:
+            return True
+    return False
+
+
+def ngram_families(hits, limit=DEDUP_CANDIDATE_LIMIT):
+    """Fold sliding-window fragments of one long phrase into a single family.
+
+    ADDED 2026-08-26. redundant_ngrams() folds on containment only, which is
+    correct for a fixed-length word (借還登記 / 還登記簿) but fails on a long
+    sentence skeleton: 「沒說出口的那句是」 surfaced as four separate entries
+    (出口的那 x6 / 口的那句 x5 / 的那句是 x5 / 出口的是 x4) because no fragment
+    contains another, so a 5-item family under-reported as scattered noise.
+    Two n-grams join a family when they share >= NGRAM_FAMILY_MIN_OVERLAP
+    characters as a prefix/suffix overlap. A family's count is its largest
+    member's, so max_rare_ngram-style readings stay on the same scale.
+
+    redundant_ngrams() and max_rare_ngram are NOT modified -- this is a second,
+    additional view reported alongside them.
+    """
+    ranked = sorted(hits.items(), key=lambda kv: (-kv[1], kv[0]))[:limit]
+    terms = [g for g, _ in ranked]
+    parent = {g: g for g in terms}
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+
+    for i, a in enumerate(terms):
+        for b in terms[i + 1:]:
+            if _overlaps(a, b):
+                ra, rb = find(a), find(b)
+                if ra != rb:
+                    parent[rb] = ra
+
+    fams = collections.defaultdict(list)
+    for g, c in ranked:
+        fams[find(g)].append((g, c))
+    out = {}
+    for members in fams.values():
+        members.sort(key=lambda kv: (-kv[1], kv[0]))
+        head, cnt = members[0]
+        label = head if len(members) == 1 else f'{head}+{len(members) - 1}'
+        out[label] = cnt
+    return collections.Counter(out)
 
 
 def load(date=None):
@@ -283,6 +362,30 @@ def report(rows, label, corpus_df=None):
     print(f'  max_rare_ngram      {out["max_rare_ngram"]}%'
           f'  ({out["max_rare_ngram_term"]} x{out["max_rare_ngram_count"]})'
           f'  limit {MAX_RARE_NGRAM_LIMIT}%  [{verdict}]')
+
+    print('\n-- n-gram families (added 2026-08-26; view above unchanged) --')
+    fams = ngram_families(rare_ngram_hits(rows, corpus_df))
+    out['ngram_families'] = fams.most_common(10)
+    if fams:
+        fg, fc = fams.most_common(1)[0]
+        out['max_family_ngram'] = round(fc / n * 100, 1)
+        out['max_family_ngram_term'] = fg
+    else:
+        out['max_family_ngram'] = 0.0
+        out['max_family_ngram_term'] = None
+    for g, v in fams.most_common(10):
+        print(f'  {g:<14} {v:>4}  {v/n*100:5.1f}%')
+    print(f'  max_family_ngram    {out["max_family_ngram"]}%  ({out["max_family_ngram_term"]})')
+
+    print('\n-- ordinal enumeration frame (added 2026-08-26) --')
+    oe = sum(1 for _, _, c, _ in rows if is_ordinal_enum(c))
+    out['ordinal_enum_pct'] = round(oe / n * 100, 1)
+    out['ordinal_enum_n'] = oe
+    out['ordinal_enum_topics'] = sorted({s for s, _, c, _ in rows if is_ordinal_enum(c)})
+    ov = 'PASS' if out['ordinal_enum_pct'] <= ORDINAL_ENUM_LIMIT else 'OVER'
+    print(f'  ordinal_enum        {oe:>4}  {out["ordinal_enum_pct"]:5.1f}%'
+          f'  limit {ORDINAL_ENUM_LIMIT}%  [{ov}]')
+    print(f'  topics: {", ".join(out["ordinal_enum_topics"]) or "(none)"}')
 
     print('\n-- integrity --')
     nosrc = sum(1 for _, _, _, it in rows if not it.get('sourceUrl'))

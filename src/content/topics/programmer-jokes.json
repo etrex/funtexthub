@@ -12877,6 +12877,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-471",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.theprintmedium.com/print-error-responsibility-gap/",
+      "sourceNote": "印刷媒體專欄談印刷失誤的責任常落在流程之間的空白地帶；取「錯不在機器而在交接處」核心，改寫成印刷廠交件時附的保固小卡",
+      "tags": [
+        "工程師日常",
+        "需求變更",
+        "品質保證",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這疊型錄離開印刷廠之前，我在紙箱裡塞了一張卡，因為那套排版流程是我寫的。\n保的東西：油墨吃紙不勻、裁切歪掉、頁碼跳號，一年內我負責重做。\n算多久：從你在送貨簿上簽名那天起跳。\n不保的：打樣時你拿紅筆改過，隔天又說「還是照原本的」。\n不保的：五千份全部印完，才有人發現公司名少一個字。\n要修的話請打給我，我會很誠懇地告訴你，這兩項加起來就是我們去年重印量的九成。",
+          "editorNote": "適合在需求被改來改去、或驗收階段才冒出「原本那版比較好」的時候丟到群組裡。",
+          "variations": [
+            "延伸版本：卡片下面還有一行小字——本卡不保障任何在會議上被說成「小調整」的東西。",
+            "短版：機器很少出錯，出錯的通常是機器前面那段對話。"
+          ]
+        },
+        "en": {
+          "content": "I slipped a card into the box before this batch of catalogues shipped, because I wrote the typesetting pipeline.\nCovered: uneven ink, crooked trims, page numbers that skip. One year, reprinted on us.\nStarts counting: the day you sign the delivery sheet.\nNot covered: you marked up the proof in red pen, then asked us to keep the original after all.\nNot covered: five thousand copies later, somebody notices a letter missing from the company name.\nTo make a claim, call me, and I will very sincerely tell you that those two lines were ninety percent of everything we reprinted last year.",
+          "editorNote": "For when requirements keep flipping, or 'actually the old version was better' shows up during sign-off.",
+          "variations": [
+            "Extension: fine print at the bottom — nothing described in a meeting as 'a small tweak' is covered.",
+            "Short version: the press rarely gets it wrong. What gets it wrong is the conversation in front of the press."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-472",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://vocus.cc/article/65f7ee02fd89780001aad546",
+      "sourceNote": "方格子文章列出發印前的九項檢查建議，強調打樣與多人共看；取「上機之後就沒有退路」核心，改寫成印刷廠機台上的手寫保證",
+      "tags": [
+        "工程師日常",
+        "上線",
+        "測試",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "印刷廠那台輪轉機側面貼著一張泛黃的紙，字是十幾年前一位老師傅寫的。\n保什麼：這台機器印出來的東西，紙不卡、色不偏、疊得整齊。\n撐到哪一刻：你按下啟動鍵的那一刻，剛好結束。\n以下不算：檔案是你給的、字是你打的、要印五千張也是你自己說的。\n真要找人負責：請走到樣張第一頁那個錯字前面，站著看滿三分鐘。\n剛報到的軟體工程師看完笑了很久，回座位就把自己的交付說明改成一模一樣的五行。",
+          "editorNote": "適合在有人把「環境沒問題」當成免責聲明、或上線後才開始找誰該負責的時候引用。",
+          "variations": [
+            "延伸版本：老師傅那張紙其實只想講一句——會動不等於是對的。",
+            "短版：責任在按下去之前，不在按下去之後。"
+          ]
+        },
+        "en": {
+          "content": "There's a yellowed sheet taped to the side of the press, hand-lettered by a foreman a decade or two ago.\nGuaranteed: what comes off this machine won't jam, won't shift colour, and will stack straight.\nExpires: the exact moment you hit the start button.\nExcluded: you supplied the file, you typed the words, and five thousand copies was your number too.\nIf you really need someone to blame, go stand in front of the typo on page one of the proof for three full minutes.\nOur new backend hire read it, laughed for a while, went back to his desk, and rewrote his release notes into the same five lines.",
+          "editorNote": "For when 'it worked in staging' is being used as a liability shield, or the blame hunt starts only after the deploy.",
+          "variations": [
+            "Extension: the whole sheet is really one sentence — running is not the same as correct.",
+            "Short version: ownership lives before the button, not after it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-473",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1552120448.A.13C.html",
+      "sourceNote": "PTT joke 板工程師笑話合集，其中「//TODO 是工程師最常說的謊」一則；取「暫時的東西活最久」核心，改寫成交接時留下的手寫保證卡",
+      "tags": [
+        "工程師日常",
+        "交接",
+        "技術債",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "交接那天，我留了一張手寫卡片給接手的人。\n我保的：這套排程每天兩次把報表寄出去，年底大檔也扛得住。\n有效到：我把識別證還回去的那一秒，同時失效。\n我不保的：任何人在裡面補上一句「先暫時這樣」的判斷。\n我不保的：三年後有人問「當初為什麼要這樣寫」，而我手機號碼早就換了。\n卡片最底下我寫了一行：真正的售後服務叫文件，可惜它從來不隨貨附上。",
+          "editorNote": "適合在交接前、或翻到一段沒人敢動的舊程式時，貼給即將接手的同事。",
+          "variations": [
+            "延伸版本：所有標著「暫時」的東西，都會比寫它的人在公司待得更久。",
+            "短版：離職那天真正帶走的，是只存在腦袋裡的那份說明書。"
+          ]
+        },
+        "en": {
+          "content": "On my last day I left a handwritten card for whoever picks this up.\nWhat I stand behind: this scheduler mails the reports twice a day and survives peak season.\nValid until: the second I hand my badge back.\nWhat I don't stand behind: anyone adding one more branch labelled 'just for now'.\nWhat I don't stand behind: someone asking in three years why it was written this way, by which point my number has changed.\nLast line on the card: the real after-sales service is documentation, and it never ships with the product.",
+          "editorNote": "For a handover, or the moment someone opens the legacy file nobody dares to touch.",
+          "variations": [
+            "Extension: anything labelled 'temporary' outlasts the person who labelled it.",
+            "Short version: what actually walks out the door on your last day is the manual that only ever existed in your head."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-474",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1534817482.A.9EB.html",
+      "sourceNote": "PTT joke 板「工程師邏輯」一文，工程師照字面執行指令的經典梗；取「使用者描述與實際操作永遠對不上」核心，改寫成親戚家網路修好後留下的護貝小卡",
+      "tags": [
+        "工程師日常",
+        "親戚",
+        "技術支援",
+        "家庭"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "過年幫二伯把家裡網路弄順，走之前我在數據機上壓了一張護貝小卡。\n卡片正面：現在這個速度、這個訊號、這組密碼，我都認。\n效力終止於：有人覺得「插頭拔掉再插回去」很好玩的那天。\n不認的第一種：二伯自己搬一台新機器回來接，然後說跟我弄的一樣。\n不認的第二種：任何以「我什麼都沒動」開頭的求救。\n卡片背面沒留電話，只有一句：先重開機，真的。",
+          "editorNote": "適合在被親友當免費技術支援、或收到「我什麼都沒改它就壞了」的訊息時轉發。",
+          "variations": [
+            "延伸版本：小卡下面補一行——若同時觸發以上兩種情況，本卡自動變成杯墊。",
+            "短版：全世界最不可靠的一句話，是「我什麼都沒動」。"
+          ]
+        },
+        "en": {
+          "content": "Over the holidays I got my uncle's home network working, and before leaving I wedged a laminated card under the modem.\nFront of the card: this speed, this signal, this password. All of it, I'll answer for.\nCoverage ends: the day somebody decides that yanking the plug and pushing it back in is fun.\nFirst thing I won't answer for: my uncle buying a new box himself, plugging it in, and saying it's the same as mine.\nSecond thing I won't answer for: any distress call that opens with \"I didn't touch anything.\"\nNo phone number on the back, just one line: reboot it first. Seriously.",
+          "editorNote": "For when relatives treat you as free tech support, or a message arrives saying 'I changed nothing and it broke.'",
+          "variations": [
+            "Extension: trigger both exclusions at once and the card becomes a coaster.",
+            "Short version: the least reliable sentence on earth is 'I didn't touch anything.'"
+          ]
+        }
+      }
     }
   ]
 }

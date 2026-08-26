@@ -9814,6 +9814,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-326",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.healthsport.com.tw/court.html",
+      "sourceNote": "台灣私營羽球館場地費一小時 280-600 元的公開價目，改寫成一晚打球的對帳單",
+      "tags": [
+        "羽球",
+        "羽球館",
+        "運動費用",
+        "自嘲",
+        "小確幸"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "羽球館一晚的明細：\n場地兩小時，四個人分攤，一百六十元\n球兩顆，七十元\n殺球出界十一次，隊友大方沒算錢\n被大學生反手回一球到臉前，免費附贈\n肩膀痠的部分，先掛帳到下禮拜\n合計兩百三十元，快樂那欄沒有標價",
+          "editorNote": "打完球在停紅燈時想起自己花了多少錢，卻一點都不後悔的時候，貼在球隊群組裡",
+          "variations": [
+            "追加一筆：護腕忘在球場，兩百八十元，這才是今晚最貴的一球"
+          ]
+        },
+        "en": {
+          "content": "Tonight's badminton receipt:\nCourt, two hours, split four ways: NT$160\nTwo shuttles: NT$70\nEleven smashes into the net, no charge from my teammates\nOne backhand from a college kid straight at my face, complimentary\nSore shoulder, billed to next week\nTotal NT$230, and the fun column has no price on it",
+          "editorNote": "Drop it in the group chat after a session, when you just did the math and somehow feel richer",
+          "variations": [
+            "Addendum: left my wrist brace on court, NT$280 — the most expensive rally of the night"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-327",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.cna.com.tw/news/afe/202306030033.aspx",
+      "sourceNote": "中央社報導羽球臨打媒合平台、球友揪團常缺人；取其固定跑球場的生活感重寫",
+      "tags": [
+        "羽球",
+        "羽球館",
+        "堅持",
+        "教練",
+        "勵志"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我說我想變強，教練要我先換算成數字。\n羽球館一週跑兩趟，來回車程四十分鐘，穿線一次八百元，一年就是一百零四趟、三支拍子跟兩雙鞋。\n帳算到這裡才明白，願望歸願望，變強是一筆自己扛的分期。\n我照樣簽了，而且沒打算提前解約。",
+          "editorNote": "有人問你為什麼還在練、什麼時候會放棄時，把這段丟回去當答案",
+          "variations": [
+            "第一期已經繳完了，帳單上寫著：反手拍終於不會歪掉"
+          ]
+        },
+        "en": {
+          "content": "I told my coach I wanted to get stronger, and he asked me to convert that into numbers.\nTwo trips to the badminton hall a week, forty minutes of driving each time, NT$800 per restring — a year of that is 104 trips, three rackets and two pairs of shoes.\nOnce the math was done I understood: a wish stays a wish, and getting stronger is an installment plan I signed for myself.\nI signed anyway, and I'm not paying it off early.",
+          "editorNote": "For when someone asks why you're still training, or when you plan to quit",
+          "variations": [
+            "First installment cleared. The statement reads: your backhand finally goes where you aim it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-328",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://memes.tw/wtf?tag=%E5%81%A5%E8%BA%AB",
+      "sourceNote": "台灣健身梗圖常見的「今天狀況不好」自嘲，改寫成把疲倦換算成數字的版本",
+      "tags": [
+        "重訓",
+        "健身房",
+        "自嘲",
+        "疲倦",
+        "深蹲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "今天蹲不下去，我沒有講我很累。\n我講的是：槓片少放五公斤，組間多躺了九十秒，扶著架子深呼吸四回。\n疲倦一旦被寫成數字，就不必再說服任何人。\n隔週那五公斤自己走回來，帳就平了。",
+          "editorNote": "狀況不好又不想被說在找藉口時，用它替自己說話",
+          "variations": [
+            "補記：那九十秒裡我把整首歌聽完了，也算一種組間有氧"
+          ]
+        },
+        "en": {
+          "content": "I couldn't get down into the squat today, and I didn't say I was tired.\nI said: five kilos less on the bar, ninety extra seconds between sets, four deep breaths while hanging off the rack.\nOnce exhaustion is written as a number, it stops needing anyone's belief.\nThe following week those five kilos walked back on by themselves, and the books balanced.",
+          "editorNote": "For an off day when you don't want it read as an excuse",
+          "variations": [
+            "Footnote: I got through a whole song in those ninety seconds, which is basically cardio"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-329",
+      "dateAdded": "2026-08-26",
+      "sourceUrl": "https://www.mobile01.com/topiclist.php?f=697&p=29",
+      "sourceNote": "Mobile01 健身重訓版常見的「會員費繳了卻沒去」討論，改寫成年度小計格式",
+      "tags": [
+        "健身房",
+        "會員費",
+        "自嘲",
+        "厭世",
+        "重訓"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "會員卡的年度小計：\n月費一千兩百元，乘以十二個月\n實際進場二十九次\n平均一次四百九十六元\n其中十一次只換了衣服又走出來\n剩下那十八次，我把六十公斤拉離地面\n這樣看，四百九十六元買一句「我做得到」，好像也還好",
+          "editorNote": "年底看健身房扣款紀錄想罵自己時，先把這段看完再罵",
+          "variations": [
+            "明年目標：讓那十一次變成十次，數字沒有很多，但我知道差在哪"
+          ]
+        },
+        "en": {
+          "content": "Annual subtotal on the gym card:\nNT$1,200 a month, times twelve\nActual check-ins: 29\nWhich averages NT$496 a visit\nEleven of those, I changed clothes and walked straight back out\nThe other eighteen, I pulled sixty kilos off the floor\nPut that way, NT$496 for one 'I can do this' isn't a terrible price",
+          "editorNote": "Read it before you yell at yourself over the year's gym charges",
+          "variations": [
+            "Next year's goal: turn those eleven into ten. Small number, but I know exactly where it lives."
+          ]
+        }
+      }
     }
   ]
 }
