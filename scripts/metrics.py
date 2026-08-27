@@ -191,6 +191,79 @@ def ngram_families(hits, limit=DEDUP_CANDIDATE_LIMIT):
     return collections.Counter(out)
 
 
+# --- variation label prefix (ADDED 2026-08-27) -----------------------------
+# variations have carried a "標籤：" prefix since the site's first batch in
+# April (54,079 variations, 29.2% labelled, 2,407 distinct labels). It is an
+# established convention rendered inside the site's 「延伸版本」 <details>, NOT
+# leaked brief text, and must NOT be cleaned. But every n-gram metric that
+# reads variations must strip it first: on 2026-08-26 the unstripped reading
+# scored frame H1 at 33% "suspected fingerprint" where the stripped reading
+# scored 0. The convention is not a fingerprint. Nothing above is modified.
+VARIATION_LABEL = re.compile(r'^\s*[^\s：:]{1,8}[：:]\s*')
+
+
+def strip_label(text):
+    """Remove a leading 「標籤：」 from a variation string."""
+    return VARIATION_LABEL.sub('', text or '', count=1)
+
+
+def item_texts(it, include_variations=True):
+    """zh-tw body plus label-stripped zh-tw variations."""
+    zh = it.get('i18n', {}).get('zh-tw', {})
+    out = [zh.get('content', '')]
+    if include_variations:
+        out += [strip_label(v) for v in (zh.get('variations') or []) if v and v.strip()]
+    return [t for t in out if t.strip()]
+
+
+# --- register furniture / 公文體 (ADDED 2026-08-27) -------------------------
+# The 8/26 batch put frame H3 (公文／施工告示) in 4 topics x 4 items. Inside
+# those 16 slots 「敬請見諒」 appeared 4 times = 25%, and all four H3 topics
+# used it -- yet max_rare_ngram read 2.4% and PASSED, because its denominator
+# is the whole 168-item batch. Same number, different denominator, opposite
+# verdict. This is a denominator error, not a threshold error: no setting of
+# MAX_RARE_NGRAM_LIMIT catches it. The fix is to measure per frame, using the
+# same denominator the quota uses. max_rare_ngram is NOT modified.
+#
+# Mechanism, predictable in advance rather than in hindsight: an institutional
+# register (公告/告示/契約/保固卡/收據/申請書) ships with mandatory furniture.
+# 「敬請見諒」 is not a style choice, it is a built-in part of the register --
+# anyone told to write a construction notice emits it. The control case is H1
+# (保固卡), whose register had appeared before and whose furniture was already
+# on the exclusion list: same 83% in-frame union, but 0 newly-minted terms.
+REGISTER_DOC = ['公告', '通知', '敬請', '見諒', '即日起', '張貼', '施工',
+                '完工', '停水', '停電', '管線']
+REGISTER_DOC_LIMIT = 5.0      # batch share %, and only in frame-assigned files
+FRAME_NEW_GRAM_LIMIT = 2      # newly-minted rare 4-grams allowed per frame
+
+
+def frame_new_grams(rows, corpus_df, frame_of, min_hits=EXCLUDE_MIN_HITS,
+                    rare_df_max=RARE_DF_MAX):
+    """Per frame: rare 4-grams minted by THIS batch.
+
+    A term counts as newly minted when it appears >= min_hits times inside the
+    frame's slots and every corpus occurrence of it falls inside this batch
+    (batch df == corpus df). `frame_of` maps a topic slug to its frame code.
+
+    Returns {frame: Counter(ngram -> in-frame item count)}.
+    """
+    by_frame = collections.defaultdict(list)
+    for r in rows:
+        f = frame_of.get(r[0])
+        if f:
+            by_frame[f].append(r)
+    out = {}
+    for f, frows in by_frame.items():
+        batch = ngram_df(frows)
+        minted = collections.Counter({
+            g: c for g, c in batch.items()
+            if c >= min_hits and corpus_df.get(g, 0) <= max(c, rare_df_max)
+            and corpus_df.get(g, 0) == c
+        })
+        out[f] = ngram_families(minted)
+    return out
+
+
 def load(date=None):
     rows = []
     for f in sorted(glob.glob(TOPICS)):
@@ -387,6 +460,25 @@ def report(rows, label, corpus_df=None):
           f'  limit {ORDINAL_ENUM_LIMIT}%  [{ov}]')
     print(f'  topics: {", ".join(out["ordinal_enum_topics"]) or "(none)"}')
 
+    print('\n-- register furniture / 公文體 (added 2026-08-27) --')
+    rd = collections.Counter()
+    for _, _, c, _ in rows:
+        for w in REGISTER_DOC:
+            if w in c:
+                rd[w] += 1
+    out['register_doc'] = rd.most_common(10)
+    out['register_doc_any_pct'] = round(
+        sum(1 for _, _, c, _ in rows if any(w in c for w in REGISTER_DOC)) / n * 100, 1)
+    out['register_doc_topics'] = sorted({s for s, _, c, _ in rows
+                                         if any(w in c for w in REGISTER_DOC)})
+    for w, v in rd.most_common(10):
+        print(f'  {w:<10} {v:>4}  {v/n*100:5.1f}%')
+    rv = 'PASS' if out['register_doc_any_pct'] <= REGISTER_DOC_LIMIT else 'OVER'
+    print(f'  any register word   {out["register_doc_any_pct"]}%'
+          f'  limit {REGISTER_DOC_LIMIT}%  [{rv}]   (hypernym union)')
+    print(f'  topics: {len(out["register_doc_topics"])}'
+          f'  {", ".join(out["register_doc_topics"]) or "(none)"}')
+
     print('\n-- integrity --')
     nosrc = sum(1 for _, _, _, it in rows if not it.get('sourceUrl'))
     noten = sum(1 for _, _, _, it in rows
@@ -400,6 +492,34 @@ def report(rows, label, corpus_df=None):
     print(f'  missing en content  {noten}')
     print(f'  missing editorNote  {nonote}')
     return out
+
+
+def report_frames(rows, corpus_df, assignment):
+    """ADDED 2026-08-27. Per-frame view -- same denominator the quota uses.
+
+    Kept out of report() so the batch-level report stays byte-comparable with
+    earlier days. Reads daily-assignment.json for the topic -> frame map.
+    """
+    frame_of = {t: v['frame'] for t, v in assignment['topics'].items()}
+    minted = frame_new_grams(rows, corpus_df, frame_of)
+    by_frame = collections.defaultdict(list)
+    for r in rows:
+        by_frame[frame_of.get(r[0], '?')].append(r)
+    print('\n=== per-frame (added 2026-08-27) ===')
+    worst = 0
+    for f in sorted(by_frame):
+        frows = by_frame[f]
+        topics = sorted({r[0] for r in frows})
+        m = minted.get(f, collections.Counter())
+        worst = max(worst, len(m))
+        flag = 'OVER' if len(m) > FRAME_NEW_GRAM_LIMIT else 'ok'
+        print(f'  {f:<5} {len(topics):>2} topics {len(frows):>3} items'
+              f'   new_grams {len(m):>2} [{flag}]'
+              f'   {", ".join(g for g, _ in m.most_common(6))}')
+    print(f'  frame_new_gram_count max {worst}  limit {FRAME_NEW_GRAM_LIMIT}'
+          f'  [{"PASS" if worst <= FRAME_NEW_GRAM_LIMIT else "OVER"}]')
+    return {'frame_new_gram_max': worst,
+            'frame_new_grams': {f: list(m) for f, m in minted.items()}}
 
 
 # --- rolling exclusion list (ADDED 2026-08-24) ------------------------------
@@ -443,6 +563,8 @@ if __name__ == '__main__':
     ap = argparse.ArgumentParser()
     ap.add_argument('--date')
     ap.add_argument('--json', action='store_true')
+    ap.add_argument('--frames', action='store_true',
+                    help='per-frame new-gram view (added 2026-08-27)')
     ap.add_argument('--exclude', action='store_true',
                     help='rebuild the rolling rare-term exclusion list')
     a = ap.parse_args()
@@ -464,5 +586,12 @@ if __name__ == '__main__':
     corpus_df = ngram_df(all_rows)
     rows = load(a.date) if a.date else all_rows
     res = report(rows, a.date or 'whole corpus', corpus_df=corpus_df)
+    if a.frames:
+        try:
+            asg = json.load(open(os.path.join(os.path.dirname(__file__),
+                                              'daily-assignment.json')))
+            res.update(report_frames(rows, corpus_df, asg))
+        except Exception as e:
+            print(f'  (per-frame view unavailable: {e})')
     if a.json:
         print('\nJSON:', json.dumps(res, ensure_ascii=False))

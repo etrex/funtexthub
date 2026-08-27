@@ -12997,6 +12997,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-475",
+      "dateAdded": "2026-08-27",
+      "sourceUrl": "https://disp.cc/b/Joke/be0F",
+      "sourceNote": "Disp BBS Joke 板工程師笑話合集第 26 則，說「我已閱讀並同意該條款」是電腦世界最經典的謠言；取「數位產品要你點頭的事永遠比它做的事多」核心，改寫成辦公室訂書機的誠實清單",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "辦公室",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司那台訂書機用了大概十年，是這層樓唯一沒有騙過我的東西。\n— 它從來沒有跳出一個視窗，要我勾選「我已閱讀並同意」\n— 它沒有半夜自己更新，隔天早上換一個我找不到的介面\n— 它卡住那一刻就直接卡給我看，不會先說一切正常\n— 它用完不會偷偷把一包資料寄回哪個總部\n— 它壞掉的理由永遠只有一個，而且我用眼睛就找得到\n我把它擦乾淨，放在螢幕旁邊，當作一種很低調的信仰。",
+          "editorNote": "適合在被更新彈窗、條款同意鍵、自動回傳資料煩到的那一天，貼給同樣受不了的同事。",
+          "variations": [
+            "延伸版本：辦公室裡活最久的設備，通常也是最不需要你按下同意的那一台。",
+            "短版：一台不用你點頭的機器，現在已經算稀有動物了。"
+          ]
+        },
+        "en": {
+          "content": "The stapler in our office is about ten years old, and it is the only thing on this floor that has never lied to me.\n— It has never opened a window asking me to tick 'I have read and agree'\n— It has never updated itself overnight and handed me a menu I can't find anything in\n— When it jams it jams right in front of me, instead of first telling me everything is fine\n— It doesn't quietly ship a bundle of data back to some head office after I use it\n— There is exactly one reason it ever breaks, and my eyes are enough to find it\nI wiped it clean and put it beside my monitor, as a very low-key kind of faith.",
+          "editorNote": "For the day update popups, consent buttons and silent telemetry have worn you down, and a coworker feels the same.",
+          "variations": [
+            "Extension: the longest-surviving machine in any office is usually the one that never asks you to agree to anything.",
+            "Short version: a machine that needs no consent from you is an endangered species now."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-476",
+      "dateAdded": "2026-08-27",
+      "sourceUrl": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Top-10-programmer-jokes",
+      "sourceNote": "TheServerSide 程式設計師笑話第 3 則：換一顆燈泡要幾個工程師？零個，那是硬體問題；取「工程師遇到摸得到的東西就自動免責」核心，改寫成一台卡住的訂書機",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "職場",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "組上那台訂書機卡了三個禮拜，我把中間發生的事情記了下來。\n— 我把它翻過來看了兩眼，說這是硬體問題\n— 後端的阿凱拿起來搖了搖，說這是硬體問題\n— 前端的小婕查到它早就停產，說停產的更是硬體問題\n— 主管走過來，說先開一個群組追蹤這件事\n— 打掃的阿姨經過，順手把裡面那根歪掉的釘子拉出來，花了兩秒\n訂書機好了，群組還在，到今天沒有人退出那個群組。",
+          "editorNote": "適合在整個團隊都說「不是我這邊的問題」、或某個小狀況被開成一個長期群組的時候轉發。",
+          "variations": [
+            "延伸版本：那個群組後來改名叫「雜項」，變成全公司最忙的頻道。",
+            "短版：能被歸類成硬體問題的東西，就永遠不會有人動它。"
+          ]
+        },
+        "en": {
+          "content": "The stapler on our pod was jammed for three weeks. Here is what happened in between.\n— I turned it over, looked at it twice, and said this is a hardware problem\n— Kai from backend picked it up, shook it, and said this is a hardware problem\n— Jenny from frontend found out it was discontinued, so now it's an even bigger hardware problem\n— Our manager walked past and said let's open a group chat to track this\n— The cleaning lady walked by, pulled the bent staple out with two fingers, and it took two seconds\nThe stapler works again. The group chat is still there. Nobody has left it.",
+          "editorNote": "For when every single person says it isn't their side, or a two-second issue turns into a permanent channel.",
+          "variations": [
+            "Extension: the group chat got renamed 'misc' and became the busiest channel in the company.",
+            "Short version: anything that can be filed as a hardware problem will never be touched again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-477",
+      "dateAdded": "2026-08-27",
+      "sourceUrl": "https://disp.cc/b/Joke/3xkZ",
+      "sourceNote": "Disp BBS「給程式設計師的笑話」中電腦無法上網、系統卻建議先連上網路做診斷的循環梗；取「求助流程本身需要你正在故障的那個東西」核心，改寫成家用網路斷線的五步驟",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "除錯",
+        "技術支援"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "昨天網路斷掉，我照著螢幕上跳出來的建議，一條一條做。\n— 它要我開啟診斷精靈，精靈說請先確認網路連線正常\n— 它要我下載修復程式，下載進度停在百分之零\n— 它要我查線上說明，說明在線上\n— 它要我聯絡技術支援，支援信箱要連上網才收得到\n— 它要我重新開機，開完以上五行原封不動又跑了一次\n最後把它救回來的是隔壁的會計，她拔掉數據機，數到十，插回去。",
+          "editorNote": "適合在客服流程要你用壞掉的那個東西來回報壞掉、或求助表單本身無法送出的時候引用。",
+          "variations": [
+            "延伸版本：所有線上說明的第一步都應該加一句——如果你看得到這行，代表你不需要它。",
+            "短版：救回網路的從來都是那個拔插頭的人。"
+          ]
+        },
+        "en": {
+          "content": "My internet died yesterday, so I followed the on-screen advice one line at a time.\n— It told me to run the diagnostic wizard, and the wizard asked me to confirm my connection was working\n— It told me to download the repair tool, and the download sat at zero percent\n— It told me to check the online help, and the help was online\n— It told me to contact support, and support replies by email, which arrives over the internet\n— It told me to reboot, and after rebooting all five lines ran again, unchanged\nWhat actually fixed it was the accountant next door, who unplugged the modem, counted to ten, and plugged it back in.",
+          "editorNote": "For a support flow that asks you to report the outage using the thing that is down, or a help form that can't be submitted.",
+          "variations": [
+            "Extension: every online help page should open with one line — if you can read this, you don't need it.",
+            "Short version: the person who fixes the network is always the one who pulls the plug."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-478",
+      "dateAdded": "2026-08-27",
+      "sourceUrl": "https://moptt.tw/p/joke.M.1552120448.A.13C",
+      "sourceNote": "Mo PTT 工程師笑話串中「客戶眼中只有兩樣東西不用錢：白開水與追加的功能」與「年薪看起來高、時薪其實不高」兩則；取「免費的東西都是別人出的」核心，改寫成新人問答清單",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "職場",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人報到第一週問我，這個專案有哪些東西不用錢，我一項一項數給他聽。\n— 會議室的白開水，喝到飽\n— 客戶開會開到一半想到的新功能，講完就長在系統裡\n— 上線前一天才想起來的例外處理，也是講完就長出來\n— 我們自己的下班時間，換算成時薪之後便宜得嚇人\n— 精神支持，這一項最充足，人人都給，而且從來不會缺貨\n他問那什麼要錢，我說我的滑鼠壞了，那個要自己買。",
+          "editorNote": "適合在專案被塞進第七個「順便加一下」、或有人把加班講成熱情的時候發出去。",
+          "variations": [
+            "延伸版本：真正免費的只有精神支持，因為它不佔記憶體也不用測試。",
+            "短版：年薪看起來很好看，除以時數就不好看了。"
+          ]
+        },
+        "en": {
+          "content": "The new hire asked me what comes free on this project, so I counted them off for him.\n— The water cooler in the meeting room, unlimited\n— Any feature the client thinks of halfway through a call, which grows into the system the moment they say it\n— Any edge case remembered the night before launch, same deal\n— Our own evenings, which look remarkably cheap once you divide by the hours\n— Moral support, the most abundant item on the list, offered by everyone, never out of stock\nHe asked what costs money. I said my mouse broke and I'm buying that one myself.",
+          "editorNote": "For the seventh 'while you're in there' of the sprint, or when someone calls unpaid overtime passion.",
+          "variations": [
+            "Extension: moral support really is free, because it takes no memory and needs no tests.",
+            "Short version: the annual figure looks great until you divide it by the hours."
+          ]
+        }
+      }
     }
   ]
 }
