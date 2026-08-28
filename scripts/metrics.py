@@ -207,8 +207,30 @@ def strip_label(text):
     return VARIATION_LABEL.sub('', text or '', count=1)
 
 
+# --- FIELD SCOPE, FROZEN (annotated 2026-08-28) ----------------------------
+# The input to every n-gram / exclusion-list / frame-fingerprint metric is,
+# by design, EXACTLY: zh-tw content + label-stripped zh-tw variations.
+#
+# `editorNote` is EXCLUDED BY DESIGN and the scope must NOT be widened. It is
+# a functional lead-in field whose formulaic phrasing is the convention, not a
+# fingerprint: corpus-wide 「適合傳給那個」 opens 234 items, 「傳給那個每次」 133,
+# 「傳給那個總是」 113. On 2026-08-28 an ad-hoc scan that included editorNote
+# read 7 exclusion-list hits; all 7 were in editorNote and content+variations
+# scored 0. That is the same class of error as the 8/27 variations-label
+# reading: reading a convention as a fingerprint. Two consecutive days of
+# phantom defects came from a scope that was too WIDE.
+#
+# The one scope that was too NARROW is the English side: it never entered any
+# metric, which is why zh/en line-count mismatch went unmeasured until 8/28.
+# English is handled by its own separate metric (line_parity below) and must
+# NOT be folded into the Chinese n-gram metrics -- different language, n-grams
+# are not comparable across them.
+#
+# STANDING SELF-CHECK (2026-08-28): any ad-hoc scan MUST print which FIELD its
+# hits landed in before the hit is reported as a defect. Both 8/27 and 8/28
+# would have produced a phantom defect without that step.
 def item_texts(it, include_variations=True):
-    """zh-tw body plus label-stripped zh-tw variations."""
+    """zh-tw body plus label-stripped zh-tw variations. See FIELD SCOPE above."""
     zh = it.get('i18n', {}).get('zh-tw', {})
     out = [zh.get('content', '')]
     if include_variations:
@@ -262,6 +284,79 @@ def frame_new_grams(rows, corpus_df, frame_of, min_hits=EXCLUDE_MIN_HITS,
         })
         out[f] = ngram_families(minted)
     return out
+
+
+# --- cross-language line parity (ADDED 2026-08-28) -------------------------
+# The first metric on this site that reads the English field, and the first
+# structural rule that spans two languages.
+#
+# ContentCard.astro:19 renders `content` with `whitespace-pre-line`, so a
+# newline in the JSON is a line break on the page. When zh-tw carries 4 lines
+# and en carries 1, the same item is a paced 4-line piece for a Chinese reader
+# and a wall of text for an English one. Measured 2026-08-28: 7.14% of the
+# 8/27 batch (12/168, in exactly 3 topics at 4/4 each), 11.4% corpus-wide,
+# with 220 items whose English collapsed to a single line.
+#
+# This escaped all three existing lines of defence for a reason that is NOT a
+# threshold problem (8/24) and NOT a denominator problem (8/27): the English
+# field was never in the input. Nothing that is not read can be measured at
+# any setting. Nothing above is modified -- this is a separate metric on a
+# separate field, per the FIELD SCOPE note.
+LINE_PARITY_LIMIT = 2.0    # batch share % of zh/en line-count mismatch
+EN_COLLAPSED_LIMIT = 0     # absolute count of en collapsed to a single line
+
+
+def line_counts(it):
+    """(zh line count, en line count) for one item's content."""
+    zh = it.get('i18n', {}).get('zh-tw', {}).get('content', '') or ''
+    en = it.get('i18n', {}).get('en', {}).get('content', '') or ''
+    return len(zh.splitlines()), len(en.splitlines())
+
+
+def line_parity_mismatch(it):
+    """True when the English content does not have the same line count as zh."""
+    z, e = line_counts(it)
+    return z != e
+
+
+def en_collapsed(it):
+    """True when multi-line zh was flattened into a single-line en block."""
+    z, e = line_counts(it)
+    return z > 1 and e == 1
+
+
+# --- line parity, TEXT-LINE view (ADDED 2026-08-28, maintenance) -----------
+# line_parity_mismatch above counts RAW splitlines, which conflates two
+# different things and is wrong in both directions. Measured on the corpus
+# the day it was added (15,800 items, 1,880 raw mismatches):
+#
+#   * 101 of the 1,880 differ ONLY in where the blank lines sit. The prose
+#     lines already corresponded 1:1; only the stanza breaks were in
+#     different places. Real, but a whitespace fix, not a translation fix.
+#   * 28 further items have EQUAL raw line counts and are therefore scored
+#     as passing, while their text-line counts differ -- a zh blank line is
+#     silently paid for by an extra en prose line. The raw view cannot see
+#     these at any threshold.
+#
+# Same lesson as 8/24 (threshold) and 8/27 (denominator), one level down:
+# here the unit of measurement was wrong. Nothing above is modified; this is
+# an additional view over the same field. Both are reported.
+def text_lines(it):
+    """(zh, en) content line counts ignoring blank lines."""
+    zh = it.get('i18n', {}).get('zh-tw', {}).get('content', '') or ''
+    en = it.get('i18n', {}).get('en', {}).get('content', '') or ''
+    return (len([l for l in zh.splitlines() if l.strip()]),
+            len([l for l in en.splitlines() if l.strip()]))
+
+
+def text_line_mismatch(it):
+    """True when zh and en disagree on PROSE line count (blank lines ignored).
+
+    This is the one that needs a translator. A raw-only mismatch needs only
+    whitespace moved.
+    """
+    z, e = text_lines(it)
+    return z != e
 
 
 def load(date=None):
@@ -491,6 +586,37 @@ def report(rows, label, corpus_df=None):
     print(f'  missing sourceUrl   {nosrc}')
     print(f'  missing en content  {noten}')
     print(f'  missing editorNote  {nonote}')
+
+    print('\n-- cross-language line parity (added 2026-08-28) --')
+    mm = [r for r in rows if line_parity_mismatch(r[3])]
+    coll = [r for r in rows if en_collapsed(r[3])]
+    out['line_parity_mismatch_n'] = len(mm)
+    out['line_parity_mismatch_pct'] = round(len(mm) / n * 100, 2)
+    out['en_collapsed_to_1'] = len(coll)
+    out['line_parity_topics'] = collections.Counter(r[0] for r in mm).most_common(6)
+    lv = 'PASS' if out['line_parity_mismatch_pct'] <= LINE_PARITY_LIMIT else 'OVER'
+    cv = 'PASS' if len(coll) <= EN_COLLAPSED_LIMIT else 'OVER'
+    print(f'  line_parity_mismatch {len(mm):>4}  {out["line_parity_mismatch_pct"]:5.2f}%'
+          f'  limit {LINE_PARITY_LIMIT}%  [{lv}]')
+    print(f'  en_collapsed_to_1    {len(coll):>4}'
+          f'  limit {EN_COLLAPSED_LIMIT}  [{cv}]')
+    for t, v in out['line_parity_topics']:
+        print(f'    {t:<26} {v}')
+
+    tm = [r for r in rows if text_line_mismatch(r[3])]
+    blank_only = [r for r in mm if not text_line_mismatch(r[3])]
+    hidden = [r for r in tm if not line_parity_mismatch(r[3])]
+    out['text_line_mismatch_n'] = len(tm)
+    out['text_line_mismatch_pct'] = round(len(tm) / n * 100, 2)
+    out['line_parity_blank_only'] = len(blank_only)
+    out['line_parity_hidden_by_raw'] = len(hidden)
+    tv = 'PASS' if out['text_line_mismatch_pct'] <= LINE_PARITY_LIMIT else 'OVER'
+    print(f'  text_line_mismatch   {len(tm):>4}  {out["text_line_mismatch_pct"]:5.2f}%'
+          f'  limit {LINE_PARITY_LIMIT}%  [{tv}]   <- needs a translator')
+    print(f'    of raw mismatches, blank-placement only  {len(blank_only)}'
+          f'   (whitespace fix)')
+    print(f'    text mismatches the raw view scores PASS {len(hidden)}'
+          f'   (raw view blind spot)')
     return out
 
 

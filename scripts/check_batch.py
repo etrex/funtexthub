@@ -164,6 +164,20 @@ def main():
             fails.append(f'missing {field}: {miss[:10]}')
         notes.append(f'missing {field}: {len(miss)}')
 
+    # -- cross-language line parity (the 8/28 defect) -----------------------
+    mm = [r for r in rows if M.line_parity_mismatch(r[3])]
+    coll = [r for r in rows if M.en_collapsed(r[3])]
+    lp_pct = round(len(mm) / n * 100, 2)
+    if lp_pct > M.LINE_PARITY_LIMIT:
+        by = collections.Counter(r[0] for r in mm).most_common(6)
+        fails.append(f'line_parity_mismatch {lp_pct}% > {M.LINE_PARITY_LIMIT}% '
+                     f'({len(mm)} items, worst: {by})')
+    if len(coll) > M.EN_COLLAPSED_LIMIT:
+        fails.append(f'en_collapsed_to_1 = {len(coll)} > {M.EN_COLLAPSED_LIMIT}: '
+                     f'{[f"{r[0]}:{r[1]}" for r in coll][:10]}')
+    notes.append(f'line_parity_mismatch {lp_pct}% (limit {M.LINE_PARITY_LIMIT}%), '
+                 f'en_collapsed_to_1 {len(coll)} (limit {M.EN_COLLAPSED_LIMIT})')
+
     for x in notes:
         print(f'  {x}')
     print()

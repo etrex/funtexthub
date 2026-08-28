@@ -95,6 +95,17 @@ def main():
             fails.append(f'{iid}: missing en editorNote')
         if not it.get('tags'):
             fails.append(f'{iid}: missing tags')
+        # cross-language line parity (ADDED 2026-08-28). The site's first
+        # rule spanning both languages. ContentCard.astro renders content with
+        # whitespace-pre-line, so a zh item broken into 4 lines whose en side
+        # is one block is literally two different shapes on the page. On 8/27
+        # this hit 12/168 = 7.14%, concentrated in exactly 3 topics at 4/4
+        # each while 39 topics scored 0 -- an agent-level defect, so one line
+        # in the checklist is enough to zero it.
+        zl, el = M.line_counts(it)
+        if zl != el:
+            fails.append(f'{iid}: zh content has {zl} line(s) but en has {el} '
+                         f'-- en must break at the SAME points as zh')
         if not c.strip():
             fails.append(f'{iid}: empty zh content')
             continue
