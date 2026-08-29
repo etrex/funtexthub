@@ -10672,6 +10672,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-391",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://mygov.tw/industry/931211/article",
+      "sourceNote": "mygov〈撞球室收費與規則，先看這些再進場〉說明撞球場的登記、計費、領球具與離場前歸還器材、清理檯面的流程；改寫成夜班工讀生留給下一班的手寫字條。",
+      "tags": [
+        "服務業",
+        "撞球",
+        "心聲",
+        "打烊"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "給下一班的：\n七號桌那支皮頭掉了的撞球桿我收起來了，塞在鐵櫃頂層靠牆的位置。\n換皮頭的師傅禮拜四才會來，還剩三天。\n巧克只剩兩顆，昨天有位大哥自己帶，我沒好意思跟他收錢。\n飲料冰箱最右邊那排到十號就過期，你要喝就喝，不用問我。\n關門前把六號桌的燈熄掉，那盞開太久會燙手。",
+          "editorNote": "適合交接班、留字條給下一班同事的時刻。撞球館、網咖、健身房這種一個人顧一整晚的店都能用。",
+          "variations": [
+            "短版：桿子我收起來了，換皮頭的禮拜四才來，還剩三天。",
+            "延伸版：燈要熄、飲料會壞、桿子等師傅，這間店的事我全寫給你了，我自己的沒地方寫。"
+          ]
+        },
+        "en": {
+          "content": "For whoever's on next:\nI put away the cue from table seven, the one that lost its tip. It's tucked against the wall on the top shelf of the metal cabinet.\nThe guy who redoes tips doesn't come until Thursday, so three more days.\nTwo cubes of chalk left. A regular brought his own last night and I didn't have the heart to charge him.\nThe drinks along the right side of the fridge go bad on the tenth. Drink them, don't ask me first.\nKill the light over table six before you lock up. That one gets hot if it stays on.",
+          "editorNote": "For shift handoffs and notes left for the next person. Pool halls, internet cafes, gyms, anywhere one person watches the place all night.",
+          "variations": [
+            "Short: Cue's put away, the tip guy comes Thursday, three days to go.",
+            "Longer: Lights off, drinks spoil, cue waits for the repair guy. I wrote down everything this place needs. There was no line for what I need."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-392",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://www.trk.com.tw/question/3",
+      "sourceNote": "大魯閣 Taroko Sports 常見問題頁載明會員卡有效期一年、到期後三個月內續卡繳一百元、超過就得重辦；改寫成店員在球館會員卡背面用藍筆補寫的到期說明。",
+      "tags": [
+        "服務業",
+        "撞球",
+        "心聲",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "到期日：十一月三十號\n卡裡還剩：四百二十元\n換算成撞球檯：一小時又五十分鐘\n續卡要帶：這張卡、證件、一百塊\n以下是我拿藍筆自己補上去的\n過期三個月內都還能續，超過就要重辦一張，日子我幫你寫在正面右下角了\n你上回說要打滿一百小時，現在是八十七",
+          "editorNote": "適合幫熟客記日期、也記得客人上次講過什麼的服務業。撞球館、健身房、洗車場、剪髮店都合用。",
+          "variations": [
+            "短版：到期日十一月三十號，續卡要帶卡、證件、一百塊。",
+            "延伸版：卡片正面印好的那幾行是店裡的規矩，背面藍筆那幾行才是我。"
+          ]
+        },
+        "en": {
+          "content": "Expires: November 30\nStill on the card: NT$420\nIn table time: one hour and fifty minutes\nBring to renew: this card, an ID, a hundred dollars\nEverything below is me, in blue pen\nYou can still renew up to three months past that date. After that it's a whole new card, so I wrote the date on the front, bottom right corner\nLast time you said you wanted a hundred hours on it. You're at eighty-seven",
+          "editorNote": "For anyone who keeps track of a regular's dates and remembers what they said last visit. Pool halls, gyms, car washes, barbershops.",
+          "variations": [
+            "Short: Expires November 30. Bring the card, an ID, a hundred dollars.",
+            "Longer: The printed lines on the front are the shop's rules. The blue-pen lines on the back are mine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-393",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://health.gov.taipei/cp.aspx?n=F7EA5DD5CF7D4CCF",
+      "sourceNote": "臺北市衛生局餐飲業衛生講習專區說明持證廚師與餐飲從業人員每年須修滿衛生講習時數、每場核發三小時；改寫成線上課程系統跳出的提醒視窗與員工的補課方式。",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "心聲",
+        "工時"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "螢幕右下角跳出一個小視窗：你的衛生講習還差兩小時，八小時要在年底前修完，按下「知道了」關閉。\n我按了知道了。\n上一次跳出來是六月，我也按了知道了，那天客人從裡面站到門外，我連把一段影片看完的時間都湊不出來。\n今年我把八小時剪成十六個十五分鐘，全塞在備料的空檔看掉，最後一段是站著看的。",
+          "editorNote": "給每年都要補訓練時數、卻永遠只能在空檔補完的餐飲人。年底前被系統提醒的那天發最準。",
+          "variations": [
+            "短版：八小時的講習，我是分成十六次在備料空檔看完的。",
+            "延伸版：視窗只問我知不知道，沒問我什麼時候有空。"
+          ]
+        },
+        "en": {
+          "content": "A little window pops up in the corner of the screen: you're two hours short on food safety training, all eight are due before the year ends, click \"Got it\" to close.\nI clicked Got it.\nLast time it popped up was June. I clicked Got it then too, on a day customers were standing from the back wall out to the sidewalk and I couldn't scrape together enough minutes to finish one video.\nThis year I cut the eight hours into sixteen fifteen-minute pieces and burned them off in the gaps between prep. I watched the last one standing up.",
+          "editorNote": "For restaurant workers who owe training hours every year and only ever finish them in the gaps. Lands best the day the system reminder appears.",
+          "variations": [
+            "Short: Eight hours of training, watched in sixteen pieces between prep shifts.",
+            "Longer: The pop-up asked whether I understood. It never asked when I'd have time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-394",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://www.daansports.com.tw/zh_TW/stadiums/node/1573724151001",
+      "sourceNote": "臺北市大安運動中心撞球場館頁載明開放時間、每小時每檯計費與不得倚靠檯桌等場地規則；改寫成小型球館店長手寫在門口玻璃上的整修告示。",
+      "tags": [
+        "服務業",
+        "撞球",
+        "店長",
+        "互助"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "店長昨天拿麥克筆在門口的玻璃上寫了一張公告：三號到七號要換撞球檯的檯布，只開四張桌，會有點吵，先跟大家講一聲。\n底下他又補一行：老客人照舊價，剛來的先問清楚再開檯。\n今天早上有位大哥在門外站著看了很久，進來的頭一句話是「那我幫你們把六號桌的球先撿一撿」。\n店長把那張紙又往下移了十公分，說這樣坐著的人也看得到。",
+          "editorNote": "適合店裡要整修、要調整營業方式，得先跟熟客交代的小店。撞球館、理髮店、機車行都能用。",
+          "variations": [
+            "短版：門口那張告示寫了四張桌，大哥看完進來幫我們撿球。",
+            "延伸版：整修的日子他寫在玻璃上，價錢照舊這件事他寫在下面一行，字比較小。"
+          ]
+        },
+        "en": {
+          "content": "The owner wrote a notice on the front glass yesterday with a marker: from the third to the seventh we're recovering the pool tables, only four are open, it'll be loud, just so everyone knows.\nUnderneath he added a line: regulars pay the old rate, newer folks ask before you start the clock.\nThis morning a guy stood outside reading it for a long time, then walked in and his first words were, \"Want me to rack up table six for you?\"\nThe owner slid the paper down another four inches and said now the people sitting down can read it too.",
+          "editorNote": "For small shops mid-renovation who owe their regulars an explanation first. Pool halls, barbershops, scooter repair shops.",
+          "variations": [
+            "Short: The notice on the glass said four tables. The guy read it and came in to rack for us.",
+            "Longer: He wrote the repair dates on the glass. He wrote the part about prices staying the same on the line below, in smaller letters."
+          ]
+        }
+      }
     }
   ]
 }

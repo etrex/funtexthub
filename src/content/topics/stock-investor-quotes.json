@@ -9368,6 +9368,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-308",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://taiwan.chtsai.org/2016/09/05/tiaosheng_rumen/",
+      "sourceNote": "Taiwan 2.0〈跳繩入門：七個步驟〉提到新手常被繩子絆到、要分組重來；改寫成連續次數歸零與帳面回檔的對照",
+      "tags": [
+        "跳繩",
+        "自嘲",
+        "散戶",
+        "看盤",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你今天跳繩跳到幾下？」\n「連續一百零七下，然後繩子勾到腳背。」\n「那一百零七下還留著嗎？」\n「歸零，重新從一開始數。」\n「我帳戶也差不多，漲的那段自動消失，只剩最後三根黑的。」\n「你要不要也買一條，至少繩子絆到的時候你知道原因。」",
+          "editorNote": "適合在對帳單又翻紅翻黑的晚上，傳給同樣在數自己連續紀錄的朋友",
+          "variations": [
+            "連續一百零七下，繩子一勾，計數器就回到零。",
+            "累的地方在於，每次絆到都要從一重新數起。"
+          ]
+        },
+        "en": {
+          "content": "\"How many jumps did you get today?\"\n\"A hundred and seven in a row, then the rope caught my heel.\"\n\"Do those hundred and seven still count for anything?\"\n\"Back to zero. I start over at one.\"\n\"Same with my account. The good stretch disappears and only the last three red candles stay.\"\n\"Buy yourself a rope. At least when you trip you know what tripped you.\"",
+          "editorNote": "For the night your statement flips colors again and a friend is counting their own streak",
+          "variations": [
+            "A hundred and seven in a row, one snag, counter back to zero.",
+            "The tiring part is having to start the count at one every time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-309",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://awealthofcommonsense.com/2026/08/how-often-should-you-check-your-portfolio/",
+      "sourceNote": "A Wealth of Common Sense 談查看帳戶頻率與短視損失趨避；改寫成跳繩計數 App 與看盤 App 的同一隻手",
+      "tags": [
+        "跳繩",
+        "看盤",
+        "焦慮",
+        "自嘲",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這條跳繩會自己計數，跳完還會存成紀錄。」\n「一天可以打開幾次？」\n「它又不會跑掉，你想看就看。」\n「那我一天大概點四十次。」\n「你一次才跳十分鐘，點四十次是要看什麼？」\n「習慣了，我另一支 App 也是這個數字。」",
+          "editorNote": "適合傳給那個運動十分鐘、卻可以滑盤四十次的自己人",
+          "variations": [
+            "跳十分鐘，紀錄看四十次。",
+            "計數器沒有變快，變快的是點開它的那隻手。"
+          ]
+        },
+        "en": {
+          "content": "\"This rope counts for me, and it saves every session.\"\n\"How many times a day can I open it?\"\n\"It isn't going anywhere. Look whenever you want.\"\n\"Then I'll be opening it about forty times a day.\"\n\"You jump for ten minutes. What are you checking forty times?\"\n\"Habit. My other app gets the same number.\"",
+          "editorNote": "For the friend who works out for ten minutes and refreshes for four hours",
+          "variations": [
+            "Ten minutes of jumping, forty looks at the log.",
+            "The counter never sped up. The thumb did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-310",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://www.fool.com/investing/2026/04/07/stop-checking-portfolio-here-what-its-costing-you/",
+      "sourceNote": "The Motley Fool 談持有期間與情緒交易；改寫成「計畫沒改、時間自己變長」的對白",
+      "tags": [
+        "長期投資",
+        "套牢",
+        "自嘲",
+        "厭世",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你那檔放多久了？」\n「兩年三個月。」\n「當初打算放幾天？」\n「三天。」\n「所以現在是長期投資囉？」\n「計畫我一次都沒改，是時間自己長出來的。」",
+          "editorNote": "適合在有人問你「這檔還要放多久」的時候，用來岔開話題",
+          "variations": [
+            "本來想放三天，放成兩年三個月。",
+            "計畫沒有改過，改的是誰在等誰。"
+          ]
+        },
+        "en": {
+          "content": "\"How long have you held that one?\"\n\"Two years and three months.\"\n\"How long did you plan to hold it?\"\n\"Three days.\"\n\"So it's a long-term investment now?\"\n\"I never changed the plan. The time grew on its own.\"",
+          "editorNote": "For the moment someone asks how much longer you plan to hold it",
+          "variations": [
+            "Three days was the plan. Two years and three months was the outcome.",
+            "The plan never changed. Only who was waiting for whom."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-311",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://health.udn.com/health/story/6033/9345208",
+      "sourceNote": "元氣網報導每天跳繩一千下的親身紀錄；改寫成「再一組就好」與「再等一下」的同一句話",
+      "tags": [
+        "跳繩",
+        "紀律",
+        "停損",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「說好跳兩百下，你數到多少？」\n「兩百四十一。」\n「腳都在抖了還在加。」\n「再一組就好，我國中跳繩就是這樣加上去的。」\n「這句話我對著螢幕講了三年，紅字還在。」\n「繩子甩累了會自己停，你那個會嗎？」",
+          "editorNote": "適合在你第 N 次跟自己說「再等一下下」的時候，拿出來看一眼",
+          "variations": [
+            "說好兩百下，數到兩百四十一才停。",
+            "「再一組」跟「再等一下」，用的是同一顆腦袋。"
+          ]
+        },
+        "en": {
+          "content": "\"You said two hundred jumps. Where are you now?\"\n\"Two hundred forty-one.\"\n\"Your legs are shaking and you're still adding.\"\n\"One more set. I've been adding sets on a rope since junior high.\"\n\"I've said that line to a screen for three years. The red is still there.\"\n\"A rope stops when your arms give out. Does yours?\"",
+          "editorNote": "For the Nth time you tell yourself just a little longer",
+          "variations": [
+            "Two hundred was the deal. Two hundred forty-one was the stop.",
+            "\"One more set\" and \"just a little longer\" come out of the same head."
+          ]
+        }
+      }
     }
   ]
 }

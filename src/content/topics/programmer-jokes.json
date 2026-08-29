@@ -13117,6 +13117,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-479",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://thepotterywheel.com/why-does-pottery-explode-in-the-kiln/",
+      "sourceNote": "The Pottery Wheel 說明陶土進窯前要揉出空氣、真正炸開的原因是水氣；取「同一句警告在兩個領域各自成立」核心，改寫成工程師上陶藝課聽到揉土指令的雙重理解",
+      "tags": [
+        "工程師日常",
+        "字面意思",
+        "溝通",
+        "上線"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "陶藝教室的老師舉起一塊陶土說：「裡面的空氣要先趕出去，不然進窯會整個炸開。」\n她講的是揉土的手勢，掌根往前推，翻面，再推一次。\n我在筆記本上寫下的是週五要上線的那包相依套件，裡面有什麼沒有人打開看過。\n下課我留下來多揉了十分鐘，順手把那包套件的版本鎖了回去。",
+          "editorNote": "適合在別的行業講出一句跟你工作一模一樣的話、或你把生活場景聽成工作場景的時候引用。",
+          "variations": [
+            "延伸版本：揉土跟拆套件的手勢很像，掌心壓下去都是為了看看裡面藏了什麼。",
+            "短版：進窯前要趕出去的東西，跟上線前要趕出去的東西，長得不太一樣。"
+          ]
+        },
+        "en": {
+          "content": "The pottery teacher held up a lump of clay and said, \"Push the air out of this first, or the kiln will blow it apart.\"\nShe meant the wedging motion: heel of the hand forward, flip it over, push again.\nWhat I wrote in my notebook was the dependency bundle shipping Friday, the one nobody has opened to see what's inside.\nI stayed ten extra minutes to keep wedging, and on the way home I pinned that bundle back to a known version.",
+          "editorNote": "For when another trade says a line that matches your job word for word, or when you hear a hobby instruction as a work instruction.",
+          "variations": [
+            "Extension: wedging clay and unpacking a dependency use the same motion, both pressing down to see what's hiding inside.",
+            "Short version: what you push out before the kiln and what you push out before a release are not the same air."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-480",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://www.clay-king.com/blog/common-pottery-clay-problems-and-how-to-solve-them/",
+      "sourceNote": "Clay King 陶土常見問題文中「塌掉的作品可以重新揉過再來、燒過就無法回頭」的段落；取「可還原與不可還原的分界」核心，改寫成陶藝教室老闆與工程師同事的雙重理解",
+      "tags": [
+        "工程師日常",
+        "版本控制",
+        "字面意思",
+        "工程師生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手拉坯教室的老闆說：「塌了就整團收回來重揉，這團陶土沒有壞掉。」\n他講的是轉盤上那坨歪掉的作品，收攏，壓實，重新定中心。\n坐我旁邊的同事把這句話打進手機備忘錄，標題寫成「還原到上一版」。\n老闆看他打得很認真，又補一句：土可以，燒過的就沒有這個選項了。",
+          "editorNote": "適合在有人說「重來一次就好」、或你想解釋哪一步之後就回不去的時候引用。",
+          "variations": [
+            "延伸版本：一團土可以收回來幾十次，窯門關上以後就剩下一次。",
+            "短版：燒過的作品跟推上去的版本，都有一個回不去的時間點。"
+          ]
+        },
+        "en": {
+          "content": "The studio owner said, \"If it slumps, gather it up and wedge it again; this clay is not ruined.\"\nHe meant the lopsided piece on the wheel: collect it, press it firm, recenter it.\nThe coworker next to me typed the line into his phone under the heading \"roll back to the previous version.\"\nThe owner watched him typing so seriously and added: the clay, yes; once it's fired, that option is gone.",
+          "editorNote": "For when someone says \"we can just redo it,\" or when you need to explain which step is the one you can't come back from.",
+          "variations": [
+            "Extension: a lump of clay can be gathered up dozens of times, and once the kiln door shuts it gets exactly one.",
+            "Short version: fired pottery and a pushed release share the same moment where going back stops being an option."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-481",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://www.ptt.cc/bbs/joke/M.1552120448.A.13C.html",
+      "sourceNote": "PTT joke 板工程師笑話串中「//TODO 是工程師最常說的謊」一則；取「暫時擱置會變成永久擱置」核心，改寫成主管一句話被聽成兩種範圍",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "溝通",
+        "技術債"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "專案會議上主管只說一句：「這個先不要動它。」\n他講的是那份還沒對完的報表，等對帳的人回來再說。\n工程師回位子以後，把那支三年沒人碰過的排程服務也加進了不要動的名單。\n報表隔天就對完了，名單上維持兩項。",
+          "editorNote": "適合在會議上一句「先放著」變成長期政策、或有人問某段程式為什麼還留著的時候引用。",
+          "variations": [
+            "延伸版本：一句先放著會長出兩種保存期，一種以天算，一種以年算。",
+            "短版：名單上留最久的那一項，通常沒有人記得它為什麼會在上面。"
+          ]
+        },
+        "en": {
+          "content": "In the project meeting the manager said one line: \"Leave that one alone for now.\"\nHe meant the report that hadn't been reconciled yet, pending the finance team's return.\nBack at his desk the engineer added the scheduled job nobody had touched in three years to the same leave-it-alone list.\nThe report was reconciled the next day. The list still had two entries.",
+          "editorNote": "For when \"let's park it\" turns into long-term policy, or when someone asks why a certain chunk of code is still there.",
+          "variations": [
+            "Extension: one \"leave it for now\" grows two shelf lives, one measured in days and one measured in years.",
+            "Short version: the oldest entry on the list is the one nobody remembers putting there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-482",
+      "dateAdded": "2026-08-29",
+      "sourceUrl": "https://disp.cc/b/Joke/be0F",
+      "sourceNote": "Disp BBS 工程師笑話串中「電腦無法上網，系統要你上網查解法」一類的雞同鴨講梗；取「同一句回報在兩邊各自成立」核心，改寫成使用者與工程師對「沒有反應」的兩種讀法",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "溝通",
+        "使用者體驗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "信箱裡的回報只有一行：「按下去都沒有反應。」\n他講的是手機畫面上那顆送出鍵，按了十幾下，圖片一直停在原位。\n我們查了兩天伺服器，同一句話在我們這邊的意思是服務沒有回應。\n第三天打電話過去問他按哪裡，他說他按的是那張圖。",
+          "editorNote": "適合在使用者回報跟工程師理解對不上、或除錯兩天才發現雙方講的根本是兩件事的時候引用。",
+          "variations": [
+            "延伸版本：同一行回報在兩邊都讀得通，兩邊也都查得很認真。",
+            "短版：打一通電話問清楚按哪裡，比翻兩天伺服器紀錄快。"
+          ]
+        },
+        "en": {
+          "content": "The bug report in the inbox was one line: \"Nothing happens when I press it.\"\nHe meant the submit button on his phone screen, tapped a dozen times, the image never moving.\nWe spent two days on the servers, because on our side that sentence means the service isn't responding.\nOn day three someone called to ask where he was pressing, and he said he was pressing the picture.",
+          "editorNote": "For when a user report and an engineer's reading don't line up, or when two days of debugging reveal you were describing two different things.",
+          "variations": [
+            "Extension: the same one-line report parses on both sides, and both sides investigate it in good faith.",
+            "Short version: one phone call about where they tapped beats two days of server logs."
+          ]
+        }
+      }
     }
   ]
 }
