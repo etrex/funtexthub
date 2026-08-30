@@ -9346,6 +9346,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-319",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://www2.moeaea.gov.tw/oil111/Gasoline/RetailPrice",
+      "sourceNote": "經濟部能源署油價資訊系統：95無鉛等汽柴油參考零售價",
+      "tags": [
+        "冷氣",
+        "電費",
+        "夏天",
+        "機車",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "兩公升的九五無鉛，加完剛好三十九塊，我把發票折進安全帽裡。\n油槍離開油箱口，汽油味整個貼上來，我沒有退開。\n騎回家的路上我算了一下，這兩公升跑的距離，跟客廳那台冷氣吹掉的一個晚上差不多錢。\n進門先開冷氣，安全帽擱在鞋櫃上，那股汽油味在玄關留了半小時。",
+          "editorNote": "適合夏天騎車通勤、把每一筆小錢都換算成冷氣時數的人。",
+          "variations": [
+            "短版：兩公升三十九塊，汽油味留在玄關比涼意留得久。",
+            "延伸版：那兩公升我騎了四天，冷氣那個晚上只撐了七個小時。"
+          ]
+        },
+        "en": {
+          "content": "Two liters of ninety-five octane, thirty-nine dollars on the nose, and I fold the receipt into my helmet.\nThe nozzle leaves the tank, the smell of gasoline climbs right onto me, and I do not step back.\nRiding home I run the numbers: what those two liters cover costs about the same as one night of the living room AC.\nI turn the AC on before anything else, park the helmet on the shoe cabinet, and the gasoline smell hangs in the entryway for half an hour.",
+          "editorNote": "For summer commuters who convert every small expense into hours of air conditioning.",
+          "variations": [
+            "Short: two liters for thirty-nine dollars, and the gasoline smell outlasts the cool.",
+            "Extended: those two liters lasted me four days; that night of AC lasted seven hours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-320",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://www.businessweekly.com.tw/focus/blog/3012712",
+      "sourceNote": "商周：2026 夏季電價計算、住宅平均月用電量與冷氣溫度建議",
+      "tags": [
+        "電費",
+        "用電量",
+        "夏月電價",
+        "冷氣",
+        "家人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "四百一十八度，是新聞說夏天一戶人家平均會用掉的電。\n我把自己上一期的數字翻出來對，多了六十幾度，那六十幾度全長在客廳那面牆上。\n我媽聽完只問一句，那你是要吹到幾點。\n我沒回答，起身把風速從強按到中，再按一次變成自動。",
+          "editorNote": "適合看完平均用電量新聞、發現自己是那個把平均拉高的人時使用。",
+          "variations": [
+            "短版：平均四百一十八度，我多的那六十幾度全長在同一面牆上。",
+            "延伸版：我把風速按成自動，然後盯著那顆燈看了很久才回房間。"
+          ]
+        },
+        "en": {
+          "content": "Four hundred eighteen units is what the news says an average household burns through in a summer month.\nI dig out my own figure from last cycle, sixty-some units higher, and all sixty-some of them grew on that one living room wall.\nMy mom hears it and asks exactly one thing: so how late are you planning to run it.\nI do not answer, I get up and push the fan speed from high to medium, then press again and land on auto.",
+          "editorNote": "For the moment you read the average household usage figure and realize you are what pulled the average up.",
+          "variations": [
+            "Short: the average is four hundred eighteen; my extra sixty-some all grew on the same wall.",
+            "Extended: I set the fan to auto, stared at that little light for a while, and only then went back to my room."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-321",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://auto.ltn.com.tw/news/24336",
+      "sourceNote": "自由時報：交通部機車使用狀況調查，燃油與電動機車養車費用比較",
+      "tags": [
+        "冷氣",
+        "夏天",
+        "機車",
+        "維修",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "五次，是師傅發動我那台機車、它才肯出聲的次數。\n引擎終於醒過來，整間店都是汽油味，混著他背後那台工業電扇吹出來的熱風。\n他說夏天車跟人一樣，放著曬一整天就不想動。\n我牽車出去，回家第一件事是開冷氣，然後坐在原地等它變冷。",
+          "editorNote": "適合送修完騎回家、發現自己也需要被吹涼一下的那種下午。",
+          "variations": [
+            "短版：五次才發動，汽油味比涼氣先到我身上。",
+            "延伸版：師傅那台工業電扇整個夏天沒關過，他說關了車比較難修。"
+          ]
+        },
+        "en": {
+          "content": "Five is how many tries it took the mechanic before my scooter would make a sound.\nThe engine finally woke up, the whole shop smelled of gasoline, mixed into the hot air off the big industrial fan behind him.\nHe said bikes are like people in summer: leave them baking all day and they do not want to move.\nI wheeled it out, and the first thing I did at home was turn on the AC and sit there waiting for it to get cold.",
+          "editorNote": "For the kind of afternoon when you pick up the bike and realize you could use some cooling down yourself.",
+          "variations": [
+            "Short: five tries to start it, and the gasoline smell reached me before any cool air did.",
+            "Extended: that industrial fan of his has not been switched off all summer; he says bikes are harder to fix without it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-322",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://edh.tw/lohas/article/20979",
+      "sourceNote": "早安樂活：夏季電費一度多少錢、夏季時段與省電做法整理",
+      "tags": [
+        "省電",
+        "電風扇",
+        "冷氣",
+        "自嘲",
+        "半夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "十七公分，是我把電扇搬到離床頭最近的位置以後量到的距離。\n這樣就不用開冷氣了，我這樣跟自己說了三個晚上。\n第四個晚上兩點多醒過來，電扇還在轉，枕頭那一面已經是熱的。\n我伸手去拿遙控器，按下去之前先把上個月那張單子的數字除以三十。",
+          "editorNote": "適合每年都想靠電扇撐過去、然後每年都失敗的那幾天。",
+          "variations": [
+            "短版：十七公分換來三個晚上，第四個晚上我還是伸手去拿遙控器。",
+            "延伸版：除以三十以後那個數字小到有點好笑，我就按下去了。"
+          ]
+        },
+        "en": {
+          "content": "Seventeen centimeters is the distance I measured after dragging the fan as close to the head of the bed as it would go.\nThis way I will not need the AC, I told myself for three nights running.\nOn the fourth night I woke a little after two, the fan still turning, that side of the pillow already warm.\nI reached for the remote, and before pressing it I divided last month's bill figure by thirty.",
+          "editorNote": "For the few nights every year when you try to get by on a fan and fail the same way you did last year.",
+          "variations": [
+            "Short: seventeen centimeters bought me three nights; on the fourth I reached for the remote anyway.",
+            "Extended: divided by thirty the number looked almost funny, so I pressed the button."
+          ]
+        }
+      }
     }
   ]
 }

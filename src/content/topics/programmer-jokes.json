@@ -13237,6 +13237,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-483",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html",
+      "sourceNote": "英文技術部落格整理「跟資深工程師學到的事」，其中一點是遇到問題要往下挖到根因、不要停在第一層現象；取這個核心改寫成一句在公園沙坑旁邊聽到的普通話",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "工程師思維",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你挖到底了嗎？」是前主管在公司家庭日對他兒子說的，兩個人蹲在公園的沙坑邊找一台被埋掉的黃色小卡車。\n那天他一句技術的事都沒跟我聊。\n現在每次正式環境出狀況，我查到一半就會想起這句，然後把日誌再往前翻兩個小時。\n東西通常就埋在那兩個小時裡面。",
+          "editorNote": "適合在跟人講除錯不要停在第一層現象、或分享前輩隨口一句反而最常想起來的時候引用。",
+          "variations": [
+            "延伸版本：那台卡車最後真的挖出來了，是他兒子前一天自己埋的。",
+            "短版：查不到就再往前翻兩個小時，多半就在那裡。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you dig all the way down?\" My old manager said that at the company family day, to his four-year-old, the two of them crouched by the sandpit in the park hunting for a buried yellow toy truck.\nHe didn't say one technical thing to me the whole day.\nNow whenever production goes strange, halfway through the search that line comes back, and I scroll the logs another two hours into the past.\nThe thing is usually buried somewhere in those two hours.",
+          "editorNote": "For telling someone not to stop at the first layer of a bug, or for the kind of throwaway line from a mentor that turns out to be the one you keep replaying.",
+          "variations": [
+            "Extension: they did find the truck, and the kid had buried it there himself the day before.",
+            "Short version: when you can't find it, scroll back two more hours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-484",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://happycoding.io/blog/ten-lessons-senior-software-engineering",
+      "sourceNote": "英文部落格談資深工程師的十個體悟，包含「先驗證再相信、別假設東西是好的」；取這個核心改寫成測試同事在沙坑邊先踩一腳確認沙夠不夠硬的畫面",
+      "tags": [
+        "工程師日常",
+        "測試",
+        "職場",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我先踩踩看。」測試同事在公園沙坑邊講的，她要確認那堆沙夠不夠硬，小孩才敢站上去。\n我當時只覺得這是每個帶小孩的人都會做的事。\n上禮拜我把新功能交給她，她打字回我的還是同樣五個字。\n她踩完，那個功能多出三張缺陷回報。",
+          "editorNote": "適合在誇 QA 同事很會找洞、或自己交出去的功能一測就垮的時候引用。",
+          "variations": [
+            "延伸版本：她踩的地方永遠是我最沒把握的那一塊。",
+            "短版：交出去之前自己先踩一腳，會少三張缺陷回報。"
+          ]
+        },
+        "en": {
+          "content": "\"Let me step on it first.\" A tester on my team said that by the sandpit at the park, checking whether the pile of sand was firm enough for a kid to stand on.\nAt the time it just looked like something anyone with a small child does.\nLast week I handed her a new feature, and what she typed back was those same six words.\nShe stepped on it, and the feature came away with three bug reports.",
+          "editorNote": "For praising a QA colleague who finds every hole, or for the day your own feature collapses the moment someone touches it.",
+          "variations": [
+            "Extension: she always steps exactly on the part I was least sure about.",
+            "Short version: step on it yourself before you hand it over, and that's three bug reports fewer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-485",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://blog.codinghorror.com/the-best-code-is-no-code-at-all/",
+      "sourceNote": "Coding Horror 經典文章講「最好的程式碼是沒有程式碼」，延伸到既有程式碼越少人動越安全；取這個核心改寫成交接時只留下一句「這個先不要動」的老程式碼",
+      "tags": [
+        "工程師日常",
+        "維護",
+        "技術債",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "交接的時候他只指著專案裡一個檔案說：「這個你先不要動。」\n沒有理由，沒有註解，連檔名都很普通。\n三年後我為了一個很小的需求動了它，當天晚上兩個服務一起停掉。\n現在輪到我交接，我也只講得出同一句話。",
+          "editorNote": "適合在接手老專案、或發現某段程式碼全公司都不敢碰的時候引用。",
+          "variations": [
+            "延伸版本：那個檔案的最後一次修改紀錄，是一個已經離職五年的人。",
+            "短版：專案裡最安全的檔案，是沒有人敢動的那一個。"
+          ]
+        },
+        "en": {
+          "content": "At the handover he just pointed at one file in the repo and said, \"Leave this one alone for now.\"\nNo reason, no comment in the code, not even an unusual filename.\nThree years later I touched it for a tiny request, and that night two services went down together.\nNow I'm the one running the handover, and that same sentence is all I can produce.",
+          "editorNote": "For inheriting an old project, or for the moment you realize there is a file nobody in the company will touch.",
+          "variations": [
+            "Extension: the last commit on that file belongs to someone who left five years ago.",
+            "Short version: the safest file in the repo is the one nobody dares to open."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-486",
+      "dateAdded": "2026-08-30",
+      "sourceUrl": "https://www.freecodecamp.org/news/rubber-duck-debugging/",
+      "sourceNote": "freeCodeCamp 介紹小黃鴨除錯法：把問題完整講一遍、逼自己把腦中的混亂重新排列，常常講到一半就自己找到答案；取這個核心改寫成前輩每次先去拿一張紙把流程畫成方框",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "工程師思維",
+        "溝通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "以前坐我隔壁的資深工程師，被問問題的時候第一句永遠是：「你等我一下，我拿張紙。」\n他會把整個流程畫成幾個方框，畫完問題常常自己就收掉了。\n他離職那天把整疊紙留在抽屜，我翻過，上面沒有一張看得懂。\n現在有人來問我，我也會先站起來去拿紙，只是我畫的別人也看不懂。",
+          "editorNote": "適合在講「講一遍就自己想通」的除錯習慣、或紀念那種只留下一疊草稿紙的前輩時引用。",
+          "variations": [
+            "延伸版本：那疊紙我留著，畫得最亂的那張旁邊寫著一組已經停用的伺服器名字。",
+            "短版：卡關就先去拿一張紙，通常畫到第三個方框就解開了。"
+          ]
+        },
+        "en": {
+          "content": "The senior engineer who used to sit next to me always opened with the same line when you asked him something: \"Hold on, let me grab a piece of paper.\"\nHe would draw the whole flow as a handful of boxes, and by the time he finished the question had often folded up on its own.\nThe day he left he left the whole stack of paper in a drawer; I went through it, and not one page made sense to me.\nNow when someone comes over to ask me something I get up for paper too, except nobody can read my boxes either.",
+          "editorNote": "For talking about the debugging habit of explaining a problem out loud, or for remembering the mentor whose entire legacy was a stack of scrap paper.",
+          "variations": [
+            "Extension: I kept the stack, and the messiest page has the name of a decommissioned server written down the side.",
+            "Short version: when you're stuck, go get a piece of paper — the third box usually does it."
+          ]
+        }
+      }
     }
   ]
 }
