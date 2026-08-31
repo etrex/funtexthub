@@ -359,6 +359,54 @@ def text_line_mismatch(it):
     return z != e
 
 
+# --- line parity, PARAGRAPH view (ADDED 2026-08-31, maintenance) ----------
+# Fourth view over the same field, and the one the corpus number should be
+# quoted in. The lesson it encodes is not about lines at all:
+#
+#   On 2026-08-29 the unit of this axis was corrected from "line" to
+#   "paragraph", the data was fixed accordingly (commit e2810a5, 39 items,
+#   blank lines inserted, not a word changed), and the finding was written
+#   down. The MEASUREMENT was never changed. line_counts() below still calls
+#   splitlines(), so for three consecutive days the report quoted 1,694
+#   (10.5%) / 71 while the real balance in the corrected unit was 205
+#   (1.27%) / 4 -- an axis that was already finished kept re-appearing as
+#   open work, and nothing alarmed, because the daily gate was green the
+#   whole time.
+#
+#   A fix that touches data + record but not the instrument is HARDER to
+#   spot than no fix at all: with no fix, the reading stays red. Fix half,
+#   and the data is green, the instrument is red, and the passing batch
+#   tells you everything is fine.
+#
+# So: quote cross-language numbers as "N paragraphs / M raw lines". The
+# batch gate keeps using the raw view unchanged (it is at 0.0% two days
+# running -- do not retune it). Nothing above is modified.
+def para_counts(it):
+    """(zh, en) paragraph counts -- blocks separated by a blank line."""
+    def blocks(t):
+        t = t or ''
+        return [b for b in re.split(r'\n\s*\n', t.strip()) if b.strip()] if t.strip() else []
+    zh = it.get('i18n', {}).get('zh-tw', {}).get('content', '') or ''
+    en = it.get('i18n', {}).get('en', {}).get('content', '') or ''
+    return len(blocks(zh)), len(blocks(en))
+
+
+def para_parity_mismatch(it):
+    """True when zh and en disagree on PARAGRAPH count."""
+    z, e = para_counts(it)
+    return z != e
+
+
+def en_para_collapsed(it, severe=False):
+    """True when multi-paragraph zh became a single en paragraph.
+
+    severe=True restricts to zh >= 3, the class that actually reads as a
+    wall of text next to a paced original.
+    """
+    z, e = para_counts(it)
+    return z >= (3 if severe else 2) and e == 1
+
+
 def load(date=None):
     rows = []
     for f in sorted(glob.glob(TOPICS)):
@@ -617,6 +665,20 @@ def report(rows, label, corpus_df=None):
           f'   (whitespace fix)')
     print(f'    text mismatches the raw view scores PASS {len(hidden)}'
           f'   (raw view blind spot)')
+
+    # paragraph view (added 2026-08-31) -- report corpus numbers in THIS unit
+    pm = [r for r in rows if para_parity_mismatch(r[3])]
+    pc = [r for r in rows if en_para_collapsed(r[3])]
+    ps = [r for r in rows if en_para_collapsed(r[3], severe=True)]
+    out['para_parity_mismatch_n'] = len(pm)
+    out['para_parity_mismatch_pct'] = round(len(pm) / n * 100, 2)
+    out['en_para_collapsed'] = len(pc)
+    out['en_para_collapsed_severe'] = len(ps)
+    pv = 'PASS' if out['para_parity_mismatch_pct'] <= LINE_PARITY_LIMIT else 'OVER'
+    print(f'  para_parity_mismatch {len(pm):>4}  {out["para_parity_mismatch_pct"]:5.2f}%'
+          f'  limit {LINE_PARITY_LIMIT}%  [{pv}]   <- quote corpus numbers in this unit')
+    print(f'  en_para_collapsed    {len(pc):>4}   (severe, zh>=3 paras: {len(ps)})')
+    print(f'    report as: {len(pm)} paragraphs / {len(mm)} raw lines')
     return out
 
 

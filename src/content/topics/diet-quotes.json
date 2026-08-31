@@ -10364,7 +10364,7 @@
           ]
         },
         "en": {
-          "content": "In the three seconds before it settles, I name a price I'd accept. It lands two kilos off. Talks continue tomorrow.",
+          "content": "In the three seconds before it settles, I name a price I'd accept.\n\nIt lands two kilos off. Talks continue tomorrow.",
           "editorNote": "For people who make a silent offer while the numbers are still moving",
           "variations": [
             "It has never accepted my offer. I make one anyway.",
@@ -10424,7 +10424,7 @@
           ]
         },
         "en": {
-          "content": "Three seconds pass. The number does not make me happy. I step off anyway and go eat a really good breakfast.",
+          "content": "Three seconds pass. The number does not make me happy.\n\nI step off anyway and go eat a really good breakfast.",
           "editorNote": "For the moment right after weigh-in, when you need something kind to say to yourself",
           "variations": [
             "It's today's weather, not today's me.",
@@ -11982,6 +11982,126 @@
           "variations": [
             "Short: I was waiting for the netting across the street to come down. That took eleven months.",
             "Extended: The morning after it came down I looked up and saw the next building over getting wrapped."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-427",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=542&pid=703",
+      "sourceNote": "衛福部國健署〈如何維持健康體重〉建議天天量體重、設定可達成的小目標；改寫成貼在冰箱門上、自己寫給自己的一張手寫到期字條",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "冰箱",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "冰箱門上這張是我自己寫的，字歪歪的：\n到期日：這個禮拜天晚上十二點\n還剩幾天：三天，扣掉今天算兩天半\n要帶的東西：那件從去年掛到現在的牛仔褲\n沒做到會怎樣：不會怎樣，我再寫一張新的貼上去\n最後那行被我塗掉了，本來寫的是「這次來真的」",
+          "editorNote": "自己又幫自己延一次期的時候發，或朋友問你上次那個計畫怎麼了",
+          "variations": [
+            "短版：到期日我寫了三次，每次都是我自己蓋章延的。",
+            "延伸版：那件牛仔褲還掛在原位，衣架的形狀已經印進布裡了。"
+          ]
+        },
+        "en": {
+          "content": "The one on the fridge door is in my own handwriting, and the letters slant:\nDue date: Sunday night, midnight\nDays left: three, or two and a half if today doesn't count\nWhat to bring: the jeans that have been on the hook since last year\nWhat happens if I don't: nothing, I'll just write a new one and stick it up\nThe last line is crossed out. It used to say \"this time for real.\"",
+          "editorNote": "For when you've extended your own deadline again, or a friend asks how that plan of yours went",
+          "variations": [
+            "Short: I've written the due date three times, and every extension was approved by me.",
+            "Extended: The jeans are still on the hook. The hanger has printed its shape into the fabric."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-428",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://health.ltn.com.tw/article/breakingnews/3591551",
+      "sourceNote": "自由健康網〈聰明吃炸物！營養師：這樣吃少油少自由基〉談撈油、瀝油可降低油脂攝取；改寫成媽媽用宣布口吻在電話裡發布的一則口頭到期通知",
+      "tags": [
+        "減肥",
+        "媽媽",
+        "食物",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽在電話裡用宣布的語氣說，這鍋湯從下個禮拜開始不加豬油了。\n她說濾網勺已經洗好放在爐子旁邊，浮上來那層以後通通要撈掉。\n我問香味怎麼辦，她說香味不歸她管。\n掛電話前她補一句，這件事她只跟我講。",
+          "editorNote": "家裡有人單方面宣布飲食新制的時候發，或想笑一下家人的節食公權力",
+          "variations": [
+            "短版：我媽宣布這鍋湯不加豬油了，濾網勺已經先洗好放在爐邊。",
+            "延伸版：隔天我回去，濾網勺乾乾的掛在牆上，湯還是那個味道。"
+          ]
+        },
+        "en": {
+          "content": "My mom announced over the phone, in her official voice, that starting next week the soup gets made without lard.\nShe said the strainer ladle is already washed and sitting by the stove, and anything that floats to the top is getting scooped off from now on.\nI asked what happens to the smell, and she said the smell is not her department.\nBefore she hung up she added that she was telling only me.",
+          "editorNote": "For when someone at home unilaterally announces a new food policy, or you want to laugh at a relative's diet authority",
+          "variations": [
+            "Short: My mom declared the soup lard-free, and the strainer ladle was washed and waiting by the stove.",
+            "Extended: I went back the next day. The ladle was hanging on the wall bone dry, and the soup tasted exactly the same."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-429",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://www.mohw.gov.tw/cp-2652-22307-1.html",
+      "sourceNote": "衛福部〈減重有撇步 三管齊下最有效〉提醒設定期程與具體行動；改寫成用鉛筆記在月曆背面、混著待辦與自我最後通牒的隨手清單",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "婚禮",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "月曆背面我用鉛筆記了一排，算是給自己下的最後通牒：\n到期日：九月十五號，我姊結婚那天\n還沒還人家的：兩件洋裝，其中一件拉鍊只上得到一半\n要帶過去的：濾網勺，我姊說她家那支柄斷了\n要停掉的：晚上十一點以後的第二輪\n寫完我在旁邊畫了一個問號，位置剛好蓋住九月",
+          "editorNote": "婚禮或聚會前替自己訂目標的時候發，或跟朋友承認清單只寫得出來、做不出來",
+          "variations": [
+            "短版：我把最後通牒寫在月曆背面，翻過來那面才是真正的行程。",
+            "延伸版：濾網勺我先放進袋子了，那是整張清單裡唯一做完的一項。"
+          ]
+        },
+        "en": {
+          "content": "On the back of the calendar I penciled a row of lines, my own final notice to myself:\nDue date: September 15, the day my sister gets married\nStill owed to people: two dresses, one with a zipper that only goes halfway\nTo bring along: the strainer ladle, since my sister says the handle on hers snapped\nTo cut out: the second round after eleven at night\nWhen I finished I drew a question mark next to it, landing right over September",
+          "editorNote": "For setting yourself a target before a wedding or reunion, or admitting to a friend that the list is the only part you finished",
+          "variations": [
+            "Short: I wrote my final notice on the back of the calendar. The real schedule is on the other side.",
+            "Extended: The strainer ladle is already in the bag, and it's the only line on that list I've completed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-430",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=542&pid=9731",
+      "sourceNote": "國健署〈減重迷思大破解〉提醒體重會受量測條件影響、不必被單次數字綁架；改寫成社區布告欄上的紙本停用通知加上住戶手寫批註",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "體重計",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "布告欄上那張紙是管理員印的，說大廳那台體重計用到九月三十號為止。\n紙的下半截有人用原子筆加了一行，寫舊的那台本來就會少兩公斤。\n再下面又有人補了兩個字：騙人。\n我把整張拍下來存在手機裡，當成我這個月唯一的健康紀錄。",
+          "editorNote": "社區或公司的體重計要換掉的時候發，或想調侃自己只信對自己有利的那台",
+          "variations": [
+            "短版：大廳那台體重計要停用了，紙上已經有兩個人為它吵起來。",
+            "延伸版：換新的第一天我去站了一下，然後決定改走另一邊的門。"
+          ]
+        },
+        "en": {
+          "content": "The sheet on the bulletin board was printed by the building manager: the scale in the lobby stays in service only through September 30.\nOn the lower half someone added a line in ballpoint pen, saying the old one always read two kilos light.\nUnderneath that, somebody else added one more word: liar.\nI photographed the whole sheet and keep it on my phone as my only health record this month.",
+          "editorNote": "For when the scale at your building or office is being replaced, or you want to tease yourself for trusting only the one that flatters you",
+          "variations": [
+            "Short: The lobby scale is being retired, and two people are already arguing about it in pen.",
+            "Extended: I stepped on the new one the day it arrived, then started using the other entrance."
           ]
         }
       }
