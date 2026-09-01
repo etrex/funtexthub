@@ -1,356 +1,359 @@
 {
- "date": "2026-08-30",
- "min_scene_items": 2,
- "ordinal_allowed": [
-  "adulting-quotes",
-  "drama-quotes",
-  "food-jokes",
-  "self-love-quotes",
-  "workplace-quotes"
- ],
- "ordinal_quota_per_topic": 1,
- "named_terms": {
-  "導覽耳機": "travel-quotes"
- },
- "institutional_frames": [
-  "F13"
- ],
- "topics": {
-  "absurd-wisdom": {
-   "frame": "F6",
-   "scene_class": "五金",
-   "scene": "水平儀",
-   "scene_tokens": [
-    "水平儀"
-   ]
+  "date": "2026-09-01",
+  "min_scene_items": 2,
+  "first_batch": [
+    "workplace-quotes"
+  ],
+  "ordinal_allowed": [
+    "adulting-quotes",
+    "diet-quotes",
+    "exam-quotes",
+    "travel-quotes",
+    "wedding-quotes"
+  ],
+  "ordinal_quota_per_topic": 1,
+  "named_terms": {
+    "小綠人": "workplace-quotes"
   },
-  "adulting-quotes": {
-   "frame": "F14",
-   "scene_class": "照明",
-   "scene": "壁燈",
-   "scene_tokens": [
-    "壁燈"
-   ]
-  },
-  "breakup-quotes": {
-   "frame": "F7",
-   "scene_class": "鐘錶",
-   "scene": "沙漏",
-   "scene_tokens": [
-    "沙漏"
-   ]
-  },
-  "cat-quotes": {
-   "frame": "F8",
-   "scene_class": "包裝",
-   "scene": "泡泡紙",
-   "scene_tokens": [
-    "泡泡紙"
-   ]
-  },
-  "cdrama-period-quotes": {
-   "frame": "F8",
-   "scene_class": "清潔",
-   "scene": "除塵紙",
-   "scene_tokens": [
-    "除塵紙"
-   ]
-  },
-  "cheesy-pickups": {
-   "frame": "F2",
-   "scene_class": "音樂",
-   "scene": "口琴",
-   "scene_tokens": [
-    "口琴"
-   ]
-  },
-  "cold-jokes": {
-   "frame": "F9",
-   "scene_class": "氣味",
-   "scene": "香茅",
-   "scene_tokens": [
-    "香茅"
-   ]
-  },
-  "concert-ticket-quotes": {
-   "frame": "F3",
-   "scene_class": "園藝",
-   "scene": "澆花器",
-   "scene_tokens": [
-    "澆花器"
-   ]
-  },
-  "couple-jokes": {
-   "frame": "F10",
-   "scene_class": "運動",
-   "scene": "球網",
-   "scene_tokens": [
-    "球網"
-   ]
-  },
-  "dark-humor": {
-   "frame": "F4",
-   "scene_class": "海邊",
-   "scene": "漁網",
-   "scene_tokens": [
-    "漁網"
-   ]
-  },
-  "diet-quotes": {
-   "frame": "F11",
-   "scene_class": "工地",
-   "scene": "鷹架",
-   "scene_tokens": [
-    "鷹架"
-   ]
-  },
-  "dog-quotes": {
-   "frame": "F5",
-   "scene_class": "金融",
-   "scene": "零錢包",
-   "scene_tokens": [
-    "零錢包"
-   ]
-  },
-  "drama-binge-quotes": {
-   "frame": "F12",
-   "scene_class": "車內",
-   "scene": "後視鏡",
-   "scene_tokens": [
-    "後視鏡"
-   ]
-  },
-  "drama-quotes": {
-   "frame": "F6",
-   "scene_class": "遊戲場",
-   "scene": "翹翹板",
-   "scene_tokens": [
-    "翹翹板"
-   ]
-  },
-  "exam-quotes": {
-   "frame": "F13",
-   "scene_class": "五金",
-   "scene": "六角板手",
-   "scene_tokens": [
-    "六角板手"
-   ]
-  },
-  "fathers-day-quotes": {
-   "frame": "F14",
-   "scene_class": "照明",
-   "scene": "日光燈管",
-   "scene_tokens": [
-    "日光燈管"
-   ]
-  },
-  "fitness-quotes": {
-   "frame": "F13",
-   "scene_class": "鐘錶",
-   "scene": "壁鐘",
-   "scene_tokens": [
-    "壁鐘"
-   ]
-  },
-  "food-jokes": {
-   "frame": "F7",
-   "scene_class": "包裝",
-   "scene": "膠帶台",
-   "scene_tokens": [
-    "膠帶台"
-   ]
-  },
-  "graduation-quotes": {
-   "frame": "F9",
-   "scene_class": "清潔",
-   "scene": "橡膠手套",
-   "scene_tokens": [
-    "橡膠手套"
-   ]
-  },
-  "healing-quotes": {
-   "frame": "F11",
-   "scene_class": "音樂",
-   "scene": "鼓棒",
-   "scene_tokens": [
-    "鼓棒"
-   ]
-  },
-  "holiday-jokes": {
-   "frame": "F2",
-   "scene_class": "氣味",
-   "scene": "肥皂香",
-   "scene_tokens": [
-    "肥皂香"
-   ]
-  },
-  "human-design-quotes": {
-   "frame": "F12",
-   "scene_class": "園藝",
-   "scene": "培養土",
-   "scene_tokens": [
-    "培養土"
-   ]
-  },
-  "insomnia-quotes": {
-   "frame": "F3",
-   "scene_class": "運動",
-   "scene": "跑道線",
-   "scene_tokens": [
-    "跑道線"
-   ]
-  },
-  "korean-drama-quotes": {
-   "frame": "F10",
-   "scene_class": "海邊",
-   "scene": "貝殼",
-   "scene_tokens": [
-    "貝殼"
-   ]
-  },
-  "mom-quotes": {
-   "frame": "F4",
-   "scene_class": "工地",
-   "scene": "水泥袋",
-   "scene_tokens": [
-    "水泥袋"
-   ]
-  },
-  "motivational-quotes": {
-   "frame": "F11",
-   "scene_class": "金融",
-   "scene": "投幣孔",
-   "scene_tokens": [
-    "投幣孔"
-   ]
-  },
-  "pet-memorial-quotes": {
-   "frame": "F5",
-   "scene_class": "車內",
-   "scene": "千斤頂",
-   "scene_tokens": [
-    "千斤頂"
-   ]
-  },
-  "programmer-jokes": {
-   "frame": "F12",
-   "scene_class": "遊戲場",
-   "scene": "沙坑",
-   "scene_tokens": [
-    "沙坑"
-   ]
-  },
-  "renting-quotes": {
-   "frame": "F6",
-   "scene_class": "五金",
-   "scene": "老虎鉗",
-   "scene_tokens": [
-    "老虎鉗"
-   ]
-  },
-  "self-love-quotes": {
-   "frame": "F14",
-   "scene_class": "照明",
-   "scene": "燈罩",
-   "scene_tokens": [
-    "燈罩"
-   ]
-  },
-  "service-quotes": {
-   "frame": "F7",
-   "scene_class": "鐘錶",
-   "scene": "碼錶",
-   "scene_tokens": [
-    "碼錶"
-   ]
-  },
-  "slang-quotes": {
-   "frame": "F1",
-   "scene_class": "包裝",
-   "scene": "封口機",
-   "scene_tokens": [
-    "封口機"
-   ]
-  },
-  "stock-investor-quotes": {
-   "frame": "F8",
-   "scene_class": "清潔",
-   "scene": "菜瓜布",
-   "scene_tokens": [
-    "菜瓜布"
-   ]
-  },
-  "student-quotes": {
-   "frame": "F2",
-   "scene_class": "音樂",
-   "scene": "琴譜",
-   "scene_tokens": [
-    "琴譜"
-   ]
-  },
-  "summer-electric-quotes": {
-   "frame": "F9",
-   "scene_class": "氣味",
-   "scene": "汽油味",
-   "scene_tokens": [
-    "汽油味"
-   ]
-  },
-  "sweet-quotes": {
-   "frame": "F3",
-   "scene_class": "園藝",
-   "scene": "竹籬",
-   "scene_tokens": [
-    "竹籬"
-   ]
-  },
-  "travel-quotes": {
-   "frame": "F10",
-   "scene_class": "導覽",
-   "scene": "導覽耳機",
-   "scene_tokens": [
-    "導覽耳機"
-   ]
-  },
-  "wedding-quotes": {
-   "frame": "F4",
-   "scene_class": "運動",
-   "scene": "哨子",
-   "scene_tokens": [
-    "哨子"
-   ]
-  },
-  "witty-comebacks": {
-   "frame": "F1",
-   "scene_class": "海邊",
-   "scene": "沙灘傘",
-   "scene_tokens": [
-    "沙灘傘"
-   ]
-  },
-  "workplace-quotes": {
-   "frame": "F5",
-   "scene_class": "工地",
-   "scene": "安全錐",
-   "scene_tokens": [
-    "安全錐"
-   ]
-  },
-  "worldcup-quotes": {
-   "frame": "F1",
-   "scene_class": "金融",
-   "scene": "儲值卡",
-   "scene_tokens": [
-    "儲值卡"
-   ]
-  },
-  "zodiac-quotes": {
-   "frame": "F6",
-   "scene_class": "車內",
-   "scene": "三角警示牌",
-   "scene_tokens": [
-    "三角警示牌"
-   ]
+  "institutional_frames": [
+    "F13"
+  ],
+  "topics": {
+    "absurd-wisdom": {
+      "frame": "F10",
+      "scene_class": "氣象",
+      "scene": "風向雞",
+      "scene_tokens": [
+        "風向雞"
+      ]
+    },
+    "adulting-quotes": {
+      "frame": "F10",
+      "scene_class": "氣象",
+      "scene": "雨量筒",
+      "scene_tokens": [
+        "雨量筒"
+      ]
+    },
+    "breakup-quotes": {
+      "frame": "F1",
+      "scene_class": "氣象",
+      "scene": "星圖盤",
+      "scene_tokens": [
+        "星圖盤"
+      ]
+    },
+    "cat-quotes": {
+      "frame": "F6",
+      "scene_class": "氣象",
+      "scene": "日晷",
+      "scene_tokens": [
+        "日晷"
+      ]
+    },
+    "cdrama-period-quotes": {
+      "frame": "F11",
+      "scene_class": "泳池",
+      "scene": "蛙鏡",
+      "scene_tokens": [
+        "蛙鏡"
+      ]
+    },
+    "cheesy-pickups": {
+      "frame": "F3",
+      "scene_class": "泳池",
+      "scene": "浮板",
+      "scene_tokens": [
+        "浮板"
+      ]
+    },
+    "cold-jokes": {
+      "frame": "F8",
+      "scene_class": "泳池",
+      "scene": "水道繩",
+      "scene_tokens": [
+        "水道繩"
+      ]
+    },
+    "concert-ticket-quotes": {
+      "frame": "F14",
+      "scene_class": "泳池",
+      "scene": "跳水台",
+      "scene_tokens": [
+        "跳水台"
+      ]
+    },
+    "couple-jokes": {
+      "frame": "F5",
+      "scene_class": "釣魚",
+      "scene": "釣餌盒",
+      "scene_tokens": [
+        "釣餌盒"
+      ]
+    },
+    "dark-humor": {
+      "frame": "F4",
+      "scene_class": "釣魚",
+      "scene": "捲線器",
+      "scene_tokens": [
+        "捲線器"
+      ]
+    },
+    "diet-quotes": {
+      "frame": "F2",
+      "scene_class": "釣魚",
+      "scene": "魚簍",
+      "scene_tokens": [
+        "魚簍"
+      ]
+    },
+    "dog-quotes": {
+      "frame": "F7",
+      "scene_class": "釣魚",
+      "scene": "釣竿架",
+      "scene_tokens": [
+        "釣竿架"
+      ]
+    },
+    "drama-binge-quotes": {
+      "frame": "F12",
+      "scene_class": "樂器",
+      "scene": "松香",
+      "scene_tokens": [
+        "松香"
+      ]
+    },
+    "drama-quotes": {
+      "frame": "F4",
+      "scene_class": "樂器",
+      "scene": "譜夾",
+      "scene_tokens": [
+        "譜夾"
+      ]
+    },
+    "exam-quotes": {
+      "frame": "F9",
+      "scene_class": "樂器",
+      "scene": "弱音器",
+      "scene_tokens": [
+        "弱音器"
+      ]
+    },
+    "fathers-day-quotes": {
+      "frame": "F1",
+      "scene_class": "樂器",
+      "scene": "調音笛",
+      "scene_tokens": [
+        "調音笛"
+      ]
+    },
+    "fitness-quotes": {
+      "frame": "F6",
+      "scene_class": "美術",
+      "scene": "調色盤",
+      "scene_tokens": [
+        "調色盤"
+      ]
+    },
+    "food-jokes": {
+      "frame": "F11",
+      "scene_class": "美術",
+      "scene": "炭筆",
+      "scene_tokens": [
+        "炭筆"
+      ]
+    },
+    "graduation-quotes": {
+      "frame": "F13",
+      "scene_class": "美術",
+      "scene": "裱框條",
+      "scene_tokens": [
+        "裱框條"
+      ]
+    },
+    "healing-quotes": {
+      "frame": "F3",
+      "scene_class": "美術",
+      "scene": "石膏像",
+      "scene_tokens": [
+        "石膏像"
+      ]
+    },
+    "holiday-jokes": {
+      "frame": "F8",
+      "scene_class": "縫紉",
+      "scene": "拆線刀",
+      "scene_tokens": [
+        "拆線刀"
+      ]
+    },
+    "human-design-quotes": {
+      "frame": "F14",
+      "scene_class": "縫紉",
+      "scene": "珠針",
+      "scene_tokens": [
+        "珠針"
+      ]
+    },
+    "insomnia-quotes": {
+      "frame": "F5",
+      "scene_class": "縫紉",
+      "scene": "鈕扣盒",
+      "scene_tokens": [
+        "鈕扣盒"
+      ]
+    },
+    "korean-drama-quotes": {
+      "frame": "F10",
+      "scene_class": "縫紉",
+      "scene": "熨斗墊",
+      "scene_tokens": [
+        "熨斗墊"
+      ]
+    },
+    "mom-quotes": {
+      "frame": "F2",
+      "scene_class": "攝影",
+      "scene": "三腳架",
+      "scene_tokens": [
+        "三腳架"
+      ]
+    },
+    "motivational-quotes": {
+      "frame": "F7",
+      "scene_class": "攝影",
+      "scene": "遮光罩",
+      "scene_tokens": [
+        "遮光罩"
+      ]
+    },
+    "pet-memorial-quotes": {
+      "frame": "F12",
+      "scene_class": "攝影",
+      "scene": "底片罐",
+      "scene_tokens": [
+        "底片罐"
+      ]
+    },
+    "programmer-jokes": {
+      "frame": "F4",
+      "scene_class": "攝影",
+      "scene": "顯影液",
+      "scene_tokens": [
+        "顯影液"
+      ]
+    },
+    "renting-quotes": {
+      "frame": "F9",
+      "scene_class": "郵務",
+      "scene": "包裹單",
+      "scene_tokens": [
+        "包裹單"
+      ]
+    },
+    "self-love-quotes": {
+      "frame": "F1",
+      "scene_class": "郵務",
+      "scene": "郵票夾",
+      "scene_tokens": [
+        "郵票夾"
+      ]
+    },
+    "service-quotes": {
+      "frame": "F6",
+      "scene_class": "郵務",
+      "scene": "秤重台",
+      "scene_tokens": [
+        "秤重台"
+      ]
+    },
+    "slang-quotes": {
+      "frame": "F11",
+      "scene_class": "郵務",
+      "scene": "橡皮筋捆",
+      "scene_tokens": [
+        "橡皮筋捆"
+      ]
+    },
+    "stock-investor-quotes": {
+      "frame": "F13",
+      "scene_class": "文具倉儲",
+      "scene": "迴紋針盒",
+      "scene_tokens": [
+        "迴紋針盒"
+      ]
+    },
+    "student-quotes": {
+      "frame": "F3",
+      "scene_class": "文具倉儲",
+      "scene": "打孔機",
+      "scene_tokens": [
+        "打孔機"
+      ]
+    },
+    "summer-electric-quotes": {
+      "frame": "F8",
+      "scene_class": "文具倉儲",
+      "scene": "護貝膜",
+      "scene_tokens": [
+        "護貝膜"
+      ]
+    },
+    "sweet-quotes": {
+      "frame": "F14",
+      "scene_class": "文具倉儲",
+      "scene": "美工刀片",
+      "scene_tokens": [
+        "美工刀片"
+      ]
+    },
+    "travel-quotes": {
+      "frame": "F5",
+      "scene_class": "印刷",
+      "scene": "油墨罐",
+      "scene_tokens": [
+        "油墨罐"
+      ]
+    },
+    "wedding-quotes": {
+      "frame": "F9",
+      "scene_class": "印刷",
+      "scene": "滾輪刷",
+      "scene_tokens": [
+        "滾輪刷"
+      ]
+    },
+    "witty-comebacks": {
+      "frame": "F2",
+      "scene_class": "印刷",
+      "scene": "印章台",
+      "scene_tokens": [
+        "印章台"
+      ]
+    },
+    "workplace-quotes": {
+      "frame": "F7",
+      "scene_class": "街道號誌",
+      "scene": "小綠人",
+      "scene_tokens": [
+        "小綠人"
+      ]
+    },
+    "worldcup-quotes": {
+      "frame": "F12",
+      "scene_class": "印刷",
+      "scene": "活字盤",
+      "scene_tokens": [
+        "活字盤"
+      ]
+    },
+    "zodiac-quotes": {
+      "frame": "F4",
+      "scene_class": "鞋店",
+      "scene": "鞋拔",
+      "scene_tokens": [
+        "鞋拔"
+      ]
+    }
   }
- }
 }

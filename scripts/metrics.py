@@ -306,6 +306,66 @@ LINE_PARITY_LIMIT = 2.0    # batch share % of zh/en line-count mismatch
 EN_COLLAPSED_LIMIT = 0     # absolute count of en collapsed to a single line
 
 
+# --- within-file n-gram convergence (ADDED 2026-09-01) ---------------------
+# A NEW axis, added alongside max_family_ngram rather than replacing it. The
+# two use different denominators and both must be kept: max_family_ngram
+# measures a frame leaking ACROSS files (denominator = the batch);
+# max_within_file_gram measures four items in ONE file collapsing onto a
+# single sentence skeleton (denominator = the topic page).
+#
+# Why the batch denominator is blind to it: on 2026-08-31 「我聽見的是」 ran
+# through ALL FOUR of fathers-day-quotes' new items -- 4/168 = 2.4% of the
+# batch, comfortably PASS, while a reader on that topic page saw the same
+# 「他說 X。我聽見的是 Y。」 shape four times in a row. The reader never reads
+# a batch; the reader reads one topic. Backtest: 8/27 one file, 8/29 zero,
+# 8/30 zero, 8/31 one file -- roughly one file every other batch, and no gate
+# fired in those four days.
+#
+# Two preprocessing steps are mandatory, and neither is inherited automatically
+# from the older metrics (both were re-learned the hard way on 2026-09-01):
+#   1. strip the 「短版：」/「延伸版：」 variation labels -- site convention since
+#      April, not a fingerprint. An unstripped first pass put 延伸版師傅 /
+#      短版他沒問 at the top of all four days and read as mass templating.
+#   2. drop the day's assigned scene_tokens -- a scene landing in 3 of 4 items
+#      is OBEDIENCE to min_scene_items, not convergence.
+WITHIN_FILE_N = 5          # sentence skeletons show up at 5 chars, not 4
+WITHIN_FILE_LIMIT = 3      # a gram may span at most 3 of a file's 4 new items
+
+
+def within_file_grams(rows, assignment=None, n=WITHIN_FILE_N):
+    """Per-slug: the widest-spanning n-gram among that slug's rows.
+
+    rows: (slug, id, content, item) tuples, already filtered to one day.
+    Returns {slug: (gram, items_containing_it, items_in_file)}.
+    """
+    scenes = {}
+    for slug, spec in ((assignment or {}).get('topics') or {}).items():
+        toks = spec.get('scene_tokens') or ([spec['scene']] if spec.get('scene') else [])
+        scenes[slug] = [t for t in toks if t]
+
+    by_slug = collections.defaultdict(list)
+    for r in rows:
+        by_slug[r[0]].append(r)
+
+    out = {}
+    for slug, items in by_slug.items():
+        toks = scenes.get(slug, [])
+        spans = collections.Counter()
+        for _, _, _, it in items:
+            grams = set()
+            for text in item_texts(it):          # strips variation labels
+                grams |= cjk_ngrams(text, n)
+            spans.update(grams)
+        # a scene the brief ordered into >=2 items is obedience, not convergence
+        spans = collections.Counter({
+            g: c for g, c in spans.items()
+            if not any(t in g or g in t for t in toks)})
+        if spans:
+            g, c = spans.most_common(1)[0]
+            out[slug] = (g, c, len(items))
+    return out
+
+
 def line_counts(it):
     """(zh line count, en line count) for one item's content."""
     zh = it.get('i18n', {}).get('zh-tw', {}).get('content', '') or ''

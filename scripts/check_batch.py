@@ -145,6 +145,22 @@ def main():
             fails.append(f'max_rare_ngram {pct}% ({g}) > {M.MAX_RARE_NGRAM_LIMIT}%')
         notes.append(f'max_family_ngram {pct}% ({g})')
 
+    # -- within-file convergence (the 8/31 defect, ADDED 2026-09-01) --------
+    # Different denominator from max_family_ngram above: that one asks whether
+    # a frame leaked across the batch, this one asks whether one file's four
+    # items collapsed onto a single skeleton. 「我聽見的是」 scored 2.4% of the
+    # batch (PASS) while spanning 4/4 of fathers-day-quotes. Both kept.
+    wf = M.within_file_grams(rows, asg)
+    over = {s_: v for s_, v in wf.items()
+            if v[2] >= 3 and v[1] > M.WITHIN_FILE_LIMIT}
+    for s_, (g, c, tot) in sorted(over.items(), key=lambda kv: -kv[1][1]):
+        fails.append(f'max_within_file_gram {s_}: 「{g}」 spans {c}/{tot} items '
+                     f'(limit {M.WITHIN_FILE_LIMIT}) -- the four items share one skeleton')
+    worst = max(wf.values(), key=lambda v: v[1], default=None)
+    notes.append(f'max_within_file_gram '
+                 f'{worst[1] if worst else 0}/{worst[2] if worst else 0} '
+                 f'({worst[0] if worst else "-"}) limit {M.WITHIN_FILE_LIMIT}/4')
+
     # -- reserved named terms: present in owner, absent everywhere else -----
     for term, owner in asg.get('named_terms', {}).items():
         holders = sorted({r[0] for r in rows if term in r[2]})
