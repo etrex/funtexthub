@@ -12943,6 +12943,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-498",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E9%A2%A8%E5%90%91%E6%A8%99",
+      "sourceNote": "Chinese Wikipedia entry on wind vanes, which notes that a vane shows the direction the wind comes from; reworked into an original three-shot piece",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "教堂鐘樓上的風向雞轉了一整個下午，把八個方向全都指過一次。\n\n港邊的旗子今天完全沒動，岸上的人因此確定今天沒有風。\n\n山腰的芒草整片倒向同一邊，倒下去的那陣風已經走遠了。",
+          "editorNote": "適合用在測量工具、間接證據，或任何「答案只能從別的東西身上看出來」的討論。",
+          "variations": [
+            "短版：風自己不會出現，出現的都是被它推動的東西。",
+            "延伸版：芒草倒完之後，那陣風就沒有地方可以被看見了。"
+          ]
+        },
+        "en": {
+          "content": "The weathercock on the church bell tower turned all afternoon and pointed at every one of the eight directions.\n\nThe flag down at the harbor did not move at all today, which is how the people on shore knew there was no wind.\n\nA whole slope of silvergrass leaned the same way, and the wind that leaned it was already far away.",
+          "editorNote": "For talk about measuring instruments, indirect evidence, or any answer you can only read off something else.",
+          "variations": [
+            "Short version: Wind never shows up itself; what shows up is whatever it pushed.",
+            "Extended: Once the silvergrass has finished leaning, the wind has nowhere left to be seen."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-499",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E9%A2%A8%E9%9B%9E_(%E5%8E%AD%E5%8B%9D%E7%89%A9)",
+      "sourceNote": "Chinese Wikipedia entry on 風雞, the rooster figure placed on rooftops in Kinmen as a charm rather than as an instrument; rewritten as an original three-shot piece",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "五金行把風向雞掛在門口第三年，還沒有客人為了它走進來過。\n\n氣象站的紀錄本昨天那一欄，寫的是「與前一日相同」。\n\n小學旗桿頂端的鐵公雞早就轉不動，它現在只負責指著校長室。",
+          "editorNote": "適合用在裝飾品、例行紀錄，或任何「功能已經消失但東西還在原位」的場合。",
+          "variations": [
+            "短版：它還在轉的時候是儀器，不轉之後是裝飾。",
+            "延伸版：紀錄本寫「與前一日相同」的那天，也還是要有人去寫。"
+          ]
+        },
+        "en": {
+          "content": "This is the third year the hardware store has hung a weathercock by its door, and no customer has ever walked in because of it.\n\nIn the weather station's logbook, yesterday's column says \"same as the day before.\"\n\nThe iron rooster on top of the elementary school flagpole stopped turning long ago, and now it only points at the principal's office.",
+          "editorNote": "For ornaments, routine paperwork, or anything whose function is gone while the object itself stays put.",
+          "variations": [
+            "Short version: While it turns it is an instrument; once it stops it is decor.",
+            "Extended: On the day the logbook says \"same as the day before,\" someone still has to go write that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-500",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://talk.ltn.com.tw/article/breakingnews/3237694",
+      "sourceNote": "Liberty Times opinion column on the rooster weather vane above a cathedral and what people read into it; used as a starting point for an original three-shot piece",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "郵差投進去的信壓在昨天那封上面，昨天那封因此變成第二封。\n\n菜市場的磅秤歸零之後，秤盤自己的重量也一起被算成零。\n\n廟口的乞龜一年比一年大。去年那隻有多大，已經沒有人講得出來。",
+          "editorNote": "適合用在排序、基準值、逐年加碼的比較，或任何「起點是被規定出來的」討論。",
+          "variations": [
+            "短版：磅秤說的零，是有人決定要從哪裡開始算。",
+            "延伸版：每年都要更大，可是沒有人留著去年那一隻。"
+          ]
+        },
+        "en": {
+          "content": "The letter the mailman dropped in landed on top of yesterday's letter, which made yesterday's the second one.\n\nAfter the scale at the market is zeroed, the weight of the pan itself gets counted as zero too.\n\nThe rice turtle at the temple gets bigger every year. How big last year's one was, nobody can say anymore.",
+          "editorNote": "For rankings, baselines, year-on-year one-upmanship, or any time the starting point is something someone decided.",
+          "variations": [
+            "Short version: The zero on a scale is somebody's decision about where counting starts.",
+            "Extended: Every year it has to be bigger, and nobody kept last year's to check against."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-501",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.mook.com.tw/article/4045",
+      "sourceNote": "Mook travel feature on the Kobe Weathercock House and the rooster vane on its roof; used as a jumping-off point for an original three-shot piece",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常",
+        "哲學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "山路那面反光鏡照得到彎道另一頭的車，照不到正在看它的人。\n\n海邊的燈塔整晚都亮，唯一照不到的地方是燈塔自己站的那塊地。\n\n夜市的照明太亮，天上有沒有月亮沒有人需要知道。",
+          "editorNote": "適合用在盲點、照明與視線，或任何「照亮別人的東西照不到自己」的場合。",
+          "variations": [
+            "短版：燈塔最暗的地方，就是燈塔站的那一塊。",
+            "延伸版：夜市亮到把月亮變成一件不重要的事。"
+          ]
+        },
+        "en": {
+          "content": "The convex mirror on the mountain road shows the car around the bend and not the person looking into it.\n\nThe lighthouse by the sea stays lit all night, and the one place its beam misses is the ground the lighthouse stands on.\n\nThe night market is lit so brightly that nobody needs to know whether there is a moon.",
+          "editorNote": "For blind spots, light and sight lines, or anything that lights up everyone except itself.",
+          "variations": [
+            "Short version: The darkest spot around a lighthouse is where the lighthouse stands.",
+            "Extended: The night market is bright enough to make the moon irrelevant."
+          ]
+        }
+      }
     }
   ]
 }
