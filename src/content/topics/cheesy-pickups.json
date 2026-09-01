@@ -12681,6 +12681,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-494",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://ryan2000r.pixnet.net/blog/posts/1024105933",
+      "sourceNote": "電池電量量測教學文提到新電池約 1.5V、掉到 1.2V 以下就算沒電，借這個判讀標準改寫成反問收尾的情話",
+      "tags": [
+        "甜",
+        "日常",
+        "科技"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "遙控器按了三次都沒反應，你從抽屜找出萬用表，把兩支測試棒夾在那顆三號電池上。螢幕停在一點四七伏特，你說這樣還有電，還可以用很久。我把手伸過去，說那你也量量我。你猜我會停在幾伏特？",
+          "editorNote": "適合在對方修東西、換電池的時候傳過去，把「我還撐得住，但我想被你確認一下」講得輕一點",
+          "variations": [
+            "短版：你說一點四七還有電，那我這邊呢？",
+            "延伸版：你量完電池就把測試棒收起來，我還站在原地舉著手。"
+          ]
+        },
+        "en": {
+          "content": "The remote didn't respond three times in a row, so you dug a multimeter out of the drawer and clipped both probes onto the AA battery. The screen settled at 1.47 volts and you said that's still fine, it'll last a long time. I held out my hand and said then measure me too. What number do you think I'd stop at?",
+          "editorNote": "Send it while they're fixing something or swapping batteries, when 'I'm okay, but I'd like you to check on me' feels too heavy to say straight",
+          "variations": [
+            "Short version: You said 1.47 still counts as charged. So what about me?",
+            "Longer version: You put the probes away after the battery. I was still standing there with my hand up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-495",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://www.strongpilab.com/multimeter-how-to-use/",
+      "sourceNote": "三用電表用法介紹文提到導通測試會發出嗶聲，取這個聲音細節改寫成以問句收尾的曖昧場景",
+      "tags": [
+        "甜",
+        "曖昧",
+        "互動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在修那盞不會亮的檯燈，把萬用表轉到會嗶的那一檔，說線只要是通的就會叫。我趁你低頭，把兩支測試棒分別按在自己的左手跟右手。它真的叫了一聲，你抬起頭，伸手把那一檔轉掉。你是把它轉掉了，還是只轉到隔壁那一格？",
+          "editorNote": "適合對方是會自己修東西的類型，或想把「你其實有聽到」問出口又不想問破的時候",
+          "variations": [
+            "短版：兩隻手接起來它就叫了，你聽到了吧。",
+            "延伸版：你把那一檔轉掉，可是手停在旋鈕上很久。"
+          ]
+        },
+        "en": {
+          "content": "You were fixing the desk lamp that wouldn't turn on, and you set the multimeter to the setting that beeps, saying it goes off whenever a wire is connected. While you were looking down, I pressed one probe to my left hand and one to my right. It really did beep, and you looked up and reached over to turn that setting off. Did you actually turn it off, or only move it one notch over?",
+          "editorNote": "For someone who repairs things themselves, or when you want to ask 'you heard that, right' without making them answer",
+          "variations": [
+            "Short version: It beeped the second my two hands closed the loop. You heard it.",
+            "Longer version: You switched that setting off, but your hand stayed on the dial a while."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-496",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://lastone1081.pixnet.net/blog/posts/14215181225",
+      "sourceNote": "三用電表介紹文提到量電阻時應從最高檔位往下測，借這個操作順序改寫成反問收尾的告白",
+      "tags": [
+        "甜",
+        "可愛",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "學長說量電阻要從最大的檔位開始，慢慢往下才不會把表燒掉。你把萬用表塞到我手上，說接下來自己來。我從最大那一檔往下轉，數字一直卡在滿格不動。喜歡你這件事，到底要轉到哪一檔才量得出來？",
+          "editorNote": "適合理工科系或喜歡動手做的對象，也適合想承認「我對你的量比想像中大」的時候",
+          "variations": [
+            "短版：最大那一檔還是滿的，我大概量錯方向了。",
+            "延伸版：你教我從大的轉到小的，我到現在還沒轉下來。"
+          ]
+        },
+        "en": {
+          "content": "My senior said you measure resistance starting from the highest range and work down, or you'll fry the meter. You pushed the multimeter into my hands and said I could take it from there. I started at the highest range and turned it down, and the number just sat there, pinned at the top. Which range am I supposed to reach before liking you finally shows up as a reading?",
+          "editorNote": "For an engineering major or anyone who likes building things, and for admitting your feelings run bigger than expected",
+          "variations": [
+            "Short version: The highest range is still maxed out. I think I aimed it wrong.",
+            "Longer version: You taught me to work down from the big one. I still haven't gotten there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-497",
+      "dateAdded": "2026-08-31",
+      "sourceUrl": "https://www.mababy.com/knowledge-detail?id=16523",
+      "sourceNote": "土味情話整理文中「把好的先讓給對方」的互動邏輯，改寫成以具體問句收尾的日常場景",
+      "tags": [
+        "甜",
+        "日常",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "自習室的插座只剩一個孔，你把自己的充電線拔掉，讓我先插。你說你的還有八十幾，撐到晚上沒問題。後來我瞄到你的螢幕，上面是三十一。你打算幾點才要把你那條線插回去？",
+          "editorNote": "適合一起唸書或加班的對象，把「你明明自己也快沒電了」講成一句問句",
+          "variations": [
+            "短版：你說你還有八十幾，我看到的是三十一。",
+            "延伸版：一個孔你讓給我，那你晚上要怎麼撐？"
+          ]
+        },
+        "en": {
+          "content": "There was one free outlet left in the study room, so you unplugged your own charger and let me go first. You said you were still in the eighties and would make it to the evening easily. Later I caught a glimpse of your screen and it read thirty-one. What time are you planning to plug your cable back in?",
+          "editorNote": "For a study partner or someone working late with you, when 'you're running low yourself' is easier to say as a question",
+          "variations": [
+            "Short version: You said you were in the eighties. I saw thirty-one.",
+            "Longer version: You gave me the only outlet. So how are you getting through tonight?"
+          ]
+        }
+      }
     }
   ]
 }
