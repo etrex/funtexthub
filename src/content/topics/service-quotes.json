@@ -10912,6 +10912,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-399",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2030103",
+      "sourceNote": "中華郵政國內包裹資費表說明窗口交寄以重量計費，每件限重二十公斤、長寬高合計不逾一百五十公分；改寫成寄件現場的短景。",
+      "tags": [
+        "服務業",
+        "日常",
+        "心聲",
+        "客人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "箱子放上秤重台的那一秒，數字先跳到二十一，退回十九點八才停住。\n我多繞兩圈封箱膠帶，順手把四個邊角壓平，長寬高加起來剛好少三公分。\n他把那張紙折成一半收進口袋，走到門邊又轉頭問，這個禮拜六你們有開嗎？",
+          "editorNote": "適合郵局、物流門市寫寄件現場的貼文，落在數字剛好卡在門檻上的那一刻。",
+          "variations": [
+            "短版：數字先跳到二十一，退回十九點八才停住。",
+            "延伸版：我多繞兩圈膠帶、把邊角壓平，他卻是走到門邊才轉頭問這個禮拜六有沒有開。"
+          ]
+        },
+        "en": {
+          "content": "The moment the box goes on the weighing platform the number jumps to twenty-one, then falls back and settles at nineteen point eight.\nI wrap two more turns of tape, press the four corners flat, and length plus width plus height comes out three centimeters under.\nHe folds the paper in half into his pocket, reaches the door, turns back and asks, are you open this Saturday?",
+          "editorNote": "For post offices and shipping shops posting about the moment a number stops right on the edge of a limit.",
+          "variations": [
+            "Short: Twenty-one at first, then back down to nineteen point eight.",
+            "Longer: Two more turns of tape, four corners pressed flat, and he only turns back at the door to ask about Saturday."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-400",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2050401",
+      "sourceNote": "中華郵政國際航空包裹說明運費以材積重量與實際重量取較重者計算，材積為長乘寬乘高除以六千；改寫成客人拆開重裝、分箱寄送的現場。",
+      "tags": [
+        "服務業",
+        "客人",
+        "溫暖",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下午三點多，有位阿姨抱著紙箱進來，先放到秤重台上，再問我可不可以拆開重裝。\n我遞剪刀給她，她把裡面的毛衣一件一件抽出來，改成兩個小箱分開寄。\n第二次量到的是九點六和八點四，加起來比原本那一箱便宜六十幾塊。\n她拿著兩張明信片在門口挑了很久，最後問我，你們這裡的郵筒幾點收？",
+          "editorNote": "適合寫服務現場那種多花十分鐘、幫客人省下一點錢的段落，郵局、物流、量販都能用。",
+          "variations": [
+            "短版：她把毛衣一件一件抽出來，改成兩個小箱分開寄。",
+            "延伸版：九點六和八點四，加起來便宜六十幾塊，她卻在門口挑明信片挑了很久。"
+          ]
+        },
+        "en": {
+          "content": "A little after three, a woman comes in holding a carton, sets it on the weighing platform, and asks whether she can open it and pack it again.\nI hand her the scissors, and she pulls the sweaters out one by one and splits them into two smaller boxes.\nThe second weigh-in reads nine point six and eight point four, and together they come to about sixty dollars less than the single box.\nShe stands at the door a long while choosing between two postcards, then asks me what time the mailbox outside gets emptied.",
+          "editorNote": "For posts about the extra ten minutes that saves a customer a little money. Works for post offices, shipping shops, and warehouse stores.",
+          "variations": [
+            "Short: She pulled the sweaters out one by one and split them into two smaller boxes.",
+            "Longer: Nine point six and eight point four, about sixty dollars cheaper together, and still she spent ages choosing a postcard."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-401",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.peopo.org/news/309493",
+      "sourceNote": "公民新聞報導郵務士長期搬運重物造成腰與腳的負擔，包裹限重由三十公斤下修為二十公斤；改寫成外務人員的一段。",
+      "tags": [
+        "服務業",
+        "厭世",
+        "工作",
+        "心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "限重從三十公斤改成二十公斤那年，他的腰已經歪了七年。\n最重的那一件他還是自己抱上車，膝蓋先彎下去，背貼著車門一寸一寸挺直。\n中午回到站裡，他把手套脫下來甩了兩下，問旁邊的人，下午西邊那條誰跑？",
+          "editorNote": "適合寫外務、物流、搬運人員的貼文。規定改了，身體的舊帳沒有跟著改。",
+          "variations": [
+            "短版：限重下修那年，他的腰已經歪了七年。",
+            "延伸版：膝蓋先彎下去，背貼著車門一寸一寸挺直，最重的那一件他還是自己抱上車。"
+          ]
+        },
+        "en": {
+          "content": "The year the weight limit dropped from thirty kilos to twenty, his back had already been crooked for seven.\nHe still lifts the heaviest one onto the truck alone, knees bending first, spine straightening inch by inch against the door.\nBack at the depot at noon he pulls off his gloves, shakes them twice, and asks the guy beside him who is taking the west route this afternoon.",
+          "editorNote": "For posts about delivery crews, logistics, and anyone who carries things for a living. The rule changed; what the body already paid did not.",
+          "variations": [
+            "Short: The limit dropped from thirty kilos to twenty. His back had been crooked for seven years.",
+            "Longer: Knees bending first, spine straightening inch by inch against the truck door, the heaviest one still goes up alone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-402",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2030102",
+      "sourceNote": "中華郵政國內包裹與快捷資費查詢頁說明交寄前需先確認重量與尺寸；改寫成帶新人上工第一天的教學片段。",
+      "tags": [
+        "服務業",
+        "工作",
+        "溫暖",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新來的第一天只學一件事，東西要怎麼放，數字才不會晃。\n她把箱子推到正中間，手離開之後多站兩秒，看那排數字停下來為止。\n整個早上我只糾正過她一次，袋裝的要平放，不能立著。\n下班前她自己走回秤重台，把台面擦過一遍，然後回頭問我，明天要幾點到？",
+          "editorNote": "適合帶新人的那幾天寫的貼文，零售、物流、餐飲都適用。重點在她自己走回去擦台面那一段。",
+          "variations": [
+            "短版：新人第一天只學一件事，東西怎麼放，數字才不會晃。",
+            "延伸版：她把箱子推到正中間，手離開之後多站兩秒，看那排數字停下來為止。"
+          ]
+        },
+        "en": {
+          "content": "On her first day she learns exactly one thing: how to set something down so the number does not wobble.\nShe pushes the box to the middle, keeps her hands off it for two more seconds, and waits for the digits to settle.\nAll morning I correct her once, bagged items go flat, never standing up.\nBefore she leaves she walks back to the weighing platform on her own, wipes the surface down, then turns and asks me what time she should be in tomorrow.",
+          "editorNote": "For the days you are training someone new. Retail, logistics, and food service all work. The part that matters is her walking back to wipe it down.",
+          "variations": [
+            "Short: Day one, one lesson: set it down so the number does not wobble.",
+            "Longer: She pushes the box to the middle, takes her hands off, and waits two more seconds for the digits to settle."
+          ]
+        }
+      }
     }
   ]
 }
