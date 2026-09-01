@@ -12619,6 +12619,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-471",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://gapple3c.tw/post/2723/hood",
+      "sourceNote": "Taiwanese used-camera dealer's explainer on whether a lens hood is worth mounting, including why photographers reverse it to pack the lens. Original angle: the click of twisting it around, and thirty minutes of standing for four frames.",
+      "tags": [
+        "勵志",
+        "堅持",
+        "耐心",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "遮光罩反扣在鏡頭上，你把它轉正的時候會聽到一聲很輕的卡。\n接下來的半小時你只按了四次快門，其餘時間都在等雲挪開那道邊。\n背帶勒住肩膀，你把重心換到另一隻腳，繼續等。",
+          "editorNote": "適合形容按一次快門要守很久的那種耐性；也適合傳給正在盯著一件慢事的人。",
+          "variations": [
+            "短版：轉正遮光罩之後，半小時只按了四次快門。",
+            "延伸版：雲還沒挪開，你換了一隻腳站，沒有收包。"
+          ]
+        },
+        "en": {
+          "content": "The lens hood sits on backwards, and when you twist it around you hear one faint click.\nFor the next half hour you press the shutter four times and spend the rest waiting for a cloud to slide off that edge.\nThe strap digs into your shoulder, you shift your weight to the other foot, and you keep waiting.",
+          "editorNote": "For the kind of patience where a single frame costs a long wait; also for someone minding a slow project.",
+          "variations": [
+            "Short version: after twisting the hood around, four frames in half an hour.",
+            "Extended: the cloud hasn't moved, you switch feet, and you don't pack up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-472",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://gapple3c.tw/post/2723/hood",
+      "sourceNote": "Same explainer, on the hood's second job of shielding the front element from grit and drizzle. Original angle: two grains that won't blow off, and shooting on as the light drops.",
+      "tags": [
+        "勵志",
+        "韌性",
+        "堅持",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "海砂被風捲上來，你抬手擋了一下，指腹上留著一層細細的粉。\n遮光罩前緣黏了兩粒，吹不掉，你翻過衣角把它抹乾淨。\n天色暗了一格，你把快門速度調慢，蹲低一點，再拍。",
+          "editorNote": "適合形容條件變差還是把事情做完的樣子；也適合傳給在外面硬撐的人。",
+          "variations": [
+            "短版：粉黏在遮光罩前緣，吹不掉，你用衣角。",
+            "延伸版：天色暗一格，你把速度調慢，蹲低再拍一張。"
+          ]
+        },
+        "en": {
+          "content": "The wind lifts sand off the beach, you raise a hand against it, and a fine powder stays on your fingertips.\nTwo grains cling to the front rim of the lens hood, blowing does nothing, so you turn your shirt hem over and wipe them away.\nThe light drops a stop, you slow the shutter down, get lower, and shoot again.",
+          "editorNote": "For carrying on as conditions get worse; also for someone toughing something out in the open.",
+          "variations": [
+            "Short version: the powder sticks to the rim of the hood, blowing fails, so you use your hem.",
+            "Extended: the light drops a stop, you slow the shutter down, get lower, and take one more."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-473",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.fotobeginner.com/1592/lens-hood/",
+      "sourceNote": "Photography primer on lens hoods and repeatable shooting setups. Original angle: thirty-seven frames of one street tree that all look the same on the card.",
+      "tags": [
+        "勵志",
+        "累積",
+        "堅持",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同一棵行道樹，你禮拜六早上八點去拍，這是第三十七張。\n葉子落光的那次你也去了，只是站得比較久。\n記憶卡裡它們排成一列，看起來幾乎一樣。\n你還是去。",
+          "editorNote": "適合形容累積到看不出變化仍然繼續的習慣；也適合傳給正在做長期記錄的人。",
+          "variations": [
+            "短版：第三十七張，看起來跟前面幾乎一樣。",
+            "延伸版：葉子落光那個禮拜六你也去了，站得比平常久。"
+          ]
+        },
+        "en": {
+          "content": "The same street tree, and you go photograph it at eight on Saturday mornings; this is the thirty-seventh frame.\nYou went the week the leaves were all down too, and just stood there longer.\nOn the card they line up in a row and look nearly identical.\nYou still go.",
+          "editorNote": "For a habit you keep even when the results stop looking different; also for someone keeping a long record.",
+          "variations": [
+            "Short version: the thirty-seventh frame looks nearly the same as the ones before it.",
+            "Extended: you went on the Saturday the leaves were down too, and stood there longer than usual."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-474",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.fotobeginner.com/1592/lens-hood/",
+      "sourceNote": "Same primer, on protecting and cleaning the front element. Original angle: a worn cloth, a spot that will not come off, and heading out with it anyway.",
+      "tags": [
+        "勵志",
+        "行動",
+        "不完美",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "擦鏡布洗過三次已經起毛，你把它折成四折，從中心往外繞出去。\n玻璃上那個小點沒有消失，你換一面再擦，力道比剛才小。\n最後你舉起來對著光看，點還在，你把鏡頭裝回機身，出門。",
+          "editorNote": "適合形容做到一個程度就帶著缺陷出發的決定；也適合傳給不想再拖的人。",
+          "variations": [
+            "短版：小點沒消失，你把鏡頭裝回去就出門。",
+            "延伸版：換一面再擦一次，力道放小，點還在，你也不擦了。"
+          ]
+        },
+        "en": {
+          "content": "The cleaning cloth has been washed three times and gone fuzzy, and you fold it into quarters and work from the center outward.\nThe small spot on the glass does not disappear, so you switch to a fresh face and go over it again, lighter than before.\nIn the end you hold it up to the light, the spot is still there, you put the lens back on the body and head out.",
+          "editorNote": "For the decision to set out with the flaw still on it; also for someone finished with stalling.",
+          "variations": [
+            "Short version: the spot stays, and you put the lens back on and head out.",
+            "Extended: a fresh face of the cloth, a lighter touch, the spot remains, and you stop wiping."
+          ]
+        }
+      }
     }
   ]
 }
