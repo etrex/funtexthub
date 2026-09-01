@@ -10474,6 +10474,125 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-379",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "AVMA〈Coping with the loss of a pet〉：飼主哀傷歷程與保留紀念物的段落",
+      "tags": [
+        "思念",
+        "遺物",
+        "日常",
+        "紀念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這捲要不要全部洗？」沖洗店的小姐拿著我那個舊底片罐問，指甲敲了一下罐蓋。我說都洗。那捲的後半段是牠最後一個冬天，我站在店裡翻完，一張也沒有抽掉。",
+          "editorNote": "適合把底片留到最後才敢拿去洗的人。店員問得很平常，平常到你只能照實回答",
+          "variations": [
+            "短版：她問這捲要不要全部洗，我說都洗。",
+            "延伸版：底片罐的蓋子有點鬆，回程我一路用手扣著。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you want the whole roll?\" The woman at the photo shop was holding my old film canister, tapping the lid with her fingernail. I said all of it. The back half of that roll was his last winter, and I stood there in the shop and went through every print without setting one aside.",
+          "editorNote": "For anyone who left a roll undeveloped until they could face it. The clerk asked it the way you ask anything, and there was nothing to do but answer",
+          "variations": [
+            "Short version: she asked if I wanted the whole roll, and I said all of it.",
+            "Longer version: the lid on the canister was loose, so I held it shut the whole way back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-380",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.helpguide.org/mental-health/grief/coping-with-losing-a-pet",
+      "sourceNote": "HelpGuide〈Coping with Losing a Pet〉：安樂死當日與返家後的情緒起伏",
+      "tags": [
+        "告別",
+        "遺物",
+        "儀式",
+        "思念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "獸醫院的助理送我們到門口，說牠今天很配合，沒有抖。這句我沒有回，只點了一下頭。回家我把最後那張診療單摺成四折，塞進裝乳牙的底片罐，蓋子壓下去有一聲很輕的響。",
+          "editorNote": "適合剛從診間走出來、還在把當天收起來的人。助理那句是隨口的，卻是那天唯一一句好消息",
+          "variations": [
+            "短版：助理說牠今天很配合，我只點頭。",
+            "延伸版：乳牙跟摺成四折的紙擠在同一個罐子裡，之後就沒打開過。"
+          ]
+        },
+        "en": {
+          "content": "The vet's assistant walked us to the door and said he'd been good today, no shaking. I didn't answer that, I just nodded once. At home I folded the last treatment sheet into quarters and pushed it into the film canister where his baby teeth are, and the lid went down with a very small sound.",
+          "editorNote": "For anyone still putting the day away after walking out of the clinic. The assistant said it in passing, and it was the only good news anyone gave us",
+          "variations": [
+            "Short version: the assistant said he'd been good today, and I only nodded.",
+            "Longer version: the teeth and the folded paper share the canister now, and it hasn't been opened since."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-381",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.pawschicago.org/news-resources/resources/coping-with-pet-loss",
+      "sourceNote": "PAWS Chicago〈Coping with Pet Loss〉：他人反應與日常環境變化帶來的提醒",
+      "tags": [
+        "日常斷裂",
+        "思念",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "樓上的太太在信箱前面攔住我，問我家那隻最近怎麼都沒聲音。我說牠三月走了。她哦了一聲，接著說難怪晚上安靜很多。安靜很多這四個字，我每晚會想起一次。",
+          "editorNote": "適合被鄰居隨口問住的人。別人是從少掉的聲音認出來的，那也是一種在場的證明",
+          "variations": [
+            "短版：她說難怪晚上安靜很多，我沒有接話。",
+            "延伸版：她隨口講的，講完就轉身去開信箱了。"
+          ]
+        },
+        "en": {
+          "content": "The woman from upstairs stopped me at the mailboxes and asked why she hadn't heard the one at my place lately. I told her he died in March. She said oh, and then said that explained why the evenings had gotten so quiet. Those two words, so quiet, come back to me once every night.",
+          "editorNote": "For anyone caught by a neighbor's offhand question. Other people knew him by the sound he made, which is its own proof he was here",
+          "variations": [
+            "Short version: she said that explained the quiet evenings, and I let it go by.",
+            "Longer version: she said it in passing, then turned around to open her mailbox."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-382",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://twoheartspetlosscenter.com/journaling-offers-a-way-to-channel-grief-over-loss-of-a-pet/",
+      "sourceNote": "Two Hearts Pet Loss Center〈Journaling offers a way to channel grief over loss of a pet〉：把記得的細節寫下來作為哀悼方式",
+      "tags": [
+        "思念",
+        "日常",
+        "身體記憶",
+        "延續"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我表弟七歲那年蹲在窗邊看很久，說牠的毛跟地毯同一個顏色。他現在念大學，大概早就忘了自己講過這句。地毯還在，吸塵器經過那一塊我會放慢，因為那個顏色現在只剩地毯這邊有。",
+          "editorNote": "適合家裡還留著同色系家具的人。小孩講的比喻通常最準，也最不曉得自己講了什麼",
+          "variations": [
+            "短版：他說毛跟地毯同一個顏色，那年他七歲。",
+            "延伸版：吸到那一塊我會放慢，機器的聲音也跟著低下去。"
+          ]
+        },
+        "en": {
+          "content": "My cousin was seven that year, crouched by the window for a long time, and he said her fur was the same color as the carpet. He's in college now and has probably forgotten he ever said it. The carpet is still here, and I slow down every time the vacuum reaches that patch, because that color only exists on the carpet side now.",
+          "editorNote": "For anyone still living with furniture in the same shade. Kids land the comparison exactly, and never know they've done it",
+          "variations": [
+            "Short version: he said her fur matched the carpet, and he was seven that year.",
+            "Longer version: I slow down over that patch, and the motor drops a note lower with me."
+          ]
+        }
+      }
     }
   ]
 }

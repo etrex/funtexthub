@@ -13357,6 +13357,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-487",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://dev.to/linearb/dev-interrupteds-best-programmer-humor-36ck",
+      "sourceNote": "Dev Interrupted 整理的工程師幽默合輯，其中「週五下午還想推一版」是反覆出現的梗；取這個核心改寫成兩個同事在辦公室冰箱前的對話",
+      "tags": [
+        "工程師日常",
+        "週五部署",
+        "部署",
+        "辦公室"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「冰箱裡那瓶棕色的，你千萬別當紅茶喝。」\n「便條上寫顯影液，我還以為是誰在惡作劇。」\n「週末暗房借到了，要洗掉三卷底片。」\n「那你今天五點半以後就把電腦闔上。」\n「為什麼？」\n「因為有人五點四十會想推一版上去，我需要有人陪我一起按取消。」",
+          "editorNote": "適合在講週五收工前的部署衝動、或辦公室裡總有一個同事在做完全無關的手工嗜好時引用。",
+          "variations": [
+            "短版：冰箱那瓶棕色的液體，跟今天下班前的部署，兩個都別碰。",
+            "延伸版本：那三卷底片後來洗壞兩卷，跟那一版一起壞在同一個晚上。"
+          ]
+        },
+        "en": {
+          "content": "\"That brown bottle in the fridge — please don't mistake it for iced tea.\"\n\"The sticky note says developer fluid; I assumed somebody was pranking us.\"\n\"I booked the darkroom for the weekend, three rolls to get through.\"\n\"Then close your laptop after five thirty today.\"\n\"Why?\"\n\"Because someone is going to want to push a build at five forty, and I need company when I hit cancel.\"",
+          "editorNote": "For the Friday-evening urge to ship one more build, or for the coworker whose hobby has nothing to do with software.",
+          "variations": [
+            "Short version: the brown bottle in the fridge and tonight's deploy — leave both alone.",
+            "Extension: two of the three rolls came out ruined, on the same night that build did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-488",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://dev.to/moozzyk/top-5-jokes-software-developers-tell-themselves-and-their-managers-4e50",
+      "sourceNote": "moozzyk 談工程師對自己與主管說的五個謊，其中「已經完成九成九」被指出最後那一小段常常比前面全部都久；取這個核心改寫成兩人來回的對話",
+      "tags": [
+        "估時",
+        "時程",
+        "工程師日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個還要多久？」\n「大概九成九了。」\n「上次聽到九成九，我們又拖了兩個禮拜。」\n「這回真的只剩收尾。」\n「你桌上那罐顯影液，買來多久了？」\n「……那罐我也還沒開。」",
+          "editorNote": "適合吐槽估時裡最後那百分之一，或提醒自己「快好了」通常還很久。",
+          "variations": [
+            "短版：剩百分之一的時候，記得把行事曆再空出兩週。",
+            "延伸版本：他交接那天，那罐還封著，鍵盤旁邊的位置一公分都沒挪過。"
+          ]
+        },
+        "en": {
+          "content": "\"How much longer on this?\"\n\"Ninety-nine percent there.\"\n\"Last time I heard ninety-nine percent, we shipped two weeks later.\"\n\"This round it really is just cleanup.\"\n\"That bottle of developer fluid on your desk — how long have you had it?\"\n\"...I haven't opened that one either.\"",
+          "editorNote": "For the last one percent of an estimate, and the fact that \"almost done\" is rarely almost.",
+          "variations": [
+            "Short version: when you reach the last one percent, block out two more weeks.",
+            "Extension: on his handover day the bottle was still sealed, sitting exactly where it always sat."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-489",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://dev.to/hotfixhero/legacy-code-love-or-hate-1l2o",
+      "sourceNote": "HotfixHero 寫遺留程式碼像考古，總會挖到一句「別動它，它就是會跑」而沒人知道原因；取這個核心改寫成兩個人盯著同一個檔案的來回問答",
+      "tags": [
+        "遺留程式碼",
+        "技術債",
+        "除錯",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這段程式碼開頭掛了一行紅色註解。」\n「寫什麼？」\n「別碰，它會自己動。」\n「誰寫的？」\n「Git 說是二〇一七年一個早就停用的帳號。」\n「那就當作沒看過，往下捲吧。」",
+          "editorNote": "適合在接手舊系統、或看到那種沒人敢刪的註解時引用。",
+          "variations": [
+            "短版：紅色註解底下那三十行在做什麼，全公司只剩它自己知道。",
+            "延伸版本：兩年後我在另一個專案又遇到它，連縮排都一模一樣。"
+          ]
+        },
+        "en": {
+          "content": "\"There's a red comment sitting at the top of this block.\"\n\"Saying what?\"\n\"Don't touch it, it moves by itself.\"\n\"Who wrote that?\"\n\"Git says a 2017 account that was deactivated ages ago.\"\n\"Then we never read it. Keep scrolling.\"",
+          "editorNote": "For inheriting an old system, or for the comment nobody dares to delete.",
+          "variations": [
+            "Short version: the thirty lines under that red comment know what they do, and nobody else does.",
+            "Extension: two years later I ran into it in another repo, indentation and all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-490",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://dev.to/dev_tips/why-software-engineering-feels-like-youre-losing-your-mind-and-why-youre-not-alone-38fh",
+      "sourceNote": "DEV 上一篇談工程師為何常覺得自己快瘋掉的文章，提到連日盯著不穩定的管線除錯的荒謬感；取這個核心改寫成兩人對著同一條紅線的對話",
+      "tags": [
+        "CI",
+        "測試",
+        "工程師日常",
+        "除錯流程"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「早上那條紅線還在。」\n「有按重跑嗎？」\n「按了三輪，它紅了三輪。」\n「那大概是真的壞了。」\n「可是我什麼都沒改，只多加一個空白行。」\n「那更嚴重，代表它本來就想紅，只是今天被你吵醒。」",
+          "editorNote": "適合在講不穩定的測試、或那種多一個空白行就爆掉的管線時引用。",
+          "variations": [
+            "短版：重跑到綠燈為止不算修好，只算今天先讓它過去。",
+            "延伸版本：查到最後是時區，而它每天只在固定那一個小時鬧脾氣。"
+          ]
+        },
+        "en": {
+          "content": "\"That red line from this morning is still up.\"\n\"Did you hit rerun?\"\n\"Three rounds of rerun, three rounds of red.\"\n\"Then it is probably actually broken.\"\n\"But I changed nothing, I only added one blank line.\"\n\"That's worse. It always wanted to be red, and today you woke it up.\"",
+          "editorNote": "For flaky tests, and for the pipeline that falls over when you add a blank line.",
+          "variations": [
+            "Short version: rerunning until it turns green isn't a fix, it's a truce for the day.",
+            "Extension: it came down to a time zone, and it only threw a fit during one specific hour."
+          ]
+        }
+      }
     }
   ]
 }
