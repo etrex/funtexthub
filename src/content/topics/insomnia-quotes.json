@@ -10290,6 +10290,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-372",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://udn.com/news/story/121484/9235052",
+      "sourceNote": "聯合新聞網報導專家指出台灣每四人就有一人睡不好，主因是大腦停不下來；改寫成半夜盤點「誰還沒睡」的並列清單，不寫情緒",
+      "tags": [
+        "失眠",
+        "深夜",
+        "鈕扣盒",
+        "想太多",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "還醒著的：桌燈、路燈、樓上那台冷氣。\n還醒著的：鈕扣盒裡那顆滾出來的白扣子。\n還醒著的：明天要交的東西，還有它的截止時間。\n還醒著的：三年前我講錯的一句話。\n睡著的：全世界，還有我的手機電量。",
+          "editorNote": "適合半夜替整個房間點名的那種夜晚，貼在限時動態剛好。",
+          "variations": [
+            "短版：還醒著的：桌燈、路燈、我。",
+            "延伸版：還醒著的還有白扣子和截止時間；睡著的只有全世界。"
+          ]
+        },
+        "en": {
+          "content": "Still awake: the desk lamp, the streetlight, the air conditioner upstairs.\nStill awake: the white button that rolled out of the button box.\nStill awake: the thing due tomorrow, and the hour it is due.\nStill awake: one sentence I got wrong three years ago.\nAsleep: the entire world, plus my phone battery.",
+          "editorNote": "For nights spent taking roll call on your own bedroom. Works nicely as a late-night story caption.",
+          "variations": [
+            "Short: Still awake: the desk lamp, the streetlight, me.",
+            "Extended: Also still awake, the white button and the deadline; asleep, only the entire world."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-373",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://technews.tw/2026/07/17/scrolling-phone-before-bed-insomnia-experts-debunk-myth/",
+      "sourceNote": "科技新報報導研究指出偶爾一晚睡前滑手機影響有限，長期習慣才是關鍵；改寫成床邊物件的並列清單，全篇不解釋原因",
+      "tags": [
+        "失眠",
+        "鈕扣盒",
+        "床上",
+        "翻來覆去",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "喝完的水杯，杯底剩一圈，旁邊的充電線纏成一團。\n鈕扣盒搖起來像下雨，搖兩下就停。\n明天的行程背過一遍，現在想不起來。\n枕頭翻面，涼的那面撐不到十分鐘。\n眼睛閉上了，時間照樣往前。",
+          "editorNote": "適合躺下之後把床邊每樣東西都看過一遍的夜晚，也可以當凌晨的短句。",
+          "variations": [
+            "短版：水杯剩一圈，充電線還纏著，我還醒著。",
+            "延伸版：涼的那面撐不到十分鐘，我把枕頭又翻回去。"
+          ]
+        },
+        "en": {
+          "content": "The finished glass, one ring of water at the bottom, and beside it a charging cable in a knot.\nThe button box sounds like rain when shaken, so I shook it twice and stopped.\nTomorrow's schedule, gone over once, already gone.\nPillow flipped, and the cool side lasts under ten minutes.\nEyes closed, and the clock keeps going anyway.",
+          "editorNote": "For the night you lie down and end up examining every object beside the bed. Also works as a short 3 a.m. caption.",
+          "variations": [
+            "Short: One ring of water, one knotted cable, one person still awake.",
+            "Extended: The cool side lasted under ten minutes, so I flipped the pillow back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-374",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.careonline.com.tw/2026/03/202603232000.html",
+      "sourceNote": "照護線上報導睡眠衛生習慣對改善夜夜難眠的潛力；改寫成深夜未劃掉的四件事並列，最後一件是睡著本身",
+      "tags": [
+        "失眠",
+        "待辦事項",
+        "凌晨",
+        "想太多",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "清單上沒劃掉的還剩四件。\n一件只要三分鐘，被我留到現在。\n一件得打電話，白天打了沒人接。\n一件我從頭到尾都不想做。\n最後一件，是躺好，然後睡著。",
+          "editorNote": "適合待辦事項只剩最難的那幾件、卻怎樣都躺不下去的夜晚。",
+          "variations": [
+            "短版：清單上剩四件，最難的那件叫睡著。",
+            "延伸版：三分鐘那件我明天還是會留著，不用擔心它。"
+          ]
+        },
+        "en": {
+          "content": "Four things on the list are still not crossed off.\nOne takes three minutes, and I have saved it this long.\nOne needs a phone call, and nobody picked up during the day.\nOne I have not wanted to do from the start.\nThe last one is to lie down and fall asleep.",
+          "editorNote": "For nights when only the hardest items are left and lying down is somehow not one of the easy ones.",
+          "variations": [
+            "Short: Four items left, and the hardest one is falling asleep.",
+            "Extended: The three-minute one will still be there tomorrow, so nobody has to worry about it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-375",
+      "dateAdded": "2026-09-01",
+      "sourceUrl": "https://www.setn.com/news/1889337",
+      "sourceNote": "三立新聞網報導專家分析超累卻睡不著的成因；改寫成半夜聽見的聲音並列清單，收在最安靜也最吵的那一項",
+      "tags": [
+        "失眠",
+        "深夜",
+        "孤獨",
+        "想太多",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "半夜聽得到的東西比白天多。\n冰箱隔一陣子自己抖一下，水管在牆裡走了一小段路。\n有人回家，鑰匙串響了三聲。\n我的呼吸被自己聽成很吵。\n剩下的都是想事情的聲音。",
+          "editorNote": "適合安靜到連水管都有聲音的凌晨，傳給同樣醒著的人也可以。",
+          "variations": [
+            "短版：冰箱抖了一下，鑰匙串響三聲，然後只剩我。",
+            "延伸版：水管那一小段路走完之後，房間又安靜回來，我還在數。"
+          ]
+        },
+        "en": {
+          "content": "At night you can hear more things than in the daytime.\nThe refrigerator shudders on its own every so often, and water moves a short stretch through the wall.\nSomebody comes home and a keyring rings three times.\nMy own breathing sounds loud to me.\nEverything left over is the sound of thinking.",
+          "editorNote": "For the small hours when the room is quiet enough to hear everything. Fine to send to someone who is also up.",
+          "variations": [
+            "Short: The fridge shudders, a keyring rings three times, and then there is only me.",
+            "Extended: After the water finishes its short stretch the room goes quiet again, and I am still counting."
+          ]
+        }
+      }
     }
   ]
 }
