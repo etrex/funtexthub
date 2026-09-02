@@ -13477,6 +13477,125 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-491",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://dev.to/siti_aisyahmatzainal_73/one-sentence-from-my-senior-engineer-changed-how-i-think-about-software-4oe3",
+      "sourceNote": "DEV 上一篇寫資深同事的一句普通評語如何改變作者的做事方式；取「被記住的通常是很平的一句話」這個核心，改寫成茶水間纏止水帶的場景",
+      "tags": [
+        "工程師日常",
+        "production",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "茶水間的水龍頭滴了三天，行政找來的師傅蹲在地上纏止水帶，繞到第七圈才停手。他鎖回去之後說：『要順著轉，反著繞它會自己鬆』。那天大家看完就回座位，沒有人多問。後來我每次要在正式環境改設定，手放到鍵盤上都會先想一下方向。",
+          "editorNote": "適合在講正式環境的小改動、或那種師傅隨口一句比文件還好用的時候引用。",
+          "variations": [
+            "短版：師傅那句是講水龍頭的，我卻拿去用在部署上。",
+            "延伸版本：茶水間隔年又滴了一次，這次蹲在地上纏的是我。"
+          ]
+        },
+        "en": {
+          "content": "The pantry tap dripped for three days, and the guy the office called in crouched on the floor winding waterstop tape, seven turns before he stopped. He screwed it back on and said, 'Wind it the way it tightens; the other way it works itself loose'. Everyone watched and went back to their desks, and nobody asked him anything. Now whenever I change a setting in production, my hands rest on the keyboard while I check which direction I'm going.",
+          "editorNote": "For small production changes, and for the moment an offhand remark beats the documentation.",
+          "variations": [
+            "Short version: he was talking about a faucet, and I filed it under deploys.",
+            "Extension: the tap went again a year later, and that time the person on the floor with the tape was me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-492",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://dev.to/mgmaster24/the-fastest-way-to-become-a-senior-engineer-is-to-make-yourself-replaceable-3cao",
+      "sourceNote": "文章主張資深的價值在於把知識交出去而不是握在手上；取「真正交接出去的往往只有一句聽不懂的話」這個核心，改寫成離職那天的交接",
+      "tags": [
+        "code review",
+        "工程師日常",
+        "程式碼品質",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "離職那天他把桌面擦得很乾淨，鍵盤翻過來抖了兩下。\n我問還有什麼要交代的，他想了幾秒，說：『那個變數叫 data』。\n三年後我接手一個別人寫的服務，滿螢幕的 data 捲不到底，我才真的懂他那句話在說什麼。",
+          "editorNote": "適合在交接、命名討論、或看到滿螢幕沒有名字的變數時引用。",
+          "variations": [
+            "短版：他交接了一句話，我三年後才收到。",
+            "延伸版本：現在我們的命名規範開頭寫的就是那個字，新人都以為是隨便挑的。"
+          ]
+        },
+        "en": {
+          "content": "On his last day he wiped his desk down and turned the keyboard over, shook it twice.\nI asked if there was anything I should know, and after a few seconds he said, 'That variable is called data'.\nThree years later I took over someone else's service, scrolled through a screen of data that never ended, and finally heard what he had told me.",
+          "editorNote": "For handovers, naming debates, and screens full of variables that never got named.",
+          "variations": [
+            "Short version: his handover was one sentence, and it took me three years to receive it.",
+            "Extension: our naming guide opens with that exact word, and newcomers assume somebody picked it at random."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-493",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://dev.to/pagerlyio/developing-more-efficient-on-call-procedures-for-engineering-teams-28li",
+      "sourceNote": "談值班交接與 runbook 要讓接手的人能直接動手；取「該問的問題常常沒有人問」這個核心，改寫成機房外漏水那晚的一句反問",
+      "tags": [
+        "production",
+        "除錯",
+        "工程師日常",
+        "維護"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "值班那晚機房外面的水龍頭在漏，維修的大哥從工具箱抽出一捲止水帶。\n我一邊盯著手機上的警報，一邊看他把接頭擦乾。\n他纏到一半抬頭問我：『你那個東西，關掉會怎樣？』\n我回答不出來，隔天把這句話抄在便利貼上，貼在螢幕右邊。",
+          "editorNote": "適合在值班、演練關閉服務、或討論那種沒人敢動的服務時引用。",
+          "variations": [
+            "短版：便利貼上只有六個字，關掉會怎樣。",
+            "延伸版本：那捲止水帶後來一直放在我桌上，沒人問過它為什麼在那裡。"
+          ]
+        },
+        "en": {
+          "content": "The night I was on call, the tap outside the server room was leaking, and the maintenance guy pulled a roll of waterstop tape out of his toolbox.\nI kept one eye on the alerts on my phone and one on him drying off the joint.\nHalfway through wrapping it he looked up at me and asked, 'That thing of yours, what happens if you switch it off?'\nI had no answer, so the next day I copied the question onto a sticky note and stuck it to the right edge of my monitor.",
+          "editorNote": "For on-call nights, shutdown drills, and the service nobody dares to touch.",
+          "variations": [
+            "Short version: five words on a sticky note, what happens if you switch it off.",
+            "Extension: the roll of tape ended up living on my desk, and nobody has ever asked why it's there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-494",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
+      "sourceNote": "二十年心得清單裡談到別太早相信自己的設計、系統要做小；取「最早看出不對勁的常常是最菜的那個人」這個核心，改寫成實習生看出檔名對不上",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "工程師日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "實習生上禮拜坐在我後面看我用 AI 一路生下去，忽然插一句：『它剛剛那個檔名，跟你上一句叫它做的不一樣』。\n我回他應該還好。整個下午我都在兩個資料夾之間搬東西。現在開新專案，我會先把檔名念出來一次。",
+          "editorNote": "適合在用 AI 一路生程式、或講那種小地方對不上卻要賠一個下午的時候引用。",
+          "variations": [
+            "短版：最早看出不對勁的，是坐在後面什麼都還不會的那個。",
+            "延伸版本：他現在也一路生下去了，後面沒有人坐著。"
+          ]
+        },
+        "en": {
+          "content": "The intern sat behind me last week watching me let the AI run, and out of nowhere he cut in, 'That filename it just made isn't the one you asked for two prompts back'.\nI told him it was probably fine. The rest of the afternoon went into moving things between two folders. These days I start a project by reading the filename out loud.",
+          "editorNote": "For letting the AI run unsupervised, and for tiny mismatches that cost you an afternoon.",
+          "variations": [
+            "Short version: the one who spotted it first was the kid behind me who couldn't write any of it yet.",
+            "Extension: he lets it run now too, and there's nobody sitting behind him."
+          ]
+        }
+      }
     }
   ]
 }

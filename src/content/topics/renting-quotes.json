@@ -10811,6 +10811,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-380",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.hbhousing.com.tw/news/detail.aspx?num=5699",
+      "sourceNote": "住商不動產房屋網說明水錘效應的成因與夜間噪音放大現象；取其「牆內咚咚聲常被誤認為鄰居」的角度，改寫為原創的雨天情境",
+      "tags": [
+        "租屋",
+        "老屋",
+        "噪音",
+        "房東",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "午後三點半，雲從南邊壓過來，我把窗戶推到剩一條縫。\n雷在遠處滾了一陣，牆裡的水錘跟著咚了兩下，比雷聲還準時。\n我搬張椅子坐到窗邊，手機倒扣在桌上，晾一半的衣服沒有收。\n雨下到六點，房東的未接來電累積三通，我等它停了才回撥。",
+          "editorNote": "適合午後被雨關在租屋處的時候發；也適合傳給住老公寓、分得出哪一種聲音來自牆裡的人",
+          "variations": [
+            "短版：雷還在遠處滾，牆裡的水錘搶先響了兩下。",
+            "延伸版：雨下了三個鐘頭，未接來電三通，我把窗縫又推小了一點。"
+          ]
+        },
+        "en": {
+          "content": "Half past three, the clouds pushed in from the south, and I slid the window down to a finger's width.\nThunder rolled somewhere far off, and the water hammer in the wall knocked twice, ahead of it every time.\nI pulled a chair to the window, left my phone face down on the table, and let the half-dry laundry hang.\nThe rain ran until six, the landlord's missed calls reached three, and I waited it out before calling back.",
+          "editorNote": "For an afternoon shut in by rain in a rented room; good for anyone in an old building who can tell which noises come from inside the wall",
+          "variations": [
+            "Short: Thunder still far off, and the water hammer in the wall got there first.",
+            "Extended: Three hours of rain, three missed calls, and I nudged the window a little further shut."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-381",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.ykal.com/knowledge/green/6-resolved-south-windy.html",
+      "sourceNote": "王牌氣密窗整理南風天反潮的成因與六種除濕做法，包含關窗時機與地板出水；取其「屋子流汗」的畫面，改寫為原創的租屋情境",
+      "tags": [
+        "租屋",
+        "潮濕",
+        "除濕",
+        "老屋",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "連著吹了四天南風，牆角先冒汗，磁磚上浮一層水，襪子踩過去會留印子。\n除濕機的水箱一天倒兩次，門邊墊了兩條舊毛巾，關窗要用膝蓋頂著。\n半夜水錘在牆裡敲，我把枕頭墊高，冷氣轉到除濕，天亮再擦一次地。",
+          "editorNote": "適合南風天地板出水、擦完沒多久又濕的時候發；也適合傳給每年這幾週都在跟牆壁拔河的租屋族",
+          "variations": [
+            "短版：南風吹到第四天，襪子踩在磁磚上會留印子。",
+            "延伸版：水箱倒了第五趟，毛巾換第二條，牆裡那陣咚咚照樣按時報到。"
+          ]
+        },
+        "en": {
+          "content": "Four days of south wind and the wall corners sweat first, then a skin of water sits on the tiles and socks leave prints across it.\nThe dehumidifier tank goes out twice a day, two old towels lie along the door, and the window needs a knee to close.\nAfter midnight the water hammer knocks inside the wall, so I stack the pillow higher, switch the unit to dry, and mop the floor again at daylight.",
+          "editorNote": "For the humid stretch when the floor beads up again minutes after you dry it; good for renters who spend a few weeks a year losing to their own walls",
+          "variations": [
+            "Short: Day four of the south wind, and socks leave prints on the tiles.",
+            "Extended: Fifth tank emptied, second towel down, and the knocking in the wall still keeps its schedule."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-382",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://kikawa.tw/learning/pump101/water-hammer/",
+      "sourceNote": "木川工業研究所解釋水錘現象的壓力波成因與常見發生時機（快速啟閉閥件、水壓偏高）；取其「開關水龍頭就敲」的角度，改寫為原創的寒流夜情境",
+      "tags": [
+        "租屋",
+        "房東",
+        "熱水器",
+        "水電",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "入夜十度，我把兩件外套都穿上，袖口拉過手指。\n熱水要放三分鐘才會來，水一開，水錘就在牆裡連敲三聲。\n電暖器搬到床邊，插頭換過一個孔，跳掉兩次以後只敢開弱的。\n房東回訊很快，說老房子都這樣，叫我水龍頭開小一點。\n我把水開到最小，站著等它熱，外套一直沒有脫。",
+          "editorNote": "適合寒流夜等熱水的那三分鐘發；也適合傳給每年冬天都在跟老熱水器談判的人",
+          "variations": [
+            "短版：熱水放到第三分鐘才來，水錘先響了三聲。",
+            "延伸版：房東說老房子都這樣，於是水龍頭轉到最小，外套穿到天亮。"
+          ]
+        },
+        "en": {
+          "content": "Ten degrees after dark, I put both jackets on and pulled the cuffs over my fingers.\nHot water takes three minutes to arrive, and the second the tap opens the water hammer raps three times inside the wall.\nThe heater moved next to the bed, the plug moved to a different socket, and after two trips I only dared run it on low.\nThe landlord answers fast, says old buildings are all like that, and tells me to open the tap less.\nI turned it down as far as it goes, stood there while it warmed, and never took the jackets off.",
+          "editorNote": "For the three minutes you stand waiting on hot water during a cold snap; good for anyone who negotiates with an ancient water heater every winter",
+          "variations": [
+            "Short: Three minutes before the hot water shows up, and the water hammer beats it by three knocks.",
+            "Extended: Old buildings are all like that, he says, so the tap stays barely open and the jackets stay on until morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-383",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://edu.cwa.gov.tw/PopularScience/wt/wt_31.html",
+      "sourceNote": "中央氣象署數位科普網說明午後對流與夏季悶熱無風的成因；取其「熱到傍晚都不散」的天氣描述，改寫為原創的租屋夜間情境",
+      "tags": [
+        "租屋",
+        "夏天",
+        "冷氣",
+        "日常",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三十四度，一絲風也沒有。\n我把電扇對著牆吹，網路上說這樣會涼，吹了半小時又把它轉回來。\n冰箱門開著站了十秒，關上，過一會兒再開一次。\n兩點多提垃圾走到大馬路邊，回來的時候襯衫黏在背上，窗外那排樹一片葉子也沒動。",
+          "editorNote": "適合半夜熱到睡不著、把家裡每一扇門都開過一遍的時候發；也適合傳給還沒裝冷氣那幾年的自己",
+          "variations": [
+            "短版：電扇對著牆吹了半小時，樹葉還是一動也不動。",
+            "延伸版：冰箱門開了三次，襯衫換了兩件，三十四度撐到凌晨還在。"
+          ]
+        },
+        "en": {
+          "content": "Thirty-four degrees, and not one breath of wind.\nI aimed the fan at the wall because the internet said it cools a room, then turned it back around half an hour later.\nStood with the fridge door open for ten seconds, shut it, opened it again a while after.\nTook the trash out to the main road past two, came back with my shirt stuck to my back, and not a single leaf on the trees outside had moved.",
+          "editorNote": "For the sleepless night when you have opened every door in the place; good to send to the version of you who lived years without air conditioning",
+          "variations": [
+            "Short: The fan faced the wall for half an hour and the leaves still had not moved.",
+            "Extended: Fridge door three times, two shirts changed, and thirty-four degrees still holding at dawn."
+          ]
+        }
+      }
     }
   ]
 }
