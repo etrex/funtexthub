@@ -11133,6 +11133,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "aq-452",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.toyota.com.tw/CarSchool/articles/detail/55",
+      "sourceNote": "TOYOTA 車主小學堂說明冷胎壓的定義（停放三小時以上或行駛未滿一點五公里）、標準值貼紙位置，以及胎壓偏低時胎面中央內凹、支撐不足會造成異常磨耗；作為車行對話裡數字與判斷的背景參考，內容全為原創改寫",
+      "tags": [
+        "生活",
+        "長大",
+        "初級大人",
+        "身體"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這台胎壓前輪剩二十六，後輪三十，兩個月沒進來了吧。」\n「有差那麼多喔，我騎起來還好啊。」\n「你不會發現，它一天掉一點點，你只會覺得今天比較累。」\n「那還能騎嗎。」\n「能騎，車又沒壞，就是同一條路你會多花兩分鐘。」\n「那先不用了，我趕時間。」",
+          "editorNote": "適合在明明什麼都還撐得住、卻莫名比以前吃力的那種日子分享，也適合傳給總說「還好啊」的朋友",
+          "variations": [
+            "短版：「你這台胎壓前輪剩二十六，後輪三十。」「有差那麼多喔，我騎起來還好啊。」",
+            "延伸版：「那我下次一起弄。」「你上次也是這樣講的，我還記得你那天也趕時間。」"
+          ]
+        },
+        "en": {
+          "content": "\"Your tire pressure's down to twenty-six up front, thirty in the back. Two months since you last came in, right?\"\n\"Is it really off by that much? It rides fine to me.\"\n\"You won't notice. It drops a little each day, and all you feel is that today was heavier than yesterday.\"\n\"Can I still ride it, though.\"\n\"You can ride it. Nothing's broken. The same road just takes you two minutes longer.\"\n\"Leave it for now then, I'm in a hurry.\"",
+          "editorNote": "Good for the days when everything still holds up but costs more than it used to, and for the friend whose answer is always \"I'm fine\"",
+          "variations": [
+            "Short: \"Your tire pressure's down to twenty-six up front, thirty in the back.\" \"Is it really off by that much? It rides fine to me.\"",
+            "Extended: \"I'll get it all done next time.\" \"That's what you told me last time. You were in a hurry that day too, I remember.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-453",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.ptt.cc/bbs/biker/M.1660715733.A.A01.html",
+      "sourceNote": "PTT biker 板討論車行師傅充氣時看錯輪胎標示（把 Max Load 當成胎壓上限）、不同員工說法互相矛盾，網友建議以車主手冊為準、自己顧自己的車；作為「有看過，沒什麼問題」這種轉手判斷的背景參考，內容全為原創改寫",
+      "tags": [
+        "生活",
+        "長大",
+        "高級大人",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你車停外面喔，我剛剛下來有看到。」\n「嗯，等一下要牽去換機油。」\n「那家會順便幫你看前後輪吧，你可以問一下。」\n「有看過，沒什麼問題。」\n「那就好，沒壞就好。」\n「對，沒壞。」\n「欸，下禮拜那個東西你哪天有空。」",
+          "editorNote": "適合形容那種對話走到一半就自己轉彎、沒有人真的問下去的日常，也適合傳給同組但很久沒聊過的同事",
+          "variations": [
+            "短版：「那就好，沒壞就好。」「對，沒壞。」",
+            "延伸版：「你最近還好吧。」「還好啊。」「喔，那我先上去了。」"
+          ]
+        },
+        "en": {
+          "content": "\"That your car out front? I spotted it on my way down.\"\n\"Yeah, I'm dropping it off for an oil change in a bit.\"\n\"That place checks your tires while they're at it. You could ask them.\"\n\"They already had a look. Nothing wrong with it.\"\n\"Good, then. As long as it isn't broken.\"\n\"Right. Not broken.\"\n\"Hey, that thing next week, what day works for you?\"",
+          "editorNote": "Good for describing the conversation that turns a corner before it gets anywhere, and for the coworker you haven't actually talked to in months",
+          "variations": [
+            "Short: \"Good, then. As long as it isn't broken.\" \"Right. Not broken.\"",
+            "Extended: \"You doing all right lately?\" \"Sure, all right.\" \"Cool. I'm heading back up.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-454",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.carboy.tw/article/785",
+      "sourceNote": "Carboy 胎壓對照表專文整理建議數值與正常範圍（一般轎車三十到三十六 psi）、單位換算，並提醒氣溫每降十度胎壓約掉一 psi、建議每兩週量一次；作為「都在範圍裡面」這句台詞的背景參考，內容全為原創改寫",
+      "tags": [
+        "生活",
+        "長大",
+        "初級大人",
+        "開車"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這台騎起來有點沉，是我的錯覺嗎。」\n「可能吧，我天天騎，沒感覺。」\n「上次我借的那天沒有這麼重。」\n「胎壓我上個月量過，數字都在範圍裡面。」\n「範圍裡面也有分啊，剛好卡在最低那格也叫在範圍裡面。」",
+          "editorNote": "適合分享給每項指標都及格、可是自己知道哪裡不太對的人，也適合當成朋友借過你的車之後那段對話",
+          "variations": [
+            "短版：「你這台騎起來有點沉，是我的錯覺嗎。」「可能吧，我天天騎，沒感覺。」",
+            "延伸版：「那你要不要去量一下。」「量過就是那個數字，量幾次都一樣。」"
+          ]
+        },
+        "en": {
+          "content": "\"This thing rides heavy. Is that just me?\"\n\"Could be. I'm on it every day, so I'd be the last to notice.\"\n\"It didn't feel this heavy the day I borrowed it.\"\n\"I had the tire pressure read last month. Every number sat inside the range.\"\n\"There's inside the range and there's inside the range. Parked right at the bottom of it still gets to call itself inside.\"",
+          "editorNote": "Good for anyone whose numbers all pass while they can tell something is off, and for the talk that follows a friend borrowing your car",
+          "variations": [
+            "Short: \"This thing rides heavy. Is that just me?\" \"Could be. I'm on it every day, so I'd be the last to notice.\"",
+            "Extended: \"Want to go have it read?\" \"It'll come back the same number. It comes back the same however often I go.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-455",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.lesschwab.com/article/car-maintenance/tpms-light-coming-on-in-cold-weather-heres-why.html",
+      "sourceNote": "Les Schwab 說明天冷時胎壓警示燈亮起的原理：氣溫每降十度約掉一 psi，並非漏氣，開一段路後空氣受熱膨脹燈又會自己熄掉，但操控與油耗其實已經受影響；作為「路上比較久卻沒有塞車」這個情境的背景參考，內容全為原創改寫",
+      "tags": [
+        "生活",
+        "長大",
+        "高級大人",
+        "疲累"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「快到了，今天路上比較久。」\n「你六點就下班了吧。」\n「嗯。」\n「那也太久，塞車喔。」\n「沒有，順順的。」\n「喔。到家傳一下。」",
+          "editorNote": "適合放在同一段通勤越走越久的那陣子，也適合傳給每天都準時下班、卻越回越晚的人",
+          "variations": [
+            "短版：「那也太久，塞車喔。」「沒有，順順的。」",
+            "延伸版：「你上禮拜這時候已經在家了。」「對啊。」「那今天怎麼了。」「沒怎麼。」"
+          ]
+        },
+        "en": {
+          "content": "\"Almost there. Roads ate up more time today.\"\n\"You're off the clock at six, though.\"\n\"Mm.\"\n\"That's way too long. Traffic?\"\n\"Nope. Smooth the whole way.\"\n\"Oh. Text me once you're in.\"",
+          "editorNote": "Good for the stretch of weeks when the same commute keeps growing, and for whoever leaves work on time yet gets home later and later",
+          "variations": [
+            "Short: \"That's way too long. Traffic?\" \"Nope. Smooth the whole way.\"",
+            "Extended: \"This time last week you were already home.\" \"Yeah.\" \"So what happened today?\" \"Nothing happened.\""
+          ]
+        }
+      }
     }
   ]
 }
