@@ -9,7 +9,7 @@ check here needs the whole batch in one place.
 Usage:  python3 scripts/check_batch.py --date 2026-08-27
 Exit code 0 = PASS, 1 = FAIL.
 """
-import json, os, sys, argparse, collections
+import json, os, re, sys, argparse, collections
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -179,6 +179,21 @@ def main():
         if miss:
             fails.append(f'missing {field}: {miss[:10]}')
         notes.append(f'missing {field}: {len(miss)}')
+
+    # sourceUrl must not be a fabricated self-reference (2026-09-02 audit found
+    # 78 such rows already in the corpus). Missing is honest debt; invented is
+    # worse, because it reads as sourced. Stop the bleeding, do not backfill.
+    bad_su = []
+    for r in rows:
+        su = (r[3].get('sourceUrl') or '').strip().lower()
+        if not su:
+            continue
+        if 'funtexthub' in su or re.search(
+                r'https?://[^/]*(\.internal|\.local|\.test|localhost)(?![a-z0-9-])', su):
+            bad_su.append(f'{r[0]}:{r[1]}')
+    if bad_su:
+        fails.append(f'fabricated sourceUrl host: {bad_su[:10]}')
+    notes.append(f'fabricated sourceUrl host: {len(bad_su)}')
 
     # -- cross-language line parity (the 8/28 defect) -----------------------
     mm = [r for r in rows if M.line_parity_mismatch(r[3])]

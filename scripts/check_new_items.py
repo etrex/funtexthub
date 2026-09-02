@@ -85,8 +85,23 @@ def main():
         zh = it.get('i18n', {}).get('zh-tw', {})
         en = it.get('i18n', {}).get('en', {})
         c = zh.get('content', '')
-        if not it.get('sourceUrl'):
+        # sourceUrl must point somewhere real. A 2026-09-02 audit found 78
+        # existing items whose sourceUrl was a FABRICATED self-reference --
+        # funtexthub.internal / funtexthub.local / funtexthub.com (a host that
+        # was never registered). A missing sourceUrl is an honest blank; a
+        # made-up one is worse, because it reads as sourced. Stop the bleeding
+        # here; the 1,054 historical rows are recorded as debt and NOT
+        # backfilled (inventing a replacement URL only deepens the problem).
+        su = (it.get('sourceUrl') or '').strip()
+        if not su:
             fails.append(f'{iid}: missing sourceUrl')
+        else:
+            low = su.lower()
+            if 'funtexthub' in low:
+                fails.append(f'{iid}: sourceUrl is a self-reference ({su}) '
+                             f'-- cite a real external source, or none')
+            if re.search(r'https?://[^/]*(\.internal|\.local|\.test|localhost)(?![a-z0-9-])', low):
+                fails.append(f'{iid}: sourceUrl host is not publicly resolvable ({su})')
         if not en.get('content', '').strip():
             fails.append(f'{iid}: missing en content')
         if not zh.get('editorNote', '').strip():
