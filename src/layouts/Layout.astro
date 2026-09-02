@@ -11,6 +11,12 @@ interface Props {
 
 const { title, description = 'FunTextHub - Daily curated fun texts', lang, currentPath = '' } = Astro.props;
 const t = useTranslations(lang);
+
+// Single source of truth for absolute URLs (astro.config.mjs `site`).
+const origin = Astro.site?.origin ?? 'https://funtexthub.pages.dev';
+// Build output is directory-format, so every canonical/alternate URL ends with a slash.
+const path = currentPath === '' || currentPath === '/' ? '/' : (currentPath.endsWith('/') ? currentPath : `${currentPath}/`);
+const canonical = `${origin}/${lang}${path}`;
 ---
 
 <!doctype html>
@@ -21,10 +27,17 @@ const t = useTranslations(lang);
     <meta name="description" content={description} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{title} | FunTextHub</title>
+    <link rel="canonical" href={canonical} />
     {supportedLangs.map(l => (
-      <link rel="alternate" hreflang={l} href={`https://funtexthub.com/${l}${currentPath}`} />
+      <link rel="alternate" hreflang={l} href={`${origin}/${l}${path}`} />
     ))}
-    <link rel="alternate" hreflang="x-default" href={`https://funtexthub.com/zh-tw${currentPath}`} />
+    <link rel="alternate" hreflang="x-default" href={`${origin}/zh-tw${path}`} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="FunTextHub" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
     <!-- Google AdSense placeholder - replace with your actual ad client ID -->
     <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
   </head>
