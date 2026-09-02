@@ -7177,6 +7177,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-243",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.csjh.ntpc.edu.tw/p/406-1000-11368,r89.php",
+      "sourceNote": "新北市中山國中健康促進頁面的「學童視力健康檢查結果複檢通知單」表單下載說明，借其回條欄位改寫成家長手寫的便條",
+      "tags": [
+        "校園生活",
+        "眼鏡",
+        "家人",
+        "觀察"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "冰箱上那張紙是我媽寫的，字比健康中心印的還大：\n回條哪天交回去：星期五早自習\n要帶的：那張綠色的單子、健保卡、舊眼鏡\n不用帶的：錢，她說她已經轉給我了\n她補了一行：驗光的時候試鏡片會一直換，你就照實說看不看得清楚\n最後一句寫在角落，字縮得很小：不要為了快點結束就說看得到\n我把紙折成四折，塞進學生證的夾層。",
+          "editorNote": "適合寫家長比你還在意這件事的時候；那張紙上最重要的一行，往往寫在角落。",
+          "variations": [
+            "短版：「要帶的：綠色單子、健保卡、舊眼鏡；不用帶錢。」",
+            "延伸版：「角落那行字最小：不要為了快點結束就說看得到。」"
+          ]
+        },
+        "en": {
+          "content": "The paper on the fridge is my mom's handwriting, bigger than anything the health office prints:\nDay the slip goes back: Friday, morning study period\nBring: the green form, insurance card, old glasses\nDon't bring: money, she says she already transferred it\nShe added a line: they keep swapping the trial lenses during the exam, so just say honestly whether you can see\nThe last line sits in the corner with the letters shrunk down: don't say you can see it just to get it over with\nI folded the paper into quarters and slid it behind my student ID.",
+          "editorNote": "For when a parent cares about this more than you do. The line that matters most on that paper is usually the one squeezed into the corner.",
+          "variations": [
+            "Short version: \"Bring: green form, insurance card, old glasses. Don't bring money.\"",
+            "Longer version: \"The smallest line was in the corner: don't say you can see it just to finish faster.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-244",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.owndays.com/tw/zh_tw/services/lens-replacement",
+      "sourceNote": "OWNDAYS 台灣鏡片更換服務頁說明製作天數與到店取件流程，借其取件通知改寫成學生自己往下續寫的備忘錄",
+      "tags": [
+        "校園生活",
+        "眼鏡",
+        "自嘲",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "簡訊只有三行，第四行以後是我自己在備忘錄裡接下去打的。\n「您訂購的鏡片已經到店，營業時間內都可以來拿。」\n拿的那天：這禮拜六，順便把體育服帶回家洗\n還剩幾天：三天，剛好考完地理\n自己加的一項：問她上次那副試鏡片為什麼夾在鼻樑上會一直往下滑\n再加一項：別再回答「都可以」，上回這樣講，配出來就一直不對。",
+          "editorNote": "適合寫收到取件通知那天；官方訊息只有三行，剩下的都是你自己補上去的。",
+          "variations": [
+            "短版：「鏡片到店了，我在下面自己加了兩項。」",
+            "延伸版：「三天後去拿，順便問那副試鏡片為什麼會往下滑。」"
+          ]
+        },
+        "en": {
+          "content": "The text was only three lines long; everything from the fourth line down I typed into my own notes app.\n\"The lenses you ordered have arrived in store, and you can collect them any time we're open.\"\nDay to collect: this Saturday, and take the gym kit home to wash while I'm out\nDays left: three, right after the geography test\nAdded by me: ask her why that pair of trial lenses kept sliding down the bridge of my nose\nOne more: stop saying \"either is fine\" this time, because that's what I said before and the pair came out wrong.",
+          "editorNote": "For the day the collection message lands. The official part runs three lines; the rest is whatever you tack on yourself.",
+          "variations": [
+            "Short version: \"Lenses are in. I tacked two more lines underneath.\"",
+            "Longer version: \"Collect them in three days, and ask why that trial pair kept sliding down.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-245",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://www.morefine-optical.com/blog/posts/optometry",
+      "sourceNote": "摩菲爾眼鏡的驗光流程與迷思說明，含戴著試鏡片走動看遠看近的試戴步驟，借其流程細節寫成健康中心的三格追蹤卡",
+      "tags": [
+        "校園生活",
+        "眼鏡",
+        "厭世",
+        "觀察"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "追蹤卡上有三格，護理師說填滿就不用再來找她。\n第一次：五月，我寫「已就醫」，其實只待了三分鐘，醫生看一眼就簽名。\n第二次：七月，我寫「配鏡中」，在店裡坐了二十分鐘，換過的試鏡片有六片。\n第三個格子還空著，日期那一欄我先用鉛筆寫上九月十九。\n鉛筆擦得掉，所以那天到底會不會去，現在還不算數。",
+          "editorNote": "適合寫被追蹤、被填格子的那種學生日常；空著的那一格，才是真正還沒發生的事。",
+          "variations": [
+            "短版：「三格填滿就不用再來，最後一格我用鉛筆寫。」",
+            "延伸版：「五月三分鐘，七月二十分鐘，九月十九號還擦得掉。」"
+          ]
+        },
+        "en": {
+          "content": "The tracking card has three boxes, and the nurse said once they're full I don't have to come back to her.\nFirst box, May: I put down \"seen a doctor,\" though I was in there three minutes and he signed after one look.\nSecond box, July: I put down \"getting glasses,\" twenty minutes on a stool in the shop, six trial lenses swapped in and out.\nThe third box is still blank, and in the date column I've penciled in September nineteenth.\nPencil rubs out, so whether I actually go that day doesn't count for anything yet.",
+          "editorNote": "For the kind of school life that comes with boxes to fill and someone keeping track. The empty box is the honest one.",
+          "variations": [
+            "Short version: \"Fill all three boxes and you're done. The last one I did in pencil.\"",
+            "Longer version: \"Three minutes in May, twenty in July, and September nineteenth still rubs out.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-246",
+      "dateAdded": "2026-09-02",
+      "sourceUrl": "https://eyeplus.com.tw/myths-of-optician",
+      "sourceNote": "EYEPLUS 艾佳／聚英眼科的配鏡注意事項文章，說明度數不適的更換與回店複查機制，借其時間條款寫成鉛筆盒裡那張卡片",
+      "tags": [
+        "校園生活",
+        "眼鏡",
+        "拖延",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "卡片背面印著一行小字：度數半年內可以免費換一次鏡片，日期寫到二月十四。\n我用紅筆把那個日期圈起來，夾進鉛筆盒，之後就再也沒翻開過，只有找橡皮擦的時候會摸到那個角。\n等到卡片邊緣被摸到起毛，二月早就過去了，我才注意到自己看黑板一直是瞇著眼睛的。\n它現在還在鉛筆盒裡，已經變成一張很硬的紙。",
+          "editorNote": "適合寫錯過一個沒有人會提醒你的日子；沒有人催，於是它就這樣過去了。",
+          "variations": [
+            "短版：「紅筆圈起來的那天，過了我才發覺。」",
+            "延伸版：「半年免費換一次，我把它放到變成一張很硬的紙。」"
+          ]
+        },
+        "en": {
+          "content": "On the back of the card, in small print: one free lens swap within six months if the prescription is off, good through February fourteenth.\nI ringed that date in red pen and slid the card into my pencil case, and after that I never opened it again, though my fingers found that corner every time I dug around for an eraser.\nBy the time the edge had gone furry from being touched, February was long behind me, and I noticed I had been squinting at the board all along.\nIt's still in the pencil case now, just a very stiff piece of paper.",
+          "editorNote": "For missing a date that nobody was ever going to remind you about. No one chased it, so it simply went by.",
+          "variations": [
+            "Short version: \"The date I ringed in red went past before I clocked it.\"",
+            "Longer version: \"One free swap in six months, and I kept it until it was only stiff paper.\""
+          ]
+        }
+      }
     }
   ]
 }
