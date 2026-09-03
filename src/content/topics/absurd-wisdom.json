@@ -13184,6 +13184,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-506",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://academy.moa.gov.tw/course.php?WS_id=135&batch_id=3905",
+      "sourceNote": "Ministry of Agriculture Farmers' Academy beginner beekeeping course outline (colony inspection, feeding, tools); used only as factual grounding for an original piece",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "自然",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老蜂農戴好手套才開口，說蜜蜂安靜下來就是牠們安靜了。他掀起蜂箱的蓋子，指著會動的那一片說，會動的就是還活著的。我用力點頭，因為會動的確實還活著。那你剛剛數到幾隻在動？",
+          "editorNote": "適合用在對方講了一長串現象，聽起來很內行，回頭想想只是把眼前看得到的事重講一次的時候。",
+          "variations": [
+            "短版：會動的就是還活著的，這句話從來沒有錯過。",
+            "延伸版：他補了一句，沒在動的那些晚點自己會說明。"
+          ]
+        },
+        "en": {
+          "content": "The old keeper pulls his gloves on before he says anything: when the bees settle down, that means they have settled. He lifts the lid off the hive box, points at the moving patch, and says the ones moving are the ones still alive. I nod hard, because the ones moving are indeed still alive. So how many did you just count moving?",
+          "editorNote": "Use it when someone narrates the thing right in front of you at length, sounds like an expert doing it, and tells you nothing you could not already see.",
+          "variations": [
+            "Short version: The ones moving are the ones alive — a sentence that has never once been wrong.",
+            "Extended: He adds that the still ones will explain themselves later on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-507",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://fae.moa.gov.tw/map/food_item.php?type=AS04&id=395",
+      "sourceNote": "Food and agriculture education platform page on honey: hive boxes, frames, smoking and spinning the harvest, moisture above 20%; background only",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯",
+        "時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這箱怎麼比隔壁那箱重那麼多？」\n「重就是裡面裝的東西比較多。」\n「那我今天該不該搖蜜？」\n「該搖的時候搖，時間就會是對的。」\n「怎麼樣算該搖的時候？」\n「你上禮拜秤過幾公斤？」",
+          "editorNote": "適合用在每一句都接得上你的問題、你真正想問的那件事卻從頭到尾沒被回答的對話。",
+          "variations": [
+            "短版：該搖的時候搖，對得無懈可擊，也幫不上任何忙。",
+            "延伸版：「那我到底搖不搖？」「你抬起來感覺一下重不重。」"
+          ]
+        },
+        "en": {
+          "content": "\"Why is this one so much heavier than the box next to it?\"\n\"Heavier means there is more stuff packed inside.\"\n\"So should I harvest today or not?\"\n\"Harvest it when it should be harvested and the timing takes care of itself.\"\n\"And what counts as when it should be harvested?\"\n\"What did it weigh when you put it on the scale last week?\"",
+          "editorNote": "For the conversation where every reply attaches neatly to your question and the thing you actually asked never gets answered.",
+          "variations": [
+            "Short version: Harvest it when it should be harvested — flawless, and no help whatsoever.",
+            "Extended: \"So do I harvest or not?\" \"Lift it and feel whether it's heavy.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-508",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://www.newsmarket.com.tw/blog/206072/",
+      "sourceNote": "Upstream/Downstream News report on the small hive beetle reaching Taiwan, advising keepers to open and inspect hives frequently; factual grounding only",
+      "tags": [
+        "廢話文學",
+        "日常",
+        "時間",
+        "自然"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上七點：蜂箱還在原地\n中午：飛出去的比飛回來的多\n下午三點：牠們又都回來了\n現在：整個箱子跟早上長得一樣\n那從七點到現在，哪一格跟早上不一樣？",
+          "editorNote": "適合用在一整天都盯著同一件事、寫了滿滿的紀錄，最後發現紀錄上每一行都一樣的時候。",
+          "variations": [
+            "短版：早上長這樣，晚上也長這樣，中間記了四行。",
+            "延伸版：明天照抄一次，紀錄就會變成八行。"
+          ]
+        },
+        "en": {
+          "content": "Seven in the morning: the hive box sits where it sat\nNoon: more of them going out than coming in\nThree in the afternoon: all of them back inside\nNow: the whole box looks the way it looked at breakfast\nSo between seven and now, which frame is different?",
+          "editorNote": "For a day spent watching one thing closely, filling a page with notes, and finding every line on the page says the same thing.",
+          "variations": [
+            "Short version: Looked like that in the morning, looks like that at night, four lines in between.",
+            "Extended: Copy it out again tomorrow and the notes become eight lines."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-509",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://fae.moa.gov.tw/map/food_item.php?type=AS04&id=395",
+      "sourceNote": "Same agriculture-education page: apiary siting advice about shade, sun exposure and wind; reworked into an original scene",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "天氣",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他把整箱搬到樹蔭下，說太陽太大的時候就是會太熱。\n我幫忙抬另一邊，覺得這句話完全正確，也完全沒有告訴我要抬到多遠。\n樹蔭底下他把蜂箱放好，蹲著看了很久，才問我：這片影子中午還在不在？",
+          "editorNote": "適合用在別人給了一句絕對正確的判斷，而那句話對你接下來要做什麼完全沒有幫助的時候。",
+          "variations": [
+            "短版：太熱的時候確實比較熱，這句挑不出毛病。",
+            "延伸版：他又說，搬到不熱的地方就不會熱了。"
+          ]
+        },
+        "en": {
+          "content": "He carries the whole box into the shade and says that when the sun is strong, it does get hot.\nI take the other handle, and he is entirely right, and I still do not know how far we are walking.\nHe sets the hive box down under the tree, crouches there a long time, and asks me: will this patch of shade still be here at noon?",
+          "editorNote": "For advice that is unarguably correct and does nothing at all to tell you what to do next.",
+          "variations": [
+            "Short version: When it is hotter it is indeed hotter, and there is nothing to argue with.",
+            "Extended: He adds that moving it somewhere cooler will make it cooler."
+          ]
+        }
+      }
     }
   ]
 }
