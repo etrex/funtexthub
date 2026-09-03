@@ -50,13 +50,17 @@ const allTags = [...tagCounts.entries()]
   .slice(0, TAG_MAX_SHOWN)
   .map(([tag]) => tag);
 
-// JSON-LD structured data
+// JSON-LD structured data. The url must come from the same single source as the
+// canonical in Layout.astro -- it was hardcoded to funtexthub.com, a host that was
+// never registered, so every topic page advertised a dead URL to crawlers. Same
+// trailing slash as the canonical, since the build output is directory-format.
+const origin = Astro.site?.origin ?? 'https://funtexthub.pages.dev';
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
   "name": title,
   "description": description,
-  "url": `https://funtexthub.com/${lang}/topics/${topic.slug}`,
+  "url": `${origin}/${lang}/topics/${topic.slug}/`,
   "inLanguage": lang === 'zh-tw' ? 'zh-TW' : 'en',
   "numberOfItems": topic.items?.length ?? 0,
 };
