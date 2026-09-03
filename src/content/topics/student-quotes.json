@@ -7297,6 +7297,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-247",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://arclabs.edu/weld-bead-quality-types-guide/",
+      "sourceNote": "Arc Labs 焊接學校談銲道外觀（寬度均勻、微凸、不得咬邊）與初學者常見缺陷的教學文，借其「一條銲道看得出手穩不穩」的判讀，寫成實習工廠靠牆那塊練習鐵板",
+      "tags": [
+        "校園生活",
+        "上課",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "實習工廠靠牆那塊鐵板上有兩條銲道，一條歪得像被風吹過，另一條是老師示範完留在旁邊的。\n歪的那條下面用粉筆寫著我的座號，字被袖子蹭掉一半。\n同一塊鐵板拿去墊工廠的鐵門了，銲道那面朝下，踩上去會晃一下。\n粉筆字沒了，鏽長在原本寫字的地方。",
+          "editorNote": "適合寫那種你以為會留著當紀念、結果被拿去墊門的東西。時間不用講，它自己會長出來。",
+          "variations": [
+            "短版：「鐵板上的粉筆字掉了，鏽長在原本寫字的地方。」",
+            "延伸版：「歪的那條銲道朝下被踩著，誰也不會蹲下去看它一眼。」"
+          ]
+        },
+        "en": {
+          "content": "There are two weld beads on the steel plate leaning against the shop wall, one wandering like something blew it sideways, the other left there by the instructor after his demo.\nUnder the crooked one my seat number was chalked in, half of it already scuffed off by my sleeve.\nThat same plate props the shop's metal door open now, bead side down, and it wobbles when you step on it.\nThe chalk is gone. Rust came up right where the writing was.",
+          "editorNote": "For the thing you assumed you'd keep as a souvenir, which ended up holding a door open. Nobody has to mention the years; they grow in on their own.",
+          "variations": [
+            "Short version: \"The chalk came off the plate, and rust came up where the writing was.\"",
+            "Longer version: \"The crooked bead faces the floor now, underfoot, and nobody is crouching down to look at it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-248",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://dimevision.app/blog/is-my-weld-bad.html",
+      "sourceNote": "DimeVision 列出初學者七種可目視的銲接缺陷（氣孔、咬邊、飛濺、冷疊等），借其「邊做邊看自己這一條」的即時檢查習慣，寫成手套磨損的位置",
+      "tags": [
+        "校園生活",
+        "自嘲",
+        "大學生",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "領到手套的那天，指節那塊還硬得撐不起來，握焊把要用力才彎得下去。\n右手食指那節破了一個洞，邊緣燒成黑的，剛好露出我拿去按在銲道旁邊試溫度的那一根。\n左手那隻還很新，因為它從頭到現在只負責扶著鐵板。",
+          "editorNote": "適合貼在你覺得自己好像有進步、但唯一的證據是手套破在哪一根手指的時候。",
+          "variations": [
+            "短版：「右手食指破了一個洞，左手那隻還很新。」",
+            "延伸版：「硬到彎不下去的那雙手套，最後燒穿的是我拿去試溫度的那一根。」"
+          ]
+        },
+        "en": {
+          "content": "The day the gloves came out of the bag, the knuckles were too stiff to hold a shape, and it took real force to bend them around the torch handle.\nThere's a hole in the joint of the right index finger, burnt black around the edge, and it exposes the exact finger I press beside the weld bead to see how hot it still is.\nThe left glove is nearly new, because holding the plate steady is all it has ever been asked to do.",
+          "editorNote": "Good for the stretch where your only evidence of getting better is which finger wore through first.",
+          "variations": [
+            "Short version: \"Hole in the right index finger. The left glove is nearly new.\"",
+            "Longer version: \"Gloves too stiff to bend, and the finger that burnt through was the one I use to test the heat.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-249",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://weldingtoolshub.com/how-to-read-a-weld-bead/",
+      "sourceNote": "Welding Tools Hub 教人從波紋是否規則讀出運行速度、並提醒檢查前要有好光線，借其「看不清楚就讀不出來」的前提，寫成護目鏡鏡片變糊",
+      "tags": [
+        "校園生活",
+        "上課",
+        "拖延",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "護目鏡的鏡片看什麼都糊糊的，像隔著一層洗不掉的霧。\n剛借到手上時它很清楚，清楚到火花往哪邊飛都看得出來，我還特地拿它去照走廊的燈。\n中間擦過幾次，到後來連擦布收在哪一格都想不起來。\n它掛在我置物櫃的門把上，糊的那面朝外。",
+          "editorNote": "適合寫那種壞得很慢的東西——沒有哪一天它突然模糊，只有哪一天你不再擦了。",
+          "variations": [
+            "短版：「沒有哪一天它突然變糊，只有哪一天我不再擦。」",
+            "延伸版：「它還掛在門把上，糊的那面朝外，我也沒把它翻過來。」"
+          ]
+        },
+        "en": {
+          "content": "Everything through the goggle lens looks smeared, like a haze that won't wipe off.\nWhen they were first handed to me they were clear, clear enough to follow which way the sparks flew, and I even held them up against the corridor lights on purpose.\nI wiped them a few times along the way, and then I couldn't tell you which drawer the cloth ended up in.\nThey hang on my locker handle, smeared side facing out.",
+          "editorNote": "For things that fail slowly. No single day is the day it goes cloudy; there's only the day you quit wiping it.",
+          "variations": [
+            "Short version: \"No day was the day it went cloudy. There was just a day I quit wiping.\"",
+            "Longer version: \"Still on the locker handle, smeared side out, and I haven't turned it around either.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-250",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://unimig.com.au/blog/welding-beads-what-are-they-and-how-should-they-look/",
+      "sourceNote": "UNIMIG 說明銲道是一次運行後留下的堆疊，好的銲道應均勻微凸，借其「凸起來的那圈最先被摸到」的物理特性寫成口袋裡的鑰匙圈",
+      "tags": [
+        "校園生活",
+        "大學生",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鑰匙圈是在實習課上銲起來的，交件之前我拿砂紙磨到會反光。它跟著我進出口袋兩年多，表面早就黑成一塊沒擦乾淨的鐵。只有那圈銲道還亮著，因為它凸出來，一直被大腿磨。",
+          "editorNote": "適合分享一個自己做壞的東西怎麼變成隨身物；語氣不用感傷，講磨損就好。",
+          "variations": [
+            "短版：「整塊都黑了，只有凸起來那圈還亮。」",
+            "延伸版：「砂紙磨的地方早就沒了，反而是大腿幫我保養了兩年。」"
+          ]
+        },
+        "en": {
+          "content": "I welded that keyring together in shop class, and before handing it in I sanded it until it threw the light back. It has ridden in and out of my pocket for two years, and the surface has gone black like iron nobody bothered to wipe. Only the ring of weld bead still shines, because it stands proud and my thigh has been polishing it the whole time.",
+          "editorNote": "Share it when something you made badly quietly turned into something you carry. Skip the sentiment and talk about wear.",
+          "variations": [
+            "Short version: \"The whole thing went black. Only the raised ring still catches light.\"",
+            "Longer version: \"Whatever the sandpaper did wore off years ago, and my thigh has been doing the upkeep instead.\""
+          ]
+        }
+      }
     }
   ]
 }
