@@ -12304,6 +12304,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-421",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://news.tvbs.com.tw/life/647564",
+      "sourceNote": "台灣口頭禪整理報導，取其中「啊不然勒」的頂回去語氣作為概念，情境與文字自行重寫",
+      "tags": [
+        "啊不然勒",
+        "口頭禪",
+        "語氣",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "稻埕上那片米要不要翻，阿嬤站在屋簷下問我，我回她啊不然勒。\n說完才想起來她問的是要不要，我卻照有沒有回，於是站起來把整片米從西邊耙到東邊。\n耙完她又問一次，我還是先回啊不然勒，才補上一句翻好了。",
+          "editorNote": "「啊不然勒」是把問題原封頂回去的回應，意思接近「這還用問」，語氣輕但帶一點嗆。它幾乎只在平輩之間或對晚輩流通，對長輩講就直接變成沒禮貌，所以脫口而出之後多半得用行動補回來。想用得安全一點，留給對方明知故問的場合。",
+          "variations": [
+            "短版：阿嬤問稻埕的米要不要翻，我先回啊不然勒，再站起來把整片耙過一次。",
+            "延伸版：把米換成花生，收在「她再問一次的時候我先回啊不然勒，手已經伸到耙子上」。"
+          ]
+        },
+        "en": {
+          "content": "Grandma called from under the eaves to ask whether the rice spread across the 稻埕 needed turning, and 啊不然勒 came out of me on reflex.\nIt only registered afterward that she was asking whether to do it, while I had answered as if she asked whether it was done, so I stood up and raked the whole spread from the west end over to the east.\nWhen she asked again I still led with 啊不然勒 before adding that it was turned.",
+          "editorNote": "啊不然勒 sends a question straight back where it came from, landing somewhere between \"what else?\" and \"you had to ask?\" It travels among peers and downward to juniors; aimed at an elder it reads as plain rudeness, which is why the reflex version usually gets paid back in labor about four seconds later. Save it for the moments when the other person already knows the answer.",
+          "variations": [
+            "Short version: Grandma asks whether the rice on the 稻埕 needs turning, I fire back 啊不然勒, then get up and rake the whole spread.",
+            "Extended: swap the rice for peanuts, ending on \"she asks once more and 啊不然勒 arrives while my hand is already on the rake\"."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-422",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://english.cool/common-taiwanese-sayings/",
+      "sourceNote": "台灣常見口語與英文對照整理，取「我跟你講」作為引起注意的起手式概念，情境與文字自行重寫",
+      "tags": [
+        "我跟你講",
+        "口頭禪",
+        "日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每句話開頭都要先放我跟你講，少了那四個字我就講不順。\n昨天只是要說影印機沒紙，我跟你講一出口，同事放下杯子轉過來，等了兩秒。\n紙補完他走回來問我剛剛還有沒有別的事，我說沒有，就是紙。",
+          "editorNote": "「我跟你講」本來是要人專心聽的起手式，用久了會退化成一個純粹的節拍器，講什麼都得先放一句。聽的人照字面反應，把手邊的事停下來，小事就被抬成大事。真的有重要的話要說時，反而得先聊兩句沒營養的把節拍消耗掉。",
+          "variations": [
+            "短版：我跟你講一出口，同事就放下杯子轉過來，結果我只是要說影印機沒紙。",
+            "延伸版：把影印機換成飲水機，收在「他問完還有別的嗎，我又先講了一次我跟你講」。"
+          ]
+        },
+        "en": {
+          "content": "Nothing I say gets off the ground unless 我跟你講 goes in front of it first.\nYesterday the entire message was that the copier had run out of paper, but the 我跟你講 landed first, so my coworker set down his mug, swiveled around, and waited two seconds.\nOnce the tray was loaded he came back over and asked whether there had been anything else, and I said no, just the paper.",
+          "editorNote": "我跟你講 started out as a way to make someone actually listen, and with enough mileage it degrades into a metronome you have to hit before any sentence at all. Listeners take it at face value and stop what they are doing, which quietly promotes trivia into news. The awkward part is that when something genuinely matters, the opener has already been spent on something small.",
+          "variations": [
+            "Short version: 我跟你講 goes out, the mug goes down, the chair swivels, and all I had was an empty paper tray.",
+            "Extended: swap the copier for the water cooler, ending on \"he asks if that was all, and 我跟你講 comes out one more time\"."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-423",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://news.tvbs.com.tw/life/647564",
+      "sourceNote": "台灣口頭禪整理報導，取日常收尾語「先這樣」的用法概念，情境與文字自行重寫",
+      "tags": [
+        "先這樣",
+        "口頭禪",
+        "日常",
+        "語氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "掛電話前我固定會講的幾句\n先這樣\n啊對了，還有一件事\n米下午我拿去稻埕曬。\n好，那先這樣。\n你外套記得收進來。",
+          "editorNote": "「先這樣」是台灣人結束通話的標準收尾，字面上留了一個「先」，等於明說後面還接得下去，所以它經常出現在通話的中段。真的想掛的話，講完就把手機拿離耳朵，別留空檔給對方補話。",
+          "variations": [
+            "短版：先這樣、啊對了還有一件事、米下午拿去稻埕曬、好那先這樣。",
+            "延伸版：把外套換成腳踏車，收在「好那先這樣，你車牽進來」。"
+          ]
+        },
+        "en": {
+          "content": "The lines I always run through before hanging up\n先這樣\noh right, one more thing\nI'm taking the rice out to the 稻埕 this afternoon.\nOkay, 先這樣 then.\nBring your jacket inside.",
+          "editorNote": "先這樣 is the standard Taiwanese sign-off for a phone call, and the 先 inside it openly reserves the right to keep going, which is why it turns up so often in the middle of the call. If you actually mean to hang up, move the phone away from your ear as you say it and leave no gap for the other side to fill.",
+          "variations": [
+            "Short version: 先這樣, oh one more thing, the rice goes out to the 稻埕 later, okay 先這樣 then.",
+            "Extended: swap the jacket for a bicycle, ending on \"okay 先這樣, wheel your bike in\"."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-424",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://english.cool/common-taiwanese-sayings/",
+      "sourceNote": "台灣常見口語與英文對照整理，取否認、擋話類回應的語氣概念延伸到「沒有啦」，情境與文字自行重寫",
+      "tags": [
+        "沒有啦",
+        "口頭禪",
+        "稱讚",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "被稱讚的時候我一律先說沒有啦，就算對方只是說我頭髮剪了也一樣。\n上禮拜主管說那份報表看起來很清楚，我說沒有啦，其實那份我重做了四遍才送出去。\n他停了一下，問我要不要把重做四遍那件事寫進交接文件，我又說沒有啦。",
+          "editorNote": "「沒有啦」是被誇獎時最順的反射動作，功能上比較接近把話題推到旁邊，跟否認事實還是有距離。台灣的社交習慣裡直接收下讚美會顯得太滿，所以大家先擋一句再說。想練習接住稱讚的話，可以在沒有啦後面接一句具體的事實，讓它從擋話變成分享。",
+          "variations": [
+            "短版：主管說報表很清楚，我說沒有啦，那份其實我重做了四遍。",
+            "延伸版：把報表換成一鍋滷肉，收在「大家說好吃，我說沒有啦，鍋子裡那鍋是重滷過的」。"
+          ]
+        },
+        "en": {
+          "content": "Say something nice to me and 沒有啦 is out before anything else, even if all you did was notice I got a haircut.\nMy manager said the report read clearly last week; I said 沒有啦, when in fact I had rebuilt the thing four times before sending it.\nHe paused and asked whether four rebuilds belonged in the handover doc, and 沒有啦 went out again.",
+          "editorNote": "沒有啦 is the smoothest reflex available when someone praises you, and it works less as a denial than as a way to nudge the topic off to one side. Taking a compliment head-on reads as too full in Taiwanese social habit, so people put up a small block first. To practice keeping praise, follow 沒有啦 with one concrete fact and the block turns into news worth sharing.",
+          "variations": [
+            "Short version: the manager calls the report clear, I say 沒有啦, and the truth is it went through four rebuilds.",
+            "Extended: swap the report for a pot of braised pork, ending on \"everyone says it's good, I say 沒有啦, and that pot has been through a second braise\"."
+          ]
+        }
+      }
     }
   ]
 }
