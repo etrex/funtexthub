@@ -10538,6 +10538,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-380",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://news.nextapple.com/life/20260802/675D704382E6348B949EB29C0F3BB366",
+      "sourceNote": "壹蘋新聞網引述精神科醫師談睡不好的多重成因；只取「疲累卻放鬆不下來」的狀態，改寫成童年曬穀場邊被交代的一句普通話在深夜自動重播",
+      "tags": [
+        "失眠",
+        "深夜",
+        "風穀機",
+        "童年",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿公在曬穀場搖風穀機，只跟我說過一句：「站過去一點，穀灰會噴到眼睛。」\n那年我七歲，往旁邊站了半步，後面就沒有下文了。\n現在半夜躺著，這句話會自己浮上來，比明天真正要處理的事還清楚。\n房間裡沒有任何東西在轉，我還是會下意識往旁邊挪。",
+          "editorNote": "適合半夜想起某個沒什麼重量的舊句子、卻怎麼也放不掉的時候。",
+          "variations": [
+            "短版：他只交代過穀灰會噴到眼睛，其他都沒有講。",
+            "延伸版：那台風穀機後來收在倉庫，把手還是轉得動，我試過。"
+          ]
+        },
+        "en": {
+          "content": "At the drying yard my grandfather cranked the winnowing machine, and the only thing he said to me was, \"Stand over a bit, the chaff gets in your eyes.\"\nI was seven, I moved half a step sideways, and nothing followed.\nNow, lying awake at night, that sentence floats up by itself, sharper than whatever I actually have to handle tomorrow.\nNothing in the room is turning, and I still shift sideways without meaning to.",
+          "editorNote": "For nights when some weightless old line comes back and will not be put down.",
+          "variations": [
+            "Short: All he ever told me was that the chaff gets in your eyes, and nothing else.",
+            "Extended: That winnowing machine ended up in the shed, and the crank still turns — I checked."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-381",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://tanss.org.tw/insomnia/",
+      "sourceNote": "自律神經失調症協會頁面談難入睡時大腦停不下來、以及預期性焦慮的循環；改寫成同事一句無關緊要的交代在入睡前優先回放，不寫任何改善建議",
+      "tags": [
+        "失眠",
+        "上班族",
+        "腦內小劇場",
+        "自嘲",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事下班前經過我位子，說了一句「傘我放在你椅子後面」就走了。\n那把傘隔天就還了，這件事早該結束。\n可是每次快睡著，先回來的偏偏是這一句，跟明天要交的東西完全沾不上邊。\n我的腦袋顯然有一套自己挑東西的辦法，而且從來沒問過我。",
+          "editorNote": "適合明明沒什麼大事、腦袋卻自己選了一句廢話重播的凌晨。",
+          "variations": [
+            "短版：傘早就還了，那句話還沒還。",
+            "延伸版：我後來問她記不記得那句，她說她根本沒印象。"
+          ]
+        },
+        "en": {
+          "content": "On her way out a coworker passed my desk, said \"I left the umbrella behind your chair,\" and kept going.\nThe umbrella went back the next day, so the whole thing should have closed there.\nInstead, every time I am nearly asleep, that one line is what returns first, and it has zero bearing on anything due tomorrow.\nMy head clearly runs its own selection process, and it has never consulted me about it.",
+          "editorNote": "For small hours when nothing serious is happening and your brain still picks a throwaway line to replay.",
+          "variations": [
+            "Short: The umbrella went back long ago; the sentence never did.",
+            "Extended: I asked her later whether she remembered saying it, and she had no recollection at all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-382",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://www.sciencedaily.com/news/health_medicine/insomnia/",
+      "sourceNote": "ScienceDaily 失眠研究彙整頁（含 2026 年多篇睡眠時長與夜間清醒研究）；只取「夜裡記憶特別清晰」的觀察，改寫成一句操作提醒被完整重播的單行版本",
+      "tags": [
+        "失眠",
+        "深夜",
+        "風穀機",
+        "翻來覆去",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "表哥教我認風穀機那天，全程只講了「把手不要放掉，它會回彈」，其他一個字都沒有多說。這句話在我睡不著的時候會整句回來，連他中間停頓的長度都一起回來。白天真的要用的東西，反而一句都想不起來。",
+          "editorNote": "適合躺著被沒有用途的記憶精準重播、正事卻一片空白的那種夜。",
+          "variations": [
+            "短版：他只講了把手不要放掉，這句我背得比密碼還熟。",
+            "延伸版：那台機器我後來再也沒碰過，回彈的力道倒是還記得。"
+          ]
+        },
+        "en": {
+          "content": "The day my cousin showed me how a winnowing machine works, all he said was \"don't let go of the crank, it kicks back,\" and not one word more. That line comes back whole whenever I cannot sleep, right down to the length of the pause in the middle of it. The things I actually need in daylight, meanwhile, come back as nothing at all.",
+          "editorNote": "For the kind of night where useless memory replays in perfect detail while the important stuff stays blank.",
+          "variations": [
+            "Short: Don't let go of the crank — I know that better than any of my passwords.",
+            "Extended: I never touched that machine again, but I still remember exactly how hard it kicked back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-383",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://www.weider.tw/zh-TW/blogs/weider_primary_school/167663",
+      "sourceNote": "威德衛教文整理失眠定義與常見成因（含情緒與思緒停不下來）；只取「腦袋停在一件小事上」的感受，改寫成被打斷的半句電話在凌晨反覆被補完",
+      "tags": [
+        "失眠",
+        "家人",
+        "想太多",
+        "凌晨",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽在電話裡講到一半，突然說「鍋子按下去了，等一下再說」，然後就掛了。\n她本來要講的那件事後來沒有再提，我也沒有追問。\n凌晨躺著的時候，我常常在想那半句原本要接什麼；天亮打過去問，她說她也忘了。",
+          "editorNote": "適合被一句沒講完的話卡住、天亮才發現只有自己還記得的凌晨。",
+          "variations": [
+            "短版：她說等一下再說，那個等一下我等了三年。",
+            "延伸版：後來我學會趕在她掛電話以前把話問完，效果有限。"
+          ]
+        },
+        "en": {
+          "content": "Halfway through the call my mother suddenly said \"the rice cooker is on, we'll talk later,\" and hung up.\nWhatever she had been about to say never came up again, and I never chased it.\nLying awake before dawn I keep trying to finish that half sentence for her; when I called in the morning to ask, she had forgotten it too.",
+          "editorNote": "For small hours spent stuck on an unfinished sentence that, by morning, only you seem to remember.",
+          "variations": [
+            "Short: She said we would get to it later, and I have been holding that later for three years.",
+            "Extended: I have since learned to ask everything before she hangs up, with limited success."
+          ]
+        }
+      }
     }
   ]
 }
