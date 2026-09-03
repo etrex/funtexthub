@@ -13596,6 +13596,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-495",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://aipatternbook.com/load-bearing",
+      "sourceNote": "談 load-bearing 的程式碼：agent 只看得到當下的 repo，沒有歷史與事故脈絡，於是很有自信地刪掉它不理解的東西；取「刪掉之前先問這行撐著什麼」這個核心，改寫成陶藝課帶回公司的杯子旁邊那行 log",
+      "tags": [
+        "AI",
+        "code review",
+        "工程師日常",
+        "技術債"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "陶藝教室那批素坯還沒進窯，同事先搬了一個回公司，放在螢幕旁邊裝筆。\n那天我們在看 AI 開的 PR，它刪掉一行八年前的 log，理由寫著沒有任何地方呼叫。\n資深的那位把杯子挪開，指著那行說留著，然後就去開會了。\n杯子早就上完釉，那行 log 也還在，寫它的人當初到底想印出什麼？",
+          "editorNote": "適合在 code review 遇到「看起來沒用但沒人敢刪」的那幾行、或討論 AI 提刪除時引用。",
+          "variations": [
+            "短版：沒有呼叫者，不代表沒有人在靠它。",
+            "延伸版本：那行 log 印的是三個大寫字母，翻遍 wiki 只查到它自己。"
+          ]
+        },
+        "en": {
+          "content": "The greenware from the pottery class hadn't gone into the kiln yet, so a coworker carried one piece back to the office and stood it by her monitor to hold pens.\nThat afternoon we were reading a PR the agent had opened, and it had deleted a log line from eight years ago, reason given: nothing calls this.\nThe senior on the team slid the cup aside, pointed at the line, said leave it, and went off to a meeting.\nThe cup got its glaze long ago and the log line is still there, so what was the person who wrote it trying to print?",
+          "editorNote": "For review threads about lines nobody dares remove, and for agent-proposed deletions.",
+          "variations": [
+            "Short version: no callers is not the same as nobody depending on it.",
+            "Extension: the line prints three capital letters, and the only wiki hit is the line itself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-496",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://securityboulevard.com/2026/08/ai-slop-in-the-enterprise-what-happens-when-engineers-stop-reviewing-ai-generated-code/",
+      "sourceNote": "談 review tax 與「審查者成為第一個看到這段程式的人類」；取這個核心，改寫成一週按下核可十一次、最後問不出作者是誰",
+      "tags": [
+        "AI",
+        "code review",
+        "職場",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這禮拜我按下核可十一次，其中九次的東西是機器寫的，我是第一個看到它們的人類。\n中午有人問我最近在忙什麼，我想了三秒，回說在看東西。\n下午看到一段自己完全跟不上的錯誤處理，作者欄掛的是隔壁座位的帳號。\n我轉過去問他那段誰寫的，他抬起頭反問我，你說哪個檔案？",
+          "editorNote": "適合在審查量爆掉、或大家都在按核可卻沒人真的讀過的時候引用。",
+          "variations": [
+            "短版：核可十一次，讀完的有幾次沒人敢說。",
+            "延伸版本：他也轉過去問了他隔壁的，那排最後沒有人舉手。"
+          ]
+        },
+        "en": {
+          "content": "I hit approve eleven times this week, nine of them on code a machine wrote, which makes me the first human ever to look at it.\nAt lunch somebody asked what I'd been working on. I thought for three seconds and said, looking at things.\nBy mid-afternoon I was staring at an error handler I could not follow at all, and the author field showed the account of the guy one desk over.\nI turned around and asked him who wrote it, and he looked up and asked me back: which file?",
+          "editorNote": "For weeks when the review queue wins, and for approvals nobody actually read.",
+          "variations": [
+            "Short version: eleven approvals, and no count of how many were read.",
+            "Extension: he turned and asked the person past him, and the row ran out of people."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-497",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://dev.to/axiom_agent/the-modern-on-call-playbook-for-sres-in-2026-2n5",
+      "sourceNote": "SRE 值班手冊談警報分級與無責事後檢討，指出半夜被叫醒的警報有八成其實不該叫醒人；取「沒人記得是誰處理掉的」這個核心，改寫成兩個人在對話裡把話題岔開",
+      "tags": [
+        "production",
+        "除錯",
+        "工程師日常",
+        "維護"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「凌晨三點那個警報，最後是誰去按掉的？」\n「不知道，我爬起來的時候它已經變綠了。」\n「值班表上那一格是空白的。」\n「我知道，我今天翻了三遍。」\n「那事後檢討要不要寫進去？」\n「先等一下，你桌上那個灰灰的杯子是誰的素坯？」",
+          "editorNote": "適合在值班交接、事後檢討開頭、或警報自己好了沒人知道為什麼的場合引用。",
+          "variations": [
+            "短版：「所以它到底是自己好的嗎？」「你先回答杯子。」",
+            "延伸版本：「杯子是我的。」「那警報呢？」「⋯⋯杯子是我的。」"
+          ]
+        },
+        "en": {
+          "content": "'The three a.m. page — who ended up clearing it?'\n'No idea. By the time I was upright it had already gone green.'\n'That slot on the on-call sheet is blank.'\n'I know. I've been through it three times today.'\n'So do we put it in the writeup or not?'\n'Hang on — whose greenware is that gray cup on your desk?'",
+          "editorNote": "For handoffs, the top of a postmortem, and alerts that resolve themselves unexplained.",
+          "variations": [
+            "Short version: 'Did it fix itself or not?' 'Answer the cup question first.'",
+            "Extension: 'The cup's mine.' 'And the page?' '...The cup's mine.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-498",
+      "dateAdded": "2026-09-03",
+      "sourceUrl": "https://www.pagerly.io/blog/ai-generated-code-incidents-2026-data-2026-08-30",
+      "sourceNote": "2026 年資料指出 AI 產出已占 42% 的提交、重大事故中位數上升 37%，而九成六的工程師並不完全信任它；取「改動送出去之後那份不確定感」這個核心，改寫成陰乾途中的陶土箱子",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "上線",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週三的陶藝課下課，老師讓大家把素坯裝進紙箱帶回去陰乾，交代別擺在冷氣出風口。\n我把箱子擱在鞋櫃上面，開筆電看下午 AI 改過的三個檔案。\n有兩處我看得出來它為什麼那樣改，第三處讀到第四遍還是不懂。\n隔天早上出門前我先伸手摸了摸箱子，那三個檔案我昨晚有沒有送出去？",
+          "editorNote": "適合在讓 AI 大量改動、或睡前送出改動隔天想不起來的時候引用。",
+          "variations": [
+            "短版：手摸得到的東西記得住，送出去的那三個檔記不住。",
+            "延伸版本：箱子後來乾得很好，那三個檔案我是隔天中午才查清楚的。"
+          ]
+        },
+        "en": {
+          "content": "When Wednesday's pottery class let out, the teacher had us pack the greenware into cardboard boxes to dry at home, and said keep it away from the air conditioning.\nI left the box on top of the shoe cabinet and opened my laptop to look at the three files the AI had edited that afternoon.\nTwo of the edits I could see the reasoning for. The third one I read four times and still didn't get.\nOn my way out the next morning I reached over and touched the box, and then it hit me: did I push those three files last night or not?",
+          "editorNote": "For big AI-driven diffs, and for changes you send at midnight and can't recall by morning.",
+          "variations": [
+            "Short version: the thing you can touch is the thing you remember, not the three files.",
+            "Extension: the box dried beautifully, and I only got the answer straight around noon the next day."
+          ]
+        }
+      }
     }
   ]
 }
