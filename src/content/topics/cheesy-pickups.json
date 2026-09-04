@@ -13145,6 +13145,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-510",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://www.aquariumcoop.com/blogs/aquarium/aquarium-air-pump",
+      "sourceNote": "水族店教學文說氣泡大小可用旋鈕與氣石調小、小氣泡比較安靜，借「把氣泡轉小」這個動作改寫成挑魚現場的側寫",
+      "tags": [
+        "甜",
+        "日常",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你蹲在那排缸前面，手指沿著玻璃邊往下滑，停在最底下那格。\n你說這隻要挑尾巴不透光的，挑好了就別再換。\n店員把打氣幫浦的旋鈕轉小，氣泡從一串變成一顆一顆往上。\n那你剛剛在我這邊停了幾秒，你自己有數嗎？",
+          "editorNote": "適合陪對方逛水族店、還沒開口的階段，最後那句把注意力硬轉回自己身上",
+          "variations": [
+            "短版：氣泡都被轉小了，你還蹲在那一格沒動。",
+            "延伸版：你挑魚挑了四十分鐘，輪到我的時候可以快一點嗎？"
+          ]
+        },
+        "en": {
+          "content": "You crouch in front of that row of tanks, running a finger down the edge of the glass until it stops at the bottom shelf.\nYou say to pick the one whose tail doesn't let light through, and once it's picked, no swapping.\nThe clerk turns the knob on the air pump down, and the bubbles go from a ribbon to one at a time.\nSo how many seconds did you stop at me back there, and were you counting?",
+          "editorNote": "For tagging along at the fish store before you've said anything; the last line drags the attention back onto you",
+          "variations": [
+            "Short version: The bubbles got turned down and you're still crouched at that one shelf.",
+            "Longer version: Forty minutes to pick a fish. Any chance of speeding it up when my turn comes?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-511",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://thehomeaquarist.com/posts/a-simple-weekly-aquarium-maintenance-routine",
+      "sourceNote": "每週維護流程文列出刮玻璃、抽底砂、換掉兩成多的水、對好水溫，借這串固定步驟改寫成代顧魚缸的手寫清單",
+      "tags": [
+        "甜",
+        "日常",
+        "互動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你出國那五天，我幫你顧的缸\n— 打氣幫浦沒關過，氣泡都同一個速度\n— 水換掉四分之一，對好溫度才倒\n— 玻璃內側刮乾淨，刮到指腹發白\n— 魚都在，一隻也沒少\n— 那你什麼時候回來看一眼？",
+          "editorNote": "適合幫對方顧過寵物、關係還沒講明的兩個人，用交代事項的口氣收在一個問句上",
+          "variations": [
+            "短版：缸我顧好了，人還沒顧到。",
+            "延伸版：水溫我對了五次，你落地那天大概還要再對一次。"
+          ]
+        },
+        "en": {
+          "content": "— The five days you were gone, the tank I kept for you\n— Air pump never switched off, bubbles all at one rate\n— A quarter of the water swapped, temperature matched first\n— Inside of the glass scraped clean, scraped till my fingertips went pale\n— Every fish accounted for, not one short\n— So when are you coming by to look?",
+          "editorNote": "For two people who haven't defined anything yet, after one of them pet-sat; a plain rundown that lands on a question",
+          "variations": [
+            "Short version: The tank got taken care of. You didn't.",
+            "Longer version: I matched the water temperature five times. Probably need one more pass the day you land."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-512",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://bettaaquatic.com/blogs/news/how-to-set-up-a-sponge-filter",
+      "sourceNote": "濾材安裝教學說逆止閥的箭頭必須朝向幫浦、裝反就不通氣，借「裝反了才發現」的來回動作改寫成旁觀者視角",
+      "tags": [
+        "甜",
+        "幽默",
+        "可愛"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你買回來那顆逆止閥，箭頭要朝著機器那一邊，你插反了三次才對。我坐在旁邊看你拆了又插、插了又拆，一句話都沒講。第四次通了，氣泡從氣孔一路衝上水面，你回頭。那一下你是在找我，還是在找說明書？",
+          "editorNote": "適合看著對方跟一個小零件較勁的時候，一口氣講完就好，不要補解釋",
+          "variations": [
+            "短版：你插反三次我都沒講，通了才回頭。",
+            "延伸版：箭頭朝機器那邊就會通，朝我這邊的話我也不會退回去。"
+          ]
+        },
+        "en": {
+          "content": "That check valve you brought home has to aim its arrow at the machine, and you had it in backwards three times before it took. I sat beside you while you pulled it out and pushed it in and pulled it out again, and I didn't say a word. On the fourth try it opened, bubbles shot from the hole straight to the surface, and you turned around. Right then, were you looking for me or for the instruction sheet?",
+          "editorNote": "For watching someone lose a fight with one tiny part; say it in a single breath and add nothing after",
+          "variations": [
+            "Short version: Backwards three times and I let you. You only turned around once it opened.",
+            "Longer version: Aim the arrow at the machine and it flows. Aim it at me and I still won't send anything back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-513",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://www.aquariumcoop.com/blogs/aquarium/aquarium-airline-accessories",
+      "sourceNote": "水族配件文說氣石與閥件會改變氣泡大小、連帶影響運轉聲，借「這台到底吵不吵」的實際疑問改寫成店裡的來回問答",
+      "tags": [
+        "甜",
+        "對話",
+        "曖昧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這台打氣幫浦，晚上會不會很吵？」\n你問完就把耳朵貼到缸壁上，自己聽了五秒。\n「老闆說還好，比冰箱小聲。」\n「那放在床頭會不會睡不著？」\n「你要自己聽過才知道。」\n「那我什麼時候可以去你家聽一次？」",
+          "editorNote": "適合一起逛水族店、話題還停在裝備上的階段，只有最後一句把地點換掉",
+          "variations": [
+            "短版：比冰箱小聲，那我可以過去聽嗎？",
+            "延伸版：你耳朵貼著玻璃聽了五秒，我在旁邊聽完了整整一排缸。"
+          ]
+        },
+        "en": {
+          "content": "“This air pump, does it get loud at night?”\nYou asked, then pressed your ear to the side of the tank and listened for five seconds.\n“He says it's fine. Quieter than a fridge.”\n“Would it keep me awake sitting by the bed?”\n“You'd have to hear it once to know.”\n“So when do I get to come over and hear it?”",
+          "editorNote": "For a fish-store trip where the talk is still about gear; only the closing line moves the location",
+          "variations": [
+            "Short version: Quieter than a fridge, you said. Can I come hear it?",
+            "Longer version: Your ear was on the glass for five seconds. Mine was on the whole row of tanks."
+          ]
+        }
+      }
     }
   ]
 }
