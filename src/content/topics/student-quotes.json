@@ -7417,6 +7417,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-251",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://www.troutintheclassroom.org/technical-information/aquarium-maintenance/checklists/",
+      "sourceNote": "Trout in the Classroom 的教室水槽維護清單把工作切成每日／每週兩層並要求逐項打勾，借其「勾被打完不等於事情被做完」的落差寫成社團輪值",
+      "tags": [
+        "校園生活",
+        "自嘲",
+        "同學",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "生物教室那缸魚，這學期輪到我們這排顧。\n— 週一的人餵得很勤\n— 週三的人以為週一餵過了\n— 刮藻刷擱在缸邊，濕的\n— 綠色從角落長回來，速度贏我們\n— 輪值表上每一格都打了勾",
+          "editorNote": "適合貼在你發現一件事被做完的唯一證據，是表格上那個勾。",
+          "variations": [
+            "短版：「綠色回來的速度，比我們輪值的速度快。」",
+            "延伸版：「每一格都打了勾，只有那缸水知道哪幾個勾是補的。」"
+          ]
+        },
+        "en": {
+          "content": "The tank at the back of the biology room is ours this term.\n— Whoever has Monday feeds them generously\n— Whoever has Wednesday assumes Monday did it\n— The algae scraper sits on the rim, still wet\n— Green comes back from the corners faster than we do\n— Every box on the rota is ticked",
+          "editorNote": "Use it when the only proof a job got done is a tick in a box.",
+          "variations": [
+            "Short version: \"The algae comes back faster than our rota moves.\"",
+            "Longer version: \"Every box is ticked. Only the water knows which ticks were backfilled.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-252",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://myfirstfishtank.com/top-five-beginner-algae-scrapers/",
+      "sourceNote": "My First Fish Tank 的刮藻工具指南建議趁薄膜還軟時先刮、並警告只處理眼前那面玻璃等於在處理外觀而非成因，借其心理寫成拖延清單",
+      "tags": [
+        "拖延",
+        "自嘲",
+        "大學生",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 把書桌整面擦過一次\n— 把筆按長短排好\n— 拿刮藻刷把宿舍那缸刷到反光\n— 幫室友的仙人掌換了盆\n— 查了明年的行事曆\n— 把要唸的章節寫成漂亮的表\n— 那張表壓在課本上，課本沒開",
+          "editorNote": "適合期中前那種很忙、但忙的完全不是正事的一週。",
+          "variations": [
+            "短版：「書桌乾淨、筆排好、缸子反光，課本沒開。」",
+            "延伸版：「那一整週我都很忙，忙的每一件事都不會被打分數。」"
+          ]
+        },
+        "en": {
+          "content": "— Wiped the entire desk down once\n— Lined up the pens by length\n— Took the algae scraper to the dorm tank until it shone\n— Repotted my roommate's cactus\n— Looked up next year's calendar\n— Turned the chapters I owe into a pretty table\n— The table is under the textbook, which is still shut",
+          "editorNote": "For the week before midterms when you are busy with everything except the thing.",
+          "variations": [
+            "Short version: \"Clean desk, sorted pens, gleaming tank, unopened textbook.\"",
+            "Longer version: \"I was busy the whole week, and not one of those things gets graded.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-253",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://en.aqua-fish.net/articles/student-aquariums-responsibility-routines",
+      "sourceNote": "aqua-fish.net 談學生顧水族箱養成的日常慣性，主張責任是反覆的小動作而不是一次決定，借其框架寫成「課綱之外真的學會的事」",
+      "tags": [
+        "校園生活",
+        "自嘲",
+        "大學生",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "課綱上沒有寫的東西，我這學期學會了四件。\n— 用刮藻刷把玻璃刮出一條直線\n— 一眼看出誰昨天沒餵\n— 濾材沖到什麼程度算乾淨\n— 綠掉的東西不會自己變回來",
+          "editorNote": "適合學期尾聲盤點自己真的學到什麼，然後發現全都換不到學分。",
+          "variations": [
+            "短版：「我這學期最有用的技能是刮玻璃。」",
+            "延伸版：「綠掉的東西不會自己變回來，這句話我後來用在很多地方。」"
+          ]
+        },
+        "en": {
+          "content": "Four things I learned this term, none of them on the syllabus.\n— How to pull the algae scraper in one straight line\n— How to spot who skipped feeding yesterday\n— How clean a rinsed filter sponge has to be\n— That green things never turn back by themselves",
+          "editorNote": "For end-of-term stock-taking, when everything you learned converts to zero credits.",
+          "variations": [
+            "Short version: \"My most useful skill this term is scraping glass.\"",
+            "Longer version: \"Green things never turn back by themselves. I ended up using that line everywhere.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-254",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://fishlab.com/green-dust-algae/",
+      "sourceNote": "FishLab 說綠塵藻太早擦掉只會很快長回來、建議放它走完週期，借其「不要急著擦」的建議寫成學長留下的手寫交接紙條",
+      "tags": [
+        "校園生活",
+        "自嘲",
+        "同學",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "畢業的學長留了一張紙給我們，字很醜。\n— 燈開八小時就好，開久會綠\n— 刮藻刷用完要沖過再收\n— 缸壁綠了不要急，急沒有用\n— 你們離開之前，它會再綠一次\n紙被水氣泡軟，邊角捲起來，還在原位。",
+          "editorNote": "適合傳給接下這攤事的下一個人，順便告訴他哪幾件事其實不用急。",
+          "variations": [
+            "短版：「缸壁綠了不要急，急沒有用。」",
+            "延伸版：「那張紙早就泡軟了，上面每一條到現在都還準。」"
+          ]
+        },
+        "en": {
+          "content": "A graduating senior left us a note in terrible handwriting.\n— Eight hours of light, no more, or it goes green\n— Rinse the algae scraper before you put it away\n— Green glass is not an emergency, rushing won't help\n— It will go green again before you leave\nThe paper has gone soft with damp, corners curling, still there.",
+          "editorNote": "Pass it to whoever takes the chore over next, along with what not to panic about.",
+          "variations": [
+            "Short version: \"Green glass is not an emergency. Rushing does nothing.\"",
+            "Longer version: \"That note went soft years ago, and every line on it still holds.\""
+          ]
+        }
+      }
     }
   ]
 }
