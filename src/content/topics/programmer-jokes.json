@@ -13716,6 +13716,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-499",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://www.encryptionconsulting.com/47-day-tls-certificate-era/",
+      "sourceNote": "談 2026-03-15 起憑證效期上限縮到 200 天，以及 45% 的組織一年內遇過憑證造成的停機、37.5% 直接由過期憑證引起；取「紙上的日期還在、負責換的人早就不在」這個核心，改寫成翻修屋頂現場壓在瓦片下的一張對折的紙",
+      "tags": [
+        "資安",
+        "維護",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "換屋頂的師傅收工了，半箱瓦片靠在鐵門邊，上頭壓著一張對折的紙。\n到期日：三月十五之後只剩兩百天\n換的人：我，被劃掉，改成一個離職的人\n要帶：機房鑰匙、一台舊筆電\n還剩幾天：紙上十四，我撿到那天負三\n我把紙折回去，塞進瓦片跟鐵門中間。",
+          "editorNote": "適合在憑證、金鑰快到期而沒人認領時引用，也適合講「自動化沒做完，最後就會變成一張紙條」。",
+          "variations": [
+            "短版：到期日還在紙上，那個要去換的人已經不在公司了。",
+            "延伸版本：那台舊筆電後來也找不到，網路孔那一項只好先跳過。"
+          ]
+        },
+        "en": {
+          "content": "The roofers knocked off for the day, half a crate of tiles propped against the metal gate, a folded sheet of paper wedged on top.\nExpires: two hundred days max after March 15\nWho swaps it: me, crossed out, then a guy who quit\nBring: server room key, one old laptop\nDays left: paper says fourteen, day I found it, minus three\nI folded it back over and pushed it down between the tiles and the gate.",
+          "editorNote": "For certs and keys nobody has claimed, and for the gap automation was supposed to close.",
+          "variations": [
+            "Short version: the expiry date is still on the paper. The person listed is not.",
+            "Extension: the old laptop went missing too, so the ethernet part got skipped."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-500",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://whoapi.com/blog/5-all-time-domain-expirations-in-internets-history/",
+      "sourceNote": "整理歷史上知名的網域忘記續約事件（Foursquare 整個服務中斷、Regions Bank 網路銀行掛掉近一週、微軟 passport.com 影響 Hotmail）；取「一筆很便宜的東西沒人認領，掉了才有人發現」這個核心，改寫成搬家紙箱最底下那封沒拆的掛號信",
+      "tags": [
+        "工程師日常",
+        "維護",
+        "技術債",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司搬家那年，紙箱最底下有一封沒拆的掛號信，寄件人是一間我沒聽過的註冊商。\n拆開是一張續約通知，日期停在兩年前的十一月，金額十二塊美金。\n我拿去問誰認得這個網域，行銷說那是舊的官網，機房那邊說那台早就拔掉了。\n後來有人用手機開了那個網址，跳出來的是一個賣二手輪胎的頁面。",
+          "editorNote": "適合在講網域、憑證、訂閱這種「沒人續約才會被發現」的資產，或整理舊東西翻出無主帳單的時候引用。",
+          "variations": [
+            "短版：十二塊美金的東西，兩年後才有人拆開來看。",
+            "延伸版本：查了一下現在的持有者在國外，開價是四位數。"
+          ]
+        },
+        "en": {
+          "content": "The year the office moved, at the bottom of one box sat an unopened registered letter from a registrar I had never heard of.\nInside was a renewal notice, dated November two years earlier, for twelve US dollars.\nI walked it around asking who knew the domain: marketing said it was the old company site, the infra guys said that machine had been unplugged for ages.\nSomebody finally typed the address into a phone, and what loaded was a page selling secondhand tires.",
+          "editorNote": "For domains, certs and subscriptions that only surface when nobody renews them, and for unowned invoices found while clearing out old boxes.",
+          "variations": [
+            "Short version: a twelve-dollar item, and it took two years for anyone to open it.",
+            "Extension: whoever holds the address now is overseas, and the asking price has four digits."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-501",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://clonepartner.com/blog/software-end-of-life-2026-the-complete-eol-calendar/",
+      "sourceNote": "2026 EOL 行事曆列出 Node.js 20 與 MySQL 8.0 同樣終止於 4 月 30 日，四到十月的期限特別密集；取「兩個大限撞在同一天，而待辦還停在四月」這個核心，改寫成老家翻修時在抽屜裡翻到的一張自己寫的便利貼",
+      "tags": [
+        "維護",
+        "技術債",
+        "工程師日常",
+        "工具"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老家在翻修，滿地碎瓦片，我從舊書桌抽屜翻出一張自己寫的便利貼。\n日子：四月三十號\n第一件：換掉當月停止維護的執行環境\n第二件：資料庫大版本同一天不再更新\n第三件：只寫了「還有」，後面空白\n現在九月了，前兩件都沒動，第三件我到今天想不起來是什麼。",
+          "editorNote": "適合在 EOL 期限一路往後拖、或翻到自己寫給自己卻看不懂的待辦時引用。",
+          "variations": [
+            "短版：便利貼上三件事，第三件連寫的人自己都解不出來。",
+            "延伸版本：我把它重新貼回抽屜內側，日子那一欄改寫成明年。"
+          ]
+        },
+        "en": {
+          "content": "They're redoing the old house, broken tiles all over the floor, and in a desk drawer I found a sticky note in my own handwriting.\nDate: April 30\nOne: swap out the runtime that goes unmaintained that month\nTwo: database major version stops updating the same day\nThree: two words, \"and also\", then blank\nIt's September now, the first two are untouched, and I still can't work out what the third one was.",
+          "editorNote": "For EOL deadlines that keep sliding, and for to-do notes your past self left half-written.",
+          "variations": [
+            "Short version: three items on the note, and even its author can't decode the third.",
+            "Extension: I stuck it back inside the drawer and wrote next year where the date used to be."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-502",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://elementalconcept.com/insights/why-legacy-manufacturing-systems-fail-in-2026-and-why-it-rarely-looks-like-failure/",
+      "sourceNote": "談舊系統「沒有崩潰就以為還好」與無人認領的所有權，指出關鍵知識活在個別員工身上而非文件裡；取「他走了以後，交代只剩一張紙」這個核心，改寫成貼在螢幕側邊兩年的交接便條",
+      "tags": [
+        "維護",
+        "技術債",
+        "職場",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "交接那天他留一張紙給我，上面是一台機器的名字，還有一行日期，其他都沒寫。\n我問他這是什麼，他說你不用管它，它自己會跑，只是那個日期到了要記得。\n那張紙我貼在螢幕側邊貼了兩年，膠帶黃掉，字倒是還看得清楚。\n上個月那台機器真的停了，我才發現我從來沒問他，日期到了要做的是什麼。",
+          "editorNote": "適合在交接、值班輪替、或接手一台沒人說得清楚的舊機器時引用。",
+          "variations": [
+            "短版：他交代了日期，沒交代日期到了要幹嘛。",
+            "延伸版本：那個機器名字在公司內部搜尋只有兩筆結果，兩筆都是那張紙的照片。"
+          ]
+        },
+        "en": {
+          "content": "On his last day he left me a slip of paper: the name of one machine, one line with a date, nothing else.\nI asked what it was and he said don't worry about it, it runs itself, just remember when that date comes around.\nThe slip stayed taped to the side of my monitor for two years; the tape went yellow, the writing stayed readable.\nLast month the machine actually stopped, and that was when it hit me that I never asked him what the date was for.",
+          "editorNote": "For handovers, rotations, and inheriting a box nobody left instructions for.",
+          "variations": [
+            "Short version: he handed over the date, never what the date was for.",
+            "Extension: searching that machine name internally returns two hits, both photos of the same slip."
+          ]
+        }
+      }
     }
   ]
 }
