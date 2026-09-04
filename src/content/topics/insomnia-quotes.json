@@ -10662,6 +10662,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-384",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Middle-of-the-night_insomnia",
+      "sourceNote": "英文維基 middle-of-the-night insomnia 條目（夜間醒來後難以再入睡的定義與盛行率）；只取「你醒著的時候世界仍在各自運轉」的角度，改寫成凌晨三個不相干地點的短鏡頭",
+      "tags": [
+        "失眠",
+        "深夜",
+        "凌晨三點",
+        "腦內小劇場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三點十分，客廳的除濕機跳到滿水位，自己停了。\n戲班的廂型車還沒熄火，操縱桿從帆布袋裡露出一截。\n麵攤最後一鍋湯滾起來的時候，老闆把火轉小了兩格。",
+          "editorNote": "適合睡不著、腦子自動在幾個不相干的地方之間切換畫面的那種夜。",
+          "variations": [
+            "短版：除濕機自己停了，我還醒著。",
+            "延伸版：那截露出來的東西到天亮都沒有人收走。"
+          ]
+        },
+        "en": {
+          "content": "3:10 a.m., and the dehumidifier in the living room hits full tank and shuts itself off.\nThe troupe's van is still idling, a control rod poking out of a canvas bag.\nAt the noodle stall the last pot comes to a boil and the owner drops the flame two notches.",
+          "editorNote": "For nights when your head keeps cutting between places that have nothing to do with each other.",
+          "variations": [
+            "Short: The dehumidifier stopped on its own. I didn't.",
+            "Extended: Nobody came back for that rod before daylight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-385",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://www.health.harvard.edu/staying-healthy/too-early-to-get-up-too-late-to-get-back-to-sleep",
+      "sourceNote": "哈佛健康出版 早醒與難以再入睡衛教文（建議醒著超過二十分鐘就離開床舖做安靜的事）；只取「把注意力放到別處」的做法，改寫成三個地方各聽見的一句話",
+      "tags": [
+        "失眠",
+        "深夜",
+        "陪伴",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你聽，這台冰箱半夜會自己抖一下。」\n「操縱桿握久了，手心會留一條紅印子，很難消。」\n「後面兩排沒人坐，你想躺就躺，到站我叫你。」",
+          "editorNote": "適合凌晨只記得別人隨口講過的幾句話、卻想不起自己要做什麼的時候。",
+          "variations": [
+            "短版：冰箱抖的時間比我睡著的時間還準。",
+            "延伸版：這幾句話來自不同的人，他們彼此並不認識。"
+          ]
+        },
+        "en": {
+          "content": "\"Listen — this fridge shakes itself once every night.\"\n\"Hold the control rod long enough and your palm keeps a red line for hours.\"\n\"Nobody's in the back two rows, so lie down if you want, I'll wake you at your stop.\"",
+          "editorNote": "For 3 a.m., when the only lines you can recall are other people's throwaway remarks.",
+          "variations": [
+            "Short: That fridge keeps better time than I do.",
+            "Extended: Three remarks, three people, none of whom have ever met."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-386",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://drhopsyclinic.com/early-awakening-insomnia/",
+      "sourceNote": "禾悅身心醫學診所 早醒型失眠衛教文（提早一至兩小時醒來、難以再入睡的成因與改善）；只取「醒來後別盯著時鐘、讓注意力落在外界」的建議，改寫成三個地點的定格畫面",
+      "tags": [
+        "失眠",
+        "深夜",
+        "凌晨三點",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "戲台後面。操縱桿橫在道具箱上\n早餐店騎樓。零錢被排成一直線\n國道休息站。自動門開了又關",
+          "editorNote": "適合睡不著的時候，把幾個沒有關聯的畫面攤開來看，不解釋也不收尾。",
+          "variations": [
+            "短版：三個地方都亮著，各亮各的。",
+            "延伸版：這幾個畫面之間沒有故事，我卻看了一整晚。"
+          ]
+        },
+        "en": {
+          "content": "Behind the stage. A control rod laid flat on the prop crate\nUnder the breakfast shop awning. Coins pushed into one straight line\nHighway rest stop. The automatic door opens and closes",
+          "editorNote": "For laying a few unrelated night images side by side and explaining none of them.",
+          "variations": [
+            "Short: Three places lit up, each on its own.",
+            "Extended: There is no story between these frames, and I watched them until morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-387",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://www.calm.com/blog/middle-of-the-night-insomnia",
+      "sourceNote": "Calm 部落格 middle-of-the-night insomnia（半夜醒來的成因與六項改善做法）；只取「離開床舖、在昏暗光線下做點安靜的事」的建議，改寫成走出門後看見的三個畫面",
+      "tags": [
+        "失眠",
+        "深夜",
+        "自嘲",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "加油站整排燈都亮著，沒有車進來，有人坐在階梯上剝橘子。\n社區公園那隻狗醒著，主人把牽繩在手腕上繞了兩圈。\n六樓有一戶把窗簾拉開，裡面比外面還暗。",
+          "editorNote": "適合天亮前起來走動、發現外面也有人沒睡的那種時刻。",
+          "variations": [
+            "短版：加油站的燈亮了一整晚，沒有人來加油。",
+            "延伸版：狗看了我一眼就趴回去，牠明顯比我懂怎麼睡。"
+          ]
+        },
+        "en": {
+          "content": "Every light at the gas station is on, no cars pulling in, someone peeling a tangerine on the steps.\nThe dog in the neighborhood park is awake, and its owner loops the leash twice around her wrist.\nOn the sixth floor a curtain slides open, and the room behind it is darker than the street.",
+          "editorNote": "For the hour before dawn when you get up to move around and find other people are also awake.",
+          "variations": [
+            "Short: The gas station stayed lit all night and nobody came.",
+            "Extended: The dog looked at me once and lay back down, clearly better at this than I am."
+          ]
+        }
+      }
     }
   ]
 }
