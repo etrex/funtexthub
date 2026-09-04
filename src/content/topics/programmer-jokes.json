@@ -1460,34 +1460,6 @@
       }
     },
     {
-      "id": "pj-057",
-      "dateAdded": "2026-04-21",
-      "sourceUrl": "https://smileloverz.com/programmer-jokes-and-puns/",
-      "sourceNote": "Light attracts bugs / dark mode joke — popular theme in 2025-2026 collections; rewritten with a story framing instead of a one-liner",
-      "tags": [
-        "dark mode",
-        "bug",
-        "工程師文化",
-        "黑色幽默"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "新進工程師問：「為什麼大家都用深色主題？是護眼嗎？」\n\n資深工程師：「不是。」\n\n新進工程師：「那是因為比較酷？」\n\n資深工程師：「也不是。」\n\n新進工程師：「那是為什麼？」\n\n資深工程師：「因為光會吸引蟲子。」",
-          "editorNote": "貼到任何工程師群組，幾乎所有人都用深色主題，這個理由他們都會接受",
-          "variations": [
-            "工程師使用深色主題的官方理由：減少眼睛疲勞、節省螢幕電量、在夜間不打擾同事。\n非官方理由：光會吸引 bug。"
-          ]
-        },
-        "en": {
-          "content": "A new developer asked: \"Why does everyone use dark mode? Is it easier on the eyes?\"\n\nSenior developer: \"No.\"\n\nNew developer: \"Is it because it looks cool?\"\n\nSenior developer: \"Also no.\"\n\nNew developer: \"Then why?\"\n\nSenior developer: \"Because light attracts bugs.\"",
-          "editorNote": "Post in any developer group — nearly everyone uses dark mode, and this reason is one they'll all immediately accept",
-          "variations": [
-            "Official reasons developers use dark mode: reduces eye strain, saves display power, doesn't disturb colleagues at night.\nUnofficial reason: light attracts bugs."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-058",
       "dateAdded": "2026-04-22",
       "sourceUrl": "https://programmerhumor.io/memes/recursion",
@@ -1766,34 +1738,6 @@
           "editorNote": "Share with any developer who's done code review — everyone has seen the 'nitpicked formatting, missed the actual bug' situation",
           "variations": [
             "Code reviews come in two flavors: hyper-nitpicking formatting, and 'this logic has a fundamental flaw but I don't want to cause offense.' The useful kind lives somewhere in between — and it's rare."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-068",
-      "dateAdded": "2026-04-25",
-      "sourceUrl": "https://teachyourkidscode.com/programming-jokes/",
-      "sourceNote": "Classic dark mode / light attracts bugs joke — rewritten as a short exchange",
-      "tags": [
-        "dark mode",
-        "bug",
-        "工程師日常",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "新來的設計師問：「你們工程師為什麼都用深色主題？眼睛不累嗎？」\n\n工程師頭也不抬：「淺色主題會引來蟲子。」\n\n設計師：「…蟲子？\"\n\n工程師：「Bug。光會引來 bug。」",
-          "editorNote": "傳給喜歡深色主題的工程師或剛入行的設計師，簡短有力，秒懂哏在哪",
-          "variations": [
-            "為什麼工程師的螢幕永遠是黑的？因為蝙蝠俠也不開燈寫程式。"
-          ]
-        },
-        "en": {
-          "content": "The new designer asked: \"Why do you developers all use dark mode? Doesn't it strain your eyes?\"\n\nThe developer didn't look up. \"Light themes attract bugs.\"\n\nDesigner: \"…Bugs?\"\n\nDeveloper: \"Bugs. Light attracts bugs.\"",
-          "editorNote": "Perfect for sharing with dark-mode enthusiasts or new designers who just joined a dev team",
-          "variations": [
-            "Why is every developer's screen pitch black? Because Batman doesn't code with the lights on either."
           ]
         }
       }
@@ -5871,36 +5815,6 @@
       }
     },
     {
-      "id": "pj-211",
-      "dateAdded": "2026-06-09",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "Classic 'dark mode because light attracts bugs' one-liner, rewritten and extended",
-      "tags": [
-        "dark mode",
-        "bug",
-        "一行笑話",
-        "工程師日常"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "為什麼工程師都用深色模式？\n因為亮的會招 bug 啊。",
-          "editorNote": "最適合放在工程師朋友的 IG 限動或團隊 Slack，短短一句秒懂秒笑。",
-          "variations": [
-            "我把編輯器調成深色不是為了護眼，是不想讓 bug 看到自己住哪。",
-            "深色模式：唯一一個我願意全公司統一規格的東西。"
-          ]
-        },
-        "en": {
-          "content": "Why do developers always use dark mode?\nBecause light attracts bugs.",
-          "editorNote": "Perfect for a developer friend's Instagram story or the team Slack. One line, instant laugh.",
-          "variations": [
-            "I switched my editor to dark mode not for my eyes, but so the bugs can't see where I live.",
-            "Dark mode: the one standard I'd happily enforce across the entire company."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-212",
       "dateAdded": "2026-06-09",
       "sourceUrl": "https://snugfam.com/101-funny-programmer-quotes-that-will-make-every-coder-laugh-out-loud-in-2025/",
@@ -8677,33 +8591,6 @@
       }
     },
     {
-      "id": "pj-327",
-      "dateAdded": "2026-07-16",
-      "sourceUrl": "https://www.inside.com.tw/article/3325-59-hilarious-but-true-programming-quotes-for-software-developers",
-      "sourceNote": "'I love the whooshing sound deadlines make' — Douglas Adams style, rewritten",
-      "tags": [
-        "工程師語錄",
-        "拖延",
-        "開發哲學"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "我很喜歡截止日期。\n尤其喜歡它們從我身邊呼嘯而過的那個聲音。",
-          "editorNote": "專案延期時貼到群組，苦中作樂的最高境界，PM 看了會流淚。",
-          "variations": [
-            "延伸：我的估時很準，只要把我講的數字乘以三，再換一個單位就好。"
-          ]
-        },
-        "en": {
-          "content": "I really love deadlines.\nEspecially the whooshing sound they make as they fly right past me.",
-          "editorNote": "Drop it in the channel when a project slips. Peak gallows humor — your PM will weep.",
-          "variations": [
-            "Extension: my estimates are very accurate. Just take my number, multiply by three, and swap the unit."
-          ]
-        }
-      }
-    },
-    {
       "id": "pj-329",
       "dateAdded": "2026-07-16",
       "sourceUrl": "https://carlanotarobot.medium.com/ultimate-list-of-programmer-jokes-puns-and-other-funnies-75264f29baa3",
@@ -8888,33 +8775,6 @@
           "editorNote": "Drop this in any career-change thread and watch the row of 'laughing but also crying' replies roll in.",
           "variations": [
             "Extension: there's no 2028 entry. That cell got outsourced to the AI to fill in."
-          ]
-        }
-      }
-    },
-    {
-      "id": "pj-337",
-      "dateAdded": "2026-07-20",
-      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
-      "sourceNote": "'Two hard things in CS: cache invalidation, naming things, and off-by-one errors' classic, rewritten",
-      "tags": [
-        "命名",
-        "程式碼品質",
-        "工程師思維"
-      ],
-      "i18n": {
-        "zh-tw": {
-          "content": "電腦科學裡只有兩件難事：\n一、快取失效\n二、命名\n三、差一個的錯誤",
-          "editorNote": "面試或分享會冷場時丟這則，懂的人會笑，不懂的人會開始默默數。",
-          "variations": [
-            "延伸：這個笑話我本來想放三個重點，結果放了兩個。"
-          ]
-        },
-        "en": {
-          "content": "There are only two hard problems in computer science:\n1. Cache invalidation\n2. Naming things\n3. Off-by-one errors",
-          "editorNote": "Use it to break an awkward silence in a meetup. The ones who get it laugh; the rest quietly start counting.",
-          "variations": [
-            "Extension: I meant to list three things, but I got two of them."
           ]
         }
       }
