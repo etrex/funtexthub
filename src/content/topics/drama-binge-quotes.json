@@ -9743,6 +9743,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-348",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Invisible&id=651319",
+      "sourceNote": "國家文化記憶庫記載廣興紙寮的抄紙簾（竹簾）如何入槽成紙、需定期保養，原創改編為連日陰雨中把簾子晾著、片子照放的場景",
+      "tags": [
+        "自嘲",
+        "追劇習慣",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "外面下到第三天了，紙寮的屋簷一直在滴水。\n我把抄紙簾靠在牆邊晾著，濕的那面朝外，坐回床上把片子接著放。\n第七集放完換第八集，簾子摸起來還是涼的，我沒有去動它。",
+          "editorNote": "適合連著幾天沒放晴、手邊的事停著、片子卻一直沒停的人。",
+          "variations": [
+            "短版：屋簷滴了三天，簾子靠著牆，第八集自己接上去。",
+            "延伸版：濕的那面朝外擺了一整晚，早上摸還是涼的，片子已經跑到第十一集。"
+          ]
+        },
+        "en": {
+          "content": "Third day of rain, and the eaves of the paper shed haven't stopped dripping.\nI leaned the papermaking screen against the wall to dry, wet side facing out, then sat back on the bed and let the show keep running.\nEpisode seven ended and eight started, the screen still felt cold to the touch, and I left it where it was.",
+          "editorNote": "For anyone whose work has been on hold through a run of gray days while the show never stopped.",
+          "variations": [
+            "Short: Three days of dripping eaves, the screen propped on the wall, episode eight starting on its own.",
+            "Extended: Wet side out all night, still cold in the morning, and by then the show had reached episode eleven."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-349",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://www.taiwanpaper.net/",
+      "sourceNote": "廣興紙寮官網介紹手工抄紙與抄紙 DIY，抄好的紙需壓乾烘乾，原創改編為一週天氣與進度並排的手記",
+      "tags": [
+        "追劇心得",
+        "追劇習慣",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "星期一：起霧，抄紙簾晾在窗邊沒收\n星期二：整天陰，看到第七集\n星期三：午後開始下，簾子挪進屋裡\n星期四：風轉北，窗關上，第八集\n星期五：晴了一個下午，我在睡\n星期六：又下起來，簾子照樣攤著",
+          "editorNote": "適合把天氣和進度寫在同一頁、兩邊都沒進展的人。",
+          "variations": [
+            "短版：一整週只晴了一個下午，那個下午我在睡。",
+            "延伸版：星期日那格還空著，天氣預報跟片單我都沒有再翻開。"
+          ]
+        },
+        "en": {
+          "content": "Monday: fog, screen left drying by the window\nTuesday: gray straight through, got to episode seven\nWednesday: rain after noon, screen carried indoors\nThursday: wind swung north, windows shut, episode eight\nFriday: sun for one afternoon, I was asleep\nSaturday: coming down again, screen still spread out",
+          "editorNote": "For people who keep the weather and their progress on one page and watch neither of them move.",
+          "variations": [
+            "Short: One sunny afternoon in the whole week, and I slept through that one.",
+            "Extended: Sunday's row is still blank; I never opened the forecast or the watchlist again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-350",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://technews.tw/2020/04/04/the-psychology-of-binge-watching/",
+      "sourceNote": "報導自動播放利用蔡氏效應與最少心力法則讓人一集接一集，原創改編為兩人隔著壞天氣互報進度的通話",
+      "tags": [
+        "陪伴",
+        "自嘲",
+        "熬夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你那邊也在下嗎」\n「下很大，剛剛還打雷」\n「我這邊只有風，窗戶一直響」\n「那你把窗關上，我開大聲一點」\n「開大也蓋不過，還剩三集」\n「三集我陪你，明天看樣子也是這種天」",
+          "editorNote": "適合半夜跟朋友一邊報天氣一邊報進度的通話。",
+          "variations": [
+            "短版：「你那邊下嗎」「下很大」「那再看三集」",
+            "延伸版：「風停了沒」「沒有」「那我這邊也不關了，你接著放」"
+          ]
+        },
+        "en": {
+          "content": "\"Is it coming down on your side too\"\n\"Hard, and there was thunder a minute ago\"\n\"Only wind here, the window keeps rattling\"\n\"Shut the window then, I'll turn it up\"\n\"Turning it up doesn't cover it, three episodes left\"\n\"I'll stay for the three, tomorrow looks like more of the same\"",
+          "editorNote": "For the late-night call where you trade weather reports and episode counts.",
+          "variations": [
+            "Short: \"Raining your side?\" \"Pouring.\" \"Then three more episodes.\"",
+            "Extended: \"Wind died down?\" \"Nope.\" \"Then I'm leaving mine open too, keep it playing.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-351",
+      "dateAdded": "2026-09-04",
+      "sourceUrl": "https://climate.cwa.gov.tw/SeasonalClimate?subpage=PlumRain",
+      "sourceNote": "中央氣象署說明梅雨季五到七月的高濕與對流性降水特徵，原創改編為潮濕夜裡除濕機聲蓋過字幕、進度自己往前跑的場景",
+      "tags": [
+        "熬夜",
+        "自動播放",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "南風一吹，牆壁開始冒水，地板踩起來黏黏的。\n除濕機推到床邊轉了整晚，聲音蓋掉一半的字幕。\n我睡著兩次又醒過來，片子自己往前跑了五集。\n往回拉的時候外面天亮了，雨還在下。",
+          "editorNote": "適合在濕氣最重的那幾晚、睡睡醒醒把進度弄丟的人。",
+          "variations": [
+            "短版：除濕機轉了整晚，字幕被蓋掉一半，進度自己往前跑。",
+            "延伸版：五集要往回拉多久我沒算，窗戶外面已經亮了。"
+          ]
+        },
+        "en": {
+          "content": "The south wind came through, the walls started sweating, the floor turned tacky underfoot.\nI pushed the dehumidifier over by the bed and let it run all night, drowning out half the subtitles.\nTwice I dropped off and surfaced again, and the show had carried itself five episodes forward.\nBy the time I dragged it back, it was light outside and the rain was still going.",
+          "editorNote": "For the wettest nights of the year, when dozing off costs you your place.",
+          "variations": [
+            "Short: The dehumidifier ran all night, half the subtitles went under, the show moved on without me.",
+            "Extended: I never worked out how long five episodes takes to rewind; the window had already gone pale."
+          ]
+        }
+      }
     }
   ]
 }
