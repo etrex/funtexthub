@@ -14,6 +14,17 @@ Forms
   list      >=3 lines, >=60% short (<=18 chars), >=50% without terminal 。！？…
   prose     everything else
 
+Reader-visible collapse (added 2026-09-04)
+  `oneline` and `prose` differ only by whether the paragraph carries line breaks;
+  in the rotation era 100% of `oneline` items are multi-sentence, so a reader
+  experiences them as the same shape. Any rule written against the raw four
+  categories can therefore be satisfied invisibly, by unwrapping one prose item.
+  So both readings are reported side by side, and neither replaces the other:
+    raw       prose / oneline / list / dialogue   (what the rule was written against)
+    collapsed prose* (= prose+oneline) / list / dialogue   (what a reader sees)
+  On 2026-09-03 the two readings differed by 4.3x: 16.7% single-form raw vs
+  71.4% collapsed. Exit status still follows the RAW reading, unchanged.
+
 Null model: per file, draw each item independently from THAT file's own form
 distribution since the rotation era. P(all 4 same) = sum(p_f^4). The ratio
 observed/expected is the real signal — a topic that is naturally 95% prose is
@@ -45,6 +56,14 @@ def form(txt):
         if short >= 0.6 and noend >= 0.5:
             return 'list'
     return 'prose'
+
+
+READER_COLLAPSE = {'oneline': 'prose*', 'prose': 'prose*'}
+
+
+def collapsed(fm):
+    """Form as a reader distinguishes it: line-breaking alone is not a form."""
+    return READER_COLLAPSE.get(fm, fm)
 
 
 def load(since):
@@ -86,16 +105,24 @@ def main():
         if not n:
             print('  (no items on that date)')
             return 0
+        cbad = [s for (s, d), its in cells.items() if d == a.date
+                and len({collapsed(f) for f, _ in its}) < a.min_distinct]
         print(f'\n  single-form cells {len(bad)}/{n} ({len(bad)/n*100:.1f}%)'
               f'   want < {a.min_distinct} distinct: 0')
+        print(f'  reader-visible    {len(cbad)}/{n} ({len(cbad)/n*100:.1f}%)'
+              f'   (prose+oneline collapsed; reported, not gated)')
         mix = collections.Counter(f for (s, d), its in cells.items() if d == a.date
                                   for f, _ in its)
         t = sum(mix.values())
         print('  batch mix: ' + '  '.join(f'{k} {v/t*100:.1f}%' for k, v in mix.most_common()))
         return 1 if bad else 0
 
-    obs = exp = tot = 0.0
+    obs = exp = tot = cobs = cexp = 0.0
     monoform = collections.Counter()
+    cfilemix = collections.defaultdict(collections.Counter)
+    for slug, m in filemix.items():
+        for f, v in m.items():
+            cfilemix[slug][collapsed(f)] += v
     for (slug, d), items in cells.items():
         if d < a.since or len(items) != 4:
             continue
@@ -104,15 +131,24 @@ def main():
         if len(set(fs)) == 1:
             obs += 1
             monoform[fs[0]] += 1
+        if len({collapsed(f) for f in fs}) == 1:
+            cobs += 1
         m = filemix[slug]
         n = sum(m.values())
         exp += sum((v / n) ** 4 for v in m.values())
+        cm = cfilemix[slug]
+        cn = sum(cm.values())
+        cexp += sum((v / cn) ** 4 for v in cm.values())
     print(f'-- form monoculture (since {a.since}) --')
     print(f'  cells (n=4)            {int(tot)}')
     print(f'  observed single-form   {int(obs)}  ({obs/tot*100:.1f}%)')
     print(f'  expected (per-file H0) {exp:.1f}  ({exp/tot*100:.1f}%)')
     print(f'  over-concentration     {obs/exp:.2f}x')
     print('  mono by form: ' + ', '.join(f'{k} {v}' for k, v in monoform.most_common()))
+    print(f'  -- reader-visible (prose+oneline collapsed; reported, not gated) --')
+    print(f'  observed single-form   {int(cobs)}  ({cobs/tot*100:.1f}%)')
+    print(f'  expected (per-file H0) {cexp:.1f}  ({cexp/tot*100:.1f}%)')
+    print(f'  over-concentration     {cobs/cexp:.2f}x')
     mix = collections.Counter(f for (s, d), its in cells.items() if d >= a.since
                               for f, _ in its)
     t = sum(mix.values())
