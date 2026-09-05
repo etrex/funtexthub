@@ -11120,6 +11120,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-392",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.119.gov.taipei/News_Content.aspx?n=8596F77D9E4E63F5&sms=AD3EFF21BFE28C6B&s=E9CD84435CFF9503",
+      "sourceNote": "臺北市政府消防局介紹室內消防栓箱的內容物（水帶、瞄子）與操作口訣；取其箱內器材長年閒置的畫面，改寫為原創的租屋走廊情境",
+      "tags": [
+        "租屋",
+        "房東",
+        "日常",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "黃色的我摺成一盤，鎖在紅鐵箱裡\n— 前端接一支瞄子\n— 房客換過四批，沒人拉開我\n— 箱面貼過搬家公司的貼紙\n— 撕掉了，膠還在\n— 每年有人來敲兩下就走",
+          "editorNote": "適合在租屋走廊看見那個從沒打開過的紅鐵箱時發；也適合傳給剛搬進老公寓、還在數自己是第幾批房客的人",
+          "variations": [
+            "短版：黃色的我摺成一盤，前端接一支瞄子，四批房客沒人拉開過。",
+            "延伸版：第五批房客搬進來那天，把腳踏車靠在箱門上，門從此開不到底。"
+          ]
+        },
+        "en": {
+          "content": "Folded yellow in a coil, I'm locked inside a red steel box.\n— A nozzle is screwed onto my front end.\n— Four sets of tenants, and nobody has pulled me out.\n— A moving company's sticker went on the box door once.\n— It came off. The glue didn't.\n— Once a year someone knocks twice and leaves.",
+          "editorNote": "For the moment you notice the red cabinet in your rental hallway that has never once been opened; good for anyone counting which set of tenants they are in an old walk-up",
+          "variations": [
+            "Short: Folded yellow in a coil with a nozzle on my front end, and four sets of tenants have never pulled me out.",
+            "Extended: The fifth set of tenants leaned a bicycle against the box door, and it has never opened all the way since."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-393",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.hlcfd.gov.tw/News_Content.aspx?n=5624&s=93957",
+      "sourceNote": "花蓮縣消防局的租屋消防安全宣導，說明房東出租前的設備設置與檢修申報義務；取其年度查驗的場面，改寫為原創情境",
+      "tags": [
+        "租屋",
+        "房東",
+        "報修",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "穿制服的人今年提早來了，把我拉開到底，手伸進去把瞄子取下來，對著走廊比了一下。他跟房東說水帶該換，房東說這層樓的租約月底就到。他們站在我前面談了十一分鐘，兩個人都沒有再看我一眼。關上的時候，瞄子放回去的位置比原本偏了兩公分。",
+          "editorNote": "適合年度查驗那天、房東和查驗人員在你家門口聊完就走的時候發；也適合傳給報修講了半年還沒下文的室友",
+          "variations": [
+            "短版：他把瞄子取下來比了一下，又放回去，位置偏了兩公分。",
+            "延伸版：下一個房客搬進來時，箱面上多了一張紙，寫著水帶已換。"
+          ]
+        },
+        "en": {
+          "content": "The one in uniform came early this year, pulled me open all the way, reached in, lifted the nozzle out and pointed it down the hallway. He told the landlord the hose was due for replacement; the landlord said the lease on this floor runs out at the end of the month. The two of them stood in front of me talking for eleven minutes, and neither looked at me again. When I shut, the nozzle was sitting two centimeters off from where it had been.",
+          "editorNote": "For inspection day, when the landlord and the inspector finish chatting at your door and leave; good for a roommate whose repair request has gone six months without an answer",
+          "variations": [
+            "Short: He lifted the nozzle out, pointed it once, and set it back two centimeters off.",
+            "Extended: When the next tenant moved in, a slip on the box door said the hose had been replaced."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-394",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://epaper.land.gov.taipei/Item/Detail/%E5%B8%B8%E8%A6%8B%E4%B9%8B%E7%A7%9F%E8%B3%83%E7%B3%BE%E7%B4%9B%E8%88%87%E6%95%99%E6%88%B0%E5%AE%88%E5%89%87-1/",
+      "sourceNote": "臺北地政電子報整理常見租賃糾紛，提到入住前後現況記錄與物件交接的爭點；取其「東西留給下一個人」的角度，改寫為原創情境",
+      "tags": [
+        "租屋",
+        "搬家",
+        "日常",
+        "無奈"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我掛在鐵門旁邊第三個，鎖早就壞了，蓋子靠一條橡皮筋撐著。這幾年塞進來的東西，九成是給搬走的人的。上禮拜有個女生站在我前面翻了很久，抽出一封信又放回去，說這不是她的。橡皮筋昨天斷了，蓋子現在一直開著。",
+          "editorNote": "適合在租屋處收到前任房客的信、又不知道該丟還是該留的時候發；也適合傳給每次收信都要翻半天的同住室友",
+          "variations": [
+            "短版：鎖壞了，橡皮筋昨天也斷了，蓋子現在一直開著。",
+            "延伸版：那封信最後被人用麥克筆寫上「查無此人」，塞回我肚子裡。"
+          ]
+        },
+        "en": {
+          "content": "I hang third in the row beside the front gate; my lock broke long ago and my lid is held shut by a single rubber band. Nine out of ten things pushed into me these past few years were addressed to people who moved out. Last week a woman stood in front of me sorting through all of it, pulled one letter out, put it back, and said it wasn't hers. The rubber band snapped yesterday, so my lid stays open now.",
+          "editorNote": "For the day mail arrives at your rental for the tenant before you and you can't decide whether to bin it; good for a housemate who digs through the stack every single time",
+          "variations": [
+            "Short: The lock broke long ago, the rubber band snapped yesterday, and my lid stays open now.",
+            "Extended: Someone finally wrote 'no such person here' on that letter in marker and pushed it back into me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-395",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.legis-pedia.com/QA/question/3182",
+      "sourceNote": "法律百科說明房客租到消防安檢有問題的房屋時的終止契約與押金返還權利；取其房東房客各自記帳、互不說破的張力，改寫為原創情境",
+      "tags": [
+        "租屋",
+        "房租",
+        "房東",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "玻璃罩上積了一層油，我的數字要側著頭才看得清。房東每個月拍我一次，拍完在群組裡貼一張截圖，底下沒有人回。這個月我沒有動，鑰匙上禮拜就放在鐵門邊的鞋櫃上了。",
+          "editorNote": "適合每月收到房東那張電費截圖、群組一片安靜的時候發；也適合傳給搬走前一天就把電源全關掉的人",
+          "variations": [
+            "短版：房東每個月拍我一次，群組底下沒有人回。",
+            "延伸版：新房客搬進來的第一天，先拿抹布把我的玻璃罩擦乾淨。"
+          ]
+        },
+        "en": {
+          "content": "A film of oil has settled on my glass cover, so you have to tilt your head to read my digits. The landlord photographs me once a month, posts the screenshot in the group chat, and nobody replies underneath it. I haven't moved this month; the keys were left on the shoe cabinet by the gate last week.",
+          "editorNote": "For the monthly utility screenshot that lands in the group chat and gets zero replies; good for anyone who cut the power the day before moving out",
+          "variations": [
+            "Short: The landlord photographs me once a month and nobody replies in the group chat.",
+            "Extended: On day one the new tenant wiped my glass cover clean with a rag."
+          ]
+        }
+      }
     }
   ]
 }

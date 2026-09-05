@@ -13696,6 +13696,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-503",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://diffie.ai/blog/flaky-test-report-2026",
+      "sourceNote": "2026 不穩定測試報告：59% 開發者因為測試有前科而選擇無視 CI 失敗、重跑掩蓋真正的回歸、Google 平均每個 flaky test 要花 3.7 工程小時才修好；取「反正再按一次就會綠」這個核心，改寫成手工蠟燭課上一邊等脫模一邊重跑的側寫",
+      "tags": [
+        "工程師日常",
+        "測試",
+        "除錯",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在手工蠟燭課上，第三次把燭芯扶正，蠟已經開始收邊了。\n手機擱在鐵盤旁邊，那條紅的又亮起來，你沒點開就按了重跑。\n老師走過來說再六分鐘可以脫模，你點頭，心裡在算的是另一個六分鐘。\n蠟燭拿出來是直的，那條也綠了，你不知道中間修好了什麼。",
+          "editorNote": "適合在測試時好時壞、大家習慣先重跑一次再說的場合引用，也適合貼在「這次綠了但沒人改過任何一行」的討論串。",
+          "variations": [
+            "短版：綠了，你也說不出剛剛發生什麼事。",
+            "延伸版本：同一支測試這個月被重跑了十九次，紀錄裡看起來全部成功。"
+          ]
+        },
+        "en": {
+          "content": "You're in a candle-making class, straightening the wick for the third time, and the wax has already begun to pull in at the edge.\nYour phone sits on the metal tray, the red line lights up again, and you hit re-run without opening it.\nThe instructor says six more minutes before it leaves the mold, so you nod, while the six minutes you're counting is a different one.\nThe candle comes out straight and the line turns green, and you do not know what got fixed in between.",
+          "editorNote": "For tests that pass or fail on a coin flip and teams whose first move is another run; works on the thread where the build went green with nobody touching a line.",
+          "variations": [
+            "Short version: it's green, and you can't say what just happened.",
+            "Extension: that one test was re-run nineteen times this month, and the record shows nothing but passes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-504",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://neubird.ai/blog/lifeline-for-teams-drowning-in-alerts",
+      "sourceNote": "值班警報疲勞：44% 的組織有過「警報被忽略或壓掉」而釀成的中斷、工程師 40% 的時間耗在事故處理；取「紅點滑掉比看內容還快」這個核心，改寫成值班第四天手邊物品的清單",
+      "tags": [
+        "工程師日常",
+        "production",
+        "職場",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "值班第四天，你手邊有這些東西\n— 六根沾過蠟的燭芯\n— 昨天響十一次的那支手機\n— 一張寫著「先靜音兩小時」的紙\n— 半杯放到冷掉的黑咖啡\n— 一個你滑掉三次的紅點\n你把燭芯立進模具，手機又震了",
+          "editorNote": "適合在值班輪替、警報太多沒人真的看內容的時候引用，也適合當作交接前的自嘲清單。",
+          "variations": [
+            "短版：紅點第四次亮的時候，你的手比眼睛快。",
+            "延伸版本：那支手機後來被翻過來蓋著，蠟倒進模具的聲音比較大。"
+          ]
+        },
+        "en": {
+          "content": "Day four of on-call, here is what sits within your reach.\n— Six wicks, each dipped in wax once.\n— The phone that went off eleven times yesterday.\n— A slip of paper reading: mute this for two hours.\n— Half a cup of black coffee, long cold.\n— One red dot you have swiped away three times.\nYou stand a wick in the mold, and the phone buzzes.",
+          "editorNote": "For on-call rotations where the alerts outnumber anyone's attention, and as a handover-eve list to laugh at yourself with.",
+          "variations": [
+            "Short version: on the fourth red dot, your thumb moves before your eyes do.",
+            "Extension: the phone ends up face down, because pouring wax into the mold is the louder sound."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-505",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds",
+      "sourceNote": "調查指 43% 的 AI 生成變更即使過了測試與預備環境仍要在正式環境手動除錯，且沒有任何一家能一次部署就驗證完成，88% 需要兩到三輪；取「同一顆按鈕按三次」這個核心，改寫成第二人稱的當晚回想",
+      "tags": [
+        "AI",
+        "上線",
+        "除錯",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "改完那一段你按下部署，兩分鐘後它自己退回上一版，你連哪裡壞了都還沒看清。\n第二次你多塞一行印出來的東西，看到數字不對，改掉，再送。\n第三次它留在上面沒動，你把三次的差異貼進聊天室，只有一個人回貼圖。\n睡前你想不起來自己動過哪幾行，只記得同一顆按鈕按了三次。",
+          "editorNote": "適合在一個修正要來回部署好幾輪、或 AI 給的補丁看起來對卻要在正式環境重驗的時候引用。",
+          "variations": [
+            "短版：三次部署之後它活著，原因你沒有寫下來。",
+            "延伸版本：隔天有人問是哪一次修好的，你回他都算。"
+          ]
+        },
+        "en": {
+          "content": "You ship the patch, and two minutes later it rolls itself back to the previous build before you can see what broke.\nSecond attempt, you slip in one line that prints a number, the number is wrong, you fix it and send it again.\nThird attempt it stays up, so you paste all three diffs into the chat and one person answers with a sticker.\nBy bedtime you cannot recall which lines you touched, only that the same button took three presses.",
+          "editorNote": "For fixes that take several deploy rounds, and for AI patches that look right yet still need proving in production.",
+          "variations": [
+            "Short version: after three deploys it is alive, and the reason went unwritten.",
+            "Extension: someone asks the next day which round did it, and you tell them all of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-506",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.sonarsource.com/blog/state-of-code-developer-survey-report-the-current-reality-of-ai-coding/",
+      "sourceNote": "2026 State of Code 調查：38% 開發者認為審查 AI 產出的程式碼比審同事的更費力、96% 不完全信任、僅 48% 每次都驗；取「每一段都合理，合理到問不出問題」這個核心，改寫成第二人稱審查自己帳號送出的變更",
+      "tags": [
+        "AI",
+        "code review",
+        "程式碼品質",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你打開那個等著看的變更，四十七個檔案，作者欄寫的是你自己的帳號。\n往下捲，每一段都合理，合理到你找不到一個地方可以問。\n捲到底你按了同意，接著把它重新打開，從頭再看一遍。\n這一遍你留了兩則意見，兩則寫的都是「這裡為什麼要這樣」。",
+          "editorNote": "適合在審查 AI 產出的變更、或發現自己看完一整份卻提不出任何問題的時候引用。",
+          "variations": [
+            "短版：四十七個檔案看完，你問得出來的只有兩句。",
+            "延伸版本：那兩則意見到週五都還沒有人回，變更已經在上面跑三天了。"
+          ]
+        },
+        "en": {
+          "content": "You open the change waiting on you: forty-seven files, and the author field carries your own account name.\nScrolling down, every hunk reads as reasonable, so reasonable that nothing in it gives you a question to ask.\nAt the bottom you click approve, then reopen the whole thing and read it once more from the top.\nThis pass leaves two comments behind, and both of them ask why it was done this way here.",
+          "editorNote": "For reviewing AI-authored changes, and for the moment you finish a whole diff without a single question to raise.",
+          "variations": [
+            "Short version: forty-seven files read, and two sentences is all you can ask.",
+            "Extension: by Friday nobody has answered either comment, and the change has been live for three days."
+          ]
+        }
+      }
     }
   ]
 }
