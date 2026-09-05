@@ -12990,6 +12990,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-513",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://taiwanthree.com/crafts/chinese-lantern/lc-1/",
+      "sourceNote": "參考常粹介紹謝志雲司阜傳統燈籠製作的材料與工序（桂竹、燈骨、燈柱、裱布），把工序裡的名詞轉成一段字面回答的反笑話",
+      "tags": [
+        "生活",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "廟口那位做燈籠的師傅正在削竹片。有個小孩看了很久，問他這些竹條叫什麼名字。師傅說這叫燈骨。小孩接著問，燈的骨頭斷掉會不會痛。師傅說不會，竹子沒有神經。",
+          "editorNote": "適合用在小孩問問題、你想給一個誠實答案的時候",
+          "variations": [
+            "短版：小孩問燈的骨頭斷掉會不會痛，師傅說不會，竹子沒有神經。",
+            "延伸版：小孩後來每次經過都要摸一下，確認今天的竹子還是沒有神經。"
+          ]
+        },
+        "en": {
+          "content": "The lantern maker by the temple gate was shaving strips of bamboo. A kid watched for a long while and asked what the strips were called. The maker said they were called lantern bones. The kid then asked whether it hurts when a lantern's bones break. The maker said no, bamboo has no nerves.",
+          "editorNote": "For when a child asks a question and you want to give the honest answer",
+          "variations": [
+            "Short version: The kid asked if broken lantern bones hurt, and the maker said no, bamboo has no nerves.",
+            "Extended version: The kid now taps the frame on every walk past, checking that the bamboo is still nerveless."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-514",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://year.ibook.idv.tw/lantern.php",
+      "sourceNote": "參考彩繪燈籠製作方法頁面的泉州式工序（劈竹、交叉編架、裱糊、彩繪、上桐油），取「紮燈架」這個動作當背景，笑點改成完全字面的瓦數回答",
+      "tags": [
+        "生活",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "隔壁人家在紮燈籠。我探頭問老師傅，這種燈點起來為什麼特別亮。他說因為裡面那顆燈泡是六十瓦。他把燈骨轉了半圈，繼續綁他的鐵絲。",
+          "editorNote": "適合用在有人期待你講一個很有深度的答案時",
+          "variations": [
+            "短版：我問他這種燈為什麼特別亮，他說燈泡六十瓦。",
+            "延伸版：隔年我又去問一次，他說今年換一百瓦，所以更亮。"
+          ]
+        },
+        "en": {
+          "content": "The neighbors were assembling lanterns. I leaned over and asked the old craftsman why this kind of lamp burns so much brighter. He said it is because the bulb inside is sixty watts. He gave the lantern bones a half turn and went back to twisting his wire.",
+          "editorNote": "For when someone is clearly waiting for you to say something profound",
+          "variations": [
+            "Short version: I asked why the lamp glows brighter, and he said the bulb is sixty watts.",
+            "Extended version: I asked again a year later, and he said this batch runs a hundred watts."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-515",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "參考維基百科 anti-humor 條目所述「以最直白字面答案取消笑點」的結構（如農夫弄丟牽引機的例子），改寫成午休猜謎的台灣情境",
+      "tags": [
+        "日常",
+        "辦公室",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事在午休時間出謎題，說有個東西圓圓的、白白的、晚上掛在天上。我想了三秒，說月亮。他說答對了。我們把便當吃完。",
+          "editorNote": "適合用在群組裡有人一直出謎題，你想快速結束回合",
+          "variations": [
+            "短版：他說圓圓白白晚上掛在天上，我說月亮，他說對。",
+            "延伸版：隔天他又出一題，說有個東西黃黃的、白天掛在天上。"
+          ]
+        },
+        "en": {
+          "content": "A coworker posed a riddle over lunch: something round, something white, hanging in the sky at night. I thought about it for three seconds and said the moon. He said that was correct. We finished our lunch boxes.",
+          "editorNote": "For a group chat where someone keeps posting riddles and you want the round over",
+          "variations": [
+            "Short version: Round, white, up there at night. I said the moon. He said yes.",
+            "Extended version: The next day he tried again with something yellow that hangs there during the day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-516",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.thecoolist.com/anti-jokes/",
+      "sourceNote": "參考 thecoolist 反笑話合輯示範的 deadpan 結構（問句鋪陳、答案給最平淡的字面事實），改寫成台灣家庭裡因為名字被誤會的場景",
+      "tags": [
+        "家庭",
+        "日常",
+        "文字遊戲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "表弟帶同學來家裡，那個同學叫王大同。我問他家裡跟電鍋有沒有關係。他說沒有，這個名字是他阿公翻字典挑的。他們兩個寫完作業就走了。",
+          "editorNote": "適合用在別人拿你的名字開玩笑，而你只想講事實的時候",
+          "variations": [
+            "短版：我問王大同家裡跟電鍋有沒有關係，他說名字是阿公翻字典挑的。",
+            "延伸版：後來他每學期都要解釋一次，字典那一頁他還記得是第幾頁。"
+          ]
+        },
+        "en": {
+          "content": "My cousin brought a classmate home, and the classmate's name was Wang Datong. I asked whether his family had anything to do with rice cookers. He said no, his grandfather picked the name out of a dictionary. The two of them finished their homework and left.",
+          "editorNote": "For when people keep joking about your name and you only want to state the facts",
+          "variations": [
+            "Short version: I asked about the rice cooker thing, and he said his grandfather found the name in a dictionary.",
+            "Extended version: He explains it once a semester now, and he still remembers which page of the dictionary it was."
+          ]
+        }
+      }
     }
   ]
 }

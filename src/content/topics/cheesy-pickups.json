@@ -13233,6 +13233,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-514",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://xinhuafang.com.tw/news/3",
+      "sourceNote": "製香廠介紹立香工序，其中一道是把香腳染紅後再曬乾；借「染好了可以來拿」這個真實的取件情境，改寫成一張手寫的到期便條",
+      "tags": [
+        "甜",
+        "日常",
+        "曖昧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你上次寄放在香舖的那批香，香腳今天染好了。\n到期日：這個月最後一天以前\n還剩：七天\n要帶的東西：一個袋子\n還有一件事：袋子可以不帶，人一定要來",
+          "editorNote": "適合對方真的把東西寄放在你這裡、你剛好有正當理由聯絡的時候，前面四行都很正經，第五行才轉彎",
+          "variations": [
+            "短版：香腳染好了，袋子可以不帶，人一定要來。",
+            "延伸版：我把七天寫在紙上，是怕自己算錯；寫在紙上以後，我每天都在算。"
+          ]
+        },
+        "en": {
+          "content": "That batch you left at the incense shop — the bamboo cores came out red today.\nDue date: any time before the last day of this month.\nDays left: seven.\nWhat to bring: one bag.\nOne more thing: the bag is optional, you're not.",
+          "editorNote": "Works when they genuinely left something with you and you have a real reason to text; the first four lines play it straight, the fifth turns",
+          "variations": [
+            "Short version: The cores are dyed. Bring a bag if you want, bring yourself either way.",
+            "Longer version: I wrote down seven days so I wouldn't miscount. Now I count them every morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-515",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.hlftaiwan.com.tw/blog/incense_make",
+      "sourceNote": "製香廠說明日曬工序每小時要翻動一次、日落前收回，以及香腳染紅的步驟；把「每小時翻一次」與「那一欄留白」對照，改寫成不肯填到期日的告白",
+      "tags": [
+        "甜",
+        "日常",
+        "撩人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "香架上曬了三天，我每小時去翻一次。\n到期日那一欄我留白，填上去這件事就有結尾了。\n你問我香腳為什麼要染成紅色。\n好認而已，這樣你走過整排香架，一眼就找得到我做的那把。",
+          "editorNote": "適合已經一起做過一件慢工的事、想把話講開又不想講太滿的時候，重點在第二行的留白",
+          "variations": [
+            "短版：到期日那一欄我留白，因為我不想讓它有結尾。",
+            "延伸版：整排香架看起來都一樣，我做的那把染得比較紅，你走過去就知道哪一把在等你。"
+          ]
+        },
+        "en": {
+          "content": "Three days on the rack, and I flipped them once an hour.\nI left the due-date line blank; filling it in would give this thing an ending.\nYou asked why the bamboo cores get dyed red.\nSo they're easy to find — walk the whole rack and you'll spot the bundle I made.",
+          "editorNote": "For when you've already done something slow and hands-on together and want to say it without saying all of it; the blank line is the point",
+          "variations": [
+            "Short version: I left the due date blank on purpose. Endings need a date.",
+            "Longer version: Every bundle on that rack looks the same. Mine is the red one, and it's the one waiting for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-516",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.hlftaiwan.com.tw/blog/incense_make",
+      "sourceNote": "同一篇提到打底後要放進甩粉機讓楠木粉均勻附著；借「機器一停下來就聽得到外面」這個工作場景，改寫成一則沒有到期日的認領通知",
+      "tags": [
+        "甜",
+        "幽默",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "通知一下，你忘在香舖的那把傘，我還留著。\n到期日我沒寫，傘放到明年也不會壞。\n真的會壞的，是我每次把甩粉機關掉都要先看一眼門口。\n今天看了四次。",
+          "editorNote": "適合對方留了東西在你這裡、你想再見一次但不想講得太用力，最後一行的數字自己會說話",
+          "variations": [
+            "短版：傘我可以放到明年，人不行。",
+            "延伸版：機器一停，整間香舖就安靜下來，安靜到我聽得出來門口有沒有人。"
+          ]
+        },
+        "en": {
+          "content": "Heads up: that umbrella you forgot at the incense shop is still with me.\nI never put a due date on it. An umbrella keeps until next year.\nWhat doesn't keep is me checking the doorway every time I shut off the powder drum.\nFour times today.",
+          "editorNote": "For when they left something behind and you want another meeting without pushing; the number in the last line does the work",
+          "variations": [
+            "Short version: The umbrella can wait until next year. I'm less patient than the umbrella.",
+            "Longer version: The moment the drum stops, the whole shop goes quiet — quiet enough to hear whether anyone is at the door."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-517",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.chiayi.gov.tw/News_Content.aspx?n=512&s=216163",
+      "sourceNote": "嘉義雲霄社區的剖香腳技藝，藝師把薄竹片綁成蘑菇狀的香腳花束；借這個真實的成品形狀，改寫成一張貼在牆上的領取字條",
+      "tags": [
+        "甜",
+        "可愛",
+        "曖昧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 香腳花束一束，還沒有人來領\n— 到期日 這個禮拜天下午三點\n— 沒來領的 我就自己收著\n— 補一句 我沒有在催\n— 真正想寫的 是那天你笑出聲，我手抖了一下",
+          "editorNote": "適合貼在對方看得到的地方或用訊息傳一整段，前四行是字條，第五行是本體",
+          "variations": [
+            "短版：花束沒人領，我就自己收著，反正它本來就是照你的手掌大小綁的。",
+            "延伸版：竹片剖得再細都綁得起來，那天你笑出聲，我連一束都綁歪了。"
+          ]
+        },
+        "en": {
+          "content": "— One bundle of bamboo incense cores, still unclaimed.\n— Pick up by: Sunday, three in the afternoon.\n— If nobody comes: I'm keeping it.\n— Small print: I am not rushing you.\n— The part I meant to write: you laughed out loud that day and my hand slipped.",
+          "editorNote": "Leave it where they'll see it, or send the whole block as one message; the first four lines are the note and the fifth is the reason for it",
+          "variations": [
+            "Short version: Nobody claimed the bundle, so I kept it. It was tied to the size of your hand anyway.",
+            "Longer version: You can tie a bundle out of the thinnest bamboo there is. You laughed that day and I tied one crooked."
+          ]
+        }
+      }
     }
   ]
 }
