@@ -13365,6 +13365,125 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-514",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.chfd.gov.tw/form/Details.aspx?Parser=2%2C7%2C64%2C%2C%2C%2C1619%2C%2C%2C%2C1",
+      "sourceNote": "Changhua County Fire Bureau indoor hydrant leaflet: operate with two people or more, hold the nozzle firmly because the recoil is strong; reworked into an original drill scene",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯",
+        "台灣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "教官問我瞄子為什麼要兩個人一起握。\n我說因為水很有力。\n他點頭說對，就是這樣，然後叫下一個人上來。\n輪到我複述的時候，我講的還是那一句，水也還是很有力。",
+          "editorNote": "適合用在你以為要講出什麼道理，結果講完發現原因就只有字面上那一個的時候。",
+          "variations": [
+            "短版：水很有力，所以要用力握。",
+            "延伸版：他問了三個人，三個人都說水很有力，這題就過了。"
+          ]
+        },
+        "en": {
+          "content": "The instructor asked me why the nozzle takes two people to hold.\nI said because the water pushes hard.\nHe nodded and said yes, that is it, and called the next person up.\nWhen my turn to say it again came round, I gave the same sentence, and the water still pushes hard.",
+          "editorNote": "For the moment you brace yourself to explain something and the explanation turns out to be the literal one.",
+          "variations": [
+            "Short version: The water pushes hard, so you hold on hard.",
+            "Extended: He asked three of us, all three said the water pushes hard, and that was the end of the question."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-515",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://fire.hsinchu.gov.tw/cht/index.php?code=list&flag=detail&ids=14&article_id=23588",
+      "sourceNote": "Hsinchu County Fire Bureau page on indoor hydrant operation, including the reminder that it is for early-stage fires only; used as factual grounding for an original street scene",
+      "tags": [
+        "廢話文學",
+        "日常",
+        "交通",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "消防車開走以後，隔壁的先生問我剛剛那台為什麼跑那麼快。我說因為有火。他想了兩秒，說這個理由很夠。然後他回去繼續洗他的車。",
+          "editorNote": "適合用在別人問了一個問題，而答案就是問題本身寫在那裡的那幾個字的時候。",
+          "variations": [
+            "短版：它跑很快，是因為有火。",
+            "延伸版：他洗完車又問了一次，答案沒有變。"
+          ]
+        },
+        "en": {
+          "content": "After the fire truck pulled away, the man next door asked me why that one was driving so fast. I said because there was a fire. He thought about it for two seconds and said that was reason enough. Then he went back to washing his car.",
+          "editorNote": "For a question whose answer is simply the few words already sitting inside the question.",
+          "variations": [
+            "Short version: It was driving fast because there was a fire.",
+            "Extended: He finished the car and asked again, and the answer had not changed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-516",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.dadu.taichung.gov.tw/media/1169959/%E5%AE%A4%E5%85%A7%E6%B6%88%E9%98%B2%E6%A0%93%E5%9C%96%E5%8D%A1.pdf",
+      "sourceNote": "Taichung Dadu District office instruction card for the indoor hydrant cabinet (what the cabinet holds and the order of the steps); reworked into an original community-drill scene",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "社交"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "社區演練前，我照著單子唸一次\n— 瞄子在箱子裡\n— 水帶也在箱子裡\n— 箱子的門要打得開\n— 打不開的話就是打不開\n唸完大家說這樣很清楚",
+          "editorNote": "適合用在一份說明從頭到尾都沒有錯，而你唸完還是不知道自己被交代了什麼的時候。",
+          "variations": [
+            "短版：門打得開的時候，門就是打得開的。",
+            "延伸版：隔月又唸一次，這五行一個字都不用改。"
+          ]
+        },
+        "en": {
+          "content": "Before the building drill, I read the list out loud once.\n— The nozzle is in the cabinet.\n— The hose is in the cabinet too.\n— The cabinet door has to open.\n— If it does not open, then it does not open.\nEveryone said that was very clear.",
+          "editorNote": "For instructions that are correct from top to bottom and leave you unable to say what you were just told.",
+          "variations": [
+            "Short version: When the door opens, the door is a door that opens.",
+            "Extended: We read it again a month later and not one word had to change."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-517",
+      "dateAdded": "2026-09-05",
+      "sourceUrl": "https://www.ethics.taichung.gov.tw/15645/16067/2307903/2307905/3238115",
+      "sourceNote": "Taichung City Government page on indoor hydrant use: the nozzle switches between straight stream and mist, straight stream when the fire is visible; reworked into an original exchange",
+      "tags": [
+        "廢話文學",
+        "對話",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這支為什麼叫瞄子？」\n「因為要對準。」\n「對準哪裡？」\n「對準火。」\n「火在哪裡？」\n「今天沒有火，今天是演練。」",
+          "editorNote": "適合用在一問一答都很順，順到最後才想起來整件事還沒有發生的時候。",
+          "variations": [
+            "短版：對準火，火還沒來。",
+            "延伸版：明年那場也是演練，明年也對準那道牆。"
+          ]
+        },
+        "en": {
+          "content": "\"Why is this one called a nozzle?\"\n\"Because you aim it.\"\n\"Aim it where?\"\n\"At the fire.\"\n\"Where is the fire?\"\n\"No fire today, today is a drill.\"",
+          "editorNote": "For an exchange that runs smoothly right up to the point where you remember none of it has happened yet.",
+          "variations": [
+            "Short version: Aim at the fire, and the fire has not arrived.",
+            "Extended: Next year's is a drill as well, aimed at that same wall."
+          ]
+        }
+      }
     }
   ]
 }
