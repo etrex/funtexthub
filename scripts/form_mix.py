@@ -58,6 +58,46 @@ def form(txt):
     return 'prose'
 
 
+OPEN_Q = ('"', '\u201c', "'", '\u2018')
+
+
+def form_en(txt):
+    """EN-adapted classifier (added 2026-09-05).  Report-only, never gated.
+
+    Two constants are DELIBERATELY NOT inherited from form(); inheriting them
+    was measured to be wrong, not merely imprecise:
+
+      short-line cut 61, not 18
+        18 is a CJK-density constant.  Measured over the 4,926 rotation-era
+        items, en/zh character ratio is 3.41x, so 18 CJK chars == ~61 latin.
+        At cut=45 (an unjustified guess) the 2026-09-04 batch reads 16/42
+        single-form; at the calibrated 61 it reads 5/42.  Same data, 3.2x.
+
+      NO `noend` condition
+        form() requires >=50% of list lines to LACK terminal punctuation --
+        a zh orthographic convention.  English list lines conventionally TAKE
+        periods.  Inheriting the condition misclassified 280 of 732 zh=list
+        items (38.3%) as en=prose while the reader still saw a list.
+
+    Result of the audit this was written for: NO EN-side form defect exists.
+    2026-09-04 reads EN 5/42 raw vs zh 6/42; rotation era EN 66.4% vs zh 70.3%.
+    Per-item form parity is loose (13.4% mismatch, mostly zh=prose -> en=list)
+    but the per-cell distribution matches, so form parity is a DISTRIBUTIONAL
+    property -- do not gate it per item.
+    """
+    lines = [l.strip() for l in txt.split('\n') if l.strip()]
+    n = len(lines)
+    if n == 0:
+        return 'empty'
+    if n == 1:
+        return 'oneline'
+    if lines[0][:1] in OPEN_Q and sum(1 for l in lines if l[:1] in OPEN_Q) / n >= 0.75:
+        return 'dialogue'
+    if n >= 3 and sum(1 for l in lines if len(l) <= 61) / n >= 0.6:
+        return 'list'
+    return 'prose'
+
+
 READER_COLLAPSE = {'oneline': 'prose*', 'prose': 'prose*'}
 
 
@@ -66,14 +106,15 @@ def collapsed(fm):
     return READER_COLLAPSE.get(fm, fm)
 
 
-def load(since):
+def load(since, lang='zh-tw'):
     cells = collections.defaultdict(list)      # (slug, date) -> [(form, id)]
     filemix = collections.defaultdict(collections.Counter)
+    classify = form if lang == 'zh-tw' else form_en
     for f in sorted(glob.glob(TOPICS)):
         slug = os.path.basename(f)[:-5]
         for it in json.load(open(f))['items']:
             d = it.get('dateAdded', '?')
-            fm = form(it['i18n']['zh-tw']['content'])
+            fm = classify(it['i18n'].get(lang, {}).get('content', '') or '')
             cells[(slug, d)].append((fm, it['id']))
             if d >= since:
                 filemix[slug][fm] += 1
@@ -86,8 +127,12 @@ def main():
     ap.add_argument('--since', default=ERA)
     ap.add_argument('--min-distinct', type=int, default=2,
                     help='required distinct forms per (file,date) cell')
+    ap.add_argument('--lang', default='zh-tw', choices=['zh-tw', 'en'],
+                    help='en reading is REPORT-ONLY and always exits 0')
     a = ap.parse_args()
-    cells, filemix = load(a.since)
+    cells, filemix = load(a.since, a.lang)
+    if a.lang != 'zh-tw':
+        print(f'[lang={a.lang}] report-only reading; exit status is always 0')
 
     if a.date:
         bad = []
@@ -115,7 +160,7 @@ def main():
                                   for f, _ in its)
         t = sum(mix.values())
         print('  batch mix: ' + '  '.join(f'{k} {v/t*100:.1f}%' for k, v in mix.most_common()))
-        return 1 if bad else 0
+        return 0 if a.lang != 'zh-tw' else (1 if bad else 0)
 
     obs = exp = tot = cobs = cexp = 0.0
     monoform = collections.Counter()
