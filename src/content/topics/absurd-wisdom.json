@@ -13484,6 +13484,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-518",
+      "dateAdded": "2026-09-06",
+      "sourceUrl": "https://fae.moa.gov.tw/map/food_item.php?type=AS02&id=177&local_id=178",
+      "sourceNote": "Ministry of Agriculture food-education page on Taiwanese oyster culture: mother shells are drilled and roped into strings, then tied onto the frames and hung down into the sea; reworked into an original dawn scene",
+      "tags": [
+        "廢話文學",
+        "天氣",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "風停了，蚵串就垂著。我把手伸下去摸了一條，繩子是濕的，因為它在水裡。天亮到一半風又來了，蚵串又開始晃，晃的時候就是在晃。",
+          "editorNote": "適合用在你看著一件事發生，而唯一能講的就是它正在發生的時候。",
+          "variations": [
+            "短版：風來了它就晃，風走了它就不晃。",
+            "延伸版：整個早上我只確認了一件事，繩子在水裡的部分是濕的。"
+          ]
+        },
+        "en": {
+          "content": "The wind quit and the oyster strings just hung there. I reached down and held one, and the rope was wet, because it was in the water. Halfway through sunrise the wind came back and the strings started swinging, and while they swing they are swinging.",
+          "editorNote": "For watching something happen when the only thing you can say about it is that it is happening.",
+          "variations": [
+            "Short version: Wind, and they move. No wind, and they don't.",
+            "Extended: All morning I established one fact: the part of the rope that sits in the water is wet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-519",
+      "dateAdded": "2026-09-06",
+      "sourceUrl": "https://www.tjnp.gov.tw/News_Content.aspx?n=342&sms=9383&s=248683",
+      "sourceNote": "Taijiang National Park page on oyster-farming households: shore frames can only be worked at low tide while offshore rafts are free of the tide, and stable weather is what makes a good yield; reworked into an original morning list",
+      "tags": [
+        "廢話文學",
+        "天氣",
+        "日常",
+        "台灣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "出海前我在紙上抄了一次今天的天空\n— 沒下雨\n— 也沒有出太陽\n— 風有，不到要把蚵串收回來的那種\n— 浪跟昨天差不多\n— 這種天氣就是可以出去的天氣\n抄完我把紙折好放進口袋",
+          "editorNote": "適合用在你把手邊的條件一條一條列出來，列到最後發現結論就是那些條件本身的時候。",
+          "variations": [
+            "短版：可以出去的天氣，就是可以出去的那種。",
+            "延伸版：口袋裡那張紙隔天又抄一次，五行只改了浪那一行。"
+          ]
+        },
+        "en": {
+          "content": "Before heading out I copied today's sky onto a scrap of paper.\n— No rain.\n— No sun either.\n— Some wind, not the kind that sends you back for the strings.\n— Swell about like yesterday.\n— Weather like this is weather you can go out in.\nThen I folded the paper up and put it in my pocket.",
+          "editorNote": "For laying out your conditions one by one and finding that the conclusion is just the conditions again.",
+          "variations": [
+            "Short version: Weather you can go out in is the kind you can go out in.",
+            "Extended: I copied the same paper again the next day and only the swell line changed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-520",
+      "dateAdded": "2026-09-06",
+      "sourceUrl": "https://www.newsmarket.com.tw/blog/159001/",
+      "sourceNote": "Newsmarket feature answering ten common questions about Taiwanese oysters, including how growers read sea and sky before going out; reworked into an original two-person exchange",
+      "tags": [
+        "廢話文學",
+        "對話",
+        "天氣",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天出得去嗎？」\n「你抬頭看。」\n「上面什麼都沒有。」\n「那就是什麼都沒有。」\n「什麼都沒有的話呢？」\n「什麼都沒有的話，就是好天氣。」",
+          "editorNote": "適合用在對方給了你一個完整的答案，而你發現那個答案只是把你的問題唸了一遍的時候。",
+          "variations": [
+            "短版：天上什麼都沒有，那就是什麼都沒有。",
+            "延伸版：他講完就走去解繩子，我又抬頭看了一次，上面還是什麼都沒有。"
+          ]
+        },
+        "en": {
+          "content": "\"Can we go out today?\"\n\"Look up.\"\n\"There's nothing up there.\"\n\"Then there's nothing.\"\n\"And if there's nothing?\"\n\"If there's nothing, that's good weather.\"",
+          "editorNote": "For a complete answer that turns out to be your own question read back to you.",
+          "variations": [
+            "Short version: Nothing up there means there is nothing up there.",
+            "Extended: He went off to untie the ropes, I looked up one more time, and there was still nothing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-521",
+      "dateAdded": "2026-09-06",
+      "sourceUrl": "https://www.tjnp.gov.tw/cp.aspx?n=358",
+      "sourceNote": "Taijiang National Park industry-and-culture page on lagoon oyster farming, including growers pulling rafts and strings in when the sea turns; reworked into an original afternoon scene",
+      "tags": [
+        "廢話文學",
+        "天氣",
+        "生活",
+        "台灣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下午雲壓得很低，我把剩下幾條蚵串綁緊。\n海面開始有白白的東西在跑，我就往岸上走。\n回到岸邊雨才落下來，落到哪裡哪裡就濕，濕了就是濕了。",
+          "editorNote": "適合用在事情剛好照著它本來的樣子發生，而你除了照著唸一次以外沒有別的話可講的時候。",
+          "variations": [
+            "短版：雨落到哪裡，哪裡就濕。",
+            "延伸版：衣服晾起來以後，我坐著看那片雲慢慢走掉，它走掉就是走掉了。"
+          ]
+        },
+        "en": {
+          "content": "By afternoon the cloud sat low, and I tied down the last few oyster strings.\nWhite streaks started running across the water, so I walked back toward the bank.\nThe rain only came once I was ashore, and wherever it landed that spot got wet, and wet is wet.",
+          "editorNote": "For when things go exactly the way they were always going to, leaving you nothing to add but a repeat.",
+          "variations": [
+            "Short version: Wherever the rain lands, that is where it is wet.",
+            "Extended: With my clothes hung up I sat and watched that cloud drift off, and off is where it went."
+          ]
+        }
+      }
     }
   ]
 }
