@@ -35,7 +35,7 @@ Usage
   python3 scripts/form_mix.py --date 2026-09-03   # one batch, per-file detail
   python3 scripts/form_mix.py --since 2026-08-01
 """
-import argparse, collections, glob, json, os, sys
+import argparse, collections, glob, json, os, re, sys
 
 ERA = '2026-08-01'          # rotation era start
 TOPICS = os.path.join(os.path.dirname(__file__), '..', 'src', 'content', 'topics', '*.json')
@@ -98,6 +98,43 @@ def form_en(txt):
     return 'prose'
 
 
+BULLET = re.compile(r'^(?:[\u2014\u2013\-\u2022*\u00b7]\s|\d{1,2}[.)]\s|\d{1,2}:\d{2}\s*[\u2014\u2013\-]\s)')
+
+
+def bulleted(txt):
+    """>=3 lines and >=60% of them opening with an explicit bullet marker.
+
+    Added 2026-09-06.  BOTH form() and form_en() classify purely by line
+    length; neither has ever looked at the bullet character.  That matters
+    because the daily brief's sanctioned way out of the `list` definition
+    conflict is "prefix the lines with 「\u2014 」" -- i.e. the brief tells
+    writers to reach for the one signal the instrument cannot see.  It scores
+    only by accident: zh bulleted lines happen to fall under the 18-char cut,
+    while the same lines in English run 60-90 chars and read as prose to the
+    detector though a reader plainly sees a list.
+
+    Measured over the 5,094 rotation-era items: 52 EN and 28 zh items are
+    bulleted yet classified prose; 3 were read by hand and are unambiguously
+    lists (coj-472, mq-488, wc-464).
+
+    NEGATIVE RESULT -- do not redo this analysis expecting the headline to
+    move.  Folding the predicate in shifts reader-visible single-form cells by
+    at most ~2 per day and <1.5pp era-wide, and it is not monotone: on
+    2026-09-05 it recovers couple-jokes and witty-comebacks on the EN side
+    (9/42 -> 7/42) but collapses mom-quotes, whose diversity rested on two of
+    its four items being read as prose (zh 5/42 -> 6/42).  Correcting an item
+    and improving the metric are different things.  Hence REPORT-ONLY: the
+    gated readings of form()/form_en() are deliberately left untouched.
+    """
+    lines = [l.strip() for l in txt.split('\n') if l.strip()]
+    return len(lines) >= 3 and sum(1 for l in lines if BULLET.match(l)) / len(lines) >= 0.6
+
+
+def bullet_aware(fm, txt):
+    """form() / form_en() output, with bulleted prose re-read as a list."""
+    return 'list' if (fm == 'prose' and bulleted(txt)) else fm
+
+
 READER_COLLAPSE = {'oneline': 'prose*', 'prose': 'prose*'}
 
 
@@ -114,8 +151,9 @@ def load(since, lang='zh-tw'):
         slug = os.path.basename(f)[:-5]
         for it in json.load(open(f))['items']:
             d = it.get('dateAdded', '?')
-            fm = classify(it['i18n'].get(lang, {}).get('content', '') or '')
-            cells[(slug, d)].append((fm, it['id']))
+            txt = it['i18n'].get(lang, {}).get('content', '') or ''
+            fm = classify(txt)
+            cells[(slug, d)].append((fm, it['id'], txt))
             if d >= since:
                 filemix[slug][fm] += 1
     return cells, filemix
@@ -151,13 +189,17 @@ def main():
             print('  (no items on that date)')
             return 0
         cbad = [s for (s, d), its in cells.items() if d == a.date
-                and len({collapsed(f) for f, _ in its}) < a.min_distinct]
+                and len({collapsed(f) for f, *_ in its}) < a.min_distinct]
         print(f'\n  single-form cells {len(bad)}/{n} ({len(bad)/n*100:.1f}%)'
               f'   want < {a.min_distinct} distinct: 0')
         print(f'  reader-visible    {len(cbad)}/{n} ({len(cbad)/n*100:.1f}%)'
               f'   (prose+oneline collapsed; reported, not gated)')
+        bbad = [s for (s, d), its in cells.items() if d == a.date
+                and len({collapsed(bullet_aware(f, t)) for f, _, t in its}) < a.min_distinct]
+        print(f'  + bullet-aware    {len(bbad)}/{n} ({len(bbad)/n*100:.1f}%)'
+              f'   (bulleted prose re-read as list; reported, not gated)')
         mix = collections.Counter(f for (s, d), its in cells.items() if d == a.date
-                                  for f, _ in its)
+                                  for f, *_ in its)
         t = sum(mix.values())
         print('  batch mix: ' + '  '.join(f'{k} {v/t*100:.1f}%' for k, v in mix.most_common()))
         return 0 if a.lang != 'zh-tw' else (1 if bad else 0)
@@ -194,8 +236,13 @@ def main():
     print(f'  observed single-form   {int(cobs)}  ({cobs/tot*100:.1f}%)')
     print(f'  expected (per-file H0) {cexp:.1f}  ({cexp/tot*100:.1f}%)')
     print(f'  over-concentration     {cobs/cexp:.2f}x')
+    bobs = sum(1 for (s_, d), its in cells.items()
+               if d >= a.since and len(its) == 4
+               and len({collapsed(bullet_aware(f, t)) for f, _, t in its}) == 1)
+    print(f'  -- + bullet-aware (bulleted prose re-read as list; reported, not gated) --')
+    print(f'  observed single-form   {bobs}  ({bobs/tot*100:.1f}%)')
     mix = collections.Counter(f for (s, d), its in cells.items() if d >= a.since
-                              for f, _ in its)
+                              for f, *_ in its)
     t = sum(mix.values())
     print('  corpus mix:   ' + '  '.join(f'{k} {v/t*100:.1f}%' for k, v in mix.most_common()))
     return 0
