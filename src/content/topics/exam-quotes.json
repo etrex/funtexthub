@@ -12083,6 +12083,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "eq-404",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.rti.org.tw/news?pid=223265&uid=3",
+      "sourceNote": "Rti weather bulletin: muggy island-wide conditions with localized afternoon thunderstorms in western plains and eastern hills",
+      "tags": [
+        "考試",
+        "讀書",
+        "廢文",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "下午三點半，雲從西南邊壓過來，走廊的燈全部提早打開。我把講義壓在書包最上面，站到騎樓外面看對街那家招牌店，師傅正在燒霓虹管，火頭一亮一暗。雨落下來的時候他沒有停手，玻璃彎成一個角度，水就從屋簷連成一條線。我等到雨勢小一點才走回教室，袖子還是濕的。",
+          "editorNote": "適合午後變天、講義還沒收完就下雨的讀書日。",
+          "variations": [
+            "短版：雲從西南邊壓過來，招牌店的火頭還在亮。",
+            "延伸版：霓虹管彎好的時候雨最大，我站到雨小了才走，袖子乾得比講義慢。"
+          ]
+        },
+        "en": {
+          "content": "By half past three the clouds had pushed in from the southwest and every light in the corridor came on early. I pressed my handouts down on top of everything in my bag and stood just outside the arcade, watching the sign shop across the road, where the craftsman was heating a neon tube, the flame going bright then dim. When the rain arrived he never stopped, the glass bent to the angle he wanted, and the water came off the eaves in one long line. I waited until it let up before walking back to the classroom, sleeves still wet.",
+          "editorNote": "For a study afternoon when the sky turns over before you have even packed your handouts.",
+          "variations": [
+            "Short: Clouds in from the southwest, and the flame in the sign shop still going.",
+            "Extended: The rain was heaviest right as that neon tube took its curve, I waited it out, and my sleeves dried slower than the handouts."
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-405",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.tongpsy.com/article_detail.php?id=119",
+      "sourceNote": "Taiwanese counseling-practice article on exam anxiety; recommends writing worries down as a way of externalizing them",
+      "tags": [
+        "考試",
+        "倒數",
+        "廢文",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週一 風把窗簾吸出去又放回來\n— 週二 早上起霧，操場只剩半個\n— 週三 太陽出來，講義曬到發燙\n— 週四 雨下在對街，這邊沒有\n— 週五 半夜還在悶，電風扇轉到最大",
+          "editorNote": "倒數那幾週，只有天氣被完整記下來的時候可以用。",
+          "variations": [
+            "短版：一整週的風向都記在講義邊邊。",
+            "延伸版：週末回頭看那五行，字跡一行比一行潦草，天氣倒是照著自己的順序走。"
+          ]
+        },
+        "en": {
+          "content": "— Mon: wind pulled the curtain out and let it drop back.\n— Tue: fog till noon, half the track gone.\n— Wed: sun out, handouts too hot to hold.\n— Thu: rain on the far side of the road, none over here.\n— Fri: still muggy at midnight, fan turned up all the way.",
+          "editorNote": "Countdown weeks where the weather is the only thing that got logged in full.",
+          "variations": [
+            "Short: A whole week of wind directions, all of it down the margin of a handout.",
+            "Extended: Read back on Sunday the five lines get messier one by one, while the weather kept to its own order."
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-406",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.hcgs.org.tw/about-glass-99-page180",
+      "sourceNote": "Hsinchu Glass Association reference on hot-working techniques, including torch heat-forming of glass tubing",
+      "tags": [
+        "考試",
+        "熬夜",
+        "讀書",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "晚自習結束，風從北邊灌進走廊，穿短袖的人都把手臂夾起來。我繞路去看那家招牌店，鐵門拉一半，裡面的師傅把霓虹管平放在架子上，噴燈的火剛熄。\n他關燈的時候，外面開始飄雨，很細，落在路面上看不出來。我走了兩百公尺才想起來傘還在教室。",
+          "editorNote": "晚自習散場走回家、天氣一夜換季時可以貼。",
+          "variations": [
+            "短版：噴燈熄了，外面開始飄很細的雨。",
+            "延伸版：走回宿舍那段路我一直在算還剩幾天，雨小到不用撐傘，衣領還是濕了一圈。"
+          ]
+        },
+        "en": {
+          "content": "Night study let out and the wind came down the corridor from the north; everyone in short sleeves pinned their arms to their sides. I took the long way past the sign shop, shutter half down, the craftsman resting a neon tube against a rack with his torch just out.\nAs he killed the lights a fine rain started up outside, too fine to show on the road. I was two hundred meters along before I remembered my umbrella was still in the classroom.",
+          "editorNote": "Post-night-study walk home, on the night the season flips over.",
+          "variations": [
+            "Short: Torch out, and a very fine rain starting up outside.",
+            "Extended: I counted the days left the whole way back to the dorm; the rain never needed an umbrella and my collar got wet anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "eq-407",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.rhythmsmonthly.com/?p=32789",
+      "sourceNote": "Rhythms Monthly feature on a Zhunan family glassworks that once hand-drew fluorescent tubing before moving to decorative ware",
+      "tags": [
+        "考試",
+        "考場",
+        "考後",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "模擬考那天清晨有霧，校門口的樹到一半就不見了。我提早四十分鐘到，把桌墊擦乾，衣服上的水氣一直沒散。第一節鈴響前，霧退到操場邊，太陽出來得很快，教室後面的窗開始反光。收卷的時候我抬頭，外面已經全乾了。",
+          "editorNote": "模擬考當天早上起霧、考完卻大晴，落差大的那種日子適用。",
+          "variations": [
+            "短版：清晨有霧，收卷時外面全乾了。",
+            "延伸版：那天的霧退得比我想的快，等我把筆放下，操場已經曬到發白。"
+          ]
+        },
+        "en": {
+          "content": "Mock-exam morning came in under fog, and the trees at the school gate stopped halfway up. I got there forty minutes early, wiped the desk mat dry, and the damp stayed on my shirt the whole time. Before the first bell the fog had backed off to the edge of the track, the sun came up fast, and the windows at the rear of the room started throwing light. I looked up as the papers were collected and everything outside had dried off.",
+          "editorNote": "Use it for a mock exam that opens in fog and finishes in hard sunlight.",
+          "variations": [
+            "Short: Fog at dawn, and everything dry by the time papers went in.",
+            "Extended: The fog cleared faster than I expected; by the time I put my pen down the track had gone bleached and bright."
+          ]
+        }
+      }
     }
   ]
 }

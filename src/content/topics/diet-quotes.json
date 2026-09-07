@@ -12677,6 +12677,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-451",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/",
+      "sourceNote": "一萬名智慧體重計使用者的自我量測頻率世代研究（唯有每日量測與體重下降相關）；改寫成一天量四次的工作日",
+      "tags": [
+        "減肥",
+        "體重計",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一天量四次：起床、上工、吃完午餐、收工前。\n工作檯上那盒公仔等著磨開模線，砂紙換到第三張，數字才比早上低了兩百克。我磨掉了它側面那條，我腰上那條還在。",
+          "editorNote": "適合在一天量了好幾次體重、卻只有小數點在動的時候發",
+          "variations": [
+            "短版：一天四次，只有第四次那個數字我肯截圖。",
+            "延伸版：砂紙用完那天我發現，磨出來的粉比我瘦掉的還多。"
+          ]
+        },
+        "en": {
+          "content": "Four weigh-ins a day: out of bed, clocking in, after lunch, before closing up.\nA tray of figures sits on the bench waiting for their parting lines to come off. Three sheets of sandpaper in, the number finally reads two hundred grams under this morning. I sanded that ridge off the figure's side. The one along my waist is still there.",
+          "editorNote": "For a day of repeat weigh-ins where only the decimal point moves",
+          "variations": [
+            "Short: Four weigh-ins, and only the fourth one gets screenshotted.",
+            "Extended: The day I used up the sandpaper, I'd made more dust than I'd lost."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-452",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5625756/",
+      "sourceNote": "自我量測隨機對照試驗的三年追蹤（介入結束後遵從度逐年掉落）；取其「開頭做得很勤、後面剩一半」改寫成六隻公仔的進度",
+      "tags": [
+        "減肥",
+        "自嘲",
+        "拖延",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "六隻公仔，六條開模線\n— 兩隻磨掉了\n— 一隻磨過頭，凹進去\n— 一隻磨到一半放著\n— 一隻捨不得動\n— 剩下那隻擺在體重計旁邊",
+          "editorNote": "適合在同一件事做到第六遍還沒做完的時候發",
+          "variations": [
+            "短版：六條線，磨掉兩條就叫進度。",
+            "延伸版：擺在體重計旁邊那隻，線最粗，我也最喜歡它。"
+          ]
+        },
+        "en": {
+          "content": "Six figures, six parting lines.\n— two sanded flat.\n— one sanded too far, now it dips.\n— one left half done.\n— one I can't bring myself to touch.\n— the last one stands next to the scale.",
+          "editorNote": "For when the sixth run at the same job is still unfinished",
+          "variations": [
+            "Short: Six seams. Two gone counts as progress.",
+            "Extended: The one by the scale has the thickest seam, and it's my favorite."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-453",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2015/10/151029111924.htm",
+      "sourceNote": "ScienceDaily 報導 Clemson 的咬口計數研究（男性平均每口約 17 卡、女性約 11 卡，一天少十口約一個月少兩磅）；改寫成兩人邊算邊吃的對話",
+      "tags": [
+        "減肥",
+        "食物",
+        "自嘲",
+        "詭辯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「一口十七卡，你剛剛吃了三口。」\n「那是試味道。」\n「試味道也是五十一卡。」\n「你連這個都算。」\n「我算給你聽而已，又沒有要你吐出來。」\n「那你算慢一點，我還要再試一口。」",
+          "editorNote": "適合在旁邊有人幫你報熱量、你還想再吃一口的時候發",
+          "variations": [
+            "短版：試味道那口，熱量不會知道自己是試的。",
+            "延伸版：他後來改成心裡默算，我就當作沒有人在算。"
+          ]
+        },
+        "en": {
+          "content": "\"Seventeen calories a bite. You just took three.\"\n\"That was a taste test.\"\n\"A taste test is still fifty-one.\"\n\"You count that too.\"\n\"I'm only counting out loud. Nobody asked you to spit it out.\"\n\"Then count slower. I need one more taste.\"",
+          "editorNote": "For when somebody is calling out calories and you want one more bite anyway",
+          "variations": [
+            "Short: The taste-test bite doesn't know it was only a test.",
+            "Extended: He switched to counting in his head, so I decided nobody was counting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-454",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40647295/",
+      "sourceNote": "2025 年咬口熱量變異研究（1850 口逐口秤重、420 口估算體積與熱量）；取其「量測花的工夫遠大於單口的差別」改寫成十二分鐘的兩件事",
+      "tags": [
+        "減肥",
+        "宵夜",
+        "自嘲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "十二分鐘，是我把一隻公仔的開模線磨平的時間，也是我走去買鹹酥雞再走回來的時間。\n兩件事今天都做了，順序是先磨後買。晚上把公仔擺回架上，它側面很平，我把手上的油在褲子上抹掉。",
+          "editorNote": "適合在同一段長度的時間裡，把努力和放棄各做了一次的時候發",
+          "variations": [
+            "短版：磨線十二分鐘，走去買也十二分鐘，我兩邊都選了。",
+            "延伸版：架上那排公仔側面都很平，只有我還摸得到線。"
+          ]
+        },
+        "en": {
+          "content": "Twelve minutes is how long it takes me to sand the parting line flat on one figure. It is also how long it takes me to walk out for fried chicken and walk back.\nToday I did both, in that order. Tonight the figure goes back on the shelf with a smooth side, and I wipe the grease off my hands onto my jeans.",
+          "editorNote": "For the day you spend the same twelve minutes on the effort and on undoing it",
+          "variations": [
+            "Short: Twelve minutes to sand it, twelve minutes to go buy it. I took both.",
+            "Extended: Every figure on that shelf is smooth down the side. I'm the only one you can still feel a seam on."
+          ]
+        }
+      }
     }
   ]
 }
