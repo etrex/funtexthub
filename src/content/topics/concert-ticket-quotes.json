@@ -10402,6 +10402,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-368",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3019879",
+      "sourceNote": "商周 2026 演唱會全攻略：分階段開賣、卡友預售、實名制購票與票價區間整理；改寫成票根自述、主人從鹿場趕來的版本",
+      "tags": [
+        "票根",
+        "散場",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她把我摺成四折才塞進外套，口袋裡的乾草屑比我還多。那天她從鹿場直接騎車過來，靴底的泥在地板上留了兩個印。散場之後我被拿出來看了兩次，第三次她只是隔著布摸了摸。現在我還在同一個口袋裡。",
+          "editorNote": "適合演出結束後把票根收好、突然捨不得丟的時候用",
+          "variations": [
+            "短版：「口袋裡的乾草屑比我還多。」",
+            "延伸版：「第三次她只是隔著布摸了摸，然後把手留在那裡沒拿出來。」"
+          ]
+        },
+        "en": {
+          "content": "She folded me into quarters before shoving me into her coat, and there is more dried grass in that pocket than there is of me. That day she rode over straight from the deer farm, and her boot soles left two prints on the floor. After the houselights came up she pulled me out twice, and the third time she only felt for me through the fabric. I am still in the same pocket.",
+          "editorNote": "For the moment after a show when the stub is stowed away and you find you cannot throw it out",
+          "variations": [
+            "Short: 'There is more dried grass in that pocket than there is of me.'",
+            "Extended: 'The third time she only felt for me through the fabric, and then left her hand there.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-369",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.gogo-taiwanfarm.org/home-of-sambar-deer/",
+      "sourceNote": "台灣休閒農業發展協會山腳鹿場介紹：盤古拉草飼料、手掌餵食、水鹿與梅花鹿分區、每日清掃鹿舍；改寫成飼料勺自述、主人中午開搶的版本",
+      "tags": [
+        "搶票",
+        "秒殺",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 十點整她把我放在腳邊\n— 鹿場的鐵欄杆有點燙\n— 她兩隻手都在滑手機\n— 我裡面的草料剩一半\n— 有一頭把頭伸過來舔我\n— 她蹲下來把我抱著沒說話",
+          "editorNote": "適合人還在忙、開賣時間卻卡在正中午的時候發",
+          "variations": [
+            "短版：「她兩隻手都在滑手機。」",
+            "延伸版：「她蹲下來把我抱著沒說話，草料被風吹掉了一些。」"
+          ]
+        },
+        "en": {
+          "content": "— At ten sharp she set me down by her feet.\n— The rail at the deer farm was warm to the touch.\n— Both of her hands were on her phone.\n— I was still half full of feed.\n— One of them stretched over and licked me.\n— She crouched down and held me without a word.",
+          "editorNote": "To post when the sale opens at noon and you are stuck in the middle of work",
+          "variations": [
+            "Short: 'Both of her hands were on her phone.'",
+            "Extended: 'She crouched down and held me without a word, and the wind took some of the feed off the top.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-370",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.gvm.com.tw/article/125822",
+      "sourceNote": "遠見 2026 演唱會場次與票價整理：大巨蛋與小巨蛋場次、售票平台、票價 1800 至 9430；改寫成螢光棒自述的散場片段",
+      "tags": [
+        "現場",
+        "入場",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開演前我被轉開又轉緊三次，電池是路上臨時買的那種。第一首歌整排的手一起舉起來，我的塑膠殼被握到發熱。安可唱完我還亮著，被收進外套的時候撞到了鑰匙。",
+          "editorNote": "適合安可結束、手裡還握著螢光棒不想放的時候用",
+          "variations": [
+            "短版：「安可唱完我還亮著。」",
+            "延伸版：「被收進外套的時候撞到了鑰匙，她伸手把我關掉。」"
+          ]
+        },
+        "en": {
+          "content": "Before the doors opened she twisted me apart and back together three times, on batteries bought in a hurry on the way. During the first song a whole row of hands went up at once and my plastic shell got warm in her grip. I was still lit when the encore ended, and I knocked against her keys on the way into her coat.",
+          "editorNote": "For the end of an encore, when the light stick is still in your hand and you don't want to put it down",
+          "variations": [
+            "Short: 'I was still lit when the encore ended.'",
+            "Extended: 'I knocked against her keys on the way into her coat, and she reached in to switch me off.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-371",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3021480",
+      "sourceNote": "商周 BTS 高雄場拓元實名制搶票步驟說明：購票人與入場人資訊須一致、入場須持本人附照片證件正本；改寫成證件自述、指腹沾著鹿場飼料粉的版本",
+      "tags": [
+        "實名制",
+        "證件",
+        "入場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "驗票那關她把我從夾層抽出來，指腹上還沾著鹿場的飼料粉。工作人員看了我三秒，還回來的時候我的角落多了一道折痕。整晚我都被壓在手機下面。",
+          "editorNote": "適合過完實名制驗證那一關、進場前傳給同行的人看",
+          "variations": [
+            "短版：「工作人員看了我三秒。」",
+            "延伸版：「整晚我都被壓在手機下面，回程的車上她才想起要把我收好。」"
+          ]
+        },
+        "en": {
+          "content": "At the ID check she pulled me out of the sleeve, her fingertips still dusted with feed powder from the deer farm. The staffer looked at me for three seconds, and when I came back there was a new crease in one corner. All night I sat underneath her phone.",
+          "editorNote": "To send to whoever you came with, right after you clear the name-matching check at the door",
+          "variations": [
+            "Short: 'The staffer looked at me for three seconds.'",
+            "Extended: 'All night I sat underneath her phone, and only on the ride home did she remember to put me away.'"
+          ]
+        }
+      }
     }
   ]
 }
