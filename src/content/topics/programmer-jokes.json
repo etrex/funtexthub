@@ -13936,6 +13936,125 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-511",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.taifer.com.tw/PublicationArticleDetailC004000.aspx?Cond=86331b53-dc49-441f-ae53-f68ebcca2fae",
+      "sourceNote": "台肥《鰻魚養殖 經驗與新知的淬鍊》：鰻魚完全依賴野生苗、飼料是所有魚種中最貴的一種，成本要一尾一包地記；取「現場只需要記今天倒了幾包」這個小需求，寫成把它做成一整套資料庫",
+      "tags": [
+        "工程師日常",
+        "自嘲",
+        "職場",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "表哥在口湖養鰻，開口只跟我要一個能記今天倒了幾包飼料的東西。\n我回家開了七張資料表，外鍵拉好，還幫鰻苗的進貨批次留了獨立主鍵。\n交付那天他看了三秒，抽一張紙出來，在背面畫格子。\n那張紙現在貼在池邊的柱子上，我的版本跑在我自己的筆電裡。",
+          "editorNote": "適合用在自己把一句話的需求做成一整套系統之後，或有人問你為什麼那個內部工具沒人用。",
+          "variations": [
+            "短版：他要一個記帳的東西，我給他七張資料表。",
+            "延伸版本：那張紙的格子比我的欄位少三個，剛好就是他真的會填的那幾格。"
+          ]
+        },
+        "en": {
+          "content": "My cousin farms eels in Kouhu, and all he asked for was something to record how many bags of feed went in each day.\nI got home and stood up seven tables, wired the foreign keys, and gave each elver delivery batch its own primary key.\nOn handover day he looked at it for three seconds, pulled out a sheet of paper, and drew a grid on the back.\nThat sheet is taped to the post by the pond now, and my version runs on my own laptop.",
+          "editorNote": "Good for the day you turn a one-sentence request into a schema, or for whoever asks why nobody opens your internal tool.",
+          "variations": [
+            "Short version: he wanted a way to write things down, and I handed him seven tables.",
+            "Extension: his grid has three fewer columns than my schema, and those are exactly the ones he fills in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-512",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://kmweb.moa.gov.tw/subject/subject.php?id=28853",
+      "sourceNote": "農業知識入口網「科學養殖，日本認證的鰻魚達人陳文堅」：冬天抽地下水把水溫維持在攝氏二十度左右，低於十五度鰻魚就不吃、長不大，場內有專人每天檢驗監控水質；取「水溫得每天有人盯」寫成自己疊了一整套監控",
+      "i18n": {
+        "zh-tw": {
+          "content": "— 幫鰻苗池的溫度計拍照存檔\n— 照片丟進我自己架的相簿站\n— 相簿站跑在阿舅家的舊主機\n— 舊主機每天凌晨自己重開\n— 所以我設鬧鐘那個時間起來看\n— 阿舅只想知道水到底冷不冷",
+          "editorNote": "適合貼在自己疊了一整套東西只為回答一個問題的時候，也可以拿去勸退正要自架服務的朋友。",
+          "variations": [
+            "短版：整套東西架起來，只為了回答水冷不冷。",
+            "延伸版本：溫度計後來壞了，我先修的是相簿站。"
+          ]
+        },
+        "en": {
+          "content": "— Photograph the elver pond thermometer and file the shot.\n— Push the photo into an album service I run myself.\n— That service runs on my uncle's old machine.\n— The old machine reboots itself every night.\n— So I set an alarm for that hour to go check.\n— My uncle only wants to know if the water is cold.",
+          "editorNote": "For anyone who stacked a whole system to answer one question, and as a warning to the friend about to self-host.",
+          "variations": [
+            "Short version: a whole stack, standing up to answer whether the water is cold.",
+            "Extension: the thermometer broke later, and the thing I fixed first was the album service."
+          ]
+        }
+      },
+      "tags": [
+        "工程師日常",
+        "自嘲",
+        "維護",
+        "黑色幽默"
+      ]
+    },
+    {
+      "id": "pj-513",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.nses.cyc.edu.tw/html/fish/__59.html",
+      "sourceNote": "國小鄉土教材「鰻魚採收」頁：漁工凌晨四點開始圍網，篩鰻每兩個月一次、靠網目大小分池；取「人工一尾一尾撈、憑手感分級」的畫面，寫成拿人的手去比自己的排程",
+      "tags": [
+        "工程師日常",
+        "自嘲",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你週末不是說要好好休息。」\n「我有啊，我在鰻塭旁邊坐了一下午。」\n「坐一下午？」\n「看阿舅撈苗，順便算他一分鐘撈幾尾。」\n「算那個要做什麼。」\n「我想知道他的手是不是比我的排程穩。」",
+          "editorNote": "適合用在放假還在量東西的自首場合，或同事問你週末做了什麼、你一時答不出來的時候。",
+          "variations": [
+            "短版：看阿舅撈苗，順便算他一分鐘撈幾尾。",
+            "延伸版本：後來我真的比了，他的變異數還比較小。"
+          ]
+        },
+        "en": {
+          "content": "\"Didn't you say you were going to rest this weekend?\"\n\"I did. I sat by the eel ponds all afternoon.\"\n\"All afternoon?\"\n\"Watching my uncle scoop, and counting how many he got a minute.\"\n\"Counting that for what?\"\n\"I wanted to know whether his hands beat my scheduler.\"",
+          "editorNote": "For confessing that your day off went into measuring something, or for the Monday question you have no safe answer to.",
+          "variations": [
+            "Short version: watching my uncle scoop, and counting how many he got a minute.",
+            "Extension: I ran the numbers afterward, and his variance came out smaller than mine."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-514",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://xkcd.com/1205/",
+      "sourceNote": "xkcd 1205「Is It Worth the Time?」：用「每次省下的時間 × 頻率 × 五年」算優化划不划算，圖註還補一句查表本身也要花時間；反過來寫成算得出來卻還是做了",
+      "tags": [
+        "工程師日常",
+        "自嘲",
+        "黑色幽默",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "為了少打三個字，我把內部工具的搜尋改成模糊比對，週末花掉十一個小時。\n上線之後我一天大概用它四次，每次省下的時間不到兩秒。\n上個月有人在群組裡稱讚這個功能好用，我把那句話截圖留著。",
+          "editorNote": "適合放進自動化划不划算的爭論，或那種自己算過、算完還是要做的需求。",
+          "variations": [
+            "短版：十一個小時，換一天八秒。",
+            "延伸版本：那張截圖被我打開的次數，比那個功能還多。"
+          ]
+        },
+        "en": {
+          "content": "To save myself three keystrokes, I rewrote the search in our internal tool to match fuzzily, and it ate eleven hours of my weekend.\nSince it shipped I reach for it maybe four times a day, and each time it saves me under two seconds.\nSomeone praised the feature in the group chat last month, and I screenshotted the line and kept it.",
+          "editorNote": "Drop it into any argument about whether automation pays back, or beside the task you did the math on and built anyway.",
+          "variations": [
+            "Short version: eleven hours, traded for eight seconds a day.",
+            "Extension: I open that screenshot more often than I open the feature."
+          ]
+        }
+      }
     }
   ]
 }
