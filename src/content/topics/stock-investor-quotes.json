@@ -10224,6 +10224,130 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-336",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://vocus.cc/article/6864e1effd89780001e23142",
+      "sourceNote": "文章談投資人最痛的是眼睜睜看著卻無能為力的失控感；改寫成夜班工人盤中不去摸口袋裡那支手機的一段",
+      "tags": [
+        "看盤",
+        "紀律",
+        "上班",
+        "自嘲",
+        "散戶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把工件夾上卡盤，攻牙這道不能急，絲攻進去一圈要退半圈，讓鐵屑有地方跑出來。手機在圍裙口袋裡震了兩下，你沒去摸。等這一件下線，你才會用袖子擦一下手，把那個綠色的圖示滑開。十點四十，你其實已經知道那兩下是什麼。",
+          "editorNote": "適合在你上班時間手機震了、而你決定先把手上那一件做完的時候",
+          "variations": [
+            "短版：袖子擦過手，圖示才滑得開。",
+            "延伸版：退半圈是為了讓鐵屑出來，你到現在還沒對手上那一檔做過同一件事。"
+          ]
+        },
+        "en": {
+          "content": "You clamp the piece into the chuck. Tapping is not a step you rush — the tap goes in a full turn, then backs off half a turn, so the chips have somewhere to go. Your phone buzzes twice in your apron pocket and you leave it there. When this one comes off the machine you wipe your hand on your sleeve and swipe the green icon open. It is ten forty, and you already know what those two buzzes were.",
+          "editorNote": "For the shift where the phone buzzes and you decide to finish the part first",
+          "variations": [
+            "Short: the sleeve first, then the icon.",
+            "Longer: you back off half a turn to let the chips out. You have never once done that with a position."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-337",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://vocus.cc/article/627ccbd0fd89780001274b03",
+      "sourceNote": "文章主張攤平必須有支撐分批與停損條件，否則只是覺得跌就攤；改寫成一張工廠班表，唯一沒有條件的那一項留到最後一行",
+      "tags": [
+        "紀律",
+        "套牢",
+        "看盤",
+        "上班",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 七點十分，你開機床暖車\n— 八點，這批要攻牙，四十八孔\n— 十點，補一次切削油\n— 十一點，你偷看一次手機\n— 一點半，孔都過規，你沒過\n— 五點，絲攻歸位，你的持股沒有",
+          "editorNote": "適合在一整天收工、發現只有一件事沒有交代的時候",
+          "variations": [
+            "短版：孔都過規，你沒過。",
+            "延伸版：把絲攻歸位只要五秒，把那一筆歸位要三年。"
+          ]
+        },
+        "en": {
+          "content": "— 7:10. You start the lathe and let it warm up.\n— 8:00. This batch needs tapping. Forty-eight holes.\n— 10:00. Top up the cutting oil.\n— 11:00. You sneak one look at your phone.\n— 13:30. Every hole passes the gauge. You do not.\n— 17:00. The tap goes back in its slot. Your position does not.",
+          "editorNote": "For the end of a shift where exactly one thing is still unaccounted for",
+          "variations": [
+            "Short: every hole passed. You did not.",
+            "Longer: putting the tap away takes five seconds. Putting that position away takes three years."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-338",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://vocus.cc/article/69995cb7fd897800011fb515",
+      "sourceNote": "馬克羊投資心理學談虧損痛感是獲利快感的一到兩倍、因此死抱虧損；改寫成上班時不敢碰螢幕的三個動作",
+      "tags": [
+        "看盤",
+        "焦慮",
+        "厭世",
+        "人性",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你站在機台旁邊，右手還握著手輪，左手在圍裙上抹了兩次才敢碰螢幕。\n數字比早上少了一位數，你把手機翻過來，蓋在鐵桌上。\n師傅喊你去看孔位，你走過去的腳步比平常快了一點。",
+          "editorNote": "適合在你發現自己開始繞著螢幕走的時候",
+          "variations": [
+            "短版：手機蓋在鐵桌上，鐵桌是涼的。",
+            "延伸版：圍裙上那兩下，跟油沒有關係。"
+          ]
+        },
+        "en": {
+          "content": "You are still holding the handwheel with your right hand, and you wipe your left one on your apron twice before you will touch the screen.\nThe number has one digit fewer than it did this morning, so you turn the phone over and lay it face down on the steel bench.\nThe foreman calls you over to check a hole, and you walk there a little faster than you usually would.",
+          "editorNote": "For when you notice you have started routing around your own screen",
+          "variations": [
+            "Short: the phone lies face down. The bench is cold.",
+            "Longer: those two wipes on the apron had nothing to do with oil."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-339",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://vocus.cc/article/6981b333fd89780001eb43e2",
+      "sourceNote": "文章主張賣掉虧損股票是承認錯誤、擺脫等奇蹟回本的妄念；改寫成絲攻斷在孔裡與加碼一筆卡住部位的同一個動作",
+      "tags": [
+        "融資",
+        "本金",
+        "停損",
+        "後悔",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你第一次自己攻牙，是在一個沒有人站在後面看的下午。\n絲攻卡住的時候，往回轉還是再加一點力，你猶豫的時間短到自己都沒察覺，然後聽見一聲很小的斷裂。\n斷在孔裡的那一截，你挖了兩個小時，料還是報廢。\n那天晚上你打開庫存那一頁，對那筆已經卡住的融資，做了一模一樣的動作。",
+          "editorNote": "適合在你想加碼一筆已經動不了的部位之前讀一次",
+          "variations": [
+            "短版：卡住的時候你選了加力，兩次都是。",
+            "延伸版：料報廢還可以再領一塊，本金不行。"
+          ]
+        },
+        "en": {
+          "content": "The first time you tapped a hole on your own, nobody was standing behind you.\nWhen the tap seized, back it out or lean on it a little harder — you hesitated for less time than it takes to notice, and then you heard a very small snap.\nYou spent two hours digging the broken piece out of the hole, and the part was scrap anyway.\nThat night you opened the holdings page and did the exact same thing to a margin position that had already seized.",
+          "editorNote": "Read this once before you add to something that has already stopped moving",
+          "variations": [
+            "Short: it seized, you leaned harder. Both times.",
+            "Longer: you can draw another block of stock from the rack. You cannot draw more capital."
+          ]
+        }
+      }
     }
   ]
 }
