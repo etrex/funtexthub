@@ -12664,6 +12664,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-433",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://yongfu.name/ptt-terms/",
+      "sourceNote": "批踢踢常見用語查找檔案庫（資料來自 PTT 鄉民百科），取「敲碗 ＝ 拿碗敲、催人給東西或發表」的用法概念，情境與文字自行重寫",
+      "tags": [
+        "敲碗",
+        "催促",
+        "口頭禪",
+        "台灣用語"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "荖葉到期日：明天下午三點就會軟掉\n還剩幾天：零天，你自己算\n要帶的東西：一個碗、一支湯匙、一點臉皮\n過了會怎樣：什麼都不會，我們就繼續敲碗\n補充：老闆有看到，他只是手上的白灰還沒抹完\n簽收：全部在門口敲碗的人",
+          "editorNote": "敲碗的畫面就是拿著碗敲桌子等開飯，搬到網路上變成「我很想要，快給我」。它比直接催促好用的地方在於自帶一點討食的傻氣，對方被催了也不會覺得被壓。要小心的是對象：對方根本沒答應過的事情、或是你位階比他高，敲碗就會從撒嬌變成施壓，那時候可愛感是一點都不剩的。",
+          "variations": [
+            "短版：荖葉到期日明天下午三點，我們在門口敲碗。",
+            "延伸版：把碗換成手機，收在「更新檔拖了兩個月，全群組還在敲碗」。"
+          ]
+        },
+        "en": {
+          "content": "荖葉 expires: tomorrow, three in the afternoon, and it goes limp\nDays left: zero, count them yourself\nWhat to bring: a bowl, a spoon, and a bit of nerve\nIf it lapses: nothing happens, we just keep banging the bowl\nNote: the boss has seen it, he just hasn't finished the slaked lime\nSigned for by: everyone banging a bowl at the door",
+          "editorNote": "敲碗 draws its picture from banging a bowl on the table while you wait for dinner to be served, and online it turns into I want this, hurry up. What makes it easier to take than plain nagging is the goofy hungry-kid energy attached to it, so nobody feels leaned on. Watch who you aim it at, though. Use it on something the other person never agreed to, or on someone below you, and the wheedling becomes pressure with none of the charm left.",
+          "variations": [
+            "Short version: '荖葉 goes limp at three tomorrow, and we'll be at the door banging bowls.'",
+            "Extended: swap the bowl for a phone, closing on 'the patch has slipped two months and the whole group chat is still banging bowls.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-434",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://vocus.cc/article/6569ced1fd897800017f2a65",
+      "sourceNote": "方格子文章談台語「盼仔 phàn-á」與網路寫法「盤子／很盤」，取「買貴了、被當冤大頭」的用法概念，情境與文字自行重寫",
+      "tags": [
+        "盤子",
+        "很盤",
+        "台語",
+        "消費"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "盤子預防公告：紅灰白灰今天都沒有漲\n問過幾攤：三攤，價差大到我不敢講\n判斷方式：貴一倍還說是特級的，掉頭就走\n這張有效到：你下次自己開口問為止\n寫的人：昨天剛當完盤子那個",
+          "editorNote": "盤子寫的是台語的盼仔，意思是好騙、花了不該花的錢的人；形容詞化之後就變成「這價錢很盤」。安全用法只有兩種：講自己，或講價錢。一旦把三個字掛到活生生的對方頭上，笑話立刻變成人身攻擊，而且對方通常正好就是花了那筆錢的人，場面會很難收。",
+          "variations": [
+            "短版：紅灰白灰都沒漲，只有我昨天當了盤子。",
+            "延伸版：把三攤換成三個購物網站，收在「同一支我多付了四百，很盤」。"
+          ]
+        },
+        "en": {
+          "content": "Anti-sucker notice: red lime and white lime did not go up today\nStalls asked: three, and the spread is too embarrassing to say out loud\nHow to tell: double the price and they call it top grade, turn around and leave\nGood until: the next time you go ask around yourself\nWritten by: the guy who got played yesterday",
+          "editorNote": "盤子 spells out the Taiwanese word phàn-á, someone easy to fool, someone who paid what they should not have paid; as an adjective it becomes 這價錢很盤, that price is a rip. There are exactly two safe targets: yourself, or the price tag. Hang it on an actual person standing in front of you and the joke turns into an insult, and since that person is usually the one who just spent the money, there is no graceful way back.",
+          "variations": [
+            "Short version: 'lime prices held steady. The only thing that got played yesterday was me.'",
+            "Extended: turn the three stalls into three shopping sites, landing on 'same model, four hundred more, total sucker move.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-435",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://zh.wiktionary.org/zh-hant/%E6%AD%AA%E6%A8%93",
+      "sourceNote": "維基詞典「歪樓」詞條（動詞，從一個主題討論到別的話題），取「蓋樓→樓歪了」的用法概念，情境與文字自行重寫",
+      "tags": [
+        "歪樓",
+        "群組",
+        "離題",
+        "網路"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "群組通知：今天從問幾點收攤開始\n歪到哪裡：荖葉要不要冰、狗認不認得人、誰家小孩考上了\n原本要問的：到現在還是沒人回\n話題到期日：三天後有人翻上來再問一次\n處理方式：不處理，歪就歪",
+          "editorNote": "留言一層一層疊上去叫蓋樓，疊歪了就是歪樓。這個詞好在它承認離題卻不追究是誰帶頭，講出來大家笑一下就過去了，比說「離題了」少掉八成火藥味。反面是它太輕，真的需要一個結論的討論串裡丟這兩個字，會被讀成你在打圓場，原本的問題就更不會有人回答了。",
+          "variations": [
+            "短版：問收攤時間，最後在聊荖葉要不要冰，歪樓。",
+            "延伸版：把群組換成公司會議，收在「議程第二項講完就歪樓，散會前才想起來」。"
+          ]
+        },
+        "en": {
+          "content": "Group chat notice: it started at what time are we closing up\nWhere it went: whether 荖葉 needs the fridge, whether dogs remember faces, whose kid got in\nThe actual question: still sitting there unanswered\nTopic expires: in three days, when somebody scrolls up and asks again\nWhat we're doing: nothing, let it lean",
+          "editorNote": "Replies stacking one on another is called building a tower, and 歪樓 is the tower going crooked. Its charm is that it admits the thread wandered without pinning the wandering on anyone, so everyone laughs and moves on, minus about eighty percent of the friction in saying you went off topic. The weakness is exactly that lightness. Drop it into a thread that genuinely needs a decision and you read as smoothing things over, which guarantees the original question stays unanswered.",
+          "variations": [
+            "Short version: 'asked about closing time, ended up on whether 荖葉 needs refrigerating. Tower's crooked.'",
+            "Extended: move it into a work meeting, landing on 'item two ended and the thing tipped over, and we only noticed as chairs were pushed back.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-436",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%8F%B0%E7%81%A3%E7%B6%B2%E8%B7%AF%E7%94%A8%E8%AA%9E%E5%88%97%E8%A1%A8",
+      "sourceNote": "維基百科「台灣網路用語列表」記載 87 出自實況主張家航「87分不能再高了」，後與台語諧音疊在一起，取其評分語氣概念，情境與文字自行重寫",
+      "tags": [
+        "87分",
+        "評分",
+        "反諷",
+        "諧音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "評分單張貼於此：這批荖葉，87分，不能再高了\n評分的人：從早上剖到現在還沒吃飯那位\n分數失效時間：中午太陽出來以後\n不服氣的話：自己包一顆來比\n最後一行：87分是誇獎還是嫌棄，要看講的人那張臉",
+          "editorNote": "「87分，不能再高了」原本是實況主真心給的滿分評語，後來 87 又跟台語的白痴諧音疊在一起，同一句話就同時放得下讚美跟酸。這個雙面性正是它好玩的地方，但也代表它只在熟人之間安全：文字沒有表情，對方讀到哪一面完全看關係，不熟就別給分數。",
+          "variations": [
+            "短版：這批荖葉，87分，不能再高了。",
+            "延伸版：把荖葉換成朋友剪的瀏海，收在「87分，我沒有在酸，真的」。"
+          ]
+        },
+        "en": {
+          "content": "Score card posted here: this batch of 荖葉, 87 points, can't go higher\nScored by: the one who has been splitting since dawn and still hasn't eaten\nScore expires: once the noon sun is up\nIf you disagree: wrap one yourself and we'll compare\nLast line: whether 87 is praise or a dig depends on the face saying it",
+          "editorNote": "87分，不能再高了 began as a streamer handing out a sincere perfect score, and then 87 got layered with a Taiwanese homophone for idiot, so one sentence now holds a compliment and a jab at the same time. That double edge is the fun of it and also the limit: text carries no expression, which side lands is decided purely by how close you are, so save the scoring for people who already know you.",
+          "variations": [
+            "Short version: 'this batch of 荖葉. 87 points. Cannot go higher.'",
+            "Extended: score a friend's homemade bangs instead, landing on '87 points, and I promise I'm not being sarcastic.'"
+          ]
+        }
+      }
     }
   ]
 }
