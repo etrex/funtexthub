@@ -13338,6 +13338,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-525",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://news.ttv.com.tw/news/11107260005900W/amp",
+      "sourceNote": "參考該篇報導中台電計畫性工作停電的說明（通知單投遞信箱、張貼公寓門口、提前完工就先送電），改寫成一張會自己吐槽的停電通知",
+      "tags": [
+        "生活",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "停電那天：禮拜四早上八點到中午十二點\n要做什麼：把電桿頂上那三顆礙子換成新的\n為什麼：舊的那幾顆撐了二十年，沒請過一天假\n會提早結束嗎：通常十一點就送電了\n給住戶的話：冷凍庫先別一直開，它撐不了四個小時\n最後一行：十一點就來電的話，請不要打來問為什麼這麼早",
+          "editorNote": "適合用在你要宣布一件小麻煩，又想讓人看完之後心情變好的時候",
+          "variations": [
+            "短版：停電四小時，通常三小時就結束，請不要問為什麼。",
+            "延伸版：那天真的十一點就來電了，管理員接到七通電話。"
+          ]
+        },
+        "en": {
+          "content": "Outage day: Thursday, eight in the morning to twelve noon.\nWhat we're doing: replacing the three insulators at the top of the pole.\nWhy: the old ones held that line for twenty years without taking a day off.\nWill it end early: usually the power is back around eleven.\nFor residents: stop opening the freezer, it can't hold out four hours.\nLast line: if the lights return at eleven, please don't call to ask why so soon.",
+          "editorNote": "For announcing a small inconvenience in a way that leaves people cheerful",
+          "variations": [
+            "Short version: Four hours of outage, usually done in three, and please don't ask why.",
+            "Extended version: The power really did return at eleven, and the building manager took seven calls."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-526",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.esgtw.net/insulator-working-principle/",
+      "sourceNote": "參考該頁對礙子表面裂痕、老化劣化與定期巡檢更換的說明，把「有裂痕要輕手」寫成一張工班交接的手寫紙條",
+      "tags": [
+        "日常",
+        "擬人",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "班長在電桿底下留了一張紙條給下一班，字很醜但寫得很慢。上面說第三顆礙子有裂痕，換的時候手要輕一點，它已經很老了。下面補了一句，早上那隻麻雀會回來，牠站的位置剛好就是那顆礙子，等牠飛走再動手。署名的地方，他畫了一隻很像鴨子的麻雀。",
+          "editorNote": "適合用在交接工作，想把該講的細節寫得像人話而不是像規章",
+          "variations": [
+            "短版：紙條說第三顆礙子有裂痕，還有那隻麻雀會回來。",
+            "延伸版：下一班照做了，等了十二分鐘，麻雀是自己走路離開的。"
+          ]
+        },
+        "en": {
+          "content": "The foreman left a note at the foot of the pole for the next shift, in ugly handwriting that clearly took him a while. It said the third insulator has a crack, so go easy swapping it out, because it's already old. Below that he added that the sparrow from this morning will be back, and it perches on exactly that insulator, so wait until it leaves. Where his name should go, he drew a sparrow that looks a lot like a duck.",
+          "editorNote": "For a handover where you'd rather the details read like a person than a manual",
+          "variations": [
+            "Short version: The note said the third insulator is cracked, and the sparrow will be back.",
+            "Extended version: The next shift did as told, waited twelve minutes, and the sparrow walked off on foot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-527",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.wowlavie.com/article/260026837",
+      "sourceNote": "參考該篇台電退役礙子改造成花器的報導（白色圓鼓瓷件、每顆因服役環境不同而釉色有別、洗淨後種植），改寫成一張寫給礙子本人的到期通知",
+      "tags": [
+        "諧音",
+        "擬人",
+        "文字遊戲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "收件人：電桿頂上左邊數來第二顆礙子\n到期日：明天早上，你被拆下來的那一刻\n服役年資：二十三年又四個月，其中停電三次，有兩次跟你沒關係\n退休之後：有人會把你洗乾淨，在裡面種一株薄荷\n附註：你的名字聽起來很礙事，可是這二十三年，你沒有一天礙到誰",
+          "editorNote": "適合用在有人或有東西要退場，你想給它一個不煽情的道別",
+          "variations": [
+            "短版：服役二十三年，退休那天被洗乾淨，裡面種了一株薄荷。",
+            "延伸版：薄荷長得很好，隔年那戶人家又跑去要第二顆。"
+          ]
+        },
+        "en": {
+          "content": "To: the second insulator from the left, top of the pole\nExpiry date: tomorrow morning, the moment you come down\nYears of service: twenty-three years and four months, three outages, two of them nothing to do with you\nAfter retirement: someone will wash you clean and plant a sprig of mint inside you\nP.S.: your Chinese name sounds like the words for getting in the way, and in twenty-three years you never once did",
+          "editorNote": "For a send-off, when you want to say goodbye without turning it sentimental",
+          "variations": [
+            "Short version: Twenty-three years of service, a good wash, and a sprig of mint.",
+            "Extended version: The mint thrived, so the next year that household went back for a second one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-528",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.esgtw.net/insulator/",
+      "sourceNote": "參考該頁對礙子巡檢、高處維護與外線架設器材的介紹，把高空作業車的升降高度改寫成一張自問自答的手寫牌",
+      "tags": [
+        "生活",
+        "日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "路邊那台高空作業車的斗子上，用膠帶貼著一張手寫的紙。紙上寫：今天升到八公尺，明天升到九公尺，後天休假。旁邊還有一行小字，說升到最高的時候看得到海，但那不算在工作範圍裡。師傅說紙是他自己貼的，因為每天都有人仰著頭問他上面到底有什麼。",
+          "editorNote": "適合用在同一個問題被問過太多次，你乾脆先把答案準備好的場合",
+          "variations": [
+            "短版：今天八公尺，明天九公尺，後天休假。",
+            "延伸版：後天他真的休假，紙還貼著，有路人抬頭看了很久。"
+          ]
+        },
+        "en": {
+          "content": "Taped to the bucket of the aerial work truck parked at the curb is a sheet of handwritten paper. It reads: eight meters today, nine meters tomorrow, day off after that. Smaller print beside it says you can see the ocean from the very top, though that part isn't in the job description. The driver says he put the sheet up himself, because someone tilts their head back and asks him what's up there every single day.",
+          "editorNote": "For when one question gets asked so often you start answering it in advance",
+          "variations": [
+            "Short version: Eight meters today, nine tomorrow, day off after that.",
+            "Extended version: He really did take that day off, the sheet stayed up, and a passerby stood staring at it."
+          ]
+        }
+      }
     }
   ]
 }
