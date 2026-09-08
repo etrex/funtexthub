@@ -14125,6 +14125,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-478",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.jichn.com/tw/modules/news/article.php?storyid=495",
+      "sourceNote": "成均五金〈螺紋加工可以採用哪些工法〉指出攻牙最怕絲攻斷在工件孔內，因為絲攻硬度遠高於工件，鑽頭鑽不動，往往只能靠放電加工挖出；取其「斷在裡面就不是幾分鐘能解決的事」這個時間感，改寫成連假夜裡家人催晚餐的電話對話",
+      "tags": [
+        "節日限定",
+        "連假",
+        "家庭",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「爸，你那邊機器聲一直沒停。」\n「這批攻牙沒做完，客戶收假就要。」\n「媽把菜熱第二次了。」\n「絲攻斷在孔裡挖不出來，你叫她先吃。」\n「那我把湯留在鍋子裡。」\n「留著，十點前我一定到家。」",
+          "editorNote": "適合配連假夜裡還亮著燈的工廠照片，也適合傳給那個永遠留一份晚餐給別人的家人",
+          "variations": [
+            "短版：「絲攻斷在孔裡挖不出來，你叫她先吃。」",
+            "延伸版：「湯我熱過了，你回來自己盛。」"
+          ]
+        },
+        "en": {
+          "content": "\"Dad, there's machine noise behind you this whole call.\"\n\"This batch of tapping isn't finished and the customer wants it the day we're back.\"\n\"Mom has reheated dinner twice already.\"\n\"A tap snapped off inside a hole and won't come out. Tell her to start without me.\"\n\"Then I'll leave the soup in the pot.\"\n\"Leave it. I'll be home before ten.\"",
+          "editorNote": "Pairs with a photo of a workshop still lit up on a night off. Also for the family member who always keeps a plate back for someone",
+          "variations": [
+            "Short version: \"A tap snapped off inside a hole and won't come out. Tell her to start without me.\"",
+            "Longer version: \"I already reheated the soup, help yourself when you get in.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-479",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://cnc57.com/zh-Hant/technical_information/Thread-ID-Machining-Guide",
+      "sourceNote": "CNC57〈內螺紋加工參數指南〉說明內孔排屑不易、一次吃刀過深容易卡刀斷刀，建議分六到十刀遞減切削，底孔尺寸不對是主要風險；取其「重來一次要從底孔開始」的節奏，改寫成連假出勤現場兩個師傅的來回",
+      "tags": [
+        "節日限定",
+        "連假",
+        "職場",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這支又斷在裡面了。」\n「底孔小了兩條，換鑽頭重來。」\n「挖得出來嗎？」\n「挖不出來，那顆等放電。」\n「連假出勤的工錢有加倍嗎？」\n「有，薪水單上看得到。」\n「那剩下三十顆攻牙我做完再走。」",
+          "editorNote": "想講連假出勤的加班費，或想吐槽自己非得做完最後一批才肯下班，可以直接引用這段",
+          "variations": [
+            "短版：「底孔小了兩條，換鑽頭重來。」",
+            "延伸版：「三十顆做完十一點多，機車發不動，用牽的。」"
+          ]
+        },
+        "en": {
+          "content": "\"Another one snapped off in there.\"\n\"Pilot hole is two hundredths under. Swap the drill and start again.\"\n\"Can you get it out?\"\n\"Not by hand. That one waits for the EDM.\"\n\"Does working through a long weekend pay double?\"\n\"It does. You can see it on the pay slip.\"\n\"Then I'm tapping the last thirty before I go.\"",
+          "editorNote": "Use it when the topic is holiday overtime pay, or to poke fun at yourself for refusing to leave before the last batch is done",
+          "variations": [
+            "Short version: \"Pilot hole is two hundredths under. Swap the drill and start again.\"",
+            "Longer version: \"Finished the thirty past eleven, then the scooter wouldn't start and I pushed it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-480",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://frtoolsman.easy.co/blogs/mechinal-make/lathe-guide",
+      "sourceNote": "車床全方位指南整理車床原理為「工件旋轉、刀具進給」，內牙以攻牙或內牙車刀處理，並特別強調操作時切勿戴手套、避免被高速旋轉部件捲入；取其「大人在機台前對小孩的第一句話一定是叫他退後」，改寫成連假回鄉小孩闖進工廠的對話",
+      "tags": [
+        "節日限定",
+        "連假",
+        "親子",
+        "冷知識"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「舅舅，這個洞是你鑽的嗎？」\n「鑽孔是鑽孔，攻牙是攻牙，兩件事。」\n「那我可以按綠色那顆嗎？」\n「手往後站一點，鐵屑會彈。」\n「你連假都待在這裡喔。」\n「機器連假才排得進來。」",
+          "editorNote": "帶小孩回鄉下、小孩被大人的工作現場吸引住時可以用；轉給每逢連假就在顧機台的親戚也合適",
+          "variations": [
+            "短版：「鑽孔是鑽孔，攻牙是攻牙，兩件事。」",
+            "延伸版：「那顆綠色的，等你長到摸得到再說。」"
+          ]
+        },
+        "en": {
+          "content": "\"Uncle, did you drill this hole?\"\n\"Drilling is drilling, tapping threads is tapping threads. Two different jobs.\"\n\"Can I press the green one?\"\n\"Step back a bit. Chips come off hot.\"\n\"So you stay here the whole long weekend.\"\n\"The machines only get a slot once everyone else is off.\"",
+          "editorNote": "Good for a kid who gets pulled straight into a grown-up's workshop on a trip home, and for the relative who spends every holiday minding a machine",
+          "variations": [
+            "Short version: \"Drilling is drilling, tapping threads is tapping threads. Two different jobs.\"",
+            "Longer version: \"The green one is yours when you're tall enough to reach it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-481",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.uho.com.tw/article-68877.html",
+      "sourceNote": "優活健康網〈年假後不想上班？五種收假廢人你是哪一種〉列出睡眠罷工型的特徵是明明很累卻睡不好、作息時差沒調回來，建議固定起床時間；取其「假期最後一晚談的其實只有鬧鐘」，改寫成補班前一晚的兩人對話",
+      "tags": [
+        "節日限定",
+        "連假",
+        "自嘲",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你明天還放到禮拜三吧？」\n「補班。廠裡那批要出貨。」\n「鬧鐘幾點？」\n「五點四十，比今天早二十分鐘。」\n「蛋我煎兩顆，一顆你路上吃。」",
+          "editorNote": "補班前一晚發這則剛好，收假日早上再發一次也成立",
+          "variations": [
+            "短版：「補班。廠裡那批要出貨。」",
+            "延伸版：「蛋煎好放桌上，你鬧鐘響三次都沒動。」"
+          ]
+        },
+        "en": {
+          "content": "\"You're off through Wednesday, right?\"\n\"Make-up workday. That batch has to ship.\"\n\"Alarm for what time?\"\n\"Five forty. Twenty minutes earlier than today.\"\n\"I'll fry two eggs, one of them for the road.\"",
+          "editorNote": "Post it the night before a make-up workday; it still lands if you post it again the morning the break ends",
+          "variations": [
+            "Short version: \"Make-up workday. That batch has to ship.\"",
+            "Longer version: \"Eggs were on the table and you slept through three alarms.\""
+          ]
+        }
+      }
     }
   ]
 }
