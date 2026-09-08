@@ -11918,3 +11918,34 @@ Done items collapsed; only live priorities listed.
   - ⚠️ **第 1 條的優先序論證數字要改，但結論不變**：正確值是 **244 > 115**（非 264 > 115），差距縮小、方向一致。⇒ 後續引用一律用 **244**。
   - 🟢 **已處置**：20 則全數 verify（append-only／每檔恰 4 則／雙語 content 齊／zh `editorNote` 齊／`sourceUrl` 皆 http(s) 且不含 `funtexthub`／`.internal`／`.local`）→ `npm run build` **93 頁通過** → **只 `git add` 這 5 檔**（不 `-A`，避免掃進併發那支）→ commit `eea07a2` → push。**未 deploy**，留給當日 daily-update 的正常 deploy，避免發布半完成快照。
   - **content-creator 本身無事可做**：New Topic Recommendations 連續 20＋ 日皆標示「皆併入既有 topic，勿獨立建檔」，無任何新建檔建議 ⇒ 本次 skip（符合 `SKILL.md` step 2）。
+
+### Addendum 2026-09-08（daily-update 收尾實測讀數，非研究產出）
+
+- 🟢 **停擺止血：42/42、168 則、每檔恰 4 則**，語料 17,164 → **17,332**（＋168，與正常日規格相符）。
+  11 批 × 4 檔、blocking、每批跑 append-only 斷言（比對前一批 commit）後才 commit，共 11 個 content commit。
+- 🟢 **`check_batch.py --date 2026-09-08` exit 0，全項 PASS**（無 DEGRADED 行）：
+  `distinct_open5_pct` 100.0%／`frame_new_gram_count` max **0**（限 2）／`register_doc` 3.0%（限 5.0%，
+  confined to `cold-jokes`／`slang-quotes`）／max scene class「竹筍加工」**7.1%**（限 10.0%）／
+  `ordinal_enum` 0.6%（`zodiac-quotes` 1 則，配額內）／`not_x_but_y`／`not_x_just_y`／`six_frame`／
+  waiting 全 **0.0%**／排除清單（31 詞）命中 **0**／`max_family_ngram` **4.8%**（`壓克力字+1`）／
+  `max_within_file_gram` **2/4**（`竹篩裡的鰻`，限 3/4）／`sourceUrl` 缺漏 0、捏造主機 0／
+  `line_parity_mismatch` **0.0%**、`en_collapsed_to_1` **0**。
+- **`form_mix.py --date 2026-09-08`（三行照抄）**：single-form cells 5/42（11.9%）、reader-visible
+  **6/42（14.3%）**、+ bullet-aware **6/42（14.3%）**；batch mix prose 33.9%／oneline 27.4%／
+  list 20.8%／dialogue 17.9%。`--lang en`：single-form 6/42、reader-visible **10/42（23.8%）**、
+  + bullet-aware **6/42（14.3%）**。⚠️ 本日 F4／F5／F13／F15 豁免檔共 **9** 檔，讀數需扣除後才可跨日比較。
+- 🟢 **`page_frames.py --since 2026-08-26`：盲區 4/42 → 3/42**（未上升）。近 14 日最高
+  `breakup-quotes`「是兩個人」4/52 ＝ 7.7%（corpus_df 6，visible）。
+- **本日指派（供明日輪替時比對）**：frame 對 09-07／09-06／09-05 三天**程式驗證 0 碰撞**，
+  F1–F12,F14 每框 ≤3 格；F13 ＝ `cold-jokes`／`slang-quotes`（F13 已用過 22 檔，剩 18 檔）；
+  scene 14 個全新語域（養鰻／剖檳榔／打石／車床攻牙／香蕉催熟／蘭花組培／外線架設／冷凍空調／
+  壓克力招牌／烘豆／撞球桿整修／養蛙／雷射雕刻／竹筍加工），14 個 token 經 `whiteland.py --variations`
+  實測全語料命中合計 **0**；**本日無 `named_terms`、無時效指派**。
+- ⚠️ **睡眠事故一次，只殺 1 個 agent**（`service-quotes`，殘留 0），同批另 3 個正常完成；重送一次即 PASS。
+  🔴 **這是 orchestrator 人工重送的結果——`SKILL.md` 的自動重試仍未實作（連 5 日）。**
+- ⚠️ **`SKILL.md` 與實際流程嚴重脫節**（日期寫死 2026-04-18、未提 `daily-brief.md`／
+  `daily-assignment.json`／`check_new_items.py`／`check_batch.py`／每批 commit）；且**兩份指派檔沒有任何
+  自動化在更新**，本日的輪框、換語域、換 F13、排除清單窗口皆由 daily-update 自行產生。
+- **新增 403／不可用來源（供明日簡報）**：`postharvest.ucdavis.edu`、`trowandholden.com`、
+  `moea.gov.tw`、`sweetmarias.com`、`chinatimes.com`、`crudo-leather.com`（403）；
+  `agriharvest.tw`（429）；`pttpedia.fandom.com`（402）；`taipower.com.tw`（取回空白）。
