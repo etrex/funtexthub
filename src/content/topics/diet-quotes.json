@@ -12797,6 +12797,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-455",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4409996/",
+      "sourceNote": "挪威成人橫斷面飲食調查（點心約 58% 發生在家、23% 在職場或學校，且不同地點的點心組成不同）；取其「同一個人在不同地點吃得不一樣」改寫成三個地點各一句",
+      "tags": ["減肥", "宵夜", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "球館那台車床上，老闆削我的球桿皮頭，一次少掉半公釐。\n公司抽屜第二格的餅乾從一包長到三包，沒有人承認是自己放的。\n昨天那個宵夜盤子還在矮桌上，今天這個疊在它上面。",
+          "editorNote": "適合在一天裡發現自己在三個地方各有一套吃法的時候發",
+          "variations": [
+            "短版：削掉的是半公釐，長出來的是兩包。",
+            "延伸版：老闆說皮頭太軟會吃不到球，我點頭，手上還拿著餅乾。"
+          ]
+        },
+        "en": {
+          "content": "On the lathe at the pool hall, the owner takes half a millimeter off my cue tip in one pass.\nThe cookies in the second drawer at work went from one pack to three, and nobody will say who put them there.\nLast night's snack plate is still on the low table, with tonight's stacked on top.",
+          "editorNote": "For the day you notice you eat like three different people in three different places",
+          "variations": [
+            "Short: Half a millimeter comes off, two packs go in.",
+            "Extended: He said a soft tip won't grip the ball. I nodded with a cookie in my hand."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-456",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss-plateau/art-20044615",
+      "sourceNote": "Mayo Clinic 減重停滯期衛教（初期下降多為肝醣帶走的水分，體重下降後代謝也跟著下降）；取其「數字不再動」改寫成三個人各講一句",
+      "tags": ["減肥", "體重計", "自嘲", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這顆球桿皮頭磨到剩最後一層皮了，你自己看。」\n「你便當又只吃半個，晚上一定會去找東西。」\n「那台秤沒準啦，我上禮拜也站過。」",
+          "editorNote": "適合在同一天被三個不相干的人講到吃這件事的時候發",
+          "variations": [
+            "短版：三個人講的是三件事，只有我知道是同一件。",
+            "延伸版：他們說完各自回去忙，我留在原地又量了一次。"
+          ]
+        },
+        "en": {
+          "content": "\"That cue tip is down to its last layer of leather. Take a look yourself.\"\n\"You ate half your lunch again. You'll be raiding something tonight.\"\n\"That scale is off. I stood on it last week too.\"",
+          "editorNote": "For a day when three unrelated people all end up talking about what you eat",
+          "variations": [
+            "Short: Three people, three subjects, one topic I'd rather not name.",
+            "Extended: They went back to what they were doing. I stayed put and weighed myself once more."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-457",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4135489/",
+      "sourceNote": "早期減重停滯期的數學模型分析（間歇性未遵從飲食才是主因，而非代謝適應）；取其「身體沒變，是中間漏掉的那幾天」改寫成三個地點的三個動作",
+      "tags": ["減肥", "自嘲", "拖延", "食物"],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店的玻璃門把我側面照得很清楚，我把蛋餅改成半份。師傅在桿房裡拿砂紙修圓新換的皮頭，木屑落在他鞋面上。紅綠燈在回家的那個路口壞掉，我站著把外套拉鍊拉到最上面。",
+          "editorNote": "適合在一天做了一件好事、其他什麼都沒改變的時候發",
+          "variations": [
+            "短版：半份蛋餅換不到什麼，但那天我確實只吃半份。",
+            "延伸版：砂紙磨的是皮頭邊緣，我磨的是同一句明天開始。"
+          ]
+        },
+        "en": {
+          "content": "The glass door of the breakfast shop shows me my own side view, so I cut the egg roll down to half a portion. Back in the workshop the craftsman sands the newly fitted tip round, and the dust settles on his shoe. A traffic light quits at the intersection on my way home, and I stand there zipping my jacket all the way up.",
+          "editorNote": "For a day with exactly one good decision in it and nothing else changed",
+          "variations": [
+            "Short: Half an egg roll buys you nothing, but I really did stop at half.",
+            "Extended: His sandpaper works the edge of the tip. Mine works the same sentence about starting tomorrow."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-458",
+      "dateAdded": "2026-09-08",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11722569/",
+      "sourceNote": "「邊看電視邊吃會增加進食量」的實驗研究系統性回顧與統合分析；取其「注意力在別的地方」改寫成三個地方的三個畫面",
+      "tags": ["減肥", "食物", "自嘲", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "麵店牆上的電視在重播，我把湯推到桌角沒喝。\n客廳那包餅乾在第三集播完的時候就空了。公園步道我走了兩圈，手機說一點七公里。",
+          "editorNote": "適合在三個畫面裡都有食物、只有一個畫面有在動的時候發",
+          "variations": [
+            "短版：兩圈一點七公里，一集一整包餅乾。",
+            "延伸版：麵湯我沒喝，那包餅乾我一口都沒留。"
+          ]
+        },
+        "en": {
+          "content": "A rerun is playing on the TV up on the noodle shop wall, and I push the broth to the edge of the table without touching it.\nThe cookie bag in the living room was empty by the time episode three ended. On the park loop I did two laps, and my phone says one point seven kilometers.",
+          "editorNote": "For when food turns up in all three scenes and only one of them involves moving",
+          "variations": [
+            "Short: Two laps, 1.7 kilometers. One episode, one whole bag.",
+            "Extended: I left the broth alone. The bag I did not leave alone at all."
+          ]
+        }
+      }
     }
   ]
 }
