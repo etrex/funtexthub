@@ -13816,6 +13816,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-507",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://dev.to/siti_aisyahmatzainal_73/one-sentence-from-my-senior-engineer-changed-how-i-think-about-software-4oe3",
+      "sourceNote": "DEV 貼文：資深工程師隨口一句「Your notes are scattered」成為作者多年後仍記得的一句話；取「被記住的往往是最不像格言的那句」核心，換成機房前輩留下的三個字，並置入石灰窯冷卻的工序",
+      "tags": [
+        "工程師語錄",
+        "工程師日常",
+        "維護",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "大哥在石灰窯顧過十幾年火，退休後到我們公司管機房，帶我的第一個月只留下三個字：等它冷。\n我當時以為他在說機殼燙，過了很久才聽出來他什麼東西都這樣講。\n上禮拜服務掛掉，我把手從鍵盤上收回來，坐了二十分鐘沒動。\n同事問我在做什麼，我照著那三個字講一次，他去翻監控，說十四分鐘前就好了。",
+          "editorNote": "適合分享給剛接手維運的新人，或用在「手癢想動生產環境」的當下自我提醒。",
+          "variations": [
+            "短版：他留下的三個字是等它冷，十四分鐘後我懂了。",
+            "延伸版本：後來機房換了人管，那三個字沒有寫進任何一份交接文件。"
+          ]
+        },
+        "en": {
+          "content": "He tended the fire at a lime kiln for a dozen years, then came to us to run the server room, and in my first month all he left me was three words: let it cool.\nI took it to mean the chassis was hot, and it was a long while before I heard that he said it about everything.\nLast week the service went down, and I pulled my hands off the keyboard and sat still for twenty minutes.\nA coworker asked what I was doing, I repeated those three words, he opened the dashboard, and it had recovered fourteen minutes earlier.",
+          "editorNote": "For the moment an offhand line from a mentor turns out to be the one thing you kept, and for teams learning to stop poking a recovering service.",
+          "variations": [
+            "Short version: the three words he left were let it cool, and fourteen minutes later I got it.",
+            "Extension: the server room changed hands later, and those three words never made it into any handover doc."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-508",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://dev.to/le0nidas/write-comments-only-when-they-answer-the-why-38lj",
+      "sourceNote": "DEV 貼文主張註解只該回答 why，並指出原作者幾天後就會忘記理由；反過來寫成「交接時只留下四句口語、理由全部沒留下」的清單",
+      "tags": [
+        "工程師日常",
+        "交接",
+        "維護",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 他站著把交接講完就走，我抄下來的只有這些\n— 「它壞了會自己叫，你不用一直盯」\n— 「星期五不要碰那台」\n— 「日誌看最後三行就夠了」\n— 「有人找我就說我出去了」\n— 這張便條紙壓在鍵盤底下，四句我做到兩句",
+          "editorNote": "交接週可以拿出來用，也適合形容「文件只存在於某個人嘴上」的團隊。",
+          "variations": [
+            "短版：— 它壞了會自己叫\n— 星期五不要碰\n— 日誌看三行",
+            "延伸版本：第五句他沒講，我猜是不要學他站著講完就走。"
+          ]
+        },
+        "en": {
+          "content": "— He gave the whole handover standing up and walked out, and this is everything I wrote down.\n— \"It'll shout at you when it breaks, so quit watching it.\"\n— \"Don't touch that box on a Friday.\"\n— \"The last three lines of the log are plenty.\"\n— \"If anyone wants me, say I stepped out.\"\n— The note lives under my keyboard, and I manage two of the four.",
+          "editorNote": "Good for handover week, and for anyone whose only documentation is four sentences someone said out loud.",
+          "variations": [
+            "Short version: — it shouts when it breaks\n— no Fridays\n— three lines of log",
+            "Extension: there was no fifth line, and I assume it was don't give a handover standing up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-509",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lime_kiln",
+      "sourceNote": "Wikipedia Lime kiln：傳統間歇窯一週一批，裝一天、燒三天、冷兩天、出灰一天，冷卻不足會出問題；把「冷卻時間不能省」搬到週五上版的團隊禁忌上",
+      "tags": [
+        "工程師日常",
+        "上線",
+        "職場",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "澎湖那趟導覽，阿伯站在石灰窯前面講燒三天、冷兩天，講完拍一下磚說：冷不夠就整批廢掉。\n我在旁邊想的是週五晚上到底要不要上版。\n那個週五我還是上了，什麼事都沒有，隔一週的週五我就沒上。\n現在團隊裡沒有人講得出週五為什麼不上版，只知道週五不上版。",
+          "editorNote": "適合用在「這條規矩沒人記得原因但大家照做」的討論，或替不排週五上版辯護的時候。",
+          "variations": [
+            "短版：冷不夠就整批廢掉，這句話我拿去用在別的地方。",
+            "延伸版本：新來的問過一次週五為什麼不上版，我講了石灰窯，他點頭就走了。"
+          ]
+        },
+        "en": {
+          "content": "On that Penghu tour, the old guide stood by the lime kiln explaining three days of burning and two days of cooling, then patted the brick: cool it short and the whole batch is scrap.\nWhat I was doing beside him was deciding whether to ship on Friday night.\nI shipped that Friday and nothing happened, and the Friday after that I did not ship at all.\nNobody on the team can now say why Fridays are off, only that Fridays are off.",
+          "editorNote": "For teams that inherited a deployment taboo nobody can trace, and for anyone defending cooling time in a release plan.",
+          "variations": [
+            "Short version: cool it short and the whole batch is scrap, a line I now use somewhere else entirely.",
+            "Extension: a new hire asked once why Fridays are off, I told him about the lime kiln, and he nodded and left."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-510",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/",
+      "sourceNote": "Simple Thread 二十年心得：資料活得比程式碼久、維護優於重寫、老技術是鯊魚不是恐龍；取「沒人敢動的東西反而活最久」寫成離職前的一句交代",
+      "tags": [
+        "工程師日常",
+        "技術債",
+        "維護",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她離職前最後一次站會，只講了一句：那台我沒動過，你們也不要動。\n沒有人問是哪一台，散會之後也沒有人回頭去問。\n去年底盤點，我們數出三台從來沒有人登入過的機器，全部還亮著。\n每次有人提議清掉它們，會議室會安靜幾秒，然後直接跳到下一件事。",
+          "editorNote": "適合用在盤點老機器、或每次提要下線卻沒人敢按的場合。",
+          "variations": [
+            "短版：那台我沒動過，你們也不要動——三台都還亮著。",
+            "延伸版本：她的帳號早就關了，機器名字還掛在她的名字底下。"
+          ]
+        },
+        "en": {
+          "content": "At her last standup before she left, she said one thing: I never touched that box, and you shouldn't either.\nNo one asked which box, and no one circled back to ask once the meeting broke up.\nDuring the year-end inventory we counted three machines nobody had ever logged into, all still lit.\nEvery time someone suggests killing them the room goes quiet for a few seconds, then jumps straight to the next item.",
+          "editorNote": "For the machine everyone leaves alone, and for the meeting where cleanup gets proposed and quietly dropped again.",
+          "variations": [
+            "Short version: I never touched that box, and you shouldn't either — all three are still lit.",
+            "Extension: her account was closed long ago, and the machine names still sit under her name."
+          ]
+        }
+      }
     }
   ]
 }

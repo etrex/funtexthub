@@ -11360,6 +11360,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-400",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://news.591.com.tw/news/4262",
+      "sourceNote": "居家媒體整理海島型氣候的除濕方式，指出通風與溫差才是關鍵、除濕機只是其中一環；取其「牆面自己出水」的物理現象，改寫為原創的租屋情境",
+      "tags": [
+        "租屋",
+        "潮濕",
+        "套房",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "梅雨下到第三天，牆面自己滲出水珠。\n對街的師傅把紙紮厝往店內挪了半公尺，屋簷這才滴不到。\n我把電風扇轉向那面牆，整夜沒關。",
+          "editorNote": "梅雨季牆壁開始出水、除濕機水箱一天倒兩次的時候可以發，配一張牆角照片效果最好",
+          "variations": [
+            "短版：牆自己在出水，電風扇對著它吹了整夜。",
+            "延伸版：師傅說紙碰到水就完了，我的牆倒是照樣站著。"
+          ]
+        },
+        "en": {
+          "content": "Third day of the rains, and the wall is beading up on its own.\nThe craftsman across the street shifts his paper spirit house half a meter deeper into the shop, clear of the drip line.\nI aim the fan at that wall and leave it running all night.",
+          "editorNote": "Post it in the rainy weeks, when the wall starts sweating and the dehumidifier tank gets emptied twice a day; a photo of the corner helps",
+          "variations": [
+            "Short: The wall is doing the sweating, and the fan points at it all night.",
+            "Extended: Paper is finished the moment it touches water, the craftsman says; my wall keeps standing anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-401",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://estate.ltn.com.tw/article/27909",
+      "sourceNote": "地產版報導濕熱季節的居家防護，提到租屋族最常卡在晾衣空間與衣物晾不乾；取其「一週都在跟濕度打交道」的節奏，改寫為原創的曬衣紀錄",
+      "tags": [
+        "租屋",
+        "日常",
+        "潮濕",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週一 襯衫收回來還是重的\n— 週三 風轉北，鐵架響了一夜\n— 週四 出太陽，被子曬四個鐘頭\n— 週五 午後又下，收進來還是溫的\n— 週日 曬衣繩換新，高一個手掌",
+          "editorNote": "當成一週的晾衣紀錄轉給同棟的鄰居，也可以直接拿給正在考慮這間房的人看",
+          "variations": [
+            "短版：這禮拜只有兩天曬得乾。",
+            "延伸版：新繩子高一個手掌，我現在要墊腳。"
+          ]
+        },
+        "en": {
+          "content": "— Monday. The shirts come back in still heavy.\n— Wednesday. Wind swings north, the rack rattles all night.\n— Thursday. Sun out, quilt on the line four hours.\n— Friday. Rain after noon, brought in still warm.\n— Sunday. New clothesline, a palm higher than the old one.",
+          "editorNote": "Send it as a week's drying log to the neighbor down the hall, or hand it straight to whoever is thinking of taking this place",
+          "variations": [
+            "Short: Only two days this week dried all the way through.",
+            "Extended: The new line sits a palm higher, so now I stand on my toes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-402",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://bankofculture.com/archives/2789",
+      "sourceNote": "文化報導記錄百年糊紙店以竹篾與紙張手工紮成屋厝，作品最大曾達二十尺；取其「紙做的房子最怕水」的材料事實，改寫為原創的颱風前租屋情境",
+      "tags": [
+        "租屋",
+        "房東",
+        "颱風",
+        "報修"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風還沒轉向，隔壁店裡的紙紮厝先被抬到最裡面去。\n房東下午繞過來一趟，用膠帶在我的窗框上壓了兩道。\n他走的時候雨才開始，傘沒撐開就上車了。",
+          "editorNote": "颱風前一天貼在群組裡剛好，房東來過與沒來過的差別，看窗框就知道",
+          "variations": [
+            "短版：紙做的先進屋避雨，我的窗才輪到膠帶。",
+            "延伸版：風走了以後膠帶還黏在那裡，房東沒有再出現。"
+          ]
+        },
+        "en": {
+          "content": "The typhoon hasn't turned yet, and next door the paper spirit house gets carried to the very back of the shop.\nThe landlord swings by in the afternoon and presses two strips of tape across my window frame.\nRain starts as he leaves, and he gets into the car without opening his umbrella.",
+          "editorNote": "Good for the group chat the day before a storm; you can tell whether the landlord showed up just by looking at the window frame",
+          "variations": [
+            "Short: The paper one goes indoors first; my window only rates tape.",
+            "Extended: The tape is still stuck there after the wind moves on, and the landlord isn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-403",
+      "dateAdded": "2026-09-07",
+      "sourceUrl": "https://www.storm.mg/article/11076290",
+      "sourceNote": "媒體整理反潮成因，說明室外濕度高於室內時開窗反而更濕、南向窗該關；取其「今天到底能不能曬」的判斷難題，改寫為原創的租屋對話",
+      "tags": [
+        "租屋",
+        "室友",
+        "日常",
+        "荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天算晴的嗎。」\n「上午那陣不算的話，算。」\n「那我把棉被搬出去。」\n「風有轉南，晚一點會回潮。」\n「搬出去再說。」",
+          "editorNote": "出被子之前的例行對話，丟給那個每天早上都要問你今天能不能曬的人剛剛好",
+          "variations": [
+            "短版：「那我還是搬出去。」",
+            "延伸版：「傍晚記得收。」「知道了。」"
+          ]
+        },
+        "en": {
+          "content": "\"Does today count as clear?\"\n\"If that stretch this morning doesn't count, then yes.\"\n\"Then I'm taking the quilt out.\"\n\"Wind's swung south, it'll turn damp later.\"\n\"Out it goes anyway.\"",
+          "editorNote": "The standard exchange before the bedding goes out; perfect for whoever asks you every morning whether it's a drying day",
+          "variations": [
+            "Short: \"Out it goes anyway.\"",
+            "Extended: \"Bring it in before dark.\" \"I know.\""
+          ]
+        }
+      }
     }
   ]
 }
