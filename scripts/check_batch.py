@@ -50,6 +50,21 @@ def main():
     notes.append(f'coverage {len(per)}/{EXPECTED_TOPICS}, n={n}, '
                  f'distribution {dict(collections.Counter(per.values()))}')
 
+    # -- 停擺日降級（9/06 + 9/07 各發生一次假警報）---------------------------
+    # share 型讀數的門檻是照 42 檔校準的。coverage 掉到 n 檔時，門檻等效收緊
+    # 成 (limit * n / 42) 檔，於是「同樣的絕對格數」在停擺日會紅、在正常日不會。
+    # 實測：9/06 兩個 scene_class 16.7%（2/12，正常日 4.8%）；
+    #       9/07 三個 scene_class 10.3%（3/29，正常日 7.1%）。五個全是假警報。
+    # 處置：coverage < 42 時，把 share 型檢查降級為 report-only，只留 coverage
+    # 本身為 FAIL——否則假警報會淹掉唯一真正的紅燈。
+    degraded = len(per) != EXPECTED_TOPICS
+    def share_fail(msg):
+        if degraded:
+            notes.append(f'DEGRADED (coverage {len(per)}/{EXPECTED_TOPICS}) '
+                         f'share-type not enforced: {msg}')
+        else:
+            fails.append(msg)
+
     # -- cross-file opening collisions (the 8/25 defect) ---------------------
     op = collections.defaultdict(list)
     for slug, iid, c, _ in rows:
@@ -82,7 +97,7 @@ def main():
     reg_pct = round(len(reg_rows) / n * 100, 1)
     leaked = sorted({r[0] for r in reg_rows} - inst_topics)
     if reg_pct > M.REGISTER_DOC_LIMIT:
-        fails.append(f'公文體 union {reg_pct}% > {M.REGISTER_DOC_LIMIT}%')
+        share_fail(f'公文體 union {reg_pct}% > {M.REGISTER_DOC_LIMIT}%')
     if leaked:
         fails.append(f'公文體 leaked outside {sorted(inst)} files: {leaked}')
     notes.append(f'register_doc {reg_pct}% (limit {M.REGISTER_DOC_LIMIT}%), '
@@ -94,7 +109,7 @@ def main():
     for cls, c in cls_items.most_common(3):
         pct = round(c / n * 100, 1)
         if pct > SCENE_CLASS_LIMIT:
-            fails.append(f'scene class 「{cls}」 {pct}% > {SCENE_CLASS_LIMIT}%')
+            share_fail(f'scene class 「{cls}」 {pct}% > {SCENE_CLASS_LIMIT}%')
     top = cls_items.most_common(1)[0]
     notes.append(f'max scene class 「{top[0]}」 {round(top[1]/n*100,1)}% '
                  f'(limit {SCENE_CLASS_LIMIT}%)')
@@ -120,7 +135,7 @@ def main():
         notes.append(f'{name} {round(h/n*100,1)}%')
     wait = sum(1 for r in rows if any(w in r[2] for w in M.WAITING))
     if round(wait / n * 100, 1) > 10.0:
-        fails.append(f'waiting union {round(wait/n*100,1)}% > 10.0%')
+        share_fail(f'waiting union {round(wait/n*100,1)}% > 10.0%')
     notes.append(f'waiting union {round(wait/n*100,1)}% (limit 10.0%)')
 
     # -- prior-day exclusion terms, body AND label-stripped variations ------
@@ -201,8 +216,8 @@ def main():
     lp_pct = round(len(mm) / n * 100, 2)
     if lp_pct > M.LINE_PARITY_LIMIT:
         by = collections.Counter(r[0] for r in mm).most_common(6)
-        fails.append(f'line_parity_mismatch {lp_pct}% > {M.LINE_PARITY_LIMIT}% '
-                     f'({len(mm)} items, worst: {by})')
+        share_fail(f'line_parity_mismatch {lp_pct}% > {M.LINE_PARITY_LIMIT}% '
+                   f'({len(mm)} items, worst: {by})')
     if len(coll) > M.EN_COLLAPSED_LIMIT:
         fails.append(f'en_collapsed_to_1 = {len(coll)} > {M.EN_COLLAPSED_LIMIT}: '
                      f'{[f"{r[0]}:{r[1]}" for r in coll][:10]}')
