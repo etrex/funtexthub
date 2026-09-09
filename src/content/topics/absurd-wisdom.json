@@ -13836,6 +13836,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-530",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://blog.justfont.com/2014/06/go-to-rixing/",
+      "sourceNote": "justfont blog visit to Ri Xing Type Foundry: fixed type sizes from 初號 down to 六號, the 字身框/字面框 boundaries, and the shelf-picking process; used only as background for an original three-location scene",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "太原路那間鋪子的字架從地板排到天花板，要哪個字就得自己爬上去撿。\n巷子另一頭的影印店按一下就吐出一張，吐出來的每一張都跟前一張一樣。\n我桌上那顆鉛字擱到現在，它到底是哪個字，沾了墨壓下去才看得出來。",
+          "editorNote": "用在別人要你先講結論，而結論本來就得等東西做出來才會有的場合。",
+          "variations": [
+            "短版：沾了墨壓下去，才知道那是哪個字。",
+            "延伸版：爬上去撿了才知道，撿錯的那顆也是一個字。"
+          ]
+        },
+        "en": {
+          "content": "In the shop on Taiyuan Road the type shelves run floor to ceiling, and whichever character you want, you climb up and pick it out yourself.\nAt the copy shop down the lane one press of a button spits out a sheet, and every sheet it spits out matches the one before it.\nThe piece of lead type on my desk has sat there ever since, and which character it is, you find out by inking it and pressing down.",
+          "editorNote": "Use it when someone wants the conclusion up front and the conclusion only exists once the thing has been made.",
+          "variations": [
+            "Short version: Ink it, press it down, and then you know which character it is.",
+            "Extended: You climb up to pick one, and the wrong one you picked is also a character."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-531",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://lillian.tw/2015-08-31-129/",
+      "sourceNote": "Visitor account of buying type and doing letterpress DIY at Ri Xing: the forty-year-old picking tray, thousands of pieces on the shelves, and the size grading where a smaller number means bigger type; reworked into original overheard lines",
+      "tags": [
+        "廢話文學",
+        "對話",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個字架上沒有了，等下一爐鉛字倒出來才會有。」\n「印壞的那張你要留就留，留下來的就是印壞的那張。」\n「你問我這顆字值多少，它就值有人肯出的那個數。」",
+          "editorNote": "適合丟進那種每個人都講出一句正確到無法反駁的話、聽完只能點頭的群組。",
+          "variations": [
+            "短版：等下一爐倒出來才會有。",
+            "延伸版：「那什麼時候會有？」「有的時候就會有。」"
+          ]
+        },
+        "en": {
+          "content": "\"That one's off the shelf right now, and you'll have it when the next batch of lead type comes out of the pot.\"\n\"Keep the misprinted sheet if you want to keep it, and what you're keeping is a misprinted sheet.\"\n\"You're asking me what this one piece is worth, and it's worth whatever somebody will pay for it.\"",
+          "editorNote": "Drop this into a room where everyone says something unarguably true and nodding is the only available response.",
+          "variations": [
+            "Short version: You'll have it when the next batch comes out.",
+            "Extended: \"So when will you have it?\" \"When we have it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-532",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E6%97%A5%E6%98%9F%E9%91%84%E5%AD%97%E8%A1%8C",
+      "sourceNote": "Wikipedia entry on Ri Xing Type Foundry: founded 1969, lead melted at about 400 degrees Celsius for casting, and a stock of over three hundred thousand Chinese type molds; the temperature detail is the only thing borrowed",
+      "tags": [
+        "廢話文學",
+        "邏輯",
+        "台灣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鑄字行的爐邊。四百度就是四百度\n印刷廠的紙堆前。數過的那疊數過了\n我書桌鐵盒裡。鉛字沒撿也是鉛字",
+          "editorNote": "拿來回覆問你進度到哪的訊息，三個地方各自都很清楚，合起來還是什麼都沒交代。",
+          "variations": [
+            "短版：四百度就是四百度。",
+            "延伸版：鐵盒開著也沒少一顆，少的那天才會少。"
+          ]
+        },
+        "en": {
+          "content": "By the foundry furnace. Four hundred is four hundred\nAt the paper stack. The pile I counted is counted\nIn the tin on my desk. Lead type unpicked is lead type",
+          "editorNote": "A reply to a progress check: three places, each of them perfectly clear, adding up to nothing at all.",
+          "variations": [
+            "Short version: Four hundred is four hundred.",
+            "Extended: Nothing goes missing from the open tin until the day something does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-533",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://www.letterpress.org.tw/",
+      "sourceNote": "Ri Xing Type Foundry's own site: opening hours limited to Wednesday, Friday and Saturday, plus tours and type sales; used as background for an original after-hours scene, no text taken",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鐵門拉下來以後，鑄字行門口那台鑄字機還在，只是沒有人開它。街尾那間裝訂店改賣飲料，舊招牌上的字留下三個，剩下的那三個就是剩下的那三個。我夾在筆記本裡的那張名片，字是凸的，用手摸得出來的地方就是有字的地方。",
+          "editorNote": "整理舊東西的時候可以配這則，東西都還在，只是每一樣都停在自己原本的位置。",
+          "variations": [
+            "短版：摸得出來的地方就是有字的地方。",
+            "延伸版：機器還在，開不開是另一回事，不開就是沒開。"
+          ]
+        },
+        "en": {
+          "content": "After the shutter came down the casting machine by the foundry door was still there, and nobody switched it on. The bindery at the end of the street sells drinks now, three characters left on the old sign, and the three that are left are the three that are left. The card tucked into my notebook has raised type, and wherever your finger feels something is where the characters are.",
+          "editorNote": "Pair it with a box of old things that are all still around, each one stopped exactly where it stopped.",
+          "variations": [
+            "Short version: Where your finger feels something is where the type is.",
+            "Extended: The machine is still there. Whether it runs is another matter, and not running is not running."
+          ]
+        }
+      }
     }
   ]
 }
