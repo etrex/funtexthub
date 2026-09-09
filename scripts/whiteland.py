@@ -51,12 +51,45 @@
   - 「這個主幹已飽和」→ **受影響很大**，而飽和判斷正是「禁用主幹」指令的依據。
     被此修正推翻的既有讀數見 research-log 2026-09-07。
 
+🔴 第二個分子缺陷（2026-09-09 發現）— 比對的**方式**，不是欄位
+------------------------------------------------------------------
+9/07 修好了「分子取哪個欄位」，但沒有人查過「怎麼比對」。原本一律用
+`term in text`（子字串），對中文沒問題（中文本來就沒有詞界），
+**對拉丁字母的查詢詞則是災難**：
+
+    ven   則數 5   raw 6953   倍率 1390.6x
+
+    raw 的 6953 幾乎全部來自 `en` 欄位裡的 even / seven / given / oven /
+    never…；而「則數 5」裡也有 2 則是誤判（cj-233 的 `seven`、
+    sl-080 的 `event`）。真實讀數是 **3 則／3 檔**。
+
+`ven` 不是假想例：它是 2026 年 Threads 上的現役迷因，正好是會被拿來當
+指派 token 的那種詞。舊行為會把它報成 PARTIAL(5)，實際是 THIN(3)。
+
+⇒ 修法：**查詢詞若全為 ASCII，改用「左詞界」比對**（詞前不得緊鄰
+  `[A-Za-z0-9]`，詞尾不設限）；**含任何非 ASCII 字元者維持子字串**，
+  因為中文沒有詞界，且這樣可保證所有既有中文查詢的輸出**逐字不變**（已實測）。
+  含中英混寫的詞（如 `我再ven一次`）走子字串路徑，符合直覺。
+
+  ⚠️ **左右都設詞界是錯的，已實測後否決**：那樣 `teacher` 會漏掉 `teachers`
+  （83 → 80 則）、`costume` 漏掉 `costumes`（12 → 11 則）。白地掃描的錯誤
+  成本是**不對稱**的——假陰性會讓人把已寫過的主幹當白地去派，假陽性只會
+  讓人少派一個詞。所以只擋「查詢詞出現在別的字中間或字尾」這個主要
+  失效模式（`seven`／`event`／`given`／`oven` 之於 `ven`），
+  保留形態變化（複數、所有格、-ing）。殘留假陽性僅剩以查詢詞開頭的
+  別字（`vent`／`venue`），量級遠小於原本的 1390x。
+
+⚠️ 這一代與 9/07 那一代的差別值得記住：9/07 錯在**分子的來源**，
+  這一代錯在**分子的判準**。修好前者不會順便修好後者，
+  因為兩者在程式碼裡是不同的一行。
+
 本腳本永遠 exit 0，report-only，不接任何閘門。
 """
 import argparse
 import glob
 import json
 import os
+import re
 import sys
 
 TOPICS = "src/content/topics/*.json"
@@ -70,17 +103,36 @@ def load():
     return out
 
 
+ASCII_ONLY = re.compile(r"^[\x00-\x7f]+$")
+
+
+def _boundary(term):
+    """ASCII 查詢詞用詞界；含非 ASCII 者回傳 None（走子字串路徑）。"""
+    if not ASCII_ONLY.match(term):
+        return None
+    return re.compile(r"(?<![A-Za-z0-9])" + re.escape(term))
+
+
+def hit(term, text, pat):
+    return bool(pat.search(text)) if pat else (term in text)
+
+
+def occ(term, text, pat):
+    return len(pat.findall(text)) if pat else text.count(term)
+
+
 def scan(data, term, lang, use_variations):
     """回傳 (則數, 檔數, 命中的檔名 set)。分子只取 content（可選加 variations）。"""
     n = 0
     files = set()
+    pat = _boundary(term)
     for d in data:
         for it in d["items"]:
             block = it.get("i18n", {}).get(lang) or {}
             texts = [block.get("content") or ""]
             if use_variations:
                 texts += list(block.get("variations") or [])
-            if any(term in t for t in texts):
+            if any(hit(term, t, pat) for t in texts):
                 n += 1
                 files.add(d["slug"])
     return n, len(files), files
@@ -90,18 +142,18 @@ def breakdown(data, term, lang):
     c = {"content": 0, "editorNote": 0, "variations": 0, "tags": 0,
          "sourceNote": 0, "other-lang": 0}
     other = "en" if lang != "en" else "zh-tw"
+    pat = _boundary(term)
     for d in data:
         for it in d["items"]:
             b = it.get("i18n", {}).get(lang) or {}
-            c["content"] += (b.get("content") or "").count(term)
-            c["editorNote"] += (b.get("editorNote") or "").count(term)
-            c["variations"] += sum(v.count(term) for v in (b.get("variations") or []))
-            c["tags"] += sum(x.count(term) for x in (it.get("tags") or []))
-            c["sourceNote"] += (it.get("sourceNote") or "").count(term)
-            c["sourceNote"] += (it.get("sourceUrl") or "").count(term)
-            c["other-lang"] += json.dumps(
-                it.get("i18n", {}).get(other) or {}, ensure_ascii=False
-            ).count(term)
+            c["content"] += occ(term, b.get("content") or "", pat)
+            c["editorNote"] += occ(term, b.get("editorNote") or "", pat)
+            c["variations"] += sum(occ(term, v, pat) for v in (b.get("variations") or []))
+            c["tags"] += sum(occ(term, x, pat) for x in (it.get("tags") or []))
+            c["sourceNote"] += occ(term, it.get("sourceNote") or "", pat)
+            c["sourceNote"] += occ(term, it.get("sourceUrl") or "", pat)
+            c["other-lang"] += occ(term, json.dumps(
+                it.get("i18n", {}).get(other) or {}, ensure_ascii=False), pat)
     return c
 
 
