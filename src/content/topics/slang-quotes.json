@@ -12784,6 +12784,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sl-437",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://sutian.moe.edu.tw/zh-hant/su/14403/",
+      "sourceNote": "教育部臺灣台語常用詞辭典「落漆 lak-tshat」詞目，同時收油漆脫落與出糗、表現失常兩個義項，取其雙義概念，情境與文字自行重寫",
+      "tags": [
+        "落漆",
+        "台語",
+        "出糗",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "師傅站在半乾的洗石子前面，說這面有點落漆，我在旁邊點頭，同時想起自己昨天把數字念錯。他講的是右下角那幾顆石粒沒吃進水泥，手指一撥就掉了三顆。我想的是全場安靜兩秒，然後有人替我把那頁翻過去。兩種落漆都發生在昨天下午。",
+          "editorNote": "落漆本來是油漆剝落，台語念 lak-tshat，拿來講人就是當場表現失常、很不好看。它比「出糗」好用的地方在畫面：東西掉了一小塊，還看得出來原本是完整的，所以往自己身上放不會太重。要留意的是它自帶評價，講別人剛結束的簡報或剛交出去的東西，對方收到的就是「你做壞了」四個字，不會覺得你只是在描述一面牆。",
+          "variations": [
+            "短版：這面洗石子右下角落漆，我昨天的簡報也是。",
+            "延伸版：把牆換成新剪的頭髮，收在「後面那一撮落漆，前面完全看不出來」。"
+          ]
+        },
+        "en": {
+          "content": "The plasterer stood in front of the half-dry washed-pebble wall and said this part came out 落漆, and I nodded along while remembering the number I read wrong in yesterday's meeting. He was talking about the pebbles in the lower right corner that never bit into the cement, three of them coming loose under his thumb. I was thinking about the room going quiet for two seconds before somebody turned the page for me. Both kinds of 落漆 happened yesterday afternoon.",
+          "editorNote": "落漆 is paint flaking off, lak-tshat in Taiwanese, and pointed at a person it means you came apart where everyone could watch. It beats plain embarrassment because of the picture attached: a piece fell away, and you can still tell the thing used to be whole, which keeps it light when you aim it at yourself. Aim it at someone whose presentation just ended and the judgment arrives intact, because they hear you grading the work rather than describing a wall.",
+          "variations": [
+            "Short version: 'lower right corner of this washed-pebble wall came out 落漆. So did my slides yesterday.'",
+            "Extended: swap the wall for a fresh haircut, closing on 'the patch at the back is 落漆 and the front is flawless.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-438",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://vocus.cc/article/66c09e47fd897800014fd885",
+      "sourceNote": "方格子文章討論台灣人講「機車」形容人的來歷（由台語粗話雅化）與分寸問題，取其一詞兩義概念，情境與文字自行重寫",
+      "tags": [
+        "機車",
+        "形容詞",
+        "分寸",
+        "台灣用語"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 工頭喊隔壁那台機車要移開\n— 我先道歉，說以後不會再問那麼細\n— 他要的是洗石子石粒卸貨的位子\n— 我想的是昨天連問七次那件事\n— 兩個人各自安靜了三秒\n— 他去移車，我把問題再問一次",
+          "editorNote": "同樣兩個字，在台灣既是路邊的交通工具，也是形容人難搞、愛計較的話。語源其實不乾淨，是從台語粗話雅化來的，只是現在多數人講的時候已經沒有那個重量。相對安全的用法是講事情、講規則、講自己：塞車很機車、這條規定很機車。主詞一換成活生生的人，語氣再輕對方也很難裝作沒聽到。",
+          "variations": [
+            "短版：他喊機車要移開，我以為在說我。",
+            "延伸版：把工地換成家裡，收在「我媽喊機車，我還在想我哪裡惹到她」。"
+          ]
+        },
+        "en": {
+          "content": "— The foreman shouted that the 機車 next door had to move.\n— I apologized first and promised to stop asking so much.\n— He wanted the spot clear for the 洗石子 pebble delivery.\n— I was thinking about asking the same thing seven times.\n— We both went quiet for about three seconds.\n— He moved the bike. I asked my question again.",
+          "editorNote": "In Taiwan 機車 is both the scooter parked in the lane and a word for a person who makes everything harder than it has to be. Its history is not polite, since it works as a cleaned-up stand-in for a Taiwanese swear word, though hardly anyone feels that weight today. It rides safest on situations and rules, as in traffic is 機車 or this policy is 機車. Put a human being in the subject slot and even the gentlest delivery becomes something they have to decide whether to answer.",
+          "variations": [
+            "Short version: 'he yelled that the 機車 had to move, and I thought he meant me.'",
+            "Extended: move it home, landing on 'Mom yelled 機車 and I spent a minute working out what I had done.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-439",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%B7%B2%E8%AE%80%E4%B8%8D%E5%9B%9E",
+      "sourceNote": "維基百科「已讀不回」條目說明 LINE 已讀顯示的由來與衍生的人際壓力，取「已讀秒數被讀成態度」的概念寫成秒讀，情境與文字自行重寫",
+      "tags": [
+        "秒讀",
+        "訊息",
+        "距離感",
+        "網路"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你剛剛秒讀欸」\n「我人在洗石子那面牆下，手機夾在肩膀」\n「所以你有看到」\n「看到了，工頭同時在噴水，喊我第三遍」\n「你先回哪一個」\n「會噴到我的那個」",
+          "editorNote": "秒讀說的是訊息送出去幾秒內就被打開，然後沒有下文。對傳的人來說那幾秒最難放過，因為它證明對方確實在手機前面。真實情況常常是手裡拿著手機在做別的事，看到跟能回本來就是兩件事。這個詞用來自嘲很順，用來質問就變成一支計時器。",
+          "variations": [
+            "短版：「你剛剛秒讀」「我手機夾在肩膀上」",
+            "延伸版：把工地換成開車，收在「我在等紅燈，綠燈一亮你就變成已讀」。"
+          ]
+        },
+        "en": {
+          "content": "\"You opened that in about a second.\"\n\"I was under the 洗石子 wall with my phone wedged on my shoulder.\"\n\"So you did see it.\"\n\"Saw it. The foreman was hosing the wall and calling me a third time.\"\n\"Which one did you answer first.\"\n\"The one that could soak me.\"",
+          "editorNote": "秒讀 describes a message opened within seconds of arriving and then left with nothing after it. Those seconds are the hardest part for the sender, since they prove the other person was right there holding the phone. What usually happened is that the phone was already in a hand doing something else, and seeing a message has never been the same thing as being able to answer it. The word runs smoothly when you aim it at yourself and turns into a stopwatch the moment you aim it at someone else.",
+          "variations": [
+            "Short version: '\"you read that in a second.\" \"My phone was on my shoulder.\"'",
+            "Extended: put it in a car, landing on 'I was at a red light, and the second it turned green you became a read receipt.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "sl-440",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://itaigi.tw/k/%E5%94%AC%E7%88%9B/",
+      "sourceNote": "iTaigi 愛台語「唬爛」詞條頁，收錄吹牛、亂講的台語講法，取其「講得比事實大」的用法概念，情境與文字自行重寫",
+      "tags": [
+        "唬爛",
+        "吹牛",
+        "台語",
+        "家人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿嬤問我一個月領多少，我把數字報出來，她說我唬爛。\n她講的是這個數字扣掉房租和三餐以後不可能剩下什麼，要我再算一遍給她看。\n我講的是那個數字真的存在，只是話說到這裡，我自己也開始重算。",
+          "editorNote": "唬爛在台灣口語裡就是吹牛、亂講，寫成虎爛也通，有一說跟日文的法螺有關，總之指的是話講得比事實大一號。好玩的是很多時候講的人並不真的認為你在說謊，他只是覺得你給的版本太漂亮。長輩對晚輩尤其常這樣用，多半是要你把細節攤開來給他看，而不是要你認錯。",
+          "variations": [
+            "短版：我報出數字，阿嬤只回兩個字，唬爛。",
+            "延伸版：把阿嬤換成同事，收在「我說我十點就睡，整間辦公室都說唬爛」。"
+          ]
+        },
+        "en": {
+          "content": "My grandmother asked what I take home in a month, I said the number out loud, and she called it 唬爛.\nShe meant that after rent and three meals a day that number cannot possibly leave anything behind, and she wanted me to do the math again in front of her.\nI meant the number is real, though by the time I finished saying it I had started doing the math again myself.",
+          "editorNote": "唬爛 is Taiwanese Mandarin for tall talk, also written 虎爛, with one account tracing it back to the Japanese word for blowing a conch shell. Either way it points at a version of events that runs a size larger than the facts. The interesting part is that the person saying it often does not think you are lying, only that the version you handed over came out too neat. Older relatives use it on younger ones constantly, and what they want is the details spread out where they can see them.",
+          "variations": [
+            "Short version: 'I said the number. My grandmother answered with one word: 唬爛.'",
+            "Extended: make it a coworker, landing on 'I said I go to bed at ten and the whole office called 唬爛.'"
+          ]
+        }
+      }
     }
   ]
 }
