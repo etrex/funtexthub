@@ -13741,6 +13741,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-483",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://cyclingtime.com/tw/documents/8432.html",
+      "sourceNote": "取材自單車時代補胎 DIY 教學中泡水找破洞、砂紙磨平、補胎片搓揉密合與打氣複檢的流程；天氣紀錄情境為原創",
+      "tags": [
+        "黑色幽默",
+        "日常",
+        "孤獨",
+        "時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週一晴，內胎泡水盆，冒三個泡\n— 週二起風，補片壓了兩分鐘\n— 週三午後雷雨，車沒牽出去\n— 週四下毛毛雨，補片翹起一角\n— 週五放晴，胎壓還滿的\n— 週六又晴，鎖頭沒動過",
+          "editorNote": "適合在東西都修好了、天氣也一路轉好，卻沒有人要用它的時候拿出來；也可以丟給那種修東西比用東西勤快的朋友。",
+          "variations": [
+            "短版：\n— 週五放晴，胎壓還滿的\n— 週六又晴，鎖頭沒動過",
+            "延伸版：\n— 週日大晴，胎壓開始掉\n— 下週一，補片邊緣自己黑了"
+          ]
+        },
+        "en": {
+          "content": "— Monday, sun. Inner tube in the basin, three bubbles.\n— Tuesday, wind. Two minutes of thumb on the patch.\n— Wednesday, thunder after noon. The bike stays under the eaves.\n— Thursday, drizzle. One corner of the patch lifts.\n— Friday, clear. Pressure still holding.\n— Saturday, sun again. The lock hasn't moved.",
+          "editorNote": "For a week where everything got fixed and the weather cleared up and nobody came to use any of it; good for the friend who repairs more than they ride.",
+          "variations": [
+            "Short:\n— Friday, clear. Pressure still holding.\n— Saturday, sun again. The lock hasn't moved.",
+            "Extended:\n— Sunday, wide open sky. Pressure starts dropping.\n— Monday, the edge of the patch has gone black by itself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-484",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://slime.com/pages/how-to-patch-a-bicycle-tube",
+      "sourceNote": "取材自 Slime 補胎教學中把內胎分段浸水看氣泡、以粉筆標記破洞位置的做法；颱風前收店情境為原創",
+      "tags": [
+        "黑色幽默",
+        "諷刺",
+        "存在主義",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風還沒到，風先來了，鐵捲門拉到剩一半高。他把三條內胎排在地上，一條一條泡進水盆，冒泡的地方就用粉筆畫圈。第三條從頭到尾沒有冒，他還是畫了一個圈，按在水底按了很久。雨開始打在鐵門上，他把那條擦乾、收進袋子，掛回牆上寫著名字的那個鉤子。",
+          "editorNote": "適合用在一件事已經沒有東西可以修、流程卻還是照跑一遍的時候；也可以在有人把整套動作做完只為了不要停下來時分享。",
+          "variations": [
+            "短版：第三條從頭到尾沒有冒泡，他還是畫了一個圈。",
+            "延伸版：鐵捲門後來拉到底，袋子留在鉤子上，風整夜在外頭繞。"
+          ]
+        },
+        "en": {
+          "content": "The typhoon hadn't landed yet but the wind had, and the shutter came down to half height. He laid three inner tubes on the floor and sank them in the basin one at a time, chalking a circle wherever bubbles came up. The third one never bubbled at all. He circled it anyway and held it under for a long time. Rain started hitting the shutter, so he dried that one, bagged it, and hung it back on the hook with the name written under it.",
+          "editorNote": "For when there is nothing left to repair and the whole procedure gets run through anyway; also for someone doing every step of something just to avoid stopping.",
+          "variations": [
+            "Short: The third one never bubbled at all, and he chalked a circle on it anyway.",
+            "Extended: The shutter went all the way down later. The bag stayed on the hook and the wind kept going around outside all night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-485",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://blog.velodash.co/2021/04/06/tirefixing_method/",
+      "sourceNote": "取材自 velodash 專文對補胎與換胎取捨、補過的內胎能否長期使用的討論；父子與雨衣情境為原創",
+      "tags": [
+        "黑色幽默",
+        "家庭",
+        "死亡",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這種天，補好了也沒人會騎吧」\n「會，我爸那台，他說入秋要騎去看海」\n「內胎我幫你換新的，補的撐不久」\n「補的就好，反正也不會騎太遠」\n「風轉北了，你車籃裡那件雨衣濕了」\n「那件是他的，我不動它」",
+          "editorNote": "適合在一段對話裡兩個人講的是同一台車、卻明顯不是同一件事的時候；也可以在有人堅持修一個沒有人會用的東西時分享。",
+          "variations": [
+            "短版：\n「內胎我幫你換新的，補的撐不久」\n「補的就好，反正也不會騎太遠」",
+            "延伸版：\n「雨要停了，車先放我這」\n「不用，我牽回去，他習慣停在原位」"
+          ]
+        },
+        "en": {
+          "content": "\"Weather like this, nobody's riding it even after you fix it.\"\n\"He will. It's my dad's. He said he'd ride out to the coast once fall came.\"\n\"Let me put a new tube in for you. A patch won't hold long.\"\n\"The patch is fine. It's not going far anyway.\"\n\"Wind's turned north. That rain jacket in your basket is soaked.\"\n\"That one's his. I leave it alone.\"",
+          "editorNote": "For a conversation where two people are talking about the same bike and plainly not about the same thing; also for anyone insisting on fixing something no one will use.",
+          "variations": [
+            "Short:\n\"Let me put a new tube in for you. A patch won't hold long.\"\n\"The patch is fine. It's not going far anyway.\"",
+            "Extended:\n\"Rain's easing off. Leave the bike with me.\"\n\"No, I'll walk it back. He likes it parked where it was.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-486",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://www.parktool.com/en-us/blog/repair-help/inner-tube-repair",
+      "sourceNote": "取材自 Park Tool 補胎說明中膠水須完全乾燥、補片邊緣須持續加壓一分鐘以上的要求；夏天騎樓與反覆補同一條胎的情境為原創",
+      "tags": [
+        "黑色幽默",
+        "自嘲",
+        "現代生活",
+        "存在主義"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三十五度，柏油發軟，膠水塗上去五秒就乾。他蹲在騎樓的陰影裡，把同一條胎的第六片補片壓下去，數到一百二十才鬆手。\n入夜起風，溫度掉了三度，他把車牽出來又打了一次氣。隔天早上摸上去還是硬的。他把打氣筒收回原位，然後坐回同一格陰影。",
+          "editorNote": "適合形容那種明知道補到第六片已經沒有意義、還是把每個步驟做滿的狀態；也可以在天氣一涼下來就想把舊東西再修一次的人身上用。",
+          "variations": [
+            "短版：同一條胎的第六片補片，他數到一百二十才鬆手。",
+            "延伸版：第七片他沒有再壓，就讓陰影自己慢慢移過去。"
+          ]
+        },
+        "en": {
+          "content": "Ninety-five degrees, asphalt going soft, glue drying five seconds after it touched. He crouched in the shade of the arcade, pressed the sixth patch onto the same tube, and counted to a hundred and twenty before letting go.\nWind came up after dark and the temperature dropped three degrees, so he wheeled the bike out and pumped it again. In the morning it was still firm. He put the pump back where it lived, then sat down in the same square of shade.",
+          "editorNote": "For the state of knowing the sixth patch means nothing and doing every step of it in full; also for people who want to repair old things the moment the weather cools.",
+          "variations": [
+            "Short: The sixth patch on the same tube, and he counted to a hundred and twenty before letting go.",
+            "Extended: He never pressed a seventh one down. He let the shade move across on its own."
+          ]
+        }
+      }
     }
   ]
 }
