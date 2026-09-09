@@ -13454,6 +13454,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-529",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://www.newsmarket.com.tw/blog/7117/",
+      "sourceNote": "參考該篇對木造碾米機動力、礱鼓機與精米機的介紹，把「一天能碾多少」寫成一個沒有機鋒的正確答案",
+      "tags": [
+        "邏輯",
+        "日常",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "碾米廠的老師傅考學徒：一台碾米機一天能碾多少米？學徒準備了三個很聰明的答案。老師傅說，看那天送來多少稻穀。學徒隔天真的去問了載穀子的司機，把數字寫在手背上。",
+          "editorNote": "適合用在別人等你講出漂亮答案，而你只有正確答案可以給",
+          "variations": [
+            "短版：一台碾米機一天能碾多少米？看那天送來多少稻穀。",
+            "延伸版：司機報了一個數字，學徒抄下來，第二天又問了一次。"
+          ]
+        },
+        "en": {
+          "content": "The old hand at the rice mill quizzed the apprentice: how much rice can one mill run through in a day? The apprentice had three clever answers ready. The old hand said, depends how much paddy comes in that day. The next morning the apprentice actually asked the driver hauling the grain, and wrote the number on the back of his hand.",
+          "editorNote": "For when someone is waiting on a clever answer and all you have is the correct one",
+          "variations": [
+            "Short version: How much rice can one mill do in a day? Depends how much paddy shows up.",
+            "Extended version: The driver gave him a number, he copied it down, and asked again the next day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-530",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=334399",
+      "sourceNote": "參考該頁對稻穀加工流程（初清、除稗、去石、磁選）與早年米飯常有小石子的描述，把機器名稱改寫成一個字面回答",
+      "tags": [
+        "邏輯",
+        "生活",
+        "文字遊戲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人問，去石機為什麼叫去石機。碾米廠的人說，因為它把石頭挑掉。問的人站在原地又多等了三秒。機器一直在響，今天有六百公斤要過。",
+          "editorNote": "適合用在對方以為問題有玄機，其實名字就是它在做的事",
+          "variations": [
+            "短版：去石機為什麼叫去石機？因為它把石頭挑掉。",
+            "延伸版：那人隔週帶朋友來，朋友問了一模一樣的問題。"
+          ]
+        },
+        "en": {
+          "content": "Someone asked why the destoner is called a destoner. The guy at the rice mill said, because it picks the stones out. The person who asked stood there three seconds longer. The machine kept running; six hundred kilos to get through today.",
+          "editorNote": "For when someone assumes the name is hiding something, and the name is just the job",
+          "variations": [
+            "Short version: Why is the destoner called a destoner? Because it picks the stones out.",
+            "Extended version: He came back the next week with a friend, who asked the exact same thing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-531",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%A2%BE%E7%B1%B3",
+      "sourceNote": "參考該條目對礱穀去殼成糙米、砂輥磨去皮層與胚芽而成白米的說明，改寫成小孩問話",
+      "tags": [
+        "邏輯",
+        "食物",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "小朋友問，糙米為什麼是咖啡色的。廠裡的阿姨說，因為外面那層皮就是咖啡色的。小朋友再問，磨掉以後會變什麼顏色。阿姨說，白色。",
+          "editorNote": "適合回答小孩那種其實沒有陷阱的問題，不用硬掰一個轉折",
+          "variations": [
+            "短版：糙米為什麼是咖啡色的？因為外面那層皮是咖啡色的。",
+            "延伸版：小朋友把兩種米各抓一把，回家擺在桌上給爸爸看。"
+          ]
+        },
+        "en": {
+          "content": "A kid asked why brown rice is brown. The woman at the plant said, because the layer on the outside is brown. The kid asked what color it turns once you grind that off. She said, white.",
+          "editorNote": "For answering a kid's question that has no trick in it, without inventing one",
+          "variations": [
+            "Short version: Why is brown rice brown? Because the layer on the outside is brown.",
+            "Extended version: The kid grabbed a handful of each and laid them out on the table at home for his dad."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-532",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "參考該條目對 obvious punchline（把最字面最平淡的答案當成回答）的說明，套進一塊招牌木匾的場景",
+      "tags": [
+        "邏輯",
+        "職場",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牆上掛著一塊木牌，寫著「碾米三十年」。客人問這五個字是什麼意思。頭家說，就是碾米碾了三十年。客人點了頭，秤了兩公斤帶走。",
+          "editorNote": "適合用在招牌上那句話沒有別的意思，就是字面上那樣",
+          "variations": [
+            "短版：木牌上寫碾米三十年，意思就是碾米碾了三十年。",
+            "延伸版：木牌旁邊還有一塊，上頭寫著今天沒有糙米。"
+          ]
+        },
+        "en": {
+          "content": "A wooden board hangs on the wall with five characters on it: thirty years of milling rice. A customer asked what those five characters mean. The owner said, it means he has been milling rice for thirty years. The customer nodded, weighed out two kilos, and left.",
+          "editorNote": "For a sign that means exactly what it says, with nothing underneath it",
+          "variations": [
+            "Short version: The board says thirty years of milling rice, meaning he has milled rice for thirty years.",
+            "Extended version: There is a second board next to it that says no brown rice today."
+          ]
+        }
+      }
     }
   ]
 }
