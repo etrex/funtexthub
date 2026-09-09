@@ -14055,6 +14055,123 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-515",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://bankofculture.com/archives/3974",
+      "sourceNote": "文化銀行訪葉坤定、葉坤鵬粧佛兄弟：工作桌上堆滿雕刻用具，脫胎造像塗一層棉紗布就要一天、等生漆乾又一天，四到九層要花數個月；取「一圈一圈慢慢盤、快不了」的畫面，對照整層樓亮著卻沒有進度的夜晚",
+      "tags": [
+        "工程師日常",
+        "除錯",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三重那間粧佛店的門整天開著，師傅把漆線一圈一圈盤上神像的衣角。\n我看著同一個 null 看了四十分鐘，我們這層樓的燈也一直沒關。\n隔壁早餐店把電視轉到颱風動態，鐵板上的蛋翻了個面。",
+          "editorNote": "適合貼在那種整層樓都還亮著、誰也說不出進度的晚上，或加班群組裡沒人接話的時候。",
+          "variations": [
+            "短版：同一個 null，我看了四十分鐘。",
+            "延伸版本：漆線那邊盤到收工了，我的 null 還在原地。"
+          ]
+        },
+        "en": {
+          "content": "The lacquer-line shop in Sanchong leaves its door open all day, and the master winds thread around the hem of a statue, coil after coil.\nI looked at the same null for forty minutes, and nobody on our floor turned the lights off either.\nThe breakfast shop next door had the typhoon map on TV, and an egg got flipped on the griddle.",
+          "editorNote": "For the night when the whole floor is still lit and no one can name a single thing that moved.",
+          "variations": [
+            "Short version: the same null, forty minutes of me.",
+            "Extension: the coiling was finished by closing time, and my null had not moved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-516",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://art.ltn.com.tw/article/paper/1513215",
+      "sourceNote": "自由藝文網訪神像修復藝師金明偉：修復程序為清潔、修補、打磨、補線、安金、裝飾、上蠟，原則是保留原有面容神態、不亂動；取「敢不敢動別人做的東西」這一點，寫成三個不同行業各講一句",
+      "tags": [
+        "工程師日常",
+        "維護",
+        "技術債",
+        "工程師語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「粧佛這行的規矩是，寧可放著也不要亂補。」\n「阿伯你這台冰箱我看是壓縮機，換一顆比較快。」\n「我沒有動那個檔案，我只是把它打開來看。」",
+          "editorNote": "適合放在三種行業同時談「該不該動手」的場合，也可以當交接前的自保發言。",
+          "variations": [
+            "短版：我沒有動那個檔案，我只是把它打開來看。",
+            "延伸版本：三個人手上的東西不一樣，怕的事情長得一模一樣。"
+          ]
+        },
+        "en": {
+          "content": "\"In this trade the rule goes: leave it alone before you patch it wrong.\"\n\"Sir, on this fridge I'd say it's the compressor, and dropping in a new one is faster.\"\n\"I did not touch that file. I opened it and I looked at it.\"",
+          "editorNote": "Use it when three unrelated trades end up arguing the same point about touching someone else's work, or as the line you say before a handover.",
+          "variations": [
+            "Short version: I did not touch that file. I opened it and I looked at it.",
+            "Extension: three people holding three different tools, afraid of exactly the same thing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-517",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://blog.codacy.com/refactoring-legacy-code",
+      "sourceNote": "Codacy 談 legacy code：低測試覆蓋率讓人不敢動，文中引一名開發者說收到修舊系統的票寧可辭職；取「事情還開著、你只能先回一句收到」的狀態，改寫成三個不相干的鏡頭",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "除錯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "機房的冷氣壞了兩天，值班的人穿外套進去。\n客戶傳來一張照片，畫面卡在轉圈的那一秒。\n公園那邊有人在教小孩騎腳踏車，扶著後座跑了半圈。",
+          "editorNote": "適合用在災情還沒收斂、你卻只回得出一句「收到」的下午，或值班表輪到自己的那天。",
+          "variations": [
+            "短版：客戶傳來一張照片，卡在轉圈的那一秒。",
+            "延伸版本：冷氣修好那天，那張照片還躺在群組裡沒人回。"
+          ]
+        },
+        "en": {
+          "content": "The AC in the server room has been out for two days, and whoever is on shift puts a jacket on before going in.\nA customer sent over a photo, frozen on the second the spinner showed up.\nOver at the park someone is teaching a kid to ride a bike, holding the seat for half a lap.",
+          "editorNote": "For the afternoon when the incident is still open and the only thing you can send back is an acknowledgment.",
+          "variations": [
+            "Short version: a customer sent a photo, frozen on the second the spinner showed up.",
+            "Extension: the AC got fixed, and that photo was still sitting in the group chat unanswered."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-518",
+      "dateAdded": "2026-09-09",
+      "sourceUrl": "https://www.peopo.org/news/655391",
+      "sourceNote": "PeoPo 公民新聞報導粧佛十六道工序（選材、開斧、打粗胚、修細胚、打土底、牽漆線、安金箔、畫面、植鬚、開光點眼），整套約兩到三個月；取「轉半圈、退開再看一次」的檢查動作，配上自己遲遲不動的分支",
+      "tags": [
+        "工程師日常",
+        "自嘲",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "河堤邊有人牽著三隻狗，繩子在腳邊纏成一團。\n粧佛師把神像轉了半圈，退開兩步再看一次那張臉。\n我的分支落後主線兩百多個 commit，我起身去裝了一杯水。",
+          "editorNote": "適合用在你明知道要處理、卻先去做了別的事的那十分鐘，或 rebase 前的深呼吸。",
+          "variations": [
+            "短版：退開兩步，再看一次那張臉。",
+            "延伸版本：那杯水喝完了，落後的數字又多了七個。"
+          ]
+        },
+        "en": {
+          "content": "Someone is walking three dogs along the levee, the leashes tangled into one knot at their feet.\nThe statue master turns the figure a half turn, steps back twice, and looks at the face again.\nMy branch is two hundred commits behind main, so I stood up and went to fill a cup of water.",
+          "editorNote": "For the ten minutes you spend on anything else right after seeing what you are about to merge, or the breath you take before a rebase.",
+          "variations": [
+            "Short version: step back twice, then look at the face again.",
+            "Extension: I finished the water, and the number behind main had grown by seven."
+          ]
+        }
+      }
     }
   ]
 }
