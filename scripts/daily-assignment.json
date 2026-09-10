@@ -1,13 +1,13 @@
 {
- "date": "2026-09-09",
+ "date": "2026-09-10",
  "min_scene_items": 2,
  "first_batch": [],
  "ordinal_allowed": [
-  "breakup-quotes",
-  "fitness-quotes",
-  "korean-drama-quotes",
-  "workplace-quotes",
-  "zodiac-quotes"
+  "travel-quotes",
+  "service-quotes",
+  "student-quotes",
+  "insomnia-quotes",
+  "drama-binge-quotes"
  ],
  "ordinal_quota_per_topic": 1,
  "named_terms": {},
@@ -15,8 +15,8 @@
   "F13"
  ],
  "institutional_topics": [
-  "worldcup-quotes",
-  "human-design-quotes"
+  "korean-drama-quotes",
+  "self-love-quotes"
  ],
  "form_min_distinct": 2,
  "form_reader_visible": true,
@@ -27,344 +27,344 @@
   "F15"
  ],
  "anti_humor_topics": [
-  "cold-jokes",
-  "holiday-jokes"
+  "food-jokes",
+  "programmer-jokes"
  ],
  "topics": {
   "absurd-wisdom": {
-   "frame": "F10",
-   "scene_class": "鑄字行",
-   "scene": "鉛字",
+   "frame": "F2",
+   "scene_class": "蘿蔔乾曝曬",
+   "scene": "蘿蔔乾",
    "scene_tokens": [
-    "鉛字"
+    "蘿蔔乾"
    ]
   },
   "adulting-quotes": {
-   "frame": "F4",
-   "scene_class": "電鍍",
-   "scene": "電鍍槽",
+   "frame": "F1",
+   "scene_class": "鴨賞煙燻",
+   "scene": "鴨賞",
    "scene_tokens": [
-    "電鍍槽"
+    "鴨賞"
    ]
   },
   "breakup-quotes": {
-   "frame": "F6",
-   "scene_class": "紅麴培養",
-   "scene": "紅麴",
+   "frame": "F4",
+   "scene_class": "番薯粉製作",
+   "scene": "番薯粉",
    "scene_tokens": [
-    "紅麴"
+    "番薯粉"
    ]
   },
   "cat-quotes": {
-   "frame": "F7",
-   "scene_class": "芋頭加工",
-   "scene": "芋簽",
+   "frame": "F3",
+   "scene_class": "打字機維修",
+   "scene": "打字機",
    "scene_tokens": [
-    "芋簽"
+    "打字機"
    ]
   },
   "cdrama-period-quotes": {
-   "frame": "F2",
-   "scene_class": "磚窯",
-   "scene": "磚窯",
+   "frame": "F6",
+   "scene_class": "收驚",
+   "scene": "收驚",
    "scene_tokens": [
-    "磚窯"
+    "收驚"
    ]
   },
   "cheesy-pickups": {
-   "frame": "F8",
-   "scene_class": "芋頭加工",
-   "scene": "芋簽",
+   "frame": "F5",
+   "scene_class": "牽罟",
+   "scene": "牽罟",
    "scene_tokens": [
-    "芋簽"
+    "牽罟"
    ]
   },
   "cold-jokes": {
-   "frame": "F15",
-   "scene_class": "碾米廠",
-   "scene": "碾米",
+   "frame": "F9",
+   "scene_class": "松脂採集",
+   "scene": "松脂",
    "scene_tokens": [
-    "碾米"
+    "松脂"
    ]
   },
   "concert-ticket-quotes": {
-   "frame": "F12",
-   "scene_class": "精油蒸餾",
-   "scene": "蒸餾桶",
+   "frame": "F7",
+   "scene_class": "珍珠貝養殖",
+   "scene": "珍珠貝",
    "scene_tokens": [
-    "蒸餾桶"
+    "珍珠貝"
    ]
   },
   "couple-jokes": {
-   "frame": "F10",
-   "scene_class": "磚窯",
-   "scene": "磚窯",
+   "frame": "F8",
+   "scene_class": "牽罟",
+   "scene": "牽罟",
    "scene_tokens": [
-    "磚窯"
+    "牽罟"
    ]
   },
   "dark-humor": {
-   "frame": "F14",
-   "scene_class": "自行車補胎",
-   "scene": "內胎",
+   "frame": "F7",
+   "scene_class": "剪黏",
+   "scene": "剪黏",
    "scene_tokens": [
-    "內胎"
+    "剪黏"
    ]
   },
   "diet-quotes": {
-   "frame": "F11",
-   "scene_class": "鑄字行",
-   "scene": "鉛字",
+   "frame": "F8",
+   "scene_class": "馬達繞線",
+   "scene": "繞線",
    "scene_tokens": [
-    "鉛字"
+    "繞線"
    ]
   },
   "dog-quotes": {
-   "frame": "F5",
-   "scene_class": "紅麴培養",
-   "scene": "紅麴",
+   "frame": "F9",
+   "scene_class": "拓碑",
+   "scene": "拓碑",
    "scene_tokens": [
-    "紅麴"
+    "拓碑"
    ]
   },
   "drama-binge-quotes": {
-   "frame": "F3",
-   "scene_class": "養鵪鶉",
-   "scene": "鵪鶉",
+   "frame": "F10",
+   "scene_class": "蜜餞加工",
+   "scene": "蜜餞",
    "scene_tokens": [
-    "鵪鶉"
+    "蜜餞"
    ]
   },
   "drama-quotes": {
-   "frame": "F9",
-   "scene_class": "魚苗場",
-   "scene": "魚苗",
+   "frame": "F12",
+   "scene_class": "牽罟",
+   "scene": "牽罟",
    "scene_tokens": [
-    "魚苗"
+    "牽罟"
    ]
   },
   "exam-quotes": {
-   "frame": "F7",
-   "scene_class": "紅麴培養",
-   "scene": "紅麴",
+   "frame": "F11",
+   "scene_class": "收驚",
+   "scene": "收驚",
    "scene_tokens": [
-    "紅麴"
+    "收驚"
    ]
   },
   "fathers-day-quotes": {
-   "frame": "F11",
-   "scene_class": "磚窯",
-   "scene": "磚窯",
+   "frame": "F14",
+   "scene_class": "蘿蔔乾曝曬",
+   "scene": "蘿蔔乾",
    "scene_tokens": [
-    "磚窯"
+    "蘿蔔乾"
    ]
   },
   "fitness-quotes": {
-   "frame": "F1",
-   "scene_class": "養鵝",
-   "scene": "鵝寮",
+   "frame": "F3",
+   "scene_class": "松脂採集",
+   "scene": "松脂",
    "scene_tokens": [
-    "鵝寮"
+    "松脂"
    ]
   },
   "food-jokes": {
-   "frame": "F5",
-   "scene_class": "養鵝",
-   "scene": "鵝寮",
+   "frame": "F15",
+   "scene_class": "馬達繞線",
+   "scene": "繞線",
    "scene_tokens": [
-    "鵝寮"
+    "繞線"
    ]
   },
   "graduation-quotes": {
-   "frame": "F8",
-   "scene_class": "鑄字行",
-   "scene": "鉛字",
+   "frame": "F1",
+   "scene_class": "拓碑",
+   "scene": "拓碑",
    "scene_tokens": [
-    "鉛字"
+    "拓碑"
    ]
   },
   "healing-quotes": {
-   "frame": "F6",
-   "scene_class": "養鵪鶉",
-   "scene": "鵪鶉",
+   "frame": "F2",
+   "scene_class": "鴨賞煙燻",
+   "scene": "鴨賞",
    "scene_tokens": [
-    "鵪鶉"
+    "鴨賞"
    ]
   },
   "holiday-jokes": {
-   "frame": "F15",
-   "scene_class": "洗石子工程",
-   "scene": "洗石子",
+   "frame": "F5",
+   "scene_class": "松脂採集",
+   "scene": "松脂",
    "scene_tokens": [
-    "洗石子"
+    "松脂"
    ]
   },
   "human-design-quotes": {
-   "frame": "F13",
-   "scene_class": "養鵪鶉",
-   "scene": "鵪鶉",
+   "frame": "F4",
+   "scene_class": "麵茶炒製",
+   "scene": "麵茶",
    "scene_tokens": [
-    "鵪鶉"
+    "麵茶"
    ]
   },
   "insomnia-quotes": {
-   "frame": "F3",
-   "scene_class": "碾米廠",
-   "scene": "碾米",
+   "frame": "F4",
+   "scene_class": "打錫",
+   "scene": "打錫",
    "scene_tokens": [
-    "碾米"
+    "打錫"
    ]
   },
   "korean-drama-quotes": {
-   "frame": "F14",
-   "scene_class": "芋頭加工",
-   "scene": "芋簽",
+   "frame": "F13",
+   "scene_class": "番薯粉製作",
+   "scene": "番薯粉",
    "scene_tokens": [
-    "芋簽"
+    "番薯粉"
    ]
   },
   "mom-quotes": {
-   "frame": "F4",
-   "scene_class": "魚苗場",
-   "scene": "魚苗",
+   "frame": "F10",
+   "scene_class": "拓碑",
+   "scene": "拓碑",
    "scene_tokens": [
-    "魚苗"
+    "拓碑"
    ]
   },
   "motivational-quotes": {
-   "frame": "F2",
-   "scene_class": "帆布行",
-   "scene": "帆布行",
+   "frame": "F5",
+   "scene_class": "收驚",
+   "scene": "收驚",
    "scene_tokens": [
-    "帆布行"
+    "收驚"
    ]
   },
   "pet-memorial-quotes": {
-   "frame": "F9",
-   "scene_class": "帆布行",
-   "scene": "帆布行",
+   "frame": "F6",
+   "scene_class": "蜜餞加工",
+   "scene": "蜜餞",
    "scene_tokens": [
-    "帆布行"
+    "蜜餞"
    ]
   },
   "programmer-jokes": {
-   "frame": "F10",
-   "scene_class": "粧佛",
-   "scene": "粧佛",
+   "frame": "F15",
+   "scene_class": "打錫",
+   "scene": "打錫",
    "scene_tokens": [
-    "粧佛"
+    "打錫"
    ]
   },
   "renting-quotes": {
-   "frame": "F1",
-   "scene_class": "魚苗場",
-   "scene": "魚苗",
+   "frame": "F7",
+   "scene_class": "蜜餞加工",
+   "scene": "蜜餞",
    "scene_tokens": [
-    "魚苗"
+    "蜜餞"
    ]
   },
   "self-love-quotes": {
-   "frame": "F12",
-   "scene_class": "養鵝",
-   "scene": "鵝寮",
+   "frame": "F13",
+   "scene_class": "剪黏",
+   "scene": "剪黏",
    "scene_tokens": [
-    "鵝寮"
+    "剪黏"
    ]
   },
   "service-quotes": {
-   "frame": "F7",
-   "scene_class": "自行車補胎",
-   "scene": "內胎",
+   "frame": "F8",
+   "scene_class": "珍珠貝養殖",
+   "scene": "珍珠貝",
    "scene_tokens": [
-    "內胎"
+    "珍珠貝"
    ]
   },
   "slang-quotes": {
-   "frame": "F2",
-   "scene_class": "洗石子工程",
-   "scene": "洗石子",
+   "frame": "F11",
+   "scene_class": "打錫",
+   "scene": "打錫",
    "scene_tokens": [
-    "洗石子"
+    "打錫"
    ]
   },
   "stock-investor-quotes": {
-   "frame": "F5",
-   "scene_class": "電鍍",
-   "scene": "電鍍槽",
+   "frame": "F9",
+   "scene_class": "剪黏",
+   "scene": "剪黏",
    "scene_tokens": [
-    "電鍍槽"
+    "剪黏"
    ]
   },
   "student-quotes": {
-   "frame": "F6",
-   "scene_class": "粧佛",
-   "scene": "粧佛",
+   "frame": "F10",
+   "scene_class": "珍珠貝養殖",
+   "scene": "珍珠貝",
    "scene_tokens": [
-    "粧佛"
+    "珍珠貝"
    ]
   },
   "summer-electric-quotes": {
-   "frame": "F11",
-   "scene_class": "碾米廠",
-   "scene": "碾米",
+   "frame": "F14",
+   "scene_class": "打字機維修",
+   "scene": "打字機",
    "scene_tokens": [
-    "碾米"
+    "打字機"
    ]
   },
   "sweet-quotes": {
-   "frame": "F4",
-   "scene_class": "帆布行",
-   "scene": "帆布行",
+   "frame": "F11",
+   "scene_class": "麵茶炒製",
+   "scene": "麵茶",
    "scene_tokens": [
-    "帆布行"
+    "麵茶"
    ]
   },
   "travel-quotes": {
-   "frame": "F8",
-   "scene_class": "電鍍",
-   "scene": "電鍍槽",
+   "frame": "F12",
+   "scene_class": "鴨賞煙燻",
+   "scene": "鴨賞",
    "scene_tokens": [
-    "電鍍槽"
+    "鴨賞"
    ]
   },
   "wedding-quotes": {
-   "frame": "F3",
-   "scene_class": "精油蒸餾",
-   "scene": "蒸餾桶",
+   "frame": "F1",
+   "scene_class": "蘿蔔乾曝曬",
+   "scene": "蘿蔔乾",
    "scene_tokens": [
-    "蒸餾桶"
+    "蘿蔔乾"
    ]
   },
   "witty-comebacks": {
-   "frame": "F1",
-   "scene_class": "自行車補胎",
-   "scene": "內胎",
+   "frame": "F12",
+   "scene_class": "番薯粉製作",
+   "scene": "番薯粉",
    "scene_tokens": [
-    "內胎"
+    "番薯粉"
    ]
   },
   "workplace-quotes": {
-   "frame": "F9",
-   "scene_class": "精油蒸餾",
-   "scene": "蒸餾桶",
+   "frame": "F2",
+   "scene_class": "打字機維修",
+   "scene": "打字機",
    "scene_tokens": [
-    "蒸餾桶"
+    "打字機"
    ]
   },
   "worldcup-quotes": {
-   "frame": "F13",
-   "scene_class": "洗石子工程",
-   "scene": "洗石子",
+   "frame": "F6",
+   "scene_class": "麵茶炒製",
+   "scene": "麵茶",
    "scene_tokens": [
-    "洗石子"
+    "麵茶"
    ]
   },
   "zodiac-quotes": {
-   "frame": "F14",
-   "scene_class": "粧佛",
-   "scene": "粧佛",
+   "frame": "F3",
+   "scene_class": "馬達繞線",
+   "scene": "繞線",
    "scene_tokens": [
-    "粧佛"
+    "繞線"
    ]
   }
  }
