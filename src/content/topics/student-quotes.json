@@ -7777,6 +7777,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-263",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://kmweb.moa.gov.tw/knowledge_view.php?id=2545",
+      "sourceNote": "農業知識入口網說明真珠養殖須定期清除附著在貝殼上的寄生蟲與藤壺、成珠要一到五年，借「刷了一整天卻不會登記在任何一張表上」的落差寫三個地點",
+      "tags": [
+        "校園生活",
+        "自嘲",
+        "厭世",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "浮筏上有人把珍珠貝一片一片刷乾淨，刷子磨掉的殼粉浮在水面上。\n宿舍的曬衣繩掛著一件三天沒乾的上衣，領口那圈鹽是白的。\n系辦門口那張實習時數表，我名字後面還是空的。",
+          "editorNote": "適合貼在那種花了一整天、成果卻沒被記到任何一張表上的日子。",
+          "variations": [
+            "短版：領口那圈鹽是白的。",
+            "延伸版：時數表上有人用鉛筆補了自己的數字，鉛筆的痕跡比原本的字淡。"
+          ]
+        },
+        "en": {
+          "content": "Out on the raft someone is scrubbing the pearl oysters one shell at a time, and the shell dust drifts off around the brush.\nA shirt that hasn't dried in three days is still on the dorm line, a white ring of salt around the collar.\nOn the internship hours sheet taped outside the department office, the space after my name is blank.",
+          "editorNote": "Good for a day you poured everything into that never made it onto any record.",
+          "variations": [
+            "Short version: A white ring of salt around the collar.",
+            "Longer version: Someone penciled their own hours onto the sheet, and the pencil sits fainter than the rest of the writing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-264",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://museum.wa.gov.au/explore/lustre-online-text-panels/growing-pearls",
+      "sourceNote": "西澳博物館 Lustre 展的珍珠養殖說明提到多數養殖場至少每月以高壓水柱清洗貝殼、貝的衛生是第一優先，借「清洗永遠排在講話前面」寫成三處各一句偷聽到的話",
+      "tags": [
+        "校園生活",
+        "厭世",
+        "同學",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這一籃的珍珠貝先刷，刷完我們再講話。」\n「你椅子往前一點，我書包過不去。」\n「熱水剩十分鐘，你們誰要先。」",
+          "editorNote": "給那種被別人的行程推著走、連要講的話都得排在後面的一整天。",
+          "variations": [
+            "短版：「熱水剩十分鐘，你們誰要先。」",
+            "延伸版：「刷子放在船邊那個桶子裡，要用的自己下去拿。」"
+          ]
+        },
+        "en": {
+          "content": "\"Scrub this basket of pearl oysters first, then we can talk.\"\n\"Scoot your chair in, my backpack can't get past.\"\n\"Ten minutes of hot water left, so decide who's going first.\"",
+          "editorNote": "For a day spent inside other people's schedules, where even what you wanted to say has to wait its turn.",
+          "variations": [
+            "Short version: \"Ten minutes of hot water left, so decide who's going first.\"",
+            "Longer version: \"The brush is in the bucket by the boat. If you want it, go down and get it.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-265",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://kamokapearls.com/pages/pearl-farming",
+      "sourceNote": "大溪地 Kamoka 珍珠場的養殖流程提到每隔幾個月要靠魚群或人工刮除附著生物、養成期長達一年半，借「工具鈍了也照用」與「事情在你不在時自己往前」的對比寫三個地點",
+      "tags": [
+        "校園生活",
+        "報告",
+        "自嘲",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "養殖場的水桶邊擺著一把鈍掉的刮刀，握柄纏了三圈黑膠帶。\n回程遊覽車的走道上鋪著別人的濕外套，沒有人說那是誰的。\n凌晨兩點的共編簡報多出一頁，游標停在別人的名字旁邊。",
+          "editorNote": "拿來配那種你不在的時候、進度自己往前跑了一段的合作作業。",
+          "variations": [
+            "短版：走道上鋪著別人的濕外套，沒有人說那是誰的。",
+            "延伸版：那把刮刀被放回水桶邊，膠帶鬆開的地方沒有人重纏。"
+          ]
+        },
+        "en": {
+          "content": "A blunt scraper leans against the water drum at the farm, its handle wrapped in three turns of black tape.\nSomebody's wet jacket is spread down the aisle of the bus home, and nobody says whose it is.\nAt two in the morning the shared slide deck grows an extra page, the cursor parked beside another name.",
+          "editorNote": "Pair it with the group project that moved a whole step forward while you were away from it.",
+          "variations": [
+            "Short version: Somebody's wet jacket is spread down the aisle, and nobody says whose it is.",
+            "Longer version: The scraper went back against the drum, and the loose end of the tape stayed loose."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-266",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://www.fao.org/4/ab726e/AB726E07.htm",
+      "sourceNote": "FAO 珍珠貝養殖手冊的附著生物與鑽孔生物章節說明藤壺附著會造成貝的重度死亡、須定期清理籠具，借「剩下的那幾片最底下長滿藤壺」寫實驗室與家裡兩個對照鏡頭",
+      "tags": [
+        "校園生活",
+        "厭世",
+        "自嘲",
+        "熬夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "碼頭邊的塑膠籃裡剩四片珍珠貝，最底下那片殼上長滿藤壺。\n實驗室的電子秤歸零要等它自己停，沒有人盯著看完過。\n手機在外套口袋裡震了兩下，是家裡問我禮拜幾回去。",
+          "editorNote": "適合放在還沒收完手上的事、就先被問要不要回家的那個空檔。",
+          "variations": [
+            "短版：最底下那片殼上長滿藤壺。",
+            "延伸版：電子秤最後停在一個沒有人記下來的數字，隔天要重秤一次。"
+          ]
+        },
+        "en": {
+          "content": "Four pearl oysters are left in the plastic crate by the dock, and the one at the bottom is crusted with barnacles.\nThe lab scale has to settle by itself before it reads zero, and nobody has ever watched it the whole way.\nMy phone buzzes twice in my jacket pocket, and it's home asking which day I'm coming back.",
+          "editorNote": "For the gap where you're asked about going home before the work in front of you is anywhere near done.",
+          "variations": [
+            "Short version: The one at the bottom is crusted with barnacles.",
+            "Longer version: The scale settled on a number nobody wrote down, so the whole thing gets weighed again tomorrow."
+          ]
+        }
+      }
     }
   ]
 }
