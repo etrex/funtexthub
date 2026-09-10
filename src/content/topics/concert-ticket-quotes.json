@@ -10750,6 +10750,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-380",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://kmweb.moa.gov.tw/knowledge_view.php?id=2545",
+      "sourceNote": "農業知識入口網真珠養殖問答：育珠貝為三至四年的母貝、插核後需一至五年分泌珍珠層、適溫十五至三十度；取其母貝日常維護與清除附著生物的作業，改寫成開賣當下人在浮筏上刷網籠的場面",
+      "tags": ["搶票", "開賣", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "浮筏上的繩結曬到發白，你蹲下去解，手指在第三個結上卡了很久。手機夾在腿彎裡，開賣的頁面轉了兩分鐘，你沒有低頭看。\n網籠拉上來的時候水嘩一聲，珍珠貝殼面糊著青苔和小管蟲，你順著紋路刷。刷到第七籠，腿彎裡那道光亮了一下就暗掉。",
+          "editorNote": "適合開賣時間你人在海上、手機根本騰不出手拿的日子貼",
+          "variations": [
+            "短版：「手機夾在腿彎裡，你沒有低頭看。」",
+            "延伸版：「刷到第七籠，腿彎裡那道光亮了一下就暗掉，你把刷子換到左手。」"
+          ]
+        },
+        "en": {
+          "content": "The knots on the raft line have gone pale in the sun; you crouch to work them loose and the third one holds you a long while. Your phone is wedged behind your knee, the sale page has been spinning for two minutes, and you don't look down.\nThe cage comes up with a slap of water, the pearl oyster shells furred with algae and small tube worms, and you scrub along the grain. By the seventh cage the light behind your knee flickers once and goes dark.",
+          "editorNote": "For a day when the sale opens while you're out on the water and both hands are busy",
+          "variations": [
+            "Short: 'Your phone is wedged behind your knee and you don't look down.'",
+            "Extended: 'By the seventh cage the light behind your knee goes dark, and you move the brush to your left hand.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-381",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://e-info.org.tw/node/28863",
+      "sourceNote": "環境資訊中心澎湖珍珠養殖報導：黑蝶貝在澎湖海域資源豐富、澎湖科大歷經三年技術突破完成第一期量產；取其海上作業與水溫條件的背景，改寫成量水溫那天卡到開賣時間的分段紀錄",
+      "tags": ["開賣", "手速", "秒殺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 六點半，你把水溫計沉到繩子的第二格\n— 讀數二十六，比昨天低了半度\n— 十點五十七，你把手套脫在船邊\n— 十一點整，畫面開始轉\n— 你另一隻手還按著分級的篩網\n— 十一點零四，篩網裡的貝掉回海裡兩顆",
+          "editorNote": "適合那天你在船上量水溫、開賣的鐘卻不會等你的時候用",
+          "variations": [
+            "短版：「十一點整，畫面開始轉。」",
+            "延伸版：「十一點零四，篩網裡的貝掉回海裡兩顆，你沒有伸手去撈。」"
+          ]
+        },
+        "en": {
+          "content": "— Six thirty, you sink the thermometer to the second mark on the rope.\n— It reads twenty-six, half a degree under yesterday.\n— 10:57, you peel your gloves off against the side of the boat.\n— Eleven sharp, the screen starts to turn.\n— Your other hand is still on the grading sieve.\n— 11:04, two of the shells drop back into the sea through the mesh.",
+          "editorNote": "Use it when you're taking water temperatures on the boat and the sale clock won't wait",
+          "variations": [
+            "Short: 'Eleven sharp, the screen starts to turn.'",
+            "Extended: '11:04, two shells drop back through the mesh, and you don't reach after them.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-382",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://lattekorea.com/tixcraft-ticket/",
+      "sourceNote": "Latte's 追韓日記拓元售票整理：帳號需綁定證件與門號、建議提前二至三天完成驗證、查詢座位時轉圈等同進場動線不可重整；取其漫長等待與名次前進極慢的感受，改寫成人在船上按候補的一段",
+      "tags": ["候補", "等待", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你手上這批珍珠貝要放回海裡兩年才知道成不成，這件事你很久以前就接受了。同一個下午你按下候補，畫面說前面還有四千多人，你把手機倒扣在船板上。晚餐吃完你翻過來，數字變成三千九百。海面那邊什麼都沒變，你也沒有再打開那一頁。",
+          "editorNote": "適合候補號碼排在四千多、手邊剛好是一件本來就得等兩年的事",
+          "variations": [
+            "短版：「你把手機倒扣在船板上。」",
+            "延伸版：「晚餐吃完你翻過來，數字變成三千九百，你又倒扣回去。」"
+          ]
+        },
+        "en": {
+          "content": "The batch of pearl oysters in your hands goes back into the sea for two years before anyone knows how they turned out, and you made your peace with that a long time ago. The same afternoon you join the waitlist, the screen says four thousand-odd people are ahead of you, and you set the phone face down on the deck. After dinner you turn it over: three thousand nine hundred. Nothing out on the water has changed, and you don't open the page again.",
+          "editorNote": "When your waitlist number sits past four thousand and the thing in your hands already takes two years",
+          "variations": [
+            "Short: 'You set the phone face down on the deck.'",
+            "Extended: 'After dinner you turn it over, three thousand nine hundred, and put it back face down.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-383",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://news.tvbs.com.tw/life/2630382",
+      "sourceNote": "TVBS 拓元搶票流程整理：會員認證需真實姓名與手機驗證、付款完成後十至十五分鐘才收到取票資訊；取其結果訊息延後才進來的時間差，改寫成收工掛完最後一籠才點開的短行紀錄",
+      "tags": ["開賣", "錯過", "現場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你把最後一籠珍珠貝掛回浮筏\n— 繩子在手心繞兩圈\n— 藤壺刮下來的聲音很鈍\n— 口袋裡的手機震了一下\n— 你沒有拿出來\n— 回航的風換了方向\n— 那則訊息靠岸才點開",
+          "editorNote": "適合訊息跳出來的那一刻你兩隻手都是濕的、只能先掛完再說",
+          "variations": [
+            "短版：「口袋裡的手機震了一下，你沒有拿出來。」",
+            "延伸版：「那則訊息靠岸才點開，你先把繩子收好才看。」"
+          ]
+        },
+        "en": {
+          "content": "— You hang the last cage of pearl oysters back on the raft.\n— The rope goes twice around your palm.\n— The barnacles come off with a dull scrape.\n— The phone in your pocket buzzes once.\n— You don't take it out.\n— The wind has swung around for the ride home.\n— You open the message only at the dock.",
+          "editorNote": "For the moment the message lands with both your hands wet and one cage still to hang",
+          "variations": [
+            "Short: 'The phone in your pocket buzzes once and you don't take it out.'",
+            "Extended: 'You open the message only at the dock, after the ropes are coiled.'"
+          ]
+        }
+      }
     }
   ]
 }
