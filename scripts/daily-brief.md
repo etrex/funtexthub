@@ -185,7 +185,7 @@ python3 scripts/form_mix.py --date 2026-09-10 --lang en
 ## 七、公文體專章
 
 1. **公文體詞彙**（公告／通知／敬請／見諒／即日起／張貼／施工／完工／停水／停電／管線）
-   **只有 `worldcup-quotes` 和 `human-design-quotes` 兩檔可以用。其餘 40 檔一律禁用。**
+   **只有 `korean-drama-quotes` 和 `self-love-quotes` 兩檔可以用。其餘 40 檔一律禁用。**
    （8/27 holiday-jokes／renting-quotes、8/29 service／workplace、8/30 exam／fitness、
    8/31 summer-electric／diet、9/01 stock-investor／graduation、9/02 concert-ticket／
    student、9/03 drama-binge／travel、9/04 programmer-jokes／zodiac、
