@@ -13570,6 +13570,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-533",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bark_hack",
+      "sourceNote": "參考該條目對採脂用斧鑿在樹幹上劈出人字形刀痕、讓樹脂順著刀痕往下流進容器的描述，改寫成一則刀口方向的對答",
+      "tags": [
+        "邏輯",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一棵樹一天只割七刀，第八刀留給明天。刀痕的斜口要往下，松脂才走得下來。有人把斜口割成往上，松脂就往樹裡回去。師傅說那不叫失敗，那叫還給樹。",
+          "editorNote": "適合用在有人做反了方向，而你不想把它講成錯誤",
+          "variations": [
+            "短版：一棵樹一天七刀，第八刀留給明天。",
+            "延伸版：那棵割反了的樹後來被留著當範例，經過的人都要看一眼。"
+          ]
+        },
+        "en": {
+          "content": "Seven cuts per tree per day, and the eighth one waits until tomorrow. The groove has to slant downward, or the resin has nowhere to go. Slant it upward and the resin walks straight back into the tree. The old hand says that isn't a mistake, that's giving it back.",
+          "editorNote": "For when someone did it backwards and you'd rather not call it a mistake",
+          "variations": [
+            "Short version: Seven cuts per tree per day, and the eighth waits until tomorrow.",
+            "Extended version: They left the backwards tree standing as an example, and everyone who walks past looks at it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-534",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://tcpermaculture.com/site/2014/08/04/tapping-the-pine-tree-plant-resins-and-their-uses/",
+      "sourceNote": "參考該文對松樹採脂（人字形刻痕、最低處放桶接脂、同一棵樹可採二十年以上）的介紹，把雨天停工改寫成一張工寮牆上的交代",
+      "tags": [
+        "日常",
+        "職場",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 連續下了三天雨，牆上多了一張紙\n— 承脂杯移到樹的另一邊了\n— 桶裡的松脂不用挑針葉\n— 樹皮太厚的那六棵先擱著\n— 刀刃朝外掛在門邊的，改掉\n— 雨天不算休息，只是不用上山",
+          "editorNote": "適合貼在工作的地方，一次把當天要交代的話講完",
+          "variations": [
+            "短版：連續下了三天雨，牆上那張紙又多一行。",
+            "延伸版：雨停那天紙被撕下來，背面寫著那六棵樹的號碼。"
+          ]
+        },
+        "en": {
+          "content": "— Three straight days of rain, and a sheet of paper went up on the wall.\n— The cup has been moved to the other side of the tree.\n— Leave the needles in the bucket of resin alone.\n— Skip the six with the thickest bark for now.\n— Whoever hung the blade edge-out by the door, fix it.\n— A rainy day is not a day off, you just don't climb.",
+          "editorNote": "For pinning up where you work, so the day's instructions get said once",
+          "variations": [
+            "Short version: Three straight days of rain, and the sheet on the wall grew another line.",
+            "Extended version: The day the rain stopped, someone tore it down; the numbers of those six trees were on the back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-535",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Turpentine",
+      "sourceNote": "參考該條目對粗製松脂以蒸餾分離、殘留物成為松香的說明，把「該扣的雜質」寫成一段愈扣愈少的來回",
+      "tags": [
+        "邏輯",
+        "職場",
+        "文字遊戲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天這桶松脂收了十二公斤。」\n「扣掉樹皮呢？」\n「扣掉樹皮十一。」\n「扣掉針葉呢？」\n「針葉不用扣，蒸餾的時候它自己會浮上來。」\n「那你剛剛在扣什麼？」",
+          "editorNote": "適合用在對方一路往下扣，扣到最後其實什麼都沒扣掉",
+          "variations": [
+            "短版：「這桶十二公斤。」「扣掉樹皮呢？」「十一。」",
+            "延伸版：隔天他準備了兩個桶，一個裝松脂，一個裝針葉。"
+          ]
+        },
+        "en": {
+          "content": "\"Twelve kilos of resin in this bucket today.\"\n\"And without the bark?\"\n\"Eleven, once the bark is out.\"\n\"And without the needles?\"\n\"You don't take needles out. They float up on their own in the still.\"\n\"Then what were you taking out just now?\"",
+          "editorNote": "For when someone keeps subtracting and ends up subtracting nothing at all",
+          "variations": [
+            "Short version: \"Twelve kilos.\" \"Without the bark?\" \"Eleven.\"",
+            "Extended version: The next day he brought two buckets, one for resin and one for needles."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-536",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rosin",
+      "sourceNote": "參考該條目對從活樹刻痕取脂、加熱分離出精油與松香的說明，把刻痕之間的固定間距寫成一條沒有出處的規矩",
+      "tags": [
+        "生活",
+        "邏輯",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "割痕跟割痕之間要留三公分，這是規矩。我問三公分是誰量出來的，老師傅說是他師傅。再問下去，他師傅的師傅也沒交代。三公分沒有出處，可是每一棵樹都照著留。",
+          "editorNote": "適合用在一條沒人說得出理由、大家卻都在遵守的規矩",
+          "variations": [
+            "短版：割痕之間留三公分，沒有人知道是誰量的。",
+            "延伸版：後來真的有人拿尺去量，量到二點八，就沒有再量下去。"
+          ]
+        },
+        "en": {
+          "content": "You leave three centimeters between one groove and the next; that's the rule. I asked who measured the three centimeters, and the old hand said his teacher did. Press further and his teacher's teacher left nothing behind either. Three centimeters has no origin, and every tree gets it anyway.",
+          "editorNote": "For a rule nobody can explain that everybody keeps anyway",
+          "variations": [
+            "Short version: Three centimeters between grooves, and no one knows who measured it.",
+            "Extended version: Someone did bring a ruler once, got two point eight, and stopped measuring."
+          ]
+        }
+      }
     }
   ]
 }
