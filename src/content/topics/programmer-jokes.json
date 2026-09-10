@@ -14172,6 +14172,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-519",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://bankofculture.com/archives/4491",
+      "sourceNote": "文化銀行採訪半世紀打錫師許戶田，記下七道工序（熔錫、壓製錫片、灌模、冷鍛塑形、焊接、剉修、擦洗），並提到最辛苦的是壓製錫片；取「初學者第一堂就在做最基本的事」這個平淡事實，配上一張問動機的報名表",
+      "tags": [
+        "工程師日常",
+        "字面意思",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "報名表上問我為什麼想學打錫。\n我寫：想學打錫。\n第一堂課教怎麼把錫條壓成錫片，我壓了一個下午。",
+          "editorNote": "有人問你「為什麼想學這個」、而你其實沒有更深的理由時，可以直接丟這則。",
+          "variations": [
+            "短版：報名表問我原因，我寫想學。",
+            "延伸版本：第二堂課還是壓錫片。"
+          ]
+        },
+        "en": {
+          "content": "The sign-up form asked why I wanted to learn tinsmithing.\nI wrote: I want to learn tinsmithing.\nThe first class was about rolling a tin bar flat into a sheet, and I rolled one all afternoon.",
+          "editorNote": "For when someone asks why you picked up a hobby and you have no deeper reason to give them.",
+          "variations": [
+            "Short version: the form asked my reason, and I wrote that I wanted to learn.",
+            "Extension: the second class was rolling sheets again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-520",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://art.ltn.com.tw/article/paper/1556119",
+      "sourceNote": "自由藝文網報導錫工藝人間國寶陳萬能家族，提到錫錠每塊二十五公斤、八成靠手工鍛造、焊接用烙鐵沾錫；把「兩種手藝的共通點」這種面試題丟進來，答案只留下最字面的那個",
+      "tags": [
+        "面試",
+        "字面意思",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官問我，打錫和寫程式有什麼共通點。\n我說兩件事都要坐著做。\n他在紙上寫了幾個字，然後問下一題。",
+          "editorNote": "面試後段被要求把兩件事「昇華」成一句心得時，這則是反方向的示範。",
+          "variations": [
+            "短版：我說兩件事都要坐著做。",
+            "延伸版本：後來沒有下文，我也沒有再想過那題。"
+          ]
+        },
+        "en": {
+          "content": "The interviewer asked what tinsmithing and programming have in common.\nI said you sit down for both of them.\nHe wrote a few words on his paper and moved on to the next question.",
+          "editorNote": "A counterexample for the part of an interview where you are expected to turn two things into one profound sentence.",
+          "variations": [
+            "Short version: I said you sit down for both of them.",
+            "Extension: nobody followed up, and I never thought about the question again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-521",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "Vocal 這篇整理 2026 年開發者迷因，列了「週五部署」「production is down」「自動部署出事」等固定橋段；反過來寫成一個原因平淡到不值得講的版本",
+      "tags": [
+        "除錯",
+        "bug",
+        "字面意思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個錯誤只在星期五出現，我們找了兩個月。\n後來有人點開排程設定，那一行寫的是每週五執行。\n我們改成星期一，它就改在星期一出現。",
+          "editorNote": "適合貼在事後回頭看、發現真正原因平淡到說不出口的那種除錯故事底下。",
+          "variations": [
+            "短版：排程設定寫的是每週五執行。",
+            "延伸版本：星期一那天，同一群人又坐下來找了半天。"
+          ]
+        },
+        "en": {
+          "content": "The bug only showed up on Fridays, and we chased it for two months.\nThen someone opened the scheduler config, where the line said to run every Friday.\nWe changed it to Monday, and it started showing up on Monday.",
+          "editorNote": "Post it under a debugging war story whose real cause turned out to be too plain to tell.",
+          "variations": [
+            "Short version: the scheduler was set to run every Friday.",
+            "Extension: on Monday the same people sat down and looked for it all over again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-522",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://techgeeksapparel.com/best-coding-jokes-and-one-liners/",
+      "sourceNote": "這份 coding one-liner 清單裡有經典的分號雙關（\"the ';' bar\"）與 SQL join 雙關；本則刻意停在雙關該出現的位置，只給語法上正確的回答",
+      "tags": [
+        "新人",
+        "字面意思",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人問我，分號是不是有什麼典故。\n沒有典故，那是語法規定要加的。\n少一個，程式就停在那裡不動。",
+          "editorNote": "帶新人的時候，對方等一個有趣的來由、你手上只有規格可以給的那一刻。",
+          "variations": [
+            "短版：沒有典故，語法規定要加。",
+            "延伸版本：他把缺的都補上去，程式就會跑了。"
+          ]
+        },
+        "en": {
+          "content": "A new hire asked me if the semicolon has some story behind it.\nThere is no story; the syntax requires it.\nLeave one out and the program stops right there.",
+          "editorNote": "For mentoring moments when someone wants a fun origin and all you have is the spec.",
+          "variations": [
+            "Short version: no story, the syntax just requires it.",
+            "Extension: he added the missing ones and the program ran."
+          ]
+        }
+      }
     }
   ]
 }
