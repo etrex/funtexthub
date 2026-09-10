@@ -13861,6 +13861,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-487",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://web.arte.gov.tw/architecture/04-6.html",
+      "sourceNote": "取材自國立臺灣藝術教育館建築專頁對剪黏在屋脊現場施作、瓷片嵌入未乾泥塑、以及約每三十年須重修一次的說明；鷹架與碎碗袋的情境為原創",
+      "tags": [
+        "黑色幽默",
+        "存在主義",
+        "時間",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鷹架搭到第三層，你站在屋脊旁邊，腳邊一整袋碎掉的碗。你把碗底那圈釉色還完整的挑出來，剪成鱗片，一片一片壓進還沒乾的灰泥，壓到第四十片才發現方向全排反了。底下有人喊，說這條龍上一次補剪黏是民國七十幾年，你在心裡換算，這批鱗片大概能撐到你六十五歲。你把剪仔換到左手，接著壓第四十一片。",
+          "editorNote": "適合用在一份活的成品注定會比你晚壞掉、但也只晚一點點的時候；也可以在有人算完年份、還是把手上那片放回原位時分享。",
+          "variations": [
+            "短版：壓到第四十片才發現鱗片全排反了，你換手，繼續壓第四十一片。",
+            "延伸版：那袋碗是廟口辦桌之後收來的，你剪到最後一個碗底，剛好夠做龍的下巴。"
+          ]
+        },
+        "en": {
+          "content": "The scaffolding goes up three levels, you're standing beside the roof ridge, and there's a whole sack of smashed bowls by your feet. You pick out the bowl bottoms where the glaze is still whole, cut them into scales, press them one at a time into mortar that hasn't set, and around the fortieth one you notice they're all facing backwards. Somebody shouts up that the last patch job on this dragon was sometime in the seventies, and you run the numbers: this batch of scales should hold until you're sixty-five. You move the shears to your left hand and press down the forty-first.",
+          "editorNote": "Good for when the thing you're building will outlast you by a margin you can actually calculate; also for anyone who does the math and then sets the next piece in place anyway.",
+          "variations": [
+            "Short: Forty scales in, you notice they're all backwards, so you switch hands and press the forty-first.",
+            "Extended: The sack of bowls came off a banquet in the temple yard, and the last bowl bottom you cut is exactly enough for the dragon's chin."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-488",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://religion.moi.gov.tw/Knowledge/Content?ci=2&cid=115",
+      "sourceNote": "取材自全國宗教資訊網對剪黏「先剪後黏」定義、鐵線骨架與灰泥胚體、以及摃搥仔敲碗、剪仔裁片等工具的說明；工地規矩的條列為原創",
+      "tags": [
+        "黑色幽默",
+        "諷刺",
+        "現代生活",
+        "存在主義"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你這行的名字叫剪黏，先剪，後黏\n— 你手上那把剪仔比這間廟還舊\n— 你剪破的手指不必包，灰泥吃得掉\n— 你腳下這條脊，三十年前也有人蹲過\n— 你補的這隻獅子，下一輪換別人\n— 你今天黏上去的，颱風有最後一票\n— 你收工的順序是先拆鷹架，人最後下來",
+          "editorNote": "當一份工作的規矩全部都是關於誰不在場的時候可以引用；也適合貼給那種把收工順序背得比薪水還熟的人。",
+          "variations": [
+            "短版：\n— 你手上那把剪仔比這間廟還舊\n— 你補的這隻獅子，下一輪換別人",
+            "延伸版：\n— 你的名字不會刻在上面任何一處\n— 但你認得出哪幾片是你的"
+          ]
+        },
+        "en": {
+          "content": "— The trade is called jiannian: you cut first, you stick after.\n— The shears in your hand are older than the temple.\n— A cut finger doesn't get bandaged up here. The mortar takes it.\n— Somebody else squatted on this ridge thirty years ago.\n— The lion you're patching gets patched by someone else next round.\n— Whatever you stick on today, the typhoon holds the final vote.\n— You strike the scaffolding first and come down last.",
+          "editorNote": "Use it when every rule of a job turns out to be about who won't be there; also for people who know the shutdown order better than they know their own pay.",
+          "variations": [
+            "Short:\n— The shears in your hand are older than the temple.\n— The lion you're patching gets patched by someone else next round.",
+            "Extended:\n— Your name goes nowhere on it.\n— But you can still tell which pieces are yours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-489",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://news.pts.org.tw/article/581271",
+      "sourceNote": "取材自公視獨立特派員對剪黏材料由瓷片轉為玻璃、以及手工比例與神韻拿捏的報導；比對老照片調色的情境為原創",
+      "tags": [
+        "黑色幽默",
+        "諷刺",
+        "日常",
+        "時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "廟方拿老照片給你看，說左邊那條螭虎的顏色本來比較深。你把彩色玻璃一片片舉上去比，比到第九片才想起來，那張照片是黑白的。\n雨在三點鐘來，灰泥吃不進去，你坐在脊上把那九片全收回口袋，一片都沒少。",
+          "editorNote": "給那種依據本身就沒有答案、大家還是很認真對了一整個下午的場合；下雨天提早收工時特別合用。",
+          "variations": [
+            "短版：比到第九片你才想起來，那張老照片是黑白的。",
+            "延伸版：隔週他們又找出一張照片，這次是彩色的，拍到的是別間廟。"
+          ]
+        },
+        "en": {
+          "content": "The temple committee shows you an old photo and says the tiger scroll on the left used to be a darker color. You hold colored glass up against it piece by piece, and somewhere around the ninth piece you remember the photo is black and white.\nRain arrives at three, the mortar won't take anything, and you sit on the ridge putting all nine pieces back in your pocket, not one of them missing.",
+          "editorNote": "For an afternoon spent seriously matching something against a reference that never held the answer; extra fitting when rain ends the day early.",
+          "variations": [
+            "Short: Around the ninth piece you remember that the old photo is black and white.",
+            "Extended: The next week they dig up another photo, in color this time, of a different temple."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-490",
+      "dateAdded": "2026-09-10",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%89%AA%E7%93%B7%E9%9B%95",
+      "sourceNote": "取材自維基百科剪瓷雕條目關於圓雕多用於正脊上空飛禽走獸、遠觀效果與工具自製的敘述；二十年資歷與躲雨的收尾為原創",
+      "tags": [
+        "黑色幽默",
+        "自嘲",
+        "存在主義",
+        "現代生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把最後一塊瓷片按進灰泥，退兩步，整條屋脊在太陽底下閃了一下。你靠剪黏吃飯二十年，做出來的東西全都在別人要抬頭才看得見的高度。而會抬頭的人，多半跟你一樣，是在躲雨。",
+          "editorNote": "適合形容成就被放在沒有人會特地去看的位置；也可以在別人問你這行做久了有什麼感想時直接丟出去。",
+          "variations": [
+            "短版：你做的東西全在別人要抬頭才看得見的高度。",
+            "延伸版：有一年一台無人機飛上來拍，你第一次看清楚自己二十年前補的那隻腳。"
+          ]
+        },
+        "en": {
+          "content": "You press the last shard into the mortar, step back twice, and the whole ridge catches the sun for a second. Twenty years of making a living from jiannian, and everything you've made sits at a height where somebody has to look up to see it. And the ones who look up are mostly, like you, getting out of the rain.",
+          "editorNote": "For work that ends up somewhere nobody goes out of their way to look; also a ready answer when someone asks what twenty years in a trade feels like.",
+          "variations": [
+            "Short: Everything you make sits at a height where somebody has to look up.",
+            "Extended: One year a drone came up to film, and you finally got a clear look at a foot you patched twenty years ago."
+          ]
+        }
+      }
     }
   ]
 }
