@@ -83,6 +83,58 @@
   這一代錯在**分子的判準**。修好前者不會順便修好後者，
   因為兩者在程式碼裡是不同的一行。
 
+🔴 第三個缺陷（2026-09-11 發現）— 分子對了、判準對了，但**問錯了問題**
+------------------------------------------------------------------
+前兩代都在修「這個詞在語料裡出現幾次」。今天發現的是：那個數字回答不了
+使用者真正要問的問題。白地掃描的用途是判斷「這個詞值不值得指派」，而
+`THIN`（1–3 則）同時對應兩種完全相反的狀況：
+
+    (甲) 真的沒人寫過 → 值得指派
+    (乙) 幾個月前就報過、已經指派過、已經寫完了 → **不值得指派**
+
+語料讀數**無法區分這兩者**，因為兩者在語料裡長得一模一樣（都是 1–3 則）。
+實測（2026-09-11，把近三份報告當成「本週新見」報出的詞逐一回查）：
+
+    詞         研究日誌首報    語料首次寫入    則數   近三報又報為新
+    留友看      2026-04-21    2026-04-29     7      是
+    真冰涼      2026-04-10    2026-04-29     1      是
+    ven        2026-04-14    2026-05-11     5      是
+    甘阿捏      2026-04-10    2026-05-17     4      是
+    ㄅ級分      2026-05-11    2026-05-22     4      是
+    陳皮糖      2026-05-19    2026-05-22     3      是
+    從從容容     2026-09-10    2026-05-02     2      是
+    與眾分      2026-08-24    2026-06-15     1      是
+
+**8/8 都是乙**：全部由本日誌自己在 4–5 個月前首報、當時就指派、當時就寫完，
+然後在 9/08、9/10 又被當成「本週新見」報一次。語料讀數（THIN）每一次都是
+**正確的數字配上錯誤的標籤**。
+
+⇒ 修法：多印一欄 **`首報`** ＝ 該詞在 `scripts/research-log.md` 首次出現所屬的
+  報告日期。判讀規則：
+
+    語料 WHITE ＋ 首報 —        → 🟢 真白地
+    語料 THIN  ＋ 首報 —        → 🟢 白地（或剛落地的新指派）
+    語料 THIN  ＋ 首報 數月前    → 🔴 **已結案，不是白地**
+    語料 WHITE ＋ 首報 數月前    → ⚠️ 報過但沒寫成，查當時為何 SKIP
+
+⚠️ 這一欄**不是**語料讀數，它是**流程讀數**。它回答的是「我以前報過嗎」，
+  不是「讀者看過嗎」。兩者都要看。
+
+🔴 **這一欄自己的分子也有限制，寫在這裡以免重蹈覆轍**：它取的是
+  **在 research-log.md 任何一行的首次出現**，其中包含
+  ⑴ 飽和度表格的讀數（`賞月 1`）、⑵ 節慶行事曆之類的背景資訊、
+  ⑶ 禁用清單與「不指派」決議。**這些都不是推薦。**
+  因此 `WHITE ＋ 首報數月前` **不能**逕自讀成「推薦過但沒執行」——
+  實測（2026-09-11，以「出現在含『候選』字樣的行」為較嚴格的推薦定義，
+  取 08-01 以後共 50 個候選詞）：**列為候選 ≥14 天而語料仍為 0 的有 0 個**，
+  最舊的未執行候選僅 12 天（`紀念磁鐵`／`我再Ven一次`）。
+  ⇒ **「推薦沒被執行」目前是陰性結論，不要據本欄反推。**
+  本欄可靠的用途只有一個方向：**`n > 0` ＋ 首報數月前 ＝ 已結案**。
+
+⚠️ 同時修好的上游原因：WebSearch 查詢**含年份**（「2026 流行語」）必然命中
+  年度總整理型 listicle，那種文章每週回傳同一批詞、與搜尋時間無關。
+  查詢改用時間詞（「這週」「本月」）而不用年份，當日即測得不同結果。
+
 本腳本永遠 exit 0，report-only，不接任何閘門。
 """
 import argparse
@@ -157,6 +209,37 @@ def breakdown(data, term, lang):
     return c
 
 
+LOG_PATH = "scripts/research-log.md"
+_HDR = re.compile(r"^## (\d{4}-\d{2}-\d{2}) Research Report")
+
+
+def load_log_lines():
+    """回傳 [(報告日期, 該行文字)]；讀不到就回傳空 list（本欄僅為 report-only）。"""
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    path = os.path.join(root, LOG_PATH)
+    try:
+        raw = open(path, encoding="utf-8").read().split("\n")
+    except OSError:
+        return []
+    out = []
+    cur = "(pre-log)"
+    for line in raw:
+        m = _HDR.match(line)
+        if m:
+            cur = m.group(1)
+        out.append((cur, line))
+    return out
+
+
+def first_report(term, log_lines):
+    """該詞在 research-log.md 首次出現所屬的報告日期；沒出現過回傳 None。"""
+    pat = _boundary(term)
+    for date, line in log_lines:
+        if hit(term, line, pat):
+            return date
+    return None
+
+
 def verdict(n, nf, total_files):
     if n == 0:
         return "WHITE"
@@ -177,6 +260,8 @@ def main():
         help="把 variations 也算進分子（預設不算：它是同一則的改寫）",
     )
     ap.add_argument("--breakdown", action="store_true", help="逐欄位拆解，用於解釋膨脹來源")
+    ap.add_argument("--no-log", action="store_true",
+                    help="不查 research-log.md 的首報日期（預設會查）")
     a = ap.parse_args()
 
     data = load()
@@ -184,20 +269,31 @@ def main():
     total_items = sum(len(d["items"]) for d in data)
     print(f"語料 {total_items} 則／{total_files} 檔　分子＝i18n.{a.lang}.content"
           + ("＋variations" if a.variations else ""))
-    print(f"{'詞':16s}{'則數':>7s}{'檔數':>7s}{'raw':>8s}{'倍率':>8s}  判定")
+    log_lines = [] if a.no_log else load_log_lines()
+    head = f"{'詞':16s}{'則數':>7s}{'檔數':>7s}{'raw':>8s}{'倍率':>8s}  判定"
+    print(head + ("" if a.no_log else f"{'':6s}首報（research-log）"))
     for t in a.terms:
         n, nf, fs = scan(data, t, a.lang, a.variations)
         b = breakdown(data, t, a.lang)
         raw = sum(b.values())
         ratio = raw / n if n else float("inf")
         rs = f"{ratio:.1f}x" if n else "—"
-        print(f"{t:16s}{n:>7d}{nf:>7d}{raw:>8d}{rs:>8s}  {verdict(n, nf, total_files)}")
+        v = verdict(n, nf, total_files)
+        tail = ""
+        if not a.no_log:
+            fr = first_report(t, log_lines)
+            tail = f"{'':4s}{fr or '—'}" + ("  🔴 已結案，不是白地"
+                                            if fr and n else "")
+        print(f"{t:16s}{n:>7d}{nf:>7d}{raw:>8d}{rs:>8s}  {v:11s}{tail}")
         if a.breakdown:
             print(f"{'':16s}  " + "  ".join(f"{k}={v}" for k, v in b.items()))
         if 0 < nf <= 4:
             print(f"{'':16s}  檔案: {', '.join(sorted(fs))}")
     print("\n（report-only，永遠 exit 0；WHITE 的 0 仍須通過防呆："
           "這個主題有沒有用別的名字被寫過？）")
+    if not a.no_log:
+        print("（`首報` 是流程讀數不是語料讀數：THIN ＋ 數月前首報 ＝ 已結案，"
+              "不是白地。見 docstring 2026-09-11 節。）")
     return 0
 
 
