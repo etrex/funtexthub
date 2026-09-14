@@ -12880,6 +12880,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dogq-453",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://khh.travel/zh-tw/attractions/detail/78/",
+      "sourceNote": "Kaohsiung travel page on the Meinong paper umbrella village; the rows of canopies hung up after the tung oil coat come from its process description",
+      "tags": [
+        "狗狗",
+        "日常",
+        "幽默",
+        "毛孩"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「牠很會挑位置。」美濃那位做油紙傘的阿伯這樣講，我的狗正趴在一整排晾著的傘底下。我當成誇獎，回他說牠在家也專挑冷氣出風口。阿伯指的是牠尾巴離剛刷過桐油的傘面只剩兩根手指寬，一掃過去那把就得重來。那天我們兩個對著彼此點頭點了很久。",
+          "editorNote": "一句「很會挑位置」同時是誇獎也是警告，兩個人各自理解、各自點頭，讀者看得見那兩根手指的距離就夠了。",
+          "variations": [
+            "短版：阿伯說牠很會挑位置，我說謝謝，他眼睛一直盯著那條尾巴。",
+            "延伸版：後來那排油紙傘旁邊多了一張板凳，阿伯說是給牠坐的，也是替傘擋的。"
+          ]
+        },
+        "en": {
+          "content": "\"She's good at picking her spot,\" said the old man who makes oil-paper umbrellas in Meinong, while my dog lay under a whole row of them hung up to dry. I took it as a compliment and told him she always finds the AC vent at home too. He meant her tail was two fingers from a canopy with fresh tung oil on it, and one swish would mean starting that umbrella over. The two of us kept nodding at each other for a long time.",
+          "editorNote": "\"Good at picking her spot\" is praise and a warning in the same breath; each man nods at his own reading, and the two-finger gap does the rest.",
+          "variations": [
+            "Short version: He said she was good at picking her spot, I said thanks, and his eyes never left her tail.",
+            "Longer version: A stool showed up beside that row of umbrellas later. He said it was for her to sit on, and for the umbrellas' sake."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-454",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://english.hakka.gov.tw/Content/Content?NodeID=684&PageID=42444&LanguageType=ENG",
+      "sourceNote": "Hakka Affairs Council page on Meinong oil-paper umbrellas; the opened canopies drying outdoors and the tung oil stage that follows painting are taken from it",
+      "tags": [
+        "狗狗",
+        "養狗日常",
+        "幽默",
+        "散步"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我說要帶牠去美濃看油紙傘，牠馬上叼著牽繩坐到門口。」\n「牠知道油紙傘是什麼？」\n「牠知道牽繩是什麼。」\n「到了現場呢？」\n「一大片傘攤開在空地上曬，牠繞著走三圈，一把都沒碰。」\n「師傅有講什麼嗎？」\n「他說下次早點來。我說好啊，他又補：十點以後就開始刷桐油了。」",
+          "editorNote": "同一句「下次早點來」，一邊收到的是歡迎，一邊交代的是工序時間，兩個意思都留在對話裡，不用誰出來說破。",
+          "variations": [
+            "短版：「帶你去美濃。」話還沒講完，牽繩已經在牠嘴裡。",
+            "延伸版：「下次早點來」被我記成客套話，隔週十點半才到，整片傘都在上油，牠只能坐在車裡看。"
+          ]
+        },
+        "en": {
+          "content": "\"I said I was taking her to Meinong to see the oil-paper umbrellas, and she grabbed her leash and sat by the door.\"\n\"She knows what an oil-paper umbrella is?\"\n\"She knows what a leash is.\"\n\"And once you got there?\"\n\"A whole lot full of umbrellas opened up to dry, and she circled it three times without touching one.\"\n\"Did the craftsman say anything?\"\n\"He said come earlier next time. I said sure, and he added that the tung oil brushing starts at ten.\"",
+          "editorNote": "\"Come earlier next time\" lands as a welcome on one side and a work schedule on the other; both stay in the conversation and nobody has to spell it out.",
+          "variations": [
+            "Short version: \"We're going to Meinong.\" The leash was in her mouth before I finished the sentence.",
+            "Longer version: I filed \"come earlier\" under small talk, showed up at ten-thirty the next week, and every umbrella was mid-coat, so she watched from the car."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-455",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.dogster.com/dog-behavior/why-do-dogs-bring-you-things-when-you-come-home/",
+      "sourceNote": "Dogster vet-reviewed piece on how dogs react to cues around the door and homecoming; used loosely for the idea that a dog reads everyday words as signals, rewritten as a paired list",
+      "tags": [
+        "狗狗",
+        "日常",
+        "幽默",
+        "個性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 「好乖」：我在稱讚牠；牠記成可以再要一塊。\n— 「走了」：我要去倒垃圾；牠已經衝到玄關。\n— 「不行」：那是我的襪子；牠把襪子叼得更高。\n— 「掰掰」：我要出門上班；牠爬回沙發開始睡。\n— 「洗澡」：我在講我自己要洗；牠已經躲進床底。\n— 「晚點回來」：大概九點；牠從七點就趴在門邊。",
+          "editorNote": "每一行都是同一句話的兩種收法，我這邊和牠那邊並排放著，不用判誰聽錯，養過狗的人自己會笑。",
+          "variations": [
+            "短版：「晚點回來」，我算的是九點，牠從七點開始算。",
+            "延伸版：— 「吃飯了」：我在喊家人；牠第一個坐到餐桌旁邊。"
+          ]
+        },
+        "en": {
+          "content": "— \"Good girl\": I was praising her; she filed it as one more treat.\n— \"Let's go\": I was taking out the trash; she was already at the front door.\n— \"No\": that was my sock; she held the sock higher.\n— \"Bye-bye\": I was leaving for work; she climbed back on the couch to nap.\n— \"Bath time\": I meant mine; she was already under the bed.\n— \"Back later\": around nine; she was lying by the door from seven.",
+          "editorNote": "Each line is one phrase landing two ways, mine and hers, set side by side; no one gets marked wrong, and anyone with a dog will laugh anyway.",
+          "variations": [
+            "Short version: \"Back later\" meant nine on my clock and seven on hers.",
+            "Longer version: — \"Dinner's ready\": I was calling the family; she was the first one seated by the table."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-456",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.newsweek.com/what-means-dog-brings-random-objects-present-1922350",
+      "sourceNote": "Newsweek piece on dogs announcing things to their people; used loosely for the over-eager alert dog, rewritten as a neighbor exchange",
+      "tags": [
+        "狗狗",
+        "日常",
+        "幽默",
+        "觀察"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你家狗好會顧家喔。」隔壁太太在信箱前講這句，我笑著說牠每次聽到機車聲都會先衝去窗邊看；她說的是這禮拜每天清晨五點四十分，而且記得很清楚是從哪一天開始的。我們兩家就這樣笑著互道再見。",
+          "editorNote": "鄰居的客氣話裡藏著一個精確到分鐘的時間，主人照單全收地謙虛，兩邊都有禮貌，也都沒有講到同一件事。",
+          "variations": [
+            "短版：鄰居誇牠很會顧家，順便報了一個時間：五點四十。",
+            "延伸版：隔天我把牠的窩搬離窗戶，隔壁太太在信箱前又誇了一次，這回沒有報時間。"
+          ]
+        },
+        "en": {
+          "content": "\"Your dog sure keeps an eye on the house,\" the neighbor said by the mailboxes, and I laughed and told her she runs to the window for every scooter that goes by; she meant five-forty every morning this week, and she remembered exactly which day it started. Both households smiled and said goodbye.",
+          "editorNote": "A polite remark with a timestamp tucked inside it; the owner modestly accepts the compliment, everyone stays courteous, and nobody is talking about the same thing.",
+          "variations": [
+            "Short version: The neighbor praised her guard work and mentioned a time while she was at it: five-forty.",
+            "Longer version: I moved her bed away from the window the next day, and the neighbor praised her again by the mailboxes, this time with no time attached."
+          ]
+        }
+      }
     }
   ]
 }

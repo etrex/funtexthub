@@ -10440,6 +10440,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-372",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://fortune.com/2026/05/07/gen-z-streaming-model-media-consumption/",
+      "sourceNote": "報導指出多數 Z 世代為了一部劇訂閱、追完就退訂、之後再回來，原創改編為會員到期前一晚和朋友在市場的來回對話",
+      "tags": [
+        "訂閱",
+        "串流平台",
+        "熬夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「爆米香的阿伯說還要等兩鍋，你要不要先過來？」\n「不行，會員明天中午到期，我還剩六集。」\n「六集你今晚看得完喔？」\n「一集四十分，我片頭全部跳掉算過了。」\n「那米香我幫你帶一包花生的。」\n「帶兩包，看完我就退訂，下個月再回來。」",
+          "editorNote": "寫給把訂閱當門票用、算準到期時間衝刺的人。",
+          "variations": [
+            "短版：「還剩六集」「那我帶兩包米香給你」",
+            "延伸版：「你下個月真的會回來？」「第四季上了就會，到時候再退一次。」"
+          ]
+        },
+        "en": {
+          "content": "\"The puffed-rice guy says two more batches, you coming over?\"\n\"Can't, my membership runs out at noon tomorrow and I've got six episodes left.\"\n\"Six tonight? Really?\"\n\"Forty minutes each. I did the math with every intro skipped.\"\n\"Fine, I'll grab you a bag of the peanut kind.\"\n\"Grab two. I cancel the second I'm done and come back next month.\"",
+          "editorNote": "For people who treat a subscription like a ticket and time the finish line to the renewal date.",
+          "variations": [
+            "Short: \"Six episodes left.\" \"Then I'm bringing you two bags.\"",
+            "Extended: \"You're really coming back next month?\" \"If season four drops. Then I cancel all over again.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-373",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/90572",
+      "sourceNote": "介紹古早味爆米香，師傅開鍋前會吹哨提醒大家摀耳朵、接著砰一聲，原創改編為一邊摀耳朵一邊躲群組劇透的對話",
+      "tags": [
+        "爆雷",
+        "朋友",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「師傅在吹哨子了，你耳朵摀一下。」\n「我從昨晚就摀著，群組那幾個一直在聊結局。」\n「砰！好了，米全部倒進大盆子了。」\n「剛剛那一聲蓋掉的是男主角的名字嗎？」\n「蓋掉的是爆米香，你想太多。」\n「那你先不要傳照片，攤子後面的電視在播那一台。」",
+          "editorNote": "躲劇透躲到聽見巨響都懷疑有人在講結局的狀況。",
+          "variations": [
+            "短版：「砰！」「剛剛是不是有人講了結局？」",
+            "延伸版：「照片可以傳了嗎」「電視轉台了沒，沒轉就先別傳」"
+          ]
+        },
+        "en": {
+          "content": "\"He's blowing the whistle, cover your ears.\"\n\"I've had them covered since last night. The group chat won't stop talking about the ending.\"\n\"BOOM! Okay, all the rice just went into the big tub.\"\n\"Did that bang just cover up the lead's name?\"\n\"It covered up puffed rice. You're overthinking this.\"\n\"Then hold off on sending pictures. The TV behind the stall is on that channel.\"",
+          "editorNote": "When you're dodging spoilers so hard that a loud bang sounds like someone saying the ending.",
+          "variations": [
+            "Short: \"BOOM!\" \"Wait, did somebody just say how it ends?\"",
+            "Extended: \"Can I send the pictures now?\" \"Did the TV change channels? If not, don't.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-374",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.soocial.com/binge-watching-statistics/",
+      "sourceNote": "整理連看統計，一般觀眾每週連看約三小時，Z 世代可達十二小時，原創改編為兩人互報每週螢幕使用時間的對話",
+      "tags": [
+        "追劇習慣",
+        "共鳴",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這禮拜螢幕使用時間的報告跳出來了沒？」\n「跳了，我不想點開。」\n「我十一個鐘頭，你咧？」\n「比你多一點，大概一個半工作天。」\n「所以我們算同一個部門的。」\n「同部門的下班了嗎？」\n「還沒，這一季還有四集。」",
+          "editorNote": "朋友之間最誠實的數字，往往是手機每週自己寄來的那一個。",
+          "variations": [
+            "短版：「十一個鐘頭」「那我們同部門」",
+            "延伸版：「下禮拜要不要一起少看一點？」「報告出來再說，先把這季收掉。」"
+          ]
+        },
+        "en": {
+          "content": "\"Did your weekly screen time report pop up yet?\"\n\"It did. I'm not tapping it.\"\n\"I'm at eleven hours. You?\"\n\"A bit more than you. Call it a day and a half of work.\"\n\"So we're basically in the same department.\"\n\"Has the department clocked out?\"\n\"Nope. Four episodes left this season.\"",
+          "editorNote": "The most honest number between friends is usually the one your phone sends you every week.",
+          "variations": [
+            "Short: \"Eleven hours.\" \"Welcome to the department.\"",
+            "Extended: \"Want to both cut back next week?\" \"Let's see the report first. This season gets finished either way.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-375",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://bankofculture.com/archives/4350",
+      "sourceNote": "記錄一對父子延續傳統爆米香手藝，原創改編為兒子抱怨串流漲價、父親拿一鍋米香的價錢來比的對話",
+      "tags": [
+        "串流平台",
+        "訂閱",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「爸，一鍋爆米香現在收多少？」\n「自己帶米一百二，用我們的米一百五。」\n「我那個影音平台又漲了，漲的錢差不多是你半鍋。」\n「那就退掉啊。」\n「退了就看不到第三季。」\n「那你來幫我轉鍋子，轉一個下午，漲的我出。」",
+          "editorNote": "家裡的長輩不懂串流，但很懂一個下午值多少錢。",
+          "variations": [
+            "短版：「又漲了」「那來幫我轉鍋子」",
+            "延伸版：「轉一個下午就幫我出？」「轉滿的話，第四季也算我的。」"
+          ]
+        },
+        "en": {
+          "content": "\"Dad, what do you charge for a batch of puffed rice these days?\"\n\"Bring your own rice, one-twenty. Use ours, one-fifty.\"\n\"My streaming service went up again. The increase is about half one of your batches.\"\n\"So cancel it.\"\n\"If I cancel, I lose season three.\"\n\"Then come turn the drum for me. One afternoon of turning and I'll cover the difference.\"",
+          "editorNote": "Parents may not get streaming, but they know exactly what an afternoon is worth.",
+          "variations": [
+            "Short: \"It went up again.\" \"Then come turn the drum.\"",
+            "Extended: \"One afternoon and you'll pay it?\" \"Put in the full afternoon and season four's on me too.\""
+          ]
+        }
+      }
     }
   ]
 }
