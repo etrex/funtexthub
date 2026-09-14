@@ -14288,6 +14288,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-523",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.aip.org/inside-science/the-wondrous-physics-of-spinning-tops",
+      "sourceNote": "AIP 介紹陀螺物理的文章提到重心與支點決定陀螺能不能站穩；本則把工程師除錯時由遠而近亂懷疑的順序，搬到手作陀螺上",
+      "tags": [
+        "除錯",
+        "工程師思維",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 削好的陀螺放上桌，轉不到三秒就倒。\n— 我先懷疑木頭，再懷疑桌子。\n— 接著查地球是不是歪的。\n— 釘尖重磨四次，重心量了兩遍。\n— 阿公拿去看一眼，說釘子釘斜了。",
+          "editorNote": "給習慣從最大的可能性開始查、最後才看最明顯那個地方的工程師。",
+          "variations": [
+            "短版：陀螺倒了，我查到地球，阿公看一眼說釘子斜了。",
+            "延伸版：阿公把釘子拔起來重釘，陀螺轉了一分鐘，我把量重心的紙收進抽屜。"
+          ]
+        },
+        "en": {
+          "content": "— The top I carved fell over in under three seconds.\n— I blamed the wood first, then the table.\n— Then I checked whether the earth was tilted.\n— I reground the tip four times and measured the balance twice.\n— Grandpa glanced at it once and said the nail went in crooked.",
+          "editorNote": "For engineers who start with the biggest possible cause and check the obvious spot last.",
+          "variations": [
+            "Short version: the top fell, I investigated the planet, Grandpa pointed at the nail.",
+            "Extended: Grandpa pulled the nail and hammered it back straight, the top spun for a full minute, and my balance notes went into a drawer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-524",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Top-10-programmer-jokes",
+      "sourceNote": "TheServerSide 的程式設計師笑話清單以版本控制與修 bug 來回為常見笑點；本則改寫成一個手作陀螺專案的 commit 紀錄",
+      "tags": [
+        "Git",
+        "版本控制",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— fix：陀螺轉起來會往左跑\n— fix：陀螺轉起來改往右跑\n— revert：往左跑好像比較好\n— refactor：繩子換一條長的\n— chore：地板掃乾淨\n— docs：README 加上「請在平的地方玩」",
+          "editorNote": "週末做手工也忍不住寫 commit message 的人，看到這份紀錄應該會心虛。",
+          "variations": [
+            "短版：fix 往左、fix 往右、revert 回往左。",
+            "延伸版：下一個 commit 是 feat：買一顆現成的。"
+          ]
+        },
+        "en": {
+          "content": "— fix: top drifts left while spinning.\n— fix: top now drifts right while spinning.\n— revert: drifting left was honestly better.\n— refactor: swap in a longer string.\n— chore: sweep the floor.\n— docs: add \"play on a flat surface\" to the README.",
+          "editorNote": "For anyone who writes commit messages even for a weekend craft project.",
+          "variations": [
+            "Short version: fix left, fix right, revert to left.",
+            "Extended: the next commit reads feat: buy one from the store."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-525",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://henrikwarne.com/2016/11/24/things-programmers-say/",
+      "sourceNote": "Henrik Warne 整理工程師常說的話（如「應該很快」「只是暫時的修法」）；本則把幾句承諾和它們實際的下場並排列出",
+      "tags": [
+        "工程師語錄",
+        "職場",
+        "血淚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 說五分鐘能改好的，改到下班。\n— 說只動一行的，動了十二個檔。\n— 說不會影響別人的，影響了付款。\n— 說明天補測試的，明天換了專案。\n— 說先上線再講的，後來誰也沒再講。",
+          "editorNote": "估時會議前拿出來念一遍，大家就知道剛剛那句話會走到哪裡。",
+          "variations": [
+            "短版：五分鐘改到下班，一行動了十二個檔。",
+            "加長：說這次一定寫文件的，現在正在寫這份清單。"
+          ]
+        },
+        "en": {
+          "content": "— \"Five minutes\" lasted until the end of the day.\n— \"Just one line\" touched twelve files.\n— \"Won't affect anyone\" took down checkout.\n— \"I'll add tests tomorrow\" was followed by a move to another project.\n— \"Ship it, we'll talk later\" and nobody ever brought it up again.",
+          "editorNote": "Read this aloud before any estimation meeting so everyone knows where that last promise is headed.",
+          "variations": [
+            "Short version: five minutes became a full day, one line became twelve files.",
+            "Longer: \"I'll document it this time\" is currently writing this list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-526",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "http://hyperphysics.phy-astr.gsu.edu/hbase/top.html",
+      "sourceNote": "HyperPhysics 解釋陀螺進動：轉速越慢、進動越明顯；本則讓 AI 在被要求寫陀螺模擬時，一路補丁補到開始講物理課",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 請 AI 寫一個陀螺模擬，它給了一顆會飛的。\n— 補一句要有重力，它掉穿了地板。\n— 補一句要有地板，它卡在地板裡面轉。\n— 補一句不准卡住，它開始解釋什麼是進動。\n— 我把筆電闔上，拿繩子去甩一顆真的。",
+          "editorNote": "寫給一句一句補 prompt、補到發現自己動手比較快的時刻。",
+          "variations": [
+            "短版：陀螺會飛、會掉穿地板、會卡住，最後我去甩一顆真的。",
+            "延伸版：真的那顆轉了半分鐘，也沒有跟我解釋進動。"
+          ]
+        },
+        "en": {
+          "content": "— I asked the AI for a spinning top simulation and got one that flies.\n— Added gravity, and it fell straight through the floor.\n— Added a floor, and it spun while stuck inside it.\n— Said no getting stuck, and it began a lecture on precession.\n— I shut the laptop and went to throw a real one with a string.",
+          "editorNote": "For that moment when you keep patching the prompt and realize doing it by hand is faster.",
+          "variations": [
+            "Short version: it flew, it fell through the floor, it got stuck, so I threw a real top.",
+            "Extended: the real one spun for half a minute and never once explained precession."
+          ]
+        }
+      }
     }
   ]
 }
