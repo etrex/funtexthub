@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-14",
   "min_scene_items": 2,
   "first_batch": [],
   "ordinal_allowed": [
@@ -15,8 +15,8 @@
     "F13"
   ],
   "institutional_topics": [
-    "drama-quotes",
-    "cat-quotes"
+    "couple-jokes",
+    "witty-comebacks"
   ],
   "form_min_distinct": 2,
   "form_reader_visible": true,
@@ -27,14 +27,12 @@
     "F15"
   ],
   "anti_humor_topics": [
-    "dark-humor",
-    "absurd-wisdom"
+    "cheesy-pickups",
+    "stock-investor-quotes"
   ],
   "timely_topics": [
-    "adulting-quotes",
     "food-jokes",
     "holiday-jokes",
-    "mom-quotes",
     "service-quotes",
     "workplace-quotes"
   ],
@@ -48,172 +46,312 @@
     "重播"
   ],
   "topics": {
-    "absurd-wisdom": {
-      "frame": "F15",
-      "scene_class": "鐵窗花製作",
-      "scene": "鐵窗花",
-      "scene_tokens": [
-        "鐵窗花"
-      ]
-    },
-    "adulting-quotes": {
-      "frame": "F2",
-      "scene_class": "中秋外包・檸月酥",
-      "scene": "檸月酥",
-      "scene_tokens": [
-        "檸月酥",
-        "剝柚子"
-      ],
-      "timely": "mid-autumn"
-    },
     "breakup-quotes": {
-      "frame": "F2",
-      "scene_class": "挽面",
-      "scene": "挽面",
-      "scene_tokens": [
-        "挽面"
-      ]
-    },
-    "cat-quotes": {
-      "frame": "F13",
-      "scene_class": "扯鈴製作",
-      "scene": "扯鈴",
-      "scene_tokens": [
-        "扯鈴"
-      ]
-    },
-    "cdrama-period-quotes": {
       "frame": "F5",
-      "scene_class": "木屐製作",
-      "scene": "木屐",
+      "scene_class": "捏麵人",
+      "scene": "捏麵人",
       "scene_tokens": [
-        "木屐"
+        "捏麵人"
       ]
     },
-    "cheesy-pickups": {
-      "frame": "F6",
-      "scene_class": "珊瑚加工",
-      "scene": "珊瑚",
-      "scene_tokens": [
-        "珊瑚"
-      ]
-    },
-    "cold-jokes": {
-      "frame": "F10",
-      "scene_class": "港口理貨",
-      "scene": "理貨",
-      "scene_tokens": [
-        "理貨"
-      ]
-    },
-    "concert-ticket-quotes": {
+    "renting-quotes": {
       "frame": "F4",
-      "scene_class": "補鍋",
-      "scene": "補鍋",
+      "scene_class": "捏麵人",
+      "scene": "捏麵人",
       "scene_tokens": [
-        "補鍋"
-      ]
-    },
-    "couple-jokes": {
-      "frame": "F9",
-      "scene_class": "採蓮子",
-      "scene": "蓮子",
-      "scene_tokens": [
-        "蓮子"
-      ]
-    },
-    "dark-humor": {
-      "frame": "F15",
-      "scene_class": "羊乳配送",
-      "scene": "羊乳",
-      "scene_tokens": [
-        "羊乳"
-      ]
-    },
-    "diet-quotes": {
-      "frame": "F1",
-      "scene_class": "篩沙",
-      "scene": "篩沙",
-      "scene_tokens": [
-        "篩沙"
-      ]
-    },
-    "dog-quotes": {
-      "frame": "F8",
-      "scene_class": "整骨推拿",
-      "scene": "整骨",
-      "scene_tokens": [
-        "整骨"
-      ]
-    },
-    "drama-binge-quotes": {
-      "frame": "F1",
-      "scene_class": "繞境陣頭",
-      "scene": "繞境",
-      "scene_tokens": [
-        "繞境"
+        "捏麵人"
       ]
     },
     "drama-quotes": {
-      "frame": "F13",
-      "scene_class": "鐵窗花製作",
-      "scene": "鐵窗花",
+      "frame": "F2",
+      "scene_class": "捏麵人",
+      "scene": "捏麵人",
       "scene_tokens": [
-        "鐵窗花"
+        "捏麵人"
+      ]
+    },
+    "cold-jokes": {
+      "frame": "F6",
+      "scene_class": "爆米香",
+      "scene": "爆米香",
+      "scene_tokens": [
+        "爆米香"
+      ]
+    },
+    "student-quotes": {
+      "frame": "F7",
+      "scene_class": "爆米香",
+      "scene": "爆米香",
+      "scene_tokens": [
+        "爆米香"
+      ]
+    },
+    "drama-binge-quotes": {
+      "frame": "F4",
+      "scene_class": "爆米香",
+      "scene": "爆米香",
+      "scene_tokens": [
+        "爆米香"
       ]
     },
     "exam-quotes": {
-      "frame": "F3",
-      "scene_class": "挽面",
-      "scene": "挽面",
+      "frame": "F8",
+      "scene_class": "棕刷製作",
+      "scene": "棕刷",
       "scene_tokens": [
-        "挽面"
+        "棕刷"
+      ]
+    },
+    "human-design-quotes": {
+      "frame": "F9",
+      "scene_class": "棕刷製作",
+      "scene": "棕刷",
+      "scene_tokens": [
+        "棕刷"
+      ]
+    },
+    "cdrama-period-quotes": {
+      "frame": "F3",
+      "scene_class": "棕刷製作",
+      "scene": "棕刷",
+      "scene_tokens": [
+        "棕刷"
+      ]
+    },
+    "self-love-quotes": {
+      "frame": "F11",
+      "scene_class": "簑衣編織",
+      "scene": "簑衣",
+      "scene_tokens": [
+        "簑衣"
+      ]
+    },
+    "korean-drama-quotes": {
+      "frame": "F8",
+      "scene_class": "簑衣編織",
+      "scene": "簑衣",
+      "scene_tokens": [
+        "簑衣"
+      ]
+    },
+    "pet-memorial-quotes": {
+      "frame": "F10",
+      "scene_class": "簑衣編織",
+      "scene": "簑衣",
+      "scene_tokens": [
+        "簑衣"
+      ]
+    },
+    "programmer-jokes": {
+      "frame": "F5",
+      "scene_class": "陀螺製作",
+      "scene": "陀螺",
+      "scene_tokens": [
+        "陀螺"
       ]
     },
     "fathers-day-quotes": {
-      "frame": "F7",
-      "scene_class": "扯鈴製作",
-      "scene": "扯鈴",
+      "frame": "F1",
+      "scene_class": "陀螺製作",
+      "scene": "陀螺",
       "scene_tokens": [
-        "扯鈴"
+        "陀螺"
       ]
     },
-    "fitness-quotes": {
-      "frame": "F12",
-      "scene_class": "木屐製作",
-      "scene": "木屐",
-      "scene_tokens": [
-        "木屐"
-      ]
-    },
-    "food-jokes": {
-      "frame": "F11",
-      "scene_class": "中秋外包・電烤盤",
-      "scene": "電烤盤",
-      "scene_tokens": [
-        "電烤盤",
-        "錫箔紙"
-      ],
-      "timely": "mid-autumn"
-    },
-    "graduation-quotes": {
+    "mom-quotes": {
       "frame": "F14",
-      "scene_class": "珊瑚加工",
-      "scene": "珊瑚",
+      "scene_class": "陀螺製作",
+      "scene": "陀螺",
       "scene_tokens": [
-        "珊瑚"
+        "陀螺"
+      ]
+    },
+    "witty-comebacks": {
+      "frame": "F13",
+      "scene_class": "鋦瓷補碗",
+      "scene": "鋦碗",
+      "scene_tokens": [
+        "鋦碗"
+      ]
+    },
+    "wedding-quotes": {
+      "frame": "F11",
+      "scene_class": "鋦瓷補碗",
+      "scene": "鋦碗",
+      "scene_tokens": [
+        "鋦碗"
+      ]
+    },
+    "adulting-quotes": {
+      "frame": "F12",
+      "scene_class": "鋦瓷補碗",
+      "scene": "鋦碗",
+      "scene_tokens": [
+        "鋦碗"
+      ]
+    },
+    "dark-humor": {
+      "frame": "F3",
+      "scene_class": "雞毛撢子製作",
+      "scene": "雞毛撢子",
+      "scene_tokens": [
+        "雞毛撢子"
+      ]
+    },
+    "cheesy-pickups": {
+      "frame": "F15",
+      "scene_class": "雞毛撢子製作",
+      "scene": "雞毛撢子",
+      "scene_tokens": [
+        "雞毛撢子"
+      ]
+    },
+    "motivational-quotes": {
+      "frame": "F6",
+      "scene_class": "雞毛撢子製作",
+      "scene": "雞毛撢子",
+      "scene_tokens": [
+        "雞毛撢子"
+      ]
+    },
+    "worldcup-quotes": {
+      "frame": "F4",
+      "scene_class": "草仔粿",
+      "scene": "草仔粿",
+      "scene_tokens": [
+        "草仔粿"
+      ]
+    },
+    "insomnia-quotes": {
+      "frame": "F7",
+      "scene_class": "草仔粿",
+      "scene": "草仔粿",
+      "scene_tokens": [
+        "草仔粿"
+      ]
+    },
+    "concert-ticket-quotes": {
+      "frame": "F2",
+      "scene_class": "草仔粿",
+      "scene": "草仔粿",
+      "scene_tokens": [
+        "草仔粿"
       ]
     },
     "healing-quotes": {
-      "frame": "F5",
-      "scene_class": "港口理貨",
-      "scene": "理貨",
+      "frame": "F14",
+      "scene_class": "枝仔冰",
+      "scene": "枝仔冰",
       "scene_tokens": [
-        "理貨"
+        "枝仔冰"
+      ]
+    },
+    "zodiac-quotes": {
+      "frame": "F12",
+      "scene_class": "枝仔冰",
+      "scene": "枝仔冰",
+      "scene_tokens": [
+        "枝仔冰"
+      ]
+    },
+    "graduation-quotes": {
+      "frame": "F9",
+      "scene_class": "枝仔冰",
+      "scene": "枝仔冰",
+      "scene_tokens": [
+        "枝仔冰"
+      ]
+    },
+    "dog-quotes": {
+      "frame": "F2",
+      "scene_class": "油紙傘製作",
+      "scene": "油紙傘",
+      "scene_tokens": [
+        "油紙傘"
+      ]
+    },
+    "fitness-quotes": {
+      "frame": "F5",
+      "scene_class": "油紙傘製作",
+      "scene": "油紙傘",
+      "scene_tokens": [
+        "油紙傘"
+      ]
+    },
+    "diet-quotes": {
+      "frame": "F7",
+      "scene_class": "油紙傘製作",
+      "scene": "油紙傘",
+      "scene_tokens": [
+        "油紙傘"
+      ]
+    },
+    "summer-electric-quotes": {
+      "frame": "F3",
+      "scene_class": "鑿井",
+      "scene": "鑿井",
+      "scene_tokens": [
+        "鑿井"
+      ]
+    },
+    "travel-quotes": {
+      "frame": "F10",
+      "scene_class": "鑿井",
+      "scene": "鑿井",
+      "scene_tokens": [
+        "鑿井"
+      ]
+    },
+    "couple-jokes": {
+      "frame": "F13",
+      "scene_class": "鑿井",
+      "scene": "鑿井",
+      "scene_tokens": [
+        "鑿井"
+      ]
+    },
+    "absurd-wisdom": {
+      "frame": "F8",
+      "scene_class": "吊車操作",
+      "scene": "吊車",
+      "scene_tokens": [
+        "吊車"
+      ]
+    },
+    "cat-quotes": {
+      "frame": "F9",
+      "scene_class": "吊車操作",
+      "scene": "吊車",
+      "scene_tokens": [
+        "吊車"
+      ]
+    },
+    "slang-quotes": {
+      "frame": "F1",
+      "scene_class": "吊車操作",
+      "scene": "吊車",
+      "scene_tokens": [
+        "吊車"
+      ]
+    },
+    "sweet-quotes": {
+      "frame": "F12",
+      "scene_class": "竹蜻蜓製作",
+      "scene": "竹蜻蜓",
+      "scene_tokens": [
+        "竹蜻蜓"
+      ]
+    },
+    "stock-investor-quotes": {
+      "frame": "F15",
+      "scene_class": "竹蜻蜓製作",
+      "scene": "竹蜻蜓",
+      "scene_tokens": [
+        "竹蜻蜓"
       ]
     },
     "holiday-jokes": {
-      "frame": "F2",
+      "frame": "F6",
       "scene_class": "中秋外包・電烤盤",
       "scene": "電烤盤",
       "scene_tokens": [
@@ -222,82 +360,18 @@
       ],
       "timely": "mid-autumn"
     },
-    "human-design-quotes": {
-      "frame": "F14",
-      "scene_class": "補鍋",
-      "scene": "補鍋",
+    "food-jokes": {
+      "frame": "F1",
+      "scene_class": "中秋外包・電烤盤",
+      "scene": "電烤盤",
       "scene_tokens": [
-        "補鍋"
-      ]
-    },
-    "insomnia-quotes": {
-      "frame": "F8",
-      "scene_class": "採蓮子",
-      "scene": "蓮子",
-      "scene_tokens": [
-        "蓮子"
-      ]
-    },
-    "korean-drama-quotes": {
-      "frame": "F4",
-      "scene_class": "羊乳配送",
-      "scene": "羊乳",
-      "scene_tokens": [
-        "羊乳"
-      ]
-    },
-    "mom-quotes": {
-      "frame": "F9",
-      "scene_class": "中秋外包・檸月酥",
-      "scene": "檸月酥",
-      "scene_tokens": [
-        "檸月酥",
-        "宅配"
+        "電烤盤",
+        "錫箔紙"
       ],
       "timely": "mid-autumn"
     },
-    "motivational-quotes": {
-      "frame": "F3",
-      "scene_class": "篩沙",
-      "scene": "篩沙",
-      "scene_tokens": [
-        "篩沙"
-      ]
-    },
-    "pet-memorial-quotes": {
-      "frame": "F7",
-      "scene_class": "整骨推拿",
-      "scene": "整骨",
-      "scene_tokens": [
-        "整骨"
-      ]
-    },
-    "programmer-jokes": {
-      "frame": "F8",
-      "scene_class": "繞境陣頭",
-      "scene": "繞境",
-      "scene_tokens": [
-        "繞境"
-      ]
-    },
-    "renting-quotes": {
-      "frame": "F11",
-      "scene_class": "鐵窗花製作",
-      "scene": "鐵窗花",
-      "scene_tokens": [
-        "鐵窗花"
-      ]
-    },
-    "self-love-quotes": {
-      "frame": "F1",
-      "scene_class": "挽面",
-      "scene": "挽面",
-      "scene_tokens": [
-        "挽面"
-      ]
-    },
     "service-quotes": {
-      "frame": "F4",
+      "frame": "F11",
       "scene_class": "中秋外包・燒烤店",
       "scene": "燒烤店",
       "scene_tokens": [
@@ -306,95 +380,14 @@
       ],
       "timely": "mid-autumn"
     },
-    "slang-quotes": {
-      "frame": "F5",
-      "scene_class": "扯鈴製作",
-      "scene": "扯鈴",
-      "scene_tokens": [
-        "扯鈴"
-      ]
-    },
-    "stock-investor-quotes": {
-      "frame": "F10",
-      "scene_class": "木屐製作",
-      "scene": "木屐",
-      "scene_tokens": [
-        "木屐"
-      ]
-    },
-    "student-quotes": {
-      "frame": "F12",
-      "scene_class": "珊瑚加工",
-      "scene": "珊瑚",
-      "scene_tokens": [
-        "珊瑚"
-      ]
-    },
-    "summer-electric-quotes": {
-      "frame": "F6",
-      "scene_class": "港口理貨",
-      "scene": "理貨",
-      "scene_tokens": [
-        "理貨"
-      ]
-    },
-    "sweet-quotes": {
-      "frame": "F3",
-      "scene_class": "補鍋",
-      "scene": "補鍋",
-      "scene_tokens": [
-        "補鍋"
-      ]
-    },
-    "travel-quotes": {
-      "frame": "F14",
-      "scene_class": "採蓮子",
-      "scene": "蓮子",
-      "scene_tokens": [
-        "蓮子"
-      ]
-    },
-    "wedding-quotes": {
-      "frame": "F7",
-      "scene_class": "羊乳配送",
-      "scene": "羊乳",
-      "scene_tokens": [
-        "羊乳"
-      ]
-    },
-    "witty-comebacks": {
-      "frame": "F6",
-      "scene_class": "篩沙",
-      "scene": "篩沙",
-      "scene_tokens": [
-        "篩沙"
-      ]
-    },
     "workplace-quotes": {
-      "frame": "F10",
-      "scene_class": "中秋外包・燒烤店",
-      "scene": "燒烤店",
+      "frame": "F14",
+      "scene_class": "中秋禮盒・沒有月餅",
+      "scene": "禮盒",
       "scene_tokens": [
-        "燒烤店",
-        "訂位"
+        "禮盒"
       ],
       "timely": "mid-autumn"
-    },
-    "worldcup-quotes": {
-      "frame": "F12",
-      "scene_class": "整骨推拿",
-      "scene": "整骨",
-      "scene_tokens": [
-        "整骨"
-      ]
-    },
-    "zodiac-quotes": {
-      "frame": "F9",
-      "scene_class": "繞境陣頭",
-      "scene": "繞境",
-      "scene_tokens": [
-        "繞境"
-      ]
     }
   }
 }
