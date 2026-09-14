@@ -10472,6 +10472,127 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-344",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=604343",
+      "sourceNote": "國家文化記憶庫說明竹蜻蜓靠竹片兩側斜削的槳翼轉動時產生升力而上飛；改寫成先問童玩原理、再用同樣語氣問股價為何下跌，得到一個字面上正確的回答",
+      "tags": [
+        "看盤",
+        "套牢",
+        "散戶",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「竹蜻蜓為什麼會往上飛？」\n「竹片兩邊削成斜面，轉起來會把空氣往下推。」\n「斜面要削幾度？」\n「四十五度左右，兩邊要一樣。」\n「那我的股票為什麼一直往下？」\n「因為賣的人比買的人多。」",
+          "editorNote": "適合在你想聽到一句安慰、卻只想得到供需表的那一晚讀",
+          "variations": [
+            "短版：股價往下，是因為賣的人比買的人多。",
+            "延伸版：他講竹片講了兩句，講我的股票只講了一句，而且都對。"
+          ]
+        },
+        "en": {
+          "content": "\"Why does a bamboo dragonfly go up?\"\n\"Both sides of the blade are cut at a slant, so spinning it pushes air down.\"\n\"What angle?\"\n\"Around forty-five degrees, and both sides have to match.\"\n\"Then why does my stock keep going down?\"\n\"Because more people are selling it than buying it.\"",
+          "editorNote": "For the night you wanted comfort and could only think of supply and demand",
+          "variations": [
+            "Short: the price is going down because more people are selling than buying.",
+            "Longer: he gave the blade two answers and my stock one, and all three were correct."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-345",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_Object&id=629343",
+      "sourceNote": "國家文化記憶庫收錄竹山竹工藝師林其生製作的竹蜻蜓，重點在兩翼斜面與中心軸的平衡；改寫成向做竹蜻蜓的長輩請教飛高的方法，再順口問股票，得到最平淡的回答",
+      "tags": [
+        "做功課",
+        "散戶",
+        "人性",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問在廟口削竹蜻蜓的阿伯，這一支要怎麼做才飛得比較高。他說兩片翅膀的斜面要削得一樣厚，竹筷要插在正中間。我又問他，那股票要怎麼買才漲得比較高。他說他不知道，他沒有在買股票。",
+          "editorNote": "適合轉給那位覺得每個老師傅都藏著一套投資哲學的朋友",
+          "variations": [
+            "短版：阿伯會做竹蜻蜓，阿伯沒有在買股票。",
+            "延伸版：斜面他講得很仔細，股票那題他只回了四個字：我不知道。"
+          ]
+        },
+        "en": {
+          "content": "I asked the old man carving bamboo dragonflies outside the temple how to make one fly higher. He said both wings need the same bevel, and the chopstick goes dead center. Then I asked him how to buy a stock so it climbs higher. He said he wouldn't know, since he doesn't own any stocks.",
+          "editorNote": "Send it to the friend who assumes every old craftsman is secretly hiding an investment philosophy",
+          "variations": [
+            "Short: he makes bamboo dragonflies. He does not buy stocks.",
+            "Longer: he was very precise about the bevel. On stocks he had one answer, and it was that he did not know."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-346",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://vocus.cc/article/6a14373ffd8978000192bf67",
+      "sourceNote": "文章談散戶容易跟著市場上的說法與比喻行動；改寫成營業員丟出一個「股票像竹蜻蜓」的比喻，追問之下只得到毫無洞見的共同點",
+      "tags": [
+        "散戶",
+        "反諷",
+        "厭世",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "營業員說，買股票跟放竹蜻蜓很像。我問他哪裡像。他想了一下，說兩個都要用手。",
+          "editorNote": "適合在又有人拿一個比喻跟你講大盤的時候讀",
+          "variations": [
+            "短版：買股票跟放竹蜻蜓，兩個都要用手。",
+            "延伸版：我等他講下去，他沒有要講下去，他去接電話了。"
+          ]
+        },
+        "en": {
+          "content": "My broker said buying stocks is a lot like flying a bamboo dragonfly. I asked him in what way. He thought about it for a bit and said you use your hands for both.",
+          "editorNote": "Read it the next time someone explains the market to you with a metaphor",
+          "variations": [
+            "Short: stocks and bamboo dragonflies both require hands.",
+            "Longer: I waited for him to go on. He did not go on. He picked up the phone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-347",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://vocus.cc/article/68b1d51efd8978000115b0df",
+      "sourceNote": "筆記整理股市中的 FOMO 情緒與散戶常見術語下的行為；改寫成一份名詞問答，每題都給教科書式的字面解釋，連「韭菜」也照字面回答",
+      "tags": [
+        "韭菜",
+        "停損",
+        "存股",
+        "散戶",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 什麼叫做套牢？買進之後價格下跌，現在賣掉會虧錢。\n— 什麼叫做停損？在虧損擴大之前先賣出。\n— 什麼叫做存股？長期持有股票，領取股利。\n— 什麼叫做韭菜？一種蔬菜，可以包水餃。\n— 什麼叫做抱緊處理？手上的股票先不要賣。",
+          "editorNote": "適合貼給剛開戶、正在查名詞的新手，他會在第四行停一下",
+          "variations": [
+            "短版：韭菜是一種蔬菜，可以包水餃。",
+            "延伸版：五個名詞查完，最好懂的是韭菜，它可以炒蛋。"
+          ]
+        },
+        "en": {
+          "content": "— What does bag holder mean? You bought, the price fell, and selling now would lock in a loss.\n— What is a stop-loss? Selling before the loss gets bigger.\n— What is dividend investing? Holding shares for years and collecting the dividends.\n— What is a leek? A vegetable. It goes in dumplings.\n— What does hold tight mean? Do not sell the shares you have yet.",
+          "editorNote": "Hand it to someone who just opened a brokerage account and is looking up terms; they will pause on line four",
+          "variations": [
+            "Short: a leek is a vegetable. It goes in dumplings.",
+            "Longer: of the five terms, the leek was easiest to understand. You can also scramble it with eggs."
+          ]
+        }
+      }
     }
   ]
 }

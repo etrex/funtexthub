@@ -10306,6 +10306,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-351",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://tech.udn.com/tech/story/123152/9539864",
+      "sourceNote": "udn科技玩家：夏月電價上路後帳單變貴，台電說明多因冷氣用電增加，建議清濾網、搭配電風扇",
+      "tags": [
+        "冷氣",
+        "電費",
+        "家人",
+        "遙控器"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鑿井的機台接的是阿伯家的插座。延長線從窗縫拉出去，他每隔一陣子就走到電表前，彎腰看那個圓盤轉。看完回來把冷氣遙控器拿起來，按了兩下，又放回電視上。",
+          "editorNote": "家裡有長輩會盯電表的人，應該都看過這個彎腰的角度。",
+          "variations": [
+            "短版：機台在院子裡轉，阿伯在電表前面彎著腰。",
+            "延伸版：那天下午他去看了七趟電表，遙控器按了十四下。"
+          ]
+        },
+        "en": {
+          "content": "The well-drilling rig was plugged into Uncle's outdoor socket. The extension cord ran out through a gap in the window, and every so often he walked over to the meter, bent down, and watched the little disc spin. Then he came back, picked up the AC remote, pressed it twice, and set it back on top of the TV.",
+          "editorNote": "Anyone with a parent who guards the power meter knows exactly how far they bend.",
+          "variations": [
+            "Short: the rig spun in the yard while Uncle bent over the meter.",
+            "Extended: seven trips to the meter that afternoon, fourteen presses on the remote."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-352",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.nec43710315.com.tw/descriptions_1.html",
+      "sourceNote": "承冠工程實業鑿井流程：鑿井後洗井擴水、試水量測動水位判斷揚程，再安裝沉水馬達與抽水管",
+      "tags": [
+        "用電量",
+        "夏天",
+        "冷氣",
+        "省電"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 鑿井隊收工前把馬達開關交給我\n— 拇指壓在紅鈕上，三秒沒按\n— 先抬頭看院子裡的冷氣室外機\n— 按下去，水管抖了一下\n— 拇指移開，又去看室外機",
+          "editorNote": "夏天多開一台會耗電的東西之前，那三秒大家都有。",
+          "variations": [
+            "短版：按鈕按下去之前，我先看了室外機。",
+            "延伸版：水管抖完以後，我在按鈕旁邊站到太陽下山。"
+          ]
+        },
+        "en": {
+          "content": "— Before the well drillers packed up, they put the submersible pump switch in my hand.\n— My thumb rested on the red button for three seconds without pushing.\n— I looked up first at the AC unit out in the yard.\n— Then I pushed, and the pipe gave a shake.\n— I lifted my thumb and looked at the AC unit again.",
+          "editorNote": "Those three seconds before adding one more power-hungry machine in July? Everybody has them.",
+          "variations": [
+            "Short: before I pressed the button, I checked the AC unit.",
+            "Extended: after the pipe stopped shaking I stood next to that switch until sundown."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-353",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://edh.tw/lohas/article/20979",
+      "sourceNote": "早安樂活：一般住宅夏季電費月份為 6/1–9/30，每月超過 120 度的部分依級距調高",
+      "tags": [
+        "帳單",
+        "電費",
+        "夏月電價",
+        "家人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她用指甲沿著電費單的虛線撕，撕到一半停下來，把紙翻過來壓平，再從另一頭接著撕。金額那一格她用拇指蓋住，先把地址從頭讀完。讀完地址，拇指往右挪了一公分。",
+          "editorNote": "九月最後一張夏月帳單寄到的時候，可以拿來配那個拇指。",
+          "variations": [
+            "短版：地址讀了兩遍，拇指才挪開一公分。",
+            "延伸版：那一公分挪了快一分鐘，信封她到晚上都沒丟。"
+          ]
+        },
+        "en": {
+          "content": "She tore along the power bill's perforation with a fingernail, stopped halfway, flipped the paper over to smooth it flat, then finished from the other end. She kept her thumb over the amount box and read the address first, all the way through. When the address was done, the thumb slid half an inch to the right.",
+          "editorNote": "Pair it with the last summer-rate bill of September, thumb included.",
+          "variations": [
+            "Short: she read the address twice before the thumb moved half an inch.",
+            "Extended: that half inch took almost a minute, and the envelope stayed on the table all evening."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-354",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.gvm.com.tw/article/111318",
+      "sourceNote": "遠見雜誌：2026 夏季電價計算與最省時段，冷氣溫度設定與搭配電扇的建議",
+      "tags": [
+        "電風扇",
+        "高溫",
+        "夏天",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "鑿井師傅把繩子一節一節放進井口，放到第四十幾節才停。\n他沒有抬頭，只把手伸向旁邊那台嗡嗡響的電扇，往自己的方向扳過來。\n繩子再往下放兩節。",
+          "editorNote": "寫給大太陽底下還在做事、只能跟一台小電扇討風的人。",
+          "variations": [
+            "短版：電扇扳過來，繩子又下去兩節。",
+            "延伸版：扳過來的電扇吹了不到一分鐘，插頭被曬到自己鬆掉。"
+          ]
+        },
+        "en": {
+          "content": "The well driller fed the rope into the shaft one knot at a time and didn't stop until somewhere past forty.\nHe never looked up, just reached for the humming fan beside him and bent it toward himself.\nThe rope went down two more knots.",
+          "editorNote": "For anyone working under a full sun with one small fan to bargain with.",
+          "variations": [
+            "Short: fan bent inward, rope down two more knots.",
+            "Extended: the fan blew for under a minute before the heat worked its plug loose."
+          ]
+        }
+      }
     }
   ]
 }
