@@ -11474,6 +11474,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-382",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.getmetotaiwan.com/culture/kcs-umbrella-studio/",
+      "sourceNote": "該文介紹美濃 KCS 油紙傘工作室由第二代師傅經營、開放 DIY 體驗課，並說明製傘是勞力密集的手工；取其「一般人去上體驗課才發現很耗體力」的落差，改寫成休息日去上課結果前臂和肩膀比練完還酸",
+      "tags": [
+        "休息日",
+        "自嘲",
+        "痠痛",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 休息日沒去健身房，跑去美濃上油紙傘課。\n— 刮竹骨四十分鐘，前臂酸得像做完農夫走路。\n— 刷桐油要一手撐著傘面，三角肌一直在抖。\n— 師傅叫我手穩一點，我只好說昨天練了肩。\n— 隔天練背，握槓時掌心還聞得到桐油。",
+          "editorNote": "適合休息日跑去做別的事、結果比上健身房還累的人，貼手作課照片時可以直接用",
+          "variations": [
+            "短版：休息日去刮竹骨四十分鐘，前臂酸得像做完農夫走路。",
+            "延伸版：刷桐油時三角肌一直抖，師傅叫我手穩一點，我只好說昨天練了肩。"
+          ]
+        },
+        "en": {
+          "content": "— Skipped the gym on my rest day and took an oil-paper umbrella class in Meinong.\n— Forty minutes of scraping bamboo ribs, and my forearms felt like I'd done farmer's carries.\n— Brushing on tung oil means holding the canopy up with one hand, and my delts would not stop shaking.\n— The craftsman told me to keep my hand steady, so I had to confess I trained shoulders yesterday.\n— Back day after that, and my palms still smelled like tung oil on the bar.",
+          "editorNote": "For anyone whose \"active recovery\" turned out harder than the workout, especially with a photo from a craft class",
+          "variations": [
+            "Short: Forty minutes of scraping bamboo ribs on my rest day, and my forearms felt like I'd done farmer's carries.",
+            "Longer: My delts shook the whole time I brushed on tung oil, and when the craftsman asked for a steadier hand I had to confess it was shoulder day yesterday."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-383",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://english.hakka.gov.tw/Content/Content?NodeID=684&PageID=42444&LanguageType=ENG",
+      "sourceNote": "客委會英文站介紹美濃油紙傘，說明傘面刷桐油防水、竹製傘骨的結構；取其「傘面帶桐油、傘骨一根根分開」的實物細節，改寫成下雨天把油紙傘塞進健身包後整包沾上桐油味",
+      "tags": [
+        "健身房",
+        "器材",
+        "日常",
+        "觀察"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 健身包裡這週多了一把油紙傘\n— 護腕兩條，一條已經鬆掉\n— 蛋白粉分裝盒，裝了三格\n— 毛巾捲起來塞在傘骨旁邊\n— 鞋子另外套塑膠袋\n— 傘面有桐油味，現在整包都是",
+          "editorNote": "寫給健身包永遠塞太滿的人，下雨天出門練之前會心一笑",
+          "variations": [
+            "短版：毛巾捲起來塞在傘骨旁邊，現在整包都是桐油味。",
+            "延伸版：護腕一條鬆掉、蛋白粉裝了三格、鞋子套塑膠袋，這週還多了一把油紙傘。"
+          ]
+        },
+        "en": {
+          "content": "— My gym bag has an oil-paper umbrella in it this week.\n— Two wrist wraps, one already stretched out.\n— The protein powder dispenser, three scoops loaded.\n— A towel rolled up and wedged beside the umbrella ribs.\n— Shoes in their own plastic bag.\n— The canopy smells like tung oil, and now so does everything.",
+          "editorNote": "For people whose gym bag is always overpacked, especially on a rainy morning before training",
+          "variations": [
+            "Short: The towel is wedged beside the umbrella ribs, and the whole bag smells like tung oil now.",
+            "Longer: One wrist wrap stretched out, three scoops of protein, shoes in a plastic bag, and this week an oil-paper umbrella on top."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-384",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.yanrefitness.com/100-gym-jokes-to-flex-your-funny-bone/",
+      "sourceNote": "該文整理大量健身房笑話，常見主題是組數、休息時間與教練多加的次數；取其「訓練中一直在算數卻總是算亂」的共通經驗，改寫成以同一個動詞起頭的平行清單",
+      "tags": [
+        "健身房",
+        "自嘲",
+        "教練",
+        "重訓"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 數組數，數到後面就亂了\n— 數槓片，左右各兩片再確認一遍\n— 數休息秒數，數到九十偷看手機\n— 數鏡子裡的自己，發現後面也有人在數\n— 數到最後一下，教練說還有兩下",
+          "editorNote": "練到腦袋放空、只剩下數數的那種日子最有感，適合配深蹲架自拍",
+          "variations": [
+            "短版：數到最後一下，教練說還有兩下。",
+            "延伸版：數休息秒數數到九十偷看手機，抬頭發現鏡子裡後面也有人在數。"
+          ]
+        },
+        "en": {
+          "content": "— Count sets, and somewhere in the middle I lose track.\n— Count plates, two a side, then check again.\n— Count rest seconds, and at ninety sneak a look at my phone.\n— Count myself in the mirror, and notice someone behind me counting too.\n— Count the final rep, and my coach says two more.",
+          "editorNote": "Hits hardest on the days your brain goes blank and all that's left is counting",
+          "variations": [
+            "Short: I count the final rep, and my coach says two more.",
+            "Longer: I count my rest up to ninety seconds, sneak a look at my phone, and catch someone behind me in the mirror doing the same math."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-385",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://inkcultures.com/blogs/news/how-an-oil-paper-umbrella-was-born",
+      "sourceNote": "該文說明一把油紙傘從剖竹、做傘骨、糊紙到刷桐油的過程，傘骨數量多且需逐根排列；取其「傘骨一根一根數得出來」的實物感，改寫成撐著家裡舊油紙傘走去練腿的一天",
+      "tags": [
+        "健身房",
+        "練腿",
+        "痠痛",
+        "搞笑"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 下雨，拿了阿嬤那把油紙傘出門\n— 傘骨三十六根，走到健身房剛好數完\n— 門口傘架插不進去，只能橫放在鞋櫃上\n— 練腿練到一半，有人問那是不是拍片道具\n— 回程腿軟，撐傘的手倒是很穩",
+          "editorNote": "練腿日遇上下雨天的心情，拿家裡老東西出門的人應該特別有畫面",
+          "variations": [
+            "短版：回程腿軟，撐傘的手倒是很穩。",
+            "延伸版：阿嬤那把傘插不進傘架，橫放在鞋櫃上，練腿練到一半還有人問是不是拍片道具。"
+          ]
+        },
+        "en": {
+          "content": "— Raining, so I grabbed Grandma's old oil-paper umbrella\n— Thirty-six ribs, and I'd counted every one by the time I reached the gym\n— It wouldn't fit in the umbrella stand, so it lay sideways on the shoe rack\n— Halfway through leg day, someone asked if it was a film prop\n— Walking home my legs were jelly, but my umbrella hand was rock steady",
+          "editorNote": "Leg day plus a rainy day, for anyone who has walked out the door with something old from their grandparents' house",
+          "variations": [
+            "Short: Walking home my legs were jelly, but my umbrella hand was rock steady.",
+            "Longer: Grandma's umbrella wouldn't fit in the stand, so it lay on the shoe rack, and halfway through leg day someone asked if it was a film prop."
+          ]
+        }
+      }
     }
   ]
 }
