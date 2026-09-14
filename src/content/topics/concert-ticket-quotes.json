@@ -10850,6 +10850,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-384",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://lattekorea.com/tixcraft-ticket/",
+      "sourceNote": "Latte's 追韓日記 拓元搶票攻略：開賣整點前要先登入、準時按下購買；取其「整點開搶」的說法，改寫成祖孫兩人各自說要在同一個整點去搶、搶的東西兩樣都成立的對白",
+      "tags": [
+        "搶票",
+        "家人",
+        "開賣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「阿嬤，明天中午十二點我要搶。」\n「好，明天十二點我也要去搶。」\n「妳也有登入喔？」\n「市場那攤草仔粿十二點出籠，慢一步就剩空蒸籠。」\n「那我們各搶各的，搶到再說。」",
+          "editorNote": "適合全家只有你在盯開賣時間、結果阿嬤的鬧鐘設得跟你一樣準的那種早上",
+          "variations": [
+            "短版：「明天十二點，阿嬤跟我都要去搶。」",
+            "延伸版：「我守著售票頁面，阿嬤守著市場那一籠草仔粿，兩個人都是十二點整出門。」"
+          ]
+        },
+        "en": {
+          "content": "\"Grandma, I'm going for them at noon tomorrow.\"\n\"Okay. I'm going for them at noon tomorrow too.\"\n\"Wait, you're logged in?\"\n\"The caozaigui stall at the market steams its batch at noon, and a minute late gets you an empty steamer.\"\n\"Then we each go for ours and see who scores.\"",
+          "editorNote": "For the morning you find out Grandma's alarm is set to the exact same minute as your on-sale alarm",
+          "variations": [
+            "Short: 'Noon tomorrow, Grandma and I are both going for them.'",
+            "Extended: 'I'm guarding the ticket page, Grandma's guarding the steamer of caozaigui at the market, and we both head out at twelve sharp.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-385",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://blow.streetvoice.com/59639/",
+      "sourceNote": "Blow 吹音樂〈實名制售票容易嗎？〉：業者談歌迷對座位與購票規則的理解落差；取「同一句問話，雙方理解不同」的溝通落差，改寫成群組裡一句「還有位子嗎」被兩個人各自用一張圖回答",
+      "tags": [
+        "朋友",
+        "現場",
+        "搶到"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 群組裡阿哲問：「還有位子嗎？」\n— 小美貼上搖滾區剩下空位的截圖\n— 阿哲貼上一張長板凳，旁邊擺著剛出籠的草仔粿\n— 兩張圖在對話框裡一上一下\n— 小美按了讚\n— 阿哲也按了讚",
+          "editorNote": "適合群組裡一句話同時被兩個人認真回答、而且兩個答案都對的時候",
+          "variations": [
+            "短版：「一句還有位子嗎，換來一張座位截圖和一張長板凳。」",
+            "延伸版：「兩張圖在對話框裡一上一下，一張是搖滾區，一張是草仔粿攤的板凳，誰都沒有再解釋。」"
+          ]
+        },
+        "en": {
+          "content": "— Ah-Zhe asks the group chat, \"Any spots left?\"\n— Mei posts a screenshot of the open spots in the standing pit.\n— Ah-Zhe posts a photo of a long wooden bench with a fresh steamer of caozaigui beside it.\n— The two pictures sit one above the other in the chat.\n— Mei hits like.\n— Ah-Zhe hits like too.",
+          "editorNote": "For when one question in the group chat gets two sincere answers and both of them are correct",
+          "variations": [
+            "Short: 'One \"any spots left?\" gets a seat-map screenshot and a photo of a bench.'",
+            "Extended: 'The two pictures sit stacked in the chat, one of the pit, one of the rice-cake stall bench, and nobody explains anything.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-386",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://www.setn.com/news/1872757",
+      "sourceNote": "三立新聞網 SEVENTEEN 高雄演唱會實名制新規：購票人與入場人須相符，不符者入場將被拒；取入口一句實名規定被不同的人理解成兩件事，改寫成一人確認臉、一人急叫女兒過來",
+      "tags": [
+        "實名制",
+        "入場",
+        "證件"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "入口的工作人員喊了一句：「票上是誰的名字，就要那個人自己來。」阿凱把身分證翻過來又翻回去，對著照片確認那張臉還是自己的。旁邊的阿伯聽完馬上打電話，叫女兒從馬路對面跑過來，因為票是用她的名字買的。",
+          "editorNote": "適合實名制入場那句規定一喊出來，整排人各自緊張成不同樣子的瞬間",
+          "variations": [
+            "短版：「票上是誰的名字，就要那個人自己來。」",
+            "延伸版：「阿凱在比對照片上的臉，阿伯在電話裡叫女兒快跑，兩個人聽的是同一句話。」"
+          ]
+        },
+        "en": {
+          "content": "The staffer at the gate calls out, \"Whoever's name is on the ticket has to be the one walking in.\" Kai flips his ID card over and back again, checking that the face in the photo is still his. The older man next to him is already on the phone, telling his daughter to run across the street, because the ticket was bought under her name.",
+          "editorNote": "For the second a real-name entry rule gets shouted and everyone in line panics in a completely different direction",
+          "variations": [
+            "Short: 'Whoever's name is on the ticket has to be the one walking in.'",
+            "Extended: 'Kai is matching his face to his ID while the man beside him yells at his daughter to hurry, and they both heard the same sentence.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-387",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/3219262",
+      "sourceNote": "TVBS BTS 高雄演唱會票價與座位圖整理：票價分級、最高價位數千元；取「一張多少」這個問價動作，改寫成阿姨問草仔粿一個多少、我答的是門票單價",
+      "tags": [
+        "票價",
+        "家人",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿姨提著一袋草仔粿走進客廳，問：「妳那個一個多少？」\n我正盯著手機上的付款頁面，回她：「四千八。」\n她把袋子放下，說市場那攤一個賣三十五。\n那天晚上她傳了三次訊息，問我是不是被騙了。",
+          "editorNote": "適合付款頁面還開著、家裡長輩剛好問起價錢的尷尬時刻",
+          "variations": [
+            "短版：「阿姨問一個多少，我說四千八，她手上那袋一個三十五。」",
+            "延伸版：「她把草仔粿放上桌，我把手機螢幕朝下蓋住，晚上還是收到三則問我有沒有被騙的訊息。」"
+          ]
+        },
+        "en": {
+          "content": "Auntie walks into the living room with a bag of caozaigui and asks, \"How much was yours, each?\"\nI'm staring at the payment page on my phone, so I tell her, \"Forty-eight hundred.\"\nShe sets the bag down and says the stall at the market sells them for thirty-five apiece.\nThat night she texted me three times asking whether I'd been scammed.",
+          "editorNote": "For when checkout is still open on your screen and an elder picks exactly that moment to ask about prices",
+          "variations": [
+            "Short: 'Auntie asks how much each, I say forty-eight hundred, and the ones in her bag are thirty-five.'",
+            "Extended: 'She puts the rice cakes on the table, I flip my phone face down, and that night I still get three texts asking if I got scammed.'"
+          ]
+        }
+      }
     }
   ]
 }

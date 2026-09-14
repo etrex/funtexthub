@@ -13686,6 +13686,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-537",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://tcmb.culture.tw/zh-tw/subject/233",
+      "sourceNote": "參考國家文化記憶庫對爆米香攤的描述（開鍋前提醒大家摀耳朵、砰一聲後拌麥芽糖切塊），把摀耳朵與問價錢撞在同一刻",
+      "tags": [
+        "日常",
+        "食物",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「小妹妹退後，耳朵摀起來！」\n「阿伯，爆米香一盒多少錢？」\n「摀好沒？」\n「摀好了，所以一盒多少？」\n「砰——」\n「阿伯，你剛才講的是六十還是七十？」",
+          "editorNote": "適合用在對方挑了最吵的那一秒回答你的時候",
+          "variations": [
+            "短版：「一盒多少？」「砰——」「……六十還是七十？」",
+            "延伸版：後來她學乖了，先把錢遞過去，再摀耳朵。"
+          ]
+        },
+        "en": {
+          "content": "\"Step back, kid, cover your ears!\"\n\"Sir, how much for a box of puffed rice?\"\n\"Ears covered?\"\n\"Covered. So how much is a box?\"\n\"BANG—\"\n\"Sorry, was that sixty or seventy?\"",
+          "editorNote": "For when someone answers you during the loudest possible second",
+          "variations": [
+            "Short version: \"How much a box?\" \"BANG—\" \"...Sixty or seventy?\"",
+            "Extended version: After that she learned to hand over the money first and cover her ears second."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-538",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://homiya.com.tw/blog/about-puffed-rice/",
+      "sourceNote": "參考該文提到早年師傅讓小孩自己帶米來加工、只收工錢的做法，改寫成出門時帶了哪些東西",
+      "tags": [
+        "家庭",
+        "日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 要拿去爆米香的鐵臉盆一個\n— 自己家裡的米兩斤\n— 媽媽塞進來的花生一小罐\n— 阿嬤說切小塊一點，她牙齒不好\n— 走到半路，臉盆輕了一點\n— 臉盆底那個洞，爸爸上禮拜到底補了沒？",
+          "editorNote": "適合出門前清點得很仔細，偏偏漏了最要緊那一項的人",
+          "variations": [
+            "短版：米兩斤、花生一罐、臉盆一個，洞一個。",
+            "延伸版：回家的路上不用問路，沿著地上那條白白的米走就到了。"
+          ]
+        },
+        "en": {
+          "content": "— One metal basin, for the puffed rice man.\n— Two pounds of rice from home.\n— One small jar of peanuts Mom slipped in.\n— Grandma says cut it small, her teeth aren't great.\n— Halfway there, the basin got a little lighter.\n— Did Dad ever actually patch the hole in the bottom last week?",
+          "editorNote": "For the person who packs carefully and still misses the one thing that matters",
+          "variations": [
+            "Short version: Two pounds of rice, one jar of peanuts, one basin, one hole.",
+            "Extended version: No need to ask the way home; just follow the white trail of rice on the road."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-539",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://bankofculture.com/archives/4350",
+      "sourceNote": "參考該文對父子兩代經營爆米香、沿用老機器的報導，把機器零件一件件換掉寫成一台算不清年資的老夥伴",
+      "tags": [
+        "邏輯",
+        "職業",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿伯說這台爆米香機器跟了他四十年。鍋身換過兩次，壓力表換過三個，搖把是去年新焊上去的，連輪子都是從舊嬰兒車拆下來的。他拍拍機器，說這是老朋友了。那四十年，是從哪一個零件開始算的？",
+          "editorNote": "適合拿來問那種什麼都換過一輪、卻堅持自己沒變的東西",
+          "variations": [
+            "短版：鍋子換了、表換了、輪子也換了，年資一年都沒少。",
+            "延伸版：阿伯的兒子接手那天，把最後一顆原廠螺絲也換掉了，機器還是四十年。"
+          ]
+        },
+        "en": {
+          "content": "The old man says this puffing machine has been with him for forty years. The pot has been replaced twice, the pressure gauge three times, the crank was welded on new last year, and even the wheels came off an old baby stroller. He pats it and calls it an old friend. So which part do the forty years start counting from?",
+          "editorNote": "For anything that has had every piece swapped out and still insists it hasn't changed",
+          "variations": [
+            "Short version: New pot, new gauge, new wheels, and not a single year knocked off.",
+            "Extended version: The day his son took over, he replaced the last original screw, and the machine was still forty."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-540",
+      "dateAdded": "2026-09-14",
+      "sourceUrl": "https://english.gov.taipei/News_Content.aspx?n=4FF938C7E036410F&sms=A03DD346DED13796&s=8087C7B4CCAF8656",
+      "sourceNote": "參考台北市政府英文網對米香攤的介紹（米在壓力下受限、開蓋瞬間膨脹好幾倍），把體積變大寫成熱量被稀釋的歪理",
+      "tags": [
+        "食物",
+        "家庭",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "妹妹說米香不會胖，因為米爆開以後大了十倍，熱量都被空氣稀釋掉了。\n她邊講邊拆第二盒。\n所以一整盒壓回去，原本到底是幾粒米？",
+          "editorNote": "適合回給那個替自己的零食想好一套物理學的人",
+          "variations": [
+            "短版：大了十倍，所以熱量剩十分之一，她是這樣算的。",
+            "延伸版：第三盒拆開的時候，她改口說花生也是空心的。"
+          ]
+        },
+        "en": {
+          "content": "My sister says puffed rice can't make you fat, because the grains blow up ten times bigger and the calories get diluted with air.\nShe says this while opening the second box.\nSo if you pressed a whole box back down, how many grains of rice was it to begin with?",
+          "editorNote": "For the friend who has worked out a whole branch of physics to defend a snack",
+          "variations": [
+            "Short version: Ten times bigger means one tenth the calories, by her math.",
+            "Extended version: By the third box, she had moved on to claiming peanuts are hollow too."
+          ]
+        }
+      }
     }
   ]
 }
