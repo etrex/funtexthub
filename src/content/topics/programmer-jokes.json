@@ -14404,6 +14404,121 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-527",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://www.thisoldhouse.com/pest-control/21014998/how-to-detect-and-deter-termites",
+      "sourceNote": "This Old House 介紹白蟻從木材內部往外蛀、表面看起來完好的特性；本則把它放進一台多年沒人敢動的舊伺服器底下",
+      "tags": [
+        "技術債",
+        "維護",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 他雙手托住那台舊伺服器的底部\n— 數到三，往上抬兩公分\n— 木架底板跟著落下一層白色粉末\n— 幾隻白蟻從螺絲孔慢慢爬出來\n— 他停在那個高度，撐了五秒\n— 然後把機器輕輕放回去，電源線一根都沒碰到",
+          "editorNote": "給接手過「沒人敢重開的那台機器」的人：有些東西一碰就知道，最好的處理方式是當作沒碰過。",
+          "variations": [
+            "短版：抬起兩公分，看見白蟻，放回去。",
+            "延伸版：隔天他在維運文件加了一句：這台機器與木架請視為同一個元件。"
+          ]
+        },
+        "en": {
+          "content": "— He slid both hands under the old server.\n— Counted to three and lifted it half an inch.\n— A layer of white dust sifted down from the wooden shelf.\n— A few termites crawled out of the screw holes.\n— He held it right there for five seconds.\n— Then he set the machine back down gently without touching a single cable.",
+          "editorNote": "For anyone who has inherited the box nobody dares reboot: some things, once you touch them, are best left exactly where they were.",
+          "variations": [
+            "Short version: lifted it half an inch, saw termites, put it back.",
+            "Extended: the next day he added a sentence to the ops doc saying the server and the shelf should be treated as a single component."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-528",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://programmerhumor.io/memes/pull-request",
+      "sourceNote": "ProgrammerHumor 的 pull request 迷因常拿週五下班前急著合併當笑點；本則只拍按下合併那幾秒的游標動作",
+      "tags": [
+        "上線",
+        "production",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "游標在週五下午四點五十分移到綠色的 Merge 按鈕上，停了四秒。它退開去把 CI 頁面重新整理兩次，每個勾勾都看過一遍，又慢慢爬回原處。食指在觸控板上方懸了一下才落下，接著立刻把 Slack 拉到最前面，音量開到最大。",
+          "editorNote": "週五傍晚按合併的那幾秒，整個人的猶豫都藏在游標來回的次數裡。",
+          "variations": [
+            "短版：游標在 Merge 上停四秒，退開，回來，按下，打開 Slack。",
+            "延伸版：五點零二分，Slack 跳出第一個紅點，那根食指還沒離開觸控板。"
+          ]
+        },
+        "en": {
+          "content": "At 4:50 on a Friday afternoon, the cursor slid onto the green Merge button and sat there for four seconds. It backed off to refresh the CI page twice, checking every checkmark, then crept back. The index finger hovered over the trackpad before coming down, and Slack got dragged to the front with the volume cranked all the way up.",
+          "editorNote": "Every bit of Friday-evening hesitation lives in how many times the cursor goes back and forth.",
+          "variations": [
+            "Short version: cursor on Merge for four seconds, away, back, click, Slack open.",
+            "Extended: at 5:02 the first red badge popped up in Slack, and that finger still hadn't left the trackpad."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-529",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://pestcemetery.com/termite-inspector-damage-inspectors-tap-wood/",
+      "sourceNote": "Pest Cemetery 說明白蟻檢查員會敲木頭聽聲音，空心的地方就是被蛀過；本則讓工程師用二分搜尋的方式敲踢腳板",
+      "tags": [
+        "除錯",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他蹲在走廊正中央，用螺絲起子的柄敲那塊踢腳板，聲音是實的。\n他挪到左半段的中點再敲，聲音變空，就再往左切一半。\n才敲五下，木板表面就陷出一個小洞，三隻白蟻從裡面探出頭，除蟲師傅還在玄關從門邊那塊一路往裡敲。",
+          "editorNote": "工程師找白蟻也會用二分搜尋；除蟲師傅跑的是線性搜尋，兩邊都找得到洞，只是花的時間差很多。",
+          "variations": [
+            "短版：從正中間敲起，空了就切一半，五下找到白蟻。",
+            "延伸版：師傅敲到他身邊時，看了一眼那個洞，問他是不是做過這行。"
+          ]
+        },
+        "en": {
+          "content": "He crouched at the exact middle of the hallway and tapped the baseboard with the handle of a screwdriver: solid.\nHe shuffled to the midpoint of the left half, tapped again, heard it go hollow, and split that side in half once more.\nFive taps in, the wood caved into a tiny hole and three termites poked their heads out, while the exterminator was still by the front door, working his way in one board at a time.",
+          "editorNote": "Engineers binary-search for termites too; the exterminator was running a linear scan, and both find the hole, just not on the same schedule.",
+          "variations": [
+            "Short version: start in the middle, split whenever it sounds hollow, termites located in five taps.",
+            "Extended: when the exterminator finally reached him, he looked at the hole and asked if he'd done this for a living."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-530",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://programmerhumor.io/git-memes/10000-line-pr-lgtm-lol-pj0x",
+      "sourceNote": "ProgrammerHumor 的「一萬行 PR 直接 LGTM」迷因；本則換成 AI 交來的超長 diff，只寫審查者手指按著方向鍵的過程",
+      "tags": [
+        "AI",
+        "code review",
+        "vibe coding"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 按住方向鍵往下捲 AI 的 diff\n— 捲了四十秒，捲軸才動一個指甲寬\n— 放開，喝一口水，再按住\n— 一大段紅色經過，速度沒變\n— 捲到底，按下 Approve",
+          "editorNote": "AI 一次改三千行的年代，code review 最常見的動作只剩一根手指壓著方向鍵。",
+          "variations": [
+            "短版：按住方向鍵四十秒，捲到底，Approve。",
+            "延伸版：隔天 production 出事，他把同一份 diff 再捲一次，這次在紅色那段鬆開了手指。"
+          ]
+        },
+        "en": {
+          "content": "— He held down the arrow key and scrolled through the AI's diff.\n— Forty seconds in, the scrollbar had crept about a fingernail's width.\n— Let go, took a sip of water, pressed it again.\n— A long stretch of red went by at the same speed.\n— Reached the bottom and clicked Approve.",
+          "editorNote": "Now that AI hands over three-thousand-line diffs, the most common review motion is one finger parked on an arrow key.",
+          "variations": [
+            "Short version: arrow key down for forty seconds, bottom of the file, Approve.",
+            "Extended: when production broke the next day, he scrolled the same diff again and stopped right at the red part."
+          ]
+        }
+      }
     }
   ]
 }
