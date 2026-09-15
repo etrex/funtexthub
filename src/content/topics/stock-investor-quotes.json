@@ -10593,6 +10593,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-348",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://news.tvbs.com.tw/money/3253086",
+      "sourceNote": "新聞整理颱風天台股是否休市的標準，提到停班隔天開盤常見散戶恐慌賣壓；改寫成山上一場午後雷陣雨裡，伐木隊領班收工後在車上看盤的畫面，只寫雨和他的手",
+      "tags": [
+        "看盤",
+        "散戶",
+        "焦慮",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "午後雷陣雨從一點下到收盤，山上的伐木隊把鏈鋸收回貨車斗。領班坐在駕駛座，拇指把看盤軟體往下滑，又往上滑。雨刷沒開，擋風玻璃上的水一路流到引擎蓋。他把手機螢幕朝下，蓋在儀表板上。",
+          "editorNote": "整則沒有一個字說他賠了多少，螢幕朝下那個動作已經報完帳",
+          "variations": [
+            "短版：雷陣雨下到收盤，領班把手機螢幕朝下蓋好。",
+            "延伸版：雨停的時候鏈鋸已經收好了，他才把手機翻回正面，看了一眼又翻回去。"
+          ]
+        },
+        "en": {
+          "content": "The afternoon thunderstorm ran from one o'clock to the closing bell, so the logging crew up the mountain stowed their chainsaws in the truck bed. The foreman sat in the cab, thumbing his trading app down, then back up. He left the wipers off, and the rain slid down the windshield onto the hood. He set the phone face down on the dashboard.",
+          "editorNote": "Not one word about how much he lost; flipping the phone over does the accounting",
+          "variations": [
+            "Short: storm till the closing bell. Phone face down on the dash.",
+            "Longer: by the time the rain quit, the chainsaws were packed. He turned the phone face up, looked once, and turned it back over."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-349",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://news.tvbs.com.tw/money/3253086",
+      "sourceNote": "新聞提到颱風會影響台股是否開盤與停損賣壓；改寫成一週五天的天氣，每天只配一個散戶的動作，中間伐木場因颱風停工",
+      "tags": [
+        "停損",
+        "散戶",
+        "看盤",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週一出大太陽，他把庫存截圖傳到群組。\n— 週二起霧，他沒打開 App。\n— 週三颱風外圍環流到，伐木場停工，他把停損價往下調兩塊。\n— 週四整天下雨，他把群組裡那張截圖收回。\n— 週五放晴，他去買了一把新雨傘。",
+          "editorNote": "五天天氣配五個動作，照順序讀下來，那張截圖的去留就是整週的損益表",
+          "variations": [
+            "短版：週一放晴傳截圖，週四下雨收回截圖。",
+            "延伸版：週六是陰天，群組有人問他那張截圖怎麼不見了，他回了一張雨傘的照片。"
+          ]
+        },
+        "en": {
+          "content": "— Monday, blazing sun. He posts a screenshot of his holdings in the group chat.\n— Tuesday, fog. He doesn't open the app.\n— Wednesday, the typhoon's outer bands roll in and the logging site shuts down. He moves his stop-loss two dollars lower.\n— Thursday, rain all day. He unsends the screenshot.\n— Friday, clear skies. He buys a new umbrella.",
+          "editorNote": "Five days of weather, five small moves; the fate of that screenshot is the week's whole P&L",
+          "variations": [
+            "Short: sunny Monday, screenshot posted. Rainy Thursday, screenshot unsent.",
+            "Longer: Saturday stays overcast. Someone in the chat asks where the screenshot went, and he replies with a photo of an umbrella."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-350",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://news.tvbs.com.tw/money/3253086",
+      "sourceNote": "新聞提醒復市開盤頭半小時震盪最劇烈；改寫成美股開盤時窗外起風，一個人收衣服、站著看盤的幾個動作",
+      "tags": [
+        "看盤",
+        "焦慮",
+        "人性",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "美股開盤那時窗外起了大風。他起身把晾在窗邊的三件襯衫收進來，回到電腦前沒有坐下。站著看完前十五分鐘，他才把椅子拉過來。",
+          "editorNote": "椅子拉過來的時間點，就是他決定今晚不會太難看的時間點",
+          "variations": [
+            "短版：風一起，襯衫收進來，人站著看完前十五分鐘。",
+            "延伸版：風到半夜才停，三件襯衫堆在沙發上沒摺，椅子也一直沒推回去。"
+          ]
+        },
+        "en": {
+          "content": "Wind kicks up outside right as the US market opens. He gets up, pulls in the three shirts drying by the window, and doesn't sit back down at the computer. He watches the first fifteen minutes standing before he finally drags the chair over.",
+          "editorNote": "The moment the chair comes over is the moment he figures tonight won't be ugly",
+          "variations": [
+            "Short: wind picks up, shirts come in, fifteen minutes on his feet.",
+            "Longer: the wind doesn't die down until midnight. The shirts sit unfolded on the couch, and the chair never goes back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-351",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://news.tvbs.com.tw/money/3253086",
+      "sourceNote": "新聞整理台股開盤規則與散戶在開盤前後的情緒波動；改寫成寒流早晨，伐木工在林道口烤火等試撮、九點前踢散火堆上工",
+      "tags": [
+        "看盤",
+        "散戶",
+        "紀律",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "寒流來的那個早上，伐木工阿坤在林道口生了一小堆火。\n他蹲著烤手，手機擱在膝蓋上，開盤前的試撮價一直在跳。\n八點五十九分，他把火踢散，戴上手套，發動鏈鋸。",
+          "editorNote": "他沒等到九點那一秒，這個提早一分鐘比任何紀律口號都具體",
+          "variations": [
+            "短版：寒流早上烤火看試撮，八點五十九分發動鏈鋸。",
+            "延伸版：中午休息，火堆早就冷了，他沒再拿出手機，把便當盒放在還溫的石頭上。"
+          ]
+        },
+        "en": {
+          "content": "The morning the cold front hit, a logger named Kun built a small fire where the forest road began.\nHe crouched to warm his hands, phone balanced on one knee, pre-market auction prices jumping around.\nAt 8:59 he kicked the fire apart, pulled on his gloves, and started the chainsaw.",
+          "editorNote": "He didn't wait for the opening second; that one minute early says more than any discipline slogan",
+          "variations": [
+            "Short: cold front, small fire, pre-market prices. Chainsaw on at 8:59.",
+            "Longer: at lunch the fire was long cold. He didn't take the phone out again, just set his lunchbox on a rock that was still warm."
+          ]
+        }
+      }
     }
   ]
 }
