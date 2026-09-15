@@ -11610,6 +11610,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-416",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://tw.trip.com/blog/miramar-wheel/",
+      "sourceNote": "Trip.com 旅遊攻略〈台北美麗華百樂園摩天輪〉（營業到晚上 11 點、週五六延到午夜）；只取「摩天輪在午夜準時關燈」的畫面，改寫成失眠的人從窗簾縫看它熄燈",
+      "tags": [
+        "失眠",
+        "深夜",
+        "翻來覆去"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "河對岸那座摩天輪，零點整從最外圈的燈開始熄。你把窗簾拉開兩指寬，側躺著看，眨眼的間隔越拉越長。最後一格燈暗掉，你的手指還夾在窗簾邊上，沒有鬆開。",
+          "editorNote": "只要窗外有一樣會按時關掉的東西，失眠的人就會替它守到最後。",
+          "variations": [
+            "短版：零點整摩天輪熄燈，你的手指還夾著窗簾。",
+            "延伸版：窗簾只開兩指寬，剛好夠看完那座摩天輪一圈圈暗下去，燈全暗了，手還沒放。"
+          ]
+        },
+        "en": {
+          "content": "The Ferris wheel across the river starts shutting off at midnight sharp, outer ring first. You part the curtain two fingers wide and watch on your side, the gaps between blinks getting longer. When the last light goes dark, your fingers are still pinching the curtain edge, not letting go.",
+          "editorNote": "If something outside the window shuts off on schedule, an insomniac will stay up to see it through.",
+          "variations": [
+            "Short: The Ferris wheel goes dark at midnight; your fingers are still on the curtain.",
+            "Extended: Two fingers of open curtain is exactly enough to watch the wheel go dark ring by ring, and your hand stays put after the last one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-417",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://www.kkday.com/zh-tw/blog/76193/asia-taiwan-taipei-miramar",
+      "sourceNote": "KKday 部落格〈大直美麗華摩天輪〉（48 個車廂、轉一圈約 17 分鐘）；只取「車廂一節一節轉上頂端」的細節，改寫成半夜反覆暫停白天拍的摩天輪影片數車廂",
+      "tags": [
+        "失眠",
+        "滑手機",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你把白天拍的摩天輪影片調成靜音\n— 最頂端那節車廂一到，你按下暫停\n— 拇指往右拖兩公分，又拖回原處\n— 按播放，數到十一節車廂\n— 手機從指間滑落，砸中鼻梁\n— 你撿起來，拉回片頭重數",
+          "editorNote": "白天出去玩的紀錄，到了半夜變成數羊的替代品，而且數不完。",
+          "variations": [
+            "短版：拇指拖兩公分又拖回來，車廂數到十一，手機砸在鼻梁上。",
+            "延伸版：靜音、暫停、拖回片頭，同一段摩天輪影片在凌晨轉了不知道幾圈。"
+          ]
+        },
+        "en": {
+          "content": "— You mute the Ferris wheel video you shot this afternoon.\n— The moment a car reaches the very top, you hit pause.\n— Your thumb drags an inch to the right, then back.\n— Play again; you get to eleven cars.\n— The phone slips out of your fingers and lands on your nose.\n— You pick it up, scrub to the start, and count over.",
+          "editorNote": "Daytime vacation footage makes a decent sheep substitute at night. It just never ends.",
+          "variations": [
+            "Short: Thumb drags an inch and back, eleven cars counted, phone lands on your nose.",
+            "Extended: Mute, pause, back to the start, and the same Ferris wheel clip does who knows how many laps before dawn."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-418",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://health.udn.com/health/story/5964/7913008",
+      "sourceNote": "元氣網〈睡不著要繼續躺床上嗎？神經學教授籲失眠時做3事可促進睡意〉（睡不著約 20 分鐘就離開床，到昏暗處做無聊的事）；只取「離開床」這一步，改寫成先翻枕頭翻到放棄",
+      "tags": [
+        "失眠",
+        "翻來覆去",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "枕頭翻到涼的那面，你把臉壓上去。\n沒多久又翻，枕頭套的拉鍊跟著轉到靠牆那邊。\n翻滿七次，你抱起枕頭，坐到客廳沙發最左邊那格。",
+          "editorNote": "醫師建議睡不著就離開床，這位是先跟枕頭談判七輪才照做。",
+          "variations": [
+            "短版：枕頭翻滿七次，你抱著它去坐沙發。",
+            "延伸版：涼的那面撐不了多久，拉鍊轉到靠牆那邊，再轉回來，最後連人帶枕頭搬去客廳。"
+          ]
+        },
+        "en": {
+          "content": "You flip the pillow to the cool side and press your face into it.\nSoon you flip it again, and the pillowcase zipper swings around to the wall side.\nAfter seven flips, you hug the pillow and go sit on the far-left cushion of the living room couch.",
+          "editorNote": "Doctors say get out of bed if you can't sleep; this one negotiated with the pillow for seven rounds first.",
+          "variations": [
+            "Short: Seven pillow flips, then you carry it to the couch.",
+            "Extended: The cool side never lasts; the zipper swings to the wall, swings back, and eventually you and the pillow relocate to the living room."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-419",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://sogoodday.com.tw/medical/mental-health/insomnia/what-to-do-about-insomnia/",
+      "sourceNote": "好晴天身心診所〈失眠怎麼辦？睡不著原因、9 招改善與睡眠障礙就醫指南〉（營造安靜、昏暗的睡眠環境）；只取「為了安靜而戴耳塞」的日常，改寫成反覆搓耳塞的手指特寫",
+      "tags": [
+        "失眠",
+        "深夜",
+        "腦內小劇場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把耳塞捏成細細一條，塞進左耳，用食指按住。數到四十，放手，它慢慢脹滿。隔不到十秒，你又把它拔出來，放在指腹上重新搓。",
+          "editorNote": "送給戴耳塞戴到手指比耳朵還忙的人。",
+          "variations": [
+            "短版：耳塞按住數到四十，十秒後又拔出來。",
+            "延伸版：搓細、塞進去、按住、數到四十、等它脹滿，然後在安靜下來之前把它拔掉重來。"
+          ]
+        },
+        "en": {
+          "content": "You roll the earplug into a thin little stick, push it into your left ear, and hold it there with your index finger. At forty you let go, and it slowly swells to fill the space. Less than ten seconds later, you pull it back out and roll it again on your fingertip.",
+          "editorNote": "For anyone whose fingers get more of a workout from earplugs than their ears get quiet.",
+          "variations": [
+            "Short: Hold the earplug for a forty count, then pull it out ten seconds later.",
+            "Extended: Roll, insert, hold, count to forty, wait for the swell, and yank it out before the quiet has a chance to settle in."
+          ]
+        }
+      }
     }
   ]
 }

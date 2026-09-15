@@ -11960,6 +11960,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-420",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://pansci.asia/archives/49835",
+      "sourceNote": "泛科學介紹萬花筒的構造與成像原理（筒內以鏡片夾角反射彩色碎片形成對稱圖案），取「萬花筒只是一支玩具」的平實事實，改寫為原創的看房反笑話對白",
+      "tags": [
+        "房東",
+        "看房",
+        "荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「客廳那支萬花筒要一起租給我嗎？」\n「不用，那是我姪子的，他週末會來拿。」\n「那週末我要在家嗎？」\n「要，我會先打電話跟你約時間。」\n「好，我週末兩天都在。」",
+          "editorNote": "看房時問了一個以為會有下文的問題，房東照實回答，連約時間的流程都講清楚了",
+          "variations": [
+            "短版：「那是我姪子的，週末來拿。」",
+            "延伸版：「他幾點到？」「下午三點左右，我會在門口等他。」"
+          ]
+        },
+        "en": {
+          "content": "\"Does the kaleidoscope in the living room come with the rental?\"\n\"No, that belongs to my nephew. He's picking it up this weekend.\"\n\"Should I be home for that?\"\n\"Yes. I'll call ahead so we can pick a time.\"\n\"Okay. I'm around both days.\"",
+          "editorNote": "You ask a question during a viewing that feels like it's leading somewhere, and the landlord just answers it, scheduling details included",
+          "variations": [
+            "Short: \"It's my nephew's. He'll grab it Saturday.\"",
+            "Extended: \"What time is he coming?\" \"Around three. I'll meet him out front.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-421",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://www.legis-pedia.com/article/housing-land-neighbors/1239",
+      "sourceNote": "法律百科說明住宅租賃押金最高不得超過兩個月租金、租約消滅後應返還，房客損壞設備時房東才可扣抵；取「照規矩點交就能全額拿回」的事實，改寫為原創的謎語式反笑話",
+      "tags": [
+        "押金",
+        "退租",
+        "房東"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個房客退租時拿回了全部押金，他是怎麼辦到的？\n他搬走前把牆上的釘子孔補平，拍照傳給房東，隔週錢就匯進來了。金額是兩個月的房租。",
+          "editorNote": "標準的腦筋急轉彎開頭，答案卻是一份點交流程；想拿回押金的人其實可以照抄",
+          "variations": [
+            "短版：他補了釘子孔，拍照，隔週收到匯款。",
+            "延伸版：房東還回了一句「收到，謝謝」，然後就沒有再聯絡了。"
+          ]
+        },
+        "en": {
+          "content": "How did one tenant get his whole deposit back when he moved out?\nHe patched the nail holes, texted the landlord photos, and the transfer came through the next week. It was two months' rent.",
+          "editorNote": "It opens like a brain teaser and closes like a move-out checklist; honestly, you could just follow it",
+          "variations": [
+            "Short: Patched the holes, sent photos, got paid the following week.",
+            "Extended: The landlord replied \"Got it, thanks,\" and that was the last they spoke."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-422",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://pansci.asia/archives/49835",
+      "sourceNote": "泛科學說明萬花筒由鏡片與彩色碎片組成、轉動時圖案隨之改變；讀者預期萬花筒會被拿來比喻房間，本則只照實描述那支玩具，屬原創反笑話",
+      "tags": [
+        "看房",
+        "套房",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "窗台上有一支萬花筒，是前一個房客留下的。\n我拿起來往裡面看。\n裡面是彩色的碎玻璃片和三面鏡子，轉一下，圖案就換一個。\n我把它放回窗台，簽了約。",
+          "editorNote": "寫到這裡照理該有一句關於人生或房間的比喻，但這只是一支萬花筒，看完就放回去了",
+          "variations": [
+            "短版：前房客留了一支萬花筒。我看了一下，放回去，簽約。",
+            "延伸版：搬進去那天它還在窗台上，我把它收進抽屜，跟備用鑰匙放在一起。"
+          ]
+        },
+        "en": {
+          "content": "There was a kaleidoscope on the windowsill, left behind by the last tenant.\nI picked it up and looked through it.\nInside were bits of colored glass and three mirrors, and the pattern shifted when I turned it.\nI set it back down and signed the lease.",
+          "editorNote": "This is where a metaphor about life or the apartment would normally go, but it's just a kaleidoscope, and it went back where it was",
+          "variations": [
+            "Short: The last tenant left a kaleidoscope. I looked, put it down, signed.",
+            "Extended: It was still there on move-in day, so I put it in a drawer with the spare key."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-423",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://lylaw.tw/article-content.asp?ids=57",
+      "sourceNote": "亮遠法律事務所整理租屋契約重點，說明除契約另有約定外，租賃物的修繕原則上由出租人負擔；取「設備壞了房東負責修」的條文常識，改寫為原創的報修反笑話",
+      "tags": [
+        "報修",
+        "房東",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房客傳訊息給房東：「熱水器壞了。」\n房東回：「明天下午兩點我帶師傅過去。」\n隔天下午兩點，房東和師傅到了，換掉點火器，費用由房東付。",
+          "editorNote": "報修故事通常在第二句開始走樣，這一則從頭到尾都照合約走，讀完會一直等不存在的後續",
+          "variations": [
+            "短版：熱水器壞了，房東隔天帶師傅來修好，錢他出。",
+            "延伸版：師傅走之前教房客怎麼看點火燈號，房東在旁邊點頭。"
+          ]
+        },
+        "en": {
+          "content": "The tenant texted the landlord: \"The water heater's broken.\"\nThe landlord wrote back: \"I'll come by with a repairman tomorrow at 2.\"\nAt 2 the next day, the two of them arrived, replaced the igniter, and the landlord covered the bill.",
+          "editorNote": "Repair stories usually go sideways by line two; this one follows the lease the whole way, and you keep waiting for a turn that never shows up",
+          "variations": [
+            "Short: Heater broke. Landlord brought a repairman the next day and paid for it.",
+            "Extended: Before leaving, the repairman showed the tenant how to read the ignition light, and the landlord nodded along."
+          ]
+        }
+      }
     }
   ]
 }
