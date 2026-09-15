@@ -11992,6 +11992,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-435",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://www.mayohr.com/tw/blog/detail/shift-arrangement",
+      "sourceNote": "MAYO 人資部落格談餐飲排班，指出週末與國定假日人力需求特別高、平日人潮則急速減少；借「上班族休的那幾天正是店裡最滿的時候」，寫熟客和老闆各自說的四天。",
+      "tags": [
+        "服務業",
+        "餐飲",
+        "工時",
+        "客人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「老闆，下禮拜你們也是四天班吧？」\n「對啊，四天班。」\n「真好，那星期五我就不來了。」\n「好，星期五到星期一我都在。」\n「那你哪天休？」\n「星期二。」",
+          "editorNote": "對白版，給旺季剛好落在別人放假那幾天的店家。兩個人都說「四天」，也都答得沒錯，只是那四天剛好錯開，最後一個「星期二」讓落差自己浮出來。",
+          "variations": [
+            "短版：熟客問我們下禮拜也是四天班吧，我說對，順便告訴他我星期二休。",
+            "延伸版：他說那星期五就不來了，我說好，那四天我都會在，兩個人講的每一句都是真話。"
+          ]
+        },
+        "en": {
+          "content": "\"So you guys are only working four days next week too?\"\n\"Yep, four days.\"\n\"Nice. Guess I won't come in Friday, then.\"\n\"Sure. I'm here Friday through Monday.\"\n\"So when's your day off?\"\n\"Tuesday.\"",
+          "editorNote": "Dialogue version, for shops whose rush lands on everyone else's days off. Both of them say \"four days\" and both are right; the four days just don't overlap, and \"Tuesday\" lets the gap surface on its own.",
+          "variations": [
+            "Short: A regular asked if we're on four-day weeks too. I said yes, and mentioned my day off is Tuesday.",
+            "Longer: He said he'd skip Friday, then. I said sure, I'd be here all four days. Every word either of us said was true."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-436",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://www.518.com.tw/article/1344",
+      "sourceNote": "518 職場熊報整理服務業排班制度與法規眉角；借店長把接下來幾週的班寫在白板上，寫同一行字被新人和資深員工讀成兩種工時。",
+      "tags": [
+        "服務業",
+        "工時",
+        "心聲",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 店長在休息室白板上寫：「接下來三週，每人四天班。」\n— 剛來兩個月的工讀生，在底下畫了一個笑臉。\n— 做了六年的阿姨，拿筆在旁邊補了一句：「幾點到幾點？」\n— 店長在那句後面寫：「開店到打烊。」\n— 隔天早上，笑臉被擦掉了，白板上其他字都還在。",
+          "editorNote": "條列版，適合貼在員工休息室。同一行字，兩個人各讀出一種意思，也都照自己的讀法回了；隔天被擦掉的，只有那個笑臉。",
+          "variations": [
+            "短版：白板寫著每人四天班，新人畫了笑臉，老鳥問幾點到幾點。",
+            "延伸版：店長回了「開店到打烊」之後，就沒有人再寫字，隔天笑臉不見了，那個問號還留著。"
+          ]
+        },
+        "en": {
+          "content": "— The manager wrote on the break room whiteboard: \"Next three weeks, everyone works four days.\"\n— The part-timer who started two months ago drew a smiley face underneath.\n— The auntie who's been here six years added a note beside it: \"From when to when?\"\n— The manager wrote after her note: \"Open to close.\"\n— By the next morning the smiley face was erased. Everything else on the board was still there.",
+          "editorNote": "List version, for the break room. One line on a whiteboard, two readings, and each person answered the one they read. The only thing wiped off the next day was the smiley.",
+          "variations": [
+            "Short: The board said everyone works four days. The new kid drew a smiley; the veteran asked what hours.",
+            "Longer: After the manager wrote \"open to close,\" nobody added anything else. The smiley was gone by morning, and the question mark stayed put."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-437",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://slasify.com/zh-tw/blog/taiwan-holiday-hr-guide",
+      "sourceNote": "Slasify 的假日排班指南提醒，假日營業產業在長假前後要處理大量調班與換班；借客人出遠門前的最後一句祝福，寫收店的人把同一句話用在隔天一早就要開門的夜裡。",
+      "tags": [
+        "服務業",
+        "客人",
+        "心聲",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "星期四打烊前，最後一位客人刷完卡，笑著對我說「好好休息喔」。他車子後座塞了兩個行李箱，他說的休息有四天。我把這句話拿去用在今晚，從十一點睡到五點半。明天早上六點半，店門由我來開。",
+          "editorNote": "寫給在別人出遠門前一晚收店的人。「好好休息」這句祝福被兩個人各用了一次，一次用四天，一次用六個半小時，兩次都算數。",
+          "variations": [
+            "短版：客人祝我好好休息，他休四天，我休今天晚上。",
+            "延伸版：他說完就開著塞滿行李的車走了，我把那句話帶回家，鬧鐘設五點半，也算有好好照做。"
+          ]
+        },
+        "en": {
+          "content": "Right before closing on Thursday, the last customer ran his card and told me with a smile, \"Get some good rest.\" There were two suitcases crammed in his back seat, and the rest he meant was four days long. I took the phrase and spent it on tonight, asleep from eleven to five-thirty. At six-thirty tomorrow morning, I'm the one opening the store.",
+          "editorNote": "For anyone closing up the night before everyone else heads out of town. \"Get some good rest\" gets used twice: once for four days, once for six and a half hours. Both count.",
+          "variations": [
+            "Short: He told me to get some rest. He's resting four days; I'm resting tonight.",
+            "Longer: He drove off in a car packed with luggage. I took his advice home, set my alarm for five-thirty, and followed it as best I could."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-438",
+      "dateAdded": "2026-09-15",
+      "sourceUrl": "https://money.udn.com/money/story/124512/8805617",
+      "sourceNote": "經濟日報整理 9、10 月的假期行事曆，中間三個工作週都只剩四天；借「一週四天」這句話同時套在上班族和服務業身上，寫家族群組裡兩個孩子的回覆。",
+      "tags": [
+        "服務業",
+        "工時",
+        "幽默",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我媽在家族群組說，接下來三週，我跟我哥都是四天班。我哥回：「終於可以喘口氣。」我回了一張班表截圖，週五到週一那幾格全部塗滿。我媽兩則都按了愛心。",
+          "editorNote": "給家裡一個坐辦公室、一個做服務業的組合。媽媽那句話對兩個孩子都成立，兩則回覆也都沒反駁她，愛心按得一樣多。",
+          "variations": [
+            "短版：我媽說我跟我哥都是四天班，我哥說終於能喘口氣，我傳了班表。",
+            "延伸版：同一句「四天班」，我哥那四天在家，我那四天在店裡，我媽兩邊都按了愛心，誰也沒糾正誰。"
+          ]
+        },
+        "en": {
+          "content": "In the family group chat, Mom announced that for the next three weeks, my brother and I are both working four days a week. My brother replied, \"Finally, some breathing room.\" I replied with a screenshot of my schedule, Friday through Monday completely filled in. Mom hearted both messages.",
+          "editorNote": "For families with one kid at a desk job and one in the service industry. Mom's sentence holds for both of them, neither reply contradicts her, and the hearts come out even.",
+          "variations": [
+            "Short: Mom said my brother and I both work four days a week. He said finally. I sent my schedule.",
+            "Longer: Same sentence, same four days. His four were at home, mine were at the store, and Mom hearted both of us without correcting anyone."
+          ]
+        }
+      }
     }
   ]
 }
