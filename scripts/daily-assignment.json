@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "min_scene_items": 2,
   "first_batch": [],
   "ordinal_allowed": [
-    "diet-quotes",
-    "exam-quotes",
-    "fitness-quotes",
-    "healing-quotes",
-    "zodiac-quotes"
+    "adulting-quotes",
+    "graduation-quotes",
+    "motivational-quotes",
+    "student-quotes",
+    "travel-quotes"
   ],
   "ordinal_quota_per_topic": 1,
   "named_terms": {
-    "短週": "workplace-quotes",
-    "四天班": "service-quotes",
-    "週休三日": "mom-quotes"
+    "沒有秋天": "healing-quotes",
+    "沒有冷氣聲": "insomnia-quotes",
+    "夏天先走": "self-love-quotes"
   },
   "institutional_frames": [
     "F13"
   ],
   "institutional_topics": [
-    "absurd-wisdom",
-    "food-jokes"
+    "breakup-quotes",
+    "fathers-day-quotes"
   ],
   "form_min_distinct": 2,
   "form_reader_visible": true,
@@ -31,369 +31,372 @@
     "F15"
   ],
   "anti_humor_topics": [
-    "renting-quotes",
-    "slang-quotes"
+    "cold-jokes",
+    "dog-quotes"
   ],
   "timely_topics": [
-    "mom-quotes",
-    "service-quotes",
-    "workplace-quotes"
+    "healing-quotes",
+    "insomnia-quotes",
+    "self-love-quotes"
   ],
   "timely_banned_terms": [
     "中秋",
+    "月餅",
+    "烤肉",
     "教師節",
+    "連假",
     "國慶",
     "雙十",
-    "連假",
-    "特休",
-    "撐一下",
-    "請假",
-    "補班",
-    "訂房",
-    "搶票",
-    "請4休10",
-    "烤肉",
-    "月餅"
+    "立秋",
+    "處暑",
+    "白露",
+    "秋分",
+    "節氣",
+    "特報",
+    "氣象預報",
+    "短週",
+    "四天班",
+    "週休三日"
   ],
   "topics": {
-    "motivational-quotes": {
-      "frame": "F10",
-      "scene_class": "遊樂園設施",
-      "scene": "摩天輪",
-      "scene_tokens": [
-        "摩天輪"
-      ]
-    },
-    "insomnia-quotes": {
-      "frame": "F3",
-      "scene_class": "遊樂園設施",
-      "scene": "摩天輪",
-      "scene_tokens": [
-        "摩天輪"
-      ]
-    },
-    "drama-binge-quotes": {
-      "frame": "F5",
-      "scene_class": "遊樂園設施",
-      "scene": "摩天輪",
-      "scene_tokens": [
-        "摩天輪"
-      ]
-    },
-    "dog-quotes": {
-      "frame": "F1",
-      "scene_class": "棋藝",
-      "scene": "象棋",
-      "scene_tokens": [
-        "象棋"
-      ]
-    },
-    "witty-comebacks": {
-      "frame": "F8",
-      "scene_class": "棋藝",
-      "scene": "象棋",
-      "scene_tokens": [
-        "象棋"
-      ]
-    },
-    "cat-quotes": {
-      "frame": "F4",
-      "scene_class": "棋藝",
-      "scene": "象棋",
-      "scene_tokens": [
-        "象棋"
-      ]
-    },
-    "student-quotes": {
-      "frame": "F11",
-      "scene_class": "傳統糖果",
-      "scene": "花生糖",
-      "scene_tokens": [
-        "花生糖"
-      ]
-    },
-    "fathers-day-quotes": {
-      "frame": "F10",
-      "scene_class": "傳統糖果",
-      "scene": "花生糖",
-      "scene_tokens": [
-        "花生糖"
-      ]
-    },
-    "sweet-quotes": {
-      "frame": "F9",
-      "scene_class": "傳統糖果",
-      "scene": "花生糖",
-      "scene_tokens": [
-        "花生糖"
-      ]
-    },
-    "exam-quotes": {
-      "frame": "F7",
-      "scene_class": "古早味熱飲",
-      "scene": "杏仁茶",
-      "scene_tokens": [
-        "杏仁茶"
-      ]
-    },
-    "food-jokes": {
-      "frame": "F13",
-      "scene_class": "古早味熱飲",
-      "scene": "杏仁茶",
-      "scene_tokens": [
-        "杏仁茶"
-      ]
-    },
-    "pet-memorial-quotes": {
-      "frame": "F2",
-      "scene_class": "古早味熱飲",
-      "scene": "杏仁茶",
-      "scene_tokens": [
-        "杏仁茶"
-      ]
-    },
-    "graduation-quotes": {
-      "frame": "F7",
-      "scene_class": "道路標線",
-      "scene": "標線",
-      "scene_tokens": [
-        "標線"
-      ]
-    },
-    "worldcup-quotes": {
-      "frame": "F9",
-      "scene_class": "道路標線",
-      "scene": "標線",
-      "scene_tokens": [
-        "標線"
-      ]
-    },
     "absurd-wisdom": {
-      "frame": "F13",
-      "scene_class": "道路標線",
-      "scene": "標線",
-      "scene_tokens": [
-        "標線"
-      ]
-    },
-    "dark-humor": {
-      "frame": "F2",
-      "scene_class": "防洪抽水",
-      "scene": "抽水站",
-      "scene_tokens": [
-        "抽水站"
-      ]
-    },
-    "korean-drama-quotes": {
-      "frame": "F12",
-      "scene_class": "防洪抽水",
-      "scene": "抽水站",
-      "scene_tokens": [
-        "抽水站"
-      ]
-    },
-    "drama-quotes": {
-      "frame": "F5",
-      "scene_class": "防洪抽水",
-      "scene": "抽水站",
-      "scene_tokens": [
-        "抽水站"
-      ]
-    },
-    "self-love-quotes": {
-      "frame": "F9",
-      "scene_class": "林業伐木",
-      "scene": "伐木",
-      "scene_tokens": [
-        "伐木"
-      ]
-    },
-    "stock-investor-quotes": {
-      "frame": "F14",
-      "scene_class": "林業伐木",
-      "scene": "伐木",
-      "scene_tokens": [
-        "伐木"
-      ]
-    },
-    "couple-jokes": {
-      "frame": "F1",
-      "scene_class": "林業伐木",
-      "scene": "伐木",
-      "scene_tokens": [
-        "伐木"
-      ]
-    },
-    "summer-electric-quotes": {
       "frame": "F11",
-      "scene_class": "白蟻防治",
-      "scene": "白蟻",
+      "scene_class": "踢毽子",
+      "scene": "毽子",
       "scene_tokens": [
-        "白蟻"
-      ]
-    },
-    "diet-quotes": {
-      "frame": "F6",
-      "scene_class": "白蟻防治",
-      "scene": "白蟻",
-      "scene_tokens": [
-        "白蟻"
-      ]
-    },
-    "programmer-jokes": {
-      "frame": "F3",
-      "scene_class": "白蟻防治",
-      "scene": "白蟻",
-      "scene_tokens": [
-        "白蟻"
-      ]
-    },
-    "travel-quotes": {
-      "frame": "F1",
-      "scene_class": "雜技",
-      "scene": "走鋼索",
-      "scene_tokens": [
-        "走鋼索"
-      ]
-    },
-    "concert-ticket-quotes": {
-      "frame": "F12",
-      "scene_class": "雜技",
-      "scene": "走鋼索",
-      "scene_tokens": [
-        "走鋼索"
-      ]
-    },
-    "fitness-quotes": {
-      "frame": "F10",
-      "scene_class": "雜技",
-      "scene": "走鋼索",
-      "scene_tokens": [
-        "走鋼索"
+        "毽子"
       ]
     },
     "adulting-quotes": {
-      "frame": "F6",
-      "scene_class": "光學玩具",
-      "scene": "萬花筒",
+      "frame": "F9",
+      "scene_class": "牙科植牙",
+      "scene": "植牙",
       "scene_tokens": [
-        "萬花筒"
-      ]
-    },
-    "renting-quotes": {
-      "frame": "F15",
-      "scene_class": "光學玩具",
-      "scene": "萬花筒",
-      "scene_tokens": [
-        "萬花筒"
-      ]
-    },
-    "cheesy-pickups": {
-      "frame": "F7",
-      "scene_class": "光學玩具",
-      "scene": "萬花筒",
-      "scene_tokens": [
-        "萬花筒"
+        "植牙"
       ]
     },
     "breakup-quotes": {
-      "frame": "F11",
-      "scene_class": "野台戲曲",
-      "scene": "歌仔戲",
+      "frame": "F13",
+      "scene_class": "獨輪車",
+      "scene": "獨輪車",
       "scene_tokens": [
-        "歌仔戲"
+        "獨輪車"
       ]
     },
-    "holiday-jokes": {
-      "frame": "F4",
-      "scene_class": "野台戲曲",
-      "scene": "歌仔戲",
+    "cat-quotes": {
+      "frame": "F7",
+      "scene_class": "章魚燒攤",
+      "scene": "章魚燒",
       "scene_tokens": [
-        "歌仔戲"
-      ]
-    },
-    "cold-jokes": {
-      "frame": "F14",
-      "scene_class": "野台戲曲",
-      "scene": "歌仔戲",
-      "scene_tokens": [
-        "歌仔戲"
-      ]
-    },
-    "zodiac-quotes": {
-      "frame": "F8",
-      "scene_class": "放天燈",
-      "scene": "天燈",
-      "scene_tokens": [
-        "天燈"
-      ]
-    },
-    "human-design-quotes": {
-      "frame": "F6",
-      "scene_class": "放天燈",
-      "scene": "天燈",
-      "scene_tokens": [
-        "天燈"
-      ]
-    },
-    "slang-quotes": {
-      "frame": "F15",
-      "scene_class": "放天燈",
-      "scene": "天燈",
-      "scene_tokens": [
-        "天燈"
+        "章魚燒"
       ]
     },
     "cdrama-period-quotes": {
-      "frame": "F12",
-      "scene_class": "牛墟市集",
-      "scene": "牛墟",
+      "frame": "F10",
+      "scene_class": "中醫針灸",
+      "scene": "針灸",
       "scene_tokens": [
-        "牛墟"
+        "針灸"
       ]
     },
-    "wedding-quotes": {
-      "frame": "F14",
-      "scene_class": "牛墟市集",
-      "scene": "牛墟",
+    "cheesy-pickups": {
+      "frame": "F1",
+      "scene_class": "美甲",
+      "scene": "美甲",
       "scene_tokens": [
-        "牛墟"
+        "美甲"
+      ]
+    },
+    "cold-jokes": {
+      "frame": "F15",
+      "scene_class": "變電箱",
+      "scene": "變電箱",
+      "scene_tokens": [
+        "變電箱"
+      ]
+    },
+    "concert-ticket-quotes": {
+      "frame": "F8",
+      "scene_class": "焚化爐",
+      "scene": "焚化爐",
+      "scene_tokens": [
+        "焚化爐"
+      ]
+    },
+    "couple-jokes": {
+      "frame": "F14",
+      "scene_class": "射箭場",
+      "scene": "射箭場",
+      "scene_tokens": [
+        "射箭場"
+      ]
+    },
+    "dark-humor": {
+      "frame": "F9",
+      "scene_class": "水墨畫",
+      "scene": "水墨",
+      "scene_tokens": [
+        "水墨"
+      ]
+    },
+    "diet-quotes": {
+      "frame": "F8",
+      "scene_class": "螢火蟲生態",
+      "scene": "螢火蟲",
+      "scene_tokens": [
+        "螢火蟲"
+      ]
+    },
+    "dog-quotes": {
+      "frame": "F15",
+      "scene_class": "水墨畫",
+      "scene": "水墨",
+      "scene_tokens": [
+        "水墨"
+      ]
+    },
+    "drama-binge-quotes": {
+      "frame": "F2",
+      "scene_class": "變電箱",
+      "scene": "變電箱",
+      "scene_tokens": [
+        "變電箱"
+      ]
+    },
+    "drama-quotes": {
+      "frame": "F3",
+      "scene_class": "馬術馬場",
+      "scene": "馬場",
+      "scene_tokens": [
+        "馬場"
+      ]
+    },
+    "exam-quotes": {
+      "frame": "F11",
+      "scene_class": "馬術馬場",
+      "scene": "馬場",
+      "scene_tokens": [
+        "馬場"
+      ]
+    },
+    "fathers-day-quotes": {
+      "frame": "F13",
+      "scene_class": "章魚燒攤",
+      "scene": "章魚燒",
+      "scene_tokens": [
+        "章魚燒"
+      ]
+    },
+    "fitness-quotes": {
+      "frame": "F14",
+      "scene_class": "牙科植牙",
+      "scene": "植牙",
+      "scene_tokens": [
+        "植牙"
+      ]
+    },
+    "food-jokes": {
+      "frame": "F5",
+      "scene_class": "踢毽子",
+      "scene": "毽子",
+      "scene_tokens": [
+        "毽子"
+      ]
+    },
+    "graduation-quotes": {
+      "frame": "F11",
+      "scene_class": "射箭場",
+      "scene": "射箭場",
+      "scene_tokens": [
+        "射箭場"
       ]
     },
     "healing-quotes": {
-      "frame": "F3",
-      "scene_class": "牛墟市集",
-      "scene": "牛墟",
+      "frame": "F9",
+      "scene_class": "反相位秋天・世界恢復正常反而不安",
+      "scene": "沒有秋天",
       "scene_tokens": [
-        "牛墟"
+        "沒有秋天"
+      ],
+      "timely": "autumn-phase-flip"
+    },
+    "holiday-jokes": {
+      "frame": "F3",
+      "scene_class": "章魚燒攤",
+      "scene": "章魚燒",
+      "scene_tokens": [
+        "章魚燒"
+      ]
+    },
+    "human-design-quotes": {
+      "frame": "F2",
+      "scene_class": "踢毽子",
+      "scene": "毽子",
+      "scene_tokens": [
+        "毽子"
+      ]
+    },
+    "insomnia-quotes": {
+      "frame": "F5",
+      "scene_class": "反相位秋天・不用開冷氣的安靜",
+      "scene": "沒有冷氣聲",
+      "scene_tokens": [
+        "沒有冷氣聲"
+      ],
+      "timely": "autumn-phase-flip"
+    },
+    "korean-drama-quotes": {
+      "frame": "F1",
+      "scene_class": "汽車板金",
+      "scene": "板金",
+      "scene_tokens": [
+        "板金"
+      ]
+    },
+    "mom-quotes": {
+      "frame": "F6",
+      "scene_class": "螢火蟲生態",
+      "scene": "螢火蟲",
+      "scene_tokens": [
+        "螢火蟲"
+      ]
+    },
+    "motivational-quotes": {
+      "frame": "F4",
+      "scene_class": "螢火蟲生態",
+      "scene": "螢火蟲",
+      "scene_tokens": [
+        "螢火蟲"
+      ]
+    },
+    "pet-memorial-quotes": {
+      "frame": "F14",
+      "scene_class": "汽車板金",
+      "scene": "板金",
+      "scene_tokens": [
+        "板金"
+      ]
+    },
+    "programmer-jokes": {
+      "frame": "F10",
+      "scene_class": "汽車板金",
+      "scene": "板金",
+      "scene_tokens": [
+        "板金"
+      ]
+    },
+    "renting-quotes": {
+      "frame": "F8",
+      "scene_class": "變電箱",
+      "scene": "變電箱",
+      "scene_tokens": [
+        "變電箱"
+      ]
+    },
+    "self-love-quotes": {
+      "frame": "F5",
+      "scene_class": "反相位秋天・不是我撐過去的",
+      "scene": "夏天先走",
+      "scene_tokens": [
+        "夏天先走"
+      ],
+      "timely": "autumn-phase-flip"
+    },
+    "service-quotes": {
+      "frame": "F12",
+      "scene_class": "中醫針灸",
+      "scene": "針灸",
+      "scene_tokens": [
+        "針灸"
+      ]
+    },
+    "slang-quotes": {
+      "frame": "F2",
+      "scene_class": "焚化爐",
+      "scene": "焚化爐",
+      "scene_tokens": [
+        "焚化爐"
+      ]
+    },
+    "stock-investor-quotes": {
+      "frame": "F6",
+      "scene_class": "焚化爐",
+      "scene": "焚化爐",
+      "scene_tokens": [
+        "焚化爐"
+      ]
+    },
+    "student-quotes": {
+      "frame": "F10",
+      "scene_class": "射箭場",
+      "scene": "射箭場",
+      "scene_tokens": [
+        "射箭場"
+      ]
+    },
+    "summer-electric-quotes": {
+      "frame": "F12",
+      "scene_class": "美甲",
+      "scene": "美甲",
+      "scene_tokens": [
+        "美甲"
+      ]
+    },
+    "sweet-quotes": {
+      "frame": "F7",
+      "scene_class": "水墨畫",
+      "scene": "水墨",
+      "scene_tokens": [
+        "水墨"
+      ]
+    },
+    "travel-quotes": {
+      "frame": "F7",
+      "scene_class": "獨輪車",
+      "scene": "獨輪車",
+      "scene_tokens": [
+        "獨輪車"
+      ]
+    },
+    "wedding-quotes": {
+      "frame": "F4",
+      "scene_class": "牙科植牙",
+      "scene": "植牙",
+      "scene_tokens": [
+        "植牙"
+      ]
+    },
+    "witty-comebacks": {
+      "frame": "F12",
+      "scene_class": "馬術馬場",
+      "scene": "馬場",
+      "scene_tokens": [
+        "馬場"
       ]
     },
     "workplace-quotes": {
-      "frame": "F8",
-      "scene_class": "連三週短週・上班側",
-      "scene": "短週",
+      "frame": "F1",
+      "scene_class": "中醫針灸",
+      "scene": "針灸",
       "scene_tokens": [
-        "短週"
-      ],
-      "timely": "short-week"
+        "針灸"
+      ]
     },
-    "service-quotes": {
-      "frame": "F2",
-      "scene_class": "連三週短週・服務業反方",
-      "scene": "四天班",
+    "worldcup-quotes": {
+      "frame": "F6",
+      "scene_class": "獨輪車",
+      "scene": "獨輪車",
       "scene_tokens": [
-        "四天班"
-      ],
-      "timely": "short-week"
+        "獨輪車"
+      ]
     },
-    "mom-quotes": {
-      "frame": "F5",
-      "scene_class": "連三週短週・家長側",
-      "scene": "週休三日",
+    "zodiac-quotes": {
+      "frame": "F3",
+      "scene_class": "美甲",
+      "scene": "美甲",
       "scene_tokens": [
-        "週休三日"
-      ],
-      "timely": "short-week"
+        "美甲"
+      ]
     }
   }
 }
