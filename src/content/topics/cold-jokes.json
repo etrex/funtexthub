@@ -13918,6 +13918,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-545",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.taipower.com.tw/2289/2323/2324/7418/",
+      "sourceNote": "參考台電變電箱主題展新聞稿提到彩繪塗裝改為減色美學的說明，改寫成一段沒有轉折的問答",
+      "tags": [
+        "日常",
+        "邏輯",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道變電箱為什麼都改成灰色的嗎？」\n「台電後來把塗裝規定改成灰色。」\n「我是問為什麼。」\n「顏色太多，看起來會亂。」\n「喔。」\n「以前那種彩繪的，新竹那邊還留幾個。」",
+          "editorNote": "適合丟給那種問「為什麼」其實是在等一個哏的朋友",
+          "variations": [
+            "短版：問變電箱為什麼是灰的，答案就是規定改了。",
+            "延伸版：他後來自己去查，查到的跟我講的一樣，還是有點失望。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know why the transformer boxes all got repainted gray?\"\n\"Taipower rewrote the paint standard to gray.\"\n\"I'm asking why.\"\n\"Too many colors, it looks messy.\"\n\"Oh.\"\n\"A few of the old painted ones are still standing in Hsinchu.\"",
+          "editorNote": "For the friend who asks \"why\" when what they actually want is a punchline",
+          "variations": [
+            "Short version: Ask why the transformer box is gray and the answer is that the rule changed.",
+            "Extended version: He looked it up himself later, got the same answer, and was still a little disappointed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-546",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.strongpilab.com/electric-power-distribution/",
+      "sourceNote": "參考該頁對變壓器內部銅線、銅片與絕緣油的說明，改寫成一段照實回答的對話",
+      "tags": [
+        "日常",
+        "科學",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "小明指著路邊的變電箱問我，那個裡面裝什麼。我說是銅線、銅片，還有絕緣油。他站在那邊等了三秒。我說講完了，裡面就這些東西。",
+          "editorNote": "小孩問完以後沒有笑，大人也沒有，這種場面可以拿這則墊一下",
+          "variations": [
+            "短版：他問裡面裝什麼，我把裡面裝的東西唸了一遍。",
+            "延伸版：走了半條街他又回頭問一次，我又唸了一遍，一模一樣。"
+          ]
+        },
+        "en": {
+          "content": "Xiaoming pointed at the transformer box by the road and asked me what was inside it. I said copper wire, copper plates, and insulating oil. He stood there and waited about three seconds. I said that was all of it, that's what's inside.",
+          "editorNote": "Nobody laughed after the kid asked, and no adult did either — this one fits that silence",
+          "variations": [
+            "Short version: He asked what was inside, so I read out what was inside.",
+            "Extended version: Half a block later he turned around and asked again, and I read out the exact same list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-547",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.taipower.com.tw/2289/2512/2515/49900/2519/15145/normalPost",
+      "sourceNote": "參考台電電力小學堂對變電箱設置與維修需求的說明，改寫成一段沒有後半句的問答",
+      "tags": [
+        "生活",
+        "邏輯",
+        "交通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "里長說變電箱前面不要停機車，我問那邊有沒有什麼傳說。他說沒有傳說，維修的人要開門。我以為還有下一句。他說沒有了。",
+          "editorNote": "給那些聽到「有件事要跟你說」就自動腦補三千字的人",
+          "variations": [
+            "短版：以為那邊有故事，結果只是要留位置開門。",
+            "延伸版：我還特地上網查了那條街，查出來也是維修的人要開門。"
+          ]
+        },
+        "en": {
+          "content": "The borough chief told me not to park my scooter in front of the transformer box, so I asked if there was some legend about that spot. He said there was no legend, the repair crew needs to open the door. I thought a second half was coming. He said there wasn't one.",
+          "editorNote": "For people who hear \"there's something I need to tell you\" and write three thousand words in their head",
+          "variations": [
+            "Short version: I assumed the spot had a story; it just needs room for a door to swing open.",
+            "Extended version: I even searched that street online, and what came back was also that the repair crew needs to open the door."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-548",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.gvm.com.tw/article/69245",
+      "sourceNote": "參考遠見雜誌對全台街頭變電箱數量與民眾疑慮的報導，改寫成三組一問一答的平舖直敘",
+      "tags": [
+        "日常",
+        "科學",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 有人問變電箱裡面關著什麼\n— 裡面是變壓器\n— 有人問夏天為什麼會嗡嗡叫\n— 因為零件在震動\n— 有人問那個聲音有沒有含意\n— 沒有含意",
+          "editorNote": "群組裡開始傳「這個聲音代表什麼」的時候可以貼這則",
+          "variations": [
+            "短版：嗡嗡聲的意思就是零件在震動，沒有別的。",
+            "延伸版：後來有人把那段聲音錄起來放慢播，慢的還是那個聲音。"
+          ]
+        },
+        "en": {
+          "content": "— Someone asked what is kept inside the transformer box.\n— A transformer is inside.\n— Someone asked why it hums in the summer.\n— Because the parts vibrate.\n— Someone asked whether the hum means something.\n— It does not mean anything.",
+          "editorNote": "Post this when the group chat starts forwarding \"what this sound really means\"",
+          "variations": [
+            "Short version: The hum means the parts are vibrating, and nothing else.",
+            "Extended version: Someone recorded it and played it back at half speed, and the slowed-down version was still that sound."
+          ]
+        }
+      }
     }
   ]
 }

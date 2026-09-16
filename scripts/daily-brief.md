@@ -239,7 +239,7 @@ python3 scripts/form_mix.py --date 2026-09-16 --lang en
 ## 九、內容規則
 
 - **4 則**，both `zh-tw` 與 `en`，各自要有 `content`／`editorNote`／`variations`
-- 🔴 **四則至少 2 種讀者看得出來的形式**（第二節，F4／F5／F13／F15 十檔豁免）
+- 🔴 **四則至少 2 種讀者看得出來的形式**（第二節，F4／F5／F13／F15 九檔豁免）
 - 🔴 **`en.content` 行數必須等於 `zh-tw.content` 行數**（第三節，checker 會擋）
 - 🔴 **中文的變化在英文裡也要是變化**（第四節）
 - 🔴 **同一檔四則不得共用任何 5 字片段**（第五節，`check_batch.py` 會擋）

@@ -14416,6 +14416,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-550",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E6%AF%BD%E5%AD%90",
+      "sourceNote": "Wikipedia entry on 毽子 (Chinese shuttlecock): basic kicking motions and how a rally ends; background only",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我出門前會先踢一次毽子，規定是踢到它掉下來為止。它一定會掉下來，所以這個規定一定做得到。做得到的規定，我就會一直遵守下去。這也是它到今天還留著的原因。",
+          "editorNote": "跟人解釋自己那些沒什麼用處的固定流程時可以用，重點在於這個流程保證會結束。",
+          "variations": [
+            "短版：規定是踢到它掉下來為止，而它一定會掉下來。",
+            "延伸版：後來我把規定改成踢兩次，難度完全一樣，因為第二次也會掉下來。"
+          ]
+        },
+        "en": {
+          "content": "Before I go out I kick the shuttlecock once, and the rule is to kick until it drops. It always drops, so the rule can always be met. A rule I can always meet is one I will keep forever. That is why it is still in force today.",
+          "editorNote": "For explaining one of your pointless fixed routines to someone: the whole point is that the routine is guaranteed to end.",
+          "variations": [
+            "Short version: The rule is to kick until it drops, and it always drops.",
+            "Extended: I later raised it to two kicks. Exactly the same difficulty, because the second one drops too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-551",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://custom.nutn.edu.tw/index.php?inter_url=resource&rmId=1&rId=1084",
+      "sourceNote": "National University of Tainan folk-sports centre page on shuttlecock types and how play is counted; background only",
+      "tags": [
+        "廢話文學",
+        "日常",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "踢毽子的規矩，自己訂的：\n— 毽子落地才算一次\n— 還在空中的先不算\n— 算完才知道算了幾次\n— 沒算的那幾次就是沒算\n— 規矩只有一條，其他是註解",
+          "editorNote": "拿來回答「你這樣練到底有什麼用」最順手，五行讀完不會得到任何練習方法。",
+          "variations": [
+            "短版：— 沒算的那幾次就是沒算",
+            "延伸版：最後再加一行：— 註解也算規矩，所以規矩其實有五條。"
+          ]
+        },
+        "en": {
+          "content": "Rules for kicking the shuttlecock, written by me:\n— A kick counts once it lands.\n— One still in the air does not count yet.\n— You learn the count only after counting.\n— The ones I never counted were never counted.\n— There is one rule; the rest are notes.",
+          "editorNote": "The handiest answer to \"what are you even practicing for\" — five lines that hand over no practice method at all.",
+          "variations": [
+            "Short version: — The ones I never counted were never counted.",
+            "Extended: Add one last line — the notes are rules too, which makes five of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-552",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://sutian.moe.edu.tw/zh-hant/su/25288/",
+      "sourceNote": "Ministry of Education Taiwanese dictionary entry for 毽子; background only",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每次拆包裝，我都會把撕開的那條塑膠條留起來。\n留起來就是還在。還在就是還沒丟掉，還沒丟掉就是還在。",
+          "editorNote": "整理抽屜整理到一半停下來的那個瞬間，這兩行可以解釋你為什麼又把它放回去。",
+          "variations": [
+            "短版：還在就是還沒丟掉，還沒丟掉就是還在。",
+            "延伸版：抽屜滿了以後我換一個抽屜，於是兩個抽屜都還在。"
+          ]
+        },
+        "en": {
+          "content": "Whenever I open a package, I keep the plastic strip I tore off.\nKept means still here. Still here means not thrown away, and not thrown away means still here.",
+          "editorNote": "For the exact moment you stop halfway through clearing out a drawer: two lines that explain why you put it back.",
+          "variations": [
+            "Short version: Still here means not thrown away, and not thrown away means still here.",
+            "Extended: When the drawer filled up I started a second drawer, so now both of them are still here."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-553",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.taiwan-panorama.com/Articles/Details?Guid=ca45d7b0-6e0b-4967-8887-e8ae296bd01c&CatId=11",
+      "sourceNote": "Taiwan Panorama feature on shuttlecock kicking as an adult pastime, not only a children's game; background only",
+      "tags": [
+        "廢話文學",
+        "對話",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你剛剛在走廊那邊做什麼？」\n「踢毽子。」\n「現在是上班時間欸。」\n「對，所以我踢得很快。」\n「踢快一點就不算嗎？」\n「算，只是比較快算完。」",
+          "editorNote": "被當場抓到在做一件不好解釋的事，承認得越平常，對方越難接下去。",
+          "variations": [
+            "短版：「對，所以我踢得很快。」",
+            "延伸版：再多一輪——「那你要不要一起？」「好，那就兩個人很快。」"
+          ]
+        },
+        "en": {
+          "content": "“What were you doing out by the hallway?”\n“Kicking a shuttlecock.”\n“It's working hours.”\n“Right. That's why I kick fast.”\n“Does kicking fast make it not count?”\n“It counts. It just finishes counting sooner.”",
+          "editorNote": "Caught mid-act at something you can't easily justify: the flatter the admission, the harder it is for the other person to continue.",
+          "variations": [
+            "Short version: “Right. That's why I kick fast.”",
+            "Extended: One more exchange — “Want to join?” “Sure, then the two of us are fast.”"
+          ]
+        }
+      }
     }
 
   ]

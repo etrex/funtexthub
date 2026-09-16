@@ -14290,6 +14290,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ct-484",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://cats.com/why-does-my-cat-beg-for-food",
+      "sourceNote": "Cats.com on food-begging that is really a request for the person, not the food",
+      "tags": [
+        "貓咪",
+        "主子",
+        "日常",
+        "行為"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你一手提著章魚燒，一手在包包裡翻鑰匙。\n盒子是燙的，柴魚片還在上面動。\n門開一條縫，你先看到的是一顆鼻子。\n你把盒子舉到肩膀那麼高，牠前腳搭上你的膝蓋。\n你就那樣站著，維持舉高的姿勢，等牠聞夠。",
+          "editorNote": "對貓來說，門口那幾秒鐘比整盒東西還重要。",
+          "variations": [
+            "短版：門開一條縫，你先看到的是一顆鼻子。",
+            "延伸版：你把盒子舉到燈那麼高，手酸了才發現牠早就不看盒子，改看你的手肘。"
+          ]
+        },
+        "en": {
+          "content": "One hand has the takoyaki, the other is digging in your bag for keys.\nThe box is still hot and the bonito flakes on top are still moving.\nThe door opens a crack and the first thing you see is a nose.\nYou lift the box up to shoulder height; her front paws land on your knee.\nYou stand there with your arm up, waiting for her to finish smelling it.",
+          "editorNote": "For a cat, those few seconds at the door outrank whatever is in the box.",
+          "variations": [
+            "Short version: The door opens a crack and the first thing you see is a nose.",
+            "Extended version: You hold the box up near the light until your arm aches, then notice she stopped watching the box a while ago and is watching your elbow."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-485",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.petscare.com/news/post/stop-cat-begging-human-food",
+      "sourceNote": "PetsCare on cats working around the rules people set for human food",
+      "tags": [
+        "貓咪",
+        "主子",
+        "吃飯",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你買了六顆章魚燒，走路上吃掉一顆\n— 你把盒子擺在離桌邊最遠的地方\n— 你去洗手，走到一半回頭看了一次\n— 你回來，盒子轉了大概三十度\n— 你數過一次，還是五顆\n— 你看牠，牠在舔自己的手背",
+          "editorNote": "東西一顆都沒少，但擺法不對，這種現場養貓的人最熟。",
+          "variations": [
+            "短版：你數過一次，還是五顆，盒子卻轉了方向。",
+            "延伸版：你後來改把盒子關進微波爐，牠就坐到微波爐上面去。"
+          ]
+        },
+        "en": {
+          "content": "— You buy six takoyaki and eat one on the walk home.\n— You set the box down as far from the table edge as it will go.\n— You go wash your hands and glance back halfway there.\n— You come back and the box has rotated about thirty degrees.\n— You count them once. Still five.\n— You look at her. She is licking the back of her paw.",
+          "editorNote": "Nothing is missing, but nothing is quite where you left it either.",
+          "variations": [
+            "Short version: You count them once, still five, but the box is facing a different way.",
+            "Extended version: You start shutting the box inside the microwave, so she moves and sits on top of the microwave."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-486",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.catster.com/cat-behavior/why-do-cats-like-warm-things/",
+      "sourceNote": "Catster vet-reviewed piece on why cats park themselves on the warmest surface available",
+      "tags": [
+        "貓咪",
+        "主子",
+        "日常",
+        "溫暖"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你剛關掉電鍋，鍋蓋邊緣還在冒白煙。\n你轉身去拿碗，回來時牠已經坐在旁邊那塊隔熱墊上。\n你伸手要把牠移開，牠把身體壓得更低更寬。\n你端著碗走到桌子另一頭，站著吃完。",
+          "editorNote": "找熱源這件事，貓永遠比你找位子快一步。",
+          "variations": [
+            "短版：你轉身拿個碗，隔熱墊上就多了一隻貓。",
+            "延伸版：隔熱墊被你收進抽屜以後，牠改坐電鍋旁邊那格空位，位置一公分都沒偏。"
+          ]
+        },
+        "en": {
+          "content": "You've just switched off the rice cooker and steam is still curling out from under the lid.\nYou turn to get a bowl, and by the time you're back she's sitting on the trivet next to it.\nYou reach over to move her, and she flattens herself lower and wider.\nYou carry the bowl to the far end of the table and eat standing up.",
+          "editorNote": "A cat finds the warm spot about one step faster than you find a seat.",
+          "variations": [
+            "Short version: You turn around for a bowl and there is a cat on the trivet.",
+            "Extended version: You put the trivet away in a drawer, and she takes the empty patch beside the cooker instead, off by not even an inch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-487",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://thecatwellness.com/cat-begs-then-wont-eat/",
+      "sourceNote": "The Cat Wellness on cats who ask for food, ignore the bowl, then settle once their person sits down",
+      "tags": [
+        "貓咪",
+        "主子",
+        "吃飯",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牠在你腳邊叫了四聲，你就去把罐頭開了。\n你放下碗，牠低頭聞一下，轉身走開。\n你把碗收起來，牠又走回來，坐在同一個地方叫。\n這一次你沒有動，你直接坐到地板上。\n牠在你旁邊趴下，碗還放在剛才那個位子。",
+          "editorNote": "討食討到最後，要的常常不是碗裡那個東西。",
+          "variations": [
+            "短版：你把碗收起來，牠走回來，坐在同一個地方叫。",
+            "延伸版：獸醫說每餐都這樣得檢查牙齒，可是你家這隻只在你坐下來的時候停止叫。"
+          ]
+        },
+        "en": {
+          "content": "She yowls four times at your feet, so you go open a can.\nYou put the bowl down; she sniffs it once and walks off.\nYou pick the bowl up, and she comes back and sits in the same spot and yowls again.\nThis time you don't move — you sit down on the floor instead.\nShe lies down beside you, and the bowl stays exactly where it was.",
+          "editorNote": "By the end of all that begging, the bowl was rarely the point.",
+          "variations": [
+            "Short version: You pick the bowl up and she comes right back to the same spot, yowling.",
+            "Extended version: A vet will tell you that refusing every meal means checking her teeth; yours stops the second you sit down."
+          ]
+        }
+      }
     }
   ]
 }
