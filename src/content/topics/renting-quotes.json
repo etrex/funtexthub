@@ -12076,6 +12076,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-424",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.strongpilab.com/emf-of-transformer/",
+      "sourceNote": "實作派電子實驗室實測路邊變電箱的磁場只有零點幾毫高斯，遠低於家電，並指出變壓器運轉的低頻嗡聲才是真正會被住戶注意到的部分；取「窗外就是一個變電箱」的租屋場景改寫，內容為原創",
+      "tags": [
+        "租屋",
+        "套房",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "拉開的時候，我看見的第一個東西是巷子裡那個變電箱，再過去才是馬路。\n新住進來的人第一天把我整個拉到底，站在窗邊看了很久，然後打電話問租金還能不能談。\n後來他每天早上只拉開三分之一，剛好讓變電箱留在布的後面。\n上個月他把我摘下來洗，晾乾之後掛回同一根桿子，掛鉤的順序跟原本一樣。",
+          "editorNote": "窗簾只報告自己被拉到哪個位置、被摘下來又掛回去，至於房客為什麼後來只拉三分之一，它沒有意見",
+          "variations": [
+            "短版：第一天被拉到底，之後每天早上只拉開三分之一。",
+            "延伸版：洗過之後布變薄了，早上八點的光會透過來，變電箱的輪廓在布上是一塊深色的方形。"
+          ]
+        },
+        "en": {
+          "content": "When I get pulled back, the first thing in view is the transformer box down the alley; the road only comes after that.\nThe new tenant hauled me all the way open on day one, stood at the window for a long while, then called someone to ask if the rent was still negotiable.\nAfter that he opened me a third of the way each morning, just far enough to keep the box behind the fabric.\nLast month he took me down and washed me, and once I dried he hung me on the same rod, hooks in the same order.",
+          "editorNote": "A curtain reports only how far it was drawn and where it was hung back; why the tenant settled on one third is not something it has a view on",
+          "variations": [
+            "Short: Opened all the way on day one, then a third of the way every morning after.",
+            "Extended: The wash left me thinner, so the eight o'clock light comes through now, and the box shows up on me as a dark square."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-425",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://udn.com/news/story/7266/9599184",
+      "sourceNote": "聯合新聞網報導台北市街頭電桿與電箱的「殘膠地獄」，違規小廣告用泡棉膠黏貼，清潔隊刮除後仍留痕跡，原處很快又被貼上新的；取此現象改寫成租屋廣告自述，內容為原創",
+      "tags": [
+        "找房",
+        "租屋",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "泡棉膠把我按在變電箱的側面，離地大概一個人的高度。\n清潔隊刮過我兩次，每次都留下一塊灰灰的底，隔幾天就有人在那塊底上把新的一張壓回去。\n停下來看過我那行電話的人，六個拍了照，兩個真的撥了，還有一個從第一個字讀到落款那行才走。",
+          "editorNote": "廣告紙只數得出停下來的人和撥出去的電話，它不知道那六張照片後來有沒有被打開過",
+          "variations": [
+            "短版：被泡棉膠按在箱子側面，刮掉兩次，原地又被壓回去兩次。",
+            "延伸版：雨大的那幾天字會糊掉，糊掉的那幾天沒有人停下來，天晴以後又有人停下來。"
+          ]
+        },
+        "en": {
+          "content": "Foam tape pressed me onto the side of the transformer box, about head height off the ground.\nThe cleanup crew has scraped me off twice, leaving a gray patch each time, and a few days later somebody presses a fresh sheet onto that same patch.\nOf the people who stopped to read the phone number on me, six took a photo, two actually dialed, and one read all the way to the bottom line before walking off.",
+          "editorNote": "An ad sheet can count the people who stop and the calls that get dialed; whether those six photos were ever opened again is past what it can see",
+          "variations": [
+            "Short: Taped to the side of the box, scraped off twice, replaced on the same spot twice.",
+            "Extended: Heavy rain blurs the characters, and nobody stops on the blurred days; when it clears, people stop again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-426",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.inn-taipei.com/complete-guide-to-renting-and-checking-out/",
+      "sourceNote": "全居x逸台北整理退租點交流程，提到點交當天要在租屋處歸還鑰匙、結清水電費並返還押金；取「鑰匙被交出去」這個動作改寫，內容為原創",
+      "tags": [
+        "退租",
+        "房東",
+        "搬家"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我這串鑰匙，被交出去過五次。\n— 掛在包包外面晃了一整年\n— 換過一次鑰匙圈，舊的那個丟了\n— 有一把一次也沒被轉開過\n— 在變電箱旁邊的機車上躺過一夜\n— 進門前會被甩兩下",
+          "editorNote": "鑰匙串把五次交接壓成五行流水帳，每一行都是它身上真的發生過的事，沒有一行在解釋為什麼要搬",
+          "variations": [
+            "短版：五次交接，一整年掛在包包外面，一把從來沒轉開過。",
+            "延伸版：第五次交出去以前，有人把塑膠牌翻過來看背面，那面什麼都沒寫。"
+          ]
+        },
+        "en": {
+          "content": "Me, this bunch of keys: handed over five times.\n— Dangled off the outside of a bag for a whole year.\n— Got a new ring once; the old one went missing.\n— One of my keys was never turned, not once.\n— Spent a night on a scooter parked by the transformer box.\n— Get shaken twice before the door opens.",
+          "editorNote": "The ring flattens five handovers into five lines of things that physically happened to it, and not one line explains why anybody moved",
+          "variations": [
+            "Short: Five handovers, one whole year outside a bag, one key never turned.",
+            "Extended: Before the fifth handover somebody flipped the plastic tag over to read the back, which had nothing written on it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-427",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E5%B1%8B%E9%80%80%E7%A7%9F-%E6%89%A3%E6%8A%BC%E9%87%91-%E6%88%BF%E6%9D%B1-%E6%88%BF%E5%AE%A2-%E6%90%AC%E5%AE%B6-%E8%A7%A3%E7%B4%84-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/",
+      "sourceNote": "HouseFeel 房感整理租屋退租與搬家流程，提醒房客提前打包、清空屋內物品再與房東確認屋況；取「同一批紙箱跟著搬過好幾次」的細節改寫，內容為原創",
+      "tags": [
+        "搬家",
+        "退租",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "有人把我折起來塞到床底下，一躺就是十一個月。\n搬家那天我先被抖開，膠帶從中間拉向兩邊，有人壓著蓋子在我側邊寫了一個字。\n到了新的地方，裡面的東西被拿光，我又被折回去，塞進另一張床的下面。\n第四次抖開的時候，膠帶的痕跡還在，那個字也還在，只是外面那層已經看不出本來的顏色。",
+          "editorNote": "紙箱記得的是折痕、膠帶和側邊那個字，它沒有評論搬了四次這件事，也不知道下一次會被塞到哪一張床下面",
+          "variations": [
+            "短版：折起來十一個月，抖開一次，寫上一個字，再折回去。",
+            "延伸版：第三次搬的時候有人想把我丟掉，旁邊有人說這個還很硬，於是我又被折了一次。"
+          ]
+        },
+        "en": {
+          "content": "Somebody folded me flat and slid me under a bed, where I stayed for eleven months.\nOn moving day I got shaken open, tape pulled from the middle out to both edges, and somebody held the flaps down and wrote one word on my side.\nAt the new place everything inside me was taken out, and I was folded flat again and pushed under a different bed.\nBy the fourth shaking-open the tape marks were still there and so was the word, though the outside had stopped being the color it started as.",
+          "editorNote": "What a box holds onto is creases, tape, and the word on its side; it offers no opinion about four moves and no idea whose bed comes next",
+          "variations": [
+            "Short: Flat for eleven months, shaken open once, labeled once, folded flat again.",
+            "Extended: On the third move someone wanted to throw me out, someone else said I was still sturdy, and I got folded one more time."
+          ]
+        }
+      }
     }
   ]
 }

@@ -14519,6 +14519,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-531",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://programmerhumor.io/memes/technical-debt",
+      "sourceNote": "ProgrammerHumor 的技術債迷因集；本則改寫成三個互不相干的鏡頭，把「敲得回來／敲不回來」的判斷留在畫面裡",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "技術債"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "板金廠的師傅把凹進去的車門敲了七下，第八下他換了另一把槌子。\n辦公室那台終端機還停在昨天那行 npm install，游標閃了一整晚。\n客廳電視重播一場早就知道比數的球賽，沒有人轉台。",
+          "editorNote": "三個鏡頭誰也不解釋誰，剪在一起才看得出來那天到底過得怎麼樣。",
+          "variations": [
+            "短版：師傅敲到第八下換了槌子，那行 npm install 還停在昨天。",
+            "延伸版：隔天車鈑好了，終端機那行還在原地，球賽又重播了一次。"
+          ]
+        },
+        "en": {
+          "content": "At the body shop the panel beater hit the dented door seven times, then reached for a different hammer.\nThe terminal at his desk was still parked on yesterday's npm install, cursor blinking all night.\nIn the living room a match replayed, score already known, and nobody changed the channel.",
+          "editorNote": "None of the three shots explains the other two; you only get the shape of the day once they are cut together.",
+          "variations": [
+            "Short version: a different hammer on the eighth hit, and the npm install never moved.",
+            "Extended: the car came back straightened, the terminal line was where he left it, and the match replayed again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-532",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://programmerhumor.io/debugging-memes/hotfix-successfully-applied-in-production-2fw5",
+      "sourceNote": "ProgrammerHumor 的「hotfix 直接上 production」迷因；本則只留下三句話，講話的人在三個不同的地方",
+      "tags": [
+        "production",
+        "除錯",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「後保桿這塊板金敲得回來，烤漆要重噴，禮拜五才好。」\n「那支服務昨天半夜自己活過來，沒有人動它。」\n「你上次也說一個小時，我從那時候等到現在。」",
+          "editorNote": "同一天裡聽到的三句話，講的人互不認識，不耐煩的程度倒是一模一樣。",
+          "variations": [
+            "短版：「板金敲得回來，烤漆要重噴。」「那支服務自己活過來了。」",
+            "延伸版：禮拜五車真的好了，那支服務又倒了一次，還是沒有人動它。"
+          ]
+        },
+        "en": {
+          "content": "“The sheet metal on that rear bumper will come back out, but the paint needs respraying — Friday at the earliest.”\n“That service came back to life on its own around two in the morning, and nobody touched it.”\n“You said an hour last time as well, and I have been sitting here ever since.”",
+          "editorNote": "Three lines overheard in one day, from three people who have never met, delivered with exactly the same level of patience.",
+          "variations": [
+            "Short version: “The panel will come back out, the paint needs respraying.” “The service revived itself.”",
+            "Extended: the car was ready on Friday, the service fell over again, and still nobody had touched it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-533",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://programmerhumor.io/memes/on-call",
+      "sourceNote": "ProgrammerHumor 的 on-call 迷因集；本則改寫成值班那天的三行速記，只寫地點跟卡住的地方",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "production"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "機房冷氣很吵。門禁卡忘在桌上\n登機門前插座全滿。筆電剩八趴\n板金廠鐵捲門拉一半。車要後天",
+          "editorNote": "值班那天的筆記本長這樣：地點、情形、還差什麼，寫完就沒力氣寫感想了。",
+          "variations": [
+            "短版：門禁卡在桌上，筆電剩八趴，板金廠的車要後天。",
+            "延伸版：門禁卡隔天找到了，筆電借到一條線，車還是後天。"
+          ]
+        },
+        "en": {
+          "content": "Server room, the AC is loud. Key card left on the desk.\nAirport gate, every outlet taken. Laptop at eight percent.\nBody shop, roller door half open. Car not before Thursday.",
+          "editorNote": "This is what the notebook looks like on an on-call day: place, situation, what is still missing, and no energy left for feelings.",
+          "variations": [
+            "Short version: key card on the desk, laptop at eight percent, car not before Thursday.",
+            "Extended: the key card turned up the next day, someone lent him a cable, and the car was still Thursday."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-534",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://programmerhumor.io/devops-memes/dont-release-on-friday-4kqg",
+      "sourceNote": "ProgrammerHumor 的「別在禮拜五上線」迷因；本則換成三個地點各按一次核准，不寫後果",
+      "tags": [
+        "工程師日常",
+        "code review",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "加油站的計費表還在跳，有人一手扶著油槍，一手在手機上按了核准。\n午休時間，投影幕還亮著昨天那份沒有人看完的架構圖。\n計程車後座，螢幕亮度被調到最低，臉還是亮的。",
+          "editorNote": "核准鍵在哪裡都按得下去，這大概是這份工作唯一的彈性。",
+          "variations": [
+            "短版：一手油槍，一手核准，計費表還在跳。",
+            "延伸版：那份架構圖後來被存成 PDF，投影幕關掉，沒有人再打開過。"
+          ]
+        },
+        "en": {
+          "content": "The pump meter was still climbing, one hand on the nozzle and the other tapping Approve on a phone.\nLunch break, and the projector was still showing yesterday's architecture diagram that nobody finished reading.\nBack seat of a taxi, screen brightness dragged all the way down, the face still lit.",
+          "editorNote": "The Approve button works from anywhere, which is roughly the only flexibility this job offers.",
+          "variations": [
+            "Short version: one hand on the nozzle, the other on Approve, meter still climbing.",
+            "Extended: the diagram was saved as a PDF, the projector went dark, and nobody opened it again."
+          ]
+        }
+      }
     }
   ]
 }
