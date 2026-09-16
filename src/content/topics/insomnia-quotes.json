@@ -11726,6 +11726,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-420",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://health.tvbs.com.tw/regimen/312004",
+      "sourceNote": "TVBS健康2.0〈隔絕了所有噪音，怎麼還是睡不著？「太安靜」才是問題所在〉（完全無聲時大腦反而過度警覺，規律背景聲有助入睡）；只取「安靜到需要重新製造聲音」這一點，改寫成一連串失敗的替代方案",
+      "tags": [
+        "失眠",
+        "深夜",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 電扇轉到最小，聲音太乾淨，不對。\n— 抽風扇開著，比較尖，像隔壁有人在講話。\n— 手機放雨聲，雨會停，冷氣不會。\n— 什麼都不放，數到兩百還睜著眼。\n— 沒有冷氣聲的第五個晚上，我把遙控器按了開。\n— 房間熱回來三分鐘，我睡著了。",
+          "editorNote": "醫生說睡前環境要安靜，沒說安靜到某個程度會反過來需要重新製造噪音。",
+          "variations": [
+            "短版：電扇、抽風扇、雨聲都試過，最後我把遙控器按了開。",
+            "延伸版：電扇太乾淨，抽風扇太尖，雨聲會停，什麼都不放就數到兩百還睜著眼；第五個晚上我按下遙控器，房間熱回來三分鐘，人就沒了。"
+          ]
+        },
+        "en": {
+          "content": "— Fan on its lowest setting: the sound is too clean, and it's wrong.\n— Exhaust fan running: thinner, like someone talking on the other side of the wall.\n— Rain sounds on the phone: rain stops, the air conditioner never did.\n— Nothing playing at all: I count to two hundred with my eyes still open.\n— Fifth night with no air conditioner hum, I press the remote on.\n— The room warms back up for three minutes and I'm gone.",
+          "editorNote": "Doctors say keep the bedroom quiet. Nobody mentions the point where quiet sends you back out to manufacture a noise.",
+          "variations": [
+            "Short: Fan, exhaust fan, rain sounds — tried them all, then I pressed the remote on.",
+            "Extended: The fan is too clean, the exhaust fan too thin, the rain always stops, and with nothing playing I count to two hundred wide awake; on the fifth night I press the remote, the room warms for three minutes, and I'm gone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-421",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://goodmood.com.tw/white-noise/",
+      "sourceNote": "血清素幫幫忙〈白噪音是什麼？四大功效和三種副作用〉（持續背景聲有掩蓋效果，房間太安靜時任何小聲音都會讓大腦警覺）；只取「掩蓋一撤掉，小聲音就全部浮出來」這一層，改寫成逐項點名的清單",
+      "tags": [
+        "失眠",
+        "深夜",
+        "腦內小劇場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "冰箱：以前被蓋過去，現在整晚都在。\n水管：四點多響一聲，我就醒了。\n秒針：走得比白天用力。\n喉嚨：吞一次口水，大得像有人在旁邊。\n沒有冷氣聲，房間就把這些全部還給我。\n我沒有要回來。",
+          "editorNote": "那台機器不只負責降溫，它還一直幫你蓋住整間房子；這件事要等它整個月沒開才會知道。",
+          "variations": [
+            "短版：冰箱、水管、秒針、吞口水，以前都被蓋住的。",
+            "延伸版：房間安靜下來之後，冰箱整晚都在，水管四點響一聲，秒針走得比白天用力，連吞口水都很大；這些東西一次還給我，我沒有要回來。"
+          ]
+        },
+        "en": {
+          "content": "Refrigerator: it used to get covered up, and now it runs all night in plain hearing.\nPipes: one knock somewhere past four and I'm awake.\nSecond hand: it pushes harder than it does in daylight.\nThroat: one swallow, loud as if someone were sitting beside me.\nWith no air conditioner hum, the room hands all of this back to me.\nI never asked for any of it.",
+          "editorNote": "That machine was never only cooling the place down. It was covering the whole apartment, and you find that out the month you stop switching it on.",
+          "variations": [
+            "Short: The refrigerator, the pipes, the second hand, my own swallowing — all of it used to be covered.",
+            "Extended: Once the room goes quiet the refrigerator runs all night, the pipes knock past four, the second hand pushes harder than in daylight, even a swallow is loud; the room hands all of it back at once, and I never asked for any of it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-422",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.forward-finder.com/blogs/%E7%9C%9F%E6%AD%A3%E6%9C%89%E9%86%AB%E4%BA%8B/149327",
+      "sourceNote": "forwardfinder〈天氣變冷，晚上卻睡不好？3個會影響睡眠品質的原因〉（氣溫轉換期身體來不及適應，自律神經失衡反而睡不好）；只取「條件變好了人卻沒跟上」這個落差，改寫成一份全部打勾卻沒效的清單",
+      "tags": [
+        "失眠",
+        "作息",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 遙控器放在原處三天，沒人動它。\n— 濾網上個月洗過，看來可以撐到年底。\n— 今年秋天是真的，該冷的冷，該關的關。\n— 睡前少了一個動作，整套流程對不上。\n— 兩點照樣醒，這次沒有東西可以怪。\n— 我坐在床邊，手放在膝蓋上。\n— 坐到天亮，想不出哪裡不對。",
+          "editorNote": "條件全部到齊、結果沒有發生，這種夜晚比條件不好的那種還長。",
+          "variations": [
+            "短版：該冷的冷了，該關的關了，我坐在床邊坐到天亮。",
+            "延伸版：遙控器三天沒被拿起來，濾網可以撐到年底，今年秋天是真的；每一項都成立，我還是兩點醒，而且連可以怪的東西都沒有。"
+          ]
+        },
+        "en": {
+          "content": "— The remote has sat in the same spot for three days, untouched.\n— The filter got washed last month and might last until New Year.\n— Autumn is real this year: what should cool down does, what should shut off does.\n— One step has dropped out of the bedtime routine, and the rest stops lining up.\n— I wake at two anyway, except now there's nothing to blame it on.\n— I sit on the edge of the bed with my hands on my knees.\n— I sit until it's light and still can't work out what's wrong.",
+          "editorNote": "Every condition met, and the result never arrived. Those nights run longer than the badly-set-up ones.",
+          "variations": [
+            "Short: What should cool down did, what should shut off did, and I sat on the bed's edge until daylight.",
+            "Extended: The remote hasn't moved in three days, the filter may last until New Year, autumn is real this year; every item holds, I still wake at two, and there isn't even anything left to blame."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-423",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.nlight.tw/pages/facts",
+      "sourceNote": "極光生活〈白噪音是什麼? / 除噪助眠機有用嗎?〉（規律背景聲可掩蓋突發噪音，老舊電風扇聲亦屬白噪音）；只取「安靜本身變成需要排查的異常」這個反轉，改寫成半夜起來逐項檢查的紀錄",
+      "tags": [
+        "失眠",
+        "焦慮",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "插頭：拔起來又插回去，沒差。\n窗戶：開三公分，外面也是安靜的。\n手機：訊號滿格，時間是三點十四。\n手腕：按住量到六十二下，正常。\n沒有一樣壞掉，於是我躺回去繼續不睡。",
+          "editorNote": "排除法做到最後，唯一沒問題的是房間，剩下的部分自己看著辦。",
+          "variations": [
+            "短版：插頭、窗戶、手機、脈搏，查完一輪全部正常。",
+            "延伸版：我起來拔插頭再插回去，把窗戶開三公分，看手機是三點十四、訊號滿格，按住手腕量到六十二下；沒有一樣壞掉，於是我躺回去繼續不睡。"
+          ]
+        },
+        "en": {
+          "content": "Plug: pulled it out, pushed it back in, no difference.\nWindow: opened three centimeters, and it's quiet out there too.\nPhone: full signal, and the time reads 3:14.\nWrist: held it for a pulse, sixty-two, normal.\nNot one thing is faulty, so I lie back down and carry on not sleeping.",
+          "editorNote": "Run the process of elimination far enough and the room comes out clean. What's left is your own problem.",
+          "variations": [
+            "Short: Plug, window, phone, pulse — checked the lot, nothing faulty.",
+            "Extended: I got up to unplug it and plug it back in, opened the window three centimeters, checked the phone at 3:14 on full signal, held my wrist for a count of sixty-two; not one thing is broken, so I lie back down and carry on not sleeping."
+          ]
+        }
+      }
     }
   ]
 }
