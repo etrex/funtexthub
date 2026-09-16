@@ -10546,6 +10546,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-359",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://tw.my-best.com/58195",
+      "sourceNote": "mybest：美甲燈推薦與挑選，家用機種功率多落在 9W～12W，專業機種最高 36W",
+      "tags": [
+        "省電",
+        "用電量",
+        "日常",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "第一次做光療的時候，我把手放進美甲店那台燈裡，燈一亮就開始倒數。師傅說『六十秒，不要自己拿出來』，然後就轉頭去弄別人的手。我從頭到尾盯著那個數字跳完。現在家裡的除濕機我也會按定時，按完就走開。",
+          "editorNote": "給每個把別人隨口交代的話當成操作手冊的人。",
+          "variations": [
+            "短版：師傅說六十秒，我就真的盯著數完六十秒。",
+            "延伸版：那台除濕機的定時鍵，是我全家最常按的一個鍵。"
+          ]
+        },
+        "en": {
+          "content": "The first time I got gel nails I slid my hand into the lamp at the salon, and a countdown started the second it lit up. The tech said, “sixty seconds, don't pull it out early,” and then turned around to work on somebody else's hand. I watched the number tick all the way down. These days I set the timer on the dehumidifier at home too, and then I walk away.",
+          "editorNote": "For anyone who files a stranger's offhand instruction under standard operating procedure.",
+          "variations": [
+            "Short: she said sixty seconds, so I watched all sixty of them.",
+            "Extended: the timer button on that dehumidifier is the most-pressed button in our apartment."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-360",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.ezonelife.com.tw/blogs/faq/dehumidifier2",
+      "sourceNote": "EZONE：除濕機耗電量計算，8～14L 機種功率約 180～300W，一天開八小時的電費試算",
+      "tags": [
+        "用電量",
+        "省電",
+        "帳單",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 光療燈兩台，一台放窗邊\n— 烘乾機一台，比吹風機安靜\n— 熱毛巾機，開店插上，打烊拔掉\n— 除濕機整年開著，濕度設六十\n— 美甲師念到最後一台，說『這台最吃電』\n— 那晚我回家，先去看熱水瓶插著沒",
+          "editorNote": "給每個把別人家的電器清單背下來的人。",
+          "variations": [
+            "短版：那張清單我沒抄，卻記得最後一台是哪一台。",
+            "延伸版：後來我自己列了一張，貼在電箱門邊，只有四行。"
+          ]
+        },
+        "en": {
+          "content": "— Two gel lamps, one parked by the window.\n— One hand dryer, quieter than a hair dryer.\n— Towel warmer, plugged in at opening, out at closing.\n— Dehumidifier running year-round, set to sixty.\n— Reaching the last one, the nail tech said, “this one eats the most.”\n— That night I got home and went to check the hot water pot first.",
+          "editorNote": "For anyone who memorized the appliance inventory of a shop they don't own.",
+          "variations": [
+            "Short: I never wrote the list down, yet I know which machine came last.",
+            "Extended: later I made my own, four lines long, taped beside the breaker box."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-361",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://edh.tw/lohas/article/20979",
+      "sourceNote": "早安樂活：夏季電費適用 6/1～9/30，10 月 1 日起自動恢復為非夏季費率",
+      "tags": [
+        "帳單",
+        "電費",
+        "家人",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這期的電費單薄了一截，比上一期少三百多塊，十月一號以後的費率本來就比較低。我拿去給我媽看，她看了兩秒說『那你頭髮可以吹久一點』。我家的吹風機一直有一個沒寫下來的秒數，從那天起就沒有人再提過它。",
+          "editorNote": "給每個家裡有一條沒人寫下來、但大家都遵守的規定的人。",
+          "variations": [
+            "短版：電費單少三百，我媽就把吹風機的秒數放掉了。",
+            "延伸版：我後來才發現，那個秒數從來沒有人講過到底是幾秒。"
+          ]
+        },
+        "en": {
+          "content": "The bill came out thinner, about three hundred less than the last cycle, since the rate drops on its own once October starts. I brought it over to my mom, who looked at it for two seconds and said, “so you can blow-dry your hair longer now.” There had always been an unwritten time limit on the hair dryer in our house, and after that day nobody brought it up again.",
+          "editorNote": "For every household with a rule nobody wrote down and everybody followed.",
+          "variations": [
+            "Short: three hundred off the bill, and my mom quietly let the hair dryer run.",
+            "Extended: it turned out nobody had ever said out loud how many seconds that limit was."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-362",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://blog.gtwang.org/life/how-to-calculate-power-consumption/",
+      "sourceNote": "G. T. Wang：如何查看家用電器耗電量並自行計算電費，含電表度數的讀法",
+      "tags": [
+        "電費",
+        "租屋",
+        "帳單",
+        "崩潰"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電表箱在走廊盡頭，房東帶我上樓那天指了一下，說『你的是左邊數過來第三個』。當時我覺得這句話很多餘，一戶一個，能看錯什麼。上個月對帳，我抄了三期別人家的度數才發現數字兜不起來，還先怪了台電一頓。",
+          "editorNote": "給每個把最基本的提醒當成廢話聽的人。",
+          "variations": [
+            "短版：左邊數過來第三個，我聽過就忘，忘了三期。",
+            "延伸版：房東後來沒再提這件事，是我自己在電表箱前站了很久。"
+          ]
+        },
+        "en": {
+          "content": "The meter box sits at the end of the hallway, and the day the landlord walked me upstairs he pointed at it and said, “yours is the third one from the left.” I thought that was a pointless thing to say — one unit, one meter, how wrong could anyone get it. Last month, reconciling the numbers, I found I had been copying three cycles off somebody else's meter, and I had blamed the power company first.",
+          "editorNote": "For anyone who treated the most basic reminder as filler.",
+          "variations": [
+            "Short: third from the left. I heard it, forgot it, and kept forgetting for three cycles.",
+            "Extended: the landlord never brought it up again; I was the one standing in front of that meter box for a long while."
+          ]
+        }
+      }
     }
   ]
 }
