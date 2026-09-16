@@ -10672,6 +10672,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-380",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://worldmetrics.org/television-viewing-statistics/",
+      "sourceNote": "參考電視收視行為統計中觀眾一次連看多集的常見情境，原創改寫為朋友碰面時同一句問話的兩種算法",
+      "tags": [
+        "追劇習慣",
+        "朋友",
+        "共鳴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我靠在變電箱旁邊接電話，她問我看到哪了。\n我說第七集開頭那個下雨的晚上，她說她已經在對面站了十分鐘。\n掛掉以後我把耳機收起來，那場雨還沒下完。",
+          "editorNote": "同一句「看到哪了」，一邊在講集數，一邊在講位置，兩個人都給了很準確的答案。",
+          "variations": [
+            "短版：她問我看到哪了，我說第七集，她說她在對面。",
+            "延伸版：現在我們約時間，會先講清楚這句話問的是哪一種進度。"
+          ]
+        },
+        "en": {
+          "content": "I was leaning on the transformer box outside, on the phone, and she asked how far I'd gotten.\nI said the rainy night at the top of episode seven; she said she'd been standing across the street for ten minutes.\nAfter we hung up I put my earbuds away with the rain still coming down inside them.",
+          "editorNote": "One question, two units of measurement, and both people answer it accurately.",
+          "variations": [
+            "Short: She asked how far I'd gotten. I said episode seven. She said across the street.",
+            "Extended: These days we settle which kind of progress we're asking about before either of us answers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-381",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://worldmetrics.org/television-viewership-statistics/",
+      "sourceNote": "參考收視統計中每次連看的平均集數與時長，原創改寫成用集數換算時間的來回對話",
+      "tags": [
+        "追劇習慣",
+        "自嘲",
+        "朋友"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你還要多久？」\n「還有四集。」\n「我問的是你幾點出門。」\n「我算的也是。」\n「那到底幾點？」\n「四集之後。」",
+          "editorNote": "一個人用時鐘量，一個人用集數量，來回六句話沒有一句是敷衍的。",
+          "variations": [
+            "短版：「你還要多久？」「四集。」",
+            "延伸版：他現在會自己換算，四集差不多三小時，出門前先問我剩幾集。"
+          ]
+        },
+        "en": {
+          "content": "\"How much longer?\"\n\"Four episodes.\"\n\"I'm asking what time you're leaving.\"\n\"That's what I'm answering.\"\n\"Fine, what time?\"\n\"Four episodes from now.\"",
+          "editorNote": "He measures in minutes, I measure in episodes, and not one of these six lines is a brush-off.",
+          "variations": [
+            "Short: \"How much longer?\" \"Four episodes.\"",
+            "Extended: He does the conversion himself now, four episodes being about three hours, so he asks how many are left before we make plans."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-382",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://dianegottsman.com/2019/06/04/spoiler-alert-etiquette/",
+      "sourceNote": "參考爆雷禮儀文章談同一句話在追劇進度不同的人之間會被聽成不同意思，原創改寫為三組雙重算法的短句",
+      "tags": [
+        "追劇習慣",
+        "共鳴",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 「等我一下」她抓的是一分鐘\n— 「等我一下」我抓的是一集\n— 「就快到了」我說的是結局\n— 「就快到了」他說的是那個變電箱\n— 「明天再看」我排到隔天早上\n— 「明天再看」她排到下禮拜",
+          "editorNote": "三句話各自有兩種算法，講的人跟聽的人都照自己那一種在行動。",
+          "variations": [
+            "短版：「等我一下」在我這裡的單位是一集。",
+            "延伸版：後來我們改約變電箱旁邊，誰先到誰就報一次自己還剩幾集。"
+          ]
+        },
+        "en": {
+          "content": "— \"Wait a second,\" and she counted one minute.\n— \"Wait a second,\" and I counted one episode.\n— \"Almost there,\" and I meant the finale.\n— \"Almost there,\" and he meant the transformer box outside.\n— \"Watch it tomorrow,\" and I had it down for the morning.\n— \"Watch it tomorrow,\" and she had it down for next week.",
+          "editorNote": "Three sentences, six readings, and every person involved is being precise.",
+          "variations": [
+            "Short: Around here, \"wait a second\" is one episode long.",
+            "Extended: We meet at the transformer box now, and whoever arrives first reports how many episodes they have left."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-383",
+      "dateAdded": "2026-09-16",
+      "sourceUrl": "https://www.fastcompany.com/91499165/7-tips-reveal-unspoken-digital-etiquette-group-chats",
+      "sourceNote": "參考日常對話禮儀文章談同一句話在不同語境下的解讀差異，原創改寫為辦公室茶水間的一段交談",
+      "tags": [
+        "追劇心得",
+        "熬夜",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事在茶水間說我今天氣色很差。\n我跟他說那部劇第三季拍得比前兩季好，很值得。\n他在問我睡得夠不夠，我在回答一部劇夠不夠格讓人熬夜，杯子見底的時候兩個人都點了頭。",
+          "editorNote": "關心跟推薦在同一段對話裡並排站著，誰也沒有擠掉誰。",
+          "variations": [
+            "短版：他說我氣色很差，我說第三季很好看。",
+            "延伸版：隔天他傳訊息問第三季總共幾集，昨天那句關心也還立在那裡。"
+          ]
+        },
+        "en": {
+          "content": "A coworker in the break room said I looked rough today.\nI told him season three holds up better than the first two, well worth it.\nHe was asking whether I'd slept; I was answering whether a show earns a late night, and we both nodded before the coffee ran out.",
+          "editorNote": "Concern and a recommendation standing side by side in one break-room exchange, neither crowding the other out.",
+          "variations": [
+            "Short: He said I looked rough. I said season three was worth it.",
+            "Extended: The next day he texted asking how many episodes season three has, and yesterday's question is still standing too."
+          ]
+        }
+      }
     }
   ]
 }
