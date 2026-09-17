@@ -14635,6 +14635,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-535",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.bells.org/blog/why-do-japanese-bells-ring-108-times-new-year-eve",
+      "sourceNote": "National Bell Festival 介紹寺院依時撞鐘的傳統；本則讓去山上禪修的工程師在霧裡聽鐘聲，CI 剛好跑完一整排紅燈",
+      "tags": [
+        "工程師日常",
+        "測試",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "山上的霧到中午還沒散，師父照表去撞鐘。\n鐘聲傳到禪修中心，他筆電上的 CI 剛跑完，一整排紅的。\n霧裡又響一聲，他把筆電闔上，拿了傘往山門走。\n走到半路雨落下來，傘一直夾在腋下。",
+          "editorNote": "去山上躲程式碼的人，最後被一排紅燈追上；整篇只寫霧、雨和他手上那把沒打開的傘。",
+          "variations": [
+            "短版：霧沒散，鐘響了，CI 一整排紅，傘夾在腋下沒打開。",
+            "延伸版：回到禪修中心時他全身濕透，師父遞來一條毛巾，他接過去先擦了筆電。"
+          ]
+        },
+        "en": {
+          "content": "The fog on the mountain still hadn't lifted by noon, and the monk went to strike the bell right on schedule.\nThe sound reached the retreat center just as the CI run on his laptop finished: a solid row of red.\nAnother toll came through the fog; he shut the laptop, grabbed an umbrella, and headed for the temple gate.\nHalfway there the rain began, and the umbrella stayed tucked under his arm.",
+          "editorNote": "He went up a mountain to get away from the code and a row of red checks followed him anyway; the piece sticks to fog, rain, and an umbrella he never opens.",
+          "variations": [
+            "Short version: fog, a bell, a row of red CI checks, and an umbrella that stays closed.",
+            "Extended: he walked back into the retreat center soaked, the monk handed him a towel, and he used it on the laptop first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-536",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://programmerhumor.io/memes/weekend",
+      "sourceNote": "ProgrammerHumor 的週末值班迷因集；本則把一整天的告警跟隔壁寺廟早晚撞鐘、雨停雨下排在同一張時間軸",
+      "tags": [
+        "工程師日常",
+        "production",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 清晨六點，隔壁寺廟撞鐘，雨很大\n— 手機震動，監控告警三十七則\n— 雨變小，他去重開那台機器\n— 太陽露臉，告警又進來十二則\n— 傍晚鐘又撞了，雨重新下起來",
+          "editorNote": "週末值班的一天，用天氣跟鐘聲當時間戳記就寫完了，中間那些情緒自己補。",
+          "variations": [
+            "短版：早上撞鐘下大雨，三十七則告警；傍晚撞鐘，雨又來了。",
+            "延伸版：半夜雨停，告警零則，他把手機翻面放在枕頭旁邊。"
+          ]
+        },
+        "en": {
+          "content": "— 6 a.m., the temple next door rings its bell. Pouring rain.\n— Phone buzzes: thirty-seven monitoring alerts.\n— Rain eases up. He goes and restarts that one machine.\n— The sun peeks out. Twelve more alerts roll in.\n— Evening bell. The rain starts all over again.",
+          "editorNote": "A whole on-call Saturday, timestamped by the weather and a temple bell; you can fill in the mood yourself.",
+          "variations": [
+            "Short version: morning bell, heavy rain, thirty-seven alerts; evening bell, rain again.",
+            "Extended: around midnight the rain stops, the alert count hits zero, and he turns the phone face down next to his pillow."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-537",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://programmerhumor.io/memes/on-call",
+      "sourceNote": "ProgrammerHumor 的 on-call 迷因集；本則讓兩個人只聊氣溫和帶不帶傘，機房冷氣跳掉的事夾在中間講",
+      "tags": [
+        "工程師日常",
+        "黑色幽默",
+        "production"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今天台北幾度？」\n「三十四，體感三十八。」\n「機房那邊呢？」\n「冷氣剛剛跳掉，二十九，還在往上爬。」\n「要帶傘嗎？」\n「帶。順便帶一把螺絲起子。」",
+          "editorNote": "兩個人從頭到尾都在報氣溫，只是其中一個地方的氣溫會把網站一起帶走。",
+          "variations": [
+            "短版：「機房幾度？」「二十九，還在爬。」「帶傘嗎？」「帶螺絲起子。」",
+            "延伸版：「到了嗎？」「到了，裡面比外面熱。」「那傘呢？」「拿來搧伺服器了。」"
+          ]
+        },
+        "en": {
+          "content": "“What's it like in Taipei today?”\n“Ninety-three. Feels like a hundred.”\n“And the server room?”\n“AC just tripped. Eighty-four and climbing.”\n“You bringing an umbrella?”\n“Yeah. And a screwdriver.”",
+          "editorNote": "Two people trading temperature readings, except one of those rooms takes the website down with it when it gets hot.",
+          "variations": [
+            "Short version: “Server room?” “Eighty-four and climbing.” “Umbrella?” “Screwdriver.”",
+            "Extended: “You there yet?” “Yep, it's hotter in here than outside.” “And the umbrella?” “Using it to fan the servers.”"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-538",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://programmerhumor.io/memes/friday-deploy",
+      "sourceNote": "ProgrammerHumor 的禮拜五上線迷因集；本則把按下 merge 的那一刻對齊午後雷陣雨的第一聲雷",
+      "tags": [
+        "Git",
+        "上線",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "午後雷陣雨來之前，他把游標停在 merge 按鈕上，窗外的天先暗了半邊。雷打下來那一瞬間，他按了下去。雨下了二十分鐘，晾在窗外的襯衫他一直沒去收。",
+          "editorNote": "午後雷陣雨是台灣夏天最準時的東西，比 CI 還準；拿來當按 merge 的信號剛剛好。",
+          "variations": [
+            "短版：天暗了半邊，雷一打，他按下 merge。",
+            "延伸版：雨停的時候襯衫已經濕透，他把它收進來，順手把剛剛那個 PR revert 掉。"
+          ]
+        },
+        "en": {
+          "content": "Before the afternoon thunderstorm rolled in, he parked his cursor on the merge button while half the sky outside went dark. The instant the thunder cracked, he clicked. It rained for twenty minutes, and the shirt drying outside the window stayed right where it was.",
+          "editorNote": "In a Taiwanese summer the afternoon thunderstorm shows up more reliably than CI does, which makes it a decent signal for hitting merge.",
+          "variations": [
+            "Short version: half the sky goes dark, thunder cracks, merge.",
+            "Extended: by the time the rain stopped the shirt was soaked through; he brought it in and reverted the PR on the way."
+          ]
+        }
+      }
     }
   ]
 }
