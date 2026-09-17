@@ -13882,6 +13882,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "coj-508",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.dartslive.com/beginner/cn_trd/01/",
+      "sourceNote": "DARTSLIVE 飛鏢新手指南「01遊戲規則說明」，介紹電子飛鏢機台的 01 系列玩法與計分；約會對話情節為原創",
+      "tags": [
+        "情侶日常",
+        "出門",
+        "反差"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你知道我為什麼約你來射飛鏢嗎？」\n「為什麼？」\n「因為這家店週三半價。」\n「那你怎麼一直射不中紅心？」\n「紅心比較小。」\n「嗯，確實比較小。」",
+          "editorNote": "約會問句問得很有鋪陳，答案卻只是店家優惠，適合拿來逗愛等浪漫台詞的另一半。",
+          "variations": [
+            "短版：「為什麼約我射飛鏢？」「這家店週三半價。」",
+            "延伸版：「下次還來嗎？」「下週三再來，一樣半價。」"
+          ]
+        },
+        "en": {
+          "content": "\"Do you know why I asked you out for darts?\"\n\"Why?\"\n\"This place is half price on Wednesdays.\"\n\"Then why do you keep missing the bullseye?\"\n\"The bullseye is smaller.\"\n\"Yeah, it is smaller.\"",
+          "editorNote": "A setup that sounds like it's heading somewhere romantic and lands on a drink special instead.",
+          "variations": [
+            "Short: \"Why darts?\" \"Half price on Wednesdays.\"",
+            "Extended: \"Are we coming back?\" \"Next Wednesday. Still half price.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "coj-509",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E9%A3%9B%E9%8F%A2",
+      "sourceNote": "維基百科「飛鏢」條目，說明鏢靶規格、投擲線距離與計分方式；靶子提問情節為原創",
+      "tags": [
+        "情侶日常",
+        "溝通",
+        "反差"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她問他：「如果我是飛鏢靶，你會瞄準哪裡？」他想了一下，說他會先站到地上那條線後面。因為線前面投的不算分。",
+          "editorNote": "情話的題目擺好了，他卻認真回答了比賽規定，拿來當聊天時的冷場示範剛好。",
+          "variations": [
+            "短版：「你會瞄準哪裡？」「我會先站到線後面。」",
+            "延伸版：她又問那站好之後呢，他說站好之後就可以投了。"
+          ]
+        },
+        "en": {
+          "content": "She asked him, \"If I were a dartboard, where would you aim?\" He thought about it and said he would first go stand behind the line on the floor. Throws from in front of the line don't count.",
+          "editorNote": "She set up a love line and he answered with the official rules, which is its own kind of honest.",
+          "variations": [
+            "Short: \"Where would you aim?\" \"I'd get behind the line first.\"",
+            "Extended: She asked what happens after that, and he said after that you can throw."
+          ]
+        }
+      }
+    },
+    {
+      "id": "coj-510",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "Wikipedia「Anti-humor」條目，說明以最直白答案取代預期笑點的反笑話結構；交往五年的問答情節為原創",
+      "tags": [
+        "情侶日常",
+        "交往年數",
+        "溝通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他問交往五年的女朋友，自己在她心中算是什麼。\n她說是男朋友。\n他又問，那除了男朋友呢。\n她說還是男朋友，他們又沒有分手。",
+          "editorNote": "等著聽一段深情告白的人，會收到一個完全正確的身分確認。",
+          "variations": [
+            "短版：「我在你心中算什麼？」「男朋友。」",
+            "延伸版：他再問一次，她把手機桌布給他看，上面是他們兩個。"
+          ]
+        },
+        "en": {
+          "content": "He asked his girlfriend of five years what he was to her.\nShe said he was her boyfriend.\nHe asked what else, besides boyfriend.\nShe said still boyfriend, since they hadn't broken up.",
+          "editorNote": "Anyone fishing for a heartfelt speech gets a perfectly accurate status confirmation.",
+          "variations": [
+            "Short: \"What am I to you?\" \"My boyfriend.\"",
+            "Extended: He asked again, so she showed him her lock screen, which was a photo of the two of them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "coj-511",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://mypaper.pchome.com.tw/edarters/post/1282741863",
+      "sourceNote": "edarters 台灣飛鏢 BLOG「軟式飛鏢遊戲規則」，介紹軟式飛鏢機台的局數與玩法；紀念日清單情節為原創",
+      "tags": [
+        "情侶日常",
+        "出門",
+        "交往年數"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "交往紀念日，他在飛鏢酒吧為她做了三件事：\n— 幫她把掉下來的尾翼裝回鏢身上。\n— 她投完三支，他走過去把鏢從靶上拔下來。\n— 機台問要不要再來一局，他按了不要。\n— 十一點前，兩人搭計程車回家。",
+          "editorNote": "標題寫著三件事，讀者會等第四行出現驚喜，但清單照實列完就回家了。",
+          "variations": [
+            "短版：紀念日在飛鏢酒吧，他幫她把鏢拔下來，然後回家。",
+            "延伸版：隔天她問昨天開心嗎，他說開心，計程車很快就叫到了。"
+          ]
+        },
+        "en": {
+          "content": "On their anniversary, he did three things for her at the darts bar:\n— He put the loose flight back on her dart.\n— After she threw her three, he walked over and pulled them out of the board.\n— When the machine asked about another round, he pressed no.\n— Before eleven, they took a cab home.",
+          "editorNote": "The heading promises three gestures, so you wait for a surprise on the last line, but the list just ends and they go home.",
+          "variations": [
+            "Short: Anniversary at the darts bar. He pulled her darts out of the board, then they went home.",
+            "Extended: The next day she asked if he'd had fun. He said yes, and the cab came pretty fast."
+          ]
+        }
+      }
     }
   ]
 }

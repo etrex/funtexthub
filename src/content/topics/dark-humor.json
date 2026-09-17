@@ -14341,6 +14341,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-503",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/Question/Detail?no=13241",
+      "sourceNote": "取材自醫院問答說明切片化驗報告約需七到十個工作天、特殊染色會更久；連下十天雨與家屬每天先看預報再看手機的情節為原創",
+      "tags": [
+        "黑色幽默",
+        "健康",
+        "家庭",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "切片送出去那天開始下雨，一路下了十個工作天。醫院地下室的顯微鏡前，玻片一片一片被推進去又退出來。我媽每天早上先看天氣預報，再看手機。第十一天出太陽，她把棉被抱出去曬，手機在屋裡響了很久。",
+          "editorNote": "寫給正在等切片結果、把每天的天氣都查得比平常仔細的家屬；雨停的那天，反而沒人急著去接那通電話。",
+          "variations": [
+            "短版：雨下了十個工作天，第十一天出太陽，她去曬棉被，手機在屋裡響了很久。",
+            "延伸版：棉被曬到傍晚才收，她抱進屋，順手把手機翻過來，螢幕朝下放回桌上。"
+          ]
+        },
+        "en": {
+          "content": "It started raining the day the biopsy went out, and it kept going for ten business days. In the hospital basement, slides slid under the microscope one after another and slid back out. Every morning my mom checked the forecast first, then her phone. On day eleven the sun came out, she hauled the comforter outside to air, and the phone rang inside for a long time.",
+          "editorNote": "For the family member waiting on biopsy results who has started reading the weather report like it owes them something; the day the rain stops, nobody hurries to pick up.",
+          "variations": [
+            "Short: Ten business days of rain, then sun on day eleven; she went out to air the comforter while the phone rang and rang indoors.",
+            "Extended: She left the comforter out until dusk, carried it in, and on her way past flipped the phone over so the screen faced the table."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-504",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.cgmh.org.tw/tw/Systems/RecruitContent/4/202212130030",
+      "sourceNote": "取材自醫院解剖病理部招募細胞醫檢師的職缺說明（檢體處理、染色、閱片）；病理科一日隨天氣變化的動作清單為原創",
+      "tags": [
+        "黑色幽默",
+        "職場",
+        "健康",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "病理科的一天，窗外換了四種天氣。\n— 早上起霧，他把第一片玻片推到顯微鏡底下。\n— 中午放晴，便當蓋子掀開，又蓋回去。\n— 三點打雷，他在報告上多打了兩個字。\n— 下班變成大雨，他站在醫院門口，把傘撐開，收起，再撐開。",
+          "editorNote": "給每天替別人讀結果、自己下班卻走不出門口的醫事人員；多打的那兩個字，會在別人家裡下一整週的雨。",
+          "variations": [
+            "短版：三點打雷，他在報告上多打了兩個字；下班時傘撐開又收起。",
+            "延伸版：隔天早上又起霧，他把昨天那片玻片從盒子裡拿出來，重新推到鏡頭底下看了一次。"
+          ]
+        },
+        "en": {
+          "content": "One day in pathology, and the window went through four kinds of weather.\n— Morning fog. He slides the first glass slide under the microscope.\n— Clear skies at noon. He lifts the lid off his lunch box, then puts it back on.\n— Thunder at three. He adds two extra words to a report.\n— Downpour by quitting time. He stands at the hospital entrance and opens his umbrella, closes it, opens it again.",
+          "editorNote": "For the lab staff who read other people's results all day and then can't quite make it past the front door; those two extra words will rain on somebody's house for a week.",
+          "variations": [
+            "Short: Thunder at three, two extra words on a report; at quitting time the umbrella goes up and down.",
+            "Extended: Fog again the next morning, and he takes yesterday's slide back out of its box to look at it one more time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-505",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.cmuh.cmu.edu.tw/Question/Detail?no=13241",
+      "sourceNote": "取材自醫院問答說明病理報告若需特殊染色會延長等待；病人與醫生只談天氣的對話為原創",
+      "tags": [
+        "黑色幽默",
+        "健康",
+        "存在主義",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「醫生，顯微鏡那邊看完了嗎？」\n「這幾天濕度高，染色要再多幾天。」\n「那雨會下到什麼時候？」\n「預報說週五放晴。」\n「週五回診，我要帶傘嗎？」\n「帶著吧，下午有雷陣雨。」",
+          "editorNote": "送給回診時問不出口正題、只好一直繞著天氣講的病人；醫生也很配合，每一句都答得很精準。",
+          "variations": [
+            "短版：「週五回診要帶傘嗎？」「帶著吧，下午有雷陣雨。」",
+            "延伸版：週五真的下了雷陣雨，他把傘靠在診間門邊，進去之前先把褲管上的水拍乾淨。"
+          ]
+        },
+        "en": {
+          "content": "\"Doctor, has the microscope team finished looking?\"\n\"It's been humid all week. The staining needs a few more days.\"\n\"So how long is this rain supposed to last?\"\n\"Forecast says it clears up Friday.\"\n\"My follow-up is Friday. Should I bring an umbrella?\"\n\"Bring one. There are storms in the afternoon.\"",
+          "editorNote": "For the patient at a follow-up who can't bring themselves to ask the real question and keeps circling the weather instead; the doctor plays along and answers every one precisely.",
+          "variations": [
+            "Short: \"Should I bring an umbrella Friday?\" \"Bring one. Afternoon storms.\"",
+            "Extended: Friday did bring storms; he leaned the umbrella by the exam room door and brushed the water off his pant legs before walking in."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-506",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.junyiacademy.org/v/G9olMlhjeHM",
+      "sourceNote": "取材自國中自然科用顯微鏡觀察洋蔥表皮細胞的教學影片；颱風天停課在漏水客廳畫細胞壁的情節為原創",
+      "tags": [
+        "黑色幽默",
+        "家庭",
+        "金錢",
+        "現代生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風天停課，兒子趴在客廳地上，用夜市買的玩具顯微鏡看洋蔥皮。天花板漏下來的水滴在他旁邊，他把玻片往左挪了一點，繼續畫細胞壁。我拿第三個臉盆去接，房東的電話撥了兩次都沒人接。",
+          "editorNote": "寫給住在老房子、颱風一來就得擺滿鍋碗瓢盆的租屋家庭；孩子的作業照樣交得出來，屋頂的問題照樣沒人處理。",
+          "variations": [
+            "短版：兒子把玻片往左挪了一點，繼續畫細胞壁；我拿第三個臉盆去接水。",
+            "延伸版：作業交出去那天，老師在細胞壁旁邊畫了一個圈，問那一小塊水漬是什麼構造。"
+          ]
+        },
+        "en": {
+          "content": "School was canceled for the typhoon, so my son lay on the living room floor looking at onion skin through a toy microscope from the night market. Water from the ceiling dripped right next to him; he nudged the slide a little to the left and kept drawing cell walls. I brought out a third washbasin to catch it, and the landlord didn't answer either of my two calls.",
+          "editorNote": "For renting families in old buildings who line the floor with pots every typhoon; the homework still gets turned in, and the roof still doesn't get fixed.",
+          "variations": [
+            "Short: My son nudged the slide to the left and kept drawing cell walls while I set down a third washbasin.",
+            "Extended: When the homework came back, the teacher had circled a spot beside the cell wall and asked what structure the little water stain was."
+          ]
+        }
+      }
     }
   ]
 }
