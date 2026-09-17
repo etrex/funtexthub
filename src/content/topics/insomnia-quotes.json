@@ -11842,6 +11842,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-424",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%B1%8F%E6%9D%B1%E8%B3%BD%E5%98%89%E6%BB%91%E7%BF%94%E9%A3%9B%E8%A1%8C%E5%A0%B4",
+      "sourceNote": "維基百科〈屏東賽嘉滑翔飛行場〉（軟翼滑翔傘需從山坡起飛，賽嘉為台灣第一座合法無動力飛行場）；只取「收起來放著的裝備」這個物件，改寫成衣櫃裡的傘包看著主人半夜起來摸它",
+      "tags": [
+        "失眠",
+        "深夜",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在衣櫃最下層摺了一整季，袋子上的布條寫著滑翔傘和他的名字。凌晨兩點，衣櫃被拉開，一隻手伸進來摸了摸我的尼龍面，又縮回去。三點再拉開一次，這次他把我整包拖到床邊，背靠著我坐在地板上。天亮前他把我推回原位，拉鍊只拉到一半。",
+          "editorNote": "給半夜會去翻舊裝備、舊相簿的人，什麼都沒做，只是去碰一下。",
+          "variations": [
+            "短版：兩點摸我一下，三點把我拖到床邊靠著，天亮前推回去，拉鍊拉一半。",
+            "延伸版：我是收在衣櫃最底層的那袋裝備，一整季沒出門；今晚衣櫃門開了兩次，第二次他乾脆把我拖出來靠著坐，坐到窗外變淺，才把我塞回去，拉鍊沒拉好。"
+          ]
+        },
+        "en": {
+          "content": "I've spent the whole season folded on the bottom shelf of the closet, a cloth tag on my bag reading paraglider and his name. At two a.m. the closet slides open, a hand reaches in, pats my nylon, and pulls back. At three it opens again, and this time he drags the whole bag to the bed and sits on the floor with his back against me. Before sunrise he shoves me back into place and zips me only halfway.",
+          "editorNote": "For anyone who gets up at night to touch old gear or old photo albums. Nothing gets done. You just go and touch it.",
+          "variations": [
+            "Short: A pat at two, dragged to the bed to lean on at three, shoved back before sunrise, zipper half done.",
+            "Extended: I'm the gear bag at the bottom of the closet that hasn't gone out all season; tonight the door opened twice, and the second time he just pulled me out and leaned on me until the window went pale, then pushed me back in without finishing the zipper."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-425",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.flytaiwanpara.com/training/",
+      "sourceNote": "FlyTaiwan Paragliding〈飛行傘教學〉（課程從地面操傘、山坡助跑起飛練起）；只取「反覆看起飛那一段」的畫面，改寫成床頭手機記下的一晚播放紀錄",
+      "tags": [
+        "失眠",
+        "滑手機",
+        "凌晨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 十二點，他把我翻過去，螢幕朝下。\n— 十二點四十，翻回來，點開一支滑翔傘影片。\n— 一點，播到第三支，有人沿著草坡往下跑，腳離了地。\n— 一點半，聲音被關掉，進度條拉回起飛那幾秒。\n— 同一段又拉回去十七次。\n— 兩點，我被放到枕頭旁邊，亮度調到最低，沒有鎖。",
+          "editorNote": "寫給睡不著時一直重播同一段影片的人，那幾秒到底在看什麼，自己也說不清。",
+          "variations": [
+            "短版：一點半關掉聲音，起飛那幾秒拉回去看了十七次。",
+            "延伸版：他十二點把我蓋住，四十分又翻回來，從一支滑翔傘影片看到第三支，最後只剩一個人沿著草坡往下跑、腳離地的那幾秒，被拉回去十七次。"
+          ]
+        },
+        "en": {
+          "content": "— Midnight: he flips me over, screen down.\n— 12:40: flipped back, a paragliding video opened.\n— 1:00: third video in, someone runs down a grassy slope and their feet leave the ground.\n— 1:30: sound off, the progress bar dragged back to the few seconds of takeoff.\n— The same clip dragged back seventeen more times.\n— 2:00: I get set beside the pillow, brightness at the lowest, still unlocked.",
+          "editorNote": "For the ones who replay the same clip when they can't sleep and couldn't tell you what they're watching for in those few seconds.",
+          "variations": [
+            "Short: Sound off at 1:30, and the takeoff dragged back seventeen times.",
+            "Extended: He covered me at midnight, flipped me back at 12:40, went from one paragliding video to a third, until all that was left was a person running down a grassy slope and lifting off, dragged back seventeen times."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-426",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.sleepfoundation.org/mental-health/anxiety-at-night",
+      "sourceNote": "Sleep Foundation〈Anxiety at Night〉（夜裡干擾少，焦慮與反覆思緒更容易浮上來；睡不著時建議先離開床）；只取「人離開床又回來」的動作，改寫成床墊感覺到的重量變化",
+      "tags": [
+        "失眠",
+        "翻來覆去",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我右半邊有個凹痕，形狀剛好是他側躺時的肩膀。今晚那個凹痕涼了快四個小時。他坐在我床尾的邊緣，腳跟壓著同一塊地方，一直沒換姿勢。快五點他才躺回來，這次睡在左半邊。",
+          "editorNote": "適合形容整晚沒睡但也沒離開多遠的那種夜，換個位置躺，好像就能重來一次。",
+          "variations": [
+            "短版：右邊的凹痕涼了四小時，他回來的時候躺在左邊。",
+            "延伸版：他平常的位置是右半邊，今晚那裡一直空著；他在床尾坐到快五點，腳跟沒挪過，最後躺回來，挑了另一邊。"
+          ]
+        },
+        "en": {
+          "content": "There's a dent on my right side shaped exactly like his shoulder when he sleeps on it. Tonight that dent stayed cold for almost four hours. He sat on my foot edge, heels pressing the same spot, never shifting. Close to five he finally lay back down, on the left side this time.",
+          "editorNote": "For the kind of night you don't sleep but don't go far, either, as if switching sides might count as starting over.",
+          "variations": [
+            "Short: The right-side dent went cold for four hours, and when he came back he took the left.",
+            "Extended: His usual spot is the right half, and tonight it stayed empty; he sat at the foot of the bed until nearly five without moving his heels, then lay back down and picked the other side."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-427",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.calm.com/blog/racing-thoughts-at-night",
+      "sourceNote": "Calm Blog〈Racing thoughts at night〉（夜裡焦慮與反覆思考的常見情境與緩解方式）；只取「準備好的助眠道具沒被用上」這個落差，改寫成眼罩的視角",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "凌晨三點"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被戴上去十一分鐘，就被推到額頭上。從那個位置只看得到天花板，和一隻舉著手機的手投下來的影子。三點那道光熄了，我還是沒被拉下來。",
+          "editorNote": "給買了一堆助眠小物、最後全掛在頭上的人，道具都在，只是沒輪到它上場。",
+          "variations": [
+            "短版：戴了十一分鐘就被推上額頭，看了一整晚天花板。",
+            "延伸版：他十一分鐘後就把我推上去，我在額頭上看著天花板和手機的影子晃；三點螢幕暗了，他睡著沒有我不知道，反正我沒被拉回眼睛上。"
+          ]
+        },
+        "en": {
+          "content": "Eleven minutes after he put me on, I got pushed up onto his forehead. From up there all I can see is the ceiling and the shadow of a hand holding a phone. The light goes out at three, and I still haven't been pulled back down.",
+          "editorNote": "For people who own a drawer of sleep gadgets that all end up parked on their heads. The props showed up; they just never got called on.",
+          "variations": [
+            "Short: Worn for eleven minutes, then parked on a forehead staring at the ceiling all night.",
+            "Extended: He shoved me up after eleven minutes, and I watched the ceiling and a phone's shadow wobble; the screen went dark at three, and whether he fell asleep I can't say, but I never made it back over his eyes."
+          ]
+        }
+      }
     }
   ]
 }
