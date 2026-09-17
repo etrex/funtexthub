@@ -13806,6 +13806,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-488",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "維基百科反幽默條目：把該有笑點的位置換成一句平實的事實陳述；改寫成姑丈在碗粿攤前拿薪水酸人、被照價目表認真回答的情節為原創",
+      "tags": [
+        "幹話",
+        "機智",
+        "親戚",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "過年回台南，姑丈在碗粿攤前問我：「你現在那份薪水，吃得起這一碗嗎？」我抬頭看了牆上的價目表，說：「吃得起，一碗四十五塊。」他說那這碗他請，我說不用，零錢帶得夠。",
+          "editorNote": "長輩拿收入開玩笑時用；把問句當成真的在問價錢，照實報數字就好",
+          "variations": [
+            "短版：吃得起，一碗四十五塊。",
+            "延伸版：付完錢我順便問老闆有沒有外帶盒，他說有，一個兩塊。"
+          ]
+        },
+        "en": {
+          "content": "Back in Tainan for New Year's, my uncle stopped at the bowl rice cake stand and asked, \"On that salary of yours, can you even afford one of these?\" I looked up at the price board on the wall and said, \"Yes. They're forty-five dollars each.\" He offered to pay for mine, and I said no thanks, I had enough change on me.",
+          "editorNote": "When an elder jokes about your income; treat it as a genuine question about price and just read him the number",
+          "variations": [
+            "Short version: Yes. They're forty-five dollars each.",
+            "Longer take: After paying I asked the owner if he had takeout boxes, and he said yes, two dollars apiece."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-489",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://www.rd.com/list/anti-jokes/",
+      "sourceNote": "Reader's Digest 反笑話合輯，問句設好了陷阱、答案只給字面事實；改寫成被追問單身原因卻逐題照實回答碗粿行程的對話為原創",
+      "tags": [
+        "幹話",
+        "機智",
+        "人際",
+        "邊界"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「欸，你怎麼到現在還單身？」\n「因為目前沒有在跟誰交往。」\n「那你假日都在做什麼？」\n「上禮拜六去吃了一碗碗粿。」\n「好吃嗎？」\n「好吃，醬油膏淋得比較少。」",
+          "editorNote": "被追問感情狀態時用；每一題都照字面回答，不多給一個字的心情",
+          "variations": [
+            "短版：因為目前沒有在跟誰交往。",
+            "延伸版：「那下次帶我去？」「可以，那家禮拜一公休。」"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, how are you still single?\"\n\"Because I'm not currently dating anyone.\"\n\"So what do you do on weekends?\"\n\"Last Saturday I went and had a bowl rice cake.\"\n\"Was it good?\"\n\"It was good. They go light on the soy paste.\"",
+          "editorNote": "For the relationship interrogation; answer every question exactly as asked and don't volunteer a single feeling",
+          "variations": [
+            "Short version: Because I'm not currently dating anyone.",
+            "Longer take: \"Take me next time?\" \"Sure. They're closed Mondays.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-490",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://supertaste.tvbs.com.tw/food/308196",
+      "sourceNote": "食尚玩家介紹台南人吃碗粿專挑中間凹下去、藏著餡料的吃法；改寫成同事酸「挖寶」卻被照實回答在吃蛋黃的情節為原創",
+      "tags": [
+        "幹話",
+        "諷刺",
+        "職場",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事看我用湯匙把碗粿正中間那塊挖出來，問：「你是在挖寶喔？」我說：「沒有，我在吃蛋黃。」他又問挖到了沒。我把湯匙舉起來給他看，上面是半顆鹹蛋黃。",
+          "editorNote": "有人對你吃東西的方式說風涼話時用；不接那個比喻，直接說你在做什麼",
+          "variations": [
+            "短版：沒有，我在吃蛋黃。",
+            "延伸版：他問另外半顆呢，我說還在碗裡，下一口。"
+          ]
+        },
+        "en": {
+          "content": "A coworker watched me spoon out the very middle of my bowl rice cake and asked, \"What, are you digging for treasure?\" I said, \"No, I'm eating the egg yolk.\" He asked whether I'd found it yet. I held up the spoon so he could see half a salted yolk sitting on it.",
+          "editorNote": "When someone makes a snide remark about how you eat; skip the metaphor they handed you and just say what you're doing",
+          "variations": [
+            "Short version: No, I'm eating the egg yolk.",
+            "Longer take: He asked where the other half was, and I told him it was still in the bowl, next bite."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-491",
+      "dateAdded": "2026-09-17",
+      "sourceUrl": "https://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHumor",
+      "sourceNote": "TV Tropes 反幽默條目：把原本該好笑的情境照正經的方式演完；改寫成主管在週會上諷刺幽默感、被當成考核問題認真回答的情節為原創",
+      "tags": [
+        "幹話",
+        "機智",
+        "職場",
+        "會議"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週會結束前，主管看著我說：「你是不是覺得自己很幽默？」我想了一下，回答：「不太覺得，去年的考核表上也沒有這一欄。」接著我把報表翻到第二頁。",
+          "editorNote": "主管在眾人面前用反問句酸你時用；把反問當成一般問題，想過再回答，然後回到正事",
+          "variations": [
+            "短版：不太覺得，考核表上沒有這一欄。",
+            "延伸版：他問第二頁的數字對不對，我說對過兩次了。"
+          ]
+        },
+        "en": {
+          "content": "Right before the weekly meeting ended, my manager looked at me and said, \"You think you're pretty funny, don't you?\" I thought about it for a moment and answered, \"Not really. Last year's review form didn't have a section for that either.\" Then I turned the report to page two.",
+          "editorNote": "When a boss uses a rhetorical question to needle you in front of everyone; take it as a normal question, think, answer, and get back to work",
+          "variations": [
+            "Short version: Not really. The review form doesn't have a section for that.",
+            "Longer take: He asked if the numbers on page two were right, and I said I'd checked them twice."
+          ]
+        }
+      }
     }
   ]
 }
