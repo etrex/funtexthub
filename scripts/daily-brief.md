@@ -1,4 +1,4 @@
-# FunTextHub 每日生成簡報 — 2026-09-17
+# FunTextHub 每日生成簡報 — 2026-09-18
 
 每個 agent 只負責 **一個 topic 檔**，寫 **4 則**新內容（全批 42 檔＝168 則）。
 你的 frame／scene 指派在 `scripts/daily-assignment.json`，用你的 slug 查。
@@ -7,13 +7,14 @@
 > 若本簡報的文字與該檔不一致，**一律以該檔為準**，並在回報時指出不一致處。
 
 > 🔴 今日紅線：**42 檔一檔都不能少**。既往停擺**今天不補**，只寫今天的 4 則。
-> 🟢 9/14、9/15、9/16 連三天滿批（各 168 則），今天是第四天。
+> 🟢 9/14–9/17 連四天滿批（各 168 則），今天是第五天。
 
-> 🟢 本批 frame **已整批輪替**（與 9/16／9/15／9/14 零碰撞，程式驗證），每框最多 **3 格**。
-> scene 換成 **14 個全新語域**，14 個 token 在全語料 `則數／檔數／raw` **三個讀數皆為 0**（`whiteland.py` 實測），
+> 🟢 本批 frame **已整批輪替**（與 9/17／9/16／9/15／9/14 零碰撞，程式驗證），每框最多 **3 格**。
+> scene 換成 **13 個全新語域**＋3 檔時效指派，13 個 token 在全語料 `則數／檔數／raw` **三個讀數皆為 0**（`whiteland.py` 實測），
 > 且**全部 ≤3 字**；同 token 的 3 檔**昨天沒有共用過同一個 token**，且 frame 互不相同。
 
-> 🟢 **本日沒有時效指派。** 42 檔全部照 frame＋scene 寫。昨天的「今年真的有秋天」三檔已寫完，今日**全批不寫**秋天／季節感想。
+> 🔴 **本日有時效指派（3 檔）：中秋烤肉——寫「烤的東西」，不寫「烤的人」。** 見第九節「時效指派」條。
+> 只有 `food-jokes`（`麻糬`）／`couple-jokes`（`鹽可頌`）／`witty-comebacks`（`白吐司`）三檔寫；其餘 39 檔**照舊全批不寫中秋／烤肉**。
 
 ---
 
@@ -21,7 +22,7 @@
 
 ```bash
 cd /Users/etrexkuo/Documents/github/funtexthub
-python3 scripts/check_new_items.py --topic <你的slug> --date 2026-09-17
+python3 scripts/check_new_items.py --topic <你的slug> --date 2026-09-18
 ```
 
 **exit 0 才算完成。FAIL 就改、再跑，直到 PASS。**
@@ -62,17 +63,17 @@ WARN 不擋過，但句數 WARN 請盡量修掉。
 自己看一眼（帶項目符號者看 `+ bullet-aware` 那行）：
 
 ```bash
-python3 scripts/form_mix.py --date 2026-09-17
-python3 scripts/form_mix.py --date 2026-09-17 --lang en
+python3 scripts/form_mix.py --date 2026-09-18
+python3 scripts/form_mix.py --date 2026-09-18 --lang en
 ```
 
 ### 例外與注意
 
 - 🔴 **F4／F5／F13／F15 四個框的檔豁免本條**（框本身就是形式）。本日豁免檔為：
-  `adulting-quotes`／`breakup-quotes`／`healing-quotes`（F4）、
-  `diet-quotes`／`renting-quotes`／`student-quotes`（F5）、
-  `cdrama-period-quotes`／`motivational-quotes`（F13）、
-  `couple-jokes`／`witty-comebacks`（F15）。**這 10 檔照框寫就好，不必湊形式。**
+  `couple-jokes`／`fitness-quotes`／`food-jokes`（F4）、
+  `cold-jokes`／`exam-quotes`／`travel-quotes`（F5）、
+  `stock-investor-quotes`／`summer-electric-quotes`（F13）、
+  `holiday-jokes`／`programmer-jokes`（F15）。**這 10 檔照框寫就好，不必湊形式。**
 - ⚠️ **不得把形式逐則指派給自己**（「第一則散文、第二則清單」）。本條是**弱約束**，
   只要求「不要四則同形」，不指定哪則是哪形。
 - ⚠️ **不要為了湊形式把好內容切壞。** 達標的方法是**本來就該用那個形狀的內容**。
@@ -138,11 +139,11 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 | **F10** | 三個短鏡頭：三個不同地點各寫一句，不互相解釋 | 禁三句用同一句型起頭；禁第三句當總結收束 | 三個地點的**語氣可以完全不同**，甚至互相沒關係 |
 | **F11** | 自嘲式承認：承認一個自己也知道很蠢的行為，語氣輕鬆 | 禁「我知道這樣很蠢，但…」；禁自我貶低到刻薄 | 把蠢事**寫得很認真**，當正事講，不加評語 |
 | **F12** | 被記住的一句話：引述某人說過的話 + 為什麼記到現在 | 禁「他說的那句話我記到現在」當結尾；禁引號內寫格言／金句 | 引的話要**很普通**，普通到不像值得記的那種 |
-| **F13** | 到期通知單（機構文件框，**僅 `cdrama-period-quotes`／`motivational-quotes` 兩檔**） | 🔴 見下方「七、公文體專章」 | 同上 |
+| **F13** | 到期通知單（機構文件框，**僅 `stock-investor-quotes`／`summer-electric-quotes` 兩檔**） | 🔴 見下方「七、公文體專章」 | 同上 |
 | **F14** | 天氣當心情：用天氣寫心情，完全不直說情緒 | 禁「像我的心情一樣」明喻；禁結尾點破；禁「下雨天總是…」 | 只寫**天氣 + 人的動作**，不寫感受 |
-| **F15** | **反笑話（僅 `couple-jokes`／`witty-comebacks` 兩檔）**：在讀者等一個雙關、等一個轉折的位置，給一個**字面上完全正確、毫無機鋒**的答案。笑點來自「該有的機鋒沒有出現」，不是來自機鋒本身 | 禁真的給出雙關或諧音；禁最後補一句解釋為什麼好笑；禁「結果什麼都沒發生」這類自我點評；禁誇張化（越平淡越對） | 句子要**短、平、無修飾**；answer 必須是**認真回答的語氣**，不能有戲謔標記 |
+| **F15** | **反笑話（僅 `holiday-jokes`／`programmer-jokes` 兩檔）**：在讀者等一個雙關、等一個轉折的位置，給一個**字面上完全正確、毫無機鋒**的答案。笑點來自「該有的機鋒沒有出現」，不是來自機鋒本身 | 禁真的給出雙關或諧音；禁最後補一句解釋為什麼好笑；禁「結果什麼都沒發生」這類自我點評；禁誇張化（越平淡越對） | 句子要**短、平、無修飾**；answer 必須是**認真回答的語氣**，不能有戲謔標記 |
 
-🔴 **本批 frame 已整批輪替**：沒有任何一檔拿到 9/16、9/15 或 9/14 的框（已程式驗證，0 碰撞）。
+🔴 **本批 frame 已整批輪替**：沒有任何一檔拿到 9/17、9/16、9/15 或 9/14 的框（已程式驗證，0 碰撞）。
 若你覺得「這個框我這檔上次寫過」——沒有，那是別檔寫的，**不要去翻舊寫法**。
 
 ### 2. scene（場景）— 4 則裡**至少 2 則**要落在指派的場景
@@ -152,8 +153,9 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 同一個 `scene_class` 今日**固定由 3 檔共用同一個 token**（這是刻意的配額設計，不是衝突）；
 **沒有被指派到該 token 的檔一律禁用**，不要把別人的場景詞寫進自己的題材（會全站撞車）。
 
-本日 **14 個新語域**：`溜冰場／撞鐘／吹糖／滑翔傘／飛鏢／太極拳／碗粿／
-卡丁車／鋁門窗／羅盤／顯微鏡／煤油燈／地球儀／劍道`（各 3 檔）。
+本日 **13 個新語域**：`八音盒／衝浪板／盪鞦韆／捕夢網／蚵嗲／呼拉圈／高爾夫／
+彈簧床／雪橇犬／燈謎／牛舌餅／鍋貼／相撲`（各 3 檔），13 個 token 在全語料 `則數／檔數／raw` 皆 0。
+另 3 檔時效指派各一詞：`麻糬`→food-jokes／`鹽可頌`→couple-jokes／`白吐司`→witty-comebacks（**不共用**，他檔一律禁用，checker 驗 leak）。
 🟢 本日場景詞**全部 ≤3 字**，避開 9/14 `雞毛撢子` 4 字×3 檔造成的 `max_rare_ngram` 假警報。
 `scene_class` 同類上限 **3 檔（7.1%）**。
 
@@ -182,7 +184,8 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 摩天輪／象棋／花生糖／杏仁茶／道路標線／防洪抽水／林業伐木／白蟻防治／走鋼索／萬花筒／
 歌仔戲／天燈／牛墟／短週／四天班／週休三日／
 針灸／螢火蟲／馬場／毽子／射箭場／獨輪車／水墨／板金／美甲／章魚燒／變電箱／焚化爐／植牙／
-沒有秋天／沒有冷氣聲／夏天先走。
+沒有秋天／沒有冷氣聲／夏天先走／
+溜冰場／撞鐘／吹糖／滑翔傘／飛鏢／太極拳／碗粿／卡丁車／鋁門窗／羅盤／顯微鏡／煤油燈／地球儀／劍道。
 
 ⚠️ 場景詞和你的題材看起來不搭是**故意的**——不要為了搭而把它寫成比喻或標題，
 把它當成那個畫面裡**真的存在的一個東西**，讓它出現在動作裡。
@@ -198,14 +201,14 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 ## 七、公文體專章
 
 1. **公文體詞彙**（公告／通知／敬請／見諒／即日起／張貼／施工／完工／停水／停電／管線）
-   **只有 `cdrama-period-quotes` 和 `motivational-quotes` 兩檔可以用。其餘 40 檔一律禁用。**
+   **只有 `stock-investor-quotes` 和 `summer-electric-quotes` 兩檔可以用。其餘 40 檔一律禁用。**
    （8/27 holiday-jokes／renting-quotes、8/29 service／workplace、8/30 exam／fitness、
    8/31 summer-electric／diet、9/01 stock-investor／graduation、9/02 concert-ticket／
    student、9/03 drama-binge／travel、9/04 programmer-jokes／zodiac、
    9/05 cheesy-pickups／wedding、9/06 adulting／insomnia、9/07 dark-humor／mom、
    9/08 cold-jokes／slang-quotes、9/09 worldcup／human-design、
    9/10 korean-drama／self-love、9/11 drama／cat、9/14 witty-comebacks／couple-jokes、
-   9/15 food-jokes／absurd-wisdom、9/16 breakup／fathers-day，今日再輪替。）
+   9/15 food-jokes／absurd-wisdom、9/16 breakup／fathers-day、9/17 cdrama-period／motivational，今日再輪替。）
 2. **這些語域家具全站禁用，F13 兩檔也禁**：
    `敬請見諒`／`不便之處`／`造成不便`／`預計完工`／`施工期間`／`施工告示`／`即日起`／
    `請多包涵`／`特此通知`／`如有疑問`／`請儘速`／`逾期`
@@ -219,8 +222,8 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 ## 八、全批禁用（checker 會擋，先看一眼省得重寫）
 
 - 骨架：`不是X是Y`、`不是X只是Y`、`第一、第二、…` 列舉
-- 序數遞進 `第一次…第二次/第三次`：**僅** adulting-quotes／graduation-quotes／motivational-quotes／
-  student-quotes／travel-quotes 可用，且**每檔最多 1 則**。
+- 序數遞進 `第一次…第二次/第三次`：**僅** breakup-quotes／fitness-quotes／korean-drama-quotes／
+  workplace-quotes／zodiac-quotes 可用，且**每檔最多 1 則**。
   其餘 37 檔完全禁用。
 - 口頭禪：`沒說出口的那句是`／`沒講出口的那句是`／`才肯承認`／`丟了一句`／
   `我聽見的是`
@@ -228,7 +231,7 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
   廚房／浴室／捷運／停車場／樓下／巷口／櫃檯／候診／號碼牌／叫號／排隊／等候／
   備註／單號／編號／案號／品名／規格／狀態／期限／申請人／受理
   ⚠️ 這是**子字串**比對（寫「騎樓下」會被 `樓下` 擋掉），換句話重寫，別硬塞。
-- `scripts/exclusion-list.json` 裡的全部 term（**窗口 09-08…09-16，43 個詞**，
+- `scripts/exclusion-list.json` 裡的全部 term（**窗口 09-09…09-17，43 個詞**，
   checker 會逐一比對）
 - **開頭 5 字不得與同檔任何一則重複**（checker 會擋），且**不得與別檔今日新增的重複**
   （orchestrator 會擋）——請避免「那天／後來／我一直／其實／有一次」這種通用起手式
@@ -240,13 +243,13 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 ## 九、內容規則
 
 - **4 則**，both `zh-tw` 與 `en`，各自要有 `content`／`editorNote`／`variations`
-- 🔴 **四則至少 2 種讀者看得出來的形式**（第二節，F4／F5／F13／F15 九檔豁免）
+- 🔴 **四則至少 2 種讀者看得出來的形式**（第二節，F4／F5／F13／F15 十檔豁免）
 - 🔴 **`en.content` 行數必須等於 `zh-tw.content` 行數**（第三節，checker 會擋）
 - 🔴 **中文的變化在英文裡也要是變化**（第四節）
 - 🔴 **同一檔四則不得共用任何 5 字片段**（第五節，`check_batch.py` 會擋）
 - 🔴 **`editorNote` 四則不得雷同**：四則的 `editorNote` 不得逐字重複，也不要套同一個模板
 - `id` 沿用該檔既有前綴，接續最大號碼
-- `dateAdded`: `2026-09-17`
+- `dateAdded`: `2026-09-18`
 - 🔴 **`sourceUrl` 必填，且不得是捏造的自我引用**（會 FAIL）：
   - **不得**包含 `funtexthub`（缺漏是誠實的空白，捏造更糟）
   - **不得**用 `.internal`／`.local`／`.test`／`localhost` 任何一種主機
@@ -254,8 +257,19 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
   - 🔴 `dcard` / `mobile01` / `cheers` / `beauty321` / `thenewslens` / `parenting` / `cw` /
     `books` 一律 403，**不可**當 sourceUrl
   - 🔴 中文搜尋結果大量落在中國大陸站，**不得**作素材或 sourceUrl
-- 🔴 **本日沒有時效指派。** 秋天／入秋／變涼／不用開冷氣這類季節感想**全批不寫**（9/16 三檔已寫完）。
-  🔴 **中秋今日全批不寫**（9/14 已寫 4 檔，禮盒角度已結案；連假出勤加倍 `hj-479` 也已寫）。
+- 🔴 **時效指派（只限 3 檔）：中秋烤肉「烤的東西」那一側。**
+  外部素材：Threads 一則「烤肉改夾鹽可頌」貼文破百萬瀏覽，白吐司派出面捍衛、兩派互嗆（自由、CTWANT、FTNN 9/14–9/16 跟進）；
+  另一串「中秋烤肉最好吃的不是肉，是莫名其妙被丟上烤網的東西」（麻糬、甜不辣、棉花糖、冷凍蔥餅、鱈魚香絲）。
+  站內既有 25 則 `烤肉` **全寫「人」**（分工、顧火、爸爸掌夾子、群組喬人、剩菜、煙味），**0 則寫「烤／夾的東西」**。
+  | 檔 | 必落詞（≥2 則） | 角度 |
+  |---|---|---|
+  | `food-jokes`（F4 純對白） | `麻糬` | 被丟上烤網的非肉類：麻糬、甜不辣、棉花糖、蔥餅 |
+  | `couple-jokes`（F4 純對白） | `鹽可頌` | 情侶之間的「吐司派 vs 可頌派」 |
+  | `witty-comebacks`（F1 兩時間點） | `白吐司` | 白吐司派的回嗆／白吐司的處境變化 |
+  🔴 地雷：**不寫**分工、顧火、爸爸掌爐、夾子、群組喬人、烤肉煙味、隔天剩菜（全是既有寫法）；`夾子` 不得當主角；
+  不要寫「全台都在吵」（那是一則貼文的讀數）；三檔**各自的必落詞不得出現在別檔**。
+  這 3 檔可以用 `中秋`／`烤肉`／`烤網`；**其餘 39 檔 `中秋`／`烤肉`／`月餅` 一律禁用。**
+- 🔴 秋天／入秋／變涼這類季節感想**全批不寫**（9/16 已寫完）。
   教師節／敬師禮金（排 9/21）、好市多新制（排 9/24 後）、補休（排 9/25 前後）、
   重陽（排 10/12）、國慶／雙十（不推）**今日一律不寫**。
   農曆七月題材已收尾，`中元`／`普渡`／`拜拜`／`供桌`／`關鬼門`／`送好兄弟`／`跳鍾馗`／`搶孤`
@@ -270,7 +284,7 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 ## 十、🔴 只加不改（orchestrator 會驗）
 
 你**只能在 `items` 陣列尾端 append 4 則新項目**。
-- **不得**修改、改寫、刪除任何 `dateAdded` 早於 2026-09-17 的既有項目
+- **不得**修改、改寫、刪除任何 `dateAdded` 早於 2026-09-18 的既有項目
 - **不得**調整既有項目的順序
 - 遇到「開頭 5 字與舊項目撞車」時，改**你自己的新項目**，不要去動舊的
 - 用 **Edit** 工具接在陣列尾端，**不要**用 Write 重寫整檔（會破壞既有格式）
@@ -289,5 +303,5 @@ python3 scripts/form_mix.py --date 2026-09-17 --lang en
 4. 照指派的 frame + scene 寫 4 則，**至少 2 種讀者可見形式**、**中英逐行對齊**、
    **中文的變化英文也要有**、**四則句型互不相同**
 5. 用 **Edit** 工具把新項目接到 `items` 陣列尾端
-6. 跑 `check_new_items.py` 到 **PASS**（再跑一次 `form_mix.py --date 2026-09-17` 看你這行）
+6. 跑 `check_new_items.py` 到 **PASS**（再跑一次 `form_mix.py --date 2026-09-18` 看你這行）
 7. 回報：slug、新增的 id、frame、scene 落在幾則、四則各是什麼形式、checker 結果
