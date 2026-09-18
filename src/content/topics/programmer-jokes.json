@@ -14751,6 +14751,119 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-539",
+      "dateAdded": "2026-09-18",
+      "sourceUrl": "https://www.sciencenews.org/article/hula-hooping-robots-physics",
+      "sourceNote": "Science News 報導以機器人實驗解釋呼拉圈為何不會掉：身體要有斜坡往上推、要有腰身卡住；本則把工程師笑話的問句配上這個物理答案，不給任何雙關",
+      "tags": [
+        "工程師日常",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「工程師的呼拉圈，為什麼轉一轉就往下掉？」\n「他的腰側太直，圈子轉到下緣沒有斜面往上推，就沿著身體滑到地上。」",
+          "editorNote": "問句長得像笑話，回答是一篇物理報告的摘要；在群組裡丟出來，最好的反應是有人回「喔」。",
+          "variations": [
+            "短版：因為腰太直，沒有東西把圈子往上推。",
+            "延伸版：後來他試了一個比較大、比較重的呼拉圈，轉得比較慢，撐了十秒才掉。"
+          ]
+        },
+        "en": {
+          "content": "\"The engineer's hula hoop: why does it keep dropping after a few spins?\"\n\"His sides are too straight, so when the hoop swings to the low point there's no slope to push it back up, and it slides down his body to the floor.\"",
+          "editorNote": "The question is shaped like a joke and the answer reads like a physics abstract. Post it in a group chat; the ideal reply is someone typing \"oh.\"",
+          "variations": [
+            "Short version: His waist is too straight, so nothing pushes the hoop back up.",
+            "Extended: Later he tried a bigger, heavier hoop. It spun slower and lasted ten seconds before it dropped."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-540",
+      "dateAdded": "2026-09-18",
+      "sourceUrl": "https://www.snexplores.org/article/hula-hoop-physics-wiggling-robots",
+      "sourceNote": "Science News Explores 的呼拉圈物理報導；本則借用「一個人走進店裡」的笑話開場，接下來只照實寫買東西的過程",
+      "tags": [
+        "工程師日常",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個前端工程師走進運動用品店，問店員有沒有呼拉圈。店員說有，在最裡面那個架子上。他挑了一個紫色的，付現金，拿著走回公司。",
+          "editorNote": "經典的「一個誰走進哪裡」開場，讀者會一路等轉折，等到最後一個句號都沒有等到。",
+          "variations": [
+            "短版：他走進店裡，買了一個紫色呼拉圈，走回公司。",
+            "延伸版：回到公司，他把紫色呼拉圈靠在螢幕旁邊的牆上，打開信箱。"
+          ]
+        },
+        "en": {
+          "content": "A front-end developer walks into a sporting goods store and asks the clerk if they carry hula hoops. The clerk says yes, on the shelf all the way in the back. He picks a purple one, pays cash, and carries it back to the office.",
+          "editorNote": "It opens with the classic \"a guy walks into a...\" setup, so the reader keeps waiting for the twist, right up through the final period.",
+          "variations": [
+            "Short version: He walked in, bought a purple hula hoop, and walked back to work.",
+            "Extended: Back at the office, he leaned the purple hoop against the wall next to his monitor and opened his email."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-541",
+      "dateAdded": "2026-09-18",
+      "sourceUrl": "https://www.rd.com/list/anti-jokes/",
+      "sourceNote": "Reader's Digest 反笑話整理：答案字面正確、刻意沒有笑點；本則套在「換燈泡要幾個工程師」這個老問句上",
+      "tags": [
+        "工程師日常",
+        "冷笑話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「要幾個工程師才換得好一顆燈泡？」\n「一個。他站上椅子，把舊的轉下來，新的轉上去，再把椅子推回原位。」",
+          "editorNote": "這個問句本來有標準答案，而且是一個梗；這裡把梗拿掉，只剩下換燈泡的正確步驟。",
+          "variations": [
+            "短版：一個，站上椅子換掉就好。",
+            "延伸版：換完他按了兩下開關，確認會亮，把舊燈泡用報紙包起來丟進垃圾桶。"
+          ]
+        },
+        "en": {
+          "content": "\"How many engineers does it take to change a light bulb?\"\n\"One. He stands on a chair, unscrews the old bulb, screws in the new one, and pushes the chair back where it was.\"",
+          "editorNote": "This question used to come with a standard punchline. Here the punchline is gone, and all that's left is the correct procedure for changing a bulb.",
+          "variations": [
+            "Short version: One. He gets on a chair and swaps it.",
+            "Extended: When he was done he flipped the switch twice to make sure it worked, wrapped the old bulb in newspaper, and threw it out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-542",
+      "dateAdded": "2026-09-18",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "維基百科 Anti-humor 條目：以笑話結構鋪陳、卻給出最直接的答案；本則用叩叩笑話的格式，在該出雙關的那一句只交代來意",
+      "tags": [
+        "工程師日常",
+        "冷笑話",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「叩叩。」\n「誰？」\n「隔壁的後端工程師。」\n「隔壁的後端工程師誰？」\n「隔壁的後端工程師，來還上個月借的呼拉圈。」",
+          "editorNote": "叩叩笑話的第四句是整個格式唯一的笑點位置，這一則在那裡老實報上來意，然後就結束了。",
+          "variations": [
+            "短版：「叩叩。」「誰？」「來還呼拉圈的。」",
+            "延伸版：門打開，他把呼拉圈遞進來，說謝謝，回自己座位繼續寫 API。"
+          ]
+        },
+        "en": {
+          "content": "\"Knock knock.\"\n\"Who's there?\"\n\"The back-end engineer from next door.\"\n\"The back-end engineer from next door who?\"\n\"The back-end engineer from next door, returning the hula hoop I borrowed last month.\"",
+          "editorNote": "In a knock-knock joke, the fourth line is the one and only slot for a punchline. This one uses it to state the reason for the visit and then stops.",
+          "variations": [
+            "Short version: \"Knock knock.\" \"Who's there?\" \"Someone returning your hula hoop.\"",
+            "Extended: The door opened, he handed the hula hoop through, said thanks, and went back to his desk to keep writing the API."
+          ]
+        }
+      }
     }
   ]
 }
