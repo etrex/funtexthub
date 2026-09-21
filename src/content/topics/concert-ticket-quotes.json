@@ -11430,6 +11430,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-404",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://www.gvm.com.tw/article/125822",
+      "sourceNote": "遠見雜誌 2026 台灣演唱會搶票資訊與開賣時間總整理；取「開賣倒數那一刻」的準備動作，改寫成窗外起風、把筆電挪離窗邊接網路線的一段天氣描寫",
+      "tags": [
+        "搶票",
+        "開賣",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "對面屋頂那支白鐵風車，在開賣前十分鐘轉到看不清葉片。我把筆電挪到離窗戶最遠的桌角，插上網路線。倒數歸零的那一秒風停了，風車只剩一片葉子還在晃。我按下去，畫面上的圈圈轉了四十秒。",
+          "editorNote": "適合開賣前把環境每個細節都調整過一輪、結果還是卡在讀取畫面的那種下午",
+          "variations": [
+            "短版：倒數歸零，風停了，我的讀取圈圈沒停。",
+            "延伸版：後來風又起來了，風車轉回看不清的速度，我的頁面還停在付款前一步。"
+          ]
+        },
+        "en": {
+          "content": "Ten minutes before the drop, the steel windmill on the roof across the street was spinning so fast the blades blurred. I moved my laptop to the corner of the desk farthest from the window and plugged in the ethernet cable. The second the countdown hit zero, the wind died, and only one blade was still swaying. I clicked, and the loading wheel spun for forty seconds.",
+          "editorNote": "For the afternoon you tune every detail of the room before a sale opens and still end up staring at a loading screen",
+          "variations": [
+            "Short: Countdown hits zero. The wind stops. My loading wheel doesn't.",
+            "Extended: Later the wind picked back up and the windmill blurred again. My page was still sitting one step before checkout."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-405",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://www.fox29.com/news/bruno-mars-raye-concert-philly-paused-due-severe-weather",
+      "sourceNote": "FOX 29：戶外體育場演唱會因暴風雨暫停、觀眾淋雨等到晚間復演；取「雨後散場、滿地淋濕的觀眾與物品」，改寫成撿起泡爛應援紙風車的散場畫面",
+      "tags": [
+        "散場",
+        "應援",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 散場時雨剛好收\n— 體育場外的地面反著路燈\n— 應援的紙風車泡爛了一整排\n— 有人蹲下撿起一支，對著它吹\n— 葉片黏在一起，他還是收進外套口袋",
+          "editorNote": "適合戶外場淋完雨、走出場館時手上什麼都沒拿、口袋卻多了一樣東西的晚上",
+          "variations": [
+            "短版：紙風車吹不動了，他還是帶回家。",
+            "延伸版：— 隔天那支紙風車晾在書桌上\n— 葉片乾了但捲起來了\n— 他沒去把它攤平"
+          ]
+        },
+        "en": {
+          "content": "— The rain let up right as the show let out.\n— The pavement outside the stadium held the streetlights.\n— A whole row of paper cheer pinwheels had gone soggy.\n— Someone crouched, picked one up, and blew on it.\n— The blades were stuck together. He put it in his jacket pocket anyway.",
+          "editorNote": "For the night you walk out of an outdoor show soaked, carrying nothing in your hands but something new in your pocket",
+          "variations": [
+            "Short: The pinwheel wouldn't turn. He took it home anyway.",
+            "Extended: — The next day the pinwheel sat drying on his desk.\n— The blades were dry but curled.\n— He didn't try to flatten them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-406",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://www.concertsandtickets.com/blog/concert-in-the-rain-guide/",
+      "sourceNote": "Concerts and Tickets 雨天演唱會指南：戶外場下雨該帶什麼、延演時怎麼辦；取「雨具被風吹走」這個實務問題，改寫成兩個朋友為河濱戶外場討論裝備的對話",
+      "tags": [
+        "演唱會",
+        "戶外",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「氣象說週六下午會起風。」\n「那場是戶外的嗎？」\n「河濱，看台沒有頂。」\n「我去買兩件輕便雨衣。」\n「雨衣會被吹起來，買有帽子的那種。」\n「帽子也會飛。」\n「那我用髮夾夾著。」",
+          "editorNote": "適合出發前一天還在研究氣象、把每一種天氣都先用一樣裝備擋掉的朋友",
+          "variations": [
+            "短版：「帽子也會飛。」「那我用髮夾夾著。」",
+            "延伸版：「髮夾夾得住嗎？」「我帶了六根。」"
+          ]
+        },
+        "en": {
+          "content": "\"The forecast says wind picks up Saturday afternoon.\"\n\"Is that show outdoors?\"\n\"Riverside. The stands don't have a roof.\"\n\"I'll grab two of those thin ponchos.\"\n\"Ponchos blow up like balloons. Get the kind with a hood.\"\n\"Hoods blow off too.\"\n\"Then I'll pin mine down with a hair clip.\"",
+          "editorNote": "For the friend who spends the night before a show reading forecasts and assigning one piece of gear to every kind of weather",
+          "variations": [
+            "Short: \"Hoods blow off too.\" \"Then I'll clip it down.\"",
+            "Extended: \"Will a hair clip hold?\" \"I'm bringing six.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-407",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://www.gvm.com.tw/article/125822",
+      "sourceNote": "遠見雜誌 2026 台灣演唱會開賣時間總整理：多數場次中午開賣；取「中午開賣、等待進入售票頁」的時段，改寫成被午後太陽曬燙的鍵盤與窗簾開一半的動作",
+      "tags": [
+        "搶票",
+        "開賣",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "中午十二點開賣，窗外的太陽把鍵盤曬得發燙。我拉上窗簾，又拉開一半，讓光剛好落在螢幕旁邊。十二點零三分，前面還有四萬多人。",
+          "editorNote": "適合中午搶票、把窗簾調來調去當成唯一能控制的事情的人",
+          "variations": [
+            "短版：鍵盤曬燙了，前面還有四萬多人。",
+            "延伸版：十二點二十分，太陽移到隔壁那棟樓後面，我把窗簾整個拉開，前面剩一萬兩千人。"
+          ]
+        },
+        "en": {
+          "content": "The sale opened at noon, and the sun through the window had the keyboard hot to the touch. I pulled the curtain shut, then opened it halfway so the light landed just beside the screen. At 12:03, there were still forty-some thousand people ahead of me.",
+          "editorNote": "For anyone buying tickets at noon who keeps adjusting the curtains because it's the only thing in the room they can control",
+          "variations": [
+            "Short: Hot keyboard. Forty thousand people ahead of me.",
+            "Extended: By 12:20 the sun had slid behind the building next door. I opened the curtain all the way. Twelve thousand to go."
+          ]
+        }
+      }
     }
   ]
 }
