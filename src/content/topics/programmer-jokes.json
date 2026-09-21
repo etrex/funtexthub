@@ -14864,6 +14864,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-543",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://www.neuff.co.uk/blogs/athletics-product-guides/how-to-choose-a-vaulting-pole",
+      "sourceNote": "Neuff 撐竿跳選竿指南：竿子太硬時換軟竿或握低一點；本則把「握低」接到舊系統維護上",
+      "tags": [
+        "工程師日常",
+        "技術債",
+        "維護"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你週末去練撐竿跳？」\n「對，教練說我那支竿子太硬，彎不下去。」\n「那怎麼辦？」\n「換一支軟一點的，或是握低一點。」\n「跟我們那套 legacy 系統一樣。」\n「系統也能換軟一點的嗎？」\n「不行，只能握低一點。」",
+          "editorNote": "適合在又要跟舊系統妥協的那天丟進工程群組；最後一句不用解釋，被舊系統折磨過的人都懂握低是什麼意思。",
+          "variations": [
+            "短版：「竿子太硬怎麼辦？」「換軟的，或握低一點。」「那舊系統呢？」「只能握低。」",
+            "延伸版：「握低一點會怎樣？」「跳不高，但比較不會摔。」「嗯，這季就這樣吧。」"
+          ]
+        },
+        "en": {
+          "content": "\"You've been doing pole vault on weekends?\"\n\"Yeah. My coach says my pole's too stiff, it won't bend.\"\n\"So what do you do?\"\n\"Switch to a softer one, or grip it lower.\"\n\"Sounds like our legacy system.\"\n\"Can you swap the system for a softer one?\"\n\"Nope. You just grip lower.\"",
+          "editorNote": "Drop this in the team chat on a day you've had to compromise with the old codebase again. Nobody who has maintained legacy code needs \"grip lower\" explained.",
+          "variations": [
+            "Short version: \"Pole's too stiff?\" \"Get a softer one or grip lower.\" \"And the legacy system?\" \"Grip lower.\"",
+            "Extended: \"What happens if you grip lower?\" \"You don't go as high, but you fall less.\" \"Yeah. That's the plan for this quarter.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-544",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://www.jesuisundev.com/en/your-time-estimate-is-a-joke/",
+      "sourceNote": "Je suis un dev 談時程估算被硬壓的文章；本則把「把標準拉高」寫成撐竿跳橫桿，每個 sprint 加五公分",
+      "tags": [
+        "工程師日常",
+        "職場",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「老闆說這季要把標準往上調。」\n「調多少？」\n「每個 sprint 加五公分。」\n「公分？story point 哪有在用公分算的。」\n「他昨天去看撐竿跳決賽，回來就改用公分了。」\n「那橫桿掉下來算誰的？」\n「算跳的人的。」",
+          "editorNote": "給剛被要求「下個 sprint 再多做一點」的團隊；最後一句把責任歸屬講得很乾脆，比抱怨有效。",
+          "variations": [
+            "短版：「每個 sprint 加五公分。」「橫桿掉了算誰的？」「算跳的人。」",
+            "延伸版：「那架橫桿的人呢？」「他在看台上，拿著望遠鏡。」"
+          ]
+        },
+        "en": {
+          "content": "\"The boss says we're raising the bar this quarter.\"\n\"By how much?\"\n\"Five centimeters per sprint.\"\n\"Centimeters? Since when are story points measured in centimeters?\"\n\"He watched the pole vault final yesterday. Came back using centimeters.\"\n\"So when the bar falls, whose fault is it?\"\n\"The guy who jumped.\"",
+          "editorNote": "For any team that was just told to squeeze a little more into next sprint. The last line settles accountability faster than any retro could.",
+          "variations": [
+            "Short version: \"Five centimeters a sprint.\" \"Who owns it when the bar drops?\" \"Whoever jumped.\"",
+            "Extended: \"And the person who set the bar?\" \"Up in the stands with binoculars.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-545",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://programmerhumor.io/memes/estimation",
+      "sourceNote": "ProgrammerHumor 估算與版控迷因合集；本則改寫成追問 commit 訊息一路往回翻的對話",
+      "tags": [
+        "工程師日常",
+        "Git",
+        "程式碼品質"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個 commit 訊息寫『修正』，是修正什麼？」\n「修正上一個 commit。」\n「上一個寫什麼？」\n「修正。」\n「再上一個呢？」\n「『先這樣』。」",
+          "editorNote": "code review 時翻 git log 翻到一半的人最有感；可以貼在團隊 commit 規範文件的最上面當反例。",
+          "variations": [
+            "短版：「修正什麼？」「修正上一個。」「上一個寫什麼？」「修正。」",
+            "延伸版：「再往前呢？」「initial commit。」「那中間兩百多個呢？」「都是修正。」"
+          ]
+        },
+        "en": {
+          "content": "\"This commit message just says 'fix.' Fix what?\"\n\"The previous commit.\"\n\"And what does that one say?\"\n\"Fix.\"\n\"And the one before that?\"\n\"'Good enough for now.'\"",
+          "editorNote": "Best appreciated by anyone halfway through scrolling a git log during code review. Works nicely at the top of a commit-message style guide as the example of what not to do.",
+          "variations": [
+            "Short version: \"Fix what?\" \"The last commit.\" \"What does that one say?\" \"Fix.\"",
+            "Extended: \"And before that?\" \"Initial commit.\" \"And the two hundred in between?\" \"All fixes.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-546",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://www.neuff.co.uk/blogs/athletics-product-guides/how-to-choose-a-vaulting-pole",
+      "sourceNote": "Neuff 撐竿跳選竿指南；本則借撐竿跳情境，寫 AI 產出的計分程式把碰掉橫桿判成成功",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "測試"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你叫 AI 幫你寫撐竿跳的計分程式？」\n「對，三秒就寫好了。」\n「測過嗎？」\n「測過，每個選手都破了世界紀錄。」\n「連碰掉橫桿的那幾個也破？」\n「尤其是碰掉橫桿的那幾個。」",
+          "editorNote": "適合 vibe coding 熱潮下的團隊聊天：寫得快和寫得對是兩件事，這則讓測試結果自己說話。",
+          "variations": [
+            "短版：「測過了，每個人都破世界紀錄。」「碰掉橫桿的也是？」「尤其是他們。」",
+            "延伸版：「那沒碰掉的呢？」「全部判失敗，還附上一段很有禮貌的錯誤訊息。」"
+          ]
+        },
+        "en": {
+          "content": "\"You had AI write the pole vault scoring program?\"\n\"Yep. Took three seconds.\"\n\"Did you test it?\"\n\"I did. Every athlete broke the world record.\"\n\"Even the ones who knocked the bar down?\"\n\"Especially the ones who knocked the bar down.\"",
+          "editorNote": "Good for team chat in the middle of the vibe coding craze: fast code and correct code are two different things, and the test results do all the talking here.",
+          "variations": [
+            "Short version: \"Everyone broke the world record.\" \"Even the ones who hit the bar?\" \"Especially them.\"",
+            "Extended: \"And the ones who cleared it?\" \"All marked failed, with a very polite error message.\""
+          ]
+        }
+      }
     }
   ]
 }
