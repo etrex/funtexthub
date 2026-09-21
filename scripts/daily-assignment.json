@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-21",
   "min_scene_items": 2,
   "first_batch": [],
   "ordinal_allowed": [
@@ -11,16 +11,16 @@
   ],
   "ordinal_quota_per_topic": 1,
   "named_terms": {
-    "麻糬": "food-jokes",
-    "鹽可頌": "couple-jokes",
-    "白吐司": "witty-comebacks"
+    "禮券": "workplace-quotes",
+    "敬師": "witty-comebacks",
+    "家長會": "mom-quotes"
   },
   "institutional_frames": [
     "F13"
   ],
   "institutional_topics": [
-    "stock-investor-quotes",
-    "summer-electric-quotes"
+    "healing-quotes",
+    "sweet-quotes"
   ],
   "form_min_distinct": 2,
   "form_reader_visible": true,
@@ -31,385 +31,396 @@
     "F15"
   ],
   "anti_humor_topics": [
-    "holiday-jokes",
-    "programmer-jokes"
+    "food-jokes",
+    "dark-humor"
   ],
   "timely_topics": [
-    "couple-jokes",
-    "food-jokes",
-    "witty-comebacks"
+    "mom-quotes",
+    "witty-comebacks",
+    "workplace-quotes"
   ],
   "timely_banned_terms": [
     "中秋",
-    "月餅",
-    "烤肉",
-    "教師節",
-    "連假",
-    "國慶",
-    "雙十",
-    "立秋",
-    "處暑",
-    "白露",
-    "秋分",
-    "節氣",
-    "特報",
-    "氣象預報",
-    "沒有秋天",
-    "沒有冷氣聲",
-    "夏天先走",
-    "溜冰場",
-    "撞鐘",
-    "吹糖",
-    "滑翔傘",
-    "飛鏢",
-    "太極拳",
-    "碗粿",
+    "劍道",
     "卡丁車",
-    "鋁門窗",
-    "羅盤",
-    "顯微鏡",
-    "煤油燈",
+    "可頌",
+    "吐司",
+    "吹糖",
+    "國慶",
     "地球儀",
-    "劍道"
+    "夏天先走",
+    "太極拳",
+    "家長會",
+    "撞鐘",
+    "教師節",
+    "敬師",
+    "月餅",
+    "氣象預報",
+    "沒有冷氣聲",
+    "沒有秋天",
+    "溜冰場",
+    "滑翔傘",
+    "烤肉",
+    "煤油燈",
+    "特報",
+    "白吐司",
+    "白露",
+    "碗粿",
+    "禮券",
+    "禮金",
+    "秋分",
+    "立秋",
+    "節氣",
+    "羅盤",
+    "處暑",
+    "補休",
+    "謝師",
+    "連假",
+    "鋁門窗",
+    "雙十",
+    "顯微鏡",
+    "飛鏢",
+    "鹽可頌",
+    "麻糬"
   ],
   "topics": {
     "absurd-wisdom": {
-      "frame": "F10",
-      "scene_class": "彈簧床",
-      "scene": "彈簧床",
+      "frame": "F1",
+      "scene_class": "萬年曆",
+      "scene": "萬年曆",
       "scene_tokens": [
-        "彈簧床"
+        "萬年曆"
       ]
     },
     "adulting-quotes": {
-      "frame": "F2",
-      "scene_class": "鍋貼",
-      "scene": "鍋貼",
+      "frame": "F10",
+      "scene_class": "水晶球",
+      "scene": "水晶球",
       "scene_tokens": [
-        "鍋貼"
+        "水晶球"
       ]
     },
     "breakup-quotes": {
-      "frame": "F9",
-      "scene_class": "牛舌餅",
-      "scene": "牛舌餅",
+      "frame": "F12",
+      "scene_class": "飛盤",
+      "scene": "飛盤",
       "scene_tokens": [
-        "牛舌餅"
+        "飛盤"
       ]
     },
     "cat-quotes": {
-      "frame": "F3",
-      "scene_class": "衝浪板",
-      "scene": "衝浪板",
+      "frame": "F5",
+      "scene_class": "飛盤",
+      "scene": "飛盤",
       "scene_tokens": [
-        "衝浪板"
+        "飛盤"
       ]
     },
     "cdrama-period-quotes": {
-      "frame": "F9",
-      "scene_class": "八音盒",
-      "scene": "八音盒",
+      "frame": "F3",
+      "scene_class": "沙畫",
+      "scene": "沙畫",
       "scene_tokens": [
-        "八音盒"
+        "沙畫"
       ]
     },
     "cheesy-pickups": {
-      "frame": "F6",
-      "scene_class": "彈簧床",
-      "scene": "彈簧床",
+      "frame": "F8",
+      "scene_class": "吊床",
+      "scene": "吊床",
       "scene_tokens": [
-        "彈簧床"
+        "吊床"
       ]
     },
     "cold-jokes": {
-      "frame": "F5",
-      "scene_class": "呼拉圈",
-      "scene": "呼拉圈",
+      "frame": "F3",
+      "scene_class": "萬年曆",
+      "scene": "萬年曆",
       "scene_tokens": [
-        "呼拉圈"
+        "萬年曆"
       ]
     },
     "concert-ticket-quotes": {
-      "frame": "F11",
-      "scene_class": "捕夢網",
-      "scene": "捕夢網",
+      "frame": "F14",
+      "scene_class": "風車",
+      "scene": "風車",
       "scene_tokens": [
-        "捕夢網"
+        "風車"
       ]
     },
     "couple-jokes": {
-      "frame": "F4",
-      "scene_class": "中秋烤肉・烤的東西（不是烤的人）",
-      "scene": "鹽可頌",
+      "frame": "F3",
+      "scene_class": "風車",
+      "scene": "風車",
       "scene_tokens": [
-        "鹽可頌"
-      ],
-      "timely": "mid-autumn-bbq-food-side"
+        "風車"
+      ]
     },
     "dark-humor": {
-      "frame": "F7",
-      "scene_class": "衝浪板",
-      "scene": "衝浪板",
+      "frame": "F15",
+      "scene_class": "棒球帽",
+      "scene": "棒球帽",
       "scene_tokens": [
-        "衝浪板"
+        "棒球帽"
       ]
     },
     "diet-quotes": {
-      "frame": "F10",
-      "scene_class": "盪鞦韆",
-      "scene": "盪鞦韆",
+      "frame": "F9",
+      "scene_class": "撐竿跳",
+      "scene": "撐竿跳",
       "scene_tokens": [
-        "盪鞦韆"
+        "撐竿跳"
       ]
     },
     "dog-quotes": {
-      "frame": "F8",
-      "scene_class": "燈謎",
-      "scene": "燈謎",
+      "frame": "F7",
+      "scene_class": "碰碰車",
+      "scene": "碰碰車",
       "scene_tokens": [
-        "燈謎"
+        "碰碰車"
       ]
     },
     "drama-binge-quotes": {
-      "frame": "F12",
-      "scene_class": "捕夢網",
-      "scene": "捕夢網",
+      "frame": "F4",
+      "scene_class": "飛盤",
+      "scene": "飛盤",
       "scene_tokens": [
-        "捕夢網"
+        "飛盤"
       ]
     },
     "drama-quotes": {
-      "frame": "F9",
-      "scene_class": "燈謎",
-      "scene": "燈謎",
+      "frame": "F1",
+      "scene_class": "沙畫",
+      "scene": "沙畫",
       "scene_tokens": [
-        "燈謎"
+        "沙畫"
       ]
     },
     "exam-quotes": {
-      "frame": "F5",
-      "scene_class": "牛舌餅",
-      "scene": "牛舌餅",
+      "frame": "F8",
+      "scene_class": "棒球帽",
+      "scene": "棒球帽",
       "scene_tokens": [
-        "牛舌餅"
+        "棒球帽"
       ]
     },
     "fathers-day-quotes": {
-      "frame": "F3",
-      "scene_class": "捕夢網",
-      "scene": "捕夢網",
+      "frame": "F7",
+      "scene_class": "水晶球",
+      "scene": "水晶球",
       "scene_tokens": [
-        "捕夢網"
+        "水晶球"
       ]
     },
     "fitness-quotes": {
-      "frame": "F4",
-      "scene_class": "牛舌餅",
-      "scene": "牛舌餅",
+      "frame": "F6",
+      "scene_class": "冰壺",
+      "scene": "冰壺",
       "scene_tokens": [
-        "牛舌餅"
+        "冰壺"
       ]
     },
     "food-jokes": {
-      "frame": "F4",
-      "scene_class": "中秋烤肉・烤的東西（不是烤的人）",
-      "scene": "麻糬",
+      "frame": "F15",
+      "scene_class": "泡泡水",
+      "scene": "泡泡水",
       "scene_tokens": [
-        "麻糬"
-      ],
-      "timely": "mid-autumn-bbq-food-side"
+        "泡泡水"
+      ]
     },
     "graduation-quotes": {
-      "frame": "F12",
-      "scene_class": "雪橇犬",
-      "scene": "雪橇犬",
+      "frame": "F14",
+      "scene_class": "萬年曆",
+      "scene": "萬年曆",
       "scene_tokens": [
-        "雪橇犬"
+        "萬年曆"
       ]
     },
     "healing-quotes": {
-      "frame": "F11",
-      "scene_class": "八音盒",
-      "scene": "八音盒",
+      "frame": "F13",
+      "scene_class": "吊床",
+      "scene": "吊床",
       "scene_tokens": [
-        "八音盒"
+        "吊床"
       ]
     },
     "holiday-jokes": {
-      "frame": "F15",
-      "scene_class": "相撲",
-      "scene": "相撲",
+      "frame": "F8",
+      "scene_class": "撐竿跳",
+      "scene": "撐竿跳",
       "scene_tokens": [
-        "相撲"
+        "撐竿跳"
       ]
     },
     "human-design-quotes": {
-      "frame": "F7",
-      "scene_class": "八音盒",
-      "scene": "八音盒",
+      "frame": "F1",
+      "scene_class": "冰壺",
+      "scene": "冰壺",
       "scene_tokens": [
-        "八音盒"
+        "冰壺"
       ]
     },
     "insomnia-quotes": {
-      "frame": "F6",
-      "scene_class": "蚵嗲",
-      "scene": "蚵嗲",
+      "frame": "F7",
+      "scene_class": "泡泡水",
+      "scene": "泡泡水",
       "scene_tokens": [
-        "蚵嗲"
+        "泡泡水"
       ]
     },
     "korean-drama-quotes": {
-      "frame": "F2",
-      "scene_class": "蚵嗲",
-      "scene": "蚵嗲",
+      "frame": "F4",
+      "scene_class": "風車",
+      "scene": "風車",
       "scene_tokens": [
-        "蚵嗲"
+        "風車"
       ]
     },
     "mom-quotes": {
-      "frame": "F3",
-      "scene_class": "燈謎",
-      "scene": "燈謎",
+      "frame": "F2",
+      "scene_class": "教師節・敬師禮金（制度側：老師是領薪水的人）",
+      "scene": "家長會",
       "scene_tokens": [
-        "燈謎"
-      ]
+        "家長會"
+      ],
+      "timely": "teachers-day-gift-voucher"
     },
     "motivational-quotes": {
-      "frame": "F2",
-      "scene_class": "雪橇犬",
-      "scene": "雪橇犬",
+      "frame": "F9",
+      "scene_class": "吊床",
+      "scene": "吊床",
       "scene_tokens": [
-        "雪橇犬"
+        "吊床"
       ]
     },
     "pet-memorial-quotes": {
-      "frame": "F1",
-      "scene_class": "雪橇犬",
-      "scene": "雪橇犬",
+      "frame": "F5",
+      "scene_class": "水晶球",
+      "scene": "水晶球",
       "scene_tokens": [
-        "雪橇犬"
+        "水晶球"
       ]
     },
     "programmer-jokes": {
-      "frame": "F15",
-      "scene_class": "呼拉圈",
-      "scene": "呼拉圈",
+      "frame": "F4",
+      "scene_class": "撐竿跳",
+      "scene": "撐竿跳",
       "scene_tokens": [
-        "呼拉圈"
+        "撐竿跳"
       ]
     },
     "renting-quotes": {
-      "frame": "F10",
-      "scene_class": "衝浪板",
-      "scene": "衝浪板",
+      "frame": "F11",
+      "scene_class": "冰壺",
+      "scene": "冰壺",
       "scene_tokens": [
-        "衝浪板"
+        "冰壺"
       ]
     },
     "self-love-quotes": {
-      "frame": "F14",
-      "scene_class": "彈簧床",
-      "scene": "彈簧床",
+      "frame": "F2",
+      "scene_class": "沙畫",
+      "scene": "沙畫",
       "scene_tokens": [
-        "彈簧床"
+        "沙畫"
       ]
     },
     "service-quotes": {
-      "frame": "F1",
-      "scene_class": "蚵嗲",
-      "scene": "蚵嗲",
+      "frame": "F11",
+      "scene_class": "擊劍",
+      "scene": "擊劍",
       "scene_tokens": [
-        "蚵嗲"
+        "擊劍"
       ]
     },
     "slang-quotes": {
-      "frame": "F12",
-      "scene_class": "高爾夫",
-      "scene": "高爾夫",
+      "frame": "F10",
+      "scene_class": "碰碰車",
+      "scene": "碰碰車",
       "scene_tokens": [
-        "高爾夫"
+        "碰碰車"
       ]
     },
     "stock-investor-quotes": {
-      "frame": "F13",
-      "scene_class": "鍋貼",
-      "scene": "鍋貼",
+      "frame": "F11",
+      "scene_class": "碰碰車",
+      "scene": "碰碰車",
       "scene_tokens": [
-        "鍋貼"
+        "碰碰車"
       ]
     },
     "student-quotes": {
-      "frame": "F8",
-      "scene_class": "呼拉圈",
-      "scene": "呼拉圈",
+      "frame": "F12",
+      "scene_class": "蠟像",
+      "scene": "蠟像",
       "scene_tokens": [
-        "呼拉圈"
+        "蠟像"
       ]
     },
     "summer-electric-quotes": {
-      "frame": "F13",
-      "scene_class": "盪鞦韆",
-      "scene": "盪鞦韆",
+      "frame": "F2",
+      "scene_class": "蠟像",
+      "scene": "蠟像",
       "scene_tokens": [
-        "盪鞦韆"
+        "蠟像"
       ]
     },
     "sweet-quotes": {
-      "frame": "F14",
-      "scene_class": "相撲",
-      "scene": "相撲",
+      "frame": "F13",
+      "scene_class": "蠟像",
+      "scene": "蠟像",
       "scene_tokens": [
-        "相撲"
+        "蠟像"
       ]
     },
     "travel-quotes": {
-      "frame": "F5",
-      "scene_class": "高爾夫",
-      "scene": "高爾夫",
+      "frame": "F9",
+      "scene_class": "泡泡水",
+      "scene": "泡泡水",
       "scene_tokens": [
-        "高爾夫"
+        "泡泡水"
       ]
     },
     "wedding-quotes": {
-      "frame": "F6",
-      "scene_class": "盪鞦韆",
-      "scene": "盪鞦韆",
+      "frame": "F10",
+      "scene_class": "擊劍",
+      "scene": "擊劍",
       "scene_tokens": [
-        "盪鞦韆"
+        "擊劍"
       ]
     },
     "witty-comebacks": {
-      "frame": "F1",
-      "scene_class": "中秋烤肉・烤的東西（不是烤的人）",
-      "scene": "白吐司",
+      "frame": "F6",
+      "scene_class": "教師節・敬師禮金（制度側：老師是領薪水的人）",
+      "scene": "敬師",
       "scene_tokens": [
-        "白吐司"
+        "敬師"
       ],
-      "timely": "mid-autumn-bbq-food-side"
+      "timely": "teachers-day-gift-voucher"
     },
     "workplace-quotes": {
-      "frame": "F7",
-      "scene_class": "高爾夫",
-      "scene": "高爾夫",
+      "frame": "F6",
+      "scene_class": "教師節・敬師禮金（制度側：老師是領薪水的人）",
+      "scene": "禮券",
       "scene_tokens": [
-        "高爾夫"
-      ]
+        "禮券"
+      ],
+      "timely": "teachers-day-gift-voucher"
     },
     "worldcup-quotes": {
-      "frame": "F11",
-      "scene_class": "相撲",
-      "scene": "相撲",
+      "frame": "F14",
+      "scene_class": "擊劍",
+      "scene": "擊劍",
       "scene_tokens": [
-        "相撲"
+        "擊劍"
       ]
     },
     "zodiac-quotes": {
-      "frame": "F14",
-      "scene_class": "鍋貼",
-      "scene": "鍋貼",
+      "frame": "F12",
+      "scene_class": "棒球帽",
+      "scene": "棒球帽",
       "scene_tokens": [
-        "鍋貼"
+        "棒球帽"
       ]
     }
   }
