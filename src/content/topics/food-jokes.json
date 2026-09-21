@@ -12862,6 +12862,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-458",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "Wikipedia「Anti-humor」條目：反笑話靠「該有的笑點沒有出現」製造落差；改寫成小孩問泡泡水能不能喝、大人每次都照實回答成分的對白",
+      "tags": [
+        "對話",
+        "冷笑話",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「為什麼泡泡水不能喝？」\n「裡面有洗碗精，喝了會拉肚子。」\n「那加了砂糖的呢？」\n「還是有洗碗精。」\n「那我可以舔一下嗎？」\n「不行，舔一下也是洗碗精。」",
+          "editorNote": "有人在群組裡出謎題、大家都在等神回覆時，丟這段進去讓氣氛安靜三秒。",
+          "variations": [
+            "短版：「泡泡水能喝嗎？」「不行，有洗碗精。」",
+            "延伸版：「那草莓口味的泡泡水呢？」「只有顏色是草莓，洗碗精沒有少。」"
+          ]
+        },
+        "en": {
+          "content": "\"Why can't you drink bubble solution?\"\n\"It has dish soap in it. You'd get a stomachache.\"\n\"What about the kind with sugar added?\"\n\"That one has dish soap in it too.\"\n\"Can I just lick it once?\"\n\"No. One lick is still dish soap.\"",
+          "editorNote": "Drop this into the group chat when everyone is waiting for a clever punchline and you want three seconds of silence.",
+          "variations": [
+            "Short version: \"Can you drink bubble solution?\" \"No. Dish soap.\"",
+            "Extended: \"What about the strawberry bubble solution?\" \"The color is strawberry. The dish soap is still all there.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-459",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://discovery.ettoday.net/news/1408143",
+      "sourceNote": "ETtoday探索「自製泡泡水超簡單！421黃金比例」：水、洗碗精、膠水 4:2:1 調泡泡水；改寫成小孩在公園把甜筒和泡泡水各自用完就回家、完全沒有轉折的敘述",
+      "tags": [
+        "冷笑話",
+        "甜點",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "小男孩左手拿著甜筒，右手拿著一瓶泡泡水走進公園。他舔甜筒，也吹了幾個泡泡。甜筒吃完了，瓶子也見底了。他把空瓶丟進垃圾桶，走路回家。",
+          "editorNote": "朋友說「我講個笑話給你聽」然後講了十分鐘都沒有笑點時，用這則回敬他。",
+          "variations": [
+            "短版：男孩帶甜筒和泡泡水去公園，兩樣都用完，他就回家了。",
+            "延伸版：隔天他又去了公園，這次只帶甜筒，吃完也回家了。"
+          ]
+        },
+        "en": {
+          "content": "A little boy walks into the park with an ice cream cone in his left hand and a bottle of bubble solution in his right. He licks the cone and blows a few bubbles. The cone runs out, and so does the bottle. He throws the empty bottle in the trash and walks home.",
+          "editorNote": "Fire this back at the friend who announced a joke and then talked for ten minutes without landing one.",
+          "variations": [
+            "Short version: A boy takes ice cream and bubbles to the park, finishes both, and goes home.",
+            "Extended: The next day he goes back with just the ice cream. He finishes it and goes home."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-460",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "Wikipedia「Anti-humor」條目提到反笑話常借用「某某走進一家店」這類經典開場卻不給笑點；改寫成番茄走進麵店、因為是番茄所以不能點餐",
+      "tags": [
+        "冷笑話",
+        "擬人",
+        "麵食"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "一顆番茄滾進了麵店。老闆問它想吃什麼，它沒有回答，因為番茄不會說話。老闆把它撿起來，放回門口的菜籃裡。",
+          "editorNote": "聚餐時有人說「欸我想到一個番茄的笑話」，搶在他前面先講這個版本。",
+          "variations": [
+            "短版：番茄滾進麵店，沒辦法點餐，被放回菜籃。",
+            "延伸版：下午老闆切了那顆番茄，加進了番茄蛋麵裡。"
+          ]
+        },
+        "en": {
+          "content": "A tomato rolls into a noodle shop. The owner asks what it would like to eat, and it says nothing, because tomatoes can't talk. The owner picks it up and puts it back in the vegetable basket by the door.",
+          "editorNote": "When someone at dinner says \"wait, I know a tomato joke,\" beat them to it with this one.",
+          "variations": [
+            "Short version: A tomato rolls into a noodle shop, can't order, and gets put back in the basket.",
+            "Extended: That afternoon the owner slices it up for a bowl of tomato egg noodles."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-461",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "Wikipedia「Anti-humor」條目：以正確、平淡的答案取代預期的笑點；改寫成看似要爆梗的「荷包蛋秘訣」清單，結果每一條都是正常做法",
+      "tags": [
+        "冷笑話",
+        "厭世",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "荷包蛋煎得好吃的秘訣\n— 蛋要新鮮\n— 鍋子先熱再下油\n— 火轉中小\n— 蛋白凝固就起鍋\n— 趁熱吃",
+          "editorNote": "看到標題寫「秘訣」「沒人知道」的料理文太多時，貼這份清單當作解藥。",
+          "variations": [
+            "短版：荷包蛋秘訣：新鮮的蛋、熱鍋、中小火、趁熱吃。",
+            "延伸版：荷包蛋煎失敗的原因\n— 火太大\n— 放太久\n— 太早翻面"
+          ]
+        },
+        "en": {
+          "content": "The secret to a perfect fried egg\n— Use a fresh egg.\n— Heat the pan before adding oil.\n— Turn the flame to medium-low.\n— Take it off once the white sets.\n— Eat it while it's hot.",
+          "editorNote": "The antidote to every recipe post titled \"the secret nobody tells you.\"",
+          "variations": [
+            "Short version: Fried egg secrets: fresh egg, hot pan, medium-low heat, eat it hot.",
+            "Extended: Why your fried egg failed\n— The heat was too high.\n— You left it too long.\n— You flipped it too early."
+          ]
+        }
+      }
     }
   ]
 }

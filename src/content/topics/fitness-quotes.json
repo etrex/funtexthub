@@ -12067,6 +12067,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-402",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://pittsburghcurlingclub.com/curling-fitness-workout/",
+      "sourceNote": "Pittsburgh Curling Club 談冰壺算不算運動，提到刷冰短時間內就讓心率飆高；改寫成重訓咖第一次上冰刷冰就喘到不動的場面",
+      "tags": [
+        "健身房",
+        "有氧",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "教練站在冰上，說冰壺是很溫和的運動，大家放輕鬆就好。\n阿凱深蹲一百四十公斤，刷冰刷了二十秒，就撐著刷子站在原地不動，說這比腿日還喘。\n他手錶到現在還在震，剛剛那二十秒，心率跳到多少？",
+          "editorNote": "專門獻給覺得「那種運動我隨便玩」的重訓朋友，揪團去體驗新運動前先傳給他",
+          "variations": [
+            "短版：刷冰二十秒，一百四十公斤的腿撐在刷子上不動。他的手錶剛剛跳到幾下？",
+            "延伸版：教練說冰壺很溫和。阿凱蹲一百四十，刷完一壺就把刷子當拐杖，嘴裡說腿日都沒這麼喘。手錶一直在震，螢幕上那個數字是一百八還是一百九？"
+          ]
+        },
+        "en": {
+          "content": "The coach stood on the ice and said curling was a gentle sport, so everyone could relax.\nKai squats a hundred and forty kilos, and after twenty seconds of sweeping he stood frozen, propped on the broom, saying it was worse than leg day.\nHis watch is still buzzing. What did his heart rate hit in those twenty seconds?",
+          "editorNote": "For the lifting friend who thinks any other sport is a warm-up; send it before the group tries something new",
+          "variations": [
+            "Short: Twenty seconds of sweeping, and a 140-kilo squatter is leaning on the broom. What number did his watch show?",
+            "Longer: The coach called curling gentle. Kai, who squats 140, used the broom as a cane after one stone and swore leg day was never this bad. His watch keeps buzzing. Was that 180 on the screen, or 190?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-403",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://empoweredperformance.ca/curling-fitness-tip-my-4-favourite-exercises-for-powerful-sweeping/",
+      "sourceNote": "Empowered Performance 談冰壺刷冰的體能需求（短時間高強度、刷完休息一分鐘）；借用「刷冰＝衝刺、停下＝休息」的節奏，改寫成跟著電視冰壺轉播做間歇跑的對話",
+      "tags": [
+        "健身房",
+        "有氧",
+        "搞笑"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你跑步機前面那台電視在播什麼？」\n「冰壺，重播的。」\n「看冰壺也跑得下去？」\n「他們刷冰我就加速，停下來我就用走的。」\n「這一局他們從頭刷到尾耶。」\n「所以你猜我現在速度調到幾？」",
+          "editorNote": "把轉播當間歇訓練的計時器，適合傳給跑步機上永遠在看電視的那個人",
+          "variations": [
+            "短版：「他們刷冰我就衝。」「這局一路刷到底。」「那你現在速度幾？」",
+            "延伸版：「電視在重播冰壺？」「對，我拿來當間歇。」「怎麼算？」「刷冰就衝，壺停了就走。」「這局四個人輪流刷，一秒都沒停過。」「……你覺得我腳下這台現在是十二還是十三？」"
+          ]
+        },
+        "en": {
+          "content": "\"What's on the TV in front of your treadmill?\"\n\"Curling. A replay.\"\n\"You can actually run to curling?\"\n\"When they sweep, I sprint. When they stop, I walk.\"\n\"They've been sweeping this whole end.\"\n\"So guess what speed I'm set to right now?\"",
+          "editorNote": "Using a sports replay as an interval timer; perfect for the person who always has the TV on during treadmill runs",
+          "variations": [
+            "Short: \"When they sweep, I sprint.\" \"They swept the whole end.\" \"So what's your speed now?\"",
+            "Longer: \"Is that a curling replay?\" \"Yep, it's my interval timer.\" \"How does that work?\" \"Sweeping means sprint, stone stops means walk.\" \"They haven't stopped sweeping once this end.\" \"...Is this thing on twelve or thirteen right now, you think?\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-404",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://skating.tw/curling/taiwan",
+      "sourceNote": "台灣哪裡能體驗冰壺的整理頁，提到台灣真冰體驗名額很少、多數人先玩地板冰壺；改寫成體驗課結束後健身包裡多出來的東西清單",
+      "tags": [
+        "器材",
+        "痠痛",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 一支借來忘了還的冰壺刷\n— 兩片撕下來還黏手的痠痛貼布\n— 一雙左腳滑、右腳不滑的鞋\n— 一張寫著下週五的體驗券\n— 手機裡十七張跌倒的連拍\n— 券上的集合時間是七點還是七點半？",
+          "editorNote": "新運動體驗完的健身包都長這樣，適合當作揪第二次的邀請，順便確認大家有沒有記得時間",
+          "variations": [
+            "短版：— 一支沒還的冰壺刷\n— 十七張跌倒連拍\n— 下週五那張券，寫的是七點還是七點半？",
+            "延伸版：— 一支借來的冰壺刷\n— 兩片黏手的貼布\n— 一雙只有一腳會滑的鞋\n— 一張下週五的體驗券\n— 十七張連拍，每張都在往後倒\n— 那張券現在夾在哪個口袋裡？"
+          ]
+        },
+        "en": {
+          "content": "— One curling broom, borrowed and never returned.\n— Two pain patches, peeled off and still sticky.\n— One pair of shoes: the left one slides, the right one doesn't.\n— One trial pass for next Friday.\n— Seventeen burst-mode photos of me falling.\n— Does the pass say we meet at seven, or seven thirty?",
+          "editorNote": "What every gym bag looks like after trying a new sport; send it as the invite for round two and a check on who remembers the time",
+          "variations": [
+            "Short: — One unreturned curling broom.\n— Seventeen burst photos of falling.\n— Next Friday's pass: seven, or seven thirty?",
+            "Longer: — One borrowed curling broom.\n— Two sticky patches.\n— One pair of shoes, only one of which slides.\n— One trial pass for next Friday.\n— Seventeen burst shots, every one mid-fall.\n— Which pocket is that pass in now?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-405",
+      "dateAdded": "2026-09-21",
+      "sourceUrl": "https://pittsburghcurlingclub.com/curling-fitness-workout/",
+      "sourceNote": "同一篇冰壺體能文提到核心穩定是這項運動的重點；取「核心訓練」的線索，改寫成健身房白板月挑戰上有人中途消失的場面",
+      "tags": [
+        "健身房",
+        "觀察",
+        "拖延"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "健身房白板上的月挑戰寫著平板支撐累計三十分鐘。每個名字底下都畫滿了正字，只有小周那欄從八號起就空著。他那條藍毛巾，現在還掛在幾號置物櫃的門把上？",
+          "editorNote": "每個健身房都有一欄空掉的挑戰表，適合在月底前丟給那個默默消失的朋友",
+          "variations": [
+            "短版：平板支撐挑戰表上，只有小周那欄從八號開始是空白。他的藍毛巾還掛在哪一格？",
+            "延伸版：白板上寫著這個月平板支撐要撐滿三十分鐘，大家的正字畫到快擠出格子。小周那欄停在八號。櫃子門把上那條藍毛巾，是他的沒錯吧，幾號櫃？"
+          ]
+        },
+        "en": {
+          "content": "The whiteboard at the gym says this month's challenge is thirty total minutes of planks. Every name has a column full of tally marks, except Joe's, which has been blank since the eighth. That blue towel of his, which locker handle is it still hanging on?",
+          "editorNote": "Every gym has one challenge chart with an empty column; send it before month's end to the friend who quietly vanished",
+          "variations": [
+            "Short: On the plank challenge chart, only Joe's column goes blank after the eighth. Which locker is his blue towel still on?",
+            "Longer: The whiteboard says thirty plank minutes this month, and everyone's tallies are spilling out of their boxes. Joe's stops on the eighth. That blue towel on the locker handle is definitely his, right? Which number is that locker?"
+          ]
+        }
+      }
     }
   ]
 }
