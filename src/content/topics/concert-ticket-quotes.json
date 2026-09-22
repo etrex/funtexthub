@@ -11546,6 +11546,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-408",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://tw.news.yahoo.com/bigbang%E4%B8%96%E5%B7%A1%E5%8F%B0%E7%81%A3%E5%94%B14%E5%A4%A9-%E6%9C%83%E5%93%A1%E5%84%AA%E5%85%88%E8%B3%BC%E9%96%8B%E6%94%BE%E7%94%B3%E8%AB%8B-%E6%90%B6%E7%A5%A8%E6%94%BB%E7%95%A5-%E6%AC%A1%E7%9C%8B-032500705.html",
+      "sourceNote": "台北大巨蛋加開場次新聞：原本售完的場次臨時加開新日期，粉絲要重新搶票；取「以為放下了，結果加場又心動」的心態改寫成朋友對話",
+      "tags": [
+        "加場",
+        "搶票",
+        "朋友"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「大巨蛋加開一場你知道嗎？」\n「我知道，剛剛滑到公告。」\n「你不是說已經放下了？」\n「我是說我放下第一場。」",
+          "editorNote": "適合官宣加場當天，轉給那個原本說好「看開了」卻立刻心動的朋友",
+          "variations": [
+            "短版：「加場了。」「我剛剛還在說要放下欸。」",
+            "延伸版：她隔天傳訊息說鬧鐘設成跟上次同一個時間，只是把日期改了，其他什麼都沒變。"
+          ]
+        },
+        "en": {
+          "content": "\"Extra date just dropped, did you see?\"\n\"Saw it. Scrolled past it twice.\"\n\"Weren't you done grieving?\"\n\"I was done grieving the first one.\"",
+          "editorNote": "For the friend who swore they'd moved on right up until a new date appeared",
+          "variations": [
+            "Short: \"New date's up.\" \"I was literally mid-eulogy for the first one.\"",
+            "Extended: She texted the next day saying she'd set the same alarm as last time, just changed the date — nothing else about the routine had changed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-409",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://en.sedaily.com/society/2026/09/20/police-arrest-157-ticket-scalpers-using-macro-programs",
+      "sourceNote": "韓國警方逮捕 157 名使用程式掃票的黃牛集團、凍結約 20 億韓元資產；取「原來搶輸的不是手速是機器」的複雜心情改寫",
+      "tags": [
+        "黃牛",
+        "搶票",
+        "沒搶到"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開賣那天我按了兩百多下重新整理，位子還是一格一格被清空。晚上滑到新聞，一群人用程式掃票被抓了，帳戶凍結了兩千萬。我盯著那個數字看了很久，說不出是鬆一口氣還是更生氣——原來不是我手速太慢，是我從一開始就沒在跟人比。",
+          "editorNote": "適合搶票失利後看到黃牛集團落網新聞，那種「原來不是我的問題」的複雜心情",
+          "variations": [
+            "短版：不是我太慢，是我本來就打不過程式。",
+            "延伸版：我把新聞截圖傳到那天一起搶票失敗的群組，底下只有一句「所以呢，票還是沒了」。"
+          ]
+        },
+        "en": {
+          "content": "I hit refresh probably two hundred times that morning and the seats kept vanishing in rows. That night I saw the headline — a ring running bot scripts got busted, accounts frozen. I stared at the number for a while, not sure if I felt better or worse. Turns out it was never my reflexes. I was never actually racing a person.",
+          "editorNote": "For after a failed presale, when the scalper-bust headline lands and it's oddly hard to feel simply glad",
+          "variations": [
+            "Short: Not slow reflexes. Just never in the same race.",
+            "Extended: I screenshotted it to the group chat from that morning. Someone replied, 'cool, still no tickets though.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-410",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.digitalmusicnews.com/2026/09/16/ed-sheeran-loop-tickets-speculators/",
+      "sourceNote": "巡演爆出爭議後，轉售平台票價跌破原價、投機客低價出清；取「全價買票的人看著轉售價崩盤」的心情改寫",
+      "tags": [
+        "轉售",
+        "票價",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我是全價買的，還加了手續費。上禮拜滑到轉售網站，同一區的票掛得比我付的還便宜三成，因為開場那天換掉一個嘉賓，整串話題到現在還在吵。我把頁面關掉，告訴自己算了——至少我進得去，位子還是我的。",
+          "editorNote": "適合看著轉售價一路下跌，還是要幫自己打氣的人",
+          "variations": [
+            "短版：全價買的票，現在轉售比我付的還便宜。算了，位子是我的。",
+            "延伸版：我把截圖存下來沒有傳給任何人，只是想留著，等心情平復一點再看一次。"
+          ]
+        },
+        "en": {
+          "content": "I paid full price, plus fees. Last week I checked the resale site and the same section was listed thirty percent below what I paid, because they swapped out an opening act on night one and the internet hasn't stopped arguing about it since. I closed the tab and told myself it doesn't matter — I'm still getting in. The seat is still mine.",
+          "editorNote": "For when the resale price keeps dropping and you're doing your best to still feel fine about it",
+          "variations": [
+            "Short: Full price, and resale's now cheaper. Whatever. The seat's mine.",
+            "Extended: I saved the screenshot but didn't send it to anyone. Just wanted to have it, for whenever I'm ready to look again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-411",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.hollywoodreporter.com/music/music-industry-news/new-york-introduces-concert-resale-price-caps-1236496561/",
+      "sourceNote": "紐約提案將轉售票價封頂在面額；取「新規上路太晚，來不及救到當年被坑的自己」的心情改寫成朋友對話",
+      "tags": [
+        "黃牛",
+        "轉售",
+        "朋友"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "議會在討論一條新法案，轉售價要封在原價以內。我把新聞轉給三年前陪我跟黃牛買票、兩個人多付了半個月薪水的那個朋友。她回：「早幾年生效就好了。」我回她一個貼圖，沒再打字——這種話，打出來也不會退回那半個月薪水。",
+          "editorNote": "適合轉售新規上路的新聞出來時，轉給當年一起被坑過的朋友",
+          "variations": [
+            "短版：「早幾年生效就好了。」我沒再回話，退不回那半個月薪水。",
+            "延伸版：她後來又補一句「不過至少以後的人不用像我們一樣」，我才回了一個讚。"
+          ]
+        },
+        "en": {
+          "content": "There's a bill moving through the council that would cap resale at face value. I sent the article to the friend who went in on scalped tickets with me three years ago, back when the two of us split half a paycheck just for the pair. She wrote back, \"wish this had happened a few years earlier.\" I sent a sticker and left it there — typing out how I felt about it wasn't going to refund the half a paycheck.",
+          "editorNote": "For when resale-cap news breaks and you send it to the friend who got scalped alongside you",
+          "variations": [
+            "Short: \"Wish this happened years ago.\" I didn't reply. It doesn't refund anything.",
+            "Extended: She added, \"at least people after us won't have to,\" and that's the one I actually gave a thumbs-up to."
+          ]
+        }
+      }
     }
   ]
 }

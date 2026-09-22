@@ -12190,6 +12190,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-436",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.uclahealth.org/news/article/cognitive-shuffling-can-help-with-falling-asleep",
+      "sourceNote": "UCLA Health〈Cognitive shuffling can help with falling asleep〉（選一個字母、每五秒想一個以它開頭的東西讓腦袋放空入睡）；只取「選字母聯想」的規則，改寫成聯想到棉被又接回換季換洗床單的待辦",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "腦內小劇場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你想起網路上教的方法：選一個字母，每五秒想一樣以它開頭的東西，讓腦袋放空。你選了「Ｍ」，饅頭、貓、棉被——想到棉被，你摸了摸自己的，覺得有點悶，開始想要不要換季節被，換被套要先洗床單，洗床單要挑天氣，現在是三點五十二分。",
+          "editorNote": "給試過各種助眠小技巧的人：方法本身沒問題，問題是任何一個詞都能被你接回待辦事項。",
+          "variations": [
+            "短版：玩到「Ｍ」，從棉被聯想到換季節被、洗床單，三點五十二分還在排程。",
+            "延伸版：「Ｂ」開頭的蝴蝶、蝙蝠很快就想完了，換到「Ｍ」卡住，饅頭、貓、棉被，摸到棉被有點悶，想到該換季節被，換被套要先洗床單，洗床單要看天氣，一路想下去，三點五十二分，你連字母都忘了。"
+          ]
+        },
+        "en": {
+          "content": "You remember reading about this trick online: pick a letter, name something starting with it every five seconds, and let your brain go blank until you fall asleep. You picked 'M' — mango, moth, mattress pad. Mattress pad reminds you your comforter feels a little too warm, which means switching to the lighter one, which means washing the sheets first, which means checking the forecast. It's 3:52 a.m.",
+          "editorNote": "For anyone who's tried every sleep hack in the book. The trick itself works fine; the problem is every single word loops straight back to your to-do list.",
+          "variations": [
+            "Short: Got to 'M,' went from mattress pad to switching comforters to checking laundry weather. Still 3:52 a.m.",
+            "Extended: 'B' words came fast — butterfly, bat — but 'M' stalled: mango, moth, mattress pad. Mattress pad made you notice your comforter's too warm, which means switching to the lighter one, which means washing sheets first, which means checking tomorrow's forecast. By 3:52 you've forgotten what letter you were even on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-437",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://carabradley.substack.com/p/dont-trust-the-3am-thoughts",
+      "sourceNote": "Cara Bradley Substack〈Don't Trust the 3am Thoughts〉（半夜的念頭先寫下來、白天再判斷是否當真）；只取「先寫下來別急著信」這個建議，改寫成備忘錄越寫越長變成在寫信",
+      "tags": [
+        "失眠",
+        "凌晨三點",
+        "想太多"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在備忘錄新增一則，標題打「不要信」——心理師教的，半夜的念頭先寫下來，明天再決定要不要理。你寫了三行「這件事真的很嚴重」，又補一句「而且」，再補一句「還有」，寫到第九行，你才驚覺自己不是在哄自己睡覺，是在寫信。",
+          "editorNote": "給學過「先寫下來、明天再算」這招的人，理論上是要放下，結果念頭在備忘錄裡越滾越大。",
+          "variations": [
+            "短版：備忘錄標題打「不要信」，寫到第九行才發現自己在寫信不是在睡覺。",
+            "延伸版：心理師教的方法：半夜的念頭先寫下來，別急著信。你開新備忘錄，標題「不要信」，第一行寫完又補「而且」「還有」，越補越長，寫到第九行才驚覺，自己根本沒有要睡，是在跟手機交代事情。"
+          ]
+        },
+        "en": {
+          "content": "You open a new note titled 'Don't believe this' — your therapist's advice, write down the 3 a.m. thought first, decide in daylight whether it's real. Three lines in, you add 'also,' then 'and another thing,' and by line nine you realize you're not talking yourself to sleep, you're drafting a letter.",
+          "editorNote": "For anyone who's learned the 'write it down, judge it tomorrow' trick. In theory it's supposed to let the thought go; instead it just keeps growing inside the note.",
+          "variations": [
+            "Short: Note titled 'Don't believe this.' Nine lines in, you realize you're drafting a letter, not falling asleep.",
+            "Extended: The trick your therapist taught you: write the 3 a.m. thought down, don't trust it yet. You open a note titled 'Don't believe this,' line one turns into 'also' and 'and another thing,' and by line nine you realize you were never trying to sleep — you were writing someone a letter."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-438",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://aasm.org/americans-are-doomscrolling-at-bedtime-prioritizing-screen-time-over-sleep/",
+      "sourceNote": "American Academy of Sleep Medicine〈Americans are doomscrolling at bedtime〉（明知道不會有新內容還是忍不住睡前反覆滑手機）；只取「忍不住重複刷新」這個行為，改寫成半夜反覆刷新包裹追蹤頁",
+      "tags": [
+        "失眠",
+        "滑手機",
+        "廢話文學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "包裹昨天就顯示「已到你所在的配送站」，你半夜兩點半又點開追蹤頁面，還是同一行字，沒有新的時間。你把頁面往下拉又放開，畫面彈了一下，數字沒變，你關掉App，兩分鐘後手指又點了同一個圖示。",
+          "editorNote": "給每天刷購物App追蹤頁的人，明明知道半夜不會有新進度，手還是照樣點下去。",
+          "variations": [
+            "短版：追蹤頁面卡在「已到配送站」，你兩點半刷新第三次，數字還是沒動。",
+            "延伸版：包裹卡在「已到你所在的配送站」一整天，半夜兩點半，你點開追蹤頁下拉又放開，畫面彈了一下又彈回去，字沒變。你關掉App，兩分鐘後，手指又點了同一個圖示。"
+          ]
+        },
+        "en": {
+          "content": "The tracking page has said 'arrived at your local facility' since yesterday. It's 2:30 a.m. and you open it again — same line, no new timestamp. You pull the page down and let go, it bounces back, nothing's changed. You close the app. Two minutes later your thumb taps the same icon.",
+          "editorNote": "For anyone who refreshes a delivery tracking page out of habit. You know nothing updates at 2:30 a.m.; your thumb doesn't seem to.",
+          "variations": [
+            "Short: Tracking page stuck on 'arrived at facility.' Third refresh at 2:30, still nothing.",
+            "Extended: 'Arrived at your local facility' has sat there since yesterday. 2:30 a.m., you pull the page down, it bounces back, the line hasn't moved. You close the app. Two minutes later, same icon, same tap."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-439",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.saatva.com/blog/wordle-sleep/",
+      "sourceNote": "Saatva〈Is Wordle Good for Your Sleep?〉（半夜醒來在腦中默想Wordle助眠、卻反而玩上癮更清醒的案例）；只取「腦內解謎當助眠法」這個做法，改寫成猜到第二格卡關、天快亮還沒解出",
+      "tags": [
+        "失眠",
+        "凌晨三點",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "半夜三點醒來，怎麼樣都睡不著，你想起網路教的招數：在腦中默想今天的Wordle當催眠。你猜第一格，矇對了，有點得意，換第二格開始卡關，五個字母的單字在腦中翻來覆去，天快亮了，謎底還沒破，你倒是清醒得跟中午一樣。",
+          "editorNote": "給半夜醒來想用腦內遊戲哄自己睡的人，方法立意良好，結果玩上癮反而更醒。",
+          "variations": [
+            "短版：腦內默想Wordle助眠，猜到第二格開始卡關，天快亮了謎底沒破，人卻醒透了。",
+            "延伸版：凌晨三點醒來，你決定在腦中默背今天的Wordle當數羊的替代版。第一格矇對，得意了一下，第二格開始卡，五個字母的單字在腦中排列組合，越想越清醒，天光都要亮了，謎底還沒解出來。"
+          ]
+        },
+        "en": {
+          "content": "You wake up at 3 a.m. and nothing's working, so you try what you read online: play today's Wordle in your head as a sleep aid. First guess, lucky hit, a little smug about it. Second guess stalls — five-letter words keep looping through your head, and by the time the sky starts to lighten, the puzzle's still unsolved and you're wide awake.",
+          "editorNote": "For anyone who wakes at 3 a.m. and reaches for a mental game to drift back off. Good in theory; in practice the puzzle hooks you and you end up more awake than before.",
+          "variations": [
+            "Short: Mental Wordle as a sleep aid. Second guess stalls, dawn's coming, puzzle's unsolved, you're wide awake.",
+            "Extended: 3 a.m., wide awake, so you try the trick you read about: solve today's Wordle in your head instead of counting sheep. First guess lands, a little smug about it. Second guess stalls, five-letter words looping endlessly, and by the time the sky starts to lighten, the puzzle's still unsolved and so are you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-440",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.npr.org/2026/03/07/nx-s1-5734392/sleep-better-wind-down-routine-bedtime-rituals",
+      "sourceNote": "NPR〈Too hyped up to sleep? Rituals to calm your body and mind before bed〉（照睡前儀式清單做完卻還是很清醒的情況）；只取「做完整套儀式身體還沒放鬆」這個現象，改寫成做完伸展像跑完操場、只好重做一次",
+      "tags": [
+        "失眠",
+        "自嘲",
+        "療癒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你照著清單做完整套睡前儀式：關大燈、開小夜燈、伸展、深呼吸五次。做完站起來，身體卻像剛跑完操場一樣清醒，你站在床邊愣了三秒，只好重新做一次伸展，這次做得更慢。",
+          "editorNote": "給明明照著助眠儀式做完、卻發現身體還在『開機』狀態的人，儀式沒有錯，只是身體沒收到下班通知。",
+          "variations": [
+            "短版：伸展、深呼吸五次全做完，站起來卻清醒得像剛跑完步，只好重做一次。",
+            "延伸版：清單上的睡前儀式一項一項打勾：關大燈、開小夜燈、伸展、深呼吸五次。做到最後一項站起來，身體卻像剛從操場回來一樣有精神，你在床邊站了三秒，決定把伸展重做一次，這次放慢兩倍速度。"
+          ]
+        },
+        "en": {
+          "content": "You go through the whole wind-down checklist: lights off, night lamp on, stretches, five deep breaths. You finish and stand up buzzing like you just came back from a run. You stand there for three seconds, then start the stretches over, slower this time.",
+          "editorNote": "For anyone who does everything the sleep ritual asks and still feels wired afterward. The ritual isn't broken; your body just didn't get the memo.",
+          "variations": [
+            "Short: Wind-down checklist done. You stand up buzzing like you just ran laps, so you start over, slower.",
+            "Extended: Lights off, night lamp on, stretches, five deep breaths — every box on the checklist checked. You stand up afterward buzzing like you just got back from a run, stand there for three seconds, and start the stretches over, this time at half speed."
+          ]
+        }
+      }
     }
   ]
 }

@@ -11193,6 +11193,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-368",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://tw.stock.yahoo.com/news/9%E6%9C%88%E5%8F%B0%E8%82%A1etf%E7%8B%82%E6%92%92420%E5%84%84%E7%B4%85%E5%8C%85-%E5%85%B6%E4%B8%AD3%E6%AA%94%E5%B9%B4%E5%8C%96%E9%85%8D%E6%81%AF%E7%8E%87%E7%88%86%E5%99%B420-%E5%B0%88%E5%AE%B6%E9%BB%9E%E5%90%8D2%E6%AA%94%E6%89%8D%E6%98%AF%E6%AD%A3%E6%B8%AF%E9%AB%98%E5%A1%AB%E6%81%AF%E7%A5%9E%E7%9B%BE-055653374.html",
+      "sourceNote": "Yahoo股市報導9月台股84檔ETF輪番除息、發出逾420億元股息紅包，百萬存股族卡位；改寫成超商大夜班店員在收據背面畫除息倒數表，填權息欄位只敢畫問號",
+      "tags": [
+        "存股",
+        "除權息",
+        "填權息",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "大夜班貨架補到一半，我在收據背面畫了一張表。\n左邊：這個月要除息的ETF，我存的那檔排在第九列。\n右邊：填權息大概要幾天，我上網查的說法從三天到三年都有。\n表格最後畫了一個問號，我把它剪下來夾進錢包，當成近期最重要的一張發票。",
+          "editorNote": "存股族卡在「已經除息、還沒填權息」中間時，最適合拿來自嘲",
+          "variations": [
+            "短版：除息倒數表畫好了，填權息那欄我只敢寫問號。",
+            "延伸版：後來拿那張收據去對統一發票，中了兩百元，是我這個月除了股利以外唯一入帳的錢。"
+          ]
+        },
+        "en": {
+          "content": "Halfway through restocking on the night shift, I sketched a table on the back of a receipt.\nLeft column: the ETFs paying dividends this month, mine sitting in row nine.\nRight column: how long it takes to fill the ex-dividend gap, and the answers I found online range from three days to three years.\nI drew a question mark in the last box, cut it out, and kept it in my wallet as the single most important receipt I own right now.",
+          "editorNote": "For dividend investors stuck between getting paid and getting the price back",
+          "variations": [
+            "Short: the countdown table is done; I could only manage a question mark for the fill-the-gap column.",
+            "Longer: later I checked that receipt against the lottery numbers and won two hundred bucks — the only deposit I got this month besides the dividend."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-369",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260905700015-431003",
+      "sourceNote": "工商時報報導9月投信作帳行情開跑，搶卡位「業績創高、股價還在低檔」的族群；改寫成散戶在洗衣店看到自己存股噴出，滑到新聞才發現是法人季底美化帳面而不是自己選股眼光好",
+      "tags": [
+        "法人",
+        "作帳",
+        "自嘲",
+        "反指標"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "烘衣機還剩十八分鐘，我盯著手機笑到隔壁摺衣服的阿姨看了我一眼。\n那檔我存半年的股票，今天噴了百分之六。\n差點想跟阿姨炫耀自己選股眼光多好，滑到新聞才知道是法人季底作帳，拉抬的是他們的績效排名，不是我的眼光。\n烘衣機叫了，我把手機收起來，繼續假裝很懂。",
+          "editorNote": "股價突然噴出來先別急著往自己臉上貼金，查一下是不是季底作帳",
+          "variations": [
+            "短版：股票噴了百分之六，原來噴的是法人的績效排名，不是我的眼光。",
+            "延伸版：後來把那則新聞存起來，下次有人問我選股邏輯，我就傳這張截圖給他看，比較誠實。"
+          ]
+        },
+        "en": {
+          "content": "The dryer had eighteen minutes left, and I was grinning at my phone hard enough that the lady folding laundry next to me looked over.\nThe stock I'd been holding for six months was up six percent today.\nI almost bragged to her about my great stock picks, then scrolled down and found out it was quarter-end window dressing — the thing getting a makeover was some fund manager's performance ranking, not my judgment.\nThe dryer buzzed. I put my phone away and kept pretending I knew what I was doing.",
+          "editorNote": "Before you take credit for a sudden pop, check whether it's just quarter-end window dressing",
+          "variations": [
+            "Short: up six percent today — turns out it was a fund's ranking getting a makeover, not my judgment.",
+            "Longer: I saved that article. Next time someone asks about my stock-picking logic, I just send them the screenshot instead. More honest that way."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-370",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://udn.com/news/story/7251/9735991",
+      "sourceNote": "聯合新聞網報導法人建議台股9月「多看少做」、五大變數壓盤；改寫成散戶在麵店等麵的三分鐘裡還是忍不住多做一筆",
+      "tags": [
+        "看盤",
+        "自嘲",
+        "散戶",
+        "人性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "麵才下鍋，我先滑開下單頁，跟自己說今天要奉行法人建議的「多看少做」。\n看了三次報價，都只是看。\n老闆喊：「麵好了。」我又多看了一次，順便多做了一筆。\n麵端上桌時已經涼了一半，那筆單倒是熱騰騰剛成交。",
+          "editorNote": "「多看少做」四個字最考驗自制力，尤其是等麵的那三分鐘",
+          "variations": [
+            "短版：說好只看不做，麵好的那三分鐘還是多做了一筆。",
+            "延伸版：老闆問我要不要加辣，我說不用，今天已經夠刺激了。"
+          ]
+        },
+        "en": {
+          "content": "The noodles just hit the pot, and I opened the trading app telling myself I'd stick to the analysts' advice: look more, do less.\nI checked the quote three times. Just looking, I swore.\nThe owner called out, 'noodles are up.' I checked one more time, and also did one more thing.\nBy the time the bowl arrived it was half cold, but my new position was still warm off the press.",
+          "editorNote": "'Look more, do less' is hardest to follow during the three minutes your noodles are cooking",
+          "variations": [
+            "Short: meant to just look. Did one more trade before the noodles were even ready.",
+            "Longer: the owner asked if I wanted extra chili. I said no thanks, today's already spicy enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-371",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://money.udn.com/money/story/5607/9740406",
+      "sourceNote": "經濟日報報導台股9月高位盤整、量能是否擴增攸關秋節變盤；改寫成去寵物美容店等貓剪毛時，滑手機看大盤原地打轉存進第三十七張截圖的焦慮習慣",
+      "tags": [
+        "台股",
+        "高檔",
+        "盤整",
+        "焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "去寵物美容店接貓，老闆說剪毛還要二十分鐘。\n我在外面滑手機，看到大盤成交量又破兆，指數卡在高點原地震盪。\n新聞說中秋前後可能變盤，我把那句話截圖存進「近期要注意」的相簿，裡面已經有三十七張長得差不多的截圖。\n貓剪完毛出來，比我還淡定。",
+          "editorNote": "指數卡在高點原地打轉時，最適合拿寵物的淡定來對照自己的焦慮",
+          "variations": [
+            "短版：成交量破兆、指數原地打轉，我截圖存進第三十七張「近期要注意」。",
+            "延伸版：回家路上又點開那本相簿看了一次，決定這次要真的認真看盤，跟前三十六次一樣認真。"
+          ]
+        },
+        "en": {
+          "content": "I dropped my cat off for grooming; the owner said it'd be twenty more minutes.\nWaiting outside, I checked my phone and saw daily turnover crack a trillion again, with the index stuck at the highs, going nowhere.\nThe article said a turn could come around the Mid-Autumn holiday, so I screenshotted it into my 'watch this closely' album, which now has thirty-seven screenshots that all look about the same.\nMy cat came out freshly groomed, way calmer about the whole thing than I was.",
+          "editorNote": "When the index is stuck at the highs going nowhere, your pet's calm is a good mirror for your own anxiety",
+          "variations": [
+            "Short: turnover cracked a trillion, index going nowhere — screenshot number thirty-seven, saved.",
+            "Longer: on the walk home I opened that album again, and decided this time I'd really watch the market closely. Same as the last thirty-six times."
+          ]
+        }
+      }
     }
   ]
 }

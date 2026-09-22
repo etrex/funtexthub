@@ -8055,6 +8055,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "cpq-409",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://zh.wikipedia.org/zh-hans/%E6%89%93%E6%9B%B4",
+      "sourceNote": "維基百科〈打更〉條目，說明更夫兩人一班、以梆子與唱喏搭配報更的制度，作為搭檔多年更夫的背景；內容為原創改寫，敘事框為動作特寫",
+      "tags": [
+        "古裝劇",
+        "語錄",
+        "深情",
+        "隱忍"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "更夫兩人一班，一個敲梆子，一個唱更。師父嗓子啞了那年換她接班，「天干物燥」四個字，她總在同一個字晚半拍，等梆子先落下去才接上。走了十二年巡更路，梆子和她的嗓子始終差著半拍，誰也沒糾正過誰。",
+          "editorNote": "半拍的默契走了十二年，沒人開口說要改。適合寫搭檔多年的無聲默契，或工作夥伴間不言而喻的配合，配更夫、梆子或夜巷的照片。",
+          "variations": [
+            "短版：「天干物燥」她總晚半拍開口，等梆子先落地。十二年，沒人糾正過誰。",
+            "延伸版：更夫兩人一班，梆子先響，唱更的聲音才接上去。她接師父的班那年開始晚半拍，一晚沒改，十二年也沒改，走到最後一班，梆子落下，她照樣晚半拍才唱。"
+          ]
+        },
+        "en": {
+          "content": "Night watchmen work in pairs, one striking the clapper, one calling the hour. The year her voice took over from her master's, she started coming in half a beat late on the words \"dry air, watch your fires,\" always waiting for the clapper to land first. Twelve years walking the same rounds, and the gap never closed. Neither of them ever brought it up.",
+          "editorNote": "Twelve years of a half-beat gap that nobody ever mentioned. Good for the quiet rapport of longtime partners or work duos who don't need to say things out loud, paired with a watchman's clapper or a night alley.",
+          "variations": [
+            "Short version: \"Dry air, watch your fires\" — she always came in half a beat late, waiting for the clapper. Twelve years, and no one ever fixed it.",
+            "Long version: Watchmen work two to a shift, clapper first, voice after. The year she took over calling the hour from her master, she started half a beat behind, and it never closed — not in twelve years, not on her last round, when the clapper still landed before she opened her mouth."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cpq-410",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://zh.wikipedia.org/zh-hans/%E6%89%93%E6%9B%B4",
+      "sourceNote": "維基百科〈打更〉條目，說明一夜分五更、每更以梆子鑼聲報時的制度，作為深閨數更等候的背景；內容為原創改寫，敘事框為動作特寫",
+      "tags": [
+        "古裝劇",
+        "語錄",
+        "等待",
+        "深情"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三更的梆子敲過，她把燈芯挑亮一次。四更敲過，又挑亮一次。五更那聲還沒落，她已經把燈芯剪短了——天要亮了，人再不回來，這盞燈就得滅了。",
+          "editorNote": "挑燈芯挑到第三次，是等待也是給自己定的底線。適合寫深閨等候、遠行未歸的懸念，或熬夜等一個人回訊息的心情，配油燈、更漏或夜窗的照片。",
+          "variations": [
+            "短版：三更挑一次燈芯，四更再挑一次，五更沒等到人，燈芯先被剪短了。",
+            "延伸版：更聲一聲聲敲過去，她跟著挑燈芯，三更一次，四更一次。五更的梆子還沒落地，她已經把燈芯剪短——不是想睡，是給自己定了個時辰，人再不回來，天亮就滅燈。"
+          ]
+        },
+        "en": {
+          "content": "After the third watch, she trims the wick brighter. After the fourth, she trims it again. Before the fifth watch even finishes sounding, she's already cut the wick short — dawn is close, and if he isn't back by then, the lamp goes out.",
+          "editorNote": "Trimming the wick a third time is both waiting and a deadline she's setting for herself. Good for scenes of someone waiting up in the inner chambers, a traveler overdue, or staying up for a reply that hasn't come, paired with an oil lamp, a water clock, or a night window.",
+          "variations": [
+            "Short version: Third watch, she trims the wick. Fourth watch, again. By the fifth, with no one home, she's already cut it short.",
+            "Long version: Each watch that sounds, she trims the wick a little brighter — once after the third, once after the fourth. Before the fifth watch finishes, she's already cut it short, not because she means to sleep, but because she's set herself a limit: if he isn't home by dawn, the lamp goes dark."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cpq-411",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://zh.wikipedia.org/zh-hans/%E6%89%93%E6%9B%B4",
+      "sourceNote": "維基百科〈打更〉條目，說明更夫以梆子聲數對應更次的報時方式，作為新手更夫記更出錯橋段的背景；內容為原創改寫，敘事框為動作特寫",
+      "tags": [
+        "古裝劇",
+        "語錄",
+        "幽默",
+        "師徒"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新來的更夫背不熟更數，師父在他梆子上刻了五道痕。「打到第幾道痕，喊第幾更。」那晚打到第三道，他愣是喊了「四更天，平安無事」——師父在後頭嘆氣，街尾的狗倒是叫得比哪晚都齊。",
+          "editorNote": "刻痕記更還喊錯，是新手的可愛失誤。適合寫菜鳥上工的笨拙日常，或職場新人記不熟流程的自嘲，配梆子、夜巷或狗吠的畫面。",
+          "variations": [
+            "短版：師父在梆子上刻五道痕教他認更，他照樣打三喊四，狗叫得比哪晚都齊。",
+            "延伸版：更數記不熟，師父乾脆在梆子側面刻了五道痕，打到第幾道就喊第幾更。頭一晚就出岔，打到第三道他喊成了四更，師父在後頭直搖頭，街尾的狗倒好像聽懂了笑話，叫得格外起勁。"
+          ]
+        },
+        "en": {
+          "content": "The new watchman couldn't keep the watches straight, so his master carved five notches into his clapper — \"whichever notch you hit, that's the watch you call.\" First night out, he struck the third notch and called \"fourth watch, all's well\" anyway. His master sighed behind him; the dogs down the street barked louder than any other night.",
+          "editorNote": "Notches carved in for memory and he still gets it wrong — an endearing rookie mistake. Good for the clumsy first days on a new job, or self-deprecating jokes about not having the process down yet, paired with a clapper, a night alley, or barking dogs.",
+          "variations": [
+            "Short version: Five notches carved into the clapper to help him count, and he still struck three, called four. The neighborhood dogs barked like it was the funniest thing all week.",
+            "Long version: He couldn't hold the watches in his head, so his master notched the clapper — five cuts, one per watch. First night, he hit the third notch and called the fourth anyway. His master just shook his head; the dogs at the end of the street barked louder than usual, like they got the joke."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cpq-412",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E5%89%AA%E7%B4%99",
+      "sourceNote": "維基百科〈中國剪紙〉條目，說明剪紙用於婚嫁喜慶、俗稱喜花的傳統，作為喜娘剪囍字窗花橋段的背景；內容為原創改寫，敘事框為動作特寫",
+      "tags": [
+        "古裝劇",
+        "語錄",
+        "甜寵",
+        "深情"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "喜娘剪囍字窗花，剪到一半停了刀。那個「喜」字左邊已經成形，右邊那半，她換了三張紅紙都沒下刀。旁邊的人催，她說再等等，等新娘子自己來看一眼，這半個字，該留給她剪。",
+          "editorNote": "剪一半留一半，是把選擇權讓給當事人。適合寫喜事籌備中的體貼細節，或把最後決定留給對方的溫柔，配紅紙、剪刀或窗花的照片。",
+          "variations": [
+            "短版：「喜」字剪了左半，右半換了三張紅紙都沒動刀，她說要留給新娘自己剪。",
+            "延伸版：喜娘的剪刀在紅紙上走了半個「喜」字就停下。左邊的筆畫都齊了，右邊那半，她換過三張紅紙，遲遲不肯落刀。旁人問怎麼還不剪完，她說這一半留給新娘子自己來，喜事哪能全讓人替她辦好。"
+          ]
+        },
+        "en": {
+          "content": "The wedding attendant is cutting the double-happiness window flower and stops halfway through. The left half of the character is done; for the right half, she's gone through three sheets of red paper without cutting a line. Someone urges her to finish. She says she's waiting — that half belongs to the bride to cut herself.",
+          "editorNote": "Leaving half the cut undone hands the choice to the person it belongs to. Good for thoughtful details in wedding preparations, or the tenderness of leaving the last decision to someone else, paired with red paper, scissors, or a paper-cut window flower.",
+          "variations": [
+            "Short version: Left half of the \"double happiness\" cut, done. Right half, three sheets of red paper untouched — she's saving it for the bride.",
+            "Long version: The scissors stop halfway through the double-happiness cutout. The left side is finished; for the right, she's gone through three sheets of red paper without committing to a line. When someone asks why she's stalling, she says this half is the bride's to cut — not everything about her wedding should be decided for her."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cpq-413",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://baike.baidu.com/item/%E7%AA%97%E8%8A%B1/1133040",
+      "sourceNote": "百度百科〈窗花〉條目，說明窗花常貼於窗角作裝飾、逢年過節替換的習俗，作為祖孫剪窗花橋段的背景；內容為原創改寫，敘事框為動作特寫",
+      "tags": [
+        "古裝劇",
+        "語錄",
+        "溫暖",
+        "親情"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "奶奶教我剪窗花那年我七歲，第一張剪壞了，牡丹只剩半邊花瓣。她沒讓我重剪，反倒把那張貼在窗角，說殘的那半正好對著窗框的縫。今年除夕我回去貼新的窗花，那半邊牡丹還在窗角，紙都黃了，沒人捨得撕。",
+          "editorNote": "剪壞的第一張沒被淘汰，反而留了十幾年。適合寫祖孫情、手作傳承的溫暖回憶，或不完美的第一次作品被珍藏的心情，配窗花、紅紙或老窗框的照片。",
+          "variations": [
+            "短版：第一張窗花剪壞了半邊牡丹，奶奶把它貼在窗角，十幾年都沒撕。",
+            "延伸版：七歲那年學剪窗花，第一張手抖得厲害，牡丹缺了半邊花瓣。奶奶沒讓我重剪，貼上窗角時說這半邊正好補窗框的縫。這麼多年過去，新的窗花年年換，那半邊牡丹一直留在角落，紙早黃了，沒人提要撕掉它。"
+          ]
+        },
+        "en": {
+          "content": "I was seven when grandma taught me to cut window flowers. My first try came out wrong — the peony only had half its petals. She didn't make me redo it. Instead she pasted it in the corner of the window, saying the missing half happened to fit the gap in the frame. This New Year's Eve I went back to put up new ones, and that half-peony is still there in the corner, paper gone yellow, and nobody's ever had the heart to take it down.",
+          "editorNote": "The flawed first attempt wasn't thrown out — it stayed for over a decade. Good for warm grandparent memories, handmade crafts passed down, or the feeling of having an imperfect first try kept and treasured, paired with paper cutouts, red paper, or an old window frame.",
+          "variations": [
+            "Short version: My first window flower came out with half a peony missing. Grandma pasted it up anyway, and it's still there over a decade later.",
+            "Long version: I was seven, hands shaking through my first paper cut, and the peony ended up with only half its petals. Grandma didn't have me start over — she pasted it in the window corner, said the gap matched the frame just right. New cutouts go up every year since, but that half-peony has stayed put in the corner the whole time, paper yellowed, and nobody's ever suggested taking it down."
+          ]
+        }
+      }
     }
   ]
 }

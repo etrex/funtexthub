@@ -14166,6 +14166,127 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-500",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.ettoday.net/news/20260918/3239782.htm",
+      "sourceNote": "ETtoday報導用戶電費帳單暴增至4萬6、台電查表後回覆用電量是一般戶7倍以上；改寫成表哥在家庭群組貼帳單截圖被查表結果打臉的原創情節",
+      "tags": [
+        "幹話",
+        "電費",
+        "家人",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "表哥在家庭群組貼出電費帳單截圖，寫著「這個月四萬六，台電是不是機器壞了」。台電派人到府查完電表後只回了一句：您家的用電量，是一般住宅的七倍以上。底下留言瞬間安靜，因為那台從三年前就沒關過的伺服器主機，這次終於被算進帳單裡了。",
+          "editorNote": "家人抱怨帳單卻死不承認自己那台設備才是元兇時，引用「查完電表再說」式的回應",
+          "variations": [
+            "短版：查電表比查戶口還準。",
+            "延伸版：家庭群組安靜了三天，直到有人問「那台主機是不是該換了」。"
+          ]
+        },
+        "en": {
+          "content": "My cousin posted a screenshot of his power bill in the family group chat — NT$46,000, captioned \"is Taipower's meter broken?\" After a technician checked it in person, the reply was one line: your household is using more than seven times the average. The chat went quiet, because the server rig that had been running nonstop for three years had finally shown up on the bill.",
+          "editorNote": "For when a relative blames the utility company instead of the appliance they refuse to unplug",
+          "variations": [
+            "Short version: the meter doesn't lie, even when family does.",
+            "Longer take: the group chat stayed silent for three days, until someone asked if it was time to retire that rig."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-501",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://house.udn.com/house/story/123589/9528803",
+      "sourceNote": "udn房地產報導租屋族雅房2022年3萬漲到2026年4.5萬、房東每次都以「這次調一點點」包裝連續調漲；改寫成租客翻舊合約揭穿房東說法的原創情節",
+      "tags": [
+        "幹話",
+        "房租",
+        "房東",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "租屋處第四年續約，房東傳來一句：「行情漲很多，這次調兩千就好。」我把舊合約翻出來對比，才發現「這次調兩千」已經是第三次的「這次」，加起來早就超過原本房租的三成。我回他：您說的行情，是不是每年都會重新漲一次？",
+          "editorNote": "房東每次都用「這次調一點點」包裝連續調漲時，把舊合約攤開讓數字自己說話",
+          "variations": [
+            "短版：每年都調一點點，四年後變成調很多。",
+            "延伸版：房東已讀十分鐘後，只回了「再約時間簽約」。"
+          ]
+        },
+        "en": {
+          "content": "My landlord texted before the lease renewal: \"rents are up everywhere, let's just bump it two thousand this time.\" I pulled out the old leases to compare, and realized this was the third \"this time\" in four years — together they'd already pushed the rent up by nearly a third. I texted back: does \"the market\" happen to go up every single year, right on schedule?",
+          "editorNote": "When a landlord frames every renewal as a small, one-time bump, lay the old leases side by side and let the numbers make your point",
+          "variations": [
+            "Short version: a little bit every year adds up to a lot after four years.",
+            "Longer take: he read it, went quiet for ten minutes, then just asked when I wanted to come sign."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-502",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/72519",
+      "sourceNote": "經理人報導2026中秋教師節連假國定假日出勤雙倍薪的加班費規則；改寫成主管把出勤說成「划算」被員工用行事曆拆穿的原創情節",
+      "tags": [
+        "幹話",
+        "職場",
+        "連假",
+        "加班費",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管在連假前一天說：「教師節那天你留守一下，雙倍薪很划算欸。」我把行事曆秀給他看：不出勤的那三天，薪水本來就照領；出勤的那天，才是公司用雙倍價把我從沙發上請出去。划算的，從來不是我。",
+          "editorNote": "主管把「國定假日出勤雙薪」講得好像是你賺到時，指出不出勤的部分本來就是你的",
+          "variations": [
+            "短版：划算的是公司，不是我。",
+            "延伸版：主管想了三秒，說那還是他自己留守好了，語氣忽然客氣很多。"
+          ]
+        },
+        "en": {
+          "content": "The day before the long weekend, my manager said: \"How about you cover the office on Teachers' Day, double pay is a great deal.\" I pulled up the calendar: the three days I don't work are already fully paid — showing up is just the company paying double to drag me off my couch. The good deal was never mine to begin with.",
+          "editorNote": "When a manager frames mandatory-holiday overtime as a favor to you, point out that the days off were already paid, full stop",
+          "variations": [
+            "Short version: the good deal belongs to the company, not to me.",
+            "Longer take: he thought about it for three seconds, then said maybe he'd just cover it himself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-503",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://chucklio.com/sarcastic-humor-jokes/",
+      "sourceNote": "英文網路流傳的「energy-saving mode」自嘲幽默參考，改寫成被主管說「太被動」時的職場回應，為原創情節",
+      "tags": [
+        "幹話",
+        "職場",
+        "自嘲",
+        "機智"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管說我最近做事很被動，我說沒有，我這是省電模式：非必要不啟動，才能撐過一整個月不當機。",
+          "editorNote": "被說「太被動」、「不夠積極」時，把自己的節奏包裝成資源管理，而不是態度問題",
+          "variations": [
+            "短版：我不是不積極，我是在省電。",
+            "延伸版：而且省電模式的人，通常是撐到最後才關機的那一個。"
+          ]
+        },
+        "en": {
+          "content": "My manager said I've been too passive lately. I told him no — I've just switched to power-saving mode: only running what's essential, so I don't crash before the month's over.",
+          "editorNote": "When someone calls you passive or not driven enough, reframe your pace as resource management, not attitude",
+          "variations": [
+            "Short version: I'm not slacking, I'm conserving battery.",
+            "Longer take: and the ones in power-saving mode are usually the last ones still running when everyone else shuts down."
+          ]
+        }
+      }
     }
   ]
 }

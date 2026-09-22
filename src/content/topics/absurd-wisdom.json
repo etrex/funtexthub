@@ -14880,6 +14880,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-566",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://san-shing.com.tw/autodoor-operation/",
+      "sourceNote": "自動門感應器運作原理說明，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "科技",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "超商的自動門裝了感應器，寫著「偵測到人自動開啟」。\n我在門口站了五分鐘做實驗：人在，門開；人走，門關。感應器每一次都猜對，因為它從頭到尾只需要知道一件事——門前有沒有人。",
+          "editorNote": "想吐槽「智慧」家電、或單純想丟一句沒意義的話進群組時可用",
+          "variations": [
+            "短版：人在門前門就開，人不在門前門就關，感應器沒有一次猜錯。",
+            "延伸版：保全問我在測試什麼，我說想知道門會不會亂開，結果它從頭到尾只在我站在那裡的時候開過。"
+          ]
+        },
+        "en": {
+          "content": "The convenience store's automatic door has a sensor labeled \"opens when it detects a person.\"\nI stood there for five minutes testing it: person present, door open; person gone, door shut. The sensor got it right every single time, because the only thing it ever needed to know was whether someone was standing in front of it.",
+          "editorNote": "Good for poking fun at \"smart\" gadgets, or just dropping a pointless line into a group chat",
+          "variations": [
+            "Short version: Person in front, door opens. No person, door closes. The sensor never once got it wrong.",
+            "Extended: Security asked what I was testing. I said whether the door opens randomly — turns out it only ever opened while I was standing there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-567",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://dawho.tw/hot/blog/easycard/",
+      "sourceNote": "悠遊卡自動加值機制介紹，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "金錢",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "悠遊卡餘額不夠付錢的時候，機器會自動加值。加值完，餘額就是加值前的餘額，加上剛剛加值進去的錢。\n我盯著螢幕看了三次，數字每次都是這樣算出來的，一次都沒有例外。",
+          "editorNote": "月底錢包空空、想自嘲悠遊卡總是比人有錢時發",
+          "variations": [
+            "短版：加值前的餘額加上加值的錢，就是加值後的餘額，算幾次都一樣。",
+            "延伸版：站務員說這叫自動加值，因為不用我自己按，卡片自己就知道該加多少。"
+          ]
+        },
+        "en": {
+          "content": "When the EasyCard balance runs short at the gate, the machine tops it up automatically. After the top-up, the new balance is exactly the old balance plus whatever just got added.\nI watched the screen do this three times in a row. The math came out the same way every single time, no exceptions.",
+          "editorNote": "For when your wallet's empty at the end of the month and you want to joke that your transit card is richer than you are",
+          "variations": [
+            "Short version: Old balance plus the top-up equals the new balance, no matter how many times you check.",
+            "Extended: The station attendant called it \"auto reload\" — I don't press anything, the card just knows exactly how much to add."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-568",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E8%87%AA%E5%8B%95%E6%AB%83%E5%93%A1%E6%A9%9F",
+      "sourceNote": "自動櫃員機（ATM）基本功能介紹，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "金錢",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "提款機吐出鈔票之前，會先印一張明細。明細上寫著：本次提款金額，以及提款後的餘額。\n把兩個數字相加，正好等於提款前的餘額。銀行說這叫核對無誤，因為錢不會無緣無故變多或變少。",
+          "editorNote": "領完錢覺得荷包變薄、想找個理由怪罪機器時可以貼這個",
+          "variations": [
+            "短版：提款金額加上提款後餘額，等於提款前餘額，明細每次都對得上。",
+            "延伸版：我把明細留到月底核對，發現每一張算出來的結果，都跟提款前的餘額一樣準。"
+          ]
+        },
+        "en": {
+          "content": "Before an ATM hands over the cash, it prints a receipt: the amount just withdrawn, and the balance left after.\nAdd those two numbers together and you get exactly the balance from before you withdrew anything. The bank calls this \"verified correct,\" because money doesn't appear or vanish on its own.",
+          "editorNote": "For when you've just withdrawn cash, feel poorer, and want someone else to blame",
+          "variations": [
+            "Short version: Amount withdrawn plus remaining balance equals the balance you started with, every single receipt.",
+            "Extended: I kept the receipts all month to double check — every one added up to exactly what I had before."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-569",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://scitechvista.nat.gov.tw/Article/c000009/detail?ID=28694d07-4c72-425c-b790-ce06223eb085",
+      "sourceNote": "科技大觀園關於加油槍自動跳停原理的說明，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "邏輯"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "加油站的油槍加到滿，會自己「喀」一聲跳停。店員說這是油箱裡的空氣被擠光了，槍嘴才知道該停。\n我問那沒加滿的時候呢，他說沒加滿，槍嘴當然不會跳，因為油箱裡還有地方讓油進去。",
+          "editorNote": "在加油站排隊等加油、找話題閒聊時可以講",
+          "variations": [
+            "短版：加滿了槍就跳停，沒加滿槍就不跳，油槍從來沒騙過人。",
+            "延伸版：我特地加到跳兩次，才確定第二次跳停的時候，油箱真的是滿的。"
+          ]
+        },
+        "en": {
+          "content": "When a gas pump fills the tank all the way, it clicks and shuts off on its own. The attendant said it's because the air inside the tank runs out of room, and that's the nozzle's cue to stop.\nI asked what happens when the tank isn't full yet. He said the nozzle simply doesn't click, because there's still room left for more gas.",
+          "editorNote": "Small talk while you're waiting in line at the gas station",
+          "variations": [
+            "Short version: Tank full, pump clicks off. Tank not full, pump keeps going. The nozzle has never once lied.",
+            "Extended: I topped it off until it clicked twice, just to make sure the second click really meant full."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-570",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://pstw.panasonic.com.tw/FAQ/Article/1833",
+      "sourceNote": "Panasonic 官方除濕機自動關機原理說明，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "除濕機的水箱滿了，機器就會自動停下來，面板亮起「請倒水」的燈。倒完水裝回去，燈就熄了，機器又開始除濕。\n說明書寫著：水箱空的時候可以除濕，水箱滿的時候不能除濕。我讀了兩遍，確定它沒有想騙我。",
+          "editorNote": "分享家電使用心得、或想營造「很認真讀說明書」人設時可用",
+          "variations": [
+            "短版：水箱滿了燈就亮，倒完水燈就熄，機器沒有騙人。",
+            "延伸版：我把水箱倒扣拍照存證，證明它滿的時候真的是滿的，一滴不多一滴不少。"
+          ]
+        },
+        "en": {
+          "content": "When a dehumidifier's water tank fills up, the machine stops on its own and a \"please empty tank\" light comes on. Empty the tank, put it back, and the light goes off — the machine starts dehumidifying again.\nThe manual says: it can dehumidify when the tank is empty, and can't when the tank is full. I read that twice, just to make sure it wasn't trying to trick me.",
+          "editorNote": "For sharing an appliance review, or performing the persona of someone who actually reads the manual",
+          "variations": [
+            "Short version: Tank full, light on. Tank emptied, light off. The machine has never once lied.",
+            "Extended: I took a photo of the tank tipped over as proof — when it says full, it really is full, not a drop more or less."
+          ]
+        }
+      }
     }
 
   ]

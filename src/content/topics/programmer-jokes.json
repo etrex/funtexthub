@@ -14980,6 +14980,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-547",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "ProgrammerHumor 上「human in the loop 變成人肉核准按鈕」的迷因系列；本則把 code review 寫成只看 AI 提問有沒有錯字",
+      "tags": [
+        "AI",
+        "code review",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你們現在 code review 都在幹嘛？」\n「盯著螢幕。」\n「看程式碼？」\n「看 AI 什麼時候會跳出來問我要不要核准。」\n「核准前你有看內容嗎？」\n「看了，看它問的那句話有沒有錯字。」",
+          "editorNote": "給覺得自己在 code review 裡愈來愈像人肉核准按鈕的工程師；最後一句把角色降級講得很直白，適合自嘲場合。",
+          "variations": [
+            "短版：「你在 review 什麼？」「等 AI 問我要不要核准。」",
+            "延伸版：「那萬一你按錯呢？」「AI 會很有禮貌地說沒關係，牠再寫一次。」"
+          ]
+        },
+        "en": {
+          "content": "\"What do code reviews look like on your team now?\"\n\"Staring at the screen.\"\n\"Reading the code?\"\n\"Waiting for the AI to ask if I approve.\"\n\"Do you read anything before you click approve?\"\n\"I read the question. Checking for typos.\"",
+          "editorNote": "For anyone who feels like their job has quietly become clicking an approve button; the punchline downgrades the role without ever saying it out loud.",
+          "variations": [
+            "Short version: \"What are you reviewing?\" \"Waiting for the AI to ask.\"",
+            "Extended: \"What if you click the wrong thing?\" \"The AI just says no worries, it'll write it again.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-548",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://programmerhumor.io/memes/code-review",
+      "sourceNote": "ProgrammerHumor code review 迷因區，主題是「用 AI 審查 AI 寫的 code，人變成兩個聊天機器人之間的中間人」；本則改寫成吵架裁判的對話",
+      "tags": [
+        "AI",
+        "code review",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個 PR 是 AI 寫的，那你怎麼 review？」\n「叫另一個 AI 看一遍。」\n「那你自己看嗎？」\n「我負責看兩個 AI 有沒有吵起來。」\n「吵起來算誰贏？」\n「先閉嘴的那個。」",
+          "editorNote": "給團隊已經把寫 code 和 review code 都外包給 AI、自己變成傳話中間人的場合；最後一句用「吵架」把荒謬感講完。",
+          "variations": [
+            "短版：「AI 寫的 PR 誰 review？」「另一個 AI。」「那你幹嘛？」「中間人。」",
+            "延伸版：「如果兩個 AI 意見一樣呢？」「那我就負責按下一個。」"
+          ]
+        },
+        "en": {
+          "content": "\"This PR was written by AI. So how do you review it?\"\n\"I have another AI look at it.\"\n\"So what do you actually do?\"\n\"I make sure the two AIs don't start arguing.\"\n\"And if they do, who wins?\"\n\"Whoever stops talking first.\"",
+          "editorNote": "For teams that outsourced both writing and reviewing code to AI and are left wondering what their own job title even means; the \"argument\" framing does the joke's work.",
+          "variations": [
+            "Short version: \"Who reviews the AI's PR?\" \"Another AI.\" \"So what's your job?\" \"Middleman.\"",
+            "Extended: \"What if the two AIs agree?\" \"Then I just click next.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-549",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://programmerhumor.io/memes/claude",
+      "sourceNote": "Claude／AI 迷因區常見「叫 AI 不准產生幻覺，結果它照樣掰」的哏；本則寫成加大寫警語卻愈幻覺愈多的對話",
+      "tags": [
+        "AI",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你在 prompt 裡寫了什麼？」\n「不准產生幻覺。」\n「有用嗎？」\n「牠回我說好。」\n「然後呢？」\n「然後生出一個從來沒存在過的函式，還附上一句『這個很常見』。」",
+          "editorNote": "給每次在 prompt 加免責警語卻還是被瞎掰函式雷到的工程師；把「講了也沒用」寫成一句話的循環，適合貼在團隊聊天室自嘲。",
+          "variations": [
+            "短版：「叫牠不准幻覺。」「然後咧？」「牠說好，接著就掰了一個函式。」",
+            "延伸版：「你後來怎麼辦？」「把警語加大寫，牠這次掰了兩個。」"
+          ]
+        },
+        "en": {
+          "content": "\"What did you put in the prompt?\"\n\"Do not hallucinate.\"\n\"Did it work?\"\n\"It said okay.\"\n\"And then?\"\n\"And then it invented a function that has never existed, with a note saying 'this is a common pattern.'\"",
+          "editorNote": "For anyone who adds a disclaimer to the prompt every time and still gets handed a made-up function; the loop of asking nicely and getting ignored is the whole joke.",
+          "variations": [
+            "Short version: \"Told it not to hallucinate.\" \"Then?\" \"It said okay, then invented a function.\"",
+            "Extended: \"What did you do next?\" \"Put it in all caps. It invented two functions that time.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-550",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-coding",
+      "sourceNote": "ProgrammerHumor ai-coding 迷因區「四千多行的 AI PR 只看兩行就核准」的哏；本則加上「相信緣分」收尾",
+      "tags": [
+        "AI",
+        "code review",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個 PR 幾行？」\n「四千五百多行，AI 寫的。」\n「你怎麼 review？」\n「看了兩行。」\n「就核准了？」\n「對，那兩行沒有語法錯誤。」\n「其他呢？」\n「其他行相信緣分。」",
+          "editorNote": "給面對動輒破千行的 AI 生成 PR、只能挑重點掃過的工程師；「相信緣分」把無奈講成一句安慰自己的話。",
+          "variations": [
+            "短版：「四千五百行怎麼 review？」「看兩行。」「其他呢？」「緣分。」",
+            "延伸版：「出事算誰的？」「算緣分的。」"
+          ]
+        },
+        "en": {
+          "content": "\"How many lines is this PR?\"\n\"About forty-five hundred. AI wrote it.\"\n\"How'd you review it?\"\n\"Read two lines.\"\n\"And approved it?\"\n\"Yeah. Those two lines didn't have a syntax error.\"\n\"What about the rest?\"\n\"The rest is up to fate.\"",
+          "editorNote": "For anyone facing four-digit AI-generated PRs and only having time to skim the highlights; \"up to fate\" turns resignation into a punchline.",
+          "variations": [
+            "Short version: \"Forty-five hundred lines?\" \"Read two, approved.\" \"The rest?\" \"Fate.\"",
+            "Extended: \"Who's on the hook if it breaks?\" \"Fate is.\""
+          ]
+        }
+      }
     }
   ]
 }

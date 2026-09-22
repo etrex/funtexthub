@@ -8613,6 +8613,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-291",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://curricul.site.nthu.edu.tw/p/404-1208-196367.php?Lang=zh-tw",
+      "sourceNote": "清華大學課務組加退選說明，提到有人數限制的科目會先進「待亂數清單」、每天自動亂數分發；借「選課用抽籤決定」這個機制，改寫成搶課失敗的一句自嘲",
+      "tags": ["選課", "大學生", "崩潰"],
+      "i18n": {
+        "zh-tw": {
+          "content": "加退選開放前十分鐘，我把五個分頁全部載入待命。\n零點一到，我點下去，畫面跳出「登記成功，等候亂數分發」。\n隔天早上結果公布，我選到的六門課裡，五門是從沒聽過的營隊活動，唯一真正想上的那門，狀態寫著：「已額滿」。",
+          "editorNote": "選課結果公布那天，貼給又沒搶到通識課的人看。",
+          "variations": [
+            "短版：登記成功，等候亂數分發——結果分發到的六門課，我真正想上的那門已額滿。",
+            "延伸版：我把那門額滿的課加進候補名單，排在第三十一位，開學第三週才往前挪了一格。"
+          ]
+        },
+        "en": {
+          "content": "Ten minutes before registration opened, I had five browser tabs standing by.\nAt midnight sharp I clicked, and the screen said: registered, pending random draw.\nResults dropped the next morning. Of the six courses I got, five were random electives I'd never heard of. The one I actually wanted said: waitlist full.",
+          "editorNote": "Post it the day course registration results drop, for anyone who lost the draw on the elective they wanted.",
+          "variations": [
+            "Short version: Registered, pending random draw — and the one course I wanted came back full.",
+            "Longer version: I added the full course to the waitlist at spot thirty-one. By week three it had only moved up by one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-292",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.ettoday.net/dalemon/post/39742",
+      "sourceNote": "ETtoday 報導部分科系把期中考拉長到一個月、一週考一科；借「考試被拆成好幾週」這個安排，改寫成行事曆對照出的一句無言吐槽",
+      "tags": ["考試", "報告", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教務處把期中考拆成四週分散考，公告上寫著「減輕壓力」。\n我翻開行事曆算了一下，四週裡有三週還排著報告死線。\n唯一沒有報告的那一週，是段考當天——跟另一科的死線撞期。\n室友問我這樣是不是比較輕鬆，我把行事曆轉過去給她看，一個字都沒說。",
+          "editorNote": "學校公布分散式考程那天，貼給正在對行事曆的同學。",
+          "variations": [
+            "短版：說是分散考、減輕壓力，結果沒考試的那週，是報告死線撞上另一科段考。",
+            "延伸版：室友看完行事曆，沉默了三秒，把她自己的也拿出來對，兩張表疊在一起，密密麻麻。"
+          ]
+        },
+        "en": {
+          "content": "The registrar spread midterms across four weeks and called it \"easing the pressure.\"\nI checked my calendar: three of those four weeks still had paper deadlines.\nThe one week without a paper due was exam day — which landed on another class's deadline.\nMy roommate asked if this felt lighter. I just turned the calendar toward her and said nothing.",
+          "editorNote": "Send it the day the school posts a spread-out exam schedule, to whoever's staring at their calendar right now.",
+          "variations": [
+            "Short version: They called it lighter, spread-out midterms. The one week with no exam had a paper deadline and another exam collide instead.",
+            "Longer version: My roommate stared at the calendar for three seconds, then pulled out her own. Stacked together, the two were solid black with deadlines."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-293",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://udn.com/news/story/6928/9693027",
+      "sourceNote": "聯合新聞網報導大學生月生活費一萬元夠不夠的討論，多數網友認為扣掉伙食日用後所剩無幾；借「報平安但帳本是負的」這個落差，改寫成一句對媽媽的訊息",
+      "tags": ["窮", "大學生", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽問我這個月生活費夠不夠，我說夠，還請她放心。\n訊息傳出去十分鐘後，我打開記帳本，本月伙食費那一欄是負的。\n晚餐我吃了超商快到期的麵包，打七折，比昨天那個貴一塊錢。",
+          "editorNote": "月底報平安給爸媽的那通電話前，先讀一遍提醒自己嘴硬的代價。",
+          "variations": [
+            "短版：跟媽媽說夠用、放心，掛掉電話我打開記帳本，伙食費欄位是負的。",
+            "延伸版：月底最後一天，我把悠遊卡裡剩下的零錢拿去買一顆茶葉蛋，找不開，超商店員說算了。"
+          ]
+        },
+        "en": {
+          "content": "Mom asked if this month's allowance was enough. I said yes, told her not to worry.\nTen minutes after I sent that, I opened my budgeting app. The food line for this month was negative.\nDinner was a near-expiry bread from the convenience store, thirty percent off — one dollar more than yesterday's.",
+          "editorNote": "Read this before the end-of-month call home where you insist you're fine.",
+          "variations": [
+            "Short version: Told Mom I was fine, not to worry. Hung up, opened the app — the food line was negative.",
+            "Longer version: Last day of the month, I tried to pay for a tea egg with the coins left on my transit card. Couldn't make change. The cashier said forget it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-294",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://www.dcard.tw/f/freshman/p/236649359",
+      "sourceNote": "Dcard 升大學考試板文章談大一新生開學適應，提到交友步調因人而異；借「開學一個月才驚覺群組很安靜」這個時間點，改寫成滑手機回顧功能對照出的一句心情",
+      "tags": ["開學", "校園生活", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "開學滿一個月那天，手機跳出「一年前的今天」回顧，是高三教室的合照，底下留言六十幾則。\n我把這學期的班群組滑到最上面，未讀訊息只有系辦發的兩則公告。\n我按下已讀，把手機收進口袋，走去上課。",
+          "editorNote": "開學滿月那週，貼給還在適應新環境、覺得安靜得有點奇怪的人。",
+          "variations": [
+            "短版：一年前的合照六十幾則留言，這學期的群組只有兩則系辦公告，我按了已讀就去上課。",
+            "延伸版：走到教室門口，隔壁座位的人主動問我要不要一起交報告，我才想起這學期我還沒主動開過口。"
+          ]
+        },
+        "en": {
+          "content": "One month into the semester, my phone popped up a \"this day last year\" memory — a photo from my senior year classroom, sixty-something comments underneath.\nI scrolled to the top of this semester's class group chat. The only unread messages were two announcements from the department office.\nI marked them read, put the phone in my pocket, and walked to class.",
+          "editorNote": "For the one-month mark, when the new environment still feels oddly quiet — send it to someone in the same boat.",
+          "variations": [
+            "Short version: Sixty-something comments on a photo from a year ago. Two office announcements in this semester's group chat. I marked them read and went to class.",
+            "Longer version: At the classroom door, the person next to me asked if I wanted to pair up on the report. That's when I realized I hadn't spoken first to anyone all semester."
+          ]
+        }
+      }
     }
   ]
 }

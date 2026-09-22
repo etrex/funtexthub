@@ -11136,6 +11136,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-396",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://aasm.org/sleep-survey-binge-watching-results/",
+      "sourceNote": "參考美國睡眠醫學會調查顯示多數人因追劇犧牲睡眠的數據，原創改寫成一邊倒數起床時間一邊按下一集的深夜自白",
+      "tags": ["熬夜", "自嘲", "追劇習慣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我跟自己說「看完這集就睡」，這句話我已經說了四集。鬧鐘設七點半，現在是凌晨兩點十七分，我清醒地知道自己在幹嘛，然後按了下一集。",
+          "editorNote": "適合傳給那個永遠說「看完這集就睡」、卻愈滑愈晚的自己或朋友。",
+          "variations": [
+            "短版：「看完這集就睡」是我今晚說的第四次謊。",
+            "延伸版：早上鬧鐘響的時候，我唯一的念頭是「昨晚那集值得」，接著按掉鬧鐘繼續睡。"
+          ]
+        },
+        "en": {
+          "content": "I told myself \"one more episode and then bed.\" That was four episodes ago. My alarm's set for 7:30, it's 2:17 a.m., and I know exactly what I'm doing right now — I just hit play on the next one anyway.",
+          "editorNote": "For the friend (or yourself) who keeps saying \"just one more episode\" and means it less every time.",
+          "variations": [
+            "Short: \"One more episode and then bed\" was the fourth lie I told myself tonight.",
+            "Extended: When my alarm went off, my only thought was \"that episode was worth it,\" then I turned it off and went back to sleep."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-397",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://screenrant.com/best-netflix-shows-to-binge-week-september-21-2026/",
+      "sourceNote": "參考本週真實犯罪新劇登上排行榜首的報導，原創改寫成嘴上說怕真實犯罪劇、實際看到清晨的自白",
+      "tags": ["罪惡感", "追劇心理", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我點開一部真實犯罪紀錄片，心裡想著「看一集就好，這種案子看多會做噩夢」。三小時後，我人生第一次知道「分屍」的英文怎麼拼，還能背出兇手國中念哪一所學校。",
+          "editorNote": "適合傳給那個嘴上說怕看真實犯罪劇、片單卻全是真實犯罪劇的朋友。",
+          "variations": [
+            "短版：我說看一集就好，結果現在知道兇手國中念哪一所學校。",
+            "延伸版：隔天有人問我睡得好不好，我說很好，只是夢到昨晚那個案子開庭。"
+          ]
+        },
+        "en": {
+          "content": "I clicked into a true crime documentary telling myself, \"just one episode, these give me nightmares.\" Three hours later I could spell \"dismemberment\" correctly for the first time in my life and recite which middle school the killer went to.",
+          "editorNote": "For the friend who swears true crime freaks them out, and whose watchlist is ninety percent true crime.",
+          "variations": [
+            "Short: I said one episode. Now I know which middle school the killer attended.",
+            "Extended: Someone asked if I slept okay. I said great, I just dreamed the trial from last night's episode."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-398",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://screenrant.com/best-netflix-shows-to-binge-week-september-14-2026/",
+      "sourceNote": "參考本週新劇一次全季上架的報導，原創改寫成本來只想看預告、結果一路嗑到天亮的自白",
+      "tags": ["熬夜", "一次全上架", "新劇"],
+      "i18n": {
+        "zh-tw": {
+          "content": "新劇一次上架八集，我本來只是想看預告確認要不要追。兩個小時後我已經看完三集，決定「反正都看了，不如今晚嗑完」。天亮前傳訊息給朋友：「別跟我劇透，我已經看完了，只是想找人聊。」",
+          "editorNote": "適合傳給那個新劇一上架就人間蒸發一整晚的朋友。",
+          "variations": [
+            "短版：本來只想看預告，兩小時後我看完三集，決定嗑完整季。",
+            "延伸版：朋友問我新劇好不好看，我說先別問，我還在從昨晚的八集裡爬出來。"
+          ]
+        },
+        "en": {
+          "content": "A new show dropped its whole eight-episode season at once. I told myself I'd just watch the trailer to decide if it was worth it. Two hours later I'd finished three episodes and decided, \"well, I'm already in, might as well finish tonight.\" Before sunrise I texted a friend: \"don't spoil it, I already finished — I just want to talk about it with someone.\"",
+          "editorNote": "For the friend who vanishes for a full night the moment a new season drops all at once.",
+          "variations": [
+            "Short: I meant to watch the trailer. Two hours later I'd finished three episodes and decided to finish the season.",
+            "Extended: A friend asked if the new show was good. I said give me a minute, I'm still climbing out of last night's eight episodes."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-399",
+      "dateAdded": "2026-09-22",
+      "sourceUrl": "https://flixpatrol.com/top10/netflix/",
+      "sourceNote": "參考 Netflix 全球排行榜幾乎每天洗牌、冠軍劇一週內就被取代的現象，原創改寫成終於跟上熱門劇、熱度卻已經換下一部的自白",
+      "tags": ["FOMO", "片單", "演算法"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我終於把大家都在聊的那部劇看完，滿懷期待打開社群想找人討論，結果首頁全在聊另一部我還沒聽過的新劇。我認命地把它加進片單，片單現在已經追不上排行榜換人的速度。",
+          "editorNote": "適合傳給那個永遠慢半拍、追完熱門劇時熱度已經散了的朋友。",
+          "variations": [
+            "短版：我剛看完大家在聊的劇，大家已經在聊下一部了。",
+            "延伸版：片單裡躺著三部「大家都在看」的劇，加進去的時候都已經沒人在看了。"
+          ]
+        },
+        "en": {
+          "content": "I finally finished the show everyone was talking about and opened social media excited to discuss it, only to find the feed had already moved on to some new show I'd never heard of. I resignedly added it to my watchlist, which can no longer keep up with how fast the charts turn over.",
+          "editorNote": "For the friend who's always one beat behind, finishing the hype show right as the hype moves on.",
+          "variations": [
+            "Short: I just finished the show everyone was talking about. Everyone's already talking about the next one.",
+            "Extended: My watchlist has three \"everyone's watching this\" shows sitting on it, and by the time I added each one, nobody was."
+          ]
+        }
+      }
     }
   ]
 }
