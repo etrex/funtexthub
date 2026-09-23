@@ -14672,6 +14672,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-515",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://archieapp.co/blog/return-to-office-statistics/",
+      "sourceNote": "Archie App 2026 return-to-office 統計：近三成員工表示若公司要求全面到辦公室將考慮離職，且約半數遠距員工認為RTO政策意在方便主管管控 — 改寫成公司以「重建連結」包裝全面回辦公室公告的場景。",
+      "tags": [
+        "RTO",
+        "混合辦公",
+        "職場荒謬",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司信件的標題是「回歸辦公室，重建連結」。\n我把整封信讀了三遍，想找出「連結」兩個字具體對應到哪一項改變。\n最後只找到一句：「即日起，每週五天必須進辦公室。」\n茶水間有人小聲說，所謂連結，大概就是主管終於能親眼確認誰的位子是空的。",
+          "editorNote": "公司開始用「重建連結」包裝全面回辦公室的公告時，適合分享給正在計算通勤值不值得的同事。",
+          "variations": [
+            "短版：「重建連結」翻成白話，就是主管想親眼點名。",
+            "延伸版：隔壁同事回了一句：「那我們線上開會五年，連結是斷了五年嗎？」"
+          ]
+        },
+        "en": {
+          "content": "The company-wide email is titled 'Returning to the Office, Rebuilding Connection.'\nI read the whole thing three times, trying to find which specific change the word 'connection' was pointing to.\nThe only concrete line I found: 'Effective immediately, five days in office, every week.'\nSomeone in the break room mutters that connection just means the manager can finally see whose desk is empty.",
+          "editorNote": "For when leadership dresses up a full RTO mandate as 'rebuilding connection.' Send to the coworker still doing the commute math.",
+          "variations": [
+            "Short: 'Rebuilding connection' translates to: the boss wants a visual headcount.",
+            "Extended: A coworker replies, 'So were we disconnected the whole five years we were on video calls?'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-516",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.easternct.edu/graduate-division/online/articles/quiet-quitting-is-old-news-heres-what-replaced-it-in-2026/",
+      "sourceNote": "Eastern Connecticut State University 文章指出2026年職場出現quiet cracking（緩慢崩解）、quiet burnout（隱性過勞）、revenge quitting（積怨後突然戲劇性離職）三種新趨勢 — 改寫成長期隱忍的員工某天無預警閃電離職的場景。",
+      "tags": [
+        "職場厭世",
+        "離職",
+        "職業倦怠",
+        "社畜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她連續八個月，每天準時打卡，從不遲到，會議全部出席，訊息秒讀秒回。\n主管都說她很穩，是那種放著不用管的員工。\n上週五下午三點，她把離職信直接印出來，親自走進主管辦公室放在桌上，然後回工位收拾東西，四十分鐘後人就不在公司了。\n沒有預告，沒有兩週緩衝期，交接文件只寫了一行：「密碼都在便利貼上。」",
+          "editorNote": "適合分享給那個看起來一直很穩、其實已經默默算好離職那一天的同事——爆發前通常都安靜很久。",
+          "variations": [
+            "短版：「放著不用管」的員工，忍耐力往往比忠誠度更誇張。",
+            "延伸版：HR後來才發現，她三個月前就已經拿到offer，只是一直在等一個自己覺得夠了的時間點。"
+          ]
+        },
+        "en": {
+          "content": "For eight straight months she clocked in on time, never missed a meeting, answered every message within minutes.\nManagers called her the steady one, the kind you never had to worry about.\nThen last Friday at 3 p.m., she printed her resignation letter, walked it into her manager's office, set it on the desk, packed her bag, and was gone within forty minutes.\nNo notice period, no two-week buffer — the handover doc was a single line: 'passwords are on the sticky note.'",
+          "editorNote": "For the coworker who seems perfectly fine but has quietly already picked the day. The loudest exits are usually the quietest builds.",
+          "variations": [
+            "Short: The 'low-maintenance' employee's patience usually outlasts her loyalty by a mile.",
+            "Extended: HR later found out she'd had the offer in hand for three months. She was just waiting for a moment that felt like enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-517",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://udn.com/news/story/7269/9471896",
+      "sourceNote": "聯合新聞網報導：調查顯示近4成上班族視AI為工作救星，但也有18.6%因AI被要求提高產出、6.7%擔心被取代 — 改寫成AI幫忙省時卻換來加班的一日工作日誌。",
+      "tags": [
+        "AI同事",
+        "加班",
+        "職場荒謬",
+        "效率"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "9:00 AI幫我把報告草稿生出來，省下四十分鐘。\n9:15 主管看到草稿，說品質不錯，可以再多做兩份。\n10:00 兩份報告都做完，才發現花的時間比原本一份還久。\n14:00 部門會議上，主管說今年因為導入AI，產能明顯提升。\n14:05 他接著說，所以下一季的產出目標，要往上調兩成。\n18:30 我還在辦公室，把AI生成的初稿改到看不出來是AI寫的。\n21:00 手機跳出通知：本週平均加班時數，較上月增加。\n我算了一下，省下來的四十分鐘，後來變成多做的三小時。",
+          "editorNote": "有調查指出近四成上班族靠AI當救星，卻有近兩成因此被要求更高產出——適合傳給那個因為用了AI反而更晚下班的同事。",
+          "variations": [
+            "短版：AI幫我省下的四十分鐘，最後變成主管幫我加的三小時。",
+            "延伸版：同事苦笑說：「AI真正取代掉的，是我準時下班的機會。」"
+          ]
+        },
+        "en": {
+          "content": "9:00 AM — AI drafts the report for me. Saves forty minutes.\n9:15 — Manager likes the draft, asks for two more just like it.\n10:00 AM — Both reports done. Somehow took longer than doing just one used to.\n2:00 PM — Team meeting. Manager says output is clearly up this year, thanks to AI adoption.\n2:05 PM — He adds that next quarter's target is going up twenty percent to match.\n6:30 PM — Still at my desk, editing the AI draft until it doesn't read like AI wrote it.\n9:00 PM — Notification: average overtime hours this week, up from last month.\nI do the math. The forty minutes AI saved me turned into three extra hours.",
+          "editorNote": "A survey found nearly 40% of workers see AI as a lifesaver, while almost 20% say it just raised their output targets. For the coworker whose 'AI efficiency' somehow means going home later.",
+          "variations": [
+            "Short: The forty minutes AI saved me became three extra hours my manager added.",
+            "Extended: A coworker laughs bitterly: 'AI didn't replace my job. It replaced my chance of leaving on time.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-518",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://udn.com/news/story/7269/9689420",
+      "sourceNote": "聯合新聞網報導：上班族估計AI平均2.56年內會明顯影響工作，翻譯、行政文書、美編、文案、基礎程式開發是最受影響的五大職業 — 改寫成教育訓練投影片上出現倒數年數與職務排名的場景。",
+      "tags": [
+        "AI焦慮",
+        "被取代",
+        "AI威脅",
+        "職場焦慮"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司內部教育訓練投影片上寫著：AI平均會在2.56年內明顯影響你的工作內容。\n我盯著那個數字看了很久，像在看一份健康檢查報告。\n同事在底下小聲算，兩年半，大概還能繳完一半的車貸。\n投影片跳到下一頁，列出最容易被取代的五個職務：翻譯、行政文書、美編、文案、基礎工程師，而我的職稱剛好卡在第四個。",
+          "editorNote": "調查估計AI平均2.56年內會明顯影響工作內容，翻譯、行政、美編、文案、基礎工程師是最高風險的五類——適合傳給正在猜自己職缺會不會上榜的朋友。",
+          "variations": [
+            "短版：2.56年，聽起來像感情長跑的年份，其實是我被排進高風險名單後開始倒數的時間。",
+            "延伸版：會議結束後我私訊同梯：「你也是那五個職務之一嗎？」他回：「我們整組都是。」"
+          ]
+        },
+        "en": {
+          "content": "The internal training slide says AI will noticeably affect your job within an average of 2.56 years.\nI stare at that number for a long time, like reading a lab result.\nSomeone behind me does the math out loud — two and a half years, maybe enough to pay off half a car loan.\nNext slide: the five roles most at risk — translation, admin, graphic design, copywriting, entry-level engineering. My title lands squarely at number four.",
+          "editorNote": "A survey pegs the average timeline at 2.56 years before AI noticeably affects your job, with translation, admin, design, copywriting, and entry-level engineering topping the risk list. For the friend guessing whether their title made the cut.",
+          "variations": [
+            "Short: 2.56 years isn't a relationship milestone. It's the countdown that started the day I landed on the risk list.",
+            "Extended: After the meeting I message a coworker: 'Are you one of the five too?' He replies, 'Our whole team is.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-519",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.cnbc.com/2026/09/15/job-seekers-refusing-ai-interviews-blacklisting-employers.html",
+      "sourceNote": "CNBC報導（2026/9/15）：不滿AI面試，部分求職者選擇直接退出面試流程，並將該公司列入黑名單 — 改寫成收到AI視訊面試通知後直接放棄應徵的場景。",
+      "tags": [
+        "面試",
+        "AI",
+        "求職",
+        "職場荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試通知信寫著：第一關為AI視訊面試，請對著鏡頭回答系統提出的問題。\n我點開連結，畫面裡沒有真人，只有一個文字框在倒數計時。\n我把分頁關掉，順手在履歷筆記裡把這間公司標成「不考慮」。\n後來才知道，不只我一個人這樣做，光是拒絕跟AI對話，就已經被算成一種新的離職率。",
+          "editorNote": "調查顯示三成求職者曾直接放棄需要對著AI面試的職缺，甚至把公司列入黑名單——適合分享給收到AI視訊面試通知後猶豫要不要投的朋友。",
+          "variations": [
+            "短版：連面試官都是AI的公司，我連履歷都懶得留。",
+            "延伸版：朋友問我為什麼直接退出，我說：「如果錄取我的人都不是人，那我幹嘛花時間準備。」"
+          ]
+        },
+        "en": {
+          "content": "The interview invite says round one is an AI video interview — answer the on-screen questions facing the camera.\nI click the link. No human on the other end, just a text box counting down.\nI close the tab and quietly mark the company 'pass' in my job search notes.\nTurns out I'm not the only one. Refusing to talk to an AI interviewer has become its own kind of dropout rate.",
+          "editorNote": "About a third of candidates say they've walked away from a role rather than sit through a one-way AI interview, and some are blacklisting the company entirely. For the friend staring at an 'AI video interview' invite, deciding whether it's worth it.",
+          "variations": [
+            "Short: If even the interviewer isn't human, I can't be bothered leaving my resume.",
+            "Extended: A friend asks why I bailed. I tell her: 'If the person hiring me isn't even a person, why would I bother preparing.'"
+          ]
+        }
+      }
     }
   ]
 }

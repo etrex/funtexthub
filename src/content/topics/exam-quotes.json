@@ -13413,6 +13413,156 @@
           ]
         }
       }
-    }
+    },
+        {
+            "id": "eq-449",
+            "dateAdded": "2026-09-23",
+            "sourceUrl": "https://www.rti.org.tw/news?uid=3&pid=218947",
+            "sourceNote": "2026年分科測驗因颱風史上首次延期的新聞；取「延期兩天到底是賺到還是被判緩刑」的反差改寫成心情語錄",
+            "tags": [
+                "分科測驗",
+                "颱風",
+                "命運",
+                "倒數"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "分科測驗前兩天，手機跳出「因應颱風，考試延後至下週一、二」的通知，我盯著螢幕愣了快十秒。原本已經把最後衝刺的節奏抓死，一下子多出兩天，心裡竟分不清是賺到還是被判了緩刑。書桌上的錯題本攤開著，窗外風雨越來越大，我開始把那些還沒背熟的公式再讀一遍。最後成績出來，那兩天多讀的部分剛好考到，只能說連颱風都在幫我劃重點。",
+                    "editorNote": "分科測驗因颱風史上首次延期時可用，聊命運多給的兩天讀書時間。",
+                    "variations": [
+                        "短版：颱風多給兩天，我把它拿來重讀錯題本，結果剛好考到",
+                        "延伸版：收到延期通知那十秒，我分不清自己是賺到還是被判緩刑"
+                    ]
+                },
+                "en": {
+                    "content": "Two days before the exam, my phone buzzed: \"Due to the typhoon, the test is postponed to next Monday and Tuesday.\" I just stared at the screen for a solid ten seconds. My whole cramming rhythm was locked in, and suddenly I had two extra days I couldn't tell were a gift or a stay of execution. My mistake notebook sat open on the desk while the wind got louder outside, so I went back through the formulas I still hadn't nailed. When the results came out, the exact part I'd reviewed during those two days showed up on the test — apparently even the typhoon was helping me guess the range.",
+                    "editorNote": "Use when a typhoon pushes back an exam date — a wry take on fate handing you extra study time.",
+                    "variations": [
+                        "Short: The typhoon gave me two extra days, I used them on my mistake notebook, and it paid off.",
+                        "Extended: In those ten seconds after the notice, I couldn't tell if I'd been rescued or sentenced."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-450",
+            "dateAdded": "2026-09-23",
+            "sourceUrl": "https://popopo.medium.com/%E7%9B%B8%E5%B0%8D%E5%89%9D%E5%A5%AA%E6%84%9F%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7-efa5bd467d93",
+            "sourceNote": "相對剝奪感的心理學介紹文；取「已上榜同學貼出遊照，自己還在讀書」的比較心情改寫成考生語錄",
+            "tags": [
+                "個人申請",
+                "落差",
+                "情緒",
+                "自我認知"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "班上已經用個人申請上大學的同學開始在群組傳出遊照片，我還在整理分科測驗的公式表。滑到那些貼文的瞬間，心裡那種「大家都上岸了只剩我」的感覺特別清楚，明明知道自己的路線不一樣，還是忍不住比較。後來我把手機關靜音，把那份落差感直接寫進讀書計畫的第一頁，提醒自己現在的每一小時都算數。等分科測驗結束那天，我把那張紙撕下來，才發現自己撐過的其實沒有想像中久。",
+                    "editorNote": "看到已上榜同學貼出遊照，心裡不平衡時可用，把落差感轉成讀書動力。",
+                    "variations": [
+                        "短版：把「只剩我沒上岸」的落差感寫進讀書計畫第一頁",
+                        "延伸版：考完那天撕掉那張紙，才發現撐過的日子沒有想像中久"
+                    ]
+                },
+                "en": {
+                    "content": "My classmates who already got in through early admission started posting travel pics in the group chat while I was still organizing formula sheets for the subject test. Scrolling past those posts, that \"everyone's already landed except me\" feeling hit hard, even though I knew our paths were just different. So I muted the chat and wrote that gap straight onto the first page of my study plan, as a reminder that every hour right now still counted. The day the exam was finally over, I tore that page out and realized the stretch I'd survived wasn't nearly as long as it felt.",
+                    "editorNote": "Use when watching already-admitted classmates post vacation photos stings a little — turning the gap into study motivation.",
+                    "variations": [
+                        "Short: I wrote the \"everyone's landed except me\" gap onto page one of my study plan.",
+                        "Extended: The day it ended, I tore out that page and realized it hadn't been as long as it felt."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-451",
+            "dateAdded": "2026-09-23",
+            "sourceUrl": "https://mamidaily.com/article/238641/f4%E5%A5%B3%E7%94%9F%E9%AB%98%E4%B8%AD%E6%88%90%E7%B8%BE%E6%80%A5%E8%B7%8C%E6%84%9F%E7%84%A6%E6%85%AE",
+            "sourceNote": "報導升高中後成績急跌、開學不久即陷焦慮的案例；取「國中讀法在高中不夠用」的落差改寫成新生語錄",
+            "tags": [
+                "高中生",
+                "新生",
+                "段考",
+                "焦慮"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "升上高一才一個月，第一次段考成績單發下來，數字比國中掉了快二十分，我盯著考卷久到老師都走過來拍我肩膀。以前段考前一晚看一下課本就能穩穩過關，現在同一套讀法完全不夠用，落差大到讓我開始懷疑自己是不是變笨了。後來我把讀書時間拆成小段落，每天固定檢討一科的錯題，而不是等到考前才臨時抱佛腳。這次月考成績雖然還沒完全回到國中水準，但至少不再是那種看到考卷就想逃走的感覺。",
+                    "editorNote": "高一新生開學後第一次段考成績下滑時可用，聊落差感與調整讀書節奏。",
+                    "variations": [
+                        "短版：國中的讀法到高中完全不夠用，落差大到懷疑自己變笨",
+                        "延伸版：把讀書時間拆成小段落每天檢討一科，總算不再想逃避考卷"
+                    ]
+                },
+                "en": {
+                    "content": "Just one month into tenth grade, my first exam grades came back nearly twenty points lower than middle school, and I stared at the paper so long the teacher walked over and patted my shoulder. The old trick of skimming the textbook the night before used to be enough, but the same method suddenly wasn't, and the gap made me wonder if I'd gotten dumber over the summer. So I broke my study time into small chunks and started reviewing one subject's mistakes every single day instead of cramming right before the next test. My grades on the next round still weren't back to middle-school levels, but at least I stopped wanting to run the moment I saw the paper.",
+                    "editorNote": "Use for new high schoolers whose grades drop after the first exam of the semester — the gap and how to reset the study rhythm.",
+                    "variations": [
+                        "Short: The middle-school method stopped working in high school, and the gap made me doubt myself.",
+                        "Extended: I split study time into small chunks and reviewed one subject a day, and stopped dreading the paper."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-452",
+            "dateAdded": "2026-09-23",
+            "sourceUrl": "https://awscf.studybank.com.tw/notices/detail/6139",
+            "sourceNote": "討論段考成績好但模擬考大跌的原因；取「兩種考試範圍不同」的落差改寫成自我懷疑語錄",
+            "tags": [
+                "模擬考",
+                "段考",
+                "落差",
+                "自我懷疑"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "段考成績單一直穩穩排在班排前段，直到第一次模擬考卷發下來，分數直接掉出我熟悉的範圍，我盯著成績單懷疑是不是拿錯了別人的考卷。回家路上越想越不對勁，段考範圍小又能提前準備，模擬考卻是把整個學期的內容攤開來考，兩種考試根本不是同一種難度。想通這點之後，我開始把模擬考當成抓漏工具，專門找出段考沒考到、但其實不熟的地方重讀。下一次模擬考分數雖然還沒衝回段考水準，落差至少縮小了一半，讓我比較敢面對接下來的考試。",
+                    "editorNote": "段考成績不錯但模擬考大跌時可用，聊兩種考試範圍不同造成的落差。",
+                    "variations": [
+                        "短版：段考範圍小、模擬考範圍大，發現落差是兩種考試根本不同",
+                        "延伸版：把模擬考當抓漏工具，專找段考沒考到的地方重讀"
+                    ]
+                },
+                "en": {
+                    "content": "My exam grades had stayed steadily near the top of the class, until the first mock exam came back with a score way outside my usual range, and I stared at the paper wondering if I'd been handed someone else's. On the walk home it clicked: regular exams cover a narrow range you can prep for in advance, while a mock exam spreads the whole semester out at once — they're just not the same kind of hard. Once I understood that, I started treating mock exams as a leak detector, specifically hunting down the stuff regular exams never tested but I never actually knew. My score on the next mock still wasn't back to my usual level, but the gap shrank by half, which made me a lot less scared to face what came next.",
+                    "editorNote": "Use when regular exam grades are solid but a mock exam tanks — the gap comes from the two tests covering different ranges.",
+                    "variations": [
+                        "Short: Regular exams are narrow, mock exams are wide — realizing that explained the gap.",
+                        "Extended: Treating mock exams as a leak detector, hunting down what regular exams never tested."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-453",
+            "dateAdded": "2026-09-23",
+            "sourceUrl": "https://blow.streetvoice.com/36009/",
+            "sourceNote": "開學崩潰歌單選曲文章；取「用固定歌單切換上學與讀書心情」的儀式感改寫成紓壓語錄",
+            "tags": [
+                "紓壓",
+                "開學",
+                "情緒",
+                "習慣"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "開學後書單和考程一起塞滿行事曆，我開始在通勤的路上放同一首歌單，從第一首到最後一首剛好是從家裡走到校門口的時間。耳機一戴上，腦子裡那些還沒複習完的範圍好像被按了暫停鍵，走進教室前那三分鐘反而是一天裡最安靜的時候。有幾次考完試心情很差，我會故意把音量調大一點，讓自己先把情緒放完，再回去翻課本。後來這份歌單被我改名叫「進場前」，聽到某幾首前奏，身體會自動知道等一下要收心了。",
+                    "editorNote": "開學考程排滿、需要固定儀式感收心時可用，聊用歌單切換讀書與放鬆的心情。",
+                    "variations": [
+                        "短版：通勤歌單剛好是從家裡到校門口的長度，戴上耳機腦子就先暫停",
+                        "延伸版：把歌單改名叫「進場前」，前奏一下身體就知道要收心了"
+                    ]
+                },
+                "en": {
+                    "content": "Once the semester started, the reading list and the exam schedule crammed into the calendar together, so I began playing the same playlist on my commute — first song to last song, timed almost exactly from my front door to the school gate. The moment the headphones went on, all the unfinished review material seemed to hit pause, and those three minutes before walking into class became the quietest part of my whole day. On days I bombed a test, I'd turn the volume up on purpose and let myself feel bad for the length of one song before going back to the textbook. I ended up renaming that playlist \"before I walk in,\" and now certain opening bars are enough for my body to know it's time to pull it together.",
+                    "editorNote": "Use when the semester's reading and exam schedule pile up and a fixed ritual helps reset — turning a playlist into a mood switch.",
+                    "variations": [
+                        "Short: The commute playlist is timed to the walk to school, and headphones alone hit pause on my brain.",
+                        "Extended: I renamed the playlist \"before I walk in\" — certain intros now mean it's time to focus."
+                    ]
+                }
+            }
+        }
   ]
 }

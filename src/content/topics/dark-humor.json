@@ -14823,6 +14823,134 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-519",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.rollingstone.com/culture/culture-features/ai-chatbot-grief-death-1235585030/",
+      "sourceNote": "取材自AI griefbot（用逝者生前訊息訓練聊天機器人、讓家屬持續對話）的真實報導趨勢，訂閱續約推播早鳥價的場景為原創",
+      "tags": [
+        "黑色幽默",
+        "AI",
+        "死亡",
+        "家庭",
+        "科技",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "外婆走了三個月，家人幫她申請的「AI陪伴」訂閱服務還在扣款——那是用外婆生前的Line對話訓練出來的聊天機器人，讓大家想她的時候可以傳訊息，「她」會用外婆的語氣回。\n\n上週訂閱到期前，App推播了一封信：「陪伴即將到期，續訂享早鳥價，別讓思念中斷。」\n\n表妹把截圖傳到家族群組，只打了一句：「所以現在連想外婆都要看有沒有折扣碼。」\n\n舅舅想了想，還是把信用卡資料填了進去，理由是：「她生前也很會殺價，這樣續訂，她應該會滿意。」",
+          "editorNote": "給那些正在幫已故長輩訂閱AI陪伴服務、卻在續約通知裡看到「早鳥價」三個字愣住的家屬。",
+          "variations": [
+            "短版：外婆的AI陪伴聊天機器人訂閱要到期，App推播「續訂享早鳥價」，舅舅還是刷卡續了，理由是外婆生前也很會殺價。",
+            "延伸版：表妹截圖傳群組吐槽「想外婆還要看折扣碼」，舅舅默默續訂，全家沒人再多說什麼。"
+          ]
+        },
+        "en": {
+          "content": "Three months after Grandma passed, the family's \"AI companion\" subscription was still charging their card — a chatbot trained on her old text messages, built so anyone missing her could send a message and get a reply in her voice.\n\nRight before renewal, the app sent a push notification: \"Your companionship is about to expire. Renew now for an early-bird discount — don't let the memories lapse.\"\n\nA cousin screenshotted it to the family group chat with one line: \"So now missing Grandma comes with a promo code.\"\n\nTheir uncle thought about it, then entered his card number anyway. \"She always loved a good bargain,\" he said. \"She'd want us to take the discount.\"",
+          "editorNote": "For anyone who's paid to keep a late relative's chatbot running and then got hit with a renewal discount code mid-grief.",
+          "variations": [
+            "Short: Grandma's AI companion subscription was about to lapse, and the app pushed an \"early-bird renewal discount\" notice — her uncle renewed anyway, because she always loved a bargain.",
+            "Extended: A cousin screenshotted the notice to the family chat — \"now missing Grandma comes with a promo code\" — and the uncle quietly renewed without another word."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-520",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.vietnam.vn/en/nghe-loi-ai-chon-ngay-ha-huyet-roi-kien-luon-ai-vi-xui-xeo",
+      "sourceNote": "取材自真實報導：有人用AI擇日App選出殯日期，事後家中諸事不順而興訟，改寫為台灣家庭場景與情節，角色原創",
+      "tags": [
+        "黑色幽默",
+        "AI",
+        "死亡",
+        "家庭",
+        "諷刺",
+        "科技"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "爸爸的告別式要選日子，弟弟嫌傳統擇日館又貴又要等，直接用AI擇日App輸入生辰八字，五分鐘就跑出一個「大吉」的出殯日期。\n\n出殯後一個月，家裡的小吃店生意腰斬，媽媽在市場跌了一跤，連家裡的貓都離家出走沒回來。\n\n弟弟越想越不對勁，決定寫存證信函告這家AI擇日公司「選錯日期害全家衰事連連」。\n\n存證信函的草稿，他也是用同一個AI寫的，寫到一半忍不住停下來問自己：「所以我現在是在告AI，還是在跟AI求救？」",
+          "editorNote": "給那些為了省錢跳過傳統擇日、結果比傳統擇日還糾結的家屬。",
+          "variations": [
+            "短版：弟弟用AI App幫爸爸擇出殯日期，結果家裡一個月內衰事不斷，他決定告AI公司，存證信函卻也是用同一個AI寫的。",
+            "延伸版：草擬存證信函寫到一半，弟弟忍不住問自己：「所以我現在是在告AI，還是在跟AI求救？」"
+          ]
+        },
+        "en": {
+          "content": "For their father's funeral, the younger brother didn't want to pay a traditional date-selection master, so he just plugged the birth details into an AI app. Five minutes later, it spat out an \"auspicious\" burial date.\n\nWithin a month of the funeral, the family's noodle stand lost half its customers, their mother slipped and fell at the market, and the cat ran off and never came back.\n\nThe more he thought about it, the angrier he got, so he decided to file a formal complaint that the AI's date choice had cursed the whole family.\n\nHe drafted the complaint letter using the same AI app. Halfway through, he stopped and asked himself: \"Wait — am I suing the AI, or asking it for help?\"",
+          "editorNote": "For anyone who skipped the traditional date-selection master to save money and ended up more stressed than if they'd just paid for one.",
+          "variations": [
+            "Short: A man used an AI app to pick his father's funeral date; when the family's luck tanked for a month afterward, he tried to file a complaint against the AI — using the same AI to draft it.",
+            "Extended: Halfway through writing the complaint, he paused and asked himself: \"Am I suing the AI, or asking it for help?\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-521",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://futurism.com/future-society/ai-insurance-claims-denial",
+      "sourceNote": "取材自AI自動審核並拒絕保險理賠的真實報導趨勢，改寫為壽險理賠與網購退貨對比的家庭場景，角色原創",
+      "tags": [
+        "黑色幽默",
+        "AI",
+        "死亡",
+        "家庭",
+        "諷刺",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "爸爸過世後，媽媽申請他的壽險理賠，系統跑了0.3秒，回傳一封信：「資格不符，予以拒絕。」\n\n沒有人工複核，沒有人看過病歷，媽媽打客服，對方說：「這是AI初步審核，若有疑義可提出申訴，預估處理時間六到八週。」\n\n同一週，媽媽網購的一件襯衫因為「顏色跟照片有落差」申請退貨，AI客服兩秒內就核准退款，還附贈一張下次購物的九折券。\n\n媽媽把兩封信並排截圖，傳給女兒，只寫了一句：「原來一件襯衫，比你爸的命值錢，處理起來還比較快。」",
+          "editorNote": "給那些理賠申訴等了兩個月、退貨卻兩秒過關的家屬，一起苦笑一下。",
+          "variations": [
+            "短版：媽媽申請爸爸的壽險理賠被AI在0.3秒內拒絕，同一週網購退貨卻兩秒過關，她說一件襯衫比你爸的命還值錢。",
+            "延伸版：媽媽把理賠拒絕信和退貨核准信並排截圖傳給女兒，只寫：「處理起來還比較快。」"
+          ]
+        },
+        "en": {
+          "content": "After Dad passed away, Mom filed his life insurance claim. The system took 0.3 seconds to reply: \"Ineligible. Claim denied.\"\n\nNo human reviewed it, no one looked at his medical records. When she called support, they said, \"That was the AI's initial screening. You can appeal if you disagree — estimated processing time, six to eight weeks.\"\n\nThat same week, Mom tried returning a shirt she'd ordered online because \"the color looked off from the photo.\" The AI support bot approved the refund in two seconds, plus a 10% off coupon for her next order.\n\nShe screenshotted both letters side by side and sent them to her daughter with one line: \"Turns out a shirt is worth more than your dad's life — and faster to process, too.\"",
+          "editorNote": "For anyone whose claim appeal is stuck in a six-week queue while a shirt return clears in two seconds — a shared, tired laugh.",
+          "variations": [
+            "Short: Mom's claim for Dad's life insurance was denied by AI in 0.3 seconds; the same week, an online shirt return got approved in two — she said the shirt was worth more and processed faster.",
+            "Extended: She screenshotted the denial and the refund approval side by side and sent them to her daughter, writing only, \"Faster to process, too.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-522",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://trustandwill.com/learn/what-happens-to-your-social-media-when-you-die",
+      "sourceNote": "取材自社群平台紀念帳號申請流程（需死亡證明、審核期間帳號仍正常運作）的真實說明，車禍過世與生日提醒的場景為原創",
+      "tags": [
+        "黑色幽默",
+        "死亡",
+        "科技",
+        "社群媒體",
+        "諷刺",
+        "家庭"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "哥哥出車禍走了兩週後，媽媽的手機還是跳出提醒：「今天是哥哥的生日，傳個訊息祝福他吧！」\n\n家人趕緊申請把帳號設為「紀念帳號」，流程要填死亡證明、等平台審核，前後花了十九天。\n\n這十九天裡，演算法照常運作，哥哥的帳號被推播了三次健身房優惠、一次交友軟體廣告，還收到兩則「好久不見，最近好嗎」的罐頭問候。\n\n媽媽最後把手機拿給女兒設定，只說了一句：「你哥活著的時候都沒這麼多人想他。」",
+          "editorNote": "給正在幫已故家人辦理「紀念帳號」、卻卡在審核期看著演算法照常推播的家屬。",
+          "variations": [
+            "短版：哥哥車禍過世兩週後，手機還跳出生日提醒；申請紀念帳號的十九天審核期裡，演算法照常推播健身房廣告和交友軟體。",
+            "延伸版：媽媽把手機拿給女兒設定紀念帳號，說：「你哥活著的時候都沒這麼多人想他。」"
+          ]
+        },
+        "en": {
+          "content": "Two weeks after her son died in a car accident, the notification still popped up on the mom's phone: \"It's your son's birthday today — send him a message!\"\n\nThe family filed to convert his account into a memorial page, but it needed a death certificate and platform review — nineteen days, start to finish.\n\nDuring those nineteen days, the algorithm kept right on working: his account got pushed three gym membership ads, one dating app promo, and two \"long time no see, how've you been\" check-in prompts.\n\nShe finally handed the phone to her daughter to finish the paperwork, saying only, \"Nobody missed your brother this much while he was alive.\"",
+          "editorNote": "For anyone stuck in the review window trying to memorialize a late family member's account while the algorithm keeps advertising to them like nothing happened.",
+          "variations": [
+            "Short: Two weeks after her son died, his mom still got a birthday notification for him; during the 19-day wait to memorialize his account, the algorithm kept serving gym and dating app ads.",
+            "Extended: Handing the phone to her daughter to finish the memorial request, she said, \"Nobody missed your brother this much while he was alive.\""
+          ]
+        }
+      }
     }
   ]
 }

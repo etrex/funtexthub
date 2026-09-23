@@ -15025,6 +15025,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-571",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://kknews.cc/zh-tw/society/5bzgq53.html",
+      "sourceNote": "停車場車輛偵測器與地感線圈原理說明，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "交通",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "地上那圈電線埋在柏油下面，看不見，車開過去也感覺不到。\n只要輪胎壓過去的是金屬，線圈裡的電流就會變化一下，道閘就判斷「有車」。\n機車骨架小、腳踏車幾乎沒有大面積金屬、行人身上更少，電流變化不夠大，道閘通常沒反應。\n所以嚴格來說，道閘感應的對象一路都是金屬，只是平常開進停車場的金屬，剛好都是車。",
+          "editorNote": "在停車場前等道閘升起、找話題抱怨等待時可以用",
+          "variations": [
+            "短版：道閘感應的其實是金屬，車子只是最常見的那一種。",
+            "延伸版：我牽腳踏車經過同一個閘口，道閘完全沒反應，才確定它認的真的就是金屬，車子只是剛好符合條件而已。"
+          ]
+        },
+        "en": {
+          "content": "The wire loop buried under the asphalt is invisible, and you can't feel it when you drive over it.\nWhenever metal rolls across it, the current inside the loop shifts just enough for the gate to register \"a car is here.\"\nA scooter's frame is small, a bicycle barely has any flat metal, and a pedestrian has even less — none of them shift the current enough, so the gate usually ignores them.\nSo technically, what the gate has been detecting all along is metal. It just so happens that the metal driving into parking lots is usually a car.",
+          "editorNote": "For when you're waiting at a parking gate and want small talk about why it's taking so long",
+          "variations": [
+            "Short version: The gate technically detects metal, and cars just happen to be the most common kind.",
+            "Extended: I walked my bike through the same gate and it didn't react at all — confirming it really does detect metal, and a car just happens to qualify."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-572",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://aquatek.com.tw/system/zhtw/%E9%A3%B2%E6%B0%B4%E6%A9%9F%E5%A6%82%E4%BD%95%E5%8A%A0%E7%86%B1/",
+      "sourceNote": "飲水機溫控器加熱原理（攝氏85-95度間循環）說明，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "生活",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你有沒有發現，同一台飲水機，倒出來的熱水有時候特別燙，有時候沒那麼燙？\n機身側面貼著說明：溫度升到九十五度就斷電，降到八十五度再重新加熱，反覆循環。\n中間那十度的落差，就是它整天在做的事，跟你倒水的手氣沒有關係。\n它唯一保證的，是溫度不會低於八十五度；其餘的，看你倒水那一刻剛好落在哪一段。",
+          "editorNote": "辦公室茶水間聊天、或抱怨飲水機忽冷忽熱時可以用",
+          "variations": [
+            "短版：溫度升到九十五度斷電，降到八十五度再燒，飲水機整天在中間這十度來回。",
+            "延伸版：我拿溫度計量了幾次倒出來的水，數字果然都落在八十五到九十五度之間，一次也沒超出去。"
+          ]
+        },
+        "en": {
+          "content": "Ever notice how the same water dispenser gives you scalding hot water some days and just-warm water on others?\nA label on the side explains it: the heater cuts off at 95°C and kicks back on at 85°C, cycling back and forth all day.\nThat ten-degree gap is the machine's entire job — it has nothing to do with your luck pouring the water.\nThe only thing it guarantees is that the temperature won't drop below 85°C. Everything else depends on exactly which moment you happened to pour.",
+          "editorNote": "Office break-room chat, or when you're complaining about a water dispenser that runs hot and cold",
+          "variations": [
+            "Short version: Heater cuts off at 95°C, kicks back on at 85°C — the dispenser spends all day cycling through that ten-degree gap.",
+            "Extended: I measured the water with a thermometer a few times, and every reading landed between 85°C and 95°C, never once outside that range."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-573",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.x-bike.com.tw/155962/index.php?action=product_detail&prod_no=P0102000057788",
+      "sourceNote": "跑步機安全磁扣（磁性斷電設計）產品官方說明，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "運動",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這條繩子夾在衣服上做什麼？」「安全磁扣，人一摔倒繩子被拉開，跑步機就停。」\n「那沒摔倒呢？」「沒摔倒，繩子沒被拉開，跑步機當然照跑。」\n說明書上的邏輯就是這樣：磁扣分開才斷電，磁扣沒分開就不斷電，中間沒有第三種狀況。\n所以真正讓跑步機停下來的，是摔倒那個瞬間剛好把磁扣扯開；沒扯開，它就只是一條晃來晃去的繩子。",
+          "editorNote": "健身房閒聊、或提醒朋友使用跑步機安全鎖時可以用",
+          "variations": [
+            "短版：磁扣分開才斷電，沒分開就不斷電，跑步機的安全邏輯只有這兩種狀態。",
+            "延伸版：我特地在安全的地方把磁扣拉開試了一次，確定跑步機真的會停，才放心把繩子夾在衣服上。"
+          ]
+        },
+        "en": {
+          "content": "\"What's this cord clipped to your shirt for?\" \"Safety clip. If I fall, it yanks off and the treadmill stops.\"\n\"And if you don't fall?\" \"Then it doesn't yank off, so the treadmill just keeps running.\"\nThat's the entire logic in the manual: power cuts when the clip separates, power stays on when it doesn't — there's no third option.\nSo what actually stops the treadmill is the fall itself happening to yank the clip loose. If it doesn't get yanked, it's just a cord dangling off your shirt.",
+          "editorNote": "Gym small talk, or reminding a friend to actually clip in the treadmill safety key",
+          "variations": [
+            "Short version: Power cuts when the clip separates, stays on when it doesn't — that's the treadmill's entire safety logic.",
+            "Extended: I tested it somewhere safe by yanking the clip loose on purpose, confirmed the treadmill really does stop, and only then felt okay clipping it to my shirt."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-574",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.koc.com.tw/archives/468682",
+      "sourceNote": "智慧電表(AMI)自動抄表原理與更新頻率說明，作為情境背景參考，重新創作",
+      "tags": [
+        "廢話文學",
+        "科技",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "智慧電表功能說明\n· 每十五分鐘回傳一次用電量，不用人來抄表\n· 抄的表，還是你家牆上那一顆，只是換人抄\n· 以前是人隔月看一次數字，現在是機器一天看九十六次\n· 看的次數變多，用的電沒有變少\n· 電費帳單一樣月底才來，只是帳單上的數字變得比較密\n· 備註：智慧電表負責記錄用了多少，不負責解釋為什麼開了冷氣還是覺得熱",
+          "editorNote": "分享家中換裝智慧電表心得、或聊電費話題時可以用",
+          "variations": [
+            "短版：智慧電表把抄表頻率從一個月一次，變成一天九十六次，用電量本身沒有因此變少。",
+            "延伸版：電表換了，帳單格式也跟著換，數字變得比較密，但月底收到帳單的那天，還是同一天。"
+          ]
+        },
+        "en": {
+          "content": "Smart Meter Feature Notes\n- Reports usage every 15 minutes — no more manual meter reading\n- It's still the same meter on your wall, just read by someone else now\n- Used to be a human checking the number once a month; now it's a machine checking it 96 times a day\n- Checking more often doesn't mean you used less power\n- The bill still arrives at month's end, just with denser numbers printed on it\n- Note: the smart meter records how much you used. It doesn't explain why the AC's been on and you're still hot.",
+          "editorNote": "For sharing what it's like after your home got a smart meter, or talking about electricity bills",
+          "variations": [
+            "Short version: Smart meters turned readings from once a month into 96 times a day — the power used doesn't shrink just because it's checked more often.",
+            "Extended: The meter changed, and so did the bill's layout — denser numbers now, but it still lands in your mailbox the same day every month."
+          ]
+        }
+      }
     }
 
   ]

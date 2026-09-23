@@ -15096,6 +15096,156 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-551",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-coding",
+      "sourceNote": "ProgrammerHumor ai-coding 迷因區「AI 寫的程式碼能跑但沒人知道為什麼」的哏，經典「我的程式碼能跑但我不知道為什麼」的 AI 進化版",
+      "tags": [
+        "AI",
+        "AI 寫程式",
+        "code review",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我們公司現在有一個不成文規矩：如果程式碼是AI寫的，出包了誰都不用道歉。上禮拜那支結帳系統就是這樣，跑起來完全正常，可是連寫它的AI自己都答不出「為什麼要這樣寫」。主管問我能不能解釋邏輯，我說我只負責複製貼上跟按下部署。他想了想，說那也算一種分工。",
+          "editorNote": "給常面對「AI寫的程式碼能跑但沒人懂邏輯」情境的工程師，適合code review或交接時自嘲用。",
+          "variations": [
+            "短版：「這段邏輯你解釋一下？」「我只負責部署，邏輯問AI。」",
+            "延伸版：主管後來把這句話寫進了團隊守則第一條。"
+          ]
+        },
+        "en": {
+          "content": "There's an unspoken rule on our team now: if the AI wrote it and it breaks, nobody has to apologize. That's exactly what happened with the checkout service last week — it ran perfectly, except not even the AI that wrote it could explain why. My manager asked me to walk him through the logic, and I told him my job was copy, paste, and deploy. He thought about it and admitted that counted as a division of labor.",
+          "editorNote": "For engineers who keep running into AI-generated code that works but that nobody, including the AI, can explain. Good for code review banter.",
+          "variations": [
+            "Short version: \"Explain this logic.\" \"I just deploy. Ask the AI.\"",
+            "Extended: My manager later put that line in the team handbook."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-552",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://programmerhumor.io/memes/vibe-coding",
+      "sourceNote": "ProgrammerHumor vibe-coding 迷因區「靠感覺決定要不要測試」的哏，延伸出QA被迫做「氛圍複核」的場景",
+      "tags": [
+        "vibe coding",
+        "氛圍寫程式",
+        "QA",
+        "品質保證"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "QA這個職位最近多了一項新任務，叫做「氛圍複核」。工程師把AI生成的功能丟給我，理由永遠是「昨天測起來感覺很順」。我問他有沒有寫測試案例，他說靈感來的時候寫測試案例會打斷氣氛。這禮拜上線三次，兩次靠感覺撐過去，第三次感覺錯了。",
+          "editorNote": "吐槽「vibe coding」讓QA流程變成看感覺的職場迷因，適合工程團隊自嘲測試被跳過的窘境。",
+          "variations": [
+            "短版：「測試案例呢？」「靠感覺。」「這次呢？」「感覺錯了。」",
+            "延伸版：事後複盤會議的標題直接叫「氛圍歸因分析」。"
+          ]
+        },
+        "en": {
+          "content": "QA has a new unofficial duty these days: the vibe check. Engineers hand me AI-generated features with the same explanation every time — 'it felt smooth when I tried it yesterday.' I asked if there were any test cases, and he said writing test cases mid-flow ruins the vibe. We shipped three times this week; two of those went fine on vibes alone. The third time, the vibes were wrong.",
+          "editorNote": "Pokes fun at vibe coding turning QA into a feelings-based process — good for teams joking about skipped testing.",
+          "variations": [
+            "Short version: \"Test cases?\" \"Vibes.\" \"And this time?\" \"Wrong vibes.\"",
+            "Extended: The postmortem meeting was literally titled 'Vibe Root Cause Analysis.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-553",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "ProgrammerHumor「2026年寫程式」迷因區「AI代理人闖禍後反而更缺資深工程師收拾」的哏，改寫成徵才啟事列表格式",
+      "tags": [
+        "AI agent",
+        "資深工程師",
+        "求職",
+        "職場生存"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "徵才啟事，職缺：資深工程師×3\n工作內容：\n－ 讀懂AI代理人半夜自動產生的兩萬行程式碼\n－ 找出哪一段是AI自己加的「防呆機制」，其實是新的漏洞\n－ 向主管解釋「效率提升」跟「工時暴增」是同一件事\n－ 教新來的AI代理人不要再重寫已經寫好的函式\n－ 心理素質：能接受KPI寫著「人力精簡」，職缺卻越開越多\n待遇：比去年高，因為公司真的很需要人",
+          "editorNote": "諷刺「AI取代工程師」神話破滅後，公司反而更需要資深工程師收拾AI代理人闖的禍，適合分享求職或職場版。",
+          "variations": [
+            "短版：徵資深工程師，工作內容就一句：收拾AI留下的爛攤子。",
+            "延伸版：福利欄多加一行——附贈一位隨時重寫你程式碼的AI隊友。"
+          ]
+        },
+        "en": {
+          "content": "Job posting. Position: Senior Engineer x3.\nResponsibilities:\n— Read through the 20,000 lines an AI agent generated overnight\n— Figure out which 'safety check' the AI added is actually a new bug\n— Explain to leadership that 'increased efficiency' and 'exploding overtime' are the same thing\n— Teach the new AI agent to stop rewriting functions that already work\n— Must be mentally prepared for a KPI that says 'headcount reduction' while openings keep multiplying\nCompensation: higher than last year, because the company genuinely needs the help.",
+          "editorNote": "Jokes about how the 'AI replaces engineers' myth collapsed and companies now need MORE senior engineers to clean up after AI agents.",
+          "variations": [
+            "Short version: Hiring senior engineers. Job description: clean up after the AI.",
+            "Extended: Benefits section adds one more line — comes with an AI teammate that rewrites your code at will."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-554",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.briefs.co/news/mangos-is-replacing-faang-as-big-techs-new-nickname/",
+      "sourceNote": "科技圈迷因「MANGO取代FAANG」（Meta、Anthropic、輝達、Google、OpenAI）的哏，改寫成面試場景",
+      "tags": [
+        "求職",
+        "面試",
+        "履歷",
+        "2026"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "面試官問我，履歷上寫「目標進入FAANG」是不是太舊了。我愣了一下，問現在流行講什麼。他說現在都講MANGO，Meta、Anthropic、輝達、Google、OpenAI。我把履歷上的FAANG劃掉，想了想又寫上一句「其實去哪都可以，只要不用自己修AI留下的爛攤子」。他笑了，說這句話比整份履歷誠實。",
+          "editorNote": "呼應近期「FAANG退流行、MANGO當紅」的科技圈迷因，適合求職季或面試話題的社群分享。",
+          "variations": [
+            "短版：「還想進FAANG？」「現在流行MANGO了。」",
+            "延伸版：面試官最後在履歷角落簽了名，說算他見證這句話。"
+          ]
+        },
+        "en": {
+          "content": "The interviewer asked if putting 'aiming for FAANG' on my resume was outdated. I paused and asked what people say now. He said it's MANGO these days — Meta, Anthropic, Nvidia, Google, OpenAI. I crossed FAANG off my resume, thought about it, and added a line underneath: 'honestly anywhere is fine, as long as I don't have to clean up after an AI's mess.' He laughed and said that line was more honest than the rest of the resume combined.",
+          "editorNote": "Riffs on the 'FAANG is out, MANGO is in' tech meme — good for job-hunting season or interview small talk.",
+          "variations": [
+            "Short version: \"Still aiming for FAANG?\" \"It's MANGO now.\"",
+            "Extended: The interviewer signed the corner of the resume, saying he wanted to witness that line."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-555",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://programmerhumor.io/ai-memes",
+      "sourceNote": "ProgrammerHumor AI迷因區「叫AI寫文件結果AI也看不懂程式碼」的哏，改寫成交接遺留程式碼的場景",
+      "tags": [
+        "AI",
+        "文件",
+        "遺留程式碼",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "主管要我幫舊系統補文件，我偷懶叫AI幫忙寫。AI讀完那段程式碼，生成的說明第一句就是「老實說，我也看不懂這段在幹嘛」。我把這句話原封不動貼進文件裡，主管看了說終於有人講實話。後來新人接手那段程式碼，備註欄還特別註明：連AI都放棄了，請自行憑感覺修改。",
+          "editorNote": "給接手遺留程式碼、連AI都解讀不出邏輯的工程師，適合交接文件或黑色幽默場合。",
+          "variations": [
+            "短版：AI寫的文件第一句是「我也看不懂」，主管說終於有人誠實。",
+            "延伸版：那份文件後來被釘選在團隊頻道置頂，標題是「唯一誠實的技術文件」。"
+          ]
+        },
+        "en": {
+          "content": "My manager asked me to document a legacy system, so I got lazy and had the AI do it. After reading the code, the first line of its documentation was, 'Honestly, I don't understand what this does either.' I pasted that sentence straight into the docs, and my manager said it was the first honest thing anyone had written all year. When the new hire inherited that code, the comment above it read: even the AI gave up — proceed by vibes.",
+          "editorNote": "For engineers inheriting legacy code so tangled even the AI can't explain it — good for handoff docs or dark-humor sharing.",
+          "variations": [
+            "Short version: The AI's documentation opens with 'I don't get it either.' Manager calls it the most honest line all year.",
+            "Extended: That doc got pinned to the team channel, titled 'The Only Honest Piece of Documentation We Have.'"
+          ]
+        }
+      }
     }
   ]
 }

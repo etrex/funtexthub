@@ -13860,6 +13860,156 @@
           ]
         }
       }
+    },
+{
+  "id": "sl-473",
+  "dateAdded": "2026-09-23",
+  "sourceUrl": "https://www.yahoo.com/lifestyle/articles/larper-internets-favorite-insult-heres-182701588.html",
+  "sourceNote": "網路流行語「larper」源自LARP真人角色扮演，指在網路上營造人設卻一戳就破功的人，取其概念與定義自行重寫情境與文字",
+  "tags": [
+    "larper",
+    "人設",
+    "裝內行",
+    "反差"
+  ],
+  "i18n": {
+    "zh-tw": {
+      "content": "他自我介紹時，\n說自己「精通咖啡豆產地」，\n我遞了一杯淺焙給他，\n他喝一口，皺眉說「這杯偏酸，是不是壞掉了」。\n\n人設演這麼大又秒破功，這就是標準 larper。",
+      "editorNote": "「larper」源自LARP（真人角色扮演），現在泛指在網路上營造自己很懂某個領域、卻一戳就破功的人，帶點看破手腳的嘲諷。適合用來吐槽那種人設撐不住三秒的朋友或同事。",
+      "variations": [
+        "職場版：「他履歷寫精通Excel樞紐分析，開會問他公式他打死不開螢幕分享，根本 larper。」",
+        "社群版：「限動全是重訓照，問他今天練哪個部位，支支吾吾答不出來，這 larper 也太明顯。」"
+      ]
+    },
+    "en": {
+      "content": "He introduced himself as\n'basically a coffee bean expert,'\nI handed him a light roast,\nhe took a sip, frowned, and asked if it had gone bad.\n\nThat's a larper for you — the persona folds in under ten seconds.",
+      "editorNote": "'Larper' comes from LARP (live-action role-play) and now describes someone performing expertise or a persona online that collapses the second anyone tests it. Perfect for calling out a friend or coworker whose confident front doesn't survive one real question.",
+      "variations": [
+        "Office: 'His resume says Excel pivot-table expert. Ask him a formula in a meeting and he refuses to share his screen. Total larper.'",
+        "Social: 'His story is all gym selfies. Ask what muscle group he trained today and he goes silent. Such an obvious larper.'"
+      ]
     }
+  }
+},
+{
+  "id": "sl-474",
+  "dateAdded": "2026-09-23",
+  "sourceUrl": "https://www.merriam-webster.com/slang/performative-male",
+  "sourceNote": "網路流行語「performative male」指刻意營造敏感有品味形象討好異性的男生，取其概念與定義自行重寫情境與文字",
+  "tags": [
+    "performative male",
+    "人設",
+    "約會",
+    "反差"
+  ],
+  "i18n": {
+    "zh-tw": {
+      "content": "捷運上那個男生，\n帆布袋插著一本文學小說，\n耳機聽的是我沒聽過的獨立女歌手，\n手裡那杯抹茶拿鐵，去冰再加冰那種堅持。\n\n朋友小聲說，這根本是教科書等級的 performative male。",
+      "editorNote": "「performative male」指刻意營造「敏感、有品味、懂女性主義」形象來討好異性的男生，常見標配是帆布袋、抹茶拿鐵、文青書籍跟小眾女歌手歌單。適合用來吐槽那種人設比內容還多的約會對象。",
+      "variations": [
+        "約會版：「他約會全程聊自己多支持女性主義，結帳時卻理所當然叫我先付，performative male 無誤。」",
+        "觀察版：「捷運上三個男生手上都拿著同款帆布袋跟抹茶拿鐵，performative male 集體出沒現場。」"
+      ]
+    },
+    "en": {
+      "content": "The guy on the subway\nhad a tote bag with a novel poking out,\nheadphones playing some indie singer I'd never heard of,\nan iced matcha latte in hand — extra ice, obviously.\n\nMy friend whispered, 'that's a textbook performative male.'",
+      "editorNote": "A 'performative male' is a guy who curates a sensitive, feminist-friendly persona — tote bag, matcha latte, indie playlist, a book he's never actually finished — mainly to look appealing to women. Great for roasting a date who has more aesthetic than substance.",
+      "variations": [
+        "Dating: 'He spent the whole date talking about supporting feminism, then just assumed I'd cover the bill. Certified performative male.'",
+        "Observation: 'Three guys on the train, same tote bag, same matcha latte. Performative males traveling in a pack.'"
+      ]
+    }
+  }
+},
+{
+  "id": "sl-475",
+  "dateAdded": "2026-09-23",
+  "sourceUrl": "https://www.merriam-webster.com/dictionary/vibe%20coding",
+  "sourceNote": "Merriam-Webster 2026新詞「vibe coding」，指靠向AI描述感覺生成程式碼而非親自寫邏輯，取其概念與定義自行重寫情境與文字",
+  "tags": [
+    "vibe coding",
+    "AI",
+    "職場",
+    "自嘲"
+  ],
+  "i18n": {
+    "zh-tw": {
+      "content": "專案經理問我這段程式邏輯，\n我盯著螢幕愣了兩秒，\n老實說，這段是我跟AI說「幫我弄一個看起來很潮的登入頁」生出來的，\n連我自己都說不出它為什麼能動。\n\n這就是純正的 vibe coding，能跑就別問細節。",
+      "editorNote": "「vibe coding」指靠著跟AI描述「感覺」而不是真的寫程式邏輯生出程式碼，開發者常常連自己生出來的東西為什麼能動都說不清楚。適合用來自嘲工作方式，或吐槽那種只求跑得動、不求看得懂的開發現場。",
+      "variations": [
+        "自嘲版：「主管問我這個function在幹嘛，老實說我也不知道，純 vibe coding 產物。」",
+        "吐槽版：「他整份專案都是 vibe coding 出來的，改一行報錯二十行，沒人敢動。」"
+      ]
+    },
+    "en": {
+      "content": "My manager asked me to explain the logic in this function.\nI stared at the screen for two full seconds.\nHonestly, I just told the AI 'make this login page look cool' and this is what came out —\nI can't even explain why it works.\n\nThat's pure vibe coding: if it runs, don't ask questions.",
+      "editorNote": "'Vibe coding' means generating code by describing the feel you want to an AI rather than actually writing the logic yourself — often leaving the developer unable to explain why their own code works. Great for self-deprecating dev humor or roasting a codebase nobody dares touch.",
+      "variations": [
+        "Self-roast: 'My boss asked what this function does. Honestly, no idea. Pure vibe coding output.'",
+        "Roast: 'His whole project is vibe coded. Change one line and twenty things break. Nobody wants to touch it.'"
+      ]
+    }
+  }
+},
+{
+  "id": "sl-476",
+  "dateAdded": "2026-09-23",
+  "sourceUrl": "https://www.merriam-webster.com/slang/copium",
+  "sourceNote": "Merriam-Webster 2026新詞「copium」，cope加opium的組合詞，指遇到爛結果時硬找理由自我安慰，取其概念與定義自行重寫情境與文字",
+  "tags": [
+    "copium",
+    "自我安慰",
+    "考試",
+    "感情"
+  ],
+  "i18n": {
+    "zh-tw": {
+      "content": "月考成績單發下來，\n他盯著那個分數看了很久，\n然後說「其實這樣代表我還有很大進步空間」，\n轉頭又說「而且我這次是故意考差的，怕太高調」。\n\n嗑了滿滿一整碗 copium，比考卷本人還鎮定。",
+      "editorNote": "「copium」是「cope（硬撐）」加「opium（鴉片）」的組合詞，形容遇到爛結果時瘋狂自我安慰、硬找理由說服自己沒事的狀態。適合用來吐槽那種輸了還在硬凹、明明很在意卻裝得很豁達的人。",
+      "variations": [
+        "考試版：「模擬考掉了二十分，他說是命題太爛，這碗 copium 嗑得有夠大碗。」",
+        "感情版：「被已讀不回三天，她說對方一定是太忙，嗑 copium 嗑到面不改色。」"
+      ]
+    },
+    "en": {
+      "content": "The exam results came back.\nHe stared at the number for a long moment,\nthen said, 'this just means I have a lot of room to improve,'\nfollowed by, 'actually I did badly on purpose, didn't want to seem show-offy.'\n\nThat's a full bowl of copium, served calmer than the actual test.",
+      "editorNote": "'Copium' blends 'cope' and 'opium' — it's the denial or self-soothing people reach for after a bad outcome, insisting everything's fine when it clearly isn't. Use it to call out someone rationalizing a loss instead of just admitting it stung.",
+      "variations": [
+        "Exam: 'He dropped twenty points on the mock test and blamed the question design. That's a big bowl of copium.'",
+        "Dating: 'Left on read for three days and she insists he's just busy. Drinking copium and staying completely calm about it.'"
+      ]
+    }
+  }
+},
+{
+  "id": "sl-477",
+  "dateAdded": "2026-09-23",
+  "sourceUrl": "https://www.merriam-webster.com/slang/cuffing-season",
+  "sourceNote": "Merriam-Webster 2026新詞「cuffing season」，指天冷就想找對象取暖的單身現象，取其概念與定義自行重寫情境與文字",
+  "tags": [
+    "cuffing season",
+    "單身",
+    "戀愛",
+    "季節"
+  ],
+  "i18n": {
+    "zh-tw": {
+      "content": "十月一到，\n他忽然把交友軟體全部重新設定，\n自介改成「想找人一起吃火鍋跨年」，\n上個月才說要享受單身的人是同一個。\n\n每年這個時候準時發作，這就是 cuffing season。",
+      "editorNote": "「cuffing season」指天氣一變冷，單身的人就突然很想找對象窩在一起取暖，通常從十月延燒到跨年後，過完情人節熱度就消退。適合用來吐槽那種每到秋冬就突然積極配對的朋友。",
+      "variations": [
+        "吐槽版：「他夏天說享受單身自由，十月一到馬上重滑交友軟體，準時報到的 cuffing season。」",
+        "自嘲版：「我承認啦，天氣一冷就想找人一起吃火鍋，我就是 cuffing season 本人。」"
+      ]
+    },
+    "en": {
+      "content": "The moment October hit,\nhe redid his entire dating app profile,\nbio now reads 'looking for someone to ring in the new year with,'\nsame guy who swore he was 'enjoying being single' last month.\n\nRight on schedule every year — that's cuffing season.",
+      "editorNote": "'Cuffing season' is when single people suddenly want a partner to hunker down with once the weather turns cold, usually kicking off in October and fading out after Valentine's Day. Perfect for roasting the friend who gets suspiciously proactive on dating apps every autumn.",
+      "variations": [
+        "Roast: 'He was all about \"enjoying single life\" in summer. October hits and he's back on the apps. Cuffing season, right on time.'",
+        "Self-aware: 'Fine, I admit it — the second it gets cold I want someone to share hot pot with. I am cuffing season personified.'"
+      ]
+    }
+  }
+}
   ]
 }

@@ -8713,6 +8713,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-295",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://if192.aca.ntu.edu.tw/sel-info/index.html",
+      "sourceNote": "台大網路選課系統加退選頁面，加退選作業於9月下旬截止；借「同分頁刷新搶空位」這個高峰期情境，改寫成一句加退選最後一夜的吐槽",
+      "tags": [
+        "選課",
+        "校園生活",
+        "開學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "加退選最後一夜十一點，我在同一堂通識課的加選頁面上開了三個分頁，每隔幾秒重新整理一次。\n十點五十八分，其中一個分頁跳出一個空位，我手指抖著送出，畫面卻顯示名額在零點三秒前已被搶走。\n室友的分頁比我早兩秒送出，她把手機轉過來給我看，「加選成功」四個字亮著。\n我把剩下兩個分頁關掉，轉去修另一位教授開在同個時段、幾乎沒人選的相近課程。",
+          "editorNote": "加退選截止日深夜，貼給還在刷分頁搶名額的同學。",
+          "variations": [
+            "短版：加退選最後一夜刷了三個分頁搶同一堂課，室友比我早兩秒搶到，我默默改選了乏人問津的替代課。",
+            "延伸版：隔天到班群組才發現，那堂通識課有一半的人都經歷了同一晚的搶位大戰，大家貼出的截圖時間全部卡在同一分鐘。"
+          ]
+        },
+        "en": {
+          "content": "On the last night of add/drop, I had three tabs open on the same gen-ed course's registration page, refreshing every few seconds.\nAt 10:58, a seat opened up in one tab. My hand shook as I hit submit — the screen said it had been taken 0.3 seconds earlier.\nMy roommate's tab beat mine by two seconds. She turned her phone around to show me: \"Enrollment successful.\"\nI closed the other two tabs and switched to a near-identical course another professor taught at the same time slot — the one nobody wanted.",
+          "editorNote": "For add/drop deadline night, when everyone's refreshing tabs for the same open seat.",
+          "variations": [
+            "Short version: Three tabs open, refreshing for one seat in the same class — my roommate beat me by two seconds, so I quietly switched to the unpopular alternative.",
+            "Longer version: The next day in the group chat, half the class turned out to have fought the same battle that night — everyone's screenshots were timestamped within the same minute."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-296",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://udn.com/news/story/7241/9739194",
+      "sourceNote": "聯合新聞網報導開學打工型態改變，六成四學生願意接受較低時薪換取排班彈性；借「時薪高低 vs 排班自由」這個取捨，改寫成一句面試現場的抉擇",
+      "tags": [
+        "打工",
+        "校園生活",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "打工面試前，店長開出時薪一百八十五，比隔壁飲料店高十五元，我卻沒有馬上答應。\n我問可不可以配合我的課表排班，對方說早班是固定的，課若衝堂只能翹課配合。\n隔壁飲料店時薪雖然低一點，但班表是我自己填的，空堂就上班，考試週前先跟店長說一聲就能排休。\n最後我選了時薪較低的那間，把多賺的十五元，換成不用跟課表對賭的安心感。",
+          "editorNote": "開學後找打工、在時薪跟排班自由之間猶豫的人可以看看。",
+          "variations": [
+            "短版：時薪高十五元的店要求固定早班、課衝堂得翹課，我選了時薪較低但班表自己填的那間。",
+            "延伸版：一個月後結算，兩份工作時薪差了快兩千元，但我一堂課都沒缺，那筆差額我認了。"
+          ]
+        },
+        "en": {
+          "content": "The manager offered NT$185 an hour, fifteen more than the drink shop next door, but I didn't say yes right away.\nI asked if the schedule could work around my classes. He said the morning shift was fixed — if it clashed, I'd have to skip class.\nThe drink shop paid a bit less, but I filled in my own shifts, working the gaps between classes, and could block off exam week with one message to the manager.\nI took the lower-paying job. The fifteen-dollar difference bought me a schedule that never bet against my classes.",
+          "editorNote": "For students job-hunting after the semester starts, torn between higher pay and a schedule that bends around class.",
+          "variations": [
+            "Short version: Higher pay meant a fixed shift I'd have to skip class for. I took the lower-paying job where I set my own hours instead.",
+            "Longer version: A month in, the pay gap between the two jobs came to almost two thousand dollars — but I hadn't missed a single class, and I was fine with that trade."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-297",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.cashfeel.com.tw/article/%E6%A0%A1%E5%9C%92%E8%A1%8C%E4%BA%8B%E6%9B%86-%E5%AF%92%E5%81%87-%E6%9A%91%E5%81%87-%E9%96%8B%E5%AD%B8",
+      "sourceNote": "校園行事曆整理站指出今年中秋教師節連放四天（9/25–9/28）；借「連假前教授集中調整死線」這個安排，改寫成一句烤肉夜趕報告的吐槽",
+      "tags": [
+        "報告",
+        "死線",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "系上公告中秋連假放四天，教務處信箱同時間跳出三封信，是三位教授分別調整的期中報告死線。\n三個死線不約而同都改到連假結束後隔天早上九點，理由都寫著「讓同學有充裕時間準備」。\n我把行事曆攤開，四天連假被三份報告切成三塊，中秋烤肉那晚我抱著筆電坐在烤爐旁邊。\n家人問我要不要吃烤肉，我頭也沒抬地說再兩段就好，手裡的滑鼠比誰的烤肉夾都動得勤。",
+          "editorNote": "中秋連假前教授集中調整死線那天，貼給行事曆被切成好幾塊的同學。",
+          "variations": [
+            "短版：三位教授把死線都改到連假結束隔天九點，中秋烤肉夜我抱著筆電坐在烤爐邊趕報告。",
+            "延伸版：連假最後一天交完三份報告，我打開烤肉的剩菜加熱來吃，冷掉的肉比熱的時候更有嚼勁。"
+          ]
+        },
+        "en": {
+          "content": "The department announced a four-day mid-autumn break, and three emails landed in my inbox at once — three professors, each moving up a midterm paper deadline.\nAll three deadlines somehow landed on the same morning, 9 a.m. the day after break ended, each note explaining it was \"to give everyone plenty of time to prepare.\"\nI opened my calendar: the four-day break got cut into three slices by three papers. On mid-autumn barbecue night, I sat next to the grill with my laptop.\nMy family asked if I wanted to eat. I said two more paragraphs, not looking up — my mouse moved faster than anyone's barbecue tongs.",
+          "editorNote": "For the day professors all move deadlines around a long weekend — send it to whoever's calendar just got sliced into pieces.",
+          "variations": [
+            "Short version: Three professors moved deadlines to 9 a.m. the day after break. Mid-autumn barbecue night, I sat by the grill with my laptop instead of a plate.",
+            "Longer version: I turned in all three papers on the last day of break, then reheated the barbecue leftovers — cold meat, reheated, somehow chewier than it was fresh."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-298",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183034/post/202609170032/",
+      "sourceNote": "今周刊報導一名大二生同時醫院工讀與夜市打工，月入近三萬、硬存一萬拼遊學基金；借「三份時間表疊出的空白只剩晚餐」這個排班強度，改寫成一句對室友的回答",
+      "tags": [
+        "打工",
+        "大學生",
+        "省錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上八點到中午，我在醫院當病歷歸檔的工讀生，下午兩點到六點回學校上課，晚上七點再到夜市幫忙端盤子。\n三份時間表疊在一起，唯一共同的空白只剩晚餐，我通常在夜市顧攤的空檔啃一顆飯糰。\n這個月薪水加起來快三萬，扣掉房租跟餐費，我還是硬存下一萬，存摺封面被我寫上「遊學基金」四個字。\n室友問我累不累，我說比起熬夜讀書，搬病歷跟端盤子至少不用想太多。",
+          "editorNote": "開學後同時排三份工讀班表的人，可以貼給正在存旅費或學費的自己。",
+          "variations": [
+            "短版：醫院歸檔、下午上課、晚上端盤，三份時間表疊出的空白只剩晚餐，這個月硬存了一萬遊學基金。",
+            "延伸版：存摺數字破十萬那天，我把三份工作的排班表拍照存起來，想留著提醒自己那半年是怎麼熬過來的。"
+          ]
+        },
+        "en": {
+          "content": "From 8 a.m. to noon I file medical records at the hospital; from 2 to 6 I'm back on campus for class; from 7 p.m. I'm bussing tables at the night market.\nStack all three schedules and the only blank space left is dinner — I usually eat a rice ball during a lull at the market stall.\nThis month's pay adds up to almost NT$30,000. After rent and food, I still forced myself to save ten thousand, and wrote \"study-abroad fund\" on the cover of my passbook.\nMy roommate asked if I was exhausted. I said compared to pulling all-nighters studying, filing charts and carrying trays at least didn't require much thinking.",
+          "editorNote": "For anyone juggling three part-time schedules around class this semester, saving toward tuition or a trip.",
+          "variations": [
+            "Short version: Hospital filing, afternoon class, night market shifts — the only free slot left is dinner, and I still saved ten thousand this month for a study-abroad fund.",
+            "Longer version: The day my savings passed NT$100,000, I saved photos of all three schedules from that semester — a reminder of how I got through it."
+          ]
+        }
+      }
     }
   ]
 }

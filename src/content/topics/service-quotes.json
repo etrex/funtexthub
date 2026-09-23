@@ -12712,6 +12712,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-459",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260905000904-260404",
+      "sourceNote": "中時新聞網報導YouTube頻道「哈哈台」街訪爆料，曾在101精品專櫃工作的前櫃姐控訴兩位知名藝人試衣後把衣服丟滿地，同事私下提醒「他看起來很兇，別惹他」。取「看起來很兇所以沒人敢講」這個心理壓力改寫成專櫃店員視角的片段。",
+      "tags": [
+        "服務業",
+        "奧客",
+        "零售",
+        "客人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她把試穿完的衣服丟在地上，看都沒看一眼。\n我蹲下去撿，拉鍊卡到手指。\n同事小聲提醒：「別惹她，她看起來很兇。」\n掛回衣架那一刻我才想到，我的工作說明裡，從來沒有一條寫著「心情要跟著客人的臉色走」。",
+          "editorNote": "光鮮的貴賓待遇背後，蹲下去撿衣服的永遠是基層店員。送給正在收拾殘局、還得保持笑容的專櫃夥伴。",
+          "variations": [
+            "短版：她把試穿的衣服丟滿地，我蹲下去撿。工作說明裡沒有一條寫「心情要跟著客人臉色走」。",
+            "延伸版：後來我發現，客人「看起來很兇」的時候，大家反而更不敢多說一句話，單純是沒有人想惹麻煩。"
+          ]
+        },
+        "en": {
+          "content": "She dropped the clothes she'd tried on straight onto the floor without a glance.\nI crouched down to pick them up, and the zipper caught on my finger.\nMy coworker whispered, \"Don't push it, she looks like she'll bite.\"\nHanging them back on the rack, I remembered my job description never once mentioned \"match your mood to the customer's face.\"",
+          "editorNote": "Behind the glossy VIP treatment, it's always floor staff crouching down to pick things up. For boutique staff cleaning up after someone else and still expected to smile.",
+          "variations": [
+            "Short: She dropped the clothes on the floor, I crouched down to pick them up. My job description never mentioned matching moods with a customer's face.",
+            "Longer: I noticed that when a customer \"looks scary,\" everyone gets quieter, not more respectful — nobody just wants the trouble."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-460",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://blog.104.com.tw/mid-autumn-festival-salary/",
+      "sourceNote": "104職場力文章整理2026年中秋連假出勤薪資規則，說明時薪制員工於國定假日出勤，工資須以「出勤時數乘以兩倍」計算。取「兩倍薪水換不回一張團圓飯桌」這個對比改寫成中秋當班店員的心聲。",
+      "tags": [
+        "服務業",
+        "中秋節",
+        "加班費",
+        "超商"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "中秋排到我的班，時薪乘以二，我補貨的時候忍不住一直心算。\n客人問：「你們中秋不放假喔？」\n「放啊，我放在收銀機這邊。」\n算到最後才發現，兩倍工資買不到一張真正坐下來吃飯的桌子。",
+          "editorNote": "國定假日出勤能領兩倍薪，但補不回一起吃飯的那張餐桌。給今天中秋還在上班、邊算加班費邊想家的服務業夥伴。",
+          "variations": [
+            "短版：中秋時薪乘以二，但買不到一起吃飯的那張桌子。",
+            "延伸版：主管說「辛苦了，加班費有算給你」，我心裡回的是「謝謝，那晚餐就算你的」，當然沒說出口。"
+          ]
+        },
+        "en": {
+          "content": "I got scheduled to work on the Mid-Autumn Festival, double pay, and I kept doing the math in my head while restocking shelves.\nA customer asked, \"Don't you guys get the holiday off?\"\n\"We do — mine's parked right here at the register.\"\nBy the end of my math, I realized double pay still can't buy back an actual seat at a reunion dinner table.",
+          "editorNote": "Holiday pay doubles your wage, but it doesn't refund the dinner table you missed. For anyone working the Mid-Autumn shift today, doing overtime math while missing home.",
+          "variations": [
+            "Short: Double pay on the holiday still can't buy back a seat at the dinner table.",
+            "Longer: My manager said, \"Thanks for the hard work, the overtime's counted.\" What I thought but didn't say: \"Thanks — dinner's on you, then.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-461",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.setn.com/news/1907307",
+      "sourceNote": "三立新聞報導中秋包裝出貨相關職缺需求達平常六倍、總工時飆升至13.3倍，反映零售與倉儲業人力吃緊。取「產線被撐大六倍」這個數字改寫成包裝線員工視角的片段。",
+      "tags": [
+        "服務業",
+        "中秋節",
+        "缺工",
+        "包裝"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "中秋前兩週，包裝線的班表突然多了一倍。\n禮盒一箱接一箱疊過來，緞帶要打得漂亮，手要穩。\n主管說：「今年的量是平常的六倍。」\n我只知道，下班脫下手套的時候，指節痠得像打了一整場球。",
+          "editorNote": "精緻禮盒的背後，是被硬撐大六倍的人力。送給中秋前夕在包裝線加速趕工的無名英雄。",
+          "variations": [
+            "短版：中秋禮盒的量是平常的六倍，脫手套的時候指節痠得像打了一整場球。",
+            "延伸版：客人拆開禮盒只看緞帶打得漂不漂亮，沒有人會看到，那條緞帶是第幾百次重打才打好的。"
+          ]
+        },
+        "en": {
+          "content": "Two weeks before the Mid-Autumn Festival, the packing line schedule suddenly doubled.\nGift boxes piled up one after another — ribbons had to look perfect, hands had to stay steady.\nMy supervisor said, \"This year's volume is six times normal.\"\nAll I knew was that when I peeled off my gloves at the end of the shift, my knuckles ached like I'd played a full game.",
+          "editorNote": "Behind every polished gift box is a packing line stretched six times past normal. For the unnamed workers speeding through the line before the holiday.",
+          "variations": [
+            "Short: This year's gift-box volume is six times normal — my knuckles ached like I'd played a full game by the end.",
+            "Longer: Customers only notice whether the ribbon looks pretty. Nobody sees how many tries it took to get it right."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-462",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://cairiver.com.tw/knowledge/industry-focus/7358",
+      "sourceNote": "產業文章分析AI客服雖能攔截約八成重複性詢問，但顧客體驗調查顯示消費者其實排斥被AI擋在外面，複雜爭議仍須真人處理。取「簡單的被AI挑走、難搞的留給真人」這個矛盾改寫成客服人員的自嘲金句。",
+      "tags": [
+        "服務業",
+        "客服",
+        "AI",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司說AI客服上線後會攔下八成簡單問題，我應該會輕鬆一點。\n結果留給我的那兩成，全部是機器人解決不了、講幾次都聽不進去的。\n主管說這叫「把真人留給真正需要真人的地方」。\n我倒覺得比較像，簡單的都被AI挑走了，難搞的通通留給我。",
+          "editorNote": "AI攔下重複問題聽起來很美好，但留給真人的往往是最難處理的那一群。給正在跟「AI解決不了的客人」周旋的客服夥伴。",
+          "variations": [
+            "短版：簡單的問題被AI挑走了，難搞的客人通通留給我。",
+            "延伸版：客人打來抱怨「找不到真人」，我心裡想的是，找到我之後，你才會知道什麼叫真正的挑戰。"
+          ]
+        },
+        "en": {
+          "content": "The company said AI support would intercept eighty percent of simple questions, so my job should get easier.\nTurns out the twenty percent left for me is exactly the kind no bot — and no amount of repeating myself — can solve.\nMy manager calls it \"saving real people for the cases that really need a real person.\"\nI call it the easy stuff got picked off by AI, and everything hard landed on me.",
+          "editorNote": "AI intercepting repetitive questions sounds great in theory — what's left for the humans is usually the hardest slice. For support staff still wrestling with the callers AI couldn't fix.",
+          "variations": [
+            "Short: The easy questions got picked off by AI. The hard customers all landed on me.",
+            "Longer: When a caller complains they \"couldn't reach a real person,\" what I'm thinking is: now that you've reached me, you'll find out what a real challenge looks like."
+          ]
+        }
+      }
     }
   ]
 }

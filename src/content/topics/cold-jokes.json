@@ -14498,6 +14498,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-565",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.pdq.com/blog/technology-jokes-to-crack-up-your-coworkers/",
+      "sourceNote": "參考「共用硬碟是檔案改頭換面的地方」的科技笑話發想，改寫成公司共用資料夾裡「暫存」檔案越改名越誇張的職場情境",
+      "tags": [
+        "職場",
+        "辦公室",
+        "3C"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司共用資料夾裡有個檔案叫「暫存」，本來只是隨手存的一張截圖。三個月後它被改名成「暫存_最新」，半年後又變成「暫存_真的最新_勿刪」。上禮拜有人打開一看，裡面其實只是一張迷因圖，從頭到尾沒人記得原本要存什麼。",
+          "editorNote": "適合吐槽公司共用資料夾裡那些改名改到面目全非的檔案",
+          "variations": [
+            "短版：「暫存」改名三次之後，變成「暫存_真的最新_勿刪」，打開卻只是一張迷因圖。",
+            "延伸版：後來新人又建了一個「暫存2」，主管說光看到這個檔名血壓就會上升。"
+          ]
+        },
+        "en": {
+          "content": "There's a file in the shared drive called \"temp\" that started as a random screenshot. Three months later it became \"temp_FINAL.\" Six months after that it was \"temp_ACTUAL_FINAL_DO_NOT_DELETE.\" Someone finally opened it last week and found it was just a meme, and nobody remembers what it was originally supposed to save.",
+          "editorNote": "For the shared drive files that rename themselves into oblivion",
+          "variations": [
+            "Short version: \"temp\" renamed itself into \"temp_ACTUAL_FINAL_DO_NOT_DELETE\" — and it's just a meme inside.",
+            "Extended version: A new hire made \"temp2\" right after, and the manager says just seeing that filename raises their blood pressure."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-566",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.classpop.com/magazine/joke-of-the-day-for-work",
+      "sourceNote": "參考「Ctrl+Alt+Delete this day」的職場雙關梗，改寫成主管開會時開玩笑要重開機、結果IT剛好那天推更新的巧合情境",
+      "tags": [
+        "職場",
+        "科技",
+        "3C"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "星期一開會，主管一開口就說：「這個禮拜一，我們就當作沒發生過，直接重開機。」台下真的有人笑著喊了一聲「Ctrl Alt Delete」。結果那天下午IT剛好在推系統更新，全公司的電腦真的被強制重開機了一輪。有人事後說，早知道講話要小心一點，主管的玩笑話真的會成真。",
+          "editorNote": "適合形容那種星期一爛到想直接重開機重來一次的心情",
+          "variations": [
+            "短版：主管開玩笑說星期一要重開機，結果IT剛好選那天推更新，全公司電腦真的重開了一輪。",
+            "延伸版：後來每個禮拜一開會，第一句台詞固定變成「先問一下，今天要不要重開機」。"
+          ]
+        },
+        "en": {
+          "content": "Monday morning meeting, and the manager opened with, \"let's just pretend this week didn't happen and hit restart.\" Someone in the back actually yelled \"Ctrl Alt Delete\" as a joke. That same afternoon, IT happened to push a system update, and every computer in the office really did reboot. Now people say they should watch what they joke about, because the manager's line came true.",
+          "editorNote": "For that Monday-so-bad-you-want-to-reboot-the-whole-day feeling",
+          "variations": [
+            "Short version: The manager joked about rebooting Monday, and IT's update that afternoon actually rebooted every computer in the office.",
+            "Extended version: Now every Monday meeting opens with, \"quick question, are we rebooting today?\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-567",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.pdq.com/blog/technology-jokes-to-crack-up-your-coworkers/",
+      "sourceNote": "參考「byte-sized hero」的IT英雄雙關梗，改寫成工程師修伺服器全靠「關掉再打開」卻被封神的職場情境",
+      "tags": [
+        "職場",
+        "工程師",
+        "科技"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "伺服器當機三個小時，全公司的人排隊等著看工程師怎麼解決。他走進機房，關掉主機，等了十秒，再打開，畫面就恢復正常了。大家封他是「位元組英雄」，只有他自己心裡明白，他也不知道為什麼這樣就會好。從那天起，他桌上多了一張紙，寫著：先試試關掉再打開。",
+          "editorNote": "適合吐槽工程師修東西永遠先試「關掉再打開」卻總是有效的職場梗",
+          "variations": [
+            "短版：伺服器修好後工程師被封「位元組英雄」，他自己心虛，因為他只是關掉再打開。",
+            "延伸版：後來那張紙條被貼到會議室門口，變成全公司的官方急救指南。"
+          ]
+        },
+        "en": {
+          "content": "The server was down for three hours, and the whole office lined up to watch the engineer fix it. He walked into the server room, turned it off, waited ten seconds, turned it back on, and the screen came back to life. Everyone crowned him the office's \"byte-sized hero,\" though he privately had no idea why that trick worked. Since that day, there's been a note taped to his desk: try turning it off and on first.",
+          "editorNote": "For the running joke that IT always fixes things by turning them off and on again",
+          "variations": [
+            "Short version: The engineer got crowned \"byte-sized hero\" for fixing the server — by just turning it off and on.",
+            "Extended version: That sticky note eventually got taped to the meeting room door as the office's official emergency guide."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-568",
+      "dateAdded": "2026-09-23",
+      "sourceUrl": "https://www.atera.com/blog/a-compilation-of-best-it-puns/",
+      "sourceNote": "參考科技/IT笑話合輯裡「智慧裝置誤解語音指令」的常見哏發想，改寫成阿嬤對智慧音箱點歌卻被誤聽成購物需求的家庭情境",
+      "tags": [
+        "AI",
+        "家庭",
+        "3C"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿嬤對著智慧音箱說：「放望春風。」音箱想了兩秒，回答：「為您找到附近的香水專賣店。」阿嬤又講了一次，這次更大聲，音箱直接開始念購物清單裡的沐浴乳推薦。最後是孫子跑過來，手動點開音樂，阿嬤才終於聽到那首望春風，但她已經笑到說不用聽了。",
+          "editorNote": "適合形容長輩跟智慧音箱雞同鴨講、最後靠家人救援的溫馨場面",
+          "variations": [
+            "短版：阿嬤要智慧音箱放望春風，音箱聽成要買香水，最後靠孫子手動救援。",
+            "延伸版：隔天阿嬤學乖了，直接把歌名寫在紙上叫孫子唸給音箱聽。"
+          ]
+        },
+        "en": {
+          "content": "Grandma told the smart speaker, \"play Wang Chun Feng.\" It thought for two seconds and replied, \"here are perfume shops near you.\" She repeated it louder, and the speaker launched into a list of body wash recommendations instead. Her grandson finally walked over and tapped the song open by hand, and by the time grandma actually heard it, she was laughing too hard to care.",
+          "editorNote": "For the sweet chaos of grandparents talking to smart speakers that just don't get it",
+          "variations": [
+            "Short version: Grandma asked the speaker for an old folk song, it heard \"perfume,\" and her grandson had to step in.",
+            "Extended version: The next day she learned her lesson and just wrote the song title on paper for her grandson to read aloud to the speaker."
+          ]
+        }
+      }
     }
   ]
 }
