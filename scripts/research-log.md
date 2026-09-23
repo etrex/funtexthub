@@ -13053,3 +13053,89 @@ Sources: [udn：網曝一句「今年最詭異事」引2.7萬人共鳴](https://
 - **不執行**：既往缺口補跑；代 generator commit／deploy；補寫 09-17 研究報告；英文熱詞指派；2025 年度梗；厭女／遊戲 IP 素材。
 
 Sources: [自由時報：中秋烤肉夾吐司過時了？網推改夾「這款麵包」](https://news.ltn.com.tw/news/life/breakingnews/5573500)｜[CTWANT：中秋烤肉白吐司退位](https://www.ctwant.com/article/497925/)｜[CTWANT：中秋節別只烤肉！隱藏版神物曝光](https://www.ctwant.com/article/497996/)｜[udn：中秋烤肉新菜單 冷門烤物](https://udn.com/news/story/7266/9755829)｜[FTNN：今年不買白吐司了？](https://www.ftnn.com.tw/news/578919)｜[NapoleonCat：Trending memes September 2026](https://napoleoncat.com/blog/trending-memes/)｜[Memedroid：Best September 2026 Memes](https://www.memedroid.com/blog/post/388/The-Best-September-2026-Memes)｜[DailyView：2025 十大社群爆紅迷因](https://dailyview.tw/daily/4645)
+
+## 2026-09-23 Research Report
+
+### 第 0 項：分發層＋產線檢查
+
+| 檢查 | 讀數 | 口徑 | 判定 |
+|---|---|---|---|
+| 09-19／09-20 則數 | **0／0** | `dateAdded` 全語料計數 | 🔴 週末停擺（09-14 起連四天滿批後，09-19、09-20 兩天 0） |
+| 09-21／09-22 則數 | **168／186** | 同上 | 🟢 週一起復工，09-22 多出 18 則為當日 maintenance commit（非缺陷） |
+| 研究報告 09-19～09-22 | **缺**（`research-log.md` 無此四天段落） | `git log --grep=research` | ⚠️ 本任務四天未執行；**不補寫**，僅登錄缺口 |
+| 09-22 內容 line-up | `commit 837ab03`＝daily batch（42 檔、5,412 行）＋`commit 123e3f7`＝maintenance | `git log --oneline -6` | 🟢 |
+| 上線邊界（`absurd-wisdom` 內文探針，經 `funtexthub.pages.dev`） | 本地最新 `aw-570`(09-22)「除濕機的水箱滿了…」，`curl` 抓回頁面命中 2 次 | `curl -A Mozilla/5.0` 1,163,725 B | 🟢 **線上版本 ＝ 09-22 收盤** |
+| `funtexthub.com` DNS | 仍 **NXDOMAIN**；`funtexthub.pages.dev` 正常 200 | `nslookup` + `curl` | 🔴 網域仍未註冊（需人工付款，狀態未變） |
+| bogus path（`.pages.dev`） | **200 / 408 B** | `curl -w` | 🔴 soft-404 未修（狀態未變） |
+| working tree | 乾淨 | `git status --short` | 🟢 |
+| ⚠️ 環境備註 | 本次執行的 Bash 對 `funtexthub.com` 無法連線（DNS 失敗），改用 `funtexthub.pages.dev` 驗證，兩者理論上同源 | — | 不影響判定 |
+
+---
+
+### 09-16／09-18 推薦回收（閉環讀數，兩條全數落地）
+
+1. **🟢 中秋烤肉「白吐司 vs 鹽可頌」（09-18 第 1 條）T+3 落地**：`couple-jokes` 11 則含 `鹽可頌`、`witty-comebacks` 13 則含 `白吐司`，經 `named_terms`（`可頌`／`吐司`）於 09-21 daily-assignment 指派，09-21～09-22 批次寫入。地雷（不進 `holiday-jokes`／`fathers-day-quotes`）經 grep 複查未見違反新增。⇒ 本角度移出候選池。
+2. **🟢 教師節「敬師禮金」（09-16 第 2 條）T+5 落地**：`workplace-quotes` 18 則含 `禮金`／`禮券`、`mom-quotes` 4 則含 `禮金`、`witty-comebacks` 16 則含 `敬師`，經 `named_terms`（`禮券`→workplace／`敬師`→witty／`家長會`→mom）於 09-21 daily-assignment 指派並寫入。⇒ 本角度移出候選池。
+3. **🟢 「補班不補假」新制（本站未曾登錄，但已被 generator 自行捕捉）**：09-22 新增 `wq-511`「今年沒有補班日，只有補假」，語料 `不補班` 全站僅此 1 則（`補班` 廣義 25 則／4 檔多為舊制吐槽）。⇒ **屬 generator 自主抓題，非本任務推薦**，僅登錄追蹤，不重複指派。
+
+---
+
+### New Topic Recommendations（今日新素材，皆為初次登錄）
+
+1. **🟡 好市多熟食區「10/1 起強制刷會員卡」進入指派窗口（priority 🟡 MEDIUM，窗口 9/24–9/30，維持 09-15/16/18 三次判定不變）**
+
+   - 語料複驗：`好市多` 全站僅 **3 則**（`coj-121`，05-18，內容與熟食區新制無關）、`熟食區` **4 則／2 檔**（逐則讀過，皆為一般熟食櫃描述，非會員卡新制）、`會員卡` 45 則／19 檔（廣義會員卡笑話，非本次事件）⇒ **本事件本身仍是 WHITE**。
+   - 窗口明日（9/24）開啟，此為第四次覆核、非新發現；不再重複列查核表，直接交棒明日 daily-assignment。
+
+2. **🟢 KitKat 巧克力棒歐洲劫案「一卡車 41 萬條巧克力棒人間蒸發」（priority 🟢 candidate，可即刻指派，無時效壓力）**
+
+   外部：2026 年 3 月一輛從義大利開往波蘭的貨車在運輸途中連車帶貨（12 噸、413,793 條 F1 聯名版 KitKat）人間蒸發，雀巢設「失竊巧克力追蹤器」呼籲民眾比對包裝序號協尋；9 月被 NapoleonCat／Memedroid 等迷因彙整站重新列為熱門梗（「連巧克力都比我的存款值錢」類調侃）。
+
+   | 詞 | 讀數 | 判定 |
+   |---|---|---|
+   | `KitKat`／`奇巧` | 0／0 | 🟢 WHITE |
+   | `巧克力`∩`失竊`／`巧克力`∩`劫案`／`一卡車`∩`巧克力` | 0／0／0 | 🟢 WHITE |
+   | `巧克力`（廣義） | 38 則／16 檔（逐一速覽，皆為口味／甜點語境，無運輸劫案哏） | 不衝突 |
+
+   - ⇒ 這是**真實但無真人真名、無國族／政治爭議、公司財損由公司自行公關**的荒謬新聞，風險輪廓接近先前已採用的「好市多熟食區」類，適合走「連罪犯都有職人堅持」「這年頭騙保都嫌貴，直接偷一整車」的荒謬智慧角度，或改寫成「小偷的購物清單」情境。
+   - **候選路由**：`absurd-wisdom`（`荒謬智慧` 0 則涉運輸劫案，框可用「連小偷都懂物流」）＋`witty-comebacks`（「你今天過得比一卡車巧克力還慘嗎」句式）。
+   - 🔴 **地雷**：⑴ 不指名雀巢／Nestlé／KitKat 品牌以外的涉案方（無涉案方可指名，安全）；⑵ **不得暗示案件已破或已尋回**（外部素材寫作時間點為未偵破狀態，若晚於指派日看到破案新聞須另行查核，不可預設懸案細節）；⑶ 場景詞若指派需 ≤3 字（`巧克力`／`劫案` 皆合規，`一卡車巧克力` 6 字不可當場景詞）。
+
+3. **⚠️ 英文迷因週掃候補（今日不指派，交 9/25 排程週掃處理，逐項登錄）**
+
+   | 素材 | 語料讀數 | 處置 |
+   |---|---|---|
+   | Jimothy the raccoon（西雅圖浣熊） | `raccoon` 3／3 檔（09-18 已登錄過） | 🔴 已覆蓋，移出候補 |
+   | "Saxophone gets louder"（戲劇化配樂哏，非事件、是敘事裝置） | `薩克斯風`／`saxophone` 0／0 | ⚠️ 登錄——**這是敘事裝置不是話題**，直接譯寫成中文語錄效果有限，建議只作為既有笑話「急轉直下」段落的**編輯手法參考**，不建新項目 |
+   | SpongeBob handcuffs（2017 舊圖 9 月翻紅） | `SpongeBob` 1／1、`海綿寶寶` 2／1 | 🔴 不建議——涉指名卡通角色版權方（Nickelodeon／Paramount），且與站內既有海綿寶寶哏差異度低，風險大於效益 |
+
+4. **⚠️ AI／輝達股市泡沫調侃（priority 候補，非緊急，登錄供 `stock-investor-quotes` 後續參考）**
+
+   | 詞 | 讀數 | 判定 |
+   |---|---|---|
+   | `AI泡沫`／`AI 泡沫` | 0／0 | 🟢 WHITE（精確複合詞） |
+   | `泡沫`（廣義） | 41 則／19 檔 | 🔴 **廣義詞已飽和**，多為房市／感情泡沫比喻，非 AI 股市語境 |
+   | `護國神山` | 0／0 | 🟢 WHITE |
+   | `台積電` | 13 則／2 檔（速覽為薪資／護理角度，非 AI 泡沫） | 不衝突 |
+
+   - ⇒ `AI泡沫`／`護國神山` 兩個精確詞仍是白地，但屬**財經評論性話題**，改寫時務必維持純娛樂調侃（「早知道就all in」句式），不得出現具體個股買賣建議或報酬率數字，避免被誤讀為投資建議。列為候補而非本週急件。
+
+---
+
+### Content Trends
+
+- **🔴 週末停擺是新模式，不是單日事故**：09-19、09-20（週六日）兩天 0 則，緊接在 09-14～09-18 連五天滿批之後 ⇒ 與此前記錄的「隨機當機停擺」不同，這次形狀像**排程本身在週末不觸發**，建議下次維護任務順帶檢查 `daily-update` 排程是否包含週末窗口（本任務僅登錄觀察，不修改排程設定）。
+- **🟢 「路由 + 禁用檔」寫得愈具體，落地愈精準」再添兩例**：09-16／09-18 兩條推薦的路由、禁用檔字字對應到 09-21～09-22 的 `named_terms`／`timely_banned_terms`，顯示 daily-assignment 生成端持續讀研究報告當輸入。
+- **🟡 真實但已結案數月的舊聞被迷因重新炒熱**（KitKat 劫案：3 月事件、9 月翻紅），與 09-11 記錄的「查詢含年份只命中年度總整理」屬同一類「時間錯位」但方向相反——這次不是誤把舊聞當新聞，而是**舊聞本身就是這波流量的源頭**，只要語料端未曾寫過就仍是有效素材，不必因「不是本週發生」而排除。
+- **時效**：9/24–9/30 好市多熟食區新制（窗口已開）／9/25（五）中秋／9/25 英文週掃（含 Jimothy／saxophone／SpongeBob 三項候補）／9/28（一）教師節連假結束／10/9–10/11 國慶連假／10/12 重陽／10/24–10/26 光復節／KitKat 劫案候選項可隨時指派、無時效壓力。
+
+---
+
+### Existing Topic Updates
+
+- **全體**：09-22 收盤語料含 09-21 全批 168 則＋09-22 全批 168 則＋09-22 maintenance 18 則。09-19、09-20 為 0，未產生缺口帳異動（週末非既定滿批窗口，暫不併入既有停擺缺口帳計算，留待下次維護任務認定是否列入）。
+- **腳本變更：無。**
+- **🔴 需人工（四項，狀態未變）**：⑴ `SKILL.md` 加自動重試＋週末排程檢查；⑵ 註冊 `funtexthub.com`＋`contact@`／`dmca@`；⑶ `src/pages/404.astro`（今日複驗仍 200／408B）；⑷ `check_batch.py` 第 123、160 行改走 `share_fail()`。
+- **不執行**：既往缺口補跑；代 generator commit／deploy；補寫 09-19～09-22 研究報告；英文熱詞指派（交 9/25 週掃）；SpongeBob 版權角色素材。
+
+Sources: [PublicHolidays.tw：2026 中秋節日期](https://publicholidays.tw/zh/mid-autumn-festival/)｜[APPI News：2026中秋節連假、由來與習俗](https://appi.news/articles/2026-mid-autumn-festival-guide/)｜[Yahoo奇摩：2026行事曆中秋節連休4天、國慶連假請4休9](https://tw.news.yahoo.com/2026%EF%BC%88115%E5%B9%B4%EF%BC%89%E8%A1%8C%E4%BA%8B%E6%9B%86%EF%BC%9A%E4%B8%AD%E7%A7%8B%E7%AF%80%E9%80%A3%E4%BC%914%E5%A4%A9%E3%80%81%E5%9C%8B%E6%85%B6%E6%97%A5%E9%80%A3%E5%81%87%E8%AB%8B4%E4%BC%919%E2%8B%AF2026%E9%80%A3%E5%81%87%E6%94%BB%E7%95%A5%E4%B8%80%E6%AC%A1%E7%9C%8B-060828793.html)｜[太報：2026年連假有9次，不用補班](https://today.line.me/tw/v3/article/GgmEDlL)｜[CNN：Thieves steal 12 tons of KitKat bars in Europe](https://www.cnn.com/2026/03/30/europe/kitkat-bars-stolen-europe-intl-scli)｜[Forbes：The Great KitKat Heist](https://www.forbes.com/sites/peterlyon/2026/03/30/chocolate-grand-theft-auto-italys-missing-f1-kitkat-shipment/)｜[NapoleonCat：Trending memes September 2026](https://napoleoncat.com/blog/trending-memes/)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)
