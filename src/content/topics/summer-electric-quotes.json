@@ -11314,6 +11314,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-385",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://udn.com/news/story/7266/9765673",
+      "sourceNote": "聯合新聞網報導：中午「秋老虎」但早晚涼、溫差10度，粉專揭原因",
+      "tags": [
+        "秋老虎",
+        "溫差",
+        "辦公室",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上七點出門前看溫度顯示十九度，特地翻出薄外套才敢出門；十一點半站在公車站牌下，體感卻直逼三十四度，外套脫下來卷成一團塞進包包，狼狽得像逃難。進辦公室第一件事是衝去按冷氣遙控器，同事笑我半小時前才在樓下說好冷。下班六點風一吹，又忍不住想把外套翻出來穿，一天之內換了三種穿衣邏輯。氣象說這叫「日夜溫差十度」，但對我來說更像是身體被公司冷氣跟戶外高溫輪流霸凌一整天。",
+          "editorNote": "適合早上穿外套出門、中午卻在辦公室狂開冷氣的人，早晚溫差大的日子傳一下特別有共鳴。",
+          "variations": [
+            "短版：早上穿外套出門，中午熱到脫外套開冷氣，晚上又冷到想穿回去，一天換三種邏輯。",
+            "延伸版：氣象說是日夜溫差十度，我覺得比較像被公司冷氣跟戶外高溫輪流霸凌。"
+          ]
+        },
+        "en": {
+          "content": "I check the temperature before leaving at seven — nineteen degrees, so I dig out a light jacket just to feel safe walking out the door. By eleven thirty, standing at the bus stop, it feels like thirty-four, and the jacket gets balled up and shoved into my bag like I'm fleeing a disaster. First thing I do at the office is lunge for the AC remote, and a coworker laughs that I was just complaining about the cold downstairs half an hour ago. By six, the evening breeze has me wanting the jacket back on — three completely different outfit logics in one day. The forecast calls it a 'ten-degree day-night swing,' but to me it feels more like my body's being bullied all day by office AC and outdoor heat, taking turns.",
+          "editorNote": "For anyone who left the house in a jacket and is now blasting the office AC by lunchtime — perfect for those wide morning-to-noon temperature swing days.",
+          "variations": [
+            "Short: jacket on leaving home, AC on by noon, jacket back on by evening — three outfit logics in one day.",
+            "Extended: the forecast calls it a ten-degree swing, but it feels more like getting bullied by office AC and outdoor heat in turns."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-386",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://wantrich.chinatimes.com/news/20221004900538-420501",
+      "sourceNote": "工商時報報導：秋老虎發威，備轉容量率亮黃燈",
+      "tags": [
+        "備轉容量",
+        "台電",
+        "秋老虎",
+        "溫馨"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "看到新聞說這幾天備轉容量率又亮黃燈，心裡莫名鬆了一口氣——原來不是只有我家還在拚命開冷氣，是全台灣一起在跟秋老虎搏鬥。朋友傳訊吐槽我怎麼還沒把冷氣收起來，我把新聞截圖回傳，附註「不是我意志力薄弱，是台電自己都在喊吃緊」。仔細想想，這種「大家一起爛」的安慰感，可能比省下多少電費更療癒。至少月底帳單來的時候，我可以說自己是在為全國電網穩定盡一份心力，不是單純怕熱而已。",
+          "editorNote": "適合秋老虎還在開冷氣被朋友吐槽時，用新聞幫自己找台階下。",
+          "variations": [
+            "短版：看到備轉容量亮黃燈，忽然覺得自己開冷氣沒有錯，是全台灣一起在硬撐。",
+            "延伸版：朋友吐槽我還在開冷氣，我回傳新聞說台電自己都喊吃緊，不是我意志力薄弱。"
+          ]
+        },
+        "en": {
+          "content": "I see the news that the power reserve margin is flashing yellow again these past few days, and weirdly I feel relieved — turns out it's not just my apartment still cranking the AC, it's the whole island fighting the same lingering heat. A friend texts to mock me for not putting the AC away yet, so I screenshot the news back with 'it's not weak willpower, even the power company is calling it tight.' Thinking about it more, that 'we're all struggling together' comfort might be more soothing than any amount of saved electricity. At least when the bill shows up at month's end, I can say I was doing my part for grid stability, not just being a wimp about the heat.",
+          "editorNote": "For when a friend mocks you for still running the AC during the lingering heat — use the grid-strain news as your excuse.",
+          "variations": [
+            "Short: seeing the power reserve flash yellow makes running the AC feel less like a personal failing and more like a national effort.",
+            "Extended: a friend mocks my AC use, so I send back the grid-strain news — not weak willpower, even the power company says it's tight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-387",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.ikuk.com.tw/blogs/column/beginning-of-autumn-2026-autumn-tiger-still-hot",
+      "sourceNote": "IKUK艾可專欄：立秋到了，為什麼還是這麼熱？台灣人都知道的「秋老虎」真相",
+      "tags": [
+        "立秋",
+        "秋老虎",
+        "迷思",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "月曆上立秋那天已經是快兩個月前的事，我卻還在深夜十一點滿頭大汗地找冷氣遙控器，忍不住懷疑自己是不是記錯了節氣。查了才知道，立秋只是曆法上「進入秋天倒數計時」的起點，跟氣溫要不要配合完全是兩回事，台灣真正的涼意通常要拖到十月甚至更晚才會登場。想通這點之後，開冷氣時的罪惡感忽然少了一半，畢竟連節氣自己都承認，那只是嘴上先講好聽話而已。",
+          "editorNote": "適合被朋友酸「都立秋了還開冷氣」時，用來科普反擊、順便自嘲一下。",
+          "variations": [
+            "短版：立秋早就過了還在開冷氣，查了才知道立秋只是嘴上先講好聽話，跟氣溫沒關係。",
+            "延伸版：想通立秋只是曆法上的倒數計時，開冷氣的罪惡感忽然少了一半。"
+          ]
+        },
+        "en": {
+          "content": "The calendar says the start of autumn was almost two months ago, and yet here I am at eleven at night, sweating and fumbling for the AC remote, wondering if I got the date wrong. Turns out the start of autumn on the calendar is just the countdown beginning — it has nothing to do with whether the actual temperature cooperates, and real relief in Taiwan usually doesn't show up until October or later. Once that clicked, the guilt about running the AC dropped by half — even the calendar admits it was just talking a good game early.",
+          "editorNote": "For when a friend teases you about running the AC 'after autumn already started' — hit back with the science, self-deprecating tone included.",
+          "variations": [
+            "Short: autumn officially started ages ago and I'm still running the AC — turns out the date was just talk, not a temperature guarantee.",
+            "Extended: once I realized the start of autumn is just a calendar countdown, the guilt about the AC dropped by half."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-388",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260601700956-430104",
+      "sourceNote": "工商時報報導：2026夏季電費來了，最新電價表、省電秘訣、台電節電獎勵別錯過",
+      "tags": [
+        "節電獎勵",
+        "台電",
+        "電費單",
+        "省錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "九月電費單裡夾了一張黃色小紙條，寫著夏月節電獎勵試算：\n基準用電（去年同期）：482度\n本期用電：401度\n省下：81度，達成率16.8%\n獎勵金：每度回饋0.9元，共72元\n我盯著72元看了三秒，覺得比想像中寒酸，但轉念一想，這代表我今年夏天真的有忍住沒把冷氣開到最低溫，那些「先開電風扇撐十分鐘」的堅持沒有白費。72塊換不了什麼，但拿去買一杯飲料慶祝自己撐過這個夏天，好像剛剛好。",
+          "editorNote": "適合收到電費單夾的節電獎勵通知時，回顧這個夏天忍耐撐過的成果。",
+          "variations": [
+            "短版：節電獎勵金算出來只有72元，但代表我這夏天真的有忍住沒把冷氣開到最低溫。",
+            "延伸版：72塊換不了什麼，但拿去買杯飲料慶祝自己撐過這個夏天，剛剛好。"
+          ]
+        },
+        "en": {
+          "content": "This month's bill comes with a little yellow slip: a summer energy-saving rebate calculation.\nBaseline usage (same period last year): 482 kWh\nThis period's usage: 401 kWh\nSaved: 81 kWh, a 16.8% reduction\nRebate: NT$0.9 per kWh saved, totaling NT$72\nI stare at the NT$72 for a few seconds, thinking it looks stingier than I'd hoped — but then it hits me that it's proof I actually held off cranking the AC to the lowest setting all summer, and all those 'try the fan for ten more minutes first' moments weren't wasted. Seventy-two dollars won't buy much, but spending it on a drink to celebrate surviving the summer feels just about right.",
+          "editorNote": "For when the summer energy-saving rebate slip shows up with the bill — a small reward for a season of restraint.",
+          "variations": [
+            "Short: the rebate came out to just NT$72, but it proves I really did hold back on the AC all summer.",
+            "Extended: NT$72 won't buy much, but spending it on a drink to celebrate surviving summer feels just right."
+          ]
+        }
+      }
     }
   ]
 }

@@ -12841,6 +12841,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-450",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.inn-taipei.com/2026-rent-subsidy-complete-guide/",
+      "sourceNote": "全居×逸台北整理2026租金補貼新制，違建、頂樓加蓋等非合法住宅自2026年起新申請戶不得請領、舊戶可延續至年底；取租客得知門檻後忐忑的情境改寫，內容為原創",
+      "tags": [
+        "頂樓加蓋",
+        "租金補貼",
+        "違建",
+        "房東"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我租的頂樓加蓋，採光好、租金也親切，唯一沒算到的是它連「合法住宅」的門檻都過不了。今年新制上路後，這種沒有保存登記的房子已經不能申請租金補貼了，我這種去年就開始領的舊戶還能撐到年底，之後呢，房東大概也不會為了我一個人去補辦保存登記。",
+          "editorNote": "給發現自己租的頂樓加蓋領不到補助、只能先撐到年底的人",
+          "variations": [
+            "短版：頂樓加蓋讓我住得舒服，卻讓我在租金補貼門口被擋下來。",
+            "延伸版：我問房東能不能補辦保存登記，他反問我：妳確定要為了兩千塊補貼，逼我花更多錢弄到合法嗎？"
+          ]
+        },
+        "en": {
+          "content": "The rooftop add-on I rent has great light and reasonable rent — the one thing I didn't account for is that it can't clear the \"legal housing\" bar. Under this year's new rule, units without proper registration no longer qualify for the rent subsidy. I started receiving it last year, so I'm grandfathered through year-end, but after that, my landlord isn't exactly going to file for legal registration just for me.",
+          "editorNote": "For anyone who just found out their rooftop add-on won't qualify for the subsidy and can only ride it out until year-end",
+          "variations": [
+            "Short: Great light, cheap rent, and now it turns out my rooftop add-on can't pass the subsidy's legal-housing test.",
+            "Extended: I asked my landlord about registering it properly. He asked back: you want me to spend more money going legal, just for your subsidy?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-451",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.moi.gov.tw/News_Content.aspx?n=4&s=263921",
+      "sourceNote": "內政部公告房東不得禁止房客申請租金補貼、違者可處罰鍰；取現金收租房東抗拒簽署申請文件的情境改寫，內容為原創",
+      "tags": [
+        "房租",
+        "房東",
+        "租金補貼",
+        "現金"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東每個月都要我把房租用現金交給他，說匯款太麻煩。後來我才知道，這其實是不想讓房租被國稅局看到——難怪我要申請租金補貼時，他死都不肯簽同意書。查了才知道，房客申請補貼根本不需要房東同意，他要是敢刁難，我還可以去申訴，他反而可能被罰錢。",
+          "editorNote": "給以為申請租金補貼要看房東臉色，其實法律早就站在自己這邊的人",
+          "variations": [
+            "短版：現金收租的房東，通常也是最怕我申請租金補貼的那種房東。",
+            "延伸版：我把法規印出來給他看，他才知道原來當公益出租人還能抵稅，態度瞬間軟化。"
+          ]
+        },
+        "en": {
+          "content": "My landlord always makes me pay rent in cash, claiming bank transfers are too much hassle. Turns out that's really about keeping the rent off the tax office's radar — no wonder he refused to sign my rent subsidy paperwork. I later found out tenants don't actually need a landlord's consent to apply, and if he tries to block it, he's the one who could get fined.",
+          "editorNote": "For anyone who thinks applying for the rent subsidy means walking on eggshells around their landlord, when the law already has their back",
+          "variations": [
+            "Short: A landlord who insists on cash rent is usually the same one who dreads you applying for the subsidy.",
+            "Extended: I printed out the regulation and showed him. Once he realized he could get a tax break as a registered landlord, he softened up fast."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-452",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.money101.com.tw/blog/%E7%A7%9F%E9%87%91%E8%A3%9C%E8%B2%BC%E7%94%B3%E8%AB%8B%E6%A2%9D%E4%BB%B6-%E8%B3%87%E6%A0%BC-%E9%87%91%E9%A1%8D",
+      "sourceNote": "Money101整理2026租金補貼金額，育有未成年子女家庭補貼加碼至1.2至1.8倍；取生育後補貼提高的心情改寫，內容為原創",
+      "tags": [
+        "租金補貼",
+        "育兒",
+        "房租",
+        "家庭"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "生完小孩才知道，租金補貼原來也分等級——單身時候領最少，有小孩以後可以加碼到快兩倍。房租當然沒有因此變便宜，但至少那筆多出來的補助，讓我覺得政府知道我們家現在多了一張要養的嘴。",
+          "editorNote": "給生小孩後才發現租金補貼有加碼、稍微鬆一口氣的家長",
+          "variations": [
+            "短版：小孩出生後，我們家的租金補貼跟著長大了一點。",
+            "延伸版：我跟先生說，這筆多出來的補貼還不夠買一罐奶粉，但至少不是零。"
+          ]
+        },
+        "en": {
+          "content": "It wasn't until after the baby that I learned the rent subsidy scales with your family — as a single renter I got the smallest amount, but with a kid it nearly doubled. The rent itself didn't get any cheaper, but that extra bit at least felt like the government noticing we now have one more mouth to feed.",
+          "editorNote": "For parents who only discovered the subsidy bump after having a kid, and felt a little relief",
+          "variations": [
+            "Short: Once the baby arrived, our rent subsidy grew a little too.",
+            "Extended: I told my husband the extra amount barely covers a can of formula, but at least it's not nothing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-453",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://udn.com/news/story/124898/9535678",
+      "sourceNote": "聯合新聞網報導租金補貼85萬戶受影響、國土署規劃2027年起地方分攤1至4成經費；取租屋族擔心補貼被砍的心情改寫，內容為原創",
+      "tags": [
+        "租金補貼",
+        "政策",
+        "租屋族",
+        "不確定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新聞說租金補貼以後要地方政府一起出錢，我第一個念頭不是政策辯論，是默默算了一下：那我明年還領得到嗎。租屋族的日子本來就夠不穩定了，現在連補助本身，都變成一種要看地方政府臉色的賭注。",
+          "editorNote": "給看到補貼制度要改、第一反應是擔心自己會不會被砍掉的租屋族",
+          "variations": [
+            "短版：補貼制度一有風吹草動，租屋族的心就先跳一下。",
+            "延伸版：我跟室友討論到最後，結論是不管制度怎麼改，先把這筆錢當成隨時會消失的獎金比較安心。"
+          ]
+        },
+        "en": {
+          "content": "The news said local governments will start sharing the cost of the rent subsidy, and my first thought wasn't about policy — it was quietly doing the math on whether I'll still get it next year. Renting is unstable enough already; now even the subsidy itself feels like a bet that depends on some local government's budget.",
+          "editorNote": "For renters whose gut reaction to any subsidy policy change is worrying it'll get cut",
+          "variations": [
+            "Short: Any hint of a policy change and renters' hearts skip a beat first.",
+            "Extended: My roommate and I decided that no matter how the rules change, it's safer to treat this money as a bonus that could vanish any time."
+          ]
+        }
+      }
     }
   ]
 }

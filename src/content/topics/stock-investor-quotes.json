@@ -11463,6 +11463,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-377",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1fomo%E7%8B%82%E6%BD%AE%E5%A4%B1%E6%8E%A7-%E5%A4%96%E5%AA%92%E7%9B%B4%E6%93%8A%E6%95%A3%E6%88%B6%E9%96%8B%E6%A7%93%E6%A1%BF%E8%BF%BD%E8%82%A1-%E9%9A%A8%E4%BE%BF%E8%B2%B7%E9%83%BD%E8%B3%BA-031813587.html",
+      "sourceNote": "報導指外媒直擊台股FOMO狂潮，散戶借錢開槓桿追股、喊著隨便買都賺；改寫成洗車店等候時看到報導的場景",
+      "tags": ["FOMO", "融資", "散戶", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "洗車店的機器還在幫我的車做最後拋光，我坐在等候區滑手機。\n社團裡有人轉貼外媒報導，說台股FOMO狂潮再起，不少人借錢進場，逢人就說隨便買都賺。\n我瞄了一眼自己的融資額度，早就快頂到上限，心裡卻還盤算著要不要再加碼一張，追上那句「隨便買都賺」。\n店員喊我的車好了，我把手機收起來，決定先把車開走，至於加碼的事晚點再說——但心裡知道大概拖不了多久。",
+          "editorNote": "看到FOMO報導自己心癢卻又心虛時，適合搭配等待事情完成的空檔自嘲",
+          "variations": [
+            "短版：融資快頂到上限，卻還在想要不要跟風再加碼一張，追那句『隨便買都賺』。",
+            "延伸版：店員喊車洗好了，我把加碼的念頭先關掉，但知道大概撐不了多久。"
+          ]
+        },
+        "en": {
+          "content": "The car wash was still buffing my car in the finishing stage, and I sat in the waiting area scrolling my phone.\nSomeone in my group chat shared a foreign media report saying Taiwan's stock market FOMO frenzy was back, with people borrowing money to jump in, telling anyone who'd listen that buying anything at all was making money.\nI glanced at my own margin balance, already nearly maxed out, but part of me was still calculating whether to add one more share to keep up with that 'buy anything' feeling.\nThe attendant called out that my car was ready. I put my phone away and told myself I'd think about adding more later — though deep down I knew 'later' probably wasn't far off.",
+          "editorNote": "When an FOMO headline makes you itch to jump in even while you feel guilty about it, pair it with the downtime of waiting for something to finish",
+          "variations": [
+            "Short: my margin's nearly maxed out, yet I'm still weighing whether to chase that 'buy anything' feeling.",
+            "Longer: the attendant said my car was ready, so I shelved the idea of adding more — though not for long, probably."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-378",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "報導指台灣散戶單日融資大減276億元，台股因台積電法說會後疑慮跌入技術性修正；改寫成藥局等領藥時滑手機看到新聞的場景",
+      "tags": ["融資", "去槓桿", "台積電", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "藥局阿姨喊了號碼牌，說我的藥還要等五分鐘才配好。\n我滑開手機，看到新聞說台積電法說會後市場對資本支出有疑慮，融資單日狂減兩百多億，大盤直接跌破前波高點一成。\n上禮拜還在慶祝自己那檔存股創新高，這下對照損益，賺的都吐回去，心情跟著坐雲霄飛車。\n阿姨喊我的號碼，遞出藥袋叮嚀按時吃，我點頭說好，心裡想的卻是那筆單要不要先減碼。",
+          "editorNote": "法說會後市場轉向、獲利瞬間蒸發時，適合搭配等領藥的無聊空檔自嘲",
+          "variations": [
+            "短版：上禮拜才慶祝存股創新高，法說會一開完，賺的全吐回去。",
+            "延伸版：藥局喊我拿藥，我點頭應好，心裡在想那筆單要不要先減碼。"
+          ]
+        },
+        "en": {
+          "content": "The pharmacist called my number and said my prescription would take another five minutes.\nI opened my phone and saw the news: after TSMC's earnings call raised doubts about capital spending, margin balances dropped by tens of billions of NT dollars in a single day, and the index fell more than ten percent below its recent peak.\nJust last week I was celebrating my core holding hitting a new high; now, checking my gains, all of it had evaporated, and my mood was riding the same rollercoaster.\nShe called my number, handed over the bag, and reminded me to take it on schedule. I nodded, saying yes, while quietly wondering if I should trim that position instead.",
+          "editorNote": "When an earnings call flips the market and your gains vanish overnight, pair it with the dull wait for a prescription",
+          "variations": [
+            "Short: last week I was celebrating a new high, and one earnings call later, all my gains were gone.",
+            "Longer: she handed me my prescription and I said thanks, while quietly wondering if I should trim that position."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-379",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.ctee.com.tw/news/20260624701124-430201",
+      "sourceNote": "報導指市場對AI類股估值與升息疑慮升高，台股單日暴跌逾千點；改寫成銀行等叫號時滑手機看新聞、說法不斷轉彎的場景",
+      "tags": ["AI股", "泡沫", "自嘲", "說法轉彎"],
+      "i18n": {
+        "zh-tw": {
+          "content": "銀行叫號燈上還差六號才輪到我，我站在等候區滑手機。\n財經新聞說AI類股集體重挫，大盤單日跌破千點，分析師忙著出來喊這不是泡沫、只是結構性修正。\n我把自選股裡的AI概念股翻出來看，昨天還在算獲利了結的美夢，今天已經默默改口說「這是健康的拉回」。\n叫號燈終於跳到我的號碼，我起身走向櫃台，心裡的說法又換了一版，變成「回檔就是布局良機」。",
+          "editorNote": "帳面獲利瞬間蒸發、說法一天換好幾版時，適合搭配排隊等叫號的空檔自嘲",
+          "variations": [
+            "短版：AI股一天跌破千點，我的說法從獲利了結變成健康拉回，再變成布局良機。",
+            "延伸版：叫號燈跳到我的號碼，說法又換了一版，聽起來比我還會轉彎的是分析師。"
+          ]
+        },
+        "en": {
+          "content": "There were still six numbers to go before my turn at the bank, so I stood in line scrolling my phone.\nThe financial news said AI-related stocks were getting hammered across the board, the index dropped over a thousand points in a single day, and analysts were rushing out to say it wasn't a bubble, just a structural correction.\nI pulled up the AI stocks on my watchlist; yesterday I'd been daydreaming about cashing out profits, and today I was quietly telling myself this was just a 'healthy pullback.'\nThe number finally came up. I walked to the counter, my story having changed yet again, this time to 'a dip is just a buying opportunity.'",
+          "editorNote": "When your paper gains evaporate and your story changes three times in one day, pair it with the wait for your number to be called",
+          "variations": [
+            "Short: AI stocks dropped a thousand points in a day, and my story went from cashing out to healthy pullback to buying opportunity.",
+            "Longer: my number got called, and my story had changed again — the analysts and I were both just making it up as we went."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-380",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.ftnn.com.tw/news/566415",
+      "sourceNote": "報導指台股單週震盪逾四千點、融資大降去槓桿，但三大籌碼指標仍站穩高檔；改寫成手搖飲料店等飲料時滑手機的場景",
+      "tags": ["定期定額", "波動", "籌碼", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "手搖飲料店的機台還在搖，我拿著取餐單站在旁邊等。\n新聞說台股單週上沖下洗超過四千點，但三大籌碼指標依然穩穩站在高檔，法人說追高殺低的都是心臟不夠大顆。\n我看了眼自己那筆設定好的定期定額，扣款日還沒到，帳面卻已經跟著雲霄飛車繞了兩圈，唯一不變的是我根本沒點進去看明細的勇氣。\n店員喊了取餐號碼，我接過飲料喝一口，比帳面數字踏實多了，至少這杯是真的甜。",
+          "editorNote": "帳面隨大盤劇烈震盪、卻連明細都不敢點開時，適合搭配等飲料的輕鬆場景緩和情緒",
+          "variations": [
+            "短版：定期定額扣款日還沒到，帳面卻已經跟著雲霄飛車繞了兩圈，我沒勇氣點開明細。",
+            "延伸版：飲料到手喝一口，比帳面數字踏實多了，至少這杯真的是甜的。"
+          ]
+        },
+        "en": {
+          "content": "The bubble tea machine was still shaking my order, and I stood by the counter holding my ticket.\nThe news said the index swung more than four thousand points within a single week, yet the three major chip indicators were still holding steady at their highs, with analysts saying anyone chasing highs and dumping lows just didn't have the stomach for it.\nI checked my scheduled recurring investment; the withdrawal date hadn't even come yet, but the balance had already looped the rollercoaster twice, and the one thing that hadn't changed was that I still didn't have the nerve to open the details.\nThe clerk called my number. I took the drink and had a sip — way more reassuring than any number on my screen, at least this one was actually sweet.",
+          "editorNote": "When your balance loops the rollercoaster with the market but you can't bear to check the details, pair it with the easy wait for a drink",
+          "variations": [
+            "Short: my recurring investment hasn't even withdrawn yet, and the balance has already looped twice — I can't bring myself to check.",
+            "Longer: I took a sip of my drink, way more reassuring than any number on my screen, at least this one was really sweet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-381",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://tw.stock.yahoo.com/rank/foreign-investor-sell",
+      "sourceNote": "參考外資買賣超排行網站的日常查詢行為（如Yahoo股市外資賣超排行），改寫成診所量血壓時忍不住偷看外資動向的場景",
+      "tags": ["外資", "買賣超", "焦慮", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "診所護理師喊我先量血壓，說醫生還要等五分鐘看下一位。\n等血壓計運轉的空檔，我忍不住點開外資買賣超排行，一檔一檔看是不是又倒貨在我手上這幾張。\n血壓計「嗶」一聲跳出數字，護理師皺眉問我是不是最近壓力大，我看著螢幕上外資連三天倒貨的數字，尷尬笑笑說可能是天氣熱。\n護理師記錄完數字，提醒我少滑手機多放鬆，我點頭答應，手指卻已經滑向下一支排行榜。",
+          "editorNote": "血壓因盯盤焦慮飆高卻死不承認時，適合搭配量血壓的場景自嘲",
+          "variations": [
+            "短版：等血壓計運轉的空檔，我還在偷看外資是不是又倒貨在我手上這幾張。",
+            "延伸版：護理師問我是不是壓力大，我說可能是天氣熱，手指卻還在滑排行榜。"
+          ]
+        },
+        "en": {
+          "content": "The nurse at the clinic told me to get my blood pressure checked first since the doctor needed five more minutes with the current patient.\nWhile the cuff was inflating, I couldn't help pulling up the foreign institutional buy/sell rankings, scrolling through one stock at a time to see if they'd been dumping the ones I held.\nThe machine beeped and showed the number; the nurse frowned and asked if I'd been stressed lately. I looked at my screen, which showed foreign investors net-selling for three days straight, and laughed it off, blaming the hot weather.\nShe jotted down the reading and told me to scroll less and relax more. I nodded in agreement, my thumb already swiping to the next ranking list.",
+          "editorNote": "When your blood pressure spikes from watching the market but you won't admit it, pair it with a blood pressure check at the clinic",
+          "variations": [
+            "Short: while the cuff was inflating, I was still checking whether foreign investors had been dumping the stocks I held.",
+            "Longer: the nurse asked if I'd been stressed, I blamed the weather, and my thumb kept scrolling the ranking list."
+          ]
+        }
+      }
     }
   ]
 }

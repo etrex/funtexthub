@@ -15246,6 +15246,131 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-556",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://socket.dev/blog/the-unpaid-backbone-of-open-source",
+      "sourceNote": "Socket 部落格談開源維護者過勞、單一維護者扛起全球關鍵套件的報導，改寫成套件被瘋狂呼叫但維護者只求一杯贊助咖啡的場景",
+      "tags": ["開源", "職場", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "全公司的金流驗證都靠同一個套件，一天被呼叫幾千萬次。維護的人只有一個，帳號簡介還是十年前寫的：「業餘時間維護，如果你靠這個賺錢，歡迎贊助」。上個月他在討論串留言，說最近工作比較忙，回覆會慢一點，底下馬上兩百則留言吵著要不要另起爐灶。他沒再回話，把討論串關閉，標籤打上「暫不處理」。隔天，那個套件的下載次數曲線，還是往上，一路往上，沒有人因此少用一次。",
+          "editorNote": "給用到爆量卻只有一個人維護的套件、想聊聊開源生態現實的工程師。",
+          "variations": [
+            "短版：全世界都靠他那個套件賺錢，維護的人只希望有人記得贊助他一杯咖啡。",
+            "延伸版：半年後他真的停止維護，issue 頁面第一則留言是「所以現在誰要接手？」下面沒有人回。"
+          ]
+        },
+        "en": {
+          "content": "The whole company's payment verification runs on one package, hit tens of millions of times a day. It has exactly one maintainer, and the bio still reads like it's ten years old: 'Maintained in my spare time — sponsor me if you're making money off this.' Last month he posted that things were busy and replies would be slow. Two hundred comments piled up arguing about forking it. He didn't respond, just closed the thread and tagged it 'wontfix.' The next day, the download graph for that package kept climbing, same as always. Nobody used it any less.",
+          "editorNote": "For engineers who've noticed a package getting hammered by traffic while exactly one unpaid person keeps it alive.",
+          "variations": [
+            "Short version: The whole world profits off his package. All he wants is someone to remember the sponsor button.",
+            "Extended: Six months later he actually stops maintaining it. The top comment on the issue tracker reads, 'So who's taking over?' Nobody answers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-557",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://dev.to/tlakomy/why-i-don-t-like-story-point-driven-estimates-28h7",
+      "sourceNote": "DEV Community 討論 story point 估點失真的文章，改寫成團隊用高分把沒人想做的票『鎖起來』的場景",
+      "tags": ["估點", "職場", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "估點會議上，大家舉牌，那張票是 13。\nPM 問：「這張票很複雜嗎？」\n資深工程師搖頭：「不複雜，是沒人想碰。」\nPM：「那應該打低一點吧？」\n資深工程師：「打低，就會有人被排進去做。」\nPM 想了想，在白板寫下「13」，畫了一個星星。\n下個 sprint，那張票又出現在待辦清單最上面，牌還是那幾張，答案還是 13。",
+          "editorNote": "給每次估點都心照不宣、用點數大小暗示『這張我不想碰』的工程師。",
+          "variations": [
+            "短版：13 分不代表複雜，代表這張票已經被大家婉拒第三次了。",
+            "延伸版：後來那張票被重新命名叫「傳說任務」，story point 欄位永遠留白。"
+          ]
+        },
+        "en": {
+          "content": "At planning poker, everyone flips their card. It's a 13.\nThe PM asks, 'Is this ticket really that complex?'\nThe senior engineer shakes his head. 'Not complex. Just nobody wants to touch it.'\n'Shouldn't we score it lower, then?'\n'Score it lower and someone gets assigned to it.'\nThe PM thinks it over, writes '13' on the whiteboard, and draws a little star next to it.\nNext sprint, the same ticket is back at the top of the backlog. Same cards get flipped. Same answer: 13.",
+          "editorNote": "For engineers who've watched a team use point inflation as a silent 'nobody wants this' signal.",
+          "variations": [
+            "Short version: A 13 doesn't mean complex — it means this ticket has already been quietly declined three times.",
+            "Extended: The ticket eventually gets renamed 'The Legendary Quest.' Its story point field stays blank forever."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-558",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.washingtonpost.com/ripple/2026/07/28/office-attendance-backlash/",
+      "sourceNote": "Washington Post 談 2026 年進辦公室規定引發員工反彈的報導，改寫成進辦公室卻整天開視訊會議的諷刺場景",
+      "tags": ["職場", "遠端", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司宣布下個月起每週要進辦公室三天，理由是「面對面協作比較有效率」。第一天，工程師通勤五十分鐘，找到位子坐下，戴上耳機，打開視訊會議——跟他對話的三個人，一個在家、一個在另一個城市的辦公室、一個乾脆掛掉重打電話進來說收訊不好。會議結束，他看了看四周，整層樓沒有一個人在講話，只有打字聲跟耳機裡傳出來的笑聲。他傳訊息給主管：「今天面對面協作的部分，具體是指哪十分鐘？」主管已讀，沒有回。",
+          "editorNote": "給被要求進辦公室、結果還是全程開視訊會議的遠端派工程師。",
+          "variations": [
+            "短版：進辦公室的意義，變成通勤五十分鐘去戴耳機開視訊會議。",
+            "延伸版：三個月後，公司做了一份滿意度調查，結論是「協作品質顯著提升」，附件是同一份視訊會議時數報表。"
+          ]
+        },
+        "en": {
+          "content": "The company announces that starting next month, everyone has to be in the office three days a week — the reasoning is 'face-to-face collaboration is more efficient.' Day one: the engineer commutes fifty minutes, sits down, puts on headphones, and joins a video call. The three people he's talking to are one working from home, one in an office in a different city, and one who hung up and called back because the signal was bad. After the meeting, he looks around. Nobody on the whole floor is talking out loud — just typing, and laughter leaking out of headphones. He messages his manager: 'Which ten minutes today counted as the face-to-face part, exactly?' Read, no reply.",
+          "editorNote": "For remote-leaning engineers ordered back to the office, only to spend the whole day on video calls anyway.",
+          "variations": [
+            "Short version: Coming into the office now just means a fifty-minute commute to put on headphones and join a call.",
+            "Extended: Three months later the company runs a satisfaction survey concluding 'collaboration quality improved significantly' — attached is the exact same video-call-hours report."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-559",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://werecruit.it/blog/ai-cheating-interviews-2026/",
+      "sourceNote": "We Recruit IT 報導 2026 年近四成技術面試候選人用 AI 隱形輔助作答，改寫成面試官從『被追問就卡住』抓到破綻的場景",
+      "tags": ["面試", "AI", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "線上面試，畫面共享打開。面試官問了一題演算法，候選人停頓兩秒，突然文思泉湧，一邊打字一邊講解思路，邏輯清楚到面試官忍不住多問了一句細節。候選人愣住，重新看了一眼螢幕角落，才慢慢接話。面試結束後，面試官在評語欄寫：「解題流暢，但被追問延伸問題時反應速度明顯變慢。」他想了想，又補了一句：「建議下一輪面試，把題目印在紙上。」",
+          "editorNote": "給遇過線上面試答題行雲流水、一問細節就卡住的候選人，適合面試官之間心照不宣的吐槽。",
+          "variations": [
+            "短版：解題像神一樣快，被多問一句就卡住——面試官心裡有數。",
+            "延伸版：後來公司把線上面試全部改成要求開鏡頭錄下雙手打字畫面，候選人流動率瞬間下降三成。"
+          ]
+        },
+        "en": {
+          "content": "Online interview, screen share is on. The interviewer asks an algorithm question. The candidate pauses for two seconds, then suddenly finds their flow — typing and explaining at once, reasoning so clean the interviewer can't resist asking a follow-up. The candidate freezes, glances at the corner of the screen, then slowly picks the answer back up. After the call, the interviewer writes in the notes: 'Solved it fluently, but noticeably slower to respond to follow-up questions.' Then adds one more line: 'Recommend printing the question on paper for the next round.'",
+          "editorNote": "For interviewers who've seen a candidate breeze through the main question, then freeze the moment they ask a follow-up.",
+          "variations": [
+            "Short version: Solves it like a genius, freezes the second you ask a follow-up — the interviewer already knows.",
+            "Extended: The company switches to requiring a camera view of both hands typing during online interviews. Candidate turnover drops thirty percent overnight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-560",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://socket.dev/blog/the-unpaid-backbone-of-open-source",
+      "sourceNote": "同一篇 Socket 報導提到 Kubernetes 因維護者過勞而停止維護核心元件的案例，改寫成公司驚覺自己依賴單一維護者套件的場景",
+      "tags": ["開源", "資安", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "資安會議上，同事臉色發白地說，那個大家用了八年、部署在核心服務裡的開源套件，官方宣布不再更新了，理由是「維護者已經精疲力竭」。主管問：「所以我們現在要換掉它？」「換掉牽動三十個服務，估計要六個月。」主管又問：「那不換呢？」「不換就是繼續用一個沒人管的東西撐著全公司的核心系統。」會議室安靜了幾秒，主管在筆記本上寫下一行字：「風險：低（暫時）。」散會後，他順手把公司內部一個做了五年、只有他一個人維護的工具，開放原始碼放上網，附註寫著：「歡迎大家一起維護。」",
+          "editorNote": "給看過關鍵開源套件因維護者過勞而停更、公司才驚覺自己有多依賴一個人的工程師。",
+          "variations": [
+            "短版：全公司靠一個沒人管的套件撐著，直到官方宣布「維護者已精疲力竭」才驚覺風險有多大。",
+            "延伸版：那份筆記本後來被翻出來重讀，「風險：低（暫時）」那行字，被貼在茶水間當警世語。"
+          ]
+        },
+        "en": {
+          "content": "At the security meeting, a coworker turns pale: the open-source package they've deployed at the core of everything for eight years just announced it's no longer maintained, because 'the maintainer is burned out.' The manager asks, 'So we're replacing it?' 'Replacing it touches thirty services. Call it six months.' 'And if we don't?' 'Then we keep running the company's core systems on something nobody's looking after.' The room goes quiet for a few seconds. The manager writes one line in his notebook: 'Risk: low (for now).' After the meeting, he goes and open-sources an internal tool he's been the sole maintainer of for five years, with a note attached: 'Contributions welcome.'",
+          "editorNote": "For engineers who watched a critical open-source package go unmaintained and realized how much the company quietly depended on one burned-out person.",
+          "variations": [
+            "Short version: The whole company runs on a package nobody's maintaining, until the announcement 'the maintainer is burned out' makes the risk suddenly real.",
+            "Extended: Someone digs up that notebook later. The line 'Risk: low (for now)' ends up pinned to the break room wall as a cautionary quote."
+          ]
+        }
+      }
     }
   ]
 }

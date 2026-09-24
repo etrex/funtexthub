@@ -11812,6 +11812,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-417",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://support.kktix.com/hc/zh-tw/articles/23055776459033-%E5%A6%82%E4%BD%95%E9%80%B2%E8%A1%8C%E8%BA%AB%E5%BF%83%E9%9A%9C%E7%A4%99%E8%AA%8D%E8%AD%89%E8%88%87%E7%B7%9A%E4%B8%8A%E8%B3%BC%E8%B2%B7%E7%A5%A8%E5%88%B8",
+      "sourceNote": "KKTIX 身心障礙認證購票說明：通過認證的帳號只能買活動日期在證明效期內的票、且無法跨區選位換位；取「證件效期卡在活動日之前」這個門檻改寫成換證來不及搶票的心情",
+      "tags": [
+        "身心障礙",
+        "證件",
+        "制度",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "認證過身心障礙資格的帳號才能買的票，系統會先看一件事：證明的效期，有沒有晚過演唱會那天。我的證明十月中到期，票是十一月的場次，於是系統很客氣地提醒我，屆時你可能已經不是身心障礙者了，麻煩先去換證再回來搶票。換證要預約，預約到的號碼已經排到下個月，票早就賣完了。",
+          "editorNote": "適合分享身心障礙購票證件效期規則、卡在「活動日早於證件到期日」這個門檻時使用",
+          "variations": [
+            "短版：證件效期晚不過演唱會，系統直接判我到時候不算身心障礙者。",
+            "延伸版：換證要預約，預約到的號碼排到下個月——票早就沒了。"
+          ]
+        },
+        "en": {
+          "content": "The account has to be verified as disabled before it can even buy the ticket, and the system checks one thing first: whether your certificate is still valid on the concert date. Mine expires in mid-October, the show is in November, so the system politely informs me that by then I might not technically be disabled anymore, please renew first and come back to try again. Renewing needs an appointment. The earliest slot is next month. The tickets will be long gone.",
+          "editorNote": "For when disability-verified ticket accounts get blocked because the certificate expires before the show date",
+          "variations": [
+            "Short: My certificate expires before the show, so the system decided I won't be disabled by then.",
+            "Extended: Renewing needs an appointment, the next slot is a month out, and the tickets will already be gone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-418",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://ticket.mna.com.tw/UTK0106_?BULLETIN_ID=P09BBM8R&IS_URL=N",
+      "sourceNote": "MNA 牛耳藝術身心障礙優待票券購買說明：身障者可享優待、陪同者以一人為限；取「陪同名額只有一個」的規則改寫成家人搶名額的日常",
+      "tags": [
+        "身心障礙",
+        "陪同票",
+        "家人",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "身心障礙票可以帶一位陪同者，半價。問題是我家有兩個人都想陪——媽媽說她比較懂我平常需要什麼，弟弟說他比較有力氣推輪椅。兩個人在飯桌上討論到最後，變成不是誰陪我感情比較深，是誰的手速比較快，才搶得到那唯一一個半價名額。",
+          "editorNote": "適合家人朋友都想當陪同者、卻只有一個半價名額可以搶時使用",
+          "variations": [
+            "短版：半價陪同名額只有一個，家人比的不是感情，是手速。",
+            "延伸版：最後決定陪同資格的，不是誰比較懂我，是誰先搶到那個名額。"
+          ]
+        },
+        "en": {
+          "content": "The accessible ticket comes with one companion seat at half price. The problem is two people in my family both want to go — Mom says she knows what I actually need day to day, my brother says he's stronger at pushing the wheelchair. By the end of dinner the argument wasn't about who loves me more, it was about whose typing speed was faster, because there's only one discounted seat to fight over.",
+          "editorNote": "For when more than one family member wants to be the companion, but there's only one discounted seat",
+          "variations": [
+            "Short: Only one discounted companion seat, so my family competed on typing speed, not affection.",
+            "Extended: In the end the companion wasn't decided by who understands me best — it was decided by who clicked first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-419",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://ec.tfmi.com.tw/Content/Ticket/Index.aspx",
+      "sourceNote": "台灣產物保險門票費用損失保險：保費約票價3%、涵蓋8項突發事故、補足文化部3日退票期限的空白；取「退票期限太短所以額外買保險」的心情改寫",
+      "tags": [
+        "保險",
+        "退票",
+        "制度",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "門票損失保險，保費大概是票價的百分之三，保的是萬一你臨時住院、遇到意外或颱風地震，去不了現場，至少票錢拿得回來。文化部規定的退票期限是購票後三天，但誰會在買到票的當下就想到「如果我去不了怎麼辦」。真正想到這件事的時候，通常已經超過三天了，於是我付了那百分之三，買一個「至少不會白搶」的安心。",
+          "editorNote": "適合分享門票損失保險新聞、或是解釋自己為什麼連保費都不想省時使用",
+          "variations": [
+            "短版：三天退票期限太短，我乾脆多付百分之三買安心。",
+            "延伸版：搶到票之後才想到「如果去不了怎麼辦」，通常已經來不及退票，只能靠保險補。"
+          ]
+        },
+        "en": {
+          "content": "There's an insurance policy for concert tickets now — about 3% of the ticket price — that covers you if a sudden hospitalization, accident, or typhoon keeps you from making it to the show, so you at least get your money back. The official refund window is three days after purchase, but nobody thinks about \"what if I can't go\" the moment they finally score a ticket. By the time it occurs to you, the three days are long gone, so I paid that 3% just to buy myself the peace of mind that the fight for this ticket won't be for nothing.",
+          "editorNote": "For when you're explaining why you paid extra for ticket insurance instead of skipping it",
+          "variations": [
+            "Short: The three-day refund window is too short, so I just paid 3% extra for peace of mind.",
+            "Extended: You only think about 'what if I can't go' after you've already got the ticket — by then it's too late to refund, so insurance is the only backup."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-420",
+      "dateAdded": "2026-09-24",
+      "sourceUrl": "https://www.today.com/popculture/music/harry-styles-tickets-cost-controversy-explained-rcna256234",
+      "sourceNote": "Today.com Harry Styles 紐約演唱會預售創紀錄、1150萬人登記候補；取「登記人數破紀錄」這個誇張數字改寫成排隊者的自嘲",
+      "tags": [
+        "排隊",
+        "數字",
+        "厭世",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "國外某天團在紐約開唱，光是登記候補資格的人數，就衝到一千一百五十萬。我盯著那個數字看了很久，忽然覺得自己在拓元排的那三萬多人，好像也沒那麼誇張了。反正結果都一樣——排在前面的是別人，輪到自己的時候，位置早就沒了。差別只在，這次沒搶到的理由，聽起來比較有國際規模。",
+          "editorNote": "適合分享國外天團登記人數破紀錄新聞、順便自嘲自己排的隊伍其實不算什麼時使用",
+          "variations": [
+            "短版：人家登記破千萬，我排的三萬人瞬間不算什麼。",
+            "延伸版：結果都一樣搶不到，只是這次的理由聽起來比較國際化。"
+          ]
+        },
+        "en": {
+          "content": "A pop star's New York shows just broke the presale record — eleven and a half million people registered for a shot at tickets. I stared at that number for a while and realized the thirty-thousand-something queue I was stuck in last week suddenly felt almost quaint. The result's the same either way — someone else is always ahead of you, and by the time it's your turn, the good seats are gone. The only difference this time is that the excuse for missing out comes with a much bigger number attached.",
+          "editorNote": "For when a record-breaking presale registration count makes your own queue number feel small by comparison",
+          "variations": [
+            "Short: Eleven million registered elsewhere made my few-thousand queue feel tiny.",
+            "Extended: Same outcome, no ticket — just a fancier, more international excuse this time."
+          ]
+        }
+      }
     }
   ]
 }
