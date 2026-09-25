@@ -13224,3 +13224,28 @@ Sources: [PublicHolidays.tw：2026 中秋節日期](https://publicholidays.tw/zh
 - **不執行**：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）；「××基礎，××不基礎」句式獨立建檔（僅作寫作手法參考）；SpongeBob／Jimothy 版權/已覆蓋素材重複指派。
 
 Sources: [NOWnews：好市多熟食區10月起「點餐要會員卡」](https://www.nownews.com/news/6874805)｜[東森新聞：好市多熟食區10/1起「沒掃會員卡不能買」](https://news.ebc.net.tw/news/living/571142)｜[聯合新聞網：好市多10月新制！買熱狗披薩先刷卡](https://udn.com/news/story/7270/9752703)｜[壹蘋新聞網：好市多這天起買熱狗要刷會員卡](https://news.nextapple.com/life/20260914/82F809D2C55ACBC093A059E5AEA6BBDC)｜[三立新聞網：好市多熟食區10月起強制刷卡](https://www.setn.com/news/1906539)｜[搜狐：「我的身材很曼妙」是啥梗](https://m.sohu.com/a/978531637_121124300/)｜[知乎：「不知道，我的身材很曼妙」已讀亂回句式討論](https://www.zhihu.com/question/1999505961371529251)｜[換日線：從《奧德賽》看20幾歲的「奧德賽時期」](https://crossing.cw.com.tw/article/20914)｜[人民網：年輕人如何度過「奧德賽時期」](http://ha.people.com.cn/n2/2026/0413/c351638-41550008.html)｜[TVB News：奧德賽時期 古希臘英雄比喻成網絡關鍵詞](https://news.tvb.com/tc/1184352-%E5%A5%A7%E5%BE%B7%E8%B3%BD%E6%99%82%E6%9C%9F%E5%8F%A4%E5%B8%8C%E8%87%98%E8%8B%B1%E9%9B%84%E6%AF%94%E5%96%BB%E6%88%90%E7%B6%B2%E7%B5%A1%E9%97%9C%E9%8D%B5%E8%A9%9E)｜[知乎：2026最新熱梗大盤點（含「夯爆了」「愛你老己」）](https://zhuanlan.zhihu.com/p/2025142253308397369)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)
+
+## 2026-09-25 Research Report
+
+### 第 0 項：產線檢查
+- 09-24 收盤語料 **178 則／42 檔**（`dateAdded` 計數），09-21/22/23 為 168/186/193 ⇒ 正常，未停擺。09-25 當日尚未產出（研究任務先於 daily-update）。本次未重測分發層／DNS／404（狀態沿用 09-24：`funtexthub.com` 未註冊、soft-404 未修）。
+
+### New Topic Recommendations
+1. **🟢 「大跳」王ADEN 校園演出爭議梗（priority 🟢 candidate，但有時效與人物地雷）**
+   外部：Threads 上「大跳」指歌手王ADEN 校園演出爭議，衍生為「熱舞／瘋狂跳舞」動詞梗。語料讀數：`王ADEN` 0/0（🟢 WHITE）；`大跳` 1 則／1 檔（幾乎白地）。
+   - ⇒ 只可做「動詞梗」的泛用化（開會前、週五下班、領薪水那天『大跳』），**不得指名藝人或評論爭議本身**。
+   - 候選路由：`slang-quotes`／`daily-life-jokes` 類既有檔；梗壽命短，建議 1 週內指派否則放棄。
+2. **🔴 不新增：「ㄅ級分」**——語料已 24 則／1 檔（已飽和）。「暈爛」38/2、「好解」20/6、「嘻嘻」61/1 亦已覆蓋，本週 Z 世代用語清單（bnext、Mobile01 等）多為既有詞，無新增白地。
+
+### Content Trends
+- Threads（俗稱「脆」）是台灣新梗第一產地；本週搜尋結果多為年度總整理型文章，時間性弱（WebSearch 摘要時態不可信，查詢已用時間詞）。
+- 英文側：Jimothy the Raccoon、SpongeBob handcuffs 皆為 09-24 已記錄「版權／已覆蓋，不重複指派」項目；無新增英文白地。
+- 時效：9/28 教師節連假結束（`教師節` 81/11 已飽和）；10/9–10/11 國慶連假（`國慶` 17/1，仍有空間，且 09-24 記載為明文不推）；10/12 重陽（28/1）；10/24–10/26 光復節。
+
+### Existing Topic Updates
+- 09-24 所列候選（KitKat 劫案、曼妙句式、奧德賽時期）仍未指派、無時效壓力，維持 🟢。
+- 好市多熟食區新制 10/1 生效，指派窗口 9/24–9/30 仍開啟。
+- 🔴 需人工四項狀態未變（SKILL.md 重試／註冊網域與信箱／404.astro／`check_batch.py` 第 123、160 行 `share_fail()`）。
+- 不執行：建立內容檔、補跑、代 generator commit／deploy。
+
+Sources: [數位時代：Z世代口頭禪17個網路用語](https://www.bnext.com.tw/article/80853/gen-z-internet-language)｜[EasyTimes：2026網路流行語大補帖](https://blog.easytimes.tw/2026/05/2026_07845900.html)｜[UpToGo：2026有什麼梗](https://uptogo.com.tw/%E7%A7%91%E6%8A%80/%E7%B6%B2%E8%B7%AF/2026%E6%9C%89%E4%BB%80%E9%BA%BC%E6%A2%97%EF%BC%9F/)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)｜[NapoleonCat：Top Trending Memes](https://napoleoncat.com/blog/trending-memes/)
