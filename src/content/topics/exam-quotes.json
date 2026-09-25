@@ -13713,6 +13713,106 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "eq-459",
+            "dateAdded": "2026-09-25",
+            "sourceUrl": "https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&sid=0J112593580708735372",
+            "sourceNote": "大考中心監試觀察與學生現場訪談摘記；取「監考人員一句平常提醒被考生記很久」的氛圍改寫",
+            "tags": ["考試", "監考", "緊張", "語錄"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "考數學前，監考的阿姨只講了一句：「筆不要一直轉，掉了我幫你撿。」語氣平常得像在提醒人帶傘。我那天緊張到把原子筆轉了三十幾圈，被這句話按停了手，後來每次面試前手指一動，就會想起它。",
+                    "editorNote": "適合寫考場上最普通的一句提醒，為什麼反而留了很多年。",
+                    "variations": [
+                        "短版：全考場最有用的一句話，是要我別轉筆。",
+                        "延伸版：那句話沒有加油打氣，卻是我整個上午唯一聽進去的。"
+                    ]
+                },
+                "en": {
+                    "content": "Before the math exam, the proctor said just one thing: \"Stop spinning your pen, and if it drops I'll pick it up for you.\" She said it as flatly as someone reminding you to bring an umbrella. I'd been so nervous I spun that pen thirty-some times, and her sentence stopped my hand, and now whenever my fingers twitch before an interview, I hear it again.",
+                    "editorNote": "Good for the plainest reminder in the exam room and why it stuck for years.",
+                    "variations": [
+                        "Short: The most useful line in the whole exam hall was a request to stop spinning my pen.",
+                        "Extended: It carried no pep talk at all, yet it was the only thing I heard that morning."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-460",
+            "dateAdded": "2026-09-25",
+            "sourceUrl": "https://udn.com/news/story/123858/7779639",
+            "sourceNote": "學測超時作答被扣分的新聞；取「考場上簡短口令被記很久」的細節改寫成清單",
+            "tags": ["考試", "口令", "考場", "清單"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "— 「還有十分鐘」，說得像公車快進站\n— 「橡皮擦屑請自己帶走」，考場只有這句我聽得清清楚楚\n— 「時間到請放下筆」，我的手還是多寫了半個句點\n— 「明天見」，同桌在走廊說的，其實我們不同考場\n— 「加油」，掃地阿伯說的，掃把還沒停",
+                    "editorNote": "考場口令清單，適合考完後回顧哪些話最普通也最難忘。",
+                    "variations": [
+                        "短版：整場考試我記得的全是口令，沒有一個是題目。",
+                        "延伸版：最後那句「明天見」根本沒有明天，我們兩個人都知道。"
+                    ]
+                },
+                "en": {
+                    "content": "— \"Ten minutes left,\" said like a bus about to pull in.\n— \"Please take your eraser crumbs with you,\" the only line I heard perfectly clearly.\n— \"Time is up, pens down,\" and my hand still added half a period.\n— \"See you tomorrow,\" said in the hallway by my deskmate, though we sat in different rooms.\n— \"Good luck,\" from the old man sweeping the yard, broom still moving.",
+                    "editorNote": "A list of exam-hall commands, good for looking back at the plainest lines that lasted.",
+                    "variations": [
+                        "Short: All I remember from the exam is the announcements, not one question.",
+                        "Extended: That last \"see you tomorrow\" had no tomorrow, and we both knew it."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-461",
+            "dateAdded": "2026-09-25",
+            "sourceUrl": "https://vocus.cc/article/678f5f2cfd8978000132f5e8",
+            "sourceNote": "方格子考生回顧文；取「考試當天記得的不是題目而是家人一句日常話」改寫",
+            "tags": ["考試", "早餐", "家人", "語錄"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "考試那天早上，爸爸在門口問的是：「蛋餅要加蛋還是不加？」沒有加油，也沒有叫我放輕鬆。多年後我想起那場考試，腦中留下的只有那個問題，題目一題也想不起來，因為它是整個早上唯一我能百分之百答對的。",
+                    "editorNote": "適合寫考試當天家人講的一句日常話，普通到反而成了記憶的起點。",
+                    "variations": [
+                        "短版：考試那天最好答的題目，是蛋餅加不加蛋。",
+                        "延伸版：我答了加蛋，那是當天第一個沒有猶豫的決定。"
+                    ]
+                },
+                "en": {
+                    "content": "On exam morning, what Dad asked at the door was, \"Egg in the egg pancake, or plain?\" No pep talk, no telling me to relax. Years later, what I remember from that exam is that one question, with every question on the paper gone, because it was the only thing all morning I could answer with total certainty.",
+                    "editorNote": "For the ordinary sentence a family member said on exam day that became the start of the memory.",
+                    "variations": [
+                        "Short: The easiest question that day was whether to add egg to my breakfast.",
+                        "Extended: I said yes to the egg, my first decision that day without any hesitation."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-462",
+            "dateAdded": "2026-09-25",
+            "sourceUrl": "https://crossing.cw.com.tw/article/15800",
+            "sourceNote": "換日線監考學測觀察文；取「考前一分鐘的小互動被記住」的氛圍改寫",
+            "tags": ["考試", "同學", "立可帶", "回憶"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "進考場前一分鐘，後座的同學拍了我的肩，只說：「借我一下你的立可帶。」我遞過去，她用完還了回來，整場考試我們沒再說過話。畢業後我連她的名字都忘了，卻還記得立可帶還回來時，蓋子是蓋緊的。",
+                    "editorNote": "適合寫陌生同學在考前借東西的那一句，考完各奔東西後只剩這個小細節。",
+                    "variations": [
+                        "短版：她只借了立可帶，卻在我的記憶裡住了很多年。",
+                        "延伸版：名字忘了，蓋緊的蓋子沒忘。"
+                    ]
+                },
+                "en": {
+                    "content": "A minute before we filed into the exam room, the girl behind me tapped my shoulder and said only, \"Can I borrow your correction tape?\" I handed it over, she gave it back, and we never spoke again the whole exam. After graduation I forgot her name, yet I still remember that the cap was screwed on tight when it came back.",
+                    "editorNote": "For the borrowed-item line from a near stranger before an exam, when only one small detail survives after everyone scatters.",
+                    "variations": [
+                        "Short: She only borrowed correction tape, yet she has lived in my memory for years.",
+                        "Extended: I lost her name, but not the tightly closed cap."
+                    ]
+                }
+            }
         }
   ]
 }

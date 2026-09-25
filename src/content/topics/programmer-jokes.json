@@ -15371,6 +15371,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-561",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://programmerhumor.io/git-memes/that-one-merge-conflict-5v3p",
+      "sourceNote": "ProgrammerHumor 合併衝突迷因，改寫成整檔重新排版造成兩百行衝突的對白",
+      "tags": ["Git", "合併衝突", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這次的合併衝突有兩百多行。」\n「我只是把縮排從空格改成 tab。」\n「全部的檔案？」\n「全部的。整齊比較重要。」\n「我三天的修改都在裡面。」\n「整齊的三天。」",
+          "editorNote": "給被同事順手整理排版、害自己的修改淹沒在衝突裡的工程師。",
+          "variations": [
+            "短版：他改了縮排，我的三天工作就變成兩百行衝突。",
+            "延伸版：後來團隊規定，動排版的提交必須單獨開一個分支，並附上道歉。"
+          ]
+        },
+        "en": {
+          "content": "\"This merge conflict is over two hundred lines.\"\n\"I just changed the indentation from spaces to tabs.\"\n\"In every file?\"\n\"Every file. Tidy matters more.\"\n\"Three days of my changes are in there.\"\n\"Tidy three days.\"",
+          "editorNote": "For engineers whose changes got buried in conflicts after a teammate casually reformatted everything.",
+          "variations": [
+            "Short version: He changed the indentation, and my three days of work became two hundred lines of conflict.",
+            "Extended: The team later ruled that formatting commits need their own branch, plus an apology."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-562",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://programmerhumor.io/memes/merge",
+      "sourceNote": "ProgrammerHumor 合併與程式碼審查迷因，改寫成幾秒內核准八百多行的對白",
+      "tags": ["程式碼審查", "職場", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「八百四十七行，你三秒就按了核准？」\n「我信任你。」\n「你有開檔案嗎？」\n「我信任你的檔名。」\n「裡面有一行是寫死的密碼。」\n「那我也信任它很強。」",
+          "editorNote": "給被同事秒批 PR、才發現根本沒人看過內容的工程師。",
+          "variations": [
+            "短版：核准得越快，越表示審查者信任的是你的檔名。",
+            "延伸版：上線後，那行密碼在三個部門的頻道裡被截圖，標題都是「信任」。"
+          ]
+        },
+        "en": {
+          "content": "\"Eight hundred forty-seven lines, and you approved it in three seconds?\"\n\"I trust you.\"\n\"Did you open the files?\"\n\"I trust your filenames.\"\n\"One line has a hardcoded password.\"\n\"Then I trust it's a strong one.\"",
+          "editorNote": "For engineers whose pull request got rubber-stamped, proving nobody actually read it.",
+          "variations": [
+            "Short version: The faster the approval, the more the reviewer trusts your filenames.",
+            "Extended: After release, that password line gets screenshotted in three departments' channels, all captioned 'trust.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-563",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://blog.lxmwaniky.me/are-we-ready-to-hand-over-the-pager",
+      "sourceNote": "討論 2026 年 AI SRE 接手值班呼叫器的文章，改寫成 AI 值班員只交出檢討報告的對白",
+      "tags": ["值班", "AI", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「新來的 AI 值班員，凌晨三點有反應嗎？」\n「三點零一分就回了，交出一份很完整的報告。」\n「問題解決了嗎？」\n「報告寫得很好。」\n「服務呢？」\n「服務在等第二份報告。」",
+          "editorNote": "給被 AI 值班工具的漂亮文件與沒恢復的服務同時折磨的維運工程師。",
+          "variations": [
+            "短版：AI 三點零一分就回覆了，服務三點五十還沒恢復。",
+            "延伸版：早上主管問責，AI 補交了第三份報告，標題是「為何第二份報告尚未生效」。"
+          ]
+        },
+        "en": {
+          "content": "\"Did the new AI on-call respond at 3 a.m.?\"\n\"Replied at 3:01 with a very thorough report.\"\n\"Did it fix the problem?\"\n\"The report is excellent.\"\n\"And the service?\"\n\"The service is waiting on report number two.\"",
+          "editorNote": "For ops engineers tormented by an AI on-call tool's polished documents and a service that never came back.",
+          "variations": [
+            "Short version: The AI replied at 3:01. The service still wasn't back at 3:50.",
+            "Extended: At the morning review the AI files a third report, titled 'Why Report Two Has Not Yet Taken Effect.'"
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-564",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://dev.to/giga_kovaliovi_1853ce432b/your-on-call-engineer-just-got-paged-heres-what-happens-to-the-postmortem-266n",
+      "sourceNote": "DEV Community 談值班後事後檢討流於形式的文章，改寫成改善項目只完成會議縮短的對白",
+      "tags": ["事後檢討", "職場", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「上次事後檢討的改善項目，做完了嗎？」\n「做完一條。」\n「哪一條？」\n「把檢討會議從一小時縮成四十分鐘。」\n「其他的呢？」\n「其他的，下次開會再討論。」",
+          "editorNote": "給參加過事後檢討、改善項目卻永遠只剩開會本身的工程師。",
+          "variations": [
+            "短版：唯一完成的改善項目，是讓檢討會議變短。",
+            "延伸版：季末統計，改善完成率百分之十四，會議縮短率百分之三十三。"
+          ]
+        },
+        "en": {
+          "content": "\"Did we finish the action items from the last postmortem?\"\n\"We finished one.\"\n\"Which one?\"\n\"Cut the postmortem meeting from an hour to forty minutes.\"\n\"And the rest?\"\n\"The rest, we'll discuss at the next meeting.\"",
+          "editorNote": "For engineers who've sat through postmortems where the only action item that ever ships is the meeting itself.",
+          "variations": [
+            "Short version: The only action item completed was making the postmortem shorter.",
+            "Extended: End-of-quarter stats: fourteen percent of action items done, thirty-three percent shorter meetings."
+          ]
+        }
+      }
     }
   ]
 }

@@ -12961,6 +12961,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-454",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://news.pts.org.tw/article/702722",
+      "sourceNote": "公視新聞網報導租屋電費新制（房東不得超收、須依台電電價計費）；取租客與房東對「照台電算」各有解讀的情境改寫，內容為原創",
+      "tags": ["電費", "房東", "租約", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東說電費照台電算。我聽成帳單上印的平均每度多少，就照那個收；房東大概想的是夏月最高的那一級。兩種都叫照台電，月底對帳，每度電就差出一段距離。",
+          "editorNote": "給跟房東口頭談過電費、卻沒人把算法寫進紙上的租客",
+          "variations": [
+            "短版：照台電算這四個字，兩邊各念出一個價錢。",
+            "延伸版：電費算法補進租約那天，兩個人簽名的時候都笑了一下。"
+          ]
+        },
+        "en": {
+          "content": "My landlord said the electricity would be billed at the Taipower rate. I heard the average price per unit printed on the bill; he probably meant the top summer tier. Both are called the Taipower rate, and by month-end the gap between them shows up on every single unit.",
+          "editorNote": "For tenants who agreed on electricity verbally and never wrote the formula down",
+          "variations": [
+            "Short: Four words, and each side read a different price out of them.",
+            "Extended: We eventually put the formula into the lease, and both of us smiled a little when we signed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-455",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.storm.mg/lifestyle/3872924",
+      "sourceNote": "風傳媒租屋攻略：退租點交與押金爭議；取點交時一句「都很乾淨」兩種讀法的情境改寫，內容為原創",
+      "tags": ["押金", "點交", "退租", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "點交那天，房東環顧一圈說：「都很乾淨喔。」我聽成押金全數奉還，鑰匙交得很輕快。他的意思是牆角以外的地方都很乾淨，於是兩個月後，我的帳戶收到少掉三千的一筆匯款。",
+          "editorNote": "給退租時只聽到一句稱讚、就以為押金穩了的房客",
+          "variations": [
+            "短版：都很乾淨這句話，我聽到的是全額，他說的是除了牆角。",
+            "延伸版：點交表上要是有多寫一行牆角，這兩種聽法就不會同時存在。"
+          ]
+        },
+        "en": {
+          "content": "On handover day the landlord glanced around and said, \"Looks very clean.\" I heard a full deposit refund and handed over the keys feeling light. He meant everything except the corner of the wall, so two months later my account received a transfer that was three thousand short.",
+          "editorNote": "For tenants who took one compliment at move-out as proof the deposit was safe",
+          "variations": [
+            "Short: I heard \"full refund\" in \"looks clean\"; he heard \"except the corner.\"",
+            "Extended: One extra line about the wall corner on the checklist, and these two readings could never have coexisted."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-456",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://vocus.cc/article/6a8d1216fd897800010782e3",
+      "sourceNote": "方格子文章整理2026租屋新制與租約到期、漲租常見誤會；取到期前口頭「再聊」兩種解讀的情境改寫，內容為原創",
+      "tags": ["續約", "漲租", "房東", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 房東說：租約到了再聊\n— 我的耳朵：續約，租金照舊\n— 他的心裡：漲兩千，看你點頭\n— 兩個人都點了頭\n— 各自回家，各自安心",
+          "editorNote": "給租約快到期、房東只丟一句「再聊」的租客",
+          "variations": [
+            "短版：再聊兩個字，一邊聽到續約，一邊聽到調漲。",
+            "延伸版：到期前一個月，我先把想聊的事寫成三行，傳過去等他回。"
+          ]
+        },
+        "en": {
+          "content": "— The landlord said: we'll talk when the lease ends.\n— My ears: renewal, same rent.\n— His mind: two thousand more, pending your nod.\n— Both of us nodded.\n— Each went home reassured.",
+          "editorNote": "For tenants nearing lease end whose landlord only offered a vague \"let's talk\"",
+          "variations": [
+            "Short: One side heard renewal in \"let's talk,\" the other heard a raise.",
+            "Extended: A month before the end, I wrote what I wanted to discuss in three lines and sent it over to wait."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-457",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.money101.com.tw/blog/%E9%80%80%E7%A7%9F-%E6%8A%BC%E9%87%91-%E8%A2%AB%E6%89%A3-%E5%9B%9B%E6%92%87%E6%AD%A5-%E5%85%AC%E9%81%93",
+      "sourceNote": "Money101租屋攻略：修繕責任與提前退租溝通；取「壞了跟我說」兩種讀法的情境改寫，內容為原創",
+      "tags": ["修繕", "房東", "訊息", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "房東傳訊說，熱水器有狀況再跟他說。我讀成壞了就會有人來修，他寫下這行字的時候，想的可能是先忍一忍，忍不住再說。訊息上的字只有一種，我們各自讀出的那種卻有兩種，所以水冷了三個禮拜，我一直沒有開口。",
+          "editorNote": "給不確定「有狀況再說」到底是叫人報修還是叫人先忍的租客",
+          "variations": [
+            "短版：有狀況再說，我讀成報修，他寫成先撐著。",
+            "延伸版：第二十一天我終於傳了一張照片過去，他回得比熱水還快。"
+          ]
+        },
+        "en": {
+          "content": "My landlord texted that I should tell him if anything happens with the water heater. I read it as someone coming to fix it once it broke; when he typed it, he may have meant to put up with it first and speak up later. The words on screen are one thing, our readings are two, so the water ran cold for three weeks and I never said a word.",
+          "editorNote": "For tenants unsure whether \"tell me if something's off\" means report it or endure it",
+          "variations": [
+            "Short: \"Tell me if anything happens\": I read repair, he wrote endure.",
+            "Extended: On day twenty-one I finally sent a photo, and he replied faster than the water heats."
+          ]
+        }
+      }
     }
   ]
 }

@@ -13349,6 +13349,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-475",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://talk.ltn.com.tw/article/breakingnews/1635910",
+      "sourceNote": "滷肉飯由來介紹",
+      "tags": [
+        "滷肉飯",
+        "問答",
+        "台味"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：滷肉飯為什麼叫滷肉飯？\n答：因為是用滷汁煮過的豬肉，淋在白飯上。",
+          "editorNote": "適合放在等著聽雙關的貼文後面，答案就是字面上的答案。",
+          "variations": [
+            "短版：問滷肉飯為什麼叫滷肉飯，答案是滷過的豬肉淋在飯上。",
+            "延伸版：追問為什麼不叫肉燥飯，答案是各地叫法不同。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why is it called braised pork rice?\nA: Because it's pork cooked in braising sauce and spooned over rice.",
+          "editorNote": "Fits under a post where everyone is waiting for the pun and the answer is just the literal one.",
+          "variations": [
+            "Short version: Why braised pork rice? Braised pork, over rice.",
+            "Extended: Asked why it isn't called minced pork rice, the answer was that names differ by region."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-476",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://supertaste.tvbs.com.tw/pack/340662",
+      "sourceNote": "台北早餐豆漿店介紹",
+      "tags": [
+        "油條",
+        "問答",
+        "早餐"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「油條和麵條有什麼不一樣？」\n「油條是炸的，麵條是煮的。」\n「還有嗎？」\n「油條要趁熱吃。」",
+          "editorNote": "對話式反笑話，第二句起認真答題，適合貼在早餐話題底下。",
+          "variations": [
+            "短版：油條和麵條的差別是一個炸一個煮。",
+            "延伸版：問還有嗎，對方補一句油條要趁熱吃。"
+          ]
+        },
+        "en": {
+          "content": "\"What's the difference between a fried dough stick and noodles?\"\n\"The stick is fried and the noodles are boiled.\"\n\"Anything else?\"\n\"The stick is best eaten hot.\"",
+          "editorNote": "A dialogue-style anti-joke that answers seriously from the second line on, good under a breakfast thread.",
+          "variations": [
+            "Short version: A dough stick is fried and noodles are boiled.",
+            "Extended: Asked if there's more, the other person adds that the stick is best hot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-477",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://500times.udn.com/wtimes/story/123497/8737000",
+      "sourceNote": "蛋餅早餐介紹",
+      "tags": [
+        "蛋餅",
+        "早餐",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "蛋餅要不要加起司，阿姨這樣問我。我說要。她說加起司多十元，然後就轉身去煎了。",
+          "editorNote": "沒有轉折的點餐紀錄，適合貼在大家都在等下一句的早餐迷因底下。",
+          "variations": [
+            "短版：蛋餅加起司多十元，阿姨講完就去煎了。",
+            "延伸版：蛋餅端上來，起司在裡面，多的十元也在帳上。"
+          ]
+        },
+        "en": {
+          "content": "The lady at the counter asked if I wanted cheese in my egg pancake. I said yes. She said cheese was ten dollars extra, then turned around and started cooking.",
+          "editorNote": "An order with no twist, good under a breakfast meme where everyone is waiting for the next line.",
+          "variations": [
+            "Short version: Cheese in the egg pancake cost ten extra, and she went to cook it.",
+            "Extended: The pancake arrived with cheese inside, and the ten dollars was on the bill."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-478",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.healingdaily.com.tw/articles/%E5%82%B3%E7%B5%B1%E6%97%A9%E9%A4%90%E7%86%B1%E9%87%8F-%E9%A3%9F%E7%89%A9%E7%87%9F%E9%A4%8A/",
+      "sourceNote": "傳統早餐營養介紹",
+      "tags": [
+        "豆漿",
+        "早餐",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "老闆問豆漿要熱的還是冰的。我說熱的。他倒了一杯熱豆漿，收我二十五元。",
+          "editorNote": "三句平鋪直敘，適合作為系列反笑話的最後一則。",
+          "variations": [
+            "短版：豆漿要熱的，倒了熱的，收二十五元。",
+            "延伸版：付完錢，杯子還是熱的。"
+          ]
+        },
+        "en": {
+          "content": "The owner asked whether I wanted the soy milk hot or iced. I said hot. He poured a hot cup and charged me twenty-five dollars.",
+          "editorNote": "Three flat sentences, good as the closer of an anti-joke series.",
+          "variations": [
+            "Short version: Hot soy milk ordered, hot soy milk poured, twenty-five dollars.",
+            "Extended: After I paid, the cup was still hot."
+          ]
+        }
+      }
     }
   ]
 }

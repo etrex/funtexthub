@@ -13108,6 +13108,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-451",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.taoyuan-airport.com/revised_flight",
+      "sourceNote": "編輯原創：取材自桃園機場異動航班公告與颱風外圍環流造成航班調整的新聞，改寫成登機口外的天氣與動作",
+      "tags": ["機場", "天氣", "航班延誤", "旅行"],
+      "i18n": {
+        "zh-tw": {
+          "content": "登機門外的落地窗上，雨從橫著打變成直著落。他把登機證翻到背面，又翻回正面。廣播說延後四十分鐘，他把行李箱的拉桿推進去，又抽出來。雨停的時候，耳機線已經繞了他三圈手指。",
+          "editorNote": "適合航班延誤時發限動，配一張窗外的照片。",
+          "variations": [
+            "短版：雨從橫著打變成直著落，他的登機證翻了三次面。",
+            "延伸版：廣播說延後四十分鐘，他把拉桿推進去又抽出來，耳機線繞了三圈。"
+          ]
+        },
+        "en": {
+          "content": "On the glass by the gate, the rain goes from slanting to straight. He flips his boarding pass to the back, then to the front again. The announcement says forty minutes' delay, and he pushes the suitcase handle in, then pulls it out. By the time the rain stops, the earphone cord has wound three times around his fingers.",
+          "editorNote": "Good for a story post during a flight delay, paired with a photo of the window.",
+          "variations": [
+            "Short: The rain straightens out. His boarding pass has been flipped three times.",
+            "Longer: Forty minutes' delay; the handle goes in and out, and the cord winds three times."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-452",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://blog.jesselin.com/airportweather/",
+      "sourceNote": "編輯原創：取材自機場氣象資訊與航班因風雨調整的整理，改寫成條列式的機場外側畫面",
+      "tags": ["機場", "風雨", "出發", "旅行"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 機場外面，風把傘吹翻兩次\n— 她把傘骨扳回去，兩次\n— 玻璃上的雨痕往斜下方爬\n— 她把護照從左口袋換到右口袋\n— 廣播響了，她沒有抬頭",
+          "editorNote": "適合出發當天的旅行日記，用短行營造等待的節奏。",
+          "variations": [
+            "短版：風把傘吹翻兩次，她扳回去兩次。",
+            "延伸版：護照從左口袋換到右口袋，廣播響了，她沒有抬頭。"
+          ]
+        },
+        "en": {
+          "content": "— Outside the airport, the wind flips the umbrella twice.\n— She bends the ribs back, twice.\n— The rain tracks crawl down the glass at a slant.\n— She moves her passport from the left pocket to the right.\n— The announcement comes on, and she doesn't look up.",
+          "editorNote": "For a travel diary entry on departure day, short lines to set a waiting rhythm.",
+          "variations": [
+            "Short: The wind flips the umbrella twice; she bends it back twice.",
+            "Longer: Passport left pocket to right pocket. The announcement comes on. She doesn't look up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-453",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.marieclaire.com.tw/lifestyle/travel/95630",
+      "sourceNote": "編輯原創：取材自九月各地戶外旅遊活動與天氣的整理，改寫成山上民宿的起霧早晨",
+      "tags": ["山上", "民宿", "起霧", "旅行"],
+      "i18n": {
+        "zh-tw": {
+          "content": "民宿的窗簾一拉開，霧已經把整座山收走了。她把要走的步道地圖攤在桌上，用茶杯壓住四個角。霧散開一點又合起來，登山鞋被放回鞋櫃，又拿出來，最後擺在門邊。",
+          "editorNote": "適合山區旅行的早晨貼文，行程未定的時候用。",
+          "variations": [
+            "短版：窗簾一拉開，霧把山收走了，登山鞋在鞋櫃和門邊之間搬了兩趟。",
+            "延伸版：地圖用茶杯壓住四個角，霧散開一點又合起來。"
+          ]
+        },
+        "en": {
+          "content": "The moment the curtain opens, the fog has already taken the whole mountain. She spreads the trail map on the table and pins its four corners with teacups. The fog thins, then closes again, and the hiking boots go back into the cabinet, come out, and finally end up by the door.",
+          "editorNote": "For a morning post from a mountain stay, when the plan is still undecided.",
+          "variations": [
+            "Short: Curtain open, mountain gone, and the boots make two trips between cabinet and door.",
+            "Longer: Four teacups hold down the map while the fog thins and closes again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-454",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://mathewbike.com/taiwan-in-september/",
+      "sourceNote": "編輯原創：取材自台灣九月海邊旅遊與天氣介紹，改寫成午後的堤防與傍晚雲層",
+      "tags": ["海邊", "太陽", "堤防", "旅行"],
+      "i18n": {
+        "zh-tw": {
+          "content": "海邊的太陽大到影子縮進了腳底。遮陽傘是租的，他撐著走完整條堤防，防曬乳補擦了兩次。傍晚雲從西邊一片片推過來，傘被收起，靠在牆邊，沒有再打開。",
+          "editorNote": "適合海邊出遊的一天總結，白天到傍晚的時間軸。",
+          "variations": [
+            "短版：影子縮進腳底，防曬乳擦了兩次，傍晚傘靠在牆邊。",
+            "延伸版：整條堤防撐著租來的傘走完，雲從西邊推過來的時候，傘沒有再打開。"
+          ]
+        },
+        "en": {
+          "content": "The sun at the beach is so high his shadow has shrunk to his shoes. The umbrella is a rental, and he carries it the whole length of the seawall, reapplying sunscreen twice. By evening the clouds push in from the west, and the umbrella is folded, leaned against a wall, and left closed.",
+          "editorNote": "For a day-summary post from a beach trip, running from noon to dusk.",
+          "variations": [
+            "Short: Shadow under his feet, sunscreen twice, and by evening the umbrella leans on the wall.",
+            "Longer: He walks the seawall under a rented umbrella; when the clouds arrive from the west, it stays shut."
+          ]
+        }
+      }
     }
   ]
 }

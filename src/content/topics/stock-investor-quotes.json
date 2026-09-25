@@ -11588,6 +11588,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-382",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.sinotrade.com.tw/richclub/hotstock/%E6%9C%80%E8%BF%91%E5%93%AA%E4%BA%9B%E9%87%91%E8%9E%8D%E8%82%A1%E5%B7%B2%E9%99%A4%E6%81%AF-%E7%8F%BE%E9%87%91%E8%82%A1%E5%88%A9-%E6%AE%96%E5%88%A9%E7%8E%87---2026%E5%B9%B4%E9%87%91%E8%9E%8D%E8%82%A1%E9%85%8D%E6%81%AF%E6%94%BB%E7%95%A5%E4%B8%80%E8%A1%A8%E6%95%B4%E7%90%86-%E8%82%A1%E5%B8%82%E8%A9%B1%E9%A1%8C-685cfc15532fa10153e4b409",
+      "sourceNote": "參考2026年金融股配息與除息日整理；改寫成喜宴圓桌上親戚問配息、兩人各講各的場景",
+      "tags": ["配息", "存股", "誤會", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "表姊在喜宴的圓桌上問我：「你那個配息，一年領幾次啊？」我以為她想學存股，就把每季的除息日一個個背給她聽。她點點頭，又問：「那領到的那天，你請不請客？」她低頭在手機上按著計算機，我還在講第三季，兩個人各自算各自的帳。",
+          "editorNote": "親戚問配息，你當作投資交流、對方當作分紅包的預告時，可以拿來自嘲",
+          "variations": [
+            "短版：我講到第三季的除息日，表姊的計算機已經按到紅包要包多少。",
+            "延伸版：同一桌人聽同一句配息，有人聽到殖利率，有人聽到請客名單。"
+          ]
+        },
+        "en": {
+          "content": "At the wedding banquet, my cousin asked across the round table, \"How many times a year do you get paid that dividend?\" I assumed she wanted to learn how to hold stocks, so I recited each quarter's ex-dividend date one by one. She nodded and asked, \"So do you treat everyone on the day it lands?\" She was tapping numbers into her phone's calculator while I was still on the third quarter, the two of us adding up two different bills.",
+          "editorNote": "When a relative asks about your dividends and you treat it as investing talk while they treat it as a preview of your gift envelope, use this to laugh at yourself",
+          "variations": [
+            "Short: I was explaining the third quarter's ex-dividend date while her calculator had moved on to how much to put in the gift envelope.",
+            "Longer: Everyone at the table heard the same dividend question, and some heard yield while others heard a guest list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-383",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://money.udn.com/money/story/5607/9739403",
+      "sourceNote": "參考外資賣超、資金轉進金融股的週報導；改寫成爸爸與我對話裡『賣了』被聽成兩件事的場景",
+      "tags": ["賣出", "爸爸", "誤會", "對話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「爸，你那檔賣了沒？」\n「賣了，昨天就賣了。」\n「賺多少？」\n「老花眼鏡啊，賣給隔壁老王了。」\n「所以股票呢？」\n「股票還抱著，你剛剛問的那個賣了，兩個都是真的。」",
+          "editorNote": "長輩一句『賣了』可能指股票也可能指別的東西，適合用在家人問持股的閒聊",
+          "variations": [
+            "短版：爸說賣了，我聽成股票，他講的是老花眼鏡，股票其實還抱著。",
+            "延伸版：一句賣了兩個答案，眼鏡出手了，股票沒動。"
+          ]
+        },
+        "en": {
+          "content": "\"Dad, did you sell that stock yet?\"\n\"Sold it, yesterday.\"\n\"How much did you make?\"\n\"I meant my reading glasses. Sold them to old Wang next door.\"\n\"So what about the stock?\"\n\"Still holding it. The thing you just asked about is sold, and both answers are true.\"",
+          "editorNote": "An elder's \"sold\" might mean the stock or something else entirely, good for family chats about holdings",
+          "variations": [
+            "Short: Dad said sold, I heard the stock, he meant his reading glasses, and the stock is still in his hands.",
+            "Longer: One word, two answers: the glasses are gone and the shares haven't moved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-384",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://udn.com/news/story/7251/9725246",
+      "sourceNote": "參考外資單週買超台股、九月題材接力的報導；改寫成一家人同時說『再看看』各指不同事的清單",
+      "tags": ["再看看", "家人", "觀望", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 太太說再看看，指的是那台新的除濕機\n— 我說再看看，指的是那檔連跌三天的股票\n— 兒子說再看看，指的是我手上的手機\n— 三個人同時說了再看看，誰都沒有動\n— 桌上的茶涼了，沒有人去續",
+          "editorNote": "全家都說觀望、卻各指各的東西時，可以當作週末客廳的日常速寫",
+          "variations": [
+            "短版：一家三口同時說再看看，看的是除濕機、股票和手機。",
+            "延伸版：三個再看看，兩個還在猶豫，一個只是想玩遊戲。"
+          ]
+        },
+        "en": {
+          "content": "— My wife said she'd look again, meaning the new dehumidifier.\n— I said I'd look again, meaning the stock that fell three days straight.\n— My son said he'd look again, meaning the phone in my hand.\n— All three of us said it at once, and nobody moved.\n— The tea on the table went cold, and nobody refilled it.",
+          "editorNote": "When the whole family says they'll wait and see but each means something different, a quick sketch of a weekend living room",
+          "variations": [
+            "Short: Three people said look again at once: one for a dehumidifier, one for a stock, one for a phone.",
+            "Longer: Three wait-and-sees, two of them real hesitation, and one just wanted to play a game."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-385",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://udn.com/news/story/7251/9724763",
+      "sourceNote": "參考外資買超金控股的週報導；改寫成券商客服電話裡『已成交』被聽成兩種意思",
+      "tags": ["成交", "客服", "委託", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "客服在電話裡說：「您的委託已經成交了。」我把這句聽成順利買到，開心地回了聲謝謝。客服接著補上成交價，語氣一樣客氣，那個價位正好是我掛單時最不想看到的數字。掛上電話以後，「已成交」三個字在我耳朵裡各自成立，一個是好消息，一個也是。",
+          "editorNote": "券商通知已成交但價位不如預期時，可以用這則描述一句話兩種心情",
+          "variations": [
+            "短版：客服說已成交，我先謝謝，再聽見成交價，語氣還是一樣客氣。",
+            "延伸版：同一句已成交，前半句是完成，後半句是價位，兩個都是事實。"
+          ]
+        },
+        "en": {
+          "content": "The rep on the phone said, \"Your order has been filled.\" I took that to mean I'd bought in smoothly and thanked her happily. She went on to read out the fill price in the same polite tone, and it was exactly the number I'd least wanted to see when I placed the order. After I hung up, the two words \"order filled\" each stood on their own in my ear, one of them good news and the other also true.",
+          "editorNote": "When your broker confirms a fill but the price isn't what you hoped, this shows one sentence carrying two feelings",
+          "variations": [
+            "Short: She said filled, I said thank you, then the fill price came in the same polite tone.",
+            "Longer: The same phrase, filled: the first half was completion, the second half was the price, and both are facts."
+          ]
+        }
+      }
     }
   ]
 }

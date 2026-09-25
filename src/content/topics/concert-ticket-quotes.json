@@ -11932,6 +11932,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-421",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://ticket.ibon.com.tw/NewsInfo/Details/2541",
+      "sourceNote": "ibon 售票FAQ：實名制場次可幫朋友搶票，但每個身分證字號同場次只能出現一次；取「朋友說搶到了、卻不知用誰的證件」改寫成條列",
+      "tags": ["實名制", "搶票", "條列", "朋友"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 十二點整，頁面開始轉圈\n— 手機剩 41% 電量\n— 身分證字號我輸入了兩遍\n— 驗證碼問哪幾格有斑馬線\n— 朋友傳來一張成功截圖\n— 那張票登記的是誰的身分證字號？",
+          "editorNote": "適合在實名制搶票戰後，發現自己和朋友的名單對不上時使用",
+          "variations": [
+            "短版：朋友說她搶到了，我只想知道票上寫的是誰的名字。",
+            "延伸版：實名制一個人一張，幫朋友搶完才發現，我們兩個都登記在同一個人名下。"
+          ]
+        },
+        "en": {
+          "content": "— Noon sharp, and the page starts spinning.\n— Phone battery: 41%.\n— I typed my ID number in twice.\n— The captcha asks which squares have a crosswalk.\n— A friend sends a screenshot of a successful order.\n— Whose ID number is that ticket registered under?",
+          "editorNote": "For after a real-name ticket rush, when your list and your friend's list don't match up",
+          "variations": [
+            "Short: My friend says she got one, and all I want to know is whose name is on it.",
+            "Extended: One ID per ticket, so after helping a friend grab hers, we found both were registered under the same person."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-422",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/4005336",
+      "sourceNote": "TVBS 遠大售票攻略：購票後3日內可線上退票、每張收5%手續費、超過就不受理；取「三天算法」的疑惑改寫成純對白",
+      "tags": ["退票", "對白", "手續費", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「退票要收百分之五手續費喔」\n「三天內都可以退嗎？」\n「對，超過三天就不能退了」\n「而且只能整筆訂單一起退」\n「我週一晚上買的，今天週四早上，還算三天內嗎？」",
+          "editorNote": "適合在猶豫要不要退票、又搞不清楚天數怎麼算的時候使用",
+          "variations": [
+            "短版：週一晚上買的票，週四早上還能退嗎？",
+            "延伸版：手續費我認了，我只想確認，購票當天算不算那三天的第一天。"
+          ]
+        },
+        "en": {
+          "content": "\"There's a five percent fee for refunds, you know.\"\n\"And I can refund anytime within three days?\"\n\"Yes. Past three days, we won't process it.\"\n\"And only the whole order, not single tickets.\"\n\"I bought mine Monday night and it's Thursday morning, so does that still count as within three days?\"",
+          "editorNote": "For when you're wavering on a refund and can't work out how the days are counted",
+          "variations": [
+            "Short: Bought on Monday night. Can I still refund on Thursday morning?",
+            "Extended: I'll accept the fee. I just need to know whether the day of purchase counts as one of the three."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-423",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.rollingstone.com/product-recommendations/tickets/how-to-save-on-resale-concert-tickets-buying-guide-1235587202/",
+      "sourceNote": "Rolling Stone 轉售票購買時機分析：開賣前2–4週價格最高、當天最低、動態定價會即時變動；取「反覆截圖價格」的心情改寫",
+      "tags": ["動態定價", "價格", "截圖", "厭世"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同一個區域的座位，週二看是一千八，週四再看變成兩千六。我把價格截圖存了四張，排在相簿裡像一條股價走勢。最後下單的，是第五次刷新看到的數字。所以那個價錢到底算我按下確認的那一秒，還是畫面轉完圈的那一秒？",
+          "editorNote": "適合在動態定價讓票價一天一個樣、讓人反覆截圖比價時使用",
+          "variations": [
+            "短版：票價一天一個樣，我的相簿快變成走勢圖。",
+            "延伸版：按下確認到畫面轉完，中間那幾秒票價跳了一次，我到底付的是哪一個？"
+          ]
+        },
+        "en": {
+          "content": "Same section, and on Tuesday it was $180, but by Thursday it read $260. I saved four screenshots of the price, lined up in my camera roll like a stock chart. What I finally paid was the number from my fifth refresh. So does the price count from the second I pressed confirm, or from the second the spinner stopped?",
+          "editorNote": "For when dynamic pricing changes the ticket price daily and you keep screenshotting to compare",
+          "variations": [
+            "Short: The price changes daily, and my camera roll is turning into a trend line.",
+            "Extended: The price jumped once between pressing confirm and the spinner stopping, so which one did I actually pay?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-424",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://tw.news.yahoo.com/bigbang%E5%8F%B0%E5%8C%97%E6%BC%94%E5%94%B1%E6%9C%83%E4%BA%94%E9%9A%8E%E6%AE%B5%E5%94%AE%E7%A5%A8%E6%87%B6%E4%BA%BA%E5%8C%85%EF%BC%81%E5%AE%98%E6%96%B9%E6%9C%83%E5%93%A1%E7%99%BB%E8%A8%98%E3%80%81%E5%AF%A6%E5%90%8D%E5%88%B6%E9%81%A0%E5%A4%A7%E5%94%AE%E7%A5%A8-%E8%83%BD%E8%B2%B7%E5%B9%BE%E5%BC%B5%E3%80%81%E6%80%8E%E9%BA%BC%E8%B2%B7%EF%BC%9F-074141151.html",
+      "sourceNote": "Yahoo 奇摩 BIGBANG 台北演唱會五階段售票懶人包：9/21 中午12點清票；取「清票那一分鐘」的多裝置佈陣改寫",
+      "tags": ["清票", "多裝置", "搶票", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "清票時間寫的是中午十二點。我十一點五十分就把三個裝置擺上桌，手機、平板、筆電各開一個頁面。十二點零一分，三台同時跳出「目前無可售票券」。剛清出來的那幾張，是十二點整被拿走的，還是十二點零一分？",
+          "editorNote": "適合在清票時段開了一堆裝置、結果全部同時失敗時使用",
+          "variations": [
+            "短版：三個裝置同時失敗，也算一種同步。",
+            "延伸版：清出來的票，在十二點整就被拿走，我的三個頁面十二點零一分才跳出結果。"
+          ]
+        },
+        "en": {
+          "content": "The ticket release was set for twelve noon. At 11:50 I already had three devices on the table, with a phone, a tablet, and a laptop each holding one page. At 12:01, all three flashed \"No tickets available\" at once. Were the few tickets that got released taken at exactly 12:00, or at 12:01?",
+          "editorNote": "For when you opened a pile of devices at release time and they all failed together",
+          "variations": [
+            "Short: Three devices failing at the same time still counts as being in sync.",
+            "Extended: The released tickets were gone at noon sharp, and my three pages only showed the result at 12:01."
+          ]
+        }
+      }
     }
   ]
 }

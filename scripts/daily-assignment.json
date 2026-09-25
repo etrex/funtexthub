@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-21",
-  "min_scene_items": 2,
+  "date": "2026-09-25",
+  "min_scene_items": 0,
   "first_batch": [],
   "ordinal_allowed": [
     "breakup-quotes",
@@ -10,11 +10,7 @@
     "zodiac-quotes"
   ],
   "ordinal_quota_per_topic": 1,
-  "named_terms": {
-    "禮券": "workplace-quotes",
-    "敬師": "witty-comebacks",
-    "家長會": "mom-quotes"
-  },
+  "named_terms": {},
   "institutional_frames": [
     "F13"
   ],
@@ -34,394 +30,149 @@
     "food-jokes",
     "dark-humor"
   ],
-  "timely_topics": [
-    "mom-quotes",
-    "witty-comebacks",
-    "workplace-quotes"
-  ],
+  "timely_topics": [],
   "timely_banned_terms": [
     "中秋",
-    "劍道",
-    "卡丁車",
-    "可頌",
-    "吐司",
-    "吹糖",
-    "國慶",
-    "地球儀",
-    "夏天先走",
-    "太極拳",
-    "家長會",
-    "撞鐘",
     "教師節",
     "敬師",
-    "月餅",
-    "氣象預報",
-    "沒有冷氣聲",
-    "沒有秋天",
-    "溜冰場",
-    "滑翔傘",
-    "烤肉",
-    "煤油燈",
-    "特報",
-    "白吐司",
-    "白露",
-    "碗粿",
     "禮券",
-    "禮金",
-    "秋分",
-    "立秋",
-    "節氣",
-    "羅盤",
-    "處暑",
+    "家長會",
+    "烤肉",
+    "月餅",
+    "好市多",
     "補休",
-    "謝師",
-    "連假",
-    "鋁門窗",
-    "雙十",
-    "顯微鏡",
-    "飛鏢",
-    "鹽可頌",
-    "麻糬"
+    "國慶",
+    "重陽"
   ],
   "topics": {
     "absurd-wisdom": {
-      "frame": "F1",
-      "scene_class": "萬年曆",
-      "scene": "萬年曆",
-      "scene_tokens": [
-        "萬年曆"
-      ]
+      "frame": "F7"
     },
     "adulting-quotes": {
-      "frame": "F10",
-      "scene_class": "水晶球",
-      "scene": "水晶球",
-      "scene_tokens": [
-        "水晶球"
-      ]
+      "frame": "F1"
     },
     "breakup-quotes": {
-      "frame": "F12",
-      "scene_class": "飛盤",
-      "scene": "飛盤",
-      "scene_tokens": [
-        "飛盤"
-      ]
+      "frame": "F3"
     },
     "cat-quotes": {
-      "frame": "F5",
-      "scene_class": "飛盤",
-      "scene": "飛盤",
-      "scene_tokens": [
-        "飛盤"
-      ]
+      "frame": "F5"
     },
     "cdrama-period-quotes": {
-      "frame": "F3",
-      "scene_class": "沙畫",
-      "scene": "沙畫",
-      "scene_tokens": [
-        "沙畫"
-      ]
+      "frame": "F9"
     },
     "cheesy-pickups": {
-      "frame": "F8",
-      "scene_class": "吊床",
-      "scene": "吊床",
-      "scene_tokens": [
-        "吊床"
-      ]
+      "frame": "F12"
     },
     "cold-jokes": {
-      "frame": "F3",
-      "scene_class": "萬年曆",
-      "scene": "萬年曆",
-      "scene_tokens": [
-        "萬年曆"
-      ]
+      "frame": "F9"
     },
     "concert-ticket-quotes": {
-      "frame": "F14",
-      "scene_class": "風車",
-      "scene": "風車",
-      "scene_tokens": [
-        "風車"
-      ]
+      "frame": "F6"
     },
     "couple-jokes": {
-      "frame": "F3",
-      "scene_class": "風車",
-      "scene": "風車",
-      "scene_tokens": [
-        "風車"
-      ]
+      "frame": "F9"
     },
     "dark-humor": {
-      "frame": "F15",
-      "scene_class": "棒球帽",
-      "scene": "棒球帽",
-      "scene_tokens": [
-        "棒球帽"
-      ]
+      "frame": "F15"
     },
     "diet-quotes": {
-      "frame": "F9",
-      "scene_class": "撐竿跳",
-      "scene": "撐竿跳",
-      "scene_tokens": [
-        "撐竿跳"
-      ]
+      "frame": "F14"
     },
     "dog-quotes": {
-      "frame": "F7",
-      "scene_class": "碰碰車",
-      "scene": "碰碰車",
-      "scene_tokens": [
-        "碰碰車"
-      ]
+      "frame": "F11"
     },
     "drama-binge-quotes": {
-      "frame": "F4",
-      "scene_class": "飛盤",
-      "scene": "飛盤",
-      "scene_tokens": [
-        "飛盤"
-      ]
+      "frame": "F4"
     },
     "drama-quotes": {
-      "frame": "F1",
-      "scene_class": "沙畫",
-      "scene": "沙畫",
-      "scene_tokens": [
-        "沙畫"
-      ]
+      "frame": "F7"
     },
     "exam-quotes": {
-      "frame": "F8",
-      "scene_class": "棒球帽",
-      "scene": "棒球帽",
-      "scene_tokens": [
-        "棒球帽"
-      ]
+      "frame": "F12"
     },
     "fathers-day-quotes": {
-      "frame": "F7",
-      "scene_class": "水晶球",
-      "scene": "水晶球",
-      "scene_tokens": [
-        "水晶球"
-      ]
+      "frame": "F11"
     },
     "fitness-quotes": {
-      "frame": "F6",
-      "scene_class": "冰壺",
-      "scene": "冰壺",
-      "scene_tokens": [
-        "冰壺"
-      ]
+      "frame": "F10"
     },
     "food-jokes": {
-      "frame": "F15",
-      "scene_class": "泡泡水",
-      "scene": "泡泡水",
-      "scene_tokens": [
-        "泡泡水"
-      ]
+      "frame": "F15"
     },
     "graduation-quotes": {
-      "frame": "F14",
-      "scene_class": "萬年曆",
-      "scene": "萬年曆",
-      "scene_tokens": [
-        "萬年曆"
-      ]
+      "frame": "F6"
     },
     "healing-quotes": {
-      "frame": "F13",
-      "scene_class": "吊床",
-      "scene": "吊床",
-      "scene_tokens": [
-        "吊床"
-      ]
+      "frame": "F13"
     },
     "holiday-jokes": {
-      "frame": "F8",
-      "scene_class": "撐竿跳",
-      "scene": "撐竿跳",
-      "scene_tokens": [
-        "撐竿跳"
-      ]
+      "frame": "F12"
     },
     "human-design-quotes": {
-      "frame": "F1",
-      "scene_class": "冰壺",
-      "scene": "冰壺",
-      "scene_tokens": [
-        "冰壺"
-      ]
+      "frame": "F7"
     },
     "insomnia-quotes": {
-      "frame": "F7",
-      "scene_class": "泡泡水",
-      "scene": "泡泡水",
-      "scene_tokens": [
-        "泡泡水"
-      ]
+      "frame": "F11"
     },
     "korean-drama-quotes": {
-      "frame": "F4",
-      "scene_class": "風車",
-      "scene": "風車",
-      "scene_tokens": [
-        "風車"
-      ]
+      "frame": "F4"
     },
     "mom-quotes": {
-      "frame": "F2",
-      "scene_class": "教師節・敬師禮金（制度側：老師是領薪水的人）",
-      "scene": "家長會",
-      "scene_tokens": [
-        "家長會"
-      ],
+      "frame": "F8",
       "timely": "teachers-day-gift-voucher"
     },
     "motivational-quotes": {
-      "frame": "F9",
-      "scene_class": "吊床",
-      "scene": "吊床",
-      "scene_tokens": [
-        "吊床"
-      ]
+      "frame": "F14"
     },
     "pet-memorial-quotes": {
-      "frame": "F5",
-      "scene_class": "水晶球",
-      "scene": "水晶球",
-      "scene_tokens": [
-        "水晶球"
-      ]
+      "frame": "F5"
     },
     "programmer-jokes": {
-      "frame": "F4",
-      "scene_class": "撐竿跳",
-      "scene": "撐竿跳",
-      "scene_tokens": [
-        "撐竿跳"
-      ]
+      "frame": "F4"
     },
     "renting-quotes": {
-      "frame": "F11",
-      "scene_class": "冰壺",
-      "scene": "冰壺",
-      "scene_tokens": [
-        "冰壺"
-      ]
+      "frame": "F2"
     },
     "self-love-quotes": {
-      "frame": "F2",
-      "scene_class": "沙畫",
-      "scene": "沙畫",
-      "scene_tokens": [
-        "沙畫"
-      ]
+      "frame": "F8"
     },
     "service-quotes": {
-      "frame": "F11",
-      "scene_class": "擊劍",
-      "scene": "擊劍",
-      "scene_tokens": [
-        "擊劍"
-      ]
+      "frame": "F2"
     },
     "slang-quotes": {
-      "frame": "F10",
-      "scene_class": "碰碰車",
-      "scene": "碰碰車",
-      "scene_tokens": [
-        "碰碰車"
-      ]
+      "frame": "F1"
     },
     "stock-investor-quotes": {
-      "frame": "F11",
-      "scene_class": "碰碰車",
-      "scene": "碰碰車",
-      "scene_tokens": [
-        "碰碰車"
-      ]
+      "frame": "F2"
     },
     "student-quotes": {
-      "frame": "F12",
-      "scene_class": "蠟像",
-      "scene": "蠟像",
-      "scene_tokens": [
-        "蠟像"
-      ]
+      "frame": "F3"
     },
     "summer-electric-quotes": {
-      "frame": "F2",
-      "scene_class": "蠟像",
-      "scene": "蠟像",
-      "scene_tokens": [
-        "蠟像"
-      ]
+      "frame": "F8"
     },
     "sweet-quotes": {
-      "frame": "F13",
-      "scene_class": "蠟像",
-      "scene": "蠟像",
-      "scene_tokens": [
-        "蠟像"
-      ]
+      "frame": "F13"
     },
     "travel-quotes": {
-      "frame": "F9",
-      "scene_class": "泡泡水",
-      "scene": "泡泡水",
-      "scene_tokens": [
-        "泡泡水"
-      ]
+      "frame": "F14"
     },
     "wedding-quotes": {
-      "frame": "F10",
-      "scene_class": "擊劍",
-      "scene": "擊劍",
-      "scene_tokens": [
-        "擊劍"
-      ]
+      "frame": "F1"
     },
     "witty-comebacks": {
-      "frame": "F6",
-      "scene_class": "教師節・敬師禮金（制度側：老師是領薪水的人）",
-      "scene": "敬師",
-      "scene_tokens": [
-        "敬師"
-      ],
+      "frame": "F10",
       "timely": "teachers-day-gift-voucher"
     },
     "workplace-quotes": {
-      "frame": "F6",
-      "scene_class": "教師節・敬師禮金（制度側：老師是領薪水的人）",
-      "scene": "禮券",
-      "scene_tokens": [
-        "禮券"
-      ],
+      "frame": "F10",
       "timely": "teachers-day-gift-voucher"
     },
     "worldcup-quotes": {
-      "frame": "F14",
-      "scene_class": "擊劍",
-      "scene": "擊劍",
-      "scene_tokens": [
-        "擊劍"
-      ]
+      "frame": "F6"
     },
     "zodiac-quotes": {
-      "frame": "F12",
-      "scene_class": "棒球帽",
-      "scene": "棒球帽",
-      "scene_tokens": [
-        "棒球帽"
-      ]
+      "frame": "F3"
     }
   }
 }

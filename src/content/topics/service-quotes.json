@@ -12952,6 +12952,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-467",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://udn.com/news/story/120912/9549698",
+      "sourceNote": "聯合新聞網報導超商結帳時，店員問是否刷載具，客人堅持手機支付已綁定載具，雙方各說各話。取雙方各自的理解並排，改寫成麵店的短對話。",
+      "tags": [
+        "服務業",
+        "對白",
+        "載具",
+        "溝通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「載具要嗎？」\n「不用，我已經綁在手機裡了。」\n「我是問你要不要把發票存進去。」\n「我以為你在問我有沒有帶那個小卡片。」\n「好，那兩種都沒有問題。」",
+          "editorNote": "兩個人都答得很有道理，只是各自回答了不同的題目。給每天要問同一句話幾百次的店員。",
+          "variations": [
+            "短版：店員問要不要載具，客人說綁好了，兩邊都沒講錯，只是沒對上。",
+            "延伸版：同一句話，店員想的是發票，客人想的是那張小卡，兩個答案都成立。"
+          ]
+        },
+        "en": {
+          "content": "\"Want to use a carrier?\"\n\"No, it's already linked in my phone.\"\n\"I meant do you want the receipt saved to it.\"\n\"I thought you were asking if I had that little card.\"\n\"Okay, so we're both fine.\"",
+          "editorNote": "Both people answered correctly, just to different questions. For staff who ask the same line hundreds of times a day.",
+          "variations": [
+            "Short: The clerk asked about the carrier, the customer said it was linked. Neither was wrong, they just didn't line up.",
+            "Longer: One sentence, two pictures. The clerk pictured a receipt, the customer pictured a little card, and both answers held up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-468",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://udn.com/news/story/120912/9549698",
+      "sourceNote": "同一則報導的溝通鬼打牆情境。取「一句店員的話被客人聽成另一個問題」，改寫成加熱便當的條列。",
+      "tags": [
+        "服務業",
+        "條列",
+        "加熱",
+        "誤會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我問：要幫你加熱嗎\n— 他聽成：要幫你加價嗎\n— 我的意思是微波三十秒\n— 他的意思是他只付一份的錢\n— 兩邊都點了頭",
+          "editorNote": "點頭的時候，兩個人想的其實是不同的事。適合貼在員工群組，提醒大家問句要說完整。",
+          "variations": [
+            "短版：我問要不要加熱，他聽成加價，兩邊都點頭。",
+            "延伸版：問的人在講三十秒，答的人在算錢，兩個都很有把握。"
+          ]
+        },
+        "en": {
+          "content": "— I asked: want it heated up?\n— He heard: want it charged up?\n— I meant thirty seconds in the microwave.\n— He meant he was only paying for one meal.\n— We both nodded.",
+          "editorNote": "Everyone nodded, but they were nodding at different things. Handy for a staff group chat as a reminder to finish the question.",
+          "variations": [
+            "Short: I asked about heating, he heard a surcharge, and we both nodded.",
+            "Longer: One of us was talking about thirty seconds, the other was doing math, and both felt sure."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-469",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "東森新聞報導客人被另一位客人誤認為店員、被要求叫主管出來的趣事。改寫成書店裡被認錯的一幕。",
+      "tags": [
+        "服務業",
+        "認錯人",
+        "書店",
+        "幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "穿著深色外套站在書架旁的客人，被另一位客人叫住：「這本書的價格在哪裡？」他翻到背面回答：「四百二十元。」對方道謝，轉身跟朋友說這家店的人真親切。他站在原地，手上其實也拿著自己還沒結帳的書。兩邊各自覺得，這是一次很順利的服務。",
+          "editorNote": "一個人以為自己遇到店員，另一個人以為自己只是幫了忙，兩邊都沒有錯。給常被認錯的店員與顧客。",
+          "variations": [
+            "短版：他被當成店員回答了價格，對方滿意離開，他也沒有多解釋。",
+            "延伸版：被問的人只是路過，發問的人只是需要答案，這場服務其實沒有店員。"
+          ]
+        },
+        "en": {
+          "content": "A customer in a dark jacket by the shelves was stopped by another shopper. \"Where's the price on this one?\" He flipped it over and said, \"Four hundred twenty.\" The shopper thanked him and told a friend how friendly the staff here were. He stayed put, holding a book he hadn't paid for yet. Each side thought it had been a very smooth bit of service.",
+          "editorNote": "One person thought he'd met a clerk, the other thought he'd just helped out, and neither was wrong. For anyone who's been mistaken for staff.",
+          "variations": [
+            "Short: He was taken for a clerk, gave the price, and the other shopper left happy.",
+            "Longer: The one asked was just passing by, the one asking just needed an answer, and no staff member was involved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-470",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://udn.com/news/story/120912/9549698",
+      "sourceNote": "同一則報導提到店員與客人各說各話的溝通斷層。改寫成飲料店「都可以」的雙重意思。",
+      "tags": [
+        "服務業",
+        "飲料店",
+        "都可以",
+        "溝通"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人點單時說了一句「都可以」。店員聽到的是：任何甜度冰塊都行，就出了半糖少冰。客人的意思是：你們最推薦的那一杯。杯子放上桌，兩人都覺得自己被照顧得很好。",
+          "editorNote": "「都可以」有兩個真實版本，哪一種都沒有說錯。給要在半秒內猜出客人意思的店員。",
+          "variations": [
+            "短版：都可以，店員聽成隨你調，客人是要你推薦，杯子端出去兩邊都滿意。",
+            "延伸版：半糖少冰是店員的答案，招牌是客人的答案，一杯飲料同時滿足兩種說法。"
+          ]
+        },
+        "en": {
+          "content": "When the customer ordered, he said, \"Anything's fine.\" The server took that to mean any sweetness and ice level would do, so she made half sugar, less ice. He meant whatever the shop recommends most. The cup landed on the table and both of them felt well looked after.",
+          "editorNote": "\"Anything's fine\" has two real meanings, and neither one is wrong. For staff who have half a second to guess what the customer means.",
+          "variations": [
+            "Short: Anything's fine, she heard freedom to adjust, he meant recommend something, and both left happy.",
+            "Longer: Half sugar, less ice was her answer and the signature drink was his, and one cup satisfied both."
+          ]
+        }
+      }
     }
   ]
 }

@@ -15075,6 +15075,82 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-527",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Anti-humor",
+      "sourceNote": "取材自反笑話（anti-humor）的定義：把該有的笑點抽掉，改用字面而真實的答案；壽險情境為原創",
+      "tags": ["黑色幽默", "反笑話", "保險", "死亡"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：業務員為什麼一直勸你買壽險？\n答：因為你會死。\n受益人填你太太，保費一個月兩千四。",
+          "editorNote": "適合在朋友等你講雙關、你偏偏給了個認真答案的時候。",
+          "variations": ["短版：問：為什麼要買壽險？答：因為你會死。", "延伸版：業務員把死亡時間講得很平常，像在報下個月的帳單日期。"]
+        },
+        "en": {
+          "content": "Q: Why does the agent keep urging you to buy life insurance?\nA: Because you will die.\nList your wife as beneficiary; the premium is $75 a month.",
+          "editorNote": "For when a friend waits for your pun and you hand them a serious answer instead.",
+          "variations": ["Short: Q: Why buy life insurance? A: Because you will die.", "Extended: The agent mentions the end of your life in the tone of a billing date."]
+        }
+      }
+    },
+    {
+      "id": "dh-528",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.rd.com/list/anti-jokes/",
+      "sourceNote": "取材自 Reader's Digest 反笑話清單的「認真回答」手法；醫囑情境為原創",
+      "tags": ["黑色幽默", "反笑話", "醫療", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "醫生說我大概還有三個月。\n朋友問我，為什麼還去上班。\n我說：今天才星期二。",
+          "editorNote": "適合被問「都這樣了還工作」的時候，用最正經的口氣回。",
+          "variations": ["短版：還有三個月，今天星期二，所以要上班。", "延伸版：朋友沒有再問，因為星期二確實是上班日。"]
+        },
+        "en": {
+          "content": "The doctor says I have about three months.\nA friend asked why I still go to work.\nI told him it's only Tuesday.",
+          "editorNote": "For when someone asks why you still work, and you answer in the flattest tone available.",
+          "variations": ["Short: Three months left, and it's Tuesday, so I go to work.", "Extended: The friend stopped asking, since Tuesday is in fact a workday."]
+        }
+      }
+    },
+    {
+      "id": "dh-529",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHumor",
+      "sourceNote": "取材自 TV Tropes 對反幽默的說明：把預期的笑點換成不好笑的正經內容；遺產情境為原創",
+      "tags": ["黑色幽默", "反笑話", "遺產", "法律"],
+      "i18n": {
+        "zh-tw": {
+          "content": "律師問：遺產打算怎麼分？\n我說：照法律分。\n律師說：好，我照法律分。",
+          "editorNote": "適合家族群組正在吵財產、你只想結束話題的時候。",
+          "variations": ["短版：遺產怎麼分？照法律分。好，照法律分。", "延伸版：整段對話裡沒有任何人開玩笑，包括律師。"]
+        },
+        "en": {
+          "content": "The lawyer asked how I wanted the estate divided.\nI said to divide it according to the law.\nHe said okay, and divided it according to the law.",
+          "editorNote": "For when the family chat is fighting over property and you just want the topic closed.",
+          "variations": ["Short: How to split the estate? By law. Okay, by law.", "Extended: Nobody in the conversation was joking, including the lawyer."]
+        }
+      }
+    },
+    {
+      "id": "dh-530",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://punhour.com/anti-jokes/",
+      "sourceNote": "取材自 Pun Hour 反笑話集的「答案就是字面」寫法；墓地情境為原創",
+      "tags": ["黑色幽默", "反笑話", "墓地", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：為什麼墓園大多蓋在山坡上？\n答：山坡的地比較便宜。\n平地留給蓋房子。",
+          "editorNote": "適合有人期待冷知識、你直接給價格答案的時候。",
+          "variations": ["短版：墓園在山坡，因為地價便宜。", "延伸版：平地拿去蓋房子，這是市場的安排。"]
+        },
+        "en": {
+          "content": "Q: Why are most cemeteries built on hillsides?\nA: The land is cheaper on a slope.\nLevel ground is kept for houses.",
+          "editorNote": "For when someone expects a fun fact and you give them the price of land.",
+          "variations": ["Short: Cemeteries sit on hillsides because the land costs less.", "Extended: Level ground goes to housing, which is how the market arranged it."]
+        }
+      }
     }
   ]
 }

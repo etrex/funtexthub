@@ -14282,6 +14282,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-506",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://npower.heho.com.tw/archives/273068",
+      "sourceNote": "參考停滯期與飲食紀錄的說明，改寫成一週天氣加一個動作的流水帳",
+      "tags": ["減肥", "天氣", "一週", "停滯期", "日記"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週一，大太陽，水壺灌了兩次\n— 週二，起霧，沙拉吃到只剩梗\n— 週三，下雨，外送軟體開了又關\n— 週四，颳風，走路多繞了一站\n— 週五，放晴，在體重計上站了兩次",
+          "editorNote": "想用極簡方式記錄一週減肥進度、或發限時動態時可以直接貼",
+          "variations": [
+            "短版：大太陽灌兩次水壺，下雨開關三次外送軟體。",
+            "延伸版：週五放晴，我在體重計上站了兩次，第二次還把口袋裡的鑰匙掏出來放在地上。"
+          ]
+        },
+        "en": {
+          "content": "— Monday, blazing sun, refilled the water bottle twice.\n— Tuesday, fog, ate the salad down to the stems.\n— Wednesday, rain, opened and closed the delivery app.\n— Thursday, wind, walked one extra stop.\n— Friday, clear sky, stepped on the scale twice.",
+          "editorNote": "For logging a week of dieting in the leanest way possible, or posting it as a story",
+          "variations": [
+            "Short: Sun, two bottle refills. Rain, the delivery app opened and closed three times.",
+            "Extended: Friday cleared up. I stepped on the scale twice, and the second time I took the keys out of my pocket and set them on the floor."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-507",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/90813",
+      "sourceNote": "參考減脂期蛋白質攝取量的說明，改寫成雨天裡量雞胸肉的動作特寫",
+      "tags": ["減肥", "天氣", "蛋白質", "雞胸肉", "雨天"],
+      "i18n": {
+        "zh-tw": {
+          "content": "雨從早上下到傍晚，窗玻璃上的水痕一條接著一條。我把雞胸肉放上料理秤，拿掉一片，再放回去半片，指針停在一百二十克。",
+          "editorNote": "適合配一張秤雞胸肉的照片，或形容認真備餐的一天",
+          "variations": [
+            "短版：雨一直下，秤上的雞胸肉拿掉一片又放回半片。",
+            "延伸版：雨下了一整天，我把雞胸肉切了又秤、秤了又切，最後停在一百二十克，才蓋上保鮮盒。"
+          ]
+        },
+        "en": {
+          "content": "Rain ran from morning to dusk, one streak after another down the window. I set the chicken breast on the scale, took off a slice, put half of it back, and the needle stopped at 120 grams.",
+          "editorNote": "Pairs well with a photo of weighed chicken, or to describe a serious meal-prep day",
+          "variations": [
+            "Short: Rain all day, one slice off the chicken, half a slice back on the scale.",
+            "Extended: It rained all day. I cut and weighed the chicken over and over until it hit 120 grams, then finally snapped the lid on."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-508",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://drglowbeauty.com.tw/news/article/weight-loss-plateau",
+      "sourceNote": "參考體重卡關的說明，改寫成起霧早晨站上體重計的動作",
+      "tags": ["減肥", "天氣", "霧", "體重計", "早晨"],
+      "i18n": {
+        "zh-tw": {
+          "content": "霧很濃，對面大樓只剩一半。體重計放在門邊，我脫掉拖鞋、又把手機放到鞋櫃上，才慢慢踩上去。數字跳了兩下就不動了，我盯著看了一分鐘，然後下來、再上去。",
+          "editorNote": "可以形容連續幾天體重沒變、卻還是每天照三餐量的心情",
+          "variations": [
+            "短版：霧很濃，脫了拖鞋放下手機才踩上體重計，下來再上去。",
+            "延伸版：起霧的早晨，數字跳兩下就停住，我盯了一分鐘，下來、換個腳位、再踩上去。"
+          ]
+        },
+        "en": {
+          "content": "Thick fog, the building across the street cut in half. The scale sat by the door; I kicked off my slippers, put my phone on the shoe rack, and stepped on slowly. The number flickered twice and froze, I stared at it for a minute, then got off and got back on.",
+          "editorNote": "For those mornings when the number hasn't budged in days but you still weigh in like clockwork",
+          "variations": [
+            "Short: Heavy fog. Slippers off, phone down, onto the scale, off, and back on.",
+            "Extended: On a foggy morning the number flickered twice and stopped. I stared for a minute, got off, shifted my feet, and stepped up again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-509",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/90813",
+      "sourceNote": "參考運動搭配飲食控制的建議，改寫成大風天繞操場走圈的動作",
+      "tags": ["減肥", "天氣", "風", "散步", "操場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "風大到帽子得壓著走，樹葉在操場的跑道上滾成一排。我繞了七圈，每走完一圈就把一顆花生米從左口袋移到右口袋。回家前，右口袋裡剩四顆，左口袋是空的。",
+          "editorNote": "想描述靠走路抵銷一頓飯、又偷偷計數的小動作時使用",
+          "variations": [
+            "短版：大風天繞操場，走完一圈就把一顆花生米換到右口袋。",
+            "延伸版：風把樹葉吹成一排，我一圈換一顆花生米，走完時左口袋空了、右口袋還剩四顆。"
+          ]
+        },
+        "en": {
+          "content": "The wind was strong enough that I walked with a hand pinning my hat, leaves rolling in a line across the track. I did seven laps, and after each one I moved a peanut from my left pocket to my right. By the time I headed home, four were still in the right pocket and the left was empty.",
+          "editorNote": "For describing a walk meant to cancel out a meal, complete with a secretly kept count",
+          "variations": [
+            "Short: Windy day at the track, one peanut moved to the right pocket per lap.",
+            "Extended: The wind lined the leaves up along the track; I moved one peanut per lap, and finished with the left pocket empty and four in the right."
+          ]
+        }
+      }
     }
   ]
 }

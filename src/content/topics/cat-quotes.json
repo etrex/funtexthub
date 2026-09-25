@@ -15174,6 +15174,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "ct-514",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.nature.com/articles/s41598-020-73426-0",
+      "sourceNote": "Sussex study in Scientific Reports: cats slow-blink back at owners and approach experimenters who slow-blinked at them",
+      "tags": ["貓咪", "慢眨眼", "研究", "溝通"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 對著貓慢慢眨一次眼\n— 等三秒，牠多半也眨回來\n— 換陌生人眨，牠一樣肯走近\n— 蘇賽克斯大學做過實驗\n— 主人這邊完全不用花錢",
+          "editorNote": "研究發現人對貓慢眨眼，貓更常回眨，也更願意走向那個人。適合貼給剛養貓、還不知道怎麼打招呼的朋友。",
+          "variations": [
+            "短版：對貓慢眨一次眼，牠多半會眨回來，連陌生人也有效。",
+            "延伸版：實驗裡，貓被主人慢眨之後更常回眨，遇到陌生實驗者慢眨，也比較願意靠過去。打招呼這件事，貓其實只要你把眼睛閉慢一點。"
+          ]
+        },
+        "en": {
+          "content": "— Blink at the cat, slowly, once.\n— Wait three seconds and it often blinks back.\n— Try it as a stranger and it still walks over.\n— A University of Sussex experiment tested this.\n— The owner's side costs nothing at all.",
+          "editorNote": "A study found cats blink back more after a slow blink and approach the person who did it. Good to send a friend who just got a cat.",
+          "variations": [
+            "Short version: Slow-blink at a cat once and it usually blinks back, even for strangers.",
+            "Extended version: In the experiments, cats returned an owner's slow blink more often, and walked toward unfamiliar experimenters who slow-blinked at them. All the greeting takes is closing your eyes a little slower."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-515",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.catster.com/cat-behavior/reasons-your-cat-kneads-and-purrs/",
+      "sourceNote": "Vet-reviewed explainer: kneading is instinct from nursing, paired with purring signals relaxation, paw scent glands leave scent",
+      "tags": ["貓咪", "踩踏", "呼嚕", "毯子"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 踩毯子的時候喉嚨咕嚕響\n— 前掌一下一下往下壓\n— 眼睛半瞇，尾巴垂著\n— 肉墊裡的腺體順便留下氣味\n— 小時候踩媽媽是為了擠奶\n— 現在毯子接了媽媽的班",
+          "editorNote": "獸醫說踩踏是吃奶時期留下的本能，配上呼嚕代表放鬆，肉墊還會留下氣味標記。可以當貓咪踩你的時候的旁白。",
+          "variations": [
+            "短版：貓踩毯子又呼嚕，是把小時候吃奶的動作搬到現在用。",
+            "延伸版：小貓踩媽媽是為了讓奶流出來，長大後把同樣的動作用在軟軟的東西上，一邊踩一邊呼嚕，肉墊還悄悄蓋上自己的氣味。"
+          ]
+        },
+        "en": {
+          "content": "— Purr low in the throat while treading the blanket.\n— Press the front paws down, one at a time.\n— Half-close the eyes and let the tail hang.\n— Leave a little scent from the paw pads.\n— As a kitten, tread on Mom to get the milk going.\n— Now the blanket has taken over Mom's shift.",
+          "editorNote": "Vets describe kneading as a nursing-era instinct; paired with purring it signals relaxation, and paw glands leave scent. A ready-made voiceover for when a cat kneads you.",
+          "variations": [
+            "Short version: A cat kneading a blanket and purring is reusing its nursing moves.",
+            "Extended version: Kittens tread on Mom to get the milk flowing, and grown cats carry that move over to anything soft. They purr while they do it, and the paw pads quietly stamp on a little scent."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-516",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.petmd.com/cat/behavior/why-do-cats-sleep-so-much",
+      "sourceNote": "PetMD: cats sleep 12-16 hours a day, older cats up to 18-20; loaf position keeps them relaxed but alert",
+      "tags": ["貓咪", "睡眠", "麵包貓", "作息"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 一天睡十二到十六個小時\n— 老貓可以睡到十八到二十個小時\n— 醒著的時候也常縮成麵包\n— 前爪收進肚子底下\n— 耳朵還是朝著門口\n— 有動靜，一秒就能起身",
+          "editorNote": "獸醫資料說貓睡很久，而麵包坐姿是放鬆但沒完全關機的狀態。適合跟朋友解釋你家貓為什麼看起來在放空卻反應很快。",
+          "variations": [
+            "短版：貓一天睡十二到十六小時，縮成麵包的時候其實還醒著一半。",
+            "延伸版：前爪收在身體底下，看起來像一條吐司，其實耳朵沒有下班，門口一有聲音，牠比你更快站起來。"
+          ]
+        },
+        "en": {
+          "content": "— Sleep twelve to sixteen hours a day.\n— Older cats stretch that to eighteen or twenty.\n— Even when awake, fold up into a loaf.\n— Tuck the front paws under the belly.\n— Keep the ears aimed at the door.\n— At the first noise, be up in a second.",
+          "editorNote": "Vet sources say cats sleep a lot, and the loaf pose is relaxed but not fully off. Good for explaining why your spacey-looking cat reacts so fast.",
+          "variations": [
+            "Short version: Cats sleep twelve to sixteen hours a day, and a loaf means they're still half awake.",
+            "Extended version: Paws tucked under, it looks like a slice of toast, but the ears never clocked out. One noise at the door and the cat is up before you are."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-517",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7761381/",
+      "sourceNote": "Study: slow blink eye closure in shelter cats is related to quicker adoption",
+      "tags": ["貓咪", "收容所", "領養", "眨眼"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 收容所的貓看見訪客\n— 有的會慢慢閉上眼睛\n— 研究記錄了這個表情\n— 眨得多的貓，領養得比較快\n— 籠子裡的牠們沒有別的自我介紹",
+          "editorNote": "一篇收容所研究把貓的慢眨眼和更快被領養連在一起。適合用在領養宣傳，提醒大家逛收容所時多看貓的眼睛。",
+          "variations": [
+            "短版：收容所裡慢眨眼的貓，比較快找到家。",
+            "延伸版：籠子裡的貓沒辦法遞名片，只有眼神能用。研究發現，會對訪客慢眨眼的貓，等到領養的時間比較短。"
+          ]
+        },
+        "en": {
+          "content": "— A shelter cat spots a visitor.\n— Some close their eyes, slowly.\n— Researchers logged that expression.\n— Cats that did it more got adopted faster.\n— Inside a cage, it's the only introduction they have.",
+          "editorNote": "A shelter study linked cats' slow blinks to quicker adoption. Useful for adoption posts, nudging visitors to look at the cats' eyes.",
+          "variations": [
+            "Short version: Shelter cats that slow-blink at visitors tend to find homes sooner.",
+            "Extended version: A caged cat can't hand over a business card, so the eyes do the talking. The study found cats that slow-blinked at visitors waited less time to be adopted."
+          ]
+        }
+      }
     }
   ]
 }

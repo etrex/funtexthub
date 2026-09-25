@@ -1,4 +1,8 @@
-# FunTextHub 每日生成簡報 — 2026-09-21
+> 🔴 **2026-09-25 覆寫條款（優先於下文）**：今日**沒有 scene／場景詞指派、沒有時效指派、沒有序數例外**。忽略第六節第 2 條與第九節「時效指派」。
+> 教師節／敬師／禮券／家長會／中秋／烤肉／月餅／好市多／補休／國慶／重陽／秋天入秋 全批禁用。場景自選，但**避開凍結場景詞與排除清單**，並避免 9/21 用過的語域（風車／撐竿跳／碰碰車／泡泡水／冰壺／擊劍／飛盤／沙畫／吊床／萬年曆／棒球帽／水晶球／蠟像）。
+> 每檔 3–5 則（目標 4）。frame 以 `daily-assignment.json` 為準。
+
+# FunTextHub 每日生成簡報 — 2026-09-25
 
 每個 agent 只負責 **一個 topic 檔**，寫 **4 則**新內容（全批 42 檔＝168 則）。
 你的 frame／scene 指派在 `scripts/daily-assignment.json`，用你的 slug 查。
@@ -22,7 +26,7 @@
 
 ```bash
 cd /Users/etrexkuo/Documents/github/funtexthub
-python3 scripts/check_new_items.py --topic <你的slug> --date 2026-09-21
+python3 scripts/check_new_items.py --topic <你的slug> --date 2026-09-25
 ```
 
 **exit 0 才算完成。FAIL 就改、再跑，直到 PASS。**
@@ -55,7 +59,7 @@ WARN 不擋過，但句數 WARN 請盡量修掉。
 
 1. **≥3 個非空行**
 2. **行首帶「— 」項目符號**（破折號＋空格），**或**多數行在 **18 個中文字**以內
-3. ⚠️ **中文行不要收句號**（2026-09-21 多個 agent 實測更正）：`form_mix.py` 中文**基本判準**仍要求 ≥50% 行尾不是 。！？…，
+3. ⚠️ **中文行不要收句號**（2026-09-25 多個 agent 實測更正）：`form_mix.py` 中文**基本判準**仍要求 ≥50% 行尾不是 。！？…，
    「— 」項目符號只在 report-only 的 `+ bullet-aware` 讀數被算成 list；
    且 `check_new_items.py` 的句數檢查只把**帶「— 」、≥4 行**的條列當清單（3 行條列、無符號短行條列會被當散文報句數 WARN）。
    ⇒ 最穩寫法：**≥4 行、行首「— 」、中文行 ≤18 字且不收句號**，英文照收句點。
@@ -66,8 +70,8 @@ WARN 不擋過，但句數 WARN 請盡量修掉。
 自己看一眼（帶項目符號者看 `+ bullet-aware` 那行）：
 
 ```bash
-python3 scripts/form_mix.py --date 2026-09-21
-python3 scripts/form_mix.py --date 2026-09-21 --lang en
+python3 scripts/form_mix.py --date 2026-09-25
+python3 scripts/form_mix.py --date 2026-09-25 --lang en
 ```
 
 ### 例外與注意
@@ -253,7 +257,7 @@ python3 scripts/form_mix.py --date 2026-09-21 --lang en
 - 🔴 **同一檔四則不得共用任何 5 字片段**（第五節，`check_batch.py` 會擋）
 - 🔴 **`editorNote` 四則不得雷同**：四則的 `editorNote` 不得逐字重複，也不要套同一個模板
 - `id` 沿用該檔既有前綴，接續最大號碼
-- `dateAdded`: `2026-09-21`
+- `dateAdded`: `2026-09-25`
 - 🔴 **`sourceUrl` 必填，且不得是捏造的自我引用**（會 FAIL）：
   - **不得**包含 `funtexthub`（缺漏是誠實的空白，捏造更糟）
   - **不得**用 `.internal`／`.local`／`.test`／`localhost` 任何一種主機
@@ -291,7 +295,7 @@ python3 scripts/form_mix.py --date 2026-09-21 --lang en
 ## 十、🔴 只加不改（orchestrator 會驗）
 
 你**只能在 `items` 陣列尾端 append 4 則新項目**。
-- **不得**修改、改寫、刪除任何 `dateAdded` 早於 2026-09-21 的既有項目
+- **不得**修改、改寫、刪除任何 `dateAdded` 早於 2026-09-25 的既有項目
 - **不得**調整既有項目的順序
 - 遇到「開頭 5 字與舊項目撞車」時，改**你自己的新項目**，不要去動舊的
 - 用 **Edit** 工具接在陣列尾端，**不要**用 Write 重寫整檔（會破壞既有格式）
@@ -310,5 +314,5 @@ python3 scripts/form_mix.py --date 2026-09-21 --lang en
 4. 照指派的 frame + scene 寫 4 則，**至少 2 種讀者可見形式**、**中英逐行對齊**、
    **中文的變化英文也要有**、**四則句型互不相同**
 5. 用 **Edit** 工具把新項目接到 `items` 陣列尾端
-6. 跑 `check_new_items.py` 到 **PASS**（再跑一次 `form_mix.py --date 2026-09-21` 看你這行）
+6. 跑 `check_new_items.py` 到 **PASS**（再跑一次 `form_mix.py --date 2026-09-25` 看你這行）
 7. 回報：slug、新增的 id、frame、scene 落在幾則、四則各是什麼形式、checker 結果

@@ -14691,6 +14691,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-544",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.goodreads.com/quotes/10156374-every-storm-runs-out-of-rain",
+      "sourceNote": "Maya Angelou「Every storm runs out of rain」。原創角度：不談風暴，只寫一個人在雨天一小時一小時的動作，用換鞋與掛外套代替時間流逝。",
+      "tags": ["勵志", "堅持", "天氣", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 早上七點，雨還在下\n— 他把傘放回門口，又拿起來\n— 十點，雨小了，他換了雙乾鞋\n— 中午，濕外套掛上椅背，他打開那份報告\n— 下午三點，雨停了，他沒抬頭",
+          "editorNote": "適合貼給卡在長期計畫中段的人：雨勢會變，人只要每個整點還做一件小事就好。",
+          "variations": [
+            "短版：雨小了，他換了雙乾鞋。",
+            "延伸版：下午三點，雨停的時候，報告已經寫到第五頁。"
+          ]
+        },
+        "en": {
+          "content": "— Seven a.m., and it is still raining.\n— He puts the umbrella back by the door, then picks it up again.\n— At ten the rain thins, and he changes into dry shoes.\n— At noon the wet coat goes over the chair, and he opens the report.\n— At three the rain stops, and he does not look up.",
+          "editorNote": "Good for someone stuck in the middle of a long project: the weather changes, and all you owe it is one small task each hour.",
+          "variations": [
+            "Short version: The rain thinned, and he changed into dry shoes.",
+            "Extended: By three, when the rain stopped, the report was on page five."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-545",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.inc.com/bill-murphy-jr/365-inspiring-poignant-and-just-plain-great-quotes-for-2026/91283130",
+      "sourceNote": "Inc. 2026 年度語錄整理中關於持續前進的段落。原創角度：颱風假當天的工作桌面，只寫風與螢幕。",
+      "tags": ["勵志", "堅持", "天氣", "工作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風假的早上，風把整排機車吹得歪向同一邊。他還是開了電腦，把昨天卡住的那一段從頭跑一遍。窗外的招牌晃了一整個上午，中午雨停，畫面上跳出一行綠字。",
+          "editorNote": "給遇到外在停擺、內在還想繼續的人：全世界放假的那天，一個人默默跑完自己的程式。",
+          "variations": [
+            "短版：風停的時候，綠字剛好跳出來。",
+            "延伸版：他把終端機視窗留在螢幕上，關燈之前又看了一眼。"
+          ]
+        },
+        "en": {
+          "content": "On the typhoon morning, the wind pushes a whole row of scooters over to one side. He still turns on the laptop and reruns yesterday's stuck part from the top. The signboard outside swings until noon, and when the rain stops, a line of green text appears on the screen.",
+          "editorNote": "For anyone who keeps working while everything around them has stopped: the day the world is off, one person quietly runs their own code.",
+          "variations": [
+            "Short version: The wind died down just as the green text came up.",
+            "Extended: He left the terminal window open and glanced at it once more before turning off the light."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-546",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.shutterfly.com/ideas/encouraging-quotes-to-motivate-you/",
+      "sourceNote": "Shutterfly 鼓勵語錄整理中「新的一天帶來新的力量」一類。原創角度：起霧的早晨每個路口都停一停，到公司才翻開企劃書。",
+      "tags": ["勵志", "新開始", "天氣", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "起霧的早晨，她騎得很慢，每個路口都停下來看兩次。到了公司，安全帽上全是水珠，她用袖子抹掉，把企劃書翻開第一頁。桌上的咖啡還冒著煙。",
+          "editorNote": "適合寫給剛換跑道的人：看不清路的時候，每個路口多看一次，並不會比較晚到。",
+          "variations": [
+            "短版：她每個路口都看兩次，還是準時到了。",
+            "延伸版：霧散的時候，她已經坐在會議桌前。"
+          ]
+        },
+        "en": {
+          "content": "On the foggy morning she rides slowly, stopping to look twice at every intersection. At the office, her helmet is covered in droplets, so she wipes them off with her sleeve and turns to page one of the proposal. The coffee on the desk is still steaming.",
+          "editorNote": "For someone who just changed careers: when you cannot see the road, looking twice at each corner does not make you late.",
+          "variations": [
+            "Short version: She looked twice at every corner and still arrived on time.",
+            "Extended: By the time the fog lifted, she was already seated at the meeting table."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-547",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.keepinspiring.me/perseverance-quotes/",
+      "sourceNote": "Keep Inspiring Me 堅持語錄整理。原創角度：連下九天雨，半濕的襪子與吹風機，帶著它去面試。",
+      "tags": ["勵志", "堅持", "天氣", "面試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "連下了九天雨，晾衣架上的襪子還是半濕的。第十天要穿的那雙，他拿到吹風機前面吹了五分鐘。然後他拎著那雙微溫的襪子出了門，去面試。",
+          "editorNote": "給還在投履歷的人：雨天再長，襪子也總有一雙可以吹乾。",
+          "variations": [
+            "短版：第十天，他穿著吹乾的襪子出門。",
+            "延伸版：面試回來的路上，他把傘收起來夾在腋下。"
+          ]
+        },
+        "en": {
+          "content": "It has rained for nine days, and the socks on the drying rack are still half wet. He holds tomorrow's pair in front of the hair dryer for five minutes. Then he heads out the door, still warm at the toes, to his interview.",
+          "editorNote": "For anyone still sending out résumés: no matter how long the rain, there is always one pair of socks you can dry.",
+          "variations": [
+            "Short version: On day ten, he left in socks he had dried himself.",
+            "Extended: On the way back from the interview, he folded the umbrella and tucked it under his arm."
+          ]
+        }
+      }
     }
   ]
 }

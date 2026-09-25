@@ -15276,6 +15276,82 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-580",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為提款機查詢餘額情境",
+      "tags": ["廢話文學", "金錢", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "提款機的螢幕上有個「查詢餘額」，你按了下去。畫面告訴你，你的餘額就是你帳戶裡剩下的錢。你盯著那串數字看了三秒，它沒有因為你的注視變多，你也沒有因此變少。你把卡抽出來，數字就退回只有銀行知道的地方，而你帶走的是一張收據，上面寫著你剛剛已經看過的東西。",
+          "editorNote": "聊到查帳、月底看餘額心情複雜時可以用",
+          "variations": ["短版：你查了餘額，餘額回答你，你剩下的錢就是剩下的那些錢。"]
+        },
+        "en": {
+          "content": "The ATM screen has a button that says \"Check Balance,\" and you press it. The screen tells you your balance is whatever money is left in your account. You stare at the number for three seconds; it doesn't grow because you're watching, and you don't shrink because of it either. You pull the card out, the number retreats to wherever only the bank can see it, and what you take with you is a receipt of something you just finished looking at.",
+          "editorNote": "For talking about checking your account, or the mixed feelings of seeing the balance at month's end",
+          "variations": ["Short version: You check your balance, the balance answers, and what you have left is exactly what's left."]
+        }
+      }
+    },
+    {
+      "id": "aw-581",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://sites.google.com/go.edu.tw/jie1113/%E9%A6%96%E9%A0%81/%E5%BB%A2%E8%A9%B1%E8%AA%9E%E9%8C%841",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為宅在家一天的清單情境",
+      "tags": ["廢話文學", "生活", "宅"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你今天的行程很單純\n— 你開冰箱，看一眼，關上\n— 三分鐘後再開，東西沒變\n— 你滑手機滑到底，發現底就是頂\n— 你倒水倒到杯子滿，因為再倒就溢出來",
+          "editorNote": "形容假日什麼都沒做、又好像做了很多事時可以用",
+          "variations": ["延伸版：你的一天什麼都沒少，因為你什麼都沒做，所以沒有東西可以少。"]
+        },
+        "en": {
+          "content": "Your schedule today is simple.\n— You open the fridge, look, and close it.\n— Three minutes later you open it again, and nothing has changed.\n— You scroll your phone to the bottom and find the bottom is the top.\n— You pour water until the glass is full, because any more would spill.",
+          "editorNote": "For describing a day off where you did nothing, yet somehow did a lot",
+          "variations": ["Extended: Nothing went missing from your day, since you did nothing that could go missing."]
+        }
+      }
+    },
+    {
+      "id": "aw-582",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為影片跳過廣告倒數情境",
+      "tags": ["廢話文學", "影音", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "影片右下角出現倒數，五、四、三、二、一，你一秒一秒看著它。\n倒數結束，那個按鈕真的變成「跳過廣告」，你也真的按了下去。\n影片開始播了，你才發現自己剛剛花了五秒鐘，等的是一個讓你不用再等的東西。",
+          "editorNote": "吐槽串流平台廣告、或聊等待本身的荒謬時可以用",
+          "variations": ["短版：你等了五秒才能跳過廣告，跳過的那一刻，你已經看完廣告的一半了。"]
+        },
+        "en": {
+          "content": "A countdown shows up in the corner of the video: five, four, three, two, one, and you watch each second go by.\nWhen it ends, the button really does say \"Skip Ad,\" and you really do press it.\nThe video starts, and that's when you notice you just spent five seconds waiting for something that lets you stop waiting.",
+          "editorNote": "For griping about streaming ads, or the absurdity of waiting itself",
+          "variations": ["Short version: You waited five seconds to skip the ad, and by the time you skipped, half of it was already watched."]
+        }
+      }
+    },
+    {
+      "id": "aw-583",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://sites.google.com/go.edu.tw/jie1113/%E9%A6%96%E9%A0%81/%E5%BB%A2%E8%A9%B1%E8%AA%9E%E9%8C%841",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為鬧鐘貪睡情境",
+      "tags": ["廢話文學", "睡眠", "早晨"],
+      "i18n": {
+        "zh-tw": {
+          "content": "早上七點，鬧鐘響了，你伸手按掉，按的是「貪睡」。\n七點零九分，它又響了，你又按了一次，這次按得比較有經驗。\n你躺在被窩裡算了一下，再按兩次就是七點二十七分，也就是說，你正在用鬧鐘的方式，把起床這件事往後推，而它每次都準時來敲你。",
+          "editorNote": "聊起床困難、賴床、或設一堆鬧鐘的人可以用",
+          "variations": ["短版：你設了七個鬧鐘，是要叫醒自己，還是要有足夠的機會不起來。"]
+        },
+        "en": {
+          "content": "At 7 a.m. the alarm goes off, you reach out, and what you press is \"Snooze.\"\nAt 7:09 it rings again, and you press it again, with a little more experience this time.\nUnder the covers you do the math: two more presses and it'll be 7:27, which means you're using an alarm to push getting up later, and it shows up on time every time to tell you so.",
+          "editorNote": "For anyone who struggles to get up, sleeps in, or sets a pile of alarms",
+          "variations": ["Short version: You set seven alarms, and it's unclear whether that's to wake up or to have enough chances not to."]
+        }
+      }
     }
 
   ]

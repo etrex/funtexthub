@@ -14730,6 +14730,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "cj-573",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.travishale.com/dad-jokes-maths-numbers/",
+      "sourceNote": "參考數字類爸爸笑話的擬人梗，改寫成零走進銀行的對答",
+      "tags": ["數字", "諧音", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一個零走進銀行，行員問：「請問要辦什麼？」\n零說：「我想開戶，可是我身上什麼都沒有。」\n行員點點頭：「沒關係，只要你站到別人後面，馬上就值錢了。」",
+          "editorNote": "適合聊薪水、理財或數學課的輕鬆開場",
+          "variations": [
+            "短版：零沒有半毛錢，站到別人後面就身價十倍。",
+            "延伸版：行員接著說，站到前面的話，你就只是個圈圈。"
+          ]
+        },
+        "en": {
+          "content": "A zero walked into a bank and the teller asked, \"How can I help you?\"\nThe zero said, \"I'd like to open an account, but I have nothing on me.\"\nThe teller nodded. \"No problem. Just stand behind someone else and you'll be worth ten times more.\"",
+          "editorNote": "Good for chatting about pay, savings, or as a light math-class opener",
+          "variations": [
+            "Short version: Zero has no money, but behind another number it's worth ten times more.",
+            "Extended version: The teller adds that in front of a number, you're just a circle."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-574",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://early.app/blog/time-jokes/",
+      "sourceNote": "參考時間類雙關笑話的『重視』諧音概念，改寫成兩人量體重的對話",
+      "tags": ["健康", "諧音", "對話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「我今天量了三次體重。」\n「有變輕嗎？」\n「沒有，三次都一樣，只是我對它的『重』視程度提高了。」",
+          "editorNote": "適合減重話題、朋友互相調侃時使用",
+          "variations": [
+            "短版：體重沒變，只是更被重視了。",
+            "延伸版：朋友說那下次量之前先把口袋掏空，看重視程度會不會下降。"
+          ]
+        },
+        "en": {
+          "content": "\"I weighed myself three times today.\"\n\"Did you lose anything?\"\n\"Nope. Same number each time. I just take it a lot more seriously now.\"",
+          "editorNote": "For diet talk or friendly teasing",
+          "variations": [
+            "Short version: The weight stayed put, but the respect for it grew.",
+            "Extended version: The friend suggests emptying pockets first to see if the respect drops."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-575",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://pun.me/puns/time/",
+      "sourceNote": "參考時鐘與時間類雙關，改寫成數字輪流面試的條列梗",
+      "tags": ["數字", "職場", "面試"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 四個數字來面試，一號說：我永遠第一名\n— 二號說：我隨時可以湊成一對\n— 三號說：我很穩，站著就是三角形\n— 零號說：我沒有經驗，但少了我全都不對",
+          "editorNote": "適合面試話題或辦公室午休閒聊",
+          "variations": [
+            "短版：零號沒經驗，但面試官說沒有你，一百也只是一。",
+            "延伸版：九號遲到，理由是他一直被人說『久』等。"
+          ]
+        },
+        "en": {
+          "content": "— Four numbers came to interview, and One said: I'm always first.\n— Two said: I can pair up anytime.\n— Three said: I'm stable, since I stand as a triangle.\n— Zero said: I have no experience, but nothing works without me.",
+          "editorNote": "For job-interview chatter or office lunch banter",
+          "variations": [
+            "Short version: Zero has no experience, but without it a hundred is just a one.",
+            "Extended version: Nine showed up late, saying everybody kept telling it to wait a while."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cj-576",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://punsbucket.com/time-puns/",
+      "sourceNote": "參考時鐘雙關笑話，改寫成時針分針婚姻諮商的對答",
+      "tags": ["時間", "夫妻", "雙關"],
+      "i18n": {
+        "zh-tw": {
+          "content": "兩根指針去看婚姻諮商，諮商師問他們怎麼了。\n時針嘆氣：「他老是在後面催我。」\n分針攤手：「我每小時都會跟他碰頭一次，是他自己走得太慢。」",
+          "editorNote": "適合聊時間管理、伴侶步調不一致的場合",
+          "variations": [
+            "短版：分針每小時見時針一次，還嫌他走太慢。",
+            "延伸版：秒針在候客室說，你們至少還能見面，我連停下來的時間都沒有。"
+          ]
+        },
+        "en": {
+          "content": "Two clock hands went to marriage counseling, and the counselor asked what was wrong.\nThe hour hand sighed, \"He's always rushing me from behind.\"\nThe minute hand shrugged, \"I meet up with him once every hour. He's just too slow.\"",
+          "editorNote": "For talking about time management or couples who move at different paces",
+          "variations": [
+            "Short version: The minute hand meets the hour hand every hour and still calls him slow.",
+            "Extended version: The second hand in the waiting room says at least you two get to meet, I never even get to stop."
+          ]
+        }
+      }
     }
   ]
 }

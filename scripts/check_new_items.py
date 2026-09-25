@@ -203,7 +203,7 @@ def main():
     # assigned scene landed? (ADDED mid-run 2026-08-26: the checker verified the
     # named words but never the per-topic scene, so an agent could PASS while
     # silently dropping its scene -- caught by a subagent, not by us.)
-    if spec:
+    if spec and (spec.get('scene_tokens') or spec.get('scene')):
         toks = spec.get('scene_tokens') or [spec['scene']]
         got = sum(1 for it in new
                   if any(t in it['i18n']['zh-tw'].get('content', '') for t in toks))

@@ -8949,6 +8949,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-303",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.lib.ntu.edu.tw/node/4351",
+      "sourceNote": "臺大圖書館期中考期間自習室座位管制公告；改寫成期中考前一週劃重點的動作特寫",
+      "tags": ["期中考", "讀書", "校園生活", "觀察"],
+      "i18n": {
+        "zh-tw": {
+          "content": "螢光筆在課本上劃過一行，停住，又劃回去，把同一行再蓋一次黃色。翻頁，整頁劃了八行，回頭數一下，只有兩行沒被劃到。她蓋上筆蓋，又打開，把那兩行也劃了。",
+          "editorNote": "期中考前一週，課本黃成一片的人，可以直接轉給隔壁座位那位。",
+          "variations": [
+            "短版：整頁劃了八行黃色，只剩兩行沒被劃到，最後連那兩行也劃了。",
+            "延伸版：荧光筆換到粉色那支，把黃色蓋過的地方再蓋一輪，頁面最後變成橘色。"
+          ]
+        },
+        "en": {
+          "content": "The highlighter ran across one line, stopped, and went back over the same line to cover it in yellow again. She turned the page and marked eight lines, then counted back and found only two untouched. She capped the pen, uncapped it, and marked those two as well.",
+          "editorNote": "For the week before midterms — forward this to whoever at the next desk has turned an entire textbook yellow.",
+          "variations": [
+            "Short version: Eight lines highlighted on one page, two left untouched, and in the end those two got the yellow too.",
+            "Longer version: She switched to the pink highlighter and went over the yellow again, and the page finally turned orange."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-304",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.myplus.com.tw/article-20190214/24/1",
+      "sourceNote": "分組報告分工討論文章；改寫成深夜調整簡報頁序的動作特寫",
+      "tags": ["分組報告", "熬夜", "校園生活", "觀察"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨一點十二分，滑鼠把第七頁拖到第三頁後面，放開，又拖回第七頁。游標在標題框停了四秒，刪掉「總結」兩個字，再重新打上「總結」。存檔，關掉視窗，又點開來確認有沒有存進去。",
+          "editorNote": "分組報告前夜，負責整理簡報的那個人，多半就是這樣把時間花掉的。",
+          "variations": [
+            "短版：凌晨一點把第七頁拖到第三頁後面又拖回來，標題刪掉又打回同樣兩個字。",
+            "延伸版：存檔三次、另存新檔兩次，檔名從「最終版」變成「最終版改」再變成「真的最終」。"
+          ]
+        },
+        "en": {
+          "content": "At 1:12 a.m., the mouse dragged slide seven behind slide three, let go, then dragged it back to seven. The cursor hovered over the title box for four seconds, deleted the word \"Conclusion,\" and typed \"Conclusion\" again. Save, close the window, reopen it to check whether it saved.",
+          "editorNote": "The night before a group presentation, this is usually where the deck-assembler's hours go.",
+          "variations": [
+            "Short version: At 1 a.m., slide seven went behind slide three and right back again, and the same title got deleted and retyped.",
+            "Longer version: Three saves, two save-as copies, and the filename went from \"final\" to \"final-edited\" to \"really-final.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-305",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.lib.ntnu.edu.tw/about/intro_07_03.jsp",
+      "sourceNote": "師大圖書館考試期間延長開放時間資訊；改寫成閉館前收拾筆袋的動作特寫",
+      "tags": ["期中考", "圖書館", "校園生活", "觀察"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 筆袋拉鍊拉到底\n— 三支筆倒出來，蓋子一支一支對上\n— 拉鍊拉回一半，停三秒\n— 把橡皮擦塞進最裡面的夾層\n— 筆袋放進包包，又拿出來，放回桌上",
+          "editorNote": "閉館廣播響起前十分鐘，還在收拾又捨不得離開座位的人，收下這份清單。",
+          "variations": [
+            "短版：筆袋拉開又拉上，橡皮擦塞了進去，收拾了一整輪，人還坐在原位。",
+            "延伸版：廣播響第二次的時候，筆袋終於進了包包，人卻蹲下去綁了一次已經綁好的鞋帶。"
+          ]
+        },
+        "en": {
+          "content": "— The pencil case zipper goes all the way open.\n— Three pens come out, and their caps get matched one by one.\n— The zipper slides halfway back, then stops for three seconds.\n— The eraser gets pushed into the innermost pocket.\n— The case goes into the bag, comes out again, and returns to the desk.",
+          "editorNote": "For the last ten minutes before the library's closing announcement, when someone keeps packing up without leaving the seat.",
+          "variations": [
+            "Short version: The case zipped open and shut, the eraser tucked away, a full round of packing, and the person still in the same seat.",
+            "Longer version: By the second announcement the case finally made it into the bag, but then the person crouched to retie a shoelace that was already tied."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-306",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.lib.ntnu.edu.tw/service/facility_03.jsp",
+      "sourceNote": "師大圖書館團討室預約說明；改寫成翻課本貼索引標籤的動作特寫",
+      "tags": ["讀書", "課本", "校園生活", "觀察"],
+      "i18n": {
+        "zh-tw": {
+          "content": "課本側邊貼了十四張索引標籤，粉色的在左，藍色的在右。指尖從最上面那張滑到最底下，一張一張彈過去，像在數琴鍵。翻到藍色第五張，停下，撕掉，再貼回去，這次歪了兩公分。",
+          "editorNote": "把課本貼成彩虹書脊卻沒翻開幾頁的人，看完會默默把標籤撕一張下來。",
+          "variations": [
+            "短版：十四張標籤，粉的在左藍的在右，撕掉一張又貼回去，歪了兩公分。",
+            "延伸版：考前最後一晚，標籤多貼了六張，課本邊緣厚了一截，裡面的重點還是同一頁。"
+          ]
+        },
+        "en": {
+          "content": "Fourteen index tabs ran down the side of the textbook, pink on the left and blue on the right. A fingertip slid from the top one to the bottom, flicking each in turn like counting piano keys. At the fifth blue tab it stopped, peeled it off, and stuck it back on two centimeters crooked.",
+          "editorNote": "For anyone whose textbook has a rainbow spine but few pages actually turned — you may peel one tab off after reading this.",
+          "variations": [
+            "Short version: Fourteen tabs, pink on the left and blue on the right, one peeled off and stuck back two centimeters crooked.",
+            "Longer version: On the last night before the exam, six more tabs went on, the book's edge grew thicker, and the important part was still the same page."
+          ]
+        }
+      }
     }
   ]
 }

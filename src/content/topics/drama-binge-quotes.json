@@ -11486,6 +11486,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-410",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.businessweekly.com.tw/international/blog/3012759",
+      "sourceNote": "參考商周文章提到約兩成觀眾會把影集最後一集留著不看，原創改寫成兩人對話",
+      "tags": ["最後一集", "捨不得", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「那部劇你不是說週末要看完？」\n「最後一集我還留著。」\n「留了三個禮拜了欸。」\n「看完它就真的完結了啊。」\n「不看它也不會多演一集吧。」\n「至少現在它還在我的清單裡，等著我。」\n「那你的清單有沒有問過你，想不想被等？」\n「……我今晚就看，先看前十分鐘。」",
+          "editorNote": "適合傳給那個把最後一集留了好幾週、捨不得看完的朋友。",
+          "variations": [
+            "短版：最後一集留了三個禮拜，因為看完它就真的完結了。",
+            "延伸版：清單問我想不想被等，我說今晚先看前十分鐘。"
+          ]
+        },
+        "en": {
+          "content": "\"Didn't you say you'd finish that show this weekend?\"\n\"I'm still saving the last episode.\"\n\"You've been saving it for three weeks.\"\n\"Once I watch it, it's really over.\"\n\"It won't sneak in an extra episode if you wait.\"\n\"Right now it's still on my list, waiting for me.\"\n\"Has your list ever asked whether it wants to be waited on?\"\n\"...Fine. Tonight. Just the first ten minutes.\"",
+          "editorNote": "For the friend who has parked a finale for weeks because they can't bear to end the show.",
+          "variations": [
+            "Short: I've kept the finale untouched for three weeks, because watching it makes it truly over.",
+            "Extended: My watchlist asked if it wanted to be waited on. I said I'd try ten minutes tonight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-411",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://style.udn.com/style/story/121034/9721256",
+      "sourceNote": "參考 udnSTYLE 九月新劇清單一口氣上線十幾部，原創改寫成兩人對話",
+      "tags": ["新劇", "試看", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「九月有十幾部新劇欸，你先追哪部？」\n「我先各看一集，再決定。」\n「那不就十幾集了。」\n「十幾集也才一個晚上。」\n「你明天不是要開會？」\n「所以我只看到第三部。」\n「你昨天也說只看到第三部。」\n「今天的第三部跟昨天的不一樣。」",
+          "editorNote": "適合在新劇一口氣開播的月份，傳給那個每部都要先試一集的朋友。",
+          "variations": [
+            "短版：十幾部新劇各看一集，才一個晚上而已。",
+            "延伸版：我說只看到第三部，只是今天的第三部跟昨天的不同。"
+          ]
+        },
+        "en": {
+          "content": "\"There are a dozen new shows this month. Which one are you starting with?\"\n\"I'll try one episode of each, then decide.\"\n\"That's a dozen episodes.\"\n\"A dozen episodes is one evening.\"\n\"Don't you have a meeting tomorrow?\"\n\"That's why I'm stopping at the third show.\"\n\"You said the third show yesterday too.\"\n\"Today's third show is a different one.\"",
+          "editorNote": "For a month when a dozen premieres land at once and your friend must sample every one.",
+          "variations": [
+            "Short: One episode each of a dozen new shows is only one evening.",
+            "Extended: I said I'd stop at the third show, but today's third show isn't yesterday's."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-412",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.bnext.com.tw/article/57099/streaming-media",
+      "sourceNote": "參考數位時代談串流平台自動播放下一集讓人停不下來，原創改寫成凌晨對話",
+      "tags": ["再一集", "熬夜", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「四點十二了欸。」\n「再一集就睡。」\n「這句你從一點講到現在。」\n「這集片尾真的沒有下集預告。」\n「你看的是第九集，總共十二集。」\n「數學你倒是很好。」\n「那你幫我把明早的鬧鐘往後調一小時。」\n「你自己調。」",
+          "editorNote": "適合凌晨傳給那個嘴上說最後一集、手卻按了自動播放的人。",
+          "variations": [
+            "短版：再一集就睡，這句話從一點講到四點十二。",
+            "延伸版：他問我能不能幫忙把鬧鐘往後調一小時，我叫他自己調。"
+          ]
+        },
+        "en": {
+          "content": "\"It's twelve past four.\"\n\"One more episode and I'll sleep.\"\n\"You've been saying that since one.\"\n\"This one really has no next-episode preview.\"\n\"You're on episode nine out of twelve.\"\n\"You're pretty good at math, huh.\"\n\"Then push my alarm back an hour for me.\"\n\"Do it yourself.\"",
+          "editorNote": "For sending at dawn to someone who swears it's the last episode while autoplay is already counting down.",
+          "variations": [
+            "Short: One more episode, said from one o'clock all the way to twelve past four.",
+            "Extended: He asked me to push his alarm back an hour. I told him to do it himself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-413",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://technews.tw/2020/04/04/the-psychology-of-binge-watching/",
+      "sourceNote": "參考科技新報談追劇心理，原創改寫成怕被劇透的兩人對話",
+      "tags": ["劇透", "追劇進度", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「欸你看到第幾集了？」\n「第六集，先別講後面。」\n「我什麼都沒要講。」\n「你上次也這樣說，然後嘆了一句好可惜。」\n「可惜的事情很多，不一定是他啊。」\n「所以是他？」\n「我沒說。」\n「你的臉說了。」",
+          "editorNote": "適合傳給看過全劇、卻管不住表情的朋友，提醒他們別劇透。",
+          "variations": [
+            "短版：我才看到第六集，你的表情已經替後面劇透了。",
+            "延伸版：他說什麼都沒要講，可是那一聲嘆氣已經講完了。"
+          ]
+        },
+        "en": {
+          "content": "\"Hey, which episode are you on?\"\n\"Six. Don't say anything about what's next.\"\n\"I wasn't going to say a word.\"\n\"You said that last time, then sighed 'what a shame.'\"\n\"Plenty of things are a shame. It doesn't have to be him.\"\n\"So it's him?\"\n\"I didn't say that.\"\n\"Your face did.\"",
+          "editorNote": "For the friend who has seen the whole series but can't keep a straight face around spoilers.",
+          "variations": [
+            "Short: I'm only on episode six, and your face has already spoiled the rest.",
+            "Extended: He swore he wouldn't say anything, but that one sigh said it all."
+          ]
+        }
+      }
     }
   ]
 }

@@ -11434,6 +11434,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-389",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://house.chinatimes.com/20260417002282-264401",
+      "sourceNote": "中時新聞網：冷氣濾網3周就要洗省電10%，台電提醒別用力刷、別曬太陽",
+      "tags": ["濾網", "冷氣", "省電", "物件視角"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被抽出來的這一次，距離上一次是十一週\n— 灰塵厚得能捲成一條\n— 水開得很大，沖了我兩面\n— 邊角還滴著水就被立在窗邊\n— 傍晚才被塞回原位，角有點翹",
+          "editorNote": "適合在清洗冷氣濾網的日子，換個角度看那個被忽略整個夏天的零件。",
+          "variations": [
+            "短版：濾網十一週沒被抽出來，被沖了兩面，還在窗邊曬到傍晚。",
+            "延伸版：灰塵厚得能捲成一條，被塞回去的時候，邊角有點翹。"
+          ]
+        },
+        "en": {
+          "content": "This is the first time I've been pulled out in eleven weeks.\n— The dust is thick enough to roll into a strand.\n— The water runs hard, over both sides of me.\n— Still dripping at the edges, I'm propped by the window.\n— Only by evening am I slid back in, one corner slightly curled.",
+          "editorNote": "For filter-cleaning day: a look at the part that got ignored all summer.",
+          "variations": [
+            "Short: eleven weeks without being pulled out, then rinsed on both sides and left in the window until evening.",
+            "Extended: the dust could be rolled into a strand, and when I'm slid back in, one corner has curled."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-390",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.storm.mg/lifestyle/11054948",
+      "sourceNote": "風傳媒風生活：循環扇不是搭配冷氣就省電，台電曝正確擺放位置",
+      "tags": ["循環扇", "冷氣", "擺放", "物件視角"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我的位置從沙發前移到了冷氣出風口下方，仰角大約四十五度。這是主人看完一則新聞後做的決定，被轉過去之前，我正對著他的腳趾吹了一整個七月。現在我吹的是天花板，他坐在風吹不到的地方，還是把手舉到我前面確認了兩次。",
+          "editorNote": "適合剛調整完電風扇位置、還不太相信有用的時候。",
+          "variations": [
+            "短版：循環扇被轉去吹天花板，主人把手舉到前面確認了兩次。",
+            "延伸版：整個七月都對著腳趾吹，現在改吹天花板，仰角四十五度。"
+          ]
+        },
+        "en": {
+          "content": "My spot moved from in front of the couch to under the air conditioner's vent, tilted up about forty-five degrees. My owner decided this after reading one news story, and before I was turned I had blown at his toes for the whole of July. Now I blow at the ceiling, he sits where my air doesn't reach, and he still holds a hand up in front of me twice to check.",
+          "editorNote": "For right after you've repositioned the fan and don't quite believe it helps.",
+          "variations": [
+            "Short: the fan got turned to blow at the ceiling, and he held a hand up twice to check.",
+            "Extended: all of July aimed at his toes, now aimed at the ceiling at forty-five degrees."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-391",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://magazine.twenergy.org.tw/Cont.aspx?CatID=&ContID=2319",
+      "sourceNote": "能源報導：第一次就看懂電費帳單，兩個月一期、本期指數減上期指數",
+      "tags": ["電表", "讀表", "用電度數", "物件視角"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我掛在門外的牆上，每轉一圈，就有人在別的地方記下一筆。這兩個月我的數字跳得比去年同期快，快到抄表的人多看了我一眼。他用手電筒照我的時候，我照常繼續轉。",
+          "editorNote": "適合在電費單寄來前，想像那個默默記帳的東西。",
+          "variations": [
+            "短版：電表的數字比去年快，抄表的人多看了一眼，它照常繼續轉。",
+            "延伸版：每轉一圈就有人在別的地方記一筆，手電筒照過來也不停。"
+          ]
+        },
+        "en": {
+          "content": "I hang on the wall outside the door, and every time I turn once, someone somewhere else writes down a line. These two months my numbers jumped faster than last year's, fast enough that the meter reader gave me a second glance. When his flashlight lands on me, I go on turning as usual.",
+          "editorNote": "For the days before the bill arrives, picturing the thing quietly keeping the books.",
+          "variations": [
+            "Short: the meter's numbers ran faster than last year's, the reader looked twice, and it kept turning.",
+            "Extended: every turn is a line written down elsewhere, and the flashlight doesn't make it stop."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-392",
+      "dateAdded": "2026-09-25",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260706003904-260405",
+      "sourceNote": "中時新聞網：冷氣26度要不要搭電扇？台電教一招放對位置更省電",
+      "tags": ["遙控器", "26度", "半夜", "物件視角"],
+      "i18n": {
+        "zh-tw": {
+          "content": "這一週我被拿起來的次數\n— 凌晨一點，被按了二十六度\n— 兩點十分，被按了二十七度\n— 三點，被握在手裡，沒有按\n— 天亮前，被塞進枕頭底下",
+          "editorNote": "適合半夜睡不著、一直在調冷氣溫度的人，想想遙控器的一週。",
+          "variations": [
+            "短版：遙控器這週被按了二十六度、二十七度，最後被塞進枕頭底下。",
+            "延伸版：凌晨三點被握在手裡，什麼都沒按，就這樣握到天亮前。"
+          ]
+        },
+        "en": {
+          "content": "The times I was picked up this week:\n— One a.m., pressed to 26 degrees.\n— Ten past two, pressed to 27 degrees.\n— Three o'clock, held in a hand, not pressed.\n— Before daylight, pushed under a pillow.",
+          "editorNote": "For anyone awake at night fiddling with the AC temperature: the remote's week.",
+          "variations": [
+            "Short: this week the remote was pressed to 26, then 27, then pushed under a pillow.",
+            "Extended: at three a.m. it was held and not pressed, and it stayed held until just before daylight."
+          ]
+        }
+      }
     }
   ]
 }
