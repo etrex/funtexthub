@@ -10061,6 +10061,82 @@
           "variations": ["Short: Battery dead by four, so you wash your hands three times just to be alone.", "Longer: Coat still on, already flat on the floor, which is what an undefined Sacral looks like on a weekday."]
         }
       }
+    },
+    {
+      "id": "hd-343",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://humandesignsystem.co/en/manifestor-strategy-wait-and-inform/",
+      "sourceNote": "Manifestor strategy: inform before acting; informing is courtesy not permission. F8 object narrator, prose.",
+      "tags": ["人類圖", "顯示者", "告知", "職場"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被貼在螢幕右下角，上面的字是昨晚寫的：「明天我要把整組流程重排。」今天早上他經過三個人的座位，每到一個就停下來，講同一句話，然後撕下我的一角折起來放進口袋。到了中午我只剩下一半，而他桌面上的東西比昨天少了很多。",
+          "editorNote": "適合傳給總是先做再說、結果被抱怨沒打招呼的顯示者。",
+          "variations": ["短版：便利貼被撕掉一半，他把話講完了才動手。", "延伸版：他在三個座位前各停一下，這就是告知，不是請示。"]
+        },
+        "en": {
+          "content": "I am stuck to the lower right corner of a monitor, and the words on me were written last night: \"Tomorrow I'm rearranging the whole workflow.\" This morning he stopped at three desks, said the same sentence at each, then tore off one corner of me and folded it into his pocket. By noon I was half a note, and his desk had far less on it than yesterday.",
+          "editorNote": "For the Manifestor who acts first and then hears complaints about no warning.",
+          "variations": ["Short: Half a sticky note gone, and he said it aloud before he moved anything.", "Longer: One pause at each of three desks is what informing looks like, and none of it was asking."]
+        }
+      }
+    },
+    {
+      "id": "hd-344",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://humandesignhd.com/pages/manifesting-generator-human-design",
+      "sourceNote": "Manifesting Generators: multi-passionate, skip steps, frustration and anger not-self themes. F8 object narrator, bulleted list.",
+      "tags": ["人類圖", "顯示生產者", "多工", "興趣"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我最前面寫著「學吉他」，後面接著「學剪片」\n— 中間有一頁字跡歪了，他是邊走邊寫的\n— 再翻過去只有一個箭頭，指回最前面\n— 他每次把我合上，都說「等一下再回來」\n— 我被這樣合上過十一次",
+          "editorNote": "給每個計畫都開了頭、卻被說沒定性的人。",
+          "variations": ["短版：筆記本被合上十一次，每次都有下一句。", "延伸版：那個箭頭指回最前面，他自己其實也知道。"]
+        },
+        "en": {
+          "content": "— At the front of me it says \"learn guitar,\" followed by \"learn video editing.\"\n— One page in the middle has crooked handwriting because he wrote it while walking.\n— Turn further and there is only an arrow pointing back to the front.\n— Every time he shuts me he says, \"Back in a minute.\"\n— I have been shut like that eleven times.",
+          "editorNote": "For anyone who starts every project and gets told they lack focus.",
+          "variations": ["Short: Closed eleven times, and every time there was a next sentence.", "Longer: The arrow points back to the front, and he knows it too."]
+        }
+      }
+    },
+    {
+      "id": "hd-345",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://humandesignsystem.co/en/projector-strategy-wait-for-the-invitation/",
+      "sourceNote": "Projector strategy: wait for the invitation; recognition comes when asked. F8 object narrator, prose.",
+      "tags": ["人類圖", "投射者", "邀請", "開會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我是會議室靠門邊的那張椅子，她每次都坐我，身體前傾，嘴巴張開兩次又閉上。上週主管終於轉過頭問她怎麼看，她講了七分鐘，沒有低頭看過筆記。散會後我被推回桌邊，椅墊還是溫的。",
+          "editorNote": "適合等了很久才被問到意見的投射者，看完會懂那七分鐘從哪來。",
+          "variations": ["短版：椅子看她張嘴兩次又閉上，第三次是別人開口問。", "延伸版：她講了七分鐘沒看筆記，因為那些話早就準備好了。"]
+        },
+        "en": {
+          "content": "I am the chair nearest the door in the meeting room, and she picks me every time, leaning forward, mouth opening twice and closing again. Last week her manager finally turned and asked what she thought, and she talked for seven minutes without glancing at her notes. After everyone left I was pushed back to the table, and my seat was still warm.",
+          "editorNote": "For the Projector who waited a long time to be asked, and now sees where those seven minutes came from.",
+          "variations": ["Short: The chair watched her open her mouth twice and close it, then someone asked.", "Longer: Seven minutes without notes, because every word had been ready for weeks."]
+        }
+      }
+    },
+    {
+      "id": "hd-346",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://freehumandesignchart.com/human-design-not-self-theme/",
+      "sourceNote": "Reflector samples environment over a lunar cycle before deciding; not-self theme disappointment. F8 object narrator, prose.",
+      "tags": ["人類圖", "反映者", "月亮週期", "記號"],
+      "i18n": {
+        "zh-tw": {
+          "content": "我是掛在門後的那本月曆。她每天晚上在我身上畫一個記號，有時是圈，有時是叉，有時只有一條橫線。二十八天過去，她把我從釘子上取下來，攤在地板上蹲著看了很久，最後在角落寫了兩個字：先放著。",
+          "editorNote": "適合被逼著馬上做決定的反映者，給自己一整輪日子的參考。",
+          "variations": ["短版：月曆上圈、叉、橫線各半，角落寫著先放著。", "延伸版：她蹲在地板上看了很久，決定還沒出來，記號已經夠多了。"]
+        },
+        "en": {
+          "content": "I am the calendar hanging behind her door. Every night she marks me with something, sometimes a circle, sometimes a cross, sometimes only a flat line. After twenty-eight days she lifts me off the nail, spreads me on the floor, crouches over me for a long while, and writes two words in the corner: hold off.",
+          "editorNote": "For the Reflector being pushed to decide right now, a reminder that a whole cycle of days counts as data.",
+          "variations": ["Short: Circles, crosses and flat lines in equal parts, and \"hold off\" in the corner.", "Longer: She crouched on the floor a long time, with no decision yet but plenty of marks."]
+        }
+      }
     }
   ]
 }

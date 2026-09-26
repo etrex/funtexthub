@@ -8594,6 +8594,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "cpq-428",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/entertainment/851858",
+      "sourceNote": "宮鬥劇金句與深宮自保心境討論參考，內容為原創改寫",
+      "tags": ["宮廷", "賞賜", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "皇后賞了我一匹素綢，說一句「顏色襯你」。旁邊的姐姐聽成要我去守孝，殿裡的老宮女聽成誇我膚色白。我把綢子摺好放進箱底，兩種說法都留著。",
+          "editorNote": "適合形容收到一句話模稜兩可、旁人各有解讀時，先收下不表態的心情。",
+          "variations": [
+            "短版：一匹素綢，兩種聽法，我都收進箱底。",
+            "延伸版：皇后一句話，姐姐聽出喪，老宮女聽出誇。綢子沒有說話，我也沒有。"
+          ]
+        },
+        "en": {
+          "content": "The empress gave me a bolt of plain silk and said the color suited me. The girl beside me heard an order to go into mourning, and the old palace maid heard a compliment on my fair skin. I folded the silk into the bottom of my trunk and kept both readings.",
+          "editorNote": "Good for when an ambiguous remark gets read two ways and you simply accept it without taking a side.",
+          "variations": [
+            "Short version: One bolt of plain silk, two ways to hear it, both folded into my trunk.",
+            "Long version: The empress said one sentence. My sister-in-service heard mourning, the old maid heard praise. The silk said nothing, and neither did I."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cpq-429",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/entertainment/851858",
+      "sourceNote": "宮鬥劇金句與深宮自保心境討論參考，內容為原創改寫",
+      "tags": ["宮廷", "對白", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「主子說，這茶涼了。」\n「涼了就換啊。」\n「換一盞，還是換一個端茶的人？」\n「她沒講，你先端熱的去。」\n「那我兩樣都備著。」",
+          "editorNote": "適合貼在上司一句話可以有兩種辦法時，做事的人只好兩頭準備的場合。",
+          "variations": [
+            "短版：茶涼了，換茶還是換人，她沒講。",
+            "延伸版：一句「涼了」，端茶的人備了兩盞熱茶和一顆平靜的心。"
+          ]
+        },
+        "en": {
+          "content": "\"My lady says the tea has gone cold.\"\n\"Then bring fresh.\"\n\"A fresh cup, or a fresh person to carry it?\"\n\"She didn't say. Take the hot one first.\"\n\"Then I'll have both ready.\"",
+          "editorNote": "Fits moments when a boss's one line allows two remedies and the person doing the work prepares for both.",
+          "variations": [
+            "Short version: The tea went cold. Replace the tea or the server? She didn't say.",
+            "Long version: One word, cold, and the server readied two hot cups and a calm face."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cpq-430",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/entertainment/851858",
+      "sourceNote": "宮鬥劇金句與深宮自保心境討論參考，內容為原創改寫",
+      "tags": ["總管", "差事", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "總管公公丟下一句「明日不必來了」，我謝了恩。同屋的姑娘當我被撤了差事，門房的小太監當我要調去別處。我把明天穿的鞋擦了兩遍，天亮先往哪頭走，還沒定。",
+          "editorNote": "適合形容被通知一句沒頭沒尾的話，各方都替你解讀好了，只有你自己還在原地的時刻。",
+          "variations": [
+            "短版：一句不必來了，兩種下場，鞋先擦好。",
+            "延伸版：別人已經替我安排好去處，我只確定鞋是乾淨的。"
+          ]
+        },
+        "en": {
+          "content": "The chief eunuch tossed off \"no need to come tomorrow,\" and I thanked him. The girl in my room took it as dismissal, and the young gatekeeper took it as a transfer. I polished tomorrow's shoes twice and still hadn't picked which way to walk at dawn.",
+          "editorNote": "For being handed a fragment of a sentence that everyone else has already interpreted, while you stay where you are.",
+          "variations": [
+            "Short version: No need to come tomorrow, two possible fates, shoes shined first.",
+            "Long version: Everyone had already assigned me a destination. All I knew for sure was that my shoes were clean."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cpq-431",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.popdaily.com.tw/forum/entertainment/851858",
+      "sourceNote": "宮鬥劇金句與深宮自保心境討論參考，內容為原創改寫",
+      "tags": ["太醫", "藥爐", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "太醫說娘娘的病「拖不得」。殿外的人聽成快不行了，殿內的人聽成該早點用藥。藥爐的火我添了三回，沒有人來問我聽成哪一種。",
+          "editorNote": "適合形容大家忙著解讀一句話，而做實事的人只管手上的活。",
+          "variations": [
+            "短版：拖不得三個字，兩頭各聽各的，我只管添火。",
+            "延伸版：殿外殿內各有判斷，藥爐前的人不需要判斷，只需要火。"
+          ]
+        },
+        "en": {
+          "content": "The physician said the empress's illness \"could not be delayed.\" Those outside the hall heard that she was dying, and those inside heard that medicine should start early. I fed the medicine stove three times, and nobody asked which one I had heard.",
+          "editorNote": "For when everyone is busy interpreting one sentence and the person doing the real work just tends the task in front of them.",
+          "variations": [
+            "Short version: Three words, two audiences, and I just kept the fire going.",
+            "Long version: Inside and outside the hall, everyone had a verdict. The one at the stove needed no verdict, only fire."
+          ]
+        }
+      }
     }
   ]
 }

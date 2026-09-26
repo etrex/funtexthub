@@ -14110,6 +14110,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dogq-494",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.freshpet.com/blog/funny-pet-behaviors-explained",
+      "sourceNote": "Freshpet article on funny pet behaviors (suitcase makes dogs worry); reworked into an original packing-day list",
+      "tags": ["狗狗", "幽默", "日常", "旅行"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 行李箱一拖出來，牠先坐進去\n— 我摺一件衣服，牠叼走一隻襪子\n— 我拉上拉鍊，牠躺在拉鍊旁邊\n— 我去廁所，牠把玩具塞進箱底\n— 我提著箱子出門，牠站在門口不動",
+          "editorNote": "把整理行李寫成一串動作，每一行都是牠在不同階段的小抗議，沒有一句講心情。適合出遠門前發的照片配文。",
+          "variations": [
+            "短版：我收行李，牠往箱子裡塞玩具。",
+            "延伸版：箱子還沒關，牠已經把最愛的那隻襪子放進去了。"
+          ]
+        },
+        "en": {
+          "content": "— The suitcase comes out and he climbs in first.\n— I fold one shirt and he walks off with one sock.\n— I zip the bag and he lies down beside the zipper.\n— I step into the bathroom and he tucks a toy under the clothes.\n— I carry the case out and he plants himself at the door.",
+          "editorNote": "Packing is told as a chain of actions, each line a small protest from a different stage, with no feeling named. Good as a caption for a pre-trip photo.",
+          "variations": [
+            "Short version: I pack, he slips toys into the case.",
+            "Longer version: The case is still open, and his favorite sock is already inside."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-495",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Frenetic_random_activity_periods",
+      "sourceNote": "Wikipedia on frenetic random activity periods (zoomies); reworked into an original list of zoomies stats",
+      "tags": ["狗狗", "幽默", "日常", "活力"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 繞沙發三圈\n— 撞倒一張小凳子\n— 踩過我的腳背兩次\n— 衝進臥室又衝出來\n— 最後停在原地，喘得像剛開完會",
+          "editorNote": "用短短幾行把暴衝的十秒鐘記成帳，最後一行才收成人類的樣子。適合貼在晚上牠突然發瘋的影片下面。",
+          "variations": [
+            "短版：牠繞了三圈，然後累得像加完班。",
+            "延伸版：十秒鐘暴衝，換來我腳背兩個腳印。"
+          ]
+        },
+        "en": {
+          "content": "— Three laps around the sofa.\n— One small stool knocked flat.\n— Both of my feet stepped on, twice.\n— Into the bedroom and back out again.\n— Then he stops mid-floor, panting like he just left a meeting.",
+          "editorNote": "Ten seconds of zoomies logged in a few short lines, with the last one turning human. Fits under a video of the nightly sprint.",
+          "variations": [
+            "Short version: Three laps, then he looks like he worked overtime.",
+            "Longer version: Ten seconds of chaos left two paw prints on my foot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-496",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.cascadekennels.com/funny-quirks-only-dog-owners-understand/",
+      "sourceNote": "Cascade Kennels piece on quirks dog owners understand (shadowing, sock obsession); reworked into a same-verb parallel list",
+      "tags": ["狗狗", "日常", "陪伴", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我起身，牠也起身\n— 我倒水，牠也走到水壺旁\n— 我換衣服，牠也守在衣櫃前\n— 我關燈，牠也等在門縫\n— 我坐下，牠也把下巴放在我鞋子上",
+          "editorNote": "全部用同一個動詞起頭的平行句，牠永遠慢半拍出現在同一個位置。適合寫給總是跟前跟後的狗。",
+          "variations": [
+            "短版：我走到哪，牠的下巴就落在哪。",
+            "延伸版：我今天坐下的地方，牠早就把下巴準備好了。"
+          ]
+        },
+        "en": {
+          "content": "— I stand up, and he stands up.\n— I pour water, and he walks over to the kettle.\n— I change clothes, and he guards the closet.\n— I switch off a light, and he waits at the crack of the door.\n— I sit down, and he rests his chin on my shoe.",
+          "editorNote": "Every line opens on the same verb pattern, and he arrives one beat late in the same spot each time. For a dog that follows you everywhere.",
+          "variations": [
+            "Short version: Wherever I land, his chin lands too.",
+            "Longer version: Wherever I sat today, his chin was already waiting."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-497",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.animalsaroundtheglobe.com/14-funniest-dog-behaviors-explained-by-science-7-345874/",
+      "sourceNote": "Animals Around The Globe article on funny dog behaviors explained by science; reworked into an original sock-hoard list",
+      "tags": ["狗狗", "幽默", "日常", "居家"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 床底下：襪子四隻，只有一雙配對\n— 沙發縫：襪子一隻，還是溫的\n— 牠的窩：襪子三隻，蓋在最上面\n— 我的鞋子裡：襪子一隻，被塞到腳尖\n— 我的抽屜：找不到任何襪子",
+          "editorNote": "以地點加數量的短行寫出牠的收藏，最後一行落在我這邊的空缺。適合週末整理房間時發。",
+          "variations": [
+            "短版：牠的窩裡有三隻襪子，我的抽屜是零。",
+            "延伸版：我的襪子在牠那裡，牠的窩比我的抽屜還整齊。"
+          ]
+        },
+        "en": {
+          "content": "— Under the bed: four socks, one matched pair.\n— In the couch crack: one sock, still warm.\n— In his bed: three socks, stacked on top.\n— Inside my shoe: one sock, pushed to the toe.\n— In my drawer: no socks found.",
+          "editorNote": "The hoard is listed as place plus count, and the last line lands on the gap on my side. Suits a weekend cleaning post.",
+          "variations": [
+            "Short version: Three socks in his bed, zero in my drawer.",
+            "Longer version: My socks live with him, and his bed is tidier than my drawer."
+          ]
+        }
+      }
     }
   ]
 }

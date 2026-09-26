@@ -12690,6 +12690,82 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-456",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://funeral.com/blogs/the-journal/phantom-sounds-after-pet-loss-why-you-hear-them-how-to-cope-with-sensory-grief-at-home",
+      "sourceNote": "文章說明寵物離世後家中安靜，常會聽見或看見牠的幻覺，屬正常的感官悲傷；本則改寫成三個房間裡的短鏡頭",
+      "tags": ["感官記憶", "在家", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "玄關的地墊上，有一小塊被爪子磨薄的地方。沙發扶手上，最靠窗那個角落還是凹的。臥室的枕邊，我照舊空著半個位置。",
+          "editorNote": "給還在家裡到處看見牠痕跡的人；屋子太安靜時，眼睛會自己去找牠",
+          "variations": ["短版：枕邊那半個位置，我照舊空著。", "延伸版：地墊被我翻過去用了，磨薄的那一面朝下。"]
+        },
+        "en": {
+          "content": "On the entryway mat there's a small patch worn thin by his claws. On the sofa arm, the corner nearest the window still holds its dent. Beside my pillow, I keep leaving half the bed empty.",
+          "editorNote": "For anyone still spotting a pet's traces around the house — when a home goes quiet, the eyes go looking on their own",
+          "variations": ["Short version: I keep leaving half the pillow side empty.", "Longer version: I flipped the mat over, worn side down."]
+        }
+      }
+    },
+    {
+      "id": "pm-457",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://funeral.com/blogs/the-journal/a-gentle-guide-to-coping-with-pet-loss-things-that-help-you-stop-crying-after-your-pet-s-death",
+      "sourceNote": "文章指出餵食時間、牽繩、空碗等日常小物會突然觸發悲傷；本則改寫成三個地點的短鏡頭",
+      "tags": ["餵食時間", "習慣", "想念"],
+      "i18n": {
+        "zh-tw": {
+          "content": "五點半，餐桌旁的鬧鐘一響，我的手已經伸向櫃子。門口的鞋櫃上，牽繩還掛在最上面那一格。寵物店的罐頭架前，我拿起又放下同一個口味。",
+          "editorNote": "給被生活習慣突然攔下來的人；手比腦袋慢半拍才知道，這很正常",
+          "variations": ["短版：鬧鐘一響，手先伸向了櫃子。", "延伸版：同一個口味，我在架子前換手拿了三次。"]
+        },
+        "en": {
+          "content": "At 5:30 the alarm by the dining table goes off, and my hand is already reaching for the cupboard. On the shoe cabinet by the door, the leash still hangs on the top hook. In front of the pet store's canned-food shelf, I pick up the same flavor and put it back.",
+          "editorNote": "For anyone caught off guard by an old routine — the hand knows a beat before the head does, and that's normal",
+          "variations": ["Short version: The alarm rings, and my hand goes to the cupboard first.", "Longer version: I switched hands three times holding that same can at the shelf."]
+        }
+      }
+    },
+    {
+      "id": "pm-458",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://funeral.com/blogs/the-journal/healing-rituals-after-pet-loss-letters-keepsake-boxes-and-everyday-reminders",
+      "sourceNote": "文章提到家中隨處可見的遺留物與突然的相遇會讓悲傷回來；本則改寫成三個不相干地點的無評語鏡頭",
+      "tags": ["毛", "回憶", "街景"],
+      "i18n": {
+        "zh-tw": {
+          "content": "書房門後，一根白毛黏在踢腳板上\n公園長椅前，有隻柴犬走過，我多看了兩眼\n手機相簿裡，第一張還是牠打哈欠那天",
+          "editorNote": "給常在生活角落遇見牠影子的人；不必解釋，看見了就是看見了",
+          "variations": ["短版：那根白毛，我沒有撿。", "延伸版：柴犬的主人跟我點了點頭，我也點了頭。"]
+        },
+        "en": {
+          "content": "Behind the study door, one white hair clings to the baseboard.\nBy the park bench, a Shiba trots past and I look twice.\nIn my phone, the first photo is still the day he yawned.",
+          "editorNote": "For anyone who keeps running into a pet's shadow in ordinary corners — no need to explain, seeing is seeing",
+          "variations": ["Short version: I haven't picked up that white hair.", "Longer version: The Shiba's owner nodded at me, and I nodded back."]
+        }
+      }
+    },
+    {
+      "id": "pm-459",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "文章提到失去毛孩後的悲傷會在意想不到的時刻浮現；本則改寫成三個地點的短鏡頭，不做總結",
+      "tags": ["悲傷一波波", "意外重逢", "日常時刻"],
+      "i18n": {
+        "zh-tw": {
+          "content": "洗衣籃底下，翻出一隻牠咬過的襪子\n汽車後座上，毛還沒吸乾淨\n信箱裡，躺著一張疫苗補打的提醒卡",
+          "editorNote": "給被寄來的小提醒撞個正著的人；系統還不知道，你可以慢一點回覆",
+          "variations": ["短版：疫苗提醒卡，我收進了抽屜。", "延伸版：那隻襪子洗過了，我又放回籃子底下。"]
+        },
+        "en": {
+          "content": "Under the laundry basket, one sock he'd chewed on.\nOn the back seat of the car, fur the vacuum never got.\nIn the mailbox, a reminder card for his booster shot.",
+          "editorNote": "For anyone ambushed by a reminder in the mail — the system doesn't know yet, so you can take your time answering",
+          "variations": ["Short version: I put the reminder card in a drawer.", "Longer version: I washed the sock, then put it back under the basket."]
+        }
+      }
     }
   ]
 }

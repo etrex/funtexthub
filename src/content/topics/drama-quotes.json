@@ -13911,6 +13911,82 @@
           ]
         }
       }
+    },
+    {
+      "id": "dq-523",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.popdaily.com.tw/life/1535621",
+      "sourceNote": "PopDaily 八點檔名台詞回顧；改寫為原創三個短鏡頭",
+      "tags": ["台劇", "八點檔", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "沙發扶手上擺著吃到一半的洋芋片\n公司茶水間有人小聲講著昨晚的劇情\n計程車收音機正在重播八點檔",
+          "editorNote": "適合配一張生活照，說明追劇這件事早就滲進每個角落。",
+          "variations": ["短版：計程車收音機正在重播八點檔", "延伸版：公司茶水間有人小聲講著昨晚的劇情"]
+        },
+        "en": {
+          "content": "A half-eaten bag of chips sits on the sofa armrest.\nSomeone in the office pantry is recapping last night's episode in a whisper.\nThe taxi radio is replaying a prime-time soap.",
+          "editorNote": "Pair it with an everyday photo to show how TV talk seeps into every corner.",
+          "variations": ["Short: The taxi radio is replaying a prime-time soap.", "Extended: Someone in the pantry is recapping last night in a whisper."]
+        }
+      }
+    },
+    {
+      "id": "dq-524",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.popdaily.com.tw/life/1535621",
+      "sourceNote": "PopDaily 八點檔名台詞回顧；改寫為原創三個短鏡頭",
+      "tags": ["台劇", "幕後", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "書店角落的劇本書被翻到第三十頁\n剪接室螢幕停在一個沒剪完的吻戲\n夜市電視牆播著三年前的結局",
+          "editorNote": "適合寫給編劇、剪接或愛看幕後花絮的朋友。",
+          "variations": ["短版：夜市電視牆播著三年前的結局", "延伸版：剪接室螢幕停在一個沒剪完的吻戲"]
+        },
+        "en": {
+          "content": "A screenplay book in the bookstore corner is open to page thirty.\nThe edit-suite monitor is frozen on an unfinished kiss.\nThe night-market TV wall is playing a finale from three years ago.",
+          "editorNote": "For writers, editors, or friends who love behind-the-scenes extras.",
+          "variations": ["Short: The night-market TV wall is playing a finale from three years ago.", "Extended: The edit-suite monitor is frozen on an unfinished kiss."]
+        }
+      }
+    },
+    {
+      "id": "dq-525",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.niusnews.com/=P2cxzcyx0",
+      "sourceNote": "妞新聞 鄉土劇台詞盤點；改寫為原創三個短鏡頭",
+      "tags": ["台劇", "鄉土劇", "街景"],
+      "i18n": {
+        "zh-tw": {
+          "content": "髮廊老闆娘停下吹風機，先把男主角的下場講完，才問客人要不要護髮。\n高鐵月台上有個孩子指著廣告說，那個叔叔昨天死了。\n藥局門口的電視在演婆媳對罵，抓藥的阿姨把音量調高了兩格。",
+          "editorNote": "適合貼在追鄉土劇的長輩群組，也適合當閒聊開場。",
+          "variations": ["短版：抓藥的阿姨把音量調高了兩格。", "延伸版：髮廊老闆娘先把男主角的下場講完，才問要不要護髮。"]
+        },
+        "en": {
+          "content": "The salon owner switches off the dryer, finishes telling the hero's fate, and only then asks whether the client wants a conditioning treatment.\nOn the high-speed rail platform a child points at a poster and says that man died yesterday.\nThe TV at the pharmacy door shows a mother-in-law screaming match, and the woman filling prescriptions turns it up two notches.",
+          "editorNote": "Good for a family group chat of soap fans, or as a chat opener.",
+          "variations": ["Short: The pharmacist turns the volume up two notches.", "Extended: The salon owner finishes the hero's fate before offering a conditioning treatment."]
+        }
+      }
+    },
+    {
+      "id": "dq-526",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.niusnews.com/=P2cxzcyx0",
+      "sourceNote": "妞新聞 鄉土劇台詞盤點；改寫為原創三個短鏡頭",
+      "tags": ["台劇", "追劇", "眾生相"],
+      "i18n": {
+        "zh-tw": {
+          "content": "夜班護理站的小電視開著無聲字幕，兩個人同時嘆了一口氣。\n補習班門口的家長傳閱著一張手寫的分集大綱。\n機場登機口有人戴著耳機笑出聲，被鄰座瞄了一眼。",
+          "editorNote": "適合形容大家各自追著同一部劇的默契。",
+          "variations": ["短版：兩個人同時嘆了一口氣。", "延伸版：登機口有人戴著耳機笑出聲，被鄰座瞄了一眼。"]
+        },
+        "en": {
+          "content": "The small TV at the night-shift nurses' station runs on mute captions, and two people sigh at the same moment.\nParents outside the cram school pass around a handwritten episode outline.\nAt an airport gate someone laughs out loud into their earphones and gets a glance from the next seat.",
+          "editorNote": "For the quiet understanding among people who all follow the same show.",
+          "variations": ["Short: Two people sigh at the same moment.", "Extended: A traveler laughs into their earphones and draws a glance."]
+        }
+      }
     }
   ]
 }

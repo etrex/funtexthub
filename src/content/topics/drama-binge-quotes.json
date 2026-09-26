@@ -11586,6 +11586,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-414",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "參考康健雜誌談一口氣追完整季的心理，原創改寫成追劇夜的視窗清單",
+      "tags": ["追劇夜", "清單", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "四個沒關掉的視窗\n— 一個停在「跳過片頭」\n— 一個是角色關係圖\n— 一個是沒結帳的購物車\n— 一個是我，還亮著",
+          "editorNote": "適合貼在深夜追劇的動態上，配一張桌面截圖。",
+          "variations": [
+            "短版：分頁關不掉，人也關不掉。",
+            "延伸版：關係圖看了三次，還是分不清誰是誰的弟弟。"
+          ]
+        },
+        "en": {
+          "content": "Four windows still open\n— One parked on \"Skip Intro.\"\n— One is the character map.\n— One is a cart I never checked out.\n— One is me, still glowing.",
+          "editorNote": "Good caption for a late-night screenshot of your cluttered desktop.",
+          "variations": [
+            "Short: The tabs won't close, and neither will I.",
+            "Extended: Three looks at the family tree, and I still can't tell whose brother is whose."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-415",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "參考康健雜誌談追劇停不下來的完結慾，原創改寫成片尾倒數的猶豫",
+      "tags": ["下一集", "倒數", "猶豫"],
+      "i18n": {
+        "zh-tw": {
+          "content": "十一分鐘，是片尾倒數跳出「下一集即將播放」後我猶豫的時間。這段時間我洗了一個杯子、關了一扇窗、確認了兩次明天的鬧鐘。最後杯子放回架上，我按下播放。",
+          "editorNote": "適合形容明明想收手、身體卻先動了的夜晚。",
+          "variations": [
+            "短版：洗了杯子，關了窗，還是按了播放。",
+            "延伸版：鬧鐘設好了，杯子也乾淨了，這下沒有任何理由不看。"
+          ]
+        },
+        "en": {
+          "content": "Eleven minutes is how long I hesitated after the countdown offered the next episode. In that time I washed one cup, shut one window, and checked tomorrow's alarm twice. The cup went back on the shelf, and I pressed play.",
+          "editorNote": "For those nights when you meant to stop but your hands went ahead without you.",
+          "variations": [
+            "Short: Washed the cup, closed the window, pressed play anyway.",
+            "Extended: Alarm set, cup spotless, and now there's no excuse left not to watch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-416",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "參考康健雜誌談追劇習慣，原創改寫成睡著又重看的小故事",
+      "tags": ["睡著", "重看", "男主角"],
+      "i18n": {
+        "zh-tw": {
+          "content": "五次。同一段劇情我倒轉重看了五次，因為每回睡著，都剛好停在男主角要開口的地方。第六次他終於開口，說的是「你吃飯了沒」。",
+          "editorNote": "適合分享給追劇追到睡著、隔天又從頭補的朋友。",
+          "variations": [
+            "短版：睡著前他要開口，醒來他還是要開口。",
+            "延伸版：等了六次的告白，結果是一句吃飯了沒。"
+          ]
+        },
+        "en": {
+          "content": "Five times I rewound that same scene, since every time I dozed off, it was right where the lead was about to speak. On the sixth try he finally opened his mouth. He asked if I had eaten yet.",
+          "editorNote": "Send to a friend who falls asleep mid-episode and rewatches the next day.",
+          "variations": [
+            "Short: I fell asleep as he started to speak, and woke up as he started to speak.",
+            "Extended: Six tries for the big confession, and it turned out to be a question about dinner."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-417",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "參考康健雜誌談追劇成癮徵兆，原創改寫成凌晨客廳的描寫",
+      "tags": ["凌晨", "客廳", "只看一集"],
+      "i18n": {
+        "zh-tw": {
+          "content": "一張沙發、兩個抱枕、三包拆開的零食，還有一個說過「只看一集」的人，凌晨兩點依然坐在原位。遙控器的電池倒是先撐不住了。",
+          "editorNote": "適合追完大結局後，用來描述自己一晚上的戰況。",
+          "variations": [
+            "短版：只看一集的人，還坐在沙發上。",
+            "延伸版：零食吃完了，電池沒電了，只有這個人還在續航。"
+          ]
+        },
+        "en": {
+          "content": "One couch, two pillows, three opened bags of snacks, and a person who swore it was just one episode, still sitting there at 2 a.m. The remote's batteries were the first to give up.",
+          "editorNote": "Handy for recapping your night after a finale marathon.",
+          "variations": [
+            "Short: The 'just one episode' person is still on the couch.",
+            "Extended: Snacks gone, batteries dead, and only this one human still running."
+          ]
+        }
+      }
     }
   ]
 }

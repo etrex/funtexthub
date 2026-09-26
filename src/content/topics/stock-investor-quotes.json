@@ -11688,6 +11688,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-386",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考散戶單日大幅減少融資的報導；改寫成一個人反覆下拉刷新持股頁面的動作特寫",
+      "tags": ["刷新", "持股", "看盤", "動作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他把持股頁面往下拉，放開，數字跳了一格。再往下拉，放開，數字回到原來的位置。連續拉了十一次，第十二次拉到一半，他把手機翻面壓在桌上，過了一分鐘又翻回來。",
+          "editorNote": "適合形容盤中明知數字不會有大變化，手指還是停不下來的樣子",
+          "variations": [
+            "短版：下拉十二次，第十二次拉一半，手機翻面，一分鐘後翻回來。",
+            "延伸版：頁面每拉一次就跳一格，他的拇指也跟著跳一格，桌面上的茶已經涼了。"
+          ]
+        },
+        "en": {
+          "content": "He pulled the holdings page down and let go, and the number jumped one notch. He pulled again, let go, and it fell back to where it had been. After eleven pulls, halfway through the twelfth, he flipped the phone face down on the desk and flipped it back a minute later.",
+          "editorNote": "For those market hours when you know the number won't move much and your thumb keeps going anyway",
+          "variations": [
+            "Short: Twelve pulls, the last one half done, phone face down, face up again a minute later.",
+            "Longer: Each pull made the page jump one notch and his thumb jump with it, while the tea on the desk went cold."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-387",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考散戶去槓桿賣出部位的報導；改寫成一次賣出下單的按鍵步驟",
+      "tags": ["賣出", "下單", "零股", "動作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 拇指按下賣出，數量欄停在一張\n— 刪掉一，改成零股的五十股\n— 價格往下調兩檔，再往上調一檔\n— 確認鍵按了一次，退出去又點進來\n— 看委託有沒有掛上，看了兩遍",
+          "editorNote": "適合形容按下賣出前後那一串來回修改的細碎動作",
+          "variations": [
+            "短版：賣一張改成賣五十股，價格下兩檔上一檔，確認完又進去看。",
+            "延伸版：整個賣出只按了一次確認，其餘全是改數字、退出、再點進來。"
+          ]
+        },
+        "en": {
+          "content": "— His thumb pressed sell, and the quantity box stopped at one lot.\n— He deleted the one and typed fifty odd-lot shares.\n— He moved the price down two ticks, then up one.\n— He tapped confirm once, backed out, and tapped back in.\n— He checked whether the order had gone through, twice.",
+          "editorNote": "For the small back-and-forth taps around a single sell order",
+          "variations": [
+            "Short: One lot became fifty shares, the price went down two ticks and up one, and after confirming he went back in to look.",
+            "Longer: The whole sale took one confirm tap, and everything else was changing numbers, backing out, and tapping in again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-388",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考融資餘額單日下降的報導；改寫成在還款欄輸入金額的游標特寫",
+      "tags": ["融資", "還款", "輸入", "動作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他在融資還款那一格輸入金額，刪掉最後一個零，補回去，再刪掉。游標在欄位裡閃了將近二十秒，最後停在兩個零的後面，手指離開螢幕，又落下去按了確認。",
+          "editorNote": "適合形容要還一筆錢之前，數字改來改去的那二十秒",
+          "variations": [
+            "短版：金額刪一個零、補一個零、再刪一個零，游標閃了二十秒。",
+            "延伸版：欄位裡的零多一個少一個，他的手指離開螢幕又落下，才按下確認。"
+          ]
+        },
+        "en": {
+          "content": "He typed the amount into the margin repayment box, deleted the last zero, put it back, and deleted it again. The cursor blinked in the field for nearly twenty seconds and stopped after two zeros. His finger left the screen, came back down, and tapped confirm.",
+          "editorNote": "For those twenty seconds of editing a number before paying something back",
+          "variations": [
+            "Short: Delete a zero, add a zero, delete a zero, cursor blinking for twenty seconds.",
+            "Longer: The field held one zero more, then one zero less, and only after his finger lifted and landed again did he tap confirm."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-389",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考散戶資金與槓桿變化的報導；改寫成翻閱紙本對帳單並用筆劃線的動作",
+      "tags": ["對帳單", "紙本", "劃線", "動作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "郵寄來的對帳單被拆開，他從第一頁翻到最後一頁，又翻回中間那一頁。原子筆在一串數字底下畫了一條線，畫到一半沒水了，他從筆筒裡抽出另一支，從頭再畫一次。",
+          "editorNote": "適合形容拿到紙本對帳單，一頁一頁核對的那種認真",
+          "variations": [
+            "短版：對帳單翻到最後又翻回中間，筆沒水，換一支，從頭畫線。",
+            "延伸版：他劃線的那串數字沒有變，變的是換了兩支筆，畫了兩次。"
+          ]
+        },
+        "en": {
+          "content": "The mailed statement was torn open, and he flipped from the first page to the last, then back to the one in the middle. His ballpoint drew a line under one string of numbers and ran dry halfway, so he pulled another pen from the cup and drew it again from the start.",
+          "editorNote": "For going through a paper statement page by page with full attention",
+          "variations": [
+            "Short: Statement flipped to the end and back to the middle, pen dry, new pen, line drawn again.",
+            "Longer: The numbers under the line never changed; what changed was two pens and two passes."
+          ]
+        }
+      }
     }
   ]
 }

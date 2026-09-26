@@ -12716,6 +12716,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-454",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: 20-minute rule, get out of bed when you can't sleep",
+      "tags": ["失眠", "二十分鐘", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 躺滿二十分鐘還沒睡著\n— 我下床，坐到書桌前\n— 拿出紙，把明天的事抄一遍\n— 抄完又回到床上\n— 床還是溫的，腦袋已經涼了",
+          "editorNote": "給照著專家建議離開床、卻只換了個地方清醒的人。適合貼在半夜的社群限時動態。",
+          "variations": [
+            "短版：躺滿二十分鐘，下床抄完明天的事，回來床還是溫的。",
+            "延伸版：照規則躺滿二十分鐘就下床，坐到書桌前把明天的事抄一遍，再回到床上。床還是溫的，腦袋已經涼了。"
+          ]
+        },
+        "en": {
+          "content": "— Twenty minutes in bed and still awake.\n— I get up and sit at the desk.\n— I pull out paper and copy down tomorrow's chores.\n— Then I go back to bed.\n— The sheets are still warm, my head has cooled off.",
+          "editorNote": "For people who followed the expert advice, left the bed, and only changed where they lie awake. Fits a midnight story post.",
+          "variations": [
+            "Short: Twenty minutes up, wrote out tomorrow, back to sheets that are still warm.",
+            "Extended: By the rule I left the bed after twenty minutes, sat at the desk and copied out tomorrow's list, then returned. The sheets were still warm and my head had cooled."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-455",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: avoid checking the time when lying awake",
+      "tags": ["失眠", "看時間", "手機"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 把鬧鐘轉向牆壁\n— 把手機蓋在枕頭下面\n— 把時間留給天花板\n— 把手伸出去摸了兩次\n— 把螢幕點亮，四點十分",
+          "editorNote": "寫給決心不看時間、又忍不住偷看的人。前三行都很有志氣，收在最後一行的數字。",
+          "variations": [
+            "短版：鬧鐘轉向牆壁，手機壓在枕頭下，最後還是摸出來看了。",
+            "延伸版：鬧鐘轉向牆壁，手機蓋在枕頭下，時間留給天花板。手伸出去摸了兩次，螢幕亮起來是四點十分。"
+          ]
+        },
+        "en": {
+          "content": "— Turn the alarm clock to face the wall.\n— Tuck the phone under the pillow.\n— Leave the time to the ceiling.\n— Reach out and grab it twice.\n— Screen lights up: 4:10.",
+          "editorNote": "For anyone who vowed not to look at the time and looked anyway. The first three lines are resolute, and the last line is just a number.",
+          "variations": [
+            "Short: Clock to the wall, phone under the pillow, and I still checked.",
+            "Extended: The clock faces the wall, the phone hides under the pillow, and the time is left to the ceiling. Two reaches later, the screen says 4:10."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-456",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: insomnia as hyperarousal of brain and body",
+      "tags": ["失眠", "腦內分頁", "過度警覺"],
+      "i18n": {
+        "zh-tw": {
+          "content": "腦袋開了三個分頁\n一個在重播上週的會議\n一個在演練下個月的對話\n一個在算冰箱還剩幾顆蛋\n關掉任何一個都要先確認存檔",
+          "editorNote": "研究把失眠說成大腦過度警覺，這則用分頁把它畫出來。適合傳給同樣半夜還在運轉的朋友。",
+          "variations": [
+            "短版：腦袋開著三個分頁，沒有一個肯關。",
+            "延伸版：一個分頁重播上週的會議，一個演練下個月的對話，一個在算冰箱剩幾顆蛋。哪一個都不能直接關，要先存檔。"
+          ]
+        },
+        "en": {
+          "content": "My head has three tabs open.\nOne replays last week's meeting.\nOne rehearses next month's conversation.\nOne counts the eggs left in the fridge.\nClosing any of them means saving first.",
+          "editorNote": "Researchers describe insomnia as hyperarousal, and this draws it as browser tabs. Good to send to a friend who is also still running at midnight.",
+          "variations": [
+            "Short: Three tabs open in my head, and none of them will close.",
+            "Extended: One tab replays last week's meeting, one rehearses next month's talk, one counts the eggs in the fridge. None can be closed without saving."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-457",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: brain links bed with wakefulness",
+      "tags": ["失眠", "床", "改造"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 床單換了新的\n— 枕頭換了新的\n— 窗簾換成遮光的\n— 燈也調暗到剛剛好\n— 整間都換過一輪，人還是醒的",
+          "editorNote": "專家說腦袋會把床和清醒連在一起，於是有人從寢具開始改。適合在剛下單完新枕頭的深夜發出去。",
+          "variations": [
+            "短版：床單枕頭窗簾全換一輪，人還是醒的。",
+            "延伸版：新床單、新枕頭、遮光窗簾、調到剛好的燈，整個房間換過一輪之後，醒著的還是同一個人。"
+          ]
+        },
+        "en": {
+          "content": "— New sheets.\n— New pillow.\n— Blackout curtains up.\n— Lamp dimmed to just right.\n— The whole room got swapped, and the person in it is still awake.",
+          "editorNote": "Experts say the brain ties the bed to wakefulness, so some people start by remaking the bedding. Fits a late night right after ordering a new pillow.",
+          "variations": [
+            "Short: Sheets, pillow, curtains all replaced, and I am still awake.",
+            "Extended: New sheets, a new pillow, blackout curtains, a lamp set just so. After the room was swapped out, the one awake in it was the same person."
+          ]
+        }
+      }
     }
   ]
 }

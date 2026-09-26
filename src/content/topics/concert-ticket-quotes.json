@@ -12032,6 +12032,82 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-425",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://legalaffairs.gov.taipei/News_Content.aspx?n=9DCD6AAC1B9B2ACB&sms=72544237BBE4C5F6&s=EC5A4308886605CC",
+      "sourceNote": "臺北市法務局消保官提醒：網購二手演唱會票券易遭詐，建議確認交易細節與賣家；取「賣家一句話有兩種意思」改寫成條列",
+      "tags": ["二手票", "條列", "詐騙", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 賣家說「票在我這裡」\n— 我以為票已經算是我的\n— 他的意思是票還握在他手上\n— 他說「先匯款再傳截圖」\n— 我以為是先傳截圖再匯款\n— 他的意思是截圖不必傳了",
+          "editorNote": "適合在買二手票時，發現雙方對每一句話的理解都不太一樣時使用",
+          "variations": ["短版：他說票在他那裡，我聽到的是票在我這裡。", "延伸版：一句話兩種意思，兩個都是真的，只有匯款那一步只能做一次。"]
+        },
+        "en": {
+          "content": "— The seller says, \"I have the ticket.\"\n— I take that to mean it's basically mine.\n— He means it is still in his hand.\n— He says, \"Pay first, then I'll send a screenshot.\"\n— I take that to mean screenshot first, payment after.\n— He means the screenshot is not coming at all.",
+          "editorNote": "For secondhand ticket deals where each side reads every sentence a different way",
+          "variations": ["Short: He said the ticket is with him, and I heard that it is with me.", "Extended: One sentence, two meanings, both true, and the payment step can only be done once."]
+        }
+      }
+    },
+    {
+      "id": "ctq-426",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3022368",
+      "sourceNote": "商業周刊 YOASOBI 台北大巨蛋售票與實名制規定整理：入場需持與票券登記相符的證件；取「請出示證件」的兩種理解改寫",
+      "tags": ["實名制", "入場", "證件", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "工作人員說請出示本人證件，我就把手機相簿翻到最新一張自拍遞過去。他看了兩秒，抬頭又問了一次，這次指著我的皮夾。他要的是能寫著名字的那張卡，我給的是能看見臉的那張照片，隊伍後面已經有人開始咳嗽。",
+          "editorNote": "適合在入場查驗時，太緊張而答非所問的場合使用",
+          "variations": ["短版：他要的是卡，我給的是臉。", "延伸版：本人證件四個字，我讀成本人的照片，他讀成本人的姓名。"]
+        },
+        "en": {
+          "content": "The staff member asked for personal ID, so I scrolled my phone to my latest selfie and held it out. He looked at it for two seconds, then asked again, this time pointing at my wallet. He wanted the card that carries a name, I had handed over the picture that shows a face, and somebody behind me had started to cough.",
+          "editorNote": "For the entry check, when nerves make you answer a slightly different question",
+          "variations": ["Short: He wanted the card, and I gave him the face.", "Extended: I read \"personal ID\" as my photo of myself, and he read it as my name on a card."]
+        }
+      }
+    },
+    {
+      "id": "ctq-427",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://ticket.ibon.com.tw/NewsInfo/Details/2524",
+      "sourceNote": "ibon 售票FAQ：同一個身分證字號可否購買兩場票券的說明；取客服對話中「訂單成立」與「拿到票」的落差改寫成純對白",
+      "tags": ["客服", "對白", "訂單", "搶票"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「您的訂單已成立」\n「所以票已經在我手上了？」\n「訂單成立，票券要到開演前才會開放取用」\n「那我現在手上有的是什麼？」\n「一封確認信」\n「我可以拿這封信進場嗎？」",
+          "editorNote": "適合在付款成功卻還沒拿到票，心裡一直不踏實時使用",
+          "variations": ["短版：訂單成立了，票還沒有。", "延伸版：我以為成立就是買到，客服說成立只代表款項收到了。"]
+        },
+        "en": {
+          "content": "\"Your order has been placed.\"\n\"So the ticket is already in my hands?\"\n\"The order is placed. The ticket opens up shortly before the show.\"\n\"Then what do I have right now?\"\n\"A confirmation email.\"\n\"Can I walk in with that email?\"",
+          "editorNote": "For when payment went through but the ticket hasn't shown up and nothing feels certain",
+          "variations": ["Short: The order is placed, and the ticket is not.", "Extended: I took placed to mean bought, and support took it to mean only that my payment went through."]
+        }
+      }
+    },
+    {
+      "id": "ctq-428",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.gvm.com.tw/article/125822",
+      "sourceNote": "遠見雜誌 2026 演唱會攻略：票價與區域分級、座位圖說明；取「座位很近」的區域與相鄰兩種說法改寫",
+      "tags": ["座位", "朋友", "區域", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友在群組裡回覆我們的座位很近。我把外套摺好放在旁邊那格，準備替她占位。對照座位圖才知道，她講的近是同一個看台區，我講的近是相鄰兩個號碼。那個區有三千個座位，相鄰的只有兩個。",
+          "editorNote": "適合在兩個人各自搶到票，對座位遠近有不同想像時使用",
+          "variations": ["短版：她說近，指的是同一個區。", "延伸版：兩種近都是真的，一種要走三分鐘，一種只要伸手。"]
+        },
+        "en": {
+          "content": "A friend texted that our seats were close. I folded my jacket and set it on the next seat to save it for her. The seating chart showed that her close meant the same stand, and my close meant two neighboring numbers. That stand holds three thousand seats, and only two of them are next to mine.",
+          "editorNote": "For when two people each got tickets and picture very different distances",
+          "variations": ["Short: By close, she meant the same section.", "Extended: Both kinds of close are true, but one takes a three-minute walk and the other takes a reach of the arm."]
+        }
+      }
     }
   ]
 }

@@ -13465,6 +13465,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-479",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://health.businessweekly.com.tw/article/ARTL000098132",
+      "sourceNote": "早餐店蘿蔔糕做法介紹",
+      "tags": [
+        "蘿蔔糕",
+        "早餐",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：蘿蔔糕是用什麼做的？\n答：在來米漿加蘿蔔絲，蒸熟之後切塊，再下鍋煎。",
+          "editorNote": "問答只有兩行，答案就是食譜本身，適合放在系列中段。",
+          "variations": [
+            "短版：蘿蔔糕是米漿和蘿蔔絲做的。",
+            "延伸版：問完之後，他回頭把蘿蔔糕翻了面。"
+          ]
+        },
+        "en": {
+          "content": "Q: What is radish cake made of?\nA: Rice batter and shredded radish, steamed, cut into pieces, then pan-fried.",
+          "editorNote": "Two lines, and the answer is simply the recipe. Works mid-series.",
+          "variations": [
+            "Short version: Radish cake is rice batter and shredded radish.",
+            "Extended: After the question, he went back and flipped the radish cake."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-480",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://english.cool/taiwanese-breakfast-in-english/",
+      "sourceNote": "台灣早餐品項介紹",
+      "tags": [
+        "蘿蔔糕",
+        "醬料",
+        "早餐"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「醬油膏還是辣椒醬？」\n「醬油膏。」\n「好。」\n「謝謝。」",
+          "editorNote": "四句對白沒有任何轉折，讀者會一直等那個沒來的笑點。",
+          "variations": [
+            "短版：醬油膏，好，謝謝。",
+            "延伸版：她把醬油膏淋在蘿蔔糕上，就這樣。"
+          ]
+        },
+        "en": {
+          "content": "\"Soy paste or chili sauce?\"\n\"Soy paste.\"\n\"Okay.\"\n\"Thanks.\"",
+          "editorNote": "Four lines of dialogue with no turn. Readers keep waiting for the punchline that never shows.",
+          "variations": [
+            "Short version: Soy paste, okay, thanks.",
+            "Extended: She poured soy paste over the radish cake, and that was all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-481",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://english.cool/taiwanese-breakfast-in-english/",
+      "sourceNote": "台灣早餐品項介紹",
+      "tags": [
+        "飯糰",
+        "早餐",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "客人問飯糰可不可以對切。老闆說可以，拿刀從中間切開，再用紙包好遞出去。",
+          "editorNote": "整段只是把流程交代完，適合當作雙關笑話之間的換氣。",
+          "variations": [
+            "短版：飯糰對切，紙包好。",
+            "延伸版：兩半的大小差不多。"
+          ]
+        },
+        "en": {
+          "content": "A customer asked if the rice roll could be cut in half. The owner said yes, sliced it down the middle, wrapped it in paper and handed it over.",
+          "editorNote": "It only walks through the steps. Good as a breather between wordplay jokes.",
+          "variations": [
+            "Short version: Rice roll halved, wrapped in paper.",
+            "Extended: The two halves were about the same size."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-482",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://buzzorange.com/vidaorange/2020/03/25/brekkie-west-and-east/",
+      "sourceNote": "中西式早餐介紹",
+      "tags": [
+        "吐司",
+        "早餐",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問店員，吐司為什麼都切成片。她說，這樣比較好夾東西。",
+          "editorNote": "把疑問句當成真的疑問來答，重點是店員完全沒有想搞笑。",
+          "variations": [
+            "短版：吐司切片，方便夾東西。",
+            "延伸版：她接著問我要夾什麼。"
+          ]
+        },
+        "en": {
+          "content": "I asked the clerk why toast always comes sliced. She said it makes things easier to put between the slices.",
+          "editorNote": "The question gets a genuine answer. The clerk is not trying to be funny at all.",
+          "variations": [
+            "Short version: Sliced toast, easier to fill.",
+            "Extended: Then she asked me what I wanted in it."
+          ]
+        }
+      }
     }
   ]
 }

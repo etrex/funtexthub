@@ -12651,6 +12651,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-423",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次、每次二十到三十分鐘的全身訓練就有明顯效果，改寫成物件自述",
+      "tags": [
+        "重訓",
+        "啞鈴",
+        "習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在架子上排第三個，重量八公斤。這個月他來拿過兩次，每次三組，放回來時還把我擺正，標籤朝外。",
+          "editorNote": "適合拿來回覆「一週練兩次到底有沒有用」的朋友",
+          "variations": [
+            "短版：這個月他拿了我兩次，每次三組，放回來標籤朝外。"
+          ]
+        },
+        "en": {
+          "content": "I'm third on the rack, eight kilos. He picked me up twice this month, three sets each time, and put me back straight with my label facing out.",
+          "editorNote": "For a friend who asks whether twice a week is really worth it",
+          "variations": [
+            "Short: he took me down twice this month, three sets each, label facing out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-424",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次、每次二十到三十分鐘的全身訓練就有明顯效果，改寫成物件自述",
+      "tags": [
+        "體重計",
+        "自嘲",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週一早上，他踩上來，站了兩秒\n— 週三，他先脫了外套才踩\n— 週五，他拿手機拍下我的螢幕\n— 這週我沒有被踢到牆角",
+          "editorNote": "想記錄自己開始規律運動的第一週時可以用",
+          "variations": [
+            "延伸版：這週他踩了我三次，數字每次都不一樣，他還是每次都拍。"
+          ]
+        },
+        "en": {
+          "content": "— Monday morning, he steps on and stands there for two seconds.\n— Wednesday, he takes his jacket off first.\n— Friday, he photographs my screen with his phone.\n— This week nobody kicked me back into the corner.",
+          "editorNote": "For logging the first week of a workout routine",
+          "variations": [
+            "Extended: he stepped on me three times this week, the number changed each time, and he photographed it each time anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-425",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次、每次二十到三十分鐘的全身訓練就有明顯效果，改寫成物件自述",
+      "tags": [
+        "瑜珈",
+        "居家運動",
+        "開始"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被捲在衣櫃最上層，捲了四十天。今晚他把我攤開，右下角掉了一小片灰。他躺上來，只做了十分鐘就起身，把我重新捲好，放在門邊。",
+          "editorNote": "給很久沒動、今晚剛重新開始的人",
+          "variations": [
+            "短版：捲了四十天的墊子，今晚被放在門邊，而不是衣櫃頂。"
+          ]
+        },
+        "en": {
+          "content": "I was rolled up on the top shelf of the closet for forty days. Tonight he unrolled me, and a small flake of dust fell off my lower right corner. He lay down for only ten minutes, then rolled me up again and left me by the door.",
+          "editorNote": "For someone who restarted tonight after a long gap",
+          "variations": [
+            "Short: a mat rolled up for forty days ends tonight by the door instead of on the top shelf."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-426",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次、每次二十到三十分鐘的全身訓練就有明顯效果，改寫成物件自述",
+      "tags": [
+        "跑步",
+        "運動鞋",
+        "出門"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他蹲下綁鞋帶，鬆了，拆開重綁，這回打了雙結。出門前他瞄了一眼鞋櫃上的水壺，沒帶。三分鐘後他折回來拿了。",
+          "editorNote": "出門前總是漏東西的晨跑新手會懂",
+          "variations": [
+            "延伸版：雙結、水壺、折返，這是我們今天出門的完整順序。"
+          ]
+        },
+        "en": {
+          "content": "He crouched to tie my laces, found them loose, undid them and tied again, this time with a double knot. Before leaving he glanced at the water bottle on the shoe rack and left without it. Three minutes later he came back for it.",
+          "editorNote": "For new morning runners who always forget something at the door",
+          "variations": [
+            "Extended: double knot, water bottle, U-turn, that was the whole order of today's departure."
+          ]
+        }
+      }
     }
   ]
 }

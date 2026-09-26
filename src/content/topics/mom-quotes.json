@@ -14969,6 +14969,121 @@
           ]
         }
       }
-    }
+    },
+      {
+        "id": "momq-525",
+        "dateAdded": "2026-09-26",
+        "sourceUrl": "https://art.ltn.com.tw/article/paper/1252653",
+        "sourceNote": "冰箱與媽媽的日常徵文；改寫成不同物件與場面的反問收尾",
+        "tags": [
+          "媽媽",
+          "日常",
+          "整理"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "媽媽來住的那個週末，把我的調味罐全部重排了一遍，鹽在左，糖在右，連醬油瓶的標籤都轉向正面。她週日搭四點的車回去。我現在煮麵伸手，該碰的是左邊第幾罐？",
+            "editorNote": "她一走，順手的位置就全變了",
+            "variations": [
+              "短版：調味罐被重排之後，我的手還在找舊位置",
+              "延伸版：標籤轉向正面的醬油瓶，我看了兩天"
+            ]
+          },
+          "en": {
+            "content": "Over the weekend Mom stayed, she rearranged all my spice jars: salt on the left, sugar on the right, even the soy sauce label turned to face front. She took the four o'clock train home on Sunday. When I reach for something to cook noodles now, which jar from the left is it?",
+            "editorNote": "Once she leaves, every habit of the hand has to be relearned.",
+            "variations": [
+              "Short: after the jars were rearranged, my hand still searches the old spot.",
+              "Longer: I stared at the soy sauce label facing front for two days."
+            ]
+          }
+        }
+      },
+      {
+        "id": "momq-526",
+        "dateAdded": "2026-09-26",
+        "sourceUrl": "https://art.ltn.com.tw/article/paper/1252653",
+        "sourceNote": "冰箱與媽媽的日常徵文；改寫成不同物件與場面的反問收尾",
+        "tags": [
+          "媽媽",
+          "字條",
+          "日常"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 冷凍庫有兩盒水餃\n— 洗好的衣服在椅背上\n— 瓦斯我關了\n— 鑰匙壓在鞋櫃上\n— 你昨晚到底幾點才睡",
+            "editorNote": "媽媽留在桌上的字條，最後一行才是重點",
+            "variations": [
+              "短版：字條前四行都是交代，最後一行是問你"
+            ]
+          },
+          "en": {
+            "content": "— Two boxes of dumplings are in the freezer.\n— The clean laundry is on the chair back.\n— I turned the gas off.\n— Your keys are under the shoe cabinet.\n— What time did you actually go to sleep last night?",
+            "editorNote": "The last line of a note from Mom is the real message.",
+            "variations": [
+              "Short: four lines of instructions, and the last one is a question for you.",
+              "Longer: her notes never carry a name, only chores."
+            ]
+          }
+        }
+      },
+      {
+        "id": "momq-527",
+        "dateAdded": "2026-09-26",
+        "sourceUrl": "https://art.ltn.com.tw/article/paper/1252653",
+        "sourceNote": "冰箱與媽媽的日常徵文；改寫成不同物件與場面的反問收尾",
+        "tags": [
+          "媽媽",
+          "雨天",
+          "日常"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "我說預報沒有雨，媽媽還是把摺疊傘塞進書包側袋，拉鍊拉到底。晚上十點，窗外雨聲很大。那把傘是不是還躺在我放學那天的書包裡？",
+            "editorNote": "她多帶的東西，總是在最後才派上用場",
+            "variations": [
+              "短版：預報沒雨，她還是塞了傘",
+              "延伸版：拉鍊拉到底的側袋，我一直沒打開過"
+            ]
+          },
+          "en": {
+            "content": "I told her the forecast said no rain, but Mom still tucked the folding umbrella into the side pocket and zipped it shut. At ten that night, the rain against the window was loud. Is that umbrella still sitting in the bag I carried home from school?",
+            "editorNote": "What she packs extra is what turns out to matter last.",
+            "variations": [
+              "Short: the forecast said dry, and she packed the umbrella anyway.",
+              "Longer: I never opened the side pocket she zipped shut."
+            ]
+          }
+        }
+      },
+      {
+        "id": "momq-528",
+        "dateAdded": "2026-09-26",
+        "sourceUrl": "https://art.ltn.com.tw/article/paper/1252653",
+        "sourceNote": "冰箱與媽媽的日常徵文；改寫成不同物件與場面的反問收尾",
+        "tags": [
+          "媽媽",
+          "等門",
+          "日常"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "電鍋跳到保溫已經四十分鐘，媽媽還坐在客廳摺毛巾，摺到第十一條，才發現手上是同一條。飯早就熟了。她剛剛是在等誰的鑰匙聲？",
+            "editorNote": "飯熟了還不開，多半是在等人",
+            "variations": [
+              "短版：飯熟了四十分鐘，她還在摺同一條毛巾",
+              "延伸版：客廳的燈她沒開，只留了電鍋的紅點"
+            ]
+          },
+          "en": {
+            "content": "The rice cooker had been on warm for forty minutes, and Mom was still folding towels in the living room. By the eleventh she noticed she was holding the same one. The rice was ready long ago. Whose key in the lock had she been waiting for?",
+            "editorNote": "Rice that is ready but not served usually means someone is being waited for.",
+            "variations": [
+              "Short: forty minutes after the rice finished, she was still folding the same towel.",
+              "Longer: she left the living room dark, with only the red dot of the rice cooker."
+            ]
+          }
+        }
+      }
   ]
 }

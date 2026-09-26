@@ -13813,6 +13813,106 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "eq-463",
+            "dateAdded": "2026-09-26",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取考前必備物品清單的氛圍改寫成考前一晚的小動作",
+            "tags": ["考試", "考前一晚", "准考證", "緊張"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "考前一晚，你的動作是這樣的：\n— 准考證放進透明資料夾，又抽出來看一眼\n— 鉛筆削了七支，再數一遍\n— 手錶調快三分鐘，又調回來\n— 鬧鐘設了三個，還是四點半自己醒",
+                    "editorNote": "適合貼在考前一晚的動態，大家都會在留言區交出自己的緊張小動作。",
+                    "variations": [
+                        "短版：七支鉛筆，你數了兩遍。",
+                        "延伸版：手錶調快又調回來的那三分鐘，是你今晚最認真的複習。"
+                    ]
+                },
+                "en": {
+                    "content": "The night before, here is what your hands are doing:\n— Slide the admission ticket into a clear folder, then pull it out for one more look.\n— Sharpen seven pencils, then count them again.\n— Set the watch three minutes fast, then set it back.\n— Program three alarms and still wake up on your own at 4:30.",
+                    "editorNote": "Good for a pre-exam post, where everyone in the comments confesses their own nervous little rituals.",
+                    "variations": [
+                        "Short: Seven pencils, counted twice.",
+                        "Extended: Those three minutes on the watch, forward and back, were tonight's most serious studying."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-464",
+            "dateAdded": "2026-09-26",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取考場規定與監考氛圍改寫",
+            "tags": ["考試", "考場", "監考", "空位"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "你坐在考場靠牆的位子，隔壁的空位貼著缺考的座號。你把水壺放在腳邊，聽著風扇轉，數著前面同學翻頁的聲音。監考人員的鞋跟走到你旁邊停了一下，又走開了。",
+                    "editorNote": "適合寫考場裡那些跟題目無關、卻比題目還清楚的聲音。",
+                    "variations": [
+                        "短版：隔壁的空位比整張考卷還安靜。",
+                        "延伸版：鞋跟聲停在你旁邊的那兩秒，你把答案又檢查了一遍。"
+                    ]
+                },
+                "en": {
+                    "content": "You sit in the seat by the wall, and the seat beside you carries a no-show sticker. You set your water bottle by your foot, listen to the fan turn, and count the pages flipping up front. The proctor's heels stop next to you for a moment, then move on.",
+                    "editorNote": "For the sounds in an exam hall that have nothing to do with the questions yet come through clearer than them.",
+                    "variations": [
+                        "Short: The empty seat is quieter than the whole test paper.",
+                        "Extended: In the two seconds those heels stood still beside you, you rechecked every answer."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-465",
+            "dateAdded": "2026-09-26",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取交卷離場的畫面改寫",
+            "tags": ["考試", "交卷", "橡皮擦", "細節"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "交卷前，你用手掌把桌角的橡皮擦屑全掃到地上。掃完你又彎腰，一顆一顆撿起來放進口袋。桌面乾淨了，你才把考卷翻面。",
+                    "editorNote": "適合寫考完最後一刻的下意識動作，收拾桌面比檢查答案還俐落。",
+                    "variations": [
+                        "短版：橡皮擦屑掃下去，又撿回來。",
+                        "延伸版：答案改不了了，你至少能把桌面弄乾淨。"
+                    ]
+                },
+                "en": {
+                    "content": "Before handing in the paper, you sweep every eraser crumb off the desk corner with your palm. Then you bend down and pick them up one by one, into your pocket. Only when the desk is clean do you turn the paper over.",
+                    "editorNote": "For the reflex in the last moment of a test, when tidying the desk goes faster than checking answers.",
+                    "variations": [
+                        "Short: Crumbs swept down, then picked back up.",
+                        "Extended: The answers can't change now, but at least the desk can be clean."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-466",
+            "dateAdded": "2026-09-26",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取考完走出校門的畫面改寫",
+            "tags": ["考試", "考完", "校門口", "發票"],
+            "i18n": {
+                "zh-tw": {
+                    "content": "走出校門，你把准考證塞進外套內袋，指尖碰到一張上週的發票。你把發票捏了捏，又放回去。校門口的紅綠燈亮了兩次綠，你都站著沒動。",
+                    "editorNote": "適合寫考完之後那段腦袋放空、腳不太想走的時間。",
+                    "variations": [
+                        "短版：綠燈亮了兩次，你沒過馬路。",
+                        "延伸版：口袋裡多了一張沒用的發票，你竟然覺得有點安心。"
+                    ]
+                },
+                "en": {
+                    "content": "Out the school gate, you tuck the admission ticket into your jacket's inner pocket and your fingertips brush a receipt from last week. You squeeze it once and put it back. The light at the gate turns green twice, and you stand there both times.",
+                    "editorNote": "For the blank stretch after an exam, when the head is empty and the feet don't want to go anywhere.",
+                    "variations": [
+                        "Short: Two green lights, and you never crossed.",
+                        "Extended: A useless receipt in your pocket, and somehow it feels a little reassuring."
+                    ]
+                }
+            }
         }
   ]
 }

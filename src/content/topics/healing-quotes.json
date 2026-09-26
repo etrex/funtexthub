@@ -12714,6 +12714,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-524",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄休息與自我關懷語錄；改寫成門後便條。",
+      "tags": [
+        "療癒",
+        "休息",
+        "情緒",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "便條貼在門後：\n這週「假裝沒事」的額度已經用完。\n剩下的日子，累了可以直接說累。\n不必一次講完，講一句就夠了。",
+          "editorNote": "適合寫給硬撐一整週的自己，或貼給朋友。",
+          "variations": [
+            "短版：假裝沒事的額度用完了，累了就說一句。",
+            "延伸版：不用一次講完，講一句也算開口。"
+          ]
+        },
+        "en": {
+          "content": "Note on the back of the door:\nThis week's allowance of pretending to be fine is used up.\nFor the rest of the days, you may say you're tired when you're tired.\nYou don't have to say it all at once, one sentence is enough.",
+          "editorNote": "For someone who has been holding it together all week.",
+          "variations": [
+            "Short version: The pretending-to-be-fine allowance ran out. Say you're tired.",
+            "Longer version: You needn't say it all at once. One sentence still counts as speaking up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-525",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄休息是必要而非奢侈的語錄；改寫成兌換通知。",
+      "tags": [
+        "療癒",
+        "休息",
+        "自我照顧",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "領取截止：週日晚上。\n你欠自己的那半天休息，還沒兌換。\n還剩兩天。\n要帶的東西：一個沒有待辦事項的下午。\n兌換地點：床上或沙發，都可以。",
+          "editorNote": "給總是把休息往後延的人。",
+          "variations": [
+            "短版：欠自己的半天休息，週日晚上截止兌換。",
+            "延伸版：兌換只需要一個空下午，地點床上沙發都行。"
+          ]
+        },
+        "en": {
+          "content": "Pickup deadline: Sunday night.\nThe half day of rest you owe yourself hasn't been redeemed.\nTwo days left.\nWhat to bring: one afternoon with nothing on the to-do list.\nWhere to redeem: bed or couch, either works.",
+          "editorNote": "For people who keep pushing rest to later.",
+          "variations": [
+            "Short version: Your owed half day of rest closes Sunday night.",
+            "Longer version: Redeeming it takes one empty afternoon, on the bed or the couch."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-526",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄自我關懷語錄；改寫成條列通知。",
+      "tags": [
+        "療癒",
+        "清單",
+        "情緒",
+        "接住自己"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 通知對象：一直說沒事的你\n— 有效到：真的好一點為止\n— 可以先做：把手機扣在桌上\n— 可以晚點做：回那則已讀的訊息\n— 兌換方式：深呼吸三次就算數",
+          "editorNote": "給需要一張具體小清單來喘口氣的人。",
+          "variations": [
+            "短版：對象是你，有效到好一點為止，深呼吸三次就算數。",
+            "延伸版：先把手機扣著，那則已讀的訊息可以晚點回。"
+          ]
+        },
+        "en": {
+          "content": "— Addressed to: you, who keeps saying you're fine.\n— Valid until: you actually feel a bit better.\n— Do first: put your phone face down on the desk.\n— Do later: answer that message you've already read.\n— How to redeem: three deep breaths count.",
+          "editorNote": "For someone who needs a small concrete list to breathe.",
+          "variations": [
+            "Short version: Valid for you until you feel better, and three breaths count.",
+            "Longer version: Flip the phone over first; the read message can wait."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-527",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄挫折是故事一部分的語錄；改寫成自動續約通知。",
+      "tags": [
+        "療癒",
+        "重新開始",
+        "情緒",
+        "接住自己"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "重新開始的資格，今天自動續約。\n你上週退步了兩步，系統顯示資格沒有失效。\n還剩無限多天。\n走得慢，也算有在走。",
+          "editorNote": "給覺得自己又退步的人。",
+          "variations": [
+            "短版：退步兩步，資格沒失效，今天自動續約。",
+            "延伸版：走得慢也算有在走，天數還多得很。"
+          ]
+        },
+        "en": {
+          "content": "Your right to start over renewed automatically today.\nYou slid back two steps last week, and the system shows the right has not lapsed.\nDays remaining: unlimited.\nWalking slowly is still walking.",
+          "editorNote": "For someone who feels they've slipped backward again.",
+          "variations": [
+            "Short version: Two steps back, and the right to restart still renewed today.",
+            "Longer version: Slow still counts as walking, and there are plenty of days left."
+          ]
+        }
+      }
     }
   ]
 }

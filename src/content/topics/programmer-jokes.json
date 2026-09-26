@@ -15471,6 +15471,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-565",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://contextqa.com/blog/flaky-tests-in-ci-cd-without-retries/",
+      "sourceNote": "ContextQA 談以重試換來綠燈的不穩定測試，改寫成第二人稱短場景",
+      "tags": [
+        "測試",
+        "CI",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "紅燈亮起，你按下重新執行。綠燈回來了，你沒有點開日誌，直接按下合併。三個月後，同一個測試在正式環境紅了一次，沒有人再按重新執行。",
+          "editorNote": "給靠重跑讓建置變綠的工程師。",
+          "variations": [
+            "短版：重新執行是最便宜的修復，利息到正式環境才收。",
+            "延伸版：你的測試不會說謊，它只是每次說的不一樣。"
+          ]
+        },
+        "en": {
+          "content": "The light goes red, and you hit rerun. Green comes back, you skip the logs, and you merge. Three months later the same test goes red in production, and nobody gets a rerun this time.",
+          "editorNote": "For engineers whose builds only turn green after a rerun.",
+          "variations": [
+            "Short version: Rerun is the cheapest fix, and production collects the interest.",
+            "Extended: Your tests never lie, they just tell a different story each run."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-566",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://dev.to/shalvah/understanding-lockfiles-1m10",
+      "sourceNote": "DEV Community 談鎖定檔的文章，改寫成一次 install 造成大量變動的條列",
+      "tags": [
+        "依賴",
+        "Git",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你在終端機輸入 npm install\n— 鎖定檔多出三千行變動\n— 你全部提交，訊息寫「小修」\n— 隔天同事的電腦跑不起來\n— 你回覆「我這邊沒問題」",
+          "editorNote": "給把鎖定檔當背景雜訊的人。",
+          "variations": [
+            "短版：小修的提交訊息，三千行的鎖定檔。",
+            "延伸版：你的電腦沒問題，因為它是唯一照鎖定檔跑的那台。"
+          ]
+        },
+        "en": {
+          "content": "— You type npm install into the terminal.\n— The lockfile grows by three thousand changed lines.\n— You commit all of it with the message \"minor fix\".\n— The next day your teammate's machine refuses to start.\n— You reply, \"Works on my end.\"",
+          "editorNote": "For anyone who treats the lockfile as background noise.",
+          "variations": [
+            "Short version: A tiny commit message, a three-thousand-line lockfile.",
+            "Extended: Your machine is fine, since it's the only one that ran from the lockfile."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-567",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.test-lab.ai/blog/flaky-tests-guide",
+      "sourceNote": "Test-Lab 談長期被跳過的測試與暫時性設定，改寫成 TODO 旗標的場景",
+      "tags": [
+        "技術債",
+        "TODO",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在設定檔裡加了一個暫時關掉檢查的旗標，旁邊寫上 TODO 和自己的名字。三年過去，註解的字跡沒變，只有你的職稱換了兩次。新人翻到這行，問你能不能刪。你說先別動，動了可能有人發現它其實撐著整個系統。",
+          "editorNote": "給留過暫時方案的資深工程師。",
+          "variations": [
+            "短版：TODO 上面的名字，比職稱活得久。",
+            "延伸版：暫時的東西通常最長壽，因為沒人敢動。"
+          ]
+        },
+        "en": {
+          "content": "You add a flag to the config that switches off a check for now, and write TODO next to your own name. Three years pass, the comment hasn't changed, and only your job title has, twice. A new hire finds the line and asks if it can go. You say leave it, because someone might discover it's holding the whole system up.",
+          "editorNote": "For seniors who have left a temporary fix behind.",
+          "variations": [
+            "Short version: The name on the TODO outlives the job title.",
+            "Extended: Temporary things live longest because nobody dares to touch them."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-568",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://dev.to/lirantal/so-you-think-youre-just-gonna-npm-install-think-again-lh4",
+      "sourceNote": "DEV Community 談 npm install 與部署風險，改寫成週五部署的第二人稱短場景",
+      "tags": [
+        "部署",
+        "週五",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你按下部署鈕的時候，是週五的四點五十九分。進度條走到九成便停住。你盯著它，開始計算週末有幾個行程可以取消。",
+          "editorNote": "給不該在週五部署卻還是部署的人。",
+          "variations": [
+            "短版：九成的進度條，一百趟週末的行程。",
+            "延伸版：週五的部署沒有失敗，只是週一才有人發現。"
+          ]
+        },
+        "en": {
+          "content": "At 4:59 on a Friday afternoon, you hit deploy. The progress bar reaches ninety percent and stops. You stare at it and start counting how many weekend plans you can cancel.",
+          "editorNote": "For those who know better than to deploy on Fridays and do it anyway.",
+          "variations": [
+            "Short version: A ninety percent progress bar, and a weekend on the line.",
+            "Extended: Friday deploys don't fail, someone just notices on Monday."
+          ]
+        }
+      }
     }
   ]
 }

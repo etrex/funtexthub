@@ -15352,6 +15352,82 @@
           "variations": ["Short version: You set seven alarms, and it's unclear whether that's to wake up or to have enough chances not to."]
         }
       }
+    },
+    {
+      "id": "aw-584",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為撕封箱膠帶的動作特寫",
+      "tags": ["廢話文學", "日常", "網購"],
+      "i18n": {
+        "zh-tw": {
+          "content": "紙箱上的膠帶纏了三圈，你用指甲找到那個翹起來的角，撕下去。\n膠帶撕了十公分就斷了，你又找一次角，再撕十公分，又斷了。\n第四次找角的時候，你改用鑰匙，箱子開了，裡面裝的是另一個更小的箱子。",
+          "editorNote": "拆包裹拆到一半、被膠帶惹到的人可以用",
+          "variations": ["短版：膠帶撕不開的時候，最快的方法是拿剪刀，而剪刀通常在箱子裡。"]
+        },
+        "en": {
+          "content": "The tape on the box goes around three times, so you find the lifted corner with a fingernail and pull.\nThe tape tears ten centimeters and snaps, so you find a corner again, pull another ten, and it snaps again.\nOn the fourth corner you switch to a key, the box opens, and inside is a smaller box.",
+          "editorNote": "For anyone halfway through unboxing a parcel and losing to the tape",
+          "variations": ["Short version: When tape won't tear, the fastest tool is scissors, and the scissors are usually inside the box."]
+        }
+      }
+    },
+    {
+      "id": "aw-585",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為收傘動作分解",
+      "tags": ["廢話文學", "天氣", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你收傘的順序是這樣\n— 先按開關，傘骨縮回來\n— 甩兩下，水珠掉在鞋面\n— 用魔鬼氈綁好，綁到第二圈\n— 插進傘桶，傘柄朝上\n— 出門時拿的是隔壁那把",
+          "editorNote": "下雨天出門、收傘、找傘的時候可以用",
+          "variations": ["延伸版：傘收好了，雨也停了，兩件事同一時間完成，只是誰先誰後沒人記得。"]
+        },
+        "en": {
+          "content": "Here is how you close an umbrella\n— Press the button, and the ribs fold in.\n— Shake it twice, and the drops land on your shoes.\n— Wrap the strap, all the way to the second loop.\n— Slide it into the stand, handle up.\n— On the way out, you pick up the one next to it.",
+          "editorNote": "For rainy days, closing umbrellas, or hunting for the right one",
+          "variations": ["Extended version: The umbrella is folded and the rain has stopped, both finished at the same moment, though nobody remembers which came first."]
+        }
+      }
+    },
+    {
+      "id": "aw-586",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為撕調味包的動作特寫",
+      "tags": ["廢話文學", "飲食", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "泡麵的醬包上有一個缺口，缺口旁邊印著「由此撕開」。\n你捏住缺口往下扯，扯到一半，醬包從側邊裂開，醬汁噴到手背。\n你低頭看，缺口還好端端在那裡，一點都沒有被用到。",
+          "editorNote": "被包裝上的說明騙過、撕醬包失敗的人可以用",
+          "variations": ["短版：由此撕開，意思是撕別的地方也會開，只是開的方式不一樣。"]
+        },
+        "en": {
+          "content": "The sauce packet has a notch, and next to the notch it says \"Tear here.\"\nYou pinch the notch and pull down, and halfway through the packet splits from the side and sauce hits the back of your hand.\nYou look down, and the notch is sitting there untouched, not used at all.",
+          "editorNote": "For anyone who has lost a fight with a sauce packet or misleading packaging",
+          "variations": ["Short version: Tear here means tearing anywhere else works too, just in a different way."]
+        }
+      }
+    },
+    {
+      "id": "aw-587",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為拉行李箱拉鍊的動作特寫",
+      "tags": ["廢話文學", "旅行", "生活"],
+      "i18n": {
+        "zh-tw": {
+          "content": "行李箱的拉鍊拉到一半卡住，你把箱子壓在膝蓋上，往回拉兩公分，再往前推三公分。\n拉鍊過了那個卡點，你順勢拉到底，動作一氣呵成。\n你抬起頭，發現剛才壓著的東西是一隻襪子，它現在在箱子外面。",
+          "editorNote": "打包行李、行李塞太滿的時候可以用",
+          "variations": ["短版：行李箱關得起來的時候，代表有東西被留在外面了。"]
+        },
+        "en": {
+          "content": "The suitcase zipper jams halfway, so you press the case against your knee, pull back two centimeters, then push forward three.\nThe zipper clears the snag, and you run it all the way around in one smooth motion.\nYou look up and realize the thing you were pressing on was a sock, and it is now outside the suitcase.",
+          "editorNote": "For packing a bag that's already too full",
+          "variations": ["Short version: When the suitcase closes, it means something got left outside."]
+        }
+      }
     }
 
   ]

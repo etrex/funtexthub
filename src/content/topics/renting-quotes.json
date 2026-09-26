@@ -13061,6 +13061,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-458",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取搬家、退租點交的情境，天氣＋動作改寫，內容為原創",
+      "tags": ["搬家", "退租", "下雨", "鑰匙"],
+      "i18n": {
+        "zh-tw": {
+          "content": "搬家卡車來的那天下著雨。紙箱疊在門邊，最上面那箱被雨點打出一圈一圈的深色。我用膠帶補了兩層，又補了一層，把鑰匙放在鞋櫃上，雨還沒停。",
+          "editorNote": "給正在退租、不想多說什麼的人，一則只有雨和膠帶的畫面",
+          "variations": [
+            "短版：雨下著，我把同一個紙箱貼了三遍膠帶。",
+            "延伸版：鑰匙放下去的聲音很輕，輕到我又拿起來放了一次。"
+          ]
+        },
+        "en": {
+          "content": "It rained the day the moving truck came. The boxes were stacked by the door, and the top one had dark rings spreading where the drops landed. I taped it over twice, then once more, and left the key on the shoe cabinet. The rain hadn't stopped.",
+          "editorNote": "For anyone mid move-out who doesn't want to say much; just rain and packing tape",
+          "variations": [
+            "Short: It rained, and I taped the same box three times.",
+            "Extended: The key made so little noise on the cabinet that I picked it up and set it down again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-459",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取租屋漏水潮濕的日常情境，以天氣清單改寫，內容為原創",
+      "tags": ["漏水", "颱風", "潮濕", "租屋日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 颱風外圍的第三天\n— 窗框滲出一條水線\n— 我拿抹布沿著水線壓過去\n— 抹布擰了四次\n— 窗外的雲一直沒換位置",
+          "editorNote": "給租屋處一遇到大雨就滲水的人，只記天氣和抹布",
+          "variations": [
+            "短版：颱風第三天，抹布擰了四次，雲沒動。",
+            "延伸版：水線退到窗框下緣的時候，我把抹布掛在椅背上，讓它自己慢慢乾。"
+          ]
+        },
+        "en": {
+          "content": "— Day three at the edge of the typhoon.\n— A line of water seeps out of the window frame.\n— I press a rag along it.\n— The rag gets wrung out four times.\n— The clouds outside haven't moved.",
+          "editorNote": "For renters whose place leaks whenever it pours; only weather and a rag",
+          "variations": [
+            "Short: Typhoon day three, four wrung rags, clouds unmoved.",
+            "Extended: When the water line sank below the frame, I hung the rag on a chair back and let it dry on its own."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-460",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取收到掛號招領單的情境，以起霧天氣＋動作改寫，內容為原創",
+      "tags": ["掛號信", "房東", "霧", "信件"],
+      "i18n": {
+        "zh-tw": {
+          "content": "起霧的早上，我在租屋處門邊站了一會兒，看不見對面那棟。信箱裡有一張掛號招領單，我看了正面，又看了反面。霧散到看得見對面招牌時，我把信塞進外套口袋，還沒拆。",
+          "editorNote": "給收到房東或代管公司來信、還沒有勇氣拆開的租客",
+          "variations": [
+            "短版：霧散之前，信在我手裡翻了兩面。",
+            "延伸版：招牌的字一個一個浮出來，信封在口袋裡一直沒有動。"
+          ]
+        },
+        "en": {
+          "content": "On a foggy morning I stood by the door for a while, unable to see the building across the street. There was a registered-mail slip in the mailbox, and I turned it over and back again. When the fog thinned enough to show the sign across the way, I slid the letter into my coat pocket, still sealed.",
+          "editorNote": "For tenants holding a letter from the landlord or property manager they haven't opened yet",
+          "variations": [
+            "Short: Before the fog lifted, the letter was flipped twice in my hands.",
+            "Extended: The characters on the sign surfaced one by one, and the envelope stayed put in my pocket."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-461",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取小套房晾曬空間有限的租屋日常，以大風天氣改寫，內容為原創",
+      "tags": ["晾衣服", "小套房", "風", "租屋日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "風很大的下午，我把床單掛在窗邊的伸縮桿上。床單鼓起來，拍在玻璃上，拍了七次，夾子飛了。我蹲下去撿，撿了三支，床單已經自己掉到地板上。",
+          "editorNote": "給住小套房、晾衣空間只有一支伸縮桿的租客",
+          "variations": [
+            "短版：風大，床單拍了玻璃七次，夾子先走了。",
+            "延伸版：我把三支夾子握在手心，看著床單躺在地板上，窗戶還開著。"
+          ]
+        },
+        "en": {
+          "content": "On a very windy afternoon I hung a bedsheet on the tension rod by the window. It swelled, slapped the glass seven times, and a clothespin flew off. I crouched to collect them, got three, and by then the sheet had dropped to the floor by itself.",
+          "editorNote": "For studio renters whose whole drying space is one tension rod",
+          "variations": [
+            "Short: Strong wind, seven slaps on the glass, and the pins left first.",
+            "Extended: I held three clothespins in my palm and watched the sheet lie on the floor, the window still open."
+          ]
+        }
+      }
     }
   ]
 }

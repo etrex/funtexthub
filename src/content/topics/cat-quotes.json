@@ -15274,6 +15274,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ct-518",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://dnascience.plos.org/2026/03/19/the-curious-genetics-of-purring-and-meowing/",
+      "sourceNote": "DNA Science article on purring and meowing genetics",
+      "tags": [
+        "貓咪",
+        "呼嚕",
+        "聲音",
+        "辨認"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 每隻貓的呼嚕，頻率不太一樣\n— 節奏也各有各的習慣\n— 研究說，呼嚕比喵喵更像簽名\n— 你家那隻是低沉的，還是像小馬達？\n— 閉上眼睛，你聽得出是哪一隻嗎？",
+          "editorNote": "適合貓奴聊天時拋出的小問題。把研究結論變成一個能當場測試的遊戲，留給對方自己回答。",
+          "variations": [
+            "短版：呼嚕比喵喵更有個人特色。",
+            "延伸版：研究指出，貓的呼嚕帶著個體差異。如果錄下三隻貓的呼嚕，你分得出哪一段是自家的嗎？"
+          ]
+        },
+        "en": {
+          "content": "— Every cat's purr has its own pitch.\n— The rhythm has its own habits too.\n— Researchers say a purr works more like a signature than a meow.\n— Is yours a low rumble, or a tiny motor?\n— With your eyes shut, could you pick out which cat it is?",
+          "editorNote": "A conversation starter for cat people. It turns a research finding into a game the listener can try at home and answer on the spot.",
+          "variations": [
+            "Short version: A purr carries more personal detail than a meow.",
+            "Extended version: Studies suggest each cat's purr differs from the next. Play back recordings of three cats, and could you tell which one lives with you?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-519",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.science.org/content/article/how-do-cats-purr-new-finding-challenges-long-held-assumptions",
+      "sourceNote": "Science/AAAS article on how cats purr",
+      "tags": [
+        "貓咪",
+        "喉嚨",
+        "呼嚕",
+        "研究"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "貓的喉嚨裡，聲帶上長著一小塊脂肪墊，讓牠們能用很低的頻率震動。所以不需要每次都靠大腦下指令，牠也能咕嚕咕嚕地響一整個下午。你躺在沙發上，牠趴在你胸口，那個震動一路傳到你的肋骨。牠的聲帶上那塊墊子，到底有多大顆？",
+          "editorNote": "適合搭配貓趴胸口的照片。最後一句是具體的問題，留給留言區的獸醫系朋友接話。",
+          "variations": [
+            "短版：貓的聲帶上有脂肪墊，才能發出低頻呼嚕。",
+            "延伸版：科學家發現貓的聲帶長了特別的脂肪墊，震動頻率因此壓得很低。那塊墊子，究竟有幾毫米厚？"
+          ]
+        },
+        "en": {
+          "content": "Inside a cat's throat, its vocal cords carry small fatty pads that let them vibrate at very low frequencies. That means a purr can keep going all afternoon without fresh orders from the brain each time. You lie on the couch, it settles on your chest, and the rumble travels straight into your ribs. How many millimeters thick is that pad on the vocal cord, anyway?",
+          "editorNote": "Pair it with a photo of a cat on someone's chest. The closing question is a concrete one, left open for the vet-school friend in the comments.",
+          "variations": [
+            "Short version: Fatty pads on the vocal cords let cats purr at low pitch.",
+            "Extended version: Scientists found cats have special fatty pads on their vocal cords, keeping the vibration low. How thick is a pad like that, exactly?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-520",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.livescience.com/animals/domestic-cats/why-do-cats-bring-home-dead-animals",
+      "sourceNote": "Live Science on cats bringing prey home",
+      "tags": [
+        "貓咪",
+        "獵物",
+        "玄關",
+        "習性"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "清晨六點，玄關的地墊上躺著一隻蜥蜴。貓坐在旁邊，尾巴繞著腳掌，一副剛交完貨的樣子。研究說，牠們把獵物帶回家，是因為家是最有安全感的地方，跟餓不餓沒有關係。你的貓昨晚是幾點出的門？",
+          "editorNote": "適合放養貓家庭或喜歡貓咪習性的貼文。結尾問的是時間，不是感受，很適合當留言區的接龍題。",
+          "variations": [
+            "短版：貓把獵物帶回家，因為家最安全。",
+            "延伸版：地墊上的戰利品，是牠覺得這裡最安全才拖回來的。牠是幾點出門、幾點回來的？"
+          ]
+        },
+        "en": {
+          "content": "At six in the morning a lizard lies on the doormat. The cat sits beside it with its tail wrapped around its paws, looking like a courier who just made a drop. Researchers say cats haul prey home because home feels safest, not because they're hungry. What time did yours slip out last night?",
+          "editorNote": "Good for posts from outdoor-cat households or anyone into feline habits. The ending asks for a time, not a feeling, which works well as a comment-thread prompt.",
+          "variations": [
+            "Short version: Cats bring prey home because home feels safest.",
+            "Extended version: The trophy on the mat was dragged there because this is where the cat feels secure. What time did it go out, and when did it come back?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-521",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.dutch.com/blogs/cats/cat-bunting",
+      "sourceNote": "Dutch blog on cat bunting",
+      "tags": [
+        "貓咪",
+        "頭槌",
+        "氣味",
+        "撒嬌"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 貓用額頭頂你的小腿\n— 那不只是撒嬌，也在蓋味道章\n— 臉頰和額頭有氣味腺\n— 你的褲管、桌角、椅子都被蓋過\n— 今天的第一個章，蓋在哪個位置？",
+          "editorNote": "適合貓奴日常分享。用條列把頭槌的機制講清楚，最後一行問一個可以馬上去觀察的位置。",
+          "variations": [
+            "短版：貓的頭槌，是用臉上的氣味腺蓋章。",
+            "延伸版：頭槌是氣味溝通。你家的哪一個家具角落，被牠蓋過最多次？"
+          ]
+        },
+        "en": {
+          "content": "— The cat bumps your shin with its forehead.\n— It's affection, and also a scent stamp.\n— Cheeks and forehead hold scent glands.\n— Your pant leg, the table corner, the chair: all marked.\n— Where did today's first stamp land?",
+          "editorNote": "For everyday cat-owner posts. The list lays out how bunting works, and the last line asks about a spot you can go and check right now.",
+          "variations": [
+            "Short version: A headbutt is a stamp made by the scent glands on a cat's face.",
+            "Extended version: Bunting is scent communication. Which corner of your furniture has been marked the most?"
+          ]
+        }
+      }
     }
   ]
 }

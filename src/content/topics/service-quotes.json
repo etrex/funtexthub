@@ -13072,6 +13072,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-471",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "東森新聞報導店員與客人一來一往的趣味對話。改寫成乾洗店談污漬的純對白。",
+      "tags": ["服務業", "對白", "乾洗店", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這塊漬洗得掉嗎？」\n「哪一天沾到的？」\n「大概上週三，我一直掛在椅背上。」\n「那它已經住了九天，要先請它搬家。」\n「多少錢？」\n「兩百八，搬家費。」",
+          "editorNote": "污漬越舊越難處理是真的，只是店員講得比較有畫面。適合貼給常拖著不送洗的朋友。",
+          "variations": [
+            "短版：漬住了九天，洗它要收搬家費。",
+            "延伸版：客人問洗不洗得掉，店員先問它住多久，這行的經驗都在那一問。"
+          ]
+        },
+        "en": {
+          "content": "\"Will this stain come out?\"\n\"What day did it show up?\"\n\"Around last Wednesday. It's been on the chair back since.\"\n\"So it's been living there nine days. We'll have to ask it to move.\"\n\"How much?\"\n\"Two eighty. Moving fee.\"",
+          "editorNote": "Older stains really are harder, the clerk just says it more vividly. Good to send to the friend who always delays the dry cleaner.",
+          "variations": [
+            "Short: The stain has lived there nine days, so removing it costs a moving fee.",
+            "Longer: The customer asks if it will come out and the clerk asks how long it has been there, which is the whole trade in one question."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-472",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "同一則報導的客人與店員互動。改寫成花店裡替人挑花束的對白。",
+      "tags": ["服務業", "對白", "花店", "溫暖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「要包成什麼樣子？」\n「看起來像我有認真挑過的。」\n「你有認真挑過嗎？」\n「我在門口站了四分鐘，算嗎？」\n「算，我幫你多加一枝尤加利。」",
+          "editorNote": "很多人買花只是想讓對方覺得被放在心上，店員都懂。適合寫給準備買花的人。",
+          "variations": [
+            "短版：站了四分鐘就算認真，店員多送一枝葉子。",
+            "延伸版：客人要的是看起來用心，店員給的是真的用心，中間只差一枝尤加利。"
+          ]
+        },
+        "en": {
+          "content": "\"How would you like it wrapped?\"\n\"So it looks like I picked it out carefully.\"\n\"Did you pick it out carefully?\"\n\"I stood at the door for four minutes. Does that count?\"\n\"It counts. I'll add a sprig of eucalyptus.\"",
+          "editorNote": "Most people buying flowers just want the other person to feel kept in mind, and florists know it. For anyone about to buy a bouquet.",
+          "variations": [
+            "Short: Four minutes at the door counts as care, and the florist throws in a sprig.",
+            "Longer: The customer wanted it to look thoughtful, the florist made it so, and the difference was one sprig of eucalyptus."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-473",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "同一則報導的簡短問答節奏。改寫成手機貼膜攤位的對白。",
+      "tags": ["服務業", "對白", "手機貼膜", "幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「貼膜要滿版還是半版？」\n「哪個比較不會被我摔壞？」\n「這個要問你的手。」\n「那兩個都貼。」\n「兩個都貼會有氣泡。」\n「氣泡我可以。」",
+          "editorNote": "客人怕摔是真的，老闆只能誠實回答。適合手機常掉地上的人。",
+          "variations": [
+            "短版：怕摔就貼兩層，多了氣泡也認了。",
+            "延伸版：膜再厚也擋不住手滑，老闆只好把問題丟回手上。"
+          ]
+        },
+        "en": {
+          "content": "\"Full coverage or half?\"\n\"Which one survives me dropping it?\"\n\"You'd have to ask your hands.\"\n\"Then put both on.\"\n\"Both means bubbles.\"\n\"I can live with bubbles.\"",
+          "editorNote": "The fear of dropping it is real, and the vendor can only answer honestly. For anyone whose phone keeps meeting the floor.",
+          "variations": [
+            "Short: Afraid of drops, so two layers, bubbles and all.",
+            "Longer: No film is thick enough for a slipping grip, so the vendor hands the question back to the hands."
+          ]
+        }
+      }
+    },
+    {
+      "id": "svc-474",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "同一則報導的客人與店員對話節奏。改寫成影印店裝訂位置的對白。",
+      "tags": ["服務業", "對白", "影印店", "溝通"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這份要印三十張，雙面。」\n「要釘起來嗎？」\n「釘，但不要釘到字。」\n「字在角落我沒辦法保證。」\n「那你釘在中間。」\n「中間是標題。」",
+          "editorNote": "釘書針總得落在某個地方，每一頁都有字，也是店員的日常兩難。適合印報告的人。",
+          "variations": [
+            "短版：釘哪裡都會碰到字，影印店只能挑一個字少的。",
+            "延伸版：角落有字，中間有標題，釘書針卻只有一根。"
+          ]
+        },
+        "en": {
+          "content": "\"Thirty copies of this, double-sided.\"\n\"Want it stapled?\"\n\"Yes, but not through the text.\"\n\"I can't promise anything about the corners.\"\n\"Then staple it in the middle.\"\n\"The middle is the title.\"",
+          "editorNote": "A staple has to land somewhere and every page has words on it, an everyday dilemma for the clerk. For anyone printing a report.",
+          "variations": [
+            "Short: Every spot has text, so the shop picks the emptiest one.",
+            "Longer: The corners have words, the middle has the title, and there is only one staple."
+          ]
+        }
+      }
     }
   ]
 }

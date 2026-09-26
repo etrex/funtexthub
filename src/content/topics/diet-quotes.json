@@ -14382,6 +14382,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-510",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考外食減脂的進食順序與蔬菜份量建議，改寫成兩人對白",
+      "tags": [
+        "飲食",
+        "進食順序",
+        "自助餐",
+        "對白"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「青菜先上，可以嗎？」\n「可以，肉呢？」\n「肉排第二個。」\n「飯呢？」\n「最後才碰，涼了也沒關係。」\n「涼的比較不會添第二碗，對吧？」",
+          "editorNote": "想描述照著先菜後肉再澱粉的順序吃、還替自己設計小機關時使用",
+          "variations": [
+            "短版：青菜先上，肉第二，飯最後，涼了更好。",
+            "延伸版：順序排好，連飯的溫度都算進去，因為涼的不容易添第二碗。"
+          ]
+        },
+        "en": {
+          "content": "\"Vegetables go first, okay?\"\n\"Sure. And the meat?\"\n\"Meat comes second.\"\n\"The rice?\"\n\"Last, and I don't mind if it's cold.\"\n\"Cold rice makes a second bowl less likely, right?\"",
+          "editorNote": "For an ordering routine of greens, then protein, then starch, with a little trap built in",
+          "variations": [
+            "Short: Vegetables first, meat second, rice last, and cold is better.",
+            "Extended: The order is set, and even the rice temperature is counted, since cold rice rarely earns a second bowl."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-511",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考外食減脂的進食順序與蔬菜份量建議，改寫成兩人對白",
+      "tags": [
+        "飲食",
+        "營養師",
+        "蔬菜",
+        "對白"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這週的青菜，一天吃幾份？」\n「三份，週二只有一份半。」\n「半份是怎麼算的？」\n「漢堡裡那片生菜，撕成兩半。」\n「生菜的另一半在哪裡？」\n「掉在桌上，我有撿起來。」",
+          "editorNote": "適合形容回報飲食紀錄時，把數字算得很寬鬆的心虛",
+          "variations": [
+            "短版：一天三份青菜，週二那份半的來源是漢堡生菜。",
+            "延伸版：營養師追問半份怎麼算，答案是一片撕開的生菜，而且有撿起來。"
+          ]
+        },
+        "en": {
+          "content": "\"How many servings of vegetables a day this week?\"\n\"Three. Tuesday was only one and a half.\"\n\"How did you get the half?\"\n\"The lettuce leaf in the burger, torn in two.\"\n\"Where's the other half of the lettuce?\"\n\"It fell on the table. I picked it up.\"",
+          "editorNote": "For the guilty looseness of rounding up your food log",
+          "variations": [
+            "Short: Three vegetable servings a day, and Tuesday's half came from burger lettuce.",
+            "Extended: Pressed on the half serving, the answer is one torn lettuce leaf, and yes, it was picked up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-512",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考外食減脂的進食順序與蔬菜份量建議，改寫成兩人對白",
+      "tags": [
+        "飲食",
+        "手搖飲",
+        "無糖",
+        "對白"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你的飲料半糖還是微糖？」\n「無糖，但我加了兩顆珍珠。」\n「兩顆珍珠有多少熱量你知道嗎？」\n「不知道，所以我只加兩顆。」\n「杯底還有幾顆？」\n「二十三顆，我打算留給下一杯。」",
+          "editorNote": "想笑自己點了無糖卻補上配料的自我安慰時使用",
+          "variations": [
+            "短版：無糖加兩顆珍珠，杯底還剩二十三顆，留給下一杯。",
+            "延伸版：問起熱量就說不知道，所以只加兩顆，剩下的存起來下次用。"
+          ]
+        },
+        "en": {
+          "content": "\"Is your drink half sugar or light sugar?\"\n\"No sugar, but I added two pearls.\"\n\"Do you know how many calories two pearls have?\"\n\"No, which is why I only added two.\"\n\"How many are left at the bottom?\"\n\"Twenty-three. I'm saving them for the next cup.\"",
+          "editorNote": "For laughing at ordering no sugar and then adding toppings anyway",
+          "variations": [
+            "Short: No sugar, two pearls, twenty-three saved for the next cup.",
+            "Extended: Asked about calories, the answer is unknown, so just two pearls, with the rest stored for next time."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-513",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考外食減脂的進食順序與蔬菜份量建議，改寫成兩人對白",
+      "tags": [
+        "飲食",
+        "低鹽",
+        "煮飯",
+        "對白"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「今晚的湯，鹽只放一小撮。」\n「一小撮是幾根手指？」\n「三根，你別用五根。」\n「我的手比較大。」\n「那你就只能用兩根。」\n「手大也要被罰嗎？」",
+          "editorNote": "適合描述家中低鹽料理時，對一小撮定義的爭論",
+          "variations": [
+            "短版：一小撮鹽是三根手指，手大的人只能用兩根。",
+            "延伸版：低鹽湯的鹽量靠手指計算，手比較大反而被扣名額。"
+          ]
+        },
+        "en": {
+          "content": "\"For tonight's soup, just a small pinch of salt.\"\n\"How many fingers is a pinch?\"\n\"Three. Don't use five.\"\n\"My hands are bigger.\"\n\"Then you only get two fingers.\"\n\"Do big hands get punished too?\"",
+          "editorNote": "For household arguments over what a pinch of salt means in low-sodium cooking",
+          "variations": [
+            "Short: A pinch of salt is three fingers, and bigger hands only get two.",
+            "Extended: The salt in a low-sodium soup is counted in fingers, and bigger hands lose a finger."
+          ]
+        }
+      }
     }
   ]
 }

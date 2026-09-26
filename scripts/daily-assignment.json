@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "min_scene_items": 0,
   "first_batch": [],
   "ordinal_allowed": [
@@ -42,137 +42,136 @@
     "好市多",
     "補休",
     "國慶",
-    "重陽"
+    "重陽",
+    "秋天",
+    "入秋"
   ],
   "topics": {
     "absurd-wisdom": {
-      "frame": "F7"
-    },
-    "adulting-quotes": {
-      "frame": "F1"
-    },
-    "breakup-quotes": {
       "frame": "F3"
     },
+    "adulting-quotes": {
+      "frame": "F7"
+    },
+    "breakup-quotes": {
+      "frame": "F14"
+    },
     "cat-quotes": {
-      "frame": "F5"
-    },
-    "cdrama-period-quotes": {
-      "frame": "F9"
-    },
-    "cheesy-pickups": {
-      "frame": "F12"
-    },
-    "cold-jokes": {
-      "frame": "F9"
-    },
-    "concert-ticket-quotes": {
       "frame": "F6"
     },
+    "cdrama-period-quotes": {
+      "frame": "F2"
+    },
+    "cheesy-pickups": {
+      "frame": "F4"
+    },
+    "cold-jokes": {
+      "frame": "F12"
+    },
+    "concert-ticket-quotes": {
+      "frame": "F2"
+    },
     "couple-jokes": {
-      "frame": "F9"
+      "frame": "F1"
     },
     "dark-humor": {
       "frame": "F15"
     },
     "diet-quotes": {
-      "frame": "F14"
-    },
-    "dog-quotes": {
-      "frame": "F11"
-    },
-    "drama-binge-quotes": {
       "frame": "F4"
     },
+    "dog-quotes": {
+      "frame": "F5"
+    },
+    "drama-binge-quotes": {
+      "frame": "F9"
+    },
     "drama-quotes": {
-      "frame": "F7"
+      "frame": "F10"
     },
     "exam-quotes": {
-      "frame": "F12"
+      "frame": "F7"
     },
     "fathers-day-quotes": {
-      "frame": "F11"
+      "frame": "F10"
     },
     "fitness-quotes": {
-      "frame": "F10"
+      "frame": "F8"
     },
     "food-jokes": {
       "frame": "F15"
     },
     "graduation-quotes": {
-      "frame": "F6"
+      "frame": "F5"
     },
     "healing-quotes": {
       "frame": "F13"
     },
     "holiday-jokes": {
-      "frame": "F12"
-    },
-    "human-design-quotes": {
-      "frame": "F7"
-    },
-    "insomnia-quotes": {
-      "frame": "F11"
-    },
-    "korean-drama-quotes": {
-      "frame": "F4"
-    },
-    "mom-quotes": {
-      "frame": "F8",
-      "timely": "teachers-day-gift-voucher"
-    },
-    "motivational-quotes": {
-      "frame": "F14"
-    },
-    "pet-memorial-quotes": {
-      "frame": "F5"
-    },
-    "programmer-jokes": {
-      "frame": "F4"
-    },
-    "renting-quotes": {
-      "frame": "F2"
-    },
-    "self-love-quotes": {
-      "frame": "F8"
-    },
-    "service-quotes": {
-      "frame": "F2"
-    },
-    "slang-quotes": {
       "frame": "F1"
     },
-    "stock-investor-quotes": {
+    "human-design-quotes": {
+      "frame": "F8"
+    },
+    "insomnia-quotes": {
+      "frame": "F5"
+    },
+    "korean-drama-quotes": {
+      "frame": "F8"
+    },
+    "mom-quotes": {
+      "frame": "F6"
+    },
+    "motivational-quotes": {
+      "frame": "F11"
+    },
+    "pet-memorial-quotes": {
+      "frame": "F10"
+    },
+    "programmer-jokes": {
+      "frame": "F7"
+    },
+    "renting-quotes": {
+      "frame": "F14"
+    },
+    "self-love-quotes": {
+      "frame": "F11"
+    },
+    "service-quotes": {
+      "frame": "F4"
+    },
+    "slang-quotes": {
       "frame": "F2"
     },
-    "student-quotes": {
+    "stock-investor-quotes": {
       "frame": "F3"
     },
+    "student-quotes": {
+      "frame": "F6"
+    },
     "summer-electric-quotes": {
-      "frame": "F8"
+      "frame": "F14"
     },
     "sweet-quotes": {
       "frame": "F13"
     },
     "travel-quotes": {
-      "frame": "F14"
+      "frame": "F12"
     },
     "wedding-quotes": {
-      "frame": "F1"
+      "frame": "F9"
     },
     "witty-comebacks": {
-      "frame": "F10",
-      "timely": "teachers-day-gift-voucher"
+      "frame": "F11"
     },
     "workplace-quotes": {
-      "frame": "F10",
-      "timely": "teachers-day-gift-voucher"
+      "frame": "F12"
     },
     "worldcup-quotes": {
-      "frame": "F6"
+      "frame": "F1"
     },
     "zodiac-quotes": {
-      "frame": "F3"
+      "frame": "F9"
     }
   }
 }

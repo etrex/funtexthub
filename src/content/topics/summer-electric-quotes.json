@@ -11534,6 +11534,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-393",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "天氣",
+        "電風扇",
+        "午後",
+        "三十四度"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三十四度的午後，雲一動也不動。她把窗簾拉到只剩一條縫，電風扇轉到三檔，又轉回一檔。最後她把插頭拔掉，又插回去。",
+          "editorNote": "適合形容悶熱的午後，人在開與不開之間反覆猶豫的樣子。",
+          "variations": [
+            "短版：三十四度，雲沒動，她把電風扇的插頭拔了又插回去。",
+            "延伸版：窗簾只留一條縫，風扇從三檔轉回一檔，她的手一直沒離開插頭。"
+          ]
+        },
+        "en": {
+          "content": "At thirty-four degrees the afternoon clouds did not move. She pulled the curtain down to a single gap and turned the fan to three, then back to one. In the end she unplugged it and plugged it in again.",
+          "editorNote": "For a stuffy afternoon when someone keeps going back and forth on whether to run the fan.",
+          "variations": [
+            "Short: thirty-four degrees, still clouds, and she unplugged the fan and plugged it back in.",
+            "Extended: the curtain left open one gap, the fan going from three to one, her hand never leaving the plug."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-394",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "天氣",
+        "電費單",
+        "悶熱",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週四的天氣\n— 早上八點，日頭曬到餐桌邊緣\n— 中午，玻璃杯外的水珠滴出一圈\n— 傍晚，雲從西邊壓過來沒下雨\n— 晚上十點，他把電費單摺好收進抽屜",
+          "editorNote": "適合寫一天的悶熱與電費單，用一份天氣紀錄帶過去。",
+          "variations": [
+            "短版：日頭曬到餐桌邊，水珠滴出一圈，電費單摺好收進抽屜。",
+            "延伸版：雲壓過來卻沒下雨，那張電費單晚上十點被摺成四折。"
+          ]
+        },
+        "en": {
+          "content": "Thursday's weather:\n— Eight a.m., the sun reaches the edge of the table.\n— Noon, water beads drip a ring around the glass.\n— Evening, clouds press in from the west without rain.\n— Ten p.m., he folds the power bill and puts it in the drawer.",
+          "editorNote": "Works as a weather log for a heavy day that ends with the power bill.",
+          "variations": [
+            "Short: sun on the table edge, a ring of drips, the bill folded into a drawer.",
+            "Extended: clouds pressed in with no rain, and by ten the bill was folded into quarters."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-395",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "天氣",
+        "雷陣雨",
+        "收衣服",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雷聲滾過去，晾在外面的衣服被收進來八件。剩一隻襪子掉在地上，沒有人去撿。傍晚雨停了，地上的水還在，襪子也還在。",
+          "editorNote": "適合午後雷陣雨過後，想寫一點家裡的零碎動作時使用。",
+          "variations": [
+            "短版：雷聲過後收進八件衣服，一隻襪子留在地上。",
+            "延伸版：雨停了，水還在，襪子也還在，沒有人彎腰。"
+          ]
+        },
+        "en": {
+          "content": "Thunder rolled through, and eight pieces of laundry were brought in from outside. One sock fell on the floor and no one picked it up. By evening the rain had stopped, the water was still there, and so was the sock.",
+          "editorNote": "For after an afternoon thunderstorm, when you want small household movements to carry the day.",
+          "variations": [
+            "Short: eight items brought in after the thunder, one sock left on the ground.",
+            "Extended: the rain stopped, the water stayed, the sock stayed, and no one bent down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-396",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "天氣",
+        "夜晚",
+        "悶熱",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "悶熱的夜晚\n— 窗打開一半\n— 風停了\n— 電扇對著牆轉\n— 他翻身，把被子踢到腳邊\n— 天亮前，窗又關上",
+          "editorNote": "適合悶熱到睡不好的夜晚，五行就把整晚交代完。",
+          "variations": [
+            "短版：窗開一半，電扇對牆，被子在腳邊，天亮前窗關上。",
+            "延伸版：風停了，他翻了一次身，窗在天亮前被輕輕關上。"
+          ]
+        },
+        "en": {
+          "content": "A muggy night:\n— The window is open halfway.\n— The wind has stopped.\n— The fan turns toward the wall.\n— He rolls over and kicks the blanket to his feet.\n— Before dawn, the window is shut again.",
+          "editorNote": "For a night too sticky to sleep through; five lines cover the whole of it.",
+          "variations": [
+            "Short: window half open, fan facing the wall, blanket at his feet, window shut before dawn.",
+            "Extended: the wind stopped, he turned over once, and the window was quietly closed before daylight."
+          ]
+        }
+      }
     }
   ]
 }

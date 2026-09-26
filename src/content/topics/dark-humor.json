@@ -15151,6 +15151,126 @@
           "variations": ["Short: Cemeteries sit on hillsides because the land costs less.", "Extended: Level ground goes to housing, which is how the market arranged it."]
         }
       }
+    },
+    {
+      "id": "dh-531",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；殯葬與醫療情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "藥局",
+        "醫療"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "藥師交代完用法，我問：這藥最常見的副作用是什麼？\n她翻開說明書，說：死亡。\n我問第二常見的呢。\n她往下看了一行：頭痛。",
+          "editorNote": "適合朋友追問藥物風險、你只想照說明書唸的時候。",
+          "variations": [
+            "短版：最常見的副作用是死亡，第二常見的是頭痛。",
+            "延伸版：藥師沒有加任何語氣，說明書本來就是這樣排的。"
+          ]
+        },
+        "en": {
+          "content": "The pharmacist finished the dosage instructions and I asked about the most common side effect.\nShe checked the leaflet and said death.\nI asked what the second most common was.\nShe read down one line: headache.",
+          "editorNote": "For when a friend asks about drug risks and you just read the leaflet aloud.",
+          "variations": [
+            "Short: The most common side effect is death; the second most common is headache.",
+            "Extended: The pharmacist added no tone at all, since the leaflet is ordered that way."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-532",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；殯葬與醫療情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "棺材",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：為什麼棺材都做成長方形？\n答：人是長的。",
+          "editorNote": "適合有人等你講冷知識、你只給尺寸的時候。",
+          "variations": [
+            "短版：棺材是長方形，因為人是長的。",
+            "延伸版：如果人是圓的，棺材也會是圓的，這是設計上的常識。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why are coffins rectangular?\nA: People are long.",
+          "editorNote": "For when someone waits for trivia and you give a measurement.",
+          "variations": [
+            "Short: Coffins are rectangular because people are long.",
+            "Extended: If people were round the coffins would be round, which is ordinary design logic."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-533",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；殯葬與醫療情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "墓碑",
+        "消費"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "石材行的老闆說，墓碑刻字按字數算錢，一個字一百二。\n我問可以只刻名字嗎。\n老闆說可以。\n三個字，三百六。",
+          "editorNote": "適合有人問你預算、你只報總價的時候。",
+          "variations": [
+            "短版：墓碑一個字一百二，名字三個字，三百六。",
+            "延伸版：老闆算得很快，因為乘法不需要語氣。"
+          ]
+        },
+        "en": {
+          "content": "The stone shop owner said headstone engraving is priced per character, 120 dollars each.\nI asked whether I could have just the name.\nHe said yes.\nThree characters, 360 dollars.",
+          "editorNote": "For when someone asks about the budget and you only state the total.",
+          "variations": [
+            "Short: 120 per character, three characters in the name, 360 total.",
+            "Extended: The owner calculated quickly, because multiplication needs no tone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-534",
+      "dateAdded": "2026-09-26",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；殯葬與醫療情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "門診",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問老醫生，這個檢查報告要多久才會出來。\n他說：一週。\n我問：那我這一週要注意什麼。\n他說：不要遲到，報告出來要回診。",
+          "editorNote": "適合朋友問你有沒有在擔心、你只回行程的時候。",
+          "variations": [
+            "短版：報告一週後出來，注意事項是回診不要遲到。",
+            "延伸版：整段對話只有時間和地點，這位醫生是準時的人。"
+          ]
+        },
+        "en": {
+          "content": "I asked the old doctor how long the test results would take.\nHe said one week.\nI asked what I should watch out for that week.\nHe said not to be late for the follow-up.",
+          "editorNote": "For when a friend asks if you're worried and you only recite the schedule.",
+          "variations": [
+            "Short: Results in a week; the only advice was to be on time for the follow-up.",
+            "Extended: The whole talk was about time and place; the doctor is a punctual man."
+          ]
+        }
+      }
     }
   ]
 }
