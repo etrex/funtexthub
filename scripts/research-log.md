@@ -13249,3 +13249,26 @@ Sources: [NOWnews：好市多熟食區10月起「點餐要會員卡」](https://
 - 不執行：建立內容檔、補跑、代 generator commit／deploy。
 
 Sources: [數位時代：Z世代口頭禪17個網路用語](https://www.bnext.com.tw/article/80853/gen-z-internet-language)｜[EasyTimes：2026網路流行語大補帖](https://blog.easytimes.tw/2026/05/2026_07845900.html)｜[UpToGo：2026有什麼梗](https://uptogo.com.tw/%E7%A7%91%E6%8A%80/%E7%B6%B2%E8%B7%AF/2026%E6%9C%89%E4%BB%80%E9%BA%BC%E6%A2%97%EF%BC%9F/)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)｜[NapoleonCat：Top Trending Memes](https://napoleoncat.com/blog/trending-memes/)
+
+## 2026-09-26 Research Report
+
+### 第 0 項：產線檢查
+- 09-25 收盤語料 **168 則**（09-21～09-25 為 168/186/193/178/168）⇒ 正常，未停擺。本次未重測分發層／DNS／404（沿用 09-24 狀態）。
+
+### New Topic Recommendations
+1. **🟢 《尼古喵喵》（Threads 爆紅貓漫畫，Netflix 2026 暑假動漫推薦提及）— 候選，低優先**
+   語料 `尼古喵喵` 0/0（WHITE）。屬動漫 IP，有版權風險：只可寫「抽菸貓的厭世感」這類泛用化貓咪情緒，不引用角色名／台詞。候選路由 `cat-quotes`。
+2. **🟢 《躲在超市後門抽菸的兩人》（同上清單）**：`躲在超市後門` 0/0，同為 IP，僅可取「下班偷閒的兩個人」概念，不得用作名稱。優先度低於 1。
+3. **🔴 不新增獨立 topic**：本週 Threads／英文熱梗搜尋結果多為年度整理（Jimothy 等，09-24 已登錄為版權／已覆蓋），無新白地。
+
+### Content Trends
+- ⚠️ 時間錯位再現：搜「國慶連假 梗」命中的全是 **2025 年**文章（「連 3 週週休 3 日」「請 3 休 9」為去年 Threads 熱議），**不可當作 2026 素材**。查詢請以「本週」時間詞並核對文章年份。
+- 語料讀數：`連假` 427 則／32 檔（高度飽和）、`補班` 25/4、`國慶` 17/1 ⇒ 連假角度僅剩「國慶」本身有空間；09-24 記載國慶為明文不推，維持。
+- 時效：10/9–10/11 國慶連假／10/12 重陽／10/24–10/26 光復節／10/26 萬聖（皆已預先路由，見既有排程）。
+
+### Existing Topic Updates
+- 09-24／09-25 候選（KitKat 劫案、曼妙句式、奧德賽時期、王ADEN「大跳」動詞梗）狀態未變；好市多熟食區新制 10/1 生效，指派窗口 9/30 截止。
+- 🔴 需人工四項狀態未變（SKILL.md 重試／註冊網域與信箱／404.astro／`check_batch.py` 第 123、160 行 `share_fail()`）。
+- 不執行：建立內容檔、補跑、代 generator commit／deploy。
+
+Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[Yahoo：Netflix 2026暑假動漫推薦（尼古喵喵）](https://tw.news.yahoo.com/netflix-2026%E6%9A%91%E5%81%87%E5%8B%95%E6%BC%AB%E6%8E%A8%E8%96%A6-%E7%89%9B%E5%AA%BD-%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85-threads%E7%88%86%E7%B4%85-095832076.html)｜[NapoleonCat：Top Trending Memes](https://napoleoncat.com/blog/trending-memes/)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)｜[自由時報：中秋、國慶接力放假（2025）](https://news.ltn.com.tw/news/life/breakingnews/5574887)
