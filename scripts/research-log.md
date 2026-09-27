@@ -13272,3 +13272,28 @@ Sources: [數位時代：Z世代口頭禪17個網路用語](https://www.bnext.co
 - 不執行：建立內容檔、補跑、代 generator commit／deploy。
 
 Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[Yahoo：Netflix 2026暑假動漫推薦（尼古喵喵）](https://tw.news.yahoo.com/netflix-2026%E6%9A%91%E5%81%87%E5%8B%95%E6%BC%AB%E6%8E%A8%E8%96%A6-%E7%89%9B%E5%AA%BD-%E9%BB%83%E6%B3%89%E4%BD%BF%E8%80%85-threads%E7%88%86%E7%B4%85-095832076.html)｜[NapoleonCat：Top Trending Memes](https://napoleoncat.com/blog/trending-memes/)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)｜[自由時報：中秋、國慶接力放假（2025）](https://news.ltn.com.tw/news/life/breakingnews/5574887)
+
+## 2026-09-27 Research Report
+
+### 第 0 項：產線檢查
+- 最近 commit 為 09-26 17:03，42 檔 topic 不變；本次未重測分發層／DNS／404（沿用 09-24 狀態）。
+
+### New Topic Recommendations
+1. **🟢 「開運桌布／都市傳說桌布」（Threads 09-14 起熱議，比奇堡開運桌布、美輪明宏、娜璉等）— 候選**
+   語料讀數：`比奇堡` 0/0、`開運桌布` 0/0（WHITE）；`都市傳說` 12/7 已有零星。
+   - 角度：「手機桌布靠迷信運轉」的生活迷信幽默，不指名藝人、不評論真偽。
+   - 路由：`absurd-wisdom`／`daily-life` 類既有檔；週期短，建議 1–2 週內指派。
+2. **🔴 不新增**：「留友看」53/4、「龐奇」9/1、`Haaland` 7/1 已覆蓋；《尼古喵喵》（0/0）維持 09-26 判斷（IP 風險，低優先，路由 `cat-quotes`）。
+3. 不建議獨立建 topic：本週熱梗皆短命，併入既有檔即可。
+
+### Content Trends
+- Threads 本週新見：比奇堡開運桌布、日本網友新笑聲符號「ꉂ 𐤔」（符號類，不適合文字內容）。
+- 英文側：Jimothy／SpongeBob handcuffs／Haaland running 皆已登錄或已覆蓋，無新白地。
+- 時效：10/9–10/11 國慶連假／10/12 重陽／10/24–10/26 光復節／10/26 萬聖（皆已預先路由）；好市多熟食區新制指派窗口 9/30 截止。
+
+### Existing Topic Updates
+- 候選（KitKat 劫案、曼妙句式、奧德賽時期、王ADEN「大跳」）狀態未變。
+- 🔴 需人工四項未變（SKILL.md 重試／註冊網域與信箱／404.astro／`check_batch.py` 第 123、160 行 `share_fail()`）。
+- 不執行：建立內容檔、補跑、代 generator commit／deploy。
+
+Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[DailyView 迷因](https://dailyview.tw/popular/topic/meme)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)｜[NapoleonCat：Top Trending Memes](https://napoleoncat.com/blog/trending-memes/)
