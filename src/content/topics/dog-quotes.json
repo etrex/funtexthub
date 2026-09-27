@@ -14210,6 +14210,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dogq-498",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dog_behavior",
+      "sourceNote": "Wikipedia on dog behavior (begging, food cues); reworked into an original two-housemate dialogue",
+      "tags": [
+        "狗狗",
+        "幽默",
+        "日常",
+        "飼料"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「牠今天吃了幾碗？」\n「兩碗。你偷加的那半碗我也算進去了。」\n「那是牠自己站著不走。」\n「牠站著不走，是因為你還握著袋子。」\n「袋子我已經放下了。」\n「放在牠鼻子前面。」",
+          "editorNote": "兩個同住的人在對帳，一個護著牠，一個算得很細，全程沒有旁白。適合貼給總是偷加飼料的家人。",
+          "variations": [
+            "短版：牠吃兩碗半，其中半碗沒有人承認。",
+            "延伸版：袋子放下了，可是放在牠鼻子前面。"
+          ]
+        },
+        "en": {
+          "content": "\"How many bowls has he had today?\"\n\"Two. I counted the half bowl you sneaked in, too.\"\n\"He just stood there and wouldn't leave.\"\n\"He wouldn't leave because you were still holding the bag.\"\n\"I've put the bag down.\"\n\"Right in front of his nose.\"",
+          "editorNote": "Two housemates settle the food count, one shielding the dog and one keeping exact numbers, with no narration. For the family member who keeps topping up the bowl.",
+          "variations": [
+            "Short version: Two and a half bowls, and nobody owns the half.",
+            "Longer version: The bag is down, but it's down right in front of his nose."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-499",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dog_behavior",
+      "sourceNote": "Wikipedia on dog behavior (responding to names and tone); reworked into an original two-walker dialogue",
+      "tags": [
+        "狗狗",
+        "幽默",
+        "日常",
+        "名字"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這位帥哥怎麼稱呼？」\n「豆漿。你們家的呢？」\n「布丁。你們家都取食物名嗎？」\n「只有牠是，其他人都叫本名。」\n「豆漿喊得回來嗎？」\n「喊豆漿會回頭，喊早餐也會。」",
+          "editorNote": "兩個遛狗的人交換名字，一個問名字，一個只在意會不會回頭，各自問各自的。適合在公園認識新狗友時用。",
+          "variations": [
+            "短版：喊豆漿會回頭，喊早餐也會。",
+            "延伸版：牠的名字是食物，所以回頭的理由也是食物。"
+          ]
+        },
+        "en": {
+          "content": "\"What do I call this handsome guy?\"\n\"Soymilk. What's yours?\"\n\"Pudding. Do you name everyone after food?\"\n\"Only him. The rest of us use our real names.\"\n\"Does he come when you call Soymilk?\"\n\"He turns for Soymilk, and he turns for breakfast too.\"",
+          "editorNote": "Two dog walkers swap names, one asking about the name and the other only about the turn of the head, each on their own track. Handy when meeting a new dog friend at the park.",
+          "variations": [
+            "Short version: He turns for Soymilk, and for breakfast too.",
+            "Longer version: His name is a food, so his reason for turning around is a food too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-500",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dog_behavior",
+      "sourceNote": "Wikipedia on dog behavior (begging and human food); reworked into an original grandmother-and-grandchild phone dialogue",
+      "tags": [
+        "狗狗",
+        "幽默",
+        "家人",
+        "餵食"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「阿嬤，牠不能吃雞骨頭。」\n「我只給一小根。」\n「一小根也不行。」\n「那我給牠皮。」\n「皮也不行，太油。」\n「那牠為什麼一直看我？」\n「因為您手上有東西。」\n「我手上是筷子。」",
+          "editorNote": "阿嬤一路讓步，孫子一路說不行，最後那句筷子讓兩邊都沒話講。適合貼在長輩偷餵狗的家庭群聊裡。",
+          "variations": [
+            "短版：牠盯著您的手，骨頭只是順便。",
+            "延伸版：阿嬤讓步了三次，牠還是盯著筷子。"
+          ]
+        },
+        "en": {
+          "content": "\"Grandma, he can't have chicken bones.\"\n\"Just one small one.\"\n\"Even a small one is too much.\"\n\"Then I'll give him the skin.\"\n\"Not the skin either, it's too greasy.\"\n\"So why does he keep looking at me?\"\n\"Because you're holding something.\"\n\"I'm holding chopsticks.\"",
+          "editorNote": "Grandma gives ground at every turn while her grandchild says no each time, and the chopsticks line leaves both with nothing more to say. Fits a family chat where an elder keeps feeding the dog.",
+          "variations": [
+            "Short version: He watches your hand, and the bone is just a bonus.",
+            "Longer version: Grandma gave in three times, and he still watches the chopsticks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dogq-501",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dog_behavior",
+      "sourceNote": "Wikipedia on dog behavior (dogs and water, play); reworked into an original two-sibling dialogue about walk duty",
+      "tags": [
+        "狗狗",
+        "幽默",
+        "日常",
+        "遛狗"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「輪到你遛了。」\n「我昨天才遛。」\n「昨天是我，你是前天，回來時牠的腳是濕的。」\n「那是下雨。」\n「那天沒下雨。」\n「那就是牠自己找到水坑。」\n「牠找到水坑，然後你也站進去了。」\n「鞋子已經洗好了。」",
+          "editorNote": "兩個人爭誰該遛，翻的是前天的舊帳，最後一句用洗好的鞋子認了。適合放在輪值表吵不完的家裡。",
+          "variations": [
+            "短版：鞋子洗好了，所以這題我認。",
+            "延伸版：牠找到水坑，我站進去，帳算在我頭上。"
+          ]
+        },
+        "en": {
+          "content": "\"It's your turn to walk him.\"\n\"I walked him yesterday.\"\n\"Yesterday was me. You had the day before, and his paws came back wet.\"\n\"That was the rain.\"\n\"It didn't rain that day.\"\n\"Then he found a puddle on his own.\"\n\"He found a puddle, and then you stood in it too.\"\n\"The shoes are already washed.\"",
+          "editorNote": "Two people argue over who walks him, dig up the day before yesterday, and the washed shoes settle it. Good for a home where the walking rota never gets settled.",
+          "variations": [
+            "Short version: The shoes are washed, so I concede.",
+            "Longer version: He found the puddle, I stepped in it, and the tab is mine."
+          ]
+        }
+      }
     }
   ]
 }

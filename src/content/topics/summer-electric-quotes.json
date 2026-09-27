@@ -11654,6 +11654,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-397",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "遙控器",
+        "膠帶",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "遙控器的電池蓋用膠帶黏著，是六月貼的。膠帶邊緣已經翹起來，黏性沒了，縫裡積了一層灰。今天我用拇指把它壓回去。",
+          "editorNote": "適合想用一個小零件寫整個夏天的疲乏時使用。",
+          "variations": [
+            "短版：六月貼的膠帶翹了邊，今天被拇指壓回去。",
+            "延伸版：膠帶的黏性走了，縫裡有灰，拇指還是把它壓平。"
+          ]
+        },
+        "en": {
+          "content": "The battery cover on the remote was taped shut in June. The tape has curled at the edges, lost its stick, and left a layer of dust in the gap. Today I pressed it back down with my thumb.",
+          "editorNote": "For when you want one tiny part to carry the whole tired summer.",
+          "variations": [
+            "Short: the June tape curled at the edge, and a thumb pressed it flat today.",
+            "Extended: the tape lost its grip and dust settled underneath, yet a thumb still pressed it down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-398",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "電費單",
+        "抽屜",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同一個抽屜\n— 六月的電費單，折了兩折\n— 七月的，只折一折\n— 八月的，攤平壓在最上面\n— 九月的，還沒拆封",
+          "editorNote": "適合帳單越疊越厚的月份，用折痕的多寡代替金額。",
+          "variations": [
+            "短版：六月折兩折，七月折一折，八月攤平，九月未拆。",
+            "延伸版：抽屜裡四張電費單，折痕一張比一張少。"
+          ]
+        },
+        "en": {
+          "content": "The same drawer:\n— June's bill, folded twice.\n— July's, folded once.\n— August's, laid flat on top.\n— September's, still sealed.",
+          "editorNote": "For the months when bills pile up; fold marks stand in for the amounts.",
+          "variations": [
+            "Short: June folded twice, July once, August flat, September sealed.",
+            "Extended: four bills in one drawer, each with fewer creases than the last."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-399",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "冷氣",
+        "濾網",
+        "保養"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "濾網去年八月洗過，掛回去的時候還在滴水。今年八月拿下來，灰厚得像一條薄毯子。中間隔著一整年，冷氣照常吹。",
+          "editorNote": "適合想寫「一年過去了，冷氣一直在默默做事」時使用。",
+          "variations": [
+            "短版：去年洗過的濾網，今年拿下來像蓋了毯子。",
+            "延伸版：濾網一年沒人看，冷氣一天也沒停。"
+          ]
+        },
+        "en": {
+          "content": "The filter was washed last August and still dripping when it went back up. This August it came down wearing dust as thick as a thin blanket. A whole year sat in between, and the air conditioner ran the entire time.",
+          "editorNote": "For the moment you realize a whole year passed while the AC quietly kept working.",
+          "variations": [
+            "Short: last year's washed filter came down this year wearing a blanket of dust.",
+            "Extended: no one looked at the filter for a year, and the AC never took a day off."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-400",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.nownews.com/news/6867504",
+      "sourceNote": "NOWnews：變頻冷氣開24小時電費9786元，台電說明原因",
+      "tags": [
+        "電風扇",
+        "旋鈕",
+        "夜晚"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "電風扇的旋鈕，七月停在三，八月停在二，現在停在零。旋鈕上有一圈指紋印，最深的那個在三。",
+          "editorNote": "適合用風速的檔位，看出一個季節慢慢退場。",
+          "variations": [
+            "短版：旋鈕從三到二到零，指紋最深的還在三。",
+            "延伸版：三檔的指紋印最深，零檔上一點痕跡也沒有。"
+          ]
+        },
+        "en": {
+          "content": "The fan dial sat on three in July, on two in August, and on zero now. A ring of fingerprints circles the dial, and the deepest one is at three.",
+          "editorNote": "For reading a season's slow exit through the speed settings of a fan.",
+          "variations": [
+            "Short: the dial went from three to two to zero, and the deepest fingerprint is still on three.",
+            "Extended: the third setting holds the deepest print, and zero holds no trace at all."
+          ]
+        }
+      }
     }
   ]
 }

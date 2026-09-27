@@ -12759,6 +12759,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-427",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次短時間全身訓練就有明顯效果，改寫成數量開場的日常片段",
+      "tags": [
+        "深蹲",
+        "組間休息",
+        "時鐘"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 三組深蹲，每組做八下\n— 組間休息兩分鐘，喝了四口水\n— 看了五次牆上的時鐘\n— 最後一組偷少做兩下，再補回來",
+          "editorNote": "訓練日誌式的自我檢討，適合貼在健身打卡群",
+          "variations": [
+            "短版：三組、四口水、五次看時鐘。"
+          ]
+        },
+        "en": {
+          "content": "— Three sets of squats, eight reps each.\n— Two minutes of rest between sets, four sips of water.\n— Five glances at the clock on the wall.\n— Skipped two reps on the last set, then made them up.",
+          "editorNote": "For a training-log style check-in in a workout group chat",
+          "variations": [
+            "Short: three sets, four sips, five glances at the clock."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-428",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次短時間全身訓練就有明顯效果，改寫成數量開場的日常片段",
+      "tags": [
+        "深蹲",
+        "進步",
+        "貼紙"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "三公分，是今天蹲下去的深度比上週多出來的部分。沒有人量，是牆上的貼紙記下來的。他低頭看了看貼紙，又蹲了一次確認。",
+          "editorNote": "給正在追蹤小幅進步的人",
+          "variations": [
+            "延伸版：三公分不多，但貼紙不會說謊。"
+          ]
+        },
+        "en": {
+          "content": "Three centimeters is how much deeper the squat went today compared with last week. Nobody measured it; a sticker on the wall kept the record. He looked down at the sticker and squatted once more to make sure.",
+          "editorNote": "For anyone tracking small gains",
+          "variations": [
+            "Extended: three centimeters is not much, but the sticker does not lie."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-429",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次短時間全身訓練就有明顯效果，改寫成數量開場的日常片段",
+      "tags": [
+        "飲水機",
+        "健身房",
+        "補水"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "七個人站成一列在飲水機前，沒有人說話，全都盯著同一個紙杯的水位。輪到我的時候，杯子只剩三分之一，我還是一口喝完。",
+          "editorNote": "給尖峰時段擠在健身房的人",
+          "variations": [
+            "短版：七個人，一個紙杯，三分之一杯水。"
+          ]
+        },
+        "en": {
+          "content": "Seven people stood in a line at the water fountain, and nobody spoke, all of them watching the water level in the same paper cup. When my turn came, the cup was only a third full, and I drank it in one go.",
+          "editorNote": "For anyone stuck in the gym at peak hours",
+          "variations": [
+            "Short: seven people, one paper cup, a third of a cup of water."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-430",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260319074552.htm",
+      "sourceNote": "每週兩次短時間全身訓練就有明顯效果，改寫成數量開場的日常片段",
+      "tags": [
+        "久坐",
+        "提醒",
+        "開合跳"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "四次，是手機今天提醒我起身的次數，我按掉了三次。第四次我站起來，只是為了去拿充電線，順手做了十下開合跳。",
+          "editorNote": "給被久坐提醒追著跑的上班族",
+          "variations": [
+            "延伸版：四次提醒換十下開合跳，算是勉強成交。"
+          ]
+        },
+        "en": {
+          "content": "Four times, that is how often my phone told me to stand up today, and I dismissed it three times. The fourth time I got up only to fetch a charging cable, and did ten jumping jacks on the way.",
+          "editorNote": "For desk workers chased by sitting reminders",
+          "variations": [
+            "Extended: four reminders for ten jumping jacks, a deal I will barely accept."
+          ]
+        }
+      }
     }
   ]
 }

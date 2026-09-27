@@ -12108,6 +12108,126 @@
           "variations": ["Short: By close, she meant the same section.", "Extended: Both kinds of close are true, but one takes a three-minute walk and the other takes a reach of the arm."]
         }
       }
+    },
+    {
+      "id": "ctq-429",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://ticket.ibon.com.tw/NewsInfo/Details/2524",
+      "sourceNote": "ibon 售票說明頁的開賣流程；取重新整理頁面這個單一動作改寫成動作特寫",
+      "tags": [
+        "搶票",
+        "重新整理",
+        "動作",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她按重新整理之前，指尖在半空懸了一秒。頁面轉了四圈，跳出來的還是同一行字。她把手機翻面放在桌上，數到十，又翻回來，再按一次。這次她按得很輕，指尖幾乎沒有碰到玻璃。",
+          "editorNote": "適合在開賣後一直重新整理、卻不想承認自己很緊繃時使用",
+          "variations": [
+            "短版：她按了一次，很輕。",
+            "延伸版：同一個按鈕，第一次按得像敲門，第七次按得像在道歉。"
+          ]
+        },
+        "en": {
+          "content": "Her finger hovered a full second above the refresh button before it came down. The page spun four times and landed on the same line of text. She turned the phone face down, counted to ten, turned it back, and pressed again. This time her fingertip barely touched the glass.",
+          "editorNote": "For the moment you keep refreshing after the sale opens and won't admit you're tense",
+          "variations": [
+            "Short: She pressed once, very lightly.",
+            "Extended: Same button, but the first press was a knock and the seventh was almost an apology."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-430",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://ticket.ibon.com.tw/NewsInfo/Details/2524",
+      "sourceNote": "ibon 電子票券與實體票根說明；取收好票根這個動作拆成逐步動作條列",
+      "tags": [
+        "票根",
+        "收藏",
+        "動作",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 把票根對折一次\n— 用拇指沿著折線壓過去\n— 再壓一次\n— 攤開，折線還在\n— 夾進筆記本第三頁\n— 闔上，手掌壓在封面上很久",
+          "editorNote": "適合在散場後回家，想記錄自己怎麼收票根時使用",
+          "variations": [
+            "短版：折一次，壓兩次。",
+            "延伸版：票根薄得夾不出厚度，手掌卻壓了很久。"
+          ]
+        },
+        "en": {
+          "content": "— Fold the stub once.\n— Run a thumb along the crease.\n— Press it again.\n— Unfold it. The crease is still there.\n— Slip it into page three of the notebook.\n— Close the cover and keep a palm on it for a long time.",
+          "editorNote": "For the night after the show, when you want to note exactly how you put the stub away",
+          "variations": [
+            "Short: One fold, two presses.",
+            "Extended: The stub is too thin to add any bulk, yet the palm stayed on the cover for ages."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-431",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://ticket.ibon.com.tw/NewsInfo/Details/2524",
+      "sourceNote": "ibon 購票流程中的簡訊驗證與付款步驟；取輸入驗證碼的手部動作改寫",
+      "tags": [
+        "驗證碼",
+        "付款",
+        "動作",
+        "搶票"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "他把驗證碼的六個數字打了兩遍。第一遍打到第四位就停住，全部刪掉。第二遍每個數字都按得很用力，指節在手機邊緣泛白。按下送出之後，他把手機扣在膝蓋上，手指還維持著按下去的形狀。",
+          "editorNote": "適合形容付款前最後一步、手比腦袋還緊張的時候",
+          "variations": [
+            "短版：六個數字，打了十二下。",
+            "延伸版：送出之後手還沒鬆開，好像票會從指縫掉出去。"
+          ]
+        },
+        "en": {
+          "content": "He typed the six digits of the code twice. On the first try he stopped at the fourth and deleted everything. On the second try he pressed each digit hard enough to turn his knuckles white against the phone's edge. After hitting submit he set the phone face down on his knee, fingers still curled in the shape of the press.",
+          "editorNote": "For the last step before payment, when your hands are more nervous than your head",
+          "variations": [
+            "Short: Six digits, twelve presses.",
+            "Extended: The hand stayed clenched after submitting, as if the ticket might slip through the fingers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-432",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://ticket.ibon.com.tw/NewsInfo/Details/2524",
+      "sourceNote": "演唱會現場應援物的一般介紹；取折亮螢光棒與舉手這個單一動作改寫",
+      "tags": [
+        "螢光棒",
+        "開場",
+        "動作",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "她把螢光棒折了三次才亮起來。接著舉高五公分，放下，再舉高。台上的燈還沒暗，她的手臂已經抬了十一分鐘。",
+          "editorNote": "適合在開場前太早就進入應援狀態的人身上使用",
+          "variations": [
+            "短版：舉高五公分，放下，再舉高。",
+            "延伸版：手臂酸了十一分鐘，螢光棒還是沒有歪一下。"
+          ]
+        },
+        "en": {
+          "content": "She bent the glow stick three times before it lit. Then she raised it five centimeters, lowered it, and raised it again. The stage lights hadn't even dimmed, and her arm had been up for eleven minutes.",
+          "editorNote": "For anyone who starts cheering long before the opening lights go down",
+          "variations": [
+            "Short: Up five centimeters, down, up again.",
+            "Extended: Eleven minutes of an aching arm, and the glow stick never tilted once."
+          ]
+        }
+      }
     }
   ]
 }

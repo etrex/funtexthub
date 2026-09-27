@@ -15158,6 +15158,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-532",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.ctwant.com/article/490514/",
+      "sourceNote": "以天氣加動作改寫週一上班氛圍。",
+      "tags": [
+        "天氣當心情",
+        "通勤",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週一早上下大雨，門口的傘架插滿了，最後一個進來的人把傘掛在門把上。九點整，會議室的燈已經亮了。傘尖的水還在一滴一滴落進地毯。",
+          "editorNote": "適合寫週一開工那種說不出口的氛圍，用雨天代替抱怨。",
+          "variations": [
+            "短版：傘架滿了，門把上多了一把濕傘。"
+          ]
+        },
+        "en": {
+          "content": "Monday morning the rain came down hard, the umbrella stand by the door was full, and the last person in hung a wet umbrella on the handle. At nine sharp the meeting room lights were on. Water was still dripping from the umbrella tip into the carpet.",
+          "editorNote": "For the Monday-morning mood you would rather describe than complain about.",
+          "variations": [
+            "Short: The stand is full, and there is a wet umbrella on the door handle."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-533",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.ctwant.com/article/490514/",
+      "sourceNote": "用一週天氣條列改寫上班族的週間狀態。",
+      "tags": [
+        "天氣當心情",
+        "一週",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週二：陰天，桌燈開到最亮\n— 週三：起霧，窗戶擦了兩次\n— 週四：悶熱，風扇轉到最大檔\n— 週五：放晴，沒人拉開百葉窗\n— 週末：下雨，沒人回訊息",
+          "editorNote": "適合貼在群組當一週回顧，用天氣帶過每天的狀態。",
+          "variations": [
+            "延伸版：下週一預報有雨，大家已經先把外套帶來了。"
+          ]
+        },
+        "en": {
+          "content": "— Tuesday: overcast, desk lamp turned all the way up.\n— Wednesday: fog, the window wiped twice.\n— Thursday: muggy, the fan on its highest setting.\n— Friday: clear, and nobody pulls up the blinds.\n— Weekend: rain, and nobody answers messages.",
+          "editorNote": "Good for a weekly recap that lets the forecast do the talking.",
+          "variations": [
+            "Extended: Next Monday's forecast says rain, and the coats are already hanging on the chair backs."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-534",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.ctwant.com/article/490514/",
+      "sourceNote": "以颱風夜加收拾動作改寫放假前夕。",
+      "tags": [
+        "天氣當心情",
+        "颱風",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "颱風假的前一晚，我把筆電放進背包，又拿出來，又放進去。\n窗外的風把招牌吹得嘎嘎響。我把充電線繞了三圈，塞進最外層的夾袋。門口的鞋櫃上，多了一雙擦過的皮鞋。",
+          "editorNote": "適合寫放假前夕還放不下工作的那種來回動作。",
+          "variations": [
+            "短版：筆電進背包，出背包，再進背包。"
+          ]
+        },
+        "en": {
+          "content": "The night before the typhoon day off, I put the laptop in my backpack, took it out, and put it back in.\nThe wind rattled the shop sign outside. I wound the charger cable three times. I pushed it into the outer pocket. On the shoe rack by the door sat a pair of polished leather shoes.",
+          "editorNote": "For the night before a day off when the work still will not stay put.",
+          "variations": [
+            "Short: Laptop in the bag, out of the bag, back in the bag."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-535",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.ctwant.com/article/490514/",
+      "sourceNote": "以午後天氣加傘的動作改寫長會議。",
+      "tags": [
+        "天氣當心情",
+        "會議",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雲壓得很低，會議從兩點開到五點。散場走出大門，地上已經乾了。我那把傘從頭到尾沒有打開過。手機顯示今日降雨機率百分之八十。",
+          "editorNote": "適合形容一場開太久、錯過整個天氣變化的會議。",
+          "variations": [
+            "延伸版：下一場會議的行事曆邀請，已經排在明天同一個時段。"
+          ]
+        },
+        "en": {
+          "content": "The clouds hung low, and the meeting ran from two to five. When we walked out the front door the ground was already dry. My umbrella had never once been opened. The phone still said an eighty percent chance of rain.",
+          "editorNote": "For a meeting so long it swallowed an entire change of weather.",
+          "variations": [
+            "Extended: The invite for the next meeting is already on the calendar, same time tomorrow."
+          ]
+        }
+      }
     }
   ]
 }

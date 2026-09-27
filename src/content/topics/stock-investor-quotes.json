@@ -11788,6 +11788,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-390",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考散戶盤前準備的報導；改寫成開盤前反覆點開券商 App 與計算機的場面",
+      "tags": [
+        "開盤",
+        "計算機",
+        "券商",
+        "反問"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "開盤前十分鐘，姊姊把三個券商 App 輪流點開，又一個個關掉。最後她打開的是計算機，按了一串數字，停在等號前面。那串數字的最後一位，到底是七還是一？",
+          "editorNote": "適合形容開盤前坐立難安，只好去算一個其實早就算過的數",
+          "variations": [
+            "短版：三個 App 點開又關掉，計算機按到等號前停住，最後一位是七還是一？",
+            "延伸版：她算的數字沒有人催她算，可是那個最後一位，她抄了兩次還不一樣。"
+          ]
+        },
+        "en": {
+          "content": "Ten minutes before the open, my sister tapped through three brokerage apps and closed them one by one. She ended up in the calculator, keyed in a long number, and stopped right before the equals sign. Was the last digit a seven or a one?",
+          "editorNote": "For the restless minutes before the open, spent recalculating a number you already know",
+          "variations": [
+            "Short: Three apps opened and closed, calculator stopped before equals, last digit a seven or a one?",
+            "Longer: Nobody asked her for the number, yet she copied the last digit twice and got two different answers."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-391",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考收盤後檢視掛單價位的報導；改寫成螢幕邊貼便條紙的四行場面",
+      "tags": [
+        "收盤",
+        "便條紙",
+        "掛單",
+        "反問"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 週五收盤，桌上的茶已經涼了\n— 螢幕右下角的成交量，停在四萬多\n— 他把便條紙貼在螢幕邊緣，上面只寫了一個價位\n— 筆放回筆筒，蓋子沒蓋\n— 那個價位上，現在還有沒有人掛著？",
+          "editorNote": "適合形容收盤後盯著一個價位不肯關掉畫面的人",
+          "variations": [
+            "短版：茶涼了，成交量停在四萬多，便條紙上一個價位，還有人掛著嗎？",
+            "延伸版：便條紙上的價位是週三寫的，畫面是週五的，中間隔了幾筆成交？"
+          ]
+        },
+        "en": {
+          "content": "— Friday's close, and the tea on the desk had gone cold.\n— The volume in the corner of the screen sat at forty-some thousand.\n— He stuck a note to the edge of the monitor with a single price written on it.\n— The pen went back in the cup with its cap off.\n— Is anyone still posting an order at that price right now?",
+          "editorNote": "For someone who keeps the screen open after the close, staring at one price",
+          "variations": [
+            "Short: Cold tea, volume at forty-some thousand, one price on a sticky note, anyone still posting?",
+            "Longer: The note was written Wednesday and the screen shows Friday, so how many trades happened in between?"
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-392",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考長輩查詢基金代號的報導；改寫成老花眼鏡下逐字唸代號的場面",
+      "tags": [
+        "存摺",
+        "基金",
+        "阿嬤",
+        "反問"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "阿嬤的存摺收在餅乾盒最底下，橡皮筋繞了兩圈，摺角被摸得發亮。她叫孫子點開基金頁面，自己戴上老花眼鏡，逐字唸出那串代號。唸到第四碼，她把眼鏡推上額頭，瞇眼看著螢幕：那個圓圈，是英文字母 O，還是數字零？",
+          "editorNote": "適合形容長輩親自核對代號時的慢與細",
+          "variations": [
+            "短版：餅乾盒裡的存摺，逐字唸代號，第四碼是字母 O 還是數字零？",
+            "延伸版：橡皮筋繞了兩圈的存摺，配上推到額頭的老花眼鏡，和一個到現在沒人答的圓圈。"
+          ]
+        },
+        "en": {
+          "content": "Grandma kept her passbook at the bottom of a cookie tin, a rubber band looped twice around it, the corners worn shiny. She had her grandson open the fund page, put on her reading glasses, and read the code aloud one character at a time. At the fourth character she pushed the glasses up to her forehead and squinted: is that circle the letter O or the digit zero?",
+          "editorNote": "For the slow, careful way an elder checks a code herself",
+          "variations": [
+            "Short: Passbook from the cookie tin, code read character by character, fourth one a letter O or a zero?",
+            "Longer: A passbook with a double-looped rubber band, glasses pushed to the forehead, and one circle nobody has answered yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-393",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.cnyes.com/news/id/6540203",
+      "sourceNote": "參考散戶追蹤法說會與財報日程的報導；改寫成印出行事曆用螢光筆劃線的場面",
+      "tags": [
+        "財報",
+        "行事曆",
+        "螢光筆",
+        "反問"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "週日晚上，他把下週的財報行事曆印出來，用三種顏色的螢光筆各劃了一輪，再用磁鐵壓在冰箱門上。老婆拿著杯子經過，抽出來看了一眼，又塞回去，隨口問：「週三下午三點那場法說會，你是要看直播，還是看隔天的重點整理？」",
+          "editorNote": "適合形容把投資行程排得像出差表，家人只好從旁問一句",
+          "variations": [
+            "短版：行事曆印出來，三色螢光筆，貼在冰箱門，週三三點看直播還是看整理？",
+            "延伸版：三種顏色劃出來的只有一件事：週三下午三點，他還沒決定怎麼看。"
+          ]
+        },
+        "en": {
+          "content": "On Sunday night he printed next week's earnings calendar, went over it in three highlighter colors, and pinned it to the fridge door with a magnet. His wife passed by with a mug, pulled it out for a look, tucked it back, and asked in passing: for Wednesday's three o'clock investor call, are you watching the live stream or waiting for the next day's summary?",
+          "editorNote": "For an investing schedule planned like a business trip, with family asking from the side",
+          "variations": [
+            "Short: Calendar printed, three highlighters, magnet on the fridge, Wednesday at three, stream or summary?",
+            "Longer: Three colors marked only one thing: Wednesday at three, and he still hadn't decided how to watch."
+          ]
+        }
+      }
     }
   ]
 }

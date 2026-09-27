@@ -13161,6 +13161,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-462",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取簽約到退租的鑰匙圈變化，內容為原創",
+      "tags": [
+        "鑰匙",
+        "簽約",
+        "退租",
+        "租屋日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "簽約那天，鑰匙圈上只掛著一把新鑰匙，齒還亮亮的。退租那天，圈上多了一個掉漆的小鈴鐺，鑰匙的齒邊磨得圓圓的。房東接過去，在手心掂了一下。",
+          "editorNote": "給住滿一年準備交鑰匙的租客，只用同一串鑰匙說時間",
+          "variations": [
+            "短版：同一把鑰匙，齒亮了一年，磨圓了。",
+            "延伸版：鈴鐺我沒拆，一起交給了房東。"
+          ]
+        },
+        "en": {
+          "content": "On the day I signed, the key ring held one new key, its teeth still bright. On the day I moved out, a small chipped bell hung beside it, and the teeth had worn round. The landlord took it and weighed it once in his palm.",
+          "editorNote": "For a renter about to hand back keys after a year; time told only through one key ring",
+          "variations": [
+            "Short: Same key, bright teeth a year ago, worn round now.",
+            "Extended: I never took the bell off, so it went to the landlord too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-463",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取牆面釘孔與退租復原的情境，內容為原創",
+      "tags": [
+        "牆壁",
+        "退租",
+        "釘子",
+        "租屋日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 入住當天　白牆乾乾淨淨\n— 住了半年　多兩個圖釘孔\n— 住滿一年　牆上掛了小掛勾\n— 退租前夜　我拿牙膏填洞",
+          "editorNote": "給退租前夜蹲在牆邊補洞的人，把一面牆的四個階段列出來",
+          "variations": [
+            "短版：白牆、兩個洞、一個掛勾、一條牙膏。",
+            "延伸版：牙膏填完要等它乾，我坐在地板上等。"
+          ]
+        },
+        "en": {
+          "content": "— Move-in day: the wall is clean and white.\n— Six months in: two thumbtack holes.\n— A full year in: a small hook hangs there.\n— The night before leaving: I fill the holes with toothpaste.",
+          "editorNote": "For anyone patching walls the night before moving out; four stages of one wall in a list",
+          "variations": [
+            "Short: White wall, two holes, one hook, one tube of toothpaste.",
+            "Extended: The toothpaste needs time to dry, so I sat on the floor and waited."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-464",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取房東留下的舊冰箱貼紙變化，內容為原創",
+      "tags": [
+        "冰箱",
+        "房東",
+        "貼紙",
+        "租屋日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房那天，冰箱門上有一張泛黃的貼紙，寫著「請保持清潔」，四個角都平平的。續約那年，貼紙右上角翹了起來，被我用一顆磁鐵壓住，磁鐵底下夾著三張外送折價券。",
+          "editorNote": "給租了舊家電套房、和房東留下的東西共處很久的租客",
+          "variations": [
+            "短版：貼紙翹了一角，磁鐵補上，折價券也夾進去。",
+            "延伸版：貼紙上的字還讀得出來，我沒撕。"
+          ]
+        },
+        "en": {
+          "content": "When I viewed the flat, the fridge door had a yellowed sticker reading \"Please keep clean,\" all four corners flat. By the year I renewed, its top right corner had curled up, and I pinned it with a magnet that also held three delivery coupons.",
+          "editorNote": "For renters sharing a long stretch of life with things the landlord left behind",
+          "variations": [
+            "Short: One corner curled, a magnet went on, and the coupons slid in too.",
+            "Extended: The words on the sticker are still readable, so I left it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-465",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.fubon.com/insurance/blog/lifestyle/new-renting.html",
+      "sourceNote": "富邦產險租屋注意事項；取床墊塑膠套到凹陷的變化，內容為原創",
+      "tags": [
+        "床墊",
+        "看房",
+        "退租",
+        "租屋日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "看房時床墊是平的，外面還套著一層透明塑膠套。退租前一晚，床墊中間陷下一塊，大小剛好是我側躺的樣子，塑膠套早就不知道去了哪裡。",
+          "editorNote": "給睡了一年出租床墊、要面對點交的租客",
+          "variations": [
+            "短版：平的床墊，一年後多了我的形狀。",
+            "延伸版：點交時房東按了按那一塊，沒說話。"
+          ]
+        },
+        "en": {
+          "content": "At the viewing the mattress was flat, still wrapped in clear plastic. The night before I left, a dip had sunk into its middle, exactly the size of me lying on my side, and the plastic had gone missing long ago.",
+          "editorNote": "For renters who slept a year on the landlord's mattress and now face the handover check",
+          "variations": [
+            "Short: A flat mattress, and a year later, my shape in it.",
+            "Extended: At handover the landlord pressed the dip once and said nothing."
+          ]
+        }
+      }
     }
   ]
 }

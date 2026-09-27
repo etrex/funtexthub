@@ -14502,6 +14502,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-514",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考減脂期夜間食慾管理的建議，改寫成條列",
+      "tags": [
+        "飲食",
+        "宵夜",
+        "自制力",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 把冰箱門打開又關上\n— 把冷凍庫也打開又關上\n— 把泡麵放回櫃子\n— 把泡麵再拿出來\n— 把水燒開\n— 把明天的自己當成陌生人",
+          "editorNote": "適合形容深夜與宵夜互相拉扯的節奏時使用",
+          "variations": [
+            "短版：開冰箱、關冰箱，最後水還是燒開了。",
+            "延伸版：泡麵放回去又拿出來，明天的自己就當作不認識。"
+          ]
+        },
+        "en": {
+          "content": "— Open the fridge and shut it.\n— Open the freezer and shut it too.\n— Put the instant noodles back in the cupboard.\n— Take the instant noodles out again.\n— Boil the water.\n— Treat tomorrow's me as a stranger.",
+          "editorNote": "For describing the late-night tug of war with a midnight snack",
+          "variations": [
+            "Short: Fridge open, fridge shut, and the water boils anyway.",
+            "Extended: The noodles go back and come out again, and tomorrow's me is somebody I never met."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-515",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考減醣飲食的份量遞減做法，改寫成條列",
+      "tags": [
+        "飲食",
+        "減醣",
+        "白飯",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 白飯換成半碗\n— 半碗換成三口\n— 三口換成一口配菜的湯汁\n— 湯汁換成看著別人吃\n— 看著別人吃換成點頭稱讚",
+          "editorNote": "適合形容減醣一週從吃飯降級到看人吃飯的過程",
+          "variations": [
+            "短版：白飯一路縮水，最後只剩點頭稱讚。",
+            "延伸版：減醣的盡頭是看著別人吃，順便誇一句看起來很好吃。"
+          ]
+        },
+        "en": {
+          "content": "— Swap the rice for half a bowl.\n— Swap the half bowl for three bites.\n— Swap the three bites for one spoon of side-dish broth.\n— Swap the broth for watching someone else eat.\n— Swap the watching for a nod of praise.",
+          "editorNote": "For the week a low-carb plan shrinks rice down to watching others eat",
+          "variations": [
+            "Short: The rice shrinks all the way down to a nod of praise.",
+            "Extended: The end of low-carb is watching someone else eat and saying it looks great."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-516",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考外食族點餐時的隱藏糖與蛋白質迷思，改寫成條列",
+      "tags": [
+        "飲食",
+        "早餐店",
+        "微糖",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 蛋餅不加醬，醬放在旁邊\n— 奶茶說微糖，店員按了全糖\n— 我說沒關係，杯子已經在手上\n— 中午的沙拉多放了兩片火腿\n— 火腿算蛋白質，我是這樣登記的",
+          "editorNote": "適合在外食點餐時，自己替自己找補的場合使用",
+          "variations": [
+            "短版：微糖變全糖，火腿算蛋白質，帳都是我自己算的。",
+            "延伸版：醬放旁邊、杯子在手上，今天的飲食紀錄全由我親自審核。"
+          ]
+        },
+        "en": {
+          "content": "— The egg pancake comes without sauce, sauce on the side.\n— I ask for less sugar in the milk tea and the cashier hits full sugar.\n— I say never mind, the cup is already in my hand.\n— Lunch's salad has two extra slices of ham.\n— Ham counts as protein, that's how I logged it.",
+          "editorNote": "For the moments when ordering out and rationalizing it yourself",
+          "variations": [
+            "Short: Less sugar became full sugar, ham became protein, and I did the bookkeeping.",
+            "Extended: Sauce on the side, cup in hand, and today's food log is approved by me alone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-517",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/88088",
+      "sourceNote": "參考減重期間體重波動與量測習慣，改寫成條列",
+      "tags": [
+        "飲食",
+        "體重",
+        "體重計",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 早上空腹站上去，六十二\n— 上完廁所再站，六十一點八\n— 脫掉手錶再站，六十一點五\n— 摘掉髮圈再站，六十一點四\n— 屏住呼吸再站，六十一點二",
+          "editorNote": "適合形容每天為了少幾百公克而反覆量體重的行為時使用",
+          "variations": [
+            "短版：脫手錶、摘髮圈、屏住呼吸，體重計終於讓步。",
+            "延伸版：同一台體重計，我站了五次，只採用最後一次。"
+          ]
+        },
+        "en": {
+          "content": "— Step on empty in the morning, sixty-two.\n— Step on again after the bathroom, sixty-one point eight.\n— Step on again without the watch, sixty-one point five.\n— Step on again without the hair tie, sixty-one point four.\n— Step on again holding my breath, sixty-one point two.",
+          "editorNote": "For the daily habit of re-weighing yourself to shave off a few hundred grams",
+          "variations": [
+            "Short: Watch off, hair tie off, breath held, and the scale finally gives in.",
+            "Extended: One scale, five tries, and only the last reading gets recorded."
+          ]
+        }
+      }
     }
   ]
 }

@@ -15271,6 +15271,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-535",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "遺囑",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：人為什麼要立遺囑？\n答：因為人會死，而且死了不能自己講。",
+          "editorNote": "適合有人等你講哲理、你只講程序的時候。",
+          "variations": [
+            "短版：立遺囑是因為人會死，死了不能講話。",
+            "延伸版：這個答案沒有多餘的字，和遺囑一樣。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why do people write a will?\nA: Because people die, and the dead cannot speak for themselves.",
+          "editorNote": "For when someone expects wisdom and you only give procedure.",
+          "variations": [
+            "Short: People write wills because they die and cannot talk afterward.",
+            "Extended: The answer has no extra words, just like a will."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-536",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "火葬",
+        "服務"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：火葬場為什麼要預約？\n答：因為一次只能處理一位。",
+          "editorNote": "適合朋友等你補刀、你只講作業流程的時候。",
+          "variations": [
+            "短版：火葬場要預約，因為一次只能處理一位。",
+            "延伸版：時段是三小時一格，這是實際的排法。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why do you need a reservation at a crematorium?\nA: Because they can only handle one at a time.",
+          "editorNote": "For when a friend waits for the twist and you only describe the workflow.",
+          "variations": [
+            "Short: Reservations are needed because it handles one at a time.",
+            "Extended: Slots are three hours each, which is how the schedule works."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-537",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "保險",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問保險員，如果我明天走了，理賠金多久會到。\n他說：七個工作天。\n我問：不能快一點嗎。\n他說：你太太要先帶死亡證明來。",
+          "editorNote": "適合對方期待你崩潰、你卻只確認文件的時候。",
+          "variations": [
+            "短版：理賠七個工作天，要先附死亡證明。",
+            "延伸版：他回答得很專業，沒有多說一個字。"
+          ]
+        },
+        "en": {
+          "content": "I asked the insurance agent how soon the payout arrives if I die tomorrow.\nHe said seven business days.\nI asked if it could be faster.\nHe said my wife has to bring the death certificate first.",
+          "editorNote": "For when people expect a breakdown and you only confirm the paperwork.",
+          "variations": [
+            "Short: Payout takes seven business days, with a death certificate attached.",
+            "Extended: His answer was professional and not one word longer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-538",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://pickupdose.com/anti-jokes/",
+      "sourceNote": "取材自反笑話「答案就是字面」的寫法；情境為原創",
+      "tags": [
+        "黑色幽默",
+        "反笑話",
+        "醫生",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 醫生，我還能活多久？\n— 看你怎麼定義活。\n— 就是心跳還在。\n— 那還有很久，只是你會很久沒有意識。",
+          "editorNote": "適合有人想聽安慰、你只給定義的時候。",
+          "variations": [
+            "短版：心跳還在的話，還有很久，只是沒有意識。",
+            "延伸版：醫生把問題當成字義題來回答。"
+          ]
+        },
+        "en": {
+          "content": "— Doctor, how long do I have?\n— It depends how you define alive.\n— Heartbeat still going.\n— Then a long time, though you would not be conscious for much of it.",
+          "editorNote": "For when someone wants comfort and you give a definition.",
+          "variations": [
+            "Short: If it is just a heartbeat, a long time, minus consciousness.",
+            "Extended: The doctor answered it as a question about word meaning."
+          ]
+        }
+      }
     }
   ]
 }

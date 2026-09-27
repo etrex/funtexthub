@@ -15587,6 +15587,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-569",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://dev.to/lirantal/so-you-think-youre-just-gonna-npm-install-think-again-lh4",
+      "sourceNote": "DEV Community 談開發流程與依賴風險，改寫成物件第一人稱短場景",
+      "tags": [
+        "測試環境",
+        "工程師日常",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這個月有十四個人連上我。十三個人看一眼就登出，剩下那個把我的資料庫清空，留了一句抱歉。我今天還是沒有被關掉。",
+          "editorNote": "給還養著沒人認領的測試機的團隊。",
+          "variations": [
+            "短版：測試機的日誌，比任何人的週報都誠實。",
+            "延伸版：沒有人認領的機器，每個月照樣收到帳單。"
+          ]
+        },
+        "en": {
+          "content": "Fourteen people logged into me this month. Thirteen took one look and logged out. The last one emptied my database and left an apology. I still haven't been shut down.",
+          "editorNote": "For teams still paying for a test box nobody claims.",
+          "variations": [
+            "Short version: A test box's logs are more honest than anyone's weekly report.",
+            "Extended: Unclaimed machines still get billed every month."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-570",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://dev.to/lirantal/so-you-think-youre-just-gonna-npm-install-think-again-lh4",
+      "sourceNote": "DEV Community 談開發流程與依賴風險，改寫成物件第一人稱短場景",
+      "tags": [
+        "密碼",
+        "資安",
+        "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我貼在螢幕左下角，已經兩年\n— 上面的密碼換過三次，我沒被換過\n— 每次有人拍辦公室照片，我都被手擋住\n— 上週稽核來了，他們把我掀起來看\n— 底下寫著同一組密碼",
+          "editorNote": "給貼過密碼便條紙的人。",
+          "variations": [
+            "短版：便條紙沒有備份，但它從不掉線。",
+            "延伸版：資安宣導海報就掛在那張便條紙隔壁。"
+          ]
+        },
+        "en": {
+          "content": "— I've been stuck to the bottom left of the screen for two years.\n— The password on me has changed three times. I haven't.\n— Whenever someone photographs the office, a hand covers me.\n— Last week the auditors flipped me over.\n— Underneath was the same password.",
+          "editorNote": "For anyone who has ever put a password on a sticky note.",
+          "variations": [
+            "Short version: A sticky note has no backup, but it never goes offline.",
+            "Extended: The security awareness poster hangs right next to it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-571",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://dev.to/lirantal/so-you-think-youre-just-gonna-npm-install-think-again-lh4",
+      "sourceNote": "DEV Community 談開發流程與依賴風險，改寫成物件第一人稱短場景",
+      "tags": [
+        "排程",
+        "cron",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "每天凌晨兩點十五分，我準時醒來，跑四十秒，再睡回去。寫我的人已經離職。上個月伺服器搬家，我的名字沒有進清單，我今天還是醒了，對著空氣跑了四十秒。",
+          "editorNote": "給接手過沒人留文件的排程任務的人。",
+          "variations": [
+            "短版：被搬走的排程，還在舊房間準時起床。",
+            "延伸版：離職交接單上少寫一行，排程照跑一年。"
+          ]
+        },
+        "en": {
+          "content": "Every day at 2:15 a.m., I wake up on time, run for forty seconds, and go back to sleep. The person who wrote me left the company. Last month the servers moved and my name missed the list. I woke up today anyway and ran forty seconds against thin air.",
+          "editorNote": "For anyone who inherited a scheduled job with no documentation.",
+          "variations": [
+            "Short version: The relocated job still gets up on time in the old room.",
+            "Extended: One missing line in the handover sheet, and the job runs for another year."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-572",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://dev.to/lirantal/so-you-think-youre-just-gonna-npm-install-think-again-lh4",
+      "sourceNote": "DEV Community 談開發流程與依賴風險，改寫成物件第一人稱短場景",
+      "tags": [
+        "按鈕",
+        "誤刪",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我上面寫的是「確定」。今天被按了一次，力道很輕。按完之後，那個人盯著螢幕十一秒沒動，接著打開了備份資料夾，我也看見了，裡面是空的。",
+          "editorNote": "給按下確認之前沒看清楚對象的人。",
+          "variations": [
+            "短版：確定鍵不問你確不確定，它只負責被按。",
+            "延伸版：備份資料夾是空的那十一秒，比整個下午都長。"
+          ]
+        },
+        "en": {
+          "content": "The word on me is \"Confirm.\" I was pressed once today, very lightly. Afterward the person stared at the screen for eleven seconds without moving, then opened the backup folder. I saw it too. It was empty.",
+          "editorNote": "For anyone who clicked confirm without checking the target.",
+          "variations": [
+            "Short version: The confirm button never asks if you're sure, it only gets pressed.",
+            "Extended: Eleven seconds over an empty backup folder outlast the whole afternoon."
+          ]
+        }
+      }
     }
   ]
 }

@@ -15428,7 +15428,114 @@
           "variations": ["Short version: When the suitcase closes, it means something got left outside."]
         }
       }
+    },
+    {
+      "id": "aw-588",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為反問收尾的場面描寫",
+      "tags": [
+        "廢話文學",
+        "職場",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "會議室的白板上寫著「明天再討論」，字跡壓得很深，筆畫都陷進板面。\n白板底下還留著一排擦不掉的舊字，也是「明天再討論」。\n那支白板筆的蓋子，是哪一天不見的？",
+          "editorNote": "開會老是延後、白板永遠擦不乾淨的時候可以用",
+          "variations": [
+            "短版：明天再討論寫得越用力，越擦不掉。"
+          ]
+        },
+        "en": {
+          "content": "On the meeting room whiteboard it says \"Discuss tomorrow,\" pressed in so hard the strokes sink into the board.\nUnderneath, a row of ghost writing that won't erase says the same thing.\nOn which day did the cap of that marker go missing?",
+          "editorNote": "For meetings that keep getting pushed back and whiteboards that never come clean",
+          "variations": [
+            "Short version: The harder \"Discuss tomorrow\" is written, the less it erases."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-589",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為反問收尾的場面描寫",
+      "tags": [
+        "廢話文學",
+        "飲食",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 冰箱裡有半罐辣椒醬\n— 罐口結了一圈硬掉的紅色\n— 蓋子旋了兩圈就轉不緊\n— 標籤上的日期被油糊掉\n— 這罐是哪一次開的？",
+          "editorNote": "清冰箱清到過期不明物的時候可以用",
+          "variations": [
+            "短版：半罐辣椒醬的日期，糊掉之後就只剩半罐這件事是真的。"
+          ]
+        },
+        "en": {
+          "content": "— There is half a jar of chili sauce in the fridge.\n— A ring of hardened red crusts the rim.\n— The lid stops tightening after two turns.\n— The date on the label is smeared with oil.\n— On which occasion was this jar opened?",
+          "editorNote": "For cleaning out a fridge and meeting mystery leftovers",
+          "variations": [
+            "Short version: Once the date smears away, half a jar is the only fact left."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-590",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為反問收尾的場面描寫",
+      "tags": [
+        "廢話文學",
+        "日常",
+        "生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "自動販賣機吐出一枚五十元硬幣，掉進出口的凹槽，轉了三圈才躺平。\n你撿起來，發現邊上有一道很淺的刮痕，像被誰的鑰匙碰過。\n這枚硬幣上一次被投進去，是幾點的事？",
+          "editorNote": "找零、撿硬幣、盯著零錢發呆的時候可以用",
+          "variations": [
+            "短版：硬幣轉三圈才躺平，比多數人下班快。"
+          ]
+        },
+        "en": {
+          "content": "The vending machine spits out a fifty-dollar coin that drops into the tray and spins three times before lying flat.\nYou pick it up and find a faint scratch on the edge, as if a key once brushed it.\nAt what hour was this coin last fed into a slot?",
+          "editorNote": "For making change and staring at loose coins",
+          "variations": [
+            "Short version: The coin spins three times before lying down, which beats most people at clock-out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-591",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://quoted.shiquan.tw/happy/nonsense",
+      "sourceNote": "廢話文學語錄格式參考，重新創作為反問收尾的場面描寫",
+      "tags": [
+        "廢話文學",
+        "旅行",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "火車上的桌板放下來，桌面有一圈杯子留下的水痕。\n水痕旁邊有人用指甲刻了一個很小的箭頭。\n那個箭頭指的是車頭還是車尾？",
+          "editorNote": "搭長途火車、盯著桌板發呆的時候可以用",
+          "variations": [
+            "短版：桌板上的箭頭指著某個方向，火車自己不太在意。"
+          ]
+        },
+        "en": {
+          "content": "You lower the tray table on the train, and the surface carries a ring left by a cup.\nNext to the ring, someone scratched a tiny arrow with a fingernail.\nDoes that arrow point toward the front of the train or the back?",
+          "editorNote": "For long train rides and idle tray-table staring",
+          "variations": [
+            "Short version: The arrow on the tray points somewhere, and the train does not much mind."
+          ]
+        }
+      }
     }
-
   ]
 }

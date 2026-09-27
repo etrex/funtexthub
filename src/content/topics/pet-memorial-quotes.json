@@ -12766,6 +12766,122 @@
           "variations": ["Short version: I put the reminder card in a drawer.", "Longer version: I washed the sock, then put it back under the basket."]
         }
       }
+    },
+    {
+      "id": "pm-460",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "AVMA 文章提到保留習慣與儀式是常見的悲傷回應；本則以認真語氣寫留床位",
+      "tags": [
+        "日常儀式",
+        "睡前",
+        "想念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡覺時我只用床的左半邊，右邊留給牠，被角照舊折好。\n上週朋友來借住，我很認真地跟他說，那一側有人了。",
+          "editorNote": "給還留著位置的人；不必收起來，位置留著就是位置",
+          "variations": [
+            "短版：那一側有人了。",
+            "延伸版：朋友點點頭，睡在沙發上，隔天還幫我把被角折好。"
+          ]
+        },
+        "en": {
+          "content": "I only sleep on the left half of the bed. The right side is his, and I still fold the blanket corner down.\nLast week a friend stayed over, and I told him very seriously that side was taken.",
+          "editorNote": "For anyone still saving a spot; you don't have to fold it away, a saved spot is just a saved spot",
+          "variations": [
+            "Short version: That side was taken.",
+            "Longer version: My friend nodded, slept on the sofa, and folded the corner back the next morning."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-461",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "AVMA 文章提到日常提醒與例行公事會延續悲傷；本則寫訂閱按暫停",
+      "tags": [
+        "訂閱",
+        "日常習慣",
+        "暫停"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 每月一號，飼料訂閱按「暫停」\n— 不按「取消」，按鈕我看了很久\n— 寵物店的門口，我會站一分鐘\n— 手機通訊錄，牠的名字還在\n— 疫苗日曆，那一格沒刪",
+          "editorNote": "給還捨不得取消訂閱的人；暫停鍵就是為這種時候設計的",
+          "variations": [
+            "短版：我按了暫停。",
+            "延伸版：客服問原因，我填了「暫時不需要」，這樣寫應該也算對。"
+          ]
+        },
+        "en": {
+          "content": "— On the first of each month, I press \"pause\" on the food subscription.\n— Not \"cancel\"; I looked at that button for a long time.\n— At the pet store entrance, I stand for one minute.\n— In my contacts, his name is still there.\n— On the vaccine calendar, that square stays.",
+          "editorNote": "For anyone not ready to cancel a subscription; the pause button exists for exactly this",
+          "variations": [
+            "Short version: I pressed pause.",
+            "Longer version: Support asked why, and I typed \"not needed for now,\" which feels accurate enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-462",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "AVMA 文章提到保存照片與紀念物；本則寫認真擦相框",
+      "tags": [
+        "紀念",
+        "照片",
+        "保養"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我認真研究過擦牠相框的方法，最後買了一塊專用眼鏡布，每週日固定擦一次，力道比擦我自己的螢幕還輕。",
+          "editorNote": "給把照片當正事照顧的人；相框乾淨，就是你的說法",
+          "variations": [
+            "短版：每週日，擦一次。",
+            "延伸版：眼鏡布用舊了，我又買了一塊同款。"
+          ]
+        },
+        "en": {
+          "content": "I did real research on how to clean his photo frame, ended up buying a proper lens cloth, and wipe it every Sunday, more gently than I wipe my own screen.",
+          "editorNote": "For anyone who treats a photo frame as serious work; a clean frame is your way of saying it",
+          "variations": [
+            "Short version: Every Sunday, one wipe.",
+            "Longer version: When the cloth wore out, I bought the same one again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-463",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet",
+      "sourceNote": "AVMA 文章提到固定時段的悲傷波動；本則寫留著餵食鬧鐘",
+      "tags": [
+        "提醒",
+        "習慣",
+        "手機"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 手機鬧鐘，五點半，我沒關\n— 響的時候，我會坐一下\n— 坐夠一分鐘，再按停止\n— 朋友問為什麼不刪，我說有用\n— 至於有什麼用，我還在研究",
+          "editorNote": "給還留著那個鬧鐘的人；鈴響時坐一下，也是一種照顧",
+          "variations": [
+            "短版：鬧鐘我留著。",
+            "延伸版：週末它照響，我照坐，一分鐘一秒不少。"
+          ]
+        },
+        "en": {
+          "content": "— The phone alarm at 5:30, I never turned it off.\n— When it rings, I sit down for a moment.\n— After a full minute, I press stop.\n— A friend asked why I don't delete it, and I said it's useful.\n— Useful for what, I'm still researching.",
+          "editorNote": "For anyone keeping that old alarm; sitting down when it rings is a kind of care too",
+          "variations": [
+            "Short version: I kept the alarm.",
+            "Longer version: It rings on weekends too, and I sit the full minute, not one second less."
+          ]
+        }
+      }
     }
   ]
 }

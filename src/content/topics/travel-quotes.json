@@ -13328,6 +13328,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-459",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5558354",
+      "sourceNote": "編輯原創：取材自旅途中天氣變化的新聞情境，只寫天氣與人的動作",
+      "tags": [
+        "雨天",
+        "高鐵",
+        "旅行",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "高鐵站外的雨下得很斜，她把行李箱轉了個方向，讓輪子背對風。手機螢幕被擦了三次，車次那一行始終沒變。她打開保溫瓶喝了一口，又蓋上，蓋子扭到底再倒退半圈。",
+          "editorNote": "適合配雨天轉車的照片，讓動作自己說話。",
+          "variations": [
+            "短版：雨斜著下，她擦了三次螢幕。",
+            "延伸版：保溫瓶的蓋子扭到底，又倒退半圈。"
+          ]
+        },
+        "en": {
+          "content": "Rain slanted hard outside the rail station, and she turned her suitcase so the wheels faced away from the wind. She wiped her phone screen three times, and the train number never changed. She took a sip from her thermos, capped it, twisted the lid all the way down and back half a turn.",
+          "editorNote": "Pairs well with a photo of a rainy transfer, letting the small movements carry the scene.",
+          "variations": [
+            "Short: It rained sideways, and she wiped the screen three times.",
+            "Longer: The thermos lid went all the way down, then back half a turn."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-460",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5558354",
+      "sourceNote": "編輯原創：取材自旅途中天氣變化的新聞情境，只寫天氣與人的動作",
+      "tags": [
+        "海邊",
+        "渡輪",
+        "旅行",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 渡輪甲板上，雲壓得很低\n— 他把外套拉鍊拉到下巴\n— 海面是灰的，海鷗一隻都沒飛\n— 相機收回背包，又拿出來，又收回去",
+          "editorNote": "適合搭船照片的短句配文，一行一個畫面。",
+          "variations": [
+            "短版：雲很低，相機收了又拿。",
+            "延伸版：海鷗一隻都沒飛，拉鍊拉到下巴。"
+          ]
+        },
+        "en": {
+          "content": "— On the ferry deck, the clouds hang low.\n— He zips his jacket up to his chin.\n— The sea is gray, and not one gull is flying.\n— The camera goes into the backpack, comes out, goes back in.",
+          "editorNote": "Good as a caption for a boat-ride photo, one image per line.",
+          "variations": [
+            "Short: Low clouds, and the camera in and out of the bag.",
+            "Longer: Not one gull in the air, zipper up to the chin."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-461",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5558354",
+      "sourceNote": "編輯原創：取材自旅途中天氣變化的新聞情境，只寫天氣與人的動作",
+      "tags": [
+        "沙漠",
+        "公路旅行",
+        "熱",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "沙漠公路上的熱氣把遠方的路面抖成一片水。司機把冷氣關掉，四扇車窗降到底。後座的人用帽子蓋住臉，帽簷隨著顛簸一下一下敲在膝蓋上。",
+          "editorNote": "適合公路旅行的酷熱片段，貼在車窗外的照片下。",
+          "variations": [
+            "短版：路面抖成水，帽簷敲著膝蓋。",
+            "延伸版：冷氣關了，四扇窗降到底。"
+          ]
+        },
+        "en": {
+          "content": "Heat shook the far end of the desert highway into a sheet of water. The driver switched off the air conditioning and rolled all four windows down. In the back seat, someone had a hat over their face, and the brim tapped their knee with every bump.",
+          "editorNote": "For a scorching road-trip moment, posted under a photo taken out the window.",
+          "variations": [
+            "Short: The road shimmers like water, and a hat brim taps a knee.",
+            "Longer: Air conditioning off, all four windows down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-462",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ltn.com.tw/news/life/breakingnews/5558354",
+      "sourceNote": "編輯原創：取材自旅途中天氣變化的新聞情境，只寫天氣與人的動作",
+      "tags": [
+        "雪",
+        "纜車",
+        "旅行",
+        "天氣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "山頂的雪從中午飄到現在，纜車站的階梯已經看不見紋路。他蹲下來重綁鞋帶，綁了三次才停手。手套脫下來拍乾，放在暖氣出風口前烘。",
+          "editorNote": "適合雪地行程的中場休息照，寫天氣不寫心情。",
+          "variations": [
+            "短版：階梯沒了紋路，鞋帶綁了三次。",
+            "延伸版：手套拍乾，攤在出風口前烘。"
+          ]
+        },
+        "en": {
+          "content": "Snow has been falling on the summit since noon, and the steps of the cable car station have lost their edges. He crouched to retie his boots and only stopped after the third time. He slapped the snow off his gloves and laid them in front of the heater vent.",
+          "editorNote": "For a mid-trip rest photo on a snowy itinerary, writing weather instead of feelings.",
+          "variations": [
+            "Short: The steps lost their edges, and the laces got tied three times.",
+            "Longer: Gloves slapped dry, then laid before the vent."
+          ]
+        }
+      }
     }
   ]
 }

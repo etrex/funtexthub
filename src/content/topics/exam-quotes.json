@@ -13913,6 +13913,126 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "eq-467",
+            "dateAdded": "2026-09-27",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取准考證攜帶與核對規定，改寫成物件視角",
+            "tags": [
+                "考試",
+                "准考證",
+                "物件視角",
+                "折痕"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "我被折成四折，塞在筆袋最外層的夾層。今天早上他把我拿出來核對了三次，每次都用拇指把折痕抹平。進了考場，我被壓在透明墊板底下，照片裡的他比現在瘦一點。",
+                    "editorNote": "適合寫考前那個被反覆確認、卻從沒被認真看過的小東西。",
+                    "variations": [
+                        "短版：我被抹平了三次，折痕還在。",
+                        "延伸版：他核對的是座位號碼，我身上的照片他一眼都沒看。"
+                    ]
+                },
+                "en": {
+                    "content": "I am folded in four and wedged into the outermost flap of the pencil case. This morning he took me out three times to check, and each time he smoothed my creases with his thumb. Inside the exam hall I sit under a clear desk pad, where the photo of him looks a little thinner than he does now.",
+                    "editorNote": "For the small object that gets checked again and again before a test but is never actually looked at.",
+                    "variations": [
+                        "Short: Smoothed flat three times, and the creases are still here.",
+                        "Extended: He checked the seat number. He never glanced at the photo on me."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-468",
+            "dateAdded": "2026-09-27",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取考試時間流程，改寫成橡皮擦的時間帳",
+            "tags": [
+                "考試",
+                "橡皮擦",
+                "物件視角",
+                "清單"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "— 開考十分鐘，他握住我一次\n— 第二十分鐘，他握住我三次\n— 第四十分鐘，我被壓在手心沒動\n— 收卷鈴響，我只剩原來的一半\n— 現在我躺在筆袋底，旁邊是三支沒水的筆",
+                    "editorNote": "適合用消耗量寫一場考試的節奏，不用說緊張，數字自己會說。",
+                    "variations": [
+                        "短版：他用掉我一半，交卷時連看都沒看我一眼。",
+                        "延伸版：我唯一沒被用到的那個角，還是方的。"
+                    ]
+                },
+                "en": {
+                    "content": "— Ten minutes in, he picks me up once.\n— Twenty minutes in, he picks me up three times.\n— Forty minutes in, he holds me in his palm and doesn't move.\n— When the bell rings, I am half of what I was.\n— Now I lie at the bottom of the pencil case beside three dried-out pens.",
+                    "editorNote": "For telling the tempo of an exam through how much gets used up, so the numbers do the talking instead of the word nervous.",
+                    "variations": [
+                        "Short: He used up half of me and didn't look at me when he handed in.",
+                        "Extended: The one corner he never used is still square."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-469",
+            "dateAdded": "2026-09-27",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取考場時鐘與看時間的規定，改寫成教室掛鐘視角",
+            "tags": [
+                "考試",
+                "時鐘",
+                "物件視角",
+                "秒針"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "我掛在黑板上方，秒針每走一格，就有人抬頭看我一次。今天抬頭的人特別多，靠走道那個男生一共抬了十一次。我的電池上個月剛換過，走得很準。",
+                    "editorNote": "適合寫考場裡最被依賴、也最被討厭的那個東西。",
+                    "variations": [
+                        "短版：一堂考試，我被看了三百多次，沒人跟我說謝謝。",
+                        "延伸版：我走得很準，這件事今天沒有讓任何人開心。"
+                    ]
+                },
+                "en": {
+                    "content": "I hang above the blackboard, and every tick of my second hand makes someone look up. Today more people look up than usual, and the boy by the aisle does it eleven times. My battery was replaced last month, and I run right on time.",
+                    "editorNote": "For the object in an exam hall that everyone depends on and no one is fond of.",
+                    "variations": [
+                        "Short: Over one exam I was looked at three hundred times, and no one said thank you.",
+                        "Extended: I keep perfect time, and today that made nobody happy."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-470",
+            "dateAdded": "2026-09-27",
+            "sourceUrl": "https://blog.104.com.tw/gsat-notification-and-tips/",
+            "sourceNote": "104職場力學測考場注意事項文；取考場座位與桌面規定，改寫成課桌視角",
+            "tags": [
+                "考試",
+                "課桌",
+                "物件視角",
+                "刻痕"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "我是靠窗第三排的那張桌子，桌面左上角有一條原子筆劃出來的細線。今天坐下來的人用食指沿著那條線摸了一遍，才開始寫。他寫了四十分鐘，手肘壓在我身上的重量一直沒變。",
+                    "editorNote": "適合寫考場裡被留下來的痕跡，以及一個人坐下前的小儀式。",
+                    "variations": [
+                        "短版：他摸完那條線，才把筆蓋拔開。",
+                        "延伸版：這條線比他早到我這裡三屆，他不知道。"
+                    ]
+                },
+                "en": {
+                    "content": "I am the desk in the third row by the window, with a thin ballpoint line scratched across the upper left corner. Today the person who sits down runs an index finger along that line before starting to write. He writes for forty minutes, and the weight of his elbow on me never changes.",
+                    "editorNote": "For the marks left behind in an exam hall, and the small ritual of a person before sitting down.",
+                    "variations": [
+                        "Short: He traced the line, then pulled off the pen cap.",
+                        "Extended: That line got here three graduating classes before he did, and he doesn't know."
+                    ]
+                }
+            }
         }
   ]
 }

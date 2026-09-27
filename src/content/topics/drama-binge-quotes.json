@@ -11686,6 +11686,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-418",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "延用本檔追劇成癮參考來源，原創改寫成三處不同地點的短鏡頭",
+      "tags": ["追劇", "三個場景", "續集"],
+      "i18n": {
+        "zh-tw": {
+          "content": "書店櫃上的原著小說被翻到第三章，書籤夾在男主角初登場那頁。\n租屋處的筆電還開著，第八集的進度條停在四十分鐘。\n上班的會議室裡，有人低頭滑手機，只為了確認明晚能不能開播第九集。",
+          "editorNote": "適合貼在追劇群組，當作大家各自忙碌卻都惦記同一部劇的證據。",
+          "variations": [
+            "短版：書、筆電、會議室，三個地方都有人在想同一部劇。",
+            "延伸版：進度條停在四十分鐘，書籤夾在第三章，會議桌下的手機亮了一下。"
+          ]
+        },
+        "en": {
+          "content": "On a bookstore shelf, the source novel lies open at chapter three, a bookmark holding the page where the male lead first appears.\nIn a rented room, the laptop is still on, episode eight's progress bar frozen at forty minutes.\nIn a conference room, someone glances down at a phone just to check whether episode nine drops tomorrow night.",
+          "editorNote": "Good for a watch-party group chat, as proof everyone is busy yet thinking about the same show.",
+          "variations": [
+            "Short: A book, a laptop, a meeting room, and the same show on three minds.",
+            "Extended: A progress bar at forty minutes, a bookmark at chapter three, a phone lighting up under the table."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-419",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "延用本檔追劇成癮參考來源，原創改寫成三處各說一句的對白式短鏡頭",
+      "tags": ["劇透", "三個場景", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你先別講，我今晚回家就補到那集。」\n「大結局是誰？我只看了一半，請不要現在說。」\n「原來最後是那個人？欸，等我把耳機戴上。」",
+          "editorNote": "三句話分別像在辦公室、電梯口外的走廊、餐廳裡，適合形容大家都在躲劇透。",
+          "variations": [
+            "短版：每個人都在躲劇透，只是躲的姿勢不同。",
+            "延伸版：一個摀耳朵，一個轉身，一個乾脆把耳機戴到最大聲。"
+          ]
+        },
+        "en": {
+          "content": "\"Don't tell me yet, I'm catching up on that episode tonight.\"\n\"Who's it in the finale? I'm only halfway, so please hold off.\"\n\"So it ends with that person? Wait, let me put my earbuds in first.\"",
+          "editorNote": "The three lines could come from an office, a hallway, and a restaurant, fitting for everyone dodging spoilers.",
+          "variations": [
+            "Short: Everyone is dodging spoilers, just with different postures.",
+            "Extended: One covers their ears, one turns away, one cranks the earbuds to max."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-420",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "延用本檔追劇成癮參考來源，原創改寫成跨地點的深夜短鏡頭",
+      "tags": ["深夜", "三個場景", "字幕"],
+      "i18n": {
+        "zh-tw": {
+          "content": "陽光咖啡館靠窗的位置，有人把字幕調成日文，假裝自己很專業。\n宿舍上鋪，被子裡透出一小塊藍光，偶爾傳來憋著的笑聲。\n深夜的計程車後座，乘客戴著單邊耳機，正在把上一集的片尾曲哼完。",
+          "editorNote": "想說追劇的人無所不在，但每個人的姿勢都不一樣時可以用。",
+          "variations": [
+            "短版：咖啡館、上鋪、計程車，追劇的人到處都有。",
+            "延伸版：一個假裝專業，一個躲在被子裡，一個把片尾曲哼到目的地。"
+          ]
+        },
+        "en": {
+          "content": "At a sunny café window seat, someone switches the subtitles to Japanese to look like a serious viewer.\nOn a dorm's top bunk, a small square of blue light leaks out of the blanket, with the occasional stifled laugh.\nIn the back of a late-night cab, a passenger with one earbud in hums the ending theme from the last episode.",
+          "editorNote": "Use it when you want to say bingers are everywhere, each with their own posture.",
+          "variations": [
+            "Short: Café, bunk bed, taxi: binge watchers are everywhere.",
+            "Extended: One acting serious, one hiding under a blanket, one humming the theme all the way to the destination."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-421",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/93824",
+      "sourceNote": "延用本檔追劇成癮參考來源，原創改寫成三處語氣各異的收尾鏡頭",
+      "tags": ["大結局", "三個場景", "後遺症"],
+      "i18n": {
+        "zh-tw": {
+          "content": "超市生鮮區，有個人盯著一排蔥看了很久，因為劇裡女主角就是在這裡遇見前男友。\n客廳的茶几上，遙控器被擦得很乾淨，沒人捨得再按下一集。\n公司茶水間，同事之間只剩一句暗號：「你也看完了？」",
+          "editorNote": "適合在大結局播出隔天發，形容整個週一都有人在戲裡出不來。",
+          "variations": [
+            "短版：超市、客廳、茶水間，都有人還沒從結局走出來。",
+            "延伸版：盯著蔥發呆的、擦遙控器的、只丟暗號的，都是同一個劇迷。"
+          ]
+        },
+        "en": {
+          "content": "In the supermarket produce aisle, someone stares at a row of green onions for a while, because the heroine ran into her ex right here on screen.\nOn a living room coffee table, the remote has been wiped spotless, and no one dares press next episode.\nIn the office pantry, coworkers trade a single code phrase: \"So you finished it too?\"",
+          "editorNote": "Post it the day after a finale airs, for a Monday full of people still stuck in the story.",
+          "variations": [
+            "Short: Supermarket, living room, pantry: someone's still not over the ending in each.",
+            "Extended: The onion starer, the remote wiper, and the code-phrase whisperer are all the same fan."
+          ]
+        }
+      }
     }
   ]
 }

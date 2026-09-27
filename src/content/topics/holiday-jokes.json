@@ -15822,6 +15822,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "hj-535",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202609150039/",
+      "sourceNote": "交換禮物預算的兩種聽法；改寫成同一句話的兩份禮物",
+      "tags": [
+        "節日限定",
+        "聖誕節",
+        "交換禮物",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司說聖誕交換禮物預算三百元。抽到我的人聽成三百元以內，買了一條九十九元的圍巾。我聽成三百元起跳，帶了一盒三百五十元的餅乾。兩份禮物在桌上並排，包裝紙都是紅色，沒有人開口問預算到底怎麼算。",
+          "editorNote": "適合聖誕節前的公司交換禮物貼文，同一個預算數字兩種聽法。",
+          "variations": [
+            "短版：三百元以內的圍巾，遇上三百元起跳的餅乾。",
+            "延伸版：兩份禮物同色包裝並排，價差二百五十一元，沒人提。"
+          ]
+        },
+        "en": {
+          "content": "The office said the Christmas gift exchange budget was three hundred dollars. The person who drew my name heard three hundred at most and bought a scarf for ninety-nine. I heard three hundred at least and brought a box of cookies for three hundred fifty. The two gifts sat side by side on the table in matching red paper, and nobody asked how the budget was supposed to work.",
+          "editorNote": "For posting before a Christmas office gift swap, one budget number heard two ways.",
+          "variations": [
+            "Short version: a scarf under three hundred meets cookies over three hundred.",
+            "Longer version: two gifts in matching red paper, a gap of two hundred fifty-one dollars, and no one brought it up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-536",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202609150039/",
+      "sourceNote": "紅包金額指示被家人各自聽成不同版本",
+      "tags": [
+        "節日限定",
+        "春節",
+        "紅包",
+        "家庭"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 媽說「今年紅包包小一點」\n— 弟聽成每個人的金額都減半\n— 我聽成只有我的金額減半\n— 阿姨聽成她該回一份小一點的\n— 紅包袋今年全是同一款\n— 大家收的時候都笑得很客氣",
+          "editorNote": "適合春節前後貼文，一句家長交代被每個人聽成不同版本。",
+          "variations": [
+            "短版：小一點的紅包，在五個人耳朵裡有五種尺寸。",
+            "延伸版：袋子是同一款，裡面的算法各有各的版本。"
+          ]
+        },
+        "en": {
+          "content": "— Mom said, \"Keep the red envelopes small this year.\"\n— My brother heard that everyone's amount was cut in half.\n— I heard that only my amount was cut in half.\n— Auntie heard that she should return a smaller one.\n— The envelopes this year are all the same design.\n— Everyone smiled very politely as they collected them.",
+          "editorNote": "For Lunar New Year posts, one instruction from a parent heard five different ways.",
+          "variations": [
+            "Short version: one small envelope, five different sizes in five different ears.",
+            "Longer version: the envelopes match, and each person's math does not."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-537",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202609150039/",
+      "sourceNote": "跨年倒數前一句話的兩種意思；改寫成鑰匙與告白",
+      "tags": [
+        "節日限定",
+        "跨年",
+        "告白",
+        "煙火"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "跨年倒數剩十秒，他說「等一下我有話要說」。我聽成要告白，先把電話塞進口袋。他說的是鑰匙還在我這裡，要我等一下別走。煙火放完，我們兩個站在原地，口袋裡各有一樣東西。",
+          "editorNote": "適合跨年貼文，一句等一下我有話說，兩邊各有各的劇本。",
+          "variations": [
+            "短版：他的話是鑰匙，我的耳朵是告白，煙火照放。",
+            "延伸版：十秒倒數裡，一個人在想台詞，一個人在想口袋。"
+          ]
+        },
+        "en": {
+          "content": "With ten seconds left in the countdown, he said, \"Wait, I have something to tell you.\" I heard a confession and slid my phone into my pocket. He meant the spare key was still with me and I should not leave yet. When the fireworks ended we both stood there, each with one item in a pocket.",
+          "editorNote": "For New Year's Eve posts, one line before midnight and two different scripts.",
+          "variations": [
+            "Short version: his line was about a key, my ears were on a confession, and the fireworks went off anyway.",
+            "Longer version: in ten seconds one person rehearsed lines and the other thought about pockets."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hj-538",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.businesstoday.com.tw/article/category/183030/post/202609150039/",
+      "sourceNote": "甜粽鹹粽的都可以，兩個人各有各的意思",
+      "tags": [
+        "節日限定",
+        "端午節",
+        "粽子",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「粽子你要甜的還是鹹的？」\n「都可以。」\n「好，那我甜的鹹的各買一串。」\n「我的都可以是指鹹的。」\n「我的各買一串是指你也要吃甜的。」\n「冰箱放不下了。」",
+          "editorNote": "適合端午節貼文，都可以與各買一串在兩個人嘴裡是不同數量。",
+          "variations": [
+            "短版：都可以是鹹的，各買一串是兩串，冰箱是滿的。",
+            "延伸版：兩句話各自成立，粽子只是被留在中間。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you want your rice dumplings sweet or savory?\"\n\"Either is fine.\"\n\"Okay, I'll buy a string of each.\"\n\"My either meant savory.\"\n\"My a-string-of-each meant you eat sweet too.\"\n\"The fridge is full.\"",
+          "editorNote": "For Dragon Boat Festival posts, where either and a string of each mean different quantities.",
+          "variations": [
+            "Short version: either meant savory, each meant two strings, and the fridge is full.",
+            "Longer version: both sentences hold up, and the dumplings are stuck in the middle."
+          ]
+        }
+      }
     }
   ]
 }

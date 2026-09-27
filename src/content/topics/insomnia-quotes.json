@@ -12816,6 +12816,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-458",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: what to do when you can't sleep",
+      "tags": [
+        "失眠",
+        "對白",
+        "看時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你又看時間了。」\n「沒有，我在確認它有沒有壞。」\n「三點十四，跟你十分鐘前確認的三點零四，差得很合理。」\n「那我再確認一次。」\n「三點十五。」",
+          "editorNote": "兩個人都醒著時，一個負責拆穿、一個負責嘴硬。適合半夜傳給也在滑手機的朋友。",
+          "variations": [
+            "短版：「你又看時間了。」「我在確認它有沒有壞。」",
+            "延伸版：「你又看時間了。」「沒有，我在確認它有沒有壞。」「十分鐘前是三點零四。」「那我再確認一次。」"
+          ]
+        },
+        "en": {
+          "content": "\"You checked the time again.\"\n\"No, I was making sure it isn't broken.\"\n\"3:14, and ten minutes ago it was 3:04. Perfectly reasonable gap.\"\n\"Then I'll check one more time.\"\n\"3:15.\"",
+          "editorNote": "When two people are up, one calls it out and one stays stubborn. Good to send a friend who is also scrolling at night.",
+          "variations": [
+            "Short: \"You checked the time again.\" \"I'm making sure it isn't broken.\"",
+            "Extended: \"You checked the time again.\" \"No, I was making sure it isn't broken.\" \"Ten minutes ago it was 3:04.\" \"Then I'll check one more time.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-459",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: what to do when you can't sleep",
+      "tags": [
+        "失眠",
+        "對白",
+        "數羊"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「羊數到幾隻了？」\n「四百二十一。」\n「還不睡嗎？」\n「第三百隻開始有羊插隊，我在維持秩序。」\n「那你是羊還是牧羊人？」\n「我是失眠的人，牧羊只是兼差。」",
+          "editorNote": "數羊數到出事的人才會懂。適合貼在凌晨兩點的群組，讓大家對號入座。",
+          "variations": [
+            "短版：「羊數到幾隻？」「四百二十一，有羊插隊。」",
+            "延伸版：「羊數到幾隻了？」「四百二十一，第三百隻開始有羊插隊。」「那你是羊還是牧羊人？」「失眠的人，牧羊是兼差。」"
+          ]
+        },
+        "en": {
+          "content": "\"How many sheep so far?\"\n\"Four hundred twenty-one.\"\n\"Aren't you going to sleep?\"\n\"Around number three hundred the sheep started cutting in line, so I'm keeping order.\"\n\"So are you the sheep or the shepherd?\"\n\"I'm the insomniac. Shepherding is a side gig.\"",
+          "editorNote": "Only people whose sheep-counting went sideways will get this. Drop it into a 2 a.m. group chat and let everyone see themselves.",
+          "variations": [
+            "Short: \"How many sheep?\" \"Four twenty-one, and some are cutting in.\"",
+            "Extended: \"How many sheep so far?\" \"Four twenty-one, and they started cutting in at three hundred.\" \"Sheep or shepherd?\" \"Insomniac. Shepherding is a side gig.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-460",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: what to do when you can't sleep",
+      "tags": [
+        "失眠",
+        "對白",
+        "白噪音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「白噪音開了嗎？」\n「開了，雨聲。」\n「我這邊是海浪。」\n「要不要跟你換？」\n「換了也一樣醒。」",
+          "editorNote": "適合和同樣睡不著的伴侶或室友，隔著牆互傳。語氣越淡越好。",
+          "variations": [
+            "短版：「白噪音開了嗎？」「雨聲。」「我是海浪。」",
+            "延伸版：「白噪音開了嗎？」「開了，雨聲。」「我這邊是海浪。」「各淋各的雨，各醒各的。」"
+          ]
+        },
+        "en": {
+          "content": "\"Is your white noise on?\"\n\"Yes. Rain.\"\n\"Mine is ocean waves.\"\n\"Want to swap with you?\"\n\"Swapping won't help me sleep.\"",
+          "editorNote": "Works between partners or roommates who are both awake on either side of a wall. The flatter the tone, the better.",
+          "variations": [
+            "Short: \"White noise on?\" \"Rain.\" \"Mine is waves.\"",
+            "Extended: \"Is your white noise on?\" \"Yes. Rain.\" \"Mine is ocean waves.\" \"We each get rained on and each stay awake.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-461",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation: what to do when you can't sleep",
+      "tags": [
+        "失眠",
+        "對白",
+        "晚安"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你怎麼還在線上？」\n「你也是啊。」\n「我明天八點開會。」\n「我明天也八點。」\n「那先掛吧，晚安。」\n「你先。」\n「你先。」",
+          "editorNote": "兩個人都想先讓對方去睡，結果誰也沒去。適合傳給那個明明比你更累的人。",
+          "variations": [
+            "短版：「你怎麼還在線上？」「你也是。」「晚安。」「你先。」",
+            "延伸版：「你怎麼還在線上？」「你也是啊。」「我八點開會。」「我也八點。」「先掛吧。」「你先。」"
+          ]
+        },
+        "en": {
+          "content": "\"Why are you still online?\"\n\"So are you.\"\n\"I have a meeting at eight tomorrow.\"\n\"So do I. Eight.\"\n\"Then let's hang up. Good night.\"\n\"You first.\"\n\"You first.\"",
+          "editorNote": "Each wants the other to sleep first, so neither does. Send it to the person who is more tired than you are.",
+          "variations": [
+            "Short: \"Why are you still online?\" \"So are you.\" \"Good night.\" \"You first.\"",
+            "Extended: \"Why are you still online?\" \"So are you.\" \"Meeting at eight.\" \"Me too.\" \"Let's hang up.\" \"You first.\""
+          ]
+        }
+      }
     }
   ]
 }

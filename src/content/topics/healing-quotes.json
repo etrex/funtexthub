@@ -12834,6 +12834,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "hq-528",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄自我關懷語錄；改寫成半天假單。",
+      "tags": [
+        "療癒",
+        "休息",
+        "自我照顧",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "這張假單今天生效：\n准假天數：半天，不需要理由。\n你上一次真的把自己放下來，是哪一天？\n沒有人會來查，只有你自己知道用了沒。",
+          "editorNote": "給一直沒請過假的人。",
+          "variations": [
+            "短版：准假半天，不需理由，沒人查。",
+            "延伸版：上次把自己放下來是哪天，今天補回來。"
+          ]
+        },
+        "en": {
+          "content": "This leave slip takes effect today:\nApproved: half a day, no reason required.\nWhen was the last time you truly set yourself down?\nNobody will check; only you know whether you used it.",
+          "editorNote": "For someone who has never taken a day off.",
+          "variations": [
+            "Short version: Half a day approved, no reason needed.",
+            "Longer version: Think of the last time you rested, then make it up today."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-529",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄自我關懷語錄；改寫成發放清單。",
+      "tags": [
+        "療癒",
+        "清單",
+        "情緒",
+        "接住自己"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 發放對象：這陣子太會忍耐的人\n— 領取時間：今天下班前\n— 請帶：一個不用解釋的哈欠\n— 可抵換：一頓不逞強的晚餐\n— 領完之後：允許自己什麼都不做",
+          "editorNote": "給忍了很久的人一張可以直接照做的小單子。",
+          "variations": [
+            "短版：太會忍耐的人，今天可以領一個哈欠。",
+            "延伸版：領完以後，什麼都不做也算數。"
+          ]
+        },
+        "en": {
+          "content": "— Issued to: anyone who has been too good at holding it in lately.\n— Pick up: before you leave work today.\n— Bring: one yawn that needs no explanation.\n— Exchangeable for: a dinner where you don't push through.\n— After pickup: permission to do nothing at all.",
+          "editorNote": "A small list for someone who has held on too long.",
+          "variations": [
+            "Short version: If you've been holding it in, claim one yawn today.",
+            "Longer version: After pickup, doing nothing counts as done."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-530",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄自我關懷語錄；改寫成留在桌上的手寫便條。",
+      "tags": [
+        "療癒",
+        "陪伴",
+        "溫柔",
+        "晚安"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手寫便條，壓在碗底：\n冰箱裡那碗湯還能喝，熱一下就好。\n我知道你說不餓，先放在桌上就好。\n喝不喝隨你，碗留著，明天再洗。",
+          "editorNote": "寫給晚歸又嘴硬的家人或自己。",
+          "variations": [
+            "短版：湯熱一下就能喝，不餓也先放桌上。",
+            "延伸版：碗明天再洗，今晚只管讓自己暖一點。"
+          ]
+        },
+        "en": {
+          "content": "Handwritten note, tucked under the bowl:\nThe soup in the fridge is still good; just heat it up.\nI know you said you're not hungry, so just set it on the table.\nDrink it or don't, and leave the bowl until tomorrow.",
+          "editorNote": "For a late-returning, stubborn family member or yourself.",
+          "variations": [
+            "Short version: Heat the soup, and set it down even if you're not hungry.",
+            "Longer version: The bowl can wait until morning; tonight just get a little warmer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "hq-531",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://www.blurtitout.org/quotes/self-compassion",
+      "sourceNote": "頁面收錄自我關懷語錄；改寫成第二次寄出的續領通知。",
+      "tags": [
+        "療癒",
+        "情緒",
+        "溫柔",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "續領通知，第二次寄給你。\n上一封你沒拆，這封請當面拆。\n裡面只有一行字：你已經做得夠多了。\n有效期間：到你自己相信為止。",
+          "editorNote": "給總是把肯定留給別人的人。",
+          "variations": [
+            "短版：第二封通知，只有一行：你做得夠多了。",
+            "延伸版：有效到你自己相信為止。"
+          ]
+        },
+        "en": {
+          "content": "Renewal notice, sent to you a second time.\nYou never opened the last one, so please open this one in person.\nIt holds a single line: you have already done enough.\nValid for: as long as it takes you to believe it.",
+          "editorNote": "For someone who saves all the praise for other people.",
+          "variations": [
+            "Short version: Second notice, one line: you've done enough.",
+            "Longer version: Valid until you believe it yourself."
+          ]
+        }
+      }
     }
   ]
 }

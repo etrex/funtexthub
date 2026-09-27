@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "min_scene_items": 0,
   "first_batch": [],
   "ordinal_allowed": [
@@ -48,130 +48,130 @@
   ],
   "topics": {
     "absurd-wisdom": {
-      "frame": "F3"
-    },
-    "adulting-quotes": {
-      "frame": "F7"
-    },
-    "breakup-quotes": {
-      "frame": "F14"
-    },
-    "cat-quotes": {
       "frame": "F6"
     },
+    "adulting-quotes": {
+      "frame": "F8"
+    },
+    "breakup-quotes": {
+      "frame": "F1"
+    },
+    "cat-quotes": {
+      "frame": "F7"
+    },
     "cdrama-period-quotes": {
-      "frame": "F2"
+      "frame": "F3"
     },
     "cheesy-pickups": {
-      "frame": "F4"
+      "frame": "F5"
     },
     "cold-jokes": {
-      "frame": "F12"
+      "frame": "F14"
     },
     "concert-ticket-quotes": {
-      "frame": "F2"
+      "frame": "F3"
     },
     "couple-jokes": {
-      "frame": "F1"
+      "frame": "F2"
     },
     "dark-humor": {
       "frame": "F15"
     },
     "diet-quotes": {
-      "frame": "F4"
-    },
-    "dog-quotes": {
       "frame": "F5"
     },
+    "dog-quotes": {
+      "frame": "F4"
+    },
     "drama-binge-quotes": {
-      "frame": "F9"
+      "frame": "F10"
     },
     "drama-quotes": {
-      "frame": "F10"
+      "frame": "F11"
     },
     "exam-quotes": {
-      "frame": "F7"
+      "frame": "F8"
     },
     "fathers-day-quotes": {
-      "frame": "F10"
+      "frame": "F11"
     },
     "fitness-quotes": {
-      "frame": "F8"
+      "frame": "F9"
     },
     "food-jokes": {
       "frame": "F15"
     },
     "graduation-quotes": {
-      "frame": "F5"
+      "frame": "F4"
     },
     "healing-quotes": {
       "frame": "F13"
     },
     "holiday-jokes": {
-      "frame": "F1"
-    },
-    "human-design-quotes": {
-      "frame": "F8"
-    },
-    "insomnia-quotes": {
-      "frame": "F5"
-    },
-    "korean-drama-quotes": {
-      "frame": "F8"
-    },
-    "mom-quotes": {
-      "frame": "F6"
-    },
-    "motivational-quotes": {
-      "frame": "F11"
-    },
-    "pet-memorial-quotes": {
-      "frame": "F10"
-    },
-    "programmer-jokes": {
-      "frame": "F7"
-    },
-    "renting-quotes": {
-      "frame": "F14"
-    },
-    "self-love-quotes": {
-      "frame": "F11"
-    },
-    "service-quotes": {
-      "frame": "F4"
-    },
-    "slang-quotes": {
       "frame": "F2"
     },
-    "stock-investor-quotes": {
+    "human-design-quotes": {
+      "frame": "F9"
+    },
+    "insomnia-quotes": {
+      "frame": "F4"
+    },
+    "korean-drama-quotes": {
+      "frame": "F9"
+    },
+    "mom-quotes": {
+      "frame": "F7"
+    },
+    "motivational-quotes": {
+      "frame": "F12"
+    },
+    "pet-memorial-quotes": {
+      "frame": "F11"
+    },
+    "programmer-jokes": {
+      "frame": "F8"
+    },
+    "renting-quotes": {
+      "frame": "F1"
+    },
+    "self-love-quotes": {
+      "frame": "F12"
+    },
+    "service-quotes": {
+      "frame": "F5"
+    },
+    "slang-quotes": {
       "frame": "F3"
     },
-    "student-quotes": {
+    "stock-investor-quotes": {
       "frame": "F6"
     },
+    "student-quotes": {
+      "frame": "F7"
+    },
     "summer-electric-quotes": {
-      "frame": "F14"
+      "frame": "F1"
     },
     "sweet-quotes": {
       "frame": "F13"
     },
     "travel-quotes": {
-      "frame": "F12"
+      "frame": "F14"
     },
     "wedding-quotes": {
-      "frame": "F9"
+      "frame": "F10"
     },
     "witty-comebacks": {
-      "frame": "F11"
-    },
-    "workplace-quotes": {
       "frame": "F12"
     },
+    "workplace-quotes": {
+      "frame": "F14"
+    },
     "worldcup-quotes": {
-      "frame": "F1"
+      "frame": "F2"
     },
     "zodiac-quotes": {
-      "frame": "F9"
+      "frame": "F10"
     }
   }
 }

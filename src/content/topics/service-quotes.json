@@ -13172,6 +13172,82 @@
           ]
         }
       }
+    },
+    {
+      "id": "svc-475",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "早餐店外帶清單改寫成一行一項的口頭叮嚀，每行都是客人多加的一個要求。",
+      "tags": ["服務業", "清單", "早餐店", "外帶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 蛋餅不加辣\n— 奶茶去冰\n— 三明治對切\n— 蘿蔔糕煎焦一點\n— 全部分開裝\n— 我回來拿袋子",
+          "editorNote": "外帶的每個要求都很小，加在一起卻是店員手上的七件事。適合早上趕時間的人。",
+          "variations": ["短版：每個要求都很小，加起來就是一場早餐考試。", "延伸版：最後一行是回來拿袋子，代表前面五行都還沒裝好。"]
+        },
+        "en": {
+          "content": "— Egg pancake, no chili.\n— Milk tea, no ice.\n— Sandwich cut in half.\n— Turnip cake fried extra dark.\n— Everything bagged separately.\n— I'm coming back for the bag.",
+          "editorNote": "An order of tiny requests that add up to a full morning of small tasks for the counter. For anyone in a hurry before work.",
+          "variations": ["Short: Every request is tiny, and together they make a breakfast exam.", "Longer: The last line is coming back for the bag, so the first five are not even packed yet."]
+        }
+      }
+    },
+    {
+      "id": "svc-476",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "洗車場的服務項目被寫成一串動詞，老闆娘的分工藏在最後兩行。",
+      "tags": ["服務業", "清單", "洗車", "分工"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 先沖泥巴\n— 再打泡沫\n— 車頂多刷兩遍\n— 後視鏡用手擦\n— 輪框留給老闆娘",
+          "editorNote": "洗車有固定流程，但總有一個部位要由某個人親手處理。適合愛車的人。",
+          "variations": ["短版：機器負責大面積，老闆娘負責輪框。", "延伸版：車頂刷兩遍，是因為老闆看過它上次的樣子。"]
+        },
+        "en": {
+          "content": "— Rinse the mud first.\n— Then foam it up.\n— Scrub the roof twice.\n— Wipe the mirrors by hand.\n— Leave the rims to the owner's wife.",
+          "editorNote": "Every wash follows a routine, yet one spot always needs a particular person's hands. For anyone who loves their car.",
+          "variations": ["Short: The machine does the big parts and the owner's wife does the rims.", "Longer: The roof gets two passes because the owner remembers what it looked like last time."]
+        }
+      }
+    },
+    {
+      "id": "svc-477",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "行李寄放櫃臺的計件方式，把一束花算成一件，清單寫到最後才看出時間過了多久。",
+      "tags": ["服務業", "清單", "寄放", "計件"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 藍色行李箱，一件\n— 背包，兩件\n— 紙袋，算半件\n— 那束花，老闆說算一件\n— 收據上寫著花\n— 領回時花已經謝了",
+          "editorNote": "寄放的東西會被寫進收據，卻不會被保鮮。適合帶著大包小包旅行的人。",
+          "variations": ["短版：行李可以寄放，花期不行。", "延伸版：收據上寫著花，領的人手上只剩梗。"]
+        },
+        "en": {
+          "content": "— Blue suitcase, one piece.\n— Backpack, two pieces.\n— Paper bag, half a piece.\n— The flowers, the owner says one piece.\n— The receipt says flowers.\n— When collected, they had already wilted.",
+          "editorNote": "Whatever you leave gets written on the receipt, but nothing gets kept fresh. For travelers carrying too many bags.",
+          "variations": ["Short: Luggage can be stored, but a bloom cannot.", "Longer: The receipt says flowers, and the person collecting is left holding stems."]
+        }
+      }
+    },
+    {
+      "id": "svc-478",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://news.ebc.net.tw/news/living/351491",
+      "sourceNote": "客服語音選單被還原成客人的視角，最後一行回到第一行。",
+      "tags": ["服務業", "清單", "客服", "電話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 按一，查帳單\n— 按二，改地址\n— 按三，重聽一遍\n— 按零，轉人工\n— 轉接中，請稍候\n— 現在請按一",
+          "editorNote": "語音選單的終點常常是起點。適合剛掛掉電話的人。",
+          "variations": ["短版：按零轉人工，人工說請按一。", "延伸版：這份清單走完一圈，帳單還是沒有人解釋。"]
+        },
+        "en": {
+          "content": "— Press one for your bill.\n— Press two to change your address.\n— Press three to hear this again.\n— Press zero for a person.\n— Transferring, please hold.\n— Now please press one.",
+          "editorNote": "A phone menu often ends where it began. For anyone who just hung up.",
+          "variations": ["Short: Zero connects to a person, and the person says press one.", "Longer: The list makes a full circle and nobody has explained the bill yet."]
+        }
+      }
     }
   ]
 }

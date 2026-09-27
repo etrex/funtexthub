@@ -13581,6 +13581,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-483",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://buzzorange.com/vidaorange/2020/03/25/brekkie-west-and-east/",
+      "sourceNote": "水餃介紹",
+      "tags": [
+        "水餃",
+        "問答",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：水餃為什麼是彎彎的？\n答：包的時候把皮對折，再捏緊。",
+          "editorNote": "問得像有梗，答得像說明書。適合放在連串雙關之間讓大家喘口氣。",
+          "variations": [
+            "短版：水餃對折捏緊，所以彎。",
+            "延伸版：捏得越緊，越不容易破。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why are dumplings curved?\nA: The wrapper is folded in half and pinched shut.",
+          "editorNote": "The question sets up a punchline and the answer is just a fact. Works as a breather between puns.",
+          "variations": [
+            "Short version: Folded, pinched, curved.",
+            "Extended: The tighter the pinch, the fewer the tears."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-484",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://buzzorange.com/vidaorange/2020/03/25/brekkie-west-and-east/",
+      "sourceNote": "牛肉麵價格",
+      "tags": [
+        "牛肉麵",
+        "日常",
+        "店家"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牛肉麵一碗一百八，加麵二十元。我加了一次麵，所以付了兩百元。",
+          "editorNote": "算術題就是算術題，沒有埋伏。用在朋友期待你吐槽價格的時候。",
+          "variations": [
+            "短版：一百八加二十，兩百。",
+            "延伸版：老闆找我零錢，沒有多也沒有少。"
+          ]
+        },
+        "en": {
+          "content": "A bowl of beef noodle soup costs 180, and extra noodles are 20. I got extra noodles once, so I paid 200.",
+          "editorNote": "It is plain arithmetic with no trap. Use it when friends expect you to complain about the price.",
+          "variations": [
+            "Short version: 180 plus 20 is 200.",
+            "Extended: The change I got back was exact."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-485",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://buzzorange.com/vidaorange/2020/03/25/brekkie-west-and-east/",
+      "sourceNote": "鹹酥雞點餐流程",
+      "tags": [
+        "鹹酥雞",
+        "對話",
+        "夜市"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「要不要辣？」\n「不要。」\n「胡椒粉呢？」\n「要。」\n「九層塔？」\n「要。」\n「好，四十五元。」",
+          "editorNote": "整段就是點餐流程，沒有人搞笑。夜市系列裡適合當收尾冷場。",
+          "variations": [
+            "短版：不辣，要胡椒，要九層塔。",
+            "延伸版：老闆最後只說了金額。"
+          ]
+        },
+        "en": {
+          "content": "\"Spicy?\"\n\"No.\"\n\"Pepper?\"\n\"Yes.\"\n\"Basil?\"\n\"Yes.\"\n\"Okay, that's 45.\"",
+          "editorNote": "The whole thing is just an order being taken. Nobody is joking, which is why it lands as a flat ending.",
+          "variations": [
+            "Short version: No spice, yes pepper, yes basil.",
+            "Extended: The vendor's last line was only the price."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-486",
+      "dateAdded": "2026-09-27",
+      "sourceUrl": "https://buzzorange.com/vidaorange/2020/03/25/brekkie-west-and-east/",
+      "sourceNote": "豆花做法",
+      "tags": [
+        "豆花",
+        "甜點",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "豆花是用豆漿加凝固劑做的，凝固之後就是豆花。配料可以選花生、紅豆或粉圓。",
+          "editorNote": "先給答案再列選項，像在念菜單。放在甜點主題最後一則很順。",
+          "variations": [
+            "短版：豆漿凝固，就是豆花。",
+            "延伸版：配料我選了花生。"
+          ]
+        },
+        "en": {
+          "content": "Douhua is made from soy milk and a coagulant. Once it sets, it is douhua. Toppings include peanuts, red beans and tapioca pearls.",
+          "editorNote": "It gives the answer first and then reads out the options like a menu. A tidy closer for a dessert set.",
+          "variations": [
+            "Short version: Soy milk sets, and that is douhua.",
+            "Extended: I picked peanuts."
+          ]
+        }
+      }
     }
   ]
 }
