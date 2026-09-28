@@ -12228,6 +12228,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-433",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.keepstyles.com/products/like-a-star-light-stick",
+      "sourceNote": "官方應援手燈第二代商品介紹，含電池與外殼結構說明；取同一支手燈跨年份的物件狀態改寫",
+      "tags": [
+        "手燈",
+        "收藏",
+        "電池",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 國二那場，手燈塞著兩顆舊電池\n— 蓋子鬆了，纏一圈透明膠帶\n— 散場很久，那圈膠帶還在\n— 今年這場，同一支手燈又亮了\n— 電池換了新的，蓋子鎖得緊\n— 亮起來之前，手先摸了摸蓋子",
+          "editorNote": "適合形容同一件應援物品跨年份還留在手上的心情",
+          "variations": [
+            "短版：膠帶換了一圈，動作沒換。",
+            "延伸版：電池換了幾代，摸蓋子的手勢還是同一個。"
+          ]
+        },
+        "en": {
+          "content": "— Eighth grade, the lightstick held two worn AAA batteries.\n— The cap wouldn't stay shut, so tape went around it.\n— Long after the show, that ring of tape was still there.\n— This year, the same lightstick came out again.\n— New batteries went in, the cap clicked tight.\n— Before it lit up, a hand touched the cap first.",
+          "editorNote": "For when the same fan item has stayed in your hands across the years",
+          "variations": [
+            "Short: New tape, same old habit.",
+            "Extended: Batteries changed generations; the hand on the cap never did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-434",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://vocus.cc/article/68302211fd89780001c21748",
+      "sourceNote": "粉絲搶票與應援準備的圖文分享，含應援服裝細節描述；取應援衣跨年份收藏改寫",
+      "tags": [
+        "應援服",
+        "收藏",
+        "演唱會",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "高一那場，螢光橘應援衣買大了兩號，袖口捲了三折才穿得下。她把衣服摺好放進衣櫃最底層，一放就是很多年。這次搬新家整理衣物才又翻出來，袖口的折痕還留著原本的形狀，領口洗得有點透光，尺寸卻剛剛好貼合肩膀。",
+          "editorNote": "適合形容一件應援衣服在衣櫃裡放了很多年後又被穿上的心情",
+          "variations": [
+            "短版：折痕沒變，身形換了。",
+            "延伸版：透光的領口，比新的時候更貼合。"
+          ]
+        },
+        "en": {
+          "content": "Freshman year, the neon orange fan shirt was two sizes too big, and the sleeves had to be rolled up three times just to fit. She folded it away at the bottom of the closet, and it stayed there for years. Moving into a new place, she dug it out again — the sleeve creases had kept their shape, the collar had worn thin, and the fit finally sat right on her shoulders.",
+          "editorNote": "For a fan shirt that comes back out after years folded away in a closet",
+          "variations": [
+            "Short: Same fold lines, different fit.",
+            "Extended: The collar's worn thin, yet it fits better than it did brand new."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-435",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.tixbar.com/ibon/",
+      "sourceNote": "ibon 搶票攻略教學，含開賣前準備與提醒設定步驟；取提醒開賣時間的方式跨年份改寫",
+      "tags": [
+        "開賣",
+        "手機",
+        "搶票",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "高三那年，牆上月曆用紅筆圈住開賣那天，圈了三圈怕自己忘記。鬧鐘設在開賣前十分鐘，鈴聲吵醒了整層樓。這次的開賣日，她只在手機行事曆按下提醒，螢幕跳出那則提醒的瞬間才想起牆上那本月曆早就收進箱子。手指點掉提醒，動作快得像當年隨手關掉鬧鐘。",
+          "editorNote": "適合形容提醒開賣時間的方式，從紙本月曆換成手機提醒的那種轉變",
+          "variations": [
+            "短版：紅筆圈三圈，手指點一下。",
+            "延伸版：鬧鐘吵醒整層樓，提醒只在螢幕上跳一下。"
+          ]
+        },
+        "en": {
+          "content": "Senior year, she circled sale day on the wall calendar in red pen, three loops just in case she forgot. The alarm was set for ten minutes before the sale, loud enough to wake the whole floor. This time, she only tapped a reminder into her phone's calendar, and the moment the notification popped up she remembered the wall calendar had been packed away in a box for ages. She swiped the notification away, fast as she once used to silence that alarm.",
+          "editorNote": "For the shift from a paper calendar to a phone notification when marking sale day",
+          "variations": [
+            "Short: Three red circles, one tap now.",
+            "Extended: The alarm used to wake the floor; now the notification just blinks once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-436",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://lattekorea.com/ibon-ticket/",
+      "sourceNote": "ibon 售票系統搶票攻略與事前準備技巧分享；取朋友間分工搶票的方式跨年份改寫成對話",
+      "tags": [
+        "搶票",
+        "朋友",
+        "設備",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「借我你的電腦，我家網路比較慢。」\n「先別掛，我開好分頁馬上還你。」\n「兩人一起搶，好歹中一張。」\n「這次不用了，我自己就有兩台可以切。」\n「桌機開一半，手機再開一半。」\n「這幾年設備都換了，我們都不用再借。」",
+          "editorNote": "適合形容跟朋友一起搶票的分工方式，從互相借設備到各自準備齊全",
+          "variations": [
+            "短版：先借一台，這幾年各自有兩台。",
+            "延伸版：借電腦開分頁的那通電話，換成兩支手機一起倒數。"
+          ]
+        },
+        "en": {
+          "content": "\"Lend me your computer, my home internet's slower.\"\n\"Don't hang up, I'll open the tabs and hand it right back.\"\n\"Two of us trying together, at least one ticket lands.\"\n\"Not this time, I've got two of my own to switch between.\"\n\"Half on the desktop, half on the phone.\"\n\"Our setups have all changed by now, no more borrowing.\"",
+          "editorNote": "For splitting ticket-grabbing duties with a friend, from borrowing gear to each having your own setup",
+          "variations": [
+            "Short: One borrowed laptop, now two devices each.",
+            "Extended: The phone call to borrow a laptop turned into two phones counting down together."
+          ]
+        }
+      }
     }
   ]
 }

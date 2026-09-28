@@ -15290,6 +15290,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "cp-586",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.rd.com/list/cheesy-pickup-lines/",
+      "sourceNote": "情話網站彙整的搭訕句範例，改寫成三個地點各一句、彼此不解釋的短鏡頭寫法",
+      "tags": ["日常", "浪漫", "文青"],
+      "i18n": {
+        "zh-tw": {
+          "content": "書店的詩集區，我想指給你看一句我一直背錯的詩。\n我想幫你換掉爆米花裡太鹹的那把，就在電影院外面。\n轉角咖啡店的窗邊，我留了一個位子給你。",
+          "editorNote": "想約出去但不敢直接開口的時候，先丟出這幾個畫面試水溫",
+          "variations": [
+            "短版：轉角咖啡店的窗邊，我留了一個位子給你。",
+            "延伸版：書店的詩、電影院的爆米花、轉角咖啡店的窗邊座位，我把能想到的畫面都排給你一個。"
+          ]
+        },
+        "en": {
+          "content": "The poetry shelf at the bookstore has one line I always misquote to you.\nI want to trade you the less salty popcorn, right outside the theater.\nBy the window of the corner cafe, I saved you a seat.",
+          "editorNote": "For when you want to ask them out but can't say it straight -- float these small scenes first.",
+          "variations": [
+            "Short version: By the window of the corner cafe, I saved you a seat.",
+            "Longer version: The bookstore poem, the theater popcorn, the corner cafe seat by the window -- I lined up every scene I could think of, all for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-587",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.rd.com/list/cheesy-pickup-lines/",
+      "sourceNote": "情話網站彙整的搭訕句範例，改寫成五個地點的條列清單，行首加破折號",
+      "tags": ["條列", "日常", "撩人"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 車站，我幫你拉好拉鍊\n— 那副耳機留你，在唱片行\n— 天橋上放慢腳步等你\n— 多辦一張借閱證，圖書館\n— 蛋餅角多留一圈，早餐店",
+          "editorNote": "適合在對話已經聊得不錯、想認真收尾表白前，發這種清單",
+          "variations": [
+            "短版：蛋餅角多留一圈，早餐店。",
+            "延伸版：車站、唱片行、天橋、圖書館、早餐店，這幾個地方我都偷偷幫你多做了一點。"
+          ]
+        },
+        "en": {
+          "content": "— At the station, I fix your zipper for you.\n— That headphone you like, I saved it at the record shop.\n— On the footbridge, I slow down so you can catch up.\n— I got you a second library card, at the library.\n— Extra roll on the egg crepe, the breakfast stand remembers.",
+          "editorNote": "Good for closing out a conversation that's already going well, right before you actually ask.",
+          "variations": [
+            "Short version: Extra roll on the egg crepe, the breakfast stand remembers.",
+            "Longer version: Station, record shop, footbridge, library, breakfast stand -- at every one of them I quietly did a little extra for you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-588",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.theknot.com/content/pick-up-lines",
+      "sourceNote": "婚戀網站的搭訕句彙整，改寫成三則假想對白，各發生在不同地點",
+      "tags": ["對話", "撩人", "可愛"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「天文館的望遠鏡，我們搶著看月亮吧。」\n「夜市那攤雞排，我幫你多喊一份。」\n「動物園裡，先認出企鵝的人可以點名下一站去哪。」",
+          "editorNote": "想撩人又怕太肉麻，用假想對話帶出畫面比較不尷尬",
+          "variations": [
+            "短版：「動物園裡，先認出企鵝的人可以點名下一站去哪。」",
+            "延伸版：望遠鏡、雞排、企鵝，這三句我私下已經練習過要怎麼講。"
+          ]
+        },
+        "en": {
+          "content": "\"The telescope at the planetarium, let's fight over who gets to look at the moon.\"\n\"That fried chicken stall at the night market, I'll order you an extra one.\"\n\"At the zoo, whoever spots the penguin first gets to pick where we go next.\"",
+          "editorNote": "Use imagined dialogue when you want to flirt without sounding too sappy.",
+          "variations": [
+            "Short version: \"At the zoo, whoever spots the penguin first gets to pick where we go next.\"",
+            "Longer version: The telescope, the fried chicken, the penguin -- I've quietly rehearsed all three lines already."
+          ]
+        }
+      }
+    },
+    {
+      "id": "cp-589",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.theknot.com/content/pick-up-lines",
+      "sourceNote": "婚戀網站的搭訕句彙整，改寫成三個地點的小動作，語氣輕描淡寫",
+      "tags": ["日常", "浪漫", "甜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公園鞦韆旁那隻愛叫的狗，我來幫你擋著。\n麵包店開門前五分鐘，我想先幫你搶下剛出爐的那個。\n海邊堤防上，我陪你數到下一班船靠港，好嗎。",
+          "editorNote": "曖昧後期想確認對方在不在意細節，用這幾句試探最剛好",
+          "variations": [
+            "短版：海邊堤防上，我陪你數到下一班船靠港，好嗎。",
+            "延伸版：那隻狗、剛出爐的麵包、下一班船，這幾件小事我都想跟你一起等。"
+          ]
+        },
+        "en": {
+          "content": "That barking dog by the park swings, I'll stand in the way for you.\nFive minutes before the bakery opens, I want to grab you the one fresh out of the oven.\nOn the seaside breakwater, I'll count with you until the next ferry comes in, okay?",
+          "editorNote": "Good for testing whether they notice the small stuff, later in a flirtation.",
+          "variations": [
+            "Short version: On the seaside breakwater, I'll count with you until the next ferry comes in, okay?",
+            "Longer version: That dog, the bread fresh out of the oven, the next ferry -- these small things, I want to wait through all of them with you."
+          ]
+        }
+      }
     }
   ]
 }
