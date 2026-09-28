@@ -13666,6 +13666,122 @@
             ]
           }
         }
+      },
+      {
+        "id": "aq-540",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://dawho.tw/hot/blog/savemoney/",
+        "sourceNote": "大戶DAWHO 新鮮人存錢法文章，僅借用自動轉帳存錢的概念，戶頭情節為原創",
+        "tags": [
+          "存錢",
+          "理財",
+          "長大"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 薪水入帳當天先轉一筆到另一戶頭\n— 那筆錢從那一刻就當作不存在\n— 月底翻帳單才知道自己少花多少\n— 手機每週跳出提醒回頭記一次帳\n— 撐過三個月戶頭多出一筆陌生餘額\n— 離職前那筆餘額是唯一的底氣",
+            "editorNote": "給正在硬逼自己存錢的人，滿三個月後回頭看最有感",
+            "variations": [
+              "短版：轉走的那筆錢，從此當作不存在。",
+              "延伸版：三個月後，戶頭多出一筆從沒見過的餘額。"
+            ]
+          },
+          "en": {
+            "content": "— The day your paycheck lands, you move part of it to another account.\n— From that moment, that money doesn't count as spendable.\n— At month's end you check the statement and realize how little you actually spent.\n— Your phone nags you every week to log it all again.\n— After three straight months, the account holds a balance you don't recognize.\n— Right before quitting, that balance is the only nerve you have.",
+            "editorNote": "For anyone forcing themselves to save; it clicks after three months",
+            "variations": [
+              "Short: The money you move away stops counting as yours.",
+              "Extended: Three months in, the account holds a balance you've never seen before."
+            ]
+          }
+        }
+      },
+      {
+        "id": "aq-541",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://www.rencotaiwan.com/post/water-electricity-bill-calculation-rent",
+        "sourceNote": "Renco Taiwan 租屋水電費計算文章，僅借用電表與收費落差的概念，抄表情節為原創",
+        "tags": [
+          "水電費",
+          "租屋",
+          "生活"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 電表數字每月月初抄一次貼在門邊\n— 度數比上個月多了兩位數字自己心裡有數\n— 熱水器多開十分鐘電費就看得出差別\n— 分租套房電費比外面貴了快兩倍\n— 房東的計算方式從沒真正問清楚過\n— 現在學會自己先估一次金額再對帳單",
+            "editorNote": "給每個月都要重新研究電費怎麼算的租屋族",
+            "variations": [
+              "短版：電表數字，自己抄自己算。",
+              "延伸版：房東的算法沒人解釋過，現在你自己先估。"
+            ]
+          },
+          "en": {
+            "content": "— At the start of each month, you note the meter reading by the door.\n— When the number jumps by double digits, you already know why.\n— Running the water heater ten extra minutes shows up on the bill.\n— A shared unit's electricity rate runs almost double the going rate.\n— Nobody ever really explained how the landlord calculates it.\n— Now you estimate the total yourself before the bill even arrives.",
+            "editorNote": "For renters who re-learn the electricity math every single month",
+            "variations": [
+              "Short: You read the meter and do the math yourself.",
+              "Extended: Nobody explained the landlord's formula, so now you estimate it first."
+            ]
+          }
+        }
+      },
+      {
+        "id": "aq-542",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://www.yourator.co/articles/887",
+        "sourceNote": "Yourator 薪資單常見問題文章，僅借用勞健保扣款欄位的概念，點開薪資單情節為原創",
+        "tags": [
+          "薪資單",
+          "勞保",
+          "長大"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 薪資單每個月躺在信箱裡沒人特別看\n— 這個月忽然點開才發現扣款項目變多\n— 勞保健保各自占了一小塊數字\n— 那些扣款換算成年假根本沒感覺過\n— 問了同事才知道原來每個人都被扣\n— 從此薪資單開始被認真點開兩秒鐘",
+            "editorNote": "給薪資單從沒認真點開過的人",
+            "variations": [
+              "短版：扣款項目變多的那個月，才認真點開薪資單。",
+              "延伸版：問了同事才知道，原來每個人都一樣被扣。"
+            ]
+          },
+          "en": {
+            "content": "— The payslip sits in your inbox every month, mostly unread.\n— This month you finally opened it and saw more lines subtracted.\n— Labor and health insurance each take their own small cut.\n— Those deductions never once felt real until now.\n— A coworker mentioned everyone gets the same cuts.\n— Now the payslip gets a real two seconds of your attention.",
+            "editorNote": "For anyone whose payslip usually goes unopened",
+            "variations": [
+              "Short: The month deductions grow, you finally read every line.",
+              "Extended: A coworker said everyone gets cut the same way."
+            ]
+          }
+        }
+      },
+      {
+        "id": "aq-543",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://www.everydayobject.us/augmented-reality-app-by-ikea/",
+        "sourceNote": "介紹 IKEA 說明書與組裝輔助 App 的文章，僅借用自行組裝家具的概念，拼裝過程為原創",
+        "tags": [
+          "家具",
+          "組裝",
+          "長大"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 說明書攤開來一次只看懂前兩步\n— 螺絲分成四包卻只認得出兩種\n— 拼到一半發現少鎖一顆螺絲要拆回去重來\n— 邊拼邊查影片比看紙本說明書快很多\n— 拼完站起來才發現書櫃有一邊歪了一點\n— 現在買家具會先看評論裡有沒有人抱怨難裝",
+            "editorNote": "給組裝到一半想放棄的人，歪一點也是自己的作品",
+            "variations": [
+              "短版：螺絲少鎖一顆，全部拆回去重來。",
+              "延伸版：書櫃歪一點，但那是自己親手拼出來的。"
+            ]
+          },
+          "en": {
+            "content": "— You unfold the manual and only understand the first two steps.\n— The screws come in four bags, but you can only tell two apart.\n— Halfway through you find one screw missing and have to take it apart again.\n— Watching a video turns out faster than reading the paper manual.\n— Standing up when it's done, you notice the shelf leans slightly to one side.\n— From now on, you check the reviews for complaints before buying furniture.",
+            "editorNote": "For anyone ready to give up halfway through assembly; a little crooked still counts",
+            "variations": [
+              "Short: One missing screw means taking the whole thing apart again.",
+              "Extended: The shelf leans a little, but you built it with your own hands."
+            ]
+          }
+        }
       }
   ]
 }
