@@ -13448,6 +13448,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-463",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.ctwant.com/article/490485/",
+      "sourceNote": "編輯原創：取材自班機延誤新聞情境，只寫等待時反覆摺登機證的動作，不寫情緒。",
+      "tags": [
+        "機場",
+        "延誤",
+        "登機證",
+        "旅行"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "登機門的電子看板跳出延後時間，她把登機證從口袋掏出來又收回去。折角壓平三次，指甲沿著摺線來回推。廣播念到別的航班時，她把登機證換一隻手拿，指尖又扣住邊角。",
+          "editorNote": "登機延誤時翻找登機證的空檔，別寫成崩潰，寫成一個反覆的小動作。",
+          "variations": [
+            "短版：登機證收回口袋，折角又壓平了一次。",
+            "延伸版：看板跳出新時間，她把登機證換另一隻手拿。"
+          ]
+        },
+        "en": {
+          "content": "The gate's screen flips to a new delay time, and she keeps pulling the boarding pass out of her pocket and putting it back in. She flattens the folded corner three times, thumbnail tracing the crease back and forth. When the announcement calls another flight, she switches the pass to her other hand, fingers catching the edge again.",
+          "editorNote": "For the gap during a flight delay spent fidgeting with the boarding pass, written as a repeated small motion instead of a meltdown.",
+          "variations": [
+            "Short: The pass goes back in the pocket, the corner flattened once more.",
+            "Longer: The board flips to a new time, and she switches the pass to her other hand."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-464",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://hiking.biji.co/index.php?act=info&q=review&review_id=18819",
+      "sourceNote": "編輯原創：取材自登山鞋鞋帶綁法文章，只寫觀景台前重新綁鞋帶的動作。",
+      "tags": [
+        "登山",
+        "鞋帶",
+        "觀景台",
+        "旅行"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "觀景台前的木棧道只剩她一個人，她蹲下來重新綁鞋帶，鞋帶頭在指間繞了兩圈又鬆開。左腳綁完換右腳，力道比左腳重一點。風把外套帽子吹翻，她伸手壓住帽簷，沒有轉頭去看風景。",
+          "editorNote": "登山健行的中途照，用綁鞋帶的力道帶出停下來的理由，不寫風景多美。",
+          "variations": [
+            "短版：鞋帶頭繞了兩圈，左腳先綁完換右腳。",
+            "延伸版：帽子被風吹翻，她伸手壓住帽簷。"
+          ]
+        },
+        "en": {
+          "content": "The boardwalk in front of the lookout is empty except for her, and she crouches down to retie her laces, winding the loose end around her fingers twice before letting it go. Left boot done, she switches to the right, pulling it a little tighter than the left. Wind flips her jacket hood inside out, and she reaches up to hold the brim down without turning to look at the view.",
+          "editorNote": "For a mid-hike lookout photo, showing why she stopped through the pressure of tying laces, not how pretty the view is.",
+          "variations": [
+            "Short: The lace end gets wound twice, left boot first, then the right.",
+            "Longer: Wind flips the hood, and a hand goes up to hold the brim."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-465",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.kkday.com/zh-tw/blog/227797/global-airport-security-check",
+      "sourceNote": "編輯原創：取材自機場安檢流程文章，只寫安檢後重新收拾隨身行李的動作順序。",
+      "tags": [
+        "安檢",
+        "隨身行李",
+        "打包",
+        "旅行"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 筆電先放回內層夾層\n— 行動電源扣好魔鬼氈\n— 隨身水瓶裝滿再鎖緊\n— 外套摺兩折塞進側袋\n— 護照收進胸前拉鏈袋\n— 拉鏈繞行李箱走一圈",
+          "editorNote": "安檢後重新收拾隨身行李的順序提示，用動作順序代替匆忙感。",
+          "variations": [
+            "短版：筆電先進內層，護照收進胸前拉鏈袋。",
+            "延伸版：拉鏈繞行李箱走完一整圈才算收好。"
+          ]
+        },
+        "en": {
+          "content": "— Laptop goes back into the inner sleeve.\n— Power bank gets its velcro strap fastened.\n— Water bottle filled and capped tight.\n— Jacket folded in half, tucked into the side pocket.\n— Passport zipped into the chest pocket.\n— Zipper runs one full loop around the suitcase.",
+          "editorNote": "A packing-order cue for repacking your carry-on after security, using action sequence instead of describing how rushed it feels.",
+          "variations": [
+            "Short: Laptop in first, passport zipped into the chest pocket.",
+            "Longer: The zipper finishes one full loop before the bag counts as packed."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-466",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://evalife.tw/luggage-checklist/",
+      "sourceNote": "編輯原創：取材自出國打包清單文章，只寫拉拉鏈壓行李箱的動作，不寫抱怨。",
+      "tags": [
+        "行李箱",
+        "打包",
+        "拉鏈",
+        "旅行"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "行李箱蓋鼓成一個弧度，她用膝蓋壓住蓋子再拉拉鏈。拉鏈卡住的地方退回去半公分，重新拉了一次才通過。她站起來踩了踩地上的行李箱，確認輪子沒有偏一邊。",
+          "editorNote": "打包到最後塞不進去的階段，用拉鏈卡住的細節代替『行李太多』的抱怨。",
+          "variations": [
+            "短版：膝蓋壓住行李箱蓋，拉鏈退半公分重拉。",
+            "延伸版：站起來踩了踩行李箱，確認輪子沒偏。"
+          ]
+        },
+        "en": {
+          "content": "The suitcase lid bulges into a curve, and she presses it down with her knee before pulling the zipper. Where it snags, she backs it off half a centimeter and pulls it through again. Standing up, she stomps the suitcase a couple of times to check that the wheels aren't sitting crooked.",
+          "editorNote": "For the packing-doesn't-fit stage, using the snagged zipper instead of complaining about too much luggage.",
+          "variations": [
+            "Short: A knee presses the lid down while the zipper backs off half a centimeter.",
+            "Longer: Standing up, she stomps the case to check the wheels."
+          ]
+        }
+      }
     }
   ]
 }

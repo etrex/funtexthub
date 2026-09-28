@@ -15266,6 +15266,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-536",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/62309",
+      "sourceNote": "以下班後主管傳LINE交辦事情的新聞改寫為對話。",
+      "tags": [
+        "下班訊息",
+        "加班",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「明天要交的東西，先傳給你看一下。」\n「現在幾點了，你自己看時間。」\n「就是剛好想到，傳一下而已，沒有要你現在回。」\n「那你傳的時候，順手寫一句『不急』，我才知道能不能睡。」\n「寫這三個字很難嗎，你自己想。」\n「不難，你打就好，我等。」",
+          "editorNote": "拿來提醒愛在下班後傳工作訊息的主管，順便幫自己留一句退路。",
+          "variations": [
+            "延伸版：「不急」「不急，那我也一起不急。」"
+          ]
+        },
+        "en": {
+          "content": "\"Tomorrow's deliverable — take a look at this first.\"\n\"Do you know what time it is right now?\"\n\"It just crossed my mind, so I sent it. I'm not asking you to reply now.\"\n\"Then when you send it, add three words: 'not urgent.' That's how I know if I can sleep.\"\n\"Is typing three words really that hard? You figure it out.\"\n\"Not hard. You type it, I'll wait.\"",
+          "editorNote": "For the manager who keeps sending work messages after hours, and a line of defense for yourself.",
+          "variations": [
+            "Extended: \"Not urgent.\" \"Not urgent, then I'm in no rush either.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-537",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://news.tvbs.com.tw/life/3227720",
+      "sourceNote": "以前輩交接留一手的新聞改寫為對話。",
+      "tags": [
+        "交接",
+        "新人",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這份月報，學長你之前是怎麼弄的？」\n「照著舊檔案改一改就好啊。」\n「舊檔案裡面有一格我看不懂，你教我一次就好。」\n「等一下我要開會，你先自己試試看。」\n「你開完會可以教我嗎？」\n「到時候再說，你先摸索。」",
+          "editorNote": "分享給正在被交接、卻只拿到一半答案的新人。",
+          "variations": [
+            "延伸版：「你先摸索」「摸索完剛好你也離職了。」"
+          ]
+        },
+        "en": {
+          "content": "\"For this monthly report, how did you used to do it?\"\n\"Just copy the old file and tweak it.\"\n\"There's one cell in the old file I don't get, just show me once.\"\n\"I've got a meeting in a bit, try it yourself first.\"\n\"Can you show me after the meeting?\"\n\"We'll see, figure it out for now.\"",
+          "editorNote": "For the new hire being handed off a job with only half the answers.",
+          "variations": [
+            "Extended: \"Figure it out yourself.\" \"By the time you do, you'll have quit too.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-538",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://vocus.cc/article/63681ccbfd89780001afd511",
+      "sourceNote": "以會議追進度卻答非所問的職場溝通文章改寫為對話。",
+      "tags": [
+        "會議",
+        "進度",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你那個案子，現在進度到哪了？」\n「差不多快好了。」\n「差不多是多少，你老實講。」\n「就，還在跑。」\n「跑去哪裡了，我怎麼都看不到東西？」\n「它自己知道要去哪裡，我也很好奇。」",
+          "editorNote": "獻給每次開會被問進度、只能含糊帶過的自己人。",
+          "variations": [
+            "延伸版：「還在跑」「跑了三個禮拜，會不會用走的比較快。」"
+          ]
+        },
+        "en": {
+          "content": "\"Where's that project of yours right now?\"\n\"Almost done.\"\n\"Almost is how much, tell me straight.\"\n\"It's, uh, still running.\"\n\"Running where? I don't see anything.\"\n\"Even it doesn't know where it's going. I'm curious too.\"",
+          "editorNote": "For anyone who gets asked for a status update and has to answer vaguely.",
+          "variations": [
+            "Extended: \"Still running.\" \"Three weeks now, might be faster to walk.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-539",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.digiknow.com.tw/knowledge/6645ad919c8cc",
+      "sourceNote": "以主管用沒看到產出打回加班費的法律說明改寫為對話。",
+      "tags": [
+        "加班費",
+        "主管",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你那張加班時數，主管准了嗎？」\n「打回來了，說我寫的是在耗時間。」\n「你明明待到那麼晚，他哪隻眼看到你在耗？」\n「他說沒看到產出，叫我下次先跟他講。」\n「先跟他講，他人在哪你知道嗎？」\n「不知道，可能也在加班，只是沒人跟他講。」",
+          "editorNote": "轉給加班單被打回票、還得自己舉證的同事。",
+          "variations": [
+            "延伸版：「先跟他講」「跟他講的時候，順便問他人現在在哪。」"
+          ]
+        },
+        "en": {
+          "content": "\"Did your manager approve those overtime hours?\"\n\"Sent back. Said what I wrote just looks like killing time.\"\n\"You were clearly there that late, which eye did he use to see you killing time?\"\n\"He said he didn't see any output, told me to check with him next time first.\"\n\"Check with him first, do you even know where he is?\"\n\"No idea. Probably also working overtime, just nobody checked with him.\"",
+          "editorNote": "For the coworker whose overtime claim got rejected and now has to prove it themselves.",
+          "variations": [
+            "Extended: \"Check with him first.\" \"While I'm at it, I'll ask where he actually is.\""
+          ]
+        }
+      }
     }
   ]
 }
