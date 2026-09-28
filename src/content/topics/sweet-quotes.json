@@ -14787,6 +14787,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "sq-551",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.gottman.com/blog/5-ways-make-small-gestures-count-marriage/",
+      "sourceNote": "Gottman Institute：小小的持續舉動比偶爾的大動作更能維繫關係。改寫成共讀書裡的還書卡",
+      "tags": [
+        "圖書館",
+        "還書卡",
+        "共讀"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "還書卡夾在我們共讀那本書的第兩百頁。\n到期日寫著這個月的最後一天，我們得一起看完。\n我在你目前讀到的地方後面十頁，偷偷放了一張書籤。\n翻到那頁的那天，換你決定我們要不要續借。",
+          "editorNote": "適合正在共讀一本書、想用還書日期推一下彼此進度的人",
+          "variations": [
+            "短版：還書卡夾在第兩百頁，這個月底前看完。",
+            "延伸版：書籤放在你前面十頁，等你自己翻到。"
+          ]
+        },
+        "en": {
+          "content": "The due-date card is tucked at page two hundred of the book we're reading together.\nThe due date says the last day of this month, and we're supposed to finish it by then.\nI slipped a bookmark ten pages ahead of wherever you've gotten to.\nThe day you reach that page, it's your call whether we renew it.",
+          "editorNote": "For couples reading one book together, using the return date as gentle pressure to catch up on chapters",
+          "variations": [
+            "Short: The due-date card is at page two hundred, due by month's end.",
+            "Extended: The bookmark sits ten pages ahead, waiting for you to find it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-552",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202412/micro-mance-highlights-the-big-effect-of-small-gestures",
+      "sourceNote": "Psychology Today：頻繁的小舉動比偶發的大驚喜更能累積親密感。改寫成行李吊牌上的留言",
+      "tags": [
+        "行李吊牌",
+        "旅行",
+        "驚喜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "行李吊牌上，到站日期我先幫你填了下週六。\n座位那一格空著，你要坐窗邊還是走道自己選。\n背面我多寫了一句，只有拆吊牌那天你才看得到。\n吊牌繫在提把上，出發前別讓它掉了。",
+          "editorNote": "適合已經訂好行程、想用行李吊牌製造一點驚喜留言的人",
+          "variations": [
+            "短版：吊牌填了下週六，座位你來選。",
+            "延伸版：背面那句話，拆吊牌才看得到。"
+          ]
+        },
+        "en": {
+          "content": "On the luggage tag, I already filled in next Saturday as the arrival date.\nThe seat line is blank, so you get to pick window or aisle.\nI wrote one more line on the back, one you won't see until you untie the tag.\nThe tag is tied to the handle, so don't lose it before we leave.",
+          "editorNote": "For couples with the trip already booked, hiding a small surprise line on the luggage tag",
+          "variations": [
+            "Short: The tag says next Saturday, and the seat is your call.",
+            "Extended: The line on the back only shows once you untie it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-553",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.gottman.com/blog/5-ways-make-small-gestures-count-marriage/",
+      "sourceNote": "Gottman Institute：持續的小動作比單一大禮更能累積情感存款。改寫成借用對方充電線的便條登記",
+      "tags": [
+        "借用登記",
+        "充電線",
+        "小驚喜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "借用登記：你的充電線，我借到明天早上。\n手機沒電那一格我先勾了，理由我寫的是想多聽一次你的鈴聲。\n還線的時候，我會順便帶一杯你愛喝的那款奶茶。\n如果你想提前拿回去，傳訊息給我就好。",
+          "editorNote": "適合順手借了對方東西、想找個理由多聊幾句的人",
+          "variations": [
+            "短版：充電線借到明天早上，理由是想聽你的鈴聲。",
+            "延伸版：想早點拿回去，傳訊息給我就好。"
+          ]
+        },
+        "en": {
+          "content": "Borrow log: your charger cable, borrowed until tomorrow morning.\nI already checked the box for phone died, and the reason I wrote is wanting to hear your ringtone one more time.\nWhen I return the cable, I'll bring you a cup of that milk tea you like.\nIf you want it back sooner, just text me.",
+          "editorNote": "For someone who borrowed something small and wants an excuse to keep the conversation going",
+          "variations": [
+            "Short: The cable's borrowed until tomorrow morning, reason being your ringtone.",
+            "Extended: Want it back sooner? Just text me."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sq-554",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202412/micro-mance-highlights-the-big-effect-of-small-gestures",
+      "sourceNote": "Psychology Today：日常累積的小互動比單次驚喜更能鞏固感情。改寫成快集滿的咖啡集點卡",
+      "tags": [
+        "集點卡",
+        "咖啡",
+        "約會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "集點卡上，最後一格空著，我們只差一杯咖啡。\n兌換日期是這個月十號前，過了要重新蓋起。\n蓋滿那天，你選咖啡廳，我出咖啡錢。\n卡片我收在錢包夾層，怕你忘記我們還差一杯。",
+          "editorNote": "適合手邊真的有一張快集滿的集點卡、想拿它當約會理由的人",
+          "variations": [
+            "短版：集點卡差一格，十號前約一杯咖啡。",
+            "延伸版：蓋滿那天你選店，我出錢。"
+          ]
+        },
+        "en": {
+          "content": "On the stamp card, the last box is still empty -- we're one coffee away.\nIt's redeemable before the tenth of this month, or we start the card over.\nThe day it's full, you pick the cafe and I'll pay for the coffee.\nI keep the card in my wallet's side pocket so I don't forget we're still one short.",
+          "editorNote": "For anyone with an almost-full loyalty card, using it as the reason to set a coffee date",
+          "variations": [
+            "Short: One stamp short, so let's grab coffee before the tenth.",
+            "Extended: The day it's full, you choose the cafe and I'll cover it."
+          ]
+        }
+      }
     }
   ]
 }

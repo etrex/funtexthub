@@ -11770,6 +11770,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-401",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20210618web007",
+      "sourceNote": "鏡週刊：家人每天狂拔插頭稱省電費，能源局揭待機電力真相",
+      "tags": [
+        "微波爐",
+        "插座",
+        "電費單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "微波爐插頭我夏天拔了又插、插了又拔，理由是待機也要錢。那幾瓦一年省不到一杯手搖飲的錢，我還是每天做。插座孔被我摸出一層油光，比開關本身還亮。電費單來的那天，我第一眼看的是用電度數那欄，不是金額。",
+          "editorNote": "適合分享那種明知道沒差，還是要做的省電小動作。",
+          "variations": [
+            "短版：那插座被我摸出油光，電費單來先看度數欄。",
+            "延伸版：待機電費省不到一杯手搖，我還是天天拔插頭。"
+          ]
+        },
+        "en": {
+          "content": "I unplug the microwave every summer, then plug it right back in, because standby power costs money. Those few watts save less than one bubble tea a year, and I still do it daily. The outlet has a faint sheen from all that handling, shinier than the switch itself. The day the bill arrives, I check the kilowatt-hours column first, not the total.",
+          "editorNote": "For sharing the small power-saving habit you keep doing even though you know it barely matters.",
+          "variations": [
+            "Short: the outlet has a sheen from my handling, and I check kilowatt-hours before the total.",
+            "Extended: standby power savings won't buy a bubble tea, but I still unplug it every day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-402",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.storm.mg/lifestyle/11152320",
+      "sourceNote": "風傳媒：冷氣沒多開電費為何突然暴增，台電揭帳單變貴關鍵",
+      "tags": [
+        "冷氣",
+        "電表",
+        "省電"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 冷氣設定二十七度但遙控器藏在抽屜\n— 每晚十一點抄一次電表度數\n— 風扇開整晚只為蓋過冷氣運轉聲\n— 插頭全拔只留正在用的那一個\n— 電費單一到先算每度多少元\n— 度數超過去年同月就偷偷心虛",
+          "editorNote": "適合條列那些說是省電、其實只是心理安慰的小規矩。",
+          "variations": [
+            "短版：冷氣設27度，電表天天抄，插頭全拔只留一個。",
+            "延伸版：規矩一條條列出來，聽起來慎重，其實就是捨不得那幾度電。"
+          ]
+        },
+        "en": {
+          "content": "— Set the AC to 27, but the remote lives in a drawer.\n— Read the meter every night around eleven.\n— Run the fan all night just to mask the AC's hum.\n— Unplug everything except whatever's in use.\n— Check the price per kilowatt-hour the day the bill lands.\n— Feel guilty if the reading beats last year's same month.",
+          "editorNote": "For listing the little rules that sound serious but are really just comfort over a few kilowatt-hours.",
+          "variations": [
+            "Short: AC set to 27, the meter read nightly, only one plug left in.",
+            "Extended: laid out like real rules, though it's really just hesitation over a few kilowatt-hours."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-403",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.nownews.com/news/6876226",
+      "sourceNote": "NOWnews：用戶電費漲到46722元，台電查電表用電量是一般戶7倍以上",
+      "tags": [
+        "功率顯示器",
+        "冰箱",
+        "除濕機"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我網購了一個插座式的功率顯示器，把家裡每樣電器輪流插上去測。冰箱、電風扇、除濕機都測過一輪，數字我用手機拍下來存了一整個資料夾。朋友問我測這個做什麼，我說想知道哪一台最耗電，其實答案早就猜到是冷氣。那個資料夾現在有四十幾張照片，我還在繼續拍。",
+          "editorNote": "適合分享那種明明早就猜得到答案，還是要抓著儀表逐台測過一次的較真。",
+          "variations": [
+            "短版：功率顯示器測遍全家電器，資料夾裡照片已經四十幾張。",
+            "延伸版：早猜到冷氣最耗電，還是堅持每台都測過一次才甘心。"
+          ]
+        },
+        "en": {
+          "content": "I bought a plug-in wattmeter online and tested every appliance in the house with it, one by one. The fridge, the fan, and the dehumidifier all got a turn, and I photographed each reading and saved them in one folder. A friend asked why I bothered, and I said I wanted to know which one used the most, though I'd already guessed it was the AC. That folder now holds over forty photos, and I'm still adding to it.",
+          "editorNote": "For sharing that streak of thoroughness that tests every appliance anyway, even when you already know the answer.",
+          "variations": [
+            "Short: the wattmeter went through every appliance, and the folder holds over forty photos.",
+            "Extended: I'd already guessed the AC was the culprit, but I still tested each one to be sure."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-404",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://udn.com/news/story/7266/9651892",
+      "sourceNote": "聯合新聞網：冷氣24度配微風超級吃電，達人曝電費爆表元凶",
+      "tags": [
+        "冷氣",
+        "溫度",
+        "合租"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「冷氣我們說好二十七度。」\n「對，牆上貼的就是二十七度。」\n「可是遙控器現在顯示二十四。」\n「那個是我剛剛調的，你進門前我會調回去。」\n「你常常這樣調嗎？」\n「只有你在客廳的時候才會調。」",
+          "editorNote": "適合寫給那種嘴上守規矩、手上另有一套的合租日常。",
+          "variations": [
+            "短版：溫度貼二十七度，遙控器卻常常偷偷停在二十四。",
+            "延伸版：他一進門就把溫度調回去，貼在牆上的那組數字只是做做樣子。"
+          ]
+        },
+        "en": {
+          "content": "\"We agreed on twenty-seven for the AC.\"\n\"Right, that's what the sticky note on the wall says.\"\n\"But the remote is showing twenty-four right now.\"\n\"I just turned it down, I'll switch it back before you're in the room.\"\n\"Do you do this often?\"\n\"Only when you're the one in the living room.\"",
+          "editorNote": "For a roommate scene where the posted rule and the actual habit quietly disagree.",
+          "variations": [
+            "Short: the note says twenty-seven, but the remote keeps landing on twenty-four.",
+            "Extended: the moment he's through the door he turns it back, and the number on the wall is just for show."
+          ]
+        }
+      }
     }
   ]
 }
