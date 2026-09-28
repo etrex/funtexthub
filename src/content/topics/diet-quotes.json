@@ -14622,6 +14622,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-518",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.marieclaire.com.tw/beauty/health-fitness/13965",
+      "sourceNote": "參考營養師建議的進食順序（先菜、後蛋白質、再澱粉），改寫成一句被記住的提醒",
+      "tags": [
+        "飲食",
+        "營養師",
+        "進食順序",
+        "語錄"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "營養師那次只說了一句：先把青菜吃完，其他慢慢來。那時候我只當她隨口一說，照著做卻是整整三個月。量體重那天，我又想起這句提醒，才發現吃的順序，比少吃更管用。",
+          "editorNote": "適合說給只在意份量、卻忽略進食順序的人聽",
+          "variations": [
+            "短版：先吃菜，其他慢慢來，這句話我照做了三個月。",
+            "延伸版：體重計那格數字讓我想起，順序真的比份量重要。"
+          ]
+        },
+        "en": {
+          "content": "The dietitian said just one line: eat your greens first, everything else can wait. At the time I took it as a throwaway comment, yet I followed it for three whole months. The day I stepped on the scale, that line came back to me — the order you eat in matters more than how little you eat.",
+          "editorNote": "For someone fixated on portion size while ignoring the order they eat in",
+          "variations": [
+            "Short: Greens first, everything else waits — I followed that for three months.",
+            "Extended: The scale reminded me that order matters more than portion."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-519",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://coolhealth.com.tw/eating-and-muscle-training",
+      "sourceNote": "參考健身教練對飲食搭配的實務叮嚀，改寫成教練反覆說過的幾句話",
+      "tags": [
+        "飲食",
+        "健身教練",
+        "飲食控制",
+        "對白"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這餐澱粉放太晚了，餐盤收一半就好。」\n「先吃兩口青菜，再回來找我。」\n「晚餐前餓，就先啃根小黃瓜。」\n「重訓那天記得多喝水，其他不用特別調整。」\n「這幾句他在健身房念了快兩年，我現在自己也會念出來。」",
+          "editorNote": "適合分享給正在跟教練調整飲食習慣的健身新手",
+          "variations": [
+            "短版：先吃菜、餓了啃小黃瓜，這兩句他念了快兩年。",
+            "延伸版：教練的叮嚀我沒特別背，卻不知不覺全記住了。"
+          ]
+        },
+        "en": {
+          "content": "\"You put the carbs on too late this meal — clear half the plate.\"\n\"Eat two bites of vegetables first, then come find me.\"\n\"Hungry before dinner? Bite into a small cucumber.\"\n\"On lifting days, just drink more water — no other changes needed.\"\n\"He's repeated these same lines at the gym for almost two years, and now I catch myself saying them too.\"",
+          "editorNote": "For beginners at the gym who are working with a trainer on their eating habits",
+          "variations": [
+            "Short: Veggies first, cucumber when hungry — he's said this for two years.",
+            "Extended: I never tried to memorize his reminders, yet somehow I know them all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-520",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://donnadiet.com/archives/5945",
+      "sourceNote": "參考「吃太少反而更胖」的減重門診觀點，改寫成醫生問診時的一句提問",
+      "tags": [
+        "飲食",
+        "減重門診",
+        "熱量",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "減重門診那天，醫生只問了一句：你這陣子吃得夠不夠。我一時語塞，餐餐都在忍耐，怎麼會被說吃不夠。\n回家翻出冰箱，才發現晚餐真的常常只有半顆地瓜。",
+          "editorNote": "適合提醒過度節食、卻遲遲瘦不下來的朋友",
+          "variations": [
+            "短版：醫生問「夠不夠」，我才想到晚餐常常只有半顆地瓜。",
+            "延伸版：忍耐了那麼多餐，換來的居然是被說吃不夠。"
+          ]
+        },
+        "en": {
+          "content": "At the weight clinic that day, the doctor asked just one thing: was I eating enough lately. I went blank for a second — I'd been holding back at every meal, so how could I not be eating enough.\nBack home, I opened the fridge and realized dinner really was often just half a sweet potato.",
+          "editorNote": "For a friend who over-restricts food and still can't lose weight",
+          "variations": [
+            "Short: The doctor asked if it was \"enough,\" and I remembered dinner was half a sweet potato.",
+            "Extended: After holding back at so many meals, the verdict was that I wasn't eating enough."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-521",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.marieclaire.com.tw/beauty/health-fitness/13965",
+      "sourceNote": "延伸自定時定量的飲食建議，改寫成媽媽從小到大反覆說的一句話",
+      "tags": [
+        "飲食",
+        "媽媽",
+        "餐桌",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 國小便當裡她說先吃菜\n— 大學打工還是先吃菜\n— 加班到晚上十點也先吃菜\n— 現在自己下廚照樣先吃菜\n— 這句她講了二十年沒換過",
+          "editorNote": "適合寫給家人餐桌上那句從沒變過的老話",
+          "variations": [
+            "短版：從便當到自己下廚，她那句先吃菜講了二十年。",
+            "延伸版：地點換了一輪又一輪，先吃菜這句始終沒換過人講。"
+          ]
+        },
+        "en": {
+          "content": "— In my grade-school lunchbox, she said veggies first.\n— Still veggies first through my college part-time job.\n— Working late till ten at night, still veggies first.\n— Cooking for myself now, still veggies first.\n— She's repeated that line for twenty years, unchanged.",
+          "editorNote": "For a family's dinner-table line that has never once changed",
+          "variations": [
+            "Short: From lunchbox to my own kitchen, she's said veggies first for twenty years.",
+            "Extended: Kitchens changed many times over, but who says it never did."
+          ]
+        }
+      }
     }
   ]
 }
