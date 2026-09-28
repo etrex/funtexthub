@@ -12932,6 +12932,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-462",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://health.udn.com/health/story/5964/9428303",
+      "sourceNote": "半夜醒來難再入睡專家3招（藍光/手機使用行為），改寫",
+      "tags": [
+        "失眠",
+        "手機",
+        "藍光"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在他掌心裡又亮了一次。\n他的拇指停在半空，滑開又鎖上。\n凌晨兩點半，我把整條動態消息吞給他，一則都沒有漏。\n他把我扣在胸口，螢幕暗下去，他的眼睛還睜著。",
+          "editorNote": "手機比人先知道他還醒著。適合傳給也在滑到半夜的朋友，證明他不是唯一一個。",
+          "variations": [
+            "短版：我在他掌心又亮了一次，他還醒著。",
+            "延伸版：凌晨兩點半，我把整條動態消息吞給他，一則都沒有漏，螢幕暗下去，他還盯著我發呆。"
+          ]
+        },
+        "en": {
+          "content": "I light up in his palm again.\nHis thumb hovers, swipes open, locks shut.\nAt two thirty, I feed him the whole feed, not one post skipped.\nHe presses me to his chest, the screen goes dark, his eyes stay open.",
+          "editorNote": "The phone knows he's still awake before he admits it. Send this to a friend who's also scrolling at 2 a.m.",
+          "variations": [
+            "Short: I light up in his palm again — he's still awake.",
+            "Extended: At two thirty I feed him the whole feed, not one post skipped, and even after I go dark, he keeps staring."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-463",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "睡不著怎麼辦（環境降溫/白噪音建議），改寫",
+      "tags": [
+        "失眠",
+        "電風扇",
+        "白噪音"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我朝床的方向轉整夜\n— 風掃過枕頭又彈回天花板\n— 他把我調到最弱那一格\n— 三點他把我關掉又打開\n— 我轉，他沒有跟著睡",
+          "editorNote": "風扇轉了一整夜，人卻沒有跟著睡著。適合貼給開電風扇助眠卻還醒著的人。",
+          "variations": [
+            "短版：我轉了整夜，他沒有跟著睡。",
+            "延伸版：風掃過枕頭又彈回天花板，三點他把我關掉又打開，我轉，他還是醒著。"
+          ]
+        },
+        "en": {
+          "content": "— I turn toward the bed all night.\n— Air sweeps the pillow, bounces off the ceiling.\n— He sets me to the lowest notch.\n— At three he switches me off, then on again.\n— I keep turning. He doesn't follow me to sleep.",
+          "editorNote": "The fan spins all night, but the person doesn't follow it to sleep. Good for anyone running a fan for white noise and still lying there awake.",
+          "variations": [
+            "Short: I spin all night; he never follows me to sleep.",
+            "Extended: Air sweeps the pillow and bounces off the ceiling, at three he switches me off then on again, and I keep turning while he stays awake."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-464",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://pansci.asia/archives/334938",
+      "sourceNote": "半夜醒來就睡不著的生理機制，改寫",
+      "tags": [
+        "失眠",
+        "天花板",
+        "失眠夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我在他頭頂正上方，一整夜沒有移動。\n他翻身，換了枕頭，又翻回原來那一面。\n他睜著眼看我看了很久，我什麼都沒有變。\n天快亮的時候，第一道光先爬過我，才爬到他臉上。",
+          "editorNote": "盯著天花板數到天亮，是很多失眠的人共同的姿勢。適合半夜傳給也醒著望天花板的人。",
+          "variations": [
+            "短版：我在他頭頂上方一整夜沒動，他卻換了好幾次姿勢。",
+            "延伸版：他翻身、換枕頭、又翻回原來那一面，天快亮時，第一道光先爬過我，才爬到他臉上。"
+          ]
+        },
+        "en": {
+          "content": "I sit right above his head, and I don't move all night.\nHe turns over, swaps the pillow, turns back to the same side.\nHe stares at me for a long time, and I stay exactly the same.\nJust before dawn, the first light crosses me before it reaches his face.",
+          "editorNote": "Staring at the ceiling until dawn is a shared insomnia pose. Send this to someone else counting cracks in the dark.",
+          "variations": [
+            "Short: I haven't moved above his head all night, though he's changed positions several times.",
+            "Extended: He turns over, swaps the pillow, turns back to the same side, and just before dawn, the first light crosses me before it reaches his face."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-465",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://health.udn.com/health/story/5964/9428303",
+      "sourceNote": "不看時間法／藍光抑制褪黑激素，改寫",
+      "tags": [
+        "失眠",
+        "鬧鐘",
+        "看時間"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我的數字是他關掉的最後一盞藍光\n— 他答應自己不再看我\n— 三點十一，他還是轉頭確認\n— 我的光讓瞳孔又醒了一次\n— 天亮前，他看了我十幾次",
+          "editorNote": "研究說睡前少看螢幕比較好，但失眠的人最先破功的往往是這一條。適合傳給忍不住一直看時間的人。",
+          "variations": [
+            "短版：他答應自己不再看我，三點十一還是轉頭確認。",
+            "延伸版：我的數字是他關掉的最後一盞藍光，天亮前，他看了我十幾次。"
+          ]
+        },
+        "en": {
+          "content": "— My digits are the last blue light he turns off.\n— He promises himself he won't check me again.\n— 3:11, and he turns his head to check anyway.\n— My glow wakes his pupils up one more time.\n— Before dawn, he checks me more than a dozen times.",
+          "editorNote": "Experts say skip the screen before bed — insomniacs usually break that rule first. For the friend who can't stop checking the time.",
+          "variations": [
+            "Short: He promised himself he wouldn't check me again — at 3:11 he turned anyway.",
+            "Extended: My digits are the last blue light he switches off, and before dawn, he checks me more than a dozen times."
+          ]
+        }
+      }
     }
   ]
 }
