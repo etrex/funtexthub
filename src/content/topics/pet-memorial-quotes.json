@@ -12882,6 +12882,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "pm-464",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.petmd.com/what-not-say-someone-who-lost-pet-and-what-say-instead",
+      "sourceNote": "PetMD 整理安慰失寵者常見錯誤說法；本則寫朋友事後承認說錯話、改用陪伴代替",
+      "tags": [
+        "安慰他人",
+        "陪伴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「早知道你會這麼難過，我就不會叫你別想太多。」\n「你那時候是想安慰我。」\n「可是那句話讓你更難受吧。」\n「有一點，好像牠的存在被縮小成一句話。」\n「那現在呢，我可以只是坐著聽你說嗎。」\n「這樣就夠了，真的。」",
+          "editorNote": "給不小心說錯安慰話的人，聽比說更重要",
+          "variations": [
+            "短版：我可以只是聽你說嗎。",
+            "延伸版：別想太多換成坐下來聽，是同一份心意，只是換了做法。"
+          ]
+        },
+        "en": {
+          "content": "\"If I knew you'd feel this bad, I wouldn't have told you not to think about it too much.\"\n\"You were trying to comfort me back then.\"\n\"But that line probably made it worse.\"\n\"A little — like her whole existence got shrunk into one sentence.\"\n\"Can I just sit here and listen now?\"\n\"That's enough, honestly.\"",
+          "editorNote": "For anyone who said the wrong comforting line by accident; listening beats talking",
+          "variations": [
+            "Short version: Can I just sit and listen.",
+            "Longer version: Swapping \"don't think about it\" for sitting down and listening is the same care, just a different move."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-465",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://letyourlovegrow.com/blogs/blog/what-to-do-with-a-deceased-pet-s-belongings",
+      "sourceNote": "文章談寵物遺物沒有標準答案、留多久都可以；本則寫家人詢問牽繩去留",
+      "tags": [
+        "遺物",
+        "習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這條牽繩你要留著，還是我拿去捐?」\n「先留著，我還沒想好。」\n「不用急，放多久都可以。」\n「我只是怕留太久會捨不得丟。」\n「那就別丟，捨不得也是一種紀念。」\n「好，那我先收進袋子裡就好。」",
+          "editorNote": "給還沒決定寵物遺物怎麼處理的人，留多久都可以",
+          "variations": [
+            "短版：牽繩我先收進袋子裡。",
+            "延伸版：捨不得丟，就先別丟，時間會告訴你答案。"
+          ]
+        },
+        "en": {
+          "content": "\"Do you want to keep this leash, or should I donate it?\"\n\"Keep it for now, I haven't decided.\"\n\"No rush, keep it as long as you need.\"\n\"I'm just afraid if I keep it too long, I won't be able to let go.\"\n\"Then don't let go — keeping it can be a way of remembering too.\"\n\"Okay, I'll just put it in the bag for now.\"",
+          "editorNote": "For anyone undecided about a pet's belongings; keep it as long as you need",
+          "variations": [
+            "Short version: I'll put the leash in the bag for now.",
+            "Longer version: If you can't bear to toss it, don't — time will tell you when."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-466",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://bestfriends.org/pet-care-resources/comforting-sayings-loss-dog",
+      "sourceNote": "資源頁提到悲傷會在日常小動作裡反覆出現；本則寫仍下意識準備兩份飼料",
+      "tags": [
+        "日常斷裂",
+        "思念"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你剛剛是不是又下意識倒了兩碗飼料?」\n「對，手比腦子快，倒完才想起來。」\n「這種事還會發生多久啊?」\n「應該還會，只是次數變少了。」\n「那就讓它慢慢變少，不用勉強自己。」\n「好，那碗我今天拿去餵流浪貓。」",
+          "editorNote": "手比腦子快的那種瞬間，很多人都懂",
+          "variations": [
+            "短版：手又比腦子快了一次。",
+            "延伸版：次數會自己變少，不用刻意去糾正它。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you just pour two bowls of food without thinking again?\"\n\"Yeah, my hands moved faster than my brain.\"\n\"How much longer will that keep happening?\"\n\"Probably a while, just less often now.\"\n\"Then let it fade on its own, don't force it.\"\n\"Okay, I'll take that bowl to feed the strays today.\"",
+          "editorNote": "That moment when hands move faster than the brain — a lot of people know it",
+          "variations": [
+            "Short version: My hands beat my brain again.",
+            "Longer version: It'll fade on its own, no need to correct it on purpose."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pm-467",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.headspace.com/articles/when-a-friend-loses-pet",
+      "sourceNote": "文章提醒不要淡化寵物之痛（別說「只是一隻貓」）；本則寫家人替當事人撐住這句話",
+      "tags": [
+        "悲傷被輕視",
+        "安慰他人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「阿姨說貓而已，幹嘛哭成這樣，我聽了有點生氣。」\n「她大概不知道牠陪了你十二年。」\n「知道啊，我提過很多次，她還是這樣說。」\n「那她可能只是不知道怎麼接話。」\n「也許吧，但我希望有人可以直接說難過就難過。」\n「難過就難過，不用替誰解釋。」",
+          "editorNote": "難過不需要被誰認可，才算數",
+          "variations": [
+            "短版：難過就難過，不用解釋。",
+            "延伸版：有人替你把這句話說出口，那份重量會輕一點。"
+          ]
+        },
+        "en": {
+          "content": "\"Aunt said it's just a cat, why cry so much — that kind of annoyed me.\"\n\"She probably doesn't know he was with you for twelve years.\"\n\"She does, I've told her plenty of times, and she still says it.\"\n\"Maybe she just doesn't know how else to respond.\"\n\"Maybe, but I wish someone could just say it's sad without explaining it away.\"\n\"Sad is sad. No explanation needed.\"",
+          "editorNote": "Sadness doesn't need anyone's approval to count",
+          "variations": [
+            "Short version: Sad is sad, no explanation needed.",
+            "Longer version: When someone else says it for you, the weight gets a little lighter."
+          ]
+        }
+      }
     }
   ]
 }
