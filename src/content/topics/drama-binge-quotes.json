@@ -11786,6 +11786,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-422",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.nm.org/healthbeat/healthy-tips/emotional-health/binge-watching",
+      "sourceNote": "取材自 Northwestern Medicine 追劇習慣專題，改寫成整季上架當晚的第二人稱鏡頭",
+      "tags": ["全季上架", "追劇夜", "熬夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你打開追劇app的瞬間，整季十二集一次全部亮著同一個「可觀看」的圖示。你算了一下明天要幾點起床，還是把第一集點了下去。你的手指在快轉鍵上方懸了半秒，還是決定照原速看完片頭。你把手機架在枕頭旁邊，螢幕的光比檯燈還亮。",
+          "editorNote": "適合整季上架當晚發，寫給打開通知就決定要熬夜的人。",
+          "variations": [
+            "短版：整季一次亮起，你的手指還是先點了第一集。",
+            "延伸版：算過起床時間、放棄快轉、把手機架在枕頭旁，三個動作都指向同一個決定。"
+          ]
+        },
+        "en": {
+          "content": "The moment you open the app, this season's twelve episodes light up under the same watch-now icon. You do the math on what time you'll need to wake up tomorrow, then tap episode one anyway. Your finger hovers over the skip-intro button for half a second before you let the opening play at normal speed. You prop the phone against your pillow, and its glow outshines the lamp.",
+          "editorNote": "Post it the night a full season drops, for anyone who saw the notification and chose to stay up anyway.",
+          "variations": [
+            "Short: The whole season lights up at once, and your finger still taps episode one first.",
+            "Extended: Doing the wake-up math, skipping the skip button, propping the phone by your pillow -- three small acts, one decision."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-423",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.nm.org/healthbeat/healthy-tips/emotional-health/binge-watching",
+      "sourceNote": "延伸自同篇追劇心理報導提到的社群防雷行為，改寫成第二人稱通勤場景",
+      "tags": ["防雷", "追劇習慣", "手機追劇"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把手機的社群提醒全部關掉，怕滑到一句劇透。你在聊天群組裡把同劇朋友的訊息往後放，不敢先讀。你戴上耳機走進辦公室，假裝自己只是在聽音樂。你一到家連包包都沒放下，先把昨晚剩的兩集補完。",
+          "editorNote": "適合分享在防雷相關的貼文下，講那種刻意迴避劇透的日常小動作。",
+          "variations": [
+            "短版：關提醒、跳過群組訊息，都是為了撐到自己看完。",
+            "延伸版：耳機是假的聽音樂，包包沒放下是真的想先補完進度。"
+          ]
+        },
+        "en": {
+          "content": "You turn off every social notification on your phone, afraid one of them is a spoiler. In the group chat, you push messages from the friend watching the same show to the bottom, unread. You put on headphones and walk into the office, pretending you're just listening to music. The moment you get home, bag still on your shoulder, you finish the two episodes left over from last night.",
+          "editorNote": "Use this under a spoiler-avoidance post, for the small daily moves people make to stay unspoiled.",
+          "variations": [
+            "Short: Notifications off, messages skipped -- all just to hold out until you've caught up yourself.",
+            "Extended: The headphones are a cover story; the bag left on your shoulder is the real tell."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-424",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Binge-watching",
+      "sourceNote": "參考該條目對自動播放倒數機制的描述，改寫成第二人稱情境獨白",
+      "tags": ["您還在觀看嗎", "再一集", "選擇障礙"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你看到畫面跳出還要不要繼續看的提示，倒數十秒開始跑。你盯著那個數字往下掉，手沒有伸向遙控器。你心裡想著只看一集，眼睛卻已經在讀下一集的簡介。你等到數字歸零，畫面自動接上第二集的片頭。",
+          "editorNote": "適合用在吐槽串流平台「您還在觀看嗎」那個提示框的貼文。",
+          "variations": [
+            "短版：倒數十秒，你的手始終沒伸向遙控器。",
+            "延伸版：嘴上說只看一集，眼睛早就在讀下一集簡介，數字歸零時你什麼都沒做。"
+          ]
+        },
+        "en": {
+          "content": "The screen flashes an are-you-still-watching prompt, and a ten-second countdown starts ticking away. You watch the number fall and never reach for the remote. You tell yourself just one more episode, but your eyes are already reading next episode's summary. By the time the counter hits zero, the opening of episode two has already started on its own.",
+          "editorNote": "Good for a post poking fun at the streaming app's are-you-still-watching prompt.",
+          "variations": [
+            "Short: Ten seconds counting down, and your hand never moves toward the remote.",
+            "Extended: You say just one more episode while already reading the next summary, and do nothing when the number hits zero."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-425",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Binge-watching",
+      "sourceNote": "以該條目描述的連續觀看行為為底，改寫成第二人稱清單體六個動作",
+      "tags": ["清單", "追劇進度", "罪惡感"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你把讀取畫面看了三次\n— 你點開下一集的手指停住\n— 你假裝去倒水其實在忍\n— 你把電量剩八趴當理由\n— 你打開進度條又拉回開頭\n— 你把明天的鬧鐘往後調",
+          "editorNote": "適合配圖用，六個動作剛好對到追劇拖延睡覺的每一步。",
+          "variations": [
+            "短版：三次讀取畫面、一次沒按下去的手指，都是同一晚的證據。",
+            "延伸版：把電量當理由、把鬧鐘往後調，是同一種捨不得睡的說法。"
+          ]
+        },
+        "en": {
+          "content": "— You watch the loading screen for the third time.\n— Your finger freezes over the next episode.\n— You pretend to get water, really just holding out.\n— You blame the eight percent battery for stopping.\n— You drag the progress bar back to the start.\n— You push tomorrow's alarm back another hour.",
+          "editorNote": "Works well paired with a graphic; six actions that map onto every stage of putting off sleep for one more episode.",
+          "variations": [
+            "Short: Three loading screens and one frozen finger, all evidence from the same night.",
+            "Extended: Blaming the battery and pushing back the alarm are two versions of the same excuse not to sleep."
+          ]
+        }
+      }
     }
   ]
 }

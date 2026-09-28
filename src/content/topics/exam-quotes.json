@@ -14033,6 +14033,126 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "eq-471",
+            "dateAdded": "2026-09-28",
+            "sourceUrl": "https://ioh.tw/articles/ioharticles-%E5%AD%B8%E6%B8%AC%E9%99%AA%E8%80%83-%E6%8C%87%E8%80%83%E9%99%AA%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85",
+            "sourceNote": "IOH 學測考場規則整理文；取「智慧型手錶／手環全面禁止攜帶」的規定，改寫成監考現場一句話兩種聽法的畫面。",
+            "tags": [
+                "監考",
+                "手錶",
+                "誤會",
+                "考場規則"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "監考老師巡到第二排，低聲說了一句「這支先拿下來」。隔壁桌女生聽見的是考場規則，把手錶放進透明筆袋最外層。前一天忘記關掉鬧鈴的男生聽見的是在講他自己那支還會震動的錶。他慢了半拍解開錶帶，扣環在桌角碰出一聲輕響。",
+                    "editorNote": "適合用在監考現場，一句話同時是規則也是說給一個人聽的提醒，不用點破誰對誰錯。",
+                    "variations": [
+                        "短版：他解開錶帶，扣環在桌角碰出一聲輕響。",
+                        "延伸版：隔壁桌女生把手錶收好後，順手也把手機關成靜音，跟規則沒有直接關係。"
+                    ]
+                },
+                "en": {
+                    "content": "The proctor walked to the second row and said quietly, \"Take that one off first.\" The girl at the next desk heard exam rules, and slid her watch into the outer pocket of her clear pencil case. The guy who forgot to turn off his alarm the night before heard something aimed at his own watch. He was half a beat slow unclasping the band, and the buckle clicked once against the edge of the desk.",
+                    "editorNote": "For a proctor's one-line announcement that reads as a blanket rule to the room and a pointed nudge to one student, without declaring who heard it right.",
+                    "variations": [
+                        "Short: He unclasped the band, and the buckle clicked once against the desk.",
+                        "Extended: The girl next to him also switched her phone to silent after putting her watch away, for reasons that had nothing to do with the rule."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-472",
+            "dateAdded": "2026-09-28",
+            "sourceUrl": "https://applealmond.com/posts/176514",
+            "sourceNote": "蘋果仁整理學測成績簡訊通知時間與對象的文章；取「簡訊可能寄到報名時填寫的家長門號」這個資訊性誤解，改寫成群組對話。",
+            "tags": [
+                "簡訊",
+                "誤會",
+                "家人",
+                "分數"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "「數字出來了。」\n「妳是說學測分數，還是彩券行那組？」\n「兩邊我都查了一次，數字剛好有一半一樣。」\n「先看孩子的，不然等一下要吵。」\n「妳傳的截圖只有一半螢幕，另一半被拇指擋住了。」\n「那半張擋住的，剛好就是我最想先看的部分。」",
+                    "editorNote": "適合放在成績公布那天，一句話同時被兩種期待接住。",
+                    "variations": [
+                        "短版：那半張擋住的，剛好是我最想先看的部分。",
+                        "延伸版：彩券行那組其實是外婆每週固定的號碼，跟考試一點關係都沒有。"
+                    ]
+                },
+                "en": {
+                    "content": "\"The numbers are up.\"\n\"You mean the exam score, or the lottery numbers?\"\n\"I checked both once, and half the digits happen to match.\"\n\"Look at the kid's first, or there'll be an argument later.\"\n\"Your screenshot only shows half the screen, your thumb is covering the rest.\"\n\"The half that's covered happens to be the part I wanted to see first.\"",
+                    "editorNote": "For the moment scores are released, when one text message lands as two different kinds of good news at once.",
+                    "variations": [
+                        "Short: The covered half happened to be the part I most wanted to see.",
+                        "Extended: The lottery numbers were actually grandma's usual weekly picks, with nothing to do with the exam at all."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-473",
+            "dateAdded": "2026-09-28",
+            "sourceUrl": "https://www.ceec.edu.tw/files/file_pool/1/0p324619393827932684/115%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%AD%B8%E7%A7%91%E8%83%BD%E5%8A%9B%E6%B8%AC%E9%A9%97%E8%80%83%E7%94%9F%E6%87%89%E8%80%83%E6%8F%90%E9%86%92%E3%80%81%E8%80%83%E5%89%8D%E6%AA%A2%E6%9F%A5%E6%9A%A8%E6%87%89%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85.pdf",
+            "sourceNote": "大考中心學測應考注意事項公告；取「考試結束鈴聲響畢應立即停止作答」的規定，改寫成廣播一句話兩種心情的畫面。",
+            "tags": [
+                "考試結束",
+                "廣播",
+                "誤會",
+                "作文"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "鈴聲響到第二聲時，廣播裡說了句「請把筆放下」。這句話在前排監考老師耳裡，是收卷流程開始前的固定提醒。作文最後一段留了空白的女生耳裡，聽到的卻是終於可以停下來的意思。她把筆蓋蓋上，指節因為握太久而泛白。",
+                    "editorNote": "適合用在考試結束鈴響那一刻，同一句廣播對監考老師和寫不完的考生意義完全不同。",
+                    "variations": [
+                        "短版：她把筆蓋蓋上，指節因為握太久而泛白。",
+                        "延伸版：那段空白後來被閱卷老師圈起來，但沒有人知道她當時已經放棄了。"
+                    ]
+                },
+                "en": {
+                    "content": "When the bell rang for the second time, the announcement said, \"Please put your pens down.\" To the proctor at the front, this line was the standard cue that the collection process was starting. To the girl in the last row, who had left the final paragraph of her essay blank, it was the line that meant she could finally stop. She capped her pen, her knuckles pale from gripping it too long.",
+                    "editorNote": "For the instant the end-of-exam bell rings, when the same announcement means something completely different to the proctor and to a student who didn't finish.",
+                    "variations": [
+                        "Short: She capped her pen, her knuckles pale from gripping it too long.",
+                        "Extended: A grader later circled that blank paragraph, with no way of knowing she'd already given up by then."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-474",
+            "dateAdded": "2026-09-28",
+            "sourceUrl": "https://www.ptt.cc/bbs/StupidClown/M.1430307638.A.C22.html",
+            "sourceNote": "PTT StupidClown 板考試滑手機被誤會作弊事件文；取「其實是等交卷才滑手機」的情境，改寫成監考現場一句話兩種解讀的畫面。",
+            "tags": [
+                "監考",
+                "手機",
+                "誤會",
+                "考場"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "監考老師走過來，站在他桌邊小聲問了句「你在幹嘛」。旁邊同學抬頭看見的畫面是有人要被抓去記過。他手機螢幕上開著一款消除方塊的遊戲，答案卡在半小時前就已經填完。老師伸手拿走他的手機時，他只把頭低下去，沒有再抬起來。",
+                    "editorNote": "適合用在監考老師發現學生滑手機的那一刻，旁觀者和當事人看到的完全是兩件事。",
+                    "variations": [
+                        "短版：他只把頭低下去，沒有再抬起來。",
+                        "延伸版：那款消除方塊的遊戲，後來他刪掉了，再也沒有重新下載。"
+                    ]
+                },
+                "en": {
+                    "content": "The proctor walked over and asked quietly, standing by his desk, \"What are you doing?\" The classmate next to him looked up and saw what seemed like someone about to get written up. On his phone screen was a block-matching game, and he'd already filled in every answer half an hour earlier. When the teacher reached over and took the phone from his hand, he only lowered his head, and didn't look up again.",
+                    "editorNote": "For the moment a proctor catches a student on their phone, when a bystander and the student himself are seeing two completely different things.",
+                    "variations": [
+                        "Short: He only lowered his head, and didn't look up again.",
+                        "Extended: He deleted that block-matching game afterward, and never downloaded it again."
+                    ]
+                }
+            }
         }
   ]
 }
