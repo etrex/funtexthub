@@ -13248,6 +13248,82 @@
           "variations": ["Short: Zero connects to a person, and the person says press one.", "Longer: The list makes a full circle and nobody has explained the bill yet."]
         }
       }
+    },
+    {
+      "id": "svc-479",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://blog.104.com.tw/beagiver-customerservicestaff/",
+      "sourceNote": "電話客服人員心聲報導改寫，把顧客中途掛斷的那一刻定格在通話結束畫面上。",
+      "tags": ["服務業", "客服", "電話", "退款"],
+      "i18n": {
+        "zh-tw": {
+          "content": "電話那頭忽然沒有聲音，螢幕上通話時間停在四十七秒。他打進來只問了一句退款進度，我還沒說完最後半句，線就斷了。畫面顯示通話已經結束，但耳機裡好像還留著一點雜音。「已經幫您處理好了」這句話，他到底聽到了幾個字？",
+          "editorNote": "電話斷線後，那句安慰的話有沒有被聽完，誰也不知道。適合做電話客服的人。",
+          "variations": ["短版：四十七秒後電話斷了，那句安慰的話，他聽到了幾個字？", "延伸版：耳機裡還留著雜音，只是不知道，是訊號還是人先消失的。"]
+        },
+        "en": {
+          "content": "The line on the other end suddenly went quiet, the call timer frozen at forty-seven seconds. He'd called in with one question about a refund, and before I finished my last sentence, the connection dropped. The screen said the call had ended, but there was still a faint hiss left in the headset. Of the words “we've already taken care of it,” how many did he actually hear?",
+          "editorNote": "Whether he heard the whole reassurance before the line dropped, nobody knows. For anyone who works phone support.",
+          "variations": ["Short: The call dropped at forty-seven seconds — of that reassurance, how many words did he actually hear?", "Longer: There's still a faint hiss in the headset, though it's unclear whether the signal or the person disappeared first."]
+        }
+      }
+    },
+    {
+      "id": "svc-480",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://vocus.cc/article/6056140afd89780001d54c13",
+      "sourceNote": "超商店員觀察一百組客人裡只有五位會說謝謝的紀錄，改寫成一班下來的清單。",
+      "tags": ["服務業", "清單", "超商", "謝謝"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 第一位結帳沒開口\n— 第二位找零時說了謝謝\n— 第三位急著接電話刷卡就走\n— 第四位把零錢丟在桌上\n— 心裡數到第五個才聽到謝謝\n— 打烊前，到底有幾個人回頭說了？",
+          "editorNote": "一天的謝謝被拆成好幾段，要數到第幾個才聽到一次。適合站收銀機前的人。",
+          "variations": ["短版：五個客人裡，通常只有一個會開口說謝謝。", "延伸版：打烊前的最後一句，問的常常比謝的還多。"]
+        },
+        "en": {
+          "content": "— Customer one paid without a word.\n— Customer two said thanks while getting change.\n— Customer three tapped their card and ran off for a call.\n— Customer four dropped the coins on the counter.\n— I counted to five before anyone said thanks.\n— Before closing, how many people actually turn around and say it?",
+          "editorNote": "A day's worth of thank-yous gets split into pieces, and you never know which customer will be the one who says it. For anyone standing at the register all day.",
+          "variations": ["Short: Out of five customers, usually only one says thanks out loud.", "Longer: The last line before closing usually asks for more than it gives thanks."]
+        }
+      }
+    },
+    {
+      "id": "svc-481",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.stheadline.com/lifetips/3309273/%E6%95%99%E8%80%81%E4%BA%BA%E5%AE%B6%E7%94%A8%E6%89%8B%E6%A9%9F%E7%86%B1%E6%BD%AE%E5%85%A7%E5%9C%B0%E7%A4%BE%E4%BA%A4%E7%B6%B2%E6%95%B4%E5%90%88%E6%9A%96%E5%BF%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97-%E5%8A%A9%E9%AB%98%E9%BD%A1%E8%80%81%E4%BA%BA%E4%BA%AB%E5%8F%97%E7%A7%91%E6%8A%80",
+      "sourceNote": "教長輩用手機的暖心指南報導改寫成手機門市的對話，最後一句留給帳號歸屬的疑問。",
+      "tags": ["服務業", "對話", "手機門市", "長輩"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個要按哪裡？」\n「螢幕最下面那個圈圈。」\n「按下去就會存進去嗎？」\n「先按一次，我在你旁邊看著。」\n「這樣存進去的，究竟是我的帳號還是你的？」",
+          "editorNote": "教長輩操作手機時，一個按鈕背後常常藏著另一個問題。適合在門市幫忙設定的人。",
+          "variations": ["短版：按下去之前，先問清楚存進去的是誰的帳號。", "延伸版：教學到最後一步，反而冒出一個新的疑問。"]
+        },
+        "en": {
+          "content": "“Where do I press?”\n“That little circle at the bottom of the screen.”\n“If I press it, does it save?”\n“Try it once, I'm right here.”\n“So whose account is this actually saving to, mine or yours?”",
+          "editorNote": "Teaching someone's parent to use their phone, one button always hides another question. For anyone who helps set up phones at the counter.",
+          "variations": ["Short: Before you press it, better ask whose account it's actually saving to.", "Longer: By the last step of the lesson, a brand-new question shows up instead."]
+        }
+      }
+    },
+    {
+      "id": "svc-482",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://www.businessinsider.tw/article/7510",
+      "sourceNote": "顧客想與真人客服對話的報導改寫，聚焦在線上客服視窗一直顯示打字中的等待瞬間。",
+      "tags": ["服務業", "客服", "線上客服", "訊息"],
+      "i18n": {
+        "zh-tw": {
+          "content": "視窗右下角一直顯示『對方輸入中』，游標閃了快兩分鐘還沒送出字。上一句是制式的道歉，跟三分鐘前那句幾乎一樣。我把問題又打了一次，這次特地加了一個名字上去。畫面另一頭打字的，到底是不是同一個人？",
+          "editorNote": "視窗一直顯示對方在輸入，卻不知道打字的到底是誰。適合等線上客服回覆的人。",
+          "variations": ["短版：打字中的提示閃了兩分鐘，不確定另一頭還是不是同一個人。", "延伸版：同樣的道歉出現第二次，讓人想確認，是不是換了人在回。"]
+        },
+        "en": {
+          "content": "The bottom right of the window keeps showing “the other person is typing,” and the cursor has been blinking for almost two minutes with nothing sent yet. The last message was a stock apology, nearly identical to the one three minutes ago. I typed the question again, this time adding a name to it on purpose. Whoever is typing on the other end, are they even the same person?",
+          "editorNote": "The window keeps saying someone is typing, but there's no telling who that someone actually is. For anyone waiting on a live chat reply.",
+          "variations": ["Short: The typing indicator blinked for two minutes, and it's unclear if it's still the same person on the other end.", "Longer: The same apology showed up a second time, making you wonder if someone else has taken over."]
+        }
+      }
     }
   ]
 }

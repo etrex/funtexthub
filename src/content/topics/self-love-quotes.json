@@ -12758,7 +12758,126 @@
             ]
           }
         }
+      },
+      {
+        "id": "slq-475",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://careandselflove.com/compliments-feel-uncomfortable/",
+        "sourceNote": "Inspired by 'both-and' reframing that lets an ambiguous remark keep two readings instead of resolving to one; reworked as an original scene about a trainer's comment mid-workout.",
+        "tags": [
+          "自愛",
+          "自我對話",
+          "接受自己",
+          "健身"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "教練看我把啞鈴放下，說了一句「你今天比較沒力。」那句話裡有他在觀察我昨晚只睡了不到六小時，也有他單純在報告今天的組數比平常少了兩下。我沒有解釋是哪一種，把啞鈴收回架上，兩種說法都沒有人拿走。",
+            "editorNote": "給常常被一句話同時戳中兩種心情的人。你不必替對方的話選邊站，也不必替自己澄清。",
+            "variations": [
+              "短版：教練說我沒力，兩種意思我都留著。",
+              "延伸版：睡不到六小時，也是組數少了兩下。"
+            ]
+          },
+          "en": {
+            "content": "My trainer watched me set the dumbbells down and said, \"You seem low on energy today.\" The line could mean he noticed I only slept five hours last night, or simply that he was reporting two fewer reps than usual. I did not explain which one, put the dumbbells back on the rack, and left both readings there.",
+            "editorNote": "For anyone who hears two meanings in one sentence about themselves. You don't have to pick a side for someone else's words, or explain yourself either.",
+            "variations": [
+              "Short version: My trainer said I looked low on energy, and I kept both meanings.",
+              "Longer version: Five hours of sleep, and two fewer reps — both true."
+            ]
+          }
+        }
+      },
+      {
+        "id": "slq-476",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://careandselflove.com/compliments-feel-uncomfortable/",
+        "sourceNote": "Same 'both-and' reframing concept; reworked as an original scene about buying flowers for yourself.",
+        "tags": [
+          "自愛",
+          "自我對話",
+          "善待自己",
+          "花店"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "我自己去買了一束花，老闆包花時說了一句「自己買喔。」\n— 她可能在想怎麼沒人送妳\n— 她也可能只是問要不要附卡片\n— 兩個念頭我都沒有出聲反駁\n— 花束裡多了一張沒寫字的卡片",
+            "editorNote": "給會因為一句話愣住的人。兩種解讀都留著，比急著挑一個更接近善待自己。",
+            "variations": [
+              "短版：老闆問自己買喔，兩個念頭我都沒反駁。",
+              "延伸版：花束裡多了一張沒寫字的卡片。"
+            ]
+          },
+          "en": {
+            "content": "I bought myself a bouquet, and the shop owner said, \"Buying these for yourself?\" while wrapping it.\n— She might have been wondering why no one sent me flowers.\n— She might have just been asking if I wanted a card.\n— I did not argue with either thought.\n— A blank card ended up tucked into the bouquet.",
+            "editorNote": "For anyone who freezes at an ambiguous remark. Keeping both readings is closer to self-kindness than rushing to pick one.",
+            "variations": [
+              "Short version: The owner asked if it was for myself, and I let both guesses stand.",
+              "Longer version: A blank card ended up tucked into the bouquet."
+            ]
+          }
+        }
+      },
+      {
+        "id": "slq-477",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://careandselflove.com/compliments-feel-uncomfortable/",
+        "sourceNote": "Same 'both-and' reframing concept; reworked as an original scene about re-borrowing the same library book.",
+        "tags": [
+          "自愛",
+          "自我對話",
+          "接受自己",
+          "閱讀"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "「妳又借這本喔。」館員蓋章時說了這一句。可能是她記得我上個月也借過同一本；也可能單純是這本書最近很多人在借。我把書放進袋子，沒有多問，兩種猜測跟著書一起被我帶走。",
+            "editorNote": "給一直重複回到同一件小事的人。重複本身不需要理由，兩種猜測都可以留給對方。",
+            "variations": [
+              "短版：館員說我又借這本，我把兩種語氣都收下了。",
+              "延伸版：章蓋下去，書放進袋子，沒有多解釋。"
+            ]
+          },
+          "en": {
+            "content": "\"Borrowing this one again?\" the librarian said while stamping it. It could mean she remembered I checked out the same title last month, or simply that the book has been popular with a lot of people lately. I slid it into my bag without asking, and both guesses came home with the book.",
+            "editorNote": "For people who keep returning to the same small comfort. The repetition doesn't need a reason, and both guesses can be left with the other person.",
+            "variations": [
+              "Short version: The librarian noted I borrowed it again, and I kept both tones.",
+              "Longer version: The stamp came down, the book went into my bag, no explanation needed."
+            ]
+          }
+        }
+      },
+      {
+        "id": "slq-478",
+        "dateAdded": "2026-09-28",
+        "sourceUrl": "https://careandselflove.com/compliments-feel-uncomfortable/",
+        "sourceNote": "Same 'both-and' reframing concept; reworked as an original scene about a shoe repair comment.",
+        "tags": [
+          "自愛",
+          "自我對話",
+          "念舊",
+          "日常"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "鞋子送去給鞋匠看，他捏了捏鞋底說「妳這雙穿很久了喔。」他或許在算這鞋還撐不撐得住；也或許只是想確認要換哪種鞋跟。我沒有搶著回答，坐在一旁等，兩個意思跟著鞋子一起被交回我手上。",
+            "editorNote": "給捨不得換掉舊東西的人。舊，不代表非換不可，兩種說法都可以陪它多撐一陣子。",
+            "variations": [
+              "短版：鞋匠說穿很久了，兩個意思我都收下。",
+              "延伸版：坐在旁邊等，鞋子跟著兩種解讀一起回來。"
+            ]
+          },
+          "en": {
+            "content": "I brought the shoes to the repairman, and he pressed on the sole and said, \"You've had these a long time.\" He might have been estimating whether they could still hold up, or he might have simply been confirming which heel to replace. I did not rush to answer, sat nearby and waited, and both meanings came back to me together with the shoes.",
+            "editorNote": "For people who can't bring themselves to replace old things. Old doesn't mean it has to go, and both readings can keep it going a little longer.",
+            "variations": [
+              "Short version: The repairman said they'd lasted a long time, and I kept both meanings.",
+              "Longer version: I waited, and the shoes came back carrying both readings."
+            ]
+          }
+        }
       }
-    
   ]
 }
