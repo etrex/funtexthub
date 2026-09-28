@@ -13297,3 +13297,30 @@ Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com
 - 不執行：建立內容檔、補跑、代 generator commit／deploy。
 
 Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[DailyView 迷因](https://dailyview.tw/popular/topic/meme)｜[SocialBee：Trending TikTok memes September 2026](https://socialbee.com/blog/trending-tiktok-memes/)｜[NapoleonCat：Top Trending Memes](https://napoleoncat.com/blog/trending-memes/)
+
+## 2026-09-28 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-21～09-27：168/186/193/178/168/168/168（42 檔）⇒ 正常，未停擺。最近 commit：`daily update 2026-09-27`／`maintenance update 2026-09-27`。本次未重測分發層／DNS／404（沿用 09-24 狀態）。
+
+### New Topic Recommendations
+本次掃描（Threads 熱門迷因、台灣網路流行語、英文 trending memes、萬聖節）**無新增白地**，逐項核對如下：
+
+1. **🔴 不新增：《甄嬛傳》馬拉松新梗**（「大清皮克敏」「蝦皮安心退」等）——語料 `甄嬛傳` 48 則／4 檔（`absurd-wisdom`／`cdrama-period-quotes`/`cold-jokes`/`drama-quotes`）已飽和；且屬電視劇台詞二次創作，IP 風險偏高，不建議獨立指派。
+2. **🔴 不新增：「高麗菜」神用法梗**——語料 63 則／9 檔已廣泛覆蓋，非白地。
+3. **🔴 不新增：「暈碳」（吃太多碳水後血糖驟降想睡）**——查語料 4 則命中皆在 `slang-quotes.json`（含 zh/en 對照），已完整覆蓋，非新詞。
+4. **🔴 不新增：「泉」（很懂/超頂）、「破防」、「留友看」、「ㄅ級分」**——分別 7/38/53/24 則命中，均已覆蓋或飽和（`ㄅ級分` 09-25 已記錄飽和）。
+5. **⚠️ 英文側本週熱梗多為「真人／實況主」哏，不適合本站**：Pinkchyu 與 Drake 互動片段、Kai Cenat 唸錯字衍生的 "La Peace" 音哏、諷刺文章角色 "Gavin Dorman, 10"、機場「大個子」重繪迷因——皆綁定特定真人肖像或需要圖像才能理解，脫離圖像/真人脈絡文字化後無笑點，且有肖像/未成年角色風險，本次不建議指派。
+6. **不新增獨立 topic**：萬聖節搜尋僅得到既有懶人包型文章，語料 `萬聖` 13 則／4 檔仍有空間但屬既有排程（10/26，見 content-creator 側 Q4 路由），非本次新發現。
+
+### Content Trends
+- 本週三個搜尋方向（Threads 熱門、中文網路流行語、英文 trending memes）交集出的候選幾乎全數已被既有語料吸收，反映飽和速度已追上外部產出速度；短期內「單詞/短句流行語」這條軸的邊際新增空間持續縮小。
+- 英文迷因生態本週明顯轉向「真人實況主/網紅」為中心的哏（Nelk 節目、Kai Cenat 直播、諷刺報導角色），與本站「可泛用化文字內容」的定位不合，建議往後掃描英文側時可**優先篩掉需要真人肖像或影片畫面才能理解的格式**，減少無效候選。
+- 時效：好市多熟食區新制 10/1 生效，**指派窗口 9/30 截止（剩 2 天）**，語料現僅 3 則命中、尚未被指派，若要用需儘快排入；10/9–10/11 國慶連假／10/12 重陽／10/24–10/26 光復節／10/26 萬聖（均已預先路由，非本次新發現）。
+
+### Existing Topic Updates
+- 沿用中候選（皆無新進度）：KitKat 劫案哏（0/0，第 6 天）、「不知道，我的身材很曼妙」（0/0，第 5 天）、「奧德賽時期」（0/0，第 5 天）、王ADEN「大跳」動詞梗（1/1，第 4 天，時效較短建議儘快裁決去留）、比奇堡開運桌布（0/0，第 3 天）、《尼古喵喵》貓漫畫（0/0，第 3 天，IP 風險維持低優先）。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[噓星聞：甄嬛傳馬拉松新哏懶人包](https://stars.udn.com/star/story/10088/9328443)｜[DailyView：活網、海巡、迷因連發](https://dailyview.tw/daily/4542)｜[Mobile01：2025-2026台灣網絡流行語精選](https://www.mobile01.com/topicdetail.php?f=37&t=7251111)｜[Look Pretty：觸爛、M3、各各 2026年輕人網路流行用語](https://look.s3.com.tw/look/outfit/tff1g4/page/25872)｜[Know Your Meme：The Weekly Meme Roundup](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-pinkchyu-the-other-cavaliers-kinda-chic-trend-and-more)｜[NapoleonCat：Top Trending Memes (September 2026)](https://napoleoncat.com/blog/trending-memes/)｜[Dcard：萬聖節笑話](https://www.dcard.tw/f/joke/p/240375613)
