@@ -13697,6 +13697,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-487",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://food.ltn.com.tw/article/11315",
+      "sourceNote": "肉圓蒸炸做法南北差異",
+      "tags": [
+        "肉圓",
+        "小吃",
+        "南北差異"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我問老闆肉圓是蒸的還是炸的。他說要看地區，北部大多用炸的，南部大多用蒸的，內餡都是豬肉和筍丁。差別只在外皮，一個Q彈，一個軟嫩。",
+          "editorNote": "答案照地理分界講完就停，不評論哪個比較好吃。適合放在小吃系列開場。",
+          "variations": [
+            "短版：北部多炸，南部多蒸。",
+            "延伸版：他還說筍丁要現剝的才脆。"
+          ]
+        },
+        "en": {
+          "content": "I asked the owner whether the rice ball was steamed or fried. He said it depends on the region — mostly fried in the north, mostly steamed in the south, and the filling is pork and diced bamboo shoots either way. The only difference is the skin, one chewy and one soft.",
+          "editorNote": "It states the regional split and stops, without ranking which one tastes better. Works well as an opener in a street-food set.",
+          "variations": [
+            "Short version: Fried in the north, steamed in the south.",
+            "Extended: He also said the bamboo shoots have to be freshly peeled to stay crisp."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-488",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://food.ltn.com.tw/article/6876",
+      "sourceNote": "地瓜球中空原理",
+      "tags": [
+        "地瓜球",
+        "夜市",
+        "問答"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：地瓜球為什麼中間是空心的？\n答：地瓜泥加樹薯粉搓成球，下鍋油炸。撈起來的時候用漏勺壓幾次，把空氣擠出去，球才會膨脹成中空。",
+          "editorNote": "問答把做法講完，沒有再多說一句感想，是純技術性的收尾。搭配夜市內容用。",
+          "variations": [
+            "短版：壓幾下，空氣擠出去就空心了。",
+            "延伸版：地瓜換成紫薯也是同樣做法。"
+          ]
+        },
+        "en": {
+          "content": "Q: Why are fried sweet potato balls hollow inside?\nA: Sweet potato mash is mixed with tapioca starch and rolled into balls, then deep-fried. While frying, you press them a few times with a strainer to push the air out, and that makes them puff up hollow.",
+          "editorNote": "The Q&A explains the technique and ends there, with no aside about how satisfying it is. Good next to night-market content.",
+          "variations": [
+            "Short version: Press it a few times and the air comes out, leaving it hollow.",
+            "Extended: Swap in purple sweet potato and the method is the same."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-489",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%88%88%E5%8C%85",
+      "sourceNote": "刈包內餡與由來",
+      "tags": [
+        "刈包",
+        "小吃",
+        "問答"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "問：刈包裡面除了滷肉還有什麼？\n答：酸菜、花生粉，還有香菜，三樣都是傳統配料。麵皮是發酵過的白麵團，對折蒸熟。",
+          "editorNote": "配料唸完就結束，不強調少一樣就不對。刈包主題放中段合適。",
+          "variations": [
+            "短版：酸菜、花生粉、香菜，三樣。",
+            "延伸版：麵皮蒸的時候要對折，不然會黏在一起。"
+          ]
+        },
+        "en": {
+          "content": "Q: Besides braised pork, what else goes inside gua bao?\nA: Pickled mustard greens, crushed peanuts, and cilantro — all three are traditional toppings. The bun is a fermented white dough, folded in half and steamed.",
+          "editorNote": "It lists the toppings and stops, without insisting all three are essential. Fits mid-set in a gua bao piece.",
+          "variations": [
+            "Short version: Pickled greens, peanuts, cilantro — three toppings.",
+            "Extended: The bun has to be folded before steaming, or it sticks together."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-490",
+      "dateAdded": "2026-09-28",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%BE%8E%E5%BC%8F%E5%92%96%E5%95%A1",
+      "sourceNote": "熱美式冰美式粉水比例",
+      "tags": [
+        "美式咖啡",
+        "飲品",
+        "對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「熱美式跟冰美式差在哪裡？」\n「粉水比例不一樣。」\n「怎麼不一樣？」\n「熱的大概一比七，冰的會濃一點。」\n「為什麼冰的要濃？」\n「因為冰塊會融化，稀釋掉一些。」",
+          "editorNote": "六句對話全部圍繞比例，沒有人給出偏好意見，收尾很乾。",
+          "variations": [
+            "短版：熱的一比七，冰的濃一點。",
+            "延伸版：冰塊選大顆的，融化比較慢。"
+          ]
+        },
+        "en": {
+          "content": "\"How is hot Americano different from iced?\"\n\"The ratio of espresso to water is different.\"\n\"Different how?\"\n\"Hot is about one to seven, iced is made a bit stronger.\"\n\"Why does iced need to be stronger?\"\n\"Because the ice melts and dilutes it a little.\"",
+          "editorNote": "All six lines stay on the ratio, and nobody weighs in on which tastes better. A clean, flat closer for a drinks set.",
+          "variations": [
+            "Short version: Hot is one to seven, iced is a bit stronger.",
+            "Extended: He also said to use large ice cubes because they melt slower."
+          ]
+        }
+      }
     }
   ]
 }
