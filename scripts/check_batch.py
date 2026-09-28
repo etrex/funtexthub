@@ -104,15 +104,25 @@ def main():
                  f'confined to {sorted(inst_topics)}')
 
     # -- scene hypernym class concentration (the 8/24 defect) ---------------
+    # 2026-09-28: no-scene-day guard. This gate catches >10% of the batch
+    # landing in one real scene category. On a day with no scene assignment
+    # at all (every topic's scene_class is unset), every item falls into the
+    # same `None` bucket and the gate fires at 100% even though there is no
+    # actual scene concentration to detect — a false positive, not the 8/24
+    # defect. Only enforce this gate when at least one topic actually carries
+    # a scene_class today.
     cls_of = {t: v.get('scene_class') for t, v in asg['topics'].items()}
-    cls_items = collections.Counter(cls_of.get(r[0]) for r in rows)
-    for cls, c in cls_items.most_common(3):
-        pct = round(c / n * 100, 1)
-        if pct > SCENE_CLASS_LIMIT:
-            share_fail(f'scene class 「{cls}」 {pct}% > {SCENE_CLASS_LIMIT}%')
-    top = cls_items.most_common(1)[0]
-    notes.append(f'max scene class 「{top[0]}」 {round(top[1]/n*100,1)}% '
-                 f'(limit {SCENE_CLASS_LIMIT}%)')
+    if any(cls_of.values()):
+        cls_items = collections.Counter(cls_of.get(r[0]) for r in rows)
+        for cls, c in cls_items.most_common(3):
+            pct = round(c / n * 100, 1)
+            if pct > SCENE_CLASS_LIMIT:
+                share_fail(f'scene class 「{cls}」 {pct}% > {SCENE_CLASS_LIMIT}%')
+        top = cls_items.most_common(1)[0]
+        notes.append(f'max scene class 「{top[0]}」 {round(top[1]/n*100,1)}% '
+                     f'(limit {SCENE_CLASS_LIMIT}%)')
+    else:
+        notes.append('scene class check skipped (no scene assignment today)')
 
     # -- ordinal quota -------------------------------------------------------
     ordt = sorted({r[0] for r in rows if M.is_ordinal_enum(r[2])})
