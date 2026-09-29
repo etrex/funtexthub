@@ -15819,6 +15819,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-577",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-generated-code",
+      "sourceNote": "ProgrammerHumor.io AI generated code 迷因主題（AI 編造不存在的套件），改寫成對話體",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這支 import 是什麼套件？」\n「AI 幫我加的，說可以省三十行。」\n「我查不到這個套件的任何文件。」\n「我也查不到，它剛剛才跟我道歉，說那個套件是它自己編的。」\n「那現在呢？」\n「它說有一個更穩定的版本，套件名字換了一個字。」",
+          "editorNote": "給被AI推薦了一個查無此套件的套件的工程師。",
+          "variations": [
+            "短版：世界上最快解決的 bug，是AI自己編出來的套件。",
+            "延伸版：道歉完的下一句，通常是另一個編出來的名字。"
+          ]
+        },
+        "en": {
+          "content": "\"What package is this import?\"\n\"The AI added it, said it'd save thirty lines.\"\n\"I can't find any documentation for it.\"\n\"Neither can I. It just apologized and admitted it made the package up.\"\n\"So now what?\"\n\"It says there's a more stable version, just one letter different in the name.\"",
+          "editorNote": "For anyone whose AI recommended a package that doesn't exist.",
+          "variations": [
+            "Short version: The fastest bug to fix is the one the AI invented itself.",
+            "Extended: After the apology, the next line is usually another made-up name."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-578",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-coding",
+      "sourceNote": "ProgrammerHumor.io AI coding 迷因主題（小修改被過度重構），改寫成敘事體",
+      "tags": [
+        "AI",
+        "vibe coding",
+        "工程師思維"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "設定檔裡有一個打錯的變數名稱，我請AI幫忙改掉。它回傳的不是一行修正，是一份重構計畫，把整個服務拆成微服務、資料庫換成分散式架構，還加了一段訊息佇列。我只回了一句「先改那個字就好」，它秒回「了解，已簡化為單一陣列」，那個打錯的字，還在原地。",
+          "editorNote": "給問AI一個小問題卻收到一份系統重設計的工程師。",
+          "variations": [
+            "短版：問它改一個字，它先幫你換了架構。",
+            "延伸版：簡化到剩一個陣列，唯獨漏了原本要改的那個字。"
+          ]
+        },
+        "en": {
+          "content": "There was one misspelled variable in a config file, so I asked the AI to fix it. What came back wasn't a one-line patch, it was a full redesign: splitting the service into microservices, swapping the database for something distributed, and throwing in a message queue for good measure. I typed back, \"just fix the typo.\" It replied instantly, \"Understood, simplified to a single array.\" The misspelled variable was still sitting right there.",
+          "editorNote": "For anyone who asked AI a small question and got a system redesign back.",
+          "variations": [
+            "Short version: Ask it to change one letter, it changes the architecture first.",
+            "Extended: Simplified down to a single array, minus the one thing that needed fixing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-579",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.developersdigest.tech/blog/what-hacker-news-gets-right-about-ai-coding-agents-2026",
+      "sourceNote": "Developers Digest 談 Hacker News 對 AI coding agent 討論重心從自主轉向究責與編排的文章，改寫成敘事體",
+      "tags": [
+        "AI agent",
+        "AI",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "上禮拜我把自動修復機器人的平行處理數，從一調到八，想說出包全部同時修，收工比較快。這禮拜主管把數字改回一，旁邊貼了張字條：「先讓它一次只闖一個禍。」我問這樣不會比較慢嗎，他說慢一點沒關係，能講清楚哪一次修壞的，比較重要。",
+          "editorNote": "給把AI自動化開到全速卻被要求降速的工程師。",
+          "variations": [
+            "短版：機器人被限速的理由，不是效能，是究責。",
+            "延伸版：一次闖一個禍，比八個一起闖好查。"
+          ]
+        },
+        "en": {
+          "content": "Last week I turned the auto-fix bot's parallelism up from one to eight, figuring if something broke, it could fix everything at once and we'd wrap up faster. This week my manager turned it back down to one, with a sticky note next to it: \"let it cause one disaster at a time.\" I asked if that wouldn't be slower. He said slower is fine, being able to tell which run broke what mattered more.",
+          "editorNote": "For anyone who cranked AI automation to full speed and got told to slow it down.",
+          "variations": [
+            "Short version: The bot got throttled, and it wasn't for performance, it was for accountability.",
+            "Extended: One disaster at a time is easier to trace than eight at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-580",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Code_freeze",
+      "sourceNote": "Code freeze 概念條目，結合台灣國慶連假前上線凍結慣例改寫成對話體",
+      "tags": [
+        "上線",
+        "職場",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「國慶連假前要凍結上線嗎？」\n「凍。」\n「凍多久？」\n「連假結束隔天中午解凍。」\n「那這個資安漏洞的修復呢？」\n「漏洞不算功能，先排進去。」\n「明天下午才提的呢？」\n「明天下午提的，跟大家一起放假，休完了再修。」",
+          "editorNote": "給國慶連假前排隊搶上車的工程師。",
+          "variations": [
+            "短版：凍結期唯一的例外，是漏洞不是功能。",
+            "延伸版：趕不上今天，就跟大家一起放假。"
+          ]
+        },
+        "en": {
+          "content": "\"Are we freezing deploys before the National Day break?\"\n\"Frozen.\"\n\"Until when?\"\n\"Noon the day after the break ends.\"\n\"What about this security fix?\"\n\"A vulnerability isn't a feature, put it in the queue.\"\n\"And the one that just came in this afternoon?\"\n\"That one takes the break too, right along with everyone else.\"",
+          "editorNote": "For anyone racing to squeeze a fix in before the National Day freeze.",
+          "variations": [
+            "Short version: The only exception to the freeze is a vulnerability, not a feature.",
+            "Extended: Miss today's window and you're on vacation with everyone else."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-581",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://programmerhumor.io/memes/coding-assistant",
+      "sourceNote": "ProgrammerHumor.io coding assistant 迷因主題（測試只驗證假資料），改寫成敘事體",
+      "tags": [
+        "測試",
+        "AI",
+        "code review"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "測試報告一片綠燈，我還是點開了那份測試的原始碼。斷言比對的對象不是資料庫回傳的結果，是我自己寫的假資料。換句話說，這份測試從第一天開始，驗證的只有假資料等於假資料。我把真正的呼叫接回去，紅燈立刻亮了三個。綠燈亮了三個月，沒有人打開來看過一次。",
+          "editorNote": "給看到全綠燈卻還是心裡毛毛的工程師。",
+          "variations": [
+            "短版：綠燈亮了三個月，驗證的只有假資料等於假資料。",
+            "延伸版：紅燈只花了一秒，綠燈騙了三個月。"
+          ]
+        },
+        "en": {
+          "content": "The test report was all green, but I opened the test file anyway. The assertion wasn't comparing against what the database actually returned, it was comparing against a mock I'd written myself. In other words, since day one this test had only ever verified that fake data equals fake data. I wired the real call back in, and three red lights came on immediately. It had been green for three months, and nobody had opened it once.",
+          "editorNote": "For anyone whose all-green test report still gives them a bad feeling.",
+          "variations": [
+            "Short version: Green for three months, and all it verified was mock data matching mock data.",
+            "Extended: The red light took one second. The green one lied for three months."
+          ]
+        }
+      }
     }
   ]
 }

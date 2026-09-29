@@ -14153,6 +14153,156 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "eq-475",
+            "dateAdded": "2026-09-29",
+            "sourceUrl": "https://ph2.com.tw/blog/2025-school-calendar/",
+            "sourceNote": "百瀚智能教育學校行事曆整理文；取「開學後段考日期已排定、連假前後日期會跳動」的資訊，改寫成教室黑板倒數牌的畫面。",
+            "tags": [
+                "段考",
+                "倒數",
+                "開學",
+                "同學"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "黑板右上角那塊倒數牌，開學第一天寫的是「距離段考：21」。中秋連假回來的隔天，值日生照常把數字往下翻，一次翻掉四天，全班盯著那塊牌，安靜了兩秒才有人低聲說「怎麼可以一次扣這麼多」。",
+                    "editorNote": "適合放在連假結束、段考將近的第一堂課，那種數字忽然跳動帶來的現實感。",
+                    "variations": [
+                        "短版：值日生翻牌那兩秒，全班都安靜了。",
+                        "延伸版：後來每天早自習，第一件事變成先看那塊牌，比看聯絡簿還準時。"
+                    ]
+                },
+                "en": {
+                    "content": "The countdown sign in the corner of the blackboard read \"Days to midterms: 21\" on the first day of school. The morning after the long weekend, the student on duty flipped the number down like always, except this time it dropped by four days at once, and the whole class stared at it for two seconds before someone muttered, \"how is it allowed to skip that many.\"",
+                    "editorNote": "For the first class after a long weekend, when the number on the board makes the exam suddenly feel real again.",
+                    "variations": [
+                        "Short: Everyone went quiet for those two seconds the number flipped.",
+                        "Extended: After that, checking the sign became the first thing anyone did every morning, more reliable than the planner."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-476",
+            "dateAdded": "2026-09-29",
+            "sourceUrl": "https://www.nownews.com/news/6878573",
+            "sourceNote": "NOWnews 教師節由來與放假爭議整理文；取「教師節當天老師仍在忙班務」的背景，改寫成聯絡簿最後一頁的一行留言。",
+            "tags": [
+                "教師節",
+                "段考",
+                "溫馨",
+                "家人"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "聯絡簿最後一頁，導師在教師節那天多寫了一行字，不是規定要交的作業，是「段考範圍很大，但你上禮拜問的那題已經會了，記得」。簽名旁邊照例蓋了小章，那行字被他抄進手機備忘錄，比考試範圍還早背起來。",
+                    "editorNote": "適合用在教師節前後，把老師的一句鼓勵放進備考的日常裡，不用直接寫謝謝老師。",
+                    "variations": [
+                        "短版：那行字被他抄進手機備忘錄，比考試範圍還早背起來。",
+                        "延伸版：隔天複習到那一題，他還是多算了一遍，才敢放心跳過。"
+                    ]
+                },
+                "en": {
+                    "content": "On the last page of the homework planner, his homeroom teacher added an extra line on Teacher's Day, not an assignment, just: \"the midterm range is huge, but you already got that question you asked last week, remember that.\" The usual stamp sat next to the signature, and he copied the line into his phone before he'd even started memorizing the actual exam range.",
+                    "editorNote": "For around Teacher's Day, tucking a teacher's small encouragement into the middle of exam prep without spelling out a thank-you.",
+                    "variations": [
+                        "Short: He copied the line into his phone before memorizing anything else.",
+                        "Extended: When he reviewed that exact question the next day, he still worked through it twice before trusting himself to skip it."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-477",
+            "dateAdded": "2026-09-29",
+            "sourceUrl": "https://www.tkbgo.com.tw/schoolZone/transfer/news/toDetail?news_id=4208",
+            "sourceNote": "TKB 升學情報站行事曆整理文；取「連假前後校園行程安排」的背景，改寫成國慶連假前圖書館佔位的畫面。",
+            "tags": [
+                "連假",
+                "讀書計畫",
+                "選擇",
+                "圖書館"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "圖書館佔位條剩最後兩張，貼在靠窗那桌的兩個女生已經講好國慶連假不排行程，一人負責佔位一人負責買午餐輪流換班。旁邊桌男生把行事曆截圖傳到班群，只回了一句「連假結束隔天就段考，你們是認真的？」貼紙還是貼上去了。",
+                    "editorNote": "適合用在長假前，圖書館佔位的畫面，帶出讀書和放假之間的拉扯，不用寫死誰對誰錯。",
+                    "variations": [
+                        "短版：貼紙還是貼上去了。",
+                        "延伸版：換班的那兩人後來把買午餐的任務也排進了讀書計畫表。"
+                    ]
+                },
+                "en": {
+                    "content": "Only two reservation slips were left at the library, and the two girls at the window table had already agreed to skip plans for the National Day long weekend, taking turns holding the seat and buying lunch. A guy at the next table screenshotted the calendar into the class group chat and just wrote, \"midterms are the day after the holiday ends, you're serious about this?\" The slip went up anyway.",
+                    "editorNote": "For right before a long holiday, the library seat-reservation scene that captures the pull between studying and resting, without declaring who's right.",
+                    "variations": [
+                        "Short: The slip went up anyway.",
+                        "Extended: The two on rotation later folded the lunch-buying trips into their study schedule too."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-478",
+            "dateAdded": "2026-09-29",
+            "sourceUrl": "https://vocus.cc/article/64d4aa91fd89780001b219b1",
+            "sourceNote": "夜貓沙龍準高中生任務整理文；取「高中課綱進度與範圍比國中明顯加大」的背景，改寫成置物櫃裡課本疊高的畫面。",
+            "tags": [
+                "新生",
+                "段考",
+                "高中生",
+                "對照"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "開學才兩週，高一新生的置物櫃已經塞不下。段考範圍公告那天，他把三本課本疊起來比對國中最後一次月考的講義高度，高中這疊直接多出一倍。他把置物櫃門關上時卡了一下，得用膝蓋頂一下才關得緊。",
+                    "editorNote": "適合用在高一新生第一次段考前，用課本疊起來的高度具象呈現範圍變大的落差感。",
+                    "variations": [
+                        "短版：置物櫃門卡了一下，得用膝蓋頂一下才關得緊。",
+                        "延伸版：他後來把國中講義留在櫃子最底層，沒有拿出來，也沒有丟掉。"
+                    ]
+                },
+                "en": {
+                    "content": "Barely two weeks into the semester, a freshman's locker is already too full. The day the midterm range got posted, he stacked his three textbooks and held them up against the height of his last middle-school handout, and the high school pile was already twice as tall. When he shut the locker door, it caught halfway, and he had to nudge it with his knee to get it to close.",
+                    "editorNote": "For a freshman's first high school midterm, making the jump in exam scope physical through a stack of textbooks.",
+                    "variations": [
+                        "Short: The locker door caught halfway, and he had to knee it shut.",
+                        "Extended: He left the middle-school handout at the bottom of the locker afterward, never taking it out, never throwing it away either."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-479",
+            "dateAdded": "2026-09-29",
+            "sourceUrl": "https://blog.luckertw.com/test-preparation/",
+            "sourceNote": "拉課力段考與學測準備方法整理文；取「段考週日常心理調適」的背景，改寫成洗手台鏡子上便利貼的畫面。",
+            "tags": [
+                "段考",
+                "打氣",
+                "考前",
+                "鼓勵"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "洗手台前的鏡子貼了一張便利貼，是隔壁班留下來的，寫著「你比範圍大」四個字，字跡歪歪的。段考週每天早上刷牙的人換了好幾個，沒有人撕掉它，反而有人在旁邊補了一張，畫了一個很醜的加油手勢。",
+                    "editorNote": "適合用在段考週的早晨儀式，用洗手台鏡子上的便利貼傳遞小小的打氣，不必寫成正式標語。",
+                    "variations": [
+                        "短版：沒有人撕掉它，反而有人在旁邊補了一張。",
+                        "延伸版：段考結束那天，便利貼還在，只是多了一句「下次換英文範圍大」。"
+                    ]
+                },
+                "en": {
+                    "content": "Someone stuck a sticky note on the bathroom mirror by the sinks, left behind by a class down the hall, four words in crooked handwriting: \"you're bigger than the range.\" Through exam week, a different person brushed their teeth in front of it every morning, and nobody peeled it off; someone even added a second note next to it with a badly drawn thumbs-up.",
+                    "editorNote": "For the morning ritual of exam week, a small pep talk left on a bathroom mirror instead of a formal banner.",
+                    "variations": [
+                        "Short: Nobody peeled it off, someone added a second note instead.",
+                        "Extended: When exam week ended, the note was still there, just with one more line added: \"next time it's the English range that's bigger.\""
+                    ]
+                }
+            }
         }
   ]
 }

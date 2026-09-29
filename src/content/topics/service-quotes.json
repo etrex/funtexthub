@@ -13324,6 +13324,101 @@
           "variations": ["Short: The typing indicator blinked for two minutes, and it's unclear if it's still the same person on the other end.", "Longer: The same apology showed up a second time, making you wonder if someone else has taken over."]
         }
       }
+    },
+    {
+      "id": "svc-483",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.ettoday.net/news/20260918/3239656.htm",
+      "sourceNote": "超商店員被指責沒有服務顧客、事後監視器還原真相的新聞改寫，換成眼鏡行試鏡等候的情境。",
+      "tags": ["服務業", "眼鏡行", "奧客", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你們到底有沒有在服務我？」她把鏡框往桌上一放，聲音大到隔壁試鏡的客人都轉頭看。店長調出系統紀錄，畫面顯示十分鐘前，同一副鏡框已經幫她量過瞳距、也調整過兩次鼻墊。紀錄停在最後一行，時間精準到秒。這是第幾次，才算真的有服務到她？",
+          "editorNote": "眼鏡行的等待常被誤會成沒人理，其實系統都留著紀錄。適合站鏡框前的驗光師。",
+          "variations": ["短版：畫面顯示已經調整兩次，這是第幾次才算真的服務到她？", "延伸版：吼聲很大，但螢幕上的時間比誰都準，早就記下答案。"]
+        },
+        "en": {
+          "content": "“Are you even helping me at all?” She dropped her glasses on the counter hard enough that the customer trying on frames nearby turned to look. The manager pulled up the system log — ten minutes earlier, this same pair had already been measured for pupillary distance and had its nose pads adjusted twice. The record stopped on the last line, timestamped to the second. How many times does it take before it counts as being helped?",
+          "editorNote": "Waiting during a fitting gets mistaken for being ignored, but the system keeps its own record. For opticians standing at the frame display.",
+          "variations": ["Short: The log already showed two adjustments — how many does it take before it counts as being helped?", "Longer: The shouting was loud, but the timestamp on screen was quieter and already had the answer."]
+        }
+      }
+    },
+    {
+      "id": "svc-484",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://tw.news.yahoo.com/%E8%B6%85%E5%95%86%E5%BA%97%E5%93%A1%E9%80%A3%E4%B8%8A18%E5%B0%8F%E6%99%82%E6%BC%8F%E7%B5%9075%E5%85%83%E6%8B%BF%E9%90%B5%E6%8C%A8%E5%91%8A-%E4%BA%8C%E5%AF%A9%E9%80%86%E8%BD%89%E7%84%A1%E7%BD%AA-%E6%B3%95%E5%AE%98%E8%BD%9F%E6%85%A3%E8%80%81%E9%97%86-%E4%BB%A5%E5%88%91%E9%80%BC%E6%B0%91-042000304.html",
+      "sourceNote": "超商店員連上十八小時、被控短收七十五元遭提告的新聞改寫，換成烘焙坊大夜班對帳的情境。",
+      "tags": ["服務業", "麵包店", "工時", "血汗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個月的報表對不起來，少了兩百三十元。」主管把單子推過來，語氣像在等一個解釋。我翻開排班表，那天我從凌晨三點顧到晚上十點，中間只坐下五分鐘吃飯。兩百三十元，換算下來還不到我半小時的時薪。到底是帳少了，還是人先被少算了？",
+          "editorNote": "帳目糾紛常常只算錢，沒算時間。適合大夜輪班的烘焙師。",
+          "variations": ["短版：兩百三十元的落差，換算下來還不到半小時時薪。", "延伸版：帳本上寫著少了多少錢，卻沒人寫少了多少個小時的人。"]
+        },
+        "en": {
+          "content": "“The numbers don't add up this month — we're short two hundred and thirty dollars.” My manager slid the sheet across the counter, waiting for an explanation. I checked the schedule: that day I'd covered the ovens from three in the morning until ten at night, sitting down for exactly five minutes to eat. Two hundred and thirty dollars comes out to less than half an hour of my wage. Is the register actually short, or was someone's time shorted first?",
+          "editorNote": "Cash discrepancies get counted in dollars, never in hours. For bakers pulling overnight shifts.",
+          "variations": ["Short: Two hundred and thirty dollars comes out to less than half an hour's wage.", "Longer: The ledger writes down how much money is missing, never how many hours a person went without."]
+        }
+      }
+    },
+    {
+      "id": "svc-485",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://slasify.com/zh-tw/blog/taiwan-holiday-hr-guide",
+      "sourceNote": "2026雙十連假排班與加班費攻略報導改寫，換成機車行連假前保養潮的情境。",
+      "tags": ["服務業", "機車行", "國慶", "排班"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「連假前才想到要保養？」老闆看著排到店外的機車，苦笑了一下。單子上寫著「雙十連假出遊」三個字，跟上禮拜、上上禮拜的單子一樣。他才把工具放下，走到門口貼了一張「今日維修已滿」，貼紙的手都還沒放下，又有一台機車牽了進來。連假前的最後一天，到底能不能把每台車都顧好？",
+          "editorNote": "連假前湧入的保養潮，常常比連假本身更忙。適合開機車行的老闆。",
+          "variations": ["短版：貼紙才剛貼上「已滿」，又一台機車牽了進來。", "延伸版：單子上寫著同一句「連假出遊」，一連貼了三個禮拜。"]
+        },
+        "en": {
+          "content": "“Only thinking about a tune-up right before the long weekend?” The owner managed a tired laugh, looking at the line of scooters stretching out the door. The ticket read “National Day trip” — same as last week's, and the week before that. He'd just set down his wrench and taped up a “fully booked today” sign when another scooter got wheeled in before his hand was even off the tape. On the last day before the holiday, is there any way to actually get to every single one?",
+          "editorNote": "The rush right before a long weekend can be busier than the holiday itself. For scooter shop owners.",
+          "variations": ["Short: The sign said “fully booked” — another scooter rolled in anyway.", "Longer: The same words, “National Day trip,” have been written on tickets for three weeks straight."]
+        }
+      }
+    },
+    {
+      "id": "svc-486",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://udn.com/news/story/6885/9723874",
+      "sourceNote": "開學前夕文具店被擠爆、家長排隊補貨的新聞改寫，換成開學後補貨追不上的情境。",
+      "tags": ["服務業", "文具行", "開學季", "零售"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個牌子只剩最後三本，可以先幫我留著嗎？」開學第二週，筆記本補貨的速度永遠追不上被搬空的速度。我在收銀台後面數著，這是今天第幾次被問「還有沒有補貨」，答案還是一樣。轉身理貨，又看到有人把最後一本放進別人的購物籃。開學季的存貨，到底該算給誰？",
+          "editorNote": "開學季的搶購跟年貨一樣快，存貨永遠算不準。適合文具行的店員。",
+          "variations": ["短版：這是今天第幾次被問還有沒有補貨，答案一直沒變。", "延伸版：最後一本被放進別人的購物籃，留貨的承諾還沒說出口。"]
+        },
+        "en": {
+          "content": "“This brand only has three notebooks left — can you hold them for me?” It's the second week of the semester, and restocking never keeps up with how fast the shelves get cleared. Standing behind the register, I lose count of how many times today someone's asked if more is coming in — the answer hasn't changed. I turn around to restock, and someone's already dropped the last one into a different customer's basket. During back-to-school season, who does the last one actually belong to?",
+          "editorNote": "Back-to-school rushes clear shelves as fast as Lunar New Year shopping, and inventory never keeps up. For stationery shop clerks.",
+          "variations": ["Short: I've lost count of how many times I've been asked if more stock is coming — the answer hasn't changed.", "Longer: The last notebook lands in someone else's basket before the promise to hold one is even finished."]
+        }
+      }
+    },
+    {
+      "id": "svc-487",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://tw.news.yahoo.com/%E8%B2%93%E6%AF%9B%E6%B8%85%E6%BD%94-%E7%8B%97%E6%AF%9B%E6%B8%85%E6%BD%94-%E5%AF%B5%E7%89%A9%E6%8E%89%E6%AF%9B-%E9%81%8E%E6%95%8F-%E6%8F%9B%E5%AD%A3-%E6%8F%9B%E6%AF%9B-%E5%B1%85%E5%AE%B6%E6%B8%85%E6%BD%94-090330229.html",
+      "sourceNote": "入秋後貓狗掉毛量暴增的報導改寫，換成寵物美容師修剪時的對話情境。",
+      "tags": ["服務業", "寵物美容", "換季", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「牠今年好像特別會掉毛。」客人抱著狗走進門，語氣帶著歉意。剪刀還沒動，地上已經積了一層。我跟她說，換季本來就會這樣，每隻都差不多。她點點頭，還是伸手把黏在自己外套上的毛一根根挑掉。等剪完，地上那層毛，是牠今年秋天的第幾次？",
+          "editorNote": "換季掉毛潮，客人比狗更在意。適合寵物美容師。",
+          "variations": ["短版：剪刀還沒動，地上已經積了一層換季的毛。", "延伸版：客人一邊道歉一邊挑毛，狗自己倒是一臉輕鬆。"]
+        },
+        "en": {
+          "content": "“I think she's shedding a lot more than usual this year.” The customer walked in cradling her dog, sounding almost apologetic. The scissors hadn't even touched fur yet, and there was already a layer on the floor. I told her this is just what the season change does, every dog's about the same. She nodded, then kept picking loose hairs off her own jacket one by one anyway. By the time the cut's done, how many rounds of this has the floor seen this fall alone?",
+          "editorNote": "Seasonal shedding worries owners more than it worries the dog. For pet groomers.",
+          "variations": ["Short: The scissors haven't even started, and the floor's already covered in this season's fur.", "Longer: The owner apologizes while picking hair off her own jacket — the dog looks completely unbothered."]
+        }
+      }
     }
   ]
 }

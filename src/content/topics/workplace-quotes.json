@@ -15374,6 +15374,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-540",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.taipeitimes.com/News/biz/archives/2026/09/09/2003863915",
+      "sourceNote": "以2026年第四季徵才回溫、資訊業缺工加劇的新聞數據改寫為個人心情。",
+      "tags": [
+        "AI",
+        "跳槽",
+        "求職",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "人力銀行的新聞說，第四季徵才回溫，資訊業缺工最兇，數字比去年同期多了快一倍。\n我把那則新聞收藏起來，正要打開履歷模板，手機跳出主管的訊息：「年底那個案子，你熟悉全部流程，麻煩先扛著，等交接完再談其他的。」\n我把履歷模板存回草稿匣，新聞裡的數字還停在原地，沒有動。\n所謂的景氣回溫，原來是別人先跳，我留下來把他的位置補滿。",
+          "editorNote": "適合形容看到徵才回溫的新聞，卻被交接卡住走不了的心情。",
+          "variations": [
+            "延伸版：「先扛著」，扛到明年這個時候，新聞應該又會報一次回溫。"
+          ]
+        },
+        "en": {
+          "content": "The job site's headline says Q4 hiring is picking back up, tech roles especially, nearly double last year's openings.\nI bookmark the article and I'm about to open my resume template when my manager messages: \"You know that year-end project inside out, just hold it down a bit longer, we'll talk after the handover.\"\nI save the resume template back to drafts. The number in the headline just sits there, unmoved.\nTurns out the recovery means someone else jumps first, and I stay to fill the hole they left.",
+          "editorNote": "For anyone who sees the hiring-recovery headline but is stuck holding down the fort.",
+          "variations": [
+            "Extended: \"Just hold it down a bit longer.\" By the time I do, next year they'll probably run the same headline again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-541",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.nownews.com/news/6878336",
+      "sourceNote": "以2026年國慶日、光復節皆落在週末的行事曆事實改寫。",
+      "tags": [
+        "連假",
+        "行事曆",
+        "職場荒謬",
+        "上班族限定"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事在群組傳了一張連假總覽圖，說十月有兩個國定假日，大家要提早排休。\n我點開月曆確認：國慶日十月十日，那天是禮拜六。光復節十月二十五日，那天是禮拜天。\n兩個放假的日子，剛好都是我本來就不用上班的日子。\n那張總覽圖我已讀，沒有回。今年最大方的，不是公司，是行事曆本身。",
+          "editorNote": "適合形容看到連假總覽圖，才發現兩個國定假日都槓龜的心情。",
+          "variations": [
+            "延伸版：「提早排休」，排的是十月十號那天，我原本就要睡到自然醒的覺。"
+          ]
+        },
+        "en": {
+          "content": "A coworker posts a holiday calendar in the group chat, saying October has two national holidays, everyone should plan leave early.\nI check the calendar. National Day, October 10th, falls on a Saturday. Retrocession Day, October 25th, falls on a Sunday.\nBoth days off happen to be days I already wasn't working.\nI leave the message on read, no reply. This year the most generous thing wasn't the company. It was the calendar itself.",
+          "editorNote": "For the moment you check the holiday calendar and realize both national holidays landed on days off already.",
+          "variations": [
+            "Extended: \"Plan leave early\" — the leave I'm planning around is the sleep-in I was already getting on October 10th."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-542",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.ctwant.com/article/497966/",
+      "sourceNote": "以2026年中秋教師節連假、上班族比較請假攻略的新聞改寫為收假首日對話。",
+      "tags": [
+        "連假",
+        "特休",
+        "收假症候群",
+        "職場心聲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這次請幾天？」\n「請四天，特休加週末，湊了十天。」\n「厲害，我只請了兩天，中間還被叫回來開一次線上會議。」\n「早知道就跟你一樣精算過再請。」\n「精算也沒用，我九點進辦公室，主管就傳訊息說十點半要開會，題目是『年度目標檢討』。」\n「我也是，訊息時間是禮拜一晚上十一點五十分傳的。」\n「所以連假結束前一小時，他已經在想禮拜二要幹嘛了。」",
+          "editorNote": "適合形容收假第一天，同事互相比較請假攻略，卻同時被拉去開會的心情。",
+          "variations": [
+            "延伸版：「年度目標檢討」，檢討到最後，都是要我們把假期的產值補回來。"
+          ]
+        },
+        "en": {
+          "content": "\"How many days did you take?\"\n\"Four. Annual leave plus the weekends, stretched it to ten.\"\n\"Nice, I only took two, and got pulled into an online meeting halfway through.\"\n\"Should've done the math like you.\"\n\"The math didn't help. I walked in at nine, and my manager messaged that we're meeting at ten thirty. Subject: annual goals review.\"\n\"Same here. The message was sent Monday night at 11:50 pm.\"\n\"So an hour before the holiday even ended, he was already planning Tuesday.\"",
+          "editorNote": "For the first day back, comparing leave strategies with coworkers while getting pulled into a meeting anyway.",
+          "variations": [
+            "Extended: \"Annual goals review.\" By the end of it, they just want us to make up for the output we lost on holiday."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-543",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://udn.com/news/story/7269/9755659",
+      "sourceNote": "以2026年連續三週短工作週的討論，改寫為收假後立刻開第四季目標會議的場景。",
+      "tags": [
+        "KPI",
+        "會議",
+        "職場心聲",
+        "職場荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "連假結束回到座位，筆電螢幕還停在我離開前那頁報表。\n主管站在會議室門口喊：「大家先進來一下，跟大家對一下第四季的目標。」\n投影片第一頁寫著：「新的一季，新的開始。」\n第二頁是去年同期的業績數字，紅字標著沒達成的那三項。\n第三頁，是這一季要追平的缺口，比原本的目標又多了一成。\n我看了看手機，距離放假結束，正好二十四小時整。",
+          "editorNote": "適合形容收假回來，馬上被拉進第四季目標會議的心情。",
+          "variations": [
+            "延伸版：「新的一季，新的開始」，開始的第一件事，是把上一季沒做完的補回來。"
+          ]
+        },
+        "en": {
+          "content": "Back at my desk after the holiday, my laptop screen is still open to the same spreadsheet I left.\nMy manager stands at the meeting room door and calls out: \"Everyone come in for a sec, let's align on Q4 goals.\"\nSlide one says: \"New quarter, fresh start.\"\nSlide two shows last year's numbers for the same period, three items marked in red for missed targets.\nSlide three is this quarter's gap to close, ten percent higher than the original goal.\nI check my phone. It's been exactly twenty-four hours since the holiday ended.",
+          "editorNote": "For getting pulled straight into a Q4 goals meeting the moment you're back from holiday.",
+          "variations": [
+            "Extended: \"New quarter, fresh start.\" The first thing a fresh start does is make up for what the last quarter didn't finish."
+          ]
+        }
+      }
     }
   ]
 }

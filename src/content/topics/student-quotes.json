@@ -9405,6 +9405,157 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-319",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://news.pts.org.tw/article/827938",
+      "sourceNote": "公視新聞網報導921國家防災日全國學校同步疏散演練與告警測試；改寫成警報聲於考試中同時響起的教室場景",
+      "tags": [
+        "地震",
+        "演習",
+        "考試",
+        "手機",
+        "校園生活"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "教室安靜得只剩翻頁聲，你才寫到第三題，全班的手機同時震動，警報聲從口袋、書包、講桌下面同時炸開。監考老師的手機也在講桌上跳，畫面亮著「國家級警報測試」。沒有人敢先笑出來，直到警報聲停了，你才發現剛剛想到一半的答案，也跟著斷訊了。",
+          "editorNote": "防災演習的測試警報，最容易挑中考試最安靜的那十秒。",
+          "variations": [
+            "短版：警報同時響起，連監考老師都愣住看自己的手機。",
+            "延伸版：警報聲停下來後，你發現剛剛想到一半的答案也跟著斷訊了。"
+          ]
+        },
+        "en": {
+          "content": "The room's gone quiet except for pages turning, and you're only on question three when every phone buzzes at once -- the drill alert blares out of pockets, backpacks, under the podium. The proctor's own phone lights up on the desk: NATIONAL ALERT TEST. Nobody dares laugh first, not until the siren cuts out, and by then the answer you almost had is gone too.",
+          "editorNote": "A disaster-drill alert has a way of picking the ten quietest seconds of an exam to go off in.",
+          "variations": [
+            "Short version: Every phone buzzes at once, and even the proctor freezes at the sound.",
+            "Longer version: By the time the siren stops, the answer you almost had is gone too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-320",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://udn.com/news/story/7266/9740721",
+      "sourceNote": "聯合新聞網報導雙十連假高鐵疏運加開班次、開放購票時間新聞；改寫成開賣前夜準備清單與搶票落空的場景",
+      "tags": [
+        "國慶",
+        "連假",
+        "訂票",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "雙十連假開賣前一晚，你把身分證字號抄在便利貼上，貼在螢幕邊框，手機跟筆電各開一個訂票頁面，鬧鐘設在開賣前五分鐘，怕自己先睡著。零點一到，你點下去，畫面轉圈轉了三秒，跳出「查無票源」，你才想起室友已經訂到了，用的是他媽媽的會員帳號。",
+          "editorNote": "開賣前夜的準備清單，通常比訂到票的機率還要長。",
+          "variations": [
+            "短版：鬧鐘設好五分鐘前，票還是在零點一分就沒了。",
+            "延伸版：你怪網路卡，直到想起室友是用他媽媽的帳號訂到的。"
+          ]
+        },
+        "en": {
+          "content": "The night before ticket sales open for the National Day long weekend, you write your ID number on a sticky note and tape it to the edge of your screen, open a booking page on your phone and another on your laptop, and set an alarm five minutes early so you don't doze off first. At midnight you click, the wheel spins for three seconds, and up pops NO TICKETS AVAILABLE -- that's when you remember your roommate already got one, booked under his mom's membership account.",
+          "editorNote": "The checklist before ticket sales open is always longer than the odds of actually getting one.",
+          "variations": [
+            "Short version: The alarm goes off five minutes early, but the tickets are gone by 12:01 anyway.",
+            "Longer version: You blame the server, until you remember your roommate booked one on his mom's account."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-321",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.niusnews.com/=P1vcob42",
+      "sourceNote": "妞新聞《大學生期中考無法認真的9個理由》報導；改寫成期中考前助教時間問問題的對白",
+      "tags": [
+        "助教",
+        "期中考",
+        "對話",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「助教，我這題公式代錯了，答案是負的合理嗎？」\n「你把符號抄過去的時候漏了一個負號。」\n「所以我後面全部都要重算？」\n「對，但你現在發現，比考試當天發現好。」\n「那我可以現在坐這裡重算嗎？」\n「可以，我等你，反正下一個問的人也還沒到。」",
+          "editorNote": "期中考前的助教時間，問題通常比公告的時段還要長。",
+          "variations": [
+            "短版：漏了一個負號，助教說現在發現比考試當天好。",
+            "延伸版：助教說會等，反正下一個人也還沒到。"
+          ]
+        },
+        "en": {
+          "content": "\"TA, I think I flipped a sign in this formula -- is a negative answer okay here?\"\n\"You dropped a negative sign when you copied it over.\"\n\"So I have to redo everything after that?\"\n\"Yeah, but better you catch it now than on exam day.\"\n\"Can I just redo it here?\"\n\"Sure, I'll wait -- the next person hasn't shown up yet anyway.\"",
+          "editorNote": "Office hours before a midterm always run longer than the slot posted on the door.",
+          "variations": [
+            "Short version: A dropped negative sign, caught in office hours instead of on exam day.",
+            "Longer version: The TA says they'll wait, since the next person hasn't shown up yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-322",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E5%8F%B0%E9%90%B5%E8%A8%82%E7%A5%A8-%E9%AB%98%E9%90%B5%E8%A8%82%E7%A5%A8-%E5%9C%8B%E9%81%93%E5%AE%A2%E9%81%8B-%E9%80%A3%E5%81%87%E7%96%8F%E9%81%8B/",
+      "sourceNote": "連假疏運訂票新聞常提及返鄉人潮；改寫成室友都返鄉後宿舍獨自留守的對比場景",
+      "tags": [
+        "連假",
+        "宿舍",
+        "自嘲",
+        "大學生"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "連假第一天中午，宿舍走廊只剩你的拖鞋聲。洗衣間的兩台機器都停在待機畫面，公佈欄的傳單邊角捲起，沒人經過去壓平它。你把泡麵水倒進去等三分鐘，隔壁房間的音樂昨晚就沒再響過。手機群組裡室友傳了一張夜市滷味的照片，你回了一個讚，繼續轉回課本那一頁。",
+          "editorNote": "連假空掉的宿舍，安靜得會被自己的腳步聲嚇到。",
+          "variations": [
+            "短版：走廊只剩拖鞋聲，洗衣機停在待機畫面。",
+            "延伸版：室友傳了滷味照片，你回一個讚，繼續讀書。"
+          ]
+        },
+        "en": {
+          "content": "On the first afternoon of the long weekend, the dorm hallway holds nothing but the sound of your own slippers. Both washing machines sit idle on their standby screens, and a flyer curls up at the corner of the bulletin board with no one passing by to press it flat. You pour water into your instant noodles and wait three minutes; the music from next door hasn't played since last night. Your roommate sends a photo of night-market braised food to the group chat, you send back a thumbs-up, and turn back to the same page of your textbook.",
+          "editorNote": "An emptied-out dorm during a long weekend is quiet enough that your own footsteps startle you.",
+          "variations": [
+            "Short version: The hallway holds nothing but the sound of your slippers.",
+            "Longer version: You send back a thumbs-up and turn back to the same page of your textbook."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-323",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.ettoday.net/dalemon/post/39742",
+      "sourceNote": "ETtoday報導大學期中考拉長成一個月的現象；改寫成考試週超商深夜報到的日常場景",
+      "tags": [
+        "超商",
+        "期中考",
+        "熬夜",
+        "自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "期中考週的超商，晚上十一點還是尖峰時段，排隊的幾個人手上都拿著黑咖啡跟茶葉蛋。店員看到你進門，直接幫你按了美式，連問都沒問。靠窗插座旁那個位子空著，你把課本攤開，糖包已經先撕開放在旁邊，你這才想起自己根本沒有加糖的習慣。",
+          "editorNote": "熟到不用開口，店員就先按下你的美式。",
+          "variations": [
+            "短版：店員看你進門就按了美式，連問都沒問。",
+            "延伸版：糖包先撕開放在旁邊，你才想起自己不加糖。"
+          ]
+        },
+        "en": {
+          "content": "At eleven at night during midterm week, the convenience store is still peak hour -- everyone in line is holding a black coffee and a tea egg. The clerk sees you walk in and rings up an Americano without asking a thing. The seat by the window with the outlet is empty, waiting for you. You spread your textbook open and notice the sugar packet already torn open next to it -- that's when you remember you never take sugar.",
+          "editorNote": "The clerk knows your order before you say a word.",
+          "variations": [
+            "Short version: The clerk sees you walk in and rings up an Americano without asking.",
+            "Longer version: The sugar packet's torn open before you remember you don't take sugar."
+          ]
+        }
+      }
     }
   ]
 }

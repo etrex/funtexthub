@@ -14997,6 +14997,147 @@
           ]
         }
       }
+    },
+    {
+      "id": "wc-529",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://udn.com/news/story/7266/9765673",
+      "sourceNote": "參考秋老虎日夜溫差十度的新聞語境，改寫成原創的薪水物價對照",
+      "tags": [
+        "幹話",
+        "健康",
+        "金錢",
+        "諷刺",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "氣象報告說早晚溫差十度，叫大家記得添件外套。\n\n我看了看衣櫃，發現真正的溫差，是我薪水跟物價之間的那十度，外套添得了，煩惱添不完。",
+          "editorNote": "秋老虎溫差新聞洗版、同事在辦公室抱怨忽冷忽熱時，拿來回一句",
+          "variations": [
+            "短版：氣溫溫差十度沒關係，薪水跟物價的溫差比較致命。"
+          ]
+        },
+        "en": {
+          "content": "The forecast says there's a ten-degree swing between morning and afternoon, so everyone's told to pack a jacket.\n\nI checked my closet and realized the real ten-degree gap is the one between my paycheck and the price tags — a jacket won't fix that one.",
+          "editorNote": "Drop this when a coworker complains about the weather swings — redirect to the swing that actually hurts",
+          "variations": [
+            "Short version: Ten degrees outside is nothing. The real gap is my salary versus the price tags."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-530",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.ikuk.com.tw/blogs/column/beginning-of-autumn-2026-autumn-tiger-still-hot",
+      "sourceNote": "參考立秋轉涼的季節氛圍文章，改寫成原創的換季衣櫃情節",
+      "tags": [
+        "幹話",
+        "生活",
+        "自嘲",
+        "金錢"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "換季整理衣櫃，把夏天的衣服收進去，把秋裝拿出來。\n\n拿出來才發現，去年的秋裝跟今年的自己，尺寸已經不太熟了。",
+          "editorNote": "換季收納衣物、朋友抱怨舊衣變緊時，拿這句自嘲代替說教",
+          "variations": [
+            "短版：秋裝沒變，變的是穿秋裝的人。"
+          ]
+        },
+        "en": {
+          "content": "Switching out the closet for the season — summer clothes go into storage, fall clothes come out.\n\nOnce they're out, I realize last year's fall wardrobe and this year's me aren't quite on speaking terms anymore.",
+          "editorNote": "For the seasonal wardrobe swap when old clothes suddenly fit different — self-deprecating instead of a lecture",
+          "variations": [
+            "Short version: The clothes didn't change. The person wearing them did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-531",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.hrbrain.jp/media/evaluation/research201809",
+      "sourceNote": "參考職場「名ばかり目標」（形式化目標設定）的調查語境，改寫成原創的第四季目標情節",
+      "tags": [
+        "幹話",
+        "職場",
+        "諷刺",
+        "上班族"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "又到了訂第四季目標的時間，主管說要「更積極、更有效率」。\n\n我把第一季的目標複製貼上，改個數字，積極跟效率都還在檔案裡，沒有不見，只是換季而已。",
+          "editorNote": "季度會議要交新目標卻懶得重寫時，拿這句幹話回敬自己",
+          "variations": [
+            "短版：目標沒有消失，只是跟著季節換了個數字。"
+          ]
+        },
+        "en": {
+          "content": "Time to set Q4 goals again — management wants us to be 'more proactive, more efficient.'\n\nI copy-pasted Q1's goals and swapped a few numbers. The ambition's still in the file, just wearing a new season's outfit.",
+          "editorNote": "For the quarterly planning meeting where you're expected to invent fresh goals but really just want to recycle old ones",
+          "variations": [
+            "Short version: The goals didn't disappear. They just changed with the season."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-532",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://tw.news.yahoo.com/2026%EF%BC%88115%E5%B9%B4%EF%BC%89%E8%A1%8C%E4%BA%8B%E6%9B%86%EF%BC%9A%E5%9C%8B%E6%85%B6%E6%97%A5%E9%80%A3%E4%BC%913%E5%A4%A9%E3%80%81%E5%85%89%E5%BE%A9%E7%AF%80%E9%80%A3%E5%81%87%E8%AB%8B4%E4%BC%919%E2%8B%AF2026%E9%80%A3%E5%81%87%E6%94%BB%E7%95%A5%E4%B8%80%E6%AC%A1%E7%9C%8B-060828793.html",
+      "sourceNote": "參考 2026 年國慶三天連假的行事曆報導，改寫成原創的死線對比情節",
+      "tags": [
+        "幹話",
+        "職場",
+        "拖延",
+        "諷刺"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "行事曆上，國定連假已經用紅字標好了，全公司都在倒數。\n\n進度表上，我這週要交的東西也用紅字標好了，只是沒有人倒數。",
+          "editorNote": "連假前工作進度卡關、同事在討論連假行程時，拿這句自嘲兼提醒自己",
+          "variations": [
+            "短版：連假有人倒數，我的死線沒有。"
+          ]
+        },
+        "en": {
+          "content": "The long weekend is marked in red on everyone's calendar, and the whole office is counting down.\n\nMy deadline is also marked in red on the project tracker. Nobody's counting down to that one.",
+          "editorNote": "For the pre-holiday stretch when everyone's planning trips but your deadline hasn't moved",
+          "variations": [
+            "Short version: Everyone's counting down to the holiday. Nobody's counting down to my deadline."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wc-533",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.stufftaiwan.com/2026/09/29/%E8%A7%A3%E9%8E%96%E7%A7%8B%E6%97%A5%E5%92%96%E5%95%A1%E5%84%80%E5%BC%8F%E6%84%9F%EF%BC%81nespresso%E7%A4%BA%E7%AF%84%E4%B8%89%E5%A4%A7%E6%94%BB%E7%95%A5%EF%BC%8C%E5%BE%9E%E9%81%B8%E6%A9%9F%E5%88%B0/",
+      "sourceNote": "參考秋季限定楓糖栗子口味飲品上市的報導，改寫成原創的限定行銷情節",
+      "tags": [
+        "幹話",
+        "消費",
+        "諷刺",
+        "日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手搖店換上秋季限定，楓糖跟栗子口味輪番上架，海報寫著「錯過等明年」。\n\n我算了算，去年錯過的那杯，加上今年正在錯過的這杯，剛好等於我對「限定」兩個字免疫的原因。",
+          "editorNote": "秋季限定飲料上市、朋友揪團跟風排隊時，拿這句回敬行銷焦慮",
+          "variations": [
+            "短版：限定年年都在，緊張的心情也是。"
+          ]
+        },
+        "en": {
+          "content": "The drink shop rolls out its fall-only lineup — maple and chestnut flavors taking turns on the menu, with a sign that reads 'miss it, wait a year.'\n\nI did the math: the one I missed last year plus the one I'm about to miss this year adds up to exactly why 'limited edition' doesn't move me anymore.",
+          "editorNote": "For when a friend is rushing to queue for the seasonal maple or chestnut drink and you want to gently poke at the marketing FOMO",
+          "variations": [
+            "Short version: 'Limited edition' comes back every year. So does the panic."
+          ]
+        }
+      }
     }
   ]
 }

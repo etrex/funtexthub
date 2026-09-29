@@ -14693,6 +14693,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "bq-512",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/256744022",
+      "sourceNote": "參考 Dcard 心情版中秋烤肉分手貼文反映的節日情緒切角，改寫成中秋月餅禮盒的日常小場景，非引用原文",
+      "tags": ["失戀", "中秋", "自嘲", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公司中秋發的月餅禮盒裡有兩顆蛋黃酥，以前那個口味永遠是他先拿走的。今年禮盒拆開，我把兩顆都留給自己，本來想省一顆配咖啡，結果當天就吃完了，才發現好像也沒有想像中膩。",
+          "editorNote": "適合中秋過後，自嘲吃掉了曾經讓給別人的那份甜。",
+          "variations": [
+            "延伸版：蛋黃酥吃完那天，順手把冰箱裡他愛喝的那罐啤酒拿去退冰，晚上配著追劇喝掉了。"
+          ]
+        },
+        "en": {
+          "content": "The mooncake box from work had two egg yolk pastries, the flavor he always claimed first. This year I unwrapped the box and kept both for myself. I meant to save one for later with coffee, but finished them the same day, and it turned out they weren't too rich after all.",
+          "editorNote": "For the days right after Mid-Autumn Festival, a small self-mocking win.",
+          "variations": [
+            "Variation: That same night, I pulled the beer he liked out of the fridge to defrost and drank it while watching a show."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-513",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.goodreads.com/work/quotes/44800682",
+      "sourceNote": "參考國外分手語錄站「重新掌握生活步調」的主題，取意象改寫成行事曆填滿的具體場景，非逐字引用",
+      "tags": ["失戀", "重新開始", "成長", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "分手後打開行事曆，把他以前佔住的那些晚上，一格一格填進新的安排。一開始只是不想留白，後來發現十月的格子已經排到快滿，比自己想的還快。",
+          "editorNote": "適合開學或新的一季開始，聊起自己怎麼把時間重新填滿。",
+          "variations": [
+            "延伸版：填到第三格的時候還猶豫要不要留他生日那天空白，後來想想還是排了牙醫回診。"
+          ]
+        },
+        "en": {
+          "content": "After the breakup, I started filling in the calendar squares he used to take up, night by night. At first it was just to avoid blank space, but by October the month is nearly full, faster than I expected.",
+          "editorNote": "Good for back-to-school season, talking about rebuilding a routine.",
+          "variations": [
+            "Variation: On the third new entry, I hesitated over leaving his birthday blank, then just booked a dentist appointment instead."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-514",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/257572990",
+      "sourceNote": "參考 Dcard 心情版「大家都是怎麼走出失戀的」討論串中運動找回節奏的常見做法，改寫成跑步app路線的場景，非引用原文",
+      "tags": ["失戀", "運動", "成長", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機的運動app還記得那條河堤路線，是我們以前跑習慣的五公里。上星期心血來潮又跑了一次，app跳出提醒：「你已經三個月沒有挑戰這條路線了」，我盯著訊息看了一下，還是按了開始。",
+          "editorNote": "適合重新開始運動的日子，聊起舊路線帶來的小尷尬。",
+          "variations": [
+            "延伸版：那天配速比一個人跑習慣後還慢，跑到終點才想起，是因為身體還在習慣性放慢腳步等人。"
+          ]
+        },
+        "en": {
+          "content": "My running app still remembers the riverside loop, the 5K we used to run together. On a whim last week I ran it again, and the app popped up: \"You haven't taken on this route in 3 months.\" I stared at the message for a second, then hit start anyway.",
+          "editorNote": "For a day you're getting back into running, and an old route catches you off guard.",
+          "variations": [
+            "Variation: My pace that day was slower than running it alone usually is, and near the finish I realized it's because I still slow down out of habit, waiting for someone."
+          ]
+        }
+      }
+    },
+    {
+      "id": "bq-515",
+      "dateAdded": "2026-09-29",
+      "sourceUrl": "https://www.dcard.tw/f/mood/p/261342840",
+      "sourceNote": "參考 Dcard 心情版「千萬不要一個人旅行」討論串反映的獨旅心情，取「翻到共同訂票紀錄」情境改寫，非引用原文",
+      "tags": ["失戀", "國慶", "獨立", "語錄"],
+      "i18n": {
+        "zh-tw": {
+          "content": "國慶連假訂機票，打開旅遊app才想起去年這時候是他在比價，搜尋紀錄裡還留著兩個人的紀錄，機票、民宿，還有他寫的備註。這次自己訂，備註欄空著，反而覺得比想像中好填。",
+          "editorNote": "適合連假前規劃一個人的行程，聊起訂票時翻到舊紀錄的瞬間。",
+          "variations": [
+            "延伸版：訂完機票後，把app裡去年那筆共同行程刪掉，猶豫了三秒才按下確認。"
+          ]
+        },
+        "en": {
+          "content": "Booking flights for the long National Day weekend, I opened the travel app and remembered he was the one comparing prices this time last year. The search history still has both our names on it, flights, a place to stay, his little notes. This time I booked alone, left the notes field blank, and it felt easier to fill in than I expected.",
+          "editorNote": "For planning a solo trip before a long weekend, the moment you scroll past last year's booking.",
+          "variations": [
+            "Variation: After booking, I deleted last year's shared itinerary from the app and hesitated three seconds before confirming."
+          ]
+        }
+      }
     }
   ]
 }
