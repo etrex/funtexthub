@@ -13324,3 +13324,42 @@ Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[噓星聞：甄嬛傳馬拉松新哏懶人包](https://stars.udn.com/star/story/10088/9328443)｜[DailyView：活網、海巡、迷因連發](https://dailyview.tw/daily/4542)｜[Mobile01：2025-2026台灣網絡流行語精選](https://www.mobile01.com/topicdetail.php?f=37&t=7251111)｜[Look Pretty：觸爛、M3、各各 2026年輕人網路流行用語](https://look.s3.com.tw/look/outfit/tff1g4/page/25872)｜[Know Your Meme：The Weekly Meme Roundup](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-pinkchyu-the-other-cavaliers-kinda-chic-trend-and-more)｜[NapoleonCat：Top Trending Memes (September 2026)](https://napoleoncat.com/blog/trending-memes/)｜[Dcard：萬聖節笑話](https://www.dcard.tw/f/joke/p/240375613)
+
+## 2026-09-29 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-21～09-28：168/186/193/178/168/168/168/168（42 檔）⇒ 正常，未停擺。最近 commit：`maintenance update 2026-09-28`／`check_batch` 修正（987966e，場景集中度規則在無場景日不再誤判）。git status 乾淨，09-29 當日尚未有 daily-update（研究任務先於內容產線執行）。
+
+### New Topic Recommendations
+1. **🟢 英文「Kinda chic to…」低調自豪句式（priority 🟢 candidate，無時效壓力）**
+
+   外部：Know Your Meme 本週報導的英文 Threads/TikTok 新格式，開頭固定「Kinda chic to…」，接一件跟錢無關、自己偷偷得意的小事（例：早睡、記得澆花、沒回覆那則已讀）。語料讀數：`kinda chic` 0/0（🟢 WHITE，含大小寫變體）。
+   - ⇒ 適合走 `self-love-quotes` 的「小小自豪、不必解釋」角度，句式本身自帶節奏，容易套用到多種生活小事。
+   - **候選路由**：`self-love-quotes`（自我肯定角度最貼合）／`witty-comebacks`（若走反諷版本）。
+   - ⚠️ 屬句式類新素材，指派時每篇要換不同的「小事」，避免 42 檔各寫一次撞同一件事（沿用 08-26「框會 induce 自己的禁用詞」教訓，事先列 10+ 個候選小事分配）。
+
+2. **🟢 英文「Imagine hating on [X]…」自嘲防禦句式（priority 🟢 candidate，無時效壓力）**
+
+   外部：同一份 Know Your Meme 週報提及的另一格式，把日常小事包裝成「好像有人會酸」的假想敵，製造自嘲式幽默（例：「imagine hating on us for just making coffee」）。語料讀數：`imagine hating` 0/0（🟢 WHITE）。
+   - ⇒ 適合 `witty-comebacks`（防禦式吐槽）或 `absurd-wisdom`（荒謬自信角度）。
+   - 與 09-23 記錄的「××基礎，××不基礎」同類——**是句子結構/敘事裝置，不是話題**，建議比照辦理：可作既有項目的寫作手法之一，不需獨立開檔。
+
+3. **🔴 不新增：「深夜牛肉麵」（查證後為真人爭議事件，非本週素材）**
+
+   查證發現此話題實際源自 YouTuber Joeman 與前女友「小依」的私生活爭議（深夜要求煮牛肉麵，被網友類比偶像劇《我可能不會愛你》橋段），聲量高峰落在 **8/16–8/18**，距今已 6 週，且**涉及真人感情糾紛/情緒勒索爭議**，不符合本站「純娛樂、不影射真人爭議」定位。廣義詞 `牛肉麵` 已 30 則／7 檔飽和，精確詞 `深夜牛肉麵` 雖 0/0 但不建議指派。
+
+4. **🔴 不新增：本週其餘熱梗皆已覆蓋或已被 generator 吸收**——`後面有車`（瘦子 E.SO 誤判情境迷因）8 則／2 檔已覆蓋；`馬倒成功`／`哭哭馬`（馬年自嘲詞）17/29 則已覆蓋；`含機量爆表`（AI 玩笑詞）31 則已覆蓋；`龍蝦`（OpenClaw AI 暱稱）15 則已覆蓋（含 `slang-quotes` 專門一則）。`chill guy` 為 2024–2025 舊梗，WebSearch 摘要時態不可信，非本週新素材，不追。
+
+### Content Trends
+- 英文迷因本週明顯轉向「不解釋、不防禦、就是小小得意」的低調自豪語氣（Kinda chic to…），與 8/21 記錄過的「自我肯定/自我調侃」中文語族（曼妙句式）方向一致，顯示中英文社群同步在流行「用幽默包裝自我肯定」——可作為未來雙語掃描的共同關鍵字方向。
+- 台灣本週熱梗（後面有車、馬倒成功、含機量、龍蝦）皆已在近期 daily-update 中被 generator 自行吸收指派，反映語料飽和速度持續快於研究任務的登錄速度，本次掃描實際新增空間集中在英文句式類。
+
+### Existing Topic Updates
+- **🟢 「奧德賽時期」已結案**：09-28 daily-update 已指派進 `slang-quotes.json`（3 則命中，含編輯手法完整），從候選清單移除。
+- 沿用中候選：KitKat 劫案哏（0/0，第 7 天）、「不知道，我的身材很曼妙」（0/0，第 6 天）、比奇堡開運桌布（0/0，第 4 天）、《尼古喵喵》貓漫畫（0/0，第 4 天，IP 風險維持低優先）。
+- 🔴 **建議放棄：王ADEN「大跳」動詞梗**——連續兩次量測（09-27→09-29）維持 1 則／1 檔零成長，已超過短命梗建議的裁決期限，判定為未被採用，自候選清單移除。
+- 🔴 **最後提醒：好市多熟食區會員卡新制，指派窗口今日是最後一天（9/30 生效）**——廣義詞 `熟食區` 現 4 則／2 檔，但逐則核對後**皆非新制本身**（一則是超商即期熟食場景、一則是米飯粽子冷笑話），精確角度仍是白地；若今日 daily-update 未指派，此候選明日起建議直接放棄（時效已過，事後再寫等於過期新聞）。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [Know Your Meme：The Weekly Meme Roundup（Kinda Chic trend）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-pinkchyu-the-other-cavaliers-kinda-chic-trend-and-more)｜[DailyView：深夜牛肉麵話題聲量破萬](https://dailyview.tw/popular/detail/33653)｜[Yahoo：Joeman凌晨3點想吃哪家牛肉麵](https://tw.news.yahoo.com/joeman%E5%87%8C%E6%99%A83%E9%BB%9E%E6%83%B3%E5%90%83%E5%93%AA%E5%AE%B6%E7%89%9B%E8%82%89%E9%BA%B5-%E7%B6%B2%E5%8F%8B%E7%A0%B4%E8%A7%A32%E7%B7%9A%E7%B4%A2-%E9%80%99%E5%93%81%E7%89%8C-%E5%91%BC%E8%81%B2%E6%9C%80%E9%AB%98-065142671.html)｜[自由娛樂：瘦子迷因「你後面有車」爆紅變警語](https://ent.ltn.com.tw/news/breakingnews/5068663)｜[數英：2026上半年網路熱詞TOP30](https://www.digitaling.com/articles/1561293.html)｜[NapoleonCat：Top Trending Memes (September 2026)](https://napoleoncat.com/blog/trending-memes/)｜[今周刊：2026行事曆國慶連假攻略](https://www.businesstoday.com.tw/article/category/183027/post/202608160012/)
