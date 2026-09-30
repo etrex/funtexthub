@@ -13363,3 +13363,29 @@ Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [Know Your Meme：The Weekly Meme Roundup（Kinda Chic trend）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-pinkchyu-the-other-cavaliers-kinda-chic-trend-and-more)｜[DailyView：深夜牛肉麵話題聲量破萬](https://dailyview.tw/popular/detail/33653)｜[Yahoo：Joeman凌晨3點想吃哪家牛肉麵](https://tw.news.yahoo.com/joeman%E5%87%8C%E6%99%A83%E9%BB%9E%E6%83%B3%E5%90%83%E5%93%AA%E5%AE%B6%E7%89%9B%E8%82%89%E9%BA%B5-%E7%B6%B2%E5%8F%8B%E7%A0%B4%E8%A7%A32%E7%B7%9A%E7%B4%A2-%E9%80%99%E5%93%81%E7%89%8C-%E5%91%BC%E8%81%B2%E6%9C%80%E9%AB%98-065142671.html)｜[自由娛樂：瘦子迷因「你後面有車」爆紅變警語](https://ent.ltn.com.tw/news/breakingnews/5068663)｜[數英：2026上半年網路熱詞TOP30](https://www.digitaling.com/articles/1561293.html)｜[NapoleonCat：Top Trending Memes (September 2026)](https://napoleoncat.com/blog/trending-memes/)｜[今周刊：2026行事曆國慶連假攻略](https://www.businesstoday.com.tw/article/category/183027/post/202608160012/)
+
+## 2026-09-30 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-21～09-29：168/186/193/178/168/168/168/168/189（42 檔）⇒ 正常，未停擺。最近 commit：`content: daily update 2026-09-29`／`research: daily report 2026-09-29`。git status 乾淨，09-30 當日尚未有 daily-update（研究任務先於內容產線執行，慣例）。本次未重測分發層／DNS／404（沿用 09-24 狀態）。
+
+### New Topic Recommendations
+本次掃描（Threads 本週熱門迷因、台灣網路流行語、英文 trending memes、Know Your Meme 週報、重陽節）**無新增白地**，逐項核對如下：
+
+1. **🔴 不新增：本週中文候選詞全數已覆蓋**——`班味` 28/4、`精神離職` 14/4、`0尊` 37/1、`上車囉` 14/1、`M3` 65/1、`觸爛` 34/1、`sldpk` 27/1 皆已在 `slang-quotes.json` 完整覆蓋（逐則核對非誤判）。
+2. **🔴 不新增：「小英香菇」「ATEEZ 震胸舞中文迷因」**——前者涉及真實政治人物（前總統）肖像/言論，後者為 K-pop 舞蹈畫面哏，脫離影片畫面文字化後無笑點，且綁定真人肖像，兩者均不符合本站定位，不予指派。
+3. **🔴 查證後不新增：「Spiki（斯皮奇）」**——查證為蔚藍檔案（Blue Archive）遊戲角色衍生迷因，屬動漫 IP，且需配合特定畫面/聲音才成立，文字化後無意義。「欸吼欸吼」查無具體來源說明，僅在總整理文章中被列為關鍵字、無法確認其笑點結構，不予採用。
+4. **🔴 不新增：英文側「ngl I'ma take a nap, lmk」「Jean Phil」「Blocking The Street」「Wawario」「Verity's From Minecraft」**——依序為真人實況主片段（LosPollosTV，08-28 已記錄的「真人/實況主哏不適合本站」同類）、真人 AI 爭議哏、Family Guy／任天堂／Minecraft 動畫 IP 哏，均需圖像/影片脈絡或涉及真人肖像/版權，全數排除。
+5. **🔴 不新增：重陽節（10/18，週日）尚無具體網路梗**——搜尋僅得到節日習俗介紹與泛用笑話網站，無新素材；沿用既有排程即可，非本次新發現。
+
+### Content Trends
+- 本週三個方向（中文 Threads 熱梗、台灣流行語、英文迷因週報）交集出的候選詞幾乎全數已被既有語料吸收，延續 09-28 記錄的「飽和速度已追上外部產出速度」現象；本次額外新增觀察：**英文迷因生態持續以「真人實況主/網紅片段」與「動畫 IP 角色」為主流格式**（連續第二週皆如此），這類格式脫離畫面/真人脈絡文字化後即失去笑點，建議後續英文側掃描可加大篩選力度、優先跳過需要影片畫面才能理解的候選。
+- 時效：重陽節 10/18（週日）、10/24–10/26 光復節、10/26 萬聖（均已預先路由，非本次新發現）；好市多熟食區新制指派窗口**今日（9/30）為最後一天**。
+
+### Existing Topic Updates
+- 沿用中候選（狀態皆未變，皆為長效概念、無時效壓力）：KitKat 劫案哏（0/0，第 8 天）、「不知道，我的身材很曼妙」（0/0，第 7 天）、比奇堡開運桌布（0/0，第 5 天）、《尼古喵喵》貓漫畫（0/0，第 5 天，IP 風險維持低優先）、英文「Kinda chic to…」句式（0/0，第 2 天）、英文「Imagine hating on…」句式（0/0，第 2 天，句式類，比照既有規則作寫作手法參考不需獨立開檔）。
+- 🔴 **好市多熟食區會員卡新制指派窗口今日截止**：精確角度仍為白地（`熟食區` 廣義詞 4 則／2 檔逐則核對皆非新制本身），若今日 daily-update 仍未指派，明日起建議直接放棄（時效已過，事後補寫等於過期新聞）。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[華視新聞：Threads瘋傳「小英香菇」](https://news.cts.com.tw/cts/life/202608/202608063064215.html)｜[Mobile01：2025-2026台灣網絡流行語精選](https://www.mobile01.com/topicdetail.php?f=37&t=7251111)｜[Look Pretty：觸爛、M3、各各 2026年輕人網路流行用語](https://look.s3.com.tw/look/outfit/tff1g4/page/25872)｜[Yahoo：聽得懂才算潮 2026必會網路流行語8條](https://tw.news.yahoo.com/%E8%81%BD%E5%BE%97%E6%87%82%E6%89%8D%E7%AE%97%E6%BD%AE-2026%E5%BF%85%E6%9C%83%E7%B6%B2%E8%B7%AF%E6%B5%81%E8%A1%8C%E8%AA%9E8%E6%A2%9D-172656247.html)｜[Know Your Meme：The Weekly Meme Roundup（Wawario, Jean Phil, Blocking The Street）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-wawario-jean-phil-blocking-the-street-and-more)｜[NapoleonCat：Top Trending Memes (September 2026)](https://napoleoncat.com/blog/trending-memes/)｜[knowyourmeme：NGL I'ma Take A Nap LMK](https://knowyourmeme.com/memes/ngl-ima-take-a-nap-lmk)｜[wisdom-life：2026年重陽節日期由來習俗](https://wisdom-life.in/calendar/lunar-festival/%E9%87%8D%E9%99%BD%E7%AF%80)
