@@ -10792,6 +10792,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "wcq-364",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.nbcnews.com/select/shopping/best-fifa-world-cup-2026-jerseys-rcna349286",
+      "sourceNote": "NBC News guide on World Cup 2026 replica vs authentic jerseys and care instructions, rewritten as an F8 object-narrator piece from the jersey's POV",
+      "tags": [
+        "世界盃",
+        "球衣",
+        "決賽",
+        "物件視角"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被套上主人的頭那一刻，領口卡在他下巴上，掙扎了兩秒才滑下去。整場比賽他站在電視前看，我跟著他的肩膀一起晃，背號被汗浸得有點透明。半場暫停他把我脫下來，隨手搭在沙發扶手上，延長賽開踢前又抓著我套回身上。決賽結束那晚他把我翻成內裡朝外，用手搓過一次，晾在窗邊風乾，沒放進烘衣機。",
+          "editorNote": "適合用在幫喜歡的球衣代言，講它陪你看完整場比賽的那種感情",
+          "variations": [
+            "短版：領口卡住的兩秒、背號被汗浸透、風乾前沒進烘衣機，我陪他看完一整場世界盃。"
+          ]
+        },
+        "en": {
+          "content": "The instant he pulled me over his head, the collar caught under his chin and held for two seconds before it gave. He stood in front of the TV for the whole match, and I swayed with his shoulders, the number on my back going faintly see-through with sweat. At the halftime break he peeled me off and draped me over the arm of the couch, then grabbed me again and pulled me back on right before extra time kicked off. The night the final ended, he turned me inside out, scrubbed me by hand once, and hung me by the window to dry -- no dryer.",
+          "editorNote": "For giving your favorite jersey a shoutout for surviving the whole match with you",
+          "variations": [
+            "Short version: the two-second collar snag, the sweat making the number see-through, air-dried with no dryer -- I watched the whole World Cup match with him."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wcq-365",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.npr.org/2026/06/12/nx-s1-5855234/2026-world-cup-fifa-soccer-referees-officials-laws-ifab",
+      "sourceNote": "NPR piece on World Cup referee whistle/officiating rule changes, rewritten as an F8 object-narrator piece from a whistle's POV at a viewing-party pickup game",
+      "tags": [
+        "世界盃",
+        "哨子",
+        "客串裁判",
+        "物件視角"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我掛在他脖子上，隨著他跑向兩隊中間的空地。開場前他把我叼進嘴裡試了一下音，兩個原本在旁邊看轉播的人也跑過來搶著要當邊審。球一出界，他才發現手裡還握著我，吹得又急又短，聲音被外頭傳來的歡呼蓋過去一半。下半場踢到一半，他把我摘下來塞進口袋，說要專心看正式比賽的重播。",
+          "editorNote": "適合形容看轉播看到自己下場踢起來、順便客串裁判的那種瞬間",
+          "variations": [
+            "短版：脖子上晃到出界那一聲，中場被摘下塞進口袋，我只在別人踢球時派上用場。"
+          ]
+        },
+        "en": {
+          "content": "I hung around his neck as he ran out to the open patch of ground between the two teams. Before kickoff he stuck me in his mouth to test the sound, and two people who had been watching the broadcast nearby ran over to fight over being linesmen. When the ball went out, he realized I was still in his hand and blew short and sharp, the sound half swallowed by cheering from outside. Partway through the second half, he pulled me off and stuffed me in his pocket, saying he wanted to focus on the replay of the real match.",
+          "editorNote": "For the moment a watch party turns into an actual pickup game and someone grabs a whistle",
+          "variations": [
+            "Short version: swinging from his neck until the ball went out, pulled off and pocketed at halftime -- I only get used while people are actually playing."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wcq-366",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.axios.com/2026/07/21/world-cup-final-viewership-record",
+      "sourceNote": "Axios report on record US World Cup final viewership, rewritten as an F8 object-narrator list piece from a TV remote's POV on final day",
+      "tags": [
+        "世界盃",
+        "遙控器",
+        "決賽",
+        "清單"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我一早被壓在沙發縫裡找了五分鐘\n— 我被按到底又轉回開頭\n— 音量鍵被調到最高又被嫌吵轉小\n— 追平那球我被整個摔到地上\n— 延長賽開始我的電池蓋鬆脫一角\n— 哨聲響起我被抱起來晃了兩下",
+          "editorNote": "適合吐槽遙控器在關鍵賽事那天過得比誰都慘",
+          "variations": [
+            "延伸版：這台遙控器在決賽那天被壓、被摔、被吼吵，電池蓋還鬆了一角。"
+          ]
+        },
+        "en": {
+          "content": "-- Wedged in the couch cushions all morning, it took five minutes to find me.\n-- Pressed all the way to the last channel, then flipped back.\n-- Turned up to max, then scolded down for being too loud.\n-- Dropped flat on the floor the second the equalizer went in.\n-- My battery cover popped loose when extra time started.\n-- Picked up and shaken around when the final whistle blew.",
+          "editorNote": "For roasting how rough your remote's day gets during a big match",
+          "variations": [
+            "Extended version: on final day, this remote got wedged, dropped, yelled at for being too loud, and even lost a corner of its battery cover."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wcq-367",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.funflicks.com/2026/03/10/world-cup-watch-party/",
+      "sourceNote": "FunFlicks World Cup watch party guide (halftime pickup mini-games), rewritten as an F8 object-narrator piece from a small ball's POV",
+      "tags": [
+        "世界盃",
+        "足球",
+        "看球派對",
+        "物件視角"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被踢出去那一下力道特別重，滾過草地撞到樹幹才停下來，表面沾了一片濕答答的落葉。中場休息大家從電視前站起來，輪流拿我當球練幾腳，換人的時候直接用腳把我勾過去，沒人喊暫停。正賽重新開始前，有人把我撿起來塞進背包側袋，拉鍊卡住半天才拉上。延長賽結束後，我又被丟回草地上，這次沒人來撿，露水慢慢把我打濕。",
+          "editorNote": "適合形容中場休息大家臨時開踢、球賽結束後器材被隨手丟下的畫面",
+          "variations": [
+            "延伸版：撞樹幹停下、被輪流踢著玩、塞進背包側袋，最後晾在草地上被露水打濕，我陪完了整場中場休息。"
+          ]
+        },
+        "en": {
+          "content": "The kick that sent me out was especially hard -- I rolled across the grass and only stopped when I hit a tree trunk, a wet leaf stuck to my side. At halftime everyone got up from the TV and took turns using me for a few practice touches, hooking me over with a foot when it was the next person's turn, nobody bothering to call a break. Right before the real match restarted, someone scooped me up and stuffed me into the side pocket of a backpack, the zipper snagging for a while before it closed. After extra time ended, I got tossed back onto the grass -- this time nobody came to get me, and the dew slowly soaked in.",
+          "editorNote": "For the halftime pickup game that starts on a whim and the gear left behind after",
+          "variations": [
+            "Extended version: stopped by a tree trunk, kicked around by whoever's turn it was, zipped into a backpack pocket, then left on the grass to soak in dew -- I made it through the whole halftime."
+          ]
+        }
+      }
     }
   ]
 }
