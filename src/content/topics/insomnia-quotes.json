@@ -13198,6 +13198,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-471",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://health.ettoday.net/news/3155201",
+      "sourceNote": "凌晨3點常醒來的原因報導，改寫成半夜醒來不看手機的情境",
+      "tags": [
+        "失眠",
+        "凌晨三點",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在凌晨三點張開眼睛。\n被子歪了一角，枕頭換了個方向，床頭那盞小夜燈還亮著。\n你的手伸向手機，停在螢幕上方兩公分，又縮回被子裡。\n你閉上眼睛數自己的呼吸，數到第九下，人還是醒著。",
+          "editorNote": "適合半夜醒來、盯著天花板睡不回去的人，傳給正在經歷同一種清醒的朋友。",
+          "variations": [
+            "短版：凌晨三點醒來，你數著呼吸，還是醒著。",
+            "延伸版：棉被歪了、枕頭換了方向，你的手伸向手機又縮回去，眼睛閉著，人卻醒著。"
+          ]
+        },
+        "en": {
+          "content": "You open your eyes at three in the morning.\nThe blanket is twisted, the pillow's been flipped, and the little nightlight by the bed is still on.\nYour hand reaches for the phone, stops two centimeters above the screen, then pulls back under the blanket.\nYou close your eyes and count your own breaths — you're still awake on the ninth one.",
+          "editorNote": "For the wide-awake stretch after waking up at 3 a.m. Send it to a friend staring at their own ceiling right now.",
+          "variations": [
+            "Short: Awake at 3 a.m., counting breaths, still awake.",
+            "Extended: Blanket twisted, pillow flipped, your hand reaches for the phone and pulls back — eyes closed, still awake."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-472",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://pansci.asia/archives/28484",
+      "sourceNote": "數羊為何對睡眠沒有幫助的科普文章，改寫成換一個想像畫面代替數羊的情境",
+      "tags": [
+        "失眠",
+        "胡思亂想",
+        "深夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你在心裡放了一隻羊跳過柵欄。\n第二隻、第三隻，羊越跳越快，你的眼睛卻越睜越開。\n你換了個畫面，想像自己站在一間陌生的木屋前，聽得到外面下雨的聲音。\n羊不見了，雨聲還在，你的眼睛終於慢慢闔上。",
+          "editorNote": "數羊數到更清醒的人可以看看，換一個想像的畫面或許比數羊更有用。",
+          "variations": [
+            "短版：羊越跳越快，你越睜越開。",
+            "延伸版：換了個畫面站在陌生的木屋前，羊不見了，雨聲還在，眼睛慢慢闔上。"
+          ]
+        },
+        "en": {
+          "content": "You picture a sheep jumping over a fence in your head.\nA second one, a third one — they jump faster, and your eyes open wider instead of closing.\nYou switch the picture: standing in front of an unfamiliar wooden cabin, listening to rain outside.\nThe sheep are gone, the rain keeps going, and your eyes finally start to drift shut.",
+          "editorNote": "For anyone whose sheep-counting backfires. A different mental picture works better than more sheep.",
+          "variations": [
+            "Short: The sheep jump faster, your eyes open wider.",
+            "Extended: You switch to standing outside an unfamiliar cabin — the sheep are gone, the rain stays, and your eyes finally close."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-473",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://technews.tw/2026/07/17/scrolling-phone-before-bed-insomnia-experts-debunk-myth/",
+      "sourceNote": "睡前滑手機與失眠關聯的研究報導，改寫成滑短影片停不下來的情境",
+      "tags": [
+        "失眠",
+        "滑手機",
+        "熬夜"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你的拇指在螢幕上滑動。\n短影片一支接一支，笑聲、廣告、下一支，你分不清自己看了幾支。\n眼睛開始發脹，螢幕亮度被你調到最低，畫面卻還在跳。\n你數不出滑了多久，只知道枕頭已經被你換到另一邊。",
+          "editorNote": "滑手機滑到忘記時間的深夜，傳給也在同一個迴圈裡的人。",
+          "variations": [
+            "短版：滑了幾支影片，你自己也數不清。",
+            "延伸版：眼睛發脹，亮度調到最低，畫面還在跳，枕頭已經換了邊。"
+          ]
+        },
+        "en": {
+          "content": "Your thumb keeps swiping across the screen.\nShort clips, one after another — a laugh, an ad, the next one — you lose count of how many you've watched.\nYour eyes start to ache, the brightness gets turned down as low as it goes, but the feed keeps moving.\nYou can't say how long you've been scrolling, only that the pillow has already been flipped to the other side.",
+          "editorNote": "For the late-night scroll that erases all sense of time. Share it with someone stuck in the same loop.",
+          "variations": [
+            "Short: You lose count of how many clips you've watched.",
+            "Extended: Eyes aching, brightness down low, the feed still moving — the pillow's already on the other side."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-474",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3003386",
+      "sourceNote": "睡前寫下待辦事項有助入睡的研究書摘，改寫成便條紙列清單的情境",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "作息"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你把便條紙攤開在床頭\n— 你寫下明天要澆的那盆花\n— 你寫下這個月要繳的電話費\n— 你寫下還沒回的那則訊息\n— 你的筆尖停在最後一行\n— 你的眼皮跟著重了下來",
+          "editorNote": "把睡不著的腦袋清空的其中一種做法，寫給準備睡前列清單的人。",
+          "variations": [
+            "短版：便條紙上列著明天的事，筆尖停在最後一行。",
+            "延伸版：澆花、電話費、還沒回的訊息一條條寫下，眼皮跟著重了。"
+          ]
+        },
+        "en": {
+          "content": "— You spread the notepad out by the bed.\n— You write down watering the plant tomorrow.\n— You write down the phone bill due this month.\n— You write down the message you still haven't answered.\n— Your pen stops at the last line.\n— Your eyelids get heavier right after.",
+          "editorNote": "One way to empty a busy head before bed. For someone about to make their own list.",
+          "variations": [
+            "Short: Tomorrow's tasks listed on the notepad, pen stopped at the last line.",
+            "Extended: Watering the plant, the phone bill, the unanswered message — written down one by one, eyelids getting heavy."
+          ]
+        }
+      }
     }
   ]
 }
