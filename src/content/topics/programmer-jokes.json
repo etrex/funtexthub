@@ -15964,6 +15964,116 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-582",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://programmerhumor.io/git-memes/git-blame-anyone-but-myself-d8e8",
+      "sourceNote": "ProgrammerHumor.io git blame 迷因主題，改寫成第一人稱敘事",
+      "tags": [
+        "git",
+        "code review",
+        "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那段函式全是奇怪的巢狀判斷，我在群組裡吐槽是哪個人寫的爛東西。git blame 跳出來，作者欄印著我自己的名字，時間是十四個月前。我把那次的 commit message 讀了三遍，只寫著「先這樣，之後再改」。那個「之後」，是今天嗎？",
+          "editorNote": "工程師自嘲用，尤其是被自己過去的雷炸到的時候。",
+          "variations": [
+            "短版：git blame 跳出來，作者是十四個月前的我自己。",
+            "延伸版：「之後再改」的那個之後，原來就是今天。"
+          ]
+        },
+        "en": {
+          "content": "The function was a mess of nested conditionals, and I complained in the group chat about whoever wrote garbage like this. Git blame popped up with my own name in the author field, fourteen months ago. I read that commit message three times — it just said 'good enough for now, fix it later.' Is today the day I meant?",
+          "editorNote": "For engineers roasting themselves after tripping over their own old landmine.",
+          "variations": [
+            "Short version: Git blame pointed to me, fourteen months ago.",
+            "Extended: The 'later' from that old commit turned out to be today."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-583",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://punhour.com/coder-jokes/",
+      "sourceNote": "punhour.com coder jokes 合輯的重複開票梗，改寫成清單體",
+      "tags": [
+        "bug", "職場", "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 這張票被重新開啟，這是本季第六次\n— 標題從來沒改過，就是那句「登入偶爾失敗」\n— 每一次都指派給不同的人\n— 上一個負責的人，已經不在這間公司\n— 這次，會是最後一次把它關掉嗎？",
+          "editorNote": "拿來吐槽那種永遠關不掉的舊票，很有共鳴。",
+          "variations": [
+            "短版：同一張票，第六次重新開啟，標題沒有變過。",
+            "延伸版：上一個負責人離職前，關掉它的方式也一樣。"
+          ]
+        },
+        "en": {
+          "content": "— This ticket was reopened for the sixth time this quarter\n— The title never changed: \"login fails intermittently\"\n— Each time it lands on someone different\n— The last owner doesn't work here anymore\n— Will this be the time it actually stays closed?",
+          "editorNote": "For venting about that one ticket that refuses to stay closed.",
+          "variations": [
+            "Short version: Same ticket, reopened for the sixth time, same old title.",
+            "Extended: The last owner closed it the exact same way, right before they left."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-584",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://github.com/cshaley/programming-jokes",
+      "sourceNote": "GitHub programming-jokes 合輯的 code review 主題，改寫成對話",
+      "tags": [
+        "code review", "PR", "職場"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這支 PR 你昨天已經核准了。」\n「我看過。」\n「螢幕還沒切到下一個分頁前，你看了幾秒？」\n「夠久了。」\n「夠久，是幾秒？」",
+          "editorNote": "同事之間互相翻舊帳，戳一下沒仔細看就核准的人。",
+          "variations": [
+            "短版：「看了幾秒？」「夠久了。」「夠久，是幾秒？」",
+            "延伸版：核准鍵按下去那幾秒，螢幕正在切分頁。"
+          ]
+        },
+        "en": {
+          "content": "\"You approved this PR yesterday.\"\n\"I looked at it.\"\n\"How many seconds, before the screen switched tabs?\"\n\"Long enough.\"\n\"Long enough — how many seconds, exactly?\"",
+          "editorNote": "For coworkers calling out a rubber-stamp approval.",
+          "variations": [
+            "Short version: \"How many seconds?\" \"Long enough.\" \"Long enough — how many?\"",
+            "Extended: In those seconds before the click, the screen was already switching tabs."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-585",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://programmerhumor.io/memes/stack-overflow",
+      "sourceNote": "ProgrammerHumor.io deprecated 相關迷因，改寫成三年後爆炸的情境",
+      "tags": [
+        "debug", "legacy code", "warning"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那個函式庫的棄用警告，第一次出現在三年前的建置紀錄裡，黃字，沒有人點開看。今年它變成紅字，建置直接中斷。我翻遍聊天紀錄，找到三年前那則訊息底下，有人回了一個「👍」。按讚的，是現在負責修這個問題的人嗎？",
+          "editorNote": "貼給那種放了很久沒人理的警告訊息，最後爆炸的那天。",
+          "variations": [
+            "短版：棄用警告放了三年，今年變成建置中斷。",
+            "延伸版：三年前按讚的那個人，現在正在修這個問題。"
+          ]
+        },
+        "en": {
+          "content": "The library's deprecation warning first showed up in a build log three years ago, in yellow text, and nobody clicked it open. This year it turned red and the build just stopped. I dug through the old chat history and found that message from three years back — someone had left a thumbs-up on it. Is that person the one fixing it now?",
+          "editorNote": "For the warning nobody clicked, right before it finally blew up.",
+          "variations": [
+            "Short version: The deprecation warning sat there three years before the build finally broke.",
+            "Extended: Whoever gave it a thumbs-up three years ago is the one fixing it now."
+          ]
+        }
+      }
     }
   ]
 }

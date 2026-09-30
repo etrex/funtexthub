@@ -13551,6 +13551,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-475",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.command.com.tw/3M/zh_TW/command-tw/projects/all-projects/hanging-things-on-a-rental/",
+      "sourceNote": "3M Command 官網租屋佈置頁面；取免釘掛勾佈置的情境，對話與動作為原創",
+      "tags": [
+        "租屋",
+        "佈置",
+        "日常",
+        "套房"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你踮起腳把免釘掛勾貼上牆，手指壓住雙面膠，默數三十秒才放開。你先掛上最輕的鑰匙圈，盯著掛勾看了幾秒。你又掛上外套，布料的重量往下拉了一點點。你伸手輕輕晃了晃，掛勾沒有掉，你才轉身去做別的事。",
+          "editorNote": "給正在佈置租屋處、牆面不能釘釘子的人",
+          "variations": [
+            "短版：你把免釘掛勾貼上牆，數到三十秒才放手。",
+            "延伸版：掛勾沒有掉，你才敢把外套整件掛上去。"
+          ]
+        },
+        "en": {
+          "content": "You stand on your toes and press the nail-free hook against the wall, holding the double-sided tape down and counting to thirty before letting go. You hang the lightest keychain first and stare at the hook for a few seconds. Then you hang up a coat, and the fabric's weight pulls it down just slightly. You reach out and give it a gentle shake — the hook doesn't budge, so you turn and go back to whatever you were doing.",
+          "editorNote": "For renters decorating a place where you can't drill into the walls",
+          "variations": [
+            "Short: You press the nail-free hook to the wall and count to thirty before letting go.",
+            "Extended: The hook holds, so you finally hang the whole coat on it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-476",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://homerlifes.com/article/detail/moving",
+      "sourceNote": "homer生活家搬家打包術文章；取紙箱標籤打包的情境，內容為原創",
+      "tags": [
+        "搬家",
+        "打包",
+        "租屋日常",
+        "紙箱"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你在紙箱側面寫下衣物兩個字\n— 你把充電線捲好塞進紙箱夾層\n— 你把牙刷杯塞進鞋子裡再蓋上蓋子\n— 你數到十二個紙箱疊在門邊\n— 你在最後一個紙箱貼上你的名字",
+          "editorNote": "給搬家前一箱一箱打包行李的租屋族",
+          "variations": [
+            "短版：你在紙箱上寫字，把東西一樣一樣塞進去。",
+            "延伸版：十二個紙箱疊好之後，你在最後一箱寫上名字。"
+          ]
+        },
+        "en": {
+          "content": "— You write \"clothes\" on the side of the box.\n— You coil up the charging cable and tuck it into a gap in the box.\n— You wedge your toothbrush cup into a shoe before closing the lid.\n— You count twelve boxes stacked by the door.\n— You stick your name on the last box.",
+          "editorNote": "For renters packing boxes one by one before a move",
+          "variations": [
+            "Short: You label the boxes and pack things in one by one.",
+            "Extended: With twelve boxes stacked, you write your name on the last one."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-477",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://vocus.cc/article/6a8d1216fd897800010782e3",
+      "sourceNote": "法律科普站談房客常見誤會的文章；取房客回報漏水給房東的情境，對話與內容為原創",
+      "tags": [
+        "漏水",
+        "報修",
+        "房東",
+        "水電"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把水龍頭滴水的畫面拍成十五秒影片傳給房東，手指懸在傳送鍵上停了兩秒。訊息顯示已讀，螢幕畫面被你反扣在桌面上。你重新點開影片又看一次，水滴落下的間隔比你記得的還要短。你把音量調到最大，再看一遍。",
+          "editorNote": "給發現水龍頭漏水、正在跟房東傳訊息的房客",
+          "variations": [
+            "短版：你拍下水龍頭滴水的畫面傳給房東。",
+            "延伸版：訊息已讀之後，你又把影片重看了一遍。"
+          ]
+        },
+        "en": {
+          "content": "You film the dripping faucet for fifteen seconds and send it to your landlord, your finger hovering over send for two seconds. The message shows as read, and you flip your phone face-down on the table. You open the video again and watch it once more — the drips are coming faster than you remembered. You turn the volume all the way up and watch it one more time.",
+          "editorNote": "For tenants texting their landlord about a dripping faucet",
+          "variations": [
+            "Short: You film the dripping faucet and send it to your landlord.",
+            "Extended: After the message shows as read, you watch the video over again."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-478",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.100.com.tw/article/9921",
+      "sourceNote": "100室內設計租屋軟裝改造文章；取搬入新租屋量房間找家具尺寸的情境，內容為原創",
+      "tags": [
+        "搬家",
+        "找房",
+        "日常",
+        "套房"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你把捲尺的一端勾在牆角，另一手拉開捲尺走到窗邊。數字停在兩百七十六，你伸手在牆上用鉛筆做了記號。捲尺收回去的聲音在空房間裡響得清脆。你退後兩步，盯著那個記號看了幾秒。",
+          "editorNote": "給搬進新租屋處、還在量房間放不放得下家具的人",
+          "variations": [
+            "短版：你拉開捲尺量到窗邊，數字停在兩百七十六。",
+            "延伸版：捲尺收回去之後，你盯著牆上的鉛筆記號看了幾秒。"
+          ]
+        },
+        "en": {
+          "content": "You hook one end of the tape measure onto the corner of the wall and walk to the window, pulling the tape out with your other hand. The number stops at two hundred seventy-six, and you reach out and mark the wall with a pencil. The tape makes a crisp sound as it retracts in the empty room. You step back twice and stare at the mark for a few seconds.",
+          "editorNote": "For renters measuring a new room to see if their furniture will fit",
+          "variations": [
+            "Short: You pull the tape measure out to the window. The number stops at two hundred seventy-six.",
+            "Extended: After the tape retracts, you stare at the pencil mark on the wall for a few seconds."
+          ]
+        }
+      }
     }
   ]
 }

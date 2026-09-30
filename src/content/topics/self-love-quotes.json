@@ -13028,6 +13028,126 @@
             ]
           }
         }
+      },
+      {
+        "id": "slq-484",
+        "dateAdded": "2026-09-30",
+        "sourceUrl": "https://www.betterup.com/blog/self-care-checklist",
+        "sourceNote": "Inspired by self-care checklist guidance about breaking big goals into small permitted daily items; reworked as an original list of self-granted permissions.",
+        "tags": [
+          "自愛",
+          "自我允許",
+          "界線",
+          "日常"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 允許今天只做到八成就收工\n— 允許已讀不回半小時再回\n— 允許話講到一半就先停住\n— 允許需要人陪時主動開口\n— 允許那天不做任何決定\n— 允許行事曆留一格空白\n— 允許不解釋也能拒絕",
+            "editorNote": "給覺得自己一直沒資格喊停的人。這幾條先把自己排進今天的行程裡，不算放縱。",
+            "variations": [
+              "短版：今天先允許自己只做到八成。",
+              "延伸版：允許不解釋也能拒絕。"
+            ]
+          },
+          "en": {
+            "content": "— Allowed: stop at eighty percent and call it done today.\n— Allowed: leave a message unread for half an hour.\n— Allowed: stop mid-sentence and not finish it.\n— Allowed: speak up first when you need company.\n— Allowed: make zero decisions that day.\n— Allowed: leave one slot on the calendar blank.\n— Allowed: decline without an explanation.",
+            "editorNote": "For anyone who feels they never have permission to stop. These aren't excuses, they're putting yourself on today's schedule first.",
+            "variations": [
+              "Short version: Today, allowed to stop at eighty percent.",
+              "Longer version: Allowed to decline without an explanation."
+            ]
+          }
+        }
+      },
+      {
+        "id": "slq-485",
+        "dateAdded": "2026-09-30",
+        "sourceUrl": "https://cottonwoodpsychology.com/blog/11-things-i-stopped-apologizing-for-when-i-finally-chose-self-respect/",
+        "sourceNote": "Inspired by a list of things people stop apologizing for when choosing self-respect; reworked as an original list of declined requests.",
+        "tags": [
+          "自愛",
+          "拒絕",
+          "界線",
+          "自我尊重"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 婉拒了臨時加開的視訊\n— 沒有陪笑那個難聽玩笑\n— 把多墊的假日收回自己\n— 生日那天沒有主動訂蛋糕\n— 聚餐邀約直接說沒空\n— 週末留一半誰都別約\n— 朋友問起也沒多做解釋",
+            "editorNote": "給覺得拒絕別人很失禮的人。這些只是先把自己的時間算進去，不是絕情。",
+            "variations": [
+              "短版：這禮拜開始拒絕不必要的邀約。",
+              "延伸版：不解釋，也是一種答案。"
+            ]
+          },
+          "en": {
+            "content": "— Declined a video call added at the last minute.\n— Didn't laugh along with a joke that wasn't funny.\n— Took back a day off I kept lending out.\n— Didn't order the birthday cake myself this time.\n— Turned down a group dinner, no excuse given.\n— Kept half the weekend unbooked for anyone.\n— Didn't explain further when a friend asked why.",
+            "editorNote": "For anyone who thinks saying no is rude. This is just counting your own time first, not coldness.",
+            "variations": [
+              "Short version: Started declining what wasn't necessary this week.",
+              "Longer version: No explanation is also an answer."
+            ]
+          }
+        }
+      },
+      {
+        "id": "slq-486",
+        "dateAdded": "2026-09-30",
+        "sourceUrl": "https://growwithmeh.com/how-to-improve-self-love-in-2026/",
+        "sourceNote": "Inspired by 2026 self-love guidance on replacing negative self-talk with self-compassion; reworked as an original list of before/after inner phrases.",
+        "tags": [
+          "自愛",
+          "自我對話",
+          "自我疼惜",
+          "心態"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 遲到了不再罵自己沒用\n— 犯錯先問怎麼補救就好\n— 累的時候直接讓自己躺平\n— 忘記回訊息不加罪惡感\n— 別人稱讚先說謝謝就好\n— 鏡子前不急著挑毛病\n— 說錯話不用反覆練習道歉",
+            "editorNote": "換句話說，只是重新選一種語氣，不是騙自己。",
+            "variations": [
+              "短版：遲到不等於沒用，我換了說法。",
+              "延伸版：換句話說，不是騙自己。"
+            ]
+          },
+          "en": {
+            "content": "— Being late doesn't make me useless.\n— After a mistake, I just ask how to fix it.\n— Allowed to lie flat when I'm tired.\n— Forgetting to reply isn't a crime.\n— When praised, I just say thank you.\n— Not rushing to find flaws in the mirror.\n— A slip of the tongue doesn't need a repeated apology.",
+            "editorNote": "In other words, it's choosing a different tone, not lying to yourself.",
+            "variations": [
+              "Short version: Late doesn't mean useless, I changed the wording.",
+              "Longer version: Changing the words isn't lying to yourself."
+            ]
+          }
+        }
+      },
+      {
+        "id": "slq-487",
+        "dateAdded": "2026-09-30",
+        "sourceUrl": "https://mindfulnessexercises.com/self-care-quotes/",
+        "sourceNote": "Inspired by self-care reminder phrases about rest, boundaries, and small daily acts; reworked as an original list of small end-of-day self-care actions.",
+        "tags": [
+          "自愛",
+          "日常小事",
+          "自我照顧",
+          "放鬆"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 中午真的離開座位吃飯\n— 手機調成勿擾放進包包\n— 開窗讓風吹進來十分鐘\n— 下班前把桌面收乾淨\n— 洗澡水故意調熱兩度\n— 睡前把明天的擔心放下\n— 出門前跟自己說聲加油",
+            "editorNote": "給一整天都覺得沒空理自己的人。加起來看，其實做了不少。",
+            "variations": [
+              "短版：這些小事加起來，也是照顧自己。",
+              "延伸版：加起來看，做了不少。"
+            ]
+          },
+          "en": {
+            "content": "— Actually left my desk for lunch.\n— Put my phone on do-not-disturb and in my bag.\n— Opened a window and let the breeze in for ten minutes.\n— Cleared my desk before leaving work.\n— Turned the shower two degrees warmer, on purpose.\n— Set tomorrow's worries down before bed.\n— Told myself good luck before walking out the door.",
+            "editorNote": "For anyone who feels like they did nothing for themselves all day. Add it up, and it's actually more than it looks.",
+            "variations": [
+              "Short version: Add these small things up, and that's self-care too.",
+              "Longer version: Add it up, and it's more than it looks."
+            ]
+          }
+        }
       }
   ]
 }
