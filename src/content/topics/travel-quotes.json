@@ -13718,6 +13718,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "tq-472",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://tw.trip.com/guide/info/%E8%A1%8C%E6%9D%8E%E5%BB%B6%E8%AA%A4.html",
+      "sourceNote": "編輯原創：取材自行李延誤理賠攻略文章，只寫兩人在轉盤前互相補位的對話。",
+      "tags": [
+        "行李延誤",
+        "旅遊保險",
+        "機場",
+        "自助旅行"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「轉盤空了，妳的箱子沒出來？」\n「地勤說晚一班到，先幫我留失物申報。」\n「保險有保這項嗎？」\n「保了，超過六小時可以先買換洗的，單子留著。」\n「那妳今晚穿什麼？」\n「借你的外套先撐一晚，明天箱子到了再說。」",
+          "editorNote": "行李真的晚到時，兩人一組互相補位最實際，適合搭配機場延誤的心情分享一起發。",
+          "variations": [
+            "短版：轉盤空了，箱子先借外套撐一晚。"
+          ]
+        },
+        "en": {
+          "content": "\"The carousel's empty, where's your suitcase?\"\n\"Ground staff say it's on the next flight, help me file the lost-item form.\"\n\"Does your insurance cover this?\"\n\"It does, after six hours I can buy a change of clothes, just keep the slip.\"\n\"What are you wearing tonight then?\"\n\"Borrowing your jacket for one night, we'll sort the suitcase tomorrow.\"",
+          "editorNote": "For when the bag lands a flight later than you do and someone has to lend a jacket.",
+          "variations": [
+            "Short: carousel's empty, borrowing a jacket for the night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-473",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://tw.wamazing.com/media/article/a-1739/",
+      "sourceNote": "編輯原創：取材自日本自由行換匯與超商提款心得文章，改寫成出發前的對話。",
+      "tags": [
+        "日本自由行",
+        "換匯",
+        "提款",
+        "旅費"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「日圓換得夠嗎？」\n「機場只換了一半，怕匯率不好。」\n「超商提款機幾點都能領，卡別選對就好。」\n「跨國提款手續費怎麼算？」\n「銀行卡免第一筆，比在機場換划算。」\n「那我先領一筆試試，看扣多少。」",
+          "editorNote": "出發前糾結該換多少現金的兩個人，適合貼在旅費規劃的討論串。",
+          "variations": [
+            "延伸版：換匯換一半，剩下的靠超商提款機補。"
+          ]
+        },
+        "en": {
+          "content": "\"Got enough yen exchanged?\"\n\"Only half at the airport, worried the rate might drop.\"\n\"The convenience-store ATM works any hour, just pick the right card.\"\n\"How much is the foreign withdrawal fee?\"\n\"Free for the first pull, cheaper than exchanging at the airport.\"\n\"I'll test one withdrawal first, see how much it takes.\"",
+          "editorNote": "Two travelers arguing over how much cash to carry before a Japan trip.",
+          "variations": [
+            "Extended: half exchanged at the airport, the rest from an ATM run."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-474",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://massi.tw/tigerair/",
+      "sourceNote": "編輯原創：取材自廉價航空行李規定文章，改寫成登機口臨時補救重量的對話。",
+      "tags": [
+        "廉價航空",
+        "行李超重",
+        "登機口",
+        "省錢技巧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「行李秤了嗎？超重要罰不少。」\n「差三公斤，早知道網路加購行李了。」\n「登機口這台新的測量架很嚴，投影式的。」\n「那我把外套穿上，減一點重量。」\n「相機也掛脖子上，不算行李裡面。」\n「好，過了這關直接衝登機口。」",
+          "editorNote": "搭廉航被現場秤重電到的兩人對話，適合出發前互相提醒行李規定。",
+          "variations": [
+            "短版：差三公斤，外套先穿上再說。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you weigh the bags? The overweight fee isn't cheap.\"\n\"Three kilos over, should've added baggage online.\"\n\"This new gate scanner is strict, it's the projection kind.\"\n\"I'll wear my jacket then, shave off some weight.\"\n\"Camera goes around my neck too, doesn't count as luggage.\"\n\"Okay, past this and we're straight to the gate.\"",
+          "editorNote": "The moment a budget-airline check-in scale turns into a packing negotiation.",
+          "variations": [
+            "Short: three kilos over, so the jacket goes on first."
+          ]
+        }
+      }
+    },
+    {
+      "id": "tq-475",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.funliday.com/posts/baggage-restrictions/",
+      "sourceNote": "編輯原創：取材自出國隨身行李規定文章，改寫成打包時確認3C用品的對話。",
+      "tags": [
+        "行李打包",
+        "隨身行李",
+        "出國準備",
+        "3C用品"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「行動電源可以拿去托運嗎？」\n「不行，只能手提，超過規定瓦數還要申報。」\n「隨身小電風扇呢？」\n「電池是分離的可以，插著電池那種不行。」\n「藍牙耳機呢？」\n「藍牙耳機沒問題，充電盒放包包裡就好。」",
+          "editorNote": "打包到一半分不清楚哪些3C能上飛機，兩人一起對規定的對話。",
+          "variations": [
+            "延伸版：電風扇看電池分不分離，耳機倒是完全沒問題。"
+          ]
+        },
+        "en": {
+          "content": "\"Can the power bank go in checked luggage?\"\n\"No, carry-on only, and past the wattage limit you have to declare it.\"\n\"What about the little handheld fan?\"\n\"Fine if the battery's removable, not the kind with it built in.\"\n\"What about Bluetooth earbuds?\"\n\"Bluetooth earbuds are fine, just keep the case in your bag.\"",
+          "editorNote": "Sorting which gadgets are carry-on-only halfway through packing a suitcase.",
+          "variations": [
+            "Extended: the fan depends on the battery, the earbuds are no issue at all."
+          ]
+        }
+      }
     }
   ]
 }
