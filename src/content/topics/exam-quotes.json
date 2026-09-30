@@ -14303,6 +14303,126 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "eq-480",
+            "dateAdded": "2026-09-30",
+            "sourceUrl": "https://blog.luckertw.com/5stepsforemotionhealing/",
+            "sourceNote": "study method comparison article, rewritten as dialogue",
+            "tags": [
+                "讀書方法",
+                "段考",
+                "對話",
+                "同學"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "「這張公式卡我抄了三次，還是記不住斜率那格。」\n「我沒做卡片，把課本從頭唸到最後一頁，唸完剛好背起來。」\n「你唸一整本要多久？」\n「兩個半小時，中間沒停過。」\n「我卡片才寫了十二張，範圍才寫到三分之一。」\n「卡片弄丟一張，等於少一段範圍，我怕自己會弄丟。」",
+                    "editorNote": "適合用在讀書方法完全不同的兩個人互相比較進度，不評斷誰的方法比較好。",
+                    "variations": [
+                        "短版：「卡片弄丟一張，等於少一段範圍，我怕自己會弄丟。」",
+                        "延伸版：「你要不要兩種都試一半？」「範圍都要重新分配，來不及了。」"
+                    ]
+                },
+                "en": {
+                    "content": "\"I've copied this formula card three times and still can't remember the slope part.\"\n\"I skip the cards, I read the textbook cover to cover once, and it's already stuck by the end.\"\n\"How long does reading the whole thing take you?\"\n\"Two and a half hours, no stopping.\"\n\"My cards are only up to twelve, and that's a third of the range.\"\n\"Lose one card and you lose a whole section, that's what scares me.\"",
+                    "editorNote": "Use when two people with completely different study methods compare progress, without judging whose method is better.",
+                    "variations": [
+                        "Short: \"Lose one card and you lose a whole section, that's what scares me.\"",
+                        "Extended: \"Want to try splitting it half and half?\" \"I'd have to redo the whole split, no time left.\""
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-481",
+            "dateAdded": "2026-09-30",
+            "sourceUrl": "https://hao-mong.tw/how-to-sleep-before-examination/",
+            "sourceNote": "pre-exam prep habits, rewritten as dialogue",
+            "tags": [
+                "文具",
+                "考前",
+                "對話",
+                "互助"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "「鉛筆盒放在家裡書桌上，我剛才翻書包才發現。」\n「我多帶一枝2B，你先拿去用，考完再還我就好。」\n「橡皮擦呢？我那個用到剩一小塊。」\n「這個給你，我書包裡還有兩個。」\n「你怎麼什麼都多帶一份？」\n「因為每次都有人少帶一樣，帶多份比較安心。」",
+                    "editorNote": "適合放在考試前教室裡互相借文具的畫面，兩人準備方式不同但都在照顧對方。",
+                    "variations": [
+                        "短版：「因為每次都有人少帶一樣，帶多份比較安心。」",
+                        "延伸版：「你這樣準備很久了吧？」「國小開始，被唸過一次就記到現在。」"
+                    ]
+                },
+                "en": {
+                    "content": "\"I left my pencil case on my desk at home, I just noticed going through my bag.\"\n\"I brought an extra 2B, take it, just give it back after the exam.\"\n\"What about an eraser? Mine's worn down to a stub.\"\n\"Here, I've got two more in my bag.\"\n\"Why do you always bring extras of everything?\"\n\"Because someone always forgets something, so extras keep me calm.\"",
+                    "editorNote": "Use for the moment before an exam when classmates lend each other supplies, each prepared differently but both looking out for the other.",
+                    "variations": [
+                        "Short: \"Because someone always forgets something, so extras keep me calm.\"",
+                        "Extended: \"You've been doing this for a while, huh?\" \"Since elementary school, got scolded once and never forgot.\""
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-482",
+            "dateAdded": "2026-09-30",
+            "sourceUrl": "https://udn.com/news/story/123858/7724276",
+            "sourceNote": "advice on not comparing answers right after exam, rewritten as dialogue",
+            "tags": [
+                "對答案",
+                "考後",
+                "對話",
+                "心情"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "「要不要現在對答案？我剛剛都記得選什麼。」\n「先不要，我想放空十分鐘再說。」\n「可是等一下我就會忘記自己選什麼了。」\n「忘記也沒關係，反正選都選了。」\n「你都不會想知道自己對還是錯嗎？」\n「想知道，但不是現在，現在只想喝口水。」",
+                    "editorNote": "適合用在考完試走出考場那幾分鐘，兩種面對成績的方式沒有誰比較對。",
+                    "variations": [
+                        "短版：「忘記也沒關係，反正選都選了。」",
+                        "延伸版：「那你打算什麼時候對？」「回家洗完澡再說。」"
+                    ]
+                },
+                "en": {
+                    "content": "\"Want to check answers now? I still remember what I picked for everything.\"\n\"Not yet, I want to zone out for a bit first.\"\n\"But I'll forget what I picked by the time we do.\"\n\"That's fine, you already picked it either way.\"\n\"Don't you want to know if you got it right or wrong?\"\n\"I do, just not right now, right now I just want some water.\"",
+                    "editorNote": "Use for the first few minutes after walking out of an exam, when two ways of facing the result are both valid.",
+                    "variations": [
+                        "Short: \"That's fine, you already picked it either way.\"",
+                        "Extended: \"So when will you check?\" \"After I get home and shower.\""
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-483",
+            "dateAdded": "2026-09-30",
+            "sourceUrl": "https://www.gracecc.com.tw/counseling/14/34/146/",
+            "sourceNote": "pre-exam insomnia coping, rewritten as dialogue",
+            "tags": [
+                "失眠",
+                "考前",
+                "對話",
+                "安慰"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "「我已經在床上躺了一個小時，完全沒有睡意。」\n「我十點就熄燈，很快就睡著了。」\n「你不擔心明天考不好嗎？」\n「會啊，但擔心也睡不著，不如先睡飽。」\n「我腦子裡一直在重複那個化學方程式。」\n「那你先起來喝杯溫水，別一直盯著天花板。」",
+                    "editorNote": "適合用在考前一晚兩人傳訊息，一個睡不著一個已經睡了又醒來回訊息。",
+                    "variations": [
+                        "短版：「會啊，但擔心也睡不著，不如先睡飽。」",
+                        "延伸版：「方程式背不熟就先別背了。」「可是不背我更睡不著。」"
+                    ]
+                },
+                "en": {
+                    "content": "\"I've been lying in bed for an hour and I'm still wide awake.\"\n\"I turned off my light at ten and fell asleep fast.\"\n\"Aren't you worried you might not do well tomorrow?\"\n\"I am, but worrying just keeps me up, so I'd rather get some rest.\"\n\"My head keeps replaying that chemistry equation over and over.\"\n\"Then get up and drink some warm water instead of staring at the ceiling.\"",
+                    "editorNote": "Use for a late-night text exchange the night before an exam, one person unable to sleep, the other already asleep and half-awake replying.",
+                    "variations": [
+                        "Short: \"I am, but worrying just keeps me up, so I'd rather get some rest.\"",
+                        "Extended: \"If you can't memorize it, just stop for tonight.\" \"But not memorizing it keeps me up even more.\""
+                    ]
+                }
+            }
         }
   ]
 }
