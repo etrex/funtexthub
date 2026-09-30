@@ -12468,6 +12468,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-441",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/jk-pop/4026919",
+      "sourceNote": "MAMAMOO 台北演唱會 ibon 開賣，會員單筆限購 4 張的規則報導",
+      "tags": [
+        "限購",
+        "會員",
+        "朋友",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "四張，是這次官網寫明的單一會員購票上限。我們五個人一起排進候位室，我心裡早算過一定會少一個。畫面卡在讀取圈的那幾秒，我以為五張全部飛了。重新整理跳出結果，名額剛好卡在四，我把最後一張讓給那個從沒進過小巨蛋的學妹。",
+          "editorNote": "朋友揪五人搶票卻卡在會員購票上限，最後讓票給學妹的心情，很適合這則。",
+          "variations": [
+            "短版：四張是上限，我把最後一張讓給學妹。",
+            "延伸版：五個人排進候位室，我早算過會少一個，最後讓給沒進過小巨蛋的那個。"
+          ]
+        },
+        "en": {
+          "content": "Four tickets — that's the sale page's per-member cap for this show. The five of us queued into the waiting room together, and I'd already done the math that someone would be left out. Those few seconds the screen froze on the loading spinner, I thought all five slots were gone. It refreshed and landed right at four, so I gave the last ticket to the underclassman who'd never been inside the arena before.",
+          "editorNote": "For the feeling of organizing a group of five, hitting the per-member ticket cap, and giving up your slot to a junior.",
+          "variations": [
+            "Short: four's the cap, I gave the last one to the underclassman.",
+            "Extended: five of us queued in, I'd already done the math someone would be left out, so I gave it to the one who'd never been inside the arena."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-442",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://ticket.ibon.com.tw/NewsInfo/Details/2524",
+      "sourceNote": "ibon 售票系統官方問答：同一身分證字號不可購買同場兩張票券",
+      "tags": [
+        "身分驗證",
+        "系統限制",
+        "朋友",
+        "搶票"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "兩組，是我這次為了同一場演出另外借來的帳號數量。系統跳出警告，說同一個身分證字號不能買進同一場的兩個座位。我把自己的資料填進第一組，朋友的資料填進第二組，滑鼠停在確認鍵上遲疑了兩秒。送出那刻兩組都通過，只是我怎麼看都覺得像在跟系統玩兩人分飾的把戲。",
+          "editorNote": "想幫朋友多刷一張票，被系統擋下同一張身分證字號限制的那種恍然大悟。",
+          "variations": [
+            "短版：兩組帳號，一組我的一組朋友的。",
+            "延伸版：系統擋下同身分證買兩張，我們分兩組帳號各買各的。"
+          ]
+        },
+        "en": {
+          "content": "Two logins — that's how many extra accounts I borrowed for this one show. The system threw up a warning that one ID number can't hold two seats for the same date. I filled my own info into the first one, my friend's into the second, and hovered over confirm for a good two seconds. The instant I submitted, both went through, though it still felt like I was playing two characters against the same system.",
+          "editorNote": "For that moment of realizing the system blocks two tickets on one ID for the same show, right when you wanted to help a friend.",
+          "variations": [
+            "Short: two logins, one mine, one my friend's.",
+            "Extended: the system blocked one ID from buying two, so we split it into two separate logins."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-443",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.businessweekly.com.tw/style/blog/3022096",
+      "sourceNote": "BIGBANG 大巨蛋加場售票報導，涉及多場次同步開賣的搶票節奏",
+      "tags": [
+        "朋友",
+        "默契",
+        "倒數",
+        "搶票"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「十秒，是我們說好互相截圖比對的間隔。」\n「你那邊卡在哪一秒？我這邊選位圖還沒跳出來。」\n「我的已經跳出付款頁，你先別催我。」\n「兩個人同時按確認，系統會不會只認一個？」\n「不知道，反正我先按了。」\n「按完那一刻我們兩支手機同時震動，各自的畫面都跳出綠勾勾。」",
+          "editorNote": "兩人分別顧不同裝置、靠倒數對答案搶票的默契，寫給組隊搶票的人。",
+          "variations": [
+            "短版：十秒對一次答案，兩支手機同時震動。",
+            "延伸版：說好每十秒互相截圖比對，按完確認那刻兩支手機一起震動。"
+          ]
+        },
+        "en": {
+          "content": "\"Ten seconds — that's the interval we agreed on for cross-checking screenshots.\"\n\"Where are you stuck? My seat map still hasn't loaded.\"\n\"Mine already jumped to the payment page, don't rush me.\"\n\"If we both hit confirm at the same time, will the system only count one?\"\n\"No idea, I already hit it anyway.\"\n\"The second we both finished, our phones buzzed at the same time — both screens popped a green checkmark.\"",
+          "editorNote": "For two friends running separate devices, syncing up by counting down together.",
+          "variations": [
+            "Short: ten-second check-ins, both phones buzzed together.",
+            "Extended: we agreed to cross-check every ten seconds, and the moment we confirmed, both phones buzzed at once."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-444",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://blow.streetvoice.com/59639/",
+      "sourceNote": "台灣實名制售票制度報導，談歌迷需提前熟悉購票流程與工具準備",
+      "tags": [
+        "準備",
+        "分頁",
+        "搶票",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 五個分頁，今天要一起開著的視窗數\n— 登入頁留著待命，不能重新整理\n— 選位圖那頁另外切開\n— 備用帳號用另一個瀏覽器登入\n— 購物車頁面先放著不結\n— 剩一個空白分頁，專門拿來硬重整",
+          "editorNote": "開賣前把電腦分頁一個個佈署好，像做戰前準備的那種儀式感。",
+          "variations": [
+            "短版：五個分頁，一個個排開待命。",
+            "延伸版：登入頁留著待命，選位圖另開，備用帳號再開一個瀏覽器。"
+          ]
+        },
+        "en": {
+          "content": "— Five tabs — that's how many windows stay open today.\n— The login tab waits on standby, never refreshed.\n— The seat-map page gets its own tab.\n— A backup account logs in on a different browser.\n— The cart page just sits there, unpaid.\n— One blank tab left over, purely for hard-refreshing.",
+          "editorNote": "For the ritual of lining up browser tabs one by one before a ticket sale, like prepping for battle.",
+          "variations": [
+            "Short: five tabs, lined up and standing by.",
+            "Extended: login tab waits, seat map opens separate, backup account logs in on another browser."
+          ]
+        }
+      }
     }
   ]
 }
