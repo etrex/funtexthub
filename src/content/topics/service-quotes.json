@@ -13419,6 +13419,82 @@
           "variations": ["Short: The scissors haven't even started, and the floor's already covered in this season's fur.", "Longer: The owner apologizes while picking hair off her own jacket — the dog looks completely unbothered."]
         }
       }
+    },
+    {
+      "id": "svc-488",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://vocus.cc/article/6056140afd89780001d54c13",
+      "sourceNote": "超商店員分享「一百組客人只有五位會說謝謝」的觀察文章改寫，換成熟客固定道謝語成為日常默契的情境。",
+      "tags": ["服務業", "超商", "熟客", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「一樣，謝謝。」他每次結帳只說這三個字，語氣平淡得像唸稿。上個月有一次他忘了說，把飲料放在收銀機前轉身就走，我遲疑了一下才想起要叫住他。他回頭補了那三個字，耳朵有點紅，我才發現少了那句話，其實我會不習慣。",
+          "editorNote": "熟客的招呼常常比對話還好記，超商大夜班尤其如此。",
+          "variations": ["短版：「一樣，謝謝。」少了這三個字，我反而不習慣。", "延伸版：他忘了說那三個字，轉身要走，我遲疑了一下才叫住他。"]
+        },
+        "en": {
+          "content": "“Same as always, thanks.” That's all he ever says at checkout, flat as a script he's read a hundred times. Last month he forgot to say it once, just set his drink down and turned to leave, and it took me two full seconds to call him back. He turned around, added the line, ears a little red, and that's when I noticed how strange it feels without it.",
+          "editorNote": "A regular's greeting is often more memorable than a whole conversation, especially on the overnight shift.",
+          "variations": ["Short: “Same as always, thanks” — leave those words out and something feels off.", "Longer: He turned to leave without saying it, and it took me two seconds to call him back."]
+        }
+      }
+    },
+    {
+      "id": "svc-489",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.mirrormedia.mg/story/20260926edi017",
+      "sourceNote": "手搖飲消費糾紛新聞改寫，換成長期熟客固定點單、店員記住那句話的情境。",
+      "tags": ["服務業", "手搖飲", "熟客", "訂單"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「少冰半糖，可以嗎？」\n「今天想不想試試新的口味？」\n「不用，一樣的就好。」\n「這款要多等十分鐘喔。」\n「沒問題，我不趕時間。」\n「你每次都點一樣的。」\n「怕踩雷，習慣最安全。」",
+          "editorNote": "重複久的訂單會變成默契，手搖飲店員最懂這種節奏。",
+          "variations": ["短版：他每次都點「少冰半糖」，換了新口味反而讓我意外。", "延伸版：他說新的怕踩雷，那句「一樣的就好」原來是他的安全感。"]
+        },
+        "en": {
+          "content": "“Less ice, half sugar — is that okay?”\n“Want to try something new today?”\n“No, the usual's fine.”\n“This one takes ten extra minutes.”\n“No worries, I'm not in a rush.”\n“You always order the same thing.”\n“New ones are a gamble — this is safer.”",
+          "editorNote": "An order repeated long enough turns into a kind of understanding, and bubble tea staff know that rhythm best.",
+          "variations": ["Short: He always orders “less ice, half sugar” — trying something new this time threw me off.", "Longer: He said new flavors are a gamble; that “usual” of his turns out to be his comfort zone."]
+        }
+      }
+    },
+    {
+      "id": "svc-490",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://vocus.cc/article/65085e0dfd89780001292bed",
+      "sourceNote": "髮型設計師分享與熟客互動、銷售溝通經驗的文章改寫，換成同一位客人多年來交代髮型細節的情境。",
+      "tags": ["服務業", "髮廊", "設計師", "熟客"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 瀏海不要剪太短\n— 我皮膚比較薄小力一點\n— 上次的設計師換去哪了\n— 剪短沒關係我會等它長\n— 每個新客人都先講一次習慣\n— 這幾句五年來換了很多次順序\n— 今天她只多說了一句謝謝",
+          "editorNote": "客人交代的話多半大同小異，髮廊設計師卻記得住那個例外。",
+          "variations": ["短版：客人交代的話大同小異，但今天多了一句「謝謝」。", "延伸版：五年來瀏海長度換了很多次，開場白始終沒變過。"]
+        },
+        "en": {
+          "content": "— Not too short on the bangs, please.\n— My skin's sensitive, go easy.\n— Where did the last stylist go?\n— Cut it short, it'll grow back.\n— Every new client says this first.\n— The order's shuffled for five years.\n— Today she added just one thank you.",
+          "editorNote": "Clients tend to say nearly the same things, but a salon stylist remembers the one that broke pattern.",
+          "variations": ["Short: Clients tend to say the same things, but today one of them added a “thank you.”", "Longer: The bangs have changed length a dozen times in five years — the opening line never has."]
+        }
+      }
+    },
+    {
+      "id": "svc-491",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://udn.com/news/story/120911/8110805",
+      "sourceNote": "超商店員怒曝「11項奧客行為」報導改寫，換成電話客服人員接到同類抱怨卻語氣迥異的情境。",
+      "tags": ["服務業", "客服", "電話", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他打來只是要核對月費，問題確認完後只說了句「辛苦你了，這樣就好」，然後掛了電話。我耳機還沒摘下來，同事就問我今天被罵幾通，我搖搖頭說沒有，這通不太一樣。後來翻紀錄才發現，他的原因跟前一通根本相同，只是換了個人接。同一件事換了一種說法，聽起來卻完全不像抱怨。",
+          "editorNote": "抱怨電話聽多了，一句體諒反而最讓客服人員印象深刻。",
+          "variations": ["短版：他只說了句「辛苦你了」，跟前面被罵的那通差太多。", "延伸版：同樣的抱怨換了個人打來，語氣卻差了一截。"]
+        },
+        "en": {
+          "content": "He called just to double-check his monthly bill, and once that was settled he simply said, “Thanks for your patience, that's all I needed,” then hung up. My headset was still on when a coworker asked how many calls had yelled at me today; I shook my head and said this one was different. Pulling up the log later, I found his issue was identical to the one before it — just a different person calling it in. Same issue, different tone, and it didn't sound like a complaint at all.",
+          "editorNote": "After enough angry calls, a single line of understanding is what actually stays with a service rep.",
+          "variations": ["Short: All he said was “thanks for your patience” — nothing like the call before it.", "Longer: The same complaint came in from someone else, but the tone landed completely differently."]
+        }
+      }
     }
   ]
 }

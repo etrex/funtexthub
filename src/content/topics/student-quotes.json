@@ -9556,6 +9556,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "stq-324",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://ioh.tw/articles/ioharticles-%E5%A4%A7%E5%AD%B8%E6%96%B0%E9%AE%AE%E4%BA%BA%E7%89%B9%E8%BC%AF-%E5%88%86%E7%B5%84%E5%A0%B1%E5%91%8A-%E9%9B%B7%E7%B5%84%E5%93%A1",
+      "sourceNote": "IOH 開放個人經驗平台文章談分組報告常見的雷隊友困擾；改寫成兩人在死線前一天對話的場景",
+      "tags": [
+        "分組報告",
+        "死線",
+        "課業",
+        "同學"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你負責的那幾頁做完了嗎？明天要交。」\n「啊，我記錯天數了，我以為是禮拜五。」\n「群組訊息寫的是禮拜三，我還特別標了驚嘆號。」\n「那我現在趕，來得及嗎？」\n「來得及，但封面那張貢獻度表格你自己填。」\n「填多少都可以，先讓我把投影片生出來再說。」",
+          "editorNote": "分組報告永遠有一個記錯死線的人，這則專門送他。",
+          "variations": [
+            "短版：群組訊息寫的是禮拜三，他以為是禮拜五。",
+            "延伸版：封面那張貢獻度表格，他得自己填。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you finish your slides? They're due tomorrow.\"\n\"Oh, I got the day wrong -- I thought it was Friday.\"\n\"The group chat said Wednesday, I even added an exclamation mark.\"\n\"Then I'll rush it now, can I still make it?\"\n\"You can, but you're filling in your own row on the contribution table.\"\n\"Fill in whatever, just let me get the slides done first.\"",
+          "editorNote": "Every group project has someone who gets the deadline wrong -- this one's for them.",
+          "variations": [
+            "Short version: The chat said Wednesday, he thought it was Friday.",
+            "Longer version: He has to fill in his own row on the contribution table."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-325",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.chinatimes.com/newspapers/20150610001028-260306",
+      "sourceNote": "中時報導大學圖書館占位子心態現象；改寫成考試週兩個學生為插座和座位交涉的對話",
+      "tags": [
+        "圖書館",
+        "考試週",
+        "插座",
+        "自習"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你書包占了兩個位置，可以收一下嗎？」\n「另一個是幫朋友占的，他五分鐘後到。」\n「五分鐘我可以等，但插座那格我先借用。」\n「插頭給你，我筆電還有六成電。」\n「考試週的座位比課本還搶手。」\n「所以我昨天七點就來了，今天大概要六點半。」",
+          "editorNote": "考試週的圖書館，插座比座位還搶手。",
+          "variations": [
+            "短版：插座那格先借我，我筆電還有六成電。",
+            "延伸版：考試週的座位，比課本還搶手。"
+          ]
+        },
+        "en": {
+          "content": "\"Your bag's holding two seats -- mind clearing one?\"\n\"The other one's for a friend, he'll be here in five.\"\n\"Five minutes I can wait, but I'm borrowing that outlet spot.\"\n\"Take the plug, my laptop's still at sixty percent.\"\n\"Seats during midterm week are rarer than the textbooks.\"\n\"That's why I showed up at seven yesterday, probably six-thirty today.\"",
+          "editorNote": "During midterm week, the outlet gets fought over harder than the seats.",
+          "variations": [
+            "Short version: Take the outlet spot, my laptop's still at sixty percent.",
+            "Longer version: Seats during midterm week are rarer than the textbooks."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-326",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.nownews.com/news/6872836",
+      "sourceNote": "NOWnews 報導調查顯示大學生打工重視彈性排班勝過時薪；改寫成兩個工讀生互相換班顧課表的對話",
+      "tags": [
+        "打工",
+        "排班",
+        "課表",
+        "工讀"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這禮拜三的班我能不能跟你換？」\n「那天你不是要上課嗎？」\n「教授把週會挪到禮拜三下午，我兩邊都想顧。」\n「那你先跟店長講，我可以幫你代那三小時。」\n「謝了，我用禮拜五的班還你。」\n「先別急著還，你排到考試週再說。」",
+          "editorNote": "同事願意幫忙換班的默契，比排班表本身更難得。",
+          "variations": [
+            "短版：教授把週會挪到禮拜三，他兩邊都想顧。",
+            "延伸版：換班先不用急著還，排到考試週再說。"
+          ]
+        },
+        "en": {
+          "content": "\"Can I swap my Wednesday shift with you?\"\n\"Don't you have class that day?\"\n\"The professor moved our meeting to Wednesday afternoon, I want to cover both.\"\n\"Tell the manager first, I can cover those three hours for you.\"\n\"Thanks, I'll pay you back with my Friday shift.\"\n\"Don't rush to pay it back, wait till midterm week.\"",
+          "editorNote": "A coworker willing to swap shifts is rarer than the schedule itself.",
+          "variations": [
+            "Short version: The professor moved the meeting, so he wants to cover both.",
+            "Longer version: Don't pay the shift back yet, wait till midterm week."
+          ]
+        }
+      }
+    },
+    {
+      "id": "stq-327",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.threads.com/@annnn__yu_____/post/DOB9EPaE1RL",
+      "sourceNote": "Threads 貼文描述大一新生因學長姐優先選課而搶不到必修課；改寫成兩個朋友互相幫忙加簽的對話",
+      "tags": [
+        "選課",
+        "加簽",
+        "必修",
+        "衝堂"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這堂課又被學長姐先選走了。」\n「必修跟通識撞堂，我根本排不出空堂。」\n「你去研究室找老師加簽看看，他人很隨和。」\n「加簽單要親筆簽，他的辦公時間我剛好有課。」\n「那我先幫你去卡位，你晚點再過來補簽名。」\n「太好了，我下課馬上衝過去。」",
+          "editorNote": "選課系統開放的那幾秒，友情就是拿來卡位的。",
+          "variations": [
+            "短版：必修跟通識撞堂，他根本排不出空堂。",
+            "延伸版：加簽單要親筆簽，朋友先幫忙卡位。"
+          ]
+        },
+        "en": {
+          "content": "\"Upperclassmen snagged that class again before I could.\"\n\"My required course collides with a gen-ed, I can't fit either in.\"\n\"Go find the professor's office and ask for an add-slip.\"\n\"It needs a signature in person, and his office hours clash with my class.\"\n\"I'll hold your spot in line, you can come sign it later.\"\n\"Perfect, I'll run over the second class ends.\"",
+          "editorNote": "The few seconds registration opens, friendship is what you use to hold a spot.",
+          "variations": [
+            "Short version: His required course collides with a gen-ed, no slot fits.",
+            "Longer version: A friend holds his spot while he runs to get the signature."
+          ]
+        }
+      }
     }
   ]
 }
