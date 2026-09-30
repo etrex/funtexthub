@@ -15756,6 +15756,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-600",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學語錄整理報導參考，重新創作為機構標準交由當事人臨場認定的語錄",
+      "tags": [
+        "廢話文學",
+        "標準",
+        "日常",
+        "矛盾"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "動物園的告示牌寫著「餵食動物請適量」，適量由當班的飼育員臨場決定。\n眼鏡行師傅量完度數說「這樣戴剛剛好」，剛剛好是還沒模糊、也還沒頭暈的那個範圍。\n加油站員工說「加到自動跳停就是滿」，滿的那個位置，每次都比油表指的再多兩百塊。",
+          "editorNote": "想吐槽「規則講了等於沒講」的時候可以引用",
+          "variations": [
+            "短版：告示牌、驗光單、油表，三個地方都把標準交給了當下那個人。"
+          ]
+        },
+        "en": {
+          "content": "The zoo's sign says \"please feed the animals in moderation,\" and moderation is decided on the spot by whichever keeper is on duty.\nThe optician finishes checking your prescription and says \"that fits just right,\" and just right means the zone between not-yet-blurry and not-yet-dizzy.\nThe gas station attendant says \"full is whenever the nozzle clicks off,\" and the spot where it clicks off always costs about six dollars more than the gauge showed.",
+          "editorNote": "For calling out a rule that explains nothing while sounding official",
+          "variations": [
+            "Short version: The sign, the prescription, and the gauge all hand the standard to whoever happens to be there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-601",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%A5%97%E5%A5%97%E9%82%8F%E8%BC%AF",
+      "sourceNote": "套套邏輯維基條目參考，重新創作為修車廠／郵局／花店規則語錄",
+      "tags": [
+        "廢話文學",
+        "規則",
+        "生活",
+        "矛盾"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「零件費另計」是修車廠估價單上的四個字，領車那天，數字第一次出現在螢幕上。\n郵局窗口的收費表寫著「掛號依重量計價」，重量卻從來沒有被公開秤過一次。\n花店的黑板每天換一次字，今天寫的是「當季看天氣」，天氣圖從沒貼在黑板旁邊。",
+          "editorNote": "吐槽「規則寫得很明確，數字卻永遠事後才出現」的時候可以用",
+          "variations": [
+            "延伸版：估價單、收費表、黑板，寫的都是規則，真正的數字都留到最後一刻。"
+          ]
+        },
+        "en": {
+          "content": "\"Parts extra\" is the four words on the repair shop's quote, and the actual number shows up on the screen for the first time only when you pick up the car.\nThe counter price list at the post office says \"registered mail is priced by weight,\" yet the weight has never once been weighed where you can see it.\nThe flower shop's chalkboard changes every day, and today it says \"goes by the season's weather,\" though no weather chart hangs anywhere near that board.",
+          "editorNote": "For pointing out a rule that sounds precise but the number only shows up afterward",
+          "variations": [
+            "Extended version: The quote, the price list, and the chalkboard all state a rule, but the real number always waits until the very end."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-602",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://www.bnext.com.tw/article/90115/logic-fallacy-communication-tips",
+      "sourceNote": "數位時代職場空話與精準定義報導參考，重新創作為店家告示條列語錄",
+      "tags": [
+        "廢話文學",
+        "清單",
+        "店家",
+        "矛盾"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 麵包店黑板寫出爐看心情\n— 洗車場招牌寫免手洗更乾淨\n— 修鞋攤老闆說耐穿看個人\n— 水族館告示寫餵魚勿過量\n— 唱片行貼紙寫珍藏版限量",
+          "editorNote": "收集各行各業「規定其實是個人感覺」的語錄時可以用",
+          "variations": [
+            "短版：黑板、招牌、貼紙寫的規定，最後都要看那個人當下怎麼想。"
+          ]
+        },
+        "en": {
+          "content": "— The bakery chalkboard says fresh bread depends on mood.\n— The car wash sign says skipping the hand wash gets it cleaner.\n— The shoe repair guy says durability depends on the person.\n— The aquarium sign says don't overfeed the fish.\n— The record store sticker says limited collector's edition.",
+          "editorNote": "For collecting examples where a \"rule\" is actually just personal judgment",
+          "variations": [
+            "Short version: Whatever the chalkboard, the sign, or the sticker says, it all comes down to what that person happens to think."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-603",
+      "dateAdded": "2026-09-30",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E5%BE%AA%E7%92%B0%E8%AB%96%E8%AD%89",
+      "sourceNote": "循環論證維基條目參考，重新創作為早餐店／家電行／咖啡廳規則語錄",
+      "tags": [
+        "廢話文學",
+        "店家",
+        "規則",
+        "矛盾"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店老闆娘邊桿麵團邊說「蛋餅皮現桿現煎」，桿好的那份麵團，其實一次能撐過一整天。\n「人為損壞不理賠」，家電行師傅解釋保固條款時這樣說，人為的認定要等維修單開出來才會知道。\n咖啡廳菜單印著「單品咖啡數量有限」，那個數量從開店到打烊，似乎沒有真正見底過。",
+          "editorNote": "遇到店家規則講得煞有其事、其實什麼都沒說清楚時可以用",
+          "variations": [
+            "延伸版：麵團、保固、咖啡豆，三種規則講得都很篤定，篤定到誰都沒真的驗證過。"
+          ]
+        },
+        "en": {
+          "content": "The breakfast shop owner rolls out dough while saying \"the crepe wrapper is rolled fresh each time,\" though the batch she rolls actually lasts the whole day.\n\"Damage from misuse isn't covered,\" the appliance repairman says while explaining the warranty, and what counts as misuse only gets decided once the repair slip is printed.\nThe café's menu says \"single-origin coffee, limited quantity,\" yet that quantity never seems to actually run out, from opening to close.",
+          "editorNote": "For when a shop's rule sounds official but never actually explains anything",
+          "variations": [
+            "Extended version: The dough, the warranty, and the coffee beans all state their rule with total confidence — confidence nobody has ever actually verified."
+          ]
+        }
+      }
     }
   ]
 }
