@@ -12155,6 +12155,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-435",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.gvm.com.tw/article/133298",
+      "sourceNote": "參考該站整理10月Netflix片單上線消息，改寫成觀眾在客廳用彈力球擋電視反光、追劇追到忘記收的日常。",
+      "tags": [
+        "追劇日常",
+        "室友互動",
+        "自嘲",
+        "追劇心理"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "室友問你，電視機前面那顆彈力球放著不收是要幹嘛？你說是用來擋反光，不然字幕會看不清楚。他又問那不會滾走嗎。你說滾走了就撿回來，目前還沒滾走。",
+          "editorNote": "適合貼在客廳地上擺著彈力球、理由卻很實際的那種追劇畫面。",
+          "variations": [
+            "短版：彈力球留在電視前，真的只是為了擋反光。",
+            "延伸版：你後來把彈力球挪到旁邊一點，角度剛好擋住另一邊的反光，其他理由沒有。"
+          ]
+        },
+        "en": {
+          "content": "Your roommate asks why that bouncy ball is just sitting in front of the TV instead of being put away. You explain it blocks the glare, otherwise the subtitles are hard to read. He asks if it might roll away. You say if it rolls away you'll pick it up, and so far it hasn't.",
+          "editorNote": "For the kind of living room where a bouncy ball sits in plain view for a strictly practical reason.",
+          "variations": [
+            "Short: The bouncy ball stays by the TV purely to block the glare.",
+            "Extended: Later you nudge it a little to one side, just enough to block the glare from the other angle -- no other reason."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-436",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.soocial.com/binge-watching-statistics/",
+      "sourceNote": "參考該站整理追劇行為統計，改寫成小孩撿彈力球、順口問劇情的親子追劇片段。",
+      "tags": [
+        "追劇日常",
+        "親子互動",
+        "自嘲",
+        "追劇心理"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "兒子跑進客廳撿地上的彈力球，順口問你在看什麼。你說是一部講律師打官司的劇，已經看到第十集。他問好看嗎。你說還可以，台詞寫得滿仔細的。他撿完球轉身就跑回房間。",
+          "editorNote": "適合形容追劇追到一半被小孩打斷，還認真回答劇情多仔細的那種反差。",
+          "variations": [
+            "短版：兒子撿球順便問劇情，你還真的認真回答了。",
+            "延伸版：球撿走了，你盯著畫面想了兩秒，繼續往下看第十一集。"
+          ]
+        },
+        "en": {
+          "content": "Your son runs into the living room to grab the bouncy ball off the floor and casually asks what you're watching. You tell him it's a courtroom drama, already on episode ten. He asks if it's good. You say it's decent, the dialogue is pretty carefully written. He picks up the ball and runs straight back to his room.",
+          "editorNote": "For the mid-binge moment a kid interrupts, and you answer about the dialogue quality completely straight-faced.",
+          "variations": [
+            "Short: Your son grabs the ball and asks about the plot, and you actually answer seriously.",
+            "Extended: Ball retrieved, you stare at the screen for two seconds, then keep going into episode eleven."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-437",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://girlstyle.com/tw/article/548286/",
+      "sourceNote": "參考該站整理10月新劇上線資訊，改寫成重複看同一集只為聽清楚一句台詞的追劇習慣。",
+      "tags": [
+        "追劇日常",
+        "重複觀看",
+        "自嘲",
+        "追劇心理"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友問你為什麼同一集看了三遍。你說第一遍沒聽清楚中間那段對話。你把聲音開大，從頭再看一次確認。",
+          "editorNote": "適合那種為了聽清楚一句台詞，把同一集重複看好幾次的習慣。",
+          "variations": [
+            "短版：同一集看三遍，原因只是沒聽清楚一句台詞。",
+            "延伸版：聲音開大之後，你確認那句台詞原來真的只是普通的對話。"
+          ]
+        },
+        "en": {
+          "content": "A friend asks why you watched the same episode three times. You explain that the first time, you missed part of a conversation in the middle. You turn the volume up and watch it again from the start to make sure.",
+          "editorNote": "For the habit of replaying the same episode several times just to catch one line clearly.",
+          "variations": [
+            "Short: Same episode, three times, just because of one line you missed.",
+            "Extended: After turning up the volume, you confirm that line really was just an ordinary piece of dialogue."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-438",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://wifitalents.com/binge-watching-statistics/",
+      "sourceNote": "參考該站整理追劇統計數據，改寫成明知隔天要上班仍把鬧鐘調早、繼續看下一集的日常。",
+      "tags": [
+        "追劇日常",
+        "熬夜追劇",
+        "自嘲",
+        "追劇心理"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "隔天要上班，你還是點了下一集。你把鬧鐘往前調了半小時，想說睡眠少一點沒關係。影集結束的時候，外面天已經有點亮。手機擺在床頭，你直接閉上眼睛。",
+          "editorNote": "適合描述明知隔天要上班，還是把鬧鐘調早一點換取追劇時間的心理。",
+          "variations": [
+            "短版：鬧鐘調早半小時，換來的是多看一集的時間。",
+            "延伸版：劇播完天已經亮了，手機放在旁邊，你直接閉眼睡覺。"
+          ]
+        },
+        "en": {
+          "content": "You have work the next day, but you still click play on the next episode. You move your alarm half an hour earlier, telling yourself a little less sleep is fine. By the time the episode ends, it's already getting light outside. You set your phone on the nightstand and close your eyes.",
+          "editorNote": "For knowingly moving the alarm earlier just to trade that time for one more episode.",
+          "variations": [
+            "Short: Alarm moved half an hour earlier, traded for one more episode.",
+            "Extended: The show ends and it's already light out; phone set aside, you close your eyes and go to sleep."
+          ]
+        }
+      }
     }
   ]
 }

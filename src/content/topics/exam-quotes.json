@@ -14423,6 +14423,126 @@
                     ]
                 }
             }
+        },
+        {
+            "id": "eq-484",
+            "dateAdded": "2026-10-01",
+            "sourceUrl": "https://www.technice.com.tw/work-place/172320/",
+            "sourceNote": "junior-high exam anxiety coverage, rewritten as three campus scene fragments",
+            "tags": [
+                "考前",
+                "熬夜",
+                "讀書",
+                "自嘲"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "書桌的檯燈閃了兩下才亮，考卷壓在講義最下面。\n操場看台的欄杆曬著體育服，一整排都沒收。\n福利社鐵捲門拉到一半，裡面燈還亮著。",
+                    "editorNote": "適合考前熬夜讀書、覺得時間靜止、全世界只剩檯燈亮著的那種疲憊。",
+                    "variations": [
+                        "短版：操場看台的欄杆曬著體育服，一整排都沒收。",
+                        "延伸版：福利社鐵捲門拉到一半，裡面燈還亮著，像誰忘記關。"
+                    ]
+                },
+                "en": {
+                    "content": "The desk lamp flickered twice before it caught, the exam paper still pinned under a stack of review sheets.\nJerseys hang drying on the bleacher rail, the whole row left uncollected.\nThe co-op's shutter is pulled halfway down, the light inside still on.",
+                    "editorNote": "Use for the late-night-before-the-exam grind, when time feels frozen and only the desk lamp is still on.",
+                    "variations": [
+                        "Short: Jerseys hang drying on the bleacher rail, the whole row left uncollected.",
+                        "Extended: The co-op's shutter is pulled halfway down, the light inside still on, like someone forgot to flip it off."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-485",
+            "dateAdded": "2026-10-01",
+            "sourceUrl": "https://www.uho.com.tw/article-66976.html",
+            "sourceNote": "post-exam waiting-for-results stress piece, rewritten as a single-line scene vignette",
+            "tags": [
+                "考前",
+                "拖延",
+                "暑假",
+                "自嘲"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "手機的提醒事項最上面還留著讀書進度。書桌布換成了海邊照片。房間地板躺著一顆洩了氣的泳圈。",
+                    "editorNote": "適合還沒收心、手機裡還留著暑假照片卻已經開始讀書的尷尬階段。",
+                    "variations": [
+                        "短版：書桌布換成了海邊照片。",
+                        "延伸版：手機的提醒事項最上面還留著讀書進度，但已經三天沒打開過。"
+                    ]
+                },
+                "en": {
+                    "content": "The top item on the phone's reminders still says study plan. The desk wallpaper got swapped for a beach photo. A half-deflated swim ring lies on the bedroom floor.",
+                    "editorNote": "Use for that awkward in-between stretch, summer photos still on the phone while studying has already started.",
+                    "variations": [
+                        "Short: The desk wallpaper got swapped for a beach photo.",
+                        "Extended: The top item on the phone's reminders still says study plan, though nobody's opened it in three days."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-486",
+            "dateAdded": "2026-10-01",
+            "sourceUrl": "https://udn.com/news/story/6898/9645473",
+            "sourceNote": "late-night studying / no-motivation report, rewritten as three scene fragments",
+            "tags": [
+                "考場",
+                "考試",
+                "自嘲",
+                "暑假"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "走廊的飲水機又跳電，紅燈閃著沒人理。\n腳踏車籃裡塞著半瓶運動飲料，蓋子沒關緊。\n書包外側口袋露出一小截泳圈的氣嘴蓋。",
+                    "editorNote": "適合考試當天走進校園、注意力飄到一堆無關小細節的恍神感。",
+                    "variations": [
+                        "短版：腳踏車籃裡塞著半瓶運動飲料，蓋子沒關緊。",
+                        "延伸版：走廊的飲水機又跳電，紅燈閃著，沒人想去修。"
+                    ]
+                },
+                "en": {
+                    "content": "The hallway water cooler trips again, its red light blinking with nobody around.\nA half-empty sports drink sits wedged in the bike basket, cap not quite closed.\nA corner of a swim ring's valve cap pokes out of the backpack's side pocket.",
+                    "editorNote": "Use for exam-day arrival, attention drifting to a bunch of unrelated tiny details.",
+                    "variations": [
+                        "Short: A half-empty sports drink sits wedged in the bike basket, cap not quite closed.",
+                        "Extended: The hallway water cooler trips again, its red light blinking, and nobody bothers fixing it."
+                    ]
+                }
+            }
+        },
+        {
+            "id": "eq-487",
+            "dateAdded": "2026-10-01",
+            "sourceUrl": "https://udn.com/news/story/6898/9582301",
+            "sourceNote": "exam-season parent/school commentary, rewritten as a six-line campus snapshot list",
+            "tags": [
+                "考場",
+                "考試",
+                "廢文",
+                "校園"
+            ],
+            "i18n": {
+                "zh-tw": {
+                    "content": "— 教室日光燈換了一支新的\n— 操場司令台階梯積著落葉\n— 合作社冰箱貼著手寫菜單\n— 走廊布告欄少了一張海報\n— 腳踏車棚多了一輛沒上鎖\n— 窗台放著翻到一半的參考書",
+                    "editorNote": "適合用在考後校園巡禮，列出那些考試結束才注意到的小變化。",
+                    "variations": [
+                        "短版：合作社冰箱貼著手寫菜單。",
+                        "延伸版：走廊布告欄少了一張海報，釘子還留在原位。"
+                    ]
+                },
+                "en": {
+                    "content": "— The classroom fluorescent tube got replaced with a new one.\n— Dead leaves pile up on the podium steps at the field.\n— The co-op fridge has a handwritten menu taped to it.\n— The hallway board is missing one of its posters.\n— An extra bike sits unlocked in the bike shed.\n— A reference book lies open halfway on the windowsill.",
+                    "editorNote": "Use for an after-exam campus walk-through, noticing the small things that changed while nobody was looking.",
+                    "variations": [
+                        "Short: The co-op fridge has a handwritten menu taped to it.",
+                        "Extended: The hallway board is missing one of its posters, the pin still stuck in the wall."
+                    ]
+                }
+            }
         }
   ]
 }
