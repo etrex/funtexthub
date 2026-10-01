@@ -13389,3 +13389,32 @@ Sources: [Know Your Meme：The Weekly Meme Roundup（Kinda Chic trend）](https:
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[華視新聞：Threads瘋傳「小英香菇」](https://news.cts.com.tw/cts/life/202608/202608063064215.html)｜[Mobile01：2025-2026台灣網絡流行語精選](https://www.mobile01.com/topicdetail.php?f=37&t=7251111)｜[Look Pretty：觸爛、M3、各各 2026年輕人網路流行用語](https://look.s3.com.tw/look/outfit/tff1g4/page/25872)｜[Yahoo：聽得懂才算潮 2026必會網路流行語8條](https://tw.news.yahoo.com/%E8%81%BD%E5%BE%97%E6%87%82%E6%89%8D%E7%AE%97%E6%BD%AE-2026%E5%BF%85%E6%9C%83%E7%B6%B2%E8%B7%AF%E6%B5%81%E8%A1%8C%E8%AA%9E8%E6%A2%9D-172656247.html)｜[Know Your Meme：The Weekly Meme Roundup（Wawario, Jean Phil, Blocking The Street）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-wawario-jean-phil-blocking-the-street-and-more)｜[NapoleonCat：Top Trending Memes (September 2026)](https://napoleoncat.com/blog/trending-memes/)｜[knowyourmeme：NGL I'ma Take A Nap LMK](https://knowyourmeme.com/memes/ngl-ima-take-a-nap-lmk)｜[wisdom-life：2026年重陽節日期由來習俗](https://wisdom-life.in/calendar/lunar-festival/%E9%87%8D%E9%99%BD%E7%AF%80)
+
+## 2026-10-01 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-22～09-30：186/193/178/168/168/168/168/189/168（42 檔）⇒ 正常，未停擺。最近 commit：`content: maintenance update 2026-09-30`／`content: daily update 2026-09-30 (batch 1-9/9)`。git status 乾淨。本次未重測分發層／DNS／404（沿用 09-24 狀態）。
+
+### 好市多熟食區候選：結案（放棄）
+- 09-29/09-30 記錄的指派窗口（9/30 生效前）已過，逐檔核對 09-30 當日新增項目（`diet-quotes.json` dt-526～529、`holiday-jokes.json` hj-548～551）內容為天氣轉涼／萬聖節／元旦場景，**均非會員卡新制角度**；精確詞 `熟食區` 命中仍只有舊的 dt-398（08-21）與 hj-144（05-29）兩則。⇒ 依 09-29 記錄的裁決規則（「若今日 daily-update 仍未指派，明日起建議直接放棄，時效已過」），本候選自今日起**放棄**，不再追蹤。
+
+### New Topic Recommendations
+本次掃描（Threads 本週熱梗、台灣網路流行語、Know Your Meme 10 月週報、TikTok trending memes）**無新增白地**，逐項核對如下：
+
+1. **🔴 不新增：「高麗菜煮蛋那桌」**——語料 `高麗菜` 63 則／9 檔已飽和（09-30 已記錄）。
+2. **🔴 不新增：「YBSG」（蔡英文留言引爆的日文辣妹用語「やばすぎ」）**——語料 `YBSG` 13 則已在 `slang-quotes.json` 覆蓋；詞義本身與留言者身分無關，非政治哏，但已非白地。
+3. **🔴 不新增：本週其餘中文候選詞全數已覆蓋**——`VEN` 3 則／3 檔、`硬控` 44 則／4 檔、`暈爛` 38 則／2 檔、`不嘻嘻` 32 則／1 檔、`各各` 15 則／1 檔、`破防` 38 則／6 檔、`泉` 75 則／24 檔，逐一查核均已覆蓋（`留友看` 09-27 已記錄飽和）。
+4. **🔴 不新增：英文側「Eggs After 11」（Klay Thompson gay edits）**——查證後為 NBA 球星真人剪輯＋電視劇《Ted》台詞混剪，涉及真人肖像與需影片畫面才成立的笑點結構，同 08-28 記錄的「真人/實況主哏不適合本站」排除原則。
+5. **🔴 不新增：Know Your Meme 10 月週報其餘詞條**（Dany Slicer、Camila Parker、Clavicular Frame Mogged、7x7=49、Real Estate Fish Edits、Nuggets Ain't Ready、Steel Ball Run、Egg McBig、Rod Wave's Arby's Takeover、Sykkuno Edits、Monster House、Doorbell Chud、Hound Dog、Bedtime Stacking）与 TikTok 側（RAHHHH Skeleton、SpongeBob 迷因音效、Say Wallahi、City Boy、Doot Doot (6 7)、Vexbolts、M to the B）——逐條詞條名稱辨識，均綁定特定真人/實況主片段、電玩角色（Steel Ball Run 為 JoJo 系列）、或需配合影片畫面/音效才成立的格式，脫離影片脈絡文字化後無笑點，不建議指派。
+
+### Content Trends
+- 本週英文迷因生態延續 09-28/09-29/09-30 連續三週記錄的「真人實況主/網紅片段 + 動畫或遊戲 IP」主流格式，10 月週報全數詞條皆屬此類，**連續第四週英文側零新增白地**，顯示此軸的邊際新增空間已趨近於零；後續英文側掃描建議降低頻率或改查「句式/造句模板」類（如 09-29 的 Kinda chic to… / Imagine hating on…）而非逐詞追熱梗。
+- 中文側飽和模式不變：本週掃到的所有候選詞幾乎都已在過去 2–4 週內被既有語料（多為 `slang-quotes.json`）吸收，顯示 generator 自行吸收熱詞的速度持續快於研究任務登錄速度。
+
+### Existing Topic Updates
+- 沿用中候選（狀態皆未變，皆為長效概念、無時效壓力）：KitKat 劫案哏（0/0，第 9 天）、「不知道，我的身材很曼妙」（0/0，第 8 天）、比奇堡開運桌布（0/0，第 6 天）、《尼古喵喵》貓漫畫（0/0，第 6 天，IP 風險維持低優先）、英文「Kinda chic to…」句式（0/0，第 3 天）、英文「Imagine hating on…」句式（0/0，第 3 天，句式類，作既有項目寫作手法參考不需獨立開檔）。
+- **🔴 好市多熟食區候選本日結案放棄**（見上）。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[華視新聞：蔡英文留言YBSG解答曝光](https://news.cts.com.tw/cts/life/202606/202606053040145.html)｜[風傳媒：YBSG是什麼意思？2026最紅流行語誕生](https://www.storm.mg/lifestyle/11138700)｜[Mobile01：2025-2026台灣網絡流行語精選](https://www.mobile01.com/topicdetail.php?f=37&t=7251111)｜[Know Your Meme：The Great Meme Reset of 2026](https://knowyourmeme.com/memes/the-great-meme-reset-of-2026)｜[Know Your Meme：The Weekly Meme Roundup（7x7=49, Eggs After 11, Real Estate Fish Edits）](https://trending.knowyourmeme.com/editorials/guides/the-weekly-meme-roundup-7x749-eggs-after-11-real-estate-fish-edits-and-more)｜[Know Your Meme：What Is The 'Eggs After 11' Meme](https://trending.knowyourmeme.com/editorials/guides/what-is-the-eggs-after-11-meme-the-klay-thompson-edits-that-allegedly-got-one-tiktoker-a-cease-and-desist-letter-explained)｜[Know Your Meme：Weekly Roundup（Nuggets Ain't Ready, Steel Ball Run, Egg McBig）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-nuggets-aint-ready-steel-ball-run-egg-mcbig-and-more)｜[Know Your Meme：Weekly Roundup（Doorbell Chud, Hound Dog, Bedtime Stacking）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doorbell-chud-hound-dog-bedtime-stacking-and-more)
