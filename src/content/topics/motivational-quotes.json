@@ -15409,6 +15409,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-569",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.managertoday.com.tw/articles/view/55861",
+      "sourceNote": "原創角度：借用「習慣規則設計表」先寫清單再行動的概念，改寫成出發前不等心情到位、用物品清單代替心理準備的通知便條。",
+      "tags": [
+        "勵志",
+        "行動力",
+        "開始",
+        "自我對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "出發日：訂在這個星期六\n要帶的東西：水壺、防曬乳、一張野餐墊\n不等的東西：心情、靈感、剛剛好的時間\n行前檢查：鞋帶綁緊，人先出門\n備好就走，沒備好也走",
+          "editorNote": "給一直在等『準備好』才出發的人——清單寫出來，缺的東西用腳補上。",
+          "variations": [
+            "短版：清單列完，心情沒列進去，照樣出發。",
+            "延伸版：出發這件事，從來不等誰準備好。"
+          ]
+        },
+        "en": {
+          "content": "Departure date: this Saturday, final answer.\nBring: a water bottle, sunscreen, one picnic mat.\nNot waiting on: the right mood, inspiration, perfect timing.\nPre-check: lace up, then walk out the door.\nReady or not, the trip leaves anyway.",
+          "editorNote": "For anyone stuck waiting to feel 'ready' before they leave: write the list, let your feet cover whatever's missing.",
+          "variations": [
+            "Short version: the list is done, the mood isn't on it, going anyway.",
+            "Extended: leaving was never waiting on anyone to feel ready."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-570",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://medium.com/@wylin/best-tips-for-creating-new-habits-45cd65eca509",
+      "sourceNote": "原創角度：借用「把截止日綁在想做的事前面」的習慣設計概念，改寫成把交稿日綁在野餐那天早上的便條故事。",
+      "tags": [
+        "勵志",
+        "堅持",
+        "習慣",
+        "自我對話"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "門板內側貼著一張紙，字很潦草：書稿要在野餐那天早上八點前寄出。\n野餐墊被捲好塞進背包側袋，像在旁邊盯著進度。\n紙條撕下來的那天，背包已經先收好，稿子也是。",
+          "editorNote": "給老是把截止日往後拖的人——把它綁在一件想做的事前面，拖延就沒地方躲。",
+          "variations": [
+            "短版：截止日綁在野餐前，稿子自己就追上了。",
+            "延伸版：想做的事排在前面，該做的事會自己跟上。"
+          ]
+        },
+        "en": {
+          "content": "Taped inside the door, in messy handwriting: manuscript due 8am, the morning of the picnic.\nThe picnic mat gets rolled up and shoved into the backpack's side pocket, like it's keeping tabs on progress.\nThe day the note comes down, the backpack is already packed. So is the manuscript.",
+          "editorNote": "For anyone who always pushes deadlines back: tie it to something you actually want to do, and procrastination runs out of places to hide.",
+          "variations": [
+            "Short version: tie the deadline to the picnic, and the manuscript catches up on its own.",
+            "Extended: put the thing you want to do first, and the thing you have to do follows."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-571",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.playpcesor.com/2018/03/habit-Lean-Canvas.html",
+      "sourceNote": "原創角度：借用「習慣設計表」的進度視覺化概念，改寫成自己簽收的工地進度牌，把改掉拖延症比喻成蓋房子。",
+      "tags": [
+        "勵志",
+        "成長",
+        "行動力",
+        "心態"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "工地名稱：自己\n施工項目：把拖延症拆掉重蓋\n目前進度：七成，牆已經立起來了\n完工日：不設死線，但每天要有人在工地\n本告示牌由自己簽收，不接受代理",
+          "editorNote": "給覺得『完工』還遙遙無期的人——進度牌先立起來，即使還沒蓋好。",
+          "variations": [
+            "短版：進度七成，牌子先掛上去。",
+            "延伸版：工程還沒完工，但工地每天有人在。"
+          ]
+        },
+        "en": {
+          "content": "Site name: Me.\nProject: tearing down procrastination, rebuilding from scratch.\nProgress so far: 70%, the walls are up.\nCompletion date: no deadline set, but someone has to show up on site every day.\nThis sign is self-certified. No proxies accepted.",
+          "editorNote": "For anyone who feels like 'finished' is nowhere in sight: put the progress sign up first, even before the building is done.",
+          "variations": [
+            "Short version: 70% done, sign goes up anyway.",
+            "Extended: the project isn't finished, but someone's on site every day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-572",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://vocus.cc/article/69f57b25fd897800012f5072",
+      "sourceNote": "原創角度：借用「存錢進度視覺化」的理財心得，改寫成貼在罐子上的自由基金標籤，把達成目標的獎勵換成一次什麼都不做的河堤野餐。",
+      "tags": [
+        "勵志",
+        "累積",
+        "耐心",
+        "自我照顧"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "罐子標籤：自由基金\n到期日：存到可以請自己放一天假\n目前進度：還差一點點，但看得到罐底的那層\n達成那天要做的事：帶野餐墊去河堤，什麼都不做\n沒人核准，自己蓋章",
+          "editorNote": "給把休息當成要申請許可的人——罐子存滿那天，自己批准自己放假。",
+          "variations": [
+            "短版：罐子快滿了，假先排進行事曆。",
+            "延伸版：休息不必誰同意，存夠了就放。"
+          ]
+        },
+        "en": {
+          "content": "Jar label: Freedom Fund.\nDue date: whenever there's enough saved for one guilt-free day off.\nProgress: not quite there, but the bottom of the jar is finally visible.\nWhat happens on that day: pack the picnic mat, head to the riverbank, do nothing.\nNo approval needed. Self-stamped.",
+          "editorNote": "For anyone who treats resting like it needs permission: the day the jar fills up, you're the one who signs off.",
+          "variations": [
+            "Short version: jar's almost full, the day off is already on the calendar.",
+            "Extended: rest doesn't need anyone's approval, just enough saved up."
+          ]
+        }
+      }
     }
   ]
 }

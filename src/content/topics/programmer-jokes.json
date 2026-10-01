@@ -16074,6 +16074,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-586",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Talking_stick",
+      "sourceNote": "talking stick 傳統改寫成站立會議的沙鈴傳遞規則",
+      "tags": [
+        "站立會議",
+        "團隊文化",
+        "沙鈴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 站立會議的規矩，誰拿著沙鈴誰才能說話。\n— 說完就把沙鈴丟給下一個人。\n— 有人抱著沙鈴講了九分鐘。\n— 那九分鐘都在解釋昨天改的一個分號。\n— 沙鈴邊緣被捏到掉漆，只剩金屬殼。\n— 現在大家搶著先拿到，拿到就想趕快丟掉。",
+          "editorNote": "想營造站立會議規矩的荒謬感時用，帶一點無奈。",
+          "variations": [
+            "短版：拿到沙鈴才能講話，講完要馬上傳下去。",
+            "延伸版：那顆沙鈴比半數工程師待得都久。"
+          ]
+        },
+        "en": {
+          "content": "— House rule at standup: whoever holds the maraca talks.\n— Pass it to the next person when you're done.\n— Someone once held onto it for nine minutes straight.\n— All nine minutes were about one semicolon from yesterday.\n— The maraca's edges are worn bare from being gripped.\n— Now everyone races to grab it first, just to hand it off fast.",
+          "editorNote": "For a team that half-jokingly enforces its own standup rules.",
+          "variations": [
+            "Short version: hold the maraca, you get to talk, then pass it on.",
+            "Extended: that maraca has outlasted half the engineers here."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-587",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://programmerhumor.io/memes/commit-messages",
+      "sourceNote": "commit 訊息逐步升級的迷因改寫成三年後回頭查 blame 的情境",
+      "tags": [
+        "Git",
+        "commit message",
+        "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— commit 訊息從「修 bug」寫起。\n— 接著變成「這次應該真的修好了」。\n— 最後退化成「我也不知道為什麼這樣就好了」。\n— 三年後出包，回頭查 blame。\n— 作者是三年前的自己。\n— 那則訊息底下，還留著一句髒話，現在完全看得懂。",
+          "editorNote": "貼給那種回頭查 git blame 查到自己的人。",
+          "variations": [
+            "短版：三年前的 commit 訊息，現在讀起來句句都懂。",
+            "延伸版：查 blame 查到最後，兇手永遠是自己。"
+          ]
+        },
+        "en": {
+          "content": "— The commit message starts as \"fixed the bug.\"\n— Then escalates to \"this should really fix it.\"\n— And finally collapses into \"not sure why but it works now.\"\n— Three years later it breaks, and someone runs blame.\n— The author is you, from three years ago.\n— Under that message sits one swear word, and it reads perfectly clear now.",
+          "editorNote": "For anyone who's run git blame and found their own name.",
+          "variations": [
+            "Short version: a three-year-old commit message, and every word still lands.",
+            "Extended: run blame long enough and the culprit is always you."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-588",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://leaddev.com/culture/4-rituals-that-revolutionized-my-engineering-teams",
+      "sourceNote": "工程團隊慶祝儀式文章改寫成部署成功搖沙鈴的情境",
+      "tags": [
+        "部署",
+        "團隊儀式",
+        "沙鈴"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 部署成功時，團隊會搖一下沙鈴。\n— 部署失敗時，沙鈴被塞進抽屜最底層。\n— 上週五那次，連搖了三下才敢關電腦。\n— 前兩下是心虛，第三下才是真的穩了。\n— 新同事以為那是吉祥物。\n— 沙鈴旁邊現在貼著一張紙條：先看完 log 再搖。",
+          "editorNote": "給那種部署完要盯著錯誤訊息看五分鐘才敢放心的人。",
+          "variations": [
+            "短版：部署穩了才敢搖沙鈴，搖太早會心虛。",
+            "延伸版：沙鈴搖幾下，就是團隊當天的信心指數。"
+          ]
+        },
+        "en": {
+          "content": "— When a deploy lands clean, the team gives the maraca a shake.\n— When it fails, the maraca goes into the bottom drawer.\n— Last Friday it took three shakes before anyone closed their laptop.\n— The first two were nerves, the third one meant it actually held.\n— New hires assume it's just a mascot.\n— Someone taped a note next to it: check the logs before you shake it.",
+          "editorNote": "For the team that stares at logs for five minutes after every deploy.",
+          "variations": [
+            "Short version: shake the maraca only once the deploy actually holds.",
+            "Extended: how many shakes it gets is basically the team's confidence score."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-589",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Temporary_variable",
+      "sourceNote": "temporary variable 條目改寫成命名逐步升級、兩年後沒人敢動的情境",
+      "tags": [
+        "命名",
+        "Legacy Code",
+        "重構"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 暫時的變數先取名叫 temp。\n— temp 被占用，改叫 temp2。\n— 後來變成 temp_final。\n— 再後來變成 temp_final_v2_真的。\n— 兩年過去，那支檔案還在，名字也還在。\n— 沒有人敢重構，因為沒人查得出它接到哪裡。",
+          "editorNote": "給那種打開 legacy 檔案瞬間後悔點進來的人。",
+          "variations": [
+            "短版：temp_final_v2_真的，兩年後依然活著。",
+            "延伸版：越暫時的名字，活得越久，沒人敢動它。"
+          ]
+        },
+        "en": {
+          "content": "— The temporary variable starts out as temp.\n— temp is taken, so it becomes temp2.\n— Later it turns into temp_final.\n— Then into temp_final_v2_forreal.\n— Two years on, the file's still there, and so is the name.\n— Nobody dares refactor it, because nobody can trace what it's wired to.",
+          "editorNote": "For the moment you open a legacy file and immediately regret it.",
+          "variations": [
+            "Short version: temp_final_v2_forreal, still alive two years later.",
+            "Extended: the more temporary the name, the longer it survives untouched."
+          ]
+        }
+      }
     }
   ]
 }
