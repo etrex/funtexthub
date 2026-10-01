@@ -12588,6 +12588,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-445",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://news.tvbs.com.tw/entertainment/2662582",
+      "sourceNote": "TVBS 報導 KKTIX 搶票攻略，提及選位與付款畫面皆有保留倒數時間",
+      "tags": [
+        "倒數",
+        "訂單",
+        "搶票",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "到期時間：晚上十一點五十九分\n倒數：只剩四十分鐘\n要做的事：選好付款方式、按下確認鍵\n超過這個時間，位子就退回系統，換下一個人撿走\n我把手機立在書桌上，畫面設成常亮，右手食指懸在確認鍵上方遲遲沒按下去",
+          "editorNote": "適合寫給在深夜倒數結帳、不敢鬆手機的那種緊繃。",
+          "variations": [
+            "短版：倒數四十分鐘，手指懸在確認鍵上不敢按。",
+            "延伸版：畫面設成常亮，食指懸在確認鍵上方，倒數跳到個位數才按下去。"
+          ]
+        },
+        "en": {
+          "content": "Deadline: 11:59 pm tonight\nCountdown: 40 minutes left\nWhat to do: pick a payment method, then hit confirm\nMiss this window and the seat drops back into the system for the next person to grab\nI prop the phone against the desk, screen set to stay on, index finger hovering over confirm without coming down",
+          "editorNote": "For that tense late-night countdown before a ticket hold expires, phone in hand, afraid to look away.",
+          "variations": [
+            "Short: forty minutes left, finger frozen above confirm.",
+            "Extended: screen set to stay on, finger hovering over confirm until the countdown hits single digits."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-446",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.livenation.com.tw/twice-tpe",
+      "sourceNote": "Live Nation 台灣官方入場辦法頁面，說明搖滾區依序整隊入場的規則",
+      "tags": [
+        "過夜",
+        "佔位",
+        "裝備",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "紙條貼在柱子上，寫著晚上九點就有人開始占位置。帶的東西列一列：睡袋、保溫瓶、充電器，還有一副潛水鏡，擋夜裡的露水比什麼都好用。清晨六點保全巡場數到第三十個人，就在柱子旁貼出公告，寫明早上八點準時開始換證。",
+          "editorNote": "寫給前一晚就到票口外佔位置、靠裝備撐過一整夜的人。",
+          "variations": [
+            "短版：潛水鏡用來擋夜裡的露水，比雨傘管用。",
+            "延伸版：清晨六點保全數到第三十個人，就貼出換證公告。"
+          ]
+        },
+        "en": {
+          "content": "A note taped to the pillar says someone's already been holding a spot since nine at night. The gear list: a sleeping bag, a thermos, a charger, and a pair of swim goggles — nothing beats them for keeping the night dew out of your eyes. By six in the morning, once thirty people have gathered, security tapes a fresh notice to the same pillar: badge exchange starts sharp at eight.",
+          "editorNote": "For the ones who show up the night before and camp out on gear alone to hold their spot.",
+          "variations": [
+            "Short: swim goggles for the night dew, better than any umbrella.",
+            "Extended: once security counts thirty people at six a.m., a new badge-exchange notice goes up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-447",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.tmc.taipei/tw/service/Unit-rE8OU",
+      "sourceNote": "臺北流行音樂中心官網失物招領頁面，說明拾獲物品的保管與領取方式",
+      "tags": [
+        "遺失物",
+        "安檢",
+        "失物招領",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "遺失物公告：一副黑色潛水鏡\n拾獲地點：西側入口安檢口\n外觀：鏡片邊緣貼著主辦單位的螢光貼紙\n認領方式：到服務台報上今天看的場次就能領走\n沒人認領的話，表演結束滿三天就轉交給清潔隊處理",
+          "editorNote": "寫給入場安檢弄丟隨身小物、最後只能碰運氣去問的那種懊惱。",
+          "variations": [
+            "短版：一副黑色潛水鏡，鏡片邊緣貼著螢光貼紙。",
+            "延伸版：拾獲地點在西側安檢口，三天沒人領就轉給清潔隊。"
+          ]
+        },
+        "en": {
+          "content": "Lost item notice: one black pair of swim goggles\nFound at: the west entrance security checkpoint\nDescription: a glow sticker from the promoter still stuck to the edge of the lens\nTo claim: go to the info desk and name today's show\nUnclaimed after three full days past the show, and it goes to the cleaning crew",
+          "editorNote": "For the mild panic of losing something small at security and hoping it turns up at the info desk.",
+          "variations": [
+            "Short: one black pair of swim goggles, a glow sticker stuck to the lens edge.",
+            "Extended: found at the west checkpoint, handed to the cleaning crew if unclaimed after three days."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-448",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://support.kktix.com/hc/zh-tw/articles/24387316212121-KKTIX-APP-%E6%96%B0%E5%8A%9F%E8%83%BD-%E8%BD%89%E8%AE%93%E9%9B%BB%E5%AD%90%E7%A5%A8%E5%88%B8%E7%99%BB%E5%A0%B4%E5%9B%89",
+      "sourceNote": "KKTIX 官方支援文件，說明 APP 內電子票券轉讓功能與接收期限",
+      "tags": [
+        "轉讓",
+        "棄票",
+        "到期",
+        "演唱會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "票卡轉讓到期日寫在信封背面，只給到今晚八點。錯過那個時間點，系統就直接把座位算成棄票，連退都退不了。我把信封拿去給在早餐店打工的表哥幫忙蓋章做見證，他看了日期直說只剩兩小時。蓋完章那一刻，信封被他隨手丟進抽屜，動作比我想像中隨便很多。",
+          "editorNote": "寫給幫忙轉讓票卡、卡在最後兩小時才去蓋章見證的那種手忙腳亂。",
+          "variations": [
+            "短版：轉讓到期日只給到今晚八點，錯過就直接算棄票。",
+            "延伸版：表哥幫忙蓋章見證那一刻，信封被他隨手丟進抽屜。"
+          ]
+        },
+        "en": {
+          "content": "The transfer deadline is written on the back of the envelope — eight tonight, no later. Miss that window and the system marks the seat forfeited, no refund possible. I bring the envelope to my cousin, who works the morning shift at a breakfast shop, and ask him to stamp it as a witness; he glances at the date and says there's only two hours left. The second the stamp lands, he tosses the envelope into a drawer without a second thought, far more careless than I expected.",
+          "editorNote": "For the last-minute scramble to get a ticket transfer witnessed before the cutoff.",
+          "variations": [
+            "Short: the transfer deadline is eight tonight, miss it and the seat's forfeited.",
+            "Extended: the moment my cousin stamps it as witness, he tosses the envelope into a drawer without a second thought."
+          ]
+        }
+      }
     }
   ]
 }
