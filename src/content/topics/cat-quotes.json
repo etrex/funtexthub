@@ -15900,6 +15900,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "ct-539",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.catster.com/lifestyle/cat-claw-facts-anatomy/",
+      "sourceNote": "Cat claw anatomy overview: the outer claw is a keratin sheath covering the quick, shed periodically to reveal a sharper layer underneath.",
+      "tags": [
+        "貓咪",
+        "指甲",
+        "構造"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 貓爪縮回去的時候\n— 趾尖外層先鎖上一圈角質保護殼\n— 走路時磨損的只有外層\n— 整片保護殼會定期蛻換\n— 掀開的那層底下更鋒利\n— 伸懶腰時殼先鬆開尖端才伸出",
+          "editorNote": "帶出貓爪角質保護殼的蛻換機制，用伸懶腰的日常動作收尾，適合貓咪身體構造小知識。",
+          "variations": [
+            "短版：貓爪尖端外面包著一層會定期換掉的角質殼。",
+            "延伸版：走路磨損的是保護殼表面，裡面那層其實更鋒利。"
+          ]
+        },
+        "en": {
+          "content": "— When the claw retracts,\n— the tip locks under a ring of keratin shell first.\n— Only that outer layer wears down when it walks.\n— The whole shell sheds and gets replaced on a cycle.\n— What's underneath is sharper than what wore off.\n— Mid-stretch, the shell loosens first, and the tip slides out after.",
+          "editorNote": "Explains how a cat's claw sheds its keratin shell on a cycle, wrapped around an everyday stretch -- a nice bite of cat-anatomy trivia.",
+          "variations": [
+            "Short version: A cat's claw tip is wrapped in a keratin shell that gets replaced on a cycle.",
+            "Extended version: The outer shell takes the wear from walking -- what's underneath is actually sharper."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-540",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://cats.com/best-cat-carrier",
+      "sourceNote": "Cat carrier buying guide noting that very few carriers, hard or soft, pass independent crash tests from the Center for Pet Safety; crash-tested hard-shell models need anchor straps to hold up.",
+      "tags": [
+        "貓咪",
+        "外出籠",
+        "安全"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 市面上的外出籠大多是軟殼\n— 通過碰撞測試的硬殼款少之又少\n— 認證機構會模擬行車中的緊急煞車\n— 硬殼內部還要搭配固定扣環\n— 行李廂裡滑動時衝擊力相當驚人\n— 硬殼其實就是貓咪的移動保護殼",
+          "editorNote": "說明硬殼外出籠通過碰撞測試的設計重點，從軟殼對比切入，適合討論貓咪外出安全用品。",
+          "variations": [
+            "短版：通過碰撞測試的外出籠很少，硬殼款更是少數。",
+            "延伸版：硬殼外出籠內部還得搭配扣環固定，才撐得住行車中的衝擊。"
+          ]
+        },
+        "en": {
+          "content": "— Most carriers on the market are soft-sided.\n— Hard-shell ones that pass a crash test are rare.\n— The certifying lab simulates a hard emergency stop.\n— A hard shell still needs straps to anchor it down.\n— A carrier sliding loose in the trunk hits with real force.\n— A hard shell is basically a portable protective case for your cat.",
+          "editorNote": "Walks through why crash-tested hard-shell carriers are rare, starting from a soft-shell comparison -- useful for a pet travel safety post.",
+          "variations": [
+            "Short version: Very few carriers, hard or soft, actually pass a crash test.",
+            "Extended version: A hard-shell carrier still needs anchor straps -- that's what holds up under a sudden stop."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-541",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.dvm360.com/view/whisker-fatigue-did-pet-bowl-companies-invent-feline-malady",
+      "sourceNote": "dvm360 piece on whisker fatigue: the term originated with bowl manufacturers, and a JFMS study found a shallow-dish preference but no change in eating time or amount dropped.",
+      "tags": [
+        "貓咪",
+        "鬍鬚",
+        "迷思"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 鬍鬚疲勞這個說法最早來自碗具廠商\n— 深窄的碗讓鬍鬚兩側一直磨到碗壁\n— 有研究做了淺盤跟深碗的對照實驗\n— 貓咪進食的時間跟吃掉的量沒有差多少\n— 兩個碗擺在一起貓咪比較常選淺盤\n— 選了淺盤之後吃相並沒有跟著變好",
+          "editorNote": "聚焦鬍鬚疲勞說法的真實驗證結果，呈現深碗淺盤的對照實驗，適合貓咪飲食器具的迷思釐清。",
+          "variations": [
+            "短版：鬍鬚疲勞是碗具廠商先提出的說法，研究目前沒有找到實證。",
+            "延伸版：淺盤深碗放在一起讓貓咪選，牠們選淺盤，但吃相沒有變好。"
+          ]
+        },
+        "en": {
+          "content": "— The term \"whisker fatigue\" started with bowl makers, not vets.\n— A deep, narrow bowl rubs both sides of the whiskers constantly.\n— One study compared a shallow dish against a deep bowl.\n— Eating time and the amount eaten barely changed either way.\n— Given both side by side, cats did lean toward the shallow dish.\n— Picking the shallow dish didn't actually clean up the mess.",
+          "editorNote": "Lays out what the research actually found on 'whisker fatigue' and shallow dishes -- good for debunking a popular pet-product myth.",
+          "variations": [
+            "Short version: Whisker fatigue was a bowl-industry term before it was ever a vet diagnosis.",
+            "Extended version: Cats leaned toward the shallow dish when given a choice, but it didn't change how messy they ate."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ct-542",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://vcahospitals.com/know-your-pet/why-do-cats-have-whiskers",
+      "sourceNote": "VCA Hospitals overview of whisker function: whisker follicles are dense with blood vessels and nerves, can link to up to 200 neurons, and include proprioceptors that sense body position.",
+      "tags": [
+        "貓咪",
+        "鬍鬚",
+        "神經"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 鬍鬚的根部埋得比一般毛髮深三倍\n— 根部周圍密密麻麻纏著微血管和神經\n— 一根鬍鬚牽動的神經可以到兩百條\n— 空氣稍微流動鬍鬚就會先抖一下\n— 根部那叢神經還兼著感知身體姿勢\n— 身體歪一邊鬍鬚會比眼睛先知道",
+          "editorNote": "介紹鬍鬚根部神經密度與姿勢感知功能，從抖動反應帶出身體平衡的機制，適合貓咪感官冷知識。",
+          "variations": [
+            "短版：一根鬍鬚牽動的神經多達兩百條，根部比毛髮深三倍。",
+            "延伸版：鬍鬚根部那叢神經也負責感知姿勢，身體歪了，鬍鬚常常比眼睛先反應。"
+          ]
+        },
+        "en": {
+          "content": "— A whisker's root sits three times deeper than ordinary fur.\n— That root is wrapped in a dense tangle of blood vessels and nerves.\n— A single whisker can be wired to up to two hundred neurons.\n— The slightest shift in the air makes it twitch first.\n— That same nerve cluster also tracks the body's posture.\n— Tilt off balance, and the whisker often notices before the eyes do.",
+          "editorNote": "Covers whisker-root nerve density and its role in posture sensing, building from a twitch reflex to body balance -- a sharp bit of cat sensory trivia.",
+          "variations": [
+            "Short version: A single whisker can connect to as many as two hundred nerves at the root.",
+            "Extended version: The nerve cluster at a whisker's root also senses posture -- it can catch a loss of balance before the eyes do."
+          ]
+        }
+      }
     }
   ]
 }
