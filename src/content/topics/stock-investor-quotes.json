@@ -12307,6 +12307,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-407",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1722083281.A.B0C.html",
+      "sourceNote": "參考 PTT 股板「到底什麼是散戶心態」討論串的語氣，改寫成被踢到桌下的彈珠旁觀一整個收盤的視角",
+      "tags": [
+        "彈珠",
+        "分心",
+        "小孩",
+        "收盤"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我是中午被踢進書桌底下的那顆彈珠，小孩下午在客廳跟鄰居小孩打彈珠，我是落單的那顆，被順手撿起來擱在鍵盤旁邊。主人收盤前打開那個紅色圖示，手指滑了兩次才找到想看的那檔，盤面跳動的時候他沒碰我一下。等到數字停止變化，他才伸手把我撥到畫面前面，像在確認我還在。收工前，他把我塞回抽屜，跟其他沒被叫到名字的彈珠擺在一起。",
+          "editorNote": "適合形容盤中起伏時，家裡小孩在旁邊玩，自己卻只顧著看盤的畫面",
+          "variations": [
+            "短版：被踢到桌下的彈珠，全程只在數字停止時被摸了一下。",
+            "延伸版：小孩打彈珠剩下的那顆，陪他看完一整個收盤，最後被塞回抽屜跟其他顆擺在一起。"
+          ]
+        },
+        "en": {
+          "content": "I'm the marble that got kicked under the desk around noon, the odd one out after the kid played marbles with the neighbor's kid in the living room, picked up without much thought and set down next to the keyboard. Before the market closed he opened that red icon on his phone, swiping twice before finding the stock he wanted, never touching me once while the board kept jumping. Only when the numbers stopped moving did he reach over and nudge me in front of the screen, like he was checking I was still there. Before shutting down for the day, he dropped me back in the drawer, next to the other marbles nobody had called by name.",
+          "editorNote": "For when the kids are playing nearby during a volatile session and you're still glued to the board",
+          "variations": [
+            "Short: The marble that got kicked under the desk only got touched once, right when the numbers stopped.",
+            "Longer: The leftover marble from the kid's game sat through the whole closing bell, then got put back in the drawer with the others."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-408",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1729877843.A.B7D.html",
+      "sourceNote": "參考 PTT 股板「沒有時光機，但我們有鬧鐘」討論串對盤中反覆刷新的描寫，改寫成滑鼠滾輪的視角",
+      "tags": [
+        "滾輪",
+        "開盤",
+        "刷新",
+        "分心"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 我是他食指壓著的那顆滾輪\n— 開盤後兩分鐘就被轉了四十圈\n— 地上傳來小孩打彈珠的喀喀聲\n— 他的手沒有停，滾輪跟著發燙\n— 收盤前十秒，轉速忽然降到零\n— 整晚只留下一圈沒轉完的角度",
+          "editorNote": "適合形容開盤瞬間猛刷報價，連家人在旁邊做什麼都沒注意到的狀態",
+          "variations": [
+            "短版：滾輪轉了一整個早上，窗外小孩打彈珠的聲音完全沒被注意到。",
+            "延伸版：收盤前十秒轉速忽然歸零，那天的滾輪只留下半圈沒轉完的痕跡。"
+          ]
+        },
+        "en": {
+          "content": "— I'm the scroll wheel under his index finger.\n— Two minutes into the open, I'd already spun forty times.\n— Downstairs the kid was playing marbles, little clicks on the floor.\n— His hand never stopped, and I kept getting warmer.\n— Ten seconds before close, the spinning dropped to zero.\n— All that was left was one half-turn I never finished.",
+          "editorNote": "For the first minutes of the open when the refreshing is so fast nobody notices anything else",
+          "variations": [
+            "Short: The wheel spun all morning long, and the marbles clicking outside the window went completely unnoticed.",
+            "Longer: Ten seconds before the close the spinning dropped to zero, leaving behind one half-turn that was never finished."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-409",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.ptt.cc/bbs/Stock/M.1584338331.A.0A9.html",
+      "sourceNote": "參考 PTT 股板「財富自由到幻滅的心路歷程分享」裡加碼前反覆確認的猶豫感，改寫成皮夾裡那張卡的視角",
+      "tags": [
+        "提款卡",
+        "加碼",
+        "轉帳",
+        "猶豫"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被塞在皮夾最外層那格，平常只負責買咖啡跟超商的零食。那天他盤中加碼，把我抽出來在手機銀行轉帳畫面裡點了兩次確認。轉帳成功的提示音響完，他把我放回皮夾，動作比平常慢了半拍。晚上十點，他又把我拿出來，盯著券商寄來的資料看了很久，最後還是放回原本的格子。",
+          "editorNote": "適合形容加碼前反覆確認轉帳，內心其實很猶豫的時刻",
+          "variations": [
+            "短版：平常只刷咖啡的那張卡，那天在轉帳畫面裡被點了兩次確認。",
+            "延伸版：晚上十點又被翻出來盯著數字看了很久，最後還是放回同一格。"
+          ]
+        },
+        "en": {
+          "content": "I live in the outer slot of his wallet, usually good for nothing more than coffee and convenience-store snacks. That day, mid-session, he added to his position, pulling me out to confirm the transfer twice on his banking app. Once the success chime finished playing, he slid me back in, a beat slower than usual. At ten that night he took me out again, stared at the brokerage numbers for a long while, and finally put me back in the same slot.",
+          "editorNote": "For the hesitation right before confirming a transfer to buy more",
+          "variations": [
+            "Short: The card that usually only pays for coffee got tapped twice to confirm a transfer that day.",
+            "Longer: Pulled out again at ten that night, it sat under a long stare at the numbers before going back into the same slot."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-410",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Meme_stock",
+      "sourceNote": "參考 meme stock 條目裡散戶自嘲帳面漲跌的調性，改寫成抽屜底層計算機被翻出來核對數字的場景",
+      "tags": [
+        "計算機",
+        "核對",
+        "除息",
+        "扣款"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我被收在書桌抽屜最底層，只有除息或扣款對不起來的時候才會被拿出來。那天他把我放在腿上，一邊核對匯款紀錄一邊按我的按鍵，手指停在等號那格特別久。數字跳出來的瞬間，他沒有出聲，只是把畫面切回原本的待機畫面。隔沒多久他又把我收回抽屜，蓋子沒關緊，露出一條縫。",
+          "editorNote": "適合形容數字對不起來，翻出計算機核對的場景",
+          "variations": [
+            "短版：只有數字對不起來才會被翻出來的計算機，那天被按到等號鍵停了很久。",
+            "延伸版：數字跳出來那刻他沒出聲，計算機後來被收回抽屜，蓋子沒關緊留了一條縫。"
+          ]
+        },
+        "en": {
+          "content": "I'm kept at the very bottom of his desk drawer, only brought out when a dividend or a direct debit doesn't add up. That day he set me on his lap, checking the brokerage data while pressing my keys, his finger lingering extra long on the equals sign. The moment the number appeared, he didn't say anything, just switched the screen back to its idle display. Not long after, he put me back in the drawer, the lid left open just a crack.",
+          "editorNote": "For double-checking a figure against a calculator when the numbers refuse to match",
+          "variations": [
+            "Short: The calculator that only comes out when the numbers don't add up had its equals key held down for a long while that day.",
+            "Longer: He said nothing when the number appeared; the calculator went back into the drawer with its lid left open a crack."
+          ]
+        }
+      }
     }
   ]
 }
