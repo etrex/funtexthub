@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-30",
-  "min_scene_items": 0,
+  "date": "2026-10-01",
+  "min_scene_items": 2,
   "first_batch": [],
   "ordinal_allowed": [
     "breakup-quotes",
@@ -15,8 +15,9 @@
     "F13"
   ],
   "institutional_topics": [
-    "healing-quotes",
-    "sweet-quotes"
+    "concert-ticket-quotes",
+    "drama-quotes",
+    "motivational-quotes"
   ],
   "form_min_distinct": 2,
   "form_reader_visible": true,
@@ -51,130 +52,298 @@
   ],
   "topics": {
     "absurd-wisdom": {
-      "frame": "F10"
+      "frame": "F3",
+      "scene_tokens": [
+        "跳房子"
+      ],
+      "scene_class": "跳房子"
     },
     "adulting-quotes": {
-      "frame": "F11"
+      "frame": "F9",
+      "scene_tokens": [
+        "三角板"
+      ],
+      "scene_class": "三角板"
     },
     "breakup-quotes": {
-      "frame": "F5"
+      "frame": "F12",
+      "scene_tokens": [
+        "野餐墊"
+      ],
+      "scene_class": "野餐墊"
     },
     "cat-quotes": {
-      "frame": "F9"
+      "frame": "F5",
+      "scene_tokens": [
+        "保護殼"
+      ],
+      "scene_class": "保護殼"
     },
     "cdrama-period-quotes": {
-      "frame": "F15"
+      "frame": "F14",
+      "scene_tokens": [
+        "保護殼"
+      ],
+      "scene_class": "保護殼"
     },
     "cheesy-pickups": {
-      "frame": "F3"
+      "frame": "F11",
+      "scene_tokens": [
+        "潛水鏡"
+      ],
+      "scene_class": "潛水鏡"
     },
     "cold-jokes": {
-      "frame": "F2"
+      "frame": "F8",
+      "scene_tokens": [
+        "筷子筒"
+      ],
+      "scene_class": "筷子筒"
     },
     "concert-ticket-quotes": {
-      "frame": "F9"
+      "frame": "F13",
+      "scene_tokens": [
+        "潛水鏡"
+      ],
+      "scene_class": "潛水鏡"
     },
     "couple-jokes": {
-      "frame": "F13"
+      "frame": "F6",
+      "scene_tokens": [
+        "彈力球"
+      ],
+      "scene_class": "彈力球"
     },
     "dark-humor": {
-      "frame": "F13"
+      "frame": "F7",
+      "scene_tokens": [
+        "潛水鏡"
+      ],
+      "scene_class": "潛水鏡"
     },
     "diet-quotes": {
-      "frame": "F14"
+      "frame": "F1",
+      "scene_tokens": [
+        "訂書針"
+      ],
+      "scene_class": "訂書針"
     },
     "dog-quotes": {
-      "frame": "F8"
+      "frame": "F3",
+      "scene_tokens": [
+        "泳圈"
+      ],
+      "scene_class": "泳圈"
     },
     "drama-binge-quotes": {
-      "frame": "F11"
+      "frame": "F15",
+      "scene_tokens": [
+        "彈力球"
+      ],
+      "scene_class": "彈力球"
     },
     "drama-quotes": {
-      "frame": "F6"
+      "frame": "F13",
+      "scene_tokens": [
+        "沙鈴"
+      ],
+      "scene_class": "沙鈴"
     },
     "exam-quotes": {
-      "frame": "F4"
+      "frame": "F10",
+      "scene_tokens": [
+        "泳圈"
+      ],
+      "scene_class": "泳圈"
     },
     "fathers-day-quotes": {
-      "frame": "F12"
+      "frame": "F15",
+      "scene_tokens": [
+        "訂書針"
+      ],
+      "scene_class": "訂書針"
     },
     "fitness-quotes": {
-      "frame": "F1"
+      "frame": "F10",
+      "scene_tokens": [
+        "文鎮"
+      ],
+      "scene_class": "文鎮"
     },
     "food-jokes": {
-      "frame": "F1"
+      "frame": "F2",
+      "scene_tokens": [
+        "打彈珠"
+      ],
+      "scene_class": "打彈珠"
     },
     "graduation-quotes": {
-      "frame": "F12"
+      "frame": "F6",
+      "scene_tokens": [
+        "三角鐵"
+      ],
+      "scene_class": "三角鐵"
     },
     "healing-quotes": {
-      "frame": "F3"
+      "frame": "F2",
+      "scene_tokens": [
+        "三角板"
+      ],
+      "scene_class": "三角板"
     },
     "holiday-jokes": {
-      "frame": "F14"
+      "frame": "F5",
+      "scene_tokens": [
+        "三角鐵"
+      ],
+      "scene_class": "三角鐵"
     },
     "human-design-quotes": {
-      "frame": "F3"
+      "frame": "F4",
+      "scene_tokens": [
+        "打水漂"
+      ],
+      "scene_class": "打水漂"
     },
     "insomnia-quotes": {
-      "frame": "F7"
+      "frame": "F15",
+      "scene_tokens": [
+        "野餐墊"
+      ],
+      "scene_class": "野餐墊"
     },
     "korean-drama-quotes": {
-      "frame": "F2"
+      "frame": "F7",
+      "scene_tokens": [
+        "筷子筒"
+      ],
+      "scene_class": "筷子筒"
     },
     "mom-quotes": {
-      "frame": "F13"
+      "frame": "F11",
+      "scene_tokens": [
+        "打水漂"
+      ],
+      "scene_class": "打水漂"
     },
     "motivational-quotes": {
-      "frame": "F10"
+      "frame": "F13",
+      "scene_tokens": [
+        "野餐墊"
+      ],
+      "scene_class": "野餐墊"
     },
     "pet-memorial-quotes": {
-      "frame": "F1"
+      "frame": "F9",
+      "scene_tokens": [
+        "文鎮"
+      ],
+      "scene_class": "文鎮"
     },
     "programmer-jokes": {
-      "frame": "F6"
+      "frame": "F5",
+      "scene_tokens": [
+        "沙鈴"
+      ],
+      "scene_class": "沙鈴"
     },
     "renting-quotes": {
-      "frame": "F7"
+      "frame": "F14",
+      "scene_tokens": [
+        "訂書針"
+      ],
+      "scene_class": "訂書針"
     },
     "self-love-quotes": {
-      "frame": "F5"
+      "frame": "F8",
+      "scene_tokens": [
+        "三角鐵"
+      ],
+      "scene_class": "三角鐵"
     },
     "service-quotes": {
-      "frame": "F12"
+      "frame": "F1",
+      "scene_tokens": [
+        "文鎮"
+      ],
+      "scene_class": "文鎮"
     },
     "slang-quotes": {
-      "frame": "F11"
+      "frame": "F12",
+      "scene_tokens": [
+        "沙鈴"
+      ],
+      "scene_class": "沙鈴"
     },
     "stock-investor-quotes": {
-      "frame": "F15"
+      "frame": "F8",
+      "scene_tokens": [
+        "打彈珠"
+      ],
+      "scene_class": "打彈珠"
     },
     "student-quotes": {
-      "frame": "F4"
+      "frame": "F12",
+      "scene_tokens": [
+        "打水漂"
+      ],
+      "scene_class": "打水漂"
     },
     "summer-electric-quotes": {
-      "frame": "F5"
+      "frame": "F9",
+      "scene_tokens": [
+        "泳圈"
+      ],
+      "scene_class": "泳圈"
     },
     "sweet-quotes": {
-      "frame": "F10"
+      "frame": "F3",
+      "scene_tokens": [
+        "筷子筒"
+      ],
+      "scene_class": "筷子筒"
     },
     "travel-quotes": {
-      "frame": "F4"
+      "frame": "F6",
+      "scene_tokens": [
+        "保護殼"
+      ],
+      "scene_class": "保護殼"
     },
     "wedding-quotes": {
-      "frame": "F6"
+      "frame": "F2",
+      "scene_tokens": [
+        "跳房子"
+      ],
+      "scene_class": "跳房子"
     },
     "witty-comebacks": {
-      "frame": "F9"
+      "frame": "F11",
+      "scene_tokens": [
+        "三角板"
+      ],
+      "scene_class": "三角板"
     },
     "workplace-quotes": {
-      "frame": "F2"
+      "frame": "F10",
+      "scene_tokens": [
+        "打彈珠"
+      ],
+      "scene_class": "打彈珠"
     },
     "worldcup-quotes": {
-      "frame": "F8"
+      "frame": "F1",
+      "scene_tokens": [
+        "彈力球"
+      ],
+      "scene_class": "彈力球"
     },
     "zodiac-quotes": {
-      "frame": "F8"
+      "frame": "F4",
+      "scene_tokens": [
+        "跳房子"
+      ],
+      "scene_class": "跳房子"
     }
   }
 }
