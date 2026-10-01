@@ -13314,6 +13314,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-475",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://tw.my-best.com/116369",
+      "sourceNote": "睡眠App推薦排行榜，改寫成被睡眠app追問入睡數字的情境",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "作息"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "睡眠app問我今天入睡花了多久。\n我照實填了四十七分鐘。\napp問我這個數字有沒有讓我驚訝。\n我回答沒有，我自己按了計時器。",
+          "editorNote": "給那種被睡眠app追問「準不準」，結果只給得出最老實數字的人。",
+          "variations": [
+            "短版：睡眠app問我準不準，我只說出了分鐘數。",
+            "延伸版：app接連追問讓不讓我驚訝，我的答案只有時間，沒有情緒。"
+          ]
+        },
+        "en": {
+          "content": "The sleep app asked how long I took to fall asleep tonight.\nI entered forty-seven minutes, exactly as it happened.\nThe app asked if that number surprised me.\nI said no, I was the one holding the stopwatch.",
+          "editorNote": "For anyone a sleep app keeps asking whether the number feels off, who can only hand over the real minutes.",
+          "variations": [
+            "Short: The app asked if I was surprised. I only had the minutes to give it.",
+            "Extended: The app kept asking follow-up questions. My answers stayed numbers, no feelings attached."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-476",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://tw.trip.com/blog/taiwan-picnic-blanket/",
+      "sourceNote": "野餐墊選購指南，改寫成棉被在洗、暫時用野餐墊代替的情境",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "作息"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽問我這麼晚還不睡在等什麼。\n我說棉被在洗，我在等烘乾機跑完。\n她又問那你現在蓋著什麼。\n我說是客廳的野餐墊，剛收進來還有太陽味。",
+          "editorNote": "說給那種被問「在等什麼」，結果答案只是家事進度的人聽。",
+          "variations": [
+            "短版：媽媽問我蓋著什麼，我照實說是野餐墊。",
+            "延伸版：烘乾機還沒跑完，野餐墊先頂著用，答案就這麼平淡。"
+          ]
+        },
+        "en": {
+          "content": "Mom asked what I was waiting for, up this late.\nI said the blanket was in the wash, waiting on the dryer.\nShe asked what I was covering up with right now.\nI said the picnic mat from the living room, it still smelled like sun.",
+          "editorNote": "For anyone asked what they're waiting for, whose honest answer is just laundry status.",
+          "variations": [
+            "Short: Mom asked what I was covering up with. I just said the picnic mat.",
+            "Extended: The dryer wasn't done, so the picnic mat filled in for one night, plain as that."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-477",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.adaymag.com/2018/07/23/betterday-3-sleep-app.html",
+      "sourceNote": "助眠App介紹文，改寫成熬夜後被問有沒有看到怪東西的情境",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "作息"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事問我熬夜之後有沒有看到什麼奇怪的東西。\n我說看到自己手機裡的待辦清單又多了一項。\n他問還有沒有更誇張的。\n我說沒有，就只有那一項。",
+          "editorNote": "寫給那種被問「有沒有看到什麼」，結果只看到待辦事項變多的人。",
+          "variations": [
+            "短版：同事問我有沒有看到幻覺，我只看到多一項待辦。",
+            "延伸版：他追問還有沒有更誇張的，答案依然只有那一項清單。"
+          ]
+        },
+        "en": {
+          "content": "A coworker asked if I saw anything strange after staying up all night.\nI said I saw one more item added to my phone's to-do list.\nHe asked if there was anything more dramatic than that.\nI said no, just that one item.",
+          "editorNote": "For anyone asked if they saw something strange, whose honest answer is one more to-do item.",
+          "variations": [
+            "Short: He asked if I saw a hallucination. I only saw one new to-do item.",
+            "Extended: He pushed for something more dramatic. The answer stayed the same single item."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-478",
+      "dateAdded": "2026-10-01",
+      "sourceUrl": "https://www.travel.taipei/zh-tw/pictorial/article/66994",
+      "sourceNote": "春日野餐提案報導，改寫成弟弟問床上為什麼多一張野餐墊的情境",
+      "tags": [
+        "失眠",
+        "腦內小劇場",
+        "作息"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "弟弟問我為什麼床上多了一張野餐墊。\n我說棉被還在烘乾機裡沒好。\n他又問那你睡醒要收去哪裡。\n我說摺起來放回衣櫃最下層。",
+          "editorNote": "給那種被問「為什麼」，結果答案只是家電還沒跑完的人。",
+          "variations": [
+            "短版：弟弟問床上為什麼多一張野餐墊，我說棉被還沒烘好。",
+            "延伸版：他又問收去哪裡，我說摺好放回衣櫃最下層而已。"
+          ]
+        },
+        "en": {
+          "content": "My little brother asked why there was a picnic mat on my bed.\nI said the blanket was still in the dryer.\nHe asked where I'd put it away once I woke up.\nI said folded, on the bottom shelf of the closet.",
+          "editorNote": "For anyone asked why, whose honest answer is just an appliance that isn't done yet.",
+          "variations": [
+            "Short: My brother asked why the picnic mat was on my bed. I said the blanket wasn't dry yet.",
+            "Extended: He asked where it would go once I woke up. Folded, bottom shelf of the closet, that's all."
+          ]
+        }
+      }
     }
   ]
 }
