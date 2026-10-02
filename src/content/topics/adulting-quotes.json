@@ -14130,6 +14130,122 @@
             ]
           }
         }
+      },
+      {
+        "id": "aq-556",
+        "dateAdded": "2026-10-02",
+        "sourceUrl": "https://welfare.gov.taipei/Kids/ParentChild/ParentChildActivity",
+        "sourceNote": "政府親子活動報名頁面，僅借用「社區親子活動報名表」概念，情節為原創",
+        "tags": [
+          "丟沙包",
+          "家族群組",
+          "緊急聯絡人"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "姑姑在家族群組問我是不是都沒運動，我把健身紀錄截圖回去。她隔天傳來社區辦的親子丟沙包活動報名表，時間剛好是我排休那天。表單最後一欄要填緊急聯絡人，她自己先填好了我的名字。",
+            "editorNote": "長輩在群組問候，結果變成活動報名通知的那種日常",
+            "variations": [
+              "短版：姑姑問我是不是都沒運動，隔天收到活動報名表。",
+              "延伸版：表單最後一欄填緊急聯絡人，她自己先寫好我的名字。"
+            ]
+          },
+          "en": {
+            "content": "My aunt asked in the family group chat whether I ever exercise, and I sent back a screenshot of my workout log. The next day she forwarded a sign-up form for a parent-child bean-bag-toss event at the community center, scheduled for my day off. The last field on the form asked for an emergency contact, and she'd already filled in my name.",
+            "editorNote": "For the kind of family check-in that quietly turns into an event sign-up",
+            "variations": [
+              "Short: My aunt asked if I exercise, and the next day I got an event sign-up form.",
+              "Extended: The last field asked for an emergency contact, and she'd already written in my name."
+            ]
+          }
+        }
+      },
+      {
+        "id": "aq-557",
+        "dateAdded": "2026-10-02",
+        "sourceUrl": "https://redspace.tw/year-end-party-games-guide/",
+        "sourceNote": "活動場地公司談尾牙遊戲玩法，僅借用「擲沙包趣味競賽」概念，情節為原創",
+        "tags": [
+          "丟沙包",
+          "尾牙",
+          "業績"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 丟沙包關卡裁判喊丟準一點\n— 隔壁同事小聲說那是在喊業績\n— 財務補一句丟中一次可以折假\n— 人資在旁邊記下每個人丟中次數\n— 散場後沙包籃框上貼著一張小紙條",
+            "editorNote": "尾牙遊戲裡一句話，各自聽出不同重點的職場瞬間",
+            "variations": [
+              "短版：丟沙包關卡那句話，同事跟財務各聽出不同重點。",
+              "延伸版：人資在旁邊記下次數，沙包籃框旁後來多了一張字條。"
+            ]
+          },
+          "en": {
+            "content": "— At the bean-bag-toss station, the judge yelled to aim better.\n— The coworker next to me whispered that it was really about sales numbers.\n— Finance chimed in that every hit could trade for a day off.\n— HR quietly tallied how many times each person hit the target.\n— Afterward, a small note was taped to the basket.",
+            "editorNote": "A single line at the year-end party, heard two different ways by two people",
+            "variations": [
+              "Short: One line at the bean-bag station, heard two different ways by two coworkers.",
+              "Extended: HR tallied the hits, and a note later appeared by the basket."
+            ]
+          }
+        }
+      },
+      {
+        "id": "aq-558",
+        "dateAdded": "2026-10-02",
+        "sourceUrl": "https://house.udn.com/house/story/123591/8551392",
+        "sourceNote": "新聞談租屋管理費爭議，僅借用「代墊費用後續結算」概念，情節為原創",
+        "tags": [
+          "房東",
+          "管理費",
+          "材料費"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "房東在社區群組貼了一張截圖，說這學期中庭要翻新，想問誰能先幫忙代墊材料費。我在底下回覆沒問題，錢晚點再算清楚。隔週繳房租時，管理費那一欄硬是多了五十元，他說上次代墊的材料費從這裡扣。",
+            "editorNote": "幫忙代墊一句話，下次繳費就自動算進去的房東邏輯",
+            "variations": [
+              "短版：房東在群組問誰能先代墊材料費，我說沒問題。",
+              "延伸版：隔週繳房租，管理費那一欄多了五十元。"
+            ]
+          },
+          "en": {
+            "content": "My landlord posted a screenshot in the building group chat, saying the courtyard needed renovating this term and asking who could front the material costs. I replied in the thread that it was fine, we'd settle up later. The next time rent came due, the maintenance-fee line was fifty dollars higher, and he said it covered what I'd fronted last time.",
+            "editorNote": "When fronting a cost becomes the landlord's own accounting logic on the next bill",
+            "variations": [
+              "Short: My landlord asked in the group chat who could front the material costs, and I said sure.",
+              "Extended: Next time rent was due, the maintenance fee was fifty dollars higher."
+            ]
+          }
+        }
+      },
+      {
+        "id": "aq-559",
+        "dateAdded": "2026-10-02",
+        "sourceUrl": "https://moneyback.co/blog/debt-count/",
+        "sourceNote": "理財部落格談親友借貸還款習慣，僅借用「還款附言說明」概念，情節為原創",
+        "tags": [
+          "弟弟",
+          "轉帳",
+          "借錢"
+        ],
+        "i18n": {
+          "zh-tw": {
+            "content": "弟弟在對話框問我最近缺不缺錢，我秒回不會啊，順手點了已讀就關掉手機。隔天他把車貸多繳的那一期轉回我帳戶，附言寫著上次借我的先還。我愣了幾秒才想起去年確實跟他借過一筆錢。",
+            "editorNote": "一句關心和一筆還款同時發生，意思要自己拼起來",
+            "variations": [
+              "短版：弟弟傳訊息問缺不缺錢，我回不會啊。",
+              "延伸版：隔天他把多繳的車貸轉回來，說是上次借的先還。"
+            ]
+          },
+          "en": {
+            "content": "My brother texted asking if I was short on cash lately, and I just replied no and swiped my phone shut. The next day he transferred back the extra installment he'd overpaid on his car loan, with a note saying it was repaying what I'd lent him before. I stared at the transfer for a few seconds before remembering I actually had lent him money last year.",
+            "editorNote": "A text and a transfer arriving together, the meaning left for you to piece together",
+            "variations": [
+              "Short: My brother asked if I was short on cash, and I just said no.",
+              "Extended: The next day he transferred back the extra car-loan payment, saying it repaid what I'd lent him."
+            ]
+          }
+        }
       }
   ]
 }

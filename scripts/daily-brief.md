@@ -1,10 +1,10 @@
-> 🔴 **2026-10-01 覆寫條款（最優先）**：今日日期 2026-10-01，凡簡報中較早的日期一律讀作 2026-10-01（驗收指令的 `--date` 用 2026-10-01；`dateAdded` 寫 `2026-10-01`）。frame 已依 09-27／09-28／09-30 三天實際指派**重新整批輪替**（與三天零碰撞，程式驗證，每框上限 3 檔）。**今日有 scene／場景詞指派**：14 個全新語域（打彈珠／跳房子／打水漂／彈力球／三角板／訂書針／文鎮／野餐墊／潛水鏡／泳圈／三角鐵／沙鈴／保護殼／筷子筒），14 個 token 在全語料 `則數／檔數／raw` 三個讀數皆為 **0**（`whiteland.py --no-log` 實測）且全部 **≤3 字**；各 3 檔，同 token 的 3 檔 frame 互不相同（程式驗證，詳見第六節第 2 條）。`scripts/exclusion-list.json` 已重建，窗口 09-24～09-30、**89** 個詞，checker 逐一比對。**今日沒有時效指派**（2026-10-01 研究報告：產線健康、09-22～09-30 無停擺、無新增白地，好市多熟食區候選已結案放棄；雙十／國慶連假／重陽等詞仍在 `timely_banned_terms`，全批禁用）。**今日沒有序數例外變更**（`ordinal_allowed` 沿用前值）。每檔目標 **4 則**。F13（公文框）：concert-ticket-quotes／drama-quotes／motivational-quotes。F15（反笑話框）：drama-binge-quotes／fathers-day-quotes／insomnia-quotes。F4（純對白框）：human-design-quotes／zodiac-quotes。F5（清單框）：cat-quotes／holiday-jokes／programmer-jokes（共 11 檔豁免形式規則，見第二節例外）。
-> 🔴 **2026-09-30 覆寫條款**：今日日期 2026-09-30，09-29 因週配額打到 API 限額中途只跑完 40/42；`daily-assignment.json` 已依 09-26／09-27／09-28 三天重新整批輪替。frame／scene 歷史已併入上一條。
+> 🔴 **2026-10-02 覆寫條款（最優先）**：今日日期 2026-10-02，凡簡報中較早的日期一律讀作 2026-10-02（驗收指令的 `--date` 用 2026-10-02；`dateAdded` 寫 `2026-10-02`）。昨日（10-01）批次疑似中斷於 7/9（140 則），**今天不補**，只寫今天的 4 則（紅線不變）。frame 已依 09-28／09-30／10-01 三天實際指派**重新整批輪替**（與三天零碰撞，程式驗證，每框上限 3 檔）。**今日有 scene／場景詞指派**：14 個全新語域（疊杯子／疊積木／丟手帕／丟沙包／滾鐵環／翻花繩／抓鬼牌／跳棋／打水仗／跳皮筋／踩泥巴／翻跟斗／滾輪胎／蓋印泥），14 個 token 在全語料 `則數／檔數／raw` 三個讀數皆為 **0**（`whiteland.py --no-log` 實測）且全部 **≤3 字**；各 3 檔，同 token 的 3 檔 frame 互不相同（程式驗證，詳見第六節第 2 條）。`scripts/exclusion-list.json` 已重建，窗口 09-25～10-01、**76** 個詞，checker 逐一比對。**今日沒有時效指派**（2026-10-02 研究報告：產線健康面待確認、09-22～10-01 僅 10-01 一日未滿批、無新增白地；雙十／國慶連假／重陽／中秋／教師節等詞仍在 `timely_banned_terms`，全批禁用）。**今日沒有序數例外變更**（`ordinal_allowed` 沿用前值）。每檔目標 **4 則**。F13（公文框）：absurd-wisdom／diet-quotes／pet-memorial-quotes。F15（反笑話框）：wedding-quotes／worldcup-quotes／zodiac-quotes。F4（純對白框）：couple-jokes／holiday-jokes。F5（清單框）：cdrama-period-quotes／workplace-quotes（共 10 檔豁免形式規則，見第二節例外）。
+> 🔴 **2026-10-01 覆寫條款**：frame 依 09-27／09-28／09-30 三天整批輪替，scene 換成 14 個新語域（打彈珠／跳房子／打水漂／彈力球／三角板／訂書針／文鎮／野餐墊／潛水鏡／泳圈／三角鐵／沙鈴／保護殼／筷子筒，今日起列入禁用）。
+> 🔴 **2026-09-30 覆寫條款**：今日日期 2026-09-30，09-29 因週配額打到 API 限額中途只跑完 40/42；`daily-assignment.json` 已依 09-26／09-27／09-28 三天重新整批輪替。
 > 🔴 **2026-09-28 覆寫條款**：frame 已依 09-25／09-26／09-27 三天零碰撞整批輪替，F13／F15 當日輪替到不同檔。
-> 🔴 **2026-09-26／09-27 覆寫條款**：frame 整批輪替歷史，當日無 scene／時效指派。
 > 「不得執行任何 git 寫入指令」；不 build、不 deploy。
 
-# FunTextHub 每日生成簡報 — 2026-10-01
+# FunTextHub 每日生成簡報 — 2026-10-02
 
 每個 agent 只負責 **一個 topic 檔**，寫 **4 則**新內容（全批 42 檔＝168 則）。
 你的 frame／scene 指派在 `scripts/daily-assignment.json`，用你的 slug 查。
@@ -14,11 +14,11 @@
 
 > 🔴 今日紅線：**42 檔一檔都不能少**。既往停擺**今天不補**，只寫今天的 4 則。
 
-> 🟢 本批 frame **已整批輪替**（與 09-27／09-28／09-30 零碰撞，程式驗證），每框最多 **3 格**。
+> 🟢 本批 frame **已整批輪替**（與 09-28／09-30／10-01 零碰撞，程式驗證），每框最多 **3 格**。
 > scene 換成 **14 個全新語域**，14 個 token 在全語料 `則數／檔數／raw` **三個讀數皆為 0**（`whiteland.py --no-log` 實測），
 > 且**全部 ≤3 字**；同 token 的 3 檔**與前三天沒有共用過同一個 token**，且 frame 互不相同。
 
-> 🔴 **本日沒有時效指派**（2026-10-01 研究報告：產線健康、無新白地）。全 42 檔依 frame＋scene 寫，不涉及節日／時事角度。
+> 🔴 **本日沒有時效指派**（2026-10-02 研究報告：產線健康面待確認、無新白地）。全 42 檔依 frame＋scene 寫，不涉及節日／時事角度。
 
 ---
 
@@ -26,7 +26,7 @@
 
 ```bash
 cd /Users/etrexkuo/Documents/github/funtexthub
-python3 scripts/check_new_items.py --topic <你的slug> --date 2026-10-01
+python3 scripts/check_new_items.py --topic <你的slug> --date 2026-10-02
 ```
 
 **exit 0 才算完成。FAIL 就改、再跑，直到 PASS。**
@@ -70,13 +70,13 @@ WARN 不擋過，但句數 WARN 請盡量修掉。
 自己看一眼（帶項目符號者看 `+ bullet-aware` 那行）：
 
 ```bash
-python3 scripts/form_mix.py --date 2026-10-01
-python3 scripts/form_mix.py --date 2026-10-01 --lang en
+python3 scripts/form_mix.py --date 2026-10-02
+python3 scripts/form_mix.py --date 2026-10-02 --lang en
 ```
 
 ### 例外與注意
 
-- 🔴 **F4／F5／F13／F15 四個框的檔豁免本條**（框本身就是形式）。本日（10-01）豁免檔為：`human-design-quotes`／`zodiac-quotes`（F4）、`cat-quotes`／`holiday-jokes`／`programmer-jokes`（F5）、`concert-ticket-quotes`／`drama-quotes`／`motivational-quotes`（F13）、`drama-binge-quotes`／`fathers-day-quotes`／`insomnia-quotes`（F15）。**這 11 檔照框寫就好，不必湊形式。**
+- 🔴 **F4／F5／F13／F15 四個框的檔豁免本條**（框本身就是形式）。本日（10-02）豁免檔為：`couple-jokes`／`holiday-jokes`（F4）、`cdrama-period-quotes`／`workplace-quotes`（F5）、`absurd-wisdom`／`diet-quotes`／`pet-memorial-quotes`（F13）、`wedding-quotes`／`worldcup-quotes`／`zodiac-quotes`（F15）。**這 10 檔照框寫就好，不必湊形式。**
   （以 `daily-assignment.json` 為準——本清單如有出入以該檔為準）
 - ⚠️ **不得把形式逐則指派給自己**（「第一則散文、第二則清單」）。本條是**弱約束**，
   只要求「不要四則同形」，不指定哪則是哪形。
@@ -143,11 +143,11 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
 | **F10** | 三個短鏡頭：三個不同地點各寫一句，不互相解釋 | 禁三句用同一句型起頭；禁第三句當總結收束 | 三個地點的**語氣可以完全不同**，甚至互相沒關係 |
 | **F11** | 自嘲式承認：承認一個自己也知道很蠢的行為，語氣輕鬆 | 禁「我知道這樣很蠢，但…」；禁自我貶低到刻薄 | 把蠢事**寫得很認真**，當正事講，不加評語 |
 | **F12** | 被記住的一句話：引述某人說過的話 + 為什麼記到現在 | 禁「他說的那句話我記到現在」當結尾；禁引號內寫格言／金句 | 引的話要**很普通**，普通到不像值得記的那種 |
-| **F13** | 到期通知單（機構文件框，**本日輪替到** `concert-ticket-quotes`／`drama-quotes`／`motivational-quotes` **三檔**，以 `daily-assignment.json` 為準） | 🔴 見下方「七、公文體專章」 | 同上 |
+| **F13** | 到期通知單（機構文件框，**本日輪替到** `absurd-wisdom`／`diet-quotes`／`pet-memorial-quotes` **三檔**，以 `daily-assignment.json` 為準） | 🔴 見下方「七、公文體專章」 | 同上 |
 | **F14** | 天氣當心情：用天氣寫心情，完全不直說情緒 | 禁「像我的心情一樣」明喻；禁結尾點破；禁「下雨天總是…」 | 只寫**天氣 + 人的動作**，不寫感受 |
-| **F15** | **反笑話（本日輪替到** `drama-binge-quotes`／`fathers-day-quotes`／`insomnia-quotes` **三檔**，以 `daily-assignment.json` 為準）**：在讀者等一個雙關、等一個轉折的位置，給一個**字面上完全正確、毫無機鋒**的答案。笑點來自「該有的機鋒沒有出現」，不是來自機鋒本身 | 禁真的給出雙關或諧音；禁最後補一句解釋為什麼好笑；禁「結果什麼都沒發生」這類自我點評；禁誇張化（越平淡越對） | 句子要**短、平、無修飾**；answer 必須是**認真回答的語氣**，不能有戲謔標記 |
+| **F15** | **反笑話（本日輪替到** `wedding-quotes`／`worldcup-quotes`／`zodiac-quotes` **三檔**，以 `daily-assignment.json` 為準）**：在讀者等一個雙關、等一個轉折的位置，給一個**字面上完全正確、毫無機鋒**的答案。笑點來自「該有的機鋒沒有出現」，不是來自機鋒本身 | 禁真的給出雙關或諧音；禁最後補一句解釋為什麼好笑；禁「結果什麼都沒發生」這類自我點評；禁誇張化（越平淡越對） | 句子要**短、平、無修飾**；answer 必須是**認真回答的語氣**，不能有戲謔標記 |
 
-🔴 **本批 frame 已整批輪替**：沒有任何一檔拿到 09-30、09-28 或 09-27 的框（已程式驗證，0 碰撞）。
+🔴 **本批 frame 已整批輪替**：沒有任何一檔拿到 10-01、09-30 或 09-28 的框（已程式驗證，0 碰撞）。
 若你覺得「這個框我這檔上次寫過」——沒有，那是別檔寫的，**不要去翻舊寫法**。
 
 ### 2. scene（場景）— 4 則裡**至少 2 則**要落在指派的場景
@@ -159,20 +159,20 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
 
 本日 **14 個新語域**，各 3 檔：
 
-`打彈珠`→food-jokes／stock-investor-quotes／workplace-quotes（各3檔，frame互不相同）
-`跳房子`→absurd-wisdom／wedding-quotes／zodiac-quotes（各3檔，frame互不相同）
-`打水漂`→human-design-quotes／mom-quotes／student-quotes（各3檔，frame互不相同）
-`彈力球`→couple-jokes／drama-binge-quotes／worldcup-quotes（各3檔，frame互不相同）
-`三角板`→adulting-quotes／healing-quotes／witty-comebacks（各3檔，frame互不相同）
-`訂書針`→diet-quotes／fathers-day-quotes／renting-quotes（各3檔，frame互不相同）
-`文鎮`→fitness-quotes／pet-memorial-quotes／service-quotes（各3檔，frame互不相同）
-`野餐墊`→breakup-quotes／insomnia-quotes／motivational-quotes（各3檔，frame互不相同）
-`潛水鏡`→cheesy-pickups／concert-ticket-quotes／dark-humor（各3檔，frame互不相同）
-`泳圈`→dog-quotes／exam-quotes／summer-electric-quotes（各3檔，frame互不相同）
-`三角鐵`→graduation-quotes／holiday-jokes／self-love-quotes（各3檔，frame互不相同）
-`沙鈴`→drama-quotes／programmer-jokes／slang-quotes（各3檔，frame互不相同）
-`保護殼`→cat-quotes／cdrama-period-quotes／travel-quotes（各3檔，frame互不相同）
-`筷子筒`→cold-jokes／korean-drama-quotes／sweet-quotes（各3檔，frame互不相同）
+`疊杯子`→service-quotes／couple-jokes／insomnia-quotes（各3檔，frame互不相同）
+`疊積木`→fitness-quotes／cheesy-pickups／workplace-quotes（各3檔，frame互不相同）
+`丟手帕`→motivational-quotes／witty-comebacks／dog-quotes（各3檔，frame互不相同）
+`丟沙包`→adulting-quotes／programmer-jokes／travel-quotes（各3檔，frame互不相同）
+`滾鐵環`→renting-quotes／food-jokes／cold-jokes（各3檔，frame互不相同）
+`翻花繩`→zodiac-quotes／drama-quotes／absurd-wisdom（各3檔，frame互不相同）
+`抓鬼牌`→slang-quotes／self-love-quotes／mom-quotes（各3檔，frame互不相同）
+`跳棋`→concert-ticket-quotes／human-design-quotes／dark-humor（各3檔，frame互不相同）
+`打水仗`→student-quotes／holiday-jokes／diet-quotes（各3檔，frame互不相同）
+`跳皮筋`→exam-quotes／wedding-quotes／healing-quotes（各3檔，frame互不相同）
+`踩泥巴`→drama-binge-quotes／korean-drama-quotes／stock-investor-quotes（各3檔，frame互不相同）
+`翻跟斗`→breakup-quotes／fathers-day-quotes／worldcup-quotes（各3檔，frame互不相同）
+`滾輪胎`→summer-electric-quotes／cdrama-period-quotes／graduation-quotes（各3檔，frame互不相同）
+`蓋印泥`→pet-memorial-quotes／sweet-quotes／cat-quotes（各3檔，frame互不相同）
 
 🟢 本日場景詞**全部 ≤3 字**，且 `whiteland.py --no-log` 實測全語料 `則數／檔數／raw` 三個讀數皆 0。
 `scene_class` 同類上限 **3 檔（7.1%）**。
@@ -206,7 +206,8 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
 溜冰場／撞鐘／吹糖／滑翔傘／飛鏢／太極拳／碗粿／卡丁車／鋁門窗／羅盤／顯微鏡／煤油燈／地球儀／劍道／
 八音盒／衝浪板／盪鞦韆／捕夢網／蚵嗲／呼拉圈／高爾夫／彈簧床／雪橇犬／燈謎／牛舌餅／鍋貼／相撲／麻糬／鹽可頌／白吐司／
 風車／撐竿跳／碰碰車／泡泡水／冰壺／擊劍／飛盤／沙畫／吊床／萬年曆／棒球帽／水晶球／蠟像（09-30）／
-打彈珠／跳房子／打水漂／彈力球／三角板／訂書針／文鎮／野餐墊／潛水鏡／泳圈／三角鐵／沙鈴／保護殼／筷子筒（10-01，本日新用，明日起亦禁）。
+打彈珠／跳房子／打水漂／彈力球／三角板／訂書針／文鎮／野餐墊／潛水鏡／泳圈／三角鐵／沙鈴／保護殼／筷子筒（10-01）／
+疊杯子／疊積木／丟手帕／丟沙包／滾鐵環／翻花繩／抓鬼牌／跳棋／打水仗／跳皮筋／踩泥巴／翻跟斗／滾輪胎／蓋印泥（10-02，本日新用，明日起亦禁）。
 
 ⚠️ 場景詞和你的題材看起來不搭是**故意的**——不要為了搭而把它寫成比喻或標題，
 把它當成那個畫面裡**真的存在的一個東西**，讓它出現在動作裡。
@@ -222,9 +223,9 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
 ## 七、公文體專章
 
 1. **公文體詞彙**（公告／通知／敬請／見諒／即日起／張貼／施工／完工／停水／停電／管線）
-   **本日（10-01）只有 `concert-ticket-quotes`／`drama-quotes`／`motivational-quotes` 三檔可以用（frame F13，以 `daily-assignment.json` 為準）。其餘 39 檔一律禁用。**
-   （歷史輪替：…9/28 healing／sweet，09-30 couple-jokes／dark-humor／mom-quotes，
-   **10-01 concert-ticket-quotes／drama-quotes／motivational-quotes**，今日再輪替。）
+   **本日（10-02）只有 `absurd-wisdom`／`diet-quotes`／`pet-memorial-quotes` 三檔可以用（frame F13，以 `daily-assignment.json` 為準）。其餘 39 檔一律禁用。**
+   （歷史輪替：…09-30 couple-jokes／dark-humor／mom-quotes，10-01 concert-ticket-quotes／drama-quotes／motivational-quotes，
+   **10-02 absurd-wisdom／diet-quotes／pet-memorial-quotes**，今日再輪替。）
 2. **這些語域家具全站禁用，F13 三檔也禁**：
    `敬請見諒`／`不便之處`／`造成不便`／`預計完工`／`施工期間`／`施工告示`／`即日起`／
    `請多包涵`／`特此通知`／`如有疑問`／`請儘速`／`逾期`
@@ -246,7 +247,7 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
   廚房／浴室／捷運／停車場／樓下／巷口／櫃檯／候診／號碼牌／叫號／排隊／等候／
   備註／單號／編號／案號／品名／規格／狀態／期限／申請人／受理
   ⚠️ 這是**子字串**比對（寫「騎樓下」會被 `樓下` 擋掉），換句話重寫，別硬塞。
-- `scripts/exclusion-list.json` 裡的全部 term（**窗口 09-24…09-30，89 個詞**，
+- `scripts/exclusion-list.json` 裡的全部 term（**窗口 09-25…10-01，76 個詞**，
   checker 會逐一比對）
 - **開頭 5 字不得與同檔任何一則重複**（checker 會擋），且**不得與別檔今日新增的重複**
   （orchestrator 會擋）——請避免「那天／後來／我一直／其實／有一次」這種通用起手式
@@ -264,7 +265,7 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
 - 🔴 **同一檔四則不得共用任何 5 字片段**（第五節，`check_batch.py` 會擋）
 - 🔴 **`editorNote` 四則不得雷同**：四則的 `editorNote` 不得逐字重複，也不要套同一個模板
 - `id` 沿用該檔既有前綴，接續最大號碼
-- `dateAdded`: `2026-10-01`
+- `dateAdded`: `2026-10-02`
 - 🔴 **`sourceUrl` 必填，且不得是捏造的自我引用**（會 FAIL）：
   - **不得**包含 `funtexthub`（缺漏是誠實的空白，捏造更糟）
   - **不得**用 `.internal`／`.local`／`.test`／`localhost` 任何一種主機
@@ -287,7 +288,7 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
 ## 十、🔴 只加不改（orchestrator 會驗）
 
 你**只能在 `items` 陣列尾端 append 4 則新項目**。
-- **不得**修改、改寫、刪除任何 `dateAdded` 早於 2026-10-01 的既有項目
+- **不得**修改、改寫、刪除任何 `dateAdded` 早於 2026-10-02 的既有項目
 - **不得**調整既有項目的順序
 - 遇到「開頭 5 字與舊項目撞車」時，改**你自己的新項目**，不要去動舊的
 - 用 **Edit** 工具接在陣列尾端，**不要**用 Write 重寫整檔（會破壞既有格式）
@@ -306,5 +307,5 @@ python3 scripts/form_mix.py --date 2026-10-01 --lang en
 4. 照指派的 frame + scene 寫 4 則，**至少 2 種讀者可見形式**（F4／F5／F13／F15 豁免）、**中英逐行對齊**、
    **中文的變化英文也要有**、**四則句型互不相同**
 5. 用 **Edit** 工具把新項目接到 `items` 陣列尾端
-6. 跑 `check_new_items.py` 到 **PASS**（再跑一次 `form_mix.py --date 2026-10-01` 看你這行）
+6. 跑 `check_new_items.py` 到 **PASS**（再跑一次 `form_mix.py --date 2026-10-02` 看你這行）
 7. 回報：slug、新增的 id、frame、scene 落在幾則、四則各是什麼形式、checker 結果

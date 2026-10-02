@@ -15980,6 +15980,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "aw-608",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%BF%BB%E7%BA%BF%E6%88%8F",
+      "sourceNote": "維基百科「翻線戲」(翻花繩)玩法規則參考，改寫成社區翻花繩比賽公告",
+      "tags": [
+        "廢話文學",
+        "公告",
+        "翻花繩",
+        "規則"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公告：社區翻花繩社本週比賽規則\n贏的定義：繩子收尾時還在你手上的人\n輸的定義：繩子收尾時已經不在你手上的人\n中途鬆手：不算贏，也不算輸，算中途鬆手\n裁判上午十點到，翻花繩比賽結果留到裁判到了才公布",
+          "editorNote": "社區活動公告寫得太認真，規則本身卻什麼都沒定義清楚時可以用",
+          "variations": [
+            "短版：贏的定義是繩子還在手上，輸的定義是繩子不在手上，剩下的都算中途。"
+          ]
+        },
+        "en": {
+          "content": "Notice: This Week's Community Cat's Cradle Match Rules\nDefinition of a win: whoever still has the string in hand when it's over\nDefinition of a loss: whoever no longer has the string in hand when it's over\nLetting go mid-game: not a win, not a loss, just letting go mid-game\nThe judge arrives at ten in the morning, so the cat's cradle results wait until the judge shows up",
+          "editorNote": "For when a community notice sounds official but its rules define absolutely nothing",
+          "variations": [
+            "Short version: a win means the string's still in your hand, a loss means it isn't, and everything else counts as letting go."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-609",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/%E7%BF%BB%E7%BA%BF%E6%88%8F",
+      "sourceNote": "維基百科「翻線戲」(翻花繩)玩法規則參考，改寫成家庭睡前翻花繩規則便條",
+      "tags": [
+        "廢話文學",
+        "公告",
+        "翻花繩",
+        "孩子"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公告：家庭翻花繩睡前規則\n次數規定：想停下來的那一次，就是最後一次\n時間規定：鬧鐘響的時候，沒翻完的那一次不算\n爭議處理：手上纏著的繩結算數，嘴巴上說的不算\n這張紙貼在床頭，負責撕下來的人還沒有人認領",
+          "editorNote": "家裡規矩寫得像公告一樣正式，卻只是在規定誰負責收尾",
+          "variations": [
+            "延伸版：鬧鐘響了，沒翻完不算，貼在床頭的公告倒是一直都算。"
+          ]
+        },
+        "en": {
+          "content": "Notice: Family Bedtime Cat's Cradle Rules\nRule on count: whichever round you decide to stop on is the last round\nRule on time: once the alarm goes off, an unfinished round doesn't count\nRule on disputes: the knot still wrapped around your hand is what counts, not what you say out loud\nThis notice is taped above the bed, and nobody has claimed the job of peeling it off yet",
+          "editorNote": "For house rules written like an official notice that only settle who's stuck cleaning up",
+          "variations": [
+            "Extended version: the alarm goes off, the unfinished round doesn't count, but the notice taped above the bed somehow always does."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-610",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://www.ettoday.net/dalemon/post/23957",
+      "sourceNote": "ETtoday「假文青廢話語錄」文章參考，改寫成辦公室午休翻花繩賽注意事項",
+      "tags": [
+        "廢話文學",
+        "公告",
+        "翻花繩",
+        "同事"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公告：午休翻花繩友誼賽注意事項\n報名方式：想比的人站到窗邊，不想比的人站別處\n開始時間：兩個人都站到窗邊的那一刻開始算\n結束時間：其中一個人放手的那一刻結束\n贏家名單：目前還沒有人問過，所以還沒有人寫",
+          "editorNote": "辦公室裡臨時起意的小比賽，規則寫得一本正經卻完全沒意義",
+          "variations": [
+            "短版：兩人站到窗邊算開始，一人放手算結束，贏家名單還沒人問起。"
+          ]
+        },
+        "en": {
+          "content": "Notice: Lunch Break Cat's Cradle Friendly Match Guidelines\nSign-up: anyone who wants to play stands by the window, anyone who doesn't stands somewhere else\nStart time: the moment both players are standing by the window, that's when it starts\nEnd time: the moment either player lets go, that's when it ends\nWinner list: nobody's asked yet, so nobody's written one",
+          "editorNote": "For an impromptu office game whose rules sound formal but settle nothing",
+          "variations": [
+            "Short version: standing by the window starts it, letting go ends it, and nobody's asked about a winner yet."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aw-611",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://iqmore.tw/2023-literature-nonsense-chinese",
+      "sourceNote": "廢話文學語錄整理文章參考，改寫成社區信箱包裹暫放公告",
+      "tags": [
+        "廢話文學",
+        "公告",
+        "社區",
+        "規則"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "公告：社區信箱包裹暫放規則\n放置順序：先到的包裹放前面，後到的放後面\n認領方式：認得出自己名字的人，自己拿\n超過三天沒拿的包裹，位置不會變，只是不會再有人去看\n這張公告本身也放在信箱旁，直到有人把它拿下來才算撤掉",
+          "editorNote": "社區公告寫得很分明，但其實什麼都沒解決時可以用",
+          "variations": [
+            "延伸版：先到的放前面，後到的放後面，沒人拿的那包就留在原地繼續等。"
+          ]
+        },
+        "en": {
+          "content": "Notice: Community Mailbox Package Holding Rules\nPlacement order: packages that arrive first go in front, later ones go behind\nHow to claim: whoever recognizes their own name takes it themselves\nA package left unclaimed past three days doesn't move, it just stops getting looked at\nThis notice itself also sits by the mailboxes until someone takes it down and that counts as removed",
+          "editorNote": "For a community notice that sounds precise but doesn't actually resolve anything",
+          "variations": [
+            "Extended version: first-come packages go up front, later ones go behind, and the one nobody claims just stays put."
+          ]
+        }
+      }
     }
   ]
 }

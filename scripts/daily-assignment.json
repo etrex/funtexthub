@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "min_scene_items": 2,
   "first_batch": [],
   "ordinal_allowed": [
@@ -15,9 +15,14 @@
     "F13"
   ],
   "institutional_topics": [
-    "concert-ticket-quotes",
-    "drama-quotes",
-    "motivational-quotes"
+    "absurd-wisdom",
+    "diet-quotes",
+    "pet-memorial-quotes"
+  ],
+  "anti_humor_frame_topics": [
+    "wedding-quotes",
+    "worldcup-quotes",
+    "zodiac-quotes"
   ],
   "form_min_distinct": 2,
   "form_reader_visible": true,
@@ -52,298 +57,298 @@
   ],
   "topics": {
     "absurd-wisdom": {
-      "frame": "F3",
+      "frame": "F13",
       "scene_tokens": [
-        "跳房子"
+        "翻花繩"
       ],
-      "scene_class": "跳房子"
+      "scene_class": "翻花繩"
     },
     "adulting-quotes": {
-      "frame": "F9",
+      "frame": "F2",
       "scene_tokens": [
-        "三角板"
+        "丟沙包"
       ],
-      "scene_class": "三角板"
+      "scene_class": "丟沙包"
     },
     "breakup-quotes": {
-      "frame": "F12",
+      "frame": "F1",
       "scene_tokens": [
-        "野餐墊"
+        "翻跟斗"
       ],
-      "scene_class": "野餐墊"
+      "scene_class": "翻跟斗"
     },
     "cat-quotes": {
-      "frame": "F5",
+      "frame": "F3",
       "scene_tokens": [
-        "保護殼"
+        "蓋印泥"
       ],
-      "scene_class": "保護殼"
+      "scene_class": "蓋印泥"
     },
     "cdrama-period-quotes": {
-      "frame": "F14",
+      "frame": "F5",
       "scene_tokens": [
-        "保護殼"
+        "滾輪胎"
       ],
-      "scene_class": "保護殼"
+      "scene_class": "滾輪胎"
     },
     "cheesy-pickups": {
-      "frame": "F11",
+      "frame": "F6",
       "scene_tokens": [
-        "潛水鏡"
+        "疊積木"
       ],
-      "scene_class": "潛水鏡"
+      "scene_class": "疊積木"
     },
     "cold-jokes": {
-      "frame": "F8",
+      "frame": "F1",
       "scene_tokens": [
-        "筷子筒"
+        "滾鐵環"
       ],
-      "scene_class": "筷子筒"
+      "scene_class": "滾鐵環"
     },
     "concert-ticket-quotes": {
-      "frame": "F13",
+      "frame": "F3",
       "scene_tokens": [
-        "潛水鏡"
+        "跳棋"
       ],
-      "scene_class": "潛水鏡"
+      "scene_class": "跳棋"
     },
     "couple-jokes": {
-      "frame": "F6",
+      "frame": "F4",
       "scene_tokens": [
-        "彈力球"
+        "疊杯子"
       ],
-      "scene_class": "彈力球"
+      "scene_class": "疊杯子"
     },
     "dark-humor": {
-      "frame": "F7",
+      "frame": "F8",
       "scene_tokens": [
-        "潛水鏡"
+        "跳棋"
       ],
-      "scene_class": "潛水鏡"
+      "scene_class": "跳棋"
     },
     "diet-quotes": {
-      "frame": "F1",
+      "frame": "F13",
       "scene_tokens": [
-        "訂書針"
+        "打水仗"
       ],
-      "scene_class": "訂書針"
+      "scene_class": "打水仗"
     },
     "dog-quotes": {
-      "frame": "F3",
+      "frame": "F10",
       "scene_tokens": [
-        "泳圈"
+        "丟手帕"
       ],
-      "scene_class": "泳圈"
+      "scene_class": "丟手帕"
     },
     "drama-binge-quotes": {
-      "frame": "F15",
+      "frame": "F10",
       "scene_tokens": [
-        "彈力球"
+        "踩泥巴"
       ],
-      "scene_class": "彈力球"
+      "scene_class": "踩泥巴"
     },
     "drama-quotes": {
-      "frame": "F13",
+      "frame": "F2",
       "scene_tokens": [
-        "沙鈴"
+        "翻花繩"
       ],
-      "scene_class": "沙鈴"
+      "scene_class": "翻花繩"
     },
     "exam-quotes": {
-      "frame": "F10",
+      "frame": "F11",
       "scene_tokens": [
-        "泳圈"
+        "跳皮筋"
       ],
-      "scene_class": "泳圈"
+      "scene_class": "跳皮筋"
     },
     "fathers-day-quotes": {
-      "frame": "F15",
+      "frame": "F6",
       "scene_tokens": [
-        "訂書針"
+        "翻跟斗"
       ],
-      "scene_class": "訂書針"
+      "scene_class": "翻跟斗"
     },
     "fitness-quotes": {
-      "frame": "F10",
+      "frame": "F12",
       "scene_tokens": [
-        "文鎮"
+        "疊積木"
       ],
-      "scene_class": "文鎮"
+      "scene_class": "疊積木"
     },
     "food-jokes": {
-      "frame": "F2",
+      "frame": "F9",
       "scene_tokens": [
-        "打彈珠"
+        "滾鐵環"
       ],
-      "scene_class": "打彈珠"
+      "scene_class": "滾鐵環"
     },
     "graduation-quotes": {
-      "frame": "F6",
+      "frame": "F9",
       "scene_tokens": [
-        "三角鐵"
+        "滾輪胎"
       ],
-      "scene_class": "三角鐵"
+      "scene_class": "滾輪胎"
     },
     "healing-quotes": {
-      "frame": "F2",
-      "scene_tokens": [
-        "三角板"
-      ],
-      "scene_class": "三角板"
-    },
-    "holiday-jokes": {
-      "frame": "F5",
-      "scene_tokens": [
-        "三角鐵"
-      ],
-      "scene_class": "三角鐵"
-    },
-    "human-design-quotes": {
-      "frame": "F4",
-      "scene_tokens": [
-        "打水漂"
-      ],
-      "scene_class": "打水漂"
-    },
-    "insomnia-quotes": {
-      "frame": "F15",
-      "scene_tokens": [
-        "野餐墊"
-      ],
-      "scene_class": "野餐墊"
-    },
-    "korean-drama-quotes": {
-      "frame": "F7",
-      "scene_tokens": [
-        "筷子筒"
-      ],
-      "scene_class": "筷子筒"
-    },
-    "mom-quotes": {
-      "frame": "F11",
-      "scene_tokens": [
-        "打水漂"
-      ],
-      "scene_class": "打水漂"
-    },
-    "motivational-quotes": {
-      "frame": "F13",
-      "scene_tokens": [
-        "野餐墊"
-      ],
-      "scene_class": "野餐墊"
-    },
-    "pet-memorial-quotes": {
-      "frame": "F9",
-      "scene_tokens": [
-        "文鎮"
-      ],
-      "scene_class": "文鎮"
-    },
-    "programmer-jokes": {
-      "frame": "F5",
-      "scene_tokens": [
-        "沙鈴"
-      ],
-      "scene_class": "沙鈴"
-    },
-    "renting-quotes": {
-      "frame": "F14",
-      "scene_tokens": [
-        "訂書針"
-      ],
-      "scene_class": "訂書針"
-    },
-    "self-love-quotes": {
-      "frame": "F8",
-      "scene_tokens": [
-        "三角鐵"
-      ],
-      "scene_class": "三角鐵"
-    },
-    "service-quotes": {
-      "frame": "F1",
-      "scene_tokens": [
-        "文鎮"
-      ],
-      "scene_class": "文鎮"
-    },
-    "slang-quotes": {
-      "frame": "F12",
-      "scene_tokens": [
-        "沙鈴"
-      ],
-      "scene_class": "沙鈴"
-    },
-    "stock-investor-quotes": {
-      "frame": "F8",
-      "scene_tokens": [
-        "打彈珠"
-      ],
-      "scene_class": "打彈珠"
-    },
-    "student-quotes": {
-      "frame": "F12",
-      "scene_tokens": [
-        "打水漂"
-      ],
-      "scene_class": "打水漂"
-    },
-    "summer-electric-quotes": {
-      "frame": "F9",
-      "scene_tokens": [
-        "泳圈"
-      ],
-      "scene_class": "泳圈"
-    },
-    "sweet-quotes": {
-      "frame": "F3",
-      "scene_tokens": [
-        "筷子筒"
-      ],
-      "scene_class": "筷子筒"
-    },
-    "travel-quotes": {
-      "frame": "F6",
-      "scene_tokens": [
-        "保護殼"
-      ],
-      "scene_class": "保護殼"
-    },
-    "wedding-quotes": {
-      "frame": "F2",
-      "scene_tokens": [
-        "跳房子"
-      ],
-      "scene_class": "跳房子"
-    },
-    "witty-comebacks": {
-      "frame": "F11",
-      "scene_tokens": [
-        "三角板"
-      ],
-      "scene_class": "三角板"
-    },
-    "workplace-quotes": {
       "frame": "F10",
       "scene_tokens": [
-        "打彈珠"
+        "跳皮筋"
       ],
-      "scene_class": "打彈珠"
+      "scene_class": "跳皮筋"
     },
-    "worldcup-quotes": {
-      "frame": "F1",
-      "scene_tokens": [
-        "彈力球"
-      ],
-      "scene_class": "彈力球"
-    },
-    "zodiac-quotes": {
+    "holiday-jokes": {
       "frame": "F4",
       "scene_tokens": [
-        "跳房子"
+        "打水仗"
       ],
-      "scene_class": "跳房子"
+      "scene_class": "打水仗"
+    },
+    "human-design-quotes": {
+      "frame": "F7",
+      "scene_tokens": [
+        "跳棋"
+      ],
+      "scene_class": "跳棋"
+    },
+    "insomnia-quotes": {
+      "frame": "F11",
+      "scene_tokens": [
+        "疊杯子"
+      ],
+      "scene_class": "疊杯子"
+    },
+    "korean-drama-quotes": {
+      "frame": "F12",
+      "scene_tokens": [
+        "踩泥巴"
+      ],
+      "scene_class": "踩泥巴"
+    },
+    "mom-quotes": {
+      "frame": "F7",
+      "scene_tokens": [
+        "抓鬼牌"
+      ],
+      "scene_class": "抓鬼牌"
+    },
+    "motivational-quotes": {
+      "frame": "F14",
+      "scene_tokens": [
+        "丟手帕"
+      ],
+      "scene_class": "丟手帕"
+    },
+    "pet-memorial-quotes": {
+      "frame": "F13",
+      "scene_tokens": [
+        "蓋印泥"
+      ],
+      "scene_class": "蓋印泥"
+    },
+    "programmer-jokes": {
+      "frame": "F14",
+      "scene_tokens": [
+        "丟沙包"
+      ],
+      "scene_class": "丟沙包"
+    },
+    "renting-quotes": {
+      "frame": "F12",
+      "scene_tokens": [
+        "滾鐵環"
+      ],
+      "scene_class": "滾鐵環"
+    },
+    "self-love-quotes": {
+      "frame": "F11",
+      "scene_tokens": [
+        "抓鬼牌"
+      ],
+      "scene_class": "抓鬼牌"
+    },
+    "service-quotes": {
+      "frame": "F3",
+      "scene_tokens": [
+        "疊杯子"
+      ],
+      "scene_class": "疊杯子"
+    },
+    "slang-quotes": {
+      "frame": "F2",
+      "scene_tokens": [
+        "抓鬼牌"
+      ],
+      "scene_class": "抓鬼牌"
+    },
+    "stock-investor-quotes": {
+      "frame": "F14",
+      "scene_tokens": [
+        "踩泥巴"
+      ],
+      "scene_class": "踩泥巴"
+    },
+    "student-quotes": {
+      "frame": "F1",
+      "scene_tokens": [
+        "打水仗"
+      ],
+      "scene_class": "打水仗"
+    },
+    "summer-electric-quotes": {
+      "frame": "F7",
+      "scene_tokens": [
+        "滾輪胎"
+      ],
+      "scene_class": "滾輪胎"
+    },
+    "sweet-quotes": {
+      "frame": "F8",
+      "scene_tokens": [
+        "蓋印泥"
+      ],
+      "scene_class": "蓋印泥"
+    },
+    "travel-quotes": {
+      "frame": "F9",
+      "scene_tokens": [
+        "丟沙包"
+      ],
+      "scene_class": "丟沙包"
+    },
+    "wedding-quotes": {
+      "frame": "F15",
+      "scene_tokens": [
+        "跳皮筋"
+      ],
+      "scene_class": "跳皮筋"
+    },
+    "witty-comebacks": {
+      "frame": "F6",
+      "scene_tokens": [
+        "丟手帕"
+      ],
+      "scene_class": "丟手帕"
+    },
+    "workplace-quotes": {
+      "frame": "F5",
+      "scene_tokens": [
+        "疊積木"
+      ],
+      "scene_class": "疊積木"
+    },
+    "worldcup-quotes": {
+      "frame": "F15",
+      "scene_tokens": [
+        "翻跟斗"
+      ],
+      "scene_class": "翻跟斗"
+    },
+    "zodiac-quotes": {
+      "frame": "F15",
+      "scene_tokens": [
+        "翻花繩"
+      ],
+      "scene_class": "翻花繩"
     }
   }
 }
