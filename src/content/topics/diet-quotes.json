@@ -15106,6 +15106,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-534",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://health.clevelandclinic.org/10-ways-to-stock-your-fridge-for-weight-loss",
+      "sourceNote": "參考冰箱備餐建議文章，改寫成用打水仗當期限的手搖飲作廢公告",
+      "tags": ["公告", "手搖飲", "體重", "打水仗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "到期日：這週六，打水仗登場前\n要繳回的東西：手搖飲兌換券全部作廢\n可以留下的：運動褲只留一件\n過磅方式：不脫鞋站上去照樣算\n遲到的人：順延到下一場打水仗",
+          "editorNote": "給愛喝手搖飲的人，用一張公告逼自己在打水仗前清空存貨",
+          "variations": [
+            "短版：手搖飲兌換券到這週六打水仗前全部作廢，不囉唆。",
+            "延伸版：運動褲留一件就好，體重計不脫鞋站上去也照算，遲到的人順延到下一場打水仗。"
+          ]
+        },
+        "en": {
+          "content": "Deadline: before this Saturday's water fight kicks off\nWhat's due back: every bubble-tea voucher, all void\nWhat you get to keep: one pair of workout pants, just one\nWeigh-in method: stepping on with your shoes still on still counts\nIf you're late: it rolls over to the next water fight",
+          "editorNote": "For anyone stockpiling bubble tea, a mock notice that uses the water fight as a hard deadline",
+          "variations": [
+            "Short: Every bubble-tea voucher goes void before this Saturday's water fight, no exceptions.",
+            "Extended: Keep just one pair of workout pants; stepping on the scale with shoes on still counts, and latecomers roll over to the next water fight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-535",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://www.vertex42.com/ExcelTemplates/weight-loss-chart.html",
+      "sourceNote": "參考減重紀錄表範本，改寫成冰箱門上限制蛋糕份量的公告，用打水仗當交換條件",
+      "tags": ["公告", "蛋糕", "熱量", "打水仗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "貼在冰箱門上的公告：蛋糕不能無限量供應\n允許額度：一週一次，自己挑哪天\n交換條件：那天要去打水仗，把熱量用掉\n違規處理：下次公告會縮短成半份\n附帶說明：體重計沒收，等打完水仗再還",
+          "editorNote": "寫給嘴上說要少吃蛋糕、手還是伸過去的人，把打水仗寫成唯一的贖罪方式",
+          "variations": [
+            "短版：蛋糕一週限一次，吃的那天要去打水仗把熱量還回去。",
+            "延伸版：違規就縮成半份，體重計也先沒收，等打完水仗再還給你。"
+          ]
+        },
+        "en": {
+          "content": "Notice taped to the fridge door: cake is not an all-you-can-eat buffet\nRation allowed: once a week, you pick the day\nThe catch: that day you have to go to the water fight and burn it off\nBreak the rule: next notice shrinks the slice to half\nOne more thing: the scale is confiscated until after the water fight",
+          "editorNote": "For someone who swears off cake and still reaches for it anyway, with the water fight written in as the only way to earn it back",
+          "variations": [
+            "Short: Cake is capped at once a week, and the day you eat it, you owe the water fight your calories back.",
+            "Extended: Break the rule and the slice shrinks to half, plus the scale gets confiscated until after the water fight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-536",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://www.101planners.com/weight-loss-tracker-printable/",
+      "sourceNote": "參考體重追蹤表範本，改寫成門板上貼紙條猜體重數字的小遊戲",
+      "tags": ["體重計", "猜謎", "門板", "量體重"],
+      "i18n": {
+        "zh-tw": {
+          "content": "量體重的紙貼在門板上，今天到期要換新的。\n上面只寫了三個數字，沒有名字。\n猜中的人晚餐可以多一份飯。\n猜不中的人，明天繼續量。",
+          "editorNote": "用猜體重當遊戲，把每天固定要量的那件事寫得不那麼嚴肅",
+          "variations": [
+            "短版：門板上的量體重紙條今天到期，猜中數字的人多一份飯。",
+            "延伸版：紙條只寫三個數字沒有名字，猜不中的人就只能明天繼續量。"
+          ]
+        },
+        "en": {
+          "content": "The weigh-in slip taped to the door expires today and needs a new one.\nIt only lists three numbers, no names attached.\nWhoever guesses right gets an extra scoop of rice at dinner.\nWhoever doesn't, keeps weighing in again tomorrow.",
+          "editorNote": "Turns the daily weigh-in into a guessing game so the number feels less like a verdict",
+          "variations": [
+            "Short: The weigh-in slip on the door expires today, and whoever guesses the number gets extra rice.",
+            "Extended: The slip only carries three numbers with no name on it, and anyone who guesses wrong just weighs in again tomorrow."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-537",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://www.eatthis.com/how-to-read-food-label-for-weight-loss/",
+      "sourceNote": "參考食品標示判讀文章，改寫成玄關公告替換每月減重進度表、順便借放體重計給打水仗用",
+      "tags": ["公告", "進度表", "玄關", "打水仗"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公告貼在玄關：本月減重進度表到期\n繳回方式：把進度表拿去回收，不用簽名\n新表格式：改成空白，想寫什麼都可以\n特別活動：下週打水仗，體重計先借放\n提醒一句：借放期間別偷拿去量別人",
+          "editorNote": "把每月要重新開始的減重計畫寫成一張可以作廢的公告，順便把下週的打水仗排進行程",
+          "variations": [
+            "短版：本月減重進度表到期，拿去回收不用簽名，新表直接空白重來。",
+            "延伸版：下週打水仗前，體重計先借放，借放期間不准偷拿去量別人。"
+          ]
+        },
+        "en": {
+          "content": "Notice posted by the front door: this month's weight-loss chart has expired\nHow to return it: recycle the old chart, no signature needed\nNew chart format: left blank, write whatever you want\nSpecial event: next week's water fight, the scale gets borrowed first\nOne reminder: don't sneak it out to weigh anyone else while it's borrowed",
+          "editorNote": "Turns the monthly \"start over\" diet plan into a notice you get to void, with next week's water fight already on the calendar",
+          "variations": [
+            "Short: This month's weight-loss chart has expired — recycle it, no signature, and the new one starts blank.",
+            "Extended: Before next week's water fight the scale gets borrowed first, and no one's allowed to sneak it out to weigh someone else."
+          ]
+        }
+      }
     }
   ]
 }

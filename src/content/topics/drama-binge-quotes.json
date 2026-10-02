@@ -12275,6 +12275,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "dbq-439",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://www.reviews.org/tv-service/phone-use-while-watching-tv-statistics/",
+      "sourceNote": "參考該站「近9成美國人看劇時仍會用手機」的調查數據，改寫成在不同場合偷看劇集進度、甚至踩到泥巴都沒察覺的畫面。",
+      "tags": [
+        "早餐店",
+        "公園追劇",
+        "自嘲",
+        "追劇日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "早餐店裡，老闆娘一邊煎蛋一邊問你昨晚追到第幾集。\n社區公園的草地上，他追劇追到忘神，一腳踩泥巴也沒察覺。\n美甲店裡，指甲油還沒乾，你還是用另一隻手偷偷切到劇集畫面。",
+          "editorNote": "適合描述追劇追到忽略周邊環境的瞬間，不限場合都在發生。",
+          "variations": [
+            "短版：連踩到泥巴都沒發現，眼睛還在劇裡。",
+            "延伸版：三個地方、三個人，共同點只有手機裡那一集。"
+          ]
+        },
+        "en": {
+          "content": "At the breakfast stand, the owner flips an egg and asks how many episodes you got through last night.\nOn the grass in the neighborhood park, he's so deep into the show he steps right in the mud without noticing.\nAt the nail salon, the polish isn't even dry yet, but you're still switching to the show with your other hand.",
+          "editorNote": "For those unrelated little moments where a show takes over, no matter where you happen to be.",
+          "variations": [
+            "Short: Doesn't even notice stepping in mud, eyes still on the show.",
+            "Extended: Three places, three different people, the only thing in common is that one episode on their phones."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-440",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://gitnux.org/binge-watching-statistics/",
+      "sourceNote": "參考該站整理的追劇時數與集數統計，改寫成通勤、結帳、等紅燈等零碎時間裡仍惦記劇情的日常。",
+      "tags": [
+        "通勤時刻",
+        "零碎時間",
+        "自嘲",
+        "追劇心理"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "火車上，耳機聲音開到最大，你還是怕被旁邊的人瞄到進度條。\n超商結帳時，你一邊掏零錢，一邊在腦內重播剛看的那段劇情。\n停紅燈的路口，你瞄了一眼副駕駛座的手機，滿腦子都是劇裡的台詞。",
+          "editorNote": "適合描述搭車、結帳、等紅燈這些零碎時間裡，腦袋還停在劇情裡的狀態。",
+          "variations": [
+            "短版：人在付錢，腦子還在劇裡打轉。",
+            "延伸版：三段零碎時間，共同點是腦袋都沒回到現實。"
+          ]
+        },
+        "en": {
+          "content": "On the train, you crank your earbuds up, still worried the person next to you will spot your progress bar.\nPaying at the corner store, you're fishing out change while replaying that last scene in your head.\nStopped at a red light, you glance at the phone in the passenger seat, your head still full of the show's lines.",
+          "editorNote": "For those scattered in-between moments on transit, paying, waiting at a light when your mind is still stuck in the show.",
+          "variations": [
+            "Short: Paying for something, mind still spinning through the show.",
+            "Extended: Three scattered moments, the one thing in common is nobody's head made it back to reality."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-441",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://www.reviews.org/tv-service/phone-use-while-watching-tv-statistics/",
+      "sourceNote": "參考該站「近9成美國人看劇時仍會用手機」的調查數據，改寫成同一天裡五個不相關地點都在偷看劇的清單式片段。",
+      "tags": [
+        "日常片段",
+        "到處偷看劇",
+        "自嘲",
+        "追劇習慣"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 公園草地，一腳踩泥巴\n— 月台邊，耳機線還沒收好\n— 教室外走廊，趁下課偷切畫面\n— 早餐攤前，蛋餅燙到忘記接\n— 修車廠內，老闆喊了兩聲才回神",
+          "editorNote": "適合列出同一天裡，在完全不同地方還是忍不住偷看劇的畫面。",
+          "variations": [
+            "短版：五個地方，沒有一個跟劇有關，手機裡卻都在播。",
+            "延伸版：地點換了五次，偷看劇這件事沒換過。"
+          ]
+        },
+        "en": {
+          "content": "— On the park lawn, one foot lands right in the mud.\n— On the platform, your earbuds are still tangled up.\n— In the school hallway, you sneak a peek between classes.\n— At the breakfast cart, your egg wrap burns because you forgot it.\n— Inside the repair shop, the owner has to call your name twice.",
+          "editorNote": "For listing out the completely different places, all in the same day, where you still couldn't resist sneaking a look at the show.",
+          "variations": [
+            "Short: Five places, none of them related to the show, yet it's playing on every phone.",
+            "Extended: The location changed five times, sneaking a look at the show never did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbq-442",
+      "dateAdded": "2026-10-02",
+      "sourceUrl": "https://gitnux.org/binge-watching-statistics/",
+      "sourceNote": "參考該站整理的追劇時數與集數統計，改寫成便當店、牙醫診所、深夜書桌前這些場合裡仍放不下劇集的瞬間。",
+      "tags": [
+        "便當店",
+        "牙醫診所",
+        "自嘲",
+        "追劇心理"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "便當店前，老闆夾菜的空檔，你低頭又多看了十秒的劇。\n牙醫診所裡，護理師喊到你的名字，你才驚覺手機還沒放下。\n深夜的書桌前，作業只寫了一半，視窗卻還開著劇。",
+          "editorNote": "適合描述在便當店、看診、深夜書桌前這些完全不相關的場合，卻都在偷看劇的瞬間。",
+          "variations": [
+            "短版：護理師喊名字，你才想起手機還開著劇。",
+            "延伸版：三個完全不相關的場合，共同點是劇都還在播。"
+          ]
+        },
+        "en": {
+          "content": "In front of the lunchbox stand, while the owner scoops your side dish, you sneak another ten seconds of the show.\nAt the dentist's office, the nurse calls your name before you realize your phone is still up.\nAt the desk late at night, the homework is only half done, but the show's still open in another window.",
+          "editorNote": "For those completely unrelated moments grabbing lunch, at the dentist, late at a desk where you're still sneaking glances at the show.",
+          "variations": [
+            "Short: The nurse calls your name, and only then do you remember the show's still playing.",
+            "Extended: Three completely unrelated settings, the one thing in common is the show is still running."
+          ]
+        }
+      }
     }
   ]
 }
