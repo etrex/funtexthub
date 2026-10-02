@@ -13418,3 +13418,29 @@ Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[華視新聞：蔡英文留言YBSG解答曝光](https://news.cts.com.tw/cts/life/202606/202606053040145.html)｜[風傳媒：YBSG是什麼意思？2026最紅流行語誕生](https://www.storm.mg/lifestyle/11138700)｜[Mobile01：2025-2026台灣網絡流行語精選](https://www.mobile01.com/topicdetail.php?f=37&t=7251111)｜[Know Your Meme：The Great Meme Reset of 2026](https://knowyourmeme.com/memes/the-great-meme-reset-of-2026)｜[Know Your Meme：The Weekly Meme Roundup（7x7=49, Eggs After 11, Real Estate Fish Edits）](https://trending.knowyourmeme.com/editorials/guides/the-weekly-meme-roundup-7x749-eggs-after-11-real-estate-fish-edits-and-more)｜[Know Your Meme：What Is The 'Eggs After 11' Meme](https://trending.knowyourmeme.com/editorials/guides/what-is-the-eggs-after-11-meme-the-klay-thompson-edits-that-allegedly-got-one-tiktoker-a-cease-and-desist-letter-explained)｜[Know Your Meme：Weekly Roundup（Nuggets Ain't Ready, Steel Ball Run, Egg McBig）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-nuggets-aint-ready-steel-ball-run-egg-mcbig-and-more)｜[Know Your Meme：Weekly Roundup（Doorbell Chud, Hound Dog, Bedtime Stacking）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doorbell-chud-hound-dog-bedtime-stacking-and-more)
+
+## 2026-10-02 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-24～10-01：178/168/168/168/189/168/140（42 檔）。10-01 僅 **140 則、批次停在 7/9**（最近 commit `content: daily update 2026-10-01 (batch 7/9)`，10-01 15:30），距本次研究時間（10-02 09:30）已逾 18 小時無 batch 8/9、9/9，亦無 10-02 當日新內容 ⇒ 疑似生產線停擺或批次中斷（研究任務依慣例先於 daily-update 執行，10-02 當日無內容本身不算異常，但 10-01 缺 2 批次需留意）。本任務僅觀察登錄，**不介入、不補跑、不 deploy**（依既定分工）。本次未重測分發層／DNS／404（沿用 09-24 狀態）。git status 乾淨，本機領先 origin 8 個 commit（10-01 批次與簡報皆已 commit 但未 push，將隨本次研究 commit 一併 push）。
+
+### New Topic Recommendations
+本次掃描（Threads 本週熱梗、台灣網路流行語、Know Your Meme 10 月週報、重陽節／國慶連假時效）**無新增白地**，逐項核對如下：
+
+1. **🔴 不新增：「八哩八告」（網紅鳳梨用語，胡搞瞎搞之意）**——語料 0 則、形式上屬白地，但查證後**綁定特定網紅真人**（吳泓逸／鳳梨），該網紅近年涉保母虐童爭議案、互毆案等多起真人負面新聞，同 09-30 記錄的「小英香菇」排除原則（真人肖像/爭議綁定不符本站定位），不建議指派。
+2. **🔴 不新增：「邊界感」（社交人際界線用語）**——語料已 1 則／1 檔（`workplace-quotes.json`）命中，非白地。
+3. **🔴 不新增：本週其餘中文候選詞皆為舊詞重現或已覆蓋**——VEN／初級大人系列／留友看／後面有車 均為 8–9 月已登錄或已被 generator 吸收之詞（09-26～10-01 歷次已記錄），本週搜尋未見真正新詞。
+4. **🔴 不新增：Know Your Meme 近期週報詞條**（Dany Slicer、Camila Parker、Clavicular Frame Mogged、Rod Wave's Arby's Takeover、Sykkuno Edits、Monster House、Nuggets Ain't Ready、Steel Ball Run、Egg McBig、Doorbell Chud、Hound Dog、Bedtime Stacking、Mixtape、Scooby Doo Creepy Run、Planetronika）——逐條辨識均綁定特定真人/實況主片段或動畫/遊戲 IP（Steel Ball Run 為 JoJo 系列、Scooby Doo 為版權卡通），需配合影片畫面才成立，延續 09-28～10-01 連續多週記錄的「英文側零新增白地」狀態。
+5. **🔴 重陽節（10/18）／國慶連假（10/9–10/11）尚無具體網路梗**：搜尋僅得到節日習俗介紹與行事曆攻略（「請4休9」等純排假資訊，非笑話/梗素材），兩者皆屬既有排程（10/12 重陽已預先路由；國慶 09-24 起明文不推），非本次新發現。
+
+### Content Trends
+- 中英文雙側**連續第五週**呈現「飽和速度追上/超過外部產出速度」現象：本週中文候選詞多為舊詞重現，英文週報持續被「真人實況主片段＋動畫/遊戲 IP」主導，兩側邊際新增空間皆趨近於零。延續 10-01 記錄的建議：英文側後續可降低逐詞追熱梗頻率，轉查「句式/造句模板」類（如 09-29 記錄的 `Kinda chic to…`／`Imagine hating on…`，目前仍是白地、無時效壓力）。
+- 新觀察：本週出現的「白地」候選詞（八哩八告）反而是因**真人爭議綁定**被排除，顯示當前中文網路熱詞的「形式白地」與「內容適用性白地」已開始分離——詞彙本身沒寫過，不代表就能寫，需加強查證候選詞背後是否綁定真人負面事件（同 09-30「小英香菇」、09-28「深夜牛肉麵」已建立的查核習慣）。
+
+### Existing Topic Updates
+- 沿用中候選（狀態皆未變，皆為長效概念、無時效壓力）：KitKat 劫案哏（0/0，第 10 天）、「不知道，我的身材很曼妙」（0/0，第 9 天）、比奇堡開運桌布（0/0，第 7 天）、《尼古喵喵》貓漫畫（0/0，第 7 天，IP 風險維持低優先）、英文「Kinda chic to…」句式（0/0，第 4 天）、英文「Imagine hating on…」句式（0/0，第 4 天，句式類，作既有項目寫作手法參考不需獨立開檔）。
+- ⚠️ **10-01 daily-update 批次疑似中斷**（見第 0 項，140 則／批次停在 7/9），非本任務處置範圍，僅記錄供後續排查參考。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[自由娛樂：台灣Threads三大傳奇（Ven/留友看）](https://ent.ltn.com.tw/news/breakingnews/5345506)｜[DailyView：初級大人高級大人自我檢測表](https://dailyview.tw/popular/detail/33240)｜[udn：網紅鳳梨控訴案揭密](https://udn.com/news/story/7321/9471056)｜[udn：網紅鳳梨保母虐童案私刑正義](https://opinion.udn.com/opinion/story/12626/7330822)｜[taiwanplay：八哩八告 sdd dcc 用語解釋](https://taiwanplay.com/internet-language/)｜[Know Your Meme：Weekly Roundup（Wawario, Jean Phil, Blocking The Street）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-wawario-jean-phil-blocking-the-street-and-more)｜[Know Your Meme：Weekly Roundup（Dany Slicer, Camila Parker, Clavicular Frame Mogged）](https://knowyourmeme.com/editorials/guides/the-weekly-meme-roundup-dany-slicer-camila-parker-clavicular-frame-mogged-and-more)｜[Know Your Meme：Weekly Roundup（Mixtape, Scooby Doo Creepy Run, Planetronika）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-mixtape-scooby-doo-creepy-run-planetronika-and-more)｜[今周刊：2026行事曆國慶連假「請4休9」攻略](https://www.businesstoday.com.tw/article/category/183027/post/202608160012/)｜[folk.tw：2026重陽節10/18台灣習俗](https://folk.tw/festivals/draft-week-05-chongyang-guide/)
