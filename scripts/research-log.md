@@ -13444,3 +13444,31 @@ Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[自由娛樂：台灣Threads三大傳奇（Ven/留友看）](https://ent.ltn.com.tw/news/breakingnews/5345506)｜[DailyView：初級大人高級大人自我檢測表](https://dailyview.tw/popular/detail/33240)｜[udn：網紅鳳梨控訴案揭密](https://udn.com/news/story/7321/9471056)｜[udn：網紅鳳梨保母虐童案私刑正義](https://opinion.udn.com/opinion/story/12626/7330822)｜[taiwanplay：八哩八告 sdd dcc 用語解釋](https://taiwanplay.com/internet-language/)｜[Know Your Meme：Weekly Roundup（Wawario, Jean Phil, Blocking The Street）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-wawario-jean-phil-blocking-the-street-and-more)｜[Know Your Meme：Weekly Roundup（Dany Slicer, Camila Parker, Clavicular Frame Mogged）](https://knowyourmeme.com/editorials/guides/the-weekly-meme-roundup-dany-slicer-camila-parker-clavicular-frame-mogged-and-more)｜[Know Your Meme：Weekly Roundup（Mixtape, Scooby Doo Creepy Run, Planetronika）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-mixtape-scooby-doo-creepy-run-planetronika-and-more)｜[今周刊：2026行事曆國慶連假「請4休9」攻略](https://www.businesstoday.com.tw/article/category/183027/post/202608160012/)｜[folk.tw：2026重陽節10/18台灣習俗](https://folk.tw/festivals/draft-week-05-chongyang-guide/)
+
+## 2026-10-03 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-25～10-02：168/168/168/168/189/168/140/72（42 檔）。10-01 批次停在 7/9（140 則），10-02 更只到 **batch 3/9（72 則）**，最近 commit 為 `content: daily update 2026-10-02 (batch 3/9)`，其後僅有 09-28/09-30/10-01/10-02 四份 brief/研究 commit，無 batch 4/9 起。本次研究執行當下工作區有 3 個檔案（`fathers-day-quotes.json`／`fitness-quotes.json`／`food-jokes.json`）處於未提交的修改狀態，推測是併發的 generator 正在跑 10-03 批次（未 commit）。本任務依既定分工**僅觀察登錄、不介入、不補跑、不 deploy**，且不對這 3 個併發中的檔案做任何操作（避免覆寫其工作區改動）。本次未重測分發層／DNS／404（沿用 09-24 狀態）。git status 顯示本機領先 origin 2 個提交（10-02 batch3 與研究簡報），將隨本次一併 push。
+
+### New Topic Recommendations
+
+1. **🟢 候選（時效窗口已開）：「婚假 14 天新制」(10/1 剛上路)**——勞動部將勞工婚假由 8 天增至 14 天，2026-10-01 正式上路，連同特休可連休 22 天，話題度高、全網本週新聞覆蓋密集。語料精確查核：`婚假` 僅 2 則／2 檔（皆與本次新制無關：一則是古裝劇「賜婚假」橋段、一則是職場請假泛論提到「不是婚假」），`14天` 0 則；⇒ **白地成立**，且屬於剛生效的時效話題，建議納入下次 `wedding-quotes.json` 指派角度（例如「終於有正當理由把婚假排滿」「連休 22 天蜜月規劃」調侃），不需獨立開新檔。
+2. **🔴 不新增：「吃香菜一年換 500 萬」Threads 熱門兩難題**——查核組合詞 `香菜`+`500萬` 0 則，表面白地；但這是「用一年做 X 換 500 萬，你要不要」的**兩難選擇題句式**，語料 `兩難` 已有 14 則既有覆蓋，`香菜` 本身已飽和（71 則／18 檔）⇒ 與 09-23 記錄的「句子結構/敘事裝置，不是話題」同類，不建議獨立指派，僅可作既有兩難類項目的場景更新素材。
+3. **🔴 不新增：馬年諧音哏「馬倒成功」／「哭哭馬」／「馬到成功」**——語料分別已有 17 則／3 檔、29 則／3 檔、13 則／4 檔，皆已飽和，非白地。
+4. **🔴 不新增：「ㄅ級分」評分用語**——語料已 24 則／1 檔命中，非白地。
+5. **🟡 登錄觀察（暫不指派）：日文新「笑死」符號「ꉂ 𐤔」（笑死二代）**——語料 0 則，形式上白地，但這是**純符號/排版風格**（取代「哈哈哈哈」的結尾用法），不是可獨立成篇的笑話或語錄素材，脫離原生輸入情境後文字化無笑點，同既往「需配合畫面/輸入法才成立的格式不適合本站」排除邏輯，暫不指派，僅登錄供觀察是否衍生出可文字化的梗。
+6. **🔴 不新增：Know Your Meme 10 月週報詞條**（Malfoid、Ronaldo Day、Hotel Lobby AI Edits、Wumpus Torture）——逐條辨識：Malfoid 為哈利波特角色 Draco Malfoy 的二創擬人圖（涉版權 IP＋性別轉換二創，非原創可寫）；Ronaldo Day 綁定實況主 IShowSpeed 真人片段；Hotel Lobby AI Edits 為真人名人（Taylor Swift／Travis Kelce）AI 換臉剪輯；Wumpus Torture 綁定 Discord 官方吉祥物＋需配圖才成立。四者均符合既往「真人/實況主/版權 IP／需配合畫面才成立」排除原則，不建議指派。
+7. **🔴 不新增：本週 TikTok 英文新詞**（`credit card slam`、`say sike rn`、`goofinator`、`Unc`）——逐一查核：`don't leave me dry` 已在 `slang-quotes.json` 覆蓋（2 則）；其餘四詞語料 0 則但詞彙本身過薄（單詞/短語，無笑點或情感結構，查無具體使用情境可改寫成完整內容），不建議獨立指派；`Unc` 的 grep 讀數（2585）為 "function"/"announce" 等字串誤判，非真實訊號。
+
+### Content Trends
+- **本週中文側罕見出現「政策時事」類白地**（婚假 14 天新制），與過去兩週掃到的多為「舊詞重現/已覆蓋」不同，顯示除了社群熱梗，**生活化的新制/新規上路當週**也是可靠的白地來源，建議後續掃描固定加入「本月新制/新規」關鍵字（如本次搜尋「10月新制上路」直接命中）。
+- 中文網路熱梗側延續馬年諧音與既有兩難句式的飽和狀態；英文側 Know Your Meme 連續第五週以上全被「真人實況主片段＋版權 IP 二創」主導，TikTok 新詞多為單詞/縮寫而非可文字化的完整句式，零新增白地的趨勢未變。
+
+### Existing Topic Updates
+- 沿用中候選（狀態皆未變，皆為長效概念、無時效壓力）：KitKat 劫案哏（0/0，第 11 天）、「不知道，我的身材很曼妙」（0/0，第 10 天）、比奇堡開運桌布（0/0，第 8 天）、《尼古喵喵》貓漫畫（0/0，第 8 天，IP 風險維持低優先）、英文「Kinda chic to…」句式（0/0，第 5 天）、英文「Imagine hating on…」句式（0/0，第 5 天，句式類，作既有項目寫作手法參考不需獨立開檔）。
+- **新增候選**：婚假 14 天新制（0/0，第 1 天，時效窗口約 10/1–10/14，建議儘快指派）；笑死二代符號（0/0，第 1 天，符號類，暫不指派僅觀察）。
+- ⚠️ 10-02 daily-update 批次疑似中斷延續惡化（見第 0 項：10-01 停在 7/9、10-02 僅到 3/9），非本任務處置範圍，僅記錄供後續排查參考。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [vip.104：婚假增至14天！新制10/1上路9大QA](https://vip.104.com.tw/preLogin/recruiterForum/post/249043)｜[TVBS：勞工婚假14天新制10/1上路](https://news.tvbs.com.tw/life/4023532)｜[果仁家：2026婚假14天10/1正式上路](https://applealmondrealty.com/posts/52009)｜[CTWANT：婚假8天增至14天10月1日上路](https://www.ctwant.com/article/500131/)｜[PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[DailyView：熱門話題婚假14天新制/吃香菜500萬](https://dailyview.tw/popular/detail/33795)｜[Know Your Meme：Weekly Roundup（Malfoid, Ronaldo Day, Hotel Lobby AI）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-malfoid-ronaldo-day-hotel-lobby-ai-and-more)｜[Bark：2026 TikTok Slang Guide](https://www.bark.us/blog/tiktok-slang/)｜[OpenL：50 TikTok English Phrases 2026](https://blog.openl.io/50-tiktok-english-phrases-everyone-uses-in-2026/)｜[folk.tw：2026重陽節10/18台灣習俗](https://folk.tw/festivals/draft-week-05-chongyang-guide/)
