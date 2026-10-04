@@ -10904,6 +10904,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "wcq-368",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://heavy.com/sports/soccer/world-cup/2026-fifa-world-cup-kickoff-times-spark-frustration-among-europe-and-africa-fans/",
+      "sourceNote": "Heavy.com report on 2026 World Cup group-stage kickoffs running past 3am for Europe/Africa fans, rewritten as an F2 misheard-utterance piece at a family World Cup + Go night",
+      "tags": ["世界盃", "圍棋", "延長賽", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "爸爸盯著圍棋棋盤，忽然說了一句「這顆真的留不住了」。我以為他在講場上那個被盯死的前鋒，抬頭看了一眼螢幕。他講的是左下角那顆孤子，棋盤上已經被白棋圍了三面，手指懸在那顆子上遲遲沒有拿起來。延長賽開踢的哨聲響了，他才把子收進棋盒，說局下完了。",
+          "editorNote": "送給那種一句話剛好同時是棋局用語和球評用語的場合",
+          "variations": [
+            "短版：他說留不住了，我以為是前鋒，他指的是棋局裡那顆孤子。"
+          ]
+        },
+        "en": {
+          "content": "Dad was staring at the Go board and suddenly said, \"This one's a goner.\" I thought he meant the striker getting marked out of the game on screen, and glanced up at it. He meant the lone stone in the bottom-left corner, already boxed in on three sides by white, his finger hovering over it without picking it up. The whistle for extra time blew before he finally swept the stone into the bowl and said the game was over.",
+          "editorNote": "For the moment one sentence happens to double as both Go jargon and match commentary",
+          "variations": [
+            "Short version: he said it was a goner, I assumed the striker, he meant the lone stone on the board."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wcq-369",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.cbc.ca/news/canada/ottawa/watching-world-cup-at-work-soccer-1.4713821",
+      "sourceNote": "CBC article on whether bosses should let staff watch World Cup matches, rewritten as an F2 two-meaning dialogue about red eyes from a goal vs. a lack of sleep",
+      "tags": ["世界盃", "紅眼眶", "熬夜", "對話"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「怎麼紅著眼睛？」\n「那顆進球我重播了三次。」\n「我說的是你是不是又熬夜看球了。」\n「對啊，重播到天快亮才停下來。」\n「那你早上怎麼爬起來的？」\n「鬧鐘響了好幾次我才認輸起床。」",
+          "editorNote": "吐槽家人誤讀你紅眼眶原因，一個是哭點一個是熬夜",
+          "variations": [
+            "短版：他問紅眼眶，一個答案是進球，另一個問法指的是熬夜。"
+          ]
+        },
+        "en": {
+          "content": "\"Why are your eyes so red?\"\n\"I replayed that goal three times.\"\n\"I meant are you pulling another all-nighter watching matches.\"\n\"Yeah, I kept replaying it until it was almost dawn.\"\n\"So how did you even get up this morning?\"\n\"It took the alarm going off a bunch of times before I gave up and got out of bed.\"",
+          "editorNote": "For when family misreads your red eyes as crying over a goal instead of staying up late",
+          "variations": [
+            "Short version: he asked about red eyes, one answer was the goal, the other question was about staying up all night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wcq-370",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.nbcbayarea.com/news/tech/Google-Doodle-Takes-on-Office-Workers-Sneaking-Peeks-at-World-Cup-Games-264269251.html",
+      "sourceNote": "NBC Bay Area piece on the Google Doodle about office workers sneaking World Cup peeks, rewritten as an F2 misread group-chat message piece",
+      "tags": ["世界盃", "群組訊息", "晨會", "誤會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "他在群組裡傳了一句「不用等我，先開始」。隔壁同事看到訊息，直接把晨會議程往前推了十分鐘。他打那句話的時候人站在洗手間隔間，手機螢幕停在世界盃的進球重播，想說的是自己要晚一點才能發言。會議結束他回到座位，才知道自己的報告段落已經被跳過。",
+          "editorNote": "形容打字當下的心思和別人讀出來的意思完全不同步",
+          "variations": [
+            "短版：他說先開始不用等，同事以為是會議，他指的是自己發言排序。"
+          ]
+        },
+        "en": {
+          "content": "He sent a message in the group chat saying, \"Don't wait for me, go ahead and start.\" The coworker next to him saw it and moved the morning meeting up ten minutes. He'd typed that from inside a restroom stall, his phone screen frozen on a World Cup goal replay, meaning he'd just be a little late giving his own update. When the meeting ended and he got back to his desk, he found his part of the report had been skipped entirely.",
+          "editorNote": "For when what you were thinking while typing and what everyone else read turn out to be two different things",
+          "variations": [
+            "Short version: he said start without him, coworkers thought meeting, he meant his own turn to speak."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wcq-371",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.anker.com/blogs/hubs-and-docks/how-to-watch-world-cup-while-working",
+      "sourceNote": "Anker blog guide on discreetly watching the World Cup while working, rewritten as an F2 list piece about one sentence overheard two ways at a Go club screening",
+      "tags": ["世界盃", "圍棋", "棋社", "清單"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 棋社牆上電視轉著世界盃\n— 老闆喊了一句這步太可惜了\n— 下棋那桌以為是說手裡那顆黑子\n— 看球那桌以為是說剛才那次嚴重誤判\n— 圍棋鐘滴答聲蓋過球評的聲音\n— 老闆原本說的是冰箱門卡住不能再搖",
+          "editorNote": "描述同一句驚呼在棋桌和球迷桌各自聽成不同急事",
+          "variations": [
+            "延伸版：老闆那句太可惜了，兩桌各自聽成自己在意的那件事，答案卻是冰箱門。"
+          ]
+        },
+        "en": {
+          "content": "— The TV on the wall streams the World Cup.\n— The owner yells, \"This move's a real shame.\"\n— The Go table thinks it means the stone in hand.\n— The soccer table thinks it means that blown call.\n— The Go clock's ticking drowns out the commentator.\n— He actually means the stuck fridge door, stop shaking it.",
+          "editorNote": "For when one exclamation gets heard as two different emergencies at the Go table and the soccer table",
+          "variations": [
+            "Extended version: the owner's one sentence got heard as two different emergencies, but the real answer was the fridge door."
+          ]
+        }
+      }
     }
   ]
 }
