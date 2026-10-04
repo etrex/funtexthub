@@ -12246,6 +12246,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "sec-417",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.gvm.com.tw/article/111318",
+      "sourceNote": "遠見雜誌：2026夏季電價怎麼算？一度多少錢？最省時段？冷氣設幾度最好？電價計算攻略",
+      "tags": [
+        "黑白配",
+        "家人",
+        "冷氣",
+        "猜拳"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "弟弟提議用黑白配決定誰去關冷氣，不猜拳。我問他為什麼不猜拳。他說猜拳要喊口令，會吵到在補眠的爸爸。黑白配只要伸手比出手掌或手背，不用出聲。",
+          "editorNote": "給家裡用黑白配分配家務，覺得猜拳比較熱鬧的人看。",
+          "variations": [
+            "短版：黑白配不用喊口令，比猜拳安靜，所以用來決定誰關冷氣。",
+            "延伸版：弟弟說猜拳會吵醒爸爸，黑白配只要伸手比，沒人出聲。"
+          ]
+        },
+        "en": {
+          "content": "My brother suggested we use black-and-white match to decide who turns off the AC, not rock-paper-scissors. I asked him why not rock-paper-scissors. He said rock-paper-scissors needs you to shout out loud, which would wake Dad from his nap. Black-and-white match just needs you to show your palm or the back of your hand, no sound required.",
+          "editorNote": "For families using black-and-white match to split chores, who assume rock-paper-scissors is more fun.",
+          "variations": [
+            "Short: Black-and-white match needs no shouting, so it's quieter than rock-paper-scissors for deciding who turns off the AC.",
+            "Extended: My brother said rock-paper-scissors would wake Dad, but black-and-white match just needs a silent show of hands."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-418",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.gvm.com.tw/article/111318",
+      "sourceNote": "遠見雜誌：2026夏季電價怎麼算？一度多少錢？最省時段？冷氣設幾度最好？電價計算攻略",
+      "tags": [
+        "黑白配",
+        "電費",
+        "台電",
+        "誤解"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "爸爸問黑白配輸的人要多繳多少電費。弟弟說電費跟猜拳結果沒關係。電費單上的度數是看電表讀出來的，不是看誰出白誰出黑。爸爸聽完就自己去關冷氣了。",
+          "editorNote": "給誤以為黑白配輸贏會影響電費多寡的人看。",
+          "variations": [
+            "短版：電費是看電表度數，不是看黑白配輸贏。",
+            "延伸版：爸爸問輸的人要繳多少，弟弟說帳單跟遊戲結果沒關係。"
+          ]
+        },
+        "en": {
+          "content": "Dad asked how much extra the loser of black-and-white match would have to pay on the electric bill. My brother said the bill has nothing to do with who wins the game. The kilowatt-hours on the bill come from the meter reading, not from who showed palm and who showed the back of their hand. Dad just got up and turned off the AC himself.",
+          "editorNote": "For anyone who assumes winning or losing black-and-white match changes how much the electric bill comes to.",
+          "variations": [
+            "Short: The electric bill is based on the meter reading, not on who wins black-and-white match.",
+            "Extended: Dad asked how much the loser owes; my brother said the bill has nothing to do with the game."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-419",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.gvm.com.tw/article/111318",
+      "sourceNote": "遠見雜誌：2026夏季電價怎麼算？一度多少錢？最省時段？冷氣設幾度最好？電價計算攻略（帳單兩個月一期的說明）",
+      "tags": [
+        "電費單",
+        "帳單週期",
+        "台電",
+        "家人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "媽媽問電費單為什麼都是兩個月一起算。我查了台電的說明。電表兩個月抄一次，電費單自然也兩個月開一次，跟省不省電沒有關係。",
+          "editorNote": "給拿到電費單覺得金額忽高忽低，想搞懂開單週期的人。",
+          "variations": [
+            "短版：電費單兩個月開一次，因為電表兩個月抄一次。",
+            "延伸版：金額忽高忽低，其實只是抄表週期，不是省電成效。"
+          ]
+        },
+        "en": {
+          "content": "Mom asked why the electric bill always covers two months at once. I looked up Taipower's explanation. The meter gets read once every two months, so the bill naturally comes out every two months too -- it has nothing to do with how much you saved.",
+          "editorNote": "For anyone staring at a bill that swings up and down, trying to understand the billing cycle.",
+          "variations": [
+            "Short: The bill comes every two months because the meter is only read every two months.",
+            "Extended: The amount jumping around isn't about how much you saved -- it's just the meter-reading cycle."
+          ]
+        }
+      }
+    },
+    {
+      "id": "sec-420",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.storm.mg/lifestyle/3831000",
+      "sourceNote": "風傳媒：吹冷氣設定這溫度，反而更浪費電！台電親自公開5個最省電做法",
+      "tags": [
+        "冷氣",
+        "省電迷思",
+        "溫度設定",
+        "台電"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "弟弟問網路說冷氣設二十九度最省電是不是真的。台電的資料顯示設定溫度太高，壓縮機會不停啟動反而更耗電。真正省電的做法是設二十六到二十八度，搭配電風扇幫忙循環。",
+          "editorNote": "給聽信網路冷氣溫度迷思，想知道正確省電設定的人。",
+          "variations": [
+            "短版：冷氣設二十六到二十八度配電風扇才省電，不是設二十九度。",
+            "延伸版：溫度設太高，壓縮機反覆啟動，反而更耗電。"
+          ]
+        },
+        "en": {
+          "content": "My brother asked if it's true that setting the AC to 29 degrees saves the most power. Taipower's own data shows that setting the temperature too high makes the compressor keep cycling on and off, which actually uses more power. The real power-saving setting is 26 to 28 degrees, paired with a fan to help circulate the air.",
+          "editorNote": "For anyone who believed the online myth about AC temperature and wants the actual power-saving setting.",
+          "variations": [
+            "Short: 26 to 28 degrees with a fan saves more power than setting it to 29.",
+            "Extended: Setting the temperature too high makes the compressor cycle on and off more, using even more power."
+          ]
+        }
+      }
     }
   ]
 }

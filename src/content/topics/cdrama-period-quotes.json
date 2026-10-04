@@ -9587,6 +9587,106 @@
             ]
           }
         }
+      },
+      {
+        "id": "cpq-462",
+        "dateAdded": "2026-10-04",
+        "sourceUrl": "https://hk.ulifestyle.com.hk/topic/detail/200461/%E7%B8%BD%E6%9C%89%E9%96%93%E7%A0%B4%E5%BB%9F%E5%9C%A8%E5%B7%A6%E8%BF%91-%E6%B8%AF%E5%8A%87%E5%81%9A%E5%88%B0%E7%88%9B%E7%9A%847%E5%A4%A7%E6%A9%8B%E6%AE%B5-%E5%8F%A4%E8%A3%9D%E5%8A%87%E7%AF%87",
+        "sourceNote": "港媒盤點古裝劇常見套路橋段（破廟重逢、偽裝不被識破等）文章作為題材背景參考，三段場景台詞為原創改寫",
+        "tags": ["古裝劇", "逃亡", "草鞋", "換裝", "追劇"],
+        "i18n": {
+          "zh-tw": {
+            "content": "驛站門口，公子把錦袍脫下塞進包袱，換上一雙草鞋，動作比換衣服還熟練。\n城門邊，守衛翻看通關文書，他垂著眼，草鞋上還沾著昨夜的泥。\n客棧裡，掌櫃多看了他那雙腳兩眼，沒多問，倒了一碗熱茶推過去。",
+            "editorNote": "想低調辦一件麻煩事又不想被認出來，可以用這三幕形容自己換上「作戰裝」的決心。",
+            "variations": [
+              "短版：換上草鞋的那一刻，比換什麼戲服都還入戲。",
+              "延伸版：草鞋踩過的那段路，才是這齣戲真正的轉折點。"
+            ]
+          },
+          "en": {
+            "content": "At the posthouse gate, the young lord peels off his brocade robe, stuffs it in a bundle, and laces on straw sandals faster than he's ever changed clothes before.\nAt the city gate, the guard flips through his travel papers while he keeps his eyes down; last night's mud still clings to the straw sandals.\nAt the inn, the innkeeper glances twice at those feet, asks nothing, and just pushes a bowl of hot tea across the counter.",
+            "editorNote": "For when you want to handle something quietly without being recognized -- borrow these three shots to describe your own resolve to change into \"combat gear.\"",
+            "variations": [
+              "Short version: the moment he laces up the straw sandals is more in-character than any costume change.",
+              "Long version: the road walked in straw sandals turns out to be the real turning point of the story."
+            ]
+          }
+        }
+      },
+      {
+        "id": "cpq-463",
+        "dateAdded": "2026-10-04",
+        "sourceUrl": "https://hk.ulifestyle.com.hk/topic/detail/200461/%E7%B8%BD%E6%9C%89%E9%96%93%E7%A0%B4%E5%BB%9F%E5%9C%A8%E5%B7%A6%E8%BF%91-%E6%B8%AF%E5%8A%87%E5%81%9A%E5%88%B0%E7%88%9B%E7%9A%847%E5%A4%A7%E6%A9%8B%E6%AE%B5-%E5%8F%A4%E8%A3%9D%E5%8A%87%E7%AF%87",
+        "sourceNote": "港媒盤點古裝劇常見套路橋段文章作為題材背景參考，三個反應場景為原創改寫，非逐句翻譯",
+        "tags": ["古裝劇", "聖旨", "反應", "宮廷劇", "追劇"],
+        "i18n": {
+          "zh-tw": {
+            "content": "祠堂裡，老族長聽完旨意，先敲了三下拐杖。\n繡樓上，丫鬟手一抖，針線筒摔到了窗外。\n校場邊，將士們齊刷刷跪成一片。",
+            "editorNote": "同一道消息傳開，三個地方的反應完全不同，適合形容一件事炸開鍋的瞬間。",
+            "variations": [
+              "短版：聖旨還沒讀完，拐杖先敲了三下。",
+              "延伸版：針線筒摔到窗外那一下，比旨意本身還讓人記住。"
+            ]
+          },
+          "en": {
+            "content": "At the ancestral hall, the old patriarch taps his cane three times before the decree is even finished.\nIn the embroidery tower, the maid's hand jerks and the needle case drops out the window.\nBy the training ground, the soldiers drop to their knees in one clean wave.",
+            "editorNote": "The same announcement lands in three different places and gets three completely different reactions -- good for describing a piece of news that sets everyone off at once.",
+            "variations": [
+              "Short version: the decree isn't even finished and the cane has already tapped three times.",
+              "Long version: the needle case hitting the window is more memorable than the decree itself."
+            ]
+          }
+        }
+      },
+      {
+        "id": "cpq-464",
+        "dateAdded": "2026-10-04",
+        "sourceUrl": "https://hk.ulifestyle.com.hk/topic/detail/200461/%E7%B8%BD%E6%9C%89%E9%96%93%E7%A0%B4%E5%BB%9F%E5%9C%A8%E5%B7%A6%E8%BF%91-%E6%B8%AF%E5%8A%87%E5%81%9A%E5%88%B0%E7%88%9B%E7%9A%847%E5%A4%A7%E6%A9%8B%E6%AE%B5-%E5%8F%A4%E8%A3%9D%E5%8A%87%E7%AF%87",
+        "sourceNote": "港媒盤點古裝劇常見套路橋段（偽裝身分不被輕易識破）文章作為題材背景參考，三句對白為原創改寫",
+        "tags": ["古裝劇", "刺客誤會", "草鞋", "懸疑", "追劇"],
+        "i18n": {
+          "zh-tw": {
+            "content": "「你腳上這雙草鞋哪裡來的」——宮門口的侍衛，槍尖已經抵著他的肩膀。\n「公子別怕，草鞋滿街都是，不算什麼證據」——市集的草鞋攤老闆，順手替他擋了一句。\n「這事傳到王府，少不了一場審問」——跟在後頭的小廝，壓低聲音念了一句。",
+            "editorNote": "被誤認成不該出現的人時，可以借這三句說明「誤會通常比真相熱鬧」。",
+            "variations": [
+              "短版：草鞋滿街都是，不算什麼證據——但他還是跑了。",
+              "延伸版：審問還沒開始，謠言已經先傳到王府。"
+            ]
+          },
+          "en": {
+            "content": "\"Stop -- where did those straw sandals on your feet come from?\" The guard at the palace gate already has his spear tip against the man's shoulder.\n\"Don't worry, young master, straw sandals are everywhere, that proves nothing.\" The old vendor at the market's sandal stall covers for him without being asked.\n\"If this reaches the manor, there'll be no avoiding an interrogation.\" The young attendant trailing behind mutters it under his breath.",
+            "editorNote": "For when you're mistaken for someone you're not -- borrow these three lines to show that a misunderstanding is always louder than the truth.",
+            "variations": [
+              "Short version: straw sandals are everywhere and prove nothing -- yet he still ran.",
+              "Long version: the interrogation hasn't even started, and the rumor already beat it to the manor."
+            ]
+          }
+        }
+      },
+      {
+        "id": "cpq-465",
+        "dateAdded": "2026-10-04",
+        "sourceUrl": "https://hk.ulifestyle.com.hk/topic/detail/200461/%E7%B8%BD%E6%9C%89%E9%96%93%E7%A0%B4%E5%BB%9F%E5%9C%A8%E5%B7%A6%E8%BF%91-%E6%B8%AF%E5%8A%87%E5%81%9A%E5%88%B0%E7%88%9B%E7%9A%847%E5%A4%A7%E6%A9%8B%E6%AE%B5-%E5%8F%A4%E8%A3%9D%E5%8A%87%E7%AF%87",
+        "sourceNote": "港媒盤點古裝劇常見套路橋段文章作為題材背景參考，三幕認親場景為原創改寫",
+        "tags": ["古裝劇", "認親橋段", "反轉", "宮鬥劇", "追劇"],
+        "i18n": {
+          "zh-tw": {
+            "content": "破廟裡，老婦人翻出繡著同款雲紋的肚兜，手開始抖。\n大堂上，知府盯著嫌犯腳踝的那塊胎記，突然摔了驚堂木。\n碼頭邊，船還沒靠岸，少年已經認出對方走路的樣子。",
+            "editorNote": "認親橋段最動人的地方，往往不是哭喊，而是那個瞬間所有人突然安靜下來。",
+            "variations": [
+              "短版：胎記還沒說破，驚堂木已經先摔了。",
+              "延伸版：船還沒靠岸，少年已經認出那個走路的樣子。"
+            ]
+          },
+          "en": {
+            "content": "In the temple ruins, the old woman digs out a baby wrap stitched with the same cloud pattern, and her hands start shaking.\nIn the court hall, the magistrate stares at the birthmark on the suspect's ankle and slams down the gavel block without warning.\nAt the dock, the boat hasn't even landed yet, and the young man already recognizes the other person by the way they walk.",
+            "editorNote": "The most moving part of a long-lost-family reveal usually isn't the crying -- it's the moment everyone in the room suddenly goes quiet.",
+            "variations": [
+              "Short version: the birthmark hasn't even been named yet, and the gavel block already dropped.",
+              "Long version: the boat hasn't landed, and the young man has already recognized that walk."
+            ]
+          }
+        }
       }
 ]
 }
