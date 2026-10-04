@@ -13472,3 +13472,34 @@ Sources: [PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [vip.104：婚假增至14天！新制10/1上路9大QA](https://vip.104.com.tw/preLogin/recruiterForum/post/249043)｜[TVBS：勞工婚假14天新制10/1上路](https://news.tvbs.com.tw/life/4023532)｜[果仁家：2026婚假14天10/1正式上路](https://applealmondrealty.com/posts/52009)｜[CTWANT：婚假8天增至14天10月1日上路](https://www.ctwant.com/article/500131/)｜[PopDaily：2026年Threads上爆紅的5個梗](https://www.popdaily.com.tw/forum/entertainment/1643674)｜[DailyView：熱門話題婚假14天新制/吃香菜500萬](https://dailyview.tw/popular/detail/33795)｜[Know Your Meme：Weekly Roundup（Malfoid, Ronaldo Day, Hotel Lobby AI）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-malfoid-ronaldo-day-hotel-lobby-ai-and-more)｜[Bark：2026 TikTok Slang Guide](https://www.bark.us/blog/tiktok-slang/)｜[OpenL：50 TikTok English Phrases 2026](https://blog.openl.io/50-tiktok-english-phrases-everyone-uses-in-2026/)｜[folk.tw：2026重陽節10/18台灣習俗](https://folk.tw/festivals/draft-week-05-chongyang-guide/)
+
+## 2026-10-04 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-27～10-03：168/189/168/140/72/113（42 檔）。10-01 停在 7/9（140）、10-02 僅 3/9（72）、10-03 回升至 113 則但未標示批次數——批次中斷狀態延續，惟 10-03 較 10-02 已有回升，疑似在自行恢復中。本次研究執行當下（10-04）工作區有 **27 個檔案**處於未提交修改狀態（`git diff --stat` 顯示 3228 insertions），推測為併發 generator 正在跑 10-04 批次（未 commit）。依既定分工**僅觀察登錄，不碰這 27 個檔案**，本次 commit 僅動 `research-log.md`。本機領先 origin 1 個提交（10-03 研究簡報），將隨本次一併 push。未重測分發層／DNS／404（沿用 09-24 狀態；`src/pages/404.astro` 仍缺，見需人工清單）。
+
+### New Topic Recommendations
+
+1. **🟢 候選（時效窗口中，建議儘快指派）：「健康幣」10/1 上路新制**——衛福部推出的 18 歲以上民眾完成健檢/篩檢/疫苗即可累積兌換的獎勵機制，10/1 正式上路，話題度與「婚假14天」同週登場。語料精確查核：`健康幣` 0 則／0 檔 ⇒ **白地成立**。可寫角度：「終於有人把『不想健檢』的藉口變成『等於白送錢』」「健康幣湊起來先換什麼」，適合 `adulting-quotes.json`／`fitness-quotes.json` 角度，不需獨立開檔。
+2. **🟢 候選（無時效壓力）：英文「whimsymaxxing」生活美學詞**——10 月中 NBC/TODAY/Vice 等多家媒體報導的新「-maxxing」家族詞，指「故意把日常小物弄得浮誇／俏皮」（貼水鑽、加吊飾等），核心精神是「不等特殊場合也要找樂子」。語料精確查核：`whimsy` 0 則／0 檔（`maxxing` 字根本身已有 18 則：`moneymaxxing`／`sleepmaxxing`／`looksmaxxing`／`snackmaxxing`，證明此家族詞在 `slang-quotes.json` 有穩定寫作範式可直接套用）⇒ **白地成立**，比照既有 `-maxxing` 系列寫法指派即可，不需獨立開檔。
+3. **🟢 候選（無時效壓力）：英文「my mama didn't raise a quitter」反諷用法**——TikTok 近期用法是把這句原本激勵系母句搬去捍衛極瑣碎的堅持（例如「沒把那集看完就不是我媽的女兒」），反差產生笑點。語料精確查核：`my mama` 0 則／0 檔 ⇒ **白地成立**，適合 `witty-comebacks.json`／`absurd-wisdom.json`（正經語氣講廢話的反差感）。
+4. **🟡 登錄觀察（屬句式/修辭裝置，不建議獨立指派）：「Two Fishes」荒謬自信體**——源自 Love Island USA 參賽者 Corbin Mims 的「兩條魚不用放回一條」片段音檔，網路用他的語氣「用 TED 演講的鎮定腔調捍衛一個完全不合理的論點」，核心是「同時做到心平氣和與瘋癲」。語料查核 `Two Fishes` 0 則／0 檔，但本質與 09-29 記錄的「Kinda chic to…」「Imagine hating on…」同類——**是敘事裝置不是話題**，且根源綁定特定真人音檔，比照辦理：僅作 `absurd-wisdom.json` 既有項目的寫作手法參考，不獨立開檔。
+5. **🔴 不新增：Know Your Meme 近期週報詞條**（Wawario/Wawaluigi：角色向迷因，純視覺無法文字化；Jean Phil：法國真人網紅瘋傳片段，疑似 AI 生成但仍綁定具體人物肖像；Blocking the Street：Family Guy 版權片段+音效才成立）——逐條辨識均符合既往「真人/版權片段/需配合畫面」排除原則，不建議指派。
+6. **🔴 不新增：本週中文候選詞多為舊詞重現或已飽和**——`你後面有車`（3 則／1 檔，09-26 已記錄飽和）、`真冰涼`（6 則／1 檔，已覆蓋）、`停車`相關新罰則「1200 元」（`停車` 161 則／36 檔、`1200` 17 則，已飽和，非白地）。
+7. **🔴 不新增：甄嬛傳馬拉松最新一批角色暱稱**（大清Alex／無性升職／健身嬛）——精確詞查核確為 0 則／0 檔形式白地，但這是至少從 09 月中旬起持續觀察的**同一評量指令素材**（`cdrama-period-quotes.json` 已 461 則、`甄嬛` 相關 7 則），每週只是換一批新暱稱，結構上邊際新增空間趨近於零，列入觀察而非新增建議（見 Content Trends）。
+8. **🔴 不新增：其餘 10 月新制查核**（虛擬資產轉帳身分查核加嚴：金融法規類無笑點可寫；公費流感與新冠疫苗開打：`疫苗` 24 則已有覆蓋，非白地）。
+
+### Content Trends
+- **「新制上路」持續驗證為可靠白地來源**：連續第二週（09-30「好市多熟食區」已結案放棄、10-03「婚假14天」、10-04「健康幣」）從「本月新制」關鍵字直接命中可寫素材，建議固定排程保留此關鍵字。
+- **「甄嬛傳馬拉松梗」確認為會自我重複生成的來源**：每週換一批新暱稱但語料結構已飽和（461 則），形式上「查無此詞」≠真正白地，後續掃描到此類來源應優先檢查母題飽和度而非單詞精確查核。
+- 英文側本週 Know Your Meme 週報持續被「真人片段/AI 疑雲人物/版權音效」主導（Wawario、Jean Phil、Blocking the Street），延續 09-28 起連續多週英文側零新增白地的趨勢；TikTok 側反而命中兩則可文字化的生活方式/修辭類白地（whimsymaxxing、my mama didn't raise a quitter），顯示英文側後續應持續以「造句模板/生活風格詞」取代逐詞追熱梗（09-29 已建議）。
+
+### Existing Topic Updates
+- 沿用中候選（狀態皆未變，皆為長效概念、無時效壓力）：KitKat 劫案哏（0/0，第 12 天）、「不知道，我的身材很曼妙」（0/0，第 11 天）、比奇堡開運桌布（0/0，第 9 天）、《尼古喵喵》貓漫畫（0/0，第 9 天，IP 風險維持低優先）、英文「Kinda chic to…」句式（0/0，第 6 天）、英文「Imagine hating on…」句式（0/0，第 6 天，句式類）。
+- ⚠️ **婚假14天新制候選（10-03 新增）第 2 天仍未指派**（`wedding-quotes.json` 查核 0 則，本次工作區未提交的 27 檔改動中亦未包含該檔），時效窗口約 10/1–10/14，建議下次 daily-update 儘快排入，否則時效將於 10/14 前流失。
+- **新增候選**：健康幣新制（0/0，第 1 天，建議儘快指派，時效參考婚假新制同窗口）、whimsymaxxing（0/0，第 1 天）、my mama didn't raise a quitter（0/0，第 1 天）、Two Fishes 荒謬自信體（0/0，第 1 天，句式類，作既有項目寫作手法參考不需獨立開檔）。
+- ⚠️ 10-01/10-02 daily-update 批次中斷狀態：10-03 已回升至 113 則（較 10-02 的 72 則回升），疑似自行恢復中，非本任務處置範圍，僅記錄供後續排查參考。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()` ——本次重新核對原始碼確認 `ordinal_enum`（約 L128）與 `max_rare_ngram`（約 L169）仍走 `fails.append`，未改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [ettoday：10月新制上路健康幣/停車罰則等](https://www.ettoday.net/news/20261001/3246843.htm)｜[4gTV：2026年10月新制整理](https://www.4gtv.tv/article/2026100108000004)｜[inews.setn：10月新制QA](https://inews.setn.com/news/1914600)｜[Know Your Meme：Weekly Roundup（Wawario, Jean Phil, Blocking the Street）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-wawario-jean-phil-blocking-the-street-and-more)｜[Yahoo News Singapore：Who Is Jean Philanthrope](https://sg.news.yahoo.com/jean-philanthrope-ai-mysterious-frenchman-170114829.html)｜[NBC LA：What is whimsy maxxing?](https://www.nbclosangeles.com/the-scene/what-is-whimsy-maxxing-decor-trend/3917757/)｜[TODAY：Whimsy Maxxing trend explained](https://www.today.com/life/whimsy-maxxing-trend-rcna587664)｜[SocialBee：2026 TikTok trends you can't miss (Sept 29)](https://socialbee.com/blog/tiktok-trends-you-cant-miss)｜[newengen：October 2026 TikTok Trends](https://newengen.com/insights/october-tiktok-trends/)｜[udn：甄嬛傳馬拉松新哏懶人包](https://stars.udn.com/star/story/10088/9328443)
