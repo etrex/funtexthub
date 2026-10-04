@@ -13551,6 +13551,98 @@
           ]
         }
       }
+    },
+    {
+      "id": "fq-455",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.foxnews.com/lifestyle/14-hilariously-embarrassing-gym-stories-that-will-make-you-cringe.amp",
+      "sourceNote": "外媒整理健身房糗事合輯，提到有人在健身房看見童年體育課器材而愣住，改寫為跳山羊箱子重現眼前的場景",
+      "tags": ["健身房", "跳山羊", "復古器材", "回憶"],
+      "i18n": {
+        "zh-tw": {
+          "content": "你推開剛開幕的健身房玻璃門，角落立著一台木頭跳山羊，你盯著它停住，才想起這是國小體育課用過的箱子。教練說這是暖身站，你把雙手壓上箱面，身體動作比記憶還快一步。落地那一下，你聽見自己的呼吸聲蓋過音樂。",
+          "editorNote": "給在健身房角落認出小學體育課器材的人。",
+          "variations": [
+            "短版：那台木頭箱子，身體比你先想起來怎麼落地。"
+          ]
+        },
+        "en": {
+          "content": "You push through the glass door of the gym that just opened, and in the corner stands a wooden vaulting box, and you freeze for a second, realizing it's the same box from grade-school PE class. The coach calls it today's warm-up station, so you plant both hands on top, your body moving a step ahead of memory. The instant you land, your own breathing drowns out the music.",
+          "editorNote": "For anyone who spots an old grade-school PE apparatus hiding in a modern gym.",
+          "variations": [
+            "Short: Your body remembered the landing before your mind did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-456",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.trainwell.net/blog/consistency-in-fitness",
+      "sourceNote": "文章談健身習慣的持續性與早起訓練的身體感受，改寫為清晨五點半獨自重訓的片段敘述",
+      "tags": ["健身房", "晨練", "重訓", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨五點半，你把保溫瓶放進置物櫃，手指還沒完全醒。重訓椅的皮面是涼的，你坐下去才感覺得到昨天沒拉開的那條肌肉。你盯著鏡子裡那個卡住半秒的自己，沒有調整姿勢，直接做下一組。離開時天還沒亮，手機螢幕顯示打卡成功。",
+          "editorNote": "給天還沒亮就已經打完一組的人。",
+          "variations": [
+            "延伸版：鏡子裡那半秒卡住，手機倒是誠實記錄了。"
+          ]
+        },
+        "en": {
+          "content": "At five thirty in the morning, you drop your water bottle into the locker before your fingers are fully awake. The bench seat is cold, and sitting down is the first time you feel that muscle you never stretched out yesterday. You watch yourself freeze for half a second in the mirror, skip fixing your form, and move straight into the next set. By the time you leave, it's still dark outside, and your phone shows the check-in went through.",
+          "editorNote": "For anyone who's already finished a set before the sky turns light.",
+          "variations": [
+            "Extended: That half-second freeze in the mirror went unnoticed, but your phone logged it anyway."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-457",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://startingstrength.com/resources/forum/general-q-and-a/94522-deadlift-grip-failing.html",
+      "sourceNote": "健力論壇討論握力與起跑姿勢的細節調整，改寫為跳山羊起跑前逐步檢查動作的條列敘述",
+      "tags": ["跳山羊", "健身房", "復古器材", "觀察"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你把跳山羊的箱蓋擦過一次，確認木紋沒有裂開\n— 你助跑距離量了三步，不多不少\n— 雙手扶上箱面那一下，手心沒有抖\n— 你跨過去的瞬間，膝蓋記得角度\n— 落地回頭看教練，他只是點頭",
+          "editorNote": "給把跳山羊箱面摸過一輪才敢起跑的人。",
+          "variations": [
+            "延伸版：箱子沒變，變的是起跑前你多算的那三步。"
+          ]
+        },
+        "en": {
+          "content": "— You wipe the lid of the vaulting box once, checking the grain hasn't cracked.\n— You measure your run-up at three steps, no more, no less.\n— The moment your hands land on the box, your palms aren't shaking.\n— The instant you clear it, your knees remember the angle.\n— You land and glance back at the coach, who just nods.",
+          "editorNote": "For anyone who runs a hand over the vaulting box before daring to sprint.",
+          "variations": [
+            "Extended: The box hasn't changed; what changed is the three steps you now count before running."
+          ]
+        }
+      }
+    },
+    {
+      "id": "fq-458",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.healthline.com/nutrition/10-benefits-of-exercise",
+      "sourceNote": "文章列出規律運動對心肺與專注力的好處，改寫為飛輪課倒數十秒時身體反應的敘述",
+      "tags": ["飛輪", "健身房", "團課", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "飛輪教練喊到最後十秒。你盯著前輪轉速數字不敢眨眼。\n音樂停的那一秒，你才發現整堂課沒換過呼吸的節奏。踏板鬆開以後，你的手還撐在把手上沒放。",
+          "editorNote": "給飛輪課結束後手還放不下把手的人。",
+          "variations": [
+            "短版：教練喊的是倒數，你聽成了加油。"
+          ]
+        },
+        "en": {
+          "content": "The spin coach counts down the last ten seconds. You stare at the display number, afraid to blink.\nThe second the music cuts, you realize you haven't changed your breathing rhythm all class. When the pedals release, your hands are still gripping the bars.",
+          "editorNote": "For anyone whose hands won't let go of the handlebars right after spin class ends.",
+          "variations": [
+            "Short: What the coach yells is a countdown — you just hear it as encouragement."
+          ]
+        }
+      }
     }
   ]
 }

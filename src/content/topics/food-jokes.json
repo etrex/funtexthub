@@ -14435,6 +14435,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "fj-512",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://travel.yam.com/article/131260",
+      "sourceNote": "寧夏夜市豆花老店排隊盛況報導，改寫為等豆花時把墊紙折成紙鶴的小故事",
+      "tags": [
+        "豆花",
+        "紙鶴",
+        "小吃攤",
+        "口袋"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "你站在豆花攤前，把墊底的那張紙，折成一隻紙鶴。\n老闆端出豆花，你把紙鶴夾進外套口袋。\n走回家的路上，外套口袋鼓著一塊。\n紙鶴被壓得扁扁的，豆花早就喝光了。",
+          "editorNote": "適合聊買甜點等待時，手上順手折東西打發時間的小習慣。",
+          "variations": [
+            "短版：「紙鶴折一半，豆花已經喝光。」"
+          ]
+        },
+        "en": {
+          "content": "You're standing in front of the tofu pudding stall, folding the paper under your bowl into a paper crane.\nThe owner hands over the tofu pudding, and you tuck the crane into your jacket pocket.\nOn the walk home, there's a lump in your jacket pocket.\nThe crane's crushed flat, and the tofu pudding is long gone.",
+          "editorNote": "Good for talking about folding something small to pass the time while waiting to buy dessert.",
+          "variations": [
+            "Short version: \"Half a crane folded, the tofu pudding's already gone.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-513",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://udn.com/news/story/7327/9689520",
+      "sourceNote": "高雄鹹酥雞嘉年華報導，改寫為買鹹酥雞時把發票折成紙鶴帶上公車的小故事",
+      "tags": [
+        "鹹酥雞",
+        "紙鶴",
+        "悠遊卡",
+        "外帶"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 你手裡的發票被你折成紙鶴\n— 鹹酥雞攤前站著一排人\n— 紙鶴被你夾在悠遊卡後面\n— 老闆端出那袋鹹酥雞\n— 紙鶴跟著你一起上公車\n— 隔天書包飄出胡椒鹽味",
+          "editorNote": "適合聊買鹹酥雞時，隨手折東西打發時間又忘記拿走的小插曲。",
+          "variations": [
+            "短版：「紙鶴搭公車，胡椒鹽忘在書包。」"
+          ]
+        },
+        "en": {
+          "content": "— You fold the receipt in your hand into a paper crane.\n— A line forms outside the fried snack stand.\n— You tuck the crane behind your transit card.\n— The owner hands over the bag of fried snacks.\n— The crane rides the bus home with you.\n— The next day, your backpack smells like pepper salt.",
+          "editorNote": "Good for talking about fidgeting with small folds while getting fried snacks, then forgetting about them.",
+          "variations": [
+            "Short version: \"The crane rides the bus, the pepper salt stays in the backpack.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-514",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://udn.com/news/story/7323/9741772",
+      "sourceNote": "2026臺北國際牛肉麵節報導，改寫為深夜牛肉麵店加辣踩雷的小故事",
+      "tags": [
+        "牛肉麵",
+        "辣度",
+        "深夜",
+        "獨自"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "牛肉麵店打烊前十分鐘，你推門走進去，位子剩最後一桌。\n老闆看了你一眼，問要加辣還是不要。\n你點頭說都加，端上桌才知道辣度超出想像。\n碗底的湯一滴不剩，額頭的汗倒是流了一整張衛生紙。",
+          "editorNote": "適合聊深夜一個人吃麵、不服輸硬是加辣的經驗。",
+          "variations": [
+            "短版：「辣度超標，衛生紙用掉一整張。」"
+          ]
+        },
+        "en": {
+          "content": "Ten minutes before the beef noodle shop closes, you push the door open, and there's only one table left.\nThe owner glances at you and asks if you want it spicy or not.\nYou nod and say all the way, and once it's served you realize the spice level is way beyond what you expected.\nNot a drop of soup left in the bowl, but your forehead sweat fills an entire tissue.",
+          "editorNote": "Good for sharing the late-night solo noodle run where the spice level backfires but you finish it anyway.",
+          "variations": [
+            "Short version: \"Spice level off the charts, a whole tissue gone.\""
+          ]
+        }
+      }
+    },
+    {
+      "id": "fj-515",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.foodpanda.com.tw/chain/ch6gm/tai-wan-yan-su-ji",
+      "sourceNote": "鹽酥雞外送平台頁面，胡椒鹽屬加購選項，改寫為半夜叫外送漏配胡椒鹽的小故事",
+      "tags": [
+        "鹽酥雞",
+        "外送",
+        "半夜",
+        "胡椒鹽"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "半夜兩點，手機螢幕跳出外送已經到的訊息。\n你走到門口，接過那袋還燙手的鹽酥雞。\n沙發上堆著沒收的外套，袋子就這樣放在上面。\n吃到一半才發現，附的胡椒鹽少了一包。",
+          "editorNote": "適合聊半夜叫外送，拆開才發現少了一樣配料的小失落。",
+          "variations": [
+            "短版：「鹽酥雞到了，胡椒鹽沒到。」"
+          ]
+        },
+        "en": {
+          "content": "It's two in the morning, and your phone screen lights up with a message that the delivery has arrived.\nYou walk to the door and take the still-hot bag of fried chicken.\nThe sofa is piled with a jacket you never put away, and the bag just lands on top of it.\nHalfway through eating, you realize one of the pepper salt packets is missing.",
+          "editorNote": "Good for talking about late-night delivery orders where something small turns out to be missing.",
+          "variations": [
+            "Short version: \"The fried chicken arrived, the pepper salt didn't.\""
+          ]
+        }
+      }
     }
   ]
 }
