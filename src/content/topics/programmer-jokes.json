@@ -16335,6 +16335,122 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-595",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "受2026年AI程式幽默趨勢（事故歸咎、沒人能解釋為何能跑）啟發，改寫成機房漏水摺紙船情境",
+      "tags": [
+        "工程師日常",
+        "事故",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "地下室機房漏水那天,運維把警報列印單摺成紙船,放進積水的轉角。印著資料庫逾時的那艘先滑向排水孔,印著憑證過期的那艘卡在磁磚縫裡動不了。半小時後水退了,磁磚縫裡的那艘紙船還在,只是攤平成一張濕紙。到底是哪個警報,泡得比較久?",
+          "editorNote": "給還在算哪個警報泡水比較久的運維。",
+          "variations": [
+            "短版：警報摺成紙船,泡得久的那艘才是真麻煩。",
+            "延伸版：半小時的積水退去後,只有一艘紙船還攤在磁磚縫裡。"
+          ]
+        },
+        "en": {
+          "content": "The day the server room flooded, ops folded the alert printouts into paper boats and set them down in the puddle at the corner. The one marked database timeout slid straight for the drain, while the one marked expired certificate got stuck in a tile seam. Half an hour later the water was gone, and the boat stuck in the seam was still there, just pressed flat into a damp sheet of paper. Which alert ended up soaking longer?",
+          "editorNote": "For the ops person still tallying which alert soaked the longest.",
+          "variations": [
+            "Short version: fold the alert into a boat — the one that soaks longest is the real problem.",
+            "Extended: half an hour after the flood receded, only one boat was still pressed flat in the tile seam."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-596",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://explainx.ai/blog/vibecoding-who-is-json-meme-ai-coding-explained-2026",
+      "sourceNote": "受vibe coding文化討論（新人缺乏基礎理解）啟發，改寫成新人訓練最後一天的code review情境",
+      "tags": [
+        "code review",
+        "新人",
+        "命名"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "新人訓練最後一天,帶教學長把這週所有的code review留言印出來,一條一條摺成紙船。十幾艘船擺滿整張會議桌,船身歪歪斜斜,畢竟都是拿A4紙硬摺的。學長挑出其中一艘,上面寫著命名可以再清楚一點,放到桌角獨立擺著。十幾艘船裡,被放到桌角的,是哪一艘?",
+          "editorNote": "給被新人用code review留言摺船那天還在整理會議桌的學長。",
+          "variations": [
+            "短版：十幾艘紙船裡,只有一艘被單獨放到桌角。",
+            "延伸版：A4紙摺的船都歪,但被挑出來的那艘,理由寫得很清楚。"
+          ]
+        },
+        "en": {
+          "content": "On the last day of onboarding, the mentor printed out every code review comment from the week and folded each one into a paper boat. A dozen boats covered the whole conference table, every hull crooked, since they were all forced out of stiff A4 paper. The mentor picked one out — the one that said naming could be clearer — and set it apart at the corner of the table. Out of a dozen boats, which one ended up alone at the corner?",
+          "editorNote": "For the mentor still clearing the table after letting a new hire fold review comments into boats.",
+          "variations": [
+            "Short version: out of a dozen paper boats, only one got set apart at the corner.",
+            "Extended: every boat folded from stiff A4 paper came out crooked, but the one singled out had its reason spelled out."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-597",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://programmerhumor.io/ai-memes/programming-in-2026-aei4",
+      "sourceNote": "受2026年AI生成程式碼沒人能解釋原理的討論啟發，改寫成半夜on-call套用AI建議的情境",
+      "tags": [
+        "AI",
+        "on-call",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "凌晨兩點的on-call警報響了,值班的是剛轉正的新人。他把錯誤訊息複製貼上丟進AI對話框,AI回了一段看起來很有道理的修復建議。他照著改完重新部署,系統真的恢復正常,只是沒人問起為什麼。隔天站會,主管問起昨晚那段改動,新人到底能不能解釋那三行程式碼在做什麼?",
+          "editorNote": "給半夜看著AI建議通過卻沒人敢問為什麼的值班工程師。",
+          "variations": [
+            "短版：AI給的修復生效了,沒人敢問那三行在幹什麼。",
+            "延伸版：半夜兩點套用AI建議,系統恢復了,站會才開始補問題。"
+          ]
+        },
+        "en": {
+          "content": "The on-call alert went off at two in the morning, and the one on duty was the new hire who'd just come off probation. He copied the error message into an AI chat window, and the AI replied with a fix that sounded perfectly reasonable. He applied the change, redeployed, and the system actually came back up — nobody asked why it worked. At standup the next day, the manager brought up last night's change: can the new hire actually explain what those three lines of code do?",
+          "editorNote": "For the on-call engineer staring at a passing AI fix nobody dares to question yet.",
+          "variations": [
+            "Short version: the AI's fix worked, and nobody dared ask what those three lines actually do.",
+            "Extended: at two in the morning the AI's suggestion got applied and the system came back — the questions only started at standup."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-598",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://programmerhumor.io/memes/ai-generated-code",
+      "sourceNote": "受前端/後端/資料庫互相甩鍋的程式幽默啟發，改寫成三部門紙船比賽情境",
+      "tags": [
+        "CSS",
+        "code review",
+        "工程師日常"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 紙船比賽規則只有一條\n— 先漂過水溝蓋就贏\n— 前端那艘寫著CSS對齊\n— 後端那艘寫著API逾時\n— 資料庫那艘吃水最深\n— 卡住的是哪一艘？",
+          "editorNote": "給想知道這次賽跑誰先卡住的三個團隊。",
+          "variations": [
+            "短版：三艘紙船卡在水溝蓋前,誰先掉下去還沒人知道。",
+            "延伸版：CSS、API、資料庫各佔一艘,比賽規則只有一條,先過水溝蓋就贏。"
+          ]
+        },
+        "en": {
+          "content": "— The paper boat race has exactly one rule.\n— First one past the drain grate wins.\n— The frontend boat says CSS alignment.\n— The backend boat says API timeout.\n— The database boat sits lowest in the water.\n— Which one is stuck?",
+          "editorNote": "For the three teams waiting to find out which boat gets stuck first.",
+          "variations": [
+            "Short version: three paper boats are stuck at the drain grate, and nobody knows yet which one drops first.",
+            "Extended: CSS, API, and the database each get their own boat, and the race has exactly one rule — first past the grate wins."
+          ]
+        }
+      }
     }
   ]
 }
