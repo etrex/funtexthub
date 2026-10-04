@@ -16048,6 +16048,118 @@
           ]
         }
       }
+    },
+    {
+      "id": "dh-564",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.ettoday.net/news/20260824/3224943.htm",
+      "sourceNote": "取材自台南安南醫院周邊淹水、消防出動橡皮艇接駁民眾就醫的報導，社區借艇場景為原創改寫",
+      "tags": [
+        "黑色幽默",
+        "天災",
+        "社區",
+        "人情"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "消防局器材室的橡皮艇，型號還是十年前那一款，馬達送修單已經換了兩個承辦人。\n社區深夜的LINE群組裡，有人問橡皮艇借不借，底下秒速冒出一個收款連結。\n三樓那戶人家開著電視看淹水新聞，筷子沒停下來，桌上的魚湯還冒著熱氣。",
+          "editorNote": "水災新聞洗版那幾天拿出來用——借東西的速度，永遠比修東西的速度快。",
+          "variations": [
+            "延伸版：那個收款連結後來被證實是詐騙，但沒人記得撤回借用的留言。"
+          ]
+        },
+        "en": {
+          "content": "The dinghy sitting in the fire station's gear room is still the same model from ten years ago, and the motor's repair order has already changed hands between two different clerks.\nIn the neighborhood's late-night group chat, someone asks if they can borrow it, and a payment link shows up underneath within seconds.\nThe family on the third floor keeps the TV on the flood coverage, chopsticks never pausing, the fish soup on the table still steaming.",
+          "editorNote": "Good for whenever flood coverage takes over the feed -- borrowing something always moves faster than fixing it.",
+          "variations": [
+            "Extended: The payment link later turned out to be a scam, but nobody bothered deleting the message asking to borrow the boat."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-565",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://news.tvbs.com.tw/life/2907500",
+      "sourceNote": "取材自防災包內容物須每半年檢查更新、避免過期的報導，橡皮艇與防災包混淆情節為原創改寫",
+      "tags": [
+        "黑色幽默",
+        "防災",
+        "消費",
+        "荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "購物車裡的橡皮艇，標籤是兒童玩具\n防災包標籤半年前，餅乾過期三個月\n老爸拿說明書研究打氣筒，接不上氣嘴",
+          "editorNote": "網購防災用品踩雷時拿出來用——便宜的那艘，從頭到尾都沒打算救人。",
+          "variations": [
+            "短版：防災包裡那艘橡皮艇，拆開才發現是泳池玩具的尺寸。"
+          ]
+        },
+        "en": {
+          "content": "The dinghy sitting in the shopping cart is tagged as a kids' pool toy\nThe emergency kit's date tag is six months old, the crackers expired three months back\nDad's reading the manual on the air pump, still can't get it to fit the valve",
+          "editorNote": "Good for whenever a disaster-prep purchase goes wrong -- the cheap one was never built to save anyone.",
+          "variations": [
+            "Short: The dinghy inside the emergency kit turned out, once unboxed, to be pool-toy sized."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-566",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260418002226-260405",
+      "sourceNote": "取材自勞動部預告夜班與高齡勞工健檢新制的報導，職場對話場景為原創改寫",
+      "tags": [
+        "黑色幽默",
+        "職場",
+        "健康",
+        "勞動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "生產線的早會上，班長宣布今年要多排一次健檢，底下先問的是這算不算加班。\n健檢中心的抽血台前，護理師問哪裡不舒服，排在後面的人只回「快一點」。\n夜班休息室的牆上貼著新制時間表，旁邊那張還沒撕掉的，是三年前印的。",
+          "editorNote": "勞檢新制上路那幾天拿出來用——員工在意的從來不是健檢結果，是算不算班。",
+          "variations": [
+            "延伸版：護理師後來隨手記了一筆，那天抽血台前沒人問過結果什麼時候出來。"
+          ]
+        },
+        "en": {
+          "content": "At the morning meeting on the production line, the shift leader announces one extra checkup this year, and the first question from the floor is whether that counts as overtime.\nAt the blood-draw station in the checkup center, the nurse asks what's wrong, and the guy next in line just says, \"Make it quick.\"\nOn the night-shift break room wall, the new schedule is taped up next to the old one nobody's peeled off yet, printed three years ago.",
+          "editorNote": "Good for whenever a new workplace health-check rule makes news -- what employees actually track isn't the results, it's whether it counts as a shift.",
+          "variations": [
+            "Extended: The nurse later jotted it down -- that day at the blood-draw station, nobody ever asked when the results would come back."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dh-567",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20260816002853-260402",
+      "sourceNote": "取材自台中移工受困烏溪沙洲、消防橡皮艇救援的報導，獲救後續場景為原創改寫",
+      "tags": [
+        "黑色幽默",
+        "移工",
+        "職場",
+        "勞動"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "移工宿舍的班表上，昨天在沙洲獲救的那幾位，名字依然排在明天的班次裡。\n仲介在電話裡跟雇主說，人沒事，機器可以照常開工。\n救回來的人躺在推床上，身上的工作證還沾著河沙。",
+          "editorNote": "移工溺水救援新聞曝光那幾天拿出來用——比起獲救，更常被忽略的是獲救後還要照常上班。",
+          "variations": [
+            "延伸版：那張班表後來被仲介撤下，換上的是一張新的，日期是空白的。"
+          ]
+        },
+        "en": {
+          "content": "On the dormitory's shift board, the migrant workers rescued off the sandbar yesterday have their names already listed for tomorrow's shift.\nOn the phone, the broker tells the employer the workers are fine and the machines can keep running as scheduled.\nThe rescued men lie on hospital stretchers, their work badges still caked with river mud.",
+          "editorNote": "Good for whenever a migrant-worker rescue story breaks -- the part everyone skips is that being rescued still means back on shift.",
+          "variations": [
+            "Extended: The shift board got taken down by the broker afterward, replaced with a new one whose date was left blank."
+          ]
+        }
+      }
     }
   ]
 }
