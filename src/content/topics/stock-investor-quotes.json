@@ -12427,6 +12427,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-411",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://news.cnyes.com/news/id/6160068",
+      "sourceNote": "參考台股創高但散戶仍常見虧損的報導，改寫成猜拳喊停跟停損單同一秒成交的場景",
+      "tags": [
+        "猜拳",
+        "停損",
+        "親子",
+        "誤會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "兒子猜拳贏了，食指比向左邊，我的頭轉得慢了半秒，他已經喊出「停」。那聲「停」同時被手機接住，螢幕跳出停損單剛成交的提示，兩件事在同一秒各自結束。他伸手要再來一輪黑白配，我把手機螢幕朝下蓋在腿上。",
+          "editorNote": "寫給猜拳喊停跟停損單同一秒成交的那種時刻",
+          "variations": [
+            "短版：「停」跟停損成交疊在同一刻，誰都沒讓誰。",
+            "延伸版：黑白配配對那刻，停損單正好把帳面砍掉一塊。"
+          ]
+        },
+        "en": {
+          "content": "My son wins the rock-paper-scissors round, points his finger left, and I turn my head half a beat too slow -- he's already called out \"stop.\" That same \"stop\" lands inside my phone at the same second: a stop-loss order on margin has just been filled, and the two endings land on their own, neither one waiting for the other. He reaches for another round of black-and-white match, and I set my phone face-down on my lap.",
+          "editorNote": "For the moment a kid's 'stop' and a stop-loss fill land in the same second",
+          "variations": [
+            "Short: His \"stop\" and the stop-loss fill stack on the same beat, neither one yielding.",
+            "Longer: Right as the black-and-white match lands, the stop-loss order shaves a chunk off the balance."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-412",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://bear1001.pixnet.net/blog/posts/13152389733",
+      "sourceNote": "參考黑白配猜拳遊戲規則，改寫成親子對話裡局數跟融資單方向猜測的雙重計分",
+      "tags": [
+        "黑白配",
+        "融資",
+        "對話",
+        "方向"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你跟妹妹玩黑白配，猜拳贏了嗎？」媽媽問。\n「贏了三次，輸兩次。」我說的是猜拳局數，也是今天五張融資單裡猜對方向的次數。\n「那應該很開心吧。」她接著問。\n「開心，妹妹轉對方向那一刻比我開心。」\n「比你那檔漲停更開心？」她笑著追問。\n「對，那種開心比較不會讓我手抖。」",
+          "editorNote": "寫給用猜拳局數聊當天帳面方向的親子對話",
+          "variations": [
+            "短版：猜拳局數跟猜對方向的次數，她只關心前面那個。",
+            "延伸版：媽媽問開心嗎，答案摻著猜拳贏的開心跟委託成交的開心。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you and your sister win at black-and-white match?\" Mom asks.\n\"Three wins, two losses.\" I mean the rounds we played, and also how many of today's five margin orders guessed the right direction.\n\"Closing bell must feel good, then,\" she says.\n\"It does -- watching her head turn the right way feels better.\"\n\"Better than that limit-up stock of yours?\" she teases.\n\"Yeah. That kind of good doesn't make my hands shake.\"",
+          "editorNote": "For a parent-child chat that mixes game rounds with the day's market direction",
+          "variations": [
+            "Short: Game rounds and guessed-right directions -- she only cares about the first number.",
+            "Longer: Mom asks if it feels good; the answer mixes winning at the game with an order actually filling."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-413",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://money.udn.com/money/story/12040/9185209",
+      "sourceNote": "參考台股主升段散戶追價氛圍報導，改寫成餐桌加碼雞塊跟委託單加碼同一秒發生的場景",
+      "tags": [
+        "加碼",
+        "委託",
+        "親子",
+        "誤會"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "女兒問我可不可以加碼，她要的是晚餐那份雞塊從六塊變十塊。我那秒正在那張ETF委託單上按下同一個詞，金額多打了一個零。兩個加碼在同一張桌子上各自成立，一個換來更多雞塊，一個換來明天要核對的成交紀錄。她咬著雞塊問我在笑什麼，我說沒事。",
+          "editorNote": "寫給餐桌加碼跟委託加碼撞在同一秒的場面",
+          "variations": [
+            "短版：加碼雞塊跟加碼委託，兩個加碼各自算數。",
+            "延伸版：女兒要雞塊變多，我讓那張ETF委託的金額也變多。"
+          ]
+        },
+        "en": {
+          "content": "My daughter asks if we can bump up the order -- she means the six chicken nuggets becoming ten. That same second I'm pressing the same word on an ETF order, and an extra zero slips into the amount. Both bump-ups hold their own ground at the same table, one buys more nuggets, the other buys a statement I'll be checking tomorrow. She asks, nugget still in her mouth, what I'm smiling at, and I say it's nothing.",
+          "editorNote": "For the dinner-table moment when a kid's extra order and a trading order collide",
+          "variations": [
+            "Short: Bumping up nuggets and bumping up an order -- each bump-up counts on its own.",
+            "Longer: My daughter wants more nuggets, so I let that ETF order's amount grow too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-414",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://zh.wikipedia.org/zh-tw/石頭、剪刀、布",
+      "sourceNote": "參考猜拳條目中黑白配類變體規則，改寫成條列式的猜拳跟停損同步時間軸",
+      "tags": [
+        "停損",
+        "猜拳",
+        "條列",
+        "黑白配"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 猜拳，妹妹的手比我先出\n— 她喊停，頭轉到右邊\n— 手機也跳出停損提醒\n— 黑白配配到了，她笑著歡呼\n— 停損也配到了，帳戶少一筆\n— 兩邊的「停」沒有誰先誰後",
+          "editorNote": "寫給想把兩個「停」並排條列著看的人",
+          "variations": [
+            "短版：兩個「停」同時發生，沒有先後順序。",
+            "延伸版：猜拳喊停跟停損觸發，條列並排著看最清楚。"
+          ]
+        },
+        "en": {
+          "content": "— She throws her hand out first in rock-paper-scissors.\n— She calls stop, head turning right.\n— My phone buzzes with a stop-loss alert.\n— Black-and-white match, matched -- she cheers.\n— The stop-loss matches too, the account down one line.\n— Neither \"stop\" waits for the other to land.",
+          "editorNote": "For laying two separate 'stops' side by side in list form",
+          "variations": [
+            "Short: Two separate \"stops\" happen at once, with no order between them.",
+            "Longer: A game call of stop and a stop-loss trigger read clearest laid out side by side."
+          ]
+        }
+      }
     }
   ]
 }

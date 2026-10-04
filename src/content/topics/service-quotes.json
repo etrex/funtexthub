@@ -13571,6 +13571,82 @@
           "variations": ["Short: The hangers went plastic; she kept the old metal ones anyway.", "Longer: A corner of the shop is still stacked with hangers she never threw out."]
         }
       }
+    },
+    {
+      "id": "svc-496",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.props.com.tw/profile.html",
+      "sourceNote": "活動道具租借公司服務介紹，改寫成運動會器材行老師傅觀察跳山羊皮面與螺絲孔的切面。",
+      "tags": ["器材出借", "跳山羊", "倉庫", "運動會"],
+      "i18n": {
+        "zh-tw": {
+          "content": "社區活動中心的器材出借單上，又多了一行『跳山羊，國小運動會，借三天』。倉庫裡那台跳山羊的皮面換過兩次，踏板下的螺絲孔卻還是原來打的那四個洞。送貨司機每次搬上車，都先用手拍一拍皮面確認有沒有鬆動，這個動作他做了十二年。這次送去的學校，皮面會不會又被哪個班的小朋友畫上名字？",
+          "editorNote": "寫服務業者對租借器材的細微觀察，用畫面交給讀者去想像答案。",
+          "variations": ["短版：跳山羊的皮面換了兩次，底下四個螺絲孔還是當年那四個。", "延伸版：送貨司機每次都要先拍一拍皮面確認有沒有鬆動。"]
+        },
+        "en": {
+          "content": "Another line went onto the equipment-loan sheet at the community center: 'vaulting horse, elementary school sports day, three-day loan.' The vaulting horse in the warehouse has had its leather cover replaced twice, but the four screw holes under the footboard are still the original ones drilled years ago. Every time the delivery driver loads it onto the truck, he pats the leather cover once to check nothing's loose — he's done that same motion for twelve years. At the school it's going to this time, will some kid in some class end up writing their name on the cover again?",
+          "editorNote": "The small habits service workers keep around rented equipment say more left to the reader's imagination.",
+          "variations": ["Short: The vaulting horse's leather cover has been replaced twice; the same four screw holes remain underneath.", "Longer: The delivery driver always pats the leather cover first to check it hasn't loosened."]
+        }
+      }
+    },
+    {
+      "id": "svc-497",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20210401002946-260421",
+      "sourceNote": "教具配送服務相關報導，改寫成器材行倉庫管理員接聽學校換止滑墊電話的切面。",
+      "tags": ["器材出借", "止滑墊", "電話", "服務業"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同一家器材行的電話那頭，老師說小朋友跳的時候踏板有點滑，問能不能換一塊新的止滑墊。倉庫管理員蹲在角落的箱子堆裡，翻出備用止滑墊只剩最後兩塊，顏色還跟原來的不太一樣。他把兩塊都用塑膠袋包好，貼上學校名字，放進明天要出的那輛貨車。這批換下來的舊墊子，到底要不要跟著器材一起退回倉庫？",
+          "editorNote": "電話那頭的臨時狀況最能呈現服務業的即時反應，留一個懸而未決的小動作收尾。",
+          "variations": ["短版：備用止滑墊只剩最後兩塊，顏色跟原來不太一樣。", "延伸版：舊墊子換下來後，要不要跟著器材一起退回倉庫還沒決定。"]
+        },
+        "en": {
+          "content": "On the other end of the phone at the same equipment shop, a teacher said the footboard gets a little slippery when the kids jump, and asked if they could swap in a new non-slip pad. The warehouse keeper crouched by a pile of boxes in the corner and dug out the spares — only two left, and the color doesn't quite match the old ones. He wrapped both in plastic bags, taped on the school's name, and loaded them onto tomorrow's delivery truck. As for the old pads that came off, do they go back to the warehouse together with the equipment, or not?",
+          "editorNote": "A sudden request over the phone shows a service worker's reflexes best, left unresolved on purpose.",
+          "variations": ["Short: Only two spare non-slip pads are left, and their color doesn't quite match the old ones.", "Longer: Whether the old pads go back to the warehouse with the equipment is still undecided."]
+        }
+      }
+    },
+    {
+      "id": "svc-498",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.props.com.tw/profile.html",
+      "sourceNote": "活動道具租借公司服務介紹，改寫成運動會器材倉庫盤點跳山羊的清單切面。",
+      "tags": ["器材出借", "跳山羊", "清單", "倉庫"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 倉庫牆邊立著三台跳山羊\n— 最左邊那台踏板剛換新的止滑墊\n— 中間那台皮面還是舊的米白色\n— 最右邊那台缺了一顆螺絲蓋\n— 明天要送出哪一台，管理員還沒決定？",
+          "editorNote": "淡季盤點器材適合用清單呈現，每一行都是一個小發現。",
+          "variations": ["短版：三台跳山羊裡，只有一台少了螺絲蓋。", "延伸版：倉庫管理員還沒決定明天要送出哪一台。"]
+        },
+        "en": {
+          "content": "— Three vaulting horses lean against the warehouse wall.\n— The leftmost one just got a new non-slip pad.\n— The middle one still wears its old cream-colored cover.\n— The right one is missing a screw cap.\n— Which one ships out tomorrow, the keeper still hasn't decided?",
+          "editorNote": "Slow-season inventory fits a list best; every line is its own small find.",
+          "variations": ["Short: Of the three vaulting horses, only one is missing a screw cap.", "Longer: The warehouse keeper still hasn't decided which one goes out tomorrow."]
+        }
+      }
+    },
+    {
+      "id": "svc-499",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.chinatimes.com/realtimenews/20210401002946-260421",
+      "sourceNote": "教具配送服務相關報導，改寫成器材行交接本記錄跳山羊踏板塗鴉的切面。",
+      "tags": ["器材出借", "跳山羊", "交接本", "服務業"],
+      "i18n": {
+        "zh-tw": {
+          "content": "那年運動會結束，學校打電話來說，跳山羊的踏板邊緣被鋼筆畫了一個笑臉，問要不要在運回之前先擦掉。管理員捧著電話愣了幾秒，想起去年也有一台被畫過愛心，後來被同事拿去當倉庫樣品擺到現在。他翻了翻交接本，上面只寫著「保留原狀，待本人確認」，底下沒有署名。這台被畫笑臉的踏板，最後是被擦掉了，還是跟著愛心那台一起留在倉庫角落？",
+          "editorNote": "交接本上沒寫清楚的細節，正好留給讀者自己猜。",
+          "variations": ["短版：踏板上的笑臉，交接本上只寫著保留原狀。", "延伸版：那台被畫過愛心的踏板，至今還擺在倉庫角落。"]
+        },
+        "en": {
+          "content": "The year the sports day ended, the school called to say someone had drawn a smiley face in pen on the edge of the vaulting horse's footboard, and asked whether to wipe it off before sending it back. The keeper held the phone and froze for a second, remembering another one last year that got a doodled heart — a coworker kept that one as a warehouse display piece, and it's still there now. He flipped through the handover log; it just said 'leave as is, pending confirmation from the owner,' with no name signed underneath. Did they end up wiping off the smiley-face footboard, or is it sitting in the warehouse corner together with the heart one?",
+          "editorNote": "What a handover log leaves vague is exactly what's left for the reader to guess.",
+          "variations": ["Short: The handover log just says to leave the smiley face as it is.", "Longer: The one with the doodled heart is still sitting in the warehouse corner."]
+        }
+      }
     }
   ]
 }
