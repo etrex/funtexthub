@@ -12826,6 +12826,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "ctq-453",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://kham.com.tw/application/UTK01/UTK0108_01.aspx",
+      "sourceNote": "寬宏售票系統會員規則：帳號密碼需每三個月更新一次，逾期未更新將無法登入下單；取『密碼過期才想起要改』的時間差改寫",
+      "tags": [
+        "寬宏",
+        "密碼",
+        "會員",
+        "搶票"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "手機跳出「密碼已逾期，請重新設定」的那一刻，倒數剩不到兩分鐘。她點開忘記密碼，信箱收不到驗證信，重新整理收件匣五次，每次都是空的。開賣時間過去三十秒，驗證信才躲在垃圾信件夾裡被找到。密碼改好送出，畫面轉回登入頁，位置已經不剩幾個。",
+          "editorNote": "搶票當天才想起密碼過期要重設，那幾分鐘手忙腳亂的畫面最適合拿來吐槽。",
+          "variations": [
+            "短版：密碼過期跳出來的時候，倒數只剩兩分鐘。",
+            "延伸版：驗證信躲在垃圾信件夾裡，找到時開賣已經過了三十秒。"
+          ]
+        },
+        "en": {
+          "content": "The second the phone flashes \"Password expired, please reset,\" the countdown has less than two minutes left. She clicks forgot password, the verification email doesn't show up, and refreshing the inbox five times turns up nothing each time. Thirty seconds after the sale opens, the email turns up hiding in the spam folder. The password gets reset and submitted, the screen flips back to the login page — barely any seats left.",
+          "editorNote": "For the few frantic minutes of discovering an expired password on sale day, right when it matters most.",
+          "variations": [
+            "Short: the password-expired alert pops up with two minutes left on the clock.",
+            "Extended: the verification email was hiding in spam, found thirty seconds after the sale had already opened."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-454",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://news.tvbs.com.tw/life/2684965",
+      "sourceNote": "TVBS報導寬宏售票系統搶票攻略，提到同一會員帳號只能一個裝置登入，第二個裝置登入會強制登出前一個；取『手機跟筆電搶同一個帳號』的瞬間改寫",
+      "tags": [
+        "寬宏",
+        "裝置",
+        "會員",
+        "家人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "爸爸的手機在倒數十秒時被強制登出，畫面跳回登入頁。他還沒搞懂發生什麼事，妹妹的筆電已經選到位子。同一個帳號，兩台裝置搶著登入，系統只認後面那一台。他重新輸入密碼的時候，妹妹那頭已經按下付款鍵。",
+          "editorNote": "同一帳號兩裝置同時搶票，被擠掉的那一方拿來說嘴剛好。",
+          "variations": [
+            "短版：爸爸的手機被強制登出，妹妹的筆電已經選到位子。",
+            "延伸版：系統只認最後登入的那台裝置，重新輸入密碼時位子已經被按下付款。"
+          ]
+        },
+        "en": {
+          "content": "Dad's phone gets force-logged-out with ten seconds left on the countdown, bounced straight back to the login screen. Before he even figures out what happened, his daughter's laptop has already landed a seat. Same account, two devices both trying to log in — the system only recognizes whichever one connected last. By the time he's retyped the password, she's already hit pay.",
+          "editorNote": "For the sibling rivalry of two devices racing on one shared account, and whoever gets logged out.",
+          "variations": [
+            "Short: dad's phone gets force-logged-out while his daughter's laptop already has a seat.",
+            "Extended: the system only recognizes the last device to log in, and by the time he retypes his password, she's already paid."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-455",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://lattekorea.com/kham-ticket/",
+      "sourceNote": "寬宏售票系統選位教學：提供『自行配位』與『電腦配位』兩種選位方式，網友建議電腦配位中籤率較高；取『滑鼠停在兩個選項中間』的猶豫畫面改寫",
+      "tags": [
+        "寬宏",
+        "配位",
+        "搶票",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "滑鼠停在「自行配位」跟「電腦配位」中間，游標左右移動了四次，一次都沒按下去。朋友在電話裡喊「電腦配位比較快」，她的手指還懸在半空。剩十秒的時候，游標往右移到底，點下去那一下幾乎是反射動作，不算真的想清楚了。",
+          "editorNote": "選位選到最後一刻才按下去，那段猶豫的畫面很適合現場吐槽。",
+          "variations": [
+            "短版：游標在兩個選項中間移了四次，剩十秒才點下去。",
+            "延伸版：朋友在電話裡喊電腦配位比較快，她的手指還懸在半空。"
+          ]
+        },
+        "en": {
+          "content": "The cursor sits between \"manual seating\" and \"computer seating,\" drifting left and right four times without ever clicking. A friend yells over the phone that computer seating is faster, but her finger is still hovering. With ten seconds left, the cursor slides all the way right, and the click that lands is almost a reflex — not really a decision anyone thought through.",
+          "editorNote": "For the decision paralysis of two seating options, resolved by a reflex click at the last second.",
+          "variations": [
+            "Short: the cursor drifts between two options four times before clicking with ten seconds left.",
+            "Extended: a friend yells that computer seating is faster, but her finger is still hovering above the screen."
+          ]
+        }
+      }
+    },
+    {
+      "id": "ctq-456",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://funtop.tw/kham-ticket-teaching/",
+      "sourceNote": "FUNTOP寬宏售票攻略整理：驗證碼輸入錯誤時不應重新整理頁面，應留在原頁面重新輸入才有機會；取『手指按錯重新整理鍵』的瞬間改寫",
+      "tags": [
+        "寬宏",
+        "驗證碼",
+        "搶票",
+        "厭世"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "頁面顯示「驗證碼錯誤」的時候，她的手指第一反應是按重新整理，整個畫面空白了三秒才重新載入。排到的名額在那三秒裡被別人填滿。她後來才在搶票攻略裡讀到，驗證碼打錯不該重新整理，應該留在原頁面重新打一次。手機螢幕還亮著，那篇攻略停在同一行，反覆看了四次。",
+          "editorNote": "驗證碼打錯後按錯重新整理鍵，事後才查到攻略這個『早知道』最好笑。",
+          "variations": [
+            "短版：驗證碼錯了她按重新整理，三秒空白後名額被填滿。",
+            "延伸版：事後才讀到攻略寫著別重新整理，那篇文章被她反覆看了四次。"
+          ]
+        },
+        "en": {
+          "content": "The instant the screen says \"verification code incorrect,\" her finger's first instinct is to hit refresh — the whole page goes blank for three seconds before reloading. Whatever slot was still open gets filled by someone else during those three seconds. Only afterward does she find the guide saying not to refresh when the code is wrong, just retype it on the same page. The phone screen stays lit, stuck on that same line, read over four times.",
+          "editorNote": "For the all-too-common instinct to refresh after a wrong code, and the guide that explains why that's the wrong move.",
+          "variations": [
+            "Short: she hits refresh on a wrong code, and the slot is gone three seconds later.",
+            "Extended: the guide she finds afterward says never refresh on a wrong code — she rereads that line four times."
+          ]
+        }
+      }
     }
   ]
 }

@@ -16190,6 +16190,151 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-590",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "文章提到「AI被要求幫程式碼寫文件，結果回覆『我真的不知道這在幹什麼』」，改寫成文件掛在函式上的情境",
+      "tags": [
+        "AI",
+        "Legacy Code",
+        "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "我把那支函式貼給AI，請它幫忙寫文件說明這段在做什麼。它回覆一段話：「這裡有三層巢狀的旗標判斷，邏輯我讀不太懂，建議找原作者確認。」原作者就是我，兩年前的我，而現在的我也讀不懂。最後掛在函式上面的文件只寫著「用途不明，請勿刪除」，跟旁邊那十幾支一樣。",
+          "editorNote": "給拿到AI寫的文件說明，卻比原始碼本身更困惑的人。",
+          "variations": [
+            "短版：AI寫的文件最後只留一句「用途不明，請勿刪除」。",
+            "延伸版：原作者讀不懂自己兩年前寫的函式，AI也讀不懂，兩邊達成共識。"
+          ]
+        },
+        "en": {
+          "content": "I pasted the function into the AI and asked it to write a docstring explaining what it does. It came back with: \"This has three layers of nested flag checks, and I can't quite follow the logic — you might want to check with whoever originally wrote it.\" That was me, two years ago, and present-day me can't follow it either. The docstring that ended up attached just says \"purpose unknown, do not remove,\" same as the dozen others sitting next to it.",
+          "editorNote": "For anyone handed an AI-written docstring that's more confusing than the code itself.",
+          "variations": [
+            "Short version: the AI's final docstring just says 'purpose unknown, do not remove.'",
+            "Extended: the original author can't read their own two-year-old function, and neither can the AI. They've reached consensus."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-591",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "文章提到『在我機器上可以』演變成『在我機器上可以，而且AI說到處都可以』，改寫成對話情境",
+      "tags": [
+        "AI",
+        "production",
+        "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這支功能測試過了嗎？」\n「在我機器上跑得很順，而且我問了AI，它說邏輯沒問題，上線應該不會有事。」\n「所以是你的機器，加上AI的感覺？」\n「對，雙重保證。」\n「那正式環境那邊現在在燒。」\n「那就是第三個環境的問題了。」",
+          "editorNote": "給把『在我機器上可以』升級成『AI也說可以』的人。",
+          "variations": [
+            "短版：在我機器上可以，AI也說可以，正式環境不算。",
+            "延伸版：雙重保證指的是機器一個、AI一個，正式環境永遠不在保證範圍內。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you test this feature?\"\n\"Runs fine on my machine, and I asked the AI — it said the logic checks out, should be fine in prod.\"\n\"So that's your machine, plus a vibe check from the AI?\"\n\"Yeah, double confirmation.\"\n\"Production's on fire right now.\"\n\"Must be a third-environment problem, then.\"",
+          "editorNote": "For anyone who's upgraded 'works on my machine' to 'and the AI agrees.'",
+          "variations": [
+            "Short version: works on my machine, the AI agrees, production was never part of the deal.",
+            "Extended: 'double confirmation' means one machine and one AI opinion — production never makes the list."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-592",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://dev.to/mikulg/2026-the-year-of-agentic-development-4507",
+      "sourceNote": "文章討論2026年AI代理人參與開發流程的趨勢，改寫成PR說明比程式碼本身更可信的情境",
+      "tags": [
+        "AI",
+        "PR",
+        "code review"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那支PR底下的說明寫得又長又清楚，條列了修改原因、測試方式、影響範圍，看起來比大多數人類寫的還專業。審查的人看完說明就按了核准，往下滑到程式碼那格，滑鼠停了兩秒，又滑回上面重讀一次說明。後來才發現，那段說明是AI生成的，程式碼是另一個AI生成的，兩邊對不太起來，但沒有人發現，因為沒有人真的往下看。",
+          "editorNote": "給被PR說明寫得太漂亮，忘記看程式碼本體的人。",
+          "variations": [
+            "短版：PR說明比程式碼本身更有說服力，審查就這樣過了。",
+            "延伸版：說明和程式碼出自兩個AI，彼此對不太起來，但沒人往下滑。"
+          ]
+        },
+        "en": {
+          "content": "The description under that PR was long and clean — reasons for the change, how it was tested, what it touched — reading more professional than most humans manage. The reviewer read it, hit approve, then scrolled down to the diff and paused for two seconds before scrolling back up to reread the description instead. It turned out the description was written by one AI and the code by another, and the two didn't quite line up — nobody noticed, because nobody actually scrolled down.",
+          "editorNote": "For when the PR description is so polished nobody remembers to read the actual diff.",
+          "variations": [
+            "Short version: the description sold the PR better than the code did.",
+            "Extended: two different AIs wrote the description and the code, and they didn't quite agree — nobody scrolled far enough to catch it."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-593",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "文章提到『如何產生隨機數？把初階工程師放在Kubernetes前面』，改寫成事後覆盤情境",
+      "tags": [
+        "Kubernetes",
+        "debug",
+        "黑色幽默"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 那次異常，三個人各自重現了一次，結果完全不一樣。\n— 有人說是網路延遲，有人說是記憶體洩漏，有人說是星期三的詛咒。\n— 事後會議上，有人提出一個新理論：隨機數產生器不用寫了，把初階工程師放到Kubernetes叢集前面就好。\n— 這句話被寫進事後報告的附註，沒有人反對。\n— 下一次異常，又是完全不一樣的結果。",
+          "editorNote": "給覺得Kubernetes叢集的行為比亂數產生器還難預測的人。",
+          "variations": [
+            "短版：隨機數產生器不用寫，初階工程師加Kubernetes就夠了。",
+            "延伸版：三個人重現同一個異常，得到三種不同答案，叢集本身才是真正的亂數來源。"
+          ]
+        },
+        "en": {
+          "content": "— Three people each tried to reproduce the incident, and got three different results.\n— One blamed network latency, one blamed a memory leak, one blamed it being a Wednesday.\n— In the postmortem, someone floated a new theory: forget writing a random number generator, just put a junior engineer in front of the Kubernetes cluster.\n— That line made it into the postmortem notes as a footnote, and nobody objected.\n— Next incident, three completely different results again.",
+          "editorNote": "For anyone convinced the Kubernetes cluster is less predictable than an actual RNG.",
+          "variations": [
+            "Short version: skip the RNG, a junior engineer plus Kubernetes does the job.",
+            "Extended: three people reproduce the same incident and get three different answers — the cluster itself is the real random number generator."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-594",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://vocal.media/geeks/programming-memes-defining-developer-culture-2026",
+      "sourceNote": "文章提到Stack Overflow的文化影響力正在被LLM取代，改寫成AI答案溯源回舊討論串的情境",
+      "tags": [
+        "AI",
+        "Stack Overflow",
+        "debug"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "那段程式碼是AI給的，寫得很篤定，連註解的語氣都像是在教學。我好奇它從哪裡學來的，把關鍵的那一行丟去搜尋，找到一篇十一年前的討論串。底下只有一個回覆，被標記成「不建議採用，風險未知」，讚數是零。那個被所有人忽略的答案，後來成了AI最有自信的一段程式碼。",
+          "editorNote": "給發現AI的自信來源，是當年連一個讚都沒拿到的舊答案的人。",
+          "variations": [
+            "短版：十一年前零讚、被標示不建議採用的答案，變成AI最篤定的程式碼。",
+            "延伸版：當年沒人敢用的答案，繞了一圈變成現在人人直接貼上的程式碼。"
+          ]
+        },
+        "en": {
+          "content": "The code block came from the AI, written with total confidence — even the comments read like a tutorial. Curious where it picked it up, I searched for the key line and found a discussion thread from eleven years ago. It had exactly one reply, flagged \"not recommended, risk unknown,\" sitting at zero upvotes. That answer everyone ignored back then is now the AI's most confident line of code.",
+          "editorNote": "For finding out the AI's confidence traces back to an old answer nobody upvoted.",
+          "variations": [
+            "Short version: a zero-upvote, 'not recommended' answer from eleven years ago is now the AI's most confident code.",
+            "Extended: the answer nobody dared use back then has come full circle into something everyone now pastes without a second thought."
+          ]
+        }
+      }
     }
   ]
 }

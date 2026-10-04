@@ -15206,6 +15206,86 @@
           ]
         }
       }
+    },
+    {
+      "id": "dt-538",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://www.coolfunnyquotes.com/author/anonymous/diet-today-halloween/",
+      "sourceNote": "參考萬聖節糖果飲食笑話，改寫成兩人對話呈現意志力臨時放假的場景",
+      "tags": ["萬聖節", "糖果", "意志力", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「萬聖節糖果你不是說只買應景的份量？」\n「對，應景的意思是整包一次應景完。」\n「意志力呢？」\n「意志力也放假一天，說好萬聖節當天不算。」",
+          "editorNote": "用兩人對話呈現萬聖節糖果誘惑下意志力臨時放假的自嘲",
+          "variations": [
+            "短版：「只買應景份量」最後變成整包一次應景完，意志力當天直接放假。"
+          ]
+        },
+        "en": {
+          "content": "\"Didn't you say you'd only buy the candy you actually need?\"\n\"Right — turns out 'what I need' means the whole bag, in one sitting.\"\n\"And your willpower?\"\n\"Willpower's taking the day off too. We agreed Halloween doesn't count.\"",
+          "editorNote": "A quick back-and-forth about willpower conveniently clocking out the moment Halloween candy shows up",
+          "variations": [
+            "Short: \"just the candy I need\" turns into the whole bag in one sitting, and willpower clocks out for the day."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-539",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://www.sohu.com/a/1082821901_122066679",
+      "sourceNote": "參考國慶連假飲食報導中「進食節奏紊亂」的觀點，改寫成連假前中後三段式的日常觀察",
+      "tags": ["連假", "國慶", "聚餐", "復胖"],
+      "i18n": {
+        "zh-tw": {
+          "content": "連假前兩天吃得規律，三餐時間跟平常一樣。\n連假中間三天全看聚餐場次決定吃飯時間，有時候下午三點那頓就算晚餐。\n連假最後一天站上體重計，數字往上跳，仔細想想，問題多半出在吃飯時間亂了調。\n明天收假，先把生活節奏抓回來，體重的事留到下一週再量。",
+          "editorNote": "把連假體重上升歸因於作息被打亂而非單純吃太多，語氣輕鬆不帶焦慮"
+        },
+        "en": {
+          "content": "The first two days of the long weekend, meals stay on schedule like normal.\nThe middle three days, meal times are whatever the gathering calls for — sometimes 3pm counts as dinner.\nOn the last day, the scale ticks up, and thinking it over, the real issue is mostly the mealtimes getting scrambled.\nHoliday's over tomorrow — rhythm first, the number on the scale can wait till next week.",
+          "editorNote": "Chalks the holiday weight bump up to scrambled mealtimes rather than simply overeating, kept light instead of anxious"
+        }
+      }
+    },
+    {
+      "id": "dt-540",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://health.ettoday.net/news/3244170",
+      "sourceNote": "參考瘦瘦針改口服瘦瘦丸的報導，改寫成拖延各種理由的自嘲",
+      "tags": ["GLP-1", "瘦瘦針", "科技", "藉口"],
+      "i18n": {
+        "zh-tw": {
+          "content": "同事約我一起打瘦瘦針，我說針的部分有點怕，等出口服版本再跟。\n上個月口服版本真的上市了，我又說等健保給付比較划算。\n健保給付的消息還沒等到，我倒是先把這個月零食預算用完了。\n看來拖延症不挑劑型，打針吃藥都一樣有效。",
+          "editorNote": "用拖延各種理由的自嘲，呼應口服瘦瘦針上市但意志力依然原地踏步的反差",
+          "variations": [
+            "短版：從怕打針等到等健保給付，唯一沒等到的是零食預算用完的那天。"
+          ]
+        },
+        "en": {
+          "content": "A coworker asked me to try the weekly shot with her. I said needles scare me, I'll wait for the pill version.\nLast month the pill version actually launched. I said I'd wait for it to get covered by insurance.\nThe insurance coverage still hasn't come through, but my snack budget for the month ran out right on schedule.\nTurns out procrastination doesn't care which format the medicine comes in.",
+          "editorNote": "Self-deprecating bit about stalling through every excuse while the snack budget empties out on time regardless",
+          "variations": [
+            "Short: from fearing needles to waiting on insurance, the only thing that arrived on time was an empty snack budget."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-541",
+      "dateAdded": "2026-10-03",
+      "sourceUrl": "https://news.tvbs.com.tw/focus/3254082",
+      "sourceNote": "參考瘦瘦針停藥秒復胖的新聞，改寫成朋友停藥後的日常觀察",
+      "tags": ["瘦瘦針", "復胖", "循環", "覺悟"],
+      "i18n": {
+        "zh-tw": {
+          "content": "朋友打瘦瘦針打到停藥，體重後來慢慢回到原本的樣子。\n她說早知道會回彈，應該把瘦下來那陣子的照片存好，當作那段時間真的發生過。\n現在她還是每天量體重，只是心態從期待數字變成單純記個數字。\n意志力這種東西，好像比針劑還容易停藥。",
+          "editorNote": "從瘦瘦針停藥復胖的新聞延伸成日常觀察，收尾用意志力自嘲帶過沉重話題"
+        },
+        "en": {
+          "content": "A friend stopped the weekly shots, and her weight slowly drifted back to where it started.\nShe said if she'd known the rebound was coming, she'd have saved the photos from when it worked, just as proof that it happened.\nShe still weighs in every day, just that the mindset shifted from expecting a number to simply logging one.\nWillpower, it turns out, runs out faster than the medication does.",
+          "editorNote": "Turns a rebound-after-stopping-treatment story into a quiet observation, closing on self-deprecating humor instead of heaviness"
+        }
+      }
     }
   ]
 }
