@@ -15286,6 +15286,98 @@
           "editorNote": "Turns a rebound-after-stopping-treatment story into a quiet observation, closing on self-deprecating humor instead of heaviness"
         }
       }
+    },
+    {
+      "id": "dt-542",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://health.ltn.com.tw/article/breakingnews/5358249",
+      "sourceNote": "參考減重族群曾嘗試極端節食、越減越胖的報導，改寫成兩天就破功後自嘲吃光巧克力的日常",
+      "tags": ["減醣", "破功", "巧克力", "帳"],
+      "i18n": {
+        "zh-tw": {
+          "content": "三天的減醣菜單，她撐到第二天晚上就被自己攻破了。\n那晚吃光的，是冰箱裡放了快一個月的半盒巧克力。\n體重機的數字沒有往上跳，體力倒是先垮了一半。\n剩下的半盒巧克力她也吃完了，說這樣帳才算乾淨。",
+          "editorNote": "從極端節食容易破功的現象延伸，用吃光巧克力的帳自嘲收尾，不評斷對錯",
+          "variations": [
+            "短版：減醣菜單撐不到兩天，那盒巧克力被她吃得一乾二淨。"
+          ]
+        },
+        "en": {
+          "content": "A three-day low-carb menu, and she broke her own rule by the second night.\nWhat she polished off that night was half a bar of chocolate that had sat in the fridge for almost a month.\nThe scale didn't tick up, but her energy crashed first.\nShe finished off the rest of the chocolate too, calling it closing the account properly.",
+          "editorNote": "Self-deprecating bit about a low-carb plan folding fast, closing on the chocolate tab instead of guilt",
+          "variations": [
+            "Short: The low-carb menu didn't survive two days, and that bar of chocolate didn't survive her."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-543",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.today.com/health/diet-fitness/weight-loss-tips-success-stories-rcna251343",
+      "sourceNote": "參考用小習慣累積取代劇烈改變的減重建議，改寫成用摺紙鶴計算節食天數的追蹤方式",
+      "tags": ["紙鶴", "追蹤", "復胖", "摺紙"],
+      "i18n": {
+        "zh-tw": {
+          "content": "二十三隻紙鶴疊在玻璃罐裡，每一隻代表她忍住沒吃夜宵麵包的一天。\n罐子滿了她就倒出來重新數一次，數完又放回去繼續摺。\n上個月摺到第三十隻那天，她把整罐倒進垃圾桶，隔天又從一隻重新開始。\n紙鶴摺得再多，體重機上的數字還是不太聽話。",
+          "editorNote": "把摺紙鶴當成節食天數的計數器，數字歸零也不當挫折，純粹換個方式繼續記",
+          "variations": [
+            "延伸版：玻璃罐倒過三次，紙鶴摺了又摺，體重計的數字始終沒跟上進度。"
+          ]
+        },
+        "en": {
+          "content": "Twenty-three paper cranes sit stacked in a glass jar, one for every night she skipped the late snack bread.\nWhen the jar fills up she dumps them out to count again, then puts them back and keeps folding.\nLast month, right after folding the thirtieth one, she tipped the whole jar into the trash and started over from one the next day.\nNo matter how many cranes she folds, the number on the scale still refuses to cooperate.",
+          "editorNote": "Turns paper-crane folding into a tally for diet days, resetting the count without treating it as failure",
+          "variations": [
+            "Extended: The jar's been dumped three times, the cranes keep getting folded, but the scale never quite catches up."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-544",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://tw.news.yahoo.com/%E5%A4%96%E9%A3%9F%E6%97%8F%E9%AB%94%E9%87%8D%E7%AE%A1%E7%90%86%E7%87%9F%E9%A4%8A%E5%B8%AB%E6%9B%9D%E9%97%9C%E9%8D%B5-%E8%AA%BF%E6%95%B4%E9%80%B2%E9%A3%9F%E9%A0%86%E5%BA%8F-102722655.html",
+          "sourceNote": "參考外食族調整進食順序的體重管理建議，改寫成清單盤點減重路上留下的雜物",
+      "tags": ["飲食紀錄", "紙鶴", "體檢單", "空袋子"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 17天的飲食紀錄，撕到只剩封面\n— 9個堅果空袋，洗乾淨才捨得丟\n— 1隻紙鶴壓在紀錄本上，是同事偷偷摺的\n— 3次體重回彈，都發生在週五晚上\n— 1張體檢單，數字終於沒有紅字",
+          "editorNote": "用清單盤點減重路上留下的雜物，紙鶴是同事悄悄摺的加油，不多做情緒收尾",
+          "variations": [
+            "延伸版：清單上少了一行，那雙半年前買的運動鞋，鞋盒到現在都沒拆開。"
+          ]
+        },
+        "en": {
+          "content": "— 17 days of food logs, torn down to just the cover.\n— 9 empty nut bags, rinsed clean before she'd toss them.\n— 1 paper crane taped to the log, folded by a coworker.\n— 3 weekend relapses, always landing on a Friday night.\n— 1 blood test result, finally free of red flags.",
+          "editorNote": "Lists the clutter left behind by a diet, with a coworker's folded crane as the quiet encouragement",
+          "variations": [
+            "Extended: One line is missing from the list — the sneakers she bought six months ago, still sitting in an unopened box."
+          ]
+        }
+      }
+    },
+    {
+      "id": "dt-545",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.wildflowerweightloss.com/post/weight-loss-trends-2026-what-actually-works-now",
+      "sourceNote": "參考2026年減重蛋白質攝取量建議上修的報導，改寫成自創換算單位的計算遊戲",
+      "tags": ["蛋白質", "換算", "便當盒", "計算"],
+      "i18n": {
+        "zh-tw": {
+          "content": "2.2公克的蛋白質，是她現在每天每公斤體重該吃到的份量。\n算來算去，她把雞胸肉切成固定大小，一塊一塊疊在便當盒旁邊數。\n算到第十二塊她就不想再算了，直接把整包洋芋片倒進嘴裡。\n隔天她還是繼續算，只是換算單位改成了「一掌心」。",
+          "editorNote": "把蛋白質換算規則寫成自創的單位遊戲，算不完就換算法，不糾結精準度",
+          "variations": [
+            "短版：蛋白質換算到最後，她乾脆用掌心代替公克，帳目簡單多了。"
+          ]
+        },
+        "en": {
+          "content": "2.2 grams of protein is what she's now supposed to eat per kilogram of body weight, every day.\nShe did the math so many times that she started slicing chicken breast into uniform chunks and stacking them beside her lunchbox to count.\nBy the twelfth chunk she gave up counting and just poured an entire bag of chips straight into her mouth.\nThe next day she kept counting anyway, just switching her unit of measurement to \"one palmful.\"",
+          "editorNote": "Turns a protein-per-kilogram target into a self-invented counting game, swapping units instead of chasing precision",
+          "variations": [
+            "Short: After enough math, she swapped grams for palmfuls, and the bookkeeping got a lot simpler."
+          ]
+        }
+      }
     }
   ]
 }
