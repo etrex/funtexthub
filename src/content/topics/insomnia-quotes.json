@@ -13546,6 +13546,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-483",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation談失眠者常靠轉移注意力撐過半夜，改寫成兩人半夜在線上下圍棋捨不得斷線的對話",
+      "tags": ["失眠", "圍棋", "滑手機"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這麼晚你還醒著？」\n「在手機上跟人下圍棋，捨不得斷線。」\n「下到幾點了？」\n「這一局，對手一直在想，我也只能等。」\n「你不覺得眼睛很痛嗎？」\n「比起躺著發呆，看棋盤還比較不無聊。」\n「那你贏了嗎？」\n「還沒分出勝負，所以更睡不下去了。」",
+          "editorNote": "給半夜還黏在棋局上、捨不得掛網離開的兩個失眠的人。",
+          "variations": [
+            "短版：「還醒著？」「在線上下圍棋，捨不得斷線。」",
+            "延伸版：對手一直在想棋，自己也只能陪著等，結果棋沒下完，覺也沒睡著。"
+          ]
+        },
+        "en": {
+          "content": "\"Still up this late?\"\n\"Playing go with someone online — I can't bring myself to disconnect.\"\n\"What time did you get to?\"\n\"This game — my opponent keeps thinking, so I just wait.\"\n\"Doesn't it hurt your eyes?\"\n\"Beats staring at the ceiling doing nothing.\"\n\"So did you win?\"\n\"Still no winner, which is why I can't sleep even more.\"",
+          "editorNote": "For two insomniacs glued to the same online game, unwilling to log off.",
+          "variations": [
+            "Short: \"Still up?\" \"Playing go online, can't bring myself to disconnect.\"",
+            "Extended: The opponent keeps thinking, so you keep waiting — the game never finishes, and neither does the night."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-484",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://drchiuneuro.com/cant-sleep/",
+      "sourceNote": "神經科醫師談睡前腦中反覆回想的文章，改寫成半夜還在復盤白天圍棋輸法的對話",
+      "tags": ["失眠", "圍棋", "復盤"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你還在想白天那盤圍棋？」\n「那一步讓出角，現在越想越不甘心。」\n「都結束了，想也沒用吧。」\n「我知道，可是腦子還在復盤。」\n「要不要起來擺棋盤，擺一次就放過自己？」\n「好，擺完這一次，我就真的去睡。」",
+          "editorNote": "給白天棋局某一步在腦中反覆重播、怎麼甩都甩不掉的失眠者。",
+          "variations": [
+            "短版：那一步讓出角，腦子到現在還在復盤。",
+            "延伸版：乾脆起來把棋盤擺一次，擺完說要睡，其實還是不甘心。"
+          ]
+        },
+        "en": {
+          "content": "\"Still thinking about that go game from today?\"\n\"The move where I gave up the corner — I can't let it go.\"\n\"It's over, thinking about it won't change anything.\"\n\"I know, but my head is still replaying it.\"\n\"Want to get up and set the board once, then let it go?\"\n\"Fine. After this one replay, I'm really going to sleep.\"",
+          "editorNote": "For anyone whose head keeps replaying one losing move long after the board is put away.",
+          "variations": [
+            "Short: One move, one lost corner, and a head that won't stop replaying it.",
+            "Extended: Setting the board up once more to finally let the loss go — or so you tell yourself."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-485",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://www.sleepfoundation.org/insomnia/treatment/what-do-when-you-cant-sleep",
+      "sourceNote": "Sleep Foundation提到助眠音效對部分人效果有限，改寫成播放清單聽到破百首還是睡不著的對話",
+      "tags": ["失眠", "白噪音", "播放清單"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你那個助眠播放清單，放到第幾首了？」\n「快破百首了，還是沒有一首讓我睡著。」\n「要不要換成白噪音試試？」\n「換過了，風扇聲比下雨聲還有效一點。」\n「那你現在打算怎麼辦？」\n「先把手機聲音壓低，閉著眼睛撐到四點。」\n「撐到四點之後呢？」",
+          "editorNote": "給靠播放清單助眠卻越聽越清醒，只能跟枕邊人碎念的人。",
+          "variations": [
+            "短版：播放清單快破百首，還是沒有一首讓人睡著。",
+            "延伸版：白噪音換成風扇聲比較有效，但終究只是撐到四點，不是真的睡著。"
+          ]
+        },
+        "en": {
+          "content": "\"That sleep playlist of yours — which track is it on now?\"\n\"Almost a hundred tracks in, and none of them have put me to sleep.\"\n\"Want to switch to white noise instead?\"\n\"Already tried that — the fan sounds more effective than the rain sounds.\"\n\"So what's the plan now?\"\n\"Turn the phone volume way down and keep my eyes shut until four.\"\n\"And after four?\"",
+          "editorNote": "For anyone whose sleep playlist has somehow made them more awake, not less.",
+          "variations": [
+            "Short: A hundred tracks in, and still not one of them works.",
+            "Extended: The fan beats the rain sounds, but holding out until four isn't the same as actually sleeping."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-486",
+      "dateAdded": "2026-10-04",
+      "sourceUrl": "https://drchiuneuro.com/cant-sleep/",
+      "sourceNote": "神經科醫師談睡前焦慮型思考的文章，改寫成半夜還在反覆修改工作信件的對話",
+      "tags": ["失眠", "焦慮", "工作"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你是不是也還沒睡？」\n「剛把那封信改到連自己都看不下去，刪掉又貼回去。」\n「都半夜了，明天早上再改不行嗎？」\n「怕早上腦袋更亂，乾脆現在定稿。」\n「那你現在定稿了嗎？」",
+          "editorNote": "給半夜還在改信、改到自己都看不下去卻停不下來的工作焦慮者。",
+          "variations": [
+            "短版：信改到自己都看不下去，刪了又貼回去。",
+            "延伸版：怕早上更亂所以半夜硬定稿，結果定稿的時間比睡覺還長。"
+          ]
+        },
+        "en": {
+          "content": "\"You're not asleep either, are you?\"\n\"Just edited that email so much I can't even look at it, deleting and pasting it back.\"\n\"It's the middle of the night — can't you fix it tomorrow morning?\"\n\"Worried my head will be messier in the morning, so I might as well finish it now.\"\n\"So have you actually finished it now?\"",
+          "editorNote": "For anyone whose work anxiety peaks right when they should be falling asleep.",
+          "variations": [
+            "Short: Editing the same email until it's unreadable, then pasting it back anyway.",
+            "Extended: Finishing it now feels safer than morning — even if finishing takes longer than sleep would have."
+          ]
+        }
+      }
     }
   ]
 }
