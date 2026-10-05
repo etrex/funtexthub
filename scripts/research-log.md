@@ -13503,3 +13503,32 @@ Sources: [vip.104：婚假增至14天！新制10/1上路9大QA](https://vip.104.
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [ettoday：10月新制上路健康幣/停車罰則等](https://www.ettoday.net/news/20261001/3246843.htm)｜[4gTV：2026年10月新制整理](https://www.4gtv.tv/article/2026100108000004)｜[inews.setn：10月新制QA](https://inews.setn.com/news/1914600)｜[Know Your Meme：Weekly Roundup（Wawario, Jean Phil, Blocking the Street）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-wawario-jean-phil-blocking-the-street-and-more)｜[Yahoo News Singapore：Who Is Jean Philanthrope](https://sg.news.yahoo.com/jean-philanthrope-ai-mysterious-frenchman-170114829.html)｜[NBC LA：What is whimsy maxxing?](https://www.nbclosangeles.com/the-scene/what-is-whimsy-maxxing-decor-trend/3917757/)｜[TODAY：Whimsy Maxxing trend explained](https://www.today.com/life/whimsy-maxxing-trend-rcna587664)｜[SocialBee：2026 TikTok trends you can't miss (Sept 29)](https://socialbee.com/blog/tiktok-trends-you-cant-miss)｜[newengen：October 2026 TikTok Trends](https://newengen.com/insights/october-tiktok-trends/)｜[udn：甄嬛傳馬拉松新哏懶人包](https://stars.udn.com/star/story/10088/9328443)
+
+## 2026-10-05 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-28～10-04：168/189/168/140/72/113/168（42 檔）⇒ 10-01/10-02 批次中斷已於 10-03/10-04 完全恢復，10-04 收盤 **42/42 檔、168 則**，批次序列完整（batch 1/9～9/9，每批 5 檔/20 則）。git log 顯示 10-04 另有一筆「recover stalled 10-02/10-03 content」補齊缺漏的 27 檔。git status 乾淨，本機與 origin/main 同步（無待推送提交）。本次未重測分發層／DNS／404（沿用 09-24 狀態；`src/pages/404.astro` 仍缺，見需人工清單）。
+- **10-04 簡報記錄的 4 項時效候選本日逐一查核，全數已指派落地**：`婚假` 15 則／3 檔（含 `wedding-quotes.json`）、`健康幣` 16 則／1 檔（`adulting-quotes.json`）、`whimsymaxxing` 7 則／1 檔（`slang-quotes.json`）、`my mama` 1 則／1 檔（`witty-comebacks.json`）⇒ 四項候選自候選清單移除，結案。
+
+### New Topic Recommendations
+本次掃描（Threads 本週熱梗、台灣網路流行語、10月新制、Know Your Meme 週報、TikTok 本週熱梗、國慶連假）**無新增白地**，逐項核對如下：
+
+1. **🔴 不新增：「破防哥」（Threads 網紅由黑轉白形象大逆襲話題）**——查證為**特定網紅真人**的形象整頓敘事，同既往「小英香菇」「八哩八告」排除原則（真人肖像/爭議綁定），不建議指派；廣義詞 `破防` 本身已 38 則／6 檔飽和。
+2. **🔴 不新增：「11月無連假」／「周休3日落差感」**——Threads 本週熱議「連 3 週周休 3 日」後對比「11月整月無連假」的反差哏，精確詞 `周休3日`／`11月沒有連假` 雖 0 則形式白地，但母題 `連假` 已達 **599 則／36 檔**（本站最飽和母題之一），屬於同一敘事框架的變體角度，判定為母題飽和、非真正白地（比照 10-04 記錄的「甄嬛傳馬拉松」判準：精確詞查無≠白地，需先查母題飽和度）。
+3. **🔴 不新增：「邊界感」「蛋雕」「要確欸」「高麗菜煮蛋那桌」**——分別 1/1、14/1、14/1、22/2 則，均已在既有語料覆蓋（`邊界感`／`高麗菜` 系列 09-30～10-02 已記錄）。
+4. **🔴 不新增：Know Your Meme 本週週報詞條**（Malfoid、Ronaldo Day、Hotel Lobby AI Edits）——與 10-04 記錄的同一份週報（10/2 發布，KYM 固定週五更新，本次研究時尚無 10/9 新一期）重複，三者皆綁定真人/網紅片段（IShowSpeed／真人直播片段）或版權角色二創（Draco Malfoy），延續既往排除原則，非本週新內容。
+5. **🔴 不新增：國慶連假（10/9–10/11）本週網路反應**——「請4休9」「3倍延長」「服務業無感」等句式均為既有連假角度的重複（`連假` 已飽和如上），且 09-24 已記載「國慶」本身明文不推；非本次新發現。
+6. **🔴 不新增：本週其餘中文候選詞皆為舊詞重現**——`VEN`／`ㄅ級分`／`各各`均為 8–9 月已登錄或已飽和詞（分別見 09-27、09-25、09-28 記錄），本週搜尋未見真正新詞。
+
+### Content Trends
+- **母題飽和判準再下一城**：繼 10-04「甄嬛傳馬拉松」之後，本次「11月無連假」反差哏再度證明「精確詞查無 ≠ 白地」，需先查母題（`連假` 599/36）飽和度再下結論；累計本站至少三個母題（`連假`、`甄嬛傳`、`高麗菜`）已進入「每週換皮但結構飽和」狀態，建議後續掃描遇到節日/連假類候選時，優先直接查母題飽和度再決定是否細查精確詞，節省查核時間。
+- **真人/網紅綁定排除原則持續適用於中文側**：本週「破防哥」延續「小英香菇」「八哩八告」的排除模式，顯示中文網路熱梗有相當比例源自特定網紅個人形象敘事，此類素材結構上不適合本站「可泛用化」定位，建議掃描時優先篩掉「由黑轉白」「人設翻轉」「網紅爭議後續」類標題。
+- 英文側 Know Your Meme 本週無新一期（上次 10/2 發布，下次預計 10/9），TikTok 熱梗（Ronaldo Day、Polyester Ronaldo、Rick and Morty 仿作）全數綁定版權角色或實況主真人片段，延續連續多週零白地趨勢。
+
+### Existing Topic Updates
+- 沿用中候選（狀態皆未變，皆為長效概念、無時效壓力）：KitKat 劫案哏（0/0，第 13 天）、「不知道，我的身材很曼妙」（0/0，第 12 天）、比奇堡開運桌布（0/0，第 10 天）、《尼古喵喵》貓漫畫（0/0，第 10 天，IP 風險維持低優先）、英文「Kinda chic to…」句式（0/0，第 7 天）、英文「Imagine hating on…」句式（0/0，第 7 天，句式類）、英文「Two Fishes」荒謬自信體（0/0，第 2 天，句式類）。
+- **✅ 本日結案（4 項，見第 0 項）**：婚假14天新制、健康幣新制、whimsymaxxing、my mama didn't raise a quitter——10-04 daily-update 已全數指派落地，自候選清單移除。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`——本次複驗原始碼確認 `ordinal_enum`（L133）與 `max_rare_ngram`（L170）仍走 `fails.append`，未改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [ettoday：Threads破防哥由黑轉白形象逆襲](https://www.ettoday.net/news/20260617/3184842.htm)｜[JUKSY：破防哥形象大逆襲](https://kol.juksy.com/article/144816)｜[果仁家：2026十月新制懶人包](https://applealmondrealty.com/posts/53338)｜[Yahoo：10月多項新制上路](https://tw.news.yahoo.com/10%E6%9C%88%E5%A4%9A%E9%A0%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E5%81%9C%E8%BB%8A%E5%B0%8F%E5%BF%83%E7%BD%B01200-%E5%A5%BD%E5%B8%82%E5%A4%9A%E7%AE%A1%E5%88%B6%E6%9B%B4%E5%9A%B4-%E5%81%A5%E6%AA%A2%E6%8F%9B%E5%A5%BD%E7%A6%AE-230900027.html)｜[Know Your Meme：Weekly Roundup（Malfoid, Ronaldo Day, Hotel Lobby AI）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-malfoid-ronaldo-day-hotel-lobby-ai-and-more)｜[ettoday：連假開炸「周休3日超爽」11月全傻眼](https://www.ettoday.net/news/20261001/3246519.htm)｜[Yahoo：中秋國慶連假放超爽 2026年9大連假](https://tw.news.yahoo.com/%E4%B8%AD%E7%A7%8B-%E5%9C%8B%E6%85%B6%E9%80%A3%E5%81%87%E6%94%BE%E8%B6%85%E7%88%BD-2026%E5%B9%B4%E9%A9%9A%E8%A6%8B-9%E5%A4%A7%E9%80%A3%E5%81%87-%E8%AB%8B4%E5%A4%A9%E7%8B%82%E6%94%BE16%E5%A4%A9-041100901.html)｜[Look Pretty：觸爛、M3、各各 2026年輕人網路流行用語](https://look.s3.com.tw/look/outfit/tff1g4/page/25872)
