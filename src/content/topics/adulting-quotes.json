@@ -14470,6 +14470,98 @@
             ]
           }
         }
+      },
+    {
+      "id": "aq-568",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.sc.com/tw/personal-loan/articles/tax-reporting-guide/",
+      "sourceNote": "2026報稅攻略提及網路申報與扣除額整理，僅借用報稅季拖延情境，內容為原創對白",
+      "tags": ["報稅", "拖延", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「國稅局那封信你拆了嗎。」\n「還沒，我看到五月就想裝死。」\n「裝死也要申報，拖到最後罰款更高。」\n「我去年網路申報，十分鐘就填完了。」\n「哪有那麼快，我光扣除額就卡了一整晚。」\n「扣除額本來就不是讓你一次看懂的東西。」\n「那你今年想用哪一種方式填。」",
+          "editorNote": "適合吐槽報稅季拖到最後一刻才處理的語錄",
+          "variations": [
+            "延伸版：十分鐘就能申報完的事，我們總能找到辦法拖成整個五月的心理負擔。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you open that letter from the tax office.\"\n\"Not yet. The moment I saw May, I wanted to play dead.\"\n\"Playing dead still means filing. Wait too long and the penalty gets bigger.\"\n\"I filed online last year. Took ten minutes, done.\"\n\"No way it's that fast. I got stuck on deductions for a whole evening.\"\n\"Deductions were never meant to make sense on the first try.\"\n\"So which way are you filing this year.\"",
+          "editorNote": "Good for teasing a friend who always puts off tax season until the last minute.",
+          "variations": [
+            "Extended: Something that takes ten minutes online, and we still find a way to stretch it into a whole month of dread."
+          ]
+        }
       }
+    },
+    {
+      "id": "aq-569",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://blog.udn.com/hahaservicetw/191909090",
+      "sourceNote": "udn部落格描述下班後上木工課的專注與療癒感，僅借用刨木片場景概念，內容為原創對白",
+      "tags": ["木工", "興趣", "逃避", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你這禮拜六下午又去木工教室。」\n「對啊，刨木片堆了滿地，我自己都嫌吵。」\n「房間你上次說要整理，進度如何。」\n「先放著，刨木片比帳單有趣太多了。」\n「那帳單怎麼辦。」\n「帳單在桌上壓著，等我刨完這塊板子再處理。」\n「希望你刨完那天，帳單還沒變成兩倍。」",
+          "editorNote": "適合分享下班後靠木工療癒，把帳單往後排的心情",
+          "variations": [
+            "延伸版：工作室地上那層刨木片，是他這週唯一捨得花時間清的東西。"
+          ]
+        },
+        "en": {
+          "content": "\"You went to the woodworking studio again this Saturday afternoon.\"\n\"Yeah. Wood shavings covered the floor, even I found it loud.\"\n\"You said you'd clean your room last time. How's that going.\"\n\"Leaving it for now. Shavings are way more fun than bills.\"\n\"What about the bills, then.\"\n\"They're sitting on the desk under a weight. I'll deal with them after I finish this board.\"\n\"Hope the bills haven't doubled by the time you're done.\"",
+          "editorNote": "Good for the 'I'd rather sand wood than open my bills' kind of mood.",
+          "variations": [
+            "Extended: The pile of shavings on the studio floor is the one mess he's actually bothered to clean this week."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-570",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.money101.com.tw/blog/%E7%B9%B3%E6%B0%B4%E8%B2%BB-%E9%9B%BB%E8%B2%BB-%E7%93%A6%E6%96%AF%E8%B2%BB%E9%9B%BB%E4%BF%A1%E8%B2%BB%E5%B8%B3%E5%96%AE%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%84%AA%E6%83%A0",
+      "sourceNote": "money101介紹水電瓦斯費信用卡回饋，僅借用室友分攤電費的情境，內容為原創對白",
+      "tags": ["室友", "分攤", "木工", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這個月電費算好了，你那一半八百二。」\n「上次說要分錶的事，問了嗎。」\n「問了，社區不給裝，只能照比例分。」\n「後院那堆刨木片，你打算什麼時候清。」\n「禮拜六，等我做完那張板凳。」\n「板凳做完記得把工具收進倉庫。」\n「收，順便幫你量一下那個漏水的角落。」",
+          "editorNote": "適合吐槽室友分攤水電費，又要互相提醒收拾公共空間的日常",
+          "variations": [
+            "延伸版：電費算好了，刨木片也堆好了，兩件事他這週都排在同一天處理。"
+          ]
+        },
+        "en": {
+          "content": "\"I worked out this month's electricity bill. Your half is eight-twenty.\"\n\"Did you ask about splitting the meter like we talked about.\"\n\"I did. The building won't allow a separate meter, so we split by ratio.\"\n\"What about that pile of wood shavings in the backyard. When are you clearing it.\"\n\"Saturday, once I finish that bench.\"\n\"Once the bench is done, put the tools back in the storage room.\"\n\"Will do. I'll check that leaky corner for you while I'm at it.\"",
+          "editorNote": "Good for the back-and-forth of splitting utility bills with a roommate while nagging about shared-space mess.",
+          "variations": [
+            "Extended: The electricity bill is settled and the shavings are swept into a pile — both chores landed on the same day this week."
+          ]
+        }
+      }
+    },
+    {
+      "id": "aq-571",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.bnext.com.tw/article/91636/abor-pension-self-contribution-2026",
+      "sourceNote": "數位時代報導2026勞退自提6%節稅試算，僅借用自提比例調整的情境，內容為原創對白",
+      "tags": ["勞退", "自提", "存錢", "對白"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你勞退自提調到多少了。」\n「六%，算下來每個月少三千多。」\n「少三千多你不會心痛嗎。」\n「會啊，但想到十年後那個我會感謝現在的我。」\n「你這樣講我也想跟著調。」\n「調啊，反正薪轉那天看不到，比較不心痛。」\n「那我明天也去改。」",
+          "editorNote": "適合鼓勵朋友調高勞退自提比例，替未來自己多存一點的語錄",
+          "variations": [
+            "延伸版：薪轉那天看不到少的三千多，但十年後的提款單看得到。"
+          ]
+        },
+        "en": {
+          "content": "\"What percentage did you set your pension self-contribution to.\"\n\"Six percent. That's over three thousand less each month.\"\n\"Doesn't losing three thousand sting a little.\"\n\"It does. But future me, ten years from now, will thank present me.\"\n\"Now I want to bump mine up too.\"\n\"Do it. You don't see it on payday anyway, so it hurts less.\"\n\"Fine, I'm changing mine tomorrow.\"",
+          "editorNote": "Good for nudging a friend to raise their pension contribution for their future self.",
+          "variations": [
+            "Extended: You don't see the missing three thousand on payday, but you'll see it on the statement ten years from now."
+          ]
+        }
+      }
+    }
   ]
 }
