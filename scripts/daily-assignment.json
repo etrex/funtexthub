@@ -1,12 +1,7 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "min_scene_items": 2,
-  "first_batch": [
-    "wedding-quotes",
-    "adulting-quotes",
-    "slang-quotes",
-    "witty-comebacks"
-  ],
+  "first_batch": [],
   "ordinal_allowed": [
     "breakup-quotes",
     "fitness-quotes",
@@ -15,355 +10,309 @@
     "zodiac-quotes"
   ],
   "ordinal_quota_per_topic": 1,
-  "named_terms": {
-    "婚假14天新制": "wedding-quotes",
-    "健康幣": "adulting-quotes",
-    "whimsymaxxing": "slang-quotes",
-    "my mama didn't raise a quitter": "witty-comebacks"
-  },
+  "named_terms": {},
   "institutional_frames": [
     "F13"
   ],
   "institutional_topics": [
-    "adulting-quotes",
-    "cheesy-pickups",
-    "cold-jokes"
-  ],
-  "anti_humor_frame_topics": [
-    "healing-quotes",
-    "self-love-quotes",
-    "summer-electric-quotes"
-  ],
-  "form_min_distinct": 2,
-  "form_reader_visible": true,
-  "form_exempt_frames": [
-    "F4",
-    "F5",
-    "F13",
-    "F15"
-  ],
-  "anti_humor_topics": [
-    "food-jokes",
-    "dark-humor"
-  ],
-  "timely_topics": [
-    "wedding-quotes",
-    "adulting-quotes",
-    "slang-quotes",
-    "witty-comebacks"
-  ],
-  "timely_banned_terms": [
-    "中秋",
-    "教師節",
-    "敬師",
-    "禮券",
-    "家長會",
-    "烤肉",
-    "月餅",
-    "好市多",
-    "補休",
-    "國慶",
-    "重陽",
-    "秋天",
-    "入秋",
-    "雙十",
-    "雙十連假",
-    "國慶連假"
+    "exam-quotes",
+    "renting-quotes",
+    "stock-investor-quotes"
   ],
   "topics": {
     "absurd-wisdom": {
-      "frame": "F11",
+      "frame": "F7",
       "scene_tokens": [
-        "橡皮艇"
+        "醃菜脯"
       ],
-      "scene_class": "橡皮艇"
+      "scene_class": "醃菜脯"
     },
     "adulting-quotes": {
-      "frame": "F13",
+      "frame": "F4",
       "scene_tokens": [
-        "紙偶"
+        "刨木片"
       ],
-      "scene_class": "紙偶"
+      "scene_class": "刨木片"
     },
     "breakup-quotes": {
-      "frame": "F8",
+      "frame": "F14",
       "scene_tokens": [
-        "跳山羊"
+        "綁馬尾"
       ],
-      "scene_class": "跳山羊"
+      "scene_class": "綁馬尾"
     },
     "cat-quotes": {
-      "frame": "F11",
+      "frame": "F15",
       "scene_tokens": [
-        "藤籃"
+        "磨豆漿"
       ],
-      "scene_class": "藤籃"
+      "scene_class": "磨豆漿"
     },
     "cdrama-period-quotes": {
-      "frame": "F10",
+      "frame": "F9",
       "scene_tokens": [
-        "草鞋"
+        "捏黏土"
       ],
-      "scene_class": "草鞋"
+      "scene_class": "捏黏土"
     },
     "cheesy-pickups": {
-      "frame": "F13",
+      "frame": "F2",
       "scene_tokens": [
-        "手影"
+        "疊瓦片"
       ],
-      "scene_class": "手影"
+      "scene_class": "疊瓦片"
     },
     "cold-jokes": {
-      "frame": "F13",
+      "frame": "F6",
       "scene_tokens": [
-        "扮家家"
+        "打彈弓"
       ],
-      "scene_class": "扮家家"
+      "scene_class": "打彈弓"
     },
     "concert-ticket-quotes": {
-      "frame": "F11",
+      "frame": "F12",
       "scene_tokens": [
-        "紙偶"
+        "刨木片"
       ],
-      "scene_class": "紙偶"
+      "scene_class": "刨木片"
     },
     "couple-jokes": {
-      "frame": "F12",
+      "frame": "F14",
       "scene_tokens": [
-        "藤籃"
+        "磨豆漿"
       ],
-      "scene_class": "藤籃"
+      "scene_class": "磨豆漿"
     },
     "dark-humor": {
-      "frame": "F10",
+      "frame": "F1",
       "scene_tokens": [
-        "橡皮艇"
+        "醃菜脯"
       ],
-      "scene_class": "橡皮艇"
+      "scene_class": "醃菜脯"
     },
     "diet-quotes": {
-      "frame": "F9",
+      "frame": "F12",
       "scene_tokens": [
-        "紙鶴"
+        "疊骰子"
       ],
-      "scene_class": "紙鶴"
+      "scene_class": "疊骰子"
     },
     "dog-quotes": {
-      "frame": "F12",
+      "frame": "F15",
       "scene_tokens": [
-        "紙偶"
+        "刨木片"
       ],
-      "scene_class": "紙偶"
+      "scene_class": "刨木片"
     },
     "drama-binge-quotes": {
-      "frame": "F7",
+      "frame": "F14",
       "scene_tokens": [
-        "紙船"
+        "刻木雕"
       ],
-      "scene_class": "紙船"
+      "scene_class": "刻木雕"
     },
     "drama-quotes": {
-      "frame": "F10",
+      "frame": "F3",
       "scene_tokens": [
-        "藤籃"
+        "磨豆漿"
       ],
-      "scene_class": "藤籃"
+      "scene_class": "磨豆漿"
     },
     "exam-quotes": {
-      "frame": "F12",
+      "frame": "F13",
       "scene_tokens": [
-        "手影"
+        "疊瓦片"
       ],
-      "scene_class": "手影"
+      "scene_class": "疊瓦片"
     },
     "fathers-day-quotes": {
-      "frame": "F9",
+      "frame": "F8",
       "scene_tokens": [
-        "草鞋"
+        "捏黏土"
       ],
-      "scene_class": "草鞋"
+      "scene_class": "捏黏土"
     },
     "fitness-quotes": {
-      "frame": "F7",
+      "frame": "F5",
       "scene_tokens": [
-        "跳山羊"
+        "綁馬尾"
       ],
-      "scene_class": "跳山羊"
+      "scene_class": "綁馬尾"
     },
     "food-jokes": {
-      "frame": "F7",
+      "frame": "F15",
       "scene_tokens": [
-        "紙鶴"
+        "疊骰子"
       ],
-      "scene_class": "紙鶴"
+      "scene_class": "疊骰子"
     },
     "graduation-quotes": {
-      "frame": "F8",
+      "frame": "F10",
       "scene_tokens": [
-        "紙鶴"
+        "疊骰子"
       ],
-      "scene_class": "紙鶴"
+      "scene_class": "疊骰子"
     },
     "healing-quotes": {
-      "frame": "F15",
+      "frame": "F11",
       "scene_tokens": [
-        "手影"
+        "疊瓦片"
       ],
-      "scene_class": "手影"
+      "scene_class": "疊瓦片"
     },
     "holiday-jokes": {
-      "frame": "F8",
+      "frame": "F11",
       "scene_tokens": [
-        "草鞋"
+        "捏黏土"
       ],
-      "scene_class": "草鞋"
+      "scene_class": "捏黏土"
     },
     "human-design-quotes": {
-      "frame": "F9",
+      "frame": "F3",
       "scene_tokens": [
-        "橡皮艇"
+        "醃菜脯"
       ],
-      "scene_class": "橡皮艇"
+      "scene_class": "醃菜脯"
     },
     "insomnia-quotes": {
-      "frame": "F4",
+      "frame": "F9",
       "scene_tokens": [
-        "圍棋"
+        "搓湯圓"
       ],
-      "scene_class": "圍棋"
+      "scene_class": "搓湯圓"
     },
     "korean-drama-quotes": {
-      "frame": "F5",
+      "frame": "F11",
       "scene_tokens": [
-        "鈴鼓"
+        "剪紙花"
       ],
-      "scene_class": "鈴鼓"
+      "scene_class": "剪紙花"
     },
     "mom-quotes": {
-      "frame": "F6",
+      "frame": "F2",
       "scene_tokens": [
-        "踩高蹺"
+        "疊沙堡"
       ],
-      "scene_class": "踩高蹺"
+      "scene_class": "疊沙堡"
     },
     "motivational-quotes": {
-      "frame": "F4",
+      "frame": "F1",
       "scene_tokens": [
-        "鈴鼓"
+        "剪紙花"
       ],
-      "scene_class": "鈴鼓"
+      "scene_class": "剪紙花"
     },
     "pet-memorial-quotes": {
-      "frame": "F5",
+      "frame": "F9",
       "scene_tokens": [
-        "踩高蹺"
+        "疊沙堡"
       ],
-      "scene_class": "踩高蹺"
+      "scene_class": "疊沙堡"
     },
     "programmer-jokes": {
-      "frame": "F6",
-      "scene_tokens": [
-        "紙船"
-      ],
-      "scene_class": "紙船"
-    },
-    "renting-quotes": {
-      "frame": "F3",
-      "scene_tokens": [
-        "紙娃娃"
-      ],
-      "scene_class": "紙娃娃"
-    },
-    "self-love-quotes": {
-      "frame": "F15",
-      "scene_tokens": [
-        "扮家家"
-      ],
-      "scene_class": "扮家家"
-    },
-    "service-quotes": {
-      "frame": "F6",
-      "scene_tokens": [
-        "跳山羊"
-      ],
-      "scene_class": "跳山羊"
-    },
-    "slang-quotes": {
       "frame": "F5",
       "scene_tokens": [
-        "紙船"
+        "刻木雕"
       ],
-      "scene_class": "紙船"
+      "scene_class": "刻木雕"
+    },
+    "renting-quotes": {
+      "frame": "F13",
+      "scene_tokens": [
+        "剝花生"
+      ],
+      "scene_class": "剝花生"
+    },
+    "self-love-quotes": {
+      "frame": "F8",
+      "scene_tokens": [
+        "打彈弓"
+      ],
+      "scene_class": "打彈弓"
+    },
+    "service-quotes": {
+      "frame": "F10",
+      "scene_tokens": [
+        "綁馬尾"
+      ],
+      "scene_class": "綁馬尾"
+    },
+    "slang-quotes": {
+      "frame": "F7",
+      "scene_tokens": [
+        "刻木雕"
+      ],
+      "scene_class": "刻木雕"
     },
     "stock-investor-quotes": {
-      "frame": "F2",
+      "frame": "F13",
       "scene_tokens": [
-        "黑白配"
+        "疊骨牌"
       ],
-      "scene_class": "黑白配"
+      "scene_class": "疊骨牌"
     },
     "student-quotes": {
-      "frame": "F3",
+      "frame": "F2",
       "scene_tokens": [
-        "圍棋"
+        "搓湯圓"
       ],
-      "scene_class": "圍棋"
+      "scene_class": "搓湯圓"
     },
     "summer-electric-quotes": {
-      "frame": "F15",
-      "scene_tokens": [
-        "黑白配"
-      ],
-      "scene_class": "黑白配"
-    },
-    "sweet-quotes": {
-      "frame": "F4",
-      "scene_tokens": [
-        "踩高蹺"
-      ],
-      "scene_class": "踩高蹺"
-    },
-    "travel-quotes": {
-      "frame": "F1",
-      "scene_tokens": [
-        "扮家家"
-      ],
-      "scene_class": "扮家家"
-    },
-    "wedding-quotes": {
       "frame": "F3",
       "scene_tokens": [
-        "鈴鼓"
+        "疊骨牌"
       ],
-      "scene_class": "鈴鼓"
+      "scene_class": "疊骨牌"
+    },
+    "sweet-quotes": {
+      "frame": "F7",
+      "scene_tokens": [
+        "疊沙堡"
+      ],
+      "scene_class": "疊沙堡"
+    },
+    "travel-quotes": {
+      "frame": "F4",
+      "scene_tokens": [
+        "打彈弓"
+      ],
+      "scene_class": "打彈弓"
+    },
+    "wedding-quotes": {
+      "frame": "F5",
+      "scene_tokens": [
+        "剪紙花"
+      ],
+      "scene_class": "剪紙花"
     },
     "witty-comebacks": {
-      "frame": "F2",
+      "frame": "F1",
       "scene_tokens": [
-        "紙娃娃"
+        "剝花生"
       ],
-      "scene_class": "紙娃娃"
+      "scene_class": "剝花生"
     },
     "workplace-quotes": {
-      "frame": "F1",
+      "frame": "F4",
       "scene_tokens": [
-        "黑白配"
+        "疊骨牌"
       ],
-      "scene_class": "黑白配"
+      "scene_class": "疊骨牌"
     },
     "worldcup-quotes": {
-      "frame": "F2",
+      "frame": "F10",
       "scene_tokens": [
-        "圍棋"
+        "搓湯圓"
       ],
-      "scene_class": "圍棋"
+      "scene_class": "搓湯圓"
     },
     "zodiac-quotes": {
-      "frame": "F1",
+      "frame": "F6",
       "scene_tokens": [
-        "紙娃娃"
+        "剝花生"
       ],
-      "scene_class": "紙娃娃"
+      "scene_class": "剝花生"
     }
   }
 }
