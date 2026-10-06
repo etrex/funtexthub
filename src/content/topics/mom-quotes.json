@@ -15821,6 +15821,74 @@
             "editorNote": "The one time she's the one who goes quiet in the chat"
           }
         }
+      },
+      {
+        "id": "momq-557",
+        "dateAdded": "2026-10-05",
+        "sourceUrl": "https://www.today.com/parents/parents/tiktok-mysterious-texts-parents-rcna157509",
+        "sourceNote": "inspired by a TODAY/TikTok roundup of ominous-sounding parent texts that turned out to be nothing (e.g. 'Grandma's gone' meaning 'to the hospital'); rewritten as an original scene about a grandfather's missing dog",
+        "tags": ["媽媽的訊息", "家族群組", "誤會"],
+        "i18n": {
+          "zh-tw": {
+            "content": "媽媽在深夜傳來一句「阿公的狗不見了」，看到的瞬間心跳漏了一拍。她隔了十分鐘才補一句，說狗自己跑去附近麵攤蹲著，現在已經牽回來了。那隻狗才兩歲，膽子比誰都大，肚子餓的時候誰都攔不住。",
+            "editorNote": "半夜看到這種訊息先別慌，通常狗比人冷靜"
+          },
+          "en": {
+            "content": "Mom texted at midnight: \"Grandpa's dog is gone,\" and for one heartbeat it read like the worst news. Ten minutes later she added that the dog had just wandered off to a noodle stand nearby, already back home by then. That dog is only two, braver than anyone, and nothing stops him once he's hungry.",
+            "editorNote": "Don't panic at a midnight text like this — the dog's usually calmer than you are."
+          }
+        }
+      },
+      {
+        "id": "momq-558",
+        "dateAdded": "2026-10-05",
+        "sourceUrl": "https://www.today.com/parents/parents/tiktok-mysterious-texts-parents-rcna157509",
+        "sourceNote": "inspired by the same roundup's anecdote about a parent's repeated urgent calls that turned out to be about birthday gift preferences; rewritten as an original text exchange",
+        "tags": ["對話體", "生日", "誤會"],
+        "i18n": {
+          "zh-tw": {
+            "content": "「馬上回電，很急。」\n「我在開會，怎麼了？」\n「沒事，就問妳生日想要什麼顏色的對杯。」\n「我以為家裡出事了。」\n「有這麼誇張嗎？」\n「下次可以講清楚一點。」",
+            "editorNote": "急訊息不一定是急事，心跳倒是先跳了一輪"
+          },
+          "en": {
+            "content": "\"Call me back now, it's urgent.\"\n\"I'm in a meeting, what happened?\"\n\"Nothing — just wondering what color mug set you want for your birthday.\"\n\"I thought something happened at home.\"\n\"Is it really that serious?\"\n\"Next time maybe lead with that.\"",
+            "editorNote": "An urgent text doesn't always mean an emergency — your pulse just hasn't caught up yet."
+          }
+        }
+      },
+      {
+        "id": "momq-559",
+        "dateAdded": "2026-10-05",
+        "sourceUrl": "https://www.today.com/parents/parents/tiktok-mysterious-texts-parents-rcna157509",
+        "sourceNote": "inspired by the same roundup's anecdote about a parent's ominous 'I love you' text that turned out to be about mopping floors; rewritten as an original scene about a community sandcastle-building event",
+        "tags": ["媽媽的訊息", "家族群組", "誤會"],
+        "i18n": {
+          "zh-tw": {
+            "content": "媽媽在班親會群組只打一句「這週末別排別的事，我愛妳」，語氣重得像要攤開什麼大事。等到週六當天才知道，她跟社區志工在堤岸邊疊沙堡辦活動，缺一個扶著最上層的人手。那座沙堡最後疊得比她女兒還高。",
+            "editorNote": "訊息語氣嚇人，真正缺的只是扶沙堡的那雙手"
+          },
+          "en": {
+            "content": "In the parent group chat, Mom sent just one line — \"Don't make other plans this weekend, love you\" — heavy enough to sound like a confession was coming. Saturday arrived, and the truth came out: she was at the seawall with neighborhood volunteers building a sandcastle for a community event, and they needed one more pair of hands to hold up the top tier. By the end, that sandcastle stood taller than her own daughter.",
+            "editorNote": "The tone sounds dire — what's actually missing is just a hand to steady the sandcastle."
+          }
+        }
+      },
+      {
+        "id": "momq-560",
+        "dateAdded": "2026-10-05",
+        "sourceUrl": "https://www.today.com/parents/parents/tiktok-mysterious-texts-parents-rcna157509",
+        "sourceNote": "inspired by the same roundup of alarming-sounding parent texts; rewritten as an original list contrasting the message with the literal scene at a beach sandcastle build",
+        "tags": ["對話體", "家族群組", "誤會"],
+        "i18n": {
+          "zh-tw": {
+            "content": "— 「城堡要垮了，快來」\n— 退潮前搶救的是今天疊沙堡的成果\n— 「我們人都在」\n— 表哥蹲在旁邊補最後一面牆\n— 「不用太緊張」\n— 工具只剩一把塑膠勺\n— 「晚點見」\n— 帽子壓得很低，正在修補缺口",
+            "editorNote": "訊息字面嚴重，實際畫面只是補沙堡的現場"
+          },
+          "en": {
+            "content": "— \"The castle's going to fall, come quick.\"\n— What needed rescuing was that day's sandcastle.\n— \"Everyone's already here.\"\n— Her cousin was crouched beside it, patching the last wall.\n— \"No need to panic.\"\n— The only tool left was one plastic scoop.\n— \"See you soon.\"\n— Hat pulled low, still patching the gap.",
+            "editorNote": "The words sound dire; the scene on the ground is just sandcastle repairs."
+          }
+        }
       }
   ]
 }

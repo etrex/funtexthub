@@ -13646,6 +13646,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "iq-487",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.commonhealth.com.tw/article/67212",
+      "sourceNote": "康健雜誌談台灣失眠盛行率的報導，改寫成半夜腦內待辦清單＋順手搓湯圓的清單體",
+      "tags": ["失眠", "清單", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 三件事，輪流在腦子裡報到\n— 搓湯圓搓到手心發熱\n— 回不完的訊息還在打草稿\n— 床頭那杯水始終沒喝完\n— 棉被踢到剩一個角",
+          "editorNote": "給凌晨還在腦內開會、順手搓起湯圓粉打發時間的人。",
+          "variations": [
+            "短版：三件事輪流報到，湯圓先被搓成一團。",
+            "延伸版：棉被踢到剩一個角，訊息還在草稿裡等天亮。"
+          ]
+        },
+        "en": {
+          "content": "— Three things keep taking turns in my head tonight.\n— Rolling tangyuan dough until my palms are warm.\n— A text reply still stuck in drafts.\n— The water by the bed, still not finished.\n— The blanket, kicked down to one corner.",
+          "editorNote": "For anyone running a meeting in their head at 2am who ends up kneading tangyuan dough instead.",
+          "variations": [
+            "Short: three things on rotation, and the tangyuan dough comes first.",
+            "Extended: blanket's down to one corner, the text still sitting in drafts waiting for daylight."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-488",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://news.pts.org.tw/article/427468",
+      "sourceNote": "公視新聞談睡前用手機延後入睡的報導，改寫成兩個人深夜搓湯圓代替滑手機的對話",
+      "tags": ["失眠", "對白", "自嘲"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「十七顆，搓湯圓的時候手比腦子還清醒。」\n「這麼晚還不睡，在幹嘛？」\n「比躺著數羊有用。」\n「搓完這盆就去睡？」\n「搓完才知道自己做了什麼，躺著什麼都沒做。」",
+          "editorNote": "給覺得搓湯圓比躺著數羊更有用的失眠對話。",
+          "variations": [
+            "短版：十七顆湯圓搓完，手醒著，人還是沒睡。",
+            "延伸版：搓完才知道自己做了什麼，躺著只會想事情。"
+          ]
+        },
+        "en": {
+          "content": "\"Seventeen, and my hands are more awake than my brain while I roll these.\"\n\"It's the middle of the night, what are you even doing?\"\n\"More useful than lying there counting sheep.\"\n\"Going to sleep once this batch is done?\"\n\"At least rolling them means I did something, lying there I did nothing.\"",
+          "editorNote": "A late-night exchange between two people who've decided rolling rice balls beats counting sheep.",
+          "variations": [
+            "Short: seventeen tangyuan done, hands awake, body still not asleep.",
+            "Extended: rolling them means I did something — lying there, I did nothing at all."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-489",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.withings.com/zh-tw/blogs/withings-blog/data-many-people-might-have-insomnia-and-not-even-know-it",
+      "sourceNote": "Withings 部落格談許多人未察覺自己失眠的文章，改寫成翻枕頭找涼感失敗的獨白",
+      "tags": ["失眠", "焦慮", "作息"],
+      "i18n": {
+        "zh-tw": {
+          "content": "三次，我把枕頭翻到背面找涼的那一角，三次都一樣熱。螢幕亮度調到最暗，還是亮得像在審問自己。時間停在兩點四十，比我醒著的時間走得還慢。",
+          "editorNote": "給翻遍枕頭都找不到涼的那一角、只好盯著螢幕的人。",
+          "variations": [
+            "短版：枕頭翻了三次都一樣熱，螢幕暗到最低還是太亮。",
+            "延伸版：時間停在兩點四十，走得比醒著的我還慢。"
+          ]
+        },
+        "en": {
+          "content": "Three times, I flipped the pillow looking for a cool corner, and all three times it was just as warm. The screen brightness is down as low as it goes, still bright enough to feel like an interrogation. The clock says two forty, moving slower than I am awake.",
+          "editorNote": "For anyone who's flipped the pillow a few times too many and ended up staring at a dimmed screen instead.",
+          "variations": [
+            "Short: flipped the pillow three times, screen dimmed to the lowest, still too bright.",
+            "Extended: the clock says two forty, moving slower than I'm staying awake."
+          ]
+        }
+      }
+    },
+    {
+      "id": "iq-490",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://naplab.com/guides/sleep-statistics/",
+      "sourceNote": "睡眠統計資料站的文章，改寫成盯著天花板裂痕數公分打發失眠時間的獨白",
+      "tags": ["失眠", "物件", "深夜"],
+      "i18n": {
+        "zh-tw": {
+          "content": "九十公分，是我盯著那條天花板裂痕數出來的長度。從牆角到抽屜那邊，整整量了三遍都一樣。眼睛閉上還在腦海裡延伸，好像裂痕比黑夜還長。",
+          "editorNote": "給盯著天花板裂痕、用公分打發失眠時間的人。",
+          "variations": [
+            "短版：裂痕量了三遍都是九十公分，閉眼還在延伸。",
+            "延伸版：從牆角到抽屜那邊，裂痕比黑夜還長。"
+          ]
+        },
+        "en": {
+          "content": "Ninety centimeters, that's the length of the ceiling crack I kept staring at and measuring. From the corner to the dresser, I checked it three times and got the same number. Even with my eyes closed it keeps stretching in my head, like the crack is longer than the night itself.",
+          "editorNote": "For anyone who measures a ceiling crack in centimeters just to have something to do while awake.",
+          "variations": [
+            "Short: measured the crack three times, always ninety centimeters, still stretching with my eyes closed.",
+            "Extended: from the corner to the dresser, the crack feels longer than the night itself."
+          ]
+        }
+      }
     }
   ]
 }
