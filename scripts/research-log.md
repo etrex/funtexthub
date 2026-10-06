@@ -13532,3 +13532,35 @@ Sources: [ettoday：10月新制上路健康幣/停車罰則等](https://www.etto
 - 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
 
 Sources: [ettoday：Threads破防哥由黑轉白形象逆襲](https://www.ettoday.net/news/20260617/3184842.htm)｜[JUKSY：破防哥形象大逆襲](https://kol.juksy.com/article/144816)｜[果仁家：2026十月新制懶人包](https://applealmondrealty.com/posts/53338)｜[Yahoo：10月多項新制上路](https://tw.news.yahoo.com/10%E6%9C%88%E5%A4%9A%E9%A0%85%E6%96%B0%E5%88%B6%E4%B8%8A%E8%B7%AF-%E5%81%9C%E8%BB%8A%E5%B0%8F%E5%BF%83%E7%BD%B01200-%E5%A5%BD%E5%B8%82%E5%A4%9A%E7%AE%A1%E5%88%B6%E6%9B%B4%E5%9A%B4-%E5%81%A5%E6%AA%A2%E6%8F%9B%E5%A5%BD%E7%A6%AE-230900027.html)｜[Know Your Meme：Weekly Roundup（Malfoid, Ronaldo Day, Hotel Lobby AI）](https://trending.knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-malfoid-ronaldo-day-hotel-lobby-ai-and-more)｜[ettoday：連假開炸「周休3日超爽」11月全傻眼](https://www.ettoday.net/news/20261001/3246519.htm)｜[Yahoo：中秋國慶連假放超爽 2026年9大連假](https://tw.news.yahoo.com/%E4%B8%AD%E7%A7%8B-%E5%9C%8B%E6%85%B6%E9%80%A3%E5%81%87%E6%94%BE%E8%B6%85%E7%88%BD-2026%E5%B9%B4%E9%A9%9A%E8%A6%8B-9%E5%A4%A7%E9%80%A3%E5%81%87-%E8%AB%8B4%E5%A4%A9%E7%8B%82%E6%94%BE16%E5%A4%A9-041100901.html)｜[Look Pretty：觸爛、M3、各各 2026年輕人網路流行用語](https://look.s3.com.tw/look/outfit/tff1g4/page/25872)
+
+## 2026-10-06 Research Report
+
+### 第 0 項：產線檢查
+- `dateAdded` 收盤語料 09-28～10-05：168/189/168/140/72/113/168/**40**（42 檔）⇒ 10-05 批次（brief 15:17、batch 1/9 於 16:12、batch 2/9 於 16:24）之後**無後續批次提交**，截至本次研究時間（10-06 09:30，距上次內容提交逾 17 小時）僅完成 2/9 批、40/168 則；本機領先 origin/main 3 個提交（brief + 2 批內容），工作區乾淨。比照既往停擺判準（`funtexthub-pipeline-stall-check`），這是本月第 2 次中途停批（前次為 10-02/10-03，已於 10-04 完全恢復）。本研究任務不介入、不補跑、不代為 commit／deploy，僅記錄供維護任務下次執行時處置；本次研究完成後的 git push 僅推送既有本機提交（brief + 已完成批次 + 本篇研究記錄），不新增內容。
+- 本次未重測分發層／DNS／404（沿用 09-24 狀態）。
+
+### New Topic Recommendations
+本次掃描（Threads／PTT／Dcard 本週話題、Know Your Meme 週報、TikTok 本週熱梗、德國 2026 青年流行語 10 強、萬聖節哏、國慶連假哏）結果如下：
+
+1. **🟢 候選：「Grr Mondays」迷因（英文，週一厭世哏，TikTok/Reels 2026-09 爆紅重新翻紅）**
+   語料 `grr monday` **0/0（WHITE）**。來源為 2015 電影片段配上 `#GrrMondays` 標籤重新被剪輯翻紅，但原始場景內容不宜（含不雅情節），**只能取用「週一厭世、幫週一配上一個厭世標籤」的概念本身**，不得描述或暗示原場景內容。可泛用化為「幫你的週一心情配一個標籤」句式。候選路由：`workplace-quotes`／`slang-quotes`。無時效壓力（非節日綁定）。
+2. **🟢 候選：「crash out / crashout」（英文，情緒失控／暴走口語，2024 起源、2026 入選德國青年流行語 10 強前段班，顯示仍在國際擴散）**
+   語料 `crashout`／`crash out` **0/0（WHITE）**；中文對應詞「崩潰」「暴走」在既有語料已是常用泛用詞彙（非專指此流行語，無法查核精確飽和度，但語意本身早已覆蓋），**故本候選僅建議英文側取用**，寫成「對小事（迷路、排隊、剩一塊披薩被拿走）誇張情緒失控」的自嘲式幽默句，不寫中文對應版本以避免與既有中文「崩潰」語料重複而顯得非原創。候選路由：`slang-quotes`／`dark-humor`。無時效壓力。
+3. **🔴 不新增：「67」「aura farming」「glazing」「AI slop」「clock it」「unc」「lock in」「cooked」等英文流行語**——逐詞查核語料，全數已在 `slang-quotes` 等多檔**重度覆蓋**（`unc`／`lock in`／`cooked` 各已出現於 15＋檔、`aura farming`／`glazing`／`AI slop`／`clock it` 已見於 `slang-quotes` 專檔），無新增空間。
+4. **🔴 不新增：德國 2026 青年流行語 10 強其餘詞彙**（`Peak`、`Digga`、`Macker`、`Gute Käse`、`Schere`、`Süper`）——皆為德語語境詞彙，非中／英語境流行語，不適用本站雙語定位，排除。
+5. **🔴 不新增：國慶連假（10/9–10/11）相關哏**——`連假` 母題已 599 則／36 檔飽和（見 10-05 記錄判準），且 09-24 已明文「國慶」不推；本週搜尋（請假攻略、歷年網路聲量排行）皆為舊角度重複，無新白地。
+6. **🔴 不新增：Know Your Meme／TikTok 本週內容**——本次搜尋結果仍落在上週（10/2）週報與其他年份舊內容，無 10/9 新一期可查；TikTok 搜尋結果混雜 2023 年舊資料，未見本週（10-06 前後）新熱梗。
+7. **🔴 不新增：PTT／Dcard 本週熱門**——搜尋未能取得具時間戳的本週熱門榜（搜尋引擎索引滯後於即時熱門榜機制），本週話題（WBC 經典賽討論、缺水議題、開學/微積分/保養品等）均為既有角度或過於時事/爆雷敏感（缺水議題涉及公共政策爭議，不適合本站娛樂定位），不建議指派。
+
+### Content Trends
+- **英文側本週仍是主要白地來源**：連續多週中文側搜尋多落在「年度整理型」文章或既有詞重現，而英文側（TikTok/Reels 重新翻紅的舊迷因、國際流行語評選）持續產出真正的白地候選，符合近期趨勢（英文側白地密度高於中文側）。
+- **「舊迷因被剪輯重新翻紅」是一種可重複利用的來源類型**：`Grr Mondays` 源自 2015 年電影片段、2026-09 因重新剪輯配樂而二次爆紅，顯示除了當週新梗外，「老素材被新一代重新發現」也值得定期查核（可用 Know Your Meme 的 "resurgence" / "comeback" 類詞條追蹤）。
+- **流行語評選類來源（如德國青年流行語）可作跨語言流行詞的早期訊號**，但須篩掉語言本身不適用的詞彙（本次 10 強中僅 `Crashout` 具英語可遷移性，其餘為德語本字或已飽和的英語借詞）。
+
+### Existing Topic Updates
+- 沿用中候選（狀態皆未變，皆為長效概念、無時效壓力，日數＋1）：KitKat 劫案哏（0/0，第 14 天）、「不知道，我的身材很曼妙」（0/0，第 13 天）、比奇堡開運桌布（0/0，第 11 天）、《尼古喵喵》貓漫畫（0/0，第 11 天，IP 風險維持低優先）、英文「Kinda chic to…」句式（0/0，第 8 天，本次搜尋仍見引用，確認存續）、英文「Imagine hating on…」句式（0/0，第 8 天）、英文「Two Fishes」荒謬自信體（0/0，第 3 天）。
+- 🆕 新增候選兩項（見上）：`Grr Mondays`（第 1 天）、`crashout`（第 1 天）。
+- 🔴 需人工四項狀態未變（SKILL.md 加自動重試＋週末排程檢查／註冊 `funtexthub.com`＋`contact@`／`dmca@`／`src/pages/404.astro`／`check_batch.py` 第 123、160 行改走 `share_fail()`）。
+- 不執行：既往缺口補跑；代 generator commit／deploy；建立內容檔案（本任務僅研究登錄）。
+
+Sources: [KnowYourMeme：Grr Mondays](https://knowyourmeme.com/memes/grr-mondays)｜[Dictionary.com：Crash Out slang](https://www.dictionary.com/culture/slang/crash-out)｜[世界日報：德票選青年10大流行語 Crashout、Peak](https://www.worldjournal.com/wj/amp/story/121488/9658116)｜[udn：德國青年流行語10強出爐](https://udn.com/news/story/6812/9656225)｜[TVBS：2026國慶連假攻略](https://news.tvbs.com.tw/life/4029016)｜[NapoleonCat：Top Trending Memes October 2026](https://napoleoncat.com/blog/trending-memes/)
