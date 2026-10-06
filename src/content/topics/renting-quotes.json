@@ -13911,6 +13911,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "rq-487",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E5%AE%9A%E9%87%91-%E6%8A%BC%E9%87%91-%E7%A7%9F%E9%87%91-%E9%80%80%E6%8A%BC%E9%87%91-%E7%A7%9F%E5%B1%8B%E8%B2%BB%E7%94%A8/",
+      "sourceNote": "housefeel文章說明租屋押金與租金費用分攤規則；取室友留字條約好先轉房租的情境，內容為原創",
+      "tags": ["房租", "室友", "租屋日常", "日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "到期日：這個月12號\n房租：你那一半先轉過去\n水電：跟上次一樣平分\n晚餐：已經煮好,別再訂\n窗邊：剝花生,邊等你回訊息",
+          "editorNote": "給室友留字條提醒先轉房租、邊剝花生邊等對方回覆的人",
+          "variations": [
+            "短版：我在窗邊剝花生等你轉帳截圖。",
+            "延伸版：水電照舊平分,晚餐別訂,我已經煮了。"
+          ]
+        },
+        "en": {
+          "content": "Due date: the 12th this month\nRent: send your half over first\nUtilities: split the same as last time\nDinner: already cooked, don't order\nBy the window: shelling peanuts, waiting for your reply",
+          "editorNote": "For a roommate's note reminding the other to transfer rent while shelling peanuts and waiting",
+          "variations": [
+            "Short: I'm shelling peanuts by the window, waiting for your transfer screenshot.",
+            "Extended: Utilities split as usual, don't order dinner, I already cooked."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-488",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.legis-pedia.com/article/housing-land-neighbors/1505",
+      "sourceNote": "legis-pedia文章說明租約到期後續約或變成不定期租賃的規定；取房東留話詢問續租或退租的情境，內容為原創",
+      "tags": ["租約", "續約", "押金", "房東"],
+      "i18n": {
+        "zh-tw": {
+          "content": "還剩幾天：47天\n續約：要還是退租,留言跟我說一聲\n押金：收据先別丟,對帳要用\n新房客：已經來看過三次房子了\n下週：有空再敲個時間碰面",
+          "editorNote": "給房東在租約到期前留話詢問續租或退租打算的人",
+          "variations": [
+            "短版：還剩47天,續租或搬都提前說。",
+            "延伸版：押金收据先留著,退租對帳要用上。"
+          ]
+        },
+        "en": {
+          "content": "Days left: 47\nRenewal: renew or move out, leave me a voicemail\nDeposit: keep the receipt, we'll need it to settle up\nNew tenant: already toured the place three times\nNext week: let's set a time to meet if you're free",
+          "editorNote": "For a landlord's voicemail before the lease ends, asking whether the tenant will renew",
+          "variations": [
+            "Short: 47 days left, let me know either way, renew or move.",
+            "Extended: Keep the deposit receipt, we'll need it to settle accounts."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-489",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://laws.gov.taipei/law/LawSearch/LawRelateInterpretation/FL003831?no=10",
+      "sourceNote": "台北市法規查詢系統關於公寓管線維修責任歸屬的解釋；取房東在大門張貼停水公告的情境，內容為原創",
+      "tags": ["停水", "公告", "管線", "租屋日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "公告：張貼在大門\n停水：明天早上9點到11點\n管線：接頭老舊,順便換掉\n鄰居：阿姨在門口剝花生,說也看到公告\n水桶：先裝滿備用",
+          "editorNote": "給看到大門公告、跟鄰居一起討論明天停水的租屋族",
+          "variations": [
+            "短版：明早9到11點停水,水桶先裝滿。",
+            "延伸版：鄰居在門口剝花生,也看到了公告。"
+          ]
+        },
+        "en": {
+          "content": "Notice: taped to the front door\nNo water: tomorrow 9 to 11 in the morning\nPipes: fitting's old, might as well swap it\nNeighbor: shelling peanuts by the door, says she read it too\nBucket: fill it first, just in case",
+          "editorNote": "For renters reading the door notice and chatting with a neighbor about tomorrow's water shutoff",
+          "variations": [
+            "Short: No water tomorrow 9 to 11, fill a bucket first.",
+            "Extended: A neighbor shelling peanuts by the door saw the notice too."
+          ]
+        }
+      }
+    },
+    {
+      "id": "rq-490",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.housefeel.com.tw/article/%E7%A7%9F%E5%B1%8B%E9%80%80%E7%A7%9F-%E6%89%A3%E6%8A%BC%E9%87%91-%E6%88%BF%E6%9D%B1-%E6%88%BF%E5%AE%A2-%E6%90%AC%E5%AE%B6-%E8%A7%A3%E7%B4%84-%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/",
+      "sourceNote": "housefeel文章說明退租點交時扣押金與屋況檢查流程；取退租當天抄電表、補牆面釘孔的情境，內容為原創",
+      "tags": ["退租", "鑰匙", "搬家", "房東"],
+      "i18n": {
+        "zh-tw": {
+          "content": "退租日：下週五\n要帶：身分證、存摺、備用鑰匙\n電表水表：房東會先抄數字\n牆面：釘孔補土,油漆顏色對一下\n鑰匙：放進信箱,傳訊息跟他說一聲",
+          "editorNote": "給退租當天跟房東一起點交、補牆面釘孔的租屋族",
+          "variations": [
+            "短版：鑰匙放信箱,傳訊息說一聲就好。",
+            "延伸版：牆上釘孔補土,油漆顏色記得對一下。"
+          ]
+        },
+        "en": {
+          "content": "Move-out date: next Friday\nBring: ID, passbook, spare key\nMeters: landlord reads the electric and water numbers\nWall: patch the nail holes, match the paint color\nKey: drop it in the mailbox and text him",
+          "editorNote": "For renters handling the move-out handover with the landlord and patching wall nail holes",
+          "variations": [
+            "Short: Drop the key in the mailbox and send a text.",
+            "Extended: Patch the nail holes and match the paint color."
+          ]
+        }
+      }
     }
   ]
 }

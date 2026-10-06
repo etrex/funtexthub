@@ -15649,6 +15649,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "mq-577",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://outpost.cmoney.tw/notes/note-detail.aspx?nid=25698",
+      "sourceNote": "原創角度：參考「好的開始是成功的一半」類語錄，改寫成退稿後開始剪紙花紀錄投稿次數的物件變化，不直接講心情。",
+      "tags": ["勵志", "累積", "習慣", "心態"],
+      "i18n": {
+        "zh-tw": {
+          "content": "書桌上那個玻璃罐，第一朵剪紙花皺巴巴地躲在罐底，是被退稿五次那晚剪的。罐子裡堆到第四十三朵，花瓣已經剪得又細又勻。玻璃罐沒換過位置，換的只是罐裡的數量跟手感。",
+          "editorNote": "給投稿或申請被拒很多次的人，比起數字，罐子裡的花本身就是最老實的紀錄。",
+          "variations": [
+            "短版：罐子裡的花，比退稿信誠實。",
+            "延伸版：數量變了，位置從沒變過。"
+          ]
+        },
+        "en": {
+          "content": "The jar on the desk still holds that first wrinkled paper flower at the bottom, folded the night a fifth rejection came in. Forty-three more sit stacked above it now, each fold thinner and steadier than the last. The jar never left its spot on the desk — only what's inside kept changing.",
+          "editorNote": "For anyone who's been rejected more times than they want to count: the jar doesn't need a number, it just keeps the flowers.",
+          "variations": [
+            "Short version: the jar is more honest than the rejection letters.",
+            "Extended: the count changed, the spot on the desk never did."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-578",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://edh.tw/articles/mf6xEVg",
+      "sourceNote": "原創角度：參考「用微小行動養成習慣、不給大腦壓力」的建議，改寫成朋友看到剪紙花罐子時的對話，用提問取代說教。",
+      "tags": ["勵志", "對話", "累積", "行動力"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這罐剪紙花是你自己剪的？」\n「對，從被退稿那年開始剪的。」\n「罐子裡怎麼只有一半是新的？」\n「舊的捨不得丟，新的捨不得停。」\n「那最皺的那朵呢？」\n「還留在罐底，我故意沒拿出來。」",
+          "editorNote": "給身邊的人注意到你偷偷堅持的事，用提問代替下結論的那種關心。",
+          "variations": [
+            "短版：半罐新的，半罐捨不得丟。",
+            "延伸版：最皺的那朵，故意留著不拿。"
+          ]
+        },
+        "en": {
+          "content": "\"Did you fold all these paper flowers yourself?\"\n\"Yeah, started the year I got rejected.\"\n\"Why's only half the jar new ones?\"\n\"Can't bring myself to toss the old, can't stop making new ones either.\"\n\"What about the most wrinkled one?\"\n\"Still at the bottom. I leave it there on purpose.\"",
+          "editorNote": "For when someone notices the thing you've been quietly keeping and asks about it instead of assuming.",
+          "variations": [
+            "Short version: half new, half too precious to toss.",
+            "Extended: the most wrinkled one stays, on purpose."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-579",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://vocus.cc/article/65e31caafd89780001e998ff",
+      "sourceNote": "原創角度：參考「目標拆小、先求開始」的習慣養成觀念，改寫成教室後門那張剪壞的剪紙花，從轉學到畢業沒人補過的痕跡變化。",
+      "tags": ["勵志", "成長", "習慣", "痕跡"],
+      "i18n": {
+        "zh-tw": {
+          "content": "教室後門貼的那張剪紙花，是轉學那天手抖剪壞的，邊角少了一截。畢業典禮那天撕下來收進書包，花瓣仍是那個缺角，沒人補過。缺角那邊被摸得比其他地方亮，其他同學以為那是故意剪的。",
+          "editorNote": "給身上留著舊痕跡，卻從沒想過要補好的人，痕跡本身可能比完整更耐看。",
+          "variations": [
+            "短版：缺角沒補，摸得比別處亮。",
+            "延伸版：畢業那天，痕跡還在原地。"
+          ]
+        },
+        "en": {
+          "content": "The paper flower taped to the classroom's back door got its torn edge the day hands shook through transfer week. Graduation day, it came down and went into a backpack, same torn edge, never patched. The torn spot stayed shinier than the rest, worn smooth by everyone who assumed it was cut that way on purpose.",
+          "editorNote": "For anyone carrying an old flaw they never got around to fixing: the flaw might be the part that lasts.",
+          "variations": [
+            "Short version: never patched, worn shinier than the rest.",
+            "Extended: graduation day, the flaw was still right there."
+          ]
+        }
+      }
+    },
+    {
+      "id": "mq-580",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.smart.businessweekly.com.tw/Reading/IndepArticle.aspx?ID=37185",
+      "sourceNote": "原創角度：參考「目標拆成每天小步驟」的存錢習慣建議，改寫成存錢筒從空響到搖不動的五個階段清單。",
+      "tags": ["勵志", "存錢", "習慣", "累積"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 存錢筒第一次搖只聽到硬幣敲壁的空響\n— 搖到第十週開始聽到紙鈔悶悶的聲音\n— 滿到蓋子卡不住那天拿去銀行數\n— 總數比記帳本上估的少了兩百塊\n— 存錢筒洗乾淨放回書架重新開始裝",
+          "editorNote": "給存錢總覺得進度很慢的人，用五個階段的聲音變化取代數字本身。",
+          "variations": [
+            "短版：空響到悶響，就是進度。",
+            "延伸版：數完又洗乾淨，重新開始裝。"
+          ]
+        },
+        "en": {
+          "content": "— The first shake just rattles coins against empty tin.\n— By week ten it thuds with the muffled weight of bills.\n— The lid won't close anymore, so it's bank-counting day.\n— The total comes up two hundred short of the ledger's guess.\n— Rinsed clean, back on the shelf, and the counting starts again.",
+          "editorNote": "For anyone who feels like saving money barely moves: five stages of sound instead of a running total.",
+          "variations": [
+            "Short version: from rattle to thud, that's the progress.",
+            "Extended: counted, rinsed, and refilling starts over."
+          ]
+        }
+      }
     }
   ]
 }

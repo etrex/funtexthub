@@ -16451,6 +16451,106 @@
           ]
         }
       }
+    },
+    {
+      "id": "pj-599",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://dev.to/nassiry/10-hilarious-coding-memes-that-only-developers-will-get-35mg",
+      "sourceNote": "受「本機正常、環境落差」類程式幽默啟發,改寫成建置卡住時工程師順手刻木雕的情境",
+      "tags": ["CI/CD", "debug", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 建置卡在第七十八步,他掏出小刀刻木雕\n— 木頭還是一塊方塊,螢幕還在轉圈\n— 同事問他在等什麼,他說在等奇蹟\n— 轉圈停了,錯誤訊息跳了出來\n— 木雕耳朵剛刻好,測試也剛好掛了\n— 他把木雕塞回口袋,重新按了一次建置",
+          "editorNote": "獻給建置卡住時順手摸出工具練手藝的工程師。",
+          "variations": [
+            "短版：建置卡住的空檔,他刻了一隻木雕耳朵,測試也同時掛了。",
+            "延伸版：螢幕轉圈的那段時間足夠刻出半隻木雕,錯誤訊息跳出來的速度跟轉圈停下差不多快。"
+          ]
+        },
+        "en": {
+          "content": "— The build stalls at step seventy-eight, so he pulls out a knife to carve wood\n— The wood is still a block, the screen is still spinning\n— A coworker asks what he's waiting for, he says a miracle\n— The spinner stops, an error message pops up instead\n— The wooden ear is just finished, and so is the test run\n— He pockets the carving and hits build one more time",
+          "editorNote": "For the engineer who picks up a hobby the moment the build hangs.",
+          "variations": [
+            "Short version: while the build hangs, he carves a wooden ear, and the test dies at the same time.",
+            "Extended: the screen spins long enough to carve half a wooden ear, and the error pops up about as fast as the spinning stops."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-600",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://dev.to/nassiry/10-hilarious-coding-memes-that-only-developers-will-get-35mg",
+      "sourceNote": "受「交接文件不足、變數命名隨便」類程式幽默啟發,改寫成離職交接只留一把木雕刀的情境",
+      "tags": ["Legacy Code", "交接", "工程師日常"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 離職交接清單只寫了一行:祝福你\n— 密碼本來就沒人知道放在哪\n— 新人問 x 是什麼意思,沒人答得出來\n— 茶水間多了一把沒用過的小刀\n— 他說那是上一個人要刻木雕留下來的\n— 新人決定先學會刻木雕,再學這套系統",
+          "editorNote": "給接手一套沒有文件的系統,還順便接手一把刀的新人。",
+          "variations": [
+            "短版：交接清單只有一行祝福,新人決定先學刻木雕。",
+            "延伸版：密碼沒人知道放哪,變數 x 沒人答得出來,倒是留下來的木雕小刀交代得很清楚。"
+          ]
+        },
+        "en": {
+          "content": "— The handover doc has exactly one line: good luck\n— Nobody ever knew where the password lived anyway\n— The new hire asks what x means, nobody has an answer\n— There's an unused knife sitting in the break room now\n— Someone says the last guy left it for carving wood\n— The new hire decides to learn carving first, the system later",
+          "editorNote": "For the new hire who inherits an undocumented system and a knife.",
+          "variations": [
+            "Short version: the handover doc has one line of good luck, so the new hire learns to carve wood first.",
+            "Extended: nobody knows where the password is or what x means, but the carving knife came with a clear explanation."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-601",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://interestingengineering.com/9-of-the-funniest-programmer-memes-right-now",
+      "sourceNote": "受「PM 需求臨時加碼、程式碼被迫硬塞」類程式幽默啟發,改寫成誤推正式環境的情境",
+      "tags": ["Git", "deploy", "黑色幽默"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 分支欄位寫著 main,手已經按下去了\n— 他想收回滑鼠,系統已經收到請求\n— 主管的訊息比部署還快跳出來\n— 他回一個安心的貼圖,畫面其實還在轉\n— 咖啡涼了,部署才跑到一半\n— 這次真的不是在測試環境",
+          "editorNote": "給分支欄位看錯一眼,手卻已經按下去的人。",
+          "variations": [
+            "短版：分支寫著 main,手已經按下去,部署才跑到一半。",
+            "延伸版：滑鼠想收回已經來不及,主管的訊息比部署進度跳得還快。"
+          ]
+        },
+        "en": {
+          "content": "— The branch field says main, but his hand already clicked\n— He tries to take the mouse back, the request's already in\n— His manager's message pops up faster than the deploy bar\n— He replies with a calm-looking sticker, the bar is still spinning\n— The coffee goes cold, the deploy is only halfway done\n— This time it really isn't the test environment",
+          "editorNote": "For anyone whose hand clicked before their eyes finished reading the branch name.",
+          "variations": [
+            "Short version: the branch says main, the hand already clicked, and the deploy is only halfway done.",
+            "Extended: it's too late to take the mouse back, and the manager's message beats the deploy bar to the screen."
+          ]
+        }
+      }
+    },
+    {
+      "id": "pj-602",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://interestingengineering.com/9-of-the-funniest-programmer-memes-right-now",
+      "sourceNote": "受「測試沒做足、使用者先找到關鍵錯誤」類程式幽默啟發,改寫成忘記寫 break 的無窮迴圈情境",
+      "tags": ["debug", "測試", "筆電"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 迴圈寫到第三層,break 卻忘記放進去\n— 風扇聲音比他先發現問題\n— 筆電燙到可以煎蛋,迴圈還在跑\n— 他盯著進度條,進度條好像也在盯著他\n— 強制關閉視窗的那一刻,風扇鬆了一口氣\n— 下次他決定先寫 break,再寫邏輯",
+          "editorNote": "給寫到第三層迴圈,才想起 break 放哪裡的人。",
+          "variations": [
+            "短版：迴圈忘記放 break,風扇先發現問題,筆電燙到可以煎蛋。",
+            "延伸版：進度條轉了很久,轉到他開始懷疑是進度條在觀察他,不是他在等進度條。"
+          ]
+        },
+        "en": {
+          "content": "— The loop is three levels deep, and the break never made it in\n— The fan notices the problem before he does\n— The laptop gets hot enough to fry an egg, the loop keeps going\n— He stares at the progress bar, and it seems to stare back\n— The moment he force-quits, the fan finally relaxes\n— Next time he's writing the break first, the logic after",
+          "editorNote": "For anyone who only remembers where the break goes three levels in.",
+          "variations": [
+            "Short version: the loop forgets its break, the fan notices first, the laptop gets hot enough to fry an egg.",
+            "Extended: the progress bar spins so long he starts to wonder if it's the one watching him, not the other way around."
+          ]
+        }
+      }
     }
   ]
 }
