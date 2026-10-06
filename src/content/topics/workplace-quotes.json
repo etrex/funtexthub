@@ -15702,6 +15702,114 @@
           ]
         }
       }
+    },
+    {
+      "id": "wq-552",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://gotranscript.com/public/anonymous-worker-confesses-fear-of-spreadsheet-tabs",
+      "sourceNote": "以匿名上班族對共用試算表分頁的恐懼訪談為靈感，改寫成兩人同時搶改一份報表的對話。",
+      "tags": [
+        "辦公室",
+        "同事",
+        "職場荒謬"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這份報表你存在第三分頁還是第四分頁？」\n「第四那分頁我剛砍了，數字全複製貼到第三去了。」\n「那原本的公式呢？我早上改的那三格。」\n「公式應該還在，妳用鍵盤上一步試試看。」\n「按了五次，跳回來的都是砍掉之前那個版本。」",
+          "editorNote": "適合兩個人同時搶改一份表格，卻各自以為對方在等自己的時候。",
+          "variations": [
+            "短版：表格存檔的版本，兩個人各記一半。"
+          ]
+        },
+        "en": {
+          "content": "\"Which tab did you save this report in, the third or the fourth?\"\n\"I deleted the fourth tab earlier and copied all the numbers into the third one.\"\n\"What about the original formulas, the three cells I fixed this morning?\"\n\"They should still be there, try pressing undo a few times.\"\n\"I pressed it five times and it keeps bringing back the version before the delete.\"",
+          "editorNote": "For two people editing the same spreadsheet at once, each assuming the other is waiting on them.",
+          "variations": [
+            "Short: Two people each remember half of which version got saved."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-553",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.hk01.com/sns/article/60311909",
+      "sourceNote": "以辦公室療癒解壓小物排行報導為靈感，把桌上小物換成骨牌，寫成視訊會議中的對話。",
+      "tags": [
+        "辦公室",
+        "開會",
+        "幽默自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「你又開始疊骨牌了？鏡頭都照得到。」\n「開會拖太久，疊骨牌比較不會想睡著。」\n「剛剛那一聲碰，是骨牌倒的還是你碰到鍵盤？」\n「骨牌倒的，六層全倒，滾了兩顆到隔壁同事的鏡頭前。」\n「主管應該沒聽到，他自己也在吃洋芋片。」",
+          "editorNote": "適合視訊會議拖得太久，手邊忍不住找東西打發時間的時候。",
+          "variations": [
+            "短版：骨牌倒的那一刻，剛好輪到他發言。"
+          ]
+        },
+        "en": {
+          "content": "\"You're stacking dominoes again? The camera can see all of it.\"\n\"Meetings run long, stacking dominoes keeps me from falling asleep.\"\n\"Was that thud the dominoes falling, or you hitting the keyboard?\"\n\"The dominoes, all six layers, two of them rolled into the next guy's camera shot.\"\n\"The boss probably didn't notice, he's busy eating chips too.\"",
+          "editorNote": "For when a video meeting drags on and your hands need something to do.",
+          "variations": [
+            "Short: The dominoes fell right as it was his turn to speak."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-554",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.hk01.com/sns/article/60311909",
+      "sourceNote": "延伸同一篇辦公室小物報導，改寫成教育訓練器材被挪用來打發下午時間的對話。",
+      "tags": [
+        "辦公室",
+        "同事",
+        "下班"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「上次教育訓練剩下的骨牌，你搬去哪裡放？」\n「放我座位抽屜上層，下層放的是茶包跟充電線。」\n「借我一盒，下午那場會議感覺又要拖很久。」\n「拿去，疊骨牌的時候聲音壓低一點，那組還在線上面試。」\n「知道，我會墊一塊滑鼠墊在底下。」",
+          "editorNote": "適合下午那場會議還沒開始，大家先用手邊的東西打發時間的時候。",
+          "variations": [
+            "短版：教育訓練剩下的骨牌，變成下午打發時間的工具。"
+          ]
+        },
+        "en": {
+          "content": "\"Where'd you put the dominoes left over from training?\"\n\"Top drawer at my desk, the bottom one's just tea bags and charging cables.\"\n\"Lend me a box, this afternoon's meeting feels like it'll drag on again.\"\n\"Here, just keep the stacking quiet, that team still has a video interview going.\"\n\"Got it, I'll put a mouse pad underneath to muffle it.\"",
+          "editorNote": "For the gap before an afternoon meeting starts, when everyone kills time with whatever's on hand.",
+          "variations": [
+            "Short: Leftover training dominoes turned into an afternoon time-killer."
+          ]
+        }
+      }
+    },
+    {
+      "id": "wq-555",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://www.marieclaire.co.uk/life/work/worst-reply-all-email-fails-295083",
+      "sourceNote": "以知名「reply all 誤發全員」職場糗事整理報導為靈感，改寫成同名同事信箱搞混的對話。",
+      "tags": [
+        "辦公室",
+        "同事",
+        "幽默自嘲"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "「這是我第一次被加進那個全公司的群組，哪裡弄錯了嗎？」\n「你名字跟另一個同名同事搞混了，不是系統設定跑掉。」\n「第二次被加進去，我以為對方發現了，結果還是同一個原因。」\n「第三次我幫你跟系統部說了，他們說信箱規則要重新建一次。」\n「結果昨天又收到一封，主旨是尾牙座位表。」",
+          "editorNote": "適合發現自己又被加進一個不相關的群組，想弄清楚到底哪裡出錯的時候。",
+          "variations": [
+            "短版：同名同事的信箱，被搞混了三次還沒修好。"
+          ]
+        },
+        "en": {
+          "content": "\"This is the first time I got added to that company-wide group, is something set up wrong?\"\n\"Your name just got mixed up with another coworker who shares it, not a setting issue.\"\n\"The second time I got added, I figured someone noticed, but it was the same mix-up.\"\n\"The third time, I told IT, and they said the mailbox rule needs to be rebuilt.\"\n\"And yesterday another one showed up anyway, subject line: banquet seating chart.\"",
+          "editorNote": "For the moment you realize you've been added to another unrelated group chat and want to know why.",
+          "variations": [
+            "Short: The same-name mix-up has happened three times and still isn't fixed."
+          ]
+        }
+      }
     }
   ]
 }
