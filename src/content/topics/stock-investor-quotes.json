@@ -12547,6 +12547,126 @@
           ]
         }
       }
+    },
+    {
+      "id": "siq-415",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://ec.ltn.com.tw/article/breakingnews/5463953",
+      "sourceNote": "參考報導中融資維持率跌破130%觸發追繳、未補足T+3斷頭的機制，改寫成居家場景，追繳簡訊配兒子疊骨牌",
+      "tags": [
+        "融資追繳",
+        "維持率",
+        "骨牌",
+        "門檻"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "追繳通知：早上九點那封簡訊，字不長。\n維持率：掉到一二八，離門檻只剩兩個百分點。\n要補的錢：五位數，提款卡裡沒有那麼多。\n兒子在客廳疊骨牌，疊到第十二張整排倒下。\n我把簡訊重看一次，數字還是那個數字。",
+          "editorNote": "寫給收到追繳簡訊、還在算自己能補多少的人",
+          "variations": [
+            "短版：追繳簡訊來的那天，骨牌剛好倒了一排。",
+            "延伸版：維持率跟骨牌一樣，少一點支撐就整排倒下。"
+          ]
+        },
+        "en": {
+          "content": "Margin call notice: the text at nine a.m., short and plain.\nMaintenance ratio: down to 128, two points from the threshold.\nAmount to cover: five figures, more than what's sitting in my debit account.\nMy son is stacking domino tiles in the living room, and the twelfth one sends the whole row down.\nI read the text again, and the number hasn't moved.",
+          "editorNote": "For anyone staring at a margin call text, doing the math on what's left to cover",
+          "variations": [
+            "Short: The margin call text landed the same minute the domino row fell.",
+            "Longer: A maintenance ratio and a row of dominoes both need just one less support to go down."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-416",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://stacker.com/stories/personal-finance-investing/fomo-vs-fear-emotional-tug-war-driving-retail-decisions",
+      "sourceNote": "參考報導中45%投資人會主動安排「市場休息」保護心理健康的統計，改寫成便條暫停看盤＋骨牌盒沒打開的居家場景",
+      "tags": [
+        "休盤心情",
+        "骨牌",
+        "暫停看盤",
+        "便條"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 便條紙貼在螢幕邊框，字只有四個：這週不看\n— 骨牌盒攤在桌上，上次疊骨牌是上個月\n— 沒看盤的第三天，肩膀先放鬆下來\n— 朋友傳來大盤新聞連結，我沒點開\n— 便條邊角翹了一截，我還是沒撕下來",
+          "editorNote": "寫給連續幾天刻意不開大盤、想先喘口氣的人",
+          "variations": [
+            "短版：便條只寫三個字，骨牌盒反而先打開又合上。",
+            "延伸版：不看盤的那幾天，骨牌盒開了又關，沒真的拿出來疊。"
+          ]
+        },
+        "en": {
+          "content": "— A sticky note on the monitor's edge, four words: don't look this week\n— The domino box sits open on the table, last stacked a month ago\n— Day three without checking the market, and my shoulders finally drop\n— A friend sends a market news link, I don't tap it open\n— One corner of the note has curled up, and I still haven't peeled it off",
+          "editorNote": "For anyone who's deliberately skipped checking the market for a few days straight",
+          "variations": [
+            "Short: The note has three words, and the domino box opens, then closes again, unstacked.",
+            "Longer: During the days of not checking, the domino box got opened and shut without ever being stacked."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-417",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://money.udn.com/money/story/5607/9244383",
+      "sourceNote": "參考報導中融資餘額創17年半高峰、展延次數有上限的機制，改寫成到期日通知配疊骨牌的場景",
+      "tags": [
+        "融資展延",
+        "斷頭",
+        "骨牌",
+        "到期日"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "到期日：三天後，營業員在電話裡說得很平靜。\n展延：已經用過一次，這次額滿。\n要處理的事：賣掉一半，先保住另一半。\n弟弟在旁邊疊骨牌，疊到一半問我要不要陪他賭輸贏。\n我說好，但手機還開著那個紅色畫面。",
+          "editorNote": "寫給融資展延額度用完、只能自己想辦法的人",
+          "variations": [
+            "短版：展延用完的那天，弟弟剛好疊倒了一整排骨牌。",
+            "延伸版：額滿跟倒牌是同一種感覺，只是一個有聲音，一個沒有。"
+          ]
+        },
+        "en": {
+          "content": "Due date: three days from now, the broker says it calmly on the phone.\nExtension: already used once, none left this time.\nWhat needs handling: sell half, to protect the other half.\nMy little brother is stacking domino tiles beside me, and mid-stack he asks if I want to bet on who wins.\nI say sure, but my phone is still open to that red screen.",
+          "editorNote": "For anyone who's used up their margin extension and has to figure the rest out alone",
+          "variations": [
+            "Short: The day the extension ran out, my brother's whole row of dominoes happened to fall.",
+            "Longer: Running out of room and a row of dominoes falling feel the same, except one makes a sound and the other doesn't."
+          ]
+        }
+      }
+    },
+    {
+      "id": "siq-418",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://marketwise.com/research-center/2026-investor-sentiment-report-how-emotions-are-driving-investment-decisions/",
+      "sourceNote": "參考報導中「超過一半年輕投資人每天為投資心煩」的焦慮統計，改寫成重複轉傳同一篇報導又忘記的備忘錄場景",
+      "tags": [
+        "投資焦慮",
+        "轉傳",
+        "備忘錄",
+        "年輕人"
+      ],
+      "i18n": {
+        "zh-tw": {
+          "content": "標題：別再轉傳了，三個字我自己標的。\n日期：三個月前，字跡還很用力。\n內容：那篇報導說，半數年輕人天天為投資心煩。\n今天又把同一篇轉寄一次，手指按下去才想起備忘錄裡早就存著。\n骨牌盒放在手機旁邊，蓋子沒關上，沒人碰過。",
+          "editorNote": "寫給發現自己把同一篇報導轉傳第二次的人",
+          "variations": [
+            "短版：備忘錄比我記得更清楚，同一篇轉傳過兩次。",
+            "延伸版：日期沒變、心情沒變，連要轉傳的衝動都沒變。"
+          ]
+        },
+        "en": {
+          "content": "Title: stop forwarding this, three words I labeled myself.\nDate: three months ago, the handwriting still pressed hard.\nContent: that article said half of young people worry about investing every single day.\nToday I forward the same article again, and only after tapping send do I remember it's already saved in my notes.\nThe domino box sits by my phone, lid open, untouched by anyone.",
+          "editorNote": "For anyone who catches themselves forwarding the exact same article a second time",
+          "variations": [
+            "Short: My notes remember better than I do -- forwarded the same article twice.",
+            "Longer: The date hasn't changed, the mood hasn't changed, not even the urge to forward it again."
+          ]
+        }
+      }
     }
   ]
 }

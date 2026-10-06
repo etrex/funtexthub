@@ -13647,6 +13647,82 @@
           "variations": ["Short: The handover log just says to leave the smiley face as it is.", "Longer: The one with the doodled heart is still sitting in the warehouse corner."]
         }
       }
+    },
+    {
+      "id": "svc-500",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://blog.104.com.tw/2026-service-talent-report/",
+      "sourceNote": "104人力銀行2026服務業人才報告，改寫成髮廊、早餐店、成衣店三個互不相關的服務業切面。",
+      "tags": ["美髮店", "早餐店", "成衣店", "服務業"],
+      "i18n": {
+        "zh-tw": {
+          "content": "美髮店新來的助理把頭髮綁馬尾，圍裙口袋插著一把沾了染劑的扁梳。早餐店的阿姨把瓦斯爐轉到最小火，蛋餅鍋緣還留著早上的油漬。成衣店試衣間外，店員正幫客人把裙擺上的別針一顆一顆拆下來。",
+          "editorNote": "三個互不相關的服務業切面，髮廊、早餐店、成衣店各自專心做自己的事，不解釋也不互相呼應。",
+          "variations": ["短版：美髮店新來的助理把頭髮綁馬尾，準備開始忙碌的一天。", "延伸版：成衣店店員正幫客人把裙擺上的別針一顆一顆拆下來。"]
+        },
+        "en": {
+          "content": "The new assistant at the hair salon ties her hair into a ponytail, a comb still smudged with dye tucked in her apron pocket. At the breakfast shop, the auntie turns the gas stove down to its lowest flame, the edge of the egg-crepe pan still carrying this morning's grease. Outside a fitting room at the clothing store, the clerk picks the safety pins off a customer's hem one by one.",
+          "editorNote": "Three unrelated service-industry glimpses -- salon, breakfast shop, clothing store -- each absorbed in its own task, with no explanation or echo between them.",
+          "variations": ["Short: The new salon assistant ties her hair into a ponytail, ready for a busy day ahead.", "Longer: The clothing store clerk picks the safety pins off a customer's hem one by one."]
+        }
+      }
+    },
+    {
+      "id": "svc-501",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://blog.104.com.tw/2026-service-talent-report/",
+      "sourceNote": "104人力銀行2026服務業人才報告，改寫成三個不同服務現場顧客要求的對白切面。",
+      "tags": ["對白", "客人", "服務業", "試衣間"],
+      "i18n": {
+        "zh-tw": {
+          "content": "「頭皮有點癢，刷子可以換支軟一點的嗎？」\n「吐司邊要留著，我媽說拿去餵魚。」\n「這件腰圍剛好，只是袖子再短一公分就好了。」",
+          "editorNote": "三句各自來自不同服務現場的要求，誰也沒回答誰，湊在一起只是碰巧同一天發生。",
+          "variations": ["短版：「頭皮有點癢，刷子可以換支軟一點的嗎？」", "延伸版：「這件腰圍剛好，只是袖子再短一公分就好了。」"]
+        },
+        "en": {
+          "content": "\"My scalp's a little itchy -- could you switch to a softer brush?\"\n\"Keep the crusts, my mom feeds them to the fish.\"\n\"The waist fits fine, the sleeves just need to come in an inch.\"",
+          "editorNote": "Three requests from three different service counters, none answering the others -- they just happen to land on the same day.",
+          "variations": ["Short: \"My scalp's a little itchy -- could you switch to a softer brush?\"", "Longer: \"The waist fits fine, the sleeves just need to come in an inch.\""]
+        }
+      }
+    },
+    {
+      "id": "svc-502",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://blog.104.com.tw/2026-service-talent-report/",
+      "sourceNote": "104人力銀行2026服務業人才報告，改寫成五個服務業現場小動作並列的清單切面。",
+      "tags": ["清單", "美甲店", "麵包店", "外送"],
+      "i18n": {
+        "zh-tw": {
+          "content": "— 髮廊助理綁馬尾清掃地上碎髮\n— 美甲店指甲油瓶排成一整排\n— 麵包店烤盤卡著半片吐司邊\n— 眼鏡行玻璃櫃擦出新的指痕\n— 外送保溫箱貼紙換成新店徽",
+          "editorNote": "五個服務業現場的小動作並列，誰也不解釋誰，湊成一份隨手記下的清單。",
+          "variations": ["短版：髮廊助理綁馬尾，順手清掃地上的碎髮。", "延伸版：外送保溫箱貼紙換成新店徽，誰也沒多問一句。"]
+        },
+        "en": {
+          "content": "— The salon assistant ties her hair in a ponytail and sweeps up the clipped strands.\n— A row of nail polish bottles lines up at the nail salon.\n— A half-eaten slice of toast crust is stuck in the bakery's oven tray.\n— The optical shop's glass counter gets fresh fingerprints wiped off.\n— The delivery rider's insulated box gets a new shop sticker.",
+          "editorNote": "Five small service-industry actions listed side by side, none explaining the others -- just a list jotted down in passing.",
+          "variations": ["Short: The salon assistant ties her hair in a ponytail and sweeps up the clipped strands.", "Longer: The delivery rider's insulated box gets a new shop sticker, no one asking twice."]
+        }
+      }
+    },
+    {
+      "id": "svc-503",
+      "dateAdded": "2026-10-05",
+      "sourceUrl": "https://blog.104.com.tw/2026-service-talent-report/",
+      "sourceNote": "104人力銀行2026服務業人才報告，改寫成鞋店、花店、乾洗店三個互不相關的服務業切面。",
+      "tags": ["鞋店", "花店", "乾洗店", "服務業"],
+      "i18n": {
+        "zh-tw": {
+          "content": "鞋店店員蹲在試穿椅旁，幫客人把鞋帶重新穿過鞋孔。花店老闆把剛到的一把向日葵插進桶子裡，水面還飄著幾片葉子。乾洗店的工讀生把一整排西裝外套掛回輸送軌道，標籤朝著同一個方向。",
+          "editorNote": "鞋店、花店、乾洗店三個畫面各自成立，不需要互相解釋也能讀完。",
+          "variations": ["短版：鞋店店員蹲在試穿椅旁，幫客人重新穿鞋帶。", "延伸版：乾洗店的工讀生把一整排西裝外套掛回輸送軌道。"]
+        },
+        "en": {
+          "content": "The shoe store clerk crouches by the fitting bench, re-threading a customer's laces through the eyelets. The florist sets a fresh bundle of sunflowers into a bucket, a few loose leaves still floating on the water. The dry cleaner's part-timer hangs a whole rack of suit jackets back onto the conveyor rail, every tag facing the same direction.",
+          "editorNote": "The shoe store, florist, and dry cleaner each stand on their own -- no cross-reference needed to read through.",
+          "variations": ["Short: The shoe store clerk crouches by the fitting bench, re-threading a customer's laces.", "Longer: The dry cleaner's part-timer hangs a whole rack of suit jackets back onto the conveyor rail."]
+        }
+      }
     }
   ]
 }
